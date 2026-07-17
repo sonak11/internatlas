@@ -1,0 +1,57 @@
+{
+  "schema_version": "1.0",
+  "id": "datadog-software-engineering-intern-2027",
+  "company": {
+    "name": "Datadog",
+    "slug": "datadog"
+  },
+  "role": "Software Engineering Intern",
+  "category": "software-engineering",
+  "apply_url": "https://careers.datadoghq.com/detail/6954161/?gh_jid=6954161",
+  "season": "winter",
+  "year": 2027,
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "Boston",
+      "state": "MA",
+      "country": "USA"
+    },
+    {
+      "city": "New York",
+      "state": "NY",
+      "country": "USA"
+    }
+  ],
+  "compensation": {
+    "currency": "USD",
+    "housing_stipend": false,
+    "relocation_assistance": false
+  },
+  "eligibility": {
+    "graduation_years": [],
+    "degree_levels": [],
+    "citizenship_required": false,
+    "security_clearance_required": false,
+    "visa_sponsorship": "unknown"
+  },
+  "interview": {},
+  "tech": {
+    "required_skills": [],
+    "preferred_skills": [],
+    "languages": [],
+    "frameworks": [],
+    "cloud_platforms": [],
+    "resume_keywords": []
+  },
+  "dates": {
+    "posted": "2025-08-18",
+    "discovered": "2026-07-17",
+    "last_verified": "2026-07-17"
+  },
+  "status": "open",
+  "tags": [
+    "auto-ingested",
+    "src:vanshb03"
+  ]
+}

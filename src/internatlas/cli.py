@@ -63,7 +63,7 @@ def _cmd_dedupe(args: argparse.Namespace) -> int:
 
 def _cmd_sync(args: argparse.Namespace) -> int:
     from .ingest import main
-    return main(args.root)
+    return main(args.root, only=args.only)
 
 
 def _cmd_schema(args: argparse.Namespace) -> int:
@@ -122,7 +122,9 @@ def build_parser() -> argparse.ArgumentParser:
     sub.add_parser("generate", help="Regenerate README, pages, indexes, stats, exports")
     sub.add_parser("dedupe", help="Report likely duplicate listings")
     sub.add_parser("schema", help="Export JSON Schema from the Pydantic models")
-    sub.add_parser("sync", help="Pull live intern postings from ATS sources (hourly job)")
+    p_sync = sub.add_parser("sync", help="Pull live intern postings from ATS + feed sources (hourly job)")
+    p_sync.add_argument("--only", choices=["ats", "feeds"], default=None,
+                        help="Restrict the pass to one class of source")
 
     p_link = sub.add_parser("linkcheck", help="Check apply URLs for dead links")
     p_link.add_argument("--limit", type=int, default=None)

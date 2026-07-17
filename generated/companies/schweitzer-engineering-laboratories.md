@@ -1,0 +1,13 @@
+<!-- ⚠️ AUTO-GENERATED FILE — do not edit by hand.
+     Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
+# Schweitzer Engineering Laboratories
+
+## Current openings
+
+| Company | Role | Location | Mode | Pay | Visa | Posted | Deadline | Status |
+|---|---|---|---|---|---|---|---|---|
+| Schweitzer Engineering Laboratories | [Software Engineering Intern](https://selinc.wd1.myworkdayjobs.com/SEL/job/Texas---Round-Rock/Software-Engineer-Intern_2026-21720) | Round Rock, TX | Onsite | — | ❔ | 2026-07-07 | Rolling | 🟢 Open |
+
+## Related
+
+Browse more roles in: [💻 Software Engineering](../categories/software-engineering.md)

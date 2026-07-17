@@ -2,13 +2,11 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # Oracle
 
-**Industry:** big-tech · **Size:** enterprise · **Type:** public · **Fortune 500** ✅ · [Careers page](https://www.oracle.com/careers/students-grads/)
-
 ## Current openings
 
 | Company | Role | Location | Mode | Pay | Visa | Posted | Deadline | Status |
 |---|---|---|---|---|---|---|---|---|
-| Oracle | [Software Engineering Intern](https://www.oracle.com/careers/students-grads/) | Austin, TX | Onsite | — | ❔ | 2026-07-16* | Rolling | ⚪ Unverified |
+| Oracle | [Customer Solutions Analyst Intern - Ovip](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/334388) | USA | Onsite | — | ❔ | 2026-05-21 | Rolling | 🟢 Open |
 
 ## Related
 

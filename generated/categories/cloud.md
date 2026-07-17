@@ -2,14 +2,28 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # ☁️ Cloud Internships
 
-**1** tracked · **0** open now
+**10** tracked · **10** open now
 
 ## Current openings
 
 | Company | Role | Location | Mode | Pay | Visa | Posted | Deadline | Status |
 |---|---|---|---|---|---|---|---|---|
-| [Datadog](generated/companies/datadog.md) | [Cloud / Infrastructure Intern](https://careers.datadoghq.com/) | New York, NY | Onsite | — | ❔ | 2026-07-16* | Rolling | ⚪ Unverified |
+| [Atomic Semi](generated/companies/atomic-semi.md) | [Infrastructure Software Engineering Intern](https://jobs.ashbyhq.com/AtomicSemi/867c67f7-20b5-4726-b9da-85a760d3851e/application?jr_id=69e8eecae0cd471b2f138f47) | San Francisco, CA +1 | Onsite | — | ❔ | 2026-04-22 | Rolling | 🟢 Open |
+| [Atomic Semi](generated/companies/atomic-semi.md) | [Infrastructure Software Engineering Intern](https://jobs.ashbyhq.com/atomicsemi/867c67f7-20b5-4726-b9da-85a760d3851e) | San Francisco, CA +1 | Onsite | — | ❌ | 2026-05-01 | Rolling | 🟢 Open |
+| [Etched](generated/companies/etched.md) | [Infrastructure Intern](https://jobs.ashbyhq.com/Etched/e56469e3-7398-4d83-9fe3-3f8ab1b10468) | San Jose, CA | Onsite | — | ❔ | 2026-05-22 | Rolling | 🟢 Open |
+| [Etched](generated/companies/etched.md) | [Infrastructure Intern](https://jobs.ashbyhq.com/Etched/80926a71-0a62-4bf8-a877-b6d96df279b7) | San Jose, CA | Onsite | — | ❔ | 2026-05-22 | Rolling | 🟢 Open |
+| [Etched](generated/companies/etched.md) | [Infrastructure Intern](https://jobs.ashbyhq.com/Etched/65348db2-5658-41d0-a833-af222865d979) | San Jose, CA | Onsite | — | ❔ | 2026-05-22 | Rolling | 🟢 Open |
+| [Poshmark](generated/companies/poshmark.md) | [Cloud Platform Engineer Intern, Growth](https://jobs.ashbyhq.com/poshmark/062b84e6-1633-43ae-870b-83cb62893caa) | Redwood City, CA | Onsite | — | ❌ | 2026-04-20 | Rolling | 🟢 Open |
+| [Snowflake](generated/companies/snowflake.md) | [Software Engineer Intern, Infrastructure Automation](https://careers.snowflake.com/us/en/job/SNCOUSCC3FB214186D4B439D3F15B47307A231EXTERNALENUSBBDEE8BD443C456FA4F01B363D843310/Software-Engineer-Intern-Infrastructure-Automation-Fall-2026) | Menlo Park, CA +1 | Onsite | — | ❔ | 2026-05-09 | Rolling | 🟢 Open |
+| [Tesla](generated/companies/tesla.md) | [Fullstack Engineer Intern - Fullstack Engineer - Build Infrastructure](https://www.tesla.com/careers/search/job/267005) | Palo Alto, CA | Onsite | — | ❔ | 2026-06-07 | Rolling | 🟢 Open |
+| [TikTok](generated/companies/tiktok.md) | [Software Engineer Intern - Recommendation Infrastructure](https://lifeattiktok.com/search/7534878965941766408) | San Jose, CA | Onsite | — | ❔ | 2026-05-28 | Rolling | 🟢 Open |
+| [TikTok](generated/companies/tiktok.md) | [Software Engineer Intern, Recommendation Infrastructure](https://lifeattiktok.com/referral/tiktok/campus/position/7537493362585979154/detail?token=MzsxNzU3OTM3MTgyMDE1OzczNzM0OTcwMTcxNzQxMzIyNDA7MDsy) | Seattle, WA | Onsite | — | ❔ | 2026-04-20 | Rolling | 🟢 Open |
 
 ## Hiring companies
 
-- Datadog (1)
+- Etched (3)
+- Atomic Semi (2)
+- TikTok (2)
+- Poshmark (1)
+- Snowflake (1)
+- Tesla (1)

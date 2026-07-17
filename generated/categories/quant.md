@@ -2,55 +2,109 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 📈 Quant Internships
 
-**16** tracked · **0** open now
+**66** tracked · **66** open now
 
 ## Current openings
 
 | Company | Role | Location | Mode | Pay | Visa | Posted | Deadline | Status |
 |---|---|---|---|---|---|---|---|---|
-| [Akuna Capital](generated/companies/akuna-capital.md) | [Quantitative Trading / Research Intern](https://akunacapital.com/careers) | Chicago, IL | Onsite | — | ❔ | 2026-07-16* | Rolling | ⚪ Unverified |
-| [Citadel Securities](generated/companies/citadel-securities.md) | [Quantitative Trading / Research Intern](https://www.citadelsecurities.com/careers/) | Miami, FL | Onsite | — | ❔ | 2026-07-16* | Rolling | ⚪ Unverified |
-| [D. E. Shaw](generated/companies/d-e-shaw.md) | [Quantitative Trading / Research Intern](https://www.deshaw.com/careers) | New York, NY | Onsite | — | ❔ | 2026-07-16* | Rolling | ⚪ Unverified |
-| [DRW](generated/companies/drw.md) | [Quantitative Trading / Research Intern](https://www.drw.com/work-at-drw) | Chicago, IL | Onsite | — | ❔ | 2026-07-16* | Rolling | ⚪ Unverified |
-| [Flow Traders](generated/companies/flow-traders.md) | [Quantitative Trading / Research Intern](https://www.flowtraders.com/careers) | New York, NY | Onsite | — | ❔ | 2026-07-16* | Rolling | ⚪ Unverified |
-| [Hudson River Trading](generated/companies/hudson-river-trading.md) | [Quantitative Trading / Research Intern](https://www.hudsonrivertrading.com/careers/) | New York, NY | Onsite | — | ❔ | 2026-07-16* | Rolling | ⚪ Unverified |
-| [IMC Trading](generated/companies/imc-trading.md) | [Quantitative Trading / Research Intern](https://careers.imc.com/) | Chicago, IL | Onsite | — | ❔ | 2026-07-16* | Rolling | ⚪ Unverified |
-| [Jane Street](generated/companies/jane-street.md) | [Quantitative Trading Intern](https://www.janestreet.com/join-jane-street/open-roles/) | New York, NY | Onsite | $100–125/hr | ✅ | 2026-07-16* | Rolling | ⚪ Unverified |
-| [Jump Trading](generated/companies/jump-trading.md) | [Quantitative Trading / Research Intern](https://www.jumptrading.com/careers/) | Chicago, IL | Onsite | — | ❔ | 2026-07-16* | Rolling | ⚪ Unverified |
-| [Millennium](generated/companies/millennium.md) | [Quantitative Trading / Research Intern](https://www.mlp.com/careers/) | New York, NY | Onsite | — | ❔ | 2026-07-16* | Rolling | ⚪ Unverified |
-| [Optiver](generated/companies/optiver.md) | [Quantitative Trading / Research Intern](https://optiver.com/working-at-optiver/) | Chicago, IL | Onsite | — | ❔ | 2026-07-16* | Rolling | ⚪ Unverified |
-| [Point72](generated/companies/point72.md) | [Quantitative Trading / Research Intern](https://careers.point72.com/) | Stamford, CT | Onsite | — | ❔ | 2026-07-16* | Rolling | ⚪ Unverified |
-| [SIG (Susquehanna)](generated/companies/sig-susquehanna.md) | [Quantitative Trading / Research Intern](https://careers.sig.com/) | Bala Cynwyd, PA | Onsite | — | ❔ | 2026-07-16* | Rolling | ⚪ Unverified |
-| [Tower Research Capital](generated/companies/tower-research-capital.md) | [Quantitative Trading / Research Intern](https://www.tower-research.com/) | New York, NY | Onsite | — | ❔ | 2026-07-16* | Rolling | ⚪ Unverified |
-| [Two Sigma](generated/companies/two-sigma.md) | [Quantitative Trading / Research Intern](https://careers.twosigma.com/) | New York, NY | Onsite | — | ❔ | 2026-07-16* | Rolling | ⚪ Unverified |
-| [Virtu Financial](generated/companies/virtu-financial.md) | [Quantitative Trading / Research Intern](https://www.virtu.com/careers/) | New York, NY | Onsite | — | ❔ | 2026-07-16* | Rolling | ⚪ Unverified |
+| [Akuna Capital University](generated/companies/akuna-capital-university.md) | [Quantitative Development & Strategy Intern](https://www.akunacapital.com/careers/job/8021481/?gh_jid=8021481) | Chicago, IL | Onsite | — | ❔ | 2026-07-13 | Rolling | 🟢 Open |
+| [Akuna Capital University](generated/companies/akuna-capital-university.md) | [Quantitative Research Intern](https://www.akunacapital.com/careers/job/8036614/?gh_jid=8036614) | Chicago, IL | Onsite | — | ❔ | 2026-07-13 | Rolling | 🟢 Open |
+| [AQR Capital Management](generated/companies/aqr-capital-management.md) | [Portfolio Implementation – Trading and Portfolio Finance Analyst Intern](https://careers.aqr.com/jobs?gh_jid=7895562&gh_jid=7895562) | Greenwich, CT | Onsite | — | ❔ | 2026-05-15 | Rolling | 🟢 Open |
+| [Aquatic Capital Management](generated/companies/aquatic-capital-management.md) | [Quantitative Researcher – Intern](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489186002) | London +1 | Onsite | — | ❔ | 2026-04-01 | Rolling | 🟢 Open |
+| [Arrowstreet Capital](generated/companies/arrowstreet-capital.md) | [Quantitative Researcher Intern](https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Quantitative-Researcher-Intern--Summer-2027_R1505) | Boston, MA | Onsite | — | ❔ | 2026-07-10 | Rolling | 🟢 Open |
+| [Barclays](generated/companies/barclays.md) | [Markets Quantitative Analyst Summer Internship 2027 New York](https://barclays.wd3.myworkdayjobs.com/en-US/external_career_site_barclays/job/745-7th-Avenue-New-York/Markets-Quantitative-Analyst-Summer-Internship-2027-New-York_JR-0000083408) | New York, NY | Onsite | — | ❔ | 2025-12-02 | Rolling | 🟢 Open |
+| [Blackstone](generated/companies/blackstone.md) | [Blackstone Credit and Insurance – Quant and Portfolio Analytics Summer Analyst Intern](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Campus_Careers/job/Berkeley-Square-House-London/XMLNAME-2027-Blackstone-Credit-and-Insurance--Quant-and-Portfolio-Analytics-Summer-Analyst---London-_43819) | London | Onsite | — | ❔ | 2026-07-02 | Rolling | 🟢 Open |
+| [Citadel](generated/companies/citadel.md) | [Investment & Trading Intern](https://www.citadel.com/careers/details/investment-trading-intern-europe/) | London +1 | Onsite | — | ❔ | 2026-07-13 | Rolling | 🟢 Open |
+| [Citadel](generated/companies/citadel.md) | [Quantitative Trader: Equity Quantitative Research Intern](https://www.citadel.com/careers/details/quantitative-trader-equity-quantitative-research-intern-us/) | NYC | Onsite | — | ❔ | 2026-07-07 | Rolling | 🟢 Open |
+| [Cubist Systematic Strategies](generated/companies/cubist-systematic-strategies.md) | [Quantitative Developer Intern](https://job-boards.greenhouse.io/embed/job_app?for=point72&jr_id=6a07069024dcb03739f1ec72&token=7297613002) | New York, NY | Onsite | — | ❔ | 2026-05-23 | Rolling | 🟢 Open |
+| [DRW](generated/companies/drw.md) | [Quantitative Trading Analyst Intern](https://job-boards.greenhouse.io/drweng/jobs/7957243) | London | Onsite | — | ❔ | 2026-07-13 | Rolling | 🟢 Open |
+| [Five Rings Capital](generated/companies/five-rings-capital.md) | [Quantitative Researcher Intern](https://job-boards.greenhouse.io/fiveringsllc/jobs/5349219008) | NYC | Onsite | — | ❔ | 2026-07-14 | Rolling | 🟢 Open |
+| [Five Rings Capital](generated/companies/five-rings-capital.md) | [Quantitative Trader Intern - Quantitative Trader](https://job-boards.greenhouse.io/fiveringsllc/jobs/5139668008) | NYC | Onsite | — | ❔ | 2026-07-14 | Rolling | 🟢 Open |
+| [Flow Traders](generated/companies/flow-traders.md) | [Quantitative Trading Intern](https://job-boards.greenhouse.io/flowtraders/jobs/8047166) | NYC | Onsite | — | ❔ | 2026-07-08 | Rolling | 🟢 Open |
+| [Hudson River Trading](generated/companies/hudson-river-trading.md) | [Algorithm Development Intern - Quant Research](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8059837) | NYC | Onsite | — | ❔ | 2026-07-13 | Rolling | 🟢 Open |
+| [Hudson River Trading](generated/companies/hudson-river-trading.md) | [Algorithm Development Intern - Quant Research](https://www.hudsonrivertrading.com/careers/job/?gh_jid=7964062) | NYC | Onsite | — | ❔ | 2026-07-13 | Rolling | 🟢 Open |
+| [IMC Trading](generated/companies/imc-trading.md) | [Quantitative Research Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4907400101) | Chicago, IL | Onsite | — | ❔ | 2026-07-01 | Rolling | 🟢 Open |
+| [IMC Trading](generated/companies/imc-trading.md) | [Quantitative Research Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4907399101) | Chicago, IL | Onsite | — | ❔ | 2026-07-01 | Rolling | 🟢 Open |
+| [IMC Trading](generated/companies/imc-trading.md) | [Quantitative Trader Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4823923101) | Chicago, IL | Onsite | — | ❔ | 2026-07-01 | Rolling | 🟢 Open |
+| [InfiniteQuant](generated/companies/infinitequant.md) | [Quantitative Researcher Intern](https://jobs.smartrecruiters.com/InfiniteQuant/744000129235439) | Dubai - United Arab Emirates +1 | Onsite | — | ❔ | 2026-05-29 | Rolling | 🟢 Open |
+| [Jump Trading](generated/companies/jump-trading.md) | [Campus Quantitative Researcher Intern](https://boards.greenhouse.io/embed/job_app?token=7982648) | Chicago, IL +1 | Onsite | — | ❔ | 2026-07-08 | Rolling | 🟢 Open |
+| [Jump Trading](generated/companies/jump-trading.md) | [Campus Quantitative Researcher Intern - PhD](https://boards.greenhouse.io/embed/job_app?token=8049938) | Chicago, IL +1 | Onsite | — | ❔ | 2026-07-08 | Rolling | 🟢 Open |
+| [Jump Trading](generated/companies/jump-trading.md) | [Campus Quantitative Researcher M1/M2 Intern](https://boards.greenhouse.io/embed/job_app?token=8059384) | London | Onsite | — | ❔ | 2026-07-13 | Rolling | 🟢 Open |
+| [Jump Trading](generated/companies/jump-trading.md) | [Campus Quantitative Trader Intern](https://boards.greenhouse.io/embed/job_app?token=8050772) | London | Onsite | — | ❔ | 2026-07-13 | Rolling | 🟢 Open |
+| [Jump Trading](generated/companies/jump-trading.md) | [Campus Quantitative Trader Intern](https://boards.greenhouse.io/embed/job_app?token=7848371) | Chicago, IL +1 | Onsite | — | ❔ | 2026-07-08 | Rolling | 🟢 Open |
+| [Jump Trading](generated/companies/jump-trading.md) | [Quantitative Trader Intern](https://www.jumptrading.com/hr/job?gh_jid=7848371) | Chicago, IL +1 | Onsite | — | ❔ | 2026-07-09 | Rolling | 🟢 Open |
+| [NVIDIA](generated/companies/nvidia.md) | [Quantum Research Scientist Intern](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Quantum-Research-Scientist-Intern---Fall-2026_JR2018244) | Santa Clara, CA | Onsite | — | ❔ | 2026-05-19 | Rolling | 🟢 Open |
+| [Optiver](generated/companies/optiver.md) | [Quantitative Intern](https://www.optiver.com/join-us/jobs/8402215002/?gh_jid=8402215002) | Austin, TX +1 | Onsite | — | ❔ | 2026-07-01 | Rolling | 🟢 Open |
+| [Optiver](generated/companies/optiver.md) | [Quantitative Research Intern](https://www.optiver.com/join-us/jobs/8451782002/?gh_jid=8451782002) | Austin, TX +2 | Onsite | — | ❔ | 2026-07-01 | Rolling | 🟢 Open |
+| [Optiver](generated/companies/optiver.md) | [Quantitative Research Intern](https://www.optiver.com/join-us/jobs/8451781002/?gh_jid=8451781002) | Chicago, IL | Onsite | — | ❔ | 2026-07-01 | Rolling | 🟢 Open |
+| [Optiver](generated/companies/optiver.md) | [Trading Automation and Operations Intern](https://www.optiver.com/join-us/jobs/8489582002/?gh_jid=8489582002) | Chicago, IL | Onsite | — | ❔ | 2026-07-16 | Rolling | 🟢 Open |
+| [Point72](generated/companies/point72.md) | [Quantitative Developer Intern](https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-developer-internship&jobCode=CSS-0012293) | New York, NY | Onsite | — | ❔ | 2026-04-19 | Rolling | 🟢 Open |
+| [Point72](generated/companies/point72.md) | [Quantitative Researcher Intern](https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-researcher-internship&jobCode=CSS-0012295) | New York, NY | Onsite | — | ❔ | 2026-04-19 | Rolling | 🟢 Open |
+| [Seven Research](generated/companies/seven-research.md) | [Quantitative Researcher Intern](https://job-boards.greenhouse.io/sevenresearch/jobs/4894946008) | NYC | Onsite | — | ❔ | 2026-07-01 | Rolling | 🟢 Open |
+| [Susquehanna](generated/companies/susquehanna.md) | [Trading System Engineering Intern](https://careers.sig.com/jobs/10837?lang=en-us&mode=apply&iis=LinkedIn&jr_id=69f3d11158b23a2329da8088) | Bala Cynwyd, PA | Onsite | — | ✅ | 2026-05-22 | Rolling | 🟢 Open |
+| [Susquehanna International Group (SIG)](generated/companies/susquehanna-international-group-sig.md) | [Quantitative Research Intern](https://careers-sig.icims.com/jobs/10819/job?mobile=true&needsRedirect=false) | Ardmore, PA | Onsite | — | ❔ | 2026-04-21 | Rolling | 🟢 Open |
+| [Susquehanna International Group (SIG)](generated/companies/susquehanna-international-group-sig.md) | [Quantitative Research Intern](https://careers-sig.icims.com/jobs/10820/job?mobile=true&needsRedirect=false) | Philadelphia, PA +1 | Onsite | — | ❔ | 2026-06-29 | Rolling | 🟢 Open |
+| [Susquehanna International Group (SIG)](generated/companies/susquehanna-international-group-sig.md) | [Quantitative Research Intern](https://careers-sig.icims.com/jobs/11007/job?mobile=true&needsRedirect=false) | London | Onsite | — | ❔ | 2026-07-15 | Rolling | 🟢 Open |
+| [Susquehanna International Group (SIG)](generated/companies/susquehanna-international-group-sig.md) | [Quantitative Research Intern](https://careers-sig.icims.com/jobs/10818/job?mobile=true&needsRedirect=false) | Philadelphia, PA +1 | Onsite | — | ❔ | 2026-06-29 | Rolling | 🟢 Open |
+| [Susquehanna International Group (SIG)](generated/companies/susquehanna-international-group-sig.md) | [Quantitative Research Intern - PhD: Summer 2027](https://careers-sig.icims.com/jobs/10817/job?mobile=true&needsRedirect=false) | Ardmore, PA | Onsite | — | ❔ | 2026-04-21 | Rolling | 🟢 Open |
+| [Susquehanna International Group (SIG)](generated/companies/susquehanna-international-group-sig.md) | [Quantitative Strategy Developer Intern](https://careers-sig.icims.com/jobs/11170/job?mobile=true&needsRedirect=false) | Philadelphia, PA | Onsite | — | ❔ | 2026-07-06 | Rolling | 🟢 Open |
+| [Susquehanna International Group (SIG)](generated/companies/susquehanna-international-group-sig.md) | [Quantitative Strategy Developer Intern](https://careers-sig.icims.com/jobs/10838/job?mobile=true&needsRedirect=false) | Ardmore, PA | Onsite | — | ❔ | 2026-04-23 | Rolling | 🟢 Open |
+| [Susquehanna International Group (SIG)](generated/companies/susquehanna-international-group-sig.md) | [Quantitative Systematic Trading Intern](https://careers-sig.icims.com/jobs/11006/job?mobile=true&needsRedirect=false) | London | Onsite | — | ❔ | 2026-07-15 | Rolling | 🟢 Open |
+| [Susquehanna International Group (SIG)](generated/companies/susquehanna-international-group-sig.md) | [Quantitative Systematic Trading Intern](https://careers-sig.icims.com/jobs/10824/job?mobile=true&needsRedirect=false) | Philadelphia, PA +1 | Onsite | — | ❔ | 2026-06-29 | Rolling | 🟢 Open |
+| [Susquehanna International Group (SIG)](generated/companies/susquehanna-international-group-sig.md) | [Quantitative Systematic Trading Intern](https://careers-sig.icims.com/jobs/10821/job?mobile=true&needsRedirect=false) | Ardmore, PA | Onsite | — | ❔ | 2026-04-21 | Rolling | 🟢 Open |
+| [Susquehanna International Group (SIG)](generated/companies/susquehanna-international-group-sig.md) | [Quantitative Systematic Trading Intern - Master's: Summer 2027](https://careers-sig.icims.com/jobs/10823/job?mobile=true&needsRedirect=false) | Ardmore, PA | Onsite | — | ❔ | 2026-04-21 | Rolling | 🟢 Open |
+| [Susquehanna International Group (SIG)](generated/companies/susquehanna-international-group-sig.md) | [Quantitative Systematic Trading Intern - PhD](https://careers-sig.icims.com/jobs/10822/job?mobile=true&needsRedirect=false) | Philadelphia, PA +1 | Onsite | — | ❔ | 2026-06-29 | Rolling | 🟢 Open |
+| [Susquehanna International Group (SIG)](generated/companies/susquehanna-international-group-sig.md) | [Quantitative Trader Intern](https://careers-sig.icims.com/jobs/10849/job?mobile=true&needsRedirect=false) | Chicago, IL | Onsite | — | ❔ | 2026-06-30 | Rolling | 🟢 Open |
+| [Susquehanna International Group (SIG)](generated/companies/susquehanna-international-group-sig.md) | [Quantitative Trader Intern](https://careers-sig.icims.com/jobs/10718/job?mobile=true&needsRedirect=false) | NYC | Onsite | — | ❔ | 2026-06-30 | Rolling | 🟢 Open |
+| [Susquehanna International Group (SIG)](generated/companies/susquehanna-international-group-sig.md) | [Quantitative Trader Intern](https://careers-sig.icims.com/jobs/10717/job?mobile=true&needsRedirect=false) | Ardmore, PA | Onsite | — | ❔ | 2026-04-17 | Rolling | 🟢 Open |
+| [Susquehanna International Group (SIG)](generated/companies/susquehanna-international-group-sig.md) | [Quantitative Trading Internship](https://careers-sig.icims.com/jobs/11005/job?mobile=true&needsRedirect=false) | London | Onsite | — | ❔ | 2026-07-15 | Rolling | 🟢 Open |
+| [Susquehanna International Group (SIG)](generated/companies/susquehanna-international-group-sig.md) | [Trading System Engineering Intern](https://careers-sig.icims.com/jobs/10837/job?mobile=true&needsRedirect=false) | Ardmore, PA | Onsite | — | ❔ | 2026-04-23 | Rolling | 🟢 Open |
+| [Susquehanna Investment Group](generated/companies/susquehanna-investment-group.md) | [Quantitative Strategy Developer Intern](https://careers.sig.com/intern-co-op-technology/jobs/10838?lang=en-us) | Bala Cynwyd, PA | Onsite | — | ❔ | 2026-07-07 | Rolling | 🟢 Open |
+| [Tower Research Capital](generated/companies/tower-research-capital.md) | [Quantitative Developer Intern](https://www.tower-research.com/open-positions/?gh_jid=8044334) | Chicago, IL +2 | Onsite | — | ❔ | 2026-07-05 | Rolling | 🟢 Open |
+| [Tower Research Capital](generated/companies/tower-research-capital.md) | [Quantitative Trader Intern](https://www.tower-research.com/open-positions/?gh_jid=8024128) | Chicago, IL +1 | Onsite | — | ❔ | 2026-07-05 | Rolling | 🟢 Open |
+| [TransMarket Group](generated/companies/transmarket-group.md) | [Quantitative Trader Intern](https://job-boards.greenhouse.io/transmarketgroup/jobs/5151569007?gh_jid=5151569007) | Chicago, IL | Onsite | — | ❔ | 2026-06-02 | Rolling | 🟢 Open |
+| [Virtu Financial](generated/companies/virtu-financial.md) | [Quantitative Research Intern - Quant Research - Undergrad](https://job-boards.greenhouse.io/virtu/jobs/8142539002) | NYC | Onsite | — | ❔ | 2026-06-26 | Rolling | 🟢 Open |
+| [Voloridge](generated/companies/voloridge.md) | [Quantitative Developer Intern](https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4224862009) | Jupiter, FL | Onsite | — | ❔ | 2026-07-14 | Rolling | 🟢 Open |
+| [Voloridge](generated/companies/voloridge.md) | [Quantitative Research Intern](https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4226247009) | Jupiter, FL | Onsite | — | ❔ | 2026-07-14 | Rolling | 🟢 Open |
+| [Voloridge Investment Management](generated/companies/voloridge-investment-management.md) | [Quantitative Developer Intern](https://voloridge-investment-management.hiringthing.com/job/1013126/quantitative-developer-intern-2027?s=lif&jr_id=69eaa8e4dc35f7132c4ab803) | Jupiter, FL | Onsite | — | ❔ | 2026-05-23 | Rolling | 🟢 Open |
+| [Walleye Capital](generated/companies/walleye-capital.md) | [Central Equity Quant Research Intern - Ceqr](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4676069006) | NYC | Onsite | — | ❔ | 2026-06-10 | Rolling | 🟢 Open |
+| [Walleye Capital](generated/companies/walleye-capital.md) | [Equity Volatility Quant Researcher Intern](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4676334006) | Miami, FL | Onsite | — | ❔ | 2026-06-10 | Rolling | 🟢 Open |
+| [Walleye Capital](generated/companies/walleye-capital.md) | [PhD Quantitative Researcher Intern](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679184006) | Boston, MA | Onsite | — | ❔ | 2026-06-10 | Rolling | 🟢 Open |
+| [Walleye Capital](generated/companies/walleye-capital.md) | [Quantic – Quantitative Researcher Intern](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679173006) | Boston, MA | Onsite | — | ❔ | 2026-06-10 | Rolling | 🟢 Open |
+| [Walleye Capital](generated/companies/walleye-capital.md) | [Quantitative Developer Intern](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679168006) | Boston, MA | Onsite | — | ❔ | 2026-06-10 | Rolling | 🟢 Open |
+| [Walleye Capital](generated/companies/walleye-capital.md) | [Volatility Trading Developer Intern](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679434006) | NYC | Onsite | — | ❔ | 2026-06-10 | Rolling | 🟢 Open |
 
 ## Hiring companies
 
-- Akuna Capital (1)
-- Citadel Securities (1)
-- D. E. Shaw (1)
+- Susquehanna International Group (SIG) (17)
+- Jump Trading (6)
+- Walleye Capital (6)
+- Optiver (4)
+- IMC Trading (3)
+- Akuna Capital University (2)
+- Citadel (2)
+- Five Rings Capital (2)
+- Hudson River Trading (2)
+- Point72 (2)
+- Tower Research Capital (2)
+- Voloridge (2)
+- AQR Capital Management (1)
+- Aquatic Capital Management (1)
+- Arrowstreet Capital (1)
+- Barclays (1)
+- Blackstone (1)
+- Cubist Systematic Strategies (1)
 - DRW (1)
 - Flow Traders (1)
-- Hudson River Trading (1)
-- IMC Trading (1)
-- Jane Street (1)
-- Jump Trading (1)
-- Millennium (1)
-- Optiver (1)
-- Point72 (1)
-- SIG (Susquehanna) (1)
-- Tower Research Capital (1)
-- Two Sigma (1)
+- InfiniteQuant (1)
+- NVIDIA (1)
+- Seven Research (1)
+- Susquehanna (1)
+- Susquehanna Investment Group (1)
+- TransMarket Group (1)
 - Virtu Financial (1)
-
-## Salary snapshot
-
-- Average: **$112.50/hr** · Median: **$112.50/hr** (from 1 listings reporting pay)
-
-## Most requested languages
-
-Python (1), OCaml (1)
+- Voloridge Investment Management (1)
 
 ## Tips
 

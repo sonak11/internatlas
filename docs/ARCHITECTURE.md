@@ -35,11 +35,25 @@ GitHub Actions is the compute layer; generated Markdown is the read-optimized vi
 ## Hourly sync
 
 `internatlas sync` (run by `.github/workflows/hourly-sync.yml`, cron `7 * * * *`)
-pulls live intern postings from the public Greenhouse/Lever APIs of companies
-declared in `automation/sources.yaml`. New postings become `open` listings tagged
-`auto-ingested`; vanished postings flip to `closed`. Hand-curated files are never
-modified by the sync — human enrichment (pay, eligibility, interview data) is
-preserved across runs.
+pulls live intern postings from two kinds of source declared in
+`automation/sources.yaml`:
+
+1. **Company ATS boards** — the public, keyless Greenhouse / Lever / **Ashby**
+   JSON APIs (primary source; each listing links straight to the live posting).
+2. **Community feeds** — structured `listings.json` files published by
+   community internship repos, for employers whose ATS has no public API. Each
+   feed listing is tagged `src:<label>` and the feed is credited in the README
+   and `SOURCES.md`.
+
+All candidates from every source flow through `reconcile_batch`, which collapses
+the same posting arriving from multiple sources (same canonical apply URL →
+merged; genuinely distinct postings that would collide on `id` get a stable
+URL-hash suffix). New postings become `open` listings tagged `auto-ingested`;
+postings that vanish upstream (ATS) or are flagged inactive (feeds) flip to
+`closed`. The pass is idempotent and byte-stable, so an hour with no upstream
+changes produces an empty commit. Hand-curated files (those without the
+`auto-ingested` tag) are never modified — human enrichment such as pay,
+eligibility, and interview data is preserved across runs.
 
 ## Design principles
 

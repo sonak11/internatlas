@@ -2,14 +2,14 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # Salesforce
 
-**Industry:** big-tech · **Size:** large · **Type:** public · **Fortune 500** ✅ · [Careers page](https://careers.salesforce.com/)
-
 ## Current openings
 
 | Company | Role | Location | Mode | Pay | Visa | Posted | Deadline | Status |
 |---|---|---|---|---|---|---|---|---|
-| Salesforce | [Software Engineering Intern](https://careers.salesforce.com/) | San Francisco, CA | Onsite | — | ❔ | 2026-07-16* | Rolling | ⚪ Unverified |
+| Salesforce | [Associate Product Manager Intern - Associate Product Manager](https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/California---San-Francisco/Summer-2027-Intern---Associate-Product-Manager--APM-_JR348039) | SF | Onsite | — | ❔ | 2026-07-13 | Rolling | 🟢 Open |
+| Salesforce | [Associate Product Manager Intern - Associate Product Manager](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Associate-Product-Manager--APM-_JR348039-1) | SF | Onsite | — | ❔ | 2026-07-13 | Rolling | 🟢 Open |
+| Salesforce | [Software Engineer Intern(Futureforce Summer 2027)](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer_JR340771-1) | San Francisco, CA +4 | Onsite | — | ❔ | 2026-05-09 | Rolling | 🟢 Open |
 
 ## Related
 
-Browse more roles in: [💻 Software Engineering](../categories/software-engineering.md)
+Browse more roles in: [🧭 Product](../categories/product.md), [💻 Software Engineering](../categories/software-engineering.md)

@@ -2,13 +2,12 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # Apple
 
-**Industry:** big-tech · **Size:** enterprise · **Type:** public · **Fortune 500** ✅ · [Careers page](https://www.apple.com/careers/us/students.html)
-
 ## Current openings
 
 | Company | Role | Location | Mode | Pay | Visa | Posted | Deadline | Status |
 |---|---|---|---|---|---|---|---|---|
-| Apple | [Software Engineering Intern](https://www.apple.com/careers/us/students.html) | Cupertino, CA | Onsite | — | ❔ | 2026-07-16* | Rolling | ⚪ Unverified |
+| Apple | [Software Engineer Intern, Undergrad](https://jobs.apple.com/en-us/details/200664785/software-undergrad-engineering-internships) | USA | Onsite | — | ❔ | 2026-05-22 | Rolling | 🟢 Open |
+| Apple | [Software Engineering Intern, Masters](https://jobs.apple.com/en-us/details/200664320/software-engineering-masters-internships) | USA | Onsite | — | ❔ | 2026-05-22 | Rolling | 🟢 Open |
 
 ## Related
 

@@ -2,14 +2,12 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # Rivian
 
-**Industry:** automotive · **Size:** mid · **Type:** public · **Fortune 500** ✅ · [Careers page](https://rivian.com/careers)
-
 ## Current openings
 
 | Company | Role | Location | Mode | Pay | Visa | Posted | Deadline | Status |
 |---|---|---|---|---|---|---|---|---|
-| Rivian | [Embedded Software Intern](https://rivian.com/careers) | Irvine, CA | Onsite | — | ❔ | 2026-07-16* | Rolling | ⚪ Unverified |
+| Rivian | [Machine Learning Compiler Intern - Machine Learning Compiler](https://careers.rivian.com/jobs/29851?icims=1) | Urbana, IL | Onsite | — | ❔ | 2026-07-14 | Rolling | 🟢 Open |
 
 ## Related
 
-Browse more roles in: [⚙️ Embedded](../categories/embedded.md)
+Browse more roles in: [🧠 Machine Learning](../categories/machine-learning.md)

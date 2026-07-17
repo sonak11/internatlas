@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0",
+  "id": "poshmark-cloud-platform-engineer-intern-growth-2027",
+  "company": {
+    "name": "Poshmark",
+    "slug": "poshmark"
+  },
+  "role": "Cloud Platform Engineer Intern, Growth",
+  "category": "cloud",
+  "apply_url": "https://jobs.ashbyhq.com/poshmark/062b84e6-1633-43ae-870b-83cb62893caa",
+  "season": "summer",
+  "year": 2027,
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "Redwood City",
+      "state": "CA",
+      "country": "USA"
+    }
+  ],
+  "compensation": {
+    "currency": "USD",
+    "housing_stipend": false,
+    "relocation_assistance": false
+  },
+  "eligibility": {
+    "graduation_years": [],
+    "degree_levels": [],
+    "citizenship_required": false,
+    "security_clearance_required": false,
+    "visa_sponsorship": "no"
+  },
+  "interview": {},
+  "tech": {
+    "required_skills": [],
+    "preferred_skills": [],
+    "languages": [],
+    "frameworks": [],
+    "cloud_platforms": [],
+    "resume_keywords": []
+  },
+  "dates": {
+    "posted": "2026-04-20",
+    "discovered": "2026-07-17",
+    "last_verified": "2026-07-17"
+  },
+  "status": "open",
+  "tags": [
+    "auto-ingested",
+    "src:vanshb03"
+  ]
+}

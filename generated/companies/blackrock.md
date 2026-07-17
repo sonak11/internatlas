@@ -2,14 +2,12 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # BlackRock
 
-**Industry:** finance · **Size:** large · **Type:** public · **Fortune 500** ✅ · [Careers page](https://careers.blackrock.com/)
-
 ## Current openings
 
 | Company | Role | Location | Mode | Pay | Visa | Posted | Deadline | Status |
 |---|---|---|---|---|---|---|---|---|
-| BlackRock | [Summer Analyst (Aladdin Engineering)](https://careers.blackrock.com/) | New York, NY | Onsite | — | ❔ | 2026-07-16* | Rolling | ⚪ Unverified |
+| BlackRock | [Global Product Intern](https://blackrock.wd1.myworkdayjobs.com/BlackRock_Early_Careers_Program/job/New-York-NY/XMLNAME-2027-Global-Product-Intern-New-York_R265170) | NYC | Onsite | — | ❔ | 2026-07-15 | Rolling | 🟢 Open |
 
 ## Related
 
-Browse more roles in: [💰 Finance](../categories/finance.md)
+Browse more roles in: [💻 Software Engineering](../categories/software-engineering.md)

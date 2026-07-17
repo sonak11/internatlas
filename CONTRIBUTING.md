@@ -3,6 +3,13 @@
 Thanks for helping students find internships! Every contribution — a new
 listing, a corrected deadline, a dead-link report — makes the map better.
 
+> **Most listings arrive automatically.** An hourly GitHub Action pulls live
+> postings from company ATS boards and community feeds (see
+> [SOURCES.md](SOURCES.md)). Auto-ingested files are tagged `auto-ingested` and
+> are managed by the sync — the best way to add coverage in bulk is to add a
+> company's board token to [`automation/sources.yaml`](automation/sources.yaml).
+> Hand-curated listings you add below are **never** touched by the sync.
+
 ## Add a listing (~2 minutes)
 
 1. **Fork** the repo.

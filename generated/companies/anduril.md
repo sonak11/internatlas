@@ -2,14 +2,13 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # Anduril
 
-**Industry:** defense · **Size:** small · **Type:** private · [Careers page](https://www.anduril.com/careers/)
-
 ## Current openings
 
 | Company | Role | Location | Mode | Pay | Visa | Posted | Deadline | Status |
 |---|---|---|---|---|---|---|---|---|
-| Anduril | [Embedded Software Intern](https://www.anduril.com/careers/) | Costa Mesa, CA | Onsite | — | ❔ | 2026-07-16* | Rolling | ⚪ Unverified |
+| Anduril | [Software Engineer Intern](https://job-boards.greenhouse.io/andurilindustries/jobs/5148079007?gh_jid=5148079007) | Atlanta, GA +5 | Onsite | — | ❔ | 2026-07-07 | Rolling | 🟢 Open |
+| Anduril | [Software Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5148079007) | Boston, MA +5 | Onsite | — | ❔ | 2026-06-11 | Rolling | 🟢 Open |
 
 ## Related
 
-Browse more roles in: [⚙️ Embedded](../categories/embedded.md)
+Browse more roles in: [💻 Software Engineering](../categories/software-engineering.md)

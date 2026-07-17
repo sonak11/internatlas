@@ -2,14 +2,18 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # IMC Trading
 
-**Industry:** quant-trading · **Size:** small · **Type:** private · [Careers page](https://careers.imc.com/)
-
 ## Current openings
 
 | Company | Role | Location | Mode | Pay | Visa | Posted | Deadline | Status |
 |---|---|---|---|---|---|---|---|---|
-| IMC Trading | [Quantitative Trading / Research Intern](https://careers.imc.com/) | Chicago, IL | Onsite | — | ❔ | 2026-07-16* | Rolling | ⚪ Unverified |
+| IMC Trading | [Hardware Engineer Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4823945101) | Chicago, IL | Onsite | — | ❔ | 2026-07-01 | Rolling | 🟢 Open |
+| IMC Trading | [Machine Learning Research Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4912874101) | London | Onsite | — | ❔ | 2026-07-06 | Rolling | 🟢 Open |
+| IMC Trading | [Machine Learning Research Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4907430101) | Chicago, IL | Onsite | — | ❔ | 2026-07-01 | Rolling | 🟢 Open |
+| IMC Trading | [Quantitative Research Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4907400101) | Chicago, IL | Onsite | — | ❔ | 2026-07-01 | Rolling | 🟢 Open |
+| IMC Trading | [Quantitative Research Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4907399101) | Chicago, IL | Onsite | — | ❔ | 2026-07-01 | Rolling | 🟢 Open |
+| IMC Trading | [Quantitative Trader Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4823923101) | Chicago, IL | Onsite | — | ❔ | 2026-07-01 | Rolling | 🟢 Open |
+| IMC Trading | [Software Engineer Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4823924101) | Chicago, IL | Onsite | — | ❔ | 2026-07-01 | Rolling | 🟢 Open |
 
 ## Related
 
-Browse more roles in: [📈 Quant](../categories/quant.md)
+Browse more roles in: [🔩 Hardware](../categories/hardware.md), [🧠 Machine Learning](../categories/machine-learning.md), [📈 Quant](../categories/quant.md), [💻 Software Engineering](../categories/software-engineering.md)

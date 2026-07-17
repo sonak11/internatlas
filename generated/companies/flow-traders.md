@@ -2,13 +2,11 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # Flow Traders
 
-**Industry:** quant-trading · **Size:** startup · **Type:** public · [Careers page](https://www.flowtraders.com/careers)
-
 ## Current openings
 
 | Company | Role | Location | Mode | Pay | Visa | Posted | Deadline | Status |
 |---|---|---|---|---|---|---|---|---|
-| Flow Traders | [Quantitative Trading / Research Intern](https://www.flowtraders.com/careers) | New York, NY | Onsite | — | ❔ | 2026-07-16* | Rolling | ⚪ Unverified |
+| Flow Traders | [Quantitative Trading Intern](https://job-boards.greenhouse.io/flowtraders/jobs/8047166) | NYC | Onsite | — | ❔ | 2026-07-08 | Rolling | 🟢 Open |
 
 ## Related
 

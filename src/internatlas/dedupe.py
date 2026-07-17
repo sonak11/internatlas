@@ -90,10 +90,18 @@ def find_duplicates(listings: list[Internship], fuzzy_threshold: float = 0.85) -
     for listing in listings:
         by_company_year.setdefault((listing.company.slug, listing.year), []).append(listing)
 
+    from .ingest import AUTO_TAG  # local import to avoid a cycle at module load
+
     for group in by_company_year.values():
         for i, a in enumerate(group):
             for b in group[i + 1:]:
                 if a.category != b.category:
+                    continue
+                if (AUTO_TAG in a.tags and AUTO_TAG in b.tags
+                        and canonicalize_url(str(a.apply_url)) != canonicalize_url(str(b.apply_url))):
+                    # Distinct upstream postings (different real URLs) fetched by
+                    # the sync are ground truth, not duplicates — e.g. the same
+                    # role posted separately per office.
                     continue
                 sim = role_similarity(a.role, b.role)
                 if sim >= fuzzy_threshold:

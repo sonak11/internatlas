@@ -1,0 +1,54 @@
+{
+  "schema_version": "1.0",
+  "id": "meta-research-scientist-intern-advanced-materials-for-soft-roboti-2026",
+  "company": {
+    "name": "Meta",
+    "slug": "meta"
+  },
+  "role": "Research Scientist Intern, Advanced Materials for Soft Robotics (PhD)",
+  "category": "research",
+  "apply_url": "https://www.metacareers.com/profile/job_details/25514049594874160",
+  "season": "fall",
+  "year": 2026,
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "Redmond",
+      "state": "WA",
+      "country": "USA"
+    }
+  ],
+  "compensation": {
+    "currency": "USD",
+    "housing_stipend": false,
+    "relocation_assistance": false
+  },
+  "eligibility": {
+    "graduation_years": [],
+    "degree_levels": [
+      "masters"
+    ],
+    "citizenship_required": false,
+    "security_clearance_required": false,
+    "visa_sponsorship": "no"
+  },
+  "interview": {},
+  "tech": {
+    "required_skills": [],
+    "preferred_skills": [],
+    "languages": [],
+    "frameworks": [],
+    "cloud_platforms": [],
+    "resume_keywords": []
+  },
+  "dates": {
+    "posted": "2025-12-10",
+    "discovered": "2026-07-17",
+    "last_verified": "2026-07-17"
+  },
+  "status": "open",
+  "tags": [
+    "auto-ingested",
+    "src:simplify"
+  ]
+}

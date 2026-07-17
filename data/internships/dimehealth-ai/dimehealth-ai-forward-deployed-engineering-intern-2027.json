@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0",
+  "id": "dimehealth-ai-forward-deployed-engineering-intern-2027",
+  "company": {
+    "name": "DimeHealth AI",
+    "slug": "dimehealth-ai"
+  },
+  "role": "Forward Deployed Engineering Intern",
+  "category": "software-engineering",
+  "apply_url": "https://www.workatastartup.com/jobs/94211",
+  "season": "summer",
+  "year": 2027,
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "New York",
+      "state": "NY",
+      "country": "USA"
+    }
+  ],
+  "compensation": {
+    "currency": "USD",
+    "housing_stipend": false,
+    "relocation_assistance": false
+  },
+  "eligibility": {
+    "graduation_years": [],
+    "degree_levels": [],
+    "citizenship_required": false,
+    "security_clearance_required": false,
+    "visa_sponsorship": "yes"
+  },
+  "interview": {},
+  "tech": {
+    "required_skills": [],
+    "preferred_skills": [],
+    "languages": [],
+    "frameworks": [],
+    "cloud_platforms": [],
+    "resume_keywords": []
+  },
+  "dates": {
+    "posted": "2026-05-09",
+    "discovered": "2026-07-17",
+    "last_verified": "2026-07-17"
+  },
+  "status": "open",
+  "tags": [
+    "auto-ingested",
+    "src:vanshb03"
+  ]
+}

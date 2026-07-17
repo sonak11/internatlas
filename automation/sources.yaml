@@ -1,119 +1,120 @@
 # ─────────────────────────────────────────────────────────────────────────────
-# Live ATS sources for the hourly sync (`internatlas sync`).
+# Live sources for the hourly sync (`internatlas sync`).
 #
-# ats: greenhouse → https://boards-api.greenhouse.io/v1/boards/<token>/jobs
-# ats: lever      → https://api.lever.co/v0/postings/<token>?mode=json
+# Two kinds of sources:
 #
-# Both are public, keyless APIs. To add a company: find its board token (it's
-# in the URL of their job board, e.g. boards.greenhouse.io/<token> or
-# jobs.lever.co/<token>), add an entry, open a PR. A wrong token fails softly —
-# the sync logs it and moves on.
+#   sources:  direct ATS boards — public, keyless JSON APIs (PRIMARY)
+#     greenhouse → https://boards-api.greenhouse.io/v1/boards/<token>/jobs
+#     lever      → https://api.lever.co/v0/postings/<token>?mode=json
+#     ashby      → https://api.ashbyhq.com/posting-api/job-board/<token>
 #
-# ⚠️ Tokens below are best-effort and easy to fix: if a company's sync logs
-#    "fetch failed", verify the token on their job board and PR the correction.
+#   feeds:    community-maintained listings.json files (SECONDARY, attributed)
+#     These cover companies whose ATSes have no public API (Workday, Taleo,
+#     in-house portals). Every listing ingested from a feed is tagged
+#     `src:<label>` and credited in the README + SOURCES.md.
+#
+# To add a company: find its board token (it's in the URL of their job board,
+# e.g. boards.greenhouse.io/<token>, jobs.lever.co/<token>,
+# jobs.ashbyhq.com/<token>), add an entry, open a PR.
+#
+# ⚠️ Tokens are best-effort and easy to fix: a wrong token fails softly — the
+#    sync logs "<company>: fetch failed" and moves on. If you see that in the
+#    Actions log, verify the token on the company's job board and PR the fix.
 # ─────────────────────────────────────────────────────────────────────────────
+
 sources:
-  - company: Stripe
-    slug: stripe
-    ats: greenhouse
-    token: stripe
-    default_category: software-engineering
-    career_page: https://stripe.com/jobs/university
+  # ── Fintech / payments ─────────────────────────────────────────────────────
+  - {company: Stripe,            slug: stripe,            ats: greenhouse, token: stripe,            default_category: software-engineering, career_page: "https://stripe.com/jobs/university"}
+  - {company: Coinbase,          slug: coinbase,          ats: greenhouse, token: coinbase,          default_category: software-engineering, career_page: "https://www.coinbase.com/careers"}
+  - {company: Robinhood,         slug: robinhood,         ats: greenhouse, token: robinhood,         default_category: software-engineering, career_page: "https://careers.robinhood.com"}
+  - {company: Brex,              slug: brex,              ats: greenhouse, token: brex,              default_category: software-engineering, career_page: "https://www.brex.com/careers"}
+  - {company: Affirm,            slug: affirm,            ats: greenhouse, token: affirm,            default_category: software-engineering, career_page: "https://www.affirm.com/careers"}
+  - {company: Gusto,             slug: gusto,             ats: greenhouse, token: gusto,             default_category: software-engineering, career_page: "https://gusto.com/about/careers"}
+  - {company: Plaid,             slug: plaid,             ats: lever,      token: plaid,             default_category: software-engineering, career_page: "https://plaid.com/careers"}
+  - {company: Ramp,              slug: ramp,              ats: ashby,      token: ramp,              default_category: software-engineering, career_page: "https://ramp.com/careers"}
+  - {company: Block,             slug: block,             ats: greenhouse, token: block,             default_category: software-engineering, career_page: "https://block.xyz/careers"}   # verify token
 
-  - company: Databricks
-    slug: databricks
-    ats: greenhouse
-    token: databricks
-    default_category: software-engineering
-    career_page: https://www.databricks.com/company/careers/university-recruiting
+  # ── Dev tools / SaaS / infra ───────────────────────────────────────────────
+  - {company: Databricks,        slug: databricks,        ats: greenhouse, token: databricks,        default_category: software-engineering, career_page: "https://www.databricks.com/company/careers/university-recruiting"}
+  - {company: Cloudflare,        slug: cloudflare,        ats: greenhouse, token: cloudflare,        default_category: software-engineering, career_page: "https://www.cloudflare.com/careers"}
+  - {company: Datadog,           slug: datadog,           ats: greenhouse, token: datadog,           default_category: software-engineering, career_page: "https://careers.datadoghq.com"}
+  - {company: MongoDB,           slug: mongodb,           ats: greenhouse, token: mongodb,           default_category: software-engineering, career_page: "https://www.mongodb.com/careers"}
+  - {company: Elastic,           slug: elastic,           ats: greenhouse, token: elastic,           default_category: software-engineering, career_page: "https://www.elastic.co/careers"}
+  - {company: GitLab,            slug: gitlab,            ats: greenhouse, token: gitlab,            default_category: software-engineering, career_page: "https://about.gitlab.com/jobs"}
+  - {company: Twilio,            slug: twilio,            ats: greenhouse, token: twilio,            default_category: software-engineering, career_page: "https://www.twilio.com/company/jobs"}
+  - {company: Okta,              slug: okta,              ats: greenhouse, token: okta,              default_category: security,             career_page: "https://www.okta.com/company/careers"}
+  - {company: Pure Storage,      slug: pure-storage,      ats: greenhouse, token: purestorage,      default_category: software-engineering, career_page: "https://www.purestorage.com/company/careers.html"}
+  - {company: Qualtrics,         slug: qualtrics,         ats: greenhouse, token: qualtrics,         default_category: software-engineering, career_page: "https://www.qualtrics.com/careers"}
+  - {company: Grammarly,         slug: grammarly,         ats: greenhouse, token: grammarly,         default_category: software-engineering, career_page: "https://www.grammarly.com/careers"}
+  - {company: Vercel,            slug: vercel,            ats: greenhouse, token: vercel,            default_category: software-engineering, career_page: "https://vercel.com/careers"}
+  - {company: HashiCorp,         slug: hashicorp,         ats: greenhouse, token: hashicorp,         default_category: cloud,                career_page: "https://www.hashicorp.com/careers"}   # verify token
+  - {company: Asana,             slug: asana,             ats: greenhouse, token: asana,             default_category: software-engineering, career_page: "https://asana.com/jobs"}
+  - {company: Dropbox,           slug: dropbox,           ats: greenhouse, token: dropbox,           default_category: software-engineering, career_page: "https://www.dropbox.com/jobs"}
+  - {company: Airtable,          slug: airtable,          ats: lever,      token: airtable,          default_category: software-engineering, career_page: "https://airtable.com/careers"}   # verify token
+  - {company: Notion,            slug: notion,            ats: ashby,      token: notion,            default_category: software-engineering, career_page: "https://www.notion.com/careers"}
+  - {company: Linear,            slug: linear,            ats: ashby,      token: linear,            default_category: software-engineering, career_page: "https://linear.app/careers"}
+  - {company: Retool,            slug: retool,            ats: greenhouse, token: retool,            default_category: software-engineering, career_page: "https://retool.com/careers"}   # verify token
+  - {company: Benchling,         slug: benchling,         ats: greenhouse, token: benchling,         default_category: software-engineering, career_page: "https://www.benchling.com/careers"}
+  - {company: Verkada,           slug: verkada,           ats: greenhouse, token: verkada,           default_category: software-engineering, career_page: "https://www.verkada.com/careers"}
+  - {company: Samsara,           slug: samsara,           ats: greenhouse, token: samsara,           default_category: software-engineering, career_page: "https://www.samsara.com/company/careers"}
+  - {company: PostHog,           slug: posthog,           ats: ashby,      token: posthog,           default_category: software-engineering, career_page: "https://posthog.com/careers"}   # verify token
 
-  - company: Cloudflare
-    slug: cloudflare
-    ats: greenhouse
-    token: cloudflare
-    default_category: software-engineering
-    career_page: https://www.cloudflare.com/careers/early-talent/
+  # ── Consumer / marketplace ─────────────────────────────────────────────────
+  - {company: Airbnb,            slug: airbnb,            ats: greenhouse, token: airbnb,            default_category: software-engineering, career_page: "https://careers.airbnb.com"}
+  - {company: DoorDash,          slug: doordash,          ats: greenhouse, token: doordashusa,       default_category: software-engineering, career_page: "https://careers.doordash.com"}
+  - {company: Instacart,         slug: instacart,         ats: greenhouse, token: instacart,         default_category: software-engineering, career_page: "https://instacart.careers"}
+  - {company: Reddit,            slug: reddit,            ats: greenhouse, token: reddit,            default_category: software-engineering, career_page: "https://www.redditinc.com/careers"}
+  - {company: Pinterest,         slug: pinterest,         ats: greenhouse, token: pinterest,         default_category: software-engineering, career_page: "https://www.pinterestcareers.com"}
+  - {company: Roblox,            slug: roblox,            ats: greenhouse, token: roblox,            default_category: software-engineering, career_page: "https://careers.roblox.com"}
+  - {company: Duolingo,          slug: duolingo,          ats: greenhouse, token: duolingo,          default_category: software-engineering, career_page: "https://careers.duolingo.com"}
+  - {company: Netflix,           slug: netflix,           ats: lever,      token: netflix,           default_category: software-engineering, career_page: "https://jobs.netflix.com"}
+  - {company: Canva,             slug: canva,             ats: lever,      token: canva,             default_category: software-engineering, career_page: "https://www.canva.com/careers"}
+  - {company: Figma,             slug: figma,             ats: greenhouse, token: figma,             default_category: design,               career_page: "https://www.figma.com/careers"}
 
-  - company: Duolingo
-    slug: duolingo
-    ats: greenhouse
-    token: duolingo
-    default_category: software-engineering
-    career_page: https://careers.duolingo.com/
+  # ── AI labs / ML infra ─────────────────────────────────────────────────────
+  - {company: OpenAI,            slug: openai,            ats: ashby,      token: openai,            default_category: ai,                   career_page: "https://openai.com/careers"}
+  - {company: Anthropic,         slug: anthropic,         ats: greenhouse, token: anthropic,         default_category: ai,                   career_page: "https://www.anthropic.com/careers"}
+  - {company: Scale AI,          slug: scale-ai,          ats: greenhouse, token: scaleai,           default_category: ai,                   career_page: "https://scale.com/careers"}
+  - {company: Cohere,            slug: cohere,            ats: lever,      token: cohere,            default_category: ai,                   career_page: "https://cohere.com/careers"}
+  - {company: Mistral AI,        slug: mistral-ai,        ats: lever,      token: mistral,           default_category: ai,                   career_page: "https://mistral.ai/careers"}   # verify token
+  - {company: Perplexity,        slug: perplexity,        ats: ashby,      token: perplexity-ai,     default_category: ai,                   career_page: "https://www.perplexity.ai/hub/careers"}   # verify token
+  - {company: xAI,               slug: xai,               ats: greenhouse, token: xai,               default_category: ai,                   career_page: "https://x.ai/careers"}
+  - {company: Modal,             slug: modal,             ats: ashby,      token: modal,             default_category: cloud,                career_page: "https://modal.com/careers"}   # verify token
 
-  - company: Figma
-    slug: figma
-    ats: greenhouse
-    token: figma
-    default_category: software-engineering
-    career_page: https://www.figma.com/careers/
+  # ── Quant / trading ────────────────────────────────────────────────────────
+  - {company: Two Sigma,         slug: two-sigma,         ats: greenhouse, token: twosigma,          default_category: quant,                career_page: "https://careers.twosigma.com"}
+  - {company: Hudson River Trading, slug: hudson-river-trading, ats: greenhouse, token: wehrtyou,   default_category: quant,                career_page: "https://www.hudsonrivertrading.com/careers"}
+  - {company: IMC Trading,       slug: imc-trading,       ats: greenhouse, token: imc,               default_category: quant,                career_page: "https://www.imc.com/us/careers"}
+  - {company: Jump Trading,      slug: jump-trading,      ats: greenhouse, token: jumptrading,       default_category: quant,                career_page: "https://www.jumptrading.com/careers"}
+  - {company: Akuna Capital,     slug: akuna-capital,     ats: greenhouse, token: akunacapital,      default_category: quant,                career_page: "https://akunacapital.com/careers"}
+  - {company: Five Rings,        slug: five-rings,        ats: greenhouse, token: fiveringsllc,      default_category: quant,                career_page: "https://fiverings.com/careers"}   # verify token
+  - {company: Virtu Financial,   slug: virtu-financial,   ats: greenhouse, token: virtu,             default_category: quant,                career_page: "https://www.virtu.com/careers"}   # verify token
+  - {company: The Voleon Group,  slug: voleon,            ats: lever,      token: voleon,            default_category: quant,                career_page: "https://voleon.com/careers"}   # verify token
+  - {company: Tower Research Capital, slug: tower-research-capital, ats: lever, token: tower-research-capital, default_category: quant,     career_page: "https://tower-research.com/careers"}   # verify token
 
-  - company: Robinhood
-    slug: robinhood
-    ats: greenhouse
-    token: robinhood
-    default_category: software-engineering
-    career_page: https://careers.robinhood.com/
+  # ── Hardware / robotics / autonomy / defense ───────────────────────────────
+  - {company: SpaceX,            slug: spacex,            ats: greenhouse, token: spacex,            default_category: hardware,             career_page: "https://www.spacex.com/careers"}
+  - {company: Anduril,           slug: anduril,           ats: greenhouse, token: andurilindustries, default_category: hardware,             career_page: "https://www.anduril.com/careers"}
+  - {company: Neuralink,         slug: neuralink,         ats: greenhouse, token: neuralink,         default_category: hardware,             career_page: "https://neuralink.com/careers"}
+  - {company: Boston Dynamics,   slug: boston-dynamics,   ats: greenhouse, token: bostondynamics,    default_category: hardware,             career_page: "https://bostondynamics.com/careers"}
+  - {company: Applied Intuition, slug: applied-intuition, ats: greenhouse, token: appliedintuition,  default_category: software-engineering, career_page: "https://www.appliedintuition.com/careers"}
+  - {company: Waymo,             slug: waymo,             ats: greenhouse, token: waymo,             default_category: software-engineering, career_page: "https://waymo.com/careers"}
+  - {company: Nuro,              slug: nuro,              ats: greenhouse, token: nuro,              default_category: software-engineering, career_page: "https://www.nuro.ai/careers"}
+  - {company: Aurora,            slug: aurora,            ats: greenhouse, token: aurorainnovation,  default_category: software-engineering, career_page: "https://aurora.tech/careers"}   # verify token
+  - {company: Zoox,              slug: zoox,              ats: lever,      token: zoox,              default_category: software-engineering, career_page: "https://zoox.com/careers"}
 
-  - company: Ramp
-    slug: ramp
-    ats: greenhouse
-    token: ramp
-    default_category: software-engineering
-    career_page: https://ramp.com/careers
+feeds:
+  # Community-maintained internship lists (thank you! 💙) — see SOURCES.md.
+  # Only entries flagged active + visible upstream are ingested, and every
+  # listing gets a `src:<label>` tag so provenance is always visible.
+  - label: simplify
+    name: SimplifyJobs / Summer Internships
+    homepage: "https://github.com/SimplifyJobs/Summer2026-Internships"
+    url: "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/.github/scripts/listings.json"
+    terms: ["Summer 2027", "Fall 2026", "Winter 2027", "Spring 2027"]
 
-  - company: Datadog
-    slug: datadog
-    ats: greenhouse
-    token: datadog
-    default_category: software-engineering
-    career_page: https://careers.datadoghq.com/
-
-  - company: MongoDB
-    slug: mongodb
-    ats: greenhouse
-    token: mongodb
-    default_category: software-engineering
-    career_page: https://www.mongodb.com/company/careers
-
-  - company: Coinbase
-    slug: coinbase
-    ats: greenhouse
-    token: coinbase
-    default_category: software-engineering
-    career_page: https://www.coinbase.com/careers
-
-  - company: Airbnb
-    slug: airbnb
-    ats: greenhouse
-    token: airbnb
-    default_category: software-engineering
-    career_page: https://careers.airbnb.com/
-
-  - company: Anduril
-    slug: anduril
-    ats: greenhouse
-    token: andurilindustries
-    default_category: embedded
-    career_page: https://www.anduril.com/careers/
-
-  - company: Hudson River Trading
-    slug: hudson-river-trading
-    ats: greenhouse
-    token: wehrtyou
-    default_category: quant
-    career_page: https://www.hudsonrivertrading.com/careers/
-
-  - company: Palantir
-    slug: palantir
-    ats: lever
-    token: palantir
-    default_category: software-engineering
-    career_page: https://www.palantir.com/careers/
-
-  - company: Plaid
-    slug: plaid
-    ats: lever
-    token: plaid
-    default_category: software-engineering
-    career_page: https://plaid.com/careers/
+  - label: vanshb03
+    name: vanshb03 / Summer 2027 Internships
+    homepage: "https://github.com/vanshb03/Summer2027-Internships"
+    url: "https://raw.githubusercontent.com/vanshb03/Summer2027-Internships/dev/.github/scripts/listings.json"
+    season_years: {summer: 2027, fall: 2026, winter: 2027, spring: 2027}

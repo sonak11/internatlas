@@ -2,14 +2,12 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # ASML
 
-**Industry:** semiconductors · **Size:** large · **Type:** public · [Careers page](https://www.asml.com/en/careers)
-
 ## Current openings
 
 | Company | Role | Location | Mode | Pay | Visa | Posted | Deadline | Status |
 |---|---|---|---|---|---|---|---|---|
-| ASML | [Hardware Engineering Intern](https://www.asml.com/en/careers) | Wilton, CT | Onsite | — | ❔ | 2026-07-16* | Rolling | ⚪ Unverified |
+| ASML | [Internship - Software Development Engineer in Test](https://asml.wd3.myworkdayjobs.com/en-US/asmlext1/job/San-Jose-CA-USA/Internship---Software-Development-Engineer-in-Test_J-00328071) | San Jose, CA | Onsite | — | ❔ | 2025-12-22 | Rolling | 🟢 Open |
 
 ## Related
 
-Browse more roles in: [🔩 Hardware](../categories/hardware.md)
+Browse more roles in: [💻 Software Engineering](../categories/software-engineering.md)

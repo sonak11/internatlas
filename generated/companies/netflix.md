@@ -2,14 +2,13 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # Netflix
 
-**Industry:** media · **Size:** large · **Type:** public · **Fortune 500** ✅ · [Careers page](https://jobs.netflix.com/)
-
 ## Current openings
 
 | Company | Role | Location | Mode | Pay | Visa | Posted | Deadline | Status |
 |---|---|---|---|---|---|---|---|---|
-| Netflix | [Software Engineering Intern](https://jobs.netflix.com/) | Los Gatos, CA | Onsite | — | ❔ | 2026-07-16* | Rolling | ⚪ Unverified |
+| Netflix | [AI/ML Scientist Intern - AIMS AI Foundations](https://explore.jobs.netflix.net/careers/job/790316547536) | Los Gatos, CA | Onsite | — | ❔ | 2026-06-23 | Rolling | 🟢 Open |
+| Netflix | [Video Algorithms Intern - Video Coding - Gaussian Splatting](https://explore.jobs.netflix.net/careers/job/790315673635) | LA +1 | Onsite | — | ❔ | 2026-04-28 | Rolling | 🟢 Open |
 
 ## Related
 
-Browse more roles in: [💻 Software Engineering](../categories/software-engineering.md)
+Browse more roles in: [🧠 Machine Learning](../categories/machine-learning.md), [💻 Software Engineering](../categories/software-engineering.md)

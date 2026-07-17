@@ -1,0 +1,54 @@
+{
+  "schema_version": "1.0",
+  "id": "aqr-capital-management-portfolio-implementation-trading-and-portfolio-finance-analy-2027",
+  "company": {
+    "name": "AQR Capital Management",
+    "slug": "aqr-capital-management"
+  },
+  "role": "Portfolio Implementation – Trading and Portfolio Finance Analyst Intern",
+  "category": "quant",
+  "apply_url": "https://careers.aqr.com/jobs?gh_jid=7895562&gh_jid=7895562",
+  "season": "summer",
+  "year": 2027,
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "Greenwich",
+      "state": "CT",
+      "country": "USA"
+    }
+  ],
+  "compensation": {
+    "currency": "USD",
+    "housing_stipend": false,
+    "relocation_assistance": false
+  },
+  "eligibility": {
+    "graduation_years": [],
+    "degree_levels": [
+      "masters"
+    ],
+    "citizenship_required": false,
+    "security_clearance_required": false,
+    "visa_sponsorship": "unknown"
+  },
+  "interview": {},
+  "tech": {
+    "required_skills": [],
+    "preferred_skills": [],
+    "languages": [],
+    "frameworks": [],
+    "cloud_platforms": [],
+    "resume_keywords": []
+  },
+  "dates": {
+    "posted": "2026-05-15",
+    "discovered": "2026-07-17",
+    "last_verified": "2026-07-17"
+  },
+  "status": "open",
+  "tags": [
+    "auto-ingested",
+    "src:simplify"
+  ]
+}

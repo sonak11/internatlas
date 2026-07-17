@@ -2,14 +2,12 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # Scale AI
 
-**Industry:** startup · **Size:** small · **Type:** private · [Careers page](https://scale.com/careers)
-
 ## Current openings
 
 | Company | Role | Location | Mode | Pay | Visa | Posted | Deadline | Status |
 |---|---|---|---|---|---|---|---|---|
-| Scale AI | [Machine Learning Intern](https://scale.com/careers) | San Francisco, CA | Onsite | — | ❔ | 2026-07-16* | Rolling | ⚪ Unverified |
+| Scale AI | [Technical Advisor Intern, GenAI](https://scale.com/careers/4611533005) | San Francisco, CA | Onsite | — | ❔ | 2025-10-23 | Rolling | 🟢 Open |
 
 ## Related
 
-Browse more roles in: [🧠 Machine Learning](../categories/machine-learning.md)
+Browse more roles in: [💻 Software Engineering](../categories/software-engineering.md)

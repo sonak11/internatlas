@@ -2,18 +2,15 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🔐 Security Internships
 
-**1** tracked · **0** open now
+**2** tracked · **2** open now
 
 ## Current openings
 
 | Company | Role | Location | Mode | Pay | Visa | Posted | Deadline | Status |
 |---|---|---|---|---|---|---|---|---|
-| [Cloudflare](generated/companies/cloudflare.md) | [Security Engineering Intern](https://www.cloudflare.com/careers/early-talent/) | Remote | Remote | — | 🔶 | 2026-07-16* | Rolling | ⚪ Unverified |
+| [Tesla](generated/companies/tesla.md) | [Software Engineer Intern - Software Engineer - Information Security](https://www.tesla.com/careers/search/job/270497) | Bellevue, WA | Onsite | — | ❔ | 2026-06-07 | Rolling | 🟢 Open |
+| [Tesla](generated/companies/tesla.md) | [Software Engineer Intern, Information Security](https://www.tesla.com/careers/search/job/254590) | Bellevue, WA | Onsite | — | ❔ | 2025-10-30 | Rolling | 🟢 Open |
 
 ## Hiring companies
 
-- Cloudflare (1)
-
-## Most requested languages
-
-Go (1), Rust (1), Python (1)
+- Tesla (2)

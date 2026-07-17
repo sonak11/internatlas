@@ -8,120 +8,64 @@ _Generated 2026-07-17_
 
 | Company | Listings |
 |---|---|
-| Google | 2 |
-| Accenture | 1 |
-| Adobe | 1 |
-| Airbnb | 1 |
-| Akuna Capital | 1 |
-| Amazon | 1 |
-| AMD | 1 |
-| American Express | 1 |
-| Analog Devices | 1 |
-| Anduril | 1 |
-| Anthropic | 1 |
-| Apple | 1 |
-| Arm | 1 |
-| ASML | 1 |
-| Atlassian | 1 |
-| Bain & Company | 1 |
-| Bank of America | 1 |
-| BlackRock | 1 |
-| Block | 1 |
-| Bloomberg | 1 |
+| Tesla | 97 |
+| Susquehanna International Group (SIG) | 19 |
+| Jump Trading | 17 |
+| Meta | 16 |
+| Rivian and Volkswagen Group Technologies | 14 |
+| Etched | 12 |
+| TikTok | 12 |
+| Astranis | 10 |
+| NVIDIA | 8 |
+| Optiver | 8 |
+| Walleye Capital | 8 |
+| Akuna Capital University | 7 |
+| Amazon | 7 |
+| Formlabs | 7 |
+| IMC Trading | 7 |
+| Palantir | 7 |
+| Hermeus | 6 |
+| Rippling | 6 |
+| Cadence Design Systems | 5 |
+| Citadel | 5 |
 
 ## Listings by category
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 49 | `███████████` |
-| quant | 16 | `████` |
-| embedded | 10 | `██` |
-| hardware | 8 | `██` |
-| research | 5 | `█` |
-| finance | 5 | `█` |
-| consulting | 4 | `█` |
-| machine-learning | 4 | `█` |
-| data-science | 2 | `█` |
-| data-engineering | 2 | `█` |
-| security | 1 | `█` |
-| cloud | 1 | `█` |
-
-## Salary
-
-- Reported by **2** listings
-- Average: **$110.00/hr** · Median: **$110.00/hr**
-
-### Leaderboard
-
-| # | Company | Listing | Hourly |
-|---|---|---|---|
-| 1 | Jane Street | `jane-street-quantitative-trading-intern-2027` | $112.50 |
-| 2 | Citadel | `citadel-software-engineering-intern-2027` | $107.50 |
-
-## Most requested programming languages
-
-| Language | Mentions |
-|---|---|
-| Python | 11 |
-| C++ | 5 |
-| Java | 5 |
-| Go | 3 |
-| SQL | 1 |
-| R | 1 |
-| Rust | 1 |
-| Scala | 1 |
-| OCaml | 1 |
-| C | 1 |
-| C# | 1 |
-| CUDA | 1 |
-| Ruby | 1 |
-
-## Most requested skills
-
-| Skill | Mentions |
-|---|---|
-| Statistics | 2 |
-| Data Structures | 2 |
-| Algorithms | 2 |
-| Deep Learning | 2 |
-| Machine Learning | 1 |
-| Systems | 1 |
-| Networking | 1 |
-| Application Security | 1 |
-| Probability | 1 |
-| Mental Math | 1 |
-| RTOS | 1 |
-| Embedded Systems | 1 |
-| GPU Computing | 1 |
-| Research Publications | 1 |
-| APIs | 1 |
-| Distributed Systems | 1 |
-
-## Interview process (share of listings with data)
-
-- Technical: 12
-- Behavioral: 11
-- Online assessment: 4
+| software-engineering | 313 | `█████████████` |
+| quant | 66 | `███` |
+| ai | 60 | `██` |
+| machine-learning | 39 | `██` |
+| embedded | 32 | `█` |
+| research | 29 | `█` |
+| design | 18 | `█` |
+| hardware | 17 | `█` |
+| product | 14 | `█` |
+| cloud | 10 | `█` |
+| data-science | 8 | `█` |
+| data-engineering | 6 | `█` |
+| security | 2 | `█` |
 
 ## Newest listings
 
-- 2026-07-16 — **Accenture**: [Summer Intern](https://www.accenture.com/us-en/careers)
-- 2026-07-16 — **Adobe**: [Software Engineering Intern](https://careers.adobe.com/us/en/university)
-- 2026-07-16 — **Airbnb**: [Software Engineering Intern](https://careers.airbnb.com/)
-- 2026-07-16 — **Akuna Capital**: [Quantitative Trading / Research Intern](https://akunacapital.com/careers)
-- 2026-07-16 — **Amazon**: [Software Engineering Intern](https://www.amazon.jobs/en/teams/internships-for-students)
-- 2026-07-16 — **AMD**: [Hardware Engineering Intern](https://careers.amd.com/)
-- 2026-07-16 — **American Express**: [Software Engineering Intern](https://www.americanexpress.com/en-us/careers/)
-- 2026-07-16 — **Analog Devices**: [Hardware Engineering Intern](https://www.analog.com/en/about-adi/careers.html)
-- 2026-07-16 — **Anduril**: [Embedded Software Intern](https://www.anduril.com/careers/)
-- 2026-07-16 — **Anthropic**: [Research / Engineering Intern](https://www.anthropic.com/careers)
-- 2026-07-16 — **Apple**: [Software Engineering Intern](https://www.apple.com/careers/us/students.html)
-- 2026-07-16 — **Arm**: [Hardware Engineering Intern](https://careers.arm.com/)
-- 2026-07-16 — **ASML**: [Hardware Engineering Intern](https://www.asml.com/en/careers)
-- 2026-07-16 — **Atlassian**: [Software Engineering Intern](https://www.atlassian.com/company/careers/students)
-- 2026-07-16 — **Bain & Company**: [Associate Consultant Intern](https://www.bain.com/careers/)
-- 2026-07-16 — **Bank of America**: [Global Technology Summer Analyst](https://careers.bankofamerica.com/en-us/students)
-- 2026-07-16 — **BlackRock**: [Summer Analyst (Aladdin Engineering)](https://careers.blackrock.com/)
-- 2026-07-16 — **Block**: [Software Engineering Intern](https://block.xyz/careers)
-- 2026-07-16 — **Bloomberg**: [Software Engineering Intern](https://www.bloomberg.com/careers)
-- 2026-07-16 — **Blue Origin**: [Embedded Software Intern](https://www.blueorigin.com/careers)
+- 2026-07-17 — **Composio**: [Full-stack Intern](https://jobs.ashbyhq.com/composio/4d819015-0b9a-466f-9b41-8e1cc1e5b6d9/application?embed=true)
+- 2026-07-17 — **Formlabs**: [Supply Chain Operations Software Intern](https://careers.formlabs.com/job/8069676/apply/?gh_jid=8069676)
+- 2026-07-16 — **Amentum**: [Spaceflight Hardware Intern](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-TX-Houston/Fall-2026---Spaceflight-Hardware-Intern_R0166096)
+- 2026-07-16 — **Aptiv**: [Engineer Intern](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern---CD1_J000700250)
+- 2026-07-16 — **Cadence Design Systems**: [SSG Design Engineering Intern](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/SSG-Design-Engineering-Intern--Fall-2026-_R52641)
+- 2026-07-16 — **Chevron Corporation**: [Software Engineer Intern - Information Technology - Software Engineer](https://chevron.wd5.myworkdayjobs.com/University/job/Houston-Texas-United-States-of-America/XMLNAME-2026-2027-Information-Technology---Software-Engineer---Intern_R000072398-1)
+- 2026-07-16 — **CuspAI**: [Chemistry Intern - MLFF Distillation & GCMC Integration](https://jobs.ashbyhq.com/cuspai/d7b80299-ed98-4dfe-b306-729cd10d3f04/application?embed=true)
+- 2026-07-16 — **Cybernetic Labs**: [Forward Deployed Engineer Intern](https://jobs.ashbyhq.com/netic/ffd6af1a-cebb-41f5-ac1d-e695adfd067c/application?embed=true)
+- 2026-07-16 — **Cybernetic Labs**: [Full-Stack Software Engineer Intern - Product](https://jobs.ashbyhq.com/netic/f291394a-f3c5-4f46-9b87-77aea3d487ef/application?embed=true)
+- 2026-07-16 — **Cybernetic Labs**: [Software Engineer Intern - Agent Platform](https://jobs.ashbyhq.com/netic/b0ea7aab-8eea-4d31-96f9-278364180ae7/application?embed=true)
+- 2026-07-16 — **Databricks**: [Product Management Intern](https://boards.greenhouse.io/embed/job_app?token=6883068002)
+- 2026-07-16 — **DNV**: [AI Research Intern](https://ecyq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/7094)
+- 2026-07-16 — **Formlabs**: [AI Software Intern](https://careers.formlabs.com/job/8067641/apply/?gh_jid=8067641)
+- 2026-07-16 — **Formlabs**: [Algorithms Software Intern](https://careers.formlabs.com/job/8060759/apply/?gh_jid=8060759)
+- 2026-07-16 — **GeoComply**: [Full Stack Developer Intern](https://jobs.lever.co/geocomply-2/a3131ad8-06ec-4c6e-b27c-81aa4c02cc40/apply)
+- 2026-07-16 — **GeoComply**: [Product Operations Intern](https://jobs.lever.co/geocomply-2/738b76bf-ad57-4831-ae8f-e2e44ff5e02b/apply)
+- 2026-07-16 — **Mackenzie Investments**: [Data Science and AI Specialist Intern - Investment Management - Fundamental Equity](https://careersen-mackenzieinvestments.icims.com/jobs/5938/job?mobile=true&needsRedirect=false)
+- 2026-07-16 — **Optiver**: [Trading Automation and Operations Intern](https://www.optiver.com/join-us/jobs/8489582002/?gh_jid=8489582002)
+- 2026-07-16 — **Signify**: [Product Management Intern](https://lighting.wd3.myworkdayjobs.com/jobs-and-careers/job/Menlo-Park/Product-Management-Intern---Fall-2026_365521)
+- 2026-07-16 — **Tesla**: [Energy Battery Firmware Intern - Software Engineer - Energy Engineering](https://www.tesla.com/careers/search/job/276987)

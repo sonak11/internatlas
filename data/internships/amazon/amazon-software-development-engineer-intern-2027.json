@@ -1,0 +1,277 @@
+{
+  "schema_version": "1.0",
+  "id": "amazon-software-development-engineer-intern-2027",
+  "company": {
+    "name": "Amazon",
+    "slug": "amazon"
+  },
+  "role": "Software Development Engineer Intern",
+  "category": "software-engineering",
+  "apply_url": "https://www.amazon.jobs/en/jobs/3101249/software-development-engineer-internship-winter-2026-us",
+  "season": "winter",
+  "year": 2027,
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "Phoenix",
+      "state": "AZ",
+      "country": "USA"
+    },
+    {
+      "city": "Tempe",
+      "state": "AZ",
+      "country": "USA"
+    },
+    {
+      "city": "Berkeley",
+      "state": "CA",
+      "country": "USA"
+    },
+    {
+      "city": "Culver City",
+      "state": "CA",
+      "country": "USA"
+    },
+    {
+      "city": "Cupertino",
+      "state": "CA",
+      "country": "USA"
+    },
+    {
+      "city": "East Palo Alto",
+      "state": "CA",
+      "country": "USA"
+    },
+    {
+      "city": "Irvine",
+      "state": "CA",
+      "country": "USA"
+    },
+    {
+      "city": "Los Angeles",
+      "state": "CA",
+      "country": "USA"
+    },
+    {
+      "city": "Manhattan Beach",
+      "state": "CA",
+      "country": "USA"
+    },
+    {
+      "city": "Palo Alto",
+      "state": "CA",
+      "country": "USA"
+    },
+    {
+      "city": "San Diego",
+      "state": "CA",
+      "country": "USA"
+    },
+    {
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "USA"
+    },
+    {
+      "city": "San Jose",
+      "state": "CA",
+      "country": "USA"
+    },
+    {
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "country": "USA"
+    },
+    {
+      "city": "Santa Barbara",
+      "state": "CA",
+      "country": "USA"
+    },
+    {
+      "city": "Santa Clara",
+      "state": "CA",
+      "country": "USA"
+    },
+    {
+      "city": "Santa Cruz",
+      "state": "CA",
+      "country": "USA"
+    },
+    {
+      "city": "Santa Monica",
+      "state": "CA",
+      "country": "USA"
+    },
+    {
+      "city": "Sunnyvale",
+      "state": "CA",
+      "country": "USA"
+    },
+    {
+      "city": "Boulder",
+      "state": "CO",
+      "country": "USA"
+    },
+    {
+      "city": "Denver",
+      "state": "CO",
+      "country": "USA"
+    },
+    {
+      "city": "Atlanta",
+      "state": "GA",
+      "country": "USA"
+    },
+    {
+      "city": "Kennesaw",
+      "state": "GA",
+      "country": "USA"
+    },
+    {
+      "city": "Chicago",
+      "state": "IL",
+      "country": "USA"
+    },
+    {
+      "city": "Boston",
+      "state": "MA",
+      "country": "USA"
+    },
+    {
+      "city": "Cambridge",
+      "state": "MA",
+      "country": "USA"
+    },
+    {
+      "city": "Hudson",
+      "state": "MA",
+      "country": "USA"
+    },
+    {
+      "city": "North Reading",
+      "state": "MA",
+      "country": "USA"
+    },
+    {
+      "city": "Westborough",
+      "state": "MA",
+      "country": "USA"
+    },
+    {
+      "city": "Baltimore",
+      "state": "MD",
+      "country": "USA"
+    },
+    {
+      "city": "Detroit",
+      "state": "MI",
+      "country": "USA"
+    },
+    {
+      "city": "Minneapolis",
+      "state": "MN",
+      "country": "USA"
+    },
+    {
+      "city": "Jersey City",
+      "state": "NJ",
+      "country": "USA"
+    },
+    {
+      "city": "New York",
+      "state": "NY",
+      "country": "USA"
+    },
+    {
+      "city": "Portland",
+      "state": "OR",
+      "country": "USA"
+    },
+    {
+      "city": "Philadelphia",
+      "state": "PA",
+      "country": "USA"
+    },
+    {
+      "city": "Pittsburgh",
+      "state": "PA",
+      "country": "USA"
+    },
+    {
+      "city": "Nashville",
+      "state": "TN",
+      "country": "USA"
+    },
+    {
+      "city": "Austin",
+      "state": "TX",
+      "country": "USA"
+    },
+    {
+      "city": "Dallas",
+      "state": "TX",
+      "country": "USA"
+    },
+    {
+      "city": "Arlington",
+      "state": "VA",
+      "country": "USA"
+    },
+    {
+      "city": "Herndon",
+      "state": "VA",
+      "country": "USA"
+    },
+    {
+      "city": "Madison",
+      "state": "WI",
+      "country": "USA"
+    },
+    {
+      "city": "Bellevue",
+      "state": "WA",
+      "country": "USA"
+    },
+    {
+      "city": "Seattle",
+      "state": "WA",
+      "country": "USA"
+    },
+    {
+      "city": "Redmond",
+      "state": "WA",
+      "country": "USA"
+    }
+  ],
+  "compensation": {
+    "currency": "USD",
+    "housing_stipend": false,
+    "relocation_assistance": false
+  },
+  "eligibility": {
+    "graduation_years": [],
+    "degree_levels": [],
+    "citizenship_required": false,
+    "security_clearance_required": false,
+    "visa_sponsorship": "unknown"
+  },
+  "interview": {},
+  "tech": {
+    "required_skills": [],
+    "preferred_skills": [],
+    "languages": [],
+    "frameworks": [],
+    "cloud_platforms": [],
+    "resume_keywords": []
+  },
+  "dates": {
+    "posted": "2025-10-04",
+    "discovered": "2026-07-17",
+    "last_verified": "2026-07-17"
+  },
+  "status": "open",
+  "tags": [
+    "auto-ingested",
+    "src:vanshb03"
+  ]
+}

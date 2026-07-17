@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0",
+  "id": "rivian-and-volkswagen-group-technologies-engineering-intern-embedded-hardware-vehicle-networking-audi-2027",
+  "company": {
+    "name": "Rivian and Volkswagen Group Technologies",
+    "slug": "rivian-and-volkswagen-group-technologies"
+  },
+  "role": "Engineering Intern, Embedded Hardware, Vehicle Networking & Audio",
+  "category": "embedded",
+  "apply_url": "https://careers.rivianvw.tech/rivian-vw-group-technology/jobs/27276/job",
+  "season": "winter",
+  "year": 2027,
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "Palo Alto",
+      "state": "CA",
+      "country": "USA"
+    }
+  ],
+  "compensation": {
+    "currency": "USD",
+    "housing_stipend": false,
+    "relocation_assistance": false
+  },
+  "eligibility": {
+    "graduation_years": [],
+    "degree_levels": [],
+    "citizenship_required": false,
+    "security_clearance_required": false,
+    "visa_sponsorship": "unknown"
+  },
+  "interview": {},
+  "tech": {
+    "required_skills": [],
+    "preferred_skills": [],
+    "languages": [],
+    "frameworks": [],
+    "cloud_platforms": [],
+    "resume_keywords": []
+  },
+  "dates": {
+    "posted": "2025-11-01",
+    "discovered": "2026-07-17",
+    "last_verified": "2026-07-17"
+  },
+  "status": "open",
+  "tags": [
+    "auto-ingested",
+    "src:vanshb03"
+  ]
+}

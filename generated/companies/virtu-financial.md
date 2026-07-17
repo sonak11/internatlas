@@ -2,13 +2,11 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # Virtu Financial
 
-**Industry:** quant-trading · **Size:** startup · **Type:** public · [Careers page](https://www.virtu.com/careers/)
-
 ## Current openings
 
 | Company | Role | Location | Mode | Pay | Visa | Posted | Deadline | Status |
 |---|---|---|---|---|---|---|---|---|
-| Virtu Financial | [Quantitative Trading / Research Intern](https://www.virtu.com/careers/) | New York, NY | Onsite | — | ❔ | 2026-07-16* | Rolling | ⚪ Unverified |
+| Virtu Financial | [Quantitative Research Intern - Quant Research - Undergrad](https://job-boards.greenhouse.io/virtu/jobs/8142539002) | NYC | Onsite | — | ❔ | 2026-06-26 | Rolling | 🟢 Open |
 
 ## Related
 

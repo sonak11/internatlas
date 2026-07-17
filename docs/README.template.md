@@ -4,9 +4,10 @@
 
 ### The open-source data platform for Summer 2027 internships
 
-Not another markdown table. Every listing is structured JSON — validated by CI,
-deduplicated automatically, rendered into browsable pages, and exportable to
-CSV, calendars, and RSS.
+Not another markdown table. Every listing is structured JSON — **synced every
+hour** from company ATS boards and community feeds, validated by CI,
+deduplicated automatically, and rendered right here in the README. Each role
+links **straight to the live application page**, with its posting date shown.
 
 {{BADGES}}
 
@@ -47,6 +48,8 @@ CSV, calendars, and RSS.
 | Typical internship repo | InternAtlas |
 |---|---|
 | Hand-edited markdown table | **Structured JSON, one file per listing** |
+| Updated when someone remembers | **Auto-synced every hour** via GitHub Actions |
+| Links to generic careers pages | **Direct links to the live posting**, with posting dates |
 | Merge conflicts on every PR | Conflict-free — contributors touch different files |
 | Company + link + location | **40+ fields**: pay, visa, eligibility, interview process, tech stack |
 | Links rot silently | **Scheduled dead-link checker** flags stale postings |
@@ -82,18 +85,44 @@ Tracker templates to organize your own search — copy into your fork or a sprea
 - [Offer tracker](templates/offer-tracker.md)
 - [Resume version tracker](templates/resume-tracker.md)
 
-## 📋 All internships ({{LISTING_COUNT}})
+## ☀️ Summer 2027 internships ({{LISTING_COUNT}})
 
-Everything, right here — grouped by category, open roles and earliest deadlines
-first. Dates marked `*` are the date we discovered the listing (official posting
-date unknown).
+Every Summer 2027 listing, right here — grouped by category, **open roles and
+newest postings first**. The **Posted** column shows each role's official
+posting date; a `*` means the date shown is when the sync first discovered it
+(the upstream source didn't expose a posting date). Every **Role** link goes
+straight to the live application page.
 
 {{LISTINGS_BY_CATEGORY}}
 
-> Data is community-maintained and refreshed **every hour** by the sync
-> pipeline. Listings marked ⚪ Unverified point at the company's official
-> careers portal and haven't been individually confirmed — always verify on the
-> official page, and PR corrections!
+## 🗓 Other open terms ({{OFFSEASON_COUNT}})
+
+Live postings the sync found for **other terms** — Fall 2026, Winter 2027,
+Spring 2027 co-ops and off-cycle internships. These are real, currently-open
+roles; they're just not Summer 2027, so they live in their own section to keep
+the headline list clean.
+
+<details>
+<summary><b>Show other open terms ({{OFFSEASON_COUNT}})</b></summary>
+
+{{OFFSEASON_LISTINGS}}
+
+</details>
+
+## 🔗 Where this data comes from
+
+Listings are pulled automatically every hour. Direct company ATS boards
+(Greenhouse, Lever, Ashby) are the primary source; community-maintained feeds
+fill in companies whose systems have no public API. Full provenance,
+per-listing source tags, and a removal-on-request process are in
+[SOURCES.md](SOURCES.md).
+
+{{DATA_SOURCES}}
+
+> Every listing links to the live posting and carries a `last_verified` date.
+> Roles that disappear upstream are automatically marked 🔴 Closed on the next
+> hourly run. The company's official page is always the source of truth — if
+> you spot something off, [PR a correction](CONTRIBUTING.md)!
 
 ## 🤝 Contributing
 
@@ -112,9 +141,9 @@ Full guide: [CONTRIBUTING.md](CONTRIBUTING.md) · Schema reference: [docs/SCHEMA
 - [x] Structured data model + CI validation
 - [x] Auto-generated README, company, category, index & stats pages
 - [x] CLI search · CSV/JSON/ICS/RSS exports · weekly digest
+- [x] Hourly auto-sync from ATS boards (Greenhouse/Lever/Ashby) + community feeds
 - [ ] GitHub Pages site with client-side search
 - [ ] Historical salary trends across seasons
-- [ ] Auto-ingest suggestions from ATS boards (Greenhouse/Lever) as draft PRs
 - [ ] Browser extension: "Add to InternAtlas" from any posting
 
 ## ❓ FAQ
@@ -135,8 +164,12 @@ can't do any of that.
 
 <details>
 <summary><b>Can I use this data in my own project?</b></summary>
-Yes — it's MIT licensed. <code>generated/exports/internships.json</code> is a
-stable machine-readable snapshot rebuilt on every merge.
+The InternAtlas <i>code</i> is MIT licensed.
+<code>generated/exports/internships.json</code> is a stable machine-readable
+snapshot rebuilt on every sync. The <i>listing data</i> is aggregated factual
+job-posting information from company ATS boards and community feeds — see
+<a href="SOURCES.md">SOURCES.md</a> for provenance and attribution before you
+redistribute it.
 </details>
 
 <details>

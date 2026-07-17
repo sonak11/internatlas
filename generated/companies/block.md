@@ -2,14 +2,13 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # Block
 
-**Industry:** finance · **Size:** mid · **Type:** public · **Fortune 500** ✅ · [Careers page](https://block.xyz/careers)
-
 ## Current openings
 
 | Company | Role | Location | Mode | Pay | Visa | Posted | Deadline | Status |
 |---|---|---|---|---|---|---|---|---|
-| Block | [Software Engineering Intern](https://block.xyz/careers) | Oakland, CA | Onsite | — | ❔ | 2026-07-16* | Rolling | ⚪ Unverified |
+| Block | [Applied Research Intern Co-op](http://block.xyz/careers/jobs/5108009008?gh_jid=5108009008) | Toronto | Onsite | — | ❔ | 2026-06-09 | Rolling | 🟢 Open |
+| Block | [Applied Research Intern PhD / Graduate Co-op](http://block.xyz/careers/jobs/5108007008?gh_jid=5108007008) | Oakland, CA | Onsite | — | ❔ | 2026-06-09 | Rolling | 🟢 Open |
 
 ## Related
 
-Browse more roles in: [💻 Software Engineering](../categories/software-engineering.md)
+Browse more roles in: [🔬 Research](../categories/research.md)

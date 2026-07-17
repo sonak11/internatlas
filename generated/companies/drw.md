@@ -2,13 +2,11 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # DRW
 
-**Industry:** quant-trading · **Size:** small · **Type:** private · [Careers page](https://www.drw.com/work-at-drw)
-
 ## Current openings
 
 | Company | Role | Location | Mode | Pay | Visa | Posted | Deadline | Status |
 |---|---|---|---|---|---|---|---|---|
-| DRW | [Quantitative Trading / Research Intern](https://www.drw.com/work-at-drw) | Chicago, IL | Onsite | — | ❔ | 2026-07-16* | Rolling | ⚪ Unverified |
+| DRW | [Quantitative Trading Analyst Intern](https://job-boards.greenhouse.io/drweng/jobs/7957243) | London | Onsite | — | ❔ | 2026-07-13 | Rolling | 🟢 Open |
 
 ## Related
 
