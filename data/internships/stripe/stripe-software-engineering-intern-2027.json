@@ -1,0 +1,75 @@
+{
+  "schema_version": "1.0",
+  "id": "stripe-software-engineering-intern-2027",
+  "company": {
+    "name": "Stripe",
+    "slug": "stripe",
+    "career_page": "https://stripe.com/jobs/university",
+    "size": "mid",
+    "industry": "big-tech",
+    "company_type": "private"
+  },
+  "role": "Software Engineering Intern",
+  "category": "software-engineering",
+  "subcategory": "backend",
+  "apply_url": "https://stripe.com/jobs/university",
+  "season": "summer",
+  "year": 2027,
+  "work_mode": "hybrid",
+  "locations": [
+    {
+      "city": "South San Francisco",
+      "state": "CA",
+      "country": "USA"
+    },
+    {
+      "city": "Seattle",
+      "state": "WA",
+      "country": "USA"
+    }
+  ],
+  "compensation": {
+    "currency": "USD",
+    "housing_stipend": false,
+    "relocation_assistance": false
+  },
+  "eligibility": {
+    "graduation_years": [],
+    "degree_levels": [
+      "sophomore",
+      "junior",
+      "senior"
+    ],
+    "citizenship_required": false,
+    "security_clearance_required": false,
+    "visa_sponsorship": "yes"
+  },
+  "interview": {
+    "behavioral": true,
+    "technical": true,
+    "rounds": 3,
+    "notes": "Practical coding in your own editor; no trick puzzles."
+  },
+  "tech": {
+    "required_skills": [
+      "APIs",
+      "Distributed Systems"
+    ],
+    "preferred_skills": [],
+    "languages": [
+      "Ruby",
+      "Java",
+      "Go",
+      "Python"
+    ],
+    "frameworks": [],
+    "cloud_platforms": [],
+    "resume_keywords": []
+  },
+  "dates": {
+    "discovered": "2026-07-16"
+  },
+  "status": "unverified",
+  "tags": [],
+  "notes": "Seed example — details unverified; confirm on the careers page and PR corrections."
+}

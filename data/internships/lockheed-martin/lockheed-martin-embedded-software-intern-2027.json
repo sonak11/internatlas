@@ -1,0 +1,71 @@
+{
+  "schema_version": "1.0",
+  "id": "lockheed-martin-embedded-software-intern-2027",
+  "company": {
+    "name": "Lockheed Martin",
+    "slug": "lockheed-martin",
+    "career_page": "https://www.lockheedmartinjobs.com/students-early-careers",
+    "size": "large",
+    "industry": "defense",
+    "company_type": "public",
+    "fortune_500": true
+  },
+  "role": "Embedded Software Intern",
+  "category": "embedded",
+  "subcategory": "avionics",
+  "apply_url": "https://www.lockheedmartinjobs.com/students-early-careers",
+  "season": "summer",
+  "year": 2027,
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "Fort Worth",
+      "state": "TX",
+      "country": "USA"
+    }
+  ],
+  "compensation": {
+    "currency": "USD",
+    "housing_stipend": false,
+    "relocation_assistance": false
+  },
+  "eligibility": {
+    "graduation_years": [],
+    "degree_levels": [
+      "sophomore",
+      "junior",
+      "senior"
+    ],
+    "citizenship_required": true,
+    "security_clearance_required": true,
+    "visa_sponsorship": "no"
+  },
+  "interview": {
+    "behavioral": true,
+    "technical": true,
+    "rounds": 2
+  },
+  "tech": {
+    "required_skills": [
+      "RTOS",
+      "Embedded Systems"
+    ],
+    "preferred_skills": [],
+    "languages": [
+      "C",
+      "C++"
+    ],
+    "frameworks": [],
+    "cloud_platforms": [],
+    "resume_keywords": []
+  },
+  "dates": {
+    "discovered": "2026-07-16"
+  },
+  "status": "unverified",
+  "tags": [
+    "defense",
+    "clearance"
+  ],
+  "notes": "Seed example — details unverified; confirm on the careers page and PR corrections."
+}

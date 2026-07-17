@@ -1,0 +1,53 @@
+{
+  "$schema": "../schemas/internship.schema.json",
+  "id": "company-slug-role-slug-2027",
+  "company": {
+    "name": "Company Name",
+    "slug": "company-slug",
+    "career_page": "https://example.com/careers",
+    "size": "large",
+    "industry": "big-tech",
+    "company_type": "public",
+    "fortune_500": false
+  },
+  "role": "Software Engineering Intern",
+  "category": "software-engineering",
+  "subcategory": "backend",
+  "apply_url": "https://example.com/jobs/12345",
+  "season": "summer",
+  "year": 2027,
+  "length_weeks": 12,
+  "work_mode": "onsite",
+  "locations": [
+    { "city": "New York", "state": "NY", "country": "USA" }
+  ],
+  "compensation": {
+    "hourly_min": 45,
+    "hourly_max": 55,
+    "housing_stipend": false,
+    "relocation_assistance": false
+  },
+  "eligibility": {
+    "graduation_years": [2028, 2029],
+    "degree_levels": ["sophomore", "junior", "senior"],
+    "citizenship_required": false,
+    "security_clearance_required": false,
+    "visa_sponsorship": "unknown"
+  },
+  "interview": {
+    "online_assessment": true,
+    "behavioral": true,
+    "technical": true,
+    "rounds": 3
+  },
+  "tech": {
+    "required_skills": ["Data Structures", "Algorithms"],
+    "languages": ["Python", "Java"]
+  },
+  "dates": {
+    "discovered": "2026-07-16",
+    "deadline": "2026-10-15"
+  },
+  "status": "open",
+  "notes": "Delete optional fields you don't know rather than guessing."
+}

@@ -1,0 +1,16 @@
+name: Guard generated files
+
+on:
+  pull_request:
+    paths: ["README.md", "generated/**"]
+
+jobs:
+  guard:
+    runs-on: ubuntu-latest
+    if: github.actor != 'github-actions[bot]'
+    steps:
+      - name: Block hand edits to generated files
+        run: |
+          echo "::error::README.md and generated/ are machine-owned."
+          echo "Edit JSON under data/internships/ instead — CI regenerates the views."
+          exit 1

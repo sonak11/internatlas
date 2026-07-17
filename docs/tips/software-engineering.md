@@ -1,0 +1,3 @@
+- Apply broadly and early; many big-tech pipelines are rolling and fill up.
+- Freshman/sophomore-specific programs (e.g. explicitly early-career internships) have separate, friendlier pipelines — check the freshman/sophomore indexes.
+- Referrals meaningfully increase response rates; ask before you apply, not after.

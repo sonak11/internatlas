@@ -1,0 +1,868 @@
+{
+  "generated": "2026-07-17",
+  "count": 12,
+  "internships": [
+    {
+      "schema_version": "1.0",
+      "id": "capital-one-data-science-intern-2027",
+      "company": {
+        "name": "Capital One",
+        "slug": "capital-one",
+        "career_page": "https://www.capitalonecareers.com/students-and-grads",
+        "size": "large",
+        "industry": "finance",
+        "company_type": "public",
+        "fortune_500": true
+      },
+      "role": "Data Science Intern",
+      "category": "data-science",
+      "apply_url": "https://www.capitalonecareers.com/students-and-grads",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "hybrid",
+      "locations": [
+        {
+          "city": "McLean",
+          "state": "VA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "junior",
+          "senior",
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "no"
+      },
+      "interview": {
+        "online_assessment": true,
+        "behavioral": true,
+        "technical": true,
+        "rounds": 3
+      },
+      "tech": {
+        "required_skills": [
+          "Machine Learning",
+          "Statistics"
+        ],
+        "preferred_skills": [],
+        "languages": [
+          "Python",
+          "SQL",
+          "R"
+        ],
+        "frameworks": [],
+        "cloud_platforms": [
+          "AWS"
+        ],
+        "resume_keywords": []
+      },
+      "dates": {
+        "discovered": "2026-07-16"
+      },
+      "status": "unverified",
+      "tags": [],
+      "notes": "Seed example — details unverified; confirm on the careers page and PR corrections."
+    },
+    {
+      "schema_version": "1.0",
+      "id": "citadel-software-engineering-intern-2027",
+      "company": {
+        "name": "Citadel",
+        "slug": "citadel",
+        "career_page": "https://www.citadel.com/careers/open-opportunities/students/",
+        "size": "mid",
+        "industry": "quant-trading",
+        "company_type": "private"
+      },
+      "role": "Software Engineering Intern",
+      "category": "software-engineering",
+      "subcategory": "trading-systems",
+      "apply_url": "https://www.citadel.com/careers/open-opportunities/students/",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Chicago",
+          "state": "IL",
+          "country": "USA"
+        },
+        {
+          "city": "New York",
+          "state": "NY",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "hourly_min": 95.0,
+        "hourly_max": 120.0,
+        "housing_stipend": true,
+        "relocation_assistance": true
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "junior",
+          "senior",
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "yes"
+      },
+      "interview": {
+        "online_assessment": true,
+        "behavioral": true,
+        "technical": true,
+        "rounds": 4
+      },
+      "tech": {
+        "required_skills": [
+          "Data Structures",
+          "Algorithms",
+          "Systems"
+        ],
+        "preferred_skills": [],
+        "languages": [
+          "C++",
+          "Python"
+        ],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "discovered": "2026-07-16"
+      },
+      "status": "unverified",
+      "tags": [],
+      "notes": "Seed example — details unverified; confirm on the careers page and PR corrections."
+    },
+    {
+      "schema_version": "1.0",
+      "id": "cloudflare-security-engineering-intern-2027",
+      "company": {
+        "name": "Cloudflare",
+        "slug": "cloudflare",
+        "career_page": "https://www.cloudflare.com/careers/early-talent/",
+        "size": "mid",
+        "industry": "big-tech",
+        "company_type": "public"
+      },
+      "role": "Security Engineering Intern",
+      "category": "security",
+      "apply_url": "https://www.cloudflare.com/careers/early-talent/",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "remote",
+      "locations": [],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "sophomore",
+          "junior",
+          "senior"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "case-by-case"
+      },
+      "interview": {
+        "behavioral": true,
+        "technical": true,
+        "rounds": 3
+      },
+      "tech": {
+        "required_skills": [
+          "Networking",
+          "Application Security"
+        ],
+        "preferred_skills": [],
+        "languages": [
+          "Go",
+          "Rust",
+          "Python"
+        ],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "discovered": "2026-07-16"
+      },
+      "status": "unverified",
+      "tags": [
+        "remote"
+      ],
+      "notes": "Seed example — details unverified; confirm on the careers page and PR corrections."
+    },
+    {
+      "schema_version": "1.0",
+      "id": "databricks-data-engineering-intern-2027",
+      "company": {
+        "name": "Databricks",
+        "slug": "databricks",
+        "career_page": "https://www.databricks.com/company/careers/university-recruiting",
+        "size": "mid",
+        "industry": "big-tech",
+        "company_type": "private"
+      },
+      "role": "Software Engineering Intern — Data Platform",
+      "category": "data-engineering",
+      "apply_url": "https://www.databricks.com/company/careers/university-recruiting",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Francisco",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "junior",
+          "senior",
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "yes"
+      },
+      "interview": {
+        "online_assessment": true,
+        "technical": true,
+        "rounds": 3
+      },
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [
+          "Scala",
+          "Java",
+          "Python"
+        ],
+        "frameworks": [
+          "Spark"
+        ],
+        "cloud_platforms": [
+          "AWS",
+          "Azure",
+          "GCP"
+        ],
+        "resume_keywords": []
+      },
+      "dates": {
+        "discovered": "2026-07-16"
+      },
+      "status": "unverified",
+      "tags": [],
+      "notes": "Seed example — details unverified; confirm on the careers page and PR corrections."
+    },
+    {
+      "schema_version": "1.0",
+      "id": "google-software-engineering-intern-2027",
+      "company": {
+        "name": "Google",
+        "slug": "google",
+        "career_page": "https://www.google.com/about/careers/applications/",
+        "size": "enterprise",
+        "industry": "big-tech",
+        "company_type": "public",
+        "fortune_500": true
+      },
+      "role": "Software Engineering Intern",
+      "category": "software-engineering",
+      "subcategory": "generalist",
+      "apply_url": "https://www.google.com/about/careers/applications/jobs/results/?q=software%20engineering%20intern",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Mountain View",
+          "state": "CA",
+          "country": "USA"
+        },
+        {
+          "city": "New York",
+          "state": "NY",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [
+          2028,
+          2029
+        ],
+        "degree_levels": [
+          "sophomore",
+          "junior",
+          "senior"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "yes"
+      },
+      "interview": {
+        "online_assessment": true,
+        "behavioral": true,
+        "technical": true,
+        "rounds": 3
+      },
+      "tech": {
+        "required_skills": [
+          "Data Structures",
+          "Algorithms"
+        ],
+        "preferred_skills": [],
+        "languages": [
+          "Python",
+          "C++",
+          "Java",
+          "Go"
+        ],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "discovered": "2026-07-16"
+      },
+      "status": "unverified",
+      "recruiting_timeline": "Applications historically open late summer; interviews through fall.",
+      "tags": [],
+      "notes": "Seed example — details unverified; confirm on the careers page and PR corrections."
+    },
+    {
+      "schema_version": "1.0",
+      "id": "google-step-intern-2027",
+      "company": {
+        "name": "Google",
+        "slug": "google",
+        "career_page": "https://www.google.com/about/careers/applications/",
+        "size": "enterprise",
+        "industry": "big-tech",
+        "company_type": "public",
+        "fortune_500": true
+      },
+      "role": "STEP Intern (First & Second Year)",
+      "category": "software-engineering",
+      "subcategory": "early-career",
+      "apply_url": "https://www.google.com/about/careers/applications/jobs/results/?q=step%20intern",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Mountain View",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [
+          2029,
+          2030
+        ],
+        "degree_levels": [
+          "freshman",
+          "sophomore"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "yes"
+      },
+      "interview": {
+        "behavioral": true,
+        "technical": true,
+        "rounds": 2
+      },
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [
+          "Python",
+          "Java",
+          "C++"
+        ],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "discovered": "2026-07-16"
+      },
+      "status": "unverified",
+      "tags": [
+        "freshman-friendly"
+      ],
+      "notes": "Seed example — details unverified; confirm on the careers page and PR corrections."
+    },
+    {
+      "schema_version": "1.0",
+      "id": "jane-street-quantitative-trading-intern-2027",
+      "company": {
+        "name": "Jane Street",
+        "slug": "jane-street",
+        "career_page": "https://www.janestreet.com/join-jane-street/open-roles/",
+        "size": "small",
+        "industry": "quant-trading",
+        "company_type": "private"
+      },
+      "role": "Quantitative Trading Intern",
+      "category": "quant",
+      "subcategory": "trading",
+      "apply_url": "https://www.janestreet.com/join-jane-street/open-roles/",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "New York",
+          "state": "NY",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "hourly_min": 100.0,
+        "hourly_max": 125.0,
+        "housing_stipend": true,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "sophomore",
+          "junior",
+          "senior",
+          "masters",
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "yes"
+      },
+      "interview": {
+        "behavioral": true,
+        "technical": true,
+        "rounds": 4,
+        "notes": "Probability and mental-math heavy phone rounds."
+      },
+      "tech": {
+        "required_skills": [
+          "Probability",
+          "Statistics",
+          "Mental Math"
+        ],
+        "preferred_skills": [],
+        "languages": [
+          "Python",
+          "OCaml"
+        ],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "discovered": "2026-07-16"
+      },
+      "status": "unverified",
+      "recruiting_timeline": "Quant recruiting opens very early — often 12+ months ahead.",
+      "tags": [],
+      "notes": "Seed example — details unverified; confirm on the careers page and PR corrections."
+    },
+    {
+      "schema_version": "1.0",
+      "id": "lockheed-martin-embedded-software-intern-2027",
+      "company": {
+        "name": "Lockheed Martin",
+        "slug": "lockheed-martin",
+        "career_page": "https://www.lockheedmartinjobs.com/students-early-careers",
+        "size": "large",
+        "industry": "defense",
+        "company_type": "public",
+        "fortune_500": true
+      },
+      "role": "Embedded Software Intern",
+      "category": "embedded",
+      "subcategory": "avionics",
+      "apply_url": "https://www.lockheedmartinjobs.com/students-early-careers",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Fort Worth",
+          "state": "TX",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "sophomore",
+          "junior",
+          "senior"
+        ],
+        "citizenship_required": true,
+        "security_clearance_required": true,
+        "visa_sponsorship": "no"
+      },
+      "interview": {
+        "behavioral": true,
+        "technical": true,
+        "rounds": 2
+      },
+      "tech": {
+        "required_skills": [
+          "RTOS",
+          "Embedded Systems"
+        ],
+        "preferred_skills": [],
+        "languages": [
+          "C",
+          "C++"
+        ],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "discovered": "2026-07-16"
+      },
+      "status": "unverified",
+      "tags": [
+        "defense",
+        "clearance"
+      ],
+      "notes": "Seed example — details unverified; confirm on the careers page and PR corrections."
+    },
+    {
+      "schema_version": "1.0",
+      "id": "microsoft-explore-intern-2027",
+      "company": {
+        "name": "Microsoft",
+        "slug": "microsoft",
+        "career_page": "https://careers.microsoft.com/v2/global/en/students",
+        "size": "enterprise",
+        "industry": "big-tech",
+        "company_type": "public",
+        "fortune_500": true
+      },
+      "role": "Explore Intern (First & Second Year)",
+      "category": "software-engineering",
+      "subcategory": "early-career",
+      "apply_url": "https://careers.microsoft.com/v2/global/en/students",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Redmond",
+          "state": "WA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [
+          2029,
+          2030
+        ],
+        "degree_levels": [
+          "freshman",
+          "sophomore"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "yes"
+      },
+      "interview": {
+        "behavioral": true,
+        "technical": true,
+        "rounds": 2
+      },
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [
+          "Python",
+          "C#",
+          "Java"
+        ],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "discovered": "2026-07-16"
+      },
+      "status": "unverified",
+      "tags": [
+        "freshman-friendly"
+      ],
+      "notes": "Seed example — details unverified; confirm on the careers page and PR corrections."
+    },
+    {
+      "schema_version": "1.0",
+      "id": "nvidia-machine-learning-intern-2027",
+      "company": {
+        "name": "NVIDIA",
+        "slug": "nvidia",
+        "career_page": "https://www.nvidia.com/en-us/about-nvidia/careers/university-recruiting/",
+        "size": "large",
+        "industry": "semiconductors",
+        "company_type": "public",
+        "fortune_500": true
+      },
+      "role": "Machine Learning Intern",
+      "category": "machine-learning",
+      "subcategory": "deep-learning",
+      "apply_url": "https://www.nvidia.com/en-us/about-nvidia/careers/university-recruiting/",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "hybrid",
+      "locations": [
+        {
+          "city": "Santa Clara",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "junior",
+          "senior",
+          "masters",
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "yes"
+      },
+      "interview": {
+        "behavioral": true,
+        "technical": true,
+        "rounds": 3
+      },
+      "tech": {
+        "required_skills": [
+          "Deep Learning",
+          "GPU Computing"
+        ],
+        "preferred_skills": [],
+        "languages": [
+          "Python",
+          "C++",
+          "CUDA"
+        ],
+        "frameworks": [
+          "PyTorch",
+          "TensorRT"
+        ],
+        "cloud_platforms": [
+          "AWS"
+        ],
+        "resume_keywords": []
+      },
+      "dates": {
+        "discovered": "2026-07-16"
+      },
+      "status": "unverified",
+      "tags": [],
+      "notes": "Seed example — details unverified; confirm on the careers page and PR corrections."
+    },
+    {
+      "schema_version": "1.0",
+      "id": "openai-research-intern-2027",
+      "company": {
+        "name": "OpenAI",
+        "slug": "openai",
+        "career_page": "https://openai.com/careers/",
+        "size": "mid",
+        "industry": "big-tech",
+        "company_type": "private"
+      },
+      "role": "Research Intern",
+      "category": "research",
+      "subcategory": "ml-research",
+      "apply_url": "https://openai.com/careers/",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Francisco",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "yes"
+      },
+      "interview": {
+        "behavioral": true,
+        "technical": true
+      },
+      "tech": {
+        "required_skills": [
+          "Deep Learning",
+          "Research Publications"
+        ],
+        "preferred_skills": [],
+        "languages": [
+          "Python"
+        ],
+        "frameworks": [
+          "PyTorch"
+        ],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "discovered": "2026-07-16"
+      },
+      "status": "unverified",
+      "tags": [
+        "phd"
+      ],
+      "notes": "Seed example — details unverified; confirm on the careers page and PR corrections."
+    },
+    {
+      "schema_version": "1.0",
+      "id": "stripe-software-engineering-intern-2027",
+      "company": {
+        "name": "Stripe",
+        "slug": "stripe",
+        "career_page": "https://stripe.com/jobs/university",
+        "size": "mid",
+        "industry": "big-tech",
+        "company_type": "private"
+      },
+      "role": "Software Engineering Intern",
+      "category": "software-engineering",
+      "subcategory": "backend",
+      "apply_url": "https://stripe.com/jobs/university",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "hybrid",
+      "locations": [
+        {
+          "city": "South San Francisco",
+          "state": "CA",
+          "country": "USA"
+        },
+        {
+          "city": "Seattle",
+          "state": "WA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "sophomore",
+          "junior",
+          "senior"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "yes"
+      },
+      "interview": {
+        "behavioral": true,
+        "technical": true,
+        "rounds": 3,
+        "notes": "Practical coding in your own editor; no trick puzzles."
+      },
+      "tech": {
+        "required_skills": [
+          "APIs",
+          "Distributed Systems"
+        ],
+        "preferred_skills": [],
+        "languages": [
+          "Ruby",
+          "Java",
+          "Go",
+          "Python"
+        ],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "discovered": "2026-07-16"
+      },
+      "status": "unverified",
+      "tags": [],
+      "notes": "Seed example — details unverified; confirm on the careers page and PR corrections."
+    }
+  ]
+}

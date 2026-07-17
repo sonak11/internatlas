@@ -1,0 +1,71 @@
+{
+  "schema_version": "1.0",
+  "id": "capital-one-data-science-intern-2027",
+  "company": {
+    "name": "Capital One",
+    "slug": "capital-one",
+    "career_page": "https://www.capitalonecareers.com/students-and-grads",
+    "size": "large",
+    "industry": "finance",
+    "company_type": "public",
+    "fortune_500": true
+  },
+  "role": "Data Science Intern",
+  "category": "data-science",
+  "apply_url": "https://www.capitalonecareers.com/students-and-grads",
+  "season": "summer",
+  "year": 2027,
+  "work_mode": "hybrid",
+  "locations": [
+    {
+      "city": "McLean",
+      "state": "VA",
+      "country": "USA"
+    }
+  ],
+  "compensation": {
+    "currency": "USD",
+    "housing_stipend": false,
+    "relocation_assistance": false
+  },
+  "eligibility": {
+    "graduation_years": [],
+    "degree_levels": [
+      "junior",
+      "senior",
+      "masters"
+    ],
+    "citizenship_required": false,
+    "security_clearance_required": false,
+    "visa_sponsorship": "no"
+  },
+  "interview": {
+    "online_assessment": true,
+    "behavioral": true,
+    "technical": true,
+    "rounds": 3
+  },
+  "tech": {
+    "required_skills": [
+      "Machine Learning",
+      "Statistics"
+    ],
+    "preferred_skills": [],
+    "languages": [
+      "Python",
+      "SQL",
+      "R"
+    ],
+    "frameworks": [],
+    "cloud_platforms": [
+      "AWS"
+    ],
+    "resume_keywords": []
+  },
+  "dates": {
+    "discovered": "2026-07-16"
+  },
+  "status": "unverified",
+  "tags": [],
+  "notes": "Seed example — details unverified; confirm on the careers page and PR corrections."
+}

@@ -1,0 +1,3 @@
+- Quant recruiting runs **extremely early** — many firms open Summer 2027 apps in mid-2026. Apply within days of opening.
+- Expect probability, expected-value, and mental-math questions early; brush up on combinatorics and Markov chains.
+- Trading vs research vs dev are different pipelines with different bars — read the posting carefully before choosing.

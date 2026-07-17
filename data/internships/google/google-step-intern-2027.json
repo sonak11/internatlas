@@ -1,0 +1,70 @@
+{
+  "schema_version": "1.0",
+  "id": "google-step-intern-2027",
+  "company": {
+    "name": "Google",
+    "slug": "google",
+    "career_page": "https://www.google.com/about/careers/applications/",
+    "size": "enterprise",
+    "industry": "big-tech",
+    "company_type": "public",
+    "fortune_500": true
+  },
+  "role": "STEP Intern (First & Second Year)",
+  "category": "software-engineering",
+  "subcategory": "early-career",
+  "apply_url": "https://www.google.com/about/careers/applications/jobs/results/?q=step%20intern",
+  "season": "summer",
+  "year": 2027,
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "Mountain View",
+      "state": "CA",
+      "country": "USA"
+    }
+  ],
+  "compensation": {
+    "currency": "USD",
+    "housing_stipend": false,
+    "relocation_assistance": false
+  },
+  "eligibility": {
+    "graduation_years": [
+      2029,
+      2030
+    ],
+    "degree_levels": [
+      "freshman",
+      "sophomore"
+    ],
+    "citizenship_required": false,
+    "security_clearance_required": false,
+    "visa_sponsorship": "yes"
+  },
+  "interview": {
+    "behavioral": true,
+    "technical": true,
+    "rounds": 2
+  },
+  "tech": {
+    "required_skills": [],
+    "preferred_skills": [],
+    "languages": [
+      "Python",
+      "Java",
+      "C++"
+    ],
+    "frameworks": [],
+    "cloud_platforms": [],
+    "resume_keywords": []
+  },
+  "dates": {
+    "discovered": "2026-07-16"
+  },
+  "status": "unverified",
+  "tags": [
+    "freshman-friendly"
+  ],
+  "notes": "Seed example — details unverified; confirm on the careers page and PR corrections."
+}

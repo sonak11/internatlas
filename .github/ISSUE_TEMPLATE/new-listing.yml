@@ -1,0 +1,26 @@
+name: ➕ Suggest a listing (no PR needed)
+description: Can't open a PR? Drop the info here and a maintainer will add it.
+labels: ["new-listing", "help wanted"]
+body:
+  - type: input
+    id: company
+    attributes:
+      label: Company
+    validations:
+      required: true
+  - type: input
+    id: role
+    attributes:
+      label: Role title
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: Direct apply link
+    validations:
+      required: true
+  - type: textarea
+    id: extra
+    attributes:
+      label: Anything else (location, pay, deadline, visa, eligibility…)

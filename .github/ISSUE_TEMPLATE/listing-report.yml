@@ -1,0 +1,26 @@
+name: 🔗 Listing report (wrong / dead / closed)
+description: Report a listing that's outdated, incorrect, or dead
+labels: ["listing-report"]
+body:
+  - type: input
+    id: listing
+    attributes:
+      label: Listing id or file path
+      placeholder: google-step-intern-2027
+    validations:
+      required: true
+  - type: dropdown
+    id: problem
+    attributes:
+      label: What's wrong?
+      options:
+        - Dead link
+        - Posting closed
+        - Wrong information (explain below)
+        - Duplicate
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Details / correct information (with source link)

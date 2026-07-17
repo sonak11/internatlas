@@ -1,0 +1,774 @@
+{
+  "$defs": {
+    "ApplicationStatus": {
+      "enum": [
+        "open",
+        "closed",
+        "not-yet-open",
+        "unverified"
+      ],
+      "title": "ApplicationStatus",
+      "type": "string"
+    },
+    "Category": {
+      "enum": [
+        "software-engineering",
+        "machine-learning",
+        "ai",
+        "data-science",
+        "data-engineering",
+        "quant",
+        "hardware",
+        "embedded",
+        "security",
+        "cloud",
+        "product",
+        "design",
+        "research",
+        "finance",
+        "consulting"
+      ],
+      "title": "Category",
+      "type": "string"
+    },
+    "CompanyInfo": {
+      "additionalProperties": false,
+      "properties": {
+        "name": {
+          "minLength": 1,
+          "title": "Name",
+          "type": "string"
+        },
+        "slug": {
+          "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$",
+          "title": "Slug",
+          "type": "string"
+        },
+        "career_page": {
+          "anyOf": [
+            {
+              "format": "uri",
+              "maxLength": 2083,
+              "minLength": 1,
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Career Page"
+        },
+        "size": {
+          "anyOf": [
+            {
+              "$ref": "#/$defs/CompanySize"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null
+        },
+        "industry": {
+          "anyOf": [
+            {
+              "$ref": "#/$defs/Industry"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null
+        },
+        "company_type": {
+          "anyOf": [
+            {
+              "$ref": "#/$defs/CompanyType"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null
+        },
+        "fortune_500": {
+          "anyOf": [
+            {
+              "type": "boolean"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Fortune 500"
+        }
+      },
+      "required": [
+        "name",
+        "slug"
+      ],
+      "title": "CompanyInfo",
+      "type": "object"
+    },
+    "CompanySize": {
+      "enum": [
+        "startup",
+        "small",
+        "mid",
+        "large",
+        "enterprise"
+      ],
+      "title": "CompanySize",
+      "type": "string"
+    },
+    "CompanyType": {
+      "enum": [
+        "public",
+        "private",
+        "nonprofit",
+        "government"
+      ],
+      "title": "CompanyType",
+      "type": "string"
+    },
+    "Compensation": {
+      "additionalProperties": false,
+      "description": "All money fields are in USD unless ``currency`` says otherwise.",
+      "properties": {
+        "currency": {
+          "default": "USD",
+          "title": "Currency",
+          "type": "string"
+        },
+        "hourly_min": {
+          "anyOf": [
+            {
+              "minimum": 0,
+              "type": "number"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Hourly Min"
+        },
+        "hourly_max": {
+          "anyOf": [
+            {
+              "minimum": 0,
+              "type": "number"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Hourly Max"
+        },
+        "monthly": {
+          "anyOf": [
+            {
+              "minimum": 0,
+              "type": "number"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "description": "Monthly salary if quoted that way",
+          "title": "Monthly"
+        },
+        "housing_stipend": {
+          "default": false,
+          "title": "Housing Stipend",
+          "type": "boolean"
+        },
+        "relocation_assistance": {
+          "default": false,
+          "title": "Relocation Assistance",
+          "type": "boolean"
+        }
+      },
+      "title": "Compensation",
+      "type": "object"
+    },
+    "Dates": {
+      "additionalProperties": false,
+      "properties": {
+        "posted": {
+          "anyOf": [
+            {
+              "format": "date",
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Posted"
+        },
+        "discovered": {
+          "format": "date",
+          "title": "Discovered",
+          "type": "string"
+        },
+        "deadline": {
+          "anyOf": [
+            {
+              "format": "date",
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "description": "Omit for rolling deadlines",
+          "title": "Deadline"
+        },
+        "last_verified": {
+          "anyOf": [
+            {
+              "format": "date",
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Last Verified"
+        }
+      },
+      "required": [
+        "discovered"
+      ],
+      "title": "Dates",
+      "type": "object"
+    },
+    "DegreeLevel": {
+      "enum": [
+        "freshman",
+        "sophomore",
+        "junior",
+        "senior",
+        "masters",
+        "phd"
+      ],
+      "title": "DegreeLevel",
+      "type": "string"
+    },
+    "Eligibility": {
+      "additionalProperties": false,
+      "properties": {
+        "graduation_years": {
+          "examples": [
+            [
+              2028,
+              2029
+            ]
+          ],
+          "items": {
+            "type": "integer"
+          },
+          "title": "Graduation Years",
+          "type": "array"
+        },
+        "degree_levels": {
+          "items": {
+            "$ref": "#/$defs/DegreeLevel"
+          },
+          "title": "Degree Levels",
+          "type": "array"
+        },
+        "min_gpa": {
+          "anyOf": [
+            {
+              "maximum": 4.3,
+              "minimum": 0,
+              "type": "number"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Min Gpa"
+        },
+        "citizenship_required": {
+          "default": false,
+          "title": "Citizenship Required",
+          "type": "boolean"
+        },
+        "security_clearance_required": {
+          "default": false,
+          "title": "Security Clearance Required",
+          "type": "boolean"
+        },
+        "visa_sponsorship": {
+          "$ref": "#/$defs/VisaSponsorship",
+          "default": "unknown"
+        }
+      },
+      "title": "Eligibility",
+      "type": "object"
+    },
+    "Industry": {
+      "enum": [
+        "big-tech",
+        "finance",
+        "quant-trading",
+        "startup",
+        "defense",
+        "healthcare",
+        "government",
+        "consulting",
+        "semiconductors",
+        "aerospace",
+        "automotive",
+        "retail",
+        "media",
+        "energy",
+        "education",
+        "other"
+      ],
+      "title": "Industry",
+      "type": "string"
+    },
+    "InterviewProcess": {
+      "additionalProperties": false,
+      "properties": {
+        "online_assessment": {
+          "anyOf": [
+            {
+              "type": "boolean"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Online Assessment"
+        },
+        "behavioral": {
+          "anyOf": [
+            {
+              "type": "boolean"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Behavioral"
+        },
+        "technical": {
+          "anyOf": [
+            {
+              "type": "boolean"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Technical"
+        },
+        "system_design": {
+          "anyOf": [
+            {
+              "type": "boolean"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "System Design"
+        },
+        "rounds": {
+          "anyOf": [
+            {
+              "maximum": 15,
+              "minimum": 1,
+              "type": "integer"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Rounds"
+        },
+        "notes": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Notes"
+        }
+      },
+      "title": "InterviewProcess",
+      "type": "object"
+    },
+    "Location": {
+      "additionalProperties": false,
+      "description": "A physical location for the role. Omit for fully-remote roles.",
+      "properties": {
+        "city": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "City"
+        },
+        "state": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "description": "State / province / region",
+          "title": "State"
+        },
+        "country": {
+          "examples": [
+            "USA",
+            "UK",
+            "Canada"
+          ],
+          "minLength": 2,
+          "title": "Country",
+          "type": "string"
+        }
+      },
+      "required": [
+        "country"
+      ],
+      "title": "Location",
+      "type": "object"
+    },
+    "Season": {
+      "enum": [
+        "summer",
+        "fall",
+        "winter",
+        "spring"
+      ],
+      "title": "Season",
+      "type": "string"
+    },
+    "TechProfile": {
+      "additionalProperties": false,
+      "properties": {
+        "required_skills": {
+          "items": {
+            "type": "string"
+          },
+          "title": "Required Skills",
+          "type": "array"
+        },
+        "preferred_skills": {
+          "items": {
+            "type": "string"
+          },
+          "title": "Preferred Skills",
+          "type": "array"
+        },
+        "languages": {
+          "examples": [
+            [
+              "Python",
+              "C++"
+            ]
+          ],
+          "items": {
+            "type": "string"
+          },
+          "title": "Languages",
+          "type": "array"
+        },
+        "frameworks": {
+          "examples": [
+            [
+              "PyTorch",
+              "React"
+            ]
+          ],
+          "items": {
+            "type": "string"
+          },
+          "title": "Frameworks",
+          "type": "array"
+        },
+        "cloud_platforms": {
+          "examples": [
+            [
+              "AWS",
+              "GCP"
+            ]
+          ],
+          "items": {
+            "type": "string"
+          },
+          "title": "Cloud Platforms",
+          "type": "array"
+        },
+        "resume_keywords": {
+          "items": {
+            "type": "string"
+          },
+          "title": "Resume Keywords",
+          "type": "array"
+        }
+      },
+      "title": "TechProfile",
+      "type": "object"
+    },
+    "VisaSponsorship": {
+      "enum": [
+        "yes",
+        "no",
+        "case-by-case",
+        "unknown"
+      ],
+      "title": "VisaSponsorship",
+      "type": "string"
+    },
+    "WorkMode": {
+      "enum": [
+        "remote",
+        "hybrid",
+        "onsite"
+      ],
+      "title": "WorkMode",
+      "type": "string"
+    }
+  },
+  "additionalProperties": false,
+  "description": "One internship listing == one JSON file in ``data/internships/``.",
+  "properties": {
+    "schema_version": {
+      "default": "1.0",
+      "title": "Schema Version",
+      "type": "string"
+    },
+    "id": {
+      "description": "Globally unique slug, conventionally <company>-<role>-<year>",
+      "examples": [
+        "acme-swe-intern-2027"
+      ],
+      "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$",
+      "title": "Id",
+      "type": "string"
+    },
+    "company": {
+      "$ref": "#/$defs/CompanyInfo"
+    },
+    "role": {
+      "minLength": 2,
+      "title": "Role",
+      "type": "string"
+    },
+    "category": {
+      "$ref": "#/$defs/Category"
+    },
+    "subcategory": {
+      "anyOf": [
+        {
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "examples": [
+        "backend",
+        "nlp",
+        "trading-systems"
+      ],
+      "title": "Subcategory"
+    },
+    "team": {
+      "anyOf": [
+        {
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "title": "Team"
+    },
+    "department": {
+      "anyOf": [
+        {
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "title": "Department"
+    },
+    "business_unit": {
+      "anyOf": [
+        {
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "title": "Business Unit"
+    },
+    "apply_url": {
+      "format": "uri",
+      "maxLength": 2083,
+      "minLength": 1,
+      "title": "Apply Url",
+      "type": "string"
+    },
+    "recruiter_contact": {
+      "anyOf": [
+        {
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "description": "Public contact only \u2014 never scrape private emails",
+      "title": "Recruiter Contact"
+    },
+    "season": {
+      "$ref": "#/$defs/Season",
+      "default": "summer"
+    },
+    "year": {
+      "maximum": 2035,
+      "minimum": 2024,
+      "title": "Year",
+      "type": "integer"
+    },
+    "length_weeks": {
+      "anyOf": [
+        {
+          "maximum": 52,
+          "minimum": 1,
+          "type": "integer"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "title": "Length Weeks"
+    },
+    "work_mode": {
+      "$ref": "#/$defs/WorkMode"
+    },
+    "locations": {
+      "items": {
+        "$ref": "#/$defs/Location"
+      },
+      "title": "Locations",
+      "type": "array"
+    },
+    "compensation": {
+      "$ref": "#/$defs/Compensation"
+    },
+    "eligibility": {
+      "$ref": "#/$defs/Eligibility"
+    },
+    "interview": {
+      "$ref": "#/$defs/InterviewProcess"
+    },
+    "tech": {
+      "$ref": "#/$defs/TechProfile"
+    },
+    "dates": {
+      "$ref": "#/$defs/Dates"
+    },
+    "status": {
+      "$ref": "#/$defs/ApplicationStatus",
+      "default": "unverified"
+    },
+    "recruiting_timeline": {
+      "anyOf": [
+        {
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "description": "Free-text summary, e.g. 'Apps open Aug, OAs Sept, superdays Oct'",
+      "title": "Recruiting Timeline"
+    },
+    "tags": {
+      "examples": [
+        [
+          "big-tech",
+          "returning-program"
+        ]
+      ],
+      "items": {
+        "type": "string"
+      },
+      "title": "Tags",
+      "type": "array"
+    },
+    "notes": {
+      "anyOf": [
+        {
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "title": "Notes"
+    }
+  },
+  "required": [
+    "id",
+    "company",
+    "role",
+    "category",
+    "apply_url",
+    "year",
+    "work_mode",
+    "dates"
+  ],
+  "title": "Internship",
+  "type": "object",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://raw.githubusercontent.com/OWNER/REPO/main/schemas/internship.schema.json"
+}

@@ -1,0 +1,3 @@
+- Projects beat coursework: a well-documented repo reproducing a paper is strong signal.
+- Many ML intern roles expect strong SWE fundamentals too — don't skip data structures prep.
+- Research-track roles usually want publications or substantial research experience; engineering-track roles don't.
