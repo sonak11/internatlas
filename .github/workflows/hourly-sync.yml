@@ -1,0 +1,55 @@
+name: Hourly sync
+
+on:
+  schedule:
+    - cron: "7 * * * *"    # every hour at :07 (avoid the top-of-hour rush)
+  workflow_dispatch:        # lets you trigger a sync manually from the Actions tab
+
+permissions:
+  contents: write
+
+concurrency:
+  group: hourly-sync
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -e .
+
+      - name: Pull live postings from ATS boards + community feeds
+        run: internatlas sync
+
+      - name: Validate the updated tree
+        run: internatlas validate
+
+      - name: Regenerate README, pages, indexes, stats + exports
+        run: internatlas generate
+
+      - name: Commit & push (rebase-retry to survive concurrent runs)
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/ README.md generated/
+          if git diff --cached --quiet; then
+            echo "No changes this hour."
+            exit 0
+          fi
+          git commit -m "chore: hourly sync $(date -u '+%F %H:%M') UTC [skip ci]"
+          # Another run may have pushed while we worked — rebase and retry a few times.
+          for attempt in 1 2 3 4 5; do
+            if git push; then
+              echo "Pushed on attempt $attempt."
+              exit 0
+            fi
+            echo "Push $attempt failed; rebasing on latest main…"
+            git pull --rebase --autostash origin "${GITHUB_REF_NAME}" || true
+          done
+          echo "::error::Could not push after 5 attempts."
+          exit 1
