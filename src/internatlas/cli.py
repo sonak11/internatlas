@@ -61,6 +61,11 @@ def _cmd_dedupe(args: argparse.Namespace) -> int:
     return 1 if dups else 0
 
 
+def _cmd_sync(args: argparse.Namespace) -> int:
+    from .ingest import main
+    return main(args.root)
+
+
 def _cmd_schema(args: argparse.Namespace) -> int:
     from .models import Internship
     schema = Internship.model_json_schema()
@@ -117,6 +122,7 @@ def build_parser() -> argparse.ArgumentParser:
     sub.add_parser("generate", help="Regenerate README, pages, indexes, stats, exports")
     sub.add_parser("dedupe", help="Report likely duplicate listings")
     sub.add_parser("schema", help="Export JSON Schema from the Pydantic models")
+    sub.add_parser("sync", help="Pull live intern postings from ATS sources (hourly job)")
 
     p_link = sub.add_parser("linkcheck", help="Check apply URLs for dead links")
     p_link.add_argument("--limit", type=int, default=None)
@@ -139,6 +145,7 @@ def main(argv: list[str] | None = None) -> int:
         "linkcheck": _cmd_linkcheck,
         "dedupe": _cmd_dedupe,
         "schema": _cmd_schema,
+        "sync": _cmd_sync,
         "new": _cmd_new,
     }
     return dispatch[args.command](args)

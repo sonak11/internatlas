@@ -1,19 +1,114 @@
 # 📬 InternAtlas Weekly Digest — 2026-07-17
 
-## 🆕 New this week (12)
+## 🆕 New this week (107)
 
+- **AMD** — [Hardware Engineering Intern](https://careers.amd.com/) · hardware · —
+- **ASML** — [Hardware Engineering Intern](https://www.asml.com/en/careers) · hardware · —
+- **Accenture** — [Summer Intern](https://www.accenture.com/us-en/careers) · consulting · —
+- **Adobe** — [Software Engineering Intern](https://careers.adobe.com/us/en/university) · software-engineering · —
+- **Airbnb** — [Software Engineering Intern](https://careers.airbnb.com/) · software-engineering · —
+- **Akuna Capital** — [Quantitative Trading / Research Intern](https://akunacapital.com/careers) · quant · —
+- **Amazon** — [Software Engineering Intern](https://www.amazon.jobs/en/teams/internships-for-students) · software-engineering · —
+- **American Express** — [Software Engineering Intern](https://www.americanexpress.com/en-us/careers/) · software-engineering · —
+- **Analog Devices** — [Hardware Engineering Intern](https://www.analog.com/en/about-adi/careers.html) · hardware · —
+- **Anduril** — [Embedded Software Intern](https://www.anduril.com/careers/) · embedded · —
+- **Anthropic** — [Research / Engineering Intern](https://www.anthropic.com/careers) · research · —
+- **Apple** — [Software Engineering Intern](https://www.apple.com/careers/us/students.html) · software-engineering · —
+- **Arm** — [Hardware Engineering Intern](https://careers.arm.com/) · hardware · —
+- **Atlassian** — [Software Engineering Intern](https://www.atlassian.com/company/careers/students) · software-engineering · —
+- **Bain & Company** — [Associate Consultant Intern](https://www.bain.com/careers/) · consulting · —
+- **Bank of America** — [Global Technology Summer Analyst](https://careers.bankofamerica.com/en-us/students) · finance · —
+- **BlackRock** — [Summer Analyst (Aladdin Engineering)](https://careers.blackrock.com/) · finance · —
+- **Block** — [Software Engineering Intern](https://block.xyz/careers) · software-engineering · —
+- **Bloomberg** — [Software Engineering Intern](https://www.bloomberg.com/careers) · software-engineering · —
+- **Blue Origin** — [Embedded Software Intern](https://www.blueorigin.com/careers) · embedded · —
+- **Boeing** — [Embedded Software Intern](https://jobs.boeing.com/) · embedded · —
+- **Boston Consulting Group** — [Summer Associate](https://careers.bcg.com/) · consulting · —
 - **Capital One** — [Data Science Intern](https://www.capitalonecareers.com/students-and-grads) · data-science · —
+- **Cisco** — [Software Engineering Intern](https://jobs.cisco.com/) · software-engineering · —
 - **Citadel** — [Software Engineering Intern](https://www.citadel.com/careers/open-opportunities/students/) · software-engineering · $95–120/hr
+- **Citadel Securities** — [Quantitative Trading / Research Intern](https://www.citadelsecurities.com/careers/) · quant · —
 - **Cloudflare** — [Security Engineering Intern](https://www.cloudflare.com/careers/early-talent/) · security · —
+- **Cohere** — [Machine Learning Intern](https://cohere.com/careers) · machine-learning · —
+- **Coinbase** — [Software Engineering Intern](https://www.coinbase.com/careers) · software-engineering · —
+- **D. E. Shaw** — [Quantitative Trading / Research Intern](https://www.deshaw.com/careers) · quant · —
+- **DRW** — [Quantitative Trading / Research Intern](https://www.drw.com/work-at-drw) · quant · —
 - **Databricks** — [Software Engineering Intern — Data Platform](https://www.databricks.com/company/careers/university-recruiting) · data-engineering · —
+- **Datadog** — [Cloud / Infrastructure Intern](https://careers.datadoghq.com/) · cloud · —
+- **Discord** — [Software Engineering Intern](https://discord.com/careers) · software-engineering · —
+- **DoorDash** — [Software Engineering Intern](https://careersatdoordash.com/) · software-engineering · —
+- **Dropbox** — [Software Engineering Intern](https://jobs.dropbox.com/) · software-engineering · —
+- **Duolingo** — [Software Engineering Intern](https://careers.duolingo.com/) · software-engineering · —
+- **Epic Systems** — [Software Engineering Intern](https://careers.epic.com/) · software-engineering · —
+- **Fidelity** — [Software Engineering Intern](https://jobs.fidelity.com/) · software-engineering · —
+- **Figma** — [Software Engineering Intern](https://www.figma.com/careers/) · software-engineering · —
+- **Flow Traders** — [Quantitative Trading / Research Intern](https://www.flowtraders.com/careers) · quant · —
+- **Goldman Sachs** — [Summer Analyst (Engineering)](https://www.goldmansachs.com/careers/students) · finance · —
 - **Google** — [Software Engineering Intern](https://www.google.com/about/careers/applications/jobs/results/?q=software%20engineering%20intern) · software-engineering · —
 - **Google** — [STEP Intern (First & Second Year)](https://www.google.com/about/careers/applications/jobs/results/?q=step%20intern) · software-engineering · —
+- **Hudson River Trading** — [Quantitative Trading / Research Intern](https://www.hudsonrivertrading.com/careers/) · quant · —
+- **IBM** — [Software Engineering Intern](https://www.ibm.com/careers) · software-engineering · —
+- **IMC Trading** — [Quantitative Trading / Research Intern](https://careers.imc.com/) · quant · —
+- **Intel** — [Hardware Engineering Intern](https://jobs.intel.com/en/students) · hardware · —
+- **Intuit** — [Software Engineering Intern](https://www.intuit.com/careers/) · software-engineering · —
+- **J.P. Morgan** — [Software Engineer Program Summer Analyst](https://careers.jpmorgan.com/us/en/students) · finance · —
 - **Jane Street** — [Quantitative Trading Intern](https://www.janestreet.com/join-jane-street/open-roles/) · quant · $100–125/hr
+- **Johnson & Johnson** — [Data Science Intern](https://www.careers.jnj.com/) · data-science · —
+- **Jump Trading** — [Quantitative Trading / Research Intern](https://www.jumptrading.com/careers/) · quant · —
+- **L3Harris** — [Embedded Software Intern](https://careers.l3harris.com/) · embedded · —
+- **LinkedIn** — [Software Engineering Intern](https://careers.linkedin.com/) · software-engineering · —
 - **Lockheed Martin** — [Embedded Software Intern](https://www.lockheedmartinjobs.com/students-early-careers) · embedded · —
+- **Lyft** — [Software Engineering Intern](https://www.lyft.com/careers) · software-engineering · —
+- **MITRE** — [Research Intern](https://careers.mitre.org/) · research · —
+- **Mastercard** — [Software Engineering Intern](https://careers.mastercard.com/) · software-engineering · —
+- **McKinsey & Company** — [Summer Business Analyst](https://www.mckinsey.com/careers) · consulting · —
+- **Meta** — [Software Engineering Intern](https://www.metacareers.com/jobs) · software-engineering · —
+- **Micron** — [Hardware Engineering Intern](https://careers.micron.com/) · hardware · —
 - **Microsoft** — [Explore Intern (First & Second Year)](https://careers.microsoft.com/v2/global/en/students) · software-engineering · —
+- **Millennium** — [Quantitative Trading / Research Intern](https://www.mlp.com/careers/) · quant · —
+- **MongoDB** — [Software Engineering Intern](https://www.mongodb.com/company/careers) · software-engineering · —
+- **Morgan Stanley** — [Technology Summer Analyst](https://www.morganstanley.com/careers/students-graduates) · finance · —
+- **NASA** — [NASA Internship Program](https://intern.nasa.gov/) · research · —
 - **NVIDIA** — [Machine Learning Intern](https://www.nvidia.com/en-us/about-nvidia/careers/university-recruiting/) · machine-learning · —
+- **Netflix** — [Software Engineering Intern](https://jobs.netflix.com/) · software-engineering · —
+- **Northrop Grumman** — [Embedded Software Intern](https://www.northropgrumman.com/careers/) · embedded · —
+- **Notion** — [Software Engineering Intern](https://www.notion.so/careers) · software-engineering · —
 - **OpenAI** — [Research Intern](https://openai.com/careers/) · research · —
+- **Optiver** — [Quantitative Trading / Research Intern](https://optiver.com/working-at-optiver/) · quant · —
+- **Oracle** — [Software Engineering Intern](https://www.oracle.com/careers/students-grads/) · software-engineering · —
+- **Palantir** — [Software Engineering Intern](https://www.palantir.com/careers/) · software-engineering · —
+- **PayPal** — [Software Engineering Intern](https://careers.pypl.com/) · software-engineering · —
+- **Pinterest** — [Software Engineering Intern](https://www.pinterestcareers.com/) · software-engineering · —
+- **Plaid** — [Software Engineering Intern](https://plaid.com/careers/) · software-engineering · —
+- **Point72** — [Quantitative Trading / Research Intern](https://careers.point72.com/) · quant · —
+- **Qualcomm** — [Hardware Engineering Intern](https://www.qualcomm.com/company/careers/students) · hardware · —
+- **RTX (Raytheon)** — [Embedded Software Intern](https://careers.rtx.com/) · embedded · —
+- **Ramp** — [Software Engineering Intern](https://ramp.com/careers) · software-engineering · —
+- **Rivian** — [Embedded Software Intern](https://rivian.com/careers) · embedded · —
+- **Robinhood** — [Software Engineering Intern](https://careers.robinhood.com/) · software-engineering · —
+- **Roblox** — [Software Engineering Intern](https://careers.roblox.com/) · software-engineering · —
+- **SAP** — [Software Engineering Intern](https://jobs.sap.com/) · software-engineering · —
+- **SIG (Susquehanna)** — [Quantitative Trading / Research Intern](https://careers.sig.com/) · quant · —
+- **Salesforce** — [Software Engineering Intern](https://careers.salesforce.com/) · software-engineering · —
+- **Sandia National Laboratories** — [Research Intern](https://www.sandia.gov/careers/) · research · —
+- **Scale AI** — [Machine Learning Intern](https://scale.com/careers) · machine-learning · —
+- **ServiceNow** — [Software Engineering Intern](https://careers.servicenow.com/) · software-engineering · —
+- **Shopify** — [Software Engineering Intern](https://www.shopify.com/careers) · software-engineering · —
+- **Snap** — [Software Engineering Intern](https://careers.snap.com/) · software-engineering · —
+- **Snowflake** — [Data Engineering Intern](https://careers.snowflake.com/) · data-engineering · —
+- **SpaceX** — [Embedded Software Intern](https://www.spacex.com/careers/) · embedded · —
 - **Stripe** — [Software Engineering Intern](https://stripe.com/jobs/university) · software-engineering · —
+- **Tesla** — [Embedded Software Intern](https://www.tesla.com/careers) · embedded · —
+- **Texas Instruments** — [Hardware Engineering Intern](https://careers.ti.com/) · hardware · —
+- **TikTok** — [Software Engineering Intern](https://careers.tiktok.com/) · software-engineering · —
+- **Tower Research Capital** — [Quantitative Trading / Research Intern](https://www.tower-research.com/) · quant · —
+- **Twilio** — [Software Engineering Intern](https://www.twilio.com/en-us/company/jobs) · software-engineering · —
+- **Two Sigma** — [Quantitative Trading / Research Intern](https://careers.twosigma.com/) · quant · —
+- **Uber** — [Software Engineering Intern](https://www.uber.com/us/en/careers/teams/university/) · software-engineering · —
+- **UnitedHealth Group / Optum** — [Software Engineering Intern](https://careers.unitedhealthgroup.com/) · software-engineering · —
+- **Vanguard** — [Software Engineering Intern](https://www.vanguardjobs.com/) · software-engineering · —
+- **Virtu Financial** — [Quantitative Trading / Research Intern](https://www.virtu.com/careers/) · quant · —
+- **Waymo** — [Machine Learning Intern](https://waymo.com/careers/) · machine-learning · —
 
 ## ⏰ Closing within 7 days (0)
 

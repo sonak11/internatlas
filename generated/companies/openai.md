@@ -6,9 +6,9 @@
 
 ## Current openings
 
-| Company | Role | Location | Mode | Pay | Visa | Deadline | Status |
-|---|---|---|---|---|---|---|---|
-| OpenAI | [Research Intern](https://openai.com/careers/) | San Francisco, CA | Onsite | — | ✅ | Rolling | ⚪ Unverified |
+| Company | Role | Location | Mode | Pay | Visa | Posted | Deadline | Status |
+|---|---|---|---|---|---|---|---|---|
+| OpenAI | [Research Intern](https://openai.com/careers/) | San Francisco, CA | Onsite | — | ✅ | 2026-07-16* | Rolling | ⚪ Unverified |
 
 ## Interview process
 

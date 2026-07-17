@@ -6,9 +6,9 @@
 
 ## Current openings
 
-| Company | Role | Location | Mode | Pay | Visa | Deadline | Status |
-|---|---|---|---|---|---|---|---|
-| Lockheed Martin | [Embedded Software Intern](https://www.lockheedmartinjobs.com/students-early-careers) | Fort Worth, TX | Onsite | — | ❌ | Rolling | ⚪ Unverified |
+| Company | Role | Location | Mode | Pay | Visa | Posted | Deadline | Status |
+|---|---|---|---|---|---|---|---|---|
+| Lockheed Martin | [Embedded Software Intern](https://www.lockheedmartinjobs.com/students-early-careers) | Fort Worth, TX | Onsite | — | ❌ | 2026-07-16* | Rolling | ⚪ Unverified |
 
 ## Interview process
 

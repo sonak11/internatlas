@@ -6,9 +6,9 @@
 
 ## Current openings
 
-| Company | Role | Location | Mode | Pay | Visa | Deadline | Status |
-|---|---|---|---|---|---|---|---|
-| Databricks | [Software Engineering Intern — Data Platform](https://www.databricks.com/company/careers/university-recruiting) | San Francisco, CA | Onsite | — | ✅ | Rolling | ⚪ Unverified |
+| Company | Role | Location | Mode | Pay | Visa | Posted | Deadline | Status |
+|---|---|---|---|---|---|---|---|---|
+| Databricks | [Software Engineering Intern — Data Platform](https://www.databricks.com/company/careers/university-recruiting) | San Francisco, CA | Onsite | — | ✅ | 2026-07-16* | Rolling | ⚪ Unverified |
 
 ## Interview process
 

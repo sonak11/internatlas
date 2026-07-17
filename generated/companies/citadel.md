@@ -6,9 +6,9 @@
 
 ## Current openings
 
-| Company | Role | Location | Mode | Pay | Visa | Deadline | Status |
-|---|---|---|---|---|---|---|---|
-| Citadel | [Software Engineering Intern](https://www.citadel.com/careers/open-opportunities/students/) | Chicago, IL +1 | Onsite | $95–120/hr | ✅ | Rolling | ⚪ Unverified |
+| Company | Role | Location | Mode | Pay | Visa | Posted | Deadline | Status |
+|---|---|---|---|---|---|---|---|---|
+| Citadel | [Software Engineering Intern](https://www.citadel.com/careers/open-opportunities/students/) | Chicago, IL +1 | Onsite | $95–120/hr | ✅ | 2026-07-16* | Rolling | ⚪ Unverified |
 
 ## Interview process
 

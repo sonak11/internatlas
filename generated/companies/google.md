@@ -6,10 +6,10 @@
 
 ## Current openings
 
-| Company | Role | Location | Mode | Pay | Visa | Deadline | Status |
-|---|---|---|---|---|---|---|---|
-| Google | [Software Engineering Intern](https://www.google.com/about/careers/applications/jobs/results/?q=software%20engineering%20intern) | Mountain View, CA +1 | Onsite | — | ✅ | Rolling | ⚪ Unverified |
-| Google | [STEP Intern (First & Second Year)](https://www.google.com/about/careers/applications/jobs/results/?q=step%20intern) | Mountain View, CA | Onsite | — | ✅ | Rolling | ⚪ Unverified |
+| Company | Role | Location | Mode | Pay | Visa | Posted | Deadline | Status |
+|---|---|---|---|---|---|---|---|---|
+| Google | [Software Engineering Intern](https://www.google.com/about/careers/applications/jobs/results/?q=software%20engineering%20intern) | Mountain View, CA +1 | Onsite | — | ✅ | 2026-07-16* | Rolling | ⚪ Unverified |
+| Google | [STEP Intern (First & Second Year)](https://www.google.com/about/careers/applications/jobs/results/?q=step%20intern) | Mountain View, CA | Onsite | — | ✅ | 2026-07-16* | Rolling | ⚪ Unverified |
 
 ## Recruiting timeline
 

@@ -81,6 +81,21 @@ def _deadline_alert(stats: RepoStats) -> str:
     return "\n".join(lines) + "\n"
 
 
+def _listings_by_category(listings: list[Internship]) -> str:
+    """Every listing, inline in the README, grouped by category — no clicking around."""
+    blocks: list[str] = []
+    for cat, label in CATEGORY_LABELS.items():
+        subset = sort_listings([l for l in listings if l.category is cat])
+        if not subset:
+            continue
+        open_n = sum(1 for l in subset if l.is_open)
+        blocks.append(
+            f"### {label} ({len(subset)}{f' · {open_n} open' if open_n else ''})\n\n"
+            f"{listing_table(subset)}\n"
+        )
+    return "\n".join(blocks)
+
+
 def render(listings: list[Internship], stats: RepoStats, template_path: Path) -> str:
     template = template_path.read_text(encoding="utf-8")
     ordered = sort_listings(listings)
@@ -91,6 +106,7 @@ def render(listings: list[Internship], stats: RepoStats, template_path: Path) ->
         "CATEGORY_NAV": _category_nav(),
         "DEADLINE_ALERT": _deadline_alert(stats),
         "ALL_LISTINGS": listing_table(ordered),
+        "LISTINGS_BY_CATEGORY": _listings_by_category(listings),
         "LISTING_COUNT": str(stats.total),
     }
     out = template

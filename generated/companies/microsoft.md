@@ -6,9 +6,9 @@
 
 ## Current openings
 
-| Company | Role | Location | Mode | Pay | Visa | Deadline | Status |
-|---|---|---|---|---|---|---|---|
-| Microsoft | [Explore Intern (First & Second Year)](https://careers.microsoft.com/v2/global/en/students) | Redmond, WA | Onsite | — | ✅ | Rolling | ⚪ Unverified |
+| Company | Role | Location | Mode | Pay | Visa | Posted | Deadline | Status |
+|---|---|---|---|---|---|---|---|---|
+| Microsoft | [Explore Intern (First & Second Year)](https://careers.microsoft.com/v2/global/en/students) | Redmond, WA | Onsite | — | ✅ | 2026-07-16* | Rolling | ⚪ Unverified |
 
 ## Interview process
 

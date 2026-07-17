@@ -6,9 +6,9 @@
 
 ## Current openings
 
-| Company | Role | Location | Mode | Pay | Visa | Deadline | Status |
-|---|---|---|---|---|---|---|---|
-| Capital One | [Data Science Intern](https://www.capitalonecareers.com/students-and-grads) | McLean, VA | Hybrid | — | ❌ | Rolling | ⚪ Unverified |
+| Company | Role | Location | Mode | Pay | Visa | Posted | Deadline | Status |
+|---|---|---|---|---|---|---|---|---|
+| Capital One | [Data Science Intern](https://www.capitalonecareers.com/students-and-grads) | McLean, VA | Hybrid | — | ❌ | 2026-07-16* | Rolling | ⚪ Unverified |
 
 ## Interview process
 

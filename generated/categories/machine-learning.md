@@ -2,17 +2,23 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🧠 Machine Learning Internships
 
-**1** tracked · **0** open now
+**4** tracked · **0** open now
 
 ## Current openings
 
-| Company | Role | Location | Mode | Pay | Visa | Deadline | Status |
-|---|---|---|---|---|---|---|---|
-| [NVIDIA](generated/companies/nvidia.md) | [Machine Learning Intern](https://www.nvidia.com/en-us/about-nvidia/careers/university-recruiting/) | Santa Clara, CA | Hybrid | — | ✅ | Rolling | ⚪ Unverified |
+| Company | Role | Location | Mode | Pay | Visa | Posted | Deadline | Status |
+|---|---|---|---|---|---|---|---|---|
+| [Cohere](generated/companies/cohere.md) | [Machine Learning Intern](https://cohere.com/careers) | Toronto, ON | Onsite | — | ❔ | 2026-07-16* | Rolling | ⚪ Unverified |
+| [NVIDIA](generated/companies/nvidia.md) | [Machine Learning Intern](https://www.nvidia.com/en-us/about-nvidia/careers/university-recruiting/) | Santa Clara, CA | Hybrid | — | ✅ | 2026-07-16* | Rolling | ⚪ Unverified |
+| [Scale AI](generated/companies/scale-ai.md) | [Machine Learning Intern](https://scale.com/careers) | San Francisco, CA | Onsite | — | ❔ | 2026-07-16* | Rolling | ⚪ Unverified |
+| [Waymo](generated/companies/waymo.md) | [Machine Learning Intern](https://waymo.com/careers/) | Mountain View, CA | Onsite | — | ❔ | 2026-07-16* | Rolling | ⚪ Unverified |
 
 ## Hiring companies
 
+- Cohere (1)
 - NVIDIA (1)
+- Scale AI (1)
+- Waymo (1)
 
 ## Most requested languages
 

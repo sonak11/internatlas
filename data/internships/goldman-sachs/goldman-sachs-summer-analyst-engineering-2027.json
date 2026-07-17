@@ -1,0 +1,53 @@
+{
+  "schema_version": "1.0",
+  "id": "goldman-sachs-summer-analyst-engineering-2027",
+  "company": {
+    "name": "Goldman Sachs",
+    "slug": "goldman-sachs",
+    "career_page": "https://www.goldmansachs.com/careers/students",
+    "size": "large",
+    "industry": "finance",
+    "company_type": "public",
+    "fortune_500": true
+  },
+  "role": "Summer Analyst (Engineering)",
+  "category": "finance",
+  "apply_url": "https://www.goldmansachs.com/careers/students",
+  "season": "summer",
+  "year": 2027,
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "New York",
+      "state": "NY",
+      "country": "USA"
+    }
+  ],
+  "compensation": {
+    "currency": "USD",
+    "housing_stipend": false,
+    "relocation_assistance": false
+  },
+  "eligibility": {
+    "graduation_years": [],
+    "degree_levels": [],
+    "citizenship_required": false,
+    "security_clearance_required": false,
+    "visa_sponsorship": "unknown"
+  },
+  "interview": {},
+  "tech": {
+    "required_skills": [],
+    "preferred_skills": [],
+    "languages": [],
+    "frameworks": [],
+    "cloud_platforms": [],
+    "resume_keywords": []
+  },
+  "dates": {
+    "discovered": "2026-07-16"
+  },
+  "status": "unverified",
+  "tags": [],
+  "notes": "Seed listing — points at the official careers portal; role details unverified. Confirm on the company site and PR corrections/enrichment."
+}

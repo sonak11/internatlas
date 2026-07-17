@@ -9,29 +9,42 @@ _Generated 2026-07-17_
 | Company | Listings |
 |---|---|
 | Google | 2 |
-| Capital One | 1 |
-| Citadel | 1 |
-| Cloudflare | 1 |
-| Databricks | 1 |
-| Jane Street | 1 |
-| Lockheed Martin | 1 |
-| Microsoft | 1 |
-| NVIDIA | 1 |
-| OpenAI | 1 |
-| Stripe | 1 |
+| Accenture | 1 |
+| Adobe | 1 |
+| Airbnb | 1 |
+| Akuna Capital | 1 |
+| Amazon | 1 |
+| AMD | 1 |
+| American Express | 1 |
+| Analog Devices | 1 |
+| Anduril | 1 |
+| Anthropic | 1 |
+| Apple | 1 |
+| Arm | 1 |
+| ASML | 1 |
+| Atlassian | 1 |
+| Bain & Company | 1 |
+| Bank of America | 1 |
+| BlackRock | 1 |
+| Block | 1 |
+| Bloomberg | 1 |
 
 ## Listings by category
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 5 | `██████████` |
-| data-science | 1 | `██` |
-| security | 1 | `██` |
-| data-engineering | 1 | `██` |
-| quant | 1 | `██` |
-| embedded | 1 | `██` |
-| machine-learning | 1 | `██` |
-| research | 1 | `██` |
+| software-engineering | 49 | `███████████` |
+| quant | 16 | `████` |
+| embedded | 10 | `██` |
+| hardware | 8 | `██` |
+| research | 5 | `█` |
+| finance | 5 | `█` |
+| consulting | 4 | `█` |
+| machine-learning | 4 | `█` |
+| data-science | 2 | `█` |
+| data-engineering | 2 | `█` |
+| security | 1 | `█` |
+| cloud | 1 | `█` |
 
 ## Salary
 
@@ -92,15 +105,23 @@ _Generated 2026-07-17_
 
 ## Newest listings
 
-- 2026-07-16 — **Capital One**: [Data Science Intern](https://www.capitalonecareers.com/students-and-grads)
-- 2026-07-16 — **Citadel**: [Software Engineering Intern](https://www.citadel.com/careers/open-opportunities/students/)
-- 2026-07-16 — **Cloudflare**: [Security Engineering Intern](https://www.cloudflare.com/careers/early-talent/)
-- 2026-07-16 — **Databricks**: [Software Engineering Intern — Data Platform](https://www.databricks.com/company/careers/university-recruiting)
-- 2026-07-16 — **Google**: [Software Engineering Intern](https://www.google.com/about/careers/applications/jobs/results/?q=software%20engineering%20intern)
-- 2026-07-16 — **Google**: [STEP Intern (First & Second Year)](https://www.google.com/about/careers/applications/jobs/results/?q=step%20intern)
-- 2026-07-16 — **Jane Street**: [Quantitative Trading Intern](https://www.janestreet.com/join-jane-street/open-roles/)
-- 2026-07-16 — **Lockheed Martin**: [Embedded Software Intern](https://www.lockheedmartinjobs.com/students-early-careers)
-- 2026-07-16 — **Microsoft**: [Explore Intern (First & Second Year)](https://careers.microsoft.com/v2/global/en/students)
-- 2026-07-16 — **NVIDIA**: [Machine Learning Intern](https://www.nvidia.com/en-us/about-nvidia/careers/university-recruiting/)
-- 2026-07-16 — **OpenAI**: [Research Intern](https://openai.com/careers/)
-- 2026-07-16 — **Stripe**: [Software Engineering Intern](https://stripe.com/jobs/university)
+- 2026-07-16 — **Accenture**: [Summer Intern](https://www.accenture.com/us-en/careers)
+- 2026-07-16 — **Adobe**: [Software Engineering Intern](https://careers.adobe.com/us/en/university)
+- 2026-07-16 — **Airbnb**: [Software Engineering Intern](https://careers.airbnb.com/)
+- 2026-07-16 — **Akuna Capital**: [Quantitative Trading / Research Intern](https://akunacapital.com/careers)
+- 2026-07-16 — **Amazon**: [Software Engineering Intern](https://www.amazon.jobs/en/teams/internships-for-students)
+- 2026-07-16 — **AMD**: [Hardware Engineering Intern](https://careers.amd.com/)
+- 2026-07-16 — **American Express**: [Software Engineering Intern](https://www.americanexpress.com/en-us/careers/)
+- 2026-07-16 — **Analog Devices**: [Hardware Engineering Intern](https://www.analog.com/en/about-adi/careers.html)
+- 2026-07-16 — **Anduril**: [Embedded Software Intern](https://www.anduril.com/careers/)
+- 2026-07-16 — **Anthropic**: [Research / Engineering Intern](https://www.anthropic.com/careers)
+- 2026-07-16 — **Apple**: [Software Engineering Intern](https://www.apple.com/careers/us/students.html)
+- 2026-07-16 — **Arm**: [Hardware Engineering Intern](https://careers.arm.com/)
+- 2026-07-16 — **ASML**: [Hardware Engineering Intern](https://www.asml.com/en/careers)
+- 2026-07-16 — **Atlassian**: [Software Engineering Intern](https://www.atlassian.com/company/careers/students)
+- 2026-07-16 — **Bain & Company**: [Associate Consultant Intern](https://www.bain.com/careers/)
+- 2026-07-16 — **Bank of America**: [Global Technology Summer Analyst](https://careers.bankofamerica.com/en-us/students)
+- 2026-07-16 — **BlackRock**: [Summer Analyst (Aladdin Engineering)](https://careers.blackrock.com/)
+- 2026-07-16 — **Block**: [Software Engineering Intern](https://block.xyz/careers)
+- 2026-07-16 — **Bloomberg**: [Software Engineering Intern](https://www.bloomberg.com/careers)
+- 2026-07-16 — **Blue Origin**: [Embedded Software Intern](https://www.blueorigin.com/careers)

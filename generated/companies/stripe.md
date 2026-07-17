@@ -6,9 +6,9 @@
 
 ## Current openings
 
-| Company | Role | Location | Mode | Pay | Visa | Deadline | Status |
-|---|---|---|---|---|---|---|---|
-| Stripe | [Software Engineering Intern](https://stripe.com/jobs/university) | South San Francisco, CA +1 | Hybrid | — | ✅ | Rolling | ⚪ Unverified |
+| Company | Role | Location | Mode | Pay | Visa | Posted | Deadline | Status |
+|---|---|---|---|---|---|---|---|---|
+| Stripe | [Software Engineering Intern](https://stripe.com/jobs/university) | South San Francisco, CA +1 | Hybrid | — | ✅ | 2026-07-16* | Rolling | ⚪ Unverified |
 
 ## Interview process
 

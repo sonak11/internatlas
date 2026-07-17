@@ -1,7 +1,1163 @@
 {
   "generated": "2026-07-17",
-  "count": 12,
+  "count": 107,
   "internships": [
+    {
+      "schema_version": "1.0",
+      "id": "accenture-summer-intern-2027",
+      "company": {
+        "name": "Accenture",
+        "slug": "accenture",
+        "career_page": "https://www.accenture.com/us-en/careers",
+        "size": "enterprise",
+        "industry": "consulting",
+        "company_type": "public",
+        "fortune_500": true
+      },
+      "role": "Summer Intern",
+      "category": "consulting",
+      "apply_url": "https://www.accenture.com/us-en/careers",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Chicago",
+          "state": "IL",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "discovered": "2026-07-16"
+      },
+      "status": "unverified",
+      "tags": [],
+      "notes": "Seed listing — points at the official careers portal; role details unverified. Confirm on the company site and PR corrections/enrichment."
+    },
+    {
+      "schema_version": "1.0",
+      "id": "adobe-software-engineering-intern-2027",
+      "company": {
+        "name": "Adobe",
+        "slug": "adobe",
+        "career_page": "https://careers.adobe.com/us/en/university",
+        "size": "large",
+        "industry": "big-tech",
+        "company_type": "public",
+        "fortune_500": true
+      },
+      "role": "Software Engineering Intern",
+      "category": "software-engineering",
+      "apply_url": "https://careers.adobe.com/us/en/university",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "discovered": "2026-07-16"
+      },
+      "status": "unverified",
+      "tags": [],
+      "notes": "Seed listing — points at the official careers portal; role details unverified. Confirm on the company site and PR corrections/enrichment."
+    },
+    {
+      "schema_version": "1.0",
+      "id": "airbnb-software-engineering-intern-2027",
+      "company": {
+        "name": "Airbnb",
+        "slug": "airbnb",
+        "career_page": "https://careers.airbnb.com/",
+        "size": "mid",
+        "industry": "big-tech",
+        "company_type": "public",
+        "fortune_500": true
+      },
+      "role": "Software Engineering Intern",
+      "category": "software-engineering",
+      "apply_url": "https://careers.airbnb.com/",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Francisco",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "discovered": "2026-07-16"
+      },
+      "status": "unverified",
+      "tags": [],
+      "notes": "Seed listing — points at the official careers portal; role details unverified. Confirm on the company site and PR corrections/enrichment."
+    },
+    {
+      "schema_version": "1.0",
+      "id": "akuna-capital-quantitative-trading-research-intern-2027",
+      "company": {
+        "name": "Akuna Capital",
+        "slug": "akuna-capital",
+        "career_page": "https://akunacapital.com/careers",
+        "size": "startup",
+        "industry": "quant-trading",
+        "company_type": "private"
+      },
+      "role": "Quantitative Trading / Research Intern",
+      "category": "quant",
+      "apply_url": "https://akunacapital.com/careers",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Chicago",
+          "state": "IL",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "discovered": "2026-07-16"
+      },
+      "status": "unverified",
+      "tags": [],
+      "notes": "Seed listing — points at the official careers portal; role details unverified. Confirm on the company site and PR corrections/enrichment."
+    },
+    {
+      "schema_version": "1.0",
+      "id": "amazon-software-engineering-intern-2027",
+      "company": {
+        "name": "Amazon",
+        "slug": "amazon",
+        "career_page": "https://www.amazon.jobs/en/teams/internships-for-students",
+        "size": "enterprise",
+        "industry": "big-tech",
+        "company_type": "public",
+        "fortune_500": true
+      },
+      "role": "Software Engineering Intern",
+      "category": "software-engineering",
+      "apply_url": "https://www.amazon.jobs/en/teams/internships-for-students",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Seattle",
+          "state": "WA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "discovered": "2026-07-16"
+      },
+      "status": "unverified",
+      "tags": [],
+      "notes": "Seed listing — points at the official careers portal; role details unverified. Confirm on the company site and PR corrections/enrichment."
+    },
+    {
+      "schema_version": "1.0",
+      "id": "amd-hardware-engineering-intern-2027",
+      "company": {
+        "name": "AMD",
+        "slug": "amd",
+        "career_page": "https://careers.amd.com/",
+        "size": "large",
+        "industry": "semiconductors",
+        "company_type": "public",
+        "fortune_500": true
+      },
+      "role": "Hardware Engineering Intern",
+      "category": "hardware",
+      "apply_url": "https://careers.amd.com/",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Santa Clara",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "discovered": "2026-07-16"
+      },
+      "status": "unverified",
+      "tags": [],
+      "notes": "Seed listing — points at the official careers portal; role details unverified. Confirm on the company site and PR corrections/enrichment."
+    },
+    {
+      "schema_version": "1.0",
+      "id": "american-express-software-engineering-intern-2027",
+      "company": {
+        "name": "American Express",
+        "slug": "american-express",
+        "career_page": "https://www.americanexpress.com/en-us/careers/",
+        "size": "large",
+        "industry": "finance",
+        "company_type": "public",
+        "fortune_500": true
+      },
+      "role": "Software Engineering Intern",
+      "category": "software-engineering",
+      "apply_url": "https://www.americanexpress.com/en-us/careers/",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "New York",
+          "state": "NY",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "discovered": "2026-07-16"
+      },
+      "status": "unverified",
+      "tags": [],
+      "notes": "Seed listing — points at the official careers portal; role details unverified. Confirm on the company site and PR corrections/enrichment."
+    },
+    {
+      "schema_version": "1.0",
+      "id": "analog-devices-hardware-engineering-intern-2027",
+      "company": {
+        "name": "Analog Devices",
+        "slug": "analog-devices",
+        "career_page": "https://www.analog.com/en/about-adi/careers.html",
+        "size": "large",
+        "industry": "semiconductors",
+        "company_type": "public",
+        "fortune_500": true
+      },
+      "role": "Hardware Engineering Intern",
+      "category": "hardware",
+      "apply_url": "https://www.analog.com/en/about-adi/careers.html",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Wilmington",
+          "state": "MA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "discovered": "2026-07-16"
+      },
+      "status": "unverified",
+      "tags": [],
+      "notes": "Seed listing — points at the official careers portal; role details unverified. Confirm on the company site and PR corrections/enrichment."
+    },
+    {
+      "schema_version": "1.0",
+      "id": "anduril-embedded-software-intern-2027",
+      "company": {
+        "name": "Anduril",
+        "slug": "anduril",
+        "career_page": "https://www.anduril.com/careers/",
+        "size": "small",
+        "industry": "defense",
+        "company_type": "private"
+      },
+      "role": "Embedded Software Intern",
+      "category": "embedded",
+      "apply_url": "https://www.anduril.com/careers/",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Costa Mesa",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "discovered": "2026-07-16"
+      },
+      "status": "unverified",
+      "tags": [],
+      "notes": "Seed listing — points at the official careers portal; role details unverified. Confirm on the company site and PR corrections/enrichment."
+    },
+    {
+      "schema_version": "1.0",
+      "id": "anthropic-research-engineering-intern-2027",
+      "company": {
+        "name": "Anthropic",
+        "slug": "anthropic",
+        "career_page": "https://www.anthropic.com/careers",
+        "size": "mid",
+        "industry": "big-tech",
+        "company_type": "private"
+      },
+      "role": "Research / Engineering Intern",
+      "category": "research",
+      "apply_url": "https://www.anthropic.com/careers",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Francisco",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "discovered": "2026-07-16"
+      },
+      "status": "unverified",
+      "tags": [],
+      "notes": "Seed listing — points at the official careers portal; role details unverified. Confirm on the company site and PR corrections/enrichment."
+    },
+    {
+      "schema_version": "1.0",
+      "id": "apple-software-engineering-intern-2027",
+      "company": {
+        "name": "Apple",
+        "slug": "apple",
+        "career_page": "https://www.apple.com/careers/us/students.html",
+        "size": "enterprise",
+        "industry": "big-tech",
+        "company_type": "public",
+        "fortune_500": true
+      },
+      "role": "Software Engineering Intern",
+      "category": "software-engineering",
+      "apply_url": "https://www.apple.com/careers/us/students.html",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Cupertino",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "discovered": "2026-07-16"
+      },
+      "status": "unverified",
+      "tags": [],
+      "notes": "Seed listing — points at the official careers portal; role details unverified. Confirm on the company site and PR corrections/enrichment."
+    },
+    {
+      "schema_version": "1.0",
+      "id": "arm-hardware-engineering-intern-2027",
+      "company": {
+        "name": "Arm",
+        "slug": "arm",
+        "career_page": "https://careers.arm.com/",
+        "size": "mid",
+        "industry": "semiconductors",
+        "company_type": "public"
+      },
+      "role": "Hardware Engineering Intern",
+      "category": "hardware",
+      "apply_url": "https://careers.arm.com/",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Austin",
+          "state": "TX",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "discovered": "2026-07-16"
+      },
+      "status": "unverified",
+      "tags": [],
+      "notes": "Seed listing — points at the official careers portal; role details unverified. Confirm on the company site and PR corrections/enrichment."
+    },
+    {
+      "schema_version": "1.0",
+      "id": "asml-hardware-engineering-intern-2027",
+      "company": {
+        "name": "ASML",
+        "slug": "asml",
+        "career_page": "https://www.asml.com/en/careers",
+        "size": "large",
+        "industry": "semiconductors",
+        "company_type": "public"
+      },
+      "role": "Hardware Engineering Intern",
+      "category": "hardware",
+      "apply_url": "https://www.asml.com/en/careers",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Wilton",
+          "state": "CT",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "discovered": "2026-07-16"
+      },
+      "status": "unverified",
+      "tags": [],
+      "notes": "Seed listing — points at the official careers portal; role details unverified. Confirm on the company site and PR corrections/enrichment."
+    },
+    {
+      "schema_version": "1.0",
+      "id": "atlassian-software-engineering-intern-2027",
+      "company": {
+        "name": "Atlassian",
+        "slug": "atlassian",
+        "career_page": "https://www.atlassian.com/company/careers/students",
+        "size": "mid",
+        "industry": "big-tech",
+        "company_type": "public"
+      },
+      "role": "Software Engineering Intern",
+      "category": "software-engineering",
+      "apply_url": "https://www.atlassian.com/company/careers/students",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Francisco",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "discovered": "2026-07-16"
+      },
+      "status": "unverified",
+      "tags": [],
+      "notes": "Seed listing — points at the official careers portal; role details unverified. Confirm on the company site and PR corrections/enrichment."
+    },
+    {
+      "schema_version": "1.0",
+      "id": "bain-company-associate-consultant-intern-2027",
+      "company": {
+        "name": "Bain & Company",
+        "slug": "bain-company",
+        "career_page": "https://www.bain.com/careers/",
+        "size": "large",
+        "industry": "consulting",
+        "company_type": "private"
+      },
+      "role": "Associate Consultant Intern",
+      "category": "consulting",
+      "apply_url": "https://www.bain.com/careers/",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Boston",
+          "state": "MA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "discovered": "2026-07-16"
+      },
+      "status": "unverified",
+      "tags": [],
+      "notes": "Seed listing — points at the official careers portal; role details unverified. Confirm on the company site and PR corrections/enrichment."
+    },
+    {
+      "schema_version": "1.0",
+      "id": "bank-of-america-global-technology-summer-analyst-2027",
+      "company": {
+        "name": "Bank of America",
+        "slug": "bank-of-america",
+        "career_page": "https://careers.bankofamerica.com/en-us/students",
+        "size": "enterprise",
+        "industry": "finance",
+        "company_type": "public",
+        "fortune_500": true
+      },
+      "role": "Global Technology Summer Analyst",
+      "category": "finance",
+      "apply_url": "https://careers.bankofamerica.com/en-us/students",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Charlotte",
+          "state": "NC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "discovered": "2026-07-16"
+      },
+      "status": "unverified",
+      "tags": [],
+      "notes": "Seed listing — points at the official careers portal; role details unverified. Confirm on the company site and PR corrections/enrichment."
+    },
+    {
+      "schema_version": "1.0",
+      "id": "blackrock-summer-analyst-aladdin-engineering-2027",
+      "company": {
+        "name": "BlackRock",
+        "slug": "blackrock",
+        "career_page": "https://careers.blackrock.com/",
+        "size": "large",
+        "industry": "finance",
+        "company_type": "public",
+        "fortune_500": true
+      },
+      "role": "Summer Analyst (Aladdin Engineering)",
+      "category": "finance",
+      "apply_url": "https://careers.blackrock.com/",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "New York",
+          "state": "NY",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "discovered": "2026-07-16"
+      },
+      "status": "unverified",
+      "tags": [],
+      "notes": "Seed listing — points at the official careers portal; role details unverified. Confirm on the company site and PR corrections/enrichment."
+    },
+    {
+      "schema_version": "1.0",
+      "id": "block-software-engineering-intern-2027",
+      "company": {
+        "name": "Block",
+        "slug": "block",
+        "career_page": "https://block.xyz/careers",
+        "size": "mid",
+        "industry": "finance",
+        "company_type": "public",
+        "fortune_500": true
+      },
+      "role": "Software Engineering Intern",
+      "category": "software-engineering",
+      "apply_url": "https://block.xyz/careers",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Oakland",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "discovered": "2026-07-16"
+      },
+      "status": "unverified",
+      "tags": [],
+      "notes": "Seed listing — points at the official careers portal; role details unverified. Confirm on the company site and PR corrections/enrichment."
+    },
+    {
+      "schema_version": "1.0",
+      "id": "bloomberg-software-engineering-intern-2027",
+      "company": {
+        "name": "Bloomberg",
+        "slug": "bloomberg",
+        "career_page": "https://www.bloomberg.com/careers",
+        "size": "large",
+        "industry": "finance",
+        "company_type": "private"
+      },
+      "role": "Software Engineering Intern",
+      "category": "software-engineering",
+      "apply_url": "https://www.bloomberg.com/careers",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "New York",
+          "state": "NY",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "discovered": "2026-07-16"
+      },
+      "status": "unverified",
+      "tags": [],
+      "notes": "Seed listing — points at the official careers portal; role details unverified. Confirm on the company site and PR corrections/enrichment."
+    },
+    {
+      "schema_version": "1.0",
+      "id": "blue-origin-embedded-software-intern-2027",
+      "company": {
+        "name": "Blue Origin",
+        "slug": "blue-origin",
+        "career_page": "https://www.blueorigin.com/careers",
+        "size": "mid",
+        "industry": "aerospace",
+        "company_type": "private"
+      },
+      "role": "Embedded Software Intern",
+      "category": "embedded",
+      "apply_url": "https://www.blueorigin.com/careers",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Kent",
+          "state": "WA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "discovered": "2026-07-16"
+      },
+      "status": "unverified",
+      "tags": [],
+      "notes": "Seed listing — points at the official careers portal; role details unverified. Confirm on the company site and PR corrections/enrichment."
+    },
+    {
+      "schema_version": "1.0",
+      "id": "boeing-embedded-software-intern-2027",
+      "company": {
+        "name": "Boeing",
+        "slug": "boeing",
+        "career_page": "https://jobs.boeing.com/",
+        "size": "enterprise",
+        "industry": "aerospace",
+        "company_type": "public",
+        "fortune_500": true
+      },
+      "role": "Embedded Software Intern",
+      "category": "embedded",
+      "apply_url": "https://jobs.boeing.com/",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Arlington",
+          "state": "VA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "discovered": "2026-07-16"
+      },
+      "status": "unverified",
+      "tags": [],
+      "notes": "Seed listing — points at the official careers portal; role details unverified. Confirm on the company site and PR corrections/enrichment."
+    },
+    {
+      "schema_version": "1.0",
+      "id": "boston-consulting-group-summer-associate-2027",
+      "company": {
+        "name": "Boston Consulting Group",
+        "slug": "boston-consulting-group",
+        "career_page": "https://careers.bcg.com/",
+        "size": "large",
+        "industry": "consulting",
+        "company_type": "private"
+      },
+      "role": "Summer Associate",
+      "category": "consulting",
+      "apply_url": "https://careers.bcg.com/",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Boston",
+          "state": "MA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "discovered": "2026-07-16"
+      },
+      "status": "unverified",
+      "tags": [],
+      "notes": "Seed listing — points at the official careers portal; role details unverified. Confirm on the company site and PR corrections/enrichment."
+    },
     {
       "schema_version": "1.0",
       "id": "capital-one-data-science-intern-2027",
@@ -72,6 +1228,59 @@
       "status": "unverified",
       "tags": [],
       "notes": "Seed example — details unverified; confirm on the careers page and PR corrections."
+    },
+    {
+      "schema_version": "1.0",
+      "id": "cisco-software-engineering-intern-2027",
+      "company": {
+        "name": "Cisco",
+        "slug": "cisco",
+        "career_page": "https://jobs.cisco.com/",
+        "size": "large",
+        "industry": "big-tech",
+        "company_type": "public",
+        "fortune_500": true
+      },
+      "role": "Software Engineering Intern",
+      "category": "software-engineering",
+      "apply_url": "https://jobs.cisco.com/",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "discovered": "2026-07-16"
+      },
+      "status": "unverified",
+      "tags": [],
+      "notes": "Seed listing — points at the official careers portal; role details unverified. Confirm on the company site and PR corrections/enrichment."
     },
     {
       "schema_version": "1.0",
@@ -151,6 +1360,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "citadel-securities-quantitative-trading-research-intern-2027",
+      "company": {
+        "name": "Citadel Securities",
+        "slug": "citadel-securities",
+        "career_page": "https://www.citadelsecurities.com/careers/",
+        "size": "small",
+        "industry": "quant-trading",
+        "company_type": "private"
+      },
+      "role": "Quantitative Trading / Research Intern",
+      "category": "quant",
+      "apply_url": "https://www.citadelsecurities.com/careers/",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Miami",
+          "state": "FL",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "discovered": "2026-07-16"
+      },
+      "status": "unverified",
+      "tags": [],
+      "notes": "Seed listing — points at the official careers portal; role details unverified. Confirm on the company site and PR corrections/enrichment."
+    },
+    {
+      "schema_version": "1.0",
       "id": "cloudflare-security-engineering-intern-2027",
       "company": {
         "name": "Cloudflare",
@@ -211,6 +1472,162 @@
         "remote"
       ],
       "notes": "Seed example — details unverified; confirm on the careers page and PR corrections."
+    },
+    {
+      "schema_version": "1.0",
+      "id": "cohere-machine-learning-intern-2027",
+      "company": {
+        "name": "Cohere",
+        "slug": "cohere",
+        "career_page": "https://cohere.com/careers",
+        "size": "small",
+        "industry": "startup",
+        "company_type": "private"
+      },
+      "role": "Machine Learning Intern",
+      "category": "machine-learning",
+      "apply_url": "https://cohere.com/careers",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Toronto",
+          "state": "ON",
+          "country": "Canada"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "discovered": "2026-07-16"
+      },
+      "status": "unverified",
+      "tags": [],
+      "notes": "Seed listing — points at the official careers portal; role details unverified. Confirm on the company site and PR corrections/enrichment."
+    },
+    {
+      "schema_version": "1.0",
+      "id": "coinbase-software-engineering-intern-2027",
+      "company": {
+        "name": "Coinbase",
+        "slug": "coinbase",
+        "career_page": "https://www.coinbase.com/careers",
+        "size": "mid",
+        "industry": "finance",
+        "company_type": "public"
+      },
+      "role": "Software Engineering Intern",
+      "category": "software-engineering",
+      "apply_url": "https://www.coinbase.com/careers",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Francisco",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "discovered": "2026-07-16"
+      },
+      "status": "unverified",
+      "tags": [],
+      "notes": "Seed listing — points at the official careers portal; role details unverified. Confirm on the company site and PR corrections/enrichment."
+    },
+    {
+      "schema_version": "1.0",
+      "id": "d-e-shaw-quantitative-trading-research-intern-2027",
+      "company": {
+        "name": "D. E. Shaw",
+        "slug": "d-e-shaw",
+        "career_page": "https://www.deshaw.com/careers",
+        "size": "small",
+        "industry": "quant-trading",
+        "company_type": "private"
+      },
+      "role": "Quantitative Trading / Research Intern",
+      "category": "quant",
+      "apply_url": "https://www.deshaw.com/careers",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "New York",
+          "state": "NY",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "discovered": "2026-07-16"
+      },
+      "status": "unverified",
+      "tags": [],
+      "notes": "Seed listing — points at the official careers portal; role details unverified. Confirm on the company site and PR corrections/enrichment."
     },
     {
       "schema_version": "1.0",
@@ -281,6 +1698,580 @@
       "status": "unverified",
       "tags": [],
       "notes": "Seed example — details unverified; confirm on the careers page and PR corrections."
+    },
+    {
+      "schema_version": "1.0",
+      "id": "datadog-cloud-infrastructure-intern-2027",
+      "company": {
+        "name": "Datadog",
+        "slug": "datadog",
+        "career_page": "https://careers.datadoghq.com/",
+        "size": "mid",
+        "industry": "big-tech",
+        "company_type": "public"
+      },
+      "role": "Cloud / Infrastructure Intern",
+      "category": "cloud",
+      "apply_url": "https://careers.datadoghq.com/",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "New York",
+          "state": "NY",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "discovered": "2026-07-16"
+      },
+      "status": "unverified",
+      "tags": [],
+      "notes": "Seed listing — points at the official careers portal; role details unverified. Confirm on the company site and PR corrections/enrichment."
+    },
+    {
+      "schema_version": "1.0",
+      "id": "discord-software-engineering-intern-2027",
+      "company": {
+        "name": "Discord",
+        "slug": "discord",
+        "career_page": "https://discord.com/careers",
+        "size": "small",
+        "industry": "startup",
+        "company_type": "private"
+      },
+      "role": "Software Engineering Intern",
+      "category": "software-engineering",
+      "apply_url": "https://discord.com/careers",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Francisco",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "discovered": "2026-07-16"
+      },
+      "status": "unverified",
+      "tags": [],
+      "notes": "Seed listing — points at the official careers portal; role details unverified. Confirm on the company site and PR corrections/enrichment."
+    },
+    {
+      "schema_version": "1.0",
+      "id": "doordash-software-engineering-intern-2027",
+      "company": {
+        "name": "DoorDash",
+        "slug": "doordash",
+        "career_page": "https://careersatdoordash.com/",
+        "size": "mid",
+        "industry": "big-tech",
+        "company_type": "public",
+        "fortune_500": true
+      },
+      "role": "Software Engineering Intern",
+      "category": "software-engineering",
+      "apply_url": "https://careersatdoordash.com/",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Francisco",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "discovered": "2026-07-16"
+      },
+      "status": "unverified",
+      "tags": [],
+      "notes": "Seed listing — points at the official careers portal; role details unverified. Confirm on the company site and PR corrections/enrichment."
+    },
+    {
+      "schema_version": "1.0",
+      "id": "dropbox-software-engineering-intern-2027",
+      "company": {
+        "name": "Dropbox",
+        "slug": "dropbox",
+        "career_page": "https://jobs.dropbox.com/",
+        "size": "mid",
+        "industry": "big-tech",
+        "company_type": "public"
+      },
+      "role": "Software Engineering Intern",
+      "category": "software-engineering",
+      "apply_url": "https://jobs.dropbox.com/",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Francisco",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "discovered": "2026-07-16"
+      },
+      "status": "unverified",
+      "tags": [],
+      "notes": "Seed listing — points at the official careers portal; role details unverified. Confirm on the company site and PR corrections/enrichment."
+    },
+    {
+      "schema_version": "1.0",
+      "id": "drw-quantitative-trading-research-intern-2027",
+      "company": {
+        "name": "DRW",
+        "slug": "drw",
+        "career_page": "https://www.drw.com/work-at-drw",
+        "size": "small",
+        "industry": "quant-trading",
+        "company_type": "private"
+      },
+      "role": "Quantitative Trading / Research Intern",
+      "category": "quant",
+      "apply_url": "https://www.drw.com/work-at-drw",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Chicago",
+          "state": "IL",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "discovered": "2026-07-16"
+      },
+      "status": "unverified",
+      "tags": [],
+      "notes": "Seed listing — points at the official careers portal; role details unverified. Confirm on the company site and PR corrections/enrichment."
+    },
+    {
+      "schema_version": "1.0",
+      "id": "duolingo-software-engineering-intern-2027",
+      "company": {
+        "name": "Duolingo",
+        "slug": "duolingo",
+        "career_page": "https://careers.duolingo.com/",
+        "size": "small",
+        "industry": "startup",
+        "company_type": "public"
+      },
+      "role": "Software Engineering Intern",
+      "category": "software-engineering",
+      "apply_url": "https://careers.duolingo.com/",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Pittsburgh",
+          "state": "PA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "discovered": "2026-07-16"
+      },
+      "status": "unverified",
+      "tags": [],
+      "notes": "Seed listing — points at the official careers portal; role details unverified. Confirm on the company site and PR corrections/enrichment."
+    },
+    {
+      "schema_version": "1.0",
+      "id": "epic-systems-software-engineering-intern-2027",
+      "company": {
+        "name": "Epic Systems",
+        "slug": "epic-systems",
+        "career_page": "https://careers.epic.com/",
+        "size": "mid",
+        "industry": "healthcare",
+        "company_type": "private"
+      },
+      "role": "Software Engineering Intern",
+      "category": "software-engineering",
+      "apply_url": "https://careers.epic.com/",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Verona",
+          "state": "WI",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "discovered": "2026-07-16"
+      },
+      "status": "unverified",
+      "tags": [],
+      "notes": "Seed listing — points at the official careers portal; role details unverified. Confirm on the company site and PR corrections/enrichment."
+    },
+    {
+      "schema_version": "1.0",
+      "id": "fidelity-software-engineering-intern-2027",
+      "company": {
+        "name": "Fidelity",
+        "slug": "fidelity",
+        "career_page": "https://jobs.fidelity.com/",
+        "size": "large",
+        "industry": "finance",
+        "company_type": "private"
+      },
+      "role": "Software Engineering Intern",
+      "category": "software-engineering",
+      "apply_url": "https://jobs.fidelity.com/",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Boston",
+          "state": "MA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "discovered": "2026-07-16"
+      },
+      "status": "unverified",
+      "tags": [],
+      "notes": "Seed listing — points at the official careers portal; role details unverified. Confirm on the company site and PR corrections/enrichment."
+    },
+    {
+      "schema_version": "1.0",
+      "id": "figma-software-engineering-intern-2027",
+      "company": {
+        "name": "Figma",
+        "slug": "figma",
+        "career_page": "https://www.figma.com/careers/",
+        "size": "small",
+        "industry": "startup",
+        "company_type": "private"
+      },
+      "role": "Software Engineering Intern",
+      "category": "software-engineering",
+      "apply_url": "https://www.figma.com/careers/",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Francisco",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "discovered": "2026-07-16"
+      },
+      "status": "unverified",
+      "tags": [],
+      "notes": "Seed listing — points at the official careers portal; role details unverified. Confirm on the company site and PR corrections/enrichment."
+    },
+    {
+      "schema_version": "1.0",
+      "id": "flow-traders-quantitative-trading-research-intern-2027",
+      "company": {
+        "name": "Flow Traders",
+        "slug": "flow-traders",
+        "career_page": "https://www.flowtraders.com/careers",
+        "size": "startup",
+        "industry": "quant-trading",
+        "company_type": "public"
+      },
+      "role": "Quantitative Trading / Research Intern",
+      "category": "quant",
+      "apply_url": "https://www.flowtraders.com/careers",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "New York",
+          "state": "NY",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "discovered": "2026-07-16"
+      },
+      "status": "unverified",
+      "tags": [],
+      "notes": "Seed listing — points at the official careers portal; role details unverified. Confirm on the company site and PR corrections/enrichment."
+    },
+    {
+      "schema_version": "1.0",
+      "id": "goldman-sachs-summer-analyst-engineering-2027",
+      "company": {
+        "name": "Goldman Sachs",
+        "slug": "goldman-sachs",
+        "career_page": "https://www.goldmansachs.com/careers/students",
+        "size": "large",
+        "industry": "finance",
+        "company_type": "public",
+        "fortune_500": true
+      },
+      "role": "Summer Analyst (Engineering)",
+      "category": "finance",
+      "apply_url": "https://www.goldmansachs.com/careers/students",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "New York",
+          "state": "NY",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "discovered": "2026-07-16"
+      },
+      "status": "unverified",
+      "tags": [],
+      "notes": "Seed listing — points at the official careers portal; role details unverified. Confirm on the company site and PR corrections/enrichment."
     },
     {
       "schema_version": "1.0",
@@ -434,6 +2425,322 @@
     },
     {
       "schema_version": "1.0",
+      "id": "hudson-river-trading-quantitative-trading-research-intern-2027",
+      "company": {
+        "name": "Hudson River Trading",
+        "slug": "hudson-river-trading",
+        "career_page": "https://www.hudsonrivertrading.com/careers/",
+        "size": "small",
+        "industry": "quant-trading",
+        "company_type": "private"
+      },
+      "role": "Quantitative Trading / Research Intern",
+      "category": "quant",
+      "apply_url": "https://www.hudsonrivertrading.com/careers/",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "New York",
+          "state": "NY",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "discovered": "2026-07-16"
+      },
+      "status": "unverified",
+      "tags": [],
+      "notes": "Seed listing — points at the official careers portal; role details unverified. Confirm on the company site and PR corrections/enrichment."
+    },
+    {
+      "schema_version": "1.0",
+      "id": "ibm-software-engineering-intern-2027",
+      "company": {
+        "name": "IBM",
+        "slug": "ibm",
+        "career_page": "https://www.ibm.com/careers",
+        "size": "enterprise",
+        "industry": "big-tech",
+        "company_type": "public",
+        "fortune_500": true
+      },
+      "role": "Software Engineering Intern",
+      "category": "software-engineering",
+      "apply_url": "https://www.ibm.com/careers",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Armonk",
+          "state": "NY",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "discovered": "2026-07-16"
+      },
+      "status": "unverified",
+      "tags": [],
+      "notes": "Seed listing — points at the official careers portal; role details unverified. Confirm on the company site and PR corrections/enrichment."
+    },
+    {
+      "schema_version": "1.0",
+      "id": "imc-trading-quantitative-trading-research-intern-2027",
+      "company": {
+        "name": "IMC Trading",
+        "slug": "imc-trading",
+        "career_page": "https://careers.imc.com/",
+        "size": "small",
+        "industry": "quant-trading",
+        "company_type": "private"
+      },
+      "role": "Quantitative Trading / Research Intern",
+      "category": "quant",
+      "apply_url": "https://careers.imc.com/",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Chicago",
+          "state": "IL",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "discovered": "2026-07-16"
+      },
+      "status": "unverified",
+      "tags": [],
+      "notes": "Seed listing — points at the official careers portal; role details unverified. Confirm on the company site and PR corrections/enrichment."
+    },
+    {
+      "schema_version": "1.0",
+      "id": "intel-hardware-engineering-intern-2027",
+      "company": {
+        "name": "Intel",
+        "slug": "intel",
+        "career_page": "https://jobs.intel.com/en/students",
+        "size": "enterprise",
+        "industry": "semiconductors",
+        "company_type": "public",
+        "fortune_500": true
+      },
+      "role": "Hardware Engineering Intern",
+      "category": "hardware",
+      "apply_url": "https://jobs.intel.com/en/students",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Santa Clara",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "discovered": "2026-07-16"
+      },
+      "status": "unverified",
+      "tags": [],
+      "notes": "Seed listing — points at the official careers portal; role details unverified. Confirm on the company site and PR corrections/enrichment."
+    },
+    {
+      "schema_version": "1.0",
+      "id": "intuit-software-engineering-intern-2027",
+      "company": {
+        "name": "Intuit",
+        "slug": "intuit",
+        "career_page": "https://www.intuit.com/careers/",
+        "size": "large",
+        "industry": "big-tech",
+        "company_type": "public",
+        "fortune_500": true
+      },
+      "role": "Software Engineering Intern",
+      "category": "software-engineering",
+      "apply_url": "https://www.intuit.com/careers/",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Mountain View",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "discovered": "2026-07-16"
+      },
+      "status": "unverified",
+      "tags": [],
+      "notes": "Seed listing — points at the official careers portal; role details unverified. Confirm on the company site and PR corrections/enrichment."
+    },
+    {
+      "schema_version": "1.0",
+      "id": "j-p-morgan-software-engineer-program-summer-analyst-2027",
+      "company": {
+        "name": "J.P. Morgan",
+        "slug": "j-p-morgan",
+        "career_page": "https://careers.jpmorgan.com/us/en/students",
+        "size": "enterprise",
+        "industry": "finance",
+        "company_type": "public",
+        "fortune_500": true
+      },
+      "role": "Software Engineer Program Summer Analyst",
+      "category": "finance",
+      "apply_url": "https://careers.jpmorgan.com/us/en/students",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "New York",
+          "state": "NY",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "discovered": "2026-07-16"
+      },
+      "status": "unverified",
+      "tags": [],
+      "notes": "Seed listing — points at the official careers portal; role details unverified. Confirm on the company site and PR corrections/enrichment."
+    },
+    {
+      "schema_version": "1.0",
       "id": "jane-street-quantitative-trading-intern-2027",
       "company": {
         "name": "Jane Street",
@@ -508,6 +2815,216 @@
     },
     {
       "schema_version": "1.0",
+      "id": "johnson-johnson-data-science-intern-2027",
+      "company": {
+        "name": "Johnson & Johnson",
+        "slug": "johnson-johnson",
+        "career_page": "https://www.careers.jnj.com/",
+        "size": "enterprise",
+        "industry": "healthcare",
+        "company_type": "public",
+        "fortune_500": true
+      },
+      "role": "Data Science Intern",
+      "category": "data-science",
+      "apply_url": "https://www.careers.jnj.com/",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "New Brunswick",
+          "state": "NJ",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "discovered": "2026-07-16"
+      },
+      "status": "unverified",
+      "tags": [],
+      "notes": "Seed listing — points at the official careers portal; role details unverified. Confirm on the company site and PR corrections/enrichment."
+    },
+    {
+      "schema_version": "1.0",
+      "id": "jump-trading-quantitative-trading-research-intern-2027",
+      "company": {
+        "name": "Jump Trading",
+        "slug": "jump-trading",
+        "career_page": "https://www.jumptrading.com/careers/",
+        "size": "small",
+        "industry": "quant-trading",
+        "company_type": "private"
+      },
+      "role": "Quantitative Trading / Research Intern",
+      "category": "quant",
+      "apply_url": "https://www.jumptrading.com/careers/",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Chicago",
+          "state": "IL",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "discovered": "2026-07-16"
+      },
+      "status": "unverified",
+      "tags": [],
+      "notes": "Seed listing — points at the official careers portal; role details unverified. Confirm on the company site and PR corrections/enrichment."
+    },
+    {
+      "schema_version": "1.0",
+      "id": "l3harris-embedded-software-intern-2027",
+      "company": {
+        "name": "L3Harris",
+        "slug": "l3harris",
+        "career_page": "https://careers.l3harris.com/",
+        "size": "large",
+        "industry": "defense",
+        "company_type": "public",
+        "fortune_500": true
+      },
+      "role": "Embedded Software Intern",
+      "category": "embedded",
+      "apply_url": "https://careers.l3harris.com/",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Melbourne",
+          "state": "FL",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "discovered": "2026-07-16"
+      },
+      "status": "unverified",
+      "tags": [],
+      "notes": "Seed listing — points at the official careers portal; role details unverified. Confirm on the company site and PR corrections/enrichment."
+    },
+    {
+      "schema_version": "1.0",
+      "id": "linkedin-software-engineering-intern-2027",
+      "company": {
+        "name": "LinkedIn",
+        "slug": "linkedin",
+        "career_page": "https://careers.linkedin.com/",
+        "size": "large",
+        "industry": "big-tech",
+        "company_type": "public"
+      },
+      "role": "Software Engineering Intern",
+      "category": "software-engineering",
+      "apply_url": "https://careers.linkedin.com/",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Sunnyvale",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "discovered": "2026-07-16"
+      },
+      "status": "unverified",
+      "tags": [],
+      "notes": "Seed listing — points at the official careers portal; role details unverified. Confirm on the company site and PR corrections/enrichment."
+    },
+    {
+      "schema_version": "1.0",
       "id": "lockheed-martin-embedded-software-intern-2027",
       "company": {
         "name": "Lockheed Martin",
@@ -579,6 +3096,269 @@
     },
     {
       "schema_version": "1.0",
+      "id": "lyft-software-engineering-intern-2027",
+      "company": {
+        "name": "Lyft",
+        "slug": "lyft",
+        "career_page": "https://www.lyft.com/careers",
+        "size": "mid",
+        "industry": "big-tech",
+        "company_type": "public"
+      },
+      "role": "Software Engineering Intern",
+      "category": "software-engineering",
+      "apply_url": "https://www.lyft.com/careers",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Francisco",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "discovered": "2026-07-16"
+      },
+      "status": "unverified",
+      "tags": [],
+      "notes": "Seed listing — points at the official careers portal; role details unverified. Confirm on the company site and PR corrections/enrichment."
+    },
+    {
+      "schema_version": "1.0",
+      "id": "mastercard-software-engineering-intern-2027",
+      "company": {
+        "name": "Mastercard",
+        "slug": "mastercard",
+        "career_page": "https://careers.mastercard.com/",
+        "size": "large",
+        "industry": "finance",
+        "company_type": "public",
+        "fortune_500": true
+      },
+      "role": "Software Engineering Intern",
+      "category": "software-engineering",
+      "apply_url": "https://careers.mastercard.com/",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Purchase",
+          "state": "NY",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "discovered": "2026-07-16"
+      },
+      "status": "unverified",
+      "tags": [],
+      "notes": "Seed listing — points at the official careers portal; role details unverified. Confirm on the company site and PR corrections/enrichment."
+    },
+    {
+      "schema_version": "1.0",
+      "id": "mckinsey-company-summer-business-analyst-2027",
+      "company": {
+        "name": "McKinsey & Company",
+        "slug": "mckinsey-company",
+        "career_page": "https://www.mckinsey.com/careers",
+        "size": "large",
+        "industry": "consulting",
+        "company_type": "private"
+      },
+      "role": "Summer Business Analyst",
+      "category": "consulting",
+      "apply_url": "https://www.mckinsey.com/careers",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "New York",
+          "state": "NY",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "discovered": "2026-07-16"
+      },
+      "status": "unverified",
+      "tags": [],
+      "notes": "Seed listing — points at the official careers portal; role details unverified. Confirm on the company site and PR corrections/enrichment."
+    },
+    {
+      "schema_version": "1.0",
+      "id": "meta-software-engineering-intern-2027",
+      "company": {
+        "name": "Meta",
+        "slug": "meta",
+        "career_page": "https://www.metacareers.com/jobs",
+        "size": "enterprise",
+        "industry": "big-tech",
+        "company_type": "public",
+        "fortune_500": true
+      },
+      "role": "Software Engineering Intern",
+      "category": "software-engineering",
+      "apply_url": "https://www.metacareers.com/jobs",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Menlo Park",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "discovered": "2026-07-16"
+      },
+      "status": "unverified",
+      "tags": [],
+      "notes": "Seed listing — points at the official careers portal; role details unverified. Confirm on the company site and PR corrections/enrichment."
+    },
+    {
+      "schema_version": "1.0",
+      "id": "micron-hardware-engineering-intern-2027",
+      "company": {
+        "name": "Micron",
+        "slug": "micron",
+        "career_page": "https://careers.micron.com/",
+        "size": "large",
+        "industry": "semiconductors",
+        "company_type": "public",
+        "fortune_500": true
+      },
+      "role": "Hardware Engineering Intern",
+      "category": "hardware",
+      "apply_url": "https://careers.micron.com/",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Boise",
+          "state": "ID",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "discovered": "2026-07-16"
+      },
+      "status": "unverified",
+      "tags": [],
+      "notes": "Seed listing — points at the official careers portal; role details unverified. Confirm on the company site and PR corrections/enrichment."
+    },
+    {
+      "schema_version": "1.0",
       "id": "microsoft-explore-intern-2027",
       "company": {
         "name": "Microsoft",
@@ -646,6 +3426,425 @@
         "freshman-friendly"
       ],
       "notes": "Seed example — details unverified; confirm on the careers page and PR corrections."
+    },
+    {
+      "schema_version": "1.0",
+      "id": "millennium-quantitative-trading-research-intern-2027",
+      "company": {
+        "name": "Millennium",
+        "slug": "millennium",
+        "career_page": "https://www.mlp.com/careers/",
+        "size": "small",
+        "industry": "finance",
+        "company_type": "private"
+      },
+      "role": "Quantitative Trading / Research Intern",
+      "category": "quant",
+      "apply_url": "https://www.mlp.com/careers/",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "New York",
+          "state": "NY",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "discovered": "2026-07-16"
+      },
+      "status": "unverified",
+      "tags": [],
+      "notes": "Seed listing — points at the official careers portal; role details unverified. Confirm on the company site and PR corrections/enrichment."
+    },
+    {
+      "schema_version": "1.0",
+      "id": "mitre-research-intern-2027",
+      "company": {
+        "name": "MITRE",
+        "slug": "mitre",
+        "career_page": "https://careers.mitre.org/",
+        "size": "mid",
+        "industry": "government",
+        "company_type": "nonprofit"
+      },
+      "role": "Research Intern",
+      "category": "research",
+      "apply_url": "https://careers.mitre.org/",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "McLean",
+          "state": "VA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "discovered": "2026-07-16"
+      },
+      "status": "unverified",
+      "tags": [],
+      "notes": "Seed listing — points at the official careers portal; role details unverified. Confirm on the company site and PR corrections/enrichment."
+    },
+    {
+      "schema_version": "1.0",
+      "id": "mongodb-software-engineering-intern-2027",
+      "company": {
+        "name": "MongoDB",
+        "slug": "mongodb",
+        "career_page": "https://www.mongodb.com/company/careers",
+        "size": "mid",
+        "industry": "big-tech",
+        "company_type": "public"
+      },
+      "role": "Software Engineering Intern",
+      "category": "software-engineering",
+      "apply_url": "https://www.mongodb.com/company/careers",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "New York",
+          "state": "NY",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "discovered": "2026-07-16"
+      },
+      "status": "unverified",
+      "tags": [],
+      "notes": "Seed listing — points at the official careers portal; role details unverified. Confirm on the company site and PR corrections/enrichment."
+    },
+    {
+      "schema_version": "1.0",
+      "id": "morgan-stanley-technology-summer-analyst-2027",
+      "company": {
+        "name": "Morgan Stanley",
+        "slug": "morgan-stanley",
+        "career_page": "https://www.morganstanley.com/careers/students-graduates",
+        "size": "large",
+        "industry": "finance",
+        "company_type": "public",
+        "fortune_500": true
+      },
+      "role": "Technology Summer Analyst",
+      "category": "finance",
+      "apply_url": "https://www.morganstanley.com/careers/students-graduates",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "New York",
+          "state": "NY",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "discovered": "2026-07-16"
+      },
+      "status": "unverified",
+      "tags": [],
+      "notes": "Seed listing — points at the official careers portal; role details unverified. Confirm on the company site and PR corrections/enrichment."
+    },
+    {
+      "schema_version": "1.0",
+      "id": "nasa-nasa-internship-program-2027",
+      "company": {
+        "name": "NASA",
+        "slug": "nasa",
+        "career_page": "https://intern.nasa.gov/",
+        "size": "large",
+        "industry": "government",
+        "company_type": "government"
+      },
+      "role": "NASA Internship Program",
+      "category": "research",
+      "apply_url": "https://intern.nasa.gov/",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Washington",
+          "state": "DC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "discovered": "2026-07-16"
+      },
+      "status": "unverified",
+      "tags": [],
+      "notes": "Seed listing — points at the official careers portal; role details unverified. Confirm on the company site and PR corrections/enrichment."
+    },
+    {
+      "schema_version": "1.0",
+      "id": "netflix-software-engineering-intern-2027",
+      "company": {
+        "name": "Netflix",
+        "slug": "netflix",
+        "career_page": "https://jobs.netflix.com/",
+        "size": "large",
+        "industry": "media",
+        "company_type": "public",
+        "fortune_500": true
+      },
+      "role": "Software Engineering Intern",
+      "category": "software-engineering",
+      "apply_url": "https://jobs.netflix.com/",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Los Gatos",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "discovered": "2026-07-16"
+      },
+      "status": "unverified",
+      "tags": [],
+      "notes": "Seed listing — points at the official careers portal; role details unverified. Confirm on the company site and PR corrections/enrichment."
+    },
+    {
+      "schema_version": "1.0",
+      "id": "northrop-grumman-embedded-software-intern-2027",
+      "company": {
+        "name": "Northrop Grumman",
+        "slug": "northrop-grumman",
+        "career_page": "https://www.northropgrumman.com/careers/",
+        "size": "large",
+        "industry": "defense",
+        "company_type": "public",
+        "fortune_500": true
+      },
+      "role": "Embedded Software Intern",
+      "category": "embedded",
+      "apply_url": "https://www.northropgrumman.com/careers/",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Falls Church",
+          "state": "VA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "discovered": "2026-07-16"
+      },
+      "status": "unverified",
+      "tags": [],
+      "notes": "Seed listing — points at the official careers portal; role details unverified. Confirm on the company site and PR corrections/enrichment."
+    },
+    {
+      "schema_version": "1.0",
+      "id": "notion-software-engineering-intern-2027",
+      "company": {
+        "name": "Notion",
+        "slug": "notion",
+        "career_page": "https://www.notion.so/careers",
+        "size": "small",
+        "industry": "startup",
+        "company_type": "private"
+      },
+      "role": "Software Engineering Intern",
+      "category": "software-engineering",
+      "apply_url": "https://www.notion.so/careers",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Francisco",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "discovered": "2026-07-16"
+      },
+      "status": "unverified",
+      "tags": [],
+      "notes": "Seed listing — points at the official careers portal; role details unverified. Confirm on the company site and PR corrections/enrichment."
     },
     {
       "schema_version": "1.0",
@@ -791,6 +3990,1209 @@
     },
     {
       "schema_version": "1.0",
+      "id": "optiver-quantitative-trading-research-intern-2027",
+      "company": {
+        "name": "Optiver",
+        "slug": "optiver",
+        "career_page": "https://optiver.com/working-at-optiver/",
+        "size": "small",
+        "industry": "quant-trading",
+        "company_type": "private"
+      },
+      "role": "Quantitative Trading / Research Intern",
+      "category": "quant",
+      "apply_url": "https://optiver.com/working-at-optiver/",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Chicago",
+          "state": "IL",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "discovered": "2026-07-16"
+      },
+      "status": "unverified",
+      "tags": [],
+      "notes": "Seed listing — points at the official careers portal; role details unverified. Confirm on the company site and PR corrections/enrichment."
+    },
+    {
+      "schema_version": "1.0",
+      "id": "oracle-software-engineering-intern-2027",
+      "company": {
+        "name": "Oracle",
+        "slug": "oracle",
+        "career_page": "https://www.oracle.com/careers/students-grads/",
+        "size": "enterprise",
+        "industry": "big-tech",
+        "company_type": "public",
+        "fortune_500": true
+      },
+      "role": "Software Engineering Intern",
+      "category": "software-engineering",
+      "apply_url": "https://www.oracle.com/careers/students-grads/",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Austin",
+          "state": "TX",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "discovered": "2026-07-16"
+      },
+      "status": "unverified",
+      "tags": [],
+      "notes": "Seed listing — points at the official careers portal; role details unverified. Confirm on the company site and PR corrections/enrichment."
+    },
+    {
+      "schema_version": "1.0",
+      "id": "palantir-software-engineering-intern-2027",
+      "company": {
+        "name": "Palantir",
+        "slug": "palantir",
+        "career_page": "https://www.palantir.com/careers/",
+        "size": "mid",
+        "industry": "big-tech",
+        "company_type": "public"
+      },
+      "role": "Software Engineering Intern",
+      "category": "software-engineering",
+      "apply_url": "https://www.palantir.com/careers/",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Denver",
+          "state": "CO",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "discovered": "2026-07-16"
+      },
+      "status": "unverified",
+      "tags": [],
+      "notes": "Seed listing — points at the official careers portal; role details unverified. Confirm on the company site and PR corrections/enrichment."
+    },
+    {
+      "schema_version": "1.0",
+      "id": "paypal-software-engineering-intern-2027",
+      "company": {
+        "name": "PayPal",
+        "slug": "paypal",
+        "career_page": "https://careers.pypl.com/",
+        "size": "large",
+        "industry": "finance",
+        "company_type": "public",
+        "fortune_500": true
+      },
+      "role": "Software Engineering Intern",
+      "category": "software-engineering",
+      "apply_url": "https://careers.pypl.com/",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "discovered": "2026-07-16"
+      },
+      "status": "unverified",
+      "tags": [],
+      "notes": "Seed listing — points at the official careers portal; role details unverified. Confirm on the company site and PR corrections/enrichment."
+    },
+    {
+      "schema_version": "1.0",
+      "id": "pinterest-software-engineering-intern-2027",
+      "company": {
+        "name": "Pinterest",
+        "slug": "pinterest",
+        "career_page": "https://www.pinterestcareers.com/",
+        "size": "mid",
+        "industry": "big-tech",
+        "company_type": "public"
+      },
+      "role": "Software Engineering Intern",
+      "category": "software-engineering",
+      "apply_url": "https://www.pinterestcareers.com/",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Francisco",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "discovered": "2026-07-16"
+      },
+      "status": "unverified",
+      "tags": [],
+      "notes": "Seed listing — points at the official careers portal; role details unverified. Confirm on the company site and PR corrections/enrichment."
+    },
+    {
+      "schema_version": "1.0",
+      "id": "plaid-software-engineering-intern-2027",
+      "company": {
+        "name": "Plaid",
+        "slug": "plaid",
+        "career_page": "https://plaid.com/careers/",
+        "size": "small",
+        "industry": "startup",
+        "company_type": "private"
+      },
+      "role": "Software Engineering Intern",
+      "category": "software-engineering",
+      "apply_url": "https://plaid.com/careers/",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Francisco",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "discovered": "2026-07-16"
+      },
+      "status": "unverified",
+      "tags": [],
+      "notes": "Seed listing — points at the official careers portal; role details unverified. Confirm on the company site and PR corrections/enrichment."
+    },
+    {
+      "schema_version": "1.0",
+      "id": "point72-quantitative-trading-research-intern-2027",
+      "company": {
+        "name": "Point72",
+        "slug": "point72",
+        "career_page": "https://careers.point72.com/",
+        "size": "small",
+        "industry": "finance",
+        "company_type": "private"
+      },
+      "role": "Quantitative Trading / Research Intern",
+      "category": "quant",
+      "apply_url": "https://careers.point72.com/",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Stamford",
+          "state": "CT",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "discovered": "2026-07-16"
+      },
+      "status": "unverified",
+      "tags": [],
+      "notes": "Seed listing — points at the official careers portal; role details unverified. Confirm on the company site and PR corrections/enrichment."
+    },
+    {
+      "schema_version": "1.0",
+      "id": "qualcomm-hardware-engineering-intern-2027",
+      "company": {
+        "name": "Qualcomm",
+        "slug": "qualcomm",
+        "career_page": "https://www.qualcomm.com/company/careers/students",
+        "size": "large",
+        "industry": "semiconductors",
+        "company_type": "public",
+        "fortune_500": true
+      },
+      "role": "Hardware Engineering Intern",
+      "category": "hardware",
+      "apply_url": "https://www.qualcomm.com/company/careers/students",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Diego",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "discovered": "2026-07-16"
+      },
+      "status": "unverified",
+      "tags": [],
+      "notes": "Seed listing — points at the official careers portal; role details unverified. Confirm on the company site and PR corrections/enrichment."
+    },
+    {
+      "schema_version": "1.0",
+      "id": "ramp-software-engineering-intern-2027",
+      "company": {
+        "name": "Ramp",
+        "slug": "ramp",
+        "career_page": "https://ramp.com/careers",
+        "size": "small",
+        "industry": "startup",
+        "company_type": "private"
+      },
+      "role": "Software Engineering Intern",
+      "category": "software-engineering",
+      "apply_url": "https://ramp.com/careers",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "New York",
+          "state": "NY",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "discovered": "2026-07-16"
+      },
+      "status": "unverified",
+      "tags": [],
+      "notes": "Seed listing — points at the official careers portal; role details unverified. Confirm on the company site and PR corrections/enrichment."
+    },
+    {
+      "schema_version": "1.0",
+      "id": "rivian-embedded-software-intern-2027",
+      "company": {
+        "name": "Rivian",
+        "slug": "rivian",
+        "career_page": "https://rivian.com/careers",
+        "size": "mid",
+        "industry": "automotive",
+        "company_type": "public",
+        "fortune_500": true
+      },
+      "role": "Embedded Software Intern",
+      "category": "embedded",
+      "apply_url": "https://rivian.com/careers",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Irvine",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "discovered": "2026-07-16"
+      },
+      "status": "unverified",
+      "tags": [],
+      "notes": "Seed listing — points at the official careers portal; role details unverified. Confirm on the company site and PR corrections/enrichment."
+    },
+    {
+      "schema_version": "1.0",
+      "id": "robinhood-software-engineering-intern-2027",
+      "company": {
+        "name": "Robinhood",
+        "slug": "robinhood",
+        "career_page": "https://careers.robinhood.com/",
+        "size": "mid",
+        "industry": "finance",
+        "company_type": "public"
+      },
+      "role": "Software Engineering Intern",
+      "category": "software-engineering",
+      "apply_url": "https://careers.robinhood.com/",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Menlo Park",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "discovered": "2026-07-16"
+      },
+      "status": "unverified",
+      "tags": [],
+      "notes": "Seed listing — points at the official careers portal; role details unverified. Confirm on the company site and PR corrections/enrichment."
+    },
+    {
+      "schema_version": "1.0",
+      "id": "roblox-software-engineering-intern-2027",
+      "company": {
+        "name": "Roblox",
+        "slug": "roblox",
+        "career_page": "https://careers.roblox.com/",
+        "size": "mid",
+        "industry": "big-tech",
+        "company_type": "public"
+      },
+      "role": "Software Engineering Intern",
+      "category": "software-engineering",
+      "apply_url": "https://careers.roblox.com/",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Mateo",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "discovered": "2026-07-16"
+      },
+      "status": "unverified",
+      "tags": [],
+      "notes": "Seed listing — points at the official careers portal; role details unverified. Confirm on the company site and PR corrections/enrichment."
+    },
+    {
+      "schema_version": "1.0",
+      "id": "rtx-raytheon-embedded-software-intern-2027",
+      "company": {
+        "name": "RTX (Raytheon)",
+        "slug": "rtx-raytheon",
+        "career_page": "https://careers.rtx.com/",
+        "size": "enterprise",
+        "industry": "defense",
+        "company_type": "public",
+        "fortune_500": true
+      },
+      "role": "Embedded Software Intern",
+      "category": "embedded",
+      "apply_url": "https://careers.rtx.com/",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Arlington",
+          "state": "VA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "discovered": "2026-07-16"
+      },
+      "status": "unverified",
+      "tags": [],
+      "notes": "Seed listing — points at the official careers portal; role details unverified. Confirm on the company site and PR corrections/enrichment."
+    },
+    {
+      "schema_version": "1.0",
+      "id": "salesforce-software-engineering-intern-2027",
+      "company": {
+        "name": "Salesforce",
+        "slug": "salesforce",
+        "career_page": "https://careers.salesforce.com/",
+        "size": "large",
+        "industry": "big-tech",
+        "company_type": "public",
+        "fortune_500": true
+      },
+      "role": "Software Engineering Intern",
+      "category": "software-engineering",
+      "apply_url": "https://careers.salesforce.com/",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Francisco",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "discovered": "2026-07-16"
+      },
+      "status": "unverified",
+      "tags": [],
+      "notes": "Seed listing — points at the official careers portal; role details unverified. Confirm on the company site and PR corrections/enrichment."
+    },
+    {
+      "schema_version": "1.0",
+      "id": "sandia-national-laboratories-research-intern-2027",
+      "company": {
+        "name": "Sandia National Laboratories",
+        "slug": "sandia-national-laboratories",
+        "career_page": "https://www.sandia.gov/careers/",
+        "size": "mid",
+        "industry": "government",
+        "company_type": "government"
+      },
+      "role": "Research Intern",
+      "category": "research",
+      "apply_url": "https://www.sandia.gov/careers/",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Albuquerque",
+          "state": "NM",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "discovered": "2026-07-16"
+      },
+      "status": "unverified",
+      "tags": [],
+      "notes": "Seed listing — points at the official careers portal; role details unverified. Confirm on the company site and PR corrections/enrichment."
+    },
+    {
+      "schema_version": "1.0",
+      "id": "sap-software-engineering-intern-2027",
+      "company": {
+        "name": "SAP",
+        "slug": "sap",
+        "career_page": "https://jobs.sap.com/",
+        "size": "enterprise",
+        "industry": "big-tech",
+        "company_type": "public"
+      },
+      "role": "Software Engineering Intern",
+      "category": "software-engineering",
+      "apply_url": "https://jobs.sap.com/",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Newtown Square",
+          "state": "PA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "discovered": "2026-07-16"
+      },
+      "status": "unverified",
+      "tags": [],
+      "notes": "Seed listing — points at the official careers portal; role details unverified. Confirm on the company site and PR corrections/enrichment."
+    },
+    {
+      "schema_version": "1.0",
+      "id": "scale-ai-machine-learning-intern-2027",
+      "company": {
+        "name": "Scale AI",
+        "slug": "scale-ai",
+        "career_page": "https://scale.com/careers",
+        "size": "small",
+        "industry": "startup",
+        "company_type": "private"
+      },
+      "role": "Machine Learning Intern",
+      "category": "machine-learning",
+      "apply_url": "https://scale.com/careers",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Francisco",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "discovered": "2026-07-16"
+      },
+      "status": "unverified",
+      "tags": [],
+      "notes": "Seed listing — points at the official careers portal; role details unverified. Confirm on the company site and PR corrections/enrichment."
+    },
+    {
+      "schema_version": "1.0",
+      "id": "servicenow-software-engineering-intern-2027",
+      "company": {
+        "name": "ServiceNow",
+        "slug": "servicenow",
+        "career_page": "https://careers.servicenow.com/",
+        "size": "large",
+        "industry": "big-tech",
+        "company_type": "public",
+        "fortune_500": true
+      },
+      "role": "Software Engineering Intern",
+      "category": "software-engineering",
+      "apply_url": "https://careers.servicenow.com/",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Santa Clara",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "discovered": "2026-07-16"
+      },
+      "status": "unverified",
+      "tags": [],
+      "notes": "Seed listing — points at the official careers portal; role details unverified. Confirm on the company site and PR corrections/enrichment."
+    },
+    {
+      "schema_version": "1.0",
+      "id": "shopify-software-engineering-intern-2027",
+      "company": {
+        "name": "Shopify",
+        "slug": "shopify",
+        "career_page": "https://www.shopify.com/careers",
+        "size": "mid",
+        "industry": "big-tech",
+        "company_type": "public"
+      },
+      "role": "Software Engineering Intern",
+      "category": "software-engineering",
+      "apply_url": "https://www.shopify.com/careers",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Ottawa",
+          "state": "ON",
+          "country": "Canada"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "discovered": "2026-07-16"
+      },
+      "status": "unverified",
+      "tags": [],
+      "notes": "Seed listing — points at the official careers portal; role details unverified. Confirm on the company site and PR corrections/enrichment."
+    },
+    {
+      "schema_version": "1.0",
+      "id": "sig-susquehanna-quantitative-trading-research-intern-2027",
+      "company": {
+        "name": "SIG (Susquehanna)",
+        "slug": "sig-susquehanna",
+        "career_page": "https://careers.sig.com/",
+        "size": "small",
+        "industry": "quant-trading",
+        "company_type": "private"
+      },
+      "role": "Quantitative Trading / Research Intern",
+      "category": "quant",
+      "apply_url": "https://careers.sig.com/",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Bala Cynwyd",
+          "state": "PA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "discovered": "2026-07-16"
+      },
+      "status": "unverified",
+      "tags": [],
+      "notes": "Seed listing — points at the official careers portal; role details unverified. Confirm on the company site and PR corrections/enrichment."
+    },
+    {
+      "schema_version": "1.0",
+      "id": "snap-software-engineering-intern-2027",
+      "company": {
+        "name": "Snap",
+        "slug": "snap",
+        "career_page": "https://careers.snap.com/",
+        "size": "mid",
+        "industry": "big-tech",
+        "company_type": "public"
+      },
+      "role": "Software Engineering Intern",
+      "category": "software-engineering",
+      "apply_url": "https://careers.snap.com/",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Santa Monica",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "discovered": "2026-07-16"
+      },
+      "status": "unverified",
+      "tags": [],
+      "notes": "Seed listing — points at the official careers portal; role details unverified. Confirm on the company site and PR corrections/enrichment."
+    },
+    {
+      "schema_version": "1.0",
+      "id": "snowflake-data-engineering-intern-2027",
+      "company": {
+        "name": "Snowflake",
+        "slug": "snowflake",
+        "career_page": "https://careers.snowflake.com/",
+        "size": "mid",
+        "industry": "big-tech",
+        "company_type": "public"
+      },
+      "role": "Data Engineering Intern",
+      "category": "data-engineering",
+      "apply_url": "https://careers.snowflake.com/",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Bozeman",
+          "state": "MT",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "discovered": "2026-07-16"
+      },
+      "status": "unverified",
+      "tags": [],
+      "notes": "Seed listing — points at the official careers portal; role details unverified. Confirm on the company site and PR corrections/enrichment."
+    },
+    {
+      "schema_version": "1.0",
+      "id": "spacex-embedded-software-intern-2027",
+      "company": {
+        "name": "SpaceX",
+        "slug": "spacex",
+        "career_page": "https://www.spacex.com/careers/",
+        "size": "mid",
+        "industry": "aerospace",
+        "company_type": "private"
+      },
+      "role": "Embedded Software Intern",
+      "category": "embedded",
+      "apply_url": "https://www.spacex.com/careers/",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Hawthorne",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "discovered": "2026-07-16"
+      },
+      "status": "unverified",
+      "tags": [],
+      "notes": "Seed listing — points at the official careers portal; role details unverified. Confirm on the company site and PR corrections/enrichment."
+    },
+    {
+      "schema_version": "1.0",
       "id": "stripe-software-engineering-intern-2027",
       "company": {
         "name": "Stripe",
@@ -863,6 +5265,582 @@
       "status": "unverified",
       "tags": [],
       "notes": "Seed example — details unverified; confirm on the careers page and PR corrections."
+    },
+    {
+      "schema_version": "1.0",
+      "id": "tesla-embedded-software-intern-2027",
+      "company": {
+        "name": "Tesla",
+        "slug": "tesla",
+        "career_page": "https://www.tesla.com/careers",
+        "size": "enterprise",
+        "industry": "automotive",
+        "company_type": "public",
+        "fortune_500": true
+      },
+      "role": "Embedded Software Intern",
+      "category": "embedded",
+      "apply_url": "https://www.tesla.com/careers",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Austin",
+          "state": "TX",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "discovered": "2026-07-16"
+      },
+      "status": "unverified",
+      "tags": [],
+      "notes": "Seed listing — points at the official careers portal; role details unverified. Confirm on the company site and PR corrections/enrichment."
+    },
+    {
+      "schema_version": "1.0",
+      "id": "texas-instruments-hardware-engineering-intern-2027",
+      "company": {
+        "name": "Texas Instruments",
+        "slug": "texas-instruments",
+        "career_page": "https://careers.ti.com/",
+        "size": "large",
+        "industry": "semiconductors",
+        "company_type": "public",
+        "fortune_500": true
+      },
+      "role": "Hardware Engineering Intern",
+      "category": "hardware",
+      "apply_url": "https://careers.ti.com/",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Dallas",
+          "state": "TX",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "discovered": "2026-07-16"
+      },
+      "status": "unverified",
+      "tags": [],
+      "notes": "Seed listing — points at the official careers portal; role details unverified. Confirm on the company site and PR corrections/enrichment."
+    },
+    {
+      "schema_version": "1.0",
+      "id": "tiktok-software-engineering-intern-2027",
+      "company": {
+        "name": "TikTok",
+        "slug": "tiktok",
+        "career_page": "https://careers.tiktok.com/",
+        "size": "enterprise",
+        "industry": "big-tech",
+        "company_type": "private"
+      },
+      "role": "Software Engineering Intern",
+      "category": "software-engineering",
+      "apply_url": "https://careers.tiktok.com/",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "discovered": "2026-07-16"
+      },
+      "status": "unverified",
+      "tags": [],
+      "notes": "Seed listing — points at the official careers portal; role details unverified. Confirm on the company site and PR corrections/enrichment."
+    },
+    {
+      "schema_version": "1.0",
+      "id": "tower-research-capital-quantitative-trading-research-intern-2027",
+      "company": {
+        "name": "Tower Research Capital",
+        "slug": "tower-research-capital",
+        "career_page": "https://www.tower-research.com/",
+        "size": "startup",
+        "industry": "quant-trading",
+        "company_type": "private"
+      },
+      "role": "Quantitative Trading / Research Intern",
+      "category": "quant",
+      "apply_url": "https://www.tower-research.com/",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "New York",
+          "state": "NY",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "discovered": "2026-07-16"
+      },
+      "status": "unverified",
+      "tags": [],
+      "notes": "Seed listing — points at the official careers portal; role details unverified. Confirm on the company site and PR corrections/enrichment."
+    },
+    {
+      "schema_version": "1.0",
+      "id": "twilio-software-engineering-intern-2027",
+      "company": {
+        "name": "Twilio",
+        "slug": "twilio",
+        "career_page": "https://www.twilio.com/en-us/company/jobs",
+        "size": "mid",
+        "industry": "big-tech",
+        "company_type": "public"
+      },
+      "role": "Software Engineering Intern",
+      "category": "software-engineering",
+      "apply_url": "https://www.twilio.com/en-us/company/jobs",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Francisco",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "discovered": "2026-07-16"
+      },
+      "status": "unverified",
+      "tags": [],
+      "notes": "Seed listing — points at the official careers portal; role details unverified. Confirm on the company site and PR corrections/enrichment."
+    },
+    {
+      "schema_version": "1.0",
+      "id": "two-sigma-quantitative-trading-research-intern-2027",
+      "company": {
+        "name": "Two Sigma",
+        "slug": "two-sigma",
+        "career_page": "https://careers.twosigma.com/",
+        "size": "small",
+        "industry": "quant-trading",
+        "company_type": "private"
+      },
+      "role": "Quantitative Trading / Research Intern",
+      "category": "quant",
+      "apply_url": "https://careers.twosigma.com/",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "New York",
+          "state": "NY",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "discovered": "2026-07-16"
+      },
+      "status": "unverified",
+      "tags": [],
+      "notes": "Seed listing — points at the official careers portal; role details unverified. Confirm on the company site and PR corrections/enrichment."
+    },
+    {
+      "schema_version": "1.0",
+      "id": "uber-software-engineering-intern-2027",
+      "company": {
+        "name": "Uber",
+        "slug": "uber",
+        "career_page": "https://www.uber.com/us/en/careers/teams/university/",
+        "size": "large",
+        "industry": "big-tech",
+        "company_type": "public",
+        "fortune_500": true
+      },
+      "role": "Software Engineering Intern",
+      "category": "software-engineering",
+      "apply_url": "https://www.uber.com/us/en/careers/teams/university/",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Francisco",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "discovered": "2026-07-16"
+      },
+      "status": "unverified",
+      "tags": [],
+      "notes": "Seed listing — points at the official careers portal; role details unverified. Confirm on the company site and PR corrections/enrichment."
+    },
+    {
+      "schema_version": "1.0",
+      "id": "unitedhealth-group-optum-software-engineering-intern-2027",
+      "company": {
+        "name": "UnitedHealth Group / Optum",
+        "slug": "unitedhealth-group-optum",
+        "career_page": "https://careers.unitedhealthgroup.com/",
+        "size": "enterprise",
+        "industry": "healthcare",
+        "company_type": "public",
+        "fortune_500": true
+      },
+      "role": "Software Engineering Intern",
+      "category": "software-engineering",
+      "apply_url": "https://careers.unitedhealthgroup.com/",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Minnetonka",
+          "state": "MN",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "discovered": "2026-07-16"
+      },
+      "status": "unverified",
+      "tags": [],
+      "notes": "Seed listing — points at the official careers portal; role details unverified. Confirm on the company site and PR corrections/enrichment."
+    },
+    {
+      "schema_version": "1.0",
+      "id": "vanguard-software-engineering-intern-2027",
+      "company": {
+        "name": "Vanguard",
+        "slug": "vanguard",
+        "career_page": "https://www.vanguardjobs.com/",
+        "size": "large",
+        "industry": "finance",
+        "company_type": "private"
+      },
+      "role": "Software Engineering Intern",
+      "category": "software-engineering",
+      "apply_url": "https://www.vanguardjobs.com/",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Malvern",
+          "state": "PA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "discovered": "2026-07-16"
+      },
+      "status": "unverified",
+      "tags": [],
+      "notes": "Seed listing — points at the official careers portal; role details unverified. Confirm on the company site and PR corrections/enrichment."
+    },
+    {
+      "schema_version": "1.0",
+      "id": "virtu-financial-quantitative-trading-research-intern-2027",
+      "company": {
+        "name": "Virtu Financial",
+        "slug": "virtu-financial",
+        "career_page": "https://www.virtu.com/careers/",
+        "size": "startup",
+        "industry": "quant-trading",
+        "company_type": "public"
+      },
+      "role": "Quantitative Trading / Research Intern",
+      "category": "quant",
+      "apply_url": "https://www.virtu.com/careers/",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "New York",
+          "state": "NY",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "discovered": "2026-07-16"
+      },
+      "status": "unverified",
+      "tags": [],
+      "notes": "Seed listing — points at the official careers portal; role details unverified. Confirm on the company site and PR corrections/enrichment."
+    },
+    {
+      "schema_version": "1.0",
+      "id": "waymo-machine-learning-intern-2027",
+      "company": {
+        "name": "Waymo",
+        "slug": "waymo",
+        "career_page": "https://waymo.com/careers/",
+        "size": "mid",
+        "industry": "automotive",
+        "company_type": "private"
+      },
+      "role": "Machine Learning Intern",
+      "category": "machine-learning",
+      "apply_url": "https://waymo.com/careers/",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Mountain View",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "discovered": "2026-07-16"
+      },
+      "status": "unverified",
+      "tags": [],
+      "notes": "Seed listing — points at the official careers portal; role details unverified. Confirm on the company site and PR corrections/enrichment."
     }
   ]
 }

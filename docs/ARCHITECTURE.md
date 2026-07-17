@@ -32,6 +32,15 @@ GitHub Actions is the compute layer; generated Markdown is the read-optimized vi
 └─────────────────────────────────────────────────────────────────┘
 ```
 
+## Hourly sync
+
+`internatlas sync` (run by `.github/workflows/hourly-sync.yml`, cron `7 * * * *`)
+pulls live intern postings from the public Greenhouse/Lever APIs of companies
+declared in `automation/sources.yaml`. New postings become `open` listings tagged
+`auto-ingested`; vanished postings flip to `closed`. Hand-curated files are never
+modified by the sync — human enrichment (pay, eligibility, interview data) is
+preserved across runs.
+
 ## Design principles
 
 1. **One listing = one JSON file.** `data/internships/<company>/<slug>.json`.

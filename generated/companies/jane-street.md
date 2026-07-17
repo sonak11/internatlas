@@ -6,9 +6,9 @@
 
 ## Current openings
 
-| Company | Role | Location | Mode | Pay | Visa | Deadline | Status |
-|---|---|---|---|---|---|---|---|
-| Jane Street | [Quantitative Trading Intern](https://www.janestreet.com/join-jane-street/open-roles/) | New York, NY | Onsite | $100–125/hr | ✅ | Rolling | ⚪ Unverified |
+| Company | Role | Location | Mode | Pay | Visa | Posted | Deadline | Status |
+|---|---|---|---|---|---|---|---|---|
+| Jane Street | [Quantitative Trading Intern](https://www.janestreet.com/join-jane-street/open-roles/) | New York, NY | Onsite | $100–125/hr | ✅ | 2026-07-16* | Rolling | ⚪ Unverified |
 
 ## Recruiting timeline
 

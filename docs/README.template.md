@@ -82,17 +82,18 @@ Tracker templates to organize your own search — copy into your fork or a sprea
 - [Offer tracker](templates/offer-tracker.md)
 - [Resume version tracker](templates/resume-tracker.md)
 
-## 📋 All tracked internships ({{LISTING_COUNT}})
+## 📋 All internships ({{LISTING_COUNT}})
 
-<details>
-<summary><b>Click to expand the full table</b></summary>
+Everything, right here — grouped by category, open roles and earliest deadlines
+first. Dates marked `*` are the date we discovered the listing (official posting
+date unknown).
 
-{{ALL_LISTINGS}}
+{{LISTINGS_BY_CATEGORY}}
 
-</details>
-
-> Data is community-maintained. Listings marked ⚪ Unverified haven't been
-> confirmed recently — always check the official posting, and PR corrections!
+> Data is community-maintained and refreshed **every hour** by the sync
+> pipeline. Listings marked ⚪ Unverified point at the company's official
+> careers portal and haven't been individually confirmed — always verify on the
+> official page, and PR corrections!
 
 ## 🤝 Contributing
 

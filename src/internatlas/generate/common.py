@@ -45,6 +45,13 @@ def deadline_cell(l: Internship) -> str:
     return l.dates.deadline.isoformat() if l.dates.deadline else "Rolling"
 
 
+def posted_cell(l: Internship) -> str:
+    """Posting date if known, else the date we discovered it (marked with *)."""
+    if l.dates.posted:
+        return l.dates.posted.isoformat()
+    return f"{l.dates.discovered.isoformat()}*"
+
+
 def listing_row(l: Internship, company_link: bool = True) -> str:
     """One canonical table row used by README, category and index pages."""
     company = (
@@ -58,14 +65,15 @@ def listing_row(l: Internship, company_link: bool = True) -> str:
         f"| {l.work_mode.value.title()} "
         f"| {pay_cell(l)} "
         f"| {VISA_EMOJI[l.eligibility.visa_sponsorship]} "
+        f"| {posted_cell(l)} "
         f"| {deadline_cell(l)} "
         f"| {STATUS_EMOJI[l.status]} |"
     )
 
 
 TABLE_HEADER = (
-    "| Company | Role | Location | Mode | Pay | Visa | Deadline | Status |\n"
-    "|---|---|---|---|---|---|---|---|"
+    "| Company | Role | Location | Mode | Pay | Visa | Posted | Deadline | Status |\n"
+    "|---|---|---|---|---|---|---|---|---|"
 )
 
 

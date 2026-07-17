@@ -1,0 +1,53 @@
+{
+  "schema_version": "1.0",
+  "id": "micron-hardware-engineering-intern-2027",
+  "company": {
+    "name": "Micron",
+    "slug": "micron",
+    "career_page": "https://careers.micron.com/",
+    "size": "large",
+    "industry": "semiconductors",
+    "company_type": "public",
+    "fortune_500": true
+  },
+  "role": "Hardware Engineering Intern",
+  "category": "hardware",
+  "apply_url": "https://careers.micron.com/",
+  "season": "summer",
+  "year": 2027,
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "Boise",
+      "state": "ID",
+      "country": "USA"
+    }
+  ],
+  "compensation": {
+    "currency": "USD",
+    "housing_stipend": false,
+    "relocation_assistance": false
+  },
+  "eligibility": {
+    "graduation_years": [],
+    "degree_levels": [],
+    "citizenship_required": false,
+    "security_clearance_required": false,
+    "visa_sponsorship": "unknown"
+  },
+  "interview": {},
+  "tech": {
+    "required_skills": [],
+    "preferred_skills": [],
+    "languages": [],
+    "frameworks": [],
+    "cloud_platforms": [],
+    "resume_keywords": []
+  },
+  "dates": {
+    "discovered": "2026-07-16"
+  },
+  "status": "unverified",
+  "tags": [],
+  "notes": "Seed listing — points at the official careers portal; role details unverified. Confirm on the company site and PR corrections/enrichment."
+}

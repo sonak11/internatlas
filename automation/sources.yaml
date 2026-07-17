@@ -1,0 +1,119 @@
+# ─────────────────────────────────────────────────────────────────────────────
+# Live ATS sources for the hourly sync (`internatlas sync`).
+#
+# ats: greenhouse → https://boards-api.greenhouse.io/v1/boards/<token>/jobs
+# ats: lever      → https://api.lever.co/v0/postings/<token>?mode=json
+#
+# Both are public, keyless APIs. To add a company: find its board token (it's
+# in the URL of their job board, e.g. boards.greenhouse.io/<token> or
+# jobs.lever.co/<token>), add an entry, open a PR. A wrong token fails softly —
+# the sync logs it and moves on.
+#
+# ⚠️ Tokens below are best-effort and easy to fix: if a company's sync logs
+#    "fetch failed", verify the token on their job board and PR the correction.
+# ─────────────────────────────────────────────────────────────────────────────
+sources:
+  - company: Stripe
+    slug: stripe
+    ats: greenhouse
+    token: stripe
+    default_category: software-engineering
+    career_page: https://stripe.com/jobs/university
+
+  - company: Databricks
+    slug: databricks
+    ats: greenhouse
+    token: databricks
+    default_category: software-engineering
+    career_page: https://www.databricks.com/company/careers/university-recruiting
+
+  - company: Cloudflare
+    slug: cloudflare
+    ats: greenhouse
+    token: cloudflare
+    default_category: software-engineering
+    career_page: https://www.cloudflare.com/careers/early-talent/
+
+  - company: Duolingo
+    slug: duolingo
+    ats: greenhouse
+    token: duolingo
+    default_category: software-engineering
+    career_page: https://careers.duolingo.com/
+
+  - company: Figma
+    slug: figma
+    ats: greenhouse
+    token: figma
+    default_category: software-engineering
+    career_page: https://www.figma.com/careers/
+
+  - company: Robinhood
+    slug: robinhood
+    ats: greenhouse
+    token: robinhood
+    default_category: software-engineering
+    career_page: https://careers.robinhood.com/
+
+  - company: Ramp
+    slug: ramp
+    ats: greenhouse
+    token: ramp
+    default_category: software-engineering
+    career_page: https://ramp.com/careers
+
+  - company: Datadog
+    slug: datadog
+    ats: greenhouse
+    token: datadog
+    default_category: software-engineering
+    career_page: https://careers.datadoghq.com/
+
+  - company: MongoDB
+    slug: mongodb
+    ats: greenhouse
+    token: mongodb
+    default_category: software-engineering
+    career_page: https://www.mongodb.com/company/careers
+
+  - company: Coinbase
+    slug: coinbase
+    ats: greenhouse
+    token: coinbase
+    default_category: software-engineering
+    career_page: https://www.coinbase.com/careers
+
+  - company: Airbnb
+    slug: airbnb
+    ats: greenhouse
+    token: airbnb
+    default_category: software-engineering
+    career_page: https://careers.airbnb.com/
+
+  - company: Anduril
+    slug: anduril
+    ats: greenhouse
+    token: andurilindustries
+    default_category: embedded
+    career_page: https://www.anduril.com/careers/
+
+  - company: Hudson River Trading
+    slug: hudson-river-trading
+    ats: greenhouse
+    token: wehrtyou
+    default_category: quant
+    career_page: https://www.hudsonrivertrading.com/careers/
+
+  - company: Palantir
+    slug: palantir
+    ats: lever
+    token: palantir
+    default_category: software-engineering
+    career_page: https://www.palantir.com/careers/
+
+  - company: Plaid
+    slug: plaid
+    ats: lever
+    token: plaid
+    default_category: software-engineering
+    career_page: https://plaid.com/careers/
