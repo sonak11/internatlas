@@ -11,7 +11,7 @@ hour** from company ATS boards and community feeds, validated by CI,
 deduplicated automatically, and rendered right here in the README. Each role
 links **straight to the live application page**, with its posting date shown.
 
-![summer 2027](https://img.shields.io/badge/summer%202027-142-blue?style=for-the-badge) ![open now](https://img.shields.io/badge/open%20now-142-brightgreen?style=for-the-badge) ![companies](https://img.shields.io/badge/companies-252-purple?style=for-the-badge) ![visa sponsors](https://img.shields.io/badge/visa%20sponsors-8-orange?style=for-the-badge) ![remote roles](https://img.shields.io/badge/remote%20roles-12-teal?style=for-the-badge) ![sync](https://img.shields.io/badge/sync-hourly-success?style=for-the-badge) ![updated](https://img.shields.io/badge/updated-2026----07----17%2019:49%20UTC-lightgrey?style=for-the-badge)
+![summer 2027](https://img.shields.io/badge/summer%202027-142-blue?style=for-the-badge) ![open now](https://img.shields.io/badge/open%20now-142-brightgreen?style=for-the-badge) ![companies](https://img.shields.io/badge/companies-252-purple?style=for-the-badge) ![visa sponsors](https://img.shields.io/badge/visa%20sponsors-8-orange?style=for-the-badge) ![remote roles](https://img.shields.io/badge/remote%20roles-12-teal?style=for-the-badge) ![sync](https://img.shields.io/badge/sync-hourly-success?style=for-the-badge) ![updated](https://img.shields.io/badge/updated-2026----07----17%2020:32%20UTC-lightgrey?style=for-the-badge)
 
 [**Browse by category**](#-browse-by-category) ·
 [**Deadline timeline**](generated/indexes/timeline.md) ·
@@ -34,7 +34,7 @@ links **straight to the live application page**, with its posting date shown.
 | Summer 2027 open now | **142** |
 | Other open terms (Fall/Winter/Spring) | **472** |
 | Companies | **252** |
-| Last synced | **2026-07-17 19:49 UTC** |
+| Last synced | **2026-07-17 20:32 UTC** |
 
 ## 🧭 Browse by category
 
