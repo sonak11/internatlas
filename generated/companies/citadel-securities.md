@@ -4,9 +4,9 @@
 
 ## Current openings
 
-| Company | Role | Location | Mode | Pay | Visa | Posted | Deadline | Status |
-|---|---|---|---|---|---|---|---|---|
-| Citadel Securities | [Software Engineer Intern](https://www.citadelsecurities.com/careers/details/software-engineer-intern-us/) | Miami, FL +1 | Onsite | — | ❔ | 2026-07-06 | Rolling | 🟢 Open |
+| Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
+|---|---|---|---|---|---|---|---|
+| Citadel Securities | [Software Engineer Intern](https://www.citadelsecurities.com/careers/details/software-engineer-intern-us/) | Miami, FL +1 | Onsite | 2026-07-06 | Rolling | 🟢 Open | ❔ |
 
 ## Related
 

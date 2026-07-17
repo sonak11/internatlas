@@ -4,9 +4,9 @@
 
 ## Current openings
 
-| Company | Role | Location | Mode | Pay | Visa | Posted | Deadline | Status |
-|---|---|---|---|---|---|---|---|---|
-| Markem-Imaje | [Software Engineer Intern](https://careers.dovercorporation.com/job/Keene-Software-Engineer-Intern-NH-03431/1404722033) | Keene, NH | Onsite | — | ❔ | 2026-06-24 | Rolling | 🟢 Open |
+| Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
+|---|---|---|---|---|---|---|---|
+| Markem-Imaje | [Software Engineer Intern](https://careers.dovercorporation.com/job/Keene-Software-Engineer-Intern-NH-03431/1404722033) | Keene, NH | Onsite | 2026-06-24 | Rolling | 🟢 Open | ❔ |
 
 ## Related
 

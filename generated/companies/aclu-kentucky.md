@@ -4,9 +4,9 @@
 
 ## Current openings
 
-| Company | Role | Location | Mode | Pay | Visa | Posted | Deadline | Status |
-|---|---|---|---|---|---|---|---|---|
-| ACLU Kentucky | [Undergraduate Intern - Technology and Analytics Department-Educate Pod](https://job-boards.greenhouse.io/acluinternships/jobs/8612266002) | NYC | Onsite | — | ❔ | 2026-06-29 | Rolling | 🟢 Open |
+| Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
+|---|---|---|---|---|---|---|---|
+| ACLU Kentucky | [Undergraduate Intern - Technology and Analytics Department-Educate Pod](https://job-boards.greenhouse.io/acluinternships/jobs/8612266002) | NYC | Onsite | 2026-06-29 | Rolling | 🟢 Open | ❔ |
 
 ## Related
 

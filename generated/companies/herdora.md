@@ -4,9 +4,9 @@
 
 ## Current openings
 
-| Company | Role | Location | Mode | Pay | Visa | Posted | Deadline | Status |
-|---|---|---|---|---|---|---|---|---|
-| Herdora | [Member Of Technical Staff Intern](https://www.workatastartup.com/jobs/83224) | San Francisco, CA | Onsite | — | ✅ | 2025-10-14 | Rolling | 🟢 Open |
+| Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
+|---|---|---|---|---|---|---|---|
+| Herdora | [Member Of Technical Staff Intern](https://www.workatastartup.com/jobs/83224) | San Francisco, CA | Onsite | 2025-10-14 | Rolling | 🟢 Open | ✅ |
 
 ## Related
 

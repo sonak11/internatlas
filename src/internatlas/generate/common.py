@@ -53,7 +53,12 @@ def posted_cell(l: Internship) -> str:
 
 
 def listing_row(l: Internship, company_link: bool = True) -> str:
-    """One canonical table row used by README, category and index pages."""
+    """One canonical table row used by README, category and index pages.
+
+    Columns: Company · Role · Location · Mode · Posted · Deadline · Status · Visa.
+    Pay is omitted (rarely reported by upstream sources); Visa sits last so the
+    scannable columns (role, location, dates, status) lead.
+    """
     company = (
         f"[{esc(l.company.name)}](generated/companies/{l.company.slug}.md)"
         if company_link else esc(l.company.name)
@@ -63,17 +68,16 @@ def listing_row(l: Internship, company_link: bool = True) -> str:
         f"| [{esc(l.role)}]({l.apply_url}) "
         f"| {esc(l.primary_location)} "
         f"| {l.work_mode.value.title()} "
-        f"| {pay_cell(l)} "
-        f"| {VISA_EMOJI[l.eligibility.visa_sponsorship]} "
         f"| {posted_cell(l)} "
         f"| {deadline_cell(l)} "
-        f"| {STATUS_EMOJI[l.status]} |"
+        f"| {STATUS_EMOJI[l.status]} "
+        f"| {VISA_EMOJI[l.eligibility.visa_sponsorship]} |"
     )
 
 
 TABLE_HEADER = (
-    "| Company | Role | Location | Mode | Pay | Visa | Posted | Deadline | Status |\n"
-    "|---|---|---|---|---|---|---|---|---|"
+    "| Company | Role | Location | Mode | Posted | Deadline | Status | Visa |\n"
+    "|---|---|---|---|---|---|---|---|"
 )
 
 
