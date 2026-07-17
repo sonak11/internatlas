@@ -89,3 +89,24 @@ def write_listing(root: Path, listing: Internship, archived: bool = False) -> Pa
     path.parent.mkdir(parents=True, exist_ok=True)
     path.write_text(dump_listing(listing), encoding="utf-8")
     return path
+
+
+def delete_listing(root: Path, listing: Internship, archived: bool = False) -> bool:
+    """Remove a listing's JSON file (and its company dir if now empty).
+
+    Returns True if a file was removed. Used by the sync to clean up orphaned
+    auto-ingested duplicates — the same posting previously written under a
+    different id.
+    """
+    base = ARCHIVE_DIR if archived else DATA_DIR
+    path = root / base / listing.company.slug / f"{listing.id}.json"
+    if not path.exists():
+        return False
+    path.unlink()
+    parent = path.parent
+    try:
+        if parent.is_dir() and not any(parent.iterdir()):
+            parent.rmdir()
+    except OSError:
+        pass
+    return True
