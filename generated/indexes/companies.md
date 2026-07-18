@@ -76,7 +76,7 @@
 | [Copart](../companies/copart.md) | 0/1 | software-engineering |
 | [Cotiviti](../companies/cotiviti.md) | 1/1 | ai |
 | [Cubist Systematic Strategies](../companies/cubist-systematic-strategies.md) | 1/1 | quant |
-| [CuspAI](../companies/cuspai.md) | 0/1 | software-engineering |
+| [CuspAI](../companies/cuspai.md) | 1/1 | software-engineering |
 | [Cybernetic Labs](../companies/cybernetic-labs.md) | 3/3 | software-engineering |
 | [DE Shaw](../companies/de-shaw.md) | 1/1 | software-engineering |
 | [DNV](../companies/dnv.md) | 1/1 | ai |
@@ -87,7 +87,7 @@
 | [Datadog](../companies/datadog.md) | 1/1 | software-engineering |
 | [Datasite](../companies/datasite.md) | 1/2 | ai, software-engineering |
 | [Dedalus Labs](../companies/dedalus-labs.md) | 1/1 | software-engineering |
-| [Deepgram](../companies/deepgram.md) | 0/1 | software-engineering |
+| [Deepgram](../companies/deepgram.md) | 1/1 | software-engineering |
 | [Definity Financial](../companies/definity-financial.md) | 4/4 | software-engineering |
 | [Delta Air Lines](../companies/delta-air-lines.md) | 1/1 | ai |
 | [Democratic Governors Association](../companies/democratic-governors-association.md) | 1/1 | software-engineering |
@@ -255,7 +255,7 @@
 | [Uber](../companies/uber.md) | 1/1 | software-engineering |
 | [Uncountable](../companies/uncountable.md) | 1/1 | software-engineering |
 | [VITAL LYFE](../companies/vital-lyfe.md) | 1/1 | software-engineering |
-| [Varda Space](../companies/varda-space.md) | 1/1 | software-engineering |
+| [Varda Space](../companies/varda-space.md) | 0/1 | software-engineering |
 | [Veeam Software](../companies/veeam-software.md) | 2/2 | ai, software-engineering |
 | [Verkada](../companies/verkada.md) | 1/1 | software-engineering |
 | [Verne Robotics](../companies/verne-robotics.md) | 1/1 | software-engineering |

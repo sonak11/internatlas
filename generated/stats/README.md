@@ -86,10 +86,8 @@ _Generated 2026-07-18_
 - Ciena — Optical Modem Hardware Intern
 - City of Aurora — Water GIS Intern
 - Copart — Software Engineer Intern
-- CuspAI — Chemistry Intern - MLFF Distillation & GCMC Integration
 - DataRobot — Agentic AI Intern
 - Datasite — AI Transformation / Forward Deployed Engineer Intern - Forward Deployed Engineer
-- Deepgram — Software Engineer Intern
 - Ensemble Health Partners — Data Scientist Intern
 - Ensemble Health Partners — Engineering Excellence Intern
 - Environmental Defense Fund — Climate & Health Intern
@@ -127,3 +125,4 @@ _Generated 2026-07-18_
 - Tencent — Research Intern
 - Tencent — Research Intern - Video World Models - Research & ML Systems
 - Tencent — Research Intern - Video World Models - Research & ML Systems
+- Varda Space — Mission Software – Intern - Python
