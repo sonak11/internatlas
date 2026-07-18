@@ -33,7 +33,7 @@ _Generated 2026-07-18_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 329 | `████████████` |
+| software-engineering | 330 | `████████████` |
 | quant | 87 | `███` |
 | ai | 70 | `██` |
 | machine-learning | 45 | `██` |
@@ -93,6 +93,8 @@ _Generated 2026-07-18_
 - Environmental Defense Fund — Climate & Health Intern
 - GE Aerospace — Engineer Intern
 - Generac — Engineering Intern
+- General Motors — Research and Development Intern - Research & Development
+- General Motors — Research and Development Intern - Research & Development: AI/ML
 - GeoComply — Full Stack Developer Intern
 - Hendrick Motorsports — Racing Performance Engineer Intern
 - Hitachi — Software Analyst Intern
@@ -125,4 +127,3 @@ _Generated 2026-07-18_
 - Tencent — Research Intern
 - Tencent — Research Intern - Video World Models - Research & ML Systems
 - Tencent — Research Intern - Video World Models - Research & ML Systems
-- Varda Space — Mission Software – Intern - Python

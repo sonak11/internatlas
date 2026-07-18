@@ -1,25 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "general-motors-research-and-development-intern-research-development-ai-ml-2026",
+  "id": "centerstone-bachelor-level-intern-2026",
   "company": {
-    "name": "General Motors",
-    "slug": "general-motors"
+    "name": "Centerstone",
+    "slug": "centerstone"
   },
-  "role": "Research and Development Intern - Research & Development: AI/ML",
-  "category": "machine-learning",
-  "apply_url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2026-Fall-Intern---Research---Development--AI-ML_JR-202612795",
+  "role": "Bachelor Level Intern",
+  "category": "software-engineering",
+  "apply_url": "https://centerstone.wd5.myworkdayjobs.com/centerstonecareers/job/Bradenton-Florida/Bachelor-Level-Intern_JR-028686-1",
   "season": "fall",
   "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Mountain View",
-      "state": "CA",
-      "country": "USA"
-    },
-    {
-      "city": "Warren",
-      "state": "MI",
+      "city": "Ellenton",
+      "state": "FL",
       "country": "USA"
     }
   ],
@@ -30,9 +25,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "phd"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -47,11 +40,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-06-12",
-    "discovered": "2026-07-17",
+    "posted": "2026-07-15",
+    "discovered": "2026-07-18",
     "last_verified": "2026-07-18"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

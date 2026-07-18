@@ -58,6 +58,7 @@
 | [Cadence Design Systems](../companies/cadence-design-systems.md) | 2/4 | design, software-engineering |
 | [Capital One](../companies/capital-one.md) | 2/2 | software-engineering |
 | [Center for AI Safety](../companies/center-for-ai-safety.md) | 1/1 | research |
+| [Centerstone](../companies/centerstone.md) | 1/1 | software-engineering |
 | [Chevron Corporation](../companies/chevron-corporation.md) | 0/3 | software-engineering |
 | [Ciena](../companies/ciena.md) | 1/2 | embedded, hardware |
 | [Circleback](../companies/circleback.md) | 1/1 | software-engineering |
@@ -117,7 +118,7 @@
 | [Gemini](../companies/gemini.md) | 1/1 | software-engineering |
 | [Generac](../companies/generac.md) | 0/1 | software-engineering |
 | [General Astronautics](../companies/general-astronautics.md) | 1/1 | software-engineering |
-| [General Motors](../companies/general-motors.md) | 2/2 | machine-learning, research |
+| [General Motors](../companies/general-motors.md) | 0/2 | machine-learning, research |
 | [GeoComply](../companies/geocomply.md) | 1/2 | software-engineering |
 | [Global Infrastructure](../companies/global-infrastructure.md) | 1/1 | software-engineering |
 | [Grant Thornton](../companies/grant-thornton.md) | 1/1 | software-engineering |
@@ -255,7 +256,7 @@
 | [Uber](../companies/uber.md) | 1/1 | software-engineering |
 | [Uncountable](../companies/uncountable.md) | 1/1 | software-engineering |
 | [VITAL LYFE](../companies/vital-lyfe.md) | 1/1 | software-engineering |
-| [Varda Space](../companies/varda-space.md) | 0/1 | software-engineering |
+| [Varda Space](../companies/varda-space.md) | 1/1 | software-engineering |
 | [Veeam Software](../companies/veeam-software.md) | 2/2 | ai, software-engineering |
 | [Verkada](../companies/verkada.md) | 1/1 | software-engineering |
 | [Verne Robotics](../companies/verne-robotics.md) | 1/1 | software-engineering |
