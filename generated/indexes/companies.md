@@ -118,7 +118,7 @@
 | [Gemini](../companies/gemini.md) | 1/1 | software-engineering |
 | [Generac](../companies/generac.md) | 0/1 | software-engineering |
 | [General Astronautics](../companies/general-astronautics.md) | 1/1 | software-engineering |
-| [General Motors](../companies/general-motors.md) | 0/2 | machine-learning, research |
+| [General Motors](../companies/general-motors.md) | 2/2 | machine-learning, research |
 | [GeoComply](../companies/geocomply.md) | 1/2 | software-engineering |
 | [Global Infrastructure](../companies/global-infrastructure.md) | 1/1 | software-engineering |
 | [Grant Thornton](../companies/grant-thornton.md) | 1/1 | software-engineering |
@@ -165,7 +165,7 @@
 | [Mindsmith](../companies/mindsmith.md) | 1/1 | software-engineering |
 | [Muru](../companies/muru.md) | 2/2 | software-engineering |
 | [NBCUniversal](../companies/nbcuniversal.md) | 2/2 | software-engineering |
-| [NVIDIA](../companies/nvidia.md) | 3/8 | machine-learning, quant, research, software-engineering |
+| [NVIDIA](../companies/nvidia.md) | 6/9 | machine-learning, quant, research, security, software-engineering |
 | [NXP Semiconductors](../companies/nxp-semiconductors.md) | 1/2 | design, software-engineering |
 | [Nash](../companies/nash.md) | 1/1 | software-engineering |
 | [National Laboratory of the Rockies](../companies/national-laboratory-of-the-rockies.md) | 0/2 | software-engineering |
@@ -185,7 +185,7 @@
 | [Palantir](../companies/palantir.md) | 7/7 | software-engineering |
 | [Paragon](../companies/paragon.md) | 1/1 | software-engineering |
 | [PathAI](../companies/pathai.md) | 1/1 | machine-learning |
-| [PennState University](../companies/pennstate-university.md) | 0/1 | research |
+| [PennState University](../companies/pennstate-university.md) | 1/1 | research |
 | [Persistent Systems](../companies/persistent-systems.md) | 2/2 | embedded, hardware |
 | [Persona AI](../companies/persona-ai.md) | 1/1 | software-engineering |
 | [Pika](../companies/pika.md) | 1/1 | research |
@@ -240,7 +240,7 @@
 | [TETRAMEM](../companies/tetramem.md) | 1/1 | embedded |
 | [TMEIC](../companies/tmeic.md) | 1/1 | machine-learning |
 | [TMX Group](../companies/tmx-group.md) | 1/1 | software-engineering |
-| [Tencent](../companies/tencent.md) | 1/4 | machine-learning, research |
+| [Tencent](../companies/tencent.md) | 2/4 | machine-learning, research |
 | [Tenstorrent](../companies/tenstorrent.md) | 2/2 | ai, design |
 | [Terranox AI](../companies/terranox-ai.md) | 1/1 | machine-learning |
 | [Tesla](../companies/tesla.md) | 97/97 | ai, cloud, data-engineering, design, embedded, hardware, machine-learning, product, security, software-engineering |

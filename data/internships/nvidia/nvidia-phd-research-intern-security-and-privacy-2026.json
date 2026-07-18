@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "tencent-research-intern-2026-2e21c0",
+  "id": "nvidia-phd-research-intern-security-and-privacy-2026",
   "company": {
-    "name": "Tencent",
-    "slug": "tencent"
+    "name": "NVIDIA",
+    "slug": "nvidia"
   },
-  "role": "Research Intern",
-  "category": "research",
-  "apply_url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-Washington-Bellevue/Research-Internship---Reinforcement-Learning-for-Large-Foundation-Models_R106337-1",
+  "role": "PhD Research Intern - Security and Privacy",
+  "category": "security",
+  "apply_url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Security-and-Privacy---Fall-2026_JR2010492-1",
   "season": "fall",
   "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Bellevue",
-      "state": "WA",
+      "city": "Santa Clara",
+      "state": "CA",
       "country": "USA"
     }
   ],
@@ -42,8 +42,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-06-13",
-    "discovered": "2026-07-17",
+    "posted": "2026-05-14",
+    "discovered": "2026-07-18",
     "last_verified": "2026-07-18"
   },
   "status": "open",
