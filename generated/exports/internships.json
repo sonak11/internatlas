@@ -1,6 +1,6 @@
 {
   "generated": "2026-07-18",
-  "count": 705,
+  "count": 704,
   "internships": [
     {
       "schema_version": "1.0",
@@ -7712,7 +7712,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "copart-software-engineer-intern-2026-c30186",
+      "id": "copart-software-engineer-intern-2026",
       "company": {
         "name": "Copart",
         "slug": "copart"
@@ -7740,58 +7740,6 @@
         "degree_levels": [
           "masters"
         ],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-07-15",
-        "discovered": "2026-07-17",
-        "last_verified": "2026-07-18"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "copart-software-engineer-intern-2026",
-      "company": {
-        "name": "Copart",
-        "slug": "copart"
-      },
-      "role": "Software Engineer Intern",
-      "category": "software-engineering",
-      "apply_url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109689",
-      "season": "fall",
-      "year": 2026,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Dallas",
-          "state": "TX",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [],
         "citizenship_required": false,
         "security_clearance_required": false,
         "visa_sponsorship": "unknown"
@@ -24196,7 +24144,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-18"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -24247,7 +24195,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-18"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -25781,7 +25729,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-18"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -28174,7 +28122,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-18"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"

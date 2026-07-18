@@ -33,7 +33,7 @@ _Generated 2026-07-18_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 330 | `████████████` |
+| software-engineering | 329 | `████████████` |
 | quant | 87 | `███` |
 | ai | 70 | `██` |
 | machine-learning | 45 | `██` |
@@ -77,3 +77,7 @@ _Generated 2026-07-18_
 - LexisNexis Risk Solutions — Editorial Data Reporting Intern
 - Revvity — Full-Stack AI Developer Intern
 - Revvity — Product Manager Intern
+- RFCUNY — IT & Data Systems Intern - Archibus & Applications Development
+- RFCUNY — IT & Data Systems Intern - Archibus & Applications Development
+- Salesforce — Associate Product Manager Intern - Associate Product Manager
+- State of North Carolina — Geographic Information Systems Intern - GIS

@@ -73,7 +73,7 @@
 | [ConnectPrep](../companies/connectprep.md) | 1/1 | software-engineering |
 | [Consensus Cloud Solutions](../companies/consensus-cloud-solutions.md) | 1/1 | software-engineering |
 | [Constellation Space](../companies/constellation-space.md) | 1/1 | machine-learning |
-| [Copart](../companies/copart.md) | 2/2 | software-engineering |
+| [Copart](../companies/copart.md) | 1/1 | software-engineering |
 | [Cotiviti](../companies/cotiviti.md) | 1/1 | ai |
 | [Cubist Systematic Strategies](../companies/cubist-systematic-strategies.md) | 1/1 | quant |
 | [CuspAI](../companies/cuspai.md) | 1/1 | software-engineering |
@@ -194,7 +194,7 @@
 | [Poshmark](../companies/poshmark.md) | 1/1 | cloud |
 | [Pure Storage](../companies/pure-storage.md) | 1/1 | software-engineering |
 | [Pylon](../companies/pylon.md) | 1/1 | software-engineering |
-| [RFCUNY](../companies/rfcuny.md) | 2/2 | software-engineering |
+| [RFCUNY](../companies/rfcuny.md) | 0/2 | software-engineering |
 | [Rainmaker](../companies/rainmaker.md) | 1/1 | software-engineering |
 | [Rakuten International](../companies/rakuten-international.md) | 1/1 | software-engineering |
 | [Ramp](../companies/ramp.md) | 1/1 | software-engineering |
@@ -208,7 +208,7 @@
 | [Rockwell Automation](../companies/rockwell-automation.md) | 2/2 | embedded |
 | [Royal Bank of Canada](../companies/royal-bank-of-canada.md) | 1/1 | software-engineering |
 | [SOTI](../companies/soti.md) | 3/3 | data-science, product |
-| [Salesforce](../companies/salesforce.md) | 3/3 | product, software-engineering |
+| [Salesforce](../companies/salesforce.md) | 2/3 | product, software-engineering |
 | [Samsung Research America](../companies/samsung-research-america.md) | 3/3 | ai, machine-learning, software-engineering |
 | [Sandhills Global](../companies/sandhills-global.md) | 1/1 | software-engineering |
 | [Saronic](../companies/saronic.md) | 2/2 | ai, software-engineering |
@@ -228,7 +228,7 @@
 | [SpaceX](../companies/spacex.md) | 7/7 | hardware, software-engineering |
 | [Sparksoft](../companies/sparksoft.md) | 1/1 | software-engineering |
 | [StarSling](../companies/starsling.md) | 1/1 | software-engineering |
-| [State of North Carolina](../companies/state-of-north-carolina.md) | 1/1 | software-engineering |
+| [State of North Carolina](../companies/state-of-north-carolina.md) | 0/1 | software-engineering |
 | [Stoke Space](../companies/stoke-space.md) | 2/2 | software-engineering |
 | [Stripe](../companies/stripe.md) | 1/1 | software-engineering |
 | [Super](../companies/super.md) | 1/1 | software-engineering |
