@@ -33,12 +33,12 @@ _Generated 2026-07-18_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 329 | `████████████` |
+| software-engineering | 328 | `████████████` |
 | quant | 87 | `███` |
 | ai | 70 | `██` |
 | machine-learning | 45 | `██` |
 | hardware | 40 | `█` |
-| embedded | 35 | `█` |
+| embedded | 34 | `█` |
 | research | 31 | `█` |
 | design | 21 | `█` |
 | product | 15 | `█` |
@@ -75,17 +75,38 @@ _Generated 2026-07-18_
 - Accenture — Technology Apprentice Intern
 - Altera Corporation — AI Software Development Engineer Intern
 - Amentum — Spaceflight Hardware Intern
+- Arrowstreet Capital — Quantitative Researcher Intern
+- BlackRock — Global Product Intern
+- Blackstone — Blackstone Credit and Insurance – Quant and Portfolio Analytics Summer Analyst Intern
+- Cadence Design Systems — Product Engineering Intern - Simulation and Verification
+- Cadence Design Systems — Product Engineering Intern - Simulation and Verification
 - Chevron Corporation — Earth Science Intern
+- Chevron Corporation — Previous Intern - Earth Scientist
+- Chevron Corporation — Software Engineer Intern - Information Technology - Software Engineer
+- Ciena — Optical Modem Hardware Intern
+- City of Aurora — Water GIS Intern
 - Copart — Software Engineer Intern
 - DataRobot — Agentic AI Intern
+- Datasite — AI Transformation / Forward Deployed Engineer Intern - Forward Deployed Engineer
 - Ensemble Health Partners — Data Scientist Intern
 - Ensemble Health Partners — Engineering Excellence Intern
+- Environmental Defense Fund — Climate & Health Intern
 - GE Aerospace — Engineer Intern
+- Generac — Engineering Intern
 - GeoComply — Full Stack Developer Intern
+- Hendrick Motorsports — Racing Performance Engineer Intern
+- Hitachi — Software Analyst Intern
+- Hitachi — Software Analyst Intern
+- Integrity — Research Intern
 - LexisNexis Risk Solutions — Editorial Data Reporting Intern
+- Marvell — Design Verification Engineer Intern
+- Microchip Technology — Applications Engineering Intern
+- National Laboratory of the Rockies — Energy Data Analysis Intern
 - National Laboratory of the Rockies — Graduate Intern - Transportation Systems Analysis
 - NVIDIA — Applied Deep Learning PhD Research Intern - Reinforcement Learning for LLMs
+- NVIDIA — Applied Research Intern - NLP
 - NVIDIA — Java Engineer Intern
+- NVIDIA — PhD Research Intern - System Software and I/O Architecture
 - NVIDIA — PhD Software Engineer Intern - Decision Intelligence
 - NXP Semiconductors — Digital Physical Design Intern - P&R
 - PennState University — Research and Development Engineering Intern
@@ -93,9 +114,15 @@ _Generated 2026-07-18_
 - Revvity — Product Manager Intern
 - RFCUNY — IT & Data Systems Intern - Archibus & Applications Development
 - RFCUNY — IT & Data Systems Intern - Archibus & Applications Development
+- Rockwell Automation — Firmware Engineering Intern
+- Rockwell Automation — Firmware Engineering Intern
 - Royal Bank of Canada — Student Intern - Data Analyst - Personal Banking
 - Salesforce — Associate Product Manager Intern - Associate Product Manager
 - Salesforce — Associate Product Manager Intern - Associate Product Manager
 - Schweitzer Engineering Laboratories — Software Engineering Intern
+- Sentara Health — Enterprise Data & AI Intern
 - State of North Carolina — Geographic Information Systems Intern - GIS
+- Tencent — Research Intern
+- Tencent — Research Intern
+- Tencent — Research Intern - Video World Models - Research & ML Systems
 - Tencent — Research Intern - Video World Models - Research & ML Systems

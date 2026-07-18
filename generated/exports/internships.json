@@ -1,6 +1,6 @@
 {
   "generated": "2026-07-18",
-  "count": 704,
+  "count": 702,
   "internships": [
     {
       "schema_version": "1.0",
@@ -3195,7 +3195,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-18"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -4412,7 +4412,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-18"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -4465,7 +4465,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-18"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -5232,60 +5232,6 @@
     },
     {
       "schema_version": "1.0",
-      "id": "cadence-design-systems-characterization-and-support-intern-2026-ac4579",
-      "company": {
-        "name": "Cadence Design Systems",
-        "slug": "cadence-design-systems"
-      },
-      "role": "Characterization and Support Intern",
-      "category": "software-engineering",
-      "apply_url": "https://cadence.wd1.myworkdayjobs.com/University_Talent_Intern/job/SAN-JOSE/Intern---Characterization-and-Support_R54998-2",
-      "season": "fall",
-      "year": 2026,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "San Jose",
-          "state": "CA",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [
-          "masters"
-        ],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-07-07",
-        "discovered": "2026-07-17",
-        "last_verified": "2026-07-18"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
       "id": "cadence-design-systems-characterization-and-support-intern-2026",
       "company": {
         "name": "Cadence Design Systems",
@@ -5293,7 +5239,7 @@
       },
       "role": "Characterization and Support Intern",
       "category": "software-engineering",
-      "apply_url": "https://cadence.wd1.myworkdayjobs.com/University_Talent/job/SAN-JOSE/Intern---Characterization-and-Support_R54998-3",
+      "apply_url": "https://cadence.wd1.myworkdayjobs.com/University_Talent_Intern/job/SAN-JOSE/Intern---Characterization-and-Support_R54998-2",
       "season": "fall",
       "year": 2026,
       "work_mode": "onsite",
@@ -5386,7 +5332,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-18"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -5440,7 +5386,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-18"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -5764,7 +5710,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-18"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -5818,60 +5764,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-18"
       },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "ciena-embedded-software-engineer-intern-2026-170b0b",
-      "company": {
-        "name": "Ciena",
-        "slug": "ciena"
-      },
-      "role": "Embedded Software Engineer Intern",
-      "category": "embedded",
-      "apply_url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Engineer-Intern--4-months---September-2026-_R031232",
-      "season": "fall",
-      "year": 2026,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Ottawa",
-          "country": "ON"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [
-          "masters"
-        ],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-06-23",
-        "discovered": "2026-07-17",
-        "last_verified": "2026-07-18"
-      },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -5886,7 +5779,7 @@
       },
       "role": "Embedded Software Engineer Intern",
       "category": "embedded",
-      "apply_url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Engineer-Intern--4-months---September-2026-_R031219",
+      "apply_url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Engineer-Intern--4-months---September-2026-_R031232",
       "season": "fall",
       "year": 2026,
       "work_mode": "onsite",
@@ -5975,7 +5868,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-18"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -6483,7 +6376,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-18"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -8443,7 +8336,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-18"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -9738,7 +9631,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-18"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -11712,7 +11605,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-18"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -12239,7 +12132,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-18"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -12713,7 +12606,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-18"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -12766,7 +12659,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-18"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -14496,7 +14389,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-18"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -17559,7 +17452,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-18"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -18855,7 +18748,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-18"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -19223,7 +19116,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-18"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -21233,7 +21126,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-18"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -21399,7 +21292,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-18"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify",
@@ -25572,7 +25465,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-18"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -25625,7 +25518,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-18"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -26537,7 +26430,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-18"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -29519,7 +29412,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-18"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -29573,7 +29466,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-18"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -29683,7 +29576,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-18"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
