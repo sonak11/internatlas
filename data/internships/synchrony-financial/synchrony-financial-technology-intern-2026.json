@@ -1,19 +1,19 @@
 {
   "schema_version": "1.0",
-  "id": "pylon-software-engineer-intern-2027",
+  "id": "synchrony-financial-technology-intern-2026",
   "company": {
-    "name": "Pylon",
-    "slug": "pylon"
+    "name": "Synchrony Financial",
+    "slug": "synchrony-financial"
   },
-  "role": "Software Engineer Intern",
+  "role": "Technology Intern",
   "category": "software-engineering",
-  "apply_url": "https://jobs.ashbyhq.com/pylon-labs/fcea8b52-81f1-4b0c-b575-d7b180faec4d/application",
-  "season": "summer",
-  "year": 2027,
+  "apply_url": "https://synchronyfinancial.wd5.myworkdayjobs.com/University/job/Other-Remote-NY/Technology-Intern---Fall-2026_2601748",
+  "season": "fall",
+  "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "SF",
+      "city": "NYC",
       "country": "USA"
     }
   ],
@@ -24,9 +24,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -41,11 +39,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-09",
-    "discovered": "2026-07-17",
+    "posted": "2026-06-12",
+    "discovered": "2026-07-18",
     "last_verified": "2026-07-18"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

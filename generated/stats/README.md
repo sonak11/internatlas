@@ -33,7 +33,7 @@ _Generated 2026-07-18_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 328 | `████████████` |
+| software-engineering | 329 | `████████████` |
 | quant | 87 | `███` |
 | ai | 70 | `██` |
 | machine-learning | 45 | `██` |
@@ -86,8 +86,11 @@ _Generated 2026-07-18_
 - Ciena — Optical Modem Hardware Intern
 - City of Aurora — Water GIS Intern
 - Copart — Software Engineer Intern
+- CTGT — Software Engineer Intern
+- CuspAI — Chemistry Intern - MLFF Distillation & GCMC Integration
 - DataRobot — Agentic AI Intern
 - Datasite — AI Transformation / Forward Deployed Engineer Intern - Forward Deployed Engineer
+- Deepgram — Software Engineer Intern
 - Ensemble Health Partners — Data Scientist Intern
 - Ensemble Health Partners — Engineering Excellence Intern
 - Environmental Defense Fund — Climate & Health Intern
@@ -100,6 +103,7 @@ _Generated 2026-07-18_
 - Integrity — Research Intern
 - LexisNexis Risk Solutions — Editorial Data Reporting Intern
 - Marvell — Design Verification Engineer Intern
+- McKesson — AI & Strategic Analytics Intern
 - Microchip Technology — Applications Engineering Intern
 - National Laboratory of the Rockies — Energy Data Analysis Intern
 - National Laboratory of the Rockies — Graduate Intern - Transportation Systems Analysis
@@ -110,6 +114,7 @@ _Generated 2026-07-18_
 - NVIDIA — PhD Software Engineer Intern - Decision Intelligence
 - NXP Semiconductors — Digital Physical Design Intern - P&R
 - PennState University — Research and Development Engineering Intern
+- Pylon — Software Engineer Intern
 - Revvity — Full-Stack AI Developer Intern
 - Revvity — Product Manager Intern
 - RFCUNY — IT & Data Systems Intern - Archibus & Applications Development
@@ -122,7 +127,6 @@ _Generated 2026-07-18_
 - Schweitzer Engineering Laboratories — Software Engineering Intern
 - Sentara Health — Enterprise Data & AI Intern
 - State of North Carolina — Geographic Information Systems Intern - GIS
-- Tencent — Research Intern
 - Tencent — Research Intern
 - Tencent — Research Intern - Video World Models - Research & ML Systems
 - Tencent — Research Intern - Video World Models - Research & ML Systems
