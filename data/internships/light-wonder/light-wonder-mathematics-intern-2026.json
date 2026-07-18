@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "nvidia-java-engineer-intern-2026",
+  "id": "light-wonder-mathematics-intern-2026",
   "company": {
-    "name": "NVIDIA",
-    "slug": "nvidia"
+    "name": "Light & Wonder",
+    "slug": "light-wonder"
   },
-  "role": "Java Engineer Intern",
+  "role": "Mathematics Intern",
   "category": "software-engineering",
-  "apply_url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Java-Engineering-Intern---Fall-2026_JR2019769",
+  "apply_url": "https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/Chicago-IL/Math-Intern_R322327",
   "season": "fall",
   "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Santa Clara",
-      "state": "CA",
+      "city": "Chicago",
+      "state": "IL",
       "country": "USA"
     }
   ],
@@ -26,8 +26,7 @@
   "eligibility": {
     "graduation_years": [],
     "degree_levels": [
-      "masters",
-      "phd"
+      "masters"
     ],
     "citizenship_required": false,
     "security_clearance_required": false,
@@ -43,8 +42,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-02",
-    "discovered": "2026-07-17",
+    "posted": "2026-06-26",
+    "discovered": "2026-07-18",
     "last_verified": "2026-07-18"
   },
   "status": "open",

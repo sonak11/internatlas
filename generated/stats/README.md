@@ -33,7 +33,7 @@ _Generated 2026-07-18_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 330 | `████████████` |
+| software-engineering | 331 | `████████████` |
 | quant | 87 | `███` |
 | ai | 70 | `██` |
 | machine-learning | 45 | `██` |
@@ -103,9 +103,6 @@ _Generated 2026-07-18_
 - Microchip Technology — Applications Engineering Intern
 - National Laboratory of the Rockies — Energy Data Analysis Intern
 - National Laboratory of the Rockies — Graduate Intern - Transportation Systems Analysis
-- NVIDIA — Applied Research Intern - NLP
-- NVIDIA — Java Engineer Intern
-- NVIDIA — PhD Research Intern - System Software and I/O Architecture
 - NXP Semiconductors — Digital Physical Design Intern - P&R
 - Revvity — Full-Stack AI Developer Intern
 - Revvity — Product Manager Intern

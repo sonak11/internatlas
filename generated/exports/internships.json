@@ -1,6 +1,6 @@
 {
   "generated": "2026-07-18",
-  "count": 706,
+  "count": 707,
   "internships": [
     {
       "schema_version": "1.0",
@@ -17152,6 +17152,60 @@
     },
     {
       "schema_version": "1.0",
+      "id": "light-wonder-mathematics-intern-2026",
+      "company": {
+        "name": "Light & Wonder",
+        "slug": "light-wonder"
+      },
+      "role": "Mathematics Intern",
+      "category": "software-engineering",
+      "apply_url": "https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/Chicago-IL/Math-Intern_R322327",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Chicago",
+          "state": "IL",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-06-26",
+        "discovered": "2026-07-18",
+        "last_verified": "2026-07-18"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "liveramp-software-engineer-intern-pixel-serving-2027",
       "company": {
         "name": "LiveRamp",
@@ -21232,7 +21286,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-18"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -21287,7 +21341,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-18"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -21452,7 +21506,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-18"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify",
