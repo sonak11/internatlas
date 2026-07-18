@@ -3,7 +3,10 @@ name: Regenerate views
 on:
   push:
     branches: [main]
-    paths: ["data/**", "archive/**", "src/**", "docs/README.template.md", "docs/tips/**"]
+    # Note: intentionally NOT triggered by src/** — code changes don't need an
+    # immediate README rebuild (the hourly sync handles that), and triggering on
+    # every code push is what used to race the hourly job.
+    paths: ["data/**", "archive/**", "docs/README.template.md", "docs/tips/**"]
   workflow_dispatch:
 
 permissions:
@@ -17,18 +20,34 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
         with:
           python-version: "3.12"
           cache: pip
       - run: pip install -e .
-      - run: internatlas generate
-      - name: Commit regenerated views
+
+      - name: Regenerate views & push
         run: |
-          git config user.name "github-actions[bot]"
+          git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add README.md generated/
-          git diff --cached --quiet && echo "No changes." && exit 0
-          git commit -m "chore: regenerate views [skip ci]"
-          git push
+          branch="${GITHUB_REF_NAME}"
+          for attempt in 1 2 3 4 5; do
+            git fetch --quiet origin "$branch"
+            git reset --hard "origin/$branch"
+            internatlas generate
+            git add README.md generated/
+            if git diff --cached --quiet; then
+              echo "No changes."
+              exit 0
+            fi
+            git commit -m "chore: regenerate views [skip ci]"
+            if git push origin "HEAD:$branch"; then
+              echo "Pushed on attempt $attempt."
+              exit 0
+            fi
+            echo "Push rejected — rebuilding on fresh main."
+            sleep $((RANDOM % 6 + 3))
+          done
+          echo "::error::Could not push after 5 attempts."
+          exit 1
