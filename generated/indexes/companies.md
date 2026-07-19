@@ -41,7 +41,7 @@
 | [Avanade](../companies/avanade.md) | 1/1 | software-engineering |
 | [BDO Canada](../companies/bdo-canada.md) | 1/1 | software-engineering |
 | [BMO](../companies/bmo.md) | 1/1 | machine-learning |
-| [Bank of Montreal](../companies/bank-of-montreal.md) | 2/2 | data-science |
+| [Bank of Montreal](../companies/bank-of-montreal.md) | 0/2 | data-science |
 | [Barclays](../companies/barclays.md) | 1/1 | quant |
 | [Beacon Software](../companies/beacon-software.md) | 1/1 | software-engineering |
 | [BlackRock](../companies/blackrock.md) | 2/2 | software-engineering |
@@ -248,7 +248,7 @@
 | [The Trade Desk](../companies/the-trade-desk.md) | 1/1 | software-engineering |
 | [TikTok](../companies/tiktok.md) | 12/12 | ai, cloud, machine-learning, product, software-engineering |
 | [Together AI](../companies/together-ai.md) | 3/3 | research |
-| [Torch Technologies](../companies/torch-technologies.md) | 1/1 | software-engineering |
+| [Torch Technologies](../companies/torch-technologies.md) | 0/1 | software-engineering |
 | [Tower Research Capital](../companies/tower-research-capital.md) | 2/2 | quant |
 | [TransMarket Group](../companies/transmarket-group.md) | 1/1 | quant |
 | [Trata](../companies/trata.md) | 1/1 | research |

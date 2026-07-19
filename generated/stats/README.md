@@ -76,6 +76,8 @@ _Generated 2026-07-19_
 - Altera Corporation — AI Software Development Engineer Intern
 - Amentum — Spaceflight Hardware Intern
 - Arrowstreet Capital — Quantitative Researcher Intern
+- Bank of Montreal — Data Scientist Co-op/Internship - Months
+- Bank of Montreal — Data Scientist Co-op/Internship - Months
 - Blackstone — Blackstone Credit and Insurance – Quant and Portfolio Analytics Summer Analyst Intern
 - Cadence Design Systems — Product Engineering Intern - Simulation and Verification
 - Cadence Design Systems — Product Engineering Intern - Simulation and Verification
@@ -114,3 +116,4 @@ _Generated 2026-07-19_
 - Schweitzer Engineering Laboratories — Software Engineering Intern
 - Sentara Health — Enterprise Data & AI Intern
 - State of North Carolina — Geographic Information Systems Intern - GIS
+- Torch Technologies — Software Engineer Intern
