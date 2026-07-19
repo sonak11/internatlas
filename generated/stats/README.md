@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 📊 Statistics
 
-_Generated 2026-07-18_
+_Generated 2026-07-19_
 
 ## Top hiring companies
 
@@ -91,6 +91,8 @@ _Generated 2026-07-18_
 - Environmental Defense Fund — Climate & Health Intern
 - GE Aerospace — Engineer Intern
 - Generac — Engineering Intern
+- General Motors — Research and Development Intern - Research & Development
+- General Motors — Research and Development Intern - Research & Development: AI/ML
 - GeoComply — Full Stack Developer Intern
 - Hendrick Motorsports — Racing Performance Engineer Intern
 - Hitachi — Software Analyst Intern

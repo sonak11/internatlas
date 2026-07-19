@@ -118,7 +118,7 @@
 | [Gemini](../companies/gemini.md) | 1/1 | software-engineering |
 | [Generac](../companies/generac.md) | 0/1 | software-engineering |
 | [General Astronautics](../companies/general-astronautics.md) | 1/1 | software-engineering |
-| [General Motors](../companies/general-motors.md) | 2/2 | machine-learning, research |
+| [General Motors](../companies/general-motors.md) | 0/2 | machine-learning, research |
 | [GeoComply](../companies/geocomply.md) | 1/2 | software-engineering |
 | [Global Infrastructure](../companies/global-infrastructure.md) | 1/1 | software-engineering |
 | [Grant Thornton](../companies/grant-thornton.md) | 1/1 | software-engineering |

@@ -1,6 +1,6 @@
-# 📬 InternAtlas Weekly Digest — 2026-07-18
+# 📬 InternAtlas Weekly Digest — 2026-07-19
 
-## 🆕 New this week (123)
+## 🆕 New this week (122)
 
 - **Accenture** — [Technology Apprentice Intern](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Montreal-5-Place-Ville-Marie-Corp/Current-Apprentice-Intern-Only---Technology-Apprentice---Montreal---NAELFY26_R00343036) · software-engineering · —
 - **Akuna Capital** — [Hardware Engineer Intern, Summer 2027](https://www.akunacapital.com/careers/job/8018880/?gh_jid=8018880) · hardware · —
@@ -46,7 +46,6 @@
 - **DataRobot** — [Agentic AI Intern](https://datarobot.wd1.myworkdayjobs.com/en-US/DataRobot_External_Careers/job/Boston-Massachusetts-US/Agentic-AI-Intern_R-102729) · ai · —
 - **Databricks** — [Product Management Intern](https://boards.greenhouse.io/embed/job_app?token=6883068002) · product · —
 - **Deepgram** — [Software Engineer Intern](https://jobs.ashbyhq.com/deepgram/dc8693b5-72ce-4ca3-ab15-9c8434d35da1/application?embed=true) · software-engineering · —
-- **DiDi Global** — [Motion Planning Engineer Intern](https://job-boards.greenhouse.io/didi/jobs/8056492) · software-engineering · —
 - **Duracell** — [Electronics Tech Intern](https://fa-ewub-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_26/job/1330) · software-engineering · —
 - **Ensemble Health Partners** — [Data Scientist Intern](https://ensemblehp.wd5.myworkdayjobs.com/ensemblehealthpartnerscareers/job/Remote---Nationwide/Data-Scientist--AI_R048077) · data-science · —
 - **Ensemble Health Partners** — [Engineering Excellence Intern](https://ensemblehp.wd5.myworkdayjobs.com/ensemblehealthpartnerscareers/job/Remote---Nationwide/Engineering-Excellence-Intern_R048023) · software-engineering · —
