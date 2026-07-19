@@ -77,7 +77,7 @@
 | [Copart](../companies/copart.md) | 3/3 | software-engineering |
 | [Cotiviti](../companies/cotiviti.md) | 1/1 | ai |
 | [Cubist Systematic Strategies](../companies/cubist-systematic-strategies.md) | 1/1 | quant |
-| [CuspAI](../companies/cuspai.md) | 1/1 | software-engineering |
+| [CuspAI](../companies/cuspai.md) | 0/1 | software-engineering |
 | [Cybernetic Labs](../companies/cybernetic-labs.md) | 3/3 | software-engineering |
 | [DE Shaw](../companies/de-shaw.md) | 1/1 | software-engineering |
 | [DNV](../companies/dnv.md) | 1/1 | ai |
@@ -151,7 +151,7 @@
 | [Kudu Dynamics](../companies/kudu-dynamics.md) | 3/3 | software-engineering |
 | [Lawrence Livermore National Laboratory (LLNL)](../companies/lawrence-livermore-national-laboratory-llnl.md) | 2/2 | software-engineering |
 | [LexisNexis Risk Solutions](../companies/lexisnexis-risk-solutions.md) | 0/1 | software-engineering |
-| [Light & Wonder](../companies/light-wonder.md) | 1/1 | software-engineering |
+| [Light & Wonder](../companies/light-wonder.md) | 0/1 | software-engineering |
 | [LiveRamp](../companies/liveramp.md) | 1/1 | software-engineering |
 | [Mackenzie Investments](../companies/mackenzie-investments.md) | 1/1 | ai |
 | [Markem-Imaje](../companies/markem-imaje.md) | 1/1 | software-engineering |

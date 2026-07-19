@@ -86,6 +86,7 @@ _Generated 2026-07-19_
 - Chevron Corporation — Software Engineer Intern - Information Technology - Software Engineer
 - Ciena — Optical Modem Hardware Intern
 - City of Aurora — Water GIS Intern
+- CuspAI — Chemistry Intern - MLFF Distillation & GCMC Integration
 - DataRobot — Agentic AI Intern
 - Datasite — AI Transformation / Forward Deployed Engineer Intern - Forward Deployed Engineer
 - Ensemble Health Partners — Data Scientist Intern
@@ -101,6 +102,7 @@ _Generated 2026-07-19_
 - Hitachi — Software Analyst Intern
 - Integrity — Research Intern
 - LexisNexis Risk Solutions — Editorial Data Reporting Intern
+- Light & Wonder — Mathematics Intern
 - Marvell — Design Verification Engineer Intern
 - Microchip Technology — Applications Engineering Intern
 - National Laboratory of the Rockies — Energy Data Analysis Intern
