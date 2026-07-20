@@ -22,6 +22,7 @@
 | [Bot Auto](generated/companies/bot-auto.md) | [Deep Learning Engineer Intern](https://job-boards.greenhouse.io/botauto/jobs/5289440008) | Houston, TX | Onsite | 2026-07-02 | Rolling | 🟢 Open | ❔ |
 | [ByteDance](generated/companies/bytedance.md) | [Research Scientist Intern - AI Infrastructure](https://jobs.bytedance.com/en/position/7553917136512076050/detail) | San Jose, CA | Onsite | 2026-07-03 | Rolling | 🟢 Open | ❔ |
 | [ByteDance](generated/companies/bytedance.md) | [Research Scientist Intern - AI Infrastructure](https://jobs.bytedance.com/en/position/7553916190126524680/detail) | Seattle, WA | Onsite | 2026-07-03 | Rolling | 🟢 Open | ❔ |
+| [Capital One](generated/companies/capital-one.md) | [Data Science Intern](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Current-PhD---Data-Science-Internship---Summer-2027_R244287-1) | Cambridge, MA +7 | Onsite | 2026-07-20 | Rolling | 🟢 Open | ❔ |
 | [Citadel](generated/companies/citadel.md) | [Investment & Trading Intern](https://www.citadel.com/careers/details/investment-trading-intern-europe/) | London +1 | Onsite | 2026-07-13 | Rolling | 🟢 Open | ❔ |
 | [Citadel](generated/companies/citadel.md) | [Software Engineer Intern](https://www.citadel.com/careers/details/software-engineer-intern-europe/) | London | Onsite | 2026-07-13 | Rolling | 🟢 Open | ❔ |
 | [Citadel](generated/companies/citadel.md) | [Trader: Fixed Income & Macro Intern](https://www.citadel.com/careers/details/trader-fixed-income-macro-intern-us/) | Greenwich, CT +2 | Onsite | 2026-07-06 | Rolling | 🟢 Open | ❔ |

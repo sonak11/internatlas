@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 💻 Software Engineering Internships
 
-**335** tracked · **308** open now
+**336** tracked · **309** open now
 
 ## Current openings
 
@@ -118,6 +118,7 @@
 | [Four Hands](generated/companies/four-hands.md) | [Product Development Intern](https://job-boards.greenhouse.io/fourhands/jobs/4272048009) | Austin, TX | Onsite | 2026-06-08 | Rolling | 🟢 Open | ❔ |
 | [Fussball Club Cincinnati LLC (“FC Cincinnati”)](generated/companies/fussball-club-cincinnati-llc-fc-cincinnati.md) | [Academy Performance Analyst Intern - Academy Performance Analysis](https://job-boards.greenhouse.io/fccincinnati/jobs/7741524003) | Cincinnati, OH | Onsite | 2026-05-20 | Rolling | 🟢 Open | ❔ |
 | [GE Appliances](generated/companies/ge-appliances.md) | [Engineering Intern/Co-op](https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-LaFayette-GA/Engineering-Co-op-Spring-2027_REQ-24836) | Calhoun, GA | Onsite | 2026-04-04 | Rolling | 🟢 Open | ❔ |
+| [GE Healthcare](generated/companies/ge-healthcare.md) | [Engineering Development Program Intern - Software](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Waukesha/Edison-Engineering-Development-Program-Intern---Software_R4043933-2) | Waukesha, WI | Onsite | 2026-07-20 | Rolling | 🟢 Open | ❔ |
 | [Gemini](generated/companies/gemini.md) | [Software Engineer Intern](https://boards.greenhouse.io/embed/job_app?for=gemini&token=7875125&gh_jid=7875125) | NYC | Onsite | 2026-05-01 | Rolling | 🟢 Open | ❔ |
 | [General Astronautics](generated/companies/general-astronautics.md) | [Engineering Intern](https://www.workatastartup.com/jobs/94206) | San Francisco, CA | Onsite | 2026-05-09 | Rolling | 🟢 Open | ❌ |
 | [GeoComply](generated/companies/geocomply.md) | [Product Operations Intern](https://jobs.lever.co/geocomply-2/738b76bf-ad57-4831-ae8f-e2e44ff5e02b/apply) | Vancouver | Onsite | 2026-07-16 | Rolling | 🟢 Open | ❔ |
@@ -444,6 +445,7 @@
 - Four Hands (1)
 - Fussball Club Cincinnati LLC (“FC Cincinnati”) (1)
 - GE Appliances (1)
+- GE Healthcare (1)
 - Gemini (1)
 - General Astronautics (1)
 - Global Infrastructure (1)

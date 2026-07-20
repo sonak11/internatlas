@@ -56,7 +56,7 @@
 | [CACI](../companies/caci.md) | 1/1 | software-engineering |
 | [CTGT](../companies/ctgt.md) | 1/1 | software-engineering |
 | [Cadence Design Systems](../companies/cadence-design-systems.md) | 2/4 | design, software-engineering |
-| [Capital One](../companies/capital-one.md) | 2/2 | software-engineering |
+| [Capital One](../companies/capital-one.md) | 4/4 | data-science, software-engineering |
 | [Center for AI Safety](../companies/center-for-ai-safety.md) | 1/1 | research |
 | [Centerstone](../companies/centerstone.md) | 1/1 | software-engineering |
 | [Chevron Corporation](../companies/chevron-corporation.md) | 0/3 | software-engineering |
@@ -116,6 +116,7 @@
 | [Fussball Club Cincinnati LLC (“FC Cincinnati”)](../companies/fussball-club-cincinnati-llc-fc-cincinnati.md) | 1/1 | software-engineering |
 | [GE Aerospace](../companies/ge-aerospace.md) | 0/1 | software-engineering |
 | [GE Appliances](../companies/ge-appliances.md) | 1/1 | software-engineering |
+| [GE Healthcare](../companies/ge-healthcare.md) | 2/2 | hardware, software-engineering |
 | [Gemini](../companies/gemini.md) | 1/1 | software-engineering |
 | [Generac](../companies/generac.md) | 0/1 | software-engineering |
 | [General Astronautics](../companies/general-astronautics.md) | 1/1 | software-engineering |
@@ -274,6 +275,6 @@
 | [WindBorne Systems](../companies/windborne-systems.md) | 1/1 | embedded |
 | [Workato](../companies/workato.md) | 1/1 | ai |
 | [X Development](../companies/x-development.md) | 1/1 | machine-learning |
-| [Xsolla](../companies/xsolla.md) | 3/3 | ai |
+| [Xsolla](../companies/xsolla.md) | 4/4 | ai |
 | [onsemi](../companies/onsemi.md) | 2/2 | ai, software-engineering |
 | [pony.ai](../companies/pony-ai.md) | 1/1 | machine-learning |

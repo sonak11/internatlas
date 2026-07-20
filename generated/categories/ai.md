@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🤖 AI Internships
 
-**70** tracked · **65** open now
+**71** tracked · **66** open now
 
 ## Current openings
 
@@ -71,6 +71,7 @@
 | [Veeam Software](generated/companies/veeam-software.md) | [Software Engineering Intern, Platform, Security & AI](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4857832101) | San Jose, CA | Onsite | 2026-05-09 | Rolling | 🟢 Open | ❔ |
 | [Workato](generated/companies/workato.md) | [Intern AI Engineering](https://job-boards.greenhouse.io/workato/jobs/8492935002) | SF | Onsite | 2026-04-10 | Rolling | 🟢 Open | ❔ |
 | [Xsolla](generated/companies/xsolla.md) | [AI Engineer Intern](https://jobs.lever.co/xsolla/5ec8e8f7-ed75-4697-a1c0-28a026f2e571/apply) | Montreal | Onsite | 2026-07-10 | Rolling | 🟢 Open | ❔ |
+| [Xsolla](generated/companies/xsolla.md) | [AI-First Engineer Intern](https://jobs.lever.co/xsolla/7a8f8d4c-10fc-4c64-bc9d-167ba1e367c4/apply) | LA | Onsite | 2026-07-20 | Rolling | 🟢 Open | ❔ |
 | [Xsolla](generated/companies/xsolla.md) | [AI-First Engineer Intern](https://jobs.lever.co/xsolla/5d5fd6b3-d82f-437a-b251-abf4674ac874/apply) | Raleigh, NC | Onsite | 2026-07-10 | Rolling | 🟢 Open | ❔ |
 | [Xsolla](generated/companies/xsolla.md) | [AI-First Engineer Intern](https://jobs.lever.co/xsolla/1c0e5375-2352-4a2c-a816-48ddebbdd3d6/apply) | LA | Onsite | 2026-07-10 | Rolling | 🟢 Open | ❔ |
 | [Altera Corporation](generated/companies/altera-corporation.md) | [AI Software Development Engineer Intern](https://altera.wd1.myworkdayjobs.com/altera/job/San-Jose-California-United-States/AI-Software-Development-Engineer---Intern_R02707) | San Jose, CA | Onsite | 2026-07-17 | Rolling | 🔴 Closed | ❔ |
@@ -85,8 +86,8 @@
 - Jump Trading (6)
 - Meta (4)
 - TikTok (4)
+- Xsolla (4)
 - Cloudflare (3)
-- Xsolla (3)
 - Bosch (2)
 - ByteDance (2)
 - Scale AI (2)

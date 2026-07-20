@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🔩 Hardware Internships
 
-**40** tracked · **38** open now
+**41** tracked · **39** open now
 
 ## Current openings
 
@@ -19,6 +19,7 @@
 | [Figure](generated/companies/figure.md) | [Hardware Reliability Intern](https://job-boards.greenhouse.io/figureai/jobs/4613067006) | San Jose, CA | Onsite | 2026-06-23 | Rolling | 🟢 Open | ❔ |
 | [Formlabs](generated/companies/formlabs.md) | [Hardware R&D Engineer Intern](https://careers.formlabs.com/job/7890746/apply/?gh_jid=7890746) | Cambridge, MA | Onsite | 2026-06-18 | Rolling | 🟢 Open | ❔ |
 | [Formlabs](generated/companies/formlabs.md) | [Hardware Systems Integration Intern](https://careers.formlabs.com/job/7927471/apply/?gh_jid=7927471) | Cambridge, MA | Onsite | 2026-05-15 | Rolling | 🟢 Open | ❔ |
+| [GE Healthcare](generated/companies/ge-healthcare.md) | [Engineering Development Program Intern - Hardware](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Waukesha/Edison-Engineering-Development-Program-Internship---Hardware_R4043923-1) | Twinsburg, OH +1 | Onsite | 2026-07-20 | Rolling | 🟢 Open | ❔ |
 | [Hermeus](generated/companies/hermeus.md) | [Flight Software Engineering Intern](https://jobs.lever.co/hermeus/51378fa0-0327-45fd-9420-b6e7d8b56440) | Atlanta, GA | Onsite | 2026-03-06 | Rolling | 🟢 Open | ❌ |
 | [Hermeus](generated/companies/hermeus.md) | [Hardware-In-the-Loop Software Engineering Intern - Fall 2026](https://jobs.lever.co/hermeus/10d69ef6-a754-42ab-833c-76adf01367bf/apply) | Atlanta, GA | Onsite | 2026-04-17 | Rolling | 🟢 Open | ❔ |
 | [IMC Trading](generated/companies/imc-trading.md) | [2027 - FPGA Intern - IIT Bombay](https://job-boards.eu.greenhouse.io/imc/jobs/4860306101) | Amsterdam | Onsite | 2026-07-03 | Rolling | 🟢 Open | ❔ |
@@ -62,6 +63,7 @@
 - Tesla (2)
 - Akuna Capital (1)
 - Figure (1)
+- GE Healthcare (1)
 - Persistent Systems (1)
 - Amentum (1)
 - Ciena (1)

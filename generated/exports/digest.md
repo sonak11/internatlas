@@ -1,6 +1,6 @@
 # 📬 InternAtlas Weekly Digest — 2026-07-20
 
-## 🆕 New this week (124)
+## 🆕 New this week (129)
 
 - **Accenture** — [Technology Apprentice Intern](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Montreal-5-Place-Ville-Marie-Corp/Current-Apprentice-Intern-Only---Technology-Apprentice---Montreal---NAELFY26_R00343036) · software-engineering · —
 - **Akuna Capital** — [Hardware Engineer Intern, Summer 2027](https://www.akunacapital.com/careers/job/8018880/?gh_jid=8018880) · hardware · —
@@ -21,6 +21,8 @@
 - **BlackRock** — [Global Product Intern](https://blackrock.wd1.myworkdayjobs.com/BlackRock_Early_Careers_Program/job/New-York-NY/XMLNAME-2027-Global-Product-Intern-New-York_R265170) · software-engineering · —
 - **Bosch Home Comfort** — [Business Intelligence Intern](https://jobs.smartrecruiters.com/BoschGroup/744000137672769) · software-engineering · —
 - **Cadence Design Systems** — [SSG Design Engineering Intern](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/SSG-Design-Engineering-Intern--Fall-2026-_R52641) · design · —
+- **Capital One** — [Data Science Intern](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Current-PhD---Data-Science-Internship---Summer-2027_R244287-1) · data-science · —
+- **Capital One** — [Master's Data Science Internship](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Current-Master-s---Data-Science-Internship---Summer-2027_R244285-1) · data-science · —
 - **Centerstone** — [Bachelor Level Intern](https://centerstone.wd5.myworkdayjobs.com/centerstonecareers/job/Bradenton-Florida/Bachelor-Level-Intern_JR-028686-1) · software-engineering · —
 - **Chevron Corporation** — [Earth Science Intern](https://chevron.wd5.myworkdayjobs.com/University/job/Houston-Texas-United-States-of-America/XMLNAME-2026-2027-Earth-Science-Intern_R000072409) · software-engineering · —
 - **Chevron Corporation** — [Software Engineer Intern - Information Technology - Software Engineer](https://chevron.wd5.myworkdayjobs.com/University/job/Houston-Texas-United-States-of-America/XMLNAME-2026-2027-Information-Technology---Software-Engineer---Intern_R000072398-1) · software-engineering · —
@@ -59,6 +61,8 @@
 - **Formlabs** — [Supply Chain Operations Software Intern](https://careers.formlabs.com/job/8069676/apply/?gh_jid=8069676) · software-engineering · —
 - **Formlabs** — [Test Software Intern](https://careers.formlabs.com/job/8065543/apply/?gh_jid=8065543) · software-engineering · —
 - **GE Aerospace** — [Engineer Intern](https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Jacksonville/Unison-Engineering-Intern---Spring-2027_R5037093-1) · software-engineering · —
+- **GE Healthcare** — [Engineering Development Program Intern - Hardware](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Waukesha/Edison-Engineering-Development-Program-Internship---Hardware_R4043923-1) · hardware · —
+- **GE Healthcare** — [Engineering Development Program Intern - Software](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Waukesha/Edison-Engineering-Development-Program-Intern---Software_R4043933-2) · software-engineering · —
 - **Generac** — [Engineering Intern](https://generac.wd5.myworkdayjobs.com/en-US/external/job/Toronto-Canada/Intern-Engineering_JR14268) · software-engineering · —
 - **GeoComply** — [Full Stack Developer Intern](https://jobs.lever.co/geocomply-2/a3131ad8-06ec-4c6e-b27c-81aa4c02cc40/apply) · software-engineering · —
 - **GeoComply** — [Product Operations Intern](https://jobs.lever.co/geocomply-2/738b76bf-ad57-4831-ae8f-e2e44ff5e02b/apply) · software-engineering · —
@@ -125,6 +129,7 @@
 - **Virtu Financial** — [2027 Internship - Software Engineer](https://job-boards.greenhouse.io/virtu/jobs/8551566002) · quant · —
 - **Voloridge** — [Quantitative Developer Intern](https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4224862009) · quant · —
 - **Voloridge** — [Quantitative Research Intern](https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4226247009) · quant · —
+- **Xsolla** — [AI-First Engineer Intern](https://jobs.lever.co/xsolla/7a8f8d4c-10fc-4c64-bc9d-167ba1e367c4/apply) · ai · —
 - **onsemi** — [AI & Data Analytics Intern](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2505878) · ai · —
 
 ## ⏰ Closing within 7 days (0)

@@ -2,13 +2,15 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 📊 Data Science Internships
 
-**9** tracked · **6** open now
+**11** tracked · **8** open now
 
 ## Current openings
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
 | [AlixPartners](generated/companies/alixpartners.md) | [Data Scientist Intern](https://www.alixpartners.com/careers/7725335003?gh_jid=7725335003) | NYC | Onsite | 2026-07-06 | Rolling | 🟢 Open | ❔ |
+| [Capital One](generated/companies/capital-one.md) | [Data Science Intern](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Current-PhD---Data-Science-Internship---Summer-2027_R244287-1) | Cambridge, MA +7 | Onsite | 2026-07-20 | Rolling | 🟢 Open | ❔ |
+| [Capital One](generated/companies/capital-one.md) | [Master's Data Science Internship](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Current-Master-s---Data-Science-Internship---Summer-2027_R244285-1) | Cambridge, MA +7 | Onsite | 2026-07-20 | Rolling | 🟢 Open | ❔ |
 | [Integra FEC](generated/companies/integra-fec.md) | [Data Scientist Intern](https://job-boards.greenhouse.io/integrainterns/jobs/5134593008) | Austin, TX | Onsite | 2026-04-28 | Rolling | 🟢 Open | ❔ |
 | [Integra FEC](generated/companies/integra-fec.md) | [Data Scientist Intern - PhD](https://job-boards.greenhouse.io/integra/jobs/5134592008) | Austin, TX | Onsite | 2026-04-28 | Rolling | 🟢 Open | ❔ |
 | [Nokia](generated/companies/nokia.md) | [Data Science Co-op/Intern](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34327) | Ottawa | Onsite | 2026-04-14 | Rolling | 🟢 Open | ❔ |
@@ -20,6 +22,7 @@
 
 ## Hiring companies
 
+- Capital One (2)
 - Integra FEC (2)
 - Bank of Montreal (2)
 - AlixPartners (1)

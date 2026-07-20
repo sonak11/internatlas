@@ -1,6 +1,6 @@
 {
   "generated": "2026-07-20",
-  "count": 713,
+  "count": 718,
   "internships": [
     {
       "schema_version": "1.0",
@@ -5548,6 +5548,180 @@
       "tags": [
         "auto-ingested",
         "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "capital-one-data-science-intern-2027",
+      "company": {
+        "name": "Capital One",
+        "slug": "capital-one"
+      },
+      "role": "Data Science Intern",
+      "category": "data-science",
+      "apply_url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Current-PhD---Data-Science-Internship---Summer-2027_R244287-1",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Cambridge",
+          "state": "MA",
+          "country": "USA"
+        },
+        {
+          "city": "SF",
+          "country": "USA"
+        },
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        },
+        {
+          "city": "Plano",
+          "state": "TX",
+          "country": "USA"
+        },
+        {
+          "city": "McLean",
+          "state": "VA",
+          "country": "USA"
+        },
+        {
+          "city": "Richmond",
+          "state": "VA",
+          "country": "USA"
+        },
+        {
+          "city": "Chicago",
+          "state": "IL",
+          "country": "USA"
+        },
+        {
+          "city": "NYC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-20",
+        "discovered": "2026-07-20",
+        "last_verified": "2026-07-20"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "capital-one-master-s-data-science-internship-2027",
+      "company": {
+        "name": "Capital One",
+        "slug": "capital-one"
+      },
+      "role": "Master's Data Science Internship",
+      "category": "data-science",
+      "apply_url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Current-Master-s---Data-Science-Internship---Summer-2027_R244285-1",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Cambridge",
+          "state": "MA",
+          "country": "USA"
+        },
+        {
+          "city": "SF",
+          "country": "USA"
+        },
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        },
+        {
+          "city": "Plano",
+          "state": "TX",
+          "country": "USA"
+        },
+        {
+          "city": "McLean",
+          "state": "VA",
+          "country": "USA"
+        },
+        {
+          "city": "Richmond",
+          "state": "VA",
+          "country": "USA"
+        },
+        {
+          "city": "Chicago",
+          "state": "IL",
+          "country": "USA"
+        },
+        {
+          "city": "NYC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-20",
+        "discovered": "2026-07-20",
+        "last_verified": "2026-07-20"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
       ]
     },
     {
@@ -11763,6 +11937,119 @@
       },
       "dates": {
         "posted": "2026-04-04",
+        "discovered": "2026-07-20",
+        "last_verified": "2026-07-20"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "ge-healthcare-engineering-development-program-intern-hardware-2027",
+      "company": {
+        "name": "GE Healthcare",
+        "slug": "ge-healthcare"
+      },
+      "role": "Engineering Development Program Intern - Hardware",
+      "category": "hardware",
+      "apply_url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Waukesha/Edison-Engineering-Development-Program-Internship---Hardware_R4043923-1",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Twinsburg",
+          "state": "OH",
+          "country": "USA"
+        },
+        {
+          "city": "Waukesha",
+          "state": "WI",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-20",
+        "discovered": "2026-07-20",
+        "last_verified": "2026-07-20"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "ge-healthcare-engineering-development-program-intern-software-2027",
+      "company": {
+        "name": "GE Healthcare",
+        "slug": "ge-healthcare"
+      },
+      "role": "Engineering Development Program Intern - Software",
+      "category": "software-engineering",
+      "apply_url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Waukesha/Edison-Engineering-Development-Program-Intern---Software_R4043933-2",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Waukesha",
+          "state": "WI",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-20",
         "discovered": "2026-07-20",
         "last_verified": "2026-07-20"
       },
@@ -38400,6 +38687,57 @@
       "dates": {
         "posted": "2026-07-10",
         "discovered": "2026-07-17",
+        "last_verified": "2026-07-20"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "xsolla-ai-first-engineer-intern-2026-30d479",
+      "company": {
+        "name": "Xsolla",
+        "slug": "xsolla"
+      },
+      "role": "AI-First Engineer Intern",
+      "category": "ai",
+      "apply_url": "https://jobs.lever.co/xsolla/7a8f8d4c-10fc-4c64-bc9d-167ba1e367c4/apply",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "state": "LA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-20",
+        "discovered": "2026-07-20",
         "last_verified": "2026-07-20"
       },
       "status": "open",
