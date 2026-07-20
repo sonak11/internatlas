@@ -1,6 +1,6 @@
 {
   "generated": "2026-07-20",
-  "count": 710,
+  "count": 713,
   "internships": [
     {
       "schema_version": "1.0",
@@ -7807,7 +7807,7 @@
         "discovered": "2026-07-18",
         "last_verified": "2026-07-20"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -11719,6 +11719,61 @@
     },
     {
       "schema_version": "1.0",
+      "id": "ge-appliances-engineering-intern-co-op-2027",
+      "company": {
+        "name": "GE Appliances",
+        "slug": "ge-appliances"
+      },
+      "role": "Engineering Intern/Co-op",
+      "category": "software-engineering",
+      "apply_url": "https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-LaFayette-GA/Engineering-Co-op-Spring-2027_REQ-24836",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Calhoun",
+          "state": "GA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters",
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-04-04",
+        "discovered": "2026-07-20",
+        "last_verified": "2026-07-20"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "gemini-software-engineer-intern-2026",
       "company": {
         "name": "Gemini",
@@ -12924,6 +12979,57 @@
         "last_verified": "2026-07-18"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "hitachi-energy-cloud-data-specialist-intern-2026",
+      "company": {
+        "name": "Hitachi Energy",
+        "slug": "hitachi-energy"
+      },
+      "role": "Cloud & Data Specialist Intern",
+      "category": "cloud",
+      "apply_url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/London-London-United-Kingdom/Intern---Cloud---Data-Specialist--67651-_R0138533",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "London",
+          "country": "UK"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-20",
+        "discovered": "2026-07-20",
+        "last_verified": "2026-07-20"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -24850,7 +24956,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-20"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -37294,6 +37400,58 @@
       "dates": {
         "posted": "2026-07-01",
         "discovered": "2026-07-18",
+        "last_verified": "2026-07-20"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "virtu-financial-2027-internship-software-engineer-2027",
+      "company": {
+        "name": "Virtu Financial",
+        "slug": "virtu-financial",
+        "career_page": "https://www.virtu.com/careers"
+      },
+      "role": "2027 Internship - Software Engineer",
+      "category": "quant",
+      "apply_url": "https://job-boards.greenhouse.io/virtu/jobs/8551566002",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Dublin",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-20",
+        "discovered": "2026-07-20",
         "last_verified": "2026-07-20"
       },
       "status": "open",

@@ -33,8 +33,8 @@ _Generated 2026-07-20_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 334 | `████████████` |
-| quant | 87 | `███` |
+| software-engineering | 335 | `████████████` |
+| quant | 88 | `███` |
 | ai | 70 | `██` |
 | machine-learning | 45 | `██` |
 | hardware | 40 | `█` |
@@ -42,13 +42,15 @@ _Generated 2026-07-20_
 | research | 32 | `█` |
 | design | 21 | `█` |
 | product | 15 | `█` |
-| cloud | 12 | `█` |
+| cloud | 13 | `█` |
 | data-science | 9 | `█` |
 | data-engineering | 8 | `█` |
 | security | 3 | `█` |
 
 ## Newest listings
 
+- 2026-07-20 — **Hitachi Energy**: [Cloud & Data Specialist Intern](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/London-London-United-Kingdom/Intern---Cloud---Data-Specialist--67651-_R0138533)
+- 2026-07-20 — **Virtu Financial**: [2027 Internship - Software Engineer](https://job-boards.greenhouse.io/virtu/jobs/8551566002)
 - 2026-07-17 — **Altera Corporation**: [AI Software Development Engineer Intern](https://altera.wd1.myworkdayjobs.com/altera/job/San-Jose-California-United-States/AI-Software-Development-Engineer---Intern_R02707)
 - 2026-07-17 — **Cloudflare**: [EIAM Business Enablement & Operations Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8068479?gh_jid=8068479)
 - 2026-07-17 — **Commercial Metals**: [AI Intern](https://jobs.cmc.com/job/Irving-AI-Intern-TX-75039/1410297800/?ats=successfactors)
@@ -67,8 +69,6 @@ _Generated 2026-07-20_
 - 2026-07-16 — **Cadence Design Systems**: [SSG Design Engineering Intern](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/SSG-Design-Engineering-Intern--Fall-2026-_R52641)
 - 2026-07-16 — **Chevron Corporation**: [Software Engineer Intern - Information Technology - Software Engineer](https://chevron.wd5.myworkdayjobs.com/University/job/Houston-Texas-United-States-of-America/XMLNAME-2026-2027-Information-Technology---Software-Engineer---Intern_R000072398-1)
 - 2026-07-16 — **CuspAI**: [Chemistry Intern - MLFF Distillation & GCMC Integration](https://jobs.ashbyhq.com/cuspai/d7b80299-ed98-4dfe-b306-729cd10d3f04/application?embed=true)
-- 2026-07-16 — **Cybernetic Labs**: [Forward Deployed Engineer Intern](https://jobs.ashbyhq.com/netic/ffd6af1a-cebb-41f5-ac1d-e695adfd067c/application?embed=true)
-- 2026-07-16 — **Cybernetic Labs**: [Full-Stack Software Engineer Intern - Product](https://jobs.ashbyhq.com/netic/f291394a-f3c5-4f46-9b87-77aea3d487ef/application?embed=true)
 
 ## Recently closed
 
@@ -87,7 +87,6 @@ _Generated 2026-07-20_
 - Chevron Corporation — Software Engineer Intern - Information Technology - Software Engineer
 - Ciena — Optical Modem Hardware Intern
 - City of Aurora — Water GIS Intern
-- Copart — Software Engineer Intern
 - DataRobot — Agentic AI Intern
 - Datasite — AI Transformation / Forward Deployed Engineer Intern - Forward Deployed Engineer
 - Ensemble Health Partners — Data Scientist Intern
@@ -114,7 +113,6 @@ _Generated 2026-07-20_
 - Revvity — Product Manager Intern
 - RFCUNY — IT & Data Systems Intern - Archibus & Applications Development
 - RFCUNY — IT & Data Systems Intern - Archibus & Applications Development
-- Rise8 — Skillbridge Intern - Product Manager
 - Rockwell Automation — Firmware Engineering Intern
 - Rockwell Automation — Firmware Engineering Intern
 - Royal Bank of Canada — Student Intern - Data Analyst - Personal Banking

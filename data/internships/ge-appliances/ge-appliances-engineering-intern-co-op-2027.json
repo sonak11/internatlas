@@ -1,17 +1,23 @@
 {
   "schema_version": "1.0",
-  "id": "rise8-skillbridge-intern-product-manager-2026",
+  "id": "ge-appliances-engineering-intern-co-op-2027",
   "company": {
-    "name": "Rise8",
-    "slug": "rise8"
+    "name": "GE Appliances",
+    "slug": "ge-appliances"
   },
-  "role": "Skillbridge Intern - Product Manager",
-  "category": "product",
-  "apply_url": "https://job-boards.greenhouse.io/rise8/jobs/4359627007",
-  "season": "fall",
-  "year": 2026,
-  "work_mode": "remote",
-  "locations": [],
+  "role": "Engineering Intern/Co-op",
+  "category": "software-engineering",
+  "apply_url": "https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-LaFayette-GA/Engineering-Co-op-Spring-2027_REQ-24836",
+  "season": "winter",
+  "year": 2027,
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "Calhoun",
+      "state": "GA",
+      "country": "USA"
+    }
+  ],
   "compensation": {
     "currency": "USD",
     "housing_stipend": false,
@@ -19,7 +25,10 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "masters",
+      "phd"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -34,8 +43,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-06-29",
-    "discovered": "2026-07-17",
+    "posted": "2026-04-04",
+    "discovered": "2026-07-20",
     "last_verified": "2026-07-20"
   },
   "status": "open",

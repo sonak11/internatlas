@@ -74,7 +74,7 @@
 | [ConnectPrep](../companies/connectprep.md) | 1/1 | software-engineering |
 | [Consensus Cloud Solutions](../companies/consensus-cloud-solutions.md) | 1/1 | software-engineering |
 | [Constellation Space](../companies/constellation-space.md) | 1/1 | machine-learning |
-| [Copart](../companies/copart.md) | 2/3 | software-engineering |
+| [Copart](../companies/copart.md) | 3/3 | software-engineering |
 | [Cotiviti](../companies/cotiviti.md) | 1/1 | ai |
 | [Cubist Systematic Strategies](../companies/cubist-systematic-strategies.md) | 1/1 | quant |
 | [CuspAI](../companies/cuspai.md) | 1/1 | software-engineering |
@@ -115,6 +115,7 @@
 | [Four Hands](../companies/four-hands.md) | 1/1 | software-engineering |
 | [Fussball Club Cincinnati LLC (“FC Cincinnati”)](../companies/fussball-club-cincinnati-llc-fc-cincinnati.md) | 1/1 | software-engineering |
 | [GE Aerospace](../companies/ge-aerospace.md) | 0/1 | software-engineering |
+| [GE Appliances](../companies/ge-appliances.md) | 1/1 | software-engineering |
 | [Gemini](../companies/gemini.md) | 1/1 | software-engineering |
 | [Generac](../companies/generac.md) | 0/1 | software-engineering |
 | [General Astronautics](../companies/general-astronautics.md) | 1/1 | software-engineering |
@@ -129,6 +130,7 @@
 | [Hermeus](../companies/hermeus.md) | 6/6 | hardware, software-engineering |
 | [Heron Power](../companies/heron-power.md) | 1/1 | design |
 | [Hitachi](../companies/hitachi.md) | 0/2 | software-engineering |
+| [Hitachi Energy](../companies/hitachi-energy.md) | 1/1 | cloud |
 | [Homebase](../companies/homebase.md) | 1/1 | ai |
 | [Hone Health](../companies/hone-health.md) | 1/1 | data-engineering |
 | [Horizon Industries](../companies/horizon-industries.md) | 1/1 | software-engineering |
@@ -202,7 +204,7 @@
 | [Ramp](../companies/ramp.md) | 1/1 | software-engineering |
 | [Revvity](../companies/revvity.md) | 0/2 | ai, product |
 | [Rippling](../companies/rippling.md) | 6/6 | machine-learning, software-engineering |
-| [Rise8](../companies/rise8.md) | 0/1 | product |
+| [Rise8](../companies/rise8.md) | 1/1 | product |
 | [Rivian](../companies/rivian.md) | 1/1 | machine-learning |
 | [Rivian and Volkswagen Group Technologies](../companies/rivian-and-volkswagen-group-technologies.md) | 14/14 | ai, embedded, software-engineering |
 | [Robert Bosch Venture Capital](../companies/robert-bosch-venture-capital.md) | 1/1 | embedded |
@@ -263,7 +265,7 @@
 | [Verne Robotics](../companies/verne-robotics.md) | 1/1 | software-engineering |
 | [VetsEZ](../companies/vetsez.md) | 1/1 | software-engineering |
 | [Viavi Solutions](../companies/viavi-solutions.md) | 1/1 | software-engineering |
-| [Virtu Financial](../companies/virtu-financial.md) | 3/3 | quant |
+| [Virtu Financial](../companies/virtu-financial.md) | 4/4 | quant |
 | [Vital Lyfe](../companies/vital-lyfe.md) | 1/1 | software-engineering |
 | [Voloridge](../companies/voloridge.md) | 2/2 | quant |
 | [Voloridge Investment Management](../companies/voloridge-investment-management.md) | 1/1 | quant |

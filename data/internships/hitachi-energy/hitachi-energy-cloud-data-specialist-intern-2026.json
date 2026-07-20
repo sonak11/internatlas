@@ -1,17 +1,22 @@
 {
   "schema_version": "1.0",
-  "id": "rise8-skillbridge-intern-product-manager-2026",
+  "id": "hitachi-energy-cloud-data-specialist-intern-2026",
   "company": {
-    "name": "Rise8",
-    "slug": "rise8"
+    "name": "Hitachi Energy",
+    "slug": "hitachi-energy"
   },
-  "role": "Skillbridge Intern - Product Manager",
-  "category": "product",
-  "apply_url": "https://job-boards.greenhouse.io/rise8/jobs/4359627007",
+  "role": "Cloud & Data Specialist Intern",
+  "category": "cloud",
+  "apply_url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/London-London-United-Kingdom/Intern---Cloud---Data-Specialist--67651-_R0138533",
   "season": "fall",
   "year": 2026,
-  "work_mode": "remote",
-  "locations": [],
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "London",
+      "country": "UK"
+    }
+  ],
   "compensation": {
     "currency": "USD",
     "housing_stipend": false,
@@ -34,8 +39,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-06-29",
-    "discovered": "2026-07-17",
+    "posted": "2026-07-20",
+    "discovered": "2026-07-20",
     "last_verified": "2026-07-20"
   },
   "status": "open",
