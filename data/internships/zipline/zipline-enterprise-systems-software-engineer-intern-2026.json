@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "arrowstreet-capital-quantitative-researcher-intern-2027",
+  "id": "zipline-enterprise-systems-software-engineer-intern-2026",
   "company": {
-    "name": "Arrowstreet Capital",
-    "slug": "arrowstreet-capital"
+    "name": "Zipline",
+    "slug": "zipline"
   },
-  "role": "Quantitative Researcher Intern",
-  "category": "quant",
-  "apply_url": "https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Quantitative-Researcher-Intern--Summer-2027_R1505",
-  "season": "summer",
-  "year": 2027,
+  "role": "Enterprise Systems Software Engineer Intern",
+  "category": "software-engineering",
+  "apply_url": "https://www.zipline.com/careers?gh_jid=7767667003",
+  "season": "fall",
+  "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Boston",
-      "state": "MA",
+      "city": "San Bruno",
+      "state": "CA",
       "country": "USA"
     }
   ],
@@ -25,7 +25,10 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "masters",
+      "phd"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -40,8 +43,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-10",
-    "discovered": "2026-07-17",
+    "posted": "2026-06-10",
+    "discovered": "2026-07-21",
     "last_verified": "2026-07-21"
   },
   "status": "open",

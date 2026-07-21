@@ -1,23 +1,17 @@
 {
   "schema_version": "1.0",
-  "id": "arrowstreet-capital-quantitative-researcher-intern-2027",
+  "id": "autodesk-cloud-developer-intern-2026-042873",
   "company": {
-    "name": "Arrowstreet Capital",
-    "slug": "arrowstreet-capital"
+    "name": "Autodesk",
+    "slug": "autodesk"
   },
-  "role": "Quantitative Researcher Intern",
-  "category": "quant",
-  "apply_url": "https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Quantitative-Researcher-Intern--Summer-2027_R1505",
-  "season": "summer",
-  "year": 2027,
-  "work_mode": "onsite",
-  "locations": [
-    {
-      "city": "Boston",
-      "state": "MA",
-      "country": "USA"
-    }
-  ],
+  "role": "Cloud Developer Intern",
+  "category": "cloud",
+  "apply_url": "https://autodesk.wd1.myworkdayjobs.com/uni/job/Quebec-CAN---Remote/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer_26WD99464-1",
+  "season": "fall",
+  "year": 2026,
+  "work_mode": "remote",
+  "locations": [],
   "compensation": {
     "currency": "USD",
     "housing_stipend": false,
@@ -40,8 +34,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-10",
-    "discovered": "2026-07-17",
+    "posted": "2026-06-18",
+    "discovered": "2026-07-21",
     "last_verified": "2026-07-21"
   },
   "status": "open",

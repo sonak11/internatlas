@@ -1,21 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "arrowstreet-capital-quantitative-researcher-intern-2027",
+  "id": "ciena-embedded-software-engineer-intern-2026-170b0b",
   "company": {
-    "name": "Arrowstreet Capital",
-    "slug": "arrowstreet-capital"
+    "name": "Ciena",
+    "slug": "ciena"
   },
-  "role": "Quantitative Researcher Intern",
-  "category": "quant",
-  "apply_url": "https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Quantitative-Researcher-Intern--Summer-2027_R1505",
-  "season": "summer",
-  "year": 2027,
+  "role": "Embedded Software Engineer Intern",
+  "category": "embedded",
+  "apply_url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Engineer-Intern--4-months---September-2026-_R031232",
+  "season": "fall",
+  "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Boston",
-      "state": "MA",
-      "country": "USA"
+      "city": "Ottawa",
+      "country": "ON"
     }
   ],
   "compensation": {
@@ -25,7 +24,9 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "masters"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -40,8 +41,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-10",
-    "discovered": "2026-07-17",
+    "posted": "2026-06-23",
+    "discovered": "2026-07-21",
     "last_verified": "2026-07-21"
   },
   "status": "open",

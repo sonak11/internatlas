@@ -1,20 +1,25 @@
 {
   "schema_version": "1.0",
-  "id": "arrowstreet-capital-quantitative-researcher-intern-2027",
+  "id": "zipline-perception-intern-2026",
   "company": {
-    "name": "Arrowstreet Capital",
-    "slug": "arrowstreet-capital"
+    "name": "Zipline",
+    "slug": "zipline"
   },
-  "role": "Quantitative Researcher Intern",
-  "category": "quant",
-  "apply_url": "https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Quantitative-Researcher-Intern--Summer-2027_R1505",
-  "season": "summer",
-  "year": 2027,
+  "role": "Perception Intern",
+  "category": "software-engineering",
+  "apply_url": "https://www.zipline.com/careers?gh_jid=7761650003",
+  "season": "fall",
+  "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Boston",
-      "state": "MA",
+      "city": "Dallas",
+      "state": "TX",
+      "country": "USA"
+    },
+    {
+      "city": "San Bruno",
+      "state": "CA",
       "country": "USA"
     }
   ],
@@ -40,8 +45,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-10",
-    "discovered": "2026-07-17",
+    "posted": "2026-06-03",
+    "discovered": "2026-07-21",
     "last_verified": "2026-07-21"
   },
   "status": "open",

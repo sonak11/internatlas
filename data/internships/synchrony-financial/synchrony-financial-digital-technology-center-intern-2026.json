@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "arrowstreet-capital-quantitative-researcher-intern-2027",
+  "id": "synchrony-financial-digital-technology-center-intern-2026",
   "company": {
-    "name": "Arrowstreet Capital",
-    "slug": "arrowstreet-capital"
+    "name": "Synchrony Financial",
+    "slug": "synchrony-financial"
   },
-  "role": "Quantitative Researcher Intern",
-  "category": "quant",
-  "apply_url": "https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Quantitative-Researcher-Intern--Summer-2027_R1505",
-  "season": "summer",
-  "year": 2027,
+  "role": "Digital Technology Center Intern",
+  "category": "software-engineering",
+  "apply_url": "https://synchronyfinancial.wd5.myworkdayjobs.com/University/job/Stamford-Hub/UConn-Stamford-Digital-Technology-Center-Intern---Fall-2026_2601749-1",
+  "season": "fall",
+  "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Boston",
-      "state": "MA",
+      "city": "Stamford",
+      "state": "CT",
       "country": "USA"
     }
   ],
@@ -40,8 +40,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-10",
-    "discovered": "2026-07-17",
+    "posted": "2026-06-12",
+    "discovered": "2026-07-21",
     "last_verified": "2026-07-21"
   },
   "status": "open",

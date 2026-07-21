@@ -1,6 +1,6 @@
 {
   "generated": "2026-07-21",
-  "count": 832,
+  "count": 841,
   "internships": [
     {
       "schema_version": "1.0",
@@ -3527,9 +3527,9 @@
       "dates": {
         "posted": "2026-07-10",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-18"
+        "last_verified": "2026-07-21"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -4382,6 +4382,52 @@
     },
     {
       "schema_version": "1.0",
+      "id": "autodesk-cloud-developer-intern-2026-042873",
+      "company": {
+        "name": "Autodesk",
+        "slug": "autodesk"
+      },
+      "role": "Cloud Developer Intern",
+      "category": "cloud",
+      "apply_url": "https://autodesk.wd1.myworkdayjobs.com/uni/job/Quebec-CAN---Remote/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer_26WD99464-1",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "remote",
+      "locations": [],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-06-18",
+        "discovered": "2026-07-21",
+        "last_verified": "2026-07-21"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "autodesk-cloud-developer-intern-2026",
       "company": {
         "name": "Autodesk",
@@ -4742,7 +4788,7 @@
         "discovered": "2026-07-21",
         "last_verified": "2026-07-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -7166,7 +7212,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "ciena-embedded-software-engineer-intern-2026",
+      "id": "ciena-embedded-software-engineer-intern-2026-170b0b",
       "company": {
         "name": "Ciena",
         "slug": "ciena"
@@ -7174,6 +7220,59 @@
       "role": "Embedded Software Engineer Intern",
       "category": "embedded",
       "apply_url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Engineer-Intern--4-months---September-2026-_R031232",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Ottawa",
+          "country": "ON"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-06-23",
+        "discovered": "2026-07-21",
+        "last_verified": "2026-07-21"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "ciena-embedded-software-engineer-intern-2026",
+      "company": {
+        "name": "Ciena",
+        "slug": "ciena"
+      },
+      "role": "Embedded Software Engineer Intern",
+      "category": "embedded",
+      "apply_url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Engineer-Intern--4-months---September-2026-_R031219",
       "season": "fall",
       "year": 2026,
       "work_mode": "onsite",
@@ -9365,7 +9464,59 @@
         "discovered": "2026-07-18",
         "last_verified": "2026-07-21"
       },
-      "status": "closed",
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "copart-software-engineer-intern-2026-b163bc",
+      "company": {
+        "name": "Copart",
+        "slug": "copart"
+      },
+      "role": "Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR110079",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Dallas",
+          "state": "TX",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-20",
+        "discovered": "2026-07-21",
+        "last_verified": "2026-07-21"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -9419,7 +9570,7 @@
         "discovered": "2026-07-18",
         "last_verified": "2026-07-21"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -9434,7 +9585,7 @@
       },
       "role": "Software Engineer Intern",
       "category": "software-engineering",
-      "apply_url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR110079",
+      "apply_url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109673",
       "season": "fall",
       "year": 2026,
       "work_mode": "onsite",
@@ -9469,7 +9620,7 @@
         "resume_keywords": []
       },
       "dates": {
-        "posted": "2026-07-20",
+        "posted": "2026-07-15",
         "discovered": "2026-07-17",
         "last_verified": "2026-07-21"
       },
@@ -10159,9 +10310,9 @@
       "dates": {
         "posted": "2026-07-15",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-18"
+        "last_verified": "2026-07-21"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -10210,9 +10361,9 @@
       "dates": {
         "posted": "2026-07-08",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-18"
+        "last_verified": "2026-07-21"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -18258,9 +18409,9 @@
       "dates": {
         "posted": "2026-07-02",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-18"
+        "last_verified": "2026-07-21"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -21340,6 +21491,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "littelfuse-intern-1-engineering-2026",
+      "company": {
+        "name": "Littelfuse",
+        "slug": "littelfuse"
+      },
+      "role": "Intern 1 - Engineering",
+      "category": "software-engineering",
+      "apply_url": "https://littelfuse.wd1.myworkdayjobs.com/Littelfuse-Careers/job/Dole/Intern-I--engineering_JR-112116",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Gastonia",
+          "state": "NC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-21",
+        "discovered": "2026-07-21",
+        "last_verified": "2026-07-21"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "liveramp-software-engineer-intern-pixel-serving-2027",
       "company": {
         "name": "LiveRamp",
@@ -23626,7 +23829,7 @@
         "discovered": "2026-07-21",
         "last_verified": "2026-07-21"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -24002,9 +24205,9 @@
       "dates": {
         "posted": "2026-07-13",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-18"
+        "last_verified": "2026-07-21"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -24168,9 +24371,9 @@
       "dates": {
         "posted": "2026-07-14",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-18"
+        "last_verified": "2026-07-21"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -25849,6 +26052,59 @@
       "dates": {
         "posted": "2026-05-20",
         "discovered": "2026-07-17",
+        "last_verified": "2026-07-21"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "nokia-incubation-developer-coop-intern-2026",
+      "company": {
+        "name": "Nokia",
+        "slug": "nokia"
+      },
+      "role": "Incubation Developer Coop/Intern",
+      "category": "software-engineering",
+      "apply_url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34227",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Ottawa",
+          "country": "ON"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-05-04",
+        "discovered": "2026-07-21",
         "last_verified": "2026-07-21"
       },
       "status": "open",
@@ -30633,7 +30889,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -33649,7 +33905,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-21"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -35832,6 +36088,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "synchrony-financial-digital-technology-center-intern-2026",
+      "company": {
+        "name": "Synchrony Financial",
+        "slug": "synchrony-financial"
+      },
+      "role": "Digital Technology Center Intern",
+      "category": "software-engineering",
+      "apply_url": "https://synchronyfinancial.wd5.myworkdayjobs.com/University/job/Stamford-Hub/UConn-Stamford-Digital-Technology-Center-Intern---Fall-2026_2601749-1",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Stamford",
+          "state": "CT",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-06-12",
+        "discovered": "2026-07-21",
+        "last_verified": "2026-07-21"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "synchrony-financial-technology-intern-2026",
       "company": {
         "name": "Synchrony Financial",
@@ -36096,7 +36404,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "tencent-research-intern-video-world-models-research-ml-systems-2026",
+      "id": "tencent-research-intern-video-world-models-research-ml-systems-2026-ef917d",
       "company": {
         "name": "Tencent",
         "slug": "tencent"
@@ -36104,6 +36412,61 @@
       "role": "Research Intern - Video World Models - Research & ML Systems",
       "category": "machine-learning",
       "apply_url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Research-Intern---Video-World-Models--Research---ML-Systems-_R107752-1",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Palo Alto",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters",
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-15",
+        "discovered": "2026-07-21",
+        "last_verified": "2026-07-21"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "tencent-research-intern-video-world-models-research-ml-systems-2026",
+      "company": {
+        "name": "Tencent",
+        "slug": "tencent"
+      },
+      "role": "Research Intern - Video World Models - Research & ML Systems",
+      "category": "machine-learning",
+      "apply_url": "https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/US-California-Palo-Alto/Research-Intern---Video-World-Models--Research---ML-Systems-_R107752",
       "season": "fall",
       "year": 2026,
       "work_mode": "onsite",
@@ -38262,7 +38625,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -43469,6 +43832,10 @@
         {
           "city": "New York",
           "country": "USA"
+        },
+        {
+          "city": "NYC",
+          "country": "USA"
         }
       ],
       "compensation": {
@@ -45110,6 +45477,61 @@
     },
     {
       "schema_version": "1.0",
+      "id": "zipline-enterprise-systems-software-engineer-intern-2026",
+      "company": {
+        "name": "Zipline",
+        "slug": "zipline"
+      },
+      "role": "Enterprise Systems Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://www.zipline.com/careers?gh_jid=7767667003",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Bruno",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters",
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-06-10",
+        "discovered": "2026-07-21",
+        "last_verified": "2026-07-21"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "zipline-maps-intern-2026",
       "company": {
         "name": "Zipline",
@@ -45154,6 +45576,63 @@
       },
       "dates": {
         "posted": "2026-06-27",
+        "discovered": "2026-07-21",
+        "last_verified": "2026-07-21"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "zipline-perception-intern-2026",
+      "company": {
+        "name": "Zipline",
+        "slug": "zipline"
+      },
+      "role": "Perception Intern",
+      "category": "software-engineering",
+      "apply_url": "https://www.zipline.com/careers?gh_jid=7761650003",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Dallas",
+          "state": "TX",
+          "country": "USA"
+        },
+        {
+          "city": "San Bruno",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-06-03",
         "discovered": "2026-07-21",
         "last_verified": "2026-07-21"
       },
