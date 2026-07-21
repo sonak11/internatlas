@@ -1,19 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "copart-software-engineer-intern-2026-b163bc",
+  "id": "virtu-financial-internship-quantitative-trading-2027",
   "company": {
-    "name": "Copart",
-    "slug": "copart"
+    "name": "Virtu Financial",
+    "slug": "virtu-financial",
+    "career_page": "https://www.virtu.com/careers"
   },
-  "role": "Software Engineer Intern",
-  "category": "software-engineering",
-  "apply_url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR110079",
-  "season": "fall",
-  "year": 2026,
+  "role": "Internship - Quantitative Trading",
+  "category": "quant",
+  "apply_url": "https://job-boards.greenhouse.io/virtu/jobs/8624408002",
+  "season": "summer",
+  "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Dallas",
+      "city": "Austin",
       "state": "TX",
       "country": "USA"
     }
@@ -40,13 +41,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-20",
-    "discovered": "2026-07-20",
+    "posted": "2026-07-21",
+    "discovered": "2026-07-21",
     "last_verified": "2026-07-21"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:ats"
   ]
 }

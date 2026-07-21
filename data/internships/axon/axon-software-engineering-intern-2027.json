@@ -1,19 +1,25 @@
 {
   "schema_version": "1.0",
-  "id": "spreeai-machine-learning-engineer-intern-computer-vision-multimodal-2026",
+  "id": "axon-software-engineering-intern-2027",
   "company": {
-    "name": "SpreeAI",
-    "slug": "spreeai"
+    "name": "Axon",
+    "slug": "axon"
   },
-  "role": "Machine Learning Engineer Intern - Computer Vision/Multimodal/Generative AI",
-  "category": "machine-learning",
-  "apply_url": "https://ats.rippling.com/spreeai/jobs/aa087086-dd4b-42be-a499-051546655e97",
-  "season": "fall",
-  "year": 2026,
+  "role": "Software Engineering Intern",
+  "category": "software-engineering",
+  "apply_url": "https://job-boards.greenhouse.io/axontalentcommunity/jobs/7800617003",
+  "season": "summer",
+  "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "SF",
+      "city": "Boston",
+      "state": "MA",
+      "country": "USA"
+    },
+    {
+      "city": "Seattle",
+      "state": "WA",
       "country": "USA"
     }
   ],

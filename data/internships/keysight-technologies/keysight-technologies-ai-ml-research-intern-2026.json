@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "spreeai-machine-learning-engineer-intern-computer-vision-multimodal-2026",
+  "id": "keysight-technologies-ai-ml-research-intern-2026",
   "company": {
-    "name": "SpreeAI",
-    "slug": "spreeai"
+    "name": "Keysight Technologies",
+    "slug": "keysight-technologies"
   },
-  "role": "Machine Learning Engineer Intern - Computer Vision/Multimodal/Generative AI",
+  "role": "AI/ML Research Intern",
   "category": "machine-learning",
-  "apply_url": "https://ats.rippling.com/spreeai/jobs/aa087086-dd4b-42be-a499-051546655e97",
+  "apply_url": "https://jobs.keysight.com/jobs/52557?icims=1",
   "season": "fall",
   "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "SF",
-      "country": "USA"
+      "city": "Edinburgh",
+      "country": "UK"
     }
   ],
   "compensation": {
@@ -24,7 +24,10 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "masters",
+      "phd"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"

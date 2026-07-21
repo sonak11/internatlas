@@ -1,19 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "spreeai-machine-learning-engineer-intern-computer-vision-multimodal-2026",
+  "id": "blackrock-global-product-intern-2026-7dff7c",
   "company": {
-    "name": "SpreeAI",
-    "slug": "spreeai"
+    "name": "BlackRock",
+    "slug": "blackrock"
   },
-  "role": "Machine Learning Engineer Intern - Computer Vision/Multimodal/Generative AI",
-  "category": "machine-learning",
-  "apply_url": "https://ats.rippling.com/spreeai/jobs/aa087086-dd4b-42be-a499-051546655e97",
+  "role": "Global Product Intern",
+  "category": "software-engineering",
+  "apply_url": "https://blackrock.wd1.myworkdayjobs.com/BlackRock_Early_Careers_Program/job/XMLNAME-2027-Global-Product-Intern-Non-New-York_R265169",
   "season": "fall",
   "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "SF",
+      "city": "Wilmington",
+      "state": "DE",
       "country": "USA"
     }
   ],
@@ -39,7 +40,7 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-21",
+    "posted": "2026-07-15",
     "discovered": "2026-07-21",
     "last_verified": "2026-07-21"
   },

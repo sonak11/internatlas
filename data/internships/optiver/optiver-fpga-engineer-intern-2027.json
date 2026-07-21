@@ -1,19 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "spreeai-machine-learning-engineer-intern-computer-vision-multimodal-2026",
+  "id": "optiver-fpga-engineer-intern-2027",
   "company": {
-    "name": "SpreeAI",
-    "slug": "spreeai"
+    "name": "Optiver",
+    "slug": "optiver"
   },
-  "role": "Machine Learning Engineer Intern - Computer Vision/Multimodal/Generative AI",
-  "category": "machine-learning",
-  "apply_url": "https://ats.rippling.com/spreeai/jobs/aa087086-dd4b-42be-a499-051546655e97",
-  "season": "fall",
-  "year": 2026,
+  "role": "FPGA Engineer Intern",
+  "category": "hardware",
+  "apply_url": "https://www.optiver.com/join-us/jobs/8641352002/?gh_jid=8641352002",
+  "season": "summer",
+  "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "SF",
+      "city": "Austin",
+      "state": "TX",
       "country": "USA"
     }
   ],
@@ -24,7 +25,10 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "masters",
+      "phd"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
