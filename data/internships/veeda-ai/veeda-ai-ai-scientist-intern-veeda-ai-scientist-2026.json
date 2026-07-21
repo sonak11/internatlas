@@ -1,0 +1,60 @@
+{
+  "schema_version": "1.0",
+  "id": "veeda-ai-ai-scientist-intern-veeda-ai-scientist-2026",
+  "company": {
+    "name": "Veeda AI",
+    "slug": "veeda-ai"
+  },
+  "role": "AI Scientist Intern - Veeda AI Scientist",
+  "category": "ai",
+  "apply_url": "https://jobs.ashbyhq.com/veeda-labs/58cc42fb-1d6f-4e5f-860d-3b97bdccc6f4/application?embed=true",
+  "season": "fall",
+  "year": 2026,
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "Seattle",
+      "state": "WA",
+      "country": "USA"
+    },
+    {
+      "city": "Toronto",
+      "country": "ON"
+    },
+    {
+      "city": "California",
+      "country": "USA"
+    }
+  ],
+  "compensation": {
+    "currency": "USD",
+    "housing_stipend": false,
+    "relocation_assistance": false
+  },
+  "eligibility": {
+    "graduation_years": [],
+    "degree_levels": [],
+    "citizenship_required": false,
+    "security_clearance_required": false,
+    "visa_sponsorship": "unknown"
+  },
+  "interview": {},
+  "tech": {
+    "required_skills": [],
+    "preferred_skills": [],
+    "languages": [],
+    "frameworks": [],
+    "cloud_platforms": [],
+    "resume_keywords": []
+  },
+  "dates": {
+    "posted": "2026-07-21",
+    "discovered": "2026-07-21",
+    "last_verified": "2026-07-21"
+  },
+  "status": "open",
+  "tags": [
+    "auto-ingested",
+    "src:simplify"
+  ]
+}

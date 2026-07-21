@@ -1,0 +1,191 @@
+{
+  "schema_version": "1.0",
+  "id": "google-software-engineer-intern-ms-2027",
+  "company": {
+    "name": "Google",
+    "slug": "google"
+  },
+  "role": "Software Engineer Intern - MS",
+  "category": "software-engineering",
+  "apply_url": "https://www.google.com/about/careers/applications/jobs/results/95141459539174086",
+  "season": "summer",
+  "year": 2027,
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "Palo Alto",
+      "state": "CA",
+      "country": "USA"
+    },
+    {
+      "city": "Cambridge",
+      "state": "MA",
+      "country": "USA"
+    },
+    {
+      "city": "Madison",
+      "state": "WI",
+      "country": "USA"
+    },
+    {
+      "city": "Seattle",
+      "state": "WA",
+      "country": "USA"
+    },
+    {
+      "city": "Houston",
+      "state": "TX",
+      "country": "USA"
+    },
+    {
+      "city": "SF",
+      "country": "USA"
+    },
+    {
+      "city": "Austin",
+      "state": "TX",
+      "country": "USA"
+    },
+    {
+      "state": "LA",
+      "country": "USA"
+    },
+    {
+      "city": "San Jose",
+      "state": "CA",
+      "country": "USA"
+    },
+    {
+      "city": "Irvine",
+      "state": "CA",
+      "country": "USA"
+    },
+    {
+      "city": "San Carlos",
+      "state": "CA",
+      "country": "USA"
+    },
+    {
+      "city": "Raleigh",
+      "state": "NC",
+      "country": "USA"
+    },
+    {
+      "city": "San Bruno",
+      "state": "CA",
+      "country": "USA"
+    },
+    {
+      "city": "Redmond",
+      "state": "WA",
+      "country": "USA"
+    },
+    {
+      "city": "Durham",
+      "state": "NC",
+      "country": "USA"
+    },
+    {
+      "city": "Santa Cruz",
+      "state": "CA",
+      "country": "USA"
+    },
+    {
+      "city": "Chicago",
+      "state": "IL",
+      "country": "USA"
+    },
+    {
+      "city": "Goleta",
+      "state": "CA",
+      "country": "USA"
+    },
+    {
+      "city": "Pittsburgh",
+      "state": "PA",
+      "country": "USA"
+    },
+    {
+      "city": "Kirkland",
+      "state": "WA",
+      "country": "USA"
+    },
+    {
+      "city": "Reston",
+      "state": "VA",
+      "country": "USA"
+    },
+    {
+      "city": "NYC",
+      "country": "USA"
+    },
+    {
+      "city": "Bellevue",
+      "state": "WA",
+      "country": "USA"
+    },
+    {
+      "city": "Sunnyvale",
+      "state": "CA",
+      "country": "USA"
+    },
+    {
+      "city": "Mountain View",
+      "state": "CA",
+      "country": "USA"
+    },
+    {
+      "city": "Portland",
+      "state": "OR",
+      "country": "USA"
+    },
+    {
+      "city": "Boulder",
+      "state": "CO",
+      "country": "USA"
+    },
+    {
+      "city": "Atlanta",
+      "state": "GA",
+      "country": "USA"
+    },
+    {
+      "city": "San Diego",
+      "state": "CA",
+      "country": "USA"
+    }
+  ],
+  "compensation": {
+    "currency": "USD",
+    "housing_stipend": false,
+    "relocation_assistance": false
+  },
+  "eligibility": {
+    "graduation_years": [],
+    "degree_levels": [
+      "masters"
+    ],
+    "citizenship_required": false,
+    "security_clearance_required": false,
+    "visa_sponsorship": "unknown"
+  },
+  "interview": {},
+  "tech": {
+    "required_skills": [],
+    "preferred_skills": [],
+    "languages": [],
+    "frameworks": [],
+    "cloud_platforms": [],
+    "resume_keywords": []
+  },
+  "dates": {
+    "posted": "2026-07-20",
+    "discovered": "2026-07-21",
+    "last_verified": "2026-07-21"
+  },
+  "status": "open",
+  "tags": [
+    "auto-ingested",
+    "src:simplify"
+  ]
+}

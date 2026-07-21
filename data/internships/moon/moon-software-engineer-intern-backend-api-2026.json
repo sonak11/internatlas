@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0",
+  "id": "moon-software-engineer-intern-backend-api-2026",
+  "company": {
+    "name": "Moon",
+    "slug": "moon"
+  },
+  "role": "Software Engineer Intern - Backend & API",
+  "category": "software-engineering",
+  "apply_url": "https://ats.rippling.com/moon/jobs/8b81bca7-1a64-4377-8ea8-869aac03080b",
+  "season": "fall",
+  "year": 2026,
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "Glendale",
+      "state": "CA",
+      "country": "USA"
+    }
+  ],
+  "compensation": {
+    "currency": "USD",
+    "housing_stipend": false,
+    "relocation_assistance": false
+  },
+  "eligibility": {
+    "graduation_years": [],
+    "degree_levels": [],
+    "citizenship_required": false,
+    "security_clearance_required": false,
+    "visa_sponsorship": "unknown"
+  },
+  "interview": {},
+  "tech": {
+    "required_skills": [],
+    "preferred_skills": [],
+    "languages": [],
+    "frameworks": [],
+    "cloud_platforms": [],
+    "resume_keywords": []
+  },
+  "dates": {
+    "posted": "2026-07-21",
+    "discovered": "2026-07-21",
+    "last_verified": "2026-07-21"
+  },
+  "status": "open",
+  "tags": [
+    "auto-ingested",
+    "src:simplify"
+  ]
+}

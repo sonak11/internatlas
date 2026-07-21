@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 📊 Statistics
 
-_Generated 2026-07-20_
+_Generated 2026-07-21_
 
 ## Top hiring companies
 
@@ -33,42 +33,42 @@ _Generated 2026-07-20_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 347 | `████████████` |
-| quant | 91 | `███` |
-| ai | 73 | `██` |
-| machine-learning | 46 | `██` |
+| software-engineering | 379 | `████████████` |
+| quant | 92 | `███` |
+| ai | 79 | `██` |
+| machine-learning | 50 | `██` |
 | hardware | 42 | `█` |
-| embedded | 34 | `█` |
-| research | 32 | `█` |
+| research | 39 | `█` |
+| embedded | 35 | `█` |
 | design | 21 | `█` |
-| product | 15 | `█` |
-| cloud | 13 | `█` |
+| product | 16 | `█` |
+| cloud | 14 | `█` |
 | data-science | 12 | `█` |
 | data-engineering | 8 | `█` |
 | security | 3 | `█` |
 
 ## Newest listings
 
-- 2026-07-20 — **Accenture**: [Software Engineer Intern](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Belen/Software-Engineer-Intern_R00345312)
-- 2026-07-20 — **AVEVA**: [Software Developer Intern Co-op](https://aveva.wd3.myworkdayjobs.com/en-US/AVEVA_careers/job/Philadelphia-Pennsylvania-United-States-of-America/Software-Developer-Intern--Drexel-Co-op-US_R014478)
-- 2026-07-20 — **Capital One**: [Data Science Intern](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Current-PhD---Data-Science-Internship---Summer-2027_R244287-1)
-- 2026-07-20 — **Capital One**: [Master's Data Science Internship](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Current-Master-s---Data-Science-Internship---Summer-2027_R244285-1)
-- 2026-07-20 — **Chevron Corporation**: [Intern](https://chevron.wd5.myworkdayjobs.com/University/job/Houston-1400-Smith-Street/XMLNAME-2026-2027-Supply---Trading-TAMU-TRIP-Program---Full-Time_R000072489)
-- 2026-07-20 — **Chevron Corporation**: [Supply & Trading TAMU TRIP Program Intern](https://chevron.wd5.myworkdayjobs.com/University/job/Houston-1400-Smith-Street/XMLNAME-2026-2027-Supply---Trading-TAMU-TRIP-Program-Intern_R000072487)
-- 2026-07-20 — **Chevron Corporation**: [Supply & Trading TRIP Program Intern](https://chevron.wd5.myworkdayjobs.com/University/job/Houston-1400-Smith-Street/XMLNAME-2026-2027-Supply---Trading-TAMU-TRIP-Program-Intern_R000072485)
-- 2026-07-20 — **Chicago Trading Company**: [Quant Trading Intern](https://job-boards.greenhouse.io/ctccampusboard/jobs/4708188005)
-- 2026-07-20 — **Chicago Trading Company**: [Software Engineering Intern](https://job-boards.greenhouse.io/ctccampusboard/jobs/4708230005)
-- 2026-07-20 — **Ciena**: [Photonic Hardware Intern](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Photonic-Hardware-Intern--4-12-Months-_R031366)
-- 2026-07-20 — **Circle K**: [Analyst Intern - Global Fuels](https://circlek.wd3.myworkdayjobs.com/circlekstorejobs/job/Nonstore-B152-Charlotte-NC/Analyst-Intern---Global-Fuels_R606611)
-- 2026-07-20 — **Cirrus Logic**: [AI Business Analytics Co-op Intern](https://jobs.eu.lever.co/cirrus/f85c944c-d437-4685-9f04-c7b79ae65ecb/apply)
-- 2026-07-20 — **Copart**: [Software Engineer Intern](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR110079)
-- 2026-07-20 — **Copart**: [Technology Product Analyst Intern](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Technology-Product-Analyst-Intern_JR110077)
-- 2026-07-20 — **Ditto**: [Ditto Intern Program](https://jobs.ashbyhq.com/ditto/cbece35a-bb1a-4c93-a866-510279b8756c/application?embed=true)
-- 2026-07-20 — **GE Healthcare**: [Engineering Development Program Intern - Hardware](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Waukesha/Edison-Engineering-Development-Program-Internship---Hardware_R4043923-1)
-- 2026-07-20 — **GE Healthcare**: [Engineering Development Program Intern - Software](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Waukesha/Edison-Engineering-Development-Program-Intern---Software_R4043933-2)
-- 2026-07-20 — **HireVue**: [Data Science Intern](https://jobs.smartrecruiters.com/HireVue/744000138728139)
-- 2026-07-20 — **Hitachi Energy**: [Cloud & Data Specialist Intern](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/London-London-United-Kingdom/Intern---Cloud---Data-Specialist--67651-_R0138533)
-- 2026-07-20 — **National Laboratory of the Rockies**: [Graduate Intern](https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Graduate-Intern---LLM-Reliability-and-Uncertainty-for-AI-Science-Assistants_R14416)
+- 2026-07-21 — **Architect Labs**: [Member of Technical Staff Research Intern](https://jobs.ashbyhq.com/architect/1999377b-b23b-461f-b79a-d4edce0d46b1/application?embed=true)
+- 2026-07-21 — **Bild AI**: [AI/Software Engineer Intern](https://jobs.ashbyhq.com/bild-ai/b333f0f7-0ca6-4509-8697-9303396b5364/application?embed=true)
+- 2026-07-21 — **Bloxd**: [Software Engineer Intern](https://jobs.ashbyhq.com/bloxd/7ade559a-d07d-4ffe-b6ec-c79e41632474/application?embed=true)
+- 2026-07-21 — **Democratic National Committee**: [DNC Technology Intern](https://ats.rippling.com/democratic-national-committee/jobs/3f556194-5789-4d7c-bc00-35b9aea75e1d)
+- 2026-07-21 — **Dexmate**: [Frontend Engineer Intern](https://jobs.ashbyhq.com/dexmate/eac26b6f-1a53-441f-8e52-ee0a0b1bc119/application?embed=true)
+- 2026-07-21 — **Duku AI**: [Tech Intern - Visiting](https://ats.rippling.com/duku-ai/jobs/d6140320-add8-4c23-80b0-5253e87d7c84)
+- 2026-07-21 — **Egra**: [AI Researcher Intern](https://jobs.ashbyhq.com/egra/6f295102-6330-4a9e-9fc4-9b414e620003/application?embed=true)
+- 2026-07-21 — **Eragon**: [Applied AI Intern](https://jobs.ashbyhq.com/eragon/0b90ea4a-8684-4ae1-a7cc-c998db6e862e/application?embed=true)
+- 2026-07-21 — **Fab2**: [Automation Software Engineer Intern](https://jobs.ashbyhq.com/fab2/615feebf-d9e3-4583-9c85-ba16af44e65c/application?embed=true)
+- 2026-07-21 — **Fab2**: [Embedded Software Engineer Intern](https://jobs.ashbyhq.com/fab2/de448098-ffc6-4b99-b341-d6a5874f390f/application?embed=true)
+- 2026-07-21 — **Fab2**: [Packaging Engineer Intern](https://jobs.ashbyhq.com/fab2/4497473d-0ce0-4e83-88c3-2afedceac622/application?embed=true)
+- 2026-07-21 — **Fab2**: [Rust Software Engineer Intern](https://jobs.ashbyhq.com/fab2/009d0819-c688-4ab9-8816-a3c7ab002470/application?embed=true)
+- 2026-07-21 — **Fab2**: [Software Engineer Intern](https://jobs.ashbyhq.com/fab2/947338ca-e135-4398-9aa3-79e131bc03d5/application?embed=true)
+- 2026-07-21 — **Firetiger**: [Product Engineer Intern/Co-op](https://jobs.ashbyhq.com/firetiger/7acf0768-f10d-4650-bcfc-12ed6e5d7cfc/application?embed=true)
+- 2026-07-21 — **Fluency**: [Engineer Intern](https://jobs.ashbyhq.com/fluency/2aced4e2-485b-4525-802c-763e62c91e88/application?embed=true)
+- 2026-07-21 — **Frontier Health**: [Applied Scientist / Research Engineer Intern](https://jobs.ashbyhq.com/frontier-health/0ff47d07-91b5-4456-9ecf-8438239b00ef/application?embed=true)
+- 2026-07-21 — **GenMD**: [AI Research Scientist Intern](https://jobs.ashbyhq.com/genmd/807adafc-7842-4e05-90f3-9bc45dd39a13/application?embed=true)
+- 2026-07-21 — **Gritt Robotics Inc**: [Robot Learning Engineer Intern](https://jobs.ashbyhq.com/gritt/5c4737ce-f546-453b-b30d-791a121fb9fd/application?embed=true)
+- 2026-07-21 — **Hubs.is**: [Product Intern](https://jobs.ashbyhq.com/hubs.is/00dc1010-f699-4f43-822b-fdfa57a0da8a/application?embed=true)
+- 2026-07-21 — **Junior AI**: [Software Engineer Intern](https://jobs.ashbyhq.com/junior/23ee686b-d305-4ac9-860d-16c99ddb4891/application?embed=true)
 
 ## Recently closed
 
@@ -119,6 +119,7 @@ _Generated 2026-07-20_
 - Rockwell Automation — Firmware Engineering Intern
 - Rockwell Automation — Firmware Engineering Intern
 - Royal Bank of Canada — Student Intern - Data Analyst - Personal Banking
+- Samsung Research America — Memory and Personalization Intern - Memory and Personalization
 - Schweitzer Engineering Laboratories — Software Engineering Intern
 - Sentara Health — Enterprise Data & AI Intern
 - State of North Carolina — Geographic Information Systems Intern - GIS

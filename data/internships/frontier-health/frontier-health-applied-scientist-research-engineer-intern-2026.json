@@ -1,0 +1,51 @@
+{
+  "schema_version": "1.0",
+  "id": "frontier-health-applied-scientist-research-engineer-intern-2026",
+  "company": {
+    "name": "Frontier Health",
+    "slug": "frontier-health"
+  },
+  "role": "Applied Scientist / Research Engineer Intern",
+  "category": "research",
+  "apply_url": "https://jobs.ashbyhq.com/frontier-health/0ff47d07-91b5-4456-9ecf-8438239b00ef/application?embed=true",
+  "season": "fall",
+  "year": 2026,
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "London",
+      "country": "UK"
+    }
+  ],
+  "compensation": {
+    "currency": "USD",
+    "housing_stipend": false,
+    "relocation_assistance": false
+  },
+  "eligibility": {
+    "graduation_years": [],
+    "degree_levels": [],
+    "citizenship_required": false,
+    "security_clearance_required": false,
+    "visa_sponsorship": "unknown"
+  },
+  "interview": {},
+  "tech": {
+    "required_skills": [],
+    "preferred_skills": [],
+    "languages": [],
+    "frameworks": [],
+    "cloud_platforms": [],
+    "resume_keywords": []
+  },
+  "dates": {
+    "posted": "2026-07-21",
+    "discovered": "2026-07-21",
+    "last_verified": "2026-07-21"
+  },
+  "status": "open",
+  "tags": [
+    "auto-ingested",
+    "src:simplify"
+  ]
+}
