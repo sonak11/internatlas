@@ -1,21 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "ge-vernova-ge-vernova-grid-automation-product-management-intern-2026",
+  "id": "hitachi-energy-engineering-knowledge-management-intern-8-months-2026",
   "company": {
-    "name": "GE Vernova",
-    "slug": "ge-vernova"
+    "name": "Hitachi Energy",
+    "slug": "hitachi-energy"
   },
-  "role": "GE Vernova Grid Automation Product Management Intern",
-  "category": "product",
-  "apply_url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Rochester/GE-Vernova-Grid-Automation-Product-Management-Intern---Fall-2026_R5035460-3",
+  "role": "Engineering Knowledge Management Intern - 8 months",
+  "category": "software-engineering",
+  "apply_url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Engineering-Knowledge-Management-Intern--Fall-2026--8-months-_R1012818-1",
   "season": "fall",
   "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Rochester",
-      "state": "NY",
-      "country": "USA"
+      "city": "Toronto",
+      "country": "ON"
     }
   ],
   "compensation": {
@@ -42,7 +41,7 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-04-07",
+    "posted": "2026-07-07",
     "discovered": "2026-07-21",
     "last_verified": "2026-07-21"
   },

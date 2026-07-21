@@ -19,8 +19,8 @@ _Generated 2026-07-21_
 | Etched | 12 |
 | TikTok | 12 |
 | Astranis | 10 |
+| Optiver | 10 |
 | NVIDIA | 9 |
-| Optiver | 9 |
 | Akuna Capital | 8 |
 | Walleye Capital | 8 |
 | Amazon | 7 |
@@ -33,16 +33,16 @@ _Generated 2026-07-21_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 394 | `████████████` |
+| software-engineering | 396 | `████████████` |
 | quant | 97 | `███` |
 | ai | 82 | `██` |
 | machine-learning | 53 | `██` |
+| hardware | 44 | `█` |
 | research | 43 | `█` |
-| hardware | 43 | `█` |
 | embedded | 36 | `█` |
 | design | 21 | `█` |
-| product | 18 | `█` |
-| cloud | 15 | `█` |
+| product | 19 | `█` |
+| cloud | 16 | `█` |
 | data-science | 13 | `█` |
 | data-engineering | 8 | `█` |
 | security | 4 | `█` |
@@ -88,13 +88,11 @@ _Generated 2026-07-21_
 - Cloudflare — EIAM Business Enablement & Operations Intern (Fall 2026)
 - Copart — Software Engineer Intern
 - Copart — Software Engineer Intern
-- CTGT — Software Engineer Intern
 - DataRobot — Agentic AI Intern
 - Datasite — AI Transformation / Forward Deployed Engineer Intern - Forward Deployed Engineer
 - DNV — AI Research Intern
 - Duku AI — Tech Intern - Visiting
 - Ensemble Health Partners — Data Scientist Intern
-- Ensemble Health Partners — Engineering Excellence Intern
 - Entergy — Power Delivery Intern
 - Environmental Defense Fund — Climate & Health Intern
 - Fab2 — Rust Software Engineer Intern
@@ -105,14 +103,13 @@ _Generated 2026-07-21_
 - General Motors — Research and Development Intern - Research & Development
 - General Motors — Research and Development Intern - Research & Development: AI/ML
 - GeoComply — Full Stack Developer Intern
-- Hitachi — Software Analyst Intern
 - Hitachi Energy — Cloud & Data Specialist Intern
 - Integrity — Research Intern
 - LexisNexis Risk Solutions — Editorial Data Reporting Intern
 - Light & Wonder — Mathematics Intern
 - McKesson — AI & Strategic Analytics Intern
 - McKesson — Supply Chain Engineering and Analytics Intern
-- Microchip Technology — Applications Engineering Intern
+- Meta — Research Scientist Intern - 3D Vision & World Simulation
 - Mobius Renewables — Software Engineer Intern
 - Moon — Software Engineer Intern - Backend & API
 - National Laboratory of the Rockies — Energy Data Analysis Intern
@@ -125,17 +122,13 @@ _Generated 2026-07-21_
 - Revvity — Product Manager Intern
 - RFCUNY — IT & Data Systems Intern - Archibus & Applications Development
 - RFCUNY — IT & Data Systems Intern - Archibus & Applications Development
-- Rockwell Automation — Firmware Engineering Intern
 - Royal Bank of Canada — Student Intern - Data Analyst - Personal Banking
 - RTX — Machine Learning Researcher Intern/Co-op
-- Salesforce — Associate Product Manager Intern - Associate Product Manager
 - Samsung Research America — Computer Vision/AI Intern - Computer Vision/AI
 - Samsung Research America — Memory and Personalization Intern - Memory and Personalization
 - Schweitzer Engineering Laboratories — Software Engineering Intern
 - Sentara Health — Enterprise Data & AI Intern
-- SOTI — Associate Product Manager Intern
 - SOTI — Data Scientist Intern
-- SOTI — Product Manager Intern - Sales Enablement Products
 - State of North Carolina — Geographic Information Systems Intern - GIS
 - Torch Technologies — Software Engineer Intern
 - Varda Space — Mission Software – Intern - Python

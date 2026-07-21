@@ -1,20 +1,21 @@
 {
   "schema_version": "1.0",
-  "id": "hitachi-software-analyst-intern-2026-84a115",
+  "id": "optiver-fpga-engineer-intern-2027-8e401c",
   "company": {
-    "name": "Hitachi",
-    "slug": "hitachi"
+    "name": "Optiver",
+    "slug": "optiver"
   },
-  "role": "Software Analyst Intern",
-  "category": "software-engineering",
-  "apply_url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Software-Analyst-Intern--Fall-2026--8-months-_R1012810-1",
-  "season": "fall",
-  "year": 2026,
+  "role": "FPGA Engineer Intern",
+  "category": "hardware",
+  "apply_url": "https://www.optiver.com/join-us/jobs/8641352002/?gh_jid=8641352002",
+  "season": "summer",
+  "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Toronto",
-      "country": "ON"
+      "city": "Austin",
+      "state": "TX",
+      "country": "USA"
     }
   ],
   "compensation": {
@@ -24,7 +25,10 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "masters",
+      "phd"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -39,11 +43,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-07",
-    "discovered": "2026-07-17",
-    "last_verified": "2026-07-18"
+    "posted": "2026-07-21",
+    "discovered": "2026-07-21",
+    "last_verified": "2026-07-21"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

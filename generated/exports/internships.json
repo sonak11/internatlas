@@ -1,6 +1,6 @@
 {
   "generated": "2026-07-21",
-  "count": 827,
+  "count": 832,
   "internships": [
     {
       "schema_version": "1.0",
@@ -9626,7 +9626,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-21"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -11715,9 +11715,9 @@
       "dates": {
         "posted": "2026-07-17",
         "discovered": "2026-07-18",
-        "last_verified": "2026-07-18"
+        "last_verified": "2026-07-21"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -14352,7 +14352,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "ge-vernova-ge-vernova-grid-automation-product-management-intern-2026",
+      "id": "ge-vernova-ge-vernova-grid-automation-product-management-intern-2026-4c23c3",
       "company": {
         "name": "GE Vernova",
         "slug": "ge-vernova"
@@ -14360,6 +14360,60 @@
       "role": "GE Vernova Grid Automation Product Management Intern",
       "category": "product",
       "apply_url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Rochester/GE-Vernova-Grid-Automation-Product-Management-Intern---Fall-2026_R5035460",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Rochester",
+          "state": "NY",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-04-07",
+        "discovered": "2026-07-21",
+        "last_verified": "2026-07-21"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "ge-vernova-ge-vernova-grid-automation-product-management-intern-2026",
+      "company": {
+        "name": "GE Vernova",
+        "slug": "ge-vernova"
+      },
+      "role": "GE Vernova Grid Automation Product Management Intern",
+      "category": "product",
+      "apply_url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Rochester/GE-Vernova-Grid-Automation-Product-Management-Intern---Fall-2026_R5035460-3",
       "season": "fall",
       "year": 2026,
       "work_mode": "onsite",
@@ -16176,14 +16230,14 @@
     },
     {
       "schema_version": "1.0",
-      "id": "hitachi-software-analyst-intern-2026-84a115",
+      "id": "hitachi-software-analyst-intern-2026-30c705",
       "company": {
         "name": "Hitachi",
         "slug": "hitachi"
       },
       "role": "Software Analyst Intern",
       "category": "software-engineering",
-      "apply_url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Software-Analyst-Intern--Fall-2026--8-months-_R1012810-1",
+      "apply_url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Software-Analyst-Intern--Fall-2026--8-months-_R1013034-1",
       "season": "fall",
       "year": 2026,
       "work_mode": "onsite",
@@ -16200,7 +16254,10 @@
       },
       "eligibility": {
         "graduation_years": [],
-        "degree_levels": [],
+        "degree_levels": [
+          "masters",
+          "phd"
+        ],
         "citizenship_required": false,
         "security_clearance_required": false,
         "visa_sponsorship": "unknown"
@@ -16216,10 +16273,10 @@
       },
       "dates": {
         "posted": "2026-07-07",
-        "discovered": "2026-07-17",
-        "last_verified": "2026-07-18"
+        "discovered": "2026-07-21",
+        "last_verified": "2026-07-21"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -16234,7 +16291,7 @@
       },
       "role": "Software Analyst Intern",
       "category": "software-engineering",
-      "apply_url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Software-Analyst-Intern--Fall-2026--8-months-_R1013034-1",
+      "apply_url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Software-Analyst-Intern--Fall-2026--8-months-_R1012810-1",
       "season": "fall",
       "year": 2026,
       "work_mode": "onsite",
@@ -16324,6 +16381,59 @@
         "last_verified": "2026-07-21"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "hitachi-energy-engineering-knowledge-management-intern-8-months-2026",
+      "company": {
+        "name": "Hitachi Energy",
+        "slug": "hitachi-energy"
+      },
+      "role": "Engineering Knowledge Management Intern - 8 months",
+      "category": "software-engineering",
+      "apply_url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Engineering-Knowledge-Management-Intern--Fall-2026--8-months-_R1012818-1",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Toronto",
+          "country": "ON"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-07",
+        "discovered": "2026-07-21",
+        "last_verified": "2026-07-21"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -22221,7 +22331,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -23144,9 +23254,9 @@
       "dates": {
         "posted": "2026-07-09",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-18"
+        "last_verified": "2026-07-21"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -24061,6 +24171,58 @@
         "last_verified": "2026-07-18"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "national-laboratory-of-the-rockies-software-and-data-infrastructure-intern-2026",
+      "company": {
+        "name": "National Laboratory of the Rockies",
+        "slug": "national-laboratory-of-the-rockies"
+      },
+      "role": "Software and Data Infrastructure Intern",
+      "category": "cloud",
+      "apply_url": "https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Undergraduate-graduate-intern---software-and-data-infrastructure-for-autonomous-thin-film-experimentation--Year-Round-_R14394",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Golden",
+          "state": "CO",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-08",
+        "discovered": "2026-07-21",
+        "last_verified": "2026-07-21"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -27036,7 +27198,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "optiver-fpga-engineer-intern-2027",
+      "id": "optiver-fpga-engineer-intern-2027-8e401c",
       "company": {
         "name": "Optiver",
         "slug": "optiver"
@@ -27051,6 +27213,61 @@
         {
           "city": "Austin",
           "state": "TX",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters",
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-21",
+        "discovered": "2026-07-21",
+        "last_verified": "2026-07-21"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "optiver-fpga-engineer-intern-2027",
+      "company": {
+        "name": "Optiver",
+        "slug": "optiver"
+      },
+      "role": "FPGA Engineer Intern",
+      "category": "hardware",
+      "apply_url": "https://www.optiver.com/join-us/jobs/8402114002/?gh_jid=8402114002",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Chicago",
+          "state": "IL",
           "country": "USA"
         }
       ],
@@ -31452,9 +31669,9 @@
       "dates": {
         "posted": "2026-07-07",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-18"
+        "last_verified": "2026-07-21"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -31666,7 +31883,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-21"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -33381,7 +33598,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-21"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -33483,7 +33700,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-21"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -35709,6 +35926,57 @@
       },
       "dates": {
         "posted": "2026-07-04",
+        "discovered": "2026-07-21",
+        "last_verified": "2026-07-21"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "tencent-data-product-intern-2026",
+      "company": {
+        "name": "Tencent",
+        "slug": "tencent"
+      },
+      "role": "Data Product Intern",
+      "category": "software-engineering",
+      "apply_url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/United-Kingdom-London/Data-Product-Intern_R107644-1",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "London",
+          "country": "UK"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-06-22",
         "discovered": "2026-07-21",
         "last_verified": "2026-07-21"
       },

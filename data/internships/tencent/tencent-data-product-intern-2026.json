@@ -1,21 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "ge-vernova-ge-vernova-grid-automation-product-management-intern-2026",
+  "id": "tencent-data-product-intern-2026",
   "company": {
-    "name": "GE Vernova",
-    "slug": "ge-vernova"
+    "name": "Tencent",
+    "slug": "tencent"
   },
-  "role": "GE Vernova Grid Automation Product Management Intern",
-  "category": "product",
-  "apply_url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Rochester/GE-Vernova-Grid-Automation-Product-Management-Intern---Fall-2026_R5035460-3",
+  "role": "Data Product Intern",
+  "category": "software-engineering",
+  "apply_url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/United-Kingdom-London/Data-Product-Intern_R107644-1",
   "season": "fall",
   "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Rochester",
-      "state": "NY",
-      "country": "USA"
+      "city": "London",
+      "country": "UK"
     }
   ],
   "compensation": {
@@ -25,9 +24,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -42,7 +39,7 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-04-07",
+    "posted": "2026-06-22",
     "discovered": "2026-07-21",
     "last_verified": "2026-07-21"
   },
