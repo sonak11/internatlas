@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "copart-software-engineer-intern-2026-c30186",
+  "id": "zipline-maps-intern-2026",
   "company": {
-    "name": "Copart",
-    "slug": "copart"
+    "name": "Zipline",
+    "slug": "zipline"
   },
-  "role": "Software Engineer Intern",
+  "role": "Maps Intern",
   "category": "software-engineering",
-  "apply_url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109897",
+  "apply_url": "https://www.zipline.com/open-roles?gh_jid=7787868003",
   "season": "fall",
   "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Dallas",
-      "state": "TX",
+      "city": "San Bruno",
+      "state": "CA",
       "country": "USA"
     }
   ],
@@ -26,7 +26,8 @@
   "eligibility": {
     "graduation_years": [],
     "degree_levels": [
-      "masters"
+      "masters",
+      "phd"
     ],
     "citizenship_required": false,
     "security_clearance_required": false,
@@ -42,11 +43,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-15",
-    "discovered": "2026-07-18",
+    "posted": "2026-06-27",
+    "discovered": "2026-07-21",
     "last_verified": "2026-07-21"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

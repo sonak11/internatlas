@@ -1,6 +1,6 @@
 {
   "generated": "2026-07-21",
-  "count": 808,
+  "count": 809,
   "internships": [
     {
       "schema_version": "1.0",
@@ -5919,9 +5919,9 @@
       "dates": {
         "posted": "2026-06-25",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-18"
+        "last_verified": "2026-07-21"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -6891,9 +6891,9 @@
       "dates": {
         "posted": "2026-06-17",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-18"
+        "last_verified": "2026-07-21"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -9102,7 +9102,7 @@
         "discovered": "2026-07-18",
         "last_verified": "2026-07-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -10461,7 +10461,7 @@
         "discovered": "2026-07-21",
         "last_verified": "2026-07-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -11454,7 +11454,7 @@
         "discovered": "2026-07-18",
         "last_verified": "2026-07-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -13914,7 +13914,7 @@
         "discovered": "2026-07-20",
         "last_verified": "2026-07-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -20229,7 +20229,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -21374,7 +21374,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -23039,7 +23039,7 @@
         "discovered": "2026-07-21",
         "last_verified": "2026-07-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -23838,7 +23838,7 @@
         "discovered": "2026-07-21",
         "last_verified": "2026-07-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -25687,7 +25687,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -28875,7 +28875,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -29767,7 +29767,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -30964,7 +30964,7 @@
         "discovered": "2026-07-20",
         "last_verified": "2026-07-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -32782,7 +32782,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -33356,7 +33356,7 @@
         "discovered": "2026-07-21",
         "last_verified": "2026-07-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -35119,7 +35119,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -43867,6 +43867,61 @@
       "dates": {
         "posted": "2026-07-10",
         "discovered": "2026-07-17",
+        "last_verified": "2026-07-21"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "zipline-maps-intern-2026",
+      "company": {
+        "name": "Zipline",
+        "slug": "zipline"
+      },
+      "role": "Maps Intern",
+      "category": "software-engineering",
+      "apply_url": "https://www.zipline.com/open-roles?gh_jid=7787868003",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Bruno",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters",
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-06-27",
+        "discovered": "2026-07-21",
         "last_verified": "2026-07-21"
       },
       "status": "open",
