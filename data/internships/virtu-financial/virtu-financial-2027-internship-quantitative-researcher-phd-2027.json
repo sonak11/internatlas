@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "formlabs-supply-chain-operations-software-intern-2026",
+  "id": "virtu-financial-2027-internship-quantitative-researcher-phd-2027",
   "company": {
-    "name": "Formlabs",
-    "slug": "formlabs"
+    "name": "Virtu Financial",
+    "slug": "virtu-financial",
+    "career_page": "https://www.virtu.com/careers"
   },
-  "role": "Supply Chain Operations Software Intern",
-  "category": "software-engineering",
-  "apply_url": "https://careers.formlabs.com/job/8069676/apply/?gh_jid=8069676",
-  "season": "fall",
-  "year": 2026,
+  "role": "2027 Internship - Quantitative Researcher (PhD)",
+  "category": "quant",
+  "apply_url": "https://job-boards.greenhouse.io/virtu/jobs/8624424002",
+  "season": "summer",
+  "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Cambridge",
-      "state": "MA",
+      "city": "New York",
       "country": "USA"
     }
   ],
@@ -40,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-17",
-    "discovered": "2026-07-17",
+    "posted": "2026-07-22",
+    "discovered": "2026-07-22",
     "last_verified": "2026-07-22"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:ats"
   ]
 }

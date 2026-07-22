@@ -34,7 +34,7 @@ _Generated 2026-07-22_
 | Category | Count | Share |
 |---|---|---|
 | software-engineering | 415 | `████████████` |
-| quant | 102 | `███` |
+| quant | 103 | `███` |
 | ai | 86 | `██` |
 | machine-learning | 56 | `██` |
 | research | 46 | `█` |
@@ -54,6 +54,7 @@ _Generated 2026-07-22_
 - 2026-07-22 — **Rivian**: [UIUC Research Park Intern - Computational Methods Development](https://careers.rivian.com/jobs/32340?icims=1)
 - 2026-07-22 — **Samsung**: [Research Intern](https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/5060-Station-Road-Cambridge-United-Kingdom/Research-Intern_R117158-1)
 - 2026-07-22 — **SS&C**: [Healthcare AI & Automation Intern](https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Remote---Florida-US/Healthcare-AI---Automation-Intern_R45126)
+- 2026-07-22 — **Virtu Financial**: [2027 Internship - Quantitative Researcher (PhD)](https://job-boards.greenhouse.io/virtu/jobs/8624424002)
 - 2026-07-21 — **AQR Capital Management**: [Trading Analyst Intern](https://careers.aqr.com/jobs?gh_jid=8077110&gh_jid=8077110)
 - 2026-07-21 — **Architect Labs**: [Member of Technical Staff Research Intern](https://jobs.ashbyhq.com/architect/1999377b-b23b-461f-b79a-d4edce0d46b1/application?embed=true)
 - 2026-07-21 — **Axon**: [Software Engineering Intern](https://job-boards.greenhouse.io/axontalentcommunity/jobs/7800617003)
@@ -68,7 +69,6 @@ _Generated 2026-07-22_
 - 2026-07-21 — **Castleton Commodities International**: [Front Office Software Engineer Intern](https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/London-UK/Front-Office-Software-Engineer-Internship--Summer-2027-_R1347)
 - 2026-07-21 — **Castleton Commodities International**: [Full-Stack Software Engineer Intern](https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Stamford-CT/Full-Stack-Software-Engineer-Internship--Summer-2027-_R1350)
 - 2026-07-21 — **Chicago Trading Company**: [Quant Trading Intern](https://job-boards.greenhouse.io/ctccampusboard/jobs/4709545005)
-- 2026-07-21 — **Ciena**: [Routing/IP Software Developer Intern](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Routing-IP-Software-Developer-Intern--4-8-Months-_R031326)
 
 ## Recently closed
 
@@ -101,6 +101,7 @@ _Generated 2026-07-22_
 - Fab2 — Rust Software Engineer Intern
 - Formlabs — AI Software Intern
 - Formlabs — Hardware R&D Engineer Intern
+- Formlabs — Supply Chain Operations Software Intern
 - GE Aerospace — Engineer Intern
 - GE Appliances — Engineering Intern/Co-op
 - Generac — Engineering Intern
@@ -148,6 +149,7 @@ _Generated 2026-07-22_
 - Tesla — Firmware Integration Engineer Intern - Software Integration Engineer - Factory Firmware
 - Torch Technologies — Software Engineer Intern
 - Tower Research Capital — Quantitative Trader Intern
+- Verkada — Technical Support Engineering Intern - Fall 2026
 - Verne Robotics — Engineering Intern
 - Xsolla — AI-First Engineer Intern
 - Zipline — Embedded Software Engineer Intern
