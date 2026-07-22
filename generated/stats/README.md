@@ -76,6 +76,7 @@ _Generated 2026-07-22_
 - Accenture — Software Engineer Intern
 - Accenture — Technology Apprentice Intern
 - Altera Corporation — AI Software Development Engineer Intern
+- American Bureau of Shipping — AI Software Engineering Intern
 - Amwins — Analytics & AI Intern
 - AQR Capital Management — Portfolio Implementation – Trading and Portfolio Finance Analyst Intern
 - Arrowstreet Capital — Quantitative Developer Intern
@@ -91,7 +92,9 @@ _Generated 2026-07-22_
 - Composio — Full-stack Intern
 - Consensus Cloud Solutions — Sales Strategy & Analytics Intern
 - Constellation Space — Graduate Researcher Intern - Machine Learning
+- Datasite — AI Transformation / Forward Deployed Engineer Intern - Forward Deployed Engineer
 - Deepgram — Software Engineer Intern
+- Definity Financial — Data Specialist Co-op Intern - Claim Operations Management
 - Dexmate — Frontend Engineer Intern
 - DNV — AI Research Intern
 - Duku AI — Tech Intern - Visiting
@@ -105,6 +108,7 @@ _Generated 2026-07-22_
 - Formlabs — Supply Chain Operations Software Intern
 - GE Aerospace — Engineer Intern
 - GE Appliances — Engineering Intern/Co-op
+- Generac — Data Science Intern
 - Generac — Engineering Intern
 - General Motors — Research and Development Intern - Research & Development: AI/ML
 - GeoComply — Full Stack Developer Intern
@@ -127,6 +131,7 @@ _Generated 2026-07-22_
 - Meta — Research Scientist Intern - 3D Vision & World Simulation
 - National Laboratory of the Rockies — Graduate Geospatial Data Science Intern
 - Netflix — AI/ML Scientist Intern - AIMS AI Foundations
+- Nokia — Data Science Co-op/Intern
 - Nokia — Incubation Developer Coop/Intern
 - North Cloud — AI Automation Intern
 - NVIDIA — Java Engineer Intern
@@ -144,6 +149,7 @@ _Generated 2026-07-22_
 - Samsung Research America — Memory and Personalization Intern - Memory and Personalization
 - Seaspan — Energy Management Intern
 - Signify — Product Management Intern
+- Skydio — Software Engineer Intern
 - Solid Power — Product Development Intern
 - SS&C — Healthcare AI & Automation Intern
 - State of North Carolina — Geographic Information Systems Intern - GIS

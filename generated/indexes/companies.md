@@ -26,7 +26,7 @@
 | [Altom Transport](../companies/altom-transport.md) | 3/3 | software-engineering |
 | [Amazon](../companies/amazon.md) | 7/7 | machine-learning, software-engineering |
 | [Amentum](../companies/amentum.md) | 1/1 | hardware |
-| [American Bureau of Shipping](../companies/american-bureau-of-shipping.md) | 1/1 | ai |
+| [American Bureau of Shipping](../companies/american-bureau-of-shipping.md) | 0/1 | ai |
 | [American Enterprise Institute](../companies/american-enterprise-institute.md) | 2/2 | ai, software-engineering |
 | [Amgen](../companies/amgen.md) | 1/1 | software-engineering |
 | [Amwins](../companies/amwins.md) | 0/1 | ai |
@@ -101,10 +101,10 @@
 | [DataRobot](../companies/datarobot.md) | 1/1 | ai |
 | [Databricks](../companies/databricks.md) | 3/3 | product, research |
 | [Datadog](../companies/datadog.md) | 1/1 | software-engineering |
-| [Datasite](../companies/datasite.md) | 2/2 | ai, software-engineering |
+| [Datasite](../companies/datasite.md) | 1/2 | ai, software-engineering |
 | [Dedalus Labs](../companies/dedalus-labs.md) | 1/1 | software-engineering |
 | [Deepgram](../companies/deepgram.md) | 0/1 | software-engineering |
-| [Definity Financial](../companies/definity-financial.md) | 4/4 | software-engineering |
+| [Definity Financial](../companies/definity-financial.md) | 3/4 | software-engineering |
 | [Delta Air Lines](../companies/delta-air-lines.md) | 1/1 | ai |
 | [Democratic Governors Association](../companies/democratic-governors-association.md) | 1/1 | software-engineering |
 | [Democratic National Committee](../companies/democratic-national-committee.md) | 1/1 | software-engineering |
@@ -148,7 +148,7 @@
 | [GE Vernova](../companies/ge-vernova.md) | 2/2 | product |
 | [Gemini](../companies/gemini.md) | 1/1 | software-engineering |
 | [GenMD](../companies/genmd.md) | 1/1 | ai |
-| [Generac](../companies/generac.md) | 2/3 | data-science, software-engineering |
+| [Generac](../companies/generac.md) | 1/3 | data-science, software-engineering |
 | [General Astronautics](../companies/general-astronautics.md) | 1/1 | software-engineering |
 | [General Motors](../companies/general-motors.md) | 1/2 | machine-learning, research |
 | [GeoComply](../companies/geocomply.md) | 0/2 | software-engineering |
@@ -230,7 +230,7 @@
 | [Netflix](../companies/netflix.md) | 1/2 | machine-learning, software-engineering |
 | [Neuralink](../companies/neuralink.md) | 19/19 | cloud, design, embedded, hardware, machine-learning, software-engineering |
 | [NewsBreak](../companies/newsbreak.md) | 1/1 | software-engineering |
-| [Nokia](../companies/nokia.md) | 3/4 | data-science, embedded, software-engineering |
+| [Nokia](../companies/nokia.md) | 2/4 | data-science, embedded, software-engineering |
 | [North Cloud](../companies/north-cloud.md) | 0/1 | ai |
 | [Notion](../companies/notion.md) | 6/6 | ai, software-engineering |
 | [Nuro](../companies/nuro.md) | 1/1 | ai |
@@ -295,7 +295,7 @@
 | [Signify](../companies/signify.md) | 0/1 | product |
 | [SimonComputing](../companies/simoncomputing.md) | 1/1 | software-engineering |
 | [Sixtyfour (X25)](../companies/sixtyfour-x25.md) | 1/1 | software-engineering |
-| [Skydio](../companies/skydio.md) | 2/2 | software-engineering |
+| [Skydio](../companies/skydio.md) | 1/2 | software-engineering |
 | [Snowflake](../companies/snowflake.md) | 3/3 | cloud, software-engineering |
 | [Solid Power](../companies/solid-power.md) | 0/1 | software-engineering |
 | [SoloPulse](../companies/solopulse.md) | 1/1 | software-engineering |
