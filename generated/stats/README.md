@@ -86,6 +86,7 @@ _Generated 2026-07-22_
 - Cloudflare — EIAM Business Enablement & Operations Intern (Fall 2026)
 - DNV — AI Research Intern
 - Duku AI — Tech Intern - Visiting
+- Eight Sleep — Prototype & Test Engineer Intern - New Product Development
 - Entergy — Power Delivery Intern
 - Environmental Defense Fund — Climate & Health Intern
 - Fab2 — Rust Software Engineer Intern
@@ -96,6 +97,7 @@ _Generated 2026-07-22_
 - General Motors — Research and Development Intern - Research & Development: AI/ML
 - GeoComply — Full Stack Developer Intern
 - Hitachi Energy — Cloud & Data Specialist Intern
+- LexisNexis Risk Solutions — Editorial Data Reporting Intern
 - Light & Wonder — Mathematics Intern
 - McKesson — Supply Chain Engineering and Analytics Intern
 - Meta — Research Scientist Intern - 3D Vision & World Simulation
@@ -107,6 +109,7 @@ _Generated 2026-07-22_
 - Royal Bank of Canada — Student Intern - Data Analyst - Personal Banking
 - Samsung Research America — Computer Vision/AI Intern - Computer Vision/AI
 - Samsung Research America — Memory and Personalization Intern - Memory and Personalization
+- Seaspan — Energy Management Intern
 - State of North Carolina — Geographic Information Systems Intern - GIS
 - Tesla — Firmware Integration Engineer Intern - Software Integration Engineer - Factory Firmware
 - Torch Technologies — Software Engineer Intern
