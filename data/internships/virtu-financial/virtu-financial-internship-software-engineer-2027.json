@@ -17,6 +17,10 @@
       "city": "Austin",
       "state": "TX",
       "country": "USA"
+    },
+    {
+      "city": "NYC",
+      "country": "USA"
     }
   ],
   "compensation": {
@@ -43,7 +47,7 @@
   "dates": {
     "posted": "2026-07-21",
     "discovered": "2026-07-21",
-    "last_verified": "2026-07-21"
+    "last_verified": "2026-07-22"
   },
   "status": "open",
   "tags": [

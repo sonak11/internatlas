@@ -1,13 +1,13 @@
 {
   "schema_version": "1.0",
-  "id": "bank-of-montreal-data-scientist-co-op-internship-months-2026-3d2089",
+  "id": "generac-data-science-intern-2026",
   "company": {
-    "name": "Bank of Montreal",
-    "slug": "bank-of-montreal"
+    "name": "Generac",
+    "slug": "generac"
   },
-  "role": "Data Scientist Co-op/Internship - Months",
+  "role": "Data Science Intern",
   "category": "data-science",
-  "apply_url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Data-Scientist--Fall-2026---Co-op-Internship----12-months_R260019879",
+  "apply_url": "https://generac.wd5.myworkdayjobs.com/en-US/external/job/Toronto-Canada/Intern-Data_JR14262",
   "season": "fall",
   "year": 2026,
   "work_mode": "onsite",
@@ -39,11 +39,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-07",
-    "discovered": "2026-07-17",
-    "last_verified": "2026-07-19"
+    "posted": "2026-07-21",
+    "discovered": "2026-07-22",
+    "last_verified": "2026-07-22"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

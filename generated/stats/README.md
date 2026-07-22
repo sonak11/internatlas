@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 📊 Statistics
 
-_Generated 2026-07-21_
+_Generated 2026-07-22_
 
 ## Top hiring companies
 
@@ -16,59 +16,59 @@ _Generated 2026-07-21_
 | Cloudflare | 14 |
 | IMC Trading | 14 |
 | Rivian and Volkswagen Group Technologies | 14 |
+| TikTok | 13 |
 | Etched | 12 |
-| TikTok | 12 |
 | Astranis | 10 |
 | Optiver | 10 |
 | NVIDIA | 9 |
 | Akuna Capital | 8 |
+| Castleton Commodities International | 8 |
+| Tencent | 8 |
 | Walleye Capital | 8 |
 | Amazon | 7 |
+| Ciena | 7 |
 | Formlabs | 7 |
-| Palantir | 7 |
-| SpaceX | 7 |
-| Anduril | 6 |
 
 ## Listings by category
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 402 | `████████████` |
-| quant | 97 | `███` |
-| ai | 82 | `██` |
-| machine-learning | 54 | `██` |
+| software-engineering | 413 | `████████████` |
+| quant | 101 | `███` |
+| ai | 85 | `██` |
+| machine-learning | 56 | `██` |
+| research | 44 | `█` |
 | hardware | 44 | `█` |
-| research | 43 | `█` |
 | embedded | 37 | `█` |
-| design | 21 | `█` |
-| product | 19 | `█` |
+| design | 22 | `█` |
+| product | 21 | `█` |
 | cloud | 17 | `█` |
 | data-science | 13 | `█` |
-| data-engineering | 8 | `█` |
+| data-engineering | 10 | `█` |
 | security | 4 | `█` |
 
 ## Newest listings
 
+- 2026-07-21 — **AQR Capital Management**: [Trading Analyst Intern](https://careers.aqr.com/jobs?gh_jid=8077110&gh_jid=8077110)
 - 2026-07-21 — **Architect Labs**: [Member of Technical Staff Research Intern](https://jobs.ashbyhq.com/architect/1999377b-b23b-461f-b79a-d4edce0d46b1/application?embed=true)
 - 2026-07-21 — **Axon**: [Software Engineering Intern](https://job-boards.greenhouse.io/axontalentcommunity/jobs/7800617003)
 - 2026-07-21 — **Bild AI**: [AI/Software Engineer Intern](https://jobs.ashbyhq.com/bild-ai/b333f0f7-0ca6-4509-8697-9303396b5364/application?embed=true)
 - 2026-07-21 — **Bloxd**: [Software Engineer Intern](https://jobs.ashbyhq.com/bloxd/7ade559a-d07d-4ffe-b6ec-c79e41632474/application?embed=true)
+- 2026-07-21 — **Castleton Commodities International**: [Commodities Trading Analyst Intern](https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/London-UK/Commodities-Trading-Summer-Analyst-Internship-Programme--Summer-2027-_R1335-1)
+- 2026-07-21 — **Castleton Commodities International**: [Commodities Trading Analyst Internship](https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Houston-TX/Commodities-Trading-Summer-Analyst-Internship-Program--Summer-2027-Internship-_R1333-1)
+- 2026-07-21 — **Castleton Commodities International**: [Data Engineering Intern](https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Stamford-CT/Data-Engineering-Internship--Summer-2027-_R1346)
+- 2026-07-21 — **Castleton Commodities International**: [Data Engineering Intern](https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/London/Data-Engineering-Internship--Summer-2027-_R1348)
+- 2026-07-21 — **Castleton Commodities International**: [Data Science Machine Learning Intern](https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Stamford-CT/Data-Science-Machine-Learning-Internship--Summer-2027-_R1344)
+- 2026-07-21 — **Castleton Commodities International**: [Data Science Machine Learning Intern](https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/London-UK/Data-Science-Machine-Learning-Internship--Summer-2027-_R1345)
+- 2026-07-21 — **Castleton Commodities International**: [Front Office Software Engineer Intern](https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/London-UK/Front-Office-Software-Engineer-Internship--Summer-2027-_R1347)
+- 2026-07-21 — **Castleton Commodities International**: [Full-Stack Software Engineer Intern](https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Stamford-CT/Full-Stack-Software-Engineer-Internship--Summer-2027-_R1350)
+- 2026-07-21 — **Chicago Trading Company**: [Quant Trading Intern](https://job-boards.greenhouse.io/ctccampusboard/jobs/4709545005)
+- 2026-07-21 — **Ciena**: [Routing/IP Software Developer Intern](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Routing-IP-Software-Developer-Intern--4-8-Months-_R031326)
+- 2026-07-21 — **Ciena**: [Software Engineer Intern](https://ciena.wd5.myworkdayjobs.com/Careers/job/UK--Edinburgh---19A-Canning-St/Software-Engineering-Intern--3-12-Months-_R031332)
+- 2026-07-21 — **Copart**: [Software Engineer Intern](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR110011)
 - 2026-07-21 — **Democratic National Committee**: [DNC Technology Intern](https://ats.rippling.com/democratic-national-committee/jobs/3f556194-5789-4d7c-bc00-35b9aea75e1d)
 - 2026-07-21 — **Dexmate**: [Frontend Engineer Intern](https://jobs.ashbyhq.com/dexmate/eac26b6f-1a53-441f-8e52-ee0a0b1bc119/application?embed=true)
 - 2026-07-21 — **Duku AI**: [Tech Intern - Visiting](https://ats.rippling.com/duku-ai/jobs/d6140320-add8-4c23-80b0-5253e87d7c84)
-- 2026-07-21 — **Egra**: [AI Researcher Intern](https://jobs.ashbyhq.com/egra/6f295102-6330-4a9e-9fc4-9b414e620003/application?embed=true)
-- 2026-07-21 — **Eragon**: [Applied AI Intern](https://jobs.ashbyhq.com/eragon/0b90ea4a-8684-4ae1-a7cc-c998db6e862e/application?embed=true)
-- 2026-07-21 — **Fab2**: [Automation Software Engineer Intern](https://jobs.ashbyhq.com/fab2/615feebf-d9e3-4583-9c85-ba16af44e65c/application?embed=true)
-- 2026-07-21 — **Fab2**: [Embedded Software Engineer Intern](https://jobs.ashbyhq.com/fab2/de448098-ffc6-4b99-b341-d6a5874f390f/application?embed=true)
-- 2026-07-21 — **Fab2**: [Packaging Engineer Intern](https://jobs.ashbyhq.com/fab2/4497473d-0ce0-4e83-88c3-2afedceac622/application?embed=true)
-- 2026-07-21 — **Fab2**: [Rust Software Engineer Intern](https://jobs.ashbyhq.com/fab2/009d0819-c688-4ab9-8816-a3c7ab002470/application?embed=true)
-- 2026-07-21 — **Fab2**: [Software Engineer Intern](https://jobs.ashbyhq.com/fab2/947338ca-e135-4398-9aa3-79e131bc03d5/application?embed=true)
-- 2026-07-21 — **Firetiger**: [Product Engineer Intern/Co-op](https://jobs.ashbyhq.com/firetiger/7acf0768-f10d-4650-bcfc-12ed6e5d7cfc/application?embed=true)
-- 2026-07-21 — **Fluency**: [Engineer Intern](https://jobs.ashbyhq.com/fluency/2aced4e2-485b-4525-802c-763e62c91e88/application?embed=true)
-- 2026-07-21 — **Frontier Health**: [Applied Scientist / Research Engineer Intern](https://jobs.ashbyhq.com/frontier-health/0ff47d07-91b5-4456-9ecf-8438239b00ef/application?embed=true)
-- 2026-07-21 — **GenMD**: [AI Research Scientist Intern](https://jobs.ashbyhq.com/genmd/807adafc-7842-4e05-90f3-9bc45dd39a13/application?embed=true)
-- 2026-07-21 — **Gritt Robotics Inc**: [Robot Learning Engineer Intern](https://jobs.ashbyhq.com/gritt/5c4737ce-f546-453b-b30d-791a121fb9fd/application?embed=true)
-- 2026-07-21 — **Hubs.is**: [Product Intern](https://jobs.ashbyhq.com/hubs.is/00dc1010-f699-4f43-822b-fdfa57a0da8a/application?embed=true)
 
 ## Recently closed
 
@@ -77,51 +77,36 @@ _Generated 2026-07-21_
 - Altera Corporation — AI Software Development Engineer Intern
 - Amwins — Analytics & AI Intern
 - Axon — Software Engineering Intern
-- Bank of Montreal — Data Scientist Co-op/Internship - Months
-- Bank of Montreal — Data Scientist Co-op/Internship - Months
 - BDO Canada — Indirect Tax Intern Co-op - Indirect Tax
 - Bosch Home Comfort — Business Intelligence Intern
+- Center for AI Safety — Research Engineer Intern
 - Chevron Corporation — Earth Science Intern
 - Chevron Corporation — Previous Intern - Earth Scientist
-- Chevron Corporation — Software Engineer Intern - Information Technology - Software Engineer
 - City of Aurora — Water GIS Intern
 - Cloudflare — EIAM Business Enablement & Operations Intern (Fall 2026)
 - DNV — AI Research Intern
 - Duku AI — Tech Intern - Visiting
-- Ensemble Health Partners — Data Scientist Intern
 - Entergy — Power Delivery Intern
 - Environmental Defense Fund — Climate & Health Intern
 - Fab2 — Rust Software Engineer Intern
 - GE Aerospace — Engineer Intern
 - GE Appliances — Engineering Intern/Co-op
-- GE Healthcare — Engineering Development Program Intern - Hardware
 - Generac — Engineering Intern
 - General Motors — Research and Development Intern - Research & Development
 - General Motors — Research and Development Intern - Research & Development: AI/ML
 - GeoComply — Full Stack Developer Intern
 - Hitachi Energy — Cloud & Data Specialist Intern
-- LexisNexis Risk Solutions — Editorial Data Reporting Intern
 - Light & Wonder — Mathematics Intern
-- McKesson — AI & Strategic Analytics Intern
 - McKesson — Supply Chain Engineering and Analytics Intern
 - Meta — Research Scientist Intern - 3D Vision & World Simulation
-- Mobius Renewables — Software Engineer Intern
-- NeoSigma — Member of Technical Staff Intern
+- Nokia — Incubation Developer Coop/Intern
 - NVIDIA — PhD Research Intern - Security and Privacy
-- NXP Semiconductors — Digital Physical Design Intern - P&R
 - NXP Semiconductors — Digital Verification Engineer Intern
-- Revvity — Full-Stack AI Developer Intern
 - Revvity — Product Manager Intern
 - RFCUNY — IT & Data Systems Intern - Archibus & Applications Development
-- RFCUNY — IT & Data Systems Intern - Archibus & Applications Development
-- Rise8 — Skillbridge Intern - Product Manager
 - Royal Bank of Canada — Student Intern - Data Analyst - Personal Banking
-- RTX — Machine Learning Researcher Intern/Co-op
 - Samsung Research America — Computer Vision/AI Intern - Computer Vision/AI
 - Samsung Research America — Memory and Personalization Intern - Memory and Personalization
-- Schweitzer Engineering Laboratories — Software Engineering Intern
-- Sentara Health — Enterprise Data & AI Intern
 - State of North Carolina — Geographic Information Systems Intern - GIS
 - Tesla — Firmware Integration Engineer Intern - Software Integration Engineer - Factory Firmware
 - Torch Technologies — Software Engineer Intern
-- Varda Space — Mission Software – Intern - Python
