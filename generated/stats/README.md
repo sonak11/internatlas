@@ -100,6 +100,7 @@ _Generated 2026-07-22_
 - Environmental Defense Fund — Climate & Health Intern
 - Fab2 — Rust Software Engineer Intern
 - Formlabs — AI Software Intern
+- Formlabs — Algorithms Software Intern
 - Formlabs — Hardware R&D Engineer Intern
 - Formlabs — Supply Chain Operations Software Intern
 - GE Aerospace — Engineer Intern
@@ -128,6 +129,7 @@ _Generated 2026-07-22_
 - Netflix — AI/ML Scientist Intern - AIMS AI Foundations
 - Nokia — Incubation Developer Coop/Intern
 - North Cloud — AI Automation Intern
+- NVIDIA — Java Engineer Intern
 - NVIDIA — PhD Research Intern - Security and Privacy
 - NXP Semiconductors — Digital Verification Engineer Intern
 - Odin Dynamics, Inc — Engineering Intern
@@ -143,6 +145,7 @@ _Generated 2026-07-22_
 - Seaspan — Energy Management Intern
 - Signify — Product Management Intern
 - Solid Power — Product Development Intern
+- SS&C — Healthcare AI & Automation Intern
 - State of North Carolina — Geographic Information Systems Intern - GIS
 - Susquehanna International Group (SIG) — Quantitative Research Intern
 - Susquehanna International Group (SIG) — Quantitative Systematic Trading Intern - PhD

@@ -138,7 +138,7 @@
 | [Five Rings Capital](../companies/five-rings-capital.md) | 3/3 | quant, software-engineering |
 | [Flow Traders](../companies/flow-traders.md) | 1/1 | quant |
 | [Fluency](../companies/fluency.md) | 1/1 | software-engineering |
-| [Formlabs](../companies/formlabs.md) | 4/7 | ai, hardware, software-engineering |
+| [Formlabs](../companies/formlabs.md) | 3/7 | ai, hardware, software-engineering |
 | [Four Hands](../companies/four-hands.md) | 1/1 | software-engineering |
 | [Frontier Health](../companies/frontier-health.md) | 1/1 | research |
 | [Fussball Club Cincinnati LLC (“FC Cincinnati”)](../companies/fussball-club-cincinnati-llc-fc-cincinnati.md) | 1/1 | software-engineering |
@@ -218,7 +218,7 @@
 | [Moss & Associates](../companies/moss-associates.md) | 1/1 | software-engineering |
 | [Muru](../companies/muru.md) | 2/2 | software-engineering |
 | [NBCUniversal](../companies/nbcuniversal.md) | 2/2 | software-engineering |
-| [NVIDIA](../companies/nvidia.md) | 8/9 | machine-learning, quant, research, security, software-engineering |
+| [NVIDIA](../companies/nvidia.md) | 7/9 | machine-learning, quant, research, security, software-engineering |
 | [NXP Semiconductors](../companies/nxp-semiconductors.md) | 2/3 | ai, design, software-engineering |
 | [Nash](../companies/nash.md) | 1/1 | software-engineering |
 | [NationGraph](../companies/nationgraph.md) | 2/2 | software-engineering |
@@ -279,7 +279,7 @@
 | [Rockwell Automation](../companies/rockwell-automation.md) | 2/2 | embedded |
 | [Royal Bank of Canada](../companies/royal-bank-of-canada.md) | 0/1 | software-engineering |
 | [SOTI](../companies/soti.md) | 3/3 | data-science, product |
-| [SS&C](../companies/ss-c.md) | 1/1 | ai |
+| [SS&C](../companies/ss-c.md) | 0/1 | ai |
 | [Salesforce](../companies/salesforce.md) | 3/3 | product, software-engineering |
 | [Samsung](../companies/samsung.md) | 1/1 | research |
 | [Samsung Research America](../companies/samsung-research-america.md) | 1/3 | ai, machine-learning, software-engineering |
