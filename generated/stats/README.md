@@ -33,13 +33,13 @@ _Generated 2026-07-22_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 414 | `████████████` |
+| software-engineering | 415 | `████████████` |
 | quant | 102 | `███` |
-| ai | 85 | `██` |
+| ai | 86 | `██` |
 | machine-learning | 56 | `██` |
-| research | 45 | `█` |
+| research | 46 | `█` |
 | hardware | 44 | `█` |
-| embedded | 37 | `█` |
+| embedded | 38 | `█` |
 | design | 22 | `█` |
 | product | 21 | `█` |
 | cloud | 17 | `█` |
@@ -49,7 +49,11 @@ _Generated 2026-07-22_
 
 ## Newest listings
 
+- 2026-07-22 — **Rivian**: [Intern](https://careers.rivian.com/jobs/32355?icims=1)
+- 2026-07-22 — **Rivian**: [Research Park Intern - Embedded Software](https://careers.rivian.com/jobs/32354?icims=1)
+- 2026-07-22 — **Rivian**: [UIUC Research Park Intern - Computational Methods Development](https://careers.rivian.com/jobs/32340?icims=1)
 - 2026-07-22 — **Samsung**: [Research Intern](https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/5060-Station-Road-Cambridge-United-Kingdom/Research-Intern_R117158-1)
+- 2026-07-22 — **SS&C**: [Healthcare AI & Automation Intern](https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Remote---Florida-US/Healthcare-AI---Automation-Intern_R45126)
 - 2026-07-21 — **AQR Capital Management**: [Trading Analyst Intern](https://careers.aqr.com/jobs?gh_jid=8077110&gh_jid=8077110)
 - 2026-07-21 — **Architect Labs**: [Member of Technical Staff Research Intern](https://jobs.ashbyhq.com/architect/1999377b-b23b-461f-b79a-d4edce0d46b1/application?embed=true)
 - 2026-07-21 — **Axon**: [Software Engineering Intern](https://job-boards.greenhouse.io/axontalentcommunity/jobs/7800617003)
@@ -65,10 +69,6 @@ _Generated 2026-07-22_
 - 2026-07-21 — **Castleton Commodities International**: [Full-Stack Software Engineer Intern](https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Stamford-CT/Full-Stack-Software-Engineer-Internship--Summer-2027-_R1350)
 - 2026-07-21 — **Chicago Trading Company**: [Quant Trading Intern](https://job-boards.greenhouse.io/ctccampusboard/jobs/4709545005)
 - 2026-07-21 — **Ciena**: [Routing/IP Software Developer Intern](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Routing-IP-Software-Developer-Intern--4-8-Months-_R031326)
-- 2026-07-21 — **Ciena**: [Software Engineer Intern](https://ciena.wd5.myworkdayjobs.com/Careers/job/UK--Edinburgh---19A-Canning-St/Software-Engineering-Intern--3-12-Months-_R031332)
-- 2026-07-21 — **Copart**: [Software Engineer Intern](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR110011)
-- 2026-07-21 — **Democratic National Committee**: [DNC Technology Intern](https://ats.rippling.com/democratic-national-committee/jobs/3f556194-5789-4d7c-bc00-35b9aea75e1d)
-- 2026-07-21 — **Dexmate**: [Frontend Engineer Intern](https://jobs.ashbyhq.com/dexmate/eac26b6f-1a53-441f-8e52-ee0a0b1bc119/application?embed=true)
 
 ## Recently closed
 
@@ -104,7 +104,6 @@ _Generated 2026-07-22_
 - GE Aerospace — Engineer Intern
 - GE Appliances — Engineering Intern/Co-op
 - Generac — Engineering Intern
-- General Motors — Research and Development Intern - Research & Development
 - General Motors — Research and Development Intern - Research & Development: AI/ML
 - GeoComply — Full Stack Developer Intern
 - GeoComply — Product Operations Intern
@@ -115,6 +114,8 @@ _Generated 2026-07-22_
 - Hitachi Energy — Cloud & Data Specialist Intern
 - IMC Trading — 2027 - Quant Research Intern - IIT Delhi
 - IMC Trading — 2027 - Software Engineering Intern - IIT Delhi
+- Instacart — Machine Learning Engineer, PhD Intern (Fall)
+- Instacart — Machine Learning PhD Intern, Economics (Fall)
 - Jump Trading — Campus Quantitative Researcher Intern
 - LexisNexis Risk Solutions — Editorial Data Reporting Intern
 - Light & Wonder — Mathematics Intern

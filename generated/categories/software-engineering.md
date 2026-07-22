@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 💻 Software Engineering Internships
 
-**414** tracked · **371** open now
+**415** tracked · **372** open now
 
 ## Current openings
 
@@ -257,6 +257,7 @@
 | [Rippling](generated/companies/rippling.md) | [Full Stack Software Engineer Intern](https://ats.rippling.com/rippling/jobs/35b3ba25-ff2e-4b68-a2d7-61be26f2b24a) | Seattle, WA +2 | Onsite | 2026-06-05 | Rolling | 🟢 Open | ❔ |
 | [Rippling](generated/companies/rippling.md) | [Software Engineer Intern](https://ats.rippling.com/en-GB/rippling/jobs/203e0cac-0e30-4603-8087-f764e8c3f85c) | New York, NY +1 | Onsite | 2025-06-07 | Rolling | 🟢 Open | ❔ |
 | [Rippling](generated/companies/rippling.md) | [Software Engineer Intern - Backend Focused](https://ats.rippling.com/rippling/jobs/00cbc991-d2fb-452c-a8b6-2978f109a484) | Seattle, WA +2 | Onsite | 2026-06-05 | Rolling | 🟢 Open | ❔ |
+| [Rivian](generated/companies/rivian.md) | [Intern](https://careers.rivian.com/jobs/32355?icims=1) | Urbana, IL | Onsite | 2026-07-22 | Rolling | 🟢 Open | ❔ |
 | [Rivian and Volkswagen Group Technologies](generated/companies/rivian-and-volkswagen-group-technologies.md) | [Android Developer Intern](https://jobs.ashbyhq.com/rivianvw.tech/5633bb03-cc16-47fc-af02-db9dc355eddd/application) | Palo Alto, CA | Onsite | 2026-06-11 | Rolling | 🟢 Open | ❔ |
 | [Rivian and Volkswagen Group Technologies](generated/companies/rivian-and-volkswagen-group-technologies.md) | [Software Engineer Intern - Applications](https://jobs.ashbyhq.com/rivianvw.tech/3f314ca7-978e-4ad6-b527-0487a9a9598c/application) | Palo Alto, CA +1 | Onsite | 2026-06-11 | Rolling | 🟢 Open | ❔ |
 | [Rivian and Volkswagen Group Technologies](generated/companies/rivian-and-volkswagen-group-technologies.md) | [Software Engineer Intern - Connected Systems](https://jobs.ashbyhq.com/rivianvw.tech/50e43cbe-01ea-4b8b-be4c-bb5f48a2be92/application) | Palo Alto, CA +1 | Onsite | 2026-06-11 | Rolling | 🟢 Open | ❔ |
@@ -599,6 +600,7 @@
 - Rakuten International (1)
 - Ramp (1)
 - Revise Robotics (1)
+- Rivian (1)
 - Roam (1)
 - Rocket Lab (1)
 - Salesforce (1)

@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🧠 Machine Learning Internships
 
-**56** tracked · **52** open now
+**56** tracked · **50** open now
 
 ## Current openings
 
@@ -21,8 +21,6 @@
 | [IMC Trading](generated/companies/imc-trading.md) | [Hardware Machine Learning PhD Research Internship](https://job-boards.eu.greenhouse.io/imc/jobs/4829785101) | Chicago | Onsite | 2026-04-16 | Rolling | 🟢 Open | ❔ |
 | [IMC Trading](generated/companies/imc-trading.md) | [Machine Learning Research Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4912874101) | London +1 | Onsite | 2026-07-06 | Rolling | 🟢 Open | ❔ |
 | [IMC Trading](generated/companies/imc-trading.md) | [Machine Learning Research Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4907430101) | Chicago, IL +1 | Onsite | 2026-07-01 | Rolling | 🟢 Open | ❔ |
-| [Instacart](generated/companies/instacart.md) | [Machine Learning Engineer, PhD Intern (Fall)](https://instacart.careers/job/?gh_jid=5917202) | Remote | Remote | 2024-04-18 | Rolling | 🟢 Open | ❔ |
-| [Instacart](generated/companies/instacart.md) | [Machine Learning PhD Intern, Economics (Fall)](https://instacart.careers/job/?gh_jid=7532267) | Remote | Remote | 2026-01-13 | Rolling | 🟢 Open | ❔ |
 | [Intercontinental Exchange, Inc.](generated/companies/intercontinental-exchange-inc.md) | [Artificial Intelligence, Data & Machine Learning Intern](https://careers.ice.com/jobs/12830?lang=en-us&iis=LinkedIn&iisn=Linkedin&mode=apply&jr_id=69e67bb27820c036924d0af9) | New York, NY | Onsite | 2026-04-20 | Rolling | 🟢 Open | ❔ |
 | [Jump Trading](generated/companies/jump-trading.md) | [Campus AI Research Engineer - Deep Learning (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8052338) | Chicago | Onsite | 2026-07-08 | Rolling | 🟢 Open | ❔ |
 | [Jump Trading](generated/companies/jump-trading.md) | [Campus AI Research Engineer Intern - Deep Learning](https://boards.greenhouse.io/embed/job_app?token=8052338) | Chicago, IL +1 | Onsite | 2026-07-08 | Rolling | 🟢 Open | ❔ |
@@ -62,6 +60,8 @@
 | [X Development](generated/companies/x-development.md) | [PhD Residency Intern - Physical ML & Hardware-in-the-Loop - Future of Compute](https://x.company/careers/8616839002?gh_jid=8616839002) | Mountain View, CA | Onsite | 2026-07-02 | Rolling | 🟢 Open | ❔ |
 | [Constellation Space](generated/companies/constellation-space.md) | [Graduate Researcher Intern - Machine Learning](https://jobs.ashbyhq.com/constellationspace/b763d4ba-7b77-479b-89a0-f632d9d02f4a/application?embed=true) | Seattle, WA | Onsite | 2026-07-15 | Rolling | 🔴 Closed | ❔ |
 | [General Motors](generated/companies/general-motors.md) | [Research and Development Intern - Research & Development: AI/ML](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2026-Fall-Intern---Research---Development--AI-ML_JR-202612795) | Mountain View, CA +1 | Onsite | 2026-06-12 | Rolling | 🔴 Closed | ❔ |
+| [Instacart](generated/companies/instacart.md) | [Machine Learning Engineer, PhD Intern (Fall)](https://instacart.careers/job/?gh_jid=5917202) | Remote | Remote | 2024-04-18 | Rolling | 🔴 Closed | ❔ |
+| [Instacart](generated/companies/instacart.md) | [Machine Learning PhD Intern, Economics (Fall)](https://instacart.careers/job/?gh_jid=7532267) | Remote | Remote | 2026-01-13 | Rolling | 🔴 Closed | ❔ |
 | [Netflix](generated/companies/netflix.md) | [AI/ML Scientist Intern - AIMS AI Foundations](https://explore.jobs.netflix.net/careers/job/790316547536) | Los Gatos, CA | Onsite | 2026-06-23 | Rolling | 🔴 Closed | ❔ |
 | [Rivian](generated/companies/rivian.md) | [Machine Learning Compiler Intern - Machine Learning Compiler](https://careers.rivian.com/jobs/29851?icims=1) | Urbana, IL | Onsite | 2026-07-14 | Rolling | 🔴 Closed | ❔ |
 
@@ -71,10 +71,10 @@
 - Jump Trading (4)
 - IMC Trading (3)
 - Castleton Commodities International (2)
-- Instacart (2)
 - Pinterest (2)
 - Rippling (2)
 - Tencent (2)
+- Instacart (2)
 - Adobe (1)
 - Amazon (1)
 - Autodesk (1)

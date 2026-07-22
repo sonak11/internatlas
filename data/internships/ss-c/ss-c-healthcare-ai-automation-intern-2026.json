@@ -1,18 +1,22 @@
 {
   "schema_version": "1.0",
-  "id": "instacart-machine-learning-phd-intern-economics-fall-2027",
+  "id": "ss-c-healthcare-ai-automation-intern-2026",
   "company": {
-    "name": "Instacart",
-    "slug": "instacart",
-    "career_page": "https://instacart.careers/"
+    "name": "SS&C",
+    "slug": "ss-c"
   },
-  "role": "Machine Learning PhD Intern, Economics (Fall)",
-  "category": "machine-learning",
-  "apply_url": "https://instacart.careers/job/?gh_jid=7532267",
-  "season": "summer",
-  "year": 2027,
-  "work_mode": "remote",
-  "locations": [],
+  "role": "Healthcare AI & Automation Intern",
+  "category": "ai",
+  "apply_url": "https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Remote---Florida-US/Healthcare-AI---Automation-Intern_R45126",
+  "season": "fall",
+  "year": 2026,
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "Florida",
+      "country": "USA"
+    }
+  ],
   "compensation": {
     "currency": "USD",
     "housing_stipend": false,
@@ -20,7 +24,9 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "masters"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -35,13 +41,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-01-13",
-    "discovered": "2026-07-18",
+    "posted": "2026-07-22",
+    "discovered": "2026-07-22",
     "last_verified": "2026-07-22"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
-    "src:ats"
+    "src:simplify"
   ]
 }

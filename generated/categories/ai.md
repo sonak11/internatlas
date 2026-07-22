@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🤖 AI Internships
 
-**85** tracked · **76** open now
+**86** tracked · **77** open now
 
 ## Current openings
 
@@ -59,6 +59,7 @@
 | [Scale AI](generated/companies/scale-ai.md) | [Technical Advisor Specialist (Part-Time Internship)](https://job-boards.greenhouse.io/scaleai/jobs/4611533005) | San Francisco, CA | Onsite | 2025-09-22 | Rolling | 🟢 Open | ❔ |
 | [Sentara Health](generated/companies/sentara-health.md) | [Enterprise Data & AI Intern](https://sentara.wd1.myworkdayjobs.com/SCS/job/Virginia-Beach-VA/Enterprise-Data---AI-Intern--Fall-2026-Internship_JR-102685) | Virginia Beach, VA | Onsite | 2026-07-15 | Rolling | 🟢 Open | ❔ |
 | [ShyftLabs](generated/companies/shyftlabs.md) | [AI Engineer Intern](https://jobs.lever.co/shyftlabs/4f389ea7-9b98-4ed0-99c2-b25ea8cc2dcd/apply) | Toronto | Onsite | 2026-07-21 | Rolling | 🟢 Open | ❔ |
+| [SS&C](generated/companies/ss-c.md) | [Healthcare AI & Automation Intern](https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Remote---Florida-US/Healthcare-AI---Automation-Intern_R45126) | Florida | Onsite | 2026-07-22 | Rolling | 🟢 Open | ❔ |
 | [Tencent](generated/companies/tencent.md) | [AI Agent Research & Application Intern](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/United-Kingdom-London/AI-Agent-Research---Application-Intern_R106432-1) | London | Onsite | 2026-07-04 | Rolling | 🟢 Open | ❔ |
 | [Tencent](generated/companies/tencent.md) | [AI Product Manager Intern](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/United-Kingdom-London/Product-manager-Intern_R107654-1) | London | Onsite | 2026-06-27 | Rolling | 🟢 Open | ❔ |
 | [Tencent](generated/companies/tencent.md) | [AI Product Manager Intern](https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/United-Kingdom-London/Product-manager-Intern_R107654) | London | Onsite | 2026-06-19 | Rolling | 🟢 Open | ❔ |
@@ -137,6 +138,7 @@
 - Saronic (1)
 - Sentara Health (1)
 - ShyftLabs (1)
+- SS&C (1)
 - Tenstorrent (1)
 - Veeam Software (1)
 - Veeda AI (1)

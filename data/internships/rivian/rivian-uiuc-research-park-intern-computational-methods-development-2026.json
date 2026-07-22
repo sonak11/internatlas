@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "general-motors-research-and-development-intern-research-development-2026",
+  "id": "rivian-uiuc-research-park-intern-computational-methods-development-2026",
   "company": {
-    "name": "General Motors",
-    "slug": "general-motors"
+    "name": "Rivian",
+    "slug": "rivian"
   },
-  "role": "Research and Development Intern - Research & Development",
+  "role": "UIUC Research Park Intern - Computational Methods Development",
   "category": "research",
-  "apply_url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2026-Fall-Intern---Research---Development_JR-202613027",
+  "apply_url": "https://careers.rivian.com/jobs/32340?icims=1",
   "season": "fall",
   "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Warren",
-      "state": "MI",
+      "city": "Urbana",
+      "state": "IL",
       "country": "USA"
     }
   ],
@@ -26,6 +26,7 @@
   "eligibility": {
     "graduation_years": [],
     "degree_levels": [
+      "masters",
       "phd"
     ],
     "citizenship_required": false,
@@ -42,8 +43,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-06",
-    "discovered": "2026-07-18",
+    "posted": "2026-07-22",
+    "discovered": "2026-07-22",
     "last_verified": "2026-07-22"
   },
   "status": "open",

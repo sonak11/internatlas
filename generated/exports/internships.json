@@ -1,6 +1,6 @@
 {
   "generated": "2026-07-22",
-  "count": 870,
+  "count": 874,
   "internships": [
     {
       "schema_version": "1.0",
@@ -15834,9 +15834,9 @@
       "dates": {
         "posted": "2026-07-06",
         "discovered": "2026-07-18",
-        "last_verified": "2026-07-19"
+        "last_verified": "2026-07-22"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -19107,7 +19107,7 @@
         "discovered": "2026-07-18",
         "last_verified": "2026-07-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:ats"
@@ -19154,7 +19154,7 @@
         "discovered": "2026-07-18",
         "last_verified": "2026-07-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:ats"
@@ -32046,6 +32046,61 @@
     },
     {
       "schema_version": "1.0",
+      "id": "rivian-intern-2026",
+      "company": {
+        "name": "Rivian",
+        "slug": "rivian"
+      },
+      "role": "Intern",
+      "category": "software-engineering",
+      "apply_url": "https://careers.rivian.com/jobs/32355?icims=1",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Urbana",
+          "state": "IL",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters",
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-22",
+        "discovered": "2026-07-22",
+        "last_verified": "2026-07-22"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "rivian-machine-learning-compiler-intern-machine-learning-compiler-2026",
       "company": {
         "name": "Rivian",
@@ -32094,6 +32149,116 @@
         "last_verified": "2026-07-22"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "rivian-research-park-intern-embedded-software-2026",
+      "company": {
+        "name": "Rivian",
+        "slug": "rivian"
+      },
+      "role": "Research Park Intern - Embedded Software",
+      "category": "embedded",
+      "apply_url": "https://careers.rivian.com/jobs/32354?icims=1",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Urbana",
+          "state": "IL",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters",
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-22",
+        "discovered": "2026-07-22",
+        "last_verified": "2026-07-22"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "rivian-uiuc-research-park-intern-computational-methods-development-2026",
+      "company": {
+        "name": "Rivian",
+        "slug": "rivian"
+      },
+      "role": "UIUC Research Park Intern - Computational Methods Development",
+      "category": "research",
+      "apply_url": "https://careers.rivian.com/jobs/32340?icims=1",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Urbana",
+          "state": "IL",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters",
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-22",
+        "discovered": "2026-07-22",
+        "last_verified": "2026-07-22"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -35935,6 +36100,59 @@
       "dates": {
         "posted": "2026-07-21",
         "discovered": "2026-07-21",
+        "last_verified": "2026-07-22"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "ss-c-healthcare-ai-automation-intern-2026",
+      "company": {
+        "name": "SS&C",
+        "slug": "ss-c"
+      },
+      "role": "Healthcare AI & Automation Intern",
+      "category": "ai",
+      "apply_url": "https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Remote---Florida-US/Healthcare-AI---Automation-Intern_R45126",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Florida",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-22",
+        "discovered": "2026-07-22",
         "last_verified": "2026-07-22"
       },
       "status": "open",

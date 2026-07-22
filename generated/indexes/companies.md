@@ -150,7 +150,7 @@
 | [GenMD](../companies/genmd.md) | 1/1 | ai |
 | [Generac](../companies/generac.md) | 2/3 | data-science, software-engineering |
 | [General Astronautics](../companies/general-astronautics.md) | 1/1 | software-engineering |
-| [General Motors](../companies/general-motors.md) | 0/2 | machine-learning, research |
+| [General Motors](../companies/general-motors.md) | 1/2 | machine-learning, research |
 | [GeoComply](../companies/geocomply.md) | 0/2 | software-engineering |
 | [Global Infrastructure](../companies/global-infrastructure.md) | 1/1 | software-engineering |
 | [Google](../companies/google.md) | 2/4 | software-engineering |
@@ -176,7 +176,7 @@
 | [Ignite Digital Services](../companies/ignite-digital-services.md) | 1/1 | software-engineering |
 | [Impulse Space](../companies/impulse-space.md) | 1/1 | software-engineering |
 | [InfiniteQuant](../companies/infinitequant.md) | 1/1 | quant |
-| [Instacart](../companies/instacart.md) | 2/2 | machine-learning |
+| [Instacart](../companies/instacart.md) | 0/2 | machine-learning |
 | [Integra FEC](../companies/integra-fec.md) | 4/4 | data-science, software-engineering |
 | [Integrity](../companies/integrity.md) | 1/1 | research |
 | [Intel](../companies/intel.md) | 1/1 | ai |
@@ -271,7 +271,7 @@
 | [Revvity](../companies/revvity.md) | 1/2 | ai, product |
 | [Rippling](../companies/rippling.md) | 6/6 | machine-learning, software-engineering |
 | [Rise8](../companies/rise8.md) | 1/1 | product |
-| [Rivian](../companies/rivian.md) | 0/1 | machine-learning |
+| [Rivian](../companies/rivian.md) | 3/4 | embedded, machine-learning, research, software-engineering |
 | [Rivian and Volkswagen Group Technologies](../companies/rivian-and-volkswagen-group-technologies.md) | 14/14 | ai, embedded, software-engineering |
 | [Roam](../companies/roam.md) | 1/1 | software-engineering |
 | [Robert Bosch Venture Capital](../companies/robert-bosch-venture-capital.md) | 1/1 | embedded |
@@ -279,6 +279,7 @@
 | [Rockwell Automation](../companies/rockwell-automation.md) | 2/2 | embedded |
 | [Royal Bank of Canada](../companies/royal-bank-of-canada.md) | 0/1 | software-engineering |
 | [SOTI](../companies/soti.md) | 3/3 | data-science, product |
+| [SS&C](../companies/ss-c.md) | 1/1 | ai |
 | [Salesforce](../companies/salesforce.md) | 3/3 | product, software-engineering |
 | [Samsung](../companies/samsung.md) | 1/1 | research |
 | [Samsung Research America](../companies/samsung-research-america.md) | 1/3 | ai, machine-learning, software-engineering |
