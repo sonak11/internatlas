@@ -17,24 +17,6 @@
       "city": "San Francisco",
       "state": "CA",
       "country": "USA"
-    },
-    {
-      "city": "Palo Alto",
-      "state": "CA",
-      "country": "USA"
-    },
-    {
-      "city": "Seattle",
-      "state": "WA",
-      "country": "USA"
-    },
-    {
-      "city": "SF",
-      "country": "USA"
-    },
-    {
-      "city": "NYC",
-      "country": "USA"
     }
   ],
   "compensation": {

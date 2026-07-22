@@ -33,15 +33,15 @@ _Generated 2026-07-22_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 413 | `████████████` |
+| software-engineering | 414 | `████████████` |
 | quant | 101 | `███` |
-| ai | 85 | `██` |
+| ai | 86 | `██` |
 | machine-learning | 56 | `██` |
 | research | 44 | `█` |
 | hardware | 44 | `█` |
 | embedded | 37 | `█` |
 | design | 22 | `█` |
-| product | 21 | `█` |
+| product | 20 | `█` |
 | cloud | 17 | `█` |
 | data-science | 13 | `█` |
 | data-engineering | 10 | `█` |
@@ -79,11 +79,19 @@ _Generated 2026-07-22_
 - Axon — Software Engineering Intern
 - BDO Canada — Indirect Tax Intern Co-op - Indirect Tax
 - Bosch Home Comfort — Business Intelligence Intern
+- Capital One — Master's Data Science Internship
 - Center for AI Safety — Research Engineer Intern
 - Chevron Corporation — Earth Science Intern
 - Chevron Corporation — Previous Intern - Earth Scientist
+- Cirrus Logic — AI Business Analytics Co-op Intern
 - City of Aurora — Water GIS Intern
 - Cloudflare — EIAM Business Enablement & Operations Intern (Fall 2026)
+- Composio — Full-stack Intern
+- Consensus Cloud Solutions — Sales Strategy & Analytics Intern
+- Constellation Space — Graduate Researcher Intern - Machine Learning
+- Copart — Software Engineer Intern
+- CTGT — Software Engineer Intern
+- CuspAI — Chemistry Intern - MLFF Distillation & GCMC Integration
 - DNV — AI Research Intern
 - Duku AI — Tech Intern - Visiting
 - Eight Sleep — Prototype & Test Engineer Intern - New Product Development
@@ -96,20 +104,32 @@ _Generated 2026-07-22_
 - General Motors — Research and Development Intern - Research & Development
 - General Motors — Research and Development Intern - Research & Development: AI/ML
 - GeoComply — Full Stack Developer Intern
+- GeoComply — Product Operations Intern
 - Hitachi Energy — Cloud & Data Specialist Intern
+- Jump Trading — Campus Quantitative Researcher Intern
 - LexisNexis Risk Solutions — Editorial Data Reporting Intern
 - Light & Wonder — Mathematics Intern
+- Mackenzie Investments — Data Science and AI Specialist Intern - Investment Management - Fundamental Equity
 - McKesson — Supply Chain Engineering and Analytics Intern
 - Meta — Research Scientist Intern - 3D Vision & World Simulation
+- Mobius Renewables — Software Engineer Intern
+- Moon — Software Engineer Intern - Data & Machine Learning
 - Nokia — Incubation Developer Coop/Intern
 - NVIDIA — PhD Research Intern - Security and Privacy
 - NXP Semiconductors — Digital Verification Engineer Intern
+- Odin Dynamics, Inc — Engineering Intern
+- Quadrillion — Research Intern
 - Revvity — Product Manager Intern
 - RFCUNY — IT & Data Systems Intern - Archibus & Applications Development
+- Rippling — Software Engineer Intern - Backend Focused
 - Royal Bank of Canada — Student Intern - Data Analyst - Personal Banking
 - Samsung Research America — Computer Vision/AI Intern - Computer Vision/AI
 - Samsung Research America — Memory and Personalization Intern - Memory and Personalization
 - Seaspan — Energy Management Intern
+- SOTI — Data Scientist Intern
 - State of North Carolina — Geographic Information Systems Intern - GIS
+- Susquehanna International Group (SIG) — Quantitative Research Intern
 - Tesla — Firmware Integration Engineer Intern - Software Integration Engineer - Factory Firmware
 - Torch Technologies — Software Engineer Intern
+- Verne Robotics — Engineering Intern
+- Zipline — Embedded Software Engineer Intern

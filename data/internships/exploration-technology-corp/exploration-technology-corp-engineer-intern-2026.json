@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "mackenzie-investments-data-science-and-ai-specialist-intern-investment-management-2026",
+  "id": "exploration-technology-corp-engineer-intern-2026",
   "company": {
-    "name": "Mackenzie Investments",
-    "slug": "mackenzie-investments"
+    "name": "Exploration Technology Corp.",
+    "slug": "exploration-technology-corp"
   },
-  "role": "Data Science and AI Specialist Intern - Investment Management - Fundamental Equity",
-  "category": "ai",
-  "apply_url": "https://careersen-mackenzieinvestments.icims.com/jobs/5938/job?mobile=true&needsRedirect=false",
+  "role": "Engineer Intern",
+  "category": "software-engineering",
+  "apply_url": "https://ats.rippling.com/etg/jobs/75ad65e6-f504-4ae2-adf1-587e704b2bcc",
   "season": "fall",
   "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Greater Toronto Area",
-      "country": "ON"
+      "city": "SF",
+      "country": "USA"
     }
   ],
   "compensation": {
@@ -39,11 +39,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-16",
-    "discovered": "2026-07-17",
+    "posted": "2026-07-21",
+    "discovered": "2026-07-22",
     "last_verified": "2026-07-22"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

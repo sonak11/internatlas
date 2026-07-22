@@ -1,19 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "salesforce-associate-product-manager-intern-associate-product-manager-2027-26d648",
+  "id": "north-cloud-ai-automation-intern-2026",
   "company": {
-    "name": "Salesforce",
-    "slug": "salesforce"
+    "name": "North Cloud",
+    "slug": "north-cloud"
   },
-  "role": "Associate Product Manager Intern - Associate Product Manager",
-  "category": "product",
-  "apply_url": "https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/California---San-Francisco/Summer-2027-Intern---Associate-Product-Manager--APM-_JR348039",
-  "season": "summer",
-  "year": 2027,
+  "role": "AI Automation Intern",
+  "category": "ai",
+  "apply_url": "https://ats.rippling.com/north-cloud/jobs/9d9d6db9-2da0-45e2-a3d3-6373c61763a4",
+  "season": "fall",
+  "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "SF",
+      "city": "Brooklyn",
+      "state": "NY",
       "country": "USA"
     }
   ],
@@ -24,9 +25,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -41,8 +40,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-13",
-    "discovered": "2026-07-17",
+    "posted": "2026-07-21",
+    "discovered": "2026-07-22",
     "last_verified": "2026-07-22"
   },
   "status": "open",
