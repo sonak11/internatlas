@@ -176,7 +176,7 @@
 | [Hudson River Trading](../companies/hudson-river-trading.md) | 3/3 | quant, software-engineering |
 | [Human Computer Lab](../companies/human-computer-lab.md) | 1/1 | machine-learning |
 | [IMC](../companies/imc.md) | 1/1 | software-engineering |
-| [IMC Trading](../companies/imc-trading.md) | 14/14 | hardware, machine-learning, quant |
+| [IMC Trading](../companies/imc-trading.md) | 12/14 | hardware, machine-learning, quant |
 | [Ignite Digital Services](../companies/ignite-digital-services.md) | 0/1 | software-engineering |
 | [Impulse Space](../companies/impulse-space.md) | 1/2 | software-engineering |
 | [InfiniteQuant](../companies/infinitequant.md) | 1/1 | quant |
@@ -254,7 +254,7 @@
 | [PathAI](../companies/pathai.md) | 1/1 | machine-learning |
 | [Pendulum Intelligence](../companies/pendulum-intelligence.md) | 1/1 | product |
 | [PennState University](../companies/pennstate-university.md) | 1/1 | research |
-| [Pennsylvania State University](../companies/pennsylvania-state-university.md) | 3/3 | machine-learning, research |
+| [Pennsylvania State University](../companies/pennsylvania-state-university.md) | 2/3 | machine-learning, research |
 | [Persistent Systems](../companies/persistent-systems.md) | 2/2 | embedded, hardware |
 | [Persona AI](../companies/persona-ai.md) | 1/1 | software-engineering |
 | [Phlair](../companies/phlair.md) | 1/1 | cloud |

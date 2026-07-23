@@ -141,6 +141,8 @@ _Generated 2026-07-23_
 - Hermeus — Subsystem Test Engineer Intern
 - Hitachi Energy — Cloud & Data Specialist Intern
 - Ignite Digital Services — Engineer/Scientist Intern
+- IMC Trading — 2027 - Quant Research Intern - IIT Delhi
+- IMC Trading — 2027 - Software Engineering Intern - IIT Delhi
 - Impulse Space — Radio Frequency Engineering Intern
 - Instacart — Machine Learning Engineer, PhD Intern (Fall)
 - Instacart — Machine Learning PhD Intern, Economics (Fall)
@@ -173,6 +175,7 @@ _Generated 2026-07-23_
 - Old Mission — Software Engineer Intern
 - onsemi — Electrical Device Characterization Intern
 - Optiver — Trading Automation and Operations Intern
+- Pennsylvania State University — Research and Development Engineer Intern
 - Quadrillion — Research Intern
 - Rainmaker — Software Engineer Intern
 - Revvity — Product Manager Intern
