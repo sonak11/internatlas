@@ -1,19 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "firetiger-product-engineer-intern-co-op-2026",
+  "id": "t-rowe-price-global-product-intern-2027",
   "company": {
-    "name": "Firetiger",
-    "slug": "firetiger"
+    "name": "T. Rowe Price",
+    "slug": "t-rowe-price"
   },
-  "role": "Product Engineer Intern/Co-op",
+  "role": "Global Product Intern",
   "category": "software-engineering",
-  "apply_url": "https://jobs.ashbyhq.com/firetiger/7acf0768-f10d-4650-bcfc-12ed6e5d7cfc/application?embed=true",
-  "season": "fall",
-  "year": 2026,
+  "apply_url": "https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Global-Product-Internship-Program_82693",
+  "season": "winter",
+  "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "SF",
+      "city": "Baltimore",
+      "state": "MD",
       "country": "USA"
     }
   ],
@@ -39,11 +40,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-21",
-    "discovered": "2026-07-21",
+    "posted": "2026-07-23",
+    "discovered": "2026-07-23",
     "last_verified": "2026-07-23"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

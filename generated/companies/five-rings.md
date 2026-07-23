@@ -10,6 +10,7 @@
 |---|---|---|---|---|---|---|---|
 | Five Rings | [Summer Intern 2027 - Quantitative Researcher (PhD)](https://job-boards.greenhouse.io/fiveringsllc/jobs/5349219008) | New York | Onsite | 2026-07-14 | Rolling | 🟢 Open | ❔ |
 | Five Rings | [Summer Intern 2027 - Quantitative Trader](https://job-boards.greenhouse.io/fiveringsllc/jobs/5139668008) | New York | Onsite | 2026-07-14 | Rolling | 🟢 Open | ❔ |
+| Five Rings | [Summer Intern 2027 - Software Developer](https://job-boards.greenhouse.io/fiveringsllc/jobs/5349707008) | New York | Onsite | 2026-07-14 | Rolling | 🟢 Open | ❔ |
 
 ## Related
 

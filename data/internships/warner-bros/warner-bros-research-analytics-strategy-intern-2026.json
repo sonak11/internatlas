@@ -1,19 +1,19 @@
 {
   "schema_version": "1.0",
-  "id": "firetiger-product-engineer-intern-co-op-2026",
+  "id": "warner-bros-research-analytics-strategy-intern-2026",
   "company": {
-    "name": "Firetiger",
-    "slug": "firetiger"
+    "name": "Warner Bros.",
+    "slug": "warner-bros"
   },
-  "role": "Product Engineer Intern/Co-op",
-  "category": "software-engineering",
-  "apply_url": "https://jobs.ashbyhq.com/firetiger/7acf0768-f10d-4650-bcfc-12ed6e5d7cfc/application?embed=true",
+  "role": "Research, Analytics & Strategy Intern",
+  "category": "research",
+  "apply_url": "https://warnerbros.wd5.myworkdayjobs.com/global/job/NY-New-York-30-Hudson-Yards/Research--Analytics---Strategy-Internships--NYC---Fall-2026_R000107153",
   "season": "fall",
   "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "SF",
+      "city": "NYC",
       "country": "USA"
     }
   ],
@@ -39,11 +39,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-21",
-    "discovered": "2026-07-21",
+    "posted": "2026-07-23",
+    "discovered": "2026-07-23",
     "last_verified": "2026-07-23"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

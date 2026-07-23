@@ -1,23 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "five-rings-capital-software-developer-intern-software-developer-2027",
+  "id": "t-rowe-price-quantitative-equity-investing-intern-2026",
   "company": {
-    "name": "Five Rings Capital",
-    "slug": "five-rings-capital"
+    "name": "T. Rowe Price",
+    "slug": "t-rowe-price"
   },
-  "role": "Software Developer Intern - Software Developer",
-  "category": "software-engineering",
-  "apply_url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5349707008",
-  "season": "summer",
-  "year": 2027,
+  "role": "Quantitative Equity Investing Intern",
+  "category": "quant",
+  "apply_url": "https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Quantitative-Equity-Investing-Internship-Program_82699",
+  "season": "fall",
+  "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "NYC",
-      "country": "USA"
-    },
-    {
-      "city": "New York",
+      "city": "Baltimore",
+      "state": "MD",
       "country": "USA"
     }
   ],
@@ -43,8 +40,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-14",
-    "discovered": "2026-07-17",
+    "posted": "2026-07-23",
+    "discovered": "2026-07-23",
     "last_verified": "2026-07-23"
   },
   "status": "open",

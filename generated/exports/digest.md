@@ -1,6 +1,6 @@
 # 📬 InternAtlas Weekly Digest — 2026-07-23
 
-## 🆕 New this week (158)
+## 🆕 New this week (163)
 
 - **AQR Capital Management** — [Trading Analyst Intern](https://careers.aqr.com/jobs?gh_jid=8077110&gh_jid=8077110) · quant · —
 - **AVEVA** — [Software Developer Intern Co-op](https://aveva.wd3.myworkdayjobs.com/en-US/AVEVA_careers/job/Philadelphia-Pennsylvania-United-States-of-America/Software-Developer-Intern--Drexel-Co-op-US_R014478) · software-engineering · —
@@ -144,6 +144,10 @@
 - **SpreeAI** — [Machine Learning Engineer Intern - Computer Vision/Multimodal/Generative AI](https://ats.rippling.com/spreeai/jobs/aa087086-dd4b-42be-a499-051546655e97) · machine-learning · —
 - **SpreeAI** — [Mobile Software Engineer Intern - Flagship Apps - iOS / Android / Web](https://ats.rippling.com/spreeai/jobs/c52472cb-2671-45d7-b666-17196dc3df25) · software-engineering · —
 - **SpreeAI** — [Software Engineer Intern](https://ats.rippling.com/spreeai/jobs/d34aed29-7a11-4e37-b5bc-e9317f82f0b1) · software-engineering · —
+- **T. Rowe Price** — [Global Product Intern](https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Global-Product-Internship-Program_82693) · software-engineering · —
+- **T. Rowe Price** — [Global Trading Intern](https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Global-Trading-Internship-Program_82718) · quant · —
+- **T. Rowe Price** — [Quantitative Equity Investing Intern](https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Quantitative-Equity-Investing-Internship-Program_82699) · quant · —
+- **T. Rowe Price** — [Technology and Data Intern](https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Technology-and-Data-Internship_82677) · software-engineering · —
 - **Tesla** — [Energy Battery Firmware Intern - Software Engineer - Energy Engineering](https://www.tesla.com/careers/search/job/276987) · embedded · —
 - **TikTok** — [Product Manager Intern - Tiktok-Product-Search](https://lifeattiktok.com/search/7663349357178620165) · product · —
 - **Torch Technologies** — [Software Engineer Intern](https://starfish.wd501.myworkdayjobs.com/Careers/job/Huntsville-AL/Software-Engineer-Intern_R1381) · software-engineering · —
@@ -155,6 +159,7 @@
 - **Virtu Financial** — [2027 Internship - Software Engineer](https://job-boards.greenhouse.io/virtu/jobs/8551566002) · quant · —
 - **Virtu Financial** — [Internship - Quantitative Trading](https://job-boards.greenhouse.io/virtu/jobs/8624408002) · quant · —
 - **Virtu Financial** — [Internship - Software Engineer](https://job-boards.greenhouse.io/virtu/jobs/8624410002) · quant · —
+- **Warner Bros.** — [Research, Analytics & Strategy Intern](https://warnerbros.wd5.myworkdayjobs.com/global/job/NY-New-York-30-Hudson-Yards/Research--Analytics---Strategy-Internships--NYC---Fall-2026_R000107153) · research · —
 - **Warner Bros.** — [Sports Growth Strategy and Data Intern](https://warnerbros.wd5.myworkdayjobs.com/global/job/GA-Atlanta-1050-Techwood-Drive-NW/Sports-Growth-Strategy-and-Data-Internships--ATL---Fall-2026_R000107173) · software-engineering · —
 - **Western Digital** — [Software Engineer Intern](https://jobs.smartrecruiters.com/WesternDigital/744000138727213) · software-engineering · —
 - **Xsolla** — [AI-First Engineer Intern](https://jobs.lever.co/xsolla/7a8f8d4c-10fc-4c64-bc9d-167ba1e367c4/apply) · ai · —
