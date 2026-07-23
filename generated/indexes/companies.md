@@ -34,7 +34,7 @@
 | [Anduril](../companies/anduril.md) | 6/6 | hardware, software-engineering |
 | [Apex Technology, Inc.](../companies/apex-technology-inc.md) | 1/1 | embedded |
 | [Apple](../companies/apple.md) | 2/2 | software-engineering |
-| [Aptiv](../companies/aptiv.md) | 1/1 | software-engineering |
+| [Aptiv](../companies/aptiv.md) | 0/1 | software-engineering |
 | [Aquatic Capital](../companies/aquatic-capital.md) | 1/1 | software-engineering |
 | [Aquatic Capital Management](../companies/aquatic-capital-management.md) | 2/2 | quant, software-engineering |
 | [Arcadis](../companies/arcadis.md) | 1/1 | software-engineering |
@@ -113,7 +113,7 @@
 | [Democratic National Committee](../companies/democratic-national-committee.md) | 1/1 | software-engineering |
 | [Desjardins Group](../companies/desjardins-group.md) | 1/1 | software-engineering |
 | [Dexmate](../companies/dexmate.md) | 0/1 | software-engineering |
-| [DiDi Global](../companies/didi-global.md) | 1/1 | software-engineering |
+| [DiDi Global](../companies/didi-global.md) | 0/1 | software-engineering |
 | [DimeHealth AI](../companies/dimehealth-ai.md) | 1/1 | software-engineering |
 | [Ditto](../companies/ditto.md) | 1/1 | software-engineering |
 | [Droyd Robotics](../companies/droyd-robotics.md) | 2/2 | machine-learning, software-engineering |
@@ -285,7 +285,7 @@
 | [Rockwell Automation](../companies/rockwell-automation.md) | 2/2 | embedded |
 | [Royal Bank of Canada](../companies/royal-bank-of-canada.md) | 0/1 | software-engineering |
 | [SOTI](../companies/soti.md) | 3/3 | data-science, product |
-| [SS&C](../companies/ss-c.md) | 0/1 | ai |
+| [SS&C](../companies/ss-c.md) | 1/1 | ai |
 | [Salesforce](../companies/salesforce.md) | 3/3 | product, software-engineering |
 | [Samsung](../companies/samsung.md) | 1/1 | research |
 | [Samsung Research America](../companies/samsung-research-america.md) | 1/3 | ai, machine-learning, software-engineering |
@@ -323,7 +323,7 @@
 | [Tencent](../companies/tencent.md) | 8/8 | ai, machine-learning, research, software-engineering |
 | [Tenstorrent](../companies/tenstorrent.md) | 2/2 | ai, design |
 | [Terranox AI](../companies/terranox-ai.md) | 1/1 | machine-learning |
-| [Tesla](../companies/tesla.md) | 95/97 | ai, cloud, data-engineering, design, embedded, hardware, machine-learning, product, security, software-engineering |
+| [Tesla](../companies/tesla.md) | 94/97 | ai, cloud, data-engineering, design, embedded, hardware, machine-learning, product, security, software-engineering |
 | [The Trade Desk](../companies/the-trade-desk.md) | 1/1 | software-engineering |
 | [TikTok](../companies/tiktok.md) | 13/13 | ai, cloud, machine-learning, product, software-engineering |
 | [Together AI](../companies/together-ai.md) | 3/3 | research |

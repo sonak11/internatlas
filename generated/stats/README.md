@@ -78,6 +78,7 @@ _Generated 2026-07-23_
 - Altera Corporation — AI Software Development Engineer Intern
 - American Bureau of Shipping — AI Software Engineering Intern
 - Amwins — Analytics & AI Intern
+- Aptiv — Engineer Intern
 - AQR Capital Management — Portfolio Implementation – Trading and Portfolio Finance Analyst Intern
 - Arrowstreet Capital — Quantitative Developer Intern
 - Axon — Software Engineering Intern
@@ -96,6 +97,7 @@ _Generated 2026-07-23_
 - Deepgram — Software Engineer Intern
 - Definity Financial — Data Specialist Co-op Intern - Claim Operations Management
 - Dexmate — Frontend Engineer Intern
+- DiDi Global — Motion Planning Engineer Intern
 - DNV — AI Research Intern
 - Duku AI — Tech Intern - Visiting
 - Eight Sleep — Prototype & Test Engineer Intern - New Product Development
@@ -151,12 +153,12 @@ _Generated 2026-07-23_
 - Signify — Product Management Intern
 - Skydio — Software Engineer Intern
 - Solid Power — Product Development Intern
-- SS&C — Healthcare AI & Automation Intern
 - State of North Carolina — Geographic Information Systems Intern - GIS
 - Susquehanna International Group (SIG) — Quantitative Research Intern
 - Susquehanna International Group (SIG) — Quantitative Systematic Trading Intern - PhD
 - Tesla — Firmware Integration Engineer Intern - Software Integration Engineer - Factory Firmware
 - Tesla — Software Engineer Intern - Simulation Platform - Software Engineer
+- Tesla — Software Engineer Intern - Wireless Connectivity Software Engineer - Electronic Devices
 - Torch Technologies — Software Engineer Intern
 - Tower Research Capital — Quantitative Trader Intern
 - Verkada — Technical Support Engineering Intern - Fall 2026
