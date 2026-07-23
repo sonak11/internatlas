@@ -1,15 +1,15 @@
 {
   "schema_version": "1.0",
-  "id": "neosigma-member-of-technical-staff-intern-2026",
+  "id": "salesforce-associate-product-manager-intern-associate-product-manager-2027-26d648",
   "company": {
-    "name": "NeoSigma",
-    "slug": "neosigma"
+    "name": "Salesforce",
+    "slug": "salesforce"
   },
-  "role": "Member of Technical Staff Intern",
-  "category": "software-engineering",
-  "apply_url": "https://ats.rippling.com/neosigma/jobs/a2ee1d26-a551-45d2-9854-6dbf8ed2c866",
-  "season": "fall",
-  "year": 2026,
+  "role": "Associate Product Manager Intern - Associate Product Manager",
+  "category": "product",
+  "apply_url": "https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/California---San-Francisco/Summer-2027-Intern---Associate-Product-Manager--APM-_JR348039",
+  "season": "summer",
+  "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
@@ -25,8 +25,7 @@
   "eligibility": {
     "graduation_years": [],
     "degree_levels": [
-      "masters",
-      "phd"
+      "masters"
     ],
     "citizenship_required": false,
     "security_clearance_required": false,
@@ -42,8 +41,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-21",
-    "discovered": "2026-07-21",
+    "posted": "2026-07-13",
+    "discovered": "2026-07-23",
     "last_verified": "2026-07-23"
   },
   "status": "open",

@@ -1,6 +1,6 @@
 {
   "generated": "2026-07-23",
-  "count": 887,
+  "count": 888,
   "internships": [
     {
       "schema_version": "1.0",
@@ -6546,7 +6546,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -10330,7 +10330,7 @@
         "discovered": "2026-07-22",
         "last_verified": "2026-07-23"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -10436,7 +10436,7 @@
         "discovered": "2026-07-18",
         "last_verified": "2026-07-23"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -10753,7 +10753,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-23"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -15926,7 +15926,7 @@
         "discovered": "2026-07-18",
         "last_verified": "2026-07-23"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -22165,7 +22165,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-23"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -22681,7 +22681,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-23"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -23097,7 +23097,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-23"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -23362,7 +23362,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-23"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -26159,7 +26159,7 @@
         "discovered": "2026-07-21",
         "last_verified": "2026-07-23"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -28003,7 +28003,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -28333,7 +28333,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-23"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -30246,7 +30246,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -31447,7 +31447,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-23"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -33805,7 +33805,60 @@
         "discovered": "2026-07-20",
         "last_verified": "2026-07-23"
       },
-      "status": "closed",
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "salesforce-associate-product-manager-intern-associate-product-manager-2027-26d648",
+      "company": {
+        "name": "Salesforce",
+        "slug": "salesforce"
+      },
+      "role": "Associate Product Manager Intern - Associate Product Manager",
+      "category": "product",
+      "apply_url": "https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/California---San-Francisco/Summer-2027-Intern---Associate-Product-Manager--APM-_JR348039",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "SF",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-13",
+        "discovered": "2026-07-23",
+        "last_verified": "2026-07-23"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -33820,7 +33873,7 @@
       },
       "role": "Associate Product Manager Intern - Associate Product Manager",
       "category": "product",
-      "apply_url": "https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/California---San-Francisco/Summer-2027-Intern---Associate-Product-Manager--APM-_JR348039",
+      "apply_url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Associate-Product-Manager--APM-_JR348039-1",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
@@ -34718,7 +34771,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -35726,7 +35779,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-23"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -38058,7 +38111,7 @@
         "discovered": "2026-07-23",
         "last_verified": "2026-07-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -38110,7 +38163,7 @@
         "discovered": "2026-07-23",
         "last_verified": "2026-07-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -38555,7 +38608,7 @@
       },
       "role": "Research Intern - Video World Models - Research & ML Systems",
       "category": "machine-learning",
-      "apply_url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Research-Intern---Video-World-Models--Research---ML-Systems-_R107752-1",
+      "apply_url": "https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/US-California-Palo-Alto/Research-Intern---Video-World-Models--Research---ML-Systems-_R107752",
       "season": "fall",
       "year": 2026,
       "work_mode": "onsite",
@@ -44775,7 +44828,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"

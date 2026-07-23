@@ -41,7 +41,7 @@ _Generated 2026-07-23_
 | hardware | 45 | `█` |
 | embedded | 38 | `█` |
 | design | 22 | `█` |
-| product | 20 | `█` |
+| product | 21 | `█` |
 | cloud | 17 | `█` |
 | data-science | 14 | `█` |
 | data-engineering | 10 | `█` |
@@ -86,6 +86,7 @@ _Generated 2026-07-23_
 - Axon — Software Engineering Intern
 - BDO Canada — Indirect Tax Intern Co-op - Indirect Tax
 - Bosch Home Comfort — Business Intelligence Intern
+- Cadence Design Systems — SSG Design Engineering Intern
 - Capital One — Data Science Intern
 - Capital One — Master's Data Science Internship
 - Center for AI Safety — Research Engineer Intern
@@ -102,9 +103,6 @@ _Generated 2026-07-23_
 - Composio — Full-stack Intern
 - Consensus Cloud Solutions — Sales Strategy & Analytics Intern
 - Constellation Space — Graduate Researcher Intern - Machine Learning
-- Copart — Software Engineer Intern
-- Copart — Software Engineer Intern
-- CuspAI — Chemistry Intern - MLFF Distillation & GCMC Integration
 - Datasite — AI Transformation / Forward Deployed Engineer Intern - Forward Deployed Engineer
 - Deepgram — Software Engineer Intern
 - Definity Financial — Data Specialist Co-op Intern - Claim Operations Management
@@ -131,7 +129,6 @@ _Generated 2026-07-23_
 - GE Appliances — Engineering Intern/Co-op
 - Generac — Data Science Intern
 - Generac — Engineering Intern
-- General Motors — Research and Development Intern - Research & Development
 - General Motors — Research and Development Intern - Research & Development: AI/ML
 - GeoComply — Full Stack Developer Intern
 - GeoComply — Product Operations Intern
@@ -149,14 +146,10 @@ _Generated 2026-07-23_
 - Instacart — Machine Learning PhD Intern, Economics (Fall)
 - Jump Trading — Campus Quantitative Researcher Intern
 - Junior AI — Software Engineer Intern
-- Kinaxis — Engineer Co-op/Intern - Data & Analytics
 - Kinaxis — Software Development Co-op/Intern - C++
-- LexisNexis Risk Solutions — Editorial Data Reporting Intern
 - Light & Wonder — Mathematics Intern
 - Mackenzie Investments — Data Science and AI Specialist Intern - Investment Management - Fundamental Equity
-- Marshall Wace — Technology Intern
 - Marvell — Design Verification Engineer Intern
-- McKesson — AI & Strategic Analytics Intern
 - McKesson — Data Governance Analyst Intern
 - McKesson — Supply Chain Engineering and Analytics Intern
 - Meta — Research Scientist Intern - 3D Vision & World Simulation
@@ -165,23 +158,22 @@ _Generated 2026-07-23_
 - National Laboratory of the Rockies — Graduate Geospatial Data Science Intern
 - National Laboratory of the Rockies — Graduate Intern
 - Navy Federal — Year Round Intern - Business Intelligence Analyst
-- NeoSigma — Member of Technical Staff Intern
 - Netflix — AI/ML Scientist Intern - AIMS AI Foundations
 - Neuralink — R&D Materials Engineer Intern
 - NewsBreak — Growth Engineer Intern - Growth Engineering
 - Nokia — Data Science Co-op/Intern
 - Nokia — Incubation Developer Coop/Intern
 - North Cloud — AI Automation Intern
+- NVIDIA — Applied Deep Learning PhD Research Intern - Reinforcement Learning for LLMs
 - NVIDIA — Applied Research Intern - NLP
 - NVIDIA — Java Engineer Intern
 - NVIDIA — PhD Research Intern - Security and Privacy
 - NVIDIA — PhD Research Intern - System Software and I/O Architecture
-- NVIDIA — PhD Software Engineer Intern - Decision Intelligence
 - NXP Semiconductors — Digital Verification Engineer Intern
 - Old Mission — Software Engineer Intern
 - onsemi — Electrical Device Characterization Intern
 - Optiver — Trading Automation and Operations Intern
-- Pylon — Software Engineer Intern
+- PennState University — Research and Development Engineering Intern
 - Quadrillion — Research Intern
 - Rainmaker — Software Engineer Intern
 - Revvity — Product Manager Intern
@@ -189,23 +181,25 @@ _Generated 2026-07-23_
 - Rivian — Machine Learning Compiler Intern - Machine Learning Compiler
 - Roam — Engineer Intern
 - Royal Bank of Canada — Student Intern - Data Analyst - Personal Banking
-- RTX — Machine Learning Researcher Intern/Co-op
 - Samsung — Research Intern
 - Samsung Research America — Computer Vision/AI Intern - Computer Vision/AI
 - Samsung Research America — Memory and Personalization Intern - Memory and Personalization
 - Seaspan — Energy Management Intern
+- Sentara Health — Enterprise Data & AI Intern
 - Signify — Product Management Intern
 - Skydio — Software Engineer Intern
 - Solid Power — Product Development Intern
-- SOTI — Product Manager Intern - Sales Enablement Products
 - State of North Carolina — Geographic Information Systems Intern - GIS
 - Susquehanna International Group (SIG) — Quantitative Research Intern
 - Susquehanna International Group (SIG) — Quantitative Systematic Trading Intern - PhD
+- T. Rowe Price — Global Product Intern
+- T. Rowe Price — Global Trading Intern
 - Tesla — Firmware Integration Engineer Intern - Software Integration Engineer - Factory Firmware
 - Tesla — Software Engineer Intern - Simulation Platform - Software Engineer
 - Tesla — Software Engineer Intern - Wireless Connectivity Software Engineer - Electronic Devices
 - The Trade Desk — Software Engineering Intern
 - TikTok — Global Product Operations Manager Intern - Global Business Solutions
+- TMX Group — Software Engineer Intern - Java
 - Torch Technologies — Software Engineer Intern
 - Tower Research Capital — Quantitative Trader Intern
 - Verkada — Technical Support Engineering Intern - Fall 2026
