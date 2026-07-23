@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 📊 Statistics
 
-_Generated 2026-07-22_
+_Generated 2026-07-23_
 
 ## Top hiring companies
 
@@ -33,12 +33,12 @@ _Generated 2026-07-22_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 415 | `████████████` |
+| software-engineering | 418 | `████████████` |
 | quant | 103 | `███` |
-| ai | 86 | `██` |
+| ai | 88 | `██` |
 | machine-learning | 56 | `██` |
-| research | 46 | `█` |
-| hardware | 44 | `█` |
+| research | 47 | `█` |
+| hardware | 45 | `█` |
 | embedded | 38 | `█` |
 | design | 22 | `█` |
 | product | 21 | `█` |
@@ -49,6 +49,13 @@ _Generated 2026-07-22_
 
 ## Newest listings
 
+- 2026-07-22 — **Adtheorant**: [Enterprise AI Intern](https://careers-cadent.icims.com/jobs/1406/job?mobile=true&needsRedirect=false)
+- 2026-07-22 — **Arcadis**: [GIS Intern](https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/42762)
+- 2026-07-22 — **Carnegie Mellon University**: [Research Intern - School of Computer Science - Language Technologies Institute](https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Research-Intern---School-of-Computer-Science---LTI_2024870)
+- 2026-07-22 — **Impulse Space**: [Data Analytics Intern](https://impulsespace.pinpointhq.com/en/postings/bf86b5dc-b3bd-4bb1-b51c-75744ff8d978?ats=pinpointhq)
+- 2026-07-22 — **Kepler Communications**: [FPGA Digital Design Engineer Intern](https://jobs.lever.co/kepler/f06ca5e6-2e7f-4b76-a5c4-cb423d3cfc03/apply)
+- 2026-07-22 — **Moog**: [Software Engineering Intern](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Software-Engineering_R-26-18885-1)
+- 2026-07-22 — **OpusClip**: [AI Research Intern](https://jobs.ashbyhq.com/opusclip/1966160d-8b4a-40f8-96c5-39a6d81122c2/application?embed=true)
 - 2026-07-22 — **Rivian**: [Intern](https://careers.rivian.com/jobs/32355?icims=1)
 - 2026-07-22 — **Rivian**: [Research Park Intern - Embedded Software](https://careers.rivian.com/jobs/32354?icims=1)
 - 2026-07-22 — **Rivian**: [UIUC Research Park Intern - Computational Methods Development](https://careers.rivian.com/jobs/32340?icims=1)
@@ -62,13 +69,6 @@ _Generated 2026-07-22_
 - 2026-07-21 — **Bloxd**: [Software Engineer Intern](https://jobs.ashbyhq.com/bloxd/7ade559a-d07d-4ffe-b6ec-c79e41632474/application?embed=true)
 - 2026-07-21 — **Castleton Commodities International**: [Commodities Trading Analyst Intern](https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/London-UK/Commodities-Trading-Summer-Analyst-Internship-Programme--Summer-2027-_R1335-1)
 - 2026-07-21 — **Castleton Commodities International**: [Commodities Trading Analyst Internship](https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Houston-TX/Commodities-Trading-Summer-Analyst-Internship-Program--Summer-2027-Internship-_R1333-1)
-- 2026-07-21 — **Castleton Commodities International**: [Data Engineering Intern](https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Stamford-CT/Data-Engineering-Internship--Summer-2027-_R1346)
-- 2026-07-21 — **Castleton Commodities International**: [Data Engineering Intern](https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/London/Data-Engineering-Internship--Summer-2027-_R1348)
-- 2026-07-21 — **Castleton Commodities International**: [Data Science Machine Learning Intern](https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Stamford-CT/Data-Science-Machine-Learning-Internship--Summer-2027-_R1344)
-- 2026-07-21 — **Castleton Commodities International**: [Data Science Machine Learning Intern](https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/London-UK/Data-Science-Machine-Learning-Internship--Summer-2027-_R1345)
-- 2026-07-21 — **Castleton Commodities International**: [Front Office Software Engineer Intern](https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/London-UK/Front-Office-Software-Engineer-Internship--Summer-2027-_R1347)
-- 2026-07-21 — **Castleton Commodities International**: [Full-Stack Software Engineer Intern](https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Stamford-CT/Full-Stack-Software-Engineer-Internship--Summer-2027-_R1350)
-- 2026-07-21 — **Chicago Trading Company**: [Quant Trading Intern](https://job-boards.greenhouse.io/ctccampusboard/jobs/4709545005)
 
 ## Recently closed
 
@@ -120,10 +120,10 @@ _Generated 2026-07-22_
 - Hitachi Energy — Cloud & Data Specialist Intern
 - IMC Trading — 2027 - Quant Research Intern - IIT Delhi
 - IMC Trading — 2027 - Software Engineering Intern - IIT Delhi
+- Impulse Space — Radio Frequency Engineering Intern
 - Instacart — Machine Learning Engineer, PhD Intern (Fall)
 - Instacart — Machine Learning PhD Intern, Economics (Fall)
 - Jump Trading — Campus Quantitative Researcher Intern
-- LexisNexis Risk Solutions — Editorial Data Reporting Intern
 - Light & Wonder — Mathematics Intern
 - Mackenzie Investments — Data Science and AI Specialist Intern - Investment Management - Fundamental Equity
 - Marvell — Design Verification Engineer Intern
@@ -156,9 +156,11 @@ _Generated 2026-07-22_
 - Susquehanna International Group (SIG) — Quantitative Research Intern
 - Susquehanna International Group (SIG) — Quantitative Systematic Trading Intern - PhD
 - Tesla — Firmware Integration Engineer Intern - Software Integration Engineer - Factory Firmware
+- Tesla — Software Engineer Intern - Simulation Platform - Software Engineer
 - Torch Technologies — Software Engineer Intern
 - Tower Research Capital — Quantitative Trader Intern
 - Verkada — Technical Support Engineering Intern - Fall 2026
 - Verne Robotics — Engineering Intern
+- Viavi Solutions — Software Development Data Analytics Intern
 - Xsolla — AI-First Engineer Intern
 - Zipline — Embedded Software Engineer Intern

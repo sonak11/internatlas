@@ -17,6 +17,7 @@
 | [Accenture](../companies/accenture.md) | 0/2 | software-engineering |
 | [Ada](../companies/ada.md) | 1/1 | software-engineering |
 | [Adobe](../companies/adobe.md) | 1/1 | machine-learning |
+| [Adtheorant](../companies/adtheorant.md) | 1/1 | ai |
 | [Airbnb](../companies/airbnb.md) | 1/1 | software-engineering |
 | [Akuna Capital](../companies/akuna-capital.md) | 8/8 | cloud, hardware, quant |
 | [Al Warren Oil Company](../companies/al-warren-oil-company.md) | 1/1 | software-engineering |
@@ -36,6 +37,7 @@
 | [Aptiv](../companies/aptiv.md) | 1/1 | software-engineering |
 | [Aquatic Capital](../companies/aquatic-capital.md) | 1/1 | software-engineering |
 | [Aquatic Capital Management](../companies/aquatic-capital-management.md) | 2/2 | quant, software-engineering |
+| [Arcadis](../companies/arcadis.md) | 1/1 | software-engineering |
 | [Architect Labs](../companies/architect-labs.md) | 1/1 | research |
 | [Argmax](../companies/argmax.md) | 1/1 | ai |
 | [Argonne National Laboratory](../companies/argonne-national-laboratory.md) | 1/1 | software-engineering |
@@ -69,6 +71,7 @@
 | [CTGT](../companies/ctgt.md) | 1/1 | software-engineering |
 | [Cadence Design Systems](../companies/cadence-design-systems.md) | 5/5 | design, software-engineering |
 | [Capital One](../companies/capital-one.md) | 3/4 | data-science, software-engineering |
+| [Carnegie Mellon University](../companies/carnegie-mellon-university.md) | 1/1 | research |
 | [Castleton Commodities International](../companies/castleton-commodities-international.md) | 8/8 | data-engineering, machine-learning, quant, software-engineering |
 | [Center for AI Safety](../companies/center-for-ai-safety.md) | 0/1 | research |
 | [Centerstone](../companies/centerstone.md) | 1/1 | software-engineering |
@@ -174,7 +177,7 @@
 | [IMC](../companies/imc.md) | 1/1 | software-engineering |
 | [IMC Trading](../companies/imc-trading.md) | 12/14 | hardware, machine-learning, quant |
 | [Ignite Digital Services](../companies/ignite-digital-services.md) | 1/1 | software-engineering |
-| [Impulse Space](../companies/impulse-space.md) | 1/1 | software-engineering |
+| [Impulse Space](../companies/impulse-space.md) | 1/2 | software-engineering |
 | [InfiniteQuant](../companies/infinitequant.md) | 1/1 | quant |
 | [Instacart](../companies/instacart.md) | 0/2 | machine-learning |
 | [Integra FEC](../companies/integra-fec.md) | 4/4 | data-science, software-engineering |
@@ -188,12 +191,13 @@
 | [Junior AI](../companies/junior-ai.md) | 1/1 | software-engineering |
 | [KBR](../companies/kbr.md) | 1/1 | security |
 | [KRAFTON](../companies/krafton.md) | 1/1 | software-engineering |
+| [Kepler Communications](../companies/kepler-communications.md) | 1/1 | hardware |
 | [Keysight Technologies](../companies/keysight-technologies.md) | 1/1 | machine-learning |
 | [Kinaxis](../companies/kinaxis.md) | 2/2 | software-engineering |
 | [Kirin](../companies/kirin.md) | 2/2 | ai, quant |
 | [Kudu Dynamics](../companies/kudu-dynamics.md) | 3/3 | software-engineering |
 | [Lawrence Livermore National Laboratory (LLNL)](../companies/lawrence-livermore-national-laboratory-llnl.md) | 2/2 | software-engineering |
-| [LexisNexis Risk Solutions](../companies/lexisnexis-risk-solutions.md) | 0/1 | software-engineering |
+| [LexisNexis Risk Solutions](../companies/lexisnexis-risk-solutions.md) | 1/1 | software-engineering |
 | [Light & Wonder](../companies/light-wonder.md) | 0/1 | software-engineering |
 | [Littelfuse](../companies/littelfuse.md) | 1/1 | software-engineering |
 | [LiveRamp](../companies/liveramp.md) | 1/1 | software-engineering |
@@ -213,6 +217,7 @@
 | [Mistral AI](../companies/mistral-ai.md) | 2/2 | research |
 | [Mobius Renewables](../companies/mobius-renewables.md) | 1/1 | software-engineering |
 | [Monogram](../companies/monogram.md) | 1/1 | software-engineering |
+| [Moog](../companies/moog.md) | 1/1 | software-engineering |
 | [Moon](../companies/moon.md) | 2/2 | machine-learning, software-engineering |
 | [Mosaic](../companies/mosaic.md) | 1/1 | software-engineering |
 | [Moss & Associates](../companies/moss-associates.md) | 1/1 | software-engineering |
@@ -238,6 +243,7 @@
 | [Old Mission](../companies/old-mission.md) | 0/1 | software-engineering |
 | [Oligo Space](../companies/oligo-space.md) | 1/1 | machine-learning |
 | [Optiver](../companies/optiver.md) | 10/10 | hardware, quant, software-engineering |
+| [OpusClip](../companies/opusclip.md) | 1/1 | ai |
 | [Oracle](../companies/oracle.md) | 1/1 | software-engineering |
 | [Orennia](../companies/orennia.md) | 1/1 | software-engineering |
 | [Outpost Technologies](../companies/outpost-technologies.md) | 1/1 | research |
@@ -317,7 +323,7 @@
 | [Tencent](../companies/tencent.md) | 8/8 | ai, machine-learning, research, software-engineering |
 | [Tenstorrent](../companies/tenstorrent.md) | 2/2 | ai, design |
 | [Terranox AI](../companies/terranox-ai.md) | 1/1 | machine-learning |
-| [Tesla](../companies/tesla.md) | 96/97 | ai, cloud, data-engineering, design, embedded, hardware, machine-learning, product, security, software-engineering |
+| [Tesla](../companies/tesla.md) | 95/97 | ai, cloud, data-engineering, design, embedded, hardware, machine-learning, product, security, software-engineering |
 | [The Trade Desk](../companies/the-trade-desk.md) | 1/1 | software-engineering |
 | [TikTok](../companies/tiktok.md) | 13/13 | ai, cloud, machine-learning, product, software-engineering |
 | [Together AI](../companies/together-ai.md) | 3/3 | research |
@@ -339,7 +345,7 @@
 | [Verkada](../companies/verkada.md) | 0/1 | software-engineering |
 | [Verne Robotics](../companies/verne-robotics.md) | 0/1 | software-engineering |
 | [VetsEZ](../companies/vetsez.md) | 1/1 | software-engineering |
-| [Viavi Solutions](../companies/viavi-solutions.md) | 1/1 | software-engineering |
+| [Viavi Solutions](../companies/viavi-solutions.md) | 0/1 | software-engineering |
 | [Virtu Financial](../companies/virtu-financial.md) | 7/7 | quant |
 | [Vital Lyfe](../companies/vital-lyfe.md) | 1/1 | software-engineering |
 | [Voloridge](../companies/voloridge.md) | 2/2 | quant |
