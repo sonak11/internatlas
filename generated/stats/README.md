@@ -18,37 +18,43 @@ _Generated 2026-07-23_
 | Rivian and Volkswagen Group Technologies | 14 |
 | TikTok | 13 |
 | Etched | 12 |
+| Optiver | 11 |
 | Astranis | 10 |
-| Optiver | 10 |
 | NVIDIA | 9 |
 | Akuna Capital | 8 |
 | Castleton Commodities International | 8 |
+| Tencent | 8 |
 | Walleye Capital | 8 |
 | Amazon | 7 |
 | Ciena | 7 |
-| Formlabs | 7 |
-| Palantir | 7 |
+| Copart | 7 |
 
 ## Listings by category
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 420 | `████████████` |
-| quant | 105 | `███` |
+| software-engineering | 423 | `████████████` |
+| quant | 106 | `███` |
 | ai | 88 | `██` |
-| machine-learning | 55 | `██` |
+| machine-learning | 57 | `██` |
 | research | 49 | `█` |
 | hardware | 45 | `█` |
 | embedded | 38 | `█` |
 | design | 22 | `█` |
 | product | 21 | `█` |
 | cloud | 17 | `█` |
-| data-science | 14 | `█` |
+| data-science | 15 | `█` |
 | data-engineering | 10 | `█` |
 | security | 4 | `█` |
 
 ## Newest listings
 
+- 2026-07-23 — **Copart**: [Technology Product Analyst Intern](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Technology-Product-Analyst-Intern_JR110078)
+- 2026-07-23 — **G-Research**: [Data Science Intern](https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Data-Science-Internship_R3679)
+- 2026-07-23 — **G-Research**: [Machine Learning Research Intern](https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Machine-Learning-Research-Internship_R3682)
+- 2026-07-23 — **G-Research**: [Natural Language Processing Intern](https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Natural-Language-Processing-Internship_R3686)
+- 2026-07-23 — **G-Research**: [Quantitative Research Internship](https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Quant-Research-Internship_R3691)
+- 2026-07-23 — **Optiver**: [Institutional Trader Intern](https://job-boards.greenhouse.io/optiverprivate/jobs/8402208002)
 - 2026-07-23 — **Red Bull**: [Data Science Intern - Data Science](https://jobs.smartrecruiters.com/RedBull/744000139168339)
 - 2026-07-23 — **T. Rowe Price**: [Global Product Intern](https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Global-Product-Internship-Program_82693)
 - 2026-07-23 — **T. Rowe Price**: [Global Trading Intern](https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Global-Trading-Internship-Program_82718)
@@ -63,12 +69,6 @@ _Generated 2026-07-23_
 - 2026-07-22 — **Kepler Communications**: [FPGA Digital Design Engineer Intern](https://jobs.lever.co/kepler/f06ca5e6-2e7f-4b76-a5c4-cb423d3cfc03/apply)
 - 2026-07-22 — **Moog**: [Software Engineering Intern](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Software-Engineering_R-26-18885-1)
 - 2026-07-22 — **OpusClip**: [AI Research Intern](https://jobs.ashbyhq.com/opusclip/1966160d-8b4a-40f8-96c5-39a6d81122c2/application?embed=true)
-- 2026-07-22 — **Rivian**: [Intern](https://careers.rivian.com/jobs/32355?icims=1)
-- 2026-07-22 — **Rivian**: [Research Park Intern - Embedded Software](https://careers.rivian.com/jobs/32354?icims=1)
-- 2026-07-22 — **Rivian**: [UIUC Research Park Intern - Computational Methods Development](https://careers.rivian.com/jobs/32340?icims=1)
-- 2026-07-22 — **Samsung**: [Research Intern](https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/5060-Station-Road-Cambridge-United-Kingdom/Research-Intern_R117158-1)
-- 2026-07-22 — **SS&C**: [Healthcare AI & Automation Intern](https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Remote---Florida-US/Healthcare-AI---Automation-Intern_R45126)
-- 2026-07-22 — **Virtu Financial**: [2027 Internship - Quantitative Researcher (PhD)](https://job-boards.greenhouse.io/virtu/jobs/8624424002)
 
 ## Recently closed
 
@@ -113,6 +113,7 @@ _Generated 2026-07-23_
 - Duku AI — Tech Intern - Visiting
 - Egra — AI Researcher Intern
 - Eight Sleep — Prototype & Test Engineer Intern - New Product Development
+- Ensemble Health Partners — Engineering Excellence Intern
 - Entergy — Power Delivery Intern
 - Environmental Defense Fund — Climate & Health Intern
 - Eragon — Applied AI Intern
@@ -139,8 +140,7 @@ _Generated 2026-07-23_
 - Hermeus — Modeling & Simulation Software Engineer Intern
 - Hermeus — Subsystem Test Engineer Intern
 - Hitachi Energy — Cloud & Data Specialist Intern
-- IMC Trading — 2027 - Quant Research Intern - IIT Delhi
-- IMC Trading — 2027 - Software Engineering Intern - IIT Delhi
+- Ignite Digital Services — Engineer/Scientist Intern
 - Impulse Space — Radio Frequency Engineering Intern
 - Instacart — Machine Learning Engineer, PhD Intern (Fall)
 - Instacart — Machine Learning PhD Intern, Economics (Fall)
@@ -173,7 +173,6 @@ _Generated 2026-07-23_
 - Old Mission — Software Engineer Intern
 - onsemi — Electrical Device Characterization Intern
 - Optiver — Trading Automation and Operations Intern
-- PennState University — Research and Development Engineering Intern
 - Quadrillion — Research Intern
 - Rainmaker — Software Engineer Intern
 - Revvity — Product Manager Intern
@@ -189,11 +188,14 @@ _Generated 2026-07-23_
 - Signify — Product Management Intern
 - Skydio — Software Engineer Intern
 - Solid Power — Product Development Intern
+- SS&C — Healthcare AI & Automation Intern
 - State of North Carolina — Geographic Information Systems Intern - GIS
 - Susquehanna International Group (SIG) — Quantitative Research Intern
 - Susquehanna International Group (SIG) — Quantitative Systematic Trading Intern - PhD
 - T. Rowe Price — Global Product Intern
 - T. Rowe Price — Global Trading Intern
+- T. Rowe Price — Quantitative Equity Investing Intern
+- T. Rowe Price — Technology and Data Intern
 - Tesla — Firmware Integration Engineer Intern - Software Integration Engineer - Factory Firmware
 - Tesla — Software Engineer Intern - Simulation Platform - Software Engineer
 - Tesla — Software Engineer Intern - Wireless Connectivity Software Engineer - Electronic Devices

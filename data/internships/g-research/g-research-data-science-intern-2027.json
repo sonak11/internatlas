@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "ss-c-healthcare-ai-automation-intern-2026",
+  "id": "g-research-data-science-intern-2027",
   "company": {
-    "name": "SS&C",
-    "slug": "ss-c"
+    "name": "G-Research",
+    "slug": "g-research"
   },
-  "role": "Healthcare AI & Automation Intern",
-  "category": "ai",
-  "apply_url": "https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Remote---Florida-US/Healthcare-AI---Automation-Intern_R45126",
-  "season": "fall",
-  "year": 2026,
+  "role": "Data Science Intern",
+  "category": "data-science",
+  "apply_url": "https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Data-Science-Internship_R3679",
+  "season": "summer",
+  "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Florida",
-      "country": "USA"
+      "city": "London",
+      "country": "UK"
     }
   ],
   "compensation": {
@@ -25,7 +25,8 @@
   "eligibility": {
     "graduation_years": [],
     "degree_levels": [
-      "masters"
+      "masters",
+      "phd"
     ],
     "citizenship_required": false,
     "security_clearance_required": false,
@@ -41,11 +42,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-22",
-    "discovered": "2026-07-22",
+    "posted": "2026-07-23",
+    "discovered": "2026-07-23",
     "last_verified": "2026-07-23"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

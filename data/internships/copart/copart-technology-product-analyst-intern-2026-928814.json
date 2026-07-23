@@ -1,19 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "ss-c-healthcare-ai-automation-intern-2026",
+  "id": "copart-technology-product-analyst-intern-2026-928814",
   "company": {
-    "name": "SS&C",
-    "slug": "ss-c"
+    "name": "Copart",
+    "slug": "copart"
   },
-  "role": "Healthcare AI & Automation Intern",
-  "category": "ai",
-  "apply_url": "https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Remote---Florida-US/Healthcare-AI---Automation-Intern_R45126",
+  "role": "Technology Product Analyst Intern",
+  "category": "software-engineering",
+  "apply_url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Technology-Product-Analyst-Intern_JR110078",
   "season": "fall",
   "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Florida",
+      "city": "Dallas",
+      "state": "TX",
       "country": "USA"
     }
   ],
@@ -41,11 +42,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-22",
-    "discovered": "2026-07-22",
+    "posted": "2026-07-23",
+    "discovered": "2026-07-23",
     "last_verified": "2026-07-23"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

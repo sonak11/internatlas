@@ -1,25 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "virtu-financial-internship-software-engineer-2027",
+  "id": "optiver-institutional-trader-intern-2027",
   "company": {
-    "name": "Virtu Financial",
-    "slug": "virtu-financial",
-    "career_page": "https://www.virtu.com/careers"
+    "name": "Optiver",
+    "slug": "optiver"
   },
-  "role": "Internship - Software Engineer",
-  "category": "quant",
-  "apply_url": "https://job-boards.greenhouse.io/virtu/jobs/8624410002",
+  "role": "Institutional Trader Intern",
+  "category": "software-engineering",
+  "apply_url": "https://job-boards.greenhouse.io/optiverprivate/jobs/8402208002",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Austin",
-      "state": "TX",
-      "country": "USA"
-    },
-    {
-      "city": "NYC",
+      "city": "Chicago",
+      "state": "IL",
       "country": "USA"
     }
   ],
@@ -30,7 +25,9 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "masters"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -45,13 +42,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-21",
-    "discovered": "2026-07-21",
+    "posted": "2026-07-23",
+    "discovered": "2026-07-23",
     "last_verified": "2026-07-23"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:ats"
+    "src:simplify"
   ]
 }

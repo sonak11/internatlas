@@ -1,19 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "ss-c-healthcare-ai-automation-intern-2026",
+  "id": "tencent-research-intern-video-world-models-research-ml-systems-2026-ef917d",
   "company": {
-    "name": "SS&C",
-    "slug": "ss-c"
+    "name": "Tencent",
+    "slug": "tencent"
   },
-  "role": "Healthcare AI & Automation Intern",
-  "category": "ai",
-  "apply_url": "https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Remote---Florida-US/Healthcare-AI---Automation-Intern_R45126",
+  "role": "Research Intern - Video World Models - Research & ML Systems",
+  "category": "machine-learning",
+  "apply_url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Research-Intern---Video-World-Models--Research---ML-Systems-_R107752-1",
   "season": "fall",
   "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Florida",
+      "city": "Palo Alto",
+      "state": "CA",
       "country": "USA"
     }
   ],
@@ -25,7 +26,8 @@
   "eligibility": {
     "graduation_years": [],
     "degree_levels": [
-      "masters"
+      "masters",
+      "phd"
     ],
     "citizenship_required": false,
     "security_clearance_required": false,
@@ -41,11 +43,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-22",
-    "discovered": "2026-07-22",
+    "posted": "2026-07-15",
+    "discovered": "2026-07-23",
     "last_verified": "2026-07-23"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"
