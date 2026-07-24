@@ -33,9 +33,9 @@ _Generated 2026-07-24_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 469 | `████████████` |
+| software-engineering | 480 | `████████████` |
 | quant | 111 | `███` |
-| ai | 92 | `██` |
+| ai | 93 | `██` |
 | machine-learning | 61 | `██` |
 | research | 51 | `█` |
 | hardware | 48 | `█` |
@@ -51,6 +51,9 @@ _Generated 2026-07-24_
 
 - 2026-07-24 — **Appian**: [Product Manager Intern](https://careers.appian.com/jobs/8041243-product-manager-intern-)
 - 2026-07-24 — **Appian**: [Software Engineering Intern](https://careers.appian.com/jobs/8041237-software-engineering-intern)
+- 2026-07-24 — **Bank of Montreal**: [Market Risk Analyst Co-op/Intern](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Market-Risk-Analyst--Fall-2026--Co-op-Internship----4-Months_R260022055)
+- 2026-07-24 — **Bosch Home Comfort**: [Autonomous Driving Intern](https://jobs.smartrecruiters.com/BoschGroup/744000139649345)
+- 2026-07-24 — **City of Austin**: [Austin Aviation Undergraduate Intern - IT Business Systems Analyst](https://austintexas.wd5.myworkdayjobs.com/COA_Careers/job/AUS-Information-Systems-Building-IS/Austin-Aviation--IT-Business-Systems-Analyst---Undergraduate-Intern_JR104583)
 - 2026-07-24 — **Deepgram**: [Software Engineering Intern](https://jobs.ashbyhq.com/deepgram/dc8693b5-72ce-4ca3-ab15-9c8434d35da1)
 - 2026-07-24 — **fab2**: [Software Engineering Intern](https://jobs.ashbyhq.com/fab2/947338ca-e135-4398-9aa3-79e131bc03d5?embed=true)
 - 2026-07-24 — **Google**: [Software Engineering Intern](https://www.google.com/about/careers/applications/jobs/results/85564713261245126-software-engineering-intern-bs-summer-2027)
@@ -66,9 +69,6 @@ _Generated 2026-07-24_
 - 2026-07-24 — **Jane Street**: [Linux Engineer Intern](https://www.janestreet.com/join-jane-street/position/8626260002/)
 - 2026-07-24 — **Jane Street**: [Machine Learning Engineer Intern](https://www.janestreet.com/join-jane-street/position/8611307002/)
 - 2026-07-24 — **Jane Street**: [Machine Learning Researcher Intern](https://www.janestreet.com/join-jane-street/position/8384490002/)
-- 2026-07-24 — **Jane Street**: [Network Engineer Intern](https://www.janestreet.com/join-jane-street/position/8620793002/)
-- 2026-07-24 — **Jane Street**: [Quantitative Researcher Intern](https://www.janestreet.com/join-jane-street/position/8498547002/)
-- 2026-07-24 — **Jane Street**: [Quantitative Trader Intern](https://www.janestreet.com/join-jane-street/position/8617344002/)
 
 ## Recently closed
 
@@ -83,6 +83,7 @@ _Generated 2026-07-24_
 - Aptiv — Engineer Intern
 - AQR Capital Management — Portfolio Implementation – Trading and Portfolio Finance Analyst Intern
 - Arrowstreet Capital — Quantitative Developer Intern
+- Autodesk — Machine Learning Developer Intern
 - AVEVA — Software Developer Intern Co-op
 - Axogen — AI/ML Engineer Intern
 - Axon — Software Engineering Intern
@@ -147,6 +148,7 @@ _Generated 2026-07-24_
 - General Motors — Research and Development Intern - Research & Development: AI/ML
 - GeoComply — Full Stack Developer Intern
 - GeoComply — Product Operations Intern
+- Golden Pet Brands — Data Analytics Intern
 - Google — Software Developer Intern - BS
 - Google — Software Developer Intern - MS
 - Google — Software Engineer Intern
@@ -168,6 +170,7 @@ _Generated 2026-07-24_
 - Kudu Dynamics — Software Engineer Intern
 - Kudu Dynamics — Software Engineer Intern
 - Kudu Dynamics — Software Engineer Intern
+- LexisNexis Risk Solutions — Editorial Data Reporting Intern
 - Light & Wonder — Mathematics Intern
 - LiveRamp — Software Engineer Intern, Pixel Serving
 - Mackenzie Investments — Data Science and AI Specialist Intern - Investment Management - Fundamental Equity
@@ -237,6 +240,7 @@ _Generated 2026-07-24_
 - T. Rowe Price — Global Trading Intern
 - T. Rowe Price — Quantitative Equity Investing Intern
 - T. Rowe Price — Technology and Data Intern
+- Tesla — Embedded Software Engineer Intern - Embedded Software Engineer - Steering,Chassis Systems
 - Tesla — Firmware Integration Engineer Intern - Software Integration Engineer - Factory Firmware
 - Tesla — Software Engineer Intern - Simulation Platform - Software Engineer
 - Tesla — Software Engineer Intern - Wireless Connectivity Software Engineer - Electronic Devices

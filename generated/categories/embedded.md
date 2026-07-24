@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # ⚙️ Embedded Internships
 
-**38** tracked · **33** open now
+**38** tracked · **32** open now
 
 ## Current openings
 
@@ -30,7 +30,6 @@
 | [Tesla](generated/companies/tesla.md) | [Chassis Integration Engineer Intern, Vehicle Firmware](https://www.tesla.com/careers/search/job/247989?source=Indeed&source=Indeed&tags=organicjob) | Palo Alto, CA | Onsite | 2025-08-08 | Rolling | 🟢 Open | ❔ |
 | [Tesla](generated/companies/tesla.md) | [Chassis Validation Engineer Intern, Vehicle Firmware](https://www.tesla.com/careers/search/job/247990) | Palo Alto, CA | Onsite | 2025-08-08 | Rolling | 🟢 Open | ❔ |
 | [Tesla](generated/companies/tesla.md) | [Embedded Software Engineer Intern - Embedded Software Engineer - Body Controls Firmware](https://www.tesla.com/careers/search/job/270618) | Palo Alto, CA | Onsite | 2026-06-07 | Rolling | 🟢 Open | ❔ |
-| [Tesla](generated/companies/tesla.md) | [Embedded Software Engineer Intern - Embedded Software Engineer - Steering,Chassis Systems](https://www.tesla.com/careers/search/job/274047) | Palo Alto, CA | Onsite | 2026-06-16 | Rolling | 🟢 Open | ❔ |
 | [Tesla](generated/companies/tesla.md) | [Embedded Software Engineer Intern - Keys & Authentication](https://www.tesla.com/careers/search/job/270067) | Palo Alto, CA | Onsite | 2026-06-07 | Rolling | 🟢 Open | ❔ |
 | [Tesla](generated/companies/tesla.md) | [Embedded Software Engineer Intern, Keys & Authentication](https://www.tesla.com/careers/search/job/internship-embedded-software-engineer-keys-authentication-fall-2026-270067) | Palo Alto, CA | Onsite | 2026-05-09 | Rolling | 🟢 Open | ❔ |
 | [Tesla](generated/companies/tesla.md) | [Embedded Software Engineering Intern - Embedded Software Engineer - High Voltage Systems](https://www.tesla.com/careers/search/job/270354) | Palo Alto, CA | Onsite | 2026-06-07 | Rolling | 🟢 Open | ❔ |
@@ -44,6 +43,7 @@
 | [Ciena](generated/companies/ciena.md) | [Embedded Software Engineer Intern](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Engineer-Intern--4-months---September-2026-_R031232) | Ottawa | Onsite | 2026-06-23 | Rolling | 🔴 Closed | ❔ |
 | [Ciena](generated/companies/ciena.md) | [Embedded Software Engineer Intern](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Engineer-Intern--4-months---September-2026-_R031219) | Ottawa | Onsite | 2026-06-23 | Rolling | 🔴 Closed | ❔ |
 | [Robert Bosch Venture Capital](generated/companies/robert-bosch-venture-capital.md) | [Hardware & Embedded Research Intern](https://jobs.smartrecruiters.com/BoschGroup/744000131150005) | Sunnyvale, CA | Onsite | 2026-06-09 | Rolling | 🔴 Closed | ❔ |
+| [Tesla](generated/companies/tesla.md) | [Embedded Software Engineer Intern - Embedded Software Engineer - Steering,Chassis Systems](https://www.tesla.com/careers/search/job/274047) | Palo Alto, CA | Onsite | 2026-06-16 | Rolling | 🔴 Closed | ❔ |
 | [Tesla](generated/companies/tesla.md) | [Firmware Integration Engineer Intern - Software Integration Engineer - Factory Firmware](https://www.tesla.com/careers/search/job/270509) | Palo Alto, CA | Onsite | 2026-06-07 | Rolling | 🔴 Closed | ❔ |
 | [Zipline](generated/companies/zipline.md) | [Embedded Software Engineer Intern](https://www.zipline.com/careers?gh_jid=7765240003) | San Bruno, CA | Onsite | 2026-06-06 | Rolling | 🔴 Closed | ❔ |
 

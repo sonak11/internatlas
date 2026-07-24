@@ -78,6 +78,7 @@
 | [Optiver](generated/companies/optiver.md) | [Software Engineer Intern](https://www.optiver.com/join-us/jobs/8604760002/?gh_jid=8604760002) | Chicago, IL | Onsite | 2026-07-01 | Rolling | 🟢 Open | ❔ |
 | [Optiver](generated/companies/optiver.md) | [Software Engineer Intern](https://www.optiver.com/join-us/jobs/8401052002/?gh_jid=8401052002) | Austin, TX | Onsite | 2026-07-01 | Rolling | 🟢 Open | ❔ |
 | [Output Biosciences](generated/companies/output-biosciences.md) | [Research Intern - Machine Learning](https://jobs.ashbyhq.com/output/da2723ca-a418-49f1-b7da-a4f383dd8239/application) | SF +1 | Onsite | 2026-07-04 | Rolling | 🟢 Open | ❔ |
+| [PDT Partners](generated/companies/pdt-partners.md) | [Software Engineer Intern](https://job-boards.greenhouse.io/pdtpartners/jobs/8077685) | NYC | Onsite | 2026-07-24 | Rolling | 🟢 Open | ❔ |
 | [Persona AI](generated/companies/persona-ai.md) | [Teleoperation Software Engineering Internship](https://jobs.ashbyhq.com/persona.ai/6078fafd-ba34-4c89-b260-7eb15be3cb9c/application) | Houston, TX +1 | Onsite | 2026-07-13 | Rolling | 🟢 Open | ❔ |
 | [Pika](generated/companies/pika.md) | [Research Intern - BS/MS/PhD](https://jobs.ashbyhq.com/pika/e135acb1-2a0b-47b4-81b2-3cb0f787657a/application) | Palo Alto, CA | Onsite | 2026-07-10 | Rolling | 🟢 Open | ❔ |
 | [pony.ai](generated/companies/pony-ai.md) | [Research Intern - Deep Learning](https://apply.workable.com/pony-dot-ai/j/4C1F53EF5D/apply) | Fremont, CA | Onsite | 2026-05-29 | Rolling | 🟢 Open | ❔ |

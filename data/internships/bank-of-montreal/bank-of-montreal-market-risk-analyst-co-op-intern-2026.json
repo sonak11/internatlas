@@ -1,21 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "tesla-embedded-software-engineer-intern-embedded-software-engineer-2026-700c46",
+  "id": "bank-of-montreal-market-risk-analyst-co-op-intern-2026",
   "company": {
-    "name": "Tesla",
-    "slug": "tesla"
+    "name": "Bank of Montreal",
+    "slug": "bank-of-montreal"
   },
-  "role": "Embedded Software Engineer Intern - Embedded Software Engineer - Steering,Chassis Systems",
-  "category": "embedded",
-  "apply_url": "https://www.tesla.com/careers/search/job/274047",
+  "role": "Market Risk Analyst Co-op/Intern",
+  "category": "software-engineering",
+  "apply_url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Market-Risk-Analyst--Fall-2026--Co-op-Internship----4-Months_R260022055",
   "season": "fall",
   "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Palo Alto",
-      "state": "CA",
-      "country": "USA"
+      "city": "Toronto",
+      "country": "ON"
     }
   ],
   "compensation": {
@@ -25,9 +24,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -42,11 +39,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-06-16",
-    "discovered": "2026-07-17",
+    "posted": "2026-07-24",
+    "discovered": "2026-07-24",
     "last_verified": "2026-07-24"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

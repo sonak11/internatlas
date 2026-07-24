@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "tesla-embedded-software-engineer-intern-embedded-software-engineer-2026-700c46",
+  "id": "trillium-equity-trader-intern-2027-d109f0",
   "company": {
-    "name": "Tesla",
-    "slug": "tesla"
+    "name": "Trillium",
+    "slug": "trillium"
   },
-  "role": "Embedded Software Engineer Intern - Embedded Software Engineer - Steering,Chassis Systems",
-  "category": "embedded",
-  "apply_url": "https://www.tesla.com/careers/search/job/274047",
-  "season": "fall",
-  "year": 2026,
+  "role": "Equity Trader Intern",
+  "category": "software-engineering",
+  "apply_url": "https://www.trlm.com/apply/5076067007?gh_jid=5076067007",
+  "season": "summer",
+  "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Palo Alto",
-      "state": "CA",
+      "city": "Miami",
+      "state": "FL",
       "country": "USA"
     }
   ],
@@ -42,11 +42,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-06-16",
-    "discovered": "2026-07-17",
+    "posted": "2026-07-24",
+    "discovered": "2026-07-24",
     "last_verified": "2026-07-24"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

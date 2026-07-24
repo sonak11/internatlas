@@ -1,6 +1,6 @@
 # 📬 InternAtlas Weekly Digest — 2026-07-24
 
-## 🆕 New this week (226)
+## 🆕 New this week (237)
 
 - **AQR Capital Management** — [Trading Analyst Intern](https://careers.aqr.com/jobs?gh_jid=8077110&gh_jid=8077110) · quant · —
 - **AVEVA** — [Software Developer Intern Co-op](https://aveva.wd3.myworkdayjobs.com/en-US/AVEVA_careers/job/Philadelphia-Pennsylvania-United-States-of-America/Software-Developer-Intern--Drexel-Co-op-US_R014478) · software-engineering · —
@@ -17,8 +17,10 @@
 - **Astranis** — [Software Engineer Intern - Enterprise Systems](https://job-boards.greenhouse.io/astranis/jobs/4699071006) · software-engineering · —
 - **Axogen** — [AI/ML Engineer Intern](https://www.axogeninc.com/about-axogen/careers/?gh_jid=8645955002) · machine-learning · —
 - **Axon** — [Software Engineering Intern](https://job-boards.greenhouse.io/axontalentcommunity/jobs/7800617003) · software-engineering · —
+- **Bank of Montreal** — [Market Risk Analyst Co-op/Intern](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Market-Risk-Analyst--Fall-2026--Co-op-Internship----4-Months_R260022055) · software-engineering · —
 - **Bild AI** — [AI/Software Engineer Intern](https://jobs.ashbyhq.com/bild-ai/b333f0f7-0ca6-4509-8697-9303396b5364/application?embed=true) · ai · —
 - **Bloxd** — [Software Engineer Intern](https://jobs.ashbyhq.com/bloxd/7ade559a-d07d-4ffe-b6ec-c79e41632474/application?embed=true) · software-engineering · —
+- **Bosch Home Comfort** — [Autonomous Driving Intern](https://jobs.smartrecruiters.com/BoschGroup/744000139649345) · software-engineering · —
 - **Capital One** — [Data Science Intern](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Current-PhD---Data-Science-Internship---Summer-2027_R244287-1) · data-science · —
 - **Capital One** — [Master's Data Science Internship](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Current-Master-s---Data-Science-Internship---Summer-2027_R244285-1) · data-science · —
 - **Carnegie Mellon University** — [Research Intern - School of Computer Science - Language Technologies Institute](https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Research-Intern---School-of-Computer-Science---LTI_2024870) · research · —
@@ -40,6 +42,7 @@
 - **Ciena** — [Software Engineer Intern](https://ciena.wd5.myworkdayjobs.com/Careers/job/UK--Edinburgh---19A-Canning-St/Software-Engineering-Intern--3-12-Months-_R031332) · software-engineering · —
 - **Circle K** — [Analyst Intern - Global Fuels](https://circlek.wd3.myworkdayjobs.com/circlekstorejobs/job/Nonstore-B152-Charlotte-NC/Analyst-Intern---Global-Fuels_R606611) · software-engineering · —
 - **Cirrus Logic** — [AI Business Analytics Co-op Intern](https://jobs.eu.lever.co/cirrus/f85c944c-d437-4685-9f04-c7b79ae65ecb/apply) · ai · —
+- **City of Austin** — [Austin Aviation Undergraduate Intern - IT Business Systems Analyst](https://austintexas.wd5.myworkdayjobs.com/COA_Careers/job/AUS-Information-Systems-Building-IS/Austin-Aviation--IT-Business-Systems-Analyst---Undergraduate-Intern_JR104583) · software-engineering · —
 - **Cloudflare** — [EIAM Business Enablement & Operations Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8068479?gh_jid=8068479) · software-engineering · —
 - **Commercial Metals** — [AI Intern](https://jobs.cmc.com/job/Irving-AI-Intern-TX-75039/1410297800/?ats=successfactors) · ai · —
 - **Composio** — [Full-stack Intern](https://jobs.ashbyhq.com/composio/4d819015-0b9a-466f-9b41-8e1cc1e5b6d9/application?embed=true) · software-engineering · —
@@ -119,6 +122,7 @@
 - **Kirin** — [Quantitative Research Intern - Prediction Markets](https://jobs.ashbyhq.com/kirin/93648515-7e6c-43f4-bdcb-0c072f22a15a/application?embed=true) · quant · —
 - **Kirin** — [Software Engineer Intern - AI Agents + Devices](https://jobs.ashbyhq.com/kirin/38772f01-84fd-4f09-a36d-e7fa86341b99/application?embed=true) · ai · —
 - **Littelfuse** — [Intern 1 - Engineering](https://littelfuse.wd1.myworkdayjobs.com/Littelfuse-Careers/job/Dole/Intern-I--engineering_JR-112116) · software-engineering · —
+- **Magna** — [R&D-Computer Vision Engineer Intern](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Troy-Michigan-US/R-D--Computer-Vision-Engineering-Intern_R00253444-1) · software-engineering · —
 - **Medpace** — [AI Engineer Intern](https://careers.medpace.com/jobs/12863?icims=1) · ai · —
 - **Mistral AI** — [AI Data Solutions Intern - Data Partnerships](https://jobs.ashbyhq.com/mistral.ai/60fcc44d-4d96-469d-a96c-d6a9bbfe8edd/application?embed=true) · ai · —
 - **Mistral AI** — [Applied Scientist / Research Engineer Intern](https://jobs.ashbyhq.com/mtesting.ai/de46ba8b-00cb-4618-83df-66e15a78434e/application?embed=true) · research · —
@@ -144,7 +148,9 @@
 - **Netic** — [Software Engineer Intern](https://jobs.ashbyhq.com/netic/b0ea7aab-8eea-4d31-96f9-278364180ae7) · software-engineering · —
 - **Neuralink** — [R&D Materials Engineer Intern](https://boards.greenhouse.io/neuralink/jobs/7808233003) · software-engineering · —
 - **Neuralink** — [R&D Materials Engineer Intern](https://boards.greenhouse.io/neuralink/jobs/7808233003?gh_jid=7808233003) · hardware · —
+- **Nextiva** — [Forward Deployed Engineer Intern - AI Implementation](https://www.nextiva.com/company/careers-listing?gh_jid=8639480002) · ai · —
 - **North Cloud** — [AI Automation Intern](https://ats.rippling.com/north-cloud/jobs/9d9d6db9-2da0-45e2-a3d3-6373c61763a4) · ai · —
+- **Northwestern Mutual** — [Investment Analyst Intern - Private Debt & Equity](https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Milwaukee-WI-Corporate/Investment-Analyst-Intern---Private-Debt---Equity--Summer-2027_JR-45705) · software-engineering · —
 - **Odin Dynamics, Inc** — [Engineering Intern](https://jobs.ashbyhq.com/odin-dynamics/db6fe6ed-3517-423d-a757-3b6edea4b51d/application?embed=true) · software-engineering · —
 - **Old Mission** — [Software Engineer Intern](https://www.oldmissioncapital.com/careers/?gh_jid=7796180003) · software-engineering · —
 - **Oligo Space** — [ML/AI/CS Intern](https://jobs.ashbyhq.com/oligo/107f5148-84bd-43ba-a49d-ac8928898ca6/application?embed=true) · machine-learning · —
@@ -153,6 +159,7 @@
 - **Optiver** — [Institutional Trader Intern](https://job-boards.greenhouse.io/optiverprivate/jobs/8402208002) · software-engineering · —
 - **OpusClip** — [AI Research Intern](https://jobs.ashbyhq.com/opusclip/1966160d-8b4a-40f8-96c5-39a6d81122c2/application?embed=true) · ai · —
 - **Outpost Technologies** — [Technical Marketing Intern - Analytics - Research & Automation](https://jobs.ashbyhq.com/outpostnow/6f63d0c8-c332-498f-ac69-08c305f5a9ee/application?embed=true) · research · —
+- **PDT Partners** — [Software Engineer Intern](https://job-boards.greenhouse.io/pdtpartners/jobs/8077685) · software-engineering · —
 - **Palantir Technologies** — [Forward Deployed Infrastructure Engineer Intern](https://jobs.lever.co/palantir/cf5f44ff-1b0b-4752-bcd4-2dc88798f25b) · cloud · —
 - **Palantir Technologies** — [Forward Deployed Infrastructure Engineer Intern](https://jobs.lever.co/palantir/8f362a1f-1eff-4327-94c1-ff46e2101c69) · cloud · —
 - **Palantir Technologies** — [Forward Deployed Infrastructure Engineer Intern](https://jobs.lever.co/palantir/3db7e40a-28e0-4ad1-96c5-93de5bc96aa9) · cloud · —
@@ -178,6 +185,7 @@
 - **Quadrillion** — [Research Intern](https://jobs.ashbyhq.com/quadrillion-labs/579cef88-1dbf-45b5-a938-7ddc23505765/application?embed=true) · research · —
 - **Quadrillion** — [Software Engineer Intern](https://jobs.ashbyhq.com/quadrillion-labs/601e105d-2f0f-4482-9bae-3a825a1b97fd/application?embed=true) · software-engineering · —
 - **Quadrillion** — [Software Engineering Intern](https://jobs.ashbyhq.com/quadrillion-labs/a4acc44c-31ce-41a0-ab44-2500487b4d05/application?embed=true) · software-engineering · —
+- **ROCKWOOL Group** — [Paint & Coating Intern](https://rockwoolgroup.wd3.myworkdayjobs.com/ROCKWOOL/job/Chicago-Illinois/Mono---Paint---Coating-Intern_R0035879) · software-engineering · —
 - **ROCKWOOL Group** — [Product Management Intern](https://rockwoolgroup.wd3.myworkdayjobs.com/ROCKWOOL/job/Chicago-Illinois/Product-Management---Intern_R0035795) · product · —
 - **RTX** — [Machine Learning Researcher Intern/Co-op](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-RTRC-K--411-Silver-Ln--RTRC-K/Fall-2026--Intern-Coop--Machine-Learning-Researcher_01860050) · machine-learning · —
 - **Radix Trading** — [Quantitative Technologist Intern, C++](https://job-boards.greenhouse.io/radixuniversity/jobs/8500265002) · quant · —
@@ -210,6 +218,9 @@
 - **TikTok** — [Product Manager Intern - Tiktok-Product-Search](https://lifeattiktok.com/search/7663349357178620165) · product · —
 - **TransMarket Group** — [DevOps/SRE Intern](https://job-boards.greenhouse.io/transmarketgroup/jobs/5151577007) · cloud · —
 - **TransMarket Group** — [Quantitative Trader Intern](https://job-boards.greenhouse.io/transmarketgroup/jobs/5151569007) · quant · —
+- **Trillium** — [Equity Trader Intern](https://www.trlm.com/apply/5076017007?gh_jid=5076017007) · software-engineering · —
+- **Trillium** — [Equity Trader Intern](https://www.trlm.com/apply/5076067007?gh_jid=5076067007) · software-engineering · —
+- **Trillium** — [Equity Trader Intern](https://www.trlm.com/apply/5076003007?gh_jid=5076003007) · software-engineering · —
 - **University of Virginia** — [Graduate Research Intern](https://uva.wd1.myworkdayjobs.com/uvastudentjobs/job/Charlottesville-VA/CPSJ-Graduate-Research-Intern--Student-Wage-_R0085307) · research · —
 - **Veeda AI** — [AI Scientist Intern - Veeda AI Scientist](https://jobs.ashbyhq.com/veeda-labs/58cc42fb-1d6f-4e5f-860d-3b97bdccc6f4/application?embed=true) · ai · —
 - **Vega Investment Technologies** — [Product Operations Intern](https://jobs.ashbyhq.com/vega/ebce385f-d4d3-4a39-a999-e048877a81e4/application?embed=true) · software-engineering · —

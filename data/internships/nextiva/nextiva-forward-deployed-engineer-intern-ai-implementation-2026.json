@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "tesla-embedded-software-engineer-intern-embedded-software-engineer-2026-700c46",
+  "id": "nextiva-forward-deployed-engineer-intern-ai-implementation-2026",
   "company": {
-    "name": "Tesla",
-    "slug": "tesla"
+    "name": "Nextiva",
+    "slug": "nextiva"
   },
-  "role": "Embedded Software Engineer Intern - Embedded Software Engineer - Steering,Chassis Systems",
-  "category": "embedded",
-  "apply_url": "https://www.tesla.com/careers/search/job/274047",
+  "role": "Forward Deployed Engineer Intern - AI Implementation",
+  "category": "ai",
+  "apply_url": "https://www.nextiva.com/company/careers-listing?gh_jid=8639480002",
   "season": "fall",
   "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Palo Alto",
-      "state": "CA",
+      "city": "Scottsdale",
+      "state": "AZ",
       "country": "USA"
     }
   ],
@@ -25,9 +25,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -42,11 +40,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-06-16",
-    "discovered": "2026-07-17",
+    "posted": "2026-07-24",
+    "discovered": "2026-07-24",
     "last_verified": "2026-07-24"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

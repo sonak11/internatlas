@@ -30,7 +30,6 @@
 | Tesla | [Electronics Design Engineer Intern - Reliability Electronics Design Engineer - Energy Engineering](https://www.tesla.com/careers/search/job/272601) | Palo Alto, CA | Onsite | 2026-06-07 | Rolling | 🟢 Open | ❔ |
 | Tesla | [Embedded Software Engineer Intern - AI Platforms - Embedded Software Engineer](https://www.tesla.com/careers/search/job/269819) | Palo Alto, CA | Onsite | 2026-05-06 | Rolling | 🟢 Open | ❔ |
 | Tesla | [Embedded Software Engineer Intern - Embedded Software Engineer - Body Controls Firmware](https://www.tesla.com/careers/search/job/270618) | Palo Alto, CA | Onsite | 2026-06-07 | Rolling | 🟢 Open | ❔ |
-| Tesla | [Embedded Software Engineer Intern - Embedded Software Engineer - Steering,Chassis Systems](https://www.tesla.com/careers/search/job/274047) | Palo Alto, CA | Onsite | 2026-06-16 | Rolling | 🟢 Open | ❔ |
 | Tesla | [Embedded Software Engineer Intern - Keys & Authentication](https://www.tesla.com/careers/search/job/270067) | Palo Alto, CA | Onsite | 2026-06-07 | Rolling | 🟢 Open | ❔ |
 | Tesla | [Embedded Software Engineer Intern, Keys & Authentication](https://www.tesla.com/careers/search/job/internship-embedded-software-engineer-keys-authentication-fall-2026-270067) | Palo Alto, CA | Onsite | 2026-05-09 | Rolling | 🟢 Open | ❔ |
 | Tesla | [Embedded Software Engineering Intern - Embedded Software Engineer - High Voltage Systems](https://www.tesla.com/careers/search/job/270354) | Palo Alto, CA | Onsite | 2026-06-07 | Rolling | 🟢 Open | ❔ |
@@ -101,6 +100,7 @@
 | Tesla | [Systems Modeling & Optimization Intern - Robotaxi Simulation Engineer - Systems Modeling & Optimization](https://www.tesla.com/careers/search/job/273933) | Palo Alto, CA | Onsite | 2026-06-16 | Rolling | 🟢 Open | ❔ |
 | Tesla | [Thermal Controls Engineer Intern - Thermal Controls Engineer - Vehicle Controls](https://www.tesla.com/careers/search/job/275327) | Palo Alto, CA | Onsite | 2026-06-30 | Rolling | 🟢 Open | ❔ |
 | Tesla | [Vehicle Software Intern - Torque Path & Chassis Controls](https://www.tesla.com/careers/search/job/274760) | Palo Alto, CA | Onsite | 2026-07-01 | Rolling | 🟢 Open | ❔ |
+| Tesla | [Embedded Software Engineer Intern - Embedded Software Engineer - Steering,Chassis Systems](https://www.tesla.com/careers/search/job/274047) | Palo Alto, CA | Onsite | 2026-06-16 | Rolling | 🔴 Closed | ❔ |
 | Tesla | [Firmware Integration Engineer Intern - Software Integration Engineer - Factory Firmware](https://www.tesla.com/careers/search/job/270509) | Palo Alto, CA | Onsite | 2026-06-07 | Rolling | 🔴 Closed | ❔ |
 | Tesla | [Software Engineer Intern - Simulation Platform - Software Engineer](https://www.tesla.com/careers/search/job/270356) | Palo Alto, CA | Onsite | 2026-06-07 | Rolling | 🔴 Closed | ❔ |
 | Tesla | [Software Engineer Intern - Wireless Connectivity Software Engineer - Electronic Devices](https://www.tesla.com/careers/search/job/269792) | Palo Alto, CA | Onsite | 2026-06-07 | Rolling | 🔴 Closed | ❔ |
