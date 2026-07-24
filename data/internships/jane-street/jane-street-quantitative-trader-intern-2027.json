@@ -1,21 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "akuna-capital-hardware-engineer-intern-summer-2027-2027",
+  "id": "jane-street-quantitative-trader-intern-2027",
   "company": {
-    "name": "Akuna Capital",
-    "slug": "akuna-capital",
-    "career_page": "https://akunacapital.com/careers"
+    "name": "Jane Street",
+    "slug": "jane-street"
   },
-  "role": "Hardware Engineer Intern, Summer 2027",
-  "category": "hardware",
-  "apply_url": "https://www.akunacapital.com/careers/job/8018880/?gh_jid=8018880",
+  "role": "Quantitative Trader Intern",
+  "category": "quant",
+  "apply_url": "https://www.janestreet.com/join-jane-street/position/8617344002/",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Chicago",
-      "state": "IL",
+      "city": "New York",
+      "state": "NY",
       "country": "USA"
     }
   ],
@@ -26,13 +25,10 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters",
-      "phd"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
-    "visa_sponsorship": "unknown"
+    "visa_sponsorship": "yes"
   },
   "interview": {},
   "tech": {
@@ -44,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-13",
-    "discovered": "2026-07-18",
+    "posted": "2026-07-24",
+    "discovered": "2026-07-24",
     "last_verified": "2026-07-24"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:ats"
+    "src:vanshb03"
   ]
 }

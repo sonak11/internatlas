@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0",
+  "id": "palantir-technologies-forward-deployed-infrastructure-engineer-intern-2026-6e2dc7",
+  "company": {
+    "name": "Palantir Technologies",
+    "slug": "palantir-technologies"
+  },
+  "role": "Forward Deployed Infrastructure Engineer Intern",
+  "category": "cloud",
+  "apply_url": "https://jobs.lever.co/palantir/cf5f44ff-1b0b-4752-bcd4-2dc88798f25b",
+  "season": "fall",
+  "year": 2026,
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "New York",
+      "state": "NY",
+      "country": "USA"
+    }
+  ],
+  "compensation": {
+    "currency": "USD",
+    "housing_stipend": false,
+    "relocation_assistance": false
+  },
+  "eligibility": {
+    "graduation_years": [],
+    "degree_levels": [],
+    "citizenship_required": true,
+    "security_clearance_required": false,
+    "visa_sponsorship": "no"
+  },
+  "interview": {},
+  "tech": {
+    "required_skills": [],
+    "preferred_skills": [],
+    "languages": [],
+    "frameworks": [],
+    "cloud_platforms": [],
+    "resume_keywords": []
+  },
+  "dates": {
+    "posted": "2026-07-24",
+    "discovered": "2026-07-24",
+    "last_verified": "2026-07-24"
+  },
+  "status": "open",
+  "tags": [
+    "auto-ingested",
+    "src:vanshb03"
+  ]
+}

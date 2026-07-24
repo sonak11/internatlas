@@ -1,21 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "akuna-capital-quantitative-research-intern-summer-2027-2027",
+  "id": "fab2-software-engineering-intern-2026",
   "company": {
-    "name": "Akuna Capital",
-    "slug": "akuna-capital",
-    "career_page": "https://akunacapital.com/careers"
+    "name": "fab2",
+    "slug": "fab2"
   },
-  "role": "Quantitative Research Intern, Summer 2027",
-  "category": "quant",
-  "apply_url": "https://www.akunacapital.com/careers/job/8036614/?gh_jid=8036614",
-  "season": "summer",
-  "year": 2027,
+  "role": "Software Engineering Intern",
+  "category": "software-engineering",
+  "apply_url": "https://jobs.ashbyhq.com/fab2/947338ca-e135-4398-9aa3-79e131bc03d5?embed=true",
+  "season": "fall",
+  "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Chicago",
-      "state": "IL",
+      "city": "San Francisco",
+      "state": "CA",
       "country": "USA"
     }
   ],
@@ -26,13 +25,10 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters",
-      "phd"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
-    "visa_sponsorship": "unknown"
+    "visa_sponsorship": "yes"
   },
   "interview": {},
   "tech": {
@@ -44,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-13",
-    "discovered": "2026-07-18",
+    "posted": "2026-07-24",
+    "discovered": "2026-07-24",
     "last_verified": "2026-07-24"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:ats"
+    "src:vanshb03"
   ]
 }

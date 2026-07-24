@@ -1,21 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "akuna-capital-software-engineer-intern-python-summer-2027-2027",
+  "id": "jane-street-tools-and-compilers-research-and-development-intern-2027",
   "company": {
-    "name": "Akuna Capital",
-    "slug": "akuna-capital",
-    "career_page": "https://akunacapital.com/careers"
+    "name": "Jane Street",
+    "slug": "jane-street"
   },
-  "role": "Software Engineer Intern - Python, Summer 2027",
-  "category": "quant",
-  "apply_url": "https://www.akunacapital.com/careers/job/8018853/?gh_jid=8018853",
+  "role": "Tools and Compilers Research and Development Intern",
+  "category": "research",
+  "apply_url": "https://www.janestreet.com/join-jane-street/position/5869205002/",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Chicago",
-      "state": "IL",
+      "city": "New York",
+      "state": "NY",
       "country": "USA"
     }
   ],
@@ -26,13 +25,10 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters",
-      "phd"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
-    "visa_sponsorship": "unknown"
+    "visa_sponsorship": "yes"
   },
   "interview": {},
   "tech": {
@@ -44,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-13",
-    "discovered": "2026-07-18",
+    "posted": "2026-07-24",
+    "discovered": "2026-07-24",
     "last_verified": "2026-07-24"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:ats"
+    "src:vanshb03"
   ]
 }

@@ -1,6 +1,6 @@
 {
   "generated": "2026-07-24",
-  "count": 909,
+  "count": 965,
   "internships": [
     {
       "schema_version": "1.0",
@@ -587,15 +587,14 @@
     },
     {
       "schema_version": "1.0",
-      "id": "akuna-capital-hardware-engineer-intern-summer-2027-2027",
+      "id": "akuna-capital-hardware-engineer-intern-2027",
       "company": {
         "name": "Akuna Capital",
-        "slug": "akuna-capital",
-        "career_page": "https://akunacapital.com/careers"
+        "slug": "akuna-capital"
       },
-      "role": "Hardware Engineer Intern, Summer 2027",
+      "role": "Hardware Engineer Intern",
       "category": "hardware",
-      "apply_url": "https://www.akunacapital.com/careers/job/8018880/?gh_jid=8018880",
+      "apply_url": "https://akunacapital.com/careers/job/8018880/?gh_jid=8018880",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
@@ -613,13 +612,10 @@
       },
       "eligibility": {
         "graduation_years": [],
-        "degree_levels": [
-          "masters",
-          "phd"
-        ],
-        "citizenship_required": false,
+        "degree_levels": [],
+        "citizenship_required": true,
         "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
+        "visa_sponsorship": "no"
       },
       "interview": {},
       "tech": {
@@ -632,26 +628,293 @@
       },
       "dates": {
         "posted": "2026-07-13",
-        "discovered": "2026-07-18",
+        "discovered": "2026-07-24",
         "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
         "auto-ingested",
-        "src:ats"
+        "src:vanshb03"
       ]
     },
     {
       "schema_version": "1.0",
-      "id": "akuna-capital-platform-engineer-intern-summer-2027-2027",
+      "id": "akuna-capital-platform-engineer-intern-2027",
       "company": {
         "name": "Akuna Capital",
-        "slug": "akuna-capital",
-        "career_page": "https://akunacapital.com/careers"
+        "slug": "akuna-capital"
       },
-      "role": "Platform Engineer Intern, Summer 2027",
+      "role": "Platform Engineer Intern",
       "category": "cloud",
-      "apply_url": "https://www.akunacapital.com/careers/job/8018856/?gh_jid=8018856",
+      "apply_url": "https://akunacapital.com/careers/job/8018856/?gh_jid=8018856",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Chicago",
+          "state": "IL",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": true,
+        "security_clearance_required": false,
+        "visa_sponsorship": "no"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-13",
+        "discovered": "2026-07-24",
+        "last_verified": "2026-07-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "akuna-capital-python-software-engineer-intern-2027",
+      "company": {
+        "name": "Akuna Capital",
+        "slug": "akuna-capital"
+      },
+      "role": "Python Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://akunacapital.com/careers/job/8018853/?gh_jid=8018853",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Chicago",
+          "state": "IL",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": true,
+        "security_clearance_required": false,
+        "visa_sponsorship": "no"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-13",
+        "discovered": "2026-07-24",
+        "last_verified": "2026-07-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "akuna-capital-quantitative-development-strategy-intern-2027",
+      "company": {
+        "name": "Akuna Capital",
+        "slug": "akuna-capital"
+      },
+      "role": "Quantitative Development & Strategy Intern",
+      "category": "quant",
+      "apply_url": "https://akunacapital.com/careers/job/8021481/?gh_jid=8021481",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Chicago",
+          "country": "USA"
+        },
+        {
+          "city": "Chicago",
+          "state": "IL",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": true,
+        "security_clearance_required": false,
+        "visa_sponsorship": "no"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-13",
+        "discovered": "2026-07-24",
+        "last_verified": "2026-07-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "akuna-capital-quantitative-research-intern-2027",
+      "company": {
+        "name": "Akuna Capital",
+        "slug": "akuna-capital"
+      },
+      "role": "Quantitative Research Intern",
+      "category": "quant",
+      "apply_url": "https://akunacapital.com/careers/job/8036614/?gh_jid=8036614",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Chicago",
+          "country": "USA"
+        },
+        {
+          "city": "Chicago",
+          "state": "IL",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": true,
+        "security_clearance_required": false,
+        "visa_sponsorship": "no"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-13",
+        "discovered": "2026-07-24",
+        "last_verified": "2026-07-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "akuna-capital-software-engineer-intern-c-2027",
+      "company": {
+        "name": "Akuna Capital",
+        "slug": "akuna-capital"
+      },
+      "role": "Software Engineer Intern, C++",
+      "category": "software-engineering",
+      "apply_url": "https://akunacapital.com/careers/job/8018847/?gh_jid=8018847",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Chicago",
+          "state": "IL",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": true,
+        "security_clearance_required": false,
+        "visa_sponsorship": "no"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-13",
+        "discovered": "2026-07-24",
+        "last_verified": "2026-07-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "akuna-capital-software-engineer-intern-c-net-desktop-2027",
+      "company": {
+        "name": "Akuna Capital",
+        "slug": "akuna-capital"
+      },
+      "role": "Software Engineer Intern, C# .NET Desktop",
+      "category": "software-engineering",
+      "apply_url": "https://akunacapital.com/careers/job/8018886/?gh_jid=8018886",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
@@ -685,26 +948,25 @@
       },
       "dates": {
         "posted": "2026-07-13",
-        "discovered": "2026-07-18",
+        "discovered": "2026-07-24",
         "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
         "auto-ingested",
-        "src:ats"
+        "src:vanshb03"
       ]
     },
     {
       "schema_version": "1.0",
-      "id": "akuna-capital-quantitative-development-strategy-intern-summer-2027-2027",
+      "id": "akuna-capital-software-engineer-intern-full-stack-web-2027",
       "company": {
         "name": "Akuna Capital",
-        "slug": "akuna-capital",
-        "career_page": "https://akunacapital.com/careers"
+        "slug": "akuna-capital"
       },
-      "role": "Quantitative Development & Strategy Intern, Summer 2027",
-      "category": "quant",
-      "apply_url": "https://www.akunacapital.com/careers/job/8021481/?gh_jid=8021481",
+      "role": "Software Engineer Intern, Full Stack Web",
+      "category": "software-engineering",
+      "apply_url": "https://akunacapital.com/careers/job/8018893/?gh_jid=8018893",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
@@ -722,13 +984,10 @@
       },
       "eligibility": {
         "graduation_years": [],
-        "degree_levels": [
-          "masters",
-          "phd"
-        ],
-        "citizenship_required": false,
+        "degree_levels": [],
+        "citizenship_required": true,
         "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
+        "visa_sponsorship": "no"
       },
       "interview": {},
       "tech": {
@@ -741,293 +1000,13 @@
       },
       "dates": {
         "posted": "2026-07-13",
-        "discovered": "2026-07-18",
+        "discovered": "2026-07-24",
         "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
         "auto-ingested",
-        "src:ats"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "akuna-capital-quantitative-research-intern-summer-2027-2027",
-      "company": {
-        "name": "Akuna Capital",
-        "slug": "akuna-capital",
-        "career_page": "https://akunacapital.com/careers"
-      },
-      "role": "Quantitative Research Intern, Summer 2027",
-      "category": "quant",
-      "apply_url": "https://www.akunacapital.com/careers/job/8036614/?gh_jid=8036614",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Chicago",
-          "state": "IL",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [
-          "masters",
-          "phd"
-        ],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-07-13",
-        "discovered": "2026-07-18",
-        "last_verified": "2026-07-24"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:ats"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "akuna-capital-software-engineer-intern-c-net-desktop-summer-2027-2027",
-      "company": {
-        "name": "Akuna Capital",
-        "slug": "akuna-capital",
-        "career_page": "https://akunacapital.com/careers"
-      },
-      "role": "Software Engineer Intern - C# .NET Desktop, Summer 2027",
-      "category": "quant",
-      "apply_url": "https://www.akunacapital.com/careers/job/8018886/?gh_jid=8018886",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Chicago",
-          "state": "IL",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [
-          "masters",
-          "phd"
-        ],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-07-13",
-        "discovered": "2026-07-18",
-        "last_verified": "2026-07-24"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:ats"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "akuna-capital-software-engineer-intern-c-summer-2027-2027",
-      "company": {
-        "name": "Akuna Capital",
-        "slug": "akuna-capital",
-        "career_page": "https://akunacapital.com/careers"
-      },
-      "role": "Software Engineer Intern - C++, Summer 2027",
-      "category": "quant",
-      "apply_url": "https://www.akunacapital.com/careers/job/8018847/?gh_jid=8018847",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Chicago",
-          "state": "IL",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [
-          "masters",
-          "phd"
-        ],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-07-13",
-        "discovered": "2026-07-18",
-        "last_verified": "2026-07-24"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:ats"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "akuna-capital-software-engineer-intern-full-stack-web-summer-2027-2027",
-      "company": {
-        "name": "Akuna Capital",
-        "slug": "akuna-capital",
-        "career_page": "https://akunacapital.com/careers"
-      },
-      "role": "Software Engineer Intern - Full Stack Web, Summer 2027",
-      "category": "quant",
-      "apply_url": "https://www.akunacapital.com/careers/job/8018893/?gh_jid=8018893",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Chicago",
-          "state": "IL",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [
-          "masters",
-          "phd"
-        ],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-07-13",
-        "discovered": "2026-07-18",
-        "last_verified": "2026-07-24"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:ats"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "akuna-capital-software-engineer-intern-python-summer-2027-2027",
-      "company": {
-        "name": "Akuna Capital",
-        "slug": "akuna-capital",
-        "career_page": "https://akunacapital.com/careers"
-      },
-      "role": "Software Engineer Intern - Python, Summer 2027",
-      "category": "quant",
-      "apply_url": "https://www.akunacapital.com/careers/job/8018853/?gh_jid=8018853",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Chicago",
-          "state": "IL",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [
-          "masters",
-          "phd"
-        ],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-07-13",
-        "discovered": "2026-07-18",
-        "last_verified": "2026-07-24"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:ats"
+        "src:vanshb03"
       ]
     },
     {
@@ -4491,6 +4470,11 @@
         {
           "city": "SF",
           "country": "USA"
+        },
+        {
+          "city": "San Francisco",
+          "state": "CA",
+          "country": "USA"
         }
       ],
       "compensation": {
@@ -5983,7 +5967,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-24"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -6621,7 +6605,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-24"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -7174,7 +7158,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-24"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -11680,7 +11664,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-24"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -11834,6 +11818,57 @@
       "tags": [
         "auto-ingested",
         "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "deepgram-software-engineering-intern-2027",
+      "company": {
+        "name": "Deepgram",
+        "slug": "deepgram"
+      },
+      "role": "Software Engineering Intern",
+      "category": "software-engineering",
+      "apply_url": "https://jobs.ashbyhq.com/deepgram/dc8693b5-72ce-4ca3-ab15-9c8434d35da1",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-24",
+        "discovered": "2026-07-24",
+        "last_verified": "2026-07-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03",
+        "remote-available"
       ]
     },
     {
@@ -14577,6 +14612,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "fab2-software-engineering-intern-2026",
+      "company": {
+        "name": "fab2",
+        "slug": "fab2"
+      },
+      "role": "Software Engineering Intern",
+      "category": "software-engineering",
+      "apply_url": "https://jobs.ashbyhq.com/fab2/947338ca-e135-4398-9aa3-79e131bc03d5?embed=true",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Francisco",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "yes"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-24",
+        "discovered": "2026-07-24",
+        "last_verified": "2026-07-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "figure-firmware-intern-2026",
       "company": {
         "name": "Figure",
@@ -14891,6 +14978,62 @@
     },
     {
       "schema_version": "1.0",
+      "id": "five-rings-software-developer-intern-2027",
+      "company": {
+        "name": "Five Rings",
+        "slug": "five-rings"
+      },
+      "role": "Software Developer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5349707008",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "New York",
+          "state": "NY",
+          "country": "USA"
+        },
+        {
+          "city": "New York",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": true,
+        "security_clearance_required": false,
+        "visa_sponsorship": "no"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-14",
+        "discovered": "2026-07-24",
+        "last_verified": "2026-07-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "five-rings-summer-intern-2027-quantitative-researcher-phd-2027",
       "company": {
         "name": "Five Rings",
@@ -14952,58 +15095,6 @@
       "role": "Summer Intern 2027 - Quantitative Trader",
       "category": "quant",
       "apply_url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5139668008",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "New York",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-07-14",
-        "discovered": "2026-07-23",
-        "last_verified": "2026-07-24"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:ats"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "five-rings-summer-intern-2027-software-developer-2027",
-      "company": {
-        "name": "Five Rings",
-        "slug": "five-rings",
-        "career_page": "https://fiverings.com/careers"
-      },
-      "role": "Summer Intern 2027 - Software Developer",
-      "category": "quant",
-      "apply_url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5349707008",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
@@ -17363,6 +17454,203 @@
     },
     {
       "schema_version": "1.0",
+      "id": "google-software-engineering-intern-2027",
+      "company": {
+        "name": "Google",
+        "slug": "google"
+      },
+      "role": "Software Engineering Intern",
+      "category": "software-engineering",
+      "apply_url": "https://www.google.com/about/careers/applications/jobs/results/85564713261245126-software-engineering-intern-bs-summer-2027",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Mountain View",
+          "state": "CA",
+          "country": "USA"
+        },
+        {
+          "city": "Atlanta",
+          "state": "GA",
+          "country": "USA"
+        },
+        {
+          "city": "Austin",
+          "state": "TX",
+          "country": "USA"
+        },
+        {
+          "city": "Boulder",
+          "state": "CO",
+          "country": "USA"
+        },
+        {
+          "city": "Cambridge",
+          "state": "MA",
+          "country": "USA"
+        },
+        {
+          "city": "Bellevue",
+          "state": "WA",
+          "country": "USA"
+        },
+        {
+          "city": "Chicago",
+          "state": "IL",
+          "country": "USA"
+        },
+        {
+          "city": "Houston",
+          "state": "TX",
+          "country": "USA"
+        },
+        {
+          "city": "Irvine",
+          "state": "CA",
+          "country": "USA"
+        },
+        {
+          "city": "Kirkland",
+          "state": "WA",
+          "country": "USA"
+        },
+        {
+          "city": "Los Angeles",
+          "state": "CA",
+          "country": "USA"
+        },
+        {
+          "city": "Madison",
+          "state": "WI",
+          "country": "USA"
+        },
+        {
+          "city": "New York",
+          "state": "NY",
+          "country": "USA"
+        },
+        {
+          "city": "Palo Alto",
+          "state": "CA",
+          "country": "USA"
+        },
+        {
+          "city": "Portland",
+          "state": "OR",
+          "country": "USA"
+        },
+        {
+          "city": "Pittsburgh",
+          "state": "PA",
+          "country": "USA"
+        },
+        {
+          "city": "Raleigh",
+          "state": "NC",
+          "country": "USA"
+        },
+        {
+          "city": "Durham",
+          "state": "NC",
+          "country": "USA"
+        },
+        {
+          "city": "Reston",
+          "state": "VA",
+          "country": "USA"
+        },
+        {
+          "city": "Redmond",
+          "state": "WA",
+          "country": "USA"
+        },
+        {
+          "city": "Redwood City",
+          "state": "CA",
+          "country": "USA"
+        },
+        {
+          "city": "San Diego",
+          "state": "CA",
+          "country": "USA"
+        },
+        {
+          "city": "Goleta",
+          "state": "CA",
+          "country": "USA"
+        },
+        {
+          "city": "San Bruno",
+          "state": "CA",
+          "country": "USA"
+        },
+        {
+          "city": "Seattle",
+          "state": "WA",
+          "country": "USA"
+        },
+        {
+          "city": "San Francisco",
+          "state": "CA",
+          "country": "USA"
+        },
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        },
+        {
+          "city": "Santa Cruz",
+          "state": "CA",
+          "country": "USA"
+        },
+        {
+          "city": "South San Francisco",
+          "state": "CA",
+          "country": "USA"
+        },
+        {
+          "city": "Sunnyvale",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-24",
+        "discovered": "2026-07-24",
+        "last_verified": "2026-07-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "grant-thornton-tax-technology-intern-summer-2027-2027",
       "company": {
         "name": "Grant Thornton",
@@ -18726,6 +19014,120 @@
       "tags": [
         "auto-ingested",
         "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "hudson-river-trading-intern-2027",
+      "company": {
+        "name": "Hudson River Trading",
+        "slug": "hudson-river-trading"
+      },
+      "role": "Intern",
+      "category": "software-engineering",
+      "apply_url": "https://www.hudsonrivertrading.com/hrt-job/algorithm-development-quant-research-internship-summer-2027/",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "New York",
+          "state": "NY",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-24",
+        "discovered": "2026-07-24",
+        "last_verified": "2026-07-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "hudson-river-trading-software-engineer-intern-2027",
+      "company": {
+        "name": "Hudson River Trading",
+        "slug": "hudson-river-trading"
+      },
+      "role": "Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-c-or-python-summer-2027/",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Austin",
+          "state": "TX",
+          "country": "USA"
+        },
+        {
+          "city": "Chicago",
+          "state": "IL",
+          "country": "USA"
+        },
+        {
+          "city": "New York",
+          "state": "NY",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-24",
+        "discovered": "2026-07-24",
+        "last_verified": "2026-07-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
       ]
     },
     {
@@ -20331,7 +20733,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-24"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -20496,6 +20898,838 @@
       "tags": [
         "auto-ingested",
         "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "jane-street-cybersecurity-analyst-intern-2027",
+      "company": {
+        "name": "Jane Street",
+        "slug": "jane-street"
+      },
+      "role": "Cybersecurity Analyst Intern",
+      "category": "security",
+      "apply_url": "https://www.janestreet.com/join-jane-street/position/8632723002/",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "New York",
+          "state": "NY",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "yes"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-24",
+        "discovered": "2026-07-24",
+        "last_verified": "2026-07-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "jane-street-data-engineer-intern-2027",
+      "company": {
+        "name": "Jane Street",
+        "slug": "jane-street"
+      },
+      "role": "Data Engineer Intern",
+      "category": "data-engineering",
+      "apply_url": "https://www.janestreet.com/join-jane-street/position/8631973002/",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "New York",
+          "state": "NY",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "yes"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-24",
+        "discovered": "2026-07-24",
+        "last_verified": "2026-07-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "jane-street-fundamental-research-analyst-intern-2027",
+      "company": {
+        "name": "Jane Street",
+        "slug": "jane-street"
+      },
+      "role": "Fundamental Research Analyst Intern",
+      "category": "research",
+      "apply_url": "https://www.janestreet.com/join-jane-street/position/8347286002/",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "New York",
+          "state": "NY",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-24",
+        "discovered": "2026-07-24",
+        "last_verified": "2026-07-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "jane-street-hardware-engineer-fpga-asic-intern-2027",
+      "company": {
+        "name": "Jane Street",
+        "slug": "jane-street"
+      },
+      "role": "Hardware Engineer (FPGA/ASIC) Intern",
+      "category": "hardware",
+      "apply_url": "https://www.janestreet.com/join-jane-street/position/8624440002/",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "New York",
+          "state": "NY",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-24",
+        "discovered": "2026-07-24",
+        "last_verified": "2026-07-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "jane-street-linux-engineer-intern-2027",
+      "company": {
+        "name": "Jane Street",
+        "slug": "jane-street"
+      },
+      "role": "Linux Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://www.janestreet.com/join-jane-street/position/8626260002/",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "New York",
+          "state": "NY",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-24",
+        "discovered": "2026-07-24",
+        "last_verified": "2026-07-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "jane-street-machine-learning-engineer-intern-2027",
+      "company": {
+        "name": "Jane Street",
+        "slug": "jane-street"
+      },
+      "role": "Machine Learning Engineer Intern",
+      "category": "machine-learning",
+      "apply_url": "https://www.janestreet.com/join-jane-street/position/8611307002/",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "New York",
+          "state": "NY",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-24",
+        "discovered": "2026-07-24",
+        "last_verified": "2026-07-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "jane-street-machine-learning-researcher-intern-2027",
+      "company": {
+        "name": "Jane Street",
+        "slug": "jane-street"
+      },
+      "role": "Machine Learning Researcher Intern",
+      "category": "machine-learning",
+      "apply_url": "https://www.janestreet.com/join-jane-street/position/8384490002/",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "New York",
+          "state": "NY",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "yes"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-24",
+        "discovered": "2026-07-24",
+        "last_verified": "2026-07-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "jane-street-network-engineer-intern-2027",
+      "company": {
+        "name": "Jane Street",
+        "slug": "jane-street"
+      },
+      "role": "Network Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://www.janestreet.com/join-jane-street/position/8620793002/",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "New York",
+          "state": "NY",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "yes"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-24",
+        "discovered": "2026-07-24",
+        "last_verified": "2026-07-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "jane-street-quantitative-researcher-intern-2027",
+      "company": {
+        "name": "Jane Street",
+        "slug": "jane-street"
+      },
+      "role": "Quantitative Researcher Intern",
+      "category": "quant",
+      "apply_url": "https://www.janestreet.com/join-jane-street/position/8498547002/",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "New York",
+          "state": "NY",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "yes"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-24",
+        "discovered": "2026-07-24",
+        "last_verified": "2026-07-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "jane-street-quantitative-trader-intern-2027",
+      "company": {
+        "name": "Jane Street",
+        "slug": "jane-street"
+      },
+      "role": "Quantitative Trader Intern",
+      "category": "quant",
+      "apply_url": "https://www.janestreet.com/join-jane-street/position/8617344002/",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "New York",
+          "state": "NY",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "yes"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-24",
+        "discovered": "2026-07-24",
+        "last_verified": "2026-07-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "jane-street-sales-and-trading-intern-2027",
+      "company": {
+        "name": "Jane Street",
+        "slug": "jane-street"
+      },
+      "role": "Sales and Trading Intern",
+      "category": "quant",
+      "apply_url": "https://www.janestreet.com/join-jane-street/position/8347385002/",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "New York",
+          "state": "NY",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "yes"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-24",
+        "discovered": "2026-07-24",
+        "last_verified": "2026-07-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "jane-street-software-engineer-intern-2027-d73805",
+      "company": {
+        "name": "Jane Street",
+        "slug": "jane-street"
+      },
+      "role": "Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://www.janestreet.com/join-jane-street/position/8599644002/",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "New York",
+          "state": "NY",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-24",
+        "discovered": "2026-07-24",
+        "last_verified": "2026-07-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "jane-street-software-engineer-intern-2027",
+      "company": {
+        "name": "Jane Street",
+        "slug": "jane-street"
+      },
+      "role": "Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://www.janestreet.com/join-jane-street/position/8419303002/",
+      "season": "spring",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "New York",
+          "state": "NY",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "yes"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-24",
+        "discovered": "2026-07-24",
+        "last_verified": "2026-07-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "jane-street-tools-and-compilers-research-and-development-intern-2027",
+      "company": {
+        "name": "Jane Street",
+        "slug": "jane-street"
+      },
+      "role": "Tools and Compilers Research and Development Intern",
+      "category": "research",
+      "apply_url": "https://www.janestreet.com/join-jane-street/position/5869205002/",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "New York",
+          "state": "NY",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "yes"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-24",
+        "discovered": "2026-07-24",
+        "last_verified": "2026-07-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "jane-street-trading-desk-operations-engineer-intern-2027",
+      "company": {
+        "name": "Jane Street",
+        "slug": "jane-street"
+      },
+      "role": "Trading Desk Operations Engineer Intern",
+      "category": "quant",
+      "apply_url": "https://www.janestreet.com/join-jane-street/position/8621450002/",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "New York",
+          "state": "NY",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-24",
+        "discovered": "2026-07-24",
+        "last_verified": "2026-07-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "jane-street-windows-engineer-intern-2027",
+      "company": {
+        "name": "Jane Street",
+        "slug": "jane-street"
+      },
+      "role": "Windows Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://www.janestreet.com/join-jane-street/position/8628843002/",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "New York",
+          "state": "NY",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-24",
+        "discovered": "2026-07-24",
+        "last_verified": "2026-07-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
       ]
     },
     {
@@ -23138,7 +24372,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-24"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -23190,7 +24424,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-24"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -23242,7 +24476,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-24"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -23552,7 +24786,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-24"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -25646,7 +26880,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "mobius-renewables-software-engineer-intern-2026",
+      "id": "mobius-renewables-software-engineer-intern-2026-cba358",
       "company": {
         "name": "Mobius Renewables",
         "slug": "mobius-renewables"
@@ -25687,13 +26921,65 @@
       },
       "dates": {
         "posted": "2026-07-21",
-        "discovered": "2026-07-21",
+        "discovered": "2026-07-24",
         "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "mobius-renewables-software-engineer-intern-2026",
+      "company": {
+        "name": "Mobius Renewables",
+        "slug": "mobius-renewables"
+      },
+      "role": "Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://ats.rippling.com/en-GB/greengas/jobs/b2938290-cc66-4f54-9888-bbe286c1d9b6",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Houston",
+          "state": "TX",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "no"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-24",
+        "discovered": "2026-07-21",
+        "last_verified": "2026-07-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
       ]
     },
     {
@@ -25750,12 +27036,12 @@
     },
     {
       "schema_version": "1.0",
-      "id": "moog-software-engineering-intern-2026",
+      "id": "moog-software-engineer-intern-fleet-health-instrumentation-2026",
       "company": {
         "name": "Moog",
         "slug": "moog"
       },
-      "role": "Software Engineering Intern",
+      "role": "Software Engineer Intern, Fleet Health Instrumentation",
       "category": "software-engineering",
       "apply_url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Software-Engineering_R-26-18885-1",
       "season": "fall",
@@ -25763,12 +27049,12 @@
       "work_mode": "onsite",
       "locations": [
         {
-          "city": "Boston",
+          "city": "Buffalo",
           "state": "NY",
           "country": "USA"
         },
         {
-          "city": "Buffalo",
+          "city": "Boston",
           "state": "NY",
           "country": "USA"
         }
@@ -25798,18 +27084,18 @@
       },
       "dates": {
         "posted": "2026-07-22",
-        "discovered": "2026-07-23",
+        "discovered": "2026-07-24",
         "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
         "auto-ingested",
-        "src:simplify"
+        "src:vanshb03"
       ]
     },
     {
       "schema_version": "1.0",
-      "id": "moon-software-engineer-intern-backend-api-2026",
+      "id": "moon-software-engineer-intern-backend-api-2026-51a70b",
       "company": {
         "name": "Moon",
         "slug": "moon"
@@ -25850,13 +27136,65 @@
       },
       "dates": {
         "posted": "2026-07-21",
-        "discovered": "2026-07-21",
+        "discovered": "2026-07-24",
         "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "moon-software-engineer-intern-backend-api-2026",
+      "company": {
+        "name": "Moon",
+        "slug": "moon"
+      },
+      "role": "Software Engineer Intern, Backend & API",
+      "category": "software-engineering",
+      "apply_url": "https://ats.rippling.com/en-GB/moon/jobs/8b81bca7-1a64-4377-8ea8-869aac03080b",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Glendale",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-24",
+        "discovered": "2026-07-21",
+        "last_verified": "2026-07-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
       ]
     },
     {
@@ -26282,7 +27620,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-24"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -26826,7 +28164,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "neosigma-member-of-technical-staff-intern-2026",
+      "id": "neosigma-member-of-technical-staff-intern-2026-a15bf5",
       "company": {
         "name": "NeoSigma",
         "slug": "neosigma"
@@ -26869,13 +28207,68 @@
       },
       "dates": {
         "posted": "2026-07-21",
-        "discovered": "2026-07-21",
+        "discovered": "2026-07-24",
         "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "neosigma-member-of-technical-staff-intern-2026",
+      "company": {
+        "name": "NeoSigma",
+        "slug": "neosigma"
+      },
+      "role": "Member of Technical Staff Intern",
+      "category": "software-engineering",
+      "apply_url": "https://ats.rippling.com/en-GB/neosigma/jobs/a2ee1d26-a551-45d2-9854-6dbf8ed2c866",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Francisco",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters",
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-24",
+        "discovered": "2026-07-21",
+        "last_verified": "2026-07-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
       ]
     },
     {
@@ -26988,6 +28381,214 @@
       "tags": [
         "auto-ingested",
         "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "netic-forward-deployed-engineer-intern-2027",
+      "company": {
+        "name": "Netic",
+        "slug": "netic"
+      },
+      "role": "Forward Deployed Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://jobs.ashbyhq.com/netic/ffd6af1a-cebb-41f5-ac1d-e695adfd067c?embed=true",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Francisco",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-24",
+        "discovered": "2026-07-24",
+        "last_verified": "2026-07-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "netic-full-stack-software-engineer-intern-2027",
+      "company": {
+        "name": "Netic",
+        "slug": "netic"
+      },
+      "role": "Full-Stack Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://jobs.ashbyhq.com/netic/f291394a-f3c5-4f46-9b87-77aea3d487ef?embed=true",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Francisco",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-24",
+        "discovered": "2026-07-24",
+        "last_verified": "2026-07-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "netic-software-engineer-intern-2027-4d08e6",
+      "company": {
+        "name": "Netic",
+        "slug": "netic"
+      },
+      "role": "Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://jobs.ashbyhq.com/netic/b0ea7aab-8eea-4d31-96f9-278364180ae7?embed=true",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Francisco",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-24",
+        "discovered": "2026-07-24",
+        "last_verified": "2026-07-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "netic-software-engineer-intern-2027",
+      "company": {
+        "name": "Netic",
+        "slug": "netic"
+      },
+      "role": "Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://jobs.ashbyhq.com/netic/b0ea7aab-8eea-4d31-96f9-278364180ae7",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Francisco",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-24",
+        "discovered": "2026-07-24",
+        "last_verified": "2026-07-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
       ]
     },
     {
@@ -29098,7 +30699,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-24"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -29150,7 +30751,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-24"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -30813,6 +32414,886 @@
     },
     {
       "schema_version": "1.0",
+      "id": "palantir-technologies-forward-deployed-infrastructure-engineer-intern-2026-6e2dc7",
+      "company": {
+        "name": "Palantir Technologies",
+        "slug": "palantir-technologies"
+      },
+      "role": "Forward Deployed Infrastructure Engineer Intern",
+      "category": "cloud",
+      "apply_url": "https://jobs.lever.co/palantir/cf5f44ff-1b0b-4752-bcd4-2dc88798f25b",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "New York",
+          "state": "NY",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": true,
+        "security_clearance_required": false,
+        "visa_sponsorship": "no"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-24",
+        "discovered": "2026-07-24",
+        "last_verified": "2026-07-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "palantir-technologies-forward-deployed-infrastructure-engineer-intern-2026-d4cbcc",
+      "company": {
+        "name": "Palantir Technologies",
+        "slug": "palantir-technologies"
+      },
+      "role": "Forward Deployed Infrastructure Engineer Intern",
+      "category": "cloud",
+      "apply_url": "https://jobs.lever.co/palantir/8f362a1f-1eff-4327-94c1-ff46e2101c69",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Palo Alto",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "yes"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-24",
+        "discovered": "2026-07-24",
+        "last_verified": "2026-07-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "palantir-technologies-forward-deployed-infrastructure-engineer-intern-2026",
+      "company": {
+        "name": "Palantir Technologies",
+        "slug": "palantir-technologies"
+      },
+      "role": "Forward Deployed Infrastructure Engineer Intern",
+      "category": "cloud",
+      "apply_url": "https://jobs.lever.co/palantir/3db7e40a-28e0-4ad1-96c5-93de5bc96aa9",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Washington",
+          "country": "D.C."
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": true,
+        "security_clearance_required": false,
+        "visa_sponsorship": "no"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-24",
+        "discovered": "2026-07-24",
+        "last_verified": "2026-07-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "palantir-technologies-forward-deployed-software-engineer-intern-2026-f08121",
+      "company": {
+        "name": "Palantir Technologies",
+        "slug": "palantir-technologies"
+      },
+      "role": "Forward Deployed Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://jobs.lever.co/palantir/d5486403-c050-4920-b2e0-91b69b61ebb2",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Chicago",
+          "state": "IL",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-24",
+        "discovered": "2026-07-24",
+        "last_verified": "2026-07-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "palantir-technologies-forward-deployed-software-engineer-intern-2026-f695b9",
+      "company": {
+        "name": "Palantir Technologies",
+        "slug": "palantir-technologies"
+      },
+      "role": "Forward Deployed Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://jobs.lever.co/palantir/9e40d77f-b07c-437b-98e7-def9b0184d89",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Washington",
+          "country": "D.C."
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "yes"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-24",
+        "discovered": "2026-07-24",
+        "last_verified": "2026-07-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "palantir-technologies-forward-deployed-software-engineer-intern-2026",
+      "company": {
+        "name": "Palantir Technologies",
+        "slug": "palantir-technologies"
+      },
+      "role": "Forward Deployed Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://jobs.lever.co/palantir/4d29249a-d7e8-4c39-880d-3b35d7b2f6f6",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "New York",
+          "state": "NY",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-24",
+        "discovered": "2026-07-24",
+        "last_verified": "2026-07-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "palantir-technologies-software-engineer-intern-2026",
+      "company": {
+        "name": "Palantir Technologies",
+        "slug": "palantir-technologies"
+      },
+      "role": "Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://jobs.lever.co/palantir/373eb939-6f57-4836-8479-be79a5e07249",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Denver",
+          "state": "CO",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-24",
+        "discovered": "2026-07-24",
+        "last_verified": "2026-07-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "palantir-technologies-software-engineer-intern-2027-5321b4",
+      "company": {
+        "name": "Palantir Technologies",
+        "slug": "palantir-technologies"
+      },
+      "role": "Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://jobs.lever.co/palantir/bdcfb29f-4f27-42de-933f-7f83a359b9f0",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Washington",
+          "country": "D.C."
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-24",
+        "discovered": "2026-07-24",
+        "last_verified": "2026-07-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "palantir-technologies-software-engineer-intern-2027-d83bf2",
+      "company": {
+        "name": "Palantir Technologies",
+        "slug": "palantir-technologies"
+      },
+      "role": "Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://jobs.lever.co/palantir/e27af7ab-41fc-40c9-b31d-02c6cb1c505c",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Palo Alto",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-24",
+        "discovered": "2026-07-24",
+        "last_verified": "2026-07-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "palantir-technologies-software-engineer-intern-2027",
+      "company": {
+        "name": "Palantir Technologies",
+        "slug": "palantir-technologies"
+      },
+      "role": "Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://jobs.lever.co/palantir/7d69cf8a-06fd-4f05-bd84-27149db29c4d",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "New York",
+          "state": "NY",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-24",
+        "discovered": "2026-07-24",
+        "last_verified": "2026-07-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "palantir-technologies-software-engineer-intern-defense-tech-2026-27635e",
+      "company": {
+        "name": "Palantir Technologies",
+        "slug": "palantir-technologies"
+      },
+      "role": "Software Engineer Intern, Defense Tech",
+      "category": "software-engineering",
+      "apply_url": "https://jobs.lever.co/palantir/a483f41b-0da9-42ea-8ed6-cbf6eb93cc6d",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Palo Alto",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "yes"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-24",
+        "discovered": "2026-07-24",
+        "last_verified": "2026-07-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "palantir-technologies-software-engineer-intern-defense-tech-2026-d6f9c5",
+      "company": {
+        "name": "Palantir Technologies",
+        "slug": "palantir-technologies"
+      },
+      "role": "Software Engineer Intern, Defense Tech",
+      "category": "software-engineering",
+      "apply_url": "https://jobs.lever.co/palantir/f17e98d0-046a-4e6e-9d65-ed0b12dd0ff7",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Washington",
+          "country": "D.C."
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "yes"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-24",
+        "discovered": "2026-07-24",
+        "last_verified": "2026-07-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "palantir-technologies-software-engineer-intern-defense-tech-2026",
+      "company": {
+        "name": "Palantir Technologies",
+        "slug": "palantir-technologies"
+      },
+      "role": "Software Engineer Intern, Defense Tech",
+      "category": "software-engineering",
+      "apply_url": "https://jobs.lever.co/palantir/8bcf4f33-0a79-4248-bbfd-49ac4be9dd8e",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "New York",
+          "state": "NY",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "yes"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-24",
+        "discovered": "2026-07-24",
+        "last_verified": "2026-07-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "palantir-technologies-software-engineer-intern-infrastructure-2026",
+      "company": {
+        "name": "Palantir Technologies",
+        "slug": "palantir-technologies"
+      },
+      "role": "Software Engineer Intern, Infrastructure",
+      "category": "cloud",
+      "apply_url": "https://jobs.lever.co/palantir/f221738b-e97c-4ce3-a12a-17ada2b855e4",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Palo Alto",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-24",
+        "discovered": "2026-07-24",
+        "last_verified": "2026-07-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "palantir-technologies-software-engineer-intern-infrastructure-2027",
+      "company": {
+        "name": "Palantir Technologies",
+        "slug": "palantir-technologies"
+      },
+      "role": "Software Engineer Intern, Infrastructure",
+      "category": "cloud",
+      "apply_url": "https://jobs.lever.co/palantir/b229baac-494b-4a0d-9a13-2e38806e06f3",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "New York",
+          "state": "NY",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-24",
+        "discovered": "2026-07-24",
+        "last_verified": "2026-07-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "palantir-technologies-software-engineer-intern-production-infrastructure-2026",
+      "company": {
+        "name": "Palantir Technologies",
+        "slug": "palantir-technologies"
+      },
+      "role": "Software Engineer Intern, Production Infrastructure",
+      "category": "cloud",
+      "apply_url": "https://jobs.lever.co/palantir/37964982-9b4c-471e-a1d8-fb8f45d7f116",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "New York",
+          "state": "NY",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-24",
+        "discovered": "2026-07-24",
+        "last_verified": "2026-07-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "palantir-technologies-software-engineer-intern-production-infrastructure-2027",
+      "company": {
+        "name": "Palantir Technologies",
+        "slug": "palantir-technologies"
+      },
+      "role": "Software Engineer Intern, Production Infrastructure",
+      "category": "cloud",
+      "apply_url": "https://jobs.lever.co/palantir/373367a9-3160-49d8-b7af-2efec062fad1",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Seattle",
+          "state": "WA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-24",
+        "discovered": "2026-07-24",
+        "last_verified": "2026-07-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "paragon-forward-deployed-engineer-fde-intern-2027",
       "company": {
         "name": "Paragon",
@@ -31401,6 +33882,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "phonely-software-engineer-intern-2026",
+      "company": {
+        "name": "Phonely",
+        "slug": "phonely"
+      },
+      "role": "Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://jobs.ashbyhq.com/phonely/c83696cb-ca3a-4a9d-9e87-bfcf4f79fef5?embed=true",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Francisco",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-24",
+        "discovered": "2026-07-24",
+        "last_verified": "2026-07-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "phonely-software-engineer-intern-multiple-teams-2026",
       "company": {
         "name": "Phonely",
@@ -31826,7 +34359,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-24"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -32326,6 +34859,109 @@
     },
     {
       "schema_version": "1.0",
+      "id": "quadrillion-software-engineering-intern-2027",
+      "company": {
+        "name": "Quadrillion",
+        "slug": "quadrillion"
+      },
+      "role": "Software Engineering Intern",
+      "category": "software-engineering",
+      "apply_url": "https://jobs.ashbyhq.com/quadrillion-labs/a4acc44c-31ce-41a0-ab44-2500487b4d05/application?embed=true",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "NYC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-24",
+        "discovered": "2026-07-24",
+        "last_verified": "2026-07-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "radix-trading-quantitative-technologist-intern-c-2027",
+      "company": {
+        "name": "Radix Trading",
+        "slug": "radix-trading"
+      },
+      "role": "Quantitative Technologist Intern, C++",
+      "category": "quant",
+      "apply_url": "https://job-boards.greenhouse.io/radixuniversity/jobs/8500265002",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Chicago",
+          "state": "IL",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "yes"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-24",
+        "discovered": "2026-07-24",
+        "last_verified": "2026-07-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "rainmaker-software-engineer-intern-2026",
       "company": {
         "name": "Rainmaker",
@@ -32421,7 +35057,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-24"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -34308,7 +36944,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-24"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -34676,7 +37312,7 @@
         "discovered": "2026-07-23",
         "last_verified": "2026-07-24"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -34729,7 +37365,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-24"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -34801,7 +37437,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-24"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -35391,6 +38027,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "schweitzer-engineering-laboratories-software-engineer-intern-2027",
+      "company": {
+        "name": "Schweitzer Engineering Laboratories",
+        "slug": "schweitzer-engineering-laboratories"
+      },
+      "role": "Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Idaho---Boise/Software-Engineer-Intern_2026-22321",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Boise",
+          "state": "ID",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-24",
+        "discovered": "2026-07-24",
+        "last_verified": "2026-07-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "schweitzer-engineering-laboratories-software-engineering-intern-2026",
       "company": {
         "name": "Schweitzer Engineering Laboratories",
@@ -35864,7 +38552,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "shyftlabs-ai-engineer-intern-2026",
+      "id": "shyftlabs-ai-engineer-intern-2026-d9e9c4",
       "company": {
         "name": "ShyftLabs",
         "slug": "shyftlabs"
@@ -35904,13 +38592,64 @@
       },
       "dates": {
         "posted": "2026-07-21",
-        "discovered": "2026-07-22",
+        "discovered": "2026-07-24",
         "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "shyftlabs-ai-engineer-intern-2026",
+      "company": {
+        "name": "ShyftLabs",
+        "slug": "shyftlabs"
+      },
+      "role": "AI Engineer Intern",
+      "category": "ai",
+      "apply_url": "https://jobs.lever.co/shyftlabs/4f389ea7-9b98-4ed0-99c2-b25ea8cc2dcd",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Toronto",
+          "country": "Canada"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-24",
+        "discovered": "2026-07-22",
+        "last_verified": "2026-07-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
       ]
     },
     {
@@ -37284,6 +40023,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "spreeai-mobile-software-engineer-intern-2026",
+      "company": {
+        "name": "SpreeAI",
+        "slug": "spreeai"
+      },
+      "role": "Mobile Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://ats.rippling.com/en-GB/spreeai/jobs/c52472cb-2671-45d7-b666-17196dc3df25",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Francisco",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-24",
+        "discovered": "2026-07-24",
+        "last_verified": "2026-07-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "spreeai-mobile-software-engineer-intern-flagship-apps-ios-android-we-2026",
       "company": {
         "name": "SpreeAI",
@@ -37382,6 +40173,58 @@
       "tags": [
         "auto-ingested",
         "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "spreeai-software-engineer-intern-ai-infrastructure-training-inferenc-2026",
+      "company": {
+        "name": "SPREEAI",
+        "slug": "spreeai"
+      },
+      "role": "Software Engineer Intern, AI Infrastructure / Training / Inference",
+      "category": "ai",
+      "apply_url": "https://ats.rippling.com/en-GB/spreeai/jobs/d34aed29-7a11-4e37-b5bc-e9317f82f0b1",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Francisco",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "yes"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-24",
+        "discovered": "2026-07-24",
+        "last_verified": "2026-07-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
       ]
     },
     {
@@ -41961,6 +44804,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "tesla-localization-specialist-intern-2026",
+      "company": {
+        "name": "Tesla",
+        "slug": "tesla"
+      },
+      "role": "Localization Specialist Intern",
+      "category": "software-engineering",
+      "apply_url": "https://www.tesla.com/careers/search/job/internship-localization-specialist-it-applications-fall-2026-276308",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Fremont",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-24",
+        "discovered": "2026-07-24",
+        "last_verified": "2026-07-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "tesla-machine-learning-engineer-intern-machine-learning-engineer-f-2026",
       "company": {
         "name": "Tesla",
@@ -46197,6 +49092,110 @@
     },
     {
       "schema_version": "1.0",
+      "id": "transmarket-group-devops-sre-intern-2026",
+      "company": {
+        "name": "TransMarket Group",
+        "slug": "transmarket-group"
+      },
+      "role": "DevOps/SRE Intern",
+      "category": "cloud",
+      "apply_url": "https://job-boards.greenhouse.io/transmarketgroup/jobs/5151577007",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Chicago",
+          "state": "IL",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-24",
+        "discovered": "2026-07-24",
+        "last_verified": "2026-07-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "transmarket-group-quantitative-trader-intern-2026",
+      "company": {
+        "name": "TransMarket Group",
+        "slug": "transmarket-group"
+      },
+      "role": "Quantitative Trader Intern",
+      "category": "quant",
+      "apply_url": "https://job-boards.greenhouse.io/transmarketgroup/jobs/5151569007",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Chicago",
+          "state": "IL",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-24",
+        "discovered": "2026-07-24",
+        "last_verified": "2026-07-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "transmarket-group-quantitative-trader-intern-2027",
       "company": {
         "name": "TransMarket Group",
@@ -47915,6 +50914,11 @@
         {
           "city": "NYC",
           "country": "USA"
+        },
+        {
+          "city": "New York",
+          "state": "NY",
+          "country": "USA"
         }
       ],
       "compensation": {
@@ -48128,6 +51132,11 @@
         {
           "city": "NYC",
           "country": "USA"
+        },
+        {
+          "city": "New York",
+          "state": "NY",
+          "country": "USA"
         }
       ],
       "compensation": {
@@ -48162,6 +51171,58 @@
       "tags": [
         "auto-ingested",
         "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "walleye-capital-technology-intern-2027",
+      "company": {
+        "name": "Walleye Capital",
+        "slug": "walleye-capital"
+      },
+      "role": "Technology Intern",
+      "category": "software-engineering",
+      "apply_url": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4681002006",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "New York",
+          "state": "NY",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-24",
+        "discovered": "2026-07-24",
+        "last_verified": "2026-07-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
       ]
     },
     {

@@ -1,21 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "akuna-capital-platform-engineer-intern-summer-2027-2027",
+  "id": "jane-street-trading-desk-operations-engineer-intern-2027",
   "company": {
-    "name": "Akuna Capital",
-    "slug": "akuna-capital",
-    "career_page": "https://akunacapital.com/careers"
+    "name": "Jane Street",
+    "slug": "jane-street"
   },
-  "role": "Platform Engineer Intern, Summer 2027",
-  "category": "cloud",
-  "apply_url": "https://www.akunacapital.com/careers/job/8018856/?gh_jid=8018856",
+  "role": "Trading Desk Operations Engineer Intern",
+  "category": "quant",
+  "apply_url": "https://www.janestreet.com/join-jane-street/position/8621450002/",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Chicago",
-      "state": "IL",
+      "city": "New York",
+      "state": "NY",
       "country": "USA"
     }
   ],
@@ -41,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-13",
-    "discovered": "2026-07-18",
+    "posted": "2026-07-24",
+    "discovered": "2026-07-24",
     "last_verified": "2026-07-24"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:ats"
+    "src:vanshb03"
   ]
 }

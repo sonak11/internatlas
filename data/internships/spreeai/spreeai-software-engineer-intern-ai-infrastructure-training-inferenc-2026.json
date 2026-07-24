@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0",
+  "id": "spreeai-software-engineer-intern-ai-infrastructure-training-inferenc-2026",
+  "company": {
+    "name": "SPREEAI",
+    "slug": "spreeai"
+  },
+  "role": "Software Engineer Intern, AI Infrastructure / Training / Inference",
+  "category": "ai",
+  "apply_url": "https://ats.rippling.com/en-GB/spreeai/jobs/d34aed29-7a11-4e37-b5bc-e9317f82f0b1",
+  "season": "fall",
+  "year": 2026,
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "USA"
+    }
+  ],
+  "compensation": {
+    "currency": "USD",
+    "housing_stipend": false,
+    "relocation_assistance": false
+  },
+  "eligibility": {
+    "graduation_years": [],
+    "degree_levels": [],
+    "citizenship_required": false,
+    "security_clearance_required": false,
+    "visa_sponsorship": "yes"
+  },
+  "interview": {},
+  "tech": {
+    "required_skills": [],
+    "preferred_skills": [],
+    "languages": [],
+    "frameworks": [],
+    "cloud_platforms": [],
+    "resume_keywords": []
+  },
+  "dates": {
+    "posted": "2026-07-24",
+    "discovered": "2026-07-24",
+    "last_verified": "2026-07-24"
+  },
+  "status": "open",
+  "tags": [
+    "auto-ingested",
+    "src:vanshb03"
+  ]
+}

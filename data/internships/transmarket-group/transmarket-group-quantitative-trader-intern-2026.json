@@ -1,16 +1,15 @@
 {
   "schema_version": "1.0",
-  "id": "akuna-capital-software-engineer-intern-c-summer-2027-2027",
+  "id": "transmarket-group-quantitative-trader-intern-2026",
   "company": {
-    "name": "Akuna Capital",
-    "slug": "akuna-capital",
-    "career_page": "https://akunacapital.com/careers"
+    "name": "TransMarket Group",
+    "slug": "transmarket-group"
   },
-  "role": "Software Engineer Intern - C++, Summer 2027",
+  "role": "Quantitative Trader Intern",
   "category": "quant",
-  "apply_url": "https://www.akunacapital.com/careers/job/8018847/?gh_jid=8018847",
-  "season": "summer",
-  "year": 2027,
+  "apply_url": "https://job-boards.greenhouse.io/transmarketgroup/jobs/5151569007",
+  "season": "fall",
+  "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
@@ -26,10 +25,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters",
-      "phd"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -44,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-13",
-    "discovered": "2026-07-18",
+    "posted": "2026-07-24",
+    "discovered": "2026-07-24",
     "last_verified": "2026-07-24"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:ats"
+    "src:vanshb03"
   ]
 }

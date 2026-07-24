@@ -8,10 +8,12 @@ _Generated 2026-07-24_
 
 | Company | Listings |
 |---|---|
-| Tesla | 97 |
+| Tesla | 98 |
 | Jump Trading | 38 |
 | Neuralink | 19 |
 | Susquehanna International Group (SIG) | 19 |
+| Palantir Technologies | 17 |
+| Jane Street | 16 |
 | Meta | 16 |
 | Cloudflare | 14 |
 | IMC Trading | 14 |
@@ -21,54 +23,52 @@ _Generated 2026-07-24_
 | Astranis | 11 |
 | Optiver | 11 |
 | NVIDIA | 9 |
+| Walleye Capital | 9 |
 | Akuna Capital | 8 |
 | Castleton Commodities International | 8 |
 | SpaceX | 8 |
 | Tencent | 8 |
-| Walleye Capital | 8 |
-| Amazon | 7 |
-| Ciena | 7 |
 
 ## Listings by category
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 430 | `████████████` |
-| quant | 108 | `███` |
-| ai | 89 | `██` |
-| machine-learning | 59 | `██` |
-| research | 49 | `█` |
-| hardware | 46 | `█` |
+| software-engineering | 468 | `████████████` |
+| quant | 109 | `███` |
+| ai | 91 | `██` |
+| machine-learning | 61 | `██` |
+| research | 51 | `█` |
+| hardware | 47 | `█` |
 | embedded | 38 | `█` |
+| cloud | 25 | `█` |
 | product | 22 | `█` |
 | design | 22 | `█` |
-| cloud | 17 | `█` |
 | data-science | 15 | `█` |
-| data-engineering | 10 | `█` |
-| security | 4 | `█` |
+| data-engineering | 11 | `█` |
+| security | 5 | `█` |
 
 ## Newest listings
 
-- 2026-07-23 — **Anthelion Capital**: [Quant Developer / Quant Research Intern](https://jobs.ashbyhq.com/anthelioncap/5e2ea37b-2369-474e-b717-c24c60976e96/application?embed=true)
-- 2026-07-23 — **Appian**: [Product Manager Intern](https://job-boards.greenhouse.io/appian/jobs/8041243)
-- 2026-07-23 — **Appian**: [Software Engineer Intern](https://job-boards.greenhouse.io/appian/jobs/8041237)
-- 2026-07-23 — **Astranis**: [Software Engineer Intern - Enterprise Systems](https://job-boards.greenhouse.io/astranis/jobs/4699071006)
-- 2026-07-23 — **Axogen**: [AI/ML Engineer Intern](https://www.axogeninc.com/about-axogen/careers/?gh_jid=8645955002)
-- 2026-07-23 — **Copart**: [Technology Product Analyst Intern](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Technology-Product-Analyst-Intern_JR110078)
-- 2026-07-23 — **G-Research**: [Data Science Intern](https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Data-Science-Internship_R3679)
-- 2026-07-23 — **G-Research**: [Machine Learning Research Intern](https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Machine-Learning-Research-Internship_R3682)
-- 2026-07-23 — **G-Research**: [Natural Language Processing Intern](https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Natural-Language-Processing-Internship_R3686)
-- 2026-07-23 — **G-Research**: [Quantitative Research Internship](https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Quant-Research-Internship_R3691)
-- 2026-07-23 — **Golden Pet Brands**: [Data Analytics Intern](https://job-boards.greenhouse.io/goldenpetbrands/jobs/4713182005)
-- 2026-07-23 — **Group 1001**: [Quantitative Analysis Intern](https://group1001wd.wd5.myworkdayjobs.com/careers/job/Stamford-Connecticut/Quantitative-Analysis-Intern_R26_0405)
-- 2026-07-23 — **Optiver**: [Institutional Trader Intern](https://job-boards.greenhouse.io/optiverprivate/jobs/8402208002)
-- 2026-07-23 — **Red Bull**: [Data Science Intern - Data Science](https://jobs.smartrecruiters.com/RedBull/744000139168339)
-- 2026-07-23 — **Royal Bank of Canada**: [Relationship Manager Commercial Markets Intern](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/CHARLOTTETOWN-Prince-Edward-Island-Canada/Relationship-Manager-Commercial-Markets-ntern-CFS_R-0000181764-1)
-- 2026-07-23 — **SpaceX**: [Recruiting Coordinator, Intern Program- Temporary](https://boards.greenhouse.io/spacex/jobs/8647830002?gh_jid=8647830002)
-- 2026-07-23 — **Spectrum Control**: [Engineering Intern](https://spectrumcontrol.wd1.myworkdayjobs.com/spectrumcontrol/job/Fairview-PA/Engineering-Intern_JR101449)
-- 2026-07-23 — **T. Rowe Price**: [Global Product Intern](https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Global-Product-Internship-Program_82693)
-- 2026-07-23 — **T. Rowe Price**: [Global Trading Intern](https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Global-Trading-Internship-Program_82718)
-- 2026-07-23 — **T. Rowe Price**: [Quantitative Equity Investing Intern](https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Quantitative-Equity-Investing-Internship-Program_82699)
+- 2026-07-24 — **Deepgram**: [Software Engineering Intern](https://jobs.ashbyhq.com/deepgram/dc8693b5-72ce-4ca3-ab15-9c8434d35da1)
+- 2026-07-24 — **fab2**: [Software Engineering Intern](https://jobs.ashbyhq.com/fab2/947338ca-e135-4398-9aa3-79e131bc03d5?embed=true)
+- 2026-07-24 — **Google**: [Software Engineering Intern](https://www.google.com/about/careers/applications/jobs/results/85564713261245126-software-engineering-intern-bs-summer-2027)
+- 2026-07-24 — **Hudson River Trading**: [Intern](https://www.hudsonrivertrading.com/hrt-job/algorithm-development-quant-research-internship-summer-2027/)
+- 2026-07-24 — **Hudson River Trading**: [Software Engineer Intern](https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-c-or-python-summer-2027/)
+- 2026-07-24 — **Jane Street**: [Cybersecurity Analyst Intern](https://www.janestreet.com/join-jane-street/position/8632723002/)
+- 2026-07-24 — **Jane Street**: [Data Engineer Intern](https://www.janestreet.com/join-jane-street/position/8631973002/)
+- 2026-07-24 — **Jane Street**: [Fundamental Research Analyst Intern](https://www.janestreet.com/join-jane-street/position/8347286002/)
+- 2026-07-24 — **Jane Street**: [Hardware Engineer (FPGA/ASIC) Intern](https://www.janestreet.com/join-jane-street/position/8624440002/)
+- 2026-07-24 — **Jane Street**: [Linux Engineer Intern](https://www.janestreet.com/join-jane-street/position/8626260002/)
+- 2026-07-24 — **Jane Street**: [Machine Learning Engineer Intern](https://www.janestreet.com/join-jane-street/position/8611307002/)
+- 2026-07-24 — **Jane Street**: [Machine Learning Researcher Intern](https://www.janestreet.com/join-jane-street/position/8384490002/)
+- 2026-07-24 — **Jane Street**: [Network Engineer Intern](https://www.janestreet.com/join-jane-street/position/8620793002/)
+- 2026-07-24 — **Jane Street**: [Quantitative Researcher Intern](https://www.janestreet.com/join-jane-street/position/8498547002/)
+- 2026-07-24 — **Jane Street**: [Quantitative Trader Intern](https://www.janestreet.com/join-jane-street/position/8617344002/)
+- 2026-07-24 — **Jane Street**: [Sales and Trading Intern](https://www.janestreet.com/join-jane-street/position/8347385002/)
+- 2026-07-24 — **Jane Street**: [Software Engineer Intern](https://www.janestreet.com/join-jane-street/position/8599644002/)
+- 2026-07-24 — **Jane Street**: [Software Engineer Intern](https://www.janestreet.com/join-jane-street/position/8419303002/)
+- 2026-07-24 — **Jane Street**: [Tools and Compilers Research and Development Intern](https://www.janestreet.com/join-jane-street/position/5869205002/)
+- 2026-07-24 — **Jane Street**: [Trading Desk Operations Engineer Intern](https://www.janestreet.com/join-jane-street/position/8621450002/)
 
 ## Recently closed
 
@@ -86,10 +86,13 @@ _Generated 2026-07-24_
 - AVEVA — Software Developer Intern Co-op
 - Axon — Software Engineering Intern
 - BDO Canada — Indirect Tax Intern Co-op - Indirect Tax
+- BMO — Machine Learning Intern
 - Bosch Home Comfort — Business Intelligence Intern
+- CACI — Software Engineering Intern
 - Cadence Design Systems — SSG Design Engineering Intern
 - Capital One — Data Science Intern
 - Capital One — Master's Data Science Internship
+- Capital One — Product Development Internship Program
 - Center for AI Safety — Research Engineer Intern
 - Chevron Corporation — Earth Science Intern
 - Chevron Corporation — Intern
@@ -105,6 +108,7 @@ _Generated 2026-07-24_
 - Consensus Cloud Solutions — Sales Strategy & Analytics Intern
 - Constellation Space — Graduate Researcher Intern - Machine Learning
 - Datasite — AI Transformation / Forward Deployed Engineer Intern - Forward Deployed Engineer
+- Datasite — Forward Deployed Engineer Intern
 - Deepgram — Software Engineer Intern
 - Definity Financial — Data Specialist Co-op Intern - Claim Operations Management
 - Democratic National Committee — DNC Technology Intern
@@ -149,10 +153,15 @@ _Generated 2026-07-24_
 - Impulse Space — Radio Frequency Engineering Intern
 - Instacart — Machine Learning Engineer, PhD Intern (Fall)
 - Instacart — Machine Learning PhD Intern, Economics (Fall)
+- Intel — AI Software Engineering Intern
 - Jump Trading — Campus Quantitative Researcher Intern
 - Junior AI — Software Engineer Intern
 - Kinaxis — Software Development Co-op/Intern - C++
+- Kudu Dynamics — Software Engineer Intern
+- Kudu Dynamics — Software Engineer Intern
+- Kudu Dynamics — Software Engineer Intern
 - Light & Wonder — Mathematics Intern
+- LiveRamp — Software Engineer Intern, Pixel Serving
 - Mackenzie Investments — Data Science and AI Specialist Intern - Investment Management - Fundamental Equity
 - Marvell — Design Verification Engineer Intern
 - McKesson — Data Governance Analyst Intern
@@ -160,6 +169,7 @@ _Generated 2026-07-24_
 - Meta — Research Scientist Intern - 3D Vision & World Simulation
 - Microchip Technology — Applications Engineering Intern
 - Mosaic — Capital Project Engineering Co-op/Intern
+- National Laboratory of the Rockies — Energy Data Analysis Intern
 - National Laboratory of the Rockies — Graduate Geospatial Data Science Intern
 - National Laboratory of the Rockies — Graduate Intern
 - Navy Federal — Year Round Intern - Business Intelligence Analyst
@@ -175,19 +185,27 @@ _Generated 2026-07-24_
 - NVIDIA — Java Engineer Intern
 - NVIDIA — PhD Research Intern - Security and Privacy
 - NVIDIA — PhD Research Intern - System Software and I/O Architecture
+- NVIDIA — Quantum Research Scientist Intern
+- NVIDIA — Software Engineering Intern, JAX
 - NXP Semiconductors — Digital Verification Engineer Intern
 - Old Mission — Software Engineer Intern
 - onsemi — Electrical Device Characterization Intern
 - Optiver — Trading Automation and Operations Intern
 - Pennsylvania State University — Research and Development Engineer Intern
+- Podium — Software Engineering Intern
 - Quadrillion — Research Intern
 - Quadrillion — Software Engineer Intern
 - Rainmaker — Software Engineer Intern
+- Rakuten International — Software Engineer Intern
 - Revvity — Product Manager Intern
 - RFCUNY — IT & Data Systems Intern - Archibus & Applications Development
 - Rivian — Machine Learning Compiler Intern - Machine Learning Compiler
 - Roam — Engineer Intern
+- Rocket Lab — Software Intern
 - Royal Bank of Canada — Student Intern - Data Analyst - Personal Banking
+- Salesforce — Associate Product Manager Intern - Associate Product Manager
+- Salesforce — Associate Product Manager Intern - Associate Product Manager
+- Salesforce — Software Engineer Intern(Futureforce Summer 2027)
 - Samsung — Research Intern
 - Samsung Research America — Computer Vision/AI Intern - Computer Vision/AI
 - Samsung Research America — Memory and Personalization Intern - Memory and Personalization

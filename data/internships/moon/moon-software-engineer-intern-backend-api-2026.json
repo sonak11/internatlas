@@ -5,9 +5,9 @@
     "name": "Moon",
     "slug": "moon"
   },
-  "role": "Software Engineer Intern - Backend & API",
+  "role": "Software Engineer Intern, Backend & API",
   "category": "software-engineering",
-  "apply_url": "https://ats.rippling.com/moon/jobs/8b81bca7-1a64-4377-8ea8-869aac03080b",
+  "apply_url": "https://ats.rippling.com/en-GB/moon/jobs/8b81bca7-1a64-4377-8ea8-869aac03080b",
   "season": "fall",
   "year": 2026,
   "work_mode": "onsite",
@@ -40,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-21",
+    "posted": "2026-07-24",
     "discovered": "2026-07-21",
     "last_verified": "2026-07-24"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }

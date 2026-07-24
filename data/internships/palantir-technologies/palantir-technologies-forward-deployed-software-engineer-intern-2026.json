@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "five-rings-summer-intern-2027-software-developer-2027",
+  "id": "palantir-technologies-forward-deployed-software-engineer-intern-2026",
   "company": {
-    "name": "Five Rings",
-    "slug": "five-rings",
-    "career_page": "https://fiverings.com/careers"
+    "name": "Palantir Technologies",
+    "slug": "palantir-technologies"
   },
-  "role": "Summer Intern 2027 - Software Developer",
-  "category": "quant",
-  "apply_url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5349707008",
-  "season": "summer",
-  "year": 2027,
+  "role": "Forward Deployed Software Engineer Intern",
+  "category": "software-engineering",
+  "apply_url": "https://jobs.lever.co/palantir/4d29249a-d7e8-4c39-880d-3b35d7b2f6f6",
+  "season": "fall",
+  "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
       "city": "New York",
+      "state": "NY",
       "country": "USA"
     }
   ],
@@ -40,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-14",
-    "discovered": "2026-07-23",
+    "posted": "2026-07-24",
+    "discovered": "2026-07-24",
     "last_verified": "2026-07-24"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:ats"
+    "src:vanshb03"
   ]
 }
