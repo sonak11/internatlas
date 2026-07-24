@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-23",
-  "count": 896,
+  "generated": "2026-07-24",
+  "count": 908,
   "internships": [
     {
       "schema_version": "1.0",
@@ -106,7 +106,7 @@
       "dates": {
         "posted": "2026-07-08",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -158,7 +158,7 @@
       "dates": {
         "posted": "2026-04-20",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -210,7 +210,7 @@
       "dates": {
         "posted": "2026-05-14",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -410,7 +410,7 @@
       "dates": {
         "posted": "2026-07-06",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -474,7 +474,7 @@
       "dates": {
         "posted": "2026-05-16",
         "discovered": "2026-07-21",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -525,7 +525,7 @@
       "dates": {
         "posted": "2026-07-22",
         "discovered": "2026-07-23",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -577,7 +577,7 @@
       "dates": {
         "posted": "2026-06-03",
         "discovered": "2026-07-18",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -633,7 +633,7 @@
       "dates": {
         "posted": "2026-07-13",
         "discovered": "2026-07-18",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -686,7 +686,7 @@
       "dates": {
         "posted": "2026-07-13",
         "discovered": "2026-07-18",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -742,7 +742,7 @@
       "dates": {
         "posted": "2026-07-13",
         "discovered": "2026-07-18",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -798,7 +798,7 @@
       "dates": {
         "posted": "2026-07-13",
         "discovered": "2026-07-18",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -854,7 +854,7 @@
       "dates": {
         "posted": "2026-07-13",
         "discovered": "2026-07-18",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -910,7 +910,7 @@
       "dates": {
         "posted": "2026-07-13",
         "discovered": "2026-07-18",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -966,7 +966,7 @@
       "dates": {
         "posted": "2026-07-13",
         "discovered": "2026-07-18",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -1022,7 +1022,7 @@
       "dates": {
         "posted": "2026-07-13",
         "discovered": "2026-07-18",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -1074,7 +1074,7 @@
       "dates": {
         "posted": "2026-04-24",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -1127,7 +1127,7 @@
       "dates": {
         "posted": "2026-07-06",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -1183,7 +1183,7 @@
       "dates": {
         "posted": "2026-07-04",
         "discovered": "2026-07-21",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -1290,7 +1290,7 @@
       "dates": {
         "posted": "2026-06-23",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -1342,7 +1342,7 @@
       "dates": {
         "posted": "2026-06-03",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -1394,7 +1394,7 @@
       "dates": {
         "posted": "2026-05-28",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -1508,7 +1508,7 @@
       "dates": {
         "posted": "2025-12-08",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -1596,7 +1596,7 @@
       "dates": {
         "posted": "2026-04-16",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -1650,7 +1650,7 @@
       "dates": {
         "posted": "2026-04-16",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -1738,7 +1738,7 @@
       "dates": {
         "posted": "2026-04-16",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -1825,7 +1825,7 @@
       "dates": {
         "posted": "2026-05-09",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -2102,7 +2102,7 @@
       "dates": {
         "posted": "2025-10-04",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -2154,7 +2154,7 @@
       "dates": {
         "posted": "2026-05-09",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -2208,7 +2208,7 @@
       "dates": {
         "posted": "2026-07-16",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -2313,7 +2313,7 @@
       "dates": {
         "posted": "2026-05-01",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -2365,7 +2365,7 @@
       "dates": {
         "posted": "2026-05-01",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -2416,7 +2416,7 @@
       "dates": {
         "posted": "2026-07-10",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -2520,7 +2520,7 @@
       "dates": {
         "posted": "2026-06-11",
         "discovered": "2026-07-18",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -2572,7 +2572,7 @@
       "dates": {
         "posted": "2026-06-11",
         "discovered": "2026-07-18",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -2624,7 +2624,7 @@
       "dates": {
         "posted": "2026-06-11",
         "discovered": "2026-07-18",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -2676,7 +2676,7 @@
       "dates": {
         "posted": "2026-06-10",
         "discovered": "2026-07-18",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -2753,7 +2753,7 @@
       "dates": {
         "posted": "2026-07-07",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -2830,7 +2830,61 @@
       "dates": {
         "posted": "2026-06-11",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "anthelion-capital-quant-developer-quant-research-intern-2026",
+      "company": {
+        "name": "Anthelion Capital",
+        "slug": "anthelion-capital"
+      },
+      "role": "Quant Developer / Quant Research Intern",
+      "category": "quant",
+      "apply_url": "https://jobs.ashbyhq.com/anthelioncap/5e2ea37b-2369-474e-b717-c24c60976e96/application?embed=true",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "NYC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters",
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-23",
+        "discovered": "2026-07-24",
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -2881,12 +2935,120 @@
       "dates": {
         "posted": "2026-05-11",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "appian-product-manager-intern-2027",
+      "company": {
+        "name": "Appian",
+        "slug": "appian"
+      },
+      "role": "Product Manager Intern",
+      "category": "product",
+      "apply_url": "https://job-boards.greenhouse.io/appian/jobs/8041243",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "McLean",
+          "state": "VA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-23",
+        "discovered": "2026-07-24",
+        "last_verified": "2026-07-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "appian-software-engineer-intern-2027",
+      "company": {
+        "name": "Appian",
+        "slug": "appian"
+      },
+      "role": "Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://job-boards.greenhouse.io/appian/jobs/8041237",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "McLean",
+          "state": "VA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-23",
+        "discovered": "2026-07-24",
+        "last_verified": "2026-07-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
       ]
     },
     {
@@ -2931,7 +3093,7 @@
       "dates": {
         "posted": "2026-05-22",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -2981,7 +3143,7 @@
       "dates": {
         "posted": "2026-05-22",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -3138,7 +3300,7 @@
       "dates": {
         "posted": "2026-07-21",
         "discovered": "2026-07-22",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -3190,7 +3352,7 @@
       "dates": {
         "posted": "2026-05-23",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -3249,7 +3411,7 @@
       "dates": {
         "posted": "2026-04-01",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -3305,7 +3467,7 @@
       "dates": {
         "posted": "2026-04-01",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -3357,7 +3519,7 @@
       "dates": {
         "posted": "2026-07-22",
         "discovered": "2026-07-23",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -3412,7 +3574,7 @@
       "dates": {
         "posted": "2026-07-21",
         "discovered": "2026-07-21",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -3469,7 +3631,7 @@
       "dates": {
         "posted": "2026-07-14",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -3521,7 +3683,7 @@
       "dates": {
         "posted": "2026-07-04",
         "discovered": "2026-07-21",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -3576,7 +3738,7 @@
       "dates": {
         "posted": "2026-07-03",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -3682,7 +3844,7 @@
       "dates": {
         "posted": "2026-07-10",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -3736,7 +3898,7 @@
       "dates": {
         "posted": "2026-04-22",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -3788,7 +3950,7 @@
       "dates": {
         "posted": "2025-12-22",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -3839,7 +4001,7 @@
       "dates": {
         "posted": "2026-05-12",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -3890,7 +4052,7 @@
       "dates": {
         "posted": "2025-12-31",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -3943,7 +4105,7 @@
       "dates": {
         "posted": "2026-04-30",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -3996,7 +4158,7 @@
       "dates": {
         "posted": "2026-04-30",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -4047,7 +4209,7 @@
       "dates": {
         "posted": "2026-06-25",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -4098,7 +4260,7 @@
       "dates": {
         "posted": "2026-07-06",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -4149,7 +4311,7 @@
       "dates": {
         "posted": "2026-06-22",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -4200,7 +4362,7 @@
       "dates": {
         "posted": "2026-06-22",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -4251,7 +4413,7 @@
       "dates": {
         "posted": "2026-05-04",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -4304,7 +4466,60 @@
       "dates": {
         "posted": "2026-05-13",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "astranis-software-engineer-intern-enterprise-systems-2026",
+      "company": {
+        "name": "Astranis",
+        "slug": "astranis"
+      },
+      "role": "Software Engineer Intern - Enterprise Systems",
+      "category": "software-engineering",
+      "apply_url": "https://job-boards.greenhouse.io/astranis/jobs/4699071006",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "SF",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-23",
+        "discovered": "2026-07-24",
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -4356,7 +4571,7 @@
       "dates": {
         "posted": "2025-08-15",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -4413,7 +4628,7 @@
       "dates": {
         "posted": "2026-04-22",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -4470,7 +4685,7 @@
       "dates": {
         "posted": "2026-05-01",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -4527,7 +4742,7 @@
       "dates": {
         "posted": "2026-04-22",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -4573,7 +4788,7 @@
       "dates": {
         "posted": "2026-06-18",
         "discovered": "2026-07-21",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -4619,7 +4834,7 @@
       "dates": {
         "posted": "2026-06-18",
         "discovered": "2026-07-21",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -4670,7 +4885,7 @@
       "dates": {
         "posted": "2026-06-10",
         "discovered": "2026-07-21",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -4721,7 +4936,7 @@
       "dates": {
         "posted": "2026-05-30",
         "discovered": "2026-07-21",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -4772,7 +4987,7 @@
       "dates": {
         "posted": "2026-05-30",
         "discovered": "2026-07-21",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -4829,7 +5044,7 @@
       "dates": {
         "posted": "2026-04-20",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -4887,6 +5102,61 @@
         "last_verified": "2026-07-23"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "axogen-ai-ml-engineer-intern-2026",
+      "company": {
+        "name": "Axogen",
+        "slug": "axogen"
+      },
+      "role": "AI/ML Engineer Intern",
+      "category": "machine-learning",
+      "apply_url": "https://www.axogeninc.com/about-axogen/careers/?gh_jid=8645955002",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Tampa",
+          "state": "FL",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters",
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-23",
+        "discovered": "2026-07-24",
+        "last_verified": "2026-07-24"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -4992,7 +5262,7 @@
       "dates": {
         "posted": "2026-07-07",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -5044,7 +5314,82 @@
       "dates": {
         "posted": "2025-12-02",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "bdo-canada-data-analytics-co-op-intern-data-analytics-2026",
+      "company": {
+        "name": "BDO Canada",
+        "slug": "bdo-canada"
+      },
+      "role": "Data & Analytics Co-op/Intern - Data & Analytics",
+      "category": "software-engineering",
+      "apply_url": "https://bdo.wd3.myworkdayjobs.com/BDO/job/Toronto---Bay-St/Co-op-or-Intern--Data---Analytics--September-2026-_JR6295",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Montreal",
+          "country": "QC"
+        },
+        {
+          "city": "Toronto",
+          "country": "ON"
+        },
+        {
+          "city": "Calgary",
+          "country": "AB"
+        },
+        {
+          "city": "Oakville",
+          "country": "ON"
+        },
+        {
+          "city": "Ottawa",
+          "country": "ON"
+        },
+        {
+          "city": "Vancouver",
+          "country": "BC"
+        },
+        {
+          "city": "Halifax Regional Municipality",
+          "country": "NS"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-05-14",
+        "discovered": "2026-07-24",
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -5154,7 +5499,7 @@
       "dates": {
         "posted": "2026-07-15",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -5205,7 +5550,7 @@
       "dates": {
         "posted": "2026-07-21",
         "discovered": "2026-07-21",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -5257,7 +5602,7 @@
       "dates": {
         "posted": "2026-07-15",
         "discovered": "2026-07-23",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -5308,7 +5653,7 @@
       "dates": {
         "posted": "2026-07-15",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -5361,7 +5706,7 @@
       "dates": {
         "posted": "2026-07-02",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -5419,7 +5764,7 @@
       "dates": {
         "posted": "2026-06-09",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -5479,7 +5824,7 @@
       "dates": {
         "posted": "2026-06-09",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -5530,7 +5875,7 @@
       "dates": {
         "posted": "2026-07-21",
         "discovered": "2026-07-21",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -5584,7 +5929,7 @@
       "dates": {
         "posted": "2026-07-01",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -5636,7 +5981,7 @@
       "dates": {
         "posted": "2026-05-12",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -5688,7 +6033,7 @@
       "dates": {
         "posted": "2026-05-21",
         "discovered": "2026-07-22",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -5742,7 +6087,7 @@
       "dates": {
         "posted": "2025-12-16",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -5796,7 +6141,7 @@
       "dates": {
         "posted": "2025-12-10",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -5848,7 +6193,7 @@
       "dates": {
         "posted": "2026-07-02",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -5956,7 +6301,7 @@
       "dates": {
         "posted": "2026-07-07",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -6011,7 +6356,7 @@
       "dates": {
         "posted": "2026-07-02",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -6063,7 +6408,7 @@
       "dates": {
         "posted": "2026-06-03",
         "discovered": "2026-07-18",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -6114,7 +6459,7 @@
       "dates": {
         "posted": "2026-07-04",
         "discovered": "2026-07-21",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -6168,7 +6513,7 @@
       "dates": {
         "posted": "2026-07-03",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -6222,7 +6567,7 @@
       "dates": {
         "posted": "2026-07-03",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -6274,7 +6619,7 @@
       "dates": {
         "posted": "2026-07-10",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -6328,7 +6673,7 @@
       "dates": {
         "posted": "2026-07-07",
         "discovered": "2026-07-21",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -6382,7 +6727,7 @@
       "dates": {
         "posted": "2026-07-07",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -6436,7 +6781,7 @@
       "dates": {
         "posted": "2026-06-25",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -6490,7 +6835,7 @@
       "dates": {
         "posted": "2026-06-25",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -6596,7 +6941,7 @@
       "dates": {
         "posted": "2026-07-07",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -6827,7 +7172,7 @@
       "dates": {
         "posted": "2026-07-07",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -6879,7 +7224,7 @@
       "dates": {
         "posted": "2026-07-22",
         "discovered": "2026-07-23",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -6932,7 +7277,7 @@
       "dates": {
         "posted": "2026-07-21",
         "discovered": "2026-07-22",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -6991,7 +7336,7 @@
       "dates": {
         "posted": "2026-07-21",
         "discovered": "2026-07-22",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -7052,7 +7397,7 @@
       "dates": {
         "posted": "2026-07-21",
         "discovered": "2026-07-22",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -7105,7 +7450,7 @@
       "dates": {
         "posted": "2026-07-21",
         "discovered": "2026-07-22",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -7165,7 +7510,7 @@
       "dates": {
         "posted": "2026-07-21",
         "discovered": "2026-07-22",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -7219,7 +7564,7 @@
       "dates": {
         "posted": "2026-07-21",
         "discovered": "2026-07-22",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -7272,7 +7617,7 @@
       "dates": {
         "posted": "2026-07-21",
         "discovered": "2026-07-22",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -7329,7 +7674,7 @@
       "dates": {
         "posted": "2026-07-21",
         "discovered": "2026-07-22",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -7432,7 +7777,7 @@
       "dates": {
         "posted": "2026-07-15",
         "discovered": "2026-07-18",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -7648,7 +7993,7 @@
       "dates": {
         "posted": "2026-07-16",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -7805,7 +8150,7 @@
       "dates": {
         "posted": "2026-07-21",
         "discovered": "2026-07-20",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -7912,7 +8257,7 @@
       "dates": {
         "posted": "2026-06-23",
         "discovered": "2026-07-21",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -7965,7 +8310,7 @@
       "dates": {
         "posted": "2026-06-23",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -8016,7 +8361,7 @@
       "dates": {
         "posted": "2026-06-17",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -8120,7 +8465,7 @@
       "dates": {
         "posted": "2026-07-21",
         "discovered": "2026-07-22",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -8171,7 +8516,7 @@
       "dates": {
         "posted": "2026-06-12",
         "discovered": "2026-07-22",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -8222,7 +8567,7 @@
       "dates": {
         "posted": "2026-07-21",
         "discovered": "2026-07-22",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -8276,7 +8621,7 @@
       "dates": {
         "posted": "2026-07-20",
         "discovered": "2026-07-20",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -8327,7 +8672,7 @@
       "dates": {
         "posted": "2026-07-15",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -8379,7 +8724,7 @@
       "dates": {
         "posted": "2026-07-20",
         "discovered": "2026-07-20",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -8431,7 +8776,7 @@
       "dates": {
         "posted": "2026-06-23",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -8489,7 +8834,7 @@
       "dates": {
         "posted": "2026-07-13",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -8540,7 +8885,7 @@
       "dates": {
         "posted": "2026-07-07",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -8594,7 +8939,7 @@
       "dates": {
         "posted": "2026-07-13",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -8661,7 +9006,7 @@
       "dates": {
         "posted": "2026-07-07",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -8725,7 +9070,7 @@
       "dates": {
         "posted": "2026-07-06",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -8782,7 +9127,7 @@
       "dates": {
         "posted": "2026-07-13",
         "discovered": "2026-07-21",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -8841,7 +9186,7 @@
       "dates": {
         "posted": "2026-07-06",
         "discovered": "2026-07-21",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -8895,7 +9240,7 @@
       "dates": {
         "posted": "2026-07-15",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -9000,7 +9345,7 @@
       "dates": {
         "posted": "2026-07-06",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -9052,7 +9397,7 @@
       "dates": {
         "posted": "2026-07-06",
         "discovered": "2026-07-18",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -9104,7 +9449,7 @@
       "dates": {
         "posted": "2026-07-10",
         "discovered": "2026-07-18",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -9208,7 +9553,7 @@
       "dates": {
         "posted": "2026-07-09",
         "discovered": "2026-07-18",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -9260,7 +9605,7 @@
       "dates": {
         "posted": "2026-07-01",
         "discovered": "2026-07-18",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -9312,7 +9657,7 @@
       "dates": {
         "posted": "2026-06-26",
         "discovered": "2026-07-18",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -9364,7 +9709,7 @@
       "dates": {
         "posted": "2026-04-10",
         "discovered": "2026-07-18",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -9468,7 +9813,7 @@
       "dates": {
         "posted": "2026-06-23",
         "discovered": "2026-07-18",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -9520,7 +9865,7 @@
       "dates": {
         "posted": "2026-07-15",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -9572,7 +9917,7 @@
       "dates": {
         "posted": "2026-07-14",
         "discovered": "2026-07-18",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -9624,7 +9969,7 @@
       "dates": {
         "posted": "2026-07-01",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -9676,7 +10021,7 @@
       "dates": {
         "posted": "2026-07-03",
         "discovered": "2026-07-18",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -9730,7 +10075,7 @@
       "dates": {
         "posted": "2026-04-13",
         "discovered": "2026-07-21",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -9787,7 +10132,7 @@
       "dates": {
         "posted": "2026-05-13",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -9852,7 +10197,7 @@
       "dates": {
         "posted": "2026-05-01",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -9911,7 +10256,7 @@
       "dates": {
         "posted": "2026-05-01",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -9963,7 +10308,7 @@
       "dates": {
         "posted": "2025-09-13",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -10015,7 +10360,7 @@
       "dates": {
         "posted": "2026-07-17",
         "discovered": "2026-07-18",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -10118,7 +10463,7 @@
       "dates": {
         "posted": "2026-07-02",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -10274,7 +10619,7 @@
       "dates": {
         "posted": "2026-07-15",
         "discovered": "2026-07-18",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -10328,7 +10673,7 @@
       "dates": {
         "posted": "2026-07-21",
         "discovered": "2026-07-22",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -10380,7 +10725,7 @@
       "dates": {
         "posted": "2026-07-20",
         "discovered": "2026-07-21",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -10434,7 +10779,7 @@
       "dates": {
         "posted": "2026-07-15",
         "discovered": "2026-07-18",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -10488,7 +10833,7 @@
       "dates": {
         "posted": "2026-07-15",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -10542,7 +10887,7 @@
       "dates": {
         "posted": "2026-07-23",
         "discovered": "2026-07-23",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -10596,7 +10941,7 @@
       "dates": {
         "posted": "2026-07-20",
         "discovered": "2026-07-20",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -10644,7 +10989,7 @@
       "dates": {
         "posted": "2026-06-16",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -10695,7 +11040,7 @@
       "dates": {
         "posted": "2026-07-04",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -10747,7 +11092,7 @@
       "dates": {
         "posted": "2026-05-23",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -10805,7 +11150,7 @@
       "dates": {
         "posted": "2026-07-16",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -10856,7 +11201,7 @@
       "dates": {
         "posted": "2026-07-16",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -10907,7 +11252,7 @@
       "dates": {
         "posted": "2026-07-16",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -10958,7 +11303,7 @@
       "dates": {
         "posted": "2026-07-16",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -11010,7 +11355,7 @@
       "dates": {
         "posted": "2023-11-07",
         "discovered": "2026-07-18",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -11073,7 +11418,7 @@
       "dates": {
         "posted": "2026-07-16",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -11125,7 +11470,7 @@
       "dates": {
         "posted": "2023-08-17",
         "discovered": "2026-07-18",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -11182,7 +11527,7 @@
       "dates": {
         "posted": "2025-08-18",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -11230,7 +11575,7 @@
       "dates": {
         "posted": "2026-07-15",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -11333,7 +11678,7 @@
       "dates": {
         "posted": "2026-07-10",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -11385,7 +11730,7 @@
       "dates": {
         "posted": "2026-07-07",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -11437,7 +11782,7 @@
       "dates": {
         "posted": "2026-05-09",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -11534,7 +11879,7 @@
       "dates": {
         "posted": "2026-06-16",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -11640,7 +11985,7 @@
       "dates": {
         "posted": "2026-06-16",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -11691,7 +12036,7 @@
       "dates": {
         "posted": "2026-06-19",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -11743,7 +12088,7 @@
       "dates": {
         "posted": "2026-06-24",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -11795,7 +12140,7 @@
       "dates": {
         "posted": "2026-07-08",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -11904,7 +12249,7 @@
       "dates": {
         "posted": "2026-05-11",
         "discovered": "2026-07-21",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -12062,7 +12407,7 @@
       "dates": {
         "posted": "2026-05-09",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -12114,7 +12459,7 @@
       "dates": {
         "posted": "2026-07-20",
         "discovered": "2026-07-20",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -12219,7 +12564,7 @@
       "dates": {
         "posted": "2026-07-04",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -12270,7 +12615,7 @@
       "dates": {
         "posted": "2026-07-04",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -12324,7 +12669,7 @@
       "dates": {
         "posted": "2026-07-13",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -12380,7 +12725,7 @@
       "dates": {
         "posted": "2026-07-08",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -12483,7 +12828,7 @@
       "dates": {
         "posted": "2026-07-14",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -12535,7 +12880,7 @@
       "dates": {
         "posted": "2025-12-09",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -12690,7 +13035,7 @@
       "dates": {
         "posted": "2026-04-20",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -12738,7 +13083,7 @@
       "dates": {
         "posted": "2026-07-17",
         "discovered": "2026-07-18",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -12996,7 +13341,7 @@
       "dates": {
         "posted": "2026-05-22",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -13048,7 +13393,7 @@
       "dates": {
         "posted": "2026-05-22",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -13100,7 +13445,7 @@
       "dates": {
         "posted": "2026-05-22",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -13152,7 +13497,7 @@
       "dates": {
         "posted": "2026-05-22",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -13204,7 +13549,7 @@
       "dates": {
         "posted": "2026-05-22",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -13256,7 +13601,7 @@
       "dates": {
         "posted": "2026-05-22",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -13308,7 +13653,7 @@
       "dates": {
         "posted": "2026-05-22",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -13363,7 +13708,7 @@
       "dates": {
         "posted": "2026-02-07",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -13418,7 +13763,7 @@
       "dates": {
         "posted": "2026-05-20",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -13470,7 +13815,7 @@
       "dates": {
         "posted": "2026-05-22",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -13522,7 +13867,7 @@
       "dates": {
         "posted": "2026-05-22",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -13574,7 +13919,7 @@
       "dates": {
         "posted": "2026-05-22",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -13633,7 +13978,7 @@
       "dates": {
         "posted": "2026-04-23",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -13679,7 +14024,7 @@
       "dates": {
         "posted": "2025-09-15",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -13736,7 +14081,7 @@
       "dates": {
         "posted": "2026-07-15",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -13790,7 +14135,7 @@
       "dates": {
         "posted": "2026-07-21",
         "discovered": "2026-07-22",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -13842,9 +14187,9 @@
       "dates": {
         "posted": "2026-07-10",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -13949,7 +14294,7 @@
       "dates": {
         "posted": "2026-07-21",
         "discovered": "2026-07-21",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -14008,7 +14353,7 @@
       "dates": {
         "posted": "2026-07-21",
         "discovered": "2026-07-21",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -14064,7 +14409,7 @@
       "dates": {
         "posted": "2026-07-21",
         "discovered": "2026-07-21",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -14171,7 +14516,7 @@
       "dates": {
         "posted": "2026-07-21",
         "discovered": "2026-07-22",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -14222,7 +14567,7 @@
       "dates": {
         "posted": "2026-07-21",
         "discovered": "2026-07-21",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -14274,7 +14619,7 @@
       "dates": {
         "posted": "2026-06-22",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -14326,7 +14671,7 @@
       "dates": {
         "posted": "2026-06-23",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -14381,7 +14726,7 @@
       "dates": {
         "posted": "2026-07-07",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -14484,7 +14829,7 @@
       "dates": {
         "posted": "2026-04-20",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -14536,7 +14881,7 @@
       "dates": {
         "posted": "2026-04-20",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -14588,7 +14933,7 @@
       "dates": {
         "posted": "2026-07-14",
         "discovered": "2026-07-23",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -14640,7 +14985,7 @@
       "dates": {
         "posted": "2026-07-14",
         "discovered": "2026-07-23",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -14692,7 +15037,7 @@
       "dates": {
         "posted": "2026-07-14",
         "discovered": "2026-07-23",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -14743,7 +15088,7 @@
       "dates": {
         "posted": "2026-07-08",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -15005,7 +15350,7 @@
       "dates": {
         "posted": "2026-05-15",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -15057,7 +15402,7 @@
       "dates": {
         "posted": "2026-06-23",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -15213,7 +15558,7 @@
       "dates": {
         "posted": "2026-06-08",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -15264,7 +15609,7 @@
       "dates": {
         "posted": "2026-07-21",
         "discovered": "2026-07-21",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -15316,7 +15661,7 @@
       "dates": {
         "posted": "2026-05-20",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -15370,7 +15715,7 @@
       "dates": {
         "posted": "2026-07-23",
         "discovered": "2026-07-23",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -15423,7 +15768,7 @@
       "dates": {
         "posted": "2026-07-23",
         "discovered": "2026-07-23",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -15476,7 +15821,7 @@
       "dates": {
         "posted": "2026-07-23",
         "discovered": "2026-07-23",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -15530,7 +15875,7 @@
       "dates": {
         "posted": "2026-07-23",
         "discovered": "2026-07-23",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -15718,7 +16063,7 @@
       "dates": {
         "posted": "2026-07-20",
         "discovered": "2026-07-20",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -15772,7 +16117,7 @@
       "dates": {
         "posted": "2026-07-20",
         "discovered": "2026-07-20",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -15826,7 +16171,7 @@
       "dates": {
         "posted": "2026-04-07",
         "discovered": "2026-07-21",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -15880,7 +16225,7 @@
       "dates": {
         "posted": "2026-04-07",
         "discovered": "2026-07-21",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -15933,7 +16278,7 @@
       "dates": {
         "posted": "2026-05-01",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -16086,7 +16431,7 @@
       "dates": {
         "posted": "2026-07-21",
         "discovered": "2026-07-22",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -16138,7 +16483,7 @@
       "dates": {
         "posted": "2026-05-09",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -16192,7 +16537,7 @@
       "dates": {
         "posted": "2026-07-06",
         "discovered": "2026-07-18",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -16306,7 +16651,7 @@
       "dates": {
         "posted": "2026-07-21",
         "discovered": "2026-07-21",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -16462,7 +16807,53 @@
       "dates": {
         "posted": "2026-07-07",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "golden-pet-brands-data-analytics-intern-2026",
+      "company": {
+        "name": "Golden Pet Brands",
+        "slug": "golden-pet-brands"
+      },
+      "role": "Data Analytics Intern",
+      "category": "software-engineering",
+      "apply_url": "https://job-boards.greenhouse.io/goldenpetbrands/jobs/4713182005",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "remote",
+      "locations": [],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-23",
+        "discovered": "2026-07-24",
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -17014,7 +17405,7 @@
       "dates": {
         "posted": "2026-02-11",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -17069,7 +17460,7 @@
       "dates": {
         "posted": "2026-07-21",
         "discovered": "2026-07-21",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -17121,7 +17512,7 @@
       "dates": {
         "posted": "2026-04-23",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -17173,7 +17564,7 @@
       "dates": {
         "posted": "2026-06-24",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -17225,7 +17616,7 @@
       "dates": {
         "posted": "2026-06-29",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -17277,7 +17668,7 @@
       "dates": {
         "posted": "2026-06-25",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -17329,7 +17720,7 @@
       "dates": {
         "posted": "2025-10-14",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -17381,7 +17772,7 @@
       "dates": {
         "posted": "2026-03-06",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -17433,7 +17824,7 @@
       "dates": {
         "posted": "2026-04-17",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -17488,7 +17879,7 @@
       "dates": {
         "posted": "2026-04-01",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -17591,7 +17982,7 @@
       "dates": {
         "posted": "2026-04-20",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -17700,7 +18091,7 @@
       "dates": {
         "posted": "2026-06-23",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -17752,7 +18143,7 @@
       "dates": {
         "posted": "2026-07-20",
         "discovered": "2026-07-20",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -17806,7 +18197,7 @@
       "dates": {
         "posted": "2026-07-07",
         "discovered": "2026-07-21",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -17859,7 +18250,7 @@
       "dates": {
         "posted": "2026-07-07",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -18020,7 +18411,7 @@
       "dates": {
         "posted": "2026-04-28",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -18068,7 +18459,7 @@
       "dates": {
         "posted": "2026-07-08",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -18120,7 +18511,7 @@
       "dates": {
         "posted": "2026-07-07",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -18166,7 +18557,7 @@
       "dates": {
         "posted": "2026-07-21",
         "discovered": "2026-07-21",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -18222,7 +18613,7 @@
       "dates": {
         "posted": "2026-07-13",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -18275,7 +18666,7 @@
       "dates": {
         "posted": "2026-07-13",
         "discovered": "2026-07-23",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -18336,7 +18727,7 @@
       "dates": {
         "posted": "2026-07-13",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -18391,7 +18782,7 @@
       "dates": {
         "posted": "2026-07-01",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -18494,7 +18885,7 @@
       "dates": {
         "posted": "2026-07-04",
         "discovered": "2026-07-21",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -18546,7 +18937,7 @@
       "dates": {
         "posted": "2026-07-07",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -18598,7 +18989,7 @@
       "dates": {
         "posted": "2026-07-03",
         "discovered": "2026-07-18",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -18650,7 +19041,7 @@
       "dates": {
         "posted": "2026-07-02",
         "discovered": "2026-07-18",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -18754,7 +19145,7 @@
       "dates": {
         "posted": "2026-07-06",
         "discovered": "2026-07-18",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -18806,7 +19197,7 @@
       "dates": {
         "posted": "2026-07-06",
         "discovered": "2026-07-18",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -18914,7 +19305,7 @@
       "dates": {
         "posted": "2026-07-01",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -18966,7 +19357,7 @@
       "dates": {
         "posted": "2026-04-16",
         "discovered": "2026-07-18",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -19023,7 +19414,7 @@
       "dates": {
         "posted": "2026-07-06",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -19081,7 +19472,7 @@
       "dates": {
         "posted": "2026-07-01",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -19139,7 +19530,7 @@
       "dates": {
         "posted": "2026-07-01",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -19191,7 +19582,7 @@
       "dates": {
         "posted": "2026-07-01",
         "discovered": "2026-07-22",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -19247,7 +19638,7 @@
       "dates": {
         "posted": "2026-07-01",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -19299,7 +19690,7 @@
       "dates": {
         "posted": "2026-07-01",
         "discovered": "2026-07-22",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -19351,7 +19742,7 @@
       "dates": {
         "posted": "2026-07-22",
         "discovered": "2026-07-23",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -19463,7 +19854,7 @@
       "dates": {
         "posted": "2026-05-29",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -19612,7 +20003,7 @@
       "dates": {
         "posted": "2026-04-28",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -19667,7 +20058,7 @@
       "dates": {
         "posted": "2026-04-28",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -19721,7 +20112,7 @@
       "dates": {
         "posted": "2026-04-28",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -19775,7 +20166,7 @@
       "dates": {
         "posted": "2026-04-28",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -19827,7 +20218,7 @@
       "dates": {
         "posted": "2026-07-02",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -19884,7 +20275,7 @@
       "dates": {
         "posted": "2026-04-29",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -19936,7 +20327,7 @@
       "dates": {
         "posted": "2026-04-20",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -19990,7 +20381,7 @@
       "dates": {
         "posted": "2026-07-04",
         "discovered": "2026-07-21",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -20045,7 +20436,7 @@
       "dates": {
         "posted": "2026-06-22",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -20096,7 +20487,7 @@
       "dates": {
         "posted": "2026-07-21",
         "discovered": "2026-07-22",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -20152,7 +20543,7 @@
       "dates": {
         "posted": "2026-07-08",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -20208,7 +20599,7 @@
       "dates": {
         "posted": "2026-07-08",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -20260,7 +20651,7 @@
       "dates": {
         "posted": "2026-07-08",
         "discovered": "2026-07-18",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -20312,7 +20703,7 @@
       "dates": {
         "posted": "2026-07-08",
         "discovered": "2026-07-18",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -20368,7 +20759,7 @@
       "dates": {
         "posted": "2026-07-08",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -20420,7 +20811,7 @@
       "dates": {
         "posted": "2026-07-08",
         "discovered": "2026-07-18",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -20473,7 +20864,7 @@
       "dates": {
         "posted": "2026-07-13",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -20525,7 +20916,7 @@
       "dates": {
         "posted": "2026-07-13",
         "discovered": "2026-07-18",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -20576,7 +20967,7 @@
       "dates": {
         "posted": "2026-07-13",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -20628,7 +21019,7 @@
       "dates": {
         "posted": "2026-07-13",
         "discovered": "2026-07-18",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -20680,7 +21071,7 @@
       "dates": {
         "posted": "2025-10-29",
         "discovered": "2026-07-18",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -20732,7 +21123,7 @@
       "dates": {
         "posted": "2026-07-08",
         "discovered": "2026-07-18",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -20784,7 +21175,7 @@
       "dates": {
         "posted": "2026-07-13",
         "discovered": "2026-07-18",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -20835,7 +21226,7 @@
       "dates": {
         "posted": "2026-07-13",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -20887,7 +21278,7 @@
       "dates": {
         "posted": "2026-07-08",
         "discovered": "2026-07-18",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -20939,7 +21330,7 @@
       "dates": {
         "posted": "2026-07-13",
         "discovered": "2026-07-18",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -20990,7 +21381,7 @@
       "dates": {
         "posted": "2026-07-13",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -21042,7 +21433,7 @@
       "dates": {
         "posted": "2026-07-13",
         "discovered": "2026-07-18",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -21150,7 +21541,7 @@
       "dates": {
         "posted": "2026-07-13",
         "discovered": "2026-07-18",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -21208,7 +21599,7 @@
       "dates": {
         "posted": "2026-07-08",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -21259,7 +21650,7 @@
       "dates": {
         "posted": "2026-07-13",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -21311,7 +21702,7 @@
       "dates": {
         "posted": "2026-07-13",
         "discovered": "2026-07-18",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -21363,7 +21754,7 @@
       "dates": {
         "posted": "2026-07-08",
         "discovered": "2026-07-18",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -21415,7 +21806,7 @@
       "dates": {
         "posted": "2026-07-08",
         "discovered": "2026-07-18",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -21468,7 +21859,7 @@
       "dates": {
         "posted": "2026-07-13",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -21524,7 +21915,7 @@
       "dates": {
         "posted": "2026-07-08",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -21576,7 +21967,7 @@
       "dates": {
         "posted": "2026-07-13",
         "discovered": "2026-07-18",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -21638,7 +22029,7 @@
       "dates": {
         "posted": "2026-07-08",
         "discovered": "2026-07-18",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -21695,7 +22086,7 @@
       "dates": {
         "posted": "2026-07-08",
         "discovered": "2026-07-18",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -21747,7 +22138,7 @@
       "dates": {
         "posted": "2026-07-13",
         "discovered": "2026-07-18",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -21804,7 +22195,7 @@
       "dates": {
         "posted": "2026-07-08",
         "discovered": "2026-07-18",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -21856,7 +22247,7 @@
       "dates": {
         "posted": "2026-07-13",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -21908,7 +22299,7 @@
       "dates": {
         "posted": "2026-02-05",
         "discovered": "2026-07-18",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -21960,7 +22351,7 @@
       "dates": {
         "posted": "2026-07-08",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -22011,7 +22402,7 @@
       "dates": {
         "posted": "2026-07-13",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -22068,7 +22459,7 @@
       "dates": {
         "posted": "2026-07-08",
         "discovered": "2026-07-18",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -22120,7 +22511,7 @@
       "dates": {
         "posted": "2026-07-13",
         "discovered": "2026-07-18",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -22223,7 +22614,7 @@
       "dates": {
         "posted": "2026-07-21",
         "discovered": "2026-07-21",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -22275,7 +22666,7 @@
       "dates": {
         "posted": "2026-07-14",
         "discovered": "2026-07-21",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -22326,7 +22717,7 @@
       "dates": {
         "posted": "2026-07-22",
         "discovered": "2026-07-23",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -22380,7 +22771,7 @@
       "dates": {
         "posted": "2026-07-21",
         "discovered": "2026-07-21",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -22431,7 +22822,7 @@
       "dates": {
         "posted": "2026-05-20",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -22537,7 +22928,7 @@
       "dates": {
         "posted": "2026-07-21",
         "discovered": "2026-07-21",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -22588,7 +22979,7 @@
       "dates": {
         "posted": "2026-07-21",
         "discovered": "2026-07-21",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -22639,7 +23030,7 @@
       "dates": {
         "posted": "2026-06-30",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -22691,7 +23082,7 @@
       "dates": {
         "posted": "2026-05-22",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -22743,7 +23134,7 @@
       "dates": {
         "posted": "2026-05-22",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -22795,7 +23186,7 @@
       "dates": {
         "posted": "2026-05-22",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -22847,7 +23238,7 @@
       "dates": {
         "posted": "2026-06-26",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -22899,7 +23290,7 @@
       "dates": {
         "posted": "2026-06-26",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -22947,9 +23338,9 @@
       "dates": {
         "posted": "2026-07-10",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -23053,7 +23444,7 @@
       "dates": {
         "posted": "2026-07-21",
         "discovered": "2026-07-21",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -23105,7 +23496,7 @@
       "dates": {
         "posted": "2026-05-22",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -23208,7 +23599,7 @@
       "dates": {
         "posted": "2026-06-24",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -23260,7 +23651,7 @@
       "dates": {
         "posted": "2026-03-04",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -23312,7 +23703,7 @@
       "dates": {
         "posted": "2026-05-16",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -23363,7 +23754,7 @@
       "dates": {
         "posted": "2026-07-06",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -23414,7 +23805,7 @@
       "dates": {
         "posted": "2026-07-07",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -23468,7 +23859,7 @@
       "dates": {
         "posted": "2026-06-13",
         "discovered": "2026-07-21",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -23522,7 +23913,7 @@
       "dates": {
         "posted": "2026-07-04",
         "discovered": "2026-07-21",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -23628,7 +24019,7 @@
       "dates": {
         "posted": "2026-07-14",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -23784,7 +24175,7 @@
       "dates": {
         "posted": "2026-07-21",
         "discovered": "2026-07-21",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -23839,7 +24230,7 @@
       "dates": {
         "posted": "2026-05-14",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -23891,7 +24282,7 @@
       "dates": {
         "posted": "2026-05-20",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -23946,7 +24337,7 @@
       "dates": {
         "posted": "2026-02-03",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -23998,7 +24389,7 @@
       "dates": {
         "posted": "2026-05-16",
         "discovered": "2026-07-21",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -24106,7 +24497,7 @@
       "dates": {
         "posted": "2025-12-10",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -24183,7 +24574,7 @@
       "dates": {
         "posted": "2026-03-05",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -24236,7 +24627,7 @@
       "dates": {
         "posted": "2026-03-05",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -24290,7 +24681,7 @@
       "dates": {
         "posted": "2026-03-05",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -24344,7 +24735,7 @@
       "dates": {
         "posted": "2025-12-10",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -24407,7 +24798,7 @@
       "dates": {
         "posted": "2026-05-05",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -24461,7 +24852,7 @@
       "dates": {
         "posted": "2025-12-11",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -24515,7 +24906,7 @@
       "dates": {
         "posted": "2026-07-10",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -24583,7 +24974,7 @@
       "dates": {
         "posted": "2026-03-05",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -24637,7 +25028,7 @@
       "dates": {
         "posted": "2026-05-15",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -24691,7 +25082,7 @@
       "dates": {
         "posted": "2025-12-10",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -24754,7 +25145,7 @@
       "dates": {
         "posted": "2026-03-05",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -24807,7 +25198,7 @@
       "dates": {
         "posted": "2026-06-17",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -24871,7 +25262,7 @@
       "dates": {
         "posted": "2026-03-05",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -24923,7 +25314,7 @@
       "dates": {
         "posted": "2026-06-16",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -25029,7 +25420,7 @@
       "dates": {
         "posted": "2026-02-05",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -25081,7 +25472,7 @@
       "dates": {
         "posted": "2026-06-24",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -25136,7 +25527,7 @@
       "dates": {
         "posted": "2026-07-21",
         "discovered": "2026-07-21",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -25191,7 +25582,7 @@
       "dates": {
         "posted": "2026-07-21",
         "discovered": "2026-07-21",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -25243,7 +25634,7 @@
       "dates": {
         "posted": "2026-07-21",
         "discovered": "2026-07-21",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -25295,7 +25686,7 @@
       "dates": {
         "posted": "2026-07-21",
         "discovered": "2026-07-21",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -25354,7 +25745,7 @@
       "dates": {
         "posted": "2026-07-22",
         "discovered": "2026-07-23",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -25406,7 +25797,7 @@
       "dates": {
         "posted": "2026-07-21",
         "discovered": "2026-07-21",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -25458,7 +25849,7 @@
       "dates": {
         "posted": "2026-07-21",
         "discovered": "2026-07-21",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -25571,7 +25962,7 @@
       "dates": {
         "posted": "2026-07-04",
         "discovered": "2026-07-21",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -25623,7 +26014,7 @@
       "dates": {
         "posted": "2026-06-23",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -25675,7 +26066,7 @@
       "dates": {
         "posted": "2026-06-23",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -25727,7 +26118,7 @@
       "dates": {
         "posted": "2026-05-14",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -25780,7 +26171,7 @@
       "dates": {
         "posted": "2026-05-19",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -25835,7 +26226,7 @@
       "dates": {
         "posted": "2026-07-13",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -26001,7 +26392,7 @@
       "dates": {
         "posted": "2026-07-14",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -26053,7 +26444,7 @@
       "dates": {
         "posted": "2026-07-08",
         "discovered": "2026-07-21",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -26104,7 +26495,7 @@
       "dates": {
         "posted": "2026-07-21",
         "discovered": "2026-07-21",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -26155,7 +26546,7 @@
       "dates": {
         "posted": "2026-07-21",
         "discovered": "2026-07-21",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -26264,7 +26655,7 @@
       "dates": {
         "posted": "2026-04-20",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -26316,7 +26707,7 @@
       "dates": {
         "posted": "2026-04-20",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -26371,7 +26762,7 @@
       "dates": {
         "posted": "2026-07-21",
         "discovered": "2026-07-21",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -26425,7 +26816,7 @@
       "dates": {
         "posted": "2026-07-21",
         "discovered": "2026-07-21",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -26537,7 +26928,7 @@
       "dates": {
         "posted": "2026-04-28",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -26589,7 +26980,7 @@
       "dates": {
         "posted": "2026-02-18",
         "discovered": "2026-07-18",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -26641,7 +27032,7 @@
       "dates": {
         "posted": "2025-10-27",
         "discovered": "2026-07-18",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -26693,7 +27084,7 @@
       "dates": {
         "posted": "2026-04-15",
         "discovered": "2026-07-18",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -26745,7 +27136,7 @@
       "dates": {
         "posted": "2024-11-26",
         "discovered": "2026-07-18",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -26797,7 +27188,7 @@
       "dates": {
         "posted": "2025-07-15",
         "discovered": "2026-07-18",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -26849,7 +27240,7 @@
       "dates": {
         "posted": "2026-05-15",
         "discovered": "2026-07-18",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -26901,7 +27292,7 @@
       "dates": {
         "posted": "2025-05-30",
         "discovered": "2026-07-18",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -26953,7 +27344,7 @@
       "dates": {
         "posted": "2026-03-19",
         "discovered": "2026-07-18",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -27005,7 +27396,7 @@
       "dates": {
         "posted": "2025-04-15",
         "discovered": "2026-07-18",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -27057,7 +27448,7 @@
       "dates": {
         "posted": "2025-03-28",
         "discovered": "2026-07-18",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -27109,7 +27500,7 @@
       "dates": {
         "posted": "2025-09-30",
         "discovered": "2026-07-18",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -27213,7 +27604,7 @@
       "dates": {
         "posted": "2026-07-17",
         "discovered": "2026-07-18",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -27265,7 +27656,7 @@
       "dates": {
         "posted": "2025-05-14",
         "discovered": "2026-07-18",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -27317,7 +27708,7 @@
       "dates": {
         "posted": "2025-05-30",
         "discovered": "2026-07-18",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -27369,7 +27760,7 @@
       "dates": {
         "posted": "2025-05-07",
         "discovered": "2026-07-18",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -27421,7 +27812,7 @@
       "dates": {
         "posted": "2024-06-13",
         "discovered": "2026-07-18",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -27473,7 +27864,7 @@
       "dates": {
         "posted": "2024-12-13",
         "discovered": "2026-07-18",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -27525,7 +27916,7 @@
       "dates": {
         "posted": "2025-01-14",
         "discovered": "2026-07-18",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -27682,7 +28073,7 @@
       "dates": {
         "posted": "2026-05-20",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -27788,7 +28179,7 @@
       "dates": {
         "posted": "2026-04-16",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -27887,7 +28278,7 @@
       "dates": {
         "posted": "2026-07-15",
         "discovered": "2026-07-18",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -27944,7 +28335,7 @@
       "dates": {
         "posted": "2025-08-08",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -27997,7 +28388,7 @@
       "dates": {
         "posted": "2026-04-07",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -28049,7 +28440,7 @@
       "dates": {
         "posted": "2026-04-06",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -28106,7 +28497,7 @@
       "dates": {
         "posted": "2025-08-10",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -28163,7 +28554,7 @@
       "dates": {
         "posted": "2025-08-10",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -28215,7 +28606,7 @@
       "dates": {
         "posted": "2025-10-22",
         "discovered": "2026-07-18",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -28431,7 +28822,7 @@
       "dates": {
         "posted": "2026-07-09",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -28599,7 +28990,7 @@
       "dates": {
         "posted": "2026-05-23",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -28651,7 +29042,7 @@
       "dates": {
         "posted": "2026-05-19",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -28703,7 +29094,7 @@
       "dates": {
         "posted": "2026-04-25",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -28755,7 +29146,7 @@
       "dates": {
         "posted": "2026-07-20",
         "discovered": "2026-07-20",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -28809,7 +29200,7 @@
       "dates": {
         "posted": "2026-07-13",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -28916,7 +29307,7 @@
       "dates": {
         "posted": "2026-07-21",
         "discovered": "2026-07-21",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -29022,7 +29413,7 @@
       "dates": {
         "posted": "2026-07-21",
         "discovered": "2026-07-21",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -29074,7 +29465,7 @@
       "dates": {
         "posted": "2026-07-15",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -29181,7 +29572,7 @@
       "dates": {
         "posted": "2026-07-21",
         "discovered": "2026-07-21",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -29236,7 +29627,7 @@
       "dates": {
         "posted": "2026-07-21",
         "discovered": "2026-07-21",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -29290,7 +29681,7 @@
       "dates": {
         "posted": "2026-07-23",
         "discovered": "2026-07-23",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -29349,7 +29740,7 @@
       "dates": {
         "posted": "2026-07-01",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -29412,7 +29803,7 @@
       "dates": {
         "posted": "2026-07-01",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -29466,7 +29857,7 @@
       "dates": {
         "posted": "2026-07-01",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -29518,7 +29909,7 @@
       "dates": {
         "posted": "2026-07-07",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -29573,7 +29964,7 @@
       "dates": {
         "posted": "2026-07-01",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -29625,7 +30016,7 @@
       "dates": {
         "posted": "2026-07-07",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -29680,7 +30071,7 @@
       "dates": {
         "posted": "2026-07-01",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -29789,7 +30180,7 @@
       "dates": {
         "posted": "2026-07-22",
         "discovered": "2026-07-23",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -29839,7 +30230,7 @@
       "dates": {
         "posted": "2026-05-21",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -29890,7 +30281,7 @@
       "dates": {
         "posted": "2026-07-07",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -29941,7 +30332,7 @@
       "dates": {
         "posted": "2026-07-21",
         "discovered": "2026-07-21",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -29998,7 +30389,7 @@
       "dates": {
         "posted": "2026-07-04",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -30049,7 +30440,7 @@
       "dates": {
         "posted": "2026-02-19",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -30100,7 +30491,7 @@
       "dates": {
         "posted": "2026-03-10",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -30152,7 +30543,7 @@
       "dates": {
         "posted": "2026-06-30",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -30203,7 +30594,7 @@
       "dates": {
         "posted": "2026-06-29",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -30255,7 +30646,7 @@
       "dates": {
         "posted": "2026-07-02",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -30307,7 +30698,7 @@
       "dates": {
         "posted": "2025-12-12",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -30358,7 +30749,7 @@
       "dates": {
         "posted": "2026-06-29",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -30410,7 +30801,7 @@
       "dates": {
         "posted": "2026-05-09",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -30467,7 +30858,7 @@
       "dates": {
         "posted": "2026-04-20",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -30514,7 +30905,7 @@
       "dates": {
         "posted": "2026-07-21",
         "discovered": "2026-07-21",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -30566,7 +30957,7 @@
       "dates": {
         "posted": "2026-03-03",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -30625,7 +31016,7 @@
       "dates": {
         "posted": "2026-04-02",
         "discovered": "2026-07-21",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -30729,7 +31120,7 @@
       "dates": {
         "posted": "2026-06-13",
         "discovered": "2026-07-21",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -30780,7 +31171,7 @@
       "dates": {
         "posted": "2026-06-22",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -30831,7 +31222,7 @@
       "dates": {
         "posted": "2026-06-22",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -30891,7 +31282,7 @@
       "dates": {
         "posted": "2026-07-13",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -30946,7 +31337,7 @@
       "dates": {
         "posted": "2026-07-21",
         "discovered": "2026-07-21",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -30997,7 +31388,7 @@
       "dates": {
         "posted": "2026-07-21",
         "discovered": "2026-07-21",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -31048,7 +31439,7 @@
       "dates": {
         "posted": "2026-07-21",
         "discovered": "2026-07-21",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -31103,7 +31494,7 @@
       "dates": {
         "posted": "2026-07-10",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -31170,7 +31561,7 @@
       "dates": {
         "posted": "2026-04-20",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -31225,7 +31616,7 @@
       "dates": {
         "posted": "2026-04-20",
         "discovered": "2026-07-18",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -31276,7 +31667,7 @@
       "dates": {
         "posted": "2026-04-20",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -31327,7 +31718,7 @@
       "dates": {
         "posted": "2025-09-24",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -31379,7 +31770,7 @@
       "dates": {
         "posted": "2026-05-19",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -31451,7 +31842,7 @@
       "dates": {
         "posted": "2026-04-19",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -31503,7 +31894,7 @@
       "dates": {
         "posted": "2026-04-19",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -31555,7 +31946,7 @@
       "dates": {
         "posted": "2026-04-19",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -31610,7 +32001,7 @@
       "dates": {
         "posted": "2026-05-29",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -31662,7 +32053,7 @@
       "dates": {
         "posted": "2026-04-20",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -31714,7 +32105,7 @@
       "dates": {
         "posted": "2026-06-25",
         "discovered": "2026-07-18",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -31767,7 +32158,7 @@
       "dates": {
         "posted": "2026-07-09",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -31974,7 +32365,7 @@
       "dates": {
         "posted": "2026-07-09",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -32021,7 +32412,7 @@
       "dates": {
         "posted": "2025-08-07",
         "discovered": "2026-07-18",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -32073,7 +32464,7 @@
       "dates": {
         "posted": "2026-07-23",
         "discovered": "2026-07-23",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -32124,7 +32515,7 @@
       "dates": {
         "posted": "2026-07-21",
         "discovered": "2026-07-21",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -32170,7 +32561,7 @@
       "dates": {
         "posted": "2026-07-15",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -32321,7 +32712,7 @@
       "dates": {
         "posted": "2026-07-15",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -32378,7 +32769,7 @@
       "dates": {
         "posted": "2025-06-07",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -32440,7 +32831,7 @@
       "dates": {
         "posted": "2026-06-05",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -32492,7 +32883,7 @@
       "dates": {
         "posted": "2025-06-07",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -32546,7 +32937,7 @@
       "dates": {
         "posted": "2026-06-05",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -32603,7 +32994,7 @@
       "dates": {
         "posted": "2025-06-07",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -32665,7 +33056,7 @@
       "dates": {
         "posted": "2026-06-05",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -32711,7 +33102,7 @@
       "dates": {
         "posted": "2026-06-29",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -32766,7 +33157,7 @@
       "dates": {
         "posted": "2026-07-22",
         "discovered": "2026-07-22",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -32876,7 +33267,7 @@
       "dates": {
         "posted": "2026-07-22",
         "discovered": "2026-07-22",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -32931,7 +33322,7 @@
       "dates": {
         "posted": "2026-07-22",
         "discovered": "2026-07-22",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -32983,7 +33374,7 @@
       "dates": {
         "posted": "2026-06-11",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -33038,7 +33429,7 @@
       "dates": {
         "posted": "2026-06-11",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -33090,7 +33481,7 @@
       "dates": {
         "posted": "2025-11-01",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -33142,7 +33533,7 @@
       "dates": {
         "posted": "2025-11-01",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -33201,7 +33592,7 @@
       "dates": {
         "posted": "2026-06-11",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -33254,7 +33645,7 @@
       "dates": {
         "posted": "2026-06-11",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -33309,7 +33700,7 @@
       "dates": {
         "posted": "2026-06-11",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -33360,7 +33751,7 @@
       "dates": {
         "posted": "2026-06-11",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -33417,7 +33808,7 @@
       "dates": {
         "posted": "2026-06-11",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -33476,7 +33867,7 @@
       "dates": {
         "posted": "2026-06-11",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -33535,7 +33926,7 @@
       "dates": {
         "posted": "2026-06-11",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -33594,7 +33985,7 @@
       "dates": {
         "posted": "2026-06-11",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -33646,7 +34037,7 @@
       "dates": {
         "posted": "2025-10-30",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -33703,7 +34094,7 @@
       "dates": {
         "posted": "2026-06-24",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -33809,7 +34200,7 @@
       "dates": {
         "posted": "2026-06-09",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -33861,7 +34252,7 @@
       "dates": {
         "posted": "2026-05-22",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -33914,7 +34305,7 @@
       "dates": {
         "posted": "2026-07-07",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -33967,7 +34358,7 @@
       "dates": {
         "posted": "2026-07-07",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -34019,7 +34410,58 @@
       "dates": {
         "posted": "2026-07-21",
         "discovered": "2026-07-22",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "royal-bank-of-canada-relationship-manager-commercial-markets-intern-2026",
+      "company": {
+        "name": "Royal Bank of Canada",
+        "slug": "royal-bank-of-canada"
+      },
+      "role": "Relationship Manager Commercial Markets Intern",
+      "category": "software-engineering",
+      "apply_url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/CHARLOTTETOWN-Prince-Edward-Island-Canada/Relationship-Manager-Commercial-Markets-ntern-CFS_R-0000181764-1",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Charlottetown",
+          "country": "PE"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-23",
+        "discovered": "2026-07-24",
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -34125,7 +34567,7 @@
       "dates": {
         "posted": "2026-07-20",
         "discovered": "2026-07-20",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -34178,7 +34620,7 @@
       "dates": {
         "posted": "2026-07-13",
         "discovered": "2026-07-23",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -34231,7 +34673,7 @@
       "dates": {
         "posted": "2026-07-13",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -34303,7 +34745,7 @@
       "dates": {
         "posted": "2026-05-09",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -34517,7 +34959,7 @@
       "dates": {
         "posted": "2026-05-08",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -34569,7 +35011,7 @@
       "dates": {
         "posted": "2026-06-24",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -34621,7 +35063,7 @@
       "dates": {
         "posted": "2026-07-03",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -34675,7 +35117,7 @@
       "dates": {
         "posted": "2026-06-29",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -34728,7 +35170,7 @@
       "dates": {
         "posted": "2026-06-06",
         "discovered": "2026-07-18",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -34780,7 +35222,7 @@
       "dates": {
         "posted": "2025-10-23",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -34833,7 +35275,7 @@
       "dates": {
         "posted": "2025-09-22",
         "discovered": "2026-07-18",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -34885,7 +35327,7 @@
       "dates": {
         "posted": "2026-07-15",
         "discovered": "2026-07-21",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -34988,9 +35430,9 @@
       "dates": {
         "posted": "2026-06-08",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -35145,7 +35587,7 @@
       "dates": {
         "posted": "2026-07-01",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -35199,7 +35641,7 @@
       "dates": {
         "posted": "2026-07-01",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -35252,7 +35694,7 @@
       "dates": {
         "posted": "2026-07-01",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -35306,7 +35748,7 @@
       "dates": {
         "posted": "2026-07-01",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -35357,7 +35799,7 @@
       "dates": {
         "posted": "2025-08-19",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -35409,7 +35851,7 @@
       "dates": {
         "posted": "2026-07-21",
         "discovered": "2026-07-22",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -35515,7 +35957,7 @@
       "dates": {
         "posted": "2026-06-23",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -35567,7 +36009,7 @@
       "dates": {
         "posted": "2025-11-18",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -35673,7 +36115,7 @@
       "dates": {
         "posted": "2026-05-09",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -35730,7 +36172,7 @@
       "dates": {
         "posted": "2026-05-09",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -35782,7 +36224,7 @@
       "dates": {
         "posted": "2026-05-09",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -35839,7 +36281,7 @@
       "dates": {
         "posted": "2026-05-09",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -35946,7 +36388,7 @@
       "dates": {
         "posted": "2026-06-16",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -35997,7 +36439,7 @@
       "dates": {
         "posted": "2026-05-08",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -36048,7 +36490,7 @@
       "dates": {
         "posted": "2026-05-12",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -36099,7 +36541,7 @@
       "dates": {
         "posted": "2026-05-14",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -36186,7 +36628,7 @@
       "dates": {
         "posted": "2026-04-20",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -36238,7 +36680,7 @@
       "dates": {
         "posted": "2026-03-16",
         "discovered": "2026-07-18",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -36290,7 +36732,7 @@
       "dates": {
         "posted": "2026-03-16",
         "discovered": "2026-07-18",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -36342,7 +36784,7 @@
       "dates": {
         "posted": "2026-03-16",
         "discovered": "2026-07-18",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -36394,7 +36836,7 @@
       "dates": {
         "posted": "2026-03-16",
         "discovered": "2026-07-18",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -36447,7 +36889,7 @@
       "dates": {
         "posted": "2026-07-23",
         "discovered": "2026-07-23",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -36534,7 +36976,7 @@
       "dates": {
         "posted": "2026-04-20",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -36623,7 +37065,7 @@
       "dates": {
         "posted": "2026-03-16",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -36675,7 +37117,59 @@
       "dates": {
         "posted": "2026-07-15",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "spectrum-control-engineering-intern-2026",
+      "company": {
+        "name": "Spectrum Control",
+        "slug": "spectrum-control"
+      },
+      "role": "Engineering Intern",
+      "category": "software-engineering",
+      "apply_url": "https://spectrumcontrol.wd1.myworkdayjobs.com/spectrumcontrol/job/Fairview-PA/Engineering-Intern_JR101449",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Erie",
+          "state": "PA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-23",
+        "discovered": "2026-07-24",
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -36726,7 +37220,7 @@
       "dates": {
         "posted": "2026-07-21",
         "discovered": "2026-07-21",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -36777,7 +37271,7 @@
       "dates": {
         "posted": "2026-07-21",
         "discovered": "2026-07-21",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -36828,7 +37322,7 @@
       "dates": {
         "posted": "2026-07-21",
         "discovered": "2026-07-21",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -36933,7 +37427,7 @@
       "dates": {
         "posted": "2026-05-19",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -37038,7 +37532,7 @@
       "dates": {
         "posted": "2026-05-23",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -37092,7 +37586,7 @@
       "dates": {
         "posted": "2026-05-04",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -37144,7 +37638,7 @@
       "dates": {
         "posted": "2026-07-10",
         "discovered": "2026-07-18",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -37195,7 +37689,7 @@
       "dates": {
         "posted": "2026-05-11",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -37247,7 +37741,7 @@
       "dates": {
         "posted": "2026-05-22",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -37299,7 +37793,7 @@
       "dates": {
         "posted": "2026-06-25",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -37353,7 +37847,7 @@
       "dates": {
         "posted": "2026-06-04",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -37407,7 +37901,7 @@
       "dates": {
         "posted": "2026-04-21",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -37519,7 +38013,7 @@
       "dates": {
         "posted": "2026-07-15",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -37577,7 +38071,7 @@
       "dates": {
         "posted": "2026-06-29",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -37631,7 +38125,7 @@
       "dates": {
         "posted": "2026-04-21",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -37685,7 +38179,7 @@
       "dates": {
         "posted": "2026-07-06",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -37739,7 +38233,7 @@
       "dates": {
         "posted": "2026-04-23",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -37793,7 +38287,7 @@
       "dates": {
         "posted": "2026-07-15",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -37851,7 +38345,7 @@
       "dates": {
         "posted": "2026-06-29",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -37905,7 +38399,7 @@
       "dates": {
         "posted": "2026-04-21",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -37959,7 +38453,7 @@
       "dates": {
         "posted": "2026-04-21",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -38069,7 +38563,7 @@
       "dates": {
         "posted": "2026-06-30",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -38120,7 +38614,7 @@
       "dates": {
         "posted": "2026-06-30",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -38172,7 +38666,7 @@
       "dates": {
         "posted": "2026-04-17",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -38223,7 +38717,7 @@
       "dates": {
         "posted": "2026-07-15",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -38277,7 +38771,7 @@
       "dates": {
         "posted": "2026-04-23",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -38329,7 +38823,7 @@
       "dates": {
         "posted": "2026-07-07",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -38381,7 +38875,7 @@
       "dates": {
         "posted": "2026-06-12",
         "discovered": "2026-07-21",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -38432,7 +38926,7 @@
       "dates": {
         "posted": "2026-06-12",
         "discovered": "2026-07-18",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -38699,7 +39193,7 @@
       "dates": {
         "posted": "2026-07-04",
         "discovered": "2026-07-21",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -38753,7 +39247,7 @@
       "dates": {
         "posted": "2026-06-27",
         "discovered": "2026-07-22",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -38807,7 +39301,7 @@
       "dates": {
         "posted": "2026-06-19",
         "discovered": "2026-07-22",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -38858,7 +39352,7 @@
       "dates": {
         "posted": "2026-06-22",
         "discovered": "2026-07-21",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -38912,7 +39406,7 @@
       "dates": {
         "posted": "2026-06-13",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -38966,7 +39460,7 @@
       "dates": {
         "posted": "2026-01-21",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -39021,7 +39515,7 @@
       "dates": {
         "posted": "2026-07-15",
         "discovered": "2026-07-23",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -39076,7 +39570,7 @@
       "dates": {
         "posted": "2026-07-15",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -39130,7 +39624,7 @@
       "dates": {
         "posted": "2026-06-08",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -39185,7 +39679,59 @@
       "dates": {
         "posted": "2026-04-09",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "tenstorrent-software-engineer-intern-power-modeling-ai-tools-2027",
+      "company": {
+        "name": "Tenstorrent",
+        "slug": "tenstorrent"
+      },
+      "role": "Software Engineer Intern - Power Modeling & AI Tools",
+      "category": "ai",
+      "apply_url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5186916007",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Santa Clara",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-23",
+        "discovered": "2026-07-24",
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -39237,7 +39783,7 @@
       "dates": {
         "posted": "2026-05-14",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -39294,7 +39840,7 @@
       "dates": {
         "posted": "2026-06-07",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -39346,7 +39892,7 @@
       "dates": {
         "posted": "2026-06-07",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -39398,7 +39944,7 @@
       "dates": {
         "posted": "2026-06-29",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -39450,7 +39996,7 @@
       "dates": {
         "posted": "2026-06-07",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -39502,7 +40048,7 @@
       "dates": {
         "posted": "2026-06-07",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -39554,7 +40100,7 @@
       "dates": {
         "posted": "2026-06-07",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -39616,7 +40162,7 @@
       "dates": {
         "posted": "2025-08-03",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -39673,7 +40219,7 @@
       "dates": {
         "posted": "2025-08-13",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -39725,7 +40271,7 @@
       "dates": {
         "posted": "2025-08-08",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -39777,7 +40323,7 @@
       "dates": {
         "posted": "2025-08-10",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -39829,7 +40375,7 @@
       "dates": {
         "posted": "2025-08-08",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -39881,7 +40427,7 @@
       "dates": {
         "posted": "2025-08-08",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -39933,7 +40479,7 @@
       "dates": {
         "posted": "2026-06-12",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -39985,7 +40531,7 @@
       "dates": {
         "posted": "2025-08-21",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -40037,7 +40583,7 @@
       "dates": {
         "posted": "2026-06-07",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -40089,7 +40635,7 @@
       "dates": {
         "posted": "2026-06-23",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -40141,7 +40687,7 @@
       "dates": {
         "posted": "2026-06-16",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -40193,7 +40739,7 @@
       "dates": {
         "posted": "2026-06-30",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -40245,7 +40791,7 @@
       "dates": {
         "posted": "2026-06-07",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -40297,7 +40843,7 @@
       "dates": {
         "posted": "2026-06-07",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -40349,7 +40895,7 @@
       "dates": {
         "posted": "2026-06-07",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -40401,7 +40947,7 @@
       "dates": {
         "posted": "2026-06-07",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -40453,7 +40999,7 @@
       "dates": {
         "posted": "2026-05-06",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -40507,7 +41053,7 @@
       "dates": {
         "posted": "2026-06-16",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -40559,7 +41105,7 @@
       "dates": {
         "posted": "2026-06-07",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -40611,7 +41157,7 @@
       "dates": {
         "posted": "2026-05-09",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -40663,7 +41209,7 @@
       "dates": {
         "posted": "2026-06-07",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -40715,7 +41261,7 @@
       "dates": {
         "posted": "2026-06-07",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -40767,7 +41313,7 @@
       "dates": {
         "posted": "2026-06-09",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -40819,7 +41365,7 @@
       "dates": {
         "posted": "2026-06-16",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -40871,7 +41417,7 @@
       "dates": {
         "posted": "2026-06-07",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -40923,7 +41469,7 @@
       "dates": {
         "posted": "2026-07-16",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -40975,7 +41521,7 @@
       "dates": {
         "posted": "2026-07-03",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -41037,7 +41583,7 @@
       "dates": {
         "posted": "2026-06-07",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -41091,7 +41637,7 @@
       "dates": {
         "posted": "2026-06-06",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -41143,7 +41689,7 @@
       "dates": {
         "posted": "2026-07-01",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -41247,7 +41793,7 @@
       "dates": {
         "posted": "2025-09-24",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -41299,7 +41845,7 @@
       "dates": {
         "posted": "2026-06-07",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -41351,7 +41897,7 @@
       "dates": {
         "posted": "2026-06-29",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -41403,7 +41949,7 @@
       "dates": {
         "posted": "2026-06-30",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -41455,7 +42001,7 @@
       "dates": {
         "posted": "2025-08-03",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -41507,7 +42053,7 @@
       "dates": {
         "posted": "2026-07-01",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -41559,7 +42105,7 @@
       "dates": {
         "posted": "2026-05-06",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -41611,7 +42157,7 @@
       "dates": {
         "posted": "2026-06-07",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -41663,7 +42209,7 @@
       "dates": {
         "posted": "2026-06-07",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -41715,7 +42261,7 @@
       "dates": {
         "posted": "2026-06-07",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -41767,7 +42313,7 @@
       "dates": {
         "posted": "2026-06-07",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -41819,7 +42365,7 @@
       "dates": {
         "posted": "2026-06-24",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -41871,7 +42417,7 @@
       "dates": {
         "posted": "2026-06-16",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -41923,7 +42469,7 @@
       "dates": {
         "posted": "2026-07-01",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -41975,7 +42521,7 @@
       "dates": {
         "posted": "2026-06-07",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -42027,7 +42573,7 @@
       "dates": {
         "posted": "2026-06-06",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -42079,7 +42625,7 @@
       "dates": {
         "posted": "2025-08-08",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -42131,7 +42677,7 @@
       "dates": {
         "posted": "2026-05-09",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -42183,7 +42729,7 @@
       "dates": {
         "posted": "2026-06-07",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -42235,7 +42781,7 @@
       "dates": {
         "posted": "2026-07-01",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -42287,7 +42833,7 @@
       "dates": {
         "posted": "2026-07-10",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -42339,7 +42885,7 @@
       "dates": {
         "posted": "2025-08-30",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -42391,7 +42937,7 @@
       "dates": {
         "posted": "2026-06-07",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -42443,7 +42989,7 @@
       "dates": {
         "posted": "2025-10-30",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -42495,7 +43041,7 @@
       "dates": {
         "posted": "2026-06-07",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -42547,7 +43093,7 @@
       "dates": {
         "posted": "2025-08-15",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -42599,7 +43145,7 @@
       "dates": {
         "posted": "2026-05-09",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -42651,7 +43197,7 @@
       "dates": {
         "posted": "2025-08-13",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -42703,7 +43249,7 @@
       "dates": {
         "posted": "2026-06-07",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -42755,7 +43301,7 @@
       "dates": {
         "posted": "2026-06-12",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -42807,7 +43353,7 @@
       "dates": {
         "posted": "2026-05-11",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -42859,7 +43405,7 @@
       "dates": {
         "posted": "2025-10-30",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -42963,7 +43509,7 @@
       "dates": {
         "posted": "2026-06-07",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -43015,7 +43561,7 @@
       "dates": {
         "posted": "2026-06-07",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -43067,7 +43613,7 @@
       "dates": {
         "posted": "2026-06-07",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -43124,7 +43670,7 @@
       "dates": {
         "posted": "2026-06-07",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -43176,7 +43722,7 @@
       "dates": {
         "posted": "2026-06-16",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -43228,7 +43774,7 @@
       "dates": {
         "posted": "2026-06-07",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -43280,7 +43826,7 @@
       "dates": {
         "posted": "2026-06-07",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -43332,7 +43878,7 @@
       "dates": {
         "posted": "2026-06-07",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -43384,7 +43930,7 @@
       "dates": {
         "posted": "2026-05-09",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -43436,7 +43982,7 @@
       "dates": {
         "posted": "2025-08-15",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -43493,7 +44039,7 @@
       "dates": {
         "posted": "2026-04-20",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -43545,7 +44091,7 @@
       "dates": {
         "posted": "2026-05-09",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -43597,7 +44143,7 @@
       "dates": {
         "posted": "2026-06-07",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -43701,7 +44247,7 @@
       "dates": {
         "posted": "2026-06-07",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -43753,7 +44299,7 @@
       "dates": {
         "posted": "2025-08-08",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -43805,7 +44351,7 @@
       "dates": {
         "posted": "2025-09-12",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -43857,7 +44403,7 @@
       "dates": {
         "posted": "2026-06-07",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -43909,7 +44455,7 @@
       "dates": {
         "posted": "2026-05-06",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -43961,7 +44507,7 @@
       "dates": {
         "posted": "2026-06-07",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -44013,7 +44559,7 @@
       "dates": {
         "posted": "2025-08-21",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -44065,7 +44611,7 @@
       "dates": {
         "posted": "2026-06-06",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -44117,7 +44663,7 @@
       "dates": {
         "posted": "2026-06-11",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -44169,7 +44715,7 @@
       "dates": {
         "posted": "2025-08-15",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -44221,7 +44767,7 @@
       "dates": {
         "posted": "2026-06-16",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -44273,7 +44819,7 @@
       "dates": {
         "posted": "2026-06-30",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -44325,7 +44871,7 @@
       "dates": {
         "posted": "2026-07-01",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -44377,7 +44923,7 @@
       "dates": {
         "posted": "2026-04-20",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -44509,7 +45055,7 @@
       "dates": {
         "posted": "2026-03-02",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -44563,7 +45109,7 @@
       "dates": {
         "posted": "2026-07-07",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -44617,7 +45163,7 @@
       "dates": {
         "posted": "2026-07-03",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -44671,7 +45217,7 @@
       "dates": {
         "posted": "2026-07-02",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -44777,7 +45323,7 @@
       "dates": {
         "posted": "2026-04-25",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -44831,7 +45377,7 @@
       "dates": {
         "posted": "2026-03-31",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -44885,7 +45431,7 @@
       "dates": {
         "posted": "2026-07-07",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -44939,7 +45485,7 @@
       "dates": {
         "posted": "2026-07-03",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -44993,7 +45539,7 @@
       "dates": {
         "posted": "2026-07-21",
         "discovered": "2026-07-22",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -45047,7 +45593,7 @@
       "dates": {
         "posted": "2026-04-17",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -45101,7 +45647,7 @@
       "dates": {
         "posted": "2026-05-28",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -45153,7 +45699,7 @@
       "dates": {
         "posted": "2026-04-20",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -45205,7 +45751,7 @@
       "dates": {
         "posted": "2026-05-01",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -45310,7 +45856,7 @@
       "dates": {
         "posted": "2026-06-12",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -45364,7 +45910,7 @@
       "dates": {
         "posted": "2026-06-16",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -45415,7 +45961,7 @@
       "dates": {
         "posted": "2026-06-12",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -45528,7 +46074,7 @@
       "dates": {
         "posted": "2026-07-05",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -45642,7 +46188,7 @@
       "dates": {
         "posted": "2026-06-02",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -45699,7 +46245,7 @@
       "dates": {
         "posted": "2026-05-14",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -45751,7 +46297,7 @@
       "dates": {
         "posted": "2026-06-30",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -45797,7 +46343,7 @@
       "dates": {
         "posted": "2026-07-02",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -45849,7 +46395,7 @@
       "dates": {
         "posted": "2026-05-09",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -45903,7 +46449,7 @@
       "dates": {
         "posted": "2026-06-13",
         "discovered": "2026-07-21",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -45966,7 +46512,7 @@
       "dates": {
         "posted": "2026-03-25",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -46018,7 +46564,7 @@
       "dates": {
         "posted": "2026-07-21",
         "discovered": "2026-07-22",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -46070,7 +46616,7 @@
       "dates": {
         "posted": "2026-03-24",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -46122,7 +46668,7 @@
       "dates": {
         "posted": "2026-05-09",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -46174,7 +46720,7 @@
       "dates": {
         "posted": "2026-05-09",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -46234,7 +46780,7 @@
       "dates": {
         "posted": "2026-07-21",
         "discovered": "2026-07-21",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -46285,7 +46831,58 @@
       "dates": {
         "posted": "2026-07-20",
         "discovered": "2026-07-20",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "veralto-machine-learning-co-op-intern-2026",
+      "company": {
+        "name": "Veralto",
+        "slug": "veralto"
+      },
+      "role": "Machine Learning Co-op Intern",
+      "category": "machine-learning",
+      "apply_url": "https://veralto.wd1.myworkdayjobs.com/hachjobs/job/London-Ontario-Canada/Aquatic-Informatics---Machine-Learning-Co-Op--Intern-_R10267571",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Vancouver",
+          "country": "BC"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-23",
+        "discovered": "2026-07-24",
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -46438,7 +47035,7 @@
       "dates": {
         "posted": "2026-06-24",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -46540,7 +47137,7 @@
       "dates": {
         "posted": "2025-09-12",
         "discovered": "2026-07-18",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -46598,7 +47195,7 @@
       "dates": {
         "posted": "2026-07-22",
         "discovered": "2026-07-22",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -46650,7 +47247,7 @@
       "dates": {
         "posted": "2026-07-14",
         "discovered": "2026-07-18",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -46702,7 +47299,7 @@
       "dates": {
         "posted": "2026-07-01",
         "discovered": "2026-07-18",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -46759,7 +47356,7 @@
       "dates": {
         "posted": "2026-07-21",
         "discovered": "2026-07-23",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -46811,7 +47408,7 @@
       "dates": {
         "posted": "2026-07-20",
         "discovered": "2026-07-20",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -46873,7 +47470,7 @@
       "dates": {
         "posted": "2026-07-21",
         "discovered": "2026-07-21",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -46925,7 +47522,7 @@
       "dates": {
         "posted": "2026-07-09",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -46977,7 +47574,7 @@
       "dates": {
         "posted": "2026-07-10",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -47032,7 +47629,7 @@
       "dates": {
         "posted": "2026-07-14",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -47084,7 +47681,7 @@
       "dates": {
         "posted": "2026-07-14",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -47136,7 +47733,7 @@
       "dates": {
         "posted": "2026-05-23",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -47187,7 +47784,7 @@
       "dates": {
         "posted": "2026-06-10",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -47239,7 +47836,7 @@
       "dates": {
         "posted": "2026-06-10",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -47292,7 +47889,7 @@
       "dates": {
         "posted": "2026-06-10",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -47346,7 +47943,7 @@
       "dates": {
         "posted": "2026-06-10",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -47398,7 +47995,7 @@
       "dates": {
         "posted": "2026-06-10",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -47452,7 +48049,7 @@
       "dates": {
         "posted": "2026-06-10",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -47505,7 +48102,7 @@
       "dates": {
         "posted": "2026-06-10",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -47558,7 +48155,7 @@
       "dates": {
         "posted": "2026-06-10",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -47609,7 +48206,7 @@
       "dates": {
         "posted": "2026-07-23",
         "discovered": "2026-07-23",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -47661,7 +48258,7 @@
       "dates": {
         "posted": "2026-07-23",
         "discovered": "2026-07-23",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -47713,7 +48310,61 @@
       "dates": {
         "posted": "2026-07-06",
         "discovered": "2026-07-21",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "western-digital-failure-analysis-automation-engineer-intern-failure-analysis-2026",
+      "company": {
+        "name": "Western Digital",
+        "slug": "western-digital"
+      },
+      "role": "Failure Analysis Automation Engineer Intern - Failure Analysis Automation Engineering",
+      "category": "software-engineering",
+      "apply_url": "https://jobs.smartrecruiters.com/WesternDigital/744000139338269",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-23",
+        "discovered": "2026-07-24",
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -47792,7 +48443,7 @@
       "dates": {
         "posted": "2026-07-20",
         "discovered": "2026-07-20",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -47844,7 +48495,7 @@
       "dates": {
         "posted": "2026-07-06",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -47898,7 +48549,7 @@
       "dates": {
         "posted": "2026-04-10",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -47950,7 +48601,7 @@
       "dates": {
         "posted": "2026-05-12",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -48004,7 +48655,7 @@
       "dates": {
         "posted": "2026-04-20",
         "discovered": "2026-07-23",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -48058,7 +48709,7 @@
       "dates": {
         "posted": "2026-07-02",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -48212,7 +48863,7 @@
       "dates": {
         "posted": "2026-07-20",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -48377,7 +49028,7 @@
       "dates": {
         "posted": "2026-06-10",
         "discovered": "2026-07-21",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -48432,7 +49083,7 @@
       "dates": {
         "posted": "2026-06-27",
         "discovered": "2026-07-21",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -48489,7 +49140,7 @@
       "dates": {
         "posted": "2026-06-03",
         "discovered": "2026-07-21",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -48544,7 +49195,7 @@
       "dates": {
         "posted": "2026-06-27",
         "discovered": "2026-07-22",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [
@@ -48595,7 +49246,7 @@
       "dates": {
         "posted": "2026-07-21",
         "discovered": "2026-07-21",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-24"
       },
       "status": "open",
       "tags": [

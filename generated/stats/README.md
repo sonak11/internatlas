@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 📊 Statistics
 
-_Generated 2026-07-23_
+_Generated 2026-07-24_
 
 ## Top hiring companies
 
@@ -18,8 +18,8 @@ _Generated 2026-07-23_
 | Rivian and Volkswagen Group Technologies | 14 |
 | TikTok | 13 |
 | Etched | 12 |
+| Astranis | 11 |
 | Optiver | 11 |
-| Astranis | 10 |
 | NVIDIA | 9 |
 | Akuna Capital | 8 |
 | Castleton Commodities International | 8 |
@@ -33,15 +33,15 @@ _Generated 2026-07-23_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 423 | `████████████` |
-| quant | 106 | `███` |
-| ai | 88 | `██` |
-| machine-learning | 57 | `██` |
+| software-engineering | 430 | `████████████` |
+| quant | 107 | `███` |
+| ai | 89 | `██` |
+| machine-learning | 59 | `██` |
 | research | 49 | `█` |
 | hardware | 46 | `█` |
 | embedded | 38 | `█` |
+| product | 22 | `█` |
 | design | 22 | `█` |
-| product | 21 | `█` |
 | cloud | 17 | `█` |
 | data-science | 15 | `█` |
 | data-engineering | 10 | `█` |
@@ -49,26 +49,26 @@ _Generated 2026-07-23_
 
 ## Newest listings
 
+- 2026-07-23 — **Anthelion Capital**: [Quant Developer / Quant Research Intern](https://jobs.ashbyhq.com/anthelioncap/5e2ea37b-2369-474e-b717-c24c60976e96/application?embed=true)
+- 2026-07-23 — **Appian**: [Product Manager Intern](https://job-boards.greenhouse.io/appian/jobs/8041243)
+- 2026-07-23 — **Appian**: [Software Engineer Intern](https://job-boards.greenhouse.io/appian/jobs/8041237)
+- 2026-07-23 — **Astranis**: [Software Engineer Intern - Enterprise Systems](https://job-boards.greenhouse.io/astranis/jobs/4699071006)
+- 2026-07-23 — **Axogen**: [AI/ML Engineer Intern](https://www.axogeninc.com/about-axogen/careers/?gh_jid=8645955002)
 - 2026-07-23 — **Copart**: [Technology Product Analyst Intern](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Technology-Product-Analyst-Intern_JR110078)
 - 2026-07-23 — **G-Research**: [Data Science Intern](https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Data-Science-Internship_R3679)
 - 2026-07-23 — **G-Research**: [Machine Learning Research Intern](https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Machine-Learning-Research-Internship_R3682)
 - 2026-07-23 — **G-Research**: [Natural Language Processing Intern](https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Natural-Language-Processing-Internship_R3686)
 - 2026-07-23 — **G-Research**: [Quantitative Research Internship](https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Quant-Research-Internship_R3691)
+- 2026-07-23 — **Golden Pet Brands**: [Data Analytics Intern](https://job-boards.greenhouse.io/goldenpetbrands/jobs/4713182005)
 - 2026-07-23 — **Optiver**: [Institutional Trader Intern](https://job-boards.greenhouse.io/optiverprivate/jobs/8402208002)
 - 2026-07-23 — **Red Bull**: [Data Science Intern - Data Science](https://jobs.smartrecruiters.com/RedBull/744000139168339)
+- 2026-07-23 — **Royal Bank of Canada**: [Relationship Manager Commercial Markets Intern](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/CHARLOTTETOWN-Prince-Edward-Island-Canada/Relationship-Manager-Commercial-Markets-ntern-CFS_R-0000181764-1)
 - 2026-07-23 — **SpaceX**: [Recruiting Coordinator, Intern Program- Temporary](https://boards.greenhouse.io/spacex/jobs/8647830002?gh_jid=8647830002)
+- 2026-07-23 — **Spectrum Control**: [Engineering Intern](https://spectrumcontrol.wd1.myworkdayjobs.com/spectrumcontrol/job/Fairview-PA/Engineering-Intern_JR101449)
 - 2026-07-23 — **T. Rowe Price**: [Global Product Intern](https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Global-Product-Internship-Program_82693)
 - 2026-07-23 — **T. Rowe Price**: [Global Trading Intern](https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Global-Trading-Internship-Program_82718)
 - 2026-07-23 — **T. Rowe Price**: [Quantitative Equity Investing Intern](https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Quantitative-Equity-Investing-Internship-Program_82699)
 - 2026-07-23 — **T. Rowe Price**: [Technology and Data Intern](https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Technology-and-Data-Internship_82677)
-- 2026-07-23 — **Warner Bros.**: [Research, Analytics & Strategy Intern](https://warnerbros.wd5.myworkdayjobs.com/global/job/NY-New-York-30-Hudson-Yards/Research--Analytics---Strategy-Internships--NYC---Fall-2026_R000107153)
-- 2026-07-23 — **Warner Bros.**: [Sports Growth Strategy and Data Intern](https://warnerbros.wd5.myworkdayjobs.com/global/job/GA-Atlanta-1050-Techwood-Drive-NW/Sports-Growth-Strategy-and-Data-Internships--ATL---Fall-2026_R000107173)
-- 2026-07-22 — **Adtheorant**: [Enterprise AI Intern](https://careers-cadent.icims.com/jobs/1406/job?mobile=true&needsRedirect=false)
-- 2026-07-22 — **Arcadis**: [GIS Intern](https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/42762)
-- 2026-07-22 — **Carnegie Mellon University**: [Research Intern - School of Computer Science - Language Technologies Institute](https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Research-Intern---School-of-Computer-Science---LTI_2024870)
-- 2026-07-22 — **Impulse Space**: [Data Analytics Intern](https://impulsespace.pinpointhq.com/en/postings/bf86b5dc-b3bd-4bb1-b51c-75744ff8d978?ats=pinpointhq)
-- 2026-07-22 — **Kepler Communications**: [FPGA Digital Design Engineer Intern](https://jobs.lever.co/kepler/f06ca5e6-2e7f-4b76-a5c4-cb423d3cfc03/apply)
-- 2026-07-22 — **Moog**: [Software Engineering Intern](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Software-Engineering_R-26-18885-1)
 
 ## Recently closed
 
@@ -118,6 +118,7 @@ _Generated 2026-07-23_
 - Entergy — Power Delivery Intern
 - Environmental Defense Fund — Climate & Health Intern
 - Eragon — Applied AI Intern
+- Exowatt — Software Engineer Intern - Agent Platform - AI
 - Exploration Technology Corp. — Engineer Intern
 - Fab2 — Rust Software Engineer Intern
 - Firetiger — Product Engineer Intern/Co-op
@@ -151,6 +152,7 @@ _Generated 2026-07-23_
 - Jump Trading — Campus Quantitative Researcher Intern
 - Junior AI — Software Engineer Intern
 - Kinaxis — Software Development Co-op/Intern - C++
+- LexisNexis Risk Solutions — Editorial Data Reporting Intern
 - Light & Wonder — Mathematics Intern
 - Mackenzie Investments — Data Science and AI Specialist Intern - Investment Management - Fundamental Equity
 - Marvell — Design Verification Engineer Intern
@@ -190,6 +192,7 @@ _Generated 2026-07-23_
 - Samsung Research America — Computer Vision/AI Intern - Computer Vision/AI
 - Samsung Research America — Memory and Personalization Intern - Memory and Personalization
 - Schweitzer Engineering Laboratories — Software Engineering Intern
+- Seaspan — Digital Ship Intern
 - Seaspan — Energy Management Intern
 - Sentara Health — Enterprise Data & AI Intern
 - Signify — Product Management Intern
