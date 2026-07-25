@@ -37,7 +37,7 @@ _Generated 2026-07-25_
 | quant | 111 | `███` |
 | ai | 94 | `██` |
 | machine-learning | 61 | `██` |
-| research | 51 | `█` |
+| research | 52 | `█` |
 | hardware | 48 | `█` |
 | embedded | 38 | `█` |
 | cloud | 25 | `█` |
