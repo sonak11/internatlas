@@ -249,6 +249,7 @@
 | [Nextiva](../companies/nextiva.md) | 1/1 | ai |
 | [Nokia](../companies/nokia.md) | 1/4 | data-science, embedded, software-engineering |
 | [North Cloud](../companies/north-cloud.md) | 0/1 | ai |
+| [Northrop Grumman](../companies/northrop-grumman.md) | 1/1 | software-engineering |
 | [Northwestern Mutual](../companies/northwestern-mutual.md) | 1/1 | software-engineering |
 | [Notion](../companies/notion.md) | 6/6 | ai, software-engineering |
 | [Nuro](../companies/nuro.md) | 1/1 | ai |

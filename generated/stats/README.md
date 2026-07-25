@@ -33,7 +33,7 @@ _Generated 2026-07-25_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 482 | `████████████` |
+| software-engineering | 483 | `████████████` |
 | quant | 111 | `███` |
 | ai | 94 | `██` |
 | machine-learning | 61 | `██` |
@@ -49,6 +49,7 @@ _Generated 2026-07-25_
 
 ## Newest listings
 
+- 2026-07-25 — **Northrop Grumman**: [Software Engineer Intern](https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10239275)
 - 2026-07-24 — **Appian**: [Product Manager Intern](https://careers.appian.com/jobs/8041243-product-manager-intern-)
 - 2026-07-24 — **Appian**: [Software Engineering Intern](https://careers.appian.com/jobs/8041237-software-engineering-intern)
 - 2026-07-24 — **Bank of Montreal**: [Market Risk Analyst Co-op/Intern](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Market-Risk-Analyst--Fall-2026--Co-op-Internship----4-Months_R260022055)
@@ -68,7 +69,6 @@ _Generated 2026-07-25_
 - 2026-07-24 — **Jane Street**: [Fundamental Research Analyst Intern](https://www.janestreet.com/join-jane-street/position/8347286002/)
 - 2026-07-24 — **Jane Street**: [Hardware Engineer (FPGA/ASIC) Intern](https://www.janestreet.com/join-jane-street/position/8624440002/)
 - 2026-07-24 — **Jane Street**: [Linux Engineer Intern](https://www.janestreet.com/join-jane-street/position/8626260002/)
-- 2026-07-24 — **Jane Street**: [Machine Learning Engineer Intern](https://www.janestreet.com/join-jane-street/position/8611307002/)
 
 ## Recently closed
 
