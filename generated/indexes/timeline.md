@@ -730,6 +730,7 @@
 - Tesla — [Thermal Controls Engineer Intern - Thermal Controls Engineer - Vehicle Controls](https://www.tesla.com/careers/search/job/275327)
 - Tesla — [Vehicle Software Intern - Torque Path & Chassis Controls](https://www.tesla.com/careers/search/job/274760)
 - TETRAMEM — [Software Engineer Intern, Embedded](https://tetramem.hrmdirect.com/employment/job-opening.php?req=3491042)
+- The Federal Reserve System — [Business Survey Intern](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Richmond-VA/Fall-2026-Business-Survey-Intern_R-0000032532)
 - TikTok — [AI Product Operations Intern](https://lifeattiktok.com/search/7611950589973186821)
 - TikTok — [Applied Scientist Intern - Recommendation AI Lab](https://lifeattiktok.com/search/7659527183984019765)
 - TikTok — [Copyright Solution Product Manager Intern - Tiktok-Music](https://lifeattiktok.com/search/7657541997725288757)
