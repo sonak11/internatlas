@@ -1,15 +1,15 @@
 {
   "schema_version": "1.0",
-  "id": "copart-software-engineering-intern-2027",
+  "id": "copart-software-engineer-intern-2026-7f0d4f",
   "company": {
     "name": "Copart",
     "slug": "copart"
   },
-  "role": "Software Engineering Intern",
+  "role": "Software Engineer Intern",
   "category": "software-engineering",
   "apply_url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR110011",
-  "season": "summer",
-  "year": 2027,
+  "season": "fall",
+  "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
@@ -40,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-24",
+    "posted": "2026-07-21",
     "discovered": "2026-07-25",
     "last_verified": "2026-07-25"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:vanshb03"
+    "src:simplify"
   ]
 }

@@ -54,7 +54,6 @@ _Generated 2026-07-25_
 - 2026-07-24 — **Bank of Montreal**: [Market Risk Analyst Co-op/Intern](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Market-Risk-Analyst--Fall-2026--Co-op-Internship----4-Months_R260022055)
 - 2026-07-24 — **Bosch Home Comfort**: [Autonomous Driving Intern](https://jobs.smartrecruiters.com/BoschGroup/744000139649345)
 - 2026-07-24 — **City of Austin**: [Austin Aviation Undergraduate Intern - IT Business Systems Analyst](https://austintexas.wd5.myworkdayjobs.com/COA_Careers/job/AUS-Information-Systems-Building-IS/Austin-Aviation--IT-Business-Systems-Analyst---Undergraduate-Intern_JR104583)
-- 2026-07-24 — **Copart**: [Software Engineering Intern](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR110011)
 - 2026-07-24 — **Deepgram**: [Software Engineering Intern](https://jobs.ashbyhq.com/deepgram/dc8693b5-72ce-4ca3-ab15-9c8434d35da1)
 - 2026-07-24 — **fab2**: [Software Engineering Intern](https://jobs.ashbyhq.com/fab2/947338ca-e135-4398-9aa3-79e131bc03d5?embed=true)
 - 2026-07-24 — **Google**: [Software Engineering Intern](https://www.google.com/about/careers/applications/jobs/results/85564713261245126-software-engineering-intern-bs-summer-2027)
@@ -69,6 +68,7 @@ _Generated 2026-07-25_
 - 2026-07-24 — **Jane Street**: [Fundamental Research Analyst Intern](https://www.janestreet.com/join-jane-street/position/8347286002/)
 - 2026-07-24 — **Jane Street**: [Hardware Engineer (FPGA/ASIC) Intern](https://www.janestreet.com/join-jane-street/position/8624440002/)
 - 2026-07-24 — **Jane Street**: [Linux Engineer Intern](https://www.janestreet.com/join-jane-street/position/8626260002/)
+- 2026-07-24 — **Jane Street**: [Machine Learning Engineer Intern](https://www.janestreet.com/join-jane-street/position/8611307002/)
 
 ## Recently closed
 
@@ -82,7 +82,6 @@ _Generated 2026-07-25_
 - Amwins — Analytics & AI Intern
 - Aptiv — Engineer Intern
 - AQR Capital Management — Portfolio Implementation – Trading and Portfolio Finance Analyst Intern
-- AQR Capital Management — Trading Analyst Intern
 - Arrowstreet Capital — Quantitative Developer Intern
 - Autodesk — Machine Learning Developer Intern
 - AVEVA — Software Developer Intern Co-op
@@ -140,7 +139,6 @@ _Generated 2026-07-25_
 - Formlabs — Test Software Intern
 - Freeform — Process Engineer Intern
 - GE Aerospace — Engineer Intern
-- GE Appliances — Engineering Intern/Co-op
 - GE Healthcare — Engineering Development Program Intern - Hardware
 - GE Healthcare — Engineering Development Program Intern - Software
 - Generac — Data Science Intern
@@ -181,7 +179,6 @@ _Generated 2026-07-25_
 - Meta — Research Scientist Intern - 3D Vision & World Simulation
 - Microchip Technology — Applications Engineering Intern
 - Mistral AI — Applied Scientist / Research Engineer Intern
-- Mobius Renewables — Software Engineer Intern
 - Mosaic — Capital Project Engineering Co-op/Intern
 - National Laboratory of the Rockies — Energy Data Analysis Intern
 - National Laboratory of the Rockies — Graduate Geospatial Data Science Intern
@@ -215,7 +212,6 @@ _Generated 2026-07-25_
 - Rakuten International — Software Engineer Intern
 - Revvity — Product Manager Intern
 - RFCUNY — IT & Data Systems Intern - Archibus & Applications Development
-- Rise8 — Skillbridge Intern - Product Manager
 - Rivian — Machine Learning Compiler Intern - Machine Learning Compiler
 - Roam — Engineer Intern
 - Robert Bosch Venture Capital — Hardware & Embedded Research Intern
@@ -234,9 +230,7 @@ _Generated 2026-07-25_
 - Signify — Product Management Intern
 - Skydio — Software Engineer Intern
 - Solid Power — Product Development Intern
-- SOTI — Product Manager Intern - Sales Enablement Products
 - Spectrum Control — Engineering Intern
-- SpreeAI — Machine Learning Engineer Intern - Computer Vision/Multimodal/Generative AI
 - SS&C — Healthcare AI & Automation Intern
 - State of North Carolina — Geographic Information Systems Intern - GIS
 - Susquehanna International Group (SIG) — Quantitative Research Intern

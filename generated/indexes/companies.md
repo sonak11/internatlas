@@ -9,7 +9,7 @@
 | [ABC News](../companies/abc-news.md) | 1/1 | product |
 | [ACLU Kentucky](../companies/aclu-kentucky.md) | 0/1 | software-engineering |
 | [AMAROK Security](../companies/amarok-security.md) | 0/1 | research |
-| [AQR Capital Management](../companies/aqr-capital-management.md) | 0/2 | quant |
+| [AQR Capital Management](../companies/aqr-capital-management.md) | 1/2 | quant |
 | [ASM International](../companies/asm-international.md) | 1/1 | software-engineering |
 | [ASML](../companies/asml.md) | 1/1 | software-engineering |
 | [AVEVA](../companies/aveva.md) | 0/1 | software-engineering |
@@ -152,7 +152,7 @@
 | [Fussball Club Cincinnati LLC (“FC Cincinnati”)](../companies/fussball-club-cincinnati-llc-fc-cincinnati.md) | 1/1 | software-engineering |
 | [G-Research](../companies/g-research.md) | 4/4 | data-science, machine-learning, quant, software-engineering |
 | [GE Aerospace](../companies/ge-aerospace.md) | 0/1 | software-engineering |
-| [GE Appliances](../companies/ge-appliances.md) | 0/1 | software-engineering |
+| [GE Appliances](../companies/ge-appliances.md) | 1/1 | software-engineering |
 | [GE Healthcare](../companies/ge-healthcare.md) | 0/2 | hardware, software-engineering |
 | [GE Vernova](../companies/ge-vernova.md) | 2/2 | product |
 | [Gemini](../companies/gemini.md) | 1/1 | software-engineering |
@@ -225,7 +225,7 @@
 | [Midmark](../companies/midmark.md) | 1/1 | embedded |
 | [Mindsmith](../companies/mindsmith.md) | 1/1 | software-engineering |
 | [Mistral AI](../companies/mistral-ai.md) | 2/3 | ai, research |
-| [Mobius Renewables](../companies/mobius-renewables.md) | 1/2 | software-engineering |
+| [Mobius Renewables](../companies/mobius-renewables.md) | 2/2 | software-engineering |
 | [Monogram](../companies/monogram.md) | 1/1 | software-engineering |
 | [Moog](../companies/moog.md) | 1/1 | software-engineering |
 | [Moon](../companies/moon.md) | 3/3 | machine-learning, software-engineering |
@@ -293,7 +293,7 @@
 | [Revise Robotics](../companies/revise-robotics.md) | 1/1 | software-engineering |
 | [Revvity](../companies/revvity.md) | 1/2 | ai, product |
 | [Rippling](../companies/rippling.md) | 6/6 | machine-learning, software-engineering |
-| [Rise8](../companies/rise8.md) | 0/1 | product |
+| [Rise8](../companies/rise8.md) | 1/1 | product |
 | [Rivian](../companies/rivian.md) | 3/4 | embedded, machine-learning, research, software-engineering |
 | [Rivian and Volkswagen Group Technologies](../companies/rivian-and-volkswagen-group-technologies.md) | 14/14 | ai, embedded, software-engineering |
 | [Roam](../companies/roam.md) | 0/1 | software-engineering |
@@ -301,7 +301,7 @@
 | [Rocket Lab](../companies/rocket-lab.md) | 0/1 | software-engineering |
 | [Rockwell Automation](../companies/rockwell-automation.md) | 2/2 | embedded |
 | [Royal Bank of Canada](../companies/royal-bank-of-canada.md) | 1/2 | software-engineering |
-| [SOTI](../companies/soti.md) | 2/3 | data-science, product |
+| [SOTI](../companies/soti.md) | 3/3 | data-science, product |
 | [SPREEAI](../companies/spreeai.md) | 1/1 | ai |
 | [SS&C](../companies/ss-c.md) | 0/1 | ai |
 | [Salesforce](../companies/salesforce.md) | 0/3 | product, software-engineering |
@@ -326,7 +326,7 @@
 | [SpaceX](../companies/spacex.md) | 8/8 | hardware, software-engineering |
 | [Sparksoft](../companies/sparksoft.md) | 1/1 | software-engineering |
 | [Spectrum Control](../companies/spectrum-control.md) | 0/1 | software-engineering |
-| [SpreeAI](../companies/spreeai.md) | 3/4 | machine-learning, software-engineering |
+| [SpreeAI](../companies/spreeai.md) | 4/4 | machine-learning, software-engineering |
 | [StarSling](../companies/starsling.md) | 1/1 | software-engineering |
 | [State of North Carolina](../companies/state-of-north-carolina.md) | 0/1 | software-engineering |
 | [Stoke Space](../companies/stoke-space.md) | 2/2 | software-engineering |
