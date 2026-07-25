@@ -147,7 +147,7 @@
 | [Fluency](../companies/fluency.md) | 0/1 | software-engineering |
 | [Formlabs](../companies/formlabs.md) | 1/7 | ai, hardware, software-engineering |
 | [Four Hands](../companies/four-hands.md) | 1/1 | software-engineering |
-| [Freeform](../companies/freeform.md) | 1/1 | software-engineering |
+| [Freeform](../companies/freeform.md) | 0/1 | software-engineering |
 | [Frontier Health](../companies/frontier-health.md) | 1/1 | research |
 | [Fussball Club Cincinnati LLC (“FC Cincinnati”)](../companies/fussball-club-cincinnati-llc-fc-cincinnati.md) | 1/1 | software-engineering |
 | [G-Research](../companies/g-research.md) | 4/4 | data-science, machine-learning, quant, software-engineering |
@@ -192,7 +192,7 @@
 | [Integrity](../companies/integrity.md) | 1/1 | research |
 | [Intel](../companies/intel.md) | 0/1 | ai |
 | [Intercontinental Exchange, Inc.](../companies/intercontinental-exchange-inc.md) | 1/1 | machine-learning |
-| [International Rescue Committee (IRC)](../companies/international-rescue-committee-irc.md) | 1/1 | research |
+| [International Rescue Committee (IRC)](../companies/international-rescue-committee-irc.md) | 2/2 | research, software-engineering |
 | [Intuitive Surgical](../companies/intuitive-surgical.md) | 1/1 | software-engineering |
 | [JINGDONG](../companies/jingdong.md) | 1/1 | software-engineering |
 | [Jane Street](../companies/jane-street.md) | 16/16 | data-engineering, hardware, machine-learning, quant, research, security, software-engineering |
@@ -340,7 +340,7 @@
 | [TETRAMEM](../companies/tetramem.md) | 1/1 | embedded |
 | [TMEIC](../companies/tmeic.md) | 1/1 | machine-learning |
 | [TMX Group](../companies/tmx-group.md) | 0/1 | software-engineering |
-| [Tencent](../companies/tencent.md) | 8/8 | ai, machine-learning, research, software-engineering |
+| [Tencent](../companies/tencent.md) | 6/8 | ai, machine-learning, research, software-engineering |
 | [Tenstorrent](../companies/tenstorrent.md) | 3/3 | ai, design |
 | [Terranox AI](../companies/terranox-ai.md) | 1/1 | machine-learning |
 | [Tesla](../companies/tesla.md) | 94/98 | ai, cloud, data-engineering, design, embedded, hardware, machine-learning, product, security, software-engineering |

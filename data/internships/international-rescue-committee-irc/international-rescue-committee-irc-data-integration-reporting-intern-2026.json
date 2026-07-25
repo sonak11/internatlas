@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "databricks-product-management-intern-summer-2027-2027",
+  "id": "international-rescue-committee-irc-data-integration-reporting-intern-2026",
   "company": {
-    "name": "Databricks",
-    "slug": "databricks",
-    "career_page": "https://www.databricks.com/company/careers/university-recruiting"
+    "name": "International Rescue Committee (IRC)",
+    "slug": "international-rescue-committee-irc"
   },
-  "role": "Product Management Intern (Summer 2027)",
-  "category": "product",
-  "apply_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6883068002",
-  "season": "summer",
-  "year": 2027,
+  "role": "Data Integration & Reporting Intern",
+  "category": "software-engineering",
+  "apply_url": "https://theirc.wd1.myworkdayjobs.com/en-US/External_Careers/job/San-Diego-CA-USA/Fall-2026--Data-Integration---Reporting-Intern--Unpaid-_JR00004327",
+  "season": "fall",
+  "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Bellevue",
+      "city": "San Diego",
+      "state": "CA",
       "country": "USA"
     }
   ],
@@ -25,7 +25,9 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "masters"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -40,13 +42,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2023-08-17",
-    "discovered": "2026-07-18",
+    "posted": "2026-07-24",
+    "discovered": "2026-07-25",
     "last_verified": "2026-07-25"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:ats"
+    "src:simplify"
   ]
 }

@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 📊 Statistics
 
-_Generated 2026-07-24_
+_Generated 2026-07-25_
 
 ## Top hiring companies
 
@@ -33,7 +33,7 @@ _Generated 2026-07-24_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 480 | `████████████` |
+| software-engineering | 481 | `████████████` |
 | quant | 111 | `███` |
 | ai | 93 | `██` |
 | machine-learning | 61 | `██` |
@@ -62,13 +62,13 @@ _Generated 2026-07-24_
 - 2026-07-24 — **IMC**: [Hardware Engineer Intern](https://www.imc.com/us/careers/jobs/4823945101)
 - 2026-07-24 — **IMC**: [Quantitative Research Intern](https://www.imc.com/us/careers/jobs/4907399101)
 - 2026-07-24 — **IMC**: [Quantitative Research Intern (PHD)](https://www.imc.com/us/careers/jobs/4907400101)
+- 2026-07-24 — **International Rescue Committee (IRC)**: [Data Integration & Reporting Intern](https://theirc.wd1.myworkdayjobs.com/en-US/External_Careers/job/San-Diego-CA-USA/Fall-2026--Data-Integration---Reporting-Intern--Unpaid-_JR00004327)
 - 2026-07-24 — **Jane Street**: [Cybersecurity Analyst Intern](https://www.janestreet.com/join-jane-street/position/8632723002/)
 - 2026-07-24 — **Jane Street**: [Data Engineer Intern](https://www.janestreet.com/join-jane-street/position/8631973002/)
 - 2026-07-24 — **Jane Street**: [Fundamental Research Analyst Intern](https://www.janestreet.com/join-jane-street/position/8347286002/)
 - 2026-07-24 — **Jane Street**: [Hardware Engineer (FPGA/ASIC) Intern](https://www.janestreet.com/join-jane-street/position/8624440002/)
 - 2026-07-24 — **Jane Street**: [Linux Engineer Intern](https://www.janestreet.com/join-jane-street/position/8626260002/)
 - 2026-07-24 — **Jane Street**: [Machine Learning Engineer Intern](https://www.janestreet.com/join-jane-street/position/8611307002/)
-- 2026-07-24 — **Jane Street**: [Machine Learning Researcher Intern](https://www.janestreet.com/join-jane-street/position/8384490002/)
 
 ## Recently closed
 
@@ -138,6 +138,7 @@ _Generated 2026-07-24_
 - Formlabs — Manufacturing Test Software Intern
 - Formlabs — Supply Chain Operations Software Intern
 - Formlabs — Test Software Intern
+- Freeform — Process Engineer Intern
 - GE Aerospace — Engineer Intern
 - GE Appliances — Engineering Intern/Co-op
 - GE Healthcare — Engineering Development Program Intern - Hardware
@@ -240,6 +241,8 @@ _Generated 2026-07-24_
 - T. Rowe Price — Global Trading Intern
 - T. Rowe Price — Quantitative Equity Investing Intern
 - T. Rowe Price — Technology and Data Intern
+- Tencent — Research Intern
+- Tencent — Research Intern
 - Tesla — Embedded Software Engineer Intern - Embedded Software Engineer - Steering,Chassis Systems
 - Tesla — Firmware Integration Engineer Intern - Software Integration Engineer - Factory Firmware
 - Tesla — Software Engineer Intern - Simulation Platform - Software Engineer
