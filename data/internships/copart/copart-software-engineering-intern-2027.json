@@ -1,19 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "exploration-technology-corp-engineer-intern-2026",
+  "id": "copart-software-engineering-intern-2027",
   "company": {
-    "name": "Exploration Technology Corp.",
-    "slug": "exploration-technology-corp"
+    "name": "Copart",
+    "slug": "copart"
   },
-  "role": "Engineer Intern",
+  "role": "Software Engineering Intern",
   "category": "software-engineering",
-  "apply_url": "https://ats.rippling.com/etg/jobs/75ad65e6-f504-4ae2-adf1-587e704b2bcc",
-  "season": "fall",
-  "year": 2026,
+  "apply_url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR110011",
+  "season": "summer",
+  "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "SF",
+      "city": "Dallas",
+      "state": "TX",
       "country": "USA"
     }
   ],
@@ -27,7 +28,7 @@
     "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
-    "visa_sponsorship": "unknown"
+    "visa_sponsorship": "yes"
   },
   "interview": {},
   "tech": {
@@ -39,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-21",
-    "discovered": "2026-07-22",
+    "posted": "2026-07-24",
+    "discovered": "2026-07-25",
     "last_verified": "2026-07-25"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }
