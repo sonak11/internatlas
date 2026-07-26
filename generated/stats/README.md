@@ -157,7 +157,10 @@ _Generated 2026-07-26_
 - Hitachi Energy — Cloud & Data Specialist Intern
 - Hitachi Energy — Engineering Knowledge Management Intern - 8 months
 - Ignite Digital Services — Engineer/Scientist Intern
+- IMC Trading — 2027 - FPGA Intern - IIT Bombay
+- IMC Trading — 2027 - Quant Research Intern - IIT Bombay
 - IMC Trading — 2027 - Quant Research Intern - IIT Delhi
+- IMC Trading — 2027 - Software Engineering Intern - IIT Bombay
 - IMC Trading — 2027 - Software Engineering Intern - IIT Delhi
 - Impulse Space — Radio Frequency Engineering Intern
 - Instacart — Machine Learning Engineer, PhD Intern (Fall)
@@ -169,6 +172,7 @@ _Generated 2026-07-26_
 - Kudu Dynamics — Software Engineer Intern
 - Kudu Dynamics — Software Engineer Intern
 - Kudu Dynamics — Software Engineer Intern
+- LexisNexis Risk Solutions — Editorial Data Reporting Intern
 - Light & Wonder — Mathematics Intern
 - LiveRamp — Software Engineer Intern, Pixel Serving
 - Mackenzie Investments — Data Science and AI Specialist Intern - Investment Management - Fundamental Equity

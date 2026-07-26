@@ -20222,7 +20222,7 @@
         "discovered": "2026-07-18",
         "last_verified": "2026-07-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:ats"
@@ -20274,7 +20274,7 @@
         "discovered": "2026-07-18",
         "last_verified": "2026-07-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:ats"
@@ -20430,7 +20430,7 @@
         "discovered": "2026-07-18",
         "last_verified": "2026-07-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:ats"
@@ -25457,7 +25457,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
