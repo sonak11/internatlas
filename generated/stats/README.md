@@ -174,7 +174,6 @@ _Generated 2026-07-26_
 - Kudu Dynamics — Software Engineer Intern
 - Kudu Dynamics — Software Engineer Intern
 - Kudu Dynamics — Software Engineer Intern
-- LexisNexis Risk Solutions — Editorial Data Reporting Intern
 - Light & Wonder — Mathematics Intern
 - LiveRamp — Software Engineer Intern, Pixel Serving
 - Mackenzie Investments — Data Science and AI Specialist Intern - Investment Management - Fundamental Equity

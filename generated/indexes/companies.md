@@ -208,7 +208,7 @@
 | [Kirin](../companies/kirin.md) | 2/2 | ai, quant |
 | [Kudu Dynamics](../companies/kudu-dynamics.md) | 0/3 | software-engineering |
 | [Lawrence Livermore National Laboratory (LLNL)](../companies/lawrence-livermore-national-laboratory-llnl.md) | 2/2 | software-engineering |
-| [LexisNexis Risk Solutions](../companies/lexisnexis-risk-solutions.md) | 0/1 | software-engineering |
+| [LexisNexis Risk Solutions](../companies/lexisnexis-risk-solutions.md) | 1/1 | software-engineering |
 | [Light & Wonder](../companies/light-wonder.md) | 0/1 | software-engineering |
 | [Littelfuse](../companies/littelfuse.md) | 1/1 | software-engineering |
 | [LiveRamp](../companies/liveramp.md) | 0/1 | software-engineering |

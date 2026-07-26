@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 💻 Software Engineering Internships
 
-**488** tracked · **378** open now
+**488** tracked · **379** open now
 
 ## Current openings
 
@@ -180,6 +180,7 @@
 | [KRAFTON](generated/companies/krafton.md) | [Programming Intern](https://job-boards.greenhouse.io/studiokraftonboard/jobs/8613468002) | Montreal | Onsite | 2026-06-30 | Rolling | 🟢 Open | ❔ |
 | [Lawrence Livermore National Laboratory (LLNL)](generated/companies/lawrence-livermore-national-laboratory-llnl.md) | [Computing Graduate Student Intern](https://jobs.smartrecruiters.com/LLNL/3743990013801396) | Livermore, CA | Onsite | 2026-06-26 | Rolling | 🟢 Open | ❔ |
 | [Lawrence Livermore National Laboratory (LLNL)](generated/companies/lawrence-livermore-national-laboratory-llnl.md) | [Computing Undergraduate Student Intern](https://jobs.smartrecruiters.com/LLNL/3743990013801386) | Livermore, CA | Onsite | 2026-06-26 | Rolling | 🟢 Open | ❔ |
+| [LexisNexis Risk Solutions](generated/companies/lexisnexis-risk-solutions.md) | [Editorial Data Reporting Intern](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Home-based-Washington-DC/Editorial-Data-Reporting-Intern_R112971-1) | Remote | Remote | 2026-07-10 | Rolling | 🟢 Open | ❔ |
 | [Littelfuse](generated/companies/littelfuse.md) | [Intern 1 - Engineering](https://littelfuse.wd1.myworkdayjobs.com/Littelfuse-Careers/job/Dole/Intern-I--engineering_JR-112116) | Gastonia, NC | Onsite | 2026-07-21 | Rolling | 🟢 Open | ❔ |
 | [Magna](generated/companies/magna.md) | [R&D-Computer Vision Engineer Intern](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Troy-Michigan-US/R-D--Computer-Vision-Engineering-Intern_R00253444-1) | Troy, MI | Onsite | 2026-07-24 | Rolling | 🟢 Open | ❔ |
 | [Markem-Imaje](generated/companies/markem-imaje.md) | [Software Engineer Intern](https://careers.dovercorporation.com/job/Keene-Software-Engineer-Intern-NH-03431/1404722033) | Keene, NH | Onsite | 2026-06-24 | Rolling | 🟢 Open | ❔ |
@@ -447,7 +448,6 @@
 | [Kudu Dynamics](generated/companies/kudu-dynamics.md) | [Software Engineer Intern](https://leidos.wd5.myworkdayjobs.com/External/job/Chantilly-VA/Software-Engineer-Intern_R-00183721) | Chantilly, VA | Onsite | 2026-05-22 | Rolling | 🔴 Closed | ❔ |
 | [Kudu Dynamics](generated/companies/kudu-dynamics.md) | [Software Engineer Intern](https://leidos.wd5.myworkdayjobs.com/External/job/Chantilly-VA/Software-Engineer-Intern_R-00183714) | Chantilly, VA | Onsite | 2026-05-22 | Rolling | 🔴 Closed | ❔ |
 | [Kudu Dynamics](generated/companies/kudu-dynamics.md) | [Software Engineer Intern](https://leidos.wd5.myworkdayjobs.com/External/job/Chantilly-VA/Software-Engineer-Intern_R-00183707) | Chantilly, VA | Onsite | 2026-05-22 | Rolling | 🔴 Closed | ❔ |
-| [LexisNexis Risk Solutions](generated/companies/lexisnexis-risk-solutions.md) | [Editorial Data Reporting Intern](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Home-based-Washington-DC/Editorial-Data-Reporting-Intern_R112971-1) | Remote | Remote | 2026-07-10 | Rolling | 🔴 Closed | ❔ |
 | [Light & Wonder](generated/companies/light-wonder.md) | [Mathematics Intern](https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/Chicago-IL/Math-Intern_R322327) | Chicago, IL | Onsite | 2026-06-26 | Rolling | 🔴 Closed | ❔ |
 | [LiveRamp](generated/companies/liveramp.md) | [Software Engineer Intern, Pixel Serving](https://liveramp.wd5.myworkdayjobs.com/LiveRampCareers/job/New-York/Intern--Software-Engineer---Pixel-Serving_JR012201) | New York, NY | Onsite | 2026-05-22 | Rolling | 🔴 Closed | ❔ |
 | [McKesson](generated/companies/mckesson.md) | [Data Governance Analyst Intern](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-ON-Mississauga/Data-Governance-Analyst-Intern---Fall-2026_JR0149860) | Mississauga | Onsite | 2026-07-09 | Rolling | 🔴 Closed | ❔ |
@@ -648,6 +648,7 @@
 - JINGDONG (1)
 - k-ID (1)
 - KRAFTON (1)
+- LexisNexis Risk Solutions (1)
 - Littelfuse (1)
 - Magna (1)
 - Markem-Imaje (1)
@@ -733,7 +734,6 @@
 - Hitachi Energy (1)
 - Ignite Digital Services (1)
 - Junior AI (1)
-- LexisNexis Risk Solutions (1)
 - Light & Wonder (1)
 - LiveRamp (1)
 - Microchip Technology (1)

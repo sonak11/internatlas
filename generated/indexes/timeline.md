@@ -367,6 +367,7 @@
 - KRAFTON — [Programming Intern](https://job-boards.greenhouse.io/studiokraftonboard/jobs/8613468002)
 - Lawrence Livermore National Laboratory (LLNL) — [Computing Graduate Student Intern](https://jobs.smartrecruiters.com/LLNL/3743990013801396)
 - Lawrence Livermore National Laboratory (LLNL) — [Computing Undergraduate Student Intern](https://jobs.smartrecruiters.com/LLNL/3743990013801386)
+- LexisNexis Risk Solutions — [Editorial Data Reporting Intern](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Home-based-Washington-DC/Editorial-Data-Reporting-Intern_R112971-1)
 - Littelfuse — [Intern 1 - Engineering](https://littelfuse.wd1.myworkdayjobs.com/Littelfuse-Careers/job/Dole/Intern-I--engineering_JR-112116)
 - Magna — [R&D-Computer Vision Engineer Intern](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Troy-Michigan-US/R-D--Computer-Vision-Engineering-Intern_R00253444-1)
 - Markem-Imaje — [Software Engineer Intern](https://careers.dovercorporation.com/job/Keene-Software-Engineer-Intern-NH-03431/1404722033)

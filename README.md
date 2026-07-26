@@ -8,7 +8,7 @@
 
 No dead links, no generic careers pages. Just current openings, newest first, with the date each one was posted.
 
-![summer 2027](https://img.shields.io/badge/summer%202027-305-blue?style=for-the-badge) ![open now](https://img.shields.io/badge/open%20now-266-brightgreen?style=for-the-badge) ![companies](https://img.shields.io/badge/companies-388-purple?style=for-the-badge) ![visa sponsors](https://img.shields.io/badge/visa%20sponsors-15-orange?style=for-the-badge) ![remote roles](https://img.shields.io/badge/remote%20roles-25-teal?style=for-the-badge) ![sync](https://img.shields.io/badge/sync-hourly-success?style=for-the-badge) ![updated](https://img.shields.io/badge/updated-2026--07--26%206:07%20PM%20EDT-lightgrey?style=for-the-badge)
+![summer 2027](https://img.shields.io/badge/summer%202027-305-blue?style=for-the-badge) ![open now](https://img.shields.io/badge/open%20now-266-brightgreen?style=for-the-badge) ![companies](https://img.shields.io/badge/companies-388-purple?style=for-the-badge) ![visa sponsors](https://img.shields.io/badge/visa%20sponsors-15-orange?style=for-the-badge) ![remote roles](https://img.shields.io/badge/remote%20roles-25-teal?style=for-the-badge) ![sync](https://img.shields.io/badge/sync-hourly-success?style=for-the-badge) ![updated](https://img.shields.io/badge/updated-2026--07--26%207:08%20PM%20EDT-lightgrey?style=for-the-badge)
 
 [**📋 Browse listings**](#-summer-2027-internships) · [**🗓 Other terms**](#-other-open-terms) · [**➕ Add one**](CONTRIBUTING.md) · [**🔗 Sources**](SOURCES.md)
 
@@ -407,7 +407,7 @@ No dead links, no generic careers pages. Just current openings, newest first, wi
 <details>
 <summary><b>Show other open terms (690)</b></summary>
 
-### 🍂 Fall 2026 (617 · 471 open)
+### 🍂 Fall 2026 (617 · 472 open)
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
@@ -564,6 +564,7 @@ No dead links, no generic careers pages. Just current openings, newest first, wi
 | [NXP Semiconductors](generated/companies/nxp-semiconductors.md) | [Digital Physical Design Intern - P&R](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Chandler-Office/Digital-Physical-Design--P-R--Intern_R-10064673) | Chandler, AZ | Onsite | 2026-07-13 | Rolling | 🟢 Open | ❔ |
 | [Persona AI](generated/companies/persona-ai.md) | [Teleoperation Software Engineering Internship](https://jobs.ashbyhq.com/persona.ai/6078fafd-ba34-4c89-b260-7eb15be3cb9c/application) | Houston, TX +1 | Onsite | 2026-07-13 | Rolling | 🟢 Open | ❔ |
 | [Amgen](generated/companies/amgen.md) | [Software Engineer Intern](https://amgen.wd1.myworkdayjobs.com/careers/job/Canada---Burnaby/Undergraduate--Co-op-Student---Software-Engineer---Large-Molecule-Discovery---Technology_R-249424) | Burnaby | Onsite | 2026-07-10 | Rolling | 🟢 Open | ❔ |
+| [LexisNexis Risk Solutions](generated/companies/lexisnexis-risk-solutions.md) | [Editorial Data Reporting Intern](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Home-based-Washington-DC/Editorial-Data-Reporting-Intern_R112971-1) | Remote | Remote | 2026-07-10 | Rolling | 🟢 Open | ❔ |
 | [Meta](generated/companies/meta.md) | [Research Scientist Intern - Monetization Computer Vision](https://www.metacareers.com/jobs/2281218542616482) | Menlo Park, CA | Onsite | 2026-07-10 | Rolling | 🟢 Open | ❔ |
 | [Pika](generated/companies/pika.md) | [Research Intern - BS/MS/PhD](https://jobs.ashbyhq.com/pika/e135acb1-2a0b-47b4-81b2-3cb0f787657a/application) | Palo Alto, CA | Onsite | 2026-07-10 | Rolling | 🟢 Open | ❔ |
 | [Tesla](generated/companies/tesla.md) | [Software Engineer Intern - Energy Engineering](https://www.tesla.com/careers/search/job/276333) | Palo Alto, CA | Onsite | 2026-07-10 | Rolling | 🟢 Open | ❔ |
@@ -956,7 +957,6 @@ No dead links, no generic careers pages. Just current openings, newest first, wi
 | [Chevron Corporation](generated/companies/chevron-corporation.md) | [Previous Intern - Earth Scientist](https://chevron.wd5.myworkdayjobs.com/University/job/Houston-Texas-United-States-of-America/XMLNAME-2026-2027-Earth-Scientist--Previous-Intern--Full-Time_R000072337) | Houston, TX | Onsite | 2026-07-10 | Rolling | 🔴 Closed | ❔ |
 | [Datasite](generated/companies/datasite.md) | [Forward Deployed Engineer Intern](https://datasite.wd1.myworkdayjobs.com/en-GB/datasite/job/USA---NY---New-York-City/AI-Transformation---Forward-Deployed-Engineer--FDE--Intern_R36255) | New York, NY | Onsite | 2026-07-10 | Rolling | 🔴 Closed | ✅ |
 | [Exowatt](generated/companies/exowatt.md) | [Software Engineer Intern - Agent Platform - AI](https://jobs.lever.co/exowatt/2623555d-8b81-4f95-8bca-de9fafd2381c/apply) | Austin, TX | Onsite | 2026-07-10 | Rolling | 🔴 Closed | ❔ |
-| [LexisNexis Risk Solutions](generated/companies/lexisnexis-risk-solutions.md) | [Editorial Data Reporting Intern](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Home-based-Washington-DC/Editorial-Data-Reporting-Intern_R112971-1) | Remote | Remote | 2026-07-10 | Rolling | 🔴 Closed | ❔ |
 | [Xsolla](generated/companies/xsolla.md) | [AI Engineer Intern](https://jobs.lever.co/xsolla/5ec8e8f7-ed75-4697-a1c0-28a026f2e571/apply) | Montreal | Onsite | 2026-07-10 | Rolling | 🔴 Closed | ❔ |
 | [Xsolla](generated/companies/xsolla.md) | [AI-First Engineer Intern](https://jobs.lever.co/xsolla/5d5fd6b3-d82f-437a-b251-abf4674ac874/apply) | Raleigh, NC | Onsite | 2026-07-10 | Rolling | 🔴 Closed | ❔ |
 | [Environmental Defense Fund](generated/companies/environmental-defense-fund.md) | [Climate & Health Intern](https://osv-edf.wd5.myworkdayjobs.com/en-US/Confidential/job/Remote---US-Home/Climate---Health-Intern_REQ-002561) | NYC | Onsite | 2026-07-09 | Rolling | 🔴 Closed | ❔ |
