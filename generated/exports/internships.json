@@ -11442,7 +11442,7 @@
         "discovered": "2026-07-23",
         "last_verified": "2026-07-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -36718,7 +36718,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -41416,7 +41416,7 @@
         "discovered": "2026-07-21",
         "last_verified": "2026-07-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -49173,7 +49173,7 @@
         "discovered": "2026-07-25",
         "last_verified": "2026-07-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"

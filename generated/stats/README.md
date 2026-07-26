@@ -112,6 +112,7 @@ _Generated 2026-07-26_
 - Composio — Full-stack Intern
 - Consensus Cloud Solutions — Sales Strategy & Analytics Intern
 - Constellation Space — Graduate Researcher Intern - Machine Learning
+- Copart — Technology Product Analyst Intern
 - Datasite — AI Transformation / Forward Deployed Engineer Intern - Forward Deployed Engineer
 - Datasite — Forward Deployed Engineer Intern
 - Deepgram — Software Engineer Intern
@@ -215,6 +216,7 @@ _Generated 2026-07-26_
 - Rakuten International — Software Engineer Intern
 - Revvity — Product Manager Intern
 - RFCUNY — IT & Data Systems Intern - Archibus & Applications Development
+- Rippling — Full Stack Software Engineer Intern
 - Rivian — Machine Learning Compiler Intern - Machine Learning Compiler
 - Roam — Engineer Intern
 - Robert Bosch Venture Capital — Hardware & Embedded Research Intern
@@ -234,6 +236,7 @@ _Generated 2026-07-26_
 - Skydio — Software Engineer Intern
 - Solid Power — Product Development Intern
 - Spectrum Control — Engineering Intern
+- SpreeAI — Software Engineer Intern
 - SS&C — Healthcare AI & Automation Intern
 - State of North Carolina — Geographic Information Systems Intern - GIS
 - Susquehanna International Group (SIG) — Quantitative Research Intern
@@ -248,6 +251,7 @@ _Generated 2026-07-26_
 - Tesla — Firmware Integration Engineer Intern - Software Integration Engineer - Factory Firmware
 - Tesla — Software Engineer Intern - Simulation Platform - Software Engineer
 - Tesla — Software Engineer Intern - Wireless Connectivity Software Engineer - Electronic Devices
+- The Federal Reserve System — Business Survey Intern
 - The Trade Desk — Software Engineering Intern
 - TikTok — Global Product Operations Manager Intern - Global Business Solutions
 - TMX Group — Software Engineer Intern - Java

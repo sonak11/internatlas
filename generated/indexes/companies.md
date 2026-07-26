@@ -98,7 +98,7 @@
 | [ConnectPrep](../companies/connectprep.md) | 1/1 | software-engineering |
 | [Consensus Cloud Solutions](../companies/consensus-cloud-solutions.md) | 0/1 | software-engineering |
 | [Constellation Space](../companies/constellation-space.md) | 0/1 | machine-learning |
-| [Copart](../companies/copart.md) | 7/7 | software-engineering |
+| [Copart](../companies/copart.md) | 6/7 | software-engineering |
 | [Cotiviti](../companies/cotiviti.md) | 1/1 | ai |
 | [Cubist Systematic Strategies](../companies/cubist-systematic-strategies.md) | 1/1 | quant |
 | [CuspAI](../companies/cuspai.md) | 1/1 | software-engineering |
@@ -295,7 +295,7 @@
 | [Red Bull](../companies/red-bull.md) | 1/1 | data-science |
 | [Revise Robotics](../companies/revise-robotics.md) | 1/1 | software-engineering |
 | [Revvity](../companies/revvity.md) | 1/2 | ai, product |
-| [Rippling](../companies/rippling.md) | 6/6 | machine-learning, software-engineering |
+| [Rippling](../companies/rippling.md) | 5/6 | machine-learning, software-engineering |
 | [Rise8](../companies/rise8.md) | 1/1 | product |
 | [Rivian](../companies/rivian.md) | 3/4 | embedded, machine-learning, research, software-engineering |
 | [Rivian and Volkswagen Group Technologies](../companies/rivian-and-volkswagen-group-technologies.md) | 14/14 | ai, embedded, software-engineering |
@@ -329,7 +329,7 @@
 | [SpaceX](../companies/spacex.md) | 8/8 | hardware, software-engineering |
 | [Sparksoft](../companies/sparksoft.md) | 1/1 | software-engineering |
 | [Spectrum Control](../companies/spectrum-control.md) | 0/1 | software-engineering |
-| [SpreeAI](../companies/spreeai.md) | 4/4 | machine-learning, software-engineering |
+| [SpreeAI](../companies/spreeai.md) | 3/4 | machine-learning, software-engineering |
 | [StarSling](../companies/starsling.md) | 1/1 | software-engineering |
 | [State of North Carolina](../companies/state-of-north-carolina.md) | 0/1 | software-engineering |
 | [Stoke Space](../companies/stoke-space.md) | 2/2 | software-engineering |
@@ -347,7 +347,7 @@
 | [Tenstorrent](../companies/tenstorrent.md) | 3/3 | ai, design |
 | [Terranox AI](../companies/terranox-ai.md) | 1/1 | machine-learning |
 | [Tesla](../companies/tesla.md) | 94/98 | ai, cloud, data-engineering, design, embedded, hardware, machine-learning, product, security, software-engineering |
-| [The Federal Reserve System](../companies/the-federal-reserve-system.md) | 1/1 | software-engineering |
+| [The Federal Reserve System](../companies/the-federal-reserve-system.md) | 0/1 | software-engineering |
 | [The Trade Desk](../companies/the-trade-desk.md) | 0/1 | software-engineering |
 | [TikTok](../companies/tiktok.md) | 13/14 | ai, cloud, machine-learning, product, software-engineering |
 | [Together AI](../companies/together-ai.md) | 3/3 | research |
