@@ -1,17 +1,21 @@
 {
   "schema_version": "1.0",
-  "id": "lexisnexis-risk-solutions-editorial-data-reporting-intern-2026",
+  "id": "ambarella-algorithm-engineer-intern-2026",
   "company": {
-    "name": "LexisNexis Risk Solutions",
-    "slug": "lexisnexis-risk-solutions"
+    "name": "Ambarella",
+    "slug": "ambarella"
   },
-  "role": "Editorial Data Reporting Intern",
+  "role": "Algorithm Engineer Intern",
   "category": "software-engineering",
-  "apply_url": "https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Home-based-Washington-DC/Editorial-Data-Reporting-Intern_R112971-1",
+  "apply_url": "https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/Algorithm-Engineer-Intern_JR100102",
   "season": "fall",
   "year": 2026,
-  "work_mode": "remote",
-  "locations": [],
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "country": "USA"
+    }
+  ],
   "compensation": {
     "currency": "USD",
     "housing_stipend": false,
@@ -20,7 +24,8 @@
   "eligibility": {
     "graduation_years": [],
     "degree_levels": [
-      "masters"
+      "masters",
+      "phd"
     ],
     "citizenship_required": false,
     "security_clearance_required": false,
@@ -36,8 +41,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-10",
-    "discovered": "2026-07-17",
+    "posted": "2026-05-16",
+    "discovered": "2026-07-26",
     "last_verified": "2026-07-26"
   },
   "status": "open",

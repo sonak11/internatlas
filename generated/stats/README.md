@@ -33,17 +33,17 @@ _Generated 2026-07-26_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 483 | `████████████` |
+| software-engineering | 487 | `████████████` |
 | quant | 111 | `███` |
 | ai | 94 | `██` |
 | machine-learning | 61 | `██` |
 | research | 52 | `█` |
-| hardware | 48 | `█` |
+| hardware | 49 | `█` |
 | embedded | 38 | `█` |
 | cloud | 25 | `█` |
 | product | 23 | `█` |
 | design | 22 | `█` |
-| data-science | 15 | `█` |
+| data-science | 16 | `█` |
 | data-engineering | 11 | `█` |
 | security | 5 | `█` |
 
@@ -169,7 +169,6 @@ _Generated 2026-07-26_
 - Kudu Dynamics — Software Engineer Intern
 - Kudu Dynamics — Software Engineer Intern
 - Kudu Dynamics — Software Engineer Intern
-- LexisNexis Risk Solutions — Editorial Data Reporting Intern
 - Light & Wonder — Mathematics Intern
 - LiveRamp — Software Engineer Intern, Pixel Serving
 - Mackenzie Investments — Data Science and AI Specialist Intern - Investment Management - Fundamental Equity

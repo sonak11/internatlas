@@ -26,6 +26,7 @@
 | [Altera Corporation](../companies/altera-corporation.md) | 0/1 | ai |
 | [Altom Transport](../companies/altom-transport.md) | 3/3 | software-engineering |
 | [Amazon](../companies/amazon.md) | 7/7 | machine-learning, software-engineering |
+| [Ambarella](../companies/ambarella.md) | 5/5 | hardware, software-engineering |
 | [Amentum](../companies/amentum.md) | 1/1 | hardware |
 | [American Bureau of Shipping](../companies/american-bureau-of-shipping.md) | 0/1 | ai |
 | [American Enterprise Institute](../companies/american-enterprise-institute.md) | 2/2 | ai, software-engineering |
@@ -41,6 +42,7 @@
 | [Aquatic Capital Management](../companies/aquatic-capital-management.md) | 2/2 | quant, software-engineering |
 | [Arcadis](../companies/arcadis.md) | 1/1 | software-engineering |
 | [Architect Labs](../companies/architect-labs.md) | 1/1 | research |
+| [Ardian](../companies/ardian.md) | 1/1 | data-science |
 | [Argmax](../companies/argmax.md) | 1/1 | ai |
 | [Argonne National Laboratory](../companies/argonne-national-laboratory.md) | 1/1 | software-engineering |
 | [Arlington County VA](../companies/arlington-county-va.md) | 1/1 | software-engineering |
@@ -206,7 +208,7 @@
 | [Kirin](../companies/kirin.md) | 2/2 | ai, quant |
 | [Kudu Dynamics](../companies/kudu-dynamics.md) | 0/3 | software-engineering |
 | [Lawrence Livermore National Laboratory (LLNL)](../companies/lawrence-livermore-national-laboratory-llnl.md) | 2/2 | software-engineering |
-| [LexisNexis Risk Solutions](../companies/lexisnexis-risk-solutions.md) | 0/1 | software-engineering |
+| [LexisNexis Risk Solutions](../companies/lexisnexis-risk-solutions.md) | 1/1 | software-engineering |
 | [Light & Wonder](../companies/light-wonder.md) | 0/1 | software-engineering |
 | [Littelfuse](../companies/littelfuse.md) | 1/1 | software-engineering |
 | [LiveRamp](../companies/liveramp.md) | 0/1 | software-engineering |

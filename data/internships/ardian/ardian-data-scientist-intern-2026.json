@@ -1,17 +1,22 @@
 {
   "schema_version": "1.0",
-  "id": "lexisnexis-risk-solutions-editorial-data-reporting-intern-2026",
+  "id": "ardian-data-scientist-intern-2026",
   "company": {
-    "name": "LexisNexis Risk Solutions",
-    "slug": "lexisnexis-risk-solutions"
+    "name": "Ardian",
+    "slug": "ardian"
   },
-  "role": "Editorial Data Reporting Intern",
-  "category": "software-engineering",
-  "apply_url": "https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Home-based-Washington-DC/Editorial-Data-Reporting-Intern_R112971-1",
+  "role": "Data Scientist Intern",
+  "category": "data-science",
+  "apply_url": "https://ardian.wd103.myworkdayjobs.com/ArdianCareers/job/New-York/Data-Scientist-Intern_JR1001434",
   "season": "fall",
   "year": 2026,
-  "work_mode": "remote",
-  "locations": [],
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "NYC",
+      "country": "USA"
+    }
+  ],
   "compensation": {
     "currency": "USD",
     "housing_stipend": false,
@@ -19,9 +24,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -36,8 +39,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-10",
-    "discovered": "2026-07-17",
+    "posted": "2026-05-16",
+    "discovered": "2026-07-26",
     "last_verified": "2026-07-26"
   },
   "status": "open",
