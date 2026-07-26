@@ -11442,7 +11442,7 @@
         "discovered": "2026-07-23",
         "last_verified": "2026-07-26"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -14844,7 +14844,7 @@
         "discovered": "2026-07-22",
         "last_verified": "2026-07-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -24941,7 +24941,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -25718,7 +25718,7 @@
         "discovered": "2026-07-24",
         "last_verified": "2026-07-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -29143,7 +29143,7 @@
         "discovered": "2026-07-24",
         "last_verified": "2026-07-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -30871,9 +30871,9 @@
       "dates": {
         "posted": "2026-07-21",
         "discovered": "2026-07-22",
-        "last_verified": "2026-07-22"
+        "last_verified": "2026-07-26"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -36718,7 +36718,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-26"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -41416,7 +41416,7 @@
         "discovered": "2026-07-21",
         "last_verified": "2026-07-26"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"

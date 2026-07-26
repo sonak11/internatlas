@@ -112,7 +112,6 @@ _Generated 2026-07-26_
 - Composio — Full-stack Intern
 - Consensus Cloud Solutions — Sales Strategy & Analytics Intern
 - Constellation Space — Graduate Researcher Intern - Machine Learning
-- Copart — Technology Product Analyst Intern
 - Datasite — AI Transformation / Forward Deployed Engineer Intern - Forward Deployed Engineer
 - Datasite — Forward Deployed Engineer Intern
 - Deepgram — Software Engineer Intern
@@ -129,6 +128,7 @@ _Generated 2026-07-26_
 - Environmental Defense Fund — Climate & Health Intern
 - Eragon — Applied AI Intern
 - Exowatt — Software Engineer Intern - Agent Platform - AI
+- Exploration Technology Corp. — Engineer Intern
 - Fab2 — Rust Software Engineer Intern
 - Firetiger — Product Engineer Intern/Co-op
 - Fluency — Engineer Intern
@@ -169,6 +169,7 @@ _Generated 2026-07-26_
 - Intel — AI Software Engineering Intern
 - Jump Trading — Campus Quantitative Researcher Intern
 - Junior AI — Software Engineer Intern
+- Kinaxis — Engineer Co-op/Intern - Data & Analytics
 - Kinaxis — Software Development Co-op/Intern - C++
 - Kudu Dynamics — Software Engineer Intern
 - Kudu Dynamics — Software Engineer Intern
@@ -177,6 +178,7 @@ _Generated 2026-07-26_
 - Light & Wonder — Mathematics Intern
 - LiveRamp — Software Engineer Intern, Pixel Serving
 - Mackenzie Investments — Data Science and AI Specialist Intern - Investment Management - Fundamental Equity
+- Magna — R&D-Computer Vision Engineer Intern
 - Marvell — Design Verification Engineer Intern
 - McKesson — Data Governance Analyst Intern
 - McKesson — Supply Chain Engineering and Analytics Intern
@@ -188,13 +190,13 @@ _Generated 2026-07-26_
 - National Laboratory of the Rockies — Graduate Geospatial Data Science Intern
 - National Laboratory of the Rockies — Graduate Intern
 - Navy Federal — Year Round Intern - Business Intelligence Analyst
+- NeoSigma — Member of Technical Staff Intern
 - Netflix — AI/ML Scientist Intern - AIMS AI Foundations
 - Neuralink — R&D Materials Engineer Intern
 - NewsBreak — Growth Engineer Intern - Growth Engineering
 - Nokia — Data Science Co-op/Intern
 - Nokia — Incubation Developer Coop/Intern
 - Nokia — Product Development Intern/Co-op
-- North Cloud — AI Automation Intern
 - NVIDIA — Applied Deep Learning PhD Research Intern - Reinforcement Learning for LLMs
 - NVIDIA — Applied Research Intern - NLP
 - NVIDIA — Java Engineer Intern
@@ -216,7 +218,6 @@ _Generated 2026-07-26_
 - Rakuten International — Software Engineer Intern
 - Revvity — Product Manager Intern
 - RFCUNY — IT & Data Systems Intern - Archibus & Applications Development
-- Rippling — Full Stack Software Engineer Intern
 - Rivian — Machine Learning Compiler Intern - Machine Learning Compiler
 - Roam — Engineer Intern
 - Robert Bosch Venture Capital — Hardware & Embedded Research Intern
@@ -236,7 +237,6 @@ _Generated 2026-07-26_
 - Skydio — Software Engineer Intern
 - Solid Power — Product Development Intern
 - Spectrum Control — Engineering Intern
-- SpreeAI — Software Engineer Intern
 - SS&C — Healthcare AI & Automation Intern
 - State of North Carolina — Geographic Information Systems Intern - GIS
 - Susquehanna International Group (SIG) — Quantitative Research Intern
