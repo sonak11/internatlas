@@ -33,7 +33,7 @@ _Generated 2026-07-26_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 487 | `████████████` |
+| software-engineering | 488 | `████████████` |
 | quant | 111 | `███` |
 | ai | 94 | `██` |
 | machine-learning | 61 | `██` |
@@ -140,6 +140,7 @@ _Generated 2026-07-26_
 - Formlabs — Test Software Intern
 - Freeform — Process Engineer Intern
 - GE Aerospace — Engineer Intern
+- GE Appliances — Engineering Intern/Co-op
 - GE Healthcare — Engineering Development Program Intern - Hardware
 - GE Healthcare — Engineering Development Program Intern - Software
 - Generac — Data Science Intern
@@ -169,7 +170,6 @@ _Generated 2026-07-26_
 - Intel — AI Software Engineering Intern
 - Jump Trading — Campus Quantitative Researcher Intern
 - Junior AI — Software Engineer Intern
-- Kinaxis — Engineer Co-op/Intern - Data & Analytics
 - Kinaxis — Software Development Co-op/Intern - C++
 - Kudu Dynamics — Software Engineer Intern
 - Kudu Dynamics — Software Engineer Intern
@@ -178,7 +178,6 @@ _Generated 2026-07-26_
 - Light & Wonder — Mathematics Intern
 - LiveRamp — Software Engineer Intern, Pixel Serving
 - Mackenzie Investments — Data Science and AI Specialist Intern - Investment Management - Fundamental Equity
-- Magna — R&D-Computer Vision Engineer Intern
 - Marvell — Design Verification Engineer Intern
 - McKesson — Data Governance Analyst Intern
 - McKesson — Supply Chain Engineering and Analytics Intern
@@ -190,7 +189,6 @@ _Generated 2026-07-26_
 - National Laboratory of the Rockies — Graduate Geospatial Data Science Intern
 - National Laboratory of the Rockies — Graduate Intern
 - Navy Federal — Year Round Intern - Business Intelligence Analyst
-- NeoSigma — Member of Technical Staff Intern
 - Netflix — AI/ML Scientist Intern - AIMS AI Foundations
 - Neuralink — R&D Materials Engineer Intern
 - NewsBreak — Growth Engineer Intern - Growth Engineering

@@ -1,20 +1,21 @@
 {
   "schema_version": "1.0",
-  "id": "kinaxis-engineer-co-op-intern-data-analytics-2026",
+  "id": "mosaic-operations-automation-engineering-co-op-intern-2027",
   "company": {
-    "name": "Kinaxis",
-    "slug": "kinaxis"
+    "name": "Mosaic",
+    "slug": "mosaic"
   },
-  "role": "Engineer Co-op/Intern - Data & Analytics",
+  "role": "Operations & Automation Engineering Co-op/Intern",
   "category": "software-engineering",
-  "apply_url": "https://careers-kinaxis.icims.com/jobs/34766/job?mobile=true&needsRedirect=false",
-  "season": "fall",
-  "year": 2026,
+  "apply_url": "https://mosaic.wd5.myworkdayjobs.com/mosaic/job/US---Bartow-FL/Operations---Automation-Engineering-Co-op-Intern---Spring-2027_64675-1",
+  "season": "spring",
+  "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Ottawa",
-      "country": "ON"
+      "city": "Bartow",
+      "state": "FL",
+      "country": "USA"
     }
   ],
   "compensation": {
@@ -39,8 +40,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-05-20",
-    "discovered": "2026-07-17",
+    "posted": "2026-07-22",
+    "discovered": "2026-07-26",
     "last_verified": "2026-07-26"
   },
   "status": "open",
