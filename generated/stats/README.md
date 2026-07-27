@@ -113,6 +113,7 @@ _Generated 2026-07-27_
 - Composio — Full-stack Intern
 - Consensus Cloud Solutions — Sales Strategy & Analytics Intern
 - Constellation Space — Graduate Researcher Intern - Machine Learning
+- Copart — Technology Product Analyst Intern
 - Datasite — AI Transformation / Forward Deployed Engineer Intern - Forward Deployed Engineer
 - Datasite — Forward Deployed Engineer Intern
 - Deepgram — Software Engineer Intern
