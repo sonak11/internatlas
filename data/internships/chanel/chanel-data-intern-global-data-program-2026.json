@@ -1,21 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "rockwool-group-product-management-intern-2026",
+  "id": "chanel-data-intern-global-data-program-2026",
   "company": {
-    "name": "ROCKWOOL Group",
-    "slug": "rockwool-group"
+    "name": "Chanel",
+    "slug": "chanel"
   },
-  "role": "Product Management Intern",
-  "category": "product",
-  "apply_url": "https://rockwoolgroup.wd3.myworkdayjobs.com/ROCKWOOL/job/Chicago-Illinois/Product-Management---Intern_R0035795",
+  "role": "Data Intern - Global Data Program",
+  "category": "software-engineering",
+  "apply_url": "https://cc.wd3.myworkdayjobs.com/ChanelCareers/job/London/Data-Intern---Global-Data-Program--H-F-X----September-2026_JOBREQ00115336",
   "season": "fall",
   "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Chicago",
-      "state": "IL",
-      "country": "USA"
+      "city": "London",
+      "country": "UK"
     }
   ],
   "compensation": {
@@ -25,7 +24,9 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "masters"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -40,11 +41,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-21",
-    "discovered": "2026-07-22",
+    "posted": "2026-07-27",
+    "discovered": "2026-07-27",
     "last_verified": "2026-07-27"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

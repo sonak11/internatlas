@@ -80,6 +80,7 @@
 | [Castleton Commodities International](../companies/castleton-commodities-international.md) | 8/8 | data-engineering, machine-learning, quant, software-engineering |
 | [Center for AI Safety](../companies/center-for-ai-safety.md) | 0/1 | research |
 | [Centerstone](../companies/centerstone.md) | 0/1 | software-engineering |
+| [Chanel](../companies/chanel.md) | 1/1 | software-engineering |
 | [Chevron Corporation](../companies/chevron-corporation.md) | 1/6 | quant, software-engineering |
 | [Chicago Trading Company](../companies/chicago-trading-company.md) | 1/2 | quant, software-engineering |
 | [Ciena](../companies/ciena.md) | 4/7 | embedded, hardware, software-engineering |
@@ -98,7 +99,7 @@
 | [ConnectPrep](../companies/connectprep.md) | 1/1 | software-engineering |
 | [Consensus Cloud Solutions](../companies/consensus-cloud-solutions.md) | 0/1 | software-engineering |
 | [Constellation Space](../companies/constellation-space.md) | 0/1 | machine-learning |
-| [Copart](../companies/copart.md) | 7/7 | software-engineering |
+| [Copart](../companies/copart.md) | 8/8 | data-engineering, software-engineering |
 | [Core & Main](../companies/core-main.md) | 1/1 | machine-learning |
 | [Cotiviti](../companies/cotiviti.md) | 1/1 | ai |
 | [Cubist Systematic Strategies](../companies/cubist-systematic-strategies.md) | 1/1 | quant |
@@ -189,7 +190,7 @@
 | [IMC](../companies/imc.md) | 4/4 | hardware, quant, software-engineering |
 | [IMC Trading](../companies/imc-trading.md) | 9/14 | hardware, machine-learning, quant |
 | [Ignite Digital Services](../companies/ignite-digital-services.md) | 0/1 | software-engineering |
-| [Impulse Space](../companies/impulse-space.md) | 1/2 | software-engineering |
+| [Impulse Space](../companies/impulse-space.md) | 0/2 | software-engineering |
 | [InfiniteQuant](../companies/infinitequant.md) | 1/1 | quant |
 | [Instacart](../companies/instacart.md) | 0/2 | machine-learning |
 | [Integra FEC](../companies/integra-fec.md) | 4/4 | data-science, software-engineering |
@@ -290,8 +291,8 @@
 | [Quadrillion](../companies/quadrillion.md) | 1/3 | research, software-engineering |
 | [Quadrillion Labs](../companies/quadrillion-labs.md) | 1/1 | software-engineering |
 | [RFCUNY](../companies/rfcuny.md) | 1/2 | software-engineering |
-| [ROCKWOOL Group](../companies/rockwool-group.md) | 2/2 | product, software-engineering |
-| [RTX](../companies/rtx.md) | 1/1 | machine-learning |
+| [ROCKWOOL Group](../companies/rockwool-group.md) | 1/2 | product, software-engineering |
+| [RTX](../companies/rtx.md) | 2/2 | machine-learning, software-engineering |
 | [Radix Trading](../companies/radix-trading.md) | 1/1 | quant |
 | [Rainmaker](../companies/rainmaker.md) | 0/1 | software-engineering |
 | [Rakuten International](../companies/rakuten-international.md) | 0/1 | software-engineering |
@@ -334,6 +335,7 @@
 | [Sparksoft](../companies/sparksoft.md) | 1/1 | software-engineering |
 | [Spectrum Control](../companies/spectrum-control.md) | 0/1 | software-engineering |
 | [SpreeAI](../companies/spreeai.md) | 4/4 | machine-learning, software-engineering |
+| [Squarepoint Capital](../companies/squarepoint-capital.md) | 1/1 | quant |
 | [StarSling](../companies/starsling.md) | 1/1 | software-engineering |
 | [State of North Carolina](../companies/state-of-north-carolina.md) | 0/1 | software-engineering |
 | [Stevens Capital Management](../companies/stevens-capital-management.md) | 1/1 | quant |
@@ -358,6 +360,7 @@
 | [Together AI](../companies/together-ai.md) | 3/3 | research |
 | [Torch Technologies](../companies/torch-technologies.md) | 0/1 | software-engineering |
 | [Toshiba Commerce Solutions](../companies/toshiba-commerce-solutions.md) | 3/3 | ai, software-engineering |
+| [Toshiba Global Commerce](../companies/toshiba-global-commerce.md) | 2/2 | ai, software-engineering |
 | [Tower Research Capital](../companies/tower-research-capital.md) | 1/2 | quant |
 | [TransMarket Group](../companies/transmarket-group.md) | 3/3 | cloud, quant |
 | [Trata](../companies/trata.md) | 1/1 | research |
@@ -369,7 +372,7 @@
 | [Uncountable](../companies/uncountable.md) | 1/1 | software-engineering |
 | [University of Virginia](../companies/university-of-virginia.md) | 1/1 | research |
 | [VITAL LYFE](../companies/vital-lyfe.md) | 1/1 | software-engineering |
-| [Varda Space](../companies/varda-space.md) | 0/1 | software-engineering |
+| [Varda Space](../companies/varda-space.md) | 1/1 | software-engineering |
 | [Veeam Software](../companies/veeam-software.md) | 2/2 | ai, software-engineering |
 | [Veeda AI](../companies/veeda-ai.md) | 1/1 | ai |
 | [Vega Investment Technologies](../companies/vega-investment-technologies.md) | 1/1 | software-engineering |

@@ -1,20 +1,27 @@
 {
   "schema_version": "1.0",
-  "id": "rockwool-group-product-management-intern-2026",
+  "id": "squarepoint-capital-intern-quant-researcher-2026",
   "company": {
-    "name": "ROCKWOOL Group",
-    "slug": "rockwool-group"
+    "name": "Squarepoint Capital",
+    "slug": "squarepoint-capital"
   },
-  "role": "Product Management Intern",
-  "category": "product",
-  "apply_url": "https://rockwoolgroup.wd3.myworkdayjobs.com/ROCKWOOL/job/Chicago-Illinois/Product-Management---Intern_R0035795",
+  "role": "Intern Quant Researcher",
+  "category": "quant",
+  "apply_url": "https://boards.greenhouse.io/embed/job_app?token=243853",
   "season": "fall",
   "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Chicago",
-      "state": "IL",
+      "city": "London",
+      "country": "UK"
+    },
+    {
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "city": "NYC",
       "country": "USA"
     }
   ],
@@ -40,11 +47,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-21",
-    "discovered": "2026-07-22",
+    "posted": "2026-07-27",
+    "discovered": "2026-07-27",
     "last_verified": "2026-07-27"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

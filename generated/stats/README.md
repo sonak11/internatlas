@@ -26,16 +26,16 @@ _Generated 2026-07-27_
 | Walleye Capital | 9 |
 | Akuna Capital | 8 |
 | Castleton Commodities International | 8 |
+| Copart | 8 |
 | SpaceX | 8 |
-| Tencent | 8 |
 
 ## Listings by category
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 492 | `████████████` |
-| quant | 113 | `███` |
-| ai | 97 | `██` |
+| software-engineering | 495 | `████████████` |
+| quant | 114 | `███` |
+| ai | 98 | `██` |
 | machine-learning | 63 | `██` |
 | research | 52 | `█` |
 | hardware | 49 | `█` |
@@ -44,7 +44,7 @@ _Generated 2026-07-27_
 | product | 23 | `█` |
 | design | 23 | `█` |
 | data-science | 16 | `█` |
-| data-engineering | 11 | `█` |
+| data-engineering | 12 | `█` |
 | security | 5 | `█` |
 
 ## Newest listings
@@ -52,23 +52,23 @@ _Generated 2026-07-27_
 - 2026-07-27 — **Anthelion Capital**: [Quant Developer / Quant Research Intern](https://jobs.ashbyhq.com/anthelioncap/5e2ea37b-2369-474e-b717-c24c60976e96)
 - 2026-07-27 — **Atomic Semi**: [Infrastructure Software Engineering Intern](https://jobs.ashbyhq.com/fab2/867c67f7-20b5-4726-b9da-85a760d3851e?embed=true)
 - 2026-07-27 — **Atomic Semi**: [Software Engineer Intern, Chip Design Tools](https://jobs.ashbyhq.com/fab2/907766af-a3c0-49a3-b01e-246baa437d10?embed=true)
+- 2026-07-27 — **Chanel**: [Data Intern - Global Data Program](https://cc.wd3.myworkdayjobs.com/ChanelCareers/job/London/Data-Intern---Global-Data-Program--H-F-X----September-2026_JOBREQ00115336)
+- 2026-07-27 — **Copart**: [Data Engineer Intern](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Data-Engineering-Intern_JR110075)
 - 2026-07-27 — **Core & Main**: [AI/ML Data Engineering Intern](https://coreandmain.wd1.myworkdayjobs.com/coreandmain/job/Saint-Louis-MO-63146/Intern---Data-Engineering----Corp_45804)
 - 2026-07-27 — **HyperLight**: [Software Engineer Intern](https://apply.workable.com/hyperlight/j/5581EA0668/)
 - 2026-07-27 — **Pony.ai**: [Research Intern - Deep Learning](https://apply.workable.com/pony-dot-ai/j/4C1F53EF5D/)
 - 2026-07-27 — **Pony.ai**: [Software Engineer Intern](https://apply.workable.com/pony-dot-ai/j/BA5FFDBC71/)
 - 2026-07-27 — **Quadrillion Labs**: [Software Engineering Intern](https://jobs.ashbyhq.com/quadrillion-labs/a4acc44c-31ce-41a0-ab44-2500487b4d05)
+- 2026-07-27 — **RTX**: [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-PA-STATE-COLLEGE-5A--302-Science-Park-Rd--BLDG-5A/Software-Engineering-Intern--On-site-_01860801)
 - 2026-07-27 — **Sentara Health**: [Data & AI Finance Strategy Intern](https://sentara.wd1.myworkdayjobs.com/SCS/job/Virginia-Beach-VA/Data---AI-Finance-Strategy-Intern---Fall-2026-Internship-Remote_JR-103073)
+- 2026-07-27 — **Squarepoint Capital**: [Intern Quant Researcher](https://boards.greenhouse.io/embed/job_app?token=243853)
 - 2026-07-27 — **Stevens Capital Management**: [Quantitative Research Analyst Internship](https://job-boards.greenhouse.io/scm/jobs/721895)
 - 2026-07-27 — **Toshiba Commerce Solutions**: [Agentic Software Engineering Intern](https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5177892007)
 - 2026-07-27 — **Toshiba Commerce Solutions**: [AI Engineering Intern](https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5192820007)
 - 2026-07-27 — **Toshiba Commerce Solutions**: [Project Management & AI Automation Intern](https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5190937007)
+- 2026-07-27 — **Toshiba Global Commerce**: [AI Product Management Intern](https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5195826007)
+- 2026-07-27 — **Toshiba Global Commerce**: [Product & Business Analytics Intern](https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5195802007)
 - 2026-07-25 — **Northrop Grumman**: [Software Engineer Intern](https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10239275)
-- 2026-07-24 — **Appian**: [Product Manager Intern](https://careers.appian.com/jobs/8041243-product-manager-intern-)
-- 2026-07-24 — **Appian**: [Software Engineering Intern](https://careers.appian.com/jobs/8041237-software-engineering-intern)
-- 2026-07-24 — **Bank of Montreal**: [Market Risk Analyst Co-op/Intern](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Market-Risk-Analyst--Fall-2026--Co-op-Internship----4-Months_R260022055)
-- 2026-07-24 — **Bosch Home Comfort**: [Autonomous Driving Intern](https://jobs.smartrecruiters.com/BoschGroup/744000139649345)
-- 2026-07-24 — **City of Austin**: [Austin Aviation Undergraduate Intern - IT Business Systems Analyst](https://austintexas.wd5.myworkdayjobs.com/COA_Careers/job/AUS-Information-Systems-Building-IS/Austin-Aviation--IT-Business-Systems-Analyst---Undergraduate-Intern_JR104583)
-- 2026-07-24 — **Deepgram**: [Software Engineering Intern](https://jobs.ashbyhq.com/deepgram/dc8693b5-72ce-4ca3-ab15-9c8434d35da1)
 
 ## Recently closed
 
@@ -164,6 +164,7 @@ _Generated 2026-07-27_
 - IMC Trading — 2027 - Quant Research Intern - IIT Delhi
 - IMC Trading — 2027 - Software Engineering Intern - IIT Bombay
 - IMC Trading — 2027 - Software Engineering Intern - IIT Delhi
+- Impulse Space — Data Analytics Intern
 - Impulse Space — Radio Frequency Engineering Intern
 - Instacart — Machine Learning Engineer, PhD Intern (Fall)
 - Instacart — Machine Learning PhD Intern, Economics (Fall)
@@ -224,6 +225,7 @@ _Generated 2026-07-27_
 - Roam — Engineer Intern
 - Robert Bosch Venture Capital — Hardware & Embedded Research Intern
 - Rocket Lab — Software Intern
+- ROCKWOOL Group — Product Management Intern
 - Royal Bank of Canada — Student Intern - Data Analyst - Personal Banking
 - Salesforce — Associate Product Manager Intern - Associate Product Manager
 - Salesforce — Associate Product Manager Intern - Associate Product Manager
@@ -259,7 +261,6 @@ _Generated 2026-07-27_
 - TMX Group — Software Engineer Intern - Java
 - Torch Technologies — Software Engineer Intern
 - Tower Research Capital — Quantitative Trader Intern
-- Varda Space — Mission Software – Intern - Python
 - Verkada — Technical Support Engineering Intern - Fall 2026
 - Verne Robotics — Engineering Intern
 - Viavi Solutions — Software Development Data Analytics Intern

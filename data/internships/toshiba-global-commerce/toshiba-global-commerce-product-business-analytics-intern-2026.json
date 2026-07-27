@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "rockwool-group-product-management-intern-2026",
+  "id": "toshiba-global-commerce-product-business-analytics-intern-2026",
   "company": {
-    "name": "ROCKWOOL Group",
-    "slug": "rockwool-group"
+    "name": "Toshiba Global Commerce",
+    "slug": "toshiba-global-commerce"
   },
-  "role": "Product Management Intern",
-  "category": "product",
-  "apply_url": "https://rockwoolgroup.wd3.myworkdayjobs.com/ROCKWOOL/job/Chicago-Illinois/Product-Management---Intern_R0035795",
+  "role": "Product & Business Analytics Intern",
+  "category": "software-engineering",
+  "apply_url": "https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5195802007",
   "season": "fall",
   "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Chicago",
-      "state": "IL",
+      "city": "Durham",
+      "state": "NC",
       "country": "USA"
     }
   ],
@@ -40,11 +40,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-21",
-    "discovered": "2026-07-22",
+    "posted": "2026-07-27",
+    "discovered": "2026-07-27",
     "last_verified": "2026-07-27"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"
