@@ -40,9 +40,9 @@ _Generated 2026-07-27_
 | research | 52 | `█` |
 | hardware | 49 | `█` |
 | embedded | 38 | `█` |
-| cloud | 25 | `█` |
+| cloud | 26 | `█` |
 | product | 23 | `█` |
-| design | 22 | `█` |
+| design | 23 | `█` |
 | data-science | 16 | `█` |
 | data-engineering | 11 | `█` |
 | security | 5 | `█` |
@@ -50,6 +50,8 @@ _Generated 2026-07-27_
 ## Newest listings
 
 - 2026-07-27 — **Anthelion Capital**: [Quant Developer / Quant Research Intern](https://jobs.ashbyhq.com/anthelioncap/5e2ea37b-2369-474e-b717-c24c60976e96)
+- 2026-07-27 — **Atomic Semi**: [Infrastructure Software Engineering Intern](https://jobs.ashbyhq.com/fab2/867c67f7-20b5-4726-b9da-85a760d3851e?embed=true)
+- 2026-07-27 — **Atomic Semi**: [Software Engineer Intern, Chip Design Tools](https://jobs.ashbyhq.com/fab2/907766af-a3c0-49a3-b01e-246baa437d10?embed=true)
 - 2026-07-27 — **Core & Main**: [AI/ML Data Engineering Intern](https://coreandmain.wd1.myworkdayjobs.com/coreandmain/job/Saint-Louis-MO-63146/Intern---Data-Engineering----Corp_45804)
 - 2026-07-27 — **HyperLight**: [Software Engineer Intern](https://apply.workable.com/hyperlight/j/5581EA0668/)
 - 2026-07-27 — **Pony.ai**: [Research Intern - Deep Learning](https://apply.workable.com/pony-dot-ai/j/4C1F53EF5D/)
@@ -66,9 +68,7 @@ _Generated 2026-07-27_
 - 2026-07-24 — **Bank of Montreal**: [Market Risk Analyst Co-op/Intern](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Market-Risk-Analyst--Fall-2026--Co-op-Internship----4-Months_R260022055)
 - 2026-07-24 — **Bosch Home Comfort**: [Autonomous Driving Intern](https://jobs.smartrecruiters.com/BoschGroup/744000139649345)
 - 2026-07-24 — **City of Austin**: [Austin Aviation Undergraduate Intern - IT Business Systems Analyst](https://austintexas.wd5.myworkdayjobs.com/COA_Careers/job/AUS-Information-Systems-Building-IS/Austin-Aviation--IT-Business-Systems-Analyst---Undergraduate-Intern_JR104583)
-- 2026-07-24 — **Copart**: [Software Engineering Intern](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR110011)
 - 2026-07-24 — **Deepgram**: [Software Engineering Intern](https://jobs.ashbyhq.com/deepgram/dc8693b5-72ce-4ca3-ab15-9c8434d35da1)
-- 2026-07-24 — **fab2**: [Software Engineering Intern](https://jobs.ashbyhq.com/fab2/947338ca-e135-4398-9aa3-79e131bc03d5?embed=true)
 
 ## Recently closed
 
@@ -107,7 +107,6 @@ _Generated 2026-07-27_
 - Ciena — Embedded Software Engineer Intern
 - Ciena — Photonic Hardware Intern
 - City of Aurora — Water GIS Intern
-- City of Austin — Austin Aviation Undergraduate Intern - IT Business Systems Analyst
 - Cloudflare — EIAM Business Enablement & Operations Intern (Fall 2026)
 - Cloudflare — Public Policy Intern
 - Composio — Full-stack Intern
@@ -188,6 +187,7 @@ _Generated 2026-07-27_
 - Moon — Software Engineer Intern - Backend & API
 - Moon — Software Engineer Intern - Data & Machine Learning
 - Mosaic — Capital Project Engineering Co-op/Intern
+- Mosaic — Operations & Automation Engineering Co-op/Intern
 - National Laboratory of the Rockies — Energy Data Analysis Intern
 - National Laboratory of the Rockies — Graduate Geospatial Data Science Intern
 - National Laboratory of the Rockies — Graduate Intern
@@ -203,6 +203,7 @@ _Generated 2026-07-27_
 - NVIDIA — Java Engineer Intern
 - NVIDIA — PhD Research Intern - Security and Privacy
 - NVIDIA — PhD Research Intern - System Software and I/O Architecture
+- NVIDIA — PhD Software Engineer Intern - Decision Intelligence
 - NVIDIA — Quantum Research Scientist Intern
 - NVIDIA — Software Engineering Intern, JAX
 - NXP Semiconductors — AI / Software Engineering Intern
@@ -210,6 +211,7 @@ _Generated 2026-07-27_
 - onsemi — Electrical Device Characterization Intern
 - Optiver — Trading Automation and Operations Intern
 - Pennsylvania State University — Research and Development Engineer Intern
+- Pennsylvania State University — Research Engineering Intern
 - Pinterest — PhD Fall Machine Learning Intern (ATG — Visual, Multimodal, and Recommender Systems)
 - Podium — Software Engineering Intern
 - Quadrillion — Research Intern
@@ -237,7 +239,6 @@ _Generated 2026-07-27_
 - Skydio — Software Engineer Intern
 - Solid Power — Product Development Intern
 - Spectrum Control — Engineering Intern
-- SpreeAI — Machine Learning Engineer Intern - Computer Vision/Multimodal/Generative AI
 - SS&C — Healthcare AI & Automation Intern
 - State of North Carolina — Geographic Information Systems Intern - GIS
 - Susquehanna International Group (SIG) — Quantitative Research Intern
@@ -258,6 +259,7 @@ _Generated 2026-07-27_
 - TMX Group — Software Engineer Intern - Java
 - Torch Technologies — Software Engineer Intern
 - Tower Research Capital — Quantitative Trader Intern
+- Varda Space — Mission Software – Intern - Python
 - Verkada — Technical Support Engineering Intern - Fall 2026
 - Verne Robotics — Engineering Intern
 - Viavi Solutions — Software Development Data Analytics Intern

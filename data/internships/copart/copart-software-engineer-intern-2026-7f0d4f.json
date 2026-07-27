@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "mosaic-operations-automation-engineering-co-op-intern-2027",
+  "id": "copart-software-engineer-intern-2026-7f0d4f",
   "company": {
-    "name": "Mosaic",
-    "slug": "mosaic"
+    "name": "Copart",
+    "slug": "copart"
   },
-  "role": "Operations & Automation Engineering Co-op/Intern",
+  "role": "Software Engineer Intern",
   "category": "software-engineering",
-  "apply_url": "https://mosaic.wd5.myworkdayjobs.com/mosaic/job/US---Bartow-FL/Operations---Automation-Engineering-Co-op-Intern---Spring-2027_64675-1",
-  "season": "spring",
-  "year": 2027,
+  "apply_url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR110011",
+  "season": "fall",
+  "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Bartow",
-      "state": "FL",
+      "city": "Dallas",
+      "state": "TX",
       "country": "USA"
     }
   ],
@@ -28,7 +28,7 @@
     "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
-    "visa_sponsorship": "unknown"
+    "visa_sponsorship": "yes"
   },
   "interview": {},
   "tech": {
@@ -40,11 +40,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-22",
-    "discovered": "2026-07-26",
+    "posted": "2026-07-21",
+    "discovered": "2026-07-27",
     "last_verified": "2026-07-27"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

@@ -1,19 +1,24 @@
 {
   "schema_version": "1.0",
-  "id": "copart-software-engineering-intern-2027",
+  "id": "atomic-semi-infrastructure-software-engineering-intern-2026-922b90",
   "company": {
-    "name": "Copart",
-    "slug": "copart"
+    "name": "Atomic Semi",
+    "slug": "atomic-semi"
   },
-  "role": "Software Engineering Intern",
-  "category": "software-engineering",
-  "apply_url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR110011",
-  "season": "summer",
-  "year": 2027,
+  "role": "Infrastructure Software Engineering Intern",
+  "category": "cloud",
+  "apply_url": "https://jobs.ashbyhq.com/fab2/867c67f7-20b5-4726-b9da-85a760d3851e?embed=true",
+  "season": "fall",
+  "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Dallas",
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "USA"
+    },
+    {
+      "city": "Austin",
       "state": "TX",
       "country": "USA"
     }
@@ -40,7 +45,7 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-24",
+    "posted": "2026-07-27",
     "discovered": "2026-07-27",
     "last_verified": "2026-07-27"
   },

@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "mosaic-operations-automation-engineering-co-op-intern-2027",
+  "id": "atomic-semi-software-engineer-intern-chip-design-tools-2026",
   "company": {
-    "name": "Mosaic",
-    "slug": "mosaic"
+    "name": "Atomic Semi",
+    "slug": "atomic-semi"
   },
-  "role": "Operations & Automation Engineering Co-op/Intern",
-  "category": "software-engineering",
-  "apply_url": "https://mosaic.wd5.myworkdayjobs.com/mosaic/job/US---Bartow-FL/Operations---Automation-Engineering-Co-op-Intern---Spring-2027_64675-1",
-  "season": "spring",
-  "year": 2027,
+  "role": "Software Engineer Intern, Chip Design Tools",
+  "category": "design",
+  "apply_url": "https://jobs.ashbyhq.com/fab2/907766af-a3c0-49a3-b01e-246baa437d10?embed=true",
+  "season": "fall",
+  "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Bartow",
-      "state": "FL",
+      "city": "San Francisco",
+      "state": "CA",
       "country": "USA"
     }
   ],
@@ -28,7 +28,7 @@
     "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
-    "visa_sponsorship": "unknown"
+    "visa_sponsorship": "yes"
   },
   "interview": {},
   "tech": {
@@ -40,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-22",
-    "discovered": "2026-07-26",
+    "posted": "2026-07-27",
+    "discovered": "2026-07-27",
     "last_verified": "2026-07-27"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }
