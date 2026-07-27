@@ -1,24 +1,19 @@
 {
   "schema_version": "1.0",
-  "id": "moog-software-engineer-intern-fleet-health-instrumentation-2026",
+  "id": "quadrillion-labs-software-engineering-intern-2027",
   "company": {
-    "name": "Moog",
-    "slug": "moog"
+    "name": "Quadrillion Labs",
+    "slug": "quadrillion-labs"
   },
-  "role": "Software Engineer Intern, Fleet Health Instrumentation",
+  "role": "Software Engineering Intern",
   "category": "software-engineering",
-  "apply_url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Software-Engineering_R-26-18885-1",
-  "season": "fall",
-  "year": 2026,
+  "apply_url": "https://jobs.ashbyhq.com/quadrillion-labs/a4acc44c-31ce-41a0-ab44-2500487b4d05",
+  "season": "summer",
+  "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Buffalo",
-      "state": "NY",
-      "country": "USA"
-    },
-    {
-      "city": "Boston",
+      "city": "New York",
       "state": "NY",
       "country": "USA"
     }
@@ -30,9 +25,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -47,8 +40,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-22",
-    "discovered": "2026-07-24",
+    "posted": "2026-07-27",
+    "discovered": "2026-07-27",
     "last_verified": "2026-07-27"
   },
   "status": "open",

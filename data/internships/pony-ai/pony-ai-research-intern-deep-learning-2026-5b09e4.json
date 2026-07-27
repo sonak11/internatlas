@@ -1,24 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "pdt-partners-software-engineer-intern-2027",
+  "id": "pony-ai-research-intern-deep-learning-2026-5b09e4",
   "company": {
-    "name": "PDT Partners",
-    "slug": "pdt-partners"
+    "name": "pony.ai",
+    "slug": "pony-ai"
   },
-  "role": "Software Engineer Intern",
-  "category": "software-engineering",
-  "apply_url": "https://job-boards.greenhouse.io/pdtpartners/jobs/8077685",
-  "season": "summer",
-  "year": 2027,
+  "role": "Research Intern - Deep Learning",
+  "category": "machine-learning",
+  "apply_url": "https://apply.workable.com/pony-dot-ai/j/4C1F53EF5D/apply",
+  "season": "fall",
+  "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "NYC",
-      "country": "USA"
-    },
-    {
-      "city": "New York",
-      "state": "NY",
+      "city": "Fremont",
+      "state": "CA",
       "country": "USA"
     }
   ],
@@ -47,8 +43,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-24",
-    "discovered": "2026-07-24",
+    "posted": "2026-05-29",
+    "discovered": "2026-07-27",
     "last_verified": "2026-07-27"
   },
   "status": "open",

@@ -1,6 +1,6 @@
 {
   "generated": "2026-07-27",
-  "count": 997,
+  "count": 1004,
   "internships": [
     {
       "schema_version": "1.0",
@@ -3078,7 +3078,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "anthelion-capital-quant-developer-quant-research-intern-2026",
+      "id": "anthelion-capital-quant-developer-quant-research-intern-2026-fec8d9",
       "company": {
         "name": "Anthelion Capital",
         "slug": "anthelion-capital"
@@ -3121,13 +3121,68 @@
       },
       "dates": {
         "posted": "2026-07-23",
-        "discovered": "2026-07-24",
+        "discovered": "2026-07-27",
         "last_verified": "2026-07-27"
       },
       "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "anthelion-capital-quant-developer-quant-research-intern-2026",
+      "company": {
+        "name": "Anthelion Capital",
+        "slug": "anthelion-capital"
+      },
+      "role": "Quant Developer / Quant Research Intern",
+      "category": "quant",
+      "apply_url": "https://jobs.ashbyhq.com/anthelioncap/5e2ea37b-2369-474e-b717-c24c60976e96",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "New York City",
+          "state": "NY",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters",
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-27",
+        "discovered": "2026-07-24",
+        "last_verified": "2026-07-27"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
       ]
     },
     {
@@ -19868,6 +19923,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "hyperlight-software-engineer-intern-2027",
+      "company": {
+        "name": "HyperLight",
+        "slug": "hyperlight"
+      },
+      "role": "Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://apply.workable.com/hyperlight/j/5581EA0668/",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Cambridge",
+          "state": "MA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-27",
+        "discovered": "2026-07-27",
+        "last_verified": "2026-07-27"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "ignite-digital-services-engineer-scientist-intern-2026",
       "company": {
         "name": "Ignite Digital Services",
@@ -27969,12 +28076,12 @@
     },
     {
       "schema_version": "1.0",
-      "id": "moog-software-engineer-intern-fleet-health-instrumentation-2026",
+      "id": "moog-software-engineer-intern-2026",
       "company": {
         "name": "Moog",
         "slug": "moog"
       },
-      "role": "Software Engineer Intern, Fleet Health Instrumentation",
+      "role": "Software Engineer Intern",
       "category": "software-engineering",
       "apply_url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Software-Engineering_R-26-18885-1",
       "season": "fall",
@@ -28017,7 +28124,7 @@
       },
       "dates": {
         "posted": "2026-07-22",
-        "discovered": "2026-07-24",
+        "discovered": "2026-07-27",
         "last_verified": "2026-07-27"
       },
       "status": "open",
@@ -31786,9 +31893,9 @@
       "dates": {
         "posted": "2026-05-23",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-24"
+        "last_verified": "2026-07-27"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -34560,6 +34667,11 @@
         {
           "city": "NYC",
           "country": "USA"
+        },
+        {
+          "city": "New York",
+          "state": "NY",
+          "country": "USA"
         }
       ],
       "compensation": {
@@ -35790,7 +35902,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "pony-ai-research-intern-deep-learning-2026",
+      "id": "pony-ai-research-intern-deep-learning-2026-5b09e4",
       "company": {
         "name": "pony.ai",
         "slug": "pony-ai"
@@ -35834,13 +35946,120 @@
       },
       "dates": {
         "posted": "2026-05-29",
-        "discovered": "2026-07-17",
+        "discovered": "2026-07-27",
         "last_verified": "2026-07-27"
       },
       "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "pony-ai-research-intern-deep-learning-2026",
+      "company": {
+        "name": "Pony.ai",
+        "slug": "pony-ai"
+      },
+      "role": "Research Intern - Deep Learning",
+      "category": "machine-learning",
+      "apply_url": "https://apply.workable.com/pony-dot-ai/j/4C1F53EF5D/",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Fremont",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters",
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-27",
+        "discovered": "2026-07-17",
+        "last_verified": "2026-07-27"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "pony-ai-software-engineer-intern-2026",
+      "company": {
+        "name": "Pony.ai",
+        "slug": "pony-ai"
+      },
+      "role": "Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://apply.workable.com/pony-dot-ai/j/BA5FFDBC71/",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Fremont",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-27",
+        "discovered": "2026-07-27",
+        "last_verified": "2026-07-27"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
       ]
     },
     {
@@ -36153,6 +36372,58 @@
       "tags": [
         "auto-ingested",
         "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "quadrillion-labs-software-engineering-intern-2027",
+      "company": {
+        "name": "Quadrillion Labs",
+        "slug": "quadrillion-labs"
+      },
+      "role": "Software Engineering Intern",
+      "category": "software-engineering",
+      "apply_url": "https://jobs.ashbyhq.com/quadrillion-labs/a4acc44c-31ce-41a0-ab44-2500487b4d05",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "New York",
+          "state": "NY",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-27",
+        "discovered": "2026-07-27",
+        "last_verified": "2026-07-27"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
       ]
     },
     {
@@ -39532,6 +39803,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "sentara-health-data-ai-finance-strategy-intern-2026",
+      "company": {
+        "name": "Sentara Health",
+        "slug": "sentara-health"
+      },
+      "role": "Data & AI Finance Strategy Intern",
+      "category": "ai",
+      "apply_url": "https://sentara.wd1.myworkdayjobs.com/SCS/job/Virginia-Beach-VA/Data---AI-Finance-Strategy-Intern---Fall-2026-Internship-Remote_JR-103073",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Virginia Beach",
+          "state": "VA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-27",
+        "discovered": "2026-07-27",
+        "last_verified": "2026-07-27"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "sentara-health-enterprise-data-ai-intern-2026",
       "company": {
         "name": "Sentara Health",
@@ -41682,6 +42005,58 @@
       "tags": [
         "auto-ingested",
         "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "stevens-capital-management-quantitative-research-analyst-internship-2027",
+      "company": {
+        "name": "Stevens Capital Management",
+        "slug": "stevens-capital-management"
+      },
+      "role": "Quantitative Research Analyst Internship",
+      "category": "quant",
+      "apply_url": "https://job-boards.greenhouse.io/scm/jobs/721895",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Radnor",
+          "state": "PA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-27",
+        "discovered": "2026-07-27",
+        "last_verified": "2026-07-27"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
       ]
     },
     {
@@ -43913,7 +44288,7 @@
         "degree_levels": [],
         "citizenship_required": false,
         "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
+        "visa_sponsorship": "yes"
       },
       "interview": {},
       "tech": {
@@ -52061,6 +52436,10 @@
           "country": "USA"
         },
         {
+          "city": "New York",
+          "country": "USA"
+        },
+        {
           "city": "NYC",
           "country": "USA"
         }
@@ -52176,6 +52555,11 @@
         },
         {
           "city": "NYC",
+          "country": "USA"
+        },
+        {
+          "city": "New York",
+          "state": "NY",
           "country": "USA"
         }
       ],

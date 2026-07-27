@@ -33,10 +33,10 @@ _Generated 2026-07-27_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 489 | `████████████` |
-| quant | 111 | `███` |
-| ai | 95 | `██` |
-| machine-learning | 61 | `██` |
+| software-engineering | 492 | `████████████` |
+| quant | 113 | `███` |
+| ai | 96 | `██` |
+| machine-learning | 62 | `██` |
 | research | 52 | `█` |
 | hardware | 49 | `█` |
 | embedded | 38 | `█` |
@@ -49,6 +49,13 @@ _Generated 2026-07-27_
 
 ## Newest listings
 
+- 2026-07-27 — **Anthelion Capital**: [Quant Developer / Quant Research Intern](https://jobs.ashbyhq.com/anthelioncap/5e2ea37b-2369-474e-b717-c24c60976e96)
+- 2026-07-27 — **HyperLight**: [Software Engineer Intern](https://apply.workable.com/hyperlight/j/5581EA0668/)
+- 2026-07-27 — **Pony.ai**: [Research Intern - Deep Learning](https://apply.workable.com/pony-dot-ai/j/4C1F53EF5D/)
+- 2026-07-27 — **Pony.ai**: [Software Engineer Intern](https://apply.workable.com/pony-dot-ai/j/BA5FFDBC71/)
+- 2026-07-27 — **Quadrillion Labs**: [Software Engineering Intern](https://jobs.ashbyhq.com/quadrillion-labs/a4acc44c-31ce-41a0-ab44-2500487b4d05)
+- 2026-07-27 — **Sentara Health**: [Data & AI Finance Strategy Intern](https://sentara.wd1.myworkdayjobs.com/SCS/job/Virginia-Beach-VA/Data---AI-Finance-Strategy-Intern---Fall-2026-Internship-Remote_JR-103073)
+- 2026-07-27 — **Stevens Capital Management**: [Quantitative Research Analyst Internship](https://job-boards.greenhouse.io/scm/jobs/721895)
 - 2026-07-27 — **Toshiba Global Commerce**: [Agentic Software Engineer Intern](https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5177892007)
 - 2026-07-27 — **Toshiba Global Commerce**: [AI Engineer Intern](https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5192820007)
 - 2026-07-25 — **Northrop Grumman**: [Software Engineer Intern](https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10239275)
@@ -62,13 +69,6 @@ _Generated 2026-07-27_
 - 2026-07-24 — **Google**: [Software Engineering Intern](https://www.google.com/about/careers/applications/jobs/results/85564713261245126-software-engineering-intern-bs-summer-2027)
 - 2026-07-24 — **Hudson River Trading**: [Intern](https://www.hudsonrivertrading.com/hrt-job/algorithm-development-quant-research-internship-summer-2027/)
 - 2026-07-24 — **Hudson River Trading**: [Software Engineer Intern](https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-c-or-python-summer-2027/)
-- 2026-07-24 — **IMC**: [Hardware Engineer Intern](https://www.imc.com/us/careers/jobs/4823945101)
-- 2026-07-24 — **IMC**: [Quantitative Research Intern](https://www.imc.com/us/careers/jobs/4907399101)
-- 2026-07-24 — **IMC**: [Quantitative Research Intern (PHD)](https://www.imc.com/us/careers/jobs/4907400101)
-- 2026-07-24 — **International Rescue Committee (IRC)**: [Data Integration & Reporting Intern](https://theirc.wd1.myworkdayjobs.com/en-US/External_Careers/job/San-Diego-CA-USA/Fall-2026--Data-Integration---Reporting-Intern--Unpaid-_JR00004327)
-- 2026-07-24 — **Jane Street**: [Cybersecurity Analyst Intern](https://www.janestreet.com/join-jane-street/position/8632723002/)
-- 2026-07-24 — **Jane Street**: [Data Engineer Intern](https://www.janestreet.com/join-jane-street/position/8631973002/)
-- 2026-07-24 — **Jane Street**: [Fundamental Research Analyst Intern](https://www.janestreet.com/join-jane-street/position/8347286002/)
 
 ## Recently closed
 
@@ -202,7 +202,6 @@ _Generated 2026-07-27_
 - NVIDIA — Java Engineer Intern
 - NVIDIA — PhD Research Intern - Security and Privacy
 - NVIDIA — PhD Research Intern - System Software and I/O Architecture
-- NVIDIA — PhD Software Engineer Intern - Decision Intelligence
 - NVIDIA — Quantum Research Scientist Intern
 - NVIDIA — Software Engineering Intern, JAX
 - NXP Semiconductors — AI / Software Engineering Intern

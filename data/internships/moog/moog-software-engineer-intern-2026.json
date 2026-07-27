@@ -1,23 +1,24 @@
 {
   "schema_version": "1.0",
-  "id": "pdt-partners-software-engineer-intern-2027",
+  "id": "moog-software-engineer-intern-2026",
   "company": {
-    "name": "PDT Partners",
-    "slug": "pdt-partners"
+    "name": "Moog",
+    "slug": "moog"
   },
   "role": "Software Engineer Intern",
   "category": "software-engineering",
-  "apply_url": "https://job-boards.greenhouse.io/pdtpartners/jobs/8077685",
-  "season": "summer",
-  "year": 2027,
+  "apply_url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Software-Engineering_R-26-18885-1",
+  "season": "fall",
+  "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "NYC",
+      "city": "Buffalo",
+      "state": "NY",
       "country": "USA"
     },
     {
-      "city": "New York",
+      "city": "Boston",
       "state": "NY",
       "country": "USA"
     }
@@ -30,8 +31,7 @@
   "eligibility": {
     "graduation_years": [],
     "degree_levels": [
-      "masters",
-      "phd"
+      "masters"
     ],
     "citizenship_required": false,
     "security_clearance_required": false,
@@ -47,13 +47,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-24",
-    "discovered": "2026-07-24",
+    "posted": "2026-07-22",
+    "discovered": "2026-07-27",
     "last_verified": "2026-07-27"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }

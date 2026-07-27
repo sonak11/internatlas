@@ -33,7 +33,7 @@
 | [Amgen](../companies/amgen.md) | 1/1 | software-engineering |
 | [Amwins](../companies/amwins.md) | 0/1 | ai |
 | [Anduril](../companies/anduril.md) | 6/6 | hardware, software-engineering |
-| [Anthelion Capital](../companies/anthelion-capital.md) | 1/1 | quant |
+| [Anthelion Capital](../companies/anthelion-capital.md) | 2/2 | quant |
 | [Apex Technology, Inc.](../companies/apex-technology-inc.md) | 1/1 | embedded |
 | [Appian](../companies/appian.md) | 4/4 | product, software-engineering |
 | [Apple](../companies/apple.md) | 2/2 | software-engineering |
@@ -184,6 +184,7 @@
 | [Hubs.is](../companies/hubs-is.md) | 1/1 | software-engineering |
 | [Hudson River Trading](../companies/hudson-river-trading.md) | 5/5 | quant, software-engineering |
 | [Human Computer Lab](../companies/human-computer-lab.md) | 1/1 | machine-learning |
+| [HyperLight](../companies/hyperlight.md) | 1/1 | software-engineering |
 | [IMC](../companies/imc.md) | 4/4 | hardware, quant, software-engineering |
 | [IMC Trading](../companies/imc-trading.md) | 9/14 | hardware, machine-learning, quant |
 | [Ignite Digital Services](../companies/ignite-digital-services.md) | 0/1 | software-engineering |
@@ -235,7 +236,7 @@
 | [Moss & Associates](../companies/moss-associates.md) | 1/1 | software-engineering |
 | [Muru](../companies/muru.md) | 2/2 | software-engineering |
 | [NBCUniversal](../companies/nbcuniversal.md) | 2/2 | software-engineering |
-| [NVIDIA](../companies/nvidia.md) | 1/9 | machine-learning, quant, research, security, software-engineering |
+| [NVIDIA](../companies/nvidia.md) | 2/9 | machine-learning, quant, research, security, software-engineering |
 | [NXP Semiconductors](../companies/nxp-semiconductors.md) | 1/3 | ai, design, software-engineering |
 | [Nash](../companies/nash.md) | 1/1 | software-engineering |
 | [NationGraph](../companies/nationgraph.md) | 2/2 | software-engineering |
@@ -281,10 +282,12 @@
 | [Pinterest](../companies/pinterest.md) | 3/4 | machine-learning, software-engineering |
 | [Podium](../companies/podium.md) | 0/1 | software-engineering |
 | [Point72](../companies/point72.md) | 3/3 | quant, software-engineering |
+| [Pony.ai](../companies/pony-ai.md) | 2/2 | machine-learning, software-engineering |
 | [Poshmark](../companies/poshmark.md) | 1/1 | cloud |
 | [Pure Storage](../companies/pure-storage.md) | 1/1 | software-engineering |
 | [Pylon](../companies/pylon.md) | 1/1 | software-engineering |
 | [Quadrillion](../companies/quadrillion.md) | 1/3 | research, software-engineering |
+| [Quadrillion Labs](../companies/quadrillion-labs.md) | 1/1 | software-engineering |
 | [RFCUNY](../companies/rfcuny.md) | 1/2 | software-engineering |
 | [ROCKWOOL Group](../companies/rockwool-group.md) | 2/2 | product, software-engineering |
 | [RTX](../companies/rtx.md) | 1/1 | machine-learning |
@@ -315,7 +318,7 @@
 | [Scale AI](../companies/scale-ai.md) | 3/3 | ai, software-engineering |
 | [Schweitzer Engineering Laboratories](../companies/schweitzer-engineering-laboratories.md) | 2/3 | software-engineering |
 | [Seaspan](../companies/seaspan.md) | 0/2 | software-engineering |
-| [Sentara Health](../companies/sentara-health.md) | 0/1 | ai |
+| [Sentara Health](../companies/sentara-health.md) | 1/2 | ai |
 | [Seven Research](../companies/seven-research.md) | 4/4 | machine-learning, quant, software-engineering |
 | [Shopify](../companies/shopify.md) | 1/1 | software-engineering |
 | [ShyftLabs](../companies/shyftlabs.md) | 2/2 | ai |
@@ -332,6 +335,7 @@
 | [SpreeAI](../companies/spreeai.md) | 4/4 | machine-learning, software-engineering |
 | [StarSling](../companies/starsling.md) | 1/1 | software-engineering |
 | [State of North Carolina](../companies/state-of-north-carolina.md) | 0/1 | software-engineering |
+| [Stevens Capital Management](../companies/stevens-capital-management.md) | 1/1 | quant |
 | [Stoke Space](../companies/stoke-space.md) | 2/2 | software-engineering |
 | [Stripe](../companies/stripe.md) | 1/1 | software-engineering |
 | [Super](../companies/super.md) | 1/1 | software-engineering |
