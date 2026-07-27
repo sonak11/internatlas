@@ -208,7 +208,7 @@
 | [Kirin](../companies/kirin.md) | 2/2 | ai, quant |
 | [Kudu Dynamics](../companies/kudu-dynamics.md) | 0/3 | software-engineering |
 | [Lawrence Livermore National Laboratory (LLNL)](../companies/lawrence-livermore-national-laboratory-llnl.md) | 2/2 | software-engineering |
-| [LexisNexis Risk Solutions](../companies/lexisnexis-risk-solutions.md) | 1/1 | software-engineering |
+| [LexisNexis Risk Solutions](../companies/lexisnexis-risk-solutions.md) | 0/1 | software-engineering |
 | [Light & Wonder](../companies/light-wonder.md) | 0/1 | software-engineering |
 | [Littelfuse](../companies/littelfuse.md) | 1/1 | software-engineering |
 | [LiveRamp](../companies/liveramp.md) | 0/1 | software-engineering |
@@ -230,7 +230,7 @@
 | [Mobius Renewables](../companies/mobius-renewables.md) | 2/2 | software-engineering |
 | [Monogram](../companies/monogram.md) | 1/1 | software-engineering |
 | [Moog](../companies/moog.md) | 1/1 | software-engineering |
-| [Moon](../companies/moon.md) | 3/3 | machine-learning, software-engineering |
+| [Moon](../companies/moon.md) | 1/3 | machine-learning, software-engineering |
 | [Mosaic](../companies/mosaic.md) | 1/2 | software-engineering |
 | [Moss & Associates](../companies/moss-associates.md) | 1/1 | software-engineering |
 | [Muru](../companies/muru.md) | 2/2 | software-engineering |
@@ -352,6 +352,7 @@
 | [TikTok](../companies/tiktok.md) | 13/14 | ai, cloud, machine-learning, product, software-engineering |
 | [Together AI](../companies/together-ai.md) | 3/3 | research |
 | [Torch Technologies](../companies/torch-technologies.md) | 0/1 | software-engineering |
+| [Toshiba Global Commerce](../companies/toshiba-global-commerce.md) | 2/2 | ai, software-engineering |
 | [Tower Research Capital](../companies/tower-research-capital.md) | 1/2 | quant |
 | [TransMarket Group](../companies/transmarket-group.md) | 3/3 | cloud, quant |
 | [Trata](../companies/trata.md) | 1/1 | research |

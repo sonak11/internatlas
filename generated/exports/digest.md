@@ -1,6 +1,6 @@
-# 📬 InternAtlas Weekly Digest — 2026-07-26
+# 📬 InternAtlas Weekly Digest — 2026-07-27
 
-## 🆕 New this week (228)
+## 🆕 New this week (230)
 
 - **AQR Capital Management** — [Trading Analyst Intern](https://careers.aqr.com/jobs?gh_jid=8077110&gh_jid=8077110) · quant · —
 - **AVEVA** — [Software Developer Intern Co-op](https://aveva.wd3.myworkdayjobs.com/en-US/AVEVA_careers/job/Philadelphia-Pennsylvania-United-States-of-America/Software-Developer-Intern--Drexel-Co-op-US_R014478) · software-engineering · —
@@ -208,6 +208,8 @@
 - **Tenstorrent** — [Software Engineer Intern - Power Modeling & AI Tools](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5186916007) · ai · —
 - **Tesla** — [Localization Specialist Intern](https://www.tesla.com/careers/search/job/internship-localization-specialist-it-applications-fall-2026-276308) · software-engineering · —
 - **TikTok** — [Product Manager Intern - Tiktok-Product-Search](https://lifeattiktok.com/search/7663349357178620165) · product · —
+- **Toshiba Global Commerce** — [Agentic Software Engineer Intern](https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5177892007) · software-engineering · —
+- **Toshiba Global Commerce** — [AI Engineer Intern](https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5192820007) · ai · —
 - **TransMarket Group** — [DevOps/SRE Intern](https://job-boards.greenhouse.io/transmarketgroup/jobs/5151577007) · cloud · —
 - **TransMarket Group** — [Quantitative Trader Intern](https://job-boards.greenhouse.io/transmarketgroup/jobs/5151569007) · quant · —
 - **Trillium** — [Equity Trader Intern](https://www.trlm.com/apply/5076017007?gh_jid=5076017007) · software-engineering · —

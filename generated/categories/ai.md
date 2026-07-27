@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🤖 AI Internships
 
-**94** tracked · **76** open now
+**95** tracked · **77** open now
 
 ## Current openings
 
@@ -80,6 +80,7 @@
 | [TikTok](generated/companies/tiktok.md) | [LLM Post-training Engineer Intern, Research & Product](https://lifeattiktok.com/search/7631599293708126517) | San Jose, CA | Onsite | 2026-04-25 | Rolling | 🟢 Open | ❔ |
 | [TikTok](generated/companies/tiktok.md) | [Research Scientist Intern - Nextgen LLM](https://lifeattiktok.com/search/7633668061979543813) | San Jose, CA | Onsite | 2026-04-29 | Rolling | 🟢 Open | ❔ |
 | [TikTok](generated/companies/tiktok.md) | [Research Scientist Intern - TikTok Search / Generative AI - LLM](https://lifeattiktok.com/search/7629250876813642037) | San Jose, CA | Onsite | 2026-04-17 | Rolling | 🟢 Open | ❔ |
+| [Toshiba Global Commerce](generated/companies/toshiba-global-commerce.md) | [AI Engineer Intern](https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5192820007) | Frisco, TX | Onsite | 2026-07-27 | Rolling | 🟢 Open | ❔ |
 | [Veeam Software](generated/companies/veeam-software.md) | [Software Engineering Intern, Platform, Security & AI](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4857832101) | San Jose, CA | Onsite | 2026-05-09 | Rolling | 🟢 Open | ❔ |
 | [Veeda AI](generated/companies/veeda-ai.md) | [AI Scientist Intern - Veeda AI Scientist](https://jobs.ashbyhq.com/veeda-labs/58cc42fb-1d6f-4e5f-860d-3b97bdccc6f4/application?embed=true) | Seattle, WA +2 | Onsite | 2026-07-21 | Rolling | 🟢 Open | ❔ |
 | [Workato](generated/companies/workato.md) | [Intern AI Engineering](https://job-boards.greenhouse.io/workato/jobs/8492935002) | SF | Onsite | 2026-04-10 | Rolling | 🟢 Open | ❔ |
@@ -145,6 +146,7 @@
 - Rivian and Volkswagen Group Technologies (1)
 - Saronic (1)
 - SPREEAI (1)
+- Toshiba Global Commerce (1)
 - Veeam Software (1)
 - Veeda AI (1)
 - Workato (1)

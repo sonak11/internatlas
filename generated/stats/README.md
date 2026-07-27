@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 📊 Statistics
 
-_Generated 2026-07-26_
+_Generated 2026-07-27_
 
 ## Top hiring companies
 
@@ -33,9 +33,9 @@ _Generated 2026-07-26_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 488 | `████████████` |
+| software-engineering | 489 | `████████████` |
 | quant | 111 | `███` |
-| ai | 94 | `██` |
+| ai | 95 | `██` |
 | machine-learning | 61 | `██` |
 | research | 52 | `█` |
 | hardware | 49 | `█` |
@@ -49,6 +49,8 @@ _Generated 2026-07-26_
 
 ## Newest listings
 
+- 2026-07-27 — **Toshiba Global Commerce**: [Agentic Software Engineer Intern](https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5177892007)
+- 2026-07-27 — **Toshiba Global Commerce**: [AI Engineer Intern](https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5192820007)
 - 2026-07-25 — **Northrop Grumman**: [Software Engineer Intern](https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10239275)
 - 2026-07-24 — **Appian**: [Product Manager Intern](https://careers.appian.com/jobs/8041243-product-manager-intern-)
 - 2026-07-24 — **Appian**: [Software Engineering Intern](https://careers.appian.com/jobs/8041237-software-engineering-intern)
@@ -67,8 +69,6 @@ _Generated 2026-07-26_
 - 2026-07-24 — **Jane Street**: [Cybersecurity Analyst Intern](https://www.janestreet.com/join-jane-street/position/8632723002/)
 - 2026-07-24 — **Jane Street**: [Data Engineer Intern](https://www.janestreet.com/join-jane-street/position/8631973002/)
 - 2026-07-24 — **Jane Street**: [Fundamental Research Analyst Intern](https://www.janestreet.com/join-jane-street/position/8347286002/)
-- 2026-07-24 — **Jane Street**: [Hardware Engineer (FPGA/ASIC) Intern](https://www.janestreet.com/join-jane-street/position/8624440002/)
-- 2026-07-24 — **Jane Street**: [Linux Engineer Intern](https://www.janestreet.com/join-jane-street/position/8626260002/)
 
 ## Recently closed
 
@@ -174,6 +174,7 @@ _Generated 2026-07-26_
 - Kudu Dynamics — Software Engineer Intern
 - Kudu Dynamics — Software Engineer Intern
 - Kudu Dynamics — Software Engineer Intern
+- LexisNexis Risk Solutions — Editorial Data Reporting Intern
 - Light & Wonder — Mathematics Intern
 - LiveRamp — Software Engineer Intern, Pixel Serving
 - Mackenzie Investments — Data Science and AI Specialist Intern - Investment Management - Fundamental Equity
@@ -183,6 +184,8 @@ _Generated 2026-07-26_
 - Meta — Research Scientist Intern - 3D Vision & World Simulation
 - Microchip Technology — Applications Engineering Intern
 - Mistral AI — Applied Scientist / Research Engineer Intern
+- Moon — Software Engineer Intern - Backend & API
+- Moon — Software Engineer Intern - Data & Machine Learning
 - Mosaic — Capital Project Engineering Co-op/Intern
 - National Laboratory of the Rockies — Energy Data Analysis Intern
 - National Laboratory of the Rockies — Graduate Geospatial Data Science Intern
