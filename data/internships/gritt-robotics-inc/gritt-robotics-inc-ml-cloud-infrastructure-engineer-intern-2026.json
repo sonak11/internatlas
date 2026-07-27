@@ -1,20 +1,21 @@
 {
   "schema_version": "1.0",
-  "id": "palantir-technologies-forward-deployed-infrastructure-engineer-intern-2026",
+  "id": "gritt-robotics-inc-ml-cloud-infrastructure-engineer-intern-2026",
   "company": {
-    "name": "Palantir Technologies",
-    "slug": "palantir-technologies"
+    "name": "GRITT ROBOTICS INC",
+    "slug": "gritt-robotics-inc"
   },
-  "role": "Forward Deployed Infrastructure Engineer Intern",
-  "category": "cloud",
-  "apply_url": "https://jobs.lever.co/palantir/3db7e40a-28e0-4ad1-96c5-93de5bc96aa9",
+  "role": "ML & Cloud Infrastructure Engineer Intern",
+  "category": "machine-learning",
+  "apply_url": "https://jobs.ashbyhq.com/gritt/46af6e69-40fc-4e53-940e-a99757137523",
   "season": "fall",
   "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Washington",
-      "country": "D.C."
+      "city": "South San Francisco",
+      "state": "CA",
+      "country": "USA"
     }
   ],
   "compensation": {
@@ -25,9 +26,9 @@
   "eligibility": {
     "graduation_years": [],
     "degree_levels": [],
-    "citizenship_required": true,
+    "citizenship_required": false,
     "security_clearance_required": false,
-    "visa_sponsorship": "no"
+    "visa_sponsorship": "unknown"
   },
   "interview": {},
   "tech": {
@@ -39,11 +40,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-24",
-    "discovered": "2026-07-24",
+    "posted": "2026-07-27",
+    "discovered": "2026-07-27",
     "last_verified": "2026-07-27"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:vanshb03"

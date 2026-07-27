@@ -14,7 +14,7 @@ _Generated 2026-07-27_
 | Susquehanna International Group (SIG) | 19 |
 | Palantir Technologies | 17 |
 | Jane Street | 16 |
-| Meta | 16 |
+| Meta | 15 |
 | Cloudflare | 14 |
 | IMC Trading | 14 |
 | Rivian and Volkswagen Group Technologies | 14 |
@@ -33,11 +33,11 @@ _Generated 2026-07-27_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 495 | `████████████` |
+| software-engineering | 496 | `████████████` |
 | quant | 114 | `███` |
-| ai | 98 | `██` |
-| machine-learning | 63 | `██` |
-| research | 52 | `█` |
+| ai | 100 | `██` |
+| machine-learning | 64 | `██` |
+| research | 51 | `█` |
 | hardware | 49 | `█` |
 | embedded | 38 | `█` |
 | cloud | 26 | `█` |
@@ -45,17 +45,22 @@ _Generated 2026-07-27_
 | design | 23 | `█` |
 | data-science | 16 | `█` |
 | data-engineering | 12 | `█` |
-| security | 5 | `█` |
+| security | 7 | `█` |
 
 ## Newest listings
 
 - 2026-07-27 — **Anthelion Capital**: [Quant Developer / Quant Research Intern](https://jobs.ashbyhq.com/anthelioncap/5e2ea37b-2369-474e-b717-c24c60976e96)
+- 2026-07-27 — **Appian**: [Information Security Engineer Intern](https://job-boards.greenhouse.io/appian/jobs/8088496)
 - 2026-07-27 — **Atomic Semi**: [Infrastructure Software Engineering Intern](https://jobs.ashbyhq.com/fab2/867c67f7-20b5-4726-b9da-85a760d3851e?embed=true)
 - 2026-07-27 — **Atomic Semi**: [Software Engineer Intern, Chip Design Tools](https://jobs.ashbyhq.com/fab2/907766af-a3c0-49a3-b01e-246baa437d10?embed=true)
 - 2026-07-27 — **Chanel**: [Data Intern - Global Data Program](https://cc.wd3.myworkdayjobs.com/ChanelCareers/job/London/Data-Intern---Global-Data-Program--H-F-X----September-2026_JOBREQ00115336)
 - 2026-07-27 — **Copart**: [Data Engineer Intern](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Data-Engineering-Intern_JR110075)
 - 2026-07-27 — **Core & Main**: [AI/ML Data Engineering Intern](https://coreandmain.wd1.myworkdayjobs.com/coreandmain/job/Saint-Louis-MO-63146/Intern---Data-Engineering----Corp_45804)
+- 2026-07-27 — **GRITT ROBOTICS INC**: [ML & Cloud Infrastructure Engineer Intern](https://jobs.ashbyhq.com/gritt/46af6e69-40fc-4e53-940e-a99757137523)
 - 2026-07-27 — **HyperLight**: [Software Engineer Intern](https://apply.workable.com/hyperlight/j/5581EA0668/)
+- 2026-07-27 — **Intel Corporation**: [AI Software Engineering PhD Intern](https://intel.wd1.myworkdayjobs.com/external/job/US-Oregon-Hillsboro/AI-Applied-intern_JR0285916)
+- 2026-07-27 — **Mathtech**: [Web Application Developer Intern](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?jobId=565843)
+- 2026-07-27 — **Nelnet**: [Agentic AI Intern](https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Lincoln-NE/Intern-Program---Agentic-AI_R22904)
 - 2026-07-27 — **Pony.ai**: [Research Intern - Deep Learning](https://apply.workable.com/pony-dot-ai/j/4C1F53EF5D/)
 - 2026-07-27 — **Pony.ai**: [Software Engineer Intern](https://apply.workable.com/pony-dot-ai/j/BA5FFDBC71/)
 - 2026-07-27 — **Quadrillion Labs**: [Software Engineering Intern](https://jobs.ashbyhq.com/quadrillion-labs/a4acc44c-31ce-41a0-ab44-2500487b4d05)
@@ -64,11 +69,6 @@ _Generated 2026-07-27_
 - 2026-07-27 — **Sentara Health**: [Data & AI Finance Strategy Intern](https://sentara.wd1.myworkdayjobs.com/SCS/job/Virginia-Beach-VA/Data---AI-Finance-Strategy-Intern---Fall-2026-Internship-Remote_JR-103073)
 - 2026-07-27 — **Squarepoint Capital**: [Intern Quant Researcher](https://boards.greenhouse.io/embed/job_app?token=243853)
 - 2026-07-27 — **Stevens Capital Management**: [Quantitative Research Analyst Internship](https://job-boards.greenhouse.io/scm/jobs/721895)
-- 2026-07-27 — **Toshiba Commerce Solutions**: [Agentic Software Engineering Intern](https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5177892007)
-- 2026-07-27 — **Toshiba Commerce Solutions**: [AI Engineering Intern](https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5192820007)
-- 2026-07-27 — **Toshiba Commerce Solutions**: [Project Management & AI Automation Intern](https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5190937007)
-- 2026-07-27 — **Toshiba Global Commerce**: [AI Product Management Intern](https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5195826007)
-- 2026-07-27 — **Toshiba Global Commerce**: [Product & Business Analytics Intern](https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5195802007)
 
 ## Recently closed
 
@@ -76,6 +76,7 @@ _Generated 2026-07-27_
 - Accenture — Software Engineer Intern
 - Accenture — Technology Apprentice Intern
 - ACLU Kentucky — Undergraduate Intern - Technology and Analytics Department-Educate Pod
+- Ada — Software Engineer Intern
 - Altera Corporation — AI Software Development Engineer Intern
 - AMAROK Security — Research and Development Intern
 - American Bureau of Shipping — AI Software Engineering Intern
@@ -211,6 +212,9 @@ _Generated 2026-07-27_
 - NXP Semiconductors — Digital Verification Engineer Intern
 - onsemi — Electrical Device Characterization Intern
 - Optiver — Trading Automation and Operations Intern
+- Palantir Technologies — Forward Deployed Infrastructure Engineer Intern
+- Palantir Technologies — Forward Deployed Infrastructure Engineer Intern
+- Palantir Technologies — Forward Deployed Infrastructure Engineer Intern
 - Pennsylvania State University — Research and Development Engineer Intern
 - Pennsylvania State University — Research Engineering Intern
 - Pinterest — PhD Fall Machine Learning Intern (ATG — Visual, Multimodal, and Recommender Systems)

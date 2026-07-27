@@ -1,20 +1,21 @@
 {
   "schema_version": "1.0",
-  "id": "palantir-technologies-forward-deployed-infrastructure-engineer-intern-2026",
+  "id": "mathtech-web-application-developer-intern-2026",
   "company": {
-    "name": "Palantir Technologies",
-    "slug": "palantir-technologies"
+    "name": "Mathtech",
+    "slug": "mathtech"
   },
-  "role": "Forward Deployed Infrastructure Engineer Intern",
-  "category": "cloud",
-  "apply_url": "https://jobs.lever.co/palantir/3db7e40a-28e0-4ad1-96c5-93de5bc96aa9",
+  "role": "Web Application Developer Intern",
+  "category": "software-engineering",
+  "apply_url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?jobId=565843",
   "season": "fall",
   "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Washington",
-      "country": "D.C."
+      "city": "Falls Church",
+      "state": "VA",
+      "country": "USA"
     }
   ],
   "compensation": {
@@ -39,11 +40,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-24",
-    "discovered": "2026-07-24",
+    "posted": "2026-07-27",
+    "discovered": "2026-07-27",
     "last_verified": "2026-07-27"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:vanshb03"

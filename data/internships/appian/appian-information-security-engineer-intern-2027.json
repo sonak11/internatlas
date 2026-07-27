@@ -1,20 +1,21 @@
 {
   "schema_version": "1.0",
-  "id": "palantir-technologies-forward-deployed-infrastructure-engineer-intern-2026",
+  "id": "appian-information-security-engineer-intern-2027",
   "company": {
-    "name": "Palantir Technologies",
-    "slug": "palantir-technologies"
+    "name": "Appian",
+    "slug": "appian"
   },
-  "role": "Forward Deployed Infrastructure Engineer Intern",
-  "category": "cloud",
-  "apply_url": "https://jobs.lever.co/palantir/3db7e40a-28e0-4ad1-96c5-93de5bc96aa9",
-  "season": "fall",
-  "year": 2026,
+  "role": "Information Security Engineer Intern",
+  "category": "security",
+  "apply_url": "https://job-boards.greenhouse.io/appian/jobs/8088496",
+  "season": "summer",
+  "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Washington",
-      "country": "D.C."
+      "city": "McLean",
+      "state": "VA",
+      "country": "USA"
     }
   ],
   "compensation": {
@@ -25,7 +26,7 @@
   "eligibility": {
     "graduation_years": [],
     "degree_levels": [],
-    "citizenship_required": true,
+    "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "no"
   },
@@ -39,11 +40,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-24",
-    "discovered": "2026-07-24",
+    "posted": "2026-07-27",
+    "discovered": "2026-07-27",
     "last_verified": "2026-07-27"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:vanshb03"

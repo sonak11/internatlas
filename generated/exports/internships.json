@@ -1,6 +1,6 @@
 {
   "generated": "2026-07-27",
-  "count": 1014,
+  "count": 1019,
   "internships": [
     {
       "schema_version": "1.0",
@@ -412,7 +412,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-27"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -3228,6 +3228,58 @@
       "dates": {
         "posted": "2026-05-11",
         "discovered": "2026-07-17",
+        "last_verified": "2026-07-27"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "appian-information-security-engineer-intern-2027",
+      "company": {
+        "name": "Appian",
+        "slug": "appian"
+      },
+      "role": "Information Security Engineer Intern",
+      "category": "security",
+      "apply_url": "https://job-boards.greenhouse.io/appian/jobs/8088496",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "McLean",
+          "state": "VA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "no"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-27",
+        "discovered": "2026-07-27",
         "last_verified": "2026-07-27"
       },
       "status": "open",
@@ -18595,6 +18647,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "gritt-robotics-inc-ml-cloud-infrastructure-engineer-intern-2026",
+      "company": {
+        "name": "GRITT ROBOTICS INC",
+        "slug": "gritt-robotics-inc"
+      },
+      "role": "ML & Cloud Infrastructure Engineer Intern",
+      "category": "machine-learning",
+      "apply_url": "https://jobs.ashbyhq.com/gritt/46af6e69-40fc-4e53-940e-a99757137523",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "South San Francisco",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-27",
+        "discovered": "2026-07-27",
+        "last_verified": "2026-07-27"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "gritt-robotics-inc-robot-learning-engineer-intern-2026",
       "company": {
         "name": "Gritt Robotics Inc",
@@ -21833,6 +21937,58 @@
         "last_verified": "2026-07-24"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "intel-corporation-ai-software-engineering-phd-intern-2027",
+      "company": {
+        "name": "Intel Corporation",
+        "slug": "intel-corporation"
+      },
+      "role": "AI Software Engineering PhD Intern",
+      "category": "ai",
+      "apply_url": "https://intel.wd1.myworkdayjobs.com/external/job/US-Oregon-Hillsboro/AI-Applied-intern_JR0285916",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Hillsboro",
+          "state": "OR",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "yes"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-27",
+        "discovered": "2026-07-27",
+        "last_verified": "2026-07-27"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -26469,6 +26625,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "mathtech-web-application-developer-intern-2026",
+      "company": {
+        "name": "Mathtech",
+        "slug": "mathtech"
+      },
+      "role": "Web Application Developer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?jobId=565843",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Falls Church",
+          "state": "VA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": true,
+        "security_clearance_required": false,
+        "visa_sponsorship": "no"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-27",
+        "discovered": "2026-07-27",
+        "last_verified": "2026-07-27"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "mckesson-ai-strategic-analytics-intern-2026",
       "company": {
         "name": "McKesson",
@@ -27648,7 +27856,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "meta-research-scientist-intern-photorealistic-telepresence-2026-ae1515",
+      "id": "meta-research-scientist-intern-photorealistic-telepresence-2026",
       "company": {
         "name": "Meta",
         "slug": "meta"
@@ -27690,70 +27898,6 @@
       },
       "dates": {
         "posted": "2026-06-17",
-        "discovered": "2026-07-17",
-        "last_verified": "2026-07-27"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "meta-research-scientist-intern-photorealistic-telepresence-2026",
-      "company": {
-        "name": "Meta",
-        "slug": "meta"
-      },
-      "role": "Research Scientist Intern - Photorealistic Telepresence",
-      "category": "research",
-      "apply_url": "https://www.metacareers.com/jobs/2022109075207025",
-      "season": "fall",
-      "year": 2026,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Sausalito",
-          "state": "CA",
-          "country": "USA"
-        },
-        {
-          "city": "Redmond",
-          "state": "WA",
-          "country": "USA"
-        },
-        {
-          "city": "Pittsburgh",
-          "state": "PA",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [
-          "phd"
-        ],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-03-05",
         "discovered": "2026-07-17",
         "last_verified": "2026-07-27"
       },
@@ -29408,6 +29552,58 @@
       "dates": {
         "posted": "2026-04-20",
         "discovered": "2026-07-17",
+        "last_verified": "2026-07-27"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "nelnet-agentic-ai-intern-2026",
+      "company": {
+        "name": "Nelnet",
+        "slug": "nelnet"
+      },
+      "role": "Agentic AI Intern",
+      "category": "ai",
+      "apply_url": "https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Lincoln-NE/Intern-Program---Agentic-AI_R22904",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Lincoln",
+          "state": "NE",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-27",
+        "discovered": "2026-07-27",
         "last_verified": "2026-07-27"
       },
       "status": "open",
@@ -33923,7 +34119,7 @@
         "discovered": "2026-07-24",
         "last_verified": "2026-07-27"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -33975,7 +34171,7 @@
         "discovered": "2026-07-24",
         "last_verified": "2026-07-27"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -34026,7 +34222,7 @@
         "discovered": "2026-07-24",
         "last_verified": "2026-07-27"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -49986,6 +50182,58 @@
       "tags": [
         "auto-ingested",
         "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "the-mosaic-company-cybersecurity-co-op-intern-2026",
+      "company": {
+        "name": "The Mosaic Company",
+        "slug": "the-mosaic-company"
+      },
+      "role": "Cybersecurity Co-Op/Intern",
+      "category": "security",
+      "apply_url": "https://mosaic.wd5.myworkdayjobs.com/mosaic/job/US---Tampa-FL-Lithia-area/Co-op-Student-Admin_64613-1",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Tampa",
+          "state": "FL",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": true,
+        "security_clearance_required": false,
+        "visa_sponsorship": "no"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-27",
+        "discovered": "2026-07-27",
+        "last_verified": "2026-07-27"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
       ]
     },
     {

@@ -15,7 +15,7 @@
 | [AVEVA](../companies/aveva.md) | 0/1 | software-engineering |
 | [Abundant](../companies/abundant.md) | 1/1 | research |
 | [Accenture](../companies/accenture.md) | 0/2 | software-engineering |
-| [Ada](../companies/ada.md) | 1/1 | software-engineering |
+| [Ada](../companies/ada.md) | 0/1 | software-engineering |
 | [Adobe](../companies/adobe.md) | 1/1 | machine-learning |
 | [Adtheorant](../companies/adtheorant.md) | 1/1 | ai |
 | [Airbnb](../companies/airbnb.md) | 1/1 | software-engineering |
@@ -35,7 +35,7 @@
 | [Anduril](../companies/anduril.md) | 6/6 | hardware, software-engineering |
 | [Anthelion Capital](../companies/anthelion-capital.md) | 2/2 | quant |
 | [Apex Technology, Inc.](../companies/apex-technology-inc.md) | 1/1 | embedded |
-| [Appian](../companies/appian.md) | 4/4 | product, software-engineering |
+| [Appian](../companies/appian.md) | 5/5 | product, security, software-engineering |
 | [Apple](../companies/apple.md) | 2/2 | software-engineering |
 | [Aptiv](../companies/aptiv.md) | 0/1 | software-engineering |
 | [Aquatic Capital](../companies/aquatic-capital.md) | 1/1 | software-engineering |
@@ -159,6 +159,7 @@
 | [GE Appliances](../companies/ge-appliances.md) | 0/1 | software-engineering |
 | [GE Healthcare](../companies/ge-healthcare.md) | 0/2 | hardware, software-engineering |
 | [GE Vernova](../companies/ge-vernova.md) | 2/2 | product |
+| [GRITT ROBOTICS INC](../companies/gritt-robotics-inc.md) | 1/1 | machine-learning |
 | [Gemini](../companies/gemini.md) | 1/1 | software-engineering |
 | [GenMD](../companies/genmd.md) | 1/1 | ai |
 | [Generac](../companies/generac.md) | 1/3 | data-science, software-engineering |
@@ -196,6 +197,7 @@
 | [Integra FEC](../companies/integra-fec.md) | 4/4 | data-science, software-engineering |
 | [Integrity](../companies/integrity.md) | 1/1 | research |
 | [Intel](../companies/intel.md) | 0/1 | ai |
+| [Intel Corporation](../companies/intel-corporation.md) | 1/1 | ai |
 | [Intercontinental Exchange, Inc.](../companies/intercontinental-exchange-inc.md) | 1/1 | machine-learning |
 | [International Rescue Committee (IRC)](../companies/international-rescue-committee-irc.md) | 2/2 | research, software-engineering |
 | [Intuitive Surgical](../companies/intuitive-surgical.md) | 1/1 | software-engineering |
@@ -221,11 +223,12 @@
 | [Marmon Holdings](../companies/marmon-holdings.md) | 2/2 | data-engineering |
 | [Marshall Wace](../companies/marshall-wace.md) | 2/2 | software-engineering |
 | [Marvell](../companies/marvell.md) | 2/3 | design, software-engineering |
+| [Mathtech](../companies/mathtech.md) | 1/1 | software-engineering |
 | [McKesson](../companies/mckesson.md) | 1/3 | ai, software-engineering |
 | [Medpace](../companies/medpace.md) | 1/1 | ai |
 | [Medpace, Inc.](../companies/medpace-inc.md) | 3/3 | ai, data-engineering, software-engineering |
 | [Menasha Corporation](../companies/menasha-corporation.md) | 1/1 | software-engineering |
-| [Meta](../companies/meta.md) | 15/16 | ai, machine-learning, research |
+| [Meta](../companies/meta.md) | 14/15 | ai, machine-learning, research |
 | [Microchip Technology](../companies/microchip-technology.md) | 0/1 | software-engineering |
 | [Midmark](../companies/midmark.md) | 1/1 | embedded |
 | [Mindsmith](../companies/mindsmith.md) | 1/1 | software-engineering |
@@ -245,6 +248,7 @@
 | [National Laboratory of the Rockies](../companies/national-laboratory-of-the-rockies.md) | 2/5 | cloud, data-science, software-engineering |
 | [Navy Federal](../companies/navy-federal.md) | 0/1 | software-engineering |
 | [Naïve](../companies/na-ve.md) | 1/1 | software-engineering |
+| [Nelnet](../companies/nelnet.md) | 1/1 | ai |
 | [NeoCognition](../companies/neocognition.md) | 1/1 | research |
 | [NeoSigma](../companies/neosigma.md) | 2/2 | software-engineering |
 | [Netflix](../companies/netflix.md) | 2/2 | machine-learning, software-engineering |
@@ -269,7 +273,7 @@
 | [Output Biosciences](../companies/output-biosciences.md) | 1/1 | machine-learning |
 | [PDT Partners](../companies/pdt-partners.md) | 1/1 | software-engineering |
 | [Palantir](../companies/palantir.md) | 7/7 | software-engineering |
-| [Palantir Technologies](../companies/palantir-technologies.md) | 17/17 | cloud, software-engineering |
+| [Palantir Technologies](../companies/palantir-technologies.md) | 14/17 | cloud, software-engineering |
 | [Paragon](../companies/paragon.md) | 1/1 | software-engineering |
 | [PathAI](../companies/pathai.md) | 1/1 | machine-learning |
 | [Pendulum Intelligence](../companies/pendulum-intelligence.md) | 1/1 | product |
@@ -356,6 +360,7 @@
 | [Terranox AI](../companies/terranox-ai.md) | 1/1 | machine-learning |
 | [Tesla](../companies/tesla.md) | 94/98 | ai, cloud, data-engineering, design, embedded, hardware, machine-learning, product, security, software-engineering |
 | [The Federal Reserve System](../companies/the-federal-reserve-system.md) | 0/1 | software-engineering |
+| [The Mosaic Company](../companies/the-mosaic-company.md) | 1/1 | security |
 | [The Trade Desk](../companies/the-trade-desk.md) | 0/1 | software-engineering |
 | [TikTok](../companies/tiktok.md) | 13/14 | ai, cloud, machine-learning, product, software-engineering |
 | [Together AI](../companies/together-ai.md) | 3/3 | research |
