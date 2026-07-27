@@ -59,6 +59,7 @@ _Generated 2026-07-27_
 - 2026-07-27 — **Pony.ai**: [Research Intern - Deep Learning](https://apply.workable.com/pony-dot-ai/j/4C1F53EF5D/)
 - 2026-07-27 — **Pony.ai**: [Software Engineer Intern](https://apply.workable.com/pony-dot-ai/j/BA5FFDBC71/)
 - 2026-07-27 — **Quadrillion Labs**: [Software Engineering Intern](https://jobs.ashbyhq.com/quadrillion-labs/a4acc44c-31ce-41a0-ab44-2500487b4d05)
+- 2026-07-27 — **Robert Bosch LLC**: [Software Engineer Intern, Autonomous Driving](https://jobs.smartrecruiters.com/BoschGroup/744000139649345)
 - 2026-07-27 — **RTX**: [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-PA-STATE-COLLEGE-5A--302-Science-Park-Rd--BLDG-5A/Software-Engineering-Intern--On-site-_01860801)
 - 2026-07-27 — **Sentara Health**: [Data & AI Finance Strategy Intern](https://sentara.wd1.myworkdayjobs.com/SCS/job/Virginia-Beach-VA/Data---AI-Finance-Strategy-Intern---Fall-2026-Internship-Remote_JR-103073)
 - 2026-07-27 — **Squarepoint Capital**: [Intern Quant Researcher](https://boards.greenhouse.io/embed/job_app?token=243853)
@@ -68,7 +69,6 @@ _Generated 2026-07-27_
 - 2026-07-27 — **Toshiba Commerce Solutions**: [Project Management & AI Automation Intern](https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5190937007)
 - 2026-07-27 — **Toshiba Global Commerce**: [AI Product Management Intern](https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5195826007)
 - 2026-07-27 — **Toshiba Global Commerce**: [Product & Business Analytics Intern](https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5195802007)
-- 2026-07-25 — **Northrop Grumman**: [Software Engineer Intern](https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10239275)
 
 ## Recently closed
 

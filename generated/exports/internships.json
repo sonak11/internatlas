@@ -6818,58 +6818,6 @@
     },
     {
       "schema_version": "1.0",
-      "id": "bosch-home-comfort-autonomous-driving-intern-2026",
-      "company": {
-        "name": "Bosch Home Comfort",
-        "slug": "bosch-home-comfort"
-      },
-      "role": "Autonomous Driving Intern",
-      "category": "software-engineering",
-      "apply_url": "https://jobs.smartrecruiters.com/BoschGroup/744000139649345",
-      "season": "fall",
-      "year": 2026,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Sunnyvale",
-          "state": "CA",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "yes"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-07-24",
-        "discovered": "2026-07-24",
-        "last_verified": "2026-07-27"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
       "id": "bosch-home-comfort-business-intelligence-intern-2026",
       "company": {
         "name": "Bosch Home Comfort",
@@ -38628,6 +38576,58 @@
       "tags": [
         "auto-ingested",
         "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "robert-bosch-llc-software-engineer-intern-autonomous-driving-2026",
+      "company": {
+        "name": "Robert Bosch LLC",
+        "slug": "robert-bosch-llc"
+      },
+      "role": "Software Engineer Intern, Autonomous Driving",
+      "category": "software-engineering",
+      "apply_url": "https://jobs.smartrecruiters.com/BoschGroup/744000139649345",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Sunnyvale",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "yes"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-27",
+        "discovered": "2026-07-27",
+        "last_verified": "2026-07-27"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
       ]
     },
     {

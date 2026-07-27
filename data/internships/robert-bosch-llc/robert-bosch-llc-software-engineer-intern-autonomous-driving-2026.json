@@ -1,11 +1,11 @@
 {
   "schema_version": "1.0",
-  "id": "bosch-home-comfort-autonomous-driving-intern-2026",
+  "id": "robert-bosch-llc-software-engineer-intern-autonomous-driving-2026",
   "company": {
-    "name": "Bosch Home Comfort",
-    "slug": "bosch-home-comfort"
+    "name": "Robert Bosch LLC",
+    "slug": "robert-bosch-llc"
   },
-  "role": "Autonomous Driving Intern",
+  "role": "Software Engineer Intern, Autonomous Driving",
   "category": "software-engineering",
   "apply_url": "https://jobs.smartrecruiters.com/BoschGroup/744000139649345",
   "season": "fall",
@@ -40,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-24",
-    "discovered": "2026-07-24",
+    "posted": "2026-07-27",
+    "discovered": "2026-07-27",
     "last_verified": "2026-07-27"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }
