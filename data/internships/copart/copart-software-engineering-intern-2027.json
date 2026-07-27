@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "toshiba-global-commerce-agentic-software-engineer-intern-2026",
+  "id": "copart-software-engineering-intern-2027",
   "company": {
-    "name": "Toshiba Global Commerce",
-    "slug": "toshiba-global-commerce"
+    "name": "Copart",
+    "slug": "copart"
   },
-  "role": "Agentic Software Engineer Intern",
+  "role": "Software Engineering Intern",
   "category": "software-engineering",
-  "apply_url": "https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5177892007",
-  "season": "fall",
-  "year": 2026,
+  "apply_url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR110011",
+  "season": "summer",
+  "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Durham",
-      "state": "NC",
+      "city": "Dallas",
+      "state": "TX",
       "country": "USA"
     }
   ],
@@ -28,7 +28,7 @@
     "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
-    "visa_sponsorship": "unknown"
+    "visa_sponsorship": "yes"
   },
   "interview": {},
   "tech": {
@@ -40,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-27",
+    "posted": "2026-07-24",
     "discovered": "2026-07-27",
     "last_verified": "2026-07-27"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }

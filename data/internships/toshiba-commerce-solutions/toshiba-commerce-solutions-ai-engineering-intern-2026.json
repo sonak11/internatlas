@@ -1,11 +1,11 @@
 {
   "schema_version": "1.0",
-  "id": "toshiba-global-commerce-ai-engineer-intern-2026",
+  "id": "toshiba-commerce-solutions-ai-engineering-intern-2026",
   "company": {
-    "name": "Toshiba Global Commerce",
-    "slug": "toshiba-global-commerce"
+    "name": "Toshiba Commerce Solutions",
+    "slug": "toshiba-commerce-solutions"
   },
-  "role": "AI Engineer Intern",
+  "role": "AI Engineering Intern",
   "category": "ai",
   "apply_url": "https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5192820007",
   "season": "fall",
@@ -28,7 +28,7 @@
     "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
-    "visa_sponsorship": "unknown"
+    "visa_sponsorship": "no"
   },
   "interview": {},
   "tech": {
@@ -47,6 +47,6 @@
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }

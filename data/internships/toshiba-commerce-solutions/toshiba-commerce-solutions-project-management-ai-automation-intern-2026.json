@@ -1,19 +1,19 @@
 {
   "schema_version": "1.0",
-  "id": "copart-software-engineer-intern-2026-7f0d4f",
+  "id": "toshiba-commerce-solutions-project-management-ai-automation-intern-2026",
   "company": {
-    "name": "Copart",
-    "slug": "copart"
+    "name": "Toshiba Commerce Solutions",
+    "slug": "toshiba-commerce-solutions"
   },
-  "role": "Software Engineer Intern",
-  "category": "software-engineering",
-  "apply_url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR110011",
+  "role": "Project Management & AI Automation Intern",
+  "category": "ai",
+  "apply_url": "https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5190937007",
   "season": "fall",
   "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Dallas",
+      "city": "Frisco",
       "state": "TX",
       "country": "USA"
     }
@@ -28,7 +28,7 @@
     "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
-    "visa_sponsorship": "yes"
+    "visa_sponsorship": "no"
   },
   "interview": {},
   "tech": {
@@ -40,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-21",
-    "discovered": "2026-07-25",
+    "posted": "2026-07-27",
+    "discovered": "2026-07-27",
     "last_verified": "2026-07-27"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }

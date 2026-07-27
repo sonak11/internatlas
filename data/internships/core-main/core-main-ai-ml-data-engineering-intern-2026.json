@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "city-of-austin-austin-aviation-undergraduate-intern-it-business-systems-ana-2026",
+  "id": "core-main-ai-ml-data-engineering-intern-2026",
   "company": {
-    "name": "City of Austin",
-    "slug": "city-of-austin"
+    "name": "Core & Main",
+    "slug": "core-main"
   },
-  "role": "Austin Aviation Undergraduate Intern - IT Business Systems Analyst",
-  "category": "software-engineering",
-  "apply_url": "https://austintexas.wd5.myworkdayjobs.com/COA_Careers/job/AUS-Information-Systems-Building-IS/Austin-Aviation--IT-Business-Systems-Analyst---Undergraduate-Intern_JR104583",
+  "role": "AI/ML Data Engineering Intern",
+  "category": "machine-learning",
+  "apply_url": "https://coreandmain.wd1.myworkdayjobs.com/coreandmain/job/Saint-Louis-MO-63146/Intern---Data-Engineering----Corp_45804",
   "season": "fall",
   "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Austin",
-      "state": "TX",
+      "city": "St. Louis",
+      "state": "MO",
       "country": "USA"
     }
   ],
@@ -28,7 +28,7 @@
     "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
-    "visa_sponsorship": "unknown"
+    "visa_sponsorship": "no"
   },
   "interview": {},
   "tech": {
@@ -40,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-24",
-    "discovered": "2026-07-24",
+    "posted": "2026-07-27",
+    "discovered": "2026-07-27",
     "last_verified": "2026-07-27"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }

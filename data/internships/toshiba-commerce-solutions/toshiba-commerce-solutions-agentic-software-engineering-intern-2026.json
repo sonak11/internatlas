@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "city-of-austin-austin-aviation-undergraduate-intern-it-business-systems-ana-2026",
+  "id": "toshiba-commerce-solutions-agentic-software-engineering-intern-2026",
   "company": {
-    "name": "City of Austin",
-    "slug": "city-of-austin"
+    "name": "Toshiba Commerce Solutions",
+    "slug": "toshiba-commerce-solutions"
   },
-  "role": "Austin Aviation Undergraduate Intern - IT Business Systems Analyst",
+  "role": "Agentic Software Engineering Intern",
   "category": "software-engineering",
-  "apply_url": "https://austintexas.wd5.myworkdayjobs.com/COA_Careers/job/AUS-Information-Systems-Building-IS/Austin-Aviation--IT-Business-Systems-Analyst---Undergraduate-Intern_JR104583",
+  "apply_url": "https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5177892007",
   "season": "fall",
   "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Austin",
-      "state": "TX",
+      "city": "Durham",
+      "state": "NC",
       "country": "USA"
     }
   ],
@@ -28,7 +28,7 @@
     "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
-    "visa_sponsorship": "unknown"
+    "visa_sponsorship": "no"
   },
   "interview": {},
   "tech": {
@@ -40,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-24",
-    "discovered": "2026-07-24",
+    "posted": "2026-07-27",
+    "discovered": "2026-07-27",
     "last_verified": "2026-07-27"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }

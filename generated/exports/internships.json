@@ -1,6 +1,6 @@
 {
   "generated": "2026-07-27",
-  "count": 1004,
+  "count": 1006,
   "internships": [
     {
       "schema_version": "1.0",
@@ -6737,7 +6737,7 @@
         "degree_levels": [],
         "citizenship_required": false,
         "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
+        "visa_sponsorship": "yes"
       },
       "interview": {},
       "tech": {
@@ -9904,7 +9904,7 @@
         "discovered": "2026-07-24",
         "last_verified": "2026-07-27"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -11239,58 +11239,6 @@
     },
     {
       "schema_version": "1.0",
-      "id": "copart-software-engineer-intern-2026-7f0d4f",
-      "company": {
-        "name": "Copart",
-        "slug": "copart"
-      },
-      "role": "Software Engineer Intern",
-      "category": "software-engineering",
-      "apply_url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR110011",
-      "season": "fall",
-      "year": 2026,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Dallas",
-          "state": "TX",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "yes"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-07-21",
-        "discovered": "2026-07-25",
-        "last_verified": "2026-07-27"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
       "id": "copart-software-engineer-intern-2026-b163bc",
       "company": {
         "name": "Copart",
@@ -11451,6 +11399,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "copart-software-engineering-intern-2027",
+      "company": {
+        "name": "Copart",
+        "slug": "copart"
+      },
+      "role": "Software Engineering Intern",
+      "category": "software-engineering",
+      "apply_url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR110011",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Dallas",
+          "state": "TX",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "yes"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-24",
+        "discovered": "2026-07-27",
+        "last_verified": "2026-07-27"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "copart-technology-product-analyst-intern-2026-928814",
       "company": {
         "name": "Copart",
@@ -11555,6 +11555,58 @@
       "tags": [
         "auto-ingested",
         "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "core-main-ai-ml-data-engineering-intern-2026",
+      "company": {
+        "name": "Core & Main",
+        "slug": "core-main"
+      },
+      "role": "AI/ML Data Engineering Intern",
+      "category": "machine-learning",
+      "apply_url": "https://coreandmain.wd1.myworkdayjobs.com/coreandmain/job/Saint-Louis-MO-63146/Intern---Data-Engineering----Corp_45804",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "St. Louis",
+          "state": "MO",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "no"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-27",
+        "discovered": "2026-07-27",
+        "last_verified": "2026-07-27"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
       ]
     },
     {
@@ -29409,9 +29461,9 @@
       "dates": {
         "posted": "2026-06-23",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-22"
+        "last_verified": "2026-07-27"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -31032,7 +31084,7 @@
         "discovered": "2026-07-22",
         "last_verified": "2026-07-27"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -41637,7 +41689,7 @@
         "discovered": "2026-07-21",
         "last_verified": "2026-07-27"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -50752,12 +50804,12 @@
     },
     {
       "schema_version": "1.0",
-      "id": "toshiba-global-commerce-agentic-software-engineer-intern-2026",
+      "id": "toshiba-commerce-solutions-agentic-software-engineering-intern-2026",
       "company": {
-        "name": "Toshiba Global Commerce",
-        "slug": "toshiba-global-commerce"
+        "name": "Toshiba Commerce Solutions",
+        "slug": "toshiba-commerce-solutions"
       },
-      "role": "Agentic Software Engineer Intern",
+      "role": "Agentic Software Engineering Intern",
       "category": "software-engineering",
       "apply_url": "https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5177892007",
       "season": "fall",
@@ -50780,7 +50832,7 @@
         "degree_levels": [],
         "citizenship_required": false,
         "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
+        "visa_sponsorship": "no"
       },
       "interview": {},
       "tech": {
@@ -50799,17 +50851,17 @@
       "status": "open",
       "tags": [
         "auto-ingested",
-        "src:simplify"
+        "src:vanshb03"
       ]
     },
     {
       "schema_version": "1.0",
-      "id": "toshiba-global-commerce-ai-engineer-intern-2026",
+      "id": "toshiba-commerce-solutions-ai-engineering-intern-2026",
       "company": {
-        "name": "Toshiba Global Commerce",
-        "slug": "toshiba-global-commerce"
+        "name": "Toshiba Commerce Solutions",
+        "slug": "toshiba-commerce-solutions"
       },
-      "role": "AI Engineer Intern",
+      "role": "AI Engineering Intern",
       "category": "ai",
       "apply_url": "https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5192820007",
       "season": "fall",
@@ -50832,7 +50884,7 @@
         "degree_levels": [],
         "citizenship_required": false,
         "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
+        "visa_sponsorship": "no"
       },
       "interview": {},
       "tech": {
@@ -50851,7 +50903,59 @@
       "status": "open",
       "tags": [
         "auto-ingested",
-        "src:simplify"
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "toshiba-commerce-solutions-project-management-ai-automation-intern-2026",
+      "company": {
+        "name": "Toshiba Commerce Solutions",
+        "slug": "toshiba-commerce-solutions"
+      },
+      "role": "Project Management & AI Automation Intern",
+      "category": "ai",
+      "apply_url": "https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5190937007",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Frisco",
+          "state": "TX",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "no"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-27",
+        "discovered": "2026-07-27",
+        "last_verified": "2026-07-27"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
       ]
     },
     {
