@@ -1,21 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "virtu-financial-2027-internship-quantitative-strategist-and-research-intern-2027",
+  "id": "chicago-trading-company-quant-trading-intern-2027-8db8a1",
   "company": {
-    "name": "Virtu Financial",
-    "slug": "virtu-financial",
-    "career_page": "https://www.virtu.com/careers"
+    "name": "Chicago Trading Company",
+    "slug": "chicago-trading-company"
   },
-  "role": "2027 Internship - Quantitative Strategist and Research Intern",
+  "role": "Quant Trading Intern",
   "category": "quant",
-  "apply_url": "https://job-boards.greenhouse.io/virtu/jobs/8631180002",
+  "apply_url": "https://job-boards.greenhouse.io/ctccampusboard/jobs/4709545005",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Dublin",
-      "country": "USA"
+      "city": "London",
+      "country": "UK"
     }
   ],
   "compensation": {
@@ -25,7 +24,9 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "masters"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -40,13 +41,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-14",
-    "discovered": "2026-07-18",
+    "posted": "2026-07-21",
+    "discovered": "2026-07-28",
     "last_verified": "2026-07-28"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:ats"
+    "src:simplify"
   ]
 }

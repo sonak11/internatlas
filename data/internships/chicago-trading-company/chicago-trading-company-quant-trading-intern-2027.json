@@ -7,14 +7,15 @@
   },
   "role": "Quant Trading Intern",
   "category": "quant",
-  "apply_url": "https://job-boards.greenhouse.io/ctccampusboard/jobs/4709545005",
+  "apply_url": "https://job-boards.greenhouse.io/ctccampusboard/jobs/4708188005",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "London",
-      "country": "UK"
+      "city": "Chicago",
+      "state": "IL",
+      "country": "USA"
     }
   ],
   "compensation": {
@@ -41,13 +42,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-21",
+    "posted": "2026-07-27",
     "discovered": "2026-07-20",
     "last_verified": "2026-07-28"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }

@@ -12,11 +12,11 @@ _Generated 2026-07-28_
 | Jump Trading | 38 |
 | Neuralink | 19 |
 | Susquehanna International Group (SIG) | 19 |
+| Cloudflare | 17 |
 | Palantir Technologies | 17 |
 | Jane Street | 16 |
 | Meta | 15 |
 | TikTok | 15 |
-| Cloudflare | 14 |
 | IMC Trading | 14 |
 | Rivian and Volkswagen Group Technologies | 14 |
 | Etched | 12 |
@@ -33,12 +33,12 @@ _Generated 2026-07-28_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 508 | `████████████` |
-| quant | 114 | `███` |
-| ai | 104 | `███` |
-| machine-learning | 65 | `██` |
-| research | 51 | `█` |
-| hardware | 49 | `█` |
+| software-engineering | 513 | `████████████` |
+| quant | 115 | `███` |
+| ai | 104 | `██` |
+| machine-learning | 66 | `██` |
+| research | 53 | `█` |
+| hardware | 50 | `█` |
 | embedded | 38 | `█` |
 | cloud | 26 | `█` |
 | product | 23 | `█` |
@@ -49,8 +49,16 @@ _Generated 2026-07-28_
 
 ## Newest listings
 
+- 2026-07-28 — **Apptronik**: [Software Engineer Intern, ML Systems](https://job-boards.greenhouse.io/apptronik/jobs/6128057004?gh_jid=6128057004)
+- 2026-07-28 — **Cloudflare**: [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400)
+- 2026-07-28 — **Cloudflare**: [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379)
+- 2026-07-28 — **Cloudflare**: [Software Engineer Intern](https://job-boards.greenhouse.io/cloudflare/jobs/8052785?gh_jid=8052785)
+- 2026-07-28 — **Gemini**: [Software Engineering Intern](https://job-boards.greenhouse.io/embed/job_app?for=gemini&token=7875125)
+- 2026-07-28 — **Rendezvous Robotics**: [Software Engineering Intern](https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4328555009)
+- 2026-07-28 — **Rendezvous Robotics**: [Software Engineering Intern, Spring 2027](https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4329122009)
 - 2026-07-28 — **Smiths Detection Group**: [Commercial Intern - Commercial Tools & Business Intelligence](https://jobs.smartrecruiters.com/SmithsGroup2/744000140169009)
 - 2026-07-28 — **TikTok**: [Efficiency Analyst/Methodologist Project Intern - Content Operations - Tiktok-Operations-Operations Efficiency](https://lifeattiktok.com/search/7667248888103782661)
+- 2026-07-28 — **Touchdown Labs**: [Member of Technical Staff Intern](https://touchdown-labs.com/careers/mts-intern/?jr_id=6a68292c50dec41e3527e633)
 - 2026-07-27 — **Anthelion Capital**: [Quant Developer / Quant Research Intern](https://jobs.ashbyhq.com/anthelioncap/5e2ea37b-2369-474e-b717-c24c60976e96)
 - 2026-07-27 — **Appian**: [Information Security Engineer Intern](https://job-boards.greenhouse.io/appian/jobs/8088496)
 - 2026-07-27 — **Apptronik**: [Software Engineer Intern - ML Systems](https://boards.greenhouse.io/apptronik/jobs/6128057004)
@@ -60,15 +68,7 @@ _Generated 2026-07-28_
 - 2026-07-27 — **Bosch Home Comfort**: [Powertrain Controls Software Engineer Intern](https://jobs.smartrecruiters.com/BoschGroup/744000140089589)
 - 2026-07-27 — **CCC Intelligent Solutions**: [Applied AI Engineer Intern](https://cccis.wd1.myworkdayjobs.com/broadbean_external/job/Chicago-Green-St-IL/Applied-AI-Engineering-Intern_0014827)
 - 2026-07-27 — **Chanel**: [Data Intern - Global Data Program](https://cc.wd3.myworkdayjobs.com/ChanelCareers/job/London/Data-Intern---Global-Data-Program--H-F-X----September-2026_JOBREQ00115336)
-- 2026-07-27 — **Ciena**: [Software Engineer Intern](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Engineering-Intern_R031372)
-- 2026-07-27 — **Copart**: [Data Engineer Intern](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Data-Engineering-Intern_JR110075)
-- 2026-07-27 — **Core & Main**: [AI/ML Data Engineering Intern](https://coreandmain.wd1.myworkdayjobs.com/coreandmain/job/Saint-Louis-MO-63146/Intern---Data-Engineering----Corp_45804)
-- 2026-07-27 — **Draper**: [Microsystems Integration Intern](https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Microsystems-Integration-Intern_JR002730)
-- 2026-07-27 — **East Penn Manufacturing Company**: [Data Engineer Intern](https://careers-eastpennmanufacturing.icims.com/jobs/30007/job?mobile=true&needsRedirect=false)
-- 2026-07-27 — **East Penn Manufacturing Company**: [Power BI & Analytics Intern](https://careers-eastpennmanufacturing.icims.com/jobs/30020/job?mobile=true&needsRedirect=false)
-- 2026-07-27 — **Excel Sports Management**: [Football Coaches Intern](https://job-boards.greenhouse.io/excelsportsmanagement/jobs/4718768005)
-- 2026-07-27 — **GRITT ROBOTICS INC**: [ML & Cloud Infrastructure Engineer Intern](https://jobs.ashbyhq.com/gritt/46af6e69-40fc-4e53-940e-a99757137523)
-- 2026-07-27 — **HyperLight**: [Software Engineer Intern](https://apply.workable.com/hyperlight/j/5581EA0668/)
+- 2026-07-27 — **Chicago Trading Company**: [Quant Trading Intern](https://job-boards.greenhouse.io/ctccampusboard/jobs/4708188005)
 
 ## Recently closed
 
@@ -87,6 +87,7 @@ _Generated 2026-07-28_
 - Autodesk — Machine Learning Developer Intern
 - AVEVA — Software Developer Intern Co-op
 - Axogen — AI/ML Engineer Intern
+- Bank of Montreal — Data and AI Operations Analyst Intern/Co-op - Cloud - 8 months
 - BDO Canada — Indirect Tax Intern Co-op - Indirect Tax
 - BMO — Machine Learning Intern
 - Bosch Home Comfort — Business Intelligence Intern
@@ -101,7 +102,6 @@ _Generated 2026-07-28_
 - Chevron Corporation — Intern
 - Chevron Corporation — Previous Intern - Earth Scientist
 - Chevron Corporation — Supply & Trading TAMU TRIP Program Intern
-- Chicago Trading Company — Software Engineering Intern
 - Ciena — Embedded Software Engineer Intern
 - Ciena — Embedded Software Engineer Intern
 - Ciena — Photonic Hardware Intern
@@ -171,6 +171,7 @@ _Generated 2026-07-28_
 - Instacart — Machine Learning PhD Intern, Economics (Fall)
 - Intel — AI Applied Intern
 - Intel — AI Software Engineering Intern
+- Intel Corporation — AI Software Engineering PhD Intern
 - Jump Trading — Campus Quantitative Researcher Intern
 - Junior AI — Software Engineer Intern
 - Kinaxis — Software Development Co-op/Intern - C++
@@ -201,6 +202,8 @@ _Generated 2026-07-28_
 - Nokia — Incubation Developer Coop/Intern
 - Nokia — Product Development Intern/Co-op
 - North Cloud — AI Automation Intern
+- Northrop Grumman — Software Engineer Intern
+- Northrop Grumman — Software Engineer Intern
 - NVIDIA — Applied Deep Learning PhD Research Intern - Reinforcement Learning for LLMs
 - NVIDIA — Applied Research Intern - NLP
 - NVIDIA — Java Engineer Intern
@@ -232,6 +235,7 @@ _Generated 2026-07-28_
 - Rocket Lab — Software Intern
 - ROCKWOOL Group — Product Management Intern
 - Royal Bank of Canada — Student Intern - Data Analyst - Personal Banking
+- RTX — Software Engineer Intern
 - Salesforce — Associate Product Manager Intern - Associate Product Manager
 - Salesforce — Associate Product Manager Intern - Associate Product Manager
 - Salesforce — Software Engineer Intern(Futureforce Summer 2027)

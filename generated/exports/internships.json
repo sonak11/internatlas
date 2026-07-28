@@ -1,6 +1,6 @@
 {
   "generated": "2026-07-28",
-  "count": 1037,
+  "count": 1047,
   "internships": [
     {
       "schema_version": "1.0",
@@ -3604,6 +3604,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "apptronik-software-engineer-intern-ml-systems-2026-4da7d9",
+      "company": {
+        "name": "Apptronik",
+        "slug": "apptronik"
+      },
+      "role": "Software Engineer Intern, ML Systems",
+      "category": "machine-learning",
+      "apply_url": "https://job-boards.greenhouse.io/apptronik/jobs/6128057004?gh_jid=6128057004",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Austin",
+          "state": "TX",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-28",
+        "discovered": "2026-07-28",
+        "last_verified": "2026-07-28"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "apptronik-software-engineer-intern-ml-systems-2026",
       "company": {
         "name": "Apptronik",
@@ -5934,7 +5986,7 @@
         "discovered": "2026-07-28",
         "last_verified": "2026-07-28"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -9038,7 +9090,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "chicago-trading-company-quant-trading-intern-2027",
+      "id": "chicago-trading-company-quant-trading-intern-2027-8db8a1",
       "company": {
         "name": "Chicago Trading Company",
         "slug": "chicago-trading-company"
@@ -9080,7 +9132,7 @@
       },
       "dates": {
         "posted": "2026-07-21",
-        "discovered": "2026-07-20",
+        "discovered": "2026-07-28",
         "last_verified": "2026-07-28"
       },
       "status": "open",
@@ -9091,14 +9143,14 @@
     },
     {
       "schema_version": "1.0",
-      "id": "chicago-trading-company-software-engineering-intern-2027",
+      "id": "chicago-trading-company-quant-trading-intern-2027",
       "company": {
         "name": "Chicago Trading Company",
         "slug": "chicago-trading-company"
       },
-      "role": "Software Engineering Intern",
-      "category": "software-engineering",
-      "apply_url": "https://job-boards.greenhouse.io/ctccampusboard/jobs/4708230005",
+      "role": "Quant Trading Intern",
+      "category": "quant",
+      "apply_url": "https://job-boards.greenhouse.io/ctccampusboard/jobs/4708188005",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
@@ -9133,14 +9185,66 @@
         "resume_keywords": []
       },
       "dates": {
-        "posted": "2026-07-20",
+        "posted": "2026-07-27",
         "discovered": "2026-07-20",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-28"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
-        "src:simplify"
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "chicago-trading-company-software-engineer-intern-2027",
+      "company": {
+        "name": "Chicago Trading Company",
+        "slug": "chicago-trading-company"
+      },
+      "role": "Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://job-boards.greenhouse.io/ctccampusboard/jobs/4708230005",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Chicago",
+          "state": "IL",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-27",
+        "discovered": "2026-07-28",
+        "last_verified": "2026-07-28"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
       ]
     },
     {
@@ -10062,6 +10166,65 @@
     },
     {
       "schema_version": "1.0",
+      "id": "citadel-securities-fpga-engineer-intern-2026",
+      "company": {
+        "name": "Citadel Securities",
+        "slug": "citadel-securities"
+      },
+      "role": "FPGA Engineer Intern",
+      "category": "hardware",
+      "apply_url": "https://www.citadelsecurities.com/careers/details/fpga-engineer-intern-us/",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Miami",
+          "state": "FL",
+          "country": "USA"
+        },
+        {
+          "city": "NYC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters",
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-06",
+        "discovered": "2026-07-28",
+        "last_verified": "2026-07-28"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "citadel-securities-rates-trading-intern-2026",
       "company": {
         "name": "Citadel Securities",
@@ -10805,6 +10968,110 @@
     },
     {
       "schema_version": "1.0",
+      "id": "cloudflare-research-engineer-intern-fall-2026-2027-7a494f",
+      "company": {
+        "name": "Cloudflare",
+        "slug": "cloudflare",
+        "career_page": "https://www.cloudflare.com/careers"
+      },
+      "role": "Research Engineer Intern (Fall 2026)",
+      "category": "research",
+      "apply_url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "In-Office",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-28",
+        "discovered": "2026-07-28",
+        "last_verified": "2026-07-28"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "cloudflare-research-engineer-intern-fall-2026-2027",
+      "company": {
+        "name": "Cloudflare",
+        "slug": "cloudflare",
+        "career_page": "https://www.cloudflare.com/careers"
+      },
+      "role": "Research Engineer Intern (Fall 2026)",
+      "category": "research",
+      "apply_url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "In-Office",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-28",
+        "discovered": "2026-07-28",
+        "last_verified": "2026-07-28"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "cloudflare-sales-project-manager-intern-ai-innovation-fall-2026-2027",
       "company": {
         "name": "Cloudflare",
@@ -10853,6 +11120,58 @@
       "tags": [
         "auto-ingested",
         "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "cloudflare-software-engineer-intern-2026-7af818",
+      "company": {
+        "name": "Cloudflare",
+        "slug": "cloudflare"
+      },
+      "role": "Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://job-boards.greenhouse.io/cloudflare/jobs/8052785?gh_jid=8052785",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Austin",
+          "state": "TX",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-28",
+        "discovered": "2026-07-28",
+        "last_verified": "2026-07-28"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
       ]
     },
     {
@@ -17796,6 +18115,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "gemini-software-engineering-intern-2026",
+      "company": {
+        "name": "Gemini",
+        "slug": "gemini"
+      },
+      "role": "Software Engineering Intern",
+      "category": "software-engineering",
+      "apply_url": "https://job-boards.greenhouse.io/embed/job_app?for=gemini&token=7875125",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "New York",
+          "state": "NY",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-28",
+        "discovered": "2026-07-28",
+        "last_verified": "2026-07-28"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "generac-data-science-intern-2026",
       "company": {
         "name": "Generac",
@@ -22515,7 +22886,7 @@
         "discovered": "2026-07-27",
         "last_verified": "2026-07-28"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -32129,7 +32500,7 @@
         "discovered": "2026-07-28",
         "last_verified": "2026-07-28"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -32181,7 +32552,7 @@
         "discovered": "2026-07-25",
         "last_verified": "2026-07-28"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -37836,6 +38207,110 @@
     },
     {
       "schema_version": "1.0",
+      "id": "rendezvous-robotics-software-engineering-intern-2026",
+      "company": {
+        "name": "Rendezvous Robotics",
+        "slug": "rendezvous-robotics"
+      },
+      "role": "Software Engineering Intern",
+      "category": "software-engineering",
+      "apply_url": "https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4328555009",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Golden",
+          "state": "CO",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": true,
+        "security_clearance_required": false,
+        "visa_sponsorship": "no"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-28",
+        "discovered": "2026-07-28",
+        "last_verified": "2026-07-28"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "rendezvous-robotics-software-engineering-intern-spring-2027-2027",
+      "company": {
+        "name": "Rendezvous Robotics",
+        "slug": "rendezvous-robotics"
+      },
+      "role": "Software Engineering Intern, Spring 2027",
+      "category": "software-engineering",
+      "apply_url": "https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4329122009",
+      "season": "spring",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Golden",
+          "state": "CO",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": true,
+        "security_clearance_required": false,
+        "visa_sponsorship": "no"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-28",
+        "discovered": "2026-07-28",
+        "last_verified": "2026-07-28"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "revise-robotics-engineer-intern-2026",
       "company": {
         "name": "Revise Robotics",
@@ -40089,7 +40564,7 @@
         "discovered": "2026-07-27",
         "last_verified": "2026-07-28"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -52537,6 +53012,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "touchdown-labs-member-of-technical-staff-intern-2026",
+      "company": {
+        "name": "Touchdown Labs",
+        "slug": "touchdown-labs"
+      },
+      "role": "Member of Technical Staff Intern",
+      "category": "software-engineering",
+      "apply_url": "https://touchdown-labs.com/careers/mts-intern/?jr_id=6a68292c50dec41e3527e633",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Francisco",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-28",
+        "discovered": "2026-07-28",
+        "last_verified": "2026-07-28"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "tower-research-capital-quantitative-developer-intern-2027",
       "company": {
         "name": "Tower Research Capital",
@@ -53880,6 +54407,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "virtu-financial-2027-internship-quantitative-researcher-master-or-phd-2027",
+      "company": {
+        "name": "Virtu Financial",
+        "slug": "virtu-financial",
+        "career_page": "https://www.virtu.com/careers"
+      },
+      "role": "2027 Internship - Quantitative Researcher (Master or PhD)",
+      "category": "quant",
+      "apply_url": "https://job-boards.greenhouse.io/virtu/jobs/8631180002",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Dublin",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-14",
+        "discovered": "2026-07-28",
+        "last_verified": "2026-07-28"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "virtu-financial-2027-internship-quantitative-researcher-phd-2027",
       "company": {
         "name": "Virtu Financial",
@@ -53984,58 +54563,6 @@
       "dates": {
         "posted": "2025-09-12",
         "discovered": "2026-07-28",
-        "last_verified": "2026-07-28"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:ats"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "virtu-financial-2027-internship-quantitative-strategist-and-research-intern-2027",
-      "company": {
-        "name": "Virtu Financial",
-        "slug": "virtu-financial",
-        "career_page": "https://www.virtu.com/careers"
-      },
-      "role": "2027 Internship - Quantitative Strategist and Research Intern",
-      "category": "quant",
-      "apply_url": "https://job-boards.greenhouse.io/virtu/jobs/8631180002",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Dublin",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-07-14",
-        "discovered": "2026-07-18",
         "last_verified": "2026-07-28"
       },
       "status": "open",
