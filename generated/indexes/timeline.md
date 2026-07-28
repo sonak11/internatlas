@@ -411,7 +411,6 @@
 - Meta — [Research Scientist Intern - Multimodal Contextual AI](https://www.metacareers.com/jobs/2160167211413098)
 - Meta — [Research Scientist Intern - Photorealistic Telepresence](https://www.metacareers.com/jobs/924149567345400)
 - Meta — [Research Scientist Intern - State Estimation for Dexterous Manipulation](https://www.metacareers.com/jobs/2774289902955470)
-- Meta — [Research Scientist Intern PhD - Applied Research](https://www.metacareers.com/jobs/2633206137040139)
 - Meta — [Research Scientist Intern, Advanced Materials for Soft Robotics (PhD)](https://www.metacareers.com/profile/job_details/25514049594874160)
 - Meta — [Research Scientist Intern, Computational Chemist](https://www.metacareers.com/profile/job_details/2059739221232640)
 - Meta — [Research Scientist Intern, LLM Evaluation](https://www.metacareers.com/profile/job_details/4203446973242742)
