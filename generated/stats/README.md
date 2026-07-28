@@ -107,11 +107,13 @@ _Generated 2026-07-28_
 - Ciena — Embedded Software Engineer Intern
 - Ciena — Photonic Hardware Intern
 - City of Aurora — Water GIS Intern
+- City of Austin — Austin Aviation Undergraduate Intern - IT Business Systems Analyst
 - Cloudflare — EIAM Business Enablement & Operations Intern (Fall 2026)
-- Cloudflare — Public Policy Intern
 - Composio — Full-stack Intern
 - Consensus Cloud Solutions — Sales Strategy & Analytics Intern
 - Constellation Space — Graduate Researcher Intern - Machine Learning
+- Copart — Software Engineer Intern
+- Copart — Technology Product Analyst Intern
 - Copart — Technology Product Analyst Intern
 - Datasite — AI Transformation / Forward Deployed Engineer Intern - Forward Deployed Engineer
 - Datasite — Forward Deployed Engineer Intern
@@ -169,6 +171,7 @@ _Generated 2026-07-28_
 - Impulse Space — Radio Frequency Engineering Intern
 - Instacart — Machine Learning Engineer, PhD Intern (Fall)
 - Instacart — Machine Learning PhD Intern, Economics (Fall)
+- Intel — AI Applied Intern
 - Intel — AI Software Engineering Intern
 - Jump Trading — Campus Quantitative Researcher Intern
 - Junior AI — Software Engineer Intern
@@ -176,6 +179,7 @@ _Generated 2026-07-28_
 - Kudu Dynamics — Software Engineer Intern
 - Kudu Dynamics — Software Engineer Intern
 - Kudu Dynamics — Software Engineer Intern
+- LexisNexis Risk Solutions — Editorial Data Reporting Intern
 - Light & Wonder — Mathematics Intern
 - LiveRamp — Software Engineer Intern, Pixel Serving
 - Mackenzie Investments — Data Science and AI Specialist Intern - Investment Management - Fundamental Equity
@@ -263,6 +267,7 @@ _Generated 2026-07-28_
 - TMX Group — Software Engineer Intern - Java
 - Torch Technologies — Software Engineer Intern
 - Tower Research Capital — Quantitative Trader Intern
+- Varda Space — Mission Software – Intern - Python
 - Verkada — Technical Support Engineering Intern - Fall 2026
 - Verne Robotics — Engineering Intern
 - Viavi Solutions — Software Development Data Analytics Intern
