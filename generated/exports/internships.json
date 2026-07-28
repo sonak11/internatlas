@@ -1,6 +1,6 @@
 {
   "generated": "2026-07-28",
-  "count": 1033,
+  "count": 1034,
   "internships": [
     {
       "schema_version": "1.0",
@@ -26567,9 +26567,9 @@
       "dates": {
         "posted": "2026-07-10",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-27"
+        "last_verified": "2026-07-28"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -51204,6 +51204,57 @@
       "dates": {
         "posted": "2026-07-03",
         "discovered": "2026-07-17",
+        "last_verified": "2026-07-28"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "tiktok-efficiency-analyst-methodologist-project-intern-content-oper-2026",
+      "company": {
+        "name": "TikTok",
+        "slug": "tiktok"
+      },
+      "role": "Efficiency Analyst/Methodologist Project Intern - Content Operations - Tiktok-Operations-Operations Efficiency",
+      "category": "software-engineering",
+      "apply_url": "https://lifeattiktok.com/search/7667248888103782661",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "NYC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-28",
+        "discovered": "2026-07-28",
         "last_verified": "2026-07-28"
       },
       "status": "open",

@@ -15,10 +15,10 @@ _Generated 2026-07-28_
 | Palantir Technologies | 17 |
 | Jane Street | 16 |
 | Meta | 15 |
+| TikTok | 15 |
 | Cloudflare | 14 |
 | IMC Trading | 14 |
 | Rivian and Volkswagen Group Technologies | 14 |
-| TikTok | 14 |
 | Etched | 12 |
 | Astranis | 11 |
 | Optiver | 11 |
@@ -33,7 +33,7 @@ _Generated 2026-07-28_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 505 | `████████████` |
+| software-engineering | 506 | `████████████` |
 | quant | 114 | `███` |
 | ai | 103 | `██` |
 | machine-learning | 65 | `██` |
@@ -49,6 +49,7 @@ _Generated 2026-07-28_
 
 ## Newest listings
 
+- 2026-07-28 — **TikTok**: [Efficiency Analyst/Methodologist Project Intern - Content Operations - Tiktok-Operations-Operations Efficiency](https://lifeattiktok.com/search/7667248888103782661)
 - 2026-07-27 — **Anthelion Capital**: [Quant Developer / Quant Research Intern](https://jobs.ashbyhq.com/anthelioncap/5e2ea37b-2369-474e-b717-c24c60976e96)
 - 2026-07-27 — **Appian**: [Information Security Engineer Intern](https://job-boards.greenhouse.io/appian/jobs/8088496)
 - 2026-07-27 — **Apptronik**: [Software Engineer Intern - ML Systems](https://boards.greenhouse.io/apptronik/jobs/6128057004)
@@ -68,7 +69,6 @@ _Generated 2026-07-28_
 - 2026-07-27 — **GRITT ROBOTICS INC**: [ML & Cloud Infrastructure Engineer Intern](https://jobs.ashbyhq.com/gritt/46af6e69-40fc-4e53-940e-a99757137523)
 - 2026-07-27 — **HyperLight**: [Software Engineer Intern](https://apply.workable.com/hyperlight/j/5581EA0668/)
 - 2026-07-27 — **Intel**: [AI Applied Intern](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/AI-Applied-intern_JR0285916)
-- 2026-07-27 — **Intel Corporation**: [AI Software Engineering PhD Intern](https://intel.wd1.myworkdayjobs.com/external/job/US-Oregon-Hillsboro/AI-Applied-intern_JR0285916)
 
 ## Recently closed
 
@@ -176,7 +176,6 @@ _Generated 2026-07-28_
 - Kudu Dynamics — Software Engineer Intern
 - Kudu Dynamics — Software Engineer Intern
 - Kudu Dynamics — Software Engineer Intern
-- LexisNexis Risk Solutions — Editorial Data Reporting Intern
 - Light & Wonder — Mathematics Intern
 - LiveRamp — Software Engineer Intern, Pixel Serving
 - Mackenzie Investments — Data Science and AI Specialist Intern - Investment Management - Fundamental Equity
