@@ -2,13 +2,13 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 📊 Statistics
 
-_Generated 2026-07-27_
+_Generated 2026-07-28_
 
 ## Top hiring companies
 
 | Company | Listings |
 |---|---|
-| Tesla | 98 |
+| Tesla | 99 |
 | Jump Trading | 38 |
 | Neuralink | 19 |
 | Susquehanna International Group (SIG) | 19 |
@@ -26,17 +26,17 @@ _Generated 2026-07-27_
 | Walleye Capital | 9 |
 | Akuna Capital | 8 |
 | Castleton Commodities International | 8 |
+| Ciena | 8 |
 | Copart | 8 |
-| SpaceX | 8 |
 
 ## Listings by category
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 496 | `████████████` |
+| software-engineering | 505 | `████████████` |
 | quant | 114 | `███` |
-| ai | 100 | `██` |
-| machine-learning | 64 | `██` |
+| ai | 103 | `██` |
+| machine-learning | 65 | `██` |
 | research | 51 | `█` |
 | hardware | 49 | `█` |
 | embedded | 38 | `█` |
@@ -44,31 +44,31 @@ _Generated 2026-07-27_
 | product | 23 | `█` |
 | design | 23 | `█` |
 | data-science | 16 | `█` |
-| data-engineering | 12 | `█` |
+| data-engineering | 13 | `█` |
 | security | 7 | `█` |
 
 ## Newest listings
 
 - 2026-07-27 — **Anthelion Capital**: [Quant Developer / Quant Research Intern](https://jobs.ashbyhq.com/anthelioncap/5e2ea37b-2369-474e-b717-c24c60976e96)
 - 2026-07-27 — **Appian**: [Information Security Engineer Intern](https://job-boards.greenhouse.io/appian/jobs/8088496)
+- 2026-07-27 — **Apptronik**: [Software Engineer Intern - ML Systems](https://boards.greenhouse.io/apptronik/jobs/6128057004)
 - 2026-07-27 — **Atomic Semi**: [Infrastructure Software Engineering Intern](https://jobs.ashbyhq.com/fab2/867c67f7-20b5-4726-b9da-85a760d3851e?embed=true)
 - 2026-07-27 — **Atomic Semi**: [Software Engineer Intern, Chip Design Tools](https://jobs.ashbyhq.com/fab2/907766af-a3c0-49a3-b01e-246baa437d10?embed=true)
+- 2026-07-27 — **Bank of Montreal**: [Data and AI Operations Analyst Intern/Co-op - Cloud - 8 months](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Data-and-AI-Operations-Analyst--Cloud---Fall-2026--Co-op-Internship----8-months_R260021724)
+- 2026-07-27 — **Bosch Home Comfort**: [Powertrain Controls Software Engineer Intern](https://jobs.smartrecruiters.com/BoschGroup/744000140089589)
+- 2026-07-27 — **CCC Intelligent Solutions**: [Applied AI Engineer Intern](https://cccis.wd1.myworkdayjobs.com/broadbean_external/job/Chicago-Green-St-IL/Applied-AI-Engineering-Intern_0014827)
 - 2026-07-27 — **Chanel**: [Data Intern - Global Data Program](https://cc.wd3.myworkdayjobs.com/ChanelCareers/job/London/Data-Intern---Global-Data-Program--H-F-X----September-2026_JOBREQ00115336)
+- 2026-07-27 — **Ciena**: [Software Engineer Intern](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Engineering-Intern_R031372)
 - 2026-07-27 — **Copart**: [Data Engineer Intern](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Data-Engineering-Intern_JR110075)
 - 2026-07-27 — **Core & Main**: [AI/ML Data Engineering Intern](https://coreandmain.wd1.myworkdayjobs.com/coreandmain/job/Saint-Louis-MO-63146/Intern---Data-Engineering----Corp_45804)
+- 2026-07-27 — **Draper**: [Microsystems Integration Intern](https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Microsystems-Integration-Intern_JR002730)
+- 2026-07-27 — **East Penn Manufacturing Company**: [Data Engineer Intern](https://careers-eastpennmanufacturing.icims.com/jobs/30007/job?mobile=true&needsRedirect=false)
+- 2026-07-27 — **East Penn Manufacturing Company**: [Power BI & Analytics Intern](https://careers-eastpennmanufacturing.icims.com/jobs/30020/job?mobile=true&needsRedirect=false)
+- 2026-07-27 — **Excel Sports Management**: [Football Coaches Intern](https://job-boards.greenhouse.io/excelsportsmanagement/jobs/4718768005)
 - 2026-07-27 — **GRITT ROBOTICS INC**: [ML & Cloud Infrastructure Engineer Intern](https://jobs.ashbyhq.com/gritt/46af6e69-40fc-4e53-940e-a99757137523)
 - 2026-07-27 — **HyperLight**: [Software Engineer Intern](https://apply.workable.com/hyperlight/j/5581EA0668/)
+- 2026-07-27 — **Intel**: [AI Applied Intern](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/AI-Applied-intern_JR0285916)
 - 2026-07-27 — **Intel Corporation**: [AI Software Engineering PhD Intern](https://intel.wd1.myworkdayjobs.com/external/job/US-Oregon-Hillsboro/AI-Applied-intern_JR0285916)
-- 2026-07-27 — **Mathtech**: [Web Application Developer Intern](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?jobId=565843)
-- 2026-07-27 — **Nelnet**: [Agentic AI Intern](https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Lincoln-NE/Intern-Program---Agentic-AI_R22904)
-- 2026-07-27 — **Pony.ai**: [Research Intern - Deep Learning](https://apply.workable.com/pony-dot-ai/j/4C1F53EF5D/)
-- 2026-07-27 — **Pony.ai**: [Software Engineer Intern](https://apply.workable.com/pony-dot-ai/j/BA5FFDBC71/)
-- 2026-07-27 — **Quadrillion Labs**: [Software Engineering Intern](https://jobs.ashbyhq.com/quadrillion-labs/a4acc44c-31ce-41a0-ab44-2500487b4d05)
-- 2026-07-27 — **Robert Bosch LLC**: [Software Engineer Intern, Autonomous Driving](https://jobs.smartrecruiters.com/BoschGroup/744000139649345)
-- 2026-07-27 — **RTX**: [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-PA-STATE-COLLEGE-5A--302-Science-Park-Rd--BLDG-5A/Software-Engineering-Intern--On-site-_01860801)
-- 2026-07-27 — **Sentara Health**: [Data & AI Finance Strategy Intern](https://sentara.wd1.myworkdayjobs.com/SCS/job/Virginia-Beach-VA/Data---AI-Finance-Strategy-Intern---Fall-2026-Internship-Remote_JR-103073)
-- 2026-07-27 — **Squarepoint Capital**: [Intern Quant Researcher](https://boards.greenhouse.io/embed/job_app?token=243853)
-- 2026-07-27 — **Stevens Capital Management**: [Quantitative Research Analyst Internship](https://job-boards.greenhouse.io/scm/jobs/721895)
 
 ## Recently closed
 
@@ -87,7 +87,6 @@ _Generated 2026-07-27_
 - Autodesk — Machine Learning Developer Intern
 - AVEVA — Software Developer Intern Co-op
 - Axogen — AI/ML Engineer Intern
-- Axon — Software Engineering Intern
 - BDO Canada — Indirect Tax Intern Co-op - Indirect Tax
 - BMO — Machine Learning Intern
 - Bosch Home Comfort — Business Intelligence Intern
@@ -241,7 +240,6 @@ _Generated 2026-07-27_
 - Schweitzer Engineering Laboratories — Software Engineering Intern
 - Seaspan — Digital Ship Intern
 - Seaspan — Energy Management Intern
-- Sentara Health — Enterprise Data & AI Intern
 - Signify — Product Management Intern
 - Skydio — Software Engineer Intern
 - Solid Power — Product Development Intern

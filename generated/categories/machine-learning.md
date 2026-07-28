@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🧠 Machine Learning Internships
 
-**64** tracked · **53** open now
+**65** tracked · **54** open now
 
 ## Current openings
 
@@ -10,6 +10,7 @@
 |---|---|---|---|---|---|---|---|
 | [Adobe](generated/companies/adobe.md) | [AI/ML Intern – Machine Learning Engineer/Researcher Intern](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-AI-ML-Intern---Machine-Learning-Engineer-Intern_R160706) | Seattle, WA +2 | Onsite | 2026-05-16 | Rolling | 🟢 Open | ❔ |
 | [Amazon](generated/companies/amazon.md) | [Applied Science Intern - Reinforcement Learning & Optimization - Machine Learning](https://amazon.jobs/en/jobs/10394278/2026-fall-applied-science-internship-reinforcement-learning-optimization-machine-learning-united-states-phd-student-science-recruiting) | Palo Alto, CA +7 | Onsite | 2026-04-16 | Rolling | 🟢 Open | ❔ |
+| [Apptronik](generated/companies/apptronik.md) | [Software Engineer Intern - ML Systems](https://boards.greenhouse.io/apptronik/jobs/6128057004) | Austin, TX | Onsite | 2026-07-27 | Rolling | 🟢 Open | ❔ |
 | [Bot Auto](generated/companies/bot-auto.md) | [Deep Learning Engineer Intern](https://job-boards.greenhouse.io/botauto/jobs/5289440008) | Houston, TX | Onsite | 2026-07-02 | Rolling | 🟢 Open | ❔ |
 | [Castleton Commodities International](generated/companies/castleton-commodities-international.md) | [Data Science Machine Learning Intern](https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Stamford-CT/Data-Science-Machine-Learning-Internship--Summer-2027-_R1344) | Houston, TX +1 | Onsite | 2026-07-21 | Rolling | 🟢 Open | ❔ |
 | [Castleton Commodities International](generated/companies/castleton-commodities-international.md) | [Data Science Machine Learning Intern](https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/London-UK/Data-Science-Machine-Learning-Internship--Summer-2027-_R1345) | London | Onsite | 2026-07-21 | Rolling | 🟢 Open | ❔ |
@@ -86,6 +87,7 @@
 - Instacart (2)
 - Adobe (1)
 - Amazon (1)
+- Apptronik (1)
 - Bot Auto (1)
 - Cohere (1)
 - Core & Main (1)
