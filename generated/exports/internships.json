@@ -1,6 +1,6 @@
 {
   "generated": "2026-07-28",
-  "count": 1035,
+  "count": 1037,
   "internships": [
     {
       "schema_version": "1.0",
@@ -9028,9 +9028,9 @@
       "dates": {
         "posted": "2026-07-20",
         "discovered": "2026-07-20",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-28"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -11057,7 +11057,7 @@
         "discovered": "2026-07-18",
         "last_verified": "2026-07-28"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:ats"
@@ -11666,6 +11666,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "copart-software-engineer-intern-2026-2ceb13",
+      "company": {
+        "name": "Copart",
+        "slug": "copart"
+      },
+      "role": "Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109689",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Dallas",
+          "state": "TX",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-15",
+        "discovered": "2026-07-28",
+        "last_verified": "2026-07-28"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "copart-software-engineer-intern-2026-7f0d4f",
       "company": {
         "name": "Copart",
@@ -11831,7 +11883,7 @@
       },
       "role": "Software Engineer Intern",
       "category": "software-engineering",
-      "apply_url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109689",
+      "apply_url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109673",
       "season": "fall",
       "year": 2026,
       "work_mode": "onsite",
@@ -14124,7 +14176,7 @@
         "discovered": "2026-07-28",
         "last_verified": "2026-07-28"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -30295,7 +30347,7 @@
         "discovered": "2026-07-24",
         "last_verified": "2026-07-28"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -35913,6 +35965,63 @@
     },
     {
       "schema_version": "1.0",
+      "id": "pennsylvania-state-university-r-d-engineer-intern-2026",
+      "company": {
+        "name": "Pennsylvania State University",
+        "slug": "pennsylvania-state-university"
+      },
+      "role": "R&D Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/R-D-Engineer-Intern_REQ_0000079178-1",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "State College",
+          "state": "PA",
+          "country": "USA"
+        },
+        {
+          "city": "Reston",
+          "state": "VA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-15",
+        "discovered": "2026-07-28",
+        "last_verified": "2026-07-28"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "pennsylvania-state-university-research-and-development-engineer-intern-2026-86be32",
       "company": {
         "name": "Pennsylvania State University",
@@ -39980,7 +40089,7 @@
         "discovered": "2026-07-27",
         "last_verified": "2026-07-28"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -42160,7 +42269,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-28"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -53771,62 +53880,6 @@
     },
     {
       "schema_version": "1.0",
-      "id": "virtu-financial-2027-internship-quant-research-undergrad-2027",
-      "company": {
-        "name": "Virtu Financial",
-        "slug": "virtu-financial",
-        "career_page": "https://www.virtu.com/careers"
-      },
-      "role": "2027 Internship - Quant Research (Undergrad)",
-      "category": "quant",
-      "apply_url": "https://job-boards.greenhouse.io/virtu/jobs/8142539002",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "New York",
-          "country": "USA"
-        },
-        {
-          "city": "NYC",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2025-09-12",
-        "discovered": "2026-07-18",
-        "last_verified": "2026-07-28"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:ats"
-      ]
-    },
-    {
-      "schema_version": "1.0",
       "id": "virtu-financial-2027-internship-quantitative-researcher-phd-2027",
       "company": {
         "name": "Virtu Financial",
@@ -53885,6 +53938,62 @@
     },
     {
       "schema_version": "1.0",
+      "id": "virtu-financial-2027-internship-quantitative-researcher-undergrad-2027",
+      "company": {
+        "name": "Virtu Financial",
+        "slug": "virtu-financial",
+        "career_page": "https://www.virtu.com/careers"
+      },
+      "role": "2027 Internship - Quantitative Researcher (Undergrad)",
+      "category": "quant",
+      "apply_url": "https://job-boards.greenhouse.io/virtu/jobs/8142539002",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "New York",
+          "country": "USA"
+        },
+        {
+          "city": "NYC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2025-09-12",
+        "discovered": "2026-07-28",
+        "last_verified": "2026-07-28"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "virtu-financial-2027-internship-quantitative-strategist-and-research-intern-2027",
       "company": {
         "name": "Virtu Financial",
@@ -53927,6 +54036,73 @@
       "dates": {
         "posted": "2026-07-14",
         "discovered": "2026-07-18",
+        "last_verified": "2026-07-28"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "virtu-financial-2027-internship-quantitative-trading-2027-29dd2a",
+      "company": {
+        "name": "Virtu Financial",
+        "slug": "virtu-financial",
+        "career_page": "https://www.virtu.com/careers"
+      },
+      "role": "2027 Internship - Quantitative Trading",
+      "category": "quant",
+      "apply_url": "https://job-boards.greenhouse.io/virtu/jobs/8624408002",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Austin",
+          "state": "TX",
+          "country": "USA"
+        },
+        {
+          "city": "Chicago",
+          "state": "IL",
+          "country": "USA"
+        },
+        {
+          "city": "NYC",
+          "country": "USA"
+        },
+        {
+          "city": "New York",
+          "state": "NY",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-21",
+        "discovered": "2026-07-28",
         "last_verified": "2026-07-28"
       },
       "status": "open",
@@ -54092,73 +54268,6 @@
       "dates": {
         "posted": "2026-07-20",
         "discovered": "2026-07-20",
-        "last_verified": "2026-07-28"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:ats"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "virtu-financial-internship-quantitative-trading-2027",
-      "company": {
-        "name": "Virtu Financial",
-        "slug": "virtu-financial",
-        "career_page": "https://www.virtu.com/careers"
-      },
-      "role": "Internship - Quantitative Trading",
-      "category": "quant",
-      "apply_url": "https://job-boards.greenhouse.io/virtu/jobs/8624408002",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Austin",
-          "state": "TX",
-          "country": "USA"
-        },
-        {
-          "city": "Chicago",
-          "state": "IL",
-          "country": "USA"
-        },
-        {
-          "city": "NYC",
-          "country": "USA"
-        },
-        {
-          "city": "New York",
-          "state": "NY",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-07-21",
-        "discovered": "2026-07-21",
         "last_verified": "2026-07-28"
       },
       "status": "open",
@@ -55614,9 +55723,9 @@
       "dates": {
         "posted": "2026-07-10",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-22"
+        "last_verified": "2026-07-28"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"

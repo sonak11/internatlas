@@ -1,12 +1,12 @@
 {
   "schema_version": "1.0",
-  "id": "virtu-financial-2027-internship-quant-research-undergrad-2027",
+  "id": "virtu-financial-2027-internship-quantitative-researcher-undergrad-2027",
   "company": {
     "name": "Virtu Financial",
     "slug": "virtu-financial",
     "career_page": "https://www.virtu.com/careers"
   },
-  "role": "2027 Internship - Quant Research (Undergrad)",
+  "role": "2027 Internship - Quantitative Researcher (Undergrad)",
   "category": "quant",
   "apply_url": "https://job-boards.greenhouse.io/virtu/jobs/8142539002",
   "season": "summer",
@@ -45,7 +45,7 @@
   },
   "dates": {
     "posted": "2025-09-12",
-    "discovered": "2026-07-18",
+    "discovered": "2026-07-28",
     "last_verified": "2026-07-28"
   },
   "status": "open",

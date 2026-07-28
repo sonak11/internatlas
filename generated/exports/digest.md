@@ -233,8 +233,8 @@
 - **Veeda AI** — [AI Scientist Intern - Veeda AI Scientist](https://jobs.ashbyhq.com/veeda-labs/58cc42fb-1d6f-4e5f-860d-3b97bdccc6f4/application?embed=true) · ai · —
 - **Veralto** — [Machine Learning Co-op Intern](https://veralto.wd1.myworkdayjobs.com/hachjobs/job/London-Ontario-Canada/Aquatic-Informatics---Machine-Learning-Co-Op--Intern-_R10267571) · machine-learning · —
 - **Virtu Financial** — [2027 Internship - Quantitative Researcher (PhD)](https://job-boards.greenhouse.io/virtu/jobs/8624424002) · quant · —
+- **Virtu Financial** — [2027 Internship - Quantitative Trading](https://job-boards.greenhouse.io/virtu/jobs/8624408002) · quant · —
 - **Virtu Financial** — [2027 Internship - Software Engineer](https://job-boards.greenhouse.io/virtu/jobs/8624410002) · quant · —
-- **Virtu Financial** — [Internship - Quantitative Trading](https://job-boards.greenhouse.io/virtu/jobs/8624408002) · quant · —
 - **Walleye Capital** — [Technology Intern](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4681002006) · software-engineering · —
 - **Warner Bros.** — [Research, Analytics & Strategy Intern](https://warnerbros.wd5.myworkdayjobs.com/global/job/NY-New-York-30-Hudson-Yards/Research--Analytics---Strategy-Internships--NYC---Fall-2026_R000107153) · research · —
 - **Warner Bros.** — [Sports Growth Strategy and Data Intern](https://warnerbros.wd5.myworkdayjobs.com/global/job/GA-Atlanta-1050-Techwood-Drive-NW/Sports-Growth-Strategy-and-Data-Internships--ATL---Fall-2026_R000107173) · software-engineering · —

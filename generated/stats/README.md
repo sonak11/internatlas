@@ -27,13 +27,13 @@ _Generated 2026-07-28_
 | Akuna Capital | 8 |
 | Castleton Commodities International | 8 |
 | Ciena | 8 |
-| SpaceX | 8 |
+| Copart | 8 |
 
 ## Listings by category
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 506 | `████████████` |
+| software-engineering | 508 | `████████████` |
 | quant | 114 | `███` |
 | ai | 104 | `███` |
 | machine-learning | 65 | `██` |
@@ -101,7 +101,6 @@ _Generated 2026-07-28_
 - Chevron Corporation — Intern
 - Chevron Corporation — Previous Intern - Earth Scientist
 - Chevron Corporation — Supply & Trading TAMU TRIP Program Intern
-- Chevron Corporation — Supply & Trading TRIP Program Intern
 - Chicago Trading Company — Software Engineering Intern
 - Ciena — Embedded Software Engineer Intern
 - Ciena — Embedded Software Engineer Intern
@@ -109,6 +108,7 @@ _Generated 2026-07-28_
 - City of Aurora — Water GIS Intern
 - City of Austin — Austin Aviation Undergraduate Intern - IT Business Systems Analyst
 - Cloudflare — EIAM Business Enablement & Operations Intern (Fall 2026)
+- Cloudflare — Technical Support Engineer Intern (Fall 2026)
 - Composio — Full-stack Intern
 - Consensus Cloud Solutions — Sales Strategy & Analytics Intern
 - Constellation Space — Graduate Researcher Intern - Machine Learning
@@ -122,7 +122,6 @@ _Generated 2026-07-28_
 - DiDi Global — Motion Planning Engineer Intern
 - DNV — AI Research Intern
 - Duku AI — Tech Intern - Visiting
-- East Penn Manufacturing Company — Power BI & Analytics Intern
 - Egra — AI Researcher Intern
 - Eight Sleep — Prototype & Test Engineer Intern - New Product Development
 - Ensemble Health Partners — Engineering Excellence Intern
@@ -196,7 +195,6 @@ _Generated 2026-07-28_
 - National Laboratory of the Rockies — Graduate Geospatial Data Science Intern
 - National Laboratory of the Rockies — Graduate Intern
 - Navy Federal — Year Round Intern - Business Intelligence Analyst
-- NeoSigma — Member of Technical Staff Intern
 - Neuralink — R&D Materials Engineer Intern
 - NewsBreak — Growth Engineer Intern - Growth Engineering
 - Nokia — Data Science Co-op/Intern
@@ -234,7 +232,6 @@ _Generated 2026-07-28_
 - Rocket Lab — Software Intern
 - ROCKWOOL Group — Product Management Intern
 - Royal Bank of Canada — Student Intern - Data Analyst - Personal Banking
-- RTX — Software Engineer Intern
 - Salesforce — Associate Product Manager Intern - Associate Product Manager
 - Salesforce — Associate Product Manager Intern - Associate Product Manager
 - Salesforce — Software Engineer Intern(Futureforce Summer 2027)
@@ -247,7 +244,6 @@ _Generated 2026-07-28_
 - Signify — Product Management Intern
 - Skydio — Software Engineer Intern
 - Solid Power — Product Development Intern
-- SOTI — Product Manager Intern - Sales Enablement Products
 - Spectrum Control — Engineering Intern
 - SS&C — Healthcare AI & Automation Intern
 - State of North Carolina — Geographic Information Systems Intern - GIS
@@ -272,6 +268,5 @@ _Generated 2026-07-28_
 - Verkada — Technical Support Engineering Intern - Fall 2026
 - Verne Robotics — Engineering Intern
 - Viavi Solutions — Software Development Data Analytics Intern
-- Xsolla — AI-First Engineer Intern
 - Zipline — Applications Engineer Intern
 - Zipline — Embedded Software Engineer Intern

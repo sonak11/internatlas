@@ -1,19 +1,25 @@
 {
   "schema_version": "1.0",
-  "id": "neosigma-member-of-technical-staff-intern-2026-a15bf5",
+  "id": "pennsylvania-state-university-r-d-engineer-intern-2026",
   "company": {
-    "name": "NeoSigma",
-    "slug": "neosigma"
+    "name": "Pennsylvania State University",
+    "slug": "pennsylvania-state-university"
   },
-  "role": "Member of Technical Staff Intern",
+  "role": "R&D Engineer Intern",
   "category": "software-engineering",
-  "apply_url": "https://ats.rippling.com/neosigma/jobs/a2ee1d26-a551-45d2-9854-6dbf8ed2c866",
+  "apply_url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/R-D-Engineer-Intern_REQ_0000079178-1",
   "season": "fall",
   "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "SF",
+      "city": "State College",
+      "state": "PA",
+      "country": "USA"
+    },
+    {
+      "city": "Reston",
+      "state": "VA",
       "country": "USA"
     }
   ],
@@ -24,10 +30,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters",
-      "phd"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -42,8 +45,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-21",
-    "discovered": "2026-07-24",
+    "posted": "2026-07-15",
+    "discovered": "2026-07-28",
     "last_verified": "2026-07-28"
   },
   "status": "open",
