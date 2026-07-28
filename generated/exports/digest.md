@@ -1,6 +1,6 @@
 # 📬 InternAtlas Weekly Digest — 2026-07-28
 
-## 🆕 New this week (250)
+## 🆕 New this week (251)
 
 - **AQR Capital Management** — [Trading Analyst Intern](https://careers.aqr.com/jobs?gh_jid=8077110&gh_jid=8077110) · quant · —
 - **Adtheorant** — [Enterprise AI Intern](https://careers-cadent.icims.com/jobs/1406/job?mobile=true&needsRedirect=false) · ai · —
@@ -146,6 +146,7 @@
 - **Netic** — [Software Engineer Intern](https://jobs.ashbyhq.com/netic/b0ea7aab-8eea-4d31-96f9-278364180ae7?embed=true) · software-engineering · —
 - **Netic** — [Software Engineer Intern](https://jobs.ashbyhq.com/netic/b0ea7aab-8eea-4d31-96f9-278364180ae7) · software-engineering · —
 - **Nextiva** — [Forward Deployed Engineer Intern - AI Implementation](https://www.nextiva.com/company/careers-listing?gh_jid=8639480002) · ai · —
+- **Nightwing** — [Software / Hardware Engineering Intern](https://nwis.wd12.myworkdayjobs.com/en-US/NW/job/Annapolis-Junction-MD/Software---Hardware-Engineering---Intern_JR101733) · hardware · —
 - **North Cloud** — [AI Automation Intern](https://ats.rippling.com/north-cloud/jobs/9d9d6db9-2da0-45e2-a3d3-6373c61763a4) · ai · —
 - **Northrop Grumman** — [Software Engineer Intern](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Returning-Intern-Software-Engineer_R10242378) · software-engineering · —
 - **Northrop Grumman** — [Software Engineer Intern](https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10239275) · software-engineering · —

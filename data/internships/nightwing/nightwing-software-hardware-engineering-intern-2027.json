@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "blackrock-global-product-intern-2026-7dff7c",
+  "id": "nightwing-software-hardware-engineering-intern-2027",
   "company": {
-    "name": "BlackRock",
-    "slug": "blackrock"
+    "name": "Nightwing",
+    "slug": "nightwing"
   },
-  "role": "Global Product Intern",
-  "category": "software-engineering",
-  "apply_url": "https://blackrock.wd1.myworkdayjobs.com/BlackRock_Early_Careers_Program/job/XMLNAME-2027-Global-Product-Intern-Non-New-York_R265169",
-  "season": "fall",
-  "year": 2026,
+  "role": "Software / Hardware Engineering Intern",
+  "category": "hardware",
+  "apply_url": "https://nwis.wd12.myworkdayjobs.com/en-US/NW/job/Annapolis-Junction-MD/Software---Hardware-Engineering---Intern_JR101733",
+  "season": "summer",
+  "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Wilmington",
-      "state": "DE",
+      "city": "Annapolis Junction",
+      "state": "MD",
       "country": "USA"
     }
   ],
@@ -26,9 +26,9 @@
   "eligibility": {
     "graduation_years": [],
     "degree_levels": [],
-    "citizenship_required": false,
+    "citizenship_required": true,
     "security_clearance_required": false,
-    "visa_sponsorship": "unknown"
+    "visa_sponsorship": "no"
   },
   "interview": {},
   "tech": {
@@ -40,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-15",
-    "discovered": "2026-07-23",
+    "posted": "2026-07-28",
+    "discovered": "2026-07-28",
     "last_verified": "2026-07-28"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }

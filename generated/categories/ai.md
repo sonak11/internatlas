@@ -2,14 +2,13 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🤖 AI Internships
 
-**104** tracked · **85** open now
+**104** tracked · **84** open now
 
 ## Current openings
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
 | [Adtheorant](generated/companies/adtheorant.md) | [Enterprise AI Intern](https://careers-cadent.icims.com/jobs/1406/job?mobile=true&needsRedirect=false) | NYC | Onsite | 2026-07-22 | Rolling | 🟢 Open | ❔ |
-| [American Enterprise Institute](generated/companies/american-enterprise-institute.md) | [Data Analysis & AI Policy Intern](https://internships-aei.icims.com/jobs/2612/job?mobile=true&needsRedirect=false) | Washington, DC | Onsite | 2026-05-01 | Rolling | 🟢 Open | ❔ |
 | [Argmax](generated/companies/argmax.md) | [On-device AI Frameworks Engineer Intern](https://job-boards.greenhouse.io/argmax/jobs/4067268009) | Palo Alto, CA +1 | Onsite | 2026-07-14 | Rolling | 🟢 Open | ❔ |
 | [Bild AI](generated/companies/bild-ai.md) | [AI/Software Engineer Intern](https://jobs.ashbyhq.com/bild-ai/b333f0f7-0ca6-4509-8697-9303396b5364/application?embed=true) | SF | Onsite | 2026-07-21 | Rolling | 🟢 Open | ❔ |
 | [Bosch](generated/companies/bosch.md) | [AI Research Intern - Wireless Perception](https://jobs.smartrecruiters.com/BoschGroup/c4621e0f-5c1e-4a67-adc4-0671cbcaf28c) | Pittsburgh, PA | Onsite | 2025-12-16 | Rolling | 🟢 Open | ❌ |
@@ -96,6 +95,7 @@
 | [1X](generated/companies/1x.md) | [AI Residency Intern](https://jobs.ashbyhq.com/1x/5b2b4c73-13b5-46ca-8467-8024741a4b57/application) | San Carlos, CA | Onsite | 2026-07-07 | Rolling | 🔴 Closed | ❔ |
 | [Altera Corporation](generated/companies/altera-corporation.md) | [AI Software Development Engineer Intern](https://altera.wd1.myworkdayjobs.com/altera/job/San-Jose-California-United-States/AI-Software-Development-Engineer---Intern_R02707) | San Jose, CA | Onsite | 2026-07-17 | Rolling | 🔴 Closed | ❔ |
 | [American Bureau of Shipping](generated/companies/american-bureau-of-shipping.md) | [AI Software Engineering Intern](https://hbbq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4564) | St. John's | Onsite | 2026-07-06 | Rolling | 🔴 Closed | ❔ |
+| [American Enterprise Institute](generated/companies/american-enterprise-institute.md) | [Data Analysis & AI Policy Intern](https://internships-aei.icims.com/jobs/2612/job?mobile=true&needsRedirect=false) | Washington, DC | Onsite | 2026-05-01 | Rolling | 🔴 Closed | ❔ |
 | [Amwins](generated/companies/amwins.md) | [Analytics & AI Intern](https://www.amwins.com/who-we-are/careers/open-positions?gh_jid=4302229009) | Hartford, CT | Onsite | 2026-07-07 | Rolling | 🔴 Closed | ❔ |
 | [Bank of Montreal](generated/companies/bank-of-montreal.md) | [Data and AI Operations Analyst Intern/Co-op - Cloud - 8 months](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Data-and-AI-Operations-Analyst--Cloud---Fall-2026--Co-op-Internship----8-months_R260021724) | Toronto | Onsite | 2026-07-27 | Rolling | 🔴 Closed | ❔ |
 | [Datasite](generated/companies/datasite.md) | [AI Transformation / Forward Deployed Engineer Intern - Forward Deployed Engineer](https://datasite.wd1.myworkdayjobs.com/datasite/job/USA---NY---New-York-City/AI-Transformation---Forward-Deployed-Engineer--FDE--Intern_R36255) | NYC | Onsite | 2026-07-08 | Rolling | 🔴 Closed | ❔ |
@@ -132,7 +132,6 @@
 - Toshiba Commerce Solutions (2)
 - Intel (2)
 - Adtheorant (1)
-- American Enterprise Institute (1)
 - Argmax (1)
 - Bild AI (1)
 - Brookfield (1)
@@ -166,6 +165,7 @@
 - 1X (1)
 - Altera Corporation (1)
 - American Bureau of Shipping (1)
+- American Enterprise Institute (1)
 - Amwins (1)
 - Bank of Montreal (1)
 - Datasite (1)

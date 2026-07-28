@@ -2553,7 +2553,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-28"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -6384,7 +6384,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "blackrock-global-product-intern-2026-7dff7c",
+      "id": "blackrock-global-product-intern-2026",
       "company": {
         "name": "BlackRock",
         "slug": "blackrock"
@@ -6399,57 +6399,6 @@
         {
           "city": "Wilmington",
           "state": "DE",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-07-15",
-        "discovered": "2026-07-23",
-        "last_verified": "2026-07-28"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "blackrock-global-product-intern-2026",
-      "company": {
-        "name": "BlackRock",
-        "slug": "blackrock"
-      },
-      "role": "Global Product Intern",
-      "category": "software-engineering",
-      "apply_url": "https://blackrock.wd1.myworkdayjobs.com/BlackRock_Early_Careers_Program/job/New-York-NY/XMLNAME-2027-Global-Product-Intern-New-York_R265170",
-      "season": "fall",
-      "year": 2026,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "NYC",
           "country": "USA"
         }
       ],
@@ -13651,7 +13600,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-28"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -18312,7 +18261,7 @@
         "discovered": "2026-07-22",
         "last_verified": "2026-07-28"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -26163,7 +26112,7 @@
         "discovered": "2026-07-21",
         "last_verified": "2026-07-28"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -32192,6 +32141,58 @@
       "tags": [
         "auto-ingested",
         "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "nightwing-software-hardware-engineering-intern-2027",
+      "company": {
+        "name": "Nightwing",
+        "slug": "nightwing"
+      },
+      "role": "Software / Hardware Engineering Intern",
+      "category": "hardware",
+      "apply_url": "https://nwis.wd12.myworkdayjobs.com/en-US/NW/job/Annapolis-Junction-MD/Software---Hardware-Engineering---Intern_JR101733",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Annapolis Junction",
+          "state": "MD",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": true,
+        "security_clearance_required": false,
+        "visa_sponsorship": "no"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-28",
+        "discovered": "2026-07-28",
+        "last_verified": "2026-07-28"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
       ]
     },
     {

@@ -29,7 +29,7 @@
 | [Ambarella](../companies/ambarella.md) | 5/5 | hardware, software-engineering |
 | [Amentum](../companies/amentum.md) | 1/1 | hardware |
 | [American Bureau of Shipping](../companies/american-bureau-of-shipping.md) | 0/1 | ai |
-| [American Enterprise Institute](../companies/american-enterprise-institute.md) | 2/2 | ai, software-engineering |
+| [American Enterprise Institute](../companies/american-enterprise-institute.md) | 1/2 | ai, software-engineering |
 | [Amgen](../companies/amgen.md) | 1/1 | software-engineering |
 | [Amwins](../companies/amwins.md) | 0/1 | ai |
 | [Anduril](../companies/anduril.md) | 6/6 | hardware, software-engineering |
@@ -60,7 +60,7 @@
 | [Barclays](../companies/barclays.md) | 1/1 | quant |
 | [Beacon Software](../companies/beacon-software.md) | 1/1 | software-engineering |
 | [Bild AI](../companies/bild-ai.md) | 1/1 | ai |
-| [BlackRock](../companies/blackrock.md) | 2/2 | software-engineering |
+| [BlackRock](../companies/blackrock.md) | 1/1 | software-engineering |
 | [Blackstone](../companies/blackstone.md) | 1/1 | quant |
 | [Block](../companies/block.md) | 2/2 | research |
 | [Bloxd](../companies/bloxd.md) | 1/1 | software-engineering |
@@ -119,7 +119,7 @@
 | [Deepgram](../companies/deepgram.md) | 1/2 | software-engineering |
 | [Definity Financial](../companies/definity-financial.md) | 3/4 | software-engineering |
 | [Delta Air Lines](../companies/delta-air-lines.md) | 1/1 | ai |
-| [Democratic Governors Association](../companies/democratic-governors-association.md) | 1/1 | software-engineering |
+| [Democratic Governors Association](../companies/democratic-governors-association.md) | 0/1 | software-engineering |
 | [Democratic National Committee](../companies/democratic-national-committee.md) | 0/1 | software-engineering |
 | [Desjardins Group](../companies/desjardins-group.md) | 1/1 | software-engineering |
 | [Dexmate](../companies/dexmate.md) | 0/1 | software-engineering |
@@ -166,7 +166,7 @@
 | [GRITT ROBOTICS INC](../companies/gritt-robotics-inc.md) | 1/1 | machine-learning |
 | [Gemini](../companies/gemini.md) | 2/2 | software-engineering |
 | [GenMD](../companies/genmd.md) | 1/1 | ai |
-| [Generac](../companies/generac.md) | 1/3 | data-science, software-engineering |
+| [Generac](../companies/generac.md) | 0/3 | data-science, software-engineering |
 | [General Astronautics](../companies/general-astronautics.md) | 1/1 | software-engineering |
 | [General Motors](../companies/general-motors.md) | 0/2 | machine-learning, research |
 | [GeoComply](../companies/geocomply.md) | 0/2 | software-engineering |
@@ -209,7 +209,7 @@
 | [Jane Street](../companies/jane-street.md) | 16/16 | data-engineering, hardware, machine-learning, quant, research, security, software-engineering |
 | [Jump Trading](../companies/jump-trading.md) | 37/38 | ai, data-engineering, design, hardware, machine-learning, quant, research |
 | [Junior AI](../companies/junior-ai.md) | 0/1 | software-engineering |
-| [KBR](../companies/kbr.md) | 1/1 | security |
+| [KBR](../companies/kbr.md) | 0/1 | security |
 | [KRAFTON](../companies/krafton.md) | 1/1 | software-engineering |
 | [Kepler Communications](../companies/kepler-communications.md) | 1/1 | hardware |
 | [Keysight Technologies](../companies/keysight-technologies.md) | 2/2 | machine-learning, software-engineering |
@@ -261,6 +261,7 @@
 | [Neuralink](../companies/neuralink.md) | 18/19 | cloud, design, embedded, hardware, machine-learning, software-engineering |
 | [NewsBreak](../companies/newsbreak.md) | 0/1 | software-engineering |
 | [Nextiva](../companies/nextiva.md) | 1/1 | ai |
+| [Nightwing](../companies/nightwing.md) | 1/1 | hardware |
 | [Nokia](../companies/nokia.md) | 1/4 | data-science, embedded, software-engineering |
 | [North Cloud](../companies/north-cloud.md) | 0/1 | ai |
 | [Northrop Grumman](../companies/northrop-grumman.md) | 0/2 | software-engineering |

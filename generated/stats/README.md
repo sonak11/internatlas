@@ -33,12 +33,12 @@ _Generated 2026-07-28_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 513 | `████████████` |
+| software-engineering | 512 | `████████████` |
 | quant | 115 | `███` |
 | ai | 104 | `██` |
 | machine-learning | 66 | `██` |
 | research | 53 | `█` |
-| hardware | 50 | `█` |
+| hardware | 51 | `█` |
 | embedded | 38 | `█` |
 | cloud | 26 | `█` |
 | product | 23 | `█` |
@@ -54,6 +54,7 @@ _Generated 2026-07-28_
 - 2026-07-28 — **Cloudflare**: [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379)
 - 2026-07-28 — **Cloudflare**: [Software Engineer Intern](https://job-boards.greenhouse.io/cloudflare/jobs/8052785?gh_jid=8052785)
 - 2026-07-28 — **Gemini**: [Software Engineering Intern](https://job-boards.greenhouse.io/embed/job_app?for=gemini&token=7875125)
+- 2026-07-28 — **Nightwing**: [Software / Hardware Engineering Intern](https://nwis.wd12.myworkdayjobs.com/en-US/NW/job/Annapolis-Junction-MD/Software---Hardware-Engineering---Intern_JR101733)
 - 2026-07-28 — **Rendezvous Robotics**: [Software Engineering Intern](https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4328555009)
 - 2026-07-28 — **Rendezvous Robotics**: [Software Engineering Intern, Spring 2027](https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4329122009)
 - 2026-07-28 — **Smiths Detection Group**: [Commercial Intern - Commercial Tools & Business Intelligence](https://jobs.smartrecruiters.com/SmithsGroup2/744000140169009)
@@ -68,7 +69,6 @@ _Generated 2026-07-28_
 - 2026-07-27 — **Bosch Home Comfort**: [Powertrain Controls Software Engineer Intern](https://jobs.smartrecruiters.com/BoschGroup/744000140089589)
 - 2026-07-27 — **CCC Intelligent Solutions**: [Applied AI Engineer Intern](https://cccis.wd1.myworkdayjobs.com/broadbean_external/job/Chicago-Green-St-IL/Applied-AI-Engineering-Intern_0014827)
 - 2026-07-27 — **Chanel**: [Data Intern - Global Data Program](https://cc.wd3.myworkdayjobs.com/ChanelCareers/job/London/Data-Intern---Global-Data-Program--H-F-X----September-2026_JOBREQ00115336)
-- 2026-07-27 — **Chicago Trading Company**: [Quant Trading Intern](https://job-boards.greenhouse.io/ctccampusboard/jobs/4708188005)
 
 ## Recently closed
 
@@ -80,6 +80,7 @@ _Generated 2026-07-28_
 - Altera Corporation — AI Software Development Engineer Intern
 - AMAROK Security — Research and Development Intern
 - American Bureau of Shipping — AI Software Engineering Intern
+- American Enterprise Institute — Data Analysis & AI Policy Intern
 - Amwins — Analytics & AI Intern
 - Aptiv — Engineer Intern
 - AQR Capital Management — Portfolio Implementation – Trading and Portfolio Finance Analyst Intern
@@ -117,6 +118,7 @@ _Generated 2026-07-28_
 - Datasite — Forward Deployed Engineer Intern
 - Deepgram — Software Engineer Intern
 - Definity Financial — Data Specialist Co-op Intern - Claim Operations Management
+- Democratic Governors Association — Data and Coding Intern
 - Democratic National Committee — DNC Technology Intern
 - Dexmate — Frontend Engineer Intern
 - DiDi Global — Motion Planning Engineer Intern
@@ -146,6 +148,7 @@ _Generated 2026-07-28_
 - GE Healthcare — Engineering Development Program Intern - Software
 - Generac — Data Science Intern
 - Generac — Engineering Intern
+- Generac — Software Engineer Intern
 - General Motors — Research and Development Intern - Research & Development
 - General Motors — Research and Development Intern - Research & Development: AI/ML
 - GeoComply — Full Stack Developer Intern
@@ -174,6 +177,7 @@ _Generated 2026-07-28_
 - Intel Corporation — AI Software Engineering PhD Intern
 - Jump Trading — Campus Quantitative Researcher Intern
 - Junior AI — Software Engineer Intern
+- KBR — National Security Solutions Intern - Nss
 - Kinaxis — Software Development Co-op/Intern - C++
 - Kudu Dynamics — Software Engineer Intern
 - Kudu Dynamics — Software Engineer Intern
