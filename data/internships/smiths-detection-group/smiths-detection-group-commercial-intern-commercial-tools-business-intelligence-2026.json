@@ -1,21 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "copart-software-engineer-intern-2026-2ceb13",
+  "id": "smiths-detection-group-commercial-intern-commercial-tools-business-intelligence-2026",
   "company": {
-    "name": "Copart",
-    "slug": "copart"
+    "name": "Smiths Detection Group",
+    "slug": "smiths-detection-group"
   },
-  "role": "Software Engineer Intern",
+  "role": "Commercial Intern - Commercial Tools & Business Intelligence",
   "category": "software-engineering",
-  "apply_url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109689",
+  "apply_url": "https://jobs.smartrecruiters.com/SmithsGroup2/744000140169009",
   "season": "fall",
   "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Dallas",
-      "state": "TX",
-      "country": "USA"
+      "city": "Slough",
+      "country": "UK"
     }
   ],
   "compensation": {
@@ -40,8 +39,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-15",
-    "discovered": "2026-07-24",
+    "posted": "2026-07-28",
+    "discovered": "2026-07-28",
     "last_verified": "2026-07-28"
   },
   "status": "open",

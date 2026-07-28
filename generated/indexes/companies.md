@@ -101,7 +101,7 @@
 | [ConnectPrep](../companies/connectprep.md) | 1/1 | software-engineering |
 | [Consensus Cloud Solutions](../companies/consensus-cloud-solutions.md) | 0/1 | software-engineering |
 | [Constellation Space](../companies/constellation-space.md) | 0/1 | machine-learning |
-| [Copart](../companies/copart.md) | 5/8 | data-engineering, software-engineering |
+| [Copart](../companies/copart.md) | 6/7 | data-engineering, software-engineering |
 | [Core & Main](../companies/core-main.md) | 1/1 | machine-learning |
 | [Cotiviti](../companies/cotiviti.md) | 1/1 | ai |
 | [Cubist Systematic Strategies](../companies/cubist-systematic-strategies.md) | 1/1 | quant |
@@ -131,7 +131,7 @@
 | [Duku AI](../companies/duku-ai.md) | 0/1 | software-engineering |
 | [Duracell](../companies/duracell.md) | 1/1 | software-engineering |
 | [ETHGlobal](../companies/ethglobal.md) | 1/1 | software-engineering |
-| [East Penn Manufacturing Company](../companies/east-penn-manufacturing-company.md) | 2/2 | data-engineering, software-engineering |
+| [East Penn Manufacturing Company](../companies/east-penn-manufacturing-company.md) | 1/2 | data-engineering, software-engineering |
 | [EdgeTrace](../companies/edgetrace.md) | 1/1 | ai |
 | [Egra](../companies/egra.md) | 0/1 | ai |
 | [Eight Sleep](../companies/eight-sleep.md) | 0/1 | software-engineering |
@@ -255,7 +255,7 @@
 | [Naïve](../companies/na-ve.md) | 1/1 | software-engineering |
 | [Nelnet](../companies/nelnet.md) | 1/1 | ai |
 | [NeoCognition](../companies/neocognition.md) | 1/1 | research |
-| [NeoSigma](../companies/neosigma.md) | 2/2 | software-engineering |
+| [NeoSigma](../companies/neosigma.md) | 1/2 | software-engineering |
 | [Netflix](../companies/netflix.md) | 2/2 | machine-learning, software-engineering |
 | [Netic](../companies/netic.md) | 4/4 | software-engineering |
 | [Neuralink](../companies/neuralink.md) | 18/19 | cloud, design, embedded, hardware, machine-learning, software-engineering |
@@ -301,7 +301,7 @@
 | [Quadrillion Labs](../companies/quadrillion-labs.md) | 1/1 | software-engineering |
 | [RFCUNY](../companies/rfcuny.md) | 1/2 | software-engineering |
 | [ROCKWOOL Group](../companies/rockwool-group.md) | 1/2 | product, software-engineering |
-| [RTX](../companies/rtx.md) | 2/2 | machine-learning, software-engineering |
+| [RTX](../companies/rtx.md) | 1/2 | machine-learning, software-engineering |
 | [Radix Trading](../companies/radix-trading.md) | 1/1 | quant |
 | [Rainmaker](../companies/rainmaker.md) | 0/1 | software-engineering |
 | [Rakuten International](../companies/rakuten-international.md) | 0/1 | software-engineering |
@@ -319,7 +319,7 @@
 | [Rocket Lab](../companies/rocket-lab.md) | 0/1 | software-engineering |
 | [Rockwell Automation](../companies/rockwell-automation.md) | 2/2 | embedded |
 | [Royal Bank of Canada](../companies/royal-bank-of-canada.md) | 1/2 | software-engineering |
-| [SOTI](../companies/soti.md) | 3/3 | data-science, product |
+| [SOTI](../companies/soti.md) | 2/3 | data-science, product |
 | [SPREEAI](../companies/spreeai.md) | 1/1 | ai |
 | [SS&C](../companies/ss-c.md) | 0/1 | ai |
 | [Salesforce](../companies/salesforce.md) | 0/3 | product, software-engineering |
@@ -338,6 +338,7 @@
 | [SimonComputing](../companies/simoncomputing.md) | 1/1 | software-engineering |
 | [Sixtyfour (X25)](../companies/sixtyfour-x25.md) | 1/1 | software-engineering |
 | [Skydio](../companies/skydio.md) | 1/2 | software-engineering |
+| [Smiths Detection Group](../companies/smiths-detection-group.md) | 1/1 | software-engineering |
 | [Snowflake](../companies/snowflake.md) | 3/3 | cloud, software-engineering |
 | [Solid Power](../companies/solid-power.md) | 0/1 | software-engineering |
 | [SoloPulse](../companies/solopulse.md) | 1/1 | software-engineering |
@@ -383,7 +384,7 @@
 | [Uncountable](../companies/uncountable.md) | 1/1 | software-engineering |
 | [University of Virginia](../companies/university-of-virginia.md) | 1/1 | research |
 | [VITAL LYFE](../companies/vital-lyfe.md) | 1/1 | software-engineering |
-| [Varda Space](../companies/varda-space.md) | 0/1 | software-engineering |
+| [Varda Space](../companies/varda-space.md) | 1/1 | software-engineering |
 | [Veeam Software](../companies/veeam-software.md) | 2/2 | ai, software-engineering |
 | [Veeda AI](../companies/veeda-ai.md) | 1/1 | ai |
 | [Vega Investment Technologies](../companies/vega-investment-technologies.md) | 1/1 | software-engineering |
@@ -404,7 +405,7 @@
 | [WindBorne Systems](../companies/windborne-systems.md) | 1/1 | embedded |
 | [Workato](../companies/workato.md) | 1/1 | ai |
 | [X Development](../companies/x-development.md) | 2/2 | machine-learning, research |
-| [Xsolla](../companies/xsolla.md) | 1/3 | ai |
+| [Xsolla](../companies/xsolla.md) | 3/4 | ai |
 | [Zipline](../companies/zipline.md) | 4/6 | embedded, software-engineering |
 | [Zuru](../companies/zuru.md) | 1/1 | software-engineering |
 | [fab2](../companies/fab2.md) | 1/1 | software-engineering |

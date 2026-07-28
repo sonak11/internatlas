@@ -1,6 +1,6 @@
 # 📬 InternAtlas Weekly Digest — 2026-07-28
 
-## 🆕 New this week (239)
+## 🆕 New this week (240)
 
 - **AQR Capital Management** — [Trading Analyst Intern](https://careers.aqr.com/jobs?gh_jid=8077110&gh_jid=8077110) · quant · —
 - **Adtheorant** — [Enterprise AI Intern](https://careers-cadent.icims.com/jobs/1406/job?mobile=true&needsRedirect=false) · ai · —
@@ -200,6 +200,7 @@
 - **Sentara Health** — [Data & AI Finance Strategy Intern](https://sentara.wd1.myworkdayjobs.com/SCS/job/Virginia-Beach-VA/Data---AI-Finance-Strategy-Intern---Fall-2026-Internship-Remote_JR-103073) · ai · —
 - **ShyftLabs** — [AI Engineer Intern](https://jobs.lever.co/shyftlabs/4f389ea7-9b98-4ed0-99c2-b25ea8cc2dcd/apply) · ai · —
 - **ShyftLabs** — [AI Engineer Intern](https://jobs.lever.co/shyftlabs/4f389ea7-9b98-4ed0-99c2-b25ea8cc2dcd) · ai · —
+- **Smiths Detection Group** — [Commercial Intern - Commercial Tools & Business Intelligence](https://jobs.smartrecruiters.com/SmithsGroup2/744000140169009) · software-engineering · —
 - **SpaceX** — [Recruiting Coordinator, Intern Program- Temporary](https://boards.greenhouse.io/spacex/jobs/8647830002?gh_jid=8647830002) · hardware · —
 - **Spectrum Control** — [Engineering Intern](https://spectrumcontrol.wd1.myworkdayjobs.com/spectrumcontrol/job/Fairview-PA/Engineering-Intern_JR101449) · software-engineering · —
 - **SpreeAI** — [Machine Learning Engineer Intern - Computer Vision/Multimodal/Generative AI](https://ats.rippling.com/spreeai/jobs/aa087086-dd4b-42be-a499-051546655e97) · machine-learning · —

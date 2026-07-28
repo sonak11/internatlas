@@ -27,7 +27,7 @@ _Generated 2026-07-28_
 | Akuna Capital | 8 |
 | Castleton Commodities International | 8 |
 | Ciena | 8 |
-| Copart | 8 |
+| SpaceX | 8 |
 
 ## Listings by category
 
@@ -35,7 +35,7 @@ _Generated 2026-07-28_
 |---|---|---|
 | software-engineering | 506 | `████████████` |
 | quant | 114 | `███` |
-| ai | 103 | `██` |
+| ai | 104 | `███` |
 | machine-learning | 65 | `██` |
 | research | 51 | `█` |
 | hardware | 49 | `█` |
@@ -49,6 +49,7 @@ _Generated 2026-07-28_
 
 ## Newest listings
 
+- 2026-07-28 — **Smiths Detection Group**: [Commercial Intern - Commercial Tools & Business Intelligence](https://jobs.smartrecruiters.com/SmithsGroup2/744000140169009)
 - 2026-07-28 — **TikTok**: [Efficiency Analyst/Methodologist Project Intern - Content Operations - Tiktok-Operations-Operations Efficiency](https://lifeattiktok.com/search/7667248888103782661)
 - 2026-07-27 — **Anthelion Capital**: [Quant Developer / Quant Research Intern](https://jobs.ashbyhq.com/anthelioncap/5e2ea37b-2369-474e-b717-c24c60976e96)
 - 2026-07-27 — **Appian**: [Information Security Engineer Intern](https://job-boards.greenhouse.io/appian/jobs/8088496)
@@ -68,7 +69,6 @@ _Generated 2026-07-28_
 - 2026-07-27 — **Excel Sports Management**: [Football Coaches Intern](https://job-boards.greenhouse.io/excelsportsmanagement/jobs/4718768005)
 - 2026-07-27 — **GRITT ROBOTICS INC**: [ML & Cloud Infrastructure Engineer Intern](https://jobs.ashbyhq.com/gritt/46af6e69-40fc-4e53-940e-a99757137523)
 - 2026-07-27 — **HyperLight**: [Software Engineer Intern](https://apply.workable.com/hyperlight/j/5581EA0668/)
-- 2026-07-27 — **Intel**: [AI Applied Intern](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/AI-Applied-intern_JR0285916)
 
 ## Recently closed
 
@@ -112,8 +112,6 @@ _Generated 2026-07-28_
 - Composio — Full-stack Intern
 - Consensus Cloud Solutions — Sales Strategy & Analytics Intern
 - Constellation Space — Graduate Researcher Intern - Machine Learning
-- Copart — Software Engineer Intern
-- Copart — Technology Product Analyst Intern
 - Copart — Technology Product Analyst Intern
 - Datasite — AI Transformation / Forward Deployed Engineer Intern - Forward Deployed Engineer
 - Datasite — Forward Deployed Engineer Intern
@@ -124,6 +122,7 @@ _Generated 2026-07-28_
 - DiDi Global — Motion Planning Engineer Intern
 - DNV — AI Research Intern
 - Duku AI — Tech Intern - Visiting
+- East Penn Manufacturing Company — Power BI & Analytics Intern
 - Egra — AI Researcher Intern
 - Eight Sleep — Prototype & Test Engineer Intern - New Product Development
 - Ensemble Health Partners — Engineering Excellence Intern
@@ -197,6 +196,7 @@ _Generated 2026-07-28_
 - National Laboratory of the Rockies — Graduate Geospatial Data Science Intern
 - National Laboratory of the Rockies — Graduate Intern
 - Navy Federal — Year Round Intern - Business Intelligence Analyst
+- NeoSigma — Member of Technical Staff Intern
 - Neuralink — R&D Materials Engineer Intern
 - NewsBreak — Growth Engineer Intern - Growth Engineering
 - Nokia — Data Science Co-op/Intern
@@ -234,6 +234,7 @@ _Generated 2026-07-28_
 - Rocket Lab — Software Intern
 - ROCKWOOL Group — Product Management Intern
 - Royal Bank of Canada — Student Intern - Data Analyst - Personal Banking
+- RTX — Software Engineer Intern
 - Salesforce — Associate Product Manager Intern - Associate Product Manager
 - Salesforce — Associate Product Manager Intern - Associate Product Manager
 - Salesforce — Software Engineer Intern(Futureforce Summer 2027)
@@ -246,6 +247,7 @@ _Generated 2026-07-28_
 - Signify — Product Management Intern
 - Skydio — Software Engineer Intern
 - Solid Power — Product Development Intern
+- SOTI — Product Manager Intern - Sales Enablement Products
 - Spectrum Control — Engineering Intern
 - SS&C — Healthcare AI & Automation Intern
 - State of North Carolina — Geographic Information Systems Intern - GIS
@@ -267,11 +269,9 @@ _Generated 2026-07-28_
 - TMX Group — Software Engineer Intern - Java
 - Torch Technologies — Software Engineer Intern
 - Tower Research Capital — Quantitative Trader Intern
-- Varda Space — Mission Software – Intern - Python
 - Verkada — Technical Support Engineering Intern - Fall 2026
 - Verne Robotics — Engineering Intern
 - Viavi Solutions — Software Development Data Analytics Intern
-- Xsolla — AI Engineer Intern
 - Xsolla — AI-First Engineer Intern
 - Zipline — Applications Engineer Intern
 - Zipline — Embedded Software Engineer Intern

@@ -1,20 +1,19 @@
 {
   "schema_version": "1.0",
-  "id": "copart-software-engineer-intern-2026-b163bc",
+  "id": "xsolla-ai-first-engineer-intern-2026-30d479",
   "company": {
-    "name": "Copart",
-    "slug": "copart"
+    "name": "Xsolla",
+    "slug": "xsolla"
   },
-  "role": "Software Engineer Intern",
-  "category": "software-engineering",
-  "apply_url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR110079",
+  "role": "AI-First Engineer Intern",
+  "category": "ai",
+  "apply_url": "https://jobs.lever.co/xsolla/7a8f8d4c-10fc-4c64-bc9d-167ba1e367c4/apply",
   "season": "fall",
   "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Dallas",
-      "state": "TX",
+      "state": "LA",
       "country": "USA"
     }
   ],
@@ -41,7 +40,7 @@
   },
   "dates": {
     "posted": "2026-07-20",
-    "discovered": "2026-07-21",
+    "discovered": "2026-07-28",
     "last_verified": "2026-07-28"
   },
   "status": "open",
