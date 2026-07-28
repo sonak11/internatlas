@@ -1,6 +1,6 @@
 {
   "generated": "2026-07-28",
-  "count": 1047,
+  "count": 1048,
   "internships": [
     {
       "schema_version": "1.0",
@@ -7342,7 +7342,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-28"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -7396,7 +7396,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-28"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -10493,7 +10493,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-28"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -10545,7 +10545,7 @@
         "discovered": "2026-07-18",
         "last_verified": "2026-07-28"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:ats"
@@ -29337,6 +29337,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "modal-research-intern-2027",
+      "company": {
+        "name": "Modal",
+        "slug": "modal",
+        "career_page": "https://modal.com/careers"
+      },
+      "role": "Research Intern",
+      "category": "research",
+      "apply_url": "https://jobs.ashbyhq.com/modal/38888294-6bc7-4dab-b072-6d0f0c2ed79a",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "New York",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-28",
+        "discovered": "2026-07-28",
+        "last_verified": "2026-07-28"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "monogram-software-engineer-intern-2026",
       "company": {
         "name": "Monogram",
@@ -43321,7 +43373,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-28"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -48056,7 +48108,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-28"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -50349,7 +50401,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-28"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"

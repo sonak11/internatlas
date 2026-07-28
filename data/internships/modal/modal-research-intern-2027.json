@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "tesla-software-engineer-intern-software-engineer-opticaster-energy-2026",
+  "id": "modal-research-intern-2027",
   "company": {
-    "name": "Tesla",
-    "slug": "tesla"
+    "name": "Modal",
+    "slug": "modal",
+    "career_page": "https://modal.com/careers"
   },
-  "role": "Software Engineer Intern - Software Engineer Opticaster - Energy Engineering",
-  "category": "software-engineering",
-  "apply_url": "https://www.tesla.com/careers/search/job/272937",
-  "season": "fall",
-  "year": 2026,
+  "role": "Research Intern",
+  "category": "research",
+  "apply_url": "https://jobs.ashbyhq.com/modal/38888294-6bc7-4dab-b072-6d0f0c2ed79a",
+  "season": "summer",
+  "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Palo Alto",
-      "state": "CA",
+      "city": "New York",
       "country": "USA"
     }
   ],
@@ -40,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-06-07",
-    "discovered": "2026-07-17",
+    "posted": "2026-07-28",
+    "discovered": "2026-07-28",
     "last_verified": "2026-07-28"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:ats"
   ]
 }

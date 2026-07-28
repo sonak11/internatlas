@@ -37,7 +37,7 @@ _Generated 2026-07-28_
 | quant | 115 | `███` |
 | ai | 104 | `██` |
 | machine-learning | 66 | `██` |
-| research | 53 | `█` |
+| research | 54 | `█` |
 | hardware | 51 | `█` |
 | embedded | 38 | `█` |
 | cloud | 26 | `█` |
@@ -54,6 +54,7 @@ _Generated 2026-07-28_
 - 2026-07-28 — **Cloudflare**: [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379)
 - 2026-07-28 — **Cloudflare**: [Software Engineer Intern](https://job-boards.greenhouse.io/cloudflare/jobs/8052785?gh_jid=8052785)
 - 2026-07-28 — **Gemini**: [Software Engineering Intern](https://job-boards.greenhouse.io/embed/job_app?for=gemini&token=7875125)
+- 2026-07-28 — **Modal**: [Research Intern](https://jobs.ashbyhq.com/modal/38888294-6bc7-4dab-b072-6d0f0c2ed79a)
 - 2026-07-28 — **Nightwing**: [Software / Hardware Engineering Intern](https://nwis.wd12.myworkdayjobs.com/en-US/NW/job/Annapolis-Junction-MD/Software---Hardware-Engineering---Intern_JR101733)
 - 2026-07-28 — **Rendezvous Robotics**: [Software Engineering Intern](https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4328555009)
 - 2026-07-28 — **Rendezvous Robotics**: [Software Engineering Intern, Spring 2027](https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4329122009)
@@ -68,7 +69,6 @@ _Generated 2026-07-28_
 - 2026-07-27 — **Bank of Montreal**: [Data and AI Operations Analyst Intern/Co-op - Cloud - 8 months](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Data-and-AI-Operations-Analyst--Cloud---Fall-2026--Co-op-Internship----8-months_R260021724)
 - 2026-07-27 — **Bosch Home Comfort**: [Powertrain Controls Software Engineer Intern](https://jobs.smartrecruiters.com/BoschGroup/744000140089589)
 - 2026-07-27 — **CCC Intelligent Solutions**: [Applied AI Engineer Intern](https://cccis.wd1.myworkdayjobs.com/broadbean_external/job/Chicago-Green-St-IL/Applied-AI-Engineering-Intern_0014827)
-- 2026-07-27 — **Chanel**: [Data Intern - Global Data Program](https://cc.wd3.myworkdayjobs.com/ChanelCareers/job/London/Data-Intern---Global-Data-Program--H-F-X----September-2026_JOBREQ00115336)
 
 ## Recently closed
 
@@ -92,6 +92,8 @@ _Generated 2026-07-28_
 - BDO Canada — Indirect Tax Intern Co-op - Indirect Tax
 - BMO — Machine Learning Intern
 - Bosch Home Comfort — Business Intelligence Intern
+- ByteDance — Research Scientist Intern - AI Infrastructure
+- ByteDance — Research Scientist Intern - AI Infrastructure
 - CACI — Software Engineering Intern
 - Cadence Design Systems — SSG Design Engineering Intern
 - Capital One — Data Science Intern
@@ -108,6 +110,8 @@ _Generated 2026-07-28_
 - Ciena — Photonic Hardware Intern
 - City of Aurora — Water GIS Intern
 - City of Austin — Austin Aviation Undergraduate Intern - IT Business Systems Analyst
+- Cloudflare — AI Builder Intern - Global Customer Engineering - Service Sales
+- Cloudflare — AI Transformation Intern – Global Customer Engineering, Service Sales (Fall 2026)
 - Cloudflare — EIAM Business Enablement & Operations Intern (Fall 2026)
 - Cloudflare — Technical Support Engineer Intern (Fall 2026)
 - Composio — Full-stack Intern
@@ -253,6 +257,7 @@ _Generated 2026-07-28_
 - Signify — Product Management Intern
 - Skydio — Software Engineer Intern
 - Solid Power — Product Development Intern
+- Sparksoft — Data Development Intern
 - Spectrum Control — Engineering Intern
 - SS&C — Healthcare AI & Automation Intern
 - State of North Carolina — Geographic Information Systems Intern - GIS
@@ -265,8 +270,10 @@ _Generated 2026-07-28_
 - Tencent — Research Intern
 - Tencent — Research Intern
 - Tesla — Embedded Software Engineer Intern - Embedded Software Engineer - Steering,Chassis Systems
+- Tesla — Failure Analysis Engineer Intern - Failure Analysis Engineer - Energy Engineering
 - Tesla — Firmware Integration Engineer Intern - Software Integration Engineer - Factory Firmware
 - Tesla — Software Engineer Intern - Simulation Platform - Software Engineer
+- Tesla — Software Engineer Intern - Software Engineer Opticaster - Energy Engineering
 - Tesla — Software Engineer Intern - Wireless Connectivity Software Engineer - Electronic Devices
 - The Federal Reserve System — Business Survey Intern
 - The Trade Desk — Software Engineering Intern
