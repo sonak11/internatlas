@@ -10,9 +10,9 @@ _Generated 2026-07-29_
 |---|---|
 | Tesla | 100 |
 | Jump Trading | 38 |
+| Cloudflare | 19 |
 | Neuralink | 19 |
 | Susquehanna International Group (SIG) | 19 |
-| Cloudflare | 18 |
 | Palantir Technologies | 17 |
 | TikTok | 17 |
 | Jane Street | 16 |
@@ -37,7 +37,7 @@ _Generated 2026-07-29_
 | quant | 115 | `███` |
 | ai | 108 | `███` |
 | machine-learning | 70 | `██` |
-| research | 54 | `█` |
+| research | 55 | `█` |
 | hardware | 51 | `█` |
 | embedded | 38 | `█` |
 | cloud | 26 | `█` |
@@ -51,6 +51,7 @@ _Generated 2026-07-29_
 
 - 2026-07-29 — **Bosch Home Comfort**: [Autonomous Driving Intern](https://jobs.smartrecruiters.com/BoschGroup/744000140462550)
 - 2026-07-29 — **Bosch Home Comfort**: [Product Management Intern](https://jobs.smartrecruiters.com/BoschGroup/744000140457960)
+- 2026-07-29 — **Cloudflare**: [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407)
 - 2026-07-29 — **Leidos**: [Software Developer Intern](https://leidos.wd5.myworkdayjobs.com/External/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00188311)
 - 2026-07-29 — **Richemont**: [Sustainability Transformation Analyst Intern](https://richemont.wd3.myworkdayjobs.com/richemont/job/BELLEVUE/Sustainability-Transformation-Analyst-Intern_JR132092)
 - 2026-07-29 — **TikTok**: [Efficiency Analyst/Methodologist Project Intern - Content Operations - Tiktok-Operations-Operations Efficiency](https://lifeattiktok.com/search/7667613782697232693)
@@ -68,7 +69,6 @@ _Generated 2026-07-29_
 - 2026-07-28 — **Cloudflare**: [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400)
 - 2026-07-28 — **Cloudflare**: [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379)
 - 2026-07-28 — **Cloudflare**: [Software Engineer Intern](https://job-boards.greenhouse.io/cloudflare/jobs/8052785?gh_jid=8052785)
-- 2026-07-28 — **Field AI**: [Robotics Controls Intern - Robot Control Systems](https://jobs.lever.co/field-ai/8a3b5d4b-f88f-4704-bfdd-74e8dcd30704/apply)
 
 ## Recently closed
 
@@ -101,6 +101,7 @@ _Generated 2026-07-29_
 - Capital One — Data Science Intern
 - Capital One — Master's Data Science Internship
 - Capital One — Product Development Internship Program
+- Carnegie Mellon University — Research Intern - School of Computer Science - Language Technologies Institute
 - Center for AI Safety — Research Engineer Intern
 - Centerstone — Bachelor Level Intern
 - Chevron Corporation — Earth Science Intern
@@ -231,6 +232,7 @@ _Generated 2026-07-29_
 - Pennsylvania State University — R&D Engineer Intern
 - Pennsylvania State University — Research and Development Engineer Intern
 - Pennsylvania State University — Research Engineering Intern
+- Persistent Systems — Hardware Engineer Intern
 - Pinterest — PhD Fall Machine Learning Intern (ATG — Visual, Multimodal, and Recommender Systems)
 - Podium — Software Engineering Intern
 - Quadrillion — Research Intern

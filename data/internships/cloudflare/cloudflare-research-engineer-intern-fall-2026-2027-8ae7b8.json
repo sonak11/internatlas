@@ -1,19 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "persistent-systems-hardware-engineer-intern-2026",
+  "id": "cloudflare-research-engineer-intern-fall-2026-2027-8ae7b8",
   "company": {
-    "name": "Persistent Systems",
-    "slug": "persistent-systems"
+    "name": "Cloudflare",
+    "slug": "cloudflare",
+    "career_page": "https://www.cloudflare.com/careers"
   },
-  "role": "Hardware Engineer Intern",
-  "category": "hardware",
-  "apply_url": "https://careers-persistentsystems.icims.com/jobs/2270/job?mobile=true&needsRedirect=false",
-  "season": "fall",
-  "year": 2026,
+  "role": "Research Engineer Intern (Fall 2026)",
+  "category": "research",
+  "apply_url": "https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407",
+  "season": "summer",
+  "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "NYC",
+      "city": "In-Office",
       "country": "USA"
     }
   ],
@@ -39,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-06-22",
-    "discovered": "2026-07-17",
+    "posted": "2026-07-29",
+    "discovered": "2026-07-29",
     "last_verified": "2026-07-29"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:ats"
   ]
 }
