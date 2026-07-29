@@ -1,20 +1,21 @@
 {
   "schema_version": "1.0",
-  "id": "kinaxis-engineer-co-op-intern-data-analytics-2026",
+  "id": "arkema-global-manufacturing-data-systems-intern-2026",
   "company": {
-    "name": "Kinaxis",
-    "slug": "kinaxis"
+    "name": "Arkema Global",
+    "slug": "arkema-global"
   },
-  "role": "Engineer Co-op/Intern - Data & Analytics",
+  "role": "Manufacturing Data Systems Intern",
   "category": "software-engineering",
-  "apply_url": "https://careers-kinaxis.icims.com/jobs/34766/job?mobile=true&needsRedirect=false",
+  "apply_url": "https://jobs.arkema.com/job/Radnor-Manufacturing-Data-Systems-Intern-Job-PA/1420491833/?ats=successfactors",
   "season": "fall",
   "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Ottawa",
-      "country": "ON"
+      "city": "Villanova",
+      "state": "PA",
+      "country": "USA"
     }
   ],
   "compensation": {
@@ -39,11 +40,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-05-20",
-    "discovered": "2026-07-17",
+    "posted": "2026-07-29",
+    "discovered": "2026-07-29",
     "last_verified": "2026-07-29"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

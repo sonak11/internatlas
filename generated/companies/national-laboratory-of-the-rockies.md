@@ -6,6 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
+| National Laboratory of the Rockies | [Focused Ion Beam, Electron Microscopy, and Autonomous Characterization Intern - Multiple Teams](https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Graduate-Intern---Focused-Ion-Beam--Electron-Microscopy--and-Autonomous-Characterization_R14431) | Golden, CO | Onsite | 2026-07-29 | Rolling | 🟢 Open | ❔ |
 | National Laboratory of the Rockies | [Graduate Intern](https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Graduate--Year-Round--Intern---Industrial-and-Fuel-Supply-Optimization-Modeling-Analysis_R14426) | Golden, CO | Onsite | 2026-07-28 | Rolling | 🟢 Open | ❔ |
 | National Laboratory of the Rockies | [Graduate Intern - Transportation Systems Analysis](https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Graduate--Year-Round--Intern---Transportation-Systems-Analysis_R14153) | Golden, CO | Onsite | 2026-07-14 | Rolling | 🟢 Open | ❔ |
 | National Laboratory of the Rockies | [Software and Data Infrastructure Intern](https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Undergraduate-graduate-intern---software-and-data-infrastructure-for-autonomous-thin-film-experimentation--Year-Round-_R14394) | Golden, CO | Onsite | 2026-07-08 | Rolling | 🟢 Open | ❔ |

@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🤖 AI Internships
 
-**108** tracked · **81** open now
+**110** tracked · **83** open now
 
 ## Current openings
 
@@ -48,6 +48,8 @@
 | [OpusClip](generated/companies/opusclip.md) | [AI Research Intern](https://jobs.ashbyhq.com/opusclip/1966160d-8b4a-40f8-96c5-39a6d81122c2/application?embed=true) | Mountain View, CA | Onsite | 2026-07-22 | Rolling | 🟢 Open | ❔ |
 | [Revvity](generated/companies/revvity.md) | [Full-Stack AI Developer Intern](https://revvity.wd103.myworkdayjobs.com/External/job/CAD-Remote--ON/Full-Stack-AI-Developer-Intern_JR-044905) | Remote | Remote | 2026-07-15 | Rolling | 🟢 Open | ❔ |
 | [Rivian and Volkswagen Group Technologies](generated/companies/rivian-and-volkswagen-group-technologies.md) | [Data Engineering Intern - AI & Analytics](https://jobs.ashbyhq.com/rivianvw.tech/3864f83a-7b29-4c96-b00e-436d60c0508a/application) | Palo Alto, CA | Onsite | 2026-06-11 | Rolling | 🟢 Open | ❔ |
+| [Rockwell Automation](generated/companies/rockwell-automation.md) | [Applied AI Intern](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Austin-Texas-United-States/Intern--Applied-AI_R26-5631-2) | Austin, TX | Onsite | 2026-07-29 | Rolling | 🟢 Open | ❔ |
+| [Rockwell Automation](generated/companies/rockwell-automation.md) | [Applied AI Intern](https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Austin-Texas-United-States/Intern--Applied-AI_R26-5631-1) | Austin, TX | Onsite | 2026-07-29 | Rolling | 🟢 Open | ❔ |
 | [Saronic](generated/companies/saronic.md) | [Enterprise Technology Intern - AI and Automation](https://jobs.ashbyhq.com/saronic/c95c2e3a-4c67-47b0-a03d-0e0317ac11a3/application) | Austin, TX | Onsite | 2026-07-03 | Rolling | 🟢 Open | ❔ |
 | [Scale AI](generated/companies/scale-ai.md) | [AI Builder Intern](https://job-boards.greenhouse.io/scaleai/jobs/4703343005) | San Francisco, CA | Onsite | 2026-06-06 | Rolling | 🟢 Open | ❔ |
 | [Scale AI](generated/companies/scale-ai.md) | [Technical Advisor Specialist (Part-Time Internship)](https://job-boards.greenhouse.io/scaleai/jobs/4611533005) | San Francisco, CA | Onsite | 2025-09-22 | Rolling | 🟢 Open | ❔ |
@@ -129,6 +131,7 @@
 - Cloudflare (3)
 - Bosch (2)
 - Cirrus Logic (2)
+- Rockwell Automation (2)
 - Scale AI (2)
 - Sentara Health (2)
 - ShyftLabs (2)

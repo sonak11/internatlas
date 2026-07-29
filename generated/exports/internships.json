@@ -1,6 +1,6 @@
 {
   "generated": "2026-07-29",
-  "count": 1077,
+  "count": 1082,
   "internships": [
     {
       "schema_version": "1.0",
@@ -4356,6 +4356,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "arkema-global-manufacturing-data-systems-intern-2026",
+      "company": {
+        "name": "Arkema Global",
+        "slug": "arkema-global"
+      },
+      "role": "Manufacturing Data Systems Intern",
+      "category": "software-engineering",
+      "apply_url": "https://jobs.arkema.com/job/Radnor-Manufacturing-Data-Systems-Intern-Job-PA/1420491833/?ats=successfactors",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Villanova",
+          "state": "PA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-29",
+        "discovered": "2026-07-29",
+        "last_verified": "2026-07-29"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "arlington-county-va-utility-engineering-intern-2026",
       "company": {
         "name": "Arlington County VA",
@@ -6476,7 +6528,7 @@
         "discovered": "2026-07-24",
         "last_verified": "2026-07-29"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -18736,9 +18788,9 @@
       "dates": {
         "posted": "2026-07-20",
         "discovered": "2026-07-20",
-        "last_verified": "2026-07-24"
+        "last_verified": "2026-07-29"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -18790,9 +18842,9 @@
       "dates": {
         "posted": "2026-07-20",
         "discovered": "2026-07-20",
-        "last_verified": "2026-07-24"
+        "last_verified": "2026-07-29"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -27224,7 +27276,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-29"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -27892,7 +27944,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-29"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -28054,6 +28106,57 @@
       "tags": [
         "auto-ingested",
         "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "loop-data-scientist-intern-2026",
+      "company": {
+        "name": "Loop",
+        "slug": "loop"
+      },
+      "role": "Data Scientist Intern",
+      "category": "data-science",
+      "apply_url": "https://ats.rippling.com/loop-careers/jobs/e016b693-7ce9-4dad-95ff-03b934fbd580",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Toronto",
+          "country": "ON"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-29",
+        "discovered": "2026-07-29",
+        "last_verified": "2026-07-29"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
       ]
     },
     {
@@ -31133,6 +31236,61 @@
         "last_verified": "2026-07-24"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "national-laboratory-of-the-rockies-focused-ion-beam-electron-microscopy-and-autonomous-characte-2026",
+      "company": {
+        "name": "National Laboratory of the Rockies",
+        "slug": "national-laboratory-of-the-rockies"
+      },
+      "role": "Focused Ion Beam, Electron Microscopy, and Autonomous Characterization Intern - Multiple Teams",
+      "category": "software-engineering",
+      "apply_url": "https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Graduate-Intern---Focused-Ion-Beam--Electron-Microscopy--and-Autonomous-Characterization_R14431",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Golden",
+          "state": "CO",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters",
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-29",
+        "discovered": "2026-07-29",
+        "last_verified": "2026-07-29"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -41312,6 +41470,110 @@
     },
     {
       "schema_version": "1.0",
+      "id": "rockwell-automation-applied-ai-intern-2026-a2c6d2",
+      "company": {
+        "name": "Rockwell Automation",
+        "slug": "rockwell-automation"
+      },
+      "role": "Applied AI Intern",
+      "category": "ai",
+      "apply_url": "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Austin-Texas-United-States/Intern--Applied-AI_R26-5631-2",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Austin",
+          "state": "TX",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-29",
+        "discovered": "2026-07-29",
+        "last_verified": "2026-07-29"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "rockwell-automation-applied-ai-intern-2026",
+      "company": {
+        "name": "Rockwell Automation",
+        "slug": "rockwell-automation"
+      },
+      "role": "Applied AI Intern",
+      "category": "ai",
+      "apply_url": "https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Austin-Texas-United-States/Intern--Applied-AI_R26-5631-1",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Austin",
+          "state": "TX",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-29",
+        "discovered": "2026-07-29",
+        "last_verified": "2026-07-29"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "rockwell-automation-firmware-engineering-intern-2026-143a3f",
       "company": {
         "name": "Rockwell Automation",
@@ -41737,7 +41999,7 @@
       },
       "role": "Software Engineer Intern",
       "category": "software-engineering",
-      "apply_url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-PA-STATE-COLLEGE-5A--302-Science-Park-Rd--BLDG-5A/Software-Engineering-Intern--On-site-_01860801",
+      "apply_url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-PA-STATE-COLLEGE-5A--302-Science-Park-Rd--BLDG-5A/Software-Engineering-Intern--Summer-2027-_01862842",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
@@ -41772,11 +42034,11 @@
         "resume_keywords": []
       },
       "dates": {
-        "posted": "2026-07-27",
+        "posted": "2026-07-29",
         "discovered": "2026-07-27",
-        "last_verified": "2026-07-28"
+        "last_verified": "2026-07-29"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"

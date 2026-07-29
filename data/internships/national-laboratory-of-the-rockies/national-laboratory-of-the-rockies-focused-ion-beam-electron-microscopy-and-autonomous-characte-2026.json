@@ -1,20 +1,21 @@
 {
   "schema_version": "1.0",
-  "id": "kinaxis-engineer-co-op-intern-data-analytics-2026",
+  "id": "national-laboratory-of-the-rockies-focused-ion-beam-electron-microscopy-and-autonomous-characte-2026",
   "company": {
-    "name": "Kinaxis",
-    "slug": "kinaxis"
+    "name": "National Laboratory of the Rockies",
+    "slug": "national-laboratory-of-the-rockies"
   },
-  "role": "Engineer Co-op/Intern - Data & Analytics",
+  "role": "Focused Ion Beam, Electron Microscopy, and Autonomous Characterization Intern - Multiple Teams",
   "category": "software-engineering",
-  "apply_url": "https://careers-kinaxis.icims.com/jobs/34766/job?mobile=true&needsRedirect=false",
+  "apply_url": "https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Graduate-Intern---Focused-Ion-Beam--Electron-Microscopy--and-Autonomous-Characterization_R14431",
   "season": "fall",
   "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Ottawa",
-      "country": "ON"
+      "city": "Golden",
+      "state": "CO",
+      "country": "USA"
     }
   ],
   "compensation": {
@@ -24,7 +25,10 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "masters",
+      "phd"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -39,11 +43,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-05-20",
-    "discovered": "2026-07-17",
+    "posted": "2026-07-29",
+    "discovered": "2026-07-29",
     "last_verified": "2026-07-29"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

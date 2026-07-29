@@ -46,6 +46,7 @@
 | [Ardian](../companies/ardian.md) | 1/1 | data-science |
 | [Argmax](../companies/argmax.md) | 1/1 | ai |
 | [Argonne National Laboratory](../companies/argonne-national-laboratory.md) | 1/1 | software-engineering |
+| [Arkema Global](../companies/arkema-global.md) | 1/1 | software-engineering |
 | [Arlington County VA](../companies/arlington-county-va.md) | 1/1 | software-engineering |
 | [Arrowstreet Capital](../companies/arrowstreet-capital.md) | 1/2 | quant |
 | [Assurant](../companies/assurant.md) | 1/1 | ai |
@@ -56,7 +57,7 @@
 | [Axis Capital](../companies/axis-capital.md) | 1/1 | software-engineering |
 | [Axogen](../companies/axogen.md) | 0/1 | machine-learning |
 | [Axon](../companies/axon.md) | 1/1 | software-engineering |
-| [BDO Canada](../companies/bdo-canada.md) | 1/2 | software-engineering |
+| [BDO Canada](../companies/bdo-canada.md) | 0/2 | software-engineering |
 | [BMO](../companies/bmo.md) | 0/1 | machine-learning |
 | [Bank of Montreal](../companies/bank-of-montreal.md) | 2/5 | ai, data-science, software-engineering |
 | [Barclays](../companies/barclays.md) | 1/1 | quant |
@@ -167,7 +168,7 @@
 | [G-Research](../companies/g-research.md) | 4/4 | data-science, machine-learning, quant, software-engineering |
 | [GE Aerospace](../companies/ge-aerospace.md) | 0/1 | software-engineering |
 | [GE Appliances](../companies/ge-appliances.md) | 0/1 | software-engineering |
-| [GE Healthcare](../companies/ge-healthcare.md) | 0/2 | hardware, software-engineering |
+| [GE Healthcare](../companies/ge-healthcare.md) | 2/2 | hardware, software-engineering |
 | [GE Vernova](../companies/ge-vernova.md) | 0/2 | product |
 | [GRITT ROBOTICS INC](../companies/gritt-robotics-inc.md) | 1/1 | machine-learning |
 | [Gemini](../companies/gemini.md) | 2/2 | software-engineering |
@@ -219,17 +220,18 @@
 | [KRAFTON](../companies/krafton.md) | 1/1 | software-engineering |
 | [Kepler Communications](../companies/kepler-communications.md) | 1/1 | hardware |
 | [Keysight Technologies](../companies/keysight-technologies.md) | 2/2 | machine-learning, software-engineering |
-| [Kinaxis](../companies/kinaxis.md) | 1/2 | software-engineering |
+| [Kinaxis](../companies/kinaxis.md) | 0/2 | software-engineering |
 | [Kirin](../companies/kirin.md) | 2/2 | ai, quant |
 | [Kodak](../companies/kodak.md) | 1/1 | software-engineering |
 | [Kognitos](../companies/kognitos.md) | 1/1 | software-engineering |
 | [Kudu Dynamics](../companies/kudu-dynamics.md) | 0/3 | software-engineering |
 | [Lawrence Livermore National Laboratory (LLNL)](../companies/lawrence-livermore-national-laboratory-llnl.md) | 2/2 | software-engineering |
 | [Leidos](../companies/leidos.md) | 1/1 | software-engineering |
-| [LexisNexis Risk Solutions](../companies/lexisnexis-risk-solutions.md) | 0/1 | software-engineering |
+| [LexisNexis Risk Solutions](../companies/lexisnexis-risk-solutions.md) | 1/1 | software-engineering |
 | [Light & Wonder](../companies/light-wonder.md) | 0/1 | software-engineering |
 | [Littelfuse](../companies/littelfuse.md) | 1/1 | software-engineering |
 | [LiveRamp](../companies/liveramp.md) | 0/1 | software-engineering |
+| [Loop](../companies/loop.md) | 1/1 | data-science |
 | [Mackenzie Investments](../companies/mackenzie-investments.md) | 0/1 | ai |
 | [Magna](../companies/magna.md) | 1/1 | software-engineering |
 | [Markem-Imaje](../companies/markem-imaje.md) | 1/1 | software-engineering |
@@ -259,7 +261,7 @@
 | [NXP Semiconductors](../companies/nxp-semiconductors.md) | 1/3 | ai, design, software-engineering |
 | [Nash](../companies/nash.md) | 1/1 | software-engineering |
 | [NationGraph](../companies/nationgraph.md) | 2/2 | software-engineering |
-| [National Laboratory of the Rockies](../companies/national-laboratory-of-the-rockies.md) | 3/5 | cloud, data-science, software-engineering |
+| [National Laboratory of the Rockies](../companies/national-laboratory-of-the-rockies.md) | 4/6 | cloud, data-science, software-engineering |
 | [Navy Federal](../companies/navy-federal.md) | 0/1 | software-engineering |
 | [Naïve](../companies/na-ve.md) | 1/1 | software-engineering |
 | [Nelnet](../companies/nelnet.md) | 1/1 | ai |
@@ -311,7 +313,7 @@
 | [Quadrillion Labs](../companies/quadrillion-labs.md) | 1/1 | software-engineering |
 | [RFCUNY](../companies/rfcuny.md) | 1/2 | software-engineering |
 | [ROCKWOOL Group](../companies/rockwool-group.md) | 1/2 | product, software-engineering |
-| [RTX](../companies/rtx.md) | 1/2 | machine-learning, software-engineering |
+| [RTX](../companies/rtx.md) | 2/2 | machine-learning, software-engineering |
 | [Radix Trading](../companies/radix-trading.md) | 1/1 | quant |
 | [Rainmaker](../companies/rainmaker.md) | 0/1 | software-engineering |
 | [Rakuten International](../companies/rakuten-international.md) | 0/1 | software-engineering |
@@ -329,7 +331,7 @@
 | [Robert Bosch LLC](../companies/robert-bosch-llc.md) | 1/1 | software-engineering |
 | [Robert Bosch Venture Capital](../companies/robert-bosch-venture-capital.md) | 0/1 | embedded |
 | [Rocket Lab](../companies/rocket-lab.md) | 0/1 | software-engineering |
-| [Rockwell Automation](../companies/rockwell-automation.md) | 2/2 | embedded |
+| [Rockwell Automation](../companies/rockwell-automation.md) | 4/4 | ai, embedded |
 | [Royal Bank of Canada](../companies/royal-bank-of-canada.md) | 2/3 | software-engineering |
 | [SOTI](../companies/soti.md) | 3/3 | data-science, product |
 | [SPREEAI](../companies/spreeai.md) | 1/1 | ai |

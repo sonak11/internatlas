@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 📊 Data Science Internships
 
-**16** tracked · **11** open now
+**17** tracked · **12** open now
 
 ## Current openings
 
@@ -16,6 +16,7 @@
 | [HireVue](generated/companies/hirevue.md) | [Data Science Intern](https://jobs.smartrecruiters.com/HireVue/744000138728139) | Draper, UT | Onsite | 2026-07-20 | Rolling | 🟢 Open | ❔ |
 | [Integra FEC](generated/companies/integra-fec.md) | [Data Scientist Intern](https://job-boards.greenhouse.io/integrainterns/jobs/5134593008) | Austin, TX | Onsite | 2026-04-28 | Rolling | 🟢 Open | ❔ |
 | [Integra FEC](generated/companies/integra-fec.md) | [Data Scientist Intern - PhD](https://job-boards.greenhouse.io/integra/jobs/5134592008) | Austin, TX | Onsite | 2026-04-28 | Rolling | 🟢 Open | ❔ |
+| [Loop](generated/companies/loop.md) | [Data Scientist Intern](https://ats.rippling.com/loop-careers/jobs/e016b693-7ce9-4dad-95ff-03b934fbd580) | Toronto | Onsite | 2026-07-29 | Rolling | 🟢 Open | ❔ |
 | [Red Bull](generated/companies/red-bull.md) | [Data Science Intern - Data Science](https://jobs.smartrecruiters.com/RedBull/744000139168339) | Morristown, NJ | Onsite | 2026-07-23 | Rolling | 🟢 Open | ❔ |
 | [SOTI](generated/companies/soti.md) | [Data Scientist Intern](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Data-Scientist--Intern--September-2026-12-Months-_R10065) | Mississauga | Onsite | 2026-05-12 | Rolling | 🟢 Open | ❔ |
 | [Walleye Capital](generated/companies/walleye-capital.md) | [Investment Data Science Intern](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4676587006) | NYC +1 | Onsite | 2026-06-10 | Rolling | 🟢 Open | ❔ |
@@ -35,6 +36,7 @@
 - Ensemble Health Partners (1)
 - G-Research (1)
 - HireVue (1)
+- Loop (1)
 - Red Bull (1)
 - SOTI (1)
 - Walleye Capital (1)

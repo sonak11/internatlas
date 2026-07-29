@@ -1,19 +1,19 @@
 {
   "schema_version": "1.0",
-  "id": "kinaxis-engineer-co-op-intern-data-analytics-2026",
+  "id": "loop-data-scientist-intern-2026",
   "company": {
-    "name": "Kinaxis",
-    "slug": "kinaxis"
+    "name": "Loop",
+    "slug": "loop"
   },
-  "role": "Engineer Co-op/Intern - Data & Analytics",
-  "category": "software-engineering",
-  "apply_url": "https://careers-kinaxis.icims.com/jobs/34766/job?mobile=true&needsRedirect=false",
+  "role": "Data Scientist Intern",
+  "category": "data-science",
+  "apply_url": "https://ats.rippling.com/loop-careers/jobs/e016b693-7ce9-4dad-95ff-03b934fbd580",
   "season": "fall",
   "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Ottawa",
+      "city": "Toronto",
       "country": "ON"
     }
   ],
@@ -39,11 +39,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-05-20",
-    "discovered": "2026-07-17",
+    "posted": "2026-07-29",
+    "discovered": "2026-07-29",
     "last_verified": "2026-07-29"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

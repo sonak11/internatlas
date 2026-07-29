@@ -33,9 +33,9 @@ _Generated 2026-07-29_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 530 | `████████████` |
+| software-engineering | 532 | `████████████` |
 | quant | 116 | `███` |
-| ai | 108 | `███` |
+| ai | 110 | `███` |
 | machine-learning | 70 | `██` |
 | research | 55 | `█` |
 | hardware | 51 | `█` |
@@ -43,17 +43,23 @@ _Generated 2026-07-29_
 | cloud | 26 | `█` |
 | product | 24 | `█` |
 | design | 23 | `█` |
-| data-science | 16 | `█` |
+| data-science | 17 | `█` |
 | data-engineering | 13 | `█` |
 | security | 7 | `█` |
 
 ## Newest listings
 
+- 2026-07-29 — **Arkema Global**: [Manufacturing Data Systems Intern](https://jobs.arkema.com/job/Radnor-Manufacturing-Data-Systems-Intern-Job-PA/1420491833/?ats=successfactors)
 - 2026-07-29 — **Bosch Home Comfort**: [Autonomous Driving Intern](https://jobs.smartrecruiters.com/BoschGroup/744000140462550)
 - 2026-07-29 — **Bosch Home Comfort**: [Product Management Intern](https://jobs.smartrecruiters.com/BoschGroup/744000140457960)
 - 2026-07-29 — **Cloudflare**: [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407)
 - 2026-07-29 — **Leidos**: [Software Developer Intern](https://leidos.wd5.myworkdayjobs.com/External/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00188311)
+- 2026-07-29 — **Loop**: [Data Scientist Intern](https://ats.rippling.com/loop-careers/jobs/e016b693-7ce9-4dad-95ff-03b934fbd580)
+- 2026-07-29 — **National Laboratory of the Rockies**: [Focused Ion Beam, Electron Microscopy, and Autonomous Characterization Intern - Multiple Teams](https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Graduate-Intern---Focused-Ion-Beam--Electron-Microscopy--and-Autonomous-Characterization_R14431)
 - 2026-07-29 — **Richemont**: [Sustainability Transformation Analyst Intern](https://richemont.wd3.myworkdayjobs.com/richemont/job/BELLEVUE/Sustainability-Transformation-Analyst-Intern_JR132092)
+- 2026-07-29 — **Rockwell Automation**: [Applied AI Intern](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Austin-Texas-United-States/Intern--Applied-AI_R26-5631-2)
+- 2026-07-29 — **Rockwell Automation**: [Applied AI Intern](https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Austin-Texas-United-States/Intern--Applied-AI_R26-5631-1)
+- 2026-07-29 — **RTX**: [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-PA-STATE-COLLEGE-5A--302-Science-Park-Rd--BLDG-5A/Software-Engineering-Intern--Summer-2027-_01862842)
 - 2026-07-29 — **TikTok**: [Efficiency Analyst/Methodologist Project Intern - Content Operations - Tiktok-Operations-Operations Efficiency](https://lifeattiktok.com/search/7667613782697232693)
 - 2026-07-29 — **TikTok**: [Machine Learning Engineer Intern - Tiktok-Data-Search-Search Quality](https://lifeattiktok.com/search/7667690418804902149)
 - 2026-07-29 — **Virtu Financial**: [2027 Internship - Frontend & User Experience](https://job-boards.greenhouse.io/virtu/jobs/8657500002)
@@ -63,12 +69,6 @@ _Generated 2026-07-29_
 - 2026-07-28 — **Axis Capital**: [Renewable Energy Engineer Intern](https://axiscapital.wd1.myworkdayjobs.com/axiscareers/job/London---Scalpel/Renewable-Energy-Engineering-Intern_REQ06664-1)
 - 2026-07-28 — **Bank of Montreal**: [Data and AI Operations Analyst Co-op/Internship - Cloud](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Data-and-AI-Operations-Analyst--Cloud---Fall-2026--Co-op-Internship----8-months_R260021724-1)
 - 2026-07-28 — **Bank of Montreal**: [Data and AI Operations Analyst Co-op/Internship - Cloud](https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Data-and-AI-Operations-Analyst--Cloud---Fall-2026--Co-op-Internship----8-months_R260021724-2)
-- 2026-07-28 — **Bosch Home Comfort**: [ADAS Software Engineer Intern](https://jobs.smartrecruiters.com/BoschGroup/744000140317669)
-- 2026-07-28 — **Brunswick**: [Software Engineer Intern](https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Champaign-IL/Software-Engineer-Intern_JR-050991)
-- 2026-07-28 — **Ciena**: [Software Liquid Spectrum Applications Intern](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Liquid-Spectrum-Applications-Intern--Fall-2026-_R031412)
-- 2026-07-28 — **Cloudflare**: [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089379)
-- 2026-07-28 — **Cloudflare**: [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400)
-- 2026-07-28 — **Cloudflare**: [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379)
 
 ## Recently closed
 
@@ -91,6 +91,7 @@ _Generated 2026-07-29_
 - Bank of Montreal — Data and AI Operations Analyst Co-op/Internship - Cloud
 - Bank of Montreal — Data and AI Operations Analyst Co-op/Internship - Cloud
 - Bank of Montreal — Data and AI Operations Analyst Intern/Co-op - Cloud - 8 months
+- BDO Canada — Data & Analytics Co-op/Intern - Data & Analytics
 - BDO Canada — Indirect Tax Intern Co-op - Indirect Tax
 - BMO — Machine Learning Intern
 - Bosch Home Comfort — Business Intelligence Intern
@@ -149,8 +150,6 @@ _Generated 2026-07-29_
 - Freeform — Process Engineer Intern
 - GE Aerospace — Engineer Intern
 - GE Appliances — Engineering Intern/Co-op
-- GE Healthcare — Engineering Development Program Intern - Hardware
-- GE Healthcare — Engineering Development Program Intern - Software
 - GE Vernova — GE Vernova Grid Automation Product Management Intern
 - GE Vernova — GE Vernova Grid Automation Product Management Intern
 - Generac — Data Science Intern
@@ -185,11 +184,11 @@ _Generated 2026-07-29_
 - Jump Trading — Campus Quantitative Researcher Intern
 - Junior AI — Software Engineer Intern
 - KBR — National Security Solutions Intern - Nss
+- Kinaxis — Engineer Co-op/Intern - Data & Analytics
 - Kinaxis — Software Development Co-op/Intern - C++
 - Kudu Dynamics — Software Engineer Intern
 - Kudu Dynamics — Software Engineer Intern
 - Kudu Dynamics — Software Engineer Intern
-- LexisNexis Risk Solutions — Editorial Data Reporting Intern
 - Light & Wonder — Mathematics Intern
 - LiveRamp — Software Engineer Intern, Pixel Serving
 - Mackenzie Investments — Data Science and AI Specialist Intern - Investment Management - Fundamental Equity
@@ -250,7 +249,6 @@ _Generated 2026-07-29_
 - Rocket Lab — Software Intern
 - ROCKWOOL Group — Product Management Intern
 - Royal Bank of Canada — Student Intern - Data Analyst - Personal Banking
-- RTX — Software Engineer Intern
 - Salesforce — Associate Product Manager Intern - Associate Product Manager
 - Salesforce — Associate Product Manager Intern - Associate Product Manager
 - Salesforce — Software Engineer Intern(Futureforce Summer 2027)
