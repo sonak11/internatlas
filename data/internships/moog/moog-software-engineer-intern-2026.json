@@ -16,11 +16,6 @@
       "city": "Buffalo",
       "state": "NY",
       "country": "USA"
-    },
-    {
-      "city": "Boston",
-      "state": "NY",
-      "country": "USA"
     }
   ],
   "compensation": {
@@ -47,7 +42,7 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-22",
+    "posted": "2026-07-27",
     "discovered": "2026-07-27",
     "last_verified": "2026-07-29"
   },

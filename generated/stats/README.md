@@ -33,7 +33,7 @@ _Generated 2026-07-29_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 525 | `████████████` |
+| software-engineering | 526 | `████████████` |
 | quant | 115 | `███` |
 | ai | 108 | `███` |
 | machine-learning | 70 | `██` |
@@ -58,6 +58,7 @@ _Generated 2026-07-29_
 - 2026-07-28 — **Bank of Montreal**: [Data and AI Operations Analyst Co-op/Internship - Cloud](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Data-and-AI-Operations-Analyst--Cloud---Fall-2026--Co-op-Internship----8-months_R260021724-1)
 - 2026-07-28 — **Bank of Montreal**: [Data and AI Operations Analyst Co-op/Internship - Cloud](https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Data-and-AI-Operations-Analyst--Cloud---Fall-2026--Co-op-Internship----8-months_R260021724-2)
 - 2026-07-28 — **Bosch Home Comfort**: [ADAS Software Engineer Intern](https://jobs.smartrecruiters.com/BoschGroup/744000140317669)
+- 2026-07-28 — **Brunswick**: [Software Engineer Intern](https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Champaign-IL/Software-Engineer-Intern_JR-050991)
 - 2026-07-28 — **Ciena**: [Software Liquid Spectrum Applications Intern](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Liquid-Spectrum-Applications-Intern--Fall-2026-_R031412)
 - 2026-07-28 — **Cloudflare**: [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089379)
 - 2026-07-28 — **Cloudflare**: [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400)
@@ -68,7 +69,6 @@ _Generated 2026-07-29_
 - 2026-07-28 — **Gemini**: [Software Engineering Intern](https://job-boards.greenhouse.io/embed/job_app?for=gemini&token=7875125)
 - 2026-07-28 — **Kognitos**: [Forward Deployed Engineer Intern](https://jobs.ashbyhq.com/Kognitos/a4bc3ebf-b619-4c1b-9c9e-784d16c8b148/application?embed=true)
 - 2026-07-28 — **Modal**: [Machine Learning Research Intern](https://jobs.ashbyhq.com/modal/38888294-6bc7-4dab-b072-6d0f0c2ed79a/application?embed=true)
-- 2026-07-28 — **Modal**: [ML Research Intern](https://jobs.ashbyhq.com/modal/38888294-6bc7-4dab-b072-6d0f0c2ed79a)
 
 ## Recently closed
 
@@ -88,6 +88,8 @@ _Generated 2026-07-29_
 - Autodesk — Machine Learning Developer Intern
 - AVEVA — Software Developer Intern Co-op
 - Axogen — AI/ML Engineer Intern
+- Bank of Montreal — Data and AI Operations Analyst Co-op/Internship - Cloud
+- Bank of Montreal — Data and AI Operations Analyst Co-op/Internship - Cloud
 - Bank of Montreal — Data and AI Operations Analyst Intern/Co-op - Cloud - 8 months
 - BDO Canada — Indirect Tax Intern Co-op - Indirect Tax
 - BMO — Machine Learning Intern
@@ -186,7 +188,6 @@ _Generated 2026-07-29_
 - Kudu Dynamics — Software Engineer Intern
 - Kudu Dynamics — Software Engineer Intern
 - Kudu Dynamics — Software Engineer Intern
-- LexisNexis Risk Solutions — Editorial Data Reporting Intern
 - Light & Wonder — Mathematics Intern
 - LiveRamp — Software Engineer Intern, Pixel Serving
 - Mackenzie Investments — Data Science and AI Specialist Intern - Investment Management - Fundamental Equity

@@ -1,6 +1,6 @@
 # 📬 InternAtlas Weekly Digest — 2026-07-29
 
-## 🆕 New this week (192)
+## 🆕 New this week (193)
 
 - **Adtheorant** — [Enterprise AI Intern](https://careers-cadent.icims.com/jobs/1406/job?mobile=true&needsRedirect=false) · ai · —
 - **Anthelion Capital** — [Quant Developer / Quant Research Intern](https://jobs.ashbyhq.com/anthelioncap/5e2ea37b-2369-474e-b717-c24c60976e96/application?embed=true) · quant · —
@@ -26,6 +26,7 @@
 - **Bank of Montreal** — [Market Risk Analyst Co-op/Intern](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Market-Risk-Analyst--Fall-2026--Co-op-Internship----4-Months_R260022055) · software-engineering · —
 - **Bosch Home Comfort** — [ADAS Software Engineer Intern](https://jobs.smartrecruiters.com/BoschGroup/744000140317669) · software-engineering · —
 - **Bosch Home Comfort** — [Powertrain Controls Software Engineer Intern](https://jobs.smartrecruiters.com/BoschGroup/744000140089589) · software-engineering · —
+- **Brunswick** — [Software Engineer Intern](https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Champaign-IL/Software-Engineer-Intern_JR-050991) · software-engineering · —
 - **CCC Intelligent Solutions** — [Applied AI Engineer Intern](https://cccis.wd1.myworkdayjobs.com/broadbean_external/job/Chicago-Green-St-IL/Applied-AI-Engineering-Intern_0014827) · ai · —
 - **Carnegie Mellon University** — [Research Intern - School of Computer Science - Language Technologies Institute](https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Research-Intern---School-of-Computer-Science---LTI_2024870) · research · —
 - **Chanel** — [Data Intern - Global Data Program](https://cc.wd3.myworkdayjobs.com/ChanelCareers/job/London/Data-Intern---Global-Data-Program--H-F-X----September-2026_JOBREQ00115336) · software-engineering · —

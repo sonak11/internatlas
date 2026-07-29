@@ -1,6 +1,6 @@
 {
   "generated": "2026-07-29",
-  "count": 1069,
+  "count": 1070,
   "internships": [
     {
       "schema_version": "1.0",
@@ -6145,7 +6145,7 @@
         "discovered": "2026-07-29",
         "last_verified": "2026-07-29"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -6196,7 +6196,7 @@
         "discovered": "2026-07-29",
         "last_verified": "2026-07-29"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -7601,6 +7601,58 @@
       "dates": {
         "posted": "2026-07-04",
         "discovered": "2026-07-21",
+        "last_verified": "2026-07-29"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "brunswick-software-engineer-intern-2026",
+      "company": {
+        "name": "Brunswick",
+        "slug": "brunswick"
+      },
+      "role": "Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Champaign-IL/Software-Engineer-Intern_JR-050991",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Urbana",
+          "state": "IL",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-28",
+        "discovered": "2026-07-29",
         "last_verified": "2026-07-29"
       },
       "status": "open",
@@ -27632,7 +27684,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-29"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -30257,11 +30309,6 @@
           "city": "Buffalo",
           "state": "NY",
           "country": "USA"
-        },
-        {
-          "city": "Boston",
-          "state": "NY",
-          "country": "USA"
         }
       ],
       "compensation": {
@@ -30288,7 +30335,7 @@
         "resume_keywords": []
       },
       "dates": {
-        "posted": "2026-07-22",
+        "posted": "2026-07-27",
         "discovered": "2026-07-27",
         "last_verified": "2026-07-29"
       },
