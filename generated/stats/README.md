@@ -14,9 +14,9 @@ _Generated 2026-07-29_
 | Susquehanna International Group (SIG) | 19 |
 | Cloudflare | 18 |
 | Palantir Technologies | 17 |
+| TikTok | 17 |
 | Jane Street | 16 |
 | Meta | 15 |
-| TikTok | 15 |
 | IMC Trading | 14 |
 | Rivian and Volkswagen Group Technologies | 14 |
 | Etched | 12 |
@@ -33,10 +33,10 @@ _Generated 2026-07-29_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 524 | `████████████` |
+| software-engineering | 525 | `████████████` |
 | quant | 115 | `███` |
 | ai | 108 | `███` |
-| machine-learning | 69 | `██` |
+| machine-learning | 70 | `██` |
 | research | 54 | `█` |
 | hardware | 51 | `█` |
 | embedded | 38 | `█` |
@@ -49,6 +49,8 @@ _Generated 2026-07-29_
 
 ## Newest listings
 
+- 2026-07-29 — **TikTok**: [Efficiency Analyst/Methodologist Project Intern - Content Operations - Tiktok-Operations-Operations Efficiency](https://lifeattiktok.com/search/7667613782697232693)
+- 2026-07-29 — **TikTok**: [Machine Learning Engineer Intern - Tiktok-Data-Search-Search Quality](https://lifeattiktok.com/search/7667690418804902149)
 - 2026-07-28 — **Apple**: [Applied Data Solutions Program Intern](https://jobs.apple.com/en-us/details/200673612)
 - 2026-07-28 — **Apptronik**: [Software Engineer Intern, ML Systems](https://job-boards.greenhouse.io/apptronik/jobs/6128057004?gh_jid=6128057004)
 - 2026-07-28 — **Assurant**: [Digital & AI Transformation Intern](https://assurant.wd1.myworkdayjobs.com/External_Limited_Posting/job/Atlanta-GA/Digital---AI-Transformation-Intern_R-114103-3)
@@ -67,8 +69,6 @@ _Generated 2026-07-29_
 - 2026-07-28 — **Kognitos**: [Forward Deployed Engineer Intern](https://jobs.ashbyhq.com/Kognitos/a4bc3ebf-b619-4c1b-9c9e-784d16c8b148/application?embed=true)
 - 2026-07-28 — **Modal**: [Machine Learning Research Intern](https://jobs.ashbyhq.com/modal/38888294-6bc7-4dab-b072-6d0f0c2ed79a/application?embed=true)
 - 2026-07-28 — **Modal**: [ML Research Intern](https://jobs.ashbyhq.com/modal/38888294-6bc7-4dab-b072-6d0f0c2ed79a)
-- 2026-07-28 — **National Laboratory of the Rockies**: [Graduate Intern](https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Graduate--Year-Round--Intern---Industrial-and-Fuel-Supply-Optimization-Modeling-Analysis_R14426)
-- 2026-07-28 — **Nightwing**: [Software / Hardware Engineering Intern](https://nwis.wd12.myworkdayjobs.com/en-US/NW/job/Annapolis-Junction-MD/Software---Hardware-Engineering---Intern_JR101733)
 
 ## Recently closed
 
@@ -186,6 +186,7 @@ _Generated 2026-07-29_
 - Kudu Dynamics — Software Engineer Intern
 - Kudu Dynamics — Software Engineer Intern
 - Kudu Dynamics — Software Engineer Intern
+- LexisNexis Risk Solutions — Editorial Data Reporting Intern
 - Light & Wonder — Mathematics Intern
 - LiveRamp — Software Engineer Intern, Pixel Serving
 - Mackenzie Investments — Data Science and AI Specialist Intern - Investment Management - Fundamental Equity
@@ -216,7 +217,6 @@ _Generated 2026-07-29_
 - NVIDIA — Applied Research Intern - NLP
 - NVIDIA — Java Engineer Intern
 - NVIDIA — PhD Research Intern - Security and Privacy
-- NVIDIA — PhD Research Intern - System Software and I/O Architecture
 - NVIDIA — PhD Software Engineer Intern - Decision Intelligence
 - NVIDIA — Quantum Research Scientist Intern
 - NVIDIA — Software Engineering Intern, JAX

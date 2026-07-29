@@ -1,6 +1,6 @@
 {
   "generated": "2026-07-29",
-  "count": 1067,
+  "count": 1069,
   "internships": [
     {
       "schema_version": "1.0",
@@ -27632,7 +27632,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-29"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -34158,9 +34158,9 @@
       "dates": {
         "posted": "2026-07-02",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-29"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify",
@@ -52807,6 +52807,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "tiktok-efficiency-analyst-methodologist-project-intern-content-oper-2026-89a560",
+      "company": {
+        "name": "TikTok",
+        "slug": "tiktok"
+      },
+      "role": "Efficiency Analyst/Methodologist Project Intern - Content Operations - Tiktok-Operations-Operations Efficiency",
+      "category": "software-engineering",
+      "apply_url": "https://lifeattiktok.com/search/7667613782697232693",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-29",
+        "discovered": "2026-07-29",
+        "last_verified": "2026-07-29"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "tiktok-efficiency-analyst-methodologist-project-intern-content-oper-2026",
       "company": {
         "name": "TikTok",
@@ -53062,6 +53114,60 @@
       "dates": {
         "posted": "2026-03-31",
         "discovered": "2026-07-17",
+        "last_verified": "2026-07-29"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "tiktok-machine-learning-engineer-intern-tiktok-data-search-search-q-2026",
+      "company": {
+        "name": "TikTok",
+        "slug": "tiktok"
+      },
+      "role": "Machine Learning Engineer Intern - Tiktok-Data-Search-Search Quality",
+      "category": "machine-learning",
+      "apply_url": "https://lifeattiktok.com/search/7667690418804902149",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-29",
+        "discovered": "2026-07-29",
         "last_verified": "2026-07-29"
       },
       "status": "open",

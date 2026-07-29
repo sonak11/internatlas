@@ -1,17 +1,23 @@
 {
   "schema_version": "1.0",
-  "id": "lexisnexis-risk-solutions-editorial-data-reporting-intern-2026",
+  "id": "tiktok-machine-learning-engineer-intern-tiktok-data-search-search-q-2026",
   "company": {
-    "name": "LexisNexis Risk Solutions",
-    "slug": "lexisnexis-risk-solutions"
+    "name": "TikTok",
+    "slug": "tiktok"
   },
-  "role": "Editorial Data Reporting Intern",
-  "category": "software-engineering",
-  "apply_url": "https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Home-based-Washington-DC/Editorial-Data-Reporting-Intern_R112971-1",
+  "role": "Machine Learning Engineer Intern - Tiktok-Data-Search-Search Quality",
+  "category": "machine-learning",
+  "apply_url": "https://lifeattiktok.com/search/7667690418804902149",
   "season": "fall",
   "year": 2026,
-  "work_mode": "remote",
-  "locations": [],
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "San Jose",
+      "state": "CA",
+      "country": "USA"
+    }
+  ],
   "compensation": {
     "currency": "USD",
     "housing_stipend": false,
@@ -20,7 +26,7 @@
   "eligibility": {
     "graduation_years": [],
     "degree_levels": [
-      "masters"
+      "phd"
     ],
     "citizenship_required": false,
     "security_clearance_required": false,
@@ -36,11 +42,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-10",
-    "discovered": "2026-07-17",
+    "posted": "2026-07-29",
+    "discovered": "2026-07-29",
     "last_verified": "2026-07-29"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"
