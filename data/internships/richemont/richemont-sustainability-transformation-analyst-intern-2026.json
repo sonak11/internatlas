@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "chevron-corporation-supply-trading-trip-program-intern-2026",
+  "id": "richemont-sustainability-transformation-analyst-intern-2026",
   "company": {
-    "name": "Chevron Corporation",
-    "slug": "chevron-corporation"
+    "name": "Richemont",
+    "slug": "richemont"
   },
-  "role": "Supply & Trading TRIP Program Intern",
-  "category": "quant",
-  "apply_url": "https://chevron.wd5.myworkdayjobs.com/University/job/Houston-1400-Smith-Street/XMLNAME-2026-2027-Supply---Trading-TAMU-TRIP-Program-Intern_R000072485",
+  "role": "Sustainability Transformation Analyst Intern",
+  "category": "software-engineering",
+  "apply_url": "https://richemont.wd3.myworkdayjobs.com/richemont/job/BELLEVUE/Sustainability-Transformation-Analyst-Intern_JR132092",
   "season": "fall",
   "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Houston",
-      "state": "TX",
+      "city": "Bellevue",
+      "state": "WA",
       "country": "USA"
     }
   ],
@@ -25,7 +25,9 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "masters"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -40,8 +42,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-20",
-    "discovered": "2026-07-20",
+    "posted": "2026-07-29",
+    "discovered": "2026-07-29",
     "last_verified": "2026-07-29"
   },
   "status": "open",

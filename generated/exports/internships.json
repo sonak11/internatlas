@@ -1,6 +1,6 @@
 {
   "generated": "2026-07-29",
-  "count": 1071,
+  "count": 1072,
   "internships": [
     {
       "schema_version": "1.0",
@@ -9183,9 +9183,9 @@
       "dates": {
         "posted": "2026-07-20",
         "discovered": "2026-07-20",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-29"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -9344,9 +9344,9 @@
       "dates": {
         "posted": "2026-07-20",
         "discovered": "2026-07-20",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-07-29"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -9398,7 +9398,7 @@
         "discovered": "2026-07-20",
         "last_verified": "2026-07-29"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -10181,7 +10181,7 @@
         "discovered": "2026-07-20",
         "last_verified": "2026-07-29"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -12398,7 +12398,7 @@
         "discovered": "2026-07-27",
         "last_verified": "2026-07-29"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -12448,6 +12448,58 @@
       "dates": {
         "posted": "2026-07-15",
         "discovered": "2026-07-28",
+        "last_verified": "2026-07-29"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "copart-software-engineer-intern-2026-7f0d4f",
+      "company": {
+        "name": "Copart",
+        "slug": "copart"
+      },
+      "role": "Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR110011",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Dallas",
+          "state": "TX",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "yes"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-21",
+        "discovered": "2026-07-29",
         "last_verified": "2026-07-29"
       },
       "status": "open",
@@ -12614,58 +12666,6 @@
       "tags": [
         "auto-ingested",
         "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "copart-software-engineering-intern-2027",
-      "company": {
-        "name": "Copart",
-        "slug": "copart"
-      },
-      "role": "Software Engineering Intern",
-      "category": "software-engineering",
-      "apply_url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR110011",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Dallas",
-          "state": "TX",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "yes"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-07-24",
-        "discovered": "2026-07-29",
-        "last_verified": "2026-07-29"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:vanshb03"
       ]
     },
     {
@@ -14864,7 +14864,7 @@
         "discovered": "2026-07-28",
         "last_verified": "2026-07-29"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -14916,7 +14916,7 @@
         "discovered": "2026-07-28",
         "last_verified": "2026-07-29"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -27945,7 +27945,7 @@
         "discovered": "2026-07-24",
         "last_verified": "2026-07-29"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -39458,6 +39458,60 @@
     },
     {
       "schema_version": "1.0",
+      "id": "richemont-sustainability-transformation-analyst-intern-2026",
+      "company": {
+        "name": "Richemont",
+        "slug": "richemont"
+      },
+      "role": "Sustainability Transformation Analyst Intern",
+      "category": "software-engineering",
+      "apply_url": "https://richemont.wd3.myworkdayjobs.com/richemont/job/BELLEVUE/Sustainability-Transformation-Analyst-Intern_JR132092",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Bellevue",
+          "state": "WA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-29",
+        "discovered": "2026-07-29",
+        "last_verified": "2026-07-29"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "rippling-frontend-software-engineer-intern-2027",
       "company": {
         "name": "Rippling",
@@ -43268,7 +43322,7 @@
         "discovered": "2026-07-29",
         "last_verified": "2026-07-29"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"

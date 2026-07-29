@@ -33,7 +33,7 @@ _Generated 2026-07-29_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 527 | `████████████` |
+| software-engineering | 528 | `████████████` |
 | quant | 115 | `███` |
 | ai | 108 | `███` |
 | machine-learning | 70 | `██` |
@@ -49,6 +49,7 @@ _Generated 2026-07-29_
 
 ## Newest listings
 
+- 2026-07-29 — **Richemont**: [Sustainability Transformation Analyst Intern](https://richemont.wd3.myworkdayjobs.com/richemont/job/BELLEVUE/Sustainability-Transformation-Analyst-Intern_JR132092)
 - 2026-07-29 — **TikTok**: [Efficiency Analyst/Methodologist Project Intern - Content Operations - Tiktok-Operations-Operations Efficiency](https://lifeattiktok.com/search/7667613782697232693)
 - 2026-07-29 — **TikTok**: [Machine Learning Engineer Intern - Tiktok-Data-Search-Search Quality](https://lifeattiktok.com/search/7667690418804902149)
 - 2026-07-28 — **Apple**: [Applied Data Solutions Program Intern](https://jobs.apple.com/en-us/details/200673612)
@@ -68,7 +69,6 @@ _Generated 2026-07-29_
 - 2026-07-28 — **First Bank & Trust**: [SharePoint/Power Platform Intern - SharePoint - Power Platform](https://bankeasy.wd5.myworkdayjobs.com/bank-easy-job-openings/job/Brookings-SD-East/SharePoint-Power-Platform-Intern_R-100780)
 - 2026-07-28 — **Gemini**: [Software Engineering Intern](https://job-boards.greenhouse.io/embed/job_app?for=gemini&token=7875125)
 - 2026-07-28 — **Kognitos**: [Forward Deployed Engineer Intern](https://jobs.ashbyhq.com/Kognitos/a4bc3ebf-b619-4c1b-9c9e-784d16c8b148/application?embed=true)
-- 2026-07-28 — **Modal**: [Machine Learning Research Intern](https://jobs.ashbyhq.com/modal/38888294-6bc7-4dab-b072-6d0f0c2ed79a/application?embed=true)
 
 ## Recently closed
 
@@ -104,14 +104,10 @@ _Generated 2026-07-29_
 - Center for AI Safety — Research Engineer Intern
 - Centerstone — Bachelor Level Intern
 - Chevron Corporation — Earth Science Intern
-- Chevron Corporation — Intern
 - Chevron Corporation — Previous Intern - Earth Scientist
-- Chevron Corporation — Supply & Trading TAMU TRIP Program Intern
-- Chevron Corporation — Supply & Trading TRIP Program Intern
 - Ciena — Embedded Software Engineer Intern
 - Ciena — Embedded Software Engineer Intern
 - Ciena — Photonic Hardware Intern
-- Cirrus Logic — AI Business Analytics Co-op Intern
 - City of Aurora — Water GIS Intern
 - Cloudflare — AI Builder Intern - Global Customer Engineering - Service Sales
 - Cloudflare — AI Transformation Intern – Global Customer Engineering, Service Sales (Fall 2026)
@@ -120,7 +116,6 @@ _Generated 2026-07-29_
 - Composio — Full-stack Intern
 - Consensus Cloud Solutions — Sales Strategy & Analytics Intern
 - Constellation Space — Graduate Researcher Intern - Machine Learning
-- Copart — Data Engineer Intern
 - Copart — Technology Product Analyst Intern
 - Datasite — AI Transformation / Forward Deployed Engineer Intern - Forward Deployed Engineer
 - Datasite — Forward Deployed Engineer Intern
@@ -132,8 +127,6 @@ _Generated 2026-07-29_
 - DiDi Global — Motion Planning Engineer Intern
 - DNV — AI Research Intern
 - Duku AI — Tech Intern - Visiting
-- East Penn Manufacturing Company — Data Engineer Intern
-- East Penn Manufacturing Company — Power BI & Analytics Intern
 - Egra — AI Researcher Intern
 - Eight Sleep — Prototype & Test Engineer Intern - New Product Development
 - Ensemble Health Partners — Engineering Excellence Intern
@@ -196,7 +189,6 @@ _Generated 2026-07-29_
 - Light & Wonder — Mathematics Intern
 - LiveRamp — Software Engineer Intern, Pixel Serving
 - Mackenzie Investments — Data Science and AI Specialist Intern - Investment Management - Fundamental Equity
-- Magna — R&D-Computer Vision Engineer Intern
 - Marvell — Design Verification Engineer Intern
 - McKesson — Data Governance Analyst Intern
 - McKesson — Supply Chain Engineering and Analytics Intern
@@ -264,6 +256,7 @@ _Generated 2026-07-29_
 - Seaspan — Energy Management Intern
 - Signify — Product Management Intern
 - Skydio — Software Engineer Intern
+- Smith+Nephew — Operational Technology Intern
 - Solid Power — Product Development Intern
 - Sparksoft — Data Development Intern
 - Spectrum Control — Engineering Intern
