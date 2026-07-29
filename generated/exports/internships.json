@@ -1,6 +1,6 @@
 {
   "generated": "2026-07-29",
-  "count": 1070,
+  "count": 1069,
   "internships": [
     {
       "schema_version": "1.0",
@@ -3658,7 +3658,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "apptronik-software-engineer-intern-ml-systems-2026-4da7d9",
+      "id": "apptronik-software-engineer-intern-ml-systems-2026",
       "company": {
         "name": "Apptronik",
         "slug": "apptronik"
@@ -3666,58 +3666,6 @@
       "role": "Software Engineer Intern, ML Systems",
       "category": "machine-learning",
       "apply_url": "https://job-boards.greenhouse.io/apptronik/jobs/6128057004?gh_jid=6128057004",
-      "season": "fall",
-      "year": 2026,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Austin",
-          "state": "TX",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-07-28",
-        "discovered": "2026-07-28",
-        "last_verified": "2026-07-29"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:vanshb03"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "apptronik-software-engineer-intern-ml-systems-2026",
-      "company": {
-        "name": "Apptronik",
-        "slug": "apptronik"
-      },
-      "role": "Software Engineer Intern - ML Systems",
-      "category": "machine-learning",
-      "apply_url": "https://boards.greenhouse.io/apptronik/jobs/6128057004",
       "season": "fall",
       "year": 2026,
       "work_mode": "onsite",
@@ -3752,14 +3700,14 @@
         "resume_keywords": []
       },
       "dates": {
-        "posted": "2026-07-27",
+        "posted": "2026-07-28",
         "discovered": "2026-07-28",
         "last_verified": "2026-07-29"
       },
       "status": "open",
       "tags": [
         "auto-ingested",
-        "src:simplify"
+        "src:vanshb03"
       ]
     },
     {
@@ -7655,7 +7603,7 @@
         "discovered": "2026-07-29",
         "last_verified": "2026-07-29"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -10181,7 +10129,7 @@
         "discovered": "2026-07-20",
         "last_verified": "2026-07-29"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -12450,7 +12398,7 @@
         "discovered": "2026-07-28",
         "last_verified": "2026-07-29"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -12770,7 +12718,7 @@
         "discovered": "2026-07-20",
         "last_verified": "2026-07-29"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -13031,7 +12979,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-29"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -27684,7 +27632,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-29"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -34207,7 +34155,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-29"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify",
@@ -43643,7 +43591,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-29"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"

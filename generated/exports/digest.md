@@ -1,6 +1,6 @@
 # 📬 InternAtlas Weekly Digest — 2026-07-29
 
-## 🆕 New this week (193)
+## 🆕 New this week (192)
 
 - **Adtheorant** — [Enterprise AI Intern](https://careers-cadent.icims.com/jobs/1406/job?mobile=true&needsRedirect=false) · ai · —
 - **Anthelion Capital** — [Quant Developer / Quant Research Intern](https://jobs.ashbyhq.com/anthelioncap/5e2ea37b-2369-474e-b717-c24c60976e96/application?embed=true) · quant · —
@@ -12,7 +12,6 @@
 - **Appian** — [Software Engineering Intern](https://careers.appian.com/jobs/8041237-software-engineering-intern) · software-engineering · —
 - **Apple** — [Applied Data Solutions Program Intern](https://jobs.apple.com/en-us/details/200673612) · software-engineering · —
 - **Apptronik** — [Software Engineer Intern, ML Systems](https://job-boards.greenhouse.io/apptronik/jobs/6128057004?gh_jid=6128057004) · machine-learning · —
-- **Apptronik** — [Software Engineer Intern - ML Systems](https://boards.greenhouse.io/apptronik/jobs/6128057004) · machine-learning · —
 - **Arcadis** — [GIS Intern](https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/42762) · software-engineering · —
 - **Assurant** — [Digital & AI Transformation Intern](https://assurant.wd1.myworkdayjobs.com/External_Limited_Posting/job/Atlanta-GA/Digital---AI-Transformation-Intern_R-114103-3) · ai · —
 - **Astranis** — [Software Engineer Intern - Enterprise Systems](https://job-boards.greenhouse.io/astranis/jobs/4699071006) · software-engineering · —

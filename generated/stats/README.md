@@ -36,7 +36,7 @@ _Generated 2026-07-29_
 | software-engineering | 526 | `████████████` |
 | quant | 115 | `███` |
 | ai | 108 | `███` |
-| machine-learning | 70 | `██` |
+| machine-learning | 69 | `██` |
 | research | 54 | `█` |
 | hardware | 51 | `█` |
 | embedded | 38 | `█` |
@@ -94,6 +94,7 @@ _Generated 2026-07-29_
 - BDO Canada — Indirect Tax Intern Co-op - Indirect Tax
 - BMO — Machine Learning Intern
 - Bosch Home Comfort — Business Intelligence Intern
+- Brunswick — Software Engineer Intern
 - ByteDance — Research Scientist Intern - AI Infrastructure
 - ByteDance — Research Scientist Intern - AI Infrastructure
 - CACI — Software Engineering Intern
@@ -110,6 +111,7 @@ _Generated 2026-07-29_
 - Ciena — Embedded Software Engineer Intern
 - Ciena — Embedded Software Engineer Intern
 - Ciena — Photonic Hardware Intern
+- Cirrus Logic — AI Business Analytics Co-op Intern
 - City of Aurora — Water GIS Intern
 - City of Austin — Austin Aviation Undergraduate Intern - IT Business Systems Analyst
 - Cloudflare — AI Builder Intern - Global Customer Engineering - Service Sales
@@ -119,7 +121,10 @@ _Generated 2026-07-29_
 - Composio — Full-stack Intern
 - Consensus Cloud Solutions — Sales Strategy & Analytics Intern
 - Constellation Space — Graduate Researcher Intern - Machine Learning
+- Copart — Software Engineer Intern
 - Copart — Technology Product Analyst Intern
+- Copart — Technology Product Analyst Intern
+- CuspAI — Chemistry Intern - MLFF Distillation & GCMC Integration
 - Datasite — AI Transformation / Forward Deployed Engineer Intern - Forward Deployed Engineer
 - Datasite — Forward Deployed Engineer Intern
 - Deepgram — Software Engineer Intern
@@ -188,6 +193,7 @@ _Generated 2026-07-29_
 - Kudu Dynamics — Software Engineer Intern
 - Kudu Dynamics — Software Engineer Intern
 - Kudu Dynamics — Software Engineer Intern
+- LexisNexis Risk Solutions — Editorial Data Reporting Intern
 - Light & Wonder — Mathematics Intern
 - LiveRamp — Software Engineer Intern, Pixel Serving
 - Mackenzie Investments — Data Science and AI Specialist Intern - Investment Management - Fundamental Equity
@@ -218,6 +224,7 @@ _Generated 2026-07-29_
 - NVIDIA — Applied Research Intern - NLP
 - NVIDIA — Java Engineer Intern
 - NVIDIA — PhD Research Intern - Security and Privacy
+- NVIDIA — PhD Research Intern - System Software and I/O Architecture
 - NVIDIA — PhD Software Engineer Intern - Decision Intelligence
 - NVIDIA — Quantum Research Scientist Intern
 - NVIDIA — Software Engineering Intern, JAX
@@ -257,6 +264,7 @@ _Generated 2026-07-29_
 - Signify — Product Management Intern
 - Skydio — Software Engineer Intern
 - Solid Power — Product Development Intern
+- SOTI — Data Scientist Intern
 - Sparksoft — Data Development Intern
 - Spectrum Control — Engineering Intern
 - SS&C — Healthcare AI & Automation Intern
