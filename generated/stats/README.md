@@ -33,7 +33,7 @@ _Generated 2026-07-29_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 528 | `████████████` |
+| software-engineering | 530 | `████████████` |
 | quant | 115 | `███` |
 | ai | 108 | `███` |
 | machine-learning | 70 | `██` |
@@ -41,7 +41,7 @@ _Generated 2026-07-29_
 | hardware | 51 | `█` |
 | embedded | 38 | `█` |
 | cloud | 26 | `█` |
-| product | 23 | `█` |
+| product | 24 | `█` |
 | design | 23 | `█` |
 | data-science | 16 | `█` |
 | data-engineering | 13 | `█` |
@@ -49,6 +49,9 @@ _Generated 2026-07-29_
 
 ## Newest listings
 
+- 2026-07-29 — **Bosch Home Comfort**: [Autonomous Driving Intern](https://jobs.smartrecruiters.com/BoschGroup/744000140462550)
+- 2026-07-29 — **Bosch Home Comfort**: [Product Management Intern](https://jobs.smartrecruiters.com/BoschGroup/744000140457960)
+- 2026-07-29 — **Leidos**: [Software Developer Intern](https://leidos.wd5.myworkdayjobs.com/External/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00188311)
 - 2026-07-29 — **Richemont**: [Sustainability Transformation Analyst Intern](https://richemont.wd3.myworkdayjobs.com/richemont/job/BELLEVUE/Sustainability-Transformation-Analyst-Intern_JR132092)
 - 2026-07-29 — **TikTok**: [Efficiency Analyst/Methodologist Project Intern - Content Operations - Tiktok-Operations-Operations Efficiency](https://lifeattiktok.com/search/7667613782697232693)
 - 2026-07-29 — **TikTok**: [Machine Learning Engineer Intern - Tiktok-Data-Search-Search Quality](https://lifeattiktok.com/search/7667690418804902149)
@@ -66,9 +69,6 @@ _Generated 2026-07-29_
 - 2026-07-28 — **Cloudflare**: [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379)
 - 2026-07-28 — **Cloudflare**: [Software Engineer Intern](https://job-boards.greenhouse.io/cloudflare/jobs/8052785?gh_jid=8052785)
 - 2026-07-28 — **Field AI**: [Robotics Controls Intern - Robot Control Systems](https://jobs.lever.co/field-ai/8a3b5d4b-f88f-4704-bfdd-74e8dcd30704/apply)
-- 2026-07-28 — **First Bank & Trust**: [SharePoint/Power Platform Intern - SharePoint - Power Platform](https://bankeasy.wd5.myworkdayjobs.com/bank-easy-job-openings/job/Brookings-SD-East/SharePoint-Power-Platform-Intern_R-100780)
-- 2026-07-28 — **Gemini**: [Software Engineering Intern](https://job-boards.greenhouse.io/embed/job_app?for=gemini&token=7875125)
-- 2026-07-28 — **Kognitos**: [Forward Deployed Engineer Intern](https://jobs.ashbyhq.com/Kognitos/a4bc3ebf-b619-4c1b-9c9e-784d16c8b148/application?embed=true)
 
 ## Recently closed
 
@@ -149,6 +149,8 @@ _Generated 2026-07-29_
 - GE Appliances — Engineering Intern/Co-op
 - GE Healthcare — Engineering Development Program Intern - Hardware
 - GE Healthcare — Engineering Development Program Intern - Software
+- GE Vernova — GE Vernova Grid Automation Product Management Intern
+- GE Vernova — GE Vernova Grid Automation Product Management Intern
 - Generac — Data Science Intern
 - Generac — Engineering Intern
 - Generac — Software Engineer Intern
@@ -212,7 +214,6 @@ _Generated 2026-07-29_
 - North Cloud — AI Automation Intern
 - Northrop Grumman — Software Engineer Intern
 - Northrop Grumman — Software Engineer Intern
-- NVIDIA — Applied Deep Learning PhD Research Intern - Reinforcement Learning for LLMs
 - NVIDIA — Applied Research Intern - NLP
 - NVIDIA — Java Engineer Intern
 - NVIDIA — PhD Research Intern - Security and Privacy
@@ -286,5 +287,6 @@ _Generated 2026-07-29_
 - Verkada — Technical Support Engineering Intern - Fall 2026
 - Verne Robotics — Engineering Intern
 - Viavi Solutions — Software Development Data Analytics Intern
+- XTX Markets — Philanthropy Intern
 - Zipline — Applications Engineer Intern
 - Zipline — Embedded Software Engineer Intern
