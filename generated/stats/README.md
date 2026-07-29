@@ -2,17 +2,17 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 📊 Statistics
 
-_Generated 2026-07-28_
+_Generated 2026-07-29_
 
 ## Top hiring companies
 
 | Company | Listings |
 |---|---|
-| Tesla | 99 |
+| Tesla | 100 |
 | Jump Trading | 38 |
 | Neuralink | 19 |
 | Susquehanna International Group (SIG) | 19 |
-| Cloudflare | 17 |
+| Cloudflare | 18 |
 | Palantir Technologies | 17 |
 | Jane Street | 16 |
 | Meta | 15 |
@@ -22,21 +22,21 @@ _Generated 2026-07-28_
 | Etched | 12 |
 | Astranis | 11 |
 | Optiver | 11 |
+| Ciena | 9 |
 | NVIDIA | 9 |
 | Walleye Capital | 9 |
 | Akuna Capital | 8 |
 | Castleton Commodities International | 8 |
-| Ciena | 8 |
 | Copart | 8 |
 
 ## Listings by category
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 512 | `████████████` |
+| software-engineering | 524 | `████████████` |
 | quant | 115 | `███` |
-| ai | 104 | `██` |
-| machine-learning | 66 | `██` |
+| ai | 108 | `███` |
+| machine-learning | 69 | `██` |
 | research | 54 | `█` |
 | hardware | 51 | `█` |
 | embedded | 38 | `█` |
@@ -49,26 +49,26 @@ _Generated 2026-07-28_
 
 ## Newest listings
 
+- 2026-07-28 — **Apple**: [Applied Data Solutions Program Intern](https://jobs.apple.com/en-us/details/200673612)
 - 2026-07-28 — **Apptronik**: [Software Engineer Intern, ML Systems](https://job-boards.greenhouse.io/apptronik/jobs/6128057004?gh_jid=6128057004)
+- 2026-07-28 — **Assurant**: [Digital & AI Transformation Intern](https://assurant.wd1.myworkdayjobs.com/External_Limited_Posting/job/Atlanta-GA/Digital---AI-Transformation-Intern_R-114103-3)
+- 2026-07-28 — **Axis Capital**: [Renewable Energy Engineer Intern](https://axiscapital.wd1.myworkdayjobs.com/axiscareers/job/London---Scalpel/Renewable-Energy-Engineering-Intern_REQ06664-1)
+- 2026-07-28 — **Bank of Montreal**: [Data and AI Operations Analyst Co-op/Internship - Cloud](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Data-and-AI-Operations-Analyst--Cloud---Fall-2026--Co-op-Internship----8-months_R260021724-1)
+- 2026-07-28 — **Bank of Montreal**: [Data and AI Operations Analyst Co-op/Internship - Cloud](https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Data-and-AI-Operations-Analyst--Cloud---Fall-2026--Co-op-Internship----8-months_R260021724-2)
+- 2026-07-28 — **Bosch Home Comfort**: [ADAS Software Engineer Intern](https://jobs.smartrecruiters.com/BoschGroup/744000140317669)
+- 2026-07-28 — **Ciena**: [Software Liquid Spectrum Applications Intern](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Liquid-Spectrum-Applications-Intern--Fall-2026-_R031412)
+- 2026-07-28 — **Cloudflare**: [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089379)
 - 2026-07-28 — **Cloudflare**: [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400)
 - 2026-07-28 — **Cloudflare**: [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379)
 - 2026-07-28 — **Cloudflare**: [Software Engineer Intern](https://job-boards.greenhouse.io/cloudflare/jobs/8052785?gh_jid=8052785)
+- 2026-07-28 — **Field AI**: [Robotics Controls Intern - Robot Control Systems](https://jobs.lever.co/field-ai/8a3b5d4b-f88f-4704-bfdd-74e8dcd30704/apply)
+- 2026-07-28 — **First Bank & Trust**: [SharePoint/Power Platform Intern - SharePoint - Power Platform](https://bankeasy.wd5.myworkdayjobs.com/bank-easy-job-openings/job/Brookings-SD-East/SharePoint-Power-Platform-Intern_R-100780)
 - 2026-07-28 — **Gemini**: [Software Engineering Intern](https://job-boards.greenhouse.io/embed/job_app?for=gemini&token=7875125)
-- 2026-07-28 — **Modal**: [Research Intern](https://jobs.ashbyhq.com/modal/38888294-6bc7-4dab-b072-6d0f0c2ed79a)
+- 2026-07-28 — **Kognitos**: [Forward Deployed Engineer Intern](https://jobs.ashbyhq.com/Kognitos/a4bc3ebf-b619-4c1b-9c9e-784d16c8b148/application?embed=true)
+- 2026-07-28 — **Modal**: [Machine Learning Research Intern](https://jobs.ashbyhq.com/modal/38888294-6bc7-4dab-b072-6d0f0c2ed79a/application?embed=true)
+- 2026-07-28 — **Modal**: [ML Research Intern](https://jobs.ashbyhq.com/modal/38888294-6bc7-4dab-b072-6d0f0c2ed79a)
+- 2026-07-28 — **National Laboratory of the Rockies**: [Graduate Intern](https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Graduate--Year-Round--Intern---Industrial-and-Fuel-Supply-Optimization-Modeling-Analysis_R14426)
 - 2026-07-28 — **Nightwing**: [Software / Hardware Engineering Intern](https://nwis.wd12.myworkdayjobs.com/en-US/NW/job/Annapolis-Junction-MD/Software---Hardware-Engineering---Intern_JR101733)
-- 2026-07-28 — **Rendezvous Robotics**: [Software Engineering Intern](https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4328555009)
-- 2026-07-28 — **Rendezvous Robotics**: [Software Engineering Intern, Spring 2027](https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4329122009)
-- 2026-07-28 — **Smiths Detection Group**: [Commercial Intern - Commercial Tools & Business Intelligence](https://jobs.smartrecruiters.com/SmithsGroup2/744000140169009)
-- 2026-07-28 — **TikTok**: [Efficiency Analyst/Methodologist Project Intern - Content Operations - Tiktok-Operations-Operations Efficiency](https://lifeattiktok.com/search/7667248888103782661)
-- 2026-07-28 — **Touchdown Labs**: [Member of Technical Staff Intern](https://touchdown-labs.com/careers/mts-intern/?jr_id=6a68292c50dec41e3527e633)
-- 2026-07-27 — **Anthelion Capital**: [Quant Developer / Quant Research Intern](https://jobs.ashbyhq.com/anthelioncap/5e2ea37b-2369-474e-b717-c24c60976e96)
-- 2026-07-27 — **Appian**: [Information Security Engineer Intern](https://job-boards.greenhouse.io/appian/jobs/8088496)
-- 2026-07-27 — **Apptronik**: [Software Engineer Intern - ML Systems](https://boards.greenhouse.io/apptronik/jobs/6128057004)
-- 2026-07-27 — **Atomic Semi**: [Infrastructure Software Engineering Intern](https://jobs.ashbyhq.com/fab2/867c67f7-20b5-4726-b9da-85a760d3851e?embed=true)
-- 2026-07-27 — **Atomic Semi**: [Software Engineer Intern, Chip Design Tools](https://jobs.ashbyhq.com/fab2/907766af-a3c0-49a3-b01e-246baa437d10?embed=true)
-- 2026-07-27 — **Bank of Montreal**: [Data and AI Operations Analyst Intern/Co-op - Cloud - 8 months](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Data-and-AI-Operations-Analyst--Cloud---Fall-2026--Co-op-Internship----8-months_R260021724)
-- 2026-07-27 — **Bosch Home Comfort**: [Powertrain Controls Software Engineer Intern](https://jobs.smartrecruiters.com/BoschGroup/744000140089589)
-- 2026-07-27 — **CCC Intelligent Solutions**: [Applied AI Engineer Intern](https://cccis.wd1.myworkdayjobs.com/broadbean_external/job/Chicago-Green-St-IL/Applied-AI-Engineering-Intern_0014827)
 
 ## Recently closed
 
@@ -186,13 +186,13 @@ _Generated 2026-07-28_
 - Kudu Dynamics — Software Engineer Intern
 - Kudu Dynamics — Software Engineer Intern
 - Kudu Dynamics — Software Engineer Intern
-- LexisNexis Risk Solutions — Editorial Data Reporting Intern
 - Light & Wonder — Mathematics Intern
 - LiveRamp — Software Engineer Intern, Pixel Serving
 - Mackenzie Investments — Data Science and AI Specialist Intern - Investment Management - Fundamental Equity
 - Marvell — Design Verification Engineer Intern
 - McKesson — Data Governance Analyst Intern
 - McKesson — Supply Chain Engineering and Analytics Intern
+- Menasha Corporation — Material Innovation Center Intern
 - Meta — Research Scientist Intern - 3D Vision & World Simulation
 - Meta — Research Scientist Intern PhD - Applied Research
 - Microchip Technology — Applications Engineering Intern
@@ -203,7 +203,6 @@ _Generated 2026-07-28_
 - Mosaic — Operations & Automation Engineering Co-op/Intern
 - National Laboratory of the Rockies — Energy Data Analysis Intern
 - National Laboratory of the Rockies — Graduate Geospatial Data Science Intern
-- National Laboratory of the Rockies — Graduate Intern
 - Navy Federal — Year Round Intern - Business Intelligence Analyst
 - Neuralink — R&D Materials Engineer Intern
 - NewsBreak — Growth Engineer Intern - Growth Engineering
@@ -269,6 +268,7 @@ _Generated 2026-07-28_
 - T. Rowe Price — Technology and Data Intern
 - Tencent — Research Intern
 - Tencent — Research Intern
+- Tesla — Electronic Design Engineer Internship - Electronic Design Engineer - Electronic Systems
 - Tesla — Embedded Software Engineer Intern - Embedded Software Engineer - Steering,Chassis Systems
 - Tesla — Failure Analysis Engineer Intern - Failure Analysis Engineer - Energy Engineering
 - Tesla — Firmware Integration Engineer Intern - Software Integration Engineer - Factory Firmware

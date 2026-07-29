@@ -1,21 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "modal-research-intern-2027",
+  "id": "bank-of-montreal-data-and-ai-operations-analyst-co-op-internship-cloud-2026-cd4eaf",
   "company": {
-    "name": "Modal",
-    "slug": "modal",
-    "career_page": "https://modal.com/careers"
+    "name": "Bank of Montreal",
+    "slug": "bank-of-montreal"
   },
-  "role": "Research Intern",
-  "category": "research",
-  "apply_url": "https://jobs.ashbyhq.com/modal/38888294-6bc7-4dab-b072-6d0f0c2ed79a",
-  "season": "summer",
-  "year": 2027,
+  "role": "Data and AI Operations Analyst Co-op/Internship - Cloud",
+  "category": "ai",
+  "apply_url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Data-and-AI-Operations-Analyst--Cloud---Fall-2026--Co-op-Internship----8-months_R260021724-1",
+  "season": "fall",
+  "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "New York",
-      "country": "USA"
+      "city": "Toronto",
+      "country": "ON"
     }
   ],
   "compensation": {
@@ -41,12 +40,12 @@
   },
   "dates": {
     "posted": "2026-07-28",
-    "discovered": "2026-07-28",
-    "last_verified": "2026-07-28"
+    "discovered": "2026-07-29",
+    "last_verified": "2026-07-29"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:ats"
+    "src:simplify"
   ]
 }

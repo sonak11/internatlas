@@ -1,0 +1,51 @@
+{
+  "schema_version": "1.0",
+  "id": "zurich-insurance-data-analytics-ai-internship-co-op-data-analytics-ai-2026",
+  "company": {
+    "name": "Zurich Insurance",
+    "slug": "zurich-insurance"
+  },
+  "role": "Data Analytics & AI Internship/Co-op - Data Analytics & AI",
+  "category": "ai",
+  "apply_url": "https://www.careers.zurich.com/job/Toronto-Fall-2026-InternshipCo-op-Data-Analytics-&-AI-ON/1367953057/?ats=successfactors",
+  "season": "fall",
+  "year": 2026,
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "Toronto",
+      "country": "ON"
+    }
+  ],
+  "compensation": {
+    "currency": "USD",
+    "housing_stipend": false,
+    "relocation_assistance": false
+  },
+  "eligibility": {
+    "graduation_years": [],
+    "degree_levels": [],
+    "citizenship_required": false,
+    "security_clearance_required": false,
+    "visa_sponsorship": "unknown"
+  },
+  "interview": {},
+  "tech": {
+    "required_skills": [],
+    "preferred_skills": [],
+    "languages": [],
+    "frameworks": [],
+    "cloud_platforms": [],
+    "resume_keywords": []
+  },
+  "dates": {
+    "posted": "2026-07-28",
+    "discovered": "2026-07-29",
+    "last_verified": "2026-07-29"
+  },
+  "status": "open",
+  "tags": [
+    "auto-ingested",
+    "src:simplify"
+  ]
+}

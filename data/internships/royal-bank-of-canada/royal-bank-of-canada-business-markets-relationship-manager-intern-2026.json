@@ -1,0 +1,51 @@
+{
+  "schema_version": "1.0",
+  "id": "royal-bank-of-canada-business-markets-relationship-manager-intern-2026",
+  "company": {
+    "name": "Royal Bank of Canada",
+    "slug": "royal-bank-of-canada"
+  },
+  "role": "Business Markets Relationship Manager Intern",
+  "category": "software-engineering",
+  "apply_url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/BATHURST-New-Brunswick-Canada/Relationship-Manager-Business-Markets--Intern_R-0000182302",
+  "season": "fall",
+  "year": 2026,
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "Bathurst",
+      "country": "NB"
+    }
+  ],
+  "compensation": {
+    "currency": "USD",
+    "housing_stipend": false,
+    "relocation_assistance": false
+  },
+  "eligibility": {
+    "graduation_years": [],
+    "degree_levels": [],
+    "citizenship_required": false,
+    "security_clearance_required": false,
+    "visa_sponsorship": "unknown"
+  },
+  "interview": {},
+  "tech": {
+    "required_skills": [],
+    "preferred_skills": [],
+    "languages": [],
+    "frameworks": [],
+    "cloud_platforms": [],
+    "resume_keywords": []
+  },
+  "dates": {
+    "posted": "2026-07-28",
+    "discovered": "2026-07-29",
+    "last_verified": "2026-07-29"
+  },
+  "status": "open",
+  "tags": [
+    "auto-ingested",
+    "src:simplify"
+  ]
+}
