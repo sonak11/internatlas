@@ -34,7 +34,7 @@ _Generated 2026-07-29_
 | Category | Count | Share |
 |---|---|---|
 | software-engineering | 530 | `████████████` |
-| quant | 115 | `███` |
+| quant | 116 | `███` |
 | ai | 108 | `███` |
 | machine-learning | 70 | `██` |
 | research | 55 | `█` |
@@ -56,6 +56,7 @@ _Generated 2026-07-29_
 - 2026-07-29 — **Richemont**: [Sustainability Transformation Analyst Intern](https://richemont.wd3.myworkdayjobs.com/richemont/job/BELLEVUE/Sustainability-Transformation-Analyst-Intern_JR132092)
 - 2026-07-29 — **TikTok**: [Efficiency Analyst/Methodologist Project Intern - Content Operations - Tiktok-Operations-Operations Efficiency](https://lifeattiktok.com/search/7667613782697232693)
 - 2026-07-29 — **TikTok**: [Machine Learning Engineer Intern - Tiktok-Data-Search-Search Quality](https://lifeattiktok.com/search/7667690418804902149)
+- 2026-07-29 — **Virtu Financial**: [2027 Internship - Frontend & User Experience](https://job-boards.greenhouse.io/virtu/jobs/8657500002)
 - 2026-07-28 — **Apple**: [Applied Data Solutions Program Intern](https://jobs.apple.com/en-us/details/200673612)
 - 2026-07-28 — **Apptronik**: [Software Engineer Intern, ML Systems](https://job-boards.greenhouse.io/apptronik/jobs/6128057004?gh_jid=6128057004)
 - 2026-07-28 — **Assurant**: [Digital & AI Transformation Intern](https://assurant.wd1.myworkdayjobs.com/External_Limited_Posting/job/Atlanta-GA/Digital---AI-Transformation-Intern_R-114103-3)
@@ -68,7 +69,6 @@ _Generated 2026-07-29_
 - 2026-07-28 — **Cloudflare**: [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089379)
 - 2026-07-28 — **Cloudflare**: [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400)
 - 2026-07-28 — **Cloudflare**: [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379)
-- 2026-07-28 — **Cloudflare**: [Software Engineer Intern](https://job-boards.greenhouse.io/cloudflare/jobs/8052785?gh_jid=8052785)
 
 ## Recently closed
 
@@ -113,6 +113,7 @@ _Generated 2026-07-29_
 - Cloudflare — AI Builder Intern - Global Customer Engineering - Service Sales
 - Cloudflare — AI Transformation Intern – Global Customer Engineering, Service Sales (Fall 2026)
 - Cloudflare — EIAM Business Enablement & Operations Intern (Fall 2026)
+- Cloudflare — Sales Project Manager Intern (AI Innovation) (Fall 2026)
 - Cloudflare — Technical Support Engineer Intern (Fall 2026)
 - Composio — Full-stack Intern
 - Consensus Cloud Solutions — Sales Strategy & Analytics Intern
@@ -210,6 +211,7 @@ _Generated 2026-07-29_
 - Neuralink — R&D Materials Engineer Intern
 - NewsBreak — Growth Engineer Intern - Growth Engineering
 - Nokia — Data Science Co-op/Intern
+- Nokia — Embedded C/C++ Software Developer Co-op/Intern
 - Nokia — Incubation Developer Coop/Intern
 - Nokia — Product Development Intern/Co-op
 - North Cloud — AI Automation Intern
@@ -278,6 +280,7 @@ _Generated 2026-07-29_
 - Tesla — Embedded Software Engineer Intern - Embedded Software Engineer - Steering,Chassis Systems
 - Tesla — Failure Analysis Engineer Intern - Failure Analysis Engineer - Energy Engineering
 - Tesla — Firmware Integration Engineer Intern - Software Integration Engineer - Factory Firmware
+- Tesla — Machine Learning Platform Intern - Multiple Teams
 - Tesla — Software Engineer Intern - Simulation Platform - Software Engineer
 - Tesla — Software Engineer Intern - Software Engineer Opticaster - Energy Engineering
 - Tesla — Software Engineer Intern - Wireless Connectivity Software Engineer - Electronic Devices
@@ -285,6 +288,7 @@ _Generated 2026-07-29_
 - The Trade Desk — Software Engineering Intern
 - TikTok — Global Product Operations Manager Intern - Global Business Solutions
 - TMX Group — Software Engineer Intern - Java
+- Together AI — Research Intern - Inference
 - Torch Technologies — Software Engineer Intern
 - Tower Research Capital — Quantitative Trader Intern
 - Verkada — Technical Support Engineering Intern - Fall 2026
