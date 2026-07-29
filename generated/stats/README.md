@@ -242,6 +242,7 @@ _Generated 2026-07-29_
 - Revvity — Product Manager Intern
 - RFCUNY — IT & Data Systems Intern - Archibus & Applications Development
 - Rivian — Machine Learning Compiler Intern - Machine Learning Compiler
+- Rivian and Volkswagen Group Technologies — Software Engineer Intern Co-op - Android Connectivity
 - Roam — Engineer Intern
 - Robert Bosch Venture Capital — Hardware & Embedded Research Intern
 - Rocket Lab — Software Intern
