@@ -5,9 +5,9 @@
     "name": "Apptronik",
     "slug": "apptronik"
   },
-  "role": "Software Engineer Intern, ML Systems",
+  "role": "Software Engineer Intern - ML Systems",
   "category": "machine-learning",
-  "apply_url": "https://job-boards.greenhouse.io/apptronik/jobs/6128057004?gh_jid=6128057004",
+  "apply_url": "https://boards.greenhouse.io/apptronik/jobs/6128057004",
   "season": "fall",
   "year": 2026,
   "work_mode": "onsite",
@@ -42,13 +42,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-28",
+    "posted": "2026-07-27",
     "discovered": "2026-07-28",
     "last_verified": "2026-07-29"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:vanshb03"
+    "src:simplify"
   ]
 }

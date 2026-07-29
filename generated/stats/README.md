@@ -33,10 +33,10 @@ _Generated 2026-07-29_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 526 | `████████████` |
+| software-engineering | 527 | `████████████` |
 | quant | 115 | `███` |
 | ai | 108 | `███` |
-| machine-learning | 69 | `██` |
+| machine-learning | 70 | `██` |
 | research | 54 | `█` |
 | hardware | 51 | `█` |
 | embedded | 38 | `█` |
@@ -94,7 +94,6 @@ _Generated 2026-07-29_
 - BDO Canada — Indirect Tax Intern Co-op - Indirect Tax
 - BMO — Machine Learning Intern
 - Bosch Home Comfort — Business Intelligence Intern
-- Brunswick — Software Engineer Intern
 - ByteDance — Research Scientist Intern - AI Infrastructure
 - ByteDance — Research Scientist Intern - AI Infrastructure
 - CACI — Software Engineering Intern
@@ -108,12 +107,12 @@ _Generated 2026-07-29_
 - Chevron Corporation — Intern
 - Chevron Corporation — Previous Intern - Earth Scientist
 - Chevron Corporation — Supply & Trading TAMU TRIP Program Intern
+- Chevron Corporation — Supply & Trading TRIP Program Intern
 - Ciena — Embedded Software Engineer Intern
 - Ciena — Embedded Software Engineer Intern
 - Ciena — Photonic Hardware Intern
 - Cirrus Logic — AI Business Analytics Co-op Intern
 - City of Aurora — Water GIS Intern
-- City of Austin — Austin Aviation Undergraduate Intern - IT Business Systems Analyst
 - Cloudflare — AI Builder Intern - Global Customer Engineering - Service Sales
 - Cloudflare — AI Transformation Intern – Global Customer Engineering, Service Sales (Fall 2026)
 - Cloudflare — EIAM Business Enablement & Operations Intern (Fall 2026)
@@ -121,10 +120,8 @@ _Generated 2026-07-29_
 - Composio — Full-stack Intern
 - Consensus Cloud Solutions — Sales Strategy & Analytics Intern
 - Constellation Space — Graduate Researcher Intern - Machine Learning
-- Copart — Software Engineer Intern
+- Copart — Data Engineer Intern
 - Copart — Technology Product Analyst Intern
-- Copart — Technology Product Analyst Intern
-- CuspAI — Chemistry Intern - MLFF Distillation & GCMC Integration
 - Datasite — AI Transformation / Forward Deployed Engineer Intern - Forward Deployed Engineer
 - Datasite — Forward Deployed Engineer Intern
 - Deepgram — Software Engineer Intern
@@ -135,6 +132,8 @@ _Generated 2026-07-29_
 - DiDi Global — Motion Planning Engineer Intern
 - DNV — AI Research Intern
 - Duku AI — Tech Intern - Visiting
+- East Penn Manufacturing Company — Data Engineer Intern
+- East Penn Manufacturing Company — Power BI & Analytics Intern
 - Egra — AI Researcher Intern
 - Eight Sleep — Prototype & Test Engineer Intern - New Product Development
 - Ensemble Health Partners — Engineering Excellence Intern
@@ -197,6 +196,7 @@ _Generated 2026-07-29_
 - Light & Wonder — Mathematics Intern
 - LiveRamp — Software Engineer Intern, Pixel Serving
 - Mackenzie Investments — Data Science and AI Specialist Intern - Investment Management - Fundamental Equity
+- Magna — R&D-Computer Vision Engineer Intern
 - Marvell — Design Verification Engineer Intern
 - McKesson — Data Governance Analyst Intern
 - McKesson — Supply Chain Engineering and Analytics Intern
@@ -235,6 +235,7 @@ _Generated 2026-07-29_
 - Palantir Technologies — Forward Deployed Infrastructure Engineer Intern
 - Palantir Technologies — Forward Deployed Infrastructure Engineer Intern
 - Palantir Technologies — Forward Deployed Infrastructure Engineer Intern
+- Pennsylvania State University — R&D Engineer Intern
 - Pennsylvania State University — Research and Development Engineer Intern
 - Pennsylvania State University — Research Engineering Intern
 - Pinterest — PhD Fall Machine Learning Intern (ATG — Visual, Multimodal, and Recommender Systems)
@@ -264,7 +265,6 @@ _Generated 2026-07-29_
 - Signify — Product Management Intern
 - Skydio — Software Engineer Intern
 - Solid Power — Product Development Intern
-- SOTI — Data Scientist Intern
 - Sparksoft — Data Development Intern
 - Spectrum Control — Engineering Intern
 - SS&C — Healthcare AI & Automation Intern

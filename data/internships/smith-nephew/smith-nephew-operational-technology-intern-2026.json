@@ -1,21 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "city-of-austin-austin-aviation-undergraduate-intern-it-business-systems-ana-2026",
+  "id": "smith-nephew-operational-technology-intern-2026",
   "company": {
-    "name": "City of Austin",
-    "slug": "city-of-austin"
+    "name": "Smith+Nephew",
+    "slug": "smith-nephew"
   },
-  "role": "Austin Aviation Undergraduate Intern - IT Business Systems Analyst",
+  "role": "Operational Technology Intern",
   "category": "software-engineering",
-  "apply_url": "https://austintexas.wd5.myworkdayjobs.com/COA_Careers/job/AUS-Information-Systems-Building-IS/Austin-Aviation--IT-Business-Systems-Analyst---Undergraduate-Intern_JR104583",
+  "apply_url": "https://smithnephew.wd5.myworkdayjobs.com/External/job/UK---Hull-GBU-Office/Operational-Technology-Intern_R90941",
   "season": "fall",
   "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Austin",
-      "state": "TX",
-      "country": "USA"
+      "city": "Withernsea",
+      "country": "UK"
     }
   ],
   "compensation": {
@@ -40,8 +39,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-24",
-    "discovered": "2026-07-24",
+    "posted": "2026-06-05",
+    "discovered": "2026-07-29",
     "last_verified": "2026-07-29"
   },
   "status": "open",

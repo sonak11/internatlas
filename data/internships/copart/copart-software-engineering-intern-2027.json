@@ -1,19 +1,19 @@
 {
   "schema_version": "1.0",
-  "id": "city-of-austin-austin-aviation-undergraduate-intern-it-business-systems-ana-2026",
+  "id": "copart-software-engineering-intern-2027",
   "company": {
-    "name": "City of Austin",
-    "slug": "city-of-austin"
+    "name": "Copart",
+    "slug": "copart"
   },
-  "role": "Austin Aviation Undergraduate Intern - IT Business Systems Analyst",
+  "role": "Software Engineering Intern",
   "category": "software-engineering",
-  "apply_url": "https://austintexas.wd5.myworkdayjobs.com/COA_Careers/job/AUS-Information-Systems-Building-IS/Austin-Aviation--IT-Business-Systems-Analyst---Undergraduate-Intern_JR104583",
-  "season": "fall",
-  "year": 2026,
+  "apply_url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR110011",
+  "season": "summer",
+  "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Austin",
+      "city": "Dallas",
       "state": "TX",
       "country": "USA"
     }
@@ -28,7 +28,7 @@
     "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
-    "visa_sponsorship": "unknown"
+    "visa_sponsorship": "yes"
   },
   "interview": {},
   "tech": {
@@ -41,12 +41,12 @@
   },
   "dates": {
     "posted": "2026-07-24",
-    "discovered": "2026-07-24",
+    "discovered": "2026-07-29",
     "last_verified": "2026-07-29"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }
