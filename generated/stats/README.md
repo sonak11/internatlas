@@ -94,6 +94,7 @@ _Generated 2026-07-30_
 - Bank of Montreal — Data and AI Operations Analyst Co-op/Internship - Cloud
 - Bank of Montreal — Data and AI Operations Analyst Co-op/Internship - Cloud
 - Bank of Montreal — Data and AI Operations Analyst Intern/Co-op - Cloud - 8 months
+- Bank of Montreal — Market Risk Analyst Co-op/Intern
 - BDO Canada — Data & Analytics Co-op/Intern - Data & Analytics
 - BDO Canada — Indirect Tax Intern Co-op - Indirect Tax
 - BMO — Machine Learning Intern
@@ -103,9 +104,11 @@ _Generated 2026-07-30_
 - CACI — Software Engineering Intern
 - Cadence Design Systems — SSG Design Engineering Intern
 - Capital One — Data Science Intern
+- Capital One — Full Stack Software Engineer Intern
 - Capital One — Master's Data Science Internship
 - Capital One — Product Development Internship Program
 - Carnegie Mellon University — Research Intern - School of Computer Science - Language Technologies Institute
+- CCC Intelligent Solutions — Applied AI Engineer Intern
 - Center for AI Safety — Research Engineer Intern
 - Centerstone — Bachelor Level Intern
 - Chevron Corporation — Earth Science Intern
@@ -226,6 +229,7 @@ _Generated 2026-07-30_
 - North Cloud — AI Automation Intern
 - Northrop Grumman — Software Engineer Intern
 - Northrop Grumman — Software Engineer Intern
+- Notion — Software Engineer Intern
 - NVIDIA — Applied Deep Learning PhD Research Intern - Reinforcement Learning for LLMs
 - NVIDIA — Applied Research Intern - NLP
 - NVIDIA — Java Engineer Intern
@@ -301,6 +305,7 @@ _Generated 2026-07-30_
 - Together AI — Research Intern - Inference
 - Torch Technologies — Software Engineer Intern
 - Tower Research Capital — Quantitative Trader Intern
+- Varda Space — Mission Software – Intern - Python
 - Verkada — Technical Support Engineering Intern - Fall 2026
 - Verne Robotics — Engineering Intern
 - Viavi Solutions — Software Development Data Analytics Intern

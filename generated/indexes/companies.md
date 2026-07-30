@@ -59,7 +59,7 @@
 | [Axon](../companies/axon.md) | 1/1 | software-engineering |
 | [BDO Canada](../companies/bdo-canada.md) | 0/2 | software-engineering |
 | [BMO](../companies/bmo.md) | 0/1 | machine-learning |
-| [Bank of Montreal](../companies/bank-of-montreal.md) | 2/5 | ai, data-science, software-engineering |
+| [Bank of Montreal](../companies/bank-of-montreal.md) | 1/5 | ai, data-science, software-engineering |
 | [Barclays](../companies/barclays.md) | 1/1 | quant |
 | [Beacon Software](../companies/beacon-software.md) | 1/1 | software-engineering |
 | [Bild AI](../companies/bild-ai.md) | 1/1 | ai |
@@ -77,11 +77,11 @@
 | [Brunswick](../companies/brunswick.md) | 1/1 | software-engineering |
 | [ByteDance](../companies/bytedance.md) | 0/2 | ai |
 | [CACI](../companies/caci.md) | 0/1 | software-engineering |
-| [CCC Intelligent Solutions](../companies/ccc-intelligent-solutions.md) | 1/1 | ai |
+| [CCC Intelligent Solutions](../companies/ccc-intelligent-solutions.md) | 0/1 | ai |
 | [CME Group](../companies/cme-group.md) | 1/1 | quant |
 | [CTGT](../companies/ctgt.md) | 1/1 | software-engineering |
 | [Cadence Design Systems](../companies/cadence-design-systems.md) | 4/5 | design, software-engineering |
-| [Capital One](../companies/capital-one.md) | 2/5 | data-science, software-engineering |
+| [Capital One](../companies/capital-one.md) | 1/5 | data-science, software-engineering |
 | [Carnegie Mellon University](../companies/carnegie-mellon-university.md) | 0/1 | research |
 | [Castleton Commodities International](../companies/castleton-commodities-international.md) | 8/8 | data-engineering, machine-learning, quant, software-engineering |
 | [Center for AI Safety](../companies/center-for-ai-safety.md) | 0/1 | research |
@@ -278,7 +278,7 @@
 | [North Cloud](../companies/north-cloud.md) | 0/1 | ai |
 | [Northrop Grumman](../companies/northrop-grumman.md) | 0/2 | software-engineering |
 | [Northwestern Mutual](../companies/northwestern-mutual.md) | 1/1 | software-engineering |
-| [Notion](../companies/notion.md) | 6/6 | ai, software-engineering |
+| [Notion](../companies/notion.md) | 5/6 | ai, software-engineering |
 | [Nuro](../companies/nuro.md) | 1/1 | ai |
 | [Odin Dynamics, Inc](../companies/odin-dynamics-inc.md) | 1/1 | software-engineering |
 | [Old Mission](../companies/old-mission.md) | 1/1 | software-engineering |
@@ -404,7 +404,7 @@
 | [Uncountable](../companies/uncountable.md) | 1/1 | software-engineering |
 | [University of Virginia](../companies/university-of-virginia.md) | 1/1 | research |
 | [VITAL LYFE](../companies/vital-lyfe.md) | 1/1 | software-engineering |
-| [Varda Space](../companies/varda-space.md) | 1/1 | software-engineering |
+| [Varda Space](../companies/varda-space.md) | 0/1 | software-engineering |
 | [Veeam Software](../companies/veeam-software.md) | 2/2 | ai, software-engineering |
 | [Veeda AI](../companies/veeda-ai.md) | 1/1 | ai |
 | [Vega Investment Technologies](../companies/vega-investment-technologies.md) | 1/1 | software-engineering |
