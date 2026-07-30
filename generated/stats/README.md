@@ -11,8 +11,8 @@ _Generated 2026-07-30_
 | Tesla | 101 |
 | Jump Trading | 38 |
 | Cloudflare | 20 |
+| Susquehanna International Group (SIG) | 20 |
 | Neuralink | 19 |
-| Susquehanna International Group (SIG) | 19 |
 | Palantir Technologies | 17 |
 | TikTok | 17 |
 | Jane Street | 16 |
@@ -20,6 +20,7 @@ _Generated 2026-07-30_
 | IMC Trading | 14 |
 | Rivian and Volkswagen Group Technologies | 14 |
 | Etched | 12 |
+| Virtu Financial | 12 |
 | Astranis | 11 |
 | Optiver | 11 |
 | Ciena | 9 |
@@ -27,16 +28,15 @@ _Generated 2026-07-30_
 | Walleye Capital | 9 |
 | Akuna Capital | 8 |
 | Castleton Commodities International | 8 |
-| Copart | 8 |
 
 ## Listings by category
 
 | Category | Count | Share |
 |---|---|---|
 | software-engineering | 535 | `████████████` |
-| quant | 116 | `███` |
+| quant | 121 | `███` |
 | ai | 111 | `███` |
-| machine-learning | 70 | `██` |
+| machine-learning | 69 | `██` |
 | research | 56 | `█` |
 | hardware | 51 | `█` |
 | embedded | 39 | `█` |
@@ -50,6 +50,7 @@ _Generated 2026-07-30_
 ## Newest listings
 
 - 2026-07-30 — **Forus**: [Engineer Intern](https://jobs.ashbyhq.com/forus/82e10191-232e-4e8d-9c5e-cb82940cdfc7/application?embed=true)
+- 2026-07-30 — **Susquehanna International Group (SIG)**: [Trading Operations Analyst Intern](https://careers-sig.icims.com/jobs/11244/job?mobile=true&needsRedirect=false)
 - 2026-07-30 — **Tesla**: [Software Engineer Intern - Software Engineer - AI Infrastructure](https://www.tesla.com/careers/search/job/278578)
 - 2026-07-29 — **Arkema Global**: [Manufacturing Data Systems Intern](https://jobs.arkema.com/job/Radnor-Manufacturing-Data-Systems-Intern-Job-PA/1420491833/?ats=successfactors)
 - 2026-07-29 — **Bosch Home Comfort**: [Autonomous Driving Intern](https://jobs.smartrecruiters.com/BoschGroup/744000140462550)
@@ -68,11 +69,11 @@ _Generated 2026-07-30_
 - 2026-07-29 — **Rockwell Automation**: [Applied AI Intern](https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Austin-Texas-United-States/Intern--Applied-AI_R26-5631-1)
 - 2026-07-29 — **RTX**: [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-PA-STATE-COLLEGE-5A--302-Science-Park-Rd--BLDG-5A/Software-Engineering-Intern--Summer-2027-_01862842)
 - 2026-07-29 — **TikTok**: [Efficiency Analyst/Methodologist Project Intern - Content Operations - Tiktok-Operations-Operations Efficiency](https://lifeattiktok.com/search/7667613782697232693)
-- 2026-07-29 — **TikTok**: [Machine Learning Engineer Intern - Tiktok-Data-Search-Search Quality](https://lifeattiktok.com/search/7667690418804902149)
 
 ## Recently closed
 
 - 1X — AI Residency Intern
+- ABC News — Product Management and Engineering Intern
 - Accenture — Software Engineer Intern
 - Accenture — Technology Apprentice Intern
 - ACLU Kentucky — Undergraduate Intern - Technology and Analytics Department-Educate Pod
@@ -85,6 +86,7 @@ _Generated 2026-07-30_
 - Aptiv — Engineer Intern
 - AQR Capital Management — Portfolio Implementation – Trading and Portfolio Finance Analyst Intern
 - Arrowstreet Capital — Quantitative Developer Intern
+- Assurant — Digital & AI Transformation Intern
 - Astranis — FPGA Associate Intern
 - Autodesk — Machine Learning Developer Intern
 - AVEVA — Software Developer Intern Co-op
@@ -189,7 +191,6 @@ _Generated 2026-07-30_
 - Kudu Dynamics — Software Engineer Intern
 - Kudu Dynamics — Software Engineer Intern
 - Kudu Dynamics — Software Engineer Intern
-- LexisNexis Risk Solutions — Editorial Data Reporting Intern
 - Light & Wonder — Mathematics Intern
 - LiveRamp — Software Engineer Intern, Pixel Serving
 - Mackenzie Investments — Data Science and AI Specialist Intern - Investment Management - Fundamental Equity
@@ -243,6 +244,7 @@ _Generated 2026-07-30_
 - Rakuten International — Software Engineer Intern
 - Revvity — Product Manager Intern
 - RFCUNY — IT & Data Systems Intern - Archibus & Applications Development
+- Rippling — Machine Learning Software Engineer Intern
 - Rivian — Machine Learning Compiler Intern - Machine Learning Compiler
 - Rivian and Volkswagen Group Technologies — Software Engineer Intern Co-op - Android Connectivity
 - Roam — Engineer Intern
@@ -286,6 +288,7 @@ _Generated 2026-07-30_
 - The Federal Reserve System — Business Survey Intern
 - The Trade Desk — Software Engineering Intern
 - TikTok — Global Product Operations Manager Intern - Global Business Solutions
+- TikTok — Research Scientist Intern - TikTok Search / Generative AI - LLM
 - TMX Group — Software Engineer Intern - Java
 - Together AI — Research Intern - Inference
 - Torch Technologies — Software Engineer Intern

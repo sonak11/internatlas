@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "apptronik-software-engineer-intern-ml-systems-2026-4da7d9",
+  "id": "virtu-financial-2027-internship-software-engineer-2027-d06312",
   "company": {
-    "name": "Apptronik",
-    "slug": "apptronik"
+    "name": "Virtu Financial",
+    "slug": "virtu-financial",
+    "career_page": "https://www.virtu.com/careers"
   },
-  "role": "Software Engineer Intern, ML Systems",
-  "category": "machine-learning",
-  "apply_url": "https://job-boards.greenhouse.io/apptronik/jobs/6128057004?gh_jid=6128057004",
-  "season": "fall",
-  "year": 2026,
+  "role": "2027 Internship - Software Engineer",
+  "category": "quant",
+  "apply_url": "https://job-boards.greenhouse.io/virtu/jobs/8551566002",
+  "season": "summer",
+  "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Austin",
-      "state": "TX",
+      "city": "Dublin",
       "country": "USA"
     }
   ],
@@ -40,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-28",
-    "discovered": "2026-07-29",
+    "posted": "2026-07-20",
+    "discovered": "2026-07-30",
     "last_verified": "2026-07-30"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:vanshb03"
+    "src:ats"
   ]
 }

@@ -1,6 +1,6 @@
 {
   "generated": "2026-07-30",
-  "count": 1088,
+  "count": 1092,
   "internships": [
     {
       "schema_version": "1.0",
@@ -160,7 +160,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-30"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -3658,7 +3658,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "apptronik-software-engineer-intern-ml-systems-2026-4da7d9",
+      "id": "apptronik-software-engineer-intern-ml-systems-2026",
       "company": {
         "name": "Apptronik",
         "slug": "apptronik"
@@ -3666,58 +3666,6 @@
       "role": "Software Engineer Intern, ML Systems",
       "category": "machine-learning",
       "apply_url": "https://job-boards.greenhouse.io/apptronik/jobs/6128057004?gh_jid=6128057004",
-      "season": "fall",
-      "year": 2026,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Austin",
-          "state": "TX",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-07-28",
-        "discovered": "2026-07-29",
-        "last_verified": "2026-07-30"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:vanshb03"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "apptronik-software-engineer-intern-ml-systems-2026",
-      "company": {
-        "name": "Apptronik",
-        "slug": "apptronik"
-      },
-      "role": "Software Engineer Intern - ML Systems",
-      "category": "machine-learning",
-      "apply_url": "https://boards.greenhouse.io/apptronik/jobs/6128057004",
       "season": "fall",
       "year": 2026,
       "work_mode": "onsite",
@@ -3752,14 +3700,14 @@
         "resume_keywords": []
       },
       "dates": {
-        "posted": "2026-07-27",
+        "posted": "2026-07-28",
         "discovered": "2026-07-28",
         "last_verified": "2026-07-30"
       },
       "status": "open",
       "tags": [
         "auto-ingested",
-        "src:simplify"
+        "src:vanshb03"
       ]
     },
     {
@@ -4718,7 +4666,7 @@
         "discovered": "2026-07-29",
         "last_verified": "2026-07-30"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -28046,7 +27994,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-30"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -40354,7 +40302,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-30"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -46917,6 +46865,56 @@
       "dates": {
         "posted": "2026-07-15",
         "discovered": "2026-07-17",
+        "last_verified": "2026-07-30"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "susquehanna-international-group-sig-trading-operations-analyst-intern-2027",
+      "company": {
+        "name": "Susquehanna International Group (SIG)",
+        "slug": "susquehanna-international-group-sig"
+      },
+      "role": "Trading Operations Analyst Intern",
+      "category": "quant",
+      "apply_url": "https://careers-sig.icims.com/jobs/11244/job?mobile=true&needsRedirect=false",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-30",
+        "discovered": "2026-07-30",
         "last_verified": "2026-07-30"
       },
       "status": "open",
@@ -54373,7 +54371,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-30"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -56456,6 +56454,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "virtu-financial-2027-internship-core-operations-engineer-2027",
+      "company": {
+        "name": "Virtu Financial",
+        "slug": "virtu-financial",
+        "career_page": "https://www.virtu.com/careers"
+      },
+      "role": "2027 Internship – Core Operations Engineer",
+      "category": "quant",
+      "apply_url": "https://job-boards.greenhouse.io/virtu/jobs/6329460002",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Singapore",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2022-08-15",
+        "discovered": "2026-07-30",
+        "last_verified": "2026-07-30"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "virtu-financial-2027-internship-frontend-user-experience-2027",
       "company": {
         "name": "Virtu Financial",
@@ -56678,6 +56728,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "virtu-financial-2027-internship-quantitative-strategist-2027",
+      "company": {
+        "name": "Virtu Financial",
+        "slug": "virtu-financial",
+        "career_page": "https://www.virtu.com/careers"
+      },
+      "role": "2027 Internship - Quantitative Strategist",
+      "category": "quant",
+      "apply_url": "https://job-boards.greenhouse.io/virtu/jobs/7617953002",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Singapore",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2024-08-30",
+        "discovered": "2026-07-30",
+        "last_verified": "2026-07-30"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "virtu-financial-2027-internship-quantitative-trading-2027-29dd2a",
       "company": {
         "name": "Virtu Financial",
@@ -56745,7 +56847,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "virtu-financial-2027-internship-quantitative-trading-2027",
+      "id": "virtu-financial-2027-internship-quantitative-trading-2027-9456e2",
       "company": {
         "name": "Virtu Financial",
         "slug": "virtu-financial",
@@ -56786,6 +56888,58 @@
       },
       "dates": {
         "posted": "2026-07-01",
+        "discovered": "2026-07-30",
+        "last_verified": "2026-07-30"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "virtu-financial-2027-internship-quantitative-trading-2027",
+      "company": {
+        "name": "Virtu Financial",
+        "slug": "virtu-financial",
+        "career_page": "https://www.virtu.com/careers"
+      },
+      "role": "2027 Internship - Quantitative Trading",
+      "category": "quant",
+      "apply_url": "https://job-boards.greenhouse.io/virtu/jobs/5208637002",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Singapore",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2021-04-16",
         "discovered": "2026-07-18",
         "last_verified": "2026-07-30"
       },
@@ -56858,7 +57012,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "virtu-financial-2027-internship-software-engineer-2027",
+      "id": "virtu-financial-2027-internship-software-engineer-2027-d06312",
       "company": {
         "name": "Virtu Financial",
         "slug": "virtu-financial",
@@ -56899,6 +57053,58 @@
       },
       "dates": {
         "posted": "2026-07-20",
+        "discovered": "2026-07-30",
+        "last_verified": "2026-07-30"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "virtu-financial-2027-internship-software-engineer-2027",
+      "company": {
+        "name": "Virtu Financial",
+        "slug": "virtu-financial",
+        "career_page": "https://www.virtu.com/careers"
+      },
+      "role": "2027 Internship – Software Engineer",
+      "category": "quant",
+      "apply_url": "https://job-boards.greenhouse.io/virtu/jobs/5513756002",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Singapore",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2021-08-31",
         "discovered": "2026-07-20",
         "last_verified": "2026-07-30"
       },

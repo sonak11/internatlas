@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "id": "virtu-financial-2027-internship-quantitative-trading-2027",
+  "id": "virtu-financial-2027-internship-quantitative-trading-2027-9456e2",
   "company": {
     "name": "Virtu Financial",
     "slug": "virtu-financial",
@@ -8,13 +8,13 @@
   },
   "role": "2027 Internship - Quantitative Trading",
   "category": "quant",
-  "apply_url": "https://job-boards.greenhouse.io/virtu/jobs/5208637002",
+  "apply_url": "https://job-boards.greenhouse.io/virtu/jobs/8547254002",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Singapore",
+      "city": "Dublin",
       "country": "USA"
     }
   ],
@@ -40,8 +40,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2021-04-16",
-    "discovered": "2026-07-18",
+    "posted": "2026-07-01",
+    "discovered": "2026-07-30",
     "last_verified": "2026-07-30"
   },
   "status": "open",

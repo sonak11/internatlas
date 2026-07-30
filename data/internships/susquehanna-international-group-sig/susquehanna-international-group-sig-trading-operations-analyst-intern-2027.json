@@ -1,20 +1,18 @@
 {
   "schema_version": "1.0",
-  "id": "virtu-financial-2027-internship-quantitative-trading-2027",
+  "id": "susquehanna-international-group-sig-trading-operations-analyst-intern-2027",
   "company": {
-    "name": "Virtu Financial",
-    "slug": "virtu-financial",
-    "career_page": "https://www.virtu.com/careers"
+    "name": "Susquehanna International Group (SIG)",
+    "slug": "susquehanna-international-group-sig"
   },
-  "role": "2027 Internship - Quantitative Trading",
+  "role": "Trading Operations Analyst Intern",
   "category": "quant",
-  "apply_url": "https://job-boards.greenhouse.io/virtu/jobs/5208637002",
+  "apply_url": "https://careers-sig.icims.com/jobs/11244/job?mobile=true&needsRedirect=false",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Singapore",
       "country": "USA"
     }
   ],
@@ -40,13 +38,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2021-04-16",
-    "discovered": "2026-07-18",
+    "posted": "2026-07-30",
+    "discovered": "2026-07-30",
     "last_verified": "2026-07-30"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:ats"
+    "src:simplify"
   ]
 }
