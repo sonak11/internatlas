@@ -1,19 +1,30 @@
 {
   "schema_version": "1.0",
-  "id": "rippling-machine-learning-software-engineer-intern-2027",
+  "id": "rivian-and-volkswagen-group-technologies-electromechanical-design-engineer-intern-2026",
   "company": {
-    "name": "Rippling",
-    "slug": "rippling"
+    "name": "Rivian and Volkswagen Group Technologies",
+    "slug": "rivian-and-volkswagen-group-technologies"
   },
-  "role": "Machine Learning Software Engineer Intern",
-  "category": "machine-learning",
-  "apply_url": "https://ats.rippling.com/rippling/jobs/82c13e8f-ae96-4c60-a872-c0ddf9eb0781",
-  "season": "winter",
-  "year": 2027,
+  "role": "Electromechanical Design Engineer Intern",
+  "category": "design",
+  "apply_url": "https://jobs.ashbyhq.com/rivianvw.tech/14734be2-9c81-4aab-bfa6-7dbbe95c94a6/application?embed=true",
+  "season": "fall",
+  "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "SF",
+      "city": "Palo Alto",
+      "state": "CA",
+      "country": "USA"
+    },
+    {
+      "city": "Urbana",
+      "state": "IL",
+      "country": "USA"
+    },
+    {
+      "city": "Irvine",
+      "state": "CA",
       "country": "USA"
     }
   ],
@@ -25,8 +36,7 @@
   "eligibility": {
     "graduation_years": [],
     "degree_levels": [
-      "masters",
-      "phd"
+      "masters"
     ],
     "citizenship_required": false,
     "security_clearance_required": false,
@@ -42,8 +52,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-06-05",
-    "discovered": "2026-07-17",
+    "posted": "2026-06-11",
+    "discovered": "2026-07-30",
     "last_verified": "2026-07-30"
   },
   "status": "open",

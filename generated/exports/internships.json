@@ -1,6 +1,6 @@
 {
   "generated": "2026-07-30",
-  "count": 1092,
+  "count": 1095,
   "internships": [
     {
       "schema_version": "1.0",
@@ -3658,7 +3658,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "apptronik-software-engineer-intern-ml-systems-2026",
+      "id": "apptronik-software-engineer-intern-ml-systems-2026-4da7d9",
       "company": {
         "name": "Apptronik",
         "slug": "apptronik"
@@ -3666,6 +3666,58 @@
       "role": "Software Engineer Intern, ML Systems",
       "category": "machine-learning",
       "apply_url": "https://job-boards.greenhouse.io/apptronik/jobs/6128057004?gh_jid=6128057004",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Austin",
+          "state": "TX",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-28",
+        "discovered": "2026-07-30",
+        "last_verified": "2026-07-30"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "apptronik-software-engineer-intern-ml-systems-2026",
+      "company": {
+        "name": "Apptronik",
+        "slug": "apptronik"
+      },
+      "role": "Software Engineer Intern - ML Systems",
+      "category": "machine-learning",
+      "apply_url": "https://boards.greenhouse.io/apptronik/jobs/6128057004",
       "season": "fall",
       "year": 2026,
       "work_mode": "onsite",
@@ -3700,14 +3752,14 @@
         "resume_keywords": []
       },
       "dates": {
-        "posted": "2026-07-28",
+        "posted": "2026-07-27",
         "discovered": "2026-07-28",
         "last_verified": "2026-07-30"
       },
       "status": "open",
       "tags": [
         "auto-ingested",
-        "src:vanshb03"
+        "src:simplify"
       ]
     },
     {
@@ -10964,7 +11016,7 @@
         "discovered": "2026-07-24",
         "last_verified": "2026-07-30"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -11433,7 +11485,7 @@
         "discovered": "2026-07-18",
         "last_verified": "2026-07-30"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:ats"
@@ -16586,9 +16638,9 @@
       "dates": {
         "posted": "2026-07-21",
         "discovered": "2026-07-22",
-        "last_verified": "2026-07-26"
+        "last_verified": "2026-07-30"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -28203,7 +28255,7 @@
         "discovered": "2026-07-29",
         "last_verified": "2026-07-30"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -28306,7 +28358,7 @@
         "discovered": "2026-07-24",
         "last_verified": "2026-07-30"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -28994,6 +29046,61 @@
     },
     {
       "schema_version": "1.0",
+      "id": "medpace-feasibility-informatics-internship-co-op-2027",
+      "company": {
+        "name": "Medpace",
+        "slug": "medpace"
+      },
+      "role": "Feasibility Informatics Internship/Co-op",
+      "category": "software-engineering",
+      "apply_url": "https://careers.medpace.com/jobs/12803?lang=en-us&icims=1",
+      "season": "spring",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Cincinnati",
+          "state": "OH",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters",
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-06-03",
+        "discovered": "2026-07-30",
+        "last_verified": "2026-07-30"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "medpace-inc-ai-engineer-intern-2026",
       "company": {
         "name": "Medpace, Inc.",
@@ -29148,7 +29255,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-30"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -30698,7 +30805,7 @@
         "discovered": "2026-07-21",
         "last_verified": "2026-07-30"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -32033,7 +32140,7 @@
         "discovered": "2026-07-24",
         "last_verified": "2026-07-30"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -34400,7 +34507,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-30"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -35047,7 +35154,7 @@
         "discovered": "2026-07-21",
         "last_verified": "2026-07-30"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -39105,7 +39212,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-30"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -40302,7 +40409,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-30"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -40802,6 +40909,70 @@
     },
     {
       "schema_version": "1.0",
+      "id": "rivian-and-volkswagen-group-technologies-electromechanical-design-engineer-intern-2026",
+      "company": {
+        "name": "Rivian and Volkswagen Group Technologies",
+        "slug": "rivian-and-volkswagen-group-technologies"
+      },
+      "role": "Electromechanical Design Engineer Intern",
+      "category": "design",
+      "apply_url": "https://jobs.ashbyhq.com/rivianvw.tech/14734be2-9c81-4aab-bfa6-7dbbe95c94a6/application?embed=true",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Palo Alto",
+          "state": "CA",
+          "country": "USA"
+        },
+        {
+          "city": "Urbana",
+          "state": "IL",
+          "country": "USA"
+        },
+        {
+          "city": "Irvine",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-06-11",
+        "discovered": "2026-07-30",
+        "last_verified": "2026-07-30"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "rivian-and-volkswagen-group-technologies-engineering-intern-embedded-hardware-vehicle-networking-audi-2027",
       "company": {
         "name": "Rivian and Volkswagen Group Technologies",
@@ -41232,7 +41403,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-30"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -44476,7 +44647,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-30"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -45258,7 +45429,7 @@
         "discovered": "2026-07-21",
         "last_verified": "2026-07-30"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -54371,7 +54542,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-30"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"

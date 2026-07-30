@@ -17,8 +17,8 @@ _Generated 2026-07-30_
 | TikTok | 17 |
 | Jane Street | 16 |
 | Meta | 15 |
+| Rivian and Volkswagen Group Technologies | 15 |
 | IMC Trading | 14 |
-| Rivian and Volkswagen Group Technologies | 14 |
 | Etched | 12 |
 | Virtu Financial | 12 |
 | Astranis | 11 |
@@ -33,16 +33,16 @@ _Generated 2026-07-30_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 535 | `████████████` |
+| software-engineering | 536 | `████████████` |
 | quant | 121 | `███` |
 | ai | 111 | `███` |
-| machine-learning | 69 | `██` |
+| machine-learning | 70 | `██` |
 | research | 56 | `█` |
 | hardware | 51 | `█` |
 | embedded | 39 | `█` |
 | cloud | 26 | `█` |
 | product | 24 | `█` |
-| design | 23 | `█` |
+| design | 24 | `█` |
 | data-science | 17 | `█` |
 | data-engineering | 13 | `█` |
 | security | 7 | `█` |
@@ -114,9 +114,11 @@ _Generated 2026-07-30_
 - Ciena — Embedded Software Engineer Intern
 - Ciena — Photonic Hardware Intern
 - City of Aurora — Water GIS Intern
+- City of Austin — Austin Aviation Undergraduate Intern - IT Business Systems Analyst
 - Cloudflare — AI Builder Intern - Global Customer Engineering - Service Sales
 - Cloudflare — AI Transformation Intern – Global Customer Engineering, Service Sales (Fall 2026)
 - Cloudflare — EIAM Business Enablement & Operations Intern (Fall 2026)
+- Cloudflare — Public Policy Intern
 - Cloudflare — Sales Project Manager Intern (AI Innovation) (Fall 2026)
 - Cloudflare — Technical Support Engineer Intern (Fall 2026)
 - Composio — Full-stack Intern
@@ -140,7 +142,6 @@ _Generated 2026-07-30_
 - Environmental Defense Fund — Climate & Health Intern
 - Eragon — Applied AI Intern
 - Exowatt — Software Engineer Intern - Agent Platform - AI
-- Exploration Technology Corp. — Engineer Intern
 - Fab2 — Rust Software Engineer Intern
 - Firetiger — Product Engineer Intern/Co-op
 - Fluency — Engineer Intern
@@ -193,15 +194,19 @@ _Generated 2026-07-30_
 - Kudu Dynamics — Software Engineer Intern
 - Light & Wonder — Mathematics Intern
 - LiveRamp — Software Engineer Intern, Pixel Serving
+- Loop — Data Scientist Intern
 - Mackenzie Investments — Data Science and AI Specialist Intern - Investment Management - Fundamental Equity
+- Magna — R&D-Computer Vision Engineer Intern
 - Marvell — Design Verification Engineer Intern
 - McKesson — Data Governance Analyst Intern
 - McKesson — Supply Chain Engineering and Analytics Intern
+- Medpace, Inc. — Feasibility Informatics Intern/Co-op
 - Menasha Corporation — Material Innovation Center Intern
 - Meta — Research Scientist Intern - 3D Vision & World Simulation
 - Meta — Research Scientist Intern PhD - Applied Research
 - Microchip Technology — Applications Engineering Intern
 - Mistral AI — Applied Scientist / Research Engineer Intern
+- Monogram — Software Engineer Intern
 - Moon — Software Engineer Intern - Backend & API
 - Moon — Software Engineer Intern - Data & Machine Learning
 - Mosaic — Capital Project Engineering Co-op/Intern
@@ -209,6 +214,7 @@ _Generated 2026-07-30_
 - National Laboratory of the Rockies — Energy Data Analysis Intern
 - National Laboratory of the Rockies — Graduate Geospatial Data Science Intern
 - Navy Federal — Year Round Intern - Business Intelligence Analyst
+- NeoSigma — Member of Technical Staff Intern
 - Neuralink — R&D Materials Engineer Intern
 - NewsBreak — Growth Engineer Intern - Growth Engineering
 - Nokia — Data Science Co-op/Intern
@@ -218,6 +224,7 @@ _Generated 2026-07-30_
 - North Cloud — AI Automation Intern
 - Northrop Grumman — Software Engineer Intern
 - Northrop Grumman — Software Engineer Intern
+- NVIDIA — Applied Deep Learning PhD Research Intern - Reinforcement Learning for LLMs
 - NVIDIA — Applied Research Intern - NLP
 - NVIDIA — Java Engineer Intern
 - NVIDIA — PhD Research Intern - Security and Privacy
@@ -227,6 +234,7 @@ _Generated 2026-07-30_
 - NVIDIA — Software Engineering Intern, JAX
 - NXP Semiconductors — AI / Software Engineering Intern
 - NXP Semiconductors — Digital Verification Engineer Intern
+- Odin Dynamics, Inc — Engineering Intern
 - onsemi — Electrical Device Characterization Intern
 - Optiver — Trading Automation and Operations Intern
 - Palantir Technologies — Forward Deployed Infrastructure Engineer Intern
@@ -238,15 +246,16 @@ _Generated 2026-07-30_
 - Persistent Systems — Hardware Engineer Intern
 - Pinterest — PhD Fall Machine Learning Intern (ATG — Visual, Multimodal, and Recommender Systems)
 - Podium — Software Engineering Intern
+- Pylon — Software Engineer Intern
 - Quadrillion — Research Intern
 - Quadrillion — Software Engineer Intern
 - Rainmaker — Software Engineer Intern
 - Rakuten International — Software Engineer Intern
 - Revvity — Product Manager Intern
 - RFCUNY — IT & Data Systems Intern - Archibus & Applications Development
-- Rippling — Machine Learning Software Engineer Intern
 - Rivian — Machine Learning Compiler Intern - Machine Learning Compiler
 - Rivian and Volkswagen Group Technologies — Software Engineer Intern Co-op - Android Connectivity
+- Rivian and Volkswagen Group Technologies — Software Engineer Intern - Connected Systems
 - Roam — Engineer Intern
 - Robert Bosch Venture Capital — Hardware & Embedded Research Intern
 - Rocket Lab — Software Intern
@@ -265,8 +274,10 @@ _Generated 2026-07-30_
 - Skydio — Software Engineer Intern
 - Smith+Nephew — Operational Technology Intern
 - Solid Power — Product Development Intern
+- SOTI — Product Manager Intern - Sales Enablement Products
 - Sparksoft — Data Development Intern
 - Spectrum Control — Engineering Intern
+- SpreeAI — Mobile Software Engineer Intern - Flagship Apps - iOS / Android / Web
 - SS&C — Healthcare AI & Automation Intern
 - State of North Carolina — Geographic Information Systems Intern - GIS
 - Susquehanna International Group (SIG) — Quantitative Research Intern
@@ -288,7 +299,6 @@ _Generated 2026-07-30_
 - The Federal Reserve System — Business Survey Intern
 - The Trade Desk — Software Engineering Intern
 - TikTok — Global Product Operations Manager Intern - Global Business Solutions
-- TikTok — Research Scientist Intern - TikTok Search / Generative AI - LLM
 - TMX Group — Software Engineer Intern - Java
 - Together AI — Research Intern - Inference
 - Torch Technologies — Software Engineer Intern
