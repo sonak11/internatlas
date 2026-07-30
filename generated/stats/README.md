@@ -114,7 +114,6 @@ _Generated 2026-07-30_
 - Ciena — Embedded Software Engineer Intern
 - Ciena — Photonic Hardware Intern
 - City of Aurora — Water GIS Intern
-- City of Austin — Austin Aviation Undergraduate Intern - IT Business Systems Analyst
 - Cloudflare — AI Builder Intern - Global Customer Engineering - Service Sales
 - Cloudflare — AI Transformation Intern – Global Customer Engineering, Service Sales (Fall 2026)
 - Cloudflare — EIAM Business Enablement & Operations Intern (Fall 2026)
@@ -154,6 +153,8 @@ _Generated 2026-07-30_
 - Freeform — Process Engineer Intern
 - GE Aerospace — Engineer Intern
 - GE Appliances — Engineering Intern/Co-op
+- GE Healthcare — Engineering Development Program Intern - Hardware
+- GE Healthcare — Engineering Development Program Intern - Software
 - GE Vernova — GE Vernova Grid Automation Product Management Intern
 - GE Vernova — GE Vernova Grid Automation Product Management Intern
 - Generac — Data Science Intern
@@ -194,9 +195,7 @@ _Generated 2026-07-30_
 - Kudu Dynamics — Software Engineer Intern
 - Light & Wonder — Mathematics Intern
 - LiveRamp — Software Engineer Intern, Pixel Serving
-- Loop — Data Scientist Intern
 - Mackenzie Investments — Data Science and AI Specialist Intern - Investment Management - Fundamental Equity
-- Magna — R&D-Computer Vision Engineer Intern
 - Marvell — Design Verification Engineer Intern
 - McKesson — Data Governance Analyst Intern
 - McKesson — Supply Chain Engineering and Analytics Intern
@@ -214,7 +213,6 @@ _Generated 2026-07-30_
 - National Laboratory of the Rockies — Energy Data Analysis Intern
 - National Laboratory of the Rockies — Graduate Geospatial Data Science Intern
 - Navy Federal — Year Round Intern - Business Intelligence Analyst
-- NeoSigma — Member of Technical Staff Intern
 - Neuralink — R&D Materials Engineer Intern
 - NewsBreak — Growth Engineer Intern - Growth Engineering
 - Nokia — Data Science Co-op/Intern
@@ -234,7 +232,6 @@ _Generated 2026-07-30_
 - NVIDIA — Software Engineering Intern, JAX
 - NXP Semiconductors — AI / Software Engineering Intern
 - NXP Semiconductors — Digital Verification Engineer Intern
-- Odin Dynamics, Inc — Engineering Intern
 - onsemi — Electrical Device Characterization Intern
 - Optiver — Trading Automation and Operations Intern
 - Palantir Technologies — Forward Deployed Infrastructure Engineer Intern
@@ -242,11 +239,9 @@ _Generated 2026-07-30_
 - Palantir Technologies — Forward Deployed Infrastructure Engineer Intern
 - Pennsylvania State University — R&D Engineer Intern
 - Pennsylvania State University — Research and Development Engineer Intern
-- Pennsylvania State University — Research Engineering Intern
 - Persistent Systems — Hardware Engineer Intern
 - Pinterest — PhD Fall Machine Learning Intern (ATG — Visual, Multimodal, and Recommender Systems)
 - Podium — Software Engineering Intern
-- Pylon — Software Engineer Intern
 - Quadrillion — Research Intern
 - Quadrillion — Software Engineer Intern
 - Rainmaker — Software Engineer Intern
@@ -274,10 +269,8 @@ _Generated 2026-07-30_
 - Skydio — Software Engineer Intern
 - Smith+Nephew — Operational Technology Intern
 - Solid Power — Product Development Intern
-- SOTI — Product Manager Intern - Sales Enablement Products
 - Sparksoft — Data Development Intern
 - Spectrum Control — Engineering Intern
-- SpreeAI — Mobile Software Engineer Intern - Flagship Apps - iOS / Android / Web
 - SS&C — Healthcare AI & Automation Intern
 - State of North Carolina — Geographic Information Systems Intern - GIS
 - Susquehanna International Group (SIG) — Quantitative Research Intern

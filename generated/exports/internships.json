@@ -11016,7 +11016,7 @@
         "discovered": "2026-07-24",
         "last_verified": "2026-07-30"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -18892,7 +18892,7 @@
         "discovered": "2026-07-20",
         "last_verified": "2026-07-30"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -18946,7 +18946,7 @@
         "discovered": "2026-07-20",
         "last_verified": "2026-07-30"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -28255,7 +28255,7 @@
         "discovered": "2026-07-29",
         "last_verified": "2026-07-30"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -28358,7 +28358,7 @@
         "discovered": "2026-07-24",
         "last_verified": "2026-07-30"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -32140,7 +32140,7 @@
         "discovered": "2026-07-24",
         "last_verified": "2026-07-30"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -35154,7 +35154,7 @@
         "discovered": "2026-07-21",
         "last_verified": "2026-07-30"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -38013,9 +38013,9 @@
       "dates": {
         "posted": "2026-07-22",
         "discovered": "2026-07-25",
-        "last_verified": "2026-07-27"
+        "last_verified": "2026-07-30"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -39212,7 +39212,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-30"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -44647,7 +44647,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-30"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -45429,7 +45429,7 @@
         "discovered": "2026-07-21",
         "last_verified": "2026-07-30"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
