@@ -1,6 +1,6 @@
 {
   "generated": "2026-07-30",
-  "count": 1098,
+  "count": 1099,
   "internships": [
     {
       "schema_version": "1.0",
@@ -5926,7 +5926,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-30"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -19413,6 +19413,58 @@
       "dates": {
         "posted": "2026-05-09",
         "discovered": "2026-07-17",
+        "last_verified": "2026-07-30"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "general-dynamics-information-technology-systems-engineer-intern-2027",
+      "company": {
+        "name": "General Dynamics Information Technology",
+        "slug": "general-dynamics-information-technology"
+      },
+      "role": "Systems Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://www.gd.com/careers/systems-engineer-intern-albany-ny-us-rq225289-gdit-opportunity",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Albany",
+          "state": "NY",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-30",
+        "discovered": "2026-07-30",
         "last_verified": "2026-07-30"
       },
       "status": "open",
@@ -36287,7 +36339,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-30"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -53091,7 +53143,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-30"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -56854,6 +56906,11 @@
         },
         {
           "city": "NYC",
+          "country": "USA"
+        },
+        {
+          "city": "New York",
+          "state": "NY",
           "country": "USA"
         }
       ],

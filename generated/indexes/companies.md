@@ -53,7 +53,7 @@
 | [Astranis](../companies/astranis.md) | 10/11 | design, embedded, hardware, software-engineering |
 | [Atomic Semi](../companies/atomic-semi.md) | 6/6 | cloud, design, embedded, software-engineering |
 | [Autodesk](../companies/autodesk.md) | 4/5 | cloud, machine-learning, software-engineering |
-| [Avanade](../companies/avanade.md) | 1/1 | software-engineering |
+| [Avanade](../companies/avanade.md) | 0/1 | software-engineering |
 | [Axis Capital](../companies/axis-capital.md) | 1/1 | software-engineering |
 | [Axogen](../companies/axogen.md) | 0/1 | machine-learning |
 | [Axon](../companies/axon.md) | 1/1 | software-engineering |
@@ -176,6 +176,7 @@
 | [GenMD](../companies/genmd.md) | 1/1 | ai |
 | [Generac](../companies/generac.md) | 0/3 | data-science, software-engineering |
 | [General Astronautics](../companies/general-astronautics.md) | 1/1 | software-engineering |
+| [General Dynamics Information Technology](../companies/general-dynamics-information-technology.md) | 1/1 | software-engineering |
 | [General Motors](../companies/general-motors.md) | 0/2 | machine-learning, research |
 | [GeoComply](../companies/geocomply.md) | 0/2 | software-engineering |
 | [Global Infrastructure](../companies/global-infrastructure.md) | 1/1 | software-engineering |
@@ -288,7 +289,7 @@
 | [Oracle](../companies/oracle.md) | 1/1 | software-engineering |
 | [Orennia](../companies/orennia.md) | 1/1 | software-engineering |
 | [Outpost Technologies](../companies/outpost-technologies.md) | 1/1 | research |
-| [Output Biosciences](../companies/output-biosciences.md) | 1/1 | machine-learning |
+| [Output Biosciences](../companies/output-biosciences.md) | 0/1 | machine-learning |
 | [PDT Partners](../companies/pdt-partners.md) | 1/1 | software-engineering |
 | [Palantir](../companies/palantir.md) | 7/7 | software-engineering |
 | [Palantir Technologies](../companies/palantir-technologies.md) | 14/17 | cloud, software-engineering |
@@ -382,7 +383,7 @@
 | [Tencent](../companies/tencent.md) | 5/8 | ai, machine-learning, research, software-engineering |
 | [Tenstorrent](../companies/tenstorrent.md) | 3/3 | ai, design |
 | [Terranox AI](../companies/terranox-ai.md) | 1/1 | machine-learning |
-| [Tesla](../companies/tesla.md) | 93/101 | ai, cloud, data-engineering, design, embedded, hardware, machine-learning, product, security, software-engineering |
+| [Tesla](../companies/tesla.md) | 92/101 | ai, cloud, data-engineering, design, embedded, hardware, machine-learning, product, security, software-engineering |
 | [Texas Instruments](../companies/texas-instruments.md) | 1/1 | software-engineering |
 | [The Federal Reserve System](../companies/the-federal-reserve-system.md) | 0/1 | software-engineering |
 | [The Mosaic Company](../companies/the-mosaic-company.md) | 1/1 | security |

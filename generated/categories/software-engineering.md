@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 💻 Software Engineering Internships
 
-**539** tracked · **402** open now
+**540** tracked · **401** open now
 
 ## Current openings
 
@@ -52,7 +52,6 @@
 | [Atomic Semi](generated/companies/atomic-semi.md) | [Software Engineering Intern, Fab](https://jobs.ashbyhq.com/AtomicSemi/947338ca-e135-4398-9aa3-79e131bc03d5?jr_id=69e8f6053aa0c479643a5ee5) | Austin, TX +1 | Onsite | 2026-04-22 | Rolling | 🟢 Open | ✅ |
 | [Autodesk](generated/companies/autodesk.md) | [Software Developer Intern - Stagiaire en Développement Logiciel](https://autodesk.wd1.myworkdayjobs.com/uni/job/Quebec-CAN---Remote/Intern-Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD98603-1) | Canada | Onsite | 2026-05-30 | Rolling | 🟢 Open | ❔ |
 | [Autodesk](generated/companies/autodesk.md) | [Software Developer Intern - Stagiaire en Développement Logiciel](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Quebec-CAN---Remote/Intern-Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD98603-2) | Canada | Onsite | 2026-05-30 | Rolling | 🟢 Open | ❔ |
-| [Avanade](generated/companies/avanade.md) | [Software Engineering Intern](https://accenture.wd103.myworkdayjobs.com/en-GB/AvanadeCareers/job/Los-Angeles-6181-W-Centinela-Ave-Corp/Intern--Software-Engineering---June-2026_R00319370?jr_id=69e6a556f8fa2f3ec32a3173) | Los Angeles, CA +1 | Onsite | 2026-04-20 | Rolling | 🟢 Open | ❔ |
 | [Axis Capital](generated/companies/axis-capital.md) | [Renewable Energy Engineer Intern](https://axiscapital.wd1.myworkdayjobs.com/axiscareers/job/London---Scalpel/Renewable-Energy-Engineering-Intern_REQ06664-1) | London | Onsite | 2026-07-28 | Rolling | 🟢 Open | ❔ |
 | [Axon](generated/companies/axon.md) | [Software Engineering Intern](https://job-boards.greenhouse.io/axontalentcommunity/jobs/7800617003) | Boston, MA +1 | Onsite | 2026-07-21 | Rolling | 🟢 Open | ❔ |
 | [Beacon Software](generated/companies/beacon-software.md) | [Software Engineer Intern](https://jobs.ashbyhq.com/beaconsoftware/2452d342-a069-4eda-adbe-9df296808ca1/application?embed=true) | SF | Onsite | 2026-07-15 | Rolling | 🟢 Open | ❔ |
@@ -158,6 +157,7 @@
 | [Gemini](generated/companies/gemini.md) | [Software Engineer Intern](https://boards.greenhouse.io/embed/job_app?for=gemini&token=7875125&gh_jid=7875125) | NYC | Onsite | 2026-05-01 | Rolling | 🟢 Open | ❔ |
 | [Gemini](generated/companies/gemini.md) | [Software Engineering Intern](https://job-boards.greenhouse.io/embed/job_app?for=gemini&token=7875125) | New York, NY | Onsite | 2026-07-28 | Rolling | 🟢 Open | ❔ |
 | [General Astronautics](generated/companies/general-astronautics.md) | [Engineering Intern](https://www.workatastartup.com/jobs/94206) | San Francisco, CA | Onsite | 2026-05-09 | Rolling | 🟢 Open | ❌ |
+| [General Dynamics Information Technology](generated/companies/general-dynamics-information-technology.md) | [Systems Engineer Intern](https://www.gd.com/careers/systems-engineer-intern-albany-ny-us-rq225289-gdit-opportunity) | Albany, NY | Onsite | 2026-07-30 | Rolling | 🟢 Open | ❔ |
 | [Global Infrastructure](generated/companies/global-infrastructure.md) | [Alternative Delivery Project Analytics Intern](https://gi.wd1.myworkdayjobs.com/Global_Infrastructure/job/US--IL--Chicago---200-South-Wacker-Drive/Alternative-Delivery-Project-Analytics-Intern_5963-1) | Chicago, IL | Onsite | 2026-07-07 | Rolling | 🟢 Open | ❔ |
 | [Google](generated/companies/google.md) | [Software Engineering Intern](https://www.google.com/about/careers/applications/jobs/results/85564713261245126-software-engineering-intern-bs-summer-2027) | Mountain View, CA +29 | Onsite | 2026-07-24 | Rolling | 🟢 Open | ❔ |
 | [Grant Thornton](generated/companies/grant-thornton.md) | [Tax Technology Intern - Summer 2027](https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/114404) | Dallas, TX | Onsite | 2026-02-11 | Rolling | 🟢 Open | ❔ |
@@ -370,7 +370,6 @@
 | [Tesla](generated/companies/tesla.md) | [Software Engineer Intern, Vehicle Engineering](https://www.tesla.com/careers/search/job/267767?jr_id=69dd6930bc6f6622c9912106) | Palo Alto, CA +1 | Onsite | 2026-04-20 | Rolling | 🟢 Open | ❔ |
 | [Tesla](generated/companies/tesla.md) | [Software Engineering Intern - Software Engineering - Service Engineering](https://www.tesla.com/careers/search/job/266119) | Palo Alto, CA | Onsite | 2026-06-07 | Rolling | 🟢 Open | ❔ |
 | [Tesla](generated/companies/tesla.md) | [Software Integration Engineer Intern - Software Integration Engineer - Optimus](https://www.tesla.com/careers/search/job/269809) | Palo Alto, CA | Onsite | 2026-05-06 | Rolling | 🟢 Open | ❔ |
-| [Tesla](generated/companies/tesla.md) | [Software Integration Engineer Intern - Software Integration Engineer - Service Tooling](https://www.tesla.com/careers/search/job/271866) | Fremont, CA | Onsite | 2026-06-07 | Rolling | 🟢 Open | ❔ |
 | [Tesla](generated/companies/tesla.md) | [Software Integration Engineer Intern, Energy Engineering](https://www.tesla.com/careers/search/job/250807) | Palo Alto, CA | Onsite | 2025-09-12 | Rolling | 🟢 Open | ❔ |
 | [Tesla](generated/companies/tesla.md) | [Supercharger Product Engineer Intern - Supercharger Product Support Engineering](https://www.tesla.com/careers/search/job/273531) | Palo Alto, CA | Onsite | 2026-06-11 | Rolling | 🟢 Open | ❔ |
 | [Tesla](generated/companies/tesla.md) | [System Software Engineer Intern, System Software](https://www.tesla.com/careers/search/job/248064) | Palo Alto, CA | Onsite | 2025-08-15 | Rolling | 🟢 Open | ❔ |
@@ -416,6 +415,7 @@
 | [Ada](generated/companies/ada.md) | [Software Engineer Intern](https://job-boards.greenhouse.io/ada18/jobs/5180710007) | Remote | Remote | 2026-07-06 | Rolling | 🔴 Closed | ❔ |
 | [Airbnb](generated/companies/airbnb.md) | [Sales Operations Intern, Italy](https://careers.airbnb.com/positions/7979270?gh_jid=7979270) | Milan | Onsite | 2026-06-03 | Rolling | 🔴 Closed | ❔ |
 | [Aptiv](generated/companies/aptiv.md) | [Engineer Intern](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern---CD1_J000700250) | Kanata | Onsite | 2026-07-16 | Rolling | 🔴 Closed | ❔ |
+| [Avanade](generated/companies/avanade.md) | [Software Engineering Intern](https://accenture.wd103.myworkdayjobs.com/en-GB/AvanadeCareers/job/Los-Angeles-6181-W-Centinela-Ave-Corp/Intern--Software-Engineering---June-2026_R00319370?jr_id=69e6a556f8fa2f3ec32a3173) | Los Angeles, CA +1 | Onsite | 2026-04-20 | Rolling | 🔴 Closed | ❔ |
 | [AVEVA](generated/companies/aveva.md) | [Software Developer Intern Co-op](https://aveva.wd3.myworkdayjobs.com/en-US/AVEVA_careers/job/Philadelphia-Pennsylvania-United-States-of-America/Software-Developer-Intern--Drexel-Co-op-US_R014478) | Philadelphia, PA | Onsite | 2026-07-20 | Rolling | 🔴 Closed | ❔ |
 | [Bank of Montreal](generated/companies/bank-of-montreal.md) | [Market Risk Analyst Co-op/Intern](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Market-Risk-Analyst--Fall-2026--Co-op-Internship----4-Months_R260022055) | Toronto | Onsite | 2026-07-24 | Rolling | 🔴 Closed | ❔ |
 | [BDO Canada](generated/companies/bdo-canada.md) | [Data & Analytics Co-op/Intern - Data & Analytics](https://bdo.wd3.myworkdayjobs.com/BDO/job/Toronto---Bay-St/Co-op-or-Intern--Data---Analytics--September-2026-_JR6295) | Montreal +6 | Onsite | 2026-05-14 | Rolling | 🔴 Closed | ❔ |
@@ -536,6 +536,7 @@
 | [Tesla](generated/companies/tesla.md) | [Software Engineer Intern - Simulation Platform - Software Engineer](https://www.tesla.com/careers/search/job/270356) | Palo Alto, CA | Onsite | 2026-06-07 | Rolling | 🔴 Closed | ❔ |
 | [Tesla](generated/companies/tesla.md) | [Software Engineer Intern - Software Engineer Opticaster - Energy Engineering](https://www.tesla.com/careers/search/job/272937) | Palo Alto, CA | Onsite | 2026-06-07 | Rolling | 🔴 Closed | ❔ |
 | [Tesla](generated/companies/tesla.md) | [Software Engineer Intern - Wireless Connectivity Software Engineer - Electronic Devices](https://www.tesla.com/careers/search/job/269792) | Palo Alto, CA | Onsite | 2026-06-07 | Rolling | 🔴 Closed | ❔ |
+| [Tesla](generated/companies/tesla.md) | [Software Integration Engineer Intern - Software Integration Engineer - Service Tooling](https://www.tesla.com/careers/search/job/271866) | Fremont, CA | Onsite | 2026-06-07 | Rolling | 🔴 Closed | ❔ |
 | [The Federal Reserve System](generated/companies/the-federal-reserve-system.md) | [Business Survey Intern](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Richmond-VA/Fall-2026-Business-Survey-Intern_R-0000032532) | Richmond, VA | Onsite | 2026-06-17 | Rolling | 🔴 Closed | ❔ |
 | [The Trade Desk](generated/companies/the-trade-desk.md) | [Software Engineering Intern](https://job-boards.greenhouse.io/thetradedesk/jobs/5187605007) | Seattle, WA +5 | Onsite | 2026-07-15 | Rolling | 🔴 Closed | ❔ |
 | [TikTok](generated/companies/tiktok.md) | [Global Product Operations Manager Intern - Global Business Solutions](https://lifeattiktok.com/search/7660641959426132277) | San Jose, CA | Onsite | 2026-07-13 | Rolling | 🔴 Closed | ❔ |
@@ -653,7 +654,6 @@
 - ASM International (1)
 - ASML (1)
 - Atomic Semi (1)
-- Avanade (1)
 - Axis Capital (1)
 - Axon (1)
 - Beacon Software (1)
@@ -698,6 +698,7 @@
 - Fussball Club Cincinnati LLC (“FC Cincinnati”) (1)
 - G-Research (1)
 - General Astronautics (1)
+- General Dynamics Information Technology (1)
 - Global Infrastructure (1)
 - Grant Thornton (1)
 - Gritt Robotics Inc (1)
@@ -781,6 +782,7 @@
 - Ada (1)
 - Airbnb (1)
 - Aptiv (1)
+- Avanade (1)
 - AVEVA (1)
 - Bank of Montreal (1)
 - CACI (1)

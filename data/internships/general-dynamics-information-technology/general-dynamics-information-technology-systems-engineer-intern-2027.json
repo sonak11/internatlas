@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "tesla-software-integration-engineer-intern-software-integration-en-2026-f755fd",
+  "id": "general-dynamics-information-technology-systems-engineer-intern-2027",
   "company": {
-    "name": "Tesla",
-    "slug": "tesla"
+    "name": "General Dynamics Information Technology",
+    "slug": "general-dynamics-information-technology"
   },
-  "role": "Software Integration Engineer Intern - Software Integration Engineer - Service Tooling",
+  "role": "Systems Engineer Intern",
   "category": "software-engineering",
-  "apply_url": "https://www.tesla.com/careers/search/job/271866",
-  "season": "fall",
-  "year": 2026,
+  "apply_url": "https://www.gd.com/careers/systems-engineer-intern-albany-ny-us-rq225289-gdit-opportunity",
+  "season": "summer",
+  "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Fremont",
-      "state": "CA",
+      "city": "Albany",
+      "state": "NY",
       "country": "USA"
     }
   ],
@@ -40,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-06-07",
-    "discovered": "2026-07-17",
+    "posted": "2026-07-30",
+    "discovered": "2026-07-30",
     "last_verified": "2026-07-30"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }

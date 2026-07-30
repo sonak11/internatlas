@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🧠 Machine Learning Internships
 
-**70** tracked · **58** open now
+**70** tracked · **57** open now
 
 ## Current openings
 
@@ -38,7 +38,6 @@
 | [Netflix](generated/companies/netflix.md) | [AI/ML Scientist Intern - AIMS AI Foundations](https://explore.jobs.netflix.net/careers/job/790316547536) | Los Gatos, CA | Onsite | 2026-06-23 | Rolling | 🟢 Open | ❔ |
 | [Neuralink](generated/companies/neuralink.md) | [Machine Learning Engineer Intern](https://boards.greenhouse.io/neuralink/jobs/6594261003?gh_jid=6594261003) | South San Francisco | Onsite | 2025-05-30 | Rolling | 🟢 Open | ❔ |
 | [Oligo Space](generated/companies/oligo-space.md) | [ML/AI/CS Intern](https://jobs.ashbyhq.com/oligo/107f5148-84bd-43ba-a49d-ac8928898ca6/application?embed=true) | West Athens, CA | Onsite | 2026-07-21 | Rolling | 🟢 Open | ❔ |
-| [Output Biosciences](generated/companies/output-biosciences.md) | [Research Intern - Machine Learning](https://jobs.ashbyhq.com/output/da2723ca-a418-49f1-b7da-a4f383dd8239/application) | SF +1 | Onsite | 2026-07-04 | Rolling | 🟢 Open | ❔ |
 | [PathAI](generated/companies/pathai.md) | [Machine Learning Intern, AI Product and ML Core](https://www.pathai.com/career/job-post?gh_jid=8202342002) | Boston, MA +1 | Onsite | 2026-04-20 | Rolling | 🟢 Open | ❔ |
 | [Pennsylvania State University](generated/companies/pennsylvania-state-university.md) | [AI/ML Research and Development Intern](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/AI-ML-Research-and-Development-Intern_REQ_0000077083-1) | State College, PA +1 | Onsite | 2026-04-02 | Rolling | 🟢 Open | ❔ |
 | [Phonic](generated/companies/phonic.md) | [Machine Learning Research Intern](https://jobs.ashbyhq.com/phonic/a6c8c3d2-250a-4c2f-8a20-e4667ca38e41/application?embed=true) | SF | Onsite | 2026-07-21 | Rolling | 🟢 Open | ❔ |
@@ -75,6 +74,7 @@
 | [Instacart](generated/companies/instacart.md) | [Machine Learning PhD Intern, Economics (Fall)](https://instacart.careers/job/?gh_jid=7532267) | Remote | Remote | 2026-01-13 | Rolling | 🔴 Closed | ❔ |
 | [Moon](generated/companies/moon.md) | [Software Engineer Intern - Data & Machine Learning](https://ats.rippling.com/moon/jobs/5f0b98b7-561a-41d2-9104-76bdf06df094) | Glendale, CA | Onsite | 2026-07-21 | Rolling | 🔴 Closed | ❔ |
 | [NVIDIA](generated/companies/nvidia.md) | [Applied Deep Learning PhD Research Intern - Reinforcement Learning for LLMs](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Deep-Learning-PhD-Research-Intern--Reinforcement-Learning-for-LLMs---Fall-2026_JR2012398) | Santa Clara, CA | Onsite | 2026-05-07 | Rolling | 🔴 Closed | ❔ |
+| [Output Biosciences](generated/companies/output-biosciences.md) | [Research Intern - Machine Learning](https://jobs.ashbyhq.com/output/da2723ca-a418-49f1-b7da-a4f383dd8239/application) | SF +1 | Onsite | 2026-07-04 | Rolling | 🔴 Closed | ❔ |
 | [Pinterest](generated/companies/pinterest.md) | [PhD Fall Machine Learning Intern (ATG — Visual, Multimodal, and Recommender Systems)](https://www.pinterestcareers.com/jobs/?gh_jid=7255640) | San Francisco, CA | Onsite | 2026-04-20 | Rolling | 🔴 Closed | ❔ |
 | [Rivian](generated/companies/rivian.md) | [Machine Learning Compiler Intern - Machine Learning Compiler](https://careers.rivian.com/jobs/29851?icims=1) | Urbana, IL | Onsite | 2026-07-14 | Rolling | 🔴 Closed | ❔ |
 | [Tesla](generated/companies/tesla.md) | [Machine Learning Platform Intern - Multiple Teams](https://www.tesla.com/careers/search/job/269812) | Palo Alto, CA | Onsite | 2026-05-06 | Rolling | 🔴 Closed | ❔ |
@@ -108,7 +108,6 @@
 - Netflix (1)
 - Neuralink (1)
 - Oligo Space (1)
-- Output Biosciences (1)
 - PathAI (1)
 - Pennsylvania State University (1)
 - Phonic (1)
@@ -129,6 +128,7 @@
 - General Motors (1)
 - Moon (1)
 - NVIDIA (1)
+- Output Biosciences (1)
 - Rivian (1)
 
 ## Tips

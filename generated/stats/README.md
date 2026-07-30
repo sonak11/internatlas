@@ -33,7 +33,7 @@ _Generated 2026-07-30_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 539 | `████████████` |
+| software-engineering | 540 | `████████████` |
 | quant | 121 | `███` |
 | ai | 111 | `███` |
 | machine-learning | 70 | `██` |
@@ -51,6 +51,7 @@ _Generated 2026-07-30_
 
 - 2026-07-30 — **Capital One**: [Full Stack Software Engineer Intern](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Full-Stack-Software-Engineer---Fall-2026_R246990)
 - 2026-07-30 — **Forus**: [Engineer Intern](https://jobs.ashbyhq.com/forus/82e10191-232e-4e8d-9c5e-cb82940cdfc7/application?embed=true)
+- 2026-07-30 — **General Dynamics Information Technology**: [Systems Engineer Intern](https://www.gd.com/careers/systems-engineer-intern-albany-ny-us-rq225289-gdit-opportunity)
 - 2026-07-30 — **RTX**: [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Software-Engineering-Intern--Summer-2027-_01863072)
 - 2026-07-30 — **RTX**: [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CA-FULLERTON-675--1801-Hughes-Dr--BLDG-675/Software-Engineering-Intern--Summer-2027-_01863012)
 - 2026-07-30 — **Susquehanna International Group (SIG)**: [Trading Operations Analyst Intern](https://careers-sig.icims.com/jobs/11244/job?mobile=true&needsRedirect=false)
@@ -68,7 +69,6 @@ _Generated 2026-07-30_
 - 2026-07-29 — **RapDev**: [ServiceNow Engineer Intern](https://jobs.ashbyhq.com/rapdev/b022388e-79d0-43b8-b524-64aaed9ff4dc/application?embed=true)
 - 2026-07-29 — **Redwood Materials**: [Embedded Software Engineer Intern](https://boards.greenhouse.io/redwoodmaterials/jobs/6126784004)
 - 2026-07-29 — **Richemont**: [Sustainability Transformation Analyst Intern](https://richemont.wd3.myworkdayjobs.com/richemont/job/BELLEVUE/Sustainability-Transformation-Analyst-Intern_JR132092)
-- 2026-07-29 — **Rockwell Automation**: [Applied AI Intern](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Austin-Texas-United-States/Intern--Applied-AI_R26-5631-2)
 
 ## Recently closed
 
@@ -90,6 +90,7 @@ _Generated 2026-07-30_
 - Assurant — Digital & AI Transformation Intern
 - Astranis — FPGA Associate Intern
 - Autodesk — Machine Learning Developer Intern
+- Avanade — Software Engineering Intern
 - AVEVA — Software Developer Intern Co-op
 - Axogen — AI/ML Engineer Intern
 - Bank of Montreal — Data and AI Operations Analyst Co-op/Internship - Cloud
@@ -243,6 +244,7 @@ _Generated 2026-07-30_
 - NXP Semiconductors — Digital Verification Engineer Intern
 - onsemi — Electrical Device Characterization Intern
 - Optiver — Trading Automation and Operations Intern
+- Output Biosciences — Research Intern - Machine Learning
 - Palantir Technologies — Forward Deployed Infrastructure Engineer Intern
 - Palantir Technologies — Forward Deployed Infrastructure Engineer Intern
 - Palantir Technologies — Forward Deployed Infrastructure Engineer Intern
@@ -300,6 +302,7 @@ _Generated 2026-07-30_
 - Tesla — Software Engineer Intern - Simulation Platform - Software Engineer
 - Tesla — Software Engineer Intern - Software Engineer Opticaster - Energy Engineering
 - Tesla — Software Engineer Intern - Wireless Connectivity Software Engineer - Electronic Devices
+- Tesla — Software Integration Engineer Intern - Software Integration Engineer - Service Tooling
 - The Federal Reserve System — Business Survey Intern
 - The Trade Desk — Software Engineering Intern
 - TikTok — Global Product Operations Manager Intern - Global Business Solutions

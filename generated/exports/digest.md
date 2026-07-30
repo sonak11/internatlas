@@ -1,6 +1,6 @@
 # 📬 InternAtlas Weekly Digest — 2026-07-30
 
-## 🆕 New this week (201)
+## 🆕 New this week (202)
 
 - **Anthelion Capital** — [Quant Developer / Quant Research Intern](https://jobs.ashbyhq.com/anthelioncap/5e2ea37b-2369-474e-b717-c24c60976e96/application?embed=true) · quant · —
 - **Anthelion Capital** — [Quant Developer / Quant Research Intern](https://jobs.ashbyhq.com/anthelioncap/5e2ea37b-2369-474e-b717-c24c60976e96) · quant · —
@@ -62,6 +62,7 @@
 - **GRITT ROBOTICS INC** — [ML & Cloud Infrastructure Engineer Intern](https://jobs.ashbyhq.com/gritt/46af6e69-40fc-4e53-940e-a99757137523) · machine-learning · —
 - **Gemini** — [Software Engineering Intern](https://job-boards.greenhouse.io/embed/job_app?for=gemini&token=7875125) · software-engineering · —
 - **Generac** — [Engineering Intern](https://generac.wd5.myworkdayjobs.com/en-US/external/job/Toronto-Canada/Intern-Engineering_JR14267) · software-engineering · —
+- **General Dynamics Information Technology** — [Systems Engineer Intern](https://www.gd.com/careers/systems-engineer-intern-albany-ny-us-rq225289-gdit-opportunity) · software-engineering · —
 - **Golden Pet Brands** — [Data Analytics Intern](https://job-boards.greenhouse.io/goldenpetbrands/jobs/4713182005) · software-engineering · —
 - **Google** — [Software Engineering Intern](https://www.google.com/about/careers/applications/jobs/results/85564713261245126-software-engineering-intern-bs-summer-2027) · software-engineering · —
 - **Group 1001** — [Quantitative Analysis Intern](https://group1001wd.wd5.myworkdayjobs.com/careers/job/Stamford-Connecticut/Quantitative-Analysis-Intern_R26_0405) · quant · —
