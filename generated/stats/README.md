@@ -2,15 +2,15 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 📊 Statistics
 
-_Generated 2026-07-29_
+_Generated 2026-07-30_
 
 ## Top hiring companies
 
 | Company | Listings |
 |---|---|
-| Tesla | 100 |
+| Tesla | 101 |
 | Jump Trading | 38 |
-| Cloudflare | 19 |
+| Cloudflare | 20 |
 | Neuralink | 19 |
 | Susquehanna International Group (SIG) | 19 |
 | Palantir Technologies | 17 |
@@ -33,13 +33,13 @@ _Generated 2026-07-29_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 532 | `████████████` |
+| software-engineering | 535 | `████████████` |
 | quant | 116 | `███` |
-| ai | 110 | `███` |
+| ai | 111 | `███` |
 | machine-learning | 70 | `██` |
-| research | 55 | `█` |
+| research | 56 | `█` |
 | hardware | 51 | `█` |
-| embedded | 38 | `█` |
+| embedded | 39 | `█` |
 | cloud | 26 | `█` |
 | product | 24 | `█` |
 | design | 23 | `█` |
@@ -49,26 +49,26 @@ _Generated 2026-07-29_
 
 ## Newest listings
 
+- 2026-07-30 — **Forus**: [Engineer Intern](https://jobs.ashbyhq.com/forus/82e10191-232e-4e8d-9c5e-cb82940cdfc7/application?embed=true)
+- 2026-07-30 — **Tesla**: [Software Engineer Intern - Software Engineer - AI Infrastructure](https://www.tesla.com/careers/search/job/278578)
 - 2026-07-29 — **Arkema Global**: [Manufacturing Data Systems Intern](https://jobs.arkema.com/job/Radnor-Manufacturing-Data-Systems-Intern-Job-PA/1420491833/?ats=successfactors)
 - 2026-07-29 — **Bosch Home Comfort**: [Autonomous Driving Intern](https://jobs.smartrecruiters.com/BoschGroup/744000140462550)
 - 2026-07-29 — **Bosch Home Comfort**: [Product Management Intern](https://jobs.smartrecruiters.com/BoschGroup/744000140457960)
+- 2026-07-29 — **Cloudflare**: [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089407)
 - 2026-07-29 — **Cloudflare**: [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407)
+- 2026-07-29 — **Generac**: [Engineering Intern](https://generac.wd5.myworkdayjobs.com/en-US/external/job/Toronto-Canada/Intern-Engineering_JR14267)
 - 2026-07-29 — **Leidos**: [Software Developer Intern](https://leidos.wd5.myworkdayjobs.com/External/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00188311)
 - 2026-07-29 — **Loop**: [Data Scientist Intern](https://ats.rippling.com/loop-careers/jobs/e016b693-7ce9-4dad-95ff-03b934fbd580)
+- 2026-07-29 — **Menasha Corporation**: [Supply Chain Analytics Intern](https://menasha.wd12.myworkdayjobs.com/menashacorp/job/Neenah-Wisconsin/Supply-Chain-Analytics-Intern_R14985)
 - 2026-07-29 — **National Laboratory of the Rockies**: [Focused Ion Beam, Electron Microscopy, and Autonomous Characterization Intern - Multiple Teams](https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Graduate-Intern---Focused-Ion-Beam--Electron-Microscopy--and-Autonomous-Characterization_R14431)
+- 2026-07-29 — **RapDev**: [ServiceNow Engineer Intern](https://jobs.ashbyhq.com/rapdev/b022388e-79d0-43b8-b524-64aaed9ff4dc/application?embed=true)
+- 2026-07-29 — **Redwood Materials**: [Embedded Software Engineer Intern](https://boards.greenhouse.io/redwoodmaterials/jobs/6126784004)
 - 2026-07-29 — **Richemont**: [Sustainability Transformation Analyst Intern](https://richemont.wd3.myworkdayjobs.com/richemont/job/BELLEVUE/Sustainability-Transformation-Analyst-Intern_JR132092)
 - 2026-07-29 — **Rockwell Automation**: [Applied AI Intern](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Austin-Texas-United-States/Intern--Applied-AI_R26-5631-2)
 - 2026-07-29 — **Rockwell Automation**: [Applied AI Intern](https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Austin-Texas-United-States/Intern--Applied-AI_R26-5631-1)
 - 2026-07-29 — **RTX**: [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-PA-STATE-COLLEGE-5A--302-Science-Park-Rd--BLDG-5A/Software-Engineering-Intern--Summer-2027-_01862842)
 - 2026-07-29 — **TikTok**: [Efficiency Analyst/Methodologist Project Intern - Content Operations - Tiktok-Operations-Operations Efficiency](https://lifeattiktok.com/search/7667613782697232693)
 - 2026-07-29 — **TikTok**: [Machine Learning Engineer Intern - Tiktok-Data-Search-Search Quality](https://lifeattiktok.com/search/7667690418804902149)
-- 2026-07-29 — **Virtu Financial**: [2027 Internship - Frontend & User Experience](https://job-boards.greenhouse.io/virtu/jobs/8657500002)
-- 2026-07-28 — **Apple**: [Applied Data Solutions Program Intern](https://jobs.apple.com/en-us/details/200673612)
-- 2026-07-28 — **Apptronik**: [Software Engineer Intern, ML Systems](https://job-boards.greenhouse.io/apptronik/jobs/6128057004?gh_jid=6128057004)
-- 2026-07-28 — **Assurant**: [Digital & AI Transformation Intern](https://assurant.wd1.myworkdayjobs.com/External_Limited_Posting/job/Atlanta-GA/Digital---AI-Transformation-Intern_R-114103-3)
-- 2026-07-28 — **Axis Capital**: [Renewable Energy Engineer Intern](https://axiscapital.wd1.myworkdayjobs.com/axiscareers/job/London---Scalpel/Renewable-Energy-Engineering-Intern_REQ06664-1)
-- 2026-07-28 — **Bank of Montreal**: [Data and AI Operations Analyst Co-op/Internship - Cloud](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Data-and-AI-Operations-Analyst--Cloud---Fall-2026--Co-op-Internship----8-months_R260021724-1)
-- 2026-07-28 — **Bank of Montreal**: [Data and AI Operations Analyst Co-op/Internship - Cloud](https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Data-and-AI-Operations-Analyst--Cloud---Fall-2026--Co-op-Internship----8-months_R260021724-2)
 
 ## Recently closed
 
@@ -85,6 +85,7 @@ _Generated 2026-07-29_
 - Aptiv — Engineer Intern
 - AQR Capital Management — Portfolio Implementation – Trading and Portfolio Finance Analyst Intern
 - Arrowstreet Capital — Quantitative Developer Intern
+- Astranis — FPGA Associate Intern
 - Autodesk — Machine Learning Developer Intern
 - AVEVA — Software Developer Intern Co-op
 - Axogen — AI/ML Engineer Intern
@@ -153,7 +154,6 @@ _Generated 2026-07-29_
 - GE Vernova — GE Vernova Grid Automation Product Management Intern
 - GE Vernova — GE Vernova Grid Automation Product Management Intern
 - Generac — Data Science Intern
-- Generac — Engineering Intern
 - Generac — Software Engineer Intern
 - General Motors — Research and Development Intern - Research & Development
 - General Motors — Research and Development Intern - Research & Development: AI/ML
@@ -189,6 +189,7 @@ _Generated 2026-07-29_
 - Kudu Dynamics — Software Engineer Intern
 - Kudu Dynamics — Software Engineer Intern
 - Kudu Dynamics — Software Engineer Intern
+- LexisNexis Risk Solutions — Editorial Data Reporting Intern
 - Light & Wonder — Mathematics Intern
 - LiveRamp — Software Engineer Intern, Pixel Serving
 - Mackenzie Investments — Data Science and AI Specialist Intern - Investment Management - Fundamental Equity
