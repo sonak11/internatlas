@@ -78,6 +78,7 @@ _Generated 2026-07-30_
 - Accenture — Technology Apprentice Intern
 - ACLU Kentucky — Undergraduate Intern - Technology and Analytics Department-Educate Pod
 - Ada — Software Engineer Intern
+- Airbnb — Sales Operations Intern, Italy
 - Altera Corporation — AI Software Development Engineer Intern
 - AMAROK Security — Research and Development Intern
 - American Bureau of Shipping — AI Software Engineering Intern
@@ -288,6 +289,7 @@ _Generated 2026-07-30_
 - T. Rowe Price — Global Trading Intern
 - T. Rowe Price — Quantitative Equity Investing Intern
 - T. Rowe Price — Technology and Data Intern
+- Tencent — AI Agent Research & Application Intern
 - Tencent — Research Intern
 - Tencent — Research Intern
 - Tesla — Electronic Design Engineer Internship - Electronic Design Engineer - Electronic Systems

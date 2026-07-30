@@ -18,7 +18,7 @@
 | [Ada](../companies/ada.md) | 0/1 | software-engineering |
 | [Adobe](../companies/adobe.md) | 1/1 | machine-learning |
 | [Adtheorant](../companies/adtheorant.md) | 1/1 | ai |
-| [Airbnb](../companies/airbnb.md) | 1/1 | software-engineering |
+| [Airbnb](../companies/airbnb.md) | 0/1 | software-engineering |
 | [Akuna Capital](../companies/akuna-capital.md) | 8/8 | cloud, hardware, quant, software-engineering |
 | [Al Warren Oil Company](../companies/al-warren-oil-company.md) | 1/1 | software-engineering |
 | [AlixPartners](../companies/alixpartners.md) | 1/1 | data-science |
@@ -379,7 +379,7 @@
 | [TETRAMEM](../companies/tetramem.md) | 1/1 | embedded |
 | [TMEIC](../companies/tmeic.md) | 1/1 | machine-learning |
 | [TMX Group](../companies/tmx-group.md) | 0/1 | software-engineering |
-| [Tencent](../companies/tencent.md) | 6/8 | ai, machine-learning, research, software-engineering |
+| [Tencent](../companies/tencent.md) | 5/8 | ai, machine-learning, research, software-engineering |
 | [Tenstorrent](../companies/tenstorrent.md) | 3/3 | ai, design |
 | [Terranox AI](../companies/terranox-ai.md) | 1/1 | machine-learning |
 | [Tesla](../companies/tesla.md) | 93/101 | ai, cloud, data-engineering, design, embedded, hardware, machine-learning, product, security, software-engineering |
