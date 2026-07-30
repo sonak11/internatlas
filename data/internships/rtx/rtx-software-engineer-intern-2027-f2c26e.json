@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "cloudflare-ai-transformation-intern-global-customer-engineering-service-2027",
+  "id": "rtx-software-engineer-intern-2027-f2c26e",
   "company": {
-    "name": "Cloudflare",
-    "slug": "cloudflare",
-    "career_page": "https://www.cloudflare.com/careers"
+    "name": "RTX",
+    "slug": "rtx"
   },
-  "role": "AI Transformation Intern – Global Customer Engineering, Service Sales (Fall 2026)",
-  "category": "ai",
-  "apply_url": "https://boards.greenhouse.io/cloudflare/jobs/8044395?gh_jid=8044395",
+  "role": "Software Engineer Intern",
+  "category": "software-engineering",
+  "apply_url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-PA-STATE-COLLEGE-5A--302-Science-Park-Rd--BLDG-5A/Software-Engineering-Intern--Summer-2027-_01862842",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "In-Office",
+      "city": "State College",
+      "state": "PA",
       "country": "USA"
     }
   ],
@@ -40,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-06",
-    "discovered": "2026-07-18",
-    "last_verified": "2026-07-28"
+    "posted": "2026-07-29",
+    "discovered": "2026-07-30",
+    "last_verified": "2026-07-30"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
-    "src:ats"
+    "src:simplify"
   ]
 }

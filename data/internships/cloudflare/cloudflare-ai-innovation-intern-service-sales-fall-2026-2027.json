@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "copart-software-engineer-intern-2026-7f0d4f",
+  "id": "cloudflare-ai-innovation-intern-service-sales-fall-2026-2027",
   "company": {
-    "name": "Copart",
-    "slug": "copart"
+    "name": "Cloudflare",
+    "slug": "cloudflare",
+    "career_page": "https://www.cloudflare.com/careers"
   },
-  "role": "Software Engineer Intern",
-  "category": "software-engineering",
-  "apply_url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR110011",
-  "season": "fall",
-  "year": 2026,
+  "role": "AI Innovation Intern – Service Sales (Fall 2026)",
+  "category": "ai",
+  "apply_url": "https://boards.greenhouse.io/cloudflare/jobs/8044395?gh_jid=8044395",
+  "season": "summer",
+  "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Dallas",
-      "state": "TX",
+      "city": "In-Office",
       "country": "USA"
     }
   ],
@@ -28,7 +28,7 @@
     "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
-    "visa_sponsorship": "yes"
+    "visa_sponsorship": "unknown"
   },
   "interview": {},
   "tech": {
@@ -40,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-21",
-    "discovered": "2026-07-29",
+    "posted": "2026-07-06",
+    "discovered": "2026-07-30",
     "last_verified": "2026-07-30"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:ats"
   ]
 }

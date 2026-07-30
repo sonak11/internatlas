@@ -1,19 +1,19 @@
 {
   "schema_version": "1.0",
-  "id": "copart-software-engineer-intern-2026-7f0d4f",
+  "id": "rtx-software-engineer-intern-2027-4f3153",
   "company": {
-    "name": "Copart",
-    "slug": "copart"
+    "name": "RTX",
+    "slug": "rtx"
   },
   "role": "Software Engineer Intern",
   "category": "software-engineering",
-  "apply_url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR110011",
-  "season": "fall",
-  "year": 2026,
+  "apply_url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Software-Engineering-Intern--Summer-2027-_01863072",
+  "season": "summer",
+  "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Dallas",
+      "city": "McKinney",
       "state": "TX",
       "country": "USA"
     }
@@ -25,10 +25,13 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "masters",
+      "phd"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
-    "visa_sponsorship": "yes"
+    "visa_sponsorship": "unknown"
   },
   "interview": {},
   "tech": {
@@ -40,11 +43,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-21",
-    "discovered": "2026-07-29",
+    "posted": "2026-07-30",
+    "discovered": "2026-07-30",
     "last_verified": "2026-07-30"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

@@ -33,7 +33,7 @@ _Generated 2026-07-30_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 536 | `████████████` |
+| software-engineering | 539 | `████████████` |
 | quant | 121 | `███` |
 | ai | 111 | `███` |
 | machine-learning | 70 | `██` |
@@ -49,7 +49,10 @@ _Generated 2026-07-30_
 
 ## Newest listings
 
+- 2026-07-30 — **Capital One**: [Full Stack Software Engineer Intern](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Full-Stack-Software-Engineer---Fall-2026_R246990)
 - 2026-07-30 — **Forus**: [Engineer Intern](https://jobs.ashbyhq.com/forus/82e10191-232e-4e8d-9c5e-cb82940cdfc7/application?embed=true)
+- 2026-07-30 — **RTX**: [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Software-Engineering-Intern--Summer-2027-_01863072)
+- 2026-07-30 — **RTX**: [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CA-FULLERTON-675--1801-Hughes-Dr--BLDG-675/Software-Engineering-Intern--Summer-2027-_01863012)
 - 2026-07-30 — **Susquehanna International Group (SIG)**: [Trading Operations Analyst Intern](https://careers-sig.icims.com/jobs/11244/job?mobile=true&needsRedirect=false)
 - 2026-07-30 — **Tesla**: [Software Engineer Intern - Software Engineer - AI Infrastructure](https://www.tesla.com/careers/search/job/278578)
 - 2026-07-29 — **Arkema Global**: [Manufacturing Data Systems Intern](https://jobs.arkema.com/job/Radnor-Manufacturing-Data-Systems-Intern-Job-PA/1420491833/?ats=successfactors)
@@ -66,9 +69,6 @@ _Generated 2026-07-30_
 - 2026-07-29 — **Redwood Materials**: [Embedded Software Engineer Intern](https://boards.greenhouse.io/redwoodmaterials/jobs/6126784004)
 - 2026-07-29 — **Richemont**: [Sustainability Transformation Analyst Intern](https://richemont.wd3.myworkdayjobs.com/richemont/job/BELLEVUE/Sustainability-Transformation-Analyst-Intern_JR132092)
 - 2026-07-29 — **Rockwell Automation**: [Applied AI Intern](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Austin-Texas-United-States/Intern--Applied-AI_R26-5631-2)
-- 2026-07-29 — **Rockwell Automation**: [Applied AI Intern](https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Austin-Texas-United-States/Intern--Applied-AI_R26-5631-1)
-- 2026-07-29 — **RTX**: [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-PA-STATE-COLLEGE-5A--302-Science-Park-Rd--BLDG-5A/Software-Engineering-Intern--Summer-2027-_01862842)
-- 2026-07-29 — **TikTok**: [Efficiency Analyst/Methodologist Project Intern - Content Operations - Tiktok-Operations-Operations Efficiency](https://lifeattiktok.com/search/7667613782697232693)
 
 ## Recently closed
 
@@ -115,7 +115,6 @@ _Generated 2026-07-30_
 - Ciena — Photonic Hardware Intern
 - City of Aurora — Water GIS Intern
 - Cloudflare — AI Builder Intern - Global Customer Engineering - Service Sales
-- Cloudflare — AI Transformation Intern – Global Customer Engineering, Service Sales (Fall 2026)
 - Cloudflare — EIAM Business Enablement & Operations Intern (Fall 2026)
 - Cloudflare — Public Policy Intern
 - Cloudflare — Sales Project Manager Intern (AI Innovation) (Fall 2026)
@@ -123,6 +122,7 @@ _Generated 2026-07-30_
 - Composio — Full-stack Intern
 - Consensus Cloud Solutions — Sales Strategy & Analytics Intern
 - Constellation Space — Graduate Researcher Intern - Machine Learning
+- Copart — Software Engineer Intern
 - Copart — Technology Product Analyst Intern
 - Datasite — AI Transformation / Forward Deployed Engineer Intern - Forward Deployed Engineer
 - Datasite — Forward Deployed Engineer Intern
@@ -158,6 +158,7 @@ _Generated 2026-07-30_
 - GE Vernova — GE Vernova Grid Automation Product Management Intern
 - GE Vernova — GE Vernova Grid Automation Product Management Intern
 - Generac — Data Science Intern
+- Generac — Engineering Intern
 - Generac — Software Engineer Intern
 - General Motors — Research and Development Intern - Research & Development
 - General Motors — Research and Development Intern - Research & Development: AI/ML
@@ -169,6 +170,7 @@ _Generated 2026-07-30_
 - Google — Software Engineer Intern
 - Google — Software Engineer Intern - MS
 - Hermeus — Modeling & Simulation Software Engineer Intern
+- Hermeus — Modeling & Simulation Software Engineering Intern
 - Hermeus — Subsystem Test Engineer Intern
 - Hitachi Energy — Cloud & Data Specialist Intern
 - Hitachi Energy — Engineering Knowledge Management Intern - 8 months
@@ -193,6 +195,7 @@ _Generated 2026-07-30_
 - Kudu Dynamics — Software Engineer Intern
 - Kudu Dynamics — Software Engineer Intern
 - Kudu Dynamics — Software Engineer Intern
+- LexisNexis Risk Solutions — Editorial Data Reporting Intern
 - Light & Wonder — Mathematics Intern
 - LiveRamp — Software Engineer Intern, Pixel Serving
 - Mackenzie Investments — Data Science and AI Specialist Intern - Investment Management - Fundamental Equity
@@ -206,6 +209,7 @@ _Generated 2026-07-30_
 - Microchip Technology — Applications Engineering Intern
 - Mistral AI — Applied Scientist / Research Engineer Intern
 - Monogram — Software Engineer Intern
+- Moog — Software Engineer Intern
 - Moon — Software Engineer Intern - Backend & API
 - Moon — Software Engineer Intern - Data & Machine Learning
 - Mosaic — Capital Project Engineering Co-op/Intern
@@ -262,6 +266,7 @@ _Generated 2026-07-30_
 - Samsung — Research Intern
 - Samsung Research America — Computer Vision/AI Intern - Computer Vision/AI
 - Samsung Research America — Memory and Personalization Intern - Memory and Personalization
+- Schweitzer Engineering Laboratories — Software Engineer Intern
 - Schweitzer Engineering Laboratories — Software Engineering Intern
 - Seaspan — Digital Ship Intern
 - Seaspan — Energy Management Intern
