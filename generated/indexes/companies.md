@@ -91,7 +91,7 @@
 | [Chanel](../companies/chanel.md) | 1/1 | software-engineering |
 | [Chevron Corporation](../companies/chevron-corporation.md) | 4/6 | quant, software-engineering |
 | [Chicago Trading Company](../companies/chicago-trading-company.md) | 3/3 | quant, software-engineering |
-| [Ciena](../companies/ciena.md) | 6/9 | embedded, hardware, software-engineering |
+| [Ciena](../companies/ciena.md) | 5/9 | embedded, hardware, software-engineering |
 | [Circle K](../companies/circle-k.md) | 1/1 | software-engineering |
 | [Circleback](../companies/circleback.md) | 1/1 | software-engineering |
 | [Cirrus Logic](../companies/cirrus-logic.md) | 3/3 | ai, embedded |
@@ -240,7 +240,7 @@
 | [Light & Wonder](../companies/light-wonder.md) | 0/1 | software-engineering |
 | [Littelfuse](../companies/littelfuse.md) | 1/1 | software-engineering |
 | [LiveRamp](../companies/liveramp.md) | 0/1 | software-engineering |
-| [Loop](../companies/loop.md) | 1/1 | data-science |
+| [Loop](../companies/loop.md) | 0/1 | data-science |
 | [Mackenzie Investments](../companies/mackenzie-investments.md) | 0/1 | ai |
 | [Magna](../companies/magna.md) | 1/1 | software-engineering |
 | [Markem-Imaje](../companies/markem-imaje.md) | 1/1 | software-engineering |

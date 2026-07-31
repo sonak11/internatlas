@@ -120,6 +120,7 @@ _Generated 2026-07-31_
 - Ciena — Embedded Software Engineer Intern
 - Ciena — Embedded Software Engineer Intern
 - Ciena — Photonic Hardware Intern
+- Ciena — Routing/IP Software Developer Intern
 - City of Aurora — Water GIS Intern
 - City of Austin — Austin Aviation Undergraduate Intern - IT Business Systems Analyst
 - Cloudflare — EIAM Business Enablement & Operations Intern (Fall 2026)
@@ -207,6 +208,7 @@ _Generated 2026-07-31_
 - LexisNexis Risk Solutions — Editorial Data Reporting Intern
 - Light & Wonder — Mathematics Intern
 - LiveRamp — Software Engineer Intern, Pixel Serving
+- Loop — Data Scientist Intern
 - Mackenzie Investments — Data Science and AI Specialist Intern - Investment Management - Fundamental Equity
 - Marvell — Design Verification Engineer Intern
 - McKesson — Data Governance Analyst Intern
