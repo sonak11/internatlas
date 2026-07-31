@@ -1,11 +1,11 @@
 {
   "schema_version": "1.0",
-  "id": "toshiba-commerce-solutions-agentic-software-engineering-intern-2026",
+  "id": "toshiba-global-commerce-agentic-software-engineer-intern-2026",
   "company": {
-    "name": "Toshiba Commerce Solutions",
-    "slug": "toshiba-commerce-solutions"
+    "name": "Toshiba Global Commerce",
+    "slug": "toshiba-global-commerce"
   },
-  "role": "Agentic Software Engineering Intern",
+  "role": "Agentic Software Engineer Intern",
   "category": "software-engineering",
   "apply_url": "https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5177892007",
   "season": "fall",
@@ -28,7 +28,7 @@
     "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
-    "visa_sponsorship": "no"
+    "visa_sponsorship": "unknown"
   },
   "interview": {},
   "tech": {
@@ -41,12 +41,12 @@
   },
   "dates": {
     "posted": "2026-07-27",
-    "discovered": "2026-07-27",
+    "discovered": "2026-07-31",
     "last_verified": "2026-07-31"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:vanshb03"
+    "src:simplify"
   ]
 }

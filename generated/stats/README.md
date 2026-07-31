@@ -33,7 +33,7 @@ _Generated 2026-07-31_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 563 | `████████████` |
+| software-engineering | 564 | `████████████` |
 | quant | 126 | `███` |
 | ai | 113 | `██` |
 | machine-learning | 70 | `██` |
@@ -85,6 +85,7 @@ _Generated 2026-07-31_
 - American Bureau of Shipping — AI Software Engineering Intern
 - American Enterprise Institute — Data Analysis & AI Policy Intern
 - Amwins — Analytics & AI Intern
+- Apptronik — Software Engineer Intern, ML Systems
 - Aptiv — Engineer Intern
 - AQR Capital Management — Portfolio Implementation – Trading and Portfolio Finance Analyst Intern
 - Arrowstreet Capital — Quantitative Developer Intern
@@ -320,6 +321,7 @@ _Generated 2026-07-31_
 - TMX Group — Software Engineer Intern - Java
 - Together AI — Research Intern - Inference
 - Torch Technologies — Software Engineer Intern
+- Toshiba Commerce Solutions — Project Management & AI Automation Intern
 - Tower Research Capital — Quantitative Trader Intern
 - Varda Space — Mission Software – Intern - Python
 - Verkada — Technical Support Engineering Intern - Fall 2026

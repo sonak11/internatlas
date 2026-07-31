@@ -37,7 +37,7 @@
 | [Apex Technology, Inc.](../companies/apex-technology-inc.md) | 1/1 | embedded |
 | [Appian](../companies/appian.md) | 5/5 | product, security, software-engineering |
 | [Apple](../companies/apple.md) | 3/3 | software-engineering |
-| [Apptronik](../companies/apptronik.md) | 1/1 | machine-learning |
+| [Apptronik](../companies/apptronik.md) | 0/1 | machine-learning |
 | [Aptiv](../companies/aptiv.md) | 1/2 | software-engineering |
 | [Aquatic Capital](../companies/aquatic-capital.md) | 1/1 | software-engineering |
 | [Aquatic Capital Management](../companies/aquatic-capital-management.md) | 2/2 | quant, software-engineering |
@@ -345,6 +345,7 @@
 | [Rocket Lab](../companies/rocket-lab.md) | 0/1 | software-engineering |
 | [Rockwell Automation](../companies/rockwell-automation.md) | 4/4 | ai, embedded |
 | [Royal Bank of Canada](../companies/royal-bank-of-canada.md) | 2/3 | software-engineering |
+| [SK Hynix Memory Solution](../companies/sk-hynix-memory-solution.md) | 1/1 | software-engineering |
 | [SOTI](../companies/soti.md) | 2/3 | data-science, product |
 | [SPREEAI](../companies/spreeai.md) | 1/1 | ai |
 | [SS&C](../companies/ss-c.md) | 0/1 | ai |
@@ -400,8 +401,8 @@
 | [TikTok](../companies/tiktok.md) | 15/17 | ai, cloud, machine-learning, product, software-engineering |
 | [Together AI](../companies/together-ai.md) | 2/3 | research |
 | [Torch Technologies](../companies/torch-technologies.md) | 0/1 | software-engineering |
-| [Toshiba Commerce Solutions](../companies/toshiba-commerce-solutions.md) | 3/3 | ai, software-engineering |
-| [Toshiba Global Commerce](../companies/toshiba-global-commerce.md) | 2/2 | ai, software-engineering |
+| [Toshiba Commerce Solutions](../companies/toshiba-commerce-solutions.md) | 1/2 | ai |
+| [Toshiba Global Commerce](../companies/toshiba-global-commerce.md) | 3/3 | ai, software-engineering |
 | [Touchdown Labs](../companies/touchdown-labs.md) | 1/1 | software-engineering |
 | [Tower Research Capital](../companies/tower-research-capital.md) | 1/2 | quant |
 | [TransMarket Group](../companies/transmarket-group.md) | 3/3 | cloud, quant |

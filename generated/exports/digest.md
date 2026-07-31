@@ -1,6 +1,6 @@
 # 📬 InternAtlas Weekly Digest — 2026-07-31
 
-## 🆕 New this week (214)
+## 🆕 New this week (215)
 
 - **Anthelion Capital** — [Quant Developer / Quant Research Intern](https://jobs.ashbyhq.com/anthelioncap/5e2ea37b-2369-474e-b717-c24c60976e96) · quant · —
 - **Appian** — [Information Security Engineer Intern](https://job-boards.greenhouse.io/appian/jobs/8088496) · security · —
@@ -176,6 +176,7 @@
 - **Rockwell Automation** — [Applied AI Intern](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Austin-Texas-United-States/Intern--Applied-AI_R26-5631-2) · ai · —
 - **Rockwell Automation** — [Applied AI Intern](https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Austin-Texas-United-States/Intern--Applied-AI_R26-5631-1) · ai · —
 - **Royal Bank of Canada** — [Business Markets Relationship Manager Intern](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/BATHURST-New-Brunswick-Canada/Relationship-Manager-Business-Markets--Intern_R-0000182302) · software-engineering · —
+- **SK Hynix Memory Solution** — [Software Engineer Intern](https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4342038009) · software-engineering · —
 - **SPREEAI** — [Software Engineer Intern, AI Infrastructure / Training / Inference](https://ats.rippling.com/en-GB/spreeai/jobs/d34aed29-7a11-4e37-b5bc-e9317f82f0b1) · ai · —
 - **Schweitzer Engineering Laboratories** — [Software Engineer Intern](https://selinc.wd1.myworkdayjobs.com/SEL/job/Idaho---Boise/Software-Engineer-Intern_2026-22321) · software-engineering · —
 - **Sentara Health** — [Data & AI Finance Strategy Intern](https://sentara.wd1.myworkdayjobs.com/SCS/job/Virginia-Beach-VA/Data---AI-Finance-Strategy-Intern---Fall-2026-Internship-Remote_JR-103073) · ai · —
@@ -197,9 +198,9 @@
 - **TikTok** — [Efficiency Analyst/Methodologist Project Intern - Content Operations - Tiktok-Operations-Operations Efficiency](https://lifeattiktok.com/search/7667613782697232693) · software-engineering · —
 - **TikTok** — [Efficiency Analyst/Methodologist Project Intern - Content Operations - Tiktok-Operations-Operations Efficiency](https://lifeattiktok.com/search/7667248888103782661) · software-engineering · —
 - **TikTok** — [Machine Learning Engineer Intern - Tiktok-Data-Search-Search Quality](https://lifeattiktok.com/search/7667690418804902149) · machine-learning · —
-- **Toshiba Commerce Solutions** — [Agentic Software Engineering Intern](https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5177892007) · software-engineering · —
 - **Toshiba Commerce Solutions** — [AI Engineering Intern](https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5192820007) · ai · —
 - **Toshiba Commerce Solutions** — [Project Management & AI Automation Intern](https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5190937007) · ai · —
+- **Toshiba Global Commerce** — [Agentic Software Engineer Intern](https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5177892007) · software-engineering · —
 - **Toshiba Global Commerce** — [AI Product Management Intern](https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5195826007) · ai · —
 - **Toshiba Global Commerce** — [Product & Business Analytics Intern](https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5195802007) · software-engineering · —
 - **Touchdown Labs** — [Member of Technical Staff Intern](https://touchdown-labs.com/careers/mts-intern/?jr_id=6a68292c50dec41e3527e633) · software-engineering · —

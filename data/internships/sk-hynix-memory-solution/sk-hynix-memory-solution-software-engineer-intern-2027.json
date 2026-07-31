@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "toshiba-commerce-solutions-project-management-ai-automation-intern-2026",
+  "id": "sk-hynix-memory-solution-software-engineer-intern-2027",
   "company": {
-    "name": "Toshiba Commerce Solutions",
-    "slug": "toshiba-commerce-solutions"
+    "name": "SK Hynix Memory Solution",
+    "slug": "sk-hynix-memory-solution"
   },
-  "role": "Project Management & AI Automation Intern",
-  "category": "ai",
-  "apply_url": "https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5190937007",
-  "season": "fall",
-  "year": 2026,
+  "role": "Software Engineer Intern",
+  "category": "software-engineering",
+  "apply_url": "https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4342038009",
+  "season": "summer",
+  "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Frisco",
-      "state": "TX",
+      "city": "San Jose",
+      "state": "CA",
       "country": "USA"
     }
   ],
@@ -28,7 +28,7 @@
     "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
-    "visa_sponsorship": "no"
+    "visa_sponsorship": "unknown"
   },
   "interview": {},
   "tech": {
@@ -40,11 +40,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-27",
-    "discovered": "2026-07-27",
+    "posted": "2026-07-31",
+    "discovered": "2026-07-31",
     "last_verified": "2026-07-31"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:vanshb03"
