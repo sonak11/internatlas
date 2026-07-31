@@ -1,6 +1,6 @@
 {
   "generated": "2026-07-31",
-  "count": 1140,
+  "count": 1145,
   "internships": [
     {
       "schema_version": "1.0",
@@ -1220,6 +1220,59 @@
         "last_verified": "2026-07-18"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "altice-usa-data-engineer-intern-2026",
+      "company": {
+        "name": "Altice USA",
+        "slug": "altice-usa"
+      },
+      "role": "Data Engineer Intern",
+      "category": "data-engineering",
+      "apply_url": "https://www.optimumcareers.com/job/Long-Island-City-Intern-Data-Engineer-NY-11101/1414286700/?ats=successfactors",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Long Island City",
+          "country": "Queens"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-31",
+        "discovered": "2026-07-31",
+        "last_verified": "2026-07-31"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -3550,7 +3603,7 @@
         "discovered": "2026-07-29",
         "last_verified": "2026-07-31"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -20591,6 +20644,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "genworth-financial-it-development-program-intern-it-development-program-2027",
+      "company": {
+        "name": "Genworth Financial",
+        "slug": "genworth-financial"
+      },
+      "role": "IT Development Program Intern - IT Development Program",
+      "category": "software-engineering",
+      "apply_url": "https://gnw.wd1.myworkdayjobs.com/GNW/job/Richmond-Virginia/Genworth-IT-Development-Program-Intern---Summer-2027_REQ-260269-1",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Richmond",
+          "state": "VA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-31",
+        "discovered": "2026-07-31",
+        "last_verified": "2026-07-31"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "geocomply-full-stack-developer-intern-2026",
       "company": {
         "name": "GeoComply",
@@ -20837,9 +20942,9 @@
       "dates": {
         "posted": "2026-07-23",
         "discovered": "2026-07-24",
-        "last_verified": "2026-07-24"
+        "last_verified": "2026-07-31"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -29117,7 +29222,7 @@
         "discovered": "2026-07-28",
         "last_verified": "2026-07-31"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -34161,6 +34266,57 @@
     },
     {
       "schema_version": "1.0",
+      "id": "neuralink-analog-and-mixed-signal-ic-design-engineer-intern-2026",
+      "company": {
+        "name": "Neuralink",
+        "slug": "neuralink"
+      },
+      "role": "Analog and Mixed-Signal IC Design Engineer Intern",
+      "category": "design",
+      "apply_url": "https://boards.greenhouse.io/neuralink/jobs/7565469003",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "South SF",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-02-18",
+        "discovered": "2026-07-31",
+        "last_verified": "2026-07-31"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "neuralink-analog-and-mixed-signal-ic-design-engineer-intern-2027",
       "company": {
         "name": "Neuralink",
@@ -35248,7 +35404,7 @@
         "discovered": "2026-07-24",
         "last_verified": "2026-07-31"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -40957,6 +41113,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "psecu-data-analyst-intern-2026",
+      "company": {
+        "name": "PSECU",
+        "slug": "psecu"
+      },
+      "role": "Data Analyst Intern",
+      "category": "software-engineering",
+      "apply_url": "https://psecu.wd12.myworkdayjobs.com/PSECU/job/Harrisburg-PA/Data-Analyst-Intern_JR100964",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Harrisburg",
+          "state": "PA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-31",
+        "discovered": "2026-07-31",
+        "last_verified": "2026-07-31"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "pure-storage-sw-engineer-internship-2027",
       "company": {
         "name": "Pure Storage",
@@ -42416,7 +42624,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-31"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -45494,7 +45702,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-31"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -50374,7 +50582,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-31"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -52798,7 +53006,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-31"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -53526,7 +53734,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-31"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -57332,7 +57540,7 @@
         "discovered": "2026-07-31",
         "last_verified": "2026-07-31"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -60609,6 +60817,86 @@
       "dates": {
         "posted": "2026-07-23",
         "discovered": "2026-07-24",
+        "last_verified": "2026-07-31"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "western-digital-hardware-engineering-intern-2027",
+      "company": {
+        "name": "Western Digital",
+        "slug": "western-digital"
+      },
+      "role": "Hardware Engineering Intern",
+      "category": "hardware",
+      "apply_url": "https://jobs.smartrecruiters.com/WesternDigital/744000140949875",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Fremont",
+          "state": "CA",
+          "country": "USA"
+        },
+        {
+          "city": "Rochester",
+          "state": "MN",
+          "country": "USA"
+        },
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        },
+        {
+          "city": "Irvine",
+          "state": "CA",
+          "country": "USA"
+        },
+        {
+          "city": "Colorado Springs",
+          "state": "CO",
+          "country": "USA"
+        },
+        {
+          "city": "Longmont",
+          "state": "CO",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters",
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-31",
+        "discovered": "2026-07-31",
         "last_verified": "2026-07-31"
       },
       "status": "open",

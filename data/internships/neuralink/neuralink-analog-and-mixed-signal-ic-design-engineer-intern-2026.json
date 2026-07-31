@@ -1,20 +1,19 @@
 {
   "schema_version": "1.0",
-  "id": "apple-applied-data-solutions-program-intern-2026",
+  "id": "neuralink-analog-and-mixed-signal-ic-design-engineer-intern-2026",
   "company": {
-    "name": "Apple",
-    "slug": "apple"
+    "name": "Neuralink",
+    "slug": "neuralink"
   },
-  "role": "Applied Data Solutions Program Intern",
-  "category": "software-engineering",
-  "apply_url": "https://jobs.apple.com/en-us/details/200673612",
+  "role": "Analog and Mixed-Signal IC Design Engineer Intern",
+  "category": "design",
+  "apply_url": "https://boards.greenhouse.io/neuralink/jobs/7565469003",
   "season": "fall",
   "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Austin",
-      "state": "TX",
+      "city": "South SF",
       "country": "USA"
     }
   ],
@@ -25,9 +24,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -42,11 +39,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-28",
-    "discovered": "2026-07-29",
+    "posted": "2026-02-18",
+    "discovered": "2026-07-31",
     "last_verified": "2026-07-31"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

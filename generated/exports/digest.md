@@ -1,7 +1,8 @@
 # 📬 InternAtlas Weekly Digest — 2026-07-31
 
-## 🆕 New this week (215)
+## 🆕 New this week (219)
 
+- **Altice USA** — [Data Engineer Intern](https://www.optimumcareers.com/job/Long-Island-City-Intern-Data-Engineer-NY-11101/1414286700/?ats=successfactors) · data-engineering · —
 - **Anthelion Capital** — [Quant Developer / Quant Research Intern](https://jobs.ashbyhq.com/anthelioncap/5e2ea37b-2369-474e-b717-c24c60976e96) · quant · —
 - **Appian** — [Information Security Engineer Intern](https://job-boards.greenhouse.io/appian/jobs/8088496) · security · —
 - **Appian** — [Product Manager Intern](https://careers.appian.com/jobs/8041243-product-manager-intern-) · product · —
@@ -70,6 +71,7 @@
 - **Gemini** — [Software Engineering Intern](https://job-boards.greenhouse.io/embed/job_app?for=gemini&token=7875125) · software-engineering · —
 - **Generac** — [Engineering Intern](https://generac.wd5.myworkdayjobs.com/en-US/external/job/Toronto-Canada/Intern-Engineering_JR14267) · software-engineering · —
 - **General Dynamics Information Technology** — [Systems Engineer Intern](https://www.gd.com/careers/systems-engineer-intern-albany-ny-us-rq225289-gdit-opportunity) · software-engineering · —
+- **Genworth Financial** — [IT Development Program Intern - IT Development Program](https://gnw.wd1.myworkdayjobs.com/GNW/job/Richmond-Virginia/Genworth-IT-Development-Program-Intern---Summer-2027_REQ-260269-1) · software-engineering · —
 - **GoDaddy** — [Software Development Engineer Intern](https://job-boards.greenhouse.io/eventsandinterns/jobs/7820942003) · software-engineering · —
 - **Google** — [Software Engineering Intern](https://www.google.com/about/careers/applications/jobs/results/85564713261245126-software-engineering-intern-bs-summer-2027) · software-engineering · —
 - **Heliux** — [Software Engineer Intern](https://jobs.ashbyhq.com/heliux/ff2b6f4b-00d0-4afe-b4f5-2dbf443409ef/application?embed=true) · software-engineering · —
@@ -135,6 +137,7 @@
 - **Northwestern Mutual** — [Investment Analyst Intern - Private Debt & Equity](https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Milwaukee-WI-Corporate/Investment-Analyst-Intern---Private-Debt---Equity--Summer-2027_JR-45705) · software-engineering · —
 - **Old Mission** — [Software Engineer Intern](https://www.oldmissioncapital.com/careers/?gh_jid=7796180003) · software-engineering · —
 - **PDT Partners** — [Software Engineer Intern](https://job-boards.greenhouse.io/pdtpartners/jobs/8077685) · software-engineering · —
+- **PSECU** — [Data Analyst Intern](https://psecu.wd12.myworkdayjobs.com/PSECU/job/Harrisburg-PA/Data-Analyst-Intern_JR100964) · software-engineering · —
 - **Palantir** — [Forward Deployed Software Engineer Intern](https://jobs.lever.co/palantir/26e23f5d-083b-45aa-b223-1a6e43d960bf/apply) · software-engineering · —
 - **Palantir** — [Forward Deployed Software Engineer Intern - Commercial](https://jobs.lever.co/palantir/599b1907-aba1-4303-837b-66e69a521636/apply) · software-engineering · —
 - **Palantir** — [Software Engineer Intern](https://jobs.lever.co/palantir/76a60923-bb49-40f5-b061-7c7eb1299602/apply) · software-engineering · —
@@ -214,6 +217,7 @@
 - **Virtu Financial** — [2027 Internship - Frontend Engineer (UI)](https://job-boards.greenhouse.io/virtu/jobs/8657500002) · design · —
 - **Virtu Financial** — [2027 Internship- Hardware Engineer (FPGA)](https://job-boards.greenhouse.io/virtu/jobs/8657286002) · hardware · —
 - **Walleye Capital** — [Technology Intern](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4681002006) · software-engineering · —
+- **Western Digital** — [Hardware Engineering Intern](https://jobs.smartrecruiters.com/WesternDigital/744000140949875) · hardware · —
 - **XTX Markets** — [Philanthropy Intern](https://job-boards.greenhouse.io/xtxmarketstechnologies/jobs/7819416003) · software-engineering · —
 - **Zurich Insurance** — [Data Analytics & AI Internship/Co-op - Data Analytics & AI](https://www.careers.zurich.com/job/Toronto-Fall-2026-InternshipCo-op-Data-Analytics-&-AI-ON/1367953057/?ats=successfactors) · ai · —
 - **fab2** — [Software Engineering Intern](https://jobs.ashbyhq.com/fab2/947338ca-e135-4398-9aa3-79e131bc03d5?embed=true) · software-engineering · —

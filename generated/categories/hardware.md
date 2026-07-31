@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🔩 Hardware Internships
 
-**54** tracked · **48** open now
+**55** tracked · **49** open now
 
 ## Current openings
 
@@ -56,6 +56,7 @@
 | [Tesla](generated/companies/tesla.md) | [Sensor Hardware Engineer Intern - Sensor Hardware Design Engineer - Optimus](https://www.tesla.com/careers/search/job/272581) | Palo Alto, CA | Onsite | 2026-06-07 | Rolling | 🟢 Open | ❔ |
 | [Tesla](generated/companies/tesla.md) | [Solar Hardware Engineer Intern - Solar Hardware Engineer - Energy Engineering](https://www.tesla.com/careers/search/job/271539) | Palo Alto, CA | Onsite | 2026-06-06 | Rolling | 🟢 Open | ❔ |
 | [Virtu Financial](generated/companies/virtu-financial.md) | [2027 Internship- Hardware Engineer (FPGA)](https://job-boards.greenhouse.io/virtu/jobs/8657286002) | Austin, TX | Onsite | 2026-07-29 | Rolling | 🟢 Open | ❔ |
+| [Western Digital](generated/companies/western-digital.md) | [Hardware Engineering Intern](https://jobs.smartrecruiters.com/WesternDigital/744000140949875) | Fremont, CA +5 | Onsite | 2026-07-31 | Rolling | 🟢 Open | ❔ |
 | [Astranis](generated/companies/astranis.md) | [FPGA Associate Intern](https://job-boards.greenhouse.io/astranis/jobs/4677337006) | SF | Onsite | 2026-04-30 | Rolling | 🔴 Closed | ❔ |
 | [Astranis](generated/companies/astranis.md) | [FPGA Intern](https://job-boards.greenhouse.io/astranis/jobs/4677338006) | SF | Onsite | 2026-04-30 | Rolling | 🔴 Closed | ❔ |
 | [Ciena](generated/companies/ciena.md) | [Photonic Hardware Intern](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Photonic-Hardware-Intern--4-12-Months-_R031366) | Ottawa | Onsite | 2026-07-20 | Rolling | 🔴 Closed | ❔ |
@@ -87,5 +88,6 @@
 - Kepler Communications (1)
 - Nightwing (1)
 - Virtu Financial (1)
+- Western Digital (1)
 - GE Healthcare (1)
 - Persistent Systems (1)
