@@ -1,6 +1,6 @@
 {
   "generated": "2026-07-31",
-  "count": 1113,
+  "count": 1116,
   "internships": [
     {
       "schema_version": "1.0",
@@ -11312,7 +11312,7 @@
         "discovered": "2026-07-24",
         "last_verified": "2026-07-31"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -19350,7 +19350,7 @@
         "discovered": "2026-07-20",
         "last_verified": "2026-07-31"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -21256,6 +21256,108 @@
       "dates": {
         "posted": "2026-06-24",
         "discovered": "2026-07-17",
+        "last_verified": "2026-07-31"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "heliux-software-engineer-intern-2027-84c489",
+      "company": {
+        "name": "Heliux",
+        "slug": "heliux"
+      },
+      "role": "Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://jobs.ashbyhq.com/heliux/ff2b6f4b-00d0-4afe-b4f5-2dbf443409ef/application?embed=true",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "SF",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-31",
+        "discovered": "2026-07-31",
+        "last_verified": "2026-07-31"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "heliux-software-engineer-intern-2027",
+      "company": {
+        "name": "Heliux",
+        "slug": "heliux"
+      },
+      "role": "Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://jobs.ashbyhq.com/heliux/c71c0650-b6f7-491f-b291-6b280f58ee9c/application?embed=true",
+      "season": "spring",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "SF",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-31",
+        "discovered": "2026-07-31",
         "last_verified": "2026-07-31"
       },
       "status": "open",
@@ -29989,7 +30091,7 @@
         "discovered": "2026-07-30",
         "last_verified": "2026-07-31"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -32397,7 +32499,7 @@
         "discovered": "2026-07-21",
         "last_verified": "2026-07-31"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -54239,6 +54341,58 @@
       "dates": {
         "posted": "2026-07-27",
         "discovered": "2026-07-28",
+        "last_verified": "2026-07-31"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "tesla-vehicle-software-intern-vehicle-software-engineer-diagnostic-2026",
+      "company": {
+        "name": "Tesla",
+        "slug": "tesla"
+      },
+      "role": "Vehicle Software Intern - Vehicle Software Engineer-Diagnostic User Interface",
+      "category": "software-engineering",
+      "apply_url": "https://www.tesla.com/careers/search/job/278703",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Palo Alto",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-31",
+        "discovered": "2026-07-31",
         "last_verified": "2026-07-31"
       },
       "status": "open",

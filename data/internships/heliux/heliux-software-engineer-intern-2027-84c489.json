@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "nationgraph-software-engineer-intern-2026",
+  "id": "heliux-software-engineer-intern-2027-84c489",
   "company": {
-    "name": "NationGraph",
-    "slug": "nationgraph"
+    "name": "Heliux",
+    "slug": "heliux"
   },
   "role": "Software Engineer Intern",
   "category": "software-engineering",
-  "apply_url": "https://jobs.ashbyhq.com/nationgraph/6c3e8de6-bd8e-4ead-936f-d98c277c6416/application?embed=true",
-  "season": "fall",
-  "year": 2026,
+  "apply_url": "https://jobs.ashbyhq.com/heliux/ff2b6f4b-00d0-4afe-b4f5-2dbf443409ef/application?embed=true",
+  "season": "summer",
+  "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Toronto",
-      "country": "ON"
+      "city": "SF",
+      "country": "USA"
     }
   ],
   "compensation": {
@@ -39,11 +39,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-21",
-    "discovered": "2026-07-21",
+    "posted": "2026-07-31",
+    "discovered": "2026-07-31",
     "last_verified": "2026-07-31"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

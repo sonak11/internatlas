@@ -8,7 +8,7 @@ _Generated 2026-07-31_
 
 | Company | Listings |
 |---|---|
-| Tesla | 101 |
+| Tesla | 102 |
 | Jump Trading | 38 |
 | Cloudflare | 20 |
 | Susquehanna International Group (SIG) | 20 |
@@ -33,7 +33,7 @@ _Generated 2026-07-31_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 551 | `████████████` |
+| software-engineering | 554 | `████████████` |
 | quant | 121 | `███` |
 | ai | 113 | `███` |
 | machine-learning | 70 | `██` |
@@ -49,7 +49,10 @@ _Generated 2026-07-31_
 
 ## Newest listings
 
+- 2026-07-31 — **Heliux**: [Software Engineer Intern](https://jobs.ashbyhq.com/heliux/ff2b6f4b-00d0-4afe-b4f5-2dbf443409ef/application?embed=true)
+- 2026-07-31 — **Heliux**: [Software Engineer Intern](https://jobs.ashbyhq.com/heliux/c71c0650-b6f7-491f-b291-6b280f58ee9c/application?embed=true)
 - 2026-07-31 — **Melius**: [Software Engineer Intern](https://jobs.ashbyhq.com/melius/6a944911-dbbf-44c7-ba52-7866f7b433cf/application?embed=true)
+- 2026-07-31 — **Tesla**: [Vehicle Software Intern - Vehicle Software Engineer-Diagnostic User Interface](https://www.tesla.com/careers/search/job/278703)
 - 2026-07-30 — **Aptiv**: [Engineering Intern](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern---CD1_J000700242)
 - 2026-07-30 — **Arizona State University**: [Management Intern - Career Data and Analytics](https://asu.wd1.myworkdayjobs.com/ASUStaffCareers/job/Campus-Tempe/Management-Intern---Career-Data-and-Analytics_JR124023)
 - 2026-07-30 — **CALSTART**: [Data Analysis Intern](https://jobs.lever.co/calstart/39565f0d-d10f-458b-b72d-d807420059b8/apply)
@@ -66,9 +69,6 @@ _Generated 2026-07-31_
 - 2026-07-30 — **RTX**: [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Software-Engineering-Intern--Summer-2027-_01863072)
 - 2026-07-30 — **RTX**: [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CA-FULLERTON-675--1801-Hughes-Dr--BLDG-675/Software-Engineering-Intern--Summer-2027-_01863012)
 - 2026-07-30 — **Sparksoft**: [Technical Intern](https://job-boards.greenhouse.io/sparksoftcorporation/jobs/5199580007)
-- 2026-07-30 — **Susquehanna International Group (SIG)**: [Trading Operations Analyst Intern](https://careers-sig.icims.com/jobs/11244/job?mobile=true&needsRedirect=false)
-- 2026-07-30 — **Tesla**: [Software Engineer Intern - Software Engineer - AI Infrastructure](https://www.tesla.com/careers/search/job/278578)
-- 2026-07-30 — **The Home Depot**: [AI Engineer Intern](https://homedepot.wd5.myworkdayjobs.com/CareerDepotCanada/job/CANADA-STORE-SUPPORT-CENTER---7000/Intern--AI-Engineer_Req188547)
 
 ## Recently closed
 
@@ -120,6 +120,7 @@ _Generated 2026-07-31_
 - Ciena — Embedded Software Engineer Intern
 - Ciena — Photonic Hardware Intern
 - City of Aurora — Water GIS Intern
+- City of Austin — Austin Aviation Undergraduate Intern - IT Business Systems Analyst
 - Cloudflare — EIAM Business Enablement & Operations Intern (Fall 2026)
 - Cloudflare — Public Policy Intern
 - Cloudflare — Sales Project Manager Intern (AI Innovation) (Fall 2026)
@@ -159,6 +160,7 @@ _Generated 2026-07-31_
 - GE Aerospace — Engineer Intern
 - GE Appliances — Engineering Intern/Co-op
 - GE Healthcare — Engineering Development Program Intern - Hardware
+- GE Healthcare — Engineering Development Program Intern - Software
 - GE Vernova — GE Vernova Grid Automation Product Management Intern
 - GE Vernova — GE Vernova Grid Automation Product Management Intern
 - Generac — Data Science Intern
@@ -207,6 +209,7 @@ _Generated 2026-07-31_
 - McKesson — Supply Chain Engineering and Analytics Intern
 - Medpace, Inc. — Feasibility Informatics Intern/Co-op
 - Menasha Corporation — Material Innovation Center Intern
+- Menasha Corporation — Supply Chain Analytics Intern
 - Meta — Research Scientist Intern - 3D Vision & World Simulation
 - Meta — Research Scientist Intern PhD - Applied Research
 - Microchip Technology — Applications Engineering Intern
@@ -219,6 +222,7 @@ _Generated 2026-07-31_
 - Mosaic — Operations & Automation Engineering Co-op/Intern
 - National Laboratory of the Rockies — Energy Data Analysis Intern
 - National Laboratory of the Rockies — Graduate Geospatial Data Science Intern
+- NationGraph — Software Engineer Intern
 - Navy Federal — Year Round Intern - Business Intelligence Analyst
 - Neuralink — R&D Materials Engineer Intern
 - NewsBreak — Growth Engineer Intern - Growth Engineering

@@ -98,7 +98,7 @@
 | [Citadel](../companies/citadel.md) | 5/5 | quant, software-engineering |
 | [Citadel Securities](../companies/citadel-securities.md) | 4/4 | hardware, quant, software-engineering |
 | [City of Aurora](../companies/city-of-aurora.md) | 0/1 | software-engineering |
-| [City of Austin](../companies/city-of-austin.md) | 1/1 | software-engineering |
+| [City of Austin](../companies/city-of-austin.md) | 0/1 | software-engineering |
 | [Cloudflare](../companies/cloudflare.md) | 16/20 | ai, research, software-engineering |
 | [Cohere](../companies/cohere.md) | 3/3 | machine-learning, research, software-engineering |
 | [Colgate-Palmolive](../companies/colgate-palmolive.md) | 1/1 | software-engineering |
@@ -171,7 +171,7 @@
 | [G-Research](../companies/g-research.md) | 4/4 | data-science, machine-learning, quant, software-engineering |
 | [GE Aerospace](../companies/ge-aerospace.md) | 0/1 | software-engineering |
 | [GE Appliances](../companies/ge-appliances.md) | 0/1 | software-engineering |
-| [GE Healthcare](../companies/ge-healthcare.md) | 1/2 | hardware, software-engineering |
+| [GE Healthcare](../companies/ge-healthcare.md) | 0/2 | hardware, software-engineering |
 | [GE Vernova](../companies/ge-vernova.md) | 0/2 | product |
 | [GRITT ROBOTICS INC](../companies/gritt-robotics-inc.md) | 1/1 | machine-learning |
 | [Gemini](../companies/gemini.md) | 2/2 | software-engineering |
@@ -190,6 +190,7 @@
 | [Group 1001](../companies/group-1001.md) | 1/1 | quant |
 | [H&CO](../companies/h-co.md) | 1/1 | software-engineering |
 | [HARMAN](../companies/harman.md) | 1/1 | software-engineering |
+| [Heliux](../companies/heliux.md) | 2/2 | software-engineering |
 | [Helsing](../companies/helsing.md) | 1/1 | ai |
 | [Hendrick Motorsports](../companies/hendrick-motorsports.md) | 2/2 | software-engineering |
 | [Herdora](../companies/herdora.md) | 1/1 | software-engineering |
@@ -249,7 +250,7 @@
 | [Medpace](../companies/medpace.md) | 2/2 | ai, software-engineering |
 | [Medpace, Inc.](../companies/medpace-inc.md) | 2/3 | ai, data-engineering, software-engineering |
 | [Melius](../companies/melius.md) | 1/1 | software-engineering |
-| [Menasha Corporation](../companies/menasha-corporation.md) | 1/2 | software-engineering |
+| [Menasha Corporation](../companies/menasha-corporation.md) | 0/2 | software-engineering |
 | [Meta](../companies/meta.md) | 13/15 | ai, machine-learning, research |
 | [Microchip Technology](../companies/microchip-technology.md) | 0/1 | software-engineering |
 | [Midmark](../companies/midmark.md) | 1/1 | embedded |
@@ -267,7 +268,7 @@
 | [NVIDIA](../companies/nvidia.md) | 1/9 | machine-learning, quant, research, security, software-engineering |
 | [NXP Semiconductors](../companies/nxp-semiconductors.md) | 1/3 | ai, design, software-engineering |
 | [Nash](../companies/nash.md) | 1/1 | software-engineering |
-| [NationGraph](../companies/nationgraph.md) | 2/2 | software-engineering |
+| [NationGraph](../companies/nationgraph.md) | 1/2 | software-engineering |
 | [National Laboratory of the Rockies](../companies/national-laboratory-of-the-rockies.md) | 4/6 | cloud, data-science, software-engineering |
 | [Navy Federal](../companies/navy-federal.md) | 0/1 | software-engineering |
 | [Naïve](../companies/na-ve.md) | 1/1 | software-engineering |
@@ -388,7 +389,7 @@
 | [Tencent](../companies/tencent.md) | 5/8 | ai, machine-learning, research, software-engineering |
 | [Tenstorrent](../companies/tenstorrent.md) | 3/3 | ai, design |
 | [Terranox AI](../companies/terranox-ai.md) | 1/1 | machine-learning |
-| [Tesla](../companies/tesla.md) | 92/101 | ai, cloud, data-engineering, design, embedded, hardware, machine-learning, product, security, software-engineering |
+| [Tesla](../companies/tesla.md) | 93/102 | ai, cloud, data-engineering, design, embedded, hardware, machine-learning, product, security, software-engineering |
 | [Texas Instruments](../companies/texas-instruments.md) | 1/1 | software-engineering |
 | [The Federal Reserve System](../companies/the-federal-reserve-system.md) | 0/1 | software-engineering |
 | [The Home Depot](../companies/the-home-depot.md) | 1/1 | ai |

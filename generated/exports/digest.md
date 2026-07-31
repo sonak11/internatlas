@@ -1,6 +1,6 @@
 # 📬 InternAtlas Weekly Digest — 2026-07-31
 
-## 🆕 New this week (191)
+## 🆕 New this week (194)
 
 - **Anthelion Capital** — [Quant Developer / Quant Research Intern](https://jobs.ashbyhq.com/anthelioncap/5e2ea37b-2369-474e-b717-c24c60976e96) · quant · —
 - **Appian** — [Information Security Engineer Intern](https://job-boards.greenhouse.io/appian/jobs/8088496) · security · —
@@ -63,6 +63,8 @@
 - **General Dynamics Information Technology** — [Systems Engineer Intern](https://www.gd.com/careers/systems-engineer-intern-albany-ny-us-rq225289-gdit-opportunity) · software-engineering · —
 - **GoDaddy** — [Software Development Engineer Intern](https://job-boards.greenhouse.io/eventsandinterns/jobs/7820942003) · software-engineering · —
 - **Google** — [Software Engineering Intern](https://www.google.com/about/careers/applications/jobs/results/85564713261245126-software-engineering-intern-bs-summer-2027) · software-engineering · —
+- **Heliux** — [Software Engineer Intern](https://jobs.ashbyhq.com/heliux/ff2b6f4b-00d0-4afe-b4f5-2dbf443409ef/application?embed=true) · software-engineering · —
+- **Heliux** — [Software Engineer Intern](https://jobs.ashbyhq.com/heliux/c71c0650-b6f7-491f-b291-6b280f58ee9c/application?embed=true) · software-engineering · —
 - **Helsing** — [AI Research Intern - 3D Computer Vision](https://helsing.ai/jobs/4941957101?gh_jid=4941957101) · ai · —
 - **Hudson River Trading** — [Intern](https://www.hudsonrivertrading.com/hrt-job/algorithm-development-quant-research-internship-summer-2027/) · software-engineering · —
 - **Hudson River Trading** — [Software Engineer Intern](https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-c-or-python-summer-2027/) · software-engineering · —
@@ -169,6 +171,7 @@
 - **Tesla** — [Localization Specialist Intern](https://www.tesla.com/careers/search/job/internship-localization-specialist-it-applications-fall-2026-276308) · software-engineering · —
 - **Tesla** — [Software Engineer Intern - Software Engineer - AI Infrastructure](https://www.tesla.com/careers/search/job/278578) · ai · —
 - **Tesla** — [Vehicle Software Intern - Vehicle Controls](https://www.tesla.com/careers/search/job/278203) · software-engineering · —
+- **Tesla** — [Vehicle Software Intern - Vehicle Software Engineer-Diagnostic User Interface](https://www.tesla.com/careers/search/job/278703) · software-engineering · —
 - **Texas Instruments** — [Product Operations Analyst Intern](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25016766) · software-engineering · —
 - **The Home Depot** — [AI Engineer Intern](https://homedepot.wd5.myworkdayjobs.com/CareerDepotCanada/job/CANADA-STORE-SUPPORT-CENTER---7000/Intern--AI-Engineer_Req188547) · ai · —
 - **The Mosaic Company** — [Cybersecurity Co-Op/Intern](https://mosaic.wd5.myworkdayjobs.com/mosaic/job/US---Tampa-FL-Lithia-area/Co-op-Student-Admin_64613-1) · security · —
