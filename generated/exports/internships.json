@@ -1164,7 +1164,7 @@
         "discovered": "2026-07-21",
         "last_verified": "2026-07-31"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -10423,7 +10423,7 @@
         "discovered": "2026-07-22",
         "last_verified": "2026-07-31"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -12647,6 +12647,52 @@
     },
     {
       "schema_version": "1.0",
+      "id": "colonist-product-developer-intern-2026",
+      "company": {
+        "name": "Colonist",
+        "slug": "colonist"
+      },
+      "role": "Product Developer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://jobs.ashbyhq.com/colonist/b9285b46-6972-4443-b34f-8d74631a0dbd/application?embed=true",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "remote",
+      "locations": [],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-03-27",
+        "discovered": "2026-07-31",
+        "last_verified": "2026-07-31"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "commercial-metals-ai-intern-2026",
       "company": {
         "name": "Commercial Metals",
@@ -13111,7 +13157,7 @@
         "discovered": "2026-07-31",
         "last_verified": "2026-07-31"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -13694,7 +13740,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-31"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -18948,7 +18994,7 @@
         "discovered": "2026-07-23",
         "last_verified": "2026-07-31"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -19986,7 +20032,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-31"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -28989,7 +29035,7 @@
         "discovered": "2026-07-29",
         "last_verified": "2026-07-31"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -29092,7 +29138,7 @@
         "discovered": "2026-07-24",
         "last_verified": "2026-07-31"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -29616,7 +29662,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-31"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -31377,7 +31423,7 @@
         "discovered": "2026-07-24",
         "last_verified": "2026-07-31"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -32284,7 +32330,7 @@
         "discovered": "2026-07-29",
         "last_verified": "2026-07-31"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -32925,7 +32971,7 @@
         "discovered": "2026-07-24",
         "last_verified": "2026-07-31"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -33034,7 +33080,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-31"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -38800,7 +38846,7 @@
         "discovered": "2026-07-25",
         "last_verified": "2026-07-31"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -39997,7 +40043,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-31"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -43147,62 +43193,7 @@
         "discovered": "2026-07-20",
         "last_verified": "2026-07-31"
       },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "rtx-software-engineer-intern-2027-4f3153",
-      "company": {
-        "name": "RTX",
-        "slug": "rtx"
-      },
-      "role": "Software Engineer Intern",
-      "category": "software-engineering",
-      "apply_url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Software-Engineering-Intern--Summer-2027-_01863072",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "McKinney",
-          "state": "TX",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [
-          "masters",
-          "phd"
-        ],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-07-30",
-        "discovered": "2026-07-30",
-        "last_verified": "2026-07-31"
-      },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -43254,7 +43245,7 @@
         "discovered": "2026-07-30",
         "last_verified": "2026-07-31"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -43269,14 +43260,14 @@
       },
       "role": "Software Engineer Intern",
       "category": "software-engineering",
-      "apply_url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CA-FULLERTON-675--1801-Hughes-Dr--BLDG-675/Software-Engineering-Intern--Summer-2027-_01863012",
+      "apply_url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Software-Engineering-Intern--Summer-2027-_01863072",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
       "locations": [
         {
-          "city": "Anaheim",
-          "state": "CA",
+          "city": "McKinney",
+          "state": "TX",
           "country": "USA"
         }
       ],
@@ -45539,7 +45530,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-31"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -46269,7 +46260,7 @@
         "discovered": "2026-07-21",
         "last_verified": "2026-07-31"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -46372,7 +46363,7 @@
         "discovered": "2026-07-21",
         "last_verified": "2026-07-31"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -55480,7 +55471,7 @@
         "discovered": "2026-07-22",
         "last_verified": "2026-07-31"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"

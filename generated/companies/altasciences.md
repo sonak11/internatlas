@@ -6,7 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
-| Altasciences | [Process Innovation Product Management Intern](https://altasciences.wd1.myworkdayjobs.com/Careers/job/Laval-Quebec/Process-Innovation---Product-Management-Intern_R102753) | Laval +1 | Onsite | 2026-07-04 | Rolling | 🟢 Open | ❔ |
+| Altasciences | [Process Innovation Product Management Intern](https://altasciences.wd1.myworkdayjobs.com/Careers/job/Laval-Quebec/Process-Innovation---Product-Management-Intern_R102753) | Laval +1 | Onsite | 2026-07-04 | Rolling | 🔴 Closed | ❔ |
 
 ## Related
 

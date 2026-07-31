@@ -1,6 +1,6 @@
 # 📬 InternAtlas Weekly Digest — 2026-07-31
 
-## 🆕 New this week (194)
+## 🆕 New this week (193)
 
 - **Anthelion Capital** — [Quant Developer / Quant Research Intern](https://jobs.ashbyhq.com/anthelioncap/5e2ea37b-2369-474e-b717-c24c60976e96) · quant · —
 - **Appian** — [Information Security Engineer Intern](https://job-boards.greenhouse.io/appian/jobs/8088496) · security · —
@@ -144,9 +144,8 @@
 - **Quadrillion** — [Software Engineering Intern](https://jobs.ashbyhq.com/quadrillion-labs/a4acc44c-31ce-41a0-ab44-2500487b4d05/application?embed=true) · software-engineering · —
 - **Quadrillion Labs** — [Software Engineering Intern](https://jobs.ashbyhq.com/quadrillion-labs/a4acc44c-31ce-41a0-ab44-2500487b4d05) · software-engineering · —
 - **ROCKWOOL Group** — [Paint & Coating Intern](https://rockwoolgroup.wd3.myworkdayjobs.com/ROCKWOOL/job/Chicago-Illinois/Mono---Paint---Coating-Intern_R0035879) · software-engineering · —
-- **RTX** — [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Software-Engineering-Intern--Summer-2027-_01863072) · software-engineering · —
 - **RTX** — [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-PA-STATE-COLLEGE-5A--302-Science-Park-Rd--BLDG-5A/Software-Engineering-Intern--Summer-2027-_01862842) · software-engineering · —
-- **RTX** — [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CA-FULLERTON-675--1801-Hughes-Dr--BLDG-675/Software-Engineering-Intern--Summer-2027-_01863012) · software-engineering · —
+- **RTX** — [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Software-Engineering-Intern--Summer-2027-_01863072) · software-engineering · —
 - **Radix Trading** — [Quantitative Technologist Intern, C++](https://job-boards.greenhouse.io/radixuniversity/jobs/8500265002) · quant · —
 - **RapDev** — [ServiceNow Engineer Intern](https://jobs.ashbyhq.com/rapdev/b022388e-79d0-43b8-b524-64aaed9ff4dc/application?embed=true) · software-engineering · —
 - **Redwood Materials** — [Embedded Software Engineer Intern](https://boards.greenhouse.io/redwoodmaterials/jobs/6126784004) · embedded · —

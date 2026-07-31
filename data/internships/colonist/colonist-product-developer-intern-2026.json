@@ -1,23 +1,17 @@
 {
   "schema_version": "1.0",
-  "id": "rtx-software-engineer-intern-2027-4f3153",
+  "id": "colonist-product-developer-intern-2026",
   "company": {
-    "name": "RTX",
-    "slug": "rtx"
+    "name": "Colonist",
+    "slug": "colonist"
   },
-  "role": "Software Engineer Intern",
+  "role": "Product Developer Intern",
   "category": "software-engineering",
-  "apply_url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Software-Engineering-Intern--Summer-2027-_01863072",
-  "season": "summer",
-  "year": 2027,
-  "work_mode": "onsite",
-  "locations": [
-    {
-      "city": "McKinney",
-      "state": "TX",
-      "country": "USA"
-    }
-  ],
+  "apply_url": "https://jobs.ashbyhq.com/colonist/b9285b46-6972-4443-b34f-8d74631a0dbd/application?embed=true",
+  "season": "fall",
+  "year": 2026,
+  "work_mode": "remote",
+  "locations": [],
   "compensation": {
     "currency": "USD",
     "housing_stipend": false,
@@ -25,10 +19,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters",
-      "phd"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -43,8 +34,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-30",
-    "discovered": "2026-07-30",
+    "posted": "2026-03-27",
+    "discovered": "2026-07-31",
     "last_verified": "2026-07-31"
   },
   "status": "open",
