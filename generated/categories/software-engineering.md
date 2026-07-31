@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 💻 Software Engineering Internships
 
-**549** tracked · **410** open now
+**551** tracked · **412** open now
 
 ## Current openings
 
@@ -41,6 +41,7 @@
 | [Aquatic Capital Management](generated/companies/aquatic-capital-management.md) | [Software Engineer Intern](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489233002) | London +1 | Onsite | 2026-04-01 | Rolling | 🟢 Open | ❔ |
 | [Arcadis](generated/companies/arcadis.md) | [GIS Intern](https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/42762) | Atlanta, GA | Onsite | 2026-07-22 | Rolling | 🟢 Open | ❔ |
 | [Argonne National Laboratory](generated/companies/argonne-national-laboratory.md) | [Business Systems Administration Internship](https://argonne.wd1.myworkdayjobs.com/EDU_PUB/job/Lemont-IL-USA/Business-Systems-Administration-Internship_413528) | Woodridge, IL | Onsite | 2026-07-04 | Rolling | 🟢 Open | ❔ |
+| [Arizona State University](generated/companies/arizona-state-university.md) | [Management Intern - Career Data and Analytics](https://asu.wd1.myworkdayjobs.com/ASUStaffCareers/job/Campus-Tempe/Management-Intern---Career-Data-and-Analytics_JR124023) | Tempe, AZ | Onsite | 2026-07-30 | Rolling | 🟢 Open | ❔ |
 | [Arkema Global](generated/companies/arkema-global.md) | [Manufacturing Data Systems Intern](https://jobs.arkema.com/job/Radnor-Manufacturing-Data-Systems-Intern-Job-PA/1420491833/?ats=successfactors) | Villanova, PA | Onsite | 2026-07-29 | Rolling | 🟢 Open | ❔ |
 | [Arlington County VA](generated/companies/arlington-county-va.md) | [Utility Engineering Intern](https://fa-exkk-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1624) | Arlington, VA | Onsite | 2026-07-03 | Rolling | 🟢 Open | ❔ |
 | [ASM International](generated/companies/asm-international.md) | [Software Engineering Intern](https://www.asm.com/open-vacancies/?gh_jid=4830113101) | Phoenix, AZ | Onsite | 2026-04-22 | Rolling | 🟢 Open | ❔ |
@@ -210,6 +211,7 @@
 | [Marvell](generated/companies/marvell.md) | [Analog Engineer Intern](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Vancouver-Canada/Analog-Engineer-Intern---PhD_2502424-1) | Vancouver | Onsite | 2026-07-04 | Rolling | 🟢 Open | ❔ |
 | [Mathtech](generated/companies/mathtech.md) | [Web Application Developer Intern](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?jobId=565843) | Falls Church, VA | Onsite | 2026-07-27 | Rolling | 🟢 Open | ❌ |
 | [Medpace](generated/companies/medpace.md) | [Feasibility Informatics Internship/Co-op](https://careers.medpace.com/jobs/12803?lang=en-us&icims=1) | Cincinnati, OH | Onsite | 2026-06-03 | Rolling | 🟢 Open | ❔ |
+| [Melius](generated/companies/melius.md) | [Software Engineer Intern](https://jobs.ashbyhq.com/melius/6a944911-dbbf-44c7-ba52-7866f7b433cf/application?embed=true) | NYC | Onsite | 2026-07-31 | Rolling | 🟢 Open | ❔ |
 | [Menasha Corporation](generated/companies/menasha-corporation.md) | [Supply Chain Analytics Intern](https://menasha.wd12.myworkdayjobs.com/menashacorp/job/Neenah-Wisconsin/Supply-Chain-Analytics-Intern_R14985) | Neenah, WI | Onsite | 2026-07-29 | Rolling | 🟢 Open | ❔ |
 | [Mindsmith](generated/companies/mindsmith.md) | [Software Engineering Intern](https://app.dover.com/apply/mindsmith/e0ca8149-6811-4de9-ba38-65a0244a2b7e) | Lehi, UT | Onsite | 2026-06-24 | Rolling | 🟢 Open | ❔ |
 | [Mobius Renewables](generated/companies/mobius-renewables.md) | [Software Engineer Intern](https://ats.rippling.com/greengas/jobs/b2938290-cc66-4f54-9888-bbe286c1d9b6) | Houston, TX | Onsite | 2026-07-21 | Rolling | 🟢 Open | ❔ |
@@ -661,6 +663,7 @@
 - Aquatic Capital Management (1)
 - Arcadis (1)
 - Argonne National Laboratory (1)
+- Arizona State University (1)
 - Arkema Global (1)
 - Arlington County VA (1)
 - ASM International (1)
@@ -737,6 +740,7 @@
 - Markem-Imaje (1)
 - Mathtech (1)
 - Medpace (1)
+- Melius (1)
 - Mindsmith (1)
 - Moss & Associates (1)
 - Nash (1)

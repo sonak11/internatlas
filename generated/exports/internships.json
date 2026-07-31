@@ -1,6 +1,6 @@
 {
   "generated": "2026-07-31",
-  "count": 1111,
+  "count": 1113,
   "internships": [
     {
       "schema_version": "1.0",
@@ -4409,6 +4409,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "arizona-state-university-management-intern-career-data-and-analytics-2026",
+      "company": {
+        "name": "Arizona State University",
+        "slug": "arizona-state-university"
+      },
+      "role": "Management Intern - Career Data and Analytics",
+      "category": "software-engineering",
+      "apply_url": "https://asu.wd1.myworkdayjobs.com/ASUStaffCareers/job/Campus-Tempe/Management-Intern---Career-Data-and-Analytics_JR124023",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Tempe",
+          "state": "AZ",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-30",
+        "discovered": "2026-07-31",
+        "last_verified": "2026-07-31"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "arkema-global-manufacturing-data-systems-intern-2026",
       "company": {
         "name": "Arkema Global",
@@ -4979,7 +5031,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-31"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -29783,6 +29835,57 @@
         "last_verified": "2026-07-30"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "melius-software-engineer-intern-2026",
+      "company": {
+        "name": "Melius",
+        "slug": "melius"
+      },
+      "role": "Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://jobs.ashbyhq.com/melius/6a944911-dbbf-44c7-ba52-7866f7b433cf/application?embed=true",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "NYC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-31",
+        "discovered": "2026-07-31",
+        "last_verified": "2026-07-31"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"

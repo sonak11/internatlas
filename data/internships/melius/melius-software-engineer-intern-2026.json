@@ -1,19 +1,19 @@
 {
   "schema_version": "1.0",
-  "id": "astranis-fpga-intern-2026",
+  "id": "melius-software-engineer-intern-2026",
   "company": {
-    "name": "Astranis",
-    "slug": "astranis"
+    "name": "Melius",
+    "slug": "melius"
   },
-  "role": "FPGA Intern",
-  "category": "hardware",
-  "apply_url": "https://job-boards.greenhouse.io/astranis/jobs/4677338006",
+  "role": "Software Engineer Intern",
+  "category": "software-engineering",
+  "apply_url": "https://jobs.ashbyhq.com/melius/6a944911-dbbf-44c7-ba52-7866f7b433cf/application?embed=true",
   "season": "fall",
   "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "SF",
+      "city": "NYC",
       "country": "USA"
     }
   ],
@@ -24,9 +24,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -41,11 +39,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-04-30",
-    "discovered": "2026-07-17",
+    "posted": "2026-07-31",
+    "discovered": "2026-07-31",
     "last_verified": "2026-07-31"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

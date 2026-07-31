@@ -1,6 +1,6 @@
 # 📬 InternAtlas Weekly Digest — 2026-07-31
 
-## 🆕 New this week (189)
+## 🆕 New this week (191)
 
 - **Anthelion Capital** — [Quant Developer / Quant Research Intern](https://jobs.ashbyhq.com/anthelioncap/5e2ea37b-2369-474e-b717-c24c60976e96) · quant · —
 - **Appian** — [Information Security Engineer Intern](https://job-boards.greenhouse.io/appian/jobs/8088496) · security · —
@@ -10,6 +10,7 @@
 - **Apptronik** — [Software Engineer Intern, ML Systems](https://job-boards.greenhouse.io/apptronik/jobs/6128057004?gh_jid=6128057004) · machine-learning · —
 - **Apptronik** — [Software Engineer Intern - ML Systems](https://boards.greenhouse.io/apptronik/jobs/6128057004) · machine-learning · —
 - **Aptiv** — [Engineering Intern](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern---CD1_J000700242) · software-engineering · —
+- **Arizona State University** — [Management Intern - Career Data and Analytics](https://asu.wd1.myworkdayjobs.com/ASUStaffCareers/job/Campus-Tempe/Management-Intern---Career-Data-and-Analytics_JR124023) · software-engineering · —
 - **Arkema Global** — [Manufacturing Data Systems Intern](https://jobs.arkema.com/job/Radnor-Manufacturing-Data-Systems-Intern-Job-PA/1420491833/?ats=successfactors) · software-engineering · —
 - **Assurant** — [Digital & AI Transformation Intern](https://assurant.wd1.myworkdayjobs.com/External_Limited_Posting/job/Atlanta-GA/Digital---AI-Transformation-Intern_R-114103-3) · ai · —
 - **Atomic Semi** — [Infrastructure Software Engineering Intern](https://jobs.ashbyhq.com/fab2/867c67f7-20b5-4726-b9da-85a760d3851e?embed=true) · cloud · —
@@ -95,6 +96,7 @@
 - **Loop** — [Data Scientist Intern](https://ats.rippling.com/loop-careers/jobs/e016b693-7ce9-4dad-95ff-03b934fbd580) · data-science · —
 - **Magna** — [R&D-Computer Vision Engineer Intern](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Troy-Michigan-US/R-D--Computer-Vision-Engineering-Intern_R00253444-1) · software-engineering · —
 - **Mathtech** — [Web Application Developer Intern](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?jobId=565843) · software-engineering · —
+- **Melius** — [Software Engineer Intern](https://jobs.ashbyhq.com/melius/6a944911-dbbf-44c7-ba52-7866f7b433cf/application?embed=true) · software-engineering · —
 - **Menasha Corporation** — [Supply Chain Analytics Intern](https://menasha.wd12.myworkdayjobs.com/menashacorp/job/Neenah-Wisconsin/Supply-Chain-Analytics-Intern_R14985) · software-engineering · —
 - **Mistral AI** — [AI Data Solutions Intern - Data Partnerships](https://jobs.ashbyhq.com/mistral.ai/60fcc44d-4d96-469d-a96c-d6a9bbfe8edd/application?embed=true) · ai · —
 - **Mobius Renewables** — [Software Engineer Intern](https://ats.rippling.com/en-GB/greengas/jobs/b2938290-cc66-4f54-9888-bbe286c1d9b6) · software-engineering · —

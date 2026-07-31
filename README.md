@@ -8,7 +8,7 @@
 
 No dead links, no generic careers pages. Just current openings, newest first, with the date each one was posted.
 
-![summer 2027](https://img.shields.io/badge/summer%202027-332-blue?style=for-the-badge) ![open now](https://img.shields.io/badge/open%20now-287-brightgreen?style=for-the-badge) ![companies](https://img.shields.io/badge/companies-438-purple?style=for-the-badge) ![visa sponsors](https://img.shields.io/badge/visa%20sponsors-18-orange?style=for-the-badge) ![remote roles](https://img.shields.io/badge/remote%20roles-29-teal?style=for-the-badge) ![sync](https://img.shields.io/badge/sync-hourly-success?style=for-the-badge) ![updated](https://img.shields.io/badge/updated-2026--07--30%208:08%20PM%20EDT-lightgrey?style=for-the-badge)
+![summer 2027](https://img.shields.io/badge/summer%202027-332-blue?style=for-the-badge) ![open now](https://img.shields.io/badge/open%20now-287-brightgreen?style=for-the-badge) ![companies](https://img.shields.io/badge/companies-440-purple?style=for-the-badge) ![visa sponsors](https://img.shields.io/badge/visa%20sponsors-18-orange?style=for-the-badge) ![remote roles](https://img.shields.io/badge/remote%20roles-29-teal?style=for-the-badge) ![sync](https://img.shields.io/badge/sync-hourly-success?style=for-the-badge) ![updated](https://img.shields.io/badge/updated-2026--07--31%2012:28%20AM%20EDT-lightgrey?style=for-the-badge)
 
 [**📋 Browse listings**](#-summer-2027-internships) · [**🗓 Other terms**](#-other-open-terms) · [**➕ Add one**](CONTRIBUTING.md) · [**🔗 Sources**](SOURCES.md)
 
@@ -429,16 +429,18 @@ No dead links, no generic careers pages. Just current openings, newest first, wi
 
 ## 🗓 Other open terms
 
-**779** more live roles for Fall 2026, Winter 2027 and Spring 2027 — real, currently-open, just not Summer 2027, so they're tucked away to keep the main list clean.
+**781** more live roles for Fall 2026, Winter 2027 and Spring 2027 — real, currently-open, just not Summer 2027, so they're tucked away to keep the main list clean.
 
 <details>
-<summary><b>Show other open terms (779)</b></summary>
+<summary><b>Show other open terms (781)</b></summary>
 
-### 🍂 Fall 2026 (704 · 513 open)
+### 🍂 Fall 2026 (706 · 514 open)
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
+| [Melius](generated/companies/melius.md) | [Software Engineer Intern](https://jobs.ashbyhq.com/melius/6a944911-dbbf-44c7-ba52-7866f7b433cf/application?embed=true) | NYC | Onsite | 2026-07-31 | Rolling | 🟢 Open | ❔ |
 | [Aptiv](generated/companies/aptiv.md) | [Engineering Intern](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern---CD1_J000700242) | Kanata | Onsite | 2026-07-30 | Rolling | 🟢 Open | ❔ |
+| [Arizona State University](generated/companies/arizona-state-university.md) | [Management Intern - Career Data and Analytics](https://asu.wd1.myworkdayjobs.com/ASUStaffCareers/job/Campus-Tempe/Management-Intern---Career-Data-and-Analytics_JR124023) | Tempe, AZ | Onsite | 2026-07-30 | Rolling | 🟢 Open | ❔ |
 | [CALSTART](generated/companies/calstart.md) | [Data Analysis Intern](https://jobs.lever.co/calstart/39565f0d-d10f-458b-b72d-d807420059b8/apply) | Remote | Remote | 2026-07-30 | Rolling | 🟢 Open | ❔ |
 | [CALSTART](generated/companies/calstart.md) | [Web Development Intern](https://jobs.lever.co/calstart/cbd0d758-18b0-481d-9e67-a065682f30ea/apply) | Remote | Remote | 2026-07-30 | Rolling | 🟢 Open | ❔ |
 | [CALSTART](generated/companies/calstart.md) | [Zero-Emission Data & Research Intern](https://jobs.lever.co/calstart/faf839b1-8c62-4fcf-991c-71750d8fc909/apply) | Remote | Remote | 2026-07-30 | Rolling | 🟢 Open | ❔ |
@@ -901,7 +903,6 @@ No dead links, no generic careers pages. Just current openings, newest first, wi
 | [Cohere](generated/companies/cohere.md) | [Software Engineer Intern](https://jobs.ashbyhq.com/cohere/8c035d3d-081d-4c8a-914a-72f4efaad254/application) | Toronto +2 | Onsite | 2026-05-01 | Rolling | 🟢 Open | ❔ |
 | [Gemini](generated/companies/gemini.md) | [Software Engineer Intern](https://boards.greenhouse.io/embed/job_app?for=gemini&token=7875125&gh_jid=7875125) | NYC | Onsite | 2026-05-01 | Rolling | 🟢 Open | ❔ |
 | [TMEIC](generated/companies/tmeic.md) | [Intern - Applications, AI and Machine Learning](https://apply.workable.com/tmeic-corporation-americas/j/FD4C9770FF/) | Roanoke, VA | Onsite | 2026-05-01 | Rolling | 🟢 Open | ❌ |
-| [Astranis](generated/companies/astranis.md) | [FPGA Intern](https://job-boards.greenhouse.io/astranis/jobs/4677338006) | SF | Onsite | 2026-04-30 | Rolling | 🟢 Open | ❔ |
 | [Integra FEC](generated/companies/integra-fec.md) | [Data Analyst Intern](https://job-boards.greenhouse.io/integrainterns/jobs/5134523008) | Austin, TX | Onsite | 2026-04-28 | Rolling | 🟢 Open | ❔ |
 | [Integra FEC](generated/companies/integra-fec.md) | [Data Analyst Intern](https://job-boards.greenhouse.io/integra/jobs/5134522008) | Austin, TX | Onsite | 2026-04-28 | Rolling | 🟢 Open | ❔ |
 | [Integra FEC](generated/companies/integra-fec.md) | [Data Scientist Intern](https://job-boards.greenhouse.io/integrainterns/jobs/5134593008) | Austin, TX | Onsite | 2026-04-28 | Rolling | 🟢 Open | ❔ |
@@ -1126,6 +1127,7 @@ No dead links, no generic careers pages. Just current openings, newest first, wi
 | [Nokia](generated/companies/nokia.md) | [Incubation Developer Coop/Intern](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34227) | Ottawa | Onsite | 2026-05-04 | Rolling | 🔴 Closed | ❔ |
 | [American Enterprise Institute](generated/companies/american-enterprise-institute.md) | [Data Analysis & AI Policy Intern](https://internships-aei.icims.com/jobs/2612/job?mobile=true&needsRedirect=false) | Washington, DC | Onsite | 2026-05-01 | Rolling | 🔴 Closed | ❔ |
 | [Astranis](generated/companies/astranis.md) | [FPGA Associate Intern](https://job-boards.greenhouse.io/astranis/jobs/4677337006) | SF | Onsite | 2026-04-30 | Rolling | 🔴 Closed | ❔ |
+| [Astranis](generated/companies/astranis.md) | [FPGA Intern](https://job-boards.greenhouse.io/astranis/jobs/4677338006) | SF | Onsite | 2026-04-30 | Rolling | 🔴 Closed | ❔ |
 | [Intel](generated/companies/intel.md) | [AI Software Engineering Intern](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/AI-Software-Engineering-Intern_JR0282639) | Hillsboro, OR +1 | Onsite | 2026-04-29 | Rolling | 🔴 Closed | ❌ |
 | [NVIDIA](generated/companies/nvidia.md) | [Software Engineering Intern, JAX](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--JAX---Fall-2026_JR2009745) | Santa Clara, CA | Onsite | 2026-04-25 | Rolling | 🔴 Closed | ❔ |
 | [Hermeus](generated/companies/hermeus.md) | [Modeling & Simulation Software Engineering Intern](https://jobs.lever.co/hermeus/49f7cf3f-bf66-44ca-bf97-ee0f7180a68d) | Los Angeles, CA | Onsite | 2026-04-20 | Rolling | 🔴 Closed | ❌ |
@@ -1238,7 +1240,7 @@ Pulled automatically every hour: company ATS boards (Greenhouse, Lever, Ashby) f
 | Source | Listings | Type |
 |---|---:|---|
 | Company ATS boards (Greenhouse · Lever · Ashby) | 105 | Direct API |
-| [SimplifyJobs / Summer Internships](https://github.com/SimplifyJobs/Summer2026-Internships) | 765 | Community feed |
+| [SimplifyJobs / Summer Internships](https://github.com/SimplifyJobs/Summer2026-Internships) | 767 | Community feed |
 | [vanshb03 / Summer 2027 Internships](https://github.com/vanshb03/Summer2027-Internships) | 241 | Community feed |
 
 ## 🤝 Add a listing

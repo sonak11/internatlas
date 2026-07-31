@@ -33,7 +33,7 @@ _Generated 2026-07-31_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 549 | `████████████` |
+| software-engineering | 551 | `████████████` |
 | quant | 121 | `███` |
 | ai | 113 | `███` |
 | machine-learning | 70 | `██` |
@@ -49,7 +49,9 @@ _Generated 2026-07-31_
 
 ## Newest listings
 
+- 2026-07-31 — **Melius**: [Software Engineer Intern](https://jobs.ashbyhq.com/melius/6a944911-dbbf-44c7-ba52-7866f7b433cf/application?embed=true)
 - 2026-07-30 — **Aptiv**: [Engineering Intern](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern---CD1_J000700242)
+- 2026-07-30 — **Arizona State University**: [Management Intern - Career Data and Analytics](https://asu.wd1.myworkdayjobs.com/ASUStaffCareers/job/Campus-Tempe/Management-Intern---Career-Data-and-Analytics_JR124023)
 - 2026-07-30 — **CALSTART**: [Data Analysis Intern](https://jobs.lever.co/calstart/39565f0d-d10f-458b-b72d-d807420059b8/apply)
 - 2026-07-30 — **CALSTART**: [Web Development Intern](https://jobs.lever.co/calstart/cbd0d758-18b0-481d-9e67-a065682f30ea/apply)
 - 2026-07-30 — **CALSTART**: [Zero-Emission Data & Research Intern](https://jobs.lever.co/calstart/faf839b1-8c62-4fcf-991c-71750d8fc909/apply)
@@ -67,8 +69,6 @@ _Generated 2026-07-31_
 - 2026-07-30 — **Susquehanna International Group (SIG)**: [Trading Operations Analyst Intern](https://careers-sig.icims.com/jobs/11244/job?mobile=true&needsRedirect=false)
 - 2026-07-30 — **Tesla**: [Software Engineer Intern - Software Engineer - AI Infrastructure](https://www.tesla.com/careers/search/job/278578)
 - 2026-07-30 — **The Home Depot**: [AI Engineer Intern](https://homedepot.wd5.myworkdayjobs.com/CareerDepotCanada/job/CANADA-STORE-SUPPORT-CENTER---7000/Intern--AI-Engineer_Req188547)
-- 2026-07-30 — **University of Texas at Austin**: [Video and Analytics Intern - Baseball](https://utaustin.wd1.myworkdayjobs.com/utstudent/job/UT-MAIN-CAMPUS/Video-and-Analytics-Intern--Baseball_R_00047706)
-- 2026-07-29 — **Arkema Global**: [Manufacturing Data Systems Intern](https://jobs.arkema.com/job/Radnor-Manufacturing-Data-Systems-Intern-Job-PA/1420491833/?ats=successfactors)
 
 ## Recently closed
 
@@ -89,6 +89,7 @@ _Generated 2026-07-31_
 - Arrowstreet Capital — Quantitative Developer Intern
 - Assurant — Digital & AI Transformation Intern
 - Astranis — FPGA Associate Intern
+- Astranis — FPGA Intern
 - Autodesk — Machine Learning Developer Intern
 - Avanade — Software Engineering Intern
 - AVEVA — Software Developer Intern Co-op

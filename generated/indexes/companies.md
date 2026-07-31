@@ -46,11 +46,12 @@
 | [Ardian](../companies/ardian.md) | 1/1 | data-science |
 | [Argmax](../companies/argmax.md) | 1/1 | ai |
 | [Argonne National Laboratory](../companies/argonne-national-laboratory.md) | 1/1 | software-engineering |
+| [Arizona State University](../companies/arizona-state-university.md) | 1/1 | software-engineering |
 | [Arkema Global](../companies/arkema-global.md) | 1/1 | software-engineering |
 | [Arlington County VA](../companies/arlington-county-va.md) | 1/1 | software-engineering |
 | [Arrowstreet Capital](../companies/arrowstreet-capital.md) | 1/2 | quant |
 | [Assurant](../companies/assurant.md) | 0/1 | ai |
-| [Astranis](../companies/astranis.md) | 10/11 | design, embedded, hardware, software-engineering |
+| [Astranis](../companies/astranis.md) | 9/11 | design, embedded, hardware, software-engineering |
 | [Atomic Semi](../companies/atomic-semi.md) | 6/6 | cloud, design, embedded, software-engineering |
 | [Autodesk](../companies/autodesk.md) | 4/5 | cloud, machine-learning, software-engineering |
 | [Avanade](../companies/avanade.md) | 0/1 | software-engineering |
@@ -247,6 +248,7 @@
 | [McKesson](../companies/mckesson.md) | 1/3 | ai, software-engineering |
 | [Medpace](../companies/medpace.md) | 2/2 | ai, software-engineering |
 | [Medpace, Inc.](../companies/medpace-inc.md) | 2/3 | ai, data-engineering, software-engineering |
+| [Melius](../companies/melius.md) | 1/1 | software-engineering |
 | [Menasha Corporation](../companies/menasha-corporation.md) | 1/2 | software-engineering |
 | [Meta](../companies/meta.md) | 13/15 | ai, machine-learning, research |
 | [Microchip Technology](../companies/microchip-technology.md) | 0/1 | software-engineering |
