@@ -1,20 +1,21 @@
 {
   "schema_version": "1.0",
-  "id": "g-research-data-science-intern-2027",
+  "id": "rtx-software-engineer-intern-2027-4f3153",
   "company": {
-    "name": "G-Research",
-    "slug": "g-research"
+    "name": "RTX",
+    "slug": "rtx"
   },
-  "role": "Data Science Intern",
-  "category": "data-science",
-  "apply_url": "https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Data-Science-Internship_R3679",
+  "role": "Software Engineer Intern",
+  "category": "software-engineering",
+  "apply_url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Software-Engineering-Intern--Summer-2027-_01863072",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "London",
-      "country": "UK"
+      "city": "McKinney",
+      "state": "TX",
+      "country": "USA"
     }
   ],
   "compensation": {
@@ -42,8 +43,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-23",
-    "discovered": "2026-07-23",
+    "posted": "2026-07-30",
+    "discovered": "2026-07-31",
     "last_verified": "2026-07-31"
   },
   "status": "open",

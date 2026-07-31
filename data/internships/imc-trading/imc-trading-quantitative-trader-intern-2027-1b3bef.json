@@ -1,20 +1,21 @@
 {
   "schema_version": "1.0",
-  "id": "g-research-data-science-intern-2027",
+  "id": "imc-trading-quantitative-trader-intern-2027-1b3bef",
   "company": {
-    "name": "G-Research",
-    "slug": "g-research"
+    "name": "IMC Trading",
+    "slug": "imc-trading",
+    "career_page": "https://www.imc.com/us/careers"
   },
-  "role": "Data Science Intern",
-  "category": "data-science",
-  "apply_url": "https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Data-Science-Internship_R3679",
+  "role": "Quantitative Trader Intern",
+  "category": "quant",
+  "apply_url": "https://job-boards.eu.greenhouse.io/imc/jobs/4936262101",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "London",
-      "country": "UK"
+      "city": "Amsterdam",
+      "country": "USA"
     }
   ],
   "compensation": {
@@ -24,10 +25,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters",
-      "phd"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -42,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-23",
-    "discovered": "2026-07-23",
+    "posted": "2026-07-31",
+    "discovered": "2026-07-31",
     "last_verified": "2026-07-31"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:ats"
   ]
 }

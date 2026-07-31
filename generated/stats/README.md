@@ -12,35 +12,35 @@ _Generated 2026-07-31_
 | Jump Trading | 38 |
 | Cloudflare | 20 |
 | Susquehanna International Group (SIG) | 20 |
+| IMC Trading | 19 |
 | Neuralink | 19 |
 | Palantir Technologies | 17 |
 | TikTok | 17 |
 | Jane Street | 16 |
 | Meta | 15 |
 | Rivian and Volkswagen Group Technologies | 15 |
-| IMC Trading | 14 |
 | Etched | 12 |
 | Virtu Financial | 12 |
 | Astranis | 11 |
 | Optiver | 11 |
+| Palantir | 11 |
 | Copart | 10 |
 | Ciena | 9 |
 | NVIDIA | 9 |
 | Walleye Capital | 9 |
-| Akuna Capital | 8 |
 
 ## Listings by category
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 554 | `████████████` |
-| quant | 121 | `███` |
+| software-engineering | 560 | `████████████` |
+| quant | 125 | `███` |
 | ai | 113 | `███` |
 | machine-learning | 70 | `██` |
 | research | 57 | `█` |
-| hardware | 51 | `█` |
+| hardware | 52 | `█` |
 | embedded | 39 | `█` |
-| cloud | 26 | `█` |
+| cloud | 27 | `█` |
 | product | 25 | `█` |
 | design | 24 | `█` |
 | data-science | 17 | `█` |
@@ -49,9 +49,19 @@ _Generated 2026-07-31_
 
 ## Newest listings
 
+- 2026-07-31 — **Exclusive Networks**: [Data Quality & Business Data Analyst Intern](https://exclusivenetworks.wd103.myworkdayjobs.com/Exclusive-Networks-Career/job/Son/Data-Quality---Business-Data-Analyst-Intern_JR2326-1)
 - 2026-07-31 — **Heliux**: [Software Engineer Intern](https://jobs.ashbyhq.com/heliux/ff2b6f4b-00d0-4afe-b4f5-2dbf443409ef/application?embed=true)
 - 2026-07-31 — **Heliux**: [Software Engineer Intern](https://jobs.ashbyhq.com/heliux/c71c0650-b6f7-491f-b291-6b280f58ee9c/application?embed=true)
+- 2026-07-31 — **IMC Trading**: [Hardware Engineer Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4927149101)
+- 2026-07-31 — **IMC Trading**: [Macro Analyst Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4941380101)
+- 2026-07-31 — **IMC Trading**: [Quantitative Trader Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4936262101)
+- 2026-07-31 — **IMC Trading**: [Trader Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4939846101)
 - 2026-07-31 — **Melius**: [Software Engineer Intern](https://jobs.ashbyhq.com/melius/6a944911-dbbf-44c7-ba52-7866f7b433cf/application?embed=true)
+- 2026-07-31 — **Melius**: [Software Engineer Intern](https://jobs.ashbyhq.com/melius/b61f063a-4f94-4e50-a4ef-05aaab552280/application?embed=true)
+- 2026-07-31 — **Palantir**: [Forward Deployed Software Engineer Intern](https://jobs.lever.co/palantir/26e23f5d-083b-45aa-b223-1a6e43d960bf/apply)
+- 2026-07-31 — **Palantir**: [Forward Deployed Software Engineer Intern - Commercial](https://jobs.lever.co/palantir/599b1907-aba1-4303-837b-66e69a521636/apply)
+- 2026-07-31 — **Palantir**: [Software Engineer Intern](https://jobs.lever.co/palantir/76a60923-bb49-40f5-b061-7c7eb1299602/apply)
+- 2026-07-31 — **Palantir**: [Software Engineer Intern - Infrastructure](https://jobs.lever.co/palantir/fd3603a9-7016-45c6-9c8d-04c9279ab85e/apply)
 - 2026-07-31 — **Tesla**: [Vehicle Software Intern - Vehicle Software Engineer-Diagnostic User Interface](https://www.tesla.com/careers/search/job/278703)
 - 2026-07-30 — **Aptiv**: [Engineering Intern](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern---CD1_J000700242)
 - 2026-07-30 — **Arizona State University**: [Management Intern - Career Data and Analytics](https://asu.wd1.myworkdayjobs.com/ASUStaffCareers/job/Campus-Tempe/Management-Intern---Career-Data-and-Analytics_JR124023)
@@ -59,16 +69,6 @@ _Generated 2026-07-31_
 - 2026-07-30 — **CALSTART**: [Web Development Intern](https://jobs.lever.co/calstart/cbd0d758-18b0-481d-9e67-a065682f30ea/apply)
 - 2026-07-30 — **CALSTART**: [Zero-Emission Data & Research Intern](https://jobs.lever.co/calstart/faf839b1-8c62-4fcf-991c-71750d8fc909/apply)
 - 2026-07-30 — **Capital One**: [Full Stack Software Engineer Intern](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Full-Stack-Software-Engineer---Fall-2026_R246990)
-- 2026-07-30 — **Copart**: [Software Engineer Intern](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109964)
-- 2026-07-30 — **Copart**: [Software Engineer Intern](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109965)
-- 2026-07-30 — **Formlabs**: [Hardware R&D Engineer Intern](https://careers.formlabs.com/job/8097694/apply/?gh_jid=8097694)
-- 2026-07-30 — **Forus**: [Engineer Intern](https://jobs.ashbyhq.com/forus/82e10191-232e-4e8d-9c5e-cb82940cdfc7/application?embed=true)
-- 2026-07-30 — **General Dynamics Information Technology**: [Systems Engineer Intern](https://www.gd.com/careers/systems-engineer-intern-albany-ny-us-rq225289-gdit-opportunity)
-- 2026-07-30 — **GoDaddy**: [Software Development Engineer Intern](https://job-boards.greenhouse.io/eventsandinterns/jobs/7820942003)
-- 2026-07-30 — **Helsing**: [AI Research Intern - 3D Computer Vision](https://helsing.ai/jobs/4941957101?gh_jid=4941957101)
-- 2026-07-30 — **RTX**: [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Software-Engineering-Intern--Summer-2027-_01863072)
-- 2026-07-30 — **Sparksoft**: [Technical Intern](https://job-boards.greenhouse.io/sparksoftcorporation/jobs/5199580007)
-- 2026-07-30 — **Susquehanna International Group (SIG)**: [Trading Operations Analyst Intern](https://careers-sig.icims.com/jobs/11244/job?mobile=true&needsRedirect=false)
 
 ## Recently closed
 
@@ -103,7 +103,6 @@ _Generated 2026-07-31_
 - BDO Canada — Indirect Tax Intern Co-op - Indirect Tax
 - BMO — Machine Learning Intern
 - Bosch Home Comfort — Business Intelligence Intern
-- Brunswick — Software Engineer Intern
 - ByteDance — Research Scientist Intern - AI Infrastructure
 - ByteDance — Research Scientist Intern - AI Infrastructure
 - CACI — Software Engineering Intern
@@ -132,7 +131,6 @@ _Generated 2026-07-31_
 - Constellation Space — Graduate Researcher Intern - Machine Learning
 - Copart — Software Engineer Intern
 - Copart — Software Engineer Intern
-- Copart — Software Engineer Intern
 - Copart — Technology Product Analyst Intern
 - Datasite — AI Transformation / Forward Deployed Engineer Intern - Forward Deployed Engineer
 - Datasite — Forward Deployed Engineer Intern
@@ -143,6 +141,7 @@ _Generated 2026-07-31_
 - Dexmate — Frontend Engineer Intern
 - DiDi Global — Motion Planning Engineer Intern
 - DNV — AI Research Intern
+- DTCC — Product Management Intern
 - Duku AI — Tech Intern - Visiting
 - Egra — AI Researcher Intern
 - Eight Sleep — Prototype & Test Engineer Intern - New Product Development
@@ -161,9 +160,6 @@ _Generated 2026-07-31_
 - Formlabs — Supply Chain Operations Software Intern
 - Formlabs — Test Software Intern
 - Freeform — Process Engineer Intern
-- G-Research — Data Science Intern
-- G-Research — Natural Language Processing Intern
-- G-Research — Quantitative Research Internship
 - GE Aerospace — Engineer Intern
 - GE Appliances — Engineering Intern/Co-op
 - GE Healthcare — Engineering Development Program Intern - Hardware
@@ -212,7 +208,6 @@ _Generated 2026-07-31_
 - Light & Wonder — Mathematics Intern
 - LiveRamp — Software Engineer Intern, Pixel Serving
 - Mackenzie Investments — Data Science and AI Specialist Intern - Investment Management - Fundamental Equity
-- Magna — R&D-Computer Vision Engineer Intern
 - Marvell — Design Verification Engineer Intern
 - McKesson — Data Governance Analyst Intern
 - McKesson — Supply Chain Engineering and Analytics Intern
@@ -271,6 +266,7 @@ _Generated 2026-07-31_
 - Rakuten International — Software Engineer Intern
 - Revvity — Product Manager Intern
 - RFCUNY — IT & Data Systems Intern - Archibus & Applications Development
+- Rise8 — Skillbridge Intern - Product Manager
 - Rivian — Machine Learning Compiler Intern - Machine Learning Compiler
 - Rivian and Volkswagen Group Technologies — Software Engineer Intern Co-op - Android Connectivity
 - Rivian and Volkswagen Group Technologies — Software Engineer Intern - Connected Systems
@@ -279,8 +275,6 @@ _Generated 2026-07-31_
 - Rocket Lab — Software Intern
 - ROCKWOOL Group — Product Management Intern
 - Royal Bank of Canada — Student Intern - Data Analyst - Personal Banking
-- RTX — Machine Learning Researcher Intern/Co-op
-- RTX — Software Engineer Intern
 - Salesforce — Associate Product Manager Intern - Associate Product Manager
 - Salesforce — Associate Product Manager Intern - Associate Product Manager
 - Salesforce — Software Engineer Intern(Futureforce Summer 2027)

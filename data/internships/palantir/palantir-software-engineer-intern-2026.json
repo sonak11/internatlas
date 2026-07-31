@@ -1,15 +1,15 @@
 {
   "schema_version": "1.0",
-  "id": "g-research-data-science-intern-2027",
+  "id": "palantir-software-engineer-intern-2026",
   "company": {
-    "name": "G-Research",
-    "slug": "g-research"
+    "name": "Palantir",
+    "slug": "palantir"
   },
-  "role": "Data Science Intern",
-  "category": "data-science",
-  "apply_url": "https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Data-Science-Internship_R3679",
-  "season": "summer",
-  "year": 2027,
+  "role": "Software Engineer Intern",
+  "category": "software-engineering",
+  "apply_url": "https://jobs.lever.co/palantir/76a60923-bb49-40f5-b061-7c7eb1299602/apply",
+  "season": "fall",
+  "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
@@ -24,10 +24,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters",
-      "phd"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -42,8 +39,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-23",
-    "discovered": "2026-07-23",
+    "posted": "2026-07-31",
+    "discovered": "2026-07-31",
     "last_verified": "2026-07-31"
   },
   "status": "open",
