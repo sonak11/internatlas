@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 📊 Statistics
 
-_Generated 2026-07-30_
+_Generated 2026-07-31_
 
 ## Top hiring companies
 
@@ -23,21 +23,21 @@ _Generated 2026-07-30_
 | Virtu Financial | 12 |
 | Astranis | 11 |
 | Optiver | 11 |
+| Copart | 10 |
 | Ciena | 9 |
 | NVIDIA | 9 |
 | Walleye Capital | 9 |
 | Akuna Capital | 8 |
-| Castleton Commodities International | 8 |
 
 ## Listings by category
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 540 | `████████████` |
+| software-engineering | 549 | `████████████` |
 | quant | 121 | `███` |
-| ai | 111 | `███` |
+| ai | 113 | `███` |
 | machine-learning | 70 | `██` |
-| research | 56 | `█` |
+| research | 57 | `█` |
 | hardware | 51 | `█` |
 | embedded | 39 | `█` |
 | cloud | 26 | `█` |
@@ -49,26 +49,26 @@ _Generated 2026-07-30_
 
 ## Newest listings
 
+- 2026-07-30 — **Aptiv**: [Engineering Intern](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern---CD1_J000700242)
+- 2026-07-30 — **CALSTART**: [Data Analysis Intern](https://jobs.lever.co/calstart/39565f0d-d10f-458b-b72d-d807420059b8/apply)
+- 2026-07-30 — **CALSTART**: [Web Development Intern](https://jobs.lever.co/calstart/cbd0d758-18b0-481d-9e67-a065682f30ea/apply)
+- 2026-07-30 — **CALSTART**: [Zero-Emission Data & Research Intern](https://jobs.lever.co/calstart/faf839b1-8c62-4fcf-991c-71750d8fc909/apply)
 - 2026-07-30 — **Capital One**: [Full Stack Software Engineer Intern](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Full-Stack-Software-Engineer---Fall-2026_R246990)
+- 2026-07-30 — **Copart**: [Software Engineer Intern](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109964)
+- 2026-07-30 — **Copart**: [Software Engineer Intern](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109965)
+- 2026-07-30 — **Formlabs**: [Hardware R&D Engineer Intern](https://careers.formlabs.com/job/8097694/apply/?gh_jid=8097694)
 - 2026-07-30 — **Forus**: [Engineer Intern](https://jobs.ashbyhq.com/forus/82e10191-232e-4e8d-9c5e-cb82940cdfc7/application?embed=true)
 - 2026-07-30 — **General Dynamics Information Technology**: [Systems Engineer Intern](https://www.gd.com/careers/systems-engineer-intern-albany-ny-us-rq225289-gdit-opportunity)
+- 2026-07-30 — **GoDaddy**: [Software Development Engineer Intern](https://job-boards.greenhouse.io/eventsandinterns/jobs/7820942003)
+- 2026-07-30 — **Helsing**: [AI Research Intern - 3D Computer Vision](https://helsing.ai/jobs/4941957101?gh_jid=4941957101)
 - 2026-07-30 — **RTX**: [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Software-Engineering-Intern--Summer-2027-_01863072)
 - 2026-07-30 — **RTX**: [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CA-FULLERTON-675--1801-Hughes-Dr--BLDG-675/Software-Engineering-Intern--Summer-2027-_01863012)
+- 2026-07-30 — **Sparksoft**: [Technical Intern](https://job-boards.greenhouse.io/sparksoftcorporation/jobs/5199580007)
 - 2026-07-30 — **Susquehanna International Group (SIG)**: [Trading Operations Analyst Intern](https://careers-sig.icims.com/jobs/11244/job?mobile=true&needsRedirect=false)
 - 2026-07-30 — **Tesla**: [Software Engineer Intern - Software Engineer - AI Infrastructure](https://www.tesla.com/careers/search/job/278578)
+- 2026-07-30 — **The Home Depot**: [AI Engineer Intern](https://homedepot.wd5.myworkdayjobs.com/CareerDepotCanada/job/CANADA-STORE-SUPPORT-CENTER---7000/Intern--AI-Engineer_Req188547)
+- 2026-07-30 — **University of Texas at Austin**: [Video and Analytics Intern - Baseball](https://utaustin.wd1.myworkdayjobs.com/utstudent/job/UT-MAIN-CAMPUS/Video-and-Analytics-Intern--Baseball_R_00047706)
 - 2026-07-29 — **Arkema Global**: [Manufacturing Data Systems Intern](https://jobs.arkema.com/job/Radnor-Manufacturing-Data-Systems-Intern-Job-PA/1420491833/?ats=successfactors)
-- 2026-07-29 — **Bosch Home Comfort**: [Autonomous Driving Intern](https://jobs.smartrecruiters.com/BoschGroup/744000140462550)
-- 2026-07-29 — **Bosch Home Comfort**: [Product Management Intern](https://jobs.smartrecruiters.com/BoschGroup/744000140457960)
-- 2026-07-29 — **Cloudflare**: [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089407)
-- 2026-07-29 — **Cloudflare**: [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407)
-- 2026-07-29 — **Generac**: [Engineering Intern](https://generac.wd5.myworkdayjobs.com/en-US/external/job/Toronto-Canada/Intern-Engineering_JR14267)
-- 2026-07-29 — **Leidos**: [Software Developer Intern](https://leidos.wd5.myworkdayjobs.com/External/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00188311)
-- 2026-07-29 — **Loop**: [Data Scientist Intern](https://ats.rippling.com/loop-careers/jobs/e016b693-7ce9-4dad-95ff-03b934fbd580)
-- 2026-07-29 — **Menasha Corporation**: [Supply Chain Analytics Intern](https://menasha.wd12.myworkdayjobs.com/menashacorp/job/Neenah-Wisconsin/Supply-Chain-Analytics-Intern_R14985)
-- 2026-07-29 — **National Laboratory of the Rockies**: [Focused Ion Beam, Electron Microscopy, and Autonomous Characterization Intern - Multiple Teams](https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Graduate-Intern---Focused-Ion-Beam--Electron-Microscopy--and-Autonomous-Characterization_R14431)
-- 2026-07-29 — **RapDev**: [ServiceNow Engineer Intern](https://jobs.ashbyhq.com/rapdev/b022388e-79d0-43b8-b524-64aaed9ff4dc/application?embed=true)
-- 2026-07-29 — **Redwood Materials**: [Embedded Software Engineer Intern](https://boards.greenhouse.io/redwoodmaterials/jobs/6126784004)
-- 2026-07-29 — **Richemont**: [Sustainability Transformation Analyst Intern](https://richemont.wd3.myworkdayjobs.com/richemont/job/BELLEVUE/Sustainability-Transformation-Analyst-Intern_JR132092)
 
 ## Recently closed
 
@@ -119,7 +119,6 @@ _Generated 2026-07-30_
 - Ciena — Embedded Software Engineer Intern
 - Ciena — Photonic Hardware Intern
 - City of Aurora — Water GIS Intern
-- Cloudflare — AI Builder Intern - Global Customer Engineering - Service Sales
 - Cloudflare — EIAM Business Enablement & Operations Intern (Fall 2026)
 - Cloudflare — Public Policy Intern
 - Cloudflare — Sales Project Manager Intern (AI Innovation) (Fall 2026)
@@ -127,6 +126,7 @@ _Generated 2026-07-30_
 - Composio — Full-stack Intern
 - Consensus Cloud Solutions — Sales Strategy & Analytics Intern
 - Constellation Space — Graduate Researcher Intern - Machine Learning
+- Copart — Software Engineer Intern
 - Copart — Software Engineer Intern
 - Copart — Technology Product Analyst Intern
 - Datasite — AI Transformation / Forward Deployed Engineer Intern - Forward Deployed Engineer
@@ -151,7 +151,6 @@ _Generated 2026-07-30_
 - Fluency — Engineer Intern
 - Formlabs — AI Software Intern
 - Formlabs — Algorithms Software Intern
-- Formlabs — Hardware R&D Engineer Intern
 - Formlabs — Manufacturing Test Software Intern
 - Formlabs — Supply Chain Operations Software Intern
 - Formlabs — Test Software Intern
@@ -159,14 +158,12 @@ _Generated 2026-07-30_
 - GE Aerospace — Engineer Intern
 - GE Appliances — Engineering Intern/Co-op
 - GE Healthcare — Engineering Development Program Intern - Hardware
-- GE Healthcare — Engineering Development Program Intern - Software
 - GE Vernova — GE Vernova Grid Automation Product Management Intern
 - GE Vernova — GE Vernova Grid Automation Product Management Intern
 - Generac — Data Science Intern
 - Generac — Engineering Intern
 - Generac — Software Engineer Intern
 - General Motors — Research and Development Intern - Research & Development
-- General Motors — Research and Development Intern - Research & Development: AI/ML
 - GeoComply — Full Stack Developer Intern
 - GeoComply — Product Operations Intern
 - Golden Pet Brands — Data Analytics Intern
