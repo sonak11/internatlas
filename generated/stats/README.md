@@ -41,7 +41,7 @@ _Generated 2026-07-31_
 | hardware | 51 | `█` |
 | embedded | 39 | `█` |
 | cloud | 26 | `█` |
-| product | 24 | `█` |
+| product | 25 | `█` |
 | design | 24 | `█` |
 | data-science | 17 | `█` |
 | data-engineering | 13 | `█` |
@@ -102,6 +102,7 @@ _Generated 2026-07-31_
 - BDO Canada — Indirect Tax Intern Co-op - Indirect Tax
 - BMO — Machine Learning Intern
 - Bosch Home Comfort — Business Intelligence Intern
+- Brunswick — Software Engineer Intern
 - ByteDance — Research Scientist Intern - AI Infrastructure
 - ByteDance — Research Scientist Intern - AI Infrastructure
 - CACI — Software Engineering Intern
@@ -119,6 +120,7 @@ _Generated 2026-07-31_
 - Ciena — Embedded Software Engineer Intern
 - Ciena — Embedded Software Engineer Intern
 - Ciena — Photonic Hardware Intern
+- Ciena — Software Engineer Intern
 - City of Aurora — Water GIS Intern
 - City of Austin — Austin Aviation Undergraduate Intern - IT Business Systems Analyst
 - Cloudflare — EIAM Business Enablement & Operations Intern (Fall 2026)
@@ -131,6 +133,7 @@ _Generated 2026-07-31_
 - Copart — Software Engineer Intern
 - Copart — Software Engineer Intern
 - Copart — Technology Product Analyst Intern
+- CuspAI — Chemistry Intern - MLFF Distillation & GCMC Integration
 - Datasite — AI Transformation / Forward Deployed Engineer Intern - Forward Deployed Engineer
 - Datasite — Forward Deployed Engineer Intern
 - Deepgram — Software Engineer Intern
@@ -148,6 +151,7 @@ _Generated 2026-07-31_
 - Environmental Defense Fund — Climate & Health Intern
 - Eragon — Applied AI Intern
 - Exowatt — Software Engineer Intern - Agent Platform - AI
+- Exploration Technology Corp. — Engineer Intern
 - Fab2 — Rust Software Engineer Intern
 - Firetiger — Product Engineer Intern/Co-op
 - Fluency — Engineer Intern
@@ -157,6 +161,8 @@ _Generated 2026-07-31_
 - Formlabs — Supply Chain Operations Software Intern
 - Formlabs — Test Software Intern
 - Freeform — Process Engineer Intern
+- G-Research — Natural Language Processing Intern
+- G-Research — Quantitative Research Internship
 - GE Aerospace — Engineer Intern
 - GE Appliances — Engineering Intern/Co-op
 - GE Healthcare — Engineering Development Program Intern - Hardware
@@ -167,6 +173,7 @@ _Generated 2026-07-31_
 - Generac — Engineering Intern
 - Generac — Software Engineer Intern
 - General Motors — Research and Development Intern - Research & Development
+- General Motors — Research and Development Intern - Research & Development: AI/ML
 - GeoComply — Full Stack Developer Intern
 - GeoComply — Product Operations Intern
 - Golden Pet Brands — Data Analytics Intern
@@ -192,6 +199,7 @@ _Generated 2026-07-31_
 - Intel — AI Applied Intern
 - Intel — AI Software Engineering Intern
 - Intel Corporation — AI Software Engineering PhD Intern
+- JINGDONG — Software Engineering Intern
 - Jump Trading — Campus Quantitative Researcher Intern
 - Junior AI — Software Engineer Intern
 - KBR — National Security Solutions Intern - Nss
@@ -203,8 +211,10 @@ _Generated 2026-07-31_
 - LexisNexis Risk Solutions — Editorial Data Reporting Intern
 - Light & Wonder — Mathematics Intern
 - LiveRamp — Software Engineer Intern, Pixel Serving
+- Loop — Data Scientist Intern
 - Mackenzie Investments — Data Science and AI Specialist Intern - Investment Management - Fundamental Equity
 - Marvell — Design Verification Engineer Intern
+- McKesson — AI & Strategic Analytics Intern
 - McKesson — Data Governance Analyst Intern
 - McKesson — Supply Chain Engineering and Analytics Intern
 - Medpace, Inc. — Feasibility Informatics Intern/Co-op
@@ -214,6 +224,7 @@ _Generated 2026-07-31_
 - Meta — Research Scientist Intern PhD - Applied Research
 - Microchip Technology — Applications Engineering Intern
 - Mistral AI — Applied Scientist / Research Engineer Intern
+- Mobius Renewables — Software Engineer Intern
 - Monogram — Software Engineer Intern
 - Moog — Software Engineer Intern
 - Moon — Software Engineer Intern - Backend & API
@@ -224,13 +235,14 @@ _Generated 2026-07-31_
 - National Laboratory of the Rockies — Graduate Geospatial Data Science Intern
 - NationGraph — Software Engineer Intern
 - Navy Federal — Year Round Intern - Business Intelligence Analyst
+- NeoSigma — Member of Technical Staff Intern
+- Netflix — AI/ML Scientist Intern - AIMS AI Foundations
 - Neuralink — R&D Materials Engineer Intern
 - NewsBreak — Growth Engineer Intern - Growth Engineering
 - Nokia — Data Science Co-op/Intern
 - Nokia — Embedded C/C++ Software Developer Co-op/Intern
 - Nokia — Incubation Developer Coop/Intern
 - Nokia — Product Development Intern/Co-op
-- North Cloud — AI Automation Intern
 - Northrop Grumman — Software Engineer Intern
 - Northrop Grumman — Software Engineer Intern
 - Notion — Software Engineer Intern
@@ -255,6 +267,7 @@ _Generated 2026-07-31_
 - Persistent Systems — Hardware Engineer Intern
 - Pinterest — PhD Fall Machine Learning Intern (ATG — Visual, Multimodal, and Recommender Systems)
 - Podium — Software Engineering Intern
+- Pylon — Software Engineer Intern
 - Quadrillion — Research Intern
 - Quadrillion — Software Engineer Intern
 - Rainmaker — Software Engineer Intern
@@ -285,6 +298,8 @@ _Generated 2026-07-31_
 - Solid Power — Product Development Intern
 - Sparksoft — Data Development Intern
 - Spectrum Control — Engineering Intern
+- SpreeAI — Machine Learning Engineer Intern - Computer Vision/Multimodal/Generative AI
+- SpreeAI — Mobile Software Engineer Intern - Flagship Apps - iOS / Android / Web
 - SS&C — Healthcare AI & Automation Intern
 - State of North Carolina — Geographic Information Systems Intern - GIS
 - Susquehanna International Group (SIG) — Quantitative Research Intern

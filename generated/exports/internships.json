@@ -1,6 +1,6 @@
 {
   "generated": "2026-07-31",
-  "count": 1116,
+  "count": 1117,
   "internships": [
     {
       "schema_version": "1.0",
@@ -7916,7 +7916,7 @@
         "discovered": "2026-07-29",
         "last_verified": "2026-07-31"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -10423,7 +10423,7 @@
         "discovered": "2026-07-22",
         "last_verified": "2026-07-31"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -13694,7 +13694,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-31"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -17044,7 +17044,7 @@
         "discovered": "2026-07-22",
         "last_verified": "2026-07-31"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -19054,7 +19054,7 @@
         "discovered": "2026-07-23",
         "last_verified": "2026-07-31"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -19108,7 +19108,7 @@
         "discovered": "2026-07-23",
         "last_verified": "2026-07-31"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -19459,6 +19459,59 @@
         "last_verified": "2026-07-29"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "gemini-product-management-intern-2026",
+      "company": {
+        "name": "Gemini",
+        "slug": "gemini"
+      },
+      "role": "Product Management Intern",
+      "category": "product",
+      "apply_url": "https://boards.greenhouse.io/embed/job_app?for=gemini&token=8041452&gh_jid=8041452",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "NYC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-01",
+        "discovered": "2026-07-31",
+        "last_verified": "2026-07-31"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -19933,7 +19986,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-31"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -25665,7 +25718,7 @@
         "discovered": "2026-07-22",
         "last_verified": "2026-07-31"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -28936,7 +28989,7 @@
         "discovered": "2026-07-29",
         "last_verified": "2026-07-31"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -29563,7 +29616,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-31"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -31324,7 +31377,7 @@
         "discovered": "2026-07-24",
         "last_verified": "2026-07-31"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -32872,7 +32925,7 @@
         "discovered": "2026-07-24",
         "last_verified": "2026-07-31"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -32981,7 +33034,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-31"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -34652,9 +34705,9 @@
       "dates": {
         "posted": "2026-07-21",
         "discovered": "2026-07-22",
-        "last_verified": "2026-07-27"
+        "last_verified": "2026-07-31"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -39944,7 +39997,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-31"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -46216,7 +46269,7 @@
         "discovered": "2026-07-21",
         "last_verified": "2026-07-31"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -46319,7 +46372,7 @@
         "discovered": "2026-07-21",
         "last_verified": "2026-07-31"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
