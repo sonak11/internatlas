@@ -1,29 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "virtu-financial-2027-internship-frontend-user-experience-2027",
+  "id": "cirrus-logic-embedded-software-test-engineer-intern-2026",
   "company": {
-    "name": "Virtu Financial",
-    "slug": "virtu-financial",
-    "career_page": "https://www.virtu.com/careers"
+    "name": "Cirrus Logic",
+    "slug": "cirrus-logic"
   },
-  "role": "2027 Internship - Frontend & User Experience",
-  "category": "quant",
-  "apply_url": "https://job-boards.greenhouse.io/virtu/jobs/8657500002",
-  "season": "summer",
-  "year": 2027,
+  "role": "Embedded Software Test Engineer Intern",
+  "category": "embedded",
+  "apply_url": "https://jobs.eu.lever.co/cirrus/2926421c-691a-434a-ae59-c828e7fcbf5b",
+  "season": "fall",
+  "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "New York",
-      "country": "USA"
-    },
-    {
-      "city": "NYC",
-      "country": "USA"
-    },
-    {
-      "city": "New York",
-      "state": "NY",
+      "city": "Austin",
+      "state": "TX",
       "country": "USA"
     }
   ],
@@ -49,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-29",
-    "discovered": "2026-07-29",
+    "posted": "2026-07-31",
+    "discovered": "2026-07-31",
     "last_verified": "2026-07-31"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:ats"
+    "src:vanshb03"
   ]
 }

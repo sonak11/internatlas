@@ -1,17 +1,22 @@
 {
   "schema_version": "1.0",
-  "id": "rise8-skillbridge-intern-product-manager-2026",
+  "id": "drw-software-developer-intern-2027",
   "company": {
-    "name": "Rise8",
-    "slug": "rise8"
+    "name": "DRW",
+    "slug": "drw"
   },
-  "role": "Skillbridge Intern - Product Manager",
-  "category": "product",
-  "apply_url": "https://job-boards.greenhouse.io/rise8/jobs/4359627007",
-  "season": "fall",
-  "year": 2026,
-  "work_mode": "remote",
-  "locations": [],
+  "role": "Software Developer Intern",
+  "category": "software-engineering",
+  "apply_url": "https://www.drw.com/work-at-drw/listings/software-developer-intern-3466687",
+  "season": "summer",
+  "year": 2027,
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "Montréal",
+      "country": "USA"
+    }
+  ],
   "compensation": {
     "currency": "USD",
     "housing_stipend": false,
@@ -34,13 +39,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-06-29",
-    "discovered": "2026-07-17",
+    "posted": "2026-07-31",
+    "discovered": "2026-07-31",
     "last_verified": "2026-07-31"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }

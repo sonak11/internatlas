@@ -1,17 +1,24 @@
 {
   "schema_version": "1.0",
-  "id": "rise8-skillbridge-intern-product-manager-2026",
+  "id": "virtu-financial-2027-internship-hardware-engineer-fpga-2027",
   "company": {
-    "name": "Rise8",
-    "slug": "rise8"
+    "name": "Virtu Financial",
+    "slug": "virtu-financial",
+    "career_page": "https://www.virtu.com/careers"
   },
-  "role": "Skillbridge Intern - Product Manager",
-  "category": "product",
-  "apply_url": "https://job-boards.greenhouse.io/rise8/jobs/4359627007",
-  "season": "fall",
-  "year": 2026,
-  "work_mode": "remote",
-  "locations": [],
+  "role": "2027 Internship- Hardware Engineer (FPGA)",
+  "category": "hardware",
+  "apply_url": "https://job-boards.greenhouse.io/virtu/jobs/8657286002",
+  "season": "summer",
+  "year": 2027,
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "Austin",
+      "state": "TX",
+      "country": "USA"
+    }
+  ],
   "compensation": {
     "currency": "USD",
     "housing_stipend": false,
@@ -34,13 +41,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-06-29",
-    "discovered": "2026-07-17",
+    "posted": "2026-07-29",
+    "discovered": "2026-07-31",
     "last_verified": "2026-07-31"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:ats"
   ]
 }

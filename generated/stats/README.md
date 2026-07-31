@@ -10,17 +10,17 @@ _Generated 2026-07-31_
 |---|---|
 | Tesla | 102 |
 | Jump Trading | 38 |
-| Cloudflare | 20 |
+| Cloudflare | 21 |
 | Susquehanna International Group (SIG) | 20 |
 | IMC Trading | 19 |
 | Neuralink | 19 |
 | Palantir Technologies | 17 |
 | TikTok | 17 |
 | Jane Street | 16 |
+| Rivian and Volkswagen Group Technologies | 16 |
 | Meta | 15 |
-| Rivian and Volkswagen Group Technologies | 15 |
+| Virtu Financial | 13 |
 | Etched | 12 |
-| Virtu Financial | 12 |
 | Astranis | 11 |
 | Optiver | 11 |
 | Palantir | 11 |
@@ -33,22 +33,31 @@ _Generated 2026-07-31_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 560 | `████████████` |
-| quant | 125 | `███` |
-| ai | 113 | `███` |
+| software-engineering | 563 | `████████████` |
+| quant | 126 | `███` |
+| ai | 113 | `██` |
 | machine-learning | 70 | `██` |
 | research | 57 | `█` |
-| hardware | 52 | `█` |
-| embedded | 39 | `█` |
-| cloud | 27 | `█` |
+| hardware | 54 | `█` |
+| embedded | 41 | `█` |
+| cloud | 28 | `█` |
 | product | 25 | `█` |
-| design | 24 | `█` |
+| design | 25 | `█` |
 | data-science | 17 | `█` |
 | data-engineering | 13 | `█` |
 | security | 7 | `█` |
 
 ## Newest listings
 
+- 2026-07-31 — **Cirrus Logic**: [Embedded Software Test Engineer Intern](https://jobs.eu.lever.co/cirrus/2926421c-691a-434a-ae59-c828e7fcbf5b)
+- 2026-07-31 — **Cloudflare**: [Customer Advocacy Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8093127?gh_jid=8093127)
+- 2026-07-31 — **DRW**: [AI/ML Research Intern](https://www.drw.com/work-at-drw/listings/aiml-research-intern-3466679)
+- 2026-07-31 — **DRW**: [FPGA Intern](https://www.drw.com/work-at-drw/listings/fpga-intern-3484423)
+- 2026-07-31 — **DRW**: [Platform Engineer Intern](https://www.drw.com/work-at-drw/listings/platform-engineer-intern-3468737)
+- 2026-07-31 — **DRW**: [Quantitative Research Intern](https://www.drw.com/work-at-drw/listings/quantitative-research-intern-3413670)
+- 2026-07-31 — **DRW**: [Quantitative Trading Analyst Intern](https://www.drw.com/work-at-drw/listings/quantitative-trading-analyst-intern-3375090)
+- 2026-07-31 — **DRW**: [Software Developer Intern](https://www.drw.com/work-at-drw/listings/software-developer-intern-3467328)
+- 2026-07-31 — **DRW**: [Software Developer Intern](https://www.drw.com/work-at-drw/listings/software-developer-intern-3466687)
 - 2026-07-31 — **Exclusive Networks**: [Data Quality & Business Data Analyst Intern](https://exclusivenetworks.wd103.myworkdayjobs.com/Exclusive-Networks-Career/job/Son/Data-Quality---Business-Data-Analyst-Intern_JR2326-1)
 - 2026-07-31 — **Heliux**: [Software Engineer Intern](https://jobs.ashbyhq.com/heliux/ff2b6f4b-00d0-4afe-b4f5-2dbf443409ef/application?embed=true)
 - 2026-07-31 — **Heliux**: [Software Engineer Intern](https://jobs.ashbyhq.com/heliux/c71c0650-b6f7-491f-b291-6b280f58ee9c/application?embed=true)
@@ -60,15 +69,6 @@ _Generated 2026-07-31_
 - 2026-07-31 — **Melius**: [Software Engineer Intern](https://jobs.ashbyhq.com/melius/b61f063a-4f94-4e50-a4ef-05aaab552280/application?embed=true)
 - 2026-07-31 — **Palantir**: [Forward Deployed Software Engineer Intern](https://jobs.lever.co/palantir/26e23f5d-083b-45aa-b223-1a6e43d960bf/apply)
 - 2026-07-31 — **Palantir**: [Forward Deployed Software Engineer Intern - Commercial](https://jobs.lever.co/palantir/599b1907-aba1-4303-837b-66e69a521636/apply)
-- 2026-07-31 — **Palantir**: [Software Engineer Intern](https://jobs.lever.co/palantir/76a60923-bb49-40f5-b061-7c7eb1299602/apply)
-- 2026-07-31 — **Palantir**: [Software Engineer Intern - Infrastructure](https://jobs.lever.co/palantir/fd3603a9-7016-45c6-9c8d-04c9279ab85e/apply)
-- 2026-07-31 — **Tesla**: [Vehicle Software Intern - Vehicle Software Engineer-Diagnostic User Interface](https://www.tesla.com/careers/search/job/278703)
-- 2026-07-30 — **Aptiv**: [Engineering Intern](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern---CD1_J000700242)
-- 2026-07-30 — **Arizona State University**: [Management Intern - Career Data and Analytics](https://asu.wd1.myworkdayjobs.com/ASUStaffCareers/job/Campus-Tempe/Management-Intern---Career-Data-and-Analytics_JR124023)
-- 2026-07-30 — **CALSTART**: [Data Analysis Intern](https://jobs.lever.co/calstart/39565f0d-d10f-458b-b72d-d807420059b8/apply)
-- 2026-07-30 — **CALSTART**: [Web Development Intern](https://jobs.lever.co/calstart/cbd0d758-18b0-481d-9e67-a065682f30ea/apply)
-- 2026-07-30 — **CALSTART**: [Zero-Emission Data & Research Intern](https://jobs.lever.co/calstart/faf839b1-8c62-4fcf-991c-71750d8fc909/apply)
-- 2026-07-30 — **Capital One**: [Full Stack Software Engineer Intern](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Full-Stack-Software-Engineer---Fall-2026_R246990)
 
 ## Recently closed
 
@@ -266,7 +266,6 @@ _Generated 2026-07-31_
 - Rakuten International — Software Engineer Intern
 - Revvity — Product Manager Intern
 - RFCUNY — IT & Data Systems Intern - Archibus & Applications Development
-- Rise8 — Skillbridge Intern - Product Manager
 - Rivian — Machine Learning Compiler Intern - Machine Learning Compiler
 - Rivian and Volkswagen Group Technologies — Software Engineer Intern Co-op - Android Connectivity
 - Rivian and Volkswagen Group Technologies — Software Engineer Intern - Connected Systems

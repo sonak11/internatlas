@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "apptronik-software-engineer-intern-ml-systems-2026-4da7d9",
+  "id": "cloudflare-customer-advocacy-intern-fall-2026-2027",
   "company": {
-    "name": "Apptronik",
-    "slug": "apptronik"
+    "name": "Cloudflare",
+    "slug": "cloudflare",
+    "career_page": "https://www.cloudflare.com/careers"
   },
-  "role": "Software Engineer Intern, ML Systems",
-  "category": "machine-learning",
-  "apply_url": "https://job-boards.greenhouse.io/apptronik/jobs/6128057004?gh_jid=6128057004",
-  "season": "fall",
-  "year": 2026,
+  "role": "Customer Advocacy Intern (Fall 2026)",
+  "category": "software-engineering",
+  "apply_url": "https://boards.greenhouse.io/cloudflare/jobs/8093127?gh_jid=8093127",
+  "season": "summer",
+  "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Austin",
-      "state": "TX",
+      "city": "In-Office",
       "country": "USA"
     }
   ],
@@ -40,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-28",
-    "discovered": "2026-07-30",
+    "posted": "2026-07-31",
+    "discovered": "2026-07-31",
     "last_verified": "2026-07-31"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:vanshb03"
+    "src:ats"
   ]
 }

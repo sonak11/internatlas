@@ -1,13 +1,13 @@
 {
   "schema_version": "1.0",
-  "id": "rivian-and-volkswagen-group-technologies-software-engineer-intern-embedded-platforms-2026",
+  "id": "rivian-and-volkswagen-group-technologies-software-engineer-intern-embedded-platforms-2026-eddc3d",
   "company": {
     "name": "Rivian and Volkswagen Group Technologies",
     "slug": "rivian-and-volkswagen-group-technologies"
   },
-  "role": "Software Engineer Intern, Embedded Platforms",
+  "role": "Software Engineer Intern - Embedded Platforms",
   "category": "embedded",
-  "apply_url": "https://jobs.ashbyhq.com/rivianvw.tech/4dfbf1e6-3778-4101-8ac7-cd4015d47eff",
+  "apply_url": "https://jobs.ashbyhq.com/rivianvw.tech/4dfbf1e6-3778-4101-8ac7-cd4015d47eff/application",
   "season": "fall",
   "year": 2026,
   "work_mode": "onsite",
@@ -47,13 +47,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-31",
-    "discovered": "2026-07-17",
+    "posted": "2026-06-11",
+    "discovered": "2026-07-31",
     "last_verified": "2026-07-31"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:vanshb03"
+    "src:simplify"
   ]
 }

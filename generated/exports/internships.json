@@ -1,6 +1,6 @@
 {
   "generated": "2026-07-31",
-  "count": 1129,
+  "count": 1139,
   "internships": [
     {
       "schema_version": "1.0",
@@ -3658,7 +3658,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "apptronik-software-engineer-intern-ml-systems-2026-4da7d9",
+      "id": "apptronik-software-engineer-intern-ml-systems-2026",
       "company": {
         "name": "Apptronik",
         "slug": "apptronik"
@@ -3666,58 +3666,6 @@
       "role": "Software Engineer Intern, ML Systems",
       "category": "machine-learning",
       "apply_url": "https://job-boards.greenhouse.io/apptronik/jobs/6128057004?gh_jid=6128057004",
-      "season": "fall",
-      "year": 2026,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Austin",
-          "state": "TX",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-07-28",
-        "discovered": "2026-07-30",
-        "last_verified": "2026-07-31"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:vanshb03"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "apptronik-software-engineer-intern-ml-systems-2026",
-      "company": {
-        "name": "Apptronik",
-        "slug": "apptronik"
-      },
-      "role": "Software Engineer Intern - ML Systems",
-      "category": "machine-learning",
-      "apply_url": "https://boards.greenhouse.io/apptronik/jobs/6128057004",
       "season": "fall",
       "year": 2026,
       "work_mode": "onsite",
@@ -3752,14 +3700,14 @@
         "resume_keywords": []
       },
       "dates": {
-        "posted": "2026-07-27",
+        "posted": "2026-07-28",
         "discovered": "2026-07-28",
         "last_verified": "2026-07-31"
       },
       "status": "open",
       "tags": [
         "auto-ingested",
-        "src:simplify"
+        "src:vanshb03"
       ]
     },
     {
@@ -9017,6 +8965,11 @@
         {
           "city": "NYC",
           "country": "USA"
+        },
+        {
+          "city": "New York City",
+          "state": "NY",
+          "country": "USA"
         }
       ],
       "compensation": {
@@ -9126,6 +9079,11 @@
         {
           "city": "Stamford",
           "state": "CT",
+          "country": "USA"
+        },
+        {
+          "city": "New York City",
+          "state": "NY",
           "country": "USA"
         }
       ],
@@ -10693,6 +10651,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "cirrus-logic-embedded-software-test-engineer-intern-2026",
+      "company": {
+        "name": "Cirrus Logic",
+        "slug": "cirrus-logic"
+      },
+      "role": "Embedded Software Test Engineer Intern",
+      "category": "embedded",
+      "apply_url": "https://jobs.eu.lever.co/cirrus/2926421c-691a-434a-ae59-c828e7fcbf5b",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Austin",
+          "state": "TX",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-31",
+        "discovered": "2026-07-31",
+        "last_verified": "2026-07-31"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "citadel-investment-trading-intern-2026",
       "company": {
         "name": "Citadel",
@@ -11467,6 +11477,58 @@
       "dates": {
         "posted": "2026-07-10",
         "discovered": "2026-07-18",
+        "last_verified": "2026-07-31"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "cloudflare-customer-advocacy-intern-fall-2026-2027",
+      "company": {
+        "name": "Cloudflare",
+        "slug": "cloudflare",
+        "career_page": "https://www.cloudflare.com/careers"
+      },
+      "role": "Customer Advocacy Intern (Fall 2026)",
+      "category": "software-engineering",
+      "apply_url": "https://boards.greenhouse.io/cloudflare/jobs/8093127?gh_jid=8093127",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "In-Office",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-31",
+        "discovered": "2026-07-31",
         "last_verified": "2026-07-31"
       },
       "status": "open",
@@ -15316,6 +15378,270 @@
     },
     {
       "schema_version": "1.0",
+      "id": "drw-ai-ml-research-intern-2027",
+      "company": {
+        "name": "DRW",
+        "slug": "drw"
+      },
+      "role": "AI/ML Research Intern",
+      "category": "machine-learning",
+      "apply_url": "https://www.drw.com/work-at-drw/listings/aiml-research-intern-3466679",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Montréal",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-31",
+        "discovered": "2026-07-31",
+        "last_verified": "2026-07-31"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "drw-fpga-intern-2027",
+      "company": {
+        "name": "DRW",
+        "slug": "drw"
+      },
+      "role": "FPGA Intern",
+      "category": "hardware",
+      "apply_url": "https://www.drw.com/work-at-drw/listings/fpga-intern-3484423",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Chicago",
+          "state": "IL",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "yes"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-31",
+        "discovered": "2026-07-31",
+        "last_verified": "2026-07-31"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "drw-platform-engineer-intern-2027",
+      "company": {
+        "name": "DRW",
+        "slug": "drw"
+      },
+      "role": "Platform Engineer Intern",
+      "category": "cloud",
+      "apply_url": "https://www.drw.com/work-at-drw/listings/platform-engineer-intern-3468737",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Chicago",
+          "state": "IL",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-31",
+        "discovered": "2026-07-31",
+        "last_verified": "2026-07-31"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "drw-quantitative-research-intern-2027",
+      "company": {
+        "name": "DRW",
+        "slug": "drw"
+      },
+      "role": "Quantitative Research Intern",
+      "category": "quant",
+      "apply_url": "https://www.drw.com/work-at-drw/listings/quantitative-research-intern-3413670",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Chicago",
+          "state": "IL",
+          "country": "USA"
+        },
+        {
+          "city": "New York City",
+          "state": "NY",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-31",
+        "discovered": "2026-07-31",
+        "last_verified": "2026-07-31"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "drw-quantitative-trading-analyst-intern-2027-64db71",
+      "company": {
+        "name": "DRW",
+        "slug": "drw"
+      },
+      "role": "Quantitative Trading Analyst Intern",
+      "category": "quant",
+      "apply_url": "https://www.drw.com/work-at-drw/listings/quantitative-trading-analyst-intern-3375090",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Chicago",
+          "state": "IL",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-31",
+        "discovered": "2026-07-31",
+        "last_verified": "2026-07-31"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "drw-quantitative-trading-analyst-intern-2027",
       "company": {
         "name": "DRW",
@@ -15366,6 +15692,109 @@
       "tags": [
         "auto-ingested",
         "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "drw-software-developer-intern-2027-3fd2b0",
+      "company": {
+        "name": "DRW",
+        "slug": "drw"
+      },
+      "role": "Software Developer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://www.drw.com/work-at-drw/listings/software-developer-intern-3467328",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Chicago",
+          "state": "IL",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-31",
+        "discovered": "2026-07-31",
+        "last_verified": "2026-07-31"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "drw-software-developer-intern-2027",
+      "company": {
+        "name": "DRW",
+        "slug": "drw"
+      },
+      "role": "Software Developer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://www.drw.com/work-at-drw/listings/software-developer-intern-3466687",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Montréal",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-31",
+        "discovered": "2026-07-31",
+        "last_verified": "2026-07-31"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
       ]
     },
     {
@@ -18828,6 +19257,21 @@
         {
           "city": "Atlanta",
           "state": "GA",
+          "country": "USA"
+        },
+        {
+          "city": "Los Angeles",
+          "state": "CA",
+          "country": "USA"
+        },
+        {
+          "city": "New York",
+          "state": "NY",
+          "country": "USA"
+        },
+        {
+          "city": "San Francisco",
+          "state": "CA",
           "country": "USA"
         }
       ],
@@ -41972,7 +42416,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-07-31"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -42809,7 +43253,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "rivian-and-volkswagen-group-technologies-software-engineer-intern-embedded-platforms-2026",
+      "id": "rivian-and-volkswagen-group-technologies-software-engineer-intern-embedded-platforms-2026-eddc3d",
       "company": {
         "name": "Rivian and Volkswagen Group Technologies",
         "slug": "rivian-and-volkswagen-group-technologies"
@@ -42857,13 +43301,72 @@
       },
       "dates": {
         "posted": "2026-06-11",
-        "discovered": "2026-07-17",
+        "discovered": "2026-07-31",
         "last_verified": "2026-07-31"
       },
       "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "rivian-and-volkswagen-group-technologies-software-engineer-intern-embedded-platforms-2026",
+      "company": {
+        "name": "Rivian and Volkswagen Group Technologies",
+        "slug": "rivian-and-volkswagen-group-technologies"
+      },
+      "role": "Software Engineer Intern, Embedded Platforms",
+      "category": "embedded",
+      "apply_url": "https://jobs.ashbyhq.com/rivianvw.tech/4dfbf1e6-3778-4101-8ac7-cd4015d47eff",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Palo Alto",
+          "state": "CA",
+          "country": "USA"
+        },
+        {
+          "city": "Irvine",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-31",
+        "discovered": "2026-07-17",
+        "last_verified": "2026-07-31"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
       ]
     },
     {
@@ -58440,14 +58943,14 @@
     },
     {
       "schema_version": "1.0",
-      "id": "virtu-financial-2027-internship-frontend-user-experience-2027",
+      "id": "virtu-financial-2027-internship-frontend-engineer-ui-2027",
       "company": {
         "name": "Virtu Financial",
         "slug": "virtu-financial",
         "career_page": "https://www.virtu.com/careers"
       },
-      "role": "2027 Internship - Frontend & User Experience",
-      "category": "quant",
+      "role": "2027 Internship - Frontend Engineer (UI)",
+      "category": "design",
       "apply_url": "https://job-boards.greenhouse.io/virtu/jobs/8657500002",
       "season": "summer",
       "year": 2027,
@@ -58490,7 +58993,60 @@
       },
       "dates": {
         "posted": "2026-07-29",
-        "discovered": "2026-07-29",
+        "discovered": "2026-07-31",
+        "last_verified": "2026-07-31"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "virtu-financial-2027-internship-hardware-engineer-fpga-2027",
+      "company": {
+        "name": "Virtu Financial",
+        "slug": "virtu-financial",
+        "career_page": "https://www.virtu.com/careers"
+      },
+      "role": "2027 Internship- Hardware Engineer (FPGA)",
+      "category": "hardware",
+      "apply_url": "https://job-boards.greenhouse.io/virtu/jobs/8657286002",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Austin",
+          "state": "TX",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-29",
+        "discovered": "2026-07-31",
         "last_verified": "2026-07-31"
       },
       "status": "open",

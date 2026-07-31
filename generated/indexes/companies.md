@@ -37,7 +37,7 @@
 | [Apex Technology, Inc.](../companies/apex-technology-inc.md) | 1/1 | embedded |
 | [Appian](../companies/appian.md) | 5/5 | product, security, software-engineering |
 | [Apple](../companies/apple.md) | 3/3 | software-engineering |
-| [Apptronik](../companies/apptronik.md) | 2/2 | machine-learning |
+| [Apptronik](../companies/apptronik.md) | 1/1 | machine-learning |
 | [Aptiv](../companies/aptiv.md) | 1/2 | software-engineering |
 | [Aquatic Capital](../companies/aquatic-capital.md) | 1/1 | software-engineering |
 | [Aquatic Capital Management](../companies/aquatic-capital-management.md) | 2/2 | quant, software-engineering |
@@ -94,12 +94,12 @@
 | [Ciena](../companies/ciena.md) | 6/9 | embedded, hardware, software-engineering |
 | [Circle K](../companies/circle-k.md) | 1/1 | software-engineering |
 | [Circleback](../companies/circleback.md) | 1/1 | software-engineering |
-| [Cirrus Logic](../companies/cirrus-logic.md) | 2/2 | ai |
+| [Cirrus Logic](../companies/cirrus-logic.md) | 3/3 | ai, embedded |
 | [Citadel](../companies/citadel.md) | 5/5 | quant, software-engineering |
 | [Citadel Securities](../companies/citadel-securities.md) | 4/4 | hardware, quant, software-engineering |
 | [City of Aurora](../companies/city-of-aurora.md) | 0/1 | software-engineering |
 | [City of Austin](../companies/city-of-austin.md) | 0/1 | software-engineering |
-| [Cloudflare](../companies/cloudflare.md) | 16/20 | ai, research, software-engineering |
+| [Cloudflare](../companies/cloudflare.md) | 17/21 | ai, research, software-engineering |
 | [Cohere](../companies/cohere.md) | 3/3 | machine-learning, research, software-engineering |
 | [Colgate-Palmolive](../companies/colgate-palmolive.md) | 1/1 | software-engineering |
 | [Colonist](../companies/colonist.md) | 1/1 | software-engineering |
@@ -116,7 +116,7 @@
 | [Cybernetic Labs](../companies/cybernetic-labs.md) | 3/3 | software-engineering |
 | [DE Shaw](../companies/de-shaw.md) | 1/1 | software-engineering |
 | [DNV](../companies/dnv.md) | 0/1 | ai |
-| [DRW](../companies/drw.md) | 1/1 | quant |
+| [DRW](../companies/drw.md) | 8/8 | cloud, hardware, machine-learning, quant, software-engineering |
 | [DTCC](../companies/dtcc.md) | 0/1 | product |
 | [DataRobot](../companies/datarobot.md) | 1/1 | ai |
 | [Databricks](../companies/databricks.md) | 3/3 | product, research |
@@ -336,9 +336,9 @@
 | [Revvity](../companies/revvity.md) | 1/2 | ai, product |
 | [Richemont](../companies/richemont.md) | 1/1 | software-engineering |
 | [Rippling](../companies/rippling.md) | 6/6 | machine-learning, software-engineering |
-| [Rise8](../companies/rise8.md) | 0/1 | product |
+| [Rise8](../companies/rise8.md) | 1/1 | product |
 | [Rivian](../companies/rivian.md) | 3/4 | embedded, machine-learning, research, software-engineering |
-| [Rivian and Volkswagen Group Technologies](../companies/rivian-and-volkswagen-group-technologies.md) | 13/15 | ai, design, embedded, software-engineering |
+| [Rivian and Volkswagen Group Technologies](../companies/rivian-and-volkswagen-group-technologies.md) | 14/16 | ai, design, embedded, software-engineering |
 | [Roam](../companies/roam.md) | 0/1 | software-engineering |
 | [Robert Bosch LLC](../companies/robert-bosch-llc.md) | 1/1 | software-engineering |
 | [Robert Bosch Venture Capital](../companies/robert-bosch-venture-capital.md) | 0/1 | embedded |
@@ -425,7 +425,7 @@
 | [Verne Robotics](../companies/verne-robotics.md) | 0/1 | software-engineering |
 | [VetsEZ](../companies/vetsez.md) | 1/1 | software-engineering |
 | [Viavi Solutions](../companies/viavi-solutions.md) | 0/1 | software-engineering |
-| [Virtu Financial](../companies/virtu-financial.md) | 12/12 | quant |
+| [Virtu Financial](../companies/virtu-financial.md) | 13/13 | design, hardware, quant |
 | [Vital Lyfe](../companies/vital-lyfe.md) | 1/1 | software-engineering |
 | [Voloridge](../companies/voloridge.md) | 2/2 | quant |
 | [Voloridge Investment Management](../companies/voloridge-investment-management.md) | 1/1 | quant |

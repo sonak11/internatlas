@@ -1,6 +1,6 @@
 # 📬 InternAtlas Weekly Digest — 2026-07-31
 
-## 🆕 New this week (204)
+## 🆕 New this week (214)
 
 - **Anthelion Capital** — [Quant Developer / Quant Research Intern](https://jobs.ashbyhq.com/anthelioncap/5e2ea37b-2369-474e-b717-c24c60976e96) · quant · —
 - **Appian** — [Information Security Engineer Intern](https://job-boards.greenhouse.io/appian/jobs/8088496) · security · —
@@ -8,7 +8,6 @@
 - **Appian** — [Software Engineering Intern](https://careers.appian.com/jobs/8041237-software-engineering-intern) · software-engineering · —
 - **Apple** — [Applied Data Solutions Program Intern](https://jobs.apple.com/en-us/details/200673612) · software-engineering · —
 - **Apptronik** — [Software Engineer Intern, ML Systems](https://job-boards.greenhouse.io/apptronik/jobs/6128057004?gh_jid=6128057004) · machine-learning · —
-- **Apptronik** — [Software Engineer Intern - ML Systems](https://boards.greenhouse.io/apptronik/jobs/6128057004) · machine-learning · —
 - **Aptiv** — [Engineering Intern](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern---CD1_J000700242) · software-engineering · —
 - **Arizona State University** — [Management Intern - Career Data and Analytics](https://asu.wd1.myworkdayjobs.com/ASUStaffCareers/job/Campus-Tempe/Management-Intern---Career-Data-and-Analytics_JR124023) · software-engineering · —
 - **Arkema Global** — [Manufacturing Data Systems Intern](https://jobs.arkema.com/job/Radnor-Manufacturing-Data-Systems-Intern-Job-PA/1420491833/?ats=successfactors) · software-engineering · —
@@ -35,7 +34,9 @@
 - **Chicago Trading Company** — [Software Engineer Intern](https://job-boards.greenhouse.io/ctccampusboard/jobs/4708230005) · software-engineering · —
 - **Ciena** — [Software Engineer Intern](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Engineering-Intern_R031372) · software-engineering · —
 - **Ciena** — [Software Liquid Spectrum Applications Intern](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Liquid-Spectrum-Applications-Intern--Fall-2026-_R031412) · software-engineering · —
+- **Cirrus Logic** — [Embedded Software Test Engineer Intern](https://jobs.eu.lever.co/cirrus/2926421c-691a-434a-ae59-c828e7fcbf5b) · embedded · —
 - **City of Austin** — [Austin Aviation Undergraduate Intern - IT Business Systems Analyst](https://austintexas.wd5.myworkdayjobs.com/COA_Careers/job/AUS-Information-Systems-Building-IS/Austin-Aviation--IT-Business-Systems-Analyst---Undergraduate-Intern_JR104583) · software-engineering · —
+- **Cloudflare** — [Customer Advocacy Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8093127?gh_jid=8093127) · software-engineering · —
 - **Cloudflare** — [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089407) · research · —
 - **Cloudflare** — [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089379) · research · —
 - **Cloudflare** — [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400) · research · —
@@ -46,6 +47,13 @@
 - **Copart** — [Software Engineer Intern](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109964) · software-engineering · —
 - **Copart** — [Software Engineer Intern](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109965) · software-engineering · —
 - **Core & Main** — [AI/ML Data Engineering Intern](https://coreandmain.wd1.myworkdayjobs.com/coreandmain/job/Saint-Louis-MO-63146/Intern---Data-Engineering----Corp_45804) · machine-learning · —
+- **DRW** — [AI/ML Research Intern](https://www.drw.com/work-at-drw/listings/aiml-research-intern-3466679) · machine-learning · —
+- **DRW** — [FPGA Intern](https://www.drw.com/work-at-drw/listings/fpga-intern-3484423) · hardware · —
+- **DRW** — [Platform Engineer Intern](https://www.drw.com/work-at-drw/listings/platform-engineer-intern-3468737) · cloud · —
+- **DRW** — [Quantitative Research Intern](https://www.drw.com/work-at-drw/listings/quantitative-research-intern-3413670) · quant · —
+- **DRW** — [Quantitative Trading Analyst Intern](https://www.drw.com/work-at-drw/listings/quantitative-trading-analyst-intern-3375090) · quant · —
+- **DRW** — [Software Developer Intern](https://www.drw.com/work-at-drw/listings/software-developer-intern-3467328) · software-engineering · —
+- **DRW** — [Software Developer Intern](https://www.drw.com/work-at-drw/listings/software-developer-intern-3466687) · software-engineering · —
 - **Deepgram** — [Software Engineering Intern](https://jobs.ashbyhq.com/deepgram/dc8693b5-72ce-4ca3-ab15-9c8434d35da1) · software-engineering · —
 - **Draper** — [Microsystems Integration Intern](https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Microsystems-Integration-Intern_JR002730) · software-engineering · —
 - **East Penn Manufacturing Company** — [Data Engineer Intern](https://careers-eastpennmanufacturing.icims.com/jobs/30007/job?mobile=true&needsRedirect=false) · data-engineering · —
@@ -163,6 +171,7 @@
 - **Rendezvous Robotics** — [Software Engineering Intern](https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4328555009) · software-engineering · —
 - **Rendezvous Robotics** — [Software Engineering Intern, Spring 2027](https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4329122009) · software-engineering · —
 - **Richemont** — [Sustainability Transformation Analyst Intern](https://richemont.wd3.myworkdayjobs.com/richemont/job/BELLEVUE/Sustainability-Transformation-Analyst-Intern_JR132092) · software-engineering · —
+- **Rivian and Volkswagen Group Technologies** — [Software Engineer Intern, Embedded Platforms](https://jobs.ashbyhq.com/rivianvw.tech/4dfbf1e6-3778-4101-8ac7-cd4015d47eff) · embedded · —
 - **Robert Bosch LLC** — [Software Engineer Intern, Autonomous Driving](https://jobs.smartrecruiters.com/BoschGroup/744000139649345) · software-engineering · —
 - **Rockwell Automation** — [Applied AI Intern](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Austin-Texas-United-States/Intern--Applied-AI_R26-5631-2) · ai · —
 - **Rockwell Automation** — [Applied AI Intern](https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Austin-Texas-United-States/Intern--Applied-AI_R26-5631-1) · ai · —
@@ -201,7 +210,8 @@
 - **Trillium** — [Equity Trader Intern](https://www.trlm.com/apply/5076003007?gh_jid=5076003007) · software-engineering · —
 - **University of Texas at Austin** — [Video and Analytics Intern - Baseball](https://utaustin.wd1.myworkdayjobs.com/utstudent/job/UT-MAIN-CAMPUS/Video-and-Analytics-Intern--Baseball_R_00047706) · software-engineering · —
 - **University of Virginia Investment Management Company (UVIMCO)** — [Investment Analyst Intern](https://job-boards.greenhouse.io/uvimco/jobs/5300713008) · software-engineering · —
-- **Virtu Financial** — [2027 Internship - Frontend & User Experience](https://job-boards.greenhouse.io/virtu/jobs/8657500002) · quant · —
+- **Virtu Financial** — [2027 Internship - Frontend Engineer (UI)](https://job-boards.greenhouse.io/virtu/jobs/8657500002) · design · —
+- **Virtu Financial** — [2027 Internship- Hardware Engineer (FPGA)](https://job-boards.greenhouse.io/virtu/jobs/8657286002) · hardware · —
 - **Walleye Capital** — [Technology Intern](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4681002006) · software-engineering · —
 - **XTX Markets** — [Philanthropy Intern](https://job-boards.greenhouse.io/xtxmarketstechnologies/jobs/7819416003) · software-engineering · —
 - **Zurich Insurance** — [Data Analytics & AI Internship/Co-op - Data Analytics & AI](https://www.careers.zurich.com/job/Toronto-Fall-2026-InternshipCo-op-Data-Analytics-&-AI-ON/1367953057/?ats=successfactors) · ai · —
