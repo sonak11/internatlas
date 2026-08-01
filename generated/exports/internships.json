@@ -1,6 +1,6 @@
 {
   "generated": "2026-08-01",
-  "count": 1178,
+  "count": 1183,
   "internships": [
     {
       "schema_version": "1.0",
@@ -4396,7 +4396,7 @@
         "discovered": "2026-07-21",
         "last_verified": "2026-08-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -8611,9 +8611,9 @@
       "dates": {
         "posted": "2026-07-16",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-08-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -8890,9 +8890,9 @@
       "dates": {
         "posted": "2026-07-20",
         "discovered": "2026-07-20",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-08-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -9028,9 +9028,9 @@
       "dates": {
         "posted": "2026-07-20",
         "discovered": "2026-07-20",
-        "last_verified": "2026-07-22"
+        "last_verified": "2026-08-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -9876,7 +9876,7 @@
         "discovered": "2026-07-20",
         "last_verified": "2026-08-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -10037,7 +10037,7 @@
         "discovered": "2026-07-20",
         "last_verified": "2026-08-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -10089,7 +10089,7 @@
         "discovered": "2026-07-20",
         "last_verified": "2026-08-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -10454,9 +10454,9 @@
       "dates": {
         "posted": "2026-07-20",
         "discovered": "2026-07-20",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-08-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -10662,7 +10662,7 @@
         "discovered": "2026-07-22",
         "last_verified": "2026-08-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -10820,7 +10820,7 @@
         "discovered": "2026-07-20",
         "last_verified": "2026-08-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -10923,7 +10923,7 @@
         "discovered": "2026-07-20",
         "last_verified": "2026-08-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -12857,6 +12857,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "clyde-companies-application-development-intern-2026",
+      "company": {
+        "name": "Clyde Companies",
+        "slug": "clyde-companies"
+      },
+      "role": "Application Development Intern",
+      "category": "software-engineering",
+      "apply_url": "https://careers.clydeinc.com/jobs/24398?icims=1",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Orem",
+          "state": "UT",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-20",
+        "discovered": "2026-08-01",
+        "last_verified": "2026-08-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "cme-group-quant-risk-management-intern-2026",
       "company": {
         "name": "CME Group",
@@ -13548,7 +13600,7 @@
         "discovered": "2026-07-28",
         "last_verified": "2026-08-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -13706,7 +13758,7 @@
         "discovered": "2026-07-21",
         "last_verified": "2026-08-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -13976,7 +14028,7 @@
         "discovered": "2026-07-20",
         "last_verified": "2026-08-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -14237,7 +14289,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -14288,7 +14340,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -14339,7 +14391,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -14390,7 +14442,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -14913,9 +14965,9 @@
       "dates": {
         "posted": "2026-07-17",
         "discovered": "2026-07-18",
-        "last_verified": "2026-07-22"
+        "last_verified": "2026-08-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -15437,9 +15489,9 @@
       "dates": {
         "posted": "2026-07-21",
         "discovered": "2026-07-21",
-        "last_verified": "2026-07-22"
+        "last_verified": "2026-08-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -16590,9 +16642,9 @@
       "dates": {
         "posted": "2026-07-21",
         "discovered": "2026-07-21",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-08-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -16744,7 +16796,7 @@
         "discovered": "2026-07-18",
         "last_verified": "2026-08-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -16790,9 +16842,9 @@
       "dates": {
         "posted": "2026-07-17",
         "discovered": "2026-07-18",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-08-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -16948,9 +17000,9 @@
       "dates": {
         "posted": "2026-07-21",
         "discovered": "2026-07-21",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-08-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -18058,9 +18110,9 @@
       "dates": {
         "posted": "2026-07-21",
         "discovered": "2026-07-22",
-        "last_verified": "2026-07-31"
+        "last_verified": "2026-08-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -18231,7 +18283,7 @@
         "discovered": "2026-07-21",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -19122,9 +19174,9 @@
       "dates": {
         "posted": "2026-07-21",
         "discovered": "2026-07-21",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-08-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -19696,7 +19748,7 @@
         "discovered": "2026-07-21",
         "last_verified": "2026-08-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -22291,7 +22343,7 @@
         "discovered": "2026-07-21",
         "last_verified": "2026-08-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -22346,6 +22398,57 @@
         "last_verified": "2026-08-01"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "gumloop-design-engineer-intern-2026",
+      "company": {
+        "name": "Gumloop",
+        "slug": "gumloop"
+      },
+      "role": "Design Engineer Intern",
+      "category": "design",
+      "apply_url": "https://jobs.ashbyhq.com/Gumloop/dcdc0658-b3fd-44cd-b0cf-4016c9513d40/application?embed=true",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "SF",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-16",
+        "discovered": "2026-08-01",
+        "last_verified": "2026-08-01"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -29293,9 +29396,61 @@
       "dates": {
         "posted": "2026-07-21",
         "discovered": "2026-07-21",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-08-01"
       },
-      "status": "closed",
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "k-id-engineering-intern-program-2026",
+      "company": {
+        "name": "k-ID",
+        "slug": "k-id"
+      },
+      "role": "Engineering Intern - Program",
+      "category": "software-engineering",
+      "apply_url": "https://jobs.ashbyhq.com/k-id/18619df2-45d8-4732-8815-9a340d498d48/application?embed=true",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-21",
+        "discovered": "2026-08-01",
+        "last_verified": "2026-08-01"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -29504,7 +29659,7 @@
         "discovered": "2026-07-21",
         "last_verified": "2026-08-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -29720,7 +29875,7 @@
         "discovered": "2026-07-21",
         "last_verified": "2026-08-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -29771,7 +29926,7 @@
         "discovered": "2026-07-21",
         "last_verified": "2026-08-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -31429,7 +31584,7 @@
         "discovered": "2026-07-21",
         "last_verified": "2026-08-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -33139,7 +33294,7 @@
         "discovered": "2026-07-21",
         "last_verified": "2026-08-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -33191,7 +33346,7 @@
         "discovered": "2026-07-24",
         "last_verified": "2026-08-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -34269,7 +34424,7 @@
       },
       "role": "Graduate Intern",
       "category": "software-engineering",
-      "apply_url": "https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Graduate--Year-Round--Intern---Industrial-and-Fuel-Supply-Optimization-Modeling-Analysis_R14426",
+      "apply_url": "https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Graduate-Intern---LLM-Reliability-and-Uncertainty-for-AI-Science-Assistants_R14416",
       "season": "fall",
       "year": 2026,
       "work_mode": "onsite",
@@ -34305,14 +34460,15 @@
         "resume_keywords": []
       },
       "dates": {
-        "posted": "2026-07-28",
+        "posted": "2026-07-20",
         "discovered": "2026-07-20",
         "last_verified": "2026-08-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
-        "src:simplify"
+        "src:simplify",
+        "remote-available"
       ]
     },
     {
@@ -34892,7 +35048,7 @@
         "discovered": "2026-07-24",
         "last_verified": "2026-08-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -36828,7 +36984,7 @@
         "discovered": "2026-07-22",
         "last_verified": "2026-08-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -38060,7 +38216,7 @@
         "discovered": "2026-07-21",
         "last_verified": "2026-08-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -38166,7 +38322,7 @@
         "discovered": "2026-07-21",
         "last_verified": "2026-08-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -40801,7 +40957,7 @@
         "discovered": "2026-07-21",
         "last_verified": "2026-08-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -41551,7 +41707,7 @@
         "discovered": "2026-07-21",
         "last_verified": "2026-08-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -41602,7 +41758,7 @@
         "discovered": "2026-07-21",
         "last_verified": "2026-08-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -42531,9 +42687,9 @@
       "dates": {
         "posted": "2026-07-21",
         "discovered": "2026-07-21",
-        "last_verified": "2026-07-22"
+        "last_verified": "2026-08-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -43201,7 +43357,7 @@
         "discovered": "2026-07-21",
         "last_verified": "2026-08-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -43247,7 +43403,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -43345,9 +43501,9 @@
       "dates": {
         "posted": "2026-07-15",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-18"
+        "last_verified": "2026-08-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -43398,7 +43554,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -45006,9 +45162,9 @@
       "dates": {
         "posted": "2026-07-21",
         "discovered": "2026-07-21",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-08-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -45689,7 +45845,7 @@
         "discovered": "2026-07-20",
         "last_verified": "2026-08-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -47341,9 +47497,9 @@
       "dates": {
         "posted": "2026-07-16",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-22"
+        "last_verified": "2026-08-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -48915,7 +49071,7 @@
         "discovered": "2026-07-21",
         "last_verified": "2026-08-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -49018,7 +49174,7 @@
         "discovered": "2026-07-21",
         "last_verified": "2026-08-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -49069,7 +49225,7 @@
         "discovered": "2026-07-21",
         "last_verified": "2026-08-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -51698,7 +51854,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "tencent-research-intern-video-world-models-research-ml-systems-2026",
+      "id": "tencent-research-intern-video-world-models-research-ml-systems-2026-ef917d",
       "company": {
         "name": "Tencent",
         "slug": "tencent"
@@ -51742,10 +51898,65 @@
       },
       "dates": {
         "posted": "2026-07-15",
+        "discovered": "2026-08-01",
+        "last_verified": "2026-08-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "tencent-research-intern-video-world-models-research-ml-systems-2026",
+      "company": {
+        "name": "Tencent",
+        "slug": "tencent"
+      },
+      "role": "Research Intern - Video World Models - Research & ML Systems",
+      "category": "machine-learning",
+      "apply_url": "https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/US-California-Palo-Alto/Research-Intern---Video-World-Models--Research---ML-Systems-_R107752",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Palo Alto",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters",
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-15",
         "discovered": "2026-07-17",
         "last_verified": "2026-08-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -51904,6 +52115,58 @@
       "dates": {
         "posted": "2026-07-23",
         "discovered": "2026-07-24",
+        "last_verified": "2026-08-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "terranova-embedded-systems-intern-2026",
+      "company": {
+        "name": "Terranova",
+        "slug": "terranova"
+      },
+      "role": "Embedded Systems Intern",
+      "category": "embedded",
+      "apply_url": "https://jobs.ashbyhq.com/terranova/8fdce1f7-a1df-4e64-8f10-c78771a399da/application?embed=true",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Berkeley",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-21",
+        "discovered": "2026-08-01",
         "last_verified": "2026-08-01"
       },
       "status": "open",
@@ -60543,7 +60806,7 @@
         "discovered": "2026-07-21",
         "last_verified": "2026-08-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -60594,7 +60857,7 @@
         "discovered": "2026-07-20",
         "last_verified": "2026-08-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
