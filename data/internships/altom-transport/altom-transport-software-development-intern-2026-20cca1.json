@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "hendrick-motorsports-racing-performance-engineer-intern-2026",
+  "id": "altom-transport-software-development-intern-2026-20cca1",
   "company": {
-    "name": "Hendrick Motorsports",
-    "slug": "hendrick-motorsports"
+    "name": "Altom Transport",
+    "slug": "altom-transport"
   },
-  "role": "Racing Performance Engineer Intern",
+  "role": "Software Development Intern",
   "category": "software-engineering",
-  "apply_url": "https://hendrick.wd5.myworkdayjobs.com/HMSCareers/job/Hendrick-Motorsports/Racing-Performance-Engineer---Fall-2026-Internship_R-81564",
+  "apply_url": "https://apply.workable.com/altom-transport/j/9FC654F05E/apply",
   "season": "fall",
   "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Charlotte",
-      "state": "NC",
+      "city": "Markham",
+      "state": "IL",
       "country": "USA"
     }
   ],
@@ -40,11 +40,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-06-25",
-    "discovered": "2026-07-17",
+    "posted": "2026-06-23",
+    "discovered": "2026-08-01",
     "last_verified": "2026-08-01"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

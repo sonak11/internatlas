@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "hendrick-motorsports-racing-performance-engineer-intern-2026",
+  "id": "nationwide-children-s-hospital-research-intern-2026",
   "company": {
-    "name": "Hendrick Motorsports",
-    "slug": "hendrick-motorsports"
+    "name": "Nationwide Children's Hospital",
+    "slug": "nationwide-children-s-hospital"
   },
-  "role": "Racing Performance Engineer Intern",
-  "category": "software-engineering",
-  "apply_url": "https://hendrick.wd5.myworkdayjobs.com/HMSCareers/job/Hendrick-Motorsports/Racing-Performance-Engineer---Fall-2026-Internship_R-81564",
+  "role": "Research Intern",
+  "category": "research",
+  "apply_url": "https://nationwidechildrens.wd5.myworkdayjobs.com/en-US/NCHCareers/job/Main-Campus-Columbus-OH/Research-Intern_R-25571",
   "season": "fall",
   "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Charlotte",
-      "state": "NC",
+      "city": "Columbus",
+      "state": "OH",
       "country": "USA"
     }
   ],
@@ -40,11 +40,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-06-25",
-    "discovered": "2026-07-17",
+    "posted": "2026-07-04",
+    "discovered": "2026-08-01",
     "last_verified": "2026-08-01"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

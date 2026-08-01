@@ -1,6 +1,6 @@
 {
   "generated": "2026-08-01",
-  "count": 1165,
+  "count": 1167,
   "internships": [
     {
       "schema_version": "1.0",
@@ -1331,6 +1331,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "altom-transport-software-development-intern-2026-20cca1",
+      "company": {
+        "name": "Altom Transport",
+        "slug": "altom-transport"
+      },
+      "role": "Software Development Intern",
+      "category": "software-engineering",
+      "apply_url": "https://apply.workable.com/altom-transport/j/9FC654F05E/apply",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Markham",
+          "state": "IL",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-06-23",
+        "discovered": "2026-08-01",
+        "last_verified": "2026-08-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "altom-transport-software-development-intern-2026-69c2d0",
       "company": {
         "name": "Altom Transport",
@@ -1375,7 +1427,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -1390,7 +1442,7 @@
       },
       "role": "Software Development Intern",
       "category": "software-engineering",
-      "apply_url": "https://apply.workable.com/altom-transport/j/9FC654F05E/apply",
+      "apply_url": "https://apply.workable.com/altom-transport/j/1E3C4A9408/apply",
       "season": "fall",
       "year": 2026,
       "work_mode": "onsite",
@@ -1423,7 +1475,7 @@
         "resume_keywords": []
       },
       "dates": {
-        "posted": "2026-06-23",
+        "posted": "2026-05-28",
         "discovered": "2026-07-17",
         "last_verified": "2026-08-01"
       },
@@ -6302,7 +6354,7 @@
         "discovered": "2026-07-29",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -9348,13 +9400,13 @@
       "work_mode": "onsite",
       "locations": [
         {
-          "city": "Houston",
-          "state": "TX",
+          "city": "Stamford",
+          "state": "CT",
           "country": "USA"
         },
         {
-          "city": "Stamford",
-          "state": "CT",
+          "city": "Houston",
+          "state": "TX",
           "country": "USA"
         }
       ],
@@ -9380,14 +9432,14 @@
         "resume_keywords": []
       },
       "dates": {
-        "posted": "2026-07-21",
+        "posted": "2026-07-31",
         "discovered": "2026-07-22",
         "last_verified": "2026-08-01"
       },
       "status": "open",
       "tags": [
         "auto-ingested",
-        "src:simplify"
+        "src:vanshb03"
       ]
     },
     {
@@ -13799,7 +13851,7 @@
         "discovered": "2026-07-20",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -19855,7 +19907,7 @@
         "discovered": "2026-07-23",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -22547,7 +22599,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -34034,7 +34086,7 @@
         "discovered": "2026-07-21",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -34134,6 +34186,58 @@
       "dates": {
         "posted": "2026-07-21",
         "discovered": "2026-07-21",
+        "last_verified": "2026-08-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "nationwide-children-s-hospital-research-intern-2026",
+      "company": {
+        "name": "Nationwide Children's Hospital",
+        "slug": "nationwide-children-s-hospital"
+      },
+      "role": "Research Intern",
+      "category": "research",
+      "apply_url": "https://nationwidechildrens.wd5.myworkdayjobs.com/en-US/NCHCareers/job/Main-Campus-Columbus-OH/Research-Intern_R-25571",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Columbus",
+          "state": "OH",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-04",
+        "discovered": "2026-08-01",
         "last_verified": "2026-08-01"
       },
       "status": "open",
@@ -36550,7 +36654,7 @@
         "discovered": "2026-07-24",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -37519,7 +37623,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -41941,7 +42045,7 @@
         "discovered": "2026-07-31",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -43362,7 +43466,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -45255,7 +45359,7 @@
         "discovered": "2026-07-20",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -45416,7 +45520,7 @@
         "discovered": "2026-07-27",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -51089,7 +51193,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -61172,7 +61276,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -61245,10 +61349,6 @@
       "work_mode": "onsite",
       "locations": [
         {
-          "city": "NYC",
-          "country": "USA"
-        },
-        {
           "city": "New York",
           "state": "NY",
           "country": "USA"
@@ -61278,14 +61378,14 @@
         "resume_keywords": []
       },
       "dates": {
-        "posted": "2026-06-10",
+        "posted": "2026-07-24",
         "discovered": "2026-07-17",
         "last_verified": "2026-08-01"
       },
       "status": "open",
       "tags": [
         "auto-ingested",
-        "src:simplify"
+        "src:vanshb03"
       ]
     },
     {
@@ -61388,7 +61488,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
