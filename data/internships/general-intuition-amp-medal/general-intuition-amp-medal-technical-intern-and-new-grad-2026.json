@@ -1,20 +1,24 @@
 {
   "schema_version": "1.0",
-  "id": "susquehanna-international-group-sig-quantitative-research-intern-2027-ad3bfa",
+  "id": "general-intuition-amp-medal-technical-intern-and-new-grad-2026",
   "company": {
-    "name": "Susquehanna International Group (SIG)",
-    "slug": "susquehanna-international-group-sig"
+    "name": "General Intuition &amp; Medal",
+    "slug": "general-intuition-amp-medal"
   },
-  "role": "Quantitative Research Intern",
-  "category": "quant",
-  "apply_url": "https://careers-sig.icims.com/jobs/11007/job?mobile=true&needsRedirect=false",
-  "season": "summer",
-  "year": 2027,
+  "role": "Technical Intern and New Grad",
+  "category": "software-engineering",
+  "apply_url": "https://jobs.ashbyhq.com/generalintuition-medal/aaa8928d-7d07-4859-86c1-eb39c4c4cbd3/application?embed=true",
+  "season": "fall",
+  "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
       "city": "London",
       "country": "UK"
+    },
+    {
+      "city": "NYC",
+      "country": "USA"
     }
   ],
   "compensation": {
@@ -24,10 +28,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters",
-      "phd"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -42,8 +43,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-15",
-    "discovered": "2026-07-17",
+    "posted": "2026-07-21",
+    "discovered": "2026-08-01",
     "last_verified": "2026-08-01"
   },
   "status": "open",

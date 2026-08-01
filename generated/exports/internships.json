@@ -1,6 +1,6 @@
 {
   "generated": "2026-08-01",
-  "count": 1155,
+  "count": 1153,
   "internships": [
     {
       "schema_version": "1.0",
@@ -527,7 +527,7 @@
         "discovered": "2026-07-23",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -4241,7 +4241,7 @@
         "discovered": "2026-07-21",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -7866,7 +7866,7 @@
         "discovered": "2026-08-01",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -13056,9 +13056,9 @@
       "dates": {
         "posted": "2026-07-17",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-22"
+        "last_verified": "2026-08-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -13587,7 +13587,7 @@
         "discovered": "2026-07-31",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -18423,9 +18423,9 @@
       "dates": {
         "posted": "2026-07-21",
         "discovered": "2026-07-21",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-08-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -20627,6 +20627,61 @@
       "tags": [
         "auto-ingested",
         "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "general-intuition-amp-medal-technical-intern-and-new-grad-2026",
+      "company": {
+        "name": "General Intuition &amp; Medal",
+        "slug": "general-intuition-amp-medal"
+      },
+      "role": "Technical Intern and New Grad",
+      "category": "software-engineering",
+      "apply_url": "https://jobs.ashbyhq.com/generalintuition-medal/aaa8928d-7d07-4859-86c1-eb39c4c4cbd3/application?embed=true",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "London",
+          "country": "UK"
+        },
+        {
+          "city": "NYC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-21",
+        "discovered": "2026-08-01",
+        "last_verified": "2026-08-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
       ]
     },
     {
@@ -29794,7 +29849,7 @@
         "discovered": "2026-07-29",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -31493,7 +31548,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -36027,7 +36082,7 @@
         "discovered": "2026-07-22",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -37365,7 +37420,7 @@
         "discovered": "2026-07-21",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -40272,7 +40327,7 @@
         "discovered": "2026-07-21",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -42089,7 +42144,7 @@
         "discovered": "2026-07-30",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -42349,7 +42404,7 @@
         "discovered": "2026-07-21",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -44892,7 +44947,7 @@
         "discovered": "2026-07-31",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -45758,7 +45813,7 @@
         "discovered": "2026-07-21",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -47231,7 +47286,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -48217,7 +48272,7 @@
         "discovered": "2026-07-21",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -48851,7 +48906,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -48959,7 +49014,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -49025,7 +49080,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "susquehanna-international-group-sig-quantitative-research-intern-2027-ad3bfa",
+      "id": "susquehanna-international-group-sig-quantitative-research-intern-2027",
       "company": {
         "name": "Susquehanna International Group (SIG)",
         "slug": "susquehanna-international-group-sig"
@@ -49050,7 +49105,6 @@
       "eligibility": {
         "graduation_years": [],
         "degree_levels": [
-          "masters",
           "phd"
         ],
         "citizenship_required": false,
@@ -49068,64 +49122,6 @@
       },
       "dates": {
         "posted": "2026-07-15",
-        "discovered": "2026-07-17",
-        "last_verified": "2026-08-01"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "susquehanna-international-group-sig-quantitative-research-intern-2027",
-      "company": {
-        "name": "Susquehanna International Group (SIG)",
-        "slug": "susquehanna-international-group-sig"
-      },
-      "role": "Quantitative Research Intern",
-      "category": "quant",
-      "apply_url": "https://careers-sig.icims.com/jobs/10818/job?mobile=true&needsRedirect=false",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Philadelphia",
-          "state": "PA",
-          "country": "USA"
-        },
-        {
-          "city": "NYC",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [
-          "phd"
-        ],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-06-29",
         "discovered": "2026-07-17",
         "last_verified": "2026-08-01"
       },
@@ -49191,7 +49187,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "susquehanna-international-group-sig-quantitative-strategy-developer-intern-2027-3633db",
+      "id": "susquehanna-international-group-sig-quantitative-strategy-developer-intern-2027",
       "company": {
         "name": "Susquehanna International Group (SIG)",
         "slug": "susquehanna-international-group-sig"
@@ -49234,60 +49230,6 @@
       },
       "dates": {
         "posted": "2026-07-06",
-        "discovered": "2026-07-17",
-        "last_verified": "2026-08-01"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "susquehanna-international-group-sig-quantitative-strategy-developer-intern-2027",
-      "company": {
-        "name": "Susquehanna International Group (SIG)",
-        "slug": "susquehanna-international-group-sig"
-      },
-      "role": "Quantitative Strategy Developer Intern",
-      "category": "quant",
-      "apply_url": "https://careers-sig.icims.com/jobs/10838/job?mobile=true&needsRedirect=false",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Ardmore",
-          "state": "PA",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [
-          "masters"
-        ],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-04-23",
         "discovered": "2026-07-17",
         "last_verified": "2026-08-01"
       },
@@ -49511,7 +49453,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -49983,7 +49925,7 @@
         "discovered": "2026-07-21",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -50309,7 +50251,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "tencent-ai-product-manager-intern-2026-0948b4",
+      "id": "tencent-ai-product-manager-intern-2026",
       "company": {
         "name": "Tencent",
         "slug": "tencent"
@@ -50352,60 +50294,6 @@
       },
       "dates": {
         "posted": "2026-06-27",
-        "discovered": "2026-07-22",
-        "last_verified": "2026-08-01"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "tencent-ai-product-manager-intern-2026",
-      "company": {
-        "name": "Tencent",
-        "slug": "tencent"
-      },
-      "role": "AI Product Manager Intern",
-      "category": "ai",
-      "apply_url": "https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/United-Kingdom-London/Product-manager-Intern_R107654",
-      "season": "fall",
-      "year": 2026,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "London",
-          "country": "UK"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [
-          "masters",
-          "phd"
-        ],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-06-19",
         "discovered": "2026-07-22",
         "last_verified": "2026-08-01"
       },
@@ -60387,7 +60275,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -61237,7 +61125,7 @@
         "discovered": "2026-07-21",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -61502,7 +61390,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"

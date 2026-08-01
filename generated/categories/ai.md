@@ -2,18 +2,16 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🤖 AI Internships
 
-**115** tracked · **84** open now
+**114** tracked · **79** open now
 
 ## Current openings
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
-| [Adtheorant](generated/companies/adtheorant.md) | [Enterprise AI Intern](https://careers-cadent.icims.com/jobs/1406/job?mobile=true&needsRedirect=false) | NYC | Onsite | 2026-07-22 | Rolling | 🟢 Open | ❔ |
 | [Argmax](generated/companies/argmax.md) | [On-device AI Frameworks Engineer Intern](https://job-boards.greenhouse.io/argmax/jobs/4067268009) | Palo Alto, CA +1 | Onsite | 2026-07-14 | Rolling | 🟢 Open | ❔ |
 | [Bild AI](generated/companies/bild-ai.md) | [AI/Software Engineer Intern](https://jobs.ashbyhq.com/bild-ai/b333f0f7-0ca6-4509-8697-9303396b5364/application?embed=true) | SF | Onsite | 2026-07-21 | Rolling | 🟢 Open | ❔ |
 | [Bosch](generated/companies/bosch.md) | [AI Research Intern - Wireless Perception](https://jobs.smartrecruiters.com/BoschGroup/c4621e0f-5c1e-4a67-adc4-0671cbcaf28c) | Pittsburgh, PA | Onsite | 2025-12-16 | Rolling | 🟢 Open | ❌ |
 | [Bosch](generated/companies/bosch.md) | [LLM & Agentic AI R&D Intern](https://jobs.bosch.com/en/job/REF273459Q-llm-agentic-ai-r-d-intern) | Sunnyvale, CA | Onsite | 2025-12-10 | Rolling | 🟢 Open | ✅ |
-| [Brio Water Technology](generated/companies/brio-water-technology.md) | [AI Automation & Business Analytics Intern - Rotational Program](https://ats.rippling.com/briowt/jobs/52da1fca-1cb1-49ff-8a94-b6f3850cd8eb) | Glendale, CA | Onsite | 2026-07-31 | Rolling | 🟢 Open | ❔ |
 | [Brookfield](generated/companies/brookfield.md) | [AI Value Creation Office Intern](https://brookfield.wd5.myworkdayjobs.com/brookfieldprivate/job/Toronto-Ontario/Intern--AI-Value-Creation-Office_R2048790) | Toronto | Onsite | 2026-07-04 | Rolling | 🟢 Open | ❔ |
 | [Cirrus Logic](generated/companies/cirrus-logic.md) | [AI Business Analytics Co-op Intern](https://jobs.eu.lever.co/cirrus/f85c944c-d437-4685-9f04-c7b79ae65ecb/apply) | Austin, TX | Onsite | 2026-07-20 | Rolling | 🟢 Open | ❔ |
 | [Cirrus Logic](generated/companies/cirrus-logic.md) | [Embedded Software AI Intern Co-op](https://jobs.eu.lever.co/cirrus/3d6df577-91f6-4b58-9e7f-c982e49ff515/apply) | Austin, TX | Onsite | 2026-06-23 | Rolling | 🟢 Open | ❔ |
@@ -37,13 +35,11 @@
 | [McKesson](generated/companies/mckesson.md) | [AI & Strategic Analytics Intern](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-ON-Mississauga/AI---Strategic-Analytics-Intern---Fall-2026_JR0150114) | Mississauga | Onsite | 2026-07-14 | Rolling | 🟢 Open | ❔ |
 | [Medpace](generated/companies/medpace.md) | [AI Engineer Intern](https://careers.medpace.com/jobs/12863?icims=1) | London | Onsite | 2026-07-21 | Rolling | 🟢 Open | ❔ |
 | [Medpace, Inc.](generated/companies/medpace-inc.md) | [AI Engineer Intern](https://careers.medpace.com/jobs/12729?lang=en-us&icims=1) | Cincinnati, OH | Onsite | 2026-05-14 | Rolling | 🟢 Open | ❔ |
-| [Meta](generated/companies/meta.md) | [Research Scientist Intern - AI Alignment](https://www.metacareers.com/jobs/1782902493113620) | Boston, MA +5 | Onsite | 2026-03-05 | Rolling | 🟢 Open | ❔ |
 | [Meta](generated/companies/meta.md) | [Research Scientist Intern - Monetization Generative AI - LLM](https://www.metacareers.com/jobs/2916726525182155) | Seattle, WA +3 | Onsite | 2026-03-05 | Rolling | 🟢 Open | ❔ |
 | [Meta](generated/companies/meta.md) | [Research Scientist Intern - Multimodal Contextual AI](https://www.metacareers.com/jobs/2160167211413098) | Redmond, WA | Onsite | 2026-05-15 | Rolling | 🟢 Open | ❔ |
 | [Meta](generated/companies/meta.md) | [Research Scientist Intern, LLM Evaluation](https://www.metacareers.com/profile/job_details/4203446973242742) | New York, NY | Onsite | 2025-12-11 | Rolling | 🟢 Open | ❌ |
 | [Mistral AI](generated/companies/mistral-ai.md) | [AI Data Solutions Intern - Data Partnerships](https://jobs.ashbyhq.com/mistral.ai/60fcc44d-4d96-469d-a96c-d6a9bbfe8edd/application?embed=true) | Palo Alto, CA | Onsite | 2026-07-24 | Rolling | 🟢 Open | ❔ |
 | [Nelnet](generated/companies/nelnet.md) | [Agentic AI Intern](https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Lincoln-NE/Intern-Program---Agentic-AI_R22904) | Lincoln, NE | Onsite | 2026-07-27 | Rolling | 🟢 Open | ❔ |
-| [North Cloud](generated/companies/north-cloud.md) | [AI Automation Intern](https://ats.rippling.com/north-cloud/jobs/9d9d6db9-2da0-45e2-a3d3-6373c61763a4) | Brooklyn, NY | Onsite | 2026-07-21 | Rolling | 🟢 Open | ❔ |
 | [Notion](generated/companies/notion.md) | [Software Engineer, AI Intern](https://jobs.ashbyhq.com/notion/39d70209-37f6-4623-949b-18fbd8889933) | San Francisco, CA +1 | Onsite | 2025-08-08 | Rolling | 🟢 Open | ✅ |
 | [Nuro](generated/companies/nuro.md) | [Software Engineer, AI Platform - Intern](https://nuro.ai/careersitem?gh_jid=7351061) | Mountain View | Onsite | 2025-10-22 | Rolling | 🟢 Open | ❔ |
 | [onsemi](generated/companies/onsemi.md) | [AI & Data Analytics Intern](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2505878) | Scottsdale, AZ | Onsite | 2026-07-15 | Rolling | 🟢 Open | ❔ |
@@ -60,7 +56,6 @@
 | [ShyftLabs](generated/companies/shyftlabs.md) | [AI Engineer Intern](https://jobs.lever.co/shyftlabs/4f389ea7-9b98-4ed0-99c2-b25ea8cc2dcd) | Toronto | Onsite | 2026-07-24 | Rolling | 🟢 Open | ❔ |
 | [SPREEAI](generated/companies/spreeai.md) | [Software Engineer Intern, AI Infrastructure / Training / Inference](https://ats.rippling.com/en-GB/spreeai/jobs/d34aed29-7a11-4e37-b5bc-e9317f82f0b1) | San Francisco, CA | Onsite | 2026-07-24 | Rolling | 🟢 Open | ✅ |
 | [Tencent](generated/companies/tencent.md) | [AI Product Manager Intern](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/United-Kingdom-London/Product-manager-Intern_R107654-1) | London | Onsite | 2026-06-27 | Rolling | 🟢 Open | ❔ |
-| [Tencent](generated/companies/tencent.md) | [AI Product Manager Intern](https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/United-Kingdom-London/Product-manager-Intern_R107654) | London | Onsite | 2026-06-19 | Rolling | 🟢 Open | ❔ |
 | [Tenstorrent](generated/companies/tenstorrent.md) | [CPU/AI Workload Analysis Intern](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5158533007) | Santa Clara, CA | Onsite | 2026-06-08 | Rolling | 🟢 Open | ❔ |
 | [Tenstorrent](generated/companies/tenstorrent.md) | [Software Engineer Intern - Power Modeling & AI Tools](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5186916007) | Santa Clara, CA | Onsite | 2026-07-23 | Rolling | 🟢 Open | ✅ |
 | [Tesla](generated/companies/tesla.md) | [AI Hardware Design Engineer Intern - AI Hardware Design Engineer - AI Hardware](https://www.tesla.com/careers/search/job/272462) | Palo Alto, CA +1 | Onsite | 2026-06-07 | Rolling | 🟢 Open | ❔ |
@@ -93,6 +88,7 @@
 | [Xsolla](generated/companies/xsolla.md) | [AI-First Engineer Intern](https://jobs.lever.co/xsolla/1c0e5375-2352-4a2c-a816-48ddebbdd3d6/apply) | LA | Onsite | 2026-07-10 | Rolling | 🟢 Open | ❔ |
 | [Zurich Insurance](generated/companies/zurich-insurance.md) | [Data Analytics & AI Internship/Co-op - Data Analytics & AI](https://www.careers.zurich.com/job/Toronto-Fall-2026-InternshipCo-op-Data-Analytics-&-AI-ON/1367953057/?ats=successfactors) | Toronto | Onsite | 2026-07-28 | Rolling | 🟢 Open | ❔ |
 | [1X](generated/companies/1x.md) | [AI Residency Intern](https://jobs.ashbyhq.com/1x/5b2b4c73-13b5-46ca-8467-8024741a4b57/application) | San Carlos, CA | Onsite | 2026-07-07 | Rolling | 🔴 Closed | ❔ |
+| [Adtheorant](generated/companies/adtheorant.md) | [Enterprise AI Intern](https://careers-cadent.icims.com/jobs/1406/job?mobile=true&needsRedirect=false) | NYC | Onsite | 2026-07-22 | Rolling | 🔴 Closed | ❔ |
 | [Altera Corporation](generated/companies/altera-corporation.md) | [AI Software Development Engineer Intern](https://altera.wd1.myworkdayjobs.com/altera/job/San-Jose-California-United-States/AI-Software-Development-Engineer---Intern_R02707) | San Jose, CA | Onsite | 2026-07-17 | Rolling | 🔴 Closed | ❔ |
 | [American Bureau of Shipping](generated/companies/american-bureau-of-shipping.md) | [AI Software Engineering Intern](https://hbbq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4564) | St. John's | Onsite | 2026-07-06 | Rolling | 🔴 Closed | ❔ |
 | [American Enterprise Institute](generated/companies/american-enterprise-institute.md) | [Data Analysis & AI Policy Intern](https://internships-aei.icims.com/jobs/2612/job?mobile=true&needsRedirect=false) | Washington, DC | Onsite | 2026-05-01 | Rolling | 🔴 Closed | ❔ |
@@ -101,6 +97,7 @@
 | [Bank of Montreal](generated/companies/bank-of-montreal.md) | [Data and AI Operations Analyst Co-op/Internship - Cloud](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Data-and-AI-Operations-Analyst--Cloud---Fall-2026--Co-op-Internship----8-months_R260021724-1) | Toronto | Onsite | 2026-07-28 | Rolling | 🔴 Closed | ❔ |
 | [Bank of Montreal](generated/companies/bank-of-montreal.md) | [Data and AI Operations Analyst Co-op/Internship - Cloud](https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Data-and-AI-Operations-Analyst--Cloud---Fall-2026--Co-op-Internship----8-months_R260021724-2) | Toronto | Onsite | 2026-07-28 | Rolling | 🔴 Closed | ❔ |
 | [Bank of Montreal](generated/companies/bank-of-montreal.md) | [Data and AI Operations Analyst Intern/Co-op - Cloud - 8 months](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Data-and-AI-Operations-Analyst--Cloud---Fall-2026--Co-op-Internship----8-months_R260021724) | Toronto | Onsite | 2026-07-27 | Rolling | 🔴 Closed | ❔ |
+| [Brio Water Technology](generated/companies/brio-water-technology.md) | [AI Automation & Business Analytics Intern - Rotational Program](https://ats.rippling.com/briowt/jobs/52da1fca-1cb1-49ff-8a94-b6f3850cd8eb) | Glendale, CA | Onsite | 2026-07-31 | Rolling | 🔴 Closed | ❔ |
 | [ByteDance](generated/companies/bytedance.md) | [Research Scientist Intern - AI Infrastructure](https://jobs.bytedance.com/en/position/7553917136512076050/detail) | San Jose, CA | Onsite | 2026-07-03 | Rolling | 🔴 Closed | ❔ |
 | [ByteDance](generated/companies/bytedance.md) | [Research Scientist Intern - AI Infrastructure](https://jobs.bytedance.com/en/position/7553916190126524680/detail) | Seattle, WA | Onsite | 2026-07-03 | Rolling | 🔴 Closed | ❔ |
 | [CCC Intelligent Solutions](generated/companies/ccc-intelligent-solutions.md) | [Applied AI Engineer Intern](https://cccis.wd1.myworkdayjobs.com/broadbean_external/job/Chicago-Green-St-IL/Applied-AI-Engineering-Intern_0014827) | Chicago, IL | Onsite | 2026-07-27 | Rolling | 🔴 Closed | ❔ |
@@ -115,7 +112,9 @@
 | [Intel](generated/companies/intel.md) | [AI Software Engineering Intern](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/AI-Software-Engineering-Intern_JR0282639) | Hillsboro, OR +1 | Onsite | 2026-04-29 | Rolling | 🔴 Closed | ❌ |
 | [Intel Corporation](generated/companies/intel-corporation.md) | [AI Software Engineering PhD Intern](https://intel.wd1.myworkdayjobs.com/external/job/US-Oregon-Hillsboro/AI-Applied-intern_JR0285916) | Hillsboro, OR | Onsite | 2026-07-27 | Rolling | 🔴 Closed | ✅ |
 | [Mackenzie Investments](generated/companies/mackenzie-investments.md) | [Data Science and AI Specialist Intern - Investment Management - Fundamental Equity](https://careersen-mackenzieinvestments.icims.com/jobs/5938/job?mobile=true&needsRedirect=false) | Greater Toronto Area | Onsite | 2026-07-16 | Rolling | 🔴 Closed | ❔ |
+| [Meta](generated/companies/meta.md) | [Research Scientist Intern - AI Alignment](https://www.metacareers.com/jobs/1782902493113620) | Boston, MA +5 | Onsite | 2026-03-05 | Rolling | 🔴 Closed | ❔ |
 | [Nextiva](generated/companies/nextiva.md) | [Forward Deployed Engineer Intern - AI Implementation](https://www.nextiva.com/company/careers-listing?gh_jid=8639480002) | Scottsdale, AZ | Onsite | 2026-07-24 | Rolling | 🔴 Closed | ❔ |
+| [North Cloud](generated/companies/north-cloud.md) | [AI Automation Intern](https://ats.rippling.com/north-cloud/jobs/9d9d6db9-2da0-45e2-a3d3-6373c61763a4) | Brooklyn, NY | Onsite | 2026-07-21 | Rolling | 🔴 Closed | ❔ |
 | [NXP Semiconductors](generated/companies/nxp-semiconductors.md) | [AI / Software Engineering Intern](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/AI---Software-Engineering-Intern---Fall-2026_R-10064807) | Austin, TX | Onsite | 2026-07-20 | Rolling | 🔴 Closed | ❔ |
 | [Samsung Research America](generated/companies/samsung-research-america.md) | [Computer Vision/AI Intern - Computer Vision/AI](https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8560657002) | Mountain View, CA | Onsite | 2026-05-27 | Rolling | 🔴 Closed | ❔ |
 | [Sentara Health](generated/companies/sentara-health.md) | [Enterprise Data & AI Intern](https://sentara.wd1.myworkdayjobs.com/SCS/job/Virginia-Beach-VA/Enterprise-Data---AI-Intern--Fall-2026-Internship_JR-102685) | Virginia Beach, VA | Onsite | 2026-07-15 | Rolling | 🔴 Closed | ❔ |
@@ -132,7 +131,6 @@
 - Meta (4)
 - Xsolla (4)
 - Cloudflare (3)
-- Tencent (3)
 - Bank of Montreal (3)
 - Bosch (2)
 - Cirrus Logic (2)
@@ -140,14 +138,13 @@
 - Scale AI (2)
 - Sentara Health (2)
 - ShyftLabs (2)
+- Tencent (2)
 - Tenstorrent (2)
 - Toshiba Commerce Solutions (2)
 - ByteDance (2)
 - Intel (2)
-- Adtheorant (1)
 - Argmax (1)
 - Bild AI (1)
-- Brio Water Technology (1)
 - Brookfield (1)
 - Commercial Metals (1)
 - Cotiviti (1)
@@ -163,7 +160,6 @@
 - Medpace, Inc. (1)
 - Mistral AI (1)
 - Nelnet (1)
-- North Cloud (1)
 - Notion (1)
 - Nuro (1)
 - onsemi (1)
@@ -179,11 +175,13 @@
 - Workato (1)
 - Zurich Insurance (1)
 - 1X (1)
+- Adtheorant (1)
 - Altera Corporation (1)
 - American Bureau of Shipping (1)
 - American Enterprise Institute (1)
 - Amwins (1)
 - Assurant (1)
+- Brio Water Technology (1)
 - CCC Intelligent Solutions (1)
 - Datasite (1)
 - DNV (1)
@@ -194,6 +192,7 @@
 - Intel Corporation (1)
 - Mackenzie Investments (1)
 - Nextiva (1)
+- North Cloud (1)
 - NXP Semiconductors (1)
 - Samsung Research America (1)
 - SS&C (1)

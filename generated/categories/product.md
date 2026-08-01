@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🧭 Product Internships
 
-**26** tracked · **13** open now
+**26** tracked · **12** open now
 
 ## Current openings
 
@@ -16,7 +16,6 @@
 | [Gemini](generated/companies/gemini.md) | [Product Management Intern](https://boards.greenhouse.io/embed/job_app?for=gemini&token=8041452&gh_jid=8041452) | NYC | Onsite | 2026-07-01 | Rolling | 🟢 Open | ❔ |
 | [Pendulum Intelligence](generated/companies/pendulum-intelligence.md) | [Product Manager Intern](https://ats.rippling.com/pendulum-intelligence-jobs/jobs/301a1742-46fd-4489-b410-6fdcac0dbe27) | Remote | Remote | 2026-07-21 | Rolling | 🟢 Open | ❔ |
 | [Skydio](generated/companies/skydio.md) | [Product Management Intern](https://jobs.ashbyhq.com/skydio/1ec2fe3c-3fb2-4485-870d-764a3e5f5baf/application?embed=true) | San Mateo, CA | Onsite | 2026-07-31 | Rolling | 🟢 Open | ❔ |
-| [SOTI](generated/companies/soti.md) | [Associate Product Manager Intern](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Associate-Product-Manager-Intern--September-2026-12-Months-_R10041) | Mississauga | Onsite | 2026-05-08 | Rolling | 🟢 Open | ❔ |
 | [Tesla](generated/companies/tesla.md) | [Product Management Intern - Product Engineer - Applications Engineering](https://www.tesla.com/careers/search/job/274754) | Fremont, CA | Onsite | 2026-06-24 | Rolling | 🟢 Open | ❔ |
 | [TikTok](generated/companies/tiktok.md) | [Copyright Solution Product Manager Intern - Tiktok-Music](https://lifeattiktok.com/search/7657541997725288757) | San Jose, CA | Onsite | 2026-07-03 | Rolling | 🟢 Open | ❔ |
 | [TikTok](generated/companies/tiktok.md) | [Product Manager Intern - TikTok Ads Agent-Scaled Growth](https://lifeattiktok.com/search/7657728959042046213) | San Jose, CA | Onsite | 2026-07-07 | Rolling | 🟢 Open | ❔ |
@@ -32,6 +31,7 @@
 | [Salesforce](generated/companies/salesforce.md) | [Associate Product Manager Intern - Associate Product Manager](https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/California---San-Francisco/Summer-2027-Intern---Associate-Product-Manager--APM-_JR348039) | SF | Onsite | 2026-07-13 | Rolling | 🔴 Closed | ❔ |
 | [Salesforce](generated/companies/salesforce.md) | [Associate Product Manager Intern - Associate Product Manager](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Associate-Product-Manager--APM-_JR348039-1) | SF | Onsite | 2026-07-13 | Rolling | 🔴 Closed | ❔ |
 | [Signify](generated/companies/signify.md) | [Product Management Intern](https://lighting.wd3.myworkdayjobs.com/jobs-and-careers/job/Menlo-Park/Product-Management-Intern---Fall-2026_365521) | Menlo Park, CA | Onsite | 2026-07-16 | Rolling | 🔴 Closed | ❔ |
+| [SOTI](generated/companies/soti.md) | [Associate Product Manager Intern](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Associate-Product-Manager-Intern--September-2026-12-Months-_R10041) | Mississauga | Onsite | 2026-05-08 | Rolling | 🔴 Closed | ❔ |
 | [SOTI](generated/companies/soti.md) | [Product Manager Intern - Sales Enablement Products](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Product-Manager--Intern-_R10095) | Mississauga | Onsite | 2026-05-14 | Rolling | 🔴 Closed | ❔ |
 | [TikTok](generated/companies/tiktok.md) | [Product Manager Intern - Tiktok-Product-Search](https://lifeattiktok.com/search/7663349357178620165) | San Jose, CA | Onsite | 2026-07-21 | Rolling | 🔴 Closed | ❔ |
 
@@ -40,9 +40,9 @@
 - TikTok (4)
 - Appian (2)
 - Databricks (2)
-- SOTI (2)
 - GE Vernova (2)
 - Salesforce (2)
+- SOTI (2)
 - Bosch Home Comfort (1)
 - Gemini (1)
 - Pendulum Intelligence (1)
