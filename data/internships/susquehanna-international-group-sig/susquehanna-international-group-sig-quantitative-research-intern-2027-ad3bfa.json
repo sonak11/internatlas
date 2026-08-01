@@ -1,21 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "nxp-semiconductors-digital-physical-design-intern-p-r-2026",
+  "id": "susquehanna-international-group-sig-quantitative-research-intern-2027-ad3bfa",
   "company": {
-    "name": "NXP Semiconductors",
-    "slug": "nxp-semiconductors"
+    "name": "Susquehanna International Group (SIG)",
+    "slug": "susquehanna-international-group-sig"
   },
-  "role": "Digital Physical Design Intern - P&R",
-  "category": "design",
-  "apply_url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Chandler-Office/Digital-Physical-Design--P-R--Intern_R-10064673",
-  "season": "fall",
-  "year": 2026,
+  "role": "Quantitative Research Intern",
+  "category": "quant",
+  "apply_url": "https://careers-sig.icims.com/jobs/11007/job?mobile=true&needsRedirect=false",
+  "season": "summer",
+  "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Chandler",
-      "state": "AZ",
-      "country": "USA"
+      "city": "London",
+      "country": "UK"
     }
   ],
   "compensation": {
@@ -26,7 +25,8 @@
   "eligibility": {
     "graduation_years": [],
     "degree_levels": [
-      "masters"
+      "masters",
+      "phd"
     ],
     "citizenship_required": false,
     "security_clearance_required": false,
@@ -42,8 +42,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-13",
-    "discovered": "2026-07-17",
+    "posted": "2026-07-15",
+    "discovered": "2026-08-01",
     "last_verified": "2026-08-01"
   },
   "status": "open",

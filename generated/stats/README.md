@@ -11,9 +11,9 @@ _Generated 2026-08-01_
 | Tesla | 103 |
 | Jump Trading | 38 |
 | Cloudflare | 21 |
+| Susquehanna International Group (SIG) | 21 |
 | IMC Trading | 20 |
 | Neuralink | 20 |
-| Susquehanna International Group (SIG) | 20 |
 | Palantir Technologies | 17 |
 | TikTok | 17 |
 | Jane Street | 16 |
@@ -33,8 +33,8 @@ _Generated 2026-08-01_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 589 | `█████████████` |
-| quant | 128 | `███` |
+| software-engineering | 589 | `████████████` |
+| quant | 129 | `███` |
 | ai | 115 | `██` |
 | machine-learning | 69 | `█` |
 | research | 60 | `█` |
@@ -92,8 +92,6 @@ _Generated 2026-08-01_
 - AQR Capital Management — Portfolio Implementation – Trading and Portfolio Finance Analyst Intern
 - Architect Labs — Member of Technical Staff Research Intern
 - Arizona State University — Management Intern - Career Data and Analytics
-- Arrowstreet Capital — Quantitative Developer Intern
-- Arrowstreet Capital — Quantitative Researcher Intern
 - Assurant — Digital & AI Transformation Intern
 - Astranis — FPGA Associate Intern
 - Astranis — FPGA Intern
@@ -153,9 +151,7 @@ _Generated 2026-08-01_
 - Cohere — Research Internship
 - Colonist — Product Developer Intern
 - Consensus Cloud Solutions — Sales Strategy & Analytics Intern
-- Constellation Space — Graduate Researcher Intern - Machine Learning
 - Copart — Data Engineer Intern
-- Copart — Software Engineer Intern
 - Copart — Software Engineer Intern
 - Copart — Software Engineer Intern
 - Copart — Software Engineer Intern
@@ -272,7 +268,6 @@ _Generated 2026-08-01_
 - Mackenzie Investments — Data Science and AI Specialist Intern - Investment Management - Fundamental Equity
 - Magna — R&D-Computer Vision Engineer Intern
 - Marvell — Design Verification Engineer Intern
-- McKesson — AI & Strategic Analytics Intern
 - McKesson — Data Governance Analyst Intern
 - McKesson — Supply Chain Engineering and Analytics Intern
 - Medpace — AI Engineer Intern
@@ -281,7 +276,6 @@ _Generated 2026-08-01_
 - Menasha Corporation — Material Innovation Center Intern
 - Menasha Corporation — Supply Chain Analytics Intern
 - Meta — Research Scientist Intern - 3D Vision & World Simulation
-- Meta — Research Scientist Intern - Monetization Computer Vision
 - Meta — Research Scientist Intern PhD - Applied Research
 - Microchip Technology — Applications Engineering Intern
 - Mistral AI — Applied Scientist / Research Engineer Intern
@@ -299,7 +293,6 @@ _Generated 2026-08-01_
 - National Laboratory of the Rockies — Focused Ion Beam, Electron Microscopy, and Autonomous Characterization Intern - Multiple Teams
 - National Laboratory of the Rockies — Graduate Geospatial Data Science Intern
 - National Laboratory of the Rockies — Graduate Intern
-- National Laboratory of the Rockies — Graduate Intern - Transportation Systems Analysis
 - NationGraph — Software Engineer Intern
 - Navy Federal — Year Round Intern - Business Intelligence Analyst
 - NeoSigma — Member of Technical Staff Intern
@@ -324,7 +317,6 @@ _Generated 2026-08-01_
 - NVIDIA — Quantum Research Scientist Intern
 - NVIDIA — Software Engineering Intern, JAX
 - NXP Semiconductors — AI / Software Engineering Intern
-- NXP Semiconductors — Digital Physical Design Intern - P&R
 - NXP Semiconductors — Digital Verification Engineer Intern
 - Odin Dynamics, Inc — Engineering Intern
 - Oligo Space — ML/AI/CS Intern
@@ -400,8 +392,6 @@ _Generated 2026-08-01_
 - SpreeAI — Software Engineer Intern
 - SS&C — Healthcare AI & Automation Intern
 - State of North Carolina — Geographic Information Systems Intern - GIS
-- Susquehanna International Group (SIG) — Quantitative Systematic Trading Intern
-- Susquehanna International Group (SIG) — Quantitative Trading Internship
 - Susquehanna International Group (SIG) — Trading Operations Analyst Intern
 - T. Rowe Price — Global Product Intern
 - T. Rowe Price — Global Trading Intern

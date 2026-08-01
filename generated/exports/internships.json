@@ -1,6 +1,6 @@
 {
   "generated": "2026-08-01",
-  "count": 1177,
+  "count": 1178,
   "internships": [
     {
       "schema_version": "1.0",
@@ -4767,9 +4767,9 @@
       "dates": {
         "posted": "2026-07-10",
         "discovered": "2026-07-21",
-        "last_verified": "2026-07-22"
+        "last_verified": "2026-08-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -4821,7 +4821,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -13439,9 +13439,9 @@
       "dates": {
         "posted": "2026-07-15",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-22"
+        "last_verified": "2026-08-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -13868,7 +13868,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -31273,7 +31273,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -32369,7 +32369,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -34364,7 +34364,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -37953,7 +37953,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -49929,6 +49929,60 @@
     },
     {
       "schema_version": "1.0",
+      "id": "susquehanna-international-group-sig-quantitative-research-intern-2027-ad3bfa",
+      "company": {
+        "name": "Susquehanna International Group (SIG)",
+        "slug": "susquehanna-international-group-sig"
+      },
+      "role": "Quantitative Research Intern",
+      "category": "quant",
+      "apply_url": "https://careers-sig.icims.com/jobs/11007/job?mobile=true&needsRedirect=false",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "London",
+          "country": "UK"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters",
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-15",
+        "discovered": "2026-08-01",
+        "last_verified": "2026-08-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "susquehanna-international-group-sig-quantitative-research-intern-2027",
       "company": {
         "name": "Susquehanna International Group (SIG)",
@@ -50195,7 +50249,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -50625,7 +50679,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
