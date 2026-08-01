@@ -26,7 +26,9 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "masters"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -43,7 +45,7 @@
   "dates": {
     "posted": "2026-07-29",
     "discovered": "2026-07-31",
-    "last_verified": "2026-07-31"
+    "last_verified": "2026-08-01"
   },
   "status": "open",
   "tags": [

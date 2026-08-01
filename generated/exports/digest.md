@@ -1,12 +1,10 @@
-# 📬 InternAtlas Weekly Digest — 2026-07-31
+# 📬 InternAtlas Weekly Digest — 2026-08-01
 
-## 🆕 New this week (219)
+## 🆕 New this week (155)
 
 - **Altice USA** — [Data Engineer Intern](https://www.optimumcareers.com/job/Long-Island-City-Intern-Data-Engineer-NY-11101/1414286700/?ats=successfactors) · data-engineering · —
 - **Anthelion Capital** — [Quant Developer / Quant Research Intern](https://jobs.ashbyhq.com/anthelioncap/5e2ea37b-2369-474e-b717-c24c60976e96) · quant · —
 - **Appian** — [Information Security Engineer Intern](https://job-boards.greenhouse.io/appian/jobs/8088496) · security · —
-- **Appian** — [Product Manager Intern](https://careers.appian.com/jobs/8041243-product-manager-intern-) · product · —
-- **Appian** — [Software Engineering Intern](https://careers.appian.com/jobs/8041237-software-engineering-intern) · software-engineering · —
 - **Apple** — [Applied Data Solutions Program Intern](https://jobs.apple.com/en-us/details/200673612) · software-engineering · —
 - **Apptronik** — [Software Engineer Intern, ML Systems](https://job-boards.greenhouse.io/apptronik/jobs/6128057004?gh_jid=6128057004) · machine-learning · —
 - **Aptiv** — [Engineering Intern](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern---CD1_J000700242) · software-engineering · —
@@ -19,11 +17,11 @@
 - **Bank of Montreal** — [Data and AI Operations Analyst Co-op/Internship - Cloud](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Data-and-AI-Operations-Analyst--Cloud---Fall-2026--Co-op-Internship----8-months_R260021724-1) · ai · —
 - **Bank of Montreal** — [Data and AI Operations Analyst Co-op/Internship - Cloud](https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Data-and-AI-Operations-Analyst--Cloud---Fall-2026--Co-op-Internship----8-months_R260021724-2) · ai · —
 - **Bank of Montreal** — [Data and AI Operations Analyst Intern/Co-op - Cloud - 8 months](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Data-and-AI-Operations-Analyst--Cloud---Fall-2026--Co-op-Internship----8-months_R260021724) · ai · —
-- **Bank of Montreal** — [Market Risk Analyst Co-op/Intern](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Market-Risk-Analyst--Fall-2026--Co-op-Internship----4-Months_R260022055) · software-engineering · —
 - **Bosch Home Comfort** — [ADAS Software Engineer Intern](https://jobs.smartrecruiters.com/BoschGroup/744000140317669) · software-engineering · —
 - **Bosch Home Comfort** — [Autonomous Driving Intern](https://jobs.smartrecruiters.com/BoschGroup/744000140462550) · software-engineering · —
 - **Bosch Home Comfort** — [Powertrain Controls Software Engineer Intern](https://jobs.smartrecruiters.com/BoschGroup/744000140089589) · software-engineering · —
 - **Bosch Home Comfort** — [Product Management Intern](https://jobs.smartrecruiters.com/BoschGroup/744000140457960) · product · —
+- **Brio Water Technology** — [AI Automation & Business Analytics Intern - Rotational Program](https://ats.rippling.com/briowt/jobs/52da1fca-1cb1-49ff-8a94-b6f3850cd8eb) · ai · —
 - **Brunswick** — [Software Engineer Intern](https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Champaign-IL/Software-Engineer-Intern_JR-050991) · software-engineering · —
 - **CALSTART** — [Data Analysis Intern](https://jobs.lever.co/calstart/39565f0d-d10f-458b-b72d-d807420059b8/apply) · software-engineering · —
 - **CALSTART** — [Web Development Intern](https://jobs.lever.co/calstart/cbd0d758-18b0-481d-9e67-a065682f30ea/apply) · software-engineering · —
@@ -36,7 +34,8 @@
 - **Ciena** — [Software Engineer Intern](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Engineering-Intern_R031372) · software-engineering · —
 - **Ciena** — [Software Liquid Spectrum Applications Intern](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Liquid-Spectrum-Applications-Intern--Fall-2026-_R031412) · software-engineering · —
 - **Cirrus Logic** — [Embedded Software Test Engineer Intern](https://jobs.eu.lever.co/cirrus/2926421c-691a-434a-ae59-c828e7fcbf5b) · embedded · —
-- **City of Austin** — [Austin Aviation Undergraduate Intern - IT Business Systems Analyst](https://austintexas.wd5.myworkdayjobs.com/COA_Careers/job/AUS-Information-Systems-Building-IS/Austin-Aviation--IT-Business-Systems-Analyst---Undergraduate-Intern_JR104583) · software-engineering · —
+- **Citadel** — [Sector Data Analyst Intern](https://www.citadel.com/careers/details/sector-data-analyst-intern-europe/) · software-engineering · —
+- **City of Austin** — [Business Intelligence Intern - Business Intelligence](https://austintexas.wd5.myworkdayjobs.com/COA_Careers/job/Fire-Headquarters/Business-Intelligence-Internship_JR104636) · software-engineering · —
 - **Cloudflare** — [Customer Advocacy Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8093127?gh_jid=8093127) · software-engineering · —
 - **Cloudflare** — [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089407) · research · —
 - **Cloudflare** — [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089379) · research · —
@@ -55,7 +54,6 @@
 - **DRW** — [Quantitative Trading Analyst Intern](https://www.drw.com/work-at-drw/listings/quantitative-trading-analyst-intern-3375090) · quant · —
 - **DRW** — [Software Developer Intern](https://www.drw.com/work-at-drw/listings/software-developer-intern-3467328) · software-engineering · —
 - **DRW** — [Software Developer Intern](https://www.drw.com/work-at-drw/listings/software-developer-intern-3466687) · software-engineering · —
-- **Deepgram** — [Software Engineering Intern](https://jobs.ashbyhq.com/deepgram/dc8693b5-72ce-4ca3-ab15-9c8434d35da1) · software-engineering · —
 - **Draper** — [Microsystems Integration Intern](https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Microsystems-Integration-Intern_JR002730) · software-engineering · —
 - **East Penn Manufacturing Company** — [Data Engineer Intern](https://careers-eastpennmanufacturing.icims.com/jobs/30007/job?mobile=true&needsRedirect=false) · data-engineering · —
 - **East Penn Manufacturing Company** — [Power BI & Analytics Intern](https://careers-eastpennmanufacturing.icims.com/jobs/30020/job?mobile=true&needsRedirect=false) · software-engineering · —
@@ -73,102 +71,49 @@
 - **General Dynamics Information Technology** — [Systems Engineer Intern](https://www.gd.com/careers/systems-engineer-intern-albany-ny-us-rq225289-gdit-opportunity) · software-engineering · —
 - **Genworth Financial** — [IT Development Program Intern - IT Development Program](https://gnw.wd1.myworkdayjobs.com/GNW/job/Richmond-Virginia/Genworth-IT-Development-Program-Intern---Summer-2027_REQ-260269-1) · software-engineering · —
 - **GoDaddy** — [Software Development Engineer Intern](https://job-boards.greenhouse.io/eventsandinterns/jobs/7820942003) · software-engineering · —
-- **Google** — [Software Engineering Intern](https://www.google.com/about/careers/applications/jobs/results/85564713261245126-software-engineering-intern-bs-summer-2027) · software-engineering · —
 - **Heliux** — [Software Engineer Intern](https://jobs.ashbyhq.com/heliux/ff2b6f4b-00d0-4afe-b4f5-2dbf443409ef/application?embed=true) · software-engineering · —
 - **Heliux** — [Software Engineer Intern](https://jobs.ashbyhq.com/heliux/c71c0650-b6f7-491f-b291-6b280f58ee9c/application?embed=true) · software-engineering · —
 - **Helsing** — [AI Research Intern - 3D Computer Vision](https://helsing.ai/jobs/4941957101?gh_jid=4941957101) · ai · —
-- **Hudson River Trading** — [Intern](https://www.hudsonrivertrading.com/hrt-job/algorithm-development-quant-research-internship-summer-2027/) · software-engineering · —
-- **Hudson River Trading** — [Software Engineer Intern](https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-c-or-python-summer-2027/) · software-engineering · —
 - **HyperLight** — [Software Engineer Intern](https://apply.workable.com/hyperlight/j/5581EA0668/) · software-engineering · —
-- **IMC** — [Hardware Engineer Intern](https://www.imc.com/us/careers/jobs/4823945101) · hardware · —
-- **IMC** — [Quantitative Research Intern](https://www.imc.com/us/careers/jobs/4907399101) · quant · —
-- **IMC** — [Quantitative Research Intern (PHD)](https://www.imc.com/us/careers/jobs/4907400101) · quant · —
 - **IMC Trading** — [Hardware Engineer Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4927149101) · hardware · —
 - **IMC Trading** — [Macro Analyst Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4941380101) · quant · —
 - **IMC Trading** — [Quantitative Trader Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4936262101) · quant · —
 - **IMC Trading** — [Trader Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4939846101) · quant · —
 - **Intel** — [AI Applied Intern](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/AI-Applied-intern_JR0285916) · ai · —
 - **Intel Corporation** — [AI Software Engineering PhD Intern](https://intel.wd1.myworkdayjobs.com/external/job/US-Oregon-Hillsboro/AI-Applied-intern_JR0285916) · ai · —
-- **International Rescue Committee (IRC)** — [Data Integration & Reporting Intern](https://theirc.wd1.myworkdayjobs.com/en-US/External_Careers/job/San-Diego-CA-USA/Fall-2026--Data-Integration---Reporting-Intern--Unpaid-_JR00004327) · software-engineering · —
-- **Jane Street** — [Cybersecurity Analyst Intern](https://www.janestreet.com/join-jane-street/position/8632723002/) · security · —
-- **Jane Street** — [Data Engineer Intern](https://www.janestreet.com/join-jane-street/position/8631973002/) · data-engineering · —
-- **Jane Street** — [Fundamental Research Analyst Intern](https://www.janestreet.com/join-jane-street/position/8347286002/) · research · —
-- **Jane Street** — [Hardware Engineer (FPGA/ASIC) Intern](https://www.janestreet.com/join-jane-street/position/8624440002/) · hardware · —
-- **Jane Street** — [Linux Engineer Intern](https://www.janestreet.com/join-jane-street/position/8626260002/) · software-engineering · —
-- **Jane Street** — [Machine Learning Engineer Intern](https://www.janestreet.com/join-jane-street/position/8611307002/) · machine-learning · —
-- **Jane Street** — [Machine Learning Researcher Intern](https://www.janestreet.com/join-jane-street/position/8384490002/) · machine-learning · —
-- **Jane Street** — [Network Engineer Intern](https://www.janestreet.com/join-jane-street/position/8620793002/) · software-engineering · —
-- **Jane Street** — [Quantitative Researcher Intern](https://www.janestreet.com/join-jane-street/position/8498547002/) · quant · —
-- **Jane Street** — [Quantitative Trader Intern](https://www.janestreet.com/join-jane-street/position/8617344002/) · quant · —
-- **Jane Street** — [Sales and Trading Intern](https://www.janestreet.com/join-jane-street/position/8347385002/) · quant · —
-- **Jane Street** — [Software Engineer Intern](https://www.janestreet.com/join-jane-street/position/8599644002/) · software-engineering · —
-- **Jane Street** — [Software Engineer Intern](https://www.janestreet.com/join-jane-street/position/8419303002/) · software-engineering · —
-- **Jane Street** — [Tools and Compilers Research and Development Intern](https://www.janestreet.com/join-jane-street/position/5869205002/) · research · —
-- **Jane Street** — [Trading Desk Operations Engineer Intern](https://www.janestreet.com/join-jane-street/position/8621450002/) · quant · —
-- **Jane Street** — [Windows Engineer Intern](https://www.janestreet.com/join-jane-street/position/8628843002/) · software-engineering · —
 - **Keysight Technologies** — [R&D Software Engineer Intern](https://jobs.keysight.com/jobs/53652?icims=1) · software-engineering · —
 - **Kodak** — [Marketing Analytics Intern](https://careers.kodak.com/job/USA-Marketing-Analytics-Intern-CA/1412894200/?ats=successfactors) · software-engineering · —
 - **Kognitos** — [Forward Deployed Engineer Intern](https://jobs.ashbyhq.com/Kognitos/a4bc3ebf-b619-4c1b-9c9e-784d16c8b148/application?embed=true) · software-engineering · —
 - **Leidos** — [Software Developer Intern](https://leidos.wd5.myworkdayjobs.com/External/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00188311) · software-engineering · —
 - **Loop** — [Data Scientist Intern](https://ats.rippling.com/loop-careers/jobs/e016b693-7ce9-4dad-95ff-03b934fbd580) · data-science · —
-- **Magna** — [R&D-Computer Vision Engineer Intern](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Troy-Michigan-US/R-D--Computer-Vision-Engineering-Intern_R00253444-1) · software-engineering · —
 - **Mathtech** — [Web Application Developer Intern](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?jobId=565843) · software-engineering · —
+- **Maven Securities** — [Quant Trader Intern](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8043552) · quant · —
 - **Melius** — [Software Engineer Intern](https://jobs.ashbyhq.com/melius/6a944911-dbbf-44c7-ba52-7866f7b433cf/application?embed=true) · software-engineering · —
 - **Melius** — [Software Engineer Intern](https://jobs.ashbyhq.com/melius/b61f063a-4f94-4e50-a4ef-05aaab552280/application?embed=true) · software-engineering · —
 - **Menasha Corporation** — [Supply Chain Analytics Intern](https://menasha.wd12.myworkdayjobs.com/menashacorp/job/Neenah-Wisconsin/Supply-Chain-Analytics-Intern_R14985) · software-engineering · —
-- **Mistral AI** — [AI Data Solutions Intern - Data Partnerships](https://jobs.ashbyhq.com/mistral.ai/60fcc44d-4d96-469d-a96c-d6a9bbfe8edd/application?embed=true) · ai · —
-- **Mobius Renewables** — [Software Engineer Intern](https://ats.rippling.com/en-GB/greengas/jobs/b2938290-cc66-4f54-9888-bbe286c1d9b6) · software-engineering · —
+- **Microchip Technology** — [Power, Analog and Mixed-Signal IC Product Engineer Intern - Product Engineering](https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/AZ---Chandler/Intern--Engineering--Product-Engineering-_R3151-26-1) · software-engineering · —
 - **Modal** — [Machine Learning Research Intern](https://jobs.ashbyhq.com/modal/38888294-6bc7-4dab-b072-6d0f0c2ed79a/application?embed=true) · machine-learning · —
 - **Modal** — [ML Research Intern](https://jobs.ashbyhq.com/modal/38888294-6bc7-4dab-b072-6d0f0c2ed79a) · machine-learning · —
 - **Moog** — [Software Engineer Intern](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Software-Engineering_R-26-18885-1) · software-engineering · —
-- **Moon** — [Software Engineer Intern, Backend & API](https://ats.rippling.com/en-GB/moon/jobs/8b81bca7-1a64-4377-8ea8-869aac03080b) · software-engineering · —
 - **National Laboratory of the Rockies** — [Focused Ion Beam, Electron Microscopy, and Autonomous Characterization Intern - Multiple Teams](https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Graduate-Intern---Focused-Ion-Beam--Electron-Microscopy--and-Autonomous-Characterization_R14431) · software-engineering · —
 - **National Laboratory of the Rockies** — [Graduate Intern](https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Graduate--Year-Round--Intern---Industrial-and-Fuel-Supply-Optimization-Modeling-Analysis_R14426) · software-engineering · —
 - **Nelnet** — [Agentic AI Intern](https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Lincoln-NE/Intern-Program---Agentic-AI_R22904) · ai · —
-- **NeoSigma** — [Member of Technical Staff Intern](https://ats.rippling.com/en-GB/neosigma/jobs/a2ee1d26-a551-45d2-9854-6dbf8ed2c866) · software-engineering · —
-- **Netic** — [Forward Deployed Engineer Intern](https://jobs.ashbyhq.com/netic/ffd6af1a-cebb-41f5-ac1d-e695adfd067c?embed=true) · software-engineering · —
-- **Netic** — [Full-Stack Software Engineer Intern](https://jobs.ashbyhq.com/netic/f291394a-f3c5-4f46-9b87-77aea3d487ef?embed=true) · software-engineering · —
-- **Netic** — [Software Engineer Intern](https://jobs.ashbyhq.com/netic/b0ea7aab-8eea-4d31-96f9-278364180ae7?embed=true) · software-engineering · —
-- **Netic** — [Software Engineer Intern](https://jobs.ashbyhq.com/netic/b0ea7aab-8eea-4d31-96f9-278364180ae7) · software-engineering · —
-- **Nextiva** — [Forward Deployed Engineer Intern - AI Implementation](https://www.nextiva.com/company/careers-listing?gh_jid=8639480002) · ai · —
+- **New York Post Holdings** — [Product Intern](https://dowjones.wd1.myworkdayjobs.com/New_York_Post_Careers/job/NYC---1211-Ave-of-the-Americas/Product-Intern--Fall-2026--10-weeks--24-hours-a-week-_Job_Req_54488) · software-engineering · —
 - **Nightwing** — [Software / Hardware Engineering Intern](https://nwis.wd12.myworkdayjobs.com/en-US/NW/job/Annapolis-Junction-MD/Software---Hardware-Engineering---Intern_JR101733) · hardware · —
 - **Northrop Grumman** — [Software Engineer Intern](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Returning-Intern-Software-Engineer_R10242378) · software-engineering · —
 - **Northrop Grumman** — [Software Engineer Intern](https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10239275) · software-engineering · —
-- **Northwestern Mutual** — [Investment Analyst Intern - Private Debt & Equity](https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Milwaukee-WI-Corporate/Investment-Analyst-Intern---Private-Debt---Equity--Summer-2027_JR-45705) · software-engineering · —
-- **Old Mission** — [Software Engineer Intern](https://www.oldmissioncapital.com/careers/?gh_jid=7796180003) · software-engineering · —
-- **PDT Partners** — [Software Engineer Intern](https://job-boards.greenhouse.io/pdtpartners/jobs/8077685) · software-engineering · —
 - **PSECU** — [Data Analyst Intern](https://psecu.wd12.myworkdayjobs.com/PSECU/job/Harrisburg-PA/Data-Analyst-Intern_JR100964) · software-engineering · —
 - **Palantir** — [Forward Deployed Software Engineer Intern](https://jobs.lever.co/palantir/26e23f5d-083b-45aa-b223-1a6e43d960bf/apply) · software-engineering · —
 - **Palantir** — [Forward Deployed Software Engineer Intern - Commercial](https://jobs.lever.co/palantir/599b1907-aba1-4303-837b-66e69a521636/apply) · software-engineering · —
 - **Palantir** — [Software Engineer Intern](https://jobs.lever.co/palantir/76a60923-bb49-40f5-b061-7c7eb1299602/apply) · software-engineering · —
 - **Palantir** — [Software Engineer Intern - Infrastructure](https://jobs.lever.co/palantir/fd3603a9-7016-45c6-9c8d-04c9279ab85e/apply) · cloud · —
-- **Palantir Technologies** — [Forward Deployed Infrastructure Engineer Intern](https://jobs.lever.co/palantir/cf5f44ff-1b0b-4752-bcd4-2dc88798f25b) · cloud · —
-- **Palantir Technologies** — [Forward Deployed Infrastructure Engineer Intern](https://jobs.lever.co/palantir/8f362a1f-1eff-4327-94c1-ff46e2101c69) · cloud · —
-- **Palantir Technologies** — [Forward Deployed Infrastructure Engineer Intern](https://jobs.lever.co/palantir/3db7e40a-28e0-4ad1-96c5-93de5bc96aa9) · cloud · —
-- **Palantir Technologies** — [Forward Deployed Software Engineer Intern](https://jobs.lever.co/palantir/d5486403-c050-4920-b2e0-91b69b61ebb2) · software-engineering · —
-- **Palantir Technologies** — [Forward Deployed Software Engineer Intern](https://jobs.lever.co/palantir/9e40d77f-b07c-437b-98e7-def9b0184d89) · software-engineering · —
-- **Palantir Technologies** — [Forward Deployed Software Engineer Intern](https://jobs.lever.co/palantir/4d29249a-d7e8-4c39-880d-3b35d7b2f6f6) · software-engineering · —
-- **Palantir Technologies** — [Software Engineer Intern](https://jobs.lever.co/palantir/373eb939-6f57-4836-8479-be79a5e07249) · software-engineering · —
-- **Palantir Technologies** — [Software Engineer Intern](https://jobs.lever.co/palantir/bdcfb29f-4f27-42de-933f-7f83a359b9f0) · software-engineering · —
-- **Palantir Technologies** — [Software Engineer Intern](https://jobs.lever.co/palantir/e27af7ab-41fc-40c9-b31d-02c6cb1c505c) · software-engineering · —
-- **Palantir Technologies** — [Software Engineer Intern](https://jobs.lever.co/palantir/7d69cf8a-06fd-4f05-bd84-27149db29c4d) · software-engineering · —
-- **Palantir Technologies** — [Software Engineer Intern, Defense Tech](https://jobs.lever.co/palantir/a483f41b-0da9-42ea-8ed6-cbf6eb93cc6d) · software-engineering · —
-- **Palantir Technologies** — [Software Engineer Intern, Defense Tech](https://jobs.lever.co/palantir/f17e98d0-046a-4e6e-9d65-ed0b12dd0ff7) · software-engineering · —
-- **Palantir Technologies** — [Software Engineer Intern, Defense Tech](https://jobs.lever.co/palantir/8bcf4f33-0a79-4248-bbfd-49ac4be9dd8e) · software-engineering · —
-- **Palantir Technologies** — [Software Engineer Intern, Infrastructure](https://jobs.lever.co/palantir/f221738b-e97c-4ce3-a12a-17ada2b855e4) · cloud · —
-- **Palantir Technologies** — [Software Engineer Intern, Infrastructure](https://jobs.lever.co/palantir/b229baac-494b-4a0d-9a13-2e38806e06f3) · cloud · —
-- **Palantir Technologies** — [Software Engineer Intern, Production Infrastructure](https://jobs.lever.co/palantir/37964982-9b4c-471e-a1d8-fb8f45d7f116) · cloud · —
-- **Palantir Technologies** — [Software Engineer Intern, Production Infrastructure](https://jobs.lever.co/palantir/373367a9-3160-49d8-b7af-2efec062fad1) · cloud · —
-- **Phonely** — [Software Engineer Intern](https://jobs.ashbyhq.com/phonely/c83696cb-ca3a-4a9d-9e87-bfcf4f79fef5?embed=true) · software-engineering · —
+- **Persona AI** — [Machine Learning Intern - Manipulation](https://jobs.ashbyhq.com/persona.ai/ed9a7425-9798-471e-b46a-fefd59570630/application?embed=true) · machine-learning · —
 - **Pony.ai** — [Research Intern - Deep Learning](https://apply.workable.com/pony-dot-ai/j/4C1F53EF5D/) · machine-learning · —
 - **Pony.ai** — [Software Engineer Intern](https://apply.workable.com/pony-dot-ai/j/BA5FFDBC71/) · software-engineering · —
-- **Quadrillion** — [Software Engineering Intern](https://jobs.ashbyhq.com/quadrillion-labs/a4acc44c-31ce-41a0-ab44-2500487b4d05/application?embed=true) · software-engineering · —
 - **Quadrillion Labs** — [Software Engineering Intern](https://jobs.ashbyhq.com/quadrillion-labs/a4acc44c-31ce-41a0-ab44-2500487b4d05) · software-engineering · —
-- **ROCKWOOL Group** — [Paint & Coating Intern](https://rockwoolgroup.wd3.myworkdayjobs.com/ROCKWOOL/job/Chicago-Illinois/Mono---Paint---Coating-Intern_R0035879) · software-engineering · —
 - **RTX** — [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Software-Engineering-Intern--Summer-2027-_01863072) · software-engineering · —
 - **RTX** — [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-PA-STATE-COLLEGE-5A--302-Science-Park-Rd--BLDG-5A/Software-Engineering-Intern--Summer-2027-_01862842) · software-engineering · —
 - **RTX** — [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CA-FULLERTON-675--1801-Hughes-Dr--BLDG-675/Software-Engineering-Intern--Summer-2027-_01863012) · software-engineering · —
-- **Radix Trading** — [Quantitative Technologist Intern, C++](https://job-boards.greenhouse.io/radixuniversity/jobs/8500265002) · quant · —
 - **RapDev** — [ServiceNow Engineer Intern](https://jobs.ashbyhq.com/rapdev/b022388e-79d0-43b8-b524-64aaed9ff4dc/application?embed=true) · software-engineering · —
 - **Redwood Materials** — [Embedded Software Engineer Intern](https://boards.greenhouse.io/redwoodmaterials/jobs/6126784004) · embedded · —
 - **Rendezvous Robotics** — [Software Engineering Intern](https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4328555009) · software-engineering · —
@@ -180,18 +125,15 @@
 - **Rockwell Automation** — [Applied AI Intern](https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Austin-Texas-United-States/Intern--Applied-AI_R26-5631-1) · ai · —
 - **Royal Bank of Canada** — [Business Markets Relationship Manager Intern](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/BATHURST-New-Brunswick-Canada/Relationship-Manager-Business-Markets--Intern_R-0000182302) · software-engineering · —
 - **SK Hynix Memory Solution** — [Software Engineer Intern](https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4342038009) · software-engineering · —
-- **SPREEAI** — [Software Engineer Intern, AI Infrastructure / Training / Inference](https://ats.rippling.com/en-GB/spreeai/jobs/d34aed29-7a11-4e37-b5bc-e9317f82f0b1) · ai · —
-- **Schweitzer Engineering Laboratories** — [Software Engineer Intern](https://selinc.wd1.myworkdayjobs.com/SEL/job/Idaho---Boise/Software-Engineer-Intern_2026-22321) · software-engineering · —
 - **Sentara Health** — [Data & AI Finance Strategy Intern](https://sentara.wd1.myworkdayjobs.com/SCS/job/Virginia-Beach-VA/Data---AI-Finance-Strategy-Intern---Fall-2026-Internship-Remote_JR-103073) · ai · —
-- **ShyftLabs** — [AI Engineer Intern](https://jobs.lever.co/shyftlabs/4f389ea7-9b98-4ed0-99c2-b25ea8cc2dcd) · ai · —
+- **Skydio** — [Product Management Intern](https://jobs.ashbyhq.com/skydio/1ec2fe3c-3fb2-4485-870d-764a3e5f5baf/application?embed=true) · product · —
 - **Smiths Detection Group** — [Commercial Intern - Commercial Tools & Business Intelligence](https://jobs.smartrecruiters.com/SmithsGroup2/744000140169009) · software-engineering · —
 - **Sparksoft** — [Technical Intern](https://job-boards.greenhouse.io/sparksoftcorporation/jobs/5199580007) · software-engineering · —
-- **SpreeAI** — [Mobile Software Engineer Intern](https://ats.rippling.com/en-GB/spreeai/jobs/c52472cb-2671-45d7-b666-17196dc3df25) · software-engineering · —
 - **Squarepoint Capital** — [Intern Quant Researcher](https://boards.greenhouse.io/embed/job_app?token=243853) · quant · —
 - **Stevens Capital Management** — [Quantitative Research Analyst Internship](https://job-boards.greenhouse.io/scm/jobs/721895) · quant · —
 - **Susquehanna International Group (SIG)** — [Trading Operations Analyst Intern](https://careers-sig.icims.com/jobs/11244/job?mobile=true&needsRedirect=false) · quant · —
 - **Tesla** — [Charging Data Modeling Intern - Charging Data Modeling - Machine Learning Engineer](https://www.tesla.com/careers/search/job/278249) · machine-learning · —
-- **Tesla** — [Localization Specialist Intern](https://www.tesla.com/careers/search/job/internship-localization-specialist-it-applications-fall-2026-276308) · software-engineering · —
+- **Tesla** — [Software Compiler Engineer Intern - AI Inference](https://www.tesla.com/careers/search/job/278847) · ai · —
 - **Tesla** — [Software Engineer Intern - Software Engineer - AI Infrastructure](https://www.tesla.com/careers/search/job/278578) · ai · —
 - **Tesla** — [Vehicle Software Intern - Vehicle Controls](https://www.tesla.com/careers/search/job/278203) · software-engineering · —
 - **Tesla** — [Vehicle Software Intern - Vehicle Software Engineer-Diagnostic User Interface](https://www.tesla.com/careers/search/job/278703) · software-engineering · —
@@ -207,20 +149,14 @@
 - **Toshiba Global Commerce** — [AI Product Management Intern](https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5195826007) · ai · —
 - **Toshiba Global Commerce** — [Product & Business Analytics Intern](https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5195802007) · software-engineering · —
 - **Touchdown Labs** — [Member of Technical Staff Intern](https://touchdown-labs.com/careers/mts-intern/?jr_id=6a68292c50dec41e3527e633) · software-engineering · —
-- **TransMarket Group** — [DevOps/SRE Intern](https://job-boards.greenhouse.io/transmarketgroup/jobs/5151577007) · cloud · —
-- **TransMarket Group** — [Quantitative Trader Intern](https://job-boards.greenhouse.io/transmarketgroup/jobs/5151569007) · quant · —
-- **Trillium** — [Equity Trader Intern](https://www.trlm.com/apply/5076017007?gh_jid=5076017007) · software-engineering · —
-- **Trillium** — [Equity Trader Intern](https://www.trlm.com/apply/5076067007?gh_jid=5076067007) · software-engineering · —
-- **Trillium** — [Equity Trader Intern](https://www.trlm.com/apply/5076003007?gh_jid=5076003007) · software-engineering · —
 - **University of Texas at Austin** — [Video and Analytics Intern - Baseball](https://utaustin.wd1.myworkdayjobs.com/utstudent/job/UT-MAIN-CAMPUS/Video-and-Analytics-Intern--Baseball_R_00047706) · software-engineering · —
 - **University of Virginia Investment Management Company (UVIMCO)** — [Investment Analyst Intern](https://job-boards.greenhouse.io/uvimco/jobs/5300713008) · software-engineering · —
 - **Virtu Financial** — [2027 Internship - Frontend Engineer (UI)](https://job-boards.greenhouse.io/virtu/jobs/8657500002) · design · —
 - **Virtu Financial** — [2027 Internship- Hardware Engineer (FPGA)](https://job-boards.greenhouse.io/virtu/jobs/8657286002) · hardware · —
-- **Walleye Capital** — [Technology Intern](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4681002006) · software-engineering · —
 - **Western Digital** — [Hardware Engineering Intern](https://jobs.smartrecruiters.com/WesternDigital/744000140949875) · hardware · —
 - **XTX Markets** — [Philanthropy Intern](https://job-boards.greenhouse.io/xtxmarketstechnologies/jobs/7819416003) · software-engineering · —
+- **Zello** — [Analytics Intern](https://jobs.ashbyhq.com/Zello/3453d476-7b75-4938-8cff-502d1575859b/application?embed=true) · software-engineering · —
 - **Zurich Insurance** — [Data Analytics & AI Internship/Co-op - Data Analytics & AI](https://www.careers.zurich.com/job/Toronto-Fall-2026-InternshipCo-op-Data-Analytics-&-AI-ON/1367953057/?ats=successfactors) · ai · —
-- **fab2** — [Software Engineering Intern](https://jobs.ashbyhq.com/fab2/947338ca-e135-4398-9aa3-79e131bc03d5?embed=true) · software-engineering · —
 
 ## ⏰ Closing within 7 days (0)
 

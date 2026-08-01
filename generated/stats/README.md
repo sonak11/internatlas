@@ -2,13 +2,13 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 📊 Statistics
 
-_Generated 2026-07-31_
+_Generated 2026-08-01_
 
 ## Top hiring companies
 
 | Company | Listings |
 |---|---|
-| Tesla | 102 |
+| Tesla | 103 |
 | Jump Trading | 38 |
 | Cloudflare | 21 |
 | Neuralink | 20 |
@@ -33,24 +33,28 @@ _Generated 2026-07-31_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 566 | `████████████` |
-| quant | 126 | `███` |
-| ai | 113 | `██` |
-| machine-learning | 70 | `██` |
+| software-engineering | 571 | `████████████` |
+| quant | 127 | `███` |
+| ai | 115 | `██` |
+| machine-learning | 71 | `██` |
 | research | 57 | `█` |
 | hardware | 55 | `█` |
 | embedded | 41 | `█` |
 | cloud | 28 | `█` |
+| product | 26 | `█` |
 | design | 26 | `█` |
-| product | 25 | `█` |
 | data-science | 17 | `█` |
 | data-engineering | 14 | `█` |
 | security | 7 | `█` |
 
 ## Newest listings
 
+- 2026-08-01 — **Citadel**: [Sector Data Analyst Intern](https://www.citadel.com/careers/details/sector-data-analyst-intern-europe/)
+- 2026-08-01 — **Tesla**: [Software Compiler Engineer Intern - AI Inference](https://www.tesla.com/careers/search/job/278847)
 - 2026-07-31 — **Altice USA**: [Data Engineer Intern](https://www.optimumcareers.com/job/Long-Island-City-Intern-Data-Engineer-NY-11101/1414286700/?ats=successfactors)
+- 2026-07-31 — **Brio Water Technology**: [AI Automation & Business Analytics Intern - Rotational Program](https://ats.rippling.com/briowt/jobs/52da1fca-1cb1-49ff-8a94-b6f3850cd8eb)
 - 2026-07-31 — **Cirrus Logic**: [Embedded Software Test Engineer Intern](https://jobs.eu.lever.co/cirrus/2926421c-691a-434a-ae59-c828e7fcbf5b)
+- 2026-07-31 — **City of Austin**: [Business Intelligence Intern - Business Intelligence](https://austintexas.wd5.myworkdayjobs.com/COA_Careers/job/Fire-Headquarters/Business-Intelligence-Internship_JR104636)
 - 2026-07-31 — **Cloudflare**: [Customer Advocacy Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8093127?gh_jid=8093127)
 - 2026-07-31 — **DRW**: [AI/ML Research Intern](https://www.drw.com/work-at-drw/listings/aiml-research-intern-3466679)
 - 2026-07-31 — **DRW**: [FPGA Intern](https://www.drw.com/work-at-drw/listings/fpga-intern-3484423)
@@ -65,10 +69,6 @@ _Generated 2026-07-31_
 - 2026-07-31 — **Heliux**: [Software Engineer Intern](https://jobs.ashbyhq.com/heliux/c71c0650-b6f7-491f-b291-6b280f58ee9c/application?embed=true)
 - 2026-07-31 — **IMC Trading**: [Hardware Engineer Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4927149101)
 - 2026-07-31 — **IMC Trading**: [Macro Analyst Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4941380101)
-- 2026-07-31 — **IMC Trading**: [Quantitative Trader Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4936262101)
-- 2026-07-31 — **IMC Trading**: [Trader Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4939846101)
-- 2026-07-31 — **Melius**: [Software Engineer Intern](https://jobs.ashbyhq.com/melius/6a944911-dbbf-44c7-ba52-7866f7b433cf/application?embed=true)
-- 2026-07-31 — **Melius**: [Software Engineer Intern](https://jobs.ashbyhq.com/melius/b61f063a-4f94-4e50-a4ef-05aaab552280/application?embed=true)
 
 ## Recently closed
 
@@ -81,6 +81,7 @@ _Generated 2026-07-31_
 - Airbnb — Sales Operations Intern, Italy
 - Altasciences — Process Innovation Product Management Intern
 - Altera Corporation — AI Software Development Engineer Intern
+- Altice USA — Data Engineer Intern
 - AMAROK Security — Research and Development Intern
 - American Bureau of Shipping — AI Software Engineering Intern
 - American Enterprise Institute — Data Analysis & AI Policy Intern
@@ -105,6 +106,7 @@ _Generated 2026-07-31_
 - BDO Canada — Indirect Tax Intern Co-op - Indirect Tax
 - BMO — Machine Learning Intern
 - Bosch Home Comfort — Business Intelligence Intern
+- Brex — Brex Internship Program
 - ByteDance — Research Scientist Intern - AI Infrastructure
 - ByteDance — Research Scientist Intern - AI Infrastructure
 - CACI — Software Engineering Intern
