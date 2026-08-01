@@ -1,21 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "altom-transport-software-development-intern-2026-20cca1",
+  "id": "super-travel-supply-analyst-intern-2026",
   "company": {
-    "name": "Altom Transport",
-    "slug": "altom-transport"
+    "name": "Super",
+    "slug": "super"
   },
-  "role": "Software Development Intern",
+  "role": "Travel Supply Analyst Intern",
   "category": "software-engineering",
-  "apply_url": "https://apply.workable.com/altom-transport/j/9FC654F05E/apply",
+  "apply_url": "https://jobs.ashbyhq.com/super.com/d12fc858-e930-4f43-9c92-da2f02dd2cd2/application?embed=true",
   "season": "fall",
   "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Markham",
-      "state": "IL",
-      "country": "USA"
+      "city": "Toronto",
+      "country": "ON"
     }
   ],
   "compensation": {
@@ -40,13 +39,14 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-06-23",
-    "discovered": "2026-07-17",
+    "posted": "2026-06-02",
+    "discovered": "2026-08-01",
     "last_verified": "2026-08-01"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:simplify",
+    "remote-available"
   ]
 }

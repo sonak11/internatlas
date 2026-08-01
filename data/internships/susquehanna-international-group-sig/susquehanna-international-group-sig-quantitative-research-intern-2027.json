@@ -7,14 +7,19 @@
   },
   "role": "Quantitative Research Intern",
   "category": "quant",
-  "apply_url": "https://careers-sig.icims.com/jobs/11007/job?mobile=true&needsRedirect=false",
+  "apply_url": "https://careers-sig.icims.com/jobs/10818/job?mobile=true&needsRedirect=false",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "London",
-      "country": "UK"
+      "city": "Philadelphia",
+      "state": "PA",
+      "country": "USA"
+    },
+    {
+      "city": "NYC",
+      "country": "USA"
     }
   ],
   "compensation": {
@@ -41,7 +46,7 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-15",
+    "posted": "2026-06-29",
     "discovered": "2026-07-17",
     "last_verified": "2026-08-01"
   },

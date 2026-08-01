@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "cadence-design-systems-characterization-and-support-intern-2026-ac4579",
+  "id": "marmon-holdings-digital-production-engineering-intern-or-student-co-op-2027",
   "company": {
-    "name": "Cadence Design Systems",
-    "slug": "cadence-design-systems"
+    "name": "Marmon Holdings",
+    "slug": "marmon-holdings"
   },
-  "role": "Characterization and Support Intern",
+  "role": "Digital Production Engineering Intern OR Student Co-Op",
   "category": "software-engineering",
-  "apply_url": "https://cadence.wd1.myworkdayjobs.com/University_Talent_Intern/job/SAN-JOSE/Intern---Characterization-and-Support_R54998-2",
-  "season": "fall",
-  "year": 2026,
+  "apply_url": "https://marmon.wd501.myworkdayjobs.com/Marmon_MSIP_Internships/job/Milwaukee-WI/Digital-Production-Engineering-Intern-OR-Student-Co-Op_JR0000037451",
+  "season": "summer",
+  "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "San Jose",
-      "state": "CA",
+      "city": "Milwaukee",
+      "state": "WI",
       "country": "USA"
     }
   ],
@@ -25,9 +25,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -42,8 +40,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-07",
-    "discovered": "2026-07-21",
+    "posted": "2026-03-04",
+    "discovered": "2026-08-01",
     "last_verified": "2026-08-01"
   },
   "status": "open",

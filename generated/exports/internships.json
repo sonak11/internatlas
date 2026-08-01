@@ -1,6 +1,6 @@
 {
   "generated": "2026-08-01",
-  "count": 1153,
+  "count": 1159,
   "internships": [
     {
       "schema_version": "1.0",
@@ -1116,6 +1116,57 @@
     },
     {
       "schema_version": "1.0",
+      "id": "alljoined-research-intern-2026",
+      "company": {
+        "name": "Alljoined",
+        "slug": "alljoined"
+      },
+      "role": "Research Intern",
+      "category": "research",
+      "apply_url": "https://jobs.ashbyhq.com/alljoined/b9e2f607-6a07-4836-8d89-e4f6de8bd515/application?embed=true",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "SF",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-04",
+        "discovered": "2026-08-01",
+        "last_verified": "2026-08-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "altasciences-process-innovation-product-management-intern-2026",
       "company": {
         "name": "Altasciences",
@@ -1280,58 +1331,6 @@
     },
     {
       "schema_version": "1.0",
-      "id": "altom-transport-software-development-intern-2026-20cca1",
-      "company": {
-        "name": "Altom Transport",
-        "slug": "altom-transport"
-      },
-      "role": "Software Development Intern",
-      "category": "software-engineering",
-      "apply_url": "https://apply.workable.com/altom-transport/j/9FC654F05E/apply",
-      "season": "fall",
-      "year": 2026,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Markham",
-          "state": "IL",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-06-23",
-        "discovered": "2026-07-17",
-        "last_verified": "2026-08-01"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
       "id": "altom-transport-software-development-intern-2026-69c2d0",
       "company": {
         "name": "Altom Transport",
@@ -1376,7 +1375,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -1391,7 +1390,7 @@
       },
       "role": "Software Development Intern",
       "category": "software-engineering",
-      "apply_url": "https://apply.workable.com/altom-transport/j/1E3C4A9408/apply",
+      "apply_url": "https://apply.workable.com/altom-transport/j/9FC654F05E/apply",
       "season": "fall",
       "year": 2026,
       "work_mode": "onsite",
@@ -1424,7 +1423,7 @@
         "resume_keywords": []
       },
       "dates": {
-        "posted": "2026-05-28",
+        "posted": "2026-06-23",
         "discovered": "2026-07-17",
         "last_verified": "2026-08-01"
       },
@@ -4666,7 +4665,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -7969,7 +7968,7 @@
         "discovered": "2026-07-29",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -8137,60 +8136,6 @@
     },
     {
       "schema_version": "1.0",
-      "id": "cadence-design-systems-characterization-and-support-intern-2026-ac4579",
-      "company": {
-        "name": "Cadence Design Systems",
-        "slug": "cadence-design-systems"
-      },
-      "role": "Characterization and Support Intern",
-      "category": "software-engineering",
-      "apply_url": "https://cadence.wd1.myworkdayjobs.com/University_Talent_Intern/job/SAN-JOSE/Intern---Characterization-and-Support_R54998-2",
-      "season": "fall",
-      "year": 2026,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "San Jose",
-          "state": "CA",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [
-          "masters"
-        ],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-07-07",
-        "discovered": "2026-07-21",
-        "last_verified": "2026-08-01"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
       "id": "cadence-design-systems-characterization-and-support-intern-2026",
       "company": {
         "name": "Cadence Design Systems",
@@ -8198,7 +8143,7 @@
       },
       "role": "Characterization and Support Intern",
       "category": "software-engineering",
-      "apply_url": "https://cadence.wd1.myworkdayjobs.com/University_Talent/job/SAN-JOSE/Intern---Characterization-and-Support_R54998-3",
+      "apply_url": "https://cadence.wd1.myworkdayjobs.com/University_Talent_Intern/job/SAN-JOSE/Intern---Characterization-and-Support_R54998-2",
       "season": "fall",
       "year": 2026,
       "work_mode": "onsite",
@@ -9037,7 +8982,7 @@
         "discovered": "2026-07-22",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -9177,13 +9122,13 @@
       "work_mode": "onsite",
       "locations": [
         {
-          "city": "Houston",
-          "state": "TX",
+          "city": "Stamford",
+          "state": "CT",
           "country": "USA"
         },
         {
-          "city": "Stamford",
-          "state": "CT",
+          "city": "Houston",
+          "state": "TX",
           "country": "USA"
         },
         {
@@ -9217,14 +9162,14 @@
         "resume_keywords": []
       },
       "dates": {
-        "posted": "2026-07-21",
+        "posted": "2026-07-31",
         "discovered": "2026-07-22",
         "last_verified": "2026-08-01"
       },
       "status": "open",
       "tags": [
         "auto-ingested",
-        "src:simplify"
+        "src:vanshb03"
       ]
     },
     {
@@ -9496,6 +9441,57 @@
     },
     {
       "schema_version": "1.0",
+      "id": "centerfield-product-manager-intern-2026",
+      "company": {
+        "name": "Centerfield",
+        "slug": "centerfield"
+      },
+      "role": "Product Manager Intern",
+      "category": "product",
+      "apply_url": "https://jobs.ashbyhq.com/centerfield/92a124aa-9efd-4dbd-90f1-6319be7706b2/application?embed=true",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "state": "LA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-06-12",
+        "discovered": "2026-08-01",
+        "last_verified": "2026-08-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "centerstone-bachelor-level-intern-2026",
       "company": {
         "name": "Centerstone",
@@ -9700,7 +9696,7 @@
         "discovered": "2026-07-20",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -9861,7 +9857,7 @@
         "discovered": "2026-07-20",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -10384,7 +10380,7 @@
         "discovered": "2026-07-22",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -10435,7 +10431,7 @@
         "discovered": "2026-07-28",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -10486,7 +10482,7 @@
         "discovered": "2026-07-22",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -10696,7 +10692,7 @@
         "discovered": "2026-07-20",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -12676,7 +12672,7 @@
         "discovered": "2026-07-21",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -12798,7 +12794,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -13110,7 +13106,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify",
@@ -13321,7 +13317,7 @@
         "discovered": "2026-07-28",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -13479,7 +13475,7 @@
         "discovered": "2026-07-21",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -13849,7 +13845,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -13900,7 +13896,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -14010,7 +14006,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -14163,7 +14159,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -17515,7 +17511,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -18477,7 +18473,7 @@
         "discovered": "2026-07-29",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -19415,7 +19411,7 @@
         "discovered": "2026-07-21",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -19858,7 +19854,7 @@
         "discovered": "2026-07-23",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -20791,7 +20787,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -21054,7 +21050,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -22010,7 +22006,7 @@
         "discovered": "2026-07-21",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -22219,7 +22215,7 @@
         "discovered": "2026-07-31",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -22270,7 +22266,7 @@
         "discovered": "2026-07-31",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -25574,7 +25570,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -29119,7 +29115,7 @@
         "discovered": "2026-07-21",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -29178,7 +29174,7 @@
         "discovered": "2026-07-28",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -29386,7 +29382,7 @@
         "discovered": "2026-07-21",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -30313,7 +30309,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -30363,6 +30359,58 @@
       "dates": {
         "posted": "2026-05-16",
         "discovered": "2026-07-17",
+        "last_verified": "2026-08-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "marmon-holdings-digital-production-engineering-intern-or-student-co-op-2027",
+      "company": {
+        "name": "Marmon Holdings",
+        "slug": "marmon-holdings"
+      },
+      "role": "Digital Production Engineering Intern OR Student Co-Op",
+      "category": "software-engineering",
+      "apply_url": "https://marmon.wd501.myworkdayjobs.com/Marmon_MSIP_Internships/job/Milwaukee-WI/Digital-Production-Engineering-Intern-OR-Student-Co-Op_JR0000037451",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Milwaukee",
+          "state": "WI",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-03-04",
+        "discovered": "2026-08-01",
         "last_verified": "2026-08-01"
       },
       "status": "open",
@@ -30940,7 +30988,7 @@
         "discovered": "2026-07-21",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -30995,7 +31043,7 @@
         "discovered": "2026-07-30",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -31548,7 +31596,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -31880,7 +31928,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -32172,7 +32220,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -32224,7 +32272,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -32598,7 +32646,7 @@
         "discovered": "2026-07-21",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -32650,7 +32698,7 @@
         "discovered": "2026-07-24",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -35726,6 +35774,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "nexstar-media-archivist-intern-2026",
+      "company": {
+        "name": "Nexstar",
+        "slug": "nexstar"
+      },
+      "role": "Media Archivist Intern",
+      "category": "software-engineering",
+      "apply_url": "https://nexstar.wd5.myworkdayjobs.com/nexstar/job/AL-Mobile/Media-Archivist-Intern--In--Person--Fall-2026_REQ-41978",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Mobile",
+          "state": "AL",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-06-27",
+        "discovered": "2026-08-01",
+        "last_verified": "2026-08-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "nextiva-forward-deployed-engineer-intern-ai-implementation-2026",
       "company": {
         "name": "Nextiva",
@@ -37314,7 +37414,7 @@
         "discovered": "2026-07-21",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -38187,7 +38287,7 @@
         "discovered": "2026-07-23",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -40055,7 +40155,7 @@
         "discovered": "2026-07-21",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -40430,7 +40530,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -40754,7 +40854,7 @@
         "discovered": "2026-07-21",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -41838,7 +41938,7 @@
         "discovered": "2026-07-24",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -42999,7 +43099,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -43210,7 +43310,7 @@
         "discovered": "2026-07-22",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -43265,7 +43365,7 @@
         "discovered": "2026-07-22",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -43872,9 +43972,9 @@
       "dates": {
         "posted": "2026-06-11",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-30"
+        "last_verified": "2026-08-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -47286,7 +47386,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -48118,7 +48218,7 @@
         "discovered": "2026-07-21",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -48221,7 +48321,7 @@
         "discovered": "2026-07-21",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -48810,6 +48910,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "super-travel-supply-analyst-intern-2026",
+      "company": {
+        "name": "Super",
+        "slug": "super"
+      },
+      "role": "Travel Supply Analyst Intern",
+      "category": "software-engineering",
+      "apply_url": "https://jobs.ashbyhq.com/super.com/d12fc858-e930-4f43-9c92-da2f02dd2cd2/application?embed=true",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Toronto",
+          "country": "ON"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-06-02",
+        "discovered": "2026-08-01",
+        "last_verified": "2026-08-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify",
+        "remote-available"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "susquehanna-trading-system-engineering-intern-2027",
       "company": {
         "name": "Susquehanna",
@@ -48906,7 +49058,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -49014,7 +49166,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -49087,14 +49239,19 @@
       },
       "role": "Quantitative Research Intern",
       "category": "quant",
-      "apply_url": "https://careers-sig.icims.com/jobs/11007/job?mobile=true&needsRedirect=false",
+      "apply_url": "https://careers-sig.icims.com/jobs/10818/job?mobile=true&needsRedirect=false",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
       "locations": [
         {
-          "city": "London",
-          "country": "UK"
+          "city": "Philadelphia",
+          "state": "PA",
+          "country": "USA"
+        },
+        {
+          "city": "NYC",
+          "country": "USA"
         }
       ],
       "compensation": {
@@ -49121,7 +49278,7 @@
         "resume_keywords": []
       },
       "dates": {
-        "posted": "2026-07-15",
+        "posted": "2026-06-29",
         "discovered": "2026-07-17",
         "last_verified": "2026-08-01"
       },
@@ -49179,7 +49336,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -49194,13 +49351,13 @@
       },
       "role": "Quantitative Strategy Developer Intern",
       "category": "quant",
-      "apply_url": "https://careers-sig.icims.com/jobs/11170/job?mobile=true&needsRedirect=false",
+      "apply_url": "https://careers-sig.icims.com/jobs/10838/job?mobile=true&needsRedirect=false",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
       "locations": [
         {
-          "city": "Philadelphia",
+          "city": "Ardmore",
           "state": "PA",
           "country": "USA"
         }
@@ -49229,7 +49386,7 @@
         "resume_keywords": []
       },
       "dates": {
-        "posted": "2026-07-06",
+        "posted": "2026-04-23",
         "discovered": "2026-07-17",
         "last_verified": "2026-08-01"
       },
@@ -49287,7 +49444,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -49345,7 +49502,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -49453,7 +49610,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -49717,7 +49874,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -49775,6 +49932,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "susquehanna-international-group-sig-trading-system-engineer-intern-2027",
+      "company": {
+        "name": "Susquehanna International Group (SIG)",
+        "slug": "susquehanna-international-group-sig"
+      },
+      "role": "Trading System Engineer Intern",
+      "category": "quant",
+      "apply_url": "https://careers-sig.icims.com/jobs/11169/job?mobile=true&needsRedirect=false",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-06",
+        "discovered": "2026-08-01",
+        "last_verified": "2026-08-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "susquehanna-international-group-sig-trading-system-engineering-intern-2027",
       "company": {
         "name": "Susquehanna International Group (SIG)",
@@ -49821,7 +50030,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -49925,7 +50134,59 @@
         "discovered": "2026-07-21",
         "last_verified": "2026-08-01"
       },
-      "status": "closed",
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "synchrony-financial-emerging-technology-intern-2026",
+      "company": {
+        "name": "Synchrony Financial",
+        "slug": "synchrony-financial"
+      },
+      "role": "Emerging Technology Intern",
+      "category": "software-engineering",
+      "apply_url": "https://synchronyfinancial.wd5.myworkdayjobs.com/University/job/University-of-Illinois-Hub/Emerging-Technology-Intern---Fall-2026_2601747-1",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Urbana",
+          "state": "IL",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-06-12",
+        "discovered": "2026-08-01",
+        "last_verified": "2026-08-01"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -49976,7 +50237,7 @@
         "discovered": "2026-07-18",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -50251,7 +50512,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "tencent-ai-product-manager-intern-2026",
+      "id": "tencent-ai-product-manager-intern-2026-0948b4",
       "company": {
         "name": "Tencent",
         "slug": "tencent"
@@ -50294,6 +50555,60 @@
       },
       "dates": {
         "posted": "2026-06-27",
+        "discovered": "2026-08-01",
+        "last_verified": "2026-08-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "tencent-ai-product-manager-intern-2026",
+      "company": {
+        "name": "Tencent",
+        "slug": "tencent"
+      },
+      "role": "AI Product Manager Intern",
+      "category": "ai",
+      "apply_url": "https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/United-Kingdom-London/Product-manager-Intern_R107654",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "London",
+          "country": "UK"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters",
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-06-19",
         "discovered": "2026-07-22",
         "last_verified": "2026-08-01"
       },
@@ -50348,7 +50663,7 @@
         "discovered": "2026-07-21",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -50464,61 +50779,6 @@
     },
     {
       "schema_version": "1.0",
-      "id": "tencent-research-intern-video-world-models-research-ml-systems-2026-ef917d",
-      "company": {
-        "name": "Tencent",
-        "slug": "tencent"
-      },
-      "role": "Research Intern - Video World Models - Research & ML Systems",
-      "category": "machine-learning",
-      "apply_url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Research-Intern---Video-World-Models--Research---ML-Systems-_R107752-1",
-      "season": "fall",
-      "year": 2026,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Palo Alto",
-          "state": "CA",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [
-          "masters",
-          "phd"
-        ],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-07-15",
-        "discovered": "2026-07-23",
-        "last_verified": "2026-08-01"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
       "id": "tencent-research-intern-video-world-models-research-ml-systems-2026",
       "company": {
         "name": "Tencent",
@@ -50526,7 +50786,7 @@
       },
       "role": "Research Intern - Video World Models - Research & ML Systems",
       "category": "machine-learning",
-      "apply_url": "https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/US-California-Palo-Alto/Research-Intern---Video-World-Models--Research---ML-Systems-_R107752",
+      "apply_url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Research-Intern---Video-World-Models--Research---ML-Systems-_R107752-1",
       "season": "fall",
       "year": 2026,
       "work_mode": "onsite",
@@ -56190,6 +56450,65 @@
     },
     {
       "schema_version": "1.0",
+      "id": "tessera-labs-product-manager-intern-2026",
+      "company": {
+        "name": "Tessera Labs",
+        "slug": "tessera-labs"
+      },
+      "role": "Product Manager Intern",
+      "category": "product",
+      "apply_url": "https://jobs.ashbyhq.com/tessera-labs/3b2d45b8-9881-41fe-b103-7bbc400e1544/application?embed=true",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        },
+        {
+          "city": "NYC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-06-08",
+        "discovered": "2026-08-01",
+        "last_verified": "2026-08-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify",
+        "remote-available"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "tetramem-software-engineer-intern-embedded-2027",
       "company": {
         "name": "TETRAMEM",
@@ -59251,7 +59570,7 @@
         "discovered": "2026-07-20",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -61125,7 +61444,7 @@
         "discovered": "2026-07-21",
         "last_verified": "2026-08-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"

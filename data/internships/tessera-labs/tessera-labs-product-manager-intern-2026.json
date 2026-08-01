@@ -1,0 +1,59 @@
+{
+  "schema_version": "1.0",
+  "id": "tessera-labs-product-manager-intern-2026",
+  "company": {
+    "name": "Tessera Labs",
+    "slug": "tessera-labs"
+  },
+  "role": "Product Manager Intern",
+  "category": "product",
+  "apply_url": "https://jobs.ashbyhq.com/tessera-labs/3b2d45b8-9881-41fe-b103-7bbc400e1544/application?embed=true",
+  "season": "fall",
+  "year": 2026,
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "San Jose",
+      "state": "CA",
+      "country": "USA"
+    },
+    {
+      "city": "NYC",
+      "country": "USA"
+    }
+  ],
+  "compensation": {
+    "currency": "USD",
+    "housing_stipend": false,
+    "relocation_assistance": false
+  },
+  "eligibility": {
+    "graduation_years": [],
+    "degree_levels": [
+      "masters"
+    ],
+    "citizenship_required": false,
+    "security_clearance_required": false,
+    "visa_sponsorship": "unknown"
+  },
+  "interview": {},
+  "tech": {
+    "required_skills": [],
+    "preferred_skills": [],
+    "languages": [],
+    "frameworks": [],
+    "cloud_platforms": [],
+    "resume_keywords": []
+  },
+  "dates": {
+    "posted": "2026-06-08",
+    "discovered": "2026-08-01",
+    "last_verified": "2026-08-01"
+  },
+  "status": "open",
+  "tags": [
+    "auto-ingested",
+    "src:simplify",
+    "remote-available"
+  ]
+}

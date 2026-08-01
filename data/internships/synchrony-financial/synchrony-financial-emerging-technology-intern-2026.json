@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "tencent-research-intern-video-world-models-research-ml-systems-2026-ef917d",
+  "id": "synchrony-financial-emerging-technology-intern-2026",
   "company": {
-    "name": "Tencent",
-    "slug": "tencent"
+    "name": "Synchrony Financial",
+    "slug": "synchrony-financial"
   },
-  "role": "Research Intern - Video World Models - Research & ML Systems",
-  "category": "machine-learning",
-  "apply_url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Research-Intern---Video-World-Models--Research---ML-Systems-_R107752-1",
+  "role": "Emerging Technology Intern",
+  "category": "software-engineering",
+  "apply_url": "https://synchronyfinancial.wd5.myworkdayjobs.com/University/job/University-of-Illinois-Hub/Emerging-Technology-Intern---Fall-2026_2601747-1",
   "season": "fall",
   "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Palo Alto",
-      "state": "CA",
+      "city": "Urbana",
+      "state": "IL",
       "country": "USA"
     }
   ],
@@ -25,10 +25,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters",
-      "phd"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -43,8 +40,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-15",
-    "discovered": "2026-07-23",
+    "posted": "2026-06-12",
+    "discovered": "2026-08-01",
     "last_verified": "2026-08-01"
   },
   "status": "open",
