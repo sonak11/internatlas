@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "windborne-systems-firmware-intern-2026",
+  "id": "imc-trading-2027-quant-research-intern-bits-pilani-2027",
   "company": {
-    "name": "WindBorne Systems",
-    "slug": "windborne-systems"
+    "name": "IMC Trading",
+    "slug": "imc-trading",
+    "career_page": "https://www.imc.com/us/careers"
   },
-  "role": "Firmware Intern",
-  "category": "embedded",
-  "apply_url": "https://jobs.ashbyhq.com/windborne-systems/75c5c65c-8179-4ca0-9659-39bf0f8f7b8b/application",
-  "season": "fall",
-  "year": 2026,
+  "role": "2027 - Quant Research Intern - BITS Pilani",
+  "category": "quant",
+  "apply_url": "https://job-boards.eu.greenhouse.io/imc/jobs/4942958101",
+  "season": "summer",
+  "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "San Carlos",
-      "state": "CA",
+      "city": "Amsterdam",
       "country": "USA"
     }
   ],
@@ -40,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-06",
-    "discovered": "2026-07-17",
+    "posted": "2026-08-01",
+    "discovered": "2026-08-01",
     "last_verified": "2026-08-01"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:ats"
   ]
 }

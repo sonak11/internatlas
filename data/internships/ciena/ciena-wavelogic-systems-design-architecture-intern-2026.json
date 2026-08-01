@@ -1,21 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "windborne-systems-firmware-intern-2026",
+  "id": "ciena-wavelogic-systems-design-architecture-intern-2026",
   "company": {
-    "name": "WindBorne Systems",
-    "slug": "windborne-systems"
+    "name": "Ciena",
+    "slug": "ciena"
   },
-  "role": "Firmware Intern",
-  "category": "embedded",
-  "apply_url": "https://jobs.ashbyhq.com/windborne-systems/75c5c65c-8179-4ca0-9659-39bf0f8f7b8b/application",
+  "role": "Wavelogic Systems Design Architecture Intern",
+  "category": "design",
+  "apply_url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/WaveLogic-Systems-Design-Architecture-Intern--8-12-months-_R031286",
   "season": "fall",
   "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "San Carlos",
-      "state": "CA",
-      "country": "USA"
+      "city": "Ottawa",
+      "country": "ON"
     }
   ],
   "compensation": {
@@ -41,7 +40,7 @@
   },
   "dates": {
     "posted": "2026-07-06",
-    "discovered": "2026-07-17",
+    "discovered": "2026-08-01",
     "last_verified": "2026-08-01"
   },
   "status": "open",

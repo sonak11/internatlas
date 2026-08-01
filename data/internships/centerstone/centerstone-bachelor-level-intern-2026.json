@@ -7,14 +7,34 @@
   },
   "role": "Bachelor Level Intern",
   "category": "software-engineering",
-  "apply_url": "https://centerstone.wd5.myworkdayjobs.com/centerstonecareers/job/Bradenton-Florida/Bachelor-Level-Intern_JR-028686-1",
+  "apply_url": "https://centerstone.wd5.myworkdayjobs.com/centerstonecareers/job/Bloomington-Indiana/Bachelor-Level-Intern-Late-Fall-Semester_JR-032217",
   "season": "fall",
   "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Ellenton",
-      "state": "FL",
+      "city": "Richmond",
+      "state": "IN",
+      "country": "USA"
+    },
+    {
+      "city": "Greenwood",
+      "state": "IN",
+      "country": "USA"
+    },
+    {
+      "city": "Jeffersonville",
+      "state": "IN",
+      "country": "USA"
+    },
+    {
+      "city": "Bloomington",
+      "state": "IN",
+      "country": "USA"
+    },
+    {
+      "city": "Seymour",
+      "state": "IN",
       "country": "USA"
     }
   ],
@@ -40,11 +60,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-15",
+    "posted": "2026-07-08",
     "discovered": "2026-07-18",
-    "last_verified": "2026-07-24"
+    "last_verified": "2026-08-01"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

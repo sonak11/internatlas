@@ -1,19 +1,19 @@
 {
   "schema_version": "1.0",
-  "id": "windborne-systems-firmware-intern-2026",
+  "id": "cadence-design-systems-characterization-and-support-intern-2026-ac4579",
   "company": {
-    "name": "WindBorne Systems",
-    "slug": "windborne-systems"
+    "name": "Cadence Design Systems",
+    "slug": "cadence-design-systems"
   },
-  "role": "Firmware Intern",
-  "category": "embedded",
-  "apply_url": "https://jobs.ashbyhq.com/windborne-systems/75c5c65c-8179-4ca0-9659-39bf0f8f7b8b/application",
+  "role": "Characterization and Support Intern",
+  "category": "software-engineering",
+  "apply_url": "https://cadence.wd1.myworkdayjobs.com/University_Talent_Intern/job/SAN-JOSE/Intern---Characterization-and-Support_R54998-2",
   "season": "fall",
   "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "San Carlos",
+      "city": "San Jose",
       "state": "CA",
       "country": "USA"
     }
@@ -25,7 +25,9 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "masters"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -40,8 +42,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-06",
-    "discovered": "2026-07-17",
+    "posted": "2026-07-07",
+    "discovered": "2026-08-01",
     "last_verified": "2026-08-01"
   },
   "status": "open",

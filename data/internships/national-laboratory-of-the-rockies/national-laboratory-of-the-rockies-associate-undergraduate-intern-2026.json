@@ -1,23 +1,17 @@
 {
   "schema_version": "1.0",
-  "id": "windborne-systems-firmware-intern-2026",
+  "id": "national-laboratory-of-the-rockies-associate-undergraduate-intern-2026",
   "company": {
-    "name": "WindBorne Systems",
-    "slug": "windborne-systems"
+    "name": "National Laboratory of the Rockies",
+    "slug": "national-laboratory-of-the-rockies"
   },
-  "role": "Firmware Intern",
-  "category": "embedded",
-  "apply_url": "https://jobs.ashbyhq.com/windborne-systems/75c5c65c-8179-4ca0-9659-39bf0f8f7b8b/application",
+  "role": "Associate/Undergraduate Intern",
+  "category": "software-engineering",
+  "apply_url": "https://nrel.wd5.myworkdayjobs.com/NLR/job/Remote/XMLNAME--Associate-Undergraduate--Intern---Carbon-Management-and-Large-Energy-Systems_R14405",
   "season": "fall",
   "year": 2026,
-  "work_mode": "onsite",
-  "locations": [
-    {
-      "city": "San Carlos",
-      "state": "CA",
-      "country": "USA"
-    }
-  ],
+  "work_mode": "remote",
+  "locations": [],
   "compensation": {
     "currency": "USD",
     "housing_stipend": false,
@@ -40,8 +34,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-06",
-    "discovered": "2026-07-17",
+    "posted": "2026-07-08",
+    "discovered": "2026-08-01",
     "last_verified": "2026-08-01"
   },
   "status": "open",

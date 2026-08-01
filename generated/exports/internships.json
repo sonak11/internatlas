@@ -1,6 +1,6 @@
 {
   "generated": "2026-08-01",
-  "count": 1172,
+  "count": 1177,
   "internships": [
     {
       "schema_version": "1.0",
@@ -49,9 +49,9 @@
       "dates": {
         "posted": "2026-07-07",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-22"
+        "last_verified": "2026-08-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -8351,7 +8351,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "cadence-design-systems-characterization-and-support-intern-2026",
+      "id": "cadence-design-systems-characterization-and-support-intern-2026-ac4579",
       "company": {
         "name": "Cadence Design Systems",
         "slug": "cadence-design-systems"
@@ -8394,10 +8394,64 @@
       },
       "dates": {
         "posted": "2026-07-07",
+        "discovered": "2026-08-01",
+        "last_verified": "2026-08-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "cadence-design-systems-characterization-and-support-intern-2026",
+      "company": {
+        "name": "Cadence Design Systems",
+        "slug": "cadence-design-systems"
+      },
+      "role": "Characterization and Support Intern",
+      "category": "software-engineering",
+      "apply_url": "https://cadence.wd1.myworkdayjobs.com/University_Talent/job/SAN-JOSE/Intern---Characterization-and-Support_R54998-3",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-07",
         "discovered": "2026-07-17",
         "last_verified": "2026-08-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -9605,14 +9659,34 @@
       },
       "role": "Bachelor Level Intern",
       "category": "software-engineering",
-      "apply_url": "https://centerstone.wd5.myworkdayjobs.com/centerstonecareers/job/Bradenton-Florida/Bachelor-Level-Intern_JR-028686-1",
+      "apply_url": "https://centerstone.wd5.myworkdayjobs.com/centerstonecareers/job/Bloomington-Indiana/Bachelor-Level-Intern-Late-Fall-Semester_JR-032217",
       "season": "fall",
       "year": 2026,
       "work_mode": "onsite",
       "locations": [
         {
-          "city": "Ellenton",
-          "state": "FL",
+          "city": "Richmond",
+          "state": "IN",
+          "country": "USA"
+        },
+        {
+          "city": "Greenwood",
+          "state": "IN",
+          "country": "USA"
+        },
+        {
+          "city": "Jeffersonville",
+          "state": "IN",
+          "country": "USA"
+        },
+        {
+          "city": "Bloomington",
+          "state": "IN",
+          "country": "USA"
+        },
+        {
+          "city": "Seymour",
+          "state": "IN",
           "country": "USA"
         }
       ],
@@ -9638,11 +9712,11 @@
         "resume_keywords": []
       },
       "dates": {
-        "posted": "2026-07-15",
+        "posted": "2026-07-08",
         "discovered": "2026-07-18",
-        "last_verified": "2026-07-24"
+        "last_verified": "2026-08-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -10642,6 +10716,57 @@
         "last_verified": "2026-08-01"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "ciena-wavelogic-systems-design-architecture-intern-2026",
+      "company": {
+        "name": "Ciena",
+        "slug": "ciena"
+      },
+      "role": "Wavelogic Systems Design Architecture Intern",
+      "category": "design",
+      "apply_url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/WaveLogic-Systems-Design-Architecture-Intern--8-12-months-_R031286",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Ottawa",
+          "country": "ON"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-06",
+        "discovered": "2026-08-01",
+        "last_verified": "2026-08-01"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -13212,7 +13337,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify",
@@ -14002,7 +14127,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -21210,7 +21335,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -24294,6 +24419,58 @@
         "last_verified": "2026-07-26"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "imc-trading-2027-quant-research-intern-bits-pilani-2027",
+      "company": {
+        "name": "IMC Trading",
+        "slug": "imc-trading",
+        "career_page": "https://www.imc.com/us/careers"
+      },
+      "role": "2027 - Quant Research Intern - BITS Pilani",
+      "category": "quant",
+      "apply_url": "https://job-boards.eu.greenhouse.io/imc/jobs/4942958101",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Amsterdam",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-01",
+        "discovered": "2026-08-01",
+        "last_verified": "2026-08-01"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:ats"
@@ -33874,6 +34051,52 @@
     },
     {
       "schema_version": "1.0",
+      "id": "national-laboratory-of-the-rockies-associate-undergraduate-intern-2026",
+      "company": {
+        "name": "National Laboratory of the Rockies",
+        "slug": "national-laboratory-of-the-rockies"
+      },
+      "role": "Associate/Undergraduate Intern",
+      "category": "software-engineering",
+      "apply_url": "https://nrel.wd5.myworkdayjobs.com/NLR/job/Remote/XMLNAME--Associate-Undergraduate--Intern---Carbon-Management-and-Large-Energy-Systems_R14405",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "remote",
+      "locations": [],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-08",
+        "discovered": "2026-08-01",
+        "last_verified": "2026-08-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "national-laboratory-of-the-rockies-energy-data-analysis-intern-2026",
       "company": {
         "name": "National Laboratory of the Rockies",
@@ -34193,7 +34416,7 @@
         "discovered": "2026-07-21",
         "last_verified": "2026-08-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -42257,7 +42480,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -49808,6 +50031,60 @@
       "dates": {
         "posted": "2026-04-21",
         "discovered": "2026-07-17",
+        "last_verified": "2026-08-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "susquehanna-international-group-sig-quantitative-strategy-developer-intern-2027-3633db",
+      "company": {
+        "name": "Susquehanna International Group (SIG)",
+        "slug": "susquehanna-international-group-sig"
+      },
+      "role": "Quantitative Strategy Developer Intern",
+      "category": "quant",
+      "apply_url": "https://careers-sig.icims.com/jobs/11170/job?mobile=true&needsRedirect=false",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Philadelphia",
+          "state": "PA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-06",
+        "discovered": "2026-08-01",
         "last_verified": "2026-08-01"
       },
       "status": "open",
@@ -60419,9 +60696,9 @@
       "dates": {
         "posted": "2026-07-04",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-22"
+        "last_verified": "2026-08-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -61287,7 +61564,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -62394,7 +62671,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"

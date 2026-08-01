@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "windborne-systems-firmware-intern-2026",
+  "id": "susquehanna-international-group-sig-quantitative-strategy-developer-intern-2027-3633db",
   "company": {
-    "name": "WindBorne Systems",
-    "slug": "windborne-systems"
+    "name": "Susquehanna International Group (SIG)",
+    "slug": "susquehanna-international-group-sig"
   },
-  "role": "Firmware Intern",
-  "category": "embedded",
-  "apply_url": "https://jobs.ashbyhq.com/windborne-systems/75c5c65c-8179-4ca0-9659-39bf0f8f7b8b/application",
-  "season": "fall",
-  "year": 2026,
+  "role": "Quantitative Strategy Developer Intern",
+  "category": "quant",
+  "apply_url": "https://careers-sig.icims.com/jobs/11170/job?mobile=true&needsRedirect=false",
+  "season": "summer",
+  "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "San Carlos",
-      "state": "CA",
+      "city": "Philadelphia",
+      "state": "PA",
       "country": "USA"
     }
   ],
@@ -25,7 +25,9 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "masters"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -41,7 +43,7 @@
   },
   "dates": {
     "posted": "2026-07-06",
-    "discovered": "2026-07-17",
+    "discovered": "2026-08-01",
     "last_verified": "2026-08-01"
   },
   "status": "open",

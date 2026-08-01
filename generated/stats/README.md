@@ -11,9 +11,9 @@ _Generated 2026-08-01_
 | Tesla | 103 |
 | Jump Trading | 38 |
 | Cloudflare | 21 |
+| IMC Trading | 20 |
 | Neuralink | 20 |
-| IMC Trading | 19 |
-| Susquehanna International Group (SIG) | 19 |
+| Susquehanna International Group (SIG) | 20 |
 | Palantir Technologies | 17 |
 | TikTok | 17 |
 | Jane Street | 16 |
@@ -24,8 +24,8 @@ _Generated 2026-08-01_
 | Astranis | 11 |
 | Optiver | 11 |
 | Palantir | 11 |
+| Ciena | 10 |
 | Copart | 10 |
-| Ciena | 9 |
 | NVIDIA | 9 |
 | Walleye Capital | 9 |
 
@@ -33,8 +33,8 @@ _Generated 2026-08-01_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 587 | `█████████████` |
-| quant | 126 | `███` |
+| software-engineering | 589 | `█████████████` |
+| quant | 128 | `███` |
 | ai | 115 | `██` |
 | machine-learning | 69 | `█` |
 | research | 60 | `█` |
@@ -42,7 +42,7 @@ _Generated 2026-08-01_
 | embedded | 41 | `█` |
 | product | 28 | `█` |
 | cloud | 28 | `█` |
-| design | 26 | `█` |
+| design | 27 | `█` |
 | data-science | 17 | `█` |
 | data-engineering | 13 | `█` |
 | security | 7 | `█` |
@@ -50,6 +50,7 @@ _Generated 2026-08-01_
 ## Newest listings
 
 - 2026-08-01 — **Citadel**: [Sector Data Analyst Intern](https://www.citadel.com/careers/details/sector-data-analyst-intern-europe/)
+- 2026-08-01 — **IMC Trading**: [2027 - Quant Research Intern - BITS Pilani](https://job-boards.eu.greenhouse.io/imc/jobs/4942958101)
 - 2026-08-01 — **Tesla**: [Software Compiler Engineer Intern - AI Inference](https://www.tesla.com/careers/search/job/278847)
 - 2026-07-31 — **Altice USA**: [Data Engineer Intern](https://www.optimumcareers.com/job/Long-Island-City-Intern-Data-Engineer-NY-11101/1414286700/?ats=successfactors)
 - 2026-07-31 — **Brio Water Technology**: [AI Automation & Business Analytics Intern - Rotational Program](https://ats.rippling.com/briowt/jobs/52da1fca-1cb1-49ff-8a94-b6f3850cd8eb)
@@ -68,11 +69,9 @@ _Generated 2026-08-01_
 - 2026-07-31 — **DRW**: [Software Developer Intern](https://www.drw.com/work-at-drw/listings/software-developer-intern-3466687)
 - 2026-07-31 — **Exclusive Networks**: [Data Quality & Business Data Analyst Intern](https://exclusivenetworks.wd103.myworkdayjobs.com/Exclusive-Networks-Career/job/Son/Data-Quality---Business-Data-Analyst-Intern_JR2326-1)
 - 2026-07-31 — **Genworth Financial**: [IT Development Program Intern - IT Development Program](https://gnw.wd1.myworkdayjobs.com/GNW/job/Richmond-Virginia/Genworth-IT-Development-Program-Intern---Summer-2027_REQ-260269-1)
-- 2026-07-31 — **Heliux**: [Software Engineer Intern](https://jobs.ashbyhq.com/heliux/ff2b6f4b-00d0-4afe-b4f5-2dbf443409ef/application?embed=true)
 
 ## Recently closed
 
-- 1X — AI Residency Intern
 - ABC News — Product Management and Engineering Intern
 - Accenture — Software Engineer Intern
 - Accenture — Technology Apprentice Intern
@@ -117,7 +116,6 @@ _Generated 2026-08-01_
 - ByteDance — Research Scientist Intern - AI Infrastructure
 - ByteDance — Research Scientist Intern - AI Infrastructure
 - CACI — Software Engineering Intern
-- Cadence Design Systems — Characterization and Support Intern
 - Cadence Design Systems — SSG Design Engineering Intern
 - Capital One — Data Science Intern
 - Capital One — Full Stack Software Engineer Intern
@@ -129,7 +127,6 @@ _Generated 2026-08-01_
 - Castleton Commodities International — Front Office Software Engineer Intern
 - CCC Intelligent Solutions — Applied AI Engineer Intern
 - Center for AI Safety — Research Engineer Intern
-- Centerstone — Bachelor Level Intern
 - Chanel — Data Intern - Global Data Program
 - Chevron Corporation — Earth Science Intern
 - Chevron Corporation — Intern
@@ -155,7 +152,6 @@ _Generated 2026-08-01_
 - Cloudflare — Technical Support Engineer Intern (Fall 2026)
 - Cohere — Research Internship
 - Colonist — Product Developer Intern
-- ConnectPrep — Data Analyst Intern
 - Consensus Cloud Solutions — Sales Strategy & Analytics Intern
 - Constellation Space — Graduate Researcher Intern - Machine Learning
 - Copart — Data Engineer Intern
@@ -168,7 +164,6 @@ _Generated 2026-08-01_
 - Copart — Software Engineer Intern
 - Copart — Technology Product Analyst Intern
 - Copart — Technology Product Analyst Intern
-- CTGT — Software Engineer Intern
 - CuspAI — Chemistry Intern - MLFF Distillation & GCMC Integration
 - Cybernetic Labs — Forward Deployed Engineer Intern
 - Cybernetic Labs — Full-Stack Software Engineer Intern - Product
@@ -225,7 +220,6 @@ _Generated 2026-08-01_
 - General Motors — Research and Development Intern - Research & Development
 - GeoComply — Full Stack Developer Intern
 - GeoComply — Product Operations Intern
-- Global Infrastructure — Alternative Delivery Project Analytics Intern
 - Google — Software Developer Intern - BS
 - Google — Software Developer Intern - MS
 - Google — Software Engineer Intern
@@ -306,7 +300,6 @@ _Generated 2026-08-01_
 - National Laboratory of the Rockies — Graduate Geospatial Data Science Intern
 - National Laboratory of the Rockies — Graduate Intern
 - National Laboratory of the Rockies — Graduate Intern - Transportation Systems Analysis
-- National Laboratory of the Rockies — Software and Data Infrastructure Intern
 - NationGraph — Software Engineer Intern
 - Navy Federal — Year Round Intern - Business Intelligence Analyst
 - NeoSigma — Member of Technical Staff Intern
@@ -355,7 +348,6 @@ _Generated 2026-08-01_
 - Pinterest — PhD Fall Machine Learning Intern (ATG — Visual, Multimodal, and Recommender Systems)
 - Podium — Software Engineering Intern
 - PSECU — Data Analyst Intern
-- Pylon — Software Engineer Intern
 - Quadrillion — Research Intern
 - Quadrillion — Software Engineer Intern
 - Quadrillion — Software Engineering Intern
@@ -447,16 +439,13 @@ _Generated 2026-08-01_
 - Veeda AI — AI Scientist Intern - Veeda AI Scientist
 - Vega Investment Technologies — Product Operations Intern
 - Verkada — Technical Support Engineering Intern - Fall 2026
-- Verne Robotics — Engineering Intern
 - Viavi Solutions — Software Development Data Analytics Intern
-- Vital Lyfe — Software Engineer Intern
 - Walleye Capital — Central Equity Quant Research Intern - Ceqr
 - Walleye Capital — Quantic – Quantitative Researcher Intern
 - Walleye Capital — Quantitative Developer Intern
 - Walleye Capital — Volatility Trading Developer Intern
 - Warner Bros. — Research, Analytics & Strategy Intern
 - Warner Bros. — Sports Growth Strategy and Data Intern
-- WindBorne Systems — Firmware Intern
 - XTX Markets — Philanthropy Intern
 - Zello — Analytics Intern
 - Zipline — Applications Engineer Intern
