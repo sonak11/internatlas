@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "brio-water-technology-ai-automation-business-analytics-intern-rotational-program-2026",
+  "id": "national-laboratory-of-the-rockies-graduate-intern-2026-24999b",
   "company": {
-    "name": "Brio Water Technology",
-    "slug": "brio-water-technology"
+    "name": "National Laboratory of the Rockies",
+    "slug": "national-laboratory-of-the-rockies"
   },
-  "role": "AI Automation & Business Analytics Intern - Rotational Program",
-  "category": "ai",
-  "apply_url": "https://ats.rippling.com/briowt/jobs/52da1fca-1cb1-49ff-8a94-b6f3850cd8eb",
+  "role": "Graduate Intern",
+  "category": "software-engineering",
+  "apply_url": "https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Graduate-Intern---LLM-Reliability-and-Uncertainty-for-AI-Science-Assistants_R14416",
   "season": "fall",
   "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Glendale",
-      "state": "CA",
+      "city": "Golden",
+      "state": "CO",
       "country": "USA"
     }
   ],
@@ -25,7 +25,10 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "masters",
+      "phd"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -40,13 +43,14 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-31",
+    "posted": "2026-07-20",
     "discovered": "2026-08-01",
     "last_verified": "2026-08-01"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:simplify",
+    "remote-available"
   ]
 }

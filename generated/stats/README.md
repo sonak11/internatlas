@@ -26,18 +26,18 @@ _Generated 2026-08-01_
 | Palantir | 11 |
 | Ciena | 10 |
 | Copart | 10 |
+| National Laboratory of the Rockies | 9 |
 | NVIDIA | 9 |
-| Tencent | 9 |
 
 ## Listings by category
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 592 | `████████████` |
+| software-engineering | 594 | `████████████` |
 | quant | 129 | `███` |
 | ai | 115 | `██` |
 | machine-learning | 71 | `█` |
-| research | 61 | `█` |
+| research | 62 | `█` |
 | hardware | 55 | `█` |
 | embedded | 42 | `█` |
 | product | 28 | `█` |
@@ -56,6 +56,7 @@ _Generated 2026-08-01_
 - 2026-07-31 — **Brio Water Technology**: [AI Automation & Business Analytics Intern - Rotational Program](https://ats.rippling.com/briowt/jobs/52da1fca-1cb1-49ff-8a94-b6f3850cd8eb)
 - 2026-07-31 — **Cirrus Logic**: [Embedded Software Test Engineer Intern](https://jobs.eu.lever.co/cirrus/2926421c-691a-434a-ae59-c828e7fcbf5b)
 - 2026-07-31 — **City of Austin**: [Business Intelligence Intern - Business Intelligence](https://austintexas.wd5.myworkdayjobs.com/COA_Careers/job/Fire-Headquarters/Business-Intelligence-Internship_JR104636)
+- 2026-07-31 — **City of Austin**: [Research Analyst Intern](https://austintexas.wd5.myworkdayjobs.com/COA_Careers/job/Fire-Headquarters/Research-Analyst-Internship_JR104634)
 - 2026-07-31 — **Cloudflare**: [Customer Advocacy Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8093127?gh_jid=8093127)
 - 2026-07-31 — **DRW**: [AI/ML Research Intern](https://www.drw.com/work-at-drw/listings/aiml-research-intern-3466679)
 - 2026-07-31 — **DRW**: [FPGA Intern](https://www.drw.com/work-at-drw/listings/fpga-intern-3484423)
@@ -68,7 +69,6 @@ _Generated 2026-08-01_
 - 2026-07-31 — **Genworth Financial**: [IT Development Program Intern - IT Development Program](https://gnw.wd1.myworkdayjobs.com/GNW/job/Richmond-Virginia/Genworth-IT-Development-Program-Intern---Summer-2027_REQ-260269-1)
 - 2026-07-31 — **Heliux**: [Software Engineer Intern](https://jobs.ashbyhq.com/heliux/ff2b6f4b-00d0-4afe-b4f5-2dbf443409ef/application?embed=true)
 - 2026-07-31 — **Heliux**: [Software Engineer Intern](https://jobs.ashbyhq.com/heliux/c71c0650-b6f7-491f-b291-6b280f58ee9c/application?embed=true)
-- 2026-07-31 — **IMC Trading**: [Hardware Engineer Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4927149101)
 
 ## Recently closed
 
@@ -89,7 +89,6 @@ _Generated 2026-08-01_
 - Apptronik — Software Engineer Intern, ML Systems
 - Aptiv — Engineer Intern
 - AQR Capital Management — Portfolio Implementation – Trading and Portfolio Finance Analyst Intern
-- Arizona State University — Management Intern - Career Data and Analytics
 - Assurant — Digital & AI Transformation Intern
 - Astranis — FPGA Associate Intern
 - Astranis — FPGA Intern
@@ -106,8 +105,6 @@ _Generated 2026-08-01_
 - BMO — Machine Learning Intern
 - Bosch Home Comfort — Business Intelligence Intern
 - Brex — Brex Internship Program
-- Brio Water Technology — AI Automation & Business Analytics Intern - Rotational Program
-- Brunswick — Software Engineer Intern
 - ByteDance — Research Scientist Intern - AI Infrastructure
 - ByteDance — Research Scientist Intern - AI Infrastructure
 - CACI — Software Engineering Intern
@@ -124,7 +121,6 @@ _Generated 2026-08-01_
 - Ciena — Software Engineer and Tools Developer Intern
 - City of Aurora — Water GIS Intern
 - City of Austin — Austin Aviation Undergraduate Intern - IT Business Systems Analyst
-- City of Austin — Business Intelligence Intern - Business Intelligence
 - Cloudflare — EIAM Business Enablement & Operations Intern (Fall 2026)
 - Cloudflare — Public Policy Intern
 - Cloudflare — Sales Project Manager Intern (AI Innovation) (Fall 2026)
@@ -132,8 +128,6 @@ _Generated 2026-08-01_
 - Cohere — Research Internship
 - Colonist — Product Developer Intern
 - Consensus Cloud Solutions — Sales Strategy & Analytics Intern
-- Copart — Software Engineer Intern
-- Copart — Software Engineer Intern
 - Copart — Software Engineer Intern
 - Copart — Software Engineer Intern
 - Copart — Technology Product Analyst Intern
@@ -178,8 +172,6 @@ _Generated 2026-08-01_
 - Google — Software Developer Intern - MS
 - Google — Software Engineer Intern
 - Google — Software Engineer Intern - MS
-- Heliux — Software Engineer Intern
-- Heliux — Software Engineer Intern
 - Hendrick Motorsports — Project and Race Support Engineer Internship
 - Hendrick Motorsports — Racing Performance Engineer Intern
 - Hermeus — Modeling & Simulation Software Engineer Intern
@@ -210,7 +202,6 @@ _Generated 2026-08-01_
 - Kudu Dynamics — Software Engineer Intern
 - Kudu Dynamics — Software Engineer Intern
 - Kudu Dynamics — Software Engineer Intern
-- Leidos — Software Developer Intern
 - LexisNexis Risk Solutions — Editorial Data Reporting Intern
 - Light & Wonder — Mathematics Intern
 - Littelfuse — Intern 1 - Engineering
@@ -228,7 +219,6 @@ _Generated 2026-08-01_
 - Meta — Research Scientist Intern PhD - Applied Research
 - Microchip Technology — Applications Engineering Intern
 - Mistral AI — Applied Scientist / Research Engineer Intern
-- Modal — Machine Learning Research Intern
 - Monogram — Software Engineer Intern
 - Moog — Software Engineer Intern
 - Moon — Software Engineer Intern - Backend & API
@@ -237,7 +227,6 @@ _Generated 2026-08-01_
 - Mosaic — Operations & Automation Engineering Co-op/Intern
 - Moss & Associates — Construction Technologies Intern
 - National Laboratory of the Rockies — Energy Data Analysis Intern
-- National Laboratory of the Rockies — Focused Ion Beam, Electron Microscopy, and Autonomous Characterization Intern - Multiple Teams
 - National Laboratory of the Rockies — Graduate Geospatial Data Science Intern
 - NationGraph — Software Engineer Intern
 - Navy Federal — Year Round Intern - Business Intelligence Analyst
@@ -276,11 +265,9 @@ _Generated 2026-08-01_
 - Phlair — Working Student Intern - Control Team - Systems & Data Infrastructure
 - Pinterest — PhD Fall Machine Learning Intern (ATG — Visual, Multimodal, and Recommender Systems)
 - Podium — Software Engineering Intern
-- PSECU — Data Analyst Intern
 - Quadrillion — Software Engineer Intern
 - Rainmaker — Software Engineer Intern
 - Rakuten International — Software Engineer Intern
-- RapDev — ServiceNow Engineer Intern
 - Revvity — Product Manager Intern
 - Richemont — Sustainability Transformation Analyst Intern
 - Rise8 — Skillbridge Intern - Product Manager
@@ -290,9 +277,6 @@ _Generated 2026-08-01_
 - Rocket Lab — Software Intern
 - ROCKWOOL Group — Product Management Intern
 - Royal Bank of Canada — Student Intern - Data Analyst - Personal Banking
-- RTX — Software Engineer Intern
-- RTX — Software Engineer Intern
-- RTX — Software Engineer Intern
 - Salesforce — Associate Product Manager Intern - Associate Product Manager
 - Salesforce — Associate Product Manager Intern - Associate Product Manager
 - Salesforce — Software Engineer Intern(Futureforce Summer 2027)
@@ -344,7 +328,6 @@ _Generated 2026-08-01_
 - Toshiba Commerce Solutions — Project Management & AI Automation Intern
 - Toshiba Global Commerce — Agentic Software Engineer Intern
 - Tower Research Capital — Quantitative Trader Intern
-- University of Texas at Austin — Video and Analytics Intern - Baseball
 - University of Virginia — Graduate Research Intern
 - Varda Space — Mission Software – Intern - Python
 - Verkada — Technical Support Engineering Intern - Fall 2026
@@ -354,6 +337,5 @@ _Generated 2026-08-01_
 - Walleye Capital — Quantitative Developer Intern
 - Walleye Capital — Volatility Trading Developer Intern
 - XTX Markets — Philanthropy Intern
-- Zello — Analytics Intern
 - Zipline — Applications Engineer Intern
 - Zipline — Embedded Software Engineer Intern

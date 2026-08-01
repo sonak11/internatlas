@@ -1,20 +1,18 @@
 {
   "schema_version": "1.0",
-  "id": "brio-water-technology-ai-automation-business-analytics-intern-rotational-program-2026",
+  "id": "city-of-austin-research-analyst-intern-2026",
   "company": {
-    "name": "Brio Water Technology",
-    "slug": "brio-water-technology"
+    "name": "City of Austin",
+    "slug": "city-of-austin"
   },
-  "role": "AI Automation & Business Analytics Intern - Rotational Program",
-  "category": "ai",
-  "apply_url": "https://ats.rippling.com/briowt/jobs/52da1fca-1cb1-49ff-8a94-b6f3850cd8eb",
+  "role": "Research Analyst Intern",
+  "category": "research",
+  "apply_url": "https://austintexas.wd5.myworkdayjobs.com/COA_Careers/job/Fire-Headquarters/Research-Analyst-Internship_JR104634",
   "season": "fall",
   "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Glendale",
-      "state": "CA",
       "country": "USA"
     }
   ],

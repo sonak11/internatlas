@@ -1,6 +1,6 @@
 {
   "generated": "2026-08-01",
-  "count": 1187,
+  "count": 1190,
   "internships": [
     {
       "schema_version": "1.0",
@@ -4609,7 +4609,7 @@
         "discovered": "2026-07-31",
         "last_verified": "2026-08-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -8080,7 +8080,7 @@
         "discovered": "2026-08-01",
         "last_verified": "2026-08-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -8183,7 +8183,7 @@
         "discovered": "2026-07-29",
         "last_verified": "2026-08-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -11863,7 +11863,57 @@
         "discovered": "2026-08-01",
         "last_verified": "2026-08-01"
       },
-      "status": "closed",
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "city-of-austin-research-analyst-intern-2026",
+      "company": {
+        "name": "City of Austin",
+        "slug": "city-of-austin"
+      },
+      "role": "Research Analyst Intern",
+      "category": "research",
+      "apply_url": "https://austintexas.wd5.myworkdayjobs.com/COA_Careers/job/Fire-Headquarters/Research-Analyst-Internship_JR104634",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-31",
+        "discovered": "2026-08-01",
+        "last_verified": "2026-08-01"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -13812,7 +13862,7 @@
         "discovered": "2026-07-31",
         "last_verified": "2026-08-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -13972,7 +14022,7 @@
         "discovered": "2026-07-31",
         "last_verified": "2026-08-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -22760,7 +22810,7 @@
         "discovered": "2026-07-31",
         "last_verified": "2026-08-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -22811,7 +22861,7 @@
         "discovered": "2026-07-31",
         "last_verified": "2026-08-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -30546,7 +30596,7 @@
         "discovered": "2026-07-29",
         "last_verified": "2026-08-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -33612,7 +33662,7 @@
         "discovered": "2026-07-29",
         "last_verified": "2026-08-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -34509,9 +34559,9 @@
       "dates": {
         "posted": "2026-07-29",
         "discovered": "2026-07-29",
-        "last_verified": "2026-07-31"
+        "last_verified": "2026-08-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -34574,7 +34624,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "national-laboratory-of-the-rockies-graduate-intern-2026",
+      "id": "national-laboratory-of-the-rockies-graduate-intern-2026-24999b",
       "company": {
         "name": "National Laboratory of the Rockies",
         "slug": "national-laboratory-of-the-rockies"
@@ -34618,7 +34668,7 @@
       },
       "dates": {
         "posted": "2026-07-20",
-        "discovered": "2026-07-20",
+        "discovered": "2026-08-01",
         "last_verified": "2026-08-01"
       },
       "status": "open",
@@ -34626,6 +34676,61 @@
         "auto-ingested",
         "src:simplify",
         "remote-available"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "national-laboratory-of-the-rockies-graduate-intern-2026",
+      "company": {
+        "name": "National Laboratory of the Rockies",
+        "slug": "national-laboratory-of-the-rockies"
+      },
+      "role": "Graduate Intern",
+      "category": "software-engineering",
+      "apply_url": "https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Graduate--Year-Round--Intern---Industrial-and-Fuel-Supply-Optimization-Modeling-Analysis_R14426",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Golden",
+          "state": "CO",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters",
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-28",
+        "discovered": "2026-07-20",
+        "last_verified": "2026-08-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
       ]
     },
     {
@@ -42688,7 +42793,7 @@
         "discovered": "2026-07-31",
         "last_verified": "2026-08-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -43254,7 +43359,7 @@
         "discovered": "2026-07-30",
         "last_verified": "2026-08-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -46057,7 +46162,7 @@
         "discovered": "2026-07-31",
         "last_verified": "2026-08-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -46109,7 +46214,7 @@
         "discovered": "2026-07-30",
         "last_verified": "2026-08-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -46163,7 +46268,7 @@
         "discovered": "2026-07-27",
         "last_verified": "2026-08-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -48343,6 +48448,60 @@
       "dates": {
         "posted": "2026-06-16",
         "discovered": "2026-07-17",
+        "last_verified": "2026-08-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "sony-pictures-entertainment-graduate-intern-advanced-technologies-2026",
+      "company": {
+        "name": "Sony Pictures Entertainment",
+        "slug": "sony-pictures-entertainment"
+      },
+      "role": "Graduate Intern - Advanced Technologies",
+      "category": "software-engineering",
+      "apply_url": "https://spe.wd1.myworkdayjobs.com/en-US/SonyPicturesEntertainment/job/Culver-City-California/Graduate-Intern--Advanced-Technologies_JR113816",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Culver City",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-28",
+        "discovered": "2026-08-01",
         "last_verified": "2026-08-01"
       },
       "status": "open",
@@ -60694,7 +60853,7 @@
         "discovered": "2026-07-31",
         "last_verified": "2026-08-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -63718,7 +63877,7 @@
         "discovered": "2026-08-01",
         "last_verified": "2026-08-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
