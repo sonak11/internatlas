@@ -13,13 +13,13 @@
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Stamford",
-      "state": "CT",
+      "city": "Houston",
+      "state": "TX",
       "country": "USA"
     },
     {
-      "city": "Houston",
-      "state": "TX",
+      "city": "Stamford",
+      "state": "CT",
       "country": "USA"
     }
   ],
@@ -45,13 +45,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-31",
+    "posted": "2026-07-21",
     "discovered": "2026-07-22",
     "last_verified": "2026-08-01"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:vanshb03"
+    "src:simplify"
   ]
 }

@@ -1,21 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "group-1001-quantitative-analysis-intern-2026",
+  "id": "harris-computer-software-development-intern-2026",
   "company": {
-    "name": "Group 1001",
-    "slug": "group-1001"
+    "name": "Harris Computer",
+    "slug": "harris-computer"
   },
-  "role": "Quantitative Analysis Intern",
-  "category": "quant",
-  "apply_url": "https://group1001wd.wd5.myworkdayjobs.com/careers/job/Stamford-Connecticut/Quantitative-Analysis-Intern_R26_0405",
+  "role": "Software Development Intern",
+  "category": "software-engineering",
+  "apply_url": "https://harriscomputer.wd3.myworkdayjobs.com/1/job/Montreal-Quebec/Stagiaire-en-dveloppement-de-logiciels---Software-Development-Intern_R0044820-1",
   "season": "fall",
   "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Stamford",
-      "state": "CT",
-      "country": "USA"
+      "city": "Montreal",
+      "country": "QC"
     }
   ],
   "compensation": {
@@ -25,9 +24,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -43,7 +40,7 @@
   },
   "dates": {
     "posted": "2026-07-23",
-    "discovered": "2026-07-24",
+    "discovered": "2026-08-01",
     "last_verified": "2026-08-01"
   },
   "status": "open",

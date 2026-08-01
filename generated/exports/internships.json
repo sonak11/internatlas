@@ -1,6 +1,6 @@
 {
   "generated": "2026-08-01",
-  "count": 1183,
+  "count": 1187,
   "internships": [
     {
       "schema_version": "1.0",
@@ -527,7 +527,7 @@
         "discovered": "2026-07-23",
         "last_verified": "2026-08-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -6354,7 +6354,7 @@
         "discovered": "2026-07-29",
         "last_verified": "2026-08-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -9192,7 +9192,7 @@
         "discovered": "2026-07-22",
         "last_verified": "2026-08-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -9251,7 +9251,73 @@
         "discovered": "2026-07-22",
         "last_verified": "2026-08-01"
       },
-      "status": "closed",
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "castleton-commodities-international-data-engineering-intern-2027-45251c",
+      "company": {
+        "name": "Castleton Commodities International",
+        "slug": "castleton-commodities-international"
+      },
+      "role": "Data Engineering Intern",
+      "category": "data-engineering",
+      "apply_url": "https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Stamford-CT/Data-Engineering-Internship--Summer-2027-_R1346",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Houston",
+          "state": "TX",
+          "country": "USA"
+        },
+        {
+          "city": "Stamford",
+          "state": "CT",
+          "country": "USA"
+        },
+        {
+          "city": "NYC",
+          "country": "USA"
+        },
+        {
+          "city": "New York City",
+          "state": "NY",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-21",
+        "discovered": "2026-08-01",
+        "last_verified": "2026-08-01"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -9266,25 +9332,14 @@
       },
       "role": "Data Engineering Intern",
       "category": "data-engineering",
-      "apply_url": "https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Stamford-CT/Data-Engineering-Internship--Summer-2027-_R1346",
+      "apply_url": "https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/London/Data-Engineering-Internship--Summer-2027-_R1348",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
       "locations": [
         {
-          "city": "Stamford",
-          "state": "CT",
-          "country": "USA"
-        },
-        {
-          "city": "Houston",
-          "state": "TX",
-          "country": "USA"
-        },
-        {
-          "city": "New York City",
-          "state": "NY",
-          "country": "USA"
+          "city": "London",
+          "country": "UK"
         }
       ],
       "compensation": {
@@ -9311,19 +9366,19 @@
         "resume_keywords": []
       },
       "dates": {
-        "posted": "2026-07-31",
+        "posted": "2026-07-21",
         "discovered": "2026-07-22",
         "last_verified": "2026-08-01"
       },
       "status": "open",
       "tags": [
         "auto-ingested",
-        "src:vanshb03"
+        "src:simplify"
       ]
     },
     {
       "schema_version": "1.0",
-      "id": "castleton-commodities-international-data-science-machine-learning-intern-2027",
+      "id": "castleton-commodities-international-data-science-machine-learning-intern-2027-011a44",
       "company": {
         "name": "Castleton Commodities International",
         "slug": "castleton-commodities-international"
@@ -9336,19 +9391,70 @@
       "work_mode": "onsite",
       "locations": [
         {
-          "city": "Stamford",
-          "state": "CT",
+          "city": "Houston",
+          "state": "TX",
           "country": "USA"
         },
         {
-          "city": "Houston",
-          "state": "TX",
+          "city": "Stamford",
+          "state": "CT",
           "country": "USA"
         },
         {
           "city": "New York City",
           "state": "NY",
           "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-21",
+        "discovered": "2026-08-01",
+        "last_verified": "2026-08-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "castleton-commodities-international-data-science-machine-learning-intern-2027",
+      "company": {
+        "name": "Castleton Commodities International",
+        "slug": "castleton-commodities-international"
+      },
+      "role": "Data Science Machine Learning Intern",
+      "category": "machine-learning",
+      "apply_url": "https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/London-UK/Data-Science-Machine-Learning-Internship--Summer-2027-_R1345",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "London",
+          "country": "UK"
         }
       ],
       "compensation": {
@@ -9376,14 +9482,14 @@
         "resume_keywords": []
       },
       "dates": {
-        "posted": "2026-07-31",
+        "posted": "2026-07-21",
         "discovered": "2026-07-22",
         "last_verified": "2026-08-01"
       },
       "status": "open",
       "tags": [
         "auto-ingested",
-        "src:vanshb03"
+        "src:simplify"
       ]
     },
     {
@@ -9433,7 +9539,7 @@
         "discovered": "2026-07-22",
         "last_verified": "2026-08-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -9454,13 +9560,13 @@
       "work_mode": "onsite",
       "locations": [
         {
-          "city": "Stamford",
-          "state": "CT",
+          "city": "Houston",
+          "state": "TX",
           "country": "USA"
         },
         {
-          "city": "Houston",
-          "state": "TX",
+          "city": "Stamford",
+          "state": "CT",
           "country": "USA"
         }
       ],
@@ -9486,14 +9592,14 @@
         "resume_keywords": []
       },
       "dates": {
-        "posted": "2026-07-31",
+        "posted": "2026-07-21",
         "discovered": "2026-07-22",
         "last_verified": "2026-08-01"
       },
       "status": "open",
       "tags": [
         "auto-ingested",
-        "src:vanshb03"
+        "src:simplify"
       ]
     },
     {
@@ -9769,7 +9875,7 @@
         "discovered": "2026-07-27",
         "last_verified": "2026-08-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -10611,7 +10717,7 @@
         "discovered": "2026-07-28",
         "last_verified": "2026-08-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -10715,7 +10821,7 @@
         "discovered": "2026-07-29",
         "last_verified": "2026-08-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -13548,7 +13654,7 @@
         "discovered": "2026-07-27",
         "last_verified": "2026-08-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -16489,7 +16595,7 @@
         "discovered": "2026-07-28",
         "last_verified": "2026-08-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -16541,7 +16647,7 @@
         "discovered": "2026-07-28",
         "last_verified": "2026-08-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -18810,7 +18916,7 @@
         "discovered": "2026-07-29",
         "last_verified": "2026-08-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -20031,7 +20137,7 @@
         "discovered": "2026-07-23",
         "last_verified": "2026-08-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -20084,7 +20190,7 @@
         "discovered": "2026-07-23",
         "last_verified": "2026-08-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -20137,7 +20243,7 @@
         "discovered": "2026-07-23",
         "last_verified": "2026-08-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -20191,7 +20297,7 @@
         "discovered": "2026-07-23",
         "last_verified": "2026-08-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -22397,7 +22503,7 @@
         "discovered": "2026-07-24",
         "last_verified": "2026-08-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -22550,6 +22656,57 @@
       "dates": {
         "posted": "2026-06-24",
         "discovered": "2026-07-17",
+        "last_verified": "2026-08-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "harris-computer-software-development-intern-2026",
+      "company": {
+        "name": "Harris Computer",
+        "slug": "harris-computer"
+      },
+      "role": "Software Development Intern",
+      "category": "software-engineering",
+      "apply_url": "https://harriscomputer.wd3.myworkdayjobs.com/1/job/Montreal-Quebec/Stagiaire-en-dveloppement-de-logiciels---Software-Development-Intern_R0044820-1",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Montreal",
+          "country": "QC"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-23",
+        "discovered": "2026-08-01",
         "last_verified": "2026-08-01"
       },
       "status": "open",
@@ -29718,7 +29875,7 @@
         "discovered": "2026-07-28",
         "last_verified": "2026-08-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -30749,7 +30906,7 @@
         "discovered": "2026-07-24",
         "last_verified": "2026-08-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -37140,7 +37297,7 @@
         "discovered": "2026-07-24",
         "last_verified": "2026-08-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -39089,7 +39246,7 @@
         "discovered": "2026-07-23",
         "last_verified": "2026-08-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -42791,7 +42948,7 @@
         "discovered": "2026-07-24",
         "last_verified": "2026-08-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -44053,7 +44210,7 @@
         "discovered": "2026-07-22",
         "last_verified": "2026-08-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -44163,7 +44320,7 @@
         "discovered": "2026-07-22",
         "last_verified": "2026-08-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -44218,7 +44375,7 @@
         "discovered": "2026-07-22",
         "last_verified": "2026-08-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -45585,7 +45742,7 @@
         "discovered": "2026-07-24",
         "last_verified": "2026-08-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -49652,7 +49809,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -59952,6 +60109,57 @@
     },
     {
       "schema_version": "1.0",
+      "id": "trend-micro-malware-research-intern-2026",
+      "company": {
+        "name": "Trend Micro",
+        "slug": "trend-micro"
+      },
+      "role": "Malware Research Intern",
+      "category": "research",
+      "apply_url": "https://trendmicro.wd3.myworkdayjobs.com/External/job/Toronto/Malware-Research-Intern_R0009997",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Toronto",
+          "country": "ON"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-22",
+        "discovered": "2026-08-01",
+        "last_verified": "2026-08-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "trillium-equity-trader-intern-2027-c03440",
       "company": {
         "name": "Trillium",
@@ -62619,7 +62827,7 @@
         "discovered": "2026-07-23",
         "last_verified": "2026-08-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -62671,7 +62879,7 @@
         "discovered": "2026-07-23",
         "last_verified": "2026-08-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"

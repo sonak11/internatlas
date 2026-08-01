@@ -1,20 +1,34 @@
 {
   "schema_version": "1.0",
-  "id": "group-1001-quantitative-analysis-intern-2026",
+  "id": "castleton-commodities-international-data-engineering-intern-2027-45251c",
   "company": {
-    "name": "Group 1001",
-    "slug": "group-1001"
+    "name": "Castleton Commodities International",
+    "slug": "castleton-commodities-international"
   },
-  "role": "Quantitative Analysis Intern",
-  "category": "quant",
-  "apply_url": "https://group1001wd.wd5.myworkdayjobs.com/careers/job/Stamford-Connecticut/Quantitative-Analysis-Intern_R26_0405",
-  "season": "fall",
-  "year": 2026,
+  "role": "Data Engineering Intern",
+  "category": "data-engineering",
+  "apply_url": "https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Stamford-CT/Data-Engineering-Internship--Summer-2027-_R1346",
+  "season": "summer",
+  "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
+      "city": "Houston",
+      "state": "TX",
+      "country": "USA"
+    },
+    {
       "city": "Stamford",
       "state": "CT",
+      "country": "USA"
+    },
+    {
+      "city": "NYC",
+      "country": "USA"
+    },
+    {
+      "city": "New York City",
+      "state": "NY",
       "country": "USA"
     }
   ],
@@ -25,9 +39,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -42,8 +54,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-23",
-    "discovered": "2026-07-24",
+    "posted": "2026-07-21",
+    "discovered": "2026-08-01",
     "last_verified": "2026-08-01"
   },
   "status": "open",

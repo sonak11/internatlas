@@ -7,25 +7,14 @@
   },
   "role": "Data Science Machine Learning Intern",
   "category": "machine-learning",
-  "apply_url": "https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Stamford-CT/Data-Science-Machine-Learning-Internship--Summer-2027-_R1344",
+  "apply_url": "https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/London-UK/Data-Science-Machine-Learning-Internship--Summer-2027-_R1345",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Stamford",
-      "state": "CT",
-      "country": "USA"
-    },
-    {
-      "city": "Houston",
-      "state": "TX",
-      "country": "USA"
-    },
-    {
-      "city": "New York City",
-      "state": "NY",
-      "country": "USA"
+      "city": "London",
+      "country": "UK"
     }
   ],
   "compensation": {
@@ -53,13 +42,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-31",
+    "posted": "2026-07-21",
     "discovered": "2026-07-22",
     "last_verified": "2026-08-01"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:vanshb03"
+    "src:simplify"
   ]
 }
