@@ -33,7 +33,7 @@ _Generated 2026-08-01_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 582 | `████████████` |
+| software-engineering | 587 | `█████████████` |
 | quant | 126 | `███` |
 | ai | 115 | `██` |
 | machine-learning | 69 | `█` |
@@ -118,8 +118,6 @@ _Generated 2026-08-01_
 - ByteDance — Research Scientist Intern - AI Infrastructure
 - CACI — Software Engineering Intern
 - Cadence Design Systems — Characterization and Support Intern
-- Cadence Design Systems — Product Engineering Intern - Simulation and Verification
-- Cadence Design Systems — Product Engineering Intern - Simulation and Verification
 - Cadence Design Systems — SSG Design Engineering Intern
 - Capital One — Data Science Intern
 - Capital One — Full Stack Software Engineer Intern
@@ -140,7 +138,6 @@ _Generated 2026-08-01_
 - Chevron Corporation — Supply & Trading TRIP Program Intern
 - Ciena — Embedded Software Engineer Intern
 - Ciena — Embedded Software Engineer Intern
-- Ciena — Optical Modem Hardware Intern
 - Ciena — Photonic Hardware Intern
 - Ciena — Routing/IP Software Developer Intern
 - Ciena — Software Engineer and Tools Developer Intern
@@ -171,7 +168,6 @@ _Generated 2026-08-01_
 - Copart — Software Engineer Intern
 - Copart — Technology Product Analyst Intern
 - Copart — Technology Product Analyst Intern
-- Cotiviti — Generative AI Research Engineer Intern
 - CTGT — Software Engineer Intern
 - CuspAI — Chemistry Intern - MLFF Distillation & GCMC Integration
 - Cybernetic Labs — Forward Deployed Engineer Intern
@@ -227,7 +223,6 @@ _Generated 2026-08-01_
 - Generac — Engineering Intern
 - Generac — Software Engineer Intern
 - General Motors — Research and Development Intern - Research & Development
-- General Motors — Research and Development Intern - Research & Development: AI/ML
 - GeoComply — Full Stack Developer Intern
 - GeoComply — Product Operations Intern
 - Global Infrastructure — Alternative Delivery Project Analytics Intern
@@ -294,8 +289,6 @@ _Generated 2026-08-01_
 - Meta — Research Scientist Intern - 3D Vision & World Simulation
 - Meta — Research Scientist Intern - Monetization Computer Vision
 - Meta — Research Scientist Intern PhD - Applied Research
-- Meta — Research Scientist Intern - Photorealistic Telepresence
-- Meta — Research Scientist Intern - State Estimation for Dexterous Manipulation
 - Microchip Technology — Applications Engineering Intern
 - Mistral AI — Applied Scientist / Research Engineer Intern
 - Mistral AI — Applied Scientist / Research Engineer Intern
@@ -317,7 +310,6 @@ _Generated 2026-08-01_
 - NationGraph — Software Engineer Intern
 - Navy Federal — Year Round Intern - Business Intelligence Analyst
 - NeoSigma — Member of Technical Staff Intern
-- Netflix — AI/ML Scientist Intern - AIMS AI Foundations
 - Neuralink — R&D Materials Engineer Intern
 - NewsBreak — Growth Engineer Intern - Growth Engineering
 - Nextiva — Forward Deployed Engineer Intern - AI Implementation
@@ -356,7 +348,6 @@ _Generated 2026-08-01_
 - Pennsylvania State University — Research and Development Engineer Intern
 - Pennsylvania State University — Research and Development Engineer Intern
 - Pennsylvania State University — Research Engineering Intern
-- Persistent Systems — Embedded Software Engineer Intern
 - Persistent Systems — Hardware Engineer Intern
 - Phlair — Working Student Intern - Control Team - Systems & Data Infrastructure
 - Phonely — Software Engineer Intern - Multiple Teams
@@ -417,20 +408,14 @@ _Generated 2026-08-01_
 - SpreeAI — Software Engineer Intern
 - SS&C — Healthcare AI & Automation Intern
 - State of North Carolina — Geographic Information Systems Intern - GIS
-- Susquehanna International Group (SIG) — Quantitative Research Intern
 - Susquehanna International Group (SIG) — Quantitative Systematic Trading Intern
-- Susquehanna International Group (SIG) — Quantitative Systematic Trading Intern
-- Susquehanna International Group (SIG) — Quantitative Systematic Trading Intern - PhD
-- Susquehanna International Group (SIG) — Quantitative Trader Intern
 - Susquehanna International Group (SIG) — Quantitative Trading Internship
 - Susquehanna International Group (SIG) — Trading Operations Analyst Intern
-- Synchrony Financial — Technology Intern
 - T. Rowe Price — Global Product Intern
 - T. Rowe Price — Global Trading Intern
 - T. Rowe Price — Quantitative Equity Investing Intern
 - T. Rowe Price — Technology and Data Intern
 - Tencent — AI Agent Research & Application Intern
-- Tencent — Data Product Intern
 - Tencent — Research Intern
 - Tencent — Research Intern
 - Tencent — Research Intern - Video World Models - Research & ML Systems

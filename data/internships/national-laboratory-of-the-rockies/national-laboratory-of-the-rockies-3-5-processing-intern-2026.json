@@ -1,20 +1,21 @@
 {
   "schema_version": "1.0",
-  "id": "tencent-data-product-intern-2026",
+  "id": "national-laboratory-of-the-rockies-3-5-processing-intern-2026",
   "company": {
-    "name": "Tencent",
-    "slug": "tencent"
+    "name": "National Laboratory of the Rockies",
+    "slug": "national-laboratory-of-the-rockies"
   },
-  "role": "Data Product Intern",
+  "role": "3-5 Processing Intern",
   "category": "software-engineering",
-  "apply_url": "https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/United-Kingdom-London/Data-Product-Intern_R107644",
+  "apply_url": "https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/III-V-Processing-Intern_R14383",
   "season": "fall",
   "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "London",
-      "country": "UK"
+      "city": "Golden",
+      "state": "CO",
+      "country": "USA"
     }
   ],
   "compensation": {
@@ -25,7 +26,8 @@
   "eligibility": {
     "graduation_years": [],
     "degree_levels": [
-      "masters"
+      "masters",
+      "phd"
     ],
     "citizenship_required": false,
     "security_clearance_required": false,
@@ -41,8 +43,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-06-27",
-    "discovered": "2026-07-21",
+    "posted": "2026-07-04",
+    "discovered": "2026-08-01",
     "last_verified": "2026-08-01"
   },
   "status": "open",

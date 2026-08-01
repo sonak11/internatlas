@@ -1,20 +1,30 @@
 {
   "schema_version": "1.0",
-  "id": "tencent-data-product-intern-2026",
+  "id": "synchrony-financial-software-engineer-intern-2026",
   "company": {
-    "name": "Tencent",
-    "slug": "tencent"
+    "name": "Synchrony Financial",
+    "slug": "synchrony-financial"
   },
-  "role": "Data Product Intern",
+  "role": "Software Engineer Intern",
   "category": "software-engineering",
-  "apply_url": "https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/United-Kingdom-London/Data-Product-Intern_R107644",
+  "apply_url": "https://synchronyfinancial.wd5.myworkdayjobs.com/University/job/Canton-Engagement-Hub-OH/Software-Engineer-Intern---Fall-2026_2601751-1",
   "season": "fall",
   "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "London",
-      "country": "UK"
+      "city": "Sharonville",
+      "state": "OH",
+      "country": "USA"
+    },
+    {
+      "city": "Canton",
+      "state": "OH",
+      "country": "USA"
+    },
+    {
+      "city": "Ohio",
+      "country": "USA"
     }
   ],
   "compensation": {
@@ -24,9 +34,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -41,8 +49,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-06-27",
-    "discovered": "2026-07-21",
+    "posted": "2026-06-12",
+    "discovered": "2026-08-01",
     "last_verified": "2026-08-01"
   },
   "status": "open",

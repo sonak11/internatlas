@@ -1,13 +1,13 @@
 {
   "schema_version": "1.0",
-  "id": "tencent-data-product-intern-2026",
+  "id": "tencent-data-product-intern-2026-705f3e",
   "company": {
     "name": "Tencent",
     "slug": "tencent"
   },
   "role": "Data Product Intern",
   "category": "software-engineering",
-  "apply_url": "https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/United-Kingdom-London/Data-Product-Intern_R107644",
+  "apply_url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/United-Kingdom-London/Data-Product-Intern_R107644-1",
   "season": "fall",
   "year": 2026,
   "work_mode": "onsite",
@@ -24,9 +24,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -41,8 +39,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-06-27",
-    "discovered": "2026-07-21",
+    "posted": "2026-06-22",
+    "discovered": "2026-08-01",
     "last_verified": "2026-08-01"
   },
   "status": "open",
