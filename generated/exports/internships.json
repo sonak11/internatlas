@@ -1,6 +1,6 @@
 {
   "generated": "2026-08-01",
-  "count": 1159,
+  "count": 1165,
   "internships": [
     {
       "schema_version": "1.0",
@@ -2665,6 +2665,110 @@
     },
     {
       "schema_version": "1.0",
+      "id": "american-enterprise-institute-intern-2026",
+      "company": {
+        "name": "American Enterprise Institute",
+        "slug": "american-enterprise-institute"
+      },
+      "role": "Intern",
+      "category": "software-engineering",
+      "apply_url": "https://internships-aei.icims.com/jobs/2616/job?mobile=true&needsRedirect=false",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Washington",
+          "state": "DC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-05-01",
+        "discovered": "2026-08-01",
+        "last_verified": "2026-08-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "american-enterprise-institute-intern-economic-policy-2026",
+      "company": {
+        "name": "American Enterprise Institute",
+        "slug": "american-enterprise-institute"
+      },
+      "role": "Intern: Economic Policy",
+      "category": "software-engineering",
+      "apply_url": "https://internships-aei.icims.com/jobs/2618/job?mobile=true&needsRedirect=false",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Washington",
+          "state": "DC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-05-01",
+        "discovered": "2026-08-01",
+        "last_verified": "2026-08-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "amgen-software-engineer-intern-2026",
       "company": {
         "name": "Amgen",
@@ -4453,7 +4557,7 @@
         "discovered": "2026-07-31",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -4666,6 +4770,65 @@
         "last_verified": "2026-08-01"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "asm-global-digital-workplace-experience-intern-2026",
+      "company": {
+        "name": "ASM Global",
+        "slug": "asm-global"
+      },
+      "role": "Digital Workplace Experience Intern",
+      "category": "software-engineering",
+      "apply_url": "https://asmglobal.wd1.myworkdayjobs.com/careers/job/West-Conshohocken-PA/Digital-Workplace-Experience-Intern_R100122151",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Frisco",
+          "state": "TX",
+          "country": "USA"
+        },
+        {
+          "city": "West Conshohocken",
+          "state": "PA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-06-13",
+        "discovered": "2026-08-01",
+        "last_verified": "2026-08-01"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -8182,7 +8345,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -8236,7 +8399,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -8290,7 +8453,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -8923,7 +9086,7 @@
         "discovered": "2026-07-22",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -8990,7 +9153,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "castleton-commodities-international-data-engineering-intern-2027-45251c",
+      "id": "castleton-commodities-international-data-engineering-intern-2027",
       "company": {
         "name": "Castleton Commodities International",
         "slug": "castleton-commodities-international"
@@ -9003,74 +9166,19 @@
       "work_mode": "onsite",
       "locations": [
         {
-          "city": "Houston",
-          "state": "TX",
-          "country": "USA"
-        },
-        {
           "city": "Stamford",
           "state": "CT",
           "country": "USA"
         },
         {
-          "city": "NYC",
+          "city": "Houston",
+          "state": "TX",
           "country": "USA"
         },
         {
           "city": "New York City",
           "state": "NY",
           "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-07-21",
-        "discovered": "2026-07-22",
-        "last_verified": "2026-08-01"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "castleton-commodities-international-data-engineering-intern-2027",
-      "company": {
-        "name": "Castleton Commodities International",
-        "slug": "castleton-commodities-international"
-      },
-      "role": "Data Engineering Intern",
-      "category": "data-engineering",
-      "apply_url": "https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/London/Data-Engineering-Internship--Summer-2027-_R1348",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "London",
-          "country": "UK"
         }
       ],
       "compensation": {
@@ -9097,19 +9205,19 @@
         "resume_keywords": []
       },
       "dates": {
-        "posted": "2026-07-21",
+        "posted": "2026-07-31",
         "discovered": "2026-07-22",
         "last_verified": "2026-08-01"
       },
       "status": "open",
       "tags": [
         "auto-ingested",
-        "src:simplify"
+        "src:vanshb03"
       ]
     },
     {
       "schema_version": "1.0",
-      "id": "castleton-commodities-international-data-science-machine-learning-intern-2027-011a44",
+      "id": "castleton-commodities-international-data-science-machine-learning-intern-2027",
       "company": {
         "name": "Castleton Commodities International",
         "slug": "castleton-commodities-international"
@@ -9174,60 +9282,6 @@
     },
     {
       "schema_version": "1.0",
-      "id": "castleton-commodities-international-data-science-machine-learning-intern-2027",
-      "company": {
-        "name": "Castleton Commodities International",
-        "slug": "castleton-commodities-international"
-      },
-      "role": "Data Science Machine Learning Intern",
-      "category": "machine-learning",
-      "apply_url": "https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/London-UK/Data-Science-Machine-Learning-Internship--Summer-2027-_R1345",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "London",
-          "country": "UK"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [
-          "masters",
-          "phd"
-        ],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-07-21",
-        "discovered": "2026-07-22",
-        "last_verified": "2026-08-01"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
       "id": "castleton-commodities-international-front-office-software-engineer-intern-2027",
       "company": {
         "name": "Castleton Commodities International",
@@ -9273,7 +9327,7 @@
         "discovered": "2026-07-22",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -9589,7 +9643,7 @@
         "discovered": "2026-07-27",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -9909,7 +9963,7 @@
         "discovered": "2026-07-20",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -10225,7 +10279,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -10535,7 +10589,7 @@
         "discovered": "2026-07-29",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -10589,7 +10643,7 @@
         "discovered": "2026-07-20",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -11526,7 +11580,7 @@
         "discovered": "2026-08-01",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -12672,7 +12726,7 @@
         "discovered": "2026-07-21",
         "last_verified": "2026-08-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -12951,7 +13005,7 @@
         "discovered": "2026-07-31",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -13265,7 +13319,7 @@
         "discovered": "2026-07-27",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -13423,7 +13477,7 @@
         "discovered": "2026-07-31",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -13637,7 +13691,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -14057,7 +14111,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -14108,7 +14162,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -15472,7 +15526,7 @@
         "discovered": "2026-07-28",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -16206,7 +16260,7 @@
         "discovered": "2026-07-28",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -16258,7 +16312,7 @@
         "discovered": "2026-07-28",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -16513,7 +16567,7 @@
         "discovered": "2026-07-18",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -16720,6 +16774,60 @@
         "last_verified": "2026-07-23"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "etched-electrical-platform-intern-2026",
+      "company": {
+        "name": "Etched",
+        "slug": "etched"
+      },
+      "role": "Electrical Platform Intern",
+      "category": "software-engineering",
+      "apply_url": "https://jobs.ashbyhq.com/Etched/904ddf46-55fc-4a8f-8b49-f32cfe88116a/application",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-02-07",
+        "discovered": "2026-08-01",
+        "last_verified": "2026-08-01"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -17193,7 +17301,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -17672,7 +17780,7 @@
         "discovered": "2026-07-31",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -19694,7 +19802,7 @@
         "discovered": "2026-07-23",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -19800,7 +19908,7 @@
         "discovered": "2026-07-23",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -22060,7 +22168,7 @@
         "discovered": "2026-07-24",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -22387,7 +22495,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -29331,7 +29439,7 @@
         "discovered": "2026-07-21",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -29999,7 +30107,7 @@
         "discovered": "2026-07-21",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -30205,7 +30313,7 @@
         "discovered": "2026-07-24",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -30309,7 +30417,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -30359,6 +30467,58 @@
       "dates": {
         "posted": "2026-05-16",
         "discovered": "2026-07-17",
+        "last_verified": "2026-08-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "marmon-holdings-digital-production-engineer-intern-co-op-2026",
+      "company": {
+        "name": "Marmon Holdings",
+        "slug": "marmon-holdings"
+      },
+      "role": "Digital Production Engineer Intern Co-op",
+      "category": "software-engineering",
+      "apply_url": "https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Milwaukee-WI/Digital-Production-Engineering-Intern-OR-Student-Co-Op_JR0000037451-2",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Milwaukee",
+          "state": "WI",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-05-16",
+        "discovered": "2026-08-01",
         "last_verified": "2026-08-01"
       },
       "status": "open",
@@ -30832,7 +30992,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -32334,6 +32494,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "microchip-technology-equipment-engineering-technician-intern-wet-process-2026",
+      "company": {
+        "name": "Microchip Technology",
+        "slug": "microchip-technology"
+      },
+      "role": "Equipment Engineering Technician Intern - Wet Process",
+      "category": "software-engineering",
+      "apply_url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/OR---Gresham/Intern--Equipment-Engineering-Technician--Wet-Process-_R2124-25",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Gresham",
+          "state": "OR",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-13",
+        "discovered": "2026-08-01",
+        "last_verified": "2026-08-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "microchip-technology-power-analog-and-mixed-signal-ic-product-engineer-intern-pro-2026",
       "company": {
         "name": "Microchip Technology",
@@ -32807,7 +33019,7 @@
         "discovered": "2026-07-29",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -33286,7 +33498,7 @@
         "discovered": "2026-07-21",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -33715,7 +33927,7 @@
         "discovered": "2026-07-20",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -33770,7 +33982,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -34246,7 +34458,7 @@
         "discovered": "2026-07-24",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -34355,7 +34567,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -38439,7 +38651,7 @@
         "discovered": "2026-07-21",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -40274,6 +40486,57 @@
     },
     {
       "schema_version": "1.0",
+      "id": "pennsylvania-state-university-electronic-materials-and-devices-engineer-intern-electronic-2026",
+      "company": {
+        "name": "Pennsylvania State University",
+        "slug": "pennsylvania-state-university"
+      },
+      "role": "Electronic Materials and Devices Engineer Intern - Electronic Materials and Devices",
+      "category": "software-engineering",
+      "apply_url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Electronic-Materials-and-Devices-Engineering-Intern_REQ_0000053210",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "University Park",
+          "country": "State College"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-06-20",
+        "discovered": "2026-08-01",
+        "last_verified": "2026-08-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "pennsylvania-state-university-r-d-engineer-intern-2026",
       "company": {
         "name": "Pennsylvania State University",
@@ -40751,7 +41014,7 @@
         "discovered": "2026-07-21",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -40905,7 +41168,7 @@
         "discovered": "2026-07-21",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -41783,7 +42046,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -42550,7 +42813,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -42701,7 +42964,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -42755,7 +43018,7 @@
         "discovered": "2026-07-29",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -43200,7 +43463,7 @@
         "discovered": "2026-07-22",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -44732,7 +44995,7 @@
         "discovered": "2026-07-24",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -45099,7 +45362,7 @@
         "discovered": "2026-07-30",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -49336,7 +49599,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -49720,7 +49983,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -49924,7 +50187,7 @@
         "discovered": "2026-07-30",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -50030,7 +50293,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -56846,6 +57109,59 @@
     },
     {
       "schema_version": "1.0",
+      "id": "thomson-reuters-research-scientist-intern-2026",
+      "company": {
+        "name": "Thomson Reuters",
+        "slug": "thomson-reuters"
+      },
+      "role": "Research Scientist Intern",
+      "category": "research",
+      "apply_url": "https://thomsonreuters.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/United-Kingdom-London/Research-Scientist-Intern_JREQ198484",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "London",
+          "country": "UK"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-02-18",
+        "discovered": "2026-08-01",
+        "last_verified": "2026-08-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "tiktok-ai-product-operations-intern-2026",
       "company": {
         "name": "TikTok",
@@ -59199,7 +59515,7 @@
         "discovered": "2026-07-31",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -59251,7 +59567,7 @@
         "discovered": "2026-07-22",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -59519,7 +59835,7 @@
         "discovered": "2026-07-21",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -61126,7 +61442,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -61146,10 +61462,6 @@
       "year": 2027,
       "work_mode": "onsite",
       "locations": [
-        {
-          "city": "NYC",
-          "country": "USA"
-        },
         {
           "city": "New York",
           "state": "NY",
@@ -61180,14 +61492,14 @@
         "resume_keywords": []
       },
       "dates": {
-        "posted": "2026-06-10",
+        "posted": "2026-07-24",
         "discovered": "2026-07-17",
         "last_verified": "2026-08-01"
       },
       "status": "open",
       "tags": [
         "auto-ingested",
-        "src:simplify"
+        "src:vanshb03"
       ]
     },
     {
@@ -61289,7 +61601,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -61340,7 +61652,7 @@
         "discovered": "2026-07-23",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -61392,7 +61704,7 @@
         "discovered": "2026-07-23",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -62231,7 +62543,7 @@
         "discovered": "2026-08-01",
         "last_verified": "2026-08-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"

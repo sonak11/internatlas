@@ -13,10 +13,6 @@
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "NYC",
-      "country": "USA"
-    },
-    {
       "city": "New York",
       "state": "NY",
       "country": "USA"
@@ -46,13 +42,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-06-10",
+    "posted": "2026-07-24",
     "discovered": "2026-07-17",
     "last_verified": "2026-08-01"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }

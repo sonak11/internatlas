@@ -6,7 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
-| Exclusive Networks | [Data Quality & Business Data Analyst Intern](https://exclusivenetworks.wd103.myworkdayjobs.com/Exclusive-Networks-Career/job/Son/Data-Quality---Business-Data-Analyst-Intern_JR2326-1) | Hermiston, OR | Onsite | 2026-07-31 | Rolling | 🟢 Open | ❔ |
+| Exclusive Networks | [Data Quality & Business Data Analyst Intern](https://exclusivenetworks.wd103.myworkdayjobs.com/Exclusive-Networks-Career/job/Son/Data-Quality---Business-Data-Analyst-Intern_JR2326-1) | Hermiston, OR | Onsite | 2026-07-31 | Rolling | 🔴 Closed | ❔ |
 
 ## Related
 
