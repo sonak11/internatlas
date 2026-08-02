@@ -33,9 +33,9 @@ _Generated 2026-08-02_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 601 | `█████████████` |
+| software-engineering | 602 | `█████████████` |
 | quant | 130 | `███` |
-| ai | 117 | `██` |
+| ai | 118 | `██` |
 | machine-learning | 71 | `█` |
 | research | 62 | `█` |
 | hardware | 56 | `█` |
@@ -49,8 +49,10 @@ _Generated 2026-08-02_
 
 ## Newest listings
 
+- 2026-08-02 — **Microsoft**: [Software Engineer Intern](https://apply.careers.microsoft.com/careers/job/1970393556951951)
 - 2026-08-02 — **Two Sigma**: [AI Research Scientist Intern - 2027 Summer](https://twosigma.avature.net/careers/JobDetail/14096)
 - 2026-08-02 — **Two Sigma**: [Quantitative Researcher Intern](https://twosigma.avature.net/careers/JobDetail/13945)
+- 2026-08-02 — **Yotta Labs**: [Research Engineer Intern - AI Systems](https://jobs.ashbyhq.com/yotta/09821a51-fbe6-42a7-a566-0d2b5d40fae3/application?embed=true)
 - 2026-08-01 — **Citadel**: [Sector Data Analyst Intern](https://www.citadel.com/careers/details/sector-data-analyst-intern-europe/)
 - 2026-08-01 — **Clyde Companies**: [Business Intelligence Intern](https://careers.clydeinc.com/jobs/22659?icims=1)
 - 2026-08-01 — **ConocoPhillips**: [GIS Intern](https://conocophillips.wd1.myworkdayjobs.com/External/job/Bartlesville-OK/GIS-Intern--Corporate-Land-2027_REQ-006208)
@@ -67,8 +69,6 @@ _Generated 2026-08-02_
 - 2026-07-31 — **Cirrus Logic**: [Embedded Software Test Engineer Intern](https://jobs.eu.lever.co/cirrus/2926421c-691a-434a-ae59-c828e7fcbf5b)
 - 2026-07-31 — **City of Austin**: [Business Intelligence Intern - Business Intelligence](https://austintexas.wd5.myworkdayjobs.com/COA_Careers/job/Fire-Headquarters/Business-Intelligence-Internship_JR104636)
 - 2026-07-31 — **City of Austin**: [Research Analyst Intern](https://austintexas.wd5.myworkdayjobs.com/COA_Careers/job/Fire-Headquarters/Research-Analyst-Internship_JR104634)
-- 2026-07-31 — **Cloudflare**: [Customer Advocacy Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8093127?gh_jid=8093127)
-- 2026-07-31 — **DRW**: [AI/ML Research Intern](https://www.drw.com/work-at-drw/listings/aiml-research-intern-3466679)
 
 ## Recently closed
 

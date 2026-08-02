@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 💻 Software Engineering Internships
 
-**601** tracked · **449** open now
+**602** tracked · **450** open now
 
 ## Current openings
 
@@ -233,6 +233,7 @@
 | [Melius](generated/companies/melius.md) | [Software Engineer Intern](https://jobs.ashbyhq.com/melius/b61f063a-4f94-4e50-a4ef-05aaab552280/application?embed=true) | NYC | Onsite | 2026-07-31 | Rolling | 🟢 Open | ❔ |
 | [Microchip Technology](generated/companies/microchip-technology.md) | [Equipment Engineering Technician Intern - Wet Process](https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/OR---Gresham/Intern--Equipment-Engineering-Technician--Wet-Process-_R2124-25) | Gresham, OR | Onsite | 2026-07-13 | Rolling | 🟢 Open | ❔ |
 | [Microchip Technology](generated/companies/microchip-technology.md) | [Power, Analog and Mixed-Signal IC Product Engineer Intern - Product Engineering](https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/AZ---Chandler/Intern--Engineering--Product-Engineering-_R3151-26-1) | Chandler, AZ | Onsite | 2026-07-31 | Rolling | 🟢 Open | ❔ |
+| [Microsoft](generated/companies/microsoft.md) | [Software Engineer Intern](https://apply.careers.microsoft.com/careers/job/1970393556951951) | Vancouver | Onsite | 2026-08-02 | Rolling | 🟢 Open | ❔ |
 | [Mindsmith](generated/companies/mindsmith.md) | [Software Engineering Intern](https://app.dover.com/apply/mindsmith/e0ca8149-6811-4de9-ba38-65a0244a2b7e) | Lehi, UT | Onsite | 2026-06-24 | Rolling | 🟢 Open | ❔ |
 | [Mobius Renewables](generated/companies/mobius-renewables.md) | [Software Engineer Intern](https://ats.rippling.com/greengas/jobs/b2938290-cc66-4f54-9888-bbe286c1d9b6) | Houston, TX | Onsite | 2026-07-21 | Rolling | 🟢 Open | ❔ |
 | [Mobius Renewables](generated/companies/mobius-renewables.md) | [Software Engineer Intern](https://ats.rippling.com/en-GB/greengas/jobs/b2938290-cc66-4f54-9888-bbe286c1d9b6) | Houston, TX | Onsite | 2026-07-24 | Rolling | 🟢 Open | ❌ |
@@ -809,6 +810,7 @@
 - Markem-Imaje (1)
 - Mathtech (1)
 - Medtronic (1)
+- Microsoft (1)
 - Mindsmith (1)
 - Nash (1)
 - Naïve (1)

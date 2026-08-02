@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🤖 AI Internships
 
-**117** tracked · **89** open now
+**118** tracked · **90** open now
 
 ## Current openings
 
@@ -96,6 +96,7 @@
 | [Xsolla](generated/companies/xsolla.md) | [AI-First Engineer Intern](https://jobs.lever.co/xsolla/7a8f8d4c-10fc-4c64-bc9d-167ba1e367c4/apply) | LA | Onsite | 2026-07-20 | Rolling | 🟢 Open | ❔ |
 | [Xsolla](generated/companies/xsolla.md) | [AI-First Engineer Intern](https://jobs.lever.co/xsolla/5d5fd6b3-d82f-437a-b251-abf4674ac874/apply) | Raleigh, NC | Onsite | 2026-07-10 | Rolling | 🟢 Open | ❔ |
 | [Xsolla](generated/companies/xsolla.md) | [AI-First Engineer Intern](https://jobs.lever.co/xsolla/1c0e5375-2352-4a2c-a816-48ddebbdd3d6/apply) | LA | Onsite | 2026-07-10 | Rolling | 🟢 Open | ❔ |
+| [Yotta Labs](generated/companies/yotta-labs.md) | [Research Engineer Intern - AI Systems](https://jobs.ashbyhq.com/yotta/09821a51-fbe6-42a7-a566-0d2b5d40fae3/application?embed=true) | Remote | Remote | 2026-08-02 | Rolling | 🟢 Open | ❔ |
 | [Zurich Insurance](generated/companies/zurich-insurance.md) | [Data Analytics & AI Internship/Co-op - Data Analytics & AI](https://www.careers.zurich.com/job/Toronto-Fall-2026-InternshipCo-op-Data-Analytics-&-AI-ON/1367953057/?ats=successfactors) | Toronto | Onsite | 2026-07-28 | Rolling | 🟢 Open | ❔ |
 | [Altera Corporation](generated/companies/altera-corporation.md) | [AI Software Development Engineer Intern](https://altera.wd1.myworkdayjobs.com/altera/job/San-Jose-California-United-States/AI-Software-Development-Engineer---Intern_R02707) | San Jose, CA | Onsite | 2026-07-17 | Rolling | 🔴 Closed | ❔ |
 | [American Bureau of Shipping](generated/companies/american-bureau-of-shipping.md) | [AI Software Engineering Intern](https://hbbq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4564) | St. John's | Onsite | 2026-07-06 | Rolling | 🔴 Closed | ❔ |
@@ -184,6 +185,7 @@
 - Veeam Software (1)
 - Veeda AI (1)
 - Workato (1)
+- Yotta Labs (1)
 - Zurich Insurance (1)
 - Altera Corporation (1)
 - American Bureau of Shipping (1)

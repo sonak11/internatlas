@@ -139,6 +139,7 @@
 | [Workato](generated/companies/workato.md) | [Intern AI Engineering](https://job-boards.greenhouse.io/workato/jobs/8492935002) | SF | Onsite | 2026-04-10 | Rolling | 🟢 Open | ❔ |
 | [X Development](generated/companies/x-development.md) | [PhD Residency Intern - Operations Research and Optimization](https://x.company/careers/8511395002?gh_jid=8511395002) | Mountain View, CA | Onsite | 2026-04-20 | Rolling | 🟢 Open | ❔ |
 | [X Development](generated/companies/x-development.md) | [PhD Residency Intern - Physical ML & Hardware-in-the-Loop - Future of Compute](https://x.company/careers/8616839002?gh_jid=8616839002) | Mountain View, CA | Onsite | 2026-07-02 | Rolling | 🟢 Open | ❔ |
+| [Yotta Labs](generated/companies/yotta-labs.md) | [Research Engineer Intern - AI Systems](https://jobs.ashbyhq.com/yotta/09821a51-fbe6-42a7-a566-0d2b5d40fae3/application?embed=true) | Remote | Remote | 2026-08-02 | Rolling | 🟢 Open | ❔ |
 | [Zipline](generated/companies/zipline.md) | [Enterprise Systems Software Engineer Intern](https://www.zipline.com/careers?gh_jid=7767667003) | San Bruno, CA | Onsite | 2026-06-10 | Rolling | 🟢 Open | ❔ |
 | [Zipline](generated/companies/zipline.md) | [Maps Intern](https://www.zipline.com/open-roles?gh_jid=7787868003) | San Bruno, CA | Onsite | 2026-06-27 | Rolling | 🟢 Open | ❔ |
 | [Zipline](generated/companies/zipline.md) | [Software Engineer Intern](https://www.zipline.com/open-roles?gh_jid=7787509003) | San Bruno, CA | Onsite | 2026-06-27 | Rolling | 🟢 Open | ❔ |

@@ -8,7 +8,7 @@
 
 No dead links, no generic careers pages. Just current openings, newest first, with the date each one was posted.
 
-![summer 2027](https://img.shields.io/badge/summer%202027-359-blue?style=for-the-badge) ![open now](https://img.shields.io/badge/open%20now-309-brightgreen?style=for-the-badge) ![companies](https://img.shields.io/badge/companies-472-purple?style=for-the-badge) ![visa sponsors](https://img.shields.io/badge/visa%20sponsors-19-orange?style=for-the-badge) ![remote roles](https://img.shields.io/badge/remote%20roles-31-teal?style=for-the-badge) ![sync](https://img.shields.io/badge/sync-hourly-success?style=for-the-badge) ![updated](https://img.shields.io/badge/updated-2026--08--02%206:00%20PM%20EDT-lightgrey?style=for-the-badge)
+![summer 2027](https://img.shields.io/badge/summer%202027-359-blue?style=for-the-badge) ![open now](https://img.shields.io/badge/open%20now-309-brightgreen?style=for-the-badge) ![companies](https://img.shields.io/badge/companies-474-purple?style=for-the-badge) ![visa sponsors](https://img.shields.io/badge/visa%20sponsors-19-orange?style=for-the-badge) ![remote roles](https://img.shields.io/badge/remote%20roles-32-teal?style=for-the-badge) ![sync](https://img.shields.io/badge/sync-hourly-success?style=for-the-badge) ![updated](https://img.shields.io/badge/updated-2026--08--02%207:00%20PM%20EDT-lightgrey?style=for-the-badge)
 
 [**📋 Browse listings**](#-summer-2027-internships) · [**🗓 Other terms**](#-other-open-terms) · [**➕ Add one**](CONTRIBUTING.md) · [**🔗 Sources**](SOURCES.md)
 
@@ -456,15 +456,16 @@ No dead links, no generic careers pages. Just current openings, newest first, wi
 
 ## 🗓 Other open terms
 
-**842** more live roles for Fall 2026, Winter 2027 and Spring 2027 — real, currently-open, just not Summer 2027, so they're tucked away to keep the main list clean.
+**844** more live roles for Fall 2026, Winter 2027 and Spring 2027 — real, currently-open, just not Summer 2027, so they're tucked away to keep the main list clean.
 
 <details>
-<summary><b>Show other open terms (842)</b></summary>
+<summary><b>Show other open terms (844)</b></summary>
 
-### 🍂 Fall 2026 (763 · 554 open)
+### 🍂 Fall 2026 (764 · 555 open)
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
+| [Yotta Labs](generated/companies/yotta-labs.md) | [Research Engineer Intern - AI Systems](https://jobs.ashbyhq.com/yotta/09821a51-fbe6-42a7-a566-0d2b5d40fae3/application?embed=true) | Remote | Remote | 2026-08-02 | Rolling | 🟢 Open | ❔ |
 | [Citadel](generated/companies/citadel.md) | [Sector Data Analyst Intern](https://www.citadel.com/careers/details/sector-data-analyst-intern-europe/) | London | Onsite | 2026-08-01 | Rolling | 🟢 Open | ❔ |
 | [Clyde Companies](generated/companies/clyde-companies.md) | [Business Intelligence Intern](https://careers.clydeinc.com/jobs/22659?icims=1) | Orem, UT | Onsite | 2026-08-01 | Rolling | 🟢 Open | ❔ |
 | [Postman](generated/companies/postman.md) | [AI Engineer Intern](https://job-boards.greenhouse.io/postman/jobs/7823417003) | Berkeley, CA | Onsite | 2026-08-01 | Rolling | 🟢 Open | ❔ |
@@ -1229,10 +1230,11 @@ No dead links, no generic careers pages. Just current openings, newest first, wi
 | [Medpace, Inc.](generated/companies/medpace-inc.md) | [Feasibility Informatics Intern/Co-op](https://careers.medpace.com/jobs/12566?lang=en-us&icims=1) | Cincinnati, OH | Onsite | 2026-02-03 | Rolling | 🔴 Closed | ❔ |
 | [Tencent](generated/companies/tencent.md) | [Research Intern](https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/US-Washington-Bellevue/Research-Internship---Reinforcement-Learning-for-Large-Foundation-Models_R106337) | Bellevue, WA | Onsite | 2026-01-21 | Rolling | 🔴 Closed | ❔ |
 
-### ❄️ Winter 2027 (63 · 60 open)
+### ❄️ Winter 2027 (64 · 61 open)
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
+| [Microsoft](generated/companies/microsoft.md) | [Software Engineer Intern](https://apply.careers.microsoft.com/careers/job/1970393556951951) | Vancouver | Onsite | 2026-08-02 | Rolling | 🟢 Open | ❔ |
 | [Maven Securities](generated/companies/maven-securities.md) | [Quant Trader Intern](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8043552) | London | Onsite | 2026-07-31 | Rolling | 🟢 Open | ❔ |
 | [Netic](generated/companies/netic.md) | [Forward Deployed Engineer Intern](https://jobs.ashbyhq.com/netic/ffd6af1a-cebb-41f5-ac1d-e695adfd067c?embed=true) | San Francisco, CA | Onsite | 2026-07-24 | Rolling | 🟢 Open | ❔ |
 | [Netic](generated/companies/netic.md) | [Full-Stack Software Engineer Intern](https://jobs.ashbyhq.com/netic/f291394a-f3c5-4f46-9b87-77aea3d487ef?embed=true) | San Francisco, CA | Onsite | 2026-07-24 | Rolling | 🟢 Open | ❔ |
@@ -1328,7 +1330,7 @@ Pulled automatically every hour: company ATS boards (Greenhouse, Lever, Ashby) f
 | Source | Listings | Type |
 |---|---:|---|
 | Company ATS boards (Greenhouse · Lever · Ashby) | 113 | Direct API |
-| [SimplifyJobs / Summer Internships](https://github.com/SimplifyJobs/Summer2026-Internships) | 836 | Community feed |
+| [SimplifyJobs / Summer Internships](https://github.com/SimplifyJobs/Summer2026-Internships) | 838 | Community feed |
 | [vanshb03 / Summer 2027 Internships](https://github.com/vanshb03/Summer2027-Internships) | 252 | Community feed |
 
 ## 🤝 Add a listing

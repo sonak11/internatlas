@@ -1,6 +1,6 @@
 # 📬 InternAtlas Weekly Digest — 2026-08-02
 
-## 🆕 New this week (167)
+## 🆕 New this week (169)
 
 - **Altice USA** — [Data Engineer Intern](https://www.optimumcareers.com/job/Long-Island-City-Intern-Data-Engineer-NY-11101/1414286700/?ats=successfactors) · data-engineering · —
 - **Anthelion Capital** — [Quant Developer / Quant Research Intern](https://jobs.ashbyhq.com/anthelioncap/5e2ea37b-2369-474e-b717-c24c60976e96) · quant · —
@@ -100,6 +100,7 @@
 - **Melius** — [Software Engineer Intern](https://jobs.ashbyhq.com/melius/b61f063a-4f94-4e50-a4ef-05aaab552280/application?embed=true) · software-engineering · —
 - **Menasha Corporation** — [Supply Chain Analytics Intern](https://menasha.wd12.myworkdayjobs.com/menashacorp/job/Neenah-Wisconsin/Supply-Chain-Analytics-Intern_R14985) · software-engineering · —
 - **Microchip Technology** — [Power, Analog and Mixed-Signal IC Product Engineer Intern - Product Engineering](https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/AZ---Chandler/Intern--Engineering--Product-Engineering-_R3151-26-1) · software-engineering · —
+- **Microsoft** — [Software Engineer Intern](https://apply.careers.microsoft.com/careers/job/1970393556951951) · software-engineering · —
 - **Modal** — [Machine Learning Research Intern](https://jobs.ashbyhq.com/modal/38888294-6bc7-4dab-b072-6d0f0c2ed79a/application?embed=true) · machine-learning · —
 - **Modal** — [ML Research Intern](https://jobs.ashbyhq.com/modal/38888294-6bc7-4dab-b072-6d0f0c2ed79a) · machine-learning · —
 - **Moog** — [Software Engineer Intern](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Software-Engineering_R-26-18885-1) · software-engineering · —
@@ -167,6 +168,7 @@
 - **Virtu Financial** — [2027 Internship- Hardware Engineer (FPGA)](https://job-boards.greenhouse.io/virtu/jobs/8657286002) · hardware · —
 - **Western Digital** — [Hardware Engineering Intern](https://jobs.smartrecruiters.com/WesternDigital/744000140949875) · hardware · —
 - **XTX Markets** — [Philanthropy Intern](https://job-boards.greenhouse.io/xtxmarketstechnologies/jobs/7819416003) · software-engineering · —
+- **Yotta Labs** — [Research Engineer Intern - AI Systems](https://jobs.ashbyhq.com/yotta/09821a51-fbe6-42a7-a566-0d2b5d40fae3/application?embed=true) · ai · —
 - **Zello** — [Analytics Intern](https://jobs.ashbyhq.com/Zello/3453d476-7b75-4938-8cff-502d1575859b/application?embed=true) · software-engineering · —
 - **Zurich Insurance** — [Data Analytics & AI Internship/Co-op - Data Analytics & AI](https://www.careers.zurich.com/job/Toronto-Fall-2026-InternshipCo-op-Data-Analytics-&-AI-ON/1367953057/?ats=successfactors) · ai · —
 

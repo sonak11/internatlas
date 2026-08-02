@@ -269,6 +269,7 @@
 | [Menasha Corporation](../companies/menasha-corporation.md) | 0/2 | software-engineering |
 | [Meta](../companies/meta.md) | 13/15 | ai, machine-learning, research |
 | [Microchip Technology](../companies/microchip-technology.md) | 2/3 | software-engineering |
+| [Microsoft](../companies/microsoft.md) | 1/1 | software-engineering |
 | [Midmark](../companies/midmark.md) | 1/1 | embedded |
 | [Mindsmith](../companies/mindsmith.md) | 1/1 | software-engineering |
 | [Mistral AI](../companies/mistral-ai.md) | 2/3 | ai, research |
@@ -467,6 +468,7 @@
 | [X Development](../companies/x-development.md) | 2/2 | machine-learning, research |
 | [XTX Markets](../companies/xtx-markets.md) | 0/1 | software-engineering |
 | [Xsolla](../companies/xsolla.md) | 4/4 | ai |
+| [Yotta Labs](../companies/yotta-labs.md) | 1/1 | ai |
 | [Zello](../companies/zello.md) | 1/1 | software-engineering |
 | [Zipline](../companies/zipline.md) | 4/6 | embedded, software-engineering |
 | [Zurich Insurance](../companies/zurich-insurance.md) | 1/1 | ai |
