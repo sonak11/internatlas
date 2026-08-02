@@ -172,8 +172,10 @@ _Generated 2026-08-02_
 - Hitachi Energy — Engineering Knowledge Management Intern - 8 months
 - Ignite Digital Services — Engineer/Scientist Intern
 - IMC Trading — 2027 - FPGA Intern - IIT Bombay
+- IMC Trading — 2027 - Quant Research Intern - BITS Pilani
 - IMC Trading — 2027 - Quant Research Intern - IIT Bombay
 - IMC Trading — 2027 - Quant Research Intern - IIT Delhi
+- IMC Trading — 2027 - Software Engineering Intern - BITS Pilani
 - IMC Trading — 2027 - Software Engineering Intern - IIT Bombay
 - IMC Trading — 2027 - Software Engineering Intern - IIT Delhi
 - Impulse Space — Data Analytics Intern
@@ -251,7 +253,6 @@ _Generated 2026-08-02_
 - Pennsylvania State University — R&D Engineer Intern
 - Pennsylvania State University — Research and Development Engineer Intern
 - Pennsylvania State University — Research and Development Engineer Intern
-- Pennsylvania State University — Research Engineering Intern
 - Persistent Systems — Hardware Engineer Intern
 - Phlair — Working Student Intern - Control Team - Systems & Data Infrastructure
 - Pinterest — PhD Fall Machine Learning Intern (ATG — Visual, Multimodal, and Recommender Systems)
