@@ -879,6 +879,8 @@
 - Trillium — [Equity Trader Intern](https://www.trlm.com/apply/5076067007?gh_jid=5076067007)
 - Trillium — [Equity Trader Intern](https://www.trlm.com/apply/5076003007?gh_jid=5076003007)
 - Truland Equipment — [Power Platform Intern](https://www.trulandequip.com/about-us/careers/?gh_jid=5174621007)
+- Two Sigma — [AI Research Scientist Intern - 2027 Summer](https://twosigma.avature.net/careers/JobDetail/14096)
+- Two Sigma — [Quantitative Researcher Intern](https://twosigma.avature.net/careers/JobDetail/13945)
 - Two Six Technologies — [China Subject Matter Expert Intern](https://job-boards.greenhouse.io/twosixtechnologies/jobs/6105290004)
 - Uber — [Software Engineering Intern](https://university-uber.icims.com/jobs/159161/job?mobile=false&width=1270&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240)
 - UMB — [IT Blockchain Intern](https://umb.wd1.myworkdayjobs.com/UMBExternal/job/Kansas-City-MO/IT-Blockchain-Intern_R-8444)

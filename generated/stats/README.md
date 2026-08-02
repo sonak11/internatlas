@@ -33,9 +33,9 @@ _Generated 2026-08-02_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 600 | `█████████████` |
-| quant | 129 | `███` |
-| ai | 116 | `██` |
+| software-engineering | 600 | `████████████` |
+| quant | 130 | `███` |
+| ai | 117 | `██` |
 | machine-learning | 71 | `█` |
 | research | 62 | `█` |
 | hardware | 56 | `█` |
@@ -49,6 +49,8 @@ _Generated 2026-08-02_
 
 ## Newest listings
 
+- 2026-08-02 — **Two Sigma**: [AI Research Scientist Intern - 2027 Summer](https://twosigma.avature.net/careers/JobDetail/14096)
+- 2026-08-02 — **Two Sigma**: [Quantitative Researcher Intern](https://twosigma.avature.net/careers/JobDetail/13945)
 - 2026-08-01 — **Citadel**: [Sector Data Analyst Intern](https://www.citadel.com/careers/details/sector-data-analyst-intern-europe/)
 - 2026-08-01 — **Clyde Companies**: [Business Intelligence Intern](https://careers.clydeinc.com/jobs/22659?icims=1)
 - 2026-08-01 — **ConocoPhillips**: [GIS Intern](https://conocophillips.wd1.myworkdayjobs.com/External/job/Bartlesville-OK/GIS-Intern--Corporate-Land-2027_REQ-006208)
@@ -67,8 +69,6 @@ _Generated 2026-08-02_
 - 2026-07-31 — **City of Austin**: [Research Analyst Intern](https://austintexas.wd5.myworkdayjobs.com/COA_Careers/job/Fire-Headquarters/Research-Analyst-Internship_JR104634)
 - 2026-07-31 — **Cloudflare**: [Customer Advocacy Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8093127?gh_jid=8093127)
 - 2026-07-31 — **DRW**: [AI/ML Research Intern](https://www.drw.com/work-at-drw/listings/aiml-research-intern-3466679)
-- 2026-07-31 — **DRW**: [FPGA Intern](https://www.drw.com/work-at-drw/listings/fpga-intern-3484423)
-- 2026-07-31 — **DRW**: [Platform Engineer Intern](https://www.drw.com/work-at-drw/listings/platform-engineer-intern-3468737)
 
 ## Recently closed
 

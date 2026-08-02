@@ -433,6 +433,7 @@
 | [Trend Micro](../companies/trend-micro.md) | 1/1 | research |
 | [Trillium](../companies/trillium.md) | 3/3 | software-engineering |
 | [Truland Equipment](../companies/truland-equipment.md) | 1/1 | software-engineering |
+| [Two Sigma](../companies/two-sigma.md) | 2/2 | ai, quant |
 | [Two Six Technologies](../companies/two-six-technologies.md) | 1/1 | software-engineering |
 | [UMB](../companies/umb.md) | 1/1 | software-engineering |
 | [Uber](../companies/uber.md) | 1/1 | software-engineering |

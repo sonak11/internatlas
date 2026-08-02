@@ -1,6 +1,6 @@
 # 📬 InternAtlas Weekly Digest — 2026-08-02
 
-## 🆕 New this week (165)
+## 🆕 New this week (167)
 
 - **Altice USA** — [Data Engineer Intern](https://www.optimumcareers.com/job/Long-Island-City-Intern-Data-Engineer-NY-11101/1414286700/?ats=successfactors) · data-engineering · —
 - **Anthelion Capital** — [Quant Developer / Quant Research Intern](https://jobs.ashbyhq.com/anthelioncap/5e2ea37b-2369-474e-b717-c24c60976e96) · quant · —
@@ -159,6 +159,8 @@
 - **Toshiba Global Commerce** — [AI Product Management Intern](https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5195826007) · ai · —
 - **Toshiba Global Commerce** — [Product & Business Analytics Intern](https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5195802007) · software-engineering · —
 - **Touchdown Labs** — [Member of Technical Staff Intern](https://touchdown-labs.com/careers/mts-intern/?jr_id=6a68292c50dec41e3527e633) · software-engineering · —
+- **Two Sigma** — [AI Research Scientist Intern - 2027 Summer](https://twosigma.avature.net/careers/JobDetail/14096) · ai · —
+- **Two Sigma** — [Quantitative Researcher Intern](https://twosigma.avature.net/careers/JobDetail/13945) · quant · —
 - **University of Texas at Austin** — [Video and Analytics Intern - Baseball](https://utaustin.wd1.myworkdayjobs.com/utstudent/job/UT-MAIN-CAMPUS/Video-and-Analytics-Intern--Baseball_R_00047706) · software-engineering · —
 - **University of Virginia Investment Management Company (UVIMCO)** — [Investment Analyst Intern](https://job-boards.greenhouse.io/uvimco/jobs/5300713008) · software-engineering · —
 - **Virtu Financial** — [2027 Internship - Frontend Engineer (UI)](https://job-boards.greenhouse.io/virtu/jobs/8657500002) · design · —
