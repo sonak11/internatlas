@@ -262,7 +262,6 @@ _Generated 2026-08-02_
 - Rakuten International — Software Engineer Intern
 - Richemont — Sustainability Transformation Analyst Intern
 - Rise8 — Skillbridge Intern - Product Manager
-- Rivian — Machine Learning Compiler Intern - Machine Learning Compiler
 - Rivian and Volkswagen Group Technologies — Software Engineer Intern Co-op - Android Connectivity
 - Robert Bosch Venture Capital — Hardware & Embedded Research Intern
 - Rocket Lab — Software Intern

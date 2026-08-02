@@ -632,6 +632,7 @@
 - Rippling — [Software Engineer Intern](https://ats.rippling.com/en-GB/rippling/jobs/203e0cac-0e30-4603-8087-f764e8c3f85c)
 - Rippling — [Software Engineer Intern - Backend Focused](https://ats.rippling.com/rippling/jobs/00cbc991-d2fb-452c-a8b6-2978f109a484)
 - Rivian — [Intern](https://careers.rivian.com/jobs/32355?icims=1)
+- Rivian — [Machine Learning Compiler Intern - Machine Learning Compiler](https://careers.rivian.com/jobs/29851?icims=1)
 - Rivian — [Research Park Intern - Embedded Software](https://careers.rivian.com/jobs/32354?icims=1)
 - Rivian — [UIUC Research Park Intern - Computational Methods Development](https://careers.rivian.com/jobs/32340?icims=1)
 - Rivian and Volkswagen Group Technologies — [Android Developer Intern](https://jobs.ashbyhq.com/rivianvw.tech/5633bb03-cc16-47fc-af02-db9dc355eddd/application)
