@@ -8,7 +8,7 @@
 
 No dead links, no generic careers pages. Just current openings, newest first, with the date each one was posted.
 
-![summer 2027](https://img.shields.io/badge/summer%202027-353-blue?style=for-the-badge) ![open now](https://img.shields.io/badge/open%20now-305-brightgreen?style=for-the-badge) ![companies](https://img.shields.io/badge/companies-466-purple?style=for-the-badge) ![visa sponsors](https://img.shields.io/badge/visa%20sponsors-19-orange?style=for-the-badge) ![remote roles](https://img.shields.io/badge/remote%20roles-31-teal?style=for-the-badge) ![sync](https://img.shields.io/badge/sync-hourly-success?style=for-the-badge) ![updated](https://img.shields.io/badge/updated-2026--08--01%206:59%20PM%20EDT-lightgrey?style=for-the-badge)
+![summer 2027](https://img.shields.io/badge/summer%202027-357-blue?style=for-the-badge) ![open now](https://img.shields.io/badge/open%20now-309-brightgreen?style=for-the-badge) ![companies](https://img.shields.io/badge/companies-470-purple?style=for-the-badge) ![visa sponsors](https://img.shields.io/badge/visa%20sponsors-19-orange?style=for-the-badge) ![remote roles](https://img.shields.io/badge/remote%20roles-31-teal?style=for-the-badge) ![sync](https://img.shields.io/badge/sync-hourly-success?style=for-the-badge) ![updated](https://img.shields.io/badge/updated-2026--08--01%208:02%20PM%20EDT-lightgrey?style=for-the-badge)
 
 [**📋 Browse listings**](#-summer-2027-internships) · [**🗓 Other terms**](#-other-open-terms) · [**➕ Add one**](CONTRIBUTING.md) · [**🔗 Sources**](SOURCES.md)
 
@@ -27,12 +27,15 @@ No dead links, no generic careers pages. Just current openings, newest first, wi
 
 ## ☀️ Summer 2027 internships
 
-**353 open right now**, grouped by category with the newest postings first. Every **Role** link goes straight to the live application page; the **Posted** column shows when it went up (`*` = the date we first saw it, when the source didn't publish one).
+**357 open right now**, grouped by category with the newest postings first. Every **Role** link goes straight to the live application page; the **Posted** column shows when it went up (`*` = the date we first saw it, when the source didn't publish one).
 
-### 💻 Software Engineering (131 · 107 open)
+### 💻 Software Engineering (134 · 110 open)
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
+| [ConocoPhillips](generated/companies/conocophillips.md) | [GIS Intern](https://conocophillips.wd1.myworkdayjobs.com/External/job/Bartlesville-OK/GIS-Intern--Corporate-Land-2027_REQ-006208) | Bartlesville, OK | Onsite | 2026-08-01 | Rolling | 🟢 Open | ❔ |
+| [HPR (Hyannis Port Research)](generated/companies/hpr-hyannis-port-research.md) | [Software Engineer Intern](https://job-boards.greenhouse.io/hyannisportresearch/jobs/7822989003) | Needham, MA | Onsite | 2026-08-01 | Rolling | 🟢 Open | ❔ |
+| [Medtronic](generated/companies/medtronic.md) | [Software Engineer Intern](https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Fridley-Minnesota-United-States-of-America/Software-Engineering-Intern---Summer-2027_R73630) | Boston, MA +20 | Onsite | 2026-08-01 | Rolling | 🟢 Open | ❔ |
 | [Cloudflare](generated/companies/cloudflare.md) | [Customer Advocacy Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8093127?gh_jid=8093127) | In-Office | Onsite | 2026-07-31 | Rolling | 🟢 Open | ❔ |
 | [DRW](generated/companies/drw.md) | [Software Developer Intern](https://www.drw.com/work-at-drw/listings/software-developer-intern-3467328) | Chicago, IL | Onsite | 2026-07-31 | Rolling | 🟢 Open | ❔ |
 | [DRW](generated/companies/drw.md) | [Software Developer Intern](https://www.drw.com/work-at-drw/listings/software-developer-intern-3466687) | Montréal | Onsite | 2026-07-31 | Rolling | 🟢 Open | ❔ |
@@ -339,10 +342,11 @@ No dead links, no generic careers pages. Just current openings, newest first, wi
 | [Walleye Capital](generated/companies/walleye-capital.md) | [Volatility Trading Developer Intern](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679434006) | NYC | Onsite | 2026-06-10 | Rolling | 🔴 Closed | ❔ |
 | [AQR Capital Management](generated/companies/aqr-capital-management.md) | [Portfolio Implementation – Trading and Portfolio Finance Analyst Intern](https://careers.aqr.com/jobs?gh_jid=7895562&gh_jid=7895562) | Greenwich, CT | Onsite | 2026-05-15 | Rolling | 🔴 Closed | ❔ |
 
-### 🔩 Hardware (36 · 34 open)
+### 🔩 Hardware (37 · 35 open)
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
+| [HPR (Hyannis Port Research)](generated/companies/hpr-hyannis-port-research.md) | [FPGA Engineer Intern](https://job-boards.greenhouse.io/hyannisportresearch/jobs/7822801003) | Needham, MA | Onsite | 2026-08-01 | Rolling | 🟢 Open | ❔ |
 | [DRW](generated/companies/drw.md) | [FPGA Intern](https://www.drw.com/work-at-drw/listings/fpga-intern-3484423) | Chicago, IL | Onsite | 2026-07-31 | Rolling | 🟢 Open | ✅ |
 | [IMC Trading](generated/companies/imc-trading.md) | [Hardware Engineer Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4927149101) | Amsterdam | Onsite | 2026-07-31 | Rolling | 🟢 Open | ❔ |
 | [Western Digital](generated/companies/western-digital.md) | [Hardware Engineering Intern](https://jobs.smartrecruiters.com/WesternDigital/744000140949875) | Fremont, CA +5 | Onsite | 2026-07-31 | Rolling | 🟢 Open | ❔ |
@@ -450,18 +454,22 @@ No dead links, no generic careers pages. Just current openings, newest first, wi
 
 ## 🗓 Other open terms
 
-**837** more live roles for Fall 2026, Winter 2027 and Spring 2027 — real, currently-open, just not Summer 2027, so they're tucked away to keep the main list clean.
+**841** more live roles for Fall 2026, Winter 2027 and Spring 2027 — real, currently-open, just not Summer 2027, so they're tucked away to keep the main list clean.
 
 <details>
-<summary><b>Show other open terms (837)</b></summary>
+<summary><b>Show other open terms (841)</b></summary>
 
-### 🍂 Fall 2026 (758 · 547 open)
+### 🍂 Fall 2026 (762 · 551 open)
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
 | [Citadel](generated/companies/citadel.md) | [Sector Data Analyst Intern](https://www.citadel.com/careers/details/sector-data-analyst-intern-europe/) | London | Onsite | 2026-08-01 | Rolling | 🟢 Open | ❔ |
+| [Clyde Companies](generated/companies/clyde-companies.md) | [Business Intelligence Intern](https://careers.clydeinc.com/jobs/22659?icims=1) | Orem, UT | Onsite | 2026-08-01 | Rolling | 🟢 Open | ❔ |
+| [Postman](generated/companies/postman.md) | [AI Engineer Intern](https://job-boards.greenhouse.io/postman/jobs/7823417003) | Berkeley, CA | Onsite | 2026-08-01 | Rolling | 🟢 Open | ❔ |
 | [Tesla](generated/companies/tesla.md) | [Software Compiler Engineer Intern - AI Inference](https://www.tesla.com/careers/search/job/278847) | Palo Alto, CA | Onsite | 2026-08-01 | Rolling | 🟢 Open | ❔ |
+| [TMX Group](generated/companies/tmx-group.md) | [Analyst Student Intern - Market Insights](https://tmx.wd3.myworkdayjobs.com/TMX_Careers/job/Toronto---100-Adelaide-St-W/Analyst--Market-Insights--Student-Intern_R-6125) | Toronto | Onsite | 2026-08-01 | Rolling | 🟢 Open | ❔ |
 | [Brio Water Technology](generated/companies/brio-water-technology.md) | [AI Automation & Business Analytics Intern - Rotational Program](https://ats.rippling.com/briowt/jobs/52da1fca-1cb1-49ff-8a94-b6f3850cd8eb) | Glendale, CA | Onsite | 2026-07-31 | Rolling | 🟢 Open | ❔ |
+| [Ciena](generated/companies/ciena.md) | [WaveLogic Software Engineer Intern](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/WaveLogic-Software---Intern_R031443) | Ottawa | Onsite | 2026-07-31 | Rolling | 🟢 Open | ❔ |
 | [Cirrus Logic](generated/companies/cirrus-logic.md) | [Embedded Software Test Engineer Intern](https://jobs.eu.lever.co/cirrus/2926421c-691a-434a-ae59-c828e7fcbf5b) | Austin, TX | Onsite | 2026-07-31 | Rolling | 🟢 Open | ❔ |
 | [City of Austin](generated/companies/city-of-austin.md) | [Business Intelligence Intern - Business Intelligence](https://austintexas.wd5.myworkdayjobs.com/COA_Careers/job/Fire-Headquarters/Business-Intelligence-Internship_JR104636) | USA | Onsite | 2026-07-31 | Rolling | 🟢 Open | ❔ |
 | [City of Austin](generated/companies/city-of-austin.md) | [Research Analyst Intern](https://austintexas.wd5.myworkdayjobs.com/COA_Careers/job/Fire-Headquarters/Research-Analyst-Internship_JR104634) | USA | Onsite | 2026-07-31 | Rolling | 🟢 Open | ❔ |
@@ -1317,7 +1325,7 @@ Pulled automatically every hour: company ATS boards (Greenhouse, Lever, Ashby) f
 | Source | Listings | Type |
 |---|---:|---|
 | Company ATS boards (Greenhouse · Lever · Ashby) | 113 | Direct API |
-| [SimplifyJobs / Summer Internships](https://github.com/SimplifyJobs/Summer2026-Internships) | 825 | Community feed |
+| [SimplifyJobs / Summer Internships](https://github.com/SimplifyJobs/Summer2026-Internships) | 833 | Community feed |
 | [vanshb03 / Summer 2027 Internships](https://github.com/vanshb03/Summer2027-Internships) | 252 | Community feed |
 
 ## 🤝 Add a listing

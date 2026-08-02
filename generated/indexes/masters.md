@@ -101,6 +101,8 @@
 | [Hitachi](generated/companies/hitachi.md) | [Software Analyst Intern](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Software-Analyst-Intern--Fall-2026--8-months-_R1013034-1) | Toronto | Onsite | 2026-07-07 | Rolling | 🟢 Open | ❔ |
 | [Hitachi](generated/companies/hitachi.md) | [Software Analyst Intern](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Software-Analyst-Intern--Fall-2026--8-months-_R1012810-1) | Toronto | Onsite | 2026-07-07 | Rolling | 🟢 Open | ❔ |
 | [Hone Health](generated/companies/hone-health.md) | [Data Engineering Intern](https://job-boards.greenhouse.io/honehealth/jobs/5308958008) | Remote | Remote | 2026-07-08 | Rolling | 🟢 Open | ❔ |
+| [HPR (Hyannis Port Research)](generated/companies/hpr-hyannis-port-research.md) | [FPGA Engineer Intern](https://job-boards.greenhouse.io/hyannisportresearch/jobs/7822801003) | Needham, MA | Onsite | 2026-08-01 | Rolling | 🟢 Open | ❔ |
+| [HPR (Hyannis Port Research)](generated/companies/hpr-hyannis-port-research.md) | [Software Engineer Intern](https://job-boards.greenhouse.io/hyannisportresearch/jobs/7822989003) | Needham, MA | Onsite | 2026-08-01 | Rolling | 🟢 Open | ❔ |
 | [IMC Trading](generated/companies/imc-trading.md) | [Machine Learning Research Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4912874101) | London +1 | Onsite | 2026-07-06 | Rolling | 🟢 Open | ❔ |
 | [IMC Trading](generated/companies/imc-trading.md) | [Quantitative Research Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4907399101) | Chicago, IL +1 | Onsite | 2026-07-01 | Rolling | 🟢 Open | ❔ |
 | [InfiniteQuant](generated/companies/infinitequant.md) | [Quantitative Researcher Intern](https://jobs.smartrecruiters.com/InfiniteQuant/744000129235439) | Dubai - United Arab Emirates +1 | Onsite | 2026-05-29 | Rolling | 🟢 Open | ❔ |
@@ -120,6 +122,7 @@
 | [McKesson](generated/companies/mckesson.md) | [AI & Strategic Analytics Intern](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-ON-Mississauga/AI---Strategic-Analytics-Intern---Fall-2026_JR0150114) | Mississauga | Onsite | 2026-07-14 | Rolling | 🟢 Open | ❔ |
 | [Medpace](generated/companies/medpace.md) | [AI Engineer Intern](https://careers.medpace.com/jobs/12863?icims=1) | London | Onsite | 2026-07-21 | Rolling | 🟢 Open | ❔ |
 | [Medpace, Inc.](generated/companies/medpace-inc.md) | [AI Engineer Intern](https://careers.medpace.com/jobs/12729?lang=en-us&icims=1) | Cincinnati, OH | Onsite | 2026-05-14 | Rolling | 🟢 Open | ❔ |
+| [Medtronic](generated/companies/medtronic.md) | [Software Engineer Intern](https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Fridley-Minnesota-United-States-of-America/Software-Engineering-Intern---Summer-2027_R73630) | Boston, MA +20 | Onsite | 2026-08-01 | Rolling | 🟢 Open | ❔ |
 | [Meta](generated/companies/meta.md) | [Research Scientist Intern, Advanced Materials for Soft Robotics (PhD)](https://www.metacareers.com/profile/job_details/25514049594874160) | Redmond, WA | Onsite | 2025-12-10 | Rolling | 🟢 Open | ❌ |
 | [Meta](generated/companies/meta.md) | [Research Scientist Intern, Computational Chemist](https://www.metacareers.com/profile/job_details/2059739221232640) | Redmond, WA | Onsite | 2025-12-10 | Rolling | 🟢 Open | ❌ |
 | [Meta](generated/companies/meta.md) | [Research Scientist Intern, LLM Evaluation](https://www.metacareers.com/profile/job_details/4203446973242742) | New York, NY | Onsite | 2025-12-11 | Rolling | 🟢 Open | ❌ |
@@ -150,6 +153,7 @@
 | [Pika](generated/companies/pika.md) | [Research Intern - BS/MS/PhD](https://jobs.ashbyhq.com/pika/e135acb1-2a0b-47b4-81b2-3cb0f787657a/application) | Palo Alto, CA | Onsite | 2026-07-10 | Rolling | 🟢 Open | ❔ |
 | [pony.ai](generated/companies/pony-ai.md) | [Research Intern - Deep Learning](https://apply.workable.com/pony-dot-ai/j/4C1F53EF5D/apply) | Fremont, CA | Onsite | 2026-05-29 | Rolling | 🟢 Open | ❔ |
 | [Pony.ai](generated/companies/pony-ai.md) | [Research Intern - Deep Learning](https://apply.workable.com/pony-dot-ai/j/4C1F53EF5D/) | Fremont, CA | Onsite | 2026-07-27 | Rolling | 🟢 Open | ❔ |
+| [Postman](generated/companies/postman.md) | [AI Engineer Intern](https://job-boards.greenhouse.io/postman/jobs/7823417003) | Berkeley, CA | Onsite | 2026-08-01 | Rolling | 🟢 Open | ❔ |
 | [Pylon](generated/companies/pylon.md) | [Software Engineer Intern](https://jobs.ashbyhq.com/pylon-labs/fcea8b52-81f1-4b0c-b575-d7b180faec4d/application) | SF | Onsite | 2026-07-09 | Rolling | 🟢 Open | ❔ |
 | [Redwood Materials](generated/companies/redwood-materials.md) | [Embedded Software Engineer Intern](https://boards.greenhouse.io/redwoodmaterials/jobs/6126784004) | SF | Onsite | 2026-07-29 | Rolling | 🟢 Open | ❔ |
 | [Rippling](generated/companies/rippling.md) | [Full Stack Software Engineer Intern](https://ats.rippling.com/rippling/jobs/35b3ba25-ff2e-4b68-a2d7-61be26f2b24a) | Seattle, WA +2 | Onsite | 2026-06-05 | Rolling | 🟢 Open | ❔ |

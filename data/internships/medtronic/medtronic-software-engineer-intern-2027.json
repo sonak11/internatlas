@@ -1,0 +1,154 @@
+{
+  "schema_version": "1.0",
+  "id": "medtronic-software-engineer-intern-2027",
+  "company": {
+    "name": "Medtronic",
+    "slug": "medtronic"
+  },
+  "role": "Software Engineer Intern",
+  "category": "software-engineering",
+  "apply_url": "https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Fridley-Minnesota-United-States-of-America/Software-Engineering-Intern---Summer-2027_R73630",
+  "season": "summer",
+  "year": 2027,
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "Boston",
+      "state": "MA",
+      "country": "USA"
+    },
+    {
+      "city": "Santa Ana",
+      "state": "CA",
+      "country": "USA"
+    },
+    {
+      "city": "Fridley",
+      "state": "MN",
+      "country": "USA"
+    },
+    {
+      "city": "Santa Rosa",
+      "state": "CA",
+      "country": "USA"
+    },
+    {
+      "city": "Irvine",
+      "state": "CA",
+      "country": "USA"
+    },
+    {
+      "city": "Mansfield",
+      "state": "MA",
+      "country": "USA"
+    },
+    {
+      "city": "Mounds View",
+      "state": "MN",
+      "country": "USA"
+    },
+    {
+      "city": "Tempe",
+      "state": "AZ",
+      "country": "USA"
+    },
+    {
+      "city": "Memphis",
+      "state": "TN",
+      "country": "USA"
+    },
+    {
+      "city": "Brooklyn Center",
+      "state": "MN",
+      "country": "USA"
+    },
+    {
+      "city": "Plymouth",
+      "state": "MN",
+      "country": "USA"
+    },
+    {
+      "city": "Brooklyn Park",
+      "state": "MN",
+      "country": "USA"
+    },
+    {
+      "city": "Fort Worth",
+      "state": "TX",
+      "country": "USA"
+    },
+    {
+      "city": "Dexter",
+      "state": "MI",
+      "country": "USA"
+    },
+    {
+      "city": "North Haven",
+      "state": "CT",
+      "country": "USA"
+    },
+    {
+      "city": "Lafayette",
+      "state": "CO",
+      "country": "USA"
+    },
+    {
+      "city": "Minneapolis",
+      "state": "MN",
+      "country": "USA"
+    },
+    {
+      "city": "Newton",
+      "state": "MA",
+      "country": "USA"
+    },
+    {
+      "city": "Jacksonville",
+      "state": "FL",
+      "country": "USA"
+    },
+    {
+      "city": "Eatontown",
+      "state": "NJ",
+      "country": "USA"
+    },
+    {
+      "city": "Boulder",
+      "state": "CO",
+      "country": "USA"
+    }
+  ],
+  "compensation": {
+    "currency": "USD",
+    "housing_stipend": false,
+    "relocation_assistance": false
+  },
+  "eligibility": {
+    "graduation_years": [],
+    "degree_levels": [
+      "masters"
+    ],
+    "citizenship_required": false,
+    "security_clearance_required": false,
+    "visa_sponsorship": "unknown"
+  },
+  "interview": {},
+  "tech": {
+    "required_skills": [],
+    "preferred_skills": [],
+    "languages": [],
+    "frameworks": [],
+    "cloud_platforms": [],
+    "resume_keywords": []
+  },
+  "dates": {
+    "posted": "2026-08-01",
+    "discovered": "2026-08-02",
+    "last_verified": "2026-08-02"
+  },
+  "status": "open",
+  "tags": [
+    "auto-ingested",
+    "src:simplify"
+  ]
+}

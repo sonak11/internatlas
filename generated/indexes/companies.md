@@ -96,7 +96,7 @@
 | [Chanel](../companies/chanel.md) | 1/1 | software-engineering |
 | [Chevron Corporation](../companies/chevron-corporation.md) | 4/6 | quant, software-engineering |
 | [Chicago Trading Company](../companies/chicago-trading-company.md) | 3/3 | quant, software-engineering |
-| [Ciena](../companies/ciena.md) | 6/10 | design, embedded, hardware, software-engineering |
+| [Ciena](../companies/ciena.md) | 7/11 | design, embedded, hardware, software-engineering |
 | [Circle K](../companies/circle-k.md) | 1/1 | software-engineering |
 | [Circleback](../companies/circleback.md) | 1/1 | software-engineering |
 | [Cirrus Logic](../companies/cirrus-logic.md) | 3/3 | ai, embedded |
@@ -105,13 +105,14 @@
 | [City of Aurora](../companies/city-of-aurora.md) | 0/1 | software-engineering |
 | [City of Austin](../companies/city-of-austin.md) | 2/3 | research, software-engineering |
 | [Cloudflare](../companies/cloudflare.md) | 17/21 | ai, research, software-engineering |
-| [Clyde Companies](../companies/clyde-companies.md) | 1/1 | software-engineering |
+| [Clyde Companies](../companies/clyde-companies.md) | 2/2 | software-engineering |
 | [Cohere](../companies/cohere.md) | 2/3 | machine-learning, research, software-engineering |
 | [Colgate-Palmolive](../companies/colgate-palmolive.md) | 1/1 | software-engineering |
 | [Colonist](../companies/colonist.md) | 0/1 | software-engineering |
 | [Commercial Metals](../companies/commercial-metals.md) | 1/1 | ai |
 | [Composio](../companies/composio.md) | 1/1 | software-engineering |
 | [ConnectPrep](../companies/connectprep.md) | 1/1 | software-engineering |
+| [ConocoPhillips](../companies/conocophillips.md) | 1/1 | software-engineering |
 | [Consensus Cloud Solutions](../companies/consensus-cloud-solutions.md) | 0/1 | software-engineering |
 | [Constellation Space](../companies/constellation-space.md) | 1/1 | machine-learning |
 | [Copart](../companies/copart.md) | 7/10 | data-engineering, software-engineering |
@@ -201,6 +202,7 @@
 | [Gumloop](../companies/gumloop.md) | 1/1 | design |
 | [H&CO](../companies/h-co.md) | 1/1 | software-engineering |
 | [HARMAN](../companies/harman.md) | 1/1 | software-engineering |
+| [HPR (Hyannis Port Research)](../companies/hpr-hyannis-port-research.md) | 2/2 | hardware, software-engineering |
 | [Harris Computer](../companies/harris-computer.md) | 1/1 | software-engineering |
 | [Heliux](../companies/heliux.md) | 2/2 | software-engineering |
 | [Helsing](../companies/helsing.md) | 1/1 | ai |
@@ -262,6 +264,7 @@
 | [McKesson](../companies/mckesson.md) | 1/3 | ai, software-engineering |
 | [Medpace](../companies/medpace.md) | 1/2 | ai, software-engineering |
 | [Medpace, Inc.](../companies/medpace-inc.md) | 2/3 | ai, data-engineering, software-engineering |
+| [Medtronic](../companies/medtronic.md) | 1/1 | software-engineering |
 | [Melius](../companies/melius.md) | 2/2 | software-engineering |
 | [Menasha Corporation](../companies/menasha-corporation.md) | 0/2 | software-engineering |
 | [Meta](../companies/meta.md) | 13/15 | ai, machine-learning, research |
@@ -332,6 +335,7 @@
 | [Point72](../companies/point72.md) | 3/3 | quant, software-engineering |
 | [Pony.ai](../companies/pony-ai.md) | 2/2 | machine-learning, software-engineering |
 | [Poshmark](../companies/poshmark.md) | 1/1 | cloud |
+| [Postman](../companies/postman.md) | 1/1 | ai |
 | [Pure Storage](../companies/pure-storage.md) | 1/1 | software-engineering |
 | [Pylon](../companies/pylon.md) | 1/1 | software-engineering |
 | [Quadrillion](../companies/quadrillion.md) | 2/3 | research, software-engineering |
@@ -404,7 +408,7 @@
 | [T. Rowe Price](../companies/t-rowe-price.md) | 0/4 | quant, software-engineering |
 | [TETRAMEM](../companies/tetramem.md) | 1/1 | embedded |
 | [TMEIC](../companies/tmeic.md) | 1/1 | machine-learning |
-| [TMX Group](../companies/tmx-group.md) | 0/1 | software-engineering |
+| [TMX Group](../companies/tmx-group.md) | 1/2 | software-engineering |
 | [Tencent](../companies/tencent.md) | 6/9 | ai, machine-learning, research, software-engineering |
 | [Tenstorrent](../companies/tenstorrent.md) | 3/3 | ai, design |
 | [Terranova](../companies/terranova.md) | 1/1 | embedded |

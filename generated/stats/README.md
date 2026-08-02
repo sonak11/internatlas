@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 📊 Statistics
 
-_Generated 2026-08-01_
+_Generated 2026-08-02_
 
 ## Top hiring companies
 
@@ -22,9 +22,9 @@ _Generated 2026-08-01_
 | Etched | 13 |
 | Virtu Financial | 13 |
 | Astranis | 11 |
+| Ciena | 11 |
 | Optiver | 11 |
 | Palantir | 11 |
-| Ciena | 10 |
 | Copart | 10 |
 | National Laboratory of the Rockies | 9 |
 | NVIDIA | 9 |
@@ -33,12 +33,12 @@ _Generated 2026-08-01_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 594 | `████████████` |
+| software-engineering | 600 | `█████████████` |
 | quant | 129 | `███` |
-| ai | 115 | `██` |
+| ai | 116 | `██` |
 | machine-learning | 71 | `█` |
 | research | 62 | `█` |
-| hardware | 55 | `█` |
+| hardware | 56 | `█` |
 | embedded | 42 | `█` |
 | product | 28 | `█` |
 | cloud | 28 | `█` |
@@ -50,10 +50,18 @@ _Generated 2026-08-01_
 ## Newest listings
 
 - 2026-08-01 — **Citadel**: [Sector Data Analyst Intern](https://www.citadel.com/careers/details/sector-data-analyst-intern-europe/)
+- 2026-08-01 — **Clyde Companies**: [Business Intelligence Intern](https://careers.clydeinc.com/jobs/22659?icims=1)
+- 2026-08-01 — **ConocoPhillips**: [GIS Intern](https://conocophillips.wd1.myworkdayjobs.com/External/job/Bartlesville-OK/GIS-Intern--Corporate-Land-2027_REQ-006208)
+- 2026-08-01 — **HPR (Hyannis Port Research)**: [FPGA Engineer Intern](https://job-boards.greenhouse.io/hyannisportresearch/jobs/7822801003)
+- 2026-08-01 — **HPR (Hyannis Port Research)**: [Software Engineer Intern](https://job-boards.greenhouse.io/hyannisportresearch/jobs/7822989003)
 - 2026-08-01 — **IMC Trading**: [2027 - Quant Research Intern - BITS Pilani](https://job-boards.eu.greenhouse.io/imc/jobs/4942958101)
+- 2026-08-01 — **Medtronic**: [Software Engineer Intern](https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Fridley-Minnesota-United-States-of-America/Software-Engineering-Intern---Summer-2027_R73630)
+- 2026-08-01 — **Postman**: [AI Engineer Intern](https://job-boards.greenhouse.io/postman/jobs/7823417003)
 - 2026-08-01 — **Tesla**: [Software Compiler Engineer Intern - AI Inference](https://www.tesla.com/careers/search/job/278847)
+- 2026-08-01 — **TMX Group**: [Analyst Student Intern - Market Insights](https://tmx.wd3.myworkdayjobs.com/TMX_Careers/job/Toronto---100-Adelaide-St-W/Analyst--Market-Insights--Student-Intern_R-6125)
 - 2026-07-31 — **Altice USA**: [Data Engineer Intern](https://www.optimumcareers.com/job/Long-Island-City-Intern-Data-Engineer-NY-11101/1414286700/?ats=successfactors)
 - 2026-07-31 — **Brio Water Technology**: [AI Automation & Business Analytics Intern - Rotational Program](https://ats.rippling.com/briowt/jobs/52da1fca-1cb1-49ff-8a94-b6f3850cd8eb)
+- 2026-07-31 — **Ciena**: [WaveLogic Software Engineer Intern](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/WaveLogic-Software---Intern_R031443)
 - 2026-07-31 — **Cirrus Logic**: [Embedded Software Test Engineer Intern](https://jobs.eu.lever.co/cirrus/2926421c-691a-434a-ae59-c828e7fcbf5b)
 - 2026-07-31 — **City of Austin**: [Business Intelligence Intern - Business Intelligence](https://austintexas.wd5.myworkdayjobs.com/COA_Careers/job/Fire-Headquarters/Business-Intelligence-Internship_JR104636)
 - 2026-07-31 — **City of Austin**: [Research Analyst Intern](https://austintexas.wd5.myworkdayjobs.com/COA_Careers/job/Fire-Headquarters/Research-Analyst-Internship_JR104634)
@@ -61,25 +69,15 @@ _Generated 2026-08-01_
 - 2026-07-31 — **DRW**: [AI/ML Research Intern](https://www.drw.com/work-at-drw/listings/aiml-research-intern-3466679)
 - 2026-07-31 — **DRW**: [FPGA Intern](https://www.drw.com/work-at-drw/listings/fpga-intern-3484423)
 - 2026-07-31 — **DRW**: [Platform Engineer Intern](https://www.drw.com/work-at-drw/listings/platform-engineer-intern-3468737)
-- 2026-07-31 — **DRW**: [Quantitative Research Intern](https://www.drw.com/work-at-drw/listings/quantitative-research-intern-3413670)
-- 2026-07-31 — **DRW**: [Quantitative Trading Analyst Intern](https://www.drw.com/work-at-drw/listings/quantitative-trading-analyst-intern-3375090)
-- 2026-07-31 — **DRW**: [Software Developer Intern](https://www.drw.com/work-at-drw/listings/software-developer-intern-3467328)
-- 2026-07-31 — **DRW**: [Software Developer Intern](https://www.drw.com/work-at-drw/listings/software-developer-intern-3466687)
-- 2026-07-31 — **Exclusive Networks**: [Data Quality & Business Data Analyst Intern](https://exclusivenetworks.wd103.myworkdayjobs.com/Exclusive-Networks-Career/job/Son/Data-Quality---Business-Data-Analyst-Intern_JR2326-1)
-- 2026-07-31 — **Genworth Financial**: [IT Development Program Intern - IT Development Program](https://gnw.wd1.myworkdayjobs.com/GNW/job/Richmond-Virginia/Genworth-IT-Development-Program-Intern---Summer-2027_REQ-260269-1)
-- 2026-07-31 — **Heliux**: [Software Engineer Intern](https://jobs.ashbyhq.com/heliux/ff2b6f4b-00d0-4afe-b4f5-2dbf443409ef/application?embed=true)
-- 2026-07-31 — **Heliux**: [Software Engineer Intern](https://jobs.ashbyhq.com/heliux/c71c0650-b6f7-491f-b291-6b280f58ee9c/application?embed=true)
 
 ## Recently closed
 
 - ABC News — Product Management and Engineering Intern
 - Accenture — Software Engineer Intern
-- Accenture — Technology Apprentice Intern
 - ACLU Kentucky — Undergraduate Intern - Technology and Analytics Department-Educate Pod
 - Ada — Software Engineer Intern
 - Airbnb — Sales Operations Intern, Italy
 - Altasciences — Process Innovation Product Management Intern
-- Altera Corporation — AI Software Development Engineer Intern
 - Altice USA — Data Engineer Intern
 - AMAROK Security — Research and Development Intern
 - American Bureau of Shipping — AI Software Engineering Intern
@@ -113,13 +111,10 @@ _Generated 2026-08-01_
 - Carnegie Mellon University — Research Intern - School of Computer Science - Language Technologies Institute
 - CCC Intelligent Solutions — Applied AI Engineer Intern
 - Center for AI Safety — Research Engineer Intern
-- Chevron Corporation — Earth Science Intern
-- Chevron Corporation — Previous Intern - Earth Scientist
 - Ciena — Embedded Software Engineer Intern
 - Ciena — Embedded Software Engineer Intern
 - Ciena — Routing/IP Software Developer Intern
 - Ciena — Software Engineer and Tools Developer Intern
-- City of Aurora — Water GIS Intern
 - City of Austin — Austin Aviation Undergraduate Intern - IT Business Systems Analyst
 - Cloudflare — EIAM Business Enablement & Operations Intern (Fall 2026)
 - Cloudflare — Public Policy Intern
@@ -143,7 +138,6 @@ _Generated 2026-08-01_
 - Duku AI — Tech Intern - Visiting
 - Eight Sleep — Prototype & Test Engineer Intern - New Product Development
 - Entergy — Power Delivery Intern
-- Environmental Defense Fund — Climate & Health Intern
 - Etched — Supercomputing Intern
 - Evonik — Life Cycle Management Intern - Sustainability & Life Cycle Management
 - Exclusive Networks — Data Quality & Business Data Analyst Intern
@@ -156,7 +150,6 @@ _Generated 2026-08-01_
 - Formlabs — Supply Chain Operations Software Intern
 - Formlabs — Test Software Intern
 - Freeform — Process Engineer Intern
-- GE Aerospace — Engineer Intern
 - GE Appliances — Engineering Intern/Co-op
 - GE Healthcare — Engineering Development Program Intern - Hardware
 - GE Healthcare — Engineering Development Program Intern - Software
@@ -166,7 +159,6 @@ _Generated 2026-08-01_
 - Generac — Engineering Intern
 - Generac — Software Engineer Intern
 - General Motors — Research and Development Intern - Research & Development
-- GeoComply — Full Stack Developer Intern
 - GeoComply — Product Operations Intern
 - Google — Software Developer Intern - BS
 - Google — Software Developer Intern - MS
@@ -268,7 +260,6 @@ _Generated 2026-08-01_
 - Quadrillion — Software Engineer Intern
 - Rainmaker — Software Engineer Intern
 - Rakuten International — Software Engineer Intern
-- Revvity — Product Manager Intern
 - Richemont — Sustainability Transformation Analyst Intern
 - Rise8 — Skillbridge Intern - Product Manager
 - Rivian — Machine Learning Compiler Intern - Machine Learning Compiler
@@ -276,7 +267,6 @@ _Generated 2026-08-01_
 - Robert Bosch Venture Capital — Hardware & Embedded Research Intern
 - Rocket Lab — Software Intern
 - ROCKWOOL Group — Product Management Intern
-- Royal Bank of Canada — Student Intern - Data Analyst - Personal Banking
 - Salesforce — Associate Product Manager Intern - Associate Product Manager
 - Salesforce — Associate Product Manager Intern - Associate Product Manager
 - Salesforce — Software Engineer Intern(Futureforce Summer 2027)
@@ -296,7 +286,6 @@ _Generated 2026-08-01_
 - Sparksoft — Data Development Intern
 - Spectrum Control — Engineering Intern
 - SS&C — Healthcare AI & Automation Intern
-- State of North Carolina — Geographic Information Systems Intern - GIS
 - Stoke Space — Software Intern - Software
 - Susquehanna International Group (SIG) — Trading Operations Analyst Intern
 - T. Rowe Price — Global Product Intern
