@@ -33,7 +33,7 @@ _Generated 2026-08-02_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 600 | `████████████` |
+| software-engineering | 601 | `█████████████` |
 | quant | 130 | `███` |
 | ai | 117 | `██` |
 | machine-learning | 71 | `█` |

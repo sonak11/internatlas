@@ -306,6 +306,7 @@
 | [Northwestern Mutual](../companies/northwestern-mutual.md) | 1/1 | software-engineering |
 | [Notion](../companies/notion.md) | 5/6 | ai, software-engineering |
 | [Nuro](../companies/nuro.md) | 1/1 | ai |
+| [Obsidian Solutions Group](../companies/obsidian-solutions-group.md) | 1/1 | software-engineering |
 | [Odin Dynamics, Inc](../companies/odin-dynamics-inc.md) | 1/1 | software-engineering |
 | [Old Mission](../companies/old-mission.md) | 1/1 | software-engineering |
 | [Oligo Space](../companies/oligo-space.md) | 1/1 | machine-learning |

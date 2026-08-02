@@ -540,6 +540,7 @@
 - Nuro — [Software Engineer, AI Platform - Intern](https://nuro.ai/careersitem?gh_jid=7351061)
 - NVIDIA — [Performance Engineer Intern, Systems Software](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-MO-St-Louis/Performance-Engineer-Intern--Systems-Software---Fall-2026_JR2015779)
 - NXP Semiconductors — [Digital Physical Design Intern - P&R](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Chandler-Office/Digital-Physical-Design--P-R--Intern_R-10064673)
+- Obsidian Solutions Group — [Unity 3D Developer Intern](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4341435)
 - Odin Dynamics, Inc — [Engineering Intern](https://jobs.ashbyhq.com/odin-dynamics/db6fe6ed-3517-423d-a757-3b6edea4b51d/application?embed=true)
 - Old Mission — [Software Engineer Intern](https://www.oldmissioncapital.com/careers/?gh_jid=7796180003)
 - Oligo Space — [ML/AI/CS Intern](https://jobs.ashbyhq.com/oligo/107f5148-84bd-43ba-a49d-ac8928898ca6/application?embed=true)
