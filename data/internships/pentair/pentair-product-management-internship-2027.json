@@ -1,0 +1,77 @@
+{
+  "schema_version": "1.0",
+  "id": "pentair-product-management-internship-2027",
+  "company": {
+    "name": "Pentair",
+    "slug": "pentair"
+  },
+  "role": "Product Management Internship",
+  "category": "product",
+  "apply_url": "https://pentair.wd5.myworkdayjobs.com/pentair_careers/job/Golden-Valley-MN/Product-Management-Leadership-Development-Internship-Program---Summer-2027_R23713",
+  "season": "summer",
+  "year": 2027,
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "Apex",
+      "state": "NC",
+      "country": "USA"
+    },
+    {
+      "city": "Brookfield",
+      "state": "WI",
+      "country": "USA"
+    },
+    {
+      "city": "Delavan",
+      "state": "WI",
+      "country": "USA"
+    },
+    {
+      "city": "North Aurora",
+      "state": "IL",
+      "country": "USA"
+    },
+    {
+      "city": "New Brighton",
+      "state": "MN",
+      "country": "USA"
+    },
+    {
+      "city": "Golden Valley",
+      "state": "MN",
+      "country": "USA"
+    }
+  ],
+  "compensation": {
+    "currency": "USD",
+    "housing_stipend": false,
+    "relocation_assistance": false
+  },
+  "eligibility": {
+    "graduation_years": [],
+    "degree_levels": [],
+    "citizenship_required": false,
+    "security_clearance_required": false,
+    "visa_sponsorship": "unknown"
+  },
+  "interview": {},
+  "tech": {
+    "required_skills": [],
+    "preferred_skills": [],
+    "languages": [],
+    "frameworks": [],
+    "cloud_platforms": [],
+    "resume_keywords": []
+  },
+  "dates": {
+    "posted": "2026-08-03",
+    "discovered": "2026-08-03",
+    "last_verified": "2026-08-03"
+  },
+  "status": "open",
+  "tags": [
+    "auto-ingested",
+    "src:simplify"
+  ]
+}

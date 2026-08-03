@@ -21,7 +21,7 @@ _Generated 2026-08-03_
 | Rivian and Volkswagen Group Technologies | 16 |
 | Meta | 15 |
 | ByteDance | 14 |
-| Etched | 13 |
+| Etched | 14 |
 | Virtu Financial | 13 |
 | Astranis | 11 |
 | Ciena | 11 |
@@ -33,22 +33,24 @@ _Generated 2026-08-03_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 651 | `████████████` |
-| quant | 140 | `███` |
-| ai | 126 | `██` |
+| software-engineering | 666 | `████████████` |
+| quant | 142 | `███` |
+| ai | 129 | `██` |
 | machine-learning | 84 | `██` |
 | research | 78 | `█` |
 | hardware | 68 | `█` |
 | embedded | 42 | `█` |
-| product | 31 | `█` |
+| product | 32 | `█` |
 | cloud | 28 | `█` |
 | design | 28 | `█` |
 | data-science | 18 | `█` |
-| data-engineering | 14 | `█` |
+| data-engineering | 15 | `█` |
 | security | 8 | `█` |
 
 ## Newest listings
 
+- 2026-08-03 — **1X**: [CNC Machine Park Intern](https://jobs.ashbyhq.com/1x/e7b4aaf5-5c55-4e2f-abcd-5c250657bede/application?embed=true)
+- 2026-08-03 — **AcreTrader**: [Data Intern](https://ats.rippling.com/acretrader-jobs/jobs/e0192aa0-bd65-4262-81ed-d64685c7dc41)
 - 2026-08-03 — **American Express**: [Campus Undergraduate Summer Internship - Strategy & Analytics - Credit & Fraud Risk](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011984)
 - 2026-08-03 — **American Express**: [Digital Product Analyst Intern](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011918)
 - 2026-08-03 — **American Express**: [Product Development Intern - Product Development - Consumer Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011571)
@@ -57,6 +59,7 @@ _Generated 2026-08-03_
 - 2026-08-03 — **Aramark**: [Data Analyst Intern](https://aramarkcareers.com/UnitedStates/job/Newark-Student-Dietetic-Intern-DE-19716/1415241000/?ats=successfactors)
 - 2026-08-03 — **Astera**: [Software Engineering Intern, Neuro & AGI](https://jobs.ashbyhq.com/astera/c2a48c1b-c4c4-4333-addf-313c47e26066)
 - 2026-08-03 — **Black Cape**: [Software Engineer Intern](https://blackcape.applytojob.com/apply/7o6mmAYryt/US-Military-Skillbridge-Internship-Software-EngineerArlington-VA)
+- 2026-08-03 — **Bosch Home Comfort**: [Artificial Intelligence and Software Development Engineering Intern](https://jobs.smartrecruiters.com/BoschGroup/744000141302469)
 - 2026-08-03 — **ByteDance**: [AI Perception Intern - Pico](https://jobs.bytedance.com/en/position/7665457718334425349/detail)
 - 2026-08-03 — **ByteDance**: [Research Scientist Intern](https://jobs.bytedance.com/en/position/7667380188619131189/detail)
 - 2026-08-03 — **ByteDance**: [Research Scientist Intern](https://jobs.bytedance.com/en/position/7667379218929780997/detail)
@@ -66,9 +69,6 @@ _Generated 2026-08-03_
 - 2026-08-03 — **ByteDance**: [Research Scientist Intern - Multi-modal Agentic Databases](https://jobs.bytedance.com/en/position/7667380487805995269/detail)
 - 2026-08-03 — **ByteDance**: [Research Scientist Intern - Multi-modal Agentic Databases](https://jobs.bytedance.com/en/position/7667380184615127301/detail)
 - 2026-08-03 — **ByteDance**: [Software Engineer Intern](https://jobs.bytedance.com/en/position/7668373268886161669/detail)
-- 2026-08-03 — **ByteDance**: [Software Engineer Intern - AI Infra Compute](https://jobs.bytedance.com/en/position/7667378931599214853/detail)
-- 2026-08-03 — **ByteDance**: [Software Engineer Intern - AI Infrastructure Compute](https://jobs.bytedance.com/en/position/7667377525182662965/detail)
-- 2026-08-03 — **ByteDance**: [Software Engineer Intern - Distributed NoSQL Database Systems](https://jobs.bytedance.com/en/position/7668374190764050741/detail)
 
 ## Recently closed
 
@@ -120,7 +120,6 @@ _Generated 2026-08-03_
 - Ciena — Routing/IP Software Developer Intern
 - Ciena — Software Engineer and Tools Developer Intern
 - City of Austin — Austin Aviation Undergraduate Intern - IT Business Systems Analyst
-- Cloudflare — Brand Social Media Intern (Fall 2026)
 - Cloudflare — EIAM Business Enablement & Operations Intern (Fall 2026)
 - Cloudflare — Public Policy Intern
 - Cloudflare — Sales Project Manager Intern (AI Innovation) (Fall 2026)
@@ -187,7 +186,6 @@ _Generated 2026-08-03_
 - IMC Trading — 2027 - Software Engineering Intern - BITS Pilani
 - IMC Trading — 2027 - Software Engineering Intern - IIT Bombay
 - IMC Trading — 2027 - Software Engineering Intern - IIT Delhi
-- Impulse Space — Data Analytics Intern
 - Impulse Space — Radio Frequency Engineering Intern
 - Instacart — Machine Learning Engineer, PhD Intern (Fall)
 - Instacart — Machine Learning PhD Intern, Economics (Fall)
@@ -236,7 +234,6 @@ _Generated 2026-08-03_
 - Navy Federal — Year Round Intern - Business Intelligence Analyst
 - Neuralink — R&D Materials Engineer Intern
 - NewsBreak — Growth Engineer Intern - Growth Engineering
-- Nextiva — Forward Deployed Engineer Intern - AI Implementation
 - Nokia — Data Science Co-op/Intern
 - Nokia — Embedded C/C++ Software Developer Co-op/Intern
 - Nokia — Incubation Developer Coop/Intern
@@ -317,6 +314,7 @@ _Generated 2026-08-03_
 - Tencent — AI Agent Research & Application Intern
 - Tencent — Research Intern
 - Tencent — Research Intern
+- Tenstorrent — CPU/AI Workload Analysis Intern
 - Tesla — AI Inference Engineer Intern - Software Compiler Engineer - AI Inference
 - Tesla — Electronic Design Engineer Internship - Electronic Design Engineer - Electronic Systems
 - Tesla — Embedded Software Engineer Intern - Embedded Software Engineer - Steering,Chassis Systems
