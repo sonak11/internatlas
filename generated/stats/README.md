@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 📊 Statistics
 
-_Generated 2026-08-02_
+_Generated 2026-08-03_
 
 ## Top hiring companies
 
@@ -196,7 +196,6 @@ _Generated 2026-08-02_
 - Kudu Dynamics — Software Engineer Intern
 - Kudu Dynamics — Software Engineer Intern
 - LexisNexis Risk Solutions — Editorial Data Reporting Intern
-- Light & Wonder — Mathematics Intern
 - Littelfuse — Intern 1 - Engineering
 - LiveRamp — Software Engineer Intern, Pixel Serving
 - Loop — Data Scientist Intern
@@ -236,7 +235,6 @@ _Generated 2026-08-02_
 - NVIDIA — Applied Deep Learning PhD Research Intern - Reinforcement Learning for LLMs
 - NVIDIA — Applied Research Intern - NLP
 - NVIDIA — Java Engineer Intern
-- NVIDIA — PhD Research Intern - Security and Privacy
 - NVIDIA — PhD Research Intern - System Software and I/O Architecture
 - NVIDIA — PhD Software Engineer Intern - Decision Intelligence
 - NVIDIA — Quantum Research Scientist Intern
@@ -312,7 +310,6 @@ _Generated 2026-08-02_
 - TikTok — Product Manager Intern - Tiktok-Product-Search
 - TMX Group — Software Engineer Intern - Java
 - Together AI — Research Intern - Inference
-- Torch Technologies — Software Engineer Intern
 - Toshiba Commerce Solutions — Project Management & AI Automation Intern
 - Toshiba Global Commerce — Agentic Software Engineer Intern
 - Tower Research Capital — Quantitative Trader Intern
