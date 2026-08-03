@@ -1,20 +1,21 @@
 {
   "schema_version": "1.0",
-  "id": "nvidia-performance-engineer-intern-systems-software-2026",
+  "id": "samsara-software-engineering-internship-san-fransisco-2027",
   "company": {
-    "name": "NVIDIA",
-    "slug": "nvidia"
+    "name": "Samsara",
+    "slug": "samsara",
+    "career_page": "https://www.samsara.com/company/careers"
   },
-  "role": "Performance Engineer Intern, Systems Software",
+  "role": "Software Engineering Internship - San Fransisco",
   "category": "software-engineering",
-  "apply_url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-MO-St-Louis/Performance-Engineer-Intern--Systems-Software---Fall-2026_JR2015779",
-  "season": "fall",
-  "year": 2026,
+  "apply_url": "https://www.samsara.com/company/careers/roles/8082091?gh_jid=8082091",
+  "season": "summer",
+  "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "St. Louis",
-      "state": "MO",
+      "city": "San Francisco",
+      "state": "SF9",
       "country": "USA"
     }
   ],
@@ -40,13 +41,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-09",
-    "discovered": "2026-07-17",
+    "posted": "2026-08-03",
+    "discovered": "2026-08-03",
     "last_verified": "2026-08-03"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
-    "src:vanshb03"
+    "src:ats"
   ]
 }

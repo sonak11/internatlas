@@ -1,21 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "samsara-software-engineering-internship-2027-2027",
+  "id": "spacex-spring-2027-software-engineering-internship-co-op-2027",
   "company": {
-    "name": "Samsara",
-    "slug": "samsara",
-    "career_page": "https://www.samsara.com/company/careers"
+    "name": "SpaceX",
+    "slug": "spacex",
+    "career_page": "https://www.spacex.com/careers"
   },
-  "role": "Software Engineering Internship 2027",
-  "category": "software-engineering",
-  "apply_url": "https://www.samsara.com/company/careers/roles/8082091?gh_jid=8082091",
+  "role": "Spring 2027 Software Engineering Internship/Co-op",
+  "category": "hardware",
+  "apply_url": "https://boards.greenhouse.io/spacex/jobs/8621756002?gh_jid=8621756002",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "San Francisco",
-      "state": "SF9",
+      "city": "Flexible",
       "country": "USA"
     }
   ],

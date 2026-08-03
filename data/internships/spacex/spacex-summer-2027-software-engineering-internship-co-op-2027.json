@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "nvidia-performance-engineer-intern-systems-software-2026",
+  "id": "spacex-summer-2027-software-engineering-internship-co-op-2027",
   "company": {
-    "name": "NVIDIA",
-    "slug": "nvidia"
+    "name": "SpaceX",
+    "slug": "spacex",
+    "career_page": "https://www.spacex.com/careers"
   },
-  "role": "Performance Engineer Intern, Systems Software",
-  "category": "software-engineering",
-  "apply_url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-MO-St-Louis/Performance-Engineer-Intern--Systems-Software---Fall-2026_JR2015779",
-  "season": "fall",
-  "year": 2026,
+  "role": "Summer 2027 Software Engineering Internship/Co-op",
+  "category": "hardware",
+  "apply_url": "https://boards.greenhouse.io/spacex/jobs/8621757002?gh_jid=8621757002",
+  "season": "summer",
+  "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "St. Louis",
-      "state": "MO",
+      "city": "Flexible",
       "country": "USA"
     }
   ],
@@ -40,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-09",
-    "discovered": "2026-07-17",
+    "posted": "2026-08-03",
+    "discovered": "2026-08-03",
     "last_verified": "2026-08-03"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
-    "src:vanshb03"
+    "src:ats"
   ]
 }

@@ -11,10 +11,11 @@ _Generated 2026-08-03_
 | Tesla | 103 |
 | TikTok | 63 |
 | Jump Trading | 43 |
-| Cloudflare | 21 |
+| Cloudflare | 22 |
 | Susquehanna International Group (SIG) | 21 |
 | IMC Trading | 20 |
 | Neuralink | 20 |
+| SpaceX | 20 |
 | Jane Street | 17 |
 | Palantir Technologies | 17 |
 | Rivian and Volkswagen Group Technologies | 16 |
@@ -27,18 +28,17 @@ _Generated 2026-08-03_
 | Copart | 11 |
 | Optiver | 11 |
 | Palantir | 11 |
-| National Laboratory of the Rockies | 9 |
 
 ## Listings by category
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 650 | `████████████` |
+| software-engineering | 651 | `████████████` |
 | quant | 140 | `███` |
 | ai | 126 | `██` |
 | machine-learning | 84 | `██` |
 | research | 78 | `█` |
-| hardware | 56 | `█` |
+| hardware | 68 | `█` |
 | embedded | 42 | `█` |
 | product | 31 | `█` |
 | cloud | 28 | `█` |
@@ -82,11 +82,13 @@ _Generated 2026-08-03_
 - AMAROK Security — Research and Development Intern
 - American Bureau of Shipping — AI Software Engineering Intern
 - American Enterprise Institute — Data Analysis & AI Policy Intern
+- American Express — Product Development Intern - Product Development - Consumer Services
 - Amwins — Analytics & AI Intern
 - Apple — Applied Data Solutions Program Intern
 - Apptronik — Software Engineer Intern, ML Systems
 - Aptiv — Engineer Intern
 - AQR Capital Management — Portfolio Implementation – Trading and Portfolio Finance Analyst Intern
+- Aramark — Data Analyst Intern
 - Astranis — FPGA Associate Intern
 - Astranis — FPGA Intern
 - Autodesk — Cloud Developer Intern
@@ -118,6 +120,7 @@ _Generated 2026-08-03_
 - Ciena — Routing/IP Software Developer Intern
 - Ciena — Software Engineer and Tools Developer Intern
 - City of Austin — Austin Aviation Undergraduate Intern - IT Business Systems Analyst
+- Cloudflare — Brand Social Media Intern (Fall 2026)
 - Cloudflare — EIAM Business Enablement & Operations Intern (Fall 2026)
 - Cloudflare — Public Policy Intern
 - Cloudflare — Sales Project Manager Intern (AI Innovation) (Fall 2026)
@@ -169,9 +172,11 @@ _Generated 2026-08-03_
 - Google — Software Engineer Intern - MS
 - Hendrick Motorsports — Project and Race Support Engineer Internship
 - Hendrick Motorsports — Racing Performance Engineer Intern
+- Hermeus — Hardware-In-the-Loop Software Engineering Intern - Fall 2026
 - Hermeus — Modeling & Simulation Software Engineer Intern
 - Hermeus — Modeling & Simulation Software Engineering Intern
 - Hermeus — Subsystem Test Engineer Intern
+- HireVue — Data Science Intern
 - Hitachi Energy — Cloud & Data Specialist Intern
 - Hitachi Energy — Engineering Knowledge Management Intern - 8 months
 - Ignite Digital Services — Engineer/Scientist Intern
@@ -195,6 +200,7 @@ _Generated 2026-08-03_
 - KBR — National Security Solutions Intern - Nss
 - Kinaxis — Engineer Co-op/Intern - Data & Analytics
 - Kinaxis — Software Development Co-op/Intern - C++
+- Kirin — Software Engineer Intern - AI Agents + Devices
 - Kodak — Marketing Analytics Intern
 - Kudu Dynamics — Software Engineer Intern
 - Kudu Dynamics — Software Engineer Intern
@@ -213,6 +219,7 @@ _Generated 2026-08-03_
 - Menasha Corporation — Material Innovation Center Intern
 - Menasha Corporation — Supply Chain Analytics Intern
 - Meta — Research Scientist Intern - 3D Vision & World Simulation
+- Meta — Research Scientist Intern - Multimodal Contextual AI
 - Meta — Research Scientist Intern PhD - Applied Research
 - Microchip Technology — Applications Engineering Intern
 - Mistral AI — Applied Scientist / Research Engineer Intern
@@ -241,6 +248,7 @@ _Generated 2026-08-03_
 - NVIDIA — Applied Deep Learning PhD Research Intern - Reinforcement Learning for LLMs
 - NVIDIA — Applied Research Intern - NLP
 - NVIDIA — Java Engineer Intern
+- NVIDIA — Performance Engineer Intern, Systems Software
 - NVIDIA — PhD Research Intern - System Software and I/O Architecture
 - NVIDIA — PhD Software Engineer Intern - Decision Intelligence
 - NVIDIA — Quantum Research Scientist Intern
@@ -289,6 +297,13 @@ _Generated 2026-08-03_
 - Smith+Nephew — Operational Technology Intern
 - Solid Power — Product Development Intern
 - SOTI — Product Manager Intern - Sales Enablement Products
+- SpaceX — Engineering Intern
+- SpaceX — Fall 2026 Business Operations Internship/Co-op
+- SpaceX — Fall 2026 Engineering Internship/Co-op
+- SpaceX — Fall 2026 Graduate Engineer Internship/Co-op
+- SpaceX — Fall 2026 Software Engineering Internship/Co-op
+- SpaceX — Software Engineering Intern
+- SpaceX — Software Engineering Intern/Co-op
 - Sparksoft — Data Development Intern
 - Sparksoft — Technical Intern
 - Spectrum Control — Engineering Intern
@@ -315,6 +330,7 @@ _Generated 2026-08-03_
 - Tesla — Software Engineer Intern - Wireless Connectivity Software Engineer - Electronic Devices
 - Tesla — Software Integration Engineer Intern - Software Integration Engineer - Service Tooling
 - The Federal Reserve System — Business Survey Intern
+- The Mosaic Company — Cybersecurity Co-Op/Intern
 - The Trade Desk — Software Engineering Intern
 - TikTok — Global Product Operations Manager Intern - Global Business Solutions
 - TikTok — Machine Learning Engineer Intern - App Ads
@@ -325,6 +341,7 @@ _Generated 2026-08-03_
 - Toshiba Commerce Solutions — AI Engineering Intern
 - Toshiba Commerce Solutions — Project Management & AI Automation Intern
 - Toshiba Global Commerce — Agentic Software Engineer Intern
+- Toshiba Global Commerce — AI Product Management Intern
 - Tower Research Capital — Quantitative Trader Intern
 - University of Virginia — Graduate Research Intern
 - Varda Space — Mission Software – Intern - Python

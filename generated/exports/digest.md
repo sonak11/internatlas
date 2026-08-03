@@ -1,6 +1,6 @@
 # 📬 InternAtlas Weekly Digest — 2026-08-03
 
-## 🆕 New this week (269)
+## 🆕 New this week (282)
 
 - **Altice USA** — [Data Engineer Intern](https://www.optimumcareers.com/job/Long-Island-City-Intern-Data-Engineer-NY-11101/1414286700/?ats=successfactors) · data-engineering · —
 - **American Express** — [Campus Undergraduate Summer Internship - Strategy & Analytics - Credit & Fraud Risk](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011984) · software-engineering · —
@@ -61,6 +61,7 @@
 - **Citadel** — [Sector Data Analyst Intern](https://www.citadel.com/careers/details/sector-data-analyst-intern-europe/) · software-engineering · —
 - **City of Austin** — [Business Intelligence Intern - Business Intelligence](https://austintexas.wd5.myworkdayjobs.com/COA_Careers/job/Fire-Headquarters/Business-Intelligence-Internship_JR104636) · software-engineering · —
 - **City of Austin** — [Research Analyst Intern](https://austintexas.wd5.myworkdayjobs.com/COA_Careers/job/Fire-Headquarters/Research-Analyst-Internship_JR104634) · research · —
+- **Cloudflare** — [Accounting Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/7902104?gh_jid=7902104) · software-engineering · —
 - **Cloudflare** — [Customer Advocacy Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8093127?gh_jid=8093127) · software-engineering · —
 - **Cloudflare** — [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089407) · research · —
 - **Cloudflare** — [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089379) · research · —
@@ -184,11 +185,23 @@
 - **SK Hynix Memory Solution** — [Software Engineer Intern](https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4342038009) · software-engineering · —
 - **SRI International** — [Computer Science Intern](https://careers-sri.icims.com/jobs/6438/job?mobile=true&needsRedirect=false) · software-engineering · —
 - **Samsara** — [Software Engineering Interns - London](https://www.samsara.com/company/careers/roles/8082093?gh_jid=8082093) · software-engineering · —
-- **Samsara** — [Software Engineering Internship 2027](https://www.samsara.com/company/careers/roles/8082091?gh_jid=8082091) · software-engineering · —
+- **Samsara** — [Software Engineering Internship - San Fransisco](https://www.samsara.com/company/careers/roles/8082091?gh_jid=8082091) · software-engineering · —
 - **Sentara Health** — [Data & AI Finance Strategy Intern](https://sentara.wd1.myworkdayjobs.com/SCS/job/Virginia-Beach-VA/Data---AI-Finance-Strategy-Intern---Fall-2026-Internship-Remote_JR-103073) · ai · —
 - **Skydio** — [Product Management Intern](https://jobs.ashbyhq.com/skydio/1ec2fe3c-3fb2-4485-870d-764a3e5f5baf/application?embed=true) · product · —
 - **Smiths Detection Group** — [Commercial Intern - Commercial Tools & Business Intelligence](https://jobs.smartrecruiters.com/SmithsGroup2/744000140169009) · software-engineering · —
 - **Sony Pictures Entertainment** — [Graduate Intern - Advanced Technologies](https://spe.wd1.myworkdayjobs.com/en-US/SonyPicturesEntertainment/job/Culver-City-California/Graduate-Intern--Advanced-Technologies_JR113816) · software-engineering · —
+- **SpaceX** — [Spring 2027 Business Operations Internship/Co-op](https://boards.greenhouse.io/spacex/jobs/8621770002?gh_jid=8621770002) · hardware · —
+- **SpaceX** — [Spring 2027 Civil/Structural Engineering Internship](https://boards.greenhouse.io/spacex/jobs/8636143002?gh_jid=8636143002) · hardware · —
+- **SpaceX** — [Spring 2027 Engineering Internship/Co-op](https://boards.greenhouse.io/spacex/jobs/8616338002?gh_jid=8616338002) · hardware · —
+- **SpaceX** — [Spring 2027 Graduate Engineer Internship/Co-op](https://boards.greenhouse.io/spacex/jobs/8621749002?gh_jid=8621749002) · hardware · —
+- **SpaceX** — [Spring 2027 Silicon Engineering Internship/Co-op](https://boards.greenhouse.io/spacex/jobs/8636134002?gh_jid=8636134002) · hardware · —
+- **SpaceX** — [Spring 2027 Software Engineering Internship/Co-op](https://boards.greenhouse.io/spacex/jobs/8621756002?gh_jid=8621756002) · hardware · —
+- **SpaceX** — [Summer 2027 Business Operations Internship/Co-op](https://boards.greenhouse.io/spacex/jobs/8621771002?gh_jid=8621771002) · hardware · —
+- **SpaceX** — [Summer 2027 Civil/Structural Engineering Internship](https://boards.greenhouse.io/spacex/jobs/8636144002?gh_jid=8636144002) · hardware · —
+- **SpaceX** — [Summer 2027 Engineering Internship/Co-op](https://boards.greenhouse.io/spacex/jobs/8621740002?gh_jid=8621740002) · hardware · —
+- **SpaceX** — [Summer 2027 Graduate Engineer Internship/Co-op](https://boards.greenhouse.io/spacex/jobs/8621753002?gh_jid=8621753002) · hardware · —
+- **SpaceX** — [Summer 2027 Silicon Engineering Internship/Co-op](https://boards.greenhouse.io/spacex/jobs/8621763002?gh_jid=8621763002) · hardware · —
+- **SpaceX** — [Summer 2027 Software Engineering Internship/Co-op](https://boards.greenhouse.io/spacex/jobs/8621757002?gh_jid=8621757002) · hardware · —
 - **Sparksoft** — [Technical Intern](https://job-boards.greenhouse.io/sparksoftcorporation/jobs/5199580007) · software-engineering · —
 - **Squarepoint Capital** — [Intern Quant Researcher](https://boards.greenhouse.io/embed/job_app?token=243853) · quant · —
 - **Stellar Science** — [Scientific Software Developer Intern Co-op](https://stellarscience.applytojob.com/apply/my4AC4VXHI/Scientific-Software-Developer-Paid-CoopInternship) · software-engineering · —

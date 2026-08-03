@@ -1,6 +1,6 @@
 {
   "generated": "2026-08-03",
-  "count": 1303,
+  "count": 1316,
   "internships": [
     {
       "schema_version": "1.0",
@@ -2966,7 +2966,7 @@
         "discovered": "2026-08-03",
         "last_verified": "2026-08-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -4597,7 +4597,7 @@
         "discovered": "2026-08-03",
         "last_verified": "2026-08-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -13212,6 +13212,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "cloudflare-accounting-intern-fall-2026-2027",
+      "company": {
+        "name": "Cloudflare",
+        "slug": "cloudflare",
+        "career_page": "https://www.cloudflare.com/careers"
+      },
+      "role": "Accounting Intern (Fall 2026)",
+      "category": "software-engineering",
+      "apply_url": "https://boards.greenhouse.io/cloudflare/jobs/7902104?gh_jid=7902104",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "In-Office",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-03",
+        "discovered": "2026-08-03",
+        "last_verified": "2026-08-03"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "cloudflare-ai-builder-intern-global-customer-engineering-service-sales-2026",
       "company": {
         "name": "Cloudflare",
@@ -13361,7 +13413,7 @@
         "discovered": "2026-07-18",
         "last_verified": "2026-08-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:ats"
@@ -24741,7 +24793,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -25060,7 +25112,7 @@
         "discovered": "2026-07-20",
         "last_verified": "2026-08-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -32645,7 +32697,7 @@
         "discovered": "2026-07-21",
         "last_verified": "2026-08-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -35591,7 +35643,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -41103,7 +41155,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -49776,13 +49828,13 @@
     },
     {
       "schema_version": "1.0",
-      "id": "samsara-software-engineering-internship-2027-2027",
+      "id": "samsara-software-engineering-internship-san-fransisco-2027",
       "company": {
         "name": "Samsara",
         "slug": "samsara",
         "career_page": "https://www.samsara.com/company/careers"
       },
-      "role": "Software Engineering Internship 2027",
+      "role": "Software Engineering Internship - San Fransisco",
       "category": "software-engineering",
       "apply_url": "https://www.samsara.com/company/careers/roles/8082091?gh_jid=8082091",
       "season": "summer",
@@ -52119,7 +52171,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -52171,7 +52223,7 @@
         "discovered": "2026-07-18",
         "last_verified": "2026-08-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:ats"
@@ -52223,7 +52275,7 @@
         "discovered": "2026-07-18",
         "last_verified": "2026-08-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:ats"
@@ -52275,7 +52327,7 @@
         "discovered": "2026-07-18",
         "last_verified": "2026-08-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:ats"
@@ -52327,7 +52379,7 @@
         "discovered": "2026-07-18",
         "last_verified": "2026-08-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:ats"
@@ -52467,7 +52519,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -52556,10 +52608,634 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "spacex-spring-2027-business-operations-internship-co-op-2027",
+      "company": {
+        "name": "SpaceX",
+        "slug": "spacex",
+        "career_page": "https://www.spacex.com/careers"
+      },
+      "role": "Spring 2027 Business Operations Internship/Co-op",
+      "category": "hardware",
+      "apply_url": "https://boards.greenhouse.io/spacex/jobs/8621770002?gh_jid=8621770002",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Flexible",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-03",
+        "discovered": "2026-08-03",
+        "last_verified": "2026-08-03"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "spacex-spring-2027-civil-structural-engineering-internship-2027",
+      "company": {
+        "name": "SpaceX",
+        "slug": "spacex",
+        "career_page": "https://www.spacex.com/careers"
+      },
+      "role": "Spring 2027 Civil/Structural Engineering Internship",
+      "category": "hardware",
+      "apply_url": "https://boards.greenhouse.io/spacex/jobs/8636143002?gh_jid=8636143002",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Flexible",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-03",
+        "discovered": "2026-08-03",
+        "last_verified": "2026-08-03"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "spacex-spring-2027-engineering-internship-co-op-2027",
+      "company": {
+        "name": "SpaceX",
+        "slug": "spacex",
+        "career_page": "https://www.spacex.com/careers"
+      },
+      "role": "Spring 2027 Engineering Internship/Co-op",
+      "category": "hardware",
+      "apply_url": "https://boards.greenhouse.io/spacex/jobs/8616338002?gh_jid=8616338002",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Flexible",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-03",
+        "discovered": "2026-08-03",
+        "last_verified": "2026-08-03"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "spacex-spring-2027-graduate-engineer-internship-co-op-2027",
+      "company": {
+        "name": "SpaceX",
+        "slug": "spacex",
+        "career_page": "https://www.spacex.com/careers"
+      },
+      "role": "Spring 2027 Graduate Engineer Internship/Co-op",
+      "category": "hardware",
+      "apply_url": "https://boards.greenhouse.io/spacex/jobs/8621749002?gh_jid=8621749002",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Flexible",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-03",
+        "discovered": "2026-08-03",
+        "last_verified": "2026-08-03"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "spacex-spring-2027-silicon-engineering-internship-co-op-2027",
+      "company": {
+        "name": "SpaceX",
+        "slug": "spacex",
+        "career_page": "https://www.spacex.com/careers"
+      },
+      "role": "Spring 2027 Silicon Engineering Internship/Co-op",
+      "category": "hardware",
+      "apply_url": "https://boards.greenhouse.io/spacex/jobs/8636134002?gh_jid=8636134002",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Flexible",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-03",
+        "discovered": "2026-08-03",
+        "last_verified": "2026-08-03"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "spacex-spring-2027-software-engineering-internship-co-op-2027",
+      "company": {
+        "name": "SpaceX",
+        "slug": "spacex",
+        "career_page": "https://www.spacex.com/careers"
+      },
+      "role": "Spring 2027 Software Engineering Internship/Co-op",
+      "category": "hardware",
+      "apply_url": "https://boards.greenhouse.io/spacex/jobs/8621756002?gh_jid=8621756002",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Flexible",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-03",
+        "discovered": "2026-08-03",
+        "last_verified": "2026-08-03"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "spacex-summer-2027-business-operations-internship-co-op-2027",
+      "company": {
+        "name": "SpaceX",
+        "slug": "spacex",
+        "career_page": "https://www.spacex.com/careers"
+      },
+      "role": "Summer 2027 Business Operations Internship/Co-op",
+      "category": "hardware",
+      "apply_url": "https://boards.greenhouse.io/spacex/jobs/8621771002?gh_jid=8621771002",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Flexible",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-03",
+        "discovered": "2026-08-03",
+        "last_verified": "2026-08-03"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "spacex-summer-2027-civil-structural-engineering-internship-2027",
+      "company": {
+        "name": "SpaceX",
+        "slug": "spacex",
+        "career_page": "https://www.spacex.com/careers"
+      },
+      "role": "Summer 2027 Civil/Structural Engineering Internship",
+      "category": "hardware",
+      "apply_url": "https://boards.greenhouse.io/spacex/jobs/8636144002?gh_jid=8636144002",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Flexible",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-03",
+        "discovered": "2026-08-03",
+        "last_verified": "2026-08-03"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "spacex-summer-2027-engineering-internship-co-op-2027",
+      "company": {
+        "name": "SpaceX",
+        "slug": "spacex",
+        "career_page": "https://www.spacex.com/careers"
+      },
+      "role": "Summer 2027 Engineering Internship/Co-op",
+      "category": "hardware",
+      "apply_url": "https://boards.greenhouse.io/spacex/jobs/8621740002?gh_jid=8621740002",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Flexible",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-03",
+        "discovered": "2026-08-03",
+        "last_verified": "2026-08-03"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "spacex-summer-2027-graduate-engineer-internship-co-op-2027",
+      "company": {
+        "name": "SpaceX",
+        "slug": "spacex",
+        "career_page": "https://www.spacex.com/careers"
+      },
+      "role": "Summer 2027 Graduate Engineer Internship/Co-op",
+      "category": "hardware",
+      "apply_url": "https://boards.greenhouse.io/spacex/jobs/8621753002?gh_jid=8621753002",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Flexible",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-03",
+        "discovered": "2026-08-03",
+        "last_verified": "2026-08-03"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "spacex-summer-2027-silicon-engineering-internship-co-op-2027",
+      "company": {
+        "name": "SpaceX",
+        "slug": "spacex",
+        "career_page": "https://www.spacex.com/careers"
+      },
+      "role": "Summer 2027 Silicon Engineering Internship/Co-op",
+      "category": "hardware",
+      "apply_url": "https://boards.greenhouse.io/spacex/jobs/8621763002?gh_jid=8621763002",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Flexible",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-03",
+        "discovered": "2026-08-03",
+        "last_verified": "2026-08-03"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "spacex-summer-2027-software-engineering-internship-co-op-2027",
+      "company": {
+        "name": "SpaceX",
+        "slug": "spacex",
+        "career_page": "https://www.spacex.com/careers"
+      },
+      "role": "Summer 2027 Software Engineering Internship/Co-op",
+      "category": "hardware",
+      "apply_url": "https://boards.greenhouse.io/spacex/jobs/8621757002?gh_jid=8621757002",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Flexible",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-03",
+        "discovered": "2026-08-03",
+        "last_verified": "2026-08-03"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
       ]
     },
     {
@@ -61792,7 +62468,7 @@
         "discovered": "2026-07-27",
         "last_verified": "2026-08-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -65888,7 +66564,7 @@
         "discovered": "2026-07-27",
         "last_verified": "2026-08-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
