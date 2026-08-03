@@ -1,23 +1,21 @@
 {
   "schema_version": "1.0",
-  "id": "hudson-river-trading-algorithm-development-intern-quant-research-2027",
+  "id": "samsara-software-engineering-interns-london-2027",
   "company": {
-    "name": "Hudson River Trading",
-    "slug": "hudson-river-trading"
+    "name": "Samsara",
+    "slug": "samsara",
+    "career_page": "https://www.samsara.com/company/careers"
   },
-  "role": "Algorithm Development Intern - Quant Research",
-  "category": "quant",
-  "apply_url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8059837",
+  "role": "Software Engineering Interns - London",
+  "category": "software-engineering",
+  "apply_url": "https://www.samsara.com/company/careers/roles/8082093?gh_jid=8082093",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "NYC",
-      "country": "USA"
-    },
-    {
       "city": "London",
+      "state": "UK2",
       "country": "USA"
     }
   ],
@@ -43,13 +41,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-13",
-    "discovered": "2026-07-17",
+    "posted": "2026-08-03",
+    "discovered": "2026-08-03",
     "last_verified": "2026-08-03"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:ats"
   ]
 }

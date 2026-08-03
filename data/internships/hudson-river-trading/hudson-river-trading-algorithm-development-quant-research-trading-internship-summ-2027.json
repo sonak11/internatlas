@@ -14,8 +14,7 @@
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "New York",
-      "state": "NY",
+      "city": "London",
       "country": "USA"
     }
   ],

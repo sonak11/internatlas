@@ -1,23 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "hudson-river-trading-algorithm-development-intern-quant-research-2027",
+  "id": "aramark-data-analyst-intern-2026",
   "company": {
-    "name": "Hudson River Trading",
-    "slug": "hudson-river-trading"
+    "name": "Aramark",
+    "slug": "aramark"
   },
-  "role": "Algorithm Development Intern - Quant Research",
-  "category": "quant",
-  "apply_url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8059837",
-  "season": "summer",
-  "year": 2027,
+  "role": "Data Analyst Intern",
+  "category": "software-engineering",
+  "apply_url": "https://aramarkcareers.com/UnitedStates/job/Newark-Student-Dietetic-Intern-DE-19716/1415241000/?ats=successfactors",
+  "season": "fall",
+  "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "NYC",
-      "country": "USA"
-    },
-    {
-      "city": "London",
+      "city": "Newark",
+      "state": "DE",
       "country": "USA"
     }
   ],
@@ -43,8 +40,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-13",
-    "discovered": "2026-07-17",
+    "posted": "2026-08-03",
+    "discovered": "2026-08-03",
     "last_verified": "2026-08-03"
   },
   "status": "open",

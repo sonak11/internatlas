@@ -1,6 +1,6 @@
 {
   "generated": "2026-08-03",
-  "count": 1294,
+  "count": 1303,
   "internships": [
     {
       "schema_version": "1.0",
@@ -4553,6 +4553,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "aramark-data-analyst-intern-2026",
+      "company": {
+        "name": "Aramark",
+        "slug": "aramark"
+      },
+      "role": "Data Analyst Intern",
+      "category": "software-engineering",
+      "apply_url": "https://aramarkcareers.com/UnitedStates/job/Newark-Student-Dietetic-Intern-DE-19716/1415241000/?ats=successfactors",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Newark",
+          "state": "DE",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-03",
+        "discovered": "2026-08-03",
+        "last_verified": "2026-08-03"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "arcadis-gis-intern-2026",
       "company": {
         "name": "Arcadis",
@@ -6298,7 +6350,7 @@
         "discovered": "2026-07-21",
         "last_verified": "2026-08-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -6344,7 +6396,7 @@
         "discovered": "2026-07-21",
         "last_verified": "2026-08-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -9768,6 +9820,63 @@
     },
     {
       "schema_version": "1.0",
+      "id": "capital-one-cyber-security-intern-2027",
+      "company": {
+        "name": "Capital One",
+        "slug": "capital-one"
+      },
+      "role": "Cyber Security Intern",
+      "category": "security",
+      "apply_url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Cyber-Security-Internship-Program---Summer-2027_R244319",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "McLean",
+          "state": "VA",
+          "country": "USA"
+        },
+        {
+          "city": "Plano",
+          "state": "TX",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "no"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-03",
+        "discovered": "2026-08-03",
+        "last_verified": "2026-08-03"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "capital-one-data-analyst-intern-2027",
       "company": {
         "name": "Capital One",
@@ -10095,6 +10204,68 @@
         "last_verified": "2026-07-24"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "capital-one-software-engineer-intern-2027",
+      "company": {
+        "name": "Capital One",
+        "slug": "capital-one"
+      },
+      "role": "Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Technology-Internship-Program---Summer-2027_R244387-1",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "McLean",
+          "state": "VA",
+          "country": "USA"
+        },
+        {
+          "city": "Plano",
+          "state": "TX",
+          "country": "USA"
+        },
+        {
+          "city": "Richmond",
+          "state": "VA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "no"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-03",
+        "discovered": "2026-08-03",
+        "last_verified": "2026-08-03"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -25436,8 +25607,7 @@
           "country": "USA"
         },
         {
-          "city": "New York",
-          "state": "NY",
+          "city": "London",
           "country": "USA"
         }
       ],
@@ -25489,8 +25659,7 @@
       "work_mode": "onsite",
       "locations": [
         {
-          "city": "New York",
-          "state": "NY",
+          "city": "London",
           "country": "USA"
         }
       ],
@@ -45893,7 +46062,7 @@
         "discovered": "2026-07-31",
         "last_verified": "2026-08-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -49554,6 +49723,112 @@
     },
     {
       "schema_version": "1.0",
+      "id": "samsara-software-engineering-interns-london-2027",
+      "company": {
+        "name": "Samsara",
+        "slug": "samsara",
+        "career_page": "https://www.samsara.com/company/careers"
+      },
+      "role": "Software Engineering Interns - London",
+      "category": "software-engineering",
+      "apply_url": "https://www.samsara.com/company/careers/roles/8082093?gh_jid=8082093",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "London",
+          "state": "UK2",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-03",
+        "discovered": "2026-08-03",
+        "last_verified": "2026-08-03"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "samsara-software-engineering-internship-2027-2027",
+      "company": {
+        "name": "Samsara",
+        "slug": "samsara",
+        "career_page": "https://www.samsara.com/company/careers"
+      },
+      "role": "Software Engineering Internship 2027",
+      "category": "software-engineering",
+      "apply_url": "https://www.samsara.com/company/careers/roles/8082091?gh_jid=8082091",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Francisco",
+          "state": "SF9",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-03",
+        "discovered": "2026-08-03",
+        "last_verified": "2026-08-03"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "samsung-research-intern-2026",
       "company": {
         "name": "Samsung",
@@ -50386,7 +50661,7 @@
         "discovered": "2026-07-27",
         "last_verified": "2026-08-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -50973,7 +51248,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "sk-hynix-memory-solution-software-engineer-intern-2027",
+      "id": "sk-hynix-memory-solution-software-engineer-intern-2026",
       "company": {
         "name": "SK Hynix Memory Solution",
         "slug": "sk-hynix-memory-solution"
@@ -50981,8 +51256,8 @@
       "role": "Software Engineer Intern",
       "category": "software-engineering",
       "apply_url": "https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4342038009",
-      "season": "summer",
-      "year": 2027,
+      "season": "fall",
+      "year": 2026,
       "work_mode": "onsite",
       "locations": [
         {
@@ -51014,7 +51289,7 @@
       },
       "dates": {
         "posted": "2026-07-31",
-        "discovered": "2026-07-31",
+        "discovered": "2026-08-03",
         "last_verified": "2026-08-03"
       },
       "status": "open",
@@ -52384,7 +52659,7 @@
         "discovered": "2026-07-31",
         "last_verified": "2026-08-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -63591,6 +63866,114 @@
     },
     {
       "schema_version": "1.0",
+      "id": "tiktok-research-engineer-intern-monetization-technology-business-in-2026",
+      "company": {
+        "name": "TikTok",
+        "slug": "tiktok"
+      },
+      "role": "Research Engineer Intern - Monetization Technology - Business Integrity",
+      "category": "research",
+      "apply_url": "https://lifeattiktok.com/search/7668204394458466565",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-03",
+        "discovered": "2026-08-03",
+        "last_verified": "2026-08-03"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "tiktok-research-engineer-intern-monetization-technology-business-in-2027",
+      "company": {
+        "name": "TikTok",
+        "slug": "tiktok"
+      },
+      "role": "Research Engineer Intern - Monetization Technology - Business Integrity",
+      "category": "research",
+      "apply_url": "https://lifeattiktok.com/search/7668202602270951733",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-03",
+        "discovered": "2026-08-03",
+        "last_verified": "2026-08-03"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "tiktok-research-scientist-intern-content-intelligence-2026",
       "company": {
         "name": "TikTok",
@@ -63672,6 +64055,114 @@
         "graduation_years": [],
         "degree_levels": [
           "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-03",
+        "discovered": "2026-08-03",
+        "last_verified": "2026-08-03"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "tiktok-research-scientist-intern-monetization-technology-business-i-2027-04804f",
+      "company": {
+        "name": "TikTok",
+        "slug": "tiktok"
+      },
+      "role": "Research Scientist Intern - Monetization Technology - Business Integrity",
+      "category": "research",
+      "apply_url": "https://lifeattiktok.com/search/7668204438271969589",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-03",
+        "discovered": "2026-08-03",
+        "last_verified": "2026-08-03"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "tiktok-research-scientist-intern-monetization-technology-business-i-2027",
+      "company": {
+        "name": "TikTok",
+        "slug": "tiktok"
+      },
+      "role": "Research Scientist Intern - Monetization Technology - Business Integrity",
+      "category": "research",
+      "apply_url": "https://lifeattiktok.com/search/7668202600147552517",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
         ],
         "citizenship_required": false,
         "security_clearance_required": false,
@@ -65241,7 +65732,7 @@
         "discovered": "2026-07-27",
         "last_verified": "2026-08-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -68301,7 +68792,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -68515,7 +69006,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -68567,7 +69058,7 @@
         "discovered": "2026-07-24",
         "last_verified": "2026-08-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"

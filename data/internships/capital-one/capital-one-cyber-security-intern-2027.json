@@ -1,23 +1,25 @@
 {
   "schema_version": "1.0",
-  "id": "hudson-river-trading-algorithm-development-intern-quant-research-2027",
+  "id": "capital-one-cyber-security-intern-2027",
   "company": {
-    "name": "Hudson River Trading",
-    "slug": "hudson-river-trading"
+    "name": "Capital One",
+    "slug": "capital-one"
   },
-  "role": "Algorithm Development Intern - Quant Research",
-  "category": "quant",
-  "apply_url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8059837",
+  "role": "Cyber Security Intern",
+  "category": "security",
+  "apply_url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Cyber-Security-Internship-Program---Summer-2027_R244319",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "NYC",
+      "city": "McLean",
+      "state": "VA",
       "country": "USA"
     },
     {
-      "city": "London",
+      "city": "Plano",
+      "state": "TX",
       "country": "USA"
     }
   ],
@@ -31,7 +33,7 @@
     "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
-    "visa_sponsorship": "unknown"
+    "visa_sponsorship": "no"
   },
   "interview": {},
   "tech": {
@@ -43,13 +45,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-13",
-    "discovered": "2026-07-17",
+    "posted": "2026-08-03",
+    "discovered": "2026-08-03",
     "last_verified": "2026-08-03"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }

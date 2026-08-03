@@ -9,7 +9,7 @@ _Generated 2026-08-03_
 | Company | Listings |
 |---|---|
 | Tesla | 103 |
-| TikTok | 59 |
+| TikTok | 63 |
 | Jump Trading | 43 |
 | Cloudflare | 21 |
 | Susquehanna International Group (SIG) | 21 |
@@ -33,11 +33,11 @@ _Generated 2026-08-03_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 646 | `████████████` |
+| software-engineering | 650 | `████████████` |
 | quant | 140 | `███` |
 | ai | 126 | `██` |
 | machine-learning | 84 | `██` |
-| research | 74 | `█` |
+| research | 78 | `█` |
 | hardware | 56 | `█` |
 | embedded | 42 | `█` |
 | product | 31 | `█` |
@@ -45,7 +45,7 @@ _Generated 2026-08-03_
 | design | 28 | `█` |
 | data-science | 18 | `█` |
 | data-engineering | 14 | `█` |
-| security | 7 | `█` |
+| security | 8 | `█` |
 
 ## Newest listings
 
@@ -54,6 +54,7 @@ _Generated 2026-08-03_
 - 2026-08-03 — **American Express**: [Product Development Intern - Product Development - Consumer Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011571)
 - 2026-08-03 — **American Express**: [Product Management Intern - Product Innovation - Credit & Fraud Risk](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011992)
 - 2026-08-03 — **American Express**: [Undergraduate Intern - Strategy & Analytics](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011990)
+- 2026-08-03 — **Aramark**: [Data Analyst Intern](https://aramarkcareers.com/UnitedStates/job/Newark-Student-Dietetic-Intern-DE-19716/1415241000/?ats=successfactors)
 - 2026-08-03 — **Astera**: [Software Engineering Intern, Neuro & AGI](https://jobs.ashbyhq.com/astera/c2a48c1b-c4c4-4333-addf-313c47e26066)
 - 2026-08-03 — **Black Cape**: [Software Engineer Intern](https://blackcape.applytojob.com/apply/7o6mmAYryt/US-Military-Skillbridge-Internship-Software-EngineerArlington-VA)
 - 2026-08-03 — **ByteDance**: [AI Perception Intern - Pico](https://jobs.bytedance.com/en/position/7665457718334425349/detail)
@@ -68,7 +69,6 @@ _Generated 2026-08-03_
 - 2026-08-03 — **ByteDance**: [Software Engineer Intern - AI Infra Compute](https://jobs.bytedance.com/en/position/7667378931599214853/detail)
 - 2026-08-03 — **ByteDance**: [Software Engineer Intern - AI Infrastructure Compute](https://jobs.bytedance.com/en/position/7667377525182662965/detail)
 - 2026-08-03 — **ByteDance**: [Software Engineer Intern - Distributed NoSQL Database Systems](https://jobs.bytedance.com/en/position/7668374190764050741/detail)
-- 2026-08-03 — **Capital One**: [Technology Intern](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Technology-Internship-Program---Summer-2027_R244387-1)
 
 ## Recently closed
 
@@ -89,6 +89,8 @@ _Generated 2026-08-03_
 - AQR Capital Management — Portfolio Implementation – Trading and Portfolio Finance Analyst Intern
 - Astranis — FPGA Associate Intern
 - Astranis — FPGA Intern
+- Autodesk — Cloud Developer Intern
+- Autodesk — Cloud Developer Intern
 - Autodesk — Machine Learning Developer Intern
 - Avanade — Software Engineering Intern
 - AVEVA — Software Developer Intern Co-op
@@ -259,6 +261,7 @@ _Generated 2026-08-03_
 - Phlair — Working Student Intern - Control Team - Systems & Data Infrastructure
 - Pinterest — PhD Fall Machine Learning Intern (ATG — Visual, Multimodal, and Recommender Systems)
 - Podium — Software Engineering Intern
+- PSECU — Data Analyst Intern
 - Quadrillion — Software Engineer Intern
 - Rainmaker — Software Engineer Intern
 - Rakuten International — Software Engineer Intern
@@ -280,12 +283,14 @@ _Generated 2026-08-03_
 - Schweitzer Engineering Laboratories — Software Engineering Intern
 - Seaspan — Digital Ship Intern
 - Seaspan — Energy Management Intern
+- Sentara Health — Data & AI Finance Strategy Intern
 - Sentara Health — Enterprise Data & AI Intern
 - Skydio — Software Engineer Intern
 - Smith+Nephew — Operational Technology Intern
 - Solid Power — Product Development Intern
 - SOTI — Product Manager Intern - Sales Enablement Products
 - Sparksoft — Data Development Intern
+- Sparksoft — Technical Intern
 - Spectrum Control — Engineering Intern
 - SS&C — Healthcare AI & Automation Intern
 - Stoke Space — Software Intern - Software
@@ -317,6 +322,7 @@ _Generated 2026-08-03_
 - TikTok — Software Engineer Intern - Recommendation Infrastructure
 - TMX Group — Software Engineer Intern - Java
 - Together AI — Research Intern - Inference
+- Toshiba Commerce Solutions — AI Engineering Intern
 - Toshiba Commerce Solutions — Project Management & AI Automation Intern
 - Toshiba Global Commerce — Agentic Software Engineer Intern
 - Tower Research Capital — Quantitative Trader Intern
@@ -325,8 +331,11 @@ _Generated 2026-08-03_
 - Verkada — Technical Support Engineering Intern - Fall 2026
 - Viavi Solutions — Software Development Data Analytics Intern
 - Walleye Capital — Central Equity Quant Research Intern - Ceqr
+- Walleye Capital — Investment Data Science Intern
 - Walleye Capital — Quantic – Quantitative Researcher Intern
 - Walleye Capital — Quantitative Developer Intern
+- Walleye Capital — Risk Technology Analyst Intern
+- Walleye Capital — Technology Intern
 - Walleye Capital — Volatility Trading Developer Intern
 - XTX Markets — Philanthropy Intern
 - Zipline — Applications Engineer Intern
