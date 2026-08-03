@@ -1,19 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "composio-full-stack-intern-2026",
+  "id": "bytedance-research-scientist-intern-2026",
   "company": {
-    "name": "Composio",
-    "slug": "composio"
+    "name": "ByteDance",
+    "slug": "bytedance"
   },
-  "role": "Full-stack Intern",
-  "category": "software-engineering",
-  "apply_url": "https://jobs.ashbyhq.com/composio/4d819015-0b9a-466f-9b41-8e1cc1e5b6d9/application?embed=true",
+  "role": "Research Scientist Intern",
+  "category": "research",
+  "apply_url": "https://jobs.bytedance.com/en/position/7667379218929780997/detail",
   "season": "fall",
   "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "SF",
+      "city": "Seattle",
+      "state": "WA",
       "country": "USA"
     }
   ],
@@ -24,7 +25,9 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "phd"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -39,11 +42,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-17",
-    "discovered": "2026-07-17",
+    "posted": "2026-08-03",
+    "discovered": "2026-08-03",
     "last_verified": "2026-08-03"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

@@ -1,6 +1,6 @@
 # 📬 InternAtlas Weekly Digest — 2026-08-03
 
-## 🆕 New this week (243)
+## 🆕 New this week (257)
 
 - **Altice USA** — [Data Engineer Intern](https://www.optimumcareers.com/job/Long-Island-City-Intern-Data-Engineer-NY-11101/1414286700/?ats=successfactors) · data-engineering · —
 - **American Express** — [Campus Undergraduate Summer Internship - Strategy & Analytics - Credit & Fraud Risk](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011984) · software-engineering · —
@@ -29,6 +29,18 @@
 - **Bosch Home Comfort** — [Product Management Intern](https://jobs.smartrecruiters.com/BoschGroup/744000140457960) · product · —
 - **Brio Water Technology** — [AI Automation & Business Analytics Intern - Rotational Program](https://ats.rippling.com/briowt/jobs/52da1fca-1cb1-49ff-8a94-b6f3850cd8eb) · ai · —
 - **Brunswick** — [Software Engineer Intern](https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Champaign-IL/Software-Engineer-Intern_JR-050991) · software-engineering · —
+- **ByteDance** — [AI Perception Intern - Pico](https://jobs.bytedance.com/en/position/7665457718334425349/detail) · ai · —
+- **ByteDance** — [Research Scientist Intern](https://jobs.bytedance.com/en/position/7667380188619131189/detail) · research · —
+- **ByteDance** — [Research Scientist Intern](https://jobs.bytedance.com/en/position/7667379218929780997/detail) · research · —
+- **ByteDance** — [Research Scientist Intern - AI Infra Compute](https://jobs.bytedance.com/en/position/7667379221434796341/detail) · ai · —
+- **ByteDance** — [Research Scientist Intern - Distributed NoSQL Database Systems](https://jobs.bytedance.com/en/position/7668371456348326149/detail) · research · —
+- **ByteDance** — [Research Scientist Intern - Distributed NoSQL Database Systems](https://jobs.bytedance.com/en/position/7668371003554138421/detail) · research · —
+- **ByteDance** — [Research Scientist Intern - Multi-modal Agentic Databases](https://jobs.bytedance.com/en/position/7667380487805995269/detail) · research · —
+- **ByteDance** — [Research Scientist Intern - Multi-modal Agentic Databases](https://jobs.bytedance.com/en/position/7667380184615127301/detail) · research · —
+- **ByteDance** — [Software Engineer Intern](https://jobs.bytedance.com/en/position/7668373268886161669/detail) · software-engineering · —
+- **ByteDance** — [Software Engineer Intern - AI Infra Compute](https://jobs.bytedance.com/en/position/7667378931599214853/detail) · ai · —
+- **ByteDance** — [Software Engineer Intern - AI Infrastructure Compute](https://jobs.bytedance.com/en/position/7667377525182662965/detail) · ai · —
+- **ByteDance** — [Software Engineer Intern - Distributed NoSQL Database Systems](https://jobs.bytedance.com/en/position/7668374190764050741/detail) · software-engineering · —
 - **CALSTART** — [Data Analysis Intern](https://jobs.lever.co/calstart/39565f0d-d10f-458b-b72d-d807420059b8/apply) · software-engineering · —
 - **CALSTART** — [Web Development Intern](https://jobs.lever.co/calstart/cbd0d758-18b0-481d-9e67-a065682f30ea/apply) · software-engineering · —
 - **CALSTART** — [Zero-Emission Data & Research Intern](https://jobs.lever.co/calstart/faf839b1-8c62-4fcf-991c-71750d8fc909/apply) · research · —
@@ -105,6 +117,7 @@
 - **JP Morgan Chase** — [Quantitative Research Intern - Risk and Treasury](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773978) · quant · —
 - **JP Morgan Chase** — [Quantitative Research Summer Analyst Intern - Asset Management](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774074) · quant · —
 - **JP Morgan Chase** — [Software Engineer Intern - Software Engineer Program](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773759) · software-engineering · —
+- **Jane Street** — [Sales and Trading Intern](https://www.janestreet.com/join-jane-street/apply/8537797002?gh_jid=8537797002) · quant · —
 - **Jump Trading** — [Campus C++ Software Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8027946) · quant · —
 - **Jump Trading** — [Campus Python Software Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8027955) · quant · —
 - **Jump Trading** — [Campus Quantitative Researcher (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8027939) · quant · —
@@ -125,6 +138,7 @@
 - **Microchip Technology** — [Power, Analog and Mixed-Signal IC Product Engineer Intern - Product Engineering](https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/AZ---Chandler/Intern--Engineering--Product-Engineering-_R3151-26-1) · software-engineering · —
 - **Microsoft** — [Product Manager Intern](https://apply.careers.microsoft.com/careers/job/1970393556953113) · product · —
 - **Microsoft** — [Software Engineer Intern](https://apply.careers.microsoft.com/careers/job/1970393556951951) · software-engineering · —
+- **Microsoft** — [Software Engineer Intern - CoreAI](https://apply.careers.microsoft.com/careers/job/1970393556951950) · software-engineering · —
 - **Modal** — [Machine Learning Research Intern](https://jobs.ashbyhq.com/modal/38888294-6bc7-4dab-b072-6d0f0c2ed79a/application?embed=true) · machine-learning · —
 - **Modal** — [ML Research Intern](https://jobs.ashbyhq.com/modal/38888294-6bc7-4dab-b072-6d0f0c2ed79a) · machine-learning · —
 - **Moog** — [Software Engineer Intern](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Software-Engineering_R-26-18885-1) · software-engineering · —

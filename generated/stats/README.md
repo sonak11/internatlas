@@ -15,10 +15,11 @@ _Generated 2026-08-03_
 | Susquehanna International Group (SIG) | 21 |
 | IMC Trading | 20 |
 | Neuralink | 20 |
+| Jane Street | 17 |
 | Palantir Technologies | 17 |
-| Jane Street | 16 |
 | Rivian and Volkswagen Group Technologies | 16 |
 | Meta | 15 |
+| ByteDance | 14 |
 | Etched | 13 |
 | Virtu Financial | 13 |
 | Astranis | 11 |
@@ -27,17 +28,16 @@ _Generated 2026-08-03_
 | Optiver | 11 |
 | Palantir | 11 |
 | National Laboratory of the Rockies | 9 |
-| NVIDIA | 9 |
 
 ## Listings by category
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 640 | `█████████████` |
-| quant | 139 | `███` |
-| ai | 122 | `██` |
+| software-engineering | 643 | `████████████` |
+| quant | 140 | `███` |
+| ai | 126 | `██` |
 | machine-learning | 84 | `██` |
-| research | 68 | `█` |
+| research | 74 | `█` |
 | hardware | 56 | `█` |
 | embedded | 42 | `█` |
 | product | 31 | `█` |
@@ -55,20 +55,20 @@ _Generated 2026-08-03_
 - 2026-08-03 — **American Express**: [Undergraduate Intern - Strategy & Analytics](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011990)
 - 2026-08-03 — **Astera**: [Software Engineering Intern, Neuro & AGI](https://jobs.ashbyhq.com/astera/c2a48c1b-c4c4-4333-addf-313c47e26066)
 - 2026-08-03 — **Black Cape**: [Software Engineer Intern](https://blackcape.applytojob.com/apply/7o6mmAYryt/US-Military-Skillbridge-Internship-Software-EngineerArlington-VA)
+- 2026-08-03 — **ByteDance**: [AI Perception Intern - Pico](https://jobs.bytedance.com/en/position/7665457718334425349/detail)
+- 2026-08-03 — **ByteDance**: [Research Scientist Intern](https://jobs.bytedance.com/en/position/7667380188619131189/detail)
+- 2026-08-03 — **ByteDance**: [Research Scientist Intern](https://jobs.bytedance.com/en/position/7667379218929780997/detail)
+- 2026-08-03 — **ByteDance**: [Research Scientist Intern - AI Infra Compute](https://jobs.bytedance.com/en/position/7667379221434796341/detail)
+- 2026-08-03 — **ByteDance**: [Research Scientist Intern - Distributed NoSQL Database Systems](https://jobs.bytedance.com/en/position/7668371456348326149/detail)
+- 2026-08-03 — **ByteDance**: [Research Scientist Intern - Distributed NoSQL Database Systems](https://jobs.bytedance.com/en/position/7668371003554138421/detail)
+- 2026-08-03 — **ByteDance**: [Research Scientist Intern - Multi-modal Agentic Databases](https://jobs.bytedance.com/en/position/7667380487805995269/detail)
+- 2026-08-03 — **ByteDance**: [Research Scientist Intern - Multi-modal Agentic Databases](https://jobs.bytedance.com/en/position/7667380184615127301/detail)
+- 2026-08-03 — **ByteDance**: [Software Engineer Intern](https://jobs.bytedance.com/en/position/7668373268886161669/detail)
+- 2026-08-03 — **ByteDance**: [Software Engineer Intern - AI Infra Compute](https://jobs.bytedance.com/en/position/7667378931599214853/detail)
+- 2026-08-03 — **ByteDance**: [Software Engineer Intern - AI Infrastructure Compute](https://jobs.bytedance.com/en/position/7667377525182662965/detail)
+- 2026-08-03 — **ByteDance**: [Software Engineer Intern - Distributed NoSQL Database Systems](https://jobs.bytedance.com/en/position/7668374190764050741/detail)
 - 2026-08-03 — **Heliux**: [Software Engineer Intern](https://jobs.ashbyhq.com/heliux/ff2b6f4b-00d0-4afe-b4f5-2dbf443409ef)
 - 2026-08-03 — **Innovation Works, Inc.**: [Scale Prototyping Shop Intern](https://innovationworks.applytojob.com/apply/nrxEUkXjtp/Scale-Prototyping-Shop-Intern-Innovation-Works-Inc)
-- 2026-08-03 — **IntelliGenesis**: [Applied Data Scientist Intern](http://intelligenesis.applytojob.com/apply/synY3toJUH/Applied-Data-Scientist-Internship-DoW-SkillBridge)
-- 2026-08-03 — **JP Morgan Chase**: [Data & AI Intern - Analyst](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773869)
-- 2026-08-03 — **JP Morgan Chase**: [Data Internship - Data & AI Program](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210775223)
-- 2026-08-03 — **JP Morgan Chase**: [Quantitative Research Intern](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774061)
-- 2026-08-03 — **JP Morgan Chase**: [Quantitative Research Intern - Markets - Analyst](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774038)
-- 2026-08-03 — **JP Morgan Chase**: [Quantitative Research Intern - Risk and Treasury](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773978)
-- 2026-08-03 — **JP Morgan Chase**: [Quantitative Research Summer Analyst Intern - Asset Management](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774074)
-- 2026-08-03 — **JP Morgan Chase**: [Software Engineer Intern - Software Engineer Program](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773759)
-- 2026-08-03 — **Jump Trading**: [Campus C++ Software Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8027946)
-- 2026-08-03 — **Jump Trading**: [Campus Python Software Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8027955)
-- 2026-08-03 — **Jump Trading**: [Campus Quantitative Researcher (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8027939)
-- 2026-08-03 — **Jump Trading**: [Campus Quantitative Trader (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8027941)
 
 ## Recently closed
 
@@ -122,6 +122,7 @@ _Generated 2026-08-03_
 - Cloudflare — Technical Support Engineer Intern (Fall 2026)
 - Cohere — Research Internship
 - Colonist — Product Developer Intern
+- Composio — Full-stack Intern
 - Consensus Cloud Solutions — Sales Strategy & Analytics Intern
 - Copart — Software Engineer Intern
 - Copart — Software Engineer Intern
@@ -150,6 +151,7 @@ _Generated 2026-08-03_
 - Formlabs — Supply Chain Operations Software Intern
 - Formlabs — Test Software Intern
 - Freeform — Process Engineer Intern
+- GE Appliances — Engineering Intern/Co-op
 - GE Healthcare — Engineering Development Program Intern - Hardware
 - GE Healthcare — Engineering Development Program Intern - Software
 - GE Vernova — GE Vernova Grid Automation Product Management Intern
@@ -222,6 +224,7 @@ _Generated 2026-08-03_
 - National Laboratory of the Rockies — Graduate Geospatial Data Science Intern
 - NationGraph — Software Engineer Intern
 - Navy Federal — Year Round Intern - Business Intelligence Analyst
+- NeoSigma — Member of Technical Staff Intern
 - Neuralink — R&D Materials Engineer Intern
 - NewsBreak — Growth Engineer Intern - Growth Engineering
 - Nextiva — Forward Deployed Engineer Intern - AI Implementation
@@ -229,6 +232,7 @@ _Generated 2026-08-03_
 - Nokia — Embedded C/C++ Software Developer Co-op/Intern
 - Nokia — Incubation Developer Coop/Intern
 - Nokia — Product Development Intern/Co-op
+- North Cloud — AI Automation Intern
 - Northrop Grumman — Software Engineer Intern
 - Northrop Grumman — Software Engineer Intern
 - Notion — Software Engineer Intern
@@ -264,6 +268,7 @@ _Generated 2026-08-03_
 - Robert Bosch Venture Capital — Hardware & Embedded Research Intern
 - Rocket Lab — Software Intern
 - ROCKWOOL Group — Product Management Intern
+- RTX — Software Engineer Intern
 - Salesforce — Associate Product Manager Intern - Associate Product Manager
 - Salesforce — Associate Product Manager Intern - Associate Product Manager
 - Salesforce — Software Engineer Intern(Futureforce Summer 2027)
@@ -307,7 +312,9 @@ _Generated 2026-08-03_
 - The Federal Reserve System — Business Survey Intern
 - The Trade Desk — Software Engineering Intern
 - TikTok — Global Product Operations Manager Intern - Global Business Solutions
+- TikTok — Machine Learning Engineer Intern - App Ads
 - TikTok — Product Manager Intern - Tiktok-Product-Search
+- TikTok — Software Engineer Intern - Recommendation Infrastructure
 - TMX Group — Software Engineer Intern - Java
 - Together AI — Research Intern - Inference
 - Toshiba Commerce Solutions — Project Management & AI Automation Intern
