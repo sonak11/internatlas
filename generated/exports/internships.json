@@ -1,6 +1,6 @@
 {
   "generated": "2026-08-03",
-  "count": 1291,
+  "count": 1294,
   "internships": [
     {
       "schema_version": "1.0",
@@ -2923,6 +2923,57 @@
     },
     {
       "schema_version": "1.0",
+      "id": "american-express-product-development-intern-product-development-consumer-serv-2027",
+      "company": {
+        "name": "American Express",
+        "slug": "american-express"
+      },
+      "role": "Product Development Intern - Product Development - Consumer Services",
+      "category": "software-engineering",
+      "apply_url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011571",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "NYC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-03",
+        "discovered": "2026-08-03",
+        "last_verified": "2026-08-03"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "american-express-product-management-intern-product-innovation-credit-fraud-ri-2027",
       "company": {
         "name": "American Express",
@@ -5241,9 +5292,9 @@
       "dates": {
         "posted": "2026-07-28",
         "discovered": "2026-07-29",
-        "last_verified": "2026-07-30"
+        "last_verified": "2026-08-03"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -8015,7 +8066,7 @@
         "discovered": "2026-07-29",
         "last_verified": "2026-08-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -10047,6 +10098,68 @@
       "tags": [
         "auto-ingested",
         "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "capital-one-technology-intern-2027",
+      "company": {
+        "name": "Capital One",
+        "slug": "capital-one"
+      },
+      "role": "Technology Intern",
+      "category": "software-engineering",
+      "apply_url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Technology-Internship-Program---Summer-2027_R244387-1",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Plano",
+          "state": "TX",
+          "country": "USA"
+        },
+        {
+          "city": "McLean",
+          "state": "VA",
+          "country": "USA"
+        },
+        {
+          "city": "Richmond",
+          "state": "VA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-03",
+        "discovered": "2026-08-03",
+        "last_verified": "2026-08-03"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
       ]
     },
     {
@@ -32826,7 +32939,7 @@
         "discovered": "2026-07-29",
         "last_verified": "2026-08-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -38138,7 +38251,7 @@
         "discovered": "2026-07-24",
         "last_verified": "2026-08-03"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -52637,6 +52750,61 @@
       "dates": {
         "posted": "2026-07-27",
         "discovered": "2026-07-27",
+        "last_verified": "2026-08-03"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "sri-international-computer-science-intern-2026",
+      "company": {
+        "name": "SRI International",
+        "slug": "sri-international"
+      },
+      "role": "Computer Science Intern",
+      "category": "software-engineering",
+      "apply_url": "https://careers-sri.icims.com/jobs/6438/job?mobile=true&needsRedirect=false",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Menlo Park",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters",
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-03",
+        "discovered": "2026-08-03",
         "last_verified": "2026-08-03"
       },
       "status": "open",
@@ -69878,7 +70046,7 @@
         "discovered": "2026-07-29",
         "last_verified": "2026-08-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"

@@ -1,20 +1,30 @@
 {
   "schema_version": "1.0",
-  "id": "assurant-digital-ai-transformation-intern-2026",
+  "id": "capital-one-technology-intern-2027",
   "company": {
-    "name": "Assurant",
-    "slug": "assurant"
+    "name": "Capital One",
+    "slug": "capital-one"
   },
-  "role": "Digital & AI Transformation Intern",
-  "category": "ai",
-  "apply_url": "https://assurant.wd1.myworkdayjobs.com/External_Limited_Posting/job/Atlanta-GA/Digital---AI-Transformation-Intern_R-114103-3",
-  "season": "fall",
-  "year": 2026,
+  "role": "Technology Intern",
+  "category": "software-engineering",
+  "apply_url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Technology-Internship-Program---Summer-2027_R244387-1",
+  "season": "summer",
+  "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Atlanta",
-      "state": "GA",
+      "city": "Plano",
+      "state": "TX",
+      "country": "USA"
+    },
+    {
+      "city": "McLean",
+      "state": "VA",
+      "country": "USA"
+    },
+    {
+      "city": "Richmond",
+      "state": "VA",
       "country": "USA"
     }
   ],
@@ -40,8 +50,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-28",
-    "discovered": "2026-07-29",
+    "posted": "2026-08-03",
+    "discovered": "2026-08-03",
     "last_verified": "2026-08-03"
   },
   "status": "open",

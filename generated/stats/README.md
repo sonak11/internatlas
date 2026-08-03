@@ -33,7 +33,7 @@ _Generated 2026-08-03_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 643 | `████████████` |
+| software-engineering | 646 | `████████████` |
 | quant | 140 | `███` |
 | ai | 126 | `██` |
 | machine-learning | 84 | `██` |
@@ -51,6 +51,7 @@ _Generated 2026-08-03_
 
 - 2026-08-03 — **American Express**: [Campus Undergraduate Summer Internship - Strategy & Analytics - Credit & Fraud Risk](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011984)
 - 2026-08-03 — **American Express**: [Digital Product Analyst Intern](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011918)
+- 2026-08-03 — **American Express**: [Product Development Intern - Product Development - Consumer Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011571)
 - 2026-08-03 — **American Express**: [Product Management Intern - Product Innovation - Credit & Fraud Risk](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011992)
 - 2026-08-03 — **American Express**: [Undergraduate Intern - Strategy & Analytics](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011990)
 - 2026-08-03 — **Astera**: [Software Engineering Intern, Neuro & AGI](https://jobs.ashbyhq.com/astera/c2a48c1b-c4c4-4333-addf-313c47e26066)
@@ -67,8 +68,7 @@ _Generated 2026-08-03_
 - 2026-08-03 — **ByteDance**: [Software Engineer Intern - AI Infra Compute](https://jobs.bytedance.com/en/position/7667378931599214853/detail)
 - 2026-08-03 — **ByteDance**: [Software Engineer Intern - AI Infrastructure Compute](https://jobs.bytedance.com/en/position/7667377525182662965/detail)
 - 2026-08-03 — **ByteDance**: [Software Engineer Intern - Distributed NoSQL Database Systems](https://jobs.bytedance.com/en/position/7668374190764050741/detail)
-- 2026-08-03 — **Heliux**: [Software Engineer Intern](https://jobs.ashbyhq.com/heliux/ff2b6f4b-00d0-4afe-b4f5-2dbf443409ef)
-- 2026-08-03 — **Innovation Works, Inc.**: [Scale Prototyping Shop Intern](https://innovationworks.applytojob.com/apply/nrxEUkXjtp/Scale-Prototyping-Shop-Intern-Innovation-Works-Inc)
+- 2026-08-03 — **Capital One**: [Technology Intern](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Technology-Internship-Program---Summer-2027_R244387-1)
 
 ## Recently closed
 
@@ -87,7 +87,6 @@ _Generated 2026-08-03_
 - Apptronik — Software Engineer Intern, ML Systems
 - Aptiv — Engineer Intern
 - AQR Capital Management — Portfolio Implementation – Trading and Portfolio Finance Analyst Intern
-- Assurant — Digital & AI Transformation Intern
 - Astranis — FPGA Associate Intern
 - Astranis — FPGA Intern
 - Autodesk — Machine Learning Developer Intern
@@ -101,6 +100,7 @@ _Generated 2026-08-03_
 - BDO Canada — Data & Analytics Co-op/Intern - Data & Analytics
 - BDO Canada — Indirect Tax Intern Co-op - Indirect Tax
 - BMO — Machine Learning Intern
+- Bosch Home Comfort — Autonomous Driving Intern
 - Bosch Home Comfort — Business Intelligence Intern
 - Brex — Brex Internship Program
 - ByteDance — Research Scientist Intern - AI Infrastructure
@@ -197,6 +197,7 @@ _Generated 2026-08-03_
 - Kudu Dynamics — Software Engineer Intern
 - Kudu Dynamics — Software Engineer Intern
 - Kudu Dynamics — Software Engineer Intern
+- Leidos — Software Developer Intern
 - LexisNexis Risk Solutions — Editorial Data Reporting Intern
 - Littelfuse — Intern 1 - Engineering
 - LiveRamp — Software Engineer Intern, Pixel Serving
@@ -224,7 +225,6 @@ _Generated 2026-08-03_
 - National Laboratory of the Rockies — Graduate Geospatial Data Science Intern
 - NationGraph — Software Engineer Intern
 - Navy Federal — Year Round Intern - Business Intelligence Analyst
-- NeoSigma — Member of Technical Staff Intern
 - Neuralink — R&D Materials Engineer Intern
 - NewsBreak — Growth Engineer Intern - Growth Engineering
 - Nextiva — Forward Deployed Engineer Intern - AI Implementation
@@ -331,3 +331,4 @@ _Generated 2026-08-03_
 - XTX Markets — Philanthropy Intern
 - Zipline — Applications Engineer Intern
 - Zipline — Embedded Software Engineer Intern
+- Zurich Insurance — Data Analytics & AI Internship/Co-op - Data Analytics & AI

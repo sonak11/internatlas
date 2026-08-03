@@ -1,20 +1,19 @@
 {
   "schema_version": "1.0",
-  "id": "assurant-digital-ai-transformation-intern-2026",
+  "id": "american-express-product-development-intern-product-development-consumer-serv-2027",
   "company": {
-    "name": "Assurant",
-    "slug": "assurant"
+    "name": "American Express",
+    "slug": "american-express"
   },
-  "role": "Digital & AI Transformation Intern",
-  "category": "ai",
-  "apply_url": "https://assurant.wd1.myworkdayjobs.com/External_Limited_Posting/job/Atlanta-GA/Digital---AI-Transformation-Intern_R-114103-3",
-  "season": "fall",
-  "year": 2026,
+  "role": "Product Development Intern - Product Development - Consumer Services",
+  "category": "software-engineering",
+  "apply_url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011571",
+  "season": "summer",
+  "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Atlanta",
-      "state": "GA",
+      "city": "NYC",
       "country": "USA"
     }
   ],
@@ -40,8 +39,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-28",
-    "discovered": "2026-07-29",
+    "posted": "2026-08-03",
+    "discovered": "2026-08-03",
     "last_verified": "2026-08-03"
   },
   "status": "open",
