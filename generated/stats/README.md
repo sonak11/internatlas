@@ -9,13 +9,13 @@ _Generated 2026-08-03_
 | Company | Listings |
 |---|---|
 | Tesla | 103 |
-| Jump Trading | 38 |
+| TikTok | 59 |
+| Jump Trading | 43 |
 | Cloudflare | 21 |
 | Susquehanna International Group (SIG) | 21 |
 | IMC Trading | 20 |
 | Neuralink | 20 |
 | Palantir Technologies | 17 |
-| TikTok | 17 |
 | Jane Street | 16 |
 | Rivian and Volkswagen Group Technologies | 16 |
 | Meta | 15 |
@@ -23,9 +23,9 @@ _Generated 2026-08-03_
 | Virtu Financial | 13 |
 | Astranis | 11 |
 | Ciena | 11 |
+| Copart | 11 |
 | Optiver | 11 |
 | Palantir | 11 |
-| Copart | 10 |
 | National Laboratory of the Rockies | 9 |
 | NVIDIA | 9 |
 
@@ -33,42 +33,42 @@ _Generated 2026-08-03_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 602 | `█████████████` |
-| quant | 130 | `███` |
-| ai | 118 | `██` |
-| machine-learning | 71 | `█` |
-| research | 62 | `█` |
+| software-engineering | 640 | `█████████████` |
+| quant | 139 | `███` |
+| ai | 122 | `██` |
+| machine-learning | 84 | `██` |
+| research | 68 | `█` |
 | hardware | 56 | `█` |
 | embedded | 42 | `█` |
-| product | 28 | `█` |
+| product | 31 | `█` |
 | cloud | 28 | `█` |
 | design | 28 | `█` |
-| data-science | 17 | `█` |
+| data-science | 18 | `█` |
 | data-engineering | 14 | `█` |
 | security | 7 | `█` |
 
 ## Newest listings
 
-- 2026-08-02 — **Microsoft**: [Software Engineer Intern](https://apply.careers.microsoft.com/careers/job/1970393556951951)
-- 2026-08-02 — **Two Sigma**: [AI Research Scientist Intern - 2027 Summer](https://twosigma.avature.net/careers/JobDetail/14096)
-- 2026-08-02 — **Two Sigma**: [Quantitative Researcher Intern](https://twosigma.avature.net/careers/JobDetail/13945)
-- 2026-08-02 — **Yotta Labs**: [Research Engineer Intern - AI Systems](https://jobs.ashbyhq.com/yotta/09821a51-fbe6-42a7-a566-0d2b5d40fae3/application?embed=true)
-- 2026-08-01 — **Citadel**: [Sector Data Analyst Intern](https://www.citadel.com/careers/details/sector-data-analyst-intern-europe/)
-- 2026-08-01 — **Clyde Companies**: [Business Intelligence Intern](https://careers.clydeinc.com/jobs/22659?icims=1)
-- 2026-08-01 — **ConocoPhillips**: [GIS Intern](https://conocophillips.wd1.myworkdayjobs.com/External/job/Bartlesville-OK/GIS-Intern--Corporate-Land-2027_REQ-006208)
-- 2026-08-01 — **HPR (Hyannis Port Research)**: [FPGA Engineer Intern](https://job-boards.greenhouse.io/hyannisportresearch/jobs/7822801003)
-- 2026-08-01 — **HPR (Hyannis Port Research)**: [Software Engineer Intern](https://job-boards.greenhouse.io/hyannisportresearch/jobs/7822989003)
-- 2026-08-01 — **IMC Trading**: [2027 - Quant Research Intern - BITS Pilani](https://job-boards.eu.greenhouse.io/imc/jobs/4942958101)
-- 2026-08-01 — **Medtronic**: [Software Engineer Intern](https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Fridley-Minnesota-United-States-of-America/Software-Engineering-Intern---Summer-2027_R73630)
-- 2026-08-01 — **Postman**: [AI Engineer Intern](https://job-boards.greenhouse.io/postman/jobs/7823417003)
-- 2026-08-01 — **Tesla**: [Software Compiler Engineer Intern - AI Inference](https://www.tesla.com/careers/search/job/278847)
-- 2026-08-01 — **TMX Group**: [Analyst Student Intern - Market Insights](https://tmx.wd3.myworkdayjobs.com/TMX_Careers/job/Toronto---100-Adelaide-St-W/Analyst--Market-Insights--Student-Intern_R-6125)
-- 2026-07-31 — **Altice USA**: [Data Engineer Intern](https://www.optimumcareers.com/job/Long-Island-City-Intern-Data-Engineer-NY-11101/1414286700/?ats=successfactors)
-- 2026-07-31 — **Brio Water Technology**: [AI Automation & Business Analytics Intern - Rotational Program](https://ats.rippling.com/briowt/jobs/52da1fca-1cb1-49ff-8a94-b6f3850cd8eb)
-- 2026-07-31 — **Ciena**: [WaveLogic Software Engineer Intern](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/WaveLogic-Software---Intern_R031443)
-- 2026-07-31 — **Cirrus Logic**: [Embedded Software Test Engineer Intern](https://jobs.eu.lever.co/cirrus/2926421c-691a-434a-ae59-c828e7fcbf5b)
-- 2026-07-31 — **City of Austin**: [Business Intelligence Intern - Business Intelligence](https://austintexas.wd5.myworkdayjobs.com/COA_Careers/job/Fire-Headquarters/Business-Intelligence-Internship_JR104636)
-- 2026-07-31 — **City of Austin**: [Research Analyst Intern](https://austintexas.wd5.myworkdayjobs.com/COA_Careers/job/Fire-Headquarters/Research-Analyst-Internship_JR104634)
+- 2026-08-03 — **American Express**: [Campus Undergraduate Summer Internship - Strategy & Analytics - Credit & Fraud Risk](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011984)
+- 2026-08-03 — **American Express**: [Digital Product Analyst Intern](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011918)
+- 2026-08-03 — **American Express**: [Product Management Intern - Product Innovation - Credit & Fraud Risk](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011992)
+- 2026-08-03 — **American Express**: [Undergraduate Intern - Strategy & Analytics](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011990)
+- 2026-08-03 — **Astera**: [Software Engineering Intern, Neuro & AGI](https://jobs.ashbyhq.com/astera/c2a48c1b-c4c4-4333-addf-313c47e26066)
+- 2026-08-03 — **Black Cape**: [Software Engineer Intern](https://blackcape.applytojob.com/apply/7o6mmAYryt/US-Military-Skillbridge-Internship-Software-EngineerArlington-VA)
+- 2026-08-03 — **Heliux**: [Software Engineer Intern](https://jobs.ashbyhq.com/heliux/ff2b6f4b-00d0-4afe-b4f5-2dbf443409ef)
+- 2026-08-03 — **Innovation Works, Inc.**: [Scale Prototyping Shop Intern](https://innovationworks.applytojob.com/apply/nrxEUkXjtp/Scale-Prototyping-Shop-Intern-Innovation-Works-Inc)
+- 2026-08-03 — **IntelliGenesis**: [Applied Data Scientist Intern](http://intelligenesis.applytojob.com/apply/synY3toJUH/Applied-Data-Scientist-Internship-DoW-SkillBridge)
+- 2026-08-03 — **JP Morgan Chase**: [Data & AI Intern - Analyst](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773869)
+- 2026-08-03 — **JP Morgan Chase**: [Data Internship - Data & AI Program](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210775223)
+- 2026-08-03 — **JP Morgan Chase**: [Quantitative Research Intern](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774061)
+- 2026-08-03 — **JP Morgan Chase**: [Quantitative Research Intern - Markets - Analyst](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774038)
+- 2026-08-03 — **JP Morgan Chase**: [Quantitative Research Intern - Risk and Treasury](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773978)
+- 2026-08-03 — **JP Morgan Chase**: [Quantitative Research Summer Analyst Intern - Asset Management](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774074)
+- 2026-08-03 — **JP Morgan Chase**: [Software Engineer Intern - Software Engineer Program](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773759)
+- 2026-08-03 — **Jump Trading**: [Campus C++ Software Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8027946)
+- 2026-08-03 — **Jump Trading**: [Campus Python Software Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8027955)
+- 2026-08-03 — **Jump Trading**: [Campus Quantitative Researcher (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8027939)
+- 2026-08-03 — **Jump Trading**: [Campus Quantitative Trader (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8027941)
 
 ## Recently closed
 

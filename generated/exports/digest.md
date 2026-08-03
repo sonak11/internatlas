@@ -1,8 +1,12 @@
 # 📬 InternAtlas Weekly Digest — 2026-08-03
 
-## 🆕 New this week (169)
+## 🆕 New this week (243)
 
 - **Altice USA** — [Data Engineer Intern](https://www.optimumcareers.com/job/Long-Island-City-Intern-Data-Engineer-NY-11101/1414286700/?ats=successfactors) · data-engineering · —
+- **American Express** — [Campus Undergraduate Summer Internship - Strategy & Analytics - Credit & Fraud Risk](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011984) · software-engineering · —
+- **American Express** — [Digital Product Analyst Intern](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011918) · software-engineering · —
+- **American Express** — [Product Management Intern - Product Innovation - Credit & Fraud Risk](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011992) · product · —
+- **American Express** — [Undergraduate Intern - Strategy & Analytics](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011990) · software-engineering · —
 - **Anthelion Capital** — [Quant Developer / Quant Research Intern](https://jobs.ashbyhq.com/anthelioncap/5e2ea37b-2369-474e-b717-c24c60976e96) · quant · —
 - **Appian** — [Information Security Engineer Intern](https://job-boards.greenhouse.io/appian/jobs/8088496) · security · —
 - **Apple** — [Applied Data Solutions Program Intern](https://jobs.apple.com/en-us/details/200673612) · software-engineering · —
@@ -11,12 +15,14 @@
 - **Arizona State University** — [Management Intern - Career Data and Analytics](https://asu.wd1.myworkdayjobs.com/ASUStaffCareers/job/Campus-Tempe/Management-Intern---Career-Data-and-Analytics_JR124023) · software-engineering · —
 - **Arkema Global** — [Manufacturing Data Systems Intern](https://jobs.arkema.com/job/Radnor-Manufacturing-Data-Systems-Intern-Job-PA/1420491833/?ats=successfactors) · software-engineering · —
 - **Assurant** — [Digital & AI Transformation Intern](https://assurant.wd1.myworkdayjobs.com/External_Limited_Posting/job/Atlanta-GA/Digital---AI-Transformation-Intern_R-114103-3) · ai · —
+- **Astera** — [Software Engineering Intern, Neuro & AGI](https://jobs.ashbyhq.com/astera/c2a48c1b-c4c4-4333-addf-313c47e26066) · software-engineering · —
 - **Atomic Semi** — [Infrastructure Software Engineering Intern](https://jobs.ashbyhq.com/fab2/867c67f7-20b5-4726-b9da-85a760d3851e?embed=true) · cloud · —
 - **Atomic Semi** — [Software Engineer Intern, Chip Design Tools](https://jobs.ashbyhq.com/fab2/907766af-a3c0-49a3-b01e-246baa437d10?embed=true) · design · —
 - **Axis Capital** — [Renewable Energy Engineer Intern](https://axiscapital.wd1.myworkdayjobs.com/axiscareers/job/London---Scalpel/Renewable-Energy-Engineering-Intern_REQ06664-1) · software-engineering · —
 - **Bank of Montreal** — [Data and AI Operations Analyst Co-op/Internship - Cloud](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Data-and-AI-Operations-Analyst--Cloud---Fall-2026--Co-op-Internship----8-months_R260021724-1) · ai · —
 - **Bank of Montreal** — [Data and AI Operations Analyst Co-op/Internship - Cloud](https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Data-and-AI-Operations-Analyst--Cloud---Fall-2026--Co-op-Internship----8-months_R260021724-2) · ai · —
 - **Bank of Montreal** — [Data and AI Operations Analyst Intern/Co-op - Cloud - 8 months](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Data-and-AI-Operations-Analyst--Cloud---Fall-2026--Co-op-Internship----8-months_R260021724) · ai · —
+- **Black Cape** — [Software Engineer Intern](https://blackcape.applytojob.com/apply/7o6mmAYryt/US-Military-Skillbridge-Internship-Software-EngineerArlington-VA) · software-engineering · —
 - **Bosch Home Comfort** — [ADAS Software Engineer Intern](https://jobs.smartrecruiters.com/BoschGroup/744000140317669) · software-engineering · —
 - **Bosch Home Comfort** — [Autonomous Driving Intern](https://jobs.smartrecruiters.com/BoschGroup/744000140462550) · software-engineering · —
 - **Bosch Home Comfort** — [Powertrain Controls Software Engineer Intern](https://jobs.smartrecruiters.com/BoschGroup/744000140089589) · software-engineering · —
@@ -49,6 +55,7 @@
 - **ConocoPhillips** — [GIS Intern](https://conocophillips.wd1.myworkdayjobs.com/External/job/Bartlesville-OK/GIS-Intern--Corporate-Land-2027_REQ-006208) · software-engineering · —
 - **Copart** — [Data Engineer Intern](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Data-Engineering-Intern_JR110075) · data-engineering · —
 - **Copart** — [Software Engineer Intern](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109964) · software-engineering · —
+- **Copart** — [Software Engineer Intern](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR110353) · software-engineering · —
 - **Copart** — [Software Engineer Intern](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109965) · software-engineering · —
 - **Core & Main** — [AI/ML Data Engineering Intern](https://coreandmain.wd1.myworkdayjobs.com/coreandmain/job/Saint-Louis-MO-63146/Intern---Data-Engineering----Corp_45804) · machine-learning · —
 - **DRW** — [AI/ML Research Intern](https://www.drw.com/work-at-drw/listings/aiml-research-intern-3466679) · machine-learning · —
@@ -77,6 +84,7 @@
 - **GoDaddy** — [Software Development Engineer Intern](https://job-boards.greenhouse.io/eventsandinterns/jobs/7820942003) · software-engineering · —
 - **HPR (Hyannis Port Research)** — [FPGA Engineer Intern](https://job-boards.greenhouse.io/hyannisportresearch/jobs/7822801003) · hardware · —
 - **HPR (Hyannis Port Research)** — [Software Engineer Intern](https://job-boards.greenhouse.io/hyannisportresearch/jobs/7822989003) · software-engineering · —
+- **Heliux** — [Software Engineer Intern](https://jobs.ashbyhq.com/heliux/ff2b6f4b-00d0-4afe-b4f5-2dbf443409ef) · software-engineering · —
 - **Heliux** — [Software Engineer Intern](https://jobs.ashbyhq.com/heliux/ff2b6f4b-00d0-4afe-b4f5-2dbf443409ef/application?embed=true) · software-engineering · —
 - **Heliux** — [Software Engineer Intern](https://jobs.ashbyhq.com/heliux/c71c0650-b6f7-491f-b291-6b280f58ee9c/application?embed=true) · software-engineering · —
 - **Helsing** — [AI Research Intern - 3D Computer Vision](https://helsing.ai/jobs/4941957101?gh_jid=4941957101) · ai · —
@@ -86,8 +94,22 @@
 - **IMC Trading** — [Macro Analyst Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4941380101) · quant · —
 - **IMC Trading** — [Quantitative Trader Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4936262101) · quant · —
 - **IMC Trading** — [Trader Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4939846101) · quant · —
+- **Innovation Works, Inc.** — [Scale Prototyping Shop Intern](https://innovationworks.applytojob.com/apply/nrxEUkXjtp/Scale-Prototyping-Shop-Intern-Innovation-Works-Inc) · software-engineering · —
 - **Intel** — [AI Applied Intern](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/AI-Applied-intern_JR0285916) · ai · —
 - **Intel Corporation** — [AI Software Engineering PhD Intern](https://intel.wd1.myworkdayjobs.com/external/job/US-Oregon-Hillsboro/AI-Applied-intern_JR0285916) · ai · —
+- **IntelliGenesis** — [Applied Data Scientist Intern](http://intelligenesis.applytojob.com/apply/synY3toJUH/Applied-Data-Scientist-Internship-DoW-SkillBridge) · data-science · —
+- **JP Morgan Chase** — [Data & AI Intern - Analyst](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773869) · ai · —
+- **JP Morgan Chase** — [Data Internship - Data & AI Program](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210775223) · ai · —
+- **JP Morgan Chase** — [Quantitative Research Intern](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774061) · quant · —
+- **JP Morgan Chase** — [Quantitative Research Intern - Markets - Analyst](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774038) · quant · —
+- **JP Morgan Chase** — [Quantitative Research Intern - Risk and Treasury](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773978) · quant · —
+- **JP Morgan Chase** — [Quantitative Research Summer Analyst Intern - Asset Management](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774074) · quant · —
+- **JP Morgan Chase** — [Software Engineer Intern - Software Engineer Program](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773759) · software-engineering · —
+- **Jump Trading** — [Campus C++ Software Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8027946) · quant · —
+- **Jump Trading** — [Campus Python Software Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8027955) · quant · —
+- **Jump Trading** — [Campus Quantitative Researcher (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8027939) · quant · —
+- **Jump Trading** — [Campus Quantitative Trader (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8027941) · quant · —
+- **Jump Trading** — [Campus Systems Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8027952) · quant · —
 - **Keysight Technologies** — [R&D Software Engineer Intern](https://jobs.keysight.com/jobs/53652?icims=1) · software-engineering · —
 - **Kodak** — [Marketing Analytics Intern](https://careers.kodak.com/job/USA-Marketing-Analytics-Intern-CA/1412894200/?ats=successfactors) · software-engineering · —
 - **Kognitos** — [Forward Deployed Engineer Intern](https://jobs.ashbyhq.com/Kognitos/a4bc3ebf-b619-4c1b-9c9e-784d16c8b148/application?embed=true) · software-engineering · —
@@ -96,16 +118,22 @@
 - **Mathtech** — [Web Application Developer Intern](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?jobId=565843) · software-engineering · —
 - **Maven Securities** — [Quant Trader Intern](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8043552) · quant · —
 - **Medtronic** — [Software Engineer Intern](https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Fridley-Minnesota-United-States-of-America/Software-Engineering-Intern---Summer-2027_R73630) · software-engineering · —
+- **Medtronic** — [Software Engineering Intern](https://medtronic.wd1.myworkdayjobs.com/en-US/medtroniccareers/job/Fridley-Minnesota-United-States-of-America/Software-Engineering-Intern---Summer-2027_R73630-1) · software-engineering · —
 - **Melius** — [Software Engineer Intern](https://jobs.ashbyhq.com/melius/6a944911-dbbf-44c7-ba52-7866f7b433cf/application?embed=true) · software-engineering · —
 - **Melius** — [Software Engineer Intern](https://jobs.ashbyhq.com/melius/b61f063a-4f94-4e50-a4ef-05aaab552280/application?embed=true) · software-engineering · —
 - **Menasha Corporation** — [Supply Chain Analytics Intern](https://menasha.wd12.myworkdayjobs.com/menashacorp/job/Neenah-Wisconsin/Supply-Chain-Analytics-Intern_R14985) · software-engineering · —
 - **Microchip Technology** — [Power, Analog and Mixed-Signal IC Product Engineer Intern - Product Engineering](https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/AZ---Chandler/Intern--Engineering--Product-Engineering-_R3151-26-1) · software-engineering · —
+- **Microsoft** — [Product Manager Intern](https://apply.careers.microsoft.com/careers/job/1970393556953113) · product · —
 - **Microsoft** — [Software Engineer Intern](https://apply.careers.microsoft.com/careers/job/1970393556951951) · software-engineering · —
 - **Modal** — [Machine Learning Research Intern](https://jobs.ashbyhq.com/modal/38888294-6bc7-4dab-b072-6d0f0c2ed79a/application?embed=true) · machine-learning · —
 - **Modal** — [ML Research Intern](https://jobs.ashbyhq.com/modal/38888294-6bc7-4dab-b072-6d0f0c2ed79a) · machine-learning · —
 - **Moog** — [Software Engineer Intern](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Software-Engineering_R-26-18885-1) · software-engineering · —
 - **National Laboratory of the Rockies** — [Focused Ion Beam, Electron Microscopy, and Autonomous Characterization Intern - Multiple Teams](https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Graduate-Intern---Focused-Ion-Beam--Electron-Microscopy--and-Autonomous-Characterization_R14431) · software-engineering · —
 - **National Laboratory of the Rockies** — [Graduate Intern](https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Graduate--Year-Round--Intern---Industrial-and-Fuel-Supply-Optimization-Modeling-Analysis_R14426) · software-engineering · —
+- **Naver U.Hub INC** — [Product Management Intern](https://naveruhubinc.applytojob.com/apply/snw35vU7eX/ThingsBook-Product-Management-Intern) · product · —
+- **Nebo** — [Back-End Engineer Intern](https://neboagency.applytojob.com/apply/VhgOaS6Nx3/BackEnd-Engineering-Intern) · software-engineering · —
+- **Nebo** — [Front-End Engineer Intern](https://neboagency.applytojob.com/apply/TtGKnP4ODV/FrontEnd-Engineering-Intern) · software-engineering · —
+- **Nebo** — [Web Development Intern](https://neboagency.applytojob.com/apply/AFMqe9Jb7b/Web-Development-Intern) · software-engineering · —
 - **Nelnet** — [Agentic AI Intern](https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Lincoln-NE/Intern-Program---Agentic-AI_R22904) · ai · —
 - **New York Post Holdings** — [Product Intern](https://dowjones.wd1.myworkdayjobs.com/New_York_Post_Careers/job/NYC---1211-Ave-of-the-Americas/Product-Intern--Fall-2026--10-weeks--24-hours-a-week-_Job_Req_54488) · software-engineering · —
 - **Nightwing** — [Software / Hardware Engineering Intern](https://nwis.wd12.myworkdayjobs.com/en-US/NW/job/Annapolis-Junction-MD/Software---Hardware-Engineering---Intern_JR101733) · hardware · —
@@ -119,6 +147,7 @@
 - **Pony.ai** — [Research Intern - Deep Learning](https://apply.workable.com/pony-dot-ai/j/4C1F53EF5D/) · machine-learning · —
 - **Pony.ai** — [Software Engineer Intern](https://apply.workable.com/pony-dot-ai/j/BA5FFDBC71/) · software-engineering · —
 - **Postman** — [AI Engineer Intern](https://job-boards.greenhouse.io/postman/jobs/7823417003) · ai · —
+- **Prospect Equities** — [Backend / Frontend Developer Intern](https://prospectequities.applytojob.com/apply/XTbzSAcNtg/Backend-Frontend-Developer-Intern) · software-engineering · —
 - **Quadrillion Labs** — [Software Engineering Intern](https://jobs.ashbyhq.com/quadrillion-labs/a4acc44c-31ce-41a0-ab44-2500487b4d05) · software-engineering · —
 - **RTX** — [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Software-Engineering-Intern--Summer-2027-_01863072) · software-engineering · —
 - **RTX** — [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-PA-STATE-COLLEGE-5A--302-Science-Park-Rd--BLDG-5A/Software-Engineering-Intern--Summer-2027-_01862842) · software-engineering · —
@@ -140,6 +169,7 @@
 - **Sony Pictures Entertainment** — [Graduate Intern - Advanced Technologies](https://spe.wd1.myworkdayjobs.com/en-US/SonyPicturesEntertainment/job/Culver-City-California/Graduate-Intern--Advanced-Technologies_JR113816) · software-engineering · —
 - **Sparksoft** — [Technical Intern](https://job-boards.greenhouse.io/sparksoftcorporation/jobs/5199580007) · software-engineering · —
 - **Squarepoint Capital** — [Intern Quant Researcher](https://boards.greenhouse.io/embed/job_app?token=243853) · quant · —
+- **Stellar Science** — [Scientific Software Developer Intern Co-op](https://stellarscience.applytojob.com/apply/my4AC4VXHI/Scientific-Software-Developer-Paid-CoopInternship) · software-engineering · —
 - **Stevens Capital Management** — [Quantitative Research Analyst Internship](https://job-boards.greenhouse.io/scm/jobs/721895) · quant · —
 - **Susquehanna International Group (SIG)** — [Trading Operations Analyst Intern](https://careers-sig.icims.com/jobs/11244/job?mobile=true&needsRedirect=false) · quant · —
 - **TMX Group** — [Analyst Student Intern - Market Insights](https://tmx.wd3.myworkdayjobs.com/TMX_Careers/job/Toronto---100-Adelaide-St-W/Analyst--Market-Insights--Student-Intern_R-6125) · software-engineering · —
@@ -150,10 +180,53 @@
 - **Tesla** — [Vehicle Software Intern - Vehicle Software Engineer-Diagnostic User Interface](https://www.tesla.com/careers/search/job/278703) · software-engineering · —
 - **Texas Instruments** — [Product Operations Analyst Intern](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25016766) · software-engineering · —
 - **The Home Depot** — [AI Engineer Intern](https://homedepot.wd5.myworkdayjobs.com/CareerDepotCanada/job/CANADA-STORE-SUPPORT-CENTER---7000/Intern--AI-Engineer_Req188547) · ai · —
+- **The Hub Project** — [Polling and Outreach Intern](https://newventurefund.applytojob.com/apply/RFdviqLOwW/Polling-And-Outreach-Intern) · software-engineering · —
 - **The Mosaic Company** — [Cybersecurity Co-Op/Intern](https://mosaic.wd5.myworkdayjobs.com/mosaic/job/US---Tampa-FL-Lithia-area/Co-op-Student-Admin_64613-1) · security · —
+- **TikTok** — [Artificial Intelligence Engineer Intern - Client Architecture](https://lifeattiktok.com/search/7667935738190465285) · ai · —
+- **TikTok** — [Backend Software Engineer Intern](https://lifeattiktok.com/search/7667935739300317493) · software-engineering · —
+- **TikTok** — [Backend Software Engineer Intern](https://lifeattiktok.com/search/7667934635573692725) · software-engineering · —
+- **TikTok** — [Backend Software Engineer Intern](https://lifeattiktok.com/search/7667935565120112949) · software-engineering · —
+- **TikTok** — [Backend Software Engineer Intern](https://lifeattiktok.com/search/7667933770819897605) · software-engineering · —
+- **TikTok** — [Backend Software Engineer Intern](https://lifeattiktok.com/search/7667933335084124469) · software-engineering · —
+- **TikTok** — [Backend Software Engineer Intern - Digital Content Center](https://lifeattiktok.com/search/7667934302872537397) · software-engineering · —
+- **TikTok** — [Backend Software Engineer Intern - Innovative Growth](https://lifeattiktok.com/search/7667934860750063925) · software-engineering · —
 - **TikTok** — [Efficiency Analyst/Methodologist Project Intern - Content Operations - Tiktok-Operations-Operations Efficiency](https://lifeattiktok.com/search/7667613782697232693) · software-engineering · —
 - **TikTok** — [Efficiency Analyst/Methodologist Project Intern - Content Operations - Tiktok-Operations-Operations Efficiency](https://lifeattiktok.com/search/7667248888103782661) · software-engineering · —
+- **TikTok** — [Frontend Engineer Intern - Open Platform](https://lifeattiktok.com/search/7667935739300792629) · software-engineering · —
+- **TikTok** — [Frontend Software Engineer Intern - Ads Measurement Signal and Privacy](https://lifeattiktok.com/search/7668584161852229893) · software-engineering · —
+- **TikTok** — [Generative AI Researcher Intern - Intelligent Creation-Vision and Graphics](https://lifeattiktok.com/search/7668183035989281029) · ai · —
+- **TikTok** — [Machine Learning Engineer Intern](https://lifeattiktok.com/search/7667350291952765237) · machine-learning · —
+- **TikTok** — [Machine Learning Engineer Intern](https://lifeattiktok.com/search/7667346576033777925) · machine-learning · —
+- **TikTok** — [Machine Learning Engineer Intern](https://lifeattiktok.com/search/7667338938890930437) · machine-learning · —
+- **TikTok** — [Machine Learning Engineer Intern - Basic Ranking](https://lifeattiktok.com/search/7667339583362025781) · machine-learning · —
+- **TikTok** — [Machine Learning Engineer Intern - Data Search Search Quality](https://lifeattiktok.com/search/7665475888805611781) · machine-learning · —
+- **TikTok** — [Machine Learning Engineer Intern - Data Search - Visual Search](https://lifeattiktok.com/search/7667349591727278341) · machine-learning · —
+- **TikTok** — [Machine Learning Engineer Intern - Recommendation](https://lifeattiktok.com/search/7662653087863081221) · machine-learning · —
+- **TikTok** — [Machine Learning Engineer Intern - Search Quality](https://lifeattiktok.com/search/7665475460339665157) · machine-learning · —
 - **TikTok** — [Machine Learning Engineer Intern - Tiktok-Data-Search-Search Quality](https://lifeattiktok.com/search/7667690418804902149) · machine-learning · —
+- **TikTok** — [Machine Learning Engineer Intern - Trust and Safety](https://lifeattiktok.com/search/7662672554084059445) · machine-learning · —
+- **TikTok** — [Machine Learning Scientist Intern](https://lifeattiktok.com/search/7667934169444485429) · machine-learning · —
+- **TikTok** — [Machine Learning Scientist Intern - Content Ecology - LLM Application](https://lifeattiktok.com/search/7667933770625599749) · machine-learning · —
+- **TikTok** — [Machine Learning Scientist Intern - Recommendation](https://lifeattiktok.com/search/7662657855099357493) · machine-learning · —
+- **TikTok** — [Research Scientist Intern - Content Intelligence](https://lifeattiktok.com/search/7662662842545539381) · research · —
+- **TikTok** — [Research Scientist Intern - Foundations & Intelligence Service](https://lifeattiktok.com/search/7662677746436524293) · research · —
+- **TikTok** — [Research Scientist Intern - Neural Graphics and World Models](https://lifeattiktok.com/search/7667935738840090933) · research · —
+- **TikTok** — [Research Scientist Intern - Recommendation](https://lifeattiktok.com/search/7662661203281447221) · research · —
+- **TikTok** — [Research Scientist Intern - Trust and Safety](https://lifeattiktok.com/search/7662674242861074741) · research · —
+- **TikTok** — [Research Scientist Intern - Trust and Safety](https://lifeattiktok.com/search/7662672903447988485) · research · —
+- **TikTok** — [Software Engineer Intern](https://lifeattiktok.com/search/7668582086899763461) · software-engineering · —
+- **TikTok** — [Software Engineer Intern](https://lifeattiktok.com/search/7668581636242016565) · software-engineering · —
+- **TikTok** — [Software Engineer Intern](https://lifeattiktok.com/search/7668675500744837381) · software-engineering · —
+- **TikTok** — [Software Engineer Intern](https://lifeattiktok.com/search/7667935738376227077) · software-engineering · —
+- **TikTok** — [Software Engineer Intern](https://lifeattiktok.com/search/7662700594251958581) · software-engineering · —
+- **TikTok** — [Software Engineer Intern - Ads Measurement Signal and Privacy](https://lifeattiktok.com/search/7668582031916435717) · software-engineering · —
+- **TikTok** — [Software Engineer Intern - Agentic Creation-Effect Platform](https://lifeattiktok.com/search/7668445566565321013) · software-engineering · —
+- **TikTok** — [Software Engineer Intern - Business Integrity](https://lifeattiktok.com/search/7668584916620527925) · software-engineering · —
+- **TikTok** — [Software Engineer Intern - Creative Intelligence and Brand Innovation](https://lifeattiktok.com/search/7668642761473902901) · software-engineering · —
+- **TikTok** — [Software Engineer Intern - Data Architecture - E-commerce](https://lifeattiktok.com/search/7668582146236631349) · software-engineering · —
+- **TikTok** — [Software Engineer Intern - ML Infra](https://lifeattiktok.com/search/7668696895234197813) · machine-learning · —
+- **TikTok** — [Software Engineer Intern - Social Friending](https://lifeattiktok.com/search/7667935399050692917) · software-engineering · —
+- **TikTok** — [Software Engineer Intern - Trust and Safety Engineering](https://lifeattiktok.com/search/7662684280234232117) · software-engineering · —
 - **Toshiba Commerce Solutions** — [AI Engineering Intern](https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5192820007) · ai · —
 - **Toshiba Commerce Solutions** — [Project Management & AI Automation Intern](https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5190937007) · ai · —
 - **Toshiba Global Commerce** — [Agentic Software Engineer Intern](https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5177892007) · software-engineering · —
@@ -169,6 +242,7 @@
 - **Western Digital** — [Hardware Engineering Intern](https://jobs.smartrecruiters.com/WesternDigital/744000140949875) · hardware · —
 - **XTX Markets** — [Philanthropy Intern](https://job-boards.greenhouse.io/xtxmarketstechnologies/jobs/7819416003) · software-engineering · —
 - **Yotta Labs** — [Research Engineer Intern - AI Systems](https://jobs.ashbyhq.com/yotta/09821a51-fbe6-42a7-a566-0d2b5d40fae3/application?embed=true) · ai · —
+- **ZGF Architects** — [Technology Intern](https://zgfarchitects.applytojob.com/apply/uqHC8SCmq2/Technology-Intern) · software-engineering · —
 - **Zello** — [Analytics Intern](https://jobs.ashbyhq.com/Zello/3453d476-7b75-4938-8cff-502d1575859b/application?embed=true) · software-engineering · —
 - **Zurich Insurance** — [Data Analytics & AI Internship/Co-op - Data Analytics & AI](https://www.careers.zurich.com/job/Toronto-Fall-2026-InternshipCo-op-Data-Analytics-&-AI-ON/1367953057/?ats=successfactors) · ai · —
 
