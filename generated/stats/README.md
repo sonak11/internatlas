@@ -11,7 +11,7 @@ _Generated 2026-08-04_
 | Tesla | 105 |
 | TikTok | 93 |
 | Jump Trading | 43 |
-| Cloudflare | 26 |
+| Cloudflare | 27 |
 | SpaceX | 24 |
 | Susquehanna International Group (SIG) | 21 |
 | IMC Trading | 20 |
@@ -35,7 +35,7 @@ _Generated 2026-08-04_
 |---|---|---|
 | software-engineering | 705 | `████████████` |
 | quant | 142 | `███` |
-| ai | 137 | `██` |
+| ai | 138 | `██` |
 | machine-learning | 98 | `██` |
 | research | 79 | `█` |
 | hardware | 70 | `█` |
@@ -57,6 +57,7 @@ _Generated 2026-08-04_
 - 2026-08-04 — **ByteDance**: [Software Engineer Intern, Distributed NoSQL Database Systems](https://joinbytedance.com/search/7668374190764050741)
 - 2026-08-04 — **Cloudflare**: [GRC Team Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8095533?gh_jid=8095533)
 - 2026-08-04 — **Cloudflare**: [Marketing Programs and Analytics Intern](https://boards.greenhouse.io/cloudflare/jobs/8104138)
+- 2026-08-04 — **Cloudflare**: [U.S. Public Policy and AI Innovation Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8105728?gh_jid=8105728)
 - 2026-08-04 — **Inizio**: [Data and Analytics Intern](https://job-boards.greenhouse.io/inizio/jobs/8066854)
 - 2026-08-04 — **Melius**: [Software Engineering Intern](https://jobs.ashbyhq.com/melius/b61f063a-4f94-4e50-a4ef-05aaab552280)
 - 2026-08-04 — **Microsoft**: [Full-Stack Product Engineer Intern - Web + Services](https://apply.careers.microsoft.com/careers/job/1970393556922922)
@@ -68,7 +69,6 @@ _Generated 2026-08-04_
 - 2026-08-04 — **Microsoft**: [Software Engineer Intern, Data Platform/Analytics](https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0&pid=1970393556922931)
 - 2026-08-04 — **Microsoft**: [Software Engineer Intern, Fullstack Product (Web + Services)](https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0&pid=1970393556922922)
 - 2026-08-04 — **Microsoft**: [Software Engineer Intern, Security & Identity](https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0&pid=1970393556922930)
-- 2026-08-04 — **Microsoft**: [Software Engineer Security & Identity Intern](https://apply.careers.microsoft.com/careers/job/1970393556922930)
 
 ## Recently closed
 

@@ -1,6 +1,6 @@
 # 📬 InternAtlas Weekly Digest — 2026-08-04
 
-## 🆕 New this week (334)
+## 🆕 New this week (335)
 
 - **1X** — [CNC Machine Park Intern](https://jobs.ashbyhq.com/1x/e7b4aaf5-5c55-4e2f-abcd-5c250657bede/application?embed=true) · software-engineering · —
 - **AcreTrader** — [Data Intern](https://ats.rippling.com/acretrader-jobs/jobs/e0192aa0-bd65-4262-81ed-d64685c7dc41) · software-engineering · —
@@ -75,6 +75,7 @@
 - **Cloudflare** — [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379) · research · —
 - **Cloudflare** — [Software Engineer Intern](https://job-boards.greenhouse.io/cloudflare/jobs/8052785?gh_jid=8052785) · software-engineering · —
 - **Cloudflare** — [Technical Marketing Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8104024?gh_jid=8104024) · software-engineering · —
+- **Cloudflare** — [U.S. Public Policy and AI Innovation Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8105728?gh_jid=8105728) · ai · —
 - **Clyde Companies** — [Business Intelligence Intern](https://careers.clydeinc.com/jobs/22659?icims=1) · software-engineering · —
 - **ConocoPhillips** — [GIS Intern](https://conocophillips.wd1.myworkdayjobs.com/External/job/Bartlesville-OK/GIS-Intern--Corporate-Land-2027_REQ-006208) · software-engineering · —
 - **Copart** — [Software Engineer Intern](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109964) · software-engineering · —

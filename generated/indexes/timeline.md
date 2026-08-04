@@ -221,6 +221,7 @@
 - Cloudflare — [Software Engineer Intern (Fall 2026) - Austin, TX](https://boards.greenhouse.io/cloudflare/jobs/8052785?gh_jid=8052785)
 - Cloudflare — [Systems Engineer – Data Residency Intern - Global Resource Management](https://boards.greenhouse.io/cloudflare/jobs/8015230)
 - Cloudflare — [Technical Marketing Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8104024?gh_jid=8104024)
+- Cloudflare — [U.S. Public Policy and AI Innovation Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8105728?gh_jid=8105728)
 - Clyde Companies — [Application Development Intern](https://careers.clydeinc.com/jobs/24398?icims=1)
 - Clyde Companies — [Business Intelligence Intern](https://careers.clydeinc.com/jobs/22659?icims=1)
 - CME Group — [Quant Risk Management Intern](https://cmegroup.wd1.myworkdayjobs.com/en-US/cme_careers/job/New-York---300-Vesey-Street/Quant-Risk-Management-Intern---Year-Round_34278)
