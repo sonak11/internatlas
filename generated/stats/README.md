@@ -92,6 +92,7 @@ _Generated 2026-08-04_
 - Assurant — Digital & AI Transformation Intern
 - Astranis — FPGA Associate Intern
 - Astranis — FPGA Intern
+- Astranis — Hardware Design Intern - Software Defined Radio Team
 - Autodesk — Cloud Developer Intern
 - Autodesk — Cloud Developer Intern
 - Autodesk — Machine Learning Developer Intern
@@ -165,6 +166,7 @@ _Generated 2026-08-04_
 - GE Healthcare — Engineering Development Program Intern - Software
 - GE Vernova — GE Vernova Grid Automation Product Management Intern
 - GE Vernova — GE Vernova Grid Automation Product Management Intern
+- Gemini — Product Management Intern
 - Generac — Data Science Intern
 - Generac — Engineering Intern
 - Generac — Software Engineer Intern
@@ -244,6 +246,7 @@ _Generated 2026-08-04_
 - National Laboratory of the Rockies — Graduate Geospatial Data Science Intern
 - NationGraph — Software Engineer Intern
 - Navy Federal — Year Round Intern - Business Intelligence Analyst
+- NBT Bank — Data Warehouse & Analytics Intern
 - Neuralink — R&D Materials Engineer Intern
 - NewsBreak — Growth Engineer Intern - Growth Engineering
 - Nokia — Data Science Co-op/Intern

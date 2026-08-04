@@ -58,7 +58,7 @@
 | [Arrowstreet Capital](../companies/arrowstreet-capital.md) | 2/2 | quant |
 | [Assurant](../companies/assurant.md) | 0/1 | ai |
 | [Astera](../companies/astera.md) | 1/1 | software-engineering |
-| [Astranis](../companies/astranis.md) | 9/11 | design, embedded, hardware, software-engineering |
+| [Astranis](../companies/astranis.md) | 8/11 | design, embedded, hardware, software-engineering |
 | [Atomic Semi](../companies/atomic-semi.md) | 6/6 | cloud, design, embedded, software-engineering |
 | [Autodesk](../companies/autodesk.md) | 0/5 | cloud, machine-learning, software-engineering |
 | [Avanade](../companies/avanade.md) | 0/1 | software-engineering |
@@ -189,7 +189,7 @@
 | [GE Healthcare](../companies/ge-healthcare.md) | 0/2 | hardware, software-engineering |
 | [GE Vernova](../companies/ge-vernova.md) | 0/2 | product |
 | [GRITT ROBOTICS INC](../companies/gritt-robotics-inc.md) | 1/1 | machine-learning |
-| [Gemini](../companies/gemini.md) | 3/3 | product, software-engineering |
+| [Gemini](../companies/gemini.md) | 2/3 | product, software-engineering |
 | [GenMD](../companies/genmd.md) | 1/1 | ai |
 | [Generac](../companies/generac.md) | 0/3 | data-science, software-engineering |
 | [General Astronautics](../companies/general-astronautics.md) | 1/1 | software-engineering |
@@ -294,7 +294,7 @@
 | [Moss & Associates](../companies/moss-associates.md) | 0/1 | software-engineering |
 | [Muru](../companies/muru.md) | 2/2 | software-engineering |
 | [NBCUniversal](../companies/nbcuniversal.md) | 2/2 | software-engineering |
-| [NBT Bank](../companies/nbt-bank.md) | 1/1 | software-engineering |
+| [NBT Bank](../companies/nbt-bank.md) | 0/1 | software-engineering |
 | [NTT DATA AIVista](../companies/ntt-data-aivista.md) | 1/1 | ai |
 | [NVIDIA](../companies/nvidia.md) | 0/9 | machine-learning, quant, research, security, software-engineering |
 | [NXP Semiconductors](../companies/nxp-semiconductors.md) | 1/3 | ai, design, software-engineering |
