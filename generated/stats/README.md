@@ -9,7 +9,7 @@ _Generated 2026-08-04_
 | Company | Listings |
 |---|---|
 | Tesla | 105 |
-| TikTok | 92 |
+| TikTok | 93 |
 | Jump Trading | 43 |
 | Cloudflare | 25 |
 | SpaceX | 24 |
@@ -33,9 +33,9 @@ _Generated 2026-08-04_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 695 | `████████████` |
+| software-engineering | 696 | `████████████` |
 | quant | 142 | `███` |
-| ai | 135 | `██` |
+| ai | 136 | `██` |
 | machine-learning | 97 | `██` |
 | research | 78 | `█` |
 | hardware | 70 | `█` |
@@ -129,8 +129,6 @@ _Generated 2026-08-04_
 - Consensus Cloud Solutions — Sales Strategy & Analytics Intern
 - Copart — Software Engineer Intern
 - Copart — Software Engineer Intern
-- Copart — Software Engineer Intern
-- Copart — Software Engineer Intern
 - Copart — Technology Product Analyst Intern
 - Datasite — AI Transformation / Forward Deployed Engineer Intern - Forward Deployed Engineer
 - Datasite — Forward Deployed Engineer Intern
@@ -196,6 +194,7 @@ _Generated 2026-08-04_
 - Intel — AI Software Engineering Intern
 - Intel Corporation — AI Software Engineering PhD Intern
 - JINGDONG — Software Engineering Intern
+- JP Morgan Chase — Data Internship - Data & AI Program
 - Jump Trading — Campus Quantitative Researcher Intern
 - KBR — National Security Solutions Intern - Nss
 - Kinaxis — Engineer Co-op/Intern - Data & Analytics
@@ -260,7 +259,6 @@ _Generated 2026-08-04_
 - Palantir Technologies — Forward Deployed Infrastructure Engineer Intern
 - Palantir Technologies — Forward Deployed Infrastructure Engineer Intern
 - Palantir Technologies — Forward Deployed Infrastructure Engineer Intern
-- Pendulum Intelligence — Product Manager Intern
 - Pennsylvania State University — R&D Engineer Intern
 - Pennsylvania State University — Research and Development Engineer Intern
 - Pennsylvania State University — Research and Development Engineer Intern
@@ -309,7 +307,6 @@ _Generated 2026-08-04_
 - Sparksoft — Data Development Intern
 - Sparksoft — Technical Intern
 - Spectrum Control — Engineering Intern
-- SpreeAI — Mobile Software Engineer Intern - Flagship Apps - iOS / Android / Web
 - SS&C — Healthcare AI & Automation Intern
 - Stoke Space — Software Intern - Software
 - Susquehanna International Group (SIG) — Trading Operations Analyst Intern
@@ -358,6 +355,7 @@ _Generated 2026-08-04_
 - Walleye Capital — Risk Technology Analyst Intern
 - Walleye Capital — Technology Intern
 - Walleye Capital — Volatility Trading Developer Intern
+- Williams — Engineering Intern
 - XTX Markets — Philanthropy Intern
 - Zipline — Applications Engineer Intern
 - Zipline — Maps Intern

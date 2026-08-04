@@ -1,6 +1,6 @@
 {
   "generated": "2026-08-04",
-  "count": 1398,
+  "count": 1400,
   "internships": [
     {
       "schema_version": "1.0",
@@ -15835,7 +15835,7 @@
         "discovered": "2026-07-28",
         "last_verified": "2026-08-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -15993,7 +15993,7 @@
         "discovered": "2026-07-21",
         "last_verified": "2026-08-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -26326,7 +26326,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "hudson-river-trading-algorithm-development-intern-quant-research-2027",
+      "id": "hudson-river-trading-algorithm-development-intern-quant-research-2027-92c392",
       "company": {
         "name": "Hudson River Trading",
         "slug": "hudson-river-trading"
@@ -26370,7 +26370,7 @@
       },
       "dates": {
         "posted": "2026-07-13",
-        "discovered": "2026-07-17",
+        "discovered": "2026-08-04",
         "last_verified": "2026-08-04"
       },
       "status": "open",
@@ -26381,19 +26381,22 @@
     },
     {
       "schema_version": "1.0",
-      "id": "hudson-river-trading-algorithm-development-quant-research-trading-internship-summ-2027",
+      "id": "hudson-river-trading-algorithm-development-intern-quant-research-2027",
       "company": {
         "name": "Hudson River Trading",
-        "slug": "hudson-river-trading",
-        "career_page": "https://www.hudsonrivertrading.com/careers"
+        "slug": "hudson-river-trading"
       },
-      "role": "Algorithm Development (Quant Research & Trading) Internship – Summer 2027",
+      "role": "Algorithm Development Intern - Quant Research",
       "category": "quant",
       "apply_url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=7964062",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
       "locations": [
+        {
+          "city": "NYC",
+          "country": "USA"
+        },
         {
           "city": "London",
           "country": "USA"
@@ -26422,13 +26425,13 @@
       },
       "dates": {
         "posted": "2026-07-13",
-        "discovered": "2026-07-23",
+        "discovered": "2026-07-17",
         "last_verified": "2026-08-04"
       },
       "status": "open",
       "tags": [
         "auto-ingested",
-        "src:ats"
+        "src:simplify"
       ]
     },
     {
@@ -30353,7 +30356,7 @@
         "discovered": "2026-08-03",
         "last_verified": "2026-08-04"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -45959,7 +45962,7 @@
         "discovered": "2026-07-21",
         "last_verified": "2026-08-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -55657,7 +55660,7 @@
         "discovered": "2026-07-21",
         "last_verified": "2026-08-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -68439,6 +68442,60 @@
     },
     {
       "schema_version": "1.0",
+      "id": "tiktok-research-engineer-intern-agentic-systems-ai-infrastructure-g-2027",
+      "company": {
+        "name": "TikTok",
+        "slug": "tiktok"
+      },
+      "role": "Research Engineer Intern - Agentic Systems & AI Infrastructure - Generalized Architecture",
+      "category": "ai",
+      "apply_url": "https://lifeattiktok.com/search/7667934792727906565",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Seattle",
+          "state": "WA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-03",
+        "discovered": "2026-08-04",
+        "last_verified": "2026-08-04"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "tiktok-research-engineer-intern-agentic-systems-ai-infrastructure-t-2026",
       "company": {
         "name": "TikTok",
@@ -75037,7 +75094,7 @@
         "discovered": "2026-08-03",
         "last_verified": "2026-08-04"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -75933,6 +75990,60 @@
         "last_verified": "2026-08-04"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "zipline-mechatronics-perception-intern-fall-2026-2026",
+      "company": {
+        "name": "Zipline",
+        "slug": "zipline"
+      },
+      "role": "Mechatronics Perception Intern - Fall 2026",
+      "category": "software-engineering",
+      "apply_url": "https://www.zipline.com/open-roles?gh_jid=7763697003",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "South SF",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters",
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-06-05",
+        "discovered": "2026-08-04",
+        "last_verified": "2026-08-04"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"

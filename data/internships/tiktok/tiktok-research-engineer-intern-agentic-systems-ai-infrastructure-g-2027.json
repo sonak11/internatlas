@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "hudson-river-trading-algorithm-development-quant-research-trading-internship-summ-2027",
+  "id": "tiktok-research-engineer-intern-agentic-systems-ai-infrastructure-g-2027",
   "company": {
-    "name": "Hudson River Trading",
-    "slug": "hudson-river-trading",
-    "career_page": "https://www.hudsonrivertrading.com/careers"
+    "name": "TikTok",
+    "slug": "tiktok"
   },
-  "role": "Algorithm Development (Quant Research & Trading) Internship – Summer 2027",
-  "category": "quant",
-  "apply_url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=7964062",
+  "role": "Research Engineer Intern - Agentic Systems & AI Infrastructure - Generalized Architecture",
+  "category": "ai",
+  "apply_url": "https://lifeattiktok.com/search/7667934792727906565",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "London",
+      "city": "Seattle",
+      "state": "WA",
       "country": "USA"
     }
   ],
@@ -25,7 +25,9 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "masters"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -40,13 +42,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-13",
-    "discovered": "2026-07-23",
+    "posted": "2026-08-03",
+    "discovered": "2026-08-04",
     "last_verified": "2026-08-04"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:ats"
+    "src:simplify"
   ]
 }

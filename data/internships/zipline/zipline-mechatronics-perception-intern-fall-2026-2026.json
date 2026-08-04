@@ -1,17 +1,22 @@
 {
   "schema_version": "1.0",
-  "id": "pendulum-intelligence-product-manager-intern-2026",
+  "id": "zipline-mechatronics-perception-intern-fall-2026-2026",
   "company": {
-    "name": "Pendulum Intelligence",
-    "slug": "pendulum-intelligence"
+    "name": "Zipline",
+    "slug": "zipline"
   },
-  "role": "Product Manager Intern",
-  "category": "product",
-  "apply_url": "https://ats.rippling.com/pendulum-intelligence-jobs/jobs/301a1742-46fd-4489-b410-6fdcac0dbe27",
+  "role": "Mechatronics Perception Intern - Fall 2026",
+  "category": "software-engineering",
+  "apply_url": "https://www.zipline.com/open-roles?gh_jid=7763697003",
   "season": "fall",
   "year": 2026,
-  "work_mode": "remote",
-  "locations": [],
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "South SF",
+      "country": "USA"
+    }
+  ],
   "compensation": {
     "currency": "USD",
     "housing_stipend": false,
@@ -19,7 +24,10 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "masters",
+      "phd"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -34,8 +42,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-21",
-    "discovered": "2026-07-21",
+    "posted": "2026-06-05",
+    "discovered": "2026-08-04",
     "last_verified": "2026-08-04"
   },
   "status": "open",
