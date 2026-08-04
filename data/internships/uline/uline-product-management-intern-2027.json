@@ -1,0 +1,72 @@
+{
+  "schema_version": "1.0",
+  "id": "uline-product-management-intern-2027",
+  "company": {
+    "name": "Uline",
+    "slug": "uline"
+  },
+  "role": "Product Management Intern",
+  "category": "product",
+  "apply_url": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Product-Management-Internship---Summer-2027_R265939",
+  "season": "summer",
+  "year": 2027,
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "Waukegan",
+      "state": "IL",
+      "country": "USA"
+    },
+    {
+      "city": "Milwaukee",
+      "state": "WI",
+      "country": "USA"
+    },
+    {
+      "city": "Glenview",
+      "state": "IL",
+      "country": "USA"
+    },
+    {
+      "city": "Pleasant Prairie",
+      "state": "WI",
+      "country": "USA"
+    },
+    {
+      "city": "Kenosha",
+      "state": "WI",
+      "country": "USA"
+    }
+  ],
+  "compensation": {
+    "currency": "USD",
+    "housing_stipend": false,
+    "relocation_assistance": false
+  },
+  "eligibility": {
+    "graduation_years": [],
+    "degree_levels": [],
+    "citizenship_required": false,
+    "security_clearance_required": false,
+    "visa_sponsorship": "unknown"
+  },
+  "interview": {},
+  "tech": {
+    "required_skills": [],
+    "preferred_skills": [],
+    "languages": [],
+    "frameworks": [],
+    "cloud_platforms": [],
+    "resume_keywords": []
+  },
+  "dates": {
+    "posted": "2026-08-03",
+    "discovered": "2026-08-04",
+    "last_verified": "2026-08-04"
+  },
+  "status": "open",
+  "tags": [
+    "auto-ingested",
+    "src:simplify"
+  ]
+}

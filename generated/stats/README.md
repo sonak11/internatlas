@@ -2,20 +2,20 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 📊 Statistics
 
-_Generated 2026-08-03_
+_Generated 2026-08-04_
 
 ## Top hiring companies
 
 | Company | Listings |
 |---|---|
-| Tesla | 103 |
+| Tesla | 105 |
 | TikTok | 63 |
 | Jump Trading | 43 |
-| Cloudflare | 22 |
+| Cloudflare | 25 |
+| SpaceX | 24 |
 | Susquehanna International Group (SIG) | 21 |
 | IMC Trading | 20 |
 | Neuralink | 20 |
-| SpaceX | 20 |
 | Jane Street | 17 |
 | Palantir Technologies | 17 |
 | Rivian and Volkswagen Group Technologies | 16 |
@@ -33,22 +33,26 @@ _Generated 2026-08-03_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 666 | `████████████` |
+| software-engineering | 680 | `████████████` |
 | quant | 142 | `███` |
-| ai | 129 | `██` |
+| ai | 132 | `██` |
 | machine-learning | 84 | `██` |
 | research | 78 | `█` |
-| hardware | 68 | `█` |
-| embedded | 42 | `█` |
-| product | 32 | `█` |
+| hardware | 70 | `█` |
+| embedded | 43 | `█` |
+| product | 34 | `█` |
 | cloud | 28 | `█` |
 | design | 28 | `█` |
 | data-science | 18 | `█` |
-| data-engineering | 15 | `█` |
+| data-engineering | 16 | `█` |
 | security | 8 | `█` |
 
 ## Newest listings
 
+- 2026-08-04 — **American Express**: [Product Management Intern](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011916)
+- 2026-08-04 — **Cloudflare**: [Marketing Programs and Analytics Intern](https://boards.greenhouse.io/cloudflare/jobs/8104138)
+- 2026-08-04 — **Tesla**: [Cell Engineering Intern - Cell Qualification](https://www.tesla.com/careers/search/job/278620)
+- 2026-08-04 — **Tesla**: [Data Engineer Intern - Cell Engineering](https://www.tesla.com/careers/search/job/278622)
 - 2026-08-03 — **1X**: [CNC Machine Park Intern](https://jobs.ashbyhq.com/1x/e7b4aaf5-5c55-4e2f-abcd-5c250657bede/application?embed=true)
 - 2026-08-03 — **AcreTrader**: [Data Intern](https://ats.rippling.com/acretrader-jobs/jobs/e0192aa0-bd65-4262-81ed-d64685c7dc41)
 - 2026-08-03 — **American Express**: [Campus Undergraduate Summer Internship - Strategy & Analytics - Credit & Fraud Risk](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011984)
@@ -65,10 +69,6 @@ _Generated 2026-08-03_
 - 2026-08-03 — **ByteDance**: [Research Scientist Intern](https://jobs.bytedance.com/en/position/7667379218929780997/detail)
 - 2026-08-03 — **ByteDance**: [Research Scientist Intern - AI Infra Compute](https://jobs.bytedance.com/en/position/7667379221434796341/detail)
 - 2026-08-03 — **ByteDance**: [Research Scientist Intern - Distributed NoSQL Database Systems](https://jobs.bytedance.com/en/position/7668371456348326149/detail)
-- 2026-08-03 — **ByteDance**: [Research Scientist Intern - Distributed NoSQL Database Systems](https://jobs.bytedance.com/en/position/7668371003554138421/detail)
-- 2026-08-03 — **ByteDance**: [Research Scientist Intern - Multi-modal Agentic Databases](https://jobs.bytedance.com/en/position/7667380487805995269/detail)
-- 2026-08-03 — **ByteDance**: [Research Scientist Intern - Multi-modal Agentic Databases](https://jobs.bytedance.com/en/position/7667380184615127301/detail)
-- 2026-08-03 — **ByteDance**: [Software Engineer Intern](https://jobs.bytedance.com/en/position/7668373268886161669/detail)
 
 ## Recently closed
 
@@ -102,7 +102,6 @@ _Generated 2026-08-03_
 - Bank of Montreal — Data and AI Operations Analyst Intern/Co-op - Cloud - 8 months
 - Bank of Montreal — Market Risk Analyst Co-op/Intern
 - BDO Canada — Data & Analytics Co-op/Intern - Data & Analytics
-- BDO Canada — Indirect Tax Intern Co-op - Indirect Tax
 - BMO — Machine Learning Intern
 - Bosch Home Comfort — Autonomous Driving Intern
 - Bosch Home Comfort — Business Intelligence Intern
@@ -120,7 +119,6 @@ _Generated 2026-08-03_
 - Ciena — Routing/IP Software Developer Intern
 - Ciena — Software Engineer and Tools Developer Intern
 - City of Austin — Austin Aviation Undergraduate Intern - IT Business Systems Analyst
-- Cloudflare — EIAM Business Enablement & Operations Intern (Fall 2026)
 - Cloudflare — Public Policy Intern
 - Cloudflare — Sales Project Manager Intern (AI Innovation) (Fall 2026)
 - Cloudflare — Technical Support Engineer Intern (Fall 2026)
@@ -200,6 +198,7 @@ _Generated 2026-08-03_
 - Kinaxis — Software Development Co-op/Intern - C++
 - Kirin — Software Engineer Intern - AI Agents + Devices
 - Kodak — Marketing Analytics Intern
+- KRAFTON — Programming Intern
 - Kudu Dynamics — Software Engineer Intern
 - Kudu Dynamics — Software Engineer Intern
 - Kudu Dynamics — Software Engineer Intern
@@ -211,7 +210,6 @@ _Generated 2026-08-03_
 - Mackenzie Investments — Data Science and AI Specialist Intern - Investment Management - Fundamental Equity
 - Marvell — Design Verification Engineer Intern
 - McKesson — Data Governance Analyst Intern
-- McKesson — Supply Chain Engineering and Analytics Intern
 - Medpace — Feasibility Informatics Internship/Co-op
 - Medpace, Inc. — Feasibility Informatics Intern/Co-op
 - Menasha Corporation — Material Innovation Center Intern
@@ -251,7 +249,6 @@ _Generated 2026-08-03_
 - NVIDIA — Quantum Research Scientist Intern
 - NVIDIA — Software Engineering Intern, JAX
 - NXP Semiconductors — AI / Software Engineering Intern
-- NXP Semiconductors — Digital Verification Engineer Intern
 - onsemi — Electrical Device Characterization Intern
 - Optiver — Trading Automation and Operations Intern
 - Outpost Technologies — Technical Marketing Intern - Analytics - Research & Automation
@@ -283,6 +280,7 @@ _Generated 2026-08-03_
 - Samsung — Research Intern
 - Samsung Research America — Computer Vision/AI Intern - Computer Vision/AI
 - Samsung Research America — Memory and Personalization Intern - Memory and Personalization
+- Samsung Research America — ML/NLP Research Intern
 - Schweitzer Engineering Laboratories — Engineering Intern
 - Schweitzer Engineering Laboratories — Software Engineer Intern
 - Schweitzer Engineering Laboratories — Software Engineering Intern
@@ -301,6 +299,8 @@ _Generated 2026-08-03_
 - SpaceX — Fall 2026 Software Engineering Internship/Co-op
 - SpaceX — Software Engineering Intern
 - SpaceX — Software Engineering Intern/Co-op
+- SpaceX — Spring 2027 Graduate Engineer Internship/Co-op
+- SpaceX — Summer 2027 Graduate Engineer Internship/Co-op
 - Sparksoft — Data Development Intern
 - Sparksoft — Technical Intern
 - Spectrum Control — Engineering Intern
