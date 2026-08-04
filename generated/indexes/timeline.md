@@ -84,7 +84,6 @@
 - ASM Global — [Digital Workplace Experience Intern](https://asmglobal.wd1.myworkdayjobs.com/careers/job/West-Conshohocken-PA/Digital-Workplace-Experience-Intern_R100122151)
 - ASM International — [Software Engineering Intern](https://www.asm.com/open-vacancies/?gh_jid=4830113101)
 - ASML — [Internship - Software Development Engineer in Test](https://asml.wd3.myworkdayjobs.com/en-US/asmlext1/job/San-Jose-CA-USA/Internship---Software-Development-Engineer-in-Test_J-00328071)
-- Assurant — [Digital & AI Transformation Intern](https://assurant.wd1.myworkdayjobs.com/External_Limited_Posting/job/Atlanta-GA/Digital---AI-Transformation-Intern_R-114103-3)
 - Astera — [Software Engineering Intern, Neuro & AGI](https://jobs.ashbyhq.com/astera/c2a48c1b-c4c4-4333-addf-313c47e26066)
 - Astranis — [Assembly and Test Intern - Integration](https://job-boards.greenhouse.io/astranis/jobs/4679080006)
 - Astranis — [Embedded Software Developer – Network/Payload Software Intern](https://job-boards.greenhouse.io/astranis/jobs/4601135006)

@@ -56,7 +56,7 @@
 | [Arkema Global](../companies/arkema-global.md) | 1/1 | software-engineering |
 | [Arlington County VA](../companies/arlington-county-va.md) | 1/1 | software-engineering |
 | [Arrowstreet Capital](../companies/arrowstreet-capital.md) | 2/2 | quant |
-| [Assurant](../companies/assurant.md) | 1/1 | ai |
+| [Assurant](../companies/assurant.md) | 0/1 | ai |
 | [Astera](../companies/astera.md) | 1/1 | software-engineering |
 | [Astranis](../companies/astranis.md) | 9/11 | design, embedded, hardware, software-engineering |
 | [Atomic Semi](../companies/atomic-semi.md) | 6/6 | cloud, design, embedded, software-engineering |

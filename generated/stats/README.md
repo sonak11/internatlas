@@ -89,6 +89,7 @@ _Generated 2026-08-04_
 - Aptiv — Engineer Intern
 - AQR Capital Management — Portfolio Implementation – Trading and Portfolio Finance Analyst Intern
 - Aramark — Data Analyst Intern
+- Assurant — Digital & AI Transformation Intern
 - Astranis — FPGA Associate Intern
 - Astranis — FPGA Intern
 - Autodesk — Cloud Developer Intern
