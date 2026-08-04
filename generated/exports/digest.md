@@ -1,6 +1,6 @@
 # 📬 InternAtlas Weekly Digest — 2026-08-04
 
-## 🆕 New this week (282)
+## 🆕 New this week (319)
 
 - **1X** — [CNC Machine Park Intern](https://jobs.ashbyhq.com/1x/e7b4aaf5-5c55-4e2f-abcd-5c250657bede/application?embed=true) · software-engineering · —
 - **AcreTrader** — [Data Intern](https://ats.rippling.com/acretrader-jobs/jobs/e0192aa0-bd65-4262-81ed-d64685c7dc41) · software-engineering · —
@@ -40,6 +40,7 @@
 - **ByteDance** — [Software Engineer Intern](https://jobs.bytedance.com/en/position/7668373268886161669/detail) · software-engineering · —
 - **ByteDance** — [Software Engineer Intern - AI Infra Compute](https://jobs.bytedance.com/en/position/7667378931599214853/detail) · ai · —
 - **ByteDance** — [Software Engineer Intern - AI Infrastructure Compute](https://jobs.bytedance.com/en/position/7667377525182662965/detail) · ai · —
+- **ByteDance** — [Software Engineer Intern - AI Platform](https://jobs.bytedance.com/en/position/7668212952030841093/detail) · ai · —
 - **ByteDance** — [Software Engineer Intern - Distributed NoSQL Database Systems](https://jobs.bytedance.com/en/position/7668374190764050741/detail) · software-engineering · —
 - **CALSTART** — [Data Analysis Intern](https://jobs.lever.co/calstart/39565f0d-d10f-458b-b72d-d807420059b8/apply) · software-engineering · —
 - **CALSTART** — [Web Development Intern](https://jobs.lever.co/calstart/cbd0d758-18b0-481d-9e67-a065682f30ea/apply) · software-engineering · —
@@ -104,6 +105,7 @@
 - **IMC Trading** — [Quantitative Trader Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4936262101) · quant · —
 - **IMC Trading** — [Trader Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4939846101) · quant · —
 - **Incident IQ** — [Software Engineer Intern](https://job-boards.greenhouse.io/incidentiq/jobs/7824038003) · software-engineering · —
+- **Inizio** — [Data and Analytics Intern](https://job-boards.greenhouse.io/inizio/jobs/8066854) · software-engineering · —
 - **Innovation Works, Inc.** — [Scale Prototyping Shop Intern](https://innovationworks.applytojob.com/apply/nrxEUkXjtp/Scale-Prototyping-Shop-Intern-Innovation-Works-Inc) · software-engineering · —
 - **Intel** — [AI Software Engineer Intern](https://intel.wd1.myworkdayjobs.com/en-us/external/job/Virtual-US/AI-Software-Engineer-Graduate-Intern_JR0285989) · ai · —
 - **IntelliGenesis** — [Applied Data Scientist Intern](http://intelligenesis.applytojob.com/apply/synY3toJUH/Applied-Data-Scientist-Internship-DoW-SkillBridge) · data-science · —
@@ -133,10 +135,15 @@
 - **Microchip Technology** — [Engineering Intern - Firmware Development](https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/TX---Houston---Compaq-Center-Dr/Intern-Engineering--Firmware-Development-_R3372-26) · embedded · —
 - **Microchip Technology** — [Engineering Intern - Software Development](https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/TX---Houston---Compaq-Center-Dr/Intern-Engineering--Software-Development-_R3371-26) · software-engineering · —
 - **Microchip Technology** — [Power, Analog and Mixed-Signal IC Product Engineer Intern - Product Engineering](https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/AZ---Chandler/Intern--Engineering--Product-Engineering-_R3151-26-1) · software-engineering · —
+- **Microsoft** — [Full-Stack Product Engineer Intern - Web + Services](https://apply.careers.microsoft.com/careers/job/1970393556922922) · software-engineering · —
 - **Microsoft** — [Product Manager Intern](https://apply.careers.microsoft.com/careers/job/1970393556953113) · product · —
+- **Microsoft** — [Software Engineer: AI/ML & LLM Intern](https://apply.careers.microsoft.com/careers/job/1970393556922929) · machine-learning · —
 - **Microsoft** — [Software Engineer Intern](https://apply.careers.microsoft.com/careers/job/1970393556951951) · software-engineering · —
+- **Microsoft** — [Software Engineer Intern - Cloud & Distributed Backend](https://apply.careers.microsoft.com/careers/job/1970393556922923) · cloud · —
 - **Microsoft** — [Software Engineer Intern, CoreAI](https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0) · software-engineering · —
 - **Microsoft** — [Software Engineer Intern - CoreAI](https://apply.careers.microsoft.com/careers/job/1970393556951950) · software-engineering · —
+- **Microsoft** — [Software Engineer Intern - Data Platform & Analytics](https://apply.careers.microsoft.com/careers/job/1970393556922931) · software-engineering · —
+- **Microsoft** — [Software Engineer Security & Identity Intern](https://apply.careers.microsoft.com/careers/job/1970393556922930) · security · —
 - **Modal** — [Machine Learning Research Intern](https://jobs.ashbyhq.com/modal/38888294-6bc7-4dab-b072-6d0f0c2ed79a/application?embed=true) · machine-learning · —
 - **Modal** — [ML Research Intern](https://jobs.ashbyhq.com/modal/38888294-6bc7-4dab-b072-6d0f0c2ed79a) · machine-learning · —
 - **NTT DATA AIVista** — [AI Scientist Intern](https://jobs.ashbyhq.com/ntt-data-aivista/75f9f312-1cf9-4141-b352-60cb2fac8fe9/application?embed=true) · ai · —
@@ -162,6 +169,7 @@
 - **Prospect Equities** — [Backend / Frontend Developer Intern](https://prospectequities.applytojob.com/apply/XTbzSAcNtg/Backend-Frontend-Developer-Intern) · software-engineering · —
 - **QuEra Computing** — [Photonics Data Engineer Intern - Data Management](https://job-boards.greenhouse.io/queracomputinginc/jobs/5378366008) · data-engineering · —
 - **RTX** — [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Software-Engineering-Intern--Summer-2027-_01863072) · software-engineering · —
+- **RTX** — [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-REMOTE/Software-Engineering--Intern--Summer-2027-_01863749) · software-engineering · —
 - **RTX** — [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-PA-STATE-COLLEGE-5A--302-Science-Park-Rd--BLDG-5A/Software-Engineering-Intern--Summer-2027-_01862842) · software-engineering · —
 - **RTX** — [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CA-FULLERTON-675--1801-Hughes-Dr--BLDG-675/Software-Engineering-Intern--Summer-2027-_01863012) · software-engineering · —
 - **RapDev** — [ServiceNow Engineer Intern](https://jobs.ashbyhq.com/rapdev/b022388e-79d0-43b8-b524-64aaed9ff4dc/application?embed=true) · software-engineering · —
@@ -214,6 +222,7 @@
 - **The Boeing Company** — [Data Analytics Intern](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Data-Analytics-Intern_JR2026520976-1) · software-engineering · —
 - **The Home Depot** — [AI Engineer Intern](https://homedepot.wd5.myworkdayjobs.com/CareerDepotCanada/job/CANADA-STORE-SUPPORT-CENTER---7000/Intern--AI-Engineer_Req188547) · ai · —
 - **The Hub Project** — [Polling and Outreach Intern](https://newventurefund.applytojob.com/apply/RFdviqLOwW/Polling-And-Outreach-Intern) · software-engineering · —
+- **TikTok** — [AI Product Manager Intern - Content Ecosystem](https://lifeattiktok.com/search/7667578131150506293) · ai · —
 - **TikTok** — [Artificial Intelligence Engineer Intern - Client Architecture](https://lifeattiktok.com/search/7667935738190465285) · ai · —
 - **TikTok** — [Backend Software Engineer Intern](https://lifeattiktok.com/search/7667935739300317493) · software-engineering · —
 - **TikTok** — [Backend Software Engineer Intern](https://lifeattiktok.com/search/7667934635573692725) · software-engineering · —
@@ -221,25 +230,46 @@
 - **TikTok** — [Backend Software Engineer Intern](https://lifeattiktok.com/search/7667933770819897605) · software-engineering · —
 - **TikTok** — [Backend Software Engineer Intern](https://lifeattiktok.com/search/7667933335084124469) · software-engineering · —
 - **TikTok** — [Backend Software Engineer Intern - Digital Content Center](https://lifeattiktok.com/search/7667934302872537397) · software-engineering · —
+- **TikTok** — [Backend Software Engineer Intern - Global E-Commerce](https://lifeattiktok.com/search/7668834837268416821) · software-engineering · —
+- **TikTok** — [Backend Software Engineer Intern - Global E-Commerce](https://lifeattiktok.com/search/7668834837268138293) · software-engineering · —
 - **TikTok** — [Backend Software Engineer Intern - Innovative Growth](https://lifeattiktok.com/search/7667934860750063925) · software-engineering · —
+- **TikTok** — [Backend Software Engineer Intern - LIVE Foundation Governance Engineering](https://lifeattiktok.com/search/7667935150530840837) · software-engineering · —
+- **TikTok** — [Backend Software Engineer Intern - Product Infrastructure](https://lifeattiktok.com/search/7667935633764370741) · cloud · —
+- **TikTok** — [Data Science Intern - Integrity and Safety](https://lifeattiktok.com/search/7669682935444900149) · data-science · —
+- **TikTok** — [Data Science Intern - TikTok Live](https://lifeattiktok.com/search/7669700822370945333) · data-science · —
 - **TikTok** — [Efficiency Analyst/Methodologist Project Intern - Content Operations - Tiktok-Operations-Operations Efficiency](https://lifeattiktok.com/search/7667613782697232693) · software-engineering · —
 - **TikTok** — [Efficiency Analyst/Methodologist Project Intern - Content Operations - Tiktok-Operations-Operations Efficiency](https://lifeattiktok.com/search/7667248888103782661) · software-engineering · —
+- **TikTok** — [Frontend Engineer Intern - Global CRM](https://lifeattiktok.com/search/7669711026846058757) · software-engineering · —
 - **TikTok** — [Frontend Engineer Intern - Open Platform](https://lifeattiktok.com/search/7667935739300792629) · software-engineering · —
 - **TikTok** — [Frontend Software Engineer Intern - Ads Measurement Signal and Privacy](https://lifeattiktok.com/search/7668584161852229893) · software-engineering · —
 - **TikTok** — [Generative AI Researcher Intern - Intelligent Creation-Vision and Graphics](https://lifeattiktok.com/search/7668183035989281029) · ai · —
+- **TikTok** — [Machine Learning Engineer Intern](https://lifeattiktok.com/search/7668379675467761925) · machine-learning · —
 - **TikTok** — [Machine Learning Engineer Intern](https://lifeattiktok.com/search/7667350291952765237) · machine-learning · —
 - **TikTok** — [Machine Learning Engineer Intern](https://lifeattiktok.com/search/7667346576033777925) · machine-learning · —
 - **TikTok** — [Machine Learning Engineer Intern](https://lifeattiktok.com/search/7667338938890930437) · machine-learning · —
+- **TikTok** — [Machine Learning Engineer Intern - Ads Signal & Measurement](https://lifeattiktok.com/search/7669700361976809733) · machine-learning · —
+- **TikTok** — [Machine Learning Engineer Intern - App Ads and Gaming](https://lifeattiktok.com/search/7669709472078170373) · machine-learning · —
 - **TikTok** — [Machine Learning Engineer Intern - Basic Ranking](https://lifeattiktok.com/search/7667339583362025781) · machine-learning · —
+- **TikTok** — [Machine Learning Engineer Intern - Brand Ads](https://lifeattiktok.com/search/7668654528822954245) · machine-learning · —
+- **TikTok** — [Machine Learning Engineer Intern - Commerce Ads - Summer 2027](https://lifeattiktok.com/search/7669711968043092229) · machine-learning · —
+- **TikTok** — [Machine Learning Engineer Intern - Commercial AI-CRM and Transaction](https://lifeattiktok.com/search/7669702702763018501) · machine-learning · —
+- **TikTok** — [Machine Learning Engineer Intern - Data Search Local Service](https://lifeattiktok.com/search/7668381860191734021) · machine-learning · —
+- **TikTok** — [Machine Learning Engineer Intern - Data Search Recommendation Global E-Commerce](https://lifeattiktok.com/search/7668383643375257909) · machine-learning · —
 - **TikTok** — [Machine Learning Engineer Intern - Data Search Search Quality](https://lifeattiktok.com/search/7665475888805611781) · machine-learning · —
 - **TikTok** — [Machine Learning Engineer Intern - Data Search - Visual Search](https://lifeattiktok.com/search/7667349591727278341) · machine-learning · —
+- **TikTok** — [Machine Learning Engineer Intern - Lead Ads](https://lifeattiktok.com/search/7669707492914727221) · machine-learning · —
+- **TikTok** — [Machine Learning Engineer Intern - Performance Monetization](https://lifeattiktok.com/search/7669693205558561077) · machine-learning · —
+- **TikTok** — [Machine Learning Engineer Intern - Performance Monetization](https://lifeattiktok.com/search/7669693163422845237) · machine-learning · —
 - **TikTok** — [Machine Learning Engineer Intern - Recommendation](https://lifeattiktok.com/search/7662653087863081221) · machine-learning · —
+- **TikTok** — [Machine Learning Engineer Intern - Search Ads](https://lifeattiktok.com/search/7669698648817305909) · machine-learning · —
 - **TikTok** — [Machine Learning Engineer Intern - Search Quality](https://lifeattiktok.com/search/7665475460339665157) · machine-learning · —
 - **TikTok** — [Machine Learning Engineer Intern - Tiktok-Data-Search-Search Quality](https://lifeattiktok.com/search/7667690418804902149) · machine-learning · —
 - **TikTok** — [Machine Learning Engineer Intern - Trust and Safety](https://lifeattiktok.com/search/7662672554084059445) · machine-learning · —
 - **TikTok** — [Machine Learning Scientist Intern](https://lifeattiktok.com/search/7667934169444485429) · machine-learning · —
 - **TikTok** — [Machine Learning Scientist Intern - Content Ecology - LLM Application](https://lifeattiktok.com/search/7667933770625599749) · machine-learning · —
 - **TikTok** — [Machine Learning Scientist Intern - Recommendation](https://lifeattiktok.com/search/7662657855099357493) · machine-learning · —
+- **TikTok** — [Recommendation Product Manager Intern - Content Ecosystem](https://lifeattiktok.com/search/7667874197682899205) · product · —
+- **TikTok** — [Research Engineer Intern - Agentic Systems & AI Infrastructure - Tiktok-Generalized Arch](https://lifeattiktok.com/search/7667935568626043141) · ai · —
 - **TikTok** — [Research Engineer Intern - Monetization Technology - Business Integrity](https://lifeattiktok.com/search/7668204394458466565) · research · —
 - **TikTok** — [Research Engineer Intern - Monetization Technology - Business Integrity](https://lifeattiktok.com/search/7668202602270951733) · research · —
 - **TikTok** — [Research Scientist Intern - Content Intelligence](https://lifeattiktok.com/search/7662662842545539381) · research · —
@@ -252,16 +282,23 @@
 - **TikTok** — [Research Scientist Intern - Trust and Safety](https://lifeattiktok.com/search/7662672903447988485) · research · —
 - **TikTok** — [Software Engineer Intern](https://lifeattiktok.com/search/7668582086899763461) · software-engineering · —
 - **TikTok** — [Software Engineer Intern](https://lifeattiktok.com/search/7668581636242016565) · software-engineering · —
+- **TikTok** — [Software Engineer Intern](https://lifeattiktok.com/search/7669712589169117445) · software-engineering · —
 - **TikTok** — [Software Engineer Intern](https://lifeattiktok.com/search/7668675500744837381) · software-engineering · —
 - **TikTok** — [Software Engineer Intern](https://lifeattiktok.com/search/7667935738376227077) · software-engineering · —
+- **TikTok** — [Software Engineer Intern](https://lifeattiktok.com/search/7668921505254410549) · software-engineering · —
 - **TikTok** — [Software Engineer Intern](https://lifeattiktok.com/search/7662700594251958581) · software-engineering · —
+- **TikTok** — [Software Engineer Intern - Ads Interface](https://lifeattiktok.com/search/7669705785962727733) · software-engineering · —
 - **TikTok** — [Software Engineer Intern - Ads Measurement Signal and Privacy](https://lifeattiktok.com/search/7668582031916435717) · software-engineering · —
 - **TikTok** — [Software Engineer Intern - Agentic Creation-Effect Platform](https://lifeattiktok.com/search/7668445566565321013) · software-engineering · —
 - **TikTok** — [Software Engineer Intern - Business Integrity](https://lifeattiktok.com/search/7668584916620527925) · software-engineering · —
 - **TikTok** — [Software Engineer Intern - Creative Intelligence and Brand Innovation](https://lifeattiktok.com/search/7668642761473902901) · software-engineering · —
 - **TikTok** — [Software Engineer Intern - Data Architecture - E-commerce](https://lifeattiktok.com/search/7668582146236631349) · software-engineering · —
+- **TikTok** — [Software Engineer Intern - Effects Performance](https://lifeattiktok.com/search/7668725183121000757) · software-engineering · —
+- **TikTok** — [Software Engineer Intern - Global CRM](https://lifeattiktok.com/search/7669711844487399685) · software-engineering · —
+- **TikTok** — [Software Engineer Intern - Intelligent Creation-Camera](https://lifeattiktok.com/search/7668862422178318597) · software-engineering · —
 - **TikTok** — [Software Engineer Intern - ML Infra](https://lifeattiktok.com/search/7668696895234197813) · machine-learning · —
 - **TikTok** — [Software Engineer Intern - Social Friending](https://lifeattiktok.com/search/7667935399050692917) · software-engineering · —
+- **TikTok** — [Software Engineer Intern - Transaction Platform](https://lifeattiktok.com/search/7669943120351906053) · software-engineering · —
 - **TikTok** — [Software Engineer Intern - Trust and Safety Engineering](https://lifeattiktok.com/search/7662684280234232117) · software-engineering · —
 - **Touchdown Labs** — [Member of Technical Staff Intern](https://touchdown-labs.com/careers/mts-intern/?jr_id=6a68292c50dec41e3527e633) · software-engineering · —
 - **TransMarket Group** — [Algorithmic Trader Intern](https://job-boards.greenhouse.io/transmarketgroup/jobs/5151581007?gh_jid=5151581007) · software-engineering · —

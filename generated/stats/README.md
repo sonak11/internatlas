@@ -9,7 +9,7 @@ _Generated 2026-08-04_
 | Company | Listings |
 |---|---|
 | Tesla | 105 |
-| TikTok | 63 |
+| TikTok | 92 |
 | Jump Trading | 43 |
 | Cloudflare | 25 |
 | SpaceX | 24 |
@@ -19,8 +19,8 @@ _Generated 2026-08-04_
 | Jane Street | 17 |
 | Palantir Technologies | 17 |
 | Rivian and Volkswagen Group Technologies | 16 |
+| ByteDance | 15 |
 | Meta | 15 |
-| ByteDance | 14 |
 | Etched | 14 |
 | Virtu Financial | 13 |
 | Astranis | 11 |
@@ -33,42 +33,42 @@ _Generated 2026-08-04_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 680 | `████████████` |
+| software-engineering | 695 | `████████████` |
 | quant | 142 | `███` |
-| ai | 132 | `██` |
-| machine-learning | 84 | `██` |
+| ai | 135 | `██` |
+| machine-learning | 97 | `██` |
 | research | 78 | `█` |
 | hardware | 70 | `█` |
 | embedded | 43 | `█` |
-| product | 34 | `█` |
-| cloud | 28 | `█` |
+| product | 35 | `█` |
+| cloud | 30 | `█` |
 | design | 28 | `█` |
-| data-science | 18 | `█` |
+| data-science | 20 | `█` |
 | data-engineering | 16 | `█` |
-| security | 8 | `█` |
+| security | 9 | `█` |
 
 ## Newest listings
 
 - 2026-08-04 — **American Express**: [Product Management Intern](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011916)
+- 2026-08-04 — **ByteDance**: [Software Engineer Intern - AI Platform](https://jobs.bytedance.com/en/position/7668212952030841093/detail)
 - 2026-08-04 — **Cloudflare**: [Marketing Programs and Analytics Intern](https://boards.greenhouse.io/cloudflare/jobs/8104138)
+- 2026-08-04 — **Inizio**: [Data and Analytics Intern](https://job-boards.greenhouse.io/inizio/jobs/8066854)
+- 2026-08-04 — **Microsoft**: [Full-Stack Product Engineer Intern - Web + Services](https://apply.careers.microsoft.com/careers/job/1970393556922922)
+- 2026-08-04 — **Microsoft**: [Software Engineer: AI/ML & LLM Intern](https://apply.careers.microsoft.com/careers/job/1970393556922929)
+- 2026-08-04 — **Microsoft**: [Software Engineer Intern - Cloud & Distributed Backend](https://apply.careers.microsoft.com/careers/job/1970393556922923)
+- 2026-08-04 — **Microsoft**: [Software Engineer Intern - Data Platform & Analytics](https://apply.careers.microsoft.com/careers/job/1970393556922931)
+- 2026-08-04 — **Microsoft**: [Software Engineer Security & Identity Intern](https://apply.careers.microsoft.com/careers/job/1970393556922930)
 - 2026-08-04 — **Tesla**: [Cell Engineering Intern - Cell Qualification](https://www.tesla.com/careers/search/job/278620)
 - 2026-08-04 — **Tesla**: [Data Engineer Intern - Cell Engineering](https://www.tesla.com/careers/search/job/278622)
-- 2026-08-03 — **1X**: [CNC Machine Park Intern](https://jobs.ashbyhq.com/1x/e7b4aaf5-5c55-4e2f-abcd-5c250657bede/application?embed=true)
-- 2026-08-03 — **AcreTrader**: [Data Intern](https://ats.rippling.com/acretrader-jobs/jobs/e0192aa0-bd65-4262-81ed-d64685c7dc41)
-- 2026-08-03 — **American Express**: [Campus Undergraduate Summer Internship - Strategy & Analytics - Credit & Fraud Risk](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011984)
-- 2026-08-03 — **American Express**: [Digital Product Analyst Intern](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011918)
-- 2026-08-03 — **American Express**: [Product Development Intern - Product Development - Consumer Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011571)
-- 2026-08-03 — **American Express**: [Product Management Intern - Product Innovation - Credit & Fraud Risk](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011992)
-- 2026-08-03 — **American Express**: [Undergraduate Intern - Strategy & Analytics](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011990)
-- 2026-08-03 — **Aramark**: [Data Analyst Intern](https://aramarkcareers.com/UnitedStates/job/Newark-Student-Dietetic-Intern-DE-19716/1415241000/?ats=successfactors)
-- 2026-08-03 — **Astera**: [Software Engineering Intern, Neuro & AGI](https://jobs.ashbyhq.com/astera/c2a48c1b-c4c4-4333-addf-313c47e26066)
-- 2026-08-03 — **Black Cape**: [Software Engineer Intern](https://blackcape.applytojob.com/apply/7o6mmAYryt/US-Military-Skillbridge-Internship-Software-EngineerArlington-VA)
-- 2026-08-03 — **Bosch Home Comfort**: [Artificial Intelligence and Software Development Engineering Intern](https://jobs.smartrecruiters.com/BoschGroup/744000141302469)
-- 2026-08-03 — **ByteDance**: [AI Perception Intern - Pico](https://jobs.bytedance.com/en/position/7665457718334425349/detail)
-- 2026-08-03 — **ByteDance**: [Research Scientist Intern](https://jobs.bytedance.com/en/position/7667380188619131189/detail)
-- 2026-08-03 — **ByteDance**: [Research Scientist Intern](https://jobs.bytedance.com/en/position/7667379218929780997/detail)
-- 2026-08-03 — **ByteDance**: [Research Scientist Intern - AI Infra Compute](https://jobs.bytedance.com/en/position/7667379221434796341/detail)
-- 2026-08-03 — **ByteDance**: [Research Scientist Intern - Distributed NoSQL Database Systems](https://jobs.bytedance.com/en/position/7668371456348326149/detail)
+- 2026-08-04 — **TikTok**: [AI Product Manager Intern - Content Ecosystem](https://lifeattiktok.com/search/7667578131150506293)
+- 2026-08-04 — **TikTok**: [Backend Software Engineer Intern - Global E-Commerce](https://lifeattiktok.com/search/7668834837268416821)
+- 2026-08-04 — **TikTok**: [Backend Software Engineer Intern - Global E-Commerce](https://lifeattiktok.com/search/7668834837268138293)
+- 2026-08-04 — **TikTok**: [Backend Software Engineer Intern - LIVE Foundation Governance Engineering](https://lifeattiktok.com/search/7667935150530840837)
+- 2026-08-04 — **TikTok**: [Backend Software Engineer Intern - Product Infrastructure](https://lifeattiktok.com/search/7667935633764370741)
+- 2026-08-04 — **TikTok**: [Data Science Intern - Integrity and Safety](https://lifeattiktok.com/search/7669682935444900149)
+- 2026-08-04 — **TikTok**: [Data Science Intern - TikTok Live](https://lifeattiktok.com/search/7669700822370945333)
+- 2026-08-04 — **TikTok**: [Frontend Engineer Intern - Global CRM](https://lifeattiktok.com/search/7669711026846058757)
+- 2026-08-04 — **TikTok**: [Machine Learning Engineer Intern](https://lifeattiktok.com/search/7668379675467761925)
 
 ## Recently closed
 
@@ -129,6 +129,8 @@ _Generated 2026-08-04_
 - Consensus Cloud Solutions — Sales Strategy & Analytics Intern
 - Copart — Software Engineer Intern
 - Copart — Software Engineer Intern
+- Copart — Software Engineer Intern
+- Copart — Software Engineer Intern
 - Copart — Technology Product Analyst Intern
 - Datasite — AI Transformation / Forward Deployed Engineer Intern - Forward Deployed Engineer
 - Datasite — Forward Deployed Engineer Intern
@@ -146,6 +148,7 @@ _Generated 2026-08-04_
 - Evonik — Life Cycle Management Intern - Sustainability & Life Cycle Management
 - Exclusive Networks — Data Quality & Business Data Analyst Intern
 - Exowatt — Software Engineer Intern - Agent Platform - AI
+- Exploration Technology Corp. — Engineer Intern
 - Fab2 — Packaging Engineer Intern
 - Fab2 — Rust Software Engineer Intern
 - Formlabs — AI Software Intern
@@ -257,6 +260,7 @@ _Generated 2026-08-04_
 - Palantir Technologies — Forward Deployed Infrastructure Engineer Intern
 - Palantir Technologies — Forward Deployed Infrastructure Engineer Intern
 - Palantir Technologies — Forward Deployed Infrastructure Engineer Intern
+- Pendulum Intelligence — Product Manager Intern
 - Pennsylvania State University — R&D Engineer Intern
 - Pennsylvania State University — Research and Development Engineer Intern
 - Pennsylvania State University — Research and Development Engineer Intern
@@ -305,6 +309,7 @@ _Generated 2026-08-04_
 - Sparksoft — Data Development Intern
 - Sparksoft — Technical Intern
 - Spectrum Control — Engineering Intern
+- SpreeAI — Mobile Software Engineer Intern - Flagship Apps - iOS / Android / Web
 - SS&C — Healthcare AI & Automation Intern
 - Stoke Space — Software Intern - Software
 - Susquehanna International Group (SIG) — Trading Operations Analyst Intern
@@ -355,5 +360,5 @@ _Generated 2026-08-04_
 - Walleye Capital — Volatility Trading Developer Intern
 - XTX Markets — Philanthropy Intern
 - Zipline — Applications Engineer Intern
-- Zipline — Embedded Software Engineer Intern
+- Zipline — Maps Intern
 - Zurich Insurance — Data Analytics & AI Internship/Co-op - Data Analytics & AI
