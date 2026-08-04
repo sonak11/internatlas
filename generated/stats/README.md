@@ -11,7 +11,7 @@ _Generated 2026-08-04_
 | Tesla | 105 |
 | TikTok | 93 |
 | Jump Trading | 43 |
-| Cloudflare | 25 |
+| Cloudflare | 26 |
 | SpaceX | 24 |
 | Susquehanna International Group (SIG) | 21 |
 | IMC Trading | 20 |
@@ -33,7 +33,7 @@ _Generated 2026-08-04_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 701 | `████████████` |
+| software-engineering | 704 | `████████████` |
 | quant | 142 | `███` |
 | ai | 137 | `██` |
 | machine-learning | 98 | `██` |
@@ -49,11 +49,13 @@ _Generated 2026-08-04_
 
 ## Newest listings
 
+- 2026-08-04 — **American Express**: [Product Innovation Intern - Credit & Fraud Risk](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011994)
 - 2026-08-04 — **American Express**: [Product Management Intern](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011916)
 - 2026-08-04 — **ByteDance**: [Software Engineer Intern, AI Platform](https://joinbytedance.com/search/7668212952030841093)
 - 2026-08-04 — **ByteDance**: [Software Engineer Intern - AI Platform](https://jobs.bytedance.com/en/position/7668212952030841093/detail)
 - 2026-08-04 — **ByteDance**: [Software Engineer Intern, Distributed NoSQL Database Systems](https://joinbytedance.com/search/7668373268886161669)
 - 2026-08-04 — **ByteDance**: [Software Engineer Intern, Distributed NoSQL Database Systems](https://joinbytedance.com/search/7668374190764050741)
+- 2026-08-04 — **Cloudflare**: [GRC Team Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8095533?gh_jid=8095533)
 - 2026-08-04 — **Cloudflare**: [Marketing Programs and Analytics Intern](https://boards.greenhouse.io/cloudflare/jobs/8104138)
 - 2026-08-04 — **Inizio**: [Data and Analytics Intern](https://job-boards.greenhouse.io/inizio/jobs/8066854)
 - 2026-08-04 — **Microsoft**: [Full-Stack Product Engineer Intern - Web + Services](https://apply.careers.microsoft.com/careers/job/1970393556922922)
@@ -66,9 +68,7 @@ _Generated 2026-08-04_
 - 2026-08-04 — **Microsoft**: [Software Engineer Intern, Fullstack Product (Web + Services)](https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0&pid=1970393556922922)
 - 2026-08-04 — **Microsoft**: [Software Engineer Intern, Security & Identity](https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0&pid=1970393556922930)
 - 2026-08-04 — **Microsoft**: [Software Engineer Security & Identity Intern](https://apply.careers.microsoft.com/careers/job/1970393556922930)
-- 2026-08-04 — **Tesla**: [Cell Engineering Intern - Cell Qualification](https://www.tesla.com/careers/search/job/278620)
-- 2026-08-04 — **Tesla**: [Data Engineer Intern - Cell Engineering](https://www.tesla.com/careers/search/job/278622)
-- 2026-08-04 — **TikTok**: [AI Product Manager Intern - Content Ecosystem](https://lifeattiktok.com/search/7667578131150506293)
+- 2026-08-04 — **NBT Bank**: [Data Warehouse & Analytics Intern](https://nbtbancorp.wd12.myworkdayjobs.com/NBT-B/job/Williamsville-NY/Internship---Data-Warehouse---Analytics-Consultant_JR4868)
 
 ## Recently closed
 
@@ -188,7 +188,6 @@ _Generated 2026-08-04_
 - IMC Trading — 2027 - Software Engineering Intern - IIT Bombay
 - IMC Trading — 2027 - Software Engineering Intern - IIT Delhi
 - Impulse Space — Radio Frequency Engineering Intern
-- Inizio — Data and Analytics Intern
 - Instacart — Machine Learning Engineer, PhD Intern (Fall)
 - Instacart — Machine Learning PhD Intern, Economics (Fall)
 - Integrity — Research Intern
@@ -199,6 +198,7 @@ _Generated 2026-08-04_
 - JP Morgan Chase — Data & AI Intern - Analyst
 - JP Morgan Chase — Data Internship - Data & AI Program
 - JP Morgan Chase — Quantitative Research Intern
+- JP Morgan Chase — Quantitative Research Intern - Markets - Analyst
 - JP Morgan Chase — Quantitative Research Summer Analyst Intern - Asset Management
 - Jump Trading — Campus Quantitative Researcher Intern
 - KBR — National Security Solutions Intern - Nss

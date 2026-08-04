@@ -1,6 +1,6 @@
 {
   "generated": "2026-08-04",
-  "count": 1410,
+  "count": 1413,
   "internships": [
     {
       "schema_version": "1.0",
@@ -3073,6 +3073,58 @@
         "last_verified": "2026-08-03"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "american-express-product-innovation-intern-credit-fraud-risk-2027",
+      "company": {
+        "name": "American Express",
+        "slug": "american-express"
+      },
+      "role": "Product Innovation Intern - Credit & Fraud Risk",
+      "category": "software-engineering",
+      "apply_url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011994",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Phoenix",
+          "state": "AZ",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-04",
+        "discovered": "2026-08-04",
+        "last_verified": "2026-08-04"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -14103,6 +14155,58 @@
         "last_verified": "2026-07-20"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "cloudflare-grc-team-intern-fall-2026-2027",
+      "company": {
+        "name": "Cloudflare",
+        "slug": "cloudflare",
+        "career_page": "https://www.cloudflare.com/careers"
+      },
+      "role": "GRC Team Intern (Fall 2026)",
+      "category": "software-engineering",
+      "apply_url": "https://boards.greenhouse.io/cloudflare/jobs/8095533?gh_jid=8095533",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "In-Office",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-04",
+        "discovered": "2026-08-04",
+        "last_verified": "2026-08-04"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:ats"
@@ -28513,7 +28617,7 @@
         "discovered": "2026-08-04",
         "last_verified": "2026-08-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -30623,7 +30727,7 @@
         "discovered": "2026-08-03",
         "last_verified": "2026-08-04"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -39955,6 +40059,58 @@
       "tags": [
         "auto-ingested",
         "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "nbt-bank-data-warehouse-analytics-intern-2026",
+      "company": {
+        "name": "NBT Bank",
+        "slug": "nbt-bank"
+      },
+      "role": "Data Warehouse & Analytics Intern",
+      "category": "software-engineering",
+      "apply_url": "https://nbtbancorp.wd12.myworkdayjobs.com/NBT-B/job/Williamsville-NY/Internship---Data-Warehouse---Analytics-Consultant_JR4868",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Williamsville",
+          "state": "NY",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-04",
+        "discovered": "2026-08-04",
+        "last_verified": "2026-08-04"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
       ]
     },
     {
@@ -52137,13 +52293,13 @@
     },
     {
       "schema_version": "1.0",
-      "id": "samsara-software-engineering-interns-london-2027",
+      "id": "samsara-software-engineering-internship-london-2027",
       "company": {
         "name": "Samsara",
         "slug": "samsara",
         "career_page": "https://www.samsara.com/company/careers"
       },
-      "role": "Software Engineering Interns - London",
+      "role": "Software Engineering Internship - London",
       "category": "software-engineering",
       "apply_url": "https://www.samsara.com/company/careers/roles/8082093?gh_jid=8082093",
       "season": "summer",
@@ -52179,7 +52335,7 @@
       },
       "dates": {
         "posted": "2026-08-03",
-        "discovered": "2026-08-03",
+        "discovered": "2026-08-04",
         "last_verified": "2026-08-04"
       },
       "status": "open",

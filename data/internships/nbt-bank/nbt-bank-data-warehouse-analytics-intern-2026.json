@@ -1,21 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "samsara-software-engineering-interns-london-2027",
+  "id": "nbt-bank-data-warehouse-analytics-intern-2026",
   "company": {
-    "name": "Samsara",
-    "slug": "samsara",
-    "career_page": "https://www.samsara.com/company/careers"
+    "name": "NBT Bank",
+    "slug": "nbt-bank"
   },
-  "role": "Software Engineering Interns - London",
+  "role": "Data Warehouse & Analytics Intern",
   "category": "software-engineering",
-  "apply_url": "https://www.samsara.com/company/careers/roles/8082093?gh_jid=8082093",
-  "season": "summer",
-  "year": 2027,
+  "apply_url": "https://nbtbancorp.wd12.myworkdayjobs.com/NBT-B/job/Williamsville-NY/Internship---Data-Warehouse---Analytics-Consultant_JR4868",
+  "season": "fall",
+  "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "London",
-      "state": "UK2",
+      "city": "Williamsville",
+      "state": "NY",
       "country": "USA"
     }
   ],
@@ -41,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-03",
-    "discovered": "2026-08-03",
+    "posted": "2026-08-04",
+    "discovered": "2026-08-04",
     "last_verified": "2026-08-04"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:ats"
+    "src:simplify"
   ]
 }

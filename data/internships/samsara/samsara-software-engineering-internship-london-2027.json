@@ -1,19 +1,21 @@
 {
   "schema_version": "1.0",
-  "id": "jp-morgan-chase-quantitative-research-intern-markets-analyst-2027",
+  "id": "samsara-software-engineering-internship-london-2027",
   "company": {
-    "name": "JP Morgan Chase",
-    "slug": "jp-morgan-chase"
+    "name": "Samsara",
+    "slug": "samsara",
+    "career_page": "https://www.samsara.com/company/careers"
   },
-  "role": "Quantitative Research Intern - Markets - Analyst",
-  "category": "quant",
-  "apply_url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774038",
+  "role": "Software Engineering Internship - London",
+  "category": "software-engineering",
+  "apply_url": "https://www.samsara.com/company/careers/roles/8082093?gh_jid=8082093",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "NYC",
+      "city": "London",
+      "state": "UK2",
       "country": "USA"
     }
   ],
@@ -24,9 +26,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -42,12 +42,12 @@
   },
   "dates": {
     "posted": "2026-08-03",
-    "discovered": "2026-08-03",
+    "discovered": "2026-08-04",
     "last_verified": "2026-08-04"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:ats"
   ]
 }

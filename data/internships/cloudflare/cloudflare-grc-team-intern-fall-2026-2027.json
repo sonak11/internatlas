@@ -1,19 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "jp-morgan-chase-quantitative-research-intern-markets-analyst-2027",
+  "id": "cloudflare-grc-team-intern-fall-2026-2027",
   "company": {
-    "name": "JP Morgan Chase",
-    "slug": "jp-morgan-chase"
+    "name": "Cloudflare",
+    "slug": "cloudflare",
+    "career_page": "https://www.cloudflare.com/careers"
   },
-  "role": "Quantitative Research Intern - Markets - Analyst",
-  "category": "quant",
-  "apply_url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774038",
+  "role": "GRC Team Intern (Fall 2026)",
+  "category": "software-engineering",
+  "apply_url": "https://boards.greenhouse.io/cloudflare/jobs/8095533?gh_jid=8095533",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "NYC",
+      "city": "In-Office",
       "country": "USA"
     }
   ],
@@ -24,9 +25,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -41,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-03",
-    "discovered": "2026-08-03",
+    "posted": "2026-08-04",
+    "discovered": "2026-08-04",
     "last_verified": "2026-08-04"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:ats"
   ]
 }
