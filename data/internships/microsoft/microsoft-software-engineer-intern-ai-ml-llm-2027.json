@@ -1,21 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "samsara-software-engineering-internship-san-fransisco-2027",
+  "id": "microsoft-software-engineer-intern-ai-ml-llm-2027",
   "company": {
-    "name": "Samsara",
-    "slug": "samsara",
-    "career_page": "https://www.samsara.com/company/careers"
+    "name": "Microsoft",
+    "slug": "microsoft"
   },
-  "role": "Software Engineering Internship - San Fransisco",
-  "category": "software-engineering",
-  "apply_url": "https://www.samsara.com/company/careers/roles/8082091?gh_jid=8082091",
+  "role": "Software Engineer Intern, AI/ML & LLM",
+  "category": "machine-learning",
+  "apply_url": "https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0&pid=1970393556922929",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "San Francisco",
-      "state": "SF9",
+      "city": "Redmond",
+      "state": "WA",
       "country": "USA"
     }
   ],
@@ -29,7 +28,7 @@
     "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
-    "visa_sponsorship": "unknown"
+    "visa_sponsorship": "yes"
   },
   "interview": {},
   "tech": {
@@ -41,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-03",
-    "discovered": "2026-08-03",
+    "posted": "2026-08-04",
+    "discovered": "2026-08-04",
     "last_verified": "2026-08-04"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:ats"
+    "src:vanshb03"
   ]
 }

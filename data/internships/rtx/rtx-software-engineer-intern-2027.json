@@ -16,6 +16,11 @@
       "city": "Anaheim",
       "state": "CA",
       "country": "USA"
+    },
+    {
+      "city": "Fullerton",
+      "state": "CA",
+      "country": "USA"
     }
   ],
   "compensation": {

@@ -1,11 +1,11 @@
 {
   "schema_version": "1.0",
-  "id": "tiktok-software-engineer-intern-data-architecture-e-commerce-2027",
+  "id": "tiktok-software-engineer-intern-data-arch-e-commerce-2027-b02f0e",
   "company": {
     "name": "TikTok",
     "slug": "tiktok"
   },
-  "role": "Software Engineer Intern - Data Architecture - E-commerce",
+  "role": "Software Engineer Intern, Data Arch - E-commerce",
   "category": "software-engineering",
   "apply_url": "https://lifeattiktok.com/search/7668582146236631349",
   "season": "summer",
@@ -25,12 +25,10 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
-    "visa_sponsorship": "unknown"
+    "visa_sponsorship": "yes"
   },
   "interview": {},
   "tech": {
@@ -43,12 +41,12 @@
   },
   "dates": {
     "posted": "2026-08-03",
-    "discovered": "2026-08-03",
+    "discovered": "2026-08-04",
     "last_verified": "2026-08-04"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }

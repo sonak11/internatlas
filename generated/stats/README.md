@@ -16,59 +16,59 @@ _Generated 2026-08-04_
 | Susquehanna International Group (SIG) | 21 |
 | IMC Trading | 20 |
 | Neuralink | 20 |
+| ByteDance | 18 |
 | Jane Street | 17 |
 | Palantir Technologies | 17 |
 | Rivian and Volkswagen Group Technologies | 16 |
-| ByteDance | 15 |
 | Meta | 15 |
 | Etched | 14 |
+| Microsoft | 14 |
 | Virtu Financial | 13 |
 | Astranis | 11 |
 | Ciena | 11 |
 | Copart | 11 |
 | Optiver | 11 |
-| Palantir | 11 |
 
 ## Listings by category
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 696 | `████████████` |
+| software-engineering | 701 | `████████████` |
 | quant | 142 | `███` |
-| ai | 136 | `██` |
-| machine-learning | 97 | `██` |
-| research | 78 | `█` |
+| ai | 137 | `██` |
+| machine-learning | 98 | `██` |
+| research | 79 | `█` |
 | hardware | 70 | `█` |
 | embedded | 43 | `█` |
 | product | 35 | `█` |
-| cloud | 30 | `█` |
+| cloud | 31 | `█` |
 | design | 28 | `█` |
 | data-science | 20 | `█` |
 | data-engineering | 16 | `█` |
-| security | 9 | `█` |
+| security | 10 | `█` |
 
 ## Newest listings
 
 - 2026-08-04 — **American Express**: [Product Management Intern](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011916)
+- 2026-08-04 — **ByteDance**: [Software Engineer Intern, AI Platform](https://joinbytedance.com/search/7668212952030841093)
 - 2026-08-04 — **ByteDance**: [Software Engineer Intern - AI Platform](https://jobs.bytedance.com/en/position/7668212952030841093/detail)
+- 2026-08-04 — **ByteDance**: [Software Engineer Intern, Distributed NoSQL Database Systems](https://joinbytedance.com/search/7668373268886161669)
+- 2026-08-04 — **ByteDance**: [Software Engineer Intern, Distributed NoSQL Database Systems](https://joinbytedance.com/search/7668374190764050741)
 - 2026-08-04 — **Cloudflare**: [Marketing Programs and Analytics Intern](https://boards.greenhouse.io/cloudflare/jobs/8104138)
 - 2026-08-04 — **Inizio**: [Data and Analytics Intern](https://job-boards.greenhouse.io/inizio/jobs/8066854)
 - 2026-08-04 — **Microsoft**: [Full-Stack Product Engineer Intern - Web + Services](https://apply.careers.microsoft.com/careers/job/1970393556922922)
 - 2026-08-04 — **Microsoft**: [Software Engineer: AI/ML & LLM Intern](https://apply.careers.microsoft.com/careers/job/1970393556922929)
+- 2026-08-04 — **Microsoft**: [Software Engineer Intern, AI/ML & LLM](https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0&pid=1970393556922929)
 - 2026-08-04 — **Microsoft**: [Software Engineer Intern - Cloud & Distributed Backend](https://apply.careers.microsoft.com/careers/job/1970393556922923)
+- 2026-08-04 — **Microsoft**: [Software Engineer Intern, Cloud & Distributed Backend](https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0&pid=1970393556922923)
 - 2026-08-04 — **Microsoft**: [Software Engineer Intern - Data Platform & Analytics](https://apply.careers.microsoft.com/careers/job/1970393556922931)
+- 2026-08-04 — **Microsoft**: [Software Engineer Intern, Data Platform/Analytics](https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0&pid=1970393556922931)
+- 2026-08-04 — **Microsoft**: [Software Engineer Intern, Fullstack Product (Web + Services)](https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0&pid=1970393556922922)
+- 2026-08-04 — **Microsoft**: [Software Engineer Intern, Security & Identity](https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0&pid=1970393556922930)
 - 2026-08-04 — **Microsoft**: [Software Engineer Security & Identity Intern](https://apply.careers.microsoft.com/careers/job/1970393556922930)
 - 2026-08-04 — **Tesla**: [Cell Engineering Intern - Cell Qualification](https://www.tesla.com/careers/search/job/278620)
 - 2026-08-04 — **Tesla**: [Data Engineer Intern - Cell Engineering](https://www.tesla.com/careers/search/job/278622)
 - 2026-08-04 — **TikTok**: [AI Product Manager Intern - Content Ecosystem](https://lifeattiktok.com/search/7667578131150506293)
-- 2026-08-04 — **TikTok**: [Backend Software Engineer Intern - Global E-Commerce](https://lifeattiktok.com/search/7668834837268416821)
-- 2026-08-04 — **TikTok**: [Backend Software Engineer Intern - Global E-Commerce](https://lifeattiktok.com/search/7668834837268138293)
-- 2026-08-04 — **TikTok**: [Backend Software Engineer Intern - LIVE Foundation Governance Engineering](https://lifeattiktok.com/search/7667935150530840837)
-- 2026-08-04 — **TikTok**: [Backend Software Engineer Intern - Product Infrastructure](https://lifeattiktok.com/search/7667935633764370741)
-- 2026-08-04 — **TikTok**: [Data Science Intern - Integrity and Safety](https://lifeattiktok.com/search/7669682935444900149)
-- 2026-08-04 — **TikTok**: [Data Science Intern - TikTok Live](https://lifeattiktok.com/search/7669700822370945333)
-- 2026-08-04 — **TikTok**: [Frontend Engineer Intern - Global CRM](https://lifeattiktok.com/search/7669711026846058757)
-- 2026-08-04 — **TikTok**: [Machine Learning Engineer Intern](https://lifeattiktok.com/search/7668379675467761925)
 
 ## Recently closed
 
@@ -104,6 +104,7 @@ _Generated 2026-08-04_
 - Bank of Montreal — Market Risk Analyst Co-op/Intern
 - BDO Canada — Data & Analytics Co-op/Intern - Data & Analytics
 - BMO — Machine Learning Intern
+- Bosch Home Comfort — Artificial Intelligence and Software Development Engineering Intern
 - Bosch Home Comfort — Autonomous Driving Intern
 - Bosch Home Comfort — Business Intelligence Intern
 - Brex — Brex Internship Program
@@ -187,6 +188,7 @@ _Generated 2026-08-04_
 - IMC Trading — 2027 - Software Engineering Intern - IIT Bombay
 - IMC Trading — 2027 - Software Engineering Intern - IIT Delhi
 - Impulse Space — Radio Frequency Engineering Intern
+- Inizio — Data and Analytics Intern
 - Instacart — Machine Learning Engineer, PhD Intern (Fall)
 - Instacart — Machine Learning PhD Intern, Economics (Fall)
 - Integrity — Research Intern
@@ -194,7 +196,10 @@ _Generated 2026-08-04_
 - Intel — AI Software Engineering Intern
 - Intel Corporation — AI Software Engineering PhD Intern
 - JINGDONG — Software Engineering Intern
+- JP Morgan Chase — Data & AI Intern - Analyst
 - JP Morgan Chase — Data Internship - Data & AI Program
+- JP Morgan Chase — Quantitative Research Intern
+- JP Morgan Chase — Quantitative Research Summer Analyst Intern - Asset Management
 - Jump Trading — Campus Quantitative Researcher Intern
 - KBR — National Security Solutions Intern - Nss
 - Kinaxis — Engineer Co-op/Intern - Data & Analytics
@@ -277,6 +282,7 @@ _Generated 2026-08-04_
 - Rocket Lab — Software Intern
 - ROCKWOOL Group — Product Management Intern
 - RTX — Software Engineer Intern
+- RTX — Software Engineer Intern
 - Salesforce — Associate Product Manager Intern - Associate Product Manager
 - Salesforce — Associate Product Manager Intern - Associate Product Manager
 - Salesforce — Software Engineer Intern(Futureforce Summer 2027)
@@ -357,6 +363,7 @@ _Generated 2026-08-04_
 - Walleye Capital — Volatility Trading Developer Intern
 - Williams — Engineering Intern
 - XTX Markets — Philanthropy Intern
+- ZGF Architects — Technology Intern
 - Zipline — Applications Engineer Intern
 - Zipline — Maps Intern
 - Zurich Insurance — Data Analytics & AI Internship/Co-op - Data Analytics & AI

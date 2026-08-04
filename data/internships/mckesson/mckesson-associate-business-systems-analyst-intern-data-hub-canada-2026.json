@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "inizio-data-and-analytics-intern-2026",
+  "id": "mckesson-associate-business-systems-analyst-intern-data-hub-canada-2026",
   "company": {
-    "name": "Inizio",
-    "slug": "inizio"
+    "name": "McKesson",
+    "slug": "mckesson"
   },
-  "role": "Data and Analytics Intern",
+  "role": "Associate Business Systems Analyst Intern - Data Hub Canada",
   "category": "software-engineering",
-  "apply_url": "https://job-boards.greenhouse.io/inizio/jobs/8066854",
+  "apply_url": "https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-QC-Montreal-Ville-Saint-Laurent/Stagiaire-associ-e---analyste-des-systmes-d-affaires---Automne-2026---Associate-Business-Systems-Analyst-Intern---Fall-2026_JR0150830",
   "season": "fall",
   "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Manchester",
-      "country": "UK"
+      "city": "Montreal",
+      "country": "QC"
     }
   ],
   "compensation": {
@@ -39,11 +39,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-04",
+    "posted": "2026-08-03",
     "discovered": "2026-08-04",
     "last_verified": "2026-08-04"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

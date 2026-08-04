@@ -1,20 +1,21 @@
 {
   "schema_version": "1.0",
-  "id": "inizio-data-and-analytics-intern-2026",
+  "id": "bytedance-software-engineer-intern-distributed-nosql-database-systems-2027-7b0f55",
   "company": {
-    "name": "Inizio",
-    "slug": "inizio"
+    "name": "ByteDance",
+    "slug": "bytedance"
   },
-  "role": "Data and Analytics Intern",
+  "role": "Software Engineer Intern, Distributed NoSQL Database Systems",
   "category": "software-engineering",
-  "apply_url": "https://job-boards.greenhouse.io/inizio/jobs/8066854",
-  "season": "fall",
-  "year": 2026,
+  "apply_url": "https://joinbytedance.com/search/7668374190764050741",
+  "season": "summer",
+  "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Manchester",
-      "country": "UK"
+      "city": "San Jose",
+      "state": "CA",
+      "country": "USA"
     }
   ],
   "compensation": {
@@ -43,9 +44,9 @@
     "discovered": "2026-08-04",
     "last_verified": "2026-08-04"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }
