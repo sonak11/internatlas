@@ -1,6 +1,6 @@
 # 📬 InternAtlas Weekly Digest — 2026-08-04
 
-## 🆕 New this week (333)
+## 🆕 New this week (334)
 
 - **1X** — [CNC Machine Park Intern](https://jobs.ashbyhq.com/1x/e7b4aaf5-5c55-4e2f-abcd-5c250657bede/application?embed=true) · software-engineering · —
 - **AcreTrader** — [Data Intern](https://ats.rippling.com/acretrader-jobs/jobs/e0192aa0-bd65-4262-81ed-d64685c7dc41) · software-engineering · —
@@ -136,6 +136,7 @@
 - **Medtronic** — [Software Engineering Intern](https://medtronic.wd1.myworkdayjobs.com/en-US/medtroniccareers/job/Fridley-Minnesota-United-States-of-America/Software-Engineering-Intern---Summer-2027_R73630-1) · software-engineering · —
 - **Melius** — [Software Engineer Intern](https://jobs.ashbyhq.com/melius/6a944911-dbbf-44c7-ba52-7866f7b433cf/application?embed=true) · software-engineering · —
 - **Melius** — [Software Engineer Intern](https://jobs.ashbyhq.com/melius/b61f063a-4f94-4e50-a4ef-05aaab552280/application?embed=true) · software-engineering · —
+- **Melius** — [Software Engineering Intern](https://jobs.ashbyhq.com/melius/b61f063a-4f94-4e50-a4ef-05aaab552280) · software-engineering · —
 - **Menasha Corporation** — [Supply Chain Analytics Intern](https://menasha.wd12.myworkdayjobs.com/menashacorp/job/Neenah-Wisconsin/Supply-Chain-Analytics-Intern_R14985) · software-engineering · —
 - **Metropolitan Transportation Authority** — [Data Analyst Intern](https://jobs.jobvite.com/metropolitantransportationauthority/job/oboAAfwt?nl=1&nl=1&fr=false) · software-engineering · —
 - **Microchip Technology** — [Engineering Intern - Firmware Development](https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/TX---Houston---Compaq-Center-Dr/Intern-Engineering--Firmware-Development-_R3372-26) · embedded · —

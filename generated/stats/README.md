@@ -33,7 +33,7 @@ _Generated 2026-08-04_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 704 | `████████████` |
+| software-engineering | 705 | `████████████` |
 | quant | 142 | `███` |
 | ai | 137 | `██` |
 | machine-learning | 98 | `██` |
@@ -58,6 +58,7 @@ _Generated 2026-08-04_
 - 2026-08-04 — **Cloudflare**: [GRC Team Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8095533?gh_jid=8095533)
 - 2026-08-04 — **Cloudflare**: [Marketing Programs and Analytics Intern](https://boards.greenhouse.io/cloudflare/jobs/8104138)
 - 2026-08-04 — **Inizio**: [Data and Analytics Intern](https://job-boards.greenhouse.io/inizio/jobs/8066854)
+- 2026-08-04 — **Melius**: [Software Engineering Intern](https://jobs.ashbyhq.com/melius/b61f063a-4f94-4e50-a4ef-05aaab552280)
 - 2026-08-04 — **Microsoft**: [Full-Stack Product Engineer Intern - Web + Services](https://apply.careers.microsoft.com/careers/job/1970393556922922)
 - 2026-08-04 — **Microsoft**: [Software Engineer: AI/ML & LLM Intern](https://apply.careers.microsoft.com/careers/job/1970393556922929)
 - 2026-08-04 — **Microsoft**: [Software Engineer Intern, AI/ML & LLM](https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0&pid=1970393556922929)
@@ -68,7 +69,6 @@ _Generated 2026-08-04_
 - 2026-08-04 — **Microsoft**: [Software Engineer Intern, Fullstack Product (Web + Services)](https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0&pid=1970393556922922)
 - 2026-08-04 — **Microsoft**: [Software Engineer Intern, Security & Identity](https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0&pid=1970393556922930)
 - 2026-08-04 — **Microsoft**: [Software Engineer Security & Identity Intern](https://apply.careers.microsoft.com/careers/job/1970393556922930)
-- 2026-08-04 — **NBT Bank**: [Data Warehouse & Analytics Intern](https://nbtbancorp.wd12.myworkdayjobs.com/NBT-B/job/Williamsville-NY/Internship---Data-Warehouse---Analytics-Consultant_JR4868)
 
 ## Recently closed
 
@@ -95,6 +95,8 @@ _Generated 2026-08-04_
 - Autodesk — Cloud Developer Intern
 - Autodesk — Cloud Developer Intern
 - Autodesk — Machine Learning Developer Intern
+- Autodesk — Software Developer Intern - Stagiaire en Développement Logiciel
+- Autodesk — Software Developer Intern - Stagiaire en Développement Logiciel
 - Avanade — Software Engineering Intern
 - AVEVA — Software Developer Intern Co-op
 - Axogen — AI/ML Engineer Intern
@@ -107,7 +109,9 @@ _Generated 2026-08-04_
 - Bosch Home Comfort — Artificial Intelligence and Software Development Engineering Intern
 - Bosch Home Comfort — Autonomous Driving Intern
 - Bosch Home Comfort — Business Intelligence Intern
+- Bosch Home Comfort — Research Intern
 - Brex — Brex Internship Program
+- Brunswick — Software Engineer Intern
 - ByteDance — Research Scientist Intern - AI Infrastructure
 - ByteDance — Research Scientist Intern - AI Infrastructure
 - CACI — Software Engineering Intern
@@ -202,6 +206,7 @@ _Generated 2026-08-04_
 - JP Morgan Chase — Quantitative Research Summer Analyst Intern - Asset Management
 - Jump Trading — Campus Quantitative Researcher Intern
 - KBR — National Security Solutions Intern - Nss
+- Keysight Technologies — R&D Software Engineer Intern
 - Kinaxis — Engineer Co-op/Intern - Data & Analytics
 - Kinaxis — Software Development Co-op/Intern - C++
 - Kirin — Software Engineer Intern - AI Agents + Devices
@@ -226,6 +231,7 @@ _Generated 2026-08-04_
 - Meta — Research Scientist Intern - Multimodal Contextual AI
 - Meta — Research Scientist Intern PhD - Applied Research
 - Microchip Technology — Applications Engineering Intern
+- Microsoft — Software Engineer Intern
 - Mistral AI — Applied Scientist / Research Engineer Intern
 - Monogram — Software Engineer Intern
 - Moog — Software Engineer Intern
@@ -275,6 +281,7 @@ _Generated 2026-08-04_
 - Quadrillion — Software Engineer Intern
 - Rainmaker — Software Engineer Intern
 - Rakuten International — Software Engineer Intern
+- RapDev — ServiceNow Engineer Intern
 - Richemont — Sustainability Transformation Analyst Intern
 - Rise8 — Skillbridge Intern - Product Manager
 - Rivian and Volkswagen Group Technologies — Software Engineer Intern Co-op - Android Connectivity
@@ -329,6 +336,7 @@ _Generated 2026-08-04_
 - Tesla — Embedded Software Engineer Intern - Embedded Software Engineer - Steering,Chassis Systems
 - Tesla — Failure Analysis Engineer Intern - Failure Analysis Engineer - Energy Engineering
 - Tesla — Firmware Integration Engineer Intern - Software Integration Engineer - Factory Firmware
+- Tesla — Fullstack Engineer Intern - Fullstack Engineer - Build Infrastructure
 - Tesla — Machine Learning Platform Intern - Multiple Teams
 - Tesla — Mobile Applications Engineering Intern - Android Engineer - Mobile Software
 - Tesla — Software Engineer Intern - Fullstack Software Engineer - Fleetnet

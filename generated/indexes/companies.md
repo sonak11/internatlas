@@ -60,7 +60,7 @@
 | [Astera](../companies/astera.md) | 1/1 | software-engineering |
 | [Astranis](../companies/astranis.md) | 9/11 | design, embedded, hardware, software-engineering |
 | [Atomic Semi](../companies/atomic-semi.md) | 6/6 | cloud, design, embedded, software-engineering |
-| [Autodesk](../companies/autodesk.md) | 2/5 | cloud, machine-learning, software-engineering |
+| [Autodesk](../companies/autodesk.md) | 0/5 | cloud, machine-learning, software-engineering |
 | [Avanade](../companies/avanade.md) | 0/1 | software-engineering |
 | [Axis Capital](../companies/axis-capital.md) | 1/1 | software-engineering |
 | [Axogen](../companies/axogen.md) | 0/1 | machine-learning |
@@ -79,12 +79,12 @@
 | [Blue Cross Blue Shield of Michigan](../companies/blue-cross-blue-shield-of-michigan.md) | 1/1 | software-engineering |
 | [BorgWarner](../companies/borgwarner.md) | 1/1 | software-engineering |
 | [Bosch](../companies/bosch.md) | 2/2 | ai |
-| [Bosch Home Comfort](../companies/bosch-home-comfort.md) | 5/8 | ai, product, research, software-engineering |
+| [Bosch Home Comfort](../companies/bosch-home-comfort.md) | 4/8 | ai, product, research, software-engineering |
 | [Bot Auto](../companies/bot-auto.md) | 1/1 | machine-learning |
 | [Brex](../companies/brex.md) | 0/1 | software-engineering |
 | [Brio Water Technology](../companies/brio-water-technology.md) | 1/1 | ai |
 | [Brookfield](../companies/brookfield.md) | 1/1 | ai |
-| [Brunswick](../companies/brunswick.md) | 1/1 | software-engineering |
+| [Brunswick](../companies/brunswick.md) | 0/1 | software-engineering |
 | [ByteDance](../companies/bytedance.md) | 16/18 | ai, research, software-engineering |
 | [CACI](../companies/caci.md) | 0/1 | software-engineering |
 | [CALSTART](../companies/calstart.md) | 3/3 | research, software-engineering |
@@ -251,7 +251,7 @@
 | [KBR](../companies/kbr.md) | 0/1 | security |
 | [KRAFTON](../companies/krafton.md) | 0/1 | software-engineering |
 | [Kepler Communications](../companies/kepler-communications.md) | 1/1 | hardware |
-| [Keysight Technologies](../companies/keysight-technologies.md) | 2/2 | machine-learning, software-engineering |
+| [Keysight Technologies](../companies/keysight-technologies.md) | 1/2 | machine-learning, software-engineering |
 | [Kinaxis](../companies/kinaxis.md) | 0/2 | software-engineering |
 | [Kirin](../companies/kirin.md) | 1/2 | ai, quant |
 | [Kodak](../companies/kodak.md) | 0/1 | software-engineering |
@@ -276,12 +276,12 @@
 | [Medpace](../companies/medpace.md) | 1/2 | ai, software-engineering |
 | [Medpace, Inc.](../companies/medpace-inc.md) | 2/3 | ai, data-engineering, software-engineering |
 | [Medtronic](../companies/medtronic.md) | 2/2 | software-engineering |
-| [Melius](../companies/melius.md) | 2/2 | software-engineering |
+| [Melius](../companies/melius.md) | 3/3 | software-engineering |
 | [Menasha Corporation](../companies/menasha-corporation.md) | 0/2 | software-engineering |
 | [Meta](../companies/meta.md) | 12/15 | ai, machine-learning, research |
 | [Metropolitan Transportation Authority](../companies/metropolitan-transportation-authority.md) | 1/1 | software-engineering |
 | [Microchip Technology](../companies/microchip-technology.md) | 4/5 | embedded, software-engineering |
-| [Microsoft](../companies/microsoft.md) | 14/14 | cloud, machine-learning, product, security, software-engineering |
+| [Microsoft](../companies/microsoft.md) | 13/14 | cloud, machine-learning, product, security, software-engineering |
 | [Midmark](../companies/midmark.md) | 1/1 | embedded |
 | [Mindsmith](../companies/mindsmith.md) | 1/1 | software-engineering |
 | [Mistral AI](../companies/mistral-ai.md) | 2/3 | ai, research |
@@ -372,7 +372,7 @@
 | [Rainmaker](../companies/rainmaker.md) | 0/1 | software-engineering |
 | [Rakuten International](../companies/rakuten-international.md) | 0/1 | software-engineering |
 | [Ramp](../companies/ramp.md) | 1/1 | software-engineering |
-| [RapDev](../companies/rapdev.md) | 1/1 | software-engineering |
+| [RapDev](../companies/rapdev.md) | 0/1 | software-engineering |
 | [Red Bull](../companies/red-bull.md) | 1/1 | data-science |
 | [Redwood Materials](../companies/redwood-materials.md) | 1/1 | embedded |
 | [Rendezvous Robotics](../companies/rendezvous-robotics.md) | 2/2 | software-engineering |
@@ -443,7 +443,7 @@
 | [Tenstorrent](../companies/tenstorrent.md) | 2/3 | ai, design |
 | [Terranova](../companies/terranova.md) | 1/1 | embedded |
 | [Terranox AI](../companies/terranox-ai.md) | 1/1 | machine-learning |
-| [Tesla](../companies/tesla.md) | 93/105 | ai, cloud, data-engineering, design, embedded, hardware, machine-learning, product, security, software-engineering |
+| [Tesla](../companies/tesla.md) | 92/105 | ai, cloud, data-engineering, design, embedded, hardware, machine-learning, product, security, software-engineering |
 | [Tessera Labs](../companies/tessera-labs.md) | 1/1 | product |
 | [Texas Instruments](../companies/texas-instruments.md) | 1/1 | software-engineering |
 | [The Boeing Company](../companies/the-boeing-company.md) | 2/2 | software-engineering |

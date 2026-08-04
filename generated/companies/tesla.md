@@ -42,7 +42,6 @@
 | Tesla | [Energy System Optimization Intern - Energy Optimization Software](https://www.tesla.com/careers/search/job/271349) | Palo Alto, CA +2 | Onsite | 2026-06-07 | Rolling | 🟢 Open | ❔ |
 | Tesla | [Firmware Engineer Intern - Power Electronics Firmware Engineer - Energy Engineering](https://www.tesla.com/careers/search/job/275689) | Palo Alto, CA | Onsite | 2026-07-01 | Rolling | 🟢 Open | ❔ |
 | Tesla | [Fullstack C++ Engineer Intern, Vehicle User Interface](https://www.tesla.com/careers/search/job/251798) | Palo Alto, CA | Onsite | 2025-09-24 | Rolling | 🟢 Open | ❔ |
-| Tesla | [Fullstack Engineer Intern - Fullstack Engineer - Build Infrastructure](https://www.tesla.com/careers/search/job/267005) | Palo Alto, CA | Onsite | 2026-06-07 | Rolling | 🟢 Open | ❔ |
 | Tesla | [Inline Metrology Systems Design/Engineer Intern - Cell Engineering](https://www.tesla.com/careers/search/job/275335) | Fremont, CA | Onsite | 2026-06-29 | Rolling | 🟢 Open | ❔ |
 | Tesla | [Localization Specialist Intern](https://www.tesla.com/careers/search/job/internship-localization-specialist-it-applications-fall-2026-276308) | Fremont, CA | Onsite | 2026-07-24 | Rolling | 🟢 Open | ❔ |
 | Tesla | [Machine Learning Engineer Intern - Machine Learning Engineer - Factory Software](https://www.tesla.com/careers/search/job/275380) | Fremont, CA | Onsite | 2026-06-30 | Rolling | 🟢 Open | ❔ |
@@ -104,6 +103,7 @@
 | Tesla | [Embedded Software Engineer Intern - Embedded Software Engineer - Steering,Chassis Systems](https://www.tesla.com/careers/search/job/274047) | Palo Alto, CA | Onsite | 2026-06-16 | Rolling | 🔴 Closed | ❔ |
 | Tesla | [Failure Analysis Engineer Intern - Failure Analysis Engineer - Energy Engineering](https://www.tesla.com/careers/search/job/271544) | Palo Alto, CA | Onsite | 2026-06-06 | Rolling | 🔴 Closed | ❔ |
 | Tesla | [Firmware Integration Engineer Intern - Software Integration Engineer - Factory Firmware](https://www.tesla.com/careers/search/job/270509) | Palo Alto, CA | Onsite | 2026-06-07 | Rolling | 🔴 Closed | ❔ |
+| Tesla | [Fullstack Engineer Intern - Fullstack Engineer - Build Infrastructure](https://www.tesla.com/careers/search/job/267005) | Palo Alto, CA | Onsite | 2026-06-07 | Rolling | 🔴 Closed | ❔ |
 | Tesla | [Machine Learning Platform Intern - Multiple Teams](https://www.tesla.com/careers/search/job/269812) | Palo Alto, CA | Onsite | 2026-05-06 | Rolling | 🔴 Closed | ❔ |
 | Tesla | [Mobile Applications Engineering Intern - Android Engineer - Mobile Software](https://www.tesla.com/careers/search/job/266980) | Palo Alto, CA | Onsite | 2026-06-07 | Rolling | 🔴 Closed | ❔ |
 | Tesla | [Software Engineer Intern - Fullstack Software Engineer - Fleetnet](https://www.tesla.com/careers/search/job/266764) | Palo Alto, CA | Onsite | 2026-06-07 | Rolling | 🔴 Closed | ❔ |
