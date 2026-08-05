@@ -33,7 +33,7 @@ _Generated 2026-08-05_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 728 | `█████████████` |
+| software-engineering | 729 | `█████████████` |
 | quant | 143 | `██` |
 | ai | 138 | `██` |
 | machine-learning | 100 | `██` |
@@ -53,6 +53,7 @@ _Generated 2026-08-05_
 - 2026-08-05 — **General Dynamics Information Technology**: [Software Developer Intern](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Summer-2027-Software-Developer-Internship_RQ225450-1)
 - 2026-08-05 — **Maven Securities**: [Trader Intern](https://job-boards.greenhouse.io/emergingtalent/jobs/8051938)
 - 2026-08-05 — **Maven Securities**: [Trader Intern - Summer](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8051937)
+- 2026-08-05 — **Roblox**: [[Summer 2027] Software Engineer Intern](https://careers.roblox.com/jobs/8072713?gh_jid=8072713)
 - 2026-08-05 — **Skydio**: [Hardware Test & Reliability Intern](https://jobs.ashbyhq.com/skydio/d75d4adf-760c-46b6-bb98-3497650a8924/application?embed=true)
 - 2026-08-05 — **Swift**: [Industry Engagement Research Analyst Intern](https://swift.wd3.myworkdayjobs.com/join-swift/job/London-United-Kingdom/Industry-Engagement---Intern-Research-Analyst_2026-16321)
 - 2026-08-05 — **Tacit**: [Radio Frequency Hardware Intern - Fall 2026](https://jobs.ashbyhq.com/tacit/d001e2d9-90af-4d0b-bc97-fd6fa149ad19/application?embed=true)
@@ -68,7 +69,6 @@ _Generated 2026-08-05_
 - 2026-08-05 — **Valstad**: [Software Engineer Intern - 3D & Manufacturing Applications](https://jobs.ashbyhq.com/valstad/7ff6d452-969f-43a6-9127-d153025e6aea/application?embed=true)
 - 2026-08-04 — **American Express**: [Product Development Intern - US Consumer Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012174)
 - 2026-08-04 — **American Express**: [Product Innovation Intern - Credit & Fraud Risk](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011994)
-- 2026-08-04 — **American Express**: [Product Management Intern](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011916)
 
 ## Recently closed
 
