@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # ⚙️ Embedded Internships
 
-**43** tracked · **37** open now
+**44** tracked · **38** open now
 
 ## Current openings
 
@@ -17,6 +17,7 @@
 | [Etched](generated/companies/etched.md) | [Firmware Intern](https://jobs.ashbyhq.com/Etched/0e78a385-c450-4749-9803-0970ce2971a5) | San Jose, CA | Onsite | 2026-05-22 | Rolling | 🟢 Open | ❔ |
 | [Fab2](generated/companies/fab2.md) | [Embedded Software Engineer Intern](https://jobs.ashbyhq.com/fab2/de448098-ffc6-4b99-b341-d6a5874f390f/application?embed=true) | SF +1 | Onsite | 2026-07-21 | Rolling | 🟢 Open | ❔ |
 | [Figure](generated/companies/figure.md) | [Firmware Intern](https://job-boards.greenhouse.io/figureai/jobs/4691070006) | San Jose, CA | Onsite | 2026-06-22 | Rolling | 🟢 Open | ❔ |
+| [Inogen](generated/companies/inogen.md) | [Firmware Engineer Intern](https://jobs.jobvite.com/inogen/job/om2zAfwh?nl=1&nl=1&fr=false) | Plano, TX | Onsite | 2026-08-04 | Rolling | 🟢 Open | ❔ |
 | [Microchip Technology](generated/companies/microchip-technology.md) | [Engineering Intern - Firmware Development](https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/TX---Houston---Compaq-Center-Dr/Intern-Engineering--Firmware-Development-_R3372-26) | Houston, TX | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
 | [Midmark](generated/companies/midmark.md) | [Firmware Engineering Intern/Co-op](https://hcor.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4333) | Vandalia, OH | Onsite | 2026-02-05 | Rolling | 🟢 Open | ❔ |
 | [Neuralink](generated/companies/neuralink.md) | [Electrical Engineer Intern, Implant Embedded Systems](https://boards.greenhouse.io/neuralink/jobs/7702527003?gh_jid=7702527003) | Austin | Onsite | 2026-04-15 | Rolling | 🟢 Open | ❔ |
@@ -66,6 +67,7 @@
 - Cirrus Logic (1)
 - Fab2 (1)
 - Figure (1)
+- Inogen (1)
 - Microchip Technology (1)
 - Midmark (1)
 - Persistent Systems (1)
