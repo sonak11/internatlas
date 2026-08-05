@@ -162,6 +162,7 @@ _Generated 2026-08-05_
 - GE Vernova — GE Vernova Grid Automation Product Management Intern
 - GE Vernova — GE Vernova Grid Automation Product Management Intern
 - Gemini — Product Management Intern
+- Gemini — Software Engineer Intern
 - Generac — Data Science Intern
 - Generac — Engineering Intern
 - Generac — Software Engineer Intern
@@ -289,6 +290,7 @@ _Generated 2026-08-05_
 - Salesforce — Software Engineer Intern(Futureforce Summer 2027)
 - Samsung — Research Intern
 - Samsung Research America — ML/NLP Research Intern
+- Saronic — Enterprise Technology Intern - AI and Automation
 - Schweitzer Engineering Laboratories — Engineering Intern
 - Schweitzer Engineering Laboratories — Software Engineer Intern
 - Schweitzer Engineering Laboratories — Software Engineering Intern
@@ -350,6 +352,7 @@ _Generated 2026-08-05_
 - Toshiba Global Commerce — AI Product Management Intern
 - Tower Research Capital — Quantitative Trader Intern
 - Truland Equipment — Power Platform Intern
+- Two Six Technologies — China Subject Matter Expert Intern
 - University of Virginia — Graduate Research Intern
 - Varda Space — Mission Software – Intern - Python
 - Verkada — Technical Support Engineering Intern - Fall 2026

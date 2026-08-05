@@ -191,7 +191,7 @@
 | [GE Healthcare](../companies/ge-healthcare.md) | 0/2 | hardware, software-engineering |
 | [GE Vernova](../companies/ge-vernova.md) | 2/4 | product, software-engineering |
 | [GRITT ROBOTICS INC](../companies/gritt-robotics-inc.md) | 1/1 | machine-learning |
-| [Gemini](../companies/gemini.md) | 2/3 | product, software-engineering |
+| [Gemini](../companies/gemini.md) | 1/3 | product, software-engineering |
 | [GenMD](../companies/genmd.md) | 1/1 | ai |
 | [Generac](../companies/generac.md) | 0/3 | data-science, software-engineering |
 | [General Astronautics](../companies/general-astronautics.md) | 1/1 | software-engineering |
@@ -406,7 +406,7 @@
 | [Samsung](../companies/samsung.md) | 0/1 | research |
 | [Samsung Research America](../companies/samsung-research-america.md) | 0/3 | ai, machine-learning, software-engineering |
 | [Sandhills Global](../companies/sandhills-global.md) | 1/1 | software-engineering |
-| [Saronic](../companies/saronic.md) | 2/2 | ai, software-engineering |
+| [Saronic](../companies/saronic.md) | 1/2 | ai, software-engineering |
 | [Scale AI](../companies/scale-ai.md) | 3/3 | ai, software-engineering |
 | [Schweitzer Engineering Laboratories](../companies/schweitzer-engineering-laboratories.md) | 0/3 | software-engineering |
 | [Seaspan](../companies/seaspan.md) | 0/2 | software-engineering |
@@ -475,7 +475,7 @@
 | [Trillium](../companies/trillium.md) | 3/3 | software-engineering |
 | [Truland Equipment](../companies/truland-equipment.md) | 0/1 | software-engineering |
 | [Two Sigma](../companies/two-sigma.md) | 2/2 | ai, quant |
-| [Two Six Technologies](../companies/two-six-technologies.md) | 1/1 | software-engineering |
+| [Two Six Technologies](../companies/two-six-technologies.md) | 0/1 | software-engineering |
 | [UMB](../companies/umb.md) | 1/1 | software-engineering |
 | [US Acute Care Solutions](../companies/us-acute-care-solutions.md) | 1/1 | software-engineering |
 | [Uber](../companies/uber.md) | 1/1 | software-engineering |
