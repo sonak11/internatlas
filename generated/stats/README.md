@@ -13,7 +13,7 @@ _Generated 2026-08-05_
 | Jump Trading | 43 |
 | Cloudflare | 27 |
 | SpaceX | 24 |
-| Susquehanna International Group (SIG) | 21 |
+| Susquehanna International Group (SIG) | 22 |
 | IMC Trading | 20 |
 | Neuralink | 20 |
 | ByteDance | 18 |
@@ -24,23 +24,23 @@ _Generated 2026-08-05_
 | Etched | 14 |
 | Microsoft | 14 |
 | Virtu Financial | 13 |
+| Optiver | 12 |
 | Astranis | 11 |
 | Ciena | 11 |
 | Copart | 11 |
-| Optiver | 11 |
 
 ## Listings by category
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 729 | `█████████████` |
-| quant | 143 | `██` |
-| ai | 138 | `██` |
-| machine-learning | 100 | `██` |
+| software-engineering | 737 | `█████████████` |
+| quant | 145 | `██` |
+| ai | 139 | `██` |
+| machine-learning | 101 | `██` |
 | research | 80 | `█` |
 | hardware | 73 | `█` |
 | embedded | 44 | `█` |
-| product | 35 | `█` |
+| product | 37 | `█` |
 | cloud | 31 | `█` |
 | design | 28 | `█` |
 | data-science | 22 | `█` |
@@ -49,32 +49,33 @@ _Generated 2026-08-05_
 
 ## Newest listings
 
+- 2026-08-05 — **American Express**: [Product Management Intern - Global Merchant & Network Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012152)
+- 2026-08-05 — **American Express**: [Product Management Intern - Global Merchant & Network Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012148)
+- 2026-08-05 — **Bank of Montreal**: [Database Operations Co-op Intern](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Database-Operations-Co-op--Fall-2026--Co-op-Internship----4-months_R260022911)
 - 2026-08-05 — **Boeing**: [Data Analytics Intern](https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/details/Boeing-Summer-2027-Internship-Program--Paid----Data-Analytics-Intern_JR2026520976-1?q=JR2026520976)
+- 2026-08-05 — **Eridu AI**: [Lab Intern](https://ats.rippling.com/eridu-ai/jobs/7f4d858d-b26e-45ce-acdc-7593d8a1f7b1)
 - 2026-08-05 — **General Dynamics Information Technology**: [Software Developer Intern](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Summer-2027-Software-Developer-Internship_RQ225450-1)
+- 2026-08-05 — **Gulf Management**: [Software Engineer & Business Systems Intern](https://gulfmanagement.applytojob.com/apply/pnJkrOYga9/Software-Engineer-Business-Systems-Intern)
 - 2026-08-05 — **Maven Securities**: [Trader Intern](https://job-boards.greenhouse.io/emergingtalent/jobs/8051938)
 - 2026-08-05 — **Maven Securities**: [Trader Intern - Summer](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8051937)
-- 2026-08-05 — **Roblox**: [[Summer 2027] Software Engineer Intern](https://careers.roblox.com/jobs/8072713?gh_jid=8072713)
+- 2026-08-05 — **Optiver**: [Quantitative Intern - Summer 2027](https://www.optiver.com/join-us/jobs/8682750002/?gh_jid=8682750002)
+- 2026-08-05 — **Rho**: [Quantitative Analyst Intern](https://jobs.ashbyhq.com/rho/eb5c9709-ab43-4e9e-9c41-ccb122955fcf/application?embed=true)
+- 2026-08-05 — **Roblox**: [Software Engineer Intern](https://careers.roblox.com/jobs/8072713?gh_jid=8072713)
+- 2026-08-05 — **RTX**: [Machine Learning Researcher Intern/Co-op](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-RTRC-K--411-Silver-Ln--RTRC-K/Fall-2026--Intern-Coop--Machine-Learning-Researcher_01864471)
+- 2026-08-05 — **RTX**: [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineering-Intern--Summer-2027-_01864033)
 - 2026-08-05 — **Skydio**: [Hardware Test & Reliability Intern](https://jobs.ashbyhq.com/skydio/d75d4adf-760c-46b6-bb98-3497650a8924/application?embed=true)
+- 2026-08-05 — **Susquehanna International Group (SIG)**: [Derivatives Sales Trader Intern - Summer 2027](https://careers-sig.icims.com/jobs/10626/job?mobile=true&needsRedirect=false)
 - 2026-08-05 — **Swift**: [Industry Engagement Research Analyst Intern](https://swift.wd3.myworkdayjobs.com/join-swift/job/London-United-Kingdom/Industry-Engagement---Intern-Research-Analyst_2026-16321)
 - 2026-08-05 — **Tacit**: [Radio Frequency Hardware Intern - Fall 2026](https://jobs.ashbyhq.com/tacit/d001e2d9-90af-4d0b-bc97-fd6fa149ad19/application?embed=true)
 - 2026-08-05 — **TikTok**: [Backend Software Engineer Intern - Creation Platform](https://lifeattiktok.com/search/7670289874020993285)
 - 2026-08-05 — **TikTok**: [Data Engineer Intern - Ads Targeting](https://lifeattiktok.com/search/7668533140146817333)
-- 2026-08-05 — **TikTok**: [Data Science Intern - TikTok Product](https://lifeattiktok.com/search/7669683639101884725)
-- 2026-08-05 — **TikTok**: [Data Scientist Intern - VOD Data](https://lifeattiktok.com/search/7670287013157095733)
-- 2026-08-05 — **TikTok**: [Machine Learning Engineer Intern - Data-Global E-Commerce-Search](https://lifeattiktok.com/search/7668415591670417717)
-- 2026-08-05 — **TikTok**: [Machine Learning Engineer Intern - Search](https://lifeattiktok.com/search/7668396597746862341)
-- 2026-08-05 — **TikTok**: [Product Operations Intern - Apps and API](https://lifeattiktok.com/search/7669927344569764101)
-- 2026-08-05 — **US Acute Care Solutions**: [People Analytics Intern](https://usacs.wd1.myworkdayjobs.com/usacscareers/job/Virtual-OH/People-Analytics-Intern_R0002363)
-- 2026-08-05 — **Valstad**: [Robotics Software Intern - Manipulation & Simulation](https://jobs.ashbyhq.com/valstad/8478558b-c5b5-43d2-b9c0-eae7a1fb30d8/application?embed=true)
-- 2026-08-05 — **Valstad**: [Software Engineer Intern - 3D & Manufacturing Applications](https://jobs.ashbyhq.com/valstad/7ff6d452-969f-43a6-9127-d153025e6aea/application?embed=true)
-- 2026-08-04 — **American Express**: [Product Development Intern - US Consumer Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012174)
-- 2026-08-04 — **American Express**: [Product Innovation Intern - Credit & Fraud Risk](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011994)
 
 ## Recently closed
 
 - ABC News — Product Management and Engineering Intern
 - ACLU Kentucky — Undergraduate Intern - Technology and Analytics Department-Educate Pod
 - Ada — Software Engineer Intern
+- Adobe — AI/ML Intern – Machine Learning Engineer/Researcher Intern
 - Airbnb — Sales Operations Intern, Italy
 - Altasciences — Process Innovation Product Management Intern
 - Altice USA — Data Engineer Intern
@@ -124,6 +125,8 @@ _Generated 2026-08-05_
 - Ciena — Photonic Hardware Intern
 - Ciena — Routing/IP Software Developer Intern
 - Ciena — Software Engineer and Tools Developer Intern
+- Cirrus Logic — AI Business Analytics Co-op Intern
+- Cirrus Logic — Embedded Software AI Intern Co-op
 - City of Austin — Austin Aviation Undergraduate Intern - IT Business Systems Analyst
 - Cloudflare — Public Policy Intern
 - Cloudflare — Sales Project Manager Intern (AI Innovation) (Fall 2026)
@@ -137,6 +140,7 @@ _Generated 2026-08-05_
 - Copart — Technology Product Analyst Intern
 - Datasite — AI Transformation / Forward Deployed Engineer Intern - Forward Deployed Engineer
 - Datasite — Forward Deployed Engineer Intern
+- Definity Financial — Data Analyst Co-op/Intern
 - Definity Financial — Data Specialist Co-op Intern - Claim Operations Management
 - Democratic Governors Association — Data and Coding Intern
 - Democratic National Committee — DNC Technology Intern
@@ -196,8 +200,6 @@ _Generated 2026-08-05_
 - Intel — AI Software Engineering Intern
 - Intel Corporation — AI Software Engineering PhD Intern
 - JINGDONG — Software Engineering Intern
-- JP Morgan Chase — Data & AI Intern - Analyst
-- JP Morgan Chase — Data Internship - Data & AI Program
 - Jump Trading — Campus Quantitative Researcher Intern
 - KBR — National Security Solutions Intern - Nss
 - Keysight Technologies — R&D Software Engineer Intern
@@ -274,6 +276,7 @@ _Generated 2026-08-05_
 - Podium — Software Engineering Intern
 - PSECU — Data Analyst Intern
 - Quadrillion — Software Engineer Intern
+- QuEra Computing — Photonics Data Engineer Intern - Data Management
 - Rainmaker — Software Engineer Intern
 - Rakuten International — Software Engineer Intern
 - RapDev — ServiceNow Engineer Intern
@@ -318,8 +321,6 @@ _Generated 2026-08-05_
 - Stoke Space — Software Intern - Software
 - Susquehanna International Group (SIG) — Trading Operations Analyst Intern
 - T. Rowe Price — Global Product Intern
-- T. Rowe Price — Global Trading Intern
-- T. Rowe Price — Quantitative Equity Investing Intern
 - T. Rowe Price — Technology and Data Intern
 - Tencent — AI Agent Research & Application Intern
 - Tencent — Research Intern

@@ -1,6 +1,6 @@
 {
   "generated": "2026-08-05",
-  "count": 1450,
+  "count": 1464,
   "internships": [
     {
       "schema_version": "1.0",
@@ -582,7 +582,7 @@
         "discovered": "2026-07-21",
         "last_verified": "2026-08-05"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -3229,6 +3229,109 @@
       "dates": {
         "posted": "2026-08-04",
         "discovered": "2026-08-04",
+        "last_verified": "2026-08-05"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "american-express-product-management-intern-global-merchant-network-services-2027-268c6c",
+      "company": {
+        "name": "American Express",
+        "slug": "american-express"
+      },
+      "role": "Product Management Intern - Global Merchant & Network Services",
+      "category": "product",
+      "apply_url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012152",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "NYC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-05",
+        "discovered": "2026-08-05",
+        "last_verified": "2026-08-05"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "american-express-product-management-intern-global-merchant-network-services-2027",
+      "company": {
+        "name": "American Express",
+        "slug": "american-express"
+      },
+      "role": "Product Management Intern - Global Merchant & Network Services",
+      "category": "product",
+      "apply_url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012148",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Phoenix",
+          "state": "AZ",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-05",
+        "discovered": "2026-08-05",
         "last_verified": "2026-08-05"
       },
       "status": "open",
@@ -7293,6 +7396,57 @@
       "dates": {
         "posted": "2026-07-07",
         "discovered": "2026-07-17",
+        "last_verified": "2026-08-05"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "bank-of-montreal-database-operations-co-op-intern-2026",
+      "company": {
+        "name": "Bank of Montreal",
+        "slug": "bank-of-montreal"
+      },
+      "role": "Database Operations Co-op Intern",
+      "category": "software-engineering",
+      "apply_url": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Database-Operations-Co-op--Fall-2026--Co-op-Internship----4-months_R260022911",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Toronto",
+          "country": "ON"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-05",
+        "discovered": "2026-08-05",
         "last_verified": "2026-08-05"
       },
       "status": "open",
@@ -13205,7 +13359,7 @@
         "discovered": "2026-07-20",
         "last_verified": "2026-08-05"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -13257,7 +13411,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-05"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -17921,7 +18075,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-05"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -19914,6 +20068,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "eridu-ai-lab-intern-2026",
+      "company": {
+        "name": "Eridu AI",
+        "slug": "eridu-ai"
+      },
+      "role": "Lab Intern",
+      "category": "software-engineering",
+      "apply_url": "https://ats.rippling.com/eridu-ai/jobs/7f4d858d-b26e-45ce-acdc-7593d8a1f7b1",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Saratoga",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-05",
+        "discovered": "2026-08-05",
+        "last_verified": "2026-08-05"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "etched-electrical-platform-intern-2026",
       "company": {
         "name": "Etched",
@@ -20805,6 +21011,54 @@
         "last_verified": "2026-08-01"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "exabeam-ai-deployment-intern-2026",
+      "company": {
+        "name": "Exabeam",
+        "slug": "exabeam"
+      },
+      "role": "AI Deployment Intern",
+      "category": "ai",
+      "apply_url": "https://jobs.jobvite.com/exabeam/job/oRNAAfwy?nl=1&nl=1&fr=false",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "remote",
+      "locations": [],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-04",
+        "discovered": "2026-08-05",
+        "last_verified": "2026-08-05"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -25579,6 +25833,58 @@
       "dates": {
         "posted": "2026-07-23",
         "discovered": "2026-07-24",
+        "last_verified": "2026-08-05"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "gulf-management-software-engineer-business-systems-intern-2026",
+      "company": {
+        "name": "Gulf Management",
+        "slug": "gulf-management"
+      },
+      "role": "Software Engineer & Business Systems Intern",
+      "category": "software-engineering",
+      "apply_url": "https://gulfmanagement.applytojob.com/apply/pnJkrOYga9/Software-Engineer-Business-Systems-Intern",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Covington",
+          "state": "LA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-05",
+        "discovered": "2026-08-05",
         "last_verified": "2026-08-05"
       },
       "status": "open",
@@ -31165,9 +31471,9 @@
       "dates": {
         "posted": "2026-08-03",
         "discovered": "2026-08-03",
-        "last_verified": "2026-08-04"
+        "last_verified": "2026-08-05"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -31255,7 +31561,7 @@
         "discovered": "2026-08-03",
         "last_verified": "2026-08-05"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -45567,6 +45873,60 @@
     },
     {
       "schema_version": "1.0",
+      "id": "optiver-quantitative-intern-summer-2027-2027",
+      "company": {
+        "name": "Optiver",
+        "slug": "optiver"
+      },
+      "role": "Quantitative Intern - Summer 2027",
+      "category": "quant",
+      "apply_url": "https://www.optiver.com/join-us/jobs/8682750002/?gh_jid=8682750002",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Austin",
+          "state": "TX",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-05",
+        "discovered": "2026-08-05",
+        "last_verified": "2026-08-05"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "optiver-quantitative-research-intern-2027-bb801c",
       "company": {
         "name": "Optiver",
@@ -50097,7 +50457,7 @@
         "discovered": "2026-08-03",
         "last_verified": "2026-08-05"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -50806,6 +51166,57 @@
       "dates": {
         "posted": "2026-07-15",
         "discovered": "2026-07-17",
+        "last_verified": "2026-08-05"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "rho-quantitative-analyst-intern-2026",
+      "company": {
+        "name": "Rho",
+        "slug": "rho"
+      },
+      "role": "Quantitative Analyst Intern",
+      "category": "quant",
+      "apply_url": "https://jobs.ashbyhq.com/rho/eb5c9709-ab43-4e9e-9c41-ccb122955fcf/application?embed=true",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "NYC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-05",
+        "discovered": "2026-08-05",
         "last_verified": "2026-08-05"
       },
       "status": "open",
@@ -52533,13 +52944,12 @@
     },
     {
       "schema_version": "1.0",
-      "id": "roblox-summer-2027-software-engineer-intern-2027",
+      "id": "roblox-software-engineer-intern-2027",
       "company": {
         "name": "Roblox",
-        "slug": "roblox",
-        "career_page": "https://careers.roblox.com/"
+        "slug": "roblox"
       },
-      "role": "[Summer 2027] Software Engineer Intern",
+      "role": "Software Engineer Intern",
       "category": "software-engineering",
       "apply_url": "https://careers.roblox.com/jobs/8072713?gh_jid=8072713",
       "season": "summer",
@@ -52560,9 +52970,9 @@
       "eligibility": {
         "graduation_years": [],
         "degree_levels": [],
-        "citizenship_required": false,
+        "citizenship_required": true,
         "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
+        "visa_sponsorship": "no"
       },
       "interview": {},
       "tech": {
@@ -52581,7 +52991,7 @@
       "status": "open",
       "tags": [
         "auto-ingested",
-        "src:ats"
+        "src:simplify"
       ]
     },
     {
@@ -53105,6 +53515,61 @@
     },
     {
       "schema_version": "1.0",
+      "id": "rtx-machine-learning-researcher-intern-co-op-2026-1c8c9f",
+      "company": {
+        "name": "RTX",
+        "slug": "rtx"
+      },
+      "role": "Machine Learning Researcher Intern/Co-op",
+      "category": "machine-learning",
+      "apply_url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-RTRC-K--411-Silver-Ln--RTRC-K/Fall-2026--Intern-Coop--Machine-Learning-Researcher_01864471",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "East Hartford",
+          "state": "CT",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters",
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-05",
+        "discovered": "2026-08-05",
+        "last_verified": "2026-08-05"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "rtx-machine-learning-researcher-intern-co-op-2026",
       "company": {
         "name": "RTX",
@@ -53150,6 +53615,60 @@
       "dates": {
         "posted": "2026-07-20",
         "discovered": "2026-07-20",
+        "last_verified": "2026-08-05"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "rtx-software-engineer-intern-2027-3211dc",
+      "company": {
+        "name": "RTX",
+        "slug": "rtx"
+      },
+      "role": "Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineering-Intern--Summer-2027-_01864033",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Cedar Rapids",
+          "state": "IA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-05",
+        "discovered": "2026-08-05",
         "last_verified": "2026-08-05"
       },
       "status": "open",
@@ -58739,6 +59258,59 @@
     },
     {
       "schema_version": "1.0",
+      "id": "susquehanna-international-group-sig-derivatives-sales-trader-intern-summer-2027-2027",
+      "company": {
+        "name": "Susquehanna International Group (SIG)",
+        "slug": "susquehanna-international-group-sig"
+      },
+      "role": "Derivatives Sales Trader Intern - Summer 2027",
+      "category": "software-engineering",
+      "apply_url": "https://careers-sig.icims.com/jobs/10626/job?mobile=true&needsRedirect=false",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "NYC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-05",
+        "discovered": "2026-08-05",
+        "last_verified": "2026-08-05"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "susquehanna-international-group-sig-electricity-natural-gas-analyst-intern-2027",
       "company": {
         "name": "Susquehanna International Group (SIG)",
@@ -60232,9 +60804,9 @@
       "dates": {
         "posted": "2026-07-23",
         "discovered": "2026-07-23",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-08-05"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -60284,9 +60856,9 @@
       "dates": {
         "posted": "2026-07-23",
         "discovered": "2026-07-23",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-08-05"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -75883,6 +76455,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "vertiv-thermal-application-engineer-intern-summer-2027-2027",
+      "company": {
+        "name": "Vertiv",
+        "slug": "vertiv"
+      },
+      "role": "Thermal Application Engineer Intern - Summer 2027",
+      "category": "software-engineering",
+      "apply_url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278512",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Westerville",
+          "state": "OH",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-05",
+        "discovered": "2026-08-05",
+        "last_verified": "2026-08-05"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "vetsez-full-stack-developer-intern-2026",
       "company": {
         "name": "VetsEZ",
@@ -77804,6 +78428,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "wgu-data-support-engineer-intern-2026",
+      "company": {
+        "name": "WGU",
+        "slug": "wgu"
+      },
+      "role": "Data Support Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://wgu.wd5.myworkdayjobs.com/External/job/Salt-Lake-City-UT/Data-Support-Engineer-Intern_JR-025859",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Salt Lake City",
+          "state": "UT",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-05",
+        "discovered": "2026-08-05",
+        "last_verified": "2026-08-05"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "williams-engineering-intern-2027",
       "company": {
         "name": "Williams",
@@ -77910,6 +78586,58 @@
       "dates": {
         "posted": "2026-07-06",
         "discovered": "2026-07-17",
+        "last_verified": "2026-08-05"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "winland-foods-product-development-intern-2027",
+      "company": {
+        "name": "Winland Foods",
+        "slug": "winland-foods"
+      },
+      "role": "Product Development Intern",
+      "category": "software-engineering",
+      "apply_url": "https://winlandfoods.wd1.myworkdayjobs.com/external/job/USA-IL-Oak-Brook/Product-Development-Intern_R28807",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Oak Brook",
+          "state": "IL",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-05",
+        "discovered": "2026-08-05",
         "last_verified": "2026-08-05"
       },
       "status": "open",
