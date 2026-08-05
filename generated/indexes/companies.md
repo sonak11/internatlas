@@ -47,7 +47,7 @@
 | [Aquatic Capital](../companies/aquatic-capital.md) | 1/1 | software-engineering |
 | [Aquatic Capital Management](../companies/aquatic-capital-management.md) | 2/2 | quant, software-engineering |
 | [Aramark](../companies/aramark.md) | 0/1 | software-engineering |
-| [Arcadis](../companies/arcadis.md) | 1/1 | software-engineering |
+| [Arcadis](../companies/arcadis.md) | 0/1 | software-engineering |
 | [Architect Labs](../companies/architect-labs.md) | 1/1 | research |
 | [Ardian](../companies/ardian.md) | 1/1 | data-science |
 | [Argmax](../companies/argmax.md) | 1/1 | ai |
@@ -266,6 +266,7 @@
 | [Littelfuse](../companies/littelfuse.md) | 0/1 | software-engineering |
 | [LiveRamp](../companies/liveramp.md) | 0/1 | software-engineering |
 | [Loop](../companies/loop.md) | 0/1 | data-science |
+| [Louisiana Blue](../companies/louisiana-blue.md) | 4/4 | software-engineering |
 | [Lumentum](../companies/lumentum.md) | 2/2 | software-engineering |
 | [Mackenzie Investments](../companies/mackenzie-investments.md) | 0/1 | ai |
 | [Magna](../companies/magna.md) | 1/1 | software-engineering |
@@ -414,7 +415,7 @@
 | [Signify](../companies/signify.md) | 1/1 | product |
 | [SimonComputing](../companies/simoncomputing.md) | 1/1 | software-engineering |
 | [Sixtyfour (X25)](../companies/sixtyfour-x25.md) | 1/1 | software-engineering |
-| [Skydio](../companies/skydio.md) | 2/3 | product, software-engineering |
+| [Skydio](../companies/skydio.md) | 3/4 | hardware, product, software-engineering |
 | [Smith+Nephew](../companies/smith-nephew.md) | 0/1 | software-engineering |
 | [Smiths Detection Group](../companies/smiths-detection-group.md) | 1/1 | software-engineering |
 | [Snowflake](../companies/snowflake.md) | 3/3 | cloud, software-engineering |
@@ -443,6 +444,7 @@
 | [TETRAMEM](../companies/tetramem.md) | 1/1 | embedded |
 | [TMEIC](../companies/tmeic.md) | 1/1 | machine-learning |
 | [TMX Group](../companies/tmx-group.md) | 1/2 | software-engineering |
+| [Tacit](../companies/tacit.md) | 1/1 | hardware |
 | [Tencent](../companies/tencent.md) | 6/9 | ai, machine-learning, research, software-engineering |
 | [Tenstorrent](../companies/tenstorrent.md) | 2/3 | ai, design |
 | [Terranova](../companies/terranova.md) | 1/1 | embedded |
@@ -457,7 +459,7 @@
 | [The Mosaic Company](../companies/the-mosaic-company.md) | 0/1 | security |
 | [The Trade Desk](../companies/the-trade-desk.md) | 0/1 | software-engineering |
 | [Thomson Reuters](../companies/thomson-reuters.md) | 1/1 | research |
-| [TikTok](../companies/tiktok.md) | 89/93 | ai, cloud, data-science, machine-learning, product, research, software-engineering |
+| [TikTok](../companies/tiktok.md) | 92/96 | ai, cloud, data-science, machine-learning, product, research, software-engineering |
 | [Together AI](../companies/together-ai.md) | 2/3 | research |
 | [Torch Technologies](../companies/torch-technologies.md) | 0/1 | software-engineering |
 | [Toshiba Commerce Solutions](../companies/toshiba-commerce-solutions.md) | 0/2 | ai |
@@ -480,6 +482,7 @@
 | [University of Virginia](../companies/university-of-virginia.md) | 0/1 | research |
 | [University of Virginia Investment Management Company (UVIMCO)](../companies/university-of-virginia-investment-management-company-uvimco.md) | 1/1 | software-engineering |
 | [VITAL LYFE](../companies/vital-lyfe.md) | 1/1 | software-engineering |
+| [Valstad](../companies/valstad.md) | 2/2 | software-engineering |
 | [Varda Space](../companies/varda-space.md) | 0/1 | software-engineering |
 | [Veeam Software](../companies/veeam-software.md) | 2/2 | ai, software-engineering |
 | [Veeda AI](../companies/veeda-ai.md) | 1/1 | ai |

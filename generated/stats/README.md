@@ -9,7 +9,7 @@ _Generated 2026-08-05_
 | Company | Listings |
 |---|---|
 | Tesla | 105 |
-| TikTok | 93 |
+| TikTok | 96 |
 | Jump Trading | 43 |
 | Cloudflare | 27 |
 | SpaceX | 24 |
@@ -33,22 +33,29 @@ _Generated 2026-08-05_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 715 | `█████████████` |
-| quant | 143 | `███` |
+| software-engineering | 722 | `█████████████` |
+| quant | 143 | `██` |
 | ai | 138 | `██` |
-| machine-learning | 98 | `██` |
+| machine-learning | 99 | `██` |
 | research | 79 | `█` |
-| hardware | 71 | `█` |
+| hardware | 73 | `█` |
 | embedded | 44 | `█` |
 | product | 35 | `█` |
 | cloud | 31 | `█` |
 | design | 28 | `█` |
-| data-science | 20 | `█` |
+| data-science | 21 | `█` |
 | data-engineering | 16 | `█` |
 | security | 10 | `█` |
 
 ## Newest listings
 
+- 2026-08-05 — **Skydio**: [Hardware Test & Reliability Intern](https://jobs.ashbyhq.com/skydio/d75d4adf-760c-46b6-bb98-3497650a8924/application?embed=true)
+- 2026-08-05 — **Tacit**: [Radio Frequency Hardware Intern - Fall 2026](https://jobs.ashbyhq.com/tacit/d001e2d9-90af-4d0b-bc97-fd6fa149ad19/application?embed=true)
+- 2026-08-05 — **TikTok**: [Data Science Intern - TikTok Product](https://lifeattiktok.com/search/7669683639101884725)
+- 2026-08-05 — **TikTok**: [Machine Learning Engineer Intern - Data-Global E-Commerce-Search](https://lifeattiktok.com/search/7668415591670417717)
+- 2026-08-05 — **TikTok**: [Product Operations Intern - Apps and API](https://lifeattiktok.com/search/7669927344569764101)
+- 2026-08-05 — **Valstad**: [Robotics Software Intern - Manipulation & Simulation](https://jobs.ashbyhq.com/valstad/8478558b-c5b5-43d2-b9c0-eae7a1fb30d8/application?embed=true)
+- 2026-08-05 — **Valstad**: [Software Engineer Intern - 3D & Manufacturing Applications](https://jobs.ashbyhq.com/valstad/7ff6d452-969f-43a6-9127-d153025e6aea/application?embed=true)
 - 2026-08-04 — **American Express**: [Product Development Intern - US Consumer Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012174)
 - 2026-08-04 — **American Express**: [Product Innovation Intern - Credit & Fraud Risk](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011994)
 - 2026-08-04 — **American Express**: [Product Management Intern](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011916)
@@ -62,13 +69,6 @@ _Generated 2026-08-05_
 - 2026-08-04 — **DV Trading**: [Quantitative Risk Intern](https://job-boards.greenhouse.io/dvtrading/jobs/4719118005)
 - 2026-08-04 — **GE Vernova**: [Digital Technology Intern](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Atlanta/GE-Vernova-Digital-Technology-Internship---Summer-2027_R5049176-3)
 - 2026-08-04 — **GE Vernova**: [Digital Technology Intern](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Atlanta/GE-Vernova-Digital-Technology-Internship---Summer-2027_R5049176-2)
-- 2026-08-04 — **General Dynamics Information Technology**: [Software Developer Intern](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Summer-2027-Software-Developer-Internship_RQ225717-1)
-- 2026-08-04 — **Inizio**: [Data and Analytics Intern](https://job-boards.greenhouse.io/inizio/jobs/8066854)
-- 2026-08-04 — **Inogen**: [Firmware Engineer Intern](https://jobs.jobvite.com/inogen/job/om2zAfwh?nl=1&nl=1&fr=false)
-- 2026-08-04 — **Keysight Technologies**: [Software Engineer Intern - R&D - FPGA](https://jobs.keysight.com/jobs/53636?icims=1)
-- 2026-08-04 — **Lumentum**: [Optical Verification Technician Co-op Intern](https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Optical-VerificationTechnician-Intern-Co-op_20261049)
-- 2026-08-04 — **Lumentum**: [Optical Verification Technician Intern/Co-op](https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Optical-Verification-Technician-Intern-Co-op_20261048)
-- 2026-08-04 — **Melius**: [Software Engineering Intern](https://jobs.ashbyhq.com/melius/b61f063a-4f94-4e50-a4ef-05aaab552280)
 
 ## Recently closed
 
@@ -87,6 +87,7 @@ _Generated 2026-08-05_
 - Aptiv — Engineer Intern
 - AQR Capital Management — Portfolio Implementation – Trading and Portfolio Finance Analyst Intern
 - Aramark — Data Analyst Intern
+- Arcadis — GIS Intern
 - Assurant — Digital & AI Transformation Intern
 - Astranis — FPGA Associate Intern
 - Astranis — FPGA Intern

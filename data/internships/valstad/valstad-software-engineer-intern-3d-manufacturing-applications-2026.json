@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "arcadis-gis-intern-2026",
+  "id": "valstad-software-engineer-intern-3d-manufacturing-applications-2026",
   "company": {
-    "name": "Arcadis",
-    "slug": "arcadis"
+    "name": "Valstad",
+    "slug": "valstad"
   },
-  "role": "GIS Intern",
+  "role": "Software Engineer Intern - 3D & Manufacturing Applications",
   "category": "software-engineering",
-  "apply_url": "https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/42762",
+  "apply_url": "https://jobs.ashbyhq.com/valstad/7ff6d452-969f-43a6-9127-d153025e6aea/application?embed=true",
   "season": "fall",
   "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Atlanta",
-      "state": "GA",
+      "city": "Austin",
+      "state": "TX",
       "country": "USA"
     }
   ],
@@ -25,7 +25,9 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "masters"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -40,11 +42,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-22",
-    "discovered": "2026-07-23",
+    "posted": "2026-08-05",
+    "discovered": "2026-08-05",
     "last_verified": "2026-08-05"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "arcadis-gis-intern-2026",
+  "id": "louisiana-blue-healthcare-price-and-transparency-data-analyst-intern-2026",
   "company": {
-    "name": "Arcadis",
-    "slug": "arcadis"
+    "name": "Louisiana Blue",
+    "slug": "louisiana-blue"
   },
-  "role": "GIS Intern",
+  "role": "Healthcare Price and Transparency Data Analyst Intern",
   "category": "software-engineering",
-  "apply_url": "https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/42762",
+  "apply_url": "https://bcbsla.wd1.myworkdayjobs.com/Generation_Blue/job/Corporate---Baton-Rouge-LA/Healthcare-Price-and-Transparency-Data-Analyst-Intern_R11903",
   "season": "fall",
   "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Atlanta",
-      "state": "GA",
+      "city": "Baton Rouge",
+      "state": "LA",
       "country": "USA"
     }
   ],
@@ -40,11 +40,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-22",
-    "discovered": "2026-07-23",
+    "posted": "2026-07-20",
+    "discovered": "2026-08-05",
     "last_verified": "2026-08-05"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"
