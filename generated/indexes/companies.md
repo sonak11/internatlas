@@ -77,6 +77,7 @@
 | [Block](../companies/block.md) | 2/2 | research |
 | [Bloxd](../companies/bloxd.md) | 1/1 | software-engineering |
 | [Blue Cross Blue Shield of Michigan](../companies/blue-cross-blue-shield-of-michigan.md) | 1/1 | software-engineering |
+| [Boeing](../companies/boeing.md) | 1/1 | software-engineering |
 | [BorgWarner](../companies/borgwarner.md) | 1/1 | software-engineering |
 | [Bosch](../companies/bosch.md) | 2/2 | ai |
 | [Bosch Home Comfort](../companies/bosch-home-comfort.md) | 4/8 | ai, product, research, software-engineering |
@@ -284,7 +285,7 @@
 | [Menasha Corporation](../companies/menasha-corporation.md) | 0/2 | software-engineering |
 | [Meta](../companies/meta.md) | 12/15 | ai, machine-learning, research |
 | [Metropolitan Transportation Authority](../companies/metropolitan-transportation-authority.md) | 2/2 | software-engineering |
-| [Microchip Technology](../companies/microchip-technology.md) | 4/5 | embedded, software-engineering |
+| [Microchip Technology](../companies/microchip-technology.md) | 3/5 | embedded, software-engineering |
 | [Micron Technology](../companies/micron-technology.md) | 1/1 | software-engineering |
 | [Microsoft](../companies/microsoft.md) | 13/14 | cloud, machine-learning, product, security, software-engineering |
 | [Midmark](../companies/midmark.md) | 1/1 | embedded |
@@ -459,7 +460,7 @@
 | [The Mosaic Company](../companies/the-mosaic-company.md) | 0/1 | security |
 | [The Trade Desk](../companies/the-trade-desk.md) | 0/1 | software-engineering |
 | [Thomson Reuters](../companies/thomson-reuters.md) | 1/1 | research |
-| [TikTok](../companies/tiktok.md) | 92/96 | ai, cloud, data-science, machine-learning, product, research, software-engineering |
+| [TikTok](../companies/tiktok.md) | 96/100 | ai, cloud, data-engineering, data-science, machine-learning, product, research, software-engineering |
 | [Together AI](../companies/together-ai.md) | 2/3 | research |
 | [Torch Technologies](../companies/torch-technologies.md) | 0/1 | software-engineering |
 | [Toshiba Commerce Solutions](../companies/toshiba-commerce-solutions.md) | 0/2 | ai |

@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "microchip-technology-power-analog-and-mixed-signal-ic-product-engineer-intern-pro-2026",
+  "id": "tiktok-machine-learning-engineer-intern-search-2027",
   "company": {
-    "name": "Microchip Technology",
-    "slug": "microchip-technology"
+    "name": "TikTok",
+    "slug": "tiktok"
   },
-  "role": "Power, Analog and Mixed-Signal IC Product Engineer Intern - Product Engineering",
-  "category": "software-engineering",
-  "apply_url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/AZ---Chandler/Intern--Engineering--Product-Engineering-_R3151-26-1",
-  "season": "fall",
-  "year": 2026,
+  "role": "Machine Learning Engineer Intern - Search",
+  "category": "machine-learning",
+  "apply_url": "https://lifeattiktok.com/search/7668396597746862341",
+  "season": "summer",
+  "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Chandler",
-      "state": "AZ",
+      "city": "Seattle",
+      "state": "WA",
       "country": "USA"
     }
   ],
@@ -42,11 +42,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-31",
-    "discovered": "2026-08-01",
+    "posted": "2026-08-05",
+    "discovered": "2026-08-05",
     "last_verified": "2026-08-05"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

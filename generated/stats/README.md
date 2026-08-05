@@ -9,7 +9,7 @@ _Generated 2026-08-05_
 | Company | Listings |
 |---|---|
 | Tesla | 105 |
-| TikTok | 96 |
+| TikTok | 100 |
 | Jump Trading | 43 |
 | Cloudflare | 27 |
 | SpaceX | 24 |
@@ -33,26 +33,31 @@ _Generated 2026-08-05_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 722 | `█████████████` |
+| software-engineering | 724 | `█████████████` |
 | quant | 143 | `██` |
 | ai | 138 | `██` |
-| machine-learning | 99 | `██` |
+| machine-learning | 100 | `██` |
 | research | 79 | `█` |
 | hardware | 73 | `█` |
 | embedded | 44 | `█` |
 | product | 35 | `█` |
 | cloud | 31 | `█` |
 | design | 28 | `█` |
-| data-science | 21 | `█` |
-| data-engineering | 16 | `█` |
+| data-science | 22 | `█` |
+| data-engineering | 17 | `█` |
 | security | 10 | `█` |
 
 ## Newest listings
 
+- 2026-08-05 — **Boeing**: [Data Analytics Intern](https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/details/Boeing-Summer-2027-Internship-Program--Paid----Data-Analytics-Intern_JR2026520976-1?q=JR2026520976)
 - 2026-08-05 — **Skydio**: [Hardware Test & Reliability Intern](https://jobs.ashbyhq.com/skydio/d75d4adf-760c-46b6-bb98-3497650a8924/application?embed=true)
 - 2026-08-05 — **Tacit**: [Radio Frequency Hardware Intern - Fall 2026](https://jobs.ashbyhq.com/tacit/d001e2d9-90af-4d0b-bc97-fd6fa149ad19/application?embed=true)
+- 2026-08-05 — **TikTok**: [Backend Software Engineer Intern - Creation Platform](https://lifeattiktok.com/search/7670289874020993285)
+- 2026-08-05 — **TikTok**: [Data Engineer Intern - Ads Targeting](https://lifeattiktok.com/search/7668533140146817333)
 - 2026-08-05 — **TikTok**: [Data Science Intern - TikTok Product](https://lifeattiktok.com/search/7669683639101884725)
+- 2026-08-05 — **TikTok**: [Data Scientist Intern - VOD Data](https://lifeattiktok.com/search/7670287013157095733)
 - 2026-08-05 — **TikTok**: [Machine Learning Engineer Intern - Data-Global E-Commerce-Search](https://lifeattiktok.com/search/7668415591670417717)
+- 2026-08-05 — **TikTok**: [Machine Learning Engineer Intern - Search](https://lifeattiktok.com/search/7668396597746862341)
 - 2026-08-05 — **TikTok**: [Product Operations Intern - Apps and API](https://lifeattiktok.com/search/7669927344569764101)
 - 2026-08-05 — **Valstad**: [Robotics Software Intern - Manipulation & Simulation](https://jobs.ashbyhq.com/valstad/8478558b-c5b5-43d2-b9c0-eae7a1fb30d8/application?embed=true)
 - 2026-08-05 — **Valstad**: [Software Engineer Intern - 3D & Manufacturing Applications](https://jobs.ashbyhq.com/valstad/7ff6d452-969f-43a6-9127-d153025e6aea/application?embed=true)
@@ -64,11 +69,6 @@ _Generated 2026-08-05_
 - 2026-08-04 — **ByteDance**: [Software Engineer Intern, Distributed NoSQL Database Systems](https://joinbytedance.com/search/7668373268886161669)
 - 2026-08-04 — **ByteDance**: [Software Engineer Intern, Distributed NoSQL Database Systems](https://joinbytedance.com/search/7668374190764050741)
 - 2026-08-04 — **Cloudflare**: [GRC Team Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8095533?gh_jid=8095533)
-- 2026-08-04 — **Cloudflare**: [Marketing Programs and Analytics Intern](https://boards.greenhouse.io/cloudflare/jobs/8104138)
-- 2026-08-04 — **Cloudflare**: [U.S. Public Policy and AI Innovation Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8105728?gh_jid=8105728)
-- 2026-08-04 — **DV Trading**: [Quantitative Risk Intern](https://job-boards.greenhouse.io/dvtrading/jobs/4719118005)
-- 2026-08-04 — **GE Vernova**: [Digital Technology Intern](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Atlanta/GE-Vernova-Digital-Technology-Internship---Summer-2027_R5049176-3)
-- 2026-08-04 — **GE Vernova**: [Digital Technology Intern](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Atlanta/GE-Vernova-Digital-Technology-Internship---Summer-2027_R5049176-2)
 
 ## Recently closed
 
@@ -220,6 +220,7 @@ _Generated 2026-08-05_
 - Meta — Research Scientist Intern - Multimodal Contextual AI
 - Meta — Research Scientist Intern PhD - Applied Research
 - Microchip Technology — Applications Engineering Intern
+- Microchip Technology — Power, Analog and Mixed-Signal IC Product Engineer Intern - Product Engineering
 - Microsoft — Software Engineer Intern
 - Mistral AI — Applied Scientist / Research Engineer Intern
 - Monogram — Software Engineer Intern

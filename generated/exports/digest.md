@@ -1,6 +1,6 @@
 # 📬 InternAtlas Weekly Digest — 2026-08-05
 
-## 🆕 New this week (325)
+## 🆕 New this week (330)
 
 - **1X** — [CNC Machine Park Intern](https://jobs.ashbyhq.com/1x/e7b4aaf5-5c55-4e2f-abcd-5c250657bede/application?embed=true) · software-engineering · —
 - **AcreTrader** — [Data Intern](https://ats.rippling.com/acretrader-jobs/jobs/e0192aa0-bd65-4262-81ed-d64685c7dc41) · software-engineering · —
@@ -19,6 +19,7 @@
 - **Arkema Global** — [Manufacturing Data Systems Intern](https://jobs.arkema.com/job/Radnor-Manufacturing-Data-Systems-Intern-Job-PA/1420491833/?ats=successfactors) · software-engineering · —
 - **Astera** — [Software Engineering Intern, Neuro & AGI](https://jobs.ashbyhq.com/astera/c2a48c1b-c4c4-4333-addf-313c47e26066) · software-engineering · —
 - **Black Cape** — [Software Engineer Intern](https://blackcape.applytojob.com/apply/7o6mmAYryt/US-Military-Skillbridge-Internship-Software-EngineerArlington-VA) · software-engineering · —
+- **Boeing** — [Data Analytics Intern](https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/details/Boeing-Summer-2027-Internship-Program--Paid----Data-Analytics-Intern_JR2026520976-1?q=JR2026520976) · software-engineering · —
 - **Bosch Home Comfort** — [Artificial Intelligence and Software Development Engineering Intern](https://jobs.smartrecruiters.com/BoschGroup/744000141302469) · ai · —
 - **Bosch Home Comfort** — [Autonomous Driving Intern](https://jobs.smartrecruiters.com/BoschGroup/744000140462550) · software-engineering · —
 - **Bosch Home Comfort** — [Product Management Intern](https://jobs.smartrecruiters.com/BoschGroup/744000140457960) · product · —
@@ -232,15 +233,18 @@
 - **TikTok** — [Backend Software Engineer Intern](https://lifeattiktok.com/search/7667935565120112949) · software-engineering · —
 - **TikTok** — [Backend Software Engineer Intern](https://lifeattiktok.com/search/7667933770819897605) · software-engineering · —
 - **TikTok** — [Backend Software Engineer Intern](https://lifeattiktok.com/search/7667933335084124469) · software-engineering · —
+- **TikTok** — [Backend Software Engineer Intern - Creation Platform](https://lifeattiktok.com/search/7670289874020993285) · software-engineering · —
 - **TikTok** — [Backend Software Engineer Intern - Digital Content Center](https://lifeattiktok.com/search/7667934302872537397) · software-engineering · —
 - **TikTok** — [Backend Software Engineer Intern - Global E-Commerce](https://lifeattiktok.com/search/7668834837268416821) · software-engineering · —
 - **TikTok** — [Backend Software Engineer Intern - Global E-Commerce](https://lifeattiktok.com/search/7668834837268138293) · software-engineering · —
 - **TikTok** — [Backend Software Engineer Intern - Innovative Growth](https://lifeattiktok.com/search/7667934860750063925) · software-engineering · —
 - **TikTok** — [Backend Software Engineer Intern - LIVE Foundation Governance Engineering](https://lifeattiktok.com/search/7667935150530840837) · software-engineering · —
 - **TikTok** — [Backend Software Engineer Intern - Product Infrastructure](https://lifeattiktok.com/search/7667935633764370741) · cloud · —
+- **TikTok** — [Data Engineer Intern - Ads Targeting](https://lifeattiktok.com/search/7668533140146817333) · data-engineering · —
 - **TikTok** — [Data Science Intern - Integrity and Safety](https://lifeattiktok.com/search/7669682935444900149) · data-science · —
 - **TikTok** — [Data Science Intern - TikTok Live](https://lifeattiktok.com/search/7669700822370945333) · data-science · —
 - **TikTok** — [Data Science Intern - TikTok Product](https://lifeattiktok.com/search/7669683639101884725) · data-science · —
+- **TikTok** — [Data Scientist Intern - VOD Data](https://lifeattiktok.com/search/7670287013157095733) · data-science · —
 - **TikTok** — [Efficiency Analyst/Methodologist Project Intern - Content Operations - Tiktok-Operations-Operations Efficiency](https://lifeattiktok.com/search/7667613782697232693) · software-engineering · —
 - **TikTok** — [Frontend Engineer Intern - Global CRM](https://lifeattiktok.com/search/7669711026846058757) · software-engineering · —
 - **TikTok** — [Frontend Engineer Intern - Open Platform](https://lifeattiktok.com/search/7667935739300792629) · software-engineering · —
@@ -265,6 +269,7 @@
 - **TikTok** — [Machine Learning Engineer Intern - Performance Monetization](https://lifeattiktok.com/search/7669693205558561077) · machine-learning · —
 - **TikTok** — [Machine Learning Engineer Intern - Performance Monetization](https://lifeattiktok.com/search/7669693163422845237) · machine-learning · —
 - **TikTok** — [Machine Learning Engineer Intern - Recommendation](https://lifeattiktok.com/search/7662653087863081221) · machine-learning · —
+- **TikTok** — [Machine Learning Engineer Intern - Search](https://lifeattiktok.com/search/7668396597746862341) · machine-learning · —
 - **TikTok** — [Machine Learning Engineer Intern - Search Ads](https://lifeattiktok.com/search/7669698648817305909) · machine-learning · —
 - **TikTok** — [Machine Learning Engineer Intern - Search Quality](https://lifeattiktok.com/search/7665475460339665157) · machine-learning · —
 - **TikTok** — [Machine Learning Engineer Intern - Tiktok-Data-Search-Search Quality](https://lifeattiktok.com/search/7667690418804902149) · machine-learning · —

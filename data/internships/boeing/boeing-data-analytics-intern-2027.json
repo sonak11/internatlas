@@ -1,0 +1,197 @@
+{
+  "schema_version": "1.0",
+  "id": "boeing-data-analytics-intern-2027",
+  "company": {
+    "name": "Boeing",
+    "slug": "boeing"
+  },
+  "role": "Data Analytics Intern",
+  "category": "software-engineering",
+  "apply_url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/details/Boeing-Summer-2027-Internship-Program--Paid----Data-Analytics-Intern_JR2026520976-1?q=JR2026520976",
+  "season": "summer",
+  "year": 2027,
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "Everett",
+      "state": "WA",
+      "country": "USA"
+    },
+    {
+      "city": "Saint Charles",
+      "state": "MO",
+      "country": "USA"
+    },
+    {
+      "city": "Huntsville",
+      "state": "AL",
+      "country": "USA"
+    },
+    {
+      "city": "Charleston",
+      "state": "SC",
+      "country": "USA"
+    },
+    {
+      "city": "Oklahoma City",
+      "state": "OK",
+      "country": "USA"
+    },
+    {
+      "city": "Berkeley",
+      "state": "MO",
+      "country": "USA"
+    },
+    {
+      "city": "Huntington Beach",
+      "state": "CA",
+      "country": "USA"
+    },
+    {
+      "city": "Hazelwood",
+      "state": "MO",
+      "country": "USA"
+    },
+    {
+      "city": "El Segundo",
+      "state": "CA",
+      "country": "USA"
+    },
+    {
+      "city": "Herndon",
+      "state": "VA",
+      "country": "USA"
+    },
+    {
+      "city": "Plano",
+      "state": "TX",
+      "country": "USA"
+    },
+    {
+      "city": "Arlington",
+      "state": "VA",
+      "country": "USA"
+    },
+    {
+      "city": "Ridley Park",
+      "state": "PA",
+      "country": "USA"
+    },
+    {
+      "city": "Tukwila",
+      "state": "WA",
+      "country": "USA"
+    },
+    {
+      "city": "North Charleston",
+      "state": "SC",
+      "country": "USA"
+    },
+    {
+      "city": "Fairfax",
+      "state": "VA",
+      "country": "USA"
+    },
+    {
+      "city": "Colorado Springs",
+      "state": "CO",
+      "country": "USA"
+    },
+    {
+      "city": "Chicago",
+      "state": "IL",
+      "country": "USA"
+    },
+    {
+      "city": "Seal Beach",
+      "state": "CA",
+      "country": "USA"
+    },
+    {
+      "city": "Mukilteo",
+      "state": "WA",
+      "country": "USA"
+    },
+    {
+      "city": "Long Beach",
+      "state": "CA",
+      "country": "USA"
+    },
+    {
+      "city": "Atlanta",
+      "state": "GA",
+      "country": "USA"
+    },
+    {
+      "city": "Renton",
+      "state": "WA",
+      "country": "USA"
+    },
+    {
+      "city": "Dallas",
+      "state": "TX",
+      "country": "USA"
+    },
+    {
+      "city": "Seattle",
+      "state": "WA",
+      "country": "USA"
+    },
+    {
+      "city": "Auburn",
+      "state": "WA",
+      "country": "USA"
+    },
+    {
+      "city": "Bellevue",
+      "state": "WA",
+      "country": "USA"
+    },
+    {
+      "city": "San Antonio",
+      "state": "TX",
+      "country": "USA"
+    },
+    {
+      "city": "Kent",
+      "state": "WA",
+      "country": "USA"
+    },
+    {
+      "city": "Mesa",
+      "state": "AZ",
+      "country": "USA"
+    }
+  ],
+  "compensation": {
+    "currency": "USD",
+    "housing_stipend": false,
+    "relocation_assistance": false
+  },
+  "eligibility": {
+    "graduation_years": [],
+    "degree_levels": [],
+    "citizenship_required": false,
+    "security_clearance_required": false,
+    "visa_sponsorship": "no"
+  },
+  "interview": {},
+  "tech": {
+    "required_skills": [],
+    "preferred_skills": [],
+    "languages": [],
+    "frameworks": [],
+    "cloud_platforms": [],
+    "resume_keywords": []
+  },
+  "dates": {
+    "posted": "2026-08-05",
+    "discovered": "2026-08-05",
+    "last_verified": "2026-08-05"
+  },
+  "status": "open",
+  "tags": [
+    "auto-ingested",
+    "src:vanshb03"
+  ]
+}

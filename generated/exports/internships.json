@@ -1,6 +1,6 @@
 {
   "generated": "2026-08-05",
-  "count": 1439,
+  "count": 1444,
   "internships": [
     {
       "schema_version": "1.0",
@@ -8066,6 +8066,203 @@
         "last_verified": "2026-07-24"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "boeing-data-analytics-intern-2027",
+      "company": {
+        "name": "Boeing",
+        "slug": "boeing"
+      },
+      "role": "Data Analytics Intern",
+      "category": "software-engineering",
+      "apply_url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/details/Boeing-Summer-2027-Internship-Program--Paid----Data-Analytics-Intern_JR2026520976-1?q=JR2026520976",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Everett",
+          "state": "WA",
+          "country": "USA"
+        },
+        {
+          "city": "Saint Charles",
+          "state": "MO",
+          "country": "USA"
+        },
+        {
+          "city": "Huntsville",
+          "state": "AL",
+          "country": "USA"
+        },
+        {
+          "city": "Charleston",
+          "state": "SC",
+          "country": "USA"
+        },
+        {
+          "city": "Oklahoma City",
+          "state": "OK",
+          "country": "USA"
+        },
+        {
+          "city": "Berkeley",
+          "state": "MO",
+          "country": "USA"
+        },
+        {
+          "city": "Huntington Beach",
+          "state": "CA",
+          "country": "USA"
+        },
+        {
+          "city": "Hazelwood",
+          "state": "MO",
+          "country": "USA"
+        },
+        {
+          "city": "El Segundo",
+          "state": "CA",
+          "country": "USA"
+        },
+        {
+          "city": "Herndon",
+          "state": "VA",
+          "country": "USA"
+        },
+        {
+          "city": "Plano",
+          "state": "TX",
+          "country": "USA"
+        },
+        {
+          "city": "Arlington",
+          "state": "VA",
+          "country": "USA"
+        },
+        {
+          "city": "Ridley Park",
+          "state": "PA",
+          "country": "USA"
+        },
+        {
+          "city": "Tukwila",
+          "state": "WA",
+          "country": "USA"
+        },
+        {
+          "city": "North Charleston",
+          "state": "SC",
+          "country": "USA"
+        },
+        {
+          "city": "Fairfax",
+          "state": "VA",
+          "country": "USA"
+        },
+        {
+          "city": "Colorado Springs",
+          "state": "CO",
+          "country": "USA"
+        },
+        {
+          "city": "Chicago",
+          "state": "IL",
+          "country": "USA"
+        },
+        {
+          "city": "Seal Beach",
+          "state": "CA",
+          "country": "USA"
+        },
+        {
+          "city": "Mukilteo",
+          "state": "WA",
+          "country": "USA"
+        },
+        {
+          "city": "Long Beach",
+          "state": "CA",
+          "country": "USA"
+        },
+        {
+          "city": "Atlanta",
+          "state": "GA",
+          "country": "USA"
+        },
+        {
+          "city": "Renton",
+          "state": "WA",
+          "country": "USA"
+        },
+        {
+          "city": "Dallas",
+          "state": "TX",
+          "country": "USA"
+        },
+        {
+          "city": "Seattle",
+          "state": "WA",
+          "country": "USA"
+        },
+        {
+          "city": "Auburn",
+          "state": "WA",
+          "country": "USA"
+        },
+        {
+          "city": "Bellevue",
+          "state": "WA",
+          "country": "USA"
+        },
+        {
+          "city": "San Antonio",
+          "state": "TX",
+          "country": "USA"
+        },
+        {
+          "city": "Kent",
+          "state": "WA",
+          "country": "USA"
+        },
+        {
+          "city": "Mesa",
+          "state": "AZ",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "no"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-05",
+        "discovered": "2026-08-05",
+        "last_verified": "2026-08-05"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -38192,7 +38389,7 @@
         "discovered": "2026-08-01",
         "last_verified": "2026-08-05"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -67643,6 +67840,60 @@
     },
     {
       "schema_version": "1.0",
+      "id": "tiktok-backend-software-engineer-intern-creation-platform-2027",
+      "company": {
+        "name": "TikTok",
+        "slug": "tiktok"
+      },
+      "role": "Backend Software Engineer Intern - Creation Platform",
+      "category": "software-engineering",
+      "apply_url": "https://lifeattiktok.com/search/7670289874020993285",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-05",
+        "discovered": "2026-08-05",
+        "last_verified": "2026-08-05"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "tiktok-backend-software-engineer-intern-digital-content-center-2027",
       "company": {
         "name": "TikTok",
@@ -68019,6 +68270,60 @@
     },
     {
       "schema_version": "1.0",
+      "id": "tiktok-data-engineer-intern-ads-targeting-2027",
+      "company": {
+        "name": "TikTok",
+        "slug": "tiktok"
+      },
+      "role": "Data Engineer Intern - Ads Targeting",
+      "category": "data-engineering",
+      "apply_url": "https://lifeattiktok.com/search/7668533140146817333",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-05",
+        "discovered": "2026-08-05",
+        "last_verified": "2026-08-05"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "tiktok-data-science-intern-integrity-and-safety-2027",
       "company": {
         "name": "TikTok",
@@ -68135,6 +68440,60 @@
       "role": "Data Science Intern - TikTok Product",
       "category": "data-science",
       "apply_url": "https://lifeattiktok.com/search/7669683639101884725",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-05",
+        "discovered": "2026-08-05",
+        "last_verified": "2026-08-05"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "tiktok-data-scientist-intern-vod-data-2027",
+      "company": {
+        "name": "TikTok",
+        "slug": "tiktok"
+      },
+      "role": "Data Scientist Intern - VOD Data",
+      "category": "data-science",
+      "apply_url": "https://lifeattiktok.com/search/7670287013157095733",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
@@ -69721,6 +70080,60 @@
       "dates": {
         "posted": "2026-08-03",
         "discovered": "2026-08-03",
+        "last_verified": "2026-08-05"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "tiktok-machine-learning-engineer-intern-search-2027",
+      "company": {
+        "name": "TikTok",
+        "slug": "tiktok"
+      },
+      "role": "Machine Learning Engineer Intern - Search",
+      "category": "machine-learning",
+      "apply_url": "https://lifeattiktok.com/search/7668396597746862341",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Seattle",
+          "state": "WA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-05",
+        "discovered": "2026-08-05",
         "last_verified": "2026-08-05"
       },
       "status": "open",
