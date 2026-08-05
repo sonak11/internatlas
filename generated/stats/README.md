@@ -194,6 +194,7 @@ _Generated 2026-08-05_
 - Intel Corporation — AI Software Engineering PhD Intern
 - JINGDONG — Software Engineering Intern
 - JP Morgan Chase — Data & AI Intern - Analyst
+- JP Morgan Chase — Data Internship - Data & AI Program
 - Jump Trading — Campus Quantitative Researcher Intern
 - KBR — National Security Solutions Intern - Nss
 - Keysight Technologies — R&D Software Engineer Intern

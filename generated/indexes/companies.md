@@ -247,7 +247,7 @@
 | [International Rescue Committee (IRC)](../companies/international-rescue-committee-irc.md) | 2/2 | research, software-engineering |
 | [Intuitive Surgical](../companies/intuitive-surgical.md) | 1/1 | software-engineering |
 | [JINGDONG](../companies/jingdong.md) | 0/1 | software-engineering |
-| [JP Morgan Chase](../companies/jp-morgan-chase.md) | 6/7 | ai, quant, software-engineering |
+| [JP Morgan Chase](../companies/jp-morgan-chase.md) | 5/7 | ai, quant, software-engineering |
 | [Jane Street](../companies/jane-street.md) | 17/17 | data-engineering, hardware, machine-learning, quant, research, security, software-engineering |
 | [Jump Trading](../companies/jump-trading.md) | 42/43 | ai, data-engineering, design, hardware, machine-learning, quant, research |
 | [Junior AI](../companies/junior-ai.md) | 1/1 | software-engineering |
