@@ -33,11 +33,11 @@ _Generated 2026-08-05_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 724 | `█████████████` |
+| software-engineering | 728 | `█████████████` |
 | quant | 143 | `██` |
 | ai | 138 | `██` |
 | machine-learning | 100 | `██` |
-| research | 79 | `█` |
+| research | 80 | `█` |
 | hardware | 73 | `█` |
 | embedded | 44 | `█` |
 | product | 35 | `█` |
@@ -50,7 +50,11 @@ _Generated 2026-08-05_
 ## Newest listings
 
 - 2026-08-05 — **Boeing**: [Data Analytics Intern](https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/details/Boeing-Summer-2027-Internship-Program--Paid----Data-Analytics-Intern_JR2026520976-1?q=JR2026520976)
+- 2026-08-05 — **General Dynamics Information Technology**: [Software Developer Intern](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Summer-2027-Software-Developer-Internship_RQ225450-1)
+- 2026-08-05 — **Maven Securities**: [Trader Intern](https://job-boards.greenhouse.io/emergingtalent/jobs/8051938)
+- 2026-08-05 — **Maven Securities**: [Trader Intern - Summer](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8051937)
 - 2026-08-05 — **Skydio**: [Hardware Test & Reliability Intern](https://jobs.ashbyhq.com/skydio/d75d4adf-760c-46b6-bb98-3497650a8924/application?embed=true)
+- 2026-08-05 — **Swift**: [Industry Engagement Research Analyst Intern](https://swift.wd3.myworkdayjobs.com/join-swift/job/London-United-Kingdom/Industry-Engagement---Intern-Research-Analyst_2026-16321)
 - 2026-08-05 — **Tacit**: [Radio Frequency Hardware Intern - Fall 2026](https://jobs.ashbyhq.com/tacit/d001e2d9-90af-4d0b-bc97-fd6fa149ad19/application?embed=true)
 - 2026-08-05 — **TikTok**: [Backend Software Engineer Intern - Creation Platform](https://lifeattiktok.com/search/7670289874020993285)
 - 2026-08-05 — **TikTok**: [Data Engineer Intern - Ads Targeting](https://lifeattiktok.com/search/7668533140146817333)
@@ -59,16 +63,12 @@ _Generated 2026-08-05_
 - 2026-08-05 — **TikTok**: [Machine Learning Engineer Intern - Data-Global E-Commerce-Search](https://lifeattiktok.com/search/7668415591670417717)
 - 2026-08-05 — **TikTok**: [Machine Learning Engineer Intern - Search](https://lifeattiktok.com/search/7668396597746862341)
 - 2026-08-05 — **TikTok**: [Product Operations Intern - Apps and API](https://lifeattiktok.com/search/7669927344569764101)
+- 2026-08-05 — **US Acute Care Solutions**: [People Analytics Intern](https://usacs.wd1.myworkdayjobs.com/usacscareers/job/Virtual-OH/People-Analytics-Intern_R0002363)
 - 2026-08-05 — **Valstad**: [Robotics Software Intern - Manipulation & Simulation](https://jobs.ashbyhq.com/valstad/8478558b-c5b5-43d2-b9c0-eae7a1fb30d8/application?embed=true)
 - 2026-08-05 — **Valstad**: [Software Engineer Intern - 3D & Manufacturing Applications](https://jobs.ashbyhq.com/valstad/7ff6d452-969f-43a6-9127-d153025e6aea/application?embed=true)
 - 2026-08-04 — **American Express**: [Product Development Intern - US Consumer Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012174)
 - 2026-08-04 — **American Express**: [Product Innovation Intern - Credit & Fraud Risk](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011994)
 - 2026-08-04 — **American Express**: [Product Management Intern](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011916)
-- 2026-08-04 — **ByteDance**: [Software Engineer Intern, AI Platform](https://joinbytedance.com/search/7668212952030841093)
-- 2026-08-04 — **ByteDance**: [Software Engineer Intern - AI Platform](https://jobs.bytedance.com/en/position/7668212952030841093/detail)
-- 2026-08-04 — **ByteDance**: [Software Engineer Intern, Distributed NoSQL Database Systems](https://joinbytedance.com/search/7668373268886161669)
-- 2026-08-04 — **ByteDance**: [Software Engineer Intern, Distributed NoSQL Database Systems](https://joinbytedance.com/search/7668374190764050741)
-- 2026-08-04 — **Cloudflare**: [GRC Team Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8095533?gh_jid=8095533)
 
 ## Recently closed
 
@@ -102,6 +102,7 @@ _Generated 2026-08-05_
 - Axogen — AI/ML Engineer Intern
 - Bank of Montreal — Data and AI Operations Analyst Co-op/Internship - Cloud
 - Bank of Montreal — Data and AI Operations Analyst Co-op/Internship - Cloud
+- Bank of Montreal — Data and AI Operations Analyst Intern/Co-op - Cloud - 8 months
 - Bank of Montreal — Market Risk Analyst Co-op/Intern
 - BDO Canada — Data & Analytics Co-op/Intern - Data & Analytics
 - BMO — Machine Learning Intern
@@ -120,6 +121,7 @@ _Generated 2026-08-05_
 - Center for AI Safety — Research Engineer Intern
 - Ciena — Embedded Software Engineer Intern
 - Ciena — Embedded Software Engineer Intern
+- Ciena — Photonic Hardware Intern
 - Ciena — Routing/IP Software Developer Intern
 - Ciena — Software Engineer and Tools Developer Intern
 - City of Austin — Austin Aviation Undergraduate Intern - IT Business Systems Analyst

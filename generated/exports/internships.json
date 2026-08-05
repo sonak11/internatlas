@@ -1,6 +1,6 @@
 {
   "generated": "2026-08-05",
-  "count": 1444,
+  "count": 1449,
   "internships": [
     {
       "schema_version": "1.0",
@@ -7244,7 +7244,7 @@
         "discovered": "2026-07-28",
         "last_verified": "2026-08-05"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -12687,7 +12687,7 @@
         "discovered": "2026-07-20",
         "last_verified": "2026-08-05"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -23992,7 +23992,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "general-dynamics-information-technology-software-developer-intern-2027",
+      "id": "general-dynamics-information-technology-software-developer-intern-2027-bb27a2",
       "company": {
         "name": "General Dynamics Information Technology",
         "slug": "general-dynamics-information-technology"
@@ -24033,6 +24033,58 @@
       },
       "dates": {
         "posted": "2026-08-04",
+        "discovered": "2026-08-05",
+        "last_verified": "2026-08-05"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "general-dynamics-information-technology-software-developer-intern-2027",
+      "company": {
+        "name": "General Dynamics Information Technology",
+        "slug": "general-dynamics-information-technology"
+      },
+      "role": "Software Developer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Summer-2027-Software-Developer-Internship_RQ225450-1",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Annapolis Junction",
+          "state": "MD",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-05",
         "discovered": "2026-08-05",
         "last_verified": "2026-08-05"
       },
@@ -36198,6 +36250,114 @@
       "dates": {
         "posted": "2026-07-31",
         "discovered": "2026-08-01",
+        "last_verified": "2026-08-05"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "maven-securities-trader-intern-2027",
+      "company": {
+        "name": "Maven Securities",
+        "slug": "maven-securities"
+      },
+      "role": "Trader Intern",
+      "category": "software-engineering",
+      "apply_url": "https://job-boards.greenhouse.io/emergingtalent/jobs/8051938",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Chicago",
+          "state": "IL",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-05",
+        "discovered": "2026-08-05",
+        "last_verified": "2026-08-05"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "maven-securities-trader-intern-summer-2027",
+      "company": {
+        "name": "Maven Securities",
+        "slug": "maven-securities"
+      },
+      "role": "Trader Intern - Summer",
+      "category": "software-engineering",
+      "apply_url": "https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8051937",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Chicago",
+          "state": "IL",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-05",
+        "discovered": "2026-08-05",
         "last_verified": "2026-08-05"
       },
       "status": "open",
@@ -53059,14 +53219,19 @@
       },
       "role": "Software Engineer Intern",
       "category": "software-engineering",
-      "apply_url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Software-Engineering-Intern--Summer-2027-_01863072",
+      "apply_url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CA-FULLERTON-675--1801-Hughes-Dr--BLDG-675/Software-Engineering-Intern--Summer-2027-_01863012",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
       "locations": [
         {
-          "city": "McKinney",
-          "state": "TX",
+          "city": "Anaheim",
+          "state": "CA",
+          "country": "USA"
+        },
+        {
+          "city": "Fullerton",
+          "state": "CA",
           "country": "USA"
         }
       ],
@@ -53106,21 +53271,21 @@
     },
     {
       "schema_version": "1.0",
-      "id": "rtx-software-engineer-intern-fleet-health-instrumentation-2027",
+      "id": "rtx-software-engineer-intern-fleet-health-instrumentation-2027-4f3153",
       "company": {
         "name": "RTX",
         "slug": "rtx"
       },
       "role": "Software Engineer Intern, Fleet Health Instrumentation",
       "category": "software-engineering",
-      "apply_url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CA-FULLERTON-675--1801-Hughes-Dr--BLDG-675/Software-Engineering-Intern--Summer-2027-_01863012",
+      "apply_url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Software-Engineering-Intern--Summer-2027-_01863072",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
       "locations": [
         {
-          "city": "Fullerton",
-          "state": "CA",
+          "city": "McKinney",
+          "state": "TX",
           "country": "USA"
         }
       ],
@@ -59649,6 +59814,57 @@
       "tags": [
         "auto-ingested",
         "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "swift-industry-engagement-research-analyst-intern-2026",
+      "company": {
+        "name": "Swift",
+        "slug": "swift"
+      },
+      "role": "Industry Engagement Research Analyst Intern",
+      "category": "research",
+      "apply_url": "https://swift.wd3.myworkdayjobs.com/join-swift/job/London-United-Kingdom/Industry-Engagement---Intern-Research-Analyst_2026-16321",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "London",
+          "country": "UK"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-05",
+        "discovered": "2026-08-05",
+        "last_verified": "2026-08-05"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
       ]
     },
     {
@@ -75024,6 +75240,58 @@
       "tags": [
         "auto-ingested",
         "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "us-acute-care-solutions-people-analytics-intern-2026",
+      "company": {
+        "name": "US Acute Care Solutions",
+        "slug": "us-acute-care-solutions"
+      },
+      "role": "People Analytics Intern",
+      "category": "software-engineering",
+      "apply_url": "https://usacs.wd1.myworkdayjobs.com/usacscareers/job/Virtual-OH/People-Analytics-Intern_R0002363",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Ohio",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-05",
+        "discovered": "2026-08-05",
+        "last_verified": "2026-08-05"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify",
+        "remote-available"
       ]
     },
     {

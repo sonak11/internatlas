@@ -1,20 +1,19 @@
 {
   "schema_version": "1.0",
-  "id": "general-dynamics-information-technology-software-developer-intern-2027",
+  "id": "us-acute-care-solutions-people-analytics-intern-2026",
   "company": {
-    "name": "General Dynamics Information Technology",
-    "slug": "general-dynamics-information-technology"
+    "name": "US Acute Care Solutions",
+    "slug": "us-acute-care-solutions"
   },
-  "role": "Software Developer Intern",
+  "role": "People Analytics Intern",
   "category": "software-engineering",
-  "apply_url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Summer-2027-Software-Developer-Internship_RQ225450-1",
-  "season": "summer",
-  "year": 2027,
+  "apply_url": "https://usacs.wd1.myworkdayjobs.com/usacscareers/job/Virtual-OH/People-Analytics-Intern_R0002363",
+  "season": "fall",
+  "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Annapolis Junction",
-      "state": "MD",
+      "city": "Ohio",
       "country": "USA"
     }
   ],
@@ -47,6 +46,7 @@
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:simplify",
+    "remote-available"
   ]
 }

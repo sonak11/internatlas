@@ -1,21 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "rtx-software-engineer-intern-fleet-health-instrumentation-2027",
+  "id": "swift-industry-engagement-research-analyst-intern-2026",
   "company": {
-    "name": "RTX",
-    "slug": "rtx"
+    "name": "Swift",
+    "slug": "swift"
   },
-  "role": "Software Engineer Intern, Fleet Health Instrumentation",
-  "category": "software-engineering",
-  "apply_url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CA-FULLERTON-675--1801-Hughes-Dr--BLDG-675/Software-Engineering-Intern--Summer-2027-_01863012",
-  "season": "summer",
-  "year": 2027,
+  "role": "Industry Engagement Research Analyst Intern",
+  "category": "research",
+  "apply_url": "https://swift.wd3.myworkdayjobs.com/join-swift/job/London-United-Kingdom/Industry-Engagement---Intern-Research-Analyst_2026-16321",
+  "season": "fall",
+  "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Fullerton",
-      "state": "CA",
-      "country": "USA"
+      "city": "London",
+      "country": "UK"
     }
   ],
   "compensation": {
@@ -26,9 +25,9 @@
   "eligibility": {
     "graduation_years": [],
     "degree_levels": [],
-    "citizenship_required": true,
+    "citizenship_required": false,
     "security_clearance_required": false,
-    "visa_sponsorship": "no"
+    "visa_sponsorship": "unknown"
   },
   "interview": {},
   "tech": {
@@ -40,13 +39,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-04",
+    "posted": "2026-08-05",
     "discovered": "2026-08-05",
     "last_verified": "2026-08-05"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:vanshb03"
+    "src:simplify"
   ]
 }
