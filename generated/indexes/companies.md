@@ -98,7 +98,7 @@
 | [Carnegie Mellon University](../companies/carnegie-mellon-university.md) | 0/1 | research |
 | [Castleton Commodities International](../companies/castleton-commodities-international.md) | 8/8 | data-engineering, machine-learning, quant, software-engineering |
 | [Center for AI Safety](../companies/center-for-ai-safety.md) | 0/1 | research |
-| [Centerfield](../companies/centerfield.md) | 1/1 | product |
+| [Centerfield](../companies/centerfield.md) | 0/1 | product |
 | [Centerstone](../companies/centerstone.md) | 1/1 | software-engineering |
 | [Chanel](../companies/chanel.md) | 1/1 | software-engineering |
 | [Chevron Corporation](../companies/chevron-corporation.md) | 4/6 | quant, software-engineering |

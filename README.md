@@ -8,7 +8,7 @@
 
 No dead links, no generic careers pages. Just current openings, newest first, with the date each one was posted.
 
-![summer 2027](https://img.shields.io/badge/summer%202027-535-blue?style=for-the-badge) ![open now](https://img.shields.io/badge/open%20now-473-brightgreen?style=for-the-badge) ![companies](https://img.shields.io/badge/companies-525-purple?style=for-the-badge) ![visa sponsors](https://img.shields.io/badge/visa%20sponsors-23-orange?style=for-the-badge) ![remote roles](https://img.shields.io/badge/remote%20roles-35-teal?style=for-the-badge) ![sync](https://img.shields.io/badge/sync-hourly-success?style=for-the-badge) ![updated](https://img.shields.io/badge/updated-2026--08--05%207:07%20PM%20EDT-lightgrey?style=for-the-badge)
+![summer 2027](https://img.shields.io/badge/summer%202027-535-blue?style=for-the-badge) ![open now](https://img.shields.io/badge/open%20now-473-brightgreen?style=for-the-badge) ![companies](https://img.shields.io/badge/companies-525-purple?style=for-the-badge) ![visa sponsors](https://img.shields.io/badge/visa%20sponsors-23-orange?style=for-the-badge) ![remote roles](https://img.shields.io/badge/remote%20roles-35-teal?style=for-the-badge) ![sync](https://img.shields.io/badge/sync-hourly-success?style=for-the-badge) ![updated](https://img.shields.io/badge/updated-2026--08--05%208:08%20PM%20EDT-lightgrey?style=for-the-badge)
 
 [**📋 Browse listings**](#-summer-2027-internships) · [**🗓 Other terms**](#-other-open-terms) · [**➕ Add one**](CONTRIBUTING.md) · [**🔗 Sources**](SOURCES.md)
 
@@ -637,7 +637,7 @@ No dead links, no generic careers pages. Just current openings, newest first, wi
 <details>
 <summary><b>Show other open terms (929)</b></summary>
 
-### 🍂 Fall 2026 (845 · 589 open)
+### 🍂 Fall 2026 (845 · 588 open)
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
@@ -1074,7 +1074,6 @@ No dead links, no generic careers pages. Just current openings, newest first, wi
 | [ASM Global](generated/companies/asm-global.md) | [Digital Workplace Experience Intern](https://asmglobal.wd1.myworkdayjobs.com/careers/job/West-Conshohocken-PA/Digital-Workplace-Experience-Intern_R100122151) | Frisco, TX +1 | Onsite | 2026-06-13 | Rolling | 🟢 Open | ❔ |
 | [Marvell](generated/companies/marvell.md) | [Analog Engineer Intern](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Vancouver-Canada/Analog-Engineer-Intern---PhD_2502424) | Vancouver | Onsite | 2026-06-13 | Rolling | 🟢 Open | ❔ |
 | [UMB](generated/companies/umb.md) | [IT Blockchain Intern](https://umb.wd1.myworkdayjobs.com/UMBExternal/job/Kansas-City-MO/IT-Blockchain-Intern_R-8444) | Kansas City, MO | Onsite | 2026-06-13 | Rolling | 🟢 Open | ❔ |
-| [Centerfield](generated/companies/centerfield.md) | [Product Manager Intern](https://jobs.ashbyhq.com/centerfield/92a124aa-9efd-4dbd-90f1-6319be7706b2/application?embed=true) | LA | Onsite | 2026-06-12 | Rolling | 🟢 Open | ❔ |
 | [General Motors](generated/companies/general-motors.md) | [Research and Development Intern - Research & Development: AI/ML](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2026-Fall-Intern---Research---Development--AI-ML_JR-202612795) | Mountain View, CA +1 | Onsite | 2026-06-12 | Rolling | 🟢 Open | ❔ |
 | [Synchrony Financial](generated/companies/synchrony-financial.md) | [Digital Technology Center Intern](https://synchronyfinancial.wd5.myworkdayjobs.com/University/job/Stamford-Hub/UConn-Stamford-Digital-Technology-Center-Intern---Fall-2026_2601749-1) | Stamford, CT | Onsite | 2026-06-12 | Rolling | 🟢 Open | ❔ |
 | [Synchrony Financial](generated/companies/synchrony-financial.md) | [Emerging Technology Intern](https://synchronyfinancial.wd5.myworkdayjobs.com/University/job/University-of-Illinois-Hub/Emerging-Technology-Intern---Fall-2026_2601747-1) | Urbana, IL | Onsite | 2026-06-12 | Rolling | 🟢 Open | ❔ |
@@ -1410,6 +1409,7 @@ No dead links, no generic careers pages. Just current openings, newest first, wi
 | [Tesla](generated/companies/tesla.md) | [Embedded Software Engineer Intern - Embedded Software Engineer - Steering,Chassis Systems](https://www.tesla.com/careers/search/job/274047) | Palo Alto, CA | Onsite | 2026-06-16 | Rolling | 🔴 Closed | ❔ |
 | [Pennsylvania State University](generated/companies/pennsylvania-state-university.md) | [Research and Development Engineer Intern](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Freeport-PA/Research-and-Development-Engineering-Intern_REQ_0000064925-1) | Tarentum, PA | Onsite | 2026-06-13 | Rolling | 🔴 Closed | ❔ |
 | [Tencent](generated/companies/tencent.md) | [Research Intern](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-Washington-Bellevue/Research-Internship---Reinforcement-Learning-for-Large-Foundation-Models_R106337-1) | Bellevue, WA | Onsite | 2026-06-13 | Rolling | 🔴 Closed | ❔ |
+| [Centerfield](generated/companies/centerfield.md) | [Product Manager Intern](https://jobs.ashbyhq.com/centerfield/92a124aa-9efd-4dbd-90f1-6319be7706b2/application?embed=true) | LA | Onsite | 2026-06-12 | Rolling | 🔴 Closed | ❔ |
 | [Ciena](generated/companies/ciena.md) | [Software Engineer and Tools Developer Intern](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Engineer-and-Tools-Developer-Intern--Fall-2026-_R028752) | Ottawa | Onsite | 2026-06-12 | Rolling | 🔴 Closed | ❔ |
 | [Together AI](generated/companies/together-ai.md) | [Research Intern - Inference](https://job-boards.greenhouse.io/togetherai/jobs/5157759007) | SF | Onsite | 2026-06-12 | Rolling | 🔴 Closed | ❔ |
 | [AMAROK Security](generated/companies/amarok-security.md) | [Research and Development Intern](https://job-boards.greenhouse.io/amarok/jobs/6018661004) | Columbia, SC | Onsite | 2026-06-11 | Rolling | 🔴 Closed | ❔ |
