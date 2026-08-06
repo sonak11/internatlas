@@ -11,9 +11,9 @@ _Generated 2026-08-06_
 | TikTok | 107 |
 | Tesla | 105 |
 | Jump Trading | 43 |
-| ByteDance | 27 |
+| ByteDance | 30 |
 | Cloudflare | 27 |
-| SpaceX | 24 |
+| SpaceX | 25 |
 | Susquehanna International Group (SIG) | 22 |
 | IMC Trading | 20 |
 | Neuralink | 20 |
@@ -33,11 +33,11 @@ _Generated 2026-08-06_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 742 | `████████████` |
-| ai | 146 | `██` |
+| software-engineering | 753 | `█████████████` |
+| ai | 148 | `██` |
 | quant | 145 | `██` |
-| machine-learning | 104 | `██` |
-| research | 82 | `█` |
+| machine-learning | 105 | `██` |
+| research | 84 | `█` |
 | hardware | 74 | `█` |
 | embedded | 44 | `█` |
 | product | 38 | `█` |
@@ -45,30 +45,30 @@ _Generated 2026-08-06_
 | design | 28 | `█` |
 | data-science | 22 | `█` |
 | data-engineering | 17 | `█` |
-| security | 10 | `█` |
+| security | 11 | `█` |
 
 ## Newest listings
 
 - 2026-08-06 — **ByteDance**: [AI/LLM Network Research Intern - High Speed Network](https://jobs.bytedance.com/en/position/7670281454740818181/detail)
 - 2026-08-06 — **ByteDance**: [AI/LLM Network Research Intern - High Speed Network - PhD](https://jobs.bytedance.com/en/position/7669969771686775045/detail)
+- 2026-08-06 — **ByteDance**: [AI Network Automation Engineer Intern, Global Physical Network Infra](https://joinbytedance.com/search/7670690923748870405)
 - 2026-08-06 — **ByteDance**: [AI Network Automation Engineer Intern - Global Physical Network Infrastructure](https://jobs.bytedance.com/en/position/7670690923748870405/detail)
+- 2026-08-06 — **ByteDance**: [Applied Machine Learning Production Engineer Intern](https://joinbytedance.com/search/7670009669494704437)
 - 2026-08-06 — **ByteDance**: [Applied Machine Learning Production Engineer Intern - AML Production Engineer](https://jobs.bytedance.com/en/position/7670009669494704437/detail)
 - 2026-08-06 — **ByteDance**: [ASIC Design Engineer Intern - Video Silicon IP](https://jobs.bytedance.com/en/position/7670332179383699717/detail)
+- 2026-08-06 — **ByteDance**: [GPU/AI Application System Software Engineer Intern](https://joinbytedance.com/search/7668464504736876853)
 - 2026-08-06 — **ByteDance**: [GPU/AI Application System Software Engineer Intern - System Technologies and Engineering](https://jobs.bytedance.com/en/position/7668464504736876853/detail)
 - 2026-08-06 — **ByteDance**: [Research Scientist Intern](https://jobs.bytedance.com/en/position/7670375041041320245/detail)
 - 2026-08-06 — **ByteDance**: [Research Scientist Intern - Multimedia Streaming](https://jobs.bytedance.com/en/position/7670354800621603125/detail)
 - 2026-08-06 — **ByteDance**: [Video/Image AI/ML Software Engineer Intern - Multimedia](https://jobs.bytedance.com/en/position/7670354329765464373/detail)
+- 2026-08-06 — **Canva**: [PhD Research Scientist Intern](https://jobs.smartrecruiters.com/Canva/6000000001291655-phd-research-scientist-intern)
+- 2026-08-06 — **Canva**: [PhD Research Scientist Intern](https://jobs.smartrecruiters.com/Canva/6000000001291655)
 - 2026-08-06 — **Canva**: [PhD Research Scientist Intern - Generative AI](https://jobs.smartrecruiters.com/Canva/6000000001289897)
-- 2026-08-06 — **Sargent & Lundy**: [AI & Automation Intern - Summer 2027](https://careers-sargentlundy.icims.com/jobs/25857/job?mobile=true&needsRedirect=false)
-- 2026-08-06 — **TikTok**: [LLM Post-training Engineer Intern - Research & Product](https://lifeattiktok.com/search/7670285031018432773)
-- 2026-08-06 — **TikTok**: [Machine Learning Engineer Intern - E-Commerce Recommendation/Search Alliance](https://lifeattiktok.com/search/7670247810111768837)
-- 2026-08-06 — **TikTok**: [Product Manager Intern - Product Infrastructure - Account](https://lifeattiktok.com/search/7670009830602721589)
-- 2026-08-06 — **TikTok**: [Product Operations Intern - TikTok Shop Apps and API - MBA](https://lifeattiktok.com/search/7668820702623467781)
-- 2026-08-06 — **TikTok**: [Software Engineer Intern - Foundation Platform](https://lifeattiktok.com/search/7670281449668905269)
-- 2026-08-06 — **TikTok**: [Software Engineer Intern - Media Engine](https://lifeattiktok.com/search/7670295535077427509)
-- 2026-08-06 — **TikTok**: [Strategy Product Manager Intern - Platform Responsibility](https://lifeattiktok.com/search/7670420287191517493)
-- 2026-08-05 — **American Express**: [Product Management Intern - Global Merchant & Network Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012152)
-- 2026-08-05 — **American Express**: [Product Management Intern - Global Merchant & Network Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012148)
+- 2026-08-06 — **CNO Financial Group**: [Cyber Security IT Intern](https://cnoinc.wd5.myworkdayjobs.com/careers/job/Carmel-IN/Cyber-Security-IT-Intern---REMOTE_JR170419?jr_id=6a70f504e2b7476e7b20bfd4)
+- 2026-08-06 — **Cohesity**: [Data Cleansing and Sales Enablement Analyst Intern](https://cohesity.wd5.myworkdayjobs.com/Cohesity_Careers/job/Cohesity---London/Data-Analyst--Intern--London_R04433)
+- 2026-08-06 — **impact.com**: [Associate Software Engineer Intern](https://job-boards.greenhouse.io/impact/jobs/8645964002)
+- 2026-08-06 — **KBR**: [Software Intern](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Houston-Texas/Software-Intern_R2127863)
+- 2026-08-06 — **Nokia**: [Electromechanical Assembly Co-op Intern - Intern](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39234)
 
 ## Recently closed
 
@@ -140,6 +140,7 @@ _Generated 2026-08-06_
 - Definity Financial — Data Analyst Co-op/Intern
 - Democratic Governors Association — Data and Coding Intern
 - Democratic National Committee — DNC Technology Intern
+- Desjardins Group — Data Intern
 - DiDi Global — Motion Planning Engineer Intern
 - Draper — Microsystems Integration Intern
 - DTCC — Product Management Intern
@@ -230,6 +231,7 @@ _Generated 2026-08-06_
 - North Cloud — AI Automation Intern
 - Northrop Grumman — Software Engineer Intern
 - Northrop Grumman — Software Engineer Intern
+- Northrop Grumman — Software Engineer Intern - Aeronautics Systems
 - Notion — Software Engineer Intern
 - NVIDIA — Applied Deep Learning PhD Research Intern - Reinforcement Learning for LLMs
 - NVIDIA — Applied Research Intern - NLP
@@ -300,6 +302,8 @@ _Generated 2026-08-06_
 - Susquehanna International Group (SIG) — Trading Operations Analyst Intern
 - Swift — Industry Engagement Research Analyst Intern
 - T. Rowe Price — Global Product Intern
+- T. Rowe Price — Global Trading Intern
+- T. Rowe Price — Quantitative Equity Investing Intern
 - T. Rowe Price — Technology and Data Intern
 - Tencent — AI Agent Research & Application Intern
 - Tencent — Research Intern

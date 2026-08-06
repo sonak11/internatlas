@@ -1,24 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "desjardins-group-data-intern-2026",
+  "id": "terminal-software-engineer-intern-backend-2026",
   "company": {
-    "name": "Desjardins Group",
-    "slug": "desjardins-group"
+    "name": "Terminal",
+    "slug": "terminal"
   },
-  "role": "Data Intern",
+  "role": "Software Engineer Intern - Backend",
   "category": "software-engineering",
-  "apply_url": "https://desjardins.wd10.myworkdayjobs.com/Desjardins/job/Montral/Stage-en-donnes--Automne-2026_R2606248-2",
+  "apply_url": "https://jobs.ashbyhq.com/terminal/6855293e-a817-4b70-835c-cd57e3bfcfde/application?embed=true",
   "season": "fall",
   "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Montreal",
-      "country": "QC"
-    },
-    {
-      "city": "Quebec City",
-      "country": "QC"
+      "city": "Toronto",
+      "country": "ON"
     }
   ],
   "compensation": {
@@ -28,9 +24,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -45,11 +39,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-05-11",
-    "discovered": "2026-07-21",
+    "posted": "2026-08-06",
+    "discovered": "2026-08-06",
     "last_verified": "2026-08-06"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

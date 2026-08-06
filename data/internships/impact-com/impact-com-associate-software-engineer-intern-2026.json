@@ -1,24 +1,21 @@
 {
   "schema_version": "1.0",
-  "id": "desjardins-group-data-intern-2026",
+  "id": "impact-com-associate-software-engineer-intern-2026",
   "company": {
-    "name": "Desjardins Group",
-    "slug": "desjardins-group"
+    "name": "impact.com",
+    "slug": "impact-com"
   },
-  "role": "Data Intern",
+  "role": "Associate Software Engineer Intern",
   "category": "software-engineering",
-  "apply_url": "https://desjardins.wd10.myworkdayjobs.com/Desjardins/job/Montral/Stage-en-donnes--Automne-2026_R2606248-2",
+  "apply_url": "https://job-boards.greenhouse.io/impact/jobs/8645964002",
   "season": "fall",
   "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Montreal",
-      "country": "QC"
-    },
-    {
-      "city": "Quebec City",
-      "country": "QC"
+      "city": "Santa Barbara",
+      "state": "CA",
+      "country": "USA"
     }
   ],
   "compensation": {
@@ -28,9 +25,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -45,11 +40,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-05-11",
-    "discovered": "2026-07-21",
+    "posted": "2026-08-06",
+    "discovered": "2026-08-06",
     "last_verified": "2026-08-06"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

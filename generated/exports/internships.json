@@ -1,6 +1,6 @@
 {
   "generated": "2026-08-06",
-  "count": 1484,
+  "count": 1501,
   "internships": [
     {
       "schema_version": "1.0",
@@ -9432,6 +9432,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "bytedance-ai-network-automation-engineer-intern-global-physical-networ-2027-80a0bb",
+      "company": {
+        "name": "ByteDance",
+        "slug": "bytedance"
+      },
+      "role": "AI Network Automation Engineer Intern, Global Physical Network Infra",
+      "category": "ai",
+      "apply_url": "https://joinbytedance.com/search/7670690923748870405",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-06",
+        "discovered": "2026-08-06",
+        "last_verified": "2026-08-06"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "bytedance-ai-network-automation-engineer-intern-global-physical-networ-2027",
       "company": {
         "name": "ByteDance",
@@ -9540,6 +9592,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "bytedance-applied-machine-learning-production-engineer-intern-2027",
+      "company": {
+        "name": "ByteDance",
+        "slug": "bytedance"
+      },
+      "role": "Applied Machine Learning Production Engineer Intern",
+      "category": "machine-learning",
+      "apply_url": "https://joinbytedance.com/search/7670009669494704437",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-06",
+        "discovered": "2026-08-06",
+        "last_verified": "2026-08-06"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "bytedance-applied-machine-learning-production-engineer-intern-aml-prod-2027",
       "company": {
         "name": "ByteDance",
@@ -9644,6 +9748,58 @@
       "tags": [
         "auto-ingested",
         "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "bytedance-gpu-ai-application-system-software-engineer-intern-2027",
+      "company": {
+        "name": "ByteDance",
+        "slug": "bytedance"
+      },
+      "role": "GPU/AI Application System Software Engineer Intern",
+      "category": "ai",
+      "apply_url": "https://joinbytedance.com/search/7668464504736876853",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-06",
+        "discovered": "2026-08-06",
+        "last_verified": "2026-08-06"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
       ]
     },
     {
@@ -11228,6 +11384,111 @@
       "dates": {
         "posted": "2026-07-30",
         "discovered": "2026-07-31",
+        "last_verified": "2026-08-06"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "canva-phd-research-scientist-intern-2026-1bb10f",
+      "company": {
+        "name": "Canva",
+        "slug": "canva"
+      },
+      "role": "PhD Research Scientist Intern",
+      "category": "research",
+      "apply_url": "https://jobs.smartrecruiters.com/Canva/6000000001291655-phd-research-scientist-intern",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Francisco",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-06",
+        "discovered": "2026-08-06",
+        "last_verified": "2026-08-06"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "canva-phd-research-scientist-intern-2026",
+      "company": {
+        "name": "Canva",
+        "slug": "canva"
+      },
+      "role": "PhD Research Scientist Intern",
+      "category": "research",
+      "apply_url": "https://jobs.smartrecruiters.com/Canva/6000000001291655",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "SF",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-06",
+        "discovered": "2026-08-06",
         "last_verified": "2026-08-06"
       },
       "status": "open",
@@ -13019,7 +13280,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "chicago-trading-company-quant-trading-intern-2027",
+      "id": "chicago-trading-company-quant-trading-intern-2027-927f62",
       "company": {
         "name": "Chicago Trading Company",
         "slug": "chicago-trading-company"
@@ -13061,7 +13322,7 @@
       },
       "dates": {
         "posted": "2026-08-03",
-        "discovered": "2026-07-20",
+        "discovered": "2026-08-06",
         "last_verified": "2026-08-06"
       },
       "status": "open",
@@ -13072,12 +13333,12 @@
     },
     {
       "schema_version": "1.0",
-      "id": "chicago-trading-company-quantitative-trading-intern-2027",
+      "id": "chicago-trading-company-quant-trading-intern-2027",
       "company": {
         "name": "Chicago Trading Company",
         "slug": "chicago-trading-company"
       },
-      "role": "Quantitative Trading Intern",
+      "role": "Quant Trading Intern",
       "category": "quant",
       "apply_url": "https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4716930005",
       "season": "summer",
@@ -13115,13 +13376,13 @@
       },
       "dates": {
         "posted": "2026-08-03",
-        "discovered": "2026-08-03",
+        "discovered": "2026-07-20",
         "last_verified": "2026-08-06"
       },
       "status": "open",
       "tags": [
         "auto-ingested",
-        "src:simplify"
+        "src:vanshb03"
       ]
     },
     {
@@ -16456,6 +16717,59 @@
     },
     {
       "schema_version": "1.0",
+      "id": "cno-financial-group-cyber-security-it-intern-2027",
+      "company": {
+        "name": "CNO Financial Group",
+        "slug": "cno-financial-group"
+      },
+      "role": "Cyber Security IT Intern",
+      "category": "security",
+      "apply_url": "https://cnoinc.wd5.myworkdayjobs.com/careers/job/Carmel-IN/Cyber-Security-IT-Intern---REMOTE_JR170419?jr_id=6a70f504e2b7476e7b20bfd4",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Carmel",
+          "state": "IN",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-06",
+        "discovered": "2026-08-06",
+        "last_verified": "2026-08-06"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03",
+        "remote-available"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "cohere-machine-learning-intern-co-op-2026",
       "company": {
         "name": "Cohere",
@@ -16627,6 +16941,57 @@
       "dates": {
         "posted": "2026-05-01",
         "discovered": "2026-07-17",
+        "last_verified": "2026-08-06"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "cohesity-data-cleansing-and-sales-enablement-analyst-intern-2026",
+      "company": {
+        "name": "Cohesity",
+        "slug": "cohesity"
+      },
+      "role": "Data Cleansing and Sales Enablement Analyst Intern",
+      "category": "software-engineering",
+      "apply_url": "https://cohesity.wd5.myworkdayjobs.com/Cohesity_Careers/job/Cohesity---London/Data-Analyst--Intern--London_R04433",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "London",
+          "country": "UK"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-06",
+        "discovered": "2026-08-06",
         "last_verified": "2026-08-06"
       },
       "status": "open",
@@ -19036,7 +19401,7 @@
         "discovered": "2026-07-21",
         "last_verified": "2026-08-06"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -20042,10 +20407,10 @@
     },
     {
       "schema_version": "1.0",
-      "id": "dv-trading-quantitative-risk-intern-2027",
+      "id": "dv-group-quantitative-risk-intern-2027",
       "company": {
-        "name": "DV Trading",
-        "slug": "dv-trading"
+        "name": "DV Group",
+        "slug": "dv-group"
       },
       "role": "Quantitative Risk Intern",
       "category": "quant",
@@ -20083,13 +20448,13 @@
       },
       "dates": {
         "posted": "2026-08-04",
-        "discovered": "2026-08-05",
+        "discovered": "2026-08-06",
         "last_verified": "2026-08-06"
       },
       "status": "open",
       "tags": [
         "auto-ingested",
-        "src:simplify"
+        "src:vanshb03"
       ]
     },
     {
@@ -29835,6 +30200,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "impact-com-associate-software-engineer-intern-2026",
+      "company": {
+        "name": "impact.com",
+        "slug": "impact-com"
+      },
+      "role": "Associate Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://job-boards.greenhouse.io/impact/jobs/8645964002",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Santa Barbara",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-06",
+        "discovered": "2026-08-06",
+        "last_verified": "2026-08-06"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "impulse-space-data-analytics-intern-2026",
       "company": {
         "name": "Impulse Space",
@@ -34960,6 +35377,58 @@
         "last_verified": "2026-07-28"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "kbr-software-intern-2026",
+      "company": {
+        "name": "KBR",
+        "slug": "kbr"
+      },
+      "role": "Software Intern",
+      "category": "software-engineering",
+      "apply_url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Houston-Texas/Software-Intern_R2127863",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Houston",
+          "state": "TX",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-06",
+        "discovered": "2026-08-06",
+        "last_verified": "2026-08-06"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -44376,6 +44845,57 @@
     },
     {
       "schema_version": "1.0",
+      "id": "nokia-electromechanical-assembly-co-op-intern-intern-2027",
+      "company": {
+        "name": "Nokia",
+        "slug": "nokia"
+      },
+      "role": "Electromechanical Assembly Co-op Intern - Intern",
+      "category": "software-engineering",
+      "apply_url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39234",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Canada",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-06",
+        "discovered": "2026-08-06",
+        "last_verified": "2026-08-06"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "nokia-embedded-c-c-software-developer-co-op-intern-2026",
       "company": {
         "name": "Nokia",
@@ -44733,7 +45253,7 @@
         "discovered": "2026-08-06",
         "last_verified": "2026-08-06"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -45766,6 +46286,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "nvidia-software-engineering-intern-dynamo-2026",
+      "company": {
+        "name": "NVIDIA",
+        "slug": "nvidia"
+      },
+      "role": "Software Engineering Intern, Dynamo",
+      "category": "software-engineering",
+      "apply_url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--Dynamo---Fall-2026_JR2022295",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Santa Clara",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-06",
+        "discovered": "2026-08-06",
+        "last_verified": "2026-08-06"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "nvidia-software-engineering-intern-jax-2026",
       "company": {
         "name": "NVIDIA",
@@ -46286,6 +46858,57 @@
         "last_verified": "2026-07-22"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "open-road-integrated-media-marketing-analytics-intern-paid-2026",
+      "company": {
+        "name": "Open Road Integrated Media",
+        "slug": "open-road-integrated-media"
+      },
+      "role": "Marketing Analytics Intern - Paid",
+      "category": "software-engineering",
+      "apply_url": "https://openroadmedia.applytojob.com/apply/k0wJxCZspo/Marketing-Analytics-Intern-PTPaid",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "NYC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-06",
+        "discovered": "2026-08-06",
+        "last_verified": "2026-08-06"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -51467,6 +52090,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "redwood-materials-test-automation-engineer-intern-2026",
+      "company": {
+        "name": "Redwood Materials",
+        "slug": "redwood-materials"
+      },
+      "role": "Test Automation Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://job-boards.greenhouse.io/redwoodmaterials/jobs/6126785004",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Francisco",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-06",
+        "discovered": "2026-08-06",
+        "last_verified": "2026-08-06"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "rendezvous-robotics-software-engineering-intern-2026",
       "company": {
         "name": "Rendezvous Robotics",
@@ -56091,6 +56766,52 @@
     },
     {
       "schema_version": "1.0",
+      "id": "shopify-software-engineering-intern-2027",
+      "company": {
+        "name": "Shopify",
+        "slug": "shopify"
+      },
+      "role": "Software Engineering Intern",
+      "category": "software-engineering",
+      "apply_url": "https://www.shopify.com/careers/software-engineering-internships-winter-2027_404bb82e-37f3-4a78-b0f3-12923a7c4856?ashby_jid=404bb82e-37f3-4a78-b0f3-12923a7c4856",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "remote",
+      "locations": [],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "no"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-06",
+        "discovered": "2026-08-06",
+        "last_verified": "2026-08-06"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "shyftlabs-ai-engineer-intern-2026-d9e9c4",
       "company": {
         "name": "ShyftLabs",
@@ -57752,6 +58473,52 @@
       "tags": [
         "auto-ingested",
         "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "spacex-software-engineer-intern-fleet-health-instrumentation-2027",
+      "company": {
+        "name": "SpaceX",
+        "slug": "spacex"
+      },
+      "role": "Software Engineer Intern, Fleet Health Instrumentation",
+      "category": "software-engineering",
+      "apply_url": "https://job-boards.greenhouse.io/spacex/jobs/8621756002",
+      "season": "spring",
+      "year": 2027,
+      "work_mode": "remote",
+      "locations": [],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": true,
+        "security_clearance_required": false,
+        "visa_sponsorship": "no"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-06",
+        "discovered": "2026-08-06",
+        "last_verified": "2026-08-06"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
       ]
     },
     {
@@ -61501,7 +62268,7 @@
         "discovered": "2026-07-23",
         "last_verified": "2026-08-06"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -61553,7 +62320,7 @@
         "discovered": "2026-07-23",
         "last_verified": "2026-08-06"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -62307,6 +63074,108 @@
       "dates": {
         "posted": "2026-07-23",
         "discovered": "2026-07-24",
+        "last_verified": "2026-08-06"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "terminal-software-engineer-intern-backend-2026",
+      "company": {
+        "name": "Terminal",
+        "slug": "terminal"
+      },
+      "role": "Software Engineer Intern - Backend",
+      "category": "software-engineering",
+      "apply_url": "https://jobs.ashbyhq.com/terminal/6855293e-a817-4b70-835c-cd57e3bfcfde/application?embed=true",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Toronto",
+          "country": "ON"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-06",
+        "discovered": "2026-08-06",
+        "last_verified": "2026-08-06"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "terminal-software-engineer-intern-data-platform-2026",
+      "company": {
+        "name": "Terminal",
+        "slug": "terminal"
+      },
+      "role": "Software Engineer Intern - Data Platform",
+      "category": "software-engineering",
+      "apply_url": "https://jobs.ashbyhq.com/terminal/d7e128ed-617c-4b9b-9e42-0e909fb25729/application?embed=true",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Toronto",
+          "country": "ON"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-06",
+        "discovered": "2026-08-06",
         "last_verified": "2026-08-06"
       },
       "status": "open",

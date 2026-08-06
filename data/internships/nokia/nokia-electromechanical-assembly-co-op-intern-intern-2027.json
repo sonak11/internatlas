@@ -1,20 +1,19 @@
 {
   "schema_version": "1.0",
-  "id": "chicago-trading-company-quantitative-trading-intern-2027",
+  "id": "nokia-electromechanical-assembly-co-op-intern-intern-2027",
   "company": {
-    "name": "Chicago Trading Company",
-    "slug": "chicago-trading-company"
+    "name": "Nokia",
+    "slug": "nokia"
   },
-  "role": "Quantitative Trading Intern",
-  "category": "quant",
-  "apply_url": "https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4716930005",
-  "season": "summer",
+  "role": "Electromechanical Assembly Co-op Intern - Intern",
+  "category": "software-engineering",
+  "apply_url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39234",
+  "season": "winter",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Chicago",
-      "state": "IL",
+      "city": "Canada",
       "country": "USA"
     }
   ],
@@ -25,9 +24,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -42,8 +39,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-03",
-    "discovered": "2026-08-03",
+    "posted": "2026-08-06",
+    "discovered": "2026-08-06",
     "last_verified": "2026-08-06"
   },
   "status": "open",

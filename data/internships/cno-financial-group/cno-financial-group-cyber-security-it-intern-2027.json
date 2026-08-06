@@ -1,24 +1,21 @@
 {
   "schema_version": "1.0",
-  "id": "desjardins-group-data-intern-2026",
+  "id": "cno-financial-group-cyber-security-it-intern-2027",
   "company": {
-    "name": "Desjardins Group",
-    "slug": "desjardins-group"
+    "name": "CNO Financial Group",
+    "slug": "cno-financial-group"
   },
-  "role": "Data Intern",
-  "category": "software-engineering",
-  "apply_url": "https://desjardins.wd10.myworkdayjobs.com/Desjardins/job/Montral/Stage-en-donnes--Automne-2026_R2606248-2",
-  "season": "fall",
-  "year": 2026,
+  "role": "Cyber Security IT Intern",
+  "category": "security",
+  "apply_url": "https://cnoinc.wd5.myworkdayjobs.com/careers/job/Carmel-IN/Cyber-Security-IT-Intern---REMOTE_JR170419?jr_id=6a70f504e2b7476e7b20bfd4",
+  "season": "summer",
+  "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Montreal",
-      "country": "QC"
-    },
-    {
-      "city": "Quebec City",
-      "country": "QC"
+      "city": "Carmel",
+      "state": "IN",
+      "country": "USA"
     }
   ],
   "compensation": {
@@ -28,9 +25,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -45,13 +40,14 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-05-11",
-    "discovered": "2026-07-21",
+    "posted": "2026-08-06",
+    "discovered": "2026-08-06",
     "last_verified": "2026-08-06"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03",
+    "remote-available"
   ]
 }

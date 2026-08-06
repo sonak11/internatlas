@@ -1,24 +1,21 @@
 {
   "schema_version": "1.0",
-  "id": "desjardins-group-data-intern-2026",
+  "id": "bytedance-ai-network-automation-engineer-intern-global-physical-networ-2027-80a0bb",
   "company": {
-    "name": "Desjardins Group",
-    "slug": "desjardins-group"
+    "name": "ByteDance",
+    "slug": "bytedance"
   },
-  "role": "Data Intern",
-  "category": "software-engineering",
-  "apply_url": "https://desjardins.wd10.myworkdayjobs.com/Desjardins/job/Montral/Stage-en-donnes--Automne-2026_R2606248-2",
-  "season": "fall",
-  "year": 2026,
+  "role": "AI Network Automation Engineer Intern, Global Physical Network Infra",
+  "category": "ai",
+  "apply_url": "https://joinbytedance.com/search/7670690923748870405",
+  "season": "summer",
+  "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Montreal",
-      "country": "QC"
-    },
-    {
-      "city": "Quebec City",
-      "country": "QC"
+      "city": "San Jose",
+      "state": "CA",
+      "country": "USA"
     }
   ],
   "compensation": {
@@ -28,9 +25,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -45,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-05-11",
-    "discovered": "2026-07-21",
+    "posted": "2026-08-06",
+    "discovered": "2026-08-06",
     "last_verified": "2026-08-06"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }
