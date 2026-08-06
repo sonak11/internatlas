@@ -8,15 +8,15 @@ _Generated 2026-08-06_
 
 | Company | Listings |
 |---|---|
+| TikTok | 106 |
 | Tesla | 105 |
-| TikTok | 100 |
 | Jump Trading | 43 |
 | Cloudflare | 27 |
+| ByteDance | 25 |
 | SpaceX | 24 |
 | Susquehanna International Group (SIG) | 22 |
 | IMC Trading | 20 |
 | Neuralink | 20 |
-| ByteDance | 18 |
 | Jane Street | 17 |
 | Palantir Technologies | 17 |
 | Rivian and Volkswagen Group Technologies | 16 |
@@ -33,15 +33,15 @@ _Generated 2026-08-06_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 737 | `█████████████` |
+| software-engineering | 741 | `█████████████` |
 | quant | 145 | `██` |
-| ai | 139 | `██` |
-| machine-learning | 101 | `██` |
-| research | 80 | `█` |
-| hardware | 73 | `█` |
+| ai | 144 | `██` |
+| machine-learning | 102 | `██` |
+| research | 82 | `█` |
+| hardware | 74 | `█` |
 | embedded | 44 | `█` |
-| product | 37 | `█` |
-| cloud | 31 | `█` |
+| product | 38 | `█` |
+| cloud | 32 | `█` |
 | design | 28 | `█` |
 | data-science | 22 | `█` |
 | data-engineering | 17 | `█` |
@@ -49,26 +49,26 @@ _Generated 2026-08-06_
 
 ## Newest listings
 
+- 2026-08-06 — **ByteDance**: [AI/LLM Network Research Intern - High Speed Network](https://jobs.bytedance.com/en/position/7670281454740818181/detail)
+- 2026-08-06 — **ByteDance**: [AI/LLM Network Research Intern - High Speed Network - PhD](https://jobs.bytedance.com/en/position/7669969771686775045/detail)
+- 2026-08-06 — **ByteDance**: [ASIC Design Engineer Intern - Video Silicon IP](https://jobs.bytedance.com/en/position/7670332179383699717/detail)
+- 2026-08-06 — **ByteDance**: [GPU/AI Application System Software Engineer Intern - System Technologies and Engineering](https://jobs.bytedance.com/en/position/7668464504736876853/detail)
+- 2026-08-06 — **ByteDance**: [Research Scientist Intern](https://jobs.bytedance.com/en/position/7670375041041320245/detail)
+- 2026-08-06 — **ByteDance**: [Research Scientist Intern - Multimedia Streaming](https://jobs.bytedance.com/en/position/7670354800621603125/detail)
+- 2026-08-06 — **ByteDance**: [Video/Image AI/ML Software Engineer Intern - Multimedia](https://jobs.bytedance.com/en/position/7670354329765464373/detail)
+- 2026-08-06 — **Sargent & Lundy**: [AI & Automation Intern - Summer 2027](https://careers-sargentlundy.icims.com/jobs/25857/job?mobile=true&needsRedirect=false)
+- 2026-08-06 — **TikTok**: [LLM Post-training Engineer Intern - Research & Product](https://lifeattiktok.com/search/7670285031018432773)
+- 2026-08-06 — **TikTok**: [Product Manager Intern - Product Infrastructure - Account](https://lifeattiktok.com/search/7670009830602721589)
+- 2026-08-06 — **TikTok**: [Product Operations Intern - TikTok Shop Apps and API - MBA](https://lifeattiktok.com/search/7668820702623467781)
+- 2026-08-06 — **TikTok**: [Software Engineer Intern - Foundation Platform](https://lifeattiktok.com/search/7670281449668905269)
+- 2026-08-06 — **TikTok**: [Software Engineer Intern - Media Engine](https://lifeattiktok.com/search/7670295535077427509)
+- 2026-08-06 — **TikTok**: [Strategy Product Manager Intern - Platform Responsibility](https://lifeattiktok.com/search/7670420287191517493)
 - 2026-08-05 — **American Express**: [Product Management Intern - Global Merchant & Network Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012152)
 - 2026-08-05 — **American Express**: [Product Management Intern - Global Merchant & Network Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012148)
 - 2026-08-05 — **Bank of Montreal**: [Database Operations Co-op Intern](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Database-Operations-Co-op--Fall-2026--Co-op-Internship----4-months_R260022911)
 - 2026-08-05 — **Boeing**: [Data Analytics Intern](https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/details/Boeing-Summer-2027-Internship-Program--Paid----Data-Analytics-Intern_JR2026520976-1?q=JR2026520976)
 - 2026-08-05 — **Eridu AI**: [Lab Intern](https://ats.rippling.com/eridu-ai/jobs/7f4d858d-b26e-45ce-acdc-7593d8a1f7b1)
 - 2026-08-05 — **General Dynamics Information Technology**: [Software Developer Intern](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Summer-2027-Software-Developer-Internship_RQ225450-1)
-- 2026-08-05 — **Gulf Management**: [Software Engineer & Business Systems Intern](https://gulfmanagement.applytojob.com/apply/pnJkrOYga9/Software-Engineer-Business-Systems-Intern)
-- 2026-08-05 — **Maven Securities**: [Trader Intern](https://job-boards.greenhouse.io/emergingtalent/jobs/8051938)
-- 2026-08-05 — **Maven Securities**: [Trader Intern - Summer](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8051937)
-- 2026-08-05 — **Optiver**: [Quantitative Intern - Summer 2027](https://www.optiver.com/join-us/jobs/8682750002/?gh_jid=8682750002)
-- 2026-08-05 — **Rho**: [Quantitative Analyst Intern](https://jobs.ashbyhq.com/rho/eb5c9709-ab43-4e9e-9c41-ccb122955fcf/application?embed=true)
-- 2026-08-05 — **Roblox**: [Software Engineer Intern](https://careers.roblox.com/jobs/8072713?gh_jid=8072713)
-- 2026-08-05 — **RTX**: [Machine Learning Researcher Intern/Co-op](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-RTRC-K--411-Silver-Ln--RTRC-K/Fall-2026--Intern-Coop--Machine-Learning-Researcher_01864471)
-- 2026-08-05 — **RTX**: [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineering-Intern--Summer-2027-_01864033)
-- 2026-08-05 — **Skydio**: [Hardware Test & Reliability Intern](https://jobs.ashbyhq.com/skydio/d75d4adf-760c-46b6-bb98-3497650a8924/application?embed=true)
-- 2026-08-05 — **Susquehanna International Group (SIG)**: [Derivatives Sales Trader Intern - Summer 2027](https://careers-sig.icims.com/jobs/10626/job?mobile=true&needsRedirect=false)
-- 2026-08-05 — **Swift**: [Industry Engagement Research Analyst Intern](https://swift.wd3.myworkdayjobs.com/join-swift/job/London-United-Kingdom/Industry-Engagement---Intern-Research-Analyst_2026-16321)
-- 2026-08-05 — **Tacit**: [Radio Frequency Hardware Intern - Fall 2026](https://jobs.ashbyhq.com/tacit/d001e2d9-90af-4d0b-bc97-fd6fa149ad19/application?embed=true)
-- 2026-08-05 — **TikTok**: [Backend Software Engineer Intern - Creation Platform](https://lifeattiktok.com/search/7670289874020993285)
-- 2026-08-05 — **TikTok**: [Data Engineer Intern - Ads Targeting](https://lifeattiktok.com/search/7668533140146817333)
 
 ## Recently closed
 
@@ -91,6 +91,7 @@ _Generated 2026-08-06_
 - Astranis — FPGA Associate Intern
 - Astranis — FPGA Intern
 - Astranis — Hardware Design Intern - Software Defined Radio Team
+- Astranis — Reliability Design Intern
 - Autodesk — Cloud Developer Intern
 - Autodesk — Cloud Developer Intern
 - Autodesk — Machine Learning Developer Intern
@@ -125,6 +126,10 @@ _Generated 2026-08-06_
 - Ciena — Software Engineer and Tools Developer Intern
 - Cirrus Logic — AI Business Analytics Co-op Intern
 - Cirrus Logic — Embedded Software AI Intern Co-op
+- Citadel — Quantitative Trader: Equity Quantitative Research Intern
+- Citadel — Sector Data Analyst Intern
+- Citadel — Trader: Fixed Income & Macro Intern
+- Citadel Securities — Rates Trading Intern
 - City of Austin — Austin Aviation Undergraduate Intern - IT Business Systems Analyst
 - Cloudflare — Public Policy Intern
 - Cloudflare — Sales Project Manager Intern (AI Innovation) (Fall 2026)
@@ -261,6 +266,7 @@ _Generated 2026-08-06_
 - Robert Bosch Venture Capital — Hardware & Embedded Research Intern
 - Rocket Lab — Software Intern
 - ROCKWOOL Group — Product Management Intern
+- Royal Bank of Canada — Relationship Manager Commercial Markets Intern
 - RTX — Software Engineer Intern
 - RTX — Software Engineer Intern
 - Salesforce — Associate Product Manager Intern - Associate Product Manager
@@ -305,6 +311,7 @@ _Generated 2026-08-06_
 - Tesla — Fullstack Engineer Intern - Fullstack Engineer - Build Infrastructure
 - Tesla — Machine Learning Platform Intern - Multiple Teams
 - Tesla — Mobile Applications Engineering Intern - Android Engineer - Mobile Software
+- Tesla — Software Engineer Intern - AI Data Infrastructure
 - Tesla — Software Engineer Intern - Fullstack Software Engineer - Fleetnet
 - Tesla — Software Engineer Intern - Simulation Platform - Software Engineer
 - Tesla — Software Engineer Intern - Software Engineer Opticaster - Energy Engineering

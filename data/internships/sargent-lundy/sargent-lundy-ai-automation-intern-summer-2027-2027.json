@@ -1,29 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "citadel-trader-fixed-income-macro-intern-2026",
+  "id": "sargent-lundy-ai-automation-intern-summer-2027-2027",
   "company": {
-    "name": "Citadel",
-    "slug": "citadel"
+    "name": "Sargent & Lundy",
+    "slug": "sargent-lundy"
   },
-  "role": "Trader: Fixed Income & Macro Intern",
-  "category": "software-engineering",
-  "apply_url": "https://www.citadel.com/careers/details/trader-fixed-income-macro-intern-us/",
-  "season": "fall",
-  "year": 2026,
+  "role": "AI & Automation Intern - Summer 2027",
+  "category": "ai",
+  "apply_url": "https://careers-sargentlundy.icims.com/jobs/25857/job?mobile=true&needsRedirect=false",
+  "season": "summer",
+  "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Greenwich",
-      "state": "CT",
-      "country": "USA"
-    },
-    {
-      "city": "Miami",
-      "state": "FL",
-      "country": "USA"
-    },
-    {
-      "city": "NYC",
+      "city": "Wilmington",
+      "state": "DE",
       "country": "USA"
     }
   ],
@@ -34,10 +25,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters",
-      "phd"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -52,11 +40,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-06",
-    "discovered": "2026-07-17",
+    "posted": "2026-08-06",
+    "discovered": "2026-08-06",
     "last_verified": "2026-08-06"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

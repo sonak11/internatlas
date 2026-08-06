@@ -1,29 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "citadel-trader-fixed-income-macro-intern-2026",
+  "id": "bytedance-research-scientist-intern-2027",
   "company": {
-    "name": "Citadel",
-    "slug": "citadel"
+    "name": "ByteDance",
+    "slug": "bytedance"
   },
-  "role": "Trader: Fixed Income & Macro Intern",
-  "category": "software-engineering",
-  "apply_url": "https://www.citadel.com/careers/details/trader-fixed-income-macro-intern-us/",
-  "season": "fall",
-  "year": 2026,
+  "role": "Research Scientist Intern",
+  "category": "research",
+  "apply_url": "https://jobs.bytedance.com/en/position/7670375041041320245/detail",
+  "season": "summer",
+  "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Greenwich",
-      "state": "CT",
-      "country": "USA"
-    },
-    {
-      "city": "Miami",
-      "state": "FL",
-      "country": "USA"
-    },
-    {
-      "city": "NYC",
+      "city": "San Jose",
+      "state": "CA",
       "country": "USA"
     }
   ],
@@ -35,7 +26,6 @@
   "eligibility": {
     "graduation_years": [],
     "degree_levels": [
-      "masters",
       "phd"
     ],
     "citizenship_required": false,
@@ -52,11 +42,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-06",
-    "discovered": "2026-07-17",
+    "posted": "2026-08-06",
+    "discovered": "2026-08-06",
     "last_verified": "2026-08-06"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

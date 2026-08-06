@@ -1,29 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "citadel-trader-fixed-income-macro-intern-2026",
+  "id": "tiktok-product-operations-intern-tiktok-shop-apps-and-api-mba-2027",
   "company": {
-    "name": "Citadel",
-    "slug": "citadel"
+    "name": "TikTok",
+    "slug": "tiktok"
   },
-  "role": "Trader: Fixed Income & Macro Intern",
+  "role": "Product Operations Intern - TikTok Shop Apps and API - MBA",
   "category": "software-engineering",
-  "apply_url": "https://www.citadel.com/careers/details/trader-fixed-income-macro-intern-us/",
-  "season": "fall",
-  "year": 2026,
+  "apply_url": "https://lifeattiktok.com/search/7668820702623467781",
+  "season": "summer",
+  "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Greenwich",
-      "state": "CT",
-      "country": "USA"
-    },
-    {
-      "city": "Miami",
-      "state": "FL",
-      "country": "USA"
-    },
-    {
-      "city": "NYC",
+      "city": "Seattle",
+      "state": "WA",
       "country": "USA"
     }
   ],
@@ -34,10 +25,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters",
-      "phd"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -52,11 +40,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-06",
-    "discovered": "2026-07-17",
+    "posted": "2026-08-06",
+    "discovered": "2026-08-06",
     "last_verified": "2026-08-06"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

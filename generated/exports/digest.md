@@ -1,6 +1,6 @@
 # 📬 InternAtlas Weekly Digest — 2026-08-06
 
-## 🆕 New this week (327)
+## 🆕 New this week (342)
 
 - **1X** — [CNC Machine Park Intern](https://jobs.ashbyhq.com/1x/e7b4aaf5-5c55-4e2f-abcd-5c250657bede/application?embed=true) · software-engineering · —
 - **AcreTrader** — [Data Intern](https://ats.rippling.com/acretrader-jobs/jobs/e0192aa0-bd65-4262-81ed-d64685c7dc41) · software-engineering · —
@@ -24,14 +24,20 @@
 - **Boeing** — [Data Analytics Intern](https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/details/Boeing-Summer-2027-Internship-Program--Paid----Data-Analytics-Intern_JR2026520976-1?q=JR2026520976) · software-engineering · —
 - **Bosch Home Comfort** — [Artificial Intelligence and Software Development Engineering Intern](https://jobs.smartrecruiters.com/BoschGroup/744000141302469) · ai · —
 - **Brio Water Technology** — [AI Automation & Business Analytics Intern - Rotational Program](https://ats.rippling.com/briowt/jobs/52da1fca-1cb1-49ff-8a94-b6f3850cd8eb) · ai · —
+- **ByteDance** — [AI/LLM Network Research Intern - High Speed Network](https://jobs.bytedance.com/en/position/7670281454740818181/detail) · ai · —
+- **ByteDance** — [AI/LLM Network Research Intern - High Speed Network - PhD](https://jobs.bytedance.com/en/position/7669969771686775045/detail) · ai · —
 - **ByteDance** — [AI Perception Intern - Pico](https://jobs.bytedance.com/en/position/7665457718334425349/detail) · ai · —
+- **ByteDance** — [ASIC Design Engineer Intern - Video Silicon IP](https://jobs.bytedance.com/en/position/7670332179383699717/detail) · hardware · —
+- **ByteDance** — [GPU/AI Application System Software Engineer Intern - System Technologies and Engineering](https://jobs.bytedance.com/en/position/7668464504736876853/detail) · ai · —
 - **ByteDance** — [Research Scientist Intern](https://jobs.bytedance.com/en/position/7667380188619131189/detail) · research · —
 - **ByteDance** — [Research Scientist Intern](https://jobs.bytedance.com/en/position/7667379218929780997/detail) · research · —
+- **ByteDance** — [Research Scientist Intern](https://jobs.bytedance.com/en/position/7670375041041320245/detail) · research · —
 - **ByteDance** — [Research Scientist Intern - AI Infra Compute](https://jobs.bytedance.com/en/position/7667379221434796341/detail) · ai · —
 - **ByteDance** — [Research Scientist Intern - Distributed NoSQL Database Systems](https://jobs.bytedance.com/en/position/7668371456348326149/detail) · research · —
 - **ByteDance** — [Research Scientist Intern - Distributed NoSQL Database Systems](https://jobs.bytedance.com/en/position/7668371003554138421/detail) · research · —
 - **ByteDance** — [Research Scientist Intern - Multi-modal Agentic Databases](https://jobs.bytedance.com/en/position/7667380487805995269/detail) · research · —
 - **ByteDance** — [Research Scientist Intern - Multi-modal Agentic Databases](https://jobs.bytedance.com/en/position/7667380184615127301/detail) · research · —
+- **ByteDance** — [Research Scientist Intern - Multimedia Streaming](https://jobs.bytedance.com/en/position/7670354800621603125/detail) · research · —
 - **ByteDance** — [Software Engineer Intern](https://jobs.bytedance.com/en/position/7668373268886161669/detail) · software-engineering · —
 - **ByteDance** — [Software Engineer Intern - AI Infra Compute](https://jobs.bytedance.com/en/position/7667378931599214853/detail) · ai · —
 - **ByteDance** — [Software Engineer Intern - AI Infrastructure Compute](https://jobs.bytedance.com/en/position/7667377525182662965/detail) · ai · —
@@ -40,6 +46,7 @@
 - **ByteDance** — [Software Engineer Intern, Distributed NoSQL Database Systems](https://joinbytedance.com/search/7668373268886161669) · software-engineering · —
 - **ByteDance** — [Software Engineer Intern, Distributed NoSQL Database Systems](https://joinbytedance.com/search/7668374190764050741) · software-engineering · —
 - **ByteDance** — [Software Engineer Intern - Distributed NoSQL Database Systems](https://jobs.bytedance.com/en/position/7668374190764050741/detail) · software-engineering · —
+- **ByteDance** — [Video/Image AI/ML Software Engineer Intern - Multimedia](https://jobs.bytedance.com/en/position/7670354329765464373/detail) · machine-learning · —
 - **CALSTART** — [Data Analysis Intern](https://jobs.lever.co/calstart/39565f0d-d10f-458b-b72d-d807420059b8/apply) · software-engineering · —
 - **CALSTART** — [Web Development Intern](https://jobs.lever.co/calstart/cbd0d758-18b0-481d-9e67-a065682f30ea/apply) · software-engineering · —
 - **CALSTART** — [Zero-Emission Data & Research Intern](https://jobs.lever.co/calstart/faf839b1-8c62-4fcf-991c-71750d8fc909/apply) · research · —
@@ -160,6 +167,7 @@
 - **Nebo** — [Web Development Intern](https://neboagency.applytojob.com/apply/AFMqe9Jb7b/Web-Development-Intern) · software-engineering · —
 - **Netsmart** — [Software Engineer Intern](https://ntst.wd1.myworkdayjobs.com/careers/job/Overland-Park-KS/Software-Engineer-Intern--Summer-2027-Internship-_R015667) · software-engineering · —
 - **New York Post Holdings** — [Product Intern](https://dowjones.wd1.myworkdayjobs.com/New_York_Post_Careers/job/NYC---1211-Ave-of-the-Americas/Product-Intern--Fall-2026--10-weeks--24-hours-a-week-_Job_Req_54488) · software-engineering · —
+- **Northrop Grumman** — [Software Engineer Intern - Aeronautics Systems](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10243573) · software-engineering · —
 - **Novanta** — [Engineer Intern](https://novanta.wd5.myworkdayjobs.com/Novanta-Careers/job/Apex-NC/Intern-Engineering_R009484) · software-engineering · —
 - **Optiver** — [Quantitative Intern - Summer 2027](https://www.optiver.com/join-us/jobs/8682750002/?gh_jid=8682750002) · quant · —
 - **PSECU** — [Data Analyst Intern](https://psecu.wd12.myworkdayjobs.com/PSECU/job/Harrisburg-PA/Data-Analyst-Intern_JR100964) · software-engineering · —
@@ -186,6 +194,7 @@
 - **SRI International** — [Computer Science Intern](https://careers-sri.icims.com/jobs/6438/job?mobile=true&needsRedirect=false) · software-engineering · —
 - **Samsara** — [Software Engineering Intern](https://www.samsara.com/company/careers/roles/8082091?gh_jid=8082091) · software-engineering · —
 - **Samsara** — [Software Engineering Internship - London](https://www.samsara.com/company/careers/roles/8082093?gh_jid=8082093) · software-engineering · —
+- **Sargent & Lundy** — [AI & Automation Intern - Summer 2027](https://careers-sargentlundy.icims.com/jobs/25857/job?mobile=true&needsRedirect=false) · ai · —
 - **Skydio** — [Hardware Test & Reliability Intern](https://jobs.ashbyhq.com/skydio/d75d4adf-760c-46b6-bb98-3497650a8924/application?embed=true) · hardware · —
 - **Skydio** — [Product Management Intern](https://jobs.ashbyhq.com/skydio/1ec2fe3c-3fb2-4485-870d-764a3e5f5baf/application?embed=true) · product · —
 - **SpaceX** — [Silicon Engineer Intern/Co-op](https://boards.greenhouse.io/spacex/jobs/8636134002) · hardware · —
@@ -247,6 +256,7 @@
 - **TikTok** — [Frontend Engineer Intern - Open Platform](https://lifeattiktok.com/search/7667935739300792629) · software-engineering · —
 - **TikTok** — [Frontend Software Engineer Intern - Ads Measurement Signal and Privacy](https://lifeattiktok.com/search/7668584161852229893) · software-engineering · —
 - **TikTok** — [Generative AI Researcher Intern - Intelligent Creation-Vision and Graphics](https://lifeattiktok.com/search/7668183035989281029) · ai · —
+- **TikTok** — [LLM Post-training Engineer Intern - Research & Product](https://lifeattiktok.com/search/7670285031018432773) · ai · —
 - **TikTok** — [Machine Learning Engineer Intern](https://lifeattiktok.com/search/7668379675467761925) · machine-learning · —
 - **TikTok** — [Machine Learning Engineer Intern](https://lifeattiktok.com/search/7667350291952765237) · machine-learning · —
 - **TikTok** — [Machine Learning Engineer Intern](https://lifeattiktok.com/search/7667346576033777925) · machine-learning · —
@@ -273,7 +283,9 @@
 - **TikTok** — [Machine Learning Scientist Intern](https://lifeattiktok.com/search/7667934169444485429) · machine-learning · —
 - **TikTok** — [Machine Learning Scientist Intern - Content Ecology - LLM Application](https://lifeattiktok.com/search/7667933770625599749) · machine-learning · —
 - **TikTok** — [Machine Learning Scientist Intern - Recommendation](https://lifeattiktok.com/search/7662657855099357493) · machine-learning · —
+- **TikTok** — [Product Manager Intern - Product Infrastructure - Account](https://lifeattiktok.com/search/7670009830602721589) · cloud · —
 - **TikTok** — [Product Operations Intern - Apps and API](https://lifeattiktok.com/search/7669927344569764101) · software-engineering · —
+- **TikTok** — [Product Operations Intern - TikTok Shop Apps and API - MBA](https://lifeattiktok.com/search/7668820702623467781) · software-engineering · —
 - **TikTok** — [Recommendation Product Manager Intern - Content Ecosystem](https://lifeattiktok.com/search/7667874197682899205) · product · —
 - **TikTok** — [Research Engineer Intern - Agentic Systems & AI Infrastructure - Generalized Architecture](https://lifeattiktok.com/search/7667934792727906565) · ai · —
 - **TikTok** — [Research Engineer Intern - Agentic Systems & AI Infrastructure - Tiktok-Generalized Arch](https://lifeattiktok.com/search/7667935568626043141) · ai · —
@@ -301,12 +313,15 @@
 - **TikTok** — [Software Engineer Intern - Business Integrity](https://lifeattiktok.com/search/7668584916620527925) · software-engineering · —
 - **TikTok** — [Software Engineer Intern - Creative Intelligence and Brand Innovation](https://lifeattiktok.com/search/7668642761473902901) · software-engineering · —
 - **TikTok** — [Software Engineer Intern, Data Arch - E-commerce](https://lifeattiktok.com/search/7668582146236631349) · software-engineering · —
+- **TikTok** — [Software Engineer Intern - Foundation Platform](https://lifeattiktok.com/search/7670281449668905269) · software-engineering · —
 - **TikTok** — [Software Engineer Intern - Global CRM](https://lifeattiktok.com/search/7669711844487399685) · software-engineering · —
 - **TikTok** — [Software Engineer Intern - Intelligent Creation-Camera](https://lifeattiktok.com/search/7668862422178318597) · software-engineering · —
+- **TikTok** — [Software Engineer Intern - Media Engine](https://lifeattiktok.com/search/7670295535077427509) · software-engineering · —
 - **TikTok** — [Software Engineer Intern - ML Infra](https://lifeattiktok.com/search/7668696895234197813) · machine-learning · —
 - **TikTok** — [Software Engineer Intern - Social Friending](https://lifeattiktok.com/search/7667935399050692917) · software-engineering · —
 - **TikTok** — [Software Engineer Intern - Transaction Platform](https://lifeattiktok.com/search/7669943120351906053) · software-engineering · —
 - **TikTok** — [Software Engineer Intern - Trust and Safety Engineering](https://lifeattiktok.com/search/7662684280234232117) · software-engineering · —
+- **TikTok** — [Strategy Product Manager Intern - Platform Responsibility](https://lifeattiktok.com/search/7670420287191517493) · product · —
 - **TransMarket Group** — [Algorithmic Trader Intern](https://job-boards.greenhouse.io/transmarketgroup/jobs/5151581007?gh_jid=5151581007) · software-engineering · —
 - **Two Sigma** — [AI Research Scientist Intern - 2027 Summer](https://twosigma.avature.net/careers/JobDetail/14096) · ai · —
 - **Two Sigma** — [Quantitative Researcher Intern](https://twosigma.avature.net/careers/JobDetail/13945) · quant · —

@@ -1,29 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "citadel-trader-fixed-income-macro-intern-2026",
+  "id": "northrop-grumman-software-engineer-intern-aeronautics-systems-2027",
   "company": {
-    "name": "Citadel",
-    "slug": "citadel"
+    "name": "Northrop Grumman",
+    "slug": "northrop-grumman"
   },
-  "role": "Trader: Fixed Income & Macro Intern",
+  "role": "Software Engineer Intern - Aeronautics Systems",
   "category": "software-engineering",
-  "apply_url": "https://www.citadel.com/careers/details/trader-fixed-income-macro-intern-us/",
-  "season": "fall",
-  "year": 2026,
+  "apply_url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10243573",
+  "season": "summer",
+  "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Greenwich",
-      "state": "CT",
-      "country": "USA"
-    },
-    {
-      "city": "Miami",
+      "city": "Melbourne",
       "state": "FL",
-      "country": "USA"
-    },
-    {
-      "city": "NYC",
       "country": "USA"
     }
   ],
@@ -34,10 +25,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters",
-      "phd"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -52,11 +40,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-06",
-    "discovered": "2026-07-17",
+    "posted": "2026-08-05",
+    "discovered": "2026-08-06",
     "last_verified": "2026-08-06"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"
