@@ -1,29 +1,19 @@
 {
   "schema_version": "1.0",
-  "id": "citadel-trader-fixed-income-macro-intern-2026",
+  "id": "canva-phd-research-scientist-intern-generative-ai-2026",
   "company": {
-    "name": "Citadel",
-    "slug": "citadel"
+    "name": "Canva",
+    "slug": "canva"
   },
-  "role": "Trader: Fixed Income & Macro Intern",
-  "category": "software-engineering",
-  "apply_url": "https://www.citadel.com/careers/details/trader-fixed-income-macro-intern-us/",
+  "role": "PhD Research Scientist Intern - Generative AI",
+  "category": "ai",
+  "apply_url": "https://jobs.smartrecruiters.com/Canva/6000000001289897",
   "season": "fall",
   "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Greenwich",
-      "state": "CT",
-      "country": "USA"
-    },
-    {
-      "city": "Miami",
-      "state": "FL",
-      "country": "USA"
-    },
-    {
-      "city": "NYC",
+      "city": "SF",
       "country": "USA"
     }
   ],
@@ -35,7 +25,6 @@
   "eligibility": {
     "graduation_years": [],
     "degree_levels": [
-      "masters",
       "phd"
     ],
     "citizenship_required": false,
@@ -52,8 +41,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-06",
-    "discovered": "2026-07-17",
+    "posted": "2026-08-06",
+    "discovered": "2026-08-06",
     "last_verified": "2026-08-06"
   },
   "status": "open",

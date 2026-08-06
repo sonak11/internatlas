@@ -8,11 +8,11 @@ _Generated 2026-08-06_
 
 | Company | Listings |
 |---|---|
-| TikTok | 106 |
+| TikTok | 107 |
 | Tesla | 105 |
 | Jump Trading | 43 |
+| ByteDance | 27 |
 | Cloudflare | 27 |
-| ByteDance | 25 |
 | SpaceX | 24 |
 | Susquehanna International Group (SIG) | 22 |
 | IMC Trading | 20 |
@@ -33,10 +33,10 @@ _Generated 2026-08-06_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 741 | `█████████████` |
+| software-engineering | 741 | `████████████` |
+| ai | 146 | `██` |
 | quant | 145 | `██` |
-| ai | 144 | `██` |
-| machine-learning | 102 | `██` |
+| machine-learning | 104 | `██` |
 | research | 82 | `█` |
 | hardware | 74 | `█` |
 | embedded | 44 | `█` |
@@ -51,13 +51,17 @@ _Generated 2026-08-06_
 
 - 2026-08-06 — **ByteDance**: [AI/LLM Network Research Intern - High Speed Network](https://jobs.bytedance.com/en/position/7670281454740818181/detail)
 - 2026-08-06 — **ByteDance**: [AI/LLM Network Research Intern - High Speed Network - PhD](https://jobs.bytedance.com/en/position/7669969771686775045/detail)
+- 2026-08-06 — **ByteDance**: [AI Network Automation Engineer Intern - Global Physical Network Infrastructure](https://jobs.bytedance.com/en/position/7670690923748870405/detail)
+- 2026-08-06 — **ByteDance**: [Applied Machine Learning Production Engineer Intern - AML Production Engineer](https://jobs.bytedance.com/en/position/7670009669494704437/detail)
 - 2026-08-06 — **ByteDance**: [ASIC Design Engineer Intern - Video Silicon IP](https://jobs.bytedance.com/en/position/7670332179383699717/detail)
 - 2026-08-06 — **ByteDance**: [GPU/AI Application System Software Engineer Intern - System Technologies and Engineering](https://jobs.bytedance.com/en/position/7668464504736876853/detail)
 - 2026-08-06 — **ByteDance**: [Research Scientist Intern](https://jobs.bytedance.com/en/position/7670375041041320245/detail)
 - 2026-08-06 — **ByteDance**: [Research Scientist Intern - Multimedia Streaming](https://jobs.bytedance.com/en/position/7670354800621603125/detail)
 - 2026-08-06 — **ByteDance**: [Video/Image AI/ML Software Engineer Intern - Multimedia](https://jobs.bytedance.com/en/position/7670354329765464373/detail)
+- 2026-08-06 — **Canva**: [PhD Research Scientist Intern - Generative AI](https://jobs.smartrecruiters.com/Canva/6000000001289897)
 - 2026-08-06 — **Sargent & Lundy**: [AI & Automation Intern - Summer 2027](https://careers-sargentlundy.icims.com/jobs/25857/job?mobile=true&needsRedirect=false)
 - 2026-08-06 — **TikTok**: [LLM Post-training Engineer Intern - Research & Product](https://lifeattiktok.com/search/7670285031018432773)
+- 2026-08-06 — **TikTok**: [Machine Learning Engineer Intern - E-Commerce Recommendation/Search Alliance](https://lifeattiktok.com/search/7670247810111768837)
 - 2026-08-06 — **TikTok**: [Product Manager Intern - Product Infrastructure - Account](https://lifeattiktok.com/search/7670009830602721589)
 - 2026-08-06 — **TikTok**: [Product Operations Intern - TikTok Shop Apps and API - MBA](https://lifeattiktok.com/search/7668820702623467781)
 - 2026-08-06 — **TikTok**: [Software Engineer Intern - Foundation Platform](https://lifeattiktok.com/search/7670281449668905269)
@@ -65,10 +69,6 @@ _Generated 2026-08-06_
 - 2026-08-06 — **TikTok**: [Strategy Product Manager Intern - Platform Responsibility](https://lifeattiktok.com/search/7670420287191517493)
 - 2026-08-05 — **American Express**: [Product Management Intern - Global Merchant & Network Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012152)
 - 2026-08-05 — **American Express**: [Product Management Intern - Global Merchant & Network Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012148)
-- 2026-08-05 — **Bank of Montreal**: [Database Operations Co-op Intern](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Database-Operations-Co-op--Fall-2026--Co-op-Internship----4-months_R260022911)
-- 2026-08-05 — **Boeing**: [Data Analytics Intern](https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/details/Boeing-Summer-2027-Internship-Program--Paid----Data-Analytics-Intern_JR2026520976-1?q=JR2026520976)
-- 2026-08-05 — **Eridu AI**: [Lab Intern](https://ats.rippling.com/eridu-ai/jobs/7f4d858d-b26e-45ce-acdc-7593d8a1f7b1)
-- 2026-08-05 — **General Dynamics Information Technology**: [Software Developer Intern](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Summer-2027-Software-Developer-Internship_RQ225450-1)
 
 ## Recently closed
 
@@ -78,7 +78,6 @@ _Generated 2026-08-06_
 - Adobe — AI/ML Intern – Machine Learning Engineer/Researcher Intern
 - Airbnb — Sales Operations Intern, Italy
 - Altasciences — Process Innovation Product Management Intern
-- Altice USA — Data Engineer Intern
 - AMAROK Security — Research and Development Intern
 - American Enterprise Institute — Data Analysis & AI Policy Intern
 - American Express — Product Development Intern - Product Development - Consumer Services
@@ -126,10 +125,6 @@ _Generated 2026-08-06_
 - Ciena — Software Engineer and Tools Developer Intern
 - Cirrus Logic — AI Business Analytics Co-op Intern
 - Cirrus Logic — Embedded Software AI Intern Co-op
-- Citadel — Quantitative Trader: Equity Quantitative Research Intern
-- Citadel — Sector Data Analyst Intern
-- Citadel — Trader: Fixed Income & Macro Intern
-- Citadel Securities — Rates Trading Intern
 - City of Austin — Austin Aviation Undergraduate Intern - IT Business Systems Analyst
 - Cloudflare — Public Policy Intern
 - Cloudflare — Sales Project Manager Intern (AI Innovation) (Fall 2026)
@@ -265,6 +260,8 @@ _Generated 2026-08-06_
 - Rivian and Volkswagen Group Technologies — Software Engineer Intern Co-op - Android Connectivity
 - Robert Bosch Venture Capital — Hardware & Embedded Research Intern
 - Rocket Lab — Software Intern
+- Rockwell Automation — Applied AI Intern
+- Rockwell Automation — Applied AI Intern
 - ROCKWOOL Group — Product Management Intern
 - Royal Bank of Canada — Relationship Manager Commercial Markets Intern
 - RTX — Software Engineer Intern

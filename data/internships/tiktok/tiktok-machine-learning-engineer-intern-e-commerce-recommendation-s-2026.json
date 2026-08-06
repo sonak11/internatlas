@@ -1,29 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "citadel-trader-fixed-income-macro-intern-2026",
+  "id": "tiktok-machine-learning-engineer-intern-e-commerce-recommendation-s-2026",
   "company": {
-    "name": "Citadel",
-    "slug": "citadel"
+    "name": "TikTok",
+    "slug": "tiktok"
   },
-  "role": "Trader: Fixed Income & Macro Intern",
-  "category": "software-engineering",
-  "apply_url": "https://www.citadel.com/careers/details/trader-fixed-income-macro-intern-us/",
+  "role": "Machine Learning Engineer Intern - E-Commerce Recommendation/Search Alliance",
+  "category": "machine-learning",
+  "apply_url": "https://lifeattiktok.com/search/7670247810111768837",
   "season": "fall",
   "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Greenwich",
-      "state": "CT",
-      "country": "USA"
-    },
-    {
-      "city": "Miami",
-      "state": "FL",
-      "country": "USA"
-    },
-    {
-      "city": "NYC",
+      "city": "Seattle",
+      "state": "WA",
       "country": "USA"
     }
   ],
@@ -35,7 +26,6 @@
   "eligibility": {
     "graduation_years": [],
     "degree_levels": [
-      "masters",
       "phd"
     ],
     "citizenship_required": false,
@@ -52,8 +42,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-06",
-    "discovered": "2026-07-17",
+    "posted": "2026-08-06",
+    "discovered": "2026-08-06",
     "last_verified": "2026-08-06"
   },
   "status": "open",

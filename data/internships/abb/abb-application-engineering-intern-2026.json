@@ -13,13 +13,13 @@
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Lombard",
-      "state": "IL",
+      "city": "Alpharetta",
+      "state": "GA",
       "country": "USA"
     },
     {
-      "city": "Alpharetta",
-      "state": "GA",
+      "city": "Lombard",
+      "state": "IL",
       "country": "USA"
     }
   ],
@@ -45,13 +45,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-08",
+    "posted": "2026-07-10",
     "discovered": "2026-07-17",
     "last_verified": "2026-08-06"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }

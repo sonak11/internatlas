@@ -1,6 +1,6 @@
 {
   "generated": "2026-08-06",
-  "count": 1479,
+  "count": 1483,
   "internships": [
     {
       "schema_version": "1.0",
@@ -124,13 +124,13 @@
       "work_mode": "onsite",
       "locations": [
         {
-          "city": "Lombard",
-          "state": "IL",
+          "city": "Alpharetta",
+          "state": "GA",
           "country": "USA"
         },
         {
-          "city": "Alpharetta",
-          "state": "GA",
+          "city": "Lombard",
+          "state": "IL",
           "country": "USA"
         }
       ],
@@ -156,14 +156,14 @@
         "resume_keywords": []
       },
       "dates": {
-        "posted": "2026-07-08",
+        "posted": "2026-07-10",
         "discovered": "2026-07-17",
         "last_verified": "2026-08-06"
       },
       "status": "open",
       "tags": [
         "auto-ingested",
-        "src:simplify"
+        "src:vanshb03"
       ]
     },
     {
@@ -1427,9 +1427,9 @@
       "dates": {
         "posted": "2026-07-31",
         "discovered": "2026-07-31",
-        "last_verified": "2026-08-01"
+        "last_verified": "2026-08-06"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -9380,6 +9380,60 @@
     },
     {
       "schema_version": "1.0",
+      "id": "bytedance-ai-network-automation-engineer-intern-global-physical-networ-2027",
+      "company": {
+        "name": "ByteDance",
+        "slug": "bytedance"
+      },
+      "role": "AI Network Automation Engineer Intern - Global Physical Network Infrastructure",
+      "category": "ai",
+      "apply_url": "https://jobs.bytedance.com/en/position/7670690923748870405/detail",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-06",
+        "discovered": "2026-08-06",
+        "last_verified": "2026-08-06"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "bytedance-ai-perception-intern-pico-2027",
       "company": {
         "name": "ByteDance",
@@ -9424,6 +9478,60 @@
       "dates": {
         "posted": "2026-08-03",
         "discovered": "2026-08-03",
+        "last_verified": "2026-08-06"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "bytedance-applied-machine-learning-production-engineer-intern-aml-prod-2027",
+      "company": {
+        "name": "ByteDance",
+        "slug": "bytedance"
+      },
+      "role": "Applied Machine Learning Production Engineer Intern - AML Production Engineer",
+      "category": "machine-learning",
+      "apply_url": "https://jobs.bytedance.com/en/position/7670009669494704437/detail",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-06",
+        "discovered": "2026-08-06",
         "last_verified": "2026-08-06"
       },
       "status": "open",
@@ -11068,6 +11176,59 @@
       "dates": {
         "posted": "2026-07-30",
         "discovered": "2026-07-31",
+        "last_verified": "2026-08-06"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "canva-phd-research-scientist-intern-generative-ai-2026",
+      "company": {
+        "name": "Canva",
+        "slug": "canva"
+      },
+      "role": "PhD Research Scientist Intern - Generative AI",
+      "category": "ai",
+      "apply_url": "https://jobs.smartrecruiters.com/Canva/6000000001289897",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "SF",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-06",
+        "discovered": "2026-08-06",
         "last_verified": "2026-08-06"
       },
       "status": "open",
@@ -13950,7 +14111,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-06"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -14001,7 +14162,7 @@
         "discovered": "2026-08-01",
         "last_verified": "2026-08-06"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -14186,7 +14347,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-06"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -14302,7 +14463,7 @@
         "discovered": "2026-07-21",
         "last_verified": "2026-08-06"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -53522,7 +53683,7 @@
         "discovered": "2026-07-29",
         "last_verified": "2026-08-06"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -53574,7 +53735,7 @@
         "discovered": "2026-07-29",
         "last_verified": "2026-08-06"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -71237,6 +71398,60 @@
       "dates": {
         "posted": "2026-08-03",
         "discovered": "2026-08-03",
+        "last_verified": "2026-08-06"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "tiktok-machine-learning-engineer-intern-e-commerce-recommendation-s-2026",
+      "company": {
+        "name": "TikTok",
+        "slug": "tiktok"
+      },
+      "role": "Machine Learning Engineer Intern - E-Commerce Recommendation/Search Alliance",
+      "category": "machine-learning",
+      "apply_url": "https://lifeattiktok.com/search/7670247810111768837",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Seattle",
+          "state": "WA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-06",
+        "discovered": "2026-08-06",
         "last_verified": "2026-08-06"
       },
       "status": "open",
