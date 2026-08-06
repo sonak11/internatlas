@@ -94,7 +94,7 @@
 | [CNO Financial Group](../companies/cno-financial-group.md) | 1/1 | ai |
 | [CTGT](../companies/ctgt.md) | 1/1 | software-engineering |
 | [Cadence Design Systems](../companies/cadence-design-systems.md) | 5/5 | design, software-engineering |
-| [Canva](../companies/canva.md) | 1/1 | ai |
+| [Canva](../companies/canva.md) | 0/1 | ai |
 | [Capital One](../companies/capital-one.md) | 6/8 | data-science, security, software-engineering |
 | [Carnegie Mellon University](../companies/carnegie-mellon-university.md) | 0/1 | research |
 | [Castleton Commodities International](../companies/castleton-commodities-international.md) | 8/8 | data-engineering, machine-learning, quant, software-engineering |
@@ -164,7 +164,7 @@
 | [Environmental Defense Fund](../companies/environmental-defense-fund.md) | 1/1 | software-engineering |
 | [Eragon](../companies/eragon.md) | 1/1 | ai |
 | [Eridu AI](../companies/eridu-ai.md) | 1/1 | software-engineering |
-| [Etched](../companies/etched.md) | 13/14 | cloud, embedded, software-engineering |
+| [Etched](../companies/etched.md) | 12/14 | cloud, embedded, software-engineering |
 | [Ether.fi](../companies/ether-fi.md) | 1/1 | software-engineering |
 | [Evonik](../companies/evonik.md) | 0/1 | software-engineering |
 | [Exabeam](../companies/exabeam.md) | 1/1 | ai |

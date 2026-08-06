@@ -113,6 +113,7 @@ _Generated 2026-08-06_
 - ByteDance — Research Scientist Intern - AI Infrastructure
 - ByteDance — Research Scientist Intern - AI Infrastructure
 - CACI — Software Engineering Intern
+- Canva — PhD Research Scientist Intern - Generative AI
 - Capital One — Full Stack Software Engineer Intern
 - Capital One — Product Development Internship Program
 - Carnegie Mellon University — Research Intern - School of Computer Science - Language Technologies Institute
@@ -142,6 +143,7 @@ _Generated 2026-08-06_
 - DiDi Global — Motion Planning Engineer Intern
 - Draper — Microsystems Integration Intern
 - DTCC — Product Management Intern
+- Etched — Electrical Platform Intern
 - Etched — Supercomputing Intern
 - Evonik — Life Cycle Management Intern - Sustainability & Life Cycle Management
 - Exclusive Networks — Data Quality & Business Data Analyst Intern
