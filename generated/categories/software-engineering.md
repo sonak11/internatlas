@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 💻 Software Engineering Internships
 
-**741** tracked · **555** open now
+**742** tracked · **556** open now
 
 ## Current openings
 
@@ -71,6 +71,7 @@
 | [Blue Cross Blue Shield of Michigan](generated/companies/blue-cross-blue-shield-of-michigan.md) | [IT Intern](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/14393) | Detroit, MI | Onsite | 2026-07-01 | Rolling | 🟢 Open | ❔ |
 | [Boeing](generated/companies/boeing.md) | [Data Analytics Intern](https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/details/Boeing-Summer-2027-Internship-Program--Paid----Data-Analytics-Intern_JR2026520976-1?q=JR2026520976) | Everett, WA +29 | Onsite | 2026-08-05 | Rolling | 🟢 Open | ❌ |
 | [BorgWarner](generated/companies/borgwarner.md) | [Validation Intern](https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Kokomo-Technical-Center---Indiana---USA/Validation-Intern--Year-Round-_R2026-1960) | Kokomo, IN | Onsite | 2026-05-21 | Rolling | 🟢 Open | ❔ |
+| [BorgWarner](generated/companies/borgwarner.md) | [Validation Intern](https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Kokomo-Technical-Center---Indiana---USA/Validation-Intern--Year-Round-_R2026-1958-1) | Kokomo, IN | Onsite | 2026-05-21 | Rolling | 🟢 Open | ❔ |
 | [Bosch Home Comfort](generated/companies/bosch-home-comfort.md) | [A.1. Integration Intern](https://jobs.smartrecruiters.com/BoschGroup/744000134840254) | Columbia City, IN | Onsite | 2026-07-02 | Rolling | 🟢 Open | ❔ |
 | [Bosch Home Comfort](generated/companies/bosch-home-comfort.md) | [ADAS Software Engineer Intern](https://jobs.smartrecruiters.com/BoschGroup/744000140317669) | Plymouth, MI | Onsite | 2026-07-28 | Rolling | 🟢 Open | ❔ |
 | [Bosch Home Comfort](generated/companies/bosch-home-comfort.md) | [Powertrain Controls Software Engineer Intern](https://jobs.smartrecruiters.com/BoschGroup/744000140089589) | Southfield, MI | Onsite | 2026-07-27 | Rolling | 🟢 Open | ❔ |
@@ -814,6 +815,7 @@
 - Appian (2)
 - Aptiv (2)
 - Bank of Montreal (2)
+- BorgWarner (2)
 - CALSTART (2)
 - Castleton Commodities International (2)
 - Chicago Trading Company (2)
@@ -903,7 +905,6 @@
 - Bloxd (1)
 - Blue Cross Blue Shield of Michigan (1)
 - Boeing (1)
-- BorgWarner (1)
 - Centerstone (1)
 - Chanel (1)
 - Circle K (1)

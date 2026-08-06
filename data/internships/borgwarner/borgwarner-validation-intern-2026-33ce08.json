@@ -1,20 +1,21 @@
 {
   "schema_version": "1.0",
-  "id": "swift-industry-engagement-research-analyst-intern-2026",
+  "id": "borgwarner-validation-intern-2026-33ce08",
   "company": {
-    "name": "Swift",
-    "slug": "swift"
+    "name": "BorgWarner",
+    "slug": "borgwarner"
   },
-  "role": "Industry Engagement Research Analyst Intern",
-  "category": "research",
-  "apply_url": "https://swift.wd3.myworkdayjobs.com/join-swift/job/London-United-Kingdom/Industry-Engagement---Intern-Research-Analyst_2026-16321",
+  "role": "Validation Intern",
+  "category": "software-engineering",
+  "apply_url": "https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Kokomo-Technical-Center---Indiana---USA/Validation-Intern--Year-Round-_R2026-1960",
   "season": "fall",
   "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "London",
-      "country": "UK"
+      "city": "Kokomo",
+      "state": "IN",
+      "country": "USA"
     }
   ],
   "compensation": {
@@ -39,11 +40,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-05",
-    "discovered": "2026-08-05",
+    "posted": "2026-05-21",
+    "discovered": "2026-08-06",
     "last_verified": "2026-08-06"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

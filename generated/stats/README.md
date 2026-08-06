@@ -33,7 +33,7 @@ _Generated 2026-08-06_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 741 | `████████████` |
+| software-engineering | 742 | `████████████` |
 | ai | 146 | `██` |
 | quant | 145 | `██` |
 | machine-learning | 104 | `██` |
@@ -185,6 +185,7 @@ _Generated 2026-08-06_
 - Intel — AI Software Engineering Intern
 - Intel Corporation — AI Software Engineering PhD Intern
 - JINGDONG — Software Engineering Intern
+- JP Morgan Chase — Data Internship - Data & AI Program
 - KBR — National Security Solutions Intern - Nss
 - Keysight Technologies — R&D Software Engineer Intern
 - Kinaxis — Engineer Co-op/Intern - Data & Analytics
@@ -297,6 +298,7 @@ _Generated 2026-08-06_
 - SS&C — Healthcare AI & Automation Intern
 - Stoke Space — Software Intern - Software
 - Susquehanna International Group (SIG) — Trading Operations Analyst Intern
+- Swift — Industry Engagement Research Analyst Intern
 - T. Rowe Price — Global Product Intern
 - T. Rowe Price — Technology and Data Intern
 - Tencent — AI Agent Research & Application Intern
