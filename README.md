@@ -8,7 +8,7 @@
 
 No dead links, no generic careers pages. Just current openings, newest first, with the date each one was posted.
 
-![summer 2027](https://img.shields.io/badge/summer%202027-563-blue?style=for-the-badge) ![open now](https://img.shields.io/badge/open%20now-494-brightgreen?style=for-the-badge) ![companies](https://img.shields.io/badge/companies-542-purple?style=for-the-badge) ![visa sponsors](https://img.shields.io/badge/visa%20sponsors-23-orange?style=for-the-badge) ![remote roles](https://img.shields.io/badge/remote%20roles-37-teal?style=for-the-badge) ![sync](https://img.shields.io/badge/sync-hourly-success?style=for-the-badge) ![updated](https://img.shields.io/badge/updated-2026--08--07%2010:59%20AM%20EDT-lightgrey?style=for-the-badge)
+![summer 2027](https://img.shields.io/badge/summer%202027-563-blue?style=for-the-badge) ![open now](https://img.shields.io/badge/open%20now-494-brightgreen?style=for-the-badge) ![companies](https://img.shields.io/badge/companies-542-purple?style=for-the-badge) ![visa sponsors](https://img.shields.io/badge/visa%20sponsors-23-orange?style=for-the-badge) ![remote roles](https://img.shields.io/badge/remote%20roles-37-teal?style=for-the-badge) ![sync](https://img.shields.io/badge/sync-hourly-success?style=for-the-badge) ![updated](https://img.shields.io/badge/updated-2026--08--07%2012:01%20PM%20EDT-lightgrey?style=for-the-badge)
 
 [**📋 Browse listings**](#-summer-2027-internships) · [**🗓 Other terms**](#-other-open-terms) · [**➕ Add one**](CONTRIBUTING.md) · [**🔗 Sources**](SOURCES.md)
 
@@ -665,7 +665,7 @@ No dead links, no generic careers pages. Just current openings, newest first, wi
 <details>
 <summary><b>Show other open terms (968)</b></summary>
 
-### 🍂 Fall 2026 (879 · 602 open)
+### 🍂 Fall 2026 (879 · 600 open)
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
@@ -754,7 +754,6 @@ No dead links, no generic careers pages. Just current openings, newest first, wi
 | [Persona AI](generated/companies/persona-ai.md) | [Autonomy Software Engineer Intern - World Modeling](https://jobs.ashbyhq.com/persona.ai/fd514a3f-4138-48d5-9862-05ff74a4ca08/application?embed=true) | Houston, TX | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
 | [Postman](generated/companies/postman.md) | [AI Engineer Intern](https://job-boards.greenhouse.io/postman/jobs/7823417003) | Berkeley, CA | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
 | [Prospect Equities](generated/companies/prospect-equities.md) | [Backend / Frontend Developer Intern](https://prospectequities.applytojob.com/apply/XTbzSAcNtg/Backend-Frontend-Developer-Intern) | Chicago, IL | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
-| [SRI International](generated/companies/sri-international.md) | [Computer Science Intern](https://careers-sri.icims.com/jobs/6438/job?mobile=true&needsRedirect=false) | Menlo Park, CA | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
 | [Stellar Science](generated/companies/stellar-science.md) | [Scientific Software Developer Intern Co-op](https://stellarscience.applytojob.com/apply/my4AC4VXHI/Scientific-Software-Developer-Paid-CoopInternship) | Albuquerque, NM | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
 | [StudyFetch](generated/companies/studyfetch.md) | [Engineering Intern](https://ats.rippling.com/studyfetch/jobs/4ab846a3-a963-46c3-a60d-03fa832fa7d5) | Beverly Hills, CA | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
 | [StudyFetch](generated/companies/studyfetch.md) | [Product Intern](https://ats.rippling.com/studyfetch/jobs/45f16361-69b0-4e74-8cc3-d2574336c76f) | Beverly Hills, CA | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
@@ -1101,7 +1100,6 @@ No dead links, no generic careers pages. Just current openings, newest first, wi
 | [Pennsylvania State University](generated/companies/pennsylvania-state-university.md) | [Electronic Materials and Devices Engineer Intern - Electronic Materials and Devices](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Electronic-Materials-and-Devices-Engineering-Intern_REQ_0000053210) | University Park | Onsite | 2026-06-20 | Rolling | 🟢 Open | ❔ |
 | [Definity Financial](generated/companies/definity-financial.md) | [Technology Solutions Data Platform & Engineering Co-op/Intern](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9124) | Toronto | Onsite | 2026-06-19 | Rolling | 🟢 Open | ❔ |
 | [Tencent](generated/companies/tencent.md) | [AI Product Manager Intern](https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/United-Kingdom-London/Product-manager-Intern_R107654) | London | Onsite | 2026-06-19 | Rolling | 🟢 Open | ❔ |
-| [Ciena](generated/companies/ciena.md) | [Optical Modem Hardware Intern](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Fall-2026-Optical-Modem-Hardware-Intern--8-12-months-_R031214) | Ottawa | Onsite | 2026-06-17 | Rolling | 🟢 Open | ❔ |
 | [Meta](generated/companies/meta.md) | [Research Scientist Intern - Photorealistic Telepresence](https://www.metacareers.com/jobs/924149567345400) | London | Onsite | 2026-06-17 | Rolling | 🟢 Open | ❔ |
 | [Cotiviti](generated/companies/cotiviti.md) | [Generative AI Research Engineer Intern](https://careers-cotiviti.icims.com/jobs/19341/job?mobile=true&needsRedirect=false) | Remote | Remote | 2026-06-16 | Rolling | 🟢 Open | ❔ |
 | [Definity Financial](generated/companies/definity-financial.md) | [Reporting Specialist Co-op/Intern](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9150) | Mississauga +1 | Onsite | 2026-06-16 | Rolling | 🟢 Open | ❔ |
@@ -1279,6 +1277,7 @@ No dead links, no generic careers pages. Just current openings, newest first, wi
 | [Aramark](generated/companies/aramark.md) | [Data Analyst Intern](https://aramarkcareers.com/UnitedStates/job/Newark-Student-Dietetic-Intern-DE-19716/1415241000/?ats=successfactors) | Newark, DE | Onsite | 2026-08-03 | Rolling | 🔴 Closed | ❔ |
 | [Bosch Home Comfort](generated/companies/bosch-home-comfort.md) | [Artificial Intelligence and Software Development Engineering Intern](https://jobs.smartrecruiters.com/BoschGroup/744000141302469) | Plymouth, MI | Onsite | 2026-08-03 | Rolling | 🔴 Closed | ❔ |
 | [QuEra Computing](generated/companies/quera-computing.md) | [Photonics Data Engineer Intern - Data Management](https://job-boards.greenhouse.io/queracomputinginc/jobs/5378366008) | Boston, MA | Onsite | 2026-08-03 | Rolling | 🔴 Closed | ❔ |
+| [SRI International](generated/companies/sri-international.md) | [Computer Science Intern](https://careers-sri.icims.com/jobs/6438/job?mobile=true&needsRedirect=false) | Menlo Park, CA | Onsite | 2026-08-03 | Rolling | 🔴 Closed | ❔ |
 | [ZGF Architects](generated/companies/zgf-architects.md) | [Technology Intern](https://zgfarchitects.applytojob.com/apply/uqHC8SCmq2/Technology-Intern) | Portland, OR | Onsite | 2026-08-03 | Rolling | 🔴 Closed | ❔ |
 | [Altice USA](generated/companies/altice-usa.md) | [Data Engineer Intern](https://www.optimumcareers.com/job/Long-Island-City-Intern-Data-Engineer-NY-11101/1414286700/?ats=successfactors) | Long Island City | Onsite | 2026-07-31 | Rolling | 🔴 Closed | ❔ |
 | [Exclusive Networks](generated/companies/exclusive-networks.md) | [Data Quality & Business Data Analyst Intern](https://exclusivenetworks.wd103.myworkdayjobs.com/Exclusive-Networks-Career/job/Son/Data-Quality---Business-Data-Analyst-Intern_JR2326-1) | Hermiston, OR | Onsite | 2026-07-31 | Rolling | 🔴 Closed | ❔ |
@@ -1460,6 +1459,7 @@ No dead links, no generic careers pages. Just current openings, newest first, wi
 | [Persistent Systems](generated/companies/persistent-systems.md) | [Hardware Engineer Intern](https://careers-persistentsystems.icims.com/jobs/2270/job?mobile=true&needsRedirect=false) | NYC | Onsite | 2026-06-22 | Rolling | 🔴 Closed | ❔ |
 | [Autodesk](generated/companies/autodesk.md) | [Cloud Developer Intern](https://autodesk.wd1.myworkdayjobs.com/uni/job/Quebec-CAN---Remote/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer_26WD99464-1) | Remote | Remote | 2026-06-18 | Rolling | 🔴 Closed | ❔ |
 | [Autodesk](generated/companies/autodesk.md) | [Cloud Developer Intern](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Quebec-CAN---Remote/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer_26WD99464-2) | Remote | Remote | 2026-06-18 | Rolling | 🔴 Closed | ❔ |
+| [Ciena](generated/companies/ciena.md) | [Optical Modem Hardware Intern](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Fall-2026-Optical-Modem-Hardware-Intern--8-12-months-_R031214) | Ottawa | Onsite | 2026-06-17 | Rolling | 🔴 Closed | ❔ |
 | [Consensus Cloud Solutions](generated/companies/consensus-cloud-solutions.md) | [Sales Strategy & Analytics Intern](https://consensus.com/careers/jobs/?gh_jid=4688215006) | Remote | Remote | 2026-06-17 | Rolling | 🔴 Closed | ❔ |
 | [Definity Financial](generated/companies/definity-financial.md) | [Data Specialist Co-op Intern - Claim Operations Management](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9148) | Kitchener | Onsite | 2026-06-17 | Rolling | 🔴 Closed | ❔ |
 | [Marvell](generated/companies/marvell.md) | [Design Verification Engineer Intern](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Ottawa-Canada/Design-Verification-Engineer-Intern---Fall-2026_2602706) | Ottawa | Onsite | 2026-06-17 | Rolling | 🔴 Closed | ❔ |

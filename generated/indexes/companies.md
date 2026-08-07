@@ -107,7 +107,7 @@
 | [Chanel](../companies/chanel.md) | 1/1 | software-engineering |
 | [Chevron Corporation](../companies/chevron-corporation.md) | 4/6 | quant, software-engineering |
 | [Chicago Trading Company](../companies/chicago-trading-company.md) | 6/6 | quant, software-engineering |
-| [Ciena](../companies/ciena.md) | 7/12 | design, embedded, hardware, software-engineering |
+| [Ciena](../companies/ciena.md) | 6/12 | design, embedded, hardware, software-engineering |
 | [Circle K](../companies/circle-k.md) | 1/1 | software-engineering |
 | [Circleback](../companies/circleback.md) | 1/1 | software-engineering |
 | [Cirrus Logic](../companies/cirrus-logic.md) | 1/3 | ai, embedded |
@@ -414,7 +414,7 @@
 | [SK Hynix Memory Solution](../companies/sk-hynix-memory-solution.md) | 1/1 | software-engineering |
 | [SOTI](../companies/soti.md) | 2/3 | data-science, product |
 | [SPREEAI](../companies/spreeai.md) | 1/1 | ai |
-| [SRI International](../companies/sri-international.md) | 1/1 | software-engineering |
+| [SRI International](../companies/sri-international.md) | 0/1 | software-engineering |
 | [SS&C](../companies/ss-c.md) | 0/1 | ai |
 | [Salesforce](../companies/salesforce.md) | 0/3 | product, software-engineering |
 | [Samsara](../companies/samsara.md) | 2/2 | software-engineering |

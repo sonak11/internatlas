@@ -121,6 +121,7 @@ _Generated 2026-08-07_
 - Centerfield — Product Manager Intern
 - Ciena — Embedded Software Engineer Intern
 - Ciena — Embedded Software Engineer Intern
+- Ciena — Optical Modem Hardware Intern
 - Ciena — Photonic Hardware Intern
 - Ciena — Routing/IP Software Developer Intern
 - Ciena — Software Engineer and Tools Developer Intern
@@ -284,6 +285,7 @@ _Generated 2026-08-07_
 - Sparksoft — Data Development Intern
 - Sparksoft — Technical Intern
 - Spectrum Control — Engineering Intern
+- SRI International — Computer Science Intern
 - Stoke Space — Software Intern - Software
 - Susquehanna International Group (SIG) — Trading Operations Analyst Intern
 - T. Rowe Price — Global Trading Intern

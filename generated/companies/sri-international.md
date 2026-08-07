@@ -6,7 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
-| SRI International | [Computer Science Intern](https://careers-sri.icims.com/jobs/6438/job?mobile=true&needsRedirect=false) | Menlo Park, CA | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
+| SRI International | [Computer Science Intern](https://careers-sri.icims.com/jobs/6438/job?mobile=true&needsRedirect=false) | Menlo Park, CA | Onsite | 2026-08-03 | Rolling | 🔴 Closed | ❔ |
 
 ## Related
 
