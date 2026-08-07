@@ -37,7 +37,7 @@ _Generated 2026-08-07_
 | ai | 150 | `██` |
 | quant | 145 | `██` |
 | machine-learning | 106 | `██` |
-| research | 85 | `█` |
+| research | 86 | `█` |
 | hardware | 74 | `█` |
 | embedded | 45 | `█` |
 | product | 38 | `█` |
@@ -52,6 +52,7 @@ _Generated 2026-08-07_
 - 2026-08-07 — **ByteDance**: [Machine Learning Research Scientist Intern - Seed AI for Science - Atomistic AI](https://jobs.bytedance.com/en/position/7670855041951795509/detail)
 - 2026-08-07 — **ByteDance**: [Network Software Engineer Intern - Network Observation](https://jobs.bytedance.com/en/position/7670772641439041797/detail)
 - 2026-08-07 — **ByteDance**: [Network Software Engineer Intern - Network Switch](https://jobs.bytedance.com/en/position/7670778018960542005/detail)
+- 2026-08-07 — **Canva**: [PhD Research Scientist Intern - Reinforcement Learning for Diffusion Modelling](https://jobs.smartrecruiters.com/Canva/6000000001295209)
 - 2026-08-07 — **Luminance**: [AI Engineering Intern](https://apply.workable.com/luminance-1/j/E045EF5A7A/apply)
 - 2026-08-07 — **tarte cosmetics**: [Product Development Intern](https://apply.workable.com/tarte-inc/j/66E81C77A4/apply)
 - 2026-08-07 — **Terranova**: [Software Engineer Intern](https://jobs.ashbyhq.com/terranova/a8e5a8d2-4af3-4736-b66e-e0804447f7a0/application?embed=true)
@@ -68,7 +69,6 @@ _Generated 2026-08-07_
 - 2026-08-06 — **ByteDance**: [Applied Machine Learning Production Engineer Intern - AML Production Engineer](https://jobs.bytedance.com/en/position/7670009669494704437/detail)
 - 2026-08-06 — **ByteDance**: [ASIC Design Engineer Intern - Video Silicon IP](https://jobs.bytedance.com/en/position/7670332179383699717/detail)
 - 2026-08-06 — **ByteDance**: [GPU/AI Application System Software Engineer Intern](https://joinbytedance.com/search/7668464504736876853)
-- 2026-08-06 — **ByteDance**: [GPU/AI Application System Software Engineer Intern - System Technologies and Engineering](https://jobs.bytedance.com/en/position/7668464504736876853/detail)
 
 ## Recently closed
 
@@ -85,6 +85,7 @@ _Generated 2026-08-07_
 - Apptronik — Software Engineer Intern, ML Systems
 - Aramark — Data Analyst Intern
 - Arcadis — GIS Intern
+- Arizona State University — Management Intern - Career Data and Analytics
 - Assurant — Digital & AI Transformation Intern
 - Astranis — FPGA Associate Intern
 - Astranis — FPGA Intern
@@ -112,6 +113,7 @@ _Generated 2026-08-07_
 - ByteDance — Research Scientist Intern - AI Infrastructure
 - CACI — Software Engineering Intern
 - Canva — PhD Research Scientist Intern - Generative AI
+- Canva — PhD Research Scientist Intern - Reinforcement Learning - Images
 - Capital One — Full Stack Software Engineer Intern
 - Capital One — Product Development Internship Program
 - Carnegie Mellon University — Research Intern - School of Computer Science - Language Technologies Institute
@@ -268,6 +270,7 @@ _Generated 2026-08-07_
 - Sentara Health — Data & AI Finance Strategy Intern
 - Sentara Health — Enterprise Data & AI Intern
 - Smith+Nephew — Operational Technology Intern
+- Sony Pictures Entertainment — Graduate Intern - Advanced Technologies
 - SOTI — Product Manager Intern - Sales Enablement Products
 - SpaceX — Engineering Intern
 - SpaceX — Fall 2026 Business Operations Internship/Co-op

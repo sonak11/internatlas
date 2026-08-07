@@ -53,7 +53,7 @@
 | [Ardian](../companies/ardian.md) | 1/1 | data-science |
 | [Argmax](../companies/argmax.md) | 1/1 | ai |
 | [Argonne National Laboratory](../companies/argonne-national-laboratory.md) | 1/1 | software-engineering |
-| [Arizona State University](../companies/arizona-state-university.md) | 1/1 | software-engineering |
+| [Arizona State University](../companies/arizona-state-university.md) | 0/1 | software-engineering |
 | [Arkema Global](../companies/arkema-global.md) | 1/1 | software-engineering |
 | [Arlington County VA](../companies/arlington-county-va.md) | 1/1 | software-engineering |
 | [Arrowstreet Capital](../companies/arrowstreet-capital.md) | 2/2 | quant |
@@ -97,7 +97,7 @@
 | [CNO Financial Group](../companies/cno-financial-group.md) | 2/2 | ai, security |
 | [CTGT](../companies/ctgt.md) | 1/1 | software-engineering |
 | [Cadence Design Systems](../companies/cadence-design-systems.md) | 5/5 | design, software-engineering |
-| [Canva](../companies/canva.md) | 3/4 | ai, research |
+| [Canva](../companies/canva.md) | 3/5 | ai, research |
 | [Capital One](../companies/capital-one.md) | 6/8 | data-science, security, software-engineering |
 | [Carnegie Mellon University](../companies/carnegie-mellon-university.md) | 0/1 | research |
 | [Castleton Commodities International](../companies/castleton-commodities-international.md) | 8/8 | data-engineering, machine-learning, quant, software-engineering |
@@ -438,7 +438,7 @@
 | [Snowflake](../companies/snowflake.md) | 3/3 | cloud, software-engineering |
 | [Solid Power](../companies/solid-power.md) | 0/1 | software-engineering |
 | [SoloPulse](../companies/solopulse.md) | 1/1 | software-engineering |
-| [Sony Pictures Entertainment](../companies/sony-pictures-entertainment.md) | 1/1 | software-engineering |
+| [Sony Pictures Entertainment](../companies/sony-pictures-entertainment.md) | 0/1 | software-engineering |
 | [SpaceX](../companies/spacex.md) | 18/25 | hardware, software-engineering |
 | [Sparksoft](../companies/sparksoft.md) | 0/2 | software-engineering |
 | [Spectrum Control](../companies/spectrum-control.md) | 0/1 | software-engineering |

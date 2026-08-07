@@ -1,21 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "arizona-state-university-management-intern-career-data-and-analytics-2026",
+  "id": "canva-phd-research-scientist-intern-reinforcement-learning-for-dif-2026",
   "company": {
-    "name": "Arizona State University",
-    "slug": "arizona-state-university"
+    "name": "Canva",
+    "slug": "canva"
   },
-  "role": "Management Intern - Career Data and Analytics",
-  "category": "software-engineering",
-  "apply_url": "https://asu.wd1.myworkdayjobs.com/ASUStaffCareers/job/Campus-Tempe/Management-Intern---Career-Data-and-Analytics_JR124023",
+  "role": "PhD Research Scientist Intern - Reinforcement Learning for Diffusion Modelling",
+  "category": "research",
+  "apply_url": "https://jobs.smartrecruiters.com/Canva/6000000001295209",
   "season": "fall",
   "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Tempe",
-      "state": "AZ",
-      "country": "USA"
+      "city": "London",
+      "country": "UK"
     }
   ],
   "compensation": {
@@ -25,7 +24,9 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "phd"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -40,11 +41,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-30",
-    "discovered": "2026-07-31",
+    "posted": "2026-08-07",
+    "discovered": "2026-08-07",
     "last_verified": "2026-08-07"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

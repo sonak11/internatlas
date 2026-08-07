@@ -1,6 +1,6 @@
 {
   "generated": "2026-08-07",
-  "count": 1528,
+  "count": 1529,
   "internships": [
     {
       "schema_version": "1.0",
@@ -5391,7 +5391,7 @@
         "discovered": "2026-07-31",
         "last_verified": "2026-08-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -11943,6 +11943,59 @@
     },
     {
       "schema_version": "1.0",
+      "id": "canva-phd-research-scientist-intern-reinforcement-learning-for-dif-2026",
+      "company": {
+        "name": "Canva",
+        "slug": "canva"
+      },
+      "role": "PhD Research Scientist Intern - Reinforcement Learning for Diffusion Modelling",
+      "category": "research",
+      "apply_url": "https://jobs.smartrecruiters.com/Canva/6000000001295209",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "London",
+          "country": "UK"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-07",
+        "discovered": "2026-08-07",
+        "last_verified": "2026-08-07"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "canva-phd-research-scientist-intern-reinforcement-learning-images-2026",
       "company": {
         "name": "Canva",
@@ -11988,7 +12041,7 @@
         "discovered": "2026-08-07",
         "last_verified": "2026-08-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -58826,7 +58879,7 @@
         "discovered": "2026-08-01",
         "last_verified": "2026-08-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
