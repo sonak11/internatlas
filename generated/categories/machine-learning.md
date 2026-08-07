@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🧠 Machine Learning Internships
 
-**106** tracked · **92** open now
+**106** tracked · **91** open now
 
 ## Current openings
 
@@ -98,7 +98,6 @@
 | [TikTok](generated/companies/tiktok.md) | [Machine Learning Scientist Intern - Recommendation](https://lifeattiktok.com/search/7662657855099357493) | San Jose, CA | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
 | [TikTok](generated/companies/tiktok.md) | [Software Engineer Intern - ML Infra](https://lifeattiktok.com/search/7668696895234197813) | San Jose, CA | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
 | [TMEIC](generated/companies/tmeic.md) | [Intern - Applications, AI and Machine Learning](https://apply.workable.com/tmeic-corporation-americas/j/FD4C9770FF/) | Roanoke, VA | Onsite | 2026-05-01 | Rolling | 🟢 Open | ❌ |
-| [Veralto](generated/companies/veralto.md) | [Machine Learning Co-op Intern](https://veralto.wd1.myworkdayjobs.com/hachjobs/job/London-Ontario-Canada/Aquatic-Informatics---Machine-Learning-Co-Op--Intern-_R10267571) | Vancouver | Onsite | 2026-07-23 | Rolling | 🟢 Open | ❔ |
 | [X Development](generated/companies/x-development.md) | [PhD Residency Intern - Physical ML & Hardware-in-the-Loop - Future of Compute](https://x.company/careers/8616839002?gh_jid=8616839002) | Mountain View, CA | Onsite | 2026-07-02 | Rolling | 🟢 Open | ❔ |
 | [Adobe](generated/companies/adobe.md) | [AI/ML Intern – Machine Learning Engineer/Researcher Intern](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-AI-ML-Intern---Machine-Learning-Engineer-Intern_R160706) | Seattle, WA +2 | Onsite | 2026-05-16 | Rolling | 🔴 Closed | ❔ |
 | [Apptronik](generated/companies/apptronik.md) | [Software Engineer Intern, ML Systems](https://job-boards.greenhouse.io/apptronik/jobs/6128057004?gh_jid=6128057004) | Austin, TX | Onsite | 2026-07-28 | Rolling | 🔴 Closed | ❔ |
@@ -114,6 +113,7 @@
 | [Samsung Research America](generated/companies/samsung-research-america.md) | [ML/NLP Research Intern](https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8541339002) | Mountain View, CA | Onsite | 2026-05-08 | Rolling | 🔴 Closed | ❔ |
 | [Tesla](generated/companies/tesla.md) | [Machine Learning Platform Intern - Multiple Teams](https://www.tesla.com/careers/search/job/269812) | Palo Alto, CA | Onsite | 2026-05-06 | Rolling | 🔴 Closed | ❔ |
 | [TikTok](generated/companies/tiktok.md) | [Machine Learning Engineer Intern - App Ads](https://lifeattiktok.com/search/7623166673809770757) | San Jose, CA | Onsite | 2026-03-31 | Rolling | 🔴 Closed | ❔ |
+| [Veralto](generated/companies/veralto.md) | [Machine Learning Co-op Intern](https://veralto.wd1.myworkdayjobs.com/hachjobs/job/London-Ontario-Canada/Aquatic-Informatics---Machine-Learning-Co-Op--Intern-_R10267571) | Vancouver | Onsite | 2026-07-23 | Rolling | 🔴 Closed | ❔ |
 
 ## Hiring companies
 
@@ -160,7 +160,6 @@
 - SpreeAI (1)
 - Terranox AI (1)
 - TMEIC (1)
-- Veralto (1)
 - X Development (1)
 - Adobe (1)
 - Apptronik (1)
@@ -171,6 +170,7 @@
 - NVIDIA (1)
 - Output Biosciences (1)
 - Samsung Research America (1)
+- Veralto (1)
 
 ## Tips
 

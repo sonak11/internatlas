@@ -336,7 +336,7 @@
 | [Nightwing](../companies/nightwing.md) | 1/1 | hardware |
 | [Nokia](../companies/nokia.md) | 0/5 | data-science, embedded, software-engineering |
 | [North Cloud](../companies/north-cloud.md) | 0/1 | ai |
-| [Northrop Grumman](../companies/northrop-grumman.md) | 2/4 | software-engineering |
+| [Northrop Grumman](../companies/northrop-grumman.md) | 1/4 | software-engineering |
 | [Northwestern Mutual](../companies/northwestern-mutual.md) | 1/1 | software-engineering |
 | [Notion](../companies/notion.md) | 5/6 | ai, software-engineering |
 | [Novanta](../companies/novanta.md) | 1/1 | software-engineering |
@@ -511,7 +511,7 @@
 | [Veeam Software](../companies/veeam-software.md) | 2/2 | ai, software-engineering |
 | [Veeda AI](../companies/veeda-ai.md) | 1/1 | ai |
 | [Vega Investment Technologies](../companies/vega-investment-technologies.md) | 1/1 | software-engineering |
-| [Veralto](../companies/veralto.md) | 1/1 | machine-learning |
+| [Veralto](../companies/veralto.md) | 0/1 | machine-learning |
 | [Verkada](../companies/verkada.md) | 0/1 | software-engineering |
 | [Verne Robotics](../companies/verne-robotics.md) | 1/1 | software-engineering |
 | [Vertiv](../companies/vertiv.md) | 1/1 | software-engineering |

@@ -226,6 +226,7 @@ _Generated 2026-08-07_
 - North Cloud — AI Automation Intern
 - Northrop Grumman — Software Engineer Intern
 - Northrop Grumman — Software Engineer Intern
+- Northrop Grumman — Software Engineer Intern - Aeronautics Systems
 - Notion — Software Engineer Intern
 - NVIDIA — Applied Deep Learning PhD Research Intern - Reinforcement Learning for LLMs
 - NVIDIA — Performance Engineer Intern, Systems Software
@@ -322,6 +323,7 @@ _Generated 2026-08-07_
 - Two Six Technologies — China Subject Matter Expert Intern
 - University of Virginia — Graduate Research Intern
 - Varda Space — Mission Software – Intern - Python
+- Veralto — Machine Learning Co-op Intern
 - Walleye Capital — Central Equity Quant Research Intern - Ceqr
 - Walleye Capital — Investment Data Science Intern
 - Walleye Capital — Quantic – Quantitative Researcher Intern

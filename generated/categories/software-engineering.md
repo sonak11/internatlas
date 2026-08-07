@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 💻 Software Engineering Internships
 
-**776** tracked · **577** open now
+**776** tracked · **576** open now
 
 ## Current openings
 
@@ -315,7 +315,6 @@
 | [Netsmart](generated/companies/netsmart.md) | [Software Engineer Intern](https://ntst.wd1.myworkdayjobs.com/careers/job/Overland-Park-KS/Software-Engineer-Intern--Summer-2027-Internship-_R015667) | Overland Park, KS | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❌ |
 | [New York Post Holdings](generated/companies/new-york-post-holdings.md) | [Product Intern](https://dowjones.wd1.myworkdayjobs.com/New_York_Post_Careers/job/NYC---1211-Ave-of-the-Americas/Product-Intern--Fall-2026--10-weeks--24-hours-a-week-_Job_Req_54488) | NYC | Onsite | 2026-07-31 | Rolling | 🟢 Open | ❔ |
 | [Nexstar](generated/companies/nexstar.md) | [Media Archivist Intern](https://nexstar.wd5.myworkdayjobs.com/nexstar/job/AL-Mobile/Media-Archivist-Intern--In--Person--Fall-2026_REQ-41978) | Mobile, AL | Onsite | 2026-06-27 | Rolling | 🟢 Open | ❔ |
-| [Northrop Grumman](generated/companies/northrop-grumman.md) | [Software Engineer Intern - Aeronautics Systems](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10243573) | Melbourne, FL | Onsite | 2026-08-05 | Rolling | 🟢 Open | ❔ |
 | [Northrop Grumman](generated/companies/northrop-grumman.md) | [Software Engineer Intern - Aeronautics Systems](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10242395) | Melbourne, FL | Onsite | 2026-08-06 | Rolling | 🟢 Open | ❔ |
 | [Northwestern Mutual](generated/companies/northwestern-mutual.md) | [Investment Analyst Intern - Private Debt & Equity](https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Milwaukee-WI-Corporate/Investment-Analyst-Intern---Private-Debt---Equity--Summer-2027_JR-45705) | Milwaukee, WI | Onsite | 2026-07-24 | Rolling | 🟢 Open | ❔ |
 | [Notion](generated/companies/notion.md) | [Governance, Risk, and Compliance Intern (Fall 2026)](https://jobs.ashbyhq.com/notion/6ccbc30c-2de0-4395-af14-3641cd15961b) | Remote | Remote | 2026-07-15 | Rolling | 🟢 Open | ❔ |
@@ -713,6 +712,7 @@
 | [Nokia](generated/companies/nokia.md) | [Product Development Intern/Co-op](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34184) | Ottawa | Onsite | 2026-04-16 | Rolling | 🔴 Closed | ❔ |
 | [Northrop Grumman](generated/companies/northrop-grumman.md) | [Software Engineer Intern](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Returning-Intern-Software-Engineer_R10242378) | Melbourne, FL | Onsite | 2026-07-27 | Rolling | 🔴 Closed | ❔ |
 | [Northrop Grumman](generated/companies/northrop-grumman.md) | [Software Engineer Intern](https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10239275) | Melbourne, FL | Onsite | 2026-07-25 | Rolling | 🔴 Closed | ❔ |
+| [Northrop Grumman](generated/companies/northrop-grumman.md) | [Software Engineer Intern - Aeronautics Systems](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10243573) | Melbourne, FL | Onsite | 2026-08-05 | Rolling | 🔴 Closed | ❔ |
 | [Notion](generated/companies/notion.md) | [Software Engineer Intern](https://jobs.ashbyhq.com/notion/5b15697c-fa91-4511-9482-c98a6ff29f90/application) | SF | Onsite | 2026-04-07 | Rolling | 🔴 Closed | ❔ |
 | [NVIDIA](generated/companies/nvidia.md) | [Java Engineer Intern](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Java-Engineering-Intern---Fall-2026_JR2019769) | Santa Clara, CA | Onsite | 2026-07-02 | Rolling | 🔴 Closed | ❔ |
 | [NVIDIA](generated/companies/nvidia.md) | [Performance Engineer Intern, Systems Software](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-MO-St-Louis/Performance-Engineer-Intern--Systems-Software---Fall-2026_JR2015779) | St. Louis, MO | Onsite | 2026-07-09 | Rolling | 🔴 Closed | ❔ |

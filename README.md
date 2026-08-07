@@ -8,7 +8,7 @@
 
 No dead links, no generic careers pages. Just current openings, newest first, with the date each one was posted.
 
-![summer 2027](https://img.shields.io/badge/summer%202027-564-blue?style=for-the-badge) ![open now](https://img.shields.io/badge/open%20now-494-brightgreen?style=for-the-badge) ![companies](https://img.shields.io/badge/companies-543-purple?style=for-the-badge) ![visa sponsors](https://img.shields.io/badge/visa%20sponsors-23-orange?style=for-the-badge) ![remote roles](https://img.shields.io/badge/remote%20roles-37-teal?style=for-the-badge) ![sync](https://img.shields.io/badge/sync-hourly-success?style=for-the-badge) ![updated](https://img.shields.io/badge/updated-2026--08--07%201:52%20PM%20EDT-lightgrey?style=for-the-badge)
+![summer 2027](https://img.shields.io/badge/summer%202027-564-blue?style=for-the-badge) ![open now](https://img.shields.io/badge/open%20now-493-brightgreen?style=for-the-badge) ![companies](https://img.shields.io/badge/companies-543-purple?style=for-the-badge) ![visa sponsors](https://img.shields.io/badge/visa%20sponsors-23-orange?style=for-the-badge) ![remote roles](https://img.shields.io/badge/remote%20roles-37-teal?style=for-the-badge) ![sync](https://img.shields.io/badge/sync-hourly-success?style=for-the-badge) ![updated](https://img.shields.io/badge/updated-2026--08--07%203:05%20PM%20EDT-lightgrey?style=for-the-badge)
 
 [**📋 Browse listings**](#-summer-2027-internships) · [**🗓 Other terms**](#-other-open-terms) · [**➕ Add one**](CONTRIBUTING.md) · [**🔗 Sources**](SOURCES.md)
 
@@ -29,7 +29,7 @@ No dead links, no generic careers pages. Just current openings, newest first, wi
 
 **564 open right now**, grouped by category with the newest postings first. Every **Role** link goes straight to the live application page; the **Posted** column shows when it went up (`*` = the date we first saw it, when the source didn't publish one).
 
-### 💻 Software Engineering (230 · 193 open)
+### 💻 Software Engineering (230 · 192 open)
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
@@ -47,7 +47,6 @@ No dead links, no generic careers pages. Just current openings, newest first, wi
 | [General Dynamics Information Technology](generated/companies/general-dynamics-information-technology.md) | [Software Developer Intern](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Summer-2027-Software-Developer-Internship_RQ225450-1) | Annapolis Junction, MD | Onsite | 2026-08-05 | Rolling | 🟢 Open | ❔ |
 | [Maven Securities](generated/companies/maven-securities.md) | [Trader Intern](https://job-boards.greenhouse.io/emergingtalent/jobs/8051938) | Chicago, IL | Onsite | 2026-08-05 | Rolling | 🟢 Open | ❔ |
 | [Maven Securities](generated/companies/maven-securities.md) | [Trader Intern - Summer](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8051937) | Chicago, IL | Onsite | 2026-08-05 | Rolling | 🟢 Open | ❔ |
-| [Northrop Grumman](generated/companies/northrop-grumman.md) | [Software Engineer Intern - Aeronautics Systems](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10243573) | Melbourne, FL | Onsite | 2026-08-05 | Rolling | 🟢 Open | ❔ |
 | [Roblox](generated/companies/roblox.md) | [Software Engineer Intern](https://careers.roblox.com/jobs/8072713?gh_jid=8072713) | San Mateo, CA | Onsite | 2026-08-05 | Rolling | 🟢 Open | ❌ |
 | [RTX](generated/companies/rtx.md) | [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineering-Intern--Summer-2027-_01864033) | Cedar Rapids, IA | Onsite | 2026-08-05 | Rolling | 🟢 Open | ❔ |
 | [Susquehanna International Group (SIG)](generated/companies/susquehanna-international-group-sig.md) | [Derivatives Sales Trader Intern - Summer 2027](https://careers-sig.icims.com/jobs/10626/job?mobile=true&needsRedirect=false) | NYC | Onsite | 2026-08-05 | Rolling | 🟢 Open | ❔ |
@@ -227,6 +226,7 @@ No dead links, no generic careers pages. Just current openings, newest first, wi
 | [Grant Thornton](generated/companies/grant-thornton.md) | [Tax Technology Intern - Summer 2027](https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/114404) | Dallas, TX | Onsite | 2026-02-11 | Rolling | 🟢 Open | ❔ |
 | [Ramp](generated/companies/ramp.md) | [Software Engineer Internship, Android](https://jobs.ashbyhq.com/ramp/67fadb77-43d8-4449-954b-d4cf2c6d3b8b) | Remote | Remote | 2025-08-07 | Rolling | 🟢 Open | ❔ |
 | [Sargent & Lundy](generated/companies/sargent-lundy.md) | [Software Engineer Intern](https://careers-sargentlundy.icims.com/jobs/25889/job?mobile=true&needsRedirect=false) | Chicago, IL | Onsite | 2026-08-06 | Rolling | 🔴 Closed | ❔ |
+| [Northrop Grumman](generated/companies/northrop-grumman.md) | [Software Engineer Intern - Aeronautics Systems](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10243573) | Melbourne, FL | Onsite | 2026-08-05 | Rolling | 🔴 Closed | ❔ |
 | [Cloudflare](generated/companies/cloudflare.md) | [GRC Team Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8095533?gh_jid=8095533) | In-Office | Onsite | 2026-08-04 | Rolling | 🔴 Closed | ❔ |
 | [General Dynamics Information Technology](generated/companies/general-dynamics-information-technology.md) | [Software Developer Intern](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Summer-2027-Software-Developer-Internship_RQ225717-1) | Annapolis Junction, MD | Onsite | 2026-08-04 | Rolling | 🔴 Closed | ❔ |
 | [American Express](generated/companies/american-express.md) | [Product Development Intern - Product Development - Consumer Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011571) | NYC | Onsite | 2026-08-03 | Rolling | 🔴 Closed | ❔ |
@@ -666,7 +666,7 @@ No dead links, no generic careers pages. Just current openings, newest first, wi
 <details>
 <summary><b>Show other open terms (968)</b></summary>
 
-### 🍂 Fall 2026 (879 · 597 open)
+### 🍂 Fall 2026 (879 · 596 open)
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
@@ -877,7 +877,6 @@ No dead links, no generic careers pages. Just current openings, newest first, wi
 | [Group 1001](generated/companies/group-1001.md) | [Quantitative Analysis Intern](https://group1001wd.wd5.myworkdayjobs.com/careers/job/Stamford-Connecticut/Quantitative-Analysis-Intern_R26_0405) | Stamford, CT | Onsite | 2026-07-23 | Rolling | 🟢 Open | ❔ |
 | [Harris Computer](generated/companies/harris-computer.md) | [Software Development Intern](https://harriscomputer.wd3.myworkdayjobs.com/1/job/Montreal-Quebec/Stagiaire-en-dveloppement-de-logiciels---Software-Development-Intern_R0044820-1) | Montreal | Onsite | 2026-07-23 | Rolling | 🟢 Open | ❔ |
 | [Red Bull](generated/companies/red-bull.md) | [Data Science Intern - Data Science](https://jobs.smartrecruiters.com/RedBull/744000139168339) | Morristown, NJ | Onsite | 2026-07-23 | Rolling | 🟢 Open | ❔ |
-| [Veralto](generated/companies/veralto.md) | [Machine Learning Co-op Intern](https://veralto.wd1.myworkdayjobs.com/hachjobs/job/London-Ontario-Canada/Aquatic-Informatics---Machine-Learning-Co-Op--Intern-_R10267571) | Vancouver | Onsite | 2026-07-23 | Rolling | 🟢 Open | ❔ |
 | [Warner Bros.](generated/companies/warner-bros.md) | [Research, Analytics & Strategy Intern](https://warnerbros.wd5.myworkdayjobs.com/global/job/NY-New-York-30-Hudson-Yards/Research--Analytics---Strategy-Internships--NYC---Fall-2026_R000107153) | NYC | Onsite | 2026-07-23 | Rolling | 🟢 Open | ❔ |
 | [Warner Bros.](generated/companies/warner-bros.md) | [Sports Growth Strategy and Data Intern](https://warnerbros.wd5.myworkdayjobs.com/global/job/GA-Atlanta-1050-Techwood-Drive-NW/Sports-Growth-Strategy-and-Data-Internships--ATL---Fall-2026_R000107173) | Atlanta, GA | Onsite | 2026-07-23 | Rolling | 🟢 Open | ❔ |
 | [Western Digital](generated/companies/western-digital.md) | [Failure Analysis Automation Engineer Intern - Failure Analysis Automation Engineering](https://jobs.smartrecruiters.com/WesternDigital/744000139338269) | San Jose, CA | Onsite | 2026-07-23 | Rolling | 🟢 Open | ❔ |
@@ -1325,6 +1324,7 @@ No dead links, no generic careers pages. Just current openings, newest first, wi
 | [Royal Bank of Canada](generated/companies/royal-bank-of-canada.md) | [Relationship Manager Commercial Markets Intern](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/CHARLOTTETOWN-Prince-Edward-Island-Canada/Relationship-Manager-Commercial-Markets-ntern-CFS_R-0000181764-1) | Charlottetown | Onsite | 2026-07-23 | Rolling | 🔴 Closed | ❔ |
 | [Spectrum Control](generated/companies/spectrum-control.md) | [Engineering Intern](https://spectrumcontrol.wd1.myworkdayjobs.com/spectrumcontrol/job/Fairview-PA/Engineering-Intern_JR101449) | Erie, PA | Onsite | 2026-07-23 | Rolling | 🔴 Closed | ❔ |
 | [T. Rowe Price](generated/companies/t-rowe-price.md) | [Quantitative Equity Investing Intern](https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Quantitative-Equity-Investing-Internship-Program_82699) | Baltimore, MD | Onsite | 2026-07-23 | Rolling | 🔴 Closed | ❔ |
+| [Veralto](generated/companies/veralto.md) | [Machine Learning Co-op Intern](https://veralto.wd1.myworkdayjobs.com/hachjobs/job/London-Ontario-Canada/Aquatic-Informatics---Machine-Learning-Co-Op--Intern-_R10267571) | Vancouver | Onsite | 2026-07-23 | Rolling | 🔴 Closed | ❔ |
 | [Arcadis](generated/companies/arcadis.md) | [GIS Intern](https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/42762) | Atlanta, GA | Onsite | 2026-07-22 | Rolling | 🔴 Closed | ❔ |
 | [Carnegie Mellon University](generated/companies/carnegie-mellon-university.md) | [Research Intern - School of Computer Science - Language Technologies Institute](https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Research-Intern---School-of-Computer-Science---LTI_2024870) | Pittsburgh, PA | Onsite | 2026-07-22 | Rolling | 🔴 Closed | ❔ |
 | [Samsung](generated/companies/samsung.md) | [Research Intern](https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/5060-Station-Road-Cambridge-United-Kingdom/Research-Intern_R117158-1) | Cambridge | Onsite | 2026-07-22 | Rolling | 🔴 Closed | ❔ |
