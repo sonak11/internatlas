@@ -33,7 +33,7 @@ _Generated 2026-08-07_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 773 | `█████████████` |
+| software-engineering | 774 | `█████████████` |
 | ai | 150 | `██` |
 | quant | 145 | `██` |
 | machine-learning | 106 | `██` |
@@ -126,6 +126,7 @@ _Generated 2026-08-07_
 - Cirrus Logic — Embedded Software AI Intern Co-op
 - City of Austin — Austin Aviation Undergraduate Intern - IT Business Systems Analyst
 - Cloudflare — GRC Team Intern (Fall 2026)
+- Cloudflare — Marketing Events and Campaigns Intern (Fall 2026)
 - Cloudflare — Public Policy Intern
 - Cloudflare — Sales Project Manager Intern (AI Innovation) (Fall 2026)
 - Cloudflare — Technical Support Engineer Intern (Fall 2026)
@@ -318,6 +319,7 @@ _Generated 2026-08-07_
 - Walleye Capital — Risk Technology Analyst Intern
 - Walleye Capital — Technology Intern
 - Walleye Capital — Volatility Trading Developer Intern
+- Wells Fargo — Corporate Risk Development Program Intern - Core Risk - Early Careers
 - Williams — Engineering Intern
 - XTX Markets — Philanthropy Intern
 - ZGF Architects — Technology Intern

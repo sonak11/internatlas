@@ -1,20 +1,19 @@
 {
   "schema_version": "1.0",
-  "id": "wells-fargo-corporate-risk-development-program-intern-core-risk-early-ca-2027",
+  "id": "stand-insurance-fire-science-engineer-intern-2026",
   "company": {
-    "name": "Wells Fargo",
-    "slug": "wells-fargo"
+    "name": "Stand Insurance",
+    "slug": "stand-insurance"
   },
-  "role": "Corporate Risk Development Program Intern - Core Risk - Early Careers",
+  "role": "Fire Science Engineer Intern",
   "category": "software-engineering",
-  "apply_url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Corporate-Risk-Development-Program-Summer-Internship--Core-Risk----Early-Careers_R-556123",
-  "season": "summer",
-  "year": 2027,
+  "apply_url": "https://jobs.ashbyhq.com/standinsurance/21bf587a-312c-4a23-91d0-68c3c91e1fa4/application?embed=true",
+  "season": "fall",
+  "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Charlotte",
-      "state": "NC",
+      "city": "SF",
       "country": "USA"
     }
   ],
@@ -40,11 +39,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-06",
-    "discovered": "2026-07-21",
+    "posted": "2026-07-15",
+    "discovered": "2026-08-07",
     "last_verified": "2026-08-07"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

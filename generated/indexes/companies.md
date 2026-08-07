@@ -115,7 +115,7 @@
 | [Citadel Securities](../companies/citadel-securities.md) | 4/4 | hardware, quant, software-engineering |
 | [City of Aurora](../companies/city-of-aurora.md) | 0/1 | software-engineering |
 | [City of Austin](../companies/city-of-austin.md) | 2/3 | research, software-engineering |
-| [Cloudflare](../companies/cloudflare.md) | 22/27 | ai, research, software-engineering |
+| [Cloudflare](../companies/cloudflare.md) | 21/27 | ai, research, software-engineering |
 | [Clyde Companies](../companies/clyde-companies.md) | 2/2 | software-engineering |
 | [Cohere](../companies/cohere.md) | 2/3 | machine-learning, research, software-engineering |
 | [Cohesity](../companies/cohesity.md) | 1/1 | software-engineering |
@@ -444,6 +444,7 @@
 | [Spectrum Control](../companies/spectrum-control.md) | 0/1 | software-engineering |
 | [SpreeAI](../companies/spreeai.md) | 4/4 | machine-learning, software-engineering |
 | [Squarepoint Capital](../companies/squarepoint-capital.md) | 1/1 | quant |
+| [Stand Insurance](../companies/stand-insurance.md) | 1/1 | software-engineering |
 | [StarSling](../companies/starsling.md) | 1/1 | software-engineering |
 | [State of Nebraska](../companies/state-of-nebraska.md) | 1/1 | software-engineering |
 | [State of North Carolina](../companies/state-of-north-carolina.md) | 0/1 | software-engineering |
@@ -522,7 +523,7 @@
 | [WSP](../companies/wsp.md) | 1/1 | software-engineering |
 | [Walleye Capital](../companies/walleye-capital.md) | 3/9 | data-science, quant, software-engineering |
 | [Warner Bros.](../companies/warner-bros.md) | 2/2 | research, software-engineering |
-| [Wells Fargo](../companies/wells-fargo.md) | 1/1 | software-engineering |
+| [Wells Fargo](../companies/wells-fargo.md) | 0/1 | software-engineering |
 | [Western Digital](../companies/western-digital.md) | 3/3 | hardware, software-engineering |
 | [Williams](../companies/williams.md) | 0/1 | software-engineering |
 | [WindBorne Systems](../companies/windborne-systems.md) | 1/1 | embedded |
