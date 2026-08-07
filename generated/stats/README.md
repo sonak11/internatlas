@@ -8,7 +8,7 @@ _Generated 2026-08-07_
 
 | Company | Listings |
 |---|---|
-| TikTok | 110 |
+| TikTok | 112 |
 | Tesla | 105 |
 | Jump Trading | 43 |
 | ByteDance | 33 |
@@ -33,17 +33,17 @@ _Generated 2026-08-07_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 782 | `█████████████` |
-| ai | 151 | `██` |
+| software-engineering | 792 | `█████████████` |
+| ai | 153 | `██` |
 | quant | 147 | `██` |
-| machine-learning | 107 | `██` |
+| machine-learning | 113 | `██` |
 | research | 87 | `█` |
 | hardware | 74 | `█` |
 | embedded | 45 | `█` |
-| product | 38 | `█` |
-| cloud | 33 | `█` |
+| product | 39 | `█` |
+| cloud | 37 | `█` |
 | design | 28 | `█` |
-| data-science | 22 | `█` |
+| data-science | 24 | `█` |
 | data-engineering | 17 | `█` |
 | security | 11 | `█` |
 
@@ -51,6 +51,13 @@ _Generated 2026-08-07_
 
 - 2026-08-07 — **Amcor**: [Product Development Engineer Intern](https://amcor.wd5.myworkdayjobs.com/amcor_external_career_site/job/CORP-Evansville-Head-Division-Office-IN/Product-Development-Intern_REQ_94654)
 - 2026-08-07 — **Ameren**: [DERMS Co-op/Intern](https://ameren.wd1.myworkdayjobs.com/External/job/St-Louis-MO/DERMS-Co-Op-Intern_033809-1)
+- 2026-08-07 — **Atoms**: [Software Engineer Intern - Summer 2027](https://job-boards.greenhouse.io/cssmerge/jobs/8687896002)
+- 2026-08-07 — **Autodesk**: [Cloud Developer Intern - Fcap](https://autodesk.wd1.myworkdayjobs.com/uni/job/Montreal-QC-CAN/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer---FCAP_26WD100406-1)
+- 2026-08-07 — **Autodesk**: [Cloud Developer Intern - Fcap](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer---FCAP_26WD100406-2)
+- 2026-08-07 — **Autodesk**: [Cloud Developer Intern - Interactive Graphics, Media & Entertainment](https://autodesk.wd1.myworkdayjobs.com/uni/job/Montreal-QC-CAN/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer_26WD100400-3)
+- 2026-08-07 — **Autodesk**: [Cloud Developer Intern - Interactive Graphics, Media & Entertainment](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer_26WD100400)
+- 2026-08-07 — **Axon**: [Software Engineer Intern](https://job-boards.greenhouse.io/axontalentcommunity/jobs/7837133003)
+- 2026-08-07 — **Bank of Montreal**: [Card Products Intern Co-op - Customer Solutions](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Card-Products-Internship--Fall-2026-Co-op-Internship--Toronto--CA-_R260023035)
 - 2026-08-07 — **Belvedere Trading**: [Quantitative Trading Intern - Summer 2027](https://jobs.lever.co/belvederetrading/cbde47db-c60b-4339-a8f4-a8e4f30505ab/apply)
 - 2026-08-07 — **Belvedere Trading**: [Quantitative Trading Intern - Winter Quarter 2027](https://jobs.lever.co/belvederetrading/8f06f221-8777-4a4d-b035-40882db5f4a0/apply)
 - 2026-08-07 — **Belvedere Trading**: [Software Engineer Intern - Summer 2027](https://jobs.lever.co/belvederetrading/10746b3d-1760-4573-9b63-b93f5a5e4fc0/apply)
@@ -61,14 +68,7 @@ _Generated 2026-08-07_
 - 2026-08-07 — **Canva**: [PhD Research Scientist Intern - Reinforcement Learning for Diffusion Modelling](https://jobs.smartrecruiters.com/Canva/6000000001295209)
 - 2026-08-07 — **Ciena**: [Software Developer Intern - Fall 2026](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Developer-Intern---Fall-2026_R031492)
 - 2026-08-07 — **Delta Dental**: [Application Development Intern](https://rhsc.wd5.myworkdayjobs.com/delta_dental_of_michigan/job/Okemos-MI/Internship---Application-Development_JR101382)
-- 2026-08-07 — **GCI**: [Telecommunications Intern - Computer Science/Data Analytics](https://edqv.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/21003640)
-- 2026-08-07 — **General Dynamics Information Technology**: [Artificial Intelligence/Machine Learning Intern](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Falls-Church/Summer-2027-AI-Machine-Learning-Internship--DC-Metro-Area_RQ225912)
-- 2026-08-07 — **Luminance**: [AI Engineering Intern](https://apply.workable.com/luminance-1/j/E045EF5A7A/apply)
-- 2026-08-07 — **RTX**: [Systems Engineer 1 Intern - Intern Conversion](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Intern-Conversion--Systems-Engineer-I--Onsite-_01863596)
-- 2026-08-07 — **RTX**: [Systems Engineer 1 Intern - Intern Conversion](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Intern-Conversion--Systems-Engineer-I--Onsite-_01863190)
-- 2026-08-07 — **tarte cosmetics**: [Product Development Intern](https://apply.workable.com/tarte-inc/j/66E81C77A4/apply)
-- 2026-08-07 — **Terranova**: [Software Engineer Intern](https://jobs.ashbyhq.com/terranova/a8e5a8d2-4af3-4736-b66e-e0804447f7a0/application?embed=true)
-- 2026-08-07 — **TikTok**: [Fullstack Software Engineer Intern - Global E-Commerce - 2027 Summer](https://lifeattiktok.com/search/7670738362521520437)
+- 2026-08-07 — **Epic Games**: [Machine Learning Intern](https://epicgames.com/careers/jobs/6138134004?gh_jid=6138134004)
 
 ## Recently closed
 
@@ -91,7 +91,6 @@ _Generated 2026-08-07_
 - Astranis — FPGA Intern
 - Astranis — Hardware Design Intern - Software Defined Radio Team
 - Astranis — Reliability Design Intern
-- Atoms — Software Engineer Intern - Winter 2027
 - Autodesk — Cloud Developer Intern
 - Autodesk — Cloud Developer Intern
 - Autodesk — Machine Learning Developer Intern
@@ -145,6 +144,7 @@ _Generated 2026-08-07_
 - Datasite — Forward Deployed Engineer Intern
 - Definity Financial — Data Analyst Co-op/Intern
 - Definity Financial — Reporting Specialist Co-op/Intern
+- Definity Financial — Technology Solutions Data Platform & Engineering Co-op/Intern
 - Democratic Governors Association — Data and Coding Intern
 - Desjardins Group — Data Intern
 - Draper — Microsystems Integration Intern
@@ -219,6 +219,7 @@ _Generated 2026-08-07_
 - Moss & Associates — Construction Technologies Intern
 - National Laboratory of the Rockies — Energy Data Analysis Intern
 - NationGraph — Software Engineer Intern
+- Nationwide Children's Hospital — Research Intern
 - NBT Bank — Data Warehouse & Analytics Intern
 - Nokia — Electromechanical Assembly Co-op Intern - Intern
 - Nokia — Embedded C/C++ Software Developer Co-op/Intern

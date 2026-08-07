@@ -1,0 +1,51 @@
+{
+  "schema_version": "1.0",
+  "id": "autodesk-cloud-developer-intern-interactive-graphics-media-entertainm-2027-05cbd4",
+  "company": {
+    "name": "Autodesk",
+    "slug": "autodesk"
+  },
+  "role": "Cloud Developer Intern - Interactive Graphics, Media & Entertainment",
+  "category": "cloud",
+  "apply_url": "https://autodesk.wd1.myworkdayjobs.com/uni/job/Montreal-QC-CAN/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer_26WD100400-3",
+  "season": "winter",
+  "year": 2027,
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "Montreal",
+      "country": "QC"
+    }
+  ],
+  "compensation": {
+    "currency": "USD",
+    "housing_stipend": false,
+    "relocation_assistance": false
+  },
+  "eligibility": {
+    "graduation_years": [],
+    "degree_levels": [],
+    "citizenship_required": false,
+    "security_clearance_required": false,
+    "visa_sponsorship": "unknown"
+  },
+  "interview": {},
+  "tech": {
+    "required_skills": [],
+    "preferred_skills": [],
+    "languages": [],
+    "frameworks": [],
+    "cloud_platforms": [],
+    "resume_keywords": []
+  },
+  "dates": {
+    "posted": "2026-08-07",
+    "discovered": "2026-08-07",
+    "last_verified": "2026-08-07"
+  },
+  "status": "open",
+  "tags": [
+    "auto-ingested",
+    "src:simplify"
+  ]
+}

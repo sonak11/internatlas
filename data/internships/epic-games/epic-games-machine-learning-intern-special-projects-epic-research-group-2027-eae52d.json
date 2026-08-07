@@ -1,0 +1,54 @@
+{
+  "schema_version": "1.0",
+  "id": "epic-games-machine-learning-intern-special-projects-epic-research-group-2027-eae52d",
+  "company": {
+    "name": "Epic Games",
+    "slug": "epic-games"
+  },
+  "role": "Machine Learning Intern - Special Projects - Epic Research Group",
+  "category": "machine-learning",
+  "apply_url": "https://epicgames.com/careers/jobs/6138140004?gh_jid=6138140004",
+  "season": "winter",
+  "year": 2027,
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "Montreal",
+      "country": "QC"
+    }
+  ],
+  "compensation": {
+    "currency": "USD",
+    "housing_stipend": false,
+    "relocation_assistance": false
+  },
+  "eligibility": {
+    "graduation_years": [],
+    "degree_levels": [
+      "masters",
+      "phd"
+    ],
+    "citizenship_required": false,
+    "security_clearance_required": false,
+    "visa_sponsorship": "unknown"
+  },
+  "interview": {},
+  "tech": {
+    "required_skills": [],
+    "preferred_skills": [],
+    "languages": [],
+    "frameworks": [],
+    "cloud_platforms": [],
+    "resume_keywords": []
+  },
+  "dates": {
+    "posted": "2026-08-07",
+    "discovered": "2026-08-07",
+    "last_verified": "2026-08-07"
+  },
+  "status": "open",
+  "tags": [
+    "auto-ingested",
+    "src:simplify"
+  ]
+}
