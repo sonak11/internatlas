@@ -1,0 +1,55 @@
+{
+  "schema_version": "1.0",
+  "id": "plusai-deep-learning-research-intern-multimodal-bev-perception-2026",
+  "company": {
+    "name": "PlusAI",
+    "slug": "plusai"
+  },
+  "role": "Deep Learning Research Intern - Multimodal BEV Perception",
+  "category": "machine-learning",
+  "apply_url": "https://jobs.lever.co/plus-2/2ee24f85-bfa1-47fc-bfe3-fd07521a7b62/apply",
+  "season": "fall",
+  "year": 2026,
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "Santa Clara",
+      "state": "CA",
+      "country": "USA"
+    }
+  ],
+  "compensation": {
+    "currency": "USD",
+    "housing_stipend": false,
+    "relocation_assistance": false
+  },
+  "eligibility": {
+    "graduation_years": [],
+    "degree_levels": [
+      "masters",
+      "phd"
+    ],
+    "citizenship_required": false,
+    "security_clearance_required": false,
+    "visa_sponsorship": "unknown"
+  },
+  "interview": {},
+  "tech": {
+    "required_skills": [],
+    "preferred_skills": [],
+    "languages": [],
+    "frameworks": [],
+    "cloud_platforms": [],
+    "resume_keywords": []
+  },
+  "dates": {
+    "posted": "2026-08-06",
+    "discovered": "2026-08-07",
+    "last_verified": "2026-08-07"
+  },
+  "status": "open",
+  "tags": [
+    "auto-ingested",
+    "src:simplify"
+  ]
+}

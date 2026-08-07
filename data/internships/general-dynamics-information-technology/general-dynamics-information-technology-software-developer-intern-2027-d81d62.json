@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "rtx-machine-learning-researcher-intern-co-op-2026-1c8c9f",
+  "id": "general-dynamics-information-technology-software-developer-intern-2027-d81d62",
   "company": {
-    "name": "RTX",
-    "slug": "rtx"
+    "name": "General Dynamics Information Technology",
+    "slug": "general-dynamics-information-technology"
   },
-  "role": "Machine Learning Researcher Intern/Co-op",
-  "category": "machine-learning",
-  "apply_url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-RTRC-K--411-Silver-Ln--RTRC-K/Fall-2026--Intern-Coop--Machine-Learning-Researcher_01864471",
-  "season": "fall",
-  "year": 2026,
+  "role": "Software Developer Intern",
+  "category": "software-engineering",
+  "apply_url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Summer-2027-Software-Developer-Internship_RQ225456-1",
+  "season": "summer",
+  "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "East Hartford",
-      "state": "CT",
+      "city": "Annapolis Junction",
+      "state": "MD",
       "country": "USA"
     }
   ],
@@ -25,10 +25,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters",
-      "phd"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -43,9 +40,9 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-05",
-    "discovered": "2026-08-05",
-    "last_verified": "2026-08-06"
+    "posted": "2026-08-06",
+    "discovered": "2026-08-07",
+    "last_verified": "2026-08-07"
   },
   "status": "open",
   "tags": [

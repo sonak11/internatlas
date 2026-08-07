@@ -1,0 +1,53 @@
+{
+  "schema_version": "1.0",
+  "id": "canva-phd-research-scientist-intern-reinforcement-learning-images-2026",
+  "company": {
+    "name": "Canva",
+    "slug": "canva"
+  },
+  "role": "PhD Research Scientist Intern - Reinforcement Learning - Images",
+  "category": "research",
+  "apply_url": "https://jobs.smartrecruiters.com/Canva/6000000001292768",
+  "season": "fall",
+  "year": 2026,
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "London",
+      "country": "UK"
+    }
+  ],
+  "compensation": {
+    "currency": "USD",
+    "housing_stipend": false,
+    "relocation_assistance": false
+  },
+  "eligibility": {
+    "graduation_years": [],
+    "degree_levels": [
+      "phd"
+    ],
+    "citizenship_required": false,
+    "security_clearance_required": false,
+    "visa_sponsorship": "unknown"
+  },
+  "interview": {},
+  "tech": {
+    "required_skills": [],
+    "preferred_skills": [],
+    "languages": [],
+    "frameworks": [],
+    "cloud_platforms": [],
+    "resume_keywords": []
+  },
+  "dates": {
+    "posted": "2026-08-06",
+    "discovered": "2026-08-07",
+    "last_verified": "2026-08-07"
+  },
+  "status": "open",
+  "tags": [
+    "auto-ingested",
+    "src:simplify"
+  ]
+}
