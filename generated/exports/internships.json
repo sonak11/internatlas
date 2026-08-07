@@ -1,6 +1,6 @@
 {
   "generated": "2026-08-07",
-  "count": 1524,
+  "count": 1527,
   "internships": [
     {
       "schema_version": "1.0",
@@ -37496,6 +37496,59 @@
     },
     {
       "schema_version": "1.0",
+      "id": "luminance-ai-engineering-intern-2026",
+      "company": {
+        "name": "Luminance",
+        "slug": "luminance"
+      },
+      "role": "AI Engineering Intern",
+      "category": "ai",
+      "apply_url": "https://apply.workable.com/luminance-1/j/E045EF5A7A/apply",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Cambridge",
+          "country": "UK"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-07",
+        "discovered": "2026-08-07",
+        "last_verified": "2026-08-07"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "mackenzie-investments-data-science-and-ai-specialist-intern-investment-management-2026",
       "company": {
         "name": "Mackenzie Investments",
@@ -63509,6 +63562,57 @@
     },
     {
       "schema_version": "1.0",
+      "id": "tarte-cosmetics-product-development-intern-2026",
+      "company": {
+        "name": "tarte cosmetics",
+        "slug": "tarte-cosmetics"
+      },
+      "role": "Product Development Intern",
+      "category": "software-engineering",
+      "apply_url": "https://apply.workable.com/tarte-inc/j/66E81C77A4/apply",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "NYC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-07",
+        "discovered": "2026-08-07",
+        "last_verified": "2026-08-07"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "tencent-ai-agent-research-application-intern-2026",
       "company": {
         "name": "Tencent",
@@ -64298,6 +64402,60 @@
       "dates": {
         "posted": "2026-07-21",
         "discovered": "2026-08-01",
+        "last_verified": "2026-08-07"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "terranova-software-engineer-intern-2026",
+      "company": {
+        "name": "Terranova",
+        "slug": "terranova"
+      },
+      "role": "Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://jobs.ashbyhq.com/terranova/a8e5a8d2-4af3-4736-b66e-e0804447f7a0/application?embed=true",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Berkeley",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-07",
+        "discovered": "2026-08-07",
         "last_verified": "2026-08-07"
       },
       "status": "open",

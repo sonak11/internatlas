@@ -277,6 +277,7 @@
 | [Loop](../companies/loop.md) | 0/1 | data-science |
 | [Louisiana Blue](../companies/louisiana-blue.md) | 4/4 | software-engineering |
 | [Lumentum](../companies/lumentum.md) | 2/2 | software-engineering |
+| [Luminance](../companies/luminance.md) | 1/1 | ai |
 | [Mackenzie Investments](../companies/mackenzie-investments.md) | 0/1 | ai |
 | [Magna](../companies/magna.md) | 1/1 | software-engineering |
 | [Markem-Imaje](../companies/markem-imaje.md) | 1/1 | software-engineering |
@@ -466,7 +467,7 @@
 | [Tencent](../companies/tencent.md) | 6/9 | ai, machine-learning, research, software-engineering |
 | [Tenstorrent](../companies/tenstorrent.md) | 2/3 | ai, design |
 | [Terminal](../companies/terminal.md) | 2/2 | software-engineering |
-| [Terranova](../companies/terranova.md) | 1/1 | embedded |
+| [Terranova](../companies/terranova.md) | 2/2 | embedded, software-engineering |
 | [Terranox AI](../companies/terranox-ai.md) | 1/1 | machine-learning |
 | [Tesla](../companies/tesla.md) | 91/105 | ai, cloud, data-engineering, design, embedded, hardware, machine-learning, product, security, software-engineering |
 | [Tessera Labs](../companies/tessera-labs.md) | 1/1 | product |
@@ -542,3 +543,4 @@
 | [k-ID](../companies/k-id.md) | 2/2 | software-engineering |
 | [onsemi](../companies/onsemi.md) | 1/2 | ai, software-engineering |
 | [pony.ai](../companies/pony-ai.md) | 1/1 | machine-learning |
+| [tarte cosmetics](../companies/tarte-cosmetics.md) | 1/1 | software-engineering |

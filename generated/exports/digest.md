@@ -1,6 +1,6 @@
 # 📬 InternAtlas Weekly Digest — 2026-08-07
 
-## 🆕 New this week (366)
+## 🆕 New this week (369)
 
 - **1X** — [CNC Machine Park Intern](https://jobs.ashbyhq.com/1x/e7b4aaf5-5c55-4e2f-abcd-5c250657bede/application?embed=true) · software-engineering · —
 - **AcreTrader** — [Data Intern](https://ats.rippling.com/acretrader-jobs/jobs/e0192aa0-bd65-4262-81ed-d64685c7dc41) · software-engineering · —
@@ -137,6 +137,7 @@
 - **Keysight Technologies** — [Software Engineer Intern - R&D - FPGA](https://jobs.keysight.com/jobs/53636?icims=1) · hardware · —
 - **Lumentum** — [Optical Verification Technician Co-op Intern](https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Optical-VerificationTechnician-Intern-Co-op_20261049) · software-engineering · —
 - **Lumentum** — [Optical Verification Technician Intern/Co-op](https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Optical-Verification-Technician-Intern-Co-op_20261048) · software-engineering · —
+- **Luminance** — [AI Engineering Intern](https://apply.workable.com/luminance-1/j/E045EF5A7A/apply) · ai · —
 - **Maven Securities** — [Quant Trader Intern](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8043552) · quant · —
 - **Maven Securities** — [Trader Intern](https://job-boards.greenhouse.io/emergingtalent/jobs/8051938) · software-engineering · —
 - **Maven Securities** — [Trader Intern - Summer](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8051937) · software-engineering · —
@@ -245,6 +246,7 @@
 - **Tacit** — [Radio Frequency Hardware Intern - Fall 2026](https://jobs.ashbyhq.com/tacit/d001e2d9-90af-4d0b-bc97-fd6fa149ad19/application?embed=true) · hardware · —
 - **Terminal** — [Software Engineer Intern - Backend](https://jobs.ashbyhq.com/terminal/6855293e-a817-4b70-835c-cd57e3bfcfde/application?embed=true) · software-engineering · —
 - **Terminal** — [Software Engineer Intern - Data Platform](https://jobs.ashbyhq.com/terminal/d7e128ed-617c-4b9b-9e42-0e909fb25729/application?embed=true) · software-engineering · —
+- **Terranova** — [Software Engineer Intern](https://jobs.ashbyhq.com/terranova/a8e5a8d2-4af3-4736-b66e-e0804447f7a0/application?embed=true) · software-engineering · —
 - **Tesla** — [Cell Engineering Intern - Cell Qualification](https://www.tesla.com/careers/search/job/278620) · software-engineering · —
 - **Tesla** — [Data Engineer Intern - Cell Engineering](https://www.tesla.com/careers/search/job/278622) · data-engineering · —
 - **Tesla** — [Software Compiler Engineer Intern - AI Inference](https://www.tesla.com/careers/search/job/278847) · ai · —
@@ -368,6 +370,7 @@
 - **ZGF Architects** — [Technology Intern](https://zgfarchitects.applytojob.com/apply/uqHC8SCmq2/Technology-Intern) · software-engineering · —
 - **Zello** — [Analytics Intern](https://jobs.ashbyhq.com/Zello/3453d476-7b75-4938-8cff-502d1575859b/application?embed=true) · software-engineering · —
 - **impact.com** — [Associate Software Engineer Intern](https://job-boards.greenhouse.io/impact/jobs/8645964002) · software-engineering · —
+- **tarte cosmetics** — [Product Development Intern](https://apply.workable.com/tarte-inc/j/66E81C77A4/apply) · software-engineering · —
 
 ## ⏰ Closing within 7 days (0)
 

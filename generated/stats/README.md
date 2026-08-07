@@ -33,8 +33,8 @@ _Generated 2026-08-07_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 771 | `█████████████` |
-| ai | 149 | `██` |
+| software-engineering | 773 | `█████████████` |
+| ai | 150 | `██` |
 | quant | 145 | `██` |
 | machine-learning | 106 | `██` |
 | research | 85 | `█` |
@@ -52,6 +52,9 @@ _Generated 2026-08-07_
 - 2026-08-07 — **ByteDance**: [Machine Learning Research Scientist Intern - Seed AI for Science - Atomistic AI](https://jobs.bytedance.com/en/position/7670855041951795509/detail)
 - 2026-08-07 — **ByteDance**: [Network Software Engineer Intern - Network Observation](https://jobs.bytedance.com/en/position/7670772641439041797/detail)
 - 2026-08-07 — **ByteDance**: [Network Software Engineer Intern - Network Switch](https://jobs.bytedance.com/en/position/7670778018960542005/detail)
+- 2026-08-07 — **Luminance**: [AI Engineering Intern](https://apply.workable.com/luminance-1/j/E045EF5A7A/apply)
+- 2026-08-07 — **tarte cosmetics**: [Product Development Intern](https://apply.workable.com/tarte-inc/j/66E81C77A4/apply)
+- 2026-08-07 — **Terranova**: [Software Engineer Intern](https://jobs.ashbyhq.com/terranova/a8e5a8d2-4af3-4736-b66e-e0804447f7a0/application?embed=true)
 - 2026-08-07 — **TikTok**: [Fullstack Software Engineer Intern - Global E-Commerce - 2027 Summer](https://lifeattiktok.com/search/7670738362521520437)
 - 2026-08-07 — **TikTok**: [Fullstack Software Engineer Intern - Global E-Commerce](https://lifeattiktok.com/search/7670700387322300677)
 - 2026-08-07 — **TikTok**: [Software Engineer Intern - Global E-Commerce Search Infrastructure](https://lifeattiktok.com/search/7662594807715072261)
@@ -66,9 +69,6 @@ _Generated 2026-08-07_
 - 2026-08-06 — **ByteDance**: [ASIC Design Engineer Intern - Video Silicon IP](https://jobs.bytedance.com/en/position/7670332179383699717/detail)
 - 2026-08-06 — **ByteDance**: [GPU/AI Application System Software Engineer Intern](https://joinbytedance.com/search/7668464504736876853)
 - 2026-08-06 — **ByteDance**: [GPU/AI Application System Software Engineer Intern - System Technologies and Engineering](https://jobs.bytedance.com/en/position/7668464504736876853/detail)
-- 2026-08-06 — **ByteDance**: [Research Scientist Intern](https://jobs.bytedance.com/en/position/7670375041041320245/detail)
-- 2026-08-06 — **ByteDance**: [Research Scientist Intern - Multimedia Streaming](https://jobs.bytedance.com/en/position/7670354800621603125/detail)
-- 2026-08-06 — **ByteDance**: [Video/Image AI/ML Software Engineer Intern - Multimedia](https://jobs.bytedance.com/en/position/7670354329765464373/detail)
 
 ## Recently closed
 
