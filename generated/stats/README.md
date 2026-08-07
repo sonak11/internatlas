@@ -113,7 +113,7 @@ _Generated 2026-08-07_
 - ByteDance — Research Scientist Intern - AI Infrastructure
 - CACI — Software Engineering Intern
 - Canva — PhD Research Scientist Intern - Generative AI
-- Canva — PhD Research Scientist Intern - Reinforcement Learning - Images
+- Canva — PhD Research Scientist Intern - Reinforcement Learning for Diffusion Modelling
 - Capital One — Full Stack Software Engineer Intern
 - Capital One — Product Development Internship Program
 - Carnegie Mellon University — Research Intern - School of Computer Science - Language Technologies Institute
