@@ -1,6 +1,6 @@
 {
   "generated": "2026-08-07",
-  "count": 1529,
+  "count": 1531,
   "internships": [
     {
       "schema_version": "1.0",
@@ -14302,6 +14302,57 @@
     },
     {
       "schema_version": "1.0",
+      "id": "ciena-software-developer-intern-fall-2026-2026",
+      "company": {
+        "name": "Ciena",
+        "slug": "ciena"
+      },
+      "role": "Software Developer Intern - Fall 2026",
+      "category": "software-engineering",
+      "apply_url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Developer-Intern---Fall-2026_R031492",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Ottawa",
+          "country": "ON"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-07",
+        "discovered": "2026-08-07",
+        "last_verified": "2026-08-07"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "ciena-software-engineer-and-tools-developer-intern-2026",
       "company": {
         "name": "Ciena",
@@ -19786,6 +19837,58 @@
       "dates": {
         "posted": "2026-06-24",
         "discovered": "2026-07-17",
+        "last_verified": "2026-08-07"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "delta-dental-application-development-intern-2026",
+      "company": {
+        "name": "Delta Dental",
+        "slug": "delta-dental"
+      },
+      "role": "Application Development Intern",
+      "category": "software-engineering",
+      "apply_url": "https://rhsc.wd5.myworkdayjobs.com/delta_dental_of_michigan/job/Okemos-MI/Internship---Application-Development_JR101382",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Okemos",
+          "state": "MI",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-07",
+        "discovered": "2026-08-07",
         "last_verified": "2026-08-07"
       },
       "status": "open",
@@ -33133,7 +33236,7 @@
         "discovered": "2026-08-03",
         "last_verified": "2026-08-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -33221,7 +33324,7 @@
         "discovered": "2026-08-03",
         "last_verified": "2026-08-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -63173,9 +63276,9 @@
       "dates": {
         "posted": "2026-08-05",
         "discovered": "2026-08-05",
-        "last_verified": "2026-08-06"
+        "last_verified": "2026-08-07"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"

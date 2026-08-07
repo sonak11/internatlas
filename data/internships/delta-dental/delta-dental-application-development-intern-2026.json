@@ -1,20 +1,21 @@
 {
   "schema_version": "1.0",
-  "id": "swift-industry-engagement-research-analyst-intern-2026",
+  "id": "delta-dental-application-development-intern-2026",
   "company": {
-    "name": "Swift",
-    "slug": "swift"
+    "name": "Delta Dental",
+    "slug": "delta-dental"
   },
-  "role": "Industry Engagement Research Analyst Intern",
-  "category": "research",
-  "apply_url": "https://swift.wd3.myworkdayjobs.com/join-swift/job/London-United-Kingdom/Industry-Engagement---Intern-Research-Analyst_2026-16321",
+  "role": "Application Development Intern",
+  "category": "software-engineering",
+  "apply_url": "https://rhsc.wd5.myworkdayjobs.com/delta_dental_of_michigan/job/Okemos-MI/Internship---Application-Development_JR101382",
   "season": "fall",
   "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "London",
-      "country": "UK"
+      "city": "Okemos",
+      "state": "MI",
+      "country": "USA"
     }
   ],
   "compensation": {
@@ -39,8 +40,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-05",
-    "discovered": "2026-08-05",
+    "posted": "2026-08-07",
+    "discovered": "2026-08-07",
     "last_verified": "2026-08-07"
   },
   "status": "open",

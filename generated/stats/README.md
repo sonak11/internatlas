@@ -24,16 +24,16 @@ _Generated 2026-08-07_
 | Microsoft | 15 |
 | Etched | 14 |
 | Virtu Financial | 13 |
+| Ciena | 12 |
 | Optiver | 12 |
 | Astranis | 11 |
-| Ciena | 11 |
 | Copart | 11 |
 
 ## Listings by category
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 774 | `█████████████` |
+| software-engineering | 776 | `█████████████` |
 | ai | 150 | `██` |
 | quant | 145 | `██` |
 | machine-learning | 106 | `██` |
@@ -53,6 +53,8 @@ _Generated 2026-08-07_
 - 2026-08-07 — **ByteDance**: [Network Software Engineer Intern - Network Observation](https://jobs.bytedance.com/en/position/7670772641439041797/detail)
 - 2026-08-07 — **ByteDance**: [Network Software Engineer Intern - Network Switch](https://jobs.bytedance.com/en/position/7670778018960542005/detail)
 - 2026-08-07 — **Canva**: [PhD Research Scientist Intern - Reinforcement Learning for Diffusion Modelling](https://jobs.smartrecruiters.com/Canva/6000000001295209)
+- 2026-08-07 — **Ciena**: [Software Developer Intern - Fall 2026](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Developer-Intern---Fall-2026_R031492)
+- 2026-08-07 — **Delta Dental**: [Application Development Intern](https://rhsc.wd5.myworkdayjobs.com/delta_dental_of_michigan/job/Okemos-MI/Internship---Application-Development_JR101382)
 - 2026-08-07 — **Luminance**: [AI Engineering Intern](https://apply.workable.com/luminance-1/j/E045EF5A7A/apply)
 - 2026-08-07 — **tarte cosmetics**: [Product Development Intern](https://apply.workable.com/tarte-inc/j/66E81C77A4/apply)
 - 2026-08-07 — **Terranova**: [Software Engineer Intern](https://jobs.ashbyhq.com/terranova/a8e5a8d2-4af3-4736-b66e-e0804447f7a0/application?embed=true)
@@ -67,8 +69,6 @@ _Generated 2026-08-07_
 - 2026-08-06 — **ByteDance**: [AI Network Automation Engineer Intern - Global Physical Network Infrastructure](https://jobs.bytedance.com/en/position/7670690923748870405/detail)
 - 2026-08-06 — **ByteDance**: [Applied Machine Learning Production Engineer Intern](https://joinbytedance.com/search/7670009669494704437)
 - 2026-08-06 — **ByteDance**: [Applied Machine Learning Production Engineer Intern - AML Production Engineer](https://jobs.bytedance.com/en/position/7670009669494704437/detail)
-- 2026-08-06 — **ByteDance**: [ASIC Design Engineer Intern - Video Silicon IP](https://jobs.bytedance.com/en/position/7670332179383699717/detail)
-- 2026-08-06 — **ByteDance**: [GPU/AI Application System Software Engineer Intern](https://joinbytedance.com/search/7668464504736876853)
 
 ## Recently closed
 
@@ -184,6 +184,8 @@ _Generated 2026-08-07_
 - Intel — AI Software Engineering Intern
 - Intel Corporation — AI Software Engineering PhD Intern
 - JINGDONG — Software Engineering Intern
+- JP Morgan Chase — Data & AI Intern - Analyst
+- JP Morgan Chase — Data Internship - Data & AI Program
 - KBR — National Security Solutions Intern - Nss
 - Keysight Technologies — R&D Software Engineer Intern
 - Kinaxis — Engineer Co-op/Intern - Data & Analytics
@@ -284,7 +286,6 @@ _Generated 2026-08-07_
 - Spectrum Control — Engineering Intern
 - Stoke Space — Software Intern - Software
 - Susquehanna International Group (SIG) — Trading Operations Analyst Intern
-- Swift — Industry Engagement Research Analyst Intern
 - T. Rowe Price — Global Trading Intern
 - T. Rowe Price — Quantitative Equity Investing Intern
 - Tencent — AI Agent Research & Application Intern
