@@ -1,6 +1,6 @@
 # 📬 InternAtlas Weekly Digest — 2026-08-07
 
-## 🆕 New this week (372)
+## 🆕 New this week (373)
 
 - **1X** — [CNC Machine Park Intern](https://jobs.ashbyhq.com/1x/e7b4aaf5-5c55-4e2f-abcd-5c250657bede/application?embed=true) · software-engineering · —
 - **AcreTrader** — [Data Intern](https://ats.rippling.com/acretrader-jobs/jobs/e0192aa0-bd65-4262-81ed-d64685c7dc41) · software-engineering · —
@@ -209,6 +209,7 @@
 - **Redwood Materials** — [Test Automation Engineer Intern](https://job-boards.greenhouse.io/redwoodmaterials/jobs/6126785004) · software-engineering · —
 - **Rho** — [Quantitative Analyst Intern](https://jobs.ashbyhq.com/rho/eb5c9709-ab43-4e9e-9c41-ccb122955fcf/application?embed=true) · quant · —
 - **Rivian and Volkswagen Group Technologies** — [Software Engineer Intern, Embedded Platforms](https://jobs.ashbyhq.com/rivianvw.tech/4dfbf1e6-3778-4101-8ac7-cd4015d47eff) · embedded · —
+- **Robinhood** — [Market Research Strategy Intern](https://boards.greenhouse.io/robinhood/jobs/8103727?t=gh_src%3D&gh_jid=8103727) · research · —
 - **Roblox** — [Software Engineer Intern](https://careers.roblox.com/jobs/8072713?gh_jid=8072713) · software-engineering · —
 - **SK Hynix Memory Solution** — [Software Engineer Intern](https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4342038009) · software-engineering · —
 - **SRI International** — [Computer Science Intern](https://careers-sri.icims.com/jobs/6438/job?mobile=true&needsRedirect=false) · software-engineering · —

@@ -1,6 +1,6 @@
 {
   "generated": "2026-08-07",
-  "count": 1531,
+  "count": 1532,
   "internships": [
     {
       "schema_version": "1.0",
@@ -55386,6 +55386,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "robinhood-market-research-strategy-intern-2027",
+      "company": {
+        "name": "Robinhood",
+        "slug": "robinhood",
+        "career_page": "https://careers.robinhood.com/"
+      },
+      "role": "Market Research Strategy Intern",
+      "category": "research",
+      "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8103727?t=gh_src%3D&gh_jid=8103727",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Singapore",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-04",
+        "discovered": "2026-08-07",
+        "last_verified": "2026-08-07"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "roblox-software-engineer-intern-2027",
       "company": {
         "name": "Roblox",
@@ -82337,7 +82389,7 @@
         "discovered": "2026-07-23",
         "last_verified": "2026-08-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"

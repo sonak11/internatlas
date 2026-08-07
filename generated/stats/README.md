@@ -37,7 +37,7 @@ _Generated 2026-08-07_
 | ai | 150 | `██` |
 | quant | 145 | `██` |
 | machine-learning | 106 | `██` |
-| research | 86 | `█` |
+| research | 87 | `█` |
 | hardware | 74 | `█` |
 | embedded | 45 | `█` |
 | product | 38 | `█` |
@@ -327,6 +327,7 @@ _Generated 2026-08-07_
 - Walleye Capital — Volatility Trading Developer Intern
 - Wells Fargo — Corporate Risk Development Program Intern - Core Risk - Early Careers
 - Williams — Engineering Intern
+- X Development — PhD Residency Intern - Operations Research and Optimization
 - XTX Markets — Philanthropy Intern
 - ZGF Architects — Technology Intern
 - Zipline — Maps Intern

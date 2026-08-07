@@ -407,6 +407,7 @@
 | [Roam](../companies/roam.md) | 1/1 | software-engineering |
 | [Robert Bosch LLC](../companies/robert-bosch-llc.md) | 1/1 | software-engineering |
 | [Robert Bosch Venture Capital](../companies/robert-bosch-venture-capital.md) | 0/1 | embedded |
+| [Robinhood](../companies/robinhood.md) | 1/1 | research |
 | [Roblox](../companies/roblox.md) | 1/1 | software-engineering |
 | [Rocket Lab](../companies/rocket-lab.md) | 0/1 | software-engineering |
 | [Rockwell Automation](../companies/rockwell-automation.md) | 0/4 | ai, embedded |
@@ -530,7 +531,7 @@
 | [WindBorne Systems](../companies/windborne-systems.md) | 1/1 | embedded |
 | [Winland Foods](../companies/winland-foods.md) | 1/1 | software-engineering |
 | [Workato](../companies/workato.md) | 1/1 | ai |
-| [X Development](../companies/x-development.md) | 2/2 | machine-learning, research |
+| [X Development](../companies/x-development.md) | 1/2 | machine-learning, research |
 | [XTX Markets](../companies/xtx-markets.md) | 0/1 | software-engineering |
 | [Xsolla](../companies/xsolla.md) | 4/4 | ai |
 | [Yotta Labs](../companies/yotta-labs.md) | 2/2 | ai, research |
