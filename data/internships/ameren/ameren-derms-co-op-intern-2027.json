@@ -1,20 +1,24 @@
 {
   "schema_version": "1.0",
-  "id": "panagora-dynamic-intern-2026",
+  "id": "ameren-derms-co-op-intern-2027",
   "company": {
-    "name": "PanAgora",
-    "slug": "panagora"
+    "name": "Ameren",
+    "slug": "ameren"
   },
-  "role": "Dynamic Intern",
+  "role": "DERMS Co-op/Intern",
   "category": "software-engineering",
-  "apply_url": "https://empower.wd12.myworkdayjobs.com/PanAgora/job/MA-Boston---PanAgora/Intern--Dynamic_R0061449",
-  "season": "fall",
-  "year": 2026,
+  "apply_url": "https://ameren.wd1.myworkdayjobs.com/External/job/St-Louis-MO/DERMS-Co-Op-Intern_033809-1",
+  "season": "summer",
+  "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Boston",
-      "state": "MA",
+      "city": "St. Louis",
+      "state": "MO",
+      "country": "USA"
+    },
+    {
+      "city": "Illinois",
       "country": "USA"
     }
   ],
@@ -25,7 +29,9 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "masters"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -40,7 +46,7 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-06",
+    "posted": "2026-08-07",
     "discovered": "2026-08-07",
     "last_verified": "2026-08-07"
   },

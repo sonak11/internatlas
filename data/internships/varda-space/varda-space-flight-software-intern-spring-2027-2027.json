@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "panagora-dynamic-intern-2026",
+  "id": "varda-space-flight-software-intern-spring-2027-2027",
   "company": {
-    "name": "PanAgora",
-    "slug": "panagora"
+    "name": "Varda Space",
+    "slug": "varda-space"
   },
-  "role": "Dynamic Intern",
+  "role": "Flight Software Intern - Spring 2027",
   "category": "software-engineering",
-  "apply_url": "https://empower.wd12.myworkdayjobs.com/PanAgora/job/MA-Boston---PanAgora/Intern--Dynamic_R0061449",
-  "season": "fall",
-  "year": 2026,
+  "apply_url": "https://job-boards.greenhouse.io/vardaspace/jobs/7824815003",
+  "season": "spring",
+  "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Boston",
-      "state": "MA",
+      "city": "El Segundo",
+      "state": "CA",
       "country": "USA"
     }
   ],
@@ -40,7 +40,7 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-06",
+    "posted": "2026-08-07",
     "discovered": "2026-08-07",
     "last_verified": "2026-08-07"
   },

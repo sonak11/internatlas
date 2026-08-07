@@ -33,10 +33,10 @@ _Generated 2026-08-07_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 776 | `█████████████` |
-| ai | 150 | `██` |
-| quant | 145 | `██` |
-| machine-learning | 106 | `██` |
+| software-engineering | 782 | `█████████████` |
+| ai | 151 | `██` |
+| quant | 147 | `██` |
+| machine-learning | 107 | `██` |
 | research | 87 | `█` |
 | hardware | 74 | `█` |
 | embedded | 45 | `█` |
@@ -49,26 +49,26 @@ _Generated 2026-08-07_
 
 ## Newest listings
 
+- 2026-08-07 — **Amcor**: [Product Development Engineer Intern](https://amcor.wd5.myworkdayjobs.com/amcor_external_career_site/job/CORP-Evansville-Head-Division-Office-IN/Product-Development-Intern_REQ_94654)
+- 2026-08-07 — **Ameren**: [DERMS Co-op/Intern](https://ameren.wd1.myworkdayjobs.com/External/job/St-Louis-MO/DERMS-Co-Op-Intern_033809-1)
+- 2026-08-07 — **Belvedere Trading**: [Quantitative Trading Intern - Summer 2027](https://jobs.lever.co/belvederetrading/cbde47db-c60b-4339-a8f4-a8e4f30505ab/apply)
+- 2026-08-07 — **Belvedere Trading**: [Quantitative Trading Intern - Winter Quarter 2027](https://jobs.lever.co/belvederetrading/8f06f221-8777-4a4d-b035-40882db5f4a0/apply)
+- 2026-08-07 — **Belvedere Trading**: [Software Engineer Intern - Summer 2027](https://jobs.lever.co/belvederetrading/10746b3d-1760-4573-9b63-b93f5a5e4fc0/apply)
 - 2026-08-07 — **ByteDance**: [Machine Learning Research Scientist Intern - Seed AI for Science - Atomistic AI](https://jobs.bytedance.com/en/position/7670855041951795509/detail)
 - 2026-08-07 — **ByteDance**: [Network Software Engineer Intern - Network Observation](https://jobs.bytedance.com/en/position/7670772641439041797/detail)
 - 2026-08-07 — **ByteDance**: [Network Software Engineer Intern - Network Switch](https://jobs.bytedance.com/en/position/7670778018960542005/detail)
+- 2026-08-07 — **Canva**: [PhD Research Scientist Intern - Edge AI](https://jobs.smartrecruiters.com/Canva/6000000001295782)
 - 2026-08-07 — **Canva**: [PhD Research Scientist Intern - Reinforcement Learning for Diffusion Modelling](https://jobs.smartrecruiters.com/Canva/6000000001295209)
 - 2026-08-07 — **Ciena**: [Software Developer Intern - Fall 2026](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Developer-Intern---Fall-2026_R031492)
 - 2026-08-07 — **Delta Dental**: [Application Development Intern](https://rhsc.wd5.myworkdayjobs.com/delta_dental_of_michigan/job/Okemos-MI/Internship---Application-Development_JR101382)
+- 2026-08-07 — **GCI**: [Telecommunications Intern - Computer Science/Data Analytics](https://edqv.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/21003640)
+- 2026-08-07 — **General Dynamics Information Technology**: [Artificial Intelligence/Machine Learning Intern](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Falls-Church/Summer-2027-AI-Machine-Learning-Internship--DC-Metro-Area_RQ225912)
 - 2026-08-07 — **Luminance**: [AI Engineering Intern](https://apply.workable.com/luminance-1/j/E045EF5A7A/apply)
+- 2026-08-07 — **RTX**: [Systems Engineer 1 Intern - Intern Conversion](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Intern-Conversion--Systems-Engineer-I--Onsite-_01863596)
+- 2026-08-07 — **RTX**: [Systems Engineer 1 Intern - Intern Conversion](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Intern-Conversion--Systems-Engineer-I--Onsite-_01863190)
 - 2026-08-07 — **tarte cosmetics**: [Product Development Intern](https://apply.workable.com/tarte-inc/j/66E81C77A4/apply)
 - 2026-08-07 — **Terranova**: [Software Engineer Intern](https://jobs.ashbyhq.com/terranova/a8e5a8d2-4af3-4736-b66e-e0804447f7a0/application?embed=true)
 - 2026-08-07 — **TikTok**: [Fullstack Software Engineer Intern - Global E-Commerce - 2027 Summer](https://lifeattiktok.com/search/7670738362521520437)
-- 2026-08-07 — **TikTok**: [Fullstack Software Engineer Intern - Global E-Commerce](https://lifeattiktok.com/search/7670700387322300677)
-- 2026-08-07 — **TikTok**: [Software Engineer Intern - Global E-Commerce Search Infrastructure](https://lifeattiktok.com/search/7662594807715072261)
-- 2026-08-06 — **Alayacare**: [Full-Stack Developer Intern - Python](https://alayacare.com/open-positions?gh_jid=8687981002)
-- 2026-08-06 — **Atoms**: [Software Engineer Intern - Winter 2027](https://job-boards.greenhouse.io/cssmerge/jobs/8687915002)
-- 2026-08-06 — **ByteDance**: [AI/LLM Network Research Intern - High Speed Network](https://jobs.bytedance.com/en/position/7670281454740818181/detail)
-- 2026-08-06 — **ByteDance**: [AI/LLM Network Research Intern - High Speed Network - PhD](https://jobs.bytedance.com/en/position/7669969771686775045/detail)
-- 2026-08-06 — **ByteDance**: [AI Network Automation Engineer Intern, Global Physical Network Infra](https://joinbytedance.com/search/7670690923748870405)
-- 2026-08-06 — **ByteDance**: [AI Network Automation Engineer Intern - Global Physical Network Infrastructure](https://jobs.bytedance.com/en/position/7670690923748870405/detail)
-- 2026-08-06 — **ByteDance**: [Applied Machine Learning Production Engineer Intern](https://joinbytedance.com/search/7670009669494704437)
-- 2026-08-06 — **ByteDance**: [Applied Machine Learning Production Engineer Intern - AML Production Engineer](https://jobs.bytedance.com/en/position/7670009669494704437/detail)
 
 ## Recently closed
 
@@ -91,6 +91,7 @@ _Generated 2026-08-07_
 - Astranis — FPGA Intern
 - Astranis — Hardware Design Intern - Software Defined Radio Team
 - Astranis — Reliability Design Intern
+- Atoms — Software Engineer Intern - Winter 2027
 - Autodesk — Cloud Developer Intern
 - Autodesk — Cloud Developer Intern
 - Autodesk — Machine Learning Developer Intern
@@ -187,8 +188,6 @@ _Generated 2026-08-07_
 - Intel — AI Software Engineering Intern
 - Intel Corporation — AI Software Engineering PhD Intern
 - JINGDONG — Software Engineering Intern
-- JP Morgan Chase — Data & AI Intern - Analyst
-- JP Morgan Chase — Data Internship - Data & AI Program
 - KBR — National Security Solutions Intern - Nss
 - Keysight Technologies — R&D Software Engineer Intern
 - Kinaxis — Engineer Co-op/Intern - Data & Analytics
@@ -241,6 +240,7 @@ _Generated 2026-08-07_
 - Palantir Technologies — Forward Deployed Infrastructure Engineer Intern
 - Palantir Technologies — Forward Deployed Infrastructure Engineer Intern
 - Palantir Technologies — Forward Deployed Infrastructure Engineer Intern
+- Pennsylvania State University — AI/ML Research and Development Intern
 - Pennsylvania State University — R&D Engineer Intern
 - Pennsylvania State University — Research and Development Engineer Intern
 - Persistent Systems — Hardware Engineer Intern

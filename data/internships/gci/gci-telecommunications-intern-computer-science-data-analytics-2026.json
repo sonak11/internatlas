@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "panagora-dynamic-intern-2026",
+  "id": "gci-telecommunications-intern-computer-science-data-analytics-2026",
   "company": {
-    "name": "PanAgora",
-    "slug": "panagora"
+    "name": "GCI",
+    "slug": "gci"
   },
-  "role": "Dynamic Intern",
+  "role": "Telecommunications Intern - Computer Science/Data Analytics",
   "category": "software-engineering",
-  "apply_url": "https://empower.wd12.myworkdayjobs.com/PanAgora/job/MA-Boston---PanAgora/Intern--Dynamic_R0061449",
+  "apply_url": "https://edqv.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/21003640",
   "season": "fall",
   "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Boston",
-      "state": "MA",
+      "city": "Anchorage",
+      "state": "AK",
       "country": "USA"
     }
   ],
@@ -40,7 +40,7 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-06",
+    "posted": "2026-08-07",
     "discovered": "2026-08-07",
     "last_verified": "2026-08-07"
   },

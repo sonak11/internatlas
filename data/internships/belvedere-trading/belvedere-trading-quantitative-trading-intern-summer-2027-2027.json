@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "panagora-dynamic-intern-2026",
+  "id": "belvedere-trading-quantitative-trading-intern-summer-2027-2027",
   "company": {
-    "name": "PanAgora",
-    "slug": "panagora"
+    "name": "Belvedere Trading",
+    "slug": "belvedere-trading"
   },
-  "role": "Dynamic Intern",
-  "category": "software-engineering",
-  "apply_url": "https://empower.wd12.myworkdayjobs.com/PanAgora/job/MA-Boston---PanAgora/Intern--Dynamic_R0061449",
-  "season": "fall",
-  "year": 2026,
+  "role": "Quantitative Trading Intern - Summer 2027",
+  "category": "quant",
+  "apply_url": "https://jobs.lever.co/belvederetrading/cbde47db-c60b-4339-a8f4-a8e4f30505ab/apply",
+  "season": "summer",
+  "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Boston",
-      "state": "MA",
+      "city": "Chicago",
+      "state": "IL",
       "country": "USA"
     }
   ],
@@ -40,7 +40,7 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-06",
+    "posted": "2026-08-07",
     "discovered": "2026-08-07",
     "last_verified": "2026-08-07"
   },
