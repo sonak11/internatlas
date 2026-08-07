@@ -143,6 +143,7 @@ _Generated 2026-08-07_
 - Copart — Technology Product Analyst Intern
 - Datasite — Forward Deployed Engineer Intern
 - Definity Financial — Data Analyst Co-op/Intern
+- Definity Financial — Reporting Specialist Co-op/Intern
 - Democratic Governors Association — Data and Coding Intern
 - Desjardins Group — Data Intern
 - Draper — Microsystems Integration Intern
@@ -290,6 +291,7 @@ _Generated 2026-08-07_
 - Spectrum Control — Engineering Intern
 - SRI International — Computer Science Intern
 - Stoke Space — Software Intern - Software
+- Susquehanna International Group (SIG) — Derivatives Sales Trader Intern - Summer 2027
 - Susquehanna International Group (SIG) — Trading Operations Analyst Intern
 - T. Rowe Price — Global Trading Intern
 - T. Rowe Price — Quantitative Equity Investing Intern

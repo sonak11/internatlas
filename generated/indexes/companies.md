@@ -144,7 +144,7 @@
 | [Datasite](../companies/datasite.md) | 0/2 | ai, software-engineering |
 | [Dedalus Labs](../companies/dedalus-labs.md) | 1/1 | software-engineering |
 | [Deepgram](../companies/deepgram.md) | 2/2 | software-engineering |
-| [Definity Financial](../companies/definity-financial.md) | 2/4 | software-engineering |
+| [Definity Financial](../companies/definity-financial.md) | 1/4 | software-engineering |
 | [Delta Air Lines](../companies/delta-air-lines.md) | 1/1 | ai |
 | [Delta Dental](../companies/delta-dental.md) | 1/1 | software-engineering |
 | [Democratic Governors Association](../companies/democratic-governors-association.md) | 0/1 | software-engineering |
@@ -458,7 +458,7 @@
 | [StudyFetch](../companies/studyfetch.md) | 2/2 | software-engineering |
 | [Super](../companies/super.md) | 2/2 | software-engineering |
 | [Susquehanna](../companies/susquehanna.md) | 1/1 | quant |
-| [Susquehanna International Group (SIG)](../companies/susquehanna-international-group-sig.md) | 21/22 | quant, software-engineering |
+| [Susquehanna International Group (SIG)](../companies/susquehanna-international-group-sig.md) | 20/22 | quant, software-engineering |
 | [Susquehanna Investment Group](../companies/susquehanna-investment-group.md) | 1/1 | quant |
 | [Swift](../companies/swift.md) | 1/1 | research |
 | [Synchrony Financial](../companies/synchrony-financial.md) | 4/4 | software-engineering |
