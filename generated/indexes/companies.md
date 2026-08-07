@@ -187,7 +187,7 @@
 | [Five Rings](../companies/five-rings.md) | 3/3 | quant, software-engineering |
 | [Flow Traders](../companies/flow-traders.md) | 1/1 | quant |
 | [Fluency](../companies/fluency.md) | 1/1 | software-engineering |
-| [Formlabs](../companies/formlabs.md) | 2/7 | ai, hardware, software-engineering |
+| [Formlabs](../companies/formlabs.md) | 1/7 | ai, hardware, software-engineering |
 | [Forus](../companies/forus.md) | 1/1 | software-engineering |
 | [Four Hands](../companies/four-hands.md) | 1/1 | software-engineering |
 | [Freeform](../companies/freeform.md) | 0/1 | software-engineering |
@@ -422,7 +422,7 @@
 | [Samsung](../companies/samsung.md) | 0/1 | research |
 | [Samsung Research America](../companies/samsung-research-america.md) | 1/4 | ai, machine-learning, software-engineering |
 | [Sandhills Global](../companies/sandhills-global.md) | 1/1 | software-engineering |
-| [Sargent & Lundy](../companies/sargent-lundy.md) | 1/2 | ai, software-engineering |
+| [Sargent & Lundy](../companies/sargent-lundy.md) | 0/2 | ai, software-engineering |
 | [Saronic](../companies/saronic.md) | 1/2 | ai, software-engineering |
 | [Scale AI](../companies/scale-ai.md) | 3/3 | ai, software-engineering |
 | [Schweitzer Engineering Laboratories](../companies/schweitzer-engineering-laboratories.md) | 1/4 | software-engineering |
@@ -472,7 +472,7 @@
 | [Terminal](../companies/terminal.md) | 2/2 | software-engineering |
 | [Terranova](../companies/terranova.md) | 2/2 | embedded, software-engineering |
 | [Terranox AI](../companies/terranox-ai.md) | 1/1 | machine-learning |
-| [Tesla](../companies/tesla.md) | 91/105 | ai, cloud, data-engineering, design, embedded, hardware, machine-learning, product, security, software-engineering |
+| [Tesla](../companies/tesla.md) | 90/105 | ai, cloud, data-engineering, design, embedded, hardware, machine-learning, product, security, software-engineering |
 | [Tessera Labs](../companies/tessera-labs.md) | 1/1 | product |
 | [Texas Instruments](../companies/texas-instruments.md) | 1/1 | software-engineering |
 | [The Boeing Company](../companies/the-boeing-company.md) | 2/2 | software-engineering |

@@ -155,6 +155,7 @@ _Generated 2026-08-07_
 - Exowatt — Software Engineer Intern - Agent Platform - AI
 - Exploration Technology Corp. — Engineer Intern
 - Fab2 — Packaging Engineer Intern
+- Formlabs — Hardware Systems Integration Intern
 - Formlabs — Manufacturing Test Software Intern
 - Freeform — Process Engineer Intern
 - GE Appliances — Engineering Intern/Co-op
@@ -266,6 +267,7 @@ _Generated 2026-08-07_
 - Salesforce — Software Engineer Intern(Futureforce Summer 2027)
 - Samsung Research America — ML/NLP Research Intern
 - Sargent & Lundy — AI & Automation Intern - Summer 2027
+- Sargent & Lundy — Software Engineer Intern
 - Saronic — Enterprise Technology Intern - AI and Automation
 - Schweitzer Engineering Laboratories — Engineering Intern
 - Schweitzer Engineering Laboratories — Software Engineer Intern
@@ -295,6 +297,7 @@ _Generated 2026-08-07_
 - Tencent — Research Intern
 - Tenstorrent — CPU/AI Workload Analysis Intern
 - Tesla — AI Inference Engineer Intern - Software Compiler Engineer - AI Inference
+- Tesla — Applied AI Engineer Intern - AI Hardware
 - Tesla — Electronic Design Engineer Internship - Electronic Design Engineer - Electronic Systems
 - Tesla — Embedded Software Engineer Intern - Embedded Software Engineer - Steering,Chassis Systems
 - Tesla — Failure Analysis Engineer Intern - Failure Analysis Engineer - Energy Engineering
