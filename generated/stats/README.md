@@ -8,10 +8,10 @@ _Generated 2026-08-07_
 
 | Company | Listings |
 |---|---|
-| TikTok | 107 |
+| TikTok | 110 |
 | Tesla | 105 |
 | Jump Trading | 43 |
-| ByteDance | 30 |
+| ByteDance | 33 |
 | Cloudflare | 27 |
 | SpaceX | 25 |
 | Susquehanna International Group (SIG) | 22 |
@@ -33,15 +33,15 @@ _Generated 2026-08-07_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 766 | `█████████████` |
+| software-engineering | 771 | `█████████████` |
 | ai | 149 | `██` |
 | quant | 145 | `██` |
-| machine-learning | 105 | `██` |
+| machine-learning | 106 | `██` |
 | research | 85 | `█` |
 | hardware | 74 | `█` |
-| embedded | 44 | `█` |
+| embedded | 45 | `█` |
 | product | 38 | `█` |
-| cloud | 32 | `█` |
+| cloud | 33 | `█` |
 | design | 28 | `█` |
 | data-science | 22 | `█` |
 | data-engineering | 17 | `█` |
@@ -49,6 +49,12 @@ _Generated 2026-08-07_
 
 ## Newest listings
 
+- 2026-08-07 — **ByteDance**: [Machine Learning Research Scientist Intern - Seed AI for Science - Atomistic AI](https://jobs.bytedance.com/en/position/7670855041951795509/detail)
+- 2026-08-07 — **ByteDance**: [Network Software Engineer Intern - Network Observation](https://jobs.bytedance.com/en/position/7670772641439041797/detail)
+- 2026-08-07 — **ByteDance**: [Network Software Engineer Intern - Network Switch](https://jobs.bytedance.com/en/position/7670778018960542005/detail)
+- 2026-08-07 — **TikTok**: [Fullstack Software Engineer Intern - Global E-Commerce - 2027 Summer](https://lifeattiktok.com/search/7670738362521520437)
+- 2026-08-07 — **TikTok**: [Fullstack Software Engineer Intern - Global E-Commerce](https://lifeattiktok.com/search/7670700387322300677)
+- 2026-08-07 — **TikTok**: [Software Engineer Intern - Global E-Commerce Search Infrastructure](https://lifeattiktok.com/search/7662594807715072261)
 - 2026-08-06 — **Alayacare**: [Full-Stack Developer Intern - Python](https://alayacare.com/open-positions?gh_jid=8687981002)
 - 2026-08-06 — **Atoms**: [Software Engineer Intern - Winter 2027](https://job-boards.greenhouse.io/cssmerge/jobs/8687915002)
 - 2026-08-06 — **ByteDance**: [AI/LLM Network Research Intern - High Speed Network](https://jobs.bytedance.com/en/position/7670281454740818181/detail)
@@ -63,12 +69,6 @@ _Generated 2026-08-07_
 - 2026-08-06 — **ByteDance**: [Research Scientist Intern](https://jobs.bytedance.com/en/position/7670375041041320245/detail)
 - 2026-08-06 — **ByteDance**: [Research Scientist Intern - Multimedia Streaming](https://jobs.bytedance.com/en/position/7670354800621603125/detail)
 - 2026-08-06 — **ByteDance**: [Video/Image AI/ML Software Engineer Intern - Multimedia](https://jobs.bytedance.com/en/position/7670354329765464373/detail)
-- 2026-08-06 — **Canva**: [PhD Research Scientist Intern](https://jobs.smartrecruiters.com/Canva/6000000001291655-phd-research-scientist-intern)
-- 2026-08-06 — **Canva**: [PhD Research Scientist Intern](https://jobs.smartrecruiters.com/Canva/6000000001291655)
-- 2026-08-06 — **Canva**: [PhD Research Scientist Intern - Generative AI](https://jobs.smartrecruiters.com/Canva/6000000001289897)
-- 2026-08-06 — **Canva**: [PhD Research Scientist Intern - Reinforcement Learning - Images](https://jobs.smartrecruiters.com/Canva/6000000001292768)
-- 2026-08-06 — **Centerfield**: [Frontend Engineer Intern](https://jobs.ashbyhq.com/centerfield/1d7eacc1-37f7-478c-9b0a-fa7974f1a9e4/application?embed=true)
-- 2026-08-06 — **CNO Financial Group**: [Cyber Security IT Intern](https://cnoinc.wd5.myworkdayjobs.com/careers/job/Carmel-IN/Cyber-Security-IT-Intern---REMOTE_JR170419?jr_id=6a70f504e2b7476e7b20bfd4)
 
 ## Recently closed
 

@@ -1,6 +1,6 @@
 # 📬 InternAtlas Weekly Digest — 2026-08-07
 
-## 🆕 New this week (360)
+## 🆕 New this week (366)
 
 - **1X** — [CNC Machine Park Intern](https://jobs.ashbyhq.com/1x/e7b4aaf5-5c55-4e2f-abcd-5c250657bede/application?embed=true) · software-engineering · —
 - **AcreTrader** — [Data Intern](https://ats.rippling.com/acretrader-jobs/jobs/e0192aa0-bd65-4262-81ed-d64685c7dc41) · software-engineering · —
@@ -34,6 +34,9 @@
 - **ByteDance** — [ASIC Design Engineer Intern - Video Silicon IP](https://jobs.bytedance.com/en/position/7670332179383699717/detail) · hardware · —
 - **ByteDance** — [GPU/AI Application System Software Engineer Intern](https://joinbytedance.com/search/7668464504736876853) · ai · —
 - **ByteDance** — [GPU/AI Application System Software Engineer Intern - System Technologies and Engineering](https://jobs.bytedance.com/en/position/7668464504736876853/detail) · ai · —
+- **ByteDance** — [Machine Learning Research Scientist Intern - Seed AI for Science - Atomistic AI](https://jobs.bytedance.com/en/position/7670855041951795509/detail) · machine-learning · —
+- **ByteDance** — [Network Software Engineer Intern - Network Observation](https://jobs.bytedance.com/en/position/7670772641439041797/detail) · software-engineering · —
+- **ByteDance** — [Network Software Engineer Intern - Network Switch](https://jobs.bytedance.com/en/position/7670778018960542005/detail) · software-engineering · —
 - **ByteDance** — [Research Scientist Intern](https://jobs.bytedance.com/en/position/7667380188619131189/detail) · research · —
 - **ByteDance** — [Research Scientist Intern](https://jobs.bytedance.com/en/position/7667379218929780997/detail) · research · —
 - **ByteDance** — [Research Scientist Intern](https://jobs.bytedance.com/en/position/7670375041041320245/detail) · research · —
@@ -272,6 +275,8 @@
 - **TikTok** — [Frontend Engineer Intern - Global CRM](https://lifeattiktok.com/search/7669711026846058757) · software-engineering · —
 - **TikTok** — [Frontend Engineer Intern - Open Platform](https://lifeattiktok.com/search/7667935739300792629) · software-engineering · —
 - **TikTok** — [Frontend Software Engineer Intern - Ads Measurement Signal and Privacy](https://lifeattiktok.com/search/7668584161852229893) · software-engineering · —
+- **TikTok** — [Fullstack Software Engineer Intern - Global E-Commerce - 2027 Summer](https://lifeattiktok.com/search/7670738362521520437) · software-engineering · —
+- **TikTok** — [Fullstack Software Engineer Intern - Global E-Commerce](https://lifeattiktok.com/search/7670700387322300677) · software-engineering · —
 - **TikTok** — [Generative AI Researcher Intern - Intelligent Creation-Vision and Graphics](https://lifeattiktok.com/search/7668183035989281029) · ai · —
 - **TikTok** — [LLM Post-training Engineer Intern - Research & Product](https://lifeattiktok.com/search/7670285031018432773) · ai · —
 - **TikTok** — [Machine Learning Engineer Intern](https://lifeattiktok.com/search/7668379675467761925) · machine-learning · —
@@ -333,6 +338,7 @@
 - **TikTok** — [Software Engineer Intern, Data Arch - E-commerce](https://lifeattiktok.com/search/7668582146236631349) · software-engineering · —
 - **TikTok** — [Software Engineer Intern - Foundation Platform](https://lifeattiktok.com/search/7670281449668905269) · software-engineering · —
 - **TikTok** — [Software Engineer Intern - Global CRM](https://lifeattiktok.com/search/7669711844487399685) · software-engineering · —
+- **TikTok** — [Software Engineer Intern - Global E-Commerce Search Infrastructure](https://lifeattiktok.com/search/7662594807715072261) · cloud · —
 - **TikTok** — [Software Engineer Intern - Intelligent Creation-Camera](https://lifeattiktok.com/search/7668862422178318597) · software-engineering · —
 - **TikTok** — [Software Engineer Intern - Media Engine](https://lifeattiktok.com/search/7670295535077427509) · software-engineering · —
 - **TikTok** — [Software Engineer Intern - ML Infra](https://lifeattiktok.com/search/7668696895234197813) · machine-learning · —

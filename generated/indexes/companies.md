@@ -30,7 +30,7 @@
 | [Altera Corporation](../companies/altera-corporation.md) | 0/1 | ai |
 | [Altice USA](../companies/altice-usa.md) | 0/1 | data-engineering |
 | [Altom Transport](../companies/altom-transport.md) | 3/3 | software-engineering |
-| [Amazon](../companies/amazon.md) | 7/7 | machine-learning, software-engineering |
+| [Amazon](../companies/amazon.md) | 8/8 | machine-learning, software-engineering |
 | [Ambarella](../companies/ambarella.md) | 5/5 | hardware, software-engineering |
 | [Amentum](../companies/amentum.md) | 1/1 | hardware |
 | [American Bureau of Shipping](../companies/american-bureau-of-shipping.md) | 0/1 | ai |
@@ -71,6 +71,7 @@
 | [BMO](../companies/bmo.md) | 0/1 | machine-learning |
 | [Bank of Montreal](../companies/bank-of-montreal.md) | 2/6 | ai, data-science, software-engineering |
 | [Barclays](../companies/barclays.md) | 1/1 | quant |
+| [Base Power](../companies/base-power.md) | 1/1 | embedded |
 | [Beacon Software](../companies/beacon-software.md) | 1/1 | software-engineering |
 | [Bild AI](../companies/bild-ai.md) | 1/1 | ai |
 | [Black Cape](../companies/black-cape.md) | 1/1 | software-engineering |
@@ -88,7 +89,7 @@
 | [Brio Water Technology](../companies/brio-water-technology.md) | 1/1 | ai |
 | [Brookfield](../companies/brookfield.md) | 1/1 | ai |
 | [Brunswick](../companies/brunswick.md) | 0/1 | software-engineering |
-| [ByteDance](../companies/bytedance.md) | 28/30 | ai, hardware, machine-learning, research, software-engineering |
+| [ByteDance](../companies/bytedance.md) | 31/33 | ai, hardware, machine-learning, research, software-engineering |
 | [CACI](../companies/caci.md) | 0/1 | software-engineering |
 | [CALSTART](../companies/calstart.md) | 3/3 | research, software-engineering |
 | [CCC Intelligent Solutions](../companies/ccc-intelligent-solutions.md) | 0/1 | ai |
@@ -477,7 +478,7 @@
 | [The Mosaic Company](../companies/the-mosaic-company.md) | 0/1 | security |
 | [The Trade Desk](../companies/the-trade-desk.md) | 0/1 | software-engineering |
 | [Thomson Reuters](../companies/thomson-reuters.md) | 1/1 | research |
-| [TikTok](../companies/tiktok.md) | 103/107 | ai, cloud, data-engineering, data-science, machine-learning, product, research, software-engineering |
+| [TikTok](../companies/tiktok.md) | 106/110 | ai, cloud, data-engineering, data-science, machine-learning, product, research, software-engineering |
 | [Together AI](../companies/together-ai.md) | 2/3 | research |
 | [Torch Technologies](../companies/torch-technologies.md) | 0/1 | software-engineering |
 | [Toshiba Commerce Solutions](../companies/toshiba-commerce-solutions.md) | 0/2 | ai |
