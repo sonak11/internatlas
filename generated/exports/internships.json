@@ -25620,8 +25620,21 @@
       "work_mode": "onsite",
       "locations": [
         {
-          "city": "Atlanta",
-          "state": "GA",
+          "city": "Houston",
+          "state": "TX",
+          "country": "USA"
+        },
+        {
+          "city": "Washington",
+          "state": "DC",
+          "country": "USA"
+        },
+        {
+          "city": "SF",
+          "country": "USA"
+        },
+        {
+          "state": "LA",
           "country": "USA"
         },
         {
@@ -25630,8 +25643,12 @@
           "country": "USA"
         },
         {
-          "city": "Houston",
-          "state": "TX",
+          "city": "NYC",
+          "country": "USA"
+        },
+        {
+          "city": "Atlanta",
+          "state": "GA",
           "country": "USA"
         },
         {
@@ -25647,11 +25664,6 @@
         {
           "city": "San Francisco",
           "state": "CA",
-          "country": "USA"
-        },
-        {
-          "city": "Washington",
-          "state": "DC",
           "country": "USA"
         }
       ],
@@ -25679,14 +25691,14 @@
         "resume_keywords": []
       },
       "dates": {
-        "posted": "2026-07-31",
+        "posted": "2026-07-27",
         "discovered": "2026-07-29",
         "last_verified": "2026-08-08"
       },
       "status": "open",
       "tags": [
         "auto-ingested",
-        "src:vanshb03"
+        "src:simplify"
       ]
     },
     {
