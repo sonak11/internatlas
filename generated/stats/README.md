@@ -276,6 +276,7 @@ _Generated 2026-08-08_
 - Tesla — Fullstack Engineer Intern - Fullstack Engineer - Build Infrastructure
 - Tesla — Machine Learning Platform Intern - Multiple Teams
 - Tesla — Mobile Applications Engineering Intern - Android Engineer - Mobile Software
+- Tesla — Operational Automation Software Engineer Intern - Operational Automation Engineer - Residential Energy
 - Tesla — Software Engineer Intern - AI Data Infrastructure
 - Tesla — Software Engineer Intern - Fullstack Software Engineer - Fleetnet
 - Tesla — Software Engineer Intern - Software Engineer Opticaster - Energy Engineering

@@ -949,7 +949,6 @@
 - Tesla — [Machine Learning Engineer Intern, Noise Vibration Harshness Engineering](https://www.tesla.com/careers/search/job/244786?source=Indeed&source=Indeed&tags=organicjob)
 - Tesla — [Machine Learning Intern - AI Engineer - Tesla AI](https://www.tesla.com/careers/search/job/275331)
 - Tesla — [Mobile App Software Engineer Intern - Mobile Application Software Engineer - Energy Engineering](https://www.tesla.com/careers/search/job/271382)
-- Tesla — [Operational Automation Software Engineer Intern - Operational Automation Engineer - Residential Energy](https://www.tesla.com/careers/search/job/271352)
 - Tesla — [Physics Engine Development Intern - Physics Engine Development Engineer - Optimus](https://www.tesla.com/careers/search/job/257048)
 - Tesla — [Product Management Intern - Product Engineer - Applications Engineering](https://www.tesla.com/careers/search/job/274754)
 - Tesla — [Radio Frequency Engineer Intern - Radio Frequency Engineer - Energy Engineering](https://www.tesla.com/careers/search/job/273819)
