@@ -1,6 +1,6 @@
 # 📬 InternAtlas Weekly Digest — 2026-08-08
 
-## 🆕 New this week (377)
+## 🆕 New this week (378)
 
 - **1X** — [CNC Machine Park Intern](https://jobs.ashbyhq.com/1x/e7b4aaf5-5c55-4e2f-abcd-5c250657bede/application?embed=true) · software-engineering · —
 - **AcreTrader** — [Data Intern](https://ats.rippling.com/acretrader-jobs/jobs/e0192aa0-bd65-4262-81ed-d64685c7dc41) · software-engineering · —
@@ -236,6 +236,7 @@
 - **StudyFetch** — [Product Intern](https://ats.rippling.com/studyfetch/jobs/45f16361-69b0-4e74-8cc3-d2574336c76f) · software-engineering · —
 - **Susquehanna International Group (SIG)** — [Derivatives Sales Trader Intern - Summer 2027](https://careers-sig.icims.com/jobs/10626/job?mobile=true&needsRedirect=false) · software-engineering · —
 - **Swift** — [Industry Engagement Research Analyst Intern](https://swift.wd3.myworkdayjobs.com/join-swift/job/London-United-Kingdom/Industry-Engagement---Intern-Research-Analyst_2026-16321) · research · —
+- **Systems Planning and Analysis (SPA)** — [Science & Technology Intern](https://spa.jibeapply.com/jobs/23220?icims=1) · software-engineering · —
 - **TMX Group** — [Analyst Student Intern - Market Insights](https://tmx.wd3.myworkdayjobs.com/TMX_Careers/job/Toronto---100-Adelaide-St-W/Analyst--Market-Insights--Student-Intern_R-6125) · software-engineering · —
 - **Tacit** — [Radio Frequency Hardware Intern - Fall 2026](https://jobs.ashbyhq.com/tacit/d001e2d9-90af-4d0b-bc97-fd6fa149ad19/application?embed=true) · hardware · —
 - **Terminal** — [Software Engineer Intern - Backend](https://jobs.ashbyhq.com/terminal/6855293e-a817-4b70-835c-cd57e3bfcfde/application?embed=true) · software-engineering · —

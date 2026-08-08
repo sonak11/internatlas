@@ -891,6 +891,7 @@
 - Synchrony Financial — [Emerging Technology Intern](https://synchronyfinancial.wd5.myworkdayjobs.com/University/job/University-of-Illinois-Hub/Emerging-Technology-Intern---Fall-2026_2601747-1)
 - Synchrony Financial — [Software Engineer Intern](https://synchronyfinancial.wd5.myworkdayjobs.com/University/job/Canton-Engagement-Hub-OH/Software-Engineer-Intern---Fall-2026_2601751-1)
 - Synchrony Financial — [Technology Intern](https://synchronyfinancial.wd5.myworkdayjobs.com/University/job/Other-Remote-NY/Technology-Intern---Fall-2026_2601748)
+- Systems Planning and Analysis (SPA) — [Science & Technology Intern](https://spa.jibeapply.com/jobs/23220?icims=1)
 - Tacit — [Radio Frequency Hardware Intern - Fall 2026](https://jobs.ashbyhq.com/tacit/d001e2d9-90af-4d0b-bc97-fd6fa149ad19/application?embed=true)
 - tarte cosmetics — [Product Development Intern](https://apply.workable.com/tarte-inc/j/66E81C77A4/apply)
 - Tencent — [AI Product Manager Intern](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/United-Kingdom-London/Product-manager-Intern_R107654-1)
