@@ -8119,7 +8119,7 @@
         "discovered": "2026-08-05",
         "last_verified": "2026-08-08"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -42876,7 +42876,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-08"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -45594,14 +45594,14 @@
         "resume_keywords": []
       },
       "dates": {
-        "posted": "2026-08-03",
+        "posted": "2026-08-04",
         "discovered": "2026-08-04",
         "last_verified": "2026-08-08"
       },
       "status": "open",
       "tags": [
         "auto-ingested",
-        "src:simplify"
+        "src:vanshb03"
       ]
     },
     {

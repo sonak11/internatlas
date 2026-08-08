@@ -99,6 +99,7 @@ _Generated 2026-08-08_
 - Bank of Montreal — Data and AI Operations Analyst Co-op/Internship - Cloud
 - Bank of Montreal — Data and AI Operations Analyst Co-op/Internship - Cloud
 - Bank of Montreal — Data and AI Operations Analyst Intern/Co-op - Cloud - 8 months
+- Bank of Montreal — Database Operations Co-op Intern
 - Bank of Montreal — Market Risk Analyst Co-op/Intern
 - BDO Canada — Data & Analytics Co-op/Intern - Data & Analytics
 - Bosch Home Comfort — Artificial Intelligence and Software Development Engineering Intern
@@ -195,6 +196,7 @@ _Generated 2026-08-08_
 - Meta — Research Scientist Intern PhD - Applied Research
 - Microchip Technology — Power, Analog and Mixed-Signal IC Product Engineer Intern - Product Engineering
 - Microsoft — Software Engineer Intern
+- Midmark — Firmware Engineering Intern/Co-op
 - Monogram — Software Engineer Intern
 - Moog — Software Engineer Intern
 - Moon — Software Engineer Intern - Backend & API

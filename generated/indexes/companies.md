@@ -71,7 +71,7 @@
 | [Axon](../companies/axon.md) | 2/2 | software-engineering |
 | [BDO Canada](../companies/bdo-canada.md) | 0/2 | software-engineering |
 | [BMO](../companies/bmo.md) | 0/1 | machine-learning |
-| [Bank of Montreal](../companies/bank-of-montreal.md) | 3/7 | ai, data-science, software-engineering |
+| [Bank of Montreal](../companies/bank-of-montreal.md) | 2/7 | ai, data-science, software-engineering |
 | [Barclays](../companies/barclays.md) | 1/1 | quant |
 | [Base Power](../companies/base-power.md) | 1/1 | embedded |
 | [Beacon Software](../companies/beacon-software.md) | 1/1 | software-engineering |
@@ -306,7 +306,7 @@
 | [Microchip Technology](../companies/microchip-technology.md) | 3/5 | embedded, software-engineering |
 | [Micron Technology](../companies/micron-technology.md) | 1/1 | software-engineering |
 | [Microsoft](../companies/microsoft.md) | 14/15 | cloud, machine-learning, product, security, software-engineering |
-| [Midmark](../companies/midmark.md) | 1/1 | embedded |
+| [Midmark](../companies/midmark.md) | 0/1 | embedded |
 | [Mindsmith](../companies/mindsmith.md) | 1/1 | software-engineering |
 | [Mistral AI](../companies/mistral-ai.md) | 2/3 | ai, research |
 | [Mobius Renewables](../companies/mobius-renewables.md) | 2/2 | software-engineering |
