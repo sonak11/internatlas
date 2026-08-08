@@ -1,6 +1,6 @@
 {
   "generated": "2026-08-08",
-  "count": 1576,
+  "count": 1577,
   "internships": [
     {
       "schema_version": "1.0",
@@ -22175,6 +22175,52 @@
         "last_verified": "2026-07-22"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "eko-health-clinical-product-strategy-intern-clinical-technology-2026",
+      "company": {
+        "name": "Eko Health",
+        "slug": "eko-health"
+      },
+      "role": "Clinical Product Strategy Intern - Clinical Technology",
+      "category": "software-engineering",
+      "apply_url": "https://jobs.lever.co/ekohealth/ff0ee63d-4733-4c97-b3c5-0a6f1e303f1d/apply",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "remote",
+      "locations": [],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-04",
+        "discovered": "2026-08-08",
+        "last_verified": "2026-08-08"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"

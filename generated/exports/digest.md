@@ -1,6 +1,6 @@
 # 📬 InternAtlas Weekly Digest — 2026-08-08
 
-## 🆕 New this week (378)
+## 🆕 New this week (379)
 
 - **1X** — [CNC Machine Park Intern](https://jobs.ashbyhq.com/1x/e7b4aaf5-5c55-4e2f-abcd-5c250657bede/application?embed=true) · software-engineering · —
 - **AcreTrader** — [Data Intern](https://ats.rippling.com/acretrader-jobs/jobs/e0192aa0-bd65-4262-81ed-d64685c7dc41) · software-engineering · —
@@ -96,6 +96,7 @@
 - **Copart** — [Software Engineer Intern](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR110353) · software-engineering · —
 - **DV Group** — [Quantitative Risk Intern](https://job-boards.greenhouse.io/dvtrading/jobs/4719118005) · quant · —
 - **Delta Dental** — [Application Development Intern](https://rhsc.wd5.myworkdayjobs.com/delta_dental_of_michigan/job/Okemos-MI/Internship---Application-Development_JR101382) · software-engineering · —
+- **Eko Health** — [Clinical Product Strategy Intern - Clinical Technology](https://jobs.lever.co/ekohealth/ff0ee63d-4733-4c97-b3c5-0a6f1e303f1d/apply) · software-engineering · —
 - **Epic Games** — [Machine Learning Intern](https://epicgames.com/careers/jobs/6138134004?gh_jid=6138134004) · machine-learning · —
 - **Epic Games** — [Machine Learning Intern - Special Projects - Epic Research Group](https://epicgames.com/careers/jobs/6138140004?gh_jid=6138140004) · machine-learning · —
 - **Epic Games** — [Machine Learning Intern - Special Projects - Epic Research Group](https://epicgames.com/careers/jobs/5708589004?gh_jid=5708589004) · machine-learning · —
