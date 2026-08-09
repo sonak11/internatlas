@@ -227,6 +227,7 @@
 | [Gumloop](../companies/gumloop.md) | 1/1 | design |
 | [H&CO](../companies/h-co.md) | 1/1 | software-engineering |
 | [HARMAN](../companies/harman.md) | 1/1 | software-engineering |
+| [HNTB](../companies/hntb.md) | 2/2 | software-engineering |
 | [HPR (Hyannis Port Research)](../companies/hpr-hyannis-port-research.md) | 2/2 | hardware, software-engineering |
 | [Harris Computer](../companies/harris-computer.md) | 1/1 | software-engineering |
 | [Heliux](../companies/heliux.md) | 3/3 | software-engineering |

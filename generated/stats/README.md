@@ -33,7 +33,7 @@ _Generated 2026-08-09_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 798 | `█████████████` |
+| software-engineering | 800 | `█████████████` |
 | ai | 154 | `██` |
 | quant | 150 | `██` |
 | machine-learning | 113 | `██` |
@@ -49,6 +49,8 @@ _Generated 2026-08-09_
 
 ## Newest listings
 
+- 2026-08-09 — **HNTB**: [Strategic Technology Intern - SED Division](https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/Tallahassee-FL/Strategic-Technology-Intern---Summer-2027--SED-Division--For-Current-Former-HNTB-Interns-Only-_R-31092)
+- 2026-08-09 — **HNTB**: [Strategic Technology Intern - SED Division](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Tallahassee-FL/Strategic-Technology-Intern---Summer-2027--SED-Division--For-Current-Former-HNTB-Interns-Only-_R-31092-1)
 - 2026-08-08 — **ByteDance**: [Software Development Engineer Intern - Network Automation - 2027 Summer](https://jobs.bytedance.com/en/position/7671147251943213317/detail)
 - 2026-08-08 — **Capula**: [Trading and Research Intern](https://apply.workable.com/capula-investment-management-ltd/j/A15A62A8BE/apply)
 - 2026-08-08 — **Flexion Robotics**: [Research Intern](https://apply.workable.com/flexion-robotics/j/8FF540773C/apply)
@@ -67,8 +69,6 @@ _Generated 2026-08-09_
 - 2026-08-07 — **Axon**: [Software Engineer Intern](https://job-boards.greenhouse.io/axontalentcommunity/jobs/7837133003)
 - 2026-08-07 — **Bank of Montreal**: [Card Products Intern Co-op - Customer Solutions](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Card-Products-Internship--Fall-2026-Co-op-Internship--Toronto--CA-_R260023035)
 - 2026-08-07 — **Belvedere Trading**: [Quantitative Trading Intern - Summer 2027](https://jobs.lever.co/belvederetrading/cbde47db-c60b-4339-a8f4-a8e4f30505ab/apply)
-- 2026-08-07 — **Belvedere Trading**: [Quantitative Trading Intern - Winter Quarter 2027](https://jobs.lever.co/belvederetrading/8f06f221-8777-4a4d-b035-40882db5f4a0/apply)
-- 2026-08-07 — **Belvedere Trading**: [Software Engineer Intern - Summer 2027](https://jobs.lever.co/belvederetrading/10746b3d-1760-4573-9b63-b93f5a5e4fc0/apply)
 
 ## Recently closed
 
