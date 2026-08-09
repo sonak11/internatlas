@@ -10,14 +10,8 @@
   "apply_url": "https://apply.careers.microsoft.com/careers/job/1970393556953113",
   "season": "summer",
   "year": 2027,
-  "work_mode": "onsite",
-  "locations": [
-    {
-      "city": "Redmond",
-      "state": "WA",
-      "country": "USA"
-    }
-  ],
+  "work_mode": "remote",
+  "locations": [],
   "compensation": {
     "currency": "USD",
     "housing_stipend": false,
@@ -43,13 +37,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-03",
+    "posted": "2026-08-04",
     "discovered": "2026-08-03",
     "last_verified": "2026-08-09"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }

@@ -96,6 +96,7 @@ _Generated 2026-08-09_
 - Autodesk — Software Developer Intern - Stagiaire en Développement Logiciel
 - Autodesk — Software Developer Intern - Stagiaire en Développement Logiciel
 - Avanade — Software Engineering Intern
+- Bank of Montreal — Card Products Intern Co-op - Customer Solutions
 - Bank of Montreal — Data and AI Operations Analyst Co-op/Internship - Cloud
 - Bank of Montreal — Data and AI Operations Analyst Co-op/Internship - Cloud
 - Bank of Montreal — Data and AI Operations Analyst Intern/Co-op - Cloud - 8 months
