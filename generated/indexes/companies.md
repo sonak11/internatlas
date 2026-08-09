@@ -71,7 +71,7 @@
 | [Axon](../companies/axon.md) | 2/2 | software-engineering |
 | [BDO Canada](../companies/bdo-canada.md) | 0/2 | software-engineering |
 | [BMO](../companies/bmo.md) | 0/1 | machine-learning |
-| [Bank of Montreal](../companies/bank-of-montreal.md) | 1/7 | ai, data-science, software-engineering |
+| [Bank of Montreal](../companies/bank-of-montreal.md) | 0/7 | ai, data-science, software-engineering |
 | [Barclays](../companies/barclays.md) | 1/1 | quant |
 | [Base Power](../companies/base-power.md) | 1/1 | embedded |
 | [Beacon Software](../companies/beacon-software.md) | 1/1 | software-engineering |
@@ -89,7 +89,7 @@
 | [Bosch Home Comfort](../companies/bosch-home-comfort.md) | 4/8 | ai, product, research, software-engineering |
 | [Bot Auto](../companies/bot-auto.md) | 1/1 | machine-learning |
 | [Brex](../companies/brex.md) | 0/1 | software-engineering |
-| [Brio Water Technology](../companies/brio-water-technology.md) | 1/1 | ai |
+| [Brio Water Technology](../companies/brio-water-technology.md) | 0/1 | ai |
 | [Brookfield](../companies/brookfield.md) | 1/1 | ai |
 | [Brunswick](../companies/brunswick.md) | 0/1 | software-engineering |
 | [ByteDance](../companies/bytedance.md) | 32/34 | ai, hardware, machine-learning, research, software-engineering |

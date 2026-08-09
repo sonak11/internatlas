@@ -100,6 +100,7 @@ _Generated 2026-08-09_
 - Bank of Montreal — Data and AI Operations Analyst Co-op/Internship - Cloud
 - Bank of Montreal — Data and AI Operations Analyst Co-op/Internship - Cloud
 - Bank of Montreal — Data and AI Operations Analyst Intern/Co-op - Cloud - 8 months
+- Bank of Montreal — Data Scientist Co-op/Internship - Months
 - Bank of Montreal — Database Operations Co-op Intern
 - Bank of Montreal — Market Risk Analyst Co-op/Intern
 - BDO Canada — Data & Analytics Co-op/Intern - Data & Analytics
@@ -107,6 +108,7 @@ _Generated 2026-08-09_
 - Bosch Home Comfort — Autonomous Driving Intern
 - Bosch Home Comfort — Research Intern
 - Brex — Brex Internship Program
+- Brio Water Technology — AI Automation & Business Analytics Intern - Rotational Program
 - Brunswick — Software Engineer Intern
 - ByteDance — Research Scientist Intern - AI Infrastructure
 - ByteDance — Research Scientist Intern - AI Infrastructure
