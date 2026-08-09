@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 📊 Statistics
 
-_Generated 2026-08-08_
+_Generated 2026-08-09_
 
 ## Top hiring companies
 
@@ -33,7 +33,7 @@ _Generated 2026-08-08_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 797 | `█████████████` |
+| software-engineering | 798 | `█████████████` |
 | ai | 154 | `██` |
 | quant | 150 | `██` |
 | machine-learning | 113 | `██` |
@@ -151,7 +151,6 @@ _Generated 2026-08-08_
 - Fab2 — Embedded Software Engineer Intern
 - Fab2 — Packaging Engineer Intern
 - Formlabs — Hardware Systems Integration Intern
-- Freeform — Process Engineer Intern
 - GE Appliances — Engineering Intern/Co-op
 - GE Healthcare — Engineering Development Program Intern - Hardware
 - GE Healthcare — Engineering Development Program Intern - Software
@@ -162,6 +161,7 @@ _Generated 2026-08-08_
 - Generac — Engineering Intern
 - Generac — Software Engineer Intern
 - General Dynamics Information Technology — Software Developer Intern
+- General Motors — Research and Development Intern - Research & Development: AI/ML
 - Global Infrastructure — Alternative Delivery Project Analytics Intern
 - Hendrick Motorsports — Project and Race Support Engineer Internship
 - Hendrick Motorsports — Racing Performance Engineer Intern
@@ -268,8 +268,6 @@ _Generated 2026-08-08_
 - T. Rowe Price — Global Trading Intern
 - T. Rowe Price — Quantitative Equity Investing Intern
 - Tencent — AI Agent Research & Application Intern
-- Tencent — Research Intern
-- Tencent — Research Intern
 - Tenstorrent — CPU/AI Workload Analysis Intern
 - Tesla — AI Inference Engineer Intern - Software Compiler Engineer - AI Inference
 - Tesla — Applied AI Engineer Intern - AI Hardware

@@ -99,7 +99,7 @@
 | [CME Group](../companies/cme-group.md) | 1/1 | quant |
 | [CNO Financial Group](../companies/cno-financial-group.md) | 2/2 | ai, security |
 | [CTGT](../companies/ctgt.md) | 1/1 | software-engineering |
-| [Cadence Design Systems](../companies/cadence-design-systems.md) | 5/5 | design, software-engineering |
+| [Cadence Design Systems](../companies/cadence-design-systems.md) | 6/6 | design, software-engineering |
 | [Canva](../companies/canva.md) | 4/6 | ai, research |
 | [Capital One](../companies/capital-one.md) | 6/8 | data-science, security, software-engineering |
 | [Capula](../companies/capula.md) | 1/1 | quant |
@@ -213,7 +213,7 @@
 | [General Astronautics](../companies/general-astronautics.md) | 1/1 | software-engineering |
 | [General Dynamics Information Technology](../companies/general-dynamics-information-technology.md) | 5/6 | machine-learning, software-engineering |
 | [General Intuition &amp; Medal](../companies/general-intuition-amp-medal.md) | 1/1 | software-engineering |
-| [General Motors](../companies/general-motors.md) | 1/2 | machine-learning, research |
+| [General Motors](../companies/general-motors.md) | 0/2 | machine-learning, research |
 | [Genworth Financial](../companies/genworth-financial.md) | 1/1 | software-engineering |
 | [GeoComply](../companies/geocomply.md) | 0/2 | software-engineering |
 | [Global Infrastructure](../companies/global-infrastructure.md) | 0/1 | software-engineering |
