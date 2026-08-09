@@ -353,6 +353,7 @@
 - Flexion Robotics — [Research Intern](https://apply.workable.com/flexion-robotics/j/8FF540773C/apply)
 - Flow Traders — [Quantitative Trading Intern](https://job-boards.greenhouse.io/flowtraders/jobs/8047166)
 - Fluency — [Engineer Intern](https://jobs.ashbyhq.com/fluency/2aced4e2-485b-4525-802c-763e62c91e88/application?embed=true)
+- Formlabs — [Hardware R&D Engineer Intern](https://careers.formlabs.com/job/8097694/apply/?gh_jid=8097694)
 - Forus — [Engineer Intern](https://jobs.ashbyhq.com/forus/82e10191-232e-4e8d-9c5e-cb82940cdfc7/application?embed=true)
 - Four Hands — [Product Development Intern](https://job-boards.greenhouse.io/fourhands/jobs/4272048009)
 - Frontier Health — [Applied Scientist / Research Engineer Intern](https://jobs.ashbyhq.com/frontier-health/0ff47d07-91b5-4456-9ecf-8438239b00ef/application?embed=true)

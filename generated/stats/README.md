@@ -152,7 +152,6 @@ _Generated 2026-08-09_
 - Exploration Technology Corp. — Engineer Intern
 - Fab2 — Embedded Software Engineer Intern
 - Fab2 — Packaging Engineer Intern
-- Formlabs — Hardware R&D Engineer Intern
 - Formlabs — Hardware Systems Integration Intern
 - GE Appliances — Engineering Intern/Co-op
 - GE Healthcare — Engineering Development Program Intern - Hardware
