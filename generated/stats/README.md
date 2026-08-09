@@ -108,7 +108,6 @@ _Generated 2026-08-09_
 - Bosch Home Comfort — Autonomous Driving Intern
 - Bosch Home Comfort — Research Intern
 - Brex — Brex Internship Program
-- Brio Water Technology — AI Automation & Business Analytics Intern - Rotational Program
 - Brunswick — Software Engineer Intern
 - ByteDance — Research Scientist Intern - AI Infrastructure
 - ByteDance — Research Scientist Intern - AI Infrastructure
@@ -153,6 +152,7 @@ _Generated 2026-08-09_
 - Exploration Technology Corp. — Engineer Intern
 - Fab2 — Embedded Software Engineer Intern
 - Fab2 — Packaging Engineer Intern
+- Formlabs — Hardware R&D Engineer Intern
 - Formlabs — Hardware Systems Integration Intern
 - GE Appliances — Engineering Intern/Co-op
 - GE Healthcare — Engineering Development Program Intern - Hardware
@@ -242,6 +242,7 @@ _Generated 2026-08-09_
 - Rockwell Automation — Firmware Engineering Intern
 - ROCKWOOL Group — Product Management Intern
 - Royal Bank of Canada — Relationship Manager Commercial Markets Intern
+- RTX — Machine Learning Researcher Intern/Co-op
 - RTX — Software Engineer Intern
 - RTX — Software Engineer Intern
 - Samsung Research America — ML/NLP Research Intern

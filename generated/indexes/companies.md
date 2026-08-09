@@ -89,7 +89,7 @@
 | [Bosch Home Comfort](../companies/bosch-home-comfort.md) | 4/8 | ai, product, research, software-engineering |
 | [Bot Auto](../companies/bot-auto.md) | 1/1 | machine-learning |
 | [Brex](../companies/brex.md) | 0/1 | software-engineering |
-| [Brio Water Technology](../companies/brio-water-technology.md) | 0/1 | ai |
+| [Brio Water Technology](../companies/brio-water-technology.md) | 1/1 | ai |
 | [Brookfield](../companies/brookfield.md) | 1/1 | ai |
 | [Brunswick](../companies/brunswick.md) | 0/1 | software-engineering |
 | [ByteDance](../companies/bytedance.md) | 32/34 | ai, hardware, machine-learning, research, software-engineering |
@@ -194,7 +194,7 @@
 | [Flexion Robotics](../companies/flexion-robotics.md) | 1/1 | research |
 | [Flow Traders](../companies/flow-traders.md) | 1/1 | quant |
 | [Fluency](../companies/fluency.md) | 1/1 | software-engineering |
-| [Formlabs](../companies/formlabs.md) | 1/7 | ai, hardware, software-engineering |
+| [Formlabs](../companies/formlabs.md) | 0/7 | ai, hardware, software-engineering |
 | [Forus](../companies/forus.md) | 1/1 | software-engineering |
 | [Four Hands](../companies/four-hands.md) | 1/1 | software-engineering |
 | [Freeform](../companies/freeform.md) | 0/1 | software-engineering |
@@ -397,7 +397,7 @@
 | [Quadrillion Labs](../companies/quadrillion-labs.md) | 1/1 | software-engineering |
 | [RFCUNY](../companies/rfcuny.md) | 2/2 | software-engineering |
 | [ROCKWOOL Group](../companies/rockwool-group.md) | 1/2 | product, software-engineering |
-| [RTX](../companies/rtx.md) | 7/9 | machine-learning, software-engineering |
+| [RTX](../companies/rtx.md) | 6/9 | machine-learning, software-engineering |
 | [Radix Trading](../companies/radix-trading.md) | 1/1 | quant |
 | [Rainmaker](../companies/rainmaker.md) | 0/1 | software-engineering |
 | [Rakuten International](../companies/rakuten-international.md) | 0/1 | software-engineering |
