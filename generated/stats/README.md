@@ -282,6 +282,7 @@ _Generated 2026-08-09_
 - Tesla — Software Engineer Intern - Software Engineer Opticaster - Energy Engineering
 - Tesla — Software Integration Engineer Intern - Software Integration Engineer - Service Tooling
 - The Federal Reserve System — Business Survey Intern
+- The Home Depot — AI Engineer Intern
 - The Mosaic Company — Cybersecurity Co-Op/Intern
 - TikTok — Machine Learning Engineer Intern - App Ads
 - TikTok — Product Manager Intern - Tiktok-Product-Search

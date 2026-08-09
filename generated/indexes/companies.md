@@ -488,7 +488,7 @@
 | [Texas Instruments](../companies/texas-instruments.md) | 1/1 | software-engineering |
 | [The Boeing Company](../companies/the-boeing-company.md) | 2/2 | software-engineering |
 | [The Federal Reserve System](../companies/the-federal-reserve-system.md) | 1/2 | software-engineering |
-| [The Home Depot](../companies/the-home-depot.md) | 1/1 | ai |
+| [The Home Depot](../companies/the-home-depot.md) | 0/1 | ai |
 | [The Hub Project](../companies/the-hub-project.md) | 1/1 | software-engineering |
 | [The Mosaic Company](../companies/the-mosaic-company.md) | 0/1 | security |
 | [The Nuclear Company](../companies/the-nuclear-company.md) | 8/8 | ai, data-science, machine-learning, software-engineering |
