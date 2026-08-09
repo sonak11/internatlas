@@ -227,7 +227,6 @@ _Generated 2026-08-09_
 - Pennsylvania State University — AI/ML Research and Development Intern
 - Pennsylvania State University — R&D Engineer Intern
 - Pennsylvania State University — Research and Development Engineer Intern
-- Pennsylvania State University — Research Engineering Intern
 - Persistent Systems — Hardware Engineer Intern
 - Phlair — Working Student Intern - Control Team - Systems & Data Infrastructure
 - PSECU — Data Analyst Intern
