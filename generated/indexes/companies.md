@@ -97,7 +97,7 @@
 | [CALSTART](../companies/calstart.md) | 3/3 | research, software-engineering |
 | [CCC Intelligent Solutions](../companies/ccc-intelligent-solutions.md) | 0/1 | ai |
 | [CME Group](../companies/cme-group.md) | 1/1 | quant |
-| [CNO Financial Group](../companies/cno-financial-group.md) | 2/2 | ai, security |
+| [CNO Financial Group](../companies/cno-financial-group.md) | 1/2 | ai, security |
 | [CTGT](../companies/ctgt.md) | 1/1 | software-engineering |
 | [Cadence Design Systems](../companies/cadence-design-systems.md) | 6/6 | design, software-engineering |
 | [Canva](../companies/canva.md) | 4/6 | ai, research |
@@ -119,7 +119,7 @@
 | [Citadel Securities](../companies/citadel-securities.md) | 4/4 | hardware, quant, software-engineering |
 | [City of Aurora](../companies/city-of-aurora.md) | 0/1 | software-engineering |
 | [City of Austin](../companies/city-of-austin.md) | 2/3 | research, software-engineering |
-| [Cloudflare](../companies/cloudflare.md) | 21/27 | ai, research, software-engineering |
+| [Cloudflare](../companies/cloudflare.md) | 20/27 | ai, research, software-engineering |
 | [Clyde Companies](../companies/clyde-companies.md) | 2/2 | software-engineering |
 | [Cohere](../companies/cohere.md) | 2/3 | machine-learning, research, software-engineering |
 | [Cohesity](../companies/cohesity.md) | 1/1 | software-engineering |
@@ -157,7 +157,7 @@
 | [Dexmate](../companies/dexmate.md) | 1/1 | software-engineering |
 | [DiDi Global](../companies/didi-global.md) | 0/1 | software-engineering |
 | [DimeHealth AI](../companies/dimehealth-ai.md) | 1/1 | software-engineering |
-| [Ditto](../companies/ditto.md) | 1/1 | software-engineering |
+| [Ditto](../companies/ditto.md) | 0/1 | software-engineering |
 | [Draper](../companies/draper.md) | 0/1 | software-engineering |
 | [Droyd Robotics](../companies/droyd-robotics.md) | 2/2 | machine-learning, software-engineering |
 | [Duku AI](../companies/duku-ai.md) | 0/1 | software-engineering |
@@ -186,6 +186,7 @@
 | [FTI Consulting](../companies/fti-consulting.md) | 2/2 | software-engineering |
 | [Fab2](../companies/fab2.md) | 3/6 | design, embedded, software-engineering |
 | [Field AI](../companies/field-ai.md) | 1/1 | software-engineering |
+| [Figma](../companies/figma.md) | 1/1 | design |
 | [Figure](../companies/figure.md) | 3/3 | embedded, hardware, software-engineering |
 | [Firetiger](../companies/firetiger.md) | 1/1 | software-engineering |
 | [First Bank & Trust](../companies/first-bank-trust.md) | 1/1 | software-engineering |

@@ -42,13 +42,14 @@ _Generated 2026-08-10_
 | embedded | 45 | `█` |
 | product | 40 | `█` |
 | cloud | 37 | `█` |
-| design | 28 | `█` |
+| design | 29 | `█` |
 | data-science | 24 | `█` |
 | data-engineering | 18 | `█` |
 | security | 11 | `█` |
 
 ## Newest listings
 
+- 2026-08-10 — **Figma**: [Software Engineer Intern (Winter 2027)](https://boards.greenhouse.io/figma/jobs/6131089004?gh_jid=6131089004)
 - 2026-08-10 — **InfiniteQuant**: [Quantitative Researcher Intern - Summer 2027](https://jobs.smartrecruiters.com/InfiniteQuant/744000142560129)
 - 2026-08-10 — **McKesson**: [Software Developer Intern - Digital and Enterprise Technology](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-QC-Montreal-Ville-Saint-Laurent/Stagiaire-en-dveloppement-logiciel---Automne-2026---Software-Developer-Intern---Fall-2026_JR0151997)
 - 2026-08-10 — **RTX**: [Software Engineer Intern - Summer 2027](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Software-Engineering-Intern--Summer-2027-_01864764)
@@ -68,7 +69,6 @@ _Generated 2026-08-10_
 - 2026-08-08 — **HyperLight**: [Integrated Photonics Intern](https://apply.workable.com/hyperlight/j/498D9988C8/apply)
 - 2026-08-08 — **ProNexus**: [Software Engineer Intern](https://apply.workable.com/pronexus-1/j/AF8C34AC6D/apply)
 - 2026-08-08 — **Turabify**: [AI Automation Intern](https://apply.workable.com/turabify-co/j/0B50CC0D49/apply)
-- 2026-08-08 — **WallStreetQuants**: [Quantitative Researcher Intern](https://apply.workable.com/wallstreetquants/j/494E392FD3/apply)
 
 ## Recently closed
 
@@ -130,7 +130,9 @@ _Generated 2026-08-10_
 - Cloudflare — Marketing Events and Campaigns Intern (Fall 2026)
 - Cloudflare — Public Policy Intern
 - Cloudflare — Sales Project Manager Intern (AI Innovation) (Fall 2026)
+- Cloudflare — Technical Marketing Intern (Fall 2026)
 - Cloudflare — Technical Support Engineer Intern (Fall 2026)
+- CNO Financial Group — Artificial Intelligence Information Technology Intern - AI
 - Cohere — Research Internship
 - Colonist — Product Developer Intern
 - Composio — Full-stack Intern
@@ -145,6 +147,7 @@ _Generated 2026-08-10_
 - Definity Financial — Technology Solutions Data Platform & Engineering Co-op/Intern
 - Democratic Governors Association — Data and Coding Intern
 - Desjardins Group — Data Intern
+- Ditto — Ditto Intern Program
 - Draper — Microsystems Integration Intern
 - DTCC — Product Management Intern
 - Eko Health — Clinical Product Strategy Intern - Clinical Technology

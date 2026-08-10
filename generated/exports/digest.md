@@ -1,6 +1,6 @@
 # 📬 InternAtlas Weekly Digest — 2026-08-10
 
-## 🆕 New this week (374)
+## 🆕 New this week (375)
 
 - **1X** — [CNC Machine Park Intern](https://jobs.ashbyhq.com/1x/e7b4aaf5-5c55-4e2f-abcd-5c250657bede/application?embed=true) · software-engineering · —
 - **AcreTrader** — [Data Intern](https://ats.rippling.com/acretrader-jobs/jobs/e0192aa0-bd65-4262-81ed-d64685c7dc41) · software-engineering · —
@@ -99,6 +99,7 @@
 - **Eridu AI** — [Lab Intern](https://ats.rippling.com/eridu-ai/jobs/7f4d858d-b26e-45ce-acdc-7593d8a1f7b1) · software-engineering · —
 - **Etched** — [Performance Tools Intern](https://jobs.ashbyhq.com/Etched/f02e8035-7dc9-4b0c-aab7-75bbb4e975b8/application?embed=true) · software-engineering · —
 - **Exabeam** — [AI Deployment Intern](https://jobs.jobvite.com/exabeam/job/oRNAAfwy?nl=1&nl=1&fr=false) · ai · —
+- **Figma** — [Software Engineer Intern (Winter 2027)](https://boards.greenhouse.io/figma/jobs/6131089004?gh_jid=6131089004) · design · —
 - **Flexion Robotics** — [Research Intern](https://apply.workable.com/flexion-robotics/j/8FF540773C/apply) · research · —
 - **GCI** — [Telecommunications Intern - Computer Science/Data Analytics](https://edqv.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/21003640) · software-engineering · —
 - **GE Vernova** — [Digital Technology Intern](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Atlanta/GE-Vernova-Digital-Technology-Internship---Summer-2027_R5049176-3) · software-engineering · —

@@ -1,6 +1,6 @@
 {
   "generated": "2026-08-10",
-  "count": 1587,
+  "count": 1588,
   "internships": [
     {
       "schema_version": "1.0",
@@ -17858,7 +17858,7 @@
         "discovered": "2026-08-04",
         "last_verified": "2026-08-10"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:ats"
@@ -18172,7 +18172,7 @@
         "discovered": "2026-08-04",
         "last_verified": "2026-08-10"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -21126,7 +21126,7 @@
         "discovered": "2026-07-20",
         "last_verified": "2026-08-10"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -24447,6 +24447,58 @@
       "tags": [
         "auto-ingested",
         "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "figma-software-engineer-intern-winter-2027-2027",
+      "company": {
+        "name": "Figma",
+        "slug": "figma",
+        "career_page": "https://www.figma.com/careers"
+      },
+      "role": "Software Engineer Intern (Winter 2027)",
+      "category": "design",
+      "apply_url": "https://boards.greenhouse.io/figma/jobs/6131089004?gh_jid=6131089004",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Francisco",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-10",
+        "discovered": "2026-08-10",
+        "last_verified": "2026-08-10"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
       ]
     },
     {

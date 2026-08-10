@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "cloudflare-technical-marketing-intern-fall-2026-2027",
+  "id": "figma-software-engineer-intern-winter-2027-2027",
   "company": {
-    "name": "Cloudflare",
-    "slug": "cloudflare",
-    "career_page": "https://www.cloudflare.com/careers"
+    "name": "Figma",
+    "slug": "figma",
+    "career_page": "https://www.figma.com/careers"
   },
-  "role": "Technical Marketing Intern (Fall 2026)",
-  "category": "software-engineering",
-  "apply_url": "https://boards.greenhouse.io/cloudflare/jobs/8104024?gh_jid=8104024",
+  "role": "Software Engineer Intern (Winter 2027)",
+  "category": "design",
+  "apply_url": "https://boards.greenhouse.io/figma/jobs/6131089004?gh_jid=6131089004",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "In-Office",
+      "city": "San Francisco",
       "country": "USA"
     }
   ],
@@ -40,11 +40,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-03",
-    "discovered": "2026-08-04",
+    "posted": "2026-08-10",
+    "discovered": "2026-08-10",
     "last_verified": "2026-08-10"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:ats"
