@@ -101,7 +101,7 @@
 | [CTGT](../companies/ctgt.md) | 1/1 | software-engineering |
 | [Cadence Design Systems](../companies/cadence-design-systems.md) | 6/6 | design, software-engineering |
 | [Canva](../companies/canva.md) | 4/6 | ai, research |
-| [Capital One](../companies/capital-one.md) | 6/8 | data-science, security, software-engineering |
+| [Capital One](../companies/capital-one.md) | 5/8 | data-science, security, software-engineering |
 | [Capula](../companies/capula.md) | 1/1 | quant |
 | [Carnegie Mellon University](../companies/carnegie-mellon-university.md) | 0/1 | research |
 | [Castleton Commodities International](../companies/castleton-commodities-international.md) | 8/8 | data-engineering, machine-learning, quant, software-engineering |
@@ -373,7 +373,7 @@
 | [PathAI](../companies/pathai.md) | 1/1 | machine-learning |
 | [Pendulum Intelligence](../companies/pendulum-intelligence.md) | 1/1 | product |
 | [PennState University](../companies/pennstate-university.md) | 1/1 | research |
-| [Pennsylvania State University](../companies/pennsylvania-state-university.md) | 2/6 | machine-learning, research, software-engineering |
+| [Pennsylvania State University](../companies/pennsylvania-state-university.md) | 1/6 | machine-learning, research, software-engineering |
 | [Pentair](../companies/pentair.md) | 1/1 | product |
 | [Persistent Systems](../companies/persistent-systems.md) | 1/2 | embedded, hardware |
 | [Persona AI](../companies/persona-ai.md) | 3/3 | machine-learning, software-engineering |

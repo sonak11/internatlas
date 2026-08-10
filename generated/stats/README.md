@@ -114,6 +114,7 @@ _Generated 2026-08-10_
 - Canva — PhD Research Scientist Intern - Generative AI
 - Canva — PhD Research Scientist Intern - Reinforcement Learning for Diffusion Modelling
 - Capital One — Full Stack Software Engineer Intern
+- Capital One — Technology Intern
 - Carnegie Mellon University — Research Intern - School of Computer Science - Language Technologies Institute
 - CCC Intelligent Solutions — Applied AI Engineer Intern
 - Centerfield — Product Manager Intern
@@ -226,6 +227,7 @@ _Generated 2026-08-10_
 - Palantir Technologies — Forward Deployed Infrastructure Engineer Intern
 - Palantir Technologies — Forward Deployed Infrastructure Engineer Intern
 - Pennsylvania State University — AI/ML Research and Development Intern
+- Pennsylvania State University — Electronic Materials and Devices Engineer Intern - Electronic Materials and Devices
 - Pennsylvania State University — R&D Engineer Intern
 - Pennsylvania State University — Research and Development Engineer Intern
 - Persistent Systems — Hardware Engineer Intern
