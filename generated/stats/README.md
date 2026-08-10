@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 📊 Statistics
 
-_Generated 2026-08-09_
+_Generated 2026-08-10_
 
 ## Top hiring companies
 
@@ -33,7 +33,7 @@ _Generated 2026-08-09_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 800 | `█████████████` |
+| software-engineering | 799 | `█████████████` |
 | ai | 154 | `██` |
 | quant | 150 | `██` |
 | machine-learning | 113 | `██` |
@@ -144,6 +144,7 @@ _Generated 2026-08-09_
 - Desjardins Group — Data Intern
 - Draper — Microsystems Integration Intern
 - DTCC — Product Management Intern
+- Environmental Defense Fund — Climate & Health Intern
 - Etched — Electrical Platform Intern
 - Etched — Supercomputing Intern
 - Evonik — Life Cycle Management Intern - Sustainability & Life Cycle Management
@@ -170,11 +171,8 @@ _Generated 2026-08-09_
 - Hermeus — Hardware-In-the-Loop Software Engineering Intern - Fall 2026
 - Hermeus — Modeling & Simulation Software Engineering Intern
 - HireVue — Data Science Intern
-- IMC Trading — 2027 - FPGA Intern - IIT Bombay
 - IMC Trading — 2027 - Quant Research Intern - BITS Pilani
-- IMC Trading — 2027 - Quant Research Intern - IIT Bombay
 - IMC Trading — 2027 - Software Engineering Intern - BITS Pilani
-- IMC Trading — 2027 - Software Engineering Intern - IIT Bombay
 - Inogen — Firmware Engineer Intern
 - Integrity — Research Intern
 - Intel — AI Applied Intern
@@ -284,7 +282,6 @@ _Generated 2026-08-09_
 - Tesla — Software Engineer Intern - Fullstack Software Engineer - Fleetnet
 - Tesla — Software Engineer Intern - Software Engineer Opticaster - Energy Engineering
 - Tesla — Software Integration Engineer Intern - Software Integration Engineer - Service Tooling
-- The Federal Reserve System — Business Survey Intern
 - The Home Depot — AI Engineer Intern
 - The Mosaic Company — Cybersecurity Co-Op/Intern
 - TikTok — Machine Learning Engineer Intern - App Ads
