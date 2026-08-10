@@ -273,6 +273,7 @@ _Generated 2026-08-10_
 - Sparksoft — Data Development Intern
 - Sparksoft — Technical Intern
 - SRI International — Computer Science Intern
+- Stand Insurance — Fire Science Engineer Intern
 - Stoke Space — Software Intern - Software
 - Susquehanna International Group (SIG) — Derivatives Sales Trader Intern - Summer 2027
 - Susquehanna International Group (SIG) — Trading Operations Analyst Intern
@@ -317,6 +318,7 @@ _Generated 2026-08-10_
 - Walleye Capital — Technology Intern
 - Walleye Capital — Volatility Trading Developer Intern
 - Wells Fargo — Corporate Risk Development Program Intern - Core Risk - Early Careers
+- WGU — Data Support Engineer Intern
 - Williams — Engineering Intern
 - X Development — PhD Residency Intern - Operations Research and Optimization
 - XTX Markets — Philanthropy Intern
