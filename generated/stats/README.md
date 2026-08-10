@@ -122,6 +122,7 @@ _Generated 2026-08-10_
 - Ciena — Photonic Hardware Intern
 - Ciena — Routing/IP Software Developer Intern
 - Ciena — Software Engineer and Tools Developer Intern
+- Ciena — Software Engineer Intern
 - Cirrus Logic — AI Business Analytics Co-op Intern
 - Cirrus Logic — Embedded Software AI Intern Co-op
 - City of Austin — Austin Aviation Undergraduate Intern - IT Business Systems Analyst
@@ -146,6 +147,7 @@ _Generated 2026-08-10_
 - Desjardins Group — Data Intern
 - Draper — Microsystems Integration Intern
 - DTCC — Product Management Intern
+- Eko Health — Clinical Product Strategy Intern - Clinical Technology
 - Environmental Defense Fund — Climate & Health Intern
 - Etched — Electrical Platform Intern
 - Etched — Supercomputing Intern
@@ -297,6 +299,7 @@ _Generated 2026-08-10_
 - Toshiba Commerce Solutions — Project Management & AI Automation Intern
 - Toshiba Global Commerce — Agentic Software Engineer Intern
 - Toshiba Global Commerce — AI Product Management Intern
+- Toshiba Global Commerce — Product & Business Analytics Intern
 - Truland Equipment — Power Platform Intern
 - Two Six Technologies — China Subject Matter Expert Intern
 - University of Virginia — Graduate Research Intern

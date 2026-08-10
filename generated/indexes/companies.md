@@ -111,7 +111,7 @@
 | [Chanel](../companies/chanel.md) | 1/1 | software-engineering |
 | [Chevron Corporation](../companies/chevron-corporation.md) | 4/6 | quant, software-engineering |
 | [Chicago Trading Company](../companies/chicago-trading-company.md) | 6/6 | quant, software-engineering |
-| [Ciena](../companies/ciena.md) | 6/12 | design, embedded, hardware, software-engineering |
+| [Ciena](../companies/ciena.md) | 5/12 | design, embedded, hardware, software-engineering |
 | [Circle K](../companies/circle-k.md) | 1/1 | software-engineering |
 | [Circleback](../companies/circleback.md) | 1/1 | software-engineering |
 | [Cirrus Logic](../companies/cirrus-logic.md) | 1/3 | ai, embedded |
@@ -167,7 +167,7 @@
 | [EdgeTrace](../companies/edgetrace.md) | 1/1 | ai |
 | [Egra](../companies/egra.md) | 1/1 | ai |
 | [Eight Sleep](../companies/eight-sleep.md) | 0/1 | software-engineering |
-| [Eko Health](../companies/eko-health.md) | 1/1 | software-engineering |
+| [Eko Health](../companies/eko-health.md) | 0/1 | software-engineering |
 | [Electronic Arts](../companies/electronic-arts.md) | 1/1 | software-engineering |
 | [Ensemble Health Partners](../companies/ensemble-health-partners.md) | 2/2 | data-science, software-engineering |
 | [Entergy](../companies/entergy.md) | 0/1 | software-engineering |
@@ -500,7 +500,7 @@
 | [Together AI](../companies/together-ai.md) | 2/3 | research |
 | [Torch Technologies](../companies/torch-technologies.md) | 0/1 | software-engineering |
 | [Toshiba Commerce Solutions](../companies/toshiba-commerce-solutions.md) | 0/2 | ai |
-| [Toshiba Global Commerce](../companies/toshiba-global-commerce.md) | 1/3 | ai, software-engineering |
+| [Toshiba Global Commerce](../companies/toshiba-global-commerce.md) | 0/3 | ai, software-engineering |
 | [Touchdown Labs](../companies/touchdown-labs.md) | 1/1 | software-engineering |
 | [Tower Research Capital](../companies/tower-research-capital.md) | 1/2 | quant |
 | [TransMarket Group](../companies/transmarket-group.md) | 4/4 | cloud, quant, software-engineering |
