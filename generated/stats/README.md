@@ -33,11 +33,11 @@ _Generated 2026-08-10_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 797 | `█████████████` |
+| software-engineering | 798 | `█████████████` |
 | ai | 154 | `██` |
 | quant | 151 | `██` |
 | machine-learning | 112 | `██` |
-| research | 88 | `█` |
+| research | 89 | `█` |
 | hardware | 74 | `█` |
 | embedded | 45 | `█` |
 | product | 39 | `█` |
@@ -50,6 +50,8 @@ _Generated 2026-08-10_
 ## Newest listings
 
 - 2026-08-10 — **InfiniteQuant**: [Quantitative Researcher Intern - Summer 2027](https://jobs.smartrecruiters.com/InfiniteQuant/744000142560129)
+- 2026-08-10 — **Sony Music Entertainment**: [Data Analytics Intern - A&R Research](https://www.sonymusic.co.uk/careers/job-description/?gh_jid=8653163002)
+- 2026-08-10 — **Sony Music Entertainment**: [Insight & Analytics Intern](https://www.sonymusic.co.uk/careers/job-description/?gh_jid=8638298002)
 - 2026-08-09 — **HNTB**: [Strategic Technology Intern - SED Division](https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/Tallahassee-FL/Strategic-Technology-Intern---Summer-2027--SED-Division--For-Current-Former-HNTB-Interns-Only-_R-31092)
 - 2026-08-09 — **HNTB**: [Strategic Technology Intern - SED Division](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Tallahassee-FL/Strategic-Technology-Intern---Summer-2027--SED-Division--For-Current-Former-HNTB-Interns-Only-_R-31092-1)
 - 2026-08-08 — **ByteDance**: [Software Development Engineer Intern - Network Automation - 2027 Summer](https://jobs.bytedance.com/en/position/7671147251943213317/detail)
@@ -67,8 +69,6 @@ _Generated 2026-08-10_
 - 2026-08-07 — **Autodesk**: [Cloud Developer Intern - Fcap](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer---FCAP_26WD100406-2)
 - 2026-08-07 — **Autodesk**: [Cloud Developer Intern - Interactive Graphics, Media & Entertainment](https://autodesk.wd1.myworkdayjobs.com/uni/job/Montreal-QC-CAN/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer_26WD100400-3)
 - 2026-08-07 — **Autodesk**: [Cloud Developer Intern - Interactive Graphics, Media & Entertainment](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer_26WD100400)
-- 2026-08-07 — **Axon**: [Software Engineer Intern](https://job-boards.greenhouse.io/axontalentcommunity/jobs/7837133003)
-- 2026-08-07 — **Bank of Montreal**: [Card Products Intern Co-op - Customer Solutions](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Card-Products-Internship--Fall-2026-Co-op-Internship--Toronto--CA-_R260023035)
 
 ## Recently closed
 
@@ -163,6 +163,7 @@ _Generated 2026-08-10_
 - Gemini — Software Engineer Intern
 - Generac — Engineering Intern
 - Generac — Software Engineer Intern
+- General Dynamics Information Technology — Software Developer Intern
 - General Dynamics Information Technology — Software Developer Intern
 - General Motors — Research and Development Intern - Research & Development: AI/ML
 - Global Infrastructure — Alternative Delivery Project Analytics Intern

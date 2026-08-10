@@ -1,6 +1,6 @@
 # 📬 InternAtlas Weekly Digest — 2026-08-10
 
-## 🆕 New this week (364)
+## 🆕 New this week (366)
 
 - **1X** — [CNC Machine Park Intern](https://jobs.ashbyhq.com/1x/e7b4aaf5-5c55-4e2f-abcd-5c250657bede/application?embed=true) · software-engineering · —
 - **AcreTrader** — [Data Intern](https://ats.rippling.com/acretrader-jobs/jobs/e0192aa0-bd65-4262-81ed-d64685c7dc41) · software-engineering · —
@@ -202,6 +202,8 @@
 - **Schweitzer Engineering Laboratories** — [Application Engineering Intern](https://selinc.wd1.myworkdayjobs.com/SEL/job/California---San-Ramon/Application-Engineering-Intern_2026-22385) · software-engineering · —
 - **Shopify** — [Software Engineering Intern](https://www.shopify.com/careers/software-engineering-internships-winter-2027_404bb82e-37f3-4a78-b0f3-12923a7c4856?ashby_jid=404bb82e-37f3-4a78-b0f3-12923a7c4856) · software-engineering · —
 - **Skydio** — [Hardware Test & Reliability Intern](https://jobs.ashbyhq.com/skydio/d75d4adf-760c-46b6-bb98-3497650a8924/application?embed=true) · hardware · —
+- **Sony Music Entertainment** — [Data Analytics Intern - A&R Research](https://www.sonymusic.co.uk/careers/job-description/?gh_jid=8653163002) · research · —
+- **Sony Music Entertainment** — [Insight & Analytics Intern](https://www.sonymusic.co.uk/careers/job-description/?gh_jid=8638298002) · software-engineering · —
 - **Sony Pictures Entertainment** — [Insights Intern - Multiple Teams](https://spe.wd1.myworkdayjobs.com/en-US/SonyPicturesEntertainment/job/Culver-City-California/Intern--Insights--Strategy---Analytics--Product-Management---Data-Science---Fall-2026_JR113988) · software-engineering · —
 - **SpaceX** — [Silicon Engineer Intern/Co-op](https://boards.greenhouse.io/spacex/jobs/8636134002) · hardware · —
 - **SpaceX** — [Silicon Engineer Intern/Co-op](https://boards.greenhouse.io/spacex/jobs/8621763002) · hardware · —

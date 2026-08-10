@@ -1,21 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "general-dynamics-information-technology-software-developer-intern-2027",
+  "id": "sony-music-entertainment-data-analytics-intern-a-r-research-2027",
   "company": {
-    "name": "General Dynamics Information Technology",
-    "slug": "general-dynamics-information-technology"
+    "name": "Sony Music Entertainment",
+    "slug": "sony-music-entertainment"
   },
-  "role": "Software Developer Intern",
-  "category": "software-engineering",
-  "apply_url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Summer-2027-Software-Developer-Internship_RQ225469-1",
-  "season": "summer",
+  "role": "Data Analytics Intern - A&R Research",
+  "category": "research",
+  "apply_url": "https://www.sonymusic.co.uk/careers/job-description/?gh_jid=8653163002",
+  "season": "winter",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Annapolis Junction",
-      "state": "MD",
-      "country": "USA"
+      "city": "London",
+      "country": "UK"
     }
   ],
   "compensation": {
@@ -40,11 +39,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-06",
-    "discovered": "2026-08-05",
+    "posted": "2026-08-10",
+    "discovered": "2026-08-10",
     "last_verified": "2026-08-10"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

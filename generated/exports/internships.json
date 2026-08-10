@@ -1,6 +1,6 @@
 {
   "generated": "2026-08-10",
-  "count": 1577,
+  "count": 1579,
   "internships": [
     {
       "schema_version": "1.0",
@@ -27187,7 +27187,7 @@
         "discovered": "2026-08-05",
         "last_verified": "2026-08-10"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -60436,6 +60436,108 @@
       "dates": {
         "posted": "2026-06-16",
         "discovered": "2026-07-17",
+        "last_verified": "2026-08-10"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "sony-music-entertainment-data-analytics-intern-a-r-research-2027",
+      "company": {
+        "name": "Sony Music Entertainment",
+        "slug": "sony-music-entertainment"
+      },
+      "role": "Data Analytics Intern - A&R Research",
+      "category": "research",
+      "apply_url": "https://www.sonymusic.co.uk/careers/job-description/?gh_jid=8653163002",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "London",
+          "country": "UK"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-10",
+        "discovered": "2026-08-10",
+        "last_verified": "2026-08-10"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "sony-music-entertainment-insight-analytics-intern-2026",
+      "company": {
+        "name": "Sony Music Entertainment",
+        "slug": "sony-music-entertainment"
+      },
+      "role": "Insight & Analytics Intern",
+      "category": "software-engineering",
+      "apply_url": "https://www.sonymusic.co.uk/careers/job-description/?gh_jid=8638298002",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "London",
+          "country": "UK"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-10",
+        "discovered": "2026-08-10",
         "last_verified": "2026-08-10"
       },
       "status": "open",
