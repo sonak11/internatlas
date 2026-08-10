@@ -36,7 +36,7 @@ _Generated 2026-08-10_
 | software-engineering | 799 | `█████████████` |
 | ai | 154 | `██` |
 | quant | 150 | `██` |
-| machine-learning | 113 | `██` |
+| machine-learning | 112 | `██` |
 | research | 88 | `█` |
 | hardware | 74 | `█` |
 | embedded | 45 | `█` |

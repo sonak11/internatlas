@@ -479,7 +479,7 @@
 | [TMEIC](../companies/tmeic.md) | 1/1 | machine-learning |
 | [TMX Group](../companies/tmx-group.md) | 1/2 | software-engineering |
 | [Tacit](../companies/tacit.md) | 1/1 | hardware |
-| [Tencent](../companies/tencent.md) | 6/9 | ai, machine-learning, research, software-engineering |
+| [Tencent](../companies/tencent.md) | 5/8 | ai, machine-learning, research, software-engineering |
 | [Tenstorrent](../companies/tenstorrent.md) | 2/3 | ai, design |
 | [Terminal](../companies/terminal.md) | 2/2 | software-engineering |
 | [Terranova](../companies/terranova.md) | 2/2 | embedded, software-engineering |
