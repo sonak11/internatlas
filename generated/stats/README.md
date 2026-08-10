@@ -8,7 +8,7 @@ _Generated 2026-08-10_
 
 | Company | Listings |
 |---|---|
-| TikTok | 112 |
+| TikTok | 114 |
 | Tesla | 105 |
 | Jump Trading | 43 |
 | ByteDance | 34 |
@@ -33,25 +33,33 @@ _Generated 2026-08-10_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 798 | `█████████████` |
+| software-engineering | 804 | `█████████████` |
 | ai | 154 | `██` |
 | quant | 151 | `██` |
 | machine-learning | 112 | `██` |
 | research | 89 | `█` |
 | hardware | 74 | `█` |
 | embedded | 45 | `█` |
-| product | 39 | `█` |
+| product | 40 | `█` |
 | cloud | 37 | `█` |
 | design | 28 | `█` |
 | data-science | 24 | `█` |
-| data-engineering | 17 | `█` |
+| data-engineering | 18 | `█` |
 | security | 11 | `█` |
 
 ## Newest listings
 
 - 2026-08-10 — **InfiniteQuant**: [Quantitative Researcher Intern - Summer 2027](https://jobs.smartrecruiters.com/InfiniteQuant/744000142560129)
+- 2026-08-10 — **McKesson**: [Software Developer Intern - Digital and Enterprise Technology](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-QC-Montreal-Ville-Saint-Laurent/Stagiaire-en-dveloppement-logiciel---Automne-2026---Software-Developer-Intern---Fall-2026_JR0151997)
+- 2026-08-10 — **RTX**: [Software Engineer Intern - Summer 2027](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Software-Engineering-Intern--Summer-2027-_01864764)
+- 2026-08-10 — **RTX**: [Software Engineer Intern - Summer 2027](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineering-Intern--Summer-2027-_01865158)
 - 2026-08-10 — **Sony Music Entertainment**: [Data Analytics Intern - A&R Research](https://www.sonymusic.co.uk/careers/job-description/?gh_jid=8653163002)
 - 2026-08-10 — **Sony Music Entertainment**: [Insight & Analytics Intern](https://www.sonymusic.co.uk/careers/job-description/?gh_jid=8638298002)
+- 2026-08-10 — **TikTok**: [Data Engineer Intern - Monetization Data](https://lifeattiktok.com/search/7671232204182276405)
+- 2026-08-10 — **TikTok**: [Software Engineer Intern - Global E-commerce-Search](https://lifeattiktok.com/search/7670839727059339525)
+- 2026-08-10 — **Vertiv**: [Product Management Intern](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278933)
+- 2026-08-10 — **Vertiv**: [Software Engineer Intern](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278777)
+- 2026-08-10 — **Vertiv**: [Thermal Engineer Intern - Summer 2027](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278813)
 - 2026-08-09 — **HNTB**: [Strategic Technology Intern - SED Division](https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/Tallahassee-FL/Strategic-Technology-Intern---Summer-2027--SED-Division--For-Current-Former-HNTB-Interns-Only-_R-31092)
 - 2026-08-09 — **HNTB**: [Strategic Technology Intern - SED Division](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Tallahassee-FL/Strategic-Technology-Intern---Summer-2027--SED-Division--For-Current-Former-HNTB-Interns-Only-_R-31092-1)
 - 2026-08-08 — **ByteDance**: [Software Development Engineer Intern - Network Automation - 2027 Summer](https://jobs.bytedance.com/en/position/7671147251943213317/detail)
@@ -61,14 +69,6 @@ _Generated 2026-08-10_
 - 2026-08-08 — **ProNexus**: [Software Engineer Intern](https://apply.workable.com/pronexus-1/j/AF8C34AC6D/apply)
 - 2026-08-08 — **Turabify**: [AI Automation Intern](https://apply.workable.com/turabify-co/j/0B50CC0D49/apply)
 - 2026-08-08 — **WallStreetQuants**: [Quantitative Researcher Intern](https://apply.workable.com/wallstreetquants/j/494E392FD3/apply)
-- 2026-08-08 — **WallStreetQuants**: [Quantitative Trading Intern](https://apply.workable.com/wallstreetquants/j/8CB119E789/apply)
-- 2026-08-07 — **Amcor**: [Product Development Engineer Intern](https://amcor.wd5.myworkdayjobs.com/amcor_external_career_site/job/CORP-Evansville-Head-Division-Office-IN/Product-Development-Intern_REQ_94654)
-- 2026-08-07 — **Ameren**: [DERMS Co-op/Intern](https://ameren.wd1.myworkdayjobs.com/External/job/St-Louis-MO/DERMS-Co-Op-Intern_033809-1)
-- 2026-08-07 — **Atoms**: [Software Engineer Intern - Summer 2027](https://job-boards.greenhouse.io/cssmerge/jobs/8687896002)
-- 2026-08-07 — **Autodesk**: [Cloud Developer Intern - Fcap](https://autodesk.wd1.myworkdayjobs.com/uni/job/Montreal-QC-CAN/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer---FCAP_26WD100406-1)
-- 2026-08-07 — **Autodesk**: [Cloud Developer Intern - Fcap](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer---FCAP_26WD100406-2)
-- 2026-08-07 — **Autodesk**: [Cloud Developer Intern - Interactive Graphics, Media & Entertainment](https://autodesk.wd1.myworkdayjobs.com/uni/job/Montreal-QC-CAN/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer_26WD100400-3)
-- 2026-08-07 — **Autodesk**: [Cloud Developer Intern - Interactive Graphics, Media & Entertainment](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer_26WD100400)
 
 ## Recently closed
 
@@ -134,6 +134,7 @@ _Generated 2026-08-10_
 - Composio — Full-stack Intern
 - ConocoPhillips — GIS Intern
 - Copart — Data Engineer Intern
+- Copart — Software Engineer Intern
 - Copart — Software Engineer Intern
 - Copart — Software Engineer Intern
 - Copart — Technology Product Analyst Intern
@@ -227,7 +228,6 @@ _Generated 2026-08-10_
 - Pennsylvania State University — AI/ML Research and Development Intern
 - Pennsylvania State University — R&D Engineer Intern
 - Pennsylvania State University — Research and Development Engineer Intern
-- Pennsylvania State University — Research Engineering Intern
 - Persistent Systems — Hardware Engineer Intern
 - Phlair — Working Student Intern - Control Team - Systems & Data Infrastructure
 - PSECU — Data Analyst Intern
@@ -243,7 +243,6 @@ _Generated 2026-08-10_
 - ROCKWOOL Group — Product Management Intern
 - Royal Bank of Canada — Relationship Manager Commercial Markets Intern
 - RTX — Machine Learning Researcher Intern/Co-op
-- RTX — Software Engineer Intern
 - RTX — Software Engineer Intern
 - Samsung Research America — ML/NLP Research Intern
 - Sargent & Lundy — AI & Automation Intern - Summer 2027
@@ -272,6 +271,7 @@ _Generated 2026-08-10_
 - T. Rowe Price — Global Trading Intern
 - T. Rowe Price — Quantitative Equity Investing Intern
 - Tencent — AI Agent Research & Application Intern
+- Tencent — Research Intern - Video World Models - Research & ML Systems
 - Tenstorrent — CPU/AI Workload Analysis Intern
 - Tesla — AI Inference Engineer Intern - Software Compiler Engineer - AI Inference
 - Tesla — Applied AI Engineer Intern - AI Hardware
@@ -298,6 +298,7 @@ _Generated 2026-08-10_
 - Truland Equipment — Power Platform Intern
 - Two Six Technologies — China Subject Matter Expert Intern
 - University of Virginia — Graduate Research Intern
+- US Acute Care Solutions — People Analytics Intern
 - Varda Space — Mission Software – Intern - Python
 - Veralto — Machine Learning Co-op Intern
 - Walleye Capital — Central Equity Quant Research Intern - Ceqr

@@ -1,21 +1,24 @@
 {
   "schema_version": "1.0",
-  "id": "copart-software-engineer-intern-2026-ded9c1",
+  "id": "mckesson-software-developer-intern-digital-and-enterprise-technology-2026",
   "company": {
-    "name": "Copart",
-    "slug": "copart"
+    "name": "McKesson",
+    "slug": "mckesson"
   },
-  "role": "Software Engineer Intern",
+  "role": "Software Developer Intern - Digital and Enterprise Technology",
   "category": "software-engineering",
-  "apply_url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR110353",
+  "apply_url": "https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-QC-Montreal-Ville-Saint-Laurent/Stagiaire-en-dveloppement-logiciel---Automne-2026---Software-Developer-Intern---Fall-2026_JR0151997",
   "season": "fall",
   "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Dallas",
-      "state": "TX",
-      "country": "USA"
+      "city": "Montreal",
+      "country": "QC"
+    },
+    {
+      "city": "Saint-Laurent",
+      "country": "Montreal"
     }
   ],
   "compensation": {
@@ -40,11 +43,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-02",
-    "discovered": "2026-08-03",
+    "posted": "2026-08-10",
+    "discovered": "2026-08-10",
     "last_verified": "2026-08-10"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"
