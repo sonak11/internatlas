@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "microchip-technology-engineering-intern-firmware-development-2026",
+  "id": "bytedance-agent-evaluation-evolution-machine-learning-engineer-intern-2027",
   "company": {
-    "name": "Microchip Technology",
-    "slug": "microchip-technology"
+    "name": "ByteDance",
+    "slug": "bytedance"
   },
-  "role": "Engineering Intern - Firmware Development",
-  "category": "embedded",
-  "apply_url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/TX---Houston---Compaq-Center-Dr/Intern-Engineering--Firmware-Development-_R3372-26",
-  "season": "fall",
-  "year": 2026,
+  "role": "Agent Evaluation & Evolution Machine Learning Engineer Intern - Applied Machine Learning Ark",
+  "category": "machine-learning",
+  "apply_url": "https://jobs.bytedance.com/en/position/7671096345243535669/detail",
+  "season": "summer",
+  "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Houston",
-      "state": "TX",
+      "city": "San Jose",
+      "state": "CA",
       "country": "USA"
     }
   ],
@@ -25,7 +25,9 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "masters"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -40,11 +42,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-03",
-    "discovered": "2026-08-04",
+    "posted": "2026-08-10",
+    "discovered": "2026-08-10",
     "last_verified": "2026-08-10"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

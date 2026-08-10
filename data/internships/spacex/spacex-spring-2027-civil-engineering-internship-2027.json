@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "microchip-technology-engineering-intern-firmware-development-2026",
+  "id": "spacex-spring-2027-civil-engineering-internship-2027",
   "company": {
-    "name": "Microchip Technology",
-    "slug": "microchip-technology"
+    "name": "SpaceX",
+    "slug": "spacex",
+    "career_page": "https://www.spacex.com/careers"
   },
-  "role": "Engineering Intern - Firmware Development",
-  "category": "embedded",
-  "apply_url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/TX---Houston---Compaq-Center-Dr/Intern-Engineering--Firmware-Development-_R3372-26",
-  "season": "fall",
-  "year": 2026,
+  "role": "Spring 2027 Civil Engineering Internship",
+  "category": "hardware",
+  "apply_url": "https://boards.greenhouse.io/spacex/jobs/8636143002?gh_jid=8636143002",
+  "season": "summer",
+  "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Houston",
-      "state": "TX",
+      "city": "Flexible",
       "country": "USA"
     }
   ],
@@ -41,12 +41,12 @@
   },
   "dates": {
     "posted": "2026-08-03",
-    "discovered": "2026-08-04",
+    "discovered": "2026-08-10",
     "last_verified": "2026-08-10"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:ats"
   ]
 }

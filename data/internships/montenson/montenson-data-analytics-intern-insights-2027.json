@@ -1,20 +1,19 @@
 {
   "schema_version": "1.0",
-  "id": "spacex-summer-2027-civil-structural-engineering-internship-2027",
+  "id": "montenson-data-analytics-intern-insights-2027",
   "company": {
-    "name": "SpaceX",
-    "slug": "spacex",
-    "career_page": "https://www.spacex.com/careers"
+    "name": "Montenson",
+    "slug": "montenson"
   },
-  "role": "Summer 2027 Civil/Structural Engineering Internship",
-  "category": "hardware",
-  "apply_url": "https://boards.greenhouse.io/spacex/jobs/8636144002?gh_jid=8636144002",
+  "role": "Data Analytics Intern - Insights",
+  "category": "software-engineering",
+  "apply_url": "https://fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23342",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Flexible",
+      "city": "Minnesota",
       "country": "USA"
     }
   ],
@@ -40,13 +39,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-03",
-    "discovered": "2026-08-03",
+    "posted": "2026-08-10",
+    "discovered": "2026-08-10",
     "last_verified": "2026-08-10"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:ats"
+    "src:simplify"
   ]
 }

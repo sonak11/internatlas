@@ -1,20 +1,25 @@
 {
   "schema_version": "1.0",
-  "id": "microchip-technology-engineering-intern-firmware-development-2026",
+  "id": "truist-bank-technology-and-operations-intern-conversion-data-2027",
   "company": {
-    "name": "Microchip Technology",
-    "slug": "microchip-technology"
+    "name": "Truist Bank",
+    "slug": "truist-bank"
   },
-  "role": "Engineering Intern - Firmware Development",
-  "category": "embedded",
-  "apply_url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/TX---Houston---Compaq-Center-Dr/Intern-Engineering--Firmware-Development-_R3372-26",
-  "season": "fall",
-  "year": 2026,
+  "role": "Technology and Operations Intern Conversion - Data",
+  "category": "software-engineering",
+  "apply_url": "https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Charlotte-NC/XMLNAME-2027-Technology--Data--and-Operations-Internship---Intern-Conversion-_R0117276",
+  "season": "summer",
+  "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Houston",
-      "state": "TX",
+      "city": "Charlotte",
+      "state": "NC",
+      "country": "USA"
+    },
+    {
+      "city": "Atlanta",
+      "state": "GA",
       "country": "USA"
     }
   ],
@@ -25,7 +30,9 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "masters"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -40,11 +47,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-03",
-    "discovered": "2026-08-04",
+    "posted": "2026-08-10",
+    "discovered": "2026-08-10",
     "last_verified": "2026-08-10"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

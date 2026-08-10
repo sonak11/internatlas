@@ -11,7 +11,7 @@ _Generated 2026-08-10_
 | TikTok | 114 |
 | Tesla | 105 |
 | Jump Trading | 43 |
-| ByteDance | 34 |
+| ByteDance | 38 |
 | Cloudflare | 27 |
 | SpaceX | 25 |
 | Susquehanna International Group (SIG) | 22 |
@@ -33,10 +33,10 @@ _Generated 2026-08-10_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 804 | `█████████████` |
-| ai | 154 | `██` |
+| software-engineering | 813 | `█████████████` |
+| ai | 156 | `██` |
 | quant | 151 | `██` |
-| machine-learning | 112 | `██` |
+| machine-learning | 116 | `██` |
 | research | 89 | `█` |
 | hardware | 74 | `█` |
 | embedded | 45 | `█` |
@@ -49,26 +49,26 @@ _Generated 2026-08-10_
 
 ## Newest listings
 
+- 2026-08-10 — **Bank of Montreal**: [Investment Intern Co-op - Co-op/Internship](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Investment-Intern--Winter-2027--Co-op-Internship----4-months_R260023223)
+- 2026-08-10 — **Booz Allen**: [AI RAN Telecommunications Engineer Intern](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/AI-RAN-Telecommunications-Engineer-Intern_R0246415)
+- 2026-08-10 — **ByteDance**: [Agent Evaluation & Evolution Machine Learning Engineer Intern - Applied Machine Learning Ark](https://jobs.bytedance.com/en/position/7671096345243535669/detail)
+- 2026-08-10 — **ByteDance**: [Data Lake Infrastructure and Data Analytics Research Engineer Intern - Applied Machine Learning Ark](https://jobs.bytedance.com/en/position/7671109787509213445/detail)
+- 2026-08-10 — **ByteDance**: [Machine Learning Engineer Intern](https://jobs.bytedance.com/en/position/7671291260529821957/detail)
+- 2026-08-10 — **ByteDance**: [Visual Generation & Multimodal Evaluation Machine Learning Engineer Intern - Aml-Ark](https://jobs.bytedance.com/en/position/7671105026009925893/detail)
 - 2026-08-10 — **Figma**: [Software Engineer Intern (Winter 2027)](https://boards.greenhouse.io/figma/jobs/6131089004?gh_jid=6131089004)
+- 2026-08-10 — **Global Partners**: [Advanced Analytics Intern](https://global.wd1.myworkdayjobs.com/globalpartnerscareers/job/Newton-Office/Advanced-Analytics-Intern_R0031779)
 - 2026-08-10 — **InfiniteQuant**: [Quantitative Researcher Intern - Summer 2027](https://jobs.smartrecruiters.com/InfiniteQuant/744000142560129)
+- 2026-08-10 — **ING**: [Technology Intern - Innovation](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/New-York/Summer-2027-Internship---Tech--Innovation-_REQ-10119619)
 - 2026-08-10 — **McKesson**: [Software Developer Intern - Digital and Enterprise Technology](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-QC-Montreal-Ville-Saint-Laurent/Stagiaire-en-dveloppement-logiciel---Automne-2026---Software-Developer-Intern---Fall-2026_JR0151997)
+- 2026-08-10 — **Montenson**: [Artificial Intelligence Intern](https://fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23339)
+- 2026-08-10 — **Montenson**: [Data Analytics Intern - Insights](https://fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23342)
+- 2026-08-10 — **Montenson**: [Investment Analyst Intern](https://fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23362)
+- 2026-08-10 — **Montenson**: [Sustainability Engineer Intern](https://fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23367)
+- 2026-08-10 — **Montenson**: [System Administrator Intern](https://fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23368)
+- 2026-08-10 — **Noblis**: [Machinery Silencing Technician Intern](https://careers.noblis.org/jobs/27606?icims=1)
 - 2026-08-10 — **RTX**: [Software Engineer Intern - Summer 2027](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Software-Engineering-Intern--Summer-2027-_01864764)
 - 2026-08-10 — **RTX**: [Software Engineer Intern - Summer 2027](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineering-Intern--Summer-2027-_01865158)
 - 2026-08-10 — **Sony Music Entertainment**: [Data Analytics Intern - A&R Research](https://www.sonymusic.co.uk/careers/job-description/?gh_jid=8653163002)
-- 2026-08-10 — **Sony Music Entertainment**: [Insight & Analytics Intern](https://www.sonymusic.co.uk/careers/job-description/?gh_jid=8638298002)
-- 2026-08-10 — **TikTok**: [Data Engineer Intern - Monetization Data](https://lifeattiktok.com/search/7671232204182276405)
-- 2026-08-10 — **TikTok**: [Software Engineer Intern - Global E-commerce-Search](https://lifeattiktok.com/search/7670839727059339525)
-- 2026-08-10 — **Vertiv**: [Product Management Intern](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278933)
-- 2026-08-10 — **Vertiv**: [Software Engineer Intern](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278777)
-- 2026-08-10 — **Vertiv**: [Thermal Engineer Intern - Summer 2027](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278813)
-- 2026-08-09 — **HNTB**: [Strategic Technology Intern - SED Division](https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/Tallahassee-FL/Strategic-Technology-Intern---Summer-2027--SED-Division--For-Current-Former-HNTB-Interns-Only-_R-31092)
-- 2026-08-09 — **HNTB**: [Strategic Technology Intern - SED Division](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Tallahassee-FL/Strategic-Technology-Intern---Summer-2027--SED-Division--For-Current-Former-HNTB-Interns-Only-_R-31092-1)
-- 2026-08-08 — **ByteDance**: [Software Development Engineer Intern - Network Automation - 2027 Summer](https://jobs.bytedance.com/en/position/7671147251943213317/detail)
-- 2026-08-08 — **Capula**: [Trading and Research Intern](https://apply.workable.com/capula-investment-management-ltd/j/A15A62A8BE/apply)
-- 2026-08-08 — **Flexion Robotics**: [Research Intern](https://apply.workable.com/flexion-robotics/j/8FF540773C/apply)
-- 2026-08-08 — **HyperLight**: [Integrated Photonics Intern](https://apply.workable.com/hyperlight/j/498D9988C8/apply)
-- 2026-08-08 — **ProNexus**: [Software Engineer Intern](https://apply.workable.com/pronexus-1/j/AF8C34AC6D/apply)
-- 2026-08-08 — **Turabify**: [AI Automation Intern](https://apply.workable.com/turabify-co/j/0B50CC0D49/apply)
 
 ## Recently closed
 
@@ -203,6 +203,7 @@ _Generated 2026-08-10_
 - Menasha Corporation — Supply Chain Analytics Intern
 - Meta — Research Scientist Intern - Multimodal Contextual AI
 - Meta — Research Scientist Intern PhD - Applied Research
+- Microchip Technology — Engineering Intern - Firmware Development
 - Microchip Technology — Power, Analog and Mixed-Signal IC Product Engineer Intern - Product Engineering
 - Microsoft — Software Engineer Intern
 - Midmark — Firmware Engineering Intern/Co-op

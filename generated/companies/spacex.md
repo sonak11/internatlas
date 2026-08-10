@@ -15,13 +15,13 @@
 | SpaceX | [Software Engineer Intern/Co-op](https://boards.greenhouse.io/spacex/jobs/8621756002) | Palo Alto, CA +7 | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
 | SpaceX | [Software Engineering Intern/Co-op](https://boards.greenhouse.io/spacex/jobs/8621757002) | Palo Alto, CA +7 | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
 | SpaceX | [Spring 2027 Business Operations Internship/Co-op](https://boards.greenhouse.io/spacex/jobs/8621770002?gh_jid=8621770002) | Flexible | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
-| SpaceX | [Spring 2027 Civil/Structural Engineering Internship](https://boards.greenhouse.io/spacex/jobs/8636143002?gh_jid=8636143002) | Flexible | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
+| SpaceX | [Spring 2027 Civil Engineering Internship](https://boards.greenhouse.io/spacex/jobs/8636143002?gh_jid=8636143002) | Flexible | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
 | SpaceX | [Spring 2027 Engineering Internship/Co-op](https://boards.greenhouse.io/spacex/jobs/8616338002?gh_jid=8616338002) | Flexible | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
 | SpaceX | [Spring 2027 Graduate Engineer Internship/Co-op](https://boards.greenhouse.io/spacex/jobs/8621749002?gh_jid=8621749002) | Flexible | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
 | SpaceX | [Spring 2027 Silicon Engineering Internship/Co-op](https://boards.greenhouse.io/spacex/jobs/8636134002?gh_jid=8636134002) | Flexible | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
 | SpaceX | [Spring 2027 Software Engineering Internship/Co-op](https://boards.greenhouse.io/spacex/jobs/8621756002?gh_jid=8621756002) | Flexible | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
 | SpaceX | [Summer 2027 Business Operations Internship/Co-op](https://boards.greenhouse.io/spacex/jobs/8621771002?gh_jid=8621771002) | Flexible | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
-| SpaceX | [Summer 2027 Civil/Structural Engineering Internship](https://boards.greenhouse.io/spacex/jobs/8636144002?gh_jid=8636144002) | Flexible | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
+| SpaceX | [Summer 2027 Civil Engineering Internship](https://boards.greenhouse.io/spacex/jobs/8636144002?gh_jid=8636144002) | Flexible | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
 | SpaceX | [Summer 2027 Engineering Internship/Co-op](https://boards.greenhouse.io/spacex/jobs/8621740002?gh_jid=8621740002) | Flexible | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
 | SpaceX | [Summer 2027 Graduate Engineer Internship/Co-op](https://boards.greenhouse.io/spacex/jobs/8621753002?gh_jid=8621753002) | Flexible | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
 | SpaceX | [Summer 2027 Silicon Engineering Internship/Co-op](https://boards.greenhouse.io/spacex/jobs/8621763002?gh_jid=8621763002) | Flexible | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |

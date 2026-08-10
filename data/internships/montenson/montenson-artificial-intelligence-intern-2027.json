@@ -1,20 +1,19 @@
 {
   "schema_version": "1.0",
-  "id": "microchip-technology-engineering-intern-firmware-development-2026",
+  "id": "montenson-artificial-intelligence-intern-2027",
   "company": {
-    "name": "Microchip Technology",
-    "slug": "microchip-technology"
+    "name": "Montenson",
+    "slug": "montenson"
   },
-  "role": "Engineering Intern - Firmware Development",
-  "category": "embedded",
-  "apply_url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/TX---Houston---Compaq-Center-Dr/Intern-Engineering--Firmware-Development-_R3372-26",
-  "season": "fall",
-  "year": 2026,
+  "role": "Artificial Intelligence Intern",
+  "category": "ai",
+  "apply_url": "https://fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23339",
+  "season": "summer",
+  "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Houston",
-      "state": "TX",
+      "city": "Minnesota",
       "country": "USA"
     }
   ],
@@ -40,11 +39,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-03",
-    "discovered": "2026-08-04",
+    "posted": "2026-08-10",
+    "discovered": "2026-08-10",
     "last_verified": "2026-08-10"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

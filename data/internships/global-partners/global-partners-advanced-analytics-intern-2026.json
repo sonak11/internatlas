@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "microchip-technology-engineering-intern-firmware-development-2026",
+  "id": "global-partners-advanced-analytics-intern-2026",
   "company": {
-    "name": "Microchip Technology",
-    "slug": "microchip-technology"
+    "name": "Global Partners",
+    "slug": "global-partners"
   },
-  "role": "Engineering Intern - Firmware Development",
-  "category": "embedded",
-  "apply_url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/TX---Houston---Compaq-Center-Dr/Intern-Engineering--Firmware-Development-_R3372-26",
+  "role": "Advanced Analytics Intern",
+  "category": "software-engineering",
+  "apply_url": "https://global.wd1.myworkdayjobs.com/globalpartnerscareers/job/Newton-Office/Advanced-Analytics-Intern_R0031779",
   "season": "fall",
   "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Houston",
-      "state": "TX",
+      "city": "Newton",
+      "state": "MA",
       "country": "USA"
     }
   ],
@@ -40,11 +40,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-03",
-    "discovered": "2026-08-04",
+    "posted": "2026-08-10",
+    "discovered": "2026-08-10",
     "last_verified": "2026-08-10"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

@@ -1,6 +1,6 @@
 {
   "generated": "2026-08-10",
-  "count": 1588,
+  "count": 1603,
   "internships": [
     {
       "schema_version": "1.0",
@@ -8127,6 +8127,57 @@
     },
     {
       "schema_version": "1.0",
+      "id": "bank-of-montreal-investment-intern-co-op-co-op-internship-2027",
+      "company": {
+        "name": "Bank of Montreal",
+        "slug": "bank-of-montreal"
+      },
+      "role": "Investment Intern Co-op - Co-op/Internship",
+      "category": "software-engineering",
+      "apply_url": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Investment-Intern--Winter-2027--Co-op-Internship----4-months_R260023223",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Toronto",
+          "country": "ON"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-10",
+        "discovered": "2026-08-10",
+        "last_verified": "2026-08-10"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "bank-of-montreal-market-risk-analyst-co-op-intern-2026",
       "company": {
         "name": "Bank of Montreal",
@@ -9302,6 +9353,60 @@
     },
     {
       "schema_version": "1.0",
+      "id": "booz-allen-ai-ran-telecommunications-engineer-intern-2026",
+      "company": {
+        "name": "Booz Allen",
+        "slug": "booz-allen"
+      },
+      "role": "AI RAN Telecommunications Engineer Intern",
+      "category": "ai",
+      "apply_url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/AI-RAN-Telecommunications-Engineer-Intern_R0246415",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "McLean",
+          "state": "VA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-10",
+        "discovered": "2026-08-10",
+        "last_verified": "2026-08-10"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "borgwarner-validation-intern-2026-33ce08",
       "company": {
         "name": "BorgWarner",
@@ -10202,6 +10307,60 @@
     },
     {
       "schema_version": "1.0",
+      "id": "bytedance-agent-evaluation-evolution-machine-learning-engineer-intern-2027",
+      "company": {
+        "name": "ByteDance",
+        "slug": "bytedance"
+      },
+      "role": "Agent Evaluation & Evolution Machine Learning Engineer Intern - Applied Machine Learning Ark",
+      "category": "machine-learning",
+      "apply_url": "https://jobs.bytedance.com/en/position/7671096345243535669/detail",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-10",
+        "discovered": "2026-08-10",
+        "last_verified": "2026-08-10"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "bytedance-ai-llm-network-research-intern-high-speed-network-2026",
       "company": {
         "name": "ByteDance",
@@ -10630,6 +10789,60 @@
     },
     {
       "schema_version": "1.0",
+      "id": "bytedance-data-lake-infrastructure-and-data-analytics-research-enginee-2027",
+      "company": {
+        "name": "ByteDance",
+        "slug": "bytedance"
+      },
+      "role": "Data Lake Infrastructure and Data Analytics Research Engineer Intern - Applied Machine Learning Ark",
+      "category": "machine-learning",
+      "apply_url": "https://jobs.bytedance.com/en/position/7671109787509213445/detail",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-10",
+        "discovered": "2026-08-10",
+        "last_verified": "2026-08-10"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "bytedance-gpu-ai-application-system-software-engineer-intern-2027",
       "company": {
         "name": "ByteDance",
@@ -10726,6 +10939,60 @@
       "dates": {
         "posted": "2026-08-06",
         "discovered": "2026-08-06",
+        "last_verified": "2026-08-10"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "bytedance-machine-learning-engineer-intern-2027",
+      "company": {
+        "name": "ByteDance",
+        "slug": "bytedance"
+      },
+      "role": "Machine Learning Engineer Intern",
+      "category": "machine-learning",
+      "apply_url": "https://jobs.bytedance.com/en/position/7671291260529821957/detail",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-10",
+        "discovered": "2026-08-10",
         "last_verified": "2026-08-10"
       },
       "status": "open",
@@ -12016,6 +12283,60 @@
       "dates": {
         "posted": "2026-08-06",
         "discovered": "2026-08-06",
+        "last_verified": "2026-08-10"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "bytedance-visual-generation-multimodal-evaluation-machine-learning-eng-2027",
+      "company": {
+        "name": "ByteDance",
+        "slug": "bytedance"
+      },
+      "role": "Visual Generation & Multimodal Evaluation Machine Learning Engineer Intern - Aml-Ark",
+      "category": "machine-learning",
+      "apply_url": "https://jobs.bytedance.com/en/position/7671105026009925893/detail",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-10",
+        "discovered": "2026-08-10",
         "last_verified": "2026-08-10"
       },
       "status": "open",
@@ -27730,6 +28051,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "global-partners-advanced-analytics-intern-2026",
+      "company": {
+        "name": "Global Partners",
+        "slug": "global-partners"
+      },
+      "role": "Advanced Analytics Intern",
+      "category": "software-engineering",
+      "apply_url": "https://global.wd1.myworkdayjobs.com/globalpartnerscareers/job/Newton-Office/Advanced-Analytics-Intern_R0031779",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Newton",
+          "state": "MA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-10",
+        "discovered": "2026-08-10",
+        "last_verified": "2026-08-10"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "godaddy-software-development-engineer-intern-2027",
       "company": {
         "name": "GoDaddy",
@@ -32610,6 +32983,57 @@
           "masters",
           "phd"
         ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-10",
+        "discovered": "2026-08-10",
+        "last_verified": "2026-08-10"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "ing-technology-intern-innovation-2027",
+      "company": {
+        "name": "ING",
+        "slug": "ing"
+      },
+      "role": "Technology Intern - Innovation",
+      "category": "software-engineering",
+      "apply_url": "https://ing.wd3.myworkdayjobs.com/icsgblcor/job/New-York/Summer-2027-Internship---Tech--Innovation-_REQ-10119619",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "NYC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
         "citizenship_required": false,
         "security_clearance_required": false,
         "visa_sponsorship": "unknown"
@@ -42090,7 +42514,7 @@
         "discovered": "2026-08-04",
         "last_verified": "2026-08-10"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -43581,6 +44005,262 @@
         "last_verified": "2026-07-30"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "montenson-artificial-intelligence-intern-2027",
+      "company": {
+        "name": "Montenson",
+        "slug": "montenson"
+      },
+      "role": "Artificial Intelligence Intern",
+      "category": "ai",
+      "apply_url": "https://fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23339",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Minnesota",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-10",
+        "discovered": "2026-08-10",
+        "last_verified": "2026-08-10"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "montenson-data-analytics-intern-insights-2027",
+      "company": {
+        "name": "Montenson",
+        "slug": "montenson"
+      },
+      "role": "Data Analytics Intern - Insights",
+      "category": "software-engineering",
+      "apply_url": "https://fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23342",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Minnesota",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-10",
+        "discovered": "2026-08-10",
+        "last_verified": "2026-08-10"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "montenson-investment-analyst-intern-2027",
+      "company": {
+        "name": "Montenson",
+        "slug": "montenson"
+      },
+      "role": "Investment Analyst Intern",
+      "category": "software-engineering",
+      "apply_url": "https://fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23362",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Minnesota",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-10",
+        "discovered": "2026-08-10",
+        "last_verified": "2026-08-10"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "montenson-sustainability-engineer-intern-2027",
+      "company": {
+        "name": "Montenson",
+        "slug": "montenson"
+      },
+      "role": "Sustainability Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23367",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Denver",
+          "state": "CO",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-10",
+        "discovered": "2026-08-10",
+        "last_verified": "2026-08-10"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "montenson-system-administrator-intern-2027",
+      "company": {
+        "name": "Montenson",
+        "slug": "montenson"
+      },
+      "role": "System Administrator Intern",
+      "category": "software-engineering",
+      "apply_url": "https://fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23368",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Minnesota",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-10",
+        "discovered": "2026-08-10",
+        "last_verified": "2026-08-10"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -47118,6 +47798,58 @@
       "tags": [
         "auto-ingested",
         "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "noblis-machinery-silencing-technician-intern-2026",
+      "company": {
+        "name": "Noblis",
+        "slug": "noblis"
+      },
+      "role": "Machinery Silencing Technician Intern",
+      "category": "software-engineering",
+      "apply_url": "https://careers.noblis.org/jobs/27606?icims=1",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Philadelphia",
+          "state": "PA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-10",
+        "discovered": "2026-08-10",
+        "last_verified": "2026-08-10"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
       ]
     },
     {
@@ -61942,13 +62674,13 @@
     },
     {
       "schema_version": "1.0",
-      "id": "spacex-spring-2027-civil-structural-engineering-internship-2027",
+      "id": "spacex-spring-2027-civil-engineering-internship-2027",
       "company": {
         "name": "SpaceX",
         "slug": "spacex",
         "career_page": "https://www.spacex.com/careers"
       },
-      "role": "Spring 2027 Civil/Structural Engineering Internship",
+      "role": "Spring 2027 Civil Engineering Internship",
       "category": "hardware",
       "apply_url": "https://boards.greenhouse.io/spacex/jobs/8636143002?gh_jid=8636143002",
       "season": "summer",
@@ -61983,7 +62715,7 @@
       },
       "dates": {
         "posted": "2026-08-03",
-        "discovered": "2026-08-03",
+        "discovered": "2026-08-10",
         "last_verified": "2026-08-10"
       },
       "status": "open",
@@ -62254,13 +62986,13 @@
     },
     {
       "schema_version": "1.0",
-      "id": "spacex-summer-2027-civil-structural-engineering-internship-2027",
+      "id": "spacex-summer-2027-civil-engineering-internship-2027",
       "company": {
         "name": "SpaceX",
         "slug": "spacex",
         "career_page": "https://www.spacex.com/careers"
       },
-      "role": "Summer 2027 Civil/Structural Engineering Internship",
+      "role": "Summer 2027 Civil Engineering Internship",
       "category": "hardware",
       "apply_url": "https://boards.greenhouse.io/spacex/jobs/8636144002?gh_jid=8636144002",
       "season": "summer",
@@ -62295,7 +63027,7 @@
       },
       "dates": {
         "posted": "2026-08-03",
-        "discovered": "2026-08-03",
+        "discovered": "2026-08-10",
         "last_verified": "2026-08-10"
       },
       "status": "open",
@@ -80940,6 +81672,65 @@
       "dates": {
         "posted": "2026-08-07",
         "discovered": "2026-08-07",
+        "last_verified": "2026-08-10"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "truist-bank-technology-and-operations-intern-conversion-data-2027",
+      "company": {
+        "name": "Truist Bank",
+        "slug": "truist-bank"
+      },
+      "role": "Technology and Operations Intern Conversion - Data",
+      "category": "software-engineering",
+      "apply_url": "https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Charlotte-NC/XMLNAME-2027-Technology--Data--and-Operations-Internship---Intern-Conversion-_R0117276",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Charlotte",
+          "state": "NC",
+          "country": "USA"
+        },
+        {
+          "city": "Atlanta",
+          "state": "GA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-10",
+        "discovered": "2026-08-10",
         "last_verified": "2026-08-10"
       },
       "status": "open",

@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "spacex-spring-2027-civil-structural-engineering-internship-2027",
+  "id": "bytedance-visual-generation-multimodal-evaluation-machine-learning-eng-2027",
   "company": {
-    "name": "SpaceX",
-    "slug": "spacex",
-    "career_page": "https://www.spacex.com/careers"
+    "name": "ByteDance",
+    "slug": "bytedance"
   },
-  "role": "Spring 2027 Civil/Structural Engineering Internship",
-  "category": "hardware",
-  "apply_url": "https://boards.greenhouse.io/spacex/jobs/8636143002?gh_jid=8636143002",
+  "role": "Visual Generation & Multimodal Evaluation Machine Learning Engineer Intern - Aml-Ark",
+  "category": "machine-learning",
+  "apply_url": "https://jobs.bytedance.com/en/position/7671105026009925893/detail",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Flexible",
+      "city": "San Jose",
+      "state": "CA",
       "country": "USA"
     }
   ],
@@ -25,7 +25,9 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "masters"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -40,13 +42,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-03",
-    "discovered": "2026-08-03",
+    "posted": "2026-08-10",
+    "discovered": "2026-08-10",
     "last_verified": "2026-08-10"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:ats"
+    "src:simplify"
   ]
 }
