@@ -8,10 +8,10 @@ _Generated 2026-08-10_
 
 | Company | Listings |
 |---|---|
-| TikTok | 114 |
+| TikTok | 115 |
 | Tesla | 107 |
 | Jump Trading | 43 |
-| ByteDance | 38 |
+| ByteDance | 39 |
 | Cloudflare | 27 |
 | SpaceX | 25 |
 | Susquehanna International Group (SIG) | 22 |
@@ -33,42 +33,42 @@ _Generated 2026-08-10_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 818 | `█████████████` |
+| software-engineering | 825 | `█████████████` |
 | ai | 157 | `██` |
 | quant | 153 | `██` |
 | machine-learning | 117 | `██` |
-| research | 90 | `█` |
+| research | 91 | `█` |
 | hardware | 74 | `█` |
 | embedded | 45 | `█` |
 | product | 42 | `█` |
 | cloud | 37 | `█` |
 | design | 30 | `█` |
-| data-science | 24 | `█` |
+| data-science | 25 | `█` |
 | data-engineering | 19 | `█` |
 | security | 11 | `█` |
 
 ## Newest listings
 
+- 2026-08-10 — **Altamira Technologies**: [Research and Development Intern](https://jobs.jobvite.com/altamiracorps/job/oHqCAfw3?nl=1&nl=1&fr=false)
+- 2026-08-10 — **Altamira Technologies**: [Software Development Intern](https://jobs.jobvite.com/altamiracorps/job/oMqCAfw8?nl=1&nl=1&fr=false)
 - 2026-08-10 — **Atoms**: [Machine Learning PhD Software Engineer Intern](https://job-boards.greenhouse.io/cssmerge/jobs/8693034002)
 - 2026-08-10 — **Bank of Montreal**: [Investment Intern Co-op - Co-op/Internship](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Investment-Intern--Winter-2027--Co-op-Internship----4-months_R260023223)
 - 2026-08-10 — **Booz Allen**: [AI RAN Telecommunications Engineer Intern](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/AI-RAN-Telecommunications-Engineer-Intern_R0246415)
 - 2026-08-10 — **ByteDance**: [Agent Evaluation & Evolution Machine Learning Engineer Intern - Applied Machine Learning Ark](https://jobs.bytedance.com/en/position/7671096345243535669/detail)
 - 2026-08-10 — **ByteDance**: [Data Lake Infrastructure and Data Analytics Research Engineer Intern - Applied Machine Learning Ark](https://jobs.bytedance.com/en/position/7671109787509213445/detail)
 - 2026-08-10 — **ByteDance**: [Machine Learning Engineer Intern](https://jobs.bytedance.com/en/position/7671291260529821957/detail)
+- 2026-08-10 — **ByteDance**: [Software Engineer Intern - AML-Engine-Orchestration](https://jobs.bytedance.com/en/position/7671162985123907845/detail)
 - 2026-08-10 — **ByteDance**: [Visual Generation & Multimodal Evaluation Machine Learning Engineer Intern - Aml-Ark](https://jobs.bytedance.com/en/position/7671105026009925893/detail)
 - 2026-08-10 — **Chamberlain Group**: [Community Product Management Intern - Summer 2027](https://chamberlain.wd1.myworkdayjobs.com/Chamberlain_Group/job/Oak-Brook-IL/Intern--Community-Product-Management--Summer-2026-_JR31309)
+- 2026-08-10 — **Citadel**: [Sector Data Scientist Intern](https://www.citadel.com/careers/details/sector-data-scientist-2027-intern-us/)
 - 2026-08-10 — **Figma**: [Software Engineer Intern (Winter 2027)](https://boards.greenhouse.io/figma/jobs/6131089004?gh_jid=6131089004)
+- 2026-08-10 — **Figma**: [Software Engineer Intern - Winter 2027](https://boards.greenhouse.io/figma/jobs/6131089004)
 - 2026-08-10 — **Global Partners**: [Advanced Analytics Intern](https://global.wd1.myworkdayjobs.com/globalpartnerscareers/job/Newton-Office/Advanced-Analytics-Intern_R0031779)
 - 2026-08-10 — **Gulfstream**: [Computer Science Intern - Advanced Structures and Materials](https://careers.gulfstream.com/job/Savannah-Summer-2027-IEF-Advanced-Structures-and-Materials-(ASMI)-College-Associate-Intern-GA-31401/1417869000/?ats=successfactors)
 - 2026-08-10 — **InfiniteQuant**: [Quantitative Researcher Intern - Summer 2027](https://jobs.smartrecruiters.com/InfiniteQuant/744000142560129)
 - 2026-08-10 — **ING**: [Technology Intern - Innovation](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/New-York/Summer-2027-Internship---Tech--Innovation-_REQ-10119619)
 - 2026-08-10 — **McKesson**: [Software Developer Intern - Digital and Enterprise Technology](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-QC-Montreal-Ville-Saint-Laurent/Stagiaire-en-dveloppement-logiciel---Automne-2026---Software-Developer-Intern---Fall-2026_JR0151997)
 - 2026-08-10 — **McKesson**: [Technology Intern](https://mckesson.wd3.myworkdayjobs.com/sourcer_on_req/job/USA-OH-Columbus/CMM-Technology-Intern---Summer-2027_JR0151979)
-- 2026-08-10 — **Medpace**: [Data Engineer Intern - Spring 2027](https://careers.medpace.com/jobs/12921?icims=1)
-- 2026-08-10 — **Montenson**: [Artificial Intelligence Intern](https://fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23339)
-- 2026-08-10 — **Montenson**: [Data Analytics Intern - Insights](https://fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23342)
-- 2026-08-10 — **Montenson**: [Investment Analyst Intern](https://fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23362)
-- 2026-08-10 — **Montenson**: [Sustainability Engineer Intern](https://fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23367)
 
 ## Recently closed
 

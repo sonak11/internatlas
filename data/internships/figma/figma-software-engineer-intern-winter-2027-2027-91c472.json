@@ -1,23 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "figma-software-engineer-intern-winter-2027-2027",
+  "id": "figma-software-engineer-intern-winter-2027-2027-91c472",
   "company": {
     "name": "Figma",
-    "slug": "figma"
+    "slug": "figma",
+    "career_page": "https://www.figma.com/careers"
   },
-  "role": "Software Engineer Intern - Winter 2027",
-  "category": "software-engineering",
-  "apply_url": "https://boards.greenhouse.io/figma/jobs/6131089004",
-  "season": "winter",
+  "role": "Software Engineer Intern (Winter 2027)",
+  "category": "design",
+  "apply_url": "https://boards.greenhouse.io/figma/jobs/6131089004?gh_jid=6131089004",
+  "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "SF",
-      "country": "USA"
-    },
-    {
-      "city": "NYC",
+      "city": "San Francisco",
       "country": "USA"
     }
   ],
@@ -50,6 +47,6 @@
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:ats"
   ]
 }

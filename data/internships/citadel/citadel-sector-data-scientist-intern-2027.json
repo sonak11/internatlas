@@ -1,21 +1,17 @@
 {
   "schema_version": "1.0",
-  "id": "figma-software-engineer-intern-winter-2027-2027",
+  "id": "citadel-sector-data-scientist-intern-2027",
   "company": {
-    "name": "Figma",
-    "slug": "figma"
+    "name": "Citadel",
+    "slug": "citadel"
   },
-  "role": "Software Engineer Intern - Winter 2027",
-  "category": "software-engineering",
-  "apply_url": "https://boards.greenhouse.io/figma/jobs/6131089004",
-  "season": "winter",
+  "role": "Sector Data Scientist Intern",
+  "category": "data-science",
+  "apply_url": "https://www.citadel.com/careers/details/sector-data-scientist-2027-intern-us/",
+  "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
-    {
-      "city": "SF",
-      "country": "USA"
-    },
     {
       "city": "NYC",
       "country": "USA"

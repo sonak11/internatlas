@@ -1,23 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "figma-software-engineer-intern-winter-2027-2027",
+  "id": "bytedance-software-engineer-intern-aml-engine-orchestration-2027",
   "company": {
-    "name": "Figma",
-    "slug": "figma"
+    "name": "ByteDance",
+    "slug": "bytedance"
   },
-  "role": "Software Engineer Intern - Winter 2027",
+  "role": "Software Engineer Intern - AML-Engine-Orchestration",
   "category": "software-engineering",
-  "apply_url": "https://boards.greenhouse.io/figma/jobs/6131089004",
-  "season": "winter",
+  "apply_url": "https://jobs.bytedance.com/en/position/7671162985123907845/detail",
+  "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "SF",
-      "country": "USA"
-    },
-    {
-      "city": "NYC",
+      "city": "San Jose",
+      "state": "CA",
       "country": "USA"
     }
   ],
@@ -28,7 +25,9 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "masters"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"

@@ -1,23 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "figma-software-engineer-intern-winter-2027-2027",
+  "id": "mujin-software-development-intern-spring-2027-2027",
   "company": {
-    "name": "Figma",
-    "slug": "figma"
+    "name": "Mujin",
+    "slug": "mujin"
   },
-  "role": "Software Engineer Intern - Winter 2027",
+  "role": "Software Development Intern - Spring 2027",
   "category": "software-engineering",
-  "apply_url": "https://boards.greenhouse.io/figma/jobs/6131089004",
-  "season": "winter",
+  "apply_url": "https://mujin.bamboohr.com/careers/165/",
+  "season": "spring",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "SF",
-      "country": "USA"
-    },
-    {
-      "city": "NYC",
+      "city": "Suwanee",
+      "state": "GA",
       "country": "USA"
     }
   ],

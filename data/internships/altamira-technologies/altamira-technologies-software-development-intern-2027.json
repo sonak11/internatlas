@@ -1,23 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "figma-software-engineer-intern-winter-2027-2027",
+  "id": "altamira-technologies-software-development-intern-2027",
   "company": {
-    "name": "Figma",
-    "slug": "figma"
+    "name": "Altamira Technologies",
+    "slug": "altamira-technologies"
   },
-  "role": "Software Engineer Intern - Winter 2027",
+  "role": "Software Development Intern",
   "category": "software-engineering",
-  "apply_url": "https://boards.greenhouse.io/figma/jobs/6131089004",
-  "season": "winter",
+  "apply_url": "https://jobs.jobvite.com/altamiracorps/job/oMqCAfw8?nl=1&nl=1&fr=false",
+  "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "SF",
-      "country": "USA"
-    },
-    {
-      "city": "NYC",
+      "city": "Fairborn",
+      "state": "OH",
       "country": "USA"
     }
   ],
