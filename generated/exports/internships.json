@@ -1,6 +1,6 @@
 {
   "generated": "2026-08-10",
-  "count": 1578,
+  "count": 1577,
   "internships": [
     {
       "schema_version": "1.0",
@@ -27091,58 +27091,6 @@
     },
     {
       "schema_version": "1.0",
-      "id": "general-dynamics-information-technology-software-developer-intern-2027-7f4dca",
-      "company": {
-        "name": "General Dynamics Information Technology",
-        "slug": "general-dynamics-information-technology"
-      },
-      "role": "Software Developer Intern",
-      "category": "software-engineering",
-      "apply_url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Summer-2027-Software-Developer-Internship_RQ225469-1",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Annapolis Junction",
-          "state": "MD",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-08-06",
-        "discovered": "2026-08-07",
-        "last_verified": "2026-08-10"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
       "id": "general-dynamics-information-technology-software-developer-intern-2027-bb27a2",
       "company": {
         "name": "General Dynamics Information Technology",
@@ -27202,7 +27150,7 @@
       },
       "role": "Software Developer Intern",
       "category": "software-engineering",
-      "apply_url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Summer-2027-Software-Developer-Internship_RQ225456-1",
+      "apply_url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Summer-2027-Software-Developer-Internship_RQ225469-1",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
@@ -32568,6 +32516,64 @@
       "dates": {
         "posted": "2026-05-29",
         "discovered": "2026-07-17",
+        "last_verified": "2026-08-10"
+      },
+      "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "infinitequant-quantitative-researcher-intern-summer-2027-2027",
+      "company": {
+        "name": "InfiniteQuant",
+        "slug": "infinitequant"
+      },
+      "role": "Quantitative Researcher Intern - Summer 2027",
+      "category": "quant",
+      "apply_url": "https://jobs.smartrecruiters.com/InfiniteQuant/744000142560129",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Dubai - United Arab Emirates",
+          "country": "USA"
+        },
+        {
+          "city": "NYC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters",
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-10",
+        "discovered": "2026-08-10",
         "last_verified": "2026-08-10"
       },
       "status": "open",
@@ -42565,7 +42571,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "microsoft-software-engineer-intern-coreai-2027-7a33f3",
+      "id": "microsoft-software-engineer-intern-coreai-2027",
       "company": {
         "name": "Microsoft",
         "slug": "microsoft"
@@ -42579,58 +42585,6 @@
       "locations": [
         {
           "city": "Multiple Locations",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-08-03",
-        "discovered": "2026-08-03",
-        "last_verified": "2026-08-10"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:vanshb03"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "microsoft-software-engineer-intern-coreai-2027",
-      "company": {
-        "name": "Microsoft",
-        "slug": "microsoft"
-      },
-      "role": "Software Engineer Intern - CoreAI",
-      "category": "software-engineering",
-      "apply_url": "https://apply.careers.microsoft.com/careers/job/1970393556951950",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Redmond",
-          "state": "WA",
           "country": "USA"
         }
       ],
@@ -42665,7 +42619,7 @@
       "status": "open",
       "tags": [
         "auto-ingested",
-        "src:simplify"
+        "src:vanshb03"
       ]
     },
     {

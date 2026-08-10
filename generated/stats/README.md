@@ -21,8 +21,8 @@ _Generated 2026-08-10_
 | Palantir Technologies | 17 |
 | Rivian and Volkswagen Group Technologies | 16 |
 | Meta | 15 |
-| Microsoft | 15 |
 | Etched | 14 |
+| Microsoft | 14 |
 | Virtu Financial | 13 |
 | Ciena | 12 |
 | Optiver | 12 |
@@ -33,9 +33,9 @@ _Generated 2026-08-10_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 799 | `█████████████` |
+| software-engineering | 797 | `█████████████` |
 | ai | 154 | `██` |
-| quant | 150 | `██` |
+| quant | 151 | `██` |
 | machine-learning | 112 | `██` |
 | research | 88 | `█` |
 | hardware | 74 | `█` |
@@ -49,6 +49,7 @@ _Generated 2026-08-10_
 
 ## Newest listings
 
+- 2026-08-10 — **InfiniteQuant**: [Quantitative Researcher Intern - Summer 2027](https://jobs.smartrecruiters.com/InfiniteQuant/744000142560129)
 - 2026-08-09 — **HNTB**: [Strategic Technology Intern - SED Division](https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/Tallahassee-FL/Strategic-Technology-Intern---Summer-2027--SED-Division--For-Current-Former-HNTB-Interns-Only-_R-31092)
 - 2026-08-09 — **HNTB**: [Strategic Technology Intern - SED Division](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Tallahassee-FL/Strategic-Technology-Intern---Summer-2027--SED-Division--For-Current-Former-HNTB-Interns-Only-_R-31092-1)
 - 2026-08-08 — **ByteDance**: [Software Development Engineer Intern - Network Automation - 2027 Summer](https://jobs.bytedance.com/en/position/7671147251943213317/detail)
@@ -68,7 +69,6 @@ _Generated 2026-08-10_
 - 2026-08-07 — **Autodesk**: [Cloud Developer Intern - Interactive Graphics, Media & Entertainment](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer_26WD100400)
 - 2026-08-07 — **Axon**: [Software Engineer Intern](https://job-boards.greenhouse.io/axontalentcommunity/jobs/7837133003)
 - 2026-08-07 — **Bank of Montreal**: [Card Products Intern Co-op - Customer Solutions](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Card-Products-Internship--Fall-2026-Co-op-Internship--Toronto--CA-_R260023035)
-- 2026-08-07 — **Belvedere Trading**: [Quantitative Trading Intern - Summer 2027](https://jobs.lever.co/belvederetrading/cbde47db-c60b-4339-a8f4-a8e4f30505ab/apply)
 
 ## Recently closed
 
@@ -173,6 +173,7 @@ _Generated 2026-08-10_
 - HireVue — Data Science Intern
 - IMC Trading — 2027 - Quant Research Intern - BITS Pilani
 - IMC Trading — 2027 - Software Engineering Intern - BITS Pilani
+- InfiniteQuant — Quantitative Researcher Intern
 - Inogen — Firmware Engineer Intern
 - Integrity — Research Intern
 - Intel — AI Applied Intern

@@ -1,19 +1,23 @@
 {
   "schema_version": "1.0",
-  "id": "microsoft-software-engineer-intern-coreai-2027-7a33f3",
+  "id": "infinitequant-quantitative-researcher-intern-summer-2027-2027",
   "company": {
-    "name": "Microsoft",
-    "slug": "microsoft"
+    "name": "InfiniteQuant",
+    "slug": "infinitequant"
   },
-  "role": "Software Engineer Intern, CoreAI",
-  "category": "software-engineering",
-  "apply_url": "https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0",
+  "role": "Quantitative Researcher Intern - Summer 2027",
+  "category": "quant",
+  "apply_url": "https://jobs.smartrecruiters.com/InfiniteQuant/744000142560129",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Multiple Locations",
+      "city": "Dubai - United Arab Emirates",
+      "country": "USA"
+    },
+    {
+      "city": "NYC",
       "country": "USA"
     }
   ],
@@ -24,7 +28,10 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "masters",
+      "phd"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -39,13 +46,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-03",
-    "discovered": "2026-08-03",
+    "posted": "2026-08-10",
+    "discovered": "2026-08-10",
     "last_verified": "2026-08-10"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:vanshb03"
+    "src:simplify"
   ]
 }
