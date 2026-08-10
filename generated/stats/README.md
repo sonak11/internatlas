@@ -187,6 +187,7 @@ _Generated 2026-08-10_
 - Intel — AI Applied Intern
 - Intel Corporation — AI Software Engineering PhD Intern
 - JINGDONG — Software Engineering Intern
+- JP Morgan Chase — Data & AI Intern - Analyst
 - KBR — National Security Solutions Intern - Nss
 - Keysight Technologies — R&D Software Engineer Intern
 - Kinaxis — Engineer Co-op/Intern - Data & Analytics
@@ -248,9 +249,11 @@ _Generated 2026-08-10_
 - Rockwell Automation — Applied AI Intern
 - Rockwell Automation — Firmware Engineering Intern
 - Rockwell Automation — Firmware Engineering Intern
+- ROCKWOOL Group — Paint & Coating Intern
 - ROCKWOOL Group — Product Management Intern
 - Royal Bank of Canada — Relationship Manager Commercial Markets Intern
 - RTX — Machine Learning Researcher Intern/Co-op
+- RTX — Software Engineer Intern
 - RTX — Software Engineer Intern
 - Samsung Research America — ML/NLP Research Intern
 - Sargent & Lundy — AI & Automation Intern - Summer 2027
