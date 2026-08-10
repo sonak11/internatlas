@@ -1,20 +1,19 @@
 {
   "schema_version": "1.0",
-  "id": "rtx-software-engineer-intern-2027",
+  "id": "rtx-software-engineer-intern-2027-c0d5fa",
   "company": {
     "name": "RTX",
     "slug": "rtx"
   },
   "role": "Software Engineer Intern",
   "category": "software-engineering",
-  "apply_url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-FL-LARGO-382SR--7887-Bryan-Dairy-Rd--BLDG-600/Software-Engineer-Intern--Summer-2027-_01864811-1",
+  "apply_url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-REMOTE/Software-Engineering--Intern--Summer-2027-_01863749",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Largo",
-      "state": "FL",
+      "city": "Texas",
       "country": "USA"
     }
   ],
@@ -42,8 +41,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-10",
-    "discovered": "2026-07-27",
+    "posted": "2026-08-03",
+    "discovered": "2026-08-10",
     "last_verified": "2026-08-10"
   },
   "status": "open",

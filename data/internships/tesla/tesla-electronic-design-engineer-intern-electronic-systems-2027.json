@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "rtx-software-engineer-intern-2027",
+  "id": "tesla-electronic-design-engineer-intern-electronic-systems-2027",
   "company": {
-    "name": "RTX",
-    "slug": "rtx"
+    "name": "Tesla",
+    "slug": "tesla"
   },
-  "role": "Software Engineer Intern",
-  "category": "software-engineering",
-  "apply_url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-FL-LARGO-382SR--7887-Bryan-Dairy-Rd--BLDG-600/Software-Engineer-Intern--Summer-2027-_01864811-1",
-  "season": "summer",
+  "role": "Electronic Design Engineer Intern - Electronic Systems",
+  "category": "design",
+  "apply_url": "https://www.tesla.com/careers/search/job/279760",
+  "season": "winter",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Largo",
-      "state": "FL",
+      "city": "Palo Alto",
+      "state": "CA",
       "country": "USA"
     }
   ],
@@ -25,9 +25,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -43,7 +41,7 @@
   },
   "dates": {
     "posted": "2026-08-10",
-    "discovered": "2026-07-27",
+    "discovered": "2026-08-10",
     "last_verified": "2026-08-10"
   },
   "status": "open",

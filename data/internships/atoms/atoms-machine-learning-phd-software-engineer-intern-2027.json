@@ -1,20 +1,33 @@
 {
   "schema_version": "1.0",
-  "id": "rtx-software-engineer-intern-2027",
+  "id": "atoms-machine-learning-phd-software-engineer-intern-2027",
   "company": {
-    "name": "RTX",
-    "slug": "rtx"
+    "name": "Atoms",
+    "slug": "atoms"
   },
-  "role": "Software Engineer Intern",
-  "category": "software-engineering",
-  "apply_url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-FL-LARGO-382SR--7887-Bryan-Dairy-Rd--BLDG-600/Software-Engineer-Intern--Summer-2027-_01864811-1",
-  "season": "summer",
+  "role": "Machine Learning PhD Software Engineer Intern",
+  "category": "machine-learning",
+  "apply_url": "https://job-boards.greenhouse.io/cssmerge/jobs/8693034002",
+  "season": "winter",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Largo",
-      "state": "FL",
+      "city": "Seattle",
+      "state": "WA",
+      "country": "USA"
+    },
+    {
+      "state": "LA",
+      "country": "USA"
+    },
+    {
+      "city": "NYC",
+      "country": "USA"
+    },
+    {
+      "city": "Mountain View",
+      "state": "CA",
       "country": "USA"
     }
   ],
@@ -26,7 +39,7 @@
   "eligibility": {
     "graduation_years": [],
     "degree_levels": [
-      "masters"
+      "phd"
     ],
     "citizenship_required": false,
     "security_clearance_required": false,
@@ -43,7 +56,7 @@
   },
   "dates": {
     "posted": "2026-08-10",
-    "discovered": "2026-07-27",
+    "discovered": "2026-08-10",
     "last_verified": "2026-08-10"
   },
   "status": "open",

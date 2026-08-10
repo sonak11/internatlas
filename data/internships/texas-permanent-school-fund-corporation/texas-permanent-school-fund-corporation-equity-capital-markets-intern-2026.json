@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "rtx-software-engineer-intern-2027",
+  "id": "texas-permanent-school-fund-corporation-equity-capital-markets-intern-2026",
   "company": {
-    "name": "RTX",
-    "slug": "rtx"
+    "name": "Texas Permanent School Fund Corporation",
+    "slug": "texas-permanent-school-fund-corporation"
   },
-  "role": "Software Engineer Intern",
+  "role": "Equity Capital Markets Intern",
   "category": "software-engineering",
-  "apply_url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-FL-LARGO-382SR--7887-Bryan-Dairy-Rd--BLDG-600/Software-Engineer-Intern--Summer-2027-_01864811-1",
-  "season": "summer",
-  "year": 2027,
+  "apply_url": "https://texaspsf.wd501.myworkdayjobs.com/TexasPSFCareers/job/Innovation-Tower/Equity-Capital-Markets-Intern_JR100108",
+  "season": "fall",
+  "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Largo",
-      "state": "FL",
+      "city": "Austin",
+      "state": "TX",
       "country": "USA"
     }
   ],
@@ -25,9 +25,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -43,7 +41,7 @@
   },
   "dates": {
     "posted": "2026-08-10",
-    "discovered": "2026-07-27",
+    "discovered": "2026-08-10",
     "last_verified": "2026-08-10"
   },
   "status": "open",
