@@ -467,7 +467,7 @@
 | [SkyGig](../companies/skygig.md) | 1/1 | design |
 | [Skydio](../companies/skydio.md) | 3/4 | hardware, product, software-engineering |
 | [Smith+Nephew](../companies/smith-nephew.md) | 0/1 | software-engineering |
-| [Smiths Detection Group](../companies/smiths-detection-group.md) | 1/1 | software-engineering |
+| [Smiths Detection Group](../companies/smiths-detection-group.md) | 0/1 | software-engineering |
 | [Snowflake](../companies/snowflake.md) | 3/3 | cloud, software-engineering |
 | [Solid Power](../companies/solid-power.md) | 0/1 | software-engineering |
 | [SoloPulse](../companies/solopulse.md) | 1/1 | software-engineering |

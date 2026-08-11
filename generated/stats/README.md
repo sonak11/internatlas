@@ -261,6 +261,7 @@ _Generated 2026-08-11_
 - Sentara Health — Data & AI Finance Strategy Intern
 - Sentara Health — Enterprise Data & AI Intern
 - Smith+Nephew — Operational Technology Intern
+- Smiths Detection Group — Commercial Intern - Commercial Tools & Business Intelligence
 - Sony Pictures Entertainment — Graduate Intern - Advanced Technologies
 - Sony Pictures Entertainment — Insights Intern - Multiple Teams
 - SOTI — Product Manager Intern - Sales Enablement Products
