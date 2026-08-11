@@ -101,6 +101,7 @@ _Generated 2026-08-11_
 - Bank of Montreal — Data and AI Operations Analyst Intern/Co-op - Cloud - 8 months
 - Bank of Montreal — Data Scientist Co-op/Internship - Months
 - Bank of Montreal — Database Operations Co-op Intern
+- Bank of Montreal — Investment Intern Co-op - Co-op/Internship
 - Bank of Montreal — Market Risk Analyst Co-op/Intern
 - BDO Canada — Data & Analytics Co-op/Intern - Data & Analytics
 - Bosch Home Comfort — Artificial Intelligence and Software Development Engineering Intern
