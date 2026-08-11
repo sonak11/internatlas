@@ -227,6 +227,7 @@ _Generated 2026-08-11_
 - NVIDIA — Applied Deep Learning PhD Research Intern - Reinforcement Learning for LLMs
 - NVIDIA — Performance Engineer Intern, Systems Software
 - NVIDIA — PhD Research Intern - System Software and I/O Architecture
+- Odin Dynamics, Inc — Engineering Intern
 - Outpost Technologies — Technical Marketing Intern - Analytics - Research & Automation
 - Output Biosciences — Research Intern - Machine Learning
 - Pennsylvania State University — AI/ML Research and Development Intern
@@ -251,6 +252,7 @@ _Generated 2026-08-11_
 - RTX — Machine Learning Researcher Intern/Co-op
 - RTX — Software Engineer Intern
 - RTX — Software Engineer Intern
+- RTX — Systems Engineer 1 Intern - Intern Conversion
 - Samsung Research America — ML/NLP Research Intern
 - Sargent & Lundy — AI & Automation Intern - Summer 2027
 - Sargent & Lundy — Software Engineer Intern
