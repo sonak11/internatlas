@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "tesla-applied-ai-engineer-intern-ai-hardware-2026",
+  "id": "micron-technology-dram-design-engineer-intern-2026",
   "company": {
-    "name": "Tesla",
-    "slug": "tesla"
+    "name": "Micron Technology",
+    "slug": "micron-technology"
   },
-  "role": "Applied AI Engineer Intern - AI Hardware",
-  "category": "ai",
-  "apply_url": "https://www.tesla.com/careers/search/job/279603",
+  "role": "DRAM Design Engineer Intern",
+  "category": "design",
+  "apply_url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---DRAM-Design-Engineer_JR108448",
   "season": "fall",
   "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Palo Alto",
-      "state": "CA",
+      "city": "Boise",
+      "state": "ID",
       "country": "USA"
     }
   ],
@@ -25,7 +25,9 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "masters"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -40,8 +42,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-11",
-    "discovered": "2026-07-17",
+    "posted": "2026-08-10",
+    "discovered": "2026-08-11",
     "last_verified": "2026-08-11"
   },
   "status": "open",

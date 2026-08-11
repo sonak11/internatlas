@@ -316,7 +316,7 @@
 | [Meta](../companies/meta.md) | 12/15 | ai, machine-learning, research |
 | [Metropolitan Transportation Authority](../companies/metropolitan-transportation-authority.md) | 2/2 | software-engineering |
 | [Microchip Technology](../companies/microchip-technology.md) | 2/5 | embedded, software-engineering |
-| [Micron Technology](../companies/micron-technology.md) | 1/1 | software-engineering |
+| [Micron Technology](../companies/micron-technology.md) | 4/4 | design, software-engineering |
 | [Microsoft](../companies/microsoft.md) | 13/14 | cloud, machine-learning, product, security, software-engineering |
 | [Midmark](../companies/midmark.md) | 0/1 | embedded |
 | [Mindsmith](../companies/mindsmith.md) | 1/1 | software-engineering |
@@ -325,7 +325,7 @@
 | [Modal](../companies/modal.md) | 2/2 | machine-learning |
 | [Monogram](../companies/monogram.md) | 0/1 | software-engineering |
 | [Montenson](../companies/montenson.md) | 5/5 | ai, software-engineering |
-| [Moog](../companies/moog.md) | 0/1 | software-engineering |
+| [Moog](../companies/moog.md) | 1/2 | software-engineering |
 | [Moon](../companies/moon.md) | 1/3 | machine-learning, software-engineering |
 | [Mosaic](../companies/mosaic.md) | 0/2 | software-engineering |
 | [Moss & Associates](../companies/moss-associates.md) | 0/1 | software-engineering |
@@ -504,7 +504,7 @@
 | [Terminal](../companies/terminal.md) | 2/2 | software-engineering |
 | [Terranova](../companies/terranova.md) | 2/2 | embedded, software-engineering |
 | [Terranox AI](../companies/terranox-ai.md) | 1/1 | machine-learning |
-| [Tesla](../companies/tesla.md) | 90/107 | ai, cloud, data-engineering, design, embedded, hardware, machine-learning, product, security, software-engineering |
+| [Tesla](../companies/tesla.md) | 91/107 | ai, cloud, data-engineering, design, embedded, hardware, machine-learning, product, security, software-engineering |
 | [Tessera Labs](../companies/tessera-labs.md) | 1/1 | product |
 | [Texas Instruments](../companies/texas-instruments.md) | 1/1 | software-engineering |
 | [Texas Permanent School Fund Corporation](../companies/texas-permanent-school-fund-corporation.md) | 1/1 | software-engineering |
@@ -527,7 +527,7 @@
 | [Trata](../companies/trata.md) | 1/1 | research |
 | [Trend Micro](../companies/trend-micro.md) | 1/1 | research |
 | [Trillium](../companies/trillium.md) | 4/4 | software-engineering |
-| [Truist Bank](../companies/truist-bank.md) | 1/1 | software-engineering |
+| [Truist Bank](../companies/truist-bank.md) | 4/4 | quant, software-engineering |
 | [Truland Equipment](../companies/truland-equipment.md) | 0/1 | software-engineering |
 | [Turabify](../companies/turabify.md) | 1/1 | ai |
 | [Two Sigma](../companies/two-sigma.md) | 2/2 | ai, quant |

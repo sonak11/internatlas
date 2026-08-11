@@ -1,6 +1,6 @@
 # 📬 InternAtlas Weekly Digest — 2026-08-11
 
-## 🆕 New this week (275)
+## 🆕 New this week (283)
 
 - **Alayacare** — [Full-Stack Developer Intern - Python](https://alayacare.com/open-positions?gh_jid=8687981002) · software-engineering · —
 - **Altamira Technologies** — [Research and Development Intern](https://jobs.jobvite.com/altamiracorps/job/oHqCAfw3?nl=1&nl=1&fr=false) · research · —
@@ -116,6 +116,9 @@
 - **Medpace** — [Data Engineer Intern - Spring 2027](https://careers.medpace.com/jobs/12921?icims=1) · data-engineering · —
 - **Melius** — [Software Engineering Intern](https://jobs.ashbyhq.com/melius/b61f063a-4f94-4e50-a4ef-05aaab552280) · software-engineering · —
 - **Metropolitan Transportation Authority** — [Data Analyst Intern - Power - Emerging Talent](https://jobs.jobvite.com/metropolitantransportationauthority/job/o6OAAfwO?nl=1&nl=1&fr=false) · software-engineering · —
+- **Micron Technology** — [DRAM Design Engineer Intern](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---DRAM-Design-Engineer_JR108468) · design · —
+- **Micron Technology** — [DRAM Design Engineer Intern](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---DRAM-Design-Engineer_JR108448) · design · —
+- **Micron Technology** — [DRAM IP Circuits Design Engineer Intern - IP Development](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---DRAM-IP-Circuits-Design-Engineer_JR108471) · design · —
 - **Micron Technology** — [Industrial Engineer Intern - Technology & Products Group - Global Industrial Engineering](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---TPG-Global-IE_JR107486) · software-engineering · —
 - **Microsoft** — [Full-Stack Product Engineer Intern - Web + Services](https://apply.careers.microsoft.com/careers/job/1970393556922922) · software-engineering · —
 - **Microsoft** — [Product Manager Intern](https://apply.careers.microsoft.com/careers/job/1970393556953113) · product · —
@@ -134,6 +137,7 @@
 - **Montenson** — [Investment Analyst Intern](https://fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23362) · software-engineering · —
 - **Montenson** — [Sustainability Engineer Intern](https://fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23367) · software-engineering · —
 - **Montenson** — [System Administrator Intern](https://fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23368) · software-engineering · —
+- **Moog** — [Product Engineering Intern](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Product-Engineering_R-26-19224) · software-engineering · —
 - **Mujin** — [Product Development Intern - Spring 2027](https://mujin.bamboohr.com/careers/168/) · software-engineering · —
 - **Mujin** — [Software Development Intern - Spring 2027](https://mujin.bamboohr.com/careers/165/) · software-engineering · —
 - **Mujin** — [Software Integration Intern](https://mujin.bamboohr.com/careers/166/) · software-engineering · —
@@ -192,6 +196,7 @@
 - **Terminal** — [Software Engineer Intern - Backend](https://jobs.ashbyhq.com/terminal/6855293e-a817-4b70-835c-cd57e3bfcfde/application?embed=true) · software-engineering · —
 - **Terminal** — [Software Engineer Intern - Data Platform](https://jobs.ashbyhq.com/terminal/d7e128ed-617c-4b9b-9e42-0e909fb25729/application?embed=true) · software-engineering · —
 - **Terranova** — [Software Engineer Intern](https://jobs.ashbyhq.com/terranova/a8e5a8d2-4af3-4736-b66e-e0804447f7a0/application?embed=true) · software-engineering · —
+- **Tesla** — [Applied AI Engineer Intern - AI Hardware](https://www.tesla.com/careers/search/job/279603) · ai · —
 - **Tesla** — [Cell Engineering Intern - Cell Qualification](https://www.tesla.com/careers/search/job/278620) · software-engineering · —
 - **Tesla** — [Data Engineer Intern - Cell Engineering](https://www.tesla.com/careers/search/job/278622) · data-engineering · —
 - **Tesla** — [Electronic Design Engineer Intern - Electronic Systems](https://www.tesla.com/careers/search/job/279760) · design · —
@@ -258,6 +263,9 @@
 - **TikTok** — [Software Engineer Intern - Transaction Platform](https://lifeattiktok.com/search/7669943120351906053) · software-engineering · —
 - **TikTok** — [Strategy Product Manager Intern - Platform Responsibility](https://lifeattiktok.com/search/7670420287191517493) · product · —
 - **Trillium** — [Software Engineer Intern - Summer 2027](https://www.trlm.com/apply/5207089007?gh_jid=5207089007) · software-engineering · —
+- **Truist Bank** — [Analyst Intern Conversion - Multiple Teams](https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/New-York-NY/XMLNAME-2027-Truist-Securities---Equity-S-T--Sales--Trading---Research----Analyst-Program--INTERN-CONVERSION-_R0117763-1) · software-engineering · —
+- **Truist Bank** — [Analyst Intern - Equity Research - Sales, Trading & Research](https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Atlanta-GA/XMLNAME-2027-Truist-Securities---Equity-Research--Sales--Trading---Research----Analyst-Program--INTERN-CONVERSION-_R0117762-1) · quant · —
+- **Truist Bank** — [Fixed Income Loans S&T Intern - Sales, Trading & Research - Analyst Program](https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/New-York-NY/XMLNAME-2027-Truist-Securities---Fixed-Income-Loans-S-T--Sales--Trading---Research----Analyst-Program--INTERN-CONVERSION-_R0117765-1) · quant · —
 - **Truist Bank** — [Technology and Operations Intern Conversion - Data](https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Charlotte-NC/XMLNAME-2027-Technology--Data--and-Operations-Internship---Intern-Conversion-_R0117276) · software-engineering · —
 - **Turabify** — [AI Automation Intern](https://apply.workable.com/turabify-co/j/0B50CC0D49/apply) · ai · —
 - **US Acute Care Solutions** — [People Analytics Intern](https://usacs.wd1.myworkdayjobs.com/usacscareers/job/Virtual-OH/People-Analytics-Intern_R0002363) · software-engineering · —

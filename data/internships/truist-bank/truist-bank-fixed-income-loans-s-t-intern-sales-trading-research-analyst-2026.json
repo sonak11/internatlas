@@ -1,20 +1,19 @@
 {
   "schema_version": "1.0",
-  "id": "tesla-applied-ai-engineer-intern-ai-hardware-2026",
+  "id": "truist-bank-fixed-income-loans-s-t-intern-sales-trading-research-analyst-2026",
   "company": {
-    "name": "Tesla",
-    "slug": "tesla"
+    "name": "Truist Bank",
+    "slug": "truist-bank"
   },
-  "role": "Applied AI Engineer Intern - AI Hardware",
-  "category": "ai",
-  "apply_url": "https://www.tesla.com/careers/search/job/279603",
+  "role": "Fixed Income Loans S&T Intern - Sales, Trading & Research - Analyst Program",
+  "category": "quant",
+  "apply_url": "https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/New-York-NY/XMLNAME-2027-Truist-Securities---Fixed-Income-Loans-S-T--Sales--Trading---Research----Analyst-Program--INTERN-CONVERSION-_R0117765-1",
   "season": "fall",
   "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Palo Alto",
-      "state": "CA",
+      "city": "NYC",
       "country": "USA"
     }
   ],
@@ -41,7 +40,7 @@
   },
   "dates": {
     "posted": "2026-08-11",
-    "discovered": "2026-07-17",
+    "discovered": "2026-08-11",
     "last_verified": "2026-08-11"
   },
   "status": "open",

@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "tesla-applied-ai-engineer-intern-ai-hardware-2026",
+  "id": "moog-product-engineering-intern-2026",
   "company": {
-    "name": "Tesla",
-    "slug": "tesla"
+    "name": "Moog",
+    "slug": "moog"
   },
-  "role": "Applied AI Engineer Intern - AI Hardware",
-  "category": "ai",
-  "apply_url": "https://www.tesla.com/careers/search/job/279603",
+  "role": "Product Engineering Intern",
+  "category": "software-engineering",
+  "apply_url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Product-Engineering_R-26-19224",
   "season": "fall",
   "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Palo Alto",
-      "state": "CA",
+      "city": "Buffalo",
+      "state": "NY",
       "country": "USA"
     }
   ],
@@ -25,7 +25,9 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "masters"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -40,8 +42,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-11",
-    "discovered": "2026-07-17",
+    "posted": "2026-08-10",
+    "discovered": "2026-08-11",
     "last_verified": "2026-08-11"
   },
   "status": "open",

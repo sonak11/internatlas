@@ -33,16 +33,16 @@ _Generated 2026-08-11_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 833 | `█████████████` |
+| software-engineering | 835 | `█████████████` |
 | ai | 159 | `██` |
-| quant | 153 | `██` |
+| quant | 155 | `██` |
 | machine-learning | 117 | `██` |
 | research | 91 | `█` |
 | hardware | 74 | `█` |
 | embedded | 45 | `█` |
 | product | 42 | `█` |
 | cloud | 37 | `█` |
-| design | 31 | `█` |
+| design | 34 | `█` |
 | data-science | 25 | `█` |
 | data-engineering | 20 | `█` |
 | security | 11 | `█` |
@@ -56,6 +56,10 @@ _Generated 2026-08-11_
 - 2026-08-11 — **OpusClip**: [AI Product Management Intern](https://jobs.ashbyhq.com/opusclip/501d374d-7d4f-4889-bc53-0a1fd16253ea/application?embed=true)
 - 2026-08-11 — **ResponsiveAds**: [Full-Stack Developer Intern - ResponsiveAds - Studio 4](https://apply.workable.com/responsiveads-inc/j/493EAC12D6/apply)
 - 2026-08-11 — **SkyGig**: [RFIC Design Intern](https://apply.workable.com/skygig/j/10A5A58F9E/apply)
+- 2026-08-11 — **Tesla**: [Applied AI Engineer Intern - AI Hardware](https://www.tesla.com/careers/search/job/279603)
+- 2026-08-11 — **Truist Bank**: [Analyst Intern Conversion - Multiple Teams](https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/New-York-NY/XMLNAME-2027-Truist-Securities---Equity-S-T--Sales--Trading---Research----Analyst-Program--INTERN-CONVERSION-_R0117763-1)
+- 2026-08-11 — **Truist Bank**: [Analyst Intern - Equity Research - Sales, Trading & Research](https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Atlanta-GA/XMLNAME-2027-Truist-Securities---Equity-Research--Sales--Trading---Research----Analyst-Program--INTERN-CONVERSION-_R0117762-1)
+- 2026-08-11 — **Truist Bank**: [Fixed Income Loans S&T Intern - Sales, Trading & Research - Analyst Program](https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/New-York-NY/XMLNAME-2027-Truist-Securities---Fixed-Income-Loans-S-T--Sales--Trading---Research----Analyst-Program--INTERN-CONVERSION-_R0117765-1)
 - 2026-08-10 — **Altamira Technologies**: [Research and Development Intern](https://jobs.jobvite.com/altamiracorps/job/oHqCAfw3?nl=1&nl=1&fr=false)
 - 2026-08-10 — **Altamira Technologies**: [Software Development Intern](https://jobs.jobvite.com/altamiracorps/job/oMqCAfw8?nl=1&nl=1&fr=false)
 - 2026-08-10 — **Atoms**: [Machine Learning PhD Software Engineer Intern](https://job-boards.greenhouse.io/cssmerge/jobs/8693034002)
@@ -65,10 +69,6 @@ _Generated 2026-08-11_
 - 2026-08-10 — **ByteDance**: [Data Lake Infrastructure and Data Analytics Research Engineer Intern - Applied Machine Learning Ark](https://jobs.bytedance.com/en/position/7671109787509213445/detail)
 - 2026-08-10 — **ByteDance**: [Machine Learning Engineer Intern](https://jobs.bytedance.com/en/position/7671291260529821957/detail)
 - 2026-08-10 — **ByteDance**: [Software Engineer Intern - AML-Engine-Orchestration](https://jobs.bytedance.com/en/position/7671162985123907845/detail)
-- 2026-08-10 — **ByteDance**: [Visual Generation & Multimodal Evaluation Machine Learning Engineer Intern - Aml-Ark](https://jobs.bytedance.com/en/position/7671105026009925893/detail)
-- 2026-08-10 — **Chamberlain Group**: [Community Product Management Intern - Summer 2027](https://chamberlain.wd1.myworkdayjobs.com/Chamberlain_Group/job/Oak-Brook-IL/Intern--Community-Product-Management--Summer-2026-_JR31309)
-- 2026-08-10 — **Citadel**: [Sector Data Scientist Intern](https://www.citadel.com/careers/details/sector-data-scientist-2027-intern-us/)
-- 2026-08-10 — **Cloudflare**: [Software Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8118845?gh_jid=8118845)
 
 ## Recently closed
 
@@ -279,7 +279,6 @@ _Generated 2026-08-11_
 - Tencent — Research Intern - Video World Models - Research & ML Systems
 - Tenstorrent — CPU/AI Workload Analysis Intern
 - Tesla — AI Inference Engineer Intern - Software Compiler Engineer - AI Inference
-- Tesla — Applied AI Engineer Intern - AI Hardware
 - Tesla — Automated Diagnostics Intern - Software Engineer
 - Tesla — Electronic Design Engineer Internship - Electronic Design Engineer - Electronic Systems
 - Tesla — Failure Analysis Engineer Intern - Failure Analysis Engineer - Energy Engineering
