@@ -1,20 +1,21 @@
 {
   "schema_version": "1.0",
-  "id": "canva-phd-research-scientist-intern-reinforcement-learning-images-2026",
+  "id": "university-system-of-new-hampshire-robotics-intern-2026",
   "company": {
-    "name": "Canva",
-    "slug": "canva"
+    "name": "University System of New Hampshire",
+    "slug": "university-system-of-new-hampshire"
   },
-  "role": "PhD Research Scientist Intern - Reinforcement Learning - Images",
-  "category": "research",
-  "apply_url": "https://jobs.smartrecruiters.com/Canva/6000000001292768",
+  "role": "Robotics Intern",
+  "category": "software-engineering",
+  "apply_url": "https://usnh.wd5.myworkdayjobs.com/Careers/job/University-of-New-Hampshire--Main-Campus/Research-Intern_JR8972",
   "season": "fall",
   "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "London",
-      "country": "UK"
+      "city": "Durham",
+      "state": "NH",
+      "country": "USA"
     }
   ],
   "compensation": {
@@ -25,7 +26,7 @@
   "eligibility": {
     "graduation_years": [],
     "degree_levels": [
-      "phd"
+      "masters"
     ],
     "citizenship_required": false,
     "security_clearance_required": false,
@@ -41,11 +42,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-06",
-    "discovered": "2026-08-07",
+    "posted": "2026-08-11",
+    "discovered": "2026-08-11",
     "last_verified": "2026-08-11"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

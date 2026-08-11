@@ -1,6 +1,6 @@
 # 📬 InternAtlas Weekly Digest — 2026-08-11
 
-## 🆕 New this week (284)
+## 🆕 New this week (287)
 
 - **Alayacare** — [Full-Stack Developer Intern - Python](https://alayacare.com/open-positions?gh_jid=8687981002) · software-engineering · —
 - **Altamira Technologies** — [Research and Development Intern](https://jobs.jobvite.com/altamiracorps/job/oHqCAfw3?nl=1&nl=1&fr=false) · research · —
@@ -19,6 +19,8 @@
 - **Autodesk** — [Cloud Developer Intern - Fcap](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer---FCAP_26WD100406-2) · cloud · —
 - **Autodesk** — [Cloud Developer Intern - Interactive Graphics, Media & Entertainment](https://autodesk.wd1.myworkdayjobs.com/uni/job/Montreal-QC-CAN/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer_26WD100400-3) · cloud · —
 - **Autodesk** — [Cloud Developer Intern - Interactive Graphics, Media & Entertainment](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer_26WD100400) · cloud · —
+- **Autodesk** — [Software Developer Intern](https://autodesk.wd1.myworkdayjobs.com/uni/job/Montreal-QC-CAN/Intern-Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD100398-1) · software-engineering · —
+- **Autodesk** — [Software Developer Intern - Interactive Graphics, Media & Entertainment](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Intern-Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD100398-2) · software-engineering · —
 - **Axon** — [Software Engineer Intern](https://job-boards.greenhouse.io/axontalentcommunity/jobs/7837133003) · software-engineering · —
 - **Bank of Montreal** — [Card Products Intern Co-op - Customer Solutions](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Card-Products-Internship--Fall-2026-Co-op-Internship--Toronto--CA-_R260023035) · software-engineering · —
 - **Bank of Montreal** — [Database Operations Co-op Intern](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Database-Operations-Co-op--Fall-2026--Co-op-Internship----4-months_R260022911) · software-engineering · —
@@ -270,6 +272,7 @@
 - **Truist Bank** — [Technology and Operations Intern Conversion - Data](https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Charlotte-NC/XMLNAME-2027-Technology--Data--and-Operations-Internship---Intern-Conversion-_R0117276) · software-engineering · —
 - **Turabify** — [AI Automation Intern](https://apply.workable.com/turabify-co/j/0B50CC0D49/apply) · ai · —
 - **US Acute Care Solutions** — [People Analytics Intern](https://usacs.wd1.myworkdayjobs.com/usacscareers/job/Virtual-OH/People-Analytics-Intern_R0002363) · software-engineering · —
+- **University System of New Hampshire** — [Robotics Intern](https://usnh.wd5.myworkdayjobs.com/Careers/job/University-of-New-Hampshire--Main-Campus/Research-Intern_JR8972) · software-engineering · —
 - **Valstad** — [Robotics Software Intern - Manipulation & Simulation](https://jobs.ashbyhq.com/valstad/8478558b-c5b5-43d2-b9c0-eae7a1fb30d8/application?embed=true) · software-engineering · —
 - **Valstad** — [Software Engineer Intern - 3D & Manufacturing Applications](https://jobs.ashbyhq.com/valstad/7ff6d452-969f-43a6-9127-d153025e6aea/application?embed=true) · software-engineering · —
 - **Varda Space** — [Applications Engineer Intern](https://job-boards.greenhouse.io/vardaspace/jobs/7824822003) · software-engineering · —

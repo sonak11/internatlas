@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 💻 Software Engineering Internships
 
-**835** tracked · **606** open now
+**838** tracked · **609** open now
 
 ## Current openings
 
@@ -67,6 +67,8 @@
 | [Atomic Semi](generated/companies/atomic-semi.md) | [Software Engineering Intern, Fab](https://jobs.ashbyhq.com/AtomicSemi/947338ca-e135-4398-9aa3-79e131bc03d5?jr_id=69e8f6053aa0c479643a5ee5) | Austin, TX +1 | Onsite | 2026-04-22 | Rolling | 🟢 Open | ✅ |
 | [Atoms](generated/companies/atoms.md) | [Software Engineer Intern - Summer 2027](https://job-boards.greenhouse.io/cssmerge/jobs/8687896002) | Seattle, WA +4 | Onsite | 2026-08-07 | Rolling | 🟢 Open | ❔ |
 | [Atoms](generated/companies/atoms.md) | [Software Engineer Intern - Winter 2027](https://job-boards.greenhouse.io/cssmerge/jobs/8687915002) | Seattle, WA +4 | Onsite | 2026-08-06 | Rolling | 🟢 Open | ❔ |
+| [Autodesk](generated/companies/autodesk.md) | [Software Developer Intern](https://autodesk.wd1.myworkdayjobs.com/uni/job/Montreal-QC-CAN/Intern-Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD100398-1) | Montreal | Onsite | 2026-08-11 | Rolling | 🟢 Open | ❔ |
+| [Autodesk](generated/companies/autodesk.md) | [Software Developer Intern - Interactive Graphics, Media & Entertainment](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Intern-Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD100398-2) | Montreal | Onsite | 2026-08-11 | Rolling | 🟢 Open | ❔ |
 | [Axis Capital](generated/companies/axis-capital.md) | [Renewable Energy Engineer Intern](https://axiscapital.wd1.myworkdayjobs.com/axiscareers/job/London---Scalpel/Renewable-Energy-Engineering-Intern_REQ06664-1) | London | Onsite | 2026-07-28 | Rolling | 🟢 Open | ❔ |
 | [Axon](generated/companies/axon.md) | [Software Engineer Intern](https://job-boards.greenhouse.io/axontalentcommunity/jobs/7837133003) | Boston, MA +1 | Onsite | 2026-08-07 | Rolling | 🟢 Open | ❔ |
 | [Axon](generated/companies/axon.md) | [Software Engineering Intern](https://job-boards.greenhouse.io/axontalentcommunity/jobs/7800617003) | Boston, MA +1 | Onsite | 2026-07-21 | Rolling | 🟢 Open | ✅ |
@@ -592,6 +594,7 @@
 | [University of Nevada, Reno](generated/companies/university-of-nevada-reno.md) | [Web Development Intern - Marketing & Communications](https://nshe.wd1.myworkdayjobs.com/UNR-external/job/University-of-Nevada-Reno---Main-Campus/Student-Worker---Web-Development-Intern--Marketing---Communications_R0152288) | Reno, NV | Onsite | 2026-06-27 | Rolling | 🟢 Open | ❔ |
 | [University of Texas at Austin](generated/companies/university-of-texas-at-austin.md) | [Video and Analytics Intern - Baseball](https://utaustin.wd1.myworkdayjobs.com/utstudent/job/UT-MAIN-CAMPUS/Video-and-Analytics-Intern--Baseball_R_00047706) | Austin, TX | Onsite | 2026-07-30 | Rolling | 🟢 Open | ❔ |
 | [University of Virginia Investment Management Company (UVIMCO)](generated/companies/university-of-virginia-investment-management-company-uvimco.md) | [Investment Analyst Intern](https://job-boards.greenhouse.io/uvimco/jobs/5300713008) | Charlottesville, VA | Onsite | 2026-07-29 | Rolling | 🟢 Open | ❔ |
+| [University System of New Hampshire](generated/companies/university-system-of-new-hampshire.md) | [Robotics Intern](https://usnh.wd5.myworkdayjobs.com/Careers/job/University-of-New-Hampshire--Main-Campus/Research-Intern_JR8972) | Durham, NH | Onsite | 2026-08-11 | Rolling | 🟢 Open | ❔ |
 | [Valstad](generated/companies/valstad.md) | [Robotics Software Intern - Manipulation & Simulation](https://jobs.ashbyhq.com/valstad/8478558b-c5b5-43d2-b9c0-eae7a1fb30d8/application?embed=true) | Austin, TX | Onsite | 2026-08-05 | Rolling | 🟢 Open | ❔ |
 | [Valstad](generated/companies/valstad.md) | [Software Engineer Intern - 3D & Manufacturing Applications](https://jobs.ashbyhq.com/valstad/7ff6d452-969f-43a6-9127-d153025e6aea/application?embed=true) | Austin, TX | Onsite | 2026-08-05 | Rolling | 🟢 Open | ❔ |
 | [Varda Space](generated/companies/varda-space.md) | [Applications Engineer Intern](https://job-boards.greenhouse.io/vardaspace/jobs/7824822003) | El Segundo, CA | Onsite | 2026-08-07 | Rolling | 🟢 Open | ❔ |
@@ -876,6 +879,7 @@
 - Uline (5)
 - Akuna Capital (4)
 - Ambarella (4)
+- Autodesk (4)
 - Chevron Corporation (4)
 - Citadel (4)
 - Fab2 (4)
@@ -978,7 +982,6 @@
 - Western Digital (2)
 - WSP (2)
 - Accenture (2)
-- Autodesk (2)
 - BDO Canada (2)
 - Generac (2)
 - GeoComply (2)
@@ -1152,6 +1155,7 @@
 - University of Nevada, Reno (1)
 - University of Texas at Austin (1)
 - University of Virginia Investment Management Company (UVIMCO) (1)
+- University System of New Hampshire (1)
 - Veeam Software (1)
 - Vega Investment Technologies (1)
 - Verne Robotics (1)

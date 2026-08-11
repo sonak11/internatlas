@@ -33,7 +33,7 @@ _Generated 2026-08-11_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 835 | `█████████████` |
+| software-engineering | 838 | `█████████████` |
 | ai | 161 | `██` |
 | quant | 155 | `██` |
 | machine-learning | 117 | `██` |
@@ -49,6 +49,8 @@ _Generated 2026-08-11_
 
 ## Newest listings
 
+- 2026-08-11 — **Autodesk**: [Software Developer Intern](https://autodesk.wd1.myworkdayjobs.com/uni/job/Montreal-QC-CAN/Intern-Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD100398-1)
+- 2026-08-11 — **Autodesk**: [Software Developer Intern - Interactive Graphics, Media & Entertainment](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Intern-Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD100398-2)
 - 2026-08-11 — **Caddi Workflow Automation**: [Software Engineer Intern](https://apply.workable.com/trycaddi/j/9D1291C697/apply)
 - 2026-08-11 — **DV Trading**: [Software Engineer Intern](https://job-boards.greenhouse.io/dvtrading/jobs/4719119005)
 - 2026-08-11 — **DV Trading**: [Software Engineer Intern - DV Commodities](https://job-boards.greenhouse.io/dvtrading/jobs/4719125005)
@@ -61,14 +63,12 @@ _Generated 2026-08-11_
 - 2026-08-11 — **Truist Bank**: [Analyst Intern Conversion - Multiple Teams](https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/New-York-NY/XMLNAME-2027-Truist-Securities---Equity-S-T--Sales--Trading---Research----Analyst-Program--INTERN-CONVERSION-_R0117763-1)
 - 2026-08-11 — **Truist Bank**: [Analyst Intern - Equity Research - Sales, Trading & Research](https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Atlanta-GA/XMLNAME-2027-Truist-Securities---Equity-Research--Sales--Trading---Research----Analyst-Program--INTERN-CONVERSION-_R0117762-1)
 - 2026-08-11 — **Truist Bank**: [Fixed Income Loans S&T Intern - Sales, Trading & Research - Analyst Program](https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/New-York-NY/XMLNAME-2027-Truist-Securities---Fixed-Income-Loans-S-T--Sales--Trading---Research----Analyst-Program--INTERN-CONVERSION-_R0117765-1)
+- 2026-08-11 — **University System of New Hampshire**: [Robotics Intern](https://usnh.wd5.myworkdayjobs.com/Careers/job/University-of-New-Hampshire--Main-Campus/Research-Intern_JR8972)
 - 2026-08-10 — **Altamira Technologies**: [Research and Development Intern](https://jobs.jobvite.com/altamiracorps/job/oHqCAfw3?nl=1&nl=1&fr=false)
 - 2026-08-10 — **Altamira Technologies**: [Software Development Intern](https://jobs.jobvite.com/altamiracorps/job/oMqCAfw8?nl=1&nl=1&fr=false)
 - 2026-08-10 — **Atoms**: [Machine Learning PhD Software Engineer Intern](https://job-boards.greenhouse.io/cssmerge/jobs/8693034002)
 - 2026-08-10 — **Bank of Montreal**: [Investment Intern Co-op - Co-op/Internship](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Investment-Intern--Winter-2027--Co-op-Internship----4-months_R260023223)
 - 2026-08-10 — **Booz Allen**: [AI RAN Telecommunications Engineer Intern](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/AI-RAN-Telecommunications-Engineer-Intern_R0246415)
-- 2026-08-10 — **ByteDance**: [Agent Evaluation & Evolution Machine Learning Engineer Intern - Applied Machine Learning Ark](https://jobs.bytedance.com/en/position/7671096345243535669/detail)
-- 2026-08-10 — **ByteDance**: [Data Lake Infrastructure and Data Analytics Research Engineer Intern - Applied Machine Learning Ark](https://jobs.bytedance.com/en/position/7671109787509213445/detail)
-- 2026-08-10 — **ByteDance**: [Machine Learning Engineer Intern](https://jobs.bytedance.com/en/position/7671291260529821957/detail)
 
 ## Recently closed
 
@@ -112,7 +112,7 @@ _Generated 2026-08-11_
 - ByteDance — Research Scientist Intern - AI Infrastructure
 - ByteDance — Research Scientist Intern - AI Infrastructure
 - Canva — PhD Research Scientist Intern - Generative AI
-- Canva — PhD Research Scientist Intern - Reinforcement Learning for Diffusion Modelling
+- Canva — PhD Research Scientist Intern - Reinforcement Learning - Images
 - Capital One — Full Stack Software Engineer Intern
 - Capital One — Technology Intern
 - Carnegie Mellon University — Research Intern - School of Computer Science - Language Technologies Institute

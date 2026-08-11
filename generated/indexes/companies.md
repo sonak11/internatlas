@@ -65,7 +65,7 @@
 | [Astranis](../companies/astranis.md) | 7/11 | design, embedded, hardware, software-engineering |
 | [Atomic Semi](../companies/atomic-semi.md) | 6/6 | cloud, design, embedded, software-engineering |
 | [Atoms](../companies/atoms.md) | 3/3 | machine-learning, software-engineering |
-| [Autodesk](../companies/autodesk.md) | 4/9 | cloud, machine-learning, software-engineering |
+| [Autodesk](../companies/autodesk.md) | 6/11 | cloud, machine-learning, software-engineering |
 | [Avanade](../companies/avanade.md) | 0/1 | software-engineering |
 | [Axis Capital](../companies/axis-capital.md) | 1/1 | software-engineering |
 | [Axogen](../companies/axogen.md) | 0/1 | machine-learning |
@@ -538,6 +538,7 @@
 | [Uber](../companies/uber.md) | 1/1 | software-engineering |
 | [Uline](../companies/uline.md) | 6/6 | product, software-engineering |
 | [Uncountable](../companies/uncountable.md) | 1/1 | software-engineering |
+| [University System of New Hampshire](../companies/university-system-of-new-hampshire.md) | 1/1 | software-engineering |
 | [University of Nevada, Reno](../companies/university-of-nevada-reno.md) | 1/1 | software-engineering |
 | [University of Texas at Austin](../companies/university-of-texas-at-austin.md) | 1/1 | software-engineering |
 | [University of Virginia](../companies/university-of-virginia.md) | 0/1 | research |
