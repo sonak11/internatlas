@@ -1,20 +1,21 @@
 {
   "schema_version": "1.0",
-  "id": "altice-usa-data-engineer-intern-2026",
+  "id": "ccc-intelligent-solutions-data-science-intern-r-d-2026",
   "company": {
-    "name": "Altice USA",
-    "slug": "altice-usa"
+    "name": "CCC Intelligent Solutions",
+    "slug": "ccc-intelligent-solutions"
   },
-  "role": "Data Engineer Intern",
-  "category": "data-engineering",
-  "apply_url": "https://www.optimumcareers.com/job/Long-Island-City-Intern-Data-Engineer-NY-11101/1414286700/?ats=successfactors",
+  "role": "Data Science Intern - R&D",
+  "category": "data-science",
+  "apply_url": "https://cccis.wd1.myworkdayjobs.com/broadbean_external/job/Chicago-Green-St-IL/R-D---Data-Science-Internship-Fall-2026_0014841",
   "season": "fall",
   "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Long Island City",
-      "country": "Queens"
+      "city": "Chicago",
+      "state": "IL",
+      "country": "USA"
     }
   ],
   "compensation": {
@@ -25,7 +26,8 @@
   "eligibility": {
     "graduation_years": [],
     "degree_levels": [
-      "masters"
+      "masters",
+      "phd"
     ],
     "citizenship_required": false,
     "security_clearance_required": false,
@@ -41,8 +43,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-31",
-    "discovered": "2026-07-31",
+    "posted": "2026-08-11",
+    "discovered": "2026-08-11",
     "last_verified": "2026-08-11"
   },
   "status": "open",

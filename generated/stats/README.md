@@ -33,9 +33,9 @@ _Generated 2026-08-11_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 847 | `█████████████` |
+| software-engineering | 850 | `█████████████` |
 | ai | 162 | `██` |
-| quant | 158 | `██` |
+| quant | 159 | `██` |
 | machine-learning | 122 | `██` |
 | research | 91 | `█` |
 | hardware | 74 | `█` |
@@ -43,9 +43,9 @@ _Generated 2026-08-11_
 | product | 42 | `█` |
 | cloud | 37 | `█` |
 | design | 34 | `█` |
-| data-science | 25 | `█` |
+| data-science | 26 | `█` |
 | data-engineering | 20 | `█` |
-| security | 11 | `█` |
+| security | 12 | `█` |
 
 ## Newest listings
 
@@ -57,18 +57,18 @@ _Generated 2026-08-11_
 - 2026-08-11 — **ByteDance**: [Software Engineer Intern - AML-Engine-Orchestration](https://jobs.bytedance.com/en/position/7672386983965100341/detail)
 - 2026-08-11 — **ByteDance**: [Visual Generation & Multimodal Evaluation Machine Learning Engineer Intern - AML-ARK](https://jobs.bytedance.com/en/position/7672392998231050549/detail)
 - 2026-08-11 — **Caddi Workflow Automation**: [Software Engineer Intern](https://apply.workable.com/trycaddi/j/9D1291C697/apply)
+- 2026-08-11 — **CCC Intelligent Solutions**: [Data Science Intern - R&D](https://cccis.wd1.myworkdayjobs.com/broadbean_external/job/Chicago-Green-St-IL/R-D---Data-Science-Internship-Fall-2026_0014841)
 - 2026-08-11 — **Commence**: [Health Data Analyst Intern](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4408640)
+- 2026-08-11 — **ConocoPhillips**: [Trading Analytics Intern](https://conocophillips.wd1.myworkdayjobs.com/External/job/Houston-TX/Intern--Trading-Analytics-2027_REQ-006429)
 - 2026-08-11 — **Deloitte**: [AI and Data Engineering Summer Scholar Intern - Government & Public Services](https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Government-Public-Services-Summer-Scholar-AI-and-Data-Engineering/362479)
 - 2026-08-11 — **DV Trading**: [Software Engineer Intern](https://job-boards.greenhouse.io/dvtrading/jobs/4719119005)
 - 2026-08-11 — **DV Trading**: [Software Engineer Intern - DV Commodities](https://job-boards.greenhouse.io/dvtrading/jobs/4719125005)
+- 2026-08-11 — **Foxconn Industrial Internet**: [Data Visualization & Analytics Intern - Engineering](http://foxconnggroup.applytojob.com/apply/VZnsanT4LU/Engineering-Data-Visualization-Analytics-Intern)
+- 2026-08-11 — **Foxconn Industrial Internet**: [Software Engineer Intern - Engineering and Operations](http://foxconnggroup.applytojob.com/apply/xf0soVofyI/Software-Engineering-Intern)
+- 2026-08-11 — **General Dynamics Mission Systems**: [Cybersecurity Software Engineer Intern](https://careers-gdms.icims.com/jobs/74257/job?mobile=true&needsRedirect=false)
 - 2026-08-11 — **Kimley-Horn**: [Software Developer Intern](https://careers-kimley-horn.icims.com/jobs/25761/job?mobile=true&needsRedirect=false)
+- 2026-08-11 — **Motorola**: [Supply Chain Data Analyst Intern](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Supply-Chain-Data-Analyst-Internship-2027_R67489)
 - 2026-08-11 — **OceanComm**: [Electronics Technician Intern](https://apply.workable.com/oceancomm/j/AB7EE4F02B/apply)
-- 2026-08-11 — **OpusClip**: [AI Product Management Intern](https://jobs.ashbyhq.com/opusclip/501d374d-7d4f-4889-bc53-0a1fd16253ea/application?embed=true)
-- 2026-08-11 — **Quantbot Technologies**: [Data Trading Analyst Intern](https://www.quantbot.com/careers/4299767009?gh_jid=4299767009)
-- 2026-08-11 — **Quantbot Technologies**: [Machine Learning Research Engineer Intern](https://www.quantbot.com/careers/4340833009?gh_jid=4340833009)
-- 2026-08-11 — **Quantbot Technologies**: [Quantitative Developer Intern](https://www.quantbot.com/careers/4341038009?gh_jid=4341038009)
-- 2026-08-11 — **Quantbot Technologies**: [Quantitative Researcher Intern](https://www.quantbot.com/careers/4299496009?gh_jid=4299496009)
-- 2026-08-11 — **Quantbot Technologies**: [Software Engineer Intern](https://www.quantbot.com/careers/4299458009?gh_jid=4299458009)
 
 ## Recently closed
 
@@ -77,7 +77,6 @@ _Generated 2026-08-11_
 - Airbnb — Sales Operations Intern, Italy
 - Alljoined — Research Intern
 - Altasciences — Process Innovation Product Management Intern
-- Altice USA — Data Engineer Intern
 - Ambarella — Software Development Engineer Intern
 - American Enterprise Institute — Data Analysis & AI Policy Intern
 - American Express — Product Development Intern - Product Development - Consumer Services
@@ -91,7 +90,6 @@ _Generated 2026-08-11_
 - Astranis — FPGA Intern
 - Astranis — Hardware Design Intern - Software Defined Radio Team
 - Astranis — Reliability Design Intern
-- Atoms — Software Engineer Intern - Summer 2027
 - Autodesk — Cloud Developer Intern
 - Autodesk — Cloud Developer Intern
 - Autodesk — Software Developer Intern - Stagiaire en Développement Logiciel
@@ -189,7 +187,6 @@ _Generated 2026-08-11_
 - Intel — AI Applied Intern
 - Intel Corporation — AI Software Engineering PhD Intern
 - JINGDONG — Software Engineering Intern
-- JP Morgan Chase — Data & AI Intern - Analyst
 - KBR — National Security Solutions Intern - Nss
 - Keysight Technologies — R&D Software Engineer Intern
 - Kinaxis — Engineer Co-op/Intern - Data & Analytics
@@ -258,6 +255,7 @@ _Generated 2026-08-11_
 - RTX — Machine Learning Researcher Intern/Co-op
 - RTX — Software Engineer Intern
 - RTX — Software Engineer Intern
+- Samsung Research America — Digital Health Algorithms Intern
 - Samsung Research America — ML/NLP Research Intern
 - Sargent & Lundy — AI & Automation Intern - Summer 2027
 - Sargent & Lundy — Software Engineer Intern
@@ -295,6 +293,7 @@ _Generated 2026-08-11_
 - Tesla — Electronic Design Engineer Internship - Electronic Design Engineer - Electronic Systems
 - Tesla — Failure Analysis Engineer Intern - Failure Analysis Engineer - Energy Engineering
 - Tesla — Fullstack Engineer Intern - Fullstack Engineer - Build Infrastructure
+- Tesla — Machine Learning Engineer Intern - Machine Learning Engineer - Factory Software
 - Tesla — Machine Learning Platform Intern - Multiple Teams
 - Tesla — Mobile Applications Engineering Intern - Android Engineer - Mobile Software
 - Tesla — Operational Automation Software Engineer Intern - Operational Automation Engineer - Residential Energy
@@ -314,6 +313,7 @@ _Generated 2026-08-11_
 - Toshiba Global Commerce — Agentic Software Engineer Intern
 - Toshiba Global Commerce — AI Product Management Intern
 - Toshiba Global Commerce — Product & Business Analytics Intern
+- Truist Bank — Analyst Intern Conversion - Multiple Teams
 - Truland Equipment — Power Platform Intern
 - Two Six Technologies — China Subject Matter Expert Intern
 - University of Virginia — Graduate Research Intern

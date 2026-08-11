@@ -1,20 +1,21 @@
 {
   "schema_version": "1.0",
-  "id": "altice-usa-data-engineer-intern-2026",
+  "id": "foxconn-industrial-internet-data-visualization-analytics-intern-engineering-2026",
   "company": {
-    "name": "Altice USA",
-    "slug": "altice-usa"
+    "name": "Foxconn Industrial Internet",
+    "slug": "foxconn-industrial-internet"
   },
-  "role": "Data Engineer Intern",
-  "category": "data-engineering",
-  "apply_url": "https://www.optimumcareers.com/job/Long-Island-City-Intern-Data-Engineer-NY-11101/1414286700/?ats=successfactors",
+  "role": "Data Visualization & Analytics Intern - Engineering",
+  "category": "software-engineering",
+  "apply_url": "http://foxconnggroup.applytojob.com/apply/VZnsanT4LU/Engineering-Data-Visualization-Analytics-Intern",
   "season": "fall",
   "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Long Island City",
-      "country": "Queens"
+      "city": "Houston",
+      "state": "TX",
+      "country": "USA"
     }
   ],
   "compensation": {
@@ -41,8 +42,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-31",
-    "discovered": "2026-07-31",
+    "posted": "2026-08-11",
+    "discovered": "2026-08-11",
     "last_verified": "2026-08-11"
   },
   "status": "open",
