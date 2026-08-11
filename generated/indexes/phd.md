@@ -87,7 +87,6 @@
 | [Meta](generated/companies/meta.md) | [Research Scientist Intern - AI/ML - Core Ads Growth](https://www.metacareers.com/jobs/771948392580541) | London | Onsite | 2026-03-05 | Rolling | 🟢 Open | ❔ |
 | [Meta](generated/companies/meta.md) | [Research Scientist Intern - Applied Vision and Image Quality - PhD](https://www.metacareers.com/jobs/1422892385992613) | Redmond, WA | Onsite | 2026-03-05 | Rolling | 🟢 Open | ❔ |
 | [Meta](generated/companies/meta.md) | [Research Scientist Intern - Language & Multimodal Foundations](https://www.metacareers.com/jobs/24536664159369645) | Seattle, WA +2 | Onsite | 2026-05-05 | Rolling | 🟢 Open | ❔ |
-| [Meta](generated/companies/meta.md) | [Research Scientist Intern - Monetization Computer Vision](https://www.metacareers.com/jobs/2281218542616482) | Menlo Park, CA | Onsite | 2026-07-10 | Rolling | 🟢 Open | ❔ |
 | [Meta](generated/companies/meta.md) | [Research Scientist Intern - Monetization Generative AI - LLM](https://www.metacareers.com/jobs/2916726525182155) | Seattle, WA +3 | Onsite | 2026-03-05 | Rolling | 🟢 Open | ❔ |
 | [Meta](generated/companies/meta.md) | [Research Scientist Intern - Photorealistic Telepresence](https://www.metacareers.com/jobs/924149567345400) | London | Onsite | 2026-06-17 | Rolling | 🟢 Open | ❔ |
 | [Micron Technology](generated/companies/micron-technology.md) | [DRAM IP Circuits Design Engineer Intern - IP Development](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---DRAM-IP-Circuits-Design-Engineer_JR108471) | Boise, ID | Onsite | 2026-08-10 | Rolling | 🟢 Open | ❔ |
@@ -120,6 +119,7 @@
 | [Pony.ai](generated/companies/pony-ai.md) | [Research Intern - Deep Learning](https://apply.workable.com/pony-dot-ai/j/4C1F53EF5D/) | Fremont, CA | Onsite | 2026-07-27 | Rolling | 🟢 Open | ❔ |
 | [Postman](generated/companies/postman.md) | [AI Engineer Intern](https://job-boards.greenhouse.io/postman/jobs/7823417003) | Berkeley, CA | Onsite | 2026-08-01 | Rolling | 🟢 Open | ❔ |
 | [Quadrillion](generated/companies/quadrillion.md) | [Research Intern](https://jobs.ashbyhq.com/quadrillion-labs/579cef88-1dbf-45b5-a938-7ddc23505765/application?embed=true) | NYC | Onsite | 2026-07-21 | Rolling | 🟢 Open | ❔ |
+| [Quantbot Technologies](generated/companies/quantbot-technologies.md) | [Quantitative Researcher Intern](https://www.quantbot.com/careers/4299496009?gh_jid=4299496009) | NYC | Onsite | 2026-08-11 | Rolling | 🟢 Open | ❔ |
 | [Rippling](generated/companies/rippling.md) | [Machine Learning Software Engineer Intern](https://ats.rippling.com/rippling/jobs/82c13e8f-ae96-4c60-a872-c0ddf9eb0781) | SF | Onsite | 2026-06-05 | Rolling | 🟢 Open | ❔ |
 | [Rivian](generated/companies/rivian.md) | [Intern](https://careers.rivian.com/jobs/32355?icims=1) | Urbana, IL | Onsite | 2026-07-22 | Rolling | 🟢 Open | ❔ |
 | [Rivian](generated/companies/rivian.md) | [Machine Learning Compiler Intern - Machine Learning Compiler](https://careers.rivian.com/jobs/29851?icims=1) | Urbana, IL | Onsite | 2026-07-14 | Rolling | 🟢 Open | ❔ |
@@ -216,6 +216,7 @@
 | [Medpace](generated/companies/medpace.md) | [Feasibility Informatics Internship/Co-op](https://careers.medpace.com/jobs/12803?lang=en-us&icims=1) | Cincinnati, OH | Onsite | 2026-06-03 | Rolling | 🔴 Closed | ❔ |
 | [Medpace, Inc.](generated/companies/medpace-inc.md) | [Feasibility Informatics Intern/Co-op](https://careers.medpace.com/jobs/12566?lang=en-us&icims=1) | Cincinnati, OH | Onsite | 2026-02-03 | Rolling | 🔴 Closed | ❔ |
 | [Meta](generated/companies/meta.md) | [Research Scientist Intern - 3D Vision & World Simulation](https://www.metacareers.com/jobs/2839011673109571) | Redmond, WA | Onsite | 2026-07-07 | Rolling | 🔴 Closed | ❔ |
+| [Meta](generated/companies/meta.md) | [Research Scientist Intern - Monetization Computer Vision](https://www.metacareers.com/jobs/2281218542616482) | Menlo Park, CA | Onsite | 2026-07-10 | Rolling | 🔴 Closed | ❔ |
 | [Meta](generated/companies/meta.md) | [Research Scientist Intern - Multimodal Contextual AI](https://www.metacareers.com/jobs/2160167211413098) | Redmond, WA | Onsite | 2026-05-15 | Rolling | 🔴 Closed | ❔ |
 | [Meta](generated/companies/meta.md) | [Research Scientist Intern PhD - Applied Research](https://www.metacareers.com/jobs/2633206137040139) | Menlo Park, CA +2 | Onsite | 2026-03-05 | Rolling | 🔴 Closed | ❔ |
 | [National Laboratory of the Rockies](generated/companies/national-laboratory-of-the-rockies.md) | [Energy Data Analysis Intern](https://nrel.wd5.myworkdayjobs.com/NLR/job/Remote/Energy-Data-Analysis----Year-Round--Graduate-Internship_R14400) | Golden, CO | Onsite | 2026-07-13 | Rolling | 🔴 Closed | ❔ |

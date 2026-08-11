@@ -1,6 +1,6 @@
 {
   "generated": "2026-08-11",
-  "count": 1650,
+  "count": 1668,
   "internships": [
     {
       "schema_version": "1.0",
@@ -7130,7 +7130,7 @@
         "discovered": "2026-08-07",
         "last_verified": "2026-08-11"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -10580,6 +10580,60 @@
     },
     {
       "schema_version": "1.0",
+      "id": "bytedance-agent-evaluation-evolution-machine-learning-engineer-intern-2027-b5bc69",
+      "company": {
+        "name": "ByteDance",
+        "slug": "bytedance"
+      },
+      "role": "Agent Evaluation & Evolution Machine Learning Engineer Intern - Applied Machine Learning Ark",
+      "category": "machine-learning",
+      "apply_url": "https://jobs.bytedance.com/en/position/7672391300141877557/detail",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Seattle",
+          "state": "WA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-11",
+        "discovered": "2026-08-11",
+        "last_verified": "2026-08-11"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "bytedance-agent-evaluation-evolution-machine-learning-engineer-intern-2027",
       "company": {
         "name": "ByteDance",
@@ -11116,6 +11170,60 @@
     },
     {
       "schema_version": "1.0",
+      "id": "bytedance-data-lake-infrastructure-data-analytics-research-engineer-in-2027",
+      "company": {
+        "name": "ByteDance",
+        "slug": "bytedance"
+      },
+      "role": "Data Lake Infrastructure & Data Analytics Research Engineer Intern - Applied Machine Learning Ark",
+      "category": "machine-learning",
+      "apply_url": "https://jobs.bytedance.com/en/position/7672394389001816325/detail",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Seattle",
+          "state": "WA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-11",
+        "discovered": "2026-08-11",
+        "last_verified": "2026-08-11"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "bytedance-gpu-ai-application-system-software-engineer-intern-2027",
       "company": {
         "name": "ByteDance",
@@ -11266,6 +11374,60 @@
       "dates": {
         "posted": "2026-08-10",
         "discovered": "2026-08-10",
+        "last_verified": "2026-08-11"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "bytedance-machine-learning-engineer-intern-aml-engine-orchestration-2027",
+      "company": {
+        "name": "ByteDance",
+        "slug": "bytedance"
+      },
+      "role": "Machine Learning Engineer Intern - AML-Engine-Orchestration",
+      "category": "machine-learning",
+      "apply_url": "https://jobs.bytedance.com/en/position/7672382828525832501/detail",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Seattle",
+          "state": "WA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-11",
+        "discovered": "2026-08-11",
         "last_verified": "2026-08-11"
       },
       "status": "open",
@@ -12354,6 +12516,60 @@
     },
     {
       "schema_version": "1.0",
+      "id": "bytedance-software-engineer-intern-aml-engine-orchestration-2027-eb9cf9",
+      "company": {
+        "name": "ByteDance",
+        "slug": "bytedance"
+      },
+      "role": "Software Engineer Intern - AML-Engine-Orchestration",
+      "category": "software-engineering",
+      "apply_url": "https://jobs.bytedance.com/en/position/7672386983965100341/detail",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Seattle",
+          "state": "WA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-11",
+        "discovered": "2026-08-11",
+        "last_verified": "2026-08-11"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "bytedance-software-engineer-intern-aml-engine-orchestration-2027",
       "company": {
         "name": "ByteDance",
@@ -12610,6 +12826,60 @@
       "dates": {
         "posted": "2026-08-06",
         "discovered": "2026-08-06",
+        "last_verified": "2026-08-11"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "bytedance-visual-generation-multimodal-evaluation-machine-learning-eng-2027-c4e170",
+      "company": {
+        "name": "ByteDance",
+        "slug": "bytedance"
+      },
+      "role": "Visual Generation & Multimodal Evaluation Machine Learning Engineer Intern - AML-ARK",
+      "category": "machine-learning",
+      "apply_url": "https://jobs.bytedance.com/en/position/7672392998231050549/detail",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Seattle",
+          "state": "WA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-11",
+        "discovered": "2026-08-11",
         "last_verified": "2026-08-11"
       },
       "status": "open",
@@ -17369,6 +17639,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "city-of-manhattan-kansas-gis-planning-intern-2026",
+      "company": {
+        "name": "City of Manhattan Kansas",
+        "slug": "city-of-manhattan-kansas"
+      },
+      "role": "GIS Planning Intern",
+      "category": "software-engineering",
+      "apply_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4377573",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Manhattan",
+          "state": "KS",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-07",
+        "discovered": "2026-08-11",
+        "last_verified": "2026-08-11"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "cloudflare-accounting-intern-fall-2026-2027",
       "company": {
         "name": "Cloudflare",
@@ -17622,7 +17944,7 @@
         "discovered": "2026-07-31",
         "last_verified": "2026-08-11"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:ats"
@@ -19411,6 +19733,58 @@
         "last_verified": "2026-08-01"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "commence-health-data-analyst-intern-2026",
+      "company": {
+        "name": "Commence",
+        "slug": "commence"
+      },
+      "role": "Health Data Analyst Intern",
+      "category": "software-engineering",
+      "apply_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4408640",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Virginia Beach",
+          "state": "VA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-11",
+        "discovered": "2026-08-11",
+        "last_verified": "2026-08-11"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -21507,6 +21881,58 @@
         "last_verified": "2026-08-07"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "deloitte-ai-and-data-engineering-summer-scholar-intern-government-pub-2027",
+      "company": {
+        "name": "Deloitte",
+        "slug": "deloitte"
+      },
+      "role": "AI and Data Engineering Summer Scholar Intern - Government & Public Services",
+      "category": "ai",
+      "apply_url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Government-Public-Services-Summer-Scholar-AI-and-Data-Engineering/362479",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Austin",
+          "state": "TX",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-11",
+        "discovered": "2026-08-11",
+        "last_verified": "2026-08-11"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -38994,6 +39420,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "kimley-horn-software-developer-intern-2027",
+      "company": {
+        "name": "Kimley-Horn",
+        "slug": "kimley-horn"
+      },
+      "role": "Software Developer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://careers-kimley-horn.icims.com/jobs/25761/job?mobile=true&needsRedirect=false",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Cary",
+          "state": "NC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-11",
+        "discovered": "2026-08-11",
+        "last_verified": "2026-08-11"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "kinaxis-engineer-co-op-intern-data-analytics-2026",
       "company": {
         "name": "Kinaxis",
@@ -43047,7 +43525,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-11"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -43975,7 +44453,7 @@
         "discovered": "2026-08-05",
         "last_verified": "2026-08-11"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -54382,7 +54860,7 @@
         "discovered": "2026-08-10",
         "last_verified": "2026-08-11"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -56762,6 +57240,270 @@
       "tags": [
         "auto-ingested",
         "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "quantbot-technologies-data-trading-analyst-intern-2027",
+      "company": {
+        "name": "Quantbot Technologies",
+        "slug": "quantbot-technologies"
+      },
+      "role": "Data Trading Analyst Intern",
+      "category": "quant",
+      "apply_url": "https://www.quantbot.com/careers/4299767009?gh_jid=4299767009",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "NYC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-11",
+        "discovered": "2026-08-11",
+        "last_verified": "2026-08-11"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "quantbot-technologies-machine-learning-research-engineer-intern-2027",
+      "company": {
+        "name": "Quantbot Technologies",
+        "slug": "quantbot-technologies"
+      },
+      "role": "Machine Learning Research Engineer Intern",
+      "category": "machine-learning",
+      "apply_url": "https://www.quantbot.com/careers/4340833009?gh_jid=4340833009",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "NYC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-11",
+        "discovered": "2026-08-11",
+        "last_verified": "2026-08-11"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "quantbot-technologies-quantitative-developer-intern-2027",
+      "company": {
+        "name": "Quantbot Technologies",
+        "slug": "quantbot-technologies"
+      },
+      "role": "Quantitative Developer Intern",
+      "category": "quant",
+      "apply_url": "https://www.quantbot.com/careers/4341038009?gh_jid=4341038009",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "NYC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-11",
+        "discovered": "2026-08-11",
+        "last_verified": "2026-08-11"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "quantbot-technologies-quantitative-researcher-intern-2027",
+      "company": {
+        "name": "Quantbot Technologies",
+        "slug": "quantbot-technologies"
+      },
+      "role": "Quantitative Researcher Intern",
+      "category": "quant",
+      "apply_url": "https://www.quantbot.com/careers/4299496009?gh_jid=4299496009",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "NYC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters",
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-11",
+        "discovered": "2026-08-11",
+        "last_verified": "2026-08-11"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "quantbot-technologies-software-engineer-intern-2027",
+      "company": {
+        "name": "Quantbot Technologies",
+        "slug": "quantbot-technologies"
+      },
+      "role": "Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://www.quantbot.com/careers/4299458009?gh_jid=4299458009",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "NYC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-11",
+        "discovered": "2026-08-11",
+        "last_verified": "2026-08-11"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
       ]
     },
     {
@@ -60077,6 +60819,57 @@
     },
     {
       "schema_version": "1.0",
+      "id": "rtx-enterprise-extended-reality-intern-2027",
+      "company": {
+        "name": "RTX",
+        "slug": "rtx"
+      },
+      "role": "Enterprise Extended Reality Intern",
+      "category": "software-engineering",
+      "apply_url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-NY-REMOTE/Enterprise-Extended-Reality--XR--Intern--Summer-2027---Remote-_01865894",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "NYC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-11",
+        "discovered": "2026-08-11",
+        "last_verified": "2026-08-11"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "rtx-machine-learning-researcher-intern-co-op-2026",
       "company": {
         "name": "RTX",
@@ -60132,6 +60925,60 @@
     },
     {
       "schema_version": "1.0",
+      "id": "rtx-software-development-intern-summer-2027-2027",
+      "company": {
+        "name": "RTX",
+        "slug": "rtx"
+      },
+      "role": "Software Development Intern - Summer 2027",
+      "category": "software-engineering",
+      "apply_url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Development-Intern--Summer-2027-_01865635",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Tewksbury",
+          "state": "MA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-11",
+        "discovered": "2026-08-11",
+        "last_verified": "2026-08-11"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "rtx-software-engineer-intern-2027-3211dc",
       "company": {
         "name": "RTX",
@@ -60179,6 +61026,58 @@
         "last_verified": "2026-08-10"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "rtx-software-engineer-intern-2027-6e9169",
+      "company": {
+        "name": "RTX",
+        "slug": "rtx"
+      },
+      "role": "Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MN-BURNSVILLE-WEST--14300-Judicial-Rd--WEST-BLDG/Software-Engineering-Intern--2027-_01865474",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Burnsville",
+          "state": "MN",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-11",
+        "discovered": "2026-08-11",
+        "last_verified": "2026-08-11"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -60597,6 +61496,60 @@
       "dates": {
         "posted": "2026-08-04",
         "discovered": "2026-08-05",
+        "last_verified": "2026-08-11"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "rtx-software-engineering-intern-2027",
+      "company": {
+        "name": "RTX",
+        "slug": "rtx"
+      },
+      "role": "Software Engineering Intern",
+      "category": "software-engineering",
+      "apply_url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/Software-Engineering-Intern--Summer-2027-_01865025",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "El Segundo",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-11",
+        "discovered": "2026-08-11",
         "last_verified": "2026-08-11"
       },
       "status": "open",

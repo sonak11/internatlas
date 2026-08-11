@@ -10,8 +10,8 @@ _Generated 2026-08-11_
 |---|---|
 | TikTok | 116 |
 | Tesla | 107 |
+| ByteDance | 44 |
 | Jump Trading | 43 |
-| ByteDance | 39 |
 | Cloudflare | 28 |
 | SpaceX | 25 |
 | Susquehanna International Group (SIG) | 22 |
@@ -20,23 +20,23 @@ _Generated 2026-08-11_
 | Jane Street | 17 |
 | Palantir Technologies | 17 |
 | Rivian and Volkswagen Group Technologies | 16 |
+| RTX | 16 |
 | Meta | 15 |
 | Etched | 14 |
 | Microsoft | 14 |
 | Virtu Financial | 13 |
 | Ciena | 12 |
 | Optiver | 12 |
-| RTX | 12 |
 | Astranis | 11 |
 
 ## Listings by category
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 838 | `█████████████` |
-| ai | 161 | `██` |
-| quant | 155 | `██` |
-| machine-learning | 117 | `██` |
+| software-engineering | 847 | `█████████████` |
+| ai | 162 | `██` |
+| quant | 158 | `██` |
+| machine-learning | 122 | `██` |
 | research | 91 | `█` |
 | hardware | 74 | `█` |
 | embedded | 45 | `█` |
@@ -51,24 +51,24 @@ _Generated 2026-08-11_
 
 - 2026-08-11 — **Autodesk**: [Software Developer Intern](https://autodesk.wd1.myworkdayjobs.com/uni/job/Montreal-QC-CAN/Intern-Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD100398-1)
 - 2026-08-11 — **Autodesk**: [Software Developer Intern - Interactive Graphics, Media & Entertainment](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Intern-Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD100398-2)
+- 2026-08-11 — **ByteDance**: [Agent Evaluation & Evolution Machine Learning Engineer Intern - Applied Machine Learning Ark](https://jobs.bytedance.com/en/position/7672391300141877557/detail)
+- 2026-08-11 — **ByteDance**: [Data Lake Infrastructure & Data Analytics Research Engineer Intern - Applied Machine Learning Ark](https://jobs.bytedance.com/en/position/7672394389001816325/detail)
+- 2026-08-11 — **ByteDance**: [Machine Learning Engineer Intern - AML-Engine-Orchestration](https://jobs.bytedance.com/en/position/7672382828525832501/detail)
+- 2026-08-11 — **ByteDance**: [Software Engineer Intern - AML-Engine-Orchestration](https://jobs.bytedance.com/en/position/7672386983965100341/detail)
+- 2026-08-11 — **ByteDance**: [Visual Generation & Multimodal Evaluation Machine Learning Engineer Intern - AML-ARK](https://jobs.bytedance.com/en/position/7672392998231050549/detail)
 - 2026-08-11 — **Caddi Workflow Automation**: [Software Engineer Intern](https://apply.workable.com/trycaddi/j/9D1291C697/apply)
+- 2026-08-11 — **Commence**: [Health Data Analyst Intern](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4408640)
+- 2026-08-11 — **Deloitte**: [AI and Data Engineering Summer Scholar Intern - Government & Public Services](https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Government-Public-Services-Summer-Scholar-AI-and-Data-Engineering/362479)
 - 2026-08-11 — **DV Trading**: [Software Engineer Intern](https://job-boards.greenhouse.io/dvtrading/jobs/4719119005)
 - 2026-08-11 — **DV Trading**: [Software Engineer Intern - DV Commodities](https://job-boards.greenhouse.io/dvtrading/jobs/4719125005)
+- 2026-08-11 — **Kimley-Horn**: [Software Developer Intern](https://careers-kimley-horn.icims.com/jobs/25761/job?mobile=true&needsRedirect=false)
 - 2026-08-11 — **OceanComm**: [Electronics Technician Intern](https://apply.workable.com/oceancomm/j/AB7EE4F02B/apply)
 - 2026-08-11 — **OpusClip**: [AI Product Management Intern](https://jobs.ashbyhq.com/opusclip/501d374d-7d4f-4889-bc53-0a1fd16253ea/application?embed=true)
-- 2026-08-11 — **ResponsiveAds**: [Full-Stack Developer Intern - ResponsiveAds - Studio 4](https://apply.workable.com/responsiveads-inc/j/493EAC12D6/apply)
-- 2026-08-11 — **SkyGig**: [RFIC Design Intern](https://apply.workable.com/skygig/j/10A5A58F9E/apply)
-- 2026-08-11 — **Tesla**: [Applied AI Engineer Intern - AI Hardware](https://www.tesla.com/careers/search/job/279603)
-- 2026-08-11 — **TikTok**: [AI Safety Evaluation & Governance Product Manager Intern - Multiple Teams](https://lifeattiktok.com/search/7670529537944766773)
-- 2026-08-11 — **Truist Bank**: [Analyst Intern Conversion - Multiple Teams](https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/New-York-NY/XMLNAME-2027-Truist-Securities---Equity-S-T--Sales--Trading---Research----Analyst-Program--INTERN-CONVERSION-_R0117763-1)
-- 2026-08-11 — **Truist Bank**: [Analyst Intern - Equity Research - Sales, Trading & Research](https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Atlanta-GA/XMLNAME-2027-Truist-Securities---Equity-Research--Sales--Trading---Research----Analyst-Program--INTERN-CONVERSION-_R0117762-1)
-- 2026-08-11 — **Truist Bank**: [Fixed Income Loans S&T Intern - Sales, Trading & Research - Analyst Program](https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/New-York-NY/XMLNAME-2027-Truist-Securities---Fixed-Income-Loans-S-T--Sales--Trading---Research----Analyst-Program--INTERN-CONVERSION-_R0117765-1)
-- 2026-08-11 — **University System of New Hampshire**: [Robotics Intern](https://usnh.wd5.myworkdayjobs.com/Careers/job/University-of-New-Hampshire--Main-Campus/Research-Intern_JR8972)
-- 2026-08-10 — **Altamira Technologies**: [Research and Development Intern](https://jobs.jobvite.com/altamiracorps/job/oHqCAfw3?nl=1&nl=1&fr=false)
-- 2026-08-10 — **Altamira Technologies**: [Software Development Intern](https://jobs.jobvite.com/altamiracorps/job/oMqCAfw8?nl=1&nl=1&fr=false)
-- 2026-08-10 — **Atoms**: [Machine Learning PhD Software Engineer Intern](https://job-boards.greenhouse.io/cssmerge/jobs/8693034002)
-- 2026-08-10 — **Bank of Montreal**: [Investment Intern Co-op - Co-op/Internship](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Investment-Intern--Winter-2027--Co-op-Internship----4-months_R260023223)
-- 2026-08-10 — **Booz Allen**: [AI RAN Telecommunications Engineer Intern](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/AI-RAN-Telecommunications-Engineer-Intern_R0246415)
+- 2026-08-11 — **Quantbot Technologies**: [Data Trading Analyst Intern](https://www.quantbot.com/careers/4299767009?gh_jid=4299767009)
+- 2026-08-11 — **Quantbot Technologies**: [Machine Learning Research Engineer Intern](https://www.quantbot.com/careers/4340833009?gh_jid=4340833009)
+- 2026-08-11 — **Quantbot Technologies**: [Quantitative Developer Intern](https://www.quantbot.com/careers/4341038009?gh_jid=4341038009)
+- 2026-08-11 — **Quantbot Technologies**: [Quantitative Researcher Intern](https://www.quantbot.com/careers/4299496009?gh_jid=4299496009)
+- 2026-08-11 — **Quantbot Technologies**: [Software Engineer Intern](https://www.quantbot.com/careers/4299458009?gh_jid=4299458009)
 
 ## Recently closed
 
@@ -90,6 +90,7 @@ _Generated 2026-08-11_
 - Astranis — FPGA Intern
 - Astranis — Hardware Design Intern - Software Defined Radio Team
 - Astranis — Reliability Design Intern
+- Atoms — Software Engineer Intern - Summer 2027
 - Autodesk — Cloud Developer Intern
 - Autodesk — Cloud Developer Intern
 - Autodesk — Software Developer Intern - Stagiaire en Développement Logiciel
@@ -126,6 +127,7 @@ _Generated 2026-08-11_
 - Cirrus Logic — AI Business Analytics Co-op Intern
 - Cirrus Logic — Embedded Software AI Intern Co-op
 - City of Austin — Austin Aviation Undergraduate Intern - IT Business Systems Analyst
+- Cloudflare — Customer Advocacy Intern (Fall 2026)
 - Cloudflare — GRC Team Intern (Fall 2026)
 - Cloudflare — Marketing Events and Campaigns Intern (Fall 2026)
 - Cloudflare — Public Policy Intern
@@ -201,10 +203,12 @@ _Generated 2026-08-11_
 - Medpace, Inc. — Feasibility Informatics Intern/Co-op
 - Menasha Corporation — Material Innovation Center Intern
 - Menasha Corporation — Supply Chain Analytics Intern
+- Meta — Research Scientist Intern - Monetization Computer Vision
 - Meta — Research Scientist Intern - Multimodal Contextual AI
 - Meta — Research Scientist Intern PhD - Applied Research
 - Microchip Technology — Engineering Intern - Firmware Development
 - Microchip Technology — Power, Analog and Mixed-Signal IC Product Engineer Intern - Product Engineering
+- Micron Technology — Industrial Engineer Intern - Technology & Products Group - Global Industrial Engineering
 - Microsoft — Full-Stack Product Engineer Intern - Web + Services
 - Microsoft — Software Engineer: AI/ML & LLM Intern
 - Microsoft — Software Engineer Intern
@@ -230,6 +234,7 @@ _Generated 2026-08-11_
 - NVIDIA — PhD Research Intern - System Software and I/O Architecture
 - Outpost Technologies — Technical Marketing Intern - Analytics - Research & Automation
 - Output Biosciences — Research Intern - Machine Learning
+- PEAK6 — Trading Intern
 - Pennsylvania State University — AI/ML Research and Development Intern
 - Pennsylvania State University — Electronic Materials and Devices Engineer Intern - Electronic Materials and Devices
 - Pennsylvania State University — R&D Engineer Intern

@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🔬 Research Internships
 
-**91** tracked · **67** open now
+**91** tracked · **66** open now
 
 ## Current openings
 
@@ -41,7 +41,6 @@
 | [Jump Trading](generated/companies/jump-trading.md) | [Campus Crypto Researcher (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7362318) | London | Onsite | 2025-10-29 | Rolling | 🟢 Open | ❔ |
 | [Meta](generated/companies/meta.md) | [Research Scientist Intern - Applied Vision and Image Quality - PhD](https://www.metacareers.com/jobs/1422892385992613) | Redmond, WA | Onsite | 2026-03-05 | Rolling | 🟢 Open | ❔ |
 | [Meta](generated/companies/meta.md) | [Research Scientist Intern - Language & Multimodal Foundations](https://www.metacareers.com/jobs/24536664159369645) | Seattle, WA +2 | Onsite | 2026-05-05 | Rolling | 🟢 Open | ❔ |
-| [Meta](generated/companies/meta.md) | [Research Scientist Intern - Monetization Computer Vision](https://www.metacareers.com/jobs/2281218542616482) | Menlo Park, CA | Onsite | 2026-07-10 | Rolling | 🟢 Open | ❔ |
 | [Meta](generated/companies/meta.md) | [Research Scientist Intern - Photorealistic Telepresence](https://www.metacareers.com/jobs/924149567345400) | London | Onsite | 2026-06-17 | Rolling | 🟢 Open | ❔ |
 | [Meta](generated/companies/meta.md) | [Research Scientist Intern - State Estimation for Dexterous Manipulation](https://www.metacareers.com/jobs/2774289902955470) | Redmond, WA | Onsite | 2026-06-16 | Rolling | 🟢 Open | ❔ |
 | [Meta](generated/companies/meta.md) | [Research Scientist Intern, Advanced Materials for Soft Robotics (PhD)](https://www.metacareers.com/profile/job_details/25514049594874160) | Redmond, WA | Onsite | 2025-12-10 | Rolling | 🟢 Open | ❌ |
@@ -85,6 +84,7 @@
 | [General Motors](generated/companies/general-motors.md) | [Research and Development Intern - Research & Development](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2026-Fall-Intern---Research---Development_JR-202613027) | Warren, MI | Onsite | 2026-07-06 | Rolling | 🔴 Closed | ❔ |
 | [Integrity](generated/companies/integrity.md) | [Research Intern](https://integritymarketing.wd1.myworkdayjobs.com/en-US/Integrity/job/Minneapolis-MN/Research-Intern_JR4284) | Minneapolis, MN | Onsite | 2026-07-02 | Rolling | 🔴 Closed | ❔ |
 | [Meta](generated/companies/meta.md) | [Research Scientist Intern - 3D Vision & World Simulation](https://www.metacareers.com/jobs/2839011673109571) | Redmond, WA | Onsite | 2026-07-07 | Rolling | 🔴 Closed | ❔ |
+| [Meta](generated/companies/meta.md) | [Research Scientist Intern - Monetization Computer Vision](https://www.metacareers.com/jobs/2281218542616482) | Menlo Park, CA | Onsite | 2026-07-10 | Rolling | 🔴 Closed | ❔ |
 | [Meta](generated/companies/meta.md) | [Research Scientist Intern PhD - Applied Research](https://www.metacareers.com/jobs/2633206137040139) | Menlo Park, CA +2 | Onsite | 2026-03-05 | Rolling | 🔴 Closed | ❔ |
 | [Mistral AI](generated/companies/mistral-ai.md) | [Applied Scientist / Research Engineer Intern](https://jobs.ashbyhq.com/mtesting.ai/de46ba8b-00cb-4618-83df-66e15a78434e/application?embed=true) | London +1 | Onsite | 2026-07-21 | Rolling | 🔴 Closed | ❔ |
 | [Nationwide Children's Hospital](generated/companies/nationwide-children-s-hospital.md) | [Research Intern](https://nationwidechildrens.wd5.myworkdayjobs.com/en-US/NCHCareers/job/Main-Campus-Columbus-OH/Research-Intern_R-25571) | Columbus, OH | Onsite | 2026-07-04 | Rolling | 🔴 Closed | ❔ |

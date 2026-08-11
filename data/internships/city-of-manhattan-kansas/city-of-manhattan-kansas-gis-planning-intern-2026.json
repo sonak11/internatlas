@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "cloudflare-customer-advocacy-intern-fall-2026-2027",
+  "id": "city-of-manhattan-kansas-gis-planning-intern-2026",
   "company": {
-    "name": "Cloudflare",
-    "slug": "cloudflare",
-    "career_page": "https://www.cloudflare.com/careers"
+    "name": "City of Manhattan Kansas",
+    "slug": "city-of-manhattan-kansas"
   },
-  "role": "Customer Advocacy Intern (Fall 2026)",
+  "role": "GIS Planning Intern",
   "category": "software-engineering",
-  "apply_url": "https://boards.greenhouse.io/cloudflare/jobs/8093127?gh_jid=8093127",
-  "season": "summer",
-  "year": 2027,
+  "apply_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4377573",
+  "season": "fall",
+  "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "In-Office",
+      "city": "Manhattan",
+      "state": "KS",
       "country": "USA"
     }
   ],
@@ -40,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-31",
-    "discovered": "2026-07-31",
+    "posted": "2026-08-07",
+    "discovered": "2026-08-11",
     "last_verified": "2026-08-11"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
-    "src:ats"
+    "src:simplify"
   ]
 }

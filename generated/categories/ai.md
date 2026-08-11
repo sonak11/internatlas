@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🤖 AI Internships
 
-**161** tracked · **113** open now
+**162** tracked · **114** open now
 
 ## Current openings
 
@@ -36,6 +36,7 @@
 | [Commercial Metals](generated/companies/commercial-metals.md) | [AI Intern](https://jobs.cmc.com/job/Irving-AI-Intern-TX-75039/1410297800/?ats=successfactors) | Irving, TX | Onsite | 2026-07-17 | Rolling | 🟢 Open | ❔ |
 | [Cotiviti](generated/companies/cotiviti.md) | [Generative AI Research Engineer Intern](https://careers-cotiviti.icims.com/jobs/19341/job?mobile=true&needsRedirect=false) | Remote | Remote | 2026-06-16 | Rolling | 🟢 Open | ❔ |
 | [DataRobot](generated/companies/datarobot.md) | [Agentic AI Intern](https://datarobot.wd1.myworkdayjobs.com/en-US/DataRobot_External_Careers/job/Boston-Massachusetts-US/Agentic-AI-Intern_R-102729) | Remote | Remote | 2026-07-15 | Rolling | 🟢 Open | ❔ |
+| [Deloitte](generated/companies/deloitte.md) | [AI and Data Engineering Summer Scholar Intern - Government & Public Services](https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Government-Public-Services-Summer-Scholar-AI-and-Data-Engineering/362479) | Austin, TX | Onsite | 2026-08-11 | Rolling | 🟢 Open | ❔ |
 | [Delta Air Lines](generated/companies/delta-air-lines.md) | [Intern, Innovation - AI Engineering](https://delta.avature.net/en_US/careers/JobDetail?jobId=32774) | Atlanta, GA | Onsite | 2026-06-24 | Rolling | 🟢 Open | ❌ |
 | [EdgeTrace](generated/companies/edgetrace.md) | [AI Full-Stack Engineering Intern](https://www.workatastartup.com/jobs/86239) | San Mateo, CA | Onsite | 2025-12-09 | Rolling | 🟢 Open | ❔ |
 | [Egra](generated/companies/egra.md) | [AI Researcher Intern](https://jobs.ashbyhq.com/egra/6f295102-6330-4a9e-9fc4-9b414e620003/application?embed=true) | NYC | Onsite | 2026-07-21 | Rolling | 🟢 Open | ❔ |
@@ -204,6 +205,7 @@
 - Commercial Metals (1)
 - Cotiviti (1)
 - DataRobot (1)
+- Deloitte (1)
 - Delta Air Lines (1)
 - EdgeTrace (1)
 - Egra (1)

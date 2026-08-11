@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 📈 Quant Internships
 
-**155** tracked · **137** open now
+**158** tracked · **139** open now
 
 ## Current openings
 
@@ -92,9 +92,11 @@
 | [Optiver](generated/companies/optiver.md) | [Quantitative Research Intern](https://www.optiver.com/join-us/jobs/8451782002/?gh_jid=8451782002) | Austin, TX +2 | Onsite | 2026-07-01 | Rolling | 🟢 Open | ❔ |
 | [Optiver](generated/companies/optiver.md) | [Quantitative Research Intern](https://www.optiver.com/join-us/jobs/8451781002/?gh_jid=8451781002) | Chicago, IL | Onsite | 2026-07-01 | Rolling | 🟢 Open | ❔ |
 | [PEAK6](generated/companies/peak6.md) | [Trading Bootcamp Micro-Internship - Summer 2027](https://peak6group.wd1.myworkdayjobs.com/CapMan/job/Chicago-IL/Trading-Bootcamp-Micro-Internship---Summer-2027_JR105057) | Chicago, IL | Onsite | 2026-08-10 | Rolling | 🟢 Open | ❔ |
-| [PEAK6](generated/companies/peak6.md) | [Trading Intern](https://peak6group.wd1.myworkdayjobs.com/CapMan/job/Chicago-IL/Trading-Internship-for-Women-_JR105061) | Chicago, IL | Onsite | 2026-08-10 | Rolling | 🟢 Open | ❔ |
 | [Point72](generated/companies/point72.md) | [Quantitative Developer Intern](https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-developer-internship&jobCode=CSS-0012293) | New York, NY | Onsite | 2026-04-19 | Rolling | 🟢 Open | ❔ |
 | [Point72](generated/companies/point72.md) | [Quantitative Researcher Intern](https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-researcher-internship&jobCode=CSS-0012295) | New York, NY | Onsite | 2026-04-19 | Rolling | 🟢 Open | ❔ |
+| [Quantbot Technologies](generated/companies/quantbot-technologies.md) | [Data Trading Analyst Intern](https://www.quantbot.com/careers/4299767009?gh_jid=4299767009) | NYC | Onsite | 2026-08-11 | Rolling | 🟢 Open | ❔ |
+| [Quantbot Technologies](generated/companies/quantbot-technologies.md) | [Quantitative Developer Intern](https://www.quantbot.com/careers/4341038009?gh_jid=4341038009) | NYC | Onsite | 2026-08-11 | Rolling | 🟢 Open | ❔ |
+| [Quantbot Technologies](generated/companies/quantbot-technologies.md) | [Quantitative Researcher Intern](https://www.quantbot.com/careers/4299496009?gh_jid=4299496009) | NYC | Onsite | 2026-08-11 | Rolling | 🟢 Open | ❔ |
 | [Radix Trading](generated/companies/radix-trading.md) | [Quantitative Technologist Intern, C++](https://job-boards.greenhouse.io/radixuniversity/jobs/8500265002) | Chicago, IL | Onsite | 2026-07-24 | Rolling | 🟢 Open | ✅ |
 | [Rho](generated/companies/rho.md) | [Quantitative Analyst Intern](https://jobs.ashbyhq.com/rho/eb5c9709-ab43-4e9e-9c41-ccb122955fcf/application?embed=true) | NYC | Onsite | 2026-08-05 | Rolling | 🟢 Open | ❔ |
 | [Seven Research](generated/companies/seven-research.md) | [Quantitative Researcher Intern](https://job-boards.greenhouse.io/sevenresearch/jobs/4894946008) | NYC | Onsite | 2026-07-01 | Rolling | 🟢 Open | ❔ |
@@ -156,6 +158,7 @@
 | [Jump Trading](generated/companies/jump-trading.md) | [Campus Quantitative Researcher Intern](https://boards.greenhouse.io/embed/job_app?token=7982648) | Chicago, IL +1 | Onsite | 2026-07-08 | Rolling | 🔴 Closed | ❔ |
 | [NVIDIA](generated/companies/nvidia.md) | [Quantum Research Scientist Intern](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Quantum-Research-Scientist-Intern---Fall-2026_JR2018244) | Santa Clara, CA | Onsite | 2026-05-19 | Rolling | 🔴 Closed | ❔ |
 | [Optiver](generated/companies/optiver.md) | [Trading Automation and Operations Intern](https://www.optiver.com/join-us/jobs/8489582002/?gh_jid=8489582002) | Chicago, IL | Onsite | 2026-07-16 | Rolling | 🔴 Closed | ❔ |
+| [PEAK6](generated/companies/peak6.md) | [Trading Intern](https://peak6group.wd1.myworkdayjobs.com/CapMan/job/Chicago-IL/Trading-Internship-for-Women-_JR105061) | Chicago, IL | Onsite | 2026-08-10 | Rolling | 🔴 Closed | ❔ |
 | [Susquehanna International Group (SIG)](generated/companies/susquehanna-international-group-sig.md) | [Trading Operations Analyst Intern](https://careers-sig.icims.com/jobs/11244/job?mobile=true&needsRedirect=false) | USA | Onsite | 2026-07-30 | Rolling | 🔴 Closed | ❔ |
 | [T. Rowe Price](generated/companies/t-rowe-price.md) | [Global Trading Intern](https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Global-Trading-Internship-Program_82718) | Baltimore, MD | Onsite | 2026-07-23 | Rolling | 🔴 Closed | ❔ |
 | [T. Rowe Price](generated/companies/t-rowe-price.md) | [Quantitative Equity Investing Intern](https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Quantitative-Equity-Investing-Internship-Program_82699) | Baltimore, MD | Onsite | 2026-07-23 | Rolling | 🔴 Closed | ❔ |
@@ -176,6 +179,7 @@
 - Chicago Trading Company (4)
 - JP Morgan Chase (4)
 - DRW (3)
+- Quantbot Technologies (3)
 - Akuna Capital (2)
 - Anthelion Capital (2)
 - AQR Capital Management (2)

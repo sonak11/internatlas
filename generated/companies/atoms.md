@@ -7,8 +7,8 @@
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
 | Atoms | [Machine Learning PhD Software Engineer Intern](https://job-boards.greenhouse.io/cssmerge/jobs/8693034002) | Seattle, WA +3 | Onsite | 2026-08-10 | Rolling | 🟢 Open | ❔ |
-| Atoms | [Software Engineer Intern - Summer 2027](https://job-boards.greenhouse.io/cssmerge/jobs/8687896002) | Seattle, WA +4 | Onsite | 2026-08-07 | Rolling | 🟢 Open | ❔ |
 | Atoms | [Software Engineer Intern - Winter 2027](https://job-boards.greenhouse.io/cssmerge/jobs/8687915002) | Seattle, WA +4 | Onsite | 2026-08-06 | Rolling | 🟢 Open | ❔ |
+| Atoms | [Software Engineer Intern - Summer 2027](https://job-boards.greenhouse.io/cssmerge/jobs/8687896002) | Seattle, WA +4 | Onsite | 2026-08-07 | Rolling | 🔴 Closed | ❔ |
 
 ## Related
 

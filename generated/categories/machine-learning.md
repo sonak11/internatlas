@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🧠 Machine Learning Internships
 
-**117** tracked · **97** open now
+**122** tracked · **102** open now
 
 ## Current openings
 
@@ -11,13 +11,17 @@
 | [Amazon](generated/companies/amazon.md) | [Applied Science Intern - Reinforcement Learning & Optimization - Machine Learning](https://amazon.jobs/en/jobs/10394278/2026-fall-applied-science-internship-reinforcement-learning-optimization-machine-learning-united-states-phd-student-science-recruiting) | Palo Alto, CA +7 | Onsite | 2026-04-16 | Rolling | 🟢 Open | ❔ |
 | [Atoms](generated/companies/atoms.md) | [Machine Learning PhD Software Engineer Intern](https://job-boards.greenhouse.io/cssmerge/jobs/8693034002) | Seattle, WA +3 | Onsite | 2026-08-10 | Rolling | 🟢 Open | ❔ |
 | [Bot Auto](generated/companies/bot-auto.md) | [Deep Learning Engineer Intern](https://job-boards.greenhouse.io/botauto/jobs/5289440008) | Houston, TX | Onsite | 2026-07-02 | Rolling | 🟢 Open | ❔ |
+| [ByteDance](generated/companies/bytedance.md) | [Agent Evaluation & Evolution Machine Learning Engineer Intern - Applied Machine Learning Ark](https://jobs.bytedance.com/en/position/7672391300141877557/detail) | Seattle, WA | Onsite | 2026-08-11 | Rolling | 🟢 Open | ❔ |
 | [ByteDance](generated/companies/bytedance.md) | [Agent Evaluation & Evolution Machine Learning Engineer Intern - Applied Machine Learning Ark](https://jobs.bytedance.com/en/position/7671096345243535669/detail) | San Jose, CA | Onsite | 2026-08-10 | Rolling | 🟢 Open | ❔ |
 | [ByteDance](generated/companies/bytedance.md) | [Applied Machine Learning Production Engineer Intern](https://joinbytedance.com/search/7670009669494704437) | San Jose, CA | Onsite | 2026-08-06 | Rolling | 🟢 Open | ❔ |
 | [ByteDance](generated/companies/bytedance.md) | [Applied Machine Learning Production Engineer Intern - AML Production Engineer](https://jobs.bytedance.com/en/position/7670009669494704437/detail) | San Jose, CA | Onsite | 2026-08-06 | Rolling | 🟢 Open | ❔ |
+| [ByteDance](generated/companies/bytedance.md) | [Data Lake Infrastructure & Data Analytics Research Engineer Intern - Applied Machine Learning Ark](https://jobs.bytedance.com/en/position/7672394389001816325/detail) | Seattle, WA | Onsite | 2026-08-11 | Rolling | 🟢 Open | ❔ |
 | [ByteDance](generated/companies/bytedance.md) | [Data Lake Infrastructure and Data Analytics Research Engineer Intern - Applied Machine Learning Ark](https://jobs.bytedance.com/en/position/7671109787509213445/detail) | San Jose, CA | Onsite | 2026-08-10 | Rolling | 🟢 Open | ❔ |
 | [ByteDance](generated/companies/bytedance.md) | [Machine Learning Engineer Intern](https://jobs.bytedance.com/en/position/7671291260529821957/detail) | San Jose, CA | Onsite | 2026-08-10 | Rolling | 🟢 Open | ❔ |
+| [ByteDance](generated/companies/bytedance.md) | [Machine Learning Engineer Intern - AML-Engine-Orchestration](https://jobs.bytedance.com/en/position/7672382828525832501/detail) | Seattle, WA | Onsite | 2026-08-11 | Rolling | 🟢 Open | ❔ |
 | [ByteDance](generated/companies/bytedance.md) | [Machine Learning Research Scientist Intern - Seed AI for Science - Atomistic AI](https://jobs.bytedance.com/en/position/7670855041951795509/detail) | Seattle, WA | Onsite | 2026-08-07 | Rolling | 🟢 Open | ❔ |
 | [ByteDance](generated/companies/bytedance.md) | [Video/Image AI/ML Software Engineer Intern - Multimedia](https://jobs.bytedance.com/en/position/7670354329765464373/detail) | San Diego, CA | Onsite | 2026-08-06 | Rolling | 🟢 Open | ❔ |
+| [ByteDance](generated/companies/bytedance.md) | [Visual Generation & Multimodal Evaluation Machine Learning Engineer Intern - AML-ARK](https://jobs.bytedance.com/en/position/7672392998231050549/detail) | Seattle, WA | Onsite | 2026-08-11 | Rolling | 🟢 Open | ❔ |
 | [ByteDance](generated/companies/bytedance.md) | [Visual Generation & Multimodal Evaluation Machine Learning Engineer Intern - Aml-Ark](https://jobs.bytedance.com/en/position/7671105026009925893/detail) | San Jose, CA | Onsite | 2026-08-10 | Rolling | 🟢 Open | ❔ |
 | [Castleton Commodities International](generated/companies/castleton-commodities-international.md) | [Data Science Machine Learning Intern](https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Stamford-CT/Data-Science-Machine-Learning-Internship--Summer-2027-_R1344) | Houston, TX +2 | Onsite | 2026-07-21 | Rolling | 🟢 Open | ❔ |
 | [Castleton Commodities International](generated/companies/castleton-commodities-international.md) | [Data Science Machine Learning Intern](https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/London-UK/Data-Science-Machine-Learning-Internship--Summer-2027-_R1345) | London | Onsite | 2026-07-21 | Rolling | 🟢 Open | ❔ |
@@ -58,6 +62,7 @@
 | [PlusAI](generated/companies/plusai.md) | [Deep Learning Research Intern - Multimodal BEV Perception](https://jobs.lever.co/plus-2/2ee24f85-bfa1-47fc-bfe3-fd07521a7b62/apply) | Santa Clara, CA | Onsite | 2026-08-06 | Rolling | 🟢 Open | ❔ |
 | [pony.ai](generated/companies/pony-ai.md) | [Research Intern - Deep Learning](https://apply.workable.com/pony-dot-ai/j/4C1F53EF5D/apply) | Fremont, CA | Onsite | 2026-05-29 | Rolling | 🟢 Open | ❔ |
 | [Pony.ai](generated/companies/pony-ai.md) | [Research Intern - Deep Learning](https://apply.workable.com/pony-dot-ai/j/4C1F53EF5D/) | Fremont, CA | Onsite | 2026-07-27 | Rolling | 🟢 Open | ❔ |
+| [Quantbot Technologies](generated/companies/quantbot-technologies.md) | [Machine Learning Research Engineer Intern](https://www.quantbot.com/careers/4340833009?gh_jid=4340833009) | NYC | Onsite | 2026-08-11 | Rolling | 🟢 Open | ❔ |
 | [Rippling](generated/companies/rippling.md) | [Machine Learning Engineer Intern](https://ats.rippling.com/en-GB/rippling/jobs/ee1ec0b1-9a55-408d-979d-9c74f257e9ea) | San Francisco, CA | Onsite | 2025-06-07 | Rolling | 🟢 Open | ❔ |
 | [Rippling](generated/companies/rippling.md) | [Machine Learning Software Engineer Intern](https://ats.rippling.com/rippling/jobs/82c13e8f-ae96-4c60-a872-c0ddf9eb0781) | SF | Onsite | 2026-06-05 | Rolling | 🟢 Open | ❔ |
 | [Rivian](generated/companies/rivian.md) | [Machine Learning Compiler Intern - Machine Learning Compiler](https://careers.rivian.com/jobs/29851?icims=1) | Urbana, IL | Onsite | 2026-07-14 | Rolling | 🟢 Open | ❔ |
@@ -129,7 +134,7 @@
 ## Hiring companies
 
 - TikTok (30)
-- ByteDance (8)
+- ByteDance (12)
 - Tesla (8)
 - Jump Trading (4)
 - Epic Games (3)
@@ -166,6 +171,7 @@
 - PlusAI (1)
 - pony.ai (1)
 - Pony.ai (1)
+- Quantbot Technologies (1)
 - Rivian (1)
 - Seven Research (1)
 - SpreeAI (1)
