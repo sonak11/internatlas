@@ -19,8 +19,8 @@ _Generated 2026-08-11_
 | Neuralink | 20 |
 | Jane Street | 17 |
 | Palantir Technologies | 17 |
+| RTX | 17 |
 | Rivian and Volkswagen Group Technologies | 16 |
-| RTX | 16 |
 | Meta | 15 |
 | Etched | 14 |
 | Microsoft | 14 |
@@ -33,11 +33,11 @@ _Generated 2026-08-11_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 850 | `█████████████` |
-| ai | 162 | `██` |
-| quant | 159 | `██` |
+| software-engineering | 855 | `█████████████` |
+| ai | 163 | `██` |
+| quant | 161 | `██` |
 | machine-learning | 122 | `██` |
-| research | 91 | `█` |
+| research | 92 | `█` |
 | hardware | 74 | `█` |
 | embedded | 45 | `█` |
 | product | 42 | `█` |
@@ -51,6 +51,7 @@ _Generated 2026-08-11_
 
 - 2026-08-11 — **Autodesk**: [Software Developer Intern](https://autodesk.wd1.myworkdayjobs.com/uni/job/Montreal-QC-CAN/Intern-Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD100398-1)
 - 2026-08-11 — **Autodesk**: [Software Developer Intern - Interactive Graphics, Media & Entertainment](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Intern-Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD100398-2)
+- 2026-08-11 — **Booz Allen**: [AI RAN Telecommunications Engineer Intern](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/AI-RAN-Telecommunications-Engineer-Intern_R0246869)
 - 2026-08-11 — **ByteDance**: [Agent Evaluation & Evolution Machine Learning Engineer Intern - Applied Machine Learning Ark](https://jobs.bytedance.com/en/position/7672391300141877557/detail)
 - 2026-08-11 — **ByteDance**: [Data Lake Infrastructure & Data Analytics Research Engineer Intern - Applied Machine Learning Ark](https://jobs.bytedance.com/en/position/7672394389001816325/detail)
 - 2026-08-11 — **ByteDance**: [Machine Learning Engineer Intern - AML-Engine-Orchestration](https://jobs.bytedance.com/en/position/7672382828525832501/detail)
@@ -67,8 +68,7 @@ _Generated 2026-08-11_
 - 2026-08-11 — **Foxconn Industrial Internet**: [Software Engineer Intern - Engineering and Operations](http://foxconnggroup.applytojob.com/apply/xf0soVofyI/Software-Engineering-Intern)
 - 2026-08-11 — **General Dynamics Mission Systems**: [Cybersecurity Software Engineer Intern](https://careers-gdms.icims.com/jobs/74257/job?mobile=true&needsRedirect=false)
 - 2026-08-11 — **Kimley-Horn**: [Software Developer Intern](https://careers-kimley-horn.icims.com/jobs/25761/job?mobile=true&needsRedirect=false)
-- 2026-08-11 — **Motorola**: [Supply Chain Data Analyst Intern](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Supply-Chain-Data-Analyst-Internship-2027_R67489)
-- 2026-08-11 — **OceanComm**: [Electronics Technician Intern](https://apply.workable.com/oceancomm/j/AB7EE4F02B/apply)
+- 2026-08-11 — **Metropolitan Transportation Authority**: [Data Analyst Intern](https://jobs.jobvite.com/metropolitantransportationauthority/job/oecDAfwn?nl=1&nl=1&fr=false)
 
 ## Recently closed
 
@@ -182,6 +182,7 @@ _Generated 2026-08-11_
 - IMC Trading — 2027 - Quant Research Intern - BITS Pilani
 - IMC Trading — 2027 - Software Engineering Intern - BITS Pilani
 - InfiniteQuant — Quantitative Researcher Intern
+- ING — Technology Intern - Innovation
 - Inogen — Firmware Engineer Intern
 - Integrity — Research Intern
 - Intel — AI Applied Intern
@@ -197,6 +198,7 @@ _Generated 2026-08-11_
 - LexisNexis Risk Solutions — Editorial Data Reporting Intern
 - Littelfuse — Intern 1 - Engineering
 - Loop — Data Scientist Intern
+- Lumentum — Optical Verification Technician Co-op Intern
 - Medpace — Feasibility Informatics Internship/Co-op
 - Medpace, Inc. — Feasibility Informatics Intern/Co-op
 - Menasha Corporation — Material Innovation Center Intern
@@ -214,6 +216,7 @@ _Generated 2026-08-11_
 - Microsoft — Software Engineer Intern - Data Platform & Analytics
 - Microsoft — Software Engineer Security & Identity Intern
 - Midmark — Firmware Engineering Intern/Co-op
+- Mistral AI — AI Data Solutions Intern - Data Partnerships
 - Monogram — Software Engineer Intern
 - Moog — Software Engineer Intern
 - Moss & Associates — Construction Technologies Intern

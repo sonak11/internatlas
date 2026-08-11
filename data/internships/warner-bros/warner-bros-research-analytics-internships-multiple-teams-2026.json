@@ -1,19 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "ing-technology-intern-innovation-2027",
+  "id": "warner-bros-research-analytics-internships-multiple-teams-2026",
   "company": {
-    "name": "ING",
-    "slug": "ing"
+    "name": "Warner Bros.",
+    "slug": "warner-bros"
   },
-  "role": "Technology Intern - Innovation",
-  "category": "software-engineering",
-  "apply_url": "https://ing.wd3.myworkdayjobs.com/icsgblcor/job/New-York/Summer-2027-Internship---Tech--Innovation-_REQ-10119619",
-  "season": "summer",
-  "year": 2027,
+  "role": "Research & Analytics Internships - Multiple Teams",
+  "category": "research",
+  "apply_url": "https://warnerbros.wd5.myworkdayjobs.com/global/job/GA-Atlanta-1050-Techwood-Drive-NW/Research---Analytics-Internships--ATL---Fall-2026_R000107483",
+  "season": "fall",
+  "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "NYC",
+      "city": "Atlanta",
+      "state": "GA",
       "country": "USA"
     }
   ],
@@ -39,11 +40,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-10",
-    "discovered": "2026-08-10",
+    "posted": "2026-08-11",
+    "discovered": "2026-08-11",
     "last_verified": "2026-08-11"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

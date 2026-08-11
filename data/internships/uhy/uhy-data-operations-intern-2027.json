@@ -1,19 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "ing-technology-intern-innovation-2027",
+  "id": "uhy-data-operations-intern-2027",
   "company": {
-    "name": "ING",
-    "slug": "ing"
+    "name": "UHY",
+    "slug": "uhy"
   },
-  "role": "Technology Intern - Innovation",
+  "role": "Data Operations Intern",
   "category": "software-engineering",
-  "apply_url": "https://ing.wd3.myworkdayjobs.com/icsgblcor/job/New-York/Summer-2027-Internship---Tech--Innovation-_REQ-10119619",
-  "season": "summer",
+  "apply_url": "https://uhyus.wd12.myworkdayjobs.com/uhy/job/Kansas-City-MO/XMLNAME-2027-Data-Operations-Winter-Internship---Kansas-City_JR102226",
+  "season": "winter",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "NYC",
+      "city": "Kansas City",
+      "state": "MO",
       "country": "USA"
     }
   ],
@@ -39,11 +40,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-10",
-    "discovered": "2026-08-10",
+    "posted": "2026-08-11",
+    "discovered": "2026-08-11",
     "last_verified": "2026-08-11"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

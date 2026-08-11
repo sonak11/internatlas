@@ -1,19 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "ing-technology-intern-innovation-2027",
+  "id": "booz-allen-ai-ran-telecommunications-engineer-intern-2027",
   "company": {
-    "name": "ING",
-    "slug": "ing"
+    "name": "Booz Allen",
+    "slug": "booz-allen"
   },
-  "role": "Technology Intern - Innovation",
-  "category": "software-engineering",
-  "apply_url": "https://ing.wd3.myworkdayjobs.com/icsgblcor/job/New-York/Summer-2027-Internship---Tech--Innovation-_REQ-10119619",
+  "role": "AI RAN Telecommunications Engineer Intern",
+  "category": "ai",
+  "apply_url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/AI-RAN-Telecommunications-Engineer-Intern_R0246869",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "NYC",
+      "city": "McLean",
+      "state": "VA",
       "country": "USA"
     }
   ],
@@ -24,7 +25,9 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "masters"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -39,11 +42,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-10",
-    "discovered": "2026-08-10",
+    "posted": "2026-08-11",
+    "discovered": "2026-08-11",
     "last_verified": "2026-08-11"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

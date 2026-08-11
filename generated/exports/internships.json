@@ -1,6 +1,6 @@
 {
   "generated": "2026-08-11",
-  "count": 1674,
+  "count": 1683,
   "internships": [
     {
       "schema_version": "1.0",
@@ -9670,6 +9670,60 @@
       "dates": {
         "posted": "2026-08-10",
         "discovered": "2026-08-10",
+        "last_verified": "2026-08-11"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "booz-allen-ai-ran-telecommunications-engineer-intern-2027",
+      "company": {
+        "name": "Booz Allen",
+        "slug": "booz-allen"
+      },
+      "role": "AI RAN Telecommunications Engineer Intern",
+      "category": "ai",
+      "apply_url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/AI-RAN-Telecommunications-Engineer-Intern_R0246869",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "McLean",
+          "state": "VA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-11",
+        "discovered": "2026-08-11",
         "last_verified": "2026-08-11"
       },
       "status": "open",
@@ -34488,7 +34542,7 @@
         "discovered": "2026-08-10",
         "last_verified": "2026-08-11"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -41157,7 +41211,7 @@
         "discovered": "2026-08-05",
         "last_verified": "2026-08-11"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -44144,6 +44198,59 @@
     },
     {
       "schema_version": "1.0",
+      "id": "metropolitan-transportation-authority-data-analyst-intern-2026-0589d0",
+      "company": {
+        "name": "Metropolitan Transportation Authority",
+        "slug": "metropolitan-transportation-authority"
+      },
+      "role": "Data Analyst Intern",
+      "category": "software-engineering",
+      "apply_url": "https://jobs.jobvite.com/metropolitantransportationauthority/job/oecDAfwn?nl=1&nl=1&fr=false",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "NYC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-11",
+        "discovered": "2026-08-11",
+        "last_verified": "2026-08-11"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "metropolitan-transportation-authority-data-analyst-intern-2026",
       "company": {
         "name": "Metropolitan Transportation Authority",
@@ -45613,7 +45720,7 @@
         "discovered": "2026-07-24",
         "last_verified": "2026-08-11"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -57616,6 +57723,59 @@
     },
     {
       "schema_version": "1.0",
+      "id": "quantbot-technologies-data-trading-analyst-intern-data-trading-lab-2027",
+      "company": {
+        "name": "Quantbot Technologies",
+        "slug": "quantbot-technologies"
+      },
+      "role": "Data Trading Analyst Intern - Data Trading Lab",
+      "category": "quant",
+      "apply_url": "https://www.quantbot.com/careers/4299858009?gh_jid=4299858009",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "London",
+          "country": "UK"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-11",
+        "discovered": "2026-08-11",
+        "last_verified": "2026-08-11"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "quantbot-technologies-machine-learning-research-engineer-intern-2027",
       "company": {
         "name": "Quantbot Technologies",
@@ -57693,6 +57853,60 @@
         "graduation_years": [],
         "degree_levels": [
           "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-11",
+        "discovered": "2026-08-11",
+        "last_verified": "2026-08-11"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "quantbot-technologies-quantitative-researcher-intern-2027-570f76",
+      "company": {
+        "name": "Quantbot Technologies",
+        "slug": "quantbot-technologies"
+      },
+      "role": "Quantitative Researcher Intern",
+      "category": "quant",
+      "apply_url": "https://www.quantbot.com/careers/4299863009?gh_jid=4299863009",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "London",
+          "country": "UK"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters",
+          "phd"
         ],
         "citizenship_required": false,
         "security_clearance_required": false,
@@ -61138,6 +61352,60 @@
     },
     {
       "schema_version": "1.0",
+      "id": "rtx-electro-optical-systems-technician-intern-an-zsq-2-2026",
+      "company": {
+        "name": "RTX",
+        "slug": "rtx"
+      },
+      "role": "Electro-Optical Systems Technician Intern - AN/ZSQ-2",
+      "category": "software-engineering",
+      "apply_url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-KY-FORT-CAMPBELL-7228NS-CUST--7228-Nightstalker-Wy--BLDG-6882-Rm-210-External-Site/SkillBridge--AN-ZSQ-2-Electro-Optical-Systems-Depot-Technician-Intern_01865923",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Fort Campbell",
+          "state": "KY",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-11",
+        "discovered": "2026-08-11",
+        "last_verified": "2026-08-11"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "rtx-enterprise-extended-reality-intern-2027",
       "company": {
         "name": "RTX",
@@ -62082,6 +62350,62 @@
         "last_verified": "2026-07-24"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "salesforce-software-engineer-intern-future-pathways-2026",
+      "company": {
+        "name": "Salesforce",
+        "slug": "salesforce"
+      },
+      "role": "Software Engineer Intern - Future Pathways",
+      "category": "software-engineering",
+      "apply_url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-Intern---Future-Pathways_JR355842",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Seattle",
+          "state": "WA",
+          "country": "USA"
+        },
+        {
+          "city": "SF",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-11",
+        "discovered": "2026-08-11",
+        "last_verified": "2026-08-11"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -63418,6 +63742,57 @@
         "last_verified": "2026-07-31"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "sentry-software-engineer-intern-summer-2027-2027",
+      "company": {
+        "name": "Sentry",
+        "slug": "sentry"
+      },
+      "role": "Software Engineer Intern - Summer 2027",
+      "category": "software-engineering",
+      "apply_url": "https://jobs.ashbyhq.com/sentry/672e2a76-d8e1-49c1-b227-4a189c4e49a1/application?embed=true",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "SF",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-11",
+        "discovered": "2026-08-11",
+        "last_verified": "2026-08-11"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -85774,6 +86149,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "uhy-data-operations-intern-2027",
+      "company": {
+        "name": "UHY",
+        "slug": "uhy"
+      },
+      "role": "Data Operations Intern",
+      "category": "software-engineering",
+      "apply_url": "https://uhyus.wd12.myworkdayjobs.com/uhy/job/Kansas-City-MO/XMLNAME-2027-Data-Operations-Winter-Internship---Kansas-City_JR102226",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Kansas City",
+          "state": "MO",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-11",
+        "discovered": "2026-08-11",
+        "last_verified": "2026-08-11"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "uline-business-intelligence-developer-intern-2027",
       "company": {
         "name": "Uline",
@@ -89133,6 +89560,58 @@
       "dates": {
         "posted": "2026-08-08",
         "discovered": "2026-08-08",
+        "last_verified": "2026-08-11"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "warner-bros-research-analytics-internships-multiple-teams-2026",
+      "company": {
+        "name": "Warner Bros.",
+        "slug": "warner-bros"
+      },
+      "role": "Research & Analytics Internships - Multiple Teams",
+      "category": "research",
+      "apply_url": "https://warnerbros.wd5.myworkdayjobs.com/global/job/GA-Atlanta-1050-Techwood-Drive-NW/Research---Analytics-Internships--ATL---Fall-2026_R000107483",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Atlanta",
+          "state": "GA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-11",
+        "discovered": "2026-08-11",
         "last_verified": "2026-08-11"
       },
       "status": "open",

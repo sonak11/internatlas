@@ -1,15 +1,15 @@
 {
   "schema_version": "1.0",
-  "id": "ing-technology-intern-innovation-2027",
+  "id": "metropolitan-transportation-authority-data-analyst-intern-2026-0589d0",
   "company": {
-    "name": "ING",
-    "slug": "ing"
+    "name": "Metropolitan Transportation Authority",
+    "slug": "metropolitan-transportation-authority"
   },
-  "role": "Technology Intern - Innovation",
+  "role": "Data Analyst Intern",
   "category": "software-engineering",
-  "apply_url": "https://ing.wd3.myworkdayjobs.com/icsgblcor/job/New-York/Summer-2027-Internship---Tech--Innovation-_REQ-10119619",
-  "season": "summer",
-  "year": 2027,
+  "apply_url": "https://jobs.jobvite.com/metropolitantransportationauthority/job/oecDAfwn?nl=1&nl=1&fr=false",
+  "season": "fall",
+  "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
@@ -24,7 +24,9 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "masters"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -39,11 +41,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-10",
-    "discovered": "2026-08-10",
+    "posted": "2026-08-11",
+    "discovered": "2026-08-11",
     "last_verified": "2026-08-11"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"
