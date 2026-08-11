@@ -210,6 +210,7 @@ _Generated 2026-08-11_
 - Microsoft — Software Engineer Intern
 - Microsoft — Software Engineer Intern - Cloud & Distributed Backend
 - Microsoft — Software Engineer Intern - Data Platform & Analytics
+- Microsoft — Software Engineer Security & Identity Intern
 - Midmark — Firmware Engineering Intern/Co-op
 - Monogram — Software Engineer Intern
 - Moog — Software Engineer Intern
@@ -227,7 +228,6 @@ _Generated 2026-08-11_
 - NVIDIA — Applied Deep Learning PhD Research Intern - Reinforcement Learning for LLMs
 - NVIDIA — Performance Engineer Intern, Systems Software
 - NVIDIA — PhD Research Intern - System Software and I/O Architecture
-- Odin Dynamics, Inc — Engineering Intern
 - Outpost Technologies — Technical Marketing Intern - Analytics - Research & Automation
 - Output Biosciences — Research Intern - Machine Learning
 - Pennsylvania State University — AI/ML Research and Development Intern
@@ -252,7 +252,6 @@ _Generated 2026-08-11_
 - RTX — Machine Learning Researcher Intern/Co-op
 - RTX — Software Engineer Intern
 - RTX — Software Engineer Intern
-- RTX — Systems Engineer 1 Intern - Intern Conversion
 - Samsung Research America — ML/NLP Research Intern
 - Sargent & Lundy — AI & Automation Intern - Summer 2027
 - Sargent & Lundy — Software Engineer Intern
@@ -296,6 +295,7 @@ _Generated 2026-08-11_
 - Tesla — Software Engineer Intern - Fullstack Software Engineer - Fleetnet
 - Tesla — Software Engineer Intern - Software Engineer Opticaster - Energy Engineering
 - Tesla — Software Integration Engineer Intern - Software Integration Engineer - Service Tooling
+- Texas Permanent School Fund Corporation — Equity Capital Markets Intern
 - The Home Depot — AI Engineer Intern
 - The Mosaic Company — Cybersecurity Co-Op/Intern
 - TikTok — Machine Learning Engineer Intern - App Ads

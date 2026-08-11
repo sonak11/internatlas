@@ -318,7 +318,7 @@
 | [Metropolitan Transportation Authority](../companies/metropolitan-transportation-authority.md) | 2/2 | software-engineering |
 | [Microchip Technology](../companies/microchip-technology.md) | 2/5 | embedded, software-engineering |
 | [Micron Technology](../companies/micron-technology.md) | 4/4 | design, software-engineering |
-| [Microsoft](../companies/microsoft.md) | 9/14 | cloud, machine-learning, product, security, software-engineering |
+| [Microsoft](../companies/microsoft.md) | 8/14 | cloud, machine-learning, product, security, software-engineering |
 | [Midmark](../companies/midmark.md) | 0/1 | embedded |
 | [Mindsmith](../companies/mindsmith.md) | 1/1 | software-engineering |
 | [Mistral AI](../companies/mistral-ai.md) | 2/3 | ai, research |
@@ -368,7 +368,7 @@
 | [Nuro](../companies/nuro.md) | 1/1 | ai |
 | [Obsidian Solutions Group](../companies/obsidian-solutions-group.md) | 1/1 | software-engineering |
 | [OceanComm](../companies/oceancomm.md) | 1/1 | software-engineering |
-| [Odin Dynamics, Inc](../companies/odin-dynamics-inc.md) | 0/1 | software-engineering |
+| [Odin Dynamics, Inc](../companies/odin-dynamics-inc.md) | 1/1 | software-engineering |
 | [Old Mission](../companies/old-mission.md) | 1/1 | software-engineering |
 | [Oligo Space](../companies/oligo-space.md) | 1/1 | machine-learning |
 | [Open Road Integrated Media](../companies/open-road-integrated-media.md) | 1/1 | software-engineering |
@@ -416,7 +416,7 @@
 | [RFCUNY](../companies/rfcuny.md) | 2/2 | software-engineering |
 | [RLI](../companies/rli.md) | 1/1 | product |
 | [ROCKWOOL Group](../companies/rockwool-group.md) | 0/2 | product, software-engineering |
-| [RTX](../companies/rtx.md) | 8/12 | machine-learning, software-engineering |
+| [RTX](../companies/rtx.md) | 9/12 | machine-learning, software-engineering |
 | [Radix Trading](../companies/radix-trading.md) | 1/1 | quant |
 | [Rainmaker](../companies/rainmaker.md) | 0/1 | software-engineering |
 | [Rakuten International](../companies/rakuten-international.md) | 0/1 | software-engineering |
@@ -508,7 +508,7 @@
 | [Tesla](../companies/tesla.md) | 91/107 | ai, cloud, data-engineering, design, embedded, hardware, machine-learning, product, security, software-engineering |
 | [Tessera Labs](../companies/tessera-labs.md) | 1/1 | product |
 | [Texas Instruments](../companies/texas-instruments.md) | 1/1 | software-engineering |
-| [Texas Permanent School Fund Corporation](../companies/texas-permanent-school-fund-corporation.md) | 1/1 | software-engineering |
+| [Texas Permanent School Fund Corporation](../companies/texas-permanent-school-fund-corporation.md) | 0/1 | software-engineering |
 | [The Boeing Company](../companies/the-boeing-company.md) | 2/2 | software-engineering |
 | [The Federal Reserve System](../companies/the-federal-reserve-system.md) | 1/2 | software-engineering |
 | [The Home Depot](../companies/the-home-depot.md) | 0/1 | ai |
