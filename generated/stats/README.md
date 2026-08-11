@@ -205,7 +205,10 @@ _Generated 2026-08-11_
 - Meta — Research Scientist Intern PhD - Applied Research
 - Microchip Technology — Engineering Intern - Firmware Development
 - Microchip Technology — Power, Analog and Mixed-Signal IC Product Engineer Intern - Product Engineering
+- Microsoft — Full-Stack Product Engineer Intern - Web + Services
+- Microsoft — Software Engineer: AI/ML & LLM Intern
 - Microsoft — Software Engineer Intern
+- Microsoft — Software Engineer Intern - Cloud & Distributed Backend
 - Midmark — Firmware Engineering Intern/Co-op
 - Monogram — Software Engineer Intern
 - Moog — Software Engineer Intern
@@ -290,6 +293,7 @@ _Generated 2026-08-11_
 - Tesla — Software Engineer Intern - Fullstack Software Engineer - Fleetnet
 - Tesla — Software Engineer Intern - Software Engineer Opticaster - Energy Engineering
 - Tesla — Software Integration Engineer Intern - Software Integration Engineer - Service Tooling
+- The Federal Reserve System — Graduate Statistical Analysis Intern - Regional & Community Outreach
 - The Home Depot — AI Engineer Intern
 - The Mosaic Company — Cybersecurity Co-Op/Intern
 - TikTok — Machine Learning Engineer Intern - App Ads
