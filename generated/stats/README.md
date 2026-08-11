@@ -78,6 +78,7 @@ _Generated 2026-08-11_
 - Alljoined — Research Intern
 - Altasciences — Process Innovation Product Management Intern
 - Altice USA — Data Engineer Intern
+- Ambarella — Software Development Engineer Intern
 - American Enterprise Institute — Data Analysis & AI Policy Intern
 - American Express — Product Development Intern - Product Development - Consumer Services
 - Apple — Applied Data Solutions Program Intern

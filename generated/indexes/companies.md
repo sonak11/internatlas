@@ -32,7 +32,7 @@
 | [Altice USA](../companies/altice-usa.md) | 0/1 | data-engineering |
 | [Altom Transport](../companies/altom-transport.md) | 3/3 | software-engineering |
 | [Amazon](../companies/amazon.md) | 8/8 | machine-learning, software-engineering |
-| [Ambarella](../companies/ambarella.md) | 5/5 | hardware, software-engineering |
+| [Ambarella](../companies/ambarella.md) | 4/5 | hardware, software-engineering |
 | [Amcor](../companies/amcor.md) | 1/1 | software-engineering |
 | [Amentum](../companies/amentum.md) | 1/1 | hardware |
 | [Ameren](../companies/ameren.md) | 1/1 | software-engineering |
