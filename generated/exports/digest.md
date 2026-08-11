@@ -1,6 +1,6 @@
 # 📬 InternAtlas Weekly Digest — 2026-08-11
 
-## 🆕 New this week (283)
+## 🆕 New this week (284)
 
 - **Alayacare** — [Full-Stack Developer Intern - Python](https://alayacare.com/open-positions?gh_jid=8687981002) · software-engineering · —
 - **Altamira Technologies** — [Research and Development Intern](https://jobs.jobvite.com/altamiracorps/job/oHqCAfw3?nl=1&nl=1&fr=false) · research · —
@@ -213,6 +213,7 @@
 - **The Nuclear Company** — [Software Engineering Intern - Product - Platform](https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383236008) · software-engineering · —
 - **TikTok** — [AI Agent Product Manager Intern - Product Infrastructure-Customer Service Platform](https://lifeattiktok.com/search/7670010726514493749) · ai · —
 - **TikTok** — [AI Product Manager Intern - Content Ecosystem](https://lifeattiktok.com/search/7667578131150506293) · ai · —
+- **TikTok** — [AI Safety Evaluation & Governance Product Manager Intern - Multiple Teams](https://lifeattiktok.com/search/7670529537944766773) · ai · —
 - **TikTok** — [Backend Software Engineer Intern - Creation Platform](https://lifeattiktok.com/search/7670289874020993285) · software-engineering · —
 - **TikTok** — [Backend Software Engineer Intern - Global E-Commerce](https://lifeattiktok.com/search/7668834837268416821) · software-engineering · —
 - **TikTok** — [Backend Software Engineer Intern - Global E-Commerce](https://lifeattiktok.com/search/7668834837268138293) · software-engineering · —

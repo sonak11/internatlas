@@ -8,7 +8,7 @@ _Generated 2026-08-11_
 
 | Company | Listings |
 |---|---|
-| TikTok | 115 |
+| TikTok | 116 |
 | Tesla | 107 |
 | Jump Trading | 43 |
 | ByteDance | 39 |
@@ -34,7 +34,7 @@ _Generated 2026-08-11_
 | Category | Count | Share |
 |---|---|---|
 | software-engineering | 835 | `█████████████` |
-| ai | 159 | `██` |
+| ai | 161 | `██` |
 | quant | 155 | `██` |
 | machine-learning | 117 | `██` |
 | research | 91 | `█` |
@@ -57,6 +57,7 @@ _Generated 2026-08-11_
 - 2026-08-11 — **ResponsiveAds**: [Full-Stack Developer Intern - ResponsiveAds - Studio 4](https://apply.workable.com/responsiveads-inc/j/493EAC12D6/apply)
 - 2026-08-11 — **SkyGig**: [RFIC Design Intern](https://apply.workable.com/skygig/j/10A5A58F9E/apply)
 - 2026-08-11 — **Tesla**: [Applied AI Engineer Intern - AI Hardware](https://www.tesla.com/careers/search/job/279603)
+- 2026-08-11 — **TikTok**: [AI Safety Evaluation & Governance Product Manager Intern - Multiple Teams](https://lifeattiktok.com/search/7670529537944766773)
 - 2026-08-11 — **Truist Bank**: [Analyst Intern Conversion - Multiple Teams](https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/New-York-NY/XMLNAME-2027-Truist-Securities---Equity-S-T--Sales--Trading---Research----Analyst-Program--INTERN-CONVERSION-_R0117763-1)
 - 2026-08-11 — **Truist Bank**: [Analyst Intern - Equity Research - Sales, Trading & Research](https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Atlanta-GA/XMLNAME-2027-Truist-Securities---Equity-Research--Sales--Trading---Research----Analyst-Program--INTERN-CONVERSION-_R0117762-1)
 - 2026-08-11 — **Truist Bank**: [Fixed Income Loans S&T Intern - Sales, Trading & Research - Analyst Program](https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/New-York-NY/XMLNAME-2027-Truist-Securities---Fixed-Income-Loans-S-T--Sales--Trading---Research----Analyst-Program--INTERN-CONVERSION-_R0117765-1)
@@ -68,7 +69,6 @@ _Generated 2026-08-11_
 - 2026-08-10 — **ByteDance**: [Agent Evaluation & Evolution Machine Learning Engineer Intern - Applied Machine Learning Ark](https://jobs.bytedance.com/en/position/7671096345243535669/detail)
 - 2026-08-10 — **ByteDance**: [Data Lake Infrastructure and Data Analytics Research Engineer Intern - Applied Machine Learning Ark](https://jobs.bytedance.com/en/position/7671109787509213445/detail)
 - 2026-08-10 — **ByteDance**: [Machine Learning Engineer Intern](https://jobs.bytedance.com/en/position/7671291260529821957/detail)
-- 2026-08-10 — **ByteDance**: [Software Engineer Intern - AML-Engine-Orchestration](https://jobs.bytedance.com/en/position/7671162985123907845/detail)
 
 ## Recently closed
 
@@ -209,6 +209,7 @@ _Generated 2026-08-11_
 - Microsoft — Software Engineer: AI/ML & LLM Intern
 - Microsoft — Software Engineer Intern
 - Microsoft — Software Engineer Intern - Cloud & Distributed Backend
+- Microsoft — Software Engineer Intern - Data Platform & Analytics
 - Midmark — Firmware Engineering Intern/Co-op
 - Monogram — Software Engineer Intern
 - Moog — Software Engineer Intern
@@ -293,7 +294,6 @@ _Generated 2026-08-11_
 - Tesla — Software Engineer Intern - Fullstack Software Engineer - Fleetnet
 - Tesla — Software Engineer Intern - Software Engineer Opticaster - Energy Engineering
 - Tesla — Software Integration Engineer Intern - Software Integration Engineer - Service Tooling
-- The Federal Reserve System — Graduate Statistical Analysis Intern - Regional & Community Outreach
 - The Home Depot — AI Engineer Intern
 - The Mosaic Company — Cybersecurity Co-Op/Intern
 - TikTok — Machine Learning Engineer Intern - App Ads

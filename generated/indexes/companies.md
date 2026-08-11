@@ -290,6 +290,7 @@
 | [LPL Financial Holdings](../companies/lpl-financial-holdings.md) | 3/3 | data-engineering, software-engineering |
 | [Lawrence Livermore National Laboratory (LLNL)](../companies/lawrence-livermore-national-laboratory-llnl.md) | 2/2 | software-engineering |
 | [Leidos](../companies/leidos.md) | 0/1 | software-engineering |
+| [Leland](../companies/leland.md) | 1/1 | ai |
 | [LexisNexis Risk Solutions](../companies/lexisnexis-risk-solutions.md) | 0/1 | software-engineering |
 | [Light & Wonder](../companies/light-wonder.md) | 0/1 | software-engineering |
 | [Littelfuse](../companies/littelfuse.md) | 0/1 | software-engineering |
@@ -317,7 +318,7 @@
 | [Metropolitan Transportation Authority](../companies/metropolitan-transportation-authority.md) | 2/2 | software-engineering |
 | [Microchip Technology](../companies/microchip-technology.md) | 2/5 | embedded, software-engineering |
 | [Micron Technology](../companies/micron-technology.md) | 4/4 | design, software-engineering |
-| [Microsoft](../companies/microsoft.md) | 10/14 | cloud, machine-learning, product, security, software-engineering |
+| [Microsoft](../companies/microsoft.md) | 9/14 | cloud, machine-learning, product, security, software-engineering |
 | [Midmark](../companies/midmark.md) | 0/1 | embedded |
 | [Mindsmith](../companies/mindsmith.md) | 1/1 | software-engineering |
 | [Mistral AI](../companies/mistral-ai.md) | 2/3 | ai, research |
@@ -509,14 +510,14 @@
 | [Texas Instruments](../companies/texas-instruments.md) | 1/1 | software-engineering |
 | [Texas Permanent School Fund Corporation](../companies/texas-permanent-school-fund-corporation.md) | 1/1 | software-engineering |
 | [The Boeing Company](../companies/the-boeing-company.md) | 2/2 | software-engineering |
-| [The Federal Reserve System](../companies/the-federal-reserve-system.md) | 0/2 | software-engineering |
+| [The Federal Reserve System](../companies/the-federal-reserve-system.md) | 1/2 | software-engineering |
 | [The Home Depot](../companies/the-home-depot.md) | 0/1 | ai |
 | [The Hub Project](../companies/the-hub-project.md) | 1/1 | software-engineering |
 | [The Mosaic Company](../companies/the-mosaic-company.md) | 0/1 | security |
 | [The Nuclear Company](../companies/the-nuclear-company.md) | 8/8 | ai, data-science, machine-learning, software-engineering |
 | [The Trade Desk](../companies/the-trade-desk.md) | 0/1 | software-engineering |
 | [Thomson Reuters](../companies/thomson-reuters.md) | 1/1 | research |
-| [TikTok](../companies/tiktok.md) | 111/115 | ai, cloud, data-engineering, data-science, machine-learning, product, research, software-engineering |
+| [TikTok](../companies/tiktok.md) | 112/116 | ai, cloud, data-engineering, data-science, machine-learning, product, research, software-engineering |
 | [Together AI](../companies/together-ai.md) | 2/3 | research |
 | [Torch Technologies](../companies/torch-technologies.md) | 0/1 | software-engineering |
 | [Toshiba Commerce Solutions](../companies/toshiba-commerce-solutions.md) | 0/2 | ai |

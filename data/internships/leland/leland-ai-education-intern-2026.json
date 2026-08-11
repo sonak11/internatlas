@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "the-federal-reserve-system-graduate-statistical-analysis-intern-regional-community-outr-2026",
+  "id": "leland-ai-education-intern-2026",
   "company": {
-    "name": "The Federal Reserve System",
-    "slug": "the-federal-reserve-system"
+    "name": "Leland",
+    "slug": "leland"
   },
-  "role": "Graduate Statistical Analysis Intern - Regional & Community Outreach",
-  "category": "software-engineering",
-  "apply_url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Boston-MA/Graduate-Intern---Statistical-Analysis_R-0000032931",
+  "role": "AI Education Intern",
+  "category": "ai",
+  "apply_url": "https://jobs.ashbyhq.com/leland/94347c0b-273b-4c17-9987-563912629633/application?embed=true",
   "season": "fall",
   "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Boston",
-      "state": "MA",
+      "city": "Lehi",
+      "state": "UT",
       "country": "USA"
     }
   ],
@@ -40,8 +40,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-04",
-    "discovered": "2026-08-05",
+    "posted": "2026-04-24",
+    "discovered": "2026-08-11",
     "last_verified": "2026-08-11"
   },
   "status": "open",

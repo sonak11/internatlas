@@ -1,6 +1,6 @@
 {
   "generated": "2026-08-11",
-  "count": 1645,
+  "count": 1647,
   "internships": [
     {
       "schema_version": "1.0",
@@ -39563,6 +39563,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "leland-ai-education-intern-2026",
+      "company": {
+        "name": "Leland",
+        "slug": "leland"
+      },
+      "role": "AI Education Intern",
+      "category": "ai",
+      "apply_url": "https://jobs.ashbyhq.com/leland/94347c0b-273b-4c17-9987-563912629633/application?embed=true",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Lehi",
+          "state": "UT",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-04-24",
+        "discovered": "2026-08-11",
+        "last_verified": "2026-08-11"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "lexisnexis-risk-solutions-editorial-data-reporting-intern-2026",
       "company": {
         "name": "LexisNexis Risk Solutions",
@@ -44296,7 +44348,7 @@
         "discovered": "2026-08-04",
         "last_verified": "2026-08-11"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -75527,7 +75579,7 @@
         "discovered": "2026-08-05",
         "last_verified": "2026-08-11"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -76393,6 +76445,60 @@
       "dates": {
         "posted": "2026-03-02",
         "discovered": "2026-07-17",
+        "last_verified": "2026-08-11"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "tiktok-ai-safety-evaluation-governance-product-manager-intern-multi-2027",
+      "company": {
+        "name": "TikTok",
+        "slug": "tiktok"
+      },
+      "role": "AI Safety Evaluation & Governance Product Manager Intern - Multiple Teams",
+      "category": "ai",
+      "apply_url": "https://lifeattiktok.com/search/7670529537944766773",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-11",
+        "discovered": "2026-08-11",
         "last_verified": "2026-08-11"
       },
       "status": "open",
