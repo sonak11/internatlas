@@ -1,0 +1,64 @@
+{
+  "schema_version": "1.0",
+  "id": "lpl-financial-holdings-data-engineer-intern-data-2027",
+  "company": {
+    "name": "LPL Financial Holdings",
+    "slug": "lpl-financial-holdings"
+  },
+  "role": "Data Engineer Intern - Data",
+  "category": "data-engineering",
+  "apply_url": "https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/Summer-Intern-2027---Data_R-052914",
+  "season": "summer",
+  "year": 2027,
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "Austin",
+      "state": "TX",
+      "country": "USA"
+    },
+    {
+      "city": "Fort Mill",
+      "state": "SC",
+      "country": "USA"
+    },
+    {
+      "city": "Charlotte",
+      "state": "NC",
+      "country": "USA"
+    }
+  ],
+  "compensation": {
+    "currency": "USD",
+    "housing_stipend": false,
+    "relocation_assistance": false
+  },
+  "eligibility": {
+    "graduation_years": [],
+    "degree_levels": [
+      "masters"
+    ],
+    "citizenship_required": false,
+    "security_clearance_required": false,
+    "visa_sponsorship": "unknown"
+  },
+  "interview": {},
+  "tech": {
+    "required_skills": [],
+    "preferred_skills": [],
+    "languages": [],
+    "frameworks": [],
+    "cloud_platforms": [],
+    "resume_keywords": []
+  },
+  "dates": {
+    "posted": "2026-08-10",
+    "discovered": "2026-08-11",
+    "last_verified": "2026-08-11"
+  },
+  "status": "open",
+  "tags": [
+    "auto-ingested",
+    "src:simplify"
+  ]
+}
