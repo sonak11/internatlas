@@ -123,7 +123,7 @@
 | [Citadel Securities](../companies/citadel-securities.md) | 4/4 | hardware, quant, software-engineering |
 | [City of Aurora](../companies/city-of-aurora.md) | 0/1 | software-engineering |
 | [City of Austin](../companies/city-of-austin.md) | 2/3 | research, software-engineering |
-| [Cloudflare](../companies/cloudflare.md) | 20/27 | ai, research, software-engineering |
+| [Cloudflare](../companies/cloudflare.md) | 21/28 | ai, research, software-engineering |
 | [Clyde Companies](../companies/clyde-companies.md) | 2/2 | software-engineering |
 | [Cohere](../companies/cohere.md) | 2/3 | machine-learning, research, software-engineering |
 | [Cohesity](../companies/cohesity.md) | 1/1 | software-engineering |
@@ -440,7 +440,7 @@
 | [Roblox](../companies/roblox.md) | 1/1 | software-engineering |
 | [Rocket Lab](../companies/rocket-lab.md) | 0/1 | software-engineering |
 | [Rockwell Automation](../companies/rockwell-automation.md) | 0/4 | ai, embedded |
-| [Royal Bank of Canada](../companies/royal-bank-of-canada.md) | 1/3 | software-engineering |
+| [Royal Bank of Canada](../companies/royal-bank-of-canada.md) | 0/3 | software-engineering |
 | [SK Hynix Memory Solution](../companies/sk-hynix-memory-solution.md) | 1/1 | software-engineering |
 | [SOTI](../companies/soti.md) | 2/3 | data-science, product |
 | [SPREEAI](../companies/spreeai.md) | 1/1 | ai |
@@ -550,7 +550,7 @@
 | [Veralto](../companies/veralto.md) | 0/1 | machine-learning |
 | [Verkada](../companies/verkada.md) | 0/1 | software-engineering |
 | [Verne Robotics](../companies/verne-robotics.md) | 1/1 | software-engineering |
-| [Vertiv](../companies/vertiv.md) | 4/4 | product, software-engineering |
+| [Vertiv](../companies/vertiv.md) | 3/4 | product, software-engineering |
 | [VetsEZ](../companies/vetsez.md) | 1/1 | software-engineering |
 | [Viavi Solutions](../companies/viavi-solutions.md) | 0/1 | software-engineering |
 | [Virtu Financial](../companies/virtu-financial.md) | 13/13 | design, hardware, quant |

@@ -12,7 +12,7 @@ _Generated 2026-08-11_
 | Tesla | 107 |
 | Jump Trading | 43 |
 | ByteDance | 39 |
-| Cloudflare | 27 |
+| Cloudflare | 28 |
 | SpaceX | 25 |
 | Susquehanna International Group (SIG) | 22 |
 | IMC Trading | 20 |
@@ -33,7 +33,7 @@ _Generated 2026-08-11_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 832 | `█████████████` |
+| software-engineering | 833 | `█████████████` |
 | ai | 159 | `██` |
 | quant | 153 | `██` |
 | machine-learning | 117 | `██` |
@@ -68,7 +68,7 @@ _Generated 2026-08-11_
 - 2026-08-10 — **ByteDance**: [Visual Generation & Multimodal Evaluation Machine Learning Engineer Intern - Aml-Ark](https://jobs.bytedance.com/en/position/7671105026009925893/detail)
 - 2026-08-10 — **Chamberlain Group**: [Community Product Management Intern - Summer 2027](https://chamberlain.wd1.myworkdayjobs.com/Chamberlain_Group/job/Oak-Brook-IL/Intern--Community-Product-Management--Summer-2026-_JR31309)
 - 2026-08-10 — **Citadel**: [Sector Data Scientist Intern](https://www.citadel.com/careers/details/sector-data-scientist-2027-intern-us/)
-- 2026-08-10 — **Figma**: [Software Engineer Intern (Winter 2027)](https://boards.greenhouse.io/figma/jobs/6131089004?gh_jid=6131089004)
+- 2026-08-10 — **Cloudflare**: [Software Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8118845?gh_jid=8118845)
 
 ## Recently closed
 
@@ -241,6 +241,7 @@ _Generated 2026-08-11_
 - Rockwell Automation — Firmware Engineering Intern
 - Rockwell Automation — Firmware Engineering Intern
 - ROCKWOOL Group — Paint & Coating Intern
+- Royal Bank of Canada — Business Markets Relationship Manager Intern
 - Royal Bank of Canada — Relationship Manager Commercial Markets Intern
 - RTX — Machine Learning Researcher Intern/Co-op
 - RTX — Software Engineer Intern
@@ -306,6 +307,7 @@ _Generated 2026-08-11_
 - US Acute Care Solutions — People Analytics Intern
 - Varda Space — Mission Software – Intern - Python
 - Veralto — Machine Learning Co-op Intern
+- Vertiv — Software Engineer Intern
 - Walleye Capital — Central Equity Quant Research Intern - Ceqr
 - Walleye Capital — Investment Data Science Intern
 - Walleye Capital — Quantic – Quantitative Researcher Intern

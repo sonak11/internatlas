@@ -1,6 +1,6 @@
 # 📬 InternAtlas Weekly Digest — 2026-08-11
 
-## 🆕 New this week (274)
+## 🆕 New this week (275)
 
 - **Alayacare** — [Full-Stack Developer Intern - Python](https://alayacare.com/open-positions?gh_jid=8687981002) · software-engineering · —
 - **Altamira Technologies** — [Research and Development Intern](https://jobs.jobvite.com/altamiracorps/job/oHqCAfw3?nl=1&nl=1&fr=false) · research · —
@@ -68,6 +68,7 @@
 - **Citadel** — [Sector Data Scientist Intern](https://www.citadel.com/careers/details/sector-data-scientist-2027-intern-us/) · data-science · —
 - **Cloudflare** — [GRC Team Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8095533?gh_jid=8095533) · software-engineering · —
 - **Cloudflare** — [Marketing Programs and Analytics Intern](https://boards.greenhouse.io/cloudflare/jobs/8104138) · software-engineering · —
+- **Cloudflare** — [Software Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8118845?gh_jid=8118845) · software-engineering · —
 - **Cloudflare** — [U.S. Public Policy and AI Innovation Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8105728?gh_jid=8105728) · ai · —
 - **Cohesity** — [Data Cleansing and Sales Enablement Analyst Intern](https://cohesity.wd5.myworkdayjobs.com/Cohesity_Careers/job/Cohesity---London/Data-Analyst--Intern--London_R04433) · software-engineering · —
 - **DV Group** — [Quantitative Risk Intern](https://job-boards.greenhouse.io/dvtrading/jobs/4719118005) · quant · —

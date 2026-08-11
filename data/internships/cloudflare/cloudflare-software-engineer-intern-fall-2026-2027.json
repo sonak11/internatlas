@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "vertiv-software-engineer-intern-2027",
+  "id": "cloudflare-software-engineer-intern-fall-2026-2027",
   "company": {
-    "name": "Vertiv",
-    "slug": "vertiv"
+    "name": "Cloudflare",
+    "slug": "cloudflare",
+    "career_page": "https://www.cloudflare.com/careers"
   },
-  "role": "Software Engineer Intern",
+  "role": "Software Engineer Intern (Fall 2026)",
   "category": "software-engineering",
-  "apply_url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278777",
+  "apply_url": "https://boards.greenhouse.io/cloudflare/jobs/8118845?gh_jid=8118845",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Delaware",
-      "state": "OH",
+      "city": "In-Office",
       "country": "USA"
     }
   ],
@@ -41,12 +41,12 @@
   },
   "dates": {
     "posted": "2026-08-10",
-    "discovered": "2026-08-10",
+    "discovered": "2026-08-11",
     "last_verified": "2026-08-11"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:ats"
   ]
 }
