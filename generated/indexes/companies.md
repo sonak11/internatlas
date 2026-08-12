@@ -230,7 +230,7 @@
 | [Global Infrastructure](../companies/global-infrastructure.md) | 0/1 | software-engineering |
 | [Global Partners](../companies/global-partners.md) | 1/1 | software-engineering |
 | [GoDaddy](../companies/godaddy.md) | 1/1 | software-engineering |
-| [Golden Pet Brands](../companies/golden-pet-brands.md) | 1/1 | software-engineering |
+| [Golden Pet Brands](../companies/golden-pet-brands.md) | 0/1 | software-engineering |
 | [Google](../companies/google.md) | 1/5 | software-engineering |
 | [Grant Thornton](../companies/grant-thornton.md) | 1/1 | software-engineering |
 | [Gritt Robotics Inc](../companies/gritt-robotics-inc.md) | 1/1 | software-engineering |
@@ -303,8 +303,9 @@
 | [LiveRamp](../companies/liveramp.md) | 0/1 | software-engineering |
 | [Loop](../companies/loop.md) | 0/1 | data-science |
 | [Louisiana Blue](../companies/louisiana-blue.md) | 4/4 | software-engineering |
-| [Lumentum](../companies/lumentum.md) | 1/2 | software-engineering |
+| [Lumentum](../companies/lumentum.md) | 0/2 | software-engineering |
 | [Luminance](../companies/luminance.md) | 1/1 | ai |
+| [Léger](../companies/l-ger.md) | 1/1 | research |
 | [Mackenzie Investments](../companies/mackenzie-investments.md) | 0/1 | ai |
 | [Magna](../companies/magna.md) | 1/1 | software-engineering |
 | [Markem-Imaje](../companies/markem-imaje.md) | 1/1 | software-engineering |
