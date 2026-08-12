@@ -14,8 +14,8 @@ _Generated 2026-08-12_
 | Jump Trading | 43 |
 | Cloudflare | 28 |
 | SpaceX | 25 |
+| IMC Trading | 23 |
 | Susquehanna International Group (SIG) | 21 |
-| IMC Trading | 20 |
 | Neuralink | 20 |
 | Jane Street | 17 |
 | Palantir Technologies | 17 |
@@ -33,9 +33,9 @@ _Generated 2026-08-12_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 855 | `█████████████` |
+| software-engineering | 859 | `█████████████` |
 | ai | 164 | `██` |
-| quant | 160 | `██` |
+| quant | 163 | `██` |
 | machine-learning | 122 | `██` |
 | research | 93 | `█` |
 | hardware | 74 | `█` |
@@ -49,6 +49,13 @@ _Generated 2026-08-12_
 
 ## Newest listings
 
+- 2026-08-12 — **Felix Magazine**: [Database Coordinator Volunteer/Intern](https://jobs.smartrecruiters.com/LuxeMediaLLC/83121944)
+- 2026-08-12 — **Felix Magazine**: [Web Developer/Programmer Intern](https://jobs.smartrecruiters.com/LuxeMediaLLC/89098193)
+- 2026-08-12 — **Felix Magazine**: [Web Developer/Programmer Intern](https://jobs.smartrecruiters.com/LuxeMediaLLC/83337967)
+- 2026-08-12 — **Felix Magazine**: [Web Developer/Programmer Intern](https://jobs.smartrecruiters.com/LuxeMediaLLC/83337884)
+- 2026-08-12 — **IMC Trading**: [HK - 2027 - Quant Research Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4941208101)
+- 2026-08-12 — **IMC Trading**: [HK - 2027 - Software Engineer Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4941206101)
+- 2026-08-12 — **IMC Trading**: [HK - 2027 - Trader Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4941205101)
 - 2026-08-12 — **Léger**: [Research Intern](https://jobs.smartrecruiters.com/Leger2/744000141569336)
 - 2026-08-12 — **Tesla**: [Software Engineer Intern - AI Inference Co Design](https://www.tesla.com/careers/search/job/279600)
 - 2026-08-11 — **Autodesk**: [Software Developer Intern](https://autodesk.wd1.myworkdayjobs.com/uni/job/Montreal-QC-CAN/Intern-Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD100398-1)
@@ -62,13 +69,6 @@ _Generated 2026-08-12_
 - 2026-08-11 — **Caddi Workflow Automation**: [Software Engineer Intern](https://apply.workable.com/trycaddi/j/9D1291C697/apply)
 - 2026-08-11 — **CCC Intelligent Solutions**: [Data Science Intern - R&D](https://cccis.wd1.myworkdayjobs.com/broadbean_external/job/Chicago-Green-St-IL/R-D---Data-Science-Internship-Fall-2026_0014841)
 - 2026-08-11 — **Commence**: [Health Data Analyst Intern](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4408640)
-- 2026-08-11 — **ConocoPhillips**: [Trading Analytics Intern](https://conocophillips.wd1.myworkdayjobs.com/External/job/Houston-TX/Intern--Trading-Analytics-2027_REQ-006429)
-- 2026-08-11 — **Deloitte**: [AI and Data Engineering Summer Scholar Intern - Government & Public Services](https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Government-Public-Services-Summer-Scholar-AI-and-Data-Engineering/362479)
-- 2026-08-11 — **DV Trading**: [Software Engineer Intern](https://job-boards.greenhouse.io/dvtrading/jobs/4719119005)
-- 2026-08-11 — **DV Trading**: [Software Engineer Intern - DV Commodities](https://job-boards.greenhouse.io/dvtrading/jobs/4719125005)
-- 2026-08-11 — **Foxconn Industrial Internet**: [Data Visualization & Analytics Intern - Engineering](http://foxconnggroup.applytojob.com/apply/VZnsanT4LU/Engineering-Data-Visualization-Analytics-Intern)
-- 2026-08-11 — **Foxconn Industrial Internet**: [Software Engineer Intern - Engineering and Operations](http://foxconnggroup.applytojob.com/apply/xf0soVofyI/Software-Engineering-Intern)
-- 2026-08-11 — **General Dynamics Mission Systems**: [Cybersecurity Software Engineer Intern](https://careers-gdms.icims.com/jobs/74257/job?mobile=true&needsRedirect=false)
 
 ## Recently closed
 
@@ -225,6 +225,7 @@ _Generated 2026-08-12_
 - NVIDIA — Applied Deep Learning PhD Research Intern - Reinforcement Learning for LLMs
 - NVIDIA — Performance Engineer Intern, Systems Software
 - NVIDIA — PhD Research Intern - System Software and I/O Architecture
+- Otter Products — Artificial Intelligence Intern
 - Outpost Technologies — Technical Marketing Intern - Analytics - Research & Automation
 - Output Biosciences — Research Intern - Machine Learning
 - PEAK6 — Trading Intern
@@ -239,6 +240,7 @@ _Generated 2026-08-12_
 - Richemont — Sustainability Transformation Analyst Intern
 - Rise8 — Skillbridge Intern - Product Manager
 - Rivian — Research Park Intern - Embedded Software
+- Rivian — UIUC Research Park Intern - Computational Methods Development
 - Rivian and Volkswagen Group Technologies — Software Engineer Intern Co-op - Android Connectivity
 - Rockwell Automation — Applied AI Intern
 - Rockwell Automation — Applied AI Intern
@@ -248,6 +250,7 @@ _Generated 2026-08-12_
 - Royal Bank of Canada — Business Markets Relationship Manager Intern
 - Royal Bank of Canada — Relationship Manager Commercial Markets Intern
 - RTX — Machine Learning Researcher Intern/Co-op
+- RTX — Software Engineer Intern
 - RTX — Software Engineer Intern
 - RTX — Software Engineer Intern
 - Samsung Research America — Digital Health Algorithms Intern
@@ -307,6 +310,7 @@ _Generated 2026-08-12_
 - Toshiba Global Commerce — AI Product Management Intern
 - Toshiba Global Commerce — Product & Business Analytics Intern
 - Truist Bank — Analyst Intern Conversion - Multiple Teams
+- Truist Bank — Analyst Intern - Equity Research - Sales, Trading & Research
 - Truland Equipment — Power Platform Intern
 - Two Six Technologies — China Subject Matter Expert Intern
 - University of Virginia — Graduate Research Intern

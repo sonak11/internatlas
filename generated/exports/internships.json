@@ -1,6 +1,6 @@
 {
   "generated": "2026-08-12",
-  "count": 1684,
+  "count": 1691,
   "internships": [
     {
       "schema_version": "1.0",
@@ -25940,6 +25940,213 @@
     },
     {
       "schema_version": "1.0",
+      "id": "felix-magazine-database-coordinator-volunteer-intern-2026",
+      "company": {
+        "name": "Felix Magazine",
+        "slug": "felix-magazine"
+      },
+      "role": "Database Coordinator Volunteer/Intern",
+      "category": "software-engineering",
+      "apply_url": "https://jobs.smartrecruiters.com/LuxeMediaLLC/83121944",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Chicago",
+          "state": "IL",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-12",
+        "discovered": "2026-08-12",
+        "last_verified": "2026-08-12"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "felix-magazine-web-developer-programmer-intern-2026-c4c2c1",
+      "company": {
+        "name": "Felix Magazine",
+        "slug": "felix-magazine"
+      },
+      "role": "Web Developer/Programmer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://jobs.smartrecruiters.com/LuxeMediaLLC/89098193",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Chicago",
+          "state": "IL",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-12",
+        "discovered": "2026-08-12",
+        "last_verified": "2026-08-12"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "felix-magazine-web-developer-programmer-intern-2026-f6ba21",
+      "company": {
+        "name": "Felix Magazine",
+        "slug": "felix-magazine"
+      },
+      "role": "Web Developer/Programmer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://jobs.smartrecruiters.com/LuxeMediaLLC/83337967",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Chicago",
+          "state": "IL",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-12",
+        "discovered": "2026-08-12",
+        "last_verified": "2026-08-12"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "felix-magazine-web-developer-programmer-intern-2026",
+      "company": {
+        "name": "Felix Magazine",
+        "slug": "felix-magazine"
+      },
+      "role": "Web Developer/Programmer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://jobs.smartrecruiters.com/LuxeMediaLLC/83337884",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "state": "LA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-12",
+        "discovered": "2026-08-12",
+        "last_verified": "2026-08-12"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "field-ai-robotics-controls-intern-robot-control-systems-2026",
       "company": {
         "name": "Field AI",
@@ -33622,6 +33829,162 @@
       "dates": {
         "posted": "2026-04-16",
         "discovered": "2026-07-18",
+        "last_verified": "2026-08-12"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "imc-trading-hk-2027-quant-research-intern-2027",
+      "company": {
+        "name": "IMC Trading",
+        "slug": "imc-trading",
+        "career_page": "https://www.imc.com/us/careers"
+      },
+      "role": "HK - 2027 - Quant Research Intern",
+      "category": "quant",
+      "apply_url": "https://job-boards.eu.greenhouse.io/imc/jobs/4941208101",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Hong Kong",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-12",
+        "discovered": "2026-08-12",
+        "last_verified": "2026-08-12"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "imc-trading-hk-2027-software-engineer-intern-2027",
+      "company": {
+        "name": "IMC Trading",
+        "slug": "imc-trading",
+        "career_page": "https://www.imc.com/us/careers"
+      },
+      "role": "HK - 2027 - Software Engineer Intern",
+      "category": "quant",
+      "apply_url": "https://job-boards.eu.greenhouse.io/imc/jobs/4941206101",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Hong Kong",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-12",
+        "discovered": "2026-08-12",
+        "last_verified": "2026-08-12"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "imc-trading-hk-2027-trader-intern-2027",
+      "company": {
+        "name": "IMC Trading",
+        "slug": "imc-trading",
+        "career_page": "https://www.imc.com/us/careers"
+      },
+      "role": "HK - 2027 - Trader Intern",
+      "category": "quant",
+      "apply_url": "https://job-boards.eu.greenhouse.io/imc/jobs/4941205101",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Hong Kong",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-12",
+        "discovered": "2026-08-12",
         "last_verified": "2026-08-12"
       },
       "status": "open",
@@ -53462,7 +53825,7 @@
         "discovered": "2026-08-07",
         "last_verified": "2026-08-12"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -59669,7 +60032,7 @@
         "discovered": "2026-07-22",
         "last_verified": "2026-08-12"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -61770,7 +62133,7 @@
         "discovered": "2026-08-10",
         "last_verified": "2026-08-12"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -85772,7 +86135,7 @@
         "discovered": "2026-08-11",
         "last_verified": "2026-08-12"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
