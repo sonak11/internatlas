@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "imc-trading-hk-2027-trader-intern-2027",
+  "id": "susquehanna-international-group-sig-quantitative-strategy-developer-intern-2027-3633db",
   "company": {
-    "name": "IMC Trading",
-    "slug": "imc-trading",
-    "career_page": "https://www.imc.com/us/careers"
+    "name": "Susquehanna International Group (SIG)",
+    "slug": "susquehanna-international-group-sig"
   },
-  "role": "HK - 2027 - Trader Intern",
+  "role": "Quantitative Strategy Developer Intern",
   "category": "quant",
-  "apply_url": "https://job-boards.eu.greenhouse.io/imc/jobs/4941205101",
+  "apply_url": "https://careers-sig.icims.com/jobs/11170/job?mobile=true&needsRedirect=false",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Hong Kong",
+      "city": "Philadelphia",
+      "state": "PA",
       "country": "USA"
     }
   ],
@@ -25,7 +25,9 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "masters"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -40,13 +42,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-12",
+    "posted": "2026-07-06",
     "discovered": "2026-08-12",
     "last_verified": "2026-08-12"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:ats"
+    "src:simplify"
   ]
 }

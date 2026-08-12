@@ -1,6 +1,6 @@
 {
   "generated": "2026-08-12",
-  "count": 1725,
+  "count": 1728,
   "internships": [
     {
       "schema_version": "1.0",
@@ -29409,7 +29409,7 @@
         "discovered": "2026-08-07",
         "last_verified": "2026-08-12"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -34302,162 +34302,6 @@
     },
     {
       "schema_version": "1.0",
-      "id": "imc-trading-hk-2027-quant-research-intern-2027",
-      "company": {
-        "name": "IMC Trading",
-        "slug": "imc-trading",
-        "career_page": "https://www.imc.com/us/careers"
-      },
-      "role": "HK - 2027 - Quant Research Intern",
-      "category": "quant",
-      "apply_url": "https://job-boards.eu.greenhouse.io/imc/jobs/4941208101",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Hong Kong",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-08-12",
-        "discovered": "2026-08-12",
-        "last_verified": "2026-08-12"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:ats"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "imc-trading-hk-2027-software-engineer-intern-2027",
-      "company": {
-        "name": "IMC Trading",
-        "slug": "imc-trading",
-        "career_page": "https://www.imc.com/us/careers"
-      },
-      "role": "HK - 2027 - Software Engineer Intern",
-      "category": "quant",
-      "apply_url": "https://job-boards.eu.greenhouse.io/imc/jobs/4941206101",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Hong Kong",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-08-12",
-        "discovered": "2026-08-12",
-        "last_verified": "2026-08-12"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:ats"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "imc-trading-hk-2027-trader-intern-2027",
-      "company": {
-        "name": "IMC Trading",
-        "slug": "imc-trading",
-        "career_page": "https://www.imc.com/us/careers"
-      },
-      "role": "HK - 2027 - Trader Intern",
-      "category": "quant",
-      "apply_url": "https://job-boards.eu.greenhouse.io/imc/jobs/4941205101",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Hong Kong",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-08-12",
-        "discovered": "2026-08-12",
-        "last_verified": "2026-08-12"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:ats"
-      ]
-    },
-    {
-      "schema_version": "1.0",
       "id": "imc-trading-machine-learning-research-intern-2027-963084",
       "company": {
         "name": "IMC Trading",
@@ -34615,6 +34459,58 @@
       "dates": {
         "posted": "2026-07-31",
         "discovered": "2026-07-31",
+        "last_verified": "2026-08-12"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "imc-trading-quant-research-intern-2027-2027",
+      "company": {
+        "name": "IMC Trading",
+        "slug": "imc-trading",
+        "career_page": "https://www.imc.com/us/careers"
+      },
+      "role": "Quant Research Intern 2027",
+      "category": "quant",
+      "apply_url": "https://job-boards.eu.greenhouse.io/imc/jobs/4941208101",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Hong Kong",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-12",
+        "discovered": "2026-08-12",
         "last_verified": "2026-08-12"
       },
       "status": "open",
@@ -34843,6 +34739,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "imc-trading-software-engineer-intern-2027-2027",
+      "company": {
+        "name": "IMC Trading",
+        "slug": "imc-trading",
+        "career_page": "https://www.imc.com/us/careers"
+      },
+      "role": "Software Engineer Intern 2027",
+      "category": "quant",
+      "apply_url": "https://job-boards.eu.greenhouse.io/imc/jobs/4941206101",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Hong Kong",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-12",
+        "discovered": "2026-08-12",
+        "last_verified": "2026-08-12"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "imc-trading-software-engineer-intern-2027",
       "company": {
         "name": "IMC Trading",
@@ -34937,6 +34885,58 @@
       "dates": {
         "posted": "2026-07-01",
         "discovered": "2026-07-22",
+        "last_verified": "2026-08-12"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "imc-trading-trader-intern-2027-2027",
+      "company": {
+        "name": "IMC Trading",
+        "slug": "imc-trading",
+        "career_page": "https://www.imc.com/us/careers"
+      },
+      "role": "Trader Intern 2027",
+      "category": "quant",
+      "apply_url": "https://job-boards.eu.greenhouse.io/imc/jobs/4941205101",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Hong Kong",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-12",
+        "discovered": "2026-08-12",
         "last_verified": "2026-08-12"
       },
       "status": "open",
@@ -46392,7 +46392,7 @@
         "discovered": "2026-08-07",
         "last_verified": "2026-08-12"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -51838,6 +51838,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "northrop-grumman-software-engineer-intern-aeronautics-systems-2027-8b64a8",
+      "company": {
+        "name": "Northrop Grumman",
+        "slug": "northrop-grumman"
+      },
+      "role": "Software Engineer Intern - Aeronautics Systems",
+      "category": "software-engineering",
+      "apply_url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10245255",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Melbourne",
+          "state": "FL",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-12",
+        "discovered": "2026-08-12",
+        "last_verified": "2026-08-12"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "northrop-grumman-software-engineer-intern-aeronautics-systems-2027-faf646",
       "company": {
         "name": "Northrop Grumman",
@@ -54510,6 +54562,56 @@
       "dates": {
         "posted": "2026-05-21",
         "discovered": "2026-07-17",
+        "last_verified": "2026-08-12"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "oracle-platform-software-engineer-1-intern-full-time-intern-convers-2026",
+      "company": {
+        "name": "Oracle",
+        "slug": "oracle"
+      },
+      "role": "Platform Software Engineer 1 Intern - Full-time Intern Conversion",
+      "category": "software-engineering",
+      "apply_url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/342415",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-12",
+        "discovered": "2026-08-12",
         "last_verified": "2026-08-12"
       },
       "status": "open",
@@ -63771,7 +63873,7 @@
         "discovered": "2026-08-11",
         "last_verified": "2026-08-12"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -70086,7 +70188,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "susquehanna-international-group-sig-quantitative-strategy-developer-intern-2027",
+      "id": "susquehanna-international-group-sig-quantitative-strategy-developer-intern-2027-3633db",
       "company": {
         "name": "Susquehanna International Group (SIG)",
         "slug": "susquehanna-international-group-sig"
@@ -70129,6 +70231,60 @@
       },
       "dates": {
         "posted": "2026-07-06",
+        "discovered": "2026-08-12",
+        "last_verified": "2026-08-12"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "susquehanna-international-group-sig-quantitative-strategy-developer-intern-2027",
+      "company": {
+        "name": "Susquehanna International Group (SIG)",
+        "slug": "susquehanna-international-group-sig"
+      },
+      "role": "Quantitative Strategy Developer Intern",
+      "category": "quant",
+      "apply_url": "https://careers-sig.icims.com/jobs/10838/job?mobile=true&needsRedirect=false",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Ardmore",
+          "state": "PA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-04-23",
         "discovered": "2026-07-17",
         "last_verified": "2026-08-12"
       },
@@ -93304,7 +93460,7 @@
         "discovered": "2026-07-21",
         "last_verified": "2026-08-12"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"

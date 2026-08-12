@@ -15,7 +15,7 @@ _Generated 2026-08-12_
 | Cloudflare | 28 |
 | SpaceX | 25 |
 | IMC Trading | 23 |
-| Susquehanna International Group (SIG) | 21 |
+| Susquehanna International Group (SIG) | 22 |
 | Neuralink | 20 |
 | RTX | 20 |
 | Jane Street | 17 |
@@ -33,8 +33,8 @@ _Generated 2026-08-12_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 873 | `█████████████` |
-| quant | 166 | `██` |
+| software-engineering | 875 | `█████████████` |
+| quant | 167 | `██` |
 | ai | 165 | `██` |
 | machine-learning | 126 | `██` |
 | research | 94 | `█` |
@@ -63,9 +63,9 @@ _Generated 2026-08-12_
 - 2026-08-12 — **Heidelberg Materials**: [Master Data Intern - Service & Support](https://heidelbergmaterials.wd3.myworkdayjobs.com/global_hm_career_site/job/Irving-TX/Master-Data-Intern_JR10017954-1)
 - 2026-08-12 — **Howmet Aerospace**: [Engineering Intern](https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/118908)
 - 2026-08-12 — **IES Holdings**: [Data Analytics Intern](https://joinus.ies-co.com/jobs/24176?icims=1)
-- 2026-08-12 — **IMC Trading**: [HK - 2027 - Quant Research Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4941208101)
-- 2026-08-12 — **IMC Trading**: [HK - 2027 - Software Engineer Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4941206101)
-- 2026-08-12 — **IMC Trading**: [HK - 2027 - Trader Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4941205101)
+- 2026-08-12 — **IMC Trading**: [Quant Research Intern 2027](https://job-boards.eu.greenhouse.io/imc/jobs/4941208101)
+- 2026-08-12 — **IMC Trading**: [Software Engineer Intern 2027](https://job-boards.eu.greenhouse.io/imc/jobs/4941206101)
+- 2026-08-12 — **IMC Trading**: [Trader Intern 2027](https://job-boards.eu.greenhouse.io/imc/jobs/4941205101)
 - 2026-08-12 — **Léger**: [Research Intern](https://jobs.smartrecruiters.com/Leger2/744000141569336)
 - 2026-08-12 — **Micron Technology**: [Surface Scientist Intern - Corporate Labs](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Corporate-Labs_JR108442)
 - 2026-08-12 — **Navy Federal**: [Data Engineering Intern](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/29792)
@@ -169,6 +169,7 @@ _Generated 2026-08-12_
 - Gemini — Product Management Intern
 - Gemini — Software Engineer Intern
 - Generac — Engineering Intern
+- General Dynamics Information Technology — Artificial Intelligence/Machine Learning Intern
 - General Motors — Research and Development Intern - Research & Development: AI/ML
 - Global Infrastructure — Alternative Delivery Project Analytics Intern
 - Golden Pet Brands — Data Analytics Intern
@@ -212,6 +213,7 @@ _Generated 2026-08-12_
 - Microsoft — Software Engineer Intern
 - Microsoft — Software Engineer Intern - Cloud & Distributed Backend
 - Microsoft — Software Engineer Intern - Data Platform & Analytics
+- Microsoft — Software Engineer Intern - Gears of War
 - Microsoft — Software Engineer Security & Identity Intern
 - Midmark — Firmware Engineering Intern/Co-op
 - Mistral AI — AI Data Solutions Intern - Data Partnerships
@@ -260,6 +262,7 @@ _Generated 2026-08-12_
 - RTX — Software Engineer Intern
 - RTX — Software Engineer Intern
 - RTX — Software Engineer Intern
+- Salesforce — Software Engineer Intern - Future Pathways
 - Samsung Research America — Digital Health Algorithms Intern
 - Samsung Research America — ML/NLP Research Intern
 - Sargent & Lundy — AI & Automation Intern - Enterprise Data & Analytics
@@ -340,6 +343,7 @@ _Generated 2026-08-12_
 - X Development — PhD Residency Intern - Operations Research and Optimization
 - XTX Markets — Philanthropy Intern
 - ZGF Architects — Technology Intern
+- Zipline — Enterprise Systems Software Engineer Intern
 - Zipline — Maps Intern
 - Zipline — Perception Intern
 - Zipline — Software Engineer Intern

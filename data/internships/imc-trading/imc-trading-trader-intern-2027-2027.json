@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "general-dynamics-information-technology-artificial-intelligence-machine-learning-intern-2027",
+  "id": "imc-trading-trader-intern-2027-2027",
   "company": {
-    "name": "General Dynamics Information Technology",
-    "slug": "general-dynamics-information-technology"
+    "name": "IMC Trading",
+    "slug": "imc-trading",
+    "career_page": "https://www.imc.com/us/careers"
   },
-  "role": "Artificial Intelligence/Machine Learning Intern",
-  "category": "machine-learning",
-  "apply_url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Falls-Church/Summer-2027-AI-Machine-Learning-Internship--DC-Metro-Area_RQ225912",
+  "role": "Trader Intern 2027",
+  "category": "quant",
+  "apply_url": "https://job-boards.eu.greenhouse.io/imc/jobs/4941205101",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Falls Church",
-      "state": "VA",
+      "city": "Hong Kong",
       "country": "USA"
     }
   ],
@@ -25,9 +25,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -42,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-07",
-    "discovered": "2026-08-07",
+    "posted": "2026-08-12",
+    "discovered": "2026-08-12",
     "last_verified": "2026-08-12"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:ats"
   ]
 }

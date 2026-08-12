@@ -1,20 +1,18 @@
 {
   "schema_version": "1.0",
-  "id": "imc-trading-hk-2027-software-engineer-intern-2027",
+  "id": "oracle-platform-software-engineer-1-intern-full-time-intern-convers-2026",
   "company": {
-    "name": "IMC Trading",
-    "slug": "imc-trading",
-    "career_page": "https://www.imc.com/us/careers"
+    "name": "Oracle",
+    "slug": "oracle"
   },
-  "role": "HK - 2027 - Software Engineer Intern",
-  "category": "quant",
-  "apply_url": "https://job-boards.eu.greenhouse.io/imc/jobs/4941206101",
-  "season": "summer",
-  "year": 2027,
+  "role": "Platform Software Engineer 1 Intern - Full-time Intern Conversion",
+  "category": "software-engineering",
+  "apply_url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/342415",
+  "season": "fall",
+  "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Hong Kong",
       "country": "USA"
     }
   ],
@@ -47,6 +45,6 @@
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:ats"
+    "src:simplify"
   ]
 }

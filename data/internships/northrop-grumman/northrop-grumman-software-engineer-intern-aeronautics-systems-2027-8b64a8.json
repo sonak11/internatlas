@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "general-dynamics-information-technology-artificial-intelligence-machine-learning-intern-2027",
+  "id": "northrop-grumman-software-engineer-intern-aeronautics-systems-2027-8b64a8",
   "company": {
-    "name": "General Dynamics Information Technology",
-    "slug": "general-dynamics-information-technology"
+    "name": "Northrop Grumman",
+    "slug": "northrop-grumman"
   },
-  "role": "Artificial Intelligence/Machine Learning Intern",
-  "category": "machine-learning",
-  "apply_url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Falls-Church/Summer-2027-AI-Machine-Learning-Internship--DC-Metro-Area_RQ225912",
+  "role": "Software Engineer Intern - Aeronautics Systems",
+  "category": "software-engineering",
+  "apply_url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10245255",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Falls Church",
-      "state": "VA",
+      "city": "Melbourne",
+      "state": "FL",
       "country": "USA"
     }
   ],
@@ -25,9 +25,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -42,11 +40,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-07",
-    "discovered": "2026-08-07",
+    "posted": "2026-08-12",
+    "discovered": "2026-08-12",
     "last_verified": "2026-08-12"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

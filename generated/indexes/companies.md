@@ -224,7 +224,7 @@
 | [GenMD](../companies/genmd.md) | 1/1 | ai |
 | [Generac](../companies/generac.md) | 0/3 | data-science, software-engineering |
 | [General Astronautics](../companies/general-astronautics.md) | 1/1 | software-engineering |
-| [General Dynamics Information Technology](../companies/general-dynamics-information-technology.md) | 3/3 | machine-learning, software-engineering |
+| [General Dynamics Information Technology](../companies/general-dynamics-information-technology.md) | 2/3 | machine-learning, software-engineering |
 | [General Dynamics Mission Systems](../companies/general-dynamics-mission-systems.md) | 1/1 | security |
 | [General Intuition &amp; Medal](../companies/general-intuition-amp-medal.md) | 1/1 | software-engineering |
 | [General Motors](../companies/general-motors.md) | 0/2 | machine-learning, research |
@@ -331,7 +331,7 @@
 | [Metropolitan Transportation Authority](../companies/metropolitan-transportation-authority.md) | 3/3 | software-engineering |
 | [Microchip Technology](../companies/microchip-technology.md) | 2/5 | embedded, software-engineering |
 | [Micron Technology](../companies/micron-technology.md) | 4/5 | design, software-engineering |
-| [Microsoft](../companies/microsoft.md) | 8/14 | cloud, machine-learning, product, security, software-engineering |
+| [Microsoft](../companies/microsoft.md) | 7/14 | cloud, machine-learning, product, security, software-engineering |
 | [Midmark](../companies/midmark.md) | 0/1 | embedded |
 | [Mindsmith](../companies/mindsmith.md) | 1/1 | software-engineering |
 | [Mistral AI](../companies/mistral-ai.md) | 1/3 | ai, research |
@@ -375,7 +375,7 @@
 | [Noblis](../companies/noblis.md) | 1/1 | software-engineering |
 | [Nokia](../companies/nokia.md) | 0/5 | data-science, embedded, software-engineering |
 | [North Cloud](../companies/north-cloud.md) | 0/1 | ai |
-| [Northrop Grumman](../companies/northrop-grumman.md) | 1/4 | software-engineering |
+| [Northrop Grumman](../companies/northrop-grumman.md) | 2/5 | software-engineering |
 | [Northwestern Mutual](../companies/northwestern-mutual.md) | 2/2 | quant, software-engineering |
 | [Notion](../companies/notion.md) | 5/6 | ai, software-engineering |
 | [Novanta](../companies/novanta.md) | 1/1 | software-engineering |
@@ -389,7 +389,7 @@
 | [Open Road Integrated Media](../companies/open-road-integrated-media.md) | 1/1 | software-engineering |
 | [Optiver](../companies/optiver.md) | 11/12 | hardware, quant, software-engineering |
 | [OpusClip](../companies/opusclip.md) | 2/2 | ai |
-| [Oracle](../companies/oracle.md) | 1/1 | software-engineering |
+| [Oracle](../companies/oracle.md) | 2/2 | software-engineering |
 | [Orennia](../companies/orennia.md) | 1/1 | software-engineering |
 | [Otter Products](../companies/otter-products.md) | 0/1 | ai |
 | [Outpost Technologies](../companies/outpost-technologies.md) | 0/1 | research |
@@ -463,7 +463,7 @@
 | [SPREEAI](../companies/spreeai.md) | 1/1 | ai |
 | [SRI International](../companies/sri-international.md) | 0/1 | software-engineering |
 | [SS&C](../companies/ss-c.md) | 0/1 | ai |
-| [Salesforce](../companies/salesforce.md) | 1/4 | product, software-engineering |
+| [Salesforce](../companies/salesforce.md) | 0/4 | product, software-engineering |
 | [Samsara](../companies/samsara.md) | 2/2 | software-engineering |
 | [Samsung](../companies/samsung.md) | 0/1 | research |
 | [Samsung Research America](../companies/samsung-research-america.md) | 1/4 | ai, machine-learning, software-engineering |
@@ -507,7 +507,7 @@
 | [StudyFetch](../companies/studyfetch.md) | 2/2 | software-engineering |
 | [Super](../companies/super.md) | 2/2 | software-engineering |
 | [Susquehanna](../companies/susquehanna.md) | 1/1 | quant |
-| [Susquehanna International Group (SIG)](../companies/susquehanna-international-group-sig.md) | 19/21 | quant, software-engineering |
+| [Susquehanna International Group (SIG)](../companies/susquehanna-international-group-sig.md) | 20/22 | quant, software-engineering |
 | [Susquehanna Investment Group](../companies/susquehanna-investment-group.md) | 1/1 | quant |
 | [Swift](../companies/swift.md) | 0/1 | research |
 | [Synchrony Financial](../companies/synchrony-financial.md) | 4/4 | software-engineering |
@@ -595,7 +595,7 @@
 | [Yotta Labs](../companies/yotta-labs.md) | 2/2 | ai, research |
 | [ZGF Architects](../companies/zgf-architects.md) | 0/1 | software-engineering |
 | [Zello](../companies/zello.md) | 1/1 | software-engineering |
-| [Zipline](../companies/zipline.md) | 3/7 | embedded, software-engineering |
+| [Zipline](../companies/zipline.md) | 2/7 | embedded, software-engineering |
 | [Zurich Insurance](../companies/zurich-insurance.md) | 0/1 | ai |
 | [Zuru](../companies/zuru.md) | 1/1 | software-engineering |
 | [fab2](../companies/fab2.md) | 1/1 | software-engineering |
