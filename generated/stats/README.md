@@ -290,6 +290,7 @@ _Generated 2026-08-12_
 - Stoke Space — Software Intern - Software
 - Susquehanna International Group (SIG) — Derivatives Sales Trader Intern - Summer 2027
 - Susquehanna International Group (SIG) — Trading Operations Analyst Intern
+- Swift — Industry Engagement Research Analyst Intern
 - T. Rowe Price — Global Trading Intern
 - T. Rowe Price — Quantitative Equity Investing Intern
 - Tencent — AI Agent Research & Application Intern
