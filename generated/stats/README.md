@@ -77,6 +77,7 @@ _Generated 2026-08-12_
 - Airbnb — Sales Operations Intern, Italy
 - Alljoined — Research Intern
 - Altasciences — Process Innovation Product Management Intern
+- Ambarella — DFT Engineer Intern
 - Ambarella — Software Development Engineer Intern
 - American Express — Product Development Intern - Product Development - Consumer Services
 - Apple — Applied Data Solutions Program Intern
@@ -108,6 +109,7 @@ _Generated 2026-08-12_
 - Bosch Home Comfort — Research Intern
 - Brex — Brex Internship Program
 - Brunswick — Software Engineer Intern
+- ByteDance — Research Scientist Intern
 - Canva — PhD Research Scientist Intern - Generative AI
 - Canva — PhD Research Scientist Intern - Reinforcement Learning - Images
 - Capital One — Full Stack Software Engineer Intern
@@ -183,6 +185,8 @@ _Generated 2026-08-12_
 - Integrity — Research Intern
 - Intel — AI Software Engineer Intern
 - JINGDONG — Software Engineering Intern
+- JP Morgan Chase — Data & AI Intern - Analyst
+- KBR — Software Intern
 - Keysight Technologies — R&D Software Engineer Intern
 - Kinaxis — Engineer Co-op/Intern - Data & Analytics
 - Kirin — Software Engineer Intern - AI Agents + Devices
@@ -266,6 +270,7 @@ _Generated 2026-08-12_
 - Sentara Health — Enterprise Data & AI Intern
 - Smith+Nephew — Operational Technology Intern
 - Smiths Detection Group — Commercial Intern - Commercial Tools & Business Intelligence
+- Sony Music Entertainment — Insight & Analytics Intern
 - Sony Pictures Entertainment — Graduate Intern - Advanced Technologies
 - Sony Pictures Entertainment — Insights Intern - Multiple Teams
 - SOTI — Product Manager Intern - Sales Enablement Products
@@ -277,6 +282,7 @@ _Generated 2026-08-12_
 - SpaceX — Software Engineering Intern
 - SpaceX — Software Engineering Intern/Co-op
 - Sparksoft — Technical Intern
+- SpreeAI — Mobile Software Engineer Intern - Flagship Apps - iOS / Android / Web
 - SRI International — Computer Science Intern
 - Stand Insurance — Fire Science Engineer Intern
 - Stoke Space — Software Intern - Software

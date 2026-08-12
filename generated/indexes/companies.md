@@ -32,7 +32,7 @@
 | [Altice USA](../companies/altice-usa.md) | 1/1 | data-engineering |
 | [Altom Transport](../companies/altom-transport.md) | 3/3 | software-engineering |
 | [Amazon](../companies/amazon.md) | 8/8 | machine-learning, software-engineering |
-| [Ambarella](../companies/ambarella.md) | 4/5 | hardware, software-engineering |
+| [Ambarella](../companies/ambarella.md) | 3/5 | hardware, software-engineering |
 | [Amcor](../companies/amcor.md) | 1/1 | software-engineering |
 | [Amentum](../companies/amentum.md) | 1/1 | hardware |
 | [Ameren](../companies/ameren.md) | 1/1 | software-engineering |
@@ -94,7 +94,7 @@
 | [Brio Water Technology](../companies/brio-water-technology.md) | 1/1 | ai |
 | [Brookfield](../companies/brookfield.md) | 1/1 | ai |
 | [Brunswick](../companies/brunswick.md) | 0/1 | software-engineering |
-| [ByteDance](../companies/bytedance.md) | 42/44 | ai, hardware, machine-learning, research, software-engineering |
+| [ByteDance](../companies/bytedance.md) | 41/44 | ai, hardware, machine-learning, research, software-engineering |
 | [CACI](../companies/caci.md) | 0/1 | software-engineering |
 | [CALSTART](../companies/calstart.md) | 3/3 | research, software-engineering |
 | [CCC Intelligent Solutions](../companies/ccc-intelligent-solutions.md) | 1/2 | ai, data-science |
@@ -280,11 +280,11 @@
 | [International Rescue Committee (IRC)](../companies/international-rescue-committee-irc.md) | 2/2 | research, software-engineering |
 | [Intuitive Surgical](../companies/intuitive-surgical.md) | 1/1 | software-engineering |
 | [JINGDONG](../companies/jingdong.md) | 0/1 | software-engineering |
-| [JP Morgan Chase](../companies/jp-morgan-chase.md) | 7/7 | ai, quant, software-engineering |
+| [JP Morgan Chase](../companies/jp-morgan-chase.md) | 6/7 | ai, quant, software-engineering |
 | [Jane Street](../companies/jane-street.md) | 17/17 | data-engineering, hardware, machine-learning, quant, research, security, software-engineering |
 | [Jump Trading](../companies/jump-trading.md) | 42/43 | ai, data-engineering, design, hardware, machine-learning, quant, research |
 | [Junior AI](../companies/junior-ai.md) | 1/1 | software-engineering |
-| [KBR](../companies/kbr.md) | 1/2 | security, software-engineering |
+| [KBR](../companies/kbr.md) | 0/2 | security, software-engineering |
 | [KRAFTON](../companies/krafton.md) | 0/1 | software-engineering |
 | [Kepler Communications](../companies/kepler-communications.md) | 1/1 | hardware |
 | [Keysight Technologies](../companies/keysight-technologies.md) | 2/3 | hardware, machine-learning, software-engineering |
@@ -482,12 +482,12 @@
 | [Snowflake](../companies/snowflake.md) | 3/3 | cloud, software-engineering |
 | [Solid Power](../companies/solid-power.md) | 0/1 | software-engineering |
 | [SoloPulse](../companies/solopulse.md) | 1/1 | software-engineering |
-| [Sony Music Entertainment](../companies/sony-music-entertainment.md) | 2/2 | research, software-engineering |
+| [Sony Music Entertainment](../companies/sony-music-entertainment.md) | 1/2 | research, software-engineering |
 | [Sony Pictures Entertainment](../companies/sony-pictures-entertainment.md) | 0/2 | software-engineering |
 | [SpaceX](../companies/spacex.md) | 18/25 | hardware, software-engineering |
 | [Sparksoft](../companies/sparksoft.md) | 0/2 | software-engineering |
 | [Spectrum Control](../companies/spectrum-control.md) | 0/1 | software-engineering |
-| [SpreeAI](../companies/spreeai.md) | 4/4 | machine-learning, software-engineering |
+| [SpreeAI](../companies/spreeai.md) | 3/4 | machine-learning, software-engineering |
 | [Squarepoint Capital](../companies/squarepoint-capital.md) | 1/1 | quant |
 | [Stand Insurance](../companies/stand-insurance.md) | 0/1 | software-engineering |
 | [StarSling](../companies/starsling.md) | 1/1 | software-engineering |
