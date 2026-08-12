@@ -34686,7 +34686,7 @@
         "discovered": "2026-07-23",
         "last_verified": "2026-08-12"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -58503,7 +58503,7 @@
         "discovered": "2026-08-11",
         "last_verified": "2026-08-12"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"

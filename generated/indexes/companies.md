@@ -264,7 +264,7 @@
 | [IMC Trading](../companies/imc-trading.md) | 16/23 | hardware, machine-learning, quant |
 | [ING](../companies/ing.md) | 0/1 | software-engineering |
 | [Ignite Digital Services](../companies/ignite-digital-services.md) | 0/1 | software-engineering |
-| [Impulse Space](../companies/impulse-space.md) | 1/2 | software-engineering |
+| [Impulse Space](../companies/impulse-space.md) | 0/2 | software-engineering |
 | [Incident IQ](../companies/incident-iq.md) | 1/1 | software-engineering |
 | [InfiniteQuant](../companies/infinitequant.md) | 1/2 | quant |
 | [Inizio](../companies/inizio.md) | 1/1 | software-engineering |
@@ -422,7 +422,7 @@
 | [QuEra Computing](../companies/quera-computing.md) | 1/1 | data-engineering |
 | [Quadrillion](../companies/quadrillion.md) | 2/3 | research, software-engineering |
 | [Quadrillion Labs](../companies/quadrillion-labs.md) | 1/1 | software-engineering |
-| [Quantbot Technologies](../companies/quantbot-technologies.md) | 7/7 | machine-learning, quant, software-engineering |
+| [Quantbot Technologies](../companies/quantbot-technologies.md) | 6/7 | machine-learning, quant, software-engineering |
 | [RFCUNY](../companies/rfcuny.md) | 2/2 | software-engineering |
 | [RLI](../companies/rli.md) | 1/1 | product |
 | [ROCKWOOL Group](../companies/rockwool-group.md) | 0/2 | product, software-engineering |

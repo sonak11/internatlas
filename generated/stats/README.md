@@ -181,6 +181,7 @@ _Generated 2026-08-12_
 - HireVue — Data Science Intern
 - IMC Trading — 2027 - Quant Research Intern - BITS Pilani
 - IMC Trading — 2027 - Software Engineering Intern - BITS Pilani
+- Impulse Space — Data Analytics Intern
 - InfiniteQuant — Quantitative Researcher Intern
 - ING — Technology Intern - Innovation
 - Inogen — Firmware Engineer Intern
@@ -243,6 +244,7 @@ _Generated 2026-08-12_
 - Persistent Systems — Hardware Engineer Intern
 - Phlair — Working Student Intern - Control Team - Systems & Data Infrastructure
 - PSECU — Data Analyst Intern
+- Quantbot Technologies — Software Engineer Intern
 - RapDev — ServiceNow Engineer Intern
 - Richemont — Sustainability Transformation Analyst Intern
 - Rise8 — Skillbridge Intern - Product Manager
