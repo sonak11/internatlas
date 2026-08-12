@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "susquehanna-international-group-sig-quantitative-strategy-developer-intern-2027-3633db",
+  "id": "tesla-software-engineer-intern-ai-inference-co-design-2026",
   "company": {
-    "name": "Susquehanna International Group (SIG)",
-    "slug": "susquehanna-international-group-sig"
+    "name": "Tesla",
+    "slug": "tesla"
   },
-  "role": "Quantitative Strategy Developer Intern",
-  "category": "quant",
-  "apply_url": "https://careers-sig.icims.com/jobs/11170/job?mobile=true&needsRedirect=false",
-  "season": "summer",
-  "year": 2027,
+  "role": "Software Engineer Intern - AI Inference Co Design",
+  "category": "ai",
+  "apply_url": "https://www.tesla.com/careers/search/job/279600",
+  "season": "fall",
+  "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Philadelphia",
-      "state": "PA",
+      "city": "Palo Alto",
+      "state": "CA",
       "country": "USA"
     }
   ],
@@ -25,9 +25,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -42,8 +40,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-06",
-    "discovered": "2026-08-01",
+    "posted": "2026-08-12",
+    "discovered": "2026-08-12",
     "last_verified": "2026-08-12"
   },
   "status": "open",

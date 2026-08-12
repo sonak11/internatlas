@@ -9,12 +9,12 @@ _Generated 2026-08-12_
 | Company | Listings |
 |---|---|
 | TikTok | 116 |
-| Tesla | 107 |
+| Tesla | 108 |
 | ByteDance | 44 |
 | Jump Trading | 43 |
 | Cloudflare | 28 |
 | SpaceX | 25 |
-| Susquehanna International Group (SIG) | 22 |
+| Susquehanna International Group (SIG) | 21 |
 | IMC Trading | 20 |
 | Neuralink | 20 |
 | Jane Street | 17 |
@@ -34,8 +34,8 @@ _Generated 2026-08-12_
 | Category | Count | Share |
 |---|---|---|
 | software-engineering | 855 | `█████████████` |
-| ai | 163 | `██` |
-| quant | 161 | `██` |
+| ai | 164 | `██` |
+| quant | 160 | `██` |
 | machine-learning | 122 | `██` |
 | research | 93 | `█` |
 | hardware | 74 | `█` |
@@ -50,6 +50,7 @@ _Generated 2026-08-12_
 ## Newest listings
 
 - 2026-08-12 — **Léger**: [Research Intern](https://jobs.smartrecruiters.com/Leger2/744000141569336)
+- 2026-08-12 — **Tesla**: [Software Engineer Intern - AI Inference Co Design](https://www.tesla.com/careers/search/job/279600)
 - 2026-08-11 — **Autodesk**: [Software Developer Intern](https://autodesk.wd1.myworkdayjobs.com/uni/job/Montreal-QC-CAN/Intern-Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD100398-1)
 - 2026-08-11 — **Autodesk**: [Software Developer Intern - Interactive Graphics, Media & Entertainment](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Intern-Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD100398-2)
 - 2026-08-11 — **Booz Allen**: [AI RAN Telecommunications Engineer Intern](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/AI-RAN-Telecommunications-Engineer-Intern_R0246869)
@@ -68,7 +69,6 @@ _Generated 2026-08-12_
 - 2026-08-11 — **Foxconn Industrial Internet**: [Data Visualization & Analytics Intern - Engineering](http://foxconnggroup.applytojob.com/apply/VZnsanT4LU/Engineering-Data-Visualization-Analytics-Intern)
 - 2026-08-11 — **Foxconn Industrial Internet**: [Software Engineer Intern - Engineering and Operations](http://foxconnggroup.applytojob.com/apply/xf0soVofyI/Software-Engineering-Intern)
 - 2026-08-11 — **General Dynamics Mission Systems**: [Cybersecurity Software Engineer Intern](https://careers-gdms.icims.com/jobs/74257/job?mobile=true&needsRedirect=false)
-- 2026-08-11 — **Kimley-Horn**: [Software Developer Intern](https://careers-kimley-horn.icims.com/jobs/25761/job?mobile=true&needsRedirect=false)
 
 ## Recently closed
 
@@ -138,6 +138,7 @@ _Generated 2026-08-12_
 - Copart — Software Engineer Intern
 - Copart — Software Engineer Intern
 - Copart — Software Engineer Intern
+- Copart — Technology Product Analyst Intern
 - Definity Financial — Data Analyst Co-op/Intern
 - Definity Financial — Reporting Specialist Co-op/Intern
 - Definity Financial — Technology Solutions Data Platform & Engineering Co-op/Intern
@@ -180,6 +181,7 @@ _Generated 2026-08-12_
 - ING — Technology Intern - Innovation
 - Inogen — Firmware Engineer Intern
 - Integrity — Research Intern
+- Intel — AI Software Engineer Intern
 - JINGDONG — Software Engineering Intern
 - Keysight Technologies — R&D Software Engineer Intern
 - Kinaxis — Engineer Co-op/Intern - Data & Analytics
@@ -297,6 +299,7 @@ _Generated 2026-08-12_
 - TikTok — Machine Learning Engineer Intern - App Ads
 - TikTok — Product Manager Intern - Tiktok-Product-Search
 - TikTok — Software Engineer Intern - Recommendation Infrastructure
+- TMX Group — Analyst Student Intern - Market Insights
 - Together AI — Research Intern - Inference
 - Toshiba Commerce Solutions — AI Engineering Intern
 - Toshiba Commerce Solutions — Project Management & AI Automation Intern
