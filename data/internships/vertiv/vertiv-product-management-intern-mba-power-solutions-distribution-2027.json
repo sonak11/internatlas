@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "general-dynamics-information-technology-software-developer-intern-2027",
+  "id": "vertiv-product-management-intern-mba-power-solutions-distribution-2027",
   "company": {
-    "name": "General Dynamics Information Technology",
-    "slug": "general-dynamics-information-technology"
+    "name": "Vertiv",
+    "slug": "vertiv"
   },
-  "role": "Software Developer Intern",
-  "category": "software-engineering",
-  "apply_url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Summer-2027-Software-Developer-Internship_RQ225717-1",
+  "role": "Product Management Intern - MBA - Power Solutions & Distribution",
+  "category": "product",
+  "apply_url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278959",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Annapolis Junction",
-      "state": "MD",
+      "city": "Delaware",
+      "state": "OH",
       "country": "USA"
     }
   ],
@@ -40,8 +40,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-04",
-    "discovered": "2026-08-05",
+    "posted": "2026-08-12",
+    "discovered": "2026-08-12",
     "last_verified": "2026-08-12"
   },
   "status": "open",

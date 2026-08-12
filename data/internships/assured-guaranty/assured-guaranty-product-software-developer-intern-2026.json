@@ -1,20 +1,19 @@
 {
   "schema_version": "1.0",
-  "id": "general-dynamics-information-technology-software-developer-intern-2027",
+  "id": "assured-guaranty-product-software-developer-intern-2026",
   "company": {
-    "name": "General Dynamics Information Technology",
-    "slug": "general-dynamics-information-technology"
+    "name": "Assured Guaranty",
+    "slug": "assured-guaranty"
   },
-  "role": "Software Developer Intern",
+  "role": "Product Software Developer Intern",
   "category": "software-engineering",
-  "apply_url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Summer-2027-Software-Developer-Internship_RQ225717-1",
-  "season": "summer",
-  "year": 2027,
+  "apply_url": "https://boards.greenhouse.io/assuredguaranty/jobs/8700953002",
+  "season": "fall",
+  "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Annapolis Junction",
-      "state": "MD",
+      "city": "NYC",
       "country": "USA"
     }
   ],
@@ -40,8 +39,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-04",
-    "discovered": "2026-08-05",
+    "posted": "2026-08-12",
+    "discovered": "2026-08-12",
     "last_verified": "2026-08-12"
   },
   "status": "open",

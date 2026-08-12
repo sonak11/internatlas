@@ -1,21 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "general-dynamics-information-technology-software-developer-intern-2027",
+  "id": "dv-trading-trading-intern-2027",
   "company": {
-    "name": "General Dynamics Information Technology",
-    "slug": "general-dynamics-information-technology"
+    "name": "DV Trading",
+    "slug": "dv-trading"
   },
-  "role": "Software Developer Intern",
-  "category": "software-engineering",
-  "apply_url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Summer-2027-Software-Developer-Internship_RQ225717-1",
+  "role": "Trading Intern",
+  "category": "quant",
+  "apply_url": "https://job-boards.greenhouse.io/dvtrading/jobs/4719135005",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Annapolis Junction",
-      "state": "MD",
-      "country": "USA"
+      "city": "London",
+      "country": "UK"
     }
   ],
   "compensation": {
@@ -40,8 +39,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-04",
-    "discovered": "2026-08-05",
+    "posted": "2026-08-12",
+    "discovered": "2026-08-12",
     "last_verified": "2026-08-12"
   },
   "status": "open",

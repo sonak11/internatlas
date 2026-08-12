@@ -33,13 +33,13 @@ _Generated 2026-08-12_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 861 | `█████████████` |
+| software-engineering | 864 | `█████████████` |
+| quant | 166 | `██` |
 | ai | 164 | `██` |
-| quant | 164 | `██` |
-| machine-learning | 125 | `██` |
+| machine-learning | 126 | `██` |
 | research | 93 | `█` |
 | hardware | 75 | `█` |
-| product | 46 | `█` |
+| product | 49 | `█` |
 | embedded | 45 | `█` |
 | cloud | 37 | `█` |
 | design | 34 | `█` |
@@ -49,7 +49,9 @@ _Generated 2026-08-12_
 
 ## Newest listings
 
+- 2026-08-12 — **Assured Guaranty**: [Product Software Developer Intern](https://boards.greenhouse.io/assuredguaranty/jobs/8700953002)
 - 2026-08-12 — **CCC Intelligent Solutions**: [Data Science Engineer Intern](https://cccis.wd1.myworkdayjobs.com/broadbean_external/job/Chicago-Green-St-IL/Data-Science-Engineer-Internship_0014843)
+- 2026-08-12 — **DV Trading**: [Trading Intern](https://job-boards.greenhouse.io/dvtrading/jobs/4719135005)
 - 2026-08-12 — **Felix Magazine**: [Database Coordinator Volunteer/Intern](https://jobs.smartrecruiters.com/LuxeMediaLLC/83121944)
 - 2026-08-12 — **Felix Magazine**: [Web Developer/Programmer Intern](https://jobs.smartrecruiters.com/LuxeMediaLLC/89098193)
 - 2026-08-12 — **Felix Magazine**: [Web Developer/Programmer Intern](https://jobs.smartrecruiters.com/LuxeMediaLLC/83337967)
@@ -58,6 +60,8 @@ _Generated 2026-08-12_
 - 2026-08-12 — **IMC Trading**: [HK - 2027 - Software Engineer Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4941206101)
 - 2026-08-12 — **IMC Trading**: [HK - 2027 - Trader Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4941205101)
 - 2026-08-12 — **Léger**: [Research Intern](https://jobs.smartrecruiters.com/Leger2/744000141569336)
+- 2026-08-12 — **Micron Technology**: [Surface Scientist Intern - Corporate Labs](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Corporate-Labs_JR108442)
+- 2026-08-12 — **Northwestern Mutual**: [Quantitative Analyst Intern - Public Investments](https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Milwaukee-WI-Corporate/Public-Investments-Quantitative-Analyst-Intern--Summer-2027_JR-45807)
 - 2026-08-12 — **RTX**: [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AL-HUNTSVILLE-382--420-Jan-Davis-Dr--DAVIS-382/Summer-2027--Software-Intern-OnSite_01865160)
 - 2026-08-12 — **Tesla**: [Software Engineer Intern - AI Inference Co Design](https://www.tesla.com/careers/search/job/279600)
 - 2026-08-12 — **TikTok**: [Machine Learning Engineer Intern - E-Commerce Recommendation Foundation](https://lifeattiktok.com/search/7672883129493948677)
@@ -65,10 +69,6 @@ _Generated 2026-08-12_
 - 2026-08-12 — **TikTok**: [Machine Learning Engineer Intern - E-Commerce Recommendation Mall](https://lifeattiktok.com/search/7672920375646488885)
 - 2026-08-12 — **TikTok**: [Product Manager Intern - Ads Interface and Platform](https://lifeattiktok.com/search/7672569081632229685)
 - 2026-08-12 — **TikTok**: [Product Manager Intern - Ads Interface and Platform](https://lifeattiktok.com/search/7672562486917286149)
-- 2026-08-12 — **TikTok**: [Product Manager Intern - Commerce Ads](https://lifeattiktok.com/search/7672557943224961333)
-- 2026-08-12 — **TikTok**: [Product Manager Intern - Signal and Identity Product](https://lifeattiktok.com/search/7672554809555192117)
-- 2026-08-12 — **Tower Research Capital**: [Quantitative Research Intern - Central Execution Research](https://www.tower-research.com/open-positions/?gh_jid=8113986)
-- 2026-08-12 — **University System of New Hampshire**: [Robotics Intern](https://usnh.wd5.myworkdayjobs.com/Careers/job/University-of-New-Hampshire--Main-Campus/Research-Intern_JR8497)
 
 ## Recently closed
 
@@ -169,8 +169,6 @@ _Generated 2026-08-12_
 - Gemini — Product Management Intern
 - Gemini — Software Engineer Intern
 - Generac — Engineering Intern
-- General Dynamics Information Technology — Software Developer Intern
-- General Dynamics Information Technology — Software Developer Intern
 - General Motors — Research and Development Intern - Research & Development: AI/ML
 - Global Infrastructure — Alternative Delivery Project Analytics Intern
 - Golden Pet Brands — Data Analytics Intern
@@ -323,7 +321,6 @@ _Generated 2026-08-12_
 - Toshiba Global Commerce — AI Product Management Intern
 - Toshiba Global Commerce — Product & Business Analytics Intern
 - Truist Bank — Analyst Intern Conversion - Multiple Teams
-- Truist Bank — Analyst Intern - Equity Research - Sales, Trading & Research
 - Truist Bank — Fixed Income Loans S&T Intern - Sales, Trading & Research - Analyst Program
 - Truland Equipment — Power Platform Intern
 - Two Six Technologies — China Subject Matter Expert Intern
