@@ -19,8 +19,8 @@ _Generated 2026-08-12_
 | Neuralink | 20 |
 | Jane Street | 17 |
 | Palantir Technologies | 17 |
-| RTX | 17 |
 | Rivian and Volkswagen Group Technologies | 16 |
+| RTX | 16 |
 | Meta | 15 |
 | Etched | 14 |
 | Microsoft | 14 |
@@ -33,7 +33,7 @@ _Generated 2026-08-12_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 859 | `█████████████` |
+| software-engineering | 858 | `█████████████` |
 | ai | 164 | `██` |
 | quant | 163 | `██` |
 | machine-learning | 122 | `██` |
