@@ -282,7 +282,6 @@ _Generated 2026-08-12_
 - SpaceX — Software Engineering Intern
 - SpaceX — Software Engineering Intern/Co-op
 - Sparksoft — Technical Intern
-- SpreeAI — Mobile Software Engineer Intern - Flagship Apps - iOS / Android / Web
 - SRI International — Computer Science Intern
 - Stand Insurance — Fire Science Engineer Intern
 - Stoke Space — Software Intern - Software
@@ -319,6 +318,7 @@ _Generated 2026-08-12_
 - Toshiba Global Commerce — Product & Business Analytics Intern
 - Truist Bank — Analyst Intern Conversion - Multiple Teams
 - Truist Bank — Analyst Intern - Equity Research - Sales, Trading & Research
+- Truist Bank — Fixed Income Loans S&T Intern - Sales, Trading & Research - Analyst Program
 - Truland Equipment — Power Platform Intern
 - Two Six Technologies — China Subject Matter Expert Intern
 - University of Virginia — Graduate Research Intern
