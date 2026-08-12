@@ -249,12 +249,14 @@ _Generated 2026-08-12_
 - ROCKWOOL Group — Paint & Coating Intern
 - Royal Bank of Canada — Business Markets Relationship Manager Intern
 - Royal Bank of Canada — Relationship Manager Commercial Markets Intern
+- RTX — Enterprise Extended Reality Intern
 - RTX — Machine Learning Researcher Intern/Co-op
 - RTX — Software Engineer Intern
 - RTX — Software Engineer Intern
 - RTX — Software Engineer Intern
 - Samsung Research America — Digital Health Algorithms Intern
 - Samsung Research America — ML/NLP Research Intern
+- Sargent & Lundy — AI & Automation Intern - Enterprise Data & Analytics
 - Sargent & Lundy — AI & Automation Intern - Summer 2027
 - Sargent & Lundy — Software Engineer Intern
 - Saronic — Enterprise Technology Intern - AI and Automation
