@@ -8,7 +8,7 @@ _Generated 2026-08-12_
 
 | Company | Listings |
 |---|---|
-| TikTok | 116 |
+| TikTok | 123 |
 | Tesla | 108 |
 | ByteDance | 44 |
 | Jump Trading | 43 |
@@ -19,8 +19,8 @@ _Generated 2026-08-12_
 | Neuralink | 20 |
 | Jane Street | 17 |
 | Palantir Technologies | 17 |
+| RTX | 17 |
 | Rivian and Volkswagen Group Technologies | 16 |
-| RTX | 16 |
 | Meta | 15 |
 | Etched | 14 |
 | Microsoft | 14 |
@@ -33,14 +33,14 @@ _Generated 2026-08-12_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 858 | `█████████████` |
+| software-engineering | 859 | `█████████████` |
 | ai | 164 | `██` |
-| quant | 163 | `██` |
-| machine-learning | 122 | `██` |
+| quant | 164 | `██` |
+| machine-learning | 125 | `██` |
 | research | 93 | `█` |
 | hardware | 74 | `█` |
+| product | 46 | `█` |
 | embedded | 45 | `█` |
-| product | 42 | `█` |
 | cloud | 37 | `█` |
 | design | 34 | `█` |
 | data-science | 26 | `█` |
@@ -58,17 +58,17 @@ _Generated 2026-08-12_
 - 2026-08-12 — **IMC Trading**: [HK - 2027 - Trader Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4941205101)
 - 2026-08-12 — **Léger**: [Research Intern](https://jobs.smartrecruiters.com/Leger2/744000141569336)
 - 2026-08-12 — **Tesla**: [Software Engineer Intern - AI Inference Co Design](https://www.tesla.com/careers/search/job/279600)
+- 2026-08-12 — **TikTok**: [Machine Learning Engineer Intern - E-Commerce Recommendation Foundation](https://lifeattiktok.com/search/7672883129493948677)
+- 2026-08-12 — **TikTok**: [Machine Learning Engineer Intern - E-Commerce Recommendation Foundation](https://lifeattiktok.com/search/7672881840860940597)
+- 2026-08-12 — **TikTok**: [Machine Learning Engineer Intern - E-Commerce Recommendation Mall](https://lifeattiktok.com/search/7672920375646488885)
+- 2026-08-12 — **TikTok**: [Product Manager Intern - Ads Interface and Platform](https://lifeattiktok.com/search/7672569081632229685)
+- 2026-08-12 — **TikTok**: [Product Manager Intern - Ads Interface and Platform](https://lifeattiktok.com/search/7672562486917286149)
+- 2026-08-12 — **TikTok**: [Product Manager Intern - Commerce Ads](https://lifeattiktok.com/search/7672557943224961333)
+- 2026-08-12 — **TikTok**: [Product Manager Intern - Signal and Identity Product](https://lifeattiktok.com/search/7672554809555192117)
+- 2026-08-12 — **Tower Research Capital**: [Quantitative Research Intern - Central Execution Research](https://www.tower-research.com/open-positions/?gh_jid=8113986)
 - 2026-08-11 — **Autodesk**: [Software Developer Intern](https://autodesk.wd1.myworkdayjobs.com/uni/job/Montreal-QC-CAN/Intern-Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD100398-1)
 - 2026-08-11 — **Autodesk**: [Software Developer Intern - Interactive Graphics, Media & Entertainment](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Intern-Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD100398-2)
 - 2026-08-11 — **Booz Allen**: [AI RAN Telecommunications Engineer Intern](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/AI-RAN-Telecommunications-Engineer-Intern_R0246869)
-- 2026-08-11 — **ByteDance**: [Agent Evaluation & Evolution Machine Learning Engineer Intern - Applied Machine Learning Ark](https://jobs.bytedance.com/en/position/7672391300141877557/detail)
-- 2026-08-11 — **ByteDance**: [Data Lake Infrastructure & Data Analytics Research Engineer Intern - Applied Machine Learning Ark](https://jobs.bytedance.com/en/position/7672394389001816325/detail)
-- 2026-08-11 — **ByteDance**: [Machine Learning Engineer Intern - AML-Engine-Orchestration](https://jobs.bytedance.com/en/position/7672382828525832501/detail)
-- 2026-08-11 — **ByteDance**: [Software Engineer Intern - AML-Engine-Orchestration](https://jobs.bytedance.com/en/position/7672386983965100341/detail)
-- 2026-08-11 — **ByteDance**: [Visual Generation & Multimodal Evaluation Machine Learning Engineer Intern - AML-ARK](https://jobs.bytedance.com/en/position/7672392998231050549/detail)
-- 2026-08-11 — **Caddi Workflow Automation**: [Software Engineer Intern](https://apply.workable.com/trycaddi/j/9D1291C697/apply)
-- 2026-08-11 — **CCC Intelligent Solutions**: [Data Science Intern - R&D](https://cccis.wd1.myworkdayjobs.com/broadbean_external/job/Chicago-Green-St-IL/R-D---Data-Science-Internship-Fall-2026_0014841)
-- 2026-08-11 — **Commence**: [Health Data Analyst Intern](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4408640)
 
 ## Recently closed
 
@@ -128,6 +128,7 @@ _Generated 2026-08-12_
 - Cloudflare — Customer Advocacy Intern (Fall 2026)
 - Cloudflare — GRC Team Intern (Fall 2026)
 - Cloudflare — Marketing Events and Campaigns Intern (Fall 2026)
+- Cloudflare — Marketing Programs and Analytics Intern (Fall 2026)
 - Cloudflare — Public Policy Intern
 - Cloudflare — Sales Project Manager Intern (AI Innovation) (Fall 2026)
 - Cloudflare — Technical Marketing Intern (Fall 2026)

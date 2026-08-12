@@ -1,6 +1,6 @@
 # 📬 InternAtlas Weekly Digest — 2026-08-12
 
-## 🆕 New this week (255)
+## 🆕 New this week (263)
 
 - **Alayacare** — [Full-Stack Developer Intern - Python](https://alayacare.com/open-positions?gh_jid=8687981002) · software-engineering · —
 - **Altamira Technologies** — [Research and Development Intern](https://jobs.jobvite.com/altamiracorps/job/oHqCAfw3?nl=1&nl=1&fr=false) · research · —
@@ -222,9 +222,16 @@
 - **TikTok** — [Issue Discovery Operations Intern - Content Ecosystem](https://lifeattiktok.com/search/7667582040108222773) · software-engineering · —
 - **TikTok** — [LLM Post-training Engineer Intern - Research & Product](https://lifeattiktok.com/search/7670285031018432773) · ai · —
 - **TikTok** — [Machine Learning Engineer Intern - Data-Global E-Commerce-Search](https://lifeattiktok.com/search/7668415591670417717) · machine-learning · —
+- **TikTok** — [Machine Learning Engineer Intern - E-Commerce Recommendation Foundation](https://lifeattiktok.com/search/7672883129493948677) · machine-learning · —
+- **TikTok** — [Machine Learning Engineer Intern - E-Commerce Recommendation Foundation](https://lifeattiktok.com/search/7672881840860940597) · machine-learning · —
+- **TikTok** — [Machine Learning Engineer Intern - E-Commerce Recommendation Mall](https://lifeattiktok.com/search/7672920375646488885) · machine-learning · —
 - **TikTok** — [Machine Learning Engineer Intern - E-Commerce Recommendation/Search Alliance](https://lifeattiktok.com/search/7670247810111768837) · machine-learning · —
 - **TikTok** — [Machine Learning Engineer Intern - Search](https://lifeattiktok.com/search/7668396597746862341) · machine-learning · —
+- **TikTok** — [Product Manager Intern - Ads Interface and Platform](https://lifeattiktok.com/search/7672569081632229685) · product · —
+- **TikTok** — [Product Manager Intern - Ads Interface and Platform](https://lifeattiktok.com/search/7672562486917286149) · product · —
+- **TikTok** — [Product Manager Intern - Commerce Ads](https://lifeattiktok.com/search/7672557943224961333) · product · —
 - **TikTok** — [Product Manager Intern - Product Infrastructure - Account](https://lifeattiktok.com/search/7670009830602721589) · cloud · —
+- **TikTok** — [Product Manager Intern - Signal and Identity Product](https://lifeattiktok.com/search/7672554809555192117) · product · —
 - **TikTok** — [Product Operations Intern - Apps and API](https://lifeattiktok.com/search/7669927344569764101) · software-engineering · —
 - **TikTok** — [Product Operations Intern - TikTok Shop Apps and API - MBA](https://lifeattiktok.com/search/7668820702623467781) · software-engineering · —
 - **TikTok** — [Software Engineer Intern - Foundation Platform](https://lifeattiktok.com/search/7670281449668905269) · software-engineering · —
@@ -232,6 +239,7 @@
 - **TikTok** — [Software Engineer Intern - Global E-Commerce Search Infrastructure](https://lifeattiktok.com/search/7662594807715072261) · cloud · —
 - **TikTok** — [Software Engineer Intern - Media Engine](https://lifeattiktok.com/search/7670295535077427509) · software-engineering · —
 - **TikTok** — [Strategy Product Manager Intern - Platform Responsibility](https://lifeattiktok.com/search/7670420287191517493) · product · —
+- **Tower Research Capital** — [Quantitative Research Intern - Central Execution Research](https://www.tower-research.com/open-positions/?gh_jid=8113986) · quant · —
 - **Trillium** — [Software Engineer Intern - Summer 2027](https://www.trlm.com/apply/5207089007?gh_jid=5207089007) · software-engineering · —
 - **Truist Bank** — [Analyst Intern Conversion - Multiple Teams](https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/New-York-NY/XMLNAME-2027-Truist-Securities---Equity-S-T--Sales--Trading---Research----Analyst-Program--INTERN-CONVERSION-_R0117763-1) · software-engineering · —
 - **Truist Bank** — [Analyst Intern - Equity Research - Sales, Trading & Research](https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Atlanta-GA/XMLNAME-2027-Truist-Securities---Equity-Research--Sales--Trading---Research----Analyst-Program--INTERN-CONVERSION-_R0117762-1) · quant · —
