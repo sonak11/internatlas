@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "peak6-trading-bootcamp-micro-internship-summer-2027-2027",
+  "id": "virtu-financial-2027-internship-fpga-engineer-2027",
   "company": {
-    "name": "PEAK6",
-    "slug": "peak6"
+    "name": "Virtu Financial",
+    "slug": "virtu-financial",
+    "career_page": "https://www.virtu.com/careers"
   },
-  "role": "Trading Bootcamp Micro-Internship - Summer 2027",
-  "category": "quant",
-  "apply_url": "https://peak6group.wd1.myworkdayjobs.com/CapMan/job/Chicago-IL/Trading-Bootcamp-Micro-Internship---Summer-2027_JR105057",
+  "role": "2027 Internship - FPGA Engineer",
+  "category": "hardware",
+  "apply_url": "https://job-boards.greenhouse.io/virtu/jobs/8638124002",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Chicago",
-      "state": "IL",
+      "city": "Dublin",
       "country": "USA"
     }
   ],
@@ -40,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-10",
-    "discovered": "2026-08-10",
+    "posted": "2026-08-12",
+    "discovered": "2026-08-12",
     "last_verified": "2026-08-12"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:ats"
   ]
 }

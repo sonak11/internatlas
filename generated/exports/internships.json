@@ -1,6 +1,6 @@
 {
   "generated": "2026-08-12",
-  "count": 1699,
+  "count": 1703,
   "internships": [
     {
       "schema_version": "1.0",
@@ -15011,6 +15011,60 @@
     },
     {
       "schema_version": "1.0",
+      "id": "ccc-intelligent-solutions-data-science-engineer-intern-2026",
+      "company": {
+        "name": "CCC Intelligent Solutions",
+        "slug": "ccc-intelligent-solutions"
+      },
+      "role": "Data Science Engineer Intern",
+      "category": "data-science",
+      "apply_url": "https://cccis.wd1.myworkdayjobs.com/broadbean_external/job/Chicago-Green-St-IL/Data-Science-Engineer-Internship_0014843",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Chicago",
+          "state": "IL",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-12",
+        "discovered": "2026-08-12",
+        "last_verified": "2026-08-12"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "ccc-intelligent-solutions-data-science-intern-r-d-2026",
       "company": {
         "name": "CCC Intelligent Solutions",
@@ -18261,7 +18315,7 @@
         "discovered": "2026-08-04",
         "last_verified": "2026-08-12"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -55650,7 +55704,7 @@
         "discovered": "2026-08-10",
         "last_verified": "2026-08-12"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -62036,6 +62090,60 @@
     },
     {
       "schema_version": "1.0",
+      "id": "rtx-software-engineer-intern-2027-3b20e3",
+      "company": {
+        "name": "RTX",
+        "slug": "rtx"
+      },
+      "role": "Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-FL-LARGO-382SR--7887-Bryan-Dairy-Rd--BLDG-600/Software-Engineer-Intern--Summer-2027-_01864811-1",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Largo",
+          "state": "FL",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-10",
+        "discovered": "2026-08-12",
+        "last_verified": "2026-08-12"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "rtx-software-engineer-intern-2027-6e9169",
       "company": {
         "name": "RTX",
@@ -62200,14 +62308,14 @@
       },
       "role": "Software Engineer Intern",
       "category": "software-engineering",
-      "apply_url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-FL-LARGO-382SR--7887-Bryan-Dairy-Rd--BLDG-600/Software-Engineer-Intern--Summer-2027-_01864811-1",
+      "apply_url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AL-HUNTSVILLE-382--420-Jan-Davis-Dr--DAVIS-382/Summer-2027--Software-Intern-OnSite_01865160",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
       "locations": [
         {
-          "city": "Largo",
-          "state": "FL",
+          "city": "Huntsville",
+          "state": "AL",
           "country": "USA"
         }
       ],
@@ -62235,7 +62343,7 @@
         "resume_keywords": []
       },
       "dates": {
-        "posted": "2026-08-10",
+        "posted": "2026-08-12",
         "discovered": "2026-07-27",
         "last_verified": "2026-08-12"
       },
@@ -87799,7 +87907,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "university-system-of-new-hampshire-robotics-intern-2026",
+      "id": "university-system-of-new-hampshire-robotics-intern-2026-1ebd7b",
       "company": {
         "name": "University System of New Hampshire",
         "slug": "university-system-of-new-hampshire"
@@ -87842,6 +87950,60 @@
       },
       "dates": {
         "posted": "2026-08-11",
+        "discovered": "2026-08-12",
+        "last_verified": "2026-08-12"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "university-system-of-new-hampshire-robotics-intern-2026",
+      "company": {
+        "name": "University System of New Hampshire",
+        "slug": "university-system-of-new-hampshire"
+      },
+      "role": "Robotics Intern",
+      "category": "software-engineering",
+      "apply_url": "https://usnh.wd5.myworkdayjobs.com/Careers/job/University-of-New-Hampshire--Main-Campus/Research-Intern_JR8497",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Durham",
+          "state": "NH",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-12",
         "discovered": "2026-08-11",
         "last_verified": "2026-08-12"
       },
@@ -88885,6 +89047,58 @@
       "dates": {
         "posted": "2022-08-15",
         "discovered": "2026-07-30",
+        "last_verified": "2026-08-12"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "virtu-financial-2027-internship-fpga-engineer-2027",
+      "company": {
+        "name": "Virtu Financial",
+        "slug": "virtu-financial",
+        "career_page": "https://www.virtu.com/careers"
+      },
+      "role": "2027 Internship - FPGA Engineer",
+      "category": "hardware",
+      "apply_url": "https://job-boards.greenhouse.io/virtu/jobs/8638124002",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Dublin",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-12",
+        "discovered": "2026-08-12",
         "last_verified": "2026-08-12"
       },
       "status": "open",

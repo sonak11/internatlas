@@ -17,14 +17,14 @@ _Generated 2026-08-12_
 | IMC Trading | 23 |
 | Susquehanna International Group (SIG) | 21 |
 | Neuralink | 20 |
+| RTX | 18 |
 | Jane Street | 17 |
 | Palantir Technologies | 17 |
-| RTX | 17 |
 | Rivian and Volkswagen Group Technologies | 16 |
 | Meta | 15 |
 | Etched | 14 |
 | Microsoft | 14 |
-| Virtu Financial | 13 |
+| Virtu Financial | 14 |
 | Ciena | 12 |
 | Optiver | 12 |
 | Astranis | 11 |
@@ -33,22 +33,23 @@ _Generated 2026-08-12_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 859 | `█████████████` |
+| software-engineering | 861 | `█████████████` |
 | ai | 164 | `██` |
 | quant | 164 | `██` |
 | machine-learning | 125 | `██` |
 | research | 93 | `█` |
-| hardware | 74 | `█` |
+| hardware | 75 | `█` |
 | product | 46 | `█` |
 | embedded | 45 | `█` |
 | cloud | 37 | `█` |
 | design | 34 | `█` |
-| data-science | 26 | `█` |
+| data-science | 27 | `█` |
 | data-engineering | 20 | `█` |
 | security | 12 | `█` |
 
 ## Newest listings
 
+- 2026-08-12 — **CCC Intelligent Solutions**: [Data Science Engineer Intern](https://cccis.wd1.myworkdayjobs.com/broadbean_external/job/Chicago-Green-St-IL/Data-Science-Engineer-Internship_0014843)
 - 2026-08-12 — **Felix Magazine**: [Database Coordinator Volunteer/Intern](https://jobs.smartrecruiters.com/LuxeMediaLLC/83121944)
 - 2026-08-12 — **Felix Magazine**: [Web Developer/Programmer Intern](https://jobs.smartrecruiters.com/LuxeMediaLLC/89098193)
 - 2026-08-12 — **Felix Magazine**: [Web Developer/Programmer Intern](https://jobs.smartrecruiters.com/LuxeMediaLLC/83337967)
@@ -57,6 +58,7 @@ _Generated 2026-08-12_
 - 2026-08-12 — **IMC Trading**: [HK - 2027 - Software Engineer Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4941206101)
 - 2026-08-12 — **IMC Trading**: [HK - 2027 - Trader Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4941205101)
 - 2026-08-12 — **Léger**: [Research Intern](https://jobs.smartrecruiters.com/Leger2/744000141569336)
+- 2026-08-12 — **RTX**: [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AL-HUNTSVILLE-382--420-Jan-Davis-Dr--DAVIS-382/Summer-2027--Software-Intern-OnSite_01865160)
 - 2026-08-12 — **Tesla**: [Software Engineer Intern - AI Inference Co Design](https://www.tesla.com/careers/search/job/279600)
 - 2026-08-12 — **TikTok**: [Machine Learning Engineer Intern - E-Commerce Recommendation Foundation](https://lifeattiktok.com/search/7672883129493948677)
 - 2026-08-12 — **TikTok**: [Machine Learning Engineer Intern - E-Commerce Recommendation Foundation](https://lifeattiktok.com/search/7672881840860940597)
@@ -66,9 +68,7 @@ _Generated 2026-08-12_
 - 2026-08-12 — **TikTok**: [Product Manager Intern - Commerce Ads](https://lifeattiktok.com/search/7672557943224961333)
 - 2026-08-12 — **TikTok**: [Product Manager Intern - Signal and Identity Product](https://lifeattiktok.com/search/7672554809555192117)
 - 2026-08-12 — **Tower Research Capital**: [Quantitative Research Intern - Central Execution Research](https://www.tower-research.com/open-positions/?gh_jid=8113986)
-- 2026-08-11 — **Autodesk**: [Software Developer Intern](https://autodesk.wd1.myworkdayjobs.com/uni/job/Montreal-QC-CAN/Intern-Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD100398-1)
-- 2026-08-11 — **Autodesk**: [Software Developer Intern - Interactive Graphics, Media & Entertainment](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Intern-Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD100398-2)
-- 2026-08-11 — **Booz Allen**: [AI RAN Telecommunications Engineer Intern](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/AI-RAN-Telecommunications-Engineer-Intern_R0246869)
+- 2026-08-12 — **University System of New Hampshire**: [Robotics Intern](https://usnh.wd5.myworkdayjobs.com/Careers/job/University-of-New-Hampshire--Main-Campus/Research-Intern_JR8497)
 
 ## Recently closed
 
@@ -128,6 +128,7 @@ _Generated 2026-08-12_
 - Cloudflare — Customer Advocacy Intern (Fall 2026)
 - Cloudflare — GRC Team Intern (Fall 2026)
 - Cloudflare — Marketing Events and Campaigns Intern (Fall 2026)
+- Cloudflare — Marketing Programs and Analytics Intern
 - Cloudflare — Marketing Programs and Analytics Intern (Fall 2026)
 - Cloudflare — Public Policy Intern
 - Cloudflare — Sales Project Manager Intern (AI Innovation) (Fall 2026)
@@ -233,6 +234,7 @@ _Generated 2026-08-12_
 - Otter Products — Artificial Intelligence Intern
 - Outpost Technologies — Technical Marketing Intern - Analytics - Research & Automation
 - Output Biosciences — Research Intern - Machine Learning
+- PEAK6 — Trading Bootcamp Micro-Internship - Summer 2027
 - PEAK6 — Trading Intern
 - Pennsylvania State University — AI/ML Research and Development Intern
 - Pennsylvania State University — Electronic Materials and Devices Engineer Intern - Electronic Materials and Devices
