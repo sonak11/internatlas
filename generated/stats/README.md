@@ -17,7 +17,7 @@ _Generated 2026-08-12_
 | IMC Trading | 23 |
 | Susquehanna International Group (SIG) | 21 |
 | Neuralink | 20 |
-| RTX | 18 |
+| RTX | 20 |
 | Jane Street | 17 |
 | Palantir Technologies | 17 |
 | Rivian and Volkswagen Group Technologies | 16 |
@@ -33,42 +33,42 @@ _Generated 2026-08-12_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 864 | `█████████████` |
+| software-engineering | 873 | `█████████████` |
 | quant | 166 | `██` |
-| ai | 164 | `██` |
+| ai | 165 | `██` |
 | machine-learning | 126 | `██` |
-| research | 93 | `█` |
+| research | 94 | `█` |
 | hardware | 75 | `█` |
 | product | 49 | `█` |
 | embedded | 45 | `█` |
 | cloud | 37 | `█` |
 | design | 34 | `█` |
-| data-science | 27 | `█` |
-| data-engineering | 20 | `█` |
+| data-science | 28 | `█` |
+| data-engineering | 21 | `█` |
 | security | 12 | `█` |
 
 ## Newest listings
 
+- 2026-08-12 — **American Fidelity**: [Software Development Intern](https://americanfidelity.wd5.myworkdayjobs.com/External/job/Oklahoma-City-Oklahoma/Software-Dev-Internship_JR1005)
 - 2026-08-12 — **Assured Guaranty**: [Product Software Developer Intern](https://boards.greenhouse.io/assuredguaranty/jobs/8700953002)
 - 2026-08-12 — **CCC Intelligent Solutions**: [Data Science Engineer Intern](https://cccis.wd1.myworkdayjobs.com/broadbean_external/job/Chicago-Green-St-IL/Data-Science-Engineer-Internship_0014843)
+- 2026-08-12 — **Cotiviti**: [Agentic AI Research Intern](https://careers-cotiviti.icims.com/jobs/19480/job?mobile=true&needsRedirect=false)
 - 2026-08-12 — **DV Trading**: [Trading Intern](https://job-boards.greenhouse.io/dvtrading/jobs/4719135005)
 - 2026-08-12 — **Felix Magazine**: [Database Coordinator Volunteer/Intern](https://jobs.smartrecruiters.com/LuxeMediaLLC/83121944)
 - 2026-08-12 — **Felix Magazine**: [Web Developer/Programmer Intern](https://jobs.smartrecruiters.com/LuxeMediaLLC/89098193)
 - 2026-08-12 — **Felix Magazine**: [Web Developer/Programmer Intern](https://jobs.smartrecruiters.com/LuxeMediaLLC/83337967)
 - 2026-08-12 — **Felix Magazine**: [Web Developer/Programmer Intern](https://jobs.smartrecruiters.com/LuxeMediaLLC/83337884)
+- 2026-08-12 — **GE Vernova**: [Engineering Intern](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Niskayuna/Engineering-Intern---Power-Conversion---Storage-AI-Tool-Developer--2027_R5049957-2)
+- 2026-08-12 — **GE Vernova**: [Engineering Intern](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Niskayuna/Engineering-Intern---Power-Conversion---Storage-AI-Tool-Developer--2027_R5049957-1)
+- 2026-08-12 — **Heidelberg Materials**: [Master Data Intern - Service & Support](https://heidelbergmaterials.wd3.myworkdayjobs.com/global_hm_career_site/job/Irving-TX/Master-Data-Intern_JR10017954-1)
+- 2026-08-12 — **Howmet Aerospace**: [Engineering Intern](https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/118908)
+- 2026-08-12 — **IES Holdings**: [Data Analytics Intern](https://joinus.ies-co.com/jobs/24176?icims=1)
 - 2026-08-12 — **IMC Trading**: [HK - 2027 - Quant Research Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4941208101)
 - 2026-08-12 — **IMC Trading**: [HK - 2027 - Software Engineer Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4941206101)
 - 2026-08-12 — **IMC Trading**: [HK - 2027 - Trader Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4941205101)
 - 2026-08-12 — **Léger**: [Research Intern](https://jobs.smartrecruiters.com/Leger2/744000141569336)
 - 2026-08-12 — **Micron Technology**: [Surface Scientist Intern - Corporate Labs](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Corporate-Labs_JR108442)
-- 2026-08-12 — **Northwestern Mutual**: [Quantitative Analyst Intern - Public Investments](https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Milwaukee-WI-Corporate/Public-Investments-Quantitative-Analyst-Intern--Summer-2027_JR-45807)
-- 2026-08-12 — **RTX**: [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AL-HUNTSVILLE-382--420-Jan-Davis-Dr--DAVIS-382/Summer-2027--Software-Intern-OnSite_01865160)
-- 2026-08-12 — **Tesla**: [Software Engineer Intern - AI Inference Co Design](https://www.tesla.com/careers/search/job/279600)
-- 2026-08-12 — **TikTok**: [Machine Learning Engineer Intern - E-Commerce Recommendation Foundation](https://lifeattiktok.com/search/7672883129493948677)
-- 2026-08-12 — **TikTok**: [Machine Learning Engineer Intern - E-Commerce Recommendation Foundation](https://lifeattiktok.com/search/7672881840860940597)
-- 2026-08-12 — **TikTok**: [Machine Learning Engineer Intern - E-Commerce Recommendation Mall](https://lifeattiktok.com/search/7672920375646488885)
-- 2026-08-12 — **TikTok**: [Product Manager Intern - Ads Interface and Platform](https://lifeattiktok.com/search/7672569081632229685)
-- 2026-08-12 — **TikTok**: [Product Manager Intern - Ads Interface and Platform](https://lifeattiktok.com/search/7672562486917286149)
+- 2026-08-12 — **Navy Federal**: [Data Engineering Intern](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/29792)
 
 ## Recently closed
 
@@ -186,7 +186,6 @@ _Generated 2026-08-12_
 - Integrity — Research Intern
 - Intel — AI Software Engineer Intern
 - JINGDONG — Software Engineering Intern
-- JP Morgan Chase — Data & AI Intern - Analyst
 - KBR — Software Intern
 - Keysight Technologies — R&D Software Engineer Intern
 - Kinaxis — Engineer Co-op/Intern - Data & Analytics

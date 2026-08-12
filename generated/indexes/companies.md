@@ -39,6 +39,7 @@
 | [American Bureau of Shipping](../companies/american-bureau-of-shipping.md) | 0/1 | ai |
 | [American Enterprise Institute](../companies/american-enterprise-institute.md) | 3/4 | ai, software-engineering |
 | [American Express](../companies/american-express.md) | 9/10 | product, software-engineering |
+| [American Fidelity](../companies/american-fidelity.md) | 1/1 | software-engineering |
 | [Amgen](../companies/amgen.md) | 1/1 | software-engineering |
 | [Amwins](../companies/amwins.md) | 0/1 | ai |
 | [Anduril](../companies/anduril.md) | 6/6 | hardware, software-engineering |
@@ -140,7 +141,7 @@
 | [Constellation Space](../companies/constellation-space.md) | 1/1 | machine-learning |
 | [Copart](../companies/copart.md) | 5/11 | data-engineering, software-engineering |
 | [Core & Main](../companies/core-main.md) | 1/1 | machine-learning |
-| [Cotiviti](../companies/cotiviti.md) | 1/1 | ai |
+| [Cotiviti](../companies/cotiviti.md) | 2/2 | ai |
 | [Cubist Systematic Strategies](../companies/cubist-systematic-strategies.md) | 1/1 | quant |
 | [CuspAI](../companies/cuspai.md) | 1/1 | software-engineering |
 | [Cybernetic Labs](../companies/cybernetic-labs.md) | 3/3 | software-engineering |
@@ -217,7 +218,7 @@
 | [GE Aerospace](../companies/ge-aerospace.md) | 0/1 | software-engineering |
 | [GE Appliances](../companies/ge-appliances.md) | 0/1 | software-engineering |
 | [GE Healthcare](../companies/ge-healthcare.md) | 0/2 | hardware, software-engineering |
-| [GE Vernova](../companies/ge-vernova.md) | 2/4 | product, software-engineering |
+| [GE Vernova](../companies/ge-vernova.md) | 4/6 | product, software-engineering |
 | [GRITT ROBOTICS INC](../companies/gritt-robotics-inc.md) | 1/1 | machine-learning |
 | [Gemini](../companies/gemini.md) | 1/3 | product, software-engineering |
 | [GenMD](../companies/genmd.md) | 1/1 | ai |
@@ -245,6 +246,7 @@
 | [HNTB](../companies/hntb.md) | 2/2 | software-engineering |
 | [HPR (Hyannis Port Research)](../companies/hpr-hyannis-port-research.md) | 2/2 | hardware, software-engineering |
 | [Harris Computer](../companies/harris-computer.md) | 1/1 | software-engineering |
+| [Heidelberg Materials](../companies/heidelberg-materials.md) | 1/1 | software-engineering |
 | [Heliux](../companies/heliux.md) | 3/3 | software-engineering |
 | [Helsing](../companies/helsing.md) | 1/1 | ai |
 | [Hendrick Motorsports](../companies/hendrick-motorsports.md) | 1/3 | software-engineering |
@@ -257,10 +259,12 @@
 | [Homebase](../companies/homebase.md) | 1/1 | ai |
 | [Hone Health](../companies/hone-health.md) | 1/1 | data-engineering |
 | [Horizon Industries](../companies/horizon-industries.md) | 1/1 | software-engineering |
+| [Howmet Aerospace](../companies/howmet-aerospace.md) | 1/1 | software-engineering |
 | [Hubs.is](../companies/hubs-is.md) | 1/1 | software-engineering |
 | [Hudson River Trading](../companies/hudson-river-trading.md) | 5/5 | quant, software-engineering |
 | [Human Computer Lab](../companies/human-computer-lab.md) | 1/1 | machine-learning |
 | [HyperLight](../companies/hyperlight.md) | 2/2 | software-engineering |
+| [IES Holdings](../companies/ies-holdings.md) | 1/1 | software-engineering |
 | [IMC](../companies/imc.md) | 4/4 | hardware, quant, software-engineering |
 | [IMC Trading](../companies/imc-trading.md) | 16/23 | hardware, machine-learning, quant |
 | [ING](../companies/ing.md) | 0/1 | software-engineering |
@@ -281,7 +285,7 @@
 | [International Rescue Committee (IRC)](../companies/international-rescue-committee-irc.md) | 2/2 | research, software-engineering |
 | [Intuitive Surgical](../companies/intuitive-surgical.md) | 1/1 | software-engineering |
 | [JINGDONG](../companies/jingdong.md) | 0/1 | software-engineering |
-| [JP Morgan Chase](../companies/jp-morgan-chase.md) | 6/7 | ai, quant, software-engineering |
+| [JP Morgan Chase](../companies/jp-morgan-chase.md) | 7/7 | ai, quant, software-engineering |
 | [Jane Street](../companies/jane-street.md) | 17/17 | data-engineering, hardware, machine-learning, quant, research, security, software-engineering |
 | [Jump Trading](../companies/jump-trading.md) | 42/43 | ai, data-engineering, design, hardware, machine-learning, quant, research |
 | [Junior AI](../companies/junior-ai.md) | 1/1 | software-engineering |
@@ -352,7 +356,7 @@
 | [National Laboratory of the Rockies](../companies/national-laboratory-of-the-rockies.md) | 7/9 | cloud, data-science, software-engineering |
 | [Nationwide Children's Hospital](../companies/nationwide-children-s-hospital.md) | 1/2 | research |
 | [Naver U.Hub INC](../companies/naver-u-hub-inc.md) | 1/1 | product |
-| [Navy Federal](../companies/navy-federal.md) | 0/1 | software-engineering |
+| [Navy Federal](../companies/navy-federal.md) | 3/4 | data-engineering, data-science, software-engineering |
 | [Naïve](../companies/na-ve.md) | 1/1 | software-engineering |
 | [Nebo](../companies/nebo.md) | 3/3 | software-engineering |
 | [Nelnet](../companies/nelnet.md) | 1/1 | ai |
@@ -362,6 +366,7 @@
 | [Netic](../companies/netic.md) | 4/4 | software-engineering |
 | [Netsmart](../companies/netsmart.md) | 1/1 | software-engineering |
 | [Neuralink](../companies/neuralink.md) | 19/20 | cloud, design, embedded, hardware, machine-learning, software-engineering |
+| [New Balance](../companies/new-balance.md) | 1/1 | research |
 | [New York Post Holdings](../companies/new-york-post-holdings.md) | 1/1 | software-engineering |
 | [NewsBreak](../companies/newsbreak.md) | 0/1 | software-engineering |
 | [Nexstar](../companies/nexstar.md) | 1/1 | software-engineering |
@@ -427,7 +432,7 @@
 | [RFCUNY](../companies/rfcuny.md) | 2/2 | software-engineering |
 | [RLI](../companies/rli.md) | 1/1 | product |
 | [ROCKWOOL Group](../companies/rockwool-group.md) | 0/2 | product, software-engineering |
-| [RTX](../companies/rtx.md) | 13/18 | machine-learning, software-engineering |
+| [RTX](../companies/rtx.md) | 15/20 | machine-learning, software-engineering |
 | [Radix Trading](../companies/radix-trading.md) | 1/1 | quant |
 | [Rainmaker](../companies/rainmaker.md) | 0/1 | software-engineering |
 | [Rakuten International](../companies/rakuten-international.md) | 0/1 | software-engineering |

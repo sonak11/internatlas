@@ -1,6 +1,6 @@
 {
   "generated": "2026-08-12",
-  "count": 1712,
+  "count": 1725,
   "internships": [
     {
       "schema_version": "1.0",
@@ -3755,6 +3755,58 @@
       "dates": {
         "posted": "2026-08-03",
         "discovered": "2026-08-03",
+        "last_verified": "2026-08-12"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "american-fidelity-software-development-intern-2027",
+      "company": {
+        "name": "American Fidelity",
+        "slug": "american-fidelity"
+      },
+      "role": "Software Development Intern",
+      "category": "software-engineering",
+      "apply_url": "https://americanfidelity.wd5.myworkdayjobs.com/External/job/Oklahoma-City-Oklahoma/Software-Dev-Internship_JR1005",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Oklahoma City",
+          "state": "OK",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-12",
+        "discovered": "2026-08-12",
         "last_verified": "2026-08-12"
       },
       "status": "open",
@@ -21008,6 +21060,54 @@
     },
     {
       "schema_version": "1.0",
+      "id": "cotiviti-agentic-ai-research-intern-2026",
+      "company": {
+        "name": "Cotiviti",
+        "slug": "cotiviti"
+      },
+      "role": "Agentic AI Research Intern",
+      "category": "ai",
+      "apply_url": "https://careers-cotiviti.icims.com/jobs/19480/job?mobile=true&needsRedirect=false",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "remote",
+      "locations": [],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-12",
+        "discovered": "2026-08-12",
+        "last_verified": "2026-08-12"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "cotiviti-generative-ai-research-engineer-intern-2026",
       "company": {
         "name": "Cotiviti",
@@ -28688,6 +28788,110 @@
     },
     {
       "schema_version": "1.0",
+      "id": "ge-vernova-engineering-intern-2027-90c477",
+      "company": {
+        "name": "GE Vernova",
+        "slug": "ge-vernova"
+      },
+      "role": "Engineering Intern",
+      "category": "software-engineering",
+      "apply_url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Niskayuna/Engineering-Intern---Power-Conversion---Storage-AI-Tool-Developer--2027_R5049957-2",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Niskayuna",
+          "state": "NY",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-12",
+        "discovered": "2026-08-12",
+        "last_verified": "2026-08-12"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "ge-vernova-engineering-intern-2027",
+      "company": {
+        "name": "GE Vernova",
+        "slug": "ge-vernova"
+      },
+      "role": "Engineering Intern",
+      "category": "software-engineering",
+      "apply_url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Niskayuna/Engineering-Intern---Power-Conversion---Storage-AI-Tool-Developer--2027_R5049957-1",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Niskayuna",
+          "state": "NY",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-12",
+        "discovered": "2026-08-12",
+        "last_verified": "2026-08-12"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "ge-vernova-ge-vernova-grid-automation-product-management-intern-2026-4c23c3",
       "company": {
         "name": "GE Vernova",
@@ -31172,6 +31376,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "heidelberg-materials-master-data-intern-service-support-2026",
+      "company": {
+        "name": "Heidelberg Materials",
+        "slug": "heidelberg-materials"
+      },
+      "role": "Master Data Intern - Service & Support",
+      "category": "software-engineering",
+      "apply_url": "https://heidelbergmaterials.wd3.myworkdayjobs.com/global_hm_career_site/job/Irving-TX/Master-Data-Intern_JR10017954-1",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Irving",
+          "state": "TX",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-12",
+        "discovered": "2026-08-12",
+        "last_verified": "2026-08-12"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "heliux-software-engineer-intern-2027-23752c",
       "company": {
         "name": "Heliux",
@@ -32508,6 +32764,57 @@
     },
     {
       "schema_version": "1.0",
+      "id": "howmet-aerospace-engineering-intern-2026",
+      "company": {
+        "name": "Howmet Aerospace",
+        "slug": "howmet-aerospace"
+      },
+      "role": "Engineering Intern",
+      "category": "software-engineering",
+      "apply_url": "https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/118908",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Laval",
+          "country": "QC"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-12",
+        "discovered": "2026-08-12",
+        "last_verified": "2026-08-12"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "hpr-hyannis-port-research-fpga-engineer-intern-2027",
       "company": {
         "name": "HPR (Hyannis Port Research)",
@@ -33105,6 +33412,58 @@
       "tags": [
         "auto-ingested",
         "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "ies-holdings-data-analytics-intern-2026",
+      "company": {
+        "name": "IES Holdings",
+        "slug": "ies-holdings"
+      },
+      "role": "Data Analytics Intern",
+      "category": "software-engineering",
+      "apply_url": "https://joinus.ies-co.com/jobs/24176?icims=1",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Manitowoc",
+          "state": "WI",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-12",
+        "discovered": "2026-08-12",
+        "last_verified": "2026-08-12"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
       ]
     },
     {
@@ -37030,7 +37389,7 @@
         "discovered": "2026-08-03",
         "last_verified": "2026-08-12"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -48534,6 +48893,175 @@
     },
     {
       "schema_version": "1.0",
+      "id": "navy-federal-data-engineering-intern-2026",
+      "company": {
+        "name": "Navy Federal",
+        "slug": "navy-federal"
+      },
+      "role": "Data Engineering Intern",
+      "category": "data-engineering",
+      "apply_url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/29792",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Vienna",
+          "state": "VA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-12",
+        "discovered": "2026-08-12",
+        "last_verified": "2026-08-12"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "navy-federal-data-scientist-intern-2026",
+      "company": {
+        "name": "Navy Federal",
+        "slug": "navy-federal"
+      },
+      "role": "Data Scientist Intern",
+      "category": "data-science",
+      "apply_url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/31873",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Pensacola",
+          "state": "FL",
+          "country": "USA"
+        },
+        {
+          "city": "Vienna",
+          "state": "VA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters",
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-12",
+        "discovered": "2026-08-12",
+        "last_verified": "2026-08-12"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "navy-federal-frontend-application-engineer-intern-2026",
+      "company": {
+        "name": "Navy Federal",
+        "slug": "navy-federal"
+      },
+      "role": "Frontend Application Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/29776",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Pensacola",
+          "state": "FL",
+          "country": "USA"
+        },
+        {
+          "city": "Vienna",
+          "state": "VA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-14",
+        "discovered": "2026-08-12",
+        "last_verified": "2026-08-12"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "navy-federal-year-round-intern-business-intelligence-analyst-2026",
       "company": {
         "name": "Navy Federal",
@@ -50526,6 +51054,57 @@
       "tags": [
         "auto-ingested",
         "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "new-balance-sports-research-engineer-intern-2026",
+      "company": {
+        "name": "New Balance",
+        "slug": "new-balance"
+      },
+      "role": "Sports Research Engineer Intern",
+      "category": "research",
+      "apply_url": "https://newbalance.wd1.myworkdayjobs.com/careers/job/Sports-Research-Lab-Brighton-MA/Sports-Research-Engineer-Intern_R40740",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Brighton",
+          "country": "Boston"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-12",
+        "discovered": "2026-08-12",
+        "last_verified": "2026-08-12"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
       ]
     },
     {
@@ -62828,6 +63407,60 @@
     },
     {
       "schema_version": "1.0",
+      "id": "rtx-software-engineering-intern-summer-2027-2027",
+      "company": {
+        "name": "RTX",
+        "slug": "rtx"
+      },
+      "role": "Software Engineering Intern - Summer 2027",
+      "category": "software-engineering",
+      "apply_url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineering-Intern--Summer-2027-_01865875",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Cedar Rapids",
+          "state": "IA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-12",
+        "discovered": "2026-08-12",
+        "last_verified": "2026-08-12"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "rtx-systems-engineer-1-intern-intern-conversion-2026-4fbca8",
       "company": {
         "name": "RTX",
@@ -62922,6 +63555,58 @@
       "dates": {
         "posted": "2026-08-07",
         "discovered": "2026-08-07",
+        "last_verified": "2026-08-12"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "rtx-validation-engineer-intern-product-safety-certification-vali-2026",
+      "company": {
+        "name": "RTX",
+        "slug": "rtx"
+      },
+      "role": "Validation Engineer Intern - Product Safety - Certification & Validation",
+      "category": "software-engineering",
+      "apply_url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CT-EAST-HARTFORD-J--400-Main-St--BLDG-J/Intern--Validation-Engineering---Product-Safety--Certification---Validation---Onsite-_01864406",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "East Hartford",
+          "state": "CT",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-12",
+        "discovered": "2026-08-12",
         "last_verified": "2026-08-12"
       },
       "status": "open",
