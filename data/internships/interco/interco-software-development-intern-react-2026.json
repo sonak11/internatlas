@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "schweitzer-engineering-laboratories-engineering-intern-2026",
+  "id": "interco-software-development-intern-react-2026",
   "company": {
-    "name": "Schweitzer Engineering Laboratories",
-    "slug": "schweitzer-engineering-laboratories"
+    "name": "Interco",
+    "slug": "interco"
   },
-  "role": "Engineering Intern",
+  "role": "Software Development Intern - React",
   "category": "software-engineering",
-  "apply_url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Florida---Wesley-Chapel/Engineering-Intern_2026-22361",
+  "apply_url": "https://jobs.smartrecruiters.com/Interco/744000143346169",
   "season": "fall",
   "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Wesley Chapel",
-      "state": "FL",
+      "city": "St. Louis",
+      "state": "MO",
       "country": "USA"
     }
   ],
@@ -41,7 +41,7 @@
   },
   "dates": {
     "posted": "2026-08-13",
-    "discovered": "2026-07-21",
+    "discovered": "2026-08-13",
     "last_verified": "2026-08-13"
   },
   "status": "open",

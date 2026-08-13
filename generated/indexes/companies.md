@@ -105,7 +105,7 @@
 | [CTGT](../companies/ctgt.md) | 1/1 | software-engineering |
 | [Caddi Workflow Automation](../companies/caddi-workflow-automation.md) | 1/1 | software-engineering |
 | [Cadence Design Systems](../companies/cadence-design-systems.md) | 6/6 | design, software-engineering |
-| [Canva](../companies/canva.md) | 3/5 | ai, research |
+| [Canva](../companies/canva.md) | 4/6 | ai, research |
 | [Capital One](../companies/capital-one.md) | 5/8 | data-science, security, software-engineering |
 | [Capula](../companies/capula.md) | 1/1 | quant |
 | [Carnegie Mellon University](../companies/carnegie-mellon-university.md) | 0/1 | research |
@@ -274,7 +274,7 @@
 | [Impulse Space](../companies/impulse-space.md) | 0/2 | software-engineering |
 | [Inbulks](../companies/inbulks.md) | 1/1 | software-engineering |
 | [Incident IQ](../companies/incident-iq.md) | 1/1 | software-engineering |
-| [InfiniteQuant](../companies/infinitequant.md) | 1/3 | quant |
+| [InfiniteQuant](../companies/infinitequant.md) | 2/3 | quant |
 | [Inizio](../companies/inizio.md) | 1/1 | software-engineering |
 | [Innovation Works, Inc.](../companies/innovation-works-inc.md) | 1/1 | software-engineering |
 | [Inogen](../companies/inogen.md) | 0/1 | embedded |
@@ -284,6 +284,7 @@
 | [Intel](../companies/intel.md) | 0/3 | ai |
 | [Intel Corporation](../companies/intel-corporation.md) | 0/1 | ai |
 | [IntelliGenesis](../companies/intelligenesis.md) | 1/1 | data-science |
+| [Interco](../companies/interco.md) | 1/1 | software-engineering |
 | [Intercontinental Exchange, Inc.](../companies/intercontinental-exchange-inc.md) | 1/1 | machine-learning |
 | [International Rescue Committee (IRC)](../companies/international-rescue-committee-irc.md) | 2/2 | research, software-engineering |
 | [Intuitive Surgical](../companies/intuitive-surgical.md) | 1/1 | software-engineering |
@@ -476,7 +477,7 @@
 | [Sargent & Lundy](../companies/sargent-lundy.md) | 0/3 | ai, software-engineering |
 | [Saronic](../companies/saronic.md) | 0/2 | ai, software-engineering |
 | [Scale AI](../companies/scale-ai.md) | 3/3 | ai, software-engineering |
-| [Schweitzer Engineering Laboratories](../companies/schweitzer-engineering-laboratories.md) | 2/5 | ai, software-engineering |
+| [Schweitzer Engineering Laboratories](../companies/schweitzer-engineering-laboratories.md) | 3/5 | ai, software-engineering |
 | [Seaspan](../companies/seaspan.md) | 0/2 | software-engineering |
 | [Sentara Health](../companies/sentara-health.md) | 0/2 | ai |
 | [Sentry](../companies/sentry.md) | 1/1 | software-engineering |

@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "schweitzer-engineering-laboratories-engineering-intern-2026",
+  "id": "canva-phd-research-scientist-intern-2026-1bb10f",
   "company": {
-    "name": "Schweitzer Engineering Laboratories",
-    "slug": "schweitzer-engineering-laboratories"
+    "name": "Canva",
+    "slug": "canva"
   },
-  "role": "Engineering Intern",
-  "category": "software-engineering",
-  "apply_url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Florida---Wesley-Chapel/Engineering-Intern_2026-22361",
+  "role": "PhD Research Scientist Intern",
+  "category": "research",
+  "apply_url": "https://jobs.smartrecruiters.com/Canva/6000000001291655-phd-research-scientist-intern",
   "season": "fall",
   "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Wesley Chapel",
-      "state": "FL",
+      "city": "San Francisco",
+      "state": "CA",
       "country": "USA"
     }
   ],
@@ -40,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-13",
-    "discovered": "2026-07-21",
+    "posted": "2026-08-06",
+    "discovered": "2026-08-13",
     "last_verified": "2026-08-13"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }

@@ -33,11 +33,11 @@ _Generated 2026-08-13_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 887 | `█████████████` |
+| software-engineering | 888 | `█████████████` |
 | quant | 173 | `██` |
 | ai | 167 | `██` |
 | machine-learning | 126 | `██` |
-| research | 93 | `█` |
+| research | 94 | `█` |
 | hardware | 75 | `█` |
 | product | 51 | `█` |
 | embedded | 46 | `█` |
@@ -58,17 +58,17 @@ _Generated 2026-08-13_
 - 2026-08-13 — **Inbulks**: [Junior Front End Developer Intern](https://jobs.smartrecruiters.com/InbulksCorp/743999750129753)
 - 2026-08-13 — **InfiniteQuant**: [Quantitative Developer Intern - Summer 2027](https://jobs.smartrecruiters.com/InfiniteQuant/744000143287594)
 - 2026-08-13 — **InfiniteQuant**: [Quantitative Researcher Intern - Summer 2027](https://jobs.smartrecruiters.com/InfiniteQuant/744000143307421)
+- 2026-08-13 — **Interco**: [Software Development Intern - React](https://jobs.smartrecruiters.com/Interco/744000143346169)
 - 2026-08-13 — **Picton Mahoney Asset Management**: [Business Data Analyst Intern](https://pictonmahoney.bamboohr.com/careers/356/)
 - 2026-08-13 — **Picton Mahoney Asset Management**: [Quantitative Research & Risk Intern](https://pictonmahoney.bamboohr.com/careers/350/)
 - 2026-08-13 — **RRS Group**: [Investment Analyst Intern](https://jobs.smartrecruiters.com/RRSGroup/744000133857769)
 - 2026-08-13 — **RRS Group**: [Software Engineer Intern - Placement Year](https://jobs.smartrecruiters.com/RRSGroup/744000142513209)
 - 2026-08-13 — **RTX**: [Methods Intern - Hot Section Engineering](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Methods-Intern---Hot-Section-Engineering--Summer-2027---Onsite-_01864520)
+- 2026-08-13 — **Schweitzer Engineering Laboratories**: [Engineering Intern](https://selinc.wd1.myworkdayjobs.com/SEL/job/Florida---Wesley-Chapel/Engineering-Intern_2026-22361)
 - 2026-08-13 — **Tesla**: [Firmware Engineer Intern - New Programs Engineering](https://www.tesla.com/careers/search/job/279991)
 - 2026-08-13 — **TikTok**: [Data Science Intern - Advertisement Team](https://lifeattiktok.com/search/7673226686054107445)
 - 2026-08-13 — **TikTok**: [Product Operations Intern - TikTok Shop Apps and API](https://lifeattiktok.com/search/7669705525866383621)
 - 2026-08-13 — **Tuckernuck**: [Product Management Intern](https://tnuck.bamboohr.com/careers/273/)
-- 2026-08-13 — **VWH Capital Management**: [Quantitative Researcher Intern](https://jobs.smartrecruiters.com/VWHCapitalManagementLP/744000135105801)
-- 2026-08-13 — **Wells Fargo**: [Quantitative Analytics Intern - Capital Markets - Masters](https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Quantitative-Analytics-Summer-Internship-Capital-Markets--Masters----Early-Careers_R-568270)
 
 ## Recently closed
 
@@ -181,7 +181,6 @@ _Generated 2026-08-13_
 - IMC Trading — 2027 - Software Engineering Intern - BITS Pilani
 - Impulse Space — Data Analytics Intern
 - InfiniteQuant — Quantitative Researcher Intern
-- InfiniteQuant — Quantitative Researcher Intern - Summer 2027
 - ING — Technology Intern - Innovation
 - Inogen — Firmware Engineer Intern
 - Integrity — Research Intern
@@ -269,7 +268,6 @@ _Generated 2026-08-13_
 - Sargent & Lundy — Software Engineer Intern
 - Saronic — Enterprise Technology Intern - AI and Automation
 - Saronic — Software Engineer Intern
-- Schweitzer Engineering Laboratories — Engineering Intern
 - Schweitzer Engineering Laboratories — Software Engineer Intern
 - Sentara Health — Data & AI Finance Strategy Intern
 - Sentara Health — Enterprise Data & AI Intern
