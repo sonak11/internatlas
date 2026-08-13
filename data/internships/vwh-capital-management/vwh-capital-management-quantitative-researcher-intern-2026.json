@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "studyfetch-engineering-intern-2026",
+  "id": "vwh-capital-management-quantitative-researcher-intern-2026",
   "company": {
-    "name": "StudyFetch",
-    "slug": "studyfetch"
+    "name": "VWH Capital Management",
+    "slug": "vwh-capital-management"
   },
-  "role": "Engineering Intern",
-  "category": "software-engineering",
-  "apply_url": "https://ats.rippling.com/studyfetch/jobs/4ab846a3-a963-46c3-a60d-03fa832fa7d5",
+  "role": "Quantitative Researcher Intern",
+  "category": "quant",
+  "apply_url": "https://jobs.smartrecruiters.com/VWHCapitalManagementLP/744000135105801",
   "season": "fall",
   "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Beverly Hills",
-      "state": "CA",
+      "city": "Dallas",
+      "state": "TX",
       "country": "USA"
     }
   ],
@@ -25,7 +25,9 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "phd"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -40,11 +42,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-03",
-    "discovered": "2026-08-03",
+    "posted": "2026-08-13",
+    "discovered": "2026-08-13",
     "last_verified": "2026-08-13"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

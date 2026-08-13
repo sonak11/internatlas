@@ -33,13 +33,13 @@ _Generated 2026-08-13_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 878 | `█████████████` |
-| quant | 167 | `██` |
+| software-engineering | 884 | `█████████████` |
+| quant | 172 | `██` |
 | ai | 166 | `██` |
 | machine-learning | 126 | `██` |
 | research | 94 | `█` |
 | hardware | 75 | `█` |
-| product | 49 | `█` |
+| product | 50 | `█` |
 | embedded | 45 | `█` |
 | cloud | 37 | `█` |
 | design | 34 | `█` |
@@ -50,25 +50,25 @@ _Generated 2026-08-13_
 ## Newest listings
 
 - 2026-08-13 — **ByteDance**: [Self-Built Engineer Intern - CDN Platform](https://jobs.bytedance.com/en/position/7670364362450733317/detail)
+- 2026-08-13 — **ConnectPrep**: [Data Analyst Intern](https://apply.workable.com/connectprep/j/D1C67258C0/apply)
 - 2026-08-13 — **Epic Games**: [Gameplay Programmer Intern](https://epicgames.com/careers/jobs/6141180004?gh_jid=6141180004)
+- 2026-08-13 — **Gartner**: [Data Analyst Intern](https://gartner.wd5.myworkdayjobs.com/EXT/job/Irving-TX/Data-Analyst-Internship--2028-Graduates-_113297)
+- 2026-08-13 — **Inbulks**: [Junior Front End Developer Intern](https://jobs.smartrecruiters.com/InbulksCorp/743999750129753)
+- 2026-08-13 — **Picton Mahoney Asset Management**: [Business Data Analyst Intern](https://pictonmahoney.bamboohr.com/careers/356/)
+- 2026-08-13 — **Picton Mahoney Asset Management**: [Quantitative Research & Risk Intern](https://pictonmahoney.bamboohr.com/careers/350/)
+- 2026-08-13 — **RRS Group**: [Investment Analyst Intern](https://jobs.smartrecruiters.com/RRSGroup/744000133857769)
+- 2026-08-13 — **RRS Group**: [Software Engineer Intern - Placement Year](https://jobs.smartrecruiters.com/RRSGroup/744000142513209)
 - 2026-08-13 — **TikTok**: [Product Operations Intern - TikTok Shop Apps and API](https://lifeattiktok.com/search/7669705525866383621)
+- 2026-08-13 — **Tuckernuck**: [Product Management Intern](https://tnuck.bamboohr.com/careers/273/)
+- 2026-08-13 — **VWH Capital Management**: [Quantitative Researcher Intern](https://jobs.smartrecruiters.com/VWHCapitalManagementLP/744000135105801)
+- 2026-08-13 — **Wells Fargo**: [Quantitative Analytics Intern - Capital Markets - Masters](https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Quantitative-Analytics-Summer-Internship-Capital-Markets--Masters----Early-Careers_R-568270)
+- 2026-08-13 — **Wells Fargo**: [Quantitative Analytics Intern - Multiple Teams](https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Quantitative-Analytics-Summer-Internship-Risk-Analytics-and-Decision-Sciences--Masters----Early-Careers_R-568259)
+- 2026-08-13 — **Wells Fargo**: [Quantitative Analytics Intern - Multiple Teams](https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Quantitative-Analytics-Summer-Internship-Capital-Markets--PhD----Early-Careers_R-568279)
 - 2026-08-12 — **American Fidelity**: [Software Development Intern](https://americanfidelity.wd5.myworkdayjobs.com/External/job/Oklahoma-City-Oklahoma/Software-Dev-Internship_JR1005)
 - 2026-08-12 — **Assured Guaranty**: [Product Software Developer Intern](https://boards.greenhouse.io/assuredguaranty/jobs/8700953002)
 - 2026-08-12 — **CCC Intelligent Solutions**: [Data Science Engineer Intern](https://cccis.wd1.myworkdayjobs.com/broadbean_external/job/Chicago-Green-St-IL/Data-Science-Engineer-Internship_0014843)
 - 2026-08-12 — **Cotiviti**: [Agentic AI Research Intern](https://careers-cotiviti.icims.com/jobs/19480/job?mobile=true&needsRedirect=false)
 - 2026-08-12 — **DV Trading**: [Trading Intern](https://job-boards.greenhouse.io/dvtrading/jobs/4719135005)
-- 2026-08-12 — **Felix Magazine**: [Database Coordinator Volunteer/Intern](https://jobs.smartrecruiters.com/LuxeMediaLLC/83121944)
-- 2026-08-12 — **Felix Magazine**: [Web Developer/Programmer Intern](https://jobs.smartrecruiters.com/LuxeMediaLLC/89098193)
-- 2026-08-12 — **Felix Magazine**: [Web Developer/Programmer Intern](https://jobs.smartrecruiters.com/LuxeMediaLLC/83337967)
-- 2026-08-12 — **Felix Magazine**: [Web Developer/Programmer Intern](https://jobs.smartrecruiters.com/LuxeMediaLLC/83337884)
-- 2026-08-12 — **GE Vernova**: [Engineering Intern](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Niskayuna/Engineering-Intern---Power-Conversion---Storage-AI-Tool-Developer--2027_R5049957-2)
-- 2026-08-12 — **GE Vernova**: [Engineering Intern](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Niskayuna/Engineering-Intern---Power-Conversion---Storage-AI-Tool-Developer--2027_R5049957-1)
-- 2026-08-12 — **Heidelberg Materials**: [Master Data Intern - Service & Support](https://heidelbergmaterials.wd3.myworkdayjobs.com/global_hm_career_site/job/Irving-TX/Master-Data-Intern_JR10017954-1)
-- 2026-08-12 — **Howmet Aerospace**: [Engineering Intern](https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/118908)
-- 2026-08-12 — **IES Holdings**: [Data Analytics Intern](https://joinus.ies-co.com/jobs/24176?icims=1)
-- 2026-08-12 — **IMC Trading**: [Quant Research Intern 2027](https://job-boards.eu.greenhouse.io/imc/jobs/4941208101)
-- 2026-08-12 — **IMC Trading**: [Software Engineer Intern 2027](https://job-boards.eu.greenhouse.io/imc/jobs/4941206101)
-- 2026-08-12 — **IMC Trading**: [Trader Intern 2027](https://job-boards.eu.greenhouse.io/imc/jobs/4941205101)
 
 ## Recently closed
 
@@ -279,6 +279,7 @@ _Generated 2026-08-13_
 - SRI International — Computer Science Intern
 - Stand Insurance — Fire Science Engineer Intern
 - Stoke Space — Software Intern - Software
+- StudyFetch — Engineering Intern
 - Susquehanna International Group (SIG) — Derivatives Sales Trader Intern - Summer 2027
 - Susquehanna International Group (SIG) — Trading Operations Analyst Intern
 - Swift — Industry Engagement Research Analyst Intern

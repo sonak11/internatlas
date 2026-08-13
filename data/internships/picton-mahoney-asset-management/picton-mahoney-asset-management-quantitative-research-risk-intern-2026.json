@@ -1,21 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "studyfetch-engineering-intern-2026",
+  "id": "picton-mahoney-asset-management-quantitative-research-risk-intern-2026",
   "company": {
-    "name": "StudyFetch",
-    "slug": "studyfetch"
+    "name": "Picton Mahoney Asset Management",
+    "slug": "picton-mahoney-asset-management"
   },
-  "role": "Engineering Intern",
-  "category": "software-engineering",
-  "apply_url": "https://ats.rippling.com/studyfetch/jobs/4ab846a3-a963-46c3-a60d-03fa832fa7d5",
+  "role": "Quantitative Research & Risk Intern",
+  "category": "quant",
+  "apply_url": "https://pictonmahoney.bamboohr.com/careers/350/",
   "season": "fall",
   "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Beverly Hills",
-      "state": "CA",
-      "country": "USA"
+      "city": "Toronto",
+      "country": "ON"
     }
   ],
   "compensation": {
@@ -40,11 +39,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-03",
-    "discovered": "2026-08-03",
+    "posted": "2026-08-13",
+    "discovered": "2026-08-13",
     "last_verified": "2026-08-13"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"
