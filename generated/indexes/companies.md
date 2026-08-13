@@ -245,7 +245,7 @@
 | [HARMAN](../companies/harman.md) | 1/1 | software-engineering |
 | [HNTB](../companies/hntb.md) | 2/2 | software-engineering |
 | [HPR (Hyannis Port Research)](../companies/hpr-hyannis-port-research.md) | 2/2 | hardware, software-engineering |
-| [Harris Computer](../companies/harris-computer.md) | 1/1 | software-engineering |
+| [Harris Computer](../companies/harris-computer.md) | 0/1 | software-engineering |
 | [Heidelberg Materials](../companies/heidelberg-materials.md) | 1/1 | software-engineering |
 | [Heliux](../companies/heliux.md) | 3/3 | software-engineering |
 | [Helsing](../companies/helsing.md) | 1/1 | ai |

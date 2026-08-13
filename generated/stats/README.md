@@ -168,6 +168,7 @@ _Generated 2026-08-13_
 - General Motors — Research and Development Intern - Research & Development: AI/ML
 - Global Infrastructure — Alternative Delivery Project Analytics Intern
 - Golden Pet Brands — Data Analytics Intern
+- Harris Computer — Software Development Intern
 - Hendrick Motorsports — Project and Race Support Engineer Internship
 - Hendrick Motorsports — Racing Performance Engineer Intern
 - Hermeus — Hardware-In-the-Loop Software Engineering Intern - Fall 2026
