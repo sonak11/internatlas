@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "tesla-software-engineer-intern-software-engineer-data-platforms-2026",
+  "id": "micron-technology-digital-ip-design-engineer-intern-dram-2026",
   "company": {
-    "name": "Tesla",
-    "slug": "tesla"
+    "name": "Micron Technology",
+    "slug": "micron-technology"
   },
-  "role": "Software Engineer Intern - Software Engineer - Data Platforms",
-  "category": "software-engineering",
-  "apply_url": "https://www.tesla.com/careers/search/job/267004",
+  "role": "Digital IP Design Engineer Intern - DRAM",
+  "category": "design",
+  "apply_url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Digital-IP-Design-Engineer--DRAM_JR108533",
   "season": "fall",
   "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Palo Alto",
-      "state": "CA",
+      "city": "Boise",
+      "state": "ID",
       "country": "USA"
     }
   ],
@@ -25,7 +25,9 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "masters"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -40,11 +42,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-06-07",
-    "discovered": "2026-07-17",
+    "posted": "2026-08-13",
+    "discovered": "2026-08-13",
     "last_verified": "2026-08-13"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

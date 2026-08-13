@@ -14,8 +14,8 @@ _Generated 2026-08-13_
 | Jump Trading | 43 |
 | Cloudflare | 28 |
 | SpaceX | 25 |
+| RTX | 24 |
 | IMC Trading | 23 |
-| RTX | 22 |
 | Susquehanna International Group (SIG) | 22 |
 | Neuralink | 20 |
 | Jane Street | 17 |
@@ -33,24 +33,27 @@ _Generated 2026-08-13_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 888 | `█████████████` |
+| software-engineering | 895 | `█████████████` |
 | quant | 173 | `██` |
-| ai | 167 | `██` |
+| ai | 168 | `██` |
 | machine-learning | 126 | `██` |
-| research | 94 | `█` |
+| research | 95 | `█` |
 | hardware | 75 | `█` |
 | product | 51 | `█` |
-| embedded | 46 | `█` |
+| embedded | 47 | `█` |
 | cloud | 37 | `█` |
-| design | 34 | `█` |
+| design | 35 | `█` |
 | data-science | 29 | `█` |
 | data-engineering | 21 | `█` |
 | security | 12 | `█` |
 
 ## Newest listings
 
+- 2026-08-13 — **Altera Corporation**: [Embedded Solutions Intern](https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Embedded-Solutions-Intern_R02832)
+- 2026-08-13 — **Analytical Mechanics Associates**: [Research Scientist Intern](https://amainc.wd12.myworkdayjobs.com/ama_careers/job/Remote---New-Jersey/Graduate-Research-Scientist-intern_R-100717-1)
 - 2026-08-13 — **ByteDance**: [Self-Built Engineer Intern - CDN Platform](https://jobs.bytedance.com/en/position/7670364362450733317/detail)
 - 2026-08-13 — **ConnectPrep**: [Data Analyst Intern](https://apply.workable.com/connectprep/j/D1C67258C0/apply)
+- 2026-08-13 — **Crowe**: [AI Engineering Intern](https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/AI-Engineering-Intern_R-51782)
 - 2026-08-13 — **Crowe**: [AI Functional Intern - Consulting Practice](https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/AI-Functional-Intern_R-71008)
 - 2026-08-13 — **Delta Dental**: [Knowledge Science Intern](https://rhsc.wd5.myworkdayjobs.com/delta_dental_of_michigan/job/Okemos-MI/Internship---Knowledge-Science_JR101405)
 - 2026-08-13 — **Epic Games**: [Gameplay Programmer Intern](https://epicgames.com/careers/jobs/6141180004?gh_jid=6141180004)
@@ -59,16 +62,13 @@ _Generated 2026-08-13_
 - 2026-08-13 — **InfiniteQuant**: [Quantitative Developer Intern - Summer 2027](https://jobs.smartrecruiters.com/InfiniteQuant/744000143287594)
 - 2026-08-13 — **InfiniteQuant**: [Quantitative Researcher Intern - Summer 2027](https://jobs.smartrecruiters.com/InfiniteQuant/744000143307421)
 - 2026-08-13 — **Interco**: [Software Development Intern - React](https://jobs.smartrecruiters.com/Interco/744000143346169)
+- 2026-08-13 — **Micron Technology**: [Digital IP Design Engineer Intern - DRAM](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Digital-IP-Design-Engineer--DRAM_JR108533)
+- 2026-08-13 — **National Laboratory of the Rockies**: [Transportation Systems Analysis Intern - Year-Round](https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Graduate--Year-Round--Intern---Transportation-Systems-Analysis_R14385)
 - 2026-08-13 — **Picton Mahoney Asset Management**: [Business Data Analyst Intern](https://pictonmahoney.bamboohr.com/careers/356/)
 - 2026-08-13 — **Picton Mahoney Asset Management**: [Quantitative Research & Risk Intern](https://pictonmahoney.bamboohr.com/careers/350/)
 - 2026-08-13 — **RRS Group**: [Investment Analyst Intern](https://jobs.smartrecruiters.com/RRSGroup/744000133857769)
 - 2026-08-13 — **RRS Group**: [Software Engineer Intern - Placement Year](https://jobs.smartrecruiters.com/RRSGroup/744000142513209)
 - 2026-08-13 — **RTX**: [Methods Intern - Hot Section Engineering](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Methods-Intern---Hot-Section-Engineering--Summer-2027---Onsite-_01864520)
-- 2026-08-13 — **Schweitzer Engineering Laboratories**: [Engineering Intern](https://selinc.wd1.myworkdayjobs.com/SEL/job/Florida---Wesley-Chapel/Engineering-Intern_2026-22361)
-- 2026-08-13 — **Tesla**: [Firmware Engineer Intern - New Programs Engineering](https://www.tesla.com/careers/search/job/279991)
-- 2026-08-13 — **TikTok**: [Data Science Intern - Advertisement Team](https://lifeattiktok.com/search/7673226686054107445)
-- 2026-08-13 — **TikTok**: [Product Operations Intern - TikTok Shop Apps and API](https://lifeattiktok.com/search/7669705525866383621)
-- 2026-08-13 — **Tuckernuck**: [Product Management Intern](https://tnuck.bamboohr.com/careers/273/)
 
 ## Recently closed
 
@@ -123,6 +123,7 @@ _Generated 2026-08-13_
 - Cirrus Logic — AI Business Analytics Co-op Intern
 - Cirrus Logic — Embedded Software AI Intern Co-op
 - City of Austin — Austin Aviation Undergraduate Intern - IT Business Systems Analyst
+- Cloudflare — AI Builder Intern - Global Customer Engineering - Service Sales
 - Cloudflare — AI Innovation Intern – Service Sales (Fall 2026)
 - Cloudflare — Brand Social Media Intern (Fall 2026)
 - Cloudflare — Customer Advocacy Intern (Fall 2026)
@@ -179,6 +180,7 @@ _Generated 2026-08-13_
 - HireVue — Data Science Intern
 - IMC Trading — 2027 - Quant Research Intern - BITS Pilani
 - IMC Trading — 2027 - Software Engineering Intern - BITS Pilani
+- impact.com — Associate Software Engineer Intern
 - Impulse Space — Data Analytics Intern
 - InfiniteQuant — Quantitative Researcher Intern
 - ING — Technology Intern - Innovation
@@ -255,6 +257,7 @@ _Generated 2026-08-13_
 - Royal Bank of Canada — Relationship Manager Commercial Markets Intern
 - RTX — Enterprise Extended Reality Intern
 - RTX — Machine Learning Researcher Intern/Co-op
+- RTX — Modeling, Simulation & Analysis Intern
 - RTX — Software Engineer Intern
 - RTX — Software Engineer Intern
 - RTX — Software Engineer Intern
@@ -298,13 +301,20 @@ _Generated 2026-08-13_
 - Tenstorrent — CPU/AI Workload Analysis Intern
 - Tesla — AI Inference Engineer Intern - Software Compiler Engineer - AI Inference
 - Tesla — Automated Diagnostics Intern - Software Engineer
+- Tesla — Data Analyst Intern - Data Analyst - Energy
+- Tesla — Data Engineer Intern - Data Engineer - Energy
+- Tesla — Energy System Optimization Intern - Energy Optimization Software
 - Tesla — Fullstack Engineer Intern - Fullstack Engineer - Build Infrastructure
+- Tesla — Inline Metrology Systems Design/Engineer Intern - Cell Engineering
 - Tesla — Machine Learning Engineer Intern - Machine Learning Engineer - Factory Software
 - Tesla — Mobile Applications Engineering Intern - Android Engineer - Mobile Software
 - Tesla — Operational Automation Software Engineer Intern - Operational Automation Engineer - Residential Energy
 - Tesla — Software Engineer Intern - AI Data Infrastructure
 - Tesla — Software Engineer Intern - Fullstack Software Engineer - Fleetnet
+- Tesla — Software Engineer Intern - Software Engineer - Data Platforms
+- Tesla — Software Engineer Intern - Software Engineer - Energy Engineering
 - Tesla — Software Integration Engineer Intern - Software Integration Engineer - Service Tooling
+- Tesla — Supercharger Product Engineer Intern - Supercharger Product Support Engineering
 - Texas Permanent School Fund Corporation — Equity Capital Markets Intern
 - The Home Depot — AI Engineer Intern
 - The Mosaic Company — Cybersecurity Co-Op/Intern

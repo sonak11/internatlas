@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "tesla-software-engineer-intern-software-engineer-data-platforms-2026",
+  "id": "rtx-software-engineer-intern-2027-61b308",
   "company": {
-    "name": "Tesla",
-    "slug": "tesla"
+    "name": "RTX",
+    "slug": "rtx"
   },
-  "role": "Software Engineer Intern - Software Engineer - Data Platforms",
+  "role": "Software Engineer Intern",
   "category": "software-engineering",
-  "apply_url": "https://www.tesla.com/careers/search/job/267004",
-  "season": "fall",
-  "year": 2026,
+  "apply_url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MD-ANNAPOLIS-906--2551-Riva-Rd--BLDG-906/Software-Intern--Summer-2027-_01864400",
+  "season": "summer",
+  "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Palo Alto",
-      "state": "CA",
+      "city": "Annapolis",
+      "state": "MD",
       "country": "USA"
     }
   ],
@@ -25,7 +25,10 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "masters",
+      "phd"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -40,11 +43,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-06-07",
-    "discovered": "2026-07-17",
+    "posted": "2026-08-13",
+    "discovered": "2026-08-13",
     "last_verified": "2026-08-13"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

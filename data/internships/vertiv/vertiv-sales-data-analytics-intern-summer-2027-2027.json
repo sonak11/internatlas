@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "tesla-software-engineer-intern-software-engineer-data-platforms-2026",
+  "id": "vertiv-sales-data-analytics-intern-summer-2027-2027",
   "company": {
-    "name": "Tesla",
-    "slug": "tesla"
+    "name": "Vertiv",
+    "slug": "vertiv"
   },
-  "role": "Software Engineer Intern - Software Engineer - Data Platforms",
+  "role": "Sales Data Analytics Intern - Summer 2027",
   "category": "software-engineering",
-  "apply_url": "https://www.tesla.com/careers/search/job/267004",
-  "season": "fall",
-  "year": 2026,
+  "apply_url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279293",
+  "season": "summer",
+  "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Palo Alto",
-      "state": "CA",
+      "city": "Westerville",
+      "state": "OH",
       "country": "USA"
     }
   ],
@@ -40,11 +40,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-06-07",
-    "discovered": "2026-07-17",
+    "posted": "2026-08-13",
+    "discovered": "2026-08-13",
     "last_verified": "2026-08-13"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

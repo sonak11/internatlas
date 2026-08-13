@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "tesla-software-engineer-intern-software-engineer-data-platforms-2026",
+  "id": "crowe-ai-engineering-intern-2026",
   "company": {
-    "name": "Tesla",
-    "slug": "tesla"
+    "name": "Crowe",
+    "slug": "crowe"
   },
-  "role": "Software Engineer Intern - Software Engineer - Data Platforms",
-  "category": "software-engineering",
-  "apply_url": "https://www.tesla.com/careers/search/job/267004",
+  "role": "AI Engineering Intern",
+  "category": "ai",
+  "apply_url": "https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/AI-Engineering-Intern_R-51782",
   "season": "fall",
   "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Palo Alto",
-      "state": "CA",
+      "city": "Chicago",
+      "state": "IL",
       "country": "USA"
     }
   ],
@@ -40,11 +40,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-06-07",
-    "discovered": "2026-07-17",
+    "posted": "2026-08-13",
+    "discovered": "2026-08-13",
     "last_verified": "2026-08-13"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "tesla-software-engineer-intern-software-engineer-data-platforms-2026",
+  "id": "national-laboratory-of-the-rockies-transportation-systems-analysis-intern-year-round-2026",
   "company": {
-    "name": "Tesla",
-    "slug": "tesla"
+    "name": "National Laboratory of the Rockies",
+    "slug": "national-laboratory-of-the-rockies"
   },
-  "role": "Software Engineer Intern - Software Engineer - Data Platforms",
+  "role": "Transportation Systems Analysis Intern - Year-Round",
   "category": "software-engineering",
-  "apply_url": "https://www.tesla.com/careers/search/job/267004",
+  "apply_url": "https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Graduate--Year-Round--Intern---Transportation-Systems-Analysis_R14385",
   "season": "fall",
   "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Palo Alto",
-      "state": "CA",
+      "city": "Golden",
+      "state": "CO",
       "country": "USA"
     }
   ],
@@ -25,7 +25,10 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "masters",
+      "phd"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -40,11 +43,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-06-07",
-    "discovered": "2026-07-17",
+    "posted": "2026-08-13",
+    "discovered": "2026-08-13",
     "last_verified": "2026-08-13"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"
