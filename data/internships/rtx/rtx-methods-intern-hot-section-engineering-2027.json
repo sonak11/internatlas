@@ -1,19 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "prophet-ai-engineer-intern-ai-foundry-digital-growth-2026",
+  "id": "rtx-methods-intern-hot-section-engineering-2027",
   "company": {
-    "name": "Prophet",
-    "slug": "prophet"
+    "name": "RTX",
+    "slug": "rtx"
   },
-  "role": "AI Engineer Intern - AI Foundry & Digital Growth",
-  "category": "ai",
-  "apply_url": "https://job-boards.greenhouse.io/prophet/jobs/4689859005",
-  "season": "fall",
-  "year": 2026,
+  "role": "Methods Intern - Hot Section Engineering",
+  "category": "software-engineering",
+  "apply_url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Methods-Intern---Hot-Section-Engineering--Summer-2027---Onsite-_01864520",
+  "season": "summer",
+  "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "NYC",
+      "city": "East Hartford",
+      "state": "CT",
       "country": "USA"
     }
   ],
@@ -24,7 +25,9 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "masters"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -39,11 +42,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-27",
-    "discovered": "2026-08-03",
+    "posted": "2026-08-13",
+    "discovered": "2026-08-13",
     "last_verified": "2026-08-13"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

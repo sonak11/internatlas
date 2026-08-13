@@ -15,8 +15,8 @@ _Generated 2026-08-13_
 | Cloudflare | 28 |
 | SpaceX | 25 |
 | IMC Trading | 23 |
+| RTX | 22 |
 | Susquehanna International Group (SIG) | 22 |
-| RTX | 21 |
 | Neuralink | 20 |
 | Jane Street | 17 |
 | Palantir Technologies | 17 |
@@ -33,7 +33,7 @@ _Generated 2026-08-13_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 885 | `█████████████` |
+| software-engineering | 887 | `█████████████` |
 | quant | 173 | `██` |
 | ai | 166 | `██` |
 | machine-learning | 126 | `██` |
@@ -51,6 +51,7 @@ _Generated 2026-08-13_
 
 - 2026-08-13 — **ByteDance**: [Self-Built Engineer Intern - CDN Platform](https://jobs.bytedance.com/en/position/7670364362450733317/detail)
 - 2026-08-13 — **ConnectPrep**: [Data Analyst Intern](https://apply.workable.com/connectprep/j/D1C67258C0/apply)
+- 2026-08-13 — **Delta Dental**: [Knowledge Science Intern](https://rhsc.wd5.myworkdayjobs.com/delta_dental_of_michigan/job/Okemos-MI/Internship---Knowledge-Science_JR101405)
 - 2026-08-13 — **Epic Games**: [Gameplay Programmer Intern](https://epicgames.com/careers/jobs/6141180004?gh_jid=6141180004)
 - 2026-08-13 — **Gartner**: [Data Analyst Intern](https://gartner.wd5.myworkdayjobs.com/EXT/job/Irving-TX/Data-Analyst-Internship--2028-Graduates-_113297)
 - 2026-08-13 — **Inbulks**: [Junior Front End Developer Intern](https://jobs.smartrecruiters.com/InbulksCorp/743999750129753)
@@ -60,6 +61,7 @@ _Generated 2026-08-13_
 - 2026-08-13 — **Picton Mahoney Asset Management**: [Quantitative Research & Risk Intern](https://pictonmahoney.bamboohr.com/careers/350/)
 - 2026-08-13 — **RRS Group**: [Investment Analyst Intern](https://jobs.smartrecruiters.com/RRSGroup/744000133857769)
 - 2026-08-13 — **RRS Group**: [Software Engineer Intern - Placement Year](https://jobs.smartrecruiters.com/RRSGroup/744000142513209)
+- 2026-08-13 — **RTX**: [Methods Intern - Hot Section Engineering](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Methods-Intern---Hot-Section-Engineering--Summer-2027---Onsite-_01864520)
 - 2026-08-13 — **Tesla**: [Firmware Engineer Intern - New Programs Engineering](https://www.tesla.com/careers/search/job/279991)
 - 2026-08-13 — **TikTok**: [Data Science Intern - Advertisement Team](https://lifeattiktok.com/search/7673226686054107445)
 - 2026-08-13 — **TikTok**: [Product Operations Intern - TikTok Shop Apps and API](https://lifeattiktok.com/search/7669705525866383621)
@@ -67,8 +69,6 @@ _Generated 2026-08-13_
 - 2026-08-13 — **VWH Capital Management**: [Quantitative Researcher Intern](https://jobs.smartrecruiters.com/VWHCapitalManagementLP/744000135105801)
 - 2026-08-13 — **Wells Fargo**: [Quantitative Analytics Intern - Capital Markets - Masters](https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Quantitative-Analytics-Summer-Internship-Capital-Markets--Masters----Early-Careers_R-568270)
 - 2026-08-13 — **Wells Fargo**: [Quantitative Analytics Intern - Multiple Teams](https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Quantitative-Analytics-Summer-Internship-Risk-Analytics-and-Decision-Sciences--Masters----Early-Careers_R-568259)
-- 2026-08-13 — **Wells Fargo**: [Quantitative Analytics Intern - Multiple Teams](https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Quantitative-Analytics-Summer-Internship-Capital-Markets--PhD----Early-Careers_R-568279)
-- 2026-08-12 — **American Fidelity**: [Software Development Intern](https://americanfidelity.wd5.myworkdayjobs.com/External/job/Oklahoma-City-Oklahoma/Software-Dev-Internship_JR1005)
 
 ## Recently closed
 
@@ -180,6 +180,7 @@ _Generated 2026-08-13_
 - IMC Trading — 2027 - Software Engineering Intern - BITS Pilani
 - Impulse Space — Data Analytics Intern
 - InfiniteQuant — Quantitative Researcher Intern
+- InfiniteQuant — Quantitative Researcher Intern - Summer 2027
 - ING — Technology Intern - Innovation
 - Inogen — Firmware Engineer Intern
 - Integrity — Research Intern
@@ -235,6 +236,7 @@ _Generated 2026-08-13_
 - Pennsylvania State University — Electronic Materials and Devices Engineer Intern - Electronic Materials and Devices
 - Pennsylvania State University — Research and Development Engineer Intern
 - Phlair — Working Student Intern - Control Team - Systems & Data Infrastructure
+- Prophet — AI Engineer Intern - AI Foundry & Digital Growth
 - PSECU — Data Analyst Intern
 - Quantbot Technologies — Software Engineer Intern
 - RapDev — ServiceNow Engineer Intern

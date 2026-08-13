@@ -1,19 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "prophet-ai-engineer-intern-ai-foundry-digital-growth-2026",
+  "id": "delta-dental-knowledge-science-intern-2026",
   "company": {
-    "name": "Prophet",
-    "slug": "prophet"
+    "name": "Delta Dental",
+    "slug": "delta-dental"
   },
-  "role": "AI Engineer Intern - AI Foundry & Digital Growth",
-  "category": "ai",
-  "apply_url": "https://job-boards.greenhouse.io/prophet/jobs/4689859005",
+  "role": "Knowledge Science Intern",
+  "category": "software-engineering",
+  "apply_url": "https://rhsc.wd5.myworkdayjobs.com/delta_dental_of_michigan/job/Okemos-MI/Internship---Knowledge-Science_JR101405",
   "season": "fall",
   "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "NYC",
+      "city": "Okemos",
+      "state": "MI",
       "country": "USA"
     }
   ],
@@ -24,7 +25,9 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "masters"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -39,11 +42,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-27",
-    "discovered": "2026-08-03",
+    "posted": "2026-08-13",
+    "discovered": "2026-08-13",
     "last_verified": "2026-08-13"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

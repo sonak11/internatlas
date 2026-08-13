@@ -160,7 +160,7 @@
 | [Definity Financial](../companies/definity-financial.md) | 0/4 | software-engineering |
 | [Deloitte](../companies/deloitte.md) | 1/1 | ai |
 | [Delta Air Lines](../companies/delta-air-lines.md) | 1/1 | ai |
-| [Delta Dental](../companies/delta-dental.md) | 1/1 | software-engineering |
+| [Delta Dental](../companies/delta-dental.md) | 2/2 | software-engineering |
 | [Democratic Governors Association](../companies/democratic-governors-association.md) | 0/1 | software-engineering |
 | [Democratic National Committee](../companies/democratic-national-committee.md) | 0/1 | software-engineering |
 | [Desjardins Group](../companies/desjardins-group.md) | 0/1 | software-engineering |
@@ -273,7 +273,7 @@
 | [Impulse Space](../companies/impulse-space.md) | 0/2 | software-engineering |
 | [Inbulks](../companies/inbulks.md) | 1/1 | software-engineering |
 | [Incident IQ](../companies/incident-iq.md) | 1/1 | software-engineering |
-| [InfiniteQuant](../companies/infinitequant.md) | 2/3 | quant |
+| [InfiniteQuant](../companies/infinitequant.md) | 1/3 | quant |
 | [Inizio](../companies/inizio.md) | 1/1 | software-engineering |
 | [Innovation Works, Inc.](../companies/innovation-works-inc.md) | 1/1 | software-engineering |
 | [Inogen](../companies/inogen.md) | 0/1 | embedded |
@@ -424,7 +424,7 @@
 | [Poshmark](../companies/poshmark.md) | 1/1 | cloud |
 | [Postman](../companies/postman.md) | 1/1 | ai |
 | [ProNexus](../companies/pronexus.md) | 1/1 | software-engineering |
-| [Prophet](../companies/prophet.md) | 1/1 | ai |
+| [Prophet](../companies/prophet.md) | 0/1 | ai |
 | [Prospect Equities](../companies/prospect-equities.md) | 1/1 | software-engineering |
 | [Pure Storage](../companies/pure-storage.md) | 1/1 | software-engineering |
 | [Pylon](../companies/pylon.md) | 1/1 | software-engineering |
@@ -436,7 +436,7 @@
 | [RLI](../companies/rli.md) | 1/1 | product |
 | [ROCKWOOL Group](../companies/rockwool-group.md) | 0/2 | product, software-engineering |
 | [RRS Group](../companies/rrs-group.md) | 2/2 | software-engineering |
-| [RTX](../companies/rtx.md) | 15/21 | machine-learning, software-engineering |
+| [RTX](../companies/rtx.md) | 16/22 | machine-learning, software-engineering |
 | [Radix Trading](../companies/radix-trading.md) | 1/1 | quant |
 | [Rainmaker](../companies/rainmaker.md) | 0/1 | software-engineering |
 | [Rakuten International](../companies/rakuten-international.md) | 0/1 | software-engineering |

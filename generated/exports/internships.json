@@ -1,6 +1,6 @@
 {
   "generated": "2026-08-13",
-  "count": 1748,
+  "count": 1750,
   "internships": [
     {
       "schema_version": "1.0",
@@ -22411,6 +22411,60 @@
     },
     {
       "schema_version": "1.0",
+      "id": "delta-dental-knowledge-science-intern-2026",
+      "company": {
+        "name": "Delta Dental",
+        "slug": "delta-dental"
+      },
+      "role": "Knowledge Science Intern",
+      "category": "software-engineering",
+      "apply_url": "https://rhsc.wd5.myworkdayjobs.com/delta_dental_of_michigan/job/Okemos-MI/Internship---Knowledge-Science_JR101405",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Okemos",
+          "state": "MI",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-13",
+        "discovered": "2026-08-13",
+        "last_verified": "2026-08-13"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "democratic-governors-association-data-and-coding-intern-2026",
       "company": {
         "name": "Democratic Governors Association",
@@ -35580,7 +35634,7 @@
         "discovered": "2026-08-10",
         "last_verified": "2026-08-13"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -58866,7 +58920,7 @@
         "discovered": "2026-08-03",
         "last_verified": "2026-08-13"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -63282,6 +63336,60 @@
         "last_verified": "2026-08-09"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "rtx-methods-intern-hot-section-engineering-2027",
+      "company": {
+        "name": "RTX",
+        "slug": "rtx"
+      },
+      "role": "Methods Intern - Hot Section Engineering",
+      "category": "software-engineering",
+      "apply_url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Methods-Intern---Hot-Section-Engineering--Summer-2027---Onsite-_01864520",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "East Hartford",
+          "state": "CT",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-13",
+        "discovered": "2026-08-13",
+        "last_verified": "2026-08-13"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
