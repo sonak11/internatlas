@@ -1,6 +1,6 @@
 {
   "generated": "2026-08-13",
-  "count": 1747,
+  "count": 1748,
   "internships": [
     {
       "schema_version": "1.0",
@@ -37648,7 +37648,7 @@
         "discovered": "2026-08-03",
         "last_verified": "2026-08-13"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -63285,6 +63285,60 @@
     },
     {
       "schema_version": "1.0",
+      "id": "rtx-modeling-simulation-analysis-intern-2027",
+      "company": {
+        "name": "RTX",
+        "slug": "rtx"
+      },
+      "role": "Modeling, Simulation & Analysis Intern",
+      "category": "software-engineering",
+      "apply_url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-9020--9020-S-Rita-Rd--BLDG-9020/Modeling--Simulation---Analysis-Intern_01866254",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Tucson",
+          "state": "AZ",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-12",
+        "discovered": "2026-08-13",
+        "last_verified": "2026-08-13"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "rtx-software-development-intern-summer-2027-2027",
       "company": {
         "name": "RTX",
@@ -87902,9 +87956,9 @@
       "dates": {
         "posted": "2026-07-05",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-22"
+        "last_verified": "2026-08-13"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"

@@ -1,24 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "tower-research-capital-quantitative-trader-intern-2027",
+  "id": "rtx-modeling-simulation-analysis-intern-2027",
   "company": {
-    "name": "Tower Research Capital",
-    "slug": "tower-research-capital"
+    "name": "RTX",
+    "slug": "rtx"
   },
-  "role": "Quantitative Trader Intern",
-  "category": "quant",
-  "apply_url": "https://www.tower-research.com/open-positions/?gh_jid=8024128",
+  "role": "Modeling, Simulation & Analysis Intern",
+  "category": "software-engineering",
+  "apply_url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-9020--9020-S-Rita-Rd--BLDG-9020/Modeling--Simulation---Analysis-Intern_01866254",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Chicago",
-      "state": "IL",
-      "country": "USA"
-    },
-    {
-      "city": "NYC",
+      "city": "Tucson",
+      "state": "AZ",
       "country": "USA"
     }
   ],
@@ -30,8 +26,7 @@
   "eligibility": {
     "graduation_years": [],
     "degree_levels": [
-      "masters",
-      "phd"
+      "masters"
     ],
     "citizenship_required": false,
     "security_clearance_required": false,
@@ -47,8 +42,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-05",
-    "discovered": "2026-07-17",
+    "posted": "2026-08-12",
+    "discovered": "2026-08-13",
     "last_verified": "2026-08-13"
   },
   "status": "open",

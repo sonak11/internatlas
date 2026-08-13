@@ -16,8 +16,8 @@ _Generated 2026-08-13_
 | SpaceX | 25 |
 | IMC Trading | 23 |
 | Susquehanna International Group (SIG) | 22 |
+| RTX | 21 |
 | Neuralink | 20 |
-| RTX | 20 |
 | Jane Street | 17 |
 | Palantir Technologies | 17 |
 | Rivian and Volkswagen Group Technologies | 16 |
@@ -33,7 +33,7 @@ _Generated 2026-08-13_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 884 | `█████████████` |
+| software-engineering | 885 | `█████████████` |
 | quant | 172 | `██` |
 | ai | 166 | `██` |
 | machine-learning | 126 | `██` |
@@ -184,6 +184,7 @@ _Generated 2026-08-13_
 - Integrity — Research Intern
 - Intel — AI Software Engineer Intern
 - JINGDONG — Software Engineering Intern
+- JP Morgan Chase — Data & AI Intern - Analyst
 - KBR — Software Intern
 - Keysight Technologies — R&D Software Engineer Intern
 - Kirin — Software Engineer Intern - AI Agents + Devices
