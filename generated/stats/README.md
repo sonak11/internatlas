@@ -9,7 +9,7 @@ _Generated 2026-08-13_
 | Company | Listings |
 |---|---|
 | TikTok | 125 |
-| Tesla | 109 |
+| Tesla | 110 |
 | ByteDance | 45 |
 | Jump Trading | 43 |
 | Cloudflare | 28 |
@@ -39,7 +39,7 @@ _Generated 2026-08-13_
 | machine-learning | 126 | `██` |
 | research | 94 | `█` |
 | hardware | 75 | `█` |
-| product | 50 | `█` |
+| product | 51 | `█` |
 | embedded | 46 | `█` |
 | cloud | 37 | `█` |
 | design | 34 | `█` |
@@ -86,6 +86,7 @@ _Generated 2026-08-13_
 - Arcadis — GIS Intern
 - Arizona State University — Management Intern - Career Data and Analytics
 - Assurant — Digital & AI Transformation Intern
+- Assured Guaranty — Product Software Developer Intern
 - Astranis — FPGA Associate Intern
 - Astranis — FPGA Intern
 - Astranis — Hardware Design Intern - Software Defined Radio Team
@@ -310,6 +311,7 @@ _Generated 2026-08-13_
 - Toshiba Global Commerce — AI Product Management Intern
 - Toshiba Global Commerce — Product & Business Analytics Intern
 - Truist Bank — Analyst Intern Conversion - Multiple Teams
+- Truist Bank — Analyst Intern - Equity Research - Sales, Trading & Research
 - Truist Bank — Fixed Income Loans S&T Intern - Sales, Trading & Research - Analyst Program
 - Truland Equipment — Power Platform Intern
 - Two Six Technologies — China Subject Matter Expert Intern

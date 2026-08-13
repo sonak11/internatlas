@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "connectprep-data-analyst-intern-2026-e76d47",
+  "id": "grant-thornton-tax-technology-intern-summer-2027-2027-c8d3be",
   "company": {
-    "name": "ConnectPrep",
-    "slug": "connectprep"
+    "name": "Grant Thornton",
+    "slug": "grant-thornton"
   },
-  "role": "Data Analyst Intern",
+  "role": "Tax Technology Intern - Summer 2027",
   "category": "software-engineering",
-  "apply_url": "https://apply.workable.com/connectprep/j/D1C67258C0/apply",
-  "season": "fall",
-  "year": 2026,
+  "apply_url": "https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/114405",
+  "season": "summer",
+  "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Washington",
-      "state": "DC",
+      "city": "Bellevue",
+      "state": "WA",
       "country": "USA"
     }
   ],
@@ -40,14 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-13",
+    "posted": "2026-02-11",
     "discovered": "2026-08-13",
     "last_verified": "2026-08-13"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify",
-    "remote-available"
+    "src:simplify"
   ]
 }
