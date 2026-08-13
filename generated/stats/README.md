@@ -35,7 +35,7 @@ _Generated 2026-08-13_
 |---|---|---|
 | software-engineering | 887 | `█████████████` |
 | quant | 173 | `██` |
-| ai | 166 | `██` |
+| ai | 167 | `██` |
 | machine-learning | 126 | `██` |
 | research | 93 | `█` |
 | hardware | 75 | `█` |
@@ -51,6 +51,7 @@ _Generated 2026-08-13_
 
 - 2026-08-13 — **ByteDance**: [Self-Built Engineer Intern - CDN Platform](https://jobs.bytedance.com/en/position/7670364362450733317/detail)
 - 2026-08-13 — **ConnectPrep**: [Data Analyst Intern](https://apply.workable.com/connectprep/j/D1C67258C0/apply)
+- 2026-08-13 — **Crowe**: [AI Functional Intern - Consulting Practice](https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/AI-Functional-Intern_R-71008)
 - 2026-08-13 — **Delta Dental**: [Knowledge Science Intern](https://rhsc.wd5.myworkdayjobs.com/delta_dental_of_michigan/job/Okemos-MI/Internship---Knowledge-Science_JR101405)
 - 2026-08-13 — **Epic Games**: [Gameplay Programmer Intern](https://epicgames.com/careers/jobs/6141180004?gh_jid=6141180004)
 - 2026-08-13 — **Gartner**: [Data Analyst Intern](https://gartner.wd5.myworkdayjobs.com/EXT/job/Irving-TX/Data-Analyst-Internship--2028-Graduates-_113297)
@@ -68,7 +69,6 @@ _Generated 2026-08-13_
 - 2026-08-13 — **Tuckernuck**: [Product Management Intern](https://tnuck.bamboohr.com/careers/273/)
 - 2026-08-13 — **VWH Capital Management**: [Quantitative Researcher Intern](https://jobs.smartrecruiters.com/VWHCapitalManagementLP/744000135105801)
 - 2026-08-13 — **Wells Fargo**: [Quantitative Analytics Intern - Capital Markets - Masters](https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Quantitative-Analytics-Summer-Internship-Capital-Markets--Masters----Early-Careers_R-568270)
-- 2026-08-13 — **Wells Fargo**: [Quantitative Analytics Intern - Multiple Teams](https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Quantitative-Analytics-Summer-Internship-Risk-Analytics-and-Decision-Sciences--Masters----Early-Careers_R-568259)
 
 ## Recently closed
 
@@ -102,6 +102,7 @@ _Generated 2026-08-13_
 - Bank of Montreal — Database Operations Co-op Intern
 - Bank of Montreal — Investment Intern Co-op - Co-op/Internship
 - Bank of Montreal — Market Risk Analyst Co-op/Intern
+- Bloxd — Software Engineer Intern
 - Bosch Home Comfort — Artificial Intelligence and Software Development Engineering Intern
 - Bosch Home Comfort — Autonomous Driving Intern
 - Bosch Home Comfort — Research Intern
@@ -218,6 +219,7 @@ _Generated 2026-08-13_
 - Monogram — Software Engineer Intern
 - Moog — Software Engineer Intern
 - Moss & Associates — Construction Technologies Intern
+- National Laboratory of the Rockies — Graduate Intern - Transportation Systems Analysis
 - NationGraph — Software Engineer Intern
 - Nationwide Children's Hospital — Research Intern
 - NBT Bank — Data Warehouse & Analytics Intern
