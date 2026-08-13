@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 💻 Software Engineering Internships
 
-**875** tracked · **625** open now
+**878** tracked · **627** open now
 
 ## Current openings
 
@@ -86,6 +86,7 @@
 | [Bosch Home Comfort](generated/companies/bosch-home-comfort.md) | [Powertrain Controls Software Engineer Intern](https://jobs.smartrecruiters.com/BoschGroup/744000140089589) | Southfield, MI | Onsite | 2026-07-27 | Rolling | 🟢 Open | ❔ |
 | [ByteDance](generated/companies/bytedance.md) | [Network Software Engineer Intern - Network Observation](https://jobs.bytedance.com/en/position/7670772641439041797/detail) | San Jose, CA | Onsite | 2026-08-07 | Rolling | 🟢 Open | ❔ |
 | [ByteDance](generated/companies/bytedance.md) | [Network Software Engineer Intern - Network Switch](https://jobs.bytedance.com/en/position/7670778018960542005/detail) | San Jose, CA | Onsite | 2026-08-07 | Rolling | 🟢 Open | ❔ |
+| [ByteDance](generated/companies/bytedance.md) | [Self-Built Engineer Intern - CDN Platform](https://jobs.bytedance.com/en/position/7670364362450733317/detail) | San Jose, CA | Onsite | 2026-08-13 | Rolling | 🟢 Open | ❔ |
 | [ByteDance](generated/companies/bytedance.md) | [Software Development Engineer Intern - Network Automation - 2027 Summer](https://jobs.bytedance.com/en/position/7671147251943213317/detail) | San Jose, CA | Onsite | 2026-08-08 | Rolling | 🟢 Open | ❔ |
 | [ByteDance](generated/companies/bytedance.md) | [Software Engineer Intern](https://jobs.bytedance.com/en/position/7668373268886161669/detail) | Seattle, WA | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
 | [ByteDance](generated/companies/bytedance.md) | [Software Engineer Intern - AML-Engine-Orchestration](https://jobs.bytedance.com/en/position/7672386983965100341/detail) | Seattle, WA | Onsite | 2026-08-11 | Rolling | 🟢 Open | ❔ |
@@ -127,7 +128,6 @@
 | [City of Austin](generated/companies/city-of-austin.md) | [Business Intelligence Intern - Business Intelligence](https://austintexas.wd5.myworkdayjobs.com/COA_Careers/job/Fire-Headquarters/Business-Intelligence-Internship_JR104636) | USA | Onsite | 2026-07-31 | Rolling | 🟢 Open | ❔ |
 | [City of Manhattan Kansas](generated/companies/city-of-manhattan-kansas.md) | [GIS Planning Intern](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4377573) | Manhattan, KS | Onsite | 2026-08-07 | Rolling | 🟢 Open | ❔ |
 | [Cloudflare](generated/companies/cloudflare.md) | [Accounting Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/7902104?gh_jid=7902104) | In-Office | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
-| [Cloudflare](generated/companies/cloudflare.md) | [Brand Social Media Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8054093?gh_jid=8054093) | In-Office | Onsite | 2026-07-10 | Rolling | 🟢 Open | ❔ |
 | [Cloudflare](generated/companies/cloudflare.md) | [Network Strategy Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8031027?gh_jid=8031027) | In-Office | Onsite | 2026-07-01 | Rolling | 🟢 Open | ❔ |
 | [Cloudflare](generated/companies/cloudflare.md) | [Network Strategy Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8013562?gh_jid=8013562) | In-Office | Onsite | 2026-06-26 | Rolling | 🟢 Open | ❔ |
 | [Cloudflare](generated/companies/cloudflare.md) | [Professional Services Intern – Global Customer Services (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/7796077?gh_jid=7796077) | In-Office | Onsite | 2026-04-10 | Rolling | 🟢 Open | ❔ |
@@ -170,6 +170,7 @@
 | [East Penn Manufacturing Company](generated/companies/east-penn-manufacturing-company.md) | [Power BI & Analytics Intern](https://careers-eastpennmanufacturing.icims.com/jobs/30020/job?mobile=true&needsRedirect=false) | Ann Arbor, MI | Onsite | 2026-07-27 | Rolling | 🟢 Open | ❔ |
 | [Electronic Arts](generated/companies/electronic-arts.md) | [Software Engineer Intern](https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern/210894) | Vancouver | Onsite | 2026-04-20 | Rolling | 🟢 Open | ❌ |
 | [Ensemble Health Partners](generated/companies/ensemble-health-partners.md) | [Engineering Excellence Intern](https://ensemblehp.wd5.myworkdayjobs.com/ensemblehealthpartnerscareers/job/Remote---Nationwide/Engineering-Excellence-Intern_R048023) | Remote | Remote | 2026-07-17 | Rolling | 🟢 Open | ❔ |
+| [Epic Games](generated/companies/epic-games.md) | [Gameplay Programmer Intern](https://epicgames.com/careers/jobs/6141180004?gh_jid=6141180004) | Cary, NC | Onsite | 2026-08-13 | Rolling | 🟢 Open | ❔ |
 | [Eridu AI](generated/companies/eridu-ai.md) | [Lab Intern](https://ats.rippling.com/eridu-ai/jobs/7f4d858d-b26e-45ce-acdc-7593d8a1f7b1) | Saratoga, CA | Onsite | 2026-08-05 | Rolling | 🟢 Open | ❔ |
 | [Etched](generated/companies/etched.md) | [Inference Intern, Architecture](https://jobs.ashbyhq.com/Etched/aa17bfa2-2922-4aa7-820d-76064f2551a8) | San Jose, CA | Onsite | 2026-05-22 | Rolling | 🟢 Open | ❔ |
 | [Etched](generated/companies/etched.md) | [PD Intern](https://jobs.ashbyhq.com/Etched/bd8c5768-7efa-4a18-9e56-485ccaf4ec77/application) | San Jose, CA | Onsite | 2026-02-07 | Rolling | 🟢 Open | ❔ |
@@ -566,6 +567,7 @@
 | [TikTok](generated/companies/tiktok.md) | [Fullstack Software Engineer Intern - Global E-Commerce - 2027 Summer](https://lifeattiktok.com/search/7670738362521520437) | San Jose, CA | Onsite | 2026-08-07 | Rolling | 🟢 Open | ❔ |
 | [TikTok](generated/companies/tiktok.md) | [Issue Discovery Operations Intern - Content Ecosystem](https://lifeattiktok.com/search/7667582040108222773) | San Jose, CA | Onsite | 2026-08-10 | Rolling | 🟢 Open | ❔ |
 | [TikTok](generated/companies/tiktok.md) | [Product Operations Intern - Apps and API](https://lifeattiktok.com/search/7669927344569764101) | Seattle, WA | Onsite | 2026-08-05 | Rolling | 🟢 Open | ❔ |
+| [TikTok](generated/companies/tiktok.md) | [Product Operations Intern - TikTok Shop Apps and API](https://lifeattiktok.com/search/7669705525866383621) | Seattle, WA | Onsite | 2026-08-13 | Rolling | 🟢 Open | ❔ |
 | [TikTok](generated/companies/tiktok.md) | [Product Operations Intern - TikTok Shop Apps and API - MBA](https://lifeattiktok.com/search/7668820702623467781) | Seattle, WA | Onsite | 2026-08-06 | Rolling | 🟢 Open | ❔ |
 | [TikTok](generated/companies/tiktok.md) | [Software Engineer Intern](https://lifeattiktok.com/search/7668582086899763461) | Seattle, WA | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
 | [TikTok](generated/companies/tiktok.md) | [Software Engineer Intern](https://lifeattiktok.com/search/7668581636242016565) | San Jose, CA | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
@@ -671,6 +673,7 @@
 | [Ciena](generated/companies/ciena.md) | [Software Engineer Intern](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Engineering-Intern_R031372) | Ottawa | Onsite | 2026-07-27 | Rolling | 🔴 Closed | ❔ |
 | [City of Aurora](generated/companies/city-of-aurora.md) | [Water GIS Intern](https://auroragov.wd1.myworkdayjobs.com/careers/job/Daniel-P-Mikesell-Building-Southeast-Area-Maintenance-Facility--SEAM/Water-GIS-Intern_JR109039) | Aurora, CO | Onsite | 2026-07-13 | Rolling | 🔴 Closed | ❔ |
 | [City of Austin](generated/companies/city-of-austin.md) | [Austin Aviation Undergraduate Intern - IT Business Systems Analyst](https://austintexas.wd5.myworkdayjobs.com/COA_Careers/job/AUS-Information-Systems-Building-IS/Austin-Aviation--IT-Business-Systems-Analyst---Undergraduate-Intern_JR104583) | Austin, TX | Onsite | 2026-07-24 | Rolling | 🔴 Closed | ❔ |
+| [Cloudflare](generated/companies/cloudflare.md) | [Brand Social Media Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8054093?gh_jid=8054093) | In-Office | Onsite | 2026-07-10 | Rolling | 🔴 Closed | ❔ |
 | [Cloudflare](generated/companies/cloudflare.md) | [Customer Advocacy Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8093127?gh_jid=8093127) | In-Office | Onsite | 2026-07-31 | Rolling | 🔴 Closed | ❔ |
 | [Cloudflare](generated/companies/cloudflare.md) | [EIAM Business Enablement & Operations Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8068479?gh_jid=8068479) | In-Office | Onsite | 2026-07-17 | Rolling | 🔴 Closed | ❔ |
 | [Cloudflare](generated/companies/cloudflare.md) | [GRC Team Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8095533?gh_jid=8095533) | In-Office | Onsite | 2026-08-04 | Rolling | 🔴 Closed | ❔ |
@@ -887,14 +890,14 @@
 ## Hiring companies
 
 - Tesla (54)
-- TikTok (46)
+- TikTok (47)
 - Cloudflare (19)
 - RTX (19)
 - Rivian and Volkswagen Group Technologies (11)
+- ByteDance (10)
 - Copart (10)
 - Palantir (10)
 - Palantir Technologies (10)
-- ByteDance (9)
 - Etched (8)
 - Amazon (7)
 - Ciena (7)
@@ -1094,6 +1097,7 @@
 - East Penn Manufacturing Company (1)
 - Electronic Arts (1)
 - Ensemble Health Partners (1)
+- Epic Games (1)
 - Eridu AI (1)
 - Ether.fi (1)
 - ETHGlobal (1)

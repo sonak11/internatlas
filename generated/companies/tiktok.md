@@ -83,6 +83,7 @@
 | TikTok | [Product Manager Intern - TikTok Ads Agent-Scaled Growth](https://lifeattiktok.com/search/7657728959042046213) | San Jose, CA | Onsite | 2026-07-07 | Rolling | 🟢 Open | ❔ |
 | TikTok | [Product Manager Intern - TikTok Product Content Ecosystem](https://lifeattiktok.com/search/7657778928769534213) | San Jose, CA | Onsite | 2026-07-03 | Rolling | 🟢 Open | ❔ |
 | TikTok | [Product Operations Intern - Apps and API](https://lifeattiktok.com/search/7669927344569764101) | Seattle, WA | Onsite | 2026-08-05 | Rolling | 🟢 Open | ❔ |
+| TikTok | [Product Operations Intern - TikTok Shop Apps and API](https://lifeattiktok.com/search/7669705525866383621) | Seattle, WA | Onsite | 2026-08-13 | Rolling | 🟢 Open | ❔ |
 | TikTok | [Product Operations Intern - TikTok Shop Apps and API - MBA](https://lifeattiktok.com/search/7668820702623467781) | Seattle, WA | Onsite | 2026-08-06 | Rolling | 🟢 Open | ❔ |
 | TikTok | [Recommendation Product Manager Intern - Content Ecosystem](https://lifeattiktok.com/search/7667874197682899205) | San Jose, CA | Onsite | 2026-08-04 | Rolling | 🟢 Open | ❔ |
 | TikTok | [Research Engineer Intern - Agentic Systems & AI Infrastructure - Generalized Architecture](https://lifeattiktok.com/search/7667934792727906565) | Seattle, WA | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |

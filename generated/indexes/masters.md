@@ -315,6 +315,7 @@
 | [TikTok](generated/companies/tiktok.md) | [Product Manager Intern - Product Infrastructure - Account](https://lifeattiktok.com/search/7670009830602721589) | San Jose, CA | Onsite | 2026-08-06 | Rolling | 🟢 Open | ❔ |
 | [TikTok](generated/companies/tiktok.md) | [Product Manager Intern - TikTok Ads Agent-Scaled Growth](https://lifeattiktok.com/search/7657728959042046213) | San Jose, CA | Onsite | 2026-07-07 | Rolling | 🟢 Open | ❔ |
 | [TikTok](generated/companies/tiktok.md) | [Product Manager Intern - TikTok Product Content Ecosystem](https://lifeattiktok.com/search/7657778928769534213) | San Jose, CA | Onsite | 2026-07-03 | Rolling | 🟢 Open | ❔ |
+| [TikTok](generated/companies/tiktok.md) | [Product Operations Intern - TikTok Shop Apps and API](https://lifeattiktok.com/search/7669705525866383621) | Seattle, WA | Onsite | 2026-08-13 | Rolling | 🟢 Open | ❔ |
 | [TikTok](generated/companies/tiktok.md) | [Recommendation Product Manager Intern - Content Ecosystem](https://lifeattiktok.com/search/7667874197682899205) | San Jose, CA | Onsite | 2026-08-04 | Rolling | 🟢 Open | ❔ |
 | [TikTok](generated/companies/tiktok.md) | [Research Engineer Intern - Agentic Systems & AI Infrastructure - Generalized Architecture](https://lifeattiktok.com/search/7667934792727906565) | Seattle, WA | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
 | [TikTok](generated/companies/tiktok.md) | [Research Engineer Intern - Monetization Technology - Business Integrity](https://lifeattiktok.com/search/7668202602270951733) | San Jose, CA | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |

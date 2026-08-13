@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🤖 AI Internships
 
-**165** tracked · **114** open now
+**166** tracked · **113** open now
 
 ## Current openings
 
@@ -33,7 +33,6 @@
 | [Canva](generated/companies/canva.md) | [PhD Research Scientist Intern - Edge AI](https://jobs.smartrecruiters.com/Canva/6000000001295782) | London | Onsite | 2026-08-07 | Rolling | 🟢 Open | ❔ |
 | [Cloudflare](generated/companies/cloudflare.md) | [AI Builder Intern - Global Customer Engineering - Service Sales](https://boards.greenhouse.io/cloudflare/jobs/8044395) | London | Onsite | 2026-07-06 | Rolling | 🟢 Open | ❔ |
 | [Cloudflare](generated/companies/cloudflare.md) | [AI Innovation Intern – Service Sales (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8044395?gh_jid=8044395) | In-Office | Onsite | 2026-07-06 | Rolling | 🟢 Open | ❔ |
-| [Cloudflare](generated/companies/cloudflare.md) | [U.S. Public Policy and AI Innovation Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8105728?gh_jid=8105728) | In-Office | Onsite | 2026-08-04 | Rolling | 🟢 Open | ❔ |
 | [Commercial Metals](generated/companies/commercial-metals.md) | [AI Intern](https://jobs.cmc.com/job/Irving-AI-Intern-TX-75039/1410297800/?ats=successfactors) | Irving, TX | Onsite | 2026-07-17 | Rolling | 🟢 Open | ❔ |
 | [Cotiviti](generated/companies/cotiviti.md) | [Agentic AI Research Intern](https://careers-cotiviti.icims.com/jobs/19480/job?mobile=true&needsRedirect=false) | Remote | Remote | 2026-08-12 | Rolling | 🟢 Open | ❔ |
 | [Cotiviti](generated/companies/cotiviti.md) | [Generative AI Research Engineer Intern](https://careers-cotiviti.icims.com/jobs/19341/job?mobile=true&needsRedirect=false) | Remote | Remote | 2026-06-16 | Rolling | 🟢 Open | ❔ |
@@ -74,10 +73,10 @@
 | [Postman](generated/companies/postman.md) | [AI Engineer Intern](https://job-boards.greenhouse.io/postman/jobs/7823417003) | Berkeley, CA | Onsite | 2026-08-01 | Rolling | 🟢 Open | ❔ |
 | [Prophet](generated/companies/prophet.md) | [AI Engineer Intern - AI Foundry & Digital Growth](https://job-boards.greenhouse.io/prophet/jobs/4689859005) | NYC | Onsite | 2026-07-27 | Rolling | 🟢 Open | ❔ |
 | [PSP Investments](generated/companies/psp-investments.md) | [AI Solutions Intern - External Manager Selection & Monitoring](https://investpsp.wd3.myworkdayjobs.com/psp_careers/job/Montreal/Intern--AI-Solutions-for-External-Manager-Selection---Monitoring--May---August-2027-_R4933) | Montreal | Onsite | 2026-08-10 | Rolling | 🟢 Open | ❔ |
-| [Revvity](generated/companies/revvity.md) | [Full-Stack AI Developer Intern](https://revvity.wd103.myworkdayjobs.com/External/job/CAD-Remote--ON/Full-Stack-AI-Developer-Intern_JR-044905) | Remote | Remote | 2026-07-15 | Rolling | 🟢 Open | ❔ |
 | [Rivian and Volkswagen Group Technologies](generated/companies/rivian-and-volkswagen-group-technologies.md) | [Data Engineering Intern - AI & Analytics](https://jobs.ashbyhq.com/rivianvw.tech/3864f83a-7b29-4c96-b00e-436d60c0508a/application) | Palo Alto, CA | Onsite | 2026-06-11 | Rolling | 🟢 Open | ❔ |
 | [Scale AI](generated/companies/scale-ai.md) | [AI Builder Intern](https://job-boards.greenhouse.io/scaleai/jobs/4703343005) | San Francisco, CA | Onsite | 2026-06-06 | Rolling | 🟢 Open | ❔ |
 | [Scale AI](generated/companies/scale-ai.md) | [Technical Advisor Specialist (Part-Time Internship)](https://job-boards.greenhouse.io/scaleai/jobs/4611533005) | San Francisco, CA | Onsite | 2025-09-22 | Rolling | 🟢 Open | ❔ |
+| [Schweitzer Engineering Laboratories](generated/companies/schweitzer-engineering-laboratories.md) | [Software Engineer Intern - AI Focus](https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Software-Engineering-Intern--AI-Focus-_2026-22601) | Pullman, WA | Onsite | 2026-08-12 | Rolling | 🟢 Open | ❔ |
 | [ShyftLabs](generated/companies/shyftlabs.md) | [AI Engineer Intern](https://jobs.lever.co/shyftlabs/4f389ea7-9b98-4ed0-99c2-b25ea8cc2dcd/apply) | Toronto | Onsite | 2026-07-21 | Rolling | 🟢 Open | ❔ |
 | [ShyftLabs](generated/companies/shyftlabs.md) | [AI Engineer Intern](https://jobs.lever.co/shyftlabs/4f389ea7-9b98-4ed0-99c2-b25ea8cc2dcd) | Toronto | Onsite | 2026-07-24 | Rolling | 🟢 Open | ❔ |
 | [SPREEAI](generated/companies/spreeai.md) | [Software Engineer Intern, AI Infrastructure / Training / Inference](https://ats.rippling.com/en-GB/spreeai/jobs/d34aed29-7a11-4e37-b5bc-e9317f82f0b1) | San Francisco, CA | Onsite | 2026-07-24 | Rolling | 🟢 Open | ✅ |
@@ -138,6 +137,7 @@
 | [Cirrus Logic](generated/companies/cirrus-logic.md) | [AI Business Analytics Co-op Intern](https://jobs.eu.lever.co/cirrus/f85c944c-d437-4685-9f04-c7b79ae65ecb/apply) | Austin, TX | Onsite | 2026-07-20 | Rolling | 🔴 Closed | ❔ |
 | [Cirrus Logic](generated/companies/cirrus-logic.md) | [Embedded Software AI Intern Co-op](https://jobs.eu.lever.co/cirrus/3d6df577-91f6-4b58-9e7f-c982e49ff515/apply) | Austin, TX | Onsite | 2026-06-23 | Rolling | 🔴 Closed | ❔ |
 | [Cloudflare](generated/companies/cloudflare.md) | [Sales Project Manager Intern (AI Innovation) (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8020830?gh_jid=8020830) | In-Office | Onsite | 2026-06-23 | Rolling | 🔴 Closed | ❔ |
+| [Cloudflare](generated/companies/cloudflare.md) | [U.S. Public Policy and AI Innovation Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8105728?gh_jid=8105728) | In-Office | Onsite | 2026-08-04 | Rolling | 🔴 Closed | ❔ |
 | [CNO Financial Group](generated/companies/cno-financial-group.md) | [Artificial Intelligence Information Technology Intern - AI](https://cnoinc.wd5.myworkdayjobs.com/Careers/job/Carmel-IN/Artificial-Intelligence--AI--IT-Intern-2027---REMOTE_JR170389) | Carmel, IN | Onsite | 2026-08-03 | Rolling | 🔴 Closed | ❔ |
 | [Datasite](generated/companies/datasite.md) | [AI Transformation / Forward Deployed Engineer Intern - Forward Deployed Engineer](https://datasite.wd1.myworkdayjobs.com/datasite/job/USA---NY---New-York-City/AI-Transformation---Forward-Deployed-Engineer--FDE--Intern_R36255) | NYC | Onsite | 2026-07-08 | Rolling | 🔴 Closed | ❔ |
 | [DNV](generated/companies/dnv.md) | [AI Research Intern](https://ecyq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/7094) | Oakland, CA | Onsite | 2026-07-16 | Rolling | 🔴 Closed | ❔ |
@@ -155,6 +155,7 @@
 | [North Cloud](generated/companies/north-cloud.md) | [AI Automation Intern](https://ats.rippling.com/north-cloud/jobs/9d9d6db9-2da0-45e2-a3d3-6373c61763a4) | Brooklyn, NY | Onsite | 2026-07-21 | Rolling | 🔴 Closed | ❔ |
 | [NXP Semiconductors](generated/companies/nxp-semiconductors.md) | [AI / Software Engineering Intern](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/AI---Software-Engineering-Intern---Fall-2026_R-10064807) | Austin, TX | Onsite | 2026-07-20 | Rolling | 🔴 Closed | ❔ |
 | [Otter Products](generated/companies/otter-products.md) | [Artificial Intelligence Intern](https://careers-otterproducts.icims.com/jobs/6912/job?mobile=true&needsRedirect=false) | Fort Collins, CO | Onsite | 2026-08-06 | Rolling | 🔴 Closed | ❔ |
+| [Revvity](generated/companies/revvity.md) | [Full-Stack AI Developer Intern](https://revvity.wd103.myworkdayjobs.com/External/job/CAD-Remote--ON/Full-Stack-AI-Developer-Intern_JR-044905) | Remote | Remote | 2026-07-15 | Rolling | 🔴 Closed | ❔ |
 | [Rockwell Automation](generated/companies/rockwell-automation.md) | [Applied AI Intern](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Austin-Texas-United-States/Intern--Applied-AI_R26-5631-2) | Austin, TX | Onsite | 2026-07-29 | Rolling | 🔴 Closed | ❔ |
 | [Rockwell Automation](generated/companies/rockwell-automation.md) | [Applied AI Intern](https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Austin-Texas-United-States/Intern--Applied-AI_R26-5631-1) | Austin, TX | Onsite | 2026-07-29 | Rolling | 🔴 Closed | ❔ |
 | [Samsung Research America](generated/companies/samsung-research-america.md) | [Computer Vision/AI Intern - Computer Vision/AI](https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8560657002) | Mountain View, CA | Onsite | 2026-05-27 | Rolling | 🔴 Closed | ❔ |
@@ -231,8 +232,8 @@
 - Postman (1)
 - Prophet (1)
 - PSP Investments (1)
-- Revvity (1)
 - Rivian and Volkswagen Group Technologies (1)
+- Schweitzer Engineering Laboratories (1)
 - SPREEAI (1)
 - StepStone Group (1)
 - The Nuclear Company (1)
@@ -262,6 +263,7 @@
 - North Cloud (1)
 - NXP Semiconductors (1)
 - Otter Products (1)
+- Revvity (1)
 - Samsung Research America (1)
 - Saronic (1)
 - SS&C (1)

@@ -96,7 +96,7 @@
 | [Brio Water Technology](../companies/brio-water-technology.md) | 1/1 | ai |
 | [Brookfield](../companies/brookfield.md) | 1/1 | ai |
 | [Brunswick](../companies/brunswick.md) | 0/1 | software-engineering |
-| [ByteDance](../companies/bytedance.md) | 41/44 | ai, hardware, machine-learning, research, software-engineering |
+| [ByteDance](../companies/bytedance.md) | 42/45 | ai, hardware, machine-learning, research, software-engineering |
 | [CACI](../companies/caci.md) | 0/1 | software-engineering |
 | [CALSTART](../companies/calstart.md) | 3/3 | research, software-engineering |
 | [CCC Intelligent Solutions](../companies/ccc-intelligent-solutions.md) | 2/3 | ai, data-science |
@@ -126,7 +126,7 @@
 | [City of Aurora](../companies/city-of-aurora.md) | 0/1 | software-engineering |
 | [City of Austin](../companies/city-of-austin.md) | 2/3 | research, software-engineering |
 | [City of Manhattan Kansas](../companies/city-of-manhattan-kansas.md) | 1/1 | software-engineering |
-| [Cloudflare](../companies/cloudflare.md) | 18/28 | ai, research, software-engineering |
+| [Cloudflare](../companies/cloudflare.md) | 16/28 | ai, research, software-engineering |
 | [Clyde Companies](../companies/clyde-companies.md) | 2/2 | software-engineering |
 | [Cohere](../companies/cohere.md) | 2/3 | machine-learning, research, software-engineering |
 | [Cohesity](../companies/cohesity.md) | 1/1 | software-engineering |
@@ -182,7 +182,7 @@
 | [Ensemble Health Partners](../companies/ensemble-health-partners.md) | 2/2 | data-science, software-engineering |
 | [Entergy](../companies/entergy.md) | 0/1 | software-engineering |
 | [Environmental Defense Fund](../companies/environmental-defense-fund.md) | 0/1 | software-engineering |
-| [Epic Games](../companies/epic-games.md) | 3/3 | machine-learning |
+| [Epic Games](../companies/epic-games.md) | 4/4 | machine-learning, software-engineering |
 | [Eragon](../companies/eragon.md) | 1/1 | ai |
 | [Eridu AI](../companies/eridu-ai.md) | 1/1 | software-engineering |
 | [Etched](../companies/etched.md) | 12/14 | cloud, embedded, software-engineering |
@@ -443,7 +443,7 @@
 | [Rendezvous Robotics](../companies/rendezvous-robotics.md) | 2/2 | software-engineering |
 | [ResponsiveAds](../companies/responsiveads.md) | 1/1 | software-engineering |
 | [Revise Robotics](../companies/revise-robotics.md) | 1/1 | software-engineering |
-| [Revvity](../companies/revvity.md) | 1/2 | ai, product |
+| [Revvity](../companies/revvity.md) | 0/2 | ai, product |
 | [Rho](../companies/rho.md) | 1/1 | quant |
 | [Richemont](../companies/richemont.md) | 0/1 | software-engineering |
 | [Rippling](../companies/rippling.md) | 6/6 | machine-learning, software-engineering |
@@ -471,7 +471,7 @@
 | [Sargent & Lundy](../companies/sargent-lundy.md) | 0/3 | ai, software-engineering |
 | [Saronic](../companies/saronic.md) | 1/2 | ai, software-engineering |
 | [Scale AI](../companies/scale-ai.md) | 3/3 | ai, software-engineering |
-| [Schweitzer Engineering Laboratories](../companies/schweitzer-engineering-laboratories.md) | 1/4 | software-engineering |
+| [Schweitzer Engineering Laboratories](../companies/schweitzer-engineering-laboratories.md) | 2/5 | ai, software-engineering |
 | [Seaspan](../companies/seaspan.md) | 0/2 | software-engineering |
 | [Sentara Health](../companies/sentara-health.md) | 0/2 | ai |
 | [Sentry](../companies/sentry.md) | 1/1 | software-engineering |
@@ -535,7 +535,7 @@
 | [The Nuclear Company](../companies/the-nuclear-company.md) | 8/8 | ai, data-science, machine-learning, software-engineering |
 | [The Trade Desk](../companies/the-trade-desk.md) | 0/1 | software-engineering |
 | [Thomson Reuters](../companies/thomson-reuters.md) | 1/1 | research |
-| [TikTok](../companies/tiktok.md) | 119/123 | ai, cloud, data-engineering, data-science, machine-learning, product, research, software-engineering |
+| [TikTok](../companies/tiktok.md) | 120/124 | ai, cloud, data-engineering, data-science, machine-learning, product, research, software-engineering |
 | [Together AI](../companies/together-ai.md) | 2/3 | research |
 | [Torch Technologies](../companies/torch-technologies.md) | 0/1 | software-engineering |
 | [Toshiba Commerce Solutions](../companies/toshiba-commerce-solutions.md) | 0/2 | ai |
