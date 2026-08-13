@@ -1,6 +1,6 @@
 # 📬 InternAtlas Weekly Digest — 2026-08-13
 
-## 🆕 New this week (275)
+## 🆕 New this week (277)
 
 - **Alayacare** — [Full-Stack Developer Intern - Python](https://alayacare.com/open-positions?gh_jid=8687981002) · software-engineering · —
 - **Altamira Technologies** — [Research and Development Intern](https://jobs.jobvite.com/altamiracorps/job/oHqCAfw3?nl=1&nl=1&fr=false) · research · —
@@ -212,6 +212,7 @@
 - **Terranova** — [Software Engineer Intern](https://jobs.ashbyhq.com/terranova/a8e5a8d2-4af3-4736-b66e-e0804447f7a0/application?embed=true) · software-engineering · —
 - **Tesla** — [Applied AI Engineer Intern - AI Hardware](https://www.tesla.com/careers/search/job/279603) · ai · —
 - **Tesla** — [Electronic Design Engineer Intern - Electronic Systems](https://www.tesla.com/careers/search/job/279760) · design · —
+- **Tesla** — [Firmware Engineer Intern - New Programs Engineering](https://www.tesla.com/careers/search/job/279991) · embedded · —
 - **Tesla** — [Software Engineer Intern - AI Inference Co Design](https://www.tesla.com/careers/search/job/279600) · ai · —
 - **Tesla** — [Software Engineer Intern - Engineering Automation - Vehicle Engineering](https://www.tesla.com/careers/search/job/279763) · software-engineering · —
 - **Texas Permanent School Fund Corporation** — [Equity Capital Markets Intern](https://texaspsf.wd501.myworkdayjobs.com/TexasPSFCareers/job/Innovation-Tower/Equity-Capital-Markets-Intern_JR100108) · software-engineering · —
@@ -226,6 +227,7 @@
 - **TikTok** — [AI Agent Product Manager Intern - Product Infrastructure-Customer Service Platform](https://lifeattiktok.com/search/7670010726514493749) · ai · —
 - **TikTok** — [AI Safety Evaluation & Governance Product Manager Intern - Multiple Teams](https://lifeattiktok.com/search/7670529537944766773) · ai · —
 - **TikTok** — [Data Engineer Intern - Monetization Data](https://lifeattiktok.com/search/7671232204182276405) · data-engineering · —
+- **TikTok** — [Data Science Intern - Advertisement Team](https://lifeattiktok.com/search/7673226686054107445) · data-science · —
 - **TikTok** — [Frontend Engineer Intern - Ads Interface](https://lifeattiktok.com/search/7671211313289398581) · software-engineering · —
 - **TikTok** — [Fullstack Software Engineer Intern - Global E-Commerce - 2027 Summer](https://lifeattiktok.com/search/7670738362521520437) · software-engineering · —
 - **TikTok** — [Fullstack Software Engineer Intern - Global E-Commerce](https://lifeattiktok.com/search/7670700387322300677) · software-engineering · —

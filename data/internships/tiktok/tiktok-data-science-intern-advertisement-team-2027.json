@@ -1,45 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "western-digital-software-engineer-intern-2027",
+  "id": "tiktok-data-science-intern-advertisement-team-2027",
   "company": {
-    "name": "Western Digital",
-    "slug": "western-digital"
+    "name": "TikTok",
+    "slug": "tiktok"
   },
-  "role": "Software Engineer Intern",
-  "category": "software-engineering",
-  "apply_url": "https://jobs.smartrecruiters.com/WesternDigital/744000138727213",
+  "role": "Data Science Intern - Advertisement Team",
+  "category": "data-science",
+  "apply_url": "https://lifeattiktok.com/search/7673226686054107445",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Fremont",
-      "state": "CA",
-      "country": "USA"
-    },
-    {
-      "city": "Rochester",
-      "state": "MN",
-      "country": "USA"
-    },
-    {
       "city": "San Jose",
       "state": "CA",
-      "country": "USA"
-    },
-    {
-      "city": "Irvine",
-      "state": "CA",
-      "country": "USA"
-    },
-    {
-      "city": "Colorado Springs",
-      "state": "CO",
-      "country": "USA"
-    },
-    {
-      "city": "Longmont",
-      "state": "CO",
       "country": "USA"
     }
   ],
@@ -51,7 +26,7 @@
   "eligibility": {
     "graduation_years": [],
     "degree_levels": [
-      "masters"
+      "phd"
     ],
     "citizenship_required": false,
     "security_clearance_required": false,
@@ -67,11 +42,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-20",
-    "discovered": "2026-07-20",
+    "posted": "2026-08-13",
+    "discovered": "2026-08-13",
     "last_verified": "2026-08-13"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

@@ -8,8 +8,8 @@ _Generated 2026-08-13_
 
 | Company | Listings |
 |---|---|
-| TikTok | 124 |
-| Tesla | 108 |
+| TikTok | 125 |
+| Tesla | 109 |
 | ByteDance | 45 |
 | Jump Trading | 43 |
 | Cloudflare | 28 |
@@ -40,10 +40,10 @@ _Generated 2026-08-13_
 | research | 94 | `█` |
 | hardware | 75 | `█` |
 | product | 50 | `█` |
-| embedded | 45 | `█` |
+| embedded | 46 | `█` |
 | cloud | 37 | `█` |
 | design | 34 | `█` |
-| data-science | 28 | `█` |
+| data-science | 29 | `█` |
 | data-engineering | 21 | `█` |
 | security | 12 | `█` |
 
@@ -58,6 +58,8 @@ _Generated 2026-08-13_
 - 2026-08-13 — **Picton Mahoney Asset Management**: [Quantitative Research & Risk Intern](https://pictonmahoney.bamboohr.com/careers/350/)
 - 2026-08-13 — **RRS Group**: [Investment Analyst Intern](https://jobs.smartrecruiters.com/RRSGroup/744000133857769)
 - 2026-08-13 — **RRS Group**: [Software Engineer Intern - Placement Year](https://jobs.smartrecruiters.com/RRSGroup/744000142513209)
+- 2026-08-13 — **Tesla**: [Firmware Engineer Intern - New Programs Engineering](https://www.tesla.com/careers/search/job/279991)
+- 2026-08-13 — **TikTok**: [Data Science Intern - Advertisement Team](https://lifeattiktok.com/search/7673226686054107445)
 - 2026-08-13 — **TikTok**: [Product Operations Intern - TikTok Shop Apps and API](https://lifeattiktok.com/search/7669705525866383621)
 - 2026-08-13 — **Tuckernuck**: [Product Management Intern](https://tnuck.bamboohr.com/careers/273/)
 - 2026-08-13 — **VWH Capital Management**: [Quantitative Researcher Intern](https://jobs.smartrecruiters.com/VWHCapitalManagementLP/744000135105801)
@@ -67,8 +69,6 @@ _Generated 2026-08-13_
 - 2026-08-12 — **American Fidelity**: [Software Development Intern](https://americanfidelity.wd5.myworkdayjobs.com/External/job/Oklahoma-City-Oklahoma/Software-Dev-Internship_JR1005)
 - 2026-08-12 — **Assured Guaranty**: [Product Software Developer Intern](https://boards.greenhouse.io/assuredguaranty/jobs/8700953002)
 - 2026-08-12 — **CCC Intelligent Solutions**: [Data Science Engineer Intern](https://cccis.wd1.myworkdayjobs.com/broadbean_external/job/Chicago-Green-St-IL/Data-Science-Engineer-Internship_0014843)
-- 2026-08-12 — **Cotiviti**: [Agentic AI Research Intern](https://careers-cotiviti.icims.com/jobs/19480/job?mobile=true&needsRedirect=false)
-- 2026-08-12 — **DV Trading**: [Trading Intern](https://job-boards.greenhouse.io/dvtrading/jobs/4719135005)
 
 ## Recently closed
 
@@ -325,6 +325,7 @@ _Generated 2026-08-13_
 - Walleye Capital — Technology Intern
 - Walleye Capital — Volatility Trading Developer Intern
 - Wells Fargo — Corporate Risk Development Program Intern - Core Risk - Early Careers
+- Western Digital — Software Engineer Intern
 - WGU — Data Support Engineer Intern
 - Williams — Engineering Intern
 - X Development — PhD Residency Intern - Operations Research and Optimization
