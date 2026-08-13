@@ -473,7 +473,7 @@
 | [Samsung Research America](../companies/samsung-research-america.md) | 1/4 | ai, machine-learning, software-engineering |
 | [Sandhills Global](../companies/sandhills-global.md) | 1/1 | software-engineering |
 | [Sargent & Lundy](../companies/sargent-lundy.md) | 0/3 | ai, software-engineering |
-| [Saronic](../companies/saronic.md) | 1/2 | ai, software-engineering |
+| [Saronic](../companies/saronic.md) | 0/2 | ai, software-engineering |
 | [Scale AI](../companies/scale-ai.md) | 3/3 | ai, software-engineering |
 | [Schweitzer Engineering Laboratories](../companies/schweitzer-engineering-laboratories.md) | 2/5 | ai, software-engineering |
 | [Seaspan](../companies/seaspan.md) | 0/2 | software-engineering |

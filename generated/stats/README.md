@@ -266,6 +266,7 @@ _Generated 2026-08-13_
 - Sargent & Lundy — AI & Automation Intern - Summer 2027
 - Sargent & Lundy — Software Engineer Intern
 - Saronic — Enterprise Technology Intern - AI and Automation
+- Saronic — Software Engineer Intern
 - Schweitzer Engineering Laboratories — Engineering Intern
 - Schweitzer Engineering Laboratories — Software Engineer Intern
 - Sentara Health — Data & AI Finance Strategy Intern

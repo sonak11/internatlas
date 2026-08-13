@@ -867,7 +867,6 @@
 - Samsara — [Software Engineering Internship - London](https://www.samsara.com/company/careers/roles/8082093?gh_jid=8082093)
 - Samsung Research America — [Memory and Personalization Intern - Memory and Personalization](https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8438402002)
 - Sandhills Global — [Software Development Intern](https://www.sandhills.com/careers-and-internships/details/careers/sandhills/1196/software-development-intern)
-- Saronic — [Software Engineer Intern](https://jobs.ashbyhq.com/saronic/1c74957f-0895-415b-9324-08b0994747d7/application)
 - Scale AI — [AI Builder Intern](https://job-boards.greenhouse.io/scaleai/jobs/4703343005)
 - Scale AI — [Technical Advisor Intern, GenAI](https://scale.com/careers/4611533005)
 - Scale AI — [Technical Advisor Specialist (Part-Time Internship)](https://job-boards.greenhouse.io/scaleai/jobs/4611533005)
