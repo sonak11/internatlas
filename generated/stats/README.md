@@ -34,10 +34,10 @@ _Generated 2026-08-13_
 | Category | Count | Share |
 |---|---|---|
 | software-engineering | 885 | `█████████████` |
-| quant | 172 | `██` |
+| quant | 173 | `██` |
 | ai | 166 | `██` |
 | machine-learning | 126 | `██` |
-| research | 94 | `█` |
+| research | 93 | `█` |
 | hardware | 75 | `█` |
 | product | 51 | `█` |
 | embedded | 46 | `█` |
@@ -54,6 +54,8 @@ _Generated 2026-08-13_
 - 2026-08-13 — **Epic Games**: [Gameplay Programmer Intern](https://epicgames.com/careers/jobs/6141180004?gh_jid=6141180004)
 - 2026-08-13 — **Gartner**: [Data Analyst Intern](https://gartner.wd5.myworkdayjobs.com/EXT/job/Irving-TX/Data-Analyst-Internship--2028-Graduates-_113297)
 - 2026-08-13 — **Inbulks**: [Junior Front End Developer Intern](https://jobs.smartrecruiters.com/InbulksCorp/743999750129753)
+- 2026-08-13 — **InfiniteQuant**: [Quantitative Developer Intern - Summer 2027](https://jobs.smartrecruiters.com/InfiniteQuant/744000143287594)
+- 2026-08-13 — **InfiniteQuant**: [Quantitative Researcher Intern - Summer 2027](https://jobs.smartrecruiters.com/InfiniteQuant/744000143307421)
 - 2026-08-13 — **Picton Mahoney Asset Management**: [Business Data Analyst Intern](https://pictonmahoney.bamboohr.com/careers/356/)
 - 2026-08-13 — **Picton Mahoney Asset Management**: [Quantitative Research & Risk Intern](https://pictonmahoney.bamboohr.com/careers/350/)
 - 2026-08-13 — **RRS Group**: [Investment Analyst Intern](https://jobs.smartrecruiters.com/RRSGroup/744000133857769)
@@ -67,8 +69,6 @@ _Generated 2026-08-13_
 - 2026-08-13 — **Wells Fargo**: [Quantitative Analytics Intern - Multiple Teams](https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Quantitative-Analytics-Summer-Internship-Risk-Analytics-and-Decision-Sciences--Masters----Early-Careers_R-568259)
 - 2026-08-13 — **Wells Fargo**: [Quantitative Analytics Intern - Multiple Teams](https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Quantitative-Analytics-Summer-Internship-Capital-Markets--PhD----Early-Careers_R-568279)
 - 2026-08-12 — **American Fidelity**: [Software Development Intern](https://americanfidelity.wd5.myworkdayjobs.com/External/job/Oklahoma-City-Oklahoma/Software-Dev-Internship_JR1005)
-- 2026-08-12 — **Assured Guaranty**: [Product Software Developer Intern](https://boards.greenhouse.io/assuredguaranty/jobs/8700953002)
-- 2026-08-12 — **CCC Intelligent Solutions**: [Data Science Engineer Intern](https://cccis.wd1.myworkdayjobs.com/broadbean_external/job/Chicago-Green-St-IL/Data-Science-Engineer-Internship_0014843)
 
 ## Recently closed
 
@@ -109,7 +109,7 @@ _Generated 2026-08-13_
 - Brunswick — Software Engineer Intern
 - ByteDance — Research Scientist Intern
 - Canva — PhD Research Scientist Intern - Generative AI
-- Canva — PhD Research Scientist Intern - Reinforcement Learning - Images
+- Canva — PhD Research Scientist Intern - Reinforcement Learning for Diffusion Modelling
 - Capital One — Full Stack Software Engineer Intern
 - Capital One — Technology Intern
 - CCC Intelligent Solutions — Applied AI Engineer Intern
@@ -122,6 +122,7 @@ _Generated 2026-08-13_
 - Cirrus Logic — AI Business Analytics Co-op Intern
 - Cirrus Logic — Embedded Software AI Intern Co-op
 - City of Austin — Austin Aviation Undergraduate Intern - IT Business Systems Analyst
+- Cloudflare — AI Innovation Intern – Service Sales (Fall 2026)
 - Cloudflare — Brand Social Media Intern (Fall 2026)
 - Cloudflare — Customer Advocacy Intern (Fall 2026)
 - Cloudflare — GRC Team Intern (Fall 2026)
@@ -254,6 +255,7 @@ _Generated 2026-08-13_
 - RTX — Software Engineer Intern
 - RTX — Software Engineer Intern
 - RTX — Software Engineer Intern
+- RTX — Software Engineering Intern
 - Salesforce — Software Engineer Intern - Future Pathways
 - Samsung Research America — Digital Health Algorithms Intern
 - Samsung Research America — ML/NLP Research Intern

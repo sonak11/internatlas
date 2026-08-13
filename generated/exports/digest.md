@@ -58,7 +58,6 @@
 - **CNO Financial Group** — [Cyber Security IT Intern](https://cnoinc.wd5.myworkdayjobs.com/careers/job/Carmel-IN/Cyber-Security-IT-Intern---REMOTE_JR170419?jr_id=6a70f504e2b7476e7b20bfd4) · security · —
 - **Caddi Workflow Automation** — [Software Engineer Intern](https://apply.workable.com/trycaddi/j/9D1291C697/apply) · software-engineering · —
 - **Canva** — [PhD Research Scientist Intern](https://jobs.smartrecruiters.com/Canva/6000000001291655-phd-research-scientist-intern) · research · —
-- **Canva** — [PhD Research Scientist Intern](https://jobs.smartrecruiters.com/Canva/6000000001291655) · research · —
 - **Canva** — [PhD Research Scientist Intern - Edge AI](https://jobs.smartrecruiters.com/Canva/6000000001295782) · ai · —
 - **Canva** — [PhD Research Scientist Intern - Generative AI](https://jobs.smartrecruiters.com/Canva/6000000001289897) · ai · —
 - **Canva** — [PhD Research Scientist Intern - Reinforcement Learning for Diffusion Modelling](https://jobs.smartrecruiters.com/Canva/6000000001295209) · research · —
@@ -112,7 +111,8 @@
 - **IMC Trading** — [Trader Intern 2027](https://job-boards.eu.greenhouse.io/imc/jobs/4941205101) · quant · —
 - **ING** — [Technology Intern - Innovation](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/New-York/Summer-2027-Internship---Tech--Innovation-_REQ-10119619) · software-engineering · —
 - **Inbulks** — [Junior Front End Developer Intern](https://jobs.smartrecruiters.com/InbulksCorp/743999750129753) · software-engineering · —
-- **InfiniteQuant** — [Quantitative Researcher Intern - Summer 2027](https://jobs.smartrecruiters.com/InfiniteQuant/744000142560129) · quant · —
+- **InfiniteQuant** — [Quantitative Developer Intern - Summer 2027](https://jobs.smartrecruiters.com/InfiniteQuant/744000143287594) · quant · —
+- **InfiniteQuant** — [Quantitative Researcher Intern - Summer 2027](https://jobs.smartrecruiters.com/InfiniteQuant/744000143307421) · quant · —
 - **KBR** — [Software Intern](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Houston-Texas/Software-Intern_R2127863) · software-engineering · —
 - **Kimley-Horn** — [Software Developer Intern](https://careers-kimley-horn.icims.com/jobs/25761/job?mobile=true&needsRedirect=false) · software-engineering · —
 - **LPL Financial Holdings** — [Data Engineer Intern - Data](https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/Summer-Intern-2027---Data_R-052914) · data-engineering · —

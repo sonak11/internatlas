@@ -1,20 +1,23 @@
 {
   "schema_version": "1.0",
-  "id": "canva-phd-research-scientist-intern-2026-1bb10f",
+  "id": "infinitequant-quantitative-developer-intern-summer-2027-2027",
   "company": {
-    "name": "Canva",
-    "slug": "canva"
+    "name": "InfiniteQuant",
+    "slug": "infinitequant"
   },
-  "role": "PhD Research Scientist Intern",
-  "category": "research",
-  "apply_url": "https://jobs.smartrecruiters.com/Canva/6000000001291655-phd-research-scientist-intern",
-  "season": "fall",
-  "year": 2026,
+  "role": "Quantitative Developer Intern - Summer 2027",
+  "category": "quant",
+  "apply_url": "https://jobs.smartrecruiters.com/InfiniteQuant/744000143287594",
+  "season": "summer",
+  "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "San Francisco",
-      "state": "CA",
+      "city": "Dubai - United Arab Emirates",
+      "country": "USA"
+    },
+    {
+      "city": "NYC",
       "country": "USA"
     }
   ],
@@ -40,13 +43,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-06",
-    "discovered": "2026-08-06",
+    "posted": "2026-08-13",
+    "discovered": "2026-08-13",
     "last_verified": "2026-08-13"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:vanshb03"
+    "src:simplify"
   ]
 }

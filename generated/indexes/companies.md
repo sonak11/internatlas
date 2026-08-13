@@ -105,7 +105,7 @@
 | [CTGT](../companies/ctgt.md) | 1/1 | software-engineering |
 | [Caddi Workflow Automation](../companies/caddi-workflow-automation.md) | 1/1 | software-engineering |
 | [Cadence Design Systems](../companies/cadence-design-systems.md) | 6/6 | design, software-engineering |
-| [Canva](../companies/canva.md) | 4/6 | ai, research |
+| [Canva](../companies/canva.md) | 3/5 | ai, research |
 | [Capital One](../companies/capital-one.md) | 5/8 | data-science, security, software-engineering |
 | [Capula](../companies/capula.md) | 1/1 | quant |
 | [Carnegie Mellon University](../companies/carnegie-mellon-university.md) | 0/1 | research |
@@ -126,7 +126,7 @@
 | [City of Aurora](../companies/city-of-aurora.md) | 0/1 | software-engineering |
 | [City of Austin](../companies/city-of-austin.md) | 2/3 | research, software-engineering |
 | [City of Manhattan Kansas](../companies/city-of-manhattan-kansas.md) | 1/1 | software-engineering |
-| [Cloudflare](../companies/cloudflare.md) | 16/28 | ai, research, software-engineering |
+| [Cloudflare](../companies/cloudflare.md) | 15/28 | ai, research, software-engineering |
 | [Clyde Companies](../companies/clyde-companies.md) | 2/2 | software-engineering |
 | [Cohere](../companies/cohere.md) | 2/3 | machine-learning, research, software-engineering |
 | [Cohesity](../companies/cohesity.md) | 1/1 | software-engineering |
@@ -273,7 +273,7 @@
 | [Impulse Space](../companies/impulse-space.md) | 0/2 | software-engineering |
 | [Inbulks](../companies/inbulks.md) | 1/1 | software-engineering |
 | [Incident IQ](../companies/incident-iq.md) | 1/1 | software-engineering |
-| [InfiniteQuant](../companies/infinitequant.md) | 1/2 | quant |
+| [InfiniteQuant](../companies/infinitequant.md) | 2/3 | quant |
 | [Inizio](../companies/inizio.md) | 1/1 | software-engineering |
 | [Innovation Works, Inc.](../companies/innovation-works-inc.md) | 1/1 | software-engineering |
 | [Inogen](../companies/inogen.md) | 0/1 | embedded |
@@ -436,7 +436,7 @@
 | [RLI](../companies/rli.md) | 1/1 | product |
 | [ROCKWOOL Group](../companies/rockwool-group.md) | 0/2 | product, software-engineering |
 | [RRS Group](../companies/rrs-group.md) | 2/2 | software-engineering |
-| [RTX](../companies/rtx.md) | 16/21 | machine-learning, software-engineering |
+| [RTX](../companies/rtx.md) | 15/21 | machine-learning, software-engineering |
 | [Radix Trading](../companies/radix-trading.md) | 1/1 | quant |
 | [Rainmaker](../companies/rainmaker.md) | 0/1 | software-engineering |
 | [Rakuten International](../companies/rakuten-international.md) | 0/1 | software-engineering |
