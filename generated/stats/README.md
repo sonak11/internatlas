@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 📊 Statistics
 
-_Generated 2026-08-13_
+_Generated 2026-08-14_
 
 ## Top hiring companies
 
@@ -72,13 +72,12 @@ _Generated 2026-08-13_
 
 ## Recently closed
 
-- ABC News — Product Management and Engineering Intern
 - Adobe — AI/ML Intern – Machine Learning Engineer/Researcher Intern
-- Airbnb — Sales Operations Intern, Italy
 - Alljoined — Research Intern
 - Altasciences — Process Innovation Product Management Intern
 - Ambarella — DFT Engineer Intern
 - Ambarella — Software Development Engineer Intern
+- American Enterprise Institute — Intern
 - American Express — Product Development Intern - Product Development - Consumer Services
 - Apple — Applied Data Solutions Program Intern
 - Apptronik — Software Engineer Intern, ML Systems
@@ -87,7 +86,6 @@ _Generated 2026-08-13_
 - Arizona State University — Management Intern - Career Data and Analytics
 - Assurant — Digital & AI Transformation Intern
 - Assured Guaranty — Product Software Developer Intern
-- Astranis — FPGA Associate Intern
 - Astranis — FPGA Intern
 - Astranis — Hardware Design Intern - Software Defined Radio Team
 - Astranis — Reliability Design Intern
@@ -95,13 +93,11 @@ _Generated 2026-08-13_
 - Autodesk — Cloud Developer Intern
 - Autodesk — Software Developer Intern - Stagiaire en Développement Logiciel
 - Autodesk — Software Developer Intern - Stagiaire en Développement Logiciel
-- Avanade — Software Engineering Intern
 - Bank of Montreal — Card Products Intern Co-op - Customer Solutions
 - Bank of Montreal — Data and AI Operations Analyst Intern/Co-op - Cloud - 8 months
 - Bank of Montreal — Data Scientist Co-op/Internship - Months
 - Bank of Montreal — Database Operations Co-op Intern
 - Bank of Montreal — Investment Intern Co-op - Co-op/Internship
-- Bank of Montreal — Market Risk Analyst Co-op/Intern
 - Bloxd — Software Engineer Intern
 - Bosch Home Comfort — Artificial Intelligence and Software Development Engineering Intern
 - Bosch Home Comfort — Autonomous Driving Intern
@@ -111,14 +107,13 @@ _Generated 2026-08-13_
 - ByteDance — Research Scientist Intern
 - Canva — PhD Research Scientist Intern - Generative AI
 - Canva — PhD Research Scientist Intern - Reinforcement Learning for Diffusion Modelling
-- Capital One — Full Stack Software Engineer Intern
 - Capital One — Technology Intern
-- CCC Intelligent Solutions — Applied AI Engineer Intern
 - Centerfield — Product Manager Intern
 - Ciena — Optical Modem Hardware Intern
 - Ciena — Photonic Hardware Intern
 - Ciena — Routing/IP Software Developer Intern
 - Ciena — Software Engineer and Tools Developer Intern
+- Ciena — Software Engineer Intern
 - Ciena — Software Engineer Intern
 - Cirrus Logic — AI Business Analytics Co-op Intern
 - Cirrus Logic — Embedded Software AI Intern Co-op
@@ -131,7 +126,6 @@ _Generated 2026-08-13_
 - Cloudflare — Marketing Events and Campaigns Intern (Fall 2026)
 - Cloudflare — Marketing Programs and Analytics Intern
 - Cloudflare — Marketing Programs and Analytics Intern (Fall 2026)
-- Cloudflare — Public Policy Intern
 - Cloudflare — Technical Marketing Intern (Fall 2026)
 - Cloudflare — U.S. Public Policy and AI Innovation Intern (Fall 2026)
 - CNO Financial Group — Artificial Intelligence Information Technology Intern - AI
@@ -140,7 +134,6 @@ _Generated 2026-08-13_
 - Composio — Full-stack Intern
 - ConocoPhillips — GIS Intern
 - Copart — Data Engineer Intern
-- Copart — Software Engineer Intern
 - Copart — Software Engineer Intern
 - Copart — Software Engineer Intern
 - Copart — Technology Product Analyst Intern
@@ -161,14 +154,14 @@ _Generated 2026-08-13_
 - Exploration Technology Corp. — Engineer Intern
 - Fab2 — Embedded Software Engineer Intern
 - Fab2 — Packaging Engineer Intern
+- Fab2 — Software Engineer Intern
 - Formlabs — Hardware Systems Integration Intern
 - GE Appliances — Engineering Intern/Co-op
-- GE Healthcare — Engineering Development Program Intern - Hardware
 - GE Healthcare — Engineering Development Program Intern - Software
 - Gemini — Product Management Intern
 - Gemini — Software Engineer Intern
-- Generac — Engineering Intern
 - General Dynamics Information Technology — Artificial Intelligence/Machine Learning Intern
+- General Dynamics Information Technology — Software Developer Intern
 - General Motors — Research and Development Intern - Research & Development: AI/ML
 - Global Infrastructure — Alternative Delivery Project Analytics Intern
 - Golden Pet Brands — Data Analytics Intern
@@ -176,7 +169,6 @@ _Generated 2026-08-13_
 - Hendrick Motorsports — Project and Race Support Engineer Internship
 - Hendrick Motorsports — Racing Performance Engineer Intern
 - Hermeus — Hardware-In-the-Loop Software Engineering Intern - Fall 2026
-- Hermeus — Modeling & Simulation Software Engineering Intern
 - HireVue — Data Science Intern
 - IMC Trading — 2027 - Quant Research Intern - BITS Pilani
 - IMC Trading — 2027 - Software Engineering Intern - BITS Pilani
@@ -195,13 +187,11 @@ _Generated 2026-08-13_
 - Kodak — Marketing Analytics Intern
 - KRAFTON — Programming Intern
 - Leidos — Software Developer Intern
-- LexisNexis Risk Solutions — Editorial Data Reporting Intern
 - Littelfuse — Intern 1 - Engineering
 - Loop — Data Scientist Intern
 - Lumentum — Optical Verification Technician Co-op Intern
 - Lumentum — Optical Verification Technician Intern/Co-op
 - Medpace — Feasibility Informatics Internship/Co-op
-- Medpace, Inc. — Feasibility Informatics Intern/Co-op
 - Menasha Corporation — Supply Chain Analytics Intern
 - Meta — Research Scientist Intern - Monetization Computer Vision
 - Meta — Research Scientist Intern - Multimodal Contextual AI
@@ -217,8 +207,6 @@ _Generated 2026-08-13_
 - Microsoft — Software Engineer Security & Identity Intern
 - Midmark — Firmware Engineering Intern/Co-op
 - Mistral AI — AI Data Solutions Intern - Data Partnerships
-- Monogram — Software Engineer Intern
-- Moog — Software Engineer Intern
 - Moss & Associates — Construction Technologies Intern
 - National Laboratory of the Rockies — Graduate Intern - Transportation Systems Analysis
 - NationGraph — Software Engineer Intern
@@ -227,12 +215,9 @@ _Generated 2026-08-13_
 - Nokia — Electromechanical Assembly Co-op Intern - Intern
 - North Cloud — AI Automation Intern
 - Northrop Grumman — Software Engineer Intern - Aeronautics Systems
-- Notion — Software Engineer Intern
-- NVIDIA — Applied Deep Learning PhD Research Intern - Reinforcement Learning for LLMs
 - NVIDIA — Performance Engineer Intern, Systems Software
 - Otter Products — Artificial Intelligence Intern
 - Outpost Technologies — Technical Marketing Intern - Analytics - Research & Automation
-- Output Biosciences — Research Intern - Machine Learning
 - PEAK6 — Trading Bootcamp Micro-Internship - Summer 2027
 - PEAK6 — Trading Intern
 - Pennsylvania State University — AI/ML Research and Development Intern
@@ -271,7 +256,6 @@ _Generated 2026-08-13_
 - Sargent & Lundy — Software Engineer Intern
 - Saronic — Enterprise Technology Intern - AI and Automation
 - Saronic — Software Engineer Intern
-- Schweitzer Engineering Laboratories — Software Engineer Intern
 - Sentara Health — Data & AI Finance Strategy Intern
 - Sentara Health — Enterprise Data & AI Intern
 - Smiths Detection Group — Commercial Intern - Commercial Tools & Business Intelligence
@@ -296,9 +280,9 @@ _Generated 2026-08-13_
 - Swift — Industry Engagement Research Analyst Intern
 - T. Rowe Price — Global Trading Intern
 - T. Rowe Price — Quantitative Equity Investing Intern
-- Tencent — AI Agent Research & Application Intern
 - Tencent — Research Intern - Video World Models - Research & ML Systems
 - Tenstorrent — CPU/AI Workload Analysis Intern
+- Terminal — Software Engineer Intern - Data Platform
 - Tesla — AI Inference Engineer Intern - Software Compiler Engineer - AI Inference
 - Tesla — Automated Diagnostics Intern - Software Engineer
 - Tesla — Data Analyst Intern - Data Analyst - Energy
@@ -313,7 +297,6 @@ _Generated 2026-08-13_
 - Tesla — Software Engineer Intern - Fullstack Software Engineer - Fleetnet
 - Tesla — Software Engineer Intern - Software Engineer - Data Platforms
 - Tesla — Software Engineer Intern - Software Engineer - Energy Engineering
-- Tesla — Software Integration Engineer Intern - Software Integration Engineer - Service Tooling
 - Tesla — Supercharger Product Engineer Intern - Supercharger Product Support Engineering
 - Texas Permanent School Fund Corporation — Equity Capital Markets Intern
 - The Home Depot — AI Engineer Intern
@@ -334,7 +317,6 @@ _Generated 2026-08-13_
 - Two Six Technologies — China Subject Matter Expert Intern
 - University of Virginia — Graduate Research Intern
 - US Acute Care Solutions — People Analytics Intern
-- Varda Space — Mission Software – Intern - Python
 - Veralto — Machine Learning Co-op Intern
 - Vertiv — Software Engineer Intern
 - Walleye Capital — Central Equity Quant Research Intern - Ceqr

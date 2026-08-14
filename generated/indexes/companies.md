@@ -37,7 +37,7 @@
 | [Amentum](../companies/amentum.md) | 1/1 | hardware |
 | [Ameren](../companies/ameren.md) | 1/1 | software-engineering |
 | [American Bureau of Shipping](../companies/american-bureau-of-shipping.md) | 0/1 | ai |
-| [American Enterprise Institute](../companies/american-enterprise-institute.md) | 3/4 | ai, software-engineering |
+| [American Enterprise Institute](../companies/american-enterprise-institute.md) | 2/4 | ai, software-engineering |
 | [American Express](../companies/american-express.md) | 9/10 | product, software-engineering |
 | [American Fidelity](../companies/american-fidelity.md) | 1/1 | software-engineering |
 | [Amgen](../companies/amgen.md) | 1/1 | software-engineering |
@@ -118,7 +118,7 @@
 | [Chanel](../companies/chanel.md) | 1/1 | software-engineering |
 | [Chevron Corporation](../companies/chevron-corporation.md) | 4/6 | quant, software-engineering |
 | [Chicago Trading Company](../companies/chicago-trading-company.md) | 6/6 | quant, software-engineering |
-| [Ciena](../companies/ciena.md) | 5/12 | design, embedded, hardware, software-engineering |
+| [Ciena](../companies/ciena.md) | 4/12 | design, embedded, hardware, software-engineering |
 | [Circle K](../companies/circle-k.md) | 1/1 | software-engineering |
 | [Circleback](../companies/circleback.md) | 1/1 | software-engineering |
 | [Cirrus Logic](../companies/cirrus-logic.md) | 1/3 | ai, embedded |
@@ -196,7 +196,7 @@
 | [Exowatt](../companies/exowatt.md) | 0/1 | ai |
 | [Exploration Technology Corp.](../companies/exploration-technology-corp.md) | 0/1 | software-engineering |
 | [FTI Consulting](../companies/fti-consulting.md) | 2/2 | software-engineering |
-| [Fab2](../companies/fab2.md) | 3/6 | design, embedded, software-engineering |
+| [Fab2](../companies/fab2.md) | 2/6 | design, embedded, software-engineering |
 | [Felix Magazine](../companies/felix-magazine.md) | 4/4 | software-engineering |
 | [Field AI](../companies/field-ai.md) | 1/1 | software-engineering |
 | [Figma](../companies/figma.md) | 2/2 | design, software-engineering |
@@ -227,7 +227,7 @@
 | [GenMD](../companies/genmd.md) | 1/1 | ai |
 | [Generac](../companies/generac.md) | 0/3 | data-science, software-engineering |
 | [General Astronautics](../companies/general-astronautics.md) | 1/1 | software-engineering |
-| [General Dynamics Information Technology](../companies/general-dynamics-information-technology.md) | 2/3 | machine-learning, software-engineering |
+| [General Dynamics Information Technology](../companies/general-dynamics-information-technology.md) | 1/3 | machine-learning, software-engineering |
 | [General Dynamics Mission Systems](../companies/general-dynamics-mission-systems.md) | 1/1 | security |
 | [General Intuition &amp; Medal](../companies/general-intuition-amp-medal.md) | 1/1 | software-engineering |
 | [General Motors](../companies/general-motors.md) | 0/2 | machine-learning, research |
@@ -528,7 +528,7 @@
 | [Tacit](../companies/tacit.md) | 1/1 | hardware |
 | [Tencent](../companies/tencent.md) | 4/8 | ai, machine-learning, research, software-engineering |
 | [Tenstorrent](../companies/tenstorrent.md) | 2/3 | ai, design |
-| [Terminal](../companies/terminal.md) | 2/2 | software-engineering |
+| [Terminal](../companies/terminal.md) | 1/2 | software-engineering |
 | [Terranova](../companies/terranova.md) | 2/2 | embedded, software-engineering |
 | [Terranox AI](../companies/terranox-ai.md) | 1/1 | machine-learning |
 | [Tesla](../companies/tesla.md) | 86/110 | ai, cloud, data-engineering, design, embedded, hardware, machine-learning, product, security, software-engineering |
