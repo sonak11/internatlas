@@ -115,6 +115,7 @@ _Generated 2026-08-14_
 - Ciena — Software Engineer and Tools Developer Intern
 - Ciena — Software Engineer Intern
 - Ciena — Software Engineer Intern
+- Ciena — Software Liquid Spectrum Applications Intern
 - Cirrus Logic — AI Business Analytics Co-op Intern
 - Cirrus Logic — Embedded Software AI Intern Co-op
 - City of Austin — Austin Aviation Undergraduate Intern - IT Business Systems Analyst
