@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🧭 Product Internships
 
-**51** tracked · **37** open now
+**53** tracked · **39** open now
 
 ## Current openings
 
@@ -34,6 +34,8 @@
 | [TikTok](generated/companies/tiktok.md) | [Product Manager Intern - Ads Interface and Platform](https://lifeattiktok.com/search/7672569081632229685) | Seattle, WA | Onsite | 2026-08-12 | Rolling | 🟢 Open | ❔ |
 | [TikTok](generated/companies/tiktok.md) | [Product Manager Intern - Ads Interface and Platform](https://lifeattiktok.com/search/7672562486917286149) | San Jose, CA | Onsite | 2026-08-12 | Rolling | 🟢 Open | ❔ |
 | [TikTok](generated/companies/tiktok.md) | [Product Manager Intern - Commerce Ads](https://lifeattiktok.com/search/7672557943224961333) | San Jose, CA | Onsite | 2026-08-12 | Rolling | 🟢 Open | ❔ |
+| [TikTok](generated/companies/tiktok.md) | [Product Manager Intern - Content and Services](https://lifeattiktok.com/search/7673337777708550405) | San Jose, CA | Onsite | 2026-08-14 | Rolling | 🟢 Open | ❔ |
+| [TikTok](generated/companies/tiktok.md) | [Product Manager Intern - Scaled Growth](https://lifeattiktok.com/search/7673559305519794437) | San Jose, CA | Onsite | 2026-08-14 | Rolling | 🟢 Open | ❔ |
 | [TikTok](generated/companies/tiktok.md) | [Product Manager Intern - Signal and Identity Product](https://lifeattiktok.com/search/7672554809555192117) | San Jose, CA | Onsite | 2026-08-12 | Rolling | 🟢 Open | ❔ |
 | [TikTok](generated/companies/tiktok.md) | [Product Manager Intern - TikTok Ads Agent-Scaled Growth](https://lifeattiktok.com/search/7657728959042046213) | San Jose, CA | Onsite | 2026-07-07 | Rolling | 🟢 Open | ❔ |
 | [TikTok](generated/companies/tiktok.md) | [Product Manager Intern - TikTok Product Content Ecosystem](https://lifeattiktok.com/search/7657778928769534213) | San Jose, CA | Onsite | 2026-07-03 | Rolling | 🟢 Open | ❔ |
@@ -62,7 +64,7 @@
 
 ## Hiring companies
 
-- TikTok (10)
+- TikTok (12)
 - American Express (4)
 - Vertiv (4)
 - Appian (2)

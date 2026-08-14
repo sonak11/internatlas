@@ -1,6 +1,6 @@
 {
   "generated": "2026-08-14",
-  "count": 1785,
+  "count": 1793,
   "internships": [
     {
       "schema_version": "1.0",
@@ -11638,6 +11638,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "bytedance-asic-design-engineer-intern-video-silicon-ip-2027-9ba5fe",
+      "company": {
+        "name": "ByteDance",
+        "slug": "bytedance"
+      },
+      "role": "ASIC Design Engineer Intern - Video Silicon IP",
+      "category": "hardware",
+      "apply_url": "https://jobs.bytedance.com/en/position/7673638856678279429/detail",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-14",
+        "discovered": "2026-08-14",
+        "last_verified": "2026-08-14"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "bytedance-asic-design-engineer-intern-video-silicon-ip-2027",
       "company": {
         "name": "ByteDance",
@@ -12760,6 +12812,114 @@
       "dates": {
         "posted": "2026-08-06",
         "discovered": "2026-08-06",
+        "last_verified": "2026-08-14"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "bytedance-self-built-engineer-intern-cdn-platform-2027-df48ea",
+      "company": {
+        "name": "ByteDance",
+        "slug": "bytedance"
+      },
+      "role": "Self-Built Engineer Intern - CDN Platform",
+      "category": "software-engineering",
+      "apply_url": "https://jobs.bytedance.com/en/position/7673617571165620533/detail",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-14",
+        "discovered": "2026-08-14",
+        "last_verified": "2026-08-14"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "bytedance-self-built-engineer-intern-cdn-platform-2027-f40828",
+      "company": {
+        "name": "ByteDance",
+        "slug": "bytedance"
+      },
+      "role": "Self-Built Engineer Intern - CDN Platform",
+      "category": "software-engineering",
+      "apply_url": "https://jobs.bytedance.com/en/position/7673608499872827701/detail",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Seattle",
+          "state": "WA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-14",
+        "discovered": "2026-08-14",
         "last_verified": "2026-08-14"
       },
       "status": "open",
@@ -18793,6 +18953,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "cloudflare-marketing-campaigns-account-based-marketing-abm-intern-fall-2027",
+      "company": {
+        "name": "Cloudflare",
+        "slug": "cloudflare",
+        "career_page": "https://www.cloudflare.com/careers"
+      },
+      "role": "Marketing Campaigns & Account-Based Marketing (ABM) Intern (Fall 2026)",
+      "category": "software-engineering",
+      "apply_url": "https://boards.greenhouse.io/cloudflare/jobs/7838607?gh_jid=7838607",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "In-Office",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-04-24",
+        "discovered": "2026-08-14",
+        "last_verified": "2026-08-14"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "cloudflare-marketing-events-and-campaigns-intern-fall-2026-2027",
       "company": {
         "name": "Cloudflare",
@@ -21200,7 +21412,7 @@
         "discovered": "2026-07-21",
         "last_verified": "2026-08-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -85794,6 +86006,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "tiktok-mobile-software-engineer-intern-global-e-commerce-2027",
+      "company": {
+        "name": "TikTok",
+        "slug": "tiktok"
+      },
+      "role": "Mobile Software Engineer Intern - Global E-Commerce",
+      "category": "software-engineering",
+      "apply_url": "https://lifeattiktok.com/search/7673663349758675205",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-14",
+        "discovered": "2026-08-14",
+        "last_verified": "2026-08-14"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "tiktok-product-manager-intern-ads-interface-and-platform-2027-905f00",
       "company": {
         "name": "TikTok",
@@ -85950,6 +86214,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "tiktok-product-manager-intern-content-and-services-2027",
+      "company": {
+        "name": "TikTok",
+        "slug": "tiktok"
+      },
+      "role": "Product Manager Intern - Content and Services",
+      "category": "product",
+      "apply_url": "https://lifeattiktok.com/search/7673337777708550405",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-14",
+        "discovered": "2026-08-14",
+        "last_verified": "2026-08-14"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "tiktok-product-manager-intern-product-infrastructure-account-2027",
       "company": {
         "name": "TikTok",
@@ -85994,6 +86310,58 @@
       "dates": {
         "posted": "2026-08-06",
         "discovered": "2026-08-06",
+        "last_verified": "2026-08-14"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "tiktok-product-manager-intern-scaled-growth-2027",
+      "company": {
+        "name": "TikTok",
+        "slug": "tiktok"
+      },
+      "role": "Product Manager Intern - Scaled Growth",
+      "category": "product",
+      "apply_url": "https://lifeattiktok.com/search/7673559305519794437",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-14",
+        "discovered": "2026-08-14",
         "last_verified": "2026-08-14"
       },
       "status": "open",
@@ -86366,6 +86734,58 @@
       "dates": {
         "posted": "2026-08-06",
         "discovered": "2026-08-06",
+        "last_verified": "2026-08-14"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "tiktok-product-solutions-and-operations-intern-commerce-ads-2027",
+      "company": {
+        "name": "TikTok",
+        "slug": "tiktok"
+      },
+      "role": "Product Solutions and Operations Intern - Commerce Ads",
+      "category": "software-engineering",
+      "apply_url": "https://lifeattiktok.com/search/7673340525029673221",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-14",
+        "discovered": "2026-08-14",
         "last_verified": "2026-08-14"
       },
       "status": "open",
@@ -96572,7 +96992,7 @@
         "discovered": "2026-08-04",
         "last_verified": "2026-08-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"

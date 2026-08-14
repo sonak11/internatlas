@@ -1,19 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "zipline-mechatronics-perception-intern-fall-2026-2026",
+  "id": "bytedance-self-built-engineer-intern-cdn-platform-2027-df48ea",
   "company": {
-    "name": "Zipline",
-    "slug": "zipline"
+    "name": "ByteDance",
+    "slug": "bytedance"
   },
-  "role": "Mechatronics Perception Intern - Fall 2026",
+  "role": "Self-Built Engineer Intern - CDN Platform",
   "category": "software-engineering",
-  "apply_url": "https://www.zipline.com/open-roles?gh_jid=7763697003",
-  "season": "fall",
-  "year": 2026,
+  "apply_url": "https://jobs.bytedance.com/en/position/7673617571165620533/detail",
+  "season": "summer",
+  "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "South SF",
+      "city": "San Jose",
+      "state": "CA",
       "country": "USA"
     }
   ],
@@ -25,8 +26,7 @@
   "eligibility": {
     "graduation_years": [],
     "degree_levels": [
-      "masters",
-      "phd"
+      "masters"
     ],
     "citizenship_required": false,
     "security_clearance_required": false,
@@ -42,11 +42,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-06-05",
-    "discovered": "2026-08-04",
+    "posted": "2026-08-14",
+    "discovered": "2026-08-14",
     "last_verified": "2026-08-14"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

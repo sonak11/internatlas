@@ -100,7 +100,7 @@
 | [Brio Water Technology](../companies/brio-water-technology.md) | 1/1 | ai |
 | [Brookfield](../companies/brookfield.md) | 1/1 | ai |
 | [Brunswick](../companies/brunswick.md) | 0/1 | software-engineering |
-| [ByteDance](../companies/bytedance.md) | 42/45 | ai, hardware, machine-learning, research, software-engineering |
+| [ByteDance](../companies/bytedance.md) | 45/48 | ai, hardware, machine-learning, research, software-engineering |
 | [CACI](../companies/caci.md) | 0/1 | software-engineering |
 | [CALSTART](../companies/calstart.md) | 3/3 | research, software-engineering |
 | [CCC Intelligent Solutions](../companies/ccc-intelligent-solutions.md) | 2/3 | ai, data-science |
@@ -130,7 +130,7 @@
 | [City of Aurora](../companies/city-of-aurora.md) | 0/1 | software-engineering |
 | [City of Austin](../companies/city-of-austin.md) | 1/3 | research, software-engineering |
 | [City of Manhattan Kansas](../companies/city-of-manhattan-kansas.md) | 1/1 | software-engineering |
-| [Cloudflare](../companies/cloudflare.md) | 14/28 | ai, research, software-engineering |
+| [Cloudflare](../companies/cloudflare.md) | 15/29 | ai, research, software-engineering |
 | [Clyde Companies](../companies/clyde-companies.md) | 2/2 | software-engineering |
 | [Cohere](../companies/cohere.md) | 2/3 | machine-learning, research, software-engineering |
 | [Cohesity](../companies/cohesity.md) | 1/1 | software-engineering |
@@ -143,7 +143,7 @@
 | [ConocoPhillips](../companies/conocophillips.md) | 1/2 | quant, software-engineering |
 | [Consensus Cloud Solutions](../companies/consensus-cloud-solutions.md) | 0/1 | software-engineering |
 | [Constellation Space](../companies/constellation-space.md) | 1/1 | machine-learning |
-| [Copart](../companies/copart.md) | 5/11 | data-engineering, software-engineering |
+| [Copart](../companies/copart.md) | 4/11 | data-engineering, software-engineering |
 | [Core & Main](../companies/core-main.md) | 1/1 | machine-learning |
 | [Cotiviti](../companies/cotiviti.md) | 2/2 | ai |
 | [Crowe](../companies/crowe.md) | 2/2 | ai |
@@ -554,7 +554,7 @@
 | [The Nuclear Company](../companies/the-nuclear-company.md) | 8/8 | ai, data-science, machine-learning, software-engineering |
 | [The Trade Desk](../companies/the-trade-desk.md) | 0/1 | software-engineering |
 | [Thomson Reuters](../companies/thomson-reuters.md) | 1/1 | research |
-| [TikTok](../companies/tiktok.md) | 121/125 | ai, cloud, data-engineering, data-science, machine-learning, product, research, software-engineering |
+| [TikTok](../companies/tiktok.md) | 125/129 | ai, cloud, data-engineering, data-science, machine-learning, product, research, software-engineering |
 | [Together AI](../companies/together-ai.md) | 2/3 | research |
 | [Torch Technologies](../companies/torch-technologies.md) | 0/1 | software-engineering |
 | [Toshiba Commerce Solutions](../companies/toshiba-commerce-solutions.md) | 0/2 | ai |
@@ -618,7 +618,7 @@
 | [Yotta Labs](../companies/yotta-labs.md) | 2/2 | ai, research |
 | [ZGF Architects](../companies/zgf-architects.md) | 0/1 | software-engineering |
 | [Zello](../companies/zello.md) | 1/1 | software-engineering |
-| [Zipline](../companies/zipline.md) | 2/7 | embedded, software-engineering |
+| [Zipline](../companies/zipline.md) | 1/7 | embedded, software-engineering |
 | [Zurich Insurance](../companies/zurich-insurance.md) | 0/1 | ai |
 | [Zuru](../companies/zuru.md) | 1/1 | software-engineering |
 | [fab2](../companies/fab2.md) | 1/1 | software-engineering |

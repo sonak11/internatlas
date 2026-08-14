@@ -1,6 +1,6 @@
 # 📬 InternAtlas Weekly Digest — 2026-08-14
 
-## 🆕 New this week (267)
+## 🆕 New this week (274)
 
 - **AARP** — [Data Science and Advanced Analytics Intern](https://careers.aarp.org/jobs/7437?icims=1) · data-science · —
 - **Altamira Technologies** — [Research and Development Intern](https://jobs.jobvite.com/altamiracorps/job/oHqCAfw3?nl=1&nl=1&fr=false) · research · —
@@ -34,6 +34,7 @@
 - **Booz Allen** — [AI RAN Telecommunications Engineer Intern](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/AI-RAN-Telecommunications-Engineer-Intern_R0246869) · ai · —
 - **ByteDance** — [Agent Evaluation & Evolution Machine Learning Engineer Intern - Applied Machine Learning Ark](https://jobs.bytedance.com/en/position/7672391300141877557/detail) · machine-learning · —
 - **ByteDance** — [Agent Evaluation & Evolution Machine Learning Engineer Intern - Applied Machine Learning Ark](https://jobs.bytedance.com/en/position/7671096345243535669/detail) · machine-learning · —
+- **ByteDance** — [ASIC Design Engineer Intern - Video Silicon IP](https://jobs.bytedance.com/en/position/7673638856678279429/detail) · hardware · —
 - **ByteDance** — [Data Lake Infrastructure and Data Analytics Research Engineer Intern - Applied Machine Learning Ark](https://jobs.bytedance.com/en/position/7671109787509213445/detail) · machine-learning · —
 - **ByteDance** — [Data Lake Infrastructure & Data Analytics Research Engineer Intern - Applied Machine Learning Ark](https://jobs.bytedance.com/en/position/7672394389001816325/detail) · machine-learning · —
 - **ByteDance** — [Machine Learning Engineer Intern](https://jobs.bytedance.com/en/position/7671291260529821957/detail) · machine-learning · —
@@ -41,6 +42,8 @@
 - **ByteDance** — [Machine Learning Research Scientist Intern - Seed AI for Science - Atomistic AI](https://jobs.bytedance.com/en/position/7670855041951795509/detail) · machine-learning · —
 - **ByteDance** — [Network Software Engineer Intern - Network Observation](https://jobs.bytedance.com/en/position/7670772641439041797/detail) · software-engineering · —
 - **ByteDance** — [Network Software Engineer Intern - Network Switch](https://jobs.bytedance.com/en/position/7670778018960542005/detail) · software-engineering · —
+- **ByteDance** — [Self-Built Engineer Intern - CDN Platform](https://jobs.bytedance.com/en/position/7673617571165620533/detail) · software-engineering · —
+- **ByteDance** — [Self-Built Engineer Intern - CDN Platform](https://jobs.bytedance.com/en/position/7673608499872827701/detail) · software-engineering · —
 - **ByteDance** — [Self-Built Engineer Intern - CDN Platform](https://jobs.bytedance.com/en/position/7670364362450733317/detail) · software-engineering · —
 - **ByteDance** — [Software Development Engineer Intern - Network Automation - 2027 Summer](https://jobs.bytedance.com/en/position/7671147251943213317/detail) · software-engineering · —
 - **ByteDance** — [Software Engineer Intern - AML-Engine-Orchestration](https://jobs.bytedance.com/en/position/7672386983965100341/detail) · software-engineering · —
@@ -228,11 +231,15 @@
 - **TikTok** — [Machine Learning Engineer Intern - E-Commerce Recommendation Foundation](https://lifeattiktok.com/search/7672883129493948677) · machine-learning · —
 - **TikTok** — [Machine Learning Engineer Intern - E-Commerce Recommendation Foundation](https://lifeattiktok.com/search/7672881840860940597) · machine-learning · —
 - **TikTok** — [Machine Learning Engineer Intern - E-Commerce Recommendation Mall](https://lifeattiktok.com/search/7672920375646488885) · machine-learning · —
+- **TikTok** — [Mobile Software Engineer Intern - Global E-Commerce](https://lifeattiktok.com/search/7673663349758675205) · software-engineering · —
 - **TikTok** — [Product Manager Intern - Ads Interface and Platform](https://lifeattiktok.com/search/7672569081632229685) · product · —
 - **TikTok** — [Product Manager Intern - Ads Interface and Platform](https://lifeattiktok.com/search/7672562486917286149) · product · —
 - **TikTok** — [Product Manager Intern - Commerce Ads](https://lifeattiktok.com/search/7672557943224961333) · product · —
+- **TikTok** — [Product Manager Intern - Content and Services](https://lifeattiktok.com/search/7673337777708550405) · product · —
+- **TikTok** — [Product Manager Intern - Scaled Growth](https://lifeattiktok.com/search/7673559305519794437) · product · —
 - **TikTok** — [Product Manager Intern - Signal and Identity Product](https://lifeattiktok.com/search/7672554809555192117) · product · —
 - **TikTok** — [Product Operations Intern - TikTok Shop Apps and API](https://lifeattiktok.com/search/7669705525866383621) · software-engineering · —
+- **TikTok** — [Product Solutions and Operations Intern - Commerce Ads](https://lifeattiktok.com/search/7673340525029673221) · software-engineering · —
 - **TikTok** — [Software Engineer Intern - Global E-commerce-Search](https://lifeattiktok.com/search/7670839727059339525) · software-engineering · —
 - **TikTok** — [Software Engineer Intern - Global E-Commerce Search Infrastructure](https://lifeattiktok.com/search/7662594807715072261) · cloud · —
 - **Tower Research Capital** — [Quantitative Research Intern - Central Execution Research](https://www.tower-research.com/open-positions/?gh_jid=8113986) · quant · —
