@@ -214,6 +214,7 @@ _Generated 2026-08-14_
 - Microsoft — Software Engineer Security & Identity Intern
 - Midmark — Firmware Engineering Intern/Co-op
 - Mistral AI — AI Data Solutions Intern - Data Partnerships
+- Montenson — Sustainability Engineer Intern
 - Moss & Associates — Construction Technologies Intern
 - National Laboratory of the Rockies — Graduate Intern - Transportation Systems Analysis
 - NationGraph — Software Engineer Intern
@@ -231,6 +232,7 @@ _Generated 2026-08-14_
 - Pennsylvania State University — Electronic Materials and Devices Engineer Intern - Electronic Materials and Devices
 - Pennsylvania State University — Research and Development Engineer Intern
 - Phlair — Working Student Intern - Control Team - Systems & Data Infrastructure
+- PIMCO — Client Solutions & Analytics Analyst Intern
 - Prophet — AI Engineer Intern - AI Foundry & Digital Growth
 - PSECU — Data Analyst Intern
 - Quantbot Technologies — Software Engineer Intern
@@ -250,7 +252,6 @@ _Generated 2026-08-14_
 - RTX — Enterprise Extended Reality Intern
 - RTX — Machine Learning Researcher Intern/Co-op
 - RTX — Modeling, Simulation & Analysis Intern
-- RTX — Software Development Intern - Summer 2027
 - RTX — Software Engineer Intern
 - RTX — Software Engineer Intern
 - RTX — Software Engineer Intern
