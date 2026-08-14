@@ -33,7 +33,7 @@ _Generated 2026-08-14_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 921 | `█████████████` |
+| software-engineering | 923 | `█████████████` |
 | quant | 174 | `██` |
 | ai | 170 | `██` |
 | machine-learning | 126 | `██` |
@@ -67,8 +67,8 @@ _Generated 2026-08-14_
 - 2026-08-14 — **KPMG**: [Technical Consultant Intern Co-op - Global Compliance and Transformation](https://careers.kpmg.ca/jobs/33307?icims=1)
 - 2026-08-14 — **Magnera**: [Data Analyst Intern - Information Technology](https://careers-magnera.icims.com/jobs/27241/job?mobile=true&needsRedirect=false)
 - 2026-08-14 — **MaxLinear**: [AI Intern](https://careersus-maxlinear.icims.com/jobs/3049/job?mobile=true&needsRedirect=false)
-- 2026-08-14 — **Pacific Northwest National Laboratory**: [Detection Physics Intern](https://careers.pnnl.gov/jobs/11987?icims=1)
-- 2026-08-14 — **Pacific Northwest National Laboratory**: [Masters Intern - Detection Physics](https://careers.pnnl.gov/jobs/11986?icims=1)
+- 2026-08-14 — **Notion**: [Software Engineer Intern (Summer 2027)](https://jobs.ashbyhq.com/notion/3fba1c39-c5cb-47d7-9ad2-1cec4d7e9d0c)
+- 2026-08-14 — **Notion**: [Software Engineer Intern (Winter 2027)](https://jobs.ashbyhq.com/notion/e66c6658-9e65-4c58-8db2-844628b6e8f8)
 
 ## Recently closed
 
