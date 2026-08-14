@@ -33,8 +33,8 @@ _Generated 2026-08-14_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 906 | `█████████████` |
-| quant | 173 | `██` |
+| software-engineering | 912 | `█████████████` |
+| quant | 174 | `██` |
 | ai | 169 | `██` |
 | machine-learning | 126 | `██` |
 | research | 96 | `█` |
@@ -43,32 +43,32 @@ _Generated 2026-08-14_
 | embedded | 47 | `█` |
 | cloud | 37 | `█` |
 | design | 35 | `█` |
-| data-science | 29 | `█` |
+| data-science | 30 | `█` |
 | data-engineering | 21 | `█` |
 | security | 12 | `█` |
 
 ## Newest listings
 
+- 2026-08-14 — **AARP**: [Data Science and Advanced Analytics Intern](https://careers.aarp.org/jobs/7437?icims=1)
 - 2026-08-14 — **Analysis Group**: [Research Professional Intern - Generalist](https://analystcareers-analysisgroup.icims.com/jobs/3007/job?mobile=true&needsRedirect=false)
+- 2026-08-14 — **Arlington County VA**: [Business Intelligence Intern](https://fa-exkk-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1727)
 - 2026-08-14 — **Bank of China USA**: [Data Analytics Audit Intern](https://careers-bocusa.icims.com/jobs/4114/job?mobile=true&needsRedirect=false)
 - 2026-08-14 — **Bank of China USA**: [Enterprise Risk Management Risk Data Aggregation Intern](https://careers-bocusa.icims.com/jobs/4326/job?mobile=true&needsRedirect=false)
 - 2026-08-14 — **Bank of China USA**: [Risk Data Aggregation Intern - Enterprise Risk Management Department](https://careers-bocusa.icims.com/jobs/4470/job?mobile=true&needsRedirect=false)
+- 2026-08-14 — **Composio**: [Fullstack Engineer Intern - Product Team](https://jobs.ashbyhq.com/composio/eea3c0be-8589-4e3d-a684-de29a9eada0d/application?embed=true)
+- 2026-08-14 — **KeyBank**: [Analytics and Quantitative Modeling Intern - Analytics & Quantitative Modeling](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Cleveland-OH/XMLNAME-2027-Summer-Analytics-and-Quantitative-Modeling-Internship--Cleveland_R-41380)
 - 2026-08-14 — **KPMG**: [Product Specialist Intern Co-op - Asset Management Digital Solutions](https://careers.kpmg.ca/jobs/33301?icims=1)
 - 2026-08-14 — **KPMG**: [Software Developer Intern Co-op - Asset Management Digital Solutions - Software Developer](https://careers.kpmg.ca/jobs/33306?icims=1)
 - 2026-08-14 — **KPMG**: [Technical Consultant Intern Co-op - Global Compliance and Transformation](https://careers.kpmg.ca/jobs/33307?icims=1)
 - 2026-08-14 — **Magnera**: [Data Analyst Intern - Information Technology](https://careers-magnera.icims.com/jobs/27241/job?mobile=true&needsRedirect=false)
 - 2026-08-14 — **MaxLinear**: [AI Intern](https://careersus-maxlinear.icims.com/jobs/3049/job?mobile=true&needsRedirect=false)
+- 2026-08-14 — **Pacific Northwest National Laboratory**: [Detection Physics Intern](https://careers.pnnl.gov/jobs/11987?icims=1)
+- 2026-08-14 — **Pacific Northwest National Laboratory**: [Masters Intern - Detection Physics](https://careers.pnnl.gov/jobs/11986?icims=1)
+- 2026-08-14 — **Pacific Northwest National Laboratory**: [Undergraduate Technical Intern - Nuclear Facility](https://careers.pnnl.gov/jobs/12027?icims=1)
 - 2026-08-14 — **Reyes Beverage Group**: [Commercial Analytics Intern - Beverage Alliance Support](https://jobportal.reyesbeveragegroup.com/jobs/34578?icims=1)
 - 2026-08-14 — **True Anomaly**: [GSE Engineering Intern](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5210059007)
+- 2026-08-14 — **Urban Science**: [Data Driven Analysis Intern - Fall 2026](https://careers-urbanscience.icims.com/jobs/5219/job?mobile=true&needsRedirect=false)
 - 2026-08-13 — **Altera Corporation**: [Embedded Solutions Intern](https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Embedded-Solutions-Intern_R02832)
-- 2026-08-13 — **Analytical Mechanics Associates**: [Research Scientist Intern](https://amainc.wd12.myworkdayjobs.com/ama_careers/job/Remote---New-Jersey/Graduate-Research-Scientist-intern_R-100717-1)
-- 2026-08-13 — **ByteDance**: [Self-Built Engineer Intern - CDN Platform](https://jobs.bytedance.com/en/position/7670364362450733317/detail)
-- 2026-08-13 — **ConnectPrep**: [Data Analyst Intern](https://apply.workable.com/connectprep/j/D1C67258C0/apply)
-- 2026-08-13 — **Crowe**: [AI Engineering Intern](https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/AI-Engineering-Intern_R-51782)
-- 2026-08-13 — **Crowe**: [AI Functional Intern - Consulting Practice](https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/AI-Functional-Intern_R-71008)
-- 2026-08-13 — **Delta Dental**: [Knowledge Science Intern](https://rhsc.wd5.myworkdayjobs.com/delta_dental_of_michigan/job/Okemos-MI/Internship---Knowledge-Science_JR101405)
-- 2026-08-13 — **Epic Games**: [Gameplay Programmer Intern](https://epicgames.com/careers/jobs/6141180004?gh_jid=6141180004)
-- 2026-08-13 — **Gartner**: [Data Analyst Intern](https://gartner.wd5.myworkdayjobs.com/EXT/job/Irving-TX/Data-Analyst-Internship--2028-Graduates-_113297)
 
 ## Recently closed
 
@@ -118,6 +118,7 @@ _Generated 2026-08-14_
 - Cirrus Logic — AI Business Analytics Co-op Intern
 - Cirrus Logic — Embedded Software AI Intern Co-op
 - City of Austin — Austin Aviation Undergraduate Intern - IT Business Systems Analyst
+- City of Austin — Research Analyst Intern
 - Cloudflare — AI Builder Intern - Global Customer Engineering - Service Sales
 - Cloudflare — AI Innovation Intern – Service Sales (Fall 2026)
 - Cloudflare — Brand Social Media Intern (Fall 2026)

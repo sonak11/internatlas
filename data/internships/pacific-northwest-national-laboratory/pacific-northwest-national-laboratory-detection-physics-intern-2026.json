@@ -1,18 +1,19 @@
 {
   "schema_version": "1.0",
-  "id": "city-of-austin-research-analyst-intern-2026",
+  "id": "pacific-northwest-national-laboratory-detection-physics-intern-2026",
   "company": {
-    "name": "City of Austin",
-    "slug": "city-of-austin"
+    "name": "Pacific Northwest National Laboratory",
+    "slug": "pacific-northwest-national-laboratory"
   },
-  "role": "Research Analyst Intern",
-  "category": "research",
-  "apply_url": "https://austintexas.wd5.myworkdayjobs.com/COA_Careers/job/Fire-Headquarters/Research-Analyst-Internship_JR104634",
+  "role": "Detection Physics Intern",
+  "category": "software-engineering",
+  "apply_url": "https://careers.pnnl.gov/jobs/11987?icims=1",
   "season": "fall",
   "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
+      "city": "Washington",
       "country": "USA"
     }
   ],
@@ -23,7 +24,9 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "phd"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -38,11 +41,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-31",
-    "discovered": "2026-08-01",
+    "posted": "2026-08-14",
+    "discovered": "2026-08-14",
     "last_verified": "2026-08-14"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"
