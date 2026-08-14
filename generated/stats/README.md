@@ -169,6 +169,7 @@ _Generated 2026-08-14_
 - General Motors — Research and Development Intern - Research & Development: AI/ML
 - Global Infrastructure — Alternative Delivery Project Analytics Intern
 - Golden Pet Brands — Data Analytics Intern
+- Gulfstream — Computer Science Intern - Advanced Structures and Materials
 - Harris Computer — Software Development Intern
 - Hendrick Motorsports — Project and Race Support Engineer Internship
 - Hendrick Motorsports — Racing Performance Engineer Intern
@@ -196,6 +197,7 @@ _Generated 2026-08-14_
 - Loop — Data Scientist Intern
 - Lumentum — Optical Verification Technician Co-op Intern
 - Lumentum — Optical Verification Technician Intern/Co-op
+- Magna — R&D-Computer Vision Engineer Intern
 - Medpace — Feasibility Informatics Internship/Co-op
 - Menasha Corporation — Supply Chain Analytics Intern
 - Meta — Research Scientist Intern - Monetization Computer Vision
@@ -228,6 +230,7 @@ _Generated 2026-08-14_
 - Pennsylvania State University — AI/ML Research and Development Intern
 - Pennsylvania State University — Electronic Materials and Devices Engineer Intern - Electronic Materials and Devices
 - Pennsylvania State University — Research and Development Engineer Intern
+- Pennsylvania State University — Research Engineering Intern
 - Phlair — Working Student Intern - Control Team - Systems & Data Infrastructure
 - Prophet — AI Engineer Intern - AI Foundry & Digital Growth
 - PSECU — Data Analyst Intern
@@ -287,6 +290,7 @@ _Generated 2026-08-14_
 - T. Rowe Price — Quantitative Equity Investing Intern
 - Tencent — Research Intern - Video World Models - Research & ML Systems
 - Tenstorrent — CPU/AI Workload Analysis Intern
+- Terminal — Software Engineer Intern - Backend
 - Terminal — Software Engineer Intern - Data Platform
 - Tesla — AI Inference Engineer Intern - Software Compiler Engineer - AI Inference
 - Tesla — Automated Diagnostics Intern - Software Engineer

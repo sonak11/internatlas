@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 💻 Software Engineering Internships
 
-**918** tracked · **642** open now
+**918** tracked · **639** open now
 
 ## Current openings
 
@@ -225,7 +225,6 @@
 | [Grant Thornton](generated/companies/grant-thornton.md) | [Tax Technology Intern - Summer 2027](https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/114404) | Dallas, TX | Onsite | 2026-02-11 | Rolling | 🟢 Open | ❔ |
 | [Gritt Robotics Inc](generated/companies/gritt-robotics-inc.md) | [Robot Learning Engineer Intern](https://jobs.ashbyhq.com/gritt/5c4737ce-f546-453b-b30d-791a121fb9fd/application?embed=true) | San Bruno, CA | Onsite | 2026-07-21 | Rolling | 🟢 Open | ❔ |
 | [Gulf Management](generated/companies/gulf-management.md) | [Software Engineer & Business Systems Intern](https://gulfmanagement.applytojob.com/apply/pnJkrOYga9/Software-Engineer-Business-Systems-Intern) | Covington, LA | Onsite | 2026-08-05 | Rolling | 🟢 Open | ❔ |
-| [Gulfstream](generated/companies/gulfstream.md) | [Computer Science Intern - Advanced Structures and Materials](https://careers.gulfstream.com/job/Savannah-Summer-2027-IEF-Advanced-Structures-and-Materials-(ASMI)-College-Associate-Intern-GA-31401/1417869000/?ats=successfactors) | Savannah, GA | Onsite | 2026-08-10 | Rolling | 🟢 Open | ❔ |
 | [H&CO](generated/companies/h-co.md) | [Software Development Intern](https://career41.sapsf.com/career?career_ns=job_listing&company=hcollp&career_job_req_id=3507) | Coral Gables, FL | Onsite | 2026-04-23 | Rolling | 🟢 Open | ❔ |
 | [HARMAN](generated/companies/harman.md) | [Intern – Software Engineering](https://jobsearch.harman.com/en_US/careers/JobDetail/Intern-Software-Engineering/31931) | Sunnyvale, CA | Onsite | 2026-06-24 | Rolling | 🟢 Open | ❌ |
 | [Heidelberg Materials](generated/companies/heidelberg-materials.md) | [Master Data Intern - Service & Support](https://heidelbergmaterials.wd3.myworkdayjobs.com/global_hm_career_site/job/Irving-TX/Master-Data-Intern_JR10017954-1) | Irving, TX | Onsite | 2026-08-12 | Rolling | 🟢 Open | ❔ |
@@ -281,7 +280,6 @@
 | [Louisiana Blue](generated/companies/louisiana-blue.md) | [Provider Reimbursement Intern](https://bcbsla.wd1.myworkdayjobs.com/Generation_Blue/job/Corporate---Baton-Rouge-LA/CW-Provider-Reimbursement-Intern_R11964) | Baton Rouge, LA | Onsite | 2026-07-29 | Rolling | 🟢 Open | ❔ |
 | [LPL Financial Holdings](generated/companies/lpl-financial-holdings.md) | [Product Intern - Product](https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/Summer-Intern-2027--Product_R-052918) | Austin, TX +1 | Onsite | 2026-08-10 | Rolling | 🟢 Open | ❔ |
 | [LPL Financial Holdings](generated/companies/lpl-financial-holdings.md) | [Software Engineer Intern](https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/Summer-Intern-2027--Software-Engineer_R-052921) | Austin, TX +2 | Onsite | 2026-08-10 | Rolling | 🟢 Open | ❔ |
-| [Magna](generated/companies/magna.md) | [R&D-Computer Vision Engineer Intern](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Troy-Michigan-US/R-D--Computer-Vision-Engineering-Intern_R00253444-1) | Troy, MI | Onsite | 2026-07-24 | Rolling | 🟢 Open | ❔ |
 | [Magnera](generated/companies/magnera.md) | [Data Analyst Intern - Information Technology](https://careers-magnera.icims.com/jobs/27241/job?mobile=true&needsRedirect=false) | Evansville, IN | Onsite | 2026-08-14 | Rolling | 🟢 Open | ❔ |
 | [Markem-Imaje](generated/companies/markem-imaje.md) | [Software Engineer Intern](https://careers.dovercorporation.com/job/Keene-Software-Engineer-Intern-NH-03431/1404722033) | Keene, NH | Onsite | 2026-06-24 | Rolling | 🟢 Open | ❔ |
 | [Marmon Holdings](generated/companies/marmon-holdings.md) | [Digital Production Engineer Intern Co-op](https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Milwaukee-WI/Digital-Production-Engineering-Intern-OR-Student-Co-Op_JR0000037451-2) | Milwaukee, WI | Onsite | 2026-05-16 | Rolling | 🟢 Open | ❔ |
@@ -507,7 +505,6 @@
 | [Teledyne](generated/companies/teledyne.md) | [Software Engineer Intern - NHRC](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/NHRC-Software-Engineering-Internship--Summer-2027-_REQ36193) | Huntsville, AL | Onsite | 2026-08-13 | Rolling | 🟢 Open | ❔ |
 | [Tencent](generated/companies/tencent.md) | [Data Product Intern](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/United-Kingdom-London/Data-Product-Intern_R107644-1) | London | Onsite | 2026-06-22 | Rolling | 🟢 Open | ❔ |
 | [Tencent](generated/companies/tencent.md) | [Data Product Intern](https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/United-Kingdom-London/Data-Product-Intern_R107644) | London | Onsite | 2026-06-27 | Rolling | 🟢 Open | ❔ |
-| [Terminal](generated/companies/terminal.md) | [Software Engineer Intern - Backend](https://jobs.ashbyhq.com/terminal/6855293e-a817-4b70-835c-cd57e3bfcfde/application?embed=true) | Toronto | Onsite | 2026-08-06 | Rolling | 🟢 Open | ❔ |
 | [Terranova](generated/companies/terranova.md) | [Software Engineer Intern](https://jobs.ashbyhq.com/terranova/a8e5a8d2-4af3-4736-b66e-e0804447f7a0/application?embed=true) | Berkeley, CA | Onsite | 2026-08-07 | Rolling | 🟢 Open | ❔ |
 | [Tesla](generated/companies/tesla.md) | [Automation Development & Tooling Engineer Intern](https://www.tesla.com/careers/search/job/244845?source=Indeed&source=Indeed&tags=organicjob) | Brooklyn Park, MN +2 | Onsite | 2025-08-03 | Rolling | 🟢 Open | ❔ |
 | [Tesla](generated/companies/tesla.md) | [Backend Software Engineer Intern, Diagnostics](https://www.tesla.com/careers/search/job/248358) | Palo Alto, CA +1 | Onsite | 2025-08-13 | Rolling | 🟢 Open | ❔ |
@@ -758,6 +755,7 @@
 | [Google](generated/companies/google.md) | [Software Developer Intern - MS](https://www.google.com/about/careers/applications/jobs/results/95423484271698630) | Montreal +2 | Onsite | 2026-07-20 | Rolling | 🔴 Closed | ❔ |
 | [Google](generated/companies/google.md) | [Software Engineer Intern](https://www.google.com/about/careers/applications/jobs/results/85564713261245126) | Palo Alto, CA +28 | Onsite | 2026-07-20 | Rolling | 🔴 Closed | ❔ |
 | [Google](generated/companies/google.md) | [Software Engineer Intern - MS](https://www.google.com/about/careers/applications/jobs/results/95141459539174086) | Palo Alto, CA +28 | Onsite | 2026-07-20 | Rolling | 🔴 Closed | ❔ |
+| [Gulfstream](generated/companies/gulfstream.md) | [Computer Science Intern - Advanced Structures and Materials](https://careers.gulfstream.com/job/Savannah-Summer-2027-IEF-Advanced-Structures-and-Materials-(ASMI)-College-Associate-Intern-GA-31401/1417869000/?ats=successfactors) | Savannah, GA | Onsite | 2026-08-10 | Rolling | 🔴 Closed | ❔ |
 | [Harris Computer](generated/companies/harris-computer.md) | [Software Development Intern](https://harriscomputer.wd3.myworkdayjobs.com/1/job/Montreal-Quebec/Stagiaire-en-dveloppement-de-logiciels---Software-Development-Intern_R0044820-1) | Montreal | Onsite | 2026-07-23 | Rolling | 🔴 Closed | ❔ |
 | [Hendrick Motorsports](generated/companies/hendrick-motorsports.md) | [Project and Race Support Engineer Internship](https://hendrick.wd5.myworkdayjobs.com/HMSCareers/job/Hendrick-Motorsports/Project-and-Race-Support-Engineer-Fall-2026-Internship_R-81645) | Charlotte, NC | Onsite | 2026-06-29 | Rolling | 🔴 Closed | ❔ |
 | [Hendrick Motorsports](generated/companies/hendrick-motorsports.md) | [Racing Performance Engineer Intern](https://hendrick.wd5.myworkdayjobs.com/HMSCareers/job/Hendrick-Motorsports/Racing-Performance-Engineer---Fall-2026-Internship_R-81564) | Charlotte, NC | Onsite | 2026-06-25 | Rolling | 🔴 Closed | ❔ |
@@ -787,6 +785,7 @@
 | [LiveRamp](generated/companies/liveramp.md) | [Software Engineer Intern, Pixel Serving](https://liveramp.wd5.myworkdayjobs.com/LiveRampCareers/job/New-York/Intern--Software-Engineer---Pixel-Serving_JR012201) | New York, NY | Onsite | 2026-05-22 | Rolling | 🔴 Closed | ❔ |
 | [Lumentum](generated/companies/lumentum.md) | [Optical Verification Technician Co-op Intern](https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Optical-VerificationTechnician-Intern-Co-op_20261049) | Ottawa | Onsite | 2026-08-04 | Rolling | 🔴 Closed | ❔ |
 | [Lumentum](generated/companies/lumentum.md) | [Optical Verification Technician Intern/Co-op](https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Optical-Verification-Technician-Intern-Co-op_20261048) | Ottawa | Onsite | 2026-08-04 | Rolling | 🔴 Closed | ❔ |
+| [Magna](generated/companies/magna.md) | [R&D-Computer Vision Engineer Intern](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Troy-Michigan-US/R-D--Computer-Vision-Engineering-Intern_R00253444-1) | Troy, MI | Onsite | 2026-07-24 | Rolling | 🔴 Closed | ❔ |
 | [McKesson](generated/companies/mckesson.md) | [Data Governance Analyst Intern](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-ON-Mississauga/Data-Governance-Analyst-Intern---Fall-2026_JR0149860) | Mississauga | Onsite | 2026-07-09 | Rolling | 🔴 Closed | ❔ |
 | [McKesson](generated/companies/mckesson.md) | [Supply Chain Engineering and Analytics Intern](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-BC-Surrey/Supply-Chain-Engineering-and-Analytics-Intern---Fall-2026_JR0149819) | Surrey | Onsite | 2026-07-02 | Rolling | 🔴 Closed | ❔ |
 | [Medpace](generated/companies/medpace.md) | [Feasibility Informatics Internship/Co-op](https://careers.medpace.com/jobs/12803?lang=en-us&icims=1) | Cincinnati, OH | Onsite | 2026-06-03 | Rolling | 🔴 Closed | ❔ |
@@ -879,6 +878,7 @@
 | [Susquehanna International Group (SIG)](generated/companies/susquehanna-international-group-sig.md) | [Derivatives Sales Trader Intern - Summer 2027](https://careers-sig.icims.com/jobs/10626/job?mobile=true&needsRedirect=false) | NYC | Onsite | 2026-08-05 | Rolling | 🔴 Closed | ❔ |
 | [T. Rowe Price](generated/companies/t-rowe-price.md) | [Global Product Intern](https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Global-Product-Internship-Program_82693) | Baltimore, MD | Onsite | 2026-07-23 | Rolling | 🔴 Closed | ❔ |
 | [T. Rowe Price](generated/companies/t-rowe-price.md) | [Technology and Data Intern](https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Technology-and-Data-Internship_82677) | Owings Mills, MD +1 | Onsite | 2026-07-23 | Rolling | 🔴 Closed | ❔ |
+| [Terminal](generated/companies/terminal.md) | [Software Engineer Intern - Backend](https://jobs.ashbyhq.com/terminal/6855293e-a817-4b70-835c-cd57e3bfcfde/application?embed=true) | Toronto | Onsite | 2026-08-06 | Rolling | 🔴 Closed | ❔ |
 | [Terminal](generated/companies/terminal.md) | [Software Engineer Intern - Data Platform](https://jobs.ashbyhq.com/terminal/d7e128ed-617c-4b9b-9e42-0e909fb25729/application?embed=true) | Toronto | Onsite | 2026-08-06 | Rolling | 🔴 Closed | ❔ |
 | [Tesla](generated/companies/tesla.md) | [Automated Diagnostics Intern - Software Engineer](https://www.tesla.com/careers/search/job/270521) | Palo Alto, CA | Onsite | 2026-06-07 | Rolling | 🔴 Closed | ❔ |
 | [Tesla](generated/companies/tesla.md) | [Data Analyst Intern - Data Analyst - Energy](https://www.tesla.com/careers/search/job/271329) | Fremont, CA | Onsite | 2026-06-07 | Rolling | 🔴 Closed | ❔ |
@@ -1064,7 +1064,6 @@
 - Super (2)
 - Teledyne (2)
 - Tencent (2)
-- Terminal (2)
 - The Boeing Company (2)
 - The Federal Reserve System (2)
 - The Nuclear Company (2)
@@ -1089,6 +1088,7 @@
 - Sony Pictures Entertainment (2)
 - Sparksoft (2)
 - T. Rowe Price (2)
+- Terminal (2)
 - TMX Group (2)
 - Toshiba Global Commerce (2)
 - Walleye Capital (2)
@@ -1167,7 +1167,6 @@
 - GoDaddy (1)
 - Gritt Robotics Inc (1)
 - Gulf Management (1)
-- Gulfstream (1)
 - H&CO (1)
 - HARMAN (1)
 - Heidelberg Materials (1)
@@ -1189,7 +1188,6 @@
 - Junior AI (1)
 - Kimley-Horn (1)
 - Kognitos (1)
-- Magna (1)
 - Magnera (1)
 - Markem-Imaje (1)
 - Mathtech (1)
@@ -1309,6 +1307,7 @@
 - GE Healthcare (1)
 - Global Infrastructure (1)
 - Golden Pet Brands (1)
+- Gulfstream (1)
 - Harris Computer (1)
 - Hitachi Energy (1)
 - Ignite Digital Services (1)
@@ -1324,6 +1323,7 @@
 - Light & Wonder (1)
 - Littelfuse (1)
 - LiveRamp (1)
+- Magna (1)
 - Medpace (1)
 - Medpace, Inc. (1)
 - Monogram (1)

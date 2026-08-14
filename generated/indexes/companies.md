@@ -245,7 +245,7 @@
 | [Gritt Robotics Inc](../companies/gritt-robotics-inc.md) | 1/1 | software-engineering |
 | [Group 1001](../companies/group-1001.md) | 1/1 | quant |
 | [Gulf Management](../companies/gulf-management.md) | 1/1 | software-engineering |
-| [Gulfstream](../companies/gulfstream.md) | 1/1 | software-engineering |
+| [Gulfstream](../companies/gulfstream.md) | 0/1 | software-engineering |
 | [Gumloop](../companies/gumloop.md) | 1/1 | design |
 | [H&CO](../companies/h-co.md) | 1/1 | software-engineering |
 | [HARMAN](../companies/harman.md) | 1/1 | software-engineering |
@@ -323,7 +323,7 @@
 | [Luminance](../companies/luminance.md) | 1/1 | ai |
 | [Léger](../companies/l-ger.md) | 1/1 | research |
 | [Mackenzie Investments](../companies/mackenzie-investments.md) | 0/1 | ai |
-| [Magna](../companies/magna.md) | 1/1 | software-engineering |
+| [Magna](../companies/magna.md) | 0/1 | software-engineering |
 | [Magnera](../companies/magnera.md) | 1/1 | software-engineering |
 | [Markem-Imaje](../companies/markem-imaje.md) | 1/1 | software-engineering |
 | [Marmon Holdings](../companies/marmon-holdings.md) | 4/4 | data-engineering, software-engineering |
@@ -419,7 +419,7 @@
 | [PathAI](../companies/pathai.md) | 1/1 | machine-learning |
 | [Pendulum Intelligence](../companies/pendulum-intelligence.md) | 1/1 | product |
 | [PennState University](../companies/pennstate-university.md) | 1/1 | research |
-| [Pennsylvania State University](../companies/pennsylvania-state-university.md) | 1/6 | machine-learning, research, software-engineering |
+| [Pennsylvania State University](../companies/pennsylvania-state-university.md) | 0/6 | machine-learning, research, software-engineering |
 | [Pentair](../companies/pentair.md) | 1/1 | product |
 | [Persistent Systems](../companies/persistent-systems.md) | 1/2 | embedded, hardware |
 | [Persona AI](../companies/persona-ai.md) | 3/3 | machine-learning, software-engineering |
@@ -540,7 +540,7 @@
 | [Teledyne](../companies/teledyne.md) | 2/2 | software-engineering |
 | [Tencent](../companies/tencent.md) | 4/8 | ai, machine-learning, research, software-engineering |
 | [Tenstorrent](../companies/tenstorrent.md) | 2/3 | ai, design |
-| [Terminal](../companies/terminal.md) | 1/2 | software-engineering |
+| [Terminal](../companies/terminal.md) | 0/2 | software-engineering |
 | [Terranova](../companies/terranova.md) | 2/2 | embedded, software-engineering |
 | [Terranox AI](../companies/terranox-ai.md) | 1/1 | machine-learning |
 | [Tesla](../companies/tesla.md) | 86/110 | ai, cloud, data-engineering, design, embedded, hardware, machine-learning, product, security, software-engineering |
