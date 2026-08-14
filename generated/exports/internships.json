@@ -1,6 +1,6 @@
 {
   "generated": "2026-08-14",
-  "count": 1794,
+  "count": 1793,
   "internships": [
     {
       "schema_version": "1.0",
@@ -14298,7 +14298,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "canva-phd-research-scientist-intern-2026-1bb10f",
+      "id": "canva-phd-research-scientist-intern-2026",
       "company": {
         "name": "Canva",
         "slug": "canva"
@@ -14313,57 +14313,6 @@
         {
           "city": "San Francisco",
           "state": "CA",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-08-06",
-        "discovered": "2026-08-13",
-        "last_verified": "2026-08-14"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:vanshb03"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "canva-phd-research-scientist-intern-2026",
-      "company": {
-        "name": "Canva",
-        "slug": "canva"
-      },
-      "role": "PhD Research Scientist Intern",
-      "category": "research",
-      "apply_url": "https://jobs.smartrecruiters.com/Canva/6000000001291655",
-      "season": "fall",
-      "year": 2026,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "SF",
           "country": "USA"
         }
       ],
@@ -14398,7 +14347,7 @@
       "status": "open",
       "tags": [
         "auto-ingested",
-        "src:simplify"
+        "src:vanshb03"
       ]
     },
     {
@@ -26598,7 +26547,7 @@
         "discovered": "2026-07-28",
         "last_verified": "2026-08-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -43710,7 +43659,7 @@
         "discovered": "2026-07-24",
         "last_verified": "2026-08-14"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -58800,7 +58749,7 @@
         "discovered": "2026-07-25",
         "last_verified": "2026-08-14"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -65071,7 +65020,7 @@
         "discovered": "2026-08-11",
         "last_verified": "2026-08-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"

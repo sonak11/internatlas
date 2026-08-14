@@ -37,7 +37,7 @@ _Generated 2026-08-14_
 | quant | 174 | `██` |
 | ai | 169 | `██` |
 | machine-learning | 126 | `██` |
-| research | 96 | `█` |
+| research | 95 | `█` |
 | hardware | 76 | `█` |
 | product | 53 | `█` |
 | embedded | 47 | `█` |
@@ -154,6 +154,7 @@ _Generated 2026-08-14_
 - Etched — Supercomputing Intern
 - Evonik — Life Cycle Management Intern - Sustainability & Life Cycle Management
 - Exabeam — AI Deployment Intern
+- Excel Sports Management — Football Coaches Intern
 - Exclusive Networks — Data Quality & Business Data Analyst Intern
 - Exploration Technology Corp. — Engineer Intern
 - Fab2 — Embedded Software Engineer Intern
@@ -197,7 +198,6 @@ _Generated 2026-08-14_
 - Loop — Data Scientist Intern
 - Lumentum — Optical Verification Technician Co-op Intern
 - Lumentum — Optical Verification Technician Intern/Co-op
-- Magna — R&D-Computer Vision Engineer Intern
 - Medpace — Feasibility Informatics Internship/Co-op
 - Menasha Corporation — Supply Chain Analytics Intern
 - Meta — Research Scientist Intern - Monetization Computer Vision
@@ -230,7 +230,6 @@ _Generated 2026-08-14_
 - Pennsylvania State University — AI/ML Research and Development Intern
 - Pennsylvania State University — Electronic Materials and Devices Engineer Intern - Electronic Materials and Devices
 - Pennsylvania State University — Research and Development Engineer Intern
-- Pennsylvania State University — Research Engineering Intern
 - Phlair — Working Student Intern - Control Team - Systems & Data Infrastructure
 - Prophet — AI Engineer Intern - AI Foundry & Digital Growth
 - PSECU — Data Analyst Intern
@@ -251,6 +250,7 @@ _Generated 2026-08-14_
 - RTX — Enterprise Extended Reality Intern
 - RTX — Machine Learning Researcher Intern/Co-op
 - RTX — Modeling, Simulation & Analysis Intern
+- RTX — Software Development Intern - Summer 2027
 - RTX — Software Engineer Intern
 - RTX — Software Engineer Intern
 - RTX — Software Engineer Intern
