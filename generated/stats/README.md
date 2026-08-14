@@ -100,6 +100,7 @@ _Generated 2026-08-14_
 - Bank of Montreal — Database Operations Co-op Intern
 - Bank of Montreal — Investment Intern Co-op - Co-op/Internship
 - Bloxd — Software Engineer Intern
+- Booz Allen — AI RAN Telecommunications Engineer Intern
 - Bosch Home Comfort — Artificial Intelligence and Software Development Engineering Intern
 - Bosch Home Comfort — Autonomous Driving Intern
 - Bosch Home Comfort — Research Intern
@@ -120,6 +121,7 @@ _Generated 2026-08-14_
 - Cirrus Logic — AI Business Analytics Co-op Intern
 - Cirrus Logic — Embedded Software AI Intern Co-op
 - City of Austin — Austin Aviation Undergraduate Intern - IT Business Systems Analyst
+- City of Austin — Business Intelligence Intern - Business Intelligence
 - City of Austin — Research Analyst Intern
 - Cloudflare — AI Builder Intern - Global Customer Engineering - Service Sales
 - Cloudflare — AI Innovation Intern – Service Sales (Fall 2026)
@@ -198,6 +200,7 @@ _Generated 2026-08-14_
 - Loop — Data Scientist Intern
 - Lumentum — Optical Verification Technician Co-op Intern
 - Lumentum — Optical Verification Technician Intern/Co-op
+- McKesson — Software Developer Intern - Digital and Enterprise Technology
 - Medpace — Feasibility Informatics Internship/Co-op
 - Menasha Corporation — Supply Chain Analytics Intern
 - Meta — Research Scientist Intern - Monetization Computer Vision
@@ -214,7 +217,6 @@ _Generated 2026-08-14_
 - Microsoft — Software Engineer Security & Identity Intern
 - Midmark — Firmware Engineering Intern/Co-op
 - Mistral AI — AI Data Solutions Intern - Data Partnerships
-- Montenson — Sustainability Engineer Intern
 - Moss & Associates — Construction Technologies Intern
 - National Laboratory of the Rockies — Graduate Intern - Transportation Systems Analysis
 - NationGraph — Software Engineer Intern

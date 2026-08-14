@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🤖 AI Internships
 
-**169** tracked · **112** open now
+**169** tracked · **111** open now
 
 ## Current openings
 
@@ -13,7 +13,6 @@
 | [Argmax](generated/companies/argmax.md) | [On-device AI Frameworks Engineer Intern](https://job-boards.greenhouse.io/argmax/jobs/4067268009) | Palo Alto, CA +1 | Onsite | 2026-07-14 | Rolling | 🟢 Open | ❔ |
 | [Bild AI](generated/companies/bild-ai.md) | [AI/Software Engineer Intern](https://jobs.ashbyhq.com/bild-ai/b333f0f7-0ca6-4509-8697-9303396b5364/application?embed=true) | SF | Onsite | 2026-07-21 | Rolling | 🟢 Open | ❔ |
 | [Booz Allen](generated/companies/booz-allen.md) | [AI RAN Telecommunications Engineer Intern](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/AI-RAN-Telecommunications-Engineer-Intern_R0246415) | McLean, VA | Onsite | 2026-08-10 | Rolling | 🟢 Open | ❔ |
-| [Booz Allen](generated/companies/booz-allen.md) | [AI RAN Telecommunications Engineer Intern](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/AI-RAN-Telecommunications-Engineer-Intern_R0246869) | McLean, VA | Onsite | 2026-08-11 | Rolling | 🟢 Open | ❔ |
 | [Bosch](generated/companies/bosch.md) | [AI Research Intern - Wireless Perception](https://jobs.smartrecruiters.com/BoschGroup/c4621e0f-5c1e-4a67-adc4-0671cbcaf28c) | Pittsburgh, PA | Onsite | 2025-12-16 | Rolling | 🟢 Open | ❌ |
 | [Bosch](generated/companies/bosch.md) | [LLM & Agentic AI R&D Intern](https://jobs.bosch.com/en/job/REF273459Q-llm-agentic-ai-r-d-intern) | Sunnyvale, CA | Onsite | 2025-12-10 | Rolling | 🟢 Open | ✅ |
 | [Brio Water Technology](generated/companies/brio-water-technology.md) | [AI Automation & Business Analytics Intern - Rotational Program](https://ats.rippling.com/briowt/jobs/52da1fca-1cb1-49ff-8a94-b6f3850cd8eb) | Glendale, CA | Onsite | 2026-07-31 | Rolling | 🟢 Open | ❔ |
@@ -128,6 +127,7 @@
 | [Bank of Montreal](generated/companies/bank-of-montreal.md) | [Data and AI Operations Analyst Co-op/Internship - Cloud](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Data-and-AI-Operations-Analyst--Cloud---Fall-2026--Co-op-Internship----8-months_R260021724-1) | Toronto | Onsite | 2026-07-28 | Rolling | 🔴 Closed | ❔ |
 | [Bank of Montreal](generated/companies/bank-of-montreal.md) | [Data and AI Operations Analyst Co-op/Internship - Cloud](https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Data-and-AI-Operations-Analyst--Cloud---Fall-2026--Co-op-Internship----8-months_R260021724-2) | Toronto | Onsite | 2026-07-28 | Rolling | 🔴 Closed | ❔ |
 | [Bank of Montreal](generated/companies/bank-of-montreal.md) | [Data and AI Operations Analyst Intern/Co-op - Cloud - 8 months](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Data-and-AI-Operations-Analyst--Cloud---Fall-2026--Co-op-Internship----8-months_R260021724) | Toronto | Onsite | 2026-07-27 | Rolling | 🔴 Closed | ❔ |
+| [Booz Allen](generated/companies/booz-allen.md) | [AI RAN Telecommunications Engineer Intern](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/AI-RAN-Telecommunications-Engineer-Intern_R0246869) | McLean, VA | Onsite | 2026-08-11 | Rolling | 🔴 Closed | ❔ |
 | [Bosch Home Comfort](generated/companies/bosch-home-comfort.md) | [Artificial Intelligence and Software Development Engineering Intern](https://jobs.smartrecruiters.com/BoschGroup/744000141302469) | Plymouth, MI | Onsite | 2026-08-03 | Rolling | 🔴 Closed | ❔ |
 | [ByteDance](generated/companies/bytedance.md) | [Research Scientist Intern - AI Infrastructure](https://jobs.bytedance.com/en/position/7553917136512076050/detail) | San Jose, CA | Onsite | 2026-07-03 | Rolling | 🔴 Closed | ❔ |
 | [ByteDance](generated/companies/bytedance.md) | [Research Scientist Intern - AI Infrastructure](https://jobs.bytedance.com/en/position/7553916190126524680/detail) | Seattle, WA | Onsite | 2026-07-03 | Rolling | 🔴 Closed | ❔ |

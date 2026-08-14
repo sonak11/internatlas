@@ -91,7 +91,7 @@
 | [Bloxd](../companies/bloxd.md) | 0/1 | software-engineering |
 | [Blue Cross Blue Shield of Michigan](../companies/blue-cross-blue-shield-of-michigan.md) | 1/1 | software-engineering |
 | [Boeing](../companies/boeing.md) | 1/1 | software-engineering |
-| [Booz Allen](../companies/booz-allen.md) | 2/2 | ai |
+| [Booz Allen](../companies/booz-allen.md) | 1/2 | ai |
 | [BorgWarner](../companies/borgwarner.md) | 2/2 | software-engineering |
 | [Bosch](../companies/bosch.md) | 2/2 | ai |
 | [Bosch Home Comfort](../companies/bosch-home-comfort.md) | 4/8 | ai, product, research, software-engineering |
@@ -128,7 +128,7 @@
 | [Citadel](../companies/citadel.md) | 7/7 | data-science, quant, software-engineering |
 | [Citadel Securities](../companies/citadel-securities.md) | 4/4 | hardware, quant, software-engineering |
 | [City of Aurora](../companies/city-of-aurora.md) | 0/1 | software-engineering |
-| [City of Austin](../companies/city-of-austin.md) | 1/3 | research, software-engineering |
+| [City of Austin](../companies/city-of-austin.md) | 0/3 | research, software-engineering |
 | [City of Manhattan Kansas](../companies/city-of-manhattan-kansas.md) | 1/1 | software-engineering |
 | [Cloudflare](../companies/cloudflare.md) | 15/29 | ai, research, software-engineering |
 | [Clyde Companies](../companies/clyde-companies.md) | 2/2 | software-engineering |
@@ -332,7 +332,7 @@
 | [Mathtech](../companies/mathtech.md) | 1/1 | software-engineering |
 | [Maven Securities](../companies/maven-securities.md) | 3/3 | quant, software-engineering |
 | [MaxLinear](../companies/maxlinear.md) | 1/1 | ai |
-| [McKesson](../companies/mckesson.md) | 4/6 | ai, software-engineering |
+| [McKesson](../companies/mckesson.md) | 3/6 | ai, software-engineering |
 | [Medline](../companies/medline.md) | 1/1 | product |
 | [Medpace](../companies/medpace.md) | 2/3 | ai, data-engineering, software-engineering |
 | [Medpace, Inc.](../companies/medpace-inc.md) | 2/3 | ai, data-engineering, software-engineering |
@@ -350,7 +350,7 @@
 | [Mobius Renewables](../companies/mobius-renewables.md) | 2/2 | software-engineering |
 | [Modal](../companies/modal.md) | 2/2 | machine-learning |
 | [Monogram](../companies/monogram.md) | 0/1 | software-engineering |
-| [Montenson](../companies/montenson.md) | 4/5 | ai, software-engineering |
+| [Montenson](../companies/montenson.md) | 5/5 | ai, software-engineering |
 | [Moog](../companies/moog.md) | 1/2 | software-engineering |
 | [Moon](../companies/moon.md) | 1/3 | machine-learning, software-engineering |
 | [Mosaic](../companies/mosaic.md) | 0/2 | software-engineering |
