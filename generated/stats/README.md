@@ -156,6 +156,7 @@ _Generated 2026-08-14_
 - Etched — Supercomputing Intern
 - Evonik — Life Cycle Management Intern - Sustainability & Life Cycle Management
 - Exabeam — AI Deployment Intern
+- Excel Sports Management — Analytics Intern - Analytics
 - Excel Sports Management — Football Coaches Intern
 - Exclusive Networks — Data Quality & Business Data Analyst Intern
 - Exploration Technology Corp. — Engineer Intern
@@ -269,6 +270,7 @@ _Generated 2026-08-14_
 - Saronic — Software Engineer Intern
 - Sentara Health — Data & AI Finance Strategy Intern
 - Sentara Health — Enterprise Data & AI Intern
+- Signify — Product Management Intern
 - Smiths Detection Group — Commercial Intern - Commercial Tools & Business Intelligence
 - Sony Music Entertainment — Insight & Analytics Intern
 - Sony Pictures Entertainment — Graduate Intern - Advanced Technologies

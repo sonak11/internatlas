@@ -196,7 +196,7 @@
 | [Ether.fi](../companies/ether-fi.md) | 1/1 | software-engineering |
 | [Evonik](../companies/evonik.md) | 0/1 | software-engineering |
 | [Exabeam](../companies/exabeam.md) | 0/1 | ai |
-| [Excel Sports Management](../companies/excel-sports-management.md) | 1/2 | software-engineering |
+| [Excel Sports Management](../companies/excel-sports-management.md) | 0/2 | software-engineering |
 | [Exclusive Networks](../companies/exclusive-networks.md) | 0/1 | software-engineering |
 | [Exowatt](../companies/exowatt.md) | 0/1 | ai |
 | [Exploration Technology Corp.](../companies/exploration-technology-corp.md) | 0/1 | software-engineering |
@@ -500,7 +500,7 @@
 | [Seven Research](../companies/seven-research.md) | 4/4 | machine-learning, quant, software-engineering |
 | [Shopify](../companies/shopify.md) | 2/2 | software-engineering |
 | [ShyftLabs](../companies/shyftlabs.md) | 2/2 | ai |
-| [Signify](../companies/signify.md) | 1/1 | product |
+| [Signify](../companies/signify.md) | 0/1 | product |
 | [SimonComputing](../companies/simoncomputing.md) | 1/1 | software-engineering |
 | [Sixtyfour (X25)](../companies/sixtyfour-x25.md) | 1/1 | software-engineering |
 | [SkyGig](../companies/skygig.md) | 1/1 | design |
