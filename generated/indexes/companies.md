@@ -33,7 +33,7 @@
 | [Altice USA](../companies/altice-usa.md) | 1/1 | data-engineering |
 | [Altom Transport](../companies/altom-transport.md) | 3/3 | software-engineering |
 | [Amazon](../companies/amazon.md) | 8/8 | machine-learning, software-engineering |
-| [Ambarella](../companies/ambarella.md) | 3/5 | hardware, software-engineering |
+| [Ambarella](../companies/ambarella.md) | 2/5 | hardware, software-engineering |
 | [Amcor](../companies/amcor.md) | 1/1 | software-engineering |
 | [Amentum](../companies/amentum.md) | 1/1 | hardware |
 | [Ameren](../companies/ameren.md) | 1/1 | software-engineering |
@@ -490,6 +490,7 @@
 | [Scale AI](../companies/scale-ai.md) | 3/3 | ai, software-engineering |
 | [SchoolMint](../companies/schoolmint.md) | 1/1 | software-engineering |
 | [Schweitzer Engineering Laboratories](../companies/schweitzer-engineering-laboratories.md) | 3/5 | ai, software-engineering |
+| [SciTec](../companies/scitec.md) | 1/1 | software-engineering |
 | [Seaspan](../companies/seaspan.md) | 0/2 | software-engineering |
 | [Sentara Health](../companies/sentara-health.md) | 0/2 | ai |
 | [Sentry](../companies/sentry.md) | 1/1 | software-engineering |
@@ -533,7 +534,7 @@
 | [T. Rowe Price](../companies/t-rowe-price.md) | 0/4 | quant, software-engineering |
 | [TETRAMEM](../companies/tetramem.md) | 1/1 | embedded |
 | [TMEIC](../companies/tmeic.md) | 1/1 | machine-learning |
-| [TMEIC Corporation Americas](../companies/tmeic-corporation-americas.md) | 3/3 | machine-learning, software-engineering |
+| [TMEIC Corporation Americas](../companies/tmeic-corporation-americas.md) | 2/3 | machine-learning, software-engineering |
 | [TMX Group](../companies/tmx-group.md) | 0/2 | software-engineering |
 | [Tacit](../companies/tacit.md) | 1/1 | hardware |
 | [Teledyne](../companies/teledyne.md) | 2/2 | software-engineering |

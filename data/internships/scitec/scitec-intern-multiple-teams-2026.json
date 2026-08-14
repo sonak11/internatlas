@@ -1,18 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "ambarella-algorithm-engineer-intern-2026",
+  "id": "scitec-intern-multiple-teams-2026",
   "company": {
-    "name": "Ambarella",
-    "slug": "ambarella"
+    "name": "SciTec",
+    "slug": "scitec"
   },
-  "role": "Algorithm Engineer Intern",
+  "role": "Intern - Multiple Teams",
   "category": "software-engineering",
-  "apply_url": "https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/Algorithm-Engineer-Intern_JR100102",
+  "apply_url": "https://apply.workable.com/scitec/j/3650732037/apply",
   "season": "fall",
   "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
+      "city": "Princeton",
+      "state": "NJ",
       "country": "USA"
     }
   ],
@@ -23,10 +25,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters",
-      "phd"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -41,11 +40,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-05-16",
-    "discovered": "2026-07-26",
+    "posted": "2026-03-27",
+    "discovered": "2026-08-14",
     "last_verified": "2026-08-14"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

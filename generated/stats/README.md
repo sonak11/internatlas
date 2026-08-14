@@ -33,7 +33,7 @@ _Generated 2026-08-14_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 917 | `█████████████` |
+| software-engineering | 918 | `█████████████` |
 | quant | 174 | `██` |
 | ai | 169 | `██` |
 | machine-learning | 126 | `██` |
@@ -75,6 +75,7 @@ _Generated 2026-08-14_
 - Adobe — AI/ML Intern – Machine Learning Engineer/Researcher Intern
 - Alljoined — Research Intern
 - Altasciences — Process Innovation Product Management Intern
+- Ambarella — Algorithm Engineer Intern
 - Ambarella — DFT Engineer Intern
 - Ambarella — Software Development Engineer Intern
 - American Enterprise Institute — Intern
@@ -308,6 +309,7 @@ _Generated 2026-08-14_
 - TikTok — Machine Learning Engineer Intern - App Ads
 - TikTok — Product Manager Intern - Tiktok-Product-Search
 - TikTok — Software Engineer Intern - Recommendation Infrastructure
+- TMEIC Corporation Americas — Engineer Intern - Spring 2027 - Eis
 - TMX Group — Analyst Student Intern - Market Insights
 - Toshiba Commerce Solutions — AI Engineering Intern
 - Toshiba Commerce Solutions — Project Management & AI Automation Intern
