@@ -1,6 +1,6 @@
 {
   "generated": "2026-08-14",
-  "count": 1793,
+  "count": 1797,
   "internships": [
     {
       "schema_version": "1.0",
@@ -8453,6 +8453,57 @@
       "dates": {
         "posted": "2026-07-21",
         "discovered": "2026-07-21",
+        "last_verified": "2026-08-14"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "baker-hughes-benefit-tool-developer-intern-month-fixed-term-contract-2026",
+      "company": {
+        "name": "Baker Hughes",
+        "slug": "baker-hughes"
+      },
+      "role": "Benefit Tool Developer Intern - Month Fixed Term Contract",
+      "category": "software-engineering",
+      "apply_url": "https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/GB-AC-ABERDEEN-BAKER-HUGHES-BUILDING/Intern---Benefit-Tool-Developer--12-Month-Fixed-Term-Contract-_R168066",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Aberdeen",
+          "country": "UK"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-14",
+        "discovered": "2026-08-14",
         "last_verified": "2026-08-14"
       },
       "status": "open",
@@ -23617,6 +23668,57 @@
         "last_verified": "2026-08-10"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "dmg-media-ai-engineer-intern-innovation-team-2026",
+      "company": {
+        "name": "Dmg Media",
+        "slug": "dmg-media"
+      },
+      "role": "AI Engineer Intern - Innovation Team",
+      "category": "ai",
+      "apply_url": "https://www.dmgmedia.co.uk/careers/jobs/id/8130352?gh_jid=8130352",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "London",
+          "country": "UK"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-14",
+        "discovered": "2026-08-14",
+        "last_verified": "2026-08-14"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -59106,6 +59208,60 @@
     },
     {
       "schema_version": "1.0",
+      "id": "pgim-public-credit-summer-investment-analyst-intern-portfolio-ana-2027",
+      "company": {
+        "name": "PGIM",
+        "slug": "pgim"
+      },
+      "role": "Public Credit Summer Investment Analyst Intern - Portfolio Analysis Group",
+      "category": "software-engineering",
+      "apply_url": "https://pru.wd5.myworkdayjobs.com/pgim_careers/job/Newark-NJ-USA/PGIM--2027-Public-Credit--Summer-Investment-Analyst-Program--Portfolio-Analysis-Group-_R-124835",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Newark",
+          "state": "NJ",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-14",
+        "discovered": "2026-08-14",
+        "last_verified": "2026-08-14"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "phlair-working-student-intern-control-team-systems-data-infrastruct-2026",
       "company": {
         "name": "Phlair",
@@ -67317,6 +67473,60 @@
         "last_verified": "2026-07-23"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "schweitzer-engineering-laboratories-test-engineer-intern-2026",
+      "company": {
+        "name": "Schweitzer Engineering Laboratories",
+        "slug": "schweitzer-engineering-laboratories"
+      },
+      "role": "Test Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Engineering-Intern_2026-22411",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Pullman",
+          "state": "WA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-14",
+        "discovered": "2026-08-14",
+        "last_verified": "2026-08-14"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"

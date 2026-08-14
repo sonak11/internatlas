@@ -33,9 +33,9 @@ _Generated 2026-08-14_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 918 | `█████████████` |
+| software-engineering | 921 | `█████████████` |
 | quant | 174 | `██` |
-| ai | 169 | `██` |
+| ai | 170 | `██` |
 | machine-learning | 126 | `██` |
 | research | 95 | `█` |
 | hardware | 76 | `█` |
@@ -52,6 +52,7 @@ _Generated 2026-08-14_
 - 2026-08-14 — **AARP**: [Data Science and Advanced Analytics Intern](https://careers.aarp.org/jobs/7437?icims=1)
 - 2026-08-14 — **Analysis Group**: [Research Professional Intern - Generalist](https://analystcareers-analysisgroup.icims.com/jobs/3007/job?mobile=true&needsRedirect=false)
 - 2026-08-14 — **Arlington County VA**: [Business Intelligence Intern](https://fa-exkk-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1727)
+- 2026-08-14 — **Baker Hughes**: [Benefit Tool Developer Intern - Month Fixed Term Contract](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/GB-AC-ABERDEEN-BAKER-HUGHES-BUILDING/Intern---Benefit-Tool-Developer--12-Month-Fixed-Term-Contract-_R168066)
 - 2026-08-14 — **Bank of China USA**: [Data Analytics Audit Intern](https://careers-bocusa.icims.com/jobs/4114/job?mobile=true&needsRedirect=false)
 - 2026-08-14 — **Bank of China USA**: [Enterprise Risk Management Risk Data Aggregation Intern](https://careers-bocusa.icims.com/jobs/4326/job?mobile=true&needsRedirect=false)
 - 2026-08-14 — **Bank of China USA**: [Risk Data Aggregation Intern - Enterprise Risk Management Department](https://careers-bocusa.icims.com/jobs/4470/job?mobile=true&needsRedirect=false)
@@ -59,6 +60,7 @@ _Generated 2026-08-14_
 - 2026-08-14 — **ByteDance**: [Self-Built Engineer Intern - CDN Platform](https://jobs.bytedance.com/en/position/7673617571165620533/detail)
 - 2026-08-14 — **ByteDance**: [Self-Built Engineer Intern - CDN Platform](https://jobs.bytedance.com/en/position/7673608499872827701/detail)
 - 2026-08-14 — **Composio**: [Fullstack Engineer Intern - Product Team](https://jobs.ashbyhq.com/composio/eea3c0be-8589-4e3d-a684-de29a9eada0d/application?embed=true)
+- 2026-08-14 — **Dmg Media**: [AI Engineer Intern - Innovation Team](https://www.dmgmedia.co.uk/careers/jobs/id/8130352?gh_jid=8130352)
 - 2026-08-14 — **KeyBank**: [Analytics and Quantitative Modeling Intern - Analytics & Quantitative Modeling](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Cleveland-OH/XMLNAME-2027-Summer-Analytics-and-Quantitative-Modeling-Internship--Cleveland_R-41380)
 - 2026-08-14 — **KPMG**: [Product Specialist Intern Co-op - Asset Management Digital Solutions](https://careers.kpmg.ca/jobs/33301?icims=1)
 - 2026-08-14 — **KPMG**: [Software Developer Intern Co-op - Asset Management Digital Solutions - Software Developer](https://careers.kpmg.ca/jobs/33306?icims=1)
@@ -67,8 +69,6 @@ _Generated 2026-08-14_
 - 2026-08-14 — **MaxLinear**: [AI Intern](https://careersus-maxlinear.icims.com/jobs/3049/job?mobile=true&needsRedirect=false)
 - 2026-08-14 — **Pacific Northwest National Laboratory**: [Detection Physics Intern](https://careers.pnnl.gov/jobs/11987?icims=1)
 - 2026-08-14 — **Pacific Northwest National Laboratory**: [Masters Intern - Detection Physics](https://careers.pnnl.gov/jobs/11986?icims=1)
-- 2026-08-14 — **Pacific Northwest National Laboratory**: [Undergraduate Technical Intern - Nuclear Facility](https://careers.pnnl.gov/jobs/12027?icims=1)
-- 2026-08-14 — **Reyes Beverage Group**: [Commercial Analytics Intern - Beverage Alliance Support](https://jobportal.reyesbeveragegroup.com/jobs/34578?icims=1)
 
 ## Recently closed
 
