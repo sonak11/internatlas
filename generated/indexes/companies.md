@@ -42,6 +42,7 @@
 | [American Fidelity](../companies/american-fidelity.md) | 1/1 | software-engineering |
 | [Amgen](../companies/amgen.md) | 1/1 | software-engineering |
 | [Amwins](../companies/amwins.md) | 0/1 | ai |
+| [Analysis Group](../companies/analysis-group.md) | 1/1 | research |
 | [Analytical Mechanics Associates](../companies/analytical-mechanics-associates.md) | 1/1 | research |
 | [Anduril](../companies/anduril.md) | 6/6 | hardware, software-engineering |
 | [Anthelion Capital](../companies/anthelion-capital.md) | 2/2 | quant |
@@ -75,6 +76,7 @@
 | [Axon](../companies/axon.md) | 2/2 | software-engineering |
 | [BDO Canada](../companies/bdo-canada.md) | 0/2 | software-engineering |
 | [BMO](../companies/bmo.md) | 0/1 | machine-learning |
+| [Bank of China USA](../companies/bank-of-china-usa.md) | 3/3 | software-engineering |
 | [Bank of Montreal](../companies/bank-of-montreal.md) | 0/8 | ai, data-science, software-engineering |
 | [Barclays](../companies/barclays.md) | 1/1 | quant |
 | [Base Power](../companies/base-power.md) | 1/1 | embedded |
@@ -295,9 +297,10 @@
 | [Jump Trading](../companies/jump-trading.md) | 42/43 | ai, data-engineering, design, hardware, machine-learning, quant, research |
 | [Junior AI](../companies/junior-ai.md) | 1/1 | software-engineering |
 | [KBR](../companies/kbr.md) | 0/2 | security, software-engineering |
+| [KPMG](../companies/kpmg.md) | 3/3 | software-engineering |
 | [KRAFTON](../companies/krafton.md) | 0/1 | software-engineering |
 | [Kepler Communications](../companies/kepler-communications.md) | 1/1 | hardware |
-| [Keysight Technologies](../companies/keysight-technologies.md) | 2/3 | hardware, machine-learning, software-engineering |
+| [Keysight Technologies](../companies/keysight-technologies.md) | 1/3 | hardware, machine-learning, software-engineering |
 | [Kimley-Horn](../companies/kimley-horn.md) | 1/1 | software-engineering |
 | [Kinaxis](../companies/kinaxis.md) | 0/2 | software-engineering |
 | [Kirin](../companies/kirin.md) | 1/2 | ai, quant |
@@ -319,12 +322,14 @@
 | [Léger](../companies/l-ger.md) | 1/1 | research |
 | [Mackenzie Investments](../companies/mackenzie-investments.md) | 0/1 | ai |
 | [Magna](../companies/magna.md) | 1/1 | software-engineering |
+| [Magnera](../companies/magnera.md) | 1/1 | software-engineering |
 | [Markem-Imaje](../companies/markem-imaje.md) | 1/1 | software-engineering |
 | [Marmon Holdings](../companies/marmon-holdings.md) | 4/4 | data-engineering, software-engineering |
 | [Marshall Wace](../companies/marshall-wace.md) | 2/2 | software-engineering |
 | [Marvell](../companies/marvell.md) | 2/3 | design, software-engineering |
 | [Mathtech](../companies/mathtech.md) | 1/1 | software-engineering |
 | [Maven Securities](../companies/maven-securities.md) | 3/3 | quant, software-engineering |
+| [MaxLinear](../companies/maxlinear.md) | 1/1 | ai |
 | [McKesson](../companies/mckesson.md) | 4/6 | ai, software-engineering |
 | [Medline](../companies/medline.md) | 1/1 | product |
 | [Medpace](../companies/medpace.md) | 2/3 | ai, data-engineering, software-engineering |
@@ -401,6 +406,7 @@
 | [Output Biosciences](../companies/output-biosciences.md) | 0/1 | machine-learning |
 | [PDT Partners](../companies/pdt-partners.md) | 1/1 | software-engineering |
 | [PEAK6](../companies/peak6.md) | 0/2 | quant |
+| [PIMCO](../companies/pimco.md) | 1/1 | software-engineering |
 | [PSECU](../companies/psecu.md) | 0/1 | software-engineering |
 | [PSP Investments](../companies/psp-investments.md) | 1/1 | ai |
 | [Palantir](../companies/palantir.md) | 11/11 | cloud, software-engineering |
@@ -439,7 +445,7 @@
 | [RLI](../companies/rli.md) | 1/1 | product |
 | [ROCKWOOL Group](../companies/rockwool-group.md) | 0/2 | product, software-engineering |
 | [RRS Group](../companies/rrs-group.md) | 2/2 | software-engineering |
-| [RTX](../companies/rtx.md) | 16/24 | machine-learning, software-engineering |
+| [RTX](../companies/rtx.md) | 15/23 | machine-learning, software-engineering |
 | [Radix Trading](../companies/radix-trading.md) | 1/1 | quant |
 | [Rainmaker](../companies/rainmaker.md) | 0/1 | software-engineering |
 | [Rakuten International](../companies/rakuten-international.md) | 0/1 | software-engineering |
@@ -451,6 +457,7 @@
 | [ResponsiveAds](../companies/responsiveads.md) | 1/1 | software-engineering |
 | [Revise Robotics](../companies/revise-robotics.md) | 1/1 | software-engineering |
 | [Revvity](../companies/revvity.md) | 0/2 | ai, product |
+| [Reyes Beverage Group](../companies/reyes-beverage-group.md) | 1/1 | software-engineering |
 | [Rho](../companies/rho.md) | 1/1 | quant |
 | [Richemont](../companies/richemont.md) | 0/1 | software-engineering |
 | [Rippling](../companies/rippling.md) | 6/6 | machine-learning, software-engineering |
@@ -526,6 +533,7 @@
 | [TMEIC Corporation Americas](../companies/tmeic-corporation-americas.md) | 3/3 | machine-learning, software-engineering |
 | [TMX Group](../companies/tmx-group.md) | 0/2 | software-engineering |
 | [Tacit](../companies/tacit.md) | 1/1 | hardware |
+| [Teledyne](../companies/teledyne.md) | 2/2 | software-engineering |
 | [Tencent](../companies/tencent.md) | 4/8 | ai, machine-learning, research, software-engineering |
 | [Tenstorrent](../companies/tenstorrent.md) | 2/3 | ai, design |
 | [Terminal](../companies/terminal.md) | 1/2 | software-engineering |
@@ -554,6 +562,7 @@
 | [Trata](../companies/trata.md) | 1/1 | research |
 | [Trend Micro](../companies/trend-micro.md) | 1/1 | research |
 | [Trillium](../companies/trillium.md) | 4/4 | software-engineering |
+| [True Anomaly](../companies/true-anomaly.md) | 1/1 | software-engineering |
 | [Truist Bank](../companies/truist-bank.md) | 1/4 | quant, software-engineering |
 | [Truland Equipment](../companies/truland-equipment.md) | 0/1 | software-engineering |
 | [Tuckernuck](../companies/tuckernuck.md) | 1/1 | product |

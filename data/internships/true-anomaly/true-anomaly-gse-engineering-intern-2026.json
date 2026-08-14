@@ -1,20 +1,25 @@
 {
   "schema_version": "1.0",
-  "id": "rtx-software-engineer-intern-2027",
+  "id": "true-anomaly-gse-engineering-intern-2026",
   "company": {
-    "name": "RTX",
-    "slug": "rtx"
+    "name": "True Anomaly",
+    "slug": "true-anomaly"
   },
-  "role": "Software Engineer Intern",
+  "role": "GSE Engineering Intern",
   "category": "software-engineering",
-  "apply_url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-FL-LARGO-382SR--7887-Bryan-Dairy-Rd--BLDG-600/Software-Engineer-Intern--Summer-2027-_01864811-1",
-  "season": "summer",
-  "year": 2027,
+  "apply_url": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5210059007",
+  "season": "fall",
+  "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Largo",
-      "state": "FL",
+      "city": "Long Beach",
+      "state": "CA",
+      "country": "USA"
+    },
+    {
+      "city": "Denver",
+      "state": "CO",
       "country": "USA"
     }
   ],
@@ -25,9 +30,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -42,8 +45,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-10",
-    "discovered": "2026-07-27",
+    "posted": "2026-08-14",
+    "discovered": "2026-08-14",
     "last_verified": "2026-08-14"
   },
   "status": "open",

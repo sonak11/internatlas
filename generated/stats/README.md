@@ -14,8 +14,8 @@ _Generated 2026-08-14_
 | Jump Trading | 43 |
 | Cloudflare | 28 |
 | SpaceX | 25 |
-| RTX | 24 |
 | IMC Trading | 23 |
+| RTX | 23 |
 | Susquehanna International Group (SIG) | 22 |
 | Neuralink | 20 |
 | Jane Street | 17 |
@@ -33,11 +33,11 @@ _Generated 2026-08-14_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 895 | `█████████████` |
+| software-engineering | 906 | `█████████████` |
 | quant | 173 | `██` |
-| ai | 168 | `██` |
+| ai | 169 | `██` |
 | machine-learning | 126 | `██` |
-| research | 95 | `█` |
+| research | 96 | `█` |
 | hardware | 75 | `█` |
 | product | 51 | `█` |
 | embedded | 47 | `█` |
@@ -49,6 +49,17 @@ _Generated 2026-08-14_
 
 ## Newest listings
 
+- 2026-08-14 — **Analysis Group**: [Research Professional Intern - Generalist](https://analystcareers-analysisgroup.icims.com/jobs/3007/job?mobile=true&needsRedirect=false)
+- 2026-08-14 — **Bank of China USA**: [Data Analytics Audit Intern](https://careers-bocusa.icims.com/jobs/4114/job?mobile=true&needsRedirect=false)
+- 2026-08-14 — **Bank of China USA**: [Enterprise Risk Management Risk Data Aggregation Intern](https://careers-bocusa.icims.com/jobs/4326/job?mobile=true&needsRedirect=false)
+- 2026-08-14 — **Bank of China USA**: [Risk Data Aggregation Intern - Enterprise Risk Management Department](https://careers-bocusa.icims.com/jobs/4470/job?mobile=true&needsRedirect=false)
+- 2026-08-14 — **KPMG**: [Product Specialist Intern Co-op - Asset Management Digital Solutions](https://careers.kpmg.ca/jobs/33301?icims=1)
+- 2026-08-14 — **KPMG**: [Software Developer Intern Co-op - Asset Management Digital Solutions - Software Developer](https://careers.kpmg.ca/jobs/33306?icims=1)
+- 2026-08-14 — **KPMG**: [Technical Consultant Intern Co-op - Global Compliance and Transformation](https://careers.kpmg.ca/jobs/33307?icims=1)
+- 2026-08-14 — **Magnera**: [Data Analyst Intern - Information Technology](https://careers-magnera.icims.com/jobs/27241/job?mobile=true&needsRedirect=false)
+- 2026-08-14 — **MaxLinear**: [AI Intern](https://careersus-maxlinear.icims.com/jobs/3049/job?mobile=true&needsRedirect=false)
+- 2026-08-14 — **Reyes Beverage Group**: [Commercial Analytics Intern - Beverage Alliance Support](https://jobportal.reyesbeveragegroup.com/jobs/34578?icims=1)
+- 2026-08-14 — **True Anomaly**: [GSE Engineering Intern](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5210059007)
 - 2026-08-13 — **Altera Corporation**: [Embedded Solutions Intern](https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Embedded-Solutions-Intern_R02832)
 - 2026-08-13 — **Analytical Mechanics Associates**: [Research Scientist Intern](https://amainc.wd12.myworkdayjobs.com/ama_careers/job/Remote---New-Jersey/Graduate-Research-Scientist-intern_R-100717-1)
 - 2026-08-13 — **ByteDance**: [Self-Built Engineer Intern - CDN Platform](https://jobs.bytedance.com/en/position/7670364362450733317/detail)
@@ -58,17 +69,6 @@ _Generated 2026-08-14_
 - 2026-08-13 — **Delta Dental**: [Knowledge Science Intern](https://rhsc.wd5.myworkdayjobs.com/delta_dental_of_michigan/job/Okemos-MI/Internship---Knowledge-Science_JR101405)
 - 2026-08-13 — **Epic Games**: [Gameplay Programmer Intern](https://epicgames.com/careers/jobs/6141180004?gh_jid=6141180004)
 - 2026-08-13 — **Gartner**: [Data Analyst Intern](https://gartner.wd5.myworkdayjobs.com/EXT/job/Irving-TX/Data-Analyst-Internship--2028-Graduates-_113297)
-- 2026-08-13 — **Inbulks**: [Junior Front End Developer Intern](https://jobs.smartrecruiters.com/InbulksCorp/743999750129753)
-- 2026-08-13 — **InfiniteQuant**: [Quantitative Developer Intern - Summer 2027](https://jobs.smartrecruiters.com/InfiniteQuant/744000143287594)
-- 2026-08-13 — **InfiniteQuant**: [Quantitative Researcher Intern - Summer 2027](https://jobs.smartrecruiters.com/InfiniteQuant/744000143307421)
-- 2026-08-13 — **Interco**: [Software Development Intern - React](https://jobs.smartrecruiters.com/Interco/744000143346169)
-- 2026-08-13 — **Micron Technology**: [Digital IP Design Engineer Intern - DRAM](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Digital-IP-Design-Engineer--DRAM_JR108533)
-- 2026-08-13 — **National Laboratory of the Rockies**: [Transportation Systems Analysis Intern - Year-Round](https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Graduate--Year-Round--Intern---Transportation-Systems-Analysis_R14385)
-- 2026-08-13 — **Picton Mahoney Asset Management**: [Business Data Analyst Intern](https://pictonmahoney.bamboohr.com/careers/356/)
-- 2026-08-13 — **Picton Mahoney Asset Management**: [Quantitative Research & Risk Intern](https://pictonmahoney.bamboohr.com/careers/350/)
-- 2026-08-13 — **RRS Group**: [Investment Analyst Intern](https://jobs.smartrecruiters.com/RRSGroup/744000133857769)
-- 2026-08-13 — **RRS Group**: [Software Engineer Intern - Placement Year](https://jobs.smartrecruiters.com/RRSGroup/744000142513209)
-- 2026-08-13 — **RTX**: [Methods Intern - Hot Section Engineering](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Methods-Intern---Hot-Section-Engineering--Summer-2027---Onsite-_01864520)
 
 ## Recently closed
 
@@ -183,6 +183,7 @@ _Generated 2026-08-14_
 - JP Morgan Chase — Data & AI Intern - Analyst
 - KBR — Software Intern
 - Keysight Technologies — R&D Software Engineer Intern
+- Keysight Technologies — Software Engineer Intern - R&D - FPGA
 - Kirin — Software Engineer Intern - AI Agents + Devices
 - Kodak — Marketing Analytics Intern
 - KRAFTON — Programming Intern

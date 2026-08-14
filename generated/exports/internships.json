@@ -1,6 +1,6 @@
 {
   "generated": "2026-08-14",
-  "count": 1764,
+  "count": 1777,
   "internships": [
     {
       "schema_version": "1.0",
@@ -3964,6 +3964,63 @@
         "last_verified": "2026-07-21"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "analysis-group-research-professional-intern-generalist-2027",
+      "company": {
+        "name": "Analysis Group",
+        "slug": "analysis-group"
+      },
+      "role": "Research Professional Intern - Generalist",
+      "category": "research",
+      "apply_url": "https://analystcareers-analysisgroup.icims.com/jobs/3007/job?mobile=true&needsRedirect=false",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Montreal",
+          "country": "QC"
+        },
+        {
+          "city": "Toronto",
+          "country": "ON"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-14",
+        "discovered": "2026-08-14",
+        "last_verified": "2026-08-14"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -8289,6 +8346,159 @@
       "dates": {
         "posted": "2026-07-21",
         "discovered": "2026-07-21",
+        "last_verified": "2026-08-14"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "bank-of-china-usa-data-analytics-audit-intern-2026",
+      "company": {
+        "name": "Bank of China USA",
+        "slug": "bank-of-china-usa"
+      },
+      "role": "Data Analytics Audit Intern",
+      "category": "software-engineering",
+      "apply_url": "https://careers-bocusa.icims.com/jobs/4114/job?mobile=true&needsRedirect=false",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "NYC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-14",
+        "discovered": "2026-08-14",
+        "last_verified": "2026-08-14"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "bank-of-china-usa-enterprise-risk-management-risk-data-aggregation-intern-2026",
+      "company": {
+        "name": "Bank of China USA",
+        "slug": "bank-of-china-usa"
+      },
+      "role": "Enterprise Risk Management Risk Data Aggregation Intern",
+      "category": "software-engineering",
+      "apply_url": "https://careers-bocusa.icims.com/jobs/4326/job?mobile=true&needsRedirect=false",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "NYC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-14",
+        "discovered": "2026-08-14",
+        "last_verified": "2026-08-14"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "bank-of-china-usa-risk-data-aggregation-intern-enterprise-risk-management-depa-2026",
+      "company": {
+        "name": "Bank of China USA",
+        "slug": "bank-of-china-usa"
+      },
+      "role": "Risk Data Aggregation Intern - Enterprise Risk Management Department",
+      "category": "software-engineering",
+      "apply_url": "https://careers-bocusa.icims.com/jobs/4470/job?mobile=true&needsRedirect=false",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "NYC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-14",
+        "discovered": "2026-08-14",
         "last_verified": "2026-08-14"
       },
       "status": "open",
@@ -41187,7 +41397,7 @@
         "discovered": "2026-08-05",
         "last_verified": "2026-08-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -41545,6 +41755,159 @@
       "dates": {
         "posted": "2026-07-28",
         "discovered": "2026-07-29",
+        "last_verified": "2026-08-14"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "kpmg-product-specialist-intern-co-op-asset-management-digital-sol-2027",
+      "company": {
+        "name": "KPMG",
+        "slug": "kpmg"
+      },
+      "role": "Product Specialist Intern Co-op - Asset Management Digital Solutions",
+      "category": "software-engineering",
+      "apply_url": "https://careers.kpmg.ca/jobs/33301?icims=1",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Toronto",
+          "country": "ON"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-14",
+        "discovered": "2026-08-14",
+        "last_verified": "2026-08-14"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "kpmg-software-developer-intern-co-op-asset-management-digital-sol-2027",
+      "company": {
+        "name": "KPMG",
+        "slug": "kpmg"
+      },
+      "role": "Software Developer Intern Co-op - Asset Management Digital Solutions - Software Developer",
+      "category": "software-engineering",
+      "apply_url": "https://careers.kpmg.ca/jobs/33306?icims=1",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Toronto",
+          "country": "ON"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-14",
+        "discovered": "2026-08-14",
+        "last_verified": "2026-08-14"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "kpmg-technical-consultant-intern-co-op-global-compliance-and-tran-2027",
+      "company": {
+        "name": "KPMG",
+        "slug": "kpmg"
+      },
+      "role": "Technical Consultant Intern Co-op - Global Compliance and Transformation",
+      "category": "software-engineering",
+      "apply_url": "https://careers.kpmg.ca/jobs/33307?icims=1",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Toronto",
+          "country": "ON"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-14",
+        "discovered": "2026-08-14",
         "last_verified": "2026-08-14"
       },
       "status": "open",
@@ -42933,6 +43296,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "magnera-data-analyst-intern-information-technology-2026",
+      "company": {
+        "name": "Magnera",
+        "slug": "magnera"
+      },
+      "role": "Data Analyst Intern - Information Technology",
+      "category": "software-engineering",
+      "apply_url": "https://careers-magnera.icims.com/jobs/27241/job?mobile=true&needsRedirect=false",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Evansville",
+          "state": "IN",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-14",
+        "discovered": "2026-08-14",
+        "last_verified": "2026-08-14"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "markem-imaje-software-engineer-intern-2026",
       "company": {
         "name": "Markem-Imaje",
@@ -43657,6 +44072,60 @@
       "dates": {
         "posted": "2026-08-05",
         "discovered": "2026-08-05",
+        "last_verified": "2026-08-14"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "maxlinear-ai-intern-2026",
+      "company": {
+        "name": "MaxLinear",
+        "slug": "maxlinear"
+      },
+      "role": "AI Intern",
+      "category": "ai",
+      "apply_url": "https://careersus-maxlinear.icims.com/jobs/3049/job?mobile=true&needsRedirect=false",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Carlsbad",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-14",
+        "discovered": "2026-08-14",
         "last_verified": "2026-08-14"
       },
       "status": "open",
@@ -58475,6 +58944,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "pimco-client-solutions-analytics-analyst-intern-2027",
+      "company": {
+        "name": "PIMCO",
+        "slug": "pimco"
+      },
+      "role": "Client Solutions & Analytics Analyst Intern",
+      "category": "software-engineering",
+      "apply_url": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-Summer-Intern---Client-Solutions---Analytics-Analyst--US_R106605",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Newport Beach",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-13",
+        "discovered": "2026-08-14",
+        "last_verified": "2026-08-14"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "pinterest-machine-learning-intern-phd-2026",
       "company": {
         "name": "Pinterest",
@@ -60947,6 +61468,60 @@
         "last_verified": "2026-07-18"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "reyes-beverage-group-commercial-analytics-intern-beverage-alliance-support-2026",
+      "company": {
+        "name": "Reyes Beverage Group",
+        "slug": "reyes-beverage-group"
+      },
+      "role": "Commercial Analytics Intern - Beverage Alliance Support",
+      "category": "software-engineering",
+      "apply_url": "https://jobportal.reyesbeveragegroup.com/jobs/34578?icims=1",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Irvine",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-14",
+        "discovered": "2026-08-14",
+        "last_verified": "2026-08-14"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -63979,60 +64554,6 @@
     },
     {
       "schema_version": "1.0",
-      "id": "rtx-software-engineer-intern-2027-3b20e3",
-      "company": {
-        "name": "RTX",
-        "slug": "rtx"
-      },
-      "role": "Software Engineer Intern",
-      "category": "software-engineering",
-      "apply_url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-FL-LARGO-382SR--7887-Bryan-Dairy-Rd--BLDG-600/Software-Engineer-Intern--Summer-2027-_01864811-1",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Largo",
-          "state": "FL",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [
-          "masters"
-        ],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-08-10",
-        "discovered": "2026-08-12",
-        "last_verified": "2026-08-14"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
       "id": "rtx-software-engineer-intern-2027-61b308",
       "company": {
         "name": "RTX",
@@ -64252,14 +64773,14 @@
       },
       "role": "Software Engineer Intern",
       "category": "software-engineering",
-      "apply_url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AL-HUNTSVILLE-382--420-Jan-Davis-Dr--DAVIS-382/Summer-2027--Software-Intern-OnSite_01865160",
+      "apply_url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-FL-LARGO-382SR--7887-Bryan-Dairy-Rd--BLDG-600/Software-Engineer-Intern--Summer-2027-_01864811-1",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
       "locations": [
         {
-          "city": "Huntsville",
-          "state": "AL",
+          "city": "Largo",
+          "state": "FL",
           "country": "USA"
         }
       ],
@@ -64287,7 +64808,7 @@
         "resume_keywords": []
       },
       "dates": {
-        "posted": "2026-08-12",
+        "posted": "2026-08-10",
         "discovered": "2026-07-27",
         "last_verified": "2026-08-14"
       },
@@ -72881,6 +73402,110 @@
       "dates": {
         "posted": "2026-08-07",
         "discovered": "2026-08-07",
+        "last_verified": "2026-08-14"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "teledyne-software-engineer-intern-nhrc-2027-743089",
+      "company": {
+        "name": "Teledyne",
+        "slug": "teledyne"
+      },
+      "role": "Software Engineer Intern - NHRC",
+      "category": "software-engineering",
+      "apply_url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/NHRC-Software-Engineering-Internship--Summer-2027-_REQ36194-2",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Huntsville",
+          "state": "AL",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-13",
+        "discovered": "2026-08-14",
+        "last_verified": "2026-08-14"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "teledyne-software-engineer-intern-nhrc-2027",
+      "company": {
+        "name": "Teledyne",
+        "slug": "teledyne"
+      },
+      "role": "Software Engineer Intern - NHRC",
+      "category": "software-engineering",
+      "apply_url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/NHRC-Software-Engineering-Internship--Summer-2027-_REQ36193",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Huntsville",
+          "state": "AL",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-13",
+        "discovered": "2026-08-14",
         "last_verified": "2026-08-14"
       },
       "status": "open",
@@ -89193,6 +89818,63 @@
       "dates": {
         "posted": "2026-08-07",
         "discovered": "2026-08-07",
+        "last_verified": "2026-08-14"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "true-anomaly-gse-engineering-intern-2026",
+      "company": {
+        "name": "True Anomaly",
+        "slug": "true-anomaly"
+      },
+      "role": "GSE Engineering Intern",
+      "category": "software-engineering",
+      "apply_url": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5210059007",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Long Beach",
+          "state": "CA",
+          "country": "USA"
+        },
+        {
+          "city": "Denver",
+          "state": "CO",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-14",
+        "discovered": "2026-08-14",
         "last_verified": "2026-08-14"
       },
       "status": "open",
