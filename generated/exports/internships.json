@@ -1,6 +1,6 @@
 {
   "generated": "2026-08-14",
-  "count": 1799,
+  "count": 1823,
   "internships": [
     {
       "schema_version": "1.0",
@@ -4082,6 +4082,263 @@
     },
     {
       "schema_version": "1.0",
+      "id": "analytical-mechanics-associates-computer-science-engineering-intern-computer-vision-applicat-2026",
+      "company": {
+        "name": "Analytical Mechanics Associates",
+        "slug": "analytical-mechanics-associates"
+      },
+      "role": "Computer Science/Engineering Intern - Computer Vision Applications",
+      "category": "software-engineering",
+      "apply_url": "https://amainc.wd12.myworkdayjobs.com/ama_careers/job/Hampton-VA/Computer-Science-Engineering-Intern---Computer-Vision-Applications_R-100731",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "New Mexico",
+          "country": "USA"
+        },
+        {
+          "city": "Washington",
+          "country": "USA"
+        },
+        {
+          "city": "Kansas",
+          "country": "USA"
+        },
+        {
+          "city": "Pennsylvania",
+          "country": "USA"
+        },
+        {
+          "city": "North Dakota",
+          "country": "USA"
+        },
+        {
+          "city": "Oregon",
+          "country": "USA"
+        },
+        {
+          "city": "Delaware",
+          "country": "USA"
+        },
+        {
+          "city": "Iowa",
+          "country": "USA"
+        },
+        {
+          "city": "California",
+          "country": "USA"
+        },
+        {
+          "city": "Washington",
+          "state": "DC",
+          "country": "USA"
+        },
+        {
+          "city": "Vermont",
+          "country": "USA"
+        },
+        {
+          "city": "Wyoming",
+          "country": "USA"
+        },
+        {
+          "city": "Connecticut",
+          "country": "USA"
+        },
+        {
+          "city": "Texas",
+          "country": "USA"
+        },
+        {
+          "city": "Montana",
+          "country": "USA"
+        },
+        {
+          "city": "Florida",
+          "country": "USA"
+        },
+        {
+          "city": "New Hampshire",
+          "country": "USA"
+        },
+        {
+          "city": "Nevada",
+          "country": "USA"
+        },
+        {
+          "city": "South Carolina",
+          "country": "USA"
+        },
+        {
+          "city": "South Dakota",
+          "country": "USA"
+        },
+        {
+          "city": "Georgia",
+          "country": "USA"
+        },
+        {
+          "city": "Hampton",
+          "state": "VA",
+          "country": "USA"
+        },
+        {
+          "city": "Arizona",
+          "country": "USA"
+        },
+        {
+          "city": "Mississippi",
+          "country": "USA"
+        },
+        {
+          "city": "Tennessee",
+          "country": "USA"
+        },
+        {
+          "city": "Virginia",
+          "country": "USA"
+        },
+        {
+          "city": "Arkansas",
+          "country": "USA"
+        },
+        {
+          "city": "Minnesota",
+          "country": "USA"
+        },
+        {
+          "city": "Colorado",
+          "country": "USA"
+        },
+        {
+          "city": "Nebraska",
+          "country": "USA"
+        },
+        {
+          "city": "Rhode Island",
+          "country": "USA"
+        },
+        {
+          "city": "Utah",
+          "country": "USA"
+        },
+        {
+          "city": "Kentucky",
+          "country": "USA"
+        },
+        {
+          "city": "West Virginia",
+          "country": "USA"
+        },
+        {
+          "city": "NYC",
+          "country": "USA"
+        },
+        {
+          "city": "Maryland",
+          "country": "USA"
+        },
+        {
+          "city": "Hawaii",
+          "country": "USA"
+        },
+        {
+          "city": "Wisconsin",
+          "country": "USA"
+        },
+        {
+          "city": "Maine",
+          "country": "USA"
+        },
+        {
+          "city": "Massachusetts",
+          "country": "USA"
+        },
+        {
+          "city": "North Carolina",
+          "country": "USA"
+        },
+        {
+          "city": "Oklahoma",
+          "country": "USA"
+        },
+        {
+          "city": "Missouri",
+          "country": "USA"
+        },
+        {
+          "city": "Ohio",
+          "country": "USA"
+        },
+        {
+          "city": "New Jersey",
+          "country": "USA"
+        },
+        {
+          "city": "Indiana",
+          "country": "USA"
+        },
+        {
+          "city": "Louisiana",
+          "country": "USA"
+        },
+        {
+          "city": "Alaska",
+          "country": "USA"
+        },
+        {
+          "city": "Michigan",
+          "country": "USA"
+        },
+        {
+          "city": "Illinois",
+          "country": "USA"
+        },
+        {
+          "city": "Alabama",
+          "country": "USA"
+        },
+        {
+          "city": "Idaho",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-14",
+        "discovered": "2026-08-14",
+        "last_verified": "2026-08-14"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "analytical-mechanics-associates-research-scientist-intern-2026",
       "company": {
         "name": "Analytical Mechanics Associates",
@@ -5706,6 +5963,60 @@
       "dates": {
         "posted": "2026-05-16",
         "discovered": "2026-07-26",
+        "last_verified": "2026-08-14"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "arevon-data-science-intern-interconnection-transmission-2026",
+      "company": {
+        "name": "Arevon",
+        "slug": "arevon"
+      },
+      "role": "Data Science Intern - Interconnection & Transmission",
+      "category": "data-science",
+      "apply_url": "https://job-boards.greenhouse.io/arevonenergyimpltest/jobs/5211455007",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Scottsdale",
+          "state": "AZ",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-14",
+        "discovered": "2026-08-14",
         "last_verified": "2026-08-14"
       },
       "status": "open",
@@ -9520,6 +9831,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "berrydunn-consulting-intern-healthcare-data-management-and-strategy-2027",
+      "company": {
+        "name": "BerryDunn",
+        "slug": "berrydunn"
+      },
+      "role": "Consulting Intern - Healthcare Data Management and Strategy",
+      "category": "software-engineering",
+      "apply_url": "https://careers-berrydunn.icims.com/jobs/3973/job?mobile=true&needsRedirect=false",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Portland",
+          "state": "ME",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-14",
+        "discovered": "2026-08-14",
+        "last_verified": "2026-08-14"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "bild-ai-ai-software-engineer-intern-2026",
       "company": {
         "name": "Bild AI",
@@ -10990,6 +11353,61 @@
       "dates": {
         "posted": "2026-07-02",
         "discovered": "2026-07-17",
+        "last_verified": "2026-08-14"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "bp-geoscience-intern-geoscientist-2027",
+      "company": {
+        "name": "BP",
+        "slug": "bp"
+      },
+      "role": "Geoscience Intern - Geoscientist",
+      "category": "software-engineering",
+      "apply_url": "https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers/job/United-States-of-America---Texas---Houston/Summer-Intern---Geoscientist---Houston-TX_RQ114816",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Houston",
+          "state": "TX",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters",
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-14",
+        "discovered": "2026-08-14",
         "last_verified": "2026-08-14"
       },
       "status": "open",
@@ -14349,7 +14767,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "canva-phd-research-scientist-intern-2026",
+      "id": "canva-phd-research-scientist-intern-2026-1bb10f",
       "company": {
         "name": "Canva",
         "slug": "canva"
@@ -14364,6 +14782,57 @@
         {
           "city": "San Francisco",
           "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-06",
+        "discovered": "2026-08-14",
+        "last_verified": "2026-08-14"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "canva-phd-research-scientist-intern-2026",
+      "company": {
+        "name": "Canva",
+        "slug": "canva"
+      },
+      "role": "PhD Research Scientist Intern",
+      "category": "research",
+      "apply_url": "https://jobs.smartrecruiters.com/Canva/6000000001291655",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "SF",
           "country": "USA"
         }
       ],
@@ -14398,7 +14867,7 @@
       "status": "open",
       "tags": [
         "auto-ingested",
-        "src:vanshb03"
+        "src:simplify"
       ]
     },
     {
@@ -30309,6 +30778,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "generac-firmware-engineering-intern-2026",
+      "company": {
+        "name": "Generac",
+        "slug": "generac"
+      },
+      "role": "Firmware Engineering Intern",
+      "category": "embedded",
+      "apply_url": "https://generac.wd5.myworkdayjobs.com/en-US/external/job/Reno-NV---USA/Intern-Firmware-Engineering_JR16149",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Reno",
+          "state": "NV",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-14",
+        "discovered": "2026-08-14",
+        "last_verified": "2026-08-14"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "generac-software-engineer-intern-2026",
       "company": {
         "name": "Generac",
@@ -32167,6 +32688,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "guidewell-mutual-enterprise-analytics-intern-2027",
+      "company": {
+        "name": "GuideWell Mutual",
+        "slug": "guidewell-mutual"
+      },
+      "role": "Enterprise Analytics Intern",
+      "category": "software-engineering",
+      "apply_url": "http://fa-etum-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41879",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Jacksonville",
+          "state": "FL",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-14",
+        "discovered": "2026-08-14",
+        "last_verified": "2026-08-14"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "gulf-management-software-engineer-business-systems-intern-2026",
       "company": {
         "name": "Gulf Management",
@@ -33321,6 +33894,58 @@
       "dates": {
         "posted": "2026-06-23",
         "discovered": "2026-07-17",
+        "last_verified": "2026-08-14"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "hershey-product-development-intern-r-d-2027",
+      "company": {
+        "name": "Hershey",
+        "slug": "hershey"
+      },
+      "role": "Product Development Intern - R&D",
+      "category": "software-engineering",
+      "apply_url": "https://careers.thehersheycompany.com/job/Hershey-Future-Opportunities-Product-Development-Intern-R&D-(Summer-2027)-PA-17033/1419784700/?ats=successfactors",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Hershey",
+          "state": "PA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-14",
+        "discovered": "2026-08-14",
         "last_verified": "2026-08-14"
       },
       "status": "open",
@@ -37263,6 +37888,70 @@
     },
     {
       "schema_version": "1.0",
+      "id": "intel-physical-design-engineer-intern-2026",
+      "company": {
+        "name": "Intel",
+        "slug": "intel"
+      },
+      "role": "Physical Design Engineer Intern",
+      "category": "design",
+      "apply_url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-California-Folsom/Physical-Design-Engineering-Graduate-Intern_JR0283509",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Santa Clara",
+          "state": "CA",
+          "country": "USA"
+        },
+        {
+          "city": "Folsom",
+          "state": "CA",
+          "country": "USA"
+        },
+        {
+          "city": "Phoenix",
+          "state": "AZ",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-14",
+        "discovered": "2026-08-14",
+        "last_verified": "2026-08-14"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "intel-corporation-ai-software-engineering-phd-intern-2027",
       "company": {
         "name": "Intel Corporation",
@@ -38646,9 +39335,9 @@
       "dates": {
         "posted": "2026-08-03",
         "discovered": "2026-08-03",
-        "last_verified": "2026-08-13"
+        "last_verified": "2026-08-14"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -47447,6 +48136,59 @@
     },
     {
       "schema_version": "1.0",
+      "id": "microsoft-optoelectronics-device-engineer-intern-2026",
+      "company": {
+        "name": "Microsoft",
+        "slug": "microsoft"
+      },
+      "role": "Optoelectronics Device Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://apply.careers.microsoft.com/careers/job/1970393556962583",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Cambridge",
+          "country": "UK"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-14",
+        "discovered": "2026-08-14",
+        "last_verified": "2026-08-14"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "microsoft-product-manager-intern-2027",
       "company": {
         "name": "Microsoft",
@@ -49349,6 +50091,65 @@
         "last_verified": "2026-08-01"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "motorola-android-platform-software-engineer-intern-summer-2027-2027",
+      "company": {
+        "name": "Motorola",
+        "slug": "motorola"
+      },
+      "role": "Android Platform Software Engineer Intern - Summer 2027",
+      "category": "software-engineering",
+      "apply_url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Android-Platform-Software-Engineering-Intern---Summer-2027_R67362-1",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Schaumburg",
+          "state": "IL",
+          "country": "USA"
+        },
+        {
+          "city": "Plantation",
+          "state": "FL",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-14",
+        "discovered": "2026-08-14",
+        "last_verified": "2026-08-14"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -51791,6 +52592,58 @@
       "dates": {
         "posted": "2026-02-18",
         "discovered": "2026-07-18",
+        "last_verified": "2026-08-14"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "neuralink-biomedical-engineer-intern-2027",
+      "company": {
+        "name": "Neuralink",
+        "slug": "neuralink",
+        "career_page": "https://neuralink.com/careers"
+      },
+      "role": "Biomedical Engineer Intern",
+      "category": "hardware",
+      "apply_url": "https://boards.greenhouse.io/neuralink/jobs/7872639003?gh_jid=7872639003",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "South San Francisco",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-14",
+        "discovered": "2026-08-14",
         "last_verified": "2026-08-14"
       },
       "status": "open",
@@ -55468,6 +56321,58 @@
         "last_verified": "2026-07-22"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "onsemi-tax-ai-and-automation-intern-2026",
+      "company": {
+        "name": "onsemi",
+        "slug": "onsemi"
+      },
+      "role": "Tax AI and Automation Intern",
+      "category": "ai",
+      "apply_url": "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506307",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Scottsdale",
+          "state": "AZ",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-14",
+        "discovered": "2026-08-14",
+        "last_verified": "2026-08-14"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -60699,6 +61604,60 @@
     },
     {
       "schema_version": "1.0",
+      "id": "prudential-financial-public-credit-summer-investment-analyst-intern-portfolio-ana-2027",
+      "company": {
+        "name": "Prudential Financial",
+        "slug": "prudential-financial"
+      },
+      "role": "Public Credit Summer Investment Analyst Intern - Portfolio Analysis Group",
+      "category": "software-engineering",
+      "apply_url": "https://pru.wd5.myworkdayjobs.com/Careers/job/Newark-NJ-USA/PGIM--2027-Public-Credit--Summer-Investment-Analyst-Program--Portfolio-Analysis-Group-_R-124835-2",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Newark",
+          "state": "NJ",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-14",
+        "discovered": "2026-08-14",
+        "last_verified": "2026-08-14"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "psecu-data-analyst-intern-2026",
       "company": {
         "name": "PSECU",
@@ -64956,6 +65915,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "rtx-electrical-computer-aided-design-engineer-intern-2027",
+      "company": {
+        "name": "RTX",
+        "slug": "rtx"
+      },
+      "role": "Electrical Computer-Aided Design Engineer Intern",
+      "category": "design",
+      "apply_url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-M02--1151-E-Hermans-Rd--BLDG-M02/EAP-Engineering-ECAD-Intern--Summer-2027-_01866716-1",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Tucson",
+          "state": "AZ",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-14",
+        "discovered": "2026-08-14",
+        "last_verified": "2026-08-14"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "rtx-electro-optical-systems-technician-intern-an-zsq-2-2026",
       "company": {
         "name": "RTX",
@@ -65217,6 +66228,60 @@
         "last_verified": "2026-08-13"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "rtx-radar-digital-products-engineering-intern-2027",
+      "company": {
+        "name": "RTX",
+        "slug": "rtx"
+      },
+      "role": "Radar Digital Products Engineering Intern",
+      "category": "software-engineering",
+      "apply_url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-TEWKSBURY-TB1--50-Apple-Hill-Dr--ASSABET-BLDG/Radar-Digital-Products-Engineering-Intern--Summer-2027-_01866243",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Tewksbury",
+          "state": "MA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-14",
+        "discovered": "2026-08-14",
+        "last_verified": "2026-08-14"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -65702,6 +66767,60 @@
     },
     {
       "schema_version": "1.0",
+      "id": "rtx-software-engineer-intern-summer-2027-2027-55bd2e",
+      "company": {
+        "name": "RTX",
+        "slug": "rtx"
+      },
+      "role": "Software Engineer Intern - Summer 2027",
+      "category": "software-engineering",
+      "apply_url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MN-BURNSVILLE-NORTH--2900-County-Rd-42-W--NORTH-BLDG/Software-Engineering-Intern--Summer-2027-_01866681",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Burnsville",
+          "state": "MN",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-14",
+        "discovered": "2026-08-14",
+        "last_verified": "2026-08-14"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "rtx-software-engineer-intern-summer-2027-2027-860b80",
       "company": {
         "name": "RTX",
@@ -65808,6 +66927,60 @@
     },
     {
       "schema_version": "1.0",
+      "id": "rtx-software-engineer-intern-summer-2027-2027-d413ac",
+      "company": {
+        "name": "RTX",
+        "slug": "rtx"
+      },
+      "role": "Software Engineer Intern - Summer 2027",
+      "category": "software-engineering",
+      "apply_url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineering-Intern--Summer-2027-_01863980-1",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Cedar Rapids",
+          "state": "IA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-04",
+        "discovered": "2026-08-14",
+        "last_verified": "2026-08-14"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "rtx-software-engineer-intern-summer-2027-2027-e5f031",
       "company": {
         "name": "RTX",
@@ -65867,14 +67040,14 @@
       },
       "role": "Software Engineer Intern - Summer 2027",
       "category": "software-engineering",
-      "apply_url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineering-Intern--Summer-2027-_01863980-1",
+      "apply_url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CA-EL-SEGUNDO-E04--2006-E-El-Segundo-Blvd--BLDG-E04/Software-Engineering-Intern--Summer-2027-_01866619",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
       "locations": [
         {
-          "city": "Cedar Rapids",
-          "state": "IA",
+          "city": "El Segundo",
+          "state": "CA",
           "country": "USA"
         }
       ],
@@ -65902,7 +67075,7 @@
         "resume_keywords": []
       },
       "dates": {
-        "posted": "2026-08-04",
+        "posted": "2026-08-14",
         "discovered": "2026-08-05",
         "last_verified": "2026-08-14"
       },
@@ -68922,6 +70095,64 @@
         "last_verified": "2026-08-11"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "snap-research-scientist-intern-user-modeling-and-personalization-2026",
+      "company": {
+        "name": "Snap",
+        "slug": "snap"
+      },
+      "role": "Research Scientist Intern - User Modeling and Personalization",
+      "category": "research",
+      "apply_url": "https://wd1.myworkdaysite.com/recruiting/snapchat/snap/job/Bellevue-Washington/Research-Intern--User-Modeling-and-Personalization_R0046464-1",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "state": "LA",
+          "country": "USA"
+        },
+        {
+          "city": "Bellevue",
+          "state": "WA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-14",
+        "discovered": "2026-08-14",
+        "last_verified": "2026-08-14"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -81888,6 +83119,60 @@
     },
     {
       "schema_version": "1.0",
+      "id": "the-nuclear-company-ai-applied-research-intern-2027",
+      "company": {
+        "name": "The Nuclear Company",
+        "slug": "the-nuclear-company"
+      },
+      "role": "AI Applied Research Intern",
+      "category": "ai",
+      "apply_url": "https://job-boards.greenhouse.io/thenuclearcompany/jobs/5391888008",
+      "season": "spring",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Washington",
+          "state": "DC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-14",
+        "discovered": "2026-08-14",
+        "last_verified": "2026-08-14"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "the-nuclear-company-ai-ml-engineer-intern-2027",
       "company": {
         "name": "The Nuclear Company",
@@ -82194,6 +83479,61 @@
       "dates": {
         "posted": "2026-08-07",
         "discovered": "2026-08-07",
+        "last_verified": "2026-08-14"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "the-nuclear-company-data-science-machine-learning-fellow-intern-2027",
+      "company": {
+        "name": "The Nuclear Company",
+        "slug": "the-nuclear-company"
+      },
+      "role": "Data Science & Machine Learning Fellow Intern",
+      "category": "machine-learning",
+      "apply_url": "https://job-boards.greenhouse.io/thenuclearcompany/jobs/5391923008",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Washington",
+          "state": "DC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters",
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-14",
+        "discovered": "2026-08-14",
         "last_verified": "2026-08-14"
       },
       "status": "open",
@@ -90590,6 +91930,60 @@
     },
     {
       "schema_version": "1.0",
+      "id": "transmarket-group-software-engineer-intern-2026",
+      "company": {
+        "name": "TransMarket Group",
+        "slug": "transmarket-group"
+      },
+      "role": "Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://job-boards.greenhouse.io/transmarketgroup/jobs/5212335007?gh_jid=5212335007",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Chicago",
+          "state": "IL",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-14",
+        "discovered": "2026-08-14",
+        "last_verified": "2026-08-14"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "trata-research-scientist-intern-2027",
       "company": {
         "name": "Trata",
@@ -93327,6 +94721,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "vertiv-planning-analytics-intern-summer-2027-2027",
+      "company": {
+        "name": "Vertiv",
+        "slug": "vertiv"
+      },
+      "role": "Planning Analytics Intern - Summer 2027",
+      "category": "software-engineering",
+      "apply_url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279236",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Westerville",
+          "state": "OH",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-14",
+        "discovered": "2026-08-14",
+        "last_verified": "2026-08-14"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "vertiv-product-management-intern-2027-1c89bd",
       "company": {
         "name": "Vertiv",
@@ -95650,6 +97096,63 @@
       "dates": {
         "posted": "2026-07-23",
         "discovered": "2026-07-23",
+        "last_verified": "2026-08-14"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "wec-energy-group-renewables-data-analytics-intern-2027",
+      "company": {
+        "name": "WEC Energy Group",
+        "slug": "wec-energy-group"
+      },
+      "role": "Renewables Data Analytics Intern",
+      "category": "software-engineering",
+      "apply_url": "https://careers.wecenergygroup.com/We_Energies/job/Milwaukee-Intern-Renewables-Data-Analytics-WI-53203/1419740100/?ats=successfactors",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Milwaukee",
+          "state": "WI",
+          "country": "USA"
+        },
+        {
+          "city": "Green Bay",
+          "state": "WI",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-14",
+        "discovered": "2026-08-14",
         "last_verified": "2026-08-14"
       },
       "status": "open",

@@ -13,17 +13,17 @@ _Generated 2026-08-14_
 | ByteDance | 48 |
 | Jump Trading | 43 |
 | Cloudflare | 29 |
+| RTX | 27 |
 | SpaceX | 25 |
 | IMC Trading | 23 |
-| RTX | 23 |
 | Susquehanna International Group (SIG) | 22 |
-| Neuralink | 20 |
+| Neuralink | 21 |
 | Jane Street | 17 |
 | Palantir Technologies | 17 |
 | Rivian and Volkswagen Group Technologies | 16 |
 | Meta | 15 |
+| Microsoft | 15 |
 | Etched | 14 |
-| Microsoft | 14 |
 | Virtu Financial | 14 |
 | Ciena | 12 |
 | Optiver | 12 |
@@ -33,17 +33,17 @@ _Generated 2026-08-14_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 923 | `█████████████` |
+| software-engineering | 937 | `█████████████` |
 | quant | 174 | `██` |
-| ai | 170 | `██` |
-| machine-learning | 126 | `██` |
-| research | 95 | `█` |
-| hardware | 76 | `█` |
+| ai | 172 | `██` |
+| machine-learning | 127 | `██` |
+| research | 97 | `█` |
+| hardware | 77 | `█` |
 | product | 53 | `█` |
-| embedded | 47 | `█` |
+| embedded | 48 | `█` |
 | cloud | 37 | `█` |
-| design | 35 | `█` |
-| data-science | 30 | `█` |
+| design | 37 | `█` |
+| data-science | 31 | `█` |
 | data-engineering | 21 | `█` |
 | security | 12 | `█` |
 
@@ -51,24 +51,24 @@ _Generated 2026-08-14_
 
 - 2026-08-14 — **AARP**: [Data Science and Advanced Analytics Intern](https://careers.aarp.org/jobs/7437?icims=1)
 - 2026-08-14 — **Analysis Group**: [Research Professional Intern - Generalist](https://analystcareers-analysisgroup.icims.com/jobs/3007/job?mobile=true&needsRedirect=false)
+- 2026-08-14 — **Analytical Mechanics Associates**: [Computer Science/Engineering Intern - Computer Vision Applications](https://amainc.wd12.myworkdayjobs.com/ama_careers/job/Hampton-VA/Computer-Science-Engineering-Intern---Computer-Vision-Applications_R-100731)
+- 2026-08-14 — **Arevon**: [Data Science Intern - Interconnection & Transmission](https://job-boards.greenhouse.io/arevonenergyimpltest/jobs/5211455007)
 - 2026-08-14 — **Arlington County VA**: [Business Intelligence Intern](https://fa-exkk-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1727)
 - 2026-08-14 — **Baker Hughes**: [Benefit Tool Developer Intern - Month Fixed Term Contract](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/GB-AC-ABERDEEN-BAKER-HUGHES-BUILDING/Intern---Benefit-Tool-Developer--12-Month-Fixed-Term-Contract-_R168066)
 - 2026-08-14 — **Bank of China USA**: [Data Analytics Audit Intern](https://careers-bocusa.icims.com/jobs/4114/job?mobile=true&needsRedirect=false)
 - 2026-08-14 — **Bank of China USA**: [Enterprise Risk Management Risk Data Aggregation Intern](https://careers-bocusa.icims.com/jobs/4326/job?mobile=true&needsRedirect=false)
 - 2026-08-14 — **Bank of China USA**: [Risk Data Aggregation Intern - Enterprise Risk Management Department](https://careers-bocusa.icims.com/jobs/4470/job?mobile=true&needsRedirect=false)
+- 2026-08-14 — **BerryDunn**: [Consulting Intern - Healthcare Data Management and Strategy](https://careers-berrydunn.icims.com/jobs/3973/job?mobile=true&needsRedirect=false)
+- 2026-08-14 — **BP**: [Geoscience Intern - Geoscientist](https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers/job/United-States-of-America---Texas---Houston/Summer-Intern---Geoscientist---Houston-TX_RQ114816)
 - 2026-08-14 — **ByteDance**: [ASIC Design Engineer Intern - Video Silicon IP](https://jobs.bytedance.com/en/position/7673638856678279429/detail)
 - 2026-08-14 — **ByteDance**: [Self-Built Engineer Intern - CDN Platform](https://jobs.bytedance.com/en/position/7673617571165620533/detail)
 - 2026-08-14 — **ByteDance**: [Self-Built Engineer Intern - CDN Platform](https://jobs.bytedance.com/en/position/7673608499872827701/detail)
 - 2026-08-14 — **Composio**: [Fullstack Engineer Intern - Product Team](https://jobs.ashbyhq.com/composio/eea3c0be-8589-4e3d-a684-de29a9eada0d/application?embed=true)
 - 2026-08-14 — **Dmg Media**: [AI Engineer Intern - Innovation Team](https://www.dmgmedia.co.uk/careers/jobs/id/8130352?gh_jid=8130352)
-- 2026-08-14 — **KeyBank**: [Analytics and Quantitative Modeling Intern - Analytics & Quantitative Modeling](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Cleveland-OH/XMLNAME-2027-Summer-Analytics-and-Quantitative-Modeling-Internship--Cleveland_R-41380)
-- 2026-08-14 — **KPMG**: [Product Specialist Intern Co-op - Asset Management Digital Solutions](https://careers.kpmg.ca/jobs/33301?icims=1)
-- 2026-08-14 — **KPMG**: [Software Developer Intern Co-op - Asset Management Digital Solutions - Software Developer](https://careers.kpmg.ca/jobs/33306?icims=1)
-- 2026-08-14 — **KPMG**: [Technical Consultant Intern Co-op - Global Compliance and Transformation](https://careers.kpmg.ca/jobs/33307?icims=1)
-- 2026-08-14 — **Magnera**: [Data Analyst Intern - Information Technology](https://careers-magnera.icims.com/jobs/27241/job?mobile=true&needsRedirect=false)
-- 2026-08-14 — **MaxLinear**: [AI Intern](https://careersus-maxlinear.icims.com/jobs/3049/job?mobile=true&needsRedirect=false)
-- 2026-08-14 — **Notion**: [Software Engineer Intern (Summer 2027)](https://jobs.ashbyhq.com/notion/3fba1c39-c5cb-47d7-9ad2-1cec4d7e9d0c)
-- 2026-08-14 — **Notion**: [Software Engineer Intern (Winter 2027)](https://jobs.ashbyhq.com/notion/e66c6658-9e65-4c58-8db2-844628b6e8f8)
+- 2026-08-14 — **Generac**: [Firmware Engineering Intern](https://generac.wd5.myworkdayjobs.com/en-US/external/job/Reno-NV---USA/Intern-Firmware-Engineering_JR16149)
+- 2026-08-14 — **GuideWell Mutual**: [Enterprise Analytics Intern](http://fa-etum-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41879)
+- 2026-08-14 — **Hershey**: [Product Development Intern - R&D](https://careers.thehersheycompany.com/job/Hershey-Future-Opportunities-Product-Development-Intern-R&D-(Summer-2027)-PA-17033/1419784700/?ats=successfactors)
+- 2026-08-14 — **Intel**: [Physical Design Engineer Intern](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-California-Folsom/Physical-Design-Engineering-Graduate-Intern_JR0283509)
 
 ## Recently closed
 
@@ -189,7 +189,6 @@ _Generated 2026-08-14_
 - Integrity — Research Intern
 - Intel — AI Software Engineer Intern
 - JINGDONG — Software Engineering Intern
-- JP Morgan Chase — Data & AI Intern - Analyst
 - KBR — Software Intern
 - Keysight Technologies — R&D Software Engineer Intern
 - Keysight Technologies — Software Engineer Intern - R&D - FPGA
