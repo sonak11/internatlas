@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "goldman-sachs-summer-analyst-intern-wealth-management-product-management-a-2027",
+  "id": "dedalus-labs-product-manager-intern-2026",
   "company": {
-    "name": "Goldman Sachs",
-    "slug": "goldman-sachs"
+    "name": "Dedalus Labs",
+    "slug": "dedalus-labs"
   },
-  "role": "Summer Analyst Intern - Wealth Management - Product Management and Design",
+  "role": "Product Manager Intern",
   "category": "product",
-  "apply_url": "https://higher.gs.com/roles/170935?type=students",
-  "season": "summer",
-  "year": 2027,
+  "apply_url": "https://jobs.ashbyhq.com/dedalus-labs/ca4245ff-0dee-4f16-80ca-24912d72079c/application?embed=true",
+  "season": "fall",
+  "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "London",
-      "country": "UK"
+      "city": "SF",
+      "country": "USA"
     }
   ],
   "compensation": {
@@ -43,7 +43,7 @@
     "discovered": "2026-08-15",
     "last_verified": "2026-08-15"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

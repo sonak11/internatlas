@@ -39,10 +39,10 @@ _Generated 2026-08-15_
 | machine-learning | 127 | `██` |
 | research | 97 | `█` |
 | hardware | 78 | `█` |
-| product | 54 | `█` |
+| product | 55 | `█` |
 | embedded | 48 | `█` |
 | cloud | 40 | `█` |
-| design | 37 | `█` |
+| design | 38 | `█` |
 | data-science | 31 | `█` |
 | data-engineering | 21 | `█` |
 | security | 12 | `█` |
@@ -53,6 +53,8 @@ _Generated 2026-08-15_
 - 2026-08-15 — **ByteDance**: [Software Engineer Intern - Global Payment Infra and SRE](https://jobs.bytedance.com/en/position/7668315137242351925/detail)
 - 2026-08-15 — **ByteDance**: [Software Engineer Intern - Global Traffic Architecture](https://jobs.bytedance.com/en/position/7672557061679483189/detail)
 - 2026-08-15 — **ByteDance**: [Software Engineer Intern - Traffic Infrastructure](https://jobs.bytedance.com/en/position/7672626707586746629/detail)
+- 2026-08-15 — **Dedalus Labs**: [Design Engineer Intern](https://jobs.ashbyhq.com/dedalus-labs/bcd6db2e-400b-4ffa-aef3-0948a7b558c2/application?embed=true)
+- 2026-08-15 — **Dedalus Labs**: [Product Manager Intern](https://jobs.ashbyhq.com/dedalus-labs/ca4245ff-0dee-4f16-80ca-24912d72079c/application?embed=true)
 - 2026-08-15 — **Epia Neuro**: [Hardware Engineer Intern](https://jobs.ashbyhq.com/epianeuro/62d296e8-16c4-4403-8af5-629e97f7f7fe/application?embed=true)
 - 2026-08-15 — **Freeform**: [Software Engineer Intern - Summer 2027](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7872198003)
 - 2026-08-15 — **Goldman Sachs**: [Quantitative Strategist Associate Intern - Asset and Wealth Management](https://higher.gs.com/roles/175423?type=students)
@@ -67,8 +69,6 @@ _Generated 2026-08-15_
 - 2026-08-14 — **AARP**: [Data Science and Advanced Analytics Intern](https://careers.aarp.org/jobs/7437?icims=1)
 - 2026-08-14 — **Analysis Group**: [Research Professional Intern - Generalist](https://analystcareers-analysisgroup.icims.com/jobs/3007/job?mobile=true&needsRedirect=false)
 - 2026-08-14 — **Analytical Mechanics Associates**: [Computer Science/Engineering Intern - Computer Vision Applications](https://amainc.wd12.myworkdayjobs.com/ama_careers/job/Hampton-VA/Computer-Science-Engineering-Intern---Computer-Vision-Applications_R-100731)
-- 2026-08-14 — **Arevon**: [Data Science Intern - Interconnection & Transmission](https://job-boards.greenhouse.io/arevonenergyimpltest/jobs/5211455007)
-- 2026-08-14 — **Arlington County VA**: [Business Intelligence Intern](https://fa-exkk-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1727)
 
 ## Recently closed
 
@@ -167,6 +167,10 @@ _Generated 2026-08-15_
 - General Motors — Research and Development Intern - Research & Development: AI/ML
 - Global Infrastructure — Alternative Delivery Project Analytics Intern
 - Golden Pet Brands — Data Analytics Intern
+- Goldman Sachs — Quantitative Strategist Associate Intern - Asset and Wealth Management
+- Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
+- Goldman Sachs — Summer Analyst Intern - Wealth Management - Product Management and Design
+- Goldman Sachs — Summer Associate Intern - Multiple Teams
 - Gulfstream — Computer Science Intern - Advanced Structures and Materials
 - Harris Computer — Software Development Intern
 - Hendrick Motorsports — Project and Race Support Engineer Internship
