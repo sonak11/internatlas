@@ -1,6 +1,6 @@
 # 📬 InternAtlas Weekly Digest — 2026-08-15
 
-## 🆕 New this week (287)
+## 🆕 New this week (286)
 
 - **AARP** — [Data Science and Advanced Analytics Intern](https://careers.aarp.org/jobs/7437?icims=1) · data-science · —
 - **Abridge** — [Software Engineer Intern](https://jobs.ashbyhq.com/abridge/3f07a457-dc14-4238-bf4e-5c33b5c1f883/application?embed=true) · software-engineering · —
@@ -115,7 +115,6 @@
 - **Intel** — [Physical Design Engineer Intern](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-California-Folsom/Physical-Design-Engineering-Graduate-Intern_JR0283509) · design · —
 - **Interco** — [Software Development Intern - React](https://jobs.smartrecruiters.com/Interco/744000143346169) · software-engineering · —
 - **Interdigital** — [Wireless Engineering Intern - 6G Wireless Systems](https://interdigital.wd5.myworkdayjobs.com/InterDigital_Intern/job/Conshohocken-PA/PhD-Intern--6G-Wireless-Systems---Sept-2026_REQ26-1135) · software-engineering · —
-- **Interdigital** — [Wireless Engineering Intern - 6G Wireless Systems](https://interdigital.wd5.myworkdayjobs.com/InterDigital_Career/job/Conshohocken-PA/PhD-Intern--6G-Wireless-Systems---Sept-2026_REQ26-1135-1) · software-engineering · —
 - **KPMG** — [Product Specialist Intern Co-op - Asset Management Digital Solutions](https://careers.kpmg.ca/jobs/33301?icims=1) · software-engineering · —
 - **KPMG** — [Software Developer Intern Co-op - Asset Management Digital Solutions - Software Developer](https://careers.kpmg.ca/jobs/33306?icims=1) · software-engineering · —
 - **KPMG** — [Technical Consultant Intern Co-op - Global Compliance and Transformation](https://careers.kpmg.ca/jobs/33307?icims=1) · software-engineering · —

@@ -33,7 +33,7 @@ _Generated 2026-08-15_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 961 | `█████████████` |
+| software-engineering | 960 | `█████████████` |
 | quant | 176 | `██` |
 | ai | 172 | `██` |
 | machine-learning | 127 | `██` |
@@ -166,6 +166,7 @@ _Generated 2026-08-15_
 - General Motors — Research and Development Intern - Research & Development: AI/ML
 - Global Infrastructure — Alternative Delivery Project Analytics Intern
 - Golden Pet Brands — Data Analytics Intern
+- Goldman Sachs — Quantitative Strategist Associate Intern - Asset and Wealth Management
 - Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
 - Goldman Sachs — Summer Analyst Intern - Wealth Management - Product Management and Design
 - Goldman Sachs — Summer Associate Intern - Multiple Teams
@@ -184,7 +185,6 @@ _Generated 2026-08-15_
 - Inogen — Firmware Engineer Intern
 - Integrity — Research Intern
 - Intel — AI Software Engineer Intern
-- Intel — Physical Design Engineer Intern
 - KBR — Software Intern
 - Keysight Technologies — R&D Software Engineer Intern
 - Keysight Technologies — Software Engineer Intern - R&D - FPGA
@@ -215,6 +215,7 @@ _Generated 2026-08-15_
 - National Laboratory of the Rockies — Graduate Intern - Transportation Systems Analysis
 - Nationwide Children's Hospital — Research Intern
 - NBT Bank — Data Warehouse & Analytics Intern
+- Netflix — AI/ML Scientist Intern - AIMS AI Foundations
 - Nokia — Electromechanical Assembly Co-op Intern - Intern
 - North Cloud — AI Automation Intern
 - Northrop Grumman — Software Engineer Intern - Aeronautics Systems
@@ -236,6 +237,7 @@ _Generated 2026-08-15_
 - Richemont — Sustainability Transformation Analyst Intern
 - Rivian — Research Park Intern - Embedded Software
 - Rivian — UIUC Research Park Intern - Computational Methods Development
+- RLI — Product Management Intern
 - Rockwell Automation — Applied AI Intern
 - Rockwell Automation — Applied AI Intern
 - Rockwell Automation — Firmware Engineering Intern
@@ -261,6 +263,7 @@ _Generated 2026-08-15_
 - Sargent & Lundy — Software Engineer Intern
 - Saronic — Enterprise Technology Intern - AI and Automation
 - Saronic — Software Engineer Intern
+- Schweitzer Engineering Laboratories — Test Engineer Intern
 - Sentara Health — Data & AI Finance Strategy Intern
 - Signify — Product Management Intern
 - Smiths Detection Group — Commercial Intern - Commercial Tools & Business Intelligence

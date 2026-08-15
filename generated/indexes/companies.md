@@ -249,7 +249,7 @@
 | [Global Partners](../companies/global-partners.md) | 1/1 | software-engineering |
 | [GoDaddy](../companies/godaddy.md) | 1/1 | software-engineering |
 | [Golden Pet Brands](../companies/golden-pet-brands.md) | 0/1 | software-engineering |
-| [Goldman Sachs](../companies/goldman-sachs.md) | 1/4 | product, quant, software-engineering |
+| [Goldman Sachs](../companies/goldman-sachs.md) | 0/4 | product, quant, software-engineering |
 | [Google](../companies/google.md) | 1/5 | software-engineering |
 | [Grant Thornton](../companies/grant-thornton.md) | 2/2 | software-engineering |
 | [Gritt Robotics Inc](../companies/gritt-robotics-inc.md) | 1/1 | software-engineering |
@@ -298,12 +298,12 @@
 | [Instacart](../companies/instacart.md) | 0/2 | machine-learning |
 | [Integra FEC](../companies/integra-fec.md) | 4/4 | data-science, software-engineering |
 | [Integrity](../companies/integrity.md) | 0/1 | research |
-| [Intel](../companies/intel.md) | 0/4 | ai, design |
+| [Intel](../companies/intel.md) | 1/4 | ai, design |
 | [Intel Corporation](../companies/intel-corporation.md) | 0/1 | ai |
 | [IntelliGenesis](../companies/intelligenesis.md) | 1/1 | data-science |
 | [Interco](../companies/interco.md) | 1/1 | software-engineering |
 | [Intercontinental Exchange, Inc.](../companies/intercontinental-exchange-inc.md) | 1/1 | machine-learning |
-| [Interdigital](../companies/interdigital.md) | 2/2 | software-engineering |
+| [Interdigital](../companies/interdigital.md) | 1/1 | software-engineering |
 | [International Rescue Committee (IRC)](../companies/international-rescue-committee-irc.md) | 2/2 | research, software-engineering |
 | [Intuitive Surgical](../companies/intuitive-surgical.md) | 1/1 | software-engineering |
 | [JINGDONG](../companies/jingdong.md) | 0/1 | software-engineering |
@@ -388,7 +388,7 @@
 | [Nelnet](../companies/nelnet.md) | 1/1 | ai |
 | [NeoCognition](../companies/neocognition.md) | 1/1 | research |
 | [NeoSigma](../companies/neosigma.md) | 2/2 | software-engineering |
-| [Netflix](../companies/netflix.md) | 2/2 | machine-learning, software-engineering |
+| [Netflix](../companies/netflix.md) | 1/2 | machine-learning, software-engineering |
 | [Netic](../companies/netic.md) | 4/4 | software-engineering |
 | [Netsmart](../companies/netsmart.md) | 1/1 | software-engineering |
 | [Neuralink](../companies/neuralink.md) | 20/21 | cloud, design, embedded, hardware, machine-learning, software-engineering |
@@ -461,7 +461,7 @@
 | [Quadrillion Labs](../companies/quadrillion-labs.md) | 1/1 | software-engineering |
 | [Quantbot Technologies](../companies/quantbot-technologies.md) | 6/7 | machine-learning, quant, software-engineering |
 | [RFCUNY](../companies/rfcuny.md) | 2/2 | software-engineering |
-| [RLI](../companies/rli.md) | 1/1 | product |
+| [RLI](../companies/rli.md) | 0/1 | product |
 | [ROCKWOOL Group](../companies/rockwool-group.md) | 0/2 | product, software-engineering |
 | [RRS Group](../companies/rrs-group.md) | 2/2 | software-engineering |
 | [RTX](../companies/rtx.md) | 23/33 | design, machine-learning, software-engineering |
@@ -505,7 +505,7 @@
 | [Saronic](../companies/saronic.md) | 0/2 | ai, software-engineering |
 | [Scale AI](../companies/scale-ai.md) | 3/3 | ai, software-engineering |
 | [SchoolMint](../companies/schoolmint.md) | 1/1 | software-engineering |
-| [Schweitzer Engineering Laboratories](../companies/schweitzer-engineering-laboratories.md) | 4/6 | ai, software-engineering |
+| [Schweitzer Engineering Laboratories](../companies/schweitzer-engineering-laboratories.md) | 3/6 | ai, software-engineering |
 | [SciTec](../companies/scitec.md) | 1/1 | software-engineering |
 | [Seaspan](../companies/seaspan.md) | 0/2 | software-engineering |
 | [Sentara Health](../companies/sentara-health.md) | 0/2 | ai |

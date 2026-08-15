@@ -6,7 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
-| RLI | [Product Management Intern](https://wd1.myworkdaysite.com/recruiting/rlicorp/RLI_Corp_Careers/job/Honolulu-HI/Product-Management-Intern--Honolulu--HI_R1646) | Honolulu, HI | Onsite | 2026-08-10 | Rolling | 🟢 Open | ❔ |
+| RLI | [Product Management Intern](https://wd1.myworkdaysite.com/recruiting/rlicorp/RLI_Corp_Careers/job/Honolulu-HI/Product-Management-Intern--Honolulu--HI_R1646) | Honolulu, HI | Onsite | 2026-08-10 | Rolling | 🔴 Closed | ❔ |
 
 ## Related
 
