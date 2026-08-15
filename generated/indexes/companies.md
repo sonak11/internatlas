@@ -249,7 +249,7 @@
 | [Global Partners](../companies/global-partners.md) | 1/1 | software-engineering |
 | [GoDaddy](../companies/godaddy.md) | 1/1 | software-engineering |
 | [Golden Pet Brands](../companies/golden-pet-brands.md) | 0/1 | software-engineering |
-| [Goldman Sachs](../companies/goldman-sachs.md) | 2/4 | product, quant, software-engineering |
+| [Goldman Sachs](../companies/goldman-sachs.md) | 1/4 | product, quant, software-engineering |
 | [Google](../companies/google.md) | 1/5 | software-engineering |
 | [Grant Thornton](../companies/grant-thornton.md) | 2/2 | software-engineering |
 | [Gritt Robotics Inc](../companies/gritt-robotics-inc.md) | 1/1 | software-engineering |
@@ -298,7 +298,7 @@
 | [Instacart](../companies/instacart.md) | 0/2 | machine-learning |
 | [Integra FEC](../companies/integra-fec.md) | 4/4 | data-science, software-engineering |
 | [Integrity](../companies/integrity.md) | 0/1 | research |
-| [Intel](../companies/intel.md) | 1/4 | ai, design |
+| [Intel](../companies/intel.md) | 0/4 | ai, design |
 | [Intel Corporation](../companies/intel-corporation.md) | 0/1 | ai |
 | [IntelliGenesis](../companies/intelligenesis.md) | 1/1 | data-science |
 | [Interco](../companies/interco.md) | 1/1 | software-engineering |

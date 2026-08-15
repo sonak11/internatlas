@@ -168,6 +168,7 @@ _Generated 2026-08-15_
 - Golden Pet Brands — Data Analytics Intern
 - Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
 - Goldman Sachs — Summer Analyst Intern - Wealth Management - Product Management and Design
+- Goldman Sachs — Summer Associate Intern - Multiple Teams
 - Gulfstream — Computer Science Intern - Advanced Structures and Materials
 - Harris Computer — Software Development Intern
 - Hendrick Motorsports — Project and Race Support Engineer Internship
@@ -183,6 +184,7 @@ _Generated 2026-08-15_
 - Inogen — Firmware Engineer Intern
 - Integrity — Research Intern
 - Intel — AI Software Engineer Intern
+- Intel — Physical Design Engineer Intern
 - KBR — Software Intern
 - Keysight Technologies — R&D Software Engineer Intern
 - Keysight Technologies — Software Engineer Intern - R&D - FPGA
