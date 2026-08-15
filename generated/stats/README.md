@@ -105,7 +105,7 @@ _Generated 2026-08-15_
 - Brunswick — Software Engineer Intern
 - ByteDance — Research Scientist Intern
 - Canva — PhD Research Scientist Intern - Generative AI
-- Canva — PhD Research Scientist Intern - Reinforcement Learning for Diffusion Modelling
+- Canva — PhD Research Scientist Intern - Reinforcement Learning - Images
 - Capital One — Technology Intern
 - Centerfield — Product Manager Intern
 - Ciena — Optical Modem Hardware Intern
