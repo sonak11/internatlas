@@ -581,7 +581,7 @@
 | [Trend Micro](../companies/trend-micro.md) | 1/1 | research |
 | [Trillium](../companies/trillium.md) | 4/4 | software-engineering |
 | [True Anomaly](../companies/true-anomaly.md) | 1/1 | software-engineering |
-| [Truist Bank](../companies/truist-bank.md) | 1/4 | quant, software-engineering |
+| [Truist Bank](../companies/truist-bank.md) | 0/4 | quant, software-engineering |
 | [Truland Equipment](../companies/truland-equipment.md) | 0/1 | software-engineering |
 | [Tuckernuck](../companies/tuckernuck.md) | 1/1 | product |
 | [Turabify](../companies/turabify.md) | 1/1 | ai |

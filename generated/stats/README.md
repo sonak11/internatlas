@@ -307,6 +307,7 @@ _Generated 2026-08-15_
 - Truist Bank — Analyst Intern Conversion - Multiple Teams
 - Truist Bank — Analyst Intern - Equity Research - Sales, Trading & Research
 - Truist Bank — Fixed Income Loans S&T Intern - Sales, Trading & Research - Analyst Program
+- Truist Bank — Technology and Operations Intern Conversion - Data
 - Truland Equipment — Power Platform Intern
 - Two Six Technologies — China Subject Matter Expert Intern
 - University of Virginia — Graduate Research Intern

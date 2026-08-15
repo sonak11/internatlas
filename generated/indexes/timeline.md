@@ -1275,7 +1275,6 @@
 - Trillium — [Equity Trader Intern](https://www.trlm.com/apply/5076003007?gh_jid=5076003007)
 - Trillium — [Software Engineer Intern - Summer 2027](https://www.trlm.com/apply/5207089007?gh_jid=5207089007)
 - True Anomaly — [GSE Engineering Intern](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5210059007)
-- Truist Bank — [Technology and Operations Intern Conversion - Data](https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Charlotte-NC/XMLNAME-2027-Technology--Data--and-Operations-Internship---Intern-Conversion-_R0117276)
 - Tuckernuck — [Product Management Intern](https://tnuck.bamboohr.com/careers/273/)
 - Turabify — [AI Automation Intern](https://apply.workable.com/turabify-co/j/0B50CC0D49/apply)
 - Two Sigma — [AI Research Scientist Intern - 2027 Summer](https://twosigma.avature.net/careers/JobDetail/14096)
