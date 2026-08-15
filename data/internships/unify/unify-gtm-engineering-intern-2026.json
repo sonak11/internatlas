@@ -1,0 +1,51 @@
+{
+  "schema_version": "1.0",
+  "id": "unify-gtm-engineering-intern-2026",
+  "company": {
+    "name": "Unify",
+    "slug": "unify"
+  },
+  "role": "GTM Engineering Intern",
+  "category": "software-engineering",
+  "apply_url": "https://jobs.ashbyhq.com/unify/6a5b351f-8893-435f-951f-2458b24b6d3c/application?embed=true",
+  "season": "fall",
+  "year": 2026,
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "SF",
+      "country": "USA"
+    }
+  ],
+  "compensation": {
+    "currency": "USD",
+    "housing_stipend": false,
+    "relocation_assistance": false
+  },
+  "eligibility": {
+    "graduation_years": [],
+    "degree_levels": [],
+    "citizenship_required": false,
+    "security_clearance_required": false,
+    "visa_sponsorship": "unknown"
+  },
+  "interview": {},
+  "tech": {
+    "required_skills": [],
+    "preferred_skills": [],
+    "languages": [],
+    "frameworks": [],
+    "cloud_platforms": [],
+    "resume_keywords": []
+  },
+  "dates": {
+    "posted": "2026-08-15",
+    "discovered": "2026-08-15",
+    "last_verified": "2026-08-15"
+  },
+  "status": "open",
+  "tags": [
+    "auto-ingested",
+    "src:simplify"
+  ]
+}

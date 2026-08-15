@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🔩 Hardware Internships
 
-**77** tracked · **62** open now
+**78** tracked · **63** open now
 
 ## Current openings
 
@@ -19,6 +19,7 @@
 | [ByteDance](generated/companies/bytedance.md) | [ASIC Design Engineer Intern - Video Silicon IP](https://jobs.bytedance.com/en/position/7670332179383699717/detail) | San Jose, CA | Onsite | 2026-08-06 | Rolling | 🟢 Open | ❔ |
 | [Citadel Securities](generated/companies/citadel-securities.md) | [FPGA Engineer Intern](https://www.citadelsecurities.com/careers/details/fpga-engineer-intern-us/) | Miami, FL +1 | Onsite | 2026-07-06 | Rolling | 🟢 Open | ❔ |
 | [DRW](generated/companies/drw.md) | [FPGA Intern](https://www.drw.com/work-at-drw/listings/fpga-intern-3484423) | Chicago, IL | Onsite | 2026-07-31 | Rolling | 🟢 Open | ✅ |
+| [Epia Neuro](generated/companies/epia-neuro.md) | [Hardware Engineer Intern](https://jobs.ashbyhq.com/epianeuro/62d296e8-16c4-4403-8af5-629e97f7f7fe/application?embed=true) | Alameda, CA | Onsite | 2026-08-15 | Rolling | 🟢 Open | ❔ |
 | [Figure](generated/companies/figure.md) | [Hardware Reliability Intern](https://job-boards.greenhouse.io/figureai/jobs/4613067006) | San Jose, CA | Onsite | 2026-06-23 | Rolling | 🟢 Open | ❔ |
 | [Formlabs](generated/companies/formlabs.md) | [Hardware R&D Engineer Intern](https://careers.formlabs.com/job/8097694/apply/?gh_jid=8097694) | Cambridge, MA | Onsite | 2026-07-30 | Rolling | 🟢 Open | ❔ |
 | [Hermeus](generated/companies/hermeus.md) | [Flight Software Engineering Intern](https://jobs.lever.co/hermeus/51378fa0-0327-45fd-9420-b6e7d8b56440) | Atlanta, GA | Onsite | 2026-03-06 | Rolling | 🟢 Open | ❌ |
@@ -106,6 +107,7 @@
 - Amentum (1)
 - Citadel Securities (1)
 - DRW (1)
+- Epia Neuro (1)
 - Figure (1)
 - HPR (Hyannis Port Research) (1)
 - IMC (1)

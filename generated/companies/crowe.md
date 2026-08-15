@@ -8,7 +8,12 @@
 |---|---|---|---|---|---|---|---|
 | Crowe | [AI Engineering Intern](https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/AI-Engineering-Intern_R-51782) | Chicago, IL | Onsite | 2026-08-13 | Rolling | 🟢 Open | ❔ |
 | Crowe | [AI Functional Intern - Consulting Practice](https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/AI-Functional-Intern_R-71008) | Chicago, IL | Onsite | 2026-08-13 | Rolling | 🟢 Open | ❔ |
+| Crowe | [D365 ERP Technical Intern - Consulting Practice](https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/D365-ERP-Technical-Intern_R-71039) | Chicago, IL | Onsite | 2026-08-14 | Rolling | 🟢 Open | ❔ |
+| Crowe | [Data Analytics Developer Intern - Consulting Practice](https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/Data-Analytics-Developer-Intern_R-71041) | Chicago, IL | Onsite | 2026-08-14 | Rolling | 🟢 Open | ❔ |
+| Crowe | [Data Consultant Intern](https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/Data-Consultant-Intern_R-71042) | Chicago, IL | Onsite | 2026-08-14 | Rolling | 🟢 Open | ❔ |
+| Crowe | [NetSuite Implementation Intern - Consulting Practice](https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/NetSuite-Implementation-Intern_R-71040) | Chicago, IL | Onsite | 2026-08-14 | Rolling | 🟢 Open | ❔ |
+| Crowe | [ServiceNow Implementation Intern - ServiceNow Cloud Solutions](https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/ServiceNow-Implementation-Intern_R-71036) | Chicago, IL | Onsite | 2026-08-14 | Rolling | 🟢 Open | ❔ |
 
 ## Related
 
-Browse more roles in: [🤖 AI](../categories/ai.md)
+Browse more roles in: [🤖 AI](../categories/ai.md), [☁️ Cloud](../categories/cloud.md), [💻 Software Engineering](../categories/software-engineering.md)
