@@ -6,6 +6,7 @@
 |---|---|---|---|---|---|---|---|
 | [1X](generated/companies/1x.md) | [AI Residency Intern](https://jobs.ashbyhq.com/1x/5b2b4c73-13b5-46ca-8467-8024741a4b57/application) | San Carlos, CA | Onsite | 2026-07-07 | Rolling | 🟢 Open | ❔ |
 | [AARP](generated/companies/aarp.md) | [Data Science and Advanced Analytics Intern](https://careers.aarp.org/jobs/7437?icims=1) | Washington, DC | Onsite | 2026-08-14 | Rolling | 🟢 Open | ❔ |
+| [Abridge](generated/companies/abridge.md) | [Software Engineer Intern](https://jobs.ashbyhq.com/abridge/3f07a457-dc14-4238-bf4e-5c33b5c1f883/application?embed=true) | SF +1 | Onsite | 2026-08-15 | Rolling | 🟢 Open | ❔ |
 | [AcreTrader](generated/companies/acretrader.md) | [Data Intern](https://ats.rippling.com/acretrader-jobs/jobs/e0192aa0-bd65-4262-81ed-d64685c7dc41) | Fayetteville, AR | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
 | [AlixPartners](generated/companies/alixpartners.md) | [Data Scientist Intern](https://www.alixpartners.com/careers/7725335003?gh_jid=7725335003) | NYC | Onsite | 2026-07-06 | Rolling | 🟢 Open | ❔ |
 | [Altice USA](generated/companies/altice-usa.md) | [Data Engineer Intern](https://www.optimumcareers.com/job/Long-Island-City-Intern-Data-Engineer-NY-11101/1414286700/?ats=successfactors) | Long Island City | Onsite | 2026-07-31 | Rolling | 🟢 Open | ❔ |
@@ -125,6 +126,7 @@
 | [Flexion Robotics](generated/companies/flexion-robotics.md) | [Research Intern](https://apply.workable.com/flexion-robotics/j/8FF540773C/apply) | SF | Onsite | 2026-08-08 | Rolling | 🟢 Open | ❔ |
 | [Foxconn Industrial Internet](generated/companies/foxconn-industrial-internet.md) | [Data Visualization & Analytics Intern - Engineering](http://foxconnggroup.applytojob.com/apply/VZnsanT4LU/Engineering-Data-Visualization-Analytics-Intern) | Houston, TX | Onsite | 2026-08-11 | Rolling | 🟢 Open | ❔ |
 | [Foxconn Industrial Internet](generated/companies/foxconn-industrial-internet.md) | [Software Engineer Intern - Engineering and Operations](http://foxconnggroup.applytojob.com/apply/xf0soVofyI/Software-Engineering-Intern) | Houston, TX | Onsite | 2026-08-11 | Rolling | 🟢 Open | ❔ |
+| [Freeform](generated/companies/freeform.md) | [Software Engineer Intern - Summer 2027](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7872198003) | LA | Onsite | 2026-08-15 | Rolling | 🟢 Open | ❔ |
 | [FTI Consulting](generated/companies/fti-consulting.md) | [Technology Intern](https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/United-States/XMLNAME-2027-Intern---Technology_JR260339-1) | Houston, TX +9 | Onsite | 2026-07-27 | Rolling | 🟢 Open | ❔ |
 | [FTI Consulting](generated/companies/fti-consulting.md) | [Technology Intern - Technology](https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareersPrivate/job/United-States/XMLNAME-2027-Intern---Technology_JR260339) | Houston, TX +6 | Onsite | 2026-07-27 | Rolling | 🟢 Open | ❔ |
 | [G-Research](generated/companies/g-research.md) | [Data Science Intern](https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Data-Science-Internship_R3679) | London | Onsite | 2026-07-23 | Rolling | 🟢 Open | ❔ |

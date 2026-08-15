@@ -33,13 +33,13 @@ _Generated 2026-08-15_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 956 | `█████████████` |
-| quant | 174 | `██` |
+| software-engineering | 960 | `█████████████` |
+| quant | 176 | `██` |
 | ai | 172 | `██` |
 | machine-learning | 127 | `██` |
 | research | 97 | `█` |
 | hardware | 78 | `█` |
-| product | 53 | `█` |
+| product | 54 | `█` |
 | embedded | 48 | `█` |
 | cloud | 40 | `█` |
 | design | 37 | `█` |
@@ -49,10 +49,17 @@ _Generated 2026-08-15_
 
 ## Newest listings
 
+- 2026-08-15 — **Abridge**: [Software Engineer Intern](https://jobs.ashbyhq.com/abridge/3f07a457-dc14-4238-bf4e-5c33b5c1f883/application?embed=true)
 - 2026-08-15 — **ByteDance**: [Software Engineer Intern - Global Payment Infra and SRE](https://jobs.bytedance.com/en/position/7668315137242351925/detail)
 - 2026-08-15 — **ByteDance**: [Software Engineer Intern - Global Traffic Architecture](https://jobs.bytedance.com/en/position/7672557061679483189/detail)
 - 2026-08-15 — **ByteDance**: [Software Engineer Intern - Traffic Infrastructure](https://jobs.bytedance.com/en/position/7672626707586746629/detail)
 - 2026-08-15 — **Epia Neuro**: [Hardware Engineer Intern](https://jobs.ashbyhq.com/epianeuro/62d296e8-16c4-4403-8af5-629e97f7f7fe/application?embed=true)
+- 2026-08-15 — **Freeform**: [Software Engineer Intern - Summer 2027](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7872198003)
+- 2026-08-15 — **Goldman Sachs**: [Quantitative Strategist Associate Intern - Asset and Wealth Management](https://higher.gs.com/roles/175423?type=students)
+- 2026-08-15 — **Goldman Sachs**: [Quantitative Strategist Intern - Multiple Teams](https://higher.gs.com/roles/175424?type=students)
+- 2026-08-15 — **Goldman Sachs**: [Summer Analyst Intern - Wealth Management - Product Management and Design](https://higher.gs.com/roles/170935?type=students)
+- 2026-08-15 — **Goldman Sachs**: [Summer Associate Intern - Multiple Teams](https://higher.gs.com/roles/171566?type=students)
+- 2026-08-15 — **Hypercubic**: [Software Engineering Intern](https://jobs.ashbyhq.com/hypercubic/ab7a23f9-7280-4443-b442-2813dc39d490/application?embed=true)
 - 2026-08-15 — **Notion**: [Software Engineer Intern - Summer 2027](https://jobs.ashbyhq.com/notion/3fba1c39-c5cb-47d7-9ad2-1cec4d7e9d0c/application?embed=true)
 - 2026-08-15 — **Notion**: [Software Engineer Intern - Winter 2027](https://jobs.ashbyhq.com/notion/e66c6658-9e65-4c58-8db2-844628b6e8f8/application?embed=true)
 - 2026-08-15 — **Unify**: [GTM Engineering Intern](https://jobs.ashbyhq.com/unify/6a5b351f-8893-435f-951f-2458b24b6d3c/application?embed=true)
@@ -62,13 +69,6 @@ _Generated 2026-08-15_
 - 2026-08-14 — **Analytical Mechanics Associates**: [Computer Science/Engineering Intern - Computer Vision Applications](https://amainc.wd12.myworkdayjobs.com/ama_careers/job/Hampton-VA/Computer-Science-Engineering-Intern---Computer-Vision-Applications_R-100731)
 - 2026-08-14 — **Arevon**: [Data Science Intern - Interconnection & Transmission](https://job-boards.greenhouse.io/arevonenergyimpltest/jobs/5211455007)
 - 2026-08-14 — **Arlington County VA**: [Business Intelligence Intern](https://fa-exkk-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1727)
-- 2026-08-14 — **Baker Hughes**: [Benefit Tool Developer Intern - Month Fixed Term Contract](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/GB-AC-ABERDEEN-BAKER-HUGHES-BUILDING/Intern---Benefit-Tool-Developer--12-Month-Fixed-Term-Contract-_R168066)
-- 2026-08-14 — **Bank of China USA**: [Data Analytics Audit Intern](https://careers-bocusa.icims.com/jobs/4114/job?mobile=true&needsRedirect=false)
-- 2026-08-14 — **Bank of China USA**: [Enterprise Risk Management Risk Data Aggregation Intern](https://careers-bocusa.icims.com/jobs/4326/job?mobile=true&needsRedirect=false)
-- 2026-08-14 — **Bank of China USA**: [Risk Data Aggregation Intern - Enterprise Risk Management Department](https://careers-bocusa.icims.com/jobs/4470/job?mobile=true&needsRedirect=false)
-- 2026-08-14 — **BerryDunn**: [Consulting Intern - Healthcare Data Management and Strategy](https://careers-berrydunn.icims.com/jobs/3973/job?mobile=true&needsRedirect=false)
-- 2026-08-14 — **BP**: [Geoscience Intern - Geoscientist](https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers/job/United-States-of-America---Texas---Houston/Summer-Intern---Geoscientist---Houston-TX_RQ114816)
-- 2026-08-14 — **ByteDance**: [ASIC Design Engineer Intern - Video Silicon IP](https://jobs.bytedance.com/en/position/7673638856678279429/detail)
 
 ## Recently closed
 

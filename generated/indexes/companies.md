@@ -15,6 +15,7 @@
 | [ASM International](../companies/asm-international.md) | 1/1 | software-engineering |
 | [ASML](../companies/asml.md) | 1/1 | software-engineering |
 | [AVEVA](../companies/aveva.md) | 0/1 | software-engineering |
+| [Abridge](../companies/abridge.md) | 1/1 | software-engineering |
 | [Abundant](../companies/abundant.md) | 1/1 | research |
 | [Accenture](../companies/accenture.md) | 0/2 | software-engineering |
 | [AcreTrader](../companies/acretrader.md) | 1/1 | software-engineering |
@@ -223,7 +224,7 @@
 | [Forus](../companies/forus.md) | 1/1 | software-engineering |
 | [Four Hands](../companies/four-hands.md) | 1/1 | software-engineering |
 | [Foxconn Industrial Internet](../companies/foxconn-industrial-internet.md) | 2/2 | software-engineering |
-| [Freeform](../companies/freeform.md) | 0/1 | software-engineering |
+| [Freeform](../companies/freeform.md) | 1/2 | software-engineering |
 | [Frontier Health](../companies/frontier-health.md) | 1/1 | research |
 | [Fussball Club Cincinnati LLC (“FC Cincinnati”)](../companies/fussball-club-cincinnati-llc-fc-cincinnati.md) | 1/1 | software-engineering |
 | [G-Research](../companies/g-research.md) | 4/4 | data-science, machine-learning, quant, software-engineering |
@@ -248,6 +249,7 @@
 | [Global Partners](../companies/global-partners.md) | 1/1 | software-engineering |
 | [GoDaddy](../companies/godaddy.md) | 1/1 | software-engineering |
 | [Golden Pet Brands](../companies/golden-pet-brands.md) | 0/1 | software-engineering |
+| [Goldman Sachs](../companies/goldman-sachs.md) | 4/4 | product, quant, software-engineering |
 | [Google](../companies/google.md) | 1/5 | software-engineering |
 | [Grant Thornton](../companies/grant-thornton.md) | 2/2 | software-engineering |
 | [Gritt Robotics Inc](../companies/gritt-robotics-inc.md) | 1/1 | software-engineering |
@@ -280,6 +282,7 @@
 | [Hudson River Trading](../companies/hudson-river-trading.md) | 5/5 | quant, software-engineering |
 | [Human Computer Lab](../companies/human-computer-lab.md) | 1/1 | machine-learning |
 | [HyperLight](../companies/hyperlight.md) | 2/2 | software-engineering |
+| [Hypercubic](../companies/hypercubic.md) | 1/1 | software-engineering |
 | [IES Holdings](../companies/ies-holdings.md) | 1/1 | software-engineering |
 | [IMC](../companies/imc.md) | 4/4 | hardware, quant, software-engineering |
 | [IMC Trading](../companies/imc-trading.md) | 16/23 | hardware, machine-learning, quant |

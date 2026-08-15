@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 📈 Quant Internships
 
-**174** tracked · **153** open now
+**176** tracked · **155** open now
 
 ## Current openings
 
@@ -44,6 +44,8 @@
 | [Five Rings](generated/companies/five-rings.md) | [Summer Intern 2027 - Quantitative Trader](https://job-boards.greenhouse.io/fiveringsllc/jobs/5139668008) | New York | Onsite | 2026-07-14 | Rolling | 🟢 Open | ❔ |
 | [Flow Traders](generated/companies/flow-traders.md) | [Quantitative Trading Intern](https://job-boards.greenhouse.io/flowtraders/jobs/8047166) | NYC | Onsite | 2026-07-08 | Rolling | 🟢 Open | ❔ |
 | [G-Research](generated/companies/g-research.md) | [Quantitative Research Internship](https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Quant-Research-Internship_R3691) | London | Onsite | 2026-07-23 | Rolling | 🟢 Open | ❔ |
+| [Goldman Sachs](generated/companies/goldman-sachs.md) | [Quantitative Strategist Associate Intern - Asset and Wealth Management](https://higher.gs.com/roles/175423?type=students) | London | Onsite | 2026-08-15 | Rolling | 🟢 Open | ❔ |
+| [Goldman Sachs](generated/companies/goldman-sachs.md) | [Quantitative Strategist Intern - Multiple Teams](https://higher.gs.com/roles/175424?type=students) | London | Onsite | 2026-08-15 | Rolling | 🟢 Open | ❔ |
 | [Group 1001](generated/companies/group-1001.md) | [Quantitative Analysis Intern](https://group1001wd.wd5.myworkdayjobs.com/careers/job/Stamford-Connecticut/Quantitative-Analysis-Intern_R26_0405) | Stamford, CT | Onsite | 2026-07-23 | Rolling | 🟢 Open | ❔ |
 | [Hudson River Trading](generated/companies/hudson-river-trading.md) | [Algorithm Development Intern - Quant Research](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8059837) | NYC +1 | Onsite | 2026-07-13 | Rolling | 🟢 Open | ❔ |
 | [Hudson River Trading](generated/companies/hudson-river-trading.md) | [Algorithm Development Intern - Quant Research](https://www.hudsonrivertrading.com/careers/job/?gh_jid=7964062) | NYC +1 | Onsite | 2026-07-13 | Rolling | 🟢 Open | ❔ |
@@ -208,6 +210,7 @@
 - Chevron Corporation (2)
 - Citadel (2)
 - Five Rings (2)
+- Goldman Sachs (2)
 - Hudson River Trading (2)
 - IMC (2)
 - Point72 (2)

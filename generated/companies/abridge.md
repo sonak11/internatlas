@@ -1,13 +1,12 @@
 <!-- ⚠️ AUTO-GENERATED FILE — do not edit by hand.
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
-# Freeform
+# Abridge
 
 ## Current openings
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
-| Freeform | [Software Engineer Intern - Summer 2027](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7872198003) | LA | Onsite | 2026-08-15 | Rolling | 🟢 Open | ❔ |
-| Freeform | [Process Engineer Intern](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7765271003) | LA | Onsite | 2026-06-09 | Rolling | 🔴 Closed | ❔ |
+| Abridge | [Software Engineer Intern](https://jobs.ashbyhq.com/abridge/3f07a457-dc14-4238-bf4e-5c33b5c1f883/application?embed=true) | SF +1 | Onsite | 2026-08-15 | Rolling | 🟢 Open | ❔ |
 
 ## Related
 

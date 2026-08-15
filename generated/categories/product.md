@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🧭 Product Internships
 
-**53** tracked · **38** open now
+**54** tracked · **39** open now
 
 ## Current openings
 
@@ -18,6 +18,7 @@
 | [Chamberlain Group](generated/companies/chamberlain-group.md) | [Community Product Management Intern - Summer 2027](https://chamberlain.wd1.myworkdayjobs.com/Chamberlain_Group/job/Oak-Brook-IL/Intern--Community-Product-Management--Summer-2026-_JR31309) | Oak Brook, IL | Onsite | 2026-08-10 | Rolling | 🟢 Open | ❔ |
 | [Databricks](generated/companies/databricks.md) | [Product Management Intern](https://boards.greenhouse.io/embed/job_app?token=6883068002) | SF +2 | Onsite | 2026-07-16 | Rolling | 🟢 Open | ❔ |
 | [Databricks](generated/companies/databricks.md) | [Product Management Intern (Summer 2027)](https://databricks.com/company/careers/open-positions/job?gh_jid=6883068002) | Bellevue | Onsite | 2023-08-17 | Rolling | 🟢 Open | ❔ |
+| [Goldman Sachs](generated/companies/goldman-sachs.md) | [Summer Analyst Intern - Wealth Management - Product Management and Design](https://higher.gs.com/roles/170935?type=students) | London | Onsite | 2026-08-15 | Rolling | 🟢 Open | ❔ |
 | [Medline](generated/companies/medline.md) | [MBA Intern - Product Management](https://medline.wd5.myworkdayjobs.com/en-US/Medline/job/Northfield-Illinois/MBA-Intern--Product-Management---Summer-2027_R2615805) | Chicago, IL +1 | Onsite | 2026-08-07 | Rolling | 🟢 Open | ❔ |
 | [Microsoft](generated/companies/microsoft.md) | [Product Manager Intern](https://apply.careers.microsoft.com/careers/job/1970393556953113) | Remote | Remote | 2026-08-04 | Rolling | 🟢 Open | ❔ |
 | [Naver U.Hub INC](generated/companies/naver-u-hub-inc.md) | [Product Management Intern](https://naveruhubinc.applytojob.com/apply/snw35vU7eX/ThingsBook-Product-Management-Intern) | Redwood City, CA | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
@@ -75,6 +76,7 @@
 - Salesforce (2)
 - Bosch Home Comfort (1)
 - Chamberlain Group (1)
+- Goldman Sachs (1)
 - Medline (1)
 - Microsoft (1)
 - Naver U.Hub INC (1)

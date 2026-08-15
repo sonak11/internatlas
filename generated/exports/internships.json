@@ -1,6 +1,6 @@
 {
   "generated": "2026-08-15",
-  "count": 1846,
+  "count": 1853,
   "internships": [
     {
       "schema_version": "1.0",
@@ -270,6 +270,63 @@
       "tags": [
         "auto-ingested",
         "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "abridge-software-engineer-intern-2026",
+      "company": {
+        "name": "Abridge",
+        "slug": "abridge"
+      },
+      "role": "Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://jobs.ashbyhq.com/abridge/3f07a457-dc14-4238-bf4e-5c33b5c1f883/application?embed=true",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "SF",
+          "country": "USA"
+        },
+        {
+          "city": "NYC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-15",
+        "discovered": "2026-08-15",
+        "last_verified": "2026-08-15"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
       ]
     },
     {
@@ -29921,6 +29978,60 @@
     },
     {
       "schema_version": "1.0",
+      "id": "freeform-software-engineer-intern-summer-2027-2027",
+      "company": {
+        "name": "Freeform",
+        "slug": "freeform"
+      },
+      "role": "Software Engineer Intern - Summer 2027",
+      "category": "software-engineering",
+      "apply_url": "https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7872198003",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "state": "LA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters",
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-15",
+        "discovered": "2026-08-15",
+        "last_verified": "2026-08-15"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "frontier-health-applied-scientist-research-engineer-intern-2026",
       "company": {
         "name": "Frontier Health",
@@ -32298,6 +32409,214 @@
         "last_verified": "2026-08-12"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "goldman-sachs-quantitative-strategist-associate-intern-asset-and-wealth-ma-2027",
+      "company": {
+        "name": "Goldman Sachs",
+        "slug": "goldman-sachs"
+      },
+      "role": "Quantitative Strategist Associate Intern - Asset and Wealth Management",
+      "category": "quant",
+      "apply_url": "https://higher.gs.com/roles/175423?type=students",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "London",
+          "country": "UK"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-15",
+        "discovered": "2026-08-15",
+        "last_verified": "2026-08-15"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "goldman-sachs-quantitative-strategist-intern-multiple-teams-2027",
+      "company": {
+        "name": "Goldman Sachs",
+        "slug": "goldman-sachs"
+      },
+      "role": "Quantitative Strategist Intern - Multiple Teams",
+      "category": "quant",
+      "apply_url": "https://higher.gs.com/roles/175424?type=students",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "London",
+          "country": "UK"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-15",
+        "discovered": "2026-08-15",
+        "last_verified": "2026-08-15"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "goldman-sachs-summer-analyst-intern-wealth-management-product-management-a-2027",
+      "company": {
+        "name": "Goldman Sachs",
+        "slug": "goldman-sachs"
+      },
+      "role": "Summer Analyst Intern - Wealth Management - Product Management and Design",
+      "category": "product",
+      "apply_url": "https://higher.gs.com/roles/170935?type=students",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "London",
+          "country": "UK"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-15",
+        "discovered": "2026-08-15",
+        "last_verified": "2026-08-15"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "goldman-sachs-summer-associate-intern-multiple-teams-2027",
+      "company": {
+        "name": "Goldman Sachs",
+        "slug": "goldman-sachs"
+      },
+      "role": "Summer Associate Intern - Multiple Teams",
+      "category": "software-engineering",
+      "apply_url": "https://higher.gs.com/roles/171566?type=students",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "NYC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-15",
+        "discovered": "2026-08-15",
+        "last_verified": "2026-08-15"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -35604,6 +35923,57 @@
       "dates": {
         "posted": "2026-07-01",
         "discovered": "2026-07-17",
+        "last_verified": "2026-08-15"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "hypercubic-software-engineering-intern-2026",
+      "company": {
+        "name": "Hypercubic",
+        "slug": "hypercubic"
+      },
+      "role": "Software Engineering Intern",
+      "category": "software-engineering",
+      "apply_url": "https://jobs.ashbyhq.com/hypercubic/ab7a23f9-7280-4443-b442-2813dc39d490/application?embed=true",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "SF",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-15",
+        "discovered": "2026-08-15",
         "last_verified": "2026-08-15"
       },
       "status": "open",

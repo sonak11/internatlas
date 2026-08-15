@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 💻 Software Engineering Internships
 
-**956** tracked · **670** open now
+**960** tracked · **674** open now
 
 ## Current openings
 
@@ -10,6 +10,7 @@
 |---|---|---|---|---|---|---|---|
 | [1X](generated/companies/1x.md) | [CNC Machine Park Intern](https://jobs.ashbyhq.com/1x/e7b4aaf5-5c55-4e2f-abcd-5c250657bede/application?embed=true) | San Carlos, CA | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
 | [ABB](generated/companies/abb.md) | [Application Engineering Intern](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Alpharetta-Georgia-United-States-of-America/Application-Engineering-Intern---Fall-2026_JR00038999) | Alpharetta, GA +1 | Onsite | 2026-07-10 | Rolling | 🟢 Open | ❌ |
+| [Abridge](generated/companies/abridge.md) | [Software Engineer Intern](https://jobs.ashbyhq.com/abridge/3f07a457-dc14-4238-bf4e-5c33b5c1f883/application?embed=true) | SF +1 | Onsite | 2026-08-15 | Rolling | 🟢 Open | ❔ |
 | [AcreTrader](generated/companies/acretrader.md) | [Data Intern](https://ats.rippling.com/acretrader-jobs/jobs/e0192aa0-bd65-4262-81ed-d64685c7dc41) | Fayetteville, AR | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
 | [Akuna Capital](generated/companies/akuna-capital.md) | [Python Software Engineer Intern](https://akunacapital.com/careers/job/8018853/?gh_jid=8018853) | Chicago, IL | Onsite | 2026-07-13 | Rolling | 🟢 Open | ❌ |
 | [Akuna Capital](generated/companies/akuna-capital.md) | [Software Engineer Intern, C# .NET Desktop](https://akunacapital.com/careers/job/8018886/?gh_jid=8018886) | Chicago, IL | Onsite | 2026-07-13 | Rolling | 🟢 Open | ❔ |
@@ -210,6 +211,7 @@
 | [Four Hands](generated/companies/four-hands.md) | [Product Development Intern](https://job-boards.greenhouse.io/fourhands/jobs/4272048009) | Austin, TX | Onsite | 2026-06-08 | Rolling | 🟢 Open | ❔ |
 | [Foxconn Industrial Internet](generated/companies/foxconn-industrial-internet.md) | [Data Visualization & Analytics Intern - Engineering](http://foxconnggroup.applytojob.com/apply/VZnsanT4LU/Engineering-Data-Visualization-Analytics-Intern) | Houston, TX | Onsite | 2026-08-11 | Rolling | 🟢 Open | ❔ |
 | [Foxconn Industrial Internet](generated/companies/foxconn-industrial-internet.md) | [Software Engineer Intern - Engineering and Operations](http://foxconnggroup.applytojob.com/apply/xf0soVofyI/Software-Engineering-Intern) | Houston, TX | Onsite | 2026-08-11 | Rolling | 🟢 Open | ❔ |
+| [Freeform](generated/companies/freeform.md) | [Software Engineer Intern - Summer 2027](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7872198003) | LA | Onsite | 2026-08-15 | Rolling | 🟢 Open | ❔ |
 | [FTI Consulting](generated/companies/fti-consulting.md) | [Technology Intern](https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/United-States/XMLNAME-2027-Intern---Technology_JR260339-1) | Houston, TX +9 | Onsite | 2026-07-27 | Rolling | 🟢 Open | ❔ |
 | [FTI Consulting](generated/companies/fti-consulting.md) | [Technology Intern - Technology](https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareersPrivate/job/United-States/XMLNAME-2027-Intern---Technology_JR260339) | Houston, TX +6 | Onsite | 2026-07-27 | Rolling | 🟢 Open | ❔ |
 | [Fussball Club Cincinnati LLC (“FC Cincinnati”)](generated/companies/fussball-club-cincinnati-llc-fc-cincinnati.md) | [Academy Performance Analyst Intern - Academy Performance Analysis](https://job-boards.greenhouse.io/fccincinnati/jobs/7741524003) | Cincinnati, OH | Onsite | 2026-05-20 | Rolling | 🟢 Open | ❔ |
@@ -226,6 +228,7 @@
 | [Genworth Financial](generated/companies/genworth-financial.md) | [IT Development Program Intern - IT Development Program](https://gnw.wd1.myworkdayjobs.com/GNW/job/Richmond-Virginia/Genworth-IT-Development-Program-Intern---Summer-2027_REQ-260269-1) | Richmond, VA | Onsite | 2026-07-31 | Rolling | 🟢 Open | ❔ |
 | [Global Partners](generated/companies/global-partners.md) | [Advanced Analytics Intern](https://global.wd1.myworkdayjobs.com/globalpartnerscareers/job/Newton-Office/Advanced-Analytics-Intern_R0031779) | Newton, MA | Onsite | 2026-08-10 | Rolling | 🟢 Open | ❔ |
 | [GoDaddy](generated/companies/godaddy.md) | [Software Development Engineer Intern](https://job-boards.greenhouse.io/eventsandinterns/jobs/7820942003) | Tempe, AZ | Onsite | 2026-07-30 | Rolling | 🟢 Open | ❔ |
+| [Goldman Sachs](generated/companies/goldman-sachs.md) | [Summer Associate Intern - Multiple Teams](https://higher.gs.com/roles/171566?type=students) | NYC | Onsite | 2026-08-15 | Rolling | 🟢 Open | ❔ |
 | [Google](generated/companies/google.md) | [Software Engineering Intern](https://www.google.com/about/careers/applications/jobs/results/85564713261245126-software-engineering-intern-bs-summer-2027) | Mountain View, CA +29 | Onsite | 2026-07-24 | Rolling | 🟢 Open | ❔ |
 | [Grant Thornton](generated/companies/grant-thornton.md) | [Tax Technology Intern - Summer 2027](https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/114405) | Bellevue, WA | Onsite | 2026-02-11 | Rolling | 🟢 Open | ❔ |
 | [Grant Thornton](generated/companies/grant-thornton.md) | [Tax Technology Intern - Summer 2027](https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/114404) | Dallas, TX | Onsite | 2026-02-11 | Rolling | 🟢 Open | ❔ |
@@ -253,6 +256,7 @@
 | [Hudson River Trading](generated/companies/hudson-river-trading.md) | [Intern](https://www.hudsonrivertrading.com/hrt-job/algorithm-development-quant-research-internship-summer-2027/) | New York, NY | Onsite | 2026-07-24 | Rolling | 🟢 Open | ❔ |
 | [Hudson River Trading](generated/companies/hudson-river-trading.md) | [Software Engineer Intern](https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-c-or-python-summer-2027/) | Austin, TX +2 | Onsite | 2026-07-24 | Rolling | 🟢 Open | ❔ |
 | [Hudson River Trading](generated/companies/hudson-river-trading.md) | [Software Engineer Intern - C++ or Python](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8052083) | Austin, TX +2 | Onsite | 2026-07-13 | Rolling | 🟢 Open | ❔ |
+| [Hypercubic](generated/companies/hypercubic.md) | [Software Engineering Intern](https://jobs.ashbyhq.com/hypercubic/ab7a23f9-7280-4443-b442-2813dc39d490/application?embed=true) | SF | Onsite | 2026-08-15 | Rolling | 🟢 Open | ❔ |
 | [HyperLight](generated/companies/hyperlight.md) | [Integrated Photonics Intern](https://apply.workable.com/hyperlight/j/498D9988C8/apply) | Cambridge, MA | Onsite | 2026-08-08 | Rolling | 🟢 Open | ❔ |
 | [HyperLight](generated/companies/hyperlight.md) | [Software Engineer Intern](https://apply.workable.com/hyperlight/j/5581EA0668/) | Cambridge, MA | Onsite | 2026-07-27 | Rolling | 🟢 Open | ❔ |
 | [IES Holdings](generated/companies/ies-holdings.md) | [Data Analytics Intern](https://joinus.ies-co.com/jobs/24176?icims=1) | Manitowoc, WI | Onsite | 2026-08-12 | Rolling | 🟢 Open | ❔ |
@@ -1057,6 +1061,7 @@
 - DV Trading (2)
 - Fiserv (2)
 - Foxconn Industrial Internet (2)
+- Freeform (2)
 - FTI Consulting (2)
 - Gemini (2)
 - General Dynamics Information Technology (2)
@@ -1136,6 +1141,7 @@
 - Walleye Capital (2)
 - 1X (1)
 - ABB (1)
+- Abridge (1)
 - AcreTrader (1)
 - Al Warren Oil Company (1)
 - Alayacare (1)
@@ -1212,6 +1218,7 @@
 - Genworth Financial (1)
 - Global Partners (1)
 - GoDaddy (1)
+- Goldman Sachs (1)
 - Gritt Robotics Inc (1)
 - GuideWell Mutual (1)
 - Gulf Management (1)
@@ -1224,6 +1231,7 @@
 - Howmet Aerospace (1)
 - HPR (Hyannis Port Research) (1)
 - Hubs.is (1)
+- Hypercubic (1)
 - IES Holdings (1)
 - IMC (1)
 - Inbulks (1)
@@ -1354,7 +1362,6 @@
 - Evonik (1)
 - Exclusive Networks (1)
 - Exploration Technology Corp. (1)
-- Freeform (1)
 - Gartner (1)
 - GE Aerospace (1)
 - GE Appliances (1)

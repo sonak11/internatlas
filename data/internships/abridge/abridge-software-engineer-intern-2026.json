@@ -1,0 +1,57 @@
+{
+  "schema_version": "1.0",
+  "id": "abridge-software-engineer-intern-2026",
+  "company": {
+    "name": "Abridge",
+    "slug": "abridge"
+  },
+  "role": "Software Engineer Intern",
+  "category": "software-engineering",
+  "apply_url": "https://jobs.ashbyhq.com/abridge/3f07a457-dc14-4238-bf4e-5c33b5c1f883/application?embed=true",
+  "season": "fall",
+  "year": 2026,
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "SF",
+      "country": "USA"
+    },
+    {
+      "city": "NYC",
+      "country": "USA"
+    }
+  ],
+  "compensation": {
+    "currency": "USD",
+    "housing_stipend": false,
+    "relocation_assistance": false
+  },
+  "eligibility": {
+    "graduation_years": [],
+    "degree_levels": [
+      "masters"
+    ],
+    "citizenship_required": false,
+    "security_clearance_required": false,
+    "visa_sponsorship": "unknown"
+  },
+  "interview": {},
+  "tech": {
+    "required_skills": [],
+    "preferred_skills": [],
+    "languages": [],
+    "frameworks": [],
+    "cloud_platforms": [],
+    "resume_keywords": []
+  },
+  "dates": {
+    "posted": "2026-08-15",
+    "discovered": "2026-08-15",
+    "last_verified": "2026-08-15"
+  },
+  "status": "open",
+  "tags": [
+    "auto-ingested",
+    "src:simplify"
+  ]
+}

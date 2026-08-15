@@ -1,8 +1,9 @@
 # 📬 InternAtlas Weekly Digest — 2026-08-15
 
-## 🆕 New this week (277)
+## 🆕 New this week (284)
 
 - **AARP** — [Data Science and Advanced Analytics Intern](https://careers.aarp.org/jobs/7437?icims=1) · data-science · —
+- **Abridge** — [Software Engineer Intern](https://jobs.ashbyhq.com/abridge/3f07a457-dc14-4238-bf4e-5c33b5c1f883/application?embed=true) · software-engineering · —
 - **Altamira Technologies** — [Research and Development Intern](https://jobs.jobvite.com/altamiracorps/job/oHqCAfw3?nl=1&nl=1&fr=false) · research · —
 - **Altamira Technologies** — [Software Development Intern](https://jobs.jobvite.com/altamiracorps/job/oMqCAfw8?nl=1&nl=1&fr=false) · software-engineering · —
 - **Altera Corporation** — [Embedded Solutions Intern](https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Embedded-Solutions-Intern_R02832) · embedded · —
@@ -81,12 +82,17 @@
 - **Flexion Robotics** — [Research Intern](https://apply.workable.com/flexion-robotics/j/8FF540773C/apply) · research · —
 - **Foxconn Industrial Internet** — [Data Visualization & Analytics Intern - Engineering](http://foxconnggroup.applytojob.com/apply/VZnsanT4LU/Engineering-Data-Visualization-Analytics-Intern) · software-engineering · —
 - **Foxconn Industrial Internet** — [Software Engineer Intern - Engineering and Operations](http://foxconnggroup.applytojob.com/apply/xf0soVofyI/Software-Engineering-Intern) · software-engineering · —
+- **Freeform** — [Software Engineer Intern - Summer 2027](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7872198003) · software-engineering · —
 - **GE Vernova** — [Engineering Intern](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Niskayuna/Engineering-Intern---Power-Conversion---Storage-AI-Tool-Developer--2027_R5049957-2) · software-engineering · —
 - **GE Vernova** — [Engineering Intern](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Niskayuna/Engineering-Intern---Power-Conversion---Storage-AI-Tool-Developer--2027_R5049957-1) · software-engineering · —
 - **Gartner** — [Data Analyst Intern](https://gartner.wd5.myworkdayjobs.com/EXT/job/Irving-TX/Data-Analyst-Internship--2028-Graduates-_113297) · software-engineering · —
 - **Generac** — [Firmware Engineering Intern](https://generac.wd5.myworkdayjobs.com/en-US/external/job/Reno-NV---USA/Intern-Firmware-Engineering_JR16149) · embedded · —
 - **General Dynamics Mission Systems** — [Cybersecurity Software Engineer Intern](https://careers-gdms.icims.com/jobs/74257/job?mobile=true&needsRedirect=false) · security · —
 - **Global Partners** — [Advanced Analytics Intern](https://global.wd1.myworkdayjobs.com/globalpartnerscareers/job/Newton-Office/Advanced-Analytics-Intern_R0031779) · software-engineering · —
+- **Goldman Sachs** — [Quantitative Strategist Associate Intern - Asset and Wealth Management](https://higher.gs.com/roles/175423?type=students) · quant · —
+- **Goldman Sachs** — [Quantitative Strategist Intern - Multiple Teams](https://higher.gs.com/roles/175424?type=students) · quant · —
+- **Goldman Sachs** — [Summer Analyst Intern - Wealth Management - Product Management and Design](https://higher.gs.com/roles/170935?type=students) · product · —
+- **Goldman Sachs** — [Summer Associate Intern - Multiple Teams](https://higher.gs.com/roles/171566?type=students) · software-engineering · —
 - **GuideWell Mutual** — [Enterprise Analytics Intern](http://fa-etum-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41879) · software-engineering · —
 - **Gulfstream** — [Computer Science Intern - Advanced Structures and Materials](https://careers.gulfstream.com/job/Savannah-Summer-2027-IEF-Advanced-Structures-and-Materials-(ASMI)-College-Associate-Intern-GA-31401/1417869000/?ats=successfactors) · software-engineering · —
 - **HNTB** — [Strategic Technology Intern - SED Division](https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/Tallahassee-FL/Strategic-Technology-Intern---Summer-2027--SED-Division--For-Current-Former-HNTB-Interns-Only-_R-31092) · software-engineering · —
@@ -95,6 +101,7 @@
 - **Hershey** — [Product Development Intern - R&D](https://careers.thehersheycompany.com/job/Hershey-Future-Opportunities-Product-Development-Intern-R&D-(Summer-2027)-PA-17033/1419784700/?ats=successfactors) · software-engineering · —
 - **Howmet Aerospace** — [Engineering Intern](https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/118908) · software-engineering · —
 - **HyperLight** — [Integrated Photonics Intern](https://apply.workable.com/hyperlight/j/498D9988C8/apply) · software-engineering · —
+- **Hypercubic** — [Software Engineering Intern](https://jobs.ashbyhq.com/hypercubic/ab7a23f9-7280-4443-b442-2813dc39d490/application?embed=true) · software-engineering · —
 - **IES Holdings** — [Data Analytics Intern](https://joinus.ies-co.com/jobs/24176?icims=1) · software-engineering · —
 - **IMC Trading** — [Quant Research Intern 2027](https://job-boards.eu.greenhouse.io/imc/jobs/4941208101) · quant · —
 - **IMC Trading** — [Software Engineer Intern 2027](https://job-boards.eu.greenhouse.io/imc/jobs/4941206101) · quant · —
