@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "copart-software-engineer-intern-2026-b163bc",
+  "id": "rtx-software-engineer-intern-2027-4ad42d",
   "company": {
-    "name": "Copart",
-    "slug": "copart"
+    "name": "RTX",
+    "slug": "rtx"
   },
   "role": "Software Engineer Intern",
   "category": "software-engineering",
-  "apply_url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR110079",
-  "season": "fall",
-  "year": 2026,
+  "apply_url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Software-Engineering-Intern--Summer-2027-_01865808",
+  "season": "summer",
+  "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Dallas",
-      "state": "TX",
+      "city": "East Hartford",
+      "state": "CT",
       "country": "USA"
     }
   ],
@@ -25,7 +25,9 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "masters"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -40,8 +42,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-20",
-    "discovered": "2026-07-21",
+    "posted": "2026-08-14",
+    "discovered": "2026-08-15",
     "last_verified": "2026-08-15"
   },
   "status": "open",

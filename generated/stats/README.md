@@ -12,7 +12,7 @@ _Generated 2026-08-15_
 | Tesla | 110 |
 | ByteDance | 51 |
 | Jump Trading | 43 |
-| RTX | 32 |
+| RTX | 33 |
 | Cloudflare | 29 |
 | SpaceX | 25 |
 | IMC Trading | 23 |
@@ -33,7 +33,7 @@ _Generated 2026-08-15_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 960 | `█████████████` |
+| software-engineering | 961 | `█████████████` |
 | quant | 176 | `██` |
 | ai | 172 | `██` |
 | machine-learning | 127 | `██` |
@@ -135,7 +135,6 @@ _Generated 2026-08-15_
 - ConocoPhillips — GIS Intern
 - Copart — Data Engineer Intern
 - Copart — Software Engineer Intern
-- Copart — Software Engineer Intern
 - Copart — Technology Product Analyst Intern
 - Cotiviti — Agentic AI Research Intern
 - Definity Financial — Data Analyst Co-op/Intern
@@ -167,10 +166,8 @@ _Generated 2026-08-15_
 - General Motors — Research and Development Intern - Research & Development: AI/ML
 - Global Infrastructure — Alternative Delivery Project Analytics Intern
 - Golden Pet Brands — Data Analytics Intern
-- Goldman Sachs — Quantitative Strategist Associate Intern - Asset and Wealth Management
 - Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
 - Goldman Sachs — Summer Analyst Intern - Wealth Management - Product Management and Design
-- Goldman Sachs — Summer Associate Intern - Multiple Teams
 - Gulfstream — Computer Science Intern - Advanced Structures and Materials
 - Harris Computer — Software Development Intern
 - Hendrick Motorsports — Project and Race Support Engineer Internship
@@ -250,6 +247,7 @@ _Generated 2026-08-15_
 - RTX — Software Engineer Intern
 - RTX — Software Engineer Intern
 - RTX — Software Engineer Intern
+- RTX — Software Engineer Intern - Summer 2027
 - RTX — Software Engineer Intern - Summer 2027
 - RTX — Software Engineer Intern - Summer 2027
 - RTX — Validation Engineer Intern - Product Safety - Certification & Validation

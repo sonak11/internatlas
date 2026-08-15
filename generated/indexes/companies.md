@@ -148,7 +148,7 @@
 | [ConocoPhillips](../companies/conocophillips.md) | 1/2 | quant, software-engineering |
 | [Consensus Cloud Solutions](../companies/consensus-cloud-solutions.md) | 0/1 | software-engineering |
 | [Constellation Space](../companies/constellation-space.md) | 1/1 | machine-learning |
-| [Copart](../companies/copart.md) | 4/11 | data-engineering, software-engineering |
+| [Copart](../companies/copart.md) | 5/11 | data-engineering, software-engineering |
 | [Core & Main](../companies/core-main.md) | 1/1 | machine-learning |
 | [Cotiviti](../companies/cotiviti.md) | 1/2 | ai |
 | [Crowe](../companies/crowe.md) | 7/7 | ai, cloud, software-engineering |
@@ -249,7 +249,7 @@
 | [Global Partners](../companies/global-partners.md) | 1/1 | software-engineering |
 | [GoDaddy](../companies/godaddy.md) | 1/1 | software-engineering |
 | [Golden Pet Brands](../companies/golden-pet-brands.md) | 0/1 | software-engineering |
-| [Goldman Sachs](../companies/goldman-sachs.md) | 0/4 | product, quant, software-engineering |
+| [Goldman Sachs](../companies/goldman-sachs.md) | 2/4 | product, quant, software-engineering |
 | [Google](../companies/google.md) | 1/5 | software-engineering |
 | [Grant Thornton](../companies/grant-thornton.md) | 2/2 | software-engineering |
 | [Gritt Robotics Inc](../companies/gritt-robotics-inc.md) | 1/1 | software-engineering |
@@ -464,7 +464,7 @@
 | [RLI](../companies/rli.md) | 1/1 | product |
 | [ROCKWOOL Group](../companies/rockwool-group.md) | 0/2 | product, software-engineering |
 | [RRS Group](../companies/rrs-group.md) | 2/2 | software-engineering |
-| [RTX](../companies/rtx.md) | 23/32 | design, machine-learning, software-engineering |
+| [RTX](../companies/rtx.md) | 23/33 | design, machine-learning, software-engineering |
 | [Radix Trading](../companies/radix-trading.md) | 1/1 | quant |
 | [Rainmaker](../companies/rainmaker.md) | 0/1 | software-engineering |
 | [Rakuten International](../companies/rakuten-international.md) | 0/1 | software-engineering |
