@@ -211,6 +211,7 @@ _Generated 2026-08-15_
 - Microsoft — Software Engineer Security & Identity Intern
 - Midmark — Firmware Engineering Intern/Co-op
 - Mistral AI — AI Data Solutions Intern - Data Partnerships
+- Mobius Renewables — Software Engineer Intern
 - Moss & Associates — Construction Technologies Intern
 - National Laboratory of the Rockies — Graduate Intern - Transportation Systems Analysis
 - Nationwide Children's Hospital — Research Intern
