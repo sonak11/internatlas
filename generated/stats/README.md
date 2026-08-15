@@ -33,7 +33,7 @@ _Generated 2026-08-15_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 960 | `█████████████` |
+| software-engineering | 961 | `█████████████` |
 | quant | 181 | `██` |
 | ai | 172 | `██` |
 | machine-learning | 127 | `██` |
@@ -105,7 +105,7 @@ _Generated 2026-08-15_
 - Brunswick — Software Engineer Intern
 - ByteDance — Research Scientist Intern
 - Canva — PhD Research Scientist Intern - Generative AI
-- Canva — PhD Research Scientist Intern - Reinforcement Learning - Images
+- Canva — PhD Research Scientist Intern - Reinforcement Learning for Diffusion Modelling
 - Capital One — Technology Intern
 - Centerfield — Product Manager Intern
 - Ciena — Optical Modem Hardware Intern
@@ -156,6 +156,7 @@ _Generated 2026-08-15_
 - Fab2 — Embedded Software Engineer Intern
 - Fab2 — Packaging Engineer Intern
 - Fab2 — Software Engineer Intern
+- First American — Software Engineer Intern
 - Formlabs — Hardware Systems Integration Intern
 - Gartner — Data Analyst Intern
 - GE Appliances — Engineering Intern/Co-op
@@ -166,6 +167,15 @@ _Generated 2026-08-15_
 - General Motors — Research and Development Intern - Research & Development: AI/ML
 - Global Infrastructure — Alternative Delivery Project Analytics Intern
 - Golden Pet Brands — Data Analytics Intern
+- Goldman Sachs — Quantitative Strategist Associate Intern - Asset and Wealth Management
+- Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
+- Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
+- Goldman Sachs — Summer Analyst Intern - FICC and Equities - Sales and Trading
+- Goldman Sachs — Summer Analyst Intern - FICC & Equities - Sales & Trading
+- Goldman Sachs — Summer Analyst Intern - Wealth Management - Product Management and Design
+- Goldman Sachs — Summer Associate Intern - Multiple Teams
 - Gulfstream — Computer Science Intern - Advanced Structures and Materials
 - Harris Computer — Software Development Intern
 - Hendrick Motorsports — Project and Race Support Engineer Internship

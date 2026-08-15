@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 💻 Software Engineering Internships
 
-**960** tracked · **671** open now
+**961** tracked · **670** open now
 
 ## Current openings
 
@@ -202,7 +202,6 @@
 | [Figma](generated/companies/figma.md) | [Software Engineer Intern - Winter 2027](https://boards.greenhouse.io/figma/jobs/6131089004) | SF +1 | Onsite | 2026-08-10 | Rolling | 🟢 Open | ❔ |
 | [Figure](generated/companies/figure.md) | [Special Projects Intern](https://job-boards.greenhouse.io/figureai/jobs/4694889006) | San Jose, CA | Onsite | 2026-07-07 | Rolling | 🟢 Open | ❔ |
 | [Firetiger](generated/companies/firetiger.md) | [Product Engineer Intern/Co-op](https://jobs.ashbyhq.com/firetiger/7acf0768-f10d-4650-bcfc-12ed6e5d7cfc/application?embed=true) | SF | Onsite | 2026-07-21 | Rolling | 🟢 Open | ❔ |
-| [First American](generated/companies/first-american.md) | [Software Engineer Intern](https://firstam.wd1.myworkdayjobs.com/firstamericancareers/job/USA-California-Remote/Software-Engineering-Intern_R058260) | California | Onsite | 2026-08-14 | Rolling | 🟢 Open | ❔ |
 | [First Bank & Trust](generated/companies/first-bank-trust.md) | [SharePoint/Power Platform Intern - SharePoint - Power Platform](https://bankeasy.wd5.myworkdayjobs.com/bank-easy-job-openings/job/Brookings-SD-East/SharePoint-Power-Platform-Intern_R-100780) | Brookings, SD | Onsite | 2026-07-28 | Rolling | 🟢 Open | ❔ |
 | [Fiserv](generated/companies/fiserv.md) | [Application Development Intern](https://careers.fiserv.com/us/en/job/FFFYJUSR10390264EXTERNALENUS/Application-Development-Summer-Intern?jr_id=69e6ab177820c036924d1dc6) | Alpharetta, GA | Onsite | 2026-04-20 | Rolling | 🟢 Open | ❌ |
 | [Fiserv](generated/companies/fiserv.md) | [Technology Intern](https://careers.fiserv.com/us/en/job/FFFYJUSR10390344EXTERNALENUS/Technology-Summer-Intern?jr_id=69e6ab5e3aa0c4796439589b) | Columbus, OH | Onsite | 2026-04-20 | Rolling | 🟢 Open | ❌ |
@@ -229,7 +228,6 @@
 | [Genworth Financial](generated/companies/genworth-financial.md) | [IT Development Program Intern - IT Development Program](https://gnw.wd1.myworkdayjobs.com/GNW/job/Richmond-Virginia/Genworth-IT-Development-Program-Intern---Summer-2027_REQ-260269-1) | Richmond, VA | Onsite | 2026-07-31 | Rolling | 🟢 Open | ❔ |
 | [Global Partners](generated/companies/global-partners.md) | [Advanced Analytics Intern](https://global.wd1.myworkdayjobs.com/globalpartnerscareers/job/Newton-Office/Advanced-Analytics-Intern_R0031779) | Newton, MA | Onsite | 2026-08-10 | Rolling | 🟢 Open | ❔ |
 | [GoDaddy](generated/companies/godaddy.md) | [Software Development Engineer Intern](https://job-boards.greenhouse.io/eventsandinterns/jobs/7820942003) | Tempe, AZ | Onsite | 2026-07-30 | Rolling | 🟢 Open | ❔ |
-| [Goldman Sachs](generated/companies/goldman-sachs.md) | [Summer Associate Intern - Multiple Teams](https://higher.gs.com/roles/171566?type=students) | NYC | Onsite | 2026-08-15 | Rolling | 🟢 Open | ❔ |
 | [Google](generated/companies/google.md) | [Software Engineering Intern](https://www.google.com/about/careers/applications/jobs/results/85564713261245126-software-engineering-intern-bs-summer-2027) | Mountain View, CA +29 | Onsite | 2026-07-24 | Rolling | 🟢 Open | ❔ |
 | [Grant Thornton](generated/companies/grant-thornton.md) | [Tax Technology Intern - Summer 2027](https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/114405) | Bellevue, WA | Onsite | 2026-02-11 | Rolling | 🟢 Open | ❔ |
 | [Grant Thornton](generated/companies/grant-thornton.md) | [Tax Technology Intern - Summer 2027](https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/114404) | Dallas, TX | Onsite | 2026-02-11 | Rolling | 🟢 Open | ❔ |
@@ -438,6 +436,7 @@
 | [Redwood Materials](generated/companies/redwood-materials.md) | [Test Automation Engineer Intern](https://job-boards.greenhouse.io/redwoodmaterials/jobs/6126785004) | San Francisco, CA | Onsite | 2026-08-06 | Rolling | 🟢 Open | ❔ |
 | [Rendezvous Robotics](generated/companies/rendezvous-robotics.md) | [Software Engineering Intern](https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4328555009) | Golden, CO | Onsite | 2026-07-28 | Rolling | 🟢 Open | ❌ |
 | [Rendezvous Robotics](generated/companies/rendezvous-robotics.md) | [Software Engineering Intern, Spring 2027](https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4329122009) | Golden, CO | Onsite | 2026-07-28 | Rolling | 🟢 Open | ❌ |
+| [Replit](generated/companies/replit.md) | [Software Engineer Intern - Summer 2027](https://jobs.ashbyhq.com/replit/7e0dafe8-3eec-442e-aa76-a4d84d779fb1/application?embed=true) | Foster City, CA | Onsite | 2026-08-15 | Rolling | 🟢 Open | ❔ |
 | [ResponsiveAds](generated/companies/responsiveads.md) | [Full-Stack Developer Intern - ResponsiveAds - Studio 4](https://apply.workable.com/responsiveads-inc/j/493EAC12D6/apply) | Vancouver | Onsite | 2026-08-11 | Rolling | 🟢 Open | ❔ |
 | [Revise Robotics](generated/companies/revise-robotics.md) | [Engineer Intern](https://jobs.ashbyhq.com/reviserobotics/7b0426d4-cf8c-4fdf-98a8-5a0360706633/application?embed=true) | NYC | Onsite | 2026-07-21 | Rolling | 🟢 Open | ❔ |
 | [Reyes Beverage Group](generated/companies/reyes-beverage-group.md) | [Commercial Analytics Intern - Beverage Alliance Support](https://jobportal.reyesbeveragegroup.com/jobs/34578?icims=1) | Irvine, CA | Onsite | 2026-08-14 | Rolling | 🟢 Open | ❔ |
@@ -770,6 +769,7 @@
 | [Fab2](generated/companies/fab2.md) | [Packaging Engineer Intern](https://jobs.ashbyhq.com/fab2/4497473d-0ce0-4e83-88c3-2afedceac622/application?embed=true) | SF +1 | Onsite | 2026-07-21 | Rolling | 🔴 Closed | ❔ |
 | [Fab2](generated/companies/fab2.md) | [Rust Software Engineer Intern](https://jobs.ashbyhq.com/fab2/009d0819-c688-4ab9-8816-a3c7ab002470/application?embed=true) | SF +1 | Onsite | 2026-07-21 | Rolling | 🔴 Closed | ❔ |
 | [Fab2](generated/companies/fab2.md) | [Software Engineer Intern](https://jobs.ashbyhq.com/fab2/947338ca-e135-4398-9aa3-79e131bc03d5/application?embed=true) | SF | Onsite | 2026-07-21 | Rolling | 🔴 Closed | ❔ |
+| [First American](generated/companies/first-american.md) | [Software Engineer Intern](https://firstam.wd1.myworkdayjobs.com/firstamericancareers/job/USA-California-Remote/Software-Engineering-Intern_R058260) | California | Onsite | 2026-08-14 | Rolling | 🔴 Closed | ❔ |
 | [Formlabs](generated/companies/formlabs.md) | [Algorithms Software Intern](https://careers.formlabs.com/job/8060759/apply/?gh_jid=8060759) | Cambridge, MA | Onsite | 2026-07-16 | Rolling | 🔴 Closed | ❔ |
 | [Formlabs](generated/companies/formlabs.md) | [Manufacturing Test Software Intern](https://careers.formlabs.com/job/8021679/apply/?gh_jid=8021679) | Cambridge, MA | Onsite | 2026-06-23 | Rolling | 🔴 Closed | ❔ |
 | [Formlabs](generated/companies/formlabs.md) | [Supply Chain Operations Software Intern](https://careers.formlabs.com/job/8069676/apply/?gh_jid=8069676) | Cambridge, MA | Onsite | 2026-07-17 | Rolling | 🔴 Closed | ❔ |
@@ -787,6 +787,7 @@
 | [GeoComply](generated/companies/geocomply.md) | [Product Operations Intern](https://jobs.lever.co/geocomply-2/738b76bf-ad57-4831-ae8f-e2e44ff5e02b/apply) | Vancouver | Onsite | 2026-07-16 | Rolling | 🔴 Closed | ❔ |
 | [Global Infrastructure](generated/companies/global-infrastructure.md) | [Alternative Delivery Project Analytics Intern](https://gi.wd1.myworkdayjobs.com/Global_Infrastructure/job/US--IL--Chicago---200-South-Wacker-Drive/Alternative-Delivery-Project-Analytics-Intern_5963-1) | Chicago, IL | Onsite | 2026-07-07 | Rolling | 🔴 Closed | ❔ |
 | [Golden Pet Brands](generated/companies/golden-pet-brands.md) | [Data Analytics Intern](https://job-boards.greenhouse.io/goldenpetbrands/jobs/4713182005) | Remote | Remote | 2026-07-23 | Rolling | 🔴 Closed | ❔ |
+| [Goldman Sachs](generated/companies/goldman-sachs.md) | [Summer Associate Intern - Multiple Teams](https://higher.gs.com/roles/171566?type=students) | NYC | Onsite | 2026-08-15 | Rolling | 🔴 Closed | ❔ |
 | [Google](generated/companies/google.md) | [Software Developer Intern - BS](https://www.google.com/about/careers/applications/jobs/results/76982475250639558) | Montreal +2 | Onsite | 2026-07-20 | Rolling | 🔴 Closed | ❔ |
 | [Google](generated/companies/google.md) | [Software Developer Intern - MS](https://www.google.com/about/careers/applications/jobs/results/95423484271698630) | Montreal +2 | Onsite | 2026-07-20 | Rolling | 🔴 Closed | ❔ |
 | [Google](generated/companies/google.md) | [Software Engineer Intern](https://www.google.com/about/careers/applications/jobs/results/85564713261245126) | Palo Alto, CA +28 | Onsite | 2026-07-20 | Rolling | 🔴 Closed | ❔ |
@@ -1203,7 +1204,6 @@
 - Figma (1)
 - Figure (1)
 - Firetiger (1)
-- First American (1)
 - First Bank & Trust (1)
 - Five Rings (1)
 - Fluency (1)
@@ -1217,7 +1217,6 @@
 - Genworth Financial (1)
 - Global Partners (1)
 - GoDaddy (1)
-- Goldman Sachs (1)
 - Gritt Robotics Inc (1)
 - GuideWell Mutual (1)
 - Gulf Management (1)
@@ -1281,6 +1280,7 @@
 - Quadrillion Labs (1)
 - Ramp (1)
 - Redwood Materials (1)
+- Replit (1)
 - ResponsiveAds (1)
 - Revise Robotics (1)
 - Reyes Beverage Group (1)
@@ -1362,12 +1362,14 @@
 - Evonik (1)
 - Exclusive Networks (1)
 - Exploration Technology Corp. (1)
+- First American (1)
 - Gartner (1)
 - GE Aerospace (1)
 - GE Appliances (1)
 - GE Healthcare (1)
 - Global Infrastructure (1)
 - Golden Pet Brands (1)
+- Goldman Sachs (1)
 - Gulfstream (1)
 - Harris Computer (1)
 - Hitachi Energy (1)

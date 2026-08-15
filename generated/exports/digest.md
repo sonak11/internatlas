@@ -1,6 +1,6 @@
 # 📬 InternAtlas Weekly Digest — 2026-08-15
 
-## 🆕 New this week (291)
+## 🆕 New this week (292)
 
 - **AARP** — [Data Science and Advanced Analytics Intern](https://careers.aarp.org/jobs/7437?icims=1) · data-science · —
 - **Abridge** — [Software Engineer Intern](https://jobs.ashbyhq.com/abridge/3f07a457-dc14-4238-bf4e-5c33b5c1f883/application?embed=true) · software-engineering · —
@@ -214,6 +214,7 @@
 - **RTX** — [Software Engineering Intern](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineering-Intern--Summer-2027-_01866777) · software-engineering · —
 - **RTX** — [Software Engineering Intern - Summer 2027](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineering-Intern--Summer-2027-_01865875) · software-engineering · —
 - **RTX** — [Validation Engineer Intern - Product Safety - Certification & Validation](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CT-EAST-HARTFORD-J--400-Main-St--BLDG-J/Intern--Validation-Engineering---Product-Safety--Certification---Validation---Onsite-_01864406) · software-engineering · —
+- **Replit** — [Software Engineer Intern - Summer 2027](https://jobs.ashbyhq.com/replit/7e0dafe8-3eec-442e-aa76-a4d84d779fb1/application?embed=true) · software-engineering · —
 - **ResponsiveAds** — [Full-Stack Developer Intern - ResponsiveAds - Studio 4](https://apply.workable.com/responsiveads-inc/j/493EAC12D6/apply) · software-engineering · —
 - **Reyes Beverage Group** — [Commercial Analytics Intern - Beverage Alliance Support](https://jobportal.reyesbeveragegroup.com/jobs/34578?icims=1) · software-engineering · —
 - **Salesforce** — [Software Engineer Intern - Future Pathways](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-Intern---Future-Pathways_JR355842) · software-engineering · —

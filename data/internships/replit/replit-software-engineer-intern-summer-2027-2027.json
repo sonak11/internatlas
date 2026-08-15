@@ -1,19 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "goldman-sachs-quantitative-strategist-associate-intern-the-core-quantitati-2027",
+  "id": "replit-software-engineer-intern-summer-2027-2027",
   "company": {
-    "name": "Goldman Sachs",
-    "slug": "goldman-sachs"
+    "name": "Replit",
+    "slug": "replit"
   },
-  "role": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
-  "category": "quant",
-  "apply_url": "https://higher.gs.com/roles/171535?type=students",
+  "role": "Software Engineer Intern - Summer 2027",
+  "category": "software-engineering",
+  "apply_url": "https://jobs.ashbyhq.com/replit/7e0dafe8-3eec-442e-aa76-a4d84d779fb1/application?embed=true",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "NYC",
+      "city": "Foster City",
+      "state": "CA",
       "country": "USA"
     }
   ],
@@ -25,6 +26,7 @@
   "eligibility": {
     "graduation_years": [],
     "degree_levels": [
+      "masters",
       "phd"
     ],
     "citizenship_required": false,
@@ -45,7 +47,7 @@
     "discovered": "2026-08-15",
     "last_verified": "2026-08-15"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

@@ -213,7 +213,7 @@
 | [Figma](../companies/figma.md) | 2/2 | design, software-engineering |
 | [Figure](../companies/figure.md) | 3/3 | embedded, hardware, software-engineering |
 | [Firetiger](../companies/firetiger.md) | 1/1 | software-engineering |
-| [First American](../companies/first-american.md) | 1/1 | software-engineering |
+| [First American](../companies/first-american.md) | 0/1 | software-engineering |
 | [First Bank & Trust](../companies/first-bank-trust.md) | 1/1 | software-engineering |
 | [Fiserv](../companies/fiserv.md) | 2/2 | software-engineering |
 | [Five Rings](../companies/five-rings.md) | 3/3 | quant, software-engineering |
@@ -249,7 +249,7 @@
 | [Global Partners](../companies/global-partners.md) | 1/1 | software-engineering |
 | [GoDaddy](../companies/godaddy.md) | 1/1 | software-engineering |
 | [Golden Pet Brands](../companies/golden-pet-brands.md) | 0/1 | software-engineering |
-| [Goldman Sachs](../companies/goldman-sachs.md) | 9/9 | product, quant, software-engineering |
+| [Goldman Sachs](../companies/goldman-sachs.md) | 0/9 | product, quant, software-engineering |
 | [Google](../companies/google.md) | 1/5 | software-engineering |
 | [Grant Thornton](../companies/grant-thornton.md) | 2/2 | software-engineering |
 | [Gritt Robotics Inc](../companies/gritt-robotics-inc.md) | 1/1 | software-engineering |
@@ -473,6 +473,7 @@
 | [Red Bull](../companies/red-bull.md) | 1/1 | data-science |
 | [Redwood Materials](../companies/redwood-materials.md) | 2/2 | embedded, software-engineering |
 | [Rendezvous Robotics](../companies/rendezvous-robotics.md) | 2/2 | software-engineering |
+| [Replit](../companies/replit.md) | 1/1 | software-engineering |
 | [ResponsiveAds](../companies/responsiveads.md) | 1/1 | software-engineering |
 | [Revise Robotics](../companies/revise-robotics.md) | 1/1 | software-engineering |
 | [Revvity](../companies/revvity.md) | 0/2 | ai, product |
