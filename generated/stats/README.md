@@ -226,7 +226,6 @@ _Generated 2026-08-15_
 - Pennsylvania State University — AI/ML Research and Development Intern
 - Pennsylvania State University — Electronic Materials and Devices Engineer Intern - Electronic Materials and Devices
 - Pennsylvania State University — Research and Development Engineer Intern
-- Pennsylvania State University — Research Engineering Intern
 - Phlair — Working Student Intern - Control Team - Systems & Data Infrastructure
 - PIMCO — Client Solutions & Analytics Analyst Intern
 - Prophet — AI Engineer Intern - AI Foundry & Digital Growth
