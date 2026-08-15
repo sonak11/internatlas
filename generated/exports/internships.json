@@ -53287,7 +53287,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-15"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -61078,7 +61078,7 @@
         "discovered": "2026-07-25",
         "last_verified": "2026-08-15"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"

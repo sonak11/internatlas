@@ -388,7 +388,7 @@
 | [Nelnet](../companies/nelnet.md) | 1/1 | ai |
 | [NeoCognition](../companies/neocognition.md) | 1/1 | research |
 | [NeoSigma](../companies/neosigma.md) | 2/2 | software-engineering |
-| [Netflix](../companies/netflix.md) | 1/2 | machine-learning, software-engineering |
+| [Netflix](../companies/netflix.md) | 2/2 | machine-learning, software-engineering |
 | [Netic](../companies/netic.md) | 4/4 | software-engineering |
 | [Netsmart](../companies/netsmart.md) | 1/1 | software-engineering |
 | [Neuralink](../companies/neuralink.md) | 20/21 | cloud, design, embedded, hardware, machine-learning, software-engineering |
@@ -434,7 +434,7 @@
 | [PathAI](../companies/pathai.md) | 1/1 | machine-learning |
 | [Pendulum Intelligence](../companies/pendulum-intelligence.md) | 1/1 | product |
 | [PennState University](../companies/pennstate-university.md) | 1/1 | research |
-| [Pennsylvania State University](../companies/pennsylvania-state-university.md) | 1/6 | machine-learning, research, software-engineering |
+| [Pennsylvania State University](../companies/pennsylvania-state-university.md) | 0/6 | machine-learning, research, software-engineering |
 | [Pentair](../companies/pentair.md) | 1/1 | product |
 | [Persistent Systems](../companies/persistent-systems.md) | 1/2 | embedded, hardware |
 | [Persona AI](../companies/persona-ai.md) | 3/3 | machine-learning, software-engineering |

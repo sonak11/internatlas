@@ -215,7 +215,6 @@ _Generated 2026-08-15_
 - National Laboratory of the Rockies — Graduate Intern - Transportation Systems Analysis
 - Nationwide Children's Hospital — Research Intern
 - NBT Bank — Data Warehouse & Analytics Intern
-- Netflix — AI/ML Scientist Intern - AIMS AI Foundations
 - Nokia — Electromechanical Assembly Co-op Intern - Intern
 - North Cloud — AI Automation Intern
 - Northrop Grumman — Software Engineer Intern - Aeronautics Systems
@@ -227,6 +226,7 @@ _Generated 2026-08-15_
 - Pennsylvania State University — AI/ML Research and Development Intern
 - Pennsylvania State University — Electronic Materials and Devices Engineer Intern - Electronic Materials and Devices
 - Pennsylvania State University — Research and Development Engineer Intern
+- Pennsylvania State University — Research Engineering Intern
 - Phlair — Working Student Intern - Control Team - Systems & Data Infrastructure
 - PIMCO — Client Solutions & Analytics Analyst Intern
 - Prophet — AI Engineer Intern - AI Foundry & Digital Growth
