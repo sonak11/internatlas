@@ -249,7 +249,7 @@
 | [Global Partners](../companies/global-partners.md) | 1/1 | software-engineering |
 | [GoDaddy](../companies/godaddy.md) | 1/1 | software-engineering |
 | [Golden Pet Brands](../companies/golden-pet-brands.md) | 0/1 | software-engineering |
-| [Goldman Sachs](../companies/goldman-sachs.md) | 0/9 | product, quant, software-engineering |
+| [Goldman Sachs](../companies/goldman-sachs.md) | 9/9 | product, quant, software-engineering |
 | [Google](../companies/google.md) | 1/5 | software-engineering |
 | [Grant Thornton](../companies/grant-thornton.md) | 2/2 | software-engineering |
 | [Gritt Robotics Inc](../companies/gritt-robotics-inc.md) | 1/1 | software-engineering |
@@ -441,6 +441,7 @@
 | [Phlair](../companies/phlair.md) | 0/1 | cloud |
 | [Phonely](../companies/phonely.md) | 2/2 | software-engineering |
 | [Phonic](../companies/phonic.md) | 1/1 | machine-learning |
+| [Photon](../companies/photon.md) | 1/1 | ai |
 | [Picton Mahoney Asset Management](../companies/picton-mahoney-asset-management.md) | 2/2 | quant, software-engineering |
 | [Pika](../companies/pika.md) | 1/1 | research |
 | [Pinterest](../companies/pinterest.md) | 3/4 | machine-learning, software-engineering |
