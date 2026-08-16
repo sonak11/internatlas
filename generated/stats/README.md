@@ -256,6 +256,7 @@ _Generated 2026-08-16_
 - Sony Music Entertainment — Insight & Analytics Intern
 - Sony Pictures Entertainment — Graduate Intern - Advanced Technologies
 - Sony Pictures Entertainment — Insights Intern - Multiple Teams
+- SOTI — Associate Product Manager Intern
 - SpaceX — Engineering Intern
 - SpaceX — Fall 2026 Business Operations Internship/Co-op
 - SpaceX — Fall 2026 Engineering Internship/Co-op
