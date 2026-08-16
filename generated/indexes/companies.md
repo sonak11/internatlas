@@ -197,7 +197,7 @@
 | [Epia Neuro](../companies/epia-neuro.md) | 1/1 | hardware |
 | [Epic Games](../companies/epic-games.md) | 4/4 | machine-learning, software-engineering |
 | [Eragon](../companies/eragon.md) | 1/1 | ai |
-| [Eridu AI](../companies/eridu-ai.md) | 0/1 | software-engineering |
+| [Eridu AI](../companies/eridu-ai.md) | 1/1 | software-engineering |
 | [Etched](../companies/etched.md) | 12/14 | cloud, embedded, software-engineering |
 | [Ether.fi](../companies/ether-fi.md) | 1/1 | software-engineering |
 | [Evonik](../companies/evonik.md) | 0/1 | software-engineering |
@@ -249,7 +249,7 @@
 | [Global Partners](../companies/global-partners.md) | 1/1 | software-engineering |
 | [GoDaddy](../companies/godaddy.md) | 1/1 | software-engineering |
 | [Golden Pet Brands](../companies/golden-pet-brands.md) | 0/1 | software-engineering |
-| [Goldman Sachs](../companies/goldman-sachs.md) | 0/9 | product, quant, software-engineering |
+| [Goldman Sachs](../companies/goldman-sachs.md) | 7/9 | product, quant, software-engineering |
 | [Google](../companies/google.md) | 1/5 | software-engineering |
 | [Grant Thornton](../companies/grant-thornton.md) | 2/2 | software-engineering |
 | [Gritt Robotics Inc](../companies/gritt-robotics-inc.md) | 1/1 | software-engineering |
