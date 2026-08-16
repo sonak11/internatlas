@@ -34,7 +34,7 @@ _Generated 2026-08-16_
 | Category | Count | Share |
 |---|---|---|
 | software-engineering | 961 | `█████████████` |
-| quant | 181 | `██` |
+| quant | 180 | `██` |
 | ai | 173 | `██` |
 | machine-learning | 127 | `██` |
 | research | 97 | `█` |
@@ -60,7 +60,6 @@ _Generated 2026-08-16_
 - 2026-08-15 — **Freeform**: [Software Engineer Intern - Summer 2027](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7872198003)
 - 2026-08-15 — **Goldman Sachs**: [Quantitative Strategist Associate Intern - Asset and Wealth Management](https://higher.gs.com/roles/175423?type=students)
 - 2026-08-15 — **Goldman Sachs**: [Quantitative Strategist Associate Intern - The Core Quantitative Strats](https://higher.gs.com/roles/175427?type=students)
-- 2026-08-15 — **Goldman Sachs**: [Quantitative Strategist Associate Intern - The Core Quantitative Strats](https://higher.gs.com/roles/171535?type=students)
 - 2026-08-15 — **Goldman Sachs**: [Quantitative Strategist Intern - Multiple Teams](https://higher.gs.com/roles/175424?type=students)
 - 2026-08-15 — **Goldman Sachs**: [Quantitative Strategist Intern - Multiple Teams](https://higher.gs.com/roles/171563?type=students)
 - 2026-08-15 — **Goldman Sachs**: [Summer Analyst Intern - FICC and Equities - Sales and Trading](https://higher.gs.com/roles/181628?type=students)
@@ -69,6 +68,7 @@ _Generated 2026-08-16_
 - 2026-08-15 — **Goldman Sachs**: [Summer Associate Intern - Multiple Teams](https://higher.gs.com/roles/171566?type=students)
 - 2026-08-15 — **Hypercubic**: [Software Engineering Intern](https://jobs.ashbyhq.com/hypercubic/ab7a23f9-7280-4443-b442-2813dc39d490/application?embed=true)
 - 2026-08-15 — **Notion**: [Software Engineer Intern - Summer 2027](https://jobs.ashbyhq.com/notion/3fba1c39-c5cb-47d7-9ad2-1cec4d7e9d0c/application?embed=true)
+- 2026-08-15 — **Notion**: [Software Engineer Intern - Winter 2027](https://jobs.ashbyhq.com/notion/e66c6658-9e65-4c58-8db2-844628b6e8f8/application?embed=true)
 
 ## Recently closed
 
@@ -158,8 +158,12 @@ _Generated 2026-08-16_
 - General Motors — Research and Development Intern - Research & Development: AI/ML
 - Global Infrastructure — Alternative Delivery Project Analytics Intern
 - Golden Pet Brands — Data Analytics Intern
-- Goldman Sachs — Quantitative Strategist Associate Intern - Asset and Wealth Management
-- Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
+- Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
+- Goldman Sachs — Summer Analyst Intern - FICC and Equities - Sales and Trading
+- Goldman Sachs — Summer Analyst Intern - FICC & Equities - Sales & Trading
+- Goldman Sachs — Summer Analyst Intern - Wealth Management - Product Management and Design
+- Goldman Sachs — Summer Associate Intern - Multiple Teams
 - Gulfstream — Computer Science Intern - Advanced Structures and Materials
 - Harris Computer — Software Development Intern
 - Hermeus — Hardware-In-the-Loop Software Engineering Intern - Fall 2026
@@ -257,6 +261,7 @@ _Generated 2026-08-16_
 - SpaceX — Software Engineering Intern
 - SpaceX — Software Engineering Intern/Co-op
 - Sparksoft — Technical Intern
+- SpreeAI — Machine Learning Engineer Intern - Computer Vision/Multimodal/Generative AI
 - SRI International — Computer Science Intern
 - Stand Insurance — Fire Science Engineer Intern
 - StudyFetch — Engineering Intern
