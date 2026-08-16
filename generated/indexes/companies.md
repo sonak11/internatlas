@@ -531,7 +531,7 @@
 | [SpaceX](../companies/spacex.md) | 18/25 | hardware, software-engineering |
 | [Sparksoft](../companies/sparksoft.md) | 0/2 | software-engineering |
 | [Spectrum Control](../companies/spectrum-control.md) | 0/1 | software-engineering |
-| [SpreeAI](../companies/spreeai.md) | 3/4 | machine-learning, software-engineering |
+| [SpreeAI](../companies/spreeai.md) | 4/4 | machine-learning, software-engineering |
 | [Squarepoint Capital](../companies/squarepoint-capital.md) | 1/1 | quant |
 | [Stand Insurance](../companies/stand-insurance.md) | 0/1 | software-engineering |
 | [StarSling](../companies/starsling.md) | 1/1 | software-engineering |

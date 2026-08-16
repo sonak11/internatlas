@@ -261,7 +261,6 @@ _Generated 2026-08-16_
 - SpaceX — Software Engineering Intern
 - SpaceX — Software Engineering Intern/Co-op
 - Sparksoft — Technical Intern
-- SpreeAI — Machine Learning Engineer Intern - Computer Vision/Multimodal/Generative AI
 - SRI International — Computer Science Intern
 - Stand Insurance — Fire Science Engineer Intern
 - StudyFetch — Engineering Intern
