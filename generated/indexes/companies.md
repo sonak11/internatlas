@@ -197,7 +197,7 @@
 | [Epia Neuro](../companies/epia-neuro.md) | 1/1 | hardware |
 | [Epic Games](../companies/epic-games.md) | 4/4 | machine-learning, software-engineering |
 | [Eragon](../companies/eragon.md) | 1/1 | ai |
-| [Eridu AI](../companies/eridu-ai.md) | 1/1 | software-engineering |
+| [Eridu AI](../companies/eridu-ai.md) | 0/1 | software-engineering |
 | [Etched](../companies/etched.md) | 12/14 | cloud, embedded, software-engineering |
 | [Ether.fi](../companies/ether-fi.md) | 1/1 | software-engineering |
 | [Evonik](../companies/evonik.md) | 0/1 | software-engineering |

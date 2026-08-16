@@ -140,6 +140,7 @@ _Generated 2026-08-16_
 - Ditto — Ditto Intern Program
 - Eko Health — Clinical Product Strategy Intern - Clinical Technology
 - Environmental Defense Fund — Climate & Health Intern
+- Eridu AI — Lab Intern
 - Etched — Electrical Platform Intern
 - Exabeam — AI Deployment Intern
 - Excel Sports Management — Analytics Intern - Analytics
