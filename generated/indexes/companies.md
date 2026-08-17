@@ -442,7 +442,7 @@
 | [Phlair](../companies/phlair.md) | 0/1 | cloud |
 | [Phonely](../companies/phonely.md) | 2/2 | software-engineering |
 | [Phonic](../companies/phonic.md) | 1/1 | machine-learning |
-| [Photon](../companies/photon.md) | 1/1 | ai |
+| [Photon](../companies/photon.md) | 0/1 | ai |
 | [Picton Mahoney Asset Management](../companies/picton-mahoney-asset-management.md) | 2/2 | quant, software-engineering |
 | [Pika](../companies/pika.md) | 1/1 | research |
 | [Pinterest](../companies/pinterest.md) | 3/4 | machine-learning, software-engineering |
@@ -466,7 +466,7 @@
 | [RLI](../companies/rli.md) | 0/1 | product |
 | [ROCKWOOL Group](../companies/rockwool-group.md) | 0/2 | product, software-engineering |
 | [RRS Group](../companies/rrs-group.md) | 2/2 | software-engineering |
-| [RTX](../companies/rtx.md) | 23/33 | design, machine-learning, software-engineering |
+| [RTX](../companies/rtx.md) | 22/33 | design, machine-learning, software-engineering |
 | [Radix Trading](../companies/radix-trading.md) | 1/1 | quant |
 | [Rainmaker](../companies/rainmaker.md) | 0/1 | software-engineering |
 | [Rakuten International](../companies/rakuten-international.md) | 0/1 | software-engineering |

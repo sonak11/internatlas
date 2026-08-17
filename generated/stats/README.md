@@ -204,6 +204,7 @@ _Generated 2026-08-17_
 - PEAK6 — Trading Intern
 - Pennsylvania State University — AI/ML Research and Development Intern
 - Pennsylvania State University — Electronic Materials and Devices Engineer Intern - Electronic Materials and Devices
+- Photon — Software Engineering Intern - AI
 - PIMCO — Client Solutions & Analytics Analyst Intern
 - Prophet — AI Engineer Intern - AI Foundry & Digital Growth
 - PSECU — Data Analyst Intern
@@ -225,6 +226,7 @@ _Generated 2026-08-17_
 - RTX — Enterprise Extended Reality Intern
 - RTX — Machine Learning Researcher Intern/Co-op
 - RTX — Modeling, Simulation & Analysis Intern
+- RTX — Software Engineer Intern
 - RTX — Software Engineer Intern
 - RTX — Software Engineer Intern
 - RTX — Software Engineer Intern
