@@ -59,7 +59,7 @@
 | [Arcadis](../companies/arcadis.md) | 0/1 | software-engineering |
 | [Architect Labs](../companies/architect-labs.md) | 1/1 | research |
 | [Ardian](../companies/ardian.md) | 1/1 | data-science |
-| [Arevon](../companies/arevon.md) | 1/1 | data-science |
+| [Arevon](../companies/arevon.md) | 0/1 | data-science |
 | [Argmax](../companies/argmax.md) | 1/1 | ai |
 | [Argonne National Laboratory](../companies/argonne-national-laboratory.md) | 1/1 | software-engineering |
 | [Arizona State University](../companies/arizona-state-university.md) | 0/1 | software-engineering |

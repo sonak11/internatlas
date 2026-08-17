@@ -81,6 +81,7 @@ _Generated 2026-08-17_
 - American Express — Product Development Intern - Product Development - Consumer Services
 - Aramark — Data Analyst Intern
 - Arcadis — GIS Intern
+- Arevon — Data Science Intern - Interconnection & Transmission
 - Arizona State University — Management Intern - Career Data and Analytics
 - Assurant — Digital & AI Transformation Intern
 - Assured Guaranty — Product Software Developer Intern
