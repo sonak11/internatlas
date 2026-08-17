@@ -16,6 +16,10 @@
     {
       "city": "New York",
       "country": "USA"
+    },
+    {
+      "city": "NYC",
+      "country": "USA"
     }
   ],
   "compensation": {

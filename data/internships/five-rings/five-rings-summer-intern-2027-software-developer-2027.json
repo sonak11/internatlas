@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "appian-product-manager-intern-2027-6155a6",
+  "id": "five-rings-summer-intern-2027-software-developer-2027",
   "company": {
-    "name": "Appian",
-    "slug": "appian"
+    "name": "Five Rings",
+    "slug": "five-rings",
+    "career_page": "https://fiverings.com/careers"
   },
-  "role": "Product Manager Intern",
-  "category": "product",
-  "apply_url": "https://job-boards.greenhouse.io/appian/jobs/8041243",
+  "role": "Summer Intern 2027 - Software Developer",
+  "category": "quant",
+  "apply_url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5349707008",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "McLean",
-      "state": "VA",
+      "city": "New York",
       "country": "USA"
     }
   ],
@@ -25,9 +25,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -42,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-23",
-    "discovered": "2026-07-24",
+    "posted": "2026-07-14",
+    "discovered": "2026-08-17",
     "last_verified": "2026-08-17"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:ats"
   ]
 }

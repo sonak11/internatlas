@@ -1,25 +1,21 @@
 {
   "schema_version": "1.0",
-  "id": "rivian-and-volkswagen-group-technologies-software-engineer-intern-embedded-platforms-2026-eddc3d",
+  "id": "akuna-capital-software-engineer-intern-python-summer-2027-2027",
   "company": {
-    "name": "Rivian and Volkswagen Group Technologies",
-    "slug": "rivian-and-volkswagen-group-technologies"
+    "name": "Akuna Capital",
+    "slug": "akuna-capital",
+    "career_page": "https://akunacapital.com/careers"
   },
-  "role": "Software Engineer Intern - Embedded Platforms",
-  "category": "embedded",
-  "apply_url": "https://jobs.ashbyhq.com/rivianvw.tech/4dfbf1e6-3778-4101-8ac7-cd4015d47eff/application",
-  "season": "fall",
-  "year": 2026,
+  "role": "Software Engineer Intern - Python, Summer 2027",
+  "category": "quant",
+  "apply_url": "https://www.akunacapital.com/careers/job/8018853/?gh_jid=8018853",
+  "season": "summer",
+  "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Palo Alto",
-      "state": "CA",
-      "country": "USA"
-    },
-    {
-      "city": "Irvine",
-      "state": "CA",
+      "city": "Chicago",
+      "state": "IL",
       "country": "USA"
     }
   ],
@@ -30,9 +26,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -47,13 +41,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-06-11",
-    "discovered": "2026-07-31",
+    "posted": "2026-07-13",
+    "discovered": "2026-08-17",
     "last_verified": "2026-08-17"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:ats"
   ]
 }

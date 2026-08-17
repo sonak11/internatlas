@@ -1,20 +1,29 @@
 {
   "schema_version": "1.0",
-  "id": "shyftlabs-ai-engineer-intern-2026-d9e9c4",
+  "id": "datadog-software-engineer-intern-observability-and-security-platform-2027",
   "company": {
-    "name": "ShyftLabs",
-    "slug": "shyftlabs"
+    "name": "Datadog",
+    "slug": "datadog"
   },
-  "role": "AI Engineer Intern",
-  "category": "ai",
-  "apply_url": "https://jobs.lever.co/shyftlabs/4f389ea7-9b98-4ed0-99c2-b25ea8cc2dcd/apply",
-  "season": "fall",
-  "year": 2026,
+  "role": "Software Engineer Intern - Observability and Security Platform",
+  "category": "security",
+  "apply_url": "https://careers.datadoghq.com/detail/8052095/?gh_jid=8052095",
+  "season": "winter",
+  "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Toronto",
-      "country": "ON"
+      "city": "Boston",
+      "state": "MA",
+      "country": "USA"
+    },
+    {
+      "city": "NYC",
+      "country": "USA"
+    },
+    {
+      "city": "Boston",
+      "country": "USA"
     }
   ],
   "compensation": {
@@ -39,8 +48,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-21",
-    "discovered": "2026-07-24",
+    "posted": "2026-08-17",
+    "discovered": "2026-08-17",
     "last_verified": "2026-08-17"
   },
   "status": "open",

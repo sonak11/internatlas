@@ -7,14 +7,13 @@
   },
   "role": "Quant Developer / Quant Research Intern",
   "category": "quant",
-  "apply_url": "https://jobs.ashbyhq.com/anthelioncap/5e2ea37b-2369-474e-b717-c24c60976e96",
+  "apply_url": "https://jobs.ashbyhq.com/anthelioncap/5e2ea37b-2369-474e-b717-c24c60976e96/application?embed=true",
   "season": "fall",
   "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "New York City",
-      "state": "NY",
+      "city": "NYC",
       "country": "USA"
     }
   ],
@@ -43,13 +42,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-27",
+    "posted": "2026-07-23",
     "discovered": "2026-07-24",
     "last_verified": "2026-08-17"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:vanshb03"
+    "src:simplify"
   ]
 }

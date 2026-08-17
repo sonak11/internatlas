@@ -1,11 +1,11 @@
 {
   "schema_version": "1.0",
-  "id": "chicago-trading-company-software-engineer-intern-2027-031e06",
+  "id": "chicago-trading-company-software-engineering-intern-2027",
   "company": {
     "name": "Chicago Trading Company",
     "slug": "chicago-trading-company"
   },
-  "role": "Software Engineer Intern",
+  "role": "Software Engineering Intern",
   "category": "software-engineering",
   "apply_url": "https://job-boards.greenhouse.io/ctccampusboard/jobs/4708230005",
   "season": "summer",
@@ -43,12 +43,12 @@
   },
   "dates": {
     "posted": "2026-07-20",
-    "discovered": "2026-08-07",
+    "discovered": "2026-08-17",
     "last_verified": "2026-08-17"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:vanshb03"
+    "src:simplify"
   ]
 }

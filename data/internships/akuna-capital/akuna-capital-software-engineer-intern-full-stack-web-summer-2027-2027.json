@@ -1,13 +1,14 @@
 {
   "schema_version": "1.0",
-  "id": "akuna-capital-python-software-engineer-intern-2027",
+  "id": "akuna-capital-software-engineer-intern-full-stack-web-summer-2027-2027",
   "company": {
     "name": "Akuna Capital",
-    "slug": "akuna-capital"
+    "slug": "akuna-capital",
+    "career_page": "https://akunacapital.com/careers"
   },
-  "role": "Python Software Engineer Intern",
-  "category": "software-engineering",
-  "apply_url": "https://akunacapital.com/careers/job/8018853/?gh_jid=8018853",
+  "role": "Software Engineer Intern - Full Stack Web, Summer 2027",
+  "category": "quant",
+  "apply_url": "https://www.akunacapital.com/careers/job/8018893/?gh_jid=8018893",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
@@ -26,9 +27,9 @@
   "eligibility": {
     "graduation_years": [],
     "degree_levels": [],
-    "citizenship_required": true,
+    "citizenship_required": false,
     "security_clearance_required": false,
-    "visa_sponsorship": "no"
+    "visa_sponsorship": "unknown"
   },
   "interview": {},
   "tech": {
@@ -41,12 +42,12 @@
   },
   "dates": {
     "posted": "2026-07-13",
-    "discovered": "2026-07-24",
+    "discovered": "2026-08-17",
     "last_verified": "2026-08-17"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:vanshb03"
+    "src:ats"
   ]
 }

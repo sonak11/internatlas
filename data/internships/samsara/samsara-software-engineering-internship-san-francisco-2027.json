@@ -1,20 +1,21 @@
 {
   "schema_version": "1.0",
-  "id": "akuna-capital-hardware-engineer-intern-2027",
+  "id": "samsara-software-engineering-internship-san-francisco-2027",
   "company": {
-    "name": "Akuna Capital",
-    "slug": "akuna-capital"
+    "name": "Samsara",
+    "slug": "samsara",
+    "career_page": "https://www.samsara.com/company/careers"
   },
-  "role": "Hardware Engineer Intern",
-  "category": "hardware",
-  "apply_url": "https://akunacapital.com/careers/job/8018880/?gh_jid=8018880",
+  "role": "Software Engineering Internship - San Francisco",
+  "category": "software-engineering",
+  "apply_url": "https://www.samsara.com/company/careers/roles/8082091?gh_jid=8082091",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Chicago",
-      "state": "IL",
+      "city": "San Francisco",
+      "state": "SF9",
       "country": "USA"
     }
   ],
@@ -26,9 +27,9 @@
   "eligibility": {
     "graduation_years": [],
     "degree_levels": [],
-    "citizenship_required": true,
+    "citizenship_required": false,
     "security_clearance_required": false,
-    "visa_sponsorship": "no"
+    "visa_sponsorship": "unknown"
   },
   "interview": {},
   "tech": {
@@ -40,13 +41,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-13",
-    "discovered": "2026-07-24",
+    "posted": "2026-08-03",
+    "discovered": "2026-08-17",
     "last_verified": "2026-08-17"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:vanshb03"
+    "src:ats"
   ]
 }

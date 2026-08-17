@@ -1,19 +1,19 @@
 {
   "schema_version": "1.0",
-  "id": "akuna-capital-platform-engineer-intern-2027",
+  "id": "rivian-fpga-design-intern-fpga-design-2026",
   "company": {
-    "name": "Akuna Capital",
-    "slug": "akuna-capital"
+    "name": "Rivian",
+    "slug": "rivian"
   },
-  "role": "Platform Engineer Intern",
-  "category": "cloud",
-  "apply_url": "https://akunacapital.com/careers/job/8018856/?gh_jid=8018856",
-  "season": "summer",
-  "year": 2027,
+  "role": "FPGA Design Intern - FPGA Design",
+  "category": "hardware",
+  "apply_url": "https://careers.rivian.com/jobs/32954?icims=1",
+  "season": "fall",
+  "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Chicago",
+      "city": "Champaign",
       "state": "IL",
       "country": "USA"
     }
@@ -25,10 +25,13 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
-    "citizenship_required": true,
+    "degree_levels": [
+      "masters",
+      "phd"
+    ],
+    "citizenship_required": false,
     "security_clearance_required": false,
-    "visa_sponsorship": "no"
+    "visa_sponsorship": "unknown"
   },
   "interview": {},
   "tech": {
@@ -40,13 +43,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-13",
-    "discovered": "2026-07-24",
+    "posted": "2026-08-17",
+    "discovered": "2026-08-17",
     "last_verified": "2026-08-17"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:vanshb03"
+    "src:simplify"
   ]
 }

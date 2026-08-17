@@ -1,19 +1,21 @@
 {
   "schema_version": "1.0",
-  "id": "neosigma-member-of-technical-staff-intern-2026-a15bf5",
+  "id": "akuna-capital-software-engineer-intern-c-net-desktop-summer-2027-2027",
   "company": {
-    "name": "NeoSigma",
-    "slug": "neosigma"
+    "name": "Akuna Capital",
+    "slug": "akuna-capital",
+    "career_page": "https://akunacapital.com/careers"
   },
-  "role": "Member of Technical Staff Intern",
-  "category": "software-engineering",
-  "apply_url": "https://ats.rippling.com/neosigma/jobs/a2ee1d26-a551-45d2-9854-6dbf8ed2c866",
-  "season": "fall",
-  "year": 2026,
+  "role": "Software Engineer Intern - C# .NET Desktop, Summer 2027",
+  "category": "quant",
+  "apply_url": "https://www.akunacapital.com/careers/job/8018886/?gh_jid=8018886",
+  "season": "summer",
+  "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "SF",
+      "city": "Chicago",
+      "state": "IL",
       "country": "USA"
     }
   ],
@@ -24,10 +26,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters",
-      "phd"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -42,13 +41,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-21",
-    "discovered": "2026-07-24",
+    "posted": "2026-07-13",
+    "discovered": "2026-08-17",
     "last_verified": "2026-08-17"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:ats"
   ]
 }

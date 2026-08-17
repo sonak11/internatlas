@@ -7,14 +7,14 @@
   },
   "role": "AI Engineer Intern",
   "category": "ai",
-  "apply_url": "https://jobs.lever.co/shyftlabs/4f389ea7-9b98-4ed0-99c2-b25ea8cc2dcd",
+  "apply_url": "https://jobs.lever.co/shyftlabs/4f389ea7-9b98-4ed0-99c2-b25ea8cc2dcd/apply",
   "season": "fall",
   "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
       "city": "Toronto",
-      "country": "Canada"
+      "country": "ON"
     }
   ],
   "compensation": {
@@ -39,13 +39,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-24",
+    "posted": "2026-07-21",
     "discovered": "2026-07-22",
     "last_verified": "2026-08-17"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:vanshb03"
+    "src:simplify"
   ]
 }

@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "anthelion-capital-quant-developer-quant-research-intern-2026-fec8d9",
+  "id": "levi-strauss-co-analytics-intern-ecommerce-2026",
   "company": {
-    "name": "Anthelion Capital",
-    "slug": "anthelion-capital"
+    "name": "Levi Strauss & Co.",
+    "slug": "levi-strauss-co"
   },
-  "role": "Quant Developer / Quant Research Intern",
-  "category": "quant",
-  "apply_url": "https://jobs.ashbyhq.com/anthelioncap/5e2ea37b-2369-474e-b717-c24c60976e96/application?embed=true",
+  "role": "Analytics Intern - eCommerce",
+  "category": "software-engineering",
+  "apply_url": "https://levistraussandco.wd5.myworkdayjobs.com/external/job/London-United-Kingdom/Analytics-Intern_R-0155618-1",
   "season": "fall",
   "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "NYC",
-      "country": "USA"
+      "city": "London",
+      "country": "UK"
     }
   ],
   "compensation": {
@@ -24,10 +24,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters",
-      "phd"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -42,8 +39,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-23",
-    "discovered": "2026-07-27",
+    "posted": "2026-08-17",
+    "discovered": "2026-08-17",
     "last_verified": "2026-08-17"
   },
   "status": "open",

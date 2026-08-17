@@ -1,24 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "akuna-capital-quantitative-development-strategy-intern-2027",
+  "id": "tiktok-software-engineer-intern-effects-performance-2027",
   "company": {
-    "name": "Akuna Capital",
-    "slug": "akuna-capital"
+    "name": "TikTok",
+    "slug": "tiktok"
   },
-  "role": "Quantitative Development & Strategy Intern",
-  "category": "quant",
-  "apply_url": "https://akunacapital.com/careers/job/8021481/?gh_jid=8021481",
+  "role": "Software Engineer Intern - Effects Performance",
+  "category": "software-engineering",
+  "apply_url": "https://lifeattiktok.com/search/7668725183121000757",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Chicago",
-      "country": "USA"
-    },
-    {
-      "city": "Chicago",
-      "state": "IL",
+      "city": "San Jose",
+      "state": "CA",
       "country": "USA"
     }
   ],
@@ -29,10 +25,12 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
-    "citizenship_required": true,
+    "degree_levels": [
+      "masters"
+    ],
+    "citizenship_required": false,
     "security_clearance_required": false,
-    "visa_sponsorship": "no"
+    "visa_sponsorship": "unknown"
   },
   "interview": {},
   "tech": {
@@ -44,13 +42,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-13",
-    "discovered": "2026-07-24",
+    "posted": "2026-08-04",
+    "discovered": "2026-08-17",
     "last_verified": "2026-08-17"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:vanshb03"
+    "src:simplify"
   ]
 }

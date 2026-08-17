@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "datadog-software-engineering-intern-2027-8ae0aa",
+  "id": "dv-trading-quantitative-risk-intern-2027",
   "company": {
-    "name": "Datadog",
-    "slug": "datadog",
-    "career_page": "https://careers.datadoghq.com/"
+    "name": "DV Trading",
+    "slug": "dv-trading"
   },
-  "role": "Software Engineering Intern",
-  "category": "software-engineering",
-  "apply_url": "https://careers.datadoghq.com/detail/8052095/?gh_jid=8052095",
+  "role": "Quantitative Risk Intern",
+  "category": "quant",
+  "apply_url": "https://job-boards.greenhouse.io/dvtrading/jobs/4719118005",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Boston",
+      "city": "Chicago",
+      "state": "IL",
       "country": "USA"
     }
   ],
@@ -40,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-17",
+    "posted": "2026-08-04",
     "discovered": "2026-08-17",
     "last_verified": "2026-08-17"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:ats"
+    "src:simplify"
   ]
 }

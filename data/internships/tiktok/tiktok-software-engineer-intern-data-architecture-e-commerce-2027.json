@@ -1,25 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "samsara-software-engineering-intern-2027",
+  "id": "tiktok-software-engineer-intern-data-architecture-e-commerce-2027",
   "company": {
-    "name": "Samsara",
-    "slug": "samsara"
+    "name": "TikTok",
+    "slug": "tiktok"
   },
-  "role": "Software Engineering Intern",
+  "role": "Software Engineer Intern - Data Architecture - E-commerce",
   "category": "software-engineering",
-  "apply_url": "https://www.samsara.com/company/careers/roles/8082091?gh_jid=8082091",
+  "apply_url": "https://lifeattiktok.com/search/7668582146236631349",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "San Francisco",
-      "state": "CA",
-      "country": "USA"
-    },
-    {
-      "city": "San Francisco",
-      "state": "SF9",
+      "city": "Seattle",
+      "state": "WA",
       "country": "USA"
     }
   ],
@@ -30,10 +25,12 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "masters"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
-    "visa_sponsorship": "yes"
+    "visa_sponsorship": "unknown"
   },
   "interview": {},
   "tech": {
@@ -46,12 +43,12 @@
   },
   "dates": {
     "posted": "2026-08-03",
-    "discovered": "2026-08-04",
+    "discovered": "2026-08-17",
     "last_verified": "2026-08-17"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:vanshb03"
+    "src:simplify"
   ]
 }

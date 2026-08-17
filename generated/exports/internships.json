@@ -1,6 +1,6 @@
 {
   "generated": "2026-08-17",
-  "count": 1875,
+  "count": 1870,
   "internships": [
     {
       "schema_version": "1.0",
@@ -214,7 +214,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -804,334 +804,15 @@
     },
     {
       "schema_version": "1.0",
-      "id": "akuna-capital-hardware-engineer-intern-2027",
+      "id": "akuna-capital-hardware-engineer-intern-summer-2027-2027",
       "company": {
         "name": "Akuna Capital",
-        "slug": "akuna-capital"
+        "slug": "akuna-capital",
+        "career_page": "https://akunacapital.com/careers"
       },
-      "role": "Hardware Engineer Intern",
+      "role": "Hardware Engineer Intern, Summer 2027",
       "category": "hardware",
-      "apply_url": "https://akunacapital.com/careers/job/8018880/?gh_jid=8018880",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Chicago",
-          "state": "IL",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [],
-        "citizenship_required": true,
-        "security_clearance_required": false,
-        "visa_sponsorship": "no"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-07-13",
-        "discovered": "2026-07-24",
-        "last_verified": "2026-08-17"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:vanshb03"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "akuna-capital-platform-engineer-intern-2027",
-      "company": {
-        "name": "Akuna Capital",
-        "slug": "akuna-capital"
-      },
-      "role": "Platform Engineer Intern",
-      "category": "cloud",
-      "apply_url": "https://akunacapital.com/careers/job/8018856/?gh_jid=8018856",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Chicago",
-          "state": "IL",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [],
-        "citizenship_required": true,
-        "security_clearance_required": false,
-        "visa_sponsorship": "no"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-07-13",
-        "discovered": "2026-07-24",
-        "last_verified": "2026-08-17"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:vanshb03"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "akuna-capital-python-software-engineer-intern-2027",
-      "company": {
-        "name": "Akuna Capital",
-        "slug": "akuna-capital"
-      },
-      "role": "Python Software Engineer Intern",
-      "category": "software-engineering",
-      "apply_url": "https://akunacapital.com/careers/job/8018853/?gh_jid=8018853",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Chicago",
-          "state": "IL",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [],
-        "citizenship_required": true,
-        "security_clearance_required": false,
-        "visa_sponsorship": "no"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-07-13",
-        "discovered": "2026-07-24",
-        "last_verified": "2026-08-17"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:vanshb03"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "akuna-capital-quantitative-development-strategy-intern-2027",
-      "company": {
-        "name": "Akuna Capital",
-        "slug": "akuna-capital"
-      },
-      "role": "Quantitative Development & Strategy Intern",
-      "category": "quant",
-      "apply_url": "https://akunacapital.com/careers/job/8021481/?gh_jid=8021481",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Chicago",
-          "country": "USA"
-        },
-        {
-          "city": "Chicago",
-          "state": "IL",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [],
-        "citizenship_required": true,
-        "security_clearance_required": false,
-        "visa_sponsorship": "no"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-07-13",
-        "discovered": "2026-07-24",
-        "last_verified": "2026-08-17"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:vanshb03"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "akuna-capital-quantitative-research-intern-2027",
-      "company": {
-        "name": "Akuna Capital",
-        "slug": "akuna-capital"
-      },
-      "role": "Quantitative Research Intern",
-      "category": "quant",
-      "apply_url": "https://akunacapital.com/careers/job/8036614/?gh_jid=8036614",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Chicago",
-          "country": "USA"
-        },
-        {
-          "city": "Chicago",
-          "state": "IL",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [],
-        "citizenship_required": true,
-        "security_clearance_required": false,
-        "visa_sponsorship": "no"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-07-13",
-        "discovered": "2026-07-24",
-        "last_verified": "2026-08-17"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:vanshb03"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "akuna-capital-software-engineer-intern-c-2027",
-      "company": {
-        "name": "Akuna Capital",
-        "slug": "akuna-capital"
-      },
-      "role": "Software Engineer Intern, C++",
-      "category": "software-engineering",
-      "apply_url": "https://akunacapital.com/careers/job/8018847/?gh_jid=8018847",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Chicago",
-          "state": "IL",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [],
-        "citizenship_required": true,
-        "security_clearance_required": false,
-        "visa_sponsorship": "no"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-07-13",
-        "discovered": "2026-07-24",
-        "last_verified": "2026-08-17"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:vanshb03"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "akuna-capital-software-engineer-intern-c-net-desktop-2027",
-      "company": {
-        "name": "Akuna Capital",
-        "slug": "akuna-capital"
-      },
-      "role": "Software Engineer Intern, C# .NET Desktop",
-      "category": "software-engineering",
-      "apply_url": "https://akunacapital.com/careers/job/8018886/?gh_jid=8018886",
+      "apply_url": "https://www.akunacapital.com/careers/job/8018880/?gh_jid=8018880",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
@@ -1165,25 +846,26 @@
       },
       "dates": {
         "posted": "2026-07-13",
-        "discovered": "2026-07-24",
+        "discovered": "2026-08-17",
         "last_verified": "2026-08-17"
       },
       "status": "open",
       "tags": [
         "auto-ingested",
-        "src:vanshb03"
+        "src:ats"
       ]
     },
     {
       "schema_version": "1.0",
-      "id": "akuna-capital-software-engineer-intern-full-stack-web-2027",
+      "id": "akuna-capital-platform-engineer-intern-summer-2027-2027",
       "company": {
         "name": "Akuna Capital",
-        "slug": "akuna-capital"
+        "slug": "akuna-capital",
+        "career_page": "https://akunacapital.com/careers"
       },
-      "role": "Software Engineer Intern, Full Stack Web",
-      "category": "software-engineering",
-      "apply_url": "https://akunacapital.com/careers/job/8018893/?gh_jid=8018893",
+      "role": "Platform Engineer Intern, Summer 2027",
+      "category": "cloud",
+      "apply_url": "https://www.akunacapital.com/careers/job/8018856/?gh_jid=8018856",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
@@ -1202,9 +884,9 @@
       "eligibility": {
         "graduation_years": [],
         "degree_levels": [],
-        "citizenship_required": true,
+        "citizenship_required": false,
         "security_clearance_required": false,
-        "visa_sponsorship": "no"
+        "visa_sponsorship": "unknown"
       },
       "interview": {},
       "tech": {
@@ -1217,13 +899,331 @@
       },
       "dates": {
         "posted": "2026-07-13",
-        "discovered": "2026-07-24",
+        "discovered": "2026-08-17",
         "last_verified": "2026-08-17"
       },
       "status": "open",
       "tags": [
         "auto-ingested",
-        "src:vanshb03"
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "akuna-capital-quantitative-development-strategy-intern-summer-2027-2027",
+      "company": {
+        "name": "Akuna Capital",
+        "slug": "akuna-capital",
+        "career_page": "https://akunacapital.com/careers"
+      },
+      "role": "Quantitative Development & Strategy Intern, Summer 2027",
+      "category": "quant",
+      "apply_url": "https://www.akunacapital.com/careers/job/8021481/?gh_jid=8021481",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Chicago",
+          "state": "IL",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-13",
+        "discovered": "2026-08-17",
+        "last_verified": "2026-08-17"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "akuna-capital-quantitative-research-intern-summer-2027-2027",
+      "company": {
+        "name": "Akuna Capital",
+        "slug": "akuna-capital",
+        "career_page": "https://akunacapital.com/careers"
+      },
+      "role": "Quantitative Research Intern, Summer 2027",
+      "category": "quant",
+      "apply_url": "https://www.akunacapital.com/careers/job/8036614/?gh_jid=8036614",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Chicago",
+          "state": "IL",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-13",
+        "discovered": "2026-08-17",
+        "last_verified": "2026-08-17"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "akuna-capital-software-engineer-intern-c-net-desktop-summer-2027-2027",
+      "company": {
+        "name": "Akuna Capital",
+        "slug": "akuna-capital",
+        "career_page": "https://akunacapital.com/careers"
+      },
+      "role": "Software Engineer Intern - C# .NET Desktop, Summer 2027",
+      "category": "quant",
+      "apply_url": "https://www.akunacapital.com/careers/job/8018886/?gh_jid=8018886",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Chicago",
+          "state": "IL",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-13",
+        "discovered": "2026-08-17",
+        "last_verified": "2026-08-17"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "akuna-capital-software-engineer-intern-c-summer-2027-2027",
+      "company": {
+        "name": "Akuna Capital",
+        "slug": "akuna-capital",
+        "career_page": "https://akunacapital.com/careers"
+      },
+      "role": "Software Engineer Intern - C++, Summer 2027",
+      "category": "quant",
+      "apply_url": "https://www.akunacapital.com/careers/job/8018847/?gh_jid=8018847",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Chicago",
+          "state": "IL",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-13",
+        "discovered": "2026-08-17",
+        "last_verified": "2026-08-17"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "akuna-capital-software-engineer-intern-full-stack-web-summer-2027-2027",
+      "company": {
+        "name": "Akuna Capital",
+        "slug": "akuna-capital",
+        "career_page": "https://akunacapital.com/careers"
+      },
+      "role": "Software Engineer Intern - Full Stack Web, Summer 2027",
+      "category": "quant",
+      "apply_url": "https://www.akunacapital.com/careers/job/8018893/?gh_jid=8018893",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Chicago",
+          "state": "IL",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-13",
+        "discovered": "2026-08-17",
+        "last_verified": "2026-08-17"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "akuna-capital-software-engineer-intern-python-summer-2027-2027",
+      "company": {
+        "name": "Akuna Capital",
+        "slug": "akuna-capital",
+        "career_page": "https://akunacapital.com/careers"
+      },
+      "role": "Software Engineer Intern - Python, Summer 2027",
+      "category": "quant",
+      "apply_url": "https://www.akunacapital.com/careers/job/8018853/?gh_jid=8018853",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Chicago",
+          "state": "IL",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-13",
+        "discovered": "2026-08-17",
+        "last_verified": "2026-08-17"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
       ]
     },
     {
@@ -1272,7 +1272,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -2610,7 +2610,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -3679,11 +3679,6 @@
       "locations": [
         {
           "city": "NYC",
-          "country": "USA"
-        },
-        {
-          "city": "New York",
-          "state": "NY",
           "country": "USA"
         }
       ],
@@ -4831,7 +4826,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -4916,7 +4911,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "anthelion-capital-quant-developer-quant-research-intern-2026-fec8d9",
+      "id": "anthelion-capital-quant-developer-quant-research-intern-2026",
       "company": {
         "name": "Anthelion Capital",
         "slug": "anthelion-capital"
@@ -4959,68 +4954,13 @@
       },
       "dates": {
         "posted": "2026-07-23",
-        "discovered": "2026-07-27",
-        "last_verified": "2026-08-17"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "anthelion-capital-quant-developer-quant-research-intern-2026",
-      "company": {
-        "name": "Anthelion Capital",
-        "slug": "anthelion-capital"
-      },
-      "role": "Quant Developer / Quant Research Intern",
-      "category": "quant",
-      "apply_url": "https://jobs.ashbyhq.com/anthelioncap/5e2ea37b-2369-474e-b717-c24c60976e96",
-      "season": "fall",
-      "year": 2026,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "New York City",
-          "state": "NY",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [
-          "masters",
-          "phd"
-        ],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-07-27",
         "discovered": "2026-07-24",
         "last_verified": "2026-08-17"
       },
       "status": "open",
       "tags": [
         "auto-ingested",
-        "src:vanshb03"
+        "src:simplify"
       ]
     },
     {
@@ -5128,7 +5068,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "appian-product-manager-intern-2027-6155a6",
+      "id": "appian-product-manager-intern-2027",
       "company": {
         "name": "Appian",
         "slug": "appian"
@@ -5178,60 +5118,6 @@
       "tags": [
         "auto-ingested",
         "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "appian-product-manager-intern-2027",
-      "company": {
-        "name": "Appian",
-        "slug": "appian"
-      },
-      "role": "Product Manager Intern",
-      "category": "product",
-      "apply_url": "https://careers.appian.com/jobs/8041243-product-manager-intern-",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "McLean",
-          "state": "VA",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [
-          "masters"
-        ],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-07-24",
-        "discovered": "2026-07-24",
-        "last_verified": "2026-08-17"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:vanshb03"
       ]
     },
     {
@@ -5334,7 +5220,7 @@
         "discovered": "2026-07-24",
         "last_verified": "2026-08-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -5900,7 +5786,10 @@
       },
       "eligibility": {
         "graduation_years": [],
-        "degree_levels": [],
+        "degree_levels": [
+          "masters",
+          "phd"
+        ],
         "citizenship_required": false,
         "security_clearance_required": false,
         "visa_sponsorship": "unknown"
@@ -7469,11 +7358,6 @@
         {
           "city": "SF",
           "country": "USA"
-        },
-        {
-          "city": "San Francisco",
-          "state": "CA",
-          "country": "USA"
         }
       ],
       "compensation": {
@@ -7556,7 +7440,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -15609,7 +15493,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -16266,11 +16150,6 @@
         {
           "city": "NYC",
           "country": "USA"
-        },
-        {
-          "city": "New York City",
-          "state": "NY",
-          "country": "USA"
         }
       ],
       "compensation": {
@@ -16381,11 +16260,6 @@
           "city": "Stamford",
           "state": "CT",
           "country": "USA"
-        },
-        {
-          "city": "New York City",
-          "state": "NY",
-          "country": "USA"
         }
       ],
       "compensation": {
@@ -16395,7 +16269,10 @@
       },
       "eligibility": {
         "graduation_years": [],
-        "degree_levels": [],
+        "degree_levels": [
+          "masters",
+          "phd"
+        ],
         "citizenship_required": false,
         "security_clearance_required": false,
         "visa_sponsorship": "unknown"
@@ -17422,7 +17299,9 @@
       },
       "eligibility": {
         "graduation_years": [],
-        "degree_levels": [],
+        "degree_levels": [
+          "masters"
+        ],
         "citizenship_required": false,
         "security_clearance_required": false,
         "visa_sponsorship": "unknown"
@@ -17502,7 +17381,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "chicago-trading-company-quant-trading-intern-2027-927f62",
+      "id": "chicago-trading-company-quant-trading-intern-2027",
       "company": {
         "name": "Chicago Trading Company",
         "slug": "chicago-trading-company"
@@ -17544,7 +17423,7 @@
       },
       "dates": {
         "posted": "2026-08-03",
-        "discovered": "2026-08-06",
+        "discovered": "2026-07-20",
         "last_verified": "2026-08-17"
       },
       "status": "open",
@@ -17555,12 +17434,12 @@
     },
     {
       "schema_version": "1.0",
-      "id": "chicago-trading-company-quant-trading-intern-2027",
+      "id": "chicago-trading-company-quantitative-trading-intern-2027",
       "company": {
         "name": "Chicago Trading Company",
         "slug": "chicago-trading-company"
       },
-      "role": "Quant Trading Intern",
+      "role": "Quantitative Trading Intern",
       "category": "quant",
       "apply_url": "https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4716930005",
       "season": "summer",
@@ -17598,67 +17477,13 @@
       },
       "dates": {
         "posted": "2026-08-03",
-        "discovered": "2026-07-20",
+        "discovered": "2026-08-17",
         "last_verified": "2026-08-17"
       },
       "status": "open",
       "tags": [
         "auto-ingested",
-        "src:vanshb03"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "chicago-trading-company-software-engineer-intern-2027-031e06",
-      "company": {
-        "name": "Chicago Trading Company",
-        "slug": "chicago-trading-company"
-      },
-      "role": "Software Engineer Intern",
-      "category": "software-engineering",
-      "apply_url": "https://job-boards.greenhouse.io/ctccampusboard/jobs/4708230005",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Chicago",
-          "state": "IL",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [
-          "masters"
-        ],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-07-20",
-        "discovered": "2026-08-07",
-        "last_verified": "2026-08-17"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:vanshb03"
+        "src:simplify"
       ]
     },
     {
@@ -17707,6 +17532,60 @@
       "dates": {
         "posted": "2026-08-03",
         "discovered": "2026-07-28",
+        "last_verified": "2026-08-17"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "chicago-trading-company-software-engineering-intern-2027",
+      "company": {
+        "name": "Chicago Trading Company",
+        "slug": "chicago-trading-company"
+      },
+      "role": "Software Engineering Intern",
+      "category": "software-engineering",
+      "apply_url": "https://job-boards.greenhouse.io/ctccampusboard/jobs/4708230005",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Chicago",
+          "state": "IL",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-20",
+        "discovered": "2026-08-17",
         "last_verified": "2026-08-17"
       },
       "status": "open",
@@ -20617,7 +20496,7 @@
         "discovered": "2026-07-28",
         "last_verified": "2026-08-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -23704,6 +23583,10 @@
         {
           "city": "New York",
           "country": "USA"
+        },
+        {
+          "city": "NYC",
+          "country": "USA"
         }
       ],
       "compensation": {
@@ -23740,19 +23623,27 @@
     },
     {
       "schema_version": "1.0",
-      "id": "datadog-software-engineering-intern-2027-8ae0aa",
+      "id": "datadog-software-engineer-intern-observability-and-security-platform-2027",
       "company": {
         "name": "Datadog",
-        "slug": "datadog",
-        "career_page": "https://careers.datadoghq.com/"
+        "slug": "datadog"
       },
-      "role": "Software Engineering Intern",
-      "category": "software-engineering",
+      "role": "Software Engineer Intern - Observability and Security Platform",
+      "category": "security",
       "apply_url": "https://careers.datadoghq.com/detail/8052095/?gh_jid=8052095",
-      "season": "summer",
+      "season": "winter",
       "year": 2027,
       "work_mode": "onsite",
       "locations": [
+        {
+          "city": "Boston",
+          "state": "MA",
+          "country": "USA"
+        },
+        {
+          "city": "NYC",
+          "country": "USA"
+        },
         {
           "city": "Boston",
           "country": "USA"
@@ -23787,7 +23678,7 @@
       "status": "open",
       "tags": [
         "auto-ingested",
-        "src:ats"
+        "src:simplify"
       ]
     },
     {
@@ -23841,7 +23732,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -25445,7 +25336,7 @@
         "discovered": "2026-07-31",
         "last_verified": "2026-08-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -25606,7 +25497,7 @@
         "discovered": "2026-07-31",
         "last_verified": "2026-08-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -25982,10 +25873,10 @@
     },
     {
       "schema_version": "1.0",
-      "id": "dv-group-quantitative-risk-intern-2027",
+      "id": "dv-trading-quantitative-risk-intern-2027",
       "company": {
-        "name": "DV Group",
-        "slug": "dv-group"
+        "name": "DV Trading",
+        "slug": "dv-trading"
       },
       "role": "Quantitative Risk Intern",
       "category": "quant",
@@ -26023,13 +25914,13 @@
       },
       "dates": {
         "posted": "2026-08-04",
-        "discovered": "2026-08-06",
+        "discovered": "2026-08-17",
         "last_verified": "2026-08-17"
       },
       "status": "open",
       "tags": [
         "auto-ingested",
-        "src:vanshb03"
+        "src:simplify"
       ]
     },
     {
@@ -26536,7 +26427,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -27220,7 +27111,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -27272,7 +27163,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -27324,7 +27215,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -27746,7 +27637,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -27798,7 +27689,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -27850,7 +27741,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -27909,7 +27800,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -28713,6 +28604,56 @@
     },
     {
       "schema_version": "1.0",
+      "id": "fast-enterprises-implementation-intern-2027",
+      "company": {
+        "name": "FAST Enterprises",
+        "slug": "fast-enterprises"
+      },
+      "role": "Implementation Intern",
+      "category": "software-engineering",
+      "apply_url": "https://careers.fastenterprises.com/jobs/1709?icims=1",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-17",
+        "discovered": "2026-08-17",
+        "last_verified": "2026-08-17"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "felix-magazine-database-coordinator-volunteer-intern-2026",
       "company": {
         "name": "Felix Magazine",
@@ -29441,7 +29382,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -29493,63 +29434,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-17"
       },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:vanshb03"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "five-rings-software-developer-intern-2027",
-      "company": {
-        "name": "Five Rings",
-        "slug": "five-rings"
-      },
-      "role": "Software Developer Intern",
-      "category": "software-engineering",
-      "apply_url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5349707008",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "New York",
-          "state": "NY",
-          "country": "USA"
-        },
-        {
-          "city": "New York",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [],
-        "citizenship_required": true,
-        "security_clearance_required": false,
-        "visa_sponsorship": "no"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-07-14",
-        "discovered": "2026-07-24",
-        "last_verified": "2026-08-17"
-      },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -29651,6 +29536,58 @@
       "dates": {
         "posted": "2026-07-14",
         "discovered": "2026-07-23",
+        "last_verified": "2026-08-17"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "five-rings-summer-intern-2027-software-developer-2027",
+      "company": {
+        "name": "Five Rings",
+        "slug": "five-rings",
+        "career_page": "https://fiverings.com/careers"
+      },
+      "role": "Summer Intern 2027 - Software Developer",
+      "category": "quant",
+      "apply_url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5349707008",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "New York",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-14",
+        "discovered": "2026-08-17",
         "last_verified": "2026-08-17"
       },
       "status": "open",
@@ -30594,21 +30531,6 @@
           "city": "Atlanta",
           "state": "GA",
           "country": "USA"
-        },
-        {
-          "city": "Los Angeles",
-          "state": "CA",
-          "country": "USA"
-        },
-        {
-          "city": "New York",
-          "state": "NY",
-          "country": "USA"
-        },
-        {
-          "city": "San Francisco",
-          "state": "CA",
-          "country": "USA"
         }
       ],
       "compensation": {
@@ -31464,58 +31386,6 @@
     },
     {
       "schema_version": "1.0",
-      "id": "ge-vernova-engineering-intern-2027-90c477",
-      "company": {
-        "name": "GE Vernova",
-        "slug": "ge-vernova"
-      },
-      "role": "Engineering Intern",
-      "category": "software-engineering",
-      "apply_url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Niskayuna/Engineering-Intern---Power-Conversion---Storage-AI-Tool-Developer--2027_R5049957-2",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Niskayuna",
-          "state": "NY",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-08-12",
-        "discovered": "2026-08-12",
-        "last_verified": "2026-08-17"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
       "id": "ge-vernova-engineering-intern-2027",
       "company": {
         "name": "GE Vernova",
@@ -31523,7 +31393,7 @@
       },
       "role": "Engineering Intern",
       "category": "software-engineering",
-      "apply_url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Niskayuna/Engineering-Intern---Power-Conversion---Storage-AI-Tool-Developer--2027_R5049957-1",
+      "apply_url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Niskayuna/Engineering-Intern---Power-Conversion---Storage-AI-Tool-Developer--2027_R5049957-2",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
@@ -36010,7 +35880,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -36477,7 +36347,7 @@
         "discovered": "2026-07-24",
         "last_verified": "2026-08-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -36539,7 +36409,7 @@
         "discovered": "2026-07-24",
         "last_verified": "2026-08-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -43195,16 +43065,6 @@
         {
           "city": "Chicago",
           "country": "USA"
-        },
-        {
-          "city": "Chicago",
-          "state": "IL",
-          "country": "USA"
-        },
-        {
-          "city": "New York",
-          "state": "NY",
-          "country": "USA"
         }
       ],
       "compensation": {
@@ -43256,11 +43116,6 @@
       "locations": [
         {
           "city": "Chicago",
-          "country": "USA"
-        },
-        {
-          "city": "Chicago",
-          "state": "IL",
           "country": "USA"
         }
       ],
@@ -43365,11 +43220,6 @@
       "locations": [
         {
           "city": "Chicago",
-          "country": "USA"
-        },
-        {
-          "city": "Chicago",
-          "state": "IL",
           "country": "USA"
         }
       ],
@@ -43681,11 +43531,6 @@
       "locations": [
         {
           "city": "Chicago",
-          "country": "USA"
-        },
-        {
-          "city": "Chicago",
-          "state": "IL",
           "country": "USA"
         }
       ],
@@ -45280,6 +45125,57 @@
       "dates": {
         "posted": "2026-04-24",
         "discovered": "2026-08-11",
+        "last_verified": "2026-08-17"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "levi-strauss-co-analytics-intern-ecommerce-2026",
+      "company": {
+        "name": "Levi Strauss & Co.",
+        "slug": "levi-strauss-co"
+      },
+      "role": "Analytics Intern - eCommerce",
+      "category": "software-engineering",
+      "apply_url": "https://levistraussandco.wd5.myworkdayjobs.com/external/job/London-United-Kingdom/Analytics-Intern_R-0155618-1",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "London",
+          "country": "UK"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-17",
+        "discovered": "2026-08-17",
         "last_verified": "2026-08-17"
       },
       "status": "open",
@@ -50024,7 +49920,7 @@
         "discovered": "2026-08-03",
         "last_verified": "2026-08-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -50289,7 +50185,7 @@
         "discovered": "2026-08-04",
         "last_verified": "2026-08-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -50342,7 +50238,7 @@
         "discovered": "2026-08-03",
         "last_verified": "2026-08-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -50448,7 +50344,7 @@
         "discovered": "2026-08-04",
         "last_verified": "2026-08-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -51028,7 +50924,7 @@
         "discovered": "2026-07-21",
         "last_verified": "2026-08-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -51108,16 +51004,6 @@
       "locations": [
         {
           "city": "New York",
-          "country": "USA"
-        },
-        {
-          "city": "New York",
-          "state": "NY",
-          "country": "USA"
-        },
-        {
-          "city": "San Francisco",
-          "state": "CA",
           "country": "USA"
         }
       ],
@@ -51667,7 +51553,7 @@
         "discovered": "2026-07-21",
         "last_verified": "2026-08-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -53437,7 +53323,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -53489,7 +53375,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -53812,7 +53698,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "neosigma-member-of-technical-staff-intern-2026-a15bf5",
+      "id": "neosigma-member-of-technical-staff-intern-2026",
       "company": {
         "name": "NeoSigma",
         "slug": "neosigma"
@@ -53855,68 +53741,13 @@
       },
       "dates": {
         "posted": "2026-07-21",
-        "discovered": "2026-07-24",
-        "last_verified": "2026-08-17"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "neosigma-member-of-technical-staff-intern-2026",
-      "company": {
-        "name": "NeoSigma",
-        "slug": "neosigma"
-      },
-      "role": "Member of Technical Staff Intern",
-      "category": "software-engineering",
-      "apply_url": "https://ats.rippling.com/en-GB/neosigma/jobs/a2ee1d26-a551-45d2-9854-6dbf8ed2c866",
-      "season": "fall",
-      "year": 2026,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "San Francisco",
-          "state": "CA",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [
-          "masters",
-          "phd"
-        ],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-07-24",
         "discovered": "2026-07-21",
         "last_verified": "2026-08-17"
       },
       "status": "open",
       "tags": [
         "auto-ingested",
-        "src:vanshb03"
+        "src:simplify"
       ]
     },
     {
@@ -54285,7 +54116,7 @@
         "discovered": "2026-08-04",
         "last_verified": "2026-08-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -56520,7 +56351,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -56625,7 +56456,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -56682,7 +56513,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -56739,7 +56570,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -58072,7 +57903,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -61197,11 +61028,6 @@
         {
           "city": "NYC",
           "country": "USA"
-        },
-        {
-          "city": "New York",
-          "state": "NY",
-          "country": "USA"
         }
       ],
       "compensation": {
@@ -62692,7 +62518,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -62798,7 +62624,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -62849,7 +62675,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -63140,7 +62966,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "pony-ai-research-intern-deep-learning-2026-5b09e4",
+      "id": "pony-ai-research-intern-deep-learning-2026",
       "company": {
         "name": "pony.ai",
         "slug": "pony-ai"
@@ -63184,68 +63010,13 @@
       },
       "dates": {
         "posted": "2026-05-29",
-        "discovered": "2026-07-27",
-        "last_verified": "2026-08-17"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "pony-ai-research-intern-deep-learning-2026",
-      "company": {
-        "name": "Pony.ai",
-        "slug": "pony-ai"
-      },
-      "role": "Research Intern - Deep Learning",
-      "category": "machine-learning",
-      "apply_url": "https://apply.workable.com/pony-dot-ai/j/4C1F53EF5D/",
-      "season": "fall",
-      "year": 2026,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Fremont",
-          "state": "CA",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [
-          "masters",
-          "phd"
-        ],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-07-27",
         "discovered": "2026-07-17",
         "last_verified": "2026-08-17"
       },
       "status": "open",
       "tags": [
         "auto-ingested",
-        "src:vanshb03"
+        "src:simplify"
       ]
     },
     {
@@ -65872,6 +65643,61 @@
     },
     {
       "schema_version": "1.0",
+      "id": "rivian-fpga-design-intern-fpga-design-2026",
+      "company": {
+        "name": "Rivian",
+        "slug": "rivian"
+      },
+      "role": "FPGA Design Intern - FPGA Design",
+      "category": "hardware",
+      "apply_url": "https://careers.rivian.com/jobs/32954?icims=1",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Champaign",
+          "state": "IL",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters",
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-17",
+        "discovered": "2026-08-17",
+        "last_verified": "2026-08-17"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "rivian-intern-2026",
       "company": {
         "name": "Rivian",
@@ -65919,7 +65745,7 @@
         "discovered": "2026-07-22",
         "last_verified": "2026-08-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -66701,7 +66527,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "rivian-and-volkswagen-group-technologies-software-engineer-intern-embedded-platforms-2026-eddc3d",
+      "id": "rivian-and-volkswagen-group-technologies-software-engineer-intern-embedded-platforms-2026",
       "company": {
         "name": "Rivian and Volkswagen Group Technologies",
         "slug": "rivian-and-volkswagen-group-technologies"
@@ -66749,72 +66575,13 @@
       },
       "dates": {
         "posted": "2026-06-11",
-        "discovered": "2026-07-31",
-        "last_verified": "2026-08-17"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "rivian-and-volkswagen-group-technologies-software-engineer-intern-embedded-platforms-2026",
-      "company": {
-        "name": "Rivian and Volkswagen Group Technologies",
-        "slug": "rivian-and-volkswagen-group-technologies"
-      },
-      "role": "Software Engineer Intern, Embedded Platforms",
-      "category": "embedded",
-      "apply_url": "https://jobs.ashbyhq.com/rivianvw.tech/4dfbf1e6-3778-4101-8ac7-cd4015d47eff",
-      "season": "fall",
-      "year": 2026,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Palo Alto",
-          "state": "CA",
-          "country": "USA"
-        },
-        {
-          "city": "Irvine",
-          "state": "CA",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [
-          "masters"
-        ],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-07-31",
         "discovered": "2026-07-17",
         "last_verified": "2026-08-17"
       },
       "status": "open",
       "tags": [
         "auto-ingested",
-        "src:vanshb03"
+        "src:simplify"
       ]
     },
     {
@@ -68613,7 +68380,7 @@
         "discovered": "2026-08-11",
         "last_verified": "2026-08-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -69918,63 +69685,6 @@
     },
     {
       "schema_version": "1.0",
-      "id": "samsara-software-engineering-intern-2027",
-      "company": {
-        "name": "Samsara",
-        "slug": "samsara"
-      },
-      "role": "Software Engineering Intern",
-      "category": "software-engineering",
-      "apply_url": "https://www.samsara.com/company/careers/roles/8082091?gh_jid=8082091",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "San Francisco",
-          "state": "CA",
-          "country": "USA"
-        },
-        {
-          "city": "San Francisco",
-          "state": "SF9",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "yes"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-08-03",
-        "discovered": "2026-08-04",
-        "last_verified": "2026-08-17"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:vanshb03"
-      ]
-    },
-    {
-      "schema_version": "1.0",
       "id": "samsara-software-engineering-internship-london-2027",
       "company": {
         "name": "Samsara",
@@ -70018,6 +69728,59 @@
       "dates": {
         "posted": "2026-08-03",
         "discovered": "2026-08-04",
+        "last_verified": "2026-08-17"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "samsara-software-engineering-internship-san-francisco-2027",
+      "company": {
+        "name": "Samsara",
+        "slug": "samsara",
+        "career_page": "https://www.samsara.com/company/careers"
+      },
+      "role": "Software Engineering Internship - San Francisco",
+      "category": "software-engineering",
+      "apply_url": "https://www.samsara.com/company/careers/roles/8082091?gh_jid=8082091",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Francisco",
+          "state": "SF9",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-03",
+        "discovered": "2026-08-17",
         "last_verified": "2026-08-17"
       },
       "status": "open",
@@ -70707,7 +70470,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -71756,7 +71519,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "shyftlabs-ai-engineer-intern-2026-d9e9c4",
+      "id": "shyftlabs-ai-engineer-intern-2026",
       "company": {
         "name": "ShyftLabs",
         "slug": "shyftlabs"
@@ -71796,64 +71559,13 @@
       },
       "dates": {
         "posted": "2026-07-21",
-        "discovered": "2026-07-24",
-        "last_verified": "2026-08-17"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "shyftlabs-ai-engineer-intern-2026",
-      "company": {
-        "name": "ShyftLabs",
-        "slug": "shyftlabs"
-      },
-      "role": "AI Engineer Intern",
-      "category": "ai",
-      "apply_url": "https://jobs.lever.co/shyftlabs/4f389ea7-9b98-4ed0-99c2-b25ea8cc2dcd",
-      "season": "fall",
-      "year": 2026,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Toronto",
-          "country": "Canada"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-07-24",
         "discovered": "2026-07-22",
         "last_verified": "2026-08-17"
       },
       "status": "open",
       "tags": [
         "auto-ingested",
-        "src:vanshb03"
+        "src:simplify"
       ]
     },
     {
@@ -72270,7 +71982,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -72542,7 +72254,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -72594,7 +72306,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -72651,7 +72363,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -73728,7 +73440,7 @@
         "discovered": "2026-08-06",
         "last_verified": "2026-08-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -86614,10 +86326,6 @@
           "city": "San Jose",
           "state": "CA",
           "country": "USA"
-        },
-        {
-          "city": "San Jose",
-          "country": "USA"
         }
       ],
       "compensation": {
@@ -88264,7 +87972,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "tiktok-llm-post-training-engineer-intern-research-product-2027-c41e07",
+      "id": "tiktok-llm-post-training-engineer-intern-research-product-2027",
       "company": {
         "name": "TikTok",
         "slug": "tiktok"
@@ -88307,65 +88015,13 @@
       },
       "dates": {
         "posted": "2026-08-06",
-        "discovered": "2026-08-06",
-        "last_verified": "2026-08-17"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "tiktok-llm-post-training-engineer-intern-research-product-2027",
-      "company": {
-        "name": "TikTok",
-        "slug": "tiktok"
-      },
-      "role": "LLM Post-training Engineer Intern, Research & Product",
-      "category": "ai",
-      "apply_url": "https://lifeattiktok.com/search/7631599293708126517",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "San Jose",
-          "state": "CA",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-04-25",
         "discovered": "2026-07-17",
         "last_verified": "2026-08-17"
       },
       "status": "open",
       "tags": [
         "auto-ingested",
-        "src:vanshb03"
+        "src:simplify"
       ]
     },
     {
@@ -92067,60 +91723,6 @@
     },
     {
       "schema_version": "1.0",
-      "id": "tiktok-software-engineer-intern-2027-eff1b3",
-      "company": {
-        "name": "TikTok",
-        "slug": "tiktok"
-      },
-      "role": "Software Engineer Intern",
-      "category": "software-engineering",
-      "apply_url": "https://lifeattiktok.com/search/7668725183121000757",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "San Jose",
-          "state": "CA",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [
-          "masters"
-        ],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-08-04",
-        "discovered": "2026-08-04",
-        "last_verified": "2026-08-17"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:vanshb03"
-      ]
-    },
-    {
-      "schema_version": "1.0",
       "id": "tiktok-software-engineer-intern-2027",
       "company": {
         "name": "TikTok",
@@ -92445,12 +92047,12 @@
     },
     {
       "schema_version": "1.0",
-      "id": "tiktok-software-engineer-intern-data-arch-e-commerce-2027-b02f0e",
+      "id": "tiktok-software-engineer-intern-data-architecture-e-commerce-2027",
       "company": {
         "name": "TikTok",
         "slug": "tiktok"
       },
-      "role": "Software Engineer Intern, Data Arch - E-commerce",
+      "role": "Software Engineer Intern - Data Architecture - E-commerce",
       "category": "software-engineering",
       "apply_url": "https://lifeattiktok.com/search/7668582146236631349",
       "season": "summer",
@@ -92470,10 +92072,12 @@
       },
       "eligibility": {
         "graduation_years": [],
-        "degree_levels": [],
+        "degree_levels": [
+          "masters"
+        ],
         "citizenship_required": false,
         "security_clearance_required": false,
-        "visa_sponsorship": "yes"
+        "visa_sponsorship": "unknown"
       },
       "interview": {},
       "tech": {
@@ -92486,13 +92090,67 @@
       },
       "dates": {
         "posted": "2026-08-03",
-        "discovered": "2026-08-04",
+        "discovered": "2026-08-17",
         "last_verified": "2026-08-17"
       },
       "status": "open",
       "tags": [
         "auto-ingested",
-        "src:vanshb03"
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "tiktok-software-engineer-intern-effects-performance-2027",
+      "company": {
+        "name": "TikTok",
+        "slug": "tiktok"
+      },
+      "role": "Software Engineer Intern - Effects Performance",
+      "category": "software-engineering",
+      "apply_url": "https://lifeattiktok.com/search/7668725183121000757",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-04",
+        "discovered": "2026-08-17",
+        "last_verified": "2026-08-17"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
       ]
     },
     {
@@ -92971,7 +92629,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -94055,11 +93713,6 @@
         {
           "city": "NYC",
           "country": "USA"
-        },
-        {
-          "city": "New York",
-          "state": "NY",
-          "country": "USA"
         }
       ],
       "compensation": {
@@ -94069,7 +93722,10 @@
       },
       "eligibility": {
         "graduation_years": [],
-        "degree_levels": [],
+        "degree_levels": [
+          "masters",
+          "phd"
+        ],
         "citizenship_required": false,
         "security_clearance_required": false,
         "visa_sponsorship": "unknown"
@@ -98051,11 +97707,6 @@
         {
           "city": "NYC",
           "country": "USA"
-        },
-        {
-          "city": "New York",
-          "state": "NY",
-          "country": "USA"
         }
       ],
       "compensation": {
@@ -98391,11 +98042,6 @@
         {
           "city": "NYC",
           "country": "USA"
-        },
-        {
-          "city": "New York",
-          "state": "NY",
-          "country": "USA"
         }
       ],
       "compensation": {
@@ -98552,10 +98198,6 @@
         {
           "city": "Austin",
           "state": "TX",
-          "country": "USA"
-        },
-        {
-          "city": "New York",
           "country": "USA"
         },
         {
@@ -99217,7 +98859,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -100713,7 +100355,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
