@@ -136,7 +136,7 @@
 | [City of Aurora](../companies/city-of-aurora.md) | 0/1 | software-engineering |
 | [City of Austin](../companies/city-of-austin.md) | 0/3 | research, software-engineering |
 | [City of Manhattan Kansas](../companies/city-of-manhattan-kansas.md) | 1/1 | software-engineering |
-| [Cloudflare](../companies/cloudflare.md) | 15/29 | ai, research, software-engineering |
+| [Cloudflare](../companies/cloudflare.md) | 16/29 | ai, research, software-engineering |
 | [Clyde Companies](../companies/clyde-companies.md) | 2/2 | software-engineering |
 | [Cohere](../companies/cohere.md) | 2/3 | machine-learning, research, software-engineering |
 | [Cohesity](../companies/cohesity.md) | 1/1 | software-engineering |

@@ -8,7 +8,7 @@
 
 No dead links, no generic careers pages. Just current openings, newest first, with the date each one was posted.
 
-![summer 2027](https://img.shields.io/badge/summer%202027-734-blue?style=for-the-badge) ![open now](https://img.shields.io/badge/open%20now-634-brightgreen?style=for-the-badge) ![companies](https://img.shields.io/badge/companies-649-purple?style=for-the-badge) ![visa sponsors](https://img.shields.io/badge/visa%20sponsors-24-orange?style=for-the-badge) ![remote roles](https://img.shields.io/badge/remote%20roles-44-teal?style=for-the-badge) ![sync](https://img.shields.io/badge/sync-hourly-success?style=for-the-badge) ![updated](https://img.shields.io/badge/updated-2026--08--17%203:06%20AM%20EDT-lightgrey?style=for-the-badge)
+![summer 2027](https://img.shields.io/badge/summer%202027-734-blue?style=for-the-badge) ![open now](https://img.shields.io/badge/open%20now-635-brightgreen?style=for-the-badge) ![companies](https://img.shields.io/badge/companies-649-purple?style=for-the-badge) ![visa sponsors](https://img.shields.io/badge/visa%20sponsors-24-orange?style=for-the-badge) ![remote roles](https://img.shields.io/badge/remote%20roles-44-teal?style=for-the-badge) ![sync](https://img.shields.io/badge/sync-hourly-success?style=for-the-badge) ![updated](https://img.shields.io/badge/updated-2026--08--17%203:58%20AM%20EDT-lightgrey?style=for-the-badge)
 
 [**📋 Browse listings**](#-summer-2027-internships) · [**🗓 Other terms**](#-other-open-terms) · [**➕ Add one**](CONTRIBUTING.md) · [**🔗 Sources**](SOURCES.md)
 
@@ -29,10 +29,11 @@ No dead links, no generic careers pages. Just current openings, newest first, wi
 
 **734 open right now**, grouped by category with the newest postings first. Every **Role** link goes straight to the live application page; the **Posted** column shows when it went up (`*` = the date we first saw it, when the source didn't publish one).
 
-### 💻 Software Engineering (320 · 260 open)
+### 💻 Software Engineering (320 · 261 open)
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
+| [Cloudflare](generated/companies/cloudflare.md) | [GRC Team Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8129796?gh_jid=8129796) | In-Office | Onsite | 2026-08-17 | Rolling | 🟢 Open | ❔ |
 | [Boom Supersonic](generated/companies/boom-supersonic.md) | [Engineering and Tech Intern](https://ats.rippling.com/boom-supersonic/jobs/4053f749-3d30-4d71-a64c-5fa79e162bbf) | Centennial, CO | Onsite | 2026-08-16 | Rolling | 🟢 Open | ❔ |
 | [ByteDance](generated/companies/bytedance.md) | [Software Engineer Intern - Global Traffic Architecture](https://jobs.bytedance.com/en/position/7672557061679483189/detail) | San Jose, CA | Onsite | 2026-08-15 | Rolling | 🟢 Open | ❔ |
 | [Freeform](generated/companies/freeform.md) | [Software Engineer Intern - Summer 2027](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7872198003) | LA | Onsite | 2026-08-15 | Rolling | 🟢 Open | ❔ |
@@ -308,7 +309,6 @@ No dead links, no generic careers pages. Just current openings, newest first, wi
 | [Northrop Grumman](generated/companies/northrop-grumman.md) | [Software Engineer Intern - Aeronautics Systems](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10243573) | Melbourne, FL | Onsite | 2026-08-05 | Rolling | 🔴 Closed | ❔ |
 | [RTX](generated/companies/rtx.md) | [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineering-Intern--Summer-2027-_01864033) | Cedar Rapids, IA | Onsite | 2026-08-05 | Rolling | 🔴 Closed | ❔ |
 | [Susquehanna International Group (SIG)](generated/companies/susquehanna-international-group-sig.md) | [Derivatives Sales Trader Intern - Summer 2027](https://careers-sig.icims.com/jobs/10626/job?mobile=true&needsRedirect=false) | NYC | Onsite | 2026-08-05 | Rolling | 🔴 Closed | ❔ |
-| [Cloudflare](generated/companies/cloudflare.md) | [GRC Team Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8095533?gh_jid=8095533) | In-Office | Onsite | 2026-08-04 | Rolling | 🔴 Closed | ❔ |
 | [General Dynamics Information Technology](generated/companies/general-dynamics-information-technology.md) | [Software Developer Intern](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Summer-2027-Software-Developer-Internship_RQ225717-1) | Annapolis Junction, MD | Onsite | 2026-08-04 | Rolling | 🔴 Closed | ❔ |
 | [RTX](generated/companies/rtx.md) | [Software Engineer Intern - Summer 2027](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineering-Intern--Summer-2027-_01863980-1) | Cedar Rapids, IA | Onsite | 2026-08-04 | Rolling | 🔴 Closed | ❔ |
 | [American Express](generated/companies/american-express.md) | [Product Development Intern - Product Development - Consumer Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011571) | NYC | Onsite | 2026-08-03 | Rolling | 🔴 Closed | ❔ |

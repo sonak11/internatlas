@@ -50,6 +50,7 @@ _Generated 2026-08-17_
 ## Newest listings
 
 - 2026-08-17 — **Belvedere Trading**: [Quantitative Trading Intern](https://jobs.lever.co/belvederetrading/cbde47db-c60b-4339-a8f4-a8e4f30505ab)
+- 2026-08-17 — **Cloudflare**: [GRC Team Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8129796?gh_jid=8129796)
 - 2026-08-16 — **Boom Supersonic**: [Engineering and Tech Intern](https://ats.rippling.com/boom-supersonic/jobs/4053f749-3d30-4d71-a64c-5fa79e162bbf)
 - 2026-08-16 — **Photon**: [Software Engineering Intern - AI](https://fa-ertb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/26738)
 - 2026-08-15 — **Abridge**: [Software Engineer Intern](https://jobs.ashbyhq.com/abridge/3f07a457-dc14-4238-bf4e-5c33b5c1f883/application?embed=true)
@@ -68,7 +69,6 @@ _Generated 2026-08-17_
 - 2026-08-15 — **Goldman Sachs**: [Summer Analyst Intern - FICC & Equities - Sales & Trading](https://higher.gs.com/roles/170675?type=students)
 - 2026-08-15 — **Goldman Sachs**: [Summer Analyst Intern - Wealth Management - Product Management and Design](https://higher.gs.com/roles/170935?type=students)
 - 2026-08-15 — **Goldman Sachs**: [Summer Associate Intern - Multiple Teams](https://higher.gs.com/roles/171566?type=students)
-- 2026-08-15 — **Hypercubic**: [Software Engineering Intern](https://jobs.ashbyhq.com/hypercubic/ab7a23f9-7280-4443-b442-2813dc39d490/application?embed=true)
 
 ## Recently closed
 
@@ -120,7 +120,6 @@ _Generated 2026-08-17_
 - Cloudflare — AI Innovation Intern – Service Sales (Fall 2026)
 - Cloudflare — Brand Social Media Intern (Fall 2026)
 - Cloudflare — Customer Advocacy Intern (Fall 2026)
-- Cloudflare — GRC Team Intern (Fall 2026)
 - Cloudflare — Marketing Events and Campaigns Intern (Fall 2026)
 - Cloudflare — Marketing Programs and Analytics Intern
 - Cloudflare — Marketing Programs and Analytics Intern (Fall 2026)
