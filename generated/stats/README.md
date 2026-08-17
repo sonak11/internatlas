@@ -132,6 +132,7 @@ _Generated 2026-08-17_
 - Copart — Software Engineer Intern
 - Copart — Technology Product Analyst Intern
 - Cotiviti — Agentic AI Research Intern
+- Dallas College — SAS Intern
 - Definity Financial — Data Analyst Co-op/Intern
 - Definity Financial — Reporting Specialist Co-op/Intern
 - Definity Financial — Technology Solutions Data Platform & Engineering Co-op/Intern
@@ -168,6 +169,7 @@ _Generated 2026-08-17_
 - ING — Technology Intern - Innovation
 - Inogen — Firmware Engineer Intern
 - Intel — AI Software Engineer Intern
+- JP Morgan Chase — Data & AI Intern - Analyst
 - KBR — Software Intern
 - Keysight Technologies — R&D Software Engineer Intern
 - Keysight Technologies — Software Engineer Intern - R&D - FPGA
@@ -177,6 +179,7 @@ _Generated 2026-08-17_
 - Lumentum — Optical Verification Technician Co-op Intern
 - Lumentum — Optical Verification Technician Intern/Co-op
 - McKesson — Software Developer Intern - Digital and Enterprise Technology
+- McKesson — Technology Intern
 - Meta — Research Scientist Intern - Monetization Computer Vision
 - Meta — Research Scientist Intern - Multimodal Contextual AI
 - Microchip Technology — Engineering Intern - Firmware Development
@@ -200,6 +203,7 @@ _Generated 2026-08-17_
 - Northrop Grumman — Software Engineer Intern - Aeronautics Systems
 - NVIDIA — Performance Engineer Intern, Systems Software
 - Otter Products — Artificial Intelligence Intern
+- Palantir — Forward Deployed Software Engineer Intern - Intel
 - PEAK6 — Trading Bootcamp Micro-Internship - Summer 2027
 - PEAK6 — Trading Intern
 - Pennsylvania State University — AI/ML Research and Development Intern

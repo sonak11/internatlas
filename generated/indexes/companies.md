@@ -162,7 +162,7 @@
 | [DTCC](../companies/dtcc.md) | 0/1 | product |
 | [DV Group](../companies/dv-group.md) | 1/1 | quant |
 | [DV Trading](../companies/dv-trading.md) | 3/3 | quant, software-engineering |
-| [Dallas College](../companies/dallas-college.md) | 1/1 | software-engineering |
+| [Dallas College](../companies/dallas-college.md) | 0/1 | software-engineering |
 | [DataRobot](../companies/datarobot.md) | 1/1 | ai |
 | [Databricks](../companies/databricks.md) | 3/3 | product, research |
 | [Datadog](../companies/datadog.md) | 1/1 | software-engineering |
@@ -308,7 +308,7 @@
 | [International Rescue Committee (IRC)](../companies/international-rescue-committee-irc.md) | 2/2 | research, software-engineering |
 | [Intuitive Surgical](../companies/intuitive-surgical.md) | 1/1 | software-engineering |
 | [JINGDONG](../companies/jingdong.md) | 0/1 | software-engineering |
-| [JP Morgan Chase](../companies/jp-morgan-chase.md) | 7/7 | ai, quant, software-engineering |
+| [JP Morgan Chase](../companies/jp-morgan-chase.md) | 6/7 | ai, quant, software-engineering |
 | [Jane Street](../companies/jane-street.md) | 17/17 | data-engineering, hardware, machine-learning, quant, research, security, software-engineering |
 | [Jump Trading](../companies/jump-trading.md) | 42/43 | ai, data-engineering, design, hardware, machine-learning, quant, research |
 | [Junior AI](../companies/junior-ai.md) | 1/1 | software-engineering |
@@ -347,7 +347,7 @@
 | [Mathtech](../companies/mathtech.md) | 1/1 | software-engineering |
 | [Maven Securities](../companies/maven-securities.md) | 3/3 | quant, software-engineering |
 | [MaxLinear](../companies/maxlinear.md) | 1/1 | ai |
-| [McKesson](../companies/mckesson.md) | 3/6 | ai, software-engineering |
+| [McKesson](../companies/mckesson.md) | 2/6 | ai, software-engineering |
 | [Medline](../companies/medline.md) | 1/1 | product |
 | [Medpace](../companies/medpace.md) | 2/3 | ai, data-engineering, software-engineering |
 | [Medpace, Inc.](../companies/medpace-inc.md) | 2/3 | ai, data-engineering, software-engineering |
@@ -428,7 +428,7 @@
 | [PSECU](../companies/psecu.md) | 0/1 | software-engineering |
 | [PSP Investments](../companies/psp-investments.md) | 1/1 | ai |
 | [Pacific Northwest National Laboratory](../companies/pacific-northwest-national-laboratory.md) | 3/3 | software-engineering |
-| [Palantir](../companies/palantir.md) | 11/11 | cloud, software-engineering |
+| [Palantir](../companies/palantir.md) | 10/11 | cloud, software-engineering |
 | [Palantir Technologies](../companies/palantir-technologies.md) | 14/17 | cloud, software-engineering |
 | [PanAgora](../companies/panagora.md) | 1/1 | software-engineering |
 | [Paragon](../companies/paragon.md) | 1/1 | software-engineering |
