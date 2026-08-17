@@ -132,7 +132,6 @@ _Generated 2026-08-17_
 - Copart — Software Engineer Intern
 - Copart — Technology Product Analyst Intern
 - Cotiviti — Agentic AI Research Intern
-- Dallas College — SAS Intern
 - Definity Financial — Data Analyst Co-op/Intern
 - Definity Financial — Reporting Specialist Co-op/Intern
 - Definity Financial — Technology Solutions Data Platform & Engineering Co-op/Intern
@@ -203,7 +202,6 @@ _Generated 2026-08-17_
 - Northrop Grumman — Software Engineer Intern - Aeronautics Systems
 - NVIDIA — Performance Engineer Intern, Systems Software
 - Otter Products — Artificial Intelligence Intern
-- Palantir — Forward Deployed Software Engineer Intern - Intel
 - PEAK6 — Trading Bootcamp Micro-Internship - Summer 2027
 - PEAK6 — Trading Intern
 - Pennsylvania State University — AI/ML Research and Development Intern
