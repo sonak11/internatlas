@@ -53,6 +53,7 @@ _Generated 2026-08-17_
 - 2026-08-17 — **American Express**: [Software Engineer Intern - Enterprise Technology Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011082)
 - 2026-08-17 — **Belvedere Trading**: [Quantitative Trading Intern](https://jobs.lever.co/belvederetrading/cbde47db-c60b-4339-a8f4-a8e4f30505ab)
 - 2026-08-17 — **Cloudflare**: [GRC Team Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8129796?gh_jid=8129796)
+- 2026-08-17 — **Cloudflare**: [Marketing Events and Campaigns Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8131224?gh_jid=8131224)
 - 2026-08-17 — **Datadog**: [Product Management Intern](https://careers.datadoghq.com/detail/8108241/?gh_jid=8108241)
 - 2026-08-17 — **Datadog**: [Software Engineer Intern - Observability and Security Platform](https://careers.datadoghq.com/detail/8052095/?gh_jid=8052095)
 - 2026-08-17 — **DiDi Global**: [Motion Planning Engineer Intern - PhD](https://job-boards.greenhouse.io/didi/jobs/8131863)
@@ -68,7 +69,6 @@ _Generated 2026-08-17_
 - 2026-08-17 — **TikTok**: [Data Analyst Intern - LIVE](https://lifeattiktok.com/search/7674944387893791029)
 - 2026-08-17 — **TikTok**: [Data Engineer Intern - Data Platform Global Live](https://lifeattiktok.com/search/7674032146438162693)
 - 2026-08-17 — **TikTok**: [Machine Learning Engineer Intern - E-Commerce Governance](https://lifeattiktok.com/search/7674029136531015941)
-- 2026-08-17 — **W.W. Grainger**: [Business Systems Analyst Intern](https://jobs.grainger.com/job/CHICAGO-GTG-Intern-Business-Systems-Analyst-IL-60654-4203/1419931200/?ats=successfactors)
 
 ## Recently closed
 
@@ -123,7 +123,6 @@ _Generated 2026-08-17_
 - Cloudflare — AI Innovation Intern – Service Sales (Fall 2026)
 - Cloudflare — Brand Social Media Intern (Fall 2026)
 - Cloudflare — Customer Advocacy Intern (Fall 2026)
-- Cloudflare — Marketing Events and Campaigns Intern (Fall 2026)
 - Cloudflare — Marketing Programs and Analytics Intern
 - Cloudflare — Marketing Programs and Analytics Intern (Fall 2026)
 - Cloudflare — Technical Marketing Intern (Fall 2026)
