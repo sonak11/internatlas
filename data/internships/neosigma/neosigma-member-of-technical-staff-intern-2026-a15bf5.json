@@ -1,20 +1,19 @@
 {
   "schema_version": "1.0",
-  "id": "chicago-trading-company-software-engineering-intern-2027",
+  "id": "neosigma-member-of-technical-staff-intern-2026-a15bf5",
   "company": {
-    "name": "Chicago Trading Company",
-    "slug": "chicago-trading-company"
+    "name": "NeoSigma",
+    "slug": "neosigma"
   },
-  "role": "Software Engineering Intern",
+  "role": "Member of Technical Staff Intern",
   "category": "software-engineering",
-  "apply_url": "https://job-boards.greenhouse.io/ctccampusboard/jobs/4708230005",
-  "season": "summer",
-  "year": 2027,
+  "apply_url": "https://ats.rippling.com/neosigma/jobs/a2ee1d26-a551-45d2-9854-6dbf8ed2c866",
+  "season": "fall",
+  "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Chicago",
-      "state": "IL",
+      "city": "SF",
       "country": "USA"
     }
   ],
@@ -26,7 +25,8 @@
   "eligibility": {
     "graduation_years": [],
     "degree_levels": [
-      "masters"
+      "masters",
+      "phd"
     ],
     "citizenship_required": false,
     "security_clearance_required": false,
@@ -42,7 +42,7 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-20",
+    "posted": "2026-07-21",
     "discovered": "2026-08-17",
     "last_verified": "2026-08-17"
   },

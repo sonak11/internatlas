@@ -1,21 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "akuna-capital-platform-engineer-intern-summer-2027-2027",
+  "id": "appian-product-manager-intern-2027-6155a6",
   "company": {
-    "name": "Akuna Capital",
-    "slug": "akuna-capital",
-    "career_page": "https://akunacapital.com/careers"
+    "name": "Appian",
+    "slug": "appian"
   },
-  "role": "Platform Engineer Intern, Summer 2027",
-  "category": "cloud",
-  "apply_url": "https://www.akunacapital.com/careers/job/8018856/?gh_jid=8018856",
+  "role": "Product Manager Intern",
+  "category": "product",
+  "apply_url": "https://job-boards.greenhouse.io/appian/jobs/8041243",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Chicago",
-      "state": "IL",
+      "city": "McLean",
+      "state": "VA",
       "country": "USA"
     }
   ],
@@ -26,7 +25,9 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "masters"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -41,13 +42,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-13",
+    "posted": "2026-07-23",
     "discovered": "2026-08-17",
     "last_verified": "2026-08-17"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:ats"
+    "src:simplify"
   ]
 }

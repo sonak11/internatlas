@@ -1,20 +1,21 @@
 {
   "schema_version": "1.0",
-  "id": "tencent-ai-product-manager-intern-2026-0948b4",
+  "id": "pony-ai-research-intern-deep-learning-2026-5b09e4",
   "company": {
-    "name": "Tencent",
-    "slug": "tencent"
+    "name": "pony.ai",
+    "slug": "pony-ai"
   },
-  "role": "AI Product Manager Intern",
-  "category": "ai",
-  "apply_url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/United-Kingdom-London/Product-manager-Intern_R107654-1",
+  "role": "Research Intern - Deep Learning",
+  "category": "machine-learning",
+  "apply_url": "https://apply.workable.com/pony-dot-ai/j/4C1F53EF5D/apply",
   "season": "fall",
   "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "London",
-      "country": "UK"
+      "city": "Fremont",
+      "state": "CA",
+      "country": "USA"
     }
   ],
   "compensation": {
@@ -42,8 +43,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-06-27",
-    "discovered": "2026-08-01",
+    "posted": "2026-05-29",
+    "discovered": "2026-08-17",
     "last_verified": "2026-08-17"
   },
   "status": "open",

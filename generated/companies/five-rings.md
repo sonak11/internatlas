@@ -2,16 +2,14 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # Five Rings
 
-[Careers page](https://fiverings.com/careers)
-
 ## Current openings
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
+| Five Rings | [Software Developer Intern](https://job-boards.greenhouse.io/fiveringsllc/jobs/5349707008) | New York, NY +1 | Onsite | 2026-07-14 | Rolling | 🟢 Open | ❌ |
 | Five Rings | [Summer Intern 2027 - Quantitative Researcher (PhD)](https://job-boards.greenhouse.io/fiveringsllc/jobs/5349219008) | New York | Onsite | 2026-07-14 | Rolling | 🟢 Open | ❔ |
 | Five Rings | [Summer Intern 2027 - Quantitative Trader](https://job-boards.greenhouse.io/fiveringsllc/jobs/5139668008) | New York | Onsite | 2026-07-14 | Rolling | 🟢 Open | ❔ |
-| Five Rings | [Summer Intern 2027 - Software Developer](https://job-boards.greenhouse.io/fiveringsllc/jobs/5349707008) | New York | Onsite | 2026-07-14 | Rolling | 🟢 Open | ❔ |
 
 ## Related
 
-Browse more roles in: [📈 Quant](../categories/quant.md)
+Browse more roles in: [📈 Quant](../categories/quant.md), [💻 Software Engineering](../categories/software-engineering.md)

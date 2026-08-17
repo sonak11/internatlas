@@ -1,13 +1,13 @@
 {
   "schema_version": "1.0",
-  "id": "dv-trading-quantitative-risk-intern-2027",
+  "id": "akuna-capital-software-engineer-intern-full-stack-web-2027",
   "company": {
-    "name": "DV Trading",
-    "slug": "dv-trading"
+    "name": "Akuna Capital",
+    "slug": "akuna-capital"
   },
-  "role": "Quantitative Risk Intern",
-  "category": "quant",
-  "apply_url": "https://job-boards.greenhouse.io/dvtrading/jobs/4719118005",
+  "role": "Software Engineer Intern, Full Stack Web",
+  "category": "software-engineering",
+  "apply_url": "https://akunacapital.com/careers/job/8018893/?gh_jid=8018893",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
@@ -26,9 +26,9 @@
   "eligibility": {
     "graduation_years": [],
     "degree_levels": [],
-    "citizenship_required": false,
+    "citizenship_required": true,
     "security_clearance_required": false,
-    "visa_sponsorship": "unknown"
+    "visa_sponsorship": "no"
   },
   "interview": {},
   "tech": {
@@ -40,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-04",
+    "posted": "2026-07-13",
     "discovered": "2026-08-17",
     "last_verified": "2026-08-17"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }

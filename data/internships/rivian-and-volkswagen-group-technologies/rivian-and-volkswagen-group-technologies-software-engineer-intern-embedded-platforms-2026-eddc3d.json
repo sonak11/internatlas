@@ -1,21 +1,25 @@
 {
   "schema_version": "1.0",
-  "id": "akuna-capital-software-engineer-intern-full-stack-web-summer-2027-2027",
+  "id": "rivian-and-volkswagen-group-technologies-software-engineer-intern-embedded-platforms-2026-eddc3d",
   "company": {
-    "name": "Akuna Capital",
-    "slug": "akuna-capital",
-    "career_page": "https://akunacapital.com/careers"
+    "name": "Rivian and Volkswagen Group Technologies",
+    "slug": "rivian-and-volkswagen-group-technologies"
   },
-  "role": "Software Engineer Intern - Full Stack Web, Summer 2027",
-  "category": "quant",
-  "apply_url": "https://www.akunacapital.com/careers/job/8018893/?gh_jid=8018893",
-  "season": "summer",
-  "year": 2027,
+  "role": "Software Engineer Intern - Embedded Platforms",
+  "category": "embedded",
+  "apply_url": "https://jobs.ashbyhq.com/rivianvw.tech/4dfbf1e6-3778-4101-8ac7-cd4015d47eff/application",
+  "season": "fall",
+  "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Chicago",
-      "state": "IL",
+      "city": "Palo Alto",
+      "state": "CA",
+      "country": "USA"
+    },
+    {
+      "city": "Irvine",
+      "state": "CA",
       "country": "USA"
     }
   ],
@@ -26,7 +30,9 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "masters"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -41,13 +47,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-13",
+    "posted": "2026-06-11",
     "discovered": "2026-08-17",
     "last_verified": "2026-08-17"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:ats"
+    "src:simplify"
   ]
 }

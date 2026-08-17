@@ -2,12 +2,12 @@
   "schema_version": "1.0",
   "id": "pony-ai-research-intern-deep-learning-2026",
   "company": {
-    "name": "pony.ai",
+    "name": "Pony.ai",
     "slug": "pony-ai"
   },
   "role": "Research Intern - Deep Learning",
   "category": "machine-learning",
-  "apply_url": "https://apply.workable.com/pony-dot-ai/j/4C1F53EF5D/apply",
+  "apply_url": "https://apply.workable.com/pony-dot-ai/j/4C1F53EF5D/",
   "season": "fall",
   "year": 2026,
   "work_mode": "onsite",
@@ -43,13 +43,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-05-29",
+    "posted": "2026-07-27",
     "discovered": "2026-07-17",
     "last_verified": "2026-08-17"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }

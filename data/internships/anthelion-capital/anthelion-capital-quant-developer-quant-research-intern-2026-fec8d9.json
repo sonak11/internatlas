@@ -1,20 +1,19 @@
 {
   "schema_version": "1.0",
-  "id": "tiktok-software-engineer-intern-effects-performance-2027",
+  "id": "anthelion-capital-quant-developer-quant-research-intern-2026-fec8d9",
   "company": {
-    "name": "TikTok",
-    "slug": "tiktok"
+    "name": "Anthelion Capital",
+    "slug": "anthelion-capital"
   },
-  "role": "Software Engineer Intern - Effects Performance",
-  "category": "software-engineering",
-  "apply_url": "https://lifeattiktok.com/search/7668725183121000757",
-  "season": "summer",
-  "year": 2027,
+  "role": "Quant Developer / Quant Research Intern",
+  "category": "quant",
+  "apply_url": "https://jobs.ashbyhq.com/anthelioncap/5e2ea37b-2369-474e-b717-c24c60976e96/application?embed=true",
+  "season": "fall",
+  "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "San Jose",
-      "state": "CA",
+      "city": "NYC",
       "country": "USA"
     }
   ],
@@ -26,7 +25,8 @@
   "eligibility": {
     "graduation_years": [],
     "degree_levels": [
-      "masters"
+      "masters",
+      "phd"
     ],
     "citizenship_required": false,
     "security_clearance_required": false,
@@ -42,7 +42,7 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-04",
+    "posted": "2026-07-23",
     "discovered": "2026-08-17",
     "last_verified": "2026-08-17"
   },

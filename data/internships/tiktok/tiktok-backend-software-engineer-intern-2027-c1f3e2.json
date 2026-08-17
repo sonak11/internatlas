@@ -16,6 +16,10 @@
       "city": "San Jose",
       "state": "CA",
       "country": "USA"
+    },
+    {
+      "city": "San Jose",
+      "country": "USA"
     }
   ],
   "compensation": {

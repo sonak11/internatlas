@@ -1,21 +1,25 @@
 {
   "schema_version": "1.0",
-  "id": "akuna-capital-software-engineer-intern-c-net-desktop-summer-2027-2027",
+  "id": "samsara-software-engineering-intern-2027",
   "company": {
-    "name": "Akuna Capital",
-    "slug": "akuna-capital",
-    "career_page": "https://akunacapital.com/careers"
+    "name": "Samsara",
+    "slug": "samsara"
   },
-  "role": "Software Engineer Intern - C# .NET Desktop, Summer 2027",
-  "category": "quant",
-  "apply_url": "https://www.akunacapital.com/careers/job/8018886/?gh_jid=8018886",
+  "role": "Software Engineering Intern",
+  "category": "software-engineering",
+  "apply_url": "https://www.samsara.com/company/careers/roles/8082091?gh_jid=8082091",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Chicago",
-      "state": "IL",
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "USA"
+    },
+    {
+      "city": "San Francisco",
+      "state": "SF9",
       "country": "USA"
     }
   ],
@@ -29,7 +33,7 @@
     "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
-    "visa_sponsorship": "unknown"
+    "visa_sponsorship": "yes"
   },
   "interview": {},
   "tech": {
@@ -41,13 +45,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-13",
+    "posted": "2026-08-03",
     "discovered": "2026-08-17",
     "last_verified": "2026-08-17"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:ats"
+    "src:vanshb03"
   ]
 }

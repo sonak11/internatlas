@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "five-rings-summer-intern-2027-software-developer-2027",
+  "id": "akuna-capital-python-software-engineer-intern-2027",
   "company": {
-    "name": "Five Rings",
-    "slug": "five-rings",
-    "career_page": "https://fiverings.com/careers"
+    "name": "Akuna Capital",
+    "slug": "akuna-capital"
   },
-  "role": "Summer Intern 2027 - Software Developer",
-  "category": "quant",
-  "apply_url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5349707008",
+  "role": "Python Software Engineer Intern",
+  "category": "software-engineering",
+  "apply_url": "https://akunacapital.com/careers/job/8018853/?gh_jid=8018853",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "New York",
+      "city": "Chicago",
+      "state": "IL",
       "country": "USA"
     }
   ],
@@ -26,9 +26,9 @@
   "eligibility": {
     "graduation_years": [],
     "degree_levels": [],
-    "citizenship_required": false,
+    "citizenship_required": true,
     "security_clearance_required": false,
-    "visa_sponsorship": "unknown"
+    "visa_sponsorship": "no"
   },
   "interview": {},
   "tech": {
@@ -40,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-14",
+    "posted": "2026-07-13",
     "discovered": "2026-08-17",
     "last_verified": "2026-08-17"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:ats"
+    "src:vanshb03"
   ]
 }

@@ -1,21 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "akuna-capital-software-engineer-intern-python-summer-2027-2027",
+  "id": "tiktok-llm-post-training-engineer-intern-research-product-2027-c41e07",
   "company": {
-    "name": "Akuna Capital",
-    "slug": "akuna-capital",
-    "career_page": "https://akunacapital.com/careers"
+    "name": "TikTok",
+    "slug": "tiktok"
   },
-  "role": "Software Engineer Intern - Python, Summer 2027",
-  "category": "quant",
-  "apply_url": "https://www.akunacapital.com/careers/job/8018853/?gh_jid=8018853",
+  "role": "LLM Post-training Engineer Intern - Research & Product",
+  "category": "ai",
+  "apply_url": "https://lifeattiktok.com/search/7670285031018432773",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Chicago",
-      "state": "IL",
+      "city": "San Jose",
+      "state": "CA",
       "country": "USA"
     }
   ],
@@ -26,7 +25,9 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "masters"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -41,13 +42,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-13",
+    "posted": "2026-08-06",
     "discovered": "2026-08-17",
     "last_verified": "2026-08-17"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:ats"
+    "src:simplify"
   ]
 }

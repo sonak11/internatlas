@@ -21,6 +21,11 @@
       "city": "Stamford",
       "state": "CT",
       "country": "USA"
+    },
+    {
+      "city": "New York City",
+      "state": "NY",
+      "country": "USA"
     }
   ],
   "compensation": {
