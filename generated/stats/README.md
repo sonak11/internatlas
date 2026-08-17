@@ -107,6 +107,7 @@ _Generated 2026-08-17_
 - Canva — PhD Research Scientist Intern - Generative AI
 - Canva — PhD Research Scientist Intern - Reinforcement Learning - Images
 - Capital One — Technology Intern
+- CCC Intelligent Solutions — Data Science Engineer Intern
 - Centerfield — Product Manager Intern
 - Ciena — Optical Modem Hardware Intern
 - Ciena — Photonic Hardware Intern
@@ -187,6 +188,7 @@ _Generated 2026-08-17_
 - Microchip Technology — Engineering Intern - Firmware Development
 - Microchip Technology — Power, Analog and Mixed-Signal IC Product Engineer Intern - Product Engineering
 - Micron Technology — Industrial Engineer Intern - Technology & Products Group - Global Industrial Engineering
+- Micron Technology — Surface Scientist Intern - Corporate Labs
 - Microsoft — Full-Stack Product Engineer Intern - Web + Services
 - Microsoft — Software Engineer: AI/ML & LLM Intern
 - Microsoft — Software Engineer Intern
@@ -200,6 +202,7 @@ _Generated 2026-08-17_
 - National Laboratory of the Rockies — Graduate Intern - Transportation Systems Analysis
 - Nationwide Children's Hospital — Research Intern
 - NBT Bank — Data Warehouse & Analytics Intern
+- Neuralink — Software Engineer Intern, Implant
 - Nokia — Electromechanical Assembly Co-op Intern - Intern
 - North Cloud — AI Automation Intern
 - Northrop Grumman — Software Engineer Intern - Aeronautics Systems
