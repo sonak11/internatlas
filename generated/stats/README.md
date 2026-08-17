@@ -157,6 +157,7 @@ _Generated 2026-08-17_
 - Gemini — Software Engineer Intern
 - General Dynamics Information Technology — Artificial Intelligence/Machine Learning Intern
 - General Dynamics Information Technology — Software Developer Intern
+- General Dynamics Mission Systems — Cybersecurity Software Engineer Intern
 - General Motors — Research and Development Intern - Research & Development: AI/ML
 - Global Infrastructure — Alternative Delivery Project Analytics Intern
 - Golden Pet Brands — Data Analytics Intern
@@ -172,6 +173,7 @@ _Generated 2026-08-17_
 - ING — Technology Intern - Innovation
 - Inogen — Firmware Engineer Intern
 - Intel — AI Software Engineer Intern
+- Intuitive Surgical — Computer Vision Engineer Intern
 - JP Morgan Chase — Data & AI Intern - Analyst
 - KBR — Software Intern
 - Keysight Technologies — R&D Software Engineer Intern
@@ -200,6 +202,7 @@ _Generated 2026-08-17_
 - Mistral AI — AI Data Solutions Intern - Data Partnerships
 - Mobius Renewables — Software Engineer Intern
 - National Laboratory of the Rockies — Graduate Intern - Transportation Systems Analysis
+- National Laboratory of the Rockies — Software and Data Infrastructure Intern
 - Nationwide Children's Hospital — IGM Research Intern - RI Miller
 - Nationwide Children's Hospital — Research Intern
 - NBT Bank — Data Warehouse & Analytics Intern
