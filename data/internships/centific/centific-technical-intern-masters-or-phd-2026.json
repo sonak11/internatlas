@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "id": "centific-technical-intern-masters-or-phd-2026",
+  "company": {
+    "name": "Centific",
+    "slug": "centific"
+  },
+  "role": "Technical Intern - Masters or PhD",
+  "category": "software-engineering",
+  "apply_url": "https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Remote-Work-USA/Technical-Intern--Masters-or-PhD-_JR108085-1",
+  "season": "fall",
+  "year": 2026,
+  "work_mode": "remote",
+  "locations": [],
+  "compensation": {
+    "currency": "USD",
+    "housing_stipend": false,
+    "relocation_assistance": false
+  },
+  "eligibility": {
+    "graduation_years": [],
+    "degree_levels": [
+      "masters",
+      "phd"
+    ],
+    "citizenship_required": false,
+    "security_clearance_required": false,
+    "visa_sponsorship": "unknown"
+  },
+  "interview": {},
+  "tech": {
+    "required_skills": [],
+    "preferred_skills": [],
+    "languages": [],
+    "frameworks": [],
+    "cloud_platforms": [],
+    "resume_keywords": []
+  },
+  "dates": {
+    "posted": "2026-08-17",
+    "discovered": "2026-08-17",
+    "last_verified": "2026-08-17"
+  },
+  "status": "open",
+  "tags": [
+    "auto-ingested",
+    "src:simplify"
+  ]
+}

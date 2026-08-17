@@ -1,0 +1,62 @@
+{
+  "schema_version": "1.0",
+  "id": "hilton-worldwide-corporate-summer-internship-technology-software-engineering-2027",
+  "company": {
+    "name": "Hilton Worldwide",
+    "slug": "hilton-worldwide"
+  },
+  "role": "Corporate Summer Internship - Technology, Software Engineering and Cyber",
+  "category": "software-engineering",
+  "apply_url": "https://efet.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1009/job/218257",
+  "season": "summer",
+  "year": 2027,
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "Dallas",
+      "state": "TX",
+      "country": "USA"
+    },
+    {
+      "city": "McLean",
+      "state": "VA",
+      "country": "USA"
+    },
+    {
+      "city": "Memphis",
+      "state": "TN",
+      "country": "USA"
+    }
+  ],
+  "compensation": {
+    "currency": "USD",
+    "housing_stipend": false,
+    "relocation_assistance": false
+  },
+  "eligibility": {
+    "graduation_years": [],
+    "degree_levels": [],
+    "citizenship_required": false,
+    "security_clearance_required": false,
+    "visa_sponsorship": "unknown"
+  },
+  "interview": {},
+  "tech": {
+    "required_skills": [],
+    "preferred_skills": [],
+    "languages": [],
+    "frameworks": [],
+    "cloud_platforms": [],
+    "resume_keywords": []
+  },
+  "dates": {
+    "posted": "2026-08-17",
+    "discovered": "2026-08-17",
+    "last_verified": "2026-08-17"
+  },
+  "status": "open",
+  "tags": [
+    "auto-ingested",
+    "src:simplify"
+  ]
+}

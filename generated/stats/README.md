@@ -10,12 +10,13 @@ _Generated 2026-08-17_
 |---|---|
 | TikTok | 132 |
 | Tesla | 110 |
-| ByteDance | 51 |
+| ByteDance | 52 |
 | Jump Trading | 43 |
-| RTX | 33 |
+| RTX | 34 |
 | Cloudflare | 29 |
 | SpaceX | 25 |
 | IMC Trading | 23 |
+| American Express | 22 |
 | Susquehanna International Group (SIG) | 22 |
 | Neuralink | 21 |
 | Jane Street | 17 |
@@ -26,49 +27,48 @@ _Generated 2026-08-17_
 | Etched | 14 |
 | Virtu Financial | 14 |
 | Optiver | 13 |
-| American Express | 12 |
-| Ciena | 12 |
+| Capital One | 12 |
 
 ## Listings by category
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 972 | `█████████████` |
-| quant | 181 | `██` |
-| ai | 172 | `██` |
-| machine-learning | 128 | `██` |
-| research | 97 | `█` |
+| software-engineering | 1002 | `█████████████` |
+| quant | 185 | `██` |
+| ai | 180 | `██` |
+| machine-learning | 129 | `██` |
+| research | 99 | `█` |
 | hardware | 79 | `█` |
 | product | 56 | `█` |
 | embedded | 48 | `█` |
 | cloud | 40 | `█` |
-| design | 39 | `█` |
-| data-science | 32 | `█` |
-| data-engineering | 22 | `█` |
+| design | 40 | `█` |
+| data-science | 34 | `█` |
+| data-engineering | 23 | `█` |
 | security | 13 | `█` |
 
 ## Newest listings
 
+- 2026-08-17 — **American Express**: [AI Engineer Intern - Enterprise Technology Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012375)
+- 2026-08-17 — **American Express**: [AI Engineer Intern - Enterprise Technology Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011796)
+- 2026-08-17 — **American Express**: [AI Engineer Intern - Enterprise Technology Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011999)
+- 2026-08-17 — **American Express**: [AI Engineer Intern - Enterprise Technology Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012392)
+- 2026-08-17 — **American Express**: [AI Engineer Intern - Enterprise Technology Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011991)
+- 2026-08-17 — **American Express**: [AI Engineer Intern - Enterprise Technology Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011698)
+- 2026-08-17 — **American Express**: [Software Engineer Intern - Enterprise Technology Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011784)
+- 2026-08-17 — **American Express**: [Software Engineer Intern - Enterprise Technology Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011084)
+- 2026-08-17 — **American Express**: [Software Engineer Intern - Enterprise Technology Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011679)
 - 2026-08-17 — **American Express**: [Software Engineer Intern - Enterprise Technology Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011987)
 - 2026-08-17 — **American Express**: [Software Engineer Intern - Enterprise Technology Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011082)
+- 2026-08-17 — **American Express**: [Software Engineer Intern - Technology](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010970)
+- 2026-08-17 — **American Fidelity**: [Agentic AI Intern](https://americanfidelity.wd5.myworkdayjobs.com/External/job/Oklahoma-City-Oklahoma/IT-Intern-1_JR1016)
+- 2026-08-17 — **American Fidelity**: [Data Intern](https://americanfidelity.wd5.myworkdayjobs.com/External/job/Oklahoma-City-Oklahoma/Data-Internship--Okalhoma-City-Local-Only-_JR1024)
+- 2026-08-17 — **American Fidelity**: [Software Mobile Intern](https://americanfidelity.wd5.myworkdayjobs.com/External/job/Oklahoma-City-Oklahoma/Software-Mobile-Intern--OKC-Local-Only-_JR1021)
+- 2026-08-17 — **Arthur J. Gallagher & Co.**: [Data Analytics Intern](https://jobs.ajg.com/jobs/57701?icims=1)
+- 2026-08-17 — **Artisan Partners**: [Data Engineer Intern - Platform & Product](https://www.artisanpartners.com/careers/career-opportunities.html?gh_jid=8132641)
 - 2026-08-17 — **Belvedere Trading**: [Quantitative Trading Intern](https://jobs.lever.co/belvederetrading/cbde47db-c60b-4339-a8f4-a8e4f30505ab)
-- 2026-08-17 — **Cloudflare**: [GRC Team Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8129796?gh_jid=8129796)
-- 2026-08-17 — **Cloudflare**: [Marketing Events and Campaigns Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8131224?gh_jid=8131224)
-- 2026-08-17 — **Datadog**: [Product Management Intern](https://careers.datadoghq.com/detail/8108241/?gh_jid=8108241)
-- 2026-08-17 — **Datadog**: [Software Engineer Intern - Observability and Security Platform](https://careers.datadoghq.com/detail/8052095/?gh_jid=8052095)
-- 2026-08-17 — **DiDi Global**: [Motion Planning Engineer Intern - PhD](https://job-boards.greenhouse.io/didi/jobs/8131863)
-- 2026-08-17 — **Dmg Media**: [Editorial Innovation Intern - Innovation Team](https://www.dmgmedia.co.uk/careers/jobs/id/8130320?gh_jid=8130320)
-- 2026-08-17 — **FAST Enterprises**: [Implementation Intern](https://careers.fastenterprises.com/jobs/1709?icims=1)
-- 2026-08-17 — **Google**: [Data Science PhD Intern](https://www.google.com/about/careers/applications/jobs/results/73321728058499782)
-- 2026-08-17 — **Levi Strauss & Co.**: [Analytics Intern - eCommerce](https://levistraussandco.wd5.myworkdayjobs.com/external/job/London-United-Kingdom/Analytics-Intern_R-0155618-1)
-- 2026-08-17 — **Micron Technology**: [DRAM Design Engineer Intern](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---DRAM-Design-Engineer_JR108458)
-- 2026-08-17 — **Optiver**: [Software Engineer Intern](https://www.optiver.com/join-us/jobs/8713435002/?gh_jid=8713435002)
-- 2026-08-17 — **Rivian**: [FPGA Design Intern - FPGA Design](https://careers.rivian.com/jobs/32954?icims=1)
-- 2026-08-17 — **Ryan Companies**: [Business Intelligence Intern - Mission Critical](https://ryancompanies.wd5.myworkdayjobs.com/ryancompanies/job/Minneapolis/Business-Intelligence-Intern--Mission-Critical_R-101961)
-- 2026-08-17 — **Smiths Detection Group**: [Commercial Intern - Commercial Tools & Business Intelligence](https://jobs.smartrecruiters.com/SmithsGroup2/744000143823899)
-- 2026-08-17 — **TikTok**: [Data Analyst Intern - LIVE](https://lifeattiktok.com/search/7674944387893791029)
-- 2026-08-17 — **TikTok**: [Data Engineer Intern - Data Platform Global Live](https://lifeattiktok.com/search/7674032146438162693)
-- 2026-08-17 — **TikTok**: [Machine Learning Engineer Intern - E-Commerce Governance](https://lifeattiktok.com/search/7674029136531015941)
+- 2026-08-17 — **ByteDance**: [Software Engineer Intern - Global Payment](https://jobs.bytedance.com/en/position/7668650945276168453/detail)
+- 2026-08-17 — **CACI**: [GMU Scholar Program Intern](https://caci.wd1.myworkdayjobs.com/external/job/Sterling-VA-US/GMU-Scholar-Program---Summer-2027-Internship_330557)
 
 ## Recently closed
 
@@ -162,6 +162,8 @@ _Generated 2026-08-17_
 - Global Infrastructure — Alternative Delivery Project Analytics Intern
 - Golden Pet Brands — Data Analytics Intern
 - Goldman Sachs — Quantitative Strategist Associate Intern - Asset and Wealth Management
+- Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
+- Goldman Sachs — Summer Analyst Intern - FICC and Equities - Sales and Trading
 - Gulfstream — Computer Science Intern - Advanced Structures and Materials
 - Harris Computer — Software Development Intern
 - Hermeus — Hardware-In-the-Loop Software Engineering Intern - Fall 2026
@@ -174,7 +176,6 @@ _Generated 2026-08-17_
 - Inogen — Firmware Engineer Intern
 - Intel — AI Software Engineer Intern
 - Intuitive Surgical — Computer Vision Engineer Intern
-- JP Morgan Chase — Data & AI Intern - Analyst
 - KBR — Software Intern
 - Keysight Technologies — R&D Software Engineer Intern
 - Keysight Technologies — Software Engineer Intern - R&D - FPGA
@@ -218,7 +219,6 @@ _Generated 2026-08-17_
 - Pennsylvania State University — Electronic Materials and Devices Engineer Intern - Electronic Materials and Devices
 - Photon — Software Engineering Intern - AI
 - Picton Mahoney Asset Management — Business Data Analyst Intern
-- PIMCO — Client Solutions & Analytics Analyst Intern
 - Prophet — AI Engineer Intern - AI Foundry & Digital Growth
 - PSECU — Data Analyst Intern
 - Quantbot Technologies — Software Engineer Intern
