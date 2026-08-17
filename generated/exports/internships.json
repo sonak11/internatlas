@@ -1,6 +1,6 @@
 {
   "generated": "2026-08-17",
-  "count": 1862,
+  "count": 1863,
   "internships": [
     {
       "schema_version": "1.0",
@@ -9728,6 +9728,58 @@
       "tags": [
         "auto-ingested",
         "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "belvedere-trading-quantitative-trading-intern-2027",
+      "company": {
+        "name": "Belvedere Trading",
+        "slug": "belvedere-trading"
+      },
+      "role": "Quantitative Trading Intern",
+      "category": "quant",
+      "apply_url": "https://jobs.lever.co/belvederetrading/cbde47db-c60b-4339-a8f4-a8e4f30505ab",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Chicago",
+          "state": "IL",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "yes"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-17",
+        "discovered": "2026-08-17",
+        "last_verified": "2026-08-17"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
       ]
     },
     {
@@ -65174,7 +65226,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -65399,7 +65451,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"

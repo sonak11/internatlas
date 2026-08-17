@@ -1,28 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "rippling-full-stack-software-engineer-intern-2027",
+  "id": "belvedere-trading-quantitative-trading-intern-2027",
   "company": {
-    "name": "Rippling",
-    "slug": "rippling"
+    "name": "Belvedere Trading",
+    "slug": "belvedere-trading"
   },
-  "role": "Full Stack Software Engineer Intern",
-  "category": "software-engineering",
-  "apply_url": "https://ats.rippling.com/rippling/jobs/35b3ba25-ff2e-4b68-a2d7-61be26f2b24a",
-  "season": "winter",
+  "role": "Quantitative Trading Intern",
+  "category": "quant",
+  "apply_url": "https://jobs.lever.co/belvederetrading/cbde47db-c60b-4339-a8f4-a8e4f30505ab",
+  "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Seattle",
-      "state": "WA",
-      "country": "USA"
-    },
-    {
-      "city": "SF",
-      "country": "USA"
-    },
-    {
-      "city": "NYC",
+      "city": "Chicago",
+      "state": "IL",
       "country": "USA"
     }
   ],
@@ -33,12 +25,10 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
-    "visa_sponsorship": "unknown"
+    "visa_sponsorship": "yes"
   },
   "interview": {},
   "tech": {
@@ -50,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-06-05",
-    "discovered": "2026-07-17",
+    "posted": "2026-08-17",
+    "discovered": "2026-08-17",
     "last_verified": "2026-08-17"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }

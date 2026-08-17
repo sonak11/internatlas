@@ -86,7 +86,7 @@
 | [Barclays](../companies/barclays.md) | 1/1 | quant |
 | [Base Power](../companies/base-power.md) | 1/1 | embedded |
 | [Beacon Software](../companies/beacon-software.md) | 1/1 | software-engineering |
-| [Belvedere Trading](../companies/belvedere-trading.md) | 3/3 | quant, software-engineering |
+| [Belvedere Trading](../companies/belvedere-trading.md) | 4/4 | quant, software-engineering |
 | [BerryDunn](../companies/berrydunn.md) | 1/1 | software-engineering |
 | [Bild AI](../companies/bild-ai.md) | 1/1 | ai |
 | [Black Cape](../companies/black-cape.md) | 1/1 | software-engineering |
@@ -482,7 +482,7 @@
 | [Reyes Beverage Group](../companies/reyes-beverage-group.md) | 1/1 | software-engineering |
 | [Rho](../companies/rho.md) | 1/1 | quant |
 | [Richemont](../companies/richemont.md) | 0/1 | software-engineering |
-| [Rippling](../companies/rippling.md) | 6/6 | machine-learning, software-engineering |
+| [Rippling](../companies/rippling.md) | 4/6 | machine-learning, software-engineering |
 | [Rise8](../companies/rise8.md) | 0/1 | product |
 | [Rivian](../companies/rivian.md) | 2/4 | embedded, machine-learning, research, software-engineering |
 | [Rivian and Volkswagen Group Technologies](../companies/rivian-and-volkswagen-group-technologies.md) | 15/16 | ai, design, embedded, software-engineering |
