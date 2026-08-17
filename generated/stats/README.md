@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 📊 Statistics
 
-_Generated 2026-08-16_
+_Generated 2026-08-17_
 
 ## Top hiring companies
 
@@ -33,7 +33,7 @@ _Generated 2026-08-16_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 961 | `█████████████` |
+| software-engineering | 962 | `█████████████` |
 | quant | 180 | `██` |
 | ai | 173 | `██` |
 | machine-learning | 127 | `██` |
@@ -49,6 +49,7 @@ _Generated 2026-08-16_
 
 ## Newest listings
 
+- 2026-08-16 — **Boom Supersonic**: [Engineering and Tech Intern](https://ats.rippling.com/boom-supersonic/jobs/4053f749-3d30-4d71-a64c-5fa79e162bbf)
 - 2026-08-16 — **Photon**: [Software Engineering Intern - AI](https://fa-ertb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/26738)
 - 2026-08-15 — **Abridge**: [Software Engineer Intern](https://jobs.ashbyhq.com/abridge/3f07a457-dc14-4238-bf4e-5c33b5c1f883/application?embed=true)
 - 2026-08-15 — **ByteDance**: [Software Engineer Intern - Global Payment Infra and SRE](https://jobs.bytedance.com/en/position/7668315137242351925/detail)
@@ -59,7 +60,7 @@ _Generated 2026-08-16_
 - 2026-08-15 — **Epia Neuro**: [Hardware Engineer Intern](https://jobs.ashbyhq.com/epianeuro/62d296e8-16c4-4403-8af5-629e97f7f7fe/application?embed=true)
 - 2026-08-15 — **Freeform**: [Software Engineer Intern - Summer 2027](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7872198003)
 - 2026-08-15 — **Goldman Sachs**: [Quantitative Strategist Associate Intern - Asset and Wealth Management](https://higher.gs.com/roles/175423?type=students)
-- 2026-08-15 — **Goldman Sachs**: [Quantitative Strategist Associate Intern - The Core Quantitative Strats](https://higher.gs.com/roles/175427?type=students)
+- 2026-08-15 — **Goldman Sachs**: [Quantitative Strategist Associate Intern - The Core Quantitative Strats](https://higher.gs.com/roles/171535?type=students)
 - 2026-08-15 — **Goldman Sachs**: [Quantitative Strategist Intern - Multiple Teams](https://higher.gs.com/roles/175424?type=students)
 - 2026-08-15 — **Goldman Sachs**: [Quantitative Strategist Intern - Multiple Teams](https://higher.gs.com/roles/171563?type=students)
 - 2026-08-15 — **Goldman Sachs**: [Summer Analyst Intern - FICC and Equities - Sales and Trading](https://higher.gs.com/roles/181628?type=students)
@@ -68,7 +69,6 @@ _Generated 2026-08-16_
 - 2026-08-15 — **Goldman Sachs**: [Summer Associate Intern - Multiple Teams](https://higher.gs.com/roles/171566?type=students)
 - 2026-08-15 — **Hypercubic**: [Software Engineering Intern](https://jobs.ashbyhq.com/hypercubic/ab7a23f9-7280-4443-b442-2813dc39d490/application?embed=true)
 - 2026-08-15 — **Notion**: [Software Engineer Intern - Summer 2027](https://jobs.ashbyhq.com/notion/3fba1c39-c5cb-47d7-9ad2-1cec4d7e9d0c/application?embed=true)
-- 2026-08-15 — **Notion**: [Software Engineer Intern - Winter 2027](https://jobs.ashbyhq.com/notion/e66c6658-9e65-4c58-8db2-844628b6e8f8/application?embed=true)
 
 ## Recently closed
 
@@ -158,18 +158,11 @@ _Generated 2026-08-16_
 - General Motors — Research and Development Intern - Research & Development: AI/ML
 - Global Infrastructure — Alternative Delivery Project Analytics Intern
 - Golden Pet Brands — Data Analytics Intern
-- Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
-- Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
-- Goldman Sachs — Summer Analyst Intern - FICC and Equities - Sales and Trading
-- Goldman Sachs — Summer Analyst Intern - FICC & Equities - Sales & Trading
-- Goldman Sachs — Summer Analyst Intern - Wealth Management - Product Management and Design
-- Goldman Sachs — Summer Associate Intern - Multiple Teams
+- Goldman Sachs — Quantitative Strategist Associate Intern - Asset and Wealth Management
 - Gulfstream — Computer Science Intern - Advanced Structures and Materials
 - Harris Computer — Software Development Intern
 - Hermeus — Hardware-In-the-Loop Software Engineering Intern - Fall 2026
 - HireVue — Data Science Intern
-- IMC Trading — 2027 - Quant Research Intern - BITS Pilani
-- IMC Trading — 2027 - Software Engineering Intern - BITS Pilani
 - impact.com — Associate Software Engineer Intern
 - Impulse Space — Data Analytics Intern
 - InfiniteQuant — Quantitative Researcher Intern
