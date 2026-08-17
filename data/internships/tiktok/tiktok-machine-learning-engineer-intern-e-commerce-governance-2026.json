@@ -1,20 +1,21 @@
 {
   "schema_version": "1.0",
-  "id": "smiths-detection-group-commercial-intern-commercial-tools-business-intelligence-2026",
+  "id": "tiktok-machine-learning-engineer-intern-e-commerce-governance-2026",
   "company": {
-    "name": "Smiths Detection Group",
-    "slug": "smiths-detection-group"
+    "name": "TikTok",
+    "slug": "tiktok"
   },
-  "role": "Commercial Intern - Commercial Tools & Business Intelligence",
-  "category": "software-engineering",
-  "apply_url": "https://jobs.smartrecruiters.com/SmithsGroup2/744000143823899",
+  "role": "Machine Learning Engineer Intern - E-Commerce Governance",
+  "category": "machine-learning",
+  "apply_url": "https://lifeattiktok.com/search/7674029136531015941",
   "season": "fall",
   "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Slough",
-      "country": "UK"
+      "city": "Seattle",
+      "state": "WA",
+      "country": "USA"
     }
   ],
   "compensation": {
@@ -24,7 +25,9 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "phd"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -40,7 +43,7 @@
   },
   "dates": {
     "posted": "2026-08-17",
-    "discovered": "2026-07-28",
+    "discovered": "2026-08-17",
     "last_verified": "2026-08-17"
   },
   "status": "open",

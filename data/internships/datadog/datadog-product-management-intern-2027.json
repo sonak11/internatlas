@@ -1,20 +1,21 @@
 {
   "schema_version": "1.0",
-  "id": "smiths-detection-group-commercial-intern-commercial-tools-business-intelligence-2026",
+  "id": "datadog-product-management-intern-2027",
   "company": {
-    "name": "Smiths Detection Group",
-    "slug": "smiths-detection-group"
+    "name": "Datadog",
+    "slug": "datadog",
+    "career_page": "https://careers.datadoghq.com/"
   },
-  "role": "Commercial Intern - Commercial Tools & Business Intelligence",
-  "category": "software-engineering",
-  "apply_url": "https://jobs.smartrecruiters.com/SmithsGroup2/744000143823899",
-  "season": "fall",
-  "year": 2026,
+  "role": "Product Management Intern",
+  "category": "product",
+  "apply_url": "https://careers.datadoghq.com/detail/8108241/?gh_jid=8108241",
+  "season": "summer",
+  "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Slough",
-      "country": "UK"
+      "city": "New York",
+      "country": "USA"
     }
   ],
   "compensation": {
@@ -40,12 +41,12 @@
   },
   "dates": {
     "posted": "2026-08-17",
-    "discovered": "2026-07-28",
+    "discovered": "2026-08-17",
     "last_verified": "2026-08-17"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:ats"
   ]
 }

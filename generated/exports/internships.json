@@ -1,6 +1,6 @@
 {
   "generated": "2026-08-17",
-  "count": 1863,
+  "count": 1875,
   "internships": [
     {
       "schema_version": "1.0",
@@ -3865,6 +3865,113 @@
       "dates": {
         "posted": "2026-08-03",
         "discovered": "2026-08-03",
+        "last_verified": "2026-08-17"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "american-express-software-engineer-intern-enterprise-technology-services-2027-eb8986",
+      "company": {
+        "name": "American Express",
+        "slug": "american-express"
+      },
+      "role": "Software Engineer Intern - Enterprise Technology Services",
+      "category": "software-engineering",
+      "apply_url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011987",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Charlotte",
+          "state": "NC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-17",
+        "discovered": "2026-08-17",
+        "last_verified": "2026-08-17"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "american-express-software-engineer-intern-enterprise-technology-services-2027",
+      "company": {
+        "name": "American Express",
+        "slug": "american-express"
+      },
+      "role": "Software Engineer Intern - Enterprise Technology Services",
+      "category": "software-engineering",
+      "apply_url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011082",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "NYC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-17",
+        "discovered": "2026-08-17",
         "last_verified": "2026-08-17"
       },
       "status": "open",
@@ -23581,6 +23688,110 @@
     },
     {
       "schema_version": "1.0",
+      "id": "datadog-product-management-intern-2027",
+      "company": {
+        "name": "Datadog",
+        "slug": "datadog",
+        "career_page": "https://careers.datadoghq.com/"
+      },
+      "role": "Product Management Intern",
+      "category": "product",
+      "apply_url": "https://careers.datadoghq.com/detail/8108241/?gh_jid=8108241",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "New York",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-17",
+        "discovered": "2026-08-17",
+        "last_verified": "2026-08-17"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "datadog-software-engineering-intern-2027-8ae0aa",
+      "company": {
+        "name": "Datadog",
+        "slug": "datadog",
+        "career_page": "https://careers.datadoghq.com/"
+      },
+      "role": "Software Engineering Intern",
+      "category": "software-engineering",
+      "apply_url": "https://careers.datadoghq.com/detail/8052095/?gh_jid=8052095",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Boston",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-17",
+        "discovered": "2026-08-17",
+        "last_verified": "2026-08-17"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "datadog-software-engineering-intern-2027",
       "company": {
         "name": "Datadog",
@@ -24922,6 +25133,57 @@
       "dates": {
         "posted": "2026-08-14",
         "discovered": "2026-08-14",
+        "last_verified": "2026-08-17"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "dmg-media-editorial-innovation-intern-innovation-team-2026",
+      "company": {
+        "name": "Dmg Media",
+        "slug": "dmg-media"
+      },
+      "role": "Editorial Innovation Intern - Innovation Team",
+      "category": "software-engineering",
+      "apply_url": "https://www.dmgmedia.co.uk/careers/jobs/id/8130320?gh_jid=8130320",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "London",
+          "country": "UK"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-17",
+        "discovered": "2026-08-17",
         "last_verified": "2026-08-17"
       },
       "status": "open",
@@ -33029,6 +33291,59 @@
       "dates": {
         "posted": "2026-08-15",
         "discovered": "2026-08-15",
+        "last_verified": "2026-08-17"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "google-data-science-phd-intern-2027",
+      "company": {
+        "name": "Google",
+        "slug": "google"
+      },
+      "role": "Data Science PhD Intern",
+      "category": "data-science",
+      "apply_url": "https://www.google.com/about/careers/applications/jobs/results/73321728058499782",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "London",
+          "country": "UK"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-17",
+        "discovered": "2026-08-17",
         "last_verified": "2026-08-17"
       },
       "status": "open",
@@ -49227,6 +49542,58 @@
       "dates": {
         "posted": "2026-08-13",
         "discovered": "2026-08-13",
+        "last_verified": "2026-08-17"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "micron-technology-dram-design-engineer-intern-2026-27bb65",
+      "company": {
+        "name": "Micron Technology",
+        "slug": "micron-technology"
+      },
+      "role": "DRAM Design Engineer Intern",
+      "category": "design",
+      "apply_url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---DRAM-Design-Engineer_JR108458",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Boise",
+          "state": "ID",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-17",
+        "discovered": "2026-08-17",
         "last_verified": "2026-08-17"
       },
       "status": "open",
@@ -72024,7 +72391,7 @@
       },
       "role": "Commercial Intern - Commercial Tools & Business Intelligence",
       "category": "software-engineering",
-      "apply_url": "https://jobs.smartrecruiters.com/SmithsGroup2/744000140169009",
+      "apply_url": "https://jobs.smartrecruiters.com/SmithsGroup2/744000143823899",
       "season": "fall",
       "year": 2026,
       "work_mode": "onsite",
@@ -72056,11 +72423,11 @@
         "resume_keywords": []
       },
       "dates": {
-        "posted": "2026-07-28",
+        "posted": "2026-08-17",
         "discovered": "2026-07-28",
-        "last_verified": "2026-08-11"
+        "last_verified": "2026-08-17"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -86773,6 +87140,57 @@
     },
     {
       "schema_version": "1.0",
+      "id": "tiktok-data-analyst-intern-live-2027",
+      "company": {
+        "name": "TikTok",
+        "slug": "tiktok"
+      },
+      "role": "Data Analyst Intern - LIVE",
+      "category": "software-engineering",
+      "apply_url": "https://lifeattiktok.com/search/7674944387893791029",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "London",
+          "country": "UK"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-17",
+        "discovered": "2026-08-17",
+        "last_verified": "2026-08-17"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "tiktok-data-engineer-intern-ads-targeting-2027",
       "company": {
         "name": "TikTok",
@@ -86817,6 +87235,60 @@
       "dates": {
         "posted": "2026-08-05",
         "discovered": "2026-08-05",
+        "last_verified": "2026-08-17"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "tiktok-data-engineer-intern-data-platform-global-live-2027",
+      "company": {
+        "name": "TikTok",
+        "slug": "tiktok"
+      },
+      "role": "Data Engineer Intern - Data Platform Global Live",
+      "category": "data-engineering",
+      "apply_url": "https://lifeattiktok.com/search/7674032146438162693",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-17",
+        "discovered": "2026-08-17",
         "last_verified": "2026-08-17"
       },
       "status": "open",
@@ -88749,6 +89221,60 @@
       "dates": {
         "posted": "2026-08-03",
         "discovered": "2026-08-03",
+        "last_verified": "2026-08-17"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "tiktok-machine-learning-engineer-intern-e-commerce-governance-2026",
+      "company": {
+        "name": "TikTok",
+        "slug": "tiktok"
+      },
+      "role": "Machine Learning Engineer Intern - E-Commerce Governance",
+      "category": "machine-learning",
+      "apply_url": "https://lifeattiktok.com/search/7674029136531015941",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Seattle",
+          "state": "WA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-17",
+        "discovered": "2026-08-17",
         "last_verified": "2026-08-17"
       },
       "status": "open",
@@ -98482,6 +99008,110 @@
       "dates": {
         "posted": "2026-08-13",
         "discovered": "2026-08-13",
+        "last_verified": "2026-08-17"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "w-w-grainger-business-systems-analyst-intern-2027",
+      "company": {
+        "name": "W.W. Grainger",
+        "slug": "w-w-grainger"
+      },
+      "role": "Business Systems Analyst Intern",
+      "category": "software-engineering",
+      "apply_url": "https://jobs.grainger.com/job/CHICAGO-GTG-Intern-Business-Systems-Analyst-IL-60654-4203/1419931200/?ats=successfactors",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Chicago",
+          "state": "IL",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-17",
+        "discovered": "2026-08-17",
+        "last_verified": "2026-08-17"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "w-w-grainger-software-engineer-intern-grainger-technology-group-2027",
+      "company": {
+        "name": "W.W. Grainger",
+        "slug": "w-w-grainger"
+      },
+      "role": "Software Engineer Intern - Grainger Technology Group",
+      "category": "software-engineering",
+      "apply_url": "https://jobs.grainger.com/job/CHICAGO-GTG-Intern-Software-Engineer-IL-60661-4555/1419930800/?ats=successfactors",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Chicago",
+          "state": "IL",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-17",
+        "discovered": "2026-08-17",
         "last_verified": "2026-08-17"
       },
       "status": "open",

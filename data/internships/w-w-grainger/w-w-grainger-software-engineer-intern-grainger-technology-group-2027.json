@@ -1,20 +1,21 @@
 {
   "schema_version": "1.0",
-  "id": "smiths-detection-group-commercial-intern-commercial-tools-business-intelligence-2026",
+  "id": "w-w-grainger-software-engineer-intern-grainger-technology-group-2027",
   "company": {
-    "name": "Smiths Detection Group",
-    "slug": "smiths-detection-group"
+    "name": "W.W. Grainger",
+    "slug": "w-w-grainger"
   },
-  "role": "Commercial Intern - Commercial Tools & Business Intelligence",
+  "role": "Software Engineer Intern - Grainger Technology Group",
   "category": "software-engineering",
-  "apply_url": "https://jobs.smartrecruiters.com/SmithsGroup2/744000143823899",
-  "season": "fall",
-  "year": 2026,
+  "apply_url": "https://jobs.grainger.com/job/CHICAGO-GTG-Intern-Software-Engineer-IL-60661-4555/1419930800/?ats=successfactors",
+  "season": "summer",
+  "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Slough",
-      "country": "UK"
+      "city": "Chicago",
+      "state": "IL",
+      "country": "USA"
     }
   ],
   "compensation": {
@@ -40,7 +41,7 @@
   },
   "dates": {
     "posted": "2026-08-17",
-    "discovered": "2026-07-28",
+    "discovered": "2026-08-17",
     "last_verified": "2026-08-17"
   },
   "status": "open",

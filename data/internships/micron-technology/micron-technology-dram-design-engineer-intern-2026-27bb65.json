@@ -1,20 +1,21 @@
 {
   "schema_version": "1.0",
-  "id": "smiths-detection-group-commercial-intern-commercial-tools-business-intelligence-2026",
+  "id": "micron-technology-dram-design-engineer-intern-2026-27bb65",
   "company": {
-    "name": "Smiths Detection Group",
-    "slug": "smiths-detection-group"
+    "name": "Micron Technology",
+    "slug": "micron-technology"
   },
-  "role": "Commercial Intern - Commercial Tools & Business Intelligence",
-  "category": "software-engineering",
-  "apply_url": "https://jobs.smartrecruiters.com/SmithsGroup2/744000143823899",
+  "role": "DRAM Design Engineer Intern",
+  "category": "design",
+  "apply_url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---DRAM-Design-Engineer_JR108458",
   "season": "fall",
   "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Slough",
-      "country": "UK"
+      "city": "Boise",
+      "state": "ID",
+      "country": "USA"
     }
   ],
   "compensation": {
@@ -40,7 +41,7 @@
   },
   "dates": {
     "posted": "2026-08-17",
-    "discovered": "2026-07-28",
+    "discovered": "2026-08-17",
     "last_verified": "2026-08-17"
   },
   "status": "open",

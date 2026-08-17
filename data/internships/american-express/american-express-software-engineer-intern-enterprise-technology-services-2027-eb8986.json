@@ -1,20 +1,21 @@
 {
   "schema_version": "1.0",
-  "id": "smiths-detection-group-commercial-intern-commercial-tools-business-intelligence-2026",
+  "id": "american-express-software-engineer-intern-enterprise-technology-services-2027-eb8986",
   "company": {
-    "name": "Smiths Detection Group",
-    "slug": "smiths-detection-group"
+    "name": "American Express",
+    "slug": "american-express"
   },
-  "role": "Commercial Intern - Commercial Tools & Business Intelligence",
+  "role": "Software Engineer Intern - Enterprise Technology Services",
   "category": "software-engineering",
-  "apply_url": "https://jobs.smartrecruiters.com/SmithsGroup2/744000143823899",
-  "season": "fall",
-  "year": 2026,
+  "apply_url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011987",
+  "season": "summer",
+  "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Slough",
-      "country": "UK"
+      "city": "Charlotte",
+      "state": "NC",
+      "country": "USA"
     }
   ],
   "compensation": {
@@ -24,7 +25,9 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "masters"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -40,7 +43,7 @@
   },
   "dates": {
     "posted": "2026-08-17",
-    "discovered": "2026-07-28",
+    "discovered": "2026-08-17",
     "last_verified": "2026-08-17"
   },
   "status": "open",

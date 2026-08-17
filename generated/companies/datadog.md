@@ -2,12 +2,16 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # Datadog
 
+[Careers page](https://careers.datadoghq.com/)
+
 ## Current openings
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
+| Datadog | [Product Management Intern](https://careers.datadoghq.com/detail/8108241/?gh_jid=8108241) | New York | Onsite | 2026-08-17 | Rolling | 🟢 Open | ❔ |
+| Datadog | [Software Engineering Intern](https://careers.datadoghq.com/detail/8052095/?gh_jid=8052095) | Boston | Onsite | 2026-08-17 | Rolling | 🟢 Open | ❔ |
 | Datadog | [Software Engineering Intern](https://careers.datadoghq.com/detail/6954161/?gh_jid=6954161) | Boston, MA +1 | Onsite | 2025-08-18 | Rolling | 🟢 Open | ❔ |
 
 ## Related
 
-Browse more roles in: [💻 Software Engineering](../categories/software-engineering.md)
+Browse more roles in: [🧭 Product](../categories/product.md), [💻 Software Engineering](../categories/software-engineering.md)

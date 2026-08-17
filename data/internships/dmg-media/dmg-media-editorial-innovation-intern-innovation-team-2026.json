@@ -1,19 +1,19 @@
 {
   "schema_version": "1.0",
-  "id": "smiths-detection-group-commercial-intern-commercial-tools-business-intelligence-2026",
+  "id": "dmg-media-editorial-innovation-intern-innovation-team-2026",
   "company": {
-    "name": "Smiths Detection Group",
-    "slug": "smiths-detection-group"
+    "name": "Dmg Media",
+    "slug": "dmg-media"
   },
-  "role": "Commercial Intern - Commercial Tools & Business Intelligence",
+  "role": "Editorial Innovation Intern - Innovation Team",
   "category": "software-engineering",
-  "apply_url": "https://jobs.smartrecruiters.com/SmithsGroup2/744000143823899",
+  "apply_url": "https://www.dmgmedia.co.uk/careers/jobs/id/8130320?gh_jid=8130320",
   "season": "fall",
   "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Slough",
+      "city": "London",
       "country": "UK"
     }
   ],
@@ -40,7 +40,7 @@
   },
   "dates": {
     "posted": "2026-08-17",
-    "discovered": "2026-07-28",
+    "discovered": "2026-08-17",
     "last_verified": "2026-08-17"
   },
   "status": "open",

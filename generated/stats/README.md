@@ -8,7 +8,7 @@ _Generated 2026-08-17_
 
 | Company | Listings |
 |---|---|
-| TikTok | 129 |
+| TikTok | 132 |
 | Tesla | 110 |
 | ByteDance | 51 |
 | Jump Trading | 43 |
@@ -25,50 +25,50 @@ _Generated 2026-08-17_
 | Microsoft | 15 |
 | Etched | 14 |
 | Virtu Financial | 14 |
+| American Express | 12 |
 | Ciena | 12 |
 | Optiver | 12 |
-| Astranis | 11 |
 
 ## Listings by category
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 962 | `█████████████` |
+| software-engineering | 969 | `█████████████` |
 | quant | 181 | `██` |
 | ai | 173 | `██` |
-| machine-learning | 127 | `██` |
+| machine-learning | 128 | `██` |
 | research | 97 | `█` |
 | hardware | 78 | `█` |
-| product | 55 | `█` |
+| product | 56 | `█` |
 | embedded | 48 | `█` |
 | cloud | 40 | `█` |
-| design | 38 | `█` |
-| data-science | 31 | `█` |
-| data-engineering | 21 | `█` |
+| design | 39 | `█` |
+| data-science | 32 | `█` |
+| data-engineering | 22 | `█` |
 | security | 12 | `█` |
 
 ## Newest listings
 
+- 2026-08-17 — **American Express**: [Software Engineer Intern - Enterprise Technology Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011987)
+- 2026-08-17 — **American Express**: [Software Engineer Intern - Enterprise Technology Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011082)
 - 2026-08-17 — **Belvedere Trading**: [Quantitative Trading Intern](https://jobs.lever.co/belvederetrading/cbde47db-c60b-4339-a8f4-a8e4f30505ab)
 - 2026-08-17 — **Cloudflare**: [GRC Team Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8129796?gh_jid=8129796)
+- 2026-08-17 — **Datadog**: [Product Management Intern](https://careers.datadoghq.com/detail/8108241/?gh_jid=8108241)
+- 2026-08-17 — **Datadog**: [Software Engineering Intern](https://careers.datadoghq.com/detail/8052095/?gh_jid=8052095)
+- 2026-08-17 — **Dmg Media**: [Editorial Innovation Intern - Innovation Team](https://www.dmgmedia.co.uk/careers/jobs/id/8130320?gh_jid=8130320)
+- 2026-08-17 — **Google**: [Data Science PhD Intern](https://www.google.com/about/careers/applications/jobs/results/73321728058499782)
+- 2026-08-17 — **Micron Technology**: [DRAM Design Engineer Intern](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---DRAM-Design-Engineer_JR108458)
+- 2026-08-17 — **Smiths Detection Group**: [Commercial Intern - Commercial Tools & Business Intelligence](https://jobs.smartrecruiters.com/SmithsGroup2/744000143823899)
+- 2026-08-17 — **TikTok**: [Data Analyst Intern - LIVE](https://lifeattiktok.com/search/7674944387893791029)
+- 2026-08-17 — **TikTok**: [Data Engineer Intern - Data Platform Global Live](https://lifeattiktok.com/search/7674032146438162693)
+- 2026-08-17 — **TikTok**: [Machine Learning Engineer Intern - E-Commerce Governance](https://lifeattiktok.com/search/7674029136531015941)
+- 2026-08-17 — **W.W. Grainger**: [Business Systems Analyst Intern](https://jobs.grainger.com/job/CHICAGO-GTG-Intern-Business-Systems-Analyst-IL-60654-4203/1419931200/?ats=successfactors)
+- 2026-08-17 — **W.W. Grainger**: [Software Engineer Intern - Grainger Technology Group](https://jobs.grainger.com/job/CHICAGO-GTG-Intern-Software-Engineer-IL-60661-4555/1419930800/?ats=successfactors)
 - 2026-08-16 — **Boom Supersonic**: [Engineering and Tech Intern](https://ats.rippling.com/boom-supersonic/jobs/4053f749-3d30-4d71-a64c-5fa79e162bbf)
 - 2026-08-16 — **Photon**: [Software Engineering Intern - AI](https://fa-ertb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/26738)
 - 2026-08-15 — **Abridge**: [Software Engineer Intern](https://jobs.ashbyhq.com/abridge/3f07a457-dc14-4238-bf4e-5c33b5c1f883/application?embed=true)
 - 2026-08-15 — **ByteDance**: [Software Engineer Intern - Global Payment Infra and SRE](https://jobs.bytedance.com/en/position/7668315137242351925/detail)
 - 2026-08-15 — **ByteDance**: [Software Engineer Intern - Global Traffic Architecture](https://jobs.bytedance.com/en/position/7672557061679483189/detail)
-- 2026-08-15 — **ByteDance**: [Software Engineer Intern - Traffic Infrastructure](https://jobs.bytedance.com/en/position/7672626707586746629/detail)
-- 2026-08-15 — **Dedalus Labs**: [Design Engineer Intern](https://jobs.ashbyhq.com/dedalus-labs/bcd6db2e-400b-4ffa-aef3-0948a7b558c2/application?embed=true)
-- 2026-08-15 — **Dedalus Labs**: [Product Manager Intern](https://jobs.ashbyhq.com/dedalus-labs/ca4245ff-0dee-4f16-80ca-24912d72079c/application?embed=true)
-- 2026-08-15 — **Epia Neuro**: [Hardware Engineer Intern](https://jobs.ashbyhq.com/epianeuro/62d296e8-16c4-4403-8af5-629e97f7f7fe/application?embed=true)
-- 2026-08-15 — **Freeform**: [Software Engineer Intern - Summer 2027](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7872198003)
-- 2026-08-15 — **Goldman Sachs**: [Quantitative Strategist Associate Intern - Asset and Wealth Management](https://higher.gs.com/roles/175423?type=students)
-- 2026-08-15 — **Goldman Sachs**: [Quantitative Strategist Associate Intern - The Core Quantitative Strats](https://higher.gs.com/roles/171535?type=students)
-- 2026-08-15 — **Goldman Sachs**: [Quantitative Strategist Intern - Multiple Teams](https://higher.gs.com/roles/175424?type=students)
-- 2026-08-15 — **Goldman Sachs**: [Quantitative Strategist Intern - Multiple Teams](https://higher.gs.com/roles/171563?type=students)
-- 2026-08-15 — **Goldman Sachs**: [Summer Analyst Intern - FICC and Equities - Sales and Trading](https://higher.gs.com/roles/181628?type=students)
-- 2026-08-15 — **Goldman Sachs**: [Summer Analyst Intern - FICC & Equities - Sales & Trading](https://higher.gs.com/roles/170675?type=students)
-- 2026-08-15 — **Goldman Sachs**: [Summer Analyst Intern - Wealth Management - Product Management and Design](https://higher.gs.com/roles/170935?type=students)
-- 2026-08-15 — **Goldman Sachs**: [Summer Associate Intern - Multiple Teams](https://higher.gs.com/roles/171566?type=students)
 
 ## Recently closed
 
@@ -249,7 +249,6 @@ _Generated 2026-08-17_
 - Schweitzer Engineering Laboratories — Test Engineer Intern
 - Sentara Health — Data & AI Finance Strategy Intern
 - Signify — Product Management Intern
-- Smiths Detection Group — Commercial Intern - Commercial Tools & Business Intelligence
 - Sony Music Entertainment — Insight & Analytics Intern
 - Sony Pictures Entertainment — Graduate Intern - Advanced Technologies
 - Sony Pictures Entertainment — Insights Intern - Multiple Teams
