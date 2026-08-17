@@ -68194,7 +68194,7 @@
         "discovered": "2026-08-13",
         "last_verified": "2026-08-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -69205,7 +69205,7 @@
         "discovered": "2026-08-07",
         "last_verified": "2026-08-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
