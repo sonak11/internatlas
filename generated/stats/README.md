@@ -307,6 +307,7 @@ _Generated 2026-08-17_
 - Williams — Engineering Intern
 - X Development — PhD Residency Intern - Operations Research and Optimization
 - ZGF Architects — Technology Intern
+- Zipline — Embedded Software Engineer Intern
 - Zipline — Enterprise Systems Software Engineer Intern
 - Zipline — Maps Intern
 - Zipline — Mechatronics Perception Intern - Fall 2026
