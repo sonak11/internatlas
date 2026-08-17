@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 💻 Software Engineering Internships
 
-**972** tracked · **670** open now
+**972** tracked · **669** open now
 
 ## Current openings
 
@@ -364,7 +364,6 @@
 | [Netsmart](generated/companies/netsmart.md) | [Software Engineer Intern](https://ntst.wd1.myworkdayjobs.com/careers/job/Overland-Park-KS/Software-Engineer-Intern--Summer-2027-Internship-_R015667) | Overland Park, KS | Onsite | 2026-08-04 | Rolling | 🟢 Open | ❌ |
 | [New York Post Holdings](generated/companies/new-york-post-holdings.md) | [Product Intern](https://dowjones.wd1.myworkdayjobs.com/New_York_Post_Careers/job/NYC---1211-Ave-of-the-Americas/Product-Intern--Fall-2026--10-weeks--24-hours-a-week-_Job_Req_54488) | NYC | Onsite | 2026-07-31 | Rolling | 🟢 Open | ❔ |
 | [Nexstar](generated/companies/nexstar.md) | [Media Archivist Intern](https://nexstar.wd5.myworkdayjobs.com/nexstar/job/AL-Mobile/Media-Archivist-Intern--In--Person--Fall-2026_REQ-41978) | Mobile, AL | Onsite | 2026-06-27 | Rolling | 🟢 Open | ❔ |
-| [Noblis](generated/companies/noblis.md) | [Machinery Silencing Technician Intern](https://careers.noblis.org/jobs/27606?icims=1) | Philadelphia, PA | Onsite | 2026-08-10 | Rolling | 🟢 Open | ❔ |
 | [Northrop Grumman](generated/companies/northrop-grumman.md) | [Software Engineer Intern - Aeronautics Systems](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10245255) | Melbourne, FL | Onsite | 2026-08-12 | Rolling | 🟢 Open | ❔ |
 | [Northrop Grumman](generated/companies/northrop-grumman.md) | [Software Engineer Intern - Aeronautics Systems](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10242395) | Melbourne, FL | Onsite | 2026-08-06 | Rolling | 🟢 Open | ❔ |
 | [Northwestern Mutual](generated/companies/northwestern-mutual.md) | [Investment Analyst Intern - Private Debt & Equity](https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Milwaukee-WI-Corporate/Investment-Analyst-Intern---Private-Debt---Equity--Summer-2027_JR-45705) | Milwaukee, WI | Onsite | 2026-07-24 | Rolling | 🟢 Open | ❔ |
@@ -853,6 +852,7 @@
 | [NBT Bank](generated/companies/nbt-bank.md) | [Data Warehouse & Analytics Intern](https://nbtbancorp.wd12.myworkdayjobs.com/NBT-B/job/Williamsville-NY/Internship---Data-Warehouse---Analytics-Consultant_JR4868) | Williamsville, NY | Onsite | 2026-08-04 | Rolling | 🔴 Closed | ❔ |
 | [Neuralink](generated/companies/neuralink.md) | [R&D Materials Engineer Intern](https://boards.greenhouse.io/neuralink/jobs/7808233003) | San Bruno, CA | Onsite | 2026-07-17 | Rolling | 🔴 Closed | ❔ |
 | [NewsBreak](generated/companies/newsbreak.md) | [Growth Engineer Intern - Growth Engineering](https://job-boards.greenhouse.io/newsbreak/jobs/4697070006) | Mountain View, CA | Onsite | 2026-07-14 | Rolling | 🔴 Closed | ❔ |
+| [Noblis](generated/companies/noblis.md) | [Machinery Silencing Technician Intern](https://careers.noblis.org/jobs/27606?icims=1) | Philadelphia, PA | Onsite | 2026-08-10 | Rolling | 🔴 Closed | ❔ |
 | [Nokia](generated/companies/nokia.md) | [Electromechanical Assembly Co-op Intern - Intern](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39234) | Canada | Onsite | 2026-08-06 | Rolling | 🔴 Closed | ❔ |
 | [Nokia](generated/companies/nokia.md) | [Incubation Developer Coop/Intern](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34227) | Ottawa | Onsite | 2026-05-04 | Rolling | 🔴 Closed | ❔ |
 | [Nokia](generated/companies/nokia.md) | [Product Development Intern/Co-op](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34184) | Ottawa | Onsite | 2026-04-16 | Rolling | 🔴 Closed | ❔ |
@@ -1272,7 +1272,6 @@
 - Netsmart (1)
 - New York Post Holdings (1)
 - Nexstar (1)
-- Noblis (1)
 - Northwestern Mutual (1)
 - Novanta (1)
 - Novogradac (1)
@@ -1409,6 +1408,7 @@
 - NBT Bank (1)
 - Neuralink (1)
 - NewsBreak (1)
+- Noblis (1)
 - NXP Semiconductors (1)
 - onsemi (1)
 - Picton Mahoney Asset Management (1)

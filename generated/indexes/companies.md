@@ -383,7 +383,7 @@
 | [Nash](../companies/nash.md) | 1/1 | software-engineering |
 | [NationGraph](../companies/nationgraph.md) | 1/2 | software-engineering |
 | [National Laboratory of the Rockies](../companies/national-laboratory-of-the-rockies.md) | 7/10 | cloud, data-science, software-engineering |
-| [Nationwide Children's Hospital](../companies/nationwide-children-s-hospital.md) | 1/2 | research |
+| [Nationwide Children's Hospital](../companies/nationwide-children-s-hospital.md) | 0/2 | research |
 | [Naver U.Hub INC](../companies/naver-u-hub-inc.md) | 1/1 | product |
 | [Navy Federal](../companies/navy-federal.md) | 3/4 | data-engineering, data-science, software-engineering |
 | [Naïve](../companies/na-ve.md) | 1/1 | software-engineering |
@@ -394,14 +394,14 @@
 | [Netflix](../companies/netflix.md) | 2/2 | machine-learning, software-engineering |
 | [Netic](../companies/netic.md) | 4/4 | software-engineering |
 | [Netsmart](../companies/netsmart.md) | 1/1 | software-engineering |
-| [Neuralink](../companies/neuralink.md) | 19/21 | cloud, design, embedded, hardware, machine-learning, software-engineering |
+| [Neuralink](../companies/neuralink.md) | 20/21 | cloud, design, embedded, hardware, machine-learning, software-engineering |
 | [New Balance](../companies/new-balance.md) | 1/1 | research |
 | [New York Post Holdings](../companies/new-york-post-holdings.md) | 1/1 | software-engineering |
 | [NewsBreak](../companies/newsbreak.md) | 0/1 | software-engineering |
 | [Nexstar](../companies/nexstar.md) | 1/1 | software-engineering |
 | [Nextiva](../companies/nextiva.md) | 1/1 | ai |
 | [Nightwing](../companies/nightwing.md) | 1/1 | hardware |
-| [Noblis](../companies/noblis.md) | 1/1 | software-engineering |
+| [Noblis](../companies/noblis.md) | 0/1 | software-engineering |
 | [Nokia](../companies/nokia.md) | 0/5 | data-science, embedded, software-engineering |
 | [North Cloud](../companies/north-cloud.md) | 0/1 | ai |
 | [Northrop Grumman](../companies/northrop-grumman.md) | 2/5 | software-engineering |
@@ -561,7 +561,7 @@
 | [TMX Group](../companies/tmx-group.md) | 0/2 | software-engineering |
 | [Tacit](../companies/tacit.md) | 1/1 | hardware |
 | [Teledyne](../companies/teledyne.md) | 2/2 | software-engineering |
-| [Tencent](../companies/tencent.md) | 3/7 | ai, machine-learning, research, software-engineering |
+| [Tencent](../companies/tencent.md) | 2/7 | ai, machine-learning, research, software-engineering |
 | [Tenstorrent](../companies/tenstorrent.md) | 2/3 | ai, design |
 | [Terminal](../companies/terminal.md) | 0/2 | software-engineering |
 | [Terranova](../companies/terranova.md) | 2/2 | embedded, software-engineering |

@@ -6,7 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
-| Noblis | [Machinery Silencing Technician Intern](https://careers.noblis.org/jobs/27606?icims=1) | Philadelphia, PA | Onsite | 2026-08-10 | Rolling | 🟢 Open | ❔ |
+| Noblis | [Machinery Silencing Technician Intern](https://careers.noblis.org/jobs/27606?icims=1) | Philadelphia, PA | Onsite | 2026-08-10 | Rolling | 🔴 Closed | ❔ |
 
 ## Related
 

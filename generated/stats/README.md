@@ -200,9 +200,10 @@ _Generated 2026-08-17_
 - Mistral AI — AI Data Solutions Intern - Data Partnerships
 - Mobius Renewables — Software Engineer Intern
 - National Laboratory of the Rockies — Graduate Intern - Transportation Systems Analysis
+- Nationwide Children's Hospital — IGM Research Intern - RI Miller
 - Nationwide Children's Hospital — Research Intern
 - NBT Bank — Data Warehouse & Analytics Intern
-- Neuralink — Software Engineer Intern, Implant
+- Noblis — Machinery Silencing Technician Intern
 - Nokia — Electromechanical Assembly Co-op Intern - Intern
 - North Cloud — AI Automation Intern
 - Northrop Grumman — Software Engineer Intern - Aeronautics Systems
@@ -278,6 +279,7 @@ _Generated 2026-08-17_
 - Swift — Industry Engagement Research Analyst Intern
 - T. Rowe Price — Global Trading Intern
 - T. Rowe Price — Quantitative Equity Investing Intern
+- Tencent — AI Product Manager Intern
 - Tencent — Research Intern - Video World Models - Research & ML Systems
 - Tenstorrent — CPU/AI Workload Analysis Intern
 - Terminal — Software Engineer Intern - Backend
