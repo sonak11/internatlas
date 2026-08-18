@@ -37,7 +37,7 @@
 | [Amazon](../companies/amazon.md) | 8/8 | machine-learning, software-engineering |
 | [Ambarella](../companies/ambarella.md) | 2/5 | hardware, software-engineering |
 | [Amcor](../companies/amcor.md) | 1/1 | software-engineering |
-| [Amentum](../companies/amentum.md) | 1/1 | hardware |
+| [Amentum](../companies/amentum.md) | 0/1 | hardware |
 | [Ameren](../companies/ameren.md) | 1/1 | software-engineering |
 | [American Bureau of Shipping](../companies/american-bureau-of-shipping.md) | 0/1 | ai |
 | [American Enterprise Institute](../companies/american-enterprise-institute.md) | 2/4 | ai, software-engineering |
@@ -304,7 +304,7 @@
 | [Impulse Space](../companies/impulse-space.md) | 0/2 | software-engineering |
 | [Inbulks](../companies/inbulks.md) | 1/1 | software-engineering |
 | [Incident IQ](../companies/incident-iq.md) | 1/1 | software-engineering |
-| [InfiniteQuant](../companies/infinitequant.md) | 2/3 | quant |
+| [InfiniteQuant](../companies/infinitequant.md) | 1/3 | quant |
 | [Inizio](../companies/inizio.md) | 1/1 | software-engineering |
 | [Innovation Works, Inc.](../companies/innovation-works-inc.md) | 1/1 | software-engineering |
 | [Inogen](../companies/inogen.md) | 0/1 | embedded |

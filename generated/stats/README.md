@@ -78,6 +78,7 @@ _Generated 2026-08-18_
 - Ambarella — Algorithm Engineer Intern
 - Ambarella — DFT Engineer Intern
 - Ambarella — Software Development Engineer Intern
+- Amentum — Spaceflight Hardware Intern
 - American Enterprise Institute — Intern
 - Analytical Mechanics Associates — Computer Science/Engineering Intern - Computer Vision Applications
 - Arcadis — GIS Intern
@@ -176,6 +177,7 @@ _Generated 2026-08-18_
 - impact.com — Associate Software Engineer Intern
 - Impulse Space — Data Analytics Intern
 - InfiniteQuant — Quantitative Researcher Intern
+- InfiniteQuant — Quantitative Researcher Intern - Summer 2027
 - ING — Technology Intern - Innovation
 - Inogen — Firmware Engineer Intern
 - Intel — AI Software Engineer Intern
