@@ -46,7 +46,7 @@
 | [Amgen](../companies/amgen.md) | 1/1 | software-engineering |
 | [Amwins](../companies/amwins.md) | 0/1 | ai |
 | [Analysis Group](../companies/analysis-group.md) | 1/1 | research |
-| [Analytical Mechanics Associates](../companies/analytical-mechanics-associates.md) | 2/2 | research, software-engineering |
+| [Analytical Mechanics Associates](../companies/analytical-mechanics-associates.md) | 1/2 | research, software-engineering |
 | [Anduril](../companies/anduril.md) | 6/6 | hardware, software-engineering |
 | [Anthelion Capital](../companies/anthelion-capital.md) | 2/2 | quant |
 | [Apex Technology, Inc.](../companies/apex-technology-inc.md) | 1/1 | embedded |
@@ -112,7 +112,7 @@
 | [ByteDance](../companies/bytedance.md) | 49/52 | ai, cloud, hardware, machine-learning, research, software-engineering |
 | [CACI](../companies/caci.md) | 1/2 | software-engineering |
 | [CALSTART](../companies/calstart.md) | 3/3 | research, software-engineering |
-| [CCC Intelligent Solutions](../companies/ccc-intelligent-solutions.md) | 1/3 | ai, data-science |
+| [CCC Intelligent Solutions](../companies/ccc-intelligent-solutions.md) | 0/3 | ai, data-science |
 | [CME Group](../companies/cme-group.md) | 1/1 | quant |
 | [CNO Financial Group](../companies/cno-financial-group.md) | 1/2 | ai, security |
 | [CTGT](../companies/ctgt.md) | 1/1 | software-engineering |

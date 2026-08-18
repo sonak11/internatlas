@@ -79,6 +79,7 @@ _Generated 2026-08-18_
 - Ambarella — DFT Engineer Intern
 - Ambarella — Software Development Engineer Intern
 - American Enterprise Institute — Intern
+- Analytical Mechanics Associates — Computer Science/Engineering Intern - Computer Vision Applications
 - Arcadis — GIS Intern
 - Arevon — Data Science Intern - Interconnection & Transmission
 - Arizona State University — Management Intern - Career Data and Analytics
@@ -105,6 +106,7 @@ _Generated 2026-08-18_
 - Canva — PhD Research Scientist Intern - Reinforcement Learning - Images
 - Capital One — Technology Intern
 - CCC Intelligent Solutions — Data Science Engineer Intern
+- CCC Intelligent Solutions — Data Science Intern - R&D
 - Centerfield — Product Manager Intern
 - Ciena — Optical Modem Hardware Intern
 - Ciena — Photonic Hardware Intern
