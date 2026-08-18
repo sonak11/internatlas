@@ -1167,7 +1167,6 @@
 - Tesla — [Solar Hardware Engineer Intern - Solar Hardware Engineer - Energy Engineering](https://www.tesla.com/careers/search/job/271539)
 - Tesla — [System Software Engineer Intern, System Software](https://www.tesla.com/careers/search/job/248064)
 - Tesla — [Systems Modeling & Optimization Intern - Robotaxi Simulation Engineer - Systems Modeling & Optimization](https://www.tesla.com/careers/search/job/273933)
-- Tesla — [Thermal Controls Engineer Intern - Thermal Controls Engineer - Vehicle Controls](https://www.tesla.com/careers/search/job/275327)
 - Tesla — [Vehicle Software Intern - Torque Path & Chassis Controls](https://www.tesla.com/careers/search/job/274760)
 - Tesla — [Vehicle Software Intern - Vehicle Controls](https://www.tesla.com/careers/search/job/278203)
 - Tesla — [Vehicle Software Intern - Vehicle Software Engineer-Diagnostic User Interface](https://www.tesla.com/careers/search/job/278703)

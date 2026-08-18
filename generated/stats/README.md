@@ -288,6 +288,7 @@ _Generated 2026-08-18_
 - Tesla — Software Engineer Intern - Software Engineer - Data Platforms
 - Tesla — Software Engineer Intern - Software Engineer - Energy Engineering
 - Tesla — Supercharger Product Engineer Intern - Supercharger Product Support Engineering
+- Tesla — Thermal Controls Engineer Intern - Thermal Controls Engineer - Vehicle Controls
 - Texas Permanent School Fund Corporation — Equity Capital Markets Intern
 - The Home Depot — AI Engineer Intern
 - TMEIC Corporation Americas — Engineer Intern - Spring 2027 - Eis
