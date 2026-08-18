@@ -74,6 +74,7 @@ _Generated 2026-08-18_
 
 - Adobe — AI/ML Intern – Machine Learning Engineer/Researcher Intern
 - Alljoined — Research Intern
+- Altera Corporation — Embedded Solutions Intern
 - Ambarella — Algorithm Engineer Intern
 - Ambarella — DFT Engineer Intern
 - Ambarella — Software Development Engineer Intern
@@ -158,6 +159,7 @@ _Generated 2026-08-18_
 - Gulfstream — Computer Science Intern - Advanced Structures and Materials
 - Harris Computer — Software Development Intern
 - Hershey — Product Development Intern - R&D
+- Horizon Industries — Appian Intern
 - impact.com — Associate Software Engineer Intern
 - Impulse Space — Data Analytics Intern
 - InfiniteQuant — Quantitative Researcher Intern
