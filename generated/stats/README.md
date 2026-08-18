@@ -234,6 +234,7 @@ _Generated 2026-08-18_
 - Royal Bank of Canada — Relationship Manager Commercial Markets Intern
 - RTX — Enterprise Extended Reality Intern
 - RTX — Machine Learning Researcher Intern/Co-op
+- RTX — Methods Intern - Hot Section Engineering
 - RTX — Modeling, Simulation & Analysis Intern
 - RTX — Modeling, Simulation & Analysis Intern - Summer 2027
 - RTX — Radar Digital Products Engineering Intern
@@ -249,7 +250,6 @@ _Generated 2026-08-18_
 - RTX — Systems Engineering Intern
 - RTX — Validation Engineer Intern - Product Safety - Certification & Validation
 - Salesforce — Software Engineer Intern - Future Pathways
-- Samsara — Software Engineering Internship - London
 - Samsung Research America — Digital Health Algorithms Intern
 - Samsung Research America — ML/NLP Research Intern
 - Sargent & Lundy — AI & Automation Intern - Enterprise Data & Analytics
