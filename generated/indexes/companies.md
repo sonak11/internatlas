@@ -260,7 +260,7 @@
 | [Global Partners](../companies/global-partners.md) | 1/1 | software-engineering |
 | [GoDaddy](../companies/godaddy.md) | 1/1 | software-engineering |
 | [Golden Pet Brands](../companies/golden-pet-brands.md) | 0/1 | software-engineering |
-| [Goldman Sachs](../companies/goldman-sachs.md) | 1/9 | product, quant, software-engineering |
+| [Goldman Sachs](../companies/goldman-sachs.md) | 0/9 | product, quant, software-engineering |
 | [Google](../companies/google.md) | 3/7 | data-science, research, software-engineering |
 | [Grant Thornton](../companies/grant-thornton.md) | 2/2 | software-engineering |
 | [Gritt Robotics Inc](../companies/gritt-robotics-inc.md) | 1/1 | software-engineering |
@@ -483,7 +483,7 @@
 | [RLI](../companies/rli.md) | 0/1 | product |
 | [ROCKWOOL Group](../companies/rockwool-group.md) | 0/2 | product, software-engineering |
 | [RRS Group](../companies/rrs-group.md) | 2/2 | software-engineering |
-| [RTX](../companies/rtx.md) | 28/44 | design, machine-learning, software-engineering |
+| [RTX](../companies/rtx.md) | 27/44 | design, machine-learning, software-engineering |
 | [Radix Trading](../companies/radix-trading.md) | 1/1 | quant |
 | [Rainmaker](../companies/rainmaker.md) | 0/1 | software-engineering |
 | [Rakuten International](../companies/rakuten-international.md) | 0/1 | software-engineering |
@@ -565,7 +565,7 @@
 | [StepStone Group](../companies/stepstone-group.md) | 1/1 | ai |
 | [Stevens Capital Management](../companies/stevens-capital-management.md) | 1/1 | quant |
 | [Stoke Space](../companies/stoke-space.md) | 1/2 | software-engineering |
-| [Stripe](../companies/stripe.md) | 1/1 | software-engineering |
+| [Stripe](../companies/stripe.md) | 2/2 | software-engineering |
 | [StudyFetch](../companies/studyfetch.md) | 1/2 | software-engineering |
 | [Super](../companies/super.md) | 2/2 | software-engineering |
 | [Susquehanna](../companies/susquehanna.md) | 1/1 | quant |

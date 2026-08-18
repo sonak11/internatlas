@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "rtx-software-engineer-intern-summer-2027-2027-eb1609",
+  "id": "stripe-software-engineer-intern-2027-5c3f60",
   "company": {
-    "name": "RTX",
-    "slug": "rtx"
+    "name": "Stripe",
+    "slug": "stripe",
+    "career_page": "https://stripe.com/jobs/university"
   },
-  "role": "Software Engineer Intern - Summer 2027",
+  "role": "Software Engineer, Intern",
   "category": "software-engineering",
-  "apply_url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineering-Intern--Summer-2027-_01866136",
+  "apply_url": "https://stripe.com/jobs/search?gh_jid=8097801",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Cedar Rapids",
-      "state": "IA",
+      "city": "Dublin",
       "country": "USA"
     }
   ],
@@ -25,9 +25,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -42,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-14",
-    "discovered": "2026-08-15",
+    "posted": "2026-08-17",
+    "discovered": "2026-08-18",
     "last_verified": "2026-08-18"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:ats"
   ]
 }

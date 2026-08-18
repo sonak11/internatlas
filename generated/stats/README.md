@@ -33,7 +33,7 @@ _Generated 2026-08-18_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 1031 | `█████████████` |
+| software-engineering | 1032 | `█████████████` |
 | quant | 187 | `██` |
 | ai | 183 | `██` |
 | machine-learning | 129 | `██` |
@@ -159,6 +159,7 @@ _Generated 2026-08-18_
 - General Motors — Research and Development Intern - Research & Development: AI/ML
 - Global Infrastructure — Alternative Delivery Project Analytics Intern
 - Golden Pet Brands — Data Analytics Intern
+- Goldman Sachs — Quantitative Strategist Associate Intern - Asset and Wealth Management
 - Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
 - Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
 - Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
@@ -245,6 +246,7 @@ _Generated 2026-08-18_
 - RTX — Software Engineer Intern
 - RTX — Software Engineer Intern
 - RTX — Software Engineer Intern
+- RTX — Software Engineer Intern - Summer 2027
 - RTX — Software Engineer Intern - Summer 2027
 - RTX — Software Engineer Intern - Summer 2027
 - RTX — Software Engineer Intern - Summer 2027

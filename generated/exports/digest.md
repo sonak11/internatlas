@@ -1,6 +1,6 @@
 # 📬 InternAtlas Weekly Digest — 2026-08-18
 
-## 🆕 New this week (329)
+## 🆕 New this week (330)
 
 - **AARP** — [Data Science and Advanced Analytics Intern](https://careers.aarp.org/jobs/7437?icims=1) · data-science · —
 - **Abridge** — [Software Engineer Intern](https://jobs.ashbyhq.com/abridge/3f07a457-dc14-4238-bf4e-5c33b5c1f883/application?embed=true) · software-engineering · —
@@ -260,6 +260,7 @@
 - **SkyGig** — [RFIC Design Intern](https://apply.workable.com/skygig/j/10A5A58F9E/apply) · design · —
 - **Smiths Detection Group** — [Commercial Intern - Commercial Tools & Business Intelligence](https://jobs.smartrecruiters.com/SmithsGroup2/744000143823899) · software-engineering · —
 - **Snap** — [Research Scientist Intern - User Modeling and Personalization](https://wd1.myworkdaysite.com/recruiting/snapchat/snap/job/Bellevue-Washington/Research-Intern--User-Modeling-and-Personalization_R0046464-1) · research · —
+- **Stripe** — [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8097801) · software-engineering · —
 - **TMEIC Corporation Americas** — [Applications Intern - AI and Machine Learning](https://apply.workable.com/tmeic-corporation-americas/j/6FDBF2FD32/apply) · machine-learning · —
 - **TMEIC Corporation Americas** — [Engineer Intern - Spring 2027](https://apply.workable.com/tmeic-corporation-americas/j/68E556E5CA/apply) · software-engineering · —
 - **TMEIC Corporation Americas** — [Engineer Intern - Spring 2027 - Eis](https://apply.workable.com/tmeic-corporation-americas/j/D44B74C42B/apply) · software-engineering · —
