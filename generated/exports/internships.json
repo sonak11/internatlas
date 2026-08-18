@@ -1,6 +1,6 @@
 {
   "generated": "2026-08-18",
-  "count": 1964,
+  "count": 1967,
   "internships": [
     {
       "schema_version": "1.0",
@@ -33564,7 +33564,7 @@
         "discovered": "2026-08-05",
         "last_verified": "2026-08-18"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -35101,7 +35101,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-08-18"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -35154,7 +35154,7 @@
         "discovered": "2026-08-18",
         "last_verified": "2026-08-18"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -35207,7 +35207,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-08-18"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -35258,7 +35258,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-08-18"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -35309,7 +35309,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-08-18"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -35363,7 +35363,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-08-18"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -35414,7 +35414,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-08-18"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -35465,7 +35465,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-08-18"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -35518,7 +35518,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-08-18"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -43526,7 +43526,7 @@
         "discovered": "2026-08-03",
         "last_verified": "2026-08-18"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -47675,6 +47675,61 @@
       "dates": {
         "posted": "2026-08-12",
         "discovered": "2026-08-12",
+        "last_verified": "2026-08-18"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "l3harris-technologies-integration-test-engineering-intern-2026",
+      "company": {
+        "name": "L3Harris Technologies",
+        "slug": "l3harris-technologies"
+      },
+      "role": "Integration/Test Engineering Intern",
+      "category": "software-engineering",
+      "apply_url": "https://jobs.l3harris.com/job/Ashburn-IntegrationTest-Engineering-Internship-VA-20147/1420071500/?ats=successfactors",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Ashburn",
+          "state": "VA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters",
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-17",
+        "discovered": "2026-08-18",
         "last_verified": "2026-08-18"
       },
       "status": "open",
@@ -70979,6 +71034,57 @@
     },
     {
       "schema_version": "1.0",
+      "id": "royal-bank-of-canada-ai-applications-intern-group-risk-management-2027",
+      "company": {
+        "name": "Royal Bank of Canada",
+        "slug": "royal-bank-of-canada"
+      },
+      "role": "AI Applications Intern - Group Risk Management",
+      "category": "ai",
+      "apply_url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--MCCR-Policy-AI-Applications-Intern--4-Months-_R-0000184696",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Toronto",
+          "country": "ON"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-18",
+        "discovered": "2026-08-18",
+        "last_verified": "2026-08-18"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "royal-bank-of-canada-business-markets-relationship-manager-intern-2026",
       "company": {
         "name": "Royal Bank of Canada",
@@ -71020,9 +71126,9 @@
       "dates": {
         "posted": "2026-07-28",
         "discovered": "2026-07-29",
-        "last_verified": "2026-08-11"
+        "last_verified": "2026-08-18"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -79160,6 +79266,57 @@
       "dates": {
         "posted": "2026-07-27",
         "discovered": "2026-07-27",
+        "last_verified": "2026-08-18"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "squarepoint-capital-software-developer-intern-2026",
+      "company": {
+        "name": "Squarepoint Capital",
+        "slug": "squarepoint-capital"
+      },
+      "role": "Software Developer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://boards.greenhouse.io/embed/job_app?token=7905463",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Montreal",
+          "country": "QC"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-05-07",
+        "discovered": "2026-08-18",
         "last_verified": "2026-08-18"
       },
       "status": "open",

@@ -33,9 +33,9 @@ _Generated 2026-08-18_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 1032 | `█████████████` |
+| software-engineering | 1034 | `█████████████` |
 | quant | 187 | `██` |
-| ai | 183 | `██` |
+| ai | 184 | `██` |
 | machine-learning | 129 | `██` |
 | research | 100 | `█` |
 | hardware | 79 | `█` |
@@ -65,10 +65,10 @@ _Generated 2026-08-18_
 - 2026-08-18 — **Praytell**: [Analytics & Reporting Intern](https://apply.workable.com/praytell/j/64893520AF/apply)
 - 2026-08-18 — **RegDesk**: [Front End Developer Intern](https://jobs.smartrecruiters.com/RegDeskInc/92145731)
 - 2026-08-18 — **Riveron**: [Technology & Innovation Intern](https://jobs.ashbyhq.com/riveron/a1c4ef22-34a2-43b8-950d-ca6288cc17a1/application?embed=true)
+- 2026-08-18 — **Royal Bank of Canada**: [AI Applications Intern - Group Risk Management](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--MCCR-Policy-AI-Applications-Intern--4-Months-_R-0000184696)
 - 2026-08-18 — **RTX**: [Software Engineer Intern - Intelligent Software & Systems](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-CAMBRIDGE-BBN01--10--50-Moulton-St--MOULTON-B2/XMLNAME-2027-Software-Engineer-Intern--Onsite-_01866914)
 - 2026-08-18 — **RTX**: [Software Engineering Intern](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-CAMBRIDGE-BBN01--10--50-Moulton-St--MOULTON-B2/XMLNAME-2027-Software-Engineering-Intern--Onsite-_01864698)
 - 2026-08-18 — **SightCall**: [Web Developer Intern](https://jobs.smartrecruiters.com/SightCall/80298252)
-- 2026-08-18 — **TikTok**: [Software Engineer Intern - TikTok Search Data Infra](https://lifeattiktok.com/search/7675128776856029445)
 
 ## Recently closed
 
@@ -151,6 +151,7 @@ _Generated 2026-08-18_
 - First American — Software Engineer Intern
 - Formlabs — Hardware Systems Integration Intern
 - Gartner — Data Analyst Intern
+- GE Vernova — Digital Technology Intern
 - GE Vernova — Engineering Intern
 - Gemini — Product Management Intern
 - Gemini — Software Engineer Intern
@@ -160,15 +161,6 @@ _Generated 2026-08-18_
 - General Motors — Research and Development Intern - Research & Development: AI/ML
 - Global Infrastructure — Alternative Delivery Project Analytics Intern
 - Golden Pet Brands — Data Analytics Intern
-- Goldman Sachs — Quantitative Strategist Associate Intern - Asset and Wealth Management
-- Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
-- Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
-- Goldman Sachs — Summer Analyst Intern - FICC and Equities - Sales and Trading
-- Goldman Sachs — Summer Analyst Intern - FICC & Equities - Sales & Trading
-- Goldman Sachs — Summer Analyst Intern - Wealth Management - Product Management and Design
-- Goldman Sachs — Summer Associate Intern - Multiple Teams
 - Group 1001 — Quantitative Analysis Intern
 - Gulfstream — Computer Science Intern - Advanced Structures and Materials
 - Harris Computer — Software Development Intern
@@ -182,6 +174,7 @@ _Generated 2026-08-18_
 - Inogen — Firmware Engineer Intern
 - Intel — AI Software Engineer Intern
 - Intuitive Surgical — Computer Vision Engineer Intern
+- JP Morgan Chase — Data & AI Intern - Analyst
 - KBR — Software Intern
 - Keysight Technologies — R&D Software Engineer Intern
 - Keysight Technologies — Software Engineer Intern - R&D - FPGA
@@ -238,7 +231,6 @@ _Generated 2026-08-18_
 - Rockwell Automation — Firmware Engineering Intern
 - Rockwell Automation — Firmware Engineering Intern
 - ROCKWOOL Group — Paint & Coating Intern
-- Royal Bank of Canada — Business Markets Relationship Manager Intern
 - Royal Bank of Canada — Relationship Manager Commercial Markets Intern
 - RTX — Enterprise Extended Reality Intern
 - RTX — Machine Learning Researcher Intern/Co-op
