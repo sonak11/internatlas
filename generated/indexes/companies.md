@@ -260,7 +260,7 @@
 | [Global Partners](../companies/global-partners.md) | 1/1 | software-engineering |
 | [GoDaddy](../companies/godaddy.md) | 1/1 | software-engineering |
 | [Golden Pet Brands](../companies/golden-pet-brands.md) | 0/1 | software-engineering |
-| [Goldman Sachs](../companies/goldman-sachs.md) | 9/9 | product, quant, software-engineering |
+| [Goldman Sachs](../companies/goldman-sachs.md) | 0/9 | product, quant, software-engineering |
 | [Google](../companies/google.md) | 3/7 | data-science, research, software-engineering |
 | [Grant Thornton](../companies/grant-thornton.md) | 2/2 | software-engineering |
 | [Gritt Robotics Inc](../companies/gritt-robotics-inc.md) | 1/1 | software-engineering |
@@ -655,7 +655,7 @@
 | [WallStreetQuants](../companies/wallstreetquants.md) | 2/2 | quant |
 | [Walleye Capital](../companies/walleye-capital.md) | 3/9 | data-science, quant, software-engineering |
 | [Warner Bros.](../companies/warner-bros.md) | 3/3 | research, software-engineering |
-| [Wells Fargo](../companies/wells-fargo.md) | 3/4 | quant, software-engineering |
+| [Wells Fargo](../companies/wells-fargo.md) | 3/5 | quant, software-engineering |
 | [Western Digital](../companies/western-digital.md) | 2/3 | hardware, software-engineering |
 | [Williams](../companies/williams.md) | 0/1 | software-engineering |
 | [WindBorne Systems](../companies/windborne-systems.md) | 1/1 | embedded |

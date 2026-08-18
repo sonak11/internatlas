@@ -34,7 +34,7 @@ _Generated 2026-08-18_
 | Category | Count | Share |
 |---|---|---|
 | software-engineering | 1025 | `█████████████` |
-| quant | 186 | `██` |
+| quant | 187 | `██` |
 | ai | 182 | `██` |
 | machine-learning | 129 | `██` |
 | research | 100 | `█` |
@@ -65,10 +65,10 @@ _Generated 2026-08-18_
 - 2026-08-18 — **RTX**: [Software Engineer Intern - Intelligent Software & Systems](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-CAMBRIDGE-BBN01--10--50-Moulton-St--MOULTON-B2/XMLNAME-2027-Software-Engineer-Intern--Onsite-_01866914)
 - 2026-08-18 — **RTX**: [Software Engineering Intern](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-CAMBRIDGE-BBN01--10--50-Moulton-St--MOULTON-B2/XMLNAME-2027-Software-Engineering-Intern--Onsite-_01864698)
 - 2026-08-18 — **SightCall**: [Web Developer Intern](https://jobs.smartrecruiters.com/SightCall/80298252)
+- 2026-08-18 — **Wells Fargo**: [Quantitative Analytics Intern - Multiple Teams](https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Quantitative-Analytics-Summer-Internship-Risk-Analytics-and-Decision-Sciences--RADS-Masters----Early-Careers_R-569402)
 - 2026-08-18 — **Zoomifier**: [Software Development Intern](https://jobs.smartrecruiters.com/CustomShow/75886593)
 - 2026-08-17 — **American Express**: [AI Engineer Intern - Enterprise Technology Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012375)
 - 2026-08-17 — **American Express**: [AI Engineer Intern - Enterprise Technology Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011796)
-- 2026-08-17 — **American Express**: [AI Engineer Intern - Enterprise Technology Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011999)
 
 ## Recently closed
 
@@ -157,6 +157,15 @@ _Generated 2026-08-18_
 - General Motors — Research and Development Intern - Research & Development: AI/ML
 - Global Infrastructure — Alternative Delivery Project Analytics Intern
 - Golden Pet Brands — Data Analytics Intern
+- Goldman Sachs — Quantitative Strategist Associate Intern - Asset and Wealth Management
+- Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
+- Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
+- Goldman Sachs — Summer Analyst Intern - FICC and Equities - Sales and Trading
+- Goldman Sachs — Summer Analyst Intern - FICC & Equities - Sales & Trading
+- Goldman Sachs — Summer Analyst Intern - Wealth Management - Product Management and Design
+- Goldman Sachs — Summer Associate Intern - Multiple Teams
 - Group 1001 — Quantitative Analysis Intern
 - Gulfstream — Computer Science Intern - Advanced Structures and Materials
 - Harris Computer — Software Development Intern
@@ -294,6 +303,7 @@ _Generated 2026-08-18_
 - Veralto — Machine Learning Co-op Intern
 - Vertiv — Software Engineer Intern
 - Wells Fargo — Corporate Risk Development Program Intern - Core Risk - Early Careers
+- Wells Fargo — Quantitative Analytics Intern - Multiple Teams
 - Western Digital — Software Engineer Intern
 - WGU — Data Support Engineer Intern
 - Williams — Engineering Intern

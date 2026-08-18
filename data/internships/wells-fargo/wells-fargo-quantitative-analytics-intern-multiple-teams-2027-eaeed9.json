@@ -1,20 +1,21 @@
 {
   "schema_version": "1.0",
-  "id": "goldman-sachs-summer-analyst-intern-wealth-management-product-management-a-2027",
+  "id": "wells-fargo-quantitative-analytics-intern-multiple-teams-2027-eaeed9",
   "company": {
-    "name": "Goldman Sachs",
-    "slug": "goldman-sachs"
+    "name": "Wells Fargo",
+    "slug": "wells-fargo"
   },
-  "role": "Summer Analyst Intern - Wealth Management - Product Management and Design",
-  "category": "product",
-  "apply_url": "https://higher.gs.com/roles/170935?type=students",
+  "role": "Quantitative Analytics Intern - Multiple Teams",
+  "category": "quant",
+  "apply_url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Quantitative-Analytics-Summer-Internship-Risk-Analytics-and-Decision-Sciences--RADS-Masters----Early-Careers_R-569402",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "London",
-      "country": "UK"
+      "city": "Charlotte",
+      "state": "NC",
+      "country": "USA"
     }
   ],
   "compensation": {
@@ -24,7 +25,9 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "masters"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -39,11 +42,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-15",
-    "discovered": "2026-08-15",
+    "posted": "2026-08-18",
+    "discovered": "2026-08-18",
     "last_verified": "2026-08-18"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"
