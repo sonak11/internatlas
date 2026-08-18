@@ -331,7 +331,7 @@
 | [Kepler Communications](../companies/kepler-communications.md) | 1/1 | hardware |
 | [KeyBank](../companies/keybank.md) | 3/3 | quant, software-engineering |
 | [Keysight Technologies](../companies/keysight-technologies.md) | 1/3 | hardware, machine-learning, software-engineering |
-| [Kimley-Horn](../companies/kimley-horn.md) | 1/1 | software-engineering |
+| [Kimley-Horn](../companies/kimley-horn.md) | 0/1 | software-engineering |
 | [Kinaxis](../companies/kinaxis.md) | 0/2 | software-engineering |
 | [Kirin](../companies/kirin.md) | 1/2 | ai, quant |
 | [Kodak](../companies/kodak.md) | 0/1 | software-engineering |

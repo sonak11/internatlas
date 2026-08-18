@@ -170,6 +170,7 @@ _Generated 2026-08-18_
 - KBR — Software Intern
 - Keysight Technologies — R&D Software Engineer Intern
 - Keysight Technologies — Software Engineer Intern - R&D - FPGA
+- Kimley-Horn — Software Developer Intern
 - KRAFTON — Programming Intern
 - Lumentum — Optical Verification Technician Co-op Intern
 - Lumentum — Optical Verification Technician Intern/Co-op
