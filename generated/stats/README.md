@@ -187,7 +187,6 @@ _Generated 2026-08-18_
 - KRAFTON — Programming Intern
 - Lumentum — Optical Verification Technician Co-op Intern
 - Lumentum — Optical Verification Technician Intern/Co-op
-- McKesson — AI & Strategic Analytics Intern
 - McKesson — Software Developer Intern - Digital and Enterprise Technology
 - McKesson — Technology Intern
 - Meta — Research Scientist Intern - Monetization Computer Vision
@@ -210,6 +209,7 @@ _Generated 2026-08-18_
 - Nationwide Children's Hospital — IGM Research Intern - RI Miller
 - Nationwide Children's Hospital — Research Intern
 - NBT Bank — Data Warehouse & Analytics Intern
+- New Balance — Sports Research Engineer Intern
 - Noblis — Machinery Silencing Technician Intern
 - Nokia — Electromechanical Assembly Co-op Intern - Intern
 - Northrop Grumman — Software Engineer Intern - Aeronautics Systems

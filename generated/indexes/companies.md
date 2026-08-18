@@ -362,7 +362,7 @@
 | [Mathtech](../companies/mathtech.md) | 1/1 | software-engineering |
 | [Maven Securities](../companies/maven-securities.md) | 3/3 | quant, software-engineering |
 | [MaxLinear](../companies/maxlinear.md) | 1/1 | ai |
-| [McKesson](../companies/mckesson.md) | 1/6 | ai, software-engineering |
+| [McKesson](../companies/mckesson.md) | 2/6 | ai, software-engineering |
 | [Medline](../companies/medline.md) | 1/1 | product |
 | [Medpace](../companies/medpace.md) | 2/3 | ai, data-engineering, software-engineering |
 | [Medpace, Inc.](../companies/medpace-inc.md) | 2/3 | ai, data-engineering, software-engineering |
@@ -409,7 +409,7 @@
 | [Netic](../companies/netic.md) | 4/4 | software-engineering |
 | [Netsmart](../companies/netsmart.md) | 1/1 | software-engineering |
 | [Neuralink](../companies/neuralink.md) | 20/21 | cloud, design, embedded, hardware, machine-learning, software-engineering |
-| [New Balance](../companies/new-balance.md) | 1/1 | research |
+| [New Balance](../companies/new-balance.md) | 0/1 | research |
 | [New York Post Holdings](../companies/new-york-post-holdings.md) | 1/1 | software-engineering |
 | [NewsBreak](../companies/newsbreak.md) | 0/1 | software-engineering |
 | [Nexstar](../companies/nexstar.md) | 1/1 | software-engineering |
