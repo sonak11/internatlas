@@ -524,7 +524,6 @@
 - IMC — [Software Engineer Intern](https://www.imc.com/us/careers/jobs/4823924101)
 - IMC Trading — [Hardware Engineer Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4927149101)
 - IMC Trading — [Hardware Engineer Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4823945101)
-- IMC Trading — [Hardware Machine Learning PhD Research Internship](https://job-boards.eu.greenhouse.io/imc/jobs/4829785101)
 - IMC Trading — [Machine Learning Research Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4912874101)
 - IMC Trading — [Machine Learning Research Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4907430101)
 - IMC Trading — [Macro Analyst Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4941380101)

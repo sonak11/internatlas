@@ -166,6 +166,7 @@ _Generated 2026-08-18_
 - Harris Computer — Software Development Intern
 - Hershey — Product Development Intern - R&D
 - Horizon Industries — Appian Intern
+- IMC Trading — Hardware Machine Learning PhD Research Internship
 - impact.com — Associate Software Engineer Intern
 - Impulse Space — Data Analytics Intern
 - InfiniteQuant — Quantitative Researcher Intern

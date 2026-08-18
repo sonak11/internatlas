@@ -298,7 +298,7 @@
 | [Hypercubic](../companies/hypercubic.md) | 1/1 | software-engineering |
 | [IES Holdings](../companies/ies-holdings.md) | 1/1 | software-engineering |
 | [IMC](../companies/imc.md) | 4/4 | hardware, quant, software-engineering |
-| [IMC Trading](../companies/imc-trading.md) | 16/23 | hardware, machine-learning, quant |
+| [IMC Trading](../companies/imc-trading.md) | 15/23 | hardware, machine-learning, quant |
 | [ING](../companies/ing.md) | 0/1 | software-engineering |
 | [Ignite Digital Services](../companies/ignite-digital-services.md) | 0/1 | software-engineering |
 | [Impulse Space](../companies/impulse-space.md) | 0/2 | software-engineering |
