@@ -187,6 +187,7 @@ _Generated 2026-08-18_
 - KRAFTON — Programming Intern
 - Lumentum — Optical Verification Technician Co-op Intern
 - Lumentum — Optical Verification Technician Intern/Co-op
+- McKesson — AI & Strategic Analytics Intern
 - McKesson — Software Developer Intern - Digital and Enterprise Technology
 - McKesson — Technology Intern
 - Meta — Research Scientist Intern - Monetization Computer Vision
@@ -240,13 +241,13 @@ _Generated 2026-08-18_
 - RTX — Enterprise Extended Reality Intern
 - RTX — Machine Learning Researcher Intern/Co-op
 - RTX — Modeling, Simulation & Analysis Intern
+- RTX — Modeling, Simulation & Analysis Intern - Summer 2027
 - RTX — Radar Digital Products Engineering Intern
 - RTX — Software Engineer Intern
 - RTX — Software Engineer Intern
 - RTX — Software Engineer Intern
 - RTX — Software Engineer Intern
 - RTX — Software Engineer Intern
-- RTX — Software Engineer Intern - Summer 2027
 - RTX — Software Engineer Intern - Summer 2027
 - RTX — Software Engineer Intern - Summer 2027
 - RTX — Software Engineer Intern - Summer 2027
