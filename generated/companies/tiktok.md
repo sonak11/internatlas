@@ -129,6 +129,7 @@
 | TikTok | [Software Engineer Intern - Media Engine](https://lifeattiktok.com/search/7670295535077427509) | San Jose, CA | Onsite | 2026-08-06 | Rolling | 🟢 Open | ❔ |
 | TikTok | [Software Engineer Intern - ML Infra](https://lifeattiktok.com/search/7668696895234197813) | San Jose, CA | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
 | TikTok | [Software Engineer Intern - Social Friending](https://lifeattiktok.com/search/7667935399050692917) | San Jose, CA | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
+| TikTok | [Software Engineer Intern - TikTok Search Data Infra](https://lifeattiktok.com/search/7675128776856029445) | San Jose, CA | Onsite | 2026-08-18 | Rolling | 🟢 Open | ❔ |
 | TikTok | [Software Engineer Intern - Transaction Platform](https://lifeattiktok.com/search/7669943120351906053) | San Jose, CA | Onsite | 2026-08-04 | Rolling | 🟢 Open | ❔ |
 | TikTok | [Software Engineer Intern - Trust and Safety Engineering](https://lifeattiktok.com/search/7662684280234232117) | Seattle, WA | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
 | TikTok | [Software Engineer Intern, Data Arch - E-commerce](https://lifeattiktok.com/search/7668582146236631349) | Seattle, WA | Onsite | 2026-08-03 | Rolling | 🟢 Open | ✅ |

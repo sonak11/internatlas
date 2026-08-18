@@ -126,7 +126,7 @@
 | [Center for AI Safety](../companies/center-for-ai-safety.md) | 0/1 | research |
 | [Centerfield](../companies/centerfield.md) | 1/2 | product, software-engineering |
 | [Centerstone](../companies/centerstone.md) | 1/1 | software-engineering |
-| [Centific](../companies/centific.md) | 2/2 | ai, software-engineering |
+| [Centific](../companies/centific.md) | 1/2 | ai, software-engineering |
 | [Chamberlain Group](../companies/chamberlain-group.md) | 1/1 | product |
 | [Chanel](../companies/chanel.md) | 1/1 | software-engineering |
 | [Chevron Corporation](../companies/chevron-corporation.md) | 4/6 | quant, software-engineering |
@@ -260,7 +260,7 @@
 | [Global Partners](../companies/global-partners.md) | 1/1 | software-engineering |
 | [GoDaddy](../companies/godaddy.md) | 1/1 | software-engineering |
 | [Golden Pet Brands](../companies/golden-pet-brands.md) | 0/1 | software-engineering |
-| [Goldman Sachs](../companies/goldman-sachs.md) | 0/9 | product, quant, software-engineering |
+| [Goldman Sachs](../companies/goldman-sachs.md) | 2/9 | product, quant, software-engineering |
 | [Google](../companies/google.md) | 3/7 | data-science, research, software-engineering |
 | [Grant Thornton](../companies/grant-thornton.md) | 2/2 | software-engineering |
 | [Gritt Robotics Inc](../companies/gritt-robotics-inc.md) | 1/1 | software-engineering |
@@ -396,6 +396,7 @@
 | [Nash](../companies/nash.md) | 1/1 | software-engineering |
 | [NationGraph](../companies/nationgraph.md) | 1/2 | software-engineering |
 | [National Laboratory of the Rockies](../companies/national-laboratory-of-the-rockies.md) | 6/10 | cloud, data-science, software-engineering |
+| [National Reconnaissance Office](../companies/national-reconnaissance-office.md) | 1/1 | software-engineering |
 | [Nationwide Children's Hospital](../companies/nationwide-children-s-hospital.md) | 0/2 | research |
 | [Naver U.Hub INC](../companies/naver-u-hub-inc.md) | 1/1 | product |
 | [Navy Federal](../companies/navy-federal.md) | 3/4 | data-engineering, data-science, software-engineering |
@@ -597,7 +598,7 @@
 | [The Nuclear Company](../companies/the-nuclear-company.md) | 10/10 | ai, data-science, machine-learning, software-engineering |
 | [The Trade Desk](../companies/the-trade-desk.md) | 0/1 | software-engineering |
 | [Thomson Reuters](../companies/thomson-reuters.md) | 2/2 | machine-learning, research |
-| [TikTok](../companies/tiktok.md) | 128/132 | ai, cloud, data-engineering, data-science, machine-learning, product, research, software-engineering |
+| [TikTok](../companies/tiktok.md) | 129/133 | ai, cloud, data-engineering, data-science, machine-learning, product, research, software-engineering |
 | [Together AI](../companies/together-ai.md) | 2/3 | research |
 | [Torch Technologies](../companies/torch-technologies.md) | 0/1 | software-engineering |
 | [Toshiba Commerce Solutions](../companies/toshiba-commerce-solutions.md) | 0/2 | ai |

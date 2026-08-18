@@ -1,6 +1,6 @@
 {
   "generated": "2026-08-18",
-  "count": 1960,
+  "count": 1962,
   "internships": [
     {
       "schema_version": "1.0",
@@ -18383,7 +18383,7 @@
         "discovered": "2026-08-17",
         "last_verified": "2026-08-18"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -35049,7 +35049,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-08-18"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -35466,7 +35466,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-08-18"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -55661,6 +55661,73 @@
       "dates": {
         "posted": "2026-08-13",
         "discovered": "2026-08-13",
+        "last_verified": "2026-08-18"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "national-reconnaissance-office-summer-internship-dr-chris-scolese-2027",
+      "company": {
+        "name": "National Reconnaissance Office",
+        "slug": "national-reconnaissance-office"
+      },
+      "role": "Summer Internship - Dr. Chris Scolese",
+      "category": "software-engineering",
+      "apply_url": "https://nro.applytojob.com/apply/oZyJp3ZEQh/2027-Dr-Chris-Scolese-Summer-Internship-Program",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Aurora",
+          "state": "CO",
+          "country": "USA"
+        },
+        {
+          "city": "Chantilly",
+          "state": "VA",
+          "country": "USA"
+        },
+        {
+          "city": "White Sands Missile Range",
+          "state": "NM",
+          "country": "USA"
+        },
+        {
+          "city": "Fort Belvoir",
+          "state": "VA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-18",
+        "discovered": "2026-08-18",
         "last_verified": "2026-08-18"
       },
       "status": "open",
@@ -96983,6 +97050,60 @@
       "dates": {
         "posted": "2026-08-03",
         "discovered": "2026-08-03",
+        "last_verified": "2026-08-18"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "tiktok-software-engineer-intern-tiktok-search-data-infra-2027",
+      "company": {
+        "name": "TikTok",
+        "slug": "tiktok"
+      },
+      "role": "Software Engineer Intern - TikTok Search Data Infra",
+      "category": "software-engineering",
+      "apply_url": "https://lifeattiktok.com/search/7675128776856029445",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-18",
+        "discovered": "2026-08-18",
         "last_verified": "2026-08-18"
       },
       "status": "open",

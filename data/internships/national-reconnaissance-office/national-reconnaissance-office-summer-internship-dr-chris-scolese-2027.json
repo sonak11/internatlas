@@ -1,19 +1,35 @@
 {
   "schema_version": "1.0",
-  "id": "goldman-sachs-summer-associate-intern-multiple-teams-2027",
+  "id": "national-reconnaissance-office-summer-internship-dr-chris-scolese-2027",
   "company": {
-    "name": "Goldman Sachs",
-    "slug": "goldman-sachs"
+    "name": "National Reconnaissance Office",
+    "slug": "national-reconnaissance-office"
   },
-  "role": "Summer Associate Intern - Multiple Teams",
+  "role": "Summer Internship - Dr. Chris Scolese",
   "category": "software-engineering",
-  "apply_url": "https://higher.gs.com/roles/171566?type=students",
+  "apply_url": "https://nro.applytojob.com/apply/oZyJp3ZEQh/2027-Dr-Chris-Scolese-Summer-Internship-Program",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "NYC",
+      "city": "Aurora",
+      "state": "CO",
+      "country": "USA"
+    },
+    {
+      "city": "Chantilly",
+      "state": "VA",
+      "country": "USA"
+    },
+    {
+      "city": "White Sands Missile Range",
+      "state": "NM",
+      "country": "USA"
+    },
+    {
+      "city": "Fort Belvoir",
+      "state": "VA",
       "country": "USA"
     }
   ],
@@ -24,9 +40,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "phd"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -41,8 +55,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-15",
-    "discovered": "2026-08-15",
+    "posted": "2026-08-18",
+    "discovered": "2026-08-18",
     "last_verified": "2026-08-18"
   },
   "status": "open",

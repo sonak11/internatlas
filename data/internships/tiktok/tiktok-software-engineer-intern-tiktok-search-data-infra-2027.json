@@ -1,17 +1,23 @@
 {
   "schema_version": "1.0",
-  "id": "centific-technical-intern-masters-or-phd-2026",
+  "id": "tiktok-software-engineer-intern-tiktok-search-data-infra-2027",
   "company": {
-    "name": "Centific",
-    "slug": "centific"
+    "name": "TikTok",
+    "slug": "tiktok"
   },
-  "role": "Technical Intern - Masters or PhD",
+  "role": "Software Engineer Intern - TikTok Search Data Infra",
   "category": "software-engineering",
-  "apply_url": "https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Remote-Work-USA/Technical-Intern--Masters-or-PhD-_JR108085-1",
-  "season": "fall",
-  "year": 2026,
-  "work_mode": "remote",
-  "locations": [],
+  "apply_url": "https://lifeattiktok.com/search/7675128776856029445",
+  "season": "summer",
+  "year": 2027,
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "San Jose",
+      "state": "CA",
+      "country": "USA"
+    }
+  ],
   "compensation": {
     "currency": "USD",
     "housing_stipend": false,
@@ -20,8 +26,7 @@
   "eligibility": {
     "graduation_years": [],
     "degree_levels": [
-      "masters",
-      "phd"
+      "masters"
     ],
     "citizenship_required": false,
     "security_clearance_required": false,
@@ -37,11 +42,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-17",
-    "discovered": "2026-08-17",
+    "posted": "2026-08-18",
+    "discovered": "2026-08-18",
     "last_verified": "2026-08-18"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

@@ -1,6 +1,6 @@
 # 📬 InternAtlas Weekly Digest — 2026-08-18
 
-## 🆕 New this week (327)
+## 🆕 New this week (329)
 
 - **AARP** — [Data Science and Advanced Analytics Intern](https://careers.aarp.org/jobs/7437?icims=1) · data-science · —
 - **Abridge** — [Software Engineer Intern](https://jobs.ashbyhq.com/abridge/3f07a457-dc14-4238-bf4e-5c33b5c1f883/application?embed=true) · software-engineering · —
@@ -173,6 +173,7 @@
 - **Motorola** — [Android Platform Software Engineer Intern - Summer 2027](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Android-Platform-Software-Engineering-Intern---Summer-2027_R67362-1) · software-engineering · —
 - **Motorola** — [Supply Chain Data Analyst Intern](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Supply-Chain-Data-Analyst-Internship-2027_R67489) · software-engineering · —
 - **National Laboratory of the Rockies** — [Transportation Systems Analysis Intern - Year-Round](https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Graduate--Year-Round--Intern---Transportation-Systems-Analysis_R14385) · software-engineering · —
+- **National Reconnaissance Office** — [Summer Internship - Dr. Chris Scolese](https://nro.applytojob.com/apply/oZyJp3ZEQh/2027-Dr-Chris-Scolese-Summer-Internship-Program) · software-engineering · —
 - **Navy Federal** — [Data Engineering Intern](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/29792) · data-engineering · —
 - **Navy Federal** — [Data Scientist Intern](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/31873) · data-science · —
 - **Neuralink** — [Biomedical Engineer Intern](https://boards.greenhouse.io/neuralink/jobs/7872639003?gh_jid=7872639003) · hardware · —
@@ -287,6 +288,7 @@
 - **TikTok** — [Product Manager Intern - Signal and Identity Product](https://lifeattiktok.com/search/7672554809555192117) · product · —
 - **TikTok** — [Product Operations Intern - TikTok Shop Apps and API](https://lifeattiktok.com/search/7669705525866383621) · software-engineering · —
 - **TikTok** — [Product Solutions and Operations Intern - Commerce Ads](https://lifeattiktok.com/search/7673340525029673221) · software-engineering · —
+- **TikTok** — [Software Engineer Intern - TikTok Search Data Infra](https://lifeattiktok.com/search/7675128776856029445) · software-engineering · —
 - **Tower Research Capital** — [Quantitative Research Intern - Central Execution Research](https://www.tower-research.com/open-positions/?gh_jid=8113986) · quant · —
 - **TransMarket Group** — [Software Engineer Intern](https://job-boards.greenhouse.io/transmarketgroup/jobs/5212335007?gh_jid=5212335007) · software-engineering · —
 - **True Anomaly** — [GSE Engineering Intern](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5210059007) · software-engineering · —

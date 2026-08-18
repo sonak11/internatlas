@@ -8,7 +8,7 @@ _Generated 2026-08-18_
 
 | Company | Listings |
 |---|---|
-| TikTok | 132 |
+| TikTok | 133 |
 | Tesla | 110 |
 | ByteDance | 52 |
 | RTX | 44 |
@@ -33,7 +33,7 @@ _Generated 2026-08-18_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 1028 | `█████████████` |
+| software-engineering | 1030 | `█████████████` |
 | quant | 187 | `██` |
 | ai | 183 | `██` |
 | machine-learning | 129 | `██` |
@@ -61,14 +61,14 @@ _Generated 2026-08-18_
 - 2026-08-18 — **KOSTAL Group**: [Systems Engineering Intern](https://jobs.smartrecruiters.com/KOSTALGroup/744000138137225)
 - 2026-08-18 — **L3Harris Technologies**: [Software Engineer Intern](https://jobs.l3harris.com/job/Palm-Bay-Intern,-Software-Engineer-FL-32905/1420321500/?ats=successfactors)
 - 2026-08-18 — **L3Harris Technologies**: [Software Engineer Intern](https://jobs.l3harris.com/job/Greenville-Intern,-Software-Engineer-Spring-2027-TX-75402/1420331200/?ats=successfactors)
+- 2026-08-18 — **National Reconnaissance Office**: [Summer Internship - Dr. Chris Scolese](https://nro.applytojob.com/apply/oZyJp3ZEQh/2027-Dr-Chris-Scolese-Summer-Internship-Program)
 - 2026-08-18 — **Praytell**: [Analytics & Reporting Intern](https://apply.workable.com/praytell/j/64893520AF/apply)
 - 2026-08-18 — **RegDesk**: [Front End Developer Intern](https://jobs.smartrecruiters.com/RegDeskInc/92145731)
 - 2026-08-18 — **Riveron**: [Technology & Innovation Intern](https://jobs.ashbyhq.com/riveron/a1c4ef22-34a2-43b8-950d-ca6288cc17a1/application?embed=true)
 - 2026-08-18 — **RTX**: [Software Engineer Intern - Intelligent Software & Systems](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-CAMBRIDGE-BBN01--10--50-Moulton-St--MOULTON-B2/XMLNAME-2027-Software-Engineer-Intern--Onsite-_01866914)
 - 2026-08-18 — **RTX**: [Software Engineering Intern](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-CAMBRIDGE-BBN01--10--50-Moulton-St--MOULTON-B2/XMLNAME-2027-Software-Engineering-Intern--Onsite-_01864698)
 - 2026-08-18 — **SightCall**: [Web Developer Intern](https://jobs.smartrecruiters.com/SightCall/80298252)
-- 2026-08-18 — **University of St. Thomas**: [Digital Innovation & Learning Technology Intern](https://studentemployment-stthomas.icims.com/jobs/9527/job?mobile=true&needsRedirect=false)
-- 2026-08-18 — **University of St. Thomas**: [Semiconductor Test AI Intern - Minnesota Semiconductor AI Hub](https://studentemployment-stthomas.icims.com/jobs/9529/job?mobile=true&needsRedirect=false)
+- 2026-08-18 — **TikTok**: [Software Engineer Intern - TikTok Search Data Infra](https://lifeattiktok.com/search/7675128776856029445)
 
 ## Recently closed
 
@@ -108,6 +108,7 @@ _Generated 2026-08-18_
 - CCC Intelligent Solutions — Data Science Engineer Intern
 - CCC Intelligent Solutions — Data Science Intern - R&D
 - Centerfield — Product Manager Intern
+- Centific — Technical Intern - Masters or PhD
 - Ciena — Optical Modem Hardware Intern
 - Ciena — Photonic Hardware Intern
 - Ciena — Software Engineer Intern
@@ -157,7 +158,6 @@ _Generated 2026-08-18_
 - General Motors — Research and Development Intern - Research & Development: AI/ML
 - Global Infrastructure — Alternative Delivery Project Analytics Intern
 - Golden Pet Brands — Data Analytics Intern
-- Goldman Sachs — Quantitative Strategist Associate Intern - Asset and Wealth Management
 - Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
 - Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
 - Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
@@ -165,7 +165,6 @@ _Generated 2026-08-18_
 - Goldman Sachs — Summer Analyst Intern - FICC and Equities - Sales and Trading
 - Goldman Sachs — Summer Analyst Intern - FICC & Equities - Sales & Trading
 - Goldman Sachs — Summer Analyst Intern - Wealth Management - Product Management and Design
-- Goldman Sachs — Summer Associate Intern - Multiple Teams
 - Group 1001 — Quantitative Analysis Intern
 - Gulfstream — Computer Science Intern - Advanced Structures and Materials
 - Harris Computer — Software Development Intern
