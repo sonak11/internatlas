@@ -1,0 +1,54 @@
+{
+  "schema_version": "1.0",
+  "id": "zuckerman-investment-group-investment-analyst-intern-mba-2026",
+  "company": {
+    "name": "Zuckerman Investment Group",
+    "slug": "zuckerman-investment-group"
+  },
+  "role": "Investment Analyst Intern - MBA",
+  "category": "software-engineering",
+  "apply_url": "https://ats.rippling.com/zuckerman-investment-group/jobs/923b73b8-91a9-430c-9f84-b87014b8bbb3",
+  "season": "fall",
+  "year": 2026,
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "Chicago",
+      "state": "IL",
+      "country": "USA"
+    }
+  ],
+  "compensation": {
+    "currency": "USD",
+    "housing_stipend": false,
+    "relocation_assistance": false
+  },
+  "eligibility": {
+    "graduation_years": [],
+    "degree_levels": [
+      "masters"
+    ],
+    "citizenship_required": false,
+    "security_clearance_required": false,
+    "visa_sponsorship": "unknown"
+  },
+  "interview": {},
+  "tech": {
+    "required_skills": [],
+    "preferred_skills": [],
+    "languages": [],
+    "frameworks": [],
+    "cloud_platforms": [],
+    "resume_keywords": []
+  },
+  "dates": {
+    "posted": "2026-08-18",
+    "discovered": "2026-08-18",
+    "last_verified": "2026-08-18"
+  },
+  "status": "open",
+  "tags": [
+    "auto-ingested",
+    "src:simplify"
+  ]
+}

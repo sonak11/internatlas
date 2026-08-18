@@ -11,10 +11,10 @@ _Generated 2026-08-18_
 | TikTok | 133 |
 | Tesla | 110 |
 | ByteDance | 52 |
-| RTX | 44 |
+| RTX | 48 |
 | Jump Trading | 43 |
 | Cloudflare | 30 |
-| American Express | 25 |
+| American Express | 28 |
 | SpaceX | 25 |
 | IMC Trading | 23 |
 | Susquehanna International Group (SIG) | 22 |
@@ -33,17 +33,17 @@ _Generated 2026-08-18_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 1034 | `█████████████` |
+| software-engineering | 1062 | `█████████████` |
+| ai | 190 | `██` |
 | quant | 187 | `██` |
-| ai | 184 | `██` |
 | machine-learning | 129 | `██` |
 | research | 100 | `█` |
-| hardware | 79 | `█` |
+| hardware | 81 | `█` |
 | product | 56 | `█` |
-| embedded | 48 | `█` |
+| embedded | 49 | `█` |
+| design | 41 | `█` |
 | cloud | 40 | `█` |
-| design | 40 | `█` |
-| data-science | 34 | `█` |
+| data-science | 36 | `█` |
 | data-engineering | 23 | `█` |
 | security | 13 | `█` |
 
@@ -51,24 +51,24 @@ _Generated 2026-08-18_
 
 - 2026-08-18 — **AeroVect**: [Autonomy Intern](https://jobs.smartrecruiters.com/AeroVect/743999725988642)
 - 2026-08-18 — **American Express**: [AI Engineer Intern - Enterprise Technology Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012000)
+- 2026-08-18 — **American Express**: [Data Analytics Intern - Global Servicing - Financial Crimes Risk & Controls](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012627)
+- 2026-08-18 — **American Express**: [Product Development Intern - Global Servicing](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012749)
 - 2026-08-18 — **American Express**: [Software Engineer Intern - Enterprise Technology Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011781)
+- 2026-08-18 — **American Express**: [Software Engineer Intern - Enterprise Technology Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011015)
+- 2026-08-18 — **Assurant**: [Digital & AI Transformation Intern 1 - Internship Program](https://assurant.wd1.myworkdayjobs.com/External_Limited_Posting/job/Atlanta-GA/Digital---AI-Transformation-Intern-1_R-115203)
+- 2026-08-18 — **By Light Professional IT Services**: [AI Intern](https://jobs-bylight.icims.com/jobs/11206/job?mobile=true&needsRedirect=false)
+- 2026-08-18 — **By Light Professional IT Services**: [Software Design Engineer Intern](https://jobs-bylight.icims.com/jobs/11204/job?mobile=true&needsRedirect=false)
 - 2026-08-18 — **Clinical Ink**: [Data Management Intern](https://jobs.smartrecruiters.com/ClinicalInk/89163444)
+- 2026-08-18 — **Cole Engineering Services**: [AI Intern](https://jobs-cesi.icims.com/jobs/11206/job?mobile=true&needsRedirect=false)
+- 2026-08-18 — **Cole Engineering Services**: [Software Engineer Intern](https://jobs-cesi.icims.com/jobs/11204/job?mobile=true&needsRedirect=false)
 - 2026-08-18 — **Deloitte**: [Forensic Analytics Summer Scholar Intern - Forensic Analytics](https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Summer-Scholar-Forensic-Analytics/363251)
+- 2026-08-18 — **Dimensional Fund Advisors**: [Global Client Group Intern - Data and Tools - Undergraduate and Master's](https://dimensional.wd5.myworkdayjobs.com/dfa_careers/job/Austin/Internship-in-Global-Client-Group---Data-and-Tools--Undergraduate---Master-s-_2026-9003)
+- 2026-08-18 — **Dimensional Fund Advisors**: [Global Client Group Operations Insights Intern - Undergraduate & Master's](https://dimensional.wd5.myworkdayjobs.com/dfa_careers/job/Austin/Internship-in-Global-Client-Group---Insights--Undergraduate---Master-s-_2026-9002)
 - 2026-08-18 — **Encephalo Investments**: [Software Developer Intern](https://jobs.smartrecruiters.com/EncephaloInvestments/743999734497349)
 - 2026-08-18 — **Fannie Mae**: [Business Analysis Associate Intern - Access Management](https://jobs.smartrecruiters.com/FannieMae1SB/743999744544704)
 - 2026-08-18 — **Fannie Mae**: [Business Analysis Associate Intern - Access Management](https://jobs.smartrecruiters.com/FannieMae1SB/743999744532787)
-- 2026-08-18 — **Huck Adventures**: [Research Analyst Intern](https://jobs.smartrecruiters.com/HuckAdventures/743999747985535)
-- 2026-08-18 — **KOSTAL Group**: [Systems Engineering Intern](https://jobs.smartrecruiters.com/KOSTALGroup/744000138137225)
-- 2026-08-18 — **L3Harris Technologies**: [Software Engineer Intern](https://jobs.l3harris.com/job/Palm-Bay-Intern,-Software-Engineer-FL-32905/1420321500/?ats=successfactors)
-- 2026-08-18 — **L3Harris Technologies**: [Software Engineer Intern](https://jobs.l3harris.com/job/Greenville-Intern,-Software-Engineer-Spring-2027-TX-75402/1420331200/?ats=successfactors)
-- 2026-08-18 — **National Reconnaissance Office**: [Summer Internship - Dr. Chris Scolese](https://nro.applytojob.com/apply/oZyJp3ZEQh/2027-Dr-Chris-Scolese-Summer-Internship-Program)
-- 2026-08-18 — **Praytell**: [Analytics & Reporting Intern](https://apply.workable.com/praytell/j/64893520AF/apply)
-- 2026-08-18 — **RegDesk**: [Front End Developer Intern](https://jobs.smartrecruiters.com/RegDeskInc/92145731)
-- 2026-08-18 — **Riveron**: [Technology & Innovation Intern](https://jobs.ashbyhq.com/riveron/a1c4ef22-34a2-43b8-950d-ca6288cc17a1/application?embed=true)
-- 2026-08-18 — **Royal Bank of Canada**: [AI Applications Intern - Group Risk Management](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--MCCR-Policy-AI-Applications-Intern--4-Months-_R-0000184696)
-- 2026-08-18 — **RTX**: [Software Engineer Intern - Intelligent Software & Systems](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-CAMBRIDGE-BBN01--10--50-Moulton-St--MOULTON-B2/XMLNAME-2027-Software-Engineer-Intern--Onsite-_01866914)
-- 2026-08-18 — **RTX**: [Software Engineering Intern](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-CAMBRIDGE-BBN01--10--50-Moulton-St--MOULTON-B2/XMLNAME-2027-Software-Engineering-Intern--Onsite-_01864698)
-- 2026-08-18 — **SightCall**: [Web Developer Intern](https://jobs.smartrecruiters.com/SightCall/80298252)
+- 2026-08-18 — **Filtration Group**: [Product Development Intern - Material Science](https://careers-filtrationgroupcorp.icims.com/jobs/7379/job?mobile=true&needsRedirect=false)
+- 2026-08-18 — **Foundation Finance**: [Full Stack Developer Intern](https://careers.foundationfinance.com/jobs/2097?icims=1)
 
 ## Recently closed
 
@@ -161,6 +161,15 @@ _Generated 2026-08-18_
 - General Motors — Research and Development Intern - Research & Development: AI/ML
 - Global Infrastructure — Alternative Delivery Project Analytics Intern
 - Golden Pet Brands — Data Analytics Intern
+- Goldman Sachs — Quantitative Strategist Associate Intern - Asset and Wealth Management
+- Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
+- Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
+- Goldman Sachs — Summer Analyst Intern - FICC and Equities - Sales and Trading
+- Goldman Sachs — Summer Analyst Intern - FICC & Equities - Sales & Trading
+- Goldman Sachs — Summer Analyst Intern - Wealth Management - Product Management and Design
+- Goldman Sachs — Summer Associate Intern - Multiple Teams
 - Group 1001 — Quantitative Analysis Intern
 - Gulfstream — Computer Science Intern - Advanced Structures and Materials
 - Harris Computer — Software Development Intern
@@ -170,17 +179,16 @@ _Generated 2026-08-18_
 - impact.com — Associate Software Engineer Intern
 - Impulse Space — Data Analytics Intern
 - InfiniteQuant — Quantitative Researcher Intern
-- InfiniteQuant — Quantitative Researcher Intern - Summer 2027
 - ING — Technology Intern - Innovation
 - Inogen — Firmware Engineer Intern
 - Intel — AI Software Engineer Intern
 - Intuitive Surgical — Computer Vision Engineer Intern
-- JP Morgan Chase — Data & AI Intern - Analyst
 - KBR — Software Intern
 - Keysight Technologies — R&D Software Engineer Intern
 - Keysight Technologies — Software Engineer Intern - R&D - FPGA
 - Kimley-Horn — Software Developer Intern
 - KRAFTON — Programming Intern
+- Louisiana Blue — Operational Reporting & Data Analyst Intern - CW
 - Lumentum — Optical Verification Technician Co-op Intern
 - Lumentum — Optical Verification Technician Intern/Co-op
 - McKesson — Software Developer Intern - Digital and Enterprise Technology
@@ -212,6 +220,7 @@ _Generated 2026-08-18_
 - Otter Products — Artificial Intelligence Intern
 - PEAK6 — Trading Bootcamp Micro-Internship - Summer 2027
 - PEAK6 — Trading Intern
+- Pendulum Intelligence — Product Manager Intern
 - Pennsylvania State University — AI/ML Research and Development Intern
 - Pennsylvania State University — Electronic Materials and Devices Engineer Intern - Electronic Materials and Devices
 - Photon — Software Engineering Intern - AI
