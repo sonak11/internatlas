@@ -13,7 +13,7 @@ _Generated 2026-08-18_
 | ByteDance | 52 |
 | RTX | 44 |
 | Jump Trading | 43 |
-| Cloudflare | 29 |
+| Cloudflare | 30 |
 | American Express | 25 |
 | SpaceX | 25 |
 | IMC Trading | 23 |
@@ -33,7 +33,7 @@ _Generated 2026-08-18_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 1030 | `█████████████` |
+| software-engineering | 1031 | `█████████████` |
 | quant | 187 | `██` |
 | ai | 183 | `██` |
 | machine-learning | 129 | `██` |
@@ -137,6 +137,7 @@ _Generated 2026-08-18_
 - Definity Financial — Technology Solutions Data Platform & Engineering Co-op/Intern
 - Desjardins Group — Data Intern
 - Ditto — Ditto Intern Program
+- Dmg Media — AI Engineer Intern - Innovation Team
 - Eko Health — Clinical Product Strategy Intern - Clinical Technology
 - Environmental Defense Fund — Climate & Health Intern
 - Etched — Electrical Platform Intern
@@ -165,6 +166,7 @@ _Generated 2026-08-18_
 - Goldman Sachs — Summer Analyst Intern - FICC and Equities - Sales and Trading
 - Goldman Sachs — Summer Analyst Intern - FICC & Equities - Sales & Trading
 - Goldman Sachs — Summer Analyst Intern - Wealth Management - Product Management and Design
+- Goldman Sachs — Summer Associate Intern - Multiple Teams
 - Group 1001 — Quantitative Analysis Intern
 - Gulfstream — Computer Science Intern - Advanced Structures and Materials
 - Harris Computer — Software Development Intern
@@ -237,6 +239,7 @@ _Generated 2026-08-18_
 - RTX — Enterprise Extended Reality Intern
 - RTX — Machine Learning Researcher Intern/Co-op
 - RTX — Modeling, Simulation & Analysis Intern
+- RTX — Radar Digital Products Engineering Intern
 - RTX — Software Engineer Intern
 - RTX — Software Engineer Intern
 - RTX — Software Engineer Intern
@@ -246,7 +249,7 @@ _Generated 2026-08-18_
 - RTX — Software Engineer Intern - Summer 2027
 - RTX — Software Engineer Intern - Summer 2027
 - RTX — Software Engineering Intern - Summer 2027
-- RTX — Systems Engineer 1 Intern - Intern Conversion
+- RTX — Systems Engineering Intern
 - RTX — Validation Engineer Intern - Product Safety - Certification & Validation
 - Salesforce — Software Engineer Intern - Future Pathways
 - Samsara — Software Engineering Internship - London

@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "rtx-systems-engineer-1-intern-intern-conversion-2026-4fbca8",
+  "id": "cloudflare-marketing-events-and-campaigns-intern-fall-2026-2027-3b6ca7",
   "company": {
-    "name": "RTX",
-    "slug": "rtx"
+    "name": "Cloudflare",
+    "slug": "cloudflare",
+    "career_page": "https://www.cloudflare.com/careers"
   },
-  "role": "Systems Engineer 1 Intern - Intern Conversion",
+  "role": "Marketing Events and Campaigns Intern (Fall 2026)",
   "category": "software-engineering",
-  "apply_url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Intern-Conversion--Systems-Engineer-I--Onsite-_01863596",
-  "season": "fall",
-  "year": 2026,
+  "apply_url": "https://boards.greenhouse.io/cloudflare/jobs/8131224?gh_jid=8131224",
+  "season": "summer",
+  "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Cedar Rapids",
-      "state": "IA",
+      "city": "In-Office",
       "country": "USA"
     }
   ],
@@ -40,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-07",
-    "discovered": "2026-08-07",
+    "posted": "2026-08-17",
+    "discovered": "2026-08-18",
     "last_verified": "2026-08-18"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:ats"
   ]
 }

@@ -1,6 +1,6 @@
 {
   "generated": "2026-08-18",
-  "count": 1962,
+  "count": 1963,
   "internships": [
     {
       "schema_version": "1.0",
@@ -21371,7 +21371,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "cloudflare-marketing-events-and-campaigns-intern-fall-2026-2027",
+      "id": "cloudflare-marketing-events-and-campaigns-intern-fall-2026-2027-3b6ca7",
       "company": {
         "name": "Cloudflare",
         "slug": "cloudflare",
@@ -21412,6 +21412,58 @@
       },
       "dates": {
         "posted": "2026-08-17",
+        "discovered": "2026-08-18",
+        "last_verified": "2026-08-18"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "cloudflare-marketing-events-and-campaigns-intern-fall-2026-2027",
+      "company": {
+        "name": "Cloudflare",
+        "slug": "cloudflare",
+        "career_page": "https://www.cloudflare.com/careers"
+      },
+      "role": "Marketing Events and Campaigns Intern (Fall 2026)",
+      "category": "software-engineering",
+      "apply_url": "https://boards.greenhouse.io/cloudflare/jobs/8053546?gh_jid=8053546",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "In-Office",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-09",
         "discovered": "2026-07-18",
         "last_verified": "2026-08-18"
       },
@@ -26833,7 +26885,7 @@
         "discovered": "2026-08-14",
         "last_verified": "2026-08-18"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -35466,7 +35518,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-08-18"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -71808,7 +71860,7 @@
         "discovered": "2026-08-14",
         "last_verified": "2026-08-18"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -73407,9 +73459,9 @@
       "dates": {
         "posted": "2026-08-07",
         "discovered": "2026-08-07",
-        "last_verified": "2026-08-17"
+        "last_verified": "2026-08-18"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -73513,7 +73565,7 @@
         "discovered": "2026-08-18",
         "last_verified": "2026-08-18"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
