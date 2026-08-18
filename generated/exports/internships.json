@@ -1,6 +1,6 @@
 {
   "generated": "2026-08-18",
-  "count": 1939,
+  "count": 1941,
   "internships": [
     {
       "schema_version": "1.0",
@@ -742,6 +742,57 @@
       "dates": {
         "posted": "2026-07-22",
         "discovered": "2026-07-23",
+        "last_verified": "2026-08-18"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "aerovect-autonomy-intern-2026",
+      "company": {
+        "name": "AeroVect",
+        "slug": "aerovect"
+      },
+      "role": "Autonomy Intern",
+      "category": "software-engineering",
+      "apply_url": "https://jobs.smartrecruiters.com/AeroVect/743999725988642",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "SF",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-18",
+        "discovered": "2026-08-18",
         "last_verified": "2026-08-18"
       },
       "status": "open",
@@ -63877,7 +63928,7 @@
         "discovered": "2026-07-21",
         "last_verified": "2026-08-18"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -68570,6 +68621,62 @@
         "last_verified": "2026-07-31"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "riveron-technology-innovation-intern-2026",
+      "company": {
+        "name": "Riveron",
+        "slug": "riveron"
+      },
+      "role": "Technology & Innovation Intern",
+      "category": "software-engineering",
+      "apply_url": "https://jobs.ashbyhq.com/riveron/a1c4ef22-34a2-43b8-950d-ca6288cc17a1/application?embed=true",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "SF",
+          "country": "USA"
+        },
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-18",
+        "discovered": "2026-08-18",
+        "last_verified": "2026-08-18"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -74381,7 +74488,7 @@
         "discovered": "2026-08-11",
         "last_verified": "2026-08-18"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"

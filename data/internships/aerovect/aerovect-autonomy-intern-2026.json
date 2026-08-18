@@ -1,17 +1,22 @@
 {
   "schema_version": "1.0",
-  "id": "pendulum-intelligence-product-manager-intern-2026",
+  "id": "aerovect-autonomy-intern-2026",
   "company": {
-    "name": "Pendulum Intelligence",
-    "slug": "pendulum-intelligence"
+    "name": "AeroVect",
+    "slug": "aerovect"
   },
-  "role": "Product Manager Intern",
-  "category": "product",
-  "apply_url": "https://ats.rippling.com/pendulum-intelligence-jobs/jobs/301a1742-46fd-4489-b410-6fdcac0dbe27",
+  "role": "Autonomy Intern",
+  "category": "software-engineering",
+  "apply_url": "https://jobs.smartrecruiters.com/AeroVect/743999725988642",
   "season": "fall",
   "year": 2026,
-  "work_mode": "remote",
-  "locations": [],
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "SF",
+      "country": "USA"
+    }
+  ],
   "compensation": {
     "currency": "USD",
     "housing_stipend": false,
@@ -34,8 +39,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-21",
-    "discovered": "2026-07-21",
+    "posted": "2026-08-18",
+    "discovered": "2026-08-18",
     "last_verified": "2026-08-18"
   },
   "status": "open",

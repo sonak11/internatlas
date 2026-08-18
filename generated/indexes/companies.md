@@ -22,6 +22,7 @@
 | [Ada](../companies/ada.md) | 0/1 | software-engineering |
 | [Adobe](../companies/adobe.md) | 0/1 | machine-learning |
 | [Adtheorant](../companies/adtheorant.md) | 1/1 | ai |
+| [AeroVect](../companies/aerovect.md) | 1/1 | software-engineering |
 | [Airbnb](../companies/airbnb.md) | 0/1 | software-engineering |
 | [Akuna Capital](../companies/akuna-capital.md) | 8/8 | cloud, hardware, quant, software-engineering |
 | [Al Warren Oil Company](../companies/al-warren-oil-company.md) | 1/1 | software-engineering |
@@ -447,7 +448,7 @@
 | [PanAgora](../companies/panagora.md) | 1/1 | software-engineering |
 | [Paragon](../companies/paragon.md) | 1/1 | software-engineering |
 | [PathAI](../companies/pathai.md) | 1/1 | machine-learning |
-| [Pendulum Intelligence](../companies/pendulum-intelligence.md) | 0/1 | product |
+| [Pendulum Intelligence](../companies/pendulum-intelligence.md) | 1/1 | product |
 | [PennState University](../companies/pennstate-university.md) | 1/1 | research |
 | [Pennsylvania State University](../companies/pennsylvania-state-university.md) | 1/6 | machine-learning, research, software-engineering |
 | [Pentair](../companies/pentair.md) | 1/1 | product |
@@ -501,6 +502,7 @@
 | [Richemont](../companies/richemont.md) | 0/1 | software-engineering |
 | [Rippling](../companies/rippling.md) | 4/6 | machine-learning, software-engineering |
 | [Rise8](../companies/rise8.md) | 0/1 | product |
+| [Riveron](../companies/riveron.md) | 1/1 | software-engineering |
 | [Rivian](../companies/rivian.md) | 2/5 | embedded, hardware, machine-learning, research, software-engineering |
 | [Rivian and Volkswagen Group Technologies](../companies/rivian-and-volkswagen-group-technologies.md) | 15/16 | ai, design, embedded, software-engineering |
 | [Roam](../companies/roam.md) | 1/1 | software-engineering |
@@ -530,7 +532,7 @@
 | [SciTec](../companies/scitec.md) | 1/1 | software-engineering |
 | [Seaspan](../companies/seaspan.md) | 0/2 | software-engineering |
 | [Sentara Health](../companies/sentara-health.md) | 0/2 | ai |
-| [Sentry](../companies/sentry.md) | 1/1 | software-engineering |
+| [Sentry](../companies/sentry.md) | 0/1 | software-engineering |
 | [Seven Research](../companies/seven-research.md) | 4/4 | machine-learning, quant, software-engineering |
 | [Shopify](../companies/shopify.md) | 2/2 | software-engineering |
 | [ShyftLabs](../companies/shyftlabs.md) | 2/2 | ai |

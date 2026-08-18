@@ -33,7 +33,7 @@ _Generated 2026-08-18_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 1010 | `█████████████` |
+| software-engineering | 1012 | `█████████████` |
 | quant | 186 | `██` |
 | ai | 181 | `██` |
 | machine-learning | 129 | `██` |
@@ -49,6 +49,7 @@ _Generated 2026-08-18_
 
 ## Newest listings
 
+- 2026-08-18 — **AeroVect**: [Autonomy Intern](https://jobs.smartrecruiters.com/AeroVect/743999725988642)
 - 2026-08-18 — **Clinical Ink**: [Data Management Intern](https://jobs.smartrecruiters.com/ClinicalInk/89163444)
 - 2026-08-18 — **Encephalo Investments**: [Software Developer Intern](https://jobs.smartrecruiters.com/EncephaloInvestments/743999734497349)
 - 2026-08-18 — **Fannie Mae**: [Business Analysis Associate Intern - Access Management](https://jobs.smartrecruiters.com/FannieMae1SB/743999744544704)
@@ -56,6 +57,7 @@ _Generated 2026-08-18_
 - 2026-08-18 — **Huck Adventures**: [Research Analyst Intern](https://jobs.smartrecruiters.com/HuckAdventures/743999747985535)
 - 2026-08-18 — **KOSTAL Group**: [Systems Engineering Intern](https://jobs.smartrecruiters.com/KOSTALGroup/744000138137225)
 - 2026-08-18 — **RegDesk**: [Front End Developer Intern](https://jobs.smartrecruiters.com/RegDeskInc/92145731)
+- 2026-08-18 — **Riveron**: [Technology & Innovation Intern](https://jobs.ashbyhq.com/riveron/a1c4ef22-34a2-43b8-950d-ca6288cc17a1/application?embed=true)
 - 2026-08-18 — **SightCall**: [Web Developer Intern](https://jobs.smartrecruiters.com/SightCall/80298252)
 - 2026-08-18 — **Zoomifier**: [Software Development Intern](https://jobs.smartrecruiters.com/CustomShow/75886593)
 - 2026-08-17 — **American Express**: [AI Engineer Intern - Enterprise Technology Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012375)
@@ -67,8 +69,6 @@ _Generated 2026-08-18_
 - 2026-08-17 — **American Express**: [AI Engineer Intern - Enterprise Technology Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011698)
 - 2026-08-17 — **American Express**: [Software Engineer Intern - Enterprise Technology Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011784)
 - 2026-08-17 — **American Express**: [Software Engineer Intern - Enterprise Technology Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011084)
-- 2026-08-17 — **American Express**: [Software Engineer Intern - Enterprise Technology Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011679)
-- 2026-08-17 — **American Express**: [Software Engineer Intern - Enterprise Technology Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011987)
 
 ## Recently closed
 
@@ -199,7 +199,6 @@ _Generated 2026-08-18_
 - Otter Products — Artificial Intelligence Intern
 - PEAK6 — Trading Bootcamp Micro-Internship - Summer 2027
 - PEAK6 — Trading Intern
-- Pendulum Intelligence — Product Manager Intern
 - Pennsylvania State University — AI/ML Research and Development Intern
 - Pennsylvania State University — Electronic Materials and Devices Engineer Intern - Electronic Materials and Devices
 - Photon — Software Engineering Intern - AI
@@ -245,6 +244,7 @@ _Generated 2026-08-18_
 - Saronic — Enterprise Technology Intern - AI and Automation
 - Saronic — Software Engineer Intern
 - Schweitzer Engineering Laboratories — Test Engineer Intern
+- Sentry — Software Engineer Intern - Summer 2027
 - Signify — Product Management Intern
 - Sony Music Entertainment — Insight & Analytics Intern
 - Sony Pictures Entertainment — Graduate Intern - Advanced Technologies

@@ -1,17 +1,27 @@
 {
   "schema_version": "1.0",
-  "id": "pendulum-intelligence-product-manager-intern-2026",
+  "id": "riveron-technology-innovation-intern-2026",
   "company": {
-    "name": "Pendulum Intelligence",
-    "slug": "pendulum-intelligence"
+    "name": "Riveron",
+    "slug": "riveron"
   },
-  "role": "Product Manager Intern",
-  "category": "product",
-  "apply_url": "https://ats.rippling.com/pendulum-intelligence-jobs/jobs/301a1742-46fd-4489-b410-6fdcac0dbe27",
+  "role": "Technology & Innovation Intern",
+  "category": "software-engineering",
+  "apply_url": "https://jobs.ashbyhq.com/riveron/a1c4ef22-34a2-43b8-950d-ca6288cc17a1/application?embed=true",
   "season": "fall",
   "year": 2026,
-  "work_mode": "remote",
-  "locations": [],
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "SF",
+      "country": "USA"
+    },
+    {
+      "city": "San Jose",
+      "state": "CA",
+      "country": "USA"
+    }
+  ],
   "compensation": {
     "currency": "USD",
     "housing_stipend": false,
@@ -34,8 +44,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-21",
-    "discovered": "2026-07-21",
+    "posted": "2026-08-18",
+    "discovered": "2026-08-18",
     "last_verified": "2026-08-18"
   },
   "status": "open",
