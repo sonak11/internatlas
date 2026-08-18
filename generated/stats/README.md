@@ -33,9 +33,9 @@ _Generated 2026-08-18_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 1025 | `█████████████` |
+| software-engineering | 1028 | `█████████████` |
 | quant | 187 | `██` |
-| ai | 182 | `██` |
+| ai | 183 | `██` |
 | machine-learning | 129 | `██` |
 | research | 100 | `█` |
 | hardware | 79 | `█` |
@@ -59,16 +59,16 @@ _Generated 2026-08-18_
 - 2026-08-18 — **Fannie Mae**: [Business Analysis Associate Intern - Access Management](https://jobs.smartrecruiters.com/FannieMae1SB/743999744532787)
 - 2026-08-18 — **Huck Adventures**: [Research Analyst Intern](https://jobs.smartrecruiters.com/HuckAdventures/743999747985535)
 - 2026-08-18 — **KOSTAL Group**: [Systems Engineering Intern](https://jobs.smartrecruiters.com/KOSTALGroup/744000138137225)
+- 2026-08-18 — **L3Harris Technologies**: [Software Engineer Intern](https://jobs.l3harris.com/job/Palm-Bay-Intern,-Software-Engineer-FL-32905/1420321500/?ats=successfactors)
+- 2026-08-18 — **L3Harris Technologies**: [Software Engineer Intern](https://jobs.l3harris.com/job/Greenville-Intern,-Software-Engineer-Spring-2027-TX-75402/1420331200/?ats=successfactors)
 - 2026-08-18 — **Praytell**: [Analytics & Reporting Intern](https://apply.workable.com/praytell/j/64893520AF/apply)
 - 2026-08-18 — **RegDesk**: [Front End Developer Intern](https://jobs.smartrecruiters.com/RegDeskInc/92145731)
 - 2026-08-18 — **Riveron**: [Technology & Innovation Intern](https://jobs.ashbyhq.com/riveron/a1c4ef22-34a2-43b8-950d-ca6288cc17a1/application?embed=true)
 - 2026-08-18 — **RTX**: [Software Engineer Intern - Intelligent Software & Systems](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-CAMBRIDGE-BBN01--10--50-Moulton-St--MOULTON-B2/XMLNAME-2027-Software-Engineer-Intern--Onsite-_01866914)
 - 2026-08-18 — **RTX**: [Software Engineering Intern](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-CAMBRIDGE-BBN01--10--50-Moulton-St--MOULTON-B2/XMLNAME-2027-Software-Engineering-Intern--Onsite-_01864698)
 - 2026-08-18 — **SightCall**: [Web Developer Intern](https://jobs.smartrecruiters.com/SightCall/80298252)
-- 2026-08-18 — **Wells Fargo**: [Quantitative Analytics Intern - Multiple Teams](https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Quantitative-Analytics-Summer-Internship-Risk-Analytics-and-Decision-Sciences--RADS-Masters----Early-Careers_R-569402)
-- 2026-08-18 — **Zoomifier**: [Software Development Intern](https://jobs.smartrecruiters.com/CustomShow/75886593)
-- 2026-08-17 — **American Express**: [AI Engineer Intern - Enterprise Technology Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012375)
-- 2026-08-17 — **American Express**: [AI Engineer Intern - Enterprise Technology Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011796)
+- 2026-08-18 — **University of St. Thomas**: [Digital Innovation & Learning Technology Intern](https://studentemployment-stthomas.icims.com/jobs/9527/job?mobile=true&needsRedirect=false)
+- 2026-08-18 — **University of St. Thomas**: [Semiconductor Test AI Intern - Minnesota Semiconductor AI Hub](https://studentemployment-stthomas.icims.com/jobs/9529/job?mobile=true&needsRedirect=false)
 
 ## Recently closed
 
