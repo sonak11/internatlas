@@ -560,7 +560,6 @@
 - Interdigital — [Wireless Engineering Intern - 6G Wireless Systems](https://interdigital.wd5.myworkdayjobs.com/InterDigital_Intern/job/Conshohocken-PA/PhD-Intern--6G-Wireless-Systems---Sept-2026_REQ26-1135)
 - International Rescue Committee (IRC) — [Data Integration & Reporting Intern](https://theirc.wd1.myworkdayjobs.com/en-US/External_Careers/job/San-Diego-CA-USA/Fall-2026--Data-Integration---Reporting-Intern--Unpaid-_JR00004327)
 - International Rescue Committee (IRC) — [Development Data and Research Intern](https://theirc.wd1.myworkdayjobs.com/en-US/External_Careers/job/Silver-Spring-MD-USA/Development---Grant-Coordination-Intern--Summer-2026-_JR00002373)
-- Intuit — [Software Engineer Intern](https://jobs.intuit.com/job/new-york/intern-software-engineering/27595/99410270400)
 - Jane Street — [Cybersecurity Analyst Intern](https://www.janestreet.com/join-jane-street/position/8632723002/)
 - Jane Street — [Data Engineer Intern](https://www.janestreet.com/join-jane-street/position/8631973002/)
 - Jane Street — [Fundamental Research Analyst Intern](https://www.janestreet.com/join-jane-street/position/8347286002/)

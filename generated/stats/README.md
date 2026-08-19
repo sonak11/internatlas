@@ -176,6 +176,7 @@ _Generated 2026-08-19_
 - ING — Technology Intern - Innovation
 - Inogen — Firmware Engineer Intern
 - Intel — AI Software Engineer Intern
+- Intuit — Software Engineer Intern
 - Intuitive Surgical — Computer Vision Engineer Intern
 - KBR — Software Intern
 - Keysight Technologies — Software Engineer Intern - R&D - FPGA
