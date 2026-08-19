@@ -27,48 +27,48 @@ _Generated 2026-08-19_
 | Meta | 15 |
 | Etched | 14 |
 | Virtu Financial | 14 |
-| Optiver | 13 |
+| Zipline | 14 |
 
 ## Listings by category
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 1081 | `█████████████` |
-| ai | 197 | `██` |
-| quant | 187 | `██` |
+| software-engineering | 1093 | `█████████████` |
+| ai | 198 | `██` |
+| quant | 188 | `██` |
 | machine-learning | 135 | `██` |
 | research | 104 | `█` |
-| hardware | 87 | `█` |
-| product | 56 | `█` |
+| hardware | 90 | `█` |
+| product | 57 | `█` |
 | embedded | 50 | `█` |
 | design | 42 | `█` |
 | cloud | 40 | `█` |
-| data-science | 37 | `█` |
+| data-science | 38 | `█` |
 | data-engineering | 23 | `█` |
 | security | 13 | `█` |
 
 ## Newest listings
 
+- 2026-08-19 — **Allegheny County**: [Business Analytics Intern](https://alleghenycounty.bamboohr.com/careers/663/)
 - 2026-08-19 — **Autodesk**: [AI Developer Intern](https://autodesk.wd1.myworkdayjobs.com/uni/job/Montreal-QC-CAN/Intern--AI-Developer--Stagiaire-en-dveloppement-IA_26WD100523-1)
+- 2026-08-19 — **Autodesk**: [AI Developer Intern - Creative Technology](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Intern--AI-Developer--Stagiaire-en-dveloppement-IA_26WD100523-2)
+- 2026-08-19 — **Bank of Montreal**: [Workforce Analyst Co-op Intern](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Workforce-Analyst--Winter-2027--Co-op-Internship----8-Months_R260024513)
 - 2026-08-19 — **Bosch Home Comfort**: [Electrochemistry Modeling Intern](https://jobs.smartrecruiters.com/BoschGroup/744000144370279)
 - 2026-08-19 — **ByteDance**: [Machine Learning Engineer Intern - E-Commerce Risk Control - PhD](https://jobs.bytedance.com/en/position/7675478684795881781/detail)
 - 2026-08-19 — **ByteDance**: [Machine Learning Engineer Intern - E-Commerce Risk Control - PhD](https://jobs.bytedance.com/en/position/7675477254269765941/detail)
+- 2026-08-19 — **Centific**: [Technical Intern](https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Remote-Work-USA/Technical-Intern--Masters-or-PhD-_JR108144-1)
+- 2026-08-19 — **Citadel Securities**: [Fundamental Analyst Intern](https://www.citadelsecurities.com/careers/details/trading-fundamental-analyst-intern-us/)
 - 2026-08-19 — **Copart**: [Data Engineer Intern](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Data-Engineering-Intern_JR110617)
+- 2026-08-19 — **Detroit Lions**: [Quantitative Research Intern](https://job-boards.greenhouse.io/detroitlions/jobs/4723291005)
 - 2026-08-19 — **Flagright**: [Product Operations Intern](https://jobs.ashbyhq.com/flagright.com/b372f2b5-71d1-462f-a63e-f54ab9992d37/application?embed=true)
 - 2026-08-19 — **GE Vernova**: [Application Engineer Co-op/Intern - PCS](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Findlay-Township/PCS-Application-Engineering-Co-Op-Intern---Summer-2027_R5050417-2)
 - 2026-08-19 — **GE Vernova**: [Application Engineer Co-op/Intern - PCS](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Findlay-Township/PCS-Application-Engineering-Co-Op-Intern---Summer-2027_R5050417-1)
+- 2026-08-19 — **Humana**: [Technology Intern - Early ID Participants](https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Louisville-KY/Humana-Technology-Internship---Summer-2027--Early-ID-Participants-_R-427451)
 - 2026-08-19 — **InfiniteQuant**: [Quantitative Developer Internship - Summer 2027](https://jobs.smartrecruiters.com/InfiniteQuant/744000144281579)
+- 2026-08-19 — **Kensington**: [Data Analyst Intern - Revenue Optimization](https://job-boards.greenhouse.io/kensingtontours/jobs/5209507007)
 - 2026-08-19 — **Kepler Communications**: [Embedded Software Engineer Intern - January 2027 - 4 months](https://jobs.lever.co/kepler/2ad02ce3-1d56-4aee-9f1d-5199c780c0c1/apply)
 - 2026-08-19 — **Marmon Holdings**: [Data & Process Automation Intern - Duty Drawback](https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Newark-NJ/Data---Process-Automation-Intern---Duty-Drawback_JR0000045184)
 - 2026-08-19 — **Microsoft**: [AI Software Engineer Intern](https://apply.careers.microsoft.com/careers/job/1970393556962891)
-- 2026-08-19 — **Moog**: [Computer Science Intern - Information Technology](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--IT-Computer-Science_R-26-19378)
-- 2026-08-19 — **Nextiva**: [Marketing Intern - Data Science](https://www.nextiva.com/company/careers-listing?gh_jid=8687999002)
-- 2026-08-19 — **NVIDIA**: [Computer Architecture and Systems Intern - Research](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Computer-Architecture-and-Systems_JR2023854)
-- 2026-08-19 — **NVIDIA**: [Computer Architecture Intern](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Computer-Architecture_JR2023489)
-- 2026-08-19 — **NVIDIA**: [Computer Vision and Deep Learning Intern](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Computer-Vision-and-Deep-Learning_JR2023833)
-- 2026-08-19 — **NVIDIA**: [Deep Learning Computer Architecture Intern](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning-Computer-Architecture_JR2023491)
-- 2026-08-19 — **NVIDIA**: [Deep Learning Intern - Deep Learning Applications and Algorithms - Deep Learning Frameworks and Libraries](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning_JR2023497-1)
-- 2026-08-19 — **NVIDIA**: [Developer and Performance Technology Intern](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-Spring-2027-Internships--Developer-and-Performance-Technology_JR2023499)
 
 ## Recently closed
 
@@ -99,6 +99,7 @@ _Generated 2026-08-19_
 - Booz Allen — AI RAN Telecommunications Engineer Intern
 - Bosch Home Comfort — ADAS Software Engineer Intern
 - ByteDance — Research Scientist Intern
+- Cadence Design Systems — Characterization and Support Intern
 - Cadence Design Systems — Product Engineering Intern - Simulation and Verification
 - Cadence Design Systems — Product Engineering Intern - Simulation and Verification
 - Cadence Design Systems — SSG Design Engineering Intern
@@ -162,6 +163,7 @@ _Generated 2026-08-19_
 - Goldman Sachs — Summer Associate Intern - Multiple Teams
 - Group 1001 — Quantitative Analysis Intern
 - Gulfstream — Computer Science Intern - Advanced Structures and Materials
+- Gumloop — Design Engineer Intern
 - Harris Central Appraisal District — GIS Intern
 - Harris Computer — Software Development Intern
 - Hershey — Product Development Intern - R&D
@@ -294,6 +296,7 @@ _Generated 2026-08-19_
 - The Home Depot — AI Engineer Intern
 - TMEIC Corporation Americas — Engineer Intern - Spring 2027 - Eis
 - TMX Group — Analyst Student Intern - Market Insights
+- Together AI — Research Intern - Model Shaping
 - Toshiba Global Commerce — Product & Business Analytics Intern
 - Truist Bank — Analyst Intern Conversion - Multiple Teams
 - Truist Bank — Analyst Intern - Equity Research - Sales, Trading & Research

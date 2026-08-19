@@ -1,45 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "anduril-software-engineer-intern-2027-fbf8a2",
+  "id": "regions-bank-technology-operations-digital-and-data-analytics-intern-2027",
   "company": {
-    "name": "Anduril",
-    "slug": "anduril"
+    "name": "Regions Bank",
+    "slug": "regions-bank"
   },
-  "role": "Software Engineer Intern",
+  "role": "Technology, Operations, Digital, and Data Analytics Intern",
   "category": "software-engineering",
-  "apply_url": "https://job-boards.greenhouse.io/andurilindustries/jobs/5148079007?gh_jid=5148079007",
+  "apply_url": "https://regions.wd5.myworkdayjobs.com/regions_careers/job/Hoover-AL---Riverchase-Operations-Center-Birmingham-AL/XMLNAME-2027-ETP-Intern---Technology--Operations--Digital--and-Data---Analytics_R105426",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Atlanta",
-      "state": "GA",
-      "country": "USA"
-    },
-    {
-      "city": "Boston",
-      "state": "MA",
-      "country": "USA"
-    },
-    {
-      "city": "Costa Mesa",
-      "state": "CA",
-      "country": "USA"
-    },
-    {
-      "city": "Irvine",
-      "state": "CA",
-      "country": "USA"
-    },
-    {
-      "city": "Reston",
-      "state": "VA",
-      "country": "USA"
-    },
-    {
-      "city": "Seattle",
-      "state": "WA",
+      "city": "Hoover",
+      "state": "AL",
       "country": "USA"
     }
   ],
@@ -65,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-07",
-    "discovered": "2026-07-17",
+    "posted": "2026-08-19",
+    "discovered": "2026-08-19",
     "last_verified": "2026-08-19"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:vanshb03"
+    "src:simplify"
   ]
 }
