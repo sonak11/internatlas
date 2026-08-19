@@ -100,6 +100,7 @@ _Generated 2026-08-19_
 - ByteDance — Research Scientist Intern
 - Cadence Design Systems — Product Engineering Intern - Simulation and Verification
 - Cadence Design Systems — Product Engineering Intern - Simulation and Verification
+- Cadence Design Systems — SSG Design Engineering Intern
 - Canva — PhD Research Scientist Intern - Generative AI
 - Canva — PhD Research Scientist Intern - Reinforcement Learning - Images
 - Capital One — Technology Intern

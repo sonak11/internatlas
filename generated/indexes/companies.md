@@ -118,7 +118,7 @@
 | [CNO Financial Group](../companies/cno-financial-group.md) | 1/2 | ai, security |
 | [CTGT](../companies/ctgt.md) | 1/1 | software-engineering |
 | [Caddi Workflow Automation](../companies/caddi-workflow-automation.md) | 1/1 | software-engineering |
-| [Cadence Design Systems](../companies/cadence-design-systems.md) | 4/6 | design, software-engineering |
+| [Cadence Design Systems](../companies/cadence-design-systems.md) | 3/6 | design, software-engineering |
 | [Canva](../companies/canva.md) | 4/6 | ai, research |
 | [Capital One](../companies/capital-one.md) | 9/12 | data-science, security, software-engineering |
 | [Capula](../companies/capula.md) | 1/1 | quant |
