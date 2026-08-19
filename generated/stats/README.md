@@ -207,6 +207,7 @@ _Generated 2026-08-19_
 - Mobius Renewables — Software Engineer Intern
 - National Laboratory of the Rockies — Graduate Intern - Transportation Systems Analysis
 - National Laboratory of the Rockies — Software and Data Infrastructure Intern
+- National Reconnaissance Office — Summer Internship - Dr. Chris Scolese
 - Nationwide Children's Hospital — IGM Research Intern - RI Miller
 - Nationwide Children's Hospital — Research Intern
 - New Balance — Sports Research Engineer Intern
