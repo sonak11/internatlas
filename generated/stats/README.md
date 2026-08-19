@@ -175,6 +175,7 @@ _Generated 2026-08-19_
 - InfiniteQuant — Quantitative Researcher Intern
 - ING — Technology Intern - Innovation
 - Inogen — Firmware Engineer Intern
+- Integra FEC — Data Analyst Intern
 - Intel — AI Software Engineer Intern
 - Intuit — Software Engineer Intern
 - Intuitive Surgical — Computer Vision Engineer Intern
@@ -285,6 +286,7 @@ _Generated 2026-08-19_
 - Tesla — Software Engineer Intern - AI Data Infrastructure
 - Tesla — Software Engineer Intern - Software Engineer - Data Platforms
 - Tesla — Software Engineer Intern - Software Engineer - Energy Engineering
+- Tesla — Software Integration Engineer Intern - Software Integration Engineer - Optimus
 - Tesla — Supercharger Product Engineer Intern - Supercharger Product Support Engineering
 - Tesla — Thermal Controls Engineer Intern - Thermal Controls Engineer - Vehicle Controls
 - Texas Permanent School Fund Corporation — Equity Capital Markets Intern
@@ -299,6 +301,7 @@ _Generated 2026-08-19_
 - Truland Equipment — Power Platform Intern
 - Two Six Technologies — China Subject Matter Expert Intern
 - US Acute Care Solutions — People Analytics Intern
+- Vanguard — Data Analysis Intern
 - Veralto — Machine Learning Co-op Intern
 - Vertiv — Software Engineer Intern
 - Wells Fargo — Corporate Risk Development Program Intern - Core Risk - Early Careers
