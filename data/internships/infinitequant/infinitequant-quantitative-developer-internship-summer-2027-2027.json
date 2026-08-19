@@ -1,20 +1,23 @@
 {
   "schema_version": "1.0",
-  "id": "rtx-software-engineer-intern-summer-2027-2027-5070ff",
+  "id": "infinitequant-quantitative-developer-internship-summer-2027-2027",
   "company": {
-    "name": "RTX",
-    "slug": "rtx"
+    "name": "InfiniteQuant",
+    "slug": "infinitequant"
   },
-  "role": "Software Engineer Intern - Summer 2027",
-  "category": "software-engineering",
-  "apply_url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-MARLBOROUGH-MA3--1001-Boston-Post-Rd--BLDG-3/Software-Engineering-Intern--Summer-2027-_01867814",
+  "role": "Quantitative Developer Internship - Summer 2027",
+  "category": "quant",
+  "apply_url": "https://jobs.smartrecruiters.com/InfiniteQuant/744000144281579",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Marlborough",
-      "state": "MA",
+      "city": "Dubai - United Arab Emirates",
+      "country": "USA"
+    },
+    {
+      "city": "NYC",
       "country": "USA"
     }
   ],
@@ -42,8 +45,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-18",
-    "discovered": "2026-08-18",
+    "posted": "2026-08-19",
+    "discovered": "2026-08-19",
     "last_verified": "2026-08-19"
   },
   "status": "open",

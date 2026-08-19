@@ -33,9 +33,9 @@ _Generated 2026-08-19_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 1071 | `█████████████` |
+| software-engineering | 1073 | `█████████████` |
 | ai | 196 | `██` |
-| quant | 186 | `██` |
+| quant | 187 | `██` |
 | machine-learning | 134 | `██` |
 | research | 105 | `█` |
 | hardware | 87 | `█` |
@@ -51,6 +51,9 @@ _Generated 2026-08-19_
 
 - 2026-08-19 — **ByteDance**: [Machine Learning Engineer Intern - E-Commerce Risk Control - PhD](https://jobs.bytedance.com/en/position/7675478684795881781/detail)
 - 2026-08-19 — **ByteDance**: [Machine Learning Engineer Intern - E-Commerce Risk Control - PhD](https://jobs.bytedance.com/en/position/7675477254269765941/detail)
+- 2026-08-19 — **Flagright**: [Product Operations Intern](https://jobs.ashbyhq.com/flagright.com/b372f2b5-71d1-462f-a63e-f54ab9992d37/application?embed=true)
+- 2026-08-19 — **InfiniteQuant**: [Quantitative Developer Internship - Summer 2027](https://jobs.smartrecruiters.com/InfiniteQuant/744000144281579)
+- 2026-08-19 — **Marmon Holdings**: [Data & Process Automation Intern - Duty Drawback](https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Newark-NJ/Data---Process-Automation-Intern---Duty-Drawback_JR0000045184)
 - 2026-08-19 — **Microsoft**: [AI Software Engineer Intern](https://apply.careers.microsoft.com/careers/job/1970393556962891)
 - 2026-08-19 — **Nextiva**: [Marketing Intern - Data Science](https://www.nextiva.com/company/careers-listing?gh_jid=8687999002)
 - 2026-08-19 — **NVIDIA**: [Computer Architecture and Systems Intern - Research](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Computer-Architecture-and-Systems_JR2023854)
@@ -66,9 +69,6 @@ _Generated 2026-08-19_
 - 2026-08-19 — **NVIDIA**: [Hardware Physical Design / VLSI Intern](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Physical-Design---VLSI_JR2023501)
 - 2026-08-19 — **NVIDIA**: [Hardware Verification Intern](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Verification_JR2023500)
 - 2026-08-19 — **NVIDIA**: [Large Language Models Intern - Research](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Large-Language-Models_JR2023837)
-- 2026-08-19 — **NVIDIA**: [Mixed Signal Design Intern](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Mixed-Signal-Design_JR2023502)
-- 2026-08-19 — **NVIDIA**: [Ph.D. Engineering Intern](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Summer-Internships--PhD-Engineering_JR2023856)
-- 2026-08-19 — **NVIDIA**: [Ph.D. Research Autonomous Vehicles Intern](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Autonomous-Vehicles_JR2023838)
 
 ## Recently closed
 
@@ -212,7 +212,6 @@ _Generated 2026-08-19_
 - New Balance — Sports Research Engineer Intern
 - Noblis — Machinery Silencing Technician Intern
 - Nokia — Electromechanical Assembly Co-op Intern - Intern
-- Northrop Grumman — Software Engineer Intern - Aeronautics Systems
 - Otter Products — Artificial Intelligence Intern
 - Palantir — Forward Deployed Software Engineer Intern
 - PEAK6 — Trading Bootcamp Micro-Internship - Summer 2027
@@ -249,7 +248,6 @@ _Generated 2026-08-19_
 - RTX — Software Engineer Intern
 - RTX — Software Engineer Intern
 - RTX — Software Engineer Intern
-- RTX — Software Engineer Intern - Summer 2027
 - RTX — Software Engineer Intern - Summer 2027
 - RTX — Software Engineer Intern - Summer 2027
 - RTX — Software Engineer Intern - Summer 2027
@@ -296,7 +294,6 @@ _Generated 2026-08-19_
 - Tesla — Thermal Controls Engineer Intern - Thermal Controls Engineer - Vehicle Controls
 - Texas Permanent School Fund Corporation — Equity Capital Markets Intern
 - The Home Depot — AI Engineer Intern
-- Thomson Reuters — Applied Research Intern - NLP/ML/GenAI
 - TMEIC Corporation Americas — Engineer Intern - Spring 2027 - Eis
 - TMX Group — Analyst Student Intern - Market Insights
 - Toshiba Global Commerce — Product & Business Analytics Intern
