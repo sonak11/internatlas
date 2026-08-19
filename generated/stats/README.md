@@ -160,7 +160,6 @@ _Generated 2026-08-19_
 - General Motors — Research and Development Intern - Research & Development: AI/ML
 - Global Infrastructure — Alternative Delivery Project Analytics Intern
 - Golden Pet Brands — Data Analytics Intern
-- Goldman Sachs — Quantitative Strategist Associate Intern - Asset and Wealth Management
 - Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
 - Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
 - Goldman Sachs — Summer Analyst Intern - FICC and Equities - Sales and Trading
@@ -168,6 +167,7 @@ _Generated 2026-08-19_
 - Goldman Sachs — Summer Analyst Intern - Wealth Management - Product Management and Design
 - Group 1001 — Quantitative Analysis Intern
 - Gulfstream — Computer Science Intern - Advanced Structures and Materials
+- Harris Central Appraisal District — GIS Intern
 - Harris Computer — Software Development Intern
 - Hershey — Product Development Intern - R&D
 - Horizon Industries — Appian Intern
@@ -196,6 +196,7 @@ _Generated 2026-08-19_
 - Micron Technology — Industrial Engineer Intern - Technology & Products Group - Global Industrial Engineering
 - Micron Technology — Surface Scientist Intern - Corporate Labs
 - Microsoft — Full-Stack Product Engineer Intern - Web + Services
+- Microsoft — Optoelectronics Device Engineer Intern
 - Microsoft — Software Engineer: AI/ML & LLM Intern
 - Microsoft — Software Engineer Intern - Cloud & Distributed Backend
 - Microsoft — Software Engineer Intern - Data Platform & Analytics
@@ -239,6 +240,7 @@ _Generated 2026-08-19_
 - Royal Bank of Canada — Relationship Manager Commercial Markets Intern
 - RTX — Enterprise Extended Reality Intern
 - RTX — Machine Learning Researcher Intern/Co-op
+- RTX — Manufacturing & Quality Analyst Intern
 - RTX — Methods Intern - Hot Section Engineering
 - RTX — Modeling, Simulation & Analysis Intern
 - RTX — Modeling, Simulation & Analysis Intern - Summer 2027
