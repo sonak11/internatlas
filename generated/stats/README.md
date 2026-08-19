@@ -163,7 +163,6 @@ _Generated 2026-08-19_
 - Goldman Sachs — Quantitative Strategist Associate Intern - Asset and Wealth Management
 - Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
 - Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
 - Goldman Sachs — Summer Analyst Intern - FICC and Equities - Sales and Trading
 - Goldman Sachs — Summer Analyst Intern - FICC & Equities - Sales & Trading
 - Goldman Sachs — Summer Analyst Intern - Wealth Management - Product Management and Design
@@ -182,6 +181,7 @@ _Generated 2026-08-19_
 - Intel — AI Software Engineer Intern
 - Intuit — Software Engineer Intern
 - Intuitive Surgical — Computer Vision Engineer Intern
+- JP Morgan Chase — Data & AI Intern - Analyst
 - KBR — Software Intern
 - Keysight Technologies — Software Engineer Intern - R&D - FPGA
 - Kimley-Horn — Software Developer Intern
