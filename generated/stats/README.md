@@ -33,9 +33,9 @@ _Generated 2026-08-19_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 1064 | `█████████████` |
+| software-engineering | 1066 | `█████████████` |
 | ai | 194 | `██` |
-| quant | 187 | `██` |
+| quant | 186 | `██` |
 | machine-learning | 129 | `██` |
 | research | 101 | `█` |
 | hardware | 81 | `█` |
@@ -62,13 +62,13 @@ _Generated 2026-08-19_
 - 2026-08-18 — **Clinical Ink**: [Data Management Intern](https://jobs.smartrecruiters.com/ClinicalInk/89163444)
 - 2026-08-18 — **Cole Engineering Services**: [AI Intern](https://jobs-cesi.icims.com/jobs/11206/job?mobile=true&needsRedirect=false)
 - 2026-08-18 — **Cole Engineering Services**: [Software Engineer Intern](https://jobs-cesi.icims.com/jobs/11204/job?mobile=true&needsRedirect=false)
+- 2026-08-18 — **Continental Resources**: [Data Analyst Intern](https://clr.wd5.myworkdayjobs.com/CLR_Careers/job/Oklahoma-City-OK/Data-Analyst-Intern--Summer-2027-_R02591-1)
+- 2026-08-18 — **Continental Resources**: [Geoscience Intern](https://clr.wd5.myworkdayjobs.com/CLR_Careers/job/Oklahoma-City-OK/Geoscience-Intern--Summer-2027-_R02592-1)
 - 2026-08-18 — **Deloitte**: [Forensic Analytics Summer Scholar Intern - Forensic Analytics](https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Summer-Scholar-Forensic-Analytics/363251)
 - 2026-08-18 — **Dimensional Fund Advisors**: [Global Client Group Intern - Data and Tools - Undergraduate and Master's](https://dimensional.wd5.myworkdayjobs.com/dfa_careers/job/Austin/Internship-in-Global-Client-Group---Data-and-Tools--Undergraduate---Master-s-_2026-9003)
 - 2026-08-18 — **Dimensional Fund Advisors**: [Global Client Group Operations Insights Intern - Undergraduate & Master's](https://dimensional.wd5.myworkdayjobs.com/dfa_careers/job/Austin/Internship-in-Global-Client-Group---Insights--Undergraduate---Master-s-_2026-9002)
 - 2026-08-18 — **Encephalo Investments**: [Software Developer Intern](https://jobs.smartrecruiters.com/EncephaloInvestments/743999734497349)
 - 2026-08-18 — **Fannie Mae**: [Business Analysis Associate Intern - Access Management](https://jobs.smartrecruiters.com/FannieMae1SB/743999744544704)
-- 2026-08-18 — **Fannie Mae**: [Business Analysis Associate Intern - Access Management](https://jobs.smartrecruiters.com/FannieMae1SB/743999744532787)
-- 2026-08-18 — **Filtration Group**: [Product Development Intern - Material Science](https://careers-filtrationgroupcorp.icims.com/jobs/7379/job?mobile=true&needsRedirect=false)
 
 ## Recently closed
 
@@ -149,6 +149,7 @@ _Generated 2026-08-19_
 - Formlabs — Hardware Systems Integration Intern
 - Gartner — Data Analyst Intern
 - GE Vernova — Digital Technology Intern
+- GE Vernova — Digital Technology Intern
 - GE Vernova — Engineering Intern
 - Gemini — Software Engineer Intern
 - General Dynamics Information Technology — Artificial Intelligence/Machine Learning Intern
@@ -157,14 +158,11 @@ _Generated 2026-08-19_
 - General Motors — Research and Development Intern - Research & Development: AI/ML
 - Global Infrastructure — Alternative Delivery Project Analytics Intern
 - Golden Pet Brands — Data Analytics Intern
-- Goldman Sachs — Quantitative Strategist Associate Intern - Asset and Wealth Management
 - Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
 - Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
 - Goldman Sachs — Summer Analyst Intern - FICC and Equities - Sales and Trading
 - Goldman Sachs — Summer Analyst Intern - FICC & Equities - Sales & Trading
 - Goldman Sachs — Summer Analyst Intern - Wealth Management - Product Management and Design
-- Goldman Sachs — Summer Associate Intern - Multiple Teams
 - Group 1001 — Quantitative Analysis Intern
 - Gulfstream — Computer Science Intern - Advanced Structures and Materials
 - Harris Computer — Software Development Intern
