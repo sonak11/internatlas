@@ -1,20 +1,21 @@
 {
   "schema_version": "1.0",
-  "id": "cohesity-data-cleansing-and-sales-enablement-analyst-intern-2026",
+  "id": "nvidia-computer-architecture-intern-2027",
   "company": {
-    "name": "Cohesity",
-    "slug": "cohesity"
+    "name": "NVIDIA",
+    "slug": "nvidia"
   },
-  "role": "Data Cleansing and Sales Enablement Analyst Intern",
+  "role": "Computer Architecture Intern",
   "category": "software-engineering",
-  "apply_url": "https://cohesity.wd5.myworkdayjobs.com/Cohesity_Careers/job/Cohesity---London/Data-Analyst--Intern--London_R04433",
-  "season": "fall",
-  "year": 2026,
+  "apply_url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Computer-Architecture_JR2023489",
+  "season": "summer",
+  "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "London",
-      "country": "UK"
+      "city": "Santa Clara",
+      "state": "CA",
+      "country": "USA"
     }
   ],
   "compensation": {
@@ -24,7 +25,10 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "masters",
+      "phd"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -39,11 +43,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-06",
-    "discovered": "2026-08-06",
+    "posted": "2026-08-19",
+    "discovered": "2026-08-19",
     "last_verified": "2026-08-19"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"
