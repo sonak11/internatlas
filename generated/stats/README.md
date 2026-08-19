@@ -306,6 +306,7 @@ _Generated 2026-08-19_
 - Two Six Technologies — China Subject Matter Expert Intern
 - US Acute Care Solutions — People Analytics Intern
 - Vanguard — Data Analysis Intern
+- Vega Investment Technologies — Product Operations Intern
 - Veralto — Machine Learning Co-op Intern
 - Vertiv — Software Engineer Intern
 - Wells Fargo — Corporate Risk Development Program Intern - Core Risk - Early Careers

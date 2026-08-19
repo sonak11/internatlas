@@ -21733,9 +21733,9 @@
       "dates": {
         "posted": "2026-07-17",
         "discovered": "2026-07-18",
-        "last_verified": "2026-07-20"
+        "last_verified": "2026-08-19"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:ats"
@@ -105356,7 +105356,7 @@
         "discovered": "2026-07-20",
         "last_verified": "2026-08-19"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
