@@ -10,7 +10,7 @@ _Generated 2026-08-19_
 |---|---|
 | TikTok | 133 |
 | Tesla | 110 |
-| ByteDance | 52 |
+| ByteDance | 54 |
 | RTX | 48 |
 | Jump Trading | 43 |
 | Cloudflare | 30 |
@@ -21,9 +21,9 @@ _Generated 2026-08-19_
 | Neuralink | 21 |
 | Jane Street | 17 |
 | Palantir Technologies | 17 |
+| Microsoft | 16 |
 | Rivian and Volkswagen Group Technologies | 16 |
 | Meta | 15 |
-| Microsoft | 15 |
 | Etched | 14 |
 | Virtu Financial | 14 |
 | Optiver | 13 |
@@ -34,9 +34,9 @@ _Generated 2026-08-19_
 | Category | Count | Share |
 |---|---|---|
 | software-engineering | 1066 | `█████████████` |
-| ai | 194 | `██` |
+| ai | 195 | `██` |
 | quant | 186 | `██` |
-| machine-learning | 129 | `██` |
+| machine-learning | 131 | `██` |
 | research | 101 | `█` |
 | hardware | 81 | `█` |
 | product | 56 | `█` |
@@ -49,6 +49,9 @@ _Generated 2026-08-19_
 
 ## Newest listings
 
+- 2026-08-19 — **ByteDance**: [Machine Learning Engineer Intern - E-Commerce Risk Control - PhD](https://jobs.bytedance.com/en/position/7675478684795881781/detail)
+- 2026-08-19 — **ByteDance**: [Machine Learning Engineer Intern - E-Commerce Risk Control - PhD](https://jobs.bytedance.com/en/position/7675477254269765941/detail)
+- 2026-08-19 — **Microsoft**: [AI Software Engineer Intern](https://apply.careers.microsoft.com/careers/job/1970393556962891)
 - 2026-08-19 — **Nextiva**: [Marketing Intern - Data Science](https://www.nextiva.com/company/careers-listing?gh_jid=8687999002)
 - 2026-08-18 — **AeroVect**: [Autonomy Intern](https://jobs.smartrecruiters.com/AeroVect/743999725988642)
 - 2026-08-18 — **American Express**: [AI Engineer Intern - Enterprise Technology Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012000)
@@ -66,9 +69,6 @@ _Generated 2026-08-19_
 - 2026-08-18 — **Continental Resources**: [Geoscience Intern](https://clr.wd5.myworkdayjobs.com/CLR_Careers/job/Oklahoma-City-OK/Geoscience-Intern--Summer-2027-_R02592-1)
 - 2026-08-18 — **Deloitte**: [Forensic Analytics Summer Scholar Intern - Forensic Analytics](https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Summer-Scholar-Forensic-Analytics/363251)
 - 2026-08-18 — **Dimensional Fund Advisors**: [Global Client Group Intern - Data and Tools - Undergraduate and Master's](https://dimensional.wd5.myworkdayjobs.com/dfa_careers/job/Austin/Internship-in-Global-Client-Group---Data-and-Tools--Undergraduate---Master-s-_2026-9003)
-- 2026-08-18 — **Dimensional Fund Advisors**: [Global Client Group Operations Insights Intern - Undergraduate & Master's](https://dimensional.wd5.myworkdayjobs.com/dfa_careers/job/Austin/Internship-in-Global-Client-Group---Insights--Undergraduate---Master-s-_2026-9002)
-- 2026-08-18 — **Encephalo Investments**: [Software Developer Intern](https://jobs.smartrecruiters.com/EncephaloInvestments/743999734497349)
-- 2026-08-18 — **Fannie Mae**: [Business Analysis Associate Intern - Access Management](https://jobs.smartrecruiters.com/FannieMae1SB/743999744544704)
 
 ## Recently closed
 
