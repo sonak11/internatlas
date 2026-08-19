@@ -1,14 +1,14 @@
 {
   "schema_version": "1.0",
-  "id": "imc-trading-quant-research-intern-2027-2027",
+  "id": "imc-trading-quantitative-trader-intern-2027-2027",
   "company": {
     "name": "IMC Trading",
     "slug": "imc-trading",
     "career_page": "https://www.imc.com/us/careers"
   },
-  "role": "Quant Research Intern 2027",
+  "role": "Quantitative Trader Intern 2027",
   "category": "quant",
-  "apply_url": "https://job-boards.eu.greenhouse.io/imc/jobs/4941208101",
+  "apply_url": "https://job-boards.eu.greenhouse.io/imc/jobs/4941205101",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
@@ -41,7 +41,7 @@
   },
   "dates": {
     "posted": "2026-08-12",
-    "discovered": "2026-08-12",
+    "discovered": "2026-08-19",
     "last_verified": "2026-08-19"
   },
   "status": "open",

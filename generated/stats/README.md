@@ -87,6 +87,7 @@ _Generated 2026-08-19_
 - Arizona State University — Management Intern - Career Data and Analytics
 - Arkema Global — Manufacturing Data Systems Intern
 - Assured Guaranty — Product Software Developer Intern
+- Astranis — Embedded Software Developer – Network/Payload Software Intern
 - Astranis — Reliability Design Intern
 - Axon — Software Engineer Intern
 - Bank of Montreal — Card Products Intern Co-op - Customer Solutions

@@ -8289,7 +8289,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-19"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -41221,13 +41221,13 @@
     },
     {
       "schema_version": "1.0",
-      "id": "imc-trading-quant-research-intern-2027-2027",
+      "id": "imc-trading-quantitative-research-intern-2027-2027",
       "company": {
         "name": "IMC Trading",
         "slug": "imc-trading",
         "career_page": "https://www.imc.com/us/careers"
       },
-      "role": "Quant Research Intern 2027",
+      "role": "Quantitative Research Intern 2027",
       "category": "quant",
       "apply_url": "https://job-boards.eu.greenhouse.io/imc/jobs/4941208101",
       "season": "summer",
@@ -41262,7 +41262,7 @@
       },
       "dates": {
         "posted": "2026-08-12",
-        "discovered": "2026-08-12",
+        "discovered": "2026-08-19",
         "last_verified": "2026-08-19"
       },
       "status": "open",
@@ -41425,6 +41425,58 @@
       "dates": {
         "posted": "2026-07-31",
         "discovered": "2026-07-31",
+        "last_verified": "2026-08-19"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "imc-trading-quantitative-trader-intern-2027-2027",
+      "company": {
+        "name": "IMC Trading",
+        "slug": "imc-trading",
+        "career_page": "https://www.imc.com/us/careers"
+      },
+      "role": "Quantitative Trader Intern 2027",
+      "category": "quant",
+      "apply_url": "https://job-boards.eu.greenhouse.io/imc/jobs/4941205101",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Hong Kong",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-12",
+        "discovered": "2026-08-19",
         "last_verified": "2026-08-19"
       },
       "status": "open",
@@ -41637,58 +41689,6 @@
       "dates": {
         "posted": "2026-07-01",
         "discovered": "2026-07-22",
-        "last_verified": "2026-08-19"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:ats"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "imc-trading-trader-intern-2027-2027",
-      "company": {
-        "name": "IMC Trading",
-        "slug": "imc-trading",
-        "career_page": "https://www.imc.com/us/careers"
-      },
-      "role": "Trader Intern 2027",
-      "category": "quant",
-      "apply_url": "https://job-boards.eu.greenhouse.io/imc/jobs/4941205101",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Hong Kong",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-08-12",
-        "discovered": "2026-08-12",
         "last_verified": "2026-08-19"
       },
       "status": "open",

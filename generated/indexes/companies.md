@@ -72,7 +72,7 @@
 | [Assurant](../companies/assurant.md) | 1/2 | ai |
 | [Assured Guaranty](../companies/assured-guaranty.md) | 0/1 | software-engineering |
 | [Astera](../companies/astera.md) | 1/1 | software-engineering |
-| [Astranis](../companies/astranis.md) | 7/11 | design, embedded, hardware, software-engineering |
+| [Astranis](../companies/astranis.md) | 6/11 | design, embedded, hardware, software-engineering |
 | [Atomic Semi](../companies/atomic-semi.md) | 6/6 | cloud, design, embedded, software-engineering |
 | [Atoms](../companies/atoms.md) | 3/3 | machine-learning, software-engineering |
 | [Autodesk](../companies/autodesk.md) | 6/11 | cloud, machine-learning, software-engineering |
