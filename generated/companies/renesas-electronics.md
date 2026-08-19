@@ -6,7 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
-| Renesas Electronics | [Digital Design Engineer Intern](https://jobs.smartrecruiters.com/RenesasElectronics/744000143930119) | Duluth, GA | Onsite | 2026-08-17 | Rolling | 🟢 Open | ❔ |
+| Renesas Electronics | [Digital Design Engineer Intern](https://jobs.smartrecruiters.com/RenesasElectronics/744000143930119) | Duluth, GA | Onsite | 2026-08-17 | Rolling | 🔴 Closed | ❔ |
 
 ## Related
 

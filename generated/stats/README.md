@@ -33,11 +33,11 @@ _Generated 2026-08-19_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 1072 | `█████████████` |
+| software-engineering | 1073 | `█████████████` |
 | ai | 196 | `██` |
 | quant | 187 | `██` |
 | machine-learning | 134 | `██` |
-| research | 105 | `█` |
+| research | 104 | `█` |
 | hardware | 87 | `█` |
 | product | 56 | `█` |
 | embedded | 49 | `█` |
@@ -49,6 +49,7 @@ _Generated 2026-08-19_
 
 ## Newest listings
 
+- 2026-08-19 — **Bosch Home Comfort**: [Electrochemistry Modeling Intern](https://jobs.smartrecruiters.com/BoschGroup/744000144370279)
 - 2026-08-19 — **ByteDance**: [Machine Learning Engineer Intern - E-Commerce Risk Control - PhD](https://jobs.bytedance.com/en/position/7675478684795881781/detail)
 - 2026-08-19 — **ByteDance**: [Machine Learning Engineer Intern - E-Commerce Risk Control - PhD](https://jobs.bytedance.com/en/position/7675477254269765941/detail)
 - 2026-08-19 — **Flagright**: [Product Operations Intern](https://jobs.ashbyhq.com/flagright.com/b372f2b5-71d1-462f-a63e-f54ab9992d37/application?embed=true)
@@ -68,7 +69,6 @@ _Generated 2026-08-19_
 - 2026-08-19 — **NVIDIA**: [Hardware Engineering Intern](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Engineering_JR2023508-1)
 - 2026-08-19 — **NVIDIA**: [Hardware Physical Design / VLSI Intern](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Physical-Design---VLSI_JR2023501)
 - 2026-08-19 — **NVIDIA**: [Hardware Verification Intern](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Verification_JR2023500)
-- 2026-08-19 — **NVIDIA**: [Large Language Models Intern - Research](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Large-Language-Models_JR2023837)
 
 ## Recently closed
 
@@ -102,7 +102,6 @@ _Generated 2026-08-19_
 - Cadence Design Systems — Product Engineering Intern - Simulation and Verification
 - Cadence Design Systems — Product Engineering Intern - Simulation and Verification
 - Cadence Design Systems — SSG Design Engineering Intern
-- Canva — PhD Research Scientist Intern - Generative AI
 - Canva — PhD Research Scientist Intern - Reinforcement Learning - Images
 - Capital One — Technology Intern
 - CCC Intelligent Solutions — Data Science Engineer Intern
@@ -226,6 +225,7 @@ _Generated 2026-08-19_
 - Picton Mahoney Asset Management — Quantitative Research & Risk Intern
 - Prophet — AI Engineer Intern - AI Foundry & Digital Growth
 - Quantbot Technologies — Software Engineer Intern
+- Renesas Electronics — Digital Design Engineer Intern
 - Revvity — Full-Stack AI Developer Intern
 - Rippling — Full Stack Software Engineer Intern
 - Rippling — Software Engineer Intern - Backend Focused
@@ -313,6 +313,7 @@ _Generated 2026-08-19_
 - Vertiv — Software Engineer Intern
 - Wells Fargo — Corporate Risk Development Program Intern - Core Risk - Early Careers
 - Wells Fargo — Quantitative Analytics Intern - Multiple Teams
+- Western Digital — Failure Analysis Automation Engineer Intern - Failure Analysis Automation Engineering
 - Western Digital — Software Engineer Intern
 - WGU — Data Support Engineer Intern
 - X Development — PhD Residency Intern - Operations Research and Optimization

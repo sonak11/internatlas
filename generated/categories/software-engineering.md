@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 💻 Software Engineering Internships
 
-**1072** tracked · **748** open now
+**1073** tracked · **748** open now
 
 ## Current openings
 
@@ -98,6 +98,7 @@
 | [BorgWarner](generated/companies/borgwarner.md) | [Validation Intern](https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Kokomo-Technical-Center---Indiana---USA/Validation-Intern--Year-Round-_R2026-1960) | Kokomo, IN | Onsite | 2026-05-21 | Rolling | 🟢 Open | ❔ |
 | [BorgWarner](generated/companies/borgwarner.md) | [Validation Intern](https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Kokomo-Technical-Center---Indiana---USA/Validation-Intern--Year-Round-_R2026-1958-1) | Kokomo, IN | Onsite | 2026-05-21 | Rolling | 🟢 Open | ❔ |
 | [Bosch Home Comfort](generated/companies/bosch-home-comfort.md) | [A.1. Integration Intern](https://jobs.smartrecruiters.com/BoschGroup/744000134840254) | Columbia City, IN | Onsite | 2026-07-02 | Rolling | 🟢 Open | ❔ |
+| [Bosch Home Comfort](generated/companies/bosch-home-comfort.md) | [Electrochemistry Modeling Intern](https://jobs.smartrecruiters.com/BoschGroup/744000144370279) | Sunnyvale, CA | Onsite | 2026-08-19 | Rolling | 🟢 Open | ❔ |
 | [Bosch Home Comfort](generated/companies/bosch-home-comfort.md) | [Powertrain Controls Software Engineer Intern](https://jobs.smartrecruiters.com/BoschGroup/744000140089589) | Southfield, MI | Onsite | 2026-07-27 | Rolling | 🟢 Open | ❔ |
 | [BP](generated/companies/bp.md) | [Geoscience Intern - Geoscientist](https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers/job/United-States-of-America---Texas---Houston/Summer-Intern---Geoscientist---Houston-TX_RQ114816) | Houston, TX | Onsite | 2026-08-14 | Rolling | 🟢 Open | ❔ |
 | [ByteDance](generated/companies/bytedance.md) | [Network Software Engineer Intern - Network Observation](https://jobs.bytedance.com/en/position/7670772641439041797/detail) | San Jose, CA | Onsite | 2026-08-07 | Rolling | 🟢 Open | ❔ |
@@ -746,7 +747,6 @@
 | [Warner Bros.](generated/companies/warner-bros.md) | [Sports Growth Strategy and Data Intern](https://warnerbros.wd5.myworkdayjobs.com/global/job/GA-Atlanta-1050-Techwood-Drive-NW/Sports-Growth-Strategy-and-Data-Internships--ATL---Fall-2026_R000107173) | Atlanta, GA | Onsite | 2026-07-23 | Rolling | 🟢 Open | ❔ |
 | [WEC Energy Group](generated/companies/wec-energy-group.md) | [Energy Analytics Intern](https://careers.wecenergygroup.com/We_Energies/job/Milwaukee-Intern-Energy-Analytics-WI-53203/1420267800/?ats=successfactors) | Milwaukee, WI | Onsite | 2026-08-17 | Rolling | 🟢 Open | ❔ |
 | [WEC Energy Group](generated/companies/wec-energy-group.md) | [Renewables Data Analytics Intern](https://careers.wecenergygroup.com/We_Energies/job/Milwaukee-Intern-Renewables-Data-Analytics-WI-53203/1419740100/?ats=successfactors) | Milwaukee, WI +1 | Onsite | 2026-08-14 | Rolling | 🟢 Open | ❔ |
-| [Western Digital](generated/companies/western-digital.md) | [Failure Analysis Automation Engineer Intern - Failure Analysis Automation Engineering](https://jobs.smartrecruiters.com/WesternDigital/744000139338269) | San Jose, CA | Onsite | 2026-07-23 | Rolling | 🟢 Open | ❔ |
 | [Winland Foods](generated/companies/winland-foods.md) | [Product Development Intern](https://winlandfoods.wd1.myworkdayjobs.com/external/job/USA-IL-Oak-Brook/Product-Development-Intern_R28807) | Oak Brook, IL | Onsite | 2026-08-05 | Rolling | 🟢 Open | ❔ |
 | [WSP](generated/companies/wsp.md) | [Business Intelligence Intern](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/92595) | Toronto +1 | Onsite | 2026-08-07 | Rolling | 🟢 Open | ❔ |
 | [WSP](generated/companies/wsp.md) | [Software Developer Intern](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/86808) | Dallas, TX | Onsite | 2026-05-12 | Rolling | 🟢 Open | ❔ |
@@ -1069,6 +1069,7 @@
 | [Walleye Capital](generated/companies/walleye-capital.md) | [Risk Technology Analyst Intern](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679224006) | New York, NY | Onsite | 2026-07-24 | Rolling | 🔴 Closed | ❔ |
 | [Walleye Capital](generated/companies/walleye-capital.md) | [Technology Intern](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4681002006) | New York, NY | Onsite | 2026-07-24 | Rolling | 🔴 Closed | ❔ |
 | [Wells Fargo](generated/companies/wells-fargo.md) | [Corporate Risk Development Program Intern - Core Risk - Early Careers](https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Corporate-Risk-Development-Program-Summer-Internship--Core-Risk----Early-Careers_R-556123) | Charlotte, NC | Onsite | 2026-07-06 | Rolling | 🔴 Closed | ❔ |
+| [Western Digital](generated/companies/western-digital.md) | [Failure Analysis Automation Engineer Intern - Failure Analysis Automation Engineering](https://jobs.smartrecruiters.com/WesternDigital/744000139338269) | San Jose, CA | Onsite | 2026-07-23 | Rolling | 🔴 Closed | ❔ |
 | [Western Digital](generated/companies/western-digital.md) | [Software Engineer Intern](https://jobs.smartrecruiters.com/WesternDigital/744000138727213) | Fremont, CA +5 | Onsite | 2026-07-20 | Rolling | 🔴 Closed | ❔ |
 | [WGU](generated/companies/wgu.md) | [Data Support Engineer Intern](https://wgu.wd5.myworkdayjobs.com/External/job/Salt-Lake-City-UT/Data-Support-Engineer-Intern_JR-025859) | Salt Lake City, UT | Onsite | 2026-08-05 | Rolling | 🔴 Closed | ❔ |
 | [Williams](generated/companies/williams.md) | [Engineering Intern](https://williams.wd5.myworkdayjobs.com/External/job/OK-Tulsa---Headquarters/Summer-2027-Return-Engineering-Intern_R112502) | Salt Lake City, UT +2 | Onsite | 2026-08-03 | Rolling | 🔴 Closed | ❔ |
@@ -1104,10 +1105,10 @@
 - Amazon (7)
 - Ciena (7)
 - Vertiv (7)
+- Bosch Home Comfort (6)
 - Optiver (6)
 - SpaceX (6)
 - Astranis (5)
-- Bosch Home Comfort (5)
 - Cadence Design Systems (5)
 - Google (5)
 - Jane Street (5)
@@ -1241,7 +1242,6 @@
 - W.W. Grainger (2)
 - Wabtec (2)
 - WEC Energy Group (2)
-- Western Digital (2)
 - WSP (2)
 - Accenture (2)
 - BDO Canada (2)
@@ -1265,6 +1265,7 @@
 - TMX Group (2)
 - Toshiba Global Commerce (2)
 - Walleye Capital (2)
+- Western Digital (2)
 - 1X (1)
 - ABB (1)
 - Abridge (1)

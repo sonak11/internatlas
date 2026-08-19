@@ -103,7 +103,7 @@
 | [Booz Allen](../companies/booz-allen.md) | 1/2 | ai |
 | [BorgWarner](../companies/borgwarner.md) | 2/2 | software-engineering |
 | [Bosch](../companies/bosch.md) | 2/2 | ai |
-| [Bosch Home Comfort](../companies/bosch-home-comfort.md) | 3/8 | ai, product, research, software-engineering |
+| [Bosch Home Comfort](../companies/bosch-home-comfort.md) | 4/9 | ai, product, research, software-engineering |
 | [Bot Auto](../companies/bot-auto.md) | 1/1 | machine-learning |
 | [Brex](../companies/brex.md) | 0/1 | software-engineering |
 | [Brio Water Technology](../companies/brio-water-technology.md) | 1/1 | ai |
@@ -119,7 +119,7 @@
 | [CTGT](../companies/ctgt.md) | 1/1 | software-engineering |
 | [Caddi Workflow Automation](../companies/caddi-workflow-automation.md) | 1/1 | software-engineering |
 | [Cadence Design Systems](../companies/cadence-design-systems.md) | 3/6 | design, software-engineering |
-| [Canva](../companies/canva.md) | 4/6 | ai, research |
+| [Canva](../companies/canva.md) | 4/5 | ai, research |
 | [Capital One](../companies/capital-one.md) | 9/12 | data-science, security, software-engineering |
 | [Capula](../companies/capula.md) | 1/1 | quant |
 | [Carnegie Mellon University](../companies/carnegie-mellon-university.md) | 0/1 | research |
@@ -506,7 +506,7 @@
 | [Redwood Materials](../companies/redwood-materials.md) | 2/2 | embedded, software-engineering |
 | [RegDesk](../companies/regdesk.md) | 1/1 | software-engineering |
 | [Rendezvous Robotics](../companies/rendezvous-robotics.md) | 2/2 | software-engineering |
-| [Renesas Electronics](../companies/renesas-electronics.md) | 1/1 | design |
+| [Renesas Electronics](../companies/renesas-electronics.md) | 0/1 | design |
 | [Replit](../companies/replit.md) | 1/1 | software-engineering |
 | [ResponsiveAds](../companies/responsiveads.md) | 1/1 | software-engineering |
 | [Revise Robotics](../companies/revise-robotics.md) | 1/1 | software-engineering |
@@ -672,7 +672,7 @@
 | [Walleye Capital](../companies/walleye-capital.md) | 3/9 | data-science, quant, software-engineering |
 | [Warner Bros.](../companies/warner-bros.md) | 3/3 | research, software-engineering |
 | [Wells Fargo](../companies/wells-fargo.md) | 3/5 | quant, software-engineering |
-| [Western Digital](../companies/western-digital.md) | 2/3 | hardware, software-engineering |
+| [Western Digital](../companies/western-digital.md) | 1/3 | hardware, software-engineering |
 | [Williams](../companies/williams.md) | 0/1 | software-engineering |
 | [WindBorne Systems](../companies/windborne-systems.md) | 1/1 | embedded |
 | [Winland Foods](../companies/winland-foods.md) | 1/1 | software-engineering |

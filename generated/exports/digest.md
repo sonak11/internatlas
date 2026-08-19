@@ -1,6 +1,6 @@
 # 📬 InternAtlas Weekly Digest — 2026-08-19
 
-## 🆕 New this week (360)
+## 🆕 New this week (361)
 
 - **AARP** — [Data Science and Advanced Analytics Intern](https://careers.aarp.org/jobs/7437?icims=1) · data-science · —
 - **Abridge** — [Software Engineer Intern](https://jobs.ashbyhq.com/abridge/3f07a457-dc14-4238-bf4e-5c33b5c1f883/application?embed=true) · software-engineering · —
@@ -45,6 +45,7 @@
 - **Belvedere Trading** — [Quantitative Trading Intern](https://jobs.lever.co/belvederetrading/cbde47db-c60b-4339-a8f4-a8e4f30505ab) · quant · —
 - **BerryDunn** — [Consulting Intern - Healthcare Data Management and Strategy](https://careers-berrydunn.icims.com/jobs/3973/job?mobile=true&needsRedirect=false) · software-engineering · —
 - **Boom Supersonic** — [Engineering and Tech Intern](https://ats.rippling.com/boom-supersonic/jobs/4053f749-3d30-4d71-a64c-5fa79e162bbf) · software-engineering · —
+- **Bosch Home Comfort** — [Electrochemistry Modeling Intern](https://jobs.smartrecruiters.com/BoschGroup/744000144370279) · software-engineering · —
 - **By Light Professional IT Services** — [AI Intern](https://jobs-bylight.icims.com/jobs/11206/job?mobile=true&needsRedirect=false) · ai · —
 - **By Light Professional IT Services** — [Software Design Engineer Intern](https://jobs-bylight.icims.com/jobs/11204/job?mobile=true&needsRedirect=false) · design · —
 - **ByteDance** — [ASIC Design Engineer Intern - Video Silicon IP](https://jobs.bytedance.com/en/position/7673638856678279429/detail) · hardware · —
