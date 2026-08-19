@@ -33,7 +33,7 @@ _Generated 2026-08-19_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 1073 | `█████████████` |
+| software-engineering | 1072 | `█████████████` |
 | ai | 196 | `██` |
 | quant | 187 | `██` |
 | machine-learning | 134 | `██` |
@@ -176,6 +176,7 @@ _Generated 2026-08-19_
 - Impulse Space — Data Analytics Intern
 - InfiniteQuant — Quantitative Researcher Intern
 - ING — Technology Intern - Innovation
+- Inizio — Data and Analytics Intern
 - Inogen — Firmware Engineer Intern
 - Integra FEC — Data Analyst Intern
 - Intel — AI Software Engineer Intern
@@ -306,6 +307,7 @@ _Generated 2026-08-19_
 - Two Six Technologies — China Subject Matter Expert Intern
 - US Acute Care Solutions — People Analytics Intern
 - Vanguard — Data Analysis Intern
+- Veeda AI — AI Scientist Intern - Veeda AI Scientist
 - Vega Investment Technologies — Product Operations Intern
 - Veralto — Machine Learning Co-op Intern
 - Vertiv — Software Engineer Intern
