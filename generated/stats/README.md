@@ -243,13 +243,13 @@ _Generated 2026-08-19_
 - RTX — Manufacturing & Quality Analyst Intern
 - RTX — Methods Intern - Hot Section Engineering
 - RTX — Modeling, Simulation & Analysis Intern
-- RTX — Modeling, Simulation & Analysis Intern - Summer 2027
 - RTX — Radar Digital Products Engineering Intern
 - RTX — Software Engineer Intern
 - RTX — Software Engineer Intern
 - RTX — Software Engineer Intern
 - RTX — Software Engineer Intern
 - RTX — Software Engineer Intern
+- RTX — Software Engineer Intern - Summer 2027
 - RTX — Software Engineer Intern - Summer 2027
 - RTX — Software Engineer Intern - Summer 2027
 - RTX — Software Engineer Intern - Summer 2027
@@ -296,6 +296,7 @@ _Generated 2026-08-19_
 - Tesla — Thermal Controls Engineer Intern - Thermal Controls Engineer - Vehicle Controls
 - Texas Permanent School Fund Corporation — Equity Capital Markets Intern
 - The Home Depot — AI Engineer Intern
+- Thomson Reuters — Applied Research Intern - NLP/ML/GenAI
 - TMEIC Corporation Americas — Engineer Intern - Spring 2027 - Eis
 - TMX Group — Analyst Student Intern - Market Insights
 - Toshiba Global Commerce — Product & Business Analytics Intern

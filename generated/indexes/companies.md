@@ -609,7 +609,7 @@
 | [The Mosaic Company](../companies/the-mosaic-company.md) | 0/1 | security |
 | [The Nuclear Company](../companies/the-nuclear-company.md) | 10/10 | ai, data-science, machine-learning, software-engineering |
 | [The Trade Desk](../companies/the-trade-desk.md) | 0/1 | software-engineering |
-| [Thomson Reuters](../companies/thomson-reuters.md) | 2/2 | machine-learning, research |
+| [Thomson Reuters](../companies/thomson-reuters.md) | 1/2 | machine-learning, research |
 | [TikTok](../companies/tiktok.md) | 129/133 | ai, cloud, data-engineering, data-science, machine-learning, product, research, software-engineering |
 | [Together AI](../companies/together-ai.md) | 2/3 | research |
 | [Torch Technologies](../companies/torch-technologies.md) | 0/1 | software-engineering |
