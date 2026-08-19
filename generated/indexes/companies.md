@@ -21,7 +21,7 @@
 | [AcreTrader](../companies/acretrader.md) | 1/1 | software-engineering |
 | [Ada](../companies/ada.md) | 0/1 | software-engineering |
 | [Adobe](../companies/adobe.md) | 0/1 | machine-learning |
-| [Adtheorant](../companies/adtheorant.md) | 1/1 | ai |
+| [Adtheorant](../companies/adtheorant.md) | 0/1 | ai |
 | [AeroVect](../companies/aerovect.md) | 1/1 | software-engineering |
 | [Airbnb](../companies/airbnb.md) | 0/1 | software-engineering |
 | [Akuna Capital](../companies/akuna-capital.md) | 8/8 | cloud, hardware, quant, software-engineering |
@@ -64,7 +64,7 @@
 | [Argmax](../companies/argmax.md) | 1/1 | ai |
 | [Argonne National Laboratory](../companies/argonne-national-laboratory.md) | 1/1 | software-engineering |
 | [Arizona State University](../companies/arizona-state-university.md) | 0/1 | software-engineering |
-| [Arkema Global](../companies/arkema-global.md) | 1/1 | software-engineering |
+| [Arkema Global](../companies/arkema-global.md) | 0/1 | software-engineering |
 | [Arlington County VA](../companies/arlington-county-va.md) | 2/2 | software-engineering |
 | [Arrowstreet Capital](../companies/arrowstreet-capital.md) | 2/2 | quant |
 | [Arthur J. Gallagher & Co.](../companies/arthur-j-gallagher-co.md) | 1/1 | software-engineering |
@@ -220,7 +220,7 @@
 | [Exploration Technology Corp.](../companies/exploration-technology-corp.md) | 0/1 | software-engineering |
 | [FAST Enterprises](../companies/fast-enterprises.md) | 1/1 | software-engineering |
 | [FTI Consulting](../companies/fti-consulting.md) | 2/2 | software-engineering |
-| [Fab2](../companies/fab2.md) | 2/6 | design, embedded, software-engineering |
+| [Fab2](../companies/fab2.md) | 1/6 | design, embedded, software-engineering |
 | [Fannie Mae](../companies/fannie-mae.md) | 2/2 | software-engineering |
 | [Felix Magazine](../companies/felix-magazine.md) | 4/4 | software-engineering |
 | [Field AI](../companies/field-ai.md) | 1/1 | software-engineering |
@@ -422,7 +422,7 @@
 | [New York Post Holdings](../companies/new-york-post-holdings.md) | 1/1 | software-engineering |
 | [NewsBreak](../companies/newsbreak.md) | 0/1 | software-engineering |
 | [Nexstar](../companies/nexstar.md) | 1/1 | software-engineering |
-| [Nextiva](../companies/nextiva.md) | 1/1 | ai |
+| [Nextiva](../companies/nextiva.md) | 2/2 | ai, data-science |
 | [Nightwing](../companies/nightwing.md) | 1/1 | hardware |
 | [Noblis](../companies/noblis.md) | 0/1 | software-engineering |
 | [Nokia](../companies/nokia.md) | 0/5 | data-science, embedded, software-engineering |
@@ -592,7 +592,7 @@
 | [TMX Group](../companies/tmx-group.md) | 0/2 | software-engineering |
 | [Tacit](../companies/tacit.md) | 1/1 | hardware |
 | [Teledyne](../companies/teledyne.md) | 2/2 | software-engineering |
-| [Tencent](../companies/tencent.md) | 2/7 | ai, machine-learning, research, software-engineering |
+| [Tencent](../companies/tencent.md) | 3/8 | ai, machine-learning, research, software-engineering |
 | [Tenstorrent](../companies/tenstorrent.md) | 2/3 | ai, design |
 | [Terminal](../companies/terminal.md) | 0/2 | software-engineering |
 | [Terranova](../companies/terranova.md) | 2/2 | embedded, software-engineering |

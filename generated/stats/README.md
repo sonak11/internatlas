@@ -37,18 +37,19 @@ _Generated 2026-08-19_
 | ai | 194 | `██` |
 | quant | 187 | `██` |
 | machine-learning | 129 | `██` |
-| research | 100 | `█` |
+| research | 101 | `█` |
 | hardware | 81 | `█` |
 | product | 56 | `█` |
 | embedded | 49 | `█` |
 | design | 41 | `█` |
 | cloud | 40 | `█` |
-| data-science | 36 | `█` |
+| data-science | 37 | `█` |
 | data-engineering | 23 | `█` |
 | security | 13 | `█` |
 
 ## Newest listings
 
+- 2026-08-19 — **Nextiva**: [Marketing Intern - Data Science](https://www.nextiva.com/company/careers-listing?gh_jid=8687999002)
 - 2026-08-18 — **AeroVect**: [Autonomy Intern](https://jobs.smartrecruiters.com/AeroVect/743999725988642)
 - 2026-08-18 — **American Express**: [AI Engineer Intern - Enterprise Technology Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012000)
 - 2026-08-18 — **American Express**: [Data Analytics Intern - Global Servicing - Financial Crimes Risk & Controls](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012627)
@@ -68,11 +69,11 @@ _Generated 2026-08-19_
 - 2026-08-18 — **Fannie Mae**: [Business Analysis Associate Intern - Access Management](https://jobs.smartrecruiters.com/FannieMae1SB/743999744544704)
 - 2026-08-18 — **Fannie Mae**: [Business Analysis Associate Intern - Access Management](https://jobs.smartrecruiters.com/FannieMae1SB/743999744532787)
 - 2026-08-18 — **Filtration Group**: [Product Development Intern - Material Science](https://careers-filtrationgroupcorp.icims.com/jobs/7379/job?mobile=true&needsRedirect=false)
-- 2026-08-18 — **Foundation Finance**: [Full Stack Developer Intern](https://careers.foundationfinance.com/jobs/2097?icims=1)
 
 ## Recently closed
 
 - Adobe — AI/ML Intern – Machine Learning Engineer/Researcher Intern
+- Adtheorant — Enterprise AI Intern
 - Alljoined — Research Intern
 - Altera Corporation — Embedded Solutions Intern
 - Ambarella — Algorithm Engineer Intern
@@ -84,6 +85,7 @@ _Generated 2026-08-19_
 - Arcadis — GIS Intern
 - Arevon — Data Science Intern - Interconnection & Transmission
 - Arizona State University — Management Intern - Career Data and Analytics
+- Arkema Global — Manufacturing Data Systems Intern
 - Assured Guaranty — Product Software Developer Intern
 - Astranis — Reliability Design Intern
 - Axon — Software Engineer Intern
@@ -140,6 +142,7 @@ _Generated 2026-08-19_
 - Excel Sports Management — Analytics Intern - Analytics
 - Excel Sports Management — Football Coaches Intern
 - Fab2 — Embedded Software Engineer Intern
+- Fab2 — Rust Software Engineer Intern - Chip Design Tools
 - Fab2 — Software Engineer Intern
 - First American — Software Engineer Intern
 - Formlabs — Hardware Systems Integration Intern

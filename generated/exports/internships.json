@@ -1,6 +1,6 @@
 {
   "generated": "2026-08-19",
-  "count": 2013,
+  "count": 2015,
   "internships": [
     {
       "schema_version": "1.0",
@@ -744,7 +744,7 @@
         "discovered": "2026-07-23",
         "last_verified": "2026-08-19"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -7498,7 +7498,7 @@
         "discovered": "2026-07-29",
         "last_verified": "2026-08-19"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -31041,7 +31041,7 @@
         "discovered": "2026-07-22",
         "last_verified": "2026-08-19"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -59810,6 +59810,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "nextiva-marketing-intern-data-science-2026",
+      "company": {
+        "name": "Nextiva",
+        "slug": "nextiva"
+      },
+      "role": "Marketing Intern - Data Science",
+      "category": "data-science",
+      "apply_url": "https://www.nextiva.com/company/careers-listing?gh_jid=8687999002",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Scottsdale",
+          "state": "AZ",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-19",
+        "discovered": "2026-08-19",
+        "last_verified": "2026-08-19"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "nightwing-software-hardware-engineering-intern-2027",
       "company": {
         "name": "Nightwing",
@@ -84406,6 +84458,61 @@
       "dates": {
         "posted": "2026-06-27",
         "discovered": "2026-07-21",
+        "last_verified": "2026-08-19"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "tencent-multimodal-algorithm-researcher-intern-omni-modal-2026",
+      "company": {
+        "name": "Tencent",
+        "slug": "tencent"
+      },
+      "role": "Multimodal Algorithm Researcher Intern - Omni-Modal",
+      "category": "research",
+      "apply_url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Hunyuan-Multimodal-Algorithm-Researcher-intern-Omni-Modal---_R106650",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Palo Alto",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters",
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-04",
+        "discovered": "2026-08-19",
         "last_verified": "2026-08-19"
       },
       "status": "open",

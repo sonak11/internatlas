@@ -1,19 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "fab2-rust-software-engineer-intern-chip-design-tools-2026",
+  "id": "nextiva-marketing-intern-data-science-2026",
   "company": {
-    "name": "Fab2",
-    "slug": "fab2"
+    "name": "Nextiva",
+    "slug": "nextiva"
   },
-  "role": "Rust Software Engineer Intern - Chip Design Tools",
-  "category": "design",
-  "apply_url": "https://jobs.ashbyhq.com/fab2/907766af-a3c0-49a3-b01e-246baa437d10/application?embed=true",
+  "role": "Marketing Intern - Data Science",
+  "category": "data-science",
+  "apply_url": "https://www.nextiva.com/company/careers-listing?gh_jid=8687999002",
   "season": "fall",
   "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "SF",
+      "city": "Scottsdale",
+      "state": "AZ",
       "country": "USA"
     }
   ],
@@ -39,11 +40,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-21",
-    "discovered": "2026-07-22",
+    "posted": "2026-08-19",
+    "discovered": "2026-08-19",
     "last_verified": "2026-08-19"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"
