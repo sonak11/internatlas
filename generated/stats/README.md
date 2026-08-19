@@ -34,7 +34,7 @@ _Generated 2026-08-19_
 | Category | Count | Share |
 |---|---|---|
 | software-engineering | 1081 | `█████████████` |
-| ai | 196 | `██` |
+| ai | 197 | `██` |
 | quant | 187 | `██` |
 | machine-learning | 135 | `██` |
 | research | 104 | `█` |
@@ -49,6 +49,7 @@ _Generated 2026-08-19_
 
 ## Newest listings
 
+- 2026-08-19 — **Autodesk**: [AI Developer Intern](https://autodesk.wd1.myworkdayjobs.com/uni/job/Montreal-QC-CAN/Intern--AI-Developer--Stagiaire-en-dveloppement-IA_26WD100523-1)
 - 2026-08-19 — **Bosch Home Comfort**: [Electrochemistry Modeling Intern](https://jobs.smartrecruiters.com/BoschGroup/744000144370279)
 - 2026-08-19 — **ByteDance**: [Machine Learning Engineer Intern - E-Commerce Risk Control - PhD](https://jobs.bytedance.com/en/position/7675478684795881781/detail)
 - 2026-08-19 — **ByteDance**: [Machine Learning Engineer Intern - E-Commerce Risk Control - PhD](https://jobs.bytedance.com/en/position/7675477254269765941/detail)
@@ -68,7 +69,6 @@ _Generated 2026-08-19_
 - 2026-08-19 — **NVIDIA**: [Deep Learning Computer Architecture Intern](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning-Computer-Architecture_JR2023491)
 - 2026-08-19 — **NVIDIA**: [Deep Learning Intern - Deep Learning Applications and Algorithms - Deep Learning Frameworks and Libraries](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning_JR2023497-1)
 - 2026-08-19 — **NVIDIA**: [Developer and Performance Technology Intern](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-Spring-2027-Internships--Developer-and-Performance-Technology_JR2023499)
-- 2026-08-19 — **NVIDIA**: [Generative AI Ph.D. Research Intern](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Generative-AI_JR2023475)
 
 ## Recently closed
 
@@ -186,6 +186,7 @@ _Generated 2026-08-19_
 - McKesson — Software Developer Intern - Digital and Enterprise Technology
 - McKesson — Technology Intern
 - Meta — Research Scientist Intern - Monetization Computer Vision
+- Metropolitan Transportation Authority — Data Analyst Intern
 - Microchip Technology — Engineering Intern - Firmware Development
 - Microchip Technology — Power, Analog and Mixed-Signal IC Product Engineer Intern - Product Engineering
 - Micron Technology — Industrial Engineer Intern - Technology & Products Group - Global Industrial Engineering

@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "metropolitan-transportation-authority-data-analyst-intern-2026",
+  "id": "autodesk-ai-developer-intern-2027",
   "company": {
-    "name": "Metropolitan Transportation Authority",
-    "slug": "metropolitan-transportation-authority"
+    "name": "Autodesk",
+    "slug": "autodesk"
   },
-  "role": "Data Analyst Intern",
-  "category": "software-engineering",
-  "apply_url": "https://jobs.jobvite.com/metropolitantransportationauthority/job/oecDAfwn?nl=1&nl=1&fr=false",
-  "season": "fall",
-  "year": 2026,
+  "role": "AI Developer Intern",
+  "category": "ai",
+  "apply_url": "https://autodesk.wd1.myworkdayjobs.com/uni/job/Montreal-QC-CAN/Intern--AI-Developer--Stagiaire-en-dveloppement-IA_26WD100523-1",
+  "season": "winter",
+  "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "NYC",
-      "country": "USA"
+      "city": "Montreal",
+      "country": "QC"
     }
   ],
   "compensation": {
@@ -25,7 +25,8 @@
   "eligibility": {
     "graduation_years": [],
     "degree_levels": [
-      "masters"
+      "masters",
+      "phd"
     ],
     "citizenship_required": false,
     "security_clearance_required": false,
@@ -41,11 +42,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-11",
-    "discovered": "2026-08-03",
+    "posted": "2026-08-19",
+    "discovered": "2026-08-19",
     "last_verified": "2026-08-19"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"
