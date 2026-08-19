@@ -118,7 +118,7 @@
 | [CNO Financial Group](../companies/cno-financial-group.md) | 1/2 | ai, security |
 | [CTGT](../companies/ctgt.md) | 1/1 | software-engineering |
 | [Caddi Workflow Automation](../companies/caddi-workflow-automation.md) | 1/1 | software-engineering |
-| [Cadence Design Systems](../companies/cadence-design-systems.md) | 6/6 | design, software-engineering |
+| [Cadence Design Systems](../companies/cadence-design-systems.md) | 4/6 | design, software-engineering |
 | [Canva](../companies/canva.md) | 4/6 | ai, research |
 | [Capital One](../companies/capital-one.md) | 9/12 | data-science, security, software-engineering |
 | [Capula](../companies/capula.md) | 1/1 | quant |
@@ -190,7 +190,7 @@
 | [DimeHealth AI](../companies/dimehealth-ai.md) | 1/1 | software-engineering |
 | [Dimensional Fund Advisors](../companies/dimensional-fund-advisors.md) | 2/2 | software-engineering |
 | [Ditto](../companies/ditto.md) | 0/1 | software-engineering |
-| [Dmg Media](../companies/dmg-media.md) | 1/2 | ai, software-engineering |
+| [Dmg Media](../companies/dmg-media.md) | 2/2 | ai, software-engineering |
 | [Draper](../companies/draper.md) | 0/1 | software-engineering |
 | [Droyd Robotics](../companies/droyd-robotics.md) | 2/2 | machine-learning, software-engineering |
 | [Duku AI](../companies/duku-ai.md) | 0/1 | software-engineering |
@@ -266,7 +266,7 @@
 | [Global Partners](../companies/global-partners.md) | 1/1 | software-engineering |
 | [GoDaddy](../companies/godaddy.md) | 1/1 | software-engineering |
 | [Golden Pet Brands](../companies/golden-pet-brands.md) | 0/1 | software-engineering |
-| [Goldman Sachs](../companies/goldman-sachs.md) | 0/9 | product, quant, software-engineering |
+| [Goldman Sachs](../companies/goldman-sachs.md) | 1/9 | product, quant, software-engineering |
 | [Google](../companies/google.md) | 3/7 | data-science, research, software-engineering |
 | [Grant Thornton](../companies/grant-thornton.md) | 2/2 | software-engineering |
 | [Gritt Robotics Inc](../companies/gritt-robotics-inc.md) | 1/1 | software-engineering |
@@ -301,6 +301,7 @@
 | [Huck Adventures](../companies/huck-adventures.md) | 1/1 | research |
 | [Hudson River Trading](../companies/hudson-river-trading.md) | 5/5 | quant, software-engineering |
 | [Human Computer Lab](../companies/human-computer-lab.md) | 1/1 | machine-learning |
+| [Humana](../companies/humana.md) | 1/1 | software-engineering |
 | [HyperLight](../companies/hyperlight.md) | 2/2 | software-engineering |
 | [Hypercubic](../companies/hypercubic.md) | 1/1 | software-engineering |
 | [IES Holdings](../companies/ies-holdings.md) | 1/1 | software-engineering |
@@ -316,7 +317,7 @@
 | [Innovation Works, Inc.](../companies/innovation-works-inc.md) | 1/1 | software-engineering |
 | [Inogen](../companies/inogen.md) | 0/1 | embedded |
 | [Instacart](../companies/instacart.md) | 0/2 | machine-learning |
-| [Integra FEC](../companies/integra-fec.md) | 4/4 | data-science, software-engineering |
+| [Integra FEC](../companies/integra-fec.md) | 3/3 | data-science, software-engineering |
 | [Integrity](../companies/integrity.md) | 0/1 | research |
 | [Intel](../companies/intel.md) | 2/5 | ai, design, software-engineering |
 | [Intel Corporation](../companies/intel-corporation.md) | 0/1 | ai |
@@ -325,6 +326,7 @@
 | [Intercontinental Exchange, Inc.](../companies/intercontinental-exchange-inc.md) | 1/1 | machine-learning |
 | [Interdigital](../companies/interdigital.md) | 1/1 | software-engineering |
 | [International Rescue Committee (IRC)](../companies/international-rescue-committee-irc.md) | 2/2 | research, software-engineering |
+| [Intuit](../companies/intuit.md) | 1/1 | software-engineering |
 | [Intuitive Surgical](../companies/intuitive-surgical.md) | 0/1 | software-engineering |
 | [JINGDONG](../companies/jingdong.md) | 0/1 | software-engineering |
 | [JP Morgan Chase](../companies/jp-morgan-chase.md) | 7/7 | ai, quant, software-engineering |
@@ -451,7 +453,7 @@
 | [PSECU](../companies/psecu.md) | 0/1 | software-engineering |
 | [PSP Investments](../companies/psp-investments.md) | 1/1 | ai |
 | [Pacific Northwest National Laboratory](../companies/pacific-northwest-national-laboratory.md) | 3/3 | software-engineering |
-| [Palantir](../companies/palantir.md) | 11/11 | cloud, software-engineering |
+| [Palantir](../companies/palantir.md) | 10/11 | cloud, software-engineering |
 | [Palantir Technologies](../companies/palantir-technologies.md) | 14/17 | cloud, software-engineering |
 | [PanAgora](../companies/panagora.md) | 1/1 | software-engineering |
 | [Paragon](../companies/paragon.md) | 1/1 | software-engineering |
@@ -476,6 +478,7 @@
 | [Poshmark](../companies/poshmark.md) | 1/1 | cloud |
 | [Postman](../companies/postman.md) | 1/1 | ai |
 | [Praytell](../companies/praytell.md) | 1/1 | software-engineering |
+| [PricewaterhouseCoopers (PwC)](../companies/pricewaterhousecoopers-pwc.md) | 5/5 | ai, software-engineering |
 | [ProNexus](../companies/pronexus.md) | 1/1 | software-engineering |
 | [Prophet](../companies/prophet.md) | 0/1 | ai |
 | [Prospect Equities](../companies/prospect-equities.md) | 1/1 | software-engineering |

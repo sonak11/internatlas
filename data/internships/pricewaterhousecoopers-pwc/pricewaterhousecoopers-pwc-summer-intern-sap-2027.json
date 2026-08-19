@@ -1,21 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "integra-fec-data-analyst-intern-2026-f0f7fc",
+  "id": "pricewaterhousecoopers-pwc-summer-intern-sap-2027",
   "company": {
-    "name": "Integra FEC",
-    "slug": "integra-fec"
+    "name": "PricewaterhouseCoopers (PwC)",
+    "slug": "pricewaterhousecoopers-pwc"
   },
-  "role": "Data Analyst Intern",
+  "role": "Summer Intern - SAP",
   "category": "software-engineering",
-  "apply_url": "https://job-boards.greenhouse.io/integrainterns/jobs/5134523008",
-  "season": "fall",
-  "year": 2026,
+  "apply_url": "https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Calgary/May-2027---SAP---Summer-Intern---Calgary_752589WD",
+  "season": "summer",
+  "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Austin",
-      "state": "TX",
-      "country": "USA"
+      "city": "Calgary",
+      "country": "AB"
     }
   ],
   "compensation": {
@@ -25,10 +24,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters",
-      "phd"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -43,9 +39,9 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-04-28",
-    "discovered": "2026-07-17",
-    "last_verified": "2026-08-18"
+    "posted": "2026-08-18",
+    "discovered": "2026-08-19",
+    "last_verified": "2026-08-19"
   },
   "status": "open",
   "tags": [
