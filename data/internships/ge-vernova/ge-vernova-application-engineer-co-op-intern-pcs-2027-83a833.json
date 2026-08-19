@@ -1,20 +1,21 @@
 {
   "schema_version": "1.0",
-  "id": "goldman-sachs-summer-analyst-intern-wealth-management-product-management-a-2027",
+  "id": "ge-vernova-application-engineer-co-op-intern-pcs-2027-83a833",
   "company": {
-    "name": "Goldman Sachs",
-    "slug": "goldman-sachs"
+    "name": "GE Vernova",
+    "slug": "ge-vernova"
   },
-  "role": "Summer Analyst Intern - Wealth Management - Product Management and Design",
-  "category": "product",
-  "apply_url": "https://higher.gs.com/roles/170935?type=students",
+  "role": "Application Engineer Co-op/Intern - PCS",
+  "category": "software-engineering",
+  "apply_url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Findlay-Township/PCS-Application-Engineering-Co-Op-Intern---Summer-2027_R5050417-2",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "London",
-      "country": "UK"
+      "city": "Findlay Township",
+      "state": "PA",
+      "country": "USA"
     }
   ],
   "compensation": {
@@ -24,7 +25,9 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "masters"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -39,8 +42,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-15",
-    "discovered": "2026-08-15",
+    "posted": "2026-08-19",
+    "discovered": "2026-08-19",
     "last_verified": "2026-08-19"
   },
   "status": "open",

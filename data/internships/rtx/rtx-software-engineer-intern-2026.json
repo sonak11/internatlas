@@ -1,20 +1,21 @@
 {
   "schema_version": "1.0",
-  "id": "goldman-sachs-summer-analyst-intern-wealth-management-product-management-a-2027",
+  "id": "rtx-software-engineer-intern-2026",
   "company": {
-    "name": "Goldman Sachs",
-    "slug": "goldman-sachs"
+    "name": "RTX",
+    "slug": "rtx"
   },
-  "role": "Summer Analyst Intern - Wealth Management - Product Management and Design",
-  "category": "product",
-  "apply_url": "https://higher.gs.com/roles/170935?type=students",
-  "season": "summer",
-  "year": 2027,
+  "role": "Software Engineer Intern",
+  "category": "software-engineering",
+  "apply_url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CA-SAN-DIEGO-SD1--8650-Balboa-Ave--SAN-ANTONIO-BLDG/Software-Engineering-Intern--Onsite-_01867845",
+  "season": "fall",
+  "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "London",
-      "country": "UK"
+      "city": "San Diego",
+      "state": "CA",
+      "country": "USA"
     }
   ],
   "compensation": {
@@ -39,8 +40,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-15",
-    "discovered": "2026-08-15",
+    "posted": "2026-08-19",
+    "discovered": "2026-08-19",
     "last_verified": "2026-08-19"
   },
   "status": "open",

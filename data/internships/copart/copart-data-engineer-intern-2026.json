@@ -7,7 +7,7 @@
   },
   "role": "Data Engineer Intern",
   "category": "data-engineering",
-  "apply_url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Data-Engineering-Intern_JR110075",
+  "apply_url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Data-Engineering-Intern_JR110617",
   "season": "fall",
   "year": 2026,
   "work_mode": "onsite",
@@ -43,11 +43,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-27",
+    "posted": "2026-08-19",
     "discovered": "2026-07-27",
-    "last_verified": "2026-08-07"
+    "last_verified": "2026-08-19"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

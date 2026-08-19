@@ -1,20 +1,21 @@
 {
   "schema_version": "1.0",
-  "id": "goldman-sachs-summer-analyst-intern-wealth-management-product-management-a-2027",
+  "id": "tiktok-machine-learning-mlops-intern-global-site-reliability-engine-2027",
   "company": {
-    "name": "Goldman Sachs",
-    "slug": "goldman-sachs"
+    "name": "TikTok",
+    "slug": "tiktok"
   },
-  "role": "Summer Analyst Intern - Wealth Management - Product Management and Design",
-  "category": "product",
-  "apply_url": "https://higher.gs.com/roles/170935?type=students",
+  "role": "Machine Learning MLOps Intern - Global Site Reliability Engineering",
+  "category": "machine-learning",
+  "apply_url": "https://lifeattiktok.com/search/7670875283026053381",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "London",
-      "country": "UK"
+      "city": "San Jose",
+      "state": "CA",
+      "country": "USA"
     }
   ],
   "compensation": {
@@ -39,8 +40,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-15",
-    "discovered": "2026-08-15",
+    "posted": "2026-08-19",
+    "discovered": "2026-08-19",
     "last_verified": "2026-08-19"
   },
   "status": "open",

@@ -8,10 +8,10 @@ _Generated 2026-08-19_
 
 | Company | Listings |
 |---|---|
-| TikTok | 133 |
+| TikTok | 134 |
 | Tesla | 110 |
 | ByteDance | 54 |
-| RTX | 48 |
+| RTX | 52 |
 | Jump Trading | 43 |
 | Cloudflare | 30 |
 | NVIDIA | 30 |
@@ -33,14 +33,14 @@ _Generated 2026-08-19_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 1073 | `█████████████` |
+| software-engineering | 1081 | `█████████████` |
 | ai | 196 | `██` |
 | quant | 187 | `██` |
-| machine-learning | 134 | `██` |
+| machine-learning | 135 | `██` |
 | research | 104 | `█` |
 | hardware | 87 | `█` |
 | product | 56 | `█` |
-| embedded | 49 | `█` |
+| embedded | 50 | `█` |
 | design | 42 | `█` |
 | cloud | 40 | `█` |
 | data-science | 37 | `█` |
@@ -52,10 +52,15 @@ _Generated 2026-08-19_
 - 2026-08-19 — **Bosch Home Comfort**: [Electrochemistry Modeling Intern](https://jobs.smartrecruiters.com/BoschGroup/744000144370279)
 - 2026-08-19 — **ByteDance**: [Machine Learning Engineer Intern - E-Commerce Risk Control - PhD](https://jobs.bytedance.com/en/position/7675478684795881781/detail)
 - 2026-08-19 — **ByteDance**: [Machine Learning Engineer Intern - E-Commerce Risk Control - PhD](https://jobs.bytedance.com/en/position/7675477254269765941/detail)
+- 2026-08-19 — **Copart**: [Data Engineer Intern](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Data-Engineering-Intern_JR110617)
 - 2026-08-19 — **Flagright**: [Product Operations Intern](https://jobs.ashbyhq.com/flagright.com/b372f2b5-71d1-462f-a63e-f54ab9992d37/application?embed=true)
+- 2026-08-19 — **GE Vernova**: [Application Engineer Co-op/Intern - PCS](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Findlay-Township/PCS-Application-Engineering-Co-Op-Intern---Summer-2027_R5050417-2)
+- 2026-08-19 — **GE Vernova**: [Application Engineer Co-op/Intern - PCS](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Findlay-Township/PCS-Application-Engineering-Co-Op-Intern---Summer-2027_R5050417-1)
 - 2026-08-19 — **InfiniteQuant**: [Quantitative Developer Internship - Summer 2027](https://jobs.smartrecruiters.com/InfiniteQuant/744000144281579)
+- 2026-08-19 — **Kepler Communications**: [Embedded Software Engineer Intern - January 2027 - 4 months](https://jobs.lever.co/kepler/2ad02ce3-1d56-4aee-9f1d-5199c780c0c1/apply)
 - 2026-08-19 — **Marmon Holdings**: [Data & Process Automation Intern - Duty Drawback](https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Newark-NJ/Data---Process-Automation-Intern---Duty-Drawback_JR0000045184)
 - 2026-08-19 — **Microsoft**: [AI Software Engineer Intern](https://apply.careers.microsoft.com/careers/job/1970393556962891)
+- 2026-08-19 — **Moog**: [Computer Science Intern - Information Technology](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--IT-Computer-Science_R-26-19378)
 - 2026-08-19 — **Nextiva**: [Marketing Intern - Data Science](https://www.nextiva.com/company/careers-listing?gh_jid=8687999002)
 - 2026-08-19 — **NVIDIA**: [Computer Architecture and Systems Intern - Research](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Computer-Architecture-and-Systems_JR2023854)
 - 2026-08-19 — **NVIDIA**: [Computer Architecture Intern](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Computer-Architecture_JR2023489)
@@ -64,11 +69,6 @@ _Generated 2026-08-19_
 - 2026-08-19 — **NVIDIA**: [Deep Learning Intern - Deep Learning Applications and Algorithms - Deep Learning Frameworks and Libraries](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning_JR2023497-1)
 - 2026-08-19 — **NVIDIA**: [Developer and Performance Technology Intern](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-Spring-2027-Internships--Developer-and-Performance-Technology_JR2023499)
 - 2026-08-19 — **NVIDIA**: [Generative AI Ph.D. Research Intern](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Generative-AI_JR2023475)
-- 2026-08-19 — **NVIDIA**: [Hardware ASIC Design Intern - Hardware](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-ASIC-Design_JR2023486)
-- 2026-08-19 — **NVIDIA**: [Hardware Design for Test Intern - DFT](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Design-for-Test--DFT-_JR2023487-1)
-- 2026-08-19 — **NVIDIA**: [Hardware Engineering Intern](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Engineering_JR2023508-1)
-- 2026-08-19 — **NVIDIA**: [Hardware Physical Design / VLSI Intern](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Physical-Design---VLSI_JR2023501)
-- 2026-08-19 — **NVIDIA**: [Hardware Verification Intern](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Verification_JR2023500)
 
 ## Recently closed
 
@@ -128,7 +128,6 @@ _Generated 2026-08-19_
 - CNO Financial Group — Artificial Intelligence Information Technology Intern - AI
 - Cohesity — Data Cleansing and Sales Enablement Analyst Intern
 - ConocoPhillips — GIS Intern
-- Copart — Data Engineer Intern
 - Copart — Software Engineer Intern
 - Copart — Technology Product Analyst Intern
 - Cotiviti — Agentic AI Research Intern
@@ -159,11 +158,8 @@ _Generated 2026-08-19_
 - General Motors — Research and Development Intern - Research & Development: AI/ML
 - Global Infrastructure — Alternative Delivery Project Analytics Intern
 - Golden Pet Brands — Data Analytics Intern
-- Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
-- Goldman Sachs — Summer Analyst Intern - FICC and Equities - Sales and Trading
-- Goldman Sachs — Summer Analyst Intern - FICC & Equities - Sales & Trading
-- Goldman Sachs — Summer Analyst Intern - Wealth Management - Product Management and Design
+- Goldman Sachs — Quantitative Strategist Associate Intern - Asset and Wealth Management
+- Goldman Sachs — Summer Associate Intern - Multiple Teams
 - Group 1001 — Quantitative Analysis Intern
 - Gulfstream — Computer Science Intern - Advanced Structures and Materials
 - Harris Central Appraisal District — GIS Intern
@@ -181,7 +177,6 @@ _Generated 2026-08-19_
 - Intel — AI Software Engineer Intern
 - Intuit — Software Engineer Intern
 - Intuitive Surgical — Computer Vision Engineer Intern
-- JP Morgan Chase — Data & AI Intern - Analyst
 - KBR — Software Intern
 - Keysight Technologies — Software Engineer Intern - R&D - FPGA
 - Kimley-Horn — Software Developer Intern

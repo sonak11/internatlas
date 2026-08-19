@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "goldman-sachs-summer-analyst-intern-wealth-management-product-management-a-2027",
+  "id": "willkie-farr-gallagher-financial-data-analyst-intern-2026",
   "company": {
-    "name": "Goldman Sachs",
-    "slug": "goldman-sachs"
+    "name": "Willkie Farr & Gallagher",
+    "slug": "willkie-farr-gallagher"
   },
-  "role": "Summer Analyst Intern - Wealth Management - Product Management and Design",
-  "category": "product",
-  "apply_url": "https://higher.gs.com/roles/170935?type=students",
-  "season": "summer",
-  "year": 2027,
+  "role": "Financial Data Analyst Intern",
+  "category": "software-engineering",
+  "apply_url": "https://uscareers-willkie.icims.com/jobs/2194/job?mobile=true&needsRedirect=false",
+  "season": "fall",
+  "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "London",
-      "country": "UK"
+      "city": "NYC",
+      "country": "USA"
     }
   ],
   "compensation": {
@@ -39,8 +39,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-15",
-    "discovered": "2026-08-15",
+    "posted": "2026-08-19",
+    "discovered": "2026-08-19",
     "last_verified": "2026-08-19"
   },
   "status": "open",

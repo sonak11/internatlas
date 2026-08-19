@@ -157,7 +157,7 @@
 | [Consensus Cloud Solutions](../companies/consensus-cloud-solutions.md) | 0/1 | software-engineering |
 | [Constellation Space](../companies/constellation-space.md) | 1/1 | machine-learning |
 | [Continental Resources](../companies/continental-resources.md) | 2/2 | software-engineering |
-| [Copart](../companies/copart.md) | 5/11 | data-engineering, software-engineering |
+| [Copart](../companies/copart.md) | 6/11 | data-engineering, software-engineering |
 | [Core & Main](../companies/core-main.md) | 1/1 | machine-learning |
 | [Cotiviti](../companies/cotiviti.md) | 1/2 | ai |
 | [Crowe](../companies/crowe.md) | 7/7 | ai, cloud, software-engineering |
@@ -250,7 +250,7 @@
 | [GE Aerospace](../companies/ge-aerospace.md) | 4/4 | software-engineering |
 | [GE Appliances](../companies/ge-appliances.md) | 0/1 | software-engineering |
 | [GE Healthcare](../companies/ge-healthcare.md) | 0/2 | hardware, software-engineering |
-| [GE Vernova](../companies/ge-vernova.md) | 0/5 | product, software-engineering |
+| [GE Vernova](../companies/ge-vernova.md) | 2/7 | product, software-engineering |
 | [GRITT ROBOTICS INC](../companies/gritt-robotics-inc.md) | 1/1 | machine-learning |
 | [Garda Capital Partners](../companies/garda-capital-partners.md) | 1/1 | software-engineering |
 | [Gartner](../companies/gartner.md) | 0/1 | software-engineering |
@@ -268,7 +268,7 @@
 | [Global Partners](../companies/global-partners.md) | 1/1 | software-engineering |
 | [GoDaddy](../companies/godaddy.md) | 1/1 | software-engineering |
 | [Golden Pet Brands](../companies/golden-pet-brands.md) | 0/1 | software-engineering |
-| [Goldman Sachs](../companies/goldman-sachs.md) | 3/8 | product, quant, software-engineering |
+| [Goldman Sachs](../companies/goldman-sachs.md) | 6/8 | product, quant, software-engineering |
 | [Google](../companies/google.md) | 3/7 | data-science, research, software-engineering |
 | [Grant Thornton](../companies/grant-thornton.md) | 2/2 | software-engineering |
 | [Gritt Robotics Inc](../companies/gritt-robotics-inc.md) | 1/1 | software-engineering |
@@ -331,7 +331,7 @@
 | [Intuit](../companies/intuit.md) | 0/1 | software-engineering |
 | [Intuitive Surgical](../companies/intuitive-surgical.md) | 0/1 | software-engineering |
 | [JINGDONG](../companies/jingdong.md) | 0/1 | software-engineering |
-| [JP Morgan Chase](../companies/jp-morgan-chase.md) | 6/7 | ai, quant, software-engineering |
+| [JP Morgan Chase](../companies/jp-morgan-chase.md) | 7/7 | ai, quant, software-engineering |
 | [Jane Street](../companies/jane-street.md) | 17/17 | data-engineering, hardware, machine-learning, quant, research, security, software-engineering |
 | [Jump Trading](../companies/jump-trading.md) | 42/43 | ai, data-engineering, design, hardware, machine-learning, quant, research |
 | [Junior AI](../companies/junior-ai.md) | 1/1 | software-engineering |
@@ -339,7 +339,7 @@
 | [KOSTAL Group](../companies/kostal-group.md) | 1/1 | software-engineering |
 | [KPMG](../companies/kpmg.md) | 3/3 | software-engineering |
 | [KRAFTON](../companies/krafton.md) | 0/1 | software-engineering |
-| [Kepler Communications](../companies/kepler-communications.md) | 1/1 | hardware |
+| [Kepler Communications](../companies/kepler-communications.md) | 2/2 | embedded, hardware |
 | [KeyBank](../companies/keybank.md) | 3/3 | quant, software-engineering |
 | [Keysight Technologies](../companies/keysight-technologies.md) | 1/3 | hardware, machine-learning, software-engineering |
 | [Kimley-Horn](../companies/kimley-horn.md) | 1/2 | software-engineering |
@@ -392,7 +392,7 @@
 | [Modal](../companies/modal.md) | 2/2 | machine-learning |
 | [Monogram](../companies/monogram.md) | 0/1 | software-engineering |
 | [Montenson](../companies/montenson.md) | 5/5 | ai, software-engineering |
-| [Moog](../companies/moog.md) | 1/2 | software-engineering |
+| [Moog](../companies/moog.md) | 2/3 | software-engineering |
 | [Moon](../companies/moon.md) | 1/3 | machine-learning, software-engineering |
 | [Mosaic](../companies/mosaic.md) | 0/2 | software-engineering |
 | [Moss & Associates](../companies/moss-associates.md) | 0/1 | software-engineering |
@@ -495,7 +495,7 @@
 | [RLI](../companies/rli.md) | 0/1 | product |
 | [ROCKWOOL Group](../companies/rockwool-group.md) | 0/2 | product, software-engineering |
 | [RRS Group](../companies/rrs-group.md) | 2/2 | software-engineering |
-| [RTX](../companies/rtx.md) | 30/48 | design, machine-learning, software-engineering |
+| [RTX](../companies/rtx.md) | 34/52 | design, machine-learning, software-engineering |
 | [Radix Trading](../companies/radix-trading.md) | 1/1 | quant |
 | [Rainmaker](../companies/rainmaker.md) | 0/1 | software-engineering |
 | [Rakuten International](../companies/rakuten-international.md) | 0/1 | software-engineering |
@@ -611,7 +611,7 @@
 | [The Nuclear Company](../companies/the-nuclear-company.md) | 10/10 | ai, data-science, machine-learning, software-engineering |
 | [The Trade Desk](../companies/the-trade-desk.md) | 0/1 | software-engineering |
 | [Thomson Reuters](../companies/thomson-reuters.md) | 2/2 | machine-learning, research |
-| [TikTok](../companies/tiktok.md) | 129/133 | ai, cloud, data-engineering, data-science, machine-learning, product, research, software-engineering |
+| [TikTok](../companies/tiktok.md) | 130/134 | ai, cloud, data-engineering, data-science, machine-learning, product, research, software-engineering |
 | [Together AI](../companies/together-ai.md) | 2/3 | research |
 | [Torch Technologies](../companies/torch-technologies.md) | 0/1 | software-engineering |
 | [Toshiba Commerce Solutions](../companies/toshiba-commerce-solutions.md) | 0/2 | ai |
@@ -674,6 +674,7 @@
 | [Wells Fargo](../companies/wells-fargo.md) | 3/5 | quant, software-engineering |
 | [Western Digital](../companies/western-digital.md) | 1/3 | hardware, software-engineering |
 | [Williams](../companies/williams.md) | 0/1 | software-engineering |
+| [Willkie Farr & Gallagher](../companies/willkie-farr-gallagher.md) | 1/1 | software-engineering |
 | [WindBorne Systems](../companies/windborne-systems.md) | 1/1 | embedded |
 | [Winland Foods](../companies/winland-foods.md) | 1/1 | software-engineering |
 | [Workato](../companies/workato.md) | 1/1 | ai |
