@@ -8,7 +8,7 @@
 
 No dead links, no generic careers pages. Just current openings, newest first, with the date each one was posted.
 
-![summer 2027](https://img.shields.io/badge/summer%202027-862-blue?style=for-the-badge) ![open now](https://img.shields.io/badge/open%20now-732-brightgreen?style=for-the-badge) ![companies](https://img.shields.io/badge/companies-708-purple?style=for-the-badge) ![visa sponsors](https://img.shields.io/badge/visa%20sponsors-24-orange?style=for-the-badge) ![remote roles](https://img.shields.io/badge/remote%20roles-47-teal?style=for-the-badge) ![sync](https://img.shields.io/badge/sync-hourly-success?style=for-the-badge) ![updated](https://img.shields.io/badge/updated-2026--08--20%204:35%20PM%20EDT-lightgrey?style=for-the-badge)
+![summer 2027](https://img.shields.io/badge/summer%202027-862-blue?style=for-the-badge) ![open now](https://img.shields.io/badge/open%20now-732-brightgreen?style=for-the-badge) ![companies](https://img.shields.io/badge/companies-708-purple?style=for-the-badge) ![visa sponsors](https://img.shields.io/badge/visa%20sponsors-24-orange?style=for-the-badge) ![remote roles](https://img.shields.io/badge/remote%20roles-47-teal?style=for-the-badge) ![sync](https://img.shields.io/badge/sync-hourly-success?style=for-the-badge) ![updated](https://img.shields.io/badge/updated-2026--08--20%205:34%20PM%20EDT-lightgrey?style=for-the-badge)
 
 [**📋 Browse listings**](#-summer-2027-internships) · [**🗓 Other terms**](#-other-open-terms) · [**➕ Add one**](CONTRIBUTING.md) · [**🔗 Sources**](SOURCES.md)
 
@@ -959,12 +959,12 @@ No dead links, no generic careers pages. Just current openings, newest first, wi
 
 ## 🗓 Other open terms
 
-**1234** more live roles for Fall 2026, Winter 2027 and Spring 2027 — real, currently-open, just not Summer 2027, so they're tucked away to keep the main list clean.
+**1233** more live roles for Fall 2026, Winter 2027 and Spring 2027 — real, currently-open, just not Summer 2027, so they're tucked away to keep the main list clean.
 
 <details>
-<summary><b>Show other open terms (1234)</b></summary>
+<summary><b>Show other open terms (1233)</b></summary>
 
-### 🍂 Fall 2026 (1086 · 642 open)
+### 🍂 Fall 2026 (1085 · 640 open)
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
@@ -1497,7 +1497,6 @@ No dead links, no generic careers pages. Just current openings, newest first, wi
 | [Tesla](generated/companies/tesla.md) | [Embedded Software Intern - Embedded Software Engineer - Optimus](https://www.tesla.com/careers/search/job/273272) | Palo Alto, CA | Onsite | 2026-06-09 | Rolling | 🟢 Open | ❔ |
 | [Four Hands](generated/companies/four-hands.md) | [Product Development Intern](https://job-boards.greenhouse.io/fourhands/jobs/4272048009) | Austin, TX | Onsite | 2026-06-08 | Rolling | 🟢 Open | ❔ |
 | [Tessera Labs](generated/companies/tessera-labs.md) | [Product Manager Intern](https://jobs.ashbyhq.com/tessera-labs/3b2d45b8-9881-41fe-b103-7bbc400e1544/application?embed=true) | San Jose, CA +1 | Onsite | 2026-06-08 | Rolling | 🟢 Open | ❔ |
-| [Tesla](generated/companies/tesla.md) | [AI Hardware Design Engineer Intern - AI Hardware Design Engineer - AI Hardware](https://www.tesla.com/careers/search/job/272462) | Palo Alto, CA +1 | Onsite | 2026-06-07 | Rolling | 🟢 Open | ❔ |
 | [Tesla](generated/companies/tesla.md) | [AI Performance Engineer Intern - AI Performance Engineer - Performance Optimization](https://www.tesla.com/careers/search/job/263759) | Palo Alto, CA | Onsite | 2026-06-07 | Rolling | 🟢 Open | ❔ |
 | [Tesla](generated/companies/tesla.md) | [Electronic Design Engineer Intern - Optimus](https://www.tesla.com/careers/search/job/271981) | Palo Alto, CA | Onsite | 2026-06-07 | Rolling | 🟢 Open | ❔ |
 | [Tesla](generated/companies/tesla.md) | [Electronics Design Engineer Intern - Reliability Electronics Design Engineer - Energy Engineering](https://www.tesla.com/careers/search/job/272601) | Palo Alto, CA | Onsite | 2026-06-07 | Rolling | 🟢 Open | ❔ |
@@ -1514,7 +1513,6 @@ No dead links, no generic careers pages. Just current openings, newest first, wi
 | [Tesla](generated/companies/tesla.md) | [Software Engineer Intern - Software Engineer - AI Hardware Infrastructure](https://www.tesla.com/careers/search/job/260382) | Palo Alto, CA | Onsite | 2026-06-07 | Rolling | 🟢 Open | ❔ |
 | [Tesla](generated/companies/tesla.md) | [Software Engineer Intern - Software Engineer - Information Security](https://www.tesla.com/careers/search/job/270497) | Bellevue, WA | Onsite | 2026-06-07 | Rolling | 🟢 Open | ❔ |
 | [Tesla](generated/companies/tesla.md) | [Software Engineer Intern - Software Engineer - IT Apps](https://www.tesla.com/careers/search/job/271209) | Fremont, CA | Onsite | 2026-06-07 | Rolling | 🟢 Open | ❔ |
-| [Tesla](generated/companies/tesla.md) | [Software Engineer Intern - Vehicle UI Development](https://www.tesla.com/careers/search/job/270063) | Palo Alto, CA | Onsite | 2026-06-07 | Rolling | 🟢 Open | ❔ |
 | [Tesla](generated/companies/tesla.md) | [Software Engineering Intern - Software Engineering - Service Engineering](https://www.tesla.com/careers/search/job/266119) | Palo Alto, CA | Onsite | 2026-06-07 | Rolling | 🟢 Open | ❔ |
 | [Tesla](generated/companies/tesla.md) | [Software Machine Learning Engineer Intern - Reliability Energy Engineering](https://www.tesla.com/careers/search/job/272619) | Palo Alto, CA | Onsite | 2026-06-07 | Rolling | 🟢 Open | ❔ |
 | [Tesla](generated/companies/tesla.md) | [Service Engineering Intern - Product Support Engineer - Service Engineering](https://www.tesla.com/careers/search/job/271630) | Palo Alto, CA | Onsite | 2026-06-06 | Rolling | 🟢 Open | ❔ |
@@ -1965,6 +1963,7 @@ No dead links, no generic careers pages. Just current openings, newest first, wi
 | [Seaspan](generated/companies/seaspan.md) | [Energy Management Intern](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8356) | Vancouver | Onsite | 2026-06-08 | Rolling | 🔴 Closed | ❔ |
 | [Tenstorrent](generated/companies/tenstorrent.md) | [CPU/AI Workload Analysis Intern](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5158533007) | Santa Clara, CA | Onsite | 2026-06-08 | Rolling | 🔴 Closed | ❔ |
 | [Zipline](generated/companies/zipline.md) | [Applications Engineer Intern](https://www.zipline.com/open-roles?gh_jid=7765099003) | San Bruno, CA | Onsite | 2026-06-08 | Rolling | 🔴 Closed | ❔ |
+| [Tesla](generated/companies/tesla.md) | [AI Hardware Design Engineer Intern - AI Hardware Design Engineer - AI Hardware](https://www.tesla.com/careers/search/job/272462) | Palo Alto, CA +1 | Onsite | 2026-06-07 | Rolling | 🔴 Closed | ❔ |
 | [Tesla](generated/companies/tesla.md) | [AI Inference Engineer Intern - Software Compiler Engineer - AI Inference](https://www.tesla.com/careers/search/job/263211) | Palo Alto, CA | Onsite | 2026-06-07 | Rolling | 🔴 Closed | ❔ |
 | [Tesla](generated/companies/tesla.md) | [Automated Diagnostics Intern - Software Engineer](https://www.tesla.com/careers/search/job/270521) | Palo Alto, CA | Onsite | 2026-06-07 | Rolling | 🔴 Closed | ❔ |
 | [Tesla](generated/companies/tesla.md) | [Data Analyst Intern - Data Analyst - Energy](https://www.tesla.com/careers/search/job/271329) | Fremont, CA | Onsite | 2026-06-07 | Rolling | 🔴 Closed | ❔ |
@@ -2223,7 +2222,7 @@ Pulled automatically every hour: company ATS boards (Greenhouse, Lever, Ashby) f
 | Source | Listings | Type |
 |---|---:|---|
 | Company ATS boards (Greenhouse · Lever · Ashby) | 151 | Direct API |
-| [SimplifyJobs / Summer Internships](https://github.com/SimplifyJobs/Summer2026-Internships) | 1654 | Community feed |
+| [SimplifyJobs / Summer Internships](https://github.com/SimplifyJobs/Summer2026-Internships) | 1653 | Community feed |
 | [vanshb03 / Summer 2027 Internships](https://github.com/vanshb03/Summer2027-Internships) | 291 | Community feed |
 
 ## 🤝 Add a listing

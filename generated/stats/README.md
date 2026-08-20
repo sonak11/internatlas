@@ -9,7 +9,7 @@ _Generated 2026-08-20_
 | Company | Listings |
 |---|---|
 | TikTok | 140 |
-| Tesla | 110 |
+| Tesla | 109 |
 | ByteDance | 54 |
 | RTX | 53 |
 | Jump Trading | 43 |
@@ -42,7 +42,7 @@ _Generated 2026-08-20_
 | product | 59 | `█` |
 | embedded | 51 | `█` |
 | cloud | 42 | `█` |
-| design | 42 | `█` |
+| design | 41 | `█` |
 | data-science | 40 | `█` |
 | data-engineering | 23 | `█` |
 | security | 13 | `█` |
@@ -301,6 +301,7 @@ _Generated 2026-08-20_
 - Tencent — Research Intern - Video World Models - Research & ML Systems
 - Terminal — Software Engineer Intern - Backend
 - Terminal — Software Engineer Intern - Data Platform
+- Tesla — AI Hardware Design Engineer Intern - AI Hardware Design Engineer - AI Hardware
 - Tesla — Automated Diagnostics Intern - Software Engineer
 - Tesla — Data Analyst Intern - Data Analyst - Energy
 - Tesla — Data Engineer Intern - Data Engineer - Energy

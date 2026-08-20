@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🤖 AI Internships
 
-**198** tracked · **133** open now
+**198** tracked · **132** open now
 
 ## Current openings
 
@@ -103,7 +103,6 @@
 | [SPREEAI](generated/companies/spreeai.md) | [Software Engineer Intern, AI Infrastructure / Training / Inference](https://ats.rippling.com/en-GB/spreeai/jobs/d34aed29-7a11-4e37-b5bc-e9317f82f0b1) | San Francisco, CA | Onsite | 2026-07-24 | Rolling | 🟢 Open | ✅ |
 | [StepStone Group](generated/companies/stepstone-group.md) | [AI Intern](https://boards.greenhouse.io/embed/job_app?token=8096268) | La Jolla | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
 | [Tenstorrent](generated/companies/tenstorrent.md) | [Software Engineer Intern - Power Modeling & AI Tools](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5186916007) | Santa Clara, CA | Onsite | 2026-07-23 | Rolling | 🟢 Open | ✅ |
-| [Tesla](generated/companies/tesla.md) | [AI Hardware Design Engineer Intern - AI Hardware Design Engineer - AI Hardware](https://www.tesla.com/careers/search/job/272462) | Palo Alto, CA +1 | Onsite | 2026-06-07 | Rolling | 🟢 Open | ❔ |
 | [Tesla](generated/companies/tesla.md) | [AI Performance Engineer Intern - AI Performance Engineer - Performance Optimization](https://www.tesla.com/careers/search/job/263759) | Palo Alto, CA | Onsite | 2026-06-07 | Rolling | 🟢 Open | ❔ |
 | [Tesla](generated/companies/tesla.md) | [Applied AI Engineer Intern - AI Hardware](https://www.tesla.com/careers/search/job/279603) | Palo Alto, CA | Onsite | 2026-08-11 | Rolling | 🟢 Open | ❔ |
 | [Tesla](generated/companies/tesla.md) | [C++ Software Engineer Intern, Systems, AI](https://www.tesla.com/careers/search/job/247862) | Palo Alto, CA | Onsite | 2025-08-08 | Rolling | 🟢 Open | ❔ |
@@ -198,6 +197,7 @@
 | [Tencent](generated/companies/tencent.md) | [AI Agent Research & Application Intern](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/United-Kingdom-London/AI-Agent-Research---Application-Intern_R106432-1) | London | Onsite | 2026-07-04 | Rolling | 🔴 Closed | ❔ |
 | [Tencent](generated/companies/tencent.md) | [AI Product Manager Intern](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/United-Kingdom-London/Product-manager-Intern_R107654-1) | London | Onsite | 2026-06-27 | Rolling | 🔴 Closed | ❔ |
 | [Tenstorrent](generated/companies/tenstorrent.md) | [CPU/AI Workload Analysis Intern](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5158533007) | Santa Clara, CA | Onsite | 2026-06-08 | Rolling | 🔴 Closed | ❔ |
+| [Tesla](generated/companies/tesla.md) | [AI Hardware Design Engineer Intern - AI Hardware Design Engineer - AI Hardware](https://www.tesla.com/careers/search/job/272462) | Palo Alto, CA +1 | Onsite | 2026-06-07 | Rolling | 🔴 Closed | ❔ |
 | [Tesla](generated/companies/tesla.md) | [AI Inference Engineer Intern - Software Compiler Engineer - AI Inference](https://www.tesla.com/careers/search/job/263211) | Palo Alto, CA | Onsite | 2026-06-07 | Rolling | 🔴 Closed | ❔ |
 | [Tesla](generated/companies/tesla.md) | [Software Engineer Intern - AI Data Infrastructure](https://www.tesla.com/careers/search/job/269829) | Palo Alto, CA | Onsite | 2026-06-07 | Rolling | 🔴 Closed | ❔ |
 | [The Home Depot](generated/companies/the-home-depot.md) | [AI Engineer Intern](https://homedepot.wd5.myworkdayjobs.com/CareerDepotCanada/job/CANADA-STORE-SUPPORT-CENTER---7000/Intern--AI-Engineer_Req188547) | Toronto | Onsite | 2026-07-30 | Rolling | 🔴 Closed | ❔ |

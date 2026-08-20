@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🎨 Design Internships
 
-**42** tracked · **34** open now
+**41** tracked · **33** open now
 
 ## Current openings
 
@@ -39,7 +39,6 @@
 | [Tesla](generated/companies/tesla.md) | [Electronic Design Engineer Intern - Electronic Systems](https://www.tesla.com/careers/search/job/279760) | Palo Alto, CA | Onsite | 2026-08-10 | Rolling | 🟢 Open | ❔ |
 | [Tesla](generated/companies/tesla.md) | [Electronic Design Engineer Intern - Optimus](https://www.tesla.com/careers/search/job/271981) | Palo Alto, CA | Onsite | 2026-06-07 | Rolling | 🟢 Open | ❔ |
 | [Tesla](generated/companies/tesla.md) | [Electronics Design Engineer Intern - Reliability Electronics Design Engineer - Energy Engineering](https://www.tesla.com/careers/search/job/272601) | Palo Alto, CA | Onsite | 2026-06-07 | Rolling | 🟢 Open | ❔ |
-| [Tesla](generated/companies/tesla.md) | [Software Engineer Intern - Vehicle UI Development](https://www.tesla.com/careers/search/job/270063) | Palo Alto, CA | Onsite | 2026-06-07 | Rolling | 🟢 Open | ❔ |
 | [Tesla](generated/companies/tesla.md) | [Software Engineer Intern, Vehicle UI Development](https://www.tesla.com/careers/search/job/internship-software-engineer-vehicle-ui-development-fall-2026-270063) | Palo Alto, CA | Onsite | 2026-05-09 | Rolling | 🟢 Open | ❔ |
 | [Virtu Financial](generated/companies/virtu-financial.md) | [2027 Internship - Frontend Engineer (UI)](https://job-boards.greenhouse.io/virtu/jobs/8657500002) | New York +2 | Onsite | 2026-07-29 | Rolling | 🟢 Open | ❔ |
 | [Astranis](generated/companies/astranis.md) | [Reliability Design Intern](https://job-boards.greenhouse.io/astranis/jobs/4681472006) | SF | Onsite | 2026-06-22 | Rolling | 🔴 Closed | ❔ |
@@ -53,7 +52,7 @@
 
 ## Hiring companies
 
-- Tesla (9)
+- Tesla (8)
 - Micron Technology (5)
 - Jump Trading (4)
 - Neuralink (3)
