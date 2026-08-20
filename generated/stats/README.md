@@ -11,7 +11,7 @@ _Generated 2026-08-20_
 | TikTok | 140 |
 | Tesla | 110 |
 | ByteDance | 54 |
-| RTX | 52 |
+| RTX | 51 |
 | Jump Trading | 43 |
 | Cloudflare | 30 |
 | NVIDIA | 30 |
@@ -33,7 +33,7 @@ _Generated 2026-08-20_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 1100 | `█████████████` |
+| software-engineering | 1099 | `█████████████` |
 | ai | 198 | `██` |
 | quant | 190 | `██` |
 | machine-learning | 137 | `██` |
@@ -157,8 +157,6 @@ _Generated 2026-08-20_
 - General Motors — Research and Development Intern - Research & Development: AI/ML
 - Global Infrastructure — Alternative Delivery Project Analytics Intern
 - Golden Pet Brands — Data Analytics Intern
-- Goldman Sachs — Quantitative Strategist Associate Intern - Asset and Wealth Management
-- Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
 - Goldman Sachs — Summer Analyst Intern - FICC and Equities - Sales and Trading
 - Goldman Sachs — Summer Analyst Intern - FICC & Equities - Sales & Trading
 - Goldman Sachs — Summer Analyst Intern - Wealth Management - Product Management and Design
@@ -236,6 +234,7 @@ _Generated 2026-08-20_
 - Revvity — Full-Stack AI Developer Intern
 - Rippling — Full Stack Software Engineer Intern
 - Rippling — Software Engineer Intern - Backend Focused
+- Riveron — Technology & Innovation Intern
 - Rivian — Intern
 - Rivian — Research Park Intern - Embedded Software
 - Rivian — UIUC Research Park Intern - Computational Methods Development
@@ -258,6 +257,7 @@ _Generated 2026-08-20_
 - RTX — Software Engineer Intern
 - RTX — Software Engineer Intern
 - RTX — Software Engineer Intern
+- RTX — Software Engineer Intern - Spring 2027
 - RTX — Software Engineer Intern - Summer 2027
 - RTX — Software Engineer Intern - Summer 2027
 - RTX — Software Engineer Intern - Summer 2027

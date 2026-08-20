@@ -272,7 +272,7 @@
 | [Global Partners](../companies/global-partners.md) | 1/1 | software-engineering |
 | [GoDaddy](../companies/godaddy.md) | 1/1 | software-engineering |
 | [Golden Pet Brands](../companies/golden-pet-brands.md) | 0/1 | software-engineering |
-| [Goldman Sachs](../companies/goldman-sachs.md) | 4/9 | product, quant, software-engineering |
+| [Goldman Sachs](../companies/goldman-sachs.md) | 6/9 | product, quant, software-engineering |
 | [Google](../companies/google.md) | 3/7 | data-science, research, software-engineering |
 | [Grant Thornton](../companies/grant-thornton.md) | 2/2 | software-engineering |
 | [Gritt Robotics Inc](../companies/gritt-robotics-inc.md) | 1/1 | software-engineering |
@@ -501,7 +501,7 @@
 | [RLI](../companies/rli.md) | 0/1 | product |
 | [ROCKWOOL Group](../companies/rockwool-group.md) | 0/2 | product, software-engineering |
 | [RRS Group](../companies/rrs-group.md) | 2/2 | software-engineering |
-| [RTX](../companies/rtx.md) | 32/52 | design, machine-learning, software-engineering |
+| [RTX](../companies/rtx.md) | 30/51 | design, machine-learning, software-engineering |
 | [Radix Trading](../companies/radix-trading.md) | 1/1 | quant |
 | [Rainmaker](../companies/rainmaker.md) | 0/1 | software-engineering |
 | [Rakuten International](../companies/rakuten-international.md) | 0/1 | software-engineering |
@@ -523,7 +523,7 @@
 | [Richemont](../companies/richemont.md) | 0/1 | software-engineering |
 | [Rippling](../companies/rippling.md) | 4/6 | machine-learning, software-engineering |
 | [Rise8](../companies/rise8.md) | 0/1 | product |
-| [Riveron](../companies/riveron.md) | 1/1 | software-engineering |
+| [Riveron](../companies/riveron.md) | 0/1 | software-engineering |
 | [Rivian](../companies/rivian.md) | 2/5 | embedded, hardware, machine-learning, research, software-engineering |
 | [Rivian and Volkswagen Group Technologies](../companies/rivian-and-volkswagen-group-technologies.md) | 15/16 | ai, design, embedded, software-engineering |
 | [Roam](../companies/roam.md) | 1/1 | software-engineering |
