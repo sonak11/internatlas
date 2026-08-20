@@ -85,6 +85,7 @@ _Generated 2026-08-20_
 - Arevon — Data Science Intern - Interconnection & Transmission
 - Arizona State University — Management Intern - Career Data and Analytics
 - Arkema Global — Manufacturing Data Systems Intern
+- Artisan Partners — Data Engineer Intern - Platform & Product
 - Assured Guaranty — Product Software Developer Intern
 - Astranis — Embedded Software Developer – Network/Payload Software Intern
 - Astranis — Reliability Design Intern
@@ -97,6 +98,7 @@ _Generated 2026-08-20_
 - Booz Allen — AI RAN Telecommunications Engineer Intern
 - Bosch Home Comfort — ADAS Software Engineer Intern
 - ByteDance — Research Scientist Intern
+- Cadence Design Systems — Characterization and Support Intern
 - Cadence Design Systems — Characterization and Support Intern
 - Cadence Design Systems — Product Engineering Intern - Simulation and Verification
 - Cadence Design Systems — Product Engineering Intern - Simulation and Verification
@@ -206,6 +208,7 @@ _Generated 2026-08-20_
 - Midmark — Firmware Engineering Intern/Co-op
 - Mistral AI — AI Data Solutions Intern - Data Partnerships
 - Mobius Renewables — Software Engineer Intern
+- Moog — Product Engineering Intern
 - National Laboratory of the Rockies — Graduate Intern - Transportation Systems Analysis
 - National Laboratory of the Rockies — Software and Data Infrastructure Intern
 - National Reconnaissance Office — Summer Internship - Dr. Chris Scolese
@@ -214,6 +217,7 @@ _Generated 2026-08-20_
 - New Balance — Sports Research Engineer Intern
 - Noblis — Machinery Silencing Technician Intern
 - Nokia — Electromechanical Assembly Co-op Intern - Intern
+- Nokia — Hardware Developer Engineer Co-op/Intern
 - Otter Products — Artificial Intelligence Intern
 - Palantir — Forward Deployed Software Engineer Intern
 - PEAK6 — Trading Bootcamp Micro-Internship - Summer 2027

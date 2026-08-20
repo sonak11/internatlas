@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 💻 Software Engineering Internships
 
-**1100** tracked · **768** open now
+**1100** tracked · **766** open now
 
 ## Current openings
 
@@ -118,7 +118,6 @@
 | [ByteDance](generated/companies/bytedance.md) | [Software Engineer Intern, Distributed NoSQL Database Systems](https://joinbytedance.com/search/7668374190764050741) | San Jose, CA | Onsite | 2026-08-04 | Rolling | 🟢 Open | ❔ |
 | [CACI](generated/companies/caci.md) | [GMU Scholar Program Intern](https://caci.wd1.myworkdayjobs.com/external/job/Sterling-VA-US/GMU-Scholar-Program---Summer-2027-Internship_330557) | Sterling, VA | Onsite | 2026-08-17 | Rolling | 🟢 Open | ❔ |
 | [Caddi Workflow Automation](generated/companies/caddi-workflow-automation.md) | [Software Engineer Intern](https://apply.workable.com/trycaddi/j/9D1291C697/apply) | Seattle, WA | Onsite | 2026-08-11 | Rolling | 🟢 Open | ❔ |
-| [Cadence Design Systems](generated/companies/cadence-design-systems.md) | [Characterization and Support Intern](https://cadence.wd1.myworkdayjobs.com/University_Talent/job/SAN-JOSE/Intern---Characterization-and-Support_R54998-3) | San Jose, CA | Onsite | 2026-07-07 | Rolling | 🟢 Open | ❔ |
 | [Cadence Design Systems](generated/companies/cadence-design-systems.md) | [Software Engineer Intern](https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/PITTSBURGH-03/Software-Engineering-Intern_R52334-2) | Pittsburgh, PA | Onsite | 2026-06-13 | Rolling | 🟢 Open | ❔ |
 | [CALSTART](generated/companies/calstart.md) | [Data Analysis Intern](https://jobs.lever.co/calstart/39565f0d-d10f-458b-b72d-d807420059b8/apply) | Remote | Remote | 2026-07-30 | Rolling | 🟢 Open | ❔ |
 | [CALSTART](generated/companies/calstart.md) | [Web Development Intern](https://jobs.lever.co/calstart/cbd0d758-18b0-481d-9e67-a065682f30ea/apply) | Remote | Remote | 2026-07-30 | Rolling | 🟢 Open | ❔ |
@@ -378,7 +377,6 @@
 | [Montenson](generated/companies/montenson.md) | [Sustainability Engineer Intern](https://fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23367) | Denver, CO | Onsite | 2026-08-10 | Rolling | 🟢 Open | ❔ |
 | [Montenson](generated/companies/montenson.md) | [System Administrator Intern](https://fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23368) | Minnesota | Onsite | 2026-08-10 | Rolling | 🟢 Open | ❔ |
 | [Moog](generated/companies/moog.md) | [Computer Science Intern - Information Technology](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--IT-Computer-Science_R-26-19378) | Buffalo, NY | Onsite | 2026-08-19 | Rolling | 🟢 Open | ❔ |
-| [Moog](generated/companies/moog.md) | [Product Engineering Intern](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Product-Engineering_R-26-19224) | Buffalo, NY | Onsite | 2026-08-10 | Rolling | 🟢 Open | ❔ |
 | [Moon](generated/companies/moon.md) | [Software Engineer Intern, Backend & API](https://ats.rippling.com/en-GB/moon/jobs/8b81bca7-1a64-4377-8ea8-869aac03080b) | Glendale, CA | Onsite | 2026-07-24 | Rolling | 🟢 Open | ❔ |
 | [Motorola](generated/companies/motorola.md) | [Android Platform Software Engineer Intern - Summer 2027](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Android-Platform-Software-Engineering-Intern---Summer-2027_R67362-1) | Schaumburg, IL +1 | Onsite | 2026-08-14 | Rolling | 🟢 Open | ❔ |
 | [Motorola](generated/companies/motorola.md) | [Supply Chain Data Analyst Intern](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Supply-Chain-Data-Analyst-Internship-2027_R67489) | Chicago, IL | Onsite | 2026-08-11 | Rolling | 🟢 Open | ❔ |
@@ -813,6 +811,7 @@
 | [Brunswick](generated/companies/brunswick.md) | [Software Engineer Intern](https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Champaign-IL/Software-Engineer-Intern_JR-050991) | Urbana, IL | Onsite | 2026-07-28 | Rolling | 🔴 Closed | ❔ |
 | [CACI](generated/companies/caci.md) | [Software Engineering Intern](https://caci.wd1.myworkdayjobs.com/external/job/Jessup-MD-US/Software-Engineering-Intern---Fall-2026_328740) | Jessup, MD | Onsite | 2026-07-10 | Rolling | 🔴 Closed | ❌ |
 | [Cadence Design Systems](generated/companies/cadence-design-systems.md) | [Characterization and Support Intern](https://cadence.wd1.myworkdayjobs.com/University_Talent_Intern/job/SAN-JOSE/Intern---Characterization-and-Support_R54998-2) | San Jose, CA | Onsite | 2026-07-07 | Rolling | 🔴 Closed | ❔ |
+| [Cadence Design Systems](generated/companies/cadence-design-systems.md) | [Characterization and Support Intern](https://cadence.wd1.myworkdayjobs.com/University_Talent/job/SAN-JOSE/Intern---Characterization-and-Support_R54998-3) | San Jose, CA | Onsite | 2026-07-07 | Rolling | 🔴 Closed | ❔ |
 | [Cadence Design Systems](generated/companies/cadence-design-systems.md) | [Product Engineering Intern - Simulation and Verification](https://cadence.wd1.myworkdayjobs.com/University_Talent_Intern/job/Burlington-MA/Product-Engineering-Internship--Simulation-and-Verification--Fall-2026-_R53475-1) | Burlington, MA | Onsite | 2026-06-25 | Rolling | 🔴 Closed | ❔ |
 | [Cadence Design Systems](generated/companies/cadence-design-systems.md) | [Product Engineering Intern - Simulation and Verification](https://cadence.wd1.myworkdayjobs.com/University_Talent/job/Burlington-MA/Product-Engineering-Internship--Simulation-and-Verification--Fall-2026-_R53475) | Burlington, MA | Onsite | 2026-06-25 | Rolling | 🔴 Closed | ❔ |
 | [Capital One](generated/companies/capital-one.md) | [Full Stack Software Engineer Intern](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Full-Stack-Software-Engineer---Fall-2026_R246990) | Toronto | Onsite | 2026-07-30 | Rolling | 🔴 Closed | ❔ |
@@ -959,6 +958,7 @@
 | [Microsoft](generated/companies/microsoft.md) | [Software Engineer Intern - Gears of War](https://apply.careers.microsoft.com/careers/job/1970393556956276) | Vancouver | Onsite | 2026-08-06 | Rolling | 🔴 Closed | ❔ |
 | [Mobius Renewables](generated/companies/mobius-renewables.md) | [Software Engineer Intern](https://ats.rippling.com/greengas/jobs/b2938290-cc66-4f54-9888-bbe286c1d9b6) | Houston, TX | Onsite | 2026-07-21 | Rolling | 🔴 Closed | ❔ |
 | [Monogram](generated/companies/monogram.md) | [Software Engineer Intern](https://jobs.ashbyhq.com/monogram/fab3e651-00e7-4a85-bcb9-0821c642a778/application?embed=true) | San Mateo, CA | Onsite | 2026-07-21 | Rolling | 🔴 Closed | ❔ |
+| [Moog](generated/companies/moog.md) | [Product Engineering Intern](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Product-Engineering_R-26-19224) | Buffalo, NY | Onsite | 2026-08-10 | Rolling | 🔴 Closed | ❔ |
 | [Moog](generated/companies/moog.md) | [Software Engineer Intern](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Software-Engineering_R-26-18885-1) | Buffalo, NY | Onsite | 2026-07-27 | Rolling | 🔴 Closed | ❔ |
 | [Moon](generated/companies/moon.md) | [Software Engineer Intern - Backend & API](https://ats.rippling.com/moon/jobs/8b81bca7-1a64-4377-8ea8-869aac03080b) | Glendale, CA | Onsite | 2026-07-21 | Rolling | 🔴 Closed | ❔ |
 | [Mosaic](generated/companies/mosaic.md) | [Capital Project Engineering Co-op/Intern](https://mosaic.wd5.myworkdayjobs.com/mosaic/job/CA---Belle-Plaine-SK/Capital-Project-Engineering-Co-op-Intern---Winter-2027_64418) | Regina | Onsite | 2026-07-21 | Rolling | 🔴 Closed | ❔ |

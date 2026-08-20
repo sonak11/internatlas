@@ -69,7 +69,7 @@
 | [Arlington County VA](../companies/arlington-county-va.md) | 2/2 | software-engineering |
 | [Arrowstreet Capital](../companies/arrowstreet-capital.md) | 2/2 | quant |
 | [Arthur J. Gallagher & Co.](../companies/arthur-j-gallagher-co.md) | 1/1 | software-engineering |
-| [Artisan Partners](../companies/artisan-partners.md) | 1/1 | data-engineering |
+| [Artisan Partners](../companies/artisan-partners.md) | 0/1 | data-engineering |
 | [Assurant](../companies/assurant.md) | 1/2 | ai |
 | [Assured Guaranty](../companies/assured-guaranty.md) | 0/1 | software-engineering |
 | [Astera](../companies/astera.md) | 1/1 | software-engineering |
@@ -119,7 +119,7 @@
 | [CNO Financial Group](../companies/cno-financial-group.md) | 1/2 | ai, security |
 | [CTGT](../companies/ctgt.md) | 1/1 | software-engineering |
 | [Caddi Workflow Automation](../companies/caddi-workflow-automation.md) | 1/1 | software-engineering |
-| [Cadence Design Systems](../companies/cadence-design-systems.md) | 2/6 | design, software-engineering |
+| [Cadence Design Systems](../companies/cadence-design-systems.md) | 1/6 | design, software-engineering |
 | [Canva](../companies/canva.md) | 4/5 | ai, research |
 | [Capital One](../companies/capital-one.md) | 9/12 | data-science, security, software-engineering |
 | [Capula](../companies/capula.md) | 1/1 | quant |
@@ -396,7 +396,7 @@
 | [Modal](../companies/modal.md) | 2/2 | machine-learning |
 | [Monogram](../companies/monogram.md) | 0/1 | software-engineering |
 | [Montenson](../companies/montenson.md) | 5/5 | ai, software-engineering |
-| [Moog](../companies/moog.md) | 2/3 | software-engineering |
+| [Moog](../companies/moog.md) | 1/3 | software-engineering |
 | [Moon](../companies/moon.md) | 1/3 | machine-learning, software-engineering |
 | [Mosaic](../companies/mosaic.md) | 0/2 | software-engineering |
 | [Moss & Associates](../companies/moss-associates.md) | 0/1 | software-engineering |
@@ -432,7 +432,7 @@
 | [Nextiva](../companies/nextiva.md) | 2/2 | ai, data-science |
 | [Nightwing](../companies/nightwing.md) | 1/1 | hardware |
 | [Noblis](../companies/noblis.md) | 0/1 | software-engineering |
-| [Nokia](../companies/nokia.md) | 1/6 | data-science, embedded, hardware, software-engineering |
+| [Nokia](../companies/nokia.md) | 0/6 | data-science, embedded, hardware, software-engineering |
 | [North Cloud](../companies/north-cloud.md) | 0/1 | ai |
 | [Northrop Grumman](../companies/northrop-grumman.md) | 3/5 | software-engineering |
 | [Northwestern Mutual](../companies/northwestern-mutual.md) | 2/2 | quant, software-engineering |
