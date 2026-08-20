@@ -151,7 +151,6 @@ _Generated 2026-08-20_
 - General Dynamics Information Technology — Artificial Intelligence/Machine Learning Intern
 - General Dynamics Information Technology — Software Developer Intern
 - General Dynamics Mission Systems — Cybersecurity Software Engineer Intern
-- General Motors — Battery and Sustainability Intern - Battery Research and Development
 - General Motors — Research and Development Intern - Research & Development: AI/ML
 - Global Infrastructure — Alternative Delivery Project Analytics Intern
 - Golden Pet Brands — Data Analytics Intern
