@@ -1,22 +1,17 @@
 {
   "schema_version": "1.0",
-  "id": "axon-software-engineering-intern-2027",
+  "id": "renderatl-software-engineer-intern-2027",
   "company": {
-    "name": "Axon",
-    "slug": "axon"
+    "name": "RenderATL",
+    "slug": "renderatl"
   },
-  "role": "Software Engineering Intern",
+  "role": "Software Engineer Intern",
   "category": "software-engineering",
   "apply_url": "https://job-boards.greenhouse.io/axontalentcommunity/jobs/7800617003",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
-    {
-      "city": "Boston",
-      "state": "MA",
-      "country": "USA"
-    },
     {
       "city": "Seattle",
       "state": "WA",
@@ -45,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-21",
-    "discovered": "2026-07-21",
+    "posted": "2026-08-04",
+    "discovered": "2026-08-20",
     "last_verified": "2026-08-20"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }
