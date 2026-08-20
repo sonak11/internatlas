@@ -110,6 +110,7 @@ _Generated 2026-08-20_
 - CCC Intelligent Solutions — Data Science Intern - R&D
 - Centerfield — Product Manager Intern
 - Centerstone — Bachelor Level Intern
+- Centific — Research Intern - Healthcare AI
 - Centific — Technical Intern
 - Centific — Technical Intern - Masters or PhD
 - Ciena — Optical Modem Hardware Intern
@@ -196,6 +197,7 @@ _Generated 2026-08-20_
 - Magnera — Data Analyst Intern - Information Technology
 - MaxLinear — AI Intern
 - McKesson — Software Developer Intern - Digital and Enterprise Technology
+- McKesson — Technology Intern
 - Meta — Research Scientist Intern - Monetization Computer Vision
 - Metropolitan Transportation Authority — Data Analyst Intern
 - Metropolitan Transportation Authority — Data Analyst Intern - Power - Emerging Talent
@@ -269,6 +271,7 @@ _Generated 2026-08-20_
 - RTX — Software Engineer Intern - Summer 2027
 - RTX — Software Engineer Intern - Summer 2027
 - RTX — Software Engineer Intern - Summer 2027
+- RTX — Software Engineer Intern - Summer 2027
 - RTX — Software Engineering Intern - Summer 2027
 - RTX — Systems Engineering Intern
 - RTX — Validation Engineer Intern - Product Safety - Certification & Validation
@@ -317,6 +320,7 @@ _Generated 2026-08-20_
 - TMX Group — Analyst Student Intern - Market Insights
 - Together AI — Research Intern - Model Shaping
 - Together AI — Systems Research Engineer Intern - GPU Programming
+- Toshiba Global Commerce — Hardware Engineer Intern
 - Toshiba Global Commerce — Product & Business Analytics Intern
 - Truist Bank — Analyst Intern Conversion - Multiple Teams
 - Truist Bank — Analyst Intern - Equity Research - Sales, Trading & Research
@@ -333,6 +337,7 @@ _Generated 2026-08-20_
 - Western Digital — Failure Analysis Automation Engineer Intern - Failure Analysis Automation Engineering
 - Western Digital — Software Engineer Intern
 - WGU — Data Support Engineer Intern
+- Willkie Farr & Gallagher — Financial Data Analyst Intern
 - X Development — PhD Residency Intern - Operations Research and Optimization
 - Zipline — Embedded Software Engineer Intern
 - Zipline — Enterprise Systems Software Engineer Intern
