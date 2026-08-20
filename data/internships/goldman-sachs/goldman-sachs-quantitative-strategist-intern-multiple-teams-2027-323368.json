@@ -1,24 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "citadel-investment-trading-intern-2026",
+  "id": "goldman-sachs-quantitative-strategist-intern-multiple-teams-2027-323368",
   "company": {
-    "name": "Citadel",
-    "slug": "citadel"
+    "name": "Goldman Sachs",
+    "slug": "goldman-sachs"
   },
-  "role": "Investment & Trading Intern",
+  "role": "Quantitative Strategist Intern - Multiple Teams",
   "category": "quant",
-  "apply_url": "https://www.citadel.com/careers/details/investment-trading-intern-europe/",
-  "season": "fall",
-  "year": 2026,
+  "apply_url": "https://higher.gs.com/roles/175424?type=students",
+  "season": "summer",
+  "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
       "city": "London",
       "country": "UK"
-    },
-    {
-      "city": "Paris",
-      "country": "France"
     }
   ],
   "compensation": {
@@ -28,10 +24,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters",
-      "phd"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -46,8 +39,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-13",
-    "discovered": "2026-07-17",
+    "posted": "2026-08-15",
+    "discovered": "2026-08-20",
     "last_verified": "2026-08-20"
   },
   "status": "open",

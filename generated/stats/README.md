@@ -35,12 +35,12 @@ _Generated 2026-08-20_
 |---|---|---|
 | software-engineering | 1100 | `█████████████` |
 | ai | 198 | `██` |
-| quant | 188 | `██` |
+| quant | 190 | `██` |
 | machine-learning | 135 | `██` |
 | research | 105 | `█` |
 | hardware | 90 | `█` |
 | product | 57 | `█` |
-| embedded | 50 | `█` |
+| embedded | 51 | `█` |
 | cloud | 42 | `█` |
 | design | 42 | `█` |
 | data-science | 39 | `█` |
@@ -50,6 +50,7 @@ _Generated 2026-08-20_
 ## Newest listings
 
 - 2026-08-20 — **Abundant**: [Member of Technical Staff Intern - Research](https://jobs.ashbyhq.com/abundant/1ebf7fda-c322-404d-acc3-2757bbd79996/application?embed=true)
+- 2026-08-20 — **E-Space**: [Embedded Software Engineer Intern](https://jobs.lever.co/espace/1e189295-a315-414d-8c0b-686f204e3cb3/apply)
 - 2026-08-20 — **Epic Games**: [Tools Programmer Intern](https://epicgames.com/careers/jobs/6147167004?gh_jid=6147167004)
 - 2026-08-20 — **General Matter**: [Software Engineering Intern](https://job-boards.greenhouse.io/generalmatter/jobs/5377118008)
 - 2026-08-20 — **Notion**: [Data Science Intern](https://jobs.ashbyhq.com/notion/a67d6f2b-7c13-41d0-b36b-b2f662c9873e/application?embed=true)
@@ -57,6 +58,7 @@ _Generated 2026-08-20_
 - 2026-08-20 — **TikTok**: [Software Engineer Intern - Recommendation Architecture - Feeds Infrastructure](https://lifeattiktok.com/search/7672926068681951493)
 - 2026-08-20 — **TikTok**: [Software Engineer Intern - Recommendation Infra - Performance Efficiency](https://lifeattiktok.com/search/7675159726676101381)
 - 2026-08-20 — **TikTok**: [Software Engineer Intern - TikTok Search Architecture](https://lifeattiktok.com/search/7675517686256863541)
+- 2026-08-20 — **Wells Fargo**: [Quantitative Analytics Intern - Risk Analytics and Decision Sciences](https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Quantitative-Analytics-Summer-Internship-Risk-Analytics-and-Decision-Sciences--RADS-PhD----Early-Careers_R-569912)
 - 2026-08-20 — **Western Magnetics**: [Software Engineer Intern](https://apply.workable.com/western-magnetics/j/E366930F3F/apply)
 - 2026-08-20 — **Zipline**: [Applications Engineer Intern - Spring 2027](https://www.zipline.com/open-roles?gh_jid=7908677003)
 - 2026-08-19 — **Allegheny County**: [Business Analytics Intern](https://alleghenycounty.bamboohr.com/careers/663/)
@@ -67,8 +69,6 @@ _Generated 2026-08-20_
 - 2026-08-19 — **ByteDance**: [Machine Learning Engineer Intern - E-Commerce Risk Control - PhD](https://jobs.bytedance.com/en/position/7675478684795881781/detail)
 - 2026-08-19 — **ByteDance**: [Machine Learning Engineer Intern - E-Commerce Risk Control - PhD](https://jobs.bytedance.com/en/position/7675477254269765941/detail)
 - 2026-08-19 — **Centific**: [Technical Intern](https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Remote-Work-USA/Technical-Intern--Masters-or-PhD-_JR108144-1)
-- 2026-08-19 — **Citadel Securities**: [Fundamental Analyst Intern](https://www.citadelsecurities.com/careers/details/trading-fundamental-analyst-intern-us/)
-- 2026-08-19 — **Copart**: [Data Engineer Intern](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Data-Engineering-Intern_JR110617)
 
 ## Recently closed
 
@@ -113,7 +113,6 @@ _Generated 2026-08-20_
 - Ciena — Software Engineer Intern
 - Ciena — Software Engineer Intern
 - Ciena — Software Liquid Spectrum Applications Intern
-- Citadel — Investment & Trading Intern
 - City of Austin — Business Intelligence Intern - Business Intelligence
 - City of Austin — Research Analyst Intern
 - Cloudflare — AI Builder Intern - Global Customer Engineering - Service Sales
@@ -152,17 +151,11 @@ _Generated 2026-08-20_
 - General Dynamics Information Technology — Artificial Intelligence/Machine Learning Intern
 - General Dynamics Information Technology — Software Developer Intern
 - General Dynamics Mission Systems — Cybersecurity Software Engineer Intern
+- General Motors — Battery and Sustainability Intern - Battery Research and Development
 - General Motors — Research and Development Intern - Research & Development: AI/ML
 - Global Infrastructure — Alternative Delivery Project Analytics Intern
 - Golden Pet Brands — Data Analytics Intern
-- Goldman Sachs — Quantitative Strategist Associate Intern - Asset and Wealth Management
-- Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
 - Goldman Sachs — Summer Analyst Intern - FICC and Equities - Sales and Trading
-- Goldman Sachs — Summer Analyst Intern - FICC & Equities - Sales & Trading
-- Goldman Sachs — Summer Analyst Intern - Wealth Management - Product Management and Design
-- Goldman Sachs — Summer Associate Intern - Multiple Teams
 - Group 1001 — Quantitative Analysis Intern
 - Gulfstream — Computer Science Intern - Advanced Structures and Materials
 - Gumloop — Design Engineer Intern

@@ -1,24 +1,21 @@
 {
   "schema_version": "1.0",
-  "id": "citadel-investment-trading-intern-2026",
+  "id": "wells-fargo-quantitative-analytics-intern-risk-analytics-and-decision-sc-2027",
   "company": {
-    "name": "Citadel",
-    "slug": "citadel"
+    "name": "Wells Fargo",
+    "slug": "wells-fargo"
   },
-  "role": "Investment & Trading Intern",
+  "role": "Quantitative Analytics Intern - Risk Analytics and Decision Sciences",
   "category": "quant",
-  "apply_url": "https://www.citadel.com/careers/details/investment-trading-intern-europe/",
-  "season": "fall",
-  "year": 2026,
+  "apply_url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Quantitative-Analytics-Summer-Internship-Risk-Analytics-and-Decision-Sciences--RADS-PhD----Early-Careers_R-569912",
+  "season": "summer",
+  "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "London",
-      "country": "UK"
-    },
-    {
-      "city": "Paris",
-      "country": "France"
+      "city": "Charlotte",
+      "state": "NC",
+      "country": "USA"
     }
   ],
   "compensation": {
@@ -29,7 +26,6 @@
   "eligibility": {
     "graduation_years": [],
     "degree_levels": [
-      "masters",
       "phd"
     ],
     "citizenship_required": false,
@@ -46,8 +42,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-13",
-    "discovered": "2026-07-17",
+    "posted": "2026-08-20",
+    "discovered": "2026-08-20",
     "last_verified": "2026-08-20"
   },
   "status": "open",

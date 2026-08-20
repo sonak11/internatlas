@@ -1,24 +1,21 @@
 {
   "schema_version": "1.0",
-  "id": "citadel-investment-trading-intern-2026",
+  "id": "e-space-embedded-software-engineer-intern-2026",
   "company": {
-    "name": "Citadel",
-    "slug": "citadel"
+    "name": "E-Space",
+    "slug": "e-space"
   },
-  "role": "Investment & Trading Intern",
-  "category": "quant",
-  "apply_url": "https://www.citadel.com/careers/details/investment-trading-intern-europe/",
+  "role": "Embedded Software Engineer Intern",
+  "category": "embedded",
+  "apply_url": "https://jobs.lever.co/espace/1e189295-a315-414d-8c0b-686f204e3cb3/apply",
   "season": "fall",
   "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "London",
-      "country": "UK"
-    },
-    {
-      "city": "Paris",
-      "country": "France"
+      "city": "Arlington",
+      "state": "TX",
+      "country": "USA"
     }
   ],
   "compensation": {
@@ -29,8 +26,7 @@
   "eligibility": {
     "graduation_years": [],
     "degree_levels": [
-      "masters",
-      "phd"
+      "masters"
     ],
     "citizenship_required": false,
     "security_clearance_required": false,
@@ -46,8 +42,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-13",
-    "discovered": "2026-07-17",
+    "posted": "2026-08-20",
+    "discovered": "2026-08-20",
     "last_verified": "2026-08-20"
   },
   "status": "open",
