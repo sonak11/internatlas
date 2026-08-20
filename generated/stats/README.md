@@ -33,7 +33,7 @@ _Generated 2026-08-20_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 1102 | `█████████████` |
+| software-engineering | 1104 | `█████████████` |
 | ai | 198 | `██` |
 | quant | 190 | `██` |
 | machine-learning | 137 | `██` |
@@ -54,8 +54,10 @@ _Generated 2026-08-20_
 - 2026-08-20 — **E-Space**: [Embedded Software Engineer Intern](https://jobs.lever.co/espace/1e189295-a315-414d-8c0b-686f204e3cb3/apply)
 - 2026-08-20 — **Epic Games**: [Tools Programmer Intern](https://epicgames.com/careers/jobs/6147167004?gh_jid=6147167004)
 - 2026-08-20 — **Fannie Mae**: [Data Science Intern - Analytics & Modeling Program](https://fanniemae.wd1.myworkdayjobs.com/FannieMaeCareers/job/Washington-DC/Campus---Data-Science-Intern--Analytics---Modeling-Program-_JR2815)
+- 2026-08-20 — **Freeform**: [Materials Engineer Intern](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7907965003)
 - 2026-08-20 — **General Matter**: [Software Engineering Intern](https://job-boards.greenhouse.io/generalmatter/jobs/5377118008)
 - 2026-08-20 — **Notion**: [Data Science Intern](https://jobs.ashbyhq.com/notion/a67d6f2b-7c13-41d0-b36b-b2f662c9873e/application?embed=true)
+- 2026-08-20 — **Pivot Robotics**: [Robot Operator Internship](https://jobs.ashbyhq.com/pivotrobotics/5b7e7074-aace-4b9a-9db8-245c8ad66a69/application?embed=true)
 - 2026-08-20 — **RTX**: [Software Development Intern](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Development-Intern--Summer-2027-_01867943)
 - 2026-08-20 — **TikTok**: [Machine Learning Engineer Intern](https://lifeattiktok.com/search/7675847556668295429)
 - 2026-08-20 — **TikTok**: [Machine Learning Engineer Intern - E-Commerce Supply Chain & Logistics-LLM/Agent - PhD](https://lifeattiktok.com/search/7675845333947812149)
@@ -67,8 +69,6 @@ _Generated 2026-08-20_
 - 2026-08-20 — **Western Magnetics**: [Software Engineer Intern](https://apply.workable.com/western-magnetics/j/E366930F3F/apply)
 - 2026-08-20 — **Zipline**: [Applications Engineer Intern - Spring 2027](https://www.zipline.com/open-roles?gh_jid=7908677003)
 - 2026-08-19 — **Allegheny County**: [Business Analytics Intern](https://alleghenycounty.bamboohr.com/careers/663/)
-- 2026-08-19 — **Autodesk**: [AI Developer Intern](https://autodesk.wd1.myworkdayjobs.com/uni/job/Montreal-QC-CAN/Intern--AI-Developer--Stagiaire-en-dveloppement-IA_26WD100523-1)
-- 2026-08-19 — **Autodesk**: [AI Developer Intern - Creative Technology](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Intern--AI-Developer--Stagiaire-en-dveloppement-IA_26WD100523-2)
 
 ## Recently closed
 
