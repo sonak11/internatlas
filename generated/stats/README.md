@@ -183,6 +183,7 @@ _Generated 2026-08-20_
 - Intuit — Software Engineer Intern
 - Intuitive Surgical — Computer Vision Engineer Intern
 - KBR — Software Intern
+- Keysight Technologies — AI/ML Research Intern
 - Keysight Technologies — Software Engineer Intern - R&D - FPGA
 - Kimley-Horn — Software Developer Intern
 - Louisiana Blue — Operational Reporting & Data Analyst Intern - CW
