@@ -8,7 +8,7 @@ _Generated 2026-08-20_
 
 | Company | Listings |
 |---|---|
-| TikTok | 138 |
+| TikTok | 140 |
 | Tesla | 110 |
 | ByteDance | 54 |
 | RTX | 52 |
@@ -36,7 +36,7 @@ _Generated 2026-08-20_
 | software-engineering | 1100 | `█████████████` |
 | ai | 198 | `██` |
 | quant | 190 | `██` |
-| machine-learning | 135 | `██` |
+| machine-learning | 137 | `██` |
 | research | 105 | `█` |
 | hardware | 90 | `█` |
 | product | 57 | `█` |
@@ -54,6 +54,8 @@ _Generated 2026-08-20_
 - 2026-08-20 — **Epic Games**: [Tools Programmer Intern](https://epicgames.com/careers/jobs/6147167004?gh_jid=6147167004)
 - 2026-08-20 — **General Matter**: [Software Engineering Intern](https://job-boards.greenhouse.io/generalmatter/jobs/5377118008)
 - 2026-08-20 — **Notion**: [Data Science Intern](https://jobs.ashbyhq.com/notion/a67d6f2b-7c13-41d0-b36b-b2f662c9873e/application?embed=true)
+- 2026-08-20 — **TikTok**: [Machine Learning Engineer Intern](https://lifeattiktok.com/search/7675847556668295429)
+- 2026-08-20 — **TikTok**: [Machine Learning Engineer Intern - E-Commerce Supply Chain & Logistics-LLM/Agent - PhD](https://lifeattiktok.com/search/7675845333947812149)
 - 2026-08-20 — **TikTok**: [Software Engineer Intern - Recommendation Architecture - Feeds Infrastructure](https://lifeattiktok.com/search/7672930401597671733)
 - 2026-08-20 — **TikTok**: [Software Engineer Intern - Recommendation Architecture - Feeds Infrastructure](https://lifeattiktok.com/search/7672926068681951493)
 - 2026-08-20 — **TikTok**: [Software Engineer Intern - Recommendation Infra - Performance Efficiency](https://lifeattiktok.com/search/7675159726676101381)
@@ -67,8 +69,6 @@ _Generated 2026-08-20_
 - 2026-08-19 — **Bank of Montreal**: [Workforce Analyst Co-op Intern](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Workforce-Analyst--Winter-2027--Co-op-Internship----8-Months_R260024513)
 - 2026-08-19 — **Bosch Home Comfort**: [Electrochemistry Modeling Intern](https://jobs.smartrecruiters.com/BoschGroup/744000144370279)
 - 2026-08-19 — **ByteDance**: [Machine Learning Engineer Intern - E-Commerce Risk Control - PhD](https://jobs.bytedance.com/en/position/7675478684795881781/detail)
-- 2026-08-19 — **ByteDance**: [Machine Learning Engineer Intern - E-Commerce Risk Control - PhD](https://jobs.bytedance.com/en/position/7675477254269765941/detail)
-- 2026-08-19 — **Centific**: [Technical Intern](https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Remote-Work-USA/Technical-Intern--Masters-or-PhD-_JR108144-1)
 
 ## Recently closed
 
@@ -154,7 +154,13 @@ _Generated 2026-08-20_
 - General Motors — Research and Development Intern - Research & Development: AI/ML
 - Global Infrastructure — Alternative Delivery Project Analytics Intern
 - Golden Pet Brands — Data Analytics Intern
+- Goldman Sachs — Quantitative Strategist Associate Intern - Asset and Wealth Management
+- Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
 - Goldman Sachs — Summer Analyst Intern - FICC and Equities - Sales and Trading
+- Goldman Sachs — Summer Analyst Intern - FICC & Equities - Sales & Trading
+- Goldman Sachs — Summer Analyst Intern - Wealth Management - Product Management and Design
+- Goldman Sachs — Summer Associate Intern - Multiple Teams
 - Group 1001 — Quantitative Analysis Intern
 - Gulfstream — Computer Science Intern - Advanced Structures and Materials
 - Gumloop — Design Engineer Intern
@@ -166,17 +172,20 @@ _Generated 2026-08-20_
 - IMC Trading — Hardware Machine Learning PhD Research Internship
 - impact.com — Associate Software Engineer Intern
 - Impulse Space — Data Analytics Intern
+- InfiniteQuant — Quantitative Developer Internship - Summer 2027
 - InfiniteQuant — Quantitative Researcher Intern
 - ING — Technology Intern - Innovation
 - Inizio — Data and Analytics Intern
 - Inogen — Firmware Engineer Intern
 - Integra FEC — Data Analyst Intern
 - Intel — AI Software Engineer Intern
+- Intel — Software Development Intern
 - Intuit — Software Engineer Intern
 - Intuitive Surgical — Computer Vision Engineer Intern
 - KBR — Software Intern
 - Keysight Technologies — Software Engineer Intern - R&D - FPGA
 - Kimley-Horn — Software Developer Intern
+- Levi Strauss & Co. — Analytics Intern - eCommerce
 - Louisiana Blue — Operational Reporting & Data Analyst Intern - CW
 - Lumentum — Optical Verification Technician Co-op Intern
 - Lumentum — Optical Verification Technician Intern/Co-op
@@ -210,7 +219,7 @@ _Generated 2026-08-20_
 - Noblis — Machinery Silencing Technician Intern
 - Nokia — Electromechanical Assembly Co-op Intern - Intern
 - Nokia — Hardware Developer Engineer Co-op/Intern
-- NVIDIA — Developer and Performance Technology Intern
+- NVIDIA — Computer Architecture Intern
 - Otter Products — Artificial Intelligence Intern
 - Palantir — Forward Deployed Software Engineer Intern
 - PEAK6 — Trading Bootcamp Micro-Internship - Summer 2027
@@ -226,7 +235,6 @@ _Generated 2026-08-20_
 - Renesas Electronics — Digital Design Engineer Intern
 - Revvity — Full-Stack AI Developer Intern
 - Rippling — Full Stack Software Engineer Intern
-- Rippling — Machine Learning Software Engineer Intern
 - Rippling — Software Engineer Intern - Backend Focused
 - Rivian — Intern
 - Rivian — Research Park Intern - Embedded Software

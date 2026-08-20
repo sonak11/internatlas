@@ -1,6 +1,6 @@
 # 📬 InternAtlas Weekly Digest — 2026-08-20
 
-## 🆕 New this week (360)
+## 🆕 New this week (362)
 
 - **AARP** — [Data Science and Advanced Analytics Intern](https://careers.aarp.org/jobs/7437?icims=1) · data-science · —
 - **Abridge** — [Software Engineer Intern](https://jobs.ashbyhq.com/abridge/3f07a457-dc14-4238-bf4e-5c33b5c1f883/application?embed=true) · software-engineering · —
@@ -302,7 +302,9 @@
 - **TikTok** — [Data Analyst Intern - LIVE](https://lifeattiktok.com/search/7674944387893791029) · software-engineering · —
 - **TikTok** — [Data Engineer Intern - Data Platform Global Live](https://lifeattiktok.com/search/7674032146438162693) · data-engineering · —
 - **TikTok** — [Data Science Intern - Advertisement Team](https://lifeattiktok.com/search/7673226686054107445) · data-science · —
+- **TikTok** — [Machine Learning Engineer Intern](https://lifeattiktok.com/search/7675847556668295429) · machine-learning · —
 - **TikTok** — [Machine Learning Engineer Intern - E-Commerce Governance](https://lifeattiktok.com/search/7674029136531015941) · machine-learning · —
+- **TikTok** — [Machine Learning Engineer Intern - E-Commerce Supply Chain & Logistics-LLM/Agent - PhD](https://lifeattiktok.com/search/7675845333947812149) · machine-learning · —
 - **TikTok** — [Machine Learning MLOps Intern - Global Site Reliability Engineering](https://lifeattiktok.com/search/7670875283026053381) · machine-learning · —
 - **TikTok** — [Mobile Software Engineer Intern - Global E-Commerce](https://lifeattiktok.com/search/7673663349758675205) · software-engineering · —
 - **TikTok** — [Product Manager Intern - Content and Services](https://lifeattiktok.com/search/7673337777708550405) · product · —

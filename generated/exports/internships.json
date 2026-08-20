@@ -1,6 +1,6 @@
 {
   "generated": "2026-08-20",
-  "count": 2085,
+  "count": 2087,
   "internships": [
     {
       "schema_version": "1.0",
@@ -36764,7 +36764,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-08-20"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -36817,7 +36817,7 @@
         "discovered": "2026-08-18",
         "last_verified": "2026-08-20"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -36921,7 +36921,7 @@
         "discovered": "2026-08-20",
         "last_verified": "2026-08-20"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -37077,7 +37077,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-08-20"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -37128,7 +37128,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-08-20"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -37181,7 +37181,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-08-20"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -43035,7 +43035,7 @@
         "discovered": "2026-08-19",
         "last_verified": "2026-08-20"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -43946,7 +43946,7 @@
         "discovered": "2026-08-17",
         "last_verified": "2026-08-20"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -50460,7 +50460,7 @@
         "discovered": "2026-08-17",
         "last_verified": "2026-08-20"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -63046,7 +63046,7 @@
         "discovered": "2026-08-19",
         "last_verified": "2026-08-20"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -63264,7 +63264,7 @@
         "discovered": "2026-08-19",
         "last_verified": "2026-08-20"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -73140,7 +73140,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-20"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -97633,6 +97633,60 @@
     },
     {
       "schema_version": "1.0",
+      "id": "tiktok-machine-learning-engineer-intern-2027-04c2f0",
+      "company": {
+        "name": "TikTok",
+        "slug": "tiktok"
+      },
+      "role": "Machine Learning Engineer Intern",
+      "category": "machine-learning",
+      "apply_url": "https://lifeattiktok.com/search/7675847556668295429",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Seattle",
+          "state": "WA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-20",
+        "discovered": "2026-08-20",
+        "last_verified": "2026-08-20"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "tiktok-machine-learning-engineer-intern-2027-5c7e5c",
       "company": {
         "name": "TikTok",
@@ -98754,6 +98808,60 @@
       "dates": {
         "posted": "2026-08-06",
         "discovered": "2026-08-06",
+        "last_verified": "2026-08-20"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "tiktok-machine-learning-engineer-intern-e-commerce-supply-chain-log-2027",
+      "company": {
+        "name": "TikTok",
+        "slug": "tiktok"
+      },
+      "role": "Machine Learning Engineer Intern - E-Commerce Supply Chain & Logistics-LLM/Agent - PhD",
+      "category": "machine-learning",
+      "apply_url": "https://lifeattiktok.com/search/7675845333947812149",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Seattle",
+          "state": "WA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-20",
+        "discovered": "2026-08-20",
         "last_verified": "2026-08-20"
       },
       "status": "open",

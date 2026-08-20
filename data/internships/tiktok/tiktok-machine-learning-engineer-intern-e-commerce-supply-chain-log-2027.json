@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "intel-software-development-intern-2026",
+  "id": "tiktok-machine-learning-engineer-intern-e-commerce-supply-chain-log-2027",
   "company": {
-    "name": "Intel",
-    "slug": "intel"
+    "name": "TikTok",
+    "slug": "tiktok"
   },
-  "role": "Software Development Intern",
-  "category": "software-engineering",
-  "apply_url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-California-Folsom/Software-Development-Graduate-Intern_JR0285451-1",
-  "season": "fall",
-  "year": 2026,
+  "role": "Machine Learning Engineer Intern - E-Commerce Supply Chain & Logistics-LLM/Agent - PhD",
+  "category": "machine-learning",
+  "apply_url": "https://lifeattiktok.com/search/7675845333947812149",
+  "season": "summer",
+  "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Folsom",
-      "state": "CA",
+      "city": "Seattle",
+      "state": "WA",
       "country": "USA"
     }
   ],
@@ -26,7 +26,6 @@
   "eligibility": {
     "graduation_years": [],
     "degree_levels": [
-      "masters",
       "phd"
     ],
     "citizenship_required": false,
@@ -43,11 +42,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-17",
-    "discovered": "2026-08-17",
+    "posted": "2026-08-20",
+    "discovered": "2026-08-20",
     "last_verified": "2026-08-20"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"
