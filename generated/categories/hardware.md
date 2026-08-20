@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🔩 Hardware Internships
 
-**90** tracked · **74** open now
+**90** tracked · **73** open now
 
 ## Current openings
 
@@ -57,7 +57,6 @@
 | [Optiver](generated/companies/optiver.md) | [FPGA Engineer Intern](https://www.optiver.com/join-us/jobs/8402114002/?gh_jid=8402114002) | Chicago, IL | Onsite | 2026-07-21 | Rolling | 🟢 Open | ❔ |
 | [Rivian](generated/companies/rivian.md) | [FPGA Design Intern - FPGA Design](https://careers.rivian.com/jobs/32954?icims=1) | Champaign, IL | Onsite | 2026-08-17 | Rolling | 🟢 Open | ❔ |
 | [Skydio](generated/companies/skydio.md) | [Hardware Test & Reliability Intern](https://jobs.ashbyhq.com/skydio/d75d4adf-760c-46b6-bb98-3497650a8924/application?embed=true) | San Mateo, CA | Onsite | 2026-08-05 | Rolling | 🟢 Open | ❔ |
-| [SpaceX](generated/companies/spacex.md) | [Recruiting Coordinator, Intern Program- Temporary](https://boards.greenhouse.io/spacex/jobs/8647830002?gh_jid=8647830002) | Hawthorne, CA | Onsite | 2026-07-23 | Rolling | 🟢 Open | ❔ |
 | [SpaceX](generated/companies/spacex.md) | [Silicon Engineer Intern/Co-op](https://boards.greenhouse.io/spacex/jobs/8636134002) | Palo Alto, CA +2 | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
 | [SpaceX](generated/companies/spacex.md) | [Silicon Engineer Intern/Co-op](https://boards.greenhouse.io/spacex/jobs/8621763002) | Palo Alto, CA +2 | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
 | [SpaceX](generated/companies/spacex.md) | [Spring 2027 Business Operations Internship/Co-op](https://boards.greenhouse.io/spacex/jobs/8621770002?gh_jid=8621770002) | Flexible | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
@@ -98,6 +97,7 @@
 | [SpaceX](generated/companies/spacex.md) | [Fall 2026 Engineering Internship/Co-op](https://boards.greenhouse.io/spacex/jobs/8403206002?gh_jid=8403206002) | Flexible | Onsite | 2026-03-16 | Rolling | 🔴 Closed | ❔ |
 | [SpaceX](generated/companies/spacex.md) | [Fall 2026 Graduate Engineer Internship/Co-op](https://boards.greenhouse.io/spacex/jobs/8403223002?gh_jid=8403223002) | Flexible | Onsite | 2026-03-16 | Rolling | 🔴 Closed | ❔ |
 | [SpaceX](generated/companies/spacex.md) | [Fall 2026 Software Engineering Internship/Co-op](https://boards.greenhouse.io/spacex/jobs/8403219002?gh_jid=8403219002) | Flexible | Onsite | 2026-03-16 | Rolling | 🔴 Closed | ❔ |
+| [SpaceX](generated/companies/spacex.md) | [Recruiting Coordinator, Intern Program- Temporary](https://boards.greenhouse.io/spacex/jobs/8647830002?gh_jid=8647830002) | Hawthorne, CA | Onsite | 2026-07-23 | Rolling | 🔴 Closed | ❔ |
 
 ## Hiring companies
 

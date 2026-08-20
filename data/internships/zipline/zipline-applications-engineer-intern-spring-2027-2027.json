@@ -1,21 +1,19 @@
 {
   "schema_version": "1.0",
-  "id": "spacex-recruiting-coordinator-intern-program-temporary-2027",
+  "id": "zipline-applications-engineer-intern-spring-2027-2027",
   "company": {
-    "name": "SpaceX",
-    "slug": "spacex",
-    "career_page": "https://www.spacex.com/careers"
+    "name": "Zipline",
+    "slug": "zipline"
   },
-  "role": "Recruiting Coordinator, Intern Program- Temporary",
-  "category": "hardware",
-  "apply_url": "https://boards.greenhouse.io/spacex/jobs/8647830002?gh_jid=8647830002",
-  "season": "summer",
+  "role": "Applications Engineer Intern - Spring 2027",
+  "category": "software-engineering",
+  "apply_url": "https://www.zipline.com/open-roles?gh_jid=7908677003",
+  "season": "spring",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Hawthorne",
-      "state": "CA",
+      "city": "South SF",
       "country": "USA"
     }
   ],
@@ -26,7 +24,10 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "masters",
+      "phd"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -41,13 +42,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-23",
-    "discovered": "2026-07-23",
+    "posted": "2026-08-20",
+    "discovered": "2026-08-20",
     "last_verified": "2026-08-20"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
-    "src:ats"
+    "src:simplify"
   ]
 }

@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # ☁️ Cloud Internships
 
-**40** tracked · **29** open now
+**42** tracked · **31** open now
 
 ## Current openings
 
@@ -35,6 +35,8 @@
 | [TikTok](generated/companies/tiktok.md) | [Backend Software Engineer Intern - Product Infrastructure](https://lifeattiktok.com/search/7667935633764370741) | San Jose, CA | Onsite | 2026-08-04 | Rolling | 🟢 Open | ❔ |
 | [TikTok](generated/companies/tiktok.md) | [Product Manager Intern - Product Infrastructure - Account](https://lifeattiktok.com/search/7670009830602721589) | San Jose, CA | Onsite | 2026-08-06 | Rolling | 🟢 Open | ❔ |
 | [TikTok](generated/companies/tiktok.md) | [Software Engineer Intern - Global E-Commerce Search Infrastructure](https://lifeattiktok.com/search/7662594807715072261) | Seattle, WA | Onsite | 2026-08-07 | Rolling | 🟢 Open | ❔ |
+| [TikTok](generated/companies/tiktok.md) | [Software Engineer Intern - Recommendation Architecture - Feeds Infrastructure](https://lifeattiktok.com/search/7672930401597671733) | San Jose, CA | Onsite | 2026-08-20 | Rolling | 🟢 Open | ❔ |
+| [TikTok](generated/companies/tiktok.md) | [Software Engineer Intern - Recommendation Architecture - Feeds Infrastructure](https://lifeattiktok.com/search/7672926068681951493) | Seattle, WA | Onsite | 2026-08-20 | Rolling | 🟢 Open | ❔ |
 | [TikTok](generated/companies/tiktok.md) | [Software Engineer Intern, Recommendation Infrastructure](https://lifeattiktok.com/referral/tiktok/campus/position/7537493362585979154/detail?token=MzsxNzU3OTM3MTgyMDE1OzczNzM0OTcwMTcxNzQxMzIyNDA7MDsy) | Seattle, WA | Onsite | 2026-04-20 | Rolling | 🟢 Open | ❔ |
 | [TransMarket Group](generated/companies/transmarket-group.md) | [DevOps/SRE Intern](https://job-boards.greenhouse.io/transmarketgroup/jobs/5151577007) | Chicago, IL | Onsite | 2026-07-24 | Rolling | 🟢 Open | ❔ |
 | [Autodesk](generated/companies/autodesk.md) | [Cloud Developer Intern](https://autodesk.wd1.myworkdayjobs.com/uni/job/Quebec-CAN---Remote/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer_26WD99464-1) | Remote | Remote | 2026-06-18 | Rolling | 🔴 Closed | ❔ |
@@ -52,8 +54,8 @@
 ## Hiring companies
 
 - Palantir Technologies (7)
+- TikTok (7)
 - Autodesk (6)
-- TikTok (5)
 - Atomic Semi (3)
 - Etched (3)
 - ByteDance (2)

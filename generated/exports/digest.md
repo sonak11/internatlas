@@ -1,6 +1,6 @@
 # 📬 InternAtlas Weekly Digest — 2026-08-20
 
-## 🆕 New this week (350)
+## 🆕 New this week (356)
 
 - **AARP** — [Data Science and Advanced Analytics Intern](https://careers.aarp.org/jobs/7437?icims=1) · data-science · —
 - **Abridge** — [Software Engineer Intern](https://jobs.ashbyhq.com/abridge/3f07a457-dc14-4238-bf4e-5c33b5c1f883/application?embed=true) · software-engineering · —
@@ -105,6 +105,7 @@
 - **Encephalo Investments** — [Software Developer Intern](https://jobs.smartrecruiters.com/EncephaloInvestments/743999734497349) · software-engineering · —
 - **Epia Neuro** — [Hardware Engineer Intern](https://jobs.ashbyhq.com/epianeuro/62d296e8-16c4-4403-8af5-629e97f7f7fe/application?embed=true) · hardware · —
 - **Epic Games** — [Gameplay Programmer Intern](https://epicgames.com/careers/jobs/6141180004?gh_jid=6141180004) · software-engineering · —
+- **Epic Games** — [Tools Programmer Intern](https://epicgames.com/careers/jobs/6147167004?gh_jid=6147167004) · software-engineering · —
 - **FAST Enterprises** — [Implementation Intern](https://careers.fastenterprises.com/jobs/1709?icims=1) · software-engineering · —
 - **Fannie Mae** — [Business Analysis Associate Intern - Access Management](https://jobs.smartrecruiters.com/FannieMae1SB/743999744544704) · software-engineering · —
 - **Fannie Mae** — [Business Analysis Associate Intern - Access Management](https://jobs.smartrecruiters.com/FannieMae1SB/743999744532787) · software-engineering · —
@@ -305,6 +306,10 @@
 - **TikTok** — [Product Manager Intern - Scaled Growth](https://lifeattiktok.com/search/7673559305519794437) · product · —
 - **TikTok** — [Product Operations Intern - TikTok Shop Apps and API](https://lifeattiktok.com/search/7669705525866383621) · software-engineering · —
 - **TikTok** — [Product Solutions and Operations Intern - Commerce Ads](https://lifeattiktok.com/search/7673340525029673221) · software-engineering · —
+- **TikTok** — [Software Engineer Intern - Recommendation Architecture - Feeds Infrastructure](https://lifeattiktok.com/search/7672930401597671733) · cloud · —
+- **TikTok** — [Software Engineer Intern - Recommendation Architecture - Feeds Infrastructure](https://lifeattiktok.com/search/7672926068681951493) · cloud · —
+- **TikTok** — [Software Engineer Intern - Recommendation Infra - Performance Efficiency](https://lifeattiktok.com/search/7675159726676101381) · software-engineering · —
+- **TikTok** — [Software Engineer Intern - TikTok Search Architecture](https://lifeattiktok.com/search/7675517686256863541) · software-engineering · —
 - **TikTok** — [Software Engineer Intern - TikTok Search Data Infra](https://lifeattiktok.com/search/7675128776856029445) · software-engineering · —
 - **Toshiba Global Commerce** — [Hardware Engineer Intern](https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5214748007) · hardware · —
 - **TransMarket Group** — [Software Engineer Intern](https://job-boards.greenhouse.io/transmarketgroup/jobs/5212335007?gh_jid=5212335007) · software-engineering · —
@@ -342,6 +347,7 @@
 - **Willkie Farr & Gallagher** — [Financial Data Analyst Intern](https://uscareers-willkie.icims.com/jobs/2194/job?mobile=true&needsRedirect=false) · software-engineering · —
 - **Xantium** — [Quantitative Developer Intern](https://job-boards.greenhouse.io/xantium/jobs/4360768009) · quant · —
 - **Xantium** — [Quantitative Researcher Intern](https://job-boards.greenhouse.io/xantium/jobs/4371217009) · quant · —
+- **Zipline** — [Applications Engineer Intern - Spring 2027](https://www.zipline.com/open-roles?gh_jid=7908677003) · software-engineering · —
 - **Zipline** — [Computational Physics Intern - Summer 2027](https://www.zipline.com/open-roles?gh_jid=7904720003) · software-engineering · —
 - **Zipline** — [Enterprise Systems Software Engineer Intern - Spring 2027](https://www.zipline.com/open-roles?gh_jid=7893926003) · software-engineering · —
 - **Zipline** — [Enterprise Systems Software Engineer Intern - Spring 2027](https://www.zipline.com/open-roles?gh_jid=7886501003) · software-engineering · —

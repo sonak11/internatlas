@@ -137,7 +137,7 @@
 | [Circle K](../companies/circle-k.md) | 1/1 | software-engineering |
 | [Circleback](../companies/circleback.md) | 1/1 | software-engineering |
 | [Cirrus Logic](../companies/cirrus-logic.md) | 1/3 | ai, embedded |
-| [Citadel](../companies/citadel.md) | 7/7 | data-science, quant, software-engineering |
+| [Citadel](../companies/citadel.md) | 6/7 | data-science, quant, software-engineering |
 | [Citadel Securities](../companies/citadel-securities.md) | 5/5 | hardware, quant, software-engineering |
 | [City of Aurora](../companies/city-of-aurora.md) | 0/1 | software-engineering |
 | [City of Austin](../companies/city-of-austin.md) | 0/3 | research, software-engineering |
@@ -210,7 +210,7 @@
 | [Entergy](../companies/entergy.md) | 0/1 | software-engineering |
 | [Environmental Defense Fund](../companies/environmental-defense-fund.md) | 0/1 | software-engineering |
 | [Epia Neuro](../companies/epia-neuro.md) | 1/1 | hardware |
-| [Epic Games](../companies/epic-games.md) | 4/4 | machine-learning, software-engineering |
+| [Epic Games](../companies/epic-games.md) | 5/5 | machine-learning, software-engineering |
 | [Eragon](../companies/eragon.md) | 1/1 | ai |
 | [Eridu AI](../companies/eridu-ai.md) | 1/1 | software-engineering |
 | [Etched](../companies/etched.md) | 12/14 | cloud, embedded, software-engineering |
@@ -271,7 +271,7 @@
 | [Global Partners](../companies/global-partners.md) | 1/1 | software-engineering |
 | [GoDaddy](../companies/godaddy.md) | 1/1 | software-engineering |
 | [Golden Pet Brands](../companies/golden-pet-brands.md) | 0/1 | software-engineering |
-| [Goldman Sachs](../companies/goldman-sachs.md) | 3/8 | product, quant, software-engineering |
+| [Goldman Sachs](../companies/goldman-sachs.md) | 0/8 | product, quant, software-engineering |
 | [Google](../companies/google.md) | 3/7 | data-science, research, software-engineering |
 | [Grant Thornton](../companies/grant-thornton.md) | 2/2 | software-engineering |
 | [Gritt Robotics Inc](../companies/gritt-robotics-inc.md) | 1/1 | software-engineering |
@@ -571,7 +571,7 @@
 | [SoloPulse](../companies/solopulse.md) | 1/1 | software-engineering |
 | [Sony Music Entertainment](../companies/sony-music-entertainment.md) | 1/2 | research, software-engineering |
 | [Sony Pictures Entertainment](../companies/sony-pictures-entertainment.md) | 0/2 | software-engineering |
-| [SpaceX](../companies/spacex.md) | 18/25 | hardware, software-engineering |
+| [SpaceX](../companies/spacex.md) | 17/25 | hardware, software-engineering |
 | [Sparksoft](../companies/sparksoft.md) | 0/2 | software-engineering |
 | [Specialisterne](../companies/specialisterne.md) | 1/1 | software-engineering |
 | [Spectrum Control](../companies/spectrum-control.md) | 0/1 | software-engineering |
@@ -618,7 +618,7 @@
 | [The Nuclear Company](../companies/the-nuclear-company.md) | 10/10 | ai, data-science, machine-learning, software-engineering |
 | [The Trade Desk](../companies/the-trade-desk.md) | 0/1 | software-engineering |
 | [Thomson Reuters](../companies/thomson-reuters.md) | 2/2 | machine-learning, research |
-| [TikTok](../companies/tiktok.md) | 130/134 | ai, cloud, data-engineering, data-science, machine-learning, product, research, software-engineering |
+| [TikTok](../companies/tiktok.md) | 134/138 | ai, cloud, data-engineering, data-science, machine-learning, product, research, software-engineering |
 | [Together AI](../companies/together-ai.md) | 0/3 | research |
 | [Torch Technologies](../companies/torch-technologies.md) | 0/1 | software-engineering |
 | [Toshiba Commerce Solutions](../companies/toshiba-commerce-solutions.md) | 0/2 | ai |
@@ -695,7 +695,7 @@
 | [Yotta Labs](../companies/yotta-labs.md) | 2/2 | ai, research |
 | [ZGF Architects](../companies/zgf-architects.md) | 0/1 | software-engineering |
 | [Zello](../companies/zello.md) | 1/1 | software-engineering |
-| [Zipline](../companies/zipline.md) | 7/14 | embedded, hardware, software-engineering |
+| [Zipline](../companies/zipline.md) | 8/15 | embedded, hardware, software-engineering |
 | [Zoomifier](../companies/zoomifier.md) | 1/1 | software-engineering |
 | [Zuckerman Investment Group](../companies/zuckerman-investment-group.md) | 1/1 | software-engineering |
 | [Zurich Insurance](../companies/zurich-insurance.md) | 0/1 | ai |

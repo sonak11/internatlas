@@ -1,21 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "spacex-recruiting-coordinator-intern-program-temporary-2027",
+  "id": "tiktok-software-engineer-intern-recommendation-architecture-feeds-i-2027",
   "company": {
-    "name": "SpaceX",
-    "slug": "spacex",
-    "career_page": "https://www.spacex.com/careers"
+    "name": "TikTok",
+    "slug": "tiktok"
   },
-  "role": "Recruiting Coordinator, Intern Program- Temporary",
-  "category": "hardware",
-  "apply_url": "https://boards.greenhouse.io/spacex/jobs/8647830002?gh_jid=8647830002",
+  "role": "Software Engineer Intern - Recommendation Architecture - Feeds Infrastructure",
+  "category": "cloud",
+  "apply_url": "https://lifeattiktok.com/search/7672926068681951493",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Hawthorne",
-      "state": "CA",
+      "city": "Seattle",
+      "state": "WA",
       "country": "USA"
     }
   ],
@@ -26,7 +25,9 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "masters"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -41,13 +42,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-23",
-    "discovered": "2026-07-23",
+    "posted": "2026-08-20",
+    "discovered": "2026-08-20",
     "last_verified": "2026-08-20"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
-    "src:ats"
+    "src:simplify"
   ]
 }

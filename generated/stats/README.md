@@ -8,7 +8,7 @@ _Generated 2026-08-20_
 
 | Company | Listings |
 |---|---|
-| TikTok | 134 |
+| TikTok | 138 |
 | Tesla | 110 |
 | ByteDance | 54 |
 | RTX | 52 |
@@ -25,15 +25,15 @@ _Generated 2026-08-20_
 | Microsoft | 16 |
 | Rivian and Volkswagen Group Technologies | 16 |
 | Meta | 15 |
+| Zipline | 15 |
 | Etched | 14 |
 | Virtu Financial | 14 |
-| Zipline | 14 |
 
 ## Listings by category
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 1096 | `█████████████` |
+| software-engineering | 1100 | `█████████████` |
 | ai | 198 | `██` |
 | quant | 188 | `██` |
 | machine-learning | 135 | `██` |
@@ -41,17 +41,23 @@ _Generated 2026-08-20_
 | hardware | 90 | `█` |
 | product | 57 | `█` |
 | embedded | 50 | `█` |
+| cloud | 42 | `█` |
 | design | 42 | `█` |
-| cloud | 40 | `█` |
 | data-science | 39 | `█` |
 | data-engineering | 23 | `█` |
 | security | 13 | `█` |
 
 ## Newest listings
 
+- 2026-08-20 — **Epic Games**: [Tools Programmer Intern](https://epicgames.com/careers/jobs/6147167004?gh_jid=6147167004)
 - 2026-08-20 — **General Matter**: [Software Engineering Intern](https://job-boards.greenhouse.io/generalmatter/jobs/5377118008)
 - 2026-08-20 — **Notion**: [Data Science Intern](https://jobs.ashbyhq.com/notion/a67d6f2b-7c13-41d0-b36b-b2f662c9873e/application?embed=true)
+- 2026-08-20 — **TikTok**: [Software Engineer Intern - Recommendation Architecture - Feeds Infrastructure](https://lifeattiktok.com/search/7672930401597671733)
+- 2026-08-20 — **TikTok**: [Software Engineer Intern - Recommendation Architecture - Feeds Infrastructure](https://lifeattiktok.com/search/7672926068681951493)
+- 2026-08-20 — **TikTok**: [Software Engineer Intern - Recommendation Infra - Performance Efficiency](https://lifeattiktok.com/search/7675159726676101381)
+- 2026-08-20 — **TikTok**: [Software Engineer Intern - TikTok Search Architecture](https://lifeattiktok.com/search/7675517686256863541)
 - 2026-08-20 — **Western Magnetics**: [Software Engineer Intern](https://apply.workable.com/western-magnetics/j/E366930F3F/apply)
+- 2026-08-20 — **Zipline**: [Applications Engineer Intern - Spring 2027](https://www.zipline.com/open-roles?gh_jid=7908677003)
 - 2026-08-19 — **Allegheny County**: [Business Analytics Intern](https://alleghenycounty.bamboohr.com/careers/663/)
 - 2026-08-19 — **Autodesk**: [AI Developer Intern](https://autodesk.wd1.myworkdayjobs.com/uni/job/Montreal-QC-CAN/Intern--AI-Developer--Stagiaire-en-dveloppement-IA_26WD100523-1)
 - 2026-08-19 — **Autodesk**: [AI Developer Intern - Creative Technology](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Intern--AI-Developer--Stagiaire-en-dveloppement-IA_26WD100523-2)
@@ -63,12 +69,6 @@ _Generated 2026-08-20_
 - 2026-08-19 — **Citadel Securities**: [Fundamental Analyst Intern](https://www.citadelsecurities.com/careers/details/trading-fundamental-analyst-intern-us/)
 - 2026-08-19 — **Copart**: [Data Engineer Intern](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Data-Engineering-Intern_JR110617)
 - 2026-08-19 — **Detroit Lions**: [Quantitative Research Intern](https://job-boards.greenhouse.io/detroitlions/jobs/4723291005)
-- 2026-08-19 — **Flagright**: [Product Operations Intern](https://jobs.ashbyhq.com/flagright.com/b372f2b5-71d1-462f-a63e-f54ab9992d37/application?embed=true)
-- 2026-08-19 — **GE Vernova**: [Application Engineer Co-op/Intern - PCS](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Findlay-Township/PCS-Application-Engineering-Co-Op-Intern---Summer-2027_R5050417-2)
-- 2026-08-19 — **GE Vernova**: [Application Engineer Co-op/Intern - PCS](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Findlay-Township/PCS-Application-Engineering-Co-Op-Intern---Summer-2027_R5050417-1)
-- 2026-08-19 — **Humana**: [Technology Intern - Early ID Participants](https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Louisville-KY/Humana-Technology-Internship---Summer-2027--Early-ID-Participants-_R-427451)
-- 2026-08-19 — **InfiniteQuant**: [Quantitative Developer Internship - Summer 2027](https://jobs.smartrecruiters.com/InfiniteQuant/744000144281579)
-- 2026-08-19 — **Kensington**: [Data Analyst Intern - Revenue Optimization](https://job-boards.greenhouse.io/kensingtontours/jobs/5209507007)
 
 ## Recently closed
 
@@ -110,6 +110,7 @@ _Generated 2026-08-20_
 - Ciena — Software Engineer Intern
 - Ciena — Software Engineer Intern
 - Ciena — Software Liquid Spectrum Applications Intern
+- Citadel — Investment & Trading Intern
 - City of Austin — Business Intelligence Intern - Business Intelligence
 - City of Austin — Research Analyst Intern
 - Cloudflare — AI Builder Intern - Global Customer Engineering - Service Sales
@@ -151,11 +152,14 @@ _Generated 2026-08-20_
 - General Motors — Research and Development Intern - Research & Development: AI/ML
 - Global Infrastructure — Alternative Delivery Project Analytics Intern
 - Golden Pet Brands — Data Analytics Intern
+- Goldman Sachs — Quantitative Strategist Associate Intern - Asset and Wealth Management
 - Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
 - Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
 - Goldman Sachs — Summer Analyst Intern - FICC and Equities - Sales and Trading
 - Goldman Sachs — Summer Analyst Intern - FICC & Equities - Sales & Trading
 - Goldman Sachs — Summer Analyst Intern - Wealth Management - Product Management and Design
+- Goldman Sachs — Summer Associate Intern - Multiple Teams
 - Group 1001 — Quantitative Analysis Intern
 - Gulfstream — Computer Science Intern - Advanced Structures and Materials
 - Gumloop — Design Engineer Intern
@@ -262,6 +266,7 @@ _Generated 2026-08-20_
 - Sony Music Entertainment — Insight & Analytics Intern
 - Sony Pictures Entertainment — Graduate Intern - Advanced Technologies
 - Sony Pictures Entertainment — Insights Intern - Multiple Teams
+- SpaceX — Recruiting Coordinator, Intern Program- Temporary
 - SRI International — Computer Science Intern
 - Stand Insurance — Fire Science Engineer Intern
 - StudyFetch — Engineering Intern

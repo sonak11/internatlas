@@ -1,21 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "spacex-recruiting-coordinator-intern-program-temporary-2027",
+  "id": "epic-games-tools-programmer-intern-2026",
   "company": {
-    "name": "SpaceX",
-    "slug": "spacex",
-    "career_page": "https://www.spacex.com/careers"
+    "name": "Epic Games",
+    "slug": "epic-games"
   },
-  "role": "Recruiting Coordinator, Intern Program- Temporary",
-  "category": "hardware",
-  "apply_url": "https://boards.greenhouse.io/spacex/jobs/8647830002?gh_jid=8647830002",
-  "season": "summer",
-  "year": 2027,
+  "role": "Tools Programmer Intern",
+  "category": "software-engineering",
+  "apply_url": "https://epicgames.com/careers/jobs/6147167004?gh_jid=6147167004",
+  "season": "fall",
+  "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Hawthorne",
-      "state": "CA",
+      "city": "Cary",
+      "state": "NC",
       "country": "USA"
     }
   ],
@@ -41,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-23",
-    "discovered": "2026-07-23",
+    "posted": "2026-08-20",
+    "discovered": "2026-08-20",
     "last_verified": "2026-08-20"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
-    "src:ats"
+    "src:simplify"
   ]
 }

@@ -1,6 +1,6 @@
 {
   "generated": "2026-08-20",
-  "count": 2075,
+  "count": 2081,
   "internships": [
     {
       "schema_version": "1.0",
@@ -20731,7 +20731,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-20"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -30011,6 +30011,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "epic-games-tools-programmer-intern-2026",
+      "company": {
+        "name": "Epic Games",
+        "slug": "epic-games"
+      },
+      "role": "Tools Programmer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://epicgames.com/careers/jobs/6147167004?gh_jid=6147167004",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Cary",
+          "state": "NC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-20",
+        "discovered": "2026-08-20",
+        "last_verified": "2026-08-20"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "eragon-applied-ai-intern-2026",
       "company": {
         "name": "Eragon",
@@ -36607,7 +36659,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-08-20"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -36764,7 +36816,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-08-20"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -36973,7 +37025,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-08-20"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -82261,7 +82313,7 @@
         "discovered": "2026-07-23",
         "last_verified": "2026-08-20"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:ats"
@@ -101980,6 +102032,168 @@
     },
     {
       "schema_version": "1.0",
+      "id": "tiktok-software-engineer-intern-recommendation-architecture-feeds-i-2027-2d6a32",
+      "company": {
+        "name": "TikTok",
+        "slug": "tiktok"
+      },
+      "role": "Software Engineer Intern - Recommendation Architecture - Feeds Infrastructure",
+      "category": "cloud",
+      "apply_url": "https://lifeattiktok.com/search/7672930401597671733",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-20",
+        "discovered": "2026-08-20",
+        "last_verified": "2026-08-20"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "tiktok-software-engineer-intern-recommendation-architecture-feeds-i-2027",
+      "company": {
+        "name": "TikTok",
+        "slug": "tiktok"
+      },
+      "role": "Software Engineer Intern - Recommendation Architecture - Feeds Infrastructure",
+      "category": "cloud",
+      "apply_url": "https://lifeattiktok.com/search/7672926068681951493",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Seattle",
+          "state": "WA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-20",
+        "discovered": "2026-08-20",
+        "last_verified": "2026-08-20"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "tiktok-software-engineer-intern-recommendation-infra-performance-ef-2027",
+      "company": {
+        "name": "TikTok",
+        "slug": "tiktok"
+      },
+      "role": "Software Engineer Intern - Recommendation Infra - Performance Efficiency",
+      "category": "software-engineering",
+      "apply_url": "https://lifeattiktok.com/search/7675159726676101381",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-20",
+        "discovered": "2026-08-20",
+        "last_verified": "2026-08-20"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "tiktok-software-engineer-intern-recommendation-infrastructure-2026-e9cc52",
       "company": {
         "name": "TikTok",
@@ -102131,6 +102345,60 @@
       "dates": {
         "posted": "2026-08-03",
         "discovered": "2026-08-03",
+        "last_verified": "2026-08-20"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "tiktok-software-engineer-intern-tiktok-search-architecture-2027",
+      "company": {
+        "name": "TikTok",
+        "slug": "tiktok"
+      },
+      "role": "Software Engineer Intern - TikTok Search Architecture",
+      "category": "software-engineering",
+      "apply_url": "https://lifeattiktok.com/search/7675517686256863541",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-20",
+        "discovered": "2026-08-20",
         "last_verified": "2026-08-20"
       },
       "status": "open",
@@ -111542,6 +111810,60 @@
         "last_verified": "2026-07-23"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "zipline-applications-engineer-intern-spring-2027-2027",
+      "company": {
+        "name": "Zipline",
+        "slug": "zipline"
+      },
+      "role": "Applications Engineer Intern - Spring 2027",
+      "category": "software-engineering",
+      "apply_url": "https://www.zipline.com/open-roles?gh_jid=7908677003",
+      "season": "spring",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "South SF",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters",
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-20",
+        "discovered": "2026-08-20",
+        "last_verified": "2026-08-20"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
