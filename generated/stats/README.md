@@ -13,7 +13,7 @@ _Generated 2026-08-20_
 | ByteDance | 54 |
 | RTX | 53 |
 | Jump Trading | 43 |
-| Cloudflare | 30 |
+| Cloudflare | 31 |
 | NVIDIA | 30 |
 | American Express | 28 |
 | SpaceX | 25 |
@@ -33,7 +33,7 @@ _Generated 2026-08-20_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 1104 | `█████████████` |
+| software-engineering | 1105 | `█████████████` |
 | ai | 198 | `██` |
 | quant | 190 | `██` |
 | machine-learning | 137 | `██` |
@@ -51,6 +51,7 @@ _Generated 2026-08-20_
 
 - 2026-08-20 — **AbbVie**: [Business Technology Solutions Intern - Data & Software Engineering - Undergraduate](https://jobs.smartrecruiters.com/AbbVie/3743990014697918)
 - 2026-08-20 — **Abundant**: [Member of Technical Staff Intern - Research](https://jobs.ashbyhq.com/abundant/1ebf7fda-c322-404d-acc3-2757bbd79996/application?embed=true)
+- 2026-08-20 — **Cloudflare**: [Software Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8118855?gh_jid=8118855)
 - 2026-08-20 — **E-Space**: [Embedded Software Engineer Intern](https://jobs.lever.co/espace/1e189295-a315-414d-8c0b-686f204e3cb3/apply)
 - 2026-08-20 — **Epic Games**: [Tools Programmer Intern](https://epicgames.com/careers/jobs/6147167004?gh_jid=6147167004)
 - 2026-08-20 — **Fannie Mae**: [Data Science Intern - Analytics & Modeling Program](https://fanniemae.wd1.myworkdayjobs.com/FannieMaeCareers/job/Washington-DC/Campus---Data-Science-Intern--Analytics---Modeling-Program-_JR2815)
@@ -68,7 +69,6 @@ _Generated 2026-08-20_
 - 2026-08-20 — **Wells Fargo**: [Quantitative Analytics Intern - Risk Analytics and Decision Sciences](https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Quantitative-Analytics-Summer-Internship-Risk-Analytics-and-Decision-Sciences--RADS-PhD----Early-Careers_R-569912)
 - 2026-08-20 — **Western Magnetics**: [Software Engineer Intern](https://apply.workable.com/western-magnetics/j/E366930F3F/apply)
 - 2026-08-20 — **Zipline**: [Applications Engineer Intern - Spring 2027](https://www.zipline.com/open-roles?gh_jid=7908677003)
-- 2026-08-19 — **Allegheny County**: [Business Analytics Intern](https://alleghenycounty.bamboohr.com/careers/663/)
 
 ## Recently closed
 
@@ -232,6 +232,7 @@ _Generated 2026-08-20_
 - Picton Mahoney Asset Management — Quantitative Research & Risk Intern
 - Prophet — AI Engineer Intern - AI Foundry & Digital Growth
 - Quantbot Technologies — Software Engineer Intern
+- Redwood Materials — Embedded Software Engineer Intern
 - Renesas Electronics — Digital Design Engineer Intern
 - Revvity — Full-Stack AI Developer Intern
 - Rippling — Full Stack Software Engineer Intern
@@ -254,6 +255,7 @@ _Generated 2026-08-20_
 - RTX — Methods Intern - Hot Section Engineering
 - RTX — Modeling, Simulation & Analysis Intern
 - RTX — Radar Digital Products Engineering Intern
+- RTX — Software Engineer Intern
 - RTX — Software Engineer Intern
 - RTX — Software Engineer Intern
 - RTX — Software Engineer Intern

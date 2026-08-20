@@ -144,7 +144,7 @@
 | [City of Austin](../companies/city-of-austin.md) | 0/3 | research, software-engineering |
 | [City of Manhattan Kansas](../companies/city-of-manhattan-kansas.md) | 1/1 | software-engineering |
 | [Clinical Ink](../companies/clinical-ink.md) | 1/1 | software-engineering |
-| [Cloudflare](../companies/cloudflare.md) | 18/30 | ai, research, software-engineering |
+| [Cloudflare](../companies/cloudflare.md) | 19/31 | ai, research, software-engineering |
 | [Clyde Companies](../companies/clyde-companies.md) | 2/2 | software-engineering |
 | [Cohere](../companies/cohere.md) | 2/3 | machine-learning, research, software-engineering |
 | [Cohesity](../companies/cohesity.md) | 0/1 | software-engineering |
@@ -503,7 +503,7 @@
 | [RLI](../companies/rli.md) | 0/1 | product |
 | [ROCKWOOL Group](../companies/rockwool-group.md) | 0/2 | product, software-engineering |
 | [RRS Group](../companies/rrs-group.md) | 2/2 | software-engineering |
-| [RTX](../companies/rtx.md) | 32/53 | design, machine-learning, software-engineering |
+| [RTX](../companies/rtx.md) | 31/53 | design, machine-learning, software-engineering |
 | [Radix Trading](../companies/radix-trading.md) | 1/1 | quant |
 | [Rainmaker](../companies/rainmaker.md) | 0/1 | software-engineering |
 | [Rakuten International](../companies/rakuten-international.md) | 0/1 | software-engineering |
@@ -511,7 +511,7 @@
 | [RapDev](../companies/rapdev.md) | 0/1 | software-engineering |
 | [Readystate Asset Management](../companies/readystate-asset-management.md) | 1/1 | software-engineering |
 | [Red Bull](../companies/red-bull.md) | 1/1 | data-science |
-| [Redwood Materials](../companies/redwood-materials.md) | 2/2 | embedded, software-engineering |
+| [Redwood Materials](../companies/redwood-materials.md) | 1/2 | embedded, software-engineering |
 | [RegDesk](../companies/regdesk.md) | 1/1 | software-engineering |
 | [Regions Bank](../companies/regions-bank.md) | 1/1 | software-engineering |
 | [Rendezvous Robotics](../companies/rendezvous-robotics.md) | 2/2 | software-engineering |

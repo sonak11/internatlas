@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "rtx-software-engineer-intern-2027-b35a68",
+  "id": "cloudflare-software-engineer-intern-fall-2026-2027-ca02d2",
   "company": {
-    "name": "RTX",
-    "slug": "rtx"
+    "name": "Cloudflare",
+    "slug": "cloudflare",
+    "career_page": "https://www.cloudflare.com/careers"
   },
-  "role": "Software Engineer Intern",
+  "role": "Software Engineer Intern (Fall 2026)",
   "category": "software-engineering",
-  "apply_url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-UT-WEST-VALLEY-CITY-338--1127--1128-w-2400-S--BLDG-338/Software-Engineering-Intern--Summer-2027-_01865952",
+  "apply_url": "https://boards.greenhouse.io/cloudflare/jobs/8118855?gh_jid=8118855",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "West Valley City",
-      "state": "UT",
+      "city": "In-Office",
       "country": "USA"
     }
   ],
@@ -25,9 +25,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -42,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-14",
-    "discovered": "2026-08-15",
+    "posted": "2026-08-20",
+    "discovered": "2026-08-20",
     "last_verified": "2026-08-20"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:ats"
   ]
 }
