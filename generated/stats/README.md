@@ -86,6 +86,7 @@ _Generated 2026-08-20_
 - Arizona State University — Management Intern - Career Data and Analytics
 - Arkema Global — Manufacturing Data Systems Intern
 - Artisan Partners — Data Engineer Intern - Platform & Product
+- Assurant — Digital & AI Transformation Intern 1 - Internship Program
 - Assured Guaranty — Product Software Developer Intern
 - Astranis — Embedded Software Developer – Network/Payload Software Intern
 - Astranis — Reliability Design Intern
@@ -108,11 +109,13 @@ _Generated 2026-08-20_
 - CCC Intelligent Solutions — Data Science Engineer Intern
 - CCC Intelligent Solutions — Data Science Intern - R&D
 - Centerfield — Product Manager Intern
+- Centific — Technical Intern
 - Centific — Technical Intern - Masters or PhD
 - Ciena — Optical Modem Hardware Intern
 - Ciena — Software Engineer Intern
 - Ciena — Software Engineer Intern
 - Ciena — Software Liquid Spectrum Applications Intern
+- Citadel — Investment & Trading Intern
 - City of Austin — Business Intelligence Intern - Business Intelligence
 - City of Austin — Research Analyst Intern
 - Cloudflare — AI Builder Intern - Global Customer Engineering - Service Sales
@@ -156,11 +159,9 @@ _Generated 2026-08-20_
 - Golden Pet Brands — Data Analytics Intern
 - Goldman Sachs — Quantitative Strategist Associate Intern - Asset and Wealth Management
 - Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
 - Goldman Sachs — Summer Analyst Intern - FICC and Equities - Sales and Trading
 - Goldman Sachs — Summer Analyst Intern - FICC & Equities - Sales & Trading
 - Goldman Sachs — Summer Analyst Intern - Wealth Management - Product Management and Design
-- Goldman Sachs — Summer Associate Intern - Multiple Teams
 - Group 1001 — Quantitative Analysis Intern
 - Gulfstream — Computer Science Intern - Advanced Structures and Materials
 - Gumloop — Design Engineer Intern
@@ -172,20 +173,18 @@ _Generated 2026-08-20_
 - IMC Trading — Hardware Machine Learning PhD Research Internship
 - impact.com — Associate Software Engineer Intern
 - Impulse Space — Data Analytics Intern
-- InfiniteQuant — Quantitative Developer Internship - Summer 2027
+- InfiniteQuant — Quantitative Developer Intern - Summer 2027
 - InfiniteQuant — Quantitative Researcher Intern
 - ING — Technology Intern - Innovation
 - Inizio — Data and Analytics Intern
 - Inogen — Firmware Engineer Intern
 - Integra FEC — Data Analyst Intern
 - Intel — AI Software Engineer Intern
-- Intel — Software Development Intern
 - Intuit — Software Engineer Intern
 - Intuitive Surgical — Computer Vision Engineer Intern
 - KBR — Software Intern
 - Keysight Technologies — Software Engineer Intern - R&D - FPGA
 - Kimley-Horn — Software Developer Intern
-- Levi Strauss & Co. — Analytics Intern - eCommerce
 - Louisiana Blue — Operational Reporting & Data Analyst Intern - CW
 - Lumentum — Optical Verification Technician Co-op Intern
 - Lumentum — Optical Verification Technician Intern/Co-op
@@ -258,6 +257,7 @@ _Generated 2026-08-20_
 - RTX — Software Engineer Intern
 - RTX — Software Engineer Intern
 - RTX — Software Engineer Intern
+- RTX — Software Engineer Intern - Summer 2027
 - RTX — Software Engineer Intern - Summer 2027
 - RTX — Software Engineer Intern - Summer 2027
 - RTX — Software Engineer Intern - Summer 2027

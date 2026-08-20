@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🤖 AI Internships
 
-**198** tracked · **135** open now
+**198** tracked · **134** open now
 
 ## Current openings
 
@@ -20,7 +20,6 @@
 | [American Express](generated/companies/american-express.md) | [AI Engineer Intern - Enterprise Technology Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011698) | NYC | Onsite | 2026-08-17 | Rolling | 🟢 Open | ❔ |
 | [American Fidelity](generated/companies/american-fidelity.md) | [Agentic AI Intern](https://americanfidelity.wd5.myworkdayjobs.com/External/job/Oklahoma-City-Oklahoma/IT-Intern-1_JR1016) | Oklahoma City, OK | Onsite | 2026-08-17 | Rolling | 🟢 Open | ❔ |
 | [Argmax](generated/companies/argmax.md) | [On-device AI Frameworks Engineer Intern](https://job-boards.greenhouse.io/argmax/jobs/4067268009) | Palo Alto, CA +1 | Onsite | 2026-07-14 | Rolling | 🟢 Open | ❔ |
-| [Assurant](generated/companies/assurant.md) | [Digital & AI Transformation Intern 1 - Internship Program](https://assurant.wd1.myworkdayjobs.com/External_Limited_Posting/job/Atlanta-GA/Digital---AI-Transformation-Intern-1_R-115203) | Atlanta, GA | Onsite | 2026-08-18 | Rolling | 🟢 Open | ❔ |
 | [Autodesk](generated/companies/autodesk.md) | [AI Developer Intern](https://autodesk.wd1.myworkdayjobs.com/uni/job/Montreal-QC-CAN/Intern--AI-Developer--Stagiaire-en-dveloppement-IA_26WD100523-1) | Montreal | Onsite | 2026-08-19 | Rolling | 🟢 Open | ❔ |
 | [Autodesk](generated/companies/autodesk.md) | [AI Developer Intern - Creative Technology](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Intern--AI-Developer--Stagiaire-en-dveloppement-IA_26WD100523-2) | Montreal | Onsite | 2026-08-19 | Rolling | 🟢 Open | ❔ |
 | [Bild AI](generated/companies/bild-ai.md) | [AI/Software Engineer Intern](https://jobs.ashbyhq.com/bild-ai/b333f0f7-0ca6-4509-8697-9303396b5364/application?embed=true) | SF | Onsite | 2026-07-21 | Rolling | 🟢 Open | ❔ |
@@ -149,6 +148,7 @@
 | [American Enterprise Institute](generated/companies/american-enterprise-institute.md) | [Data Analysis & AI Policy Intern](https://internships-aei.icims.com/jobs/2612/job?mobile=true&needsRedirect=false) | Washington, DC | Onsite | 2026-05-01 | Rolling | 🔴 Closed | ❔ |
 | [Amwins](generated/companies/amwins.md) | [Analytics & AI Intern](https://www.amwins.com/who-we-are/careers/open-positions?gh_jid=4302229009) | Hartford, CT | Onsite | 2026-07-07 | Rolling | 🔴 Closed | ❔ |
 | [Assurant](generated/companies/assurant.md) | [Digital & AI Transformation Intern](https://assurant.wd1.myworkdayjobs.com/External_Limited_Posting/job/Atlanta-GA/Digital---AI-Transformation-Intern_R-114103-3) | Atlanta, GA | Onsite | 2026-07-28 | Rolling | 🔴 Closed | ❔ |
+| [Assurant](generated/companies/assurant.md) | [Digital & AI Transformation Intern 1 - Internship Program](https://assurant.wd1.myworkdayjobs.com/External_Limited_Posting/job/Atlanta-GA/Digital---AI-Transformation-Intern-1_R-115203) | Atlanta, GA | Onsite | 2026-08-18 | Rolling | 🔴 Closed | ❔ |
 | [Bank of Montreal](generated/companies/bank-of-montreal.md) | [Data and AI Operations Analyst Co-op/Internship - Cloud](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Data-and-AI-Operations-Analyst--Cloud---Fall-2026--Co-op-Internship----8-months_R260021724-1) | Toronto | Onsite | 2026-07-28 | Rolling | 🔴 Closed | ❔ |
 | [Bank of Montreal](generated/companies/bank-of-montreal.md) | [Data and AI Operations Analyst Co-op/Internship - Cloud](https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Data-and-AI-Operations-Analyst--Cloud---Fall-2026--Co-op-Internship----8-months_R260021724-2) | Toronto | Onsite | 2026-07-28 | Rolling | 🔴 Closed | ❔ |
 | [Bank of Montreal](generated/companies/bank-of-montreal.md) | [Data and AI Operations Analyst Intern/Co-op - Cloud - 8 months](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Data-and-AI-Operations-Analyst--Cloud---Fall-2026--Co-op-Internship----8-months_R260021724) | Toronto | Onsite | 2026-07-27 | Rolling | 🔴 Closed | ❔ |
@@ -220,7 +220,6 @@
 - Cloudflare (4)
 - Bank of Montreal (3)
 - Intel (3)
-- Assurant (2)
 - Autodesk (2)
 - Booz Allen (2)
 - Bosch (2)
@@ -235,6 +234,7 @@
 - ShyftLabs (2)
 - Tenstorrent (2)
 - The Nuclear Company (2)
+- Assurant (2)
 - Cirrus Logic (2)
 - Rockwell Automation (2)
 - Sargent & Lundy (2)

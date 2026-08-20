@@ -70,7 +70,7 @@
 | [Arrowstreet Capital](../companies/arrowstreet-capital.md) | 2/2 | quant |
 | [Arthur J. Gallagher & Co.](../companies/arthur-j-gallagher-co.md) | 1/1 | software-engineering |
 | [Artisan Partners](../companies/artisan-partners.md) | 0/1 | data-engineering |
-| [Assurant](../companies/assurant.md) | 1/2 | ai |
+| [Assurant](../companies/assurant.md) | 0/2 | ai |
 | [Assured Guaranty](../companies/assured-guaranty.md) | 0/1 | software-engineering |
 | [Astera](../companies/astera.md) | 1/1 | software-engineering |
 | [Astranis](../companies/astranis.md) | 6/11 | design, embedded, hardware, software-engineering |
@@ -128,7 +128,7 @@
 | [Center for AI Safety](../companies/center-for-ai-safety.md) | 0/1 | research |
 | [Centerfield](../companies/centerfield.md) | 1/2 | product, software-engineering |
 | [Centerstone](../companies/centerstone.md) | 1/1 | software-engineering |
-| [Centific](../companies/centific.md) | 2/3 | ai, software-engineering |
+| [Centific](../companies/centific.md) | 1/3 | ai, software-engineering |
 | [Chamberlain Group](../companies/chamberlain-group.md) | 1/1 | product |
 | [Chanel](../companies/chanel.md) | 1/1 | software-engineering |
 | [Chevron Corporation](../companies/chevron-corporation.md) | 4/6 | quant, software-engineering |
@@ -137,7 +137,7 @@
 | [Circle K](../companies/circle-k.md) | 1/1 | software-engineering |
 | [Circleback](../companies/circleback.md) | 1/1 | software-engineering |
 | [Cirrus Logic](../companies/cirrus-logic.md) | 1/3 | ai, embedded |
-| [Citadel](../companies/citadel.md) | 7/7 | data-science, quant, software-engineering |
+| [Citadel](../companies/citadel.md) | 6/7 | data-science, quant, software-engineering |
 | [Citadel Securities](../companies/citadel-securities.md) | 5/5 | hardware, quant, software-engineering |
 | [City of Aurora](../companies/city-of-aurora.md) | 0/1 | software-engineering |
 | [City of Austin](../companies/city-of-austin.md) | 0/3 | research, software-engineering |
@@ -272,7 +272,7 @@
 | [Global Partners](../companies/global-partners.md) | 1/1 | software-engineering |
 | [GoDaddy](../companies/godaddy.md) | 1/1 | software-engineering |
 | [Golden Pet Brands](../companies/golden-pet-brands.md) | 0/1 | software-engineering |
-| [Goldman Sachs](../companies/goldman-sachs.md) | 2/9 | product, quant, software-engineering |
+| [Goldman Sachs](../companies/goldman-sachs.md) | 4/9 | product, quant, software-engineering |
 | [Google](../companies/google.md) | 3/7 | data-science, research, software-engineering |
 | [Grant Thornton](../companies/grant-thornton.md) | 2/2 | software-engineering |
 | [Gritt Robotics Inc](../companies/gritt-robotics-inc.md) | 1/1 | software-engineering |
@@ -325,7 +325,7 @@
 | [Instacart](../companies/instacart.md) | 0/2 | machine-learning |
 | [Integra FEC](../companies/integra-fec.md) | 2/3 | data-science, software-engineering |
 | [Integrity](../companies/integrity.md) | 0/1 | research |
-| [Intel](../companies/intel.md) | 1/5 | ai, design, software-engineering |
+| [Intel](../companies/intel.md) | 2/5 | ai, design, software-engineering |
 | [Intel Corporation](../companies/intel-corporation.md) | 0/1 | ai |
 | [IntelliGenesis](../companies/intelligenesis.md) | 1/1 | data-science |
 | [Interco](../companies/interco.md) | 1/1 | software-engineering |
@@ -358,7 +358,7 @@
 | [Lawrence Livermore National Laboratory (LLNL)](../companies/lawrence-livermore-national-laboratory-llnl.md) | 2/2 | software-engineering |
 | [Leidos](../companies/leidos.md) | 0/1 | software-engineering |
 | [Leland](../companies/leland.md) | 1/1 | ai |
-| [Levi Strauss & Co.](../companies/levi-strauss-co.md) | 0/1 | software-engineering |
+| [Levi Strauss & Co.](../companies/levi-strauss-co.md) | 1/1 | software-engineering |
 | [LexisNexis Risk Solutions](../companies/lexisnexis-risk-solutions.md) | 0/1 | software-engineering |
 | [Light & Wonder](../companies/light-wonder.md) | 0/1 | software-engineering |
 | [Littelfuse](../companies/littelfuse.md) | 0/1 | software-engineering |
@@ -501,7 +501,7 @@
 | [RLI](../companies/rli.md) | 0/1 | product |
 | [ROCKWOOL Group](../companies/rockwool-group.md) | 0/2 | product, software-engineering |
 | [RRS Group](../companies/rrs-group.md) | 2/2 | software-engineering |
-| [RTX](../companies/rtx.md) | 33/52 | design, machine-learning, software-engineering |
+| [RTX](../companies/rtx.md) | 32/52 | design, machine-learning, software-engineering |
 | [Radix Trading](../companies/radix-trading.md) | 1/1 | quant |
 | [Rainmaker](../companies/rainmaker.md) | 0/1 | software-engineering |
 | [Rakuten International](../companies/rakuten-international.md) | 0/1 | software-engineering |
