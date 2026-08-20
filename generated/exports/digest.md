@@ -1,6 +1,6 @@
 # 📬 InternAtlas Weekly Digest — 2026-08-20
 
-## 🆕 New this week (390)
+## 🆕 New this week (392)
 
 - **AARP** — [Data Science and Advanced Analytics Intern](https://careers.aarp.org/jobs/7437?icims=1) · data-science · —
 - **AbbVie** — [Business Technology Solutions Intern - Data & Software Engineering - Undergraduate](https://jobs.smartrecruiters.com/AbbVie/3743990014697918) · software-engineering · —
@@ -388,6 +388,8 @@
 - **Zipline** — [Hardware Test Intern - Summer 2027](https://www.zipline.com/open-roles?gh_jid=7903483003) · hardware · —
 - **Zipline** — [Long Range Platform Embedded Firmware Intern - Summer 2027](https://www.zipline.com/open-roles?gh_jid=7891459003) · embedded · —
 - **Zipline** — [Long Range Platform Hardware Engineering Intern](https://www.zipline.com/open-roles?gh_jid=7891460003) · hardware · —
+- **Zipline** — [Perception Intern - Summer 2027](https://www.zipline.com/open-roles?gh_jid=7909570003) · software-engineering · —
+- **Zipline** — [Software Engineer Intern - Spring 2027](https://www.zipline.com/open-roles?gh_jid=7907191003) · software-engineering · —
 - **Zoomifier** — [Software Development Intern](https://jobs.smartrecruiters.com/CustomShow/75886593) · software-engineering · —
 - **Zuckerman Investment Group** — [Investment Analyst Intern - MBA](https://ats.rippling.com/zuckerman-investment-group/jobs/923b73b8-91a9-430c-9f84-b87014b8bbb3) · software-engineering · —
 - **onsemi** — [Oracle Platform Intern](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506391) · software-engineering · —

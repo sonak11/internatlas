@@ -22,10 +22,10 @@ _Generated 2026-08-20_
 | Neuralink | 21 |
 | Jane Street | 17 |
 | Palantir Technologies | 17 |
+| Zipline | 17 |
 | Microsoft | 16 |
 | Rivian and Volkswagen Group Technologies | 16 |
 | Meta | 15 |
-| Zipline | 15 |
 | Etched | 14 |
 | Virtu Financial | 14 |
 
@@ -33,7 +33,7 @@ _Generated 2026-08-20_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 1119 | `█████████████` |
+| software-engineering | 1121 | `█████████████` |
 | ai | 202 | `██` |
 | quant | 191 | `██` |
 | machine-learning | 137 | `██` |
@@ -328,6 +328,7 @@ _Generated 2026-08-20_
 - Truist Bank — Fixed Income Loans S&T Intern - Sales, Trading & Research - Analyst Program
 - Truist Bank — Technology and Operations Intern Conversion - Data
 - US Acute Care Solutions — People Analytics Intern
+- Valeo — Software Engineer Intern
 - Vanguard — Data Analysis Intern
 - Vanguard — Data Science Intern - College to Corporate IT
 - Vanguard — Data Science Intern - Information Technology

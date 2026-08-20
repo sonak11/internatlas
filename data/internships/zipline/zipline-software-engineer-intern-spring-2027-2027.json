@@ -1,20 +1,19 @@
 {
   "schema_version": "1.0",
-  "id": "valeo-software-engineer-intern-2026",
+  "id": "zipline-software-engineer-intern-spring-2027-2027",
   "company": {
-    "name": "Valeo",
-    "slug": "valeo"
+    "name": "Zipline",
+    "slug": "zipline"
   },
-  "role": "Software Engineer Intern",
+  "role": "Software Engineer Intern - Spring 2027",
   "category": "software-engineering",
-  "apply_url": "https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Troy-MI/Software-Engineer-Intern_REQ2026076575",
-  "season": "fall",
-  "year": 2026,
+  "apply_url": "https://www.zipline.com/open-roles?gh_jid=7907191003",
+  "season": "spring",
+  "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Troy",
-      "state": "MI",
+      "city": "South SF",
       "country": "USA"
     }
   ],
@@ -40,11 +39,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-14",
-    "discovered": "2026-08-15",
+    "posted": "2026-08-20",
+    "discovered": "2026-08-20",
     "last_verified": "2026-08-20"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

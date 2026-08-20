@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 💻 Software Engineering Internships
 
-**1119** tracked · **775** open now
+**1121** tracked · **776** open now
 
 ## Current openings
 
@@ -745,7 +745,6 @@
 | [University System of New Hampshire](generated/companies/university-system-of-new-hampshire.md) | [Robotics Intern](https://usnh.wd5.myworkdayjobs.com/Careers/job/University-of-New-Hampshire--Main-Campus/Research-Intern_JR8972) | Durham, NH | Onsite | 2026-08-11 | Rolling | 🟢 Open | ❔ |
 | [University System of New Hampshire](generated/companies/university-system-of-new-hampshire.md) | [Robotics Intern](https://usnh.wd5.myworkdayjobs.com/Careers/job/University-of-New-Hampshire--Main-Campus/Research-Intern_JR8497) | Durham, NH | Onsite | 2026-08-12 | Rolling | 🟢 Open | ❔ |
 | [Urban Science](generated/companies/urban-science.md) | [Data Driven Analysis Intern - Fall 2026](https://careers-urbanscience.icims.com/jobs/5219/job?mobile=true&needsRedirect=false) | Long Beach, CA | Onsite | 2026-08-14 | Rolling | 🟢 Open | ❔ |
-| [Valeo](generated/companies/valeo.md) | [Software Engineer Intern](https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Troy-MI/Software-Engineer-Intern_REQ2026076575) | Troy, MI | Onsite | 2026-08-14 | Rolling | 🟢 Open | ❔ |
 | [Valstad](generated/companies/valstad.md) | [Robotics Software Intern - Manipulation & Simulation](https://jobs.ashbyhq.com/valstad/8478558b-c5b5-43d2-b9c0-eae7a1fb30d8/application?embed=true) | Austin, TX | Onsite | 2026-08-05 | Rolling | 🟢 Open | ❔ |
 | [Valstad](generated/companies/valstad.md) | [Software Engineer Intern - 3D & Manufacturing Applications](https://jobs.ashbyhq.com/valstad/7ff6d452-969f-43a6-9127-d153025e6aea/application?embed=true) | Austin, TX | Onsite | 2026-08-05 | Rolling | 🟢 Open | ❔ |
 | [Vanguard](generated/companies/vanguard.md) | [Data Analyst Intern - College to Corporate IT](https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Charlotte-NC/College-to-Corporate-IT-Internship---Data-Analyst--NC-_177677-1) | Charlotte, NC | Onsite | 2026-08-17 | Rolling | 🟢 Open | ❔ |
@@ -780,6 +779,8 @@
 | [Zipline](generated/companies/zipline.md) | [Computational Physics Intern - Summer 2027](https://www.zipline.com/open-roles?gh_jid=7904720003) | South SF | Onsite | 2026-08-19 | Rolling | 🟢 Open | ❔ |
 | [Zipline](generated/companies/zipline.md) | [Enterprise Systems Software Engineer Intern - Spring 2027](https://www.zipline.com/open-roles?gh_jid=7893926003) | South SF | Onsite | 2026-08-18 | Rolling | 🟢 Open | ❔ |
 | [Zipline](generated/companies/zipline.md) | [Enterprise Systems Software Engineer Intern - Spring 2027](https://www.zipline.com/open-roles?gh_jid=7886501003) | South SF | Onsite | 2026-08-18 | Rolling | 🟢 Open | ❔ |
+| [Zipline](generated/companies/zipline.md) | [Perception Intern - Summer 2027](https://www.zipline.com/open-roles?gh_jid=7909570003) | South SF | Onsite | 2026-08-20 | Rolling | 🟢 Open | ❔ |
+| [Zipline](generated/companies/zipline.md) | [Software Engineer Intern - Spring 2027](https://www.zipline.com/open-roles?gh_jid=7907191003) | South SF | Onsite | 2026-08-20 | Rolling | 🟢 Open | ❔ |
 | [Zoomifier](generated/companies/zoomifier.md) | [Software Development Intern](https://jobs.smartrecruiters.com/CustomShow/75886593) | NYC | Onsite | 2026-08-18 | Rolling | 🟢 Open | ❔ |
 | [Zuckerman Investment Group](generated/companies/zuckerman-investment-group.md) | [Investment Analyst Intern - MBA](https://ats.rippling.com/zuckerman-investment-group/jobs/923b73b8-91a9-430c-9f84-b87014b8bbb3) | Chicago, IL | Onsite | 2026-08-18 | Rolling | 🟢 Open | ❔ |
 | [Zuru](generated/companies/zuru.md) | [Data Analyst Intern](https://jobs.ashbyhq.com/zuru/750dea66-6f5a-4622-80d6-b6289954d3d0/application?embed=true) | LA | Onsite | 2026-07-21 | Rolling | 🟢 Open | ❔ |
@@ -1105,6 +1106,7 @@
 | [Truland Equipment](generated/companies/truland-equipment.md) | [Power Platform Intern](https://www.trulandequip.com/about-us/careers/?gh_jid=5174621007) | Fort Wayne, IN | Onsite | 2026-06-30 | Rolling | 🔴 Closed | ❔ |
 | [Two Six Technologies](generated/companies/two-six-technologies.md) | [China Subject Matter Expert Intern](https://job-boards.greenhouse.io/twosixtechnologies/jobs/6105290004) | Remote | Remote | 2026-07-02 | Rolling | 🔴 Closed | ❔ |
 | [US Acute Care Solutions](generated/companies/us-acute-care-solutions.md) | [People Analytics Intern](https://usacs.wd1.myworkdayjobs.com/usacscareers/job/Virtual-OH/People-Analytics-Intern_R0002363) | Ohio | Onsite | 2026-08-05 | Rolling | 🔴 Closed | ❔ |
+| [Valeo](generated/companies/valeo.md) | [Software Engineer Intern](https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Troy-MI/Software-Engineer-Intern_REQ2026076575) | Troy, MI | Onsite | 2026-08-14 | Rolling | 🔴 Closed | ❔ |
 | [Vanguard](generated/companies/vanguard.md) | [Data Analysis Intern](https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship---Data-Analysis--PA-_177679-1) | Malvern, PA | Onsite | 2026-08-17 | Rolling | 🔴 Closed | ❔ |
 | [Varda Space](generated/companies/varda-space.md) | [Mission Software – Intern - Python](https://job-boards.greenhouse.io/vardaspace/jobs/7676465003) | El Segundo, CA | Onsite | 2026-03-24 | Rolling | 🔴 Closed | ❔ |
 | [Vega Investment Technologies](generated/companies/vega-investment-technologies.md) | [Product Operations Intern](https://jobs.ashbyhq.com/vega/ebce385f-d4d3-4a39-a999-e048877a81e4/application?embed=true) | London | Onsite | 2026-07-20 | Rolling | 🔴 Closed | ❔ |
@@ -1136,13 +1138,13 @@
 - Cloudflare (23)
 - American Express (16)
 - ByteDance (14)
+- Zipline (12)
 - Copart (11)
 - Rivian and Volkswagen Group Technologies (11)
 - National Laboratory of the Rockies (10)
 - NVIDIA (10)
 - Palantir (10)
 - Palantir Technologies (10)
-- Zipline (10)
 - Capital One (9)
 - Notion (9)
 - Etched (8)
@@ -1523,7 +1525,6 @@
 - University of Texas at Austin (1)
 - University of Virginia Investment Management Company (UVIMCO) (1)
 - Urban Science (1)
-- Valeo (1)
 - Veeam Software (1)
 - Vendelux (1)
 - Verition Fund Management (1)
@@ -1639,6 +1640,7 @@
 - Truland Equipment (1)
 - Two Six Technologies (1)
 - US Acute Care Solutions (1)
+- Valeo (1)
 - Vega Investment Technologies (1)
 - Verkada (1)
 - Viavi Solutions (1)

@@ -1,20 +1,19 @@
 {
   "schema_version": "1.0",
-  "id": "valeo-software-engineer-intern-2026",
+  "id": "zipline-perception-intern-summer-2027-2027",
   "company": {
-    "name": "Valeo",
-    "slug": "valeo"
+    "name": "Zipline",
+    "slug": "zipline"
   },
-  "role": "Software Engineer Intern",
+  "role": "Perception Intern - Summer 2027",
   "category": "software-engineering",
-  "apply_url": "https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Troy-MI/Software-Engineer-Intern_REQ2026076575",
-  "season": "fall",
-  "year": 2026,
+  "apply_url": "https://www.zipline.com/open-roles?gh_jid=7909570003",
+  "season": "summer",
+  "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Troy",
-      "state": "MI",
+      "city": "South SF",
       "country": "USA"
     }
   ],
@@ -25,7 +24,10 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "masters",
+      "phd"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -40,11 +42,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-14",
-    "discovered": "2026-08-15",
+    "posted": "2026-08-20",
+    "discovered": "2026-08-20",
     "last_verified": "2026-08-20"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

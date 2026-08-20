@@ -662,7 +662,7 @@
 | [Urban Science](../companies/urban-science.md) | 1/1 | software-engineering |
 | [VITAL LYFE](../companies/vital-lyfe.md) | 1/1 | software-engineering |
 | [VWH Capital Management](../companies/vwh-capital-management.md) | 1/1 | quant |
-| [Valeo](../companies/valeo.md) | 1/1 | software-engineering |
+| [Valeo](../companies/valeo.md) | 0/1 | software-engineering |
 | [Valstad](../companies/valstad.md) | 2/2 | software-engineering |
 | [Vanguard](../companies/vanguard.md) | 1/4 | data-science, software-engineering |
 | [Varda Space](../companies/varda-space.md) | 2/3 | software-engineering |
@@ -704,7 +704,7 @@
 | [Yotta Labs](../companies/yotta-labs.md) | 2/2 | ai, research |
 | [ZGF Architects](../companies/zgf-architects.md) | 0/1 | software-engineering |
 | [Zello](../companies/zello.md) | 1/1 | software-engineering |
-| [Zipline](../companies/zipline.md) | 8/15 | embedded, hardware, software-engineering |
+| [Zipline](../companies/zipline.md) | 10/17 | embedded, hardware, software-engineering |
 | [Zoomifier](../companies/zoomifier.md) | 1/1 | software-engineering |
 | [Zuckerman Investment Group](../companies/zuckerman-investment-group.md) | 1/1 | software-engineering |
 | [Zurich Insurance](../companies/zurich-insurance.md) | 0/1 | ai |
