@@ -1,19 +1,19 @@
 {
   "schema_version": "1.0",
-  "id": "analytical-mechanics-associates-research-scientist-intern-2026",
+  "id": "abundant-member-of-technical-staff-intern-research-2027",
   "company": {
-    "name": "Analytical Mechanics Associates",
-    "slug": "analytical-mechanics-associates"
+    "name": "Abundant",
+    "slug": "abundant"
   },
-  "role": "Research Scientist Intern",
+  "role": "Member of Technical Staff Intern - Research",
   "category": "research",
-  "apply_url": "https://amainc.wd12.myworkdayjobs.com/ama_careers/job/Remote---New-Jersey/Graduate-Research-Scientist-intern_R-100717-1",
-  "season": "fall",
-  "year": 2026,
+  "apply_url": "https://jobs.ashbyhq.com/abundant/1ebf7fda-c322-404d-acc3-2757bbd79996/application?embed=true",
+  "season": "winter",
+  "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "New Jersey",
+      "city": "SF",
       "country": "USA"
     }
   ],
@@ -39,11 +39,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-13",
-    "discovered": "2026-08-13",
+    "posted": "2026-08-20",
+    "discovered": "2026-08-20",
     "last_verified": "2026-08-20"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

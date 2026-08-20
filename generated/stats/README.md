@@ -37,7 +37,7 @@ _Generated 2026-08-20_
 | ai | 198 | `██` |
 | quant | 188 | `██` |
 | machine-learning | 135 | `██` |
-| research | 104 | `█` |
+| research | 105 | `█` |
 | hardware | 90 | `█` |
 | product | 57 | `█` |
 | embedded | 50 | `█` |
@@ -49,6 +49,7 @@ _Generated 2026-08-20_
 
 ## Newest listings
 
+- 2026-08-20 — **Abundant**: [Member of Technical Staff Intern - Research](https://jobs.ashbyhq.com/abundant/1ebf7fda-c322-404d-acc3-2757bbd79996/application?embed=true)
 - 2026-08-20 — **Epic Games**: [Tools Programmer Intern](https://epicgames.com/careers/jobs/6147167004?gh_jid=6147167004)
 - 2026-08-20 — **General Matter**: [Software Engineering Intern](https://job-boards.greenhouse.io/generalmatter/jobs/5377118008)
 - 2026-08-20 — **Notion**: [Data Science Intern](https://jobs.ashbyhq.com/notion/a67d6f2b-7c13-41d0-b36b-b2f662c9873e/application?embed=true)
@@ -68,7 +69,6 @@ _Generated 2026-08-20_
 - 2026-08-19 — **Centific**: [Technical Intern](https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Remote-Work-USA/Technical-Intern--Masters-or-PhD-_JR108144-1)
 - 2026-08-19 — **Citadel Securities**: [Fundamental Analyst Intern](https://www.citadelsecurities.com/careers/details/trading-fundamental-analyst-intern-us/)
 - 2026-08-19 — **Copart**: [Data Engineer Intern](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Data-Engineering-Intern_JR110617)
-- 2026-08-19 — **Detroit Lions**: [Quantitative Research Intern](https://job-boards.greenhouse.io/detroitlions/jobs/4723291005)
 
 ## Recently closed
 
@@ -81,6 +81,7 @@ _Generated 2026-08-20_
 - Amentum — Spaceflight Hardware Intern
 - American Enterprise Institute — Intern
 - Analytical Mechanics Associates — Computer Science/Engineering Intern - Computer Vision Applications
+- Analytical Mechanics Associates — Research Scientist Intern
 - Arevon — Data Science Intern - Interconnection & Transmission
 - Arizona State University — Management Intern - Career Data and Analytics
 - Arkema Global — Manufacturing Data Systems Intern
@@ -166,6 +167,7 @@ _Generated 2026-08-20_
 - Harris Central Appraisal District — GIS Intern
 - Harris Computer — Software Development Intern
 - Hershey — Product Development Intern - R&D
+- Hitachi — Data Center Optimization Intern
 - Horizon Industries — Appian Intern
 - IMC Trading — Hardware Machine Learning PhD Research Internship
 - impact.com — Associate Software Engineer Intern
@@ -184,6 +186,7 @@ _Generated 2026-08-20_
 - Louisiana Blue — Operational Reporting & Data Analyst Intern - CW
 - Lumentum — Optical Verification Technician Co-op Intern
 - Lumentum — Optical Verification Technician Intern/Co-op
+- Magnera — Data Analyst Intern - Information Technology
 - MaxLinear — AI Intern
 - McKesson — Software Developer Intern - Digital and Enterprise Technology
 - McKesson — Technology Intern
@@ -248,6 +251,7 @@ _Generated 2026-08-20_
 - RTX — Software Engineer Intern
 - RTX — Software Engineer Intern
 - RTX — Software Engineer Intern
+- RTX — Software Engineer Intern
 - RTX — Software Engineer Intern - Summer 2027
 - RTX — Software Engineer Intern - Summer 2027
 - RTX — Software Engineer Intern - Summer 2027
@@ -263,6 +267,7 @@ _Generated 2026-08-20_
 - Schweitzer Engineering Laboratories — Test Engineer Intern
 - Sentry — Software Engineer Intern - Summer 2027
 - Signify — Product Management Intern
+- Snorkel AI — AI Researcher Intern
 - Sony Music Entertainment — Insight & Analytics Intern
 - Sony Pictures Entertainment — Graduate Intern - Advanced Technologies
 - Sony Pictures Entertainment — Insights Intern - Multiple Teams
