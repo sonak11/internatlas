@@ -1,6 +1,6 @@
 {
   "generated": "2026-08-20",
-  "count": 2086,
+  "count": 2087,
   "internships": [
     {
       "schema_version": "1.0",
@@ -22491,7 +22491,7 @@
         "discovered": "2026-07-18",
         "last_verified": "2026-08-20"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:ats"
@@ -63917,7 +63917,7 @@
         "discovered": "2026-08-19",
         "last_verified": "2026-08-20"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -76517,7 +76517,7 @@
         "discovered": "2026-08-11",
         "last_verified": "2026-08-20"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -77370,7 +77370,7 @@
         "discovered": "2026-08-18",
         "last_verified": "2026-08-20"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -78128,7 +78128,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "rtx-software-engineering-intern-2027",
+      "id": "rtx-software-engineering-intern-2027-f059af",
       "company": {
         "name": "RTX",
         "slug": "rtx"
@@ -78143,6 +78143,58 @@
         {
           "city": "Cambridge",
           "state": "MA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-18",
+        "discovered": "2026-08-20",
+        "last_verified": "2026-08-20"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "rtx-software-engineering-intern-2027",
+      "company": {
+        "name": "RTX",
+        "slug": "rtx"
+      },
+      "role": "Software Engineering Intern",
+      "category": "software-engineering",
+      "apply_url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineering-Intern--Summer-2027-_01866777",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Tucson",
+          "state": "AZ",
           "country": "USA"
         }
       ],
@@ -78170,7 +78222,7 @@
         "resume_keywords": []
       },
       "dates": {
-        "posted": "2026-08-18",
+        "posted": "2026-08-14",
         "discovered": "2026-08-11",
         "last_verified": "2026-08-20"
       },

@@ -11,7 +11,7 @@ _Generated 2026-08-20_
 | TikTok | 140 |
 | Tesla | 110 |
 | ByteDance | 54 |
-| RTX | 51 |
+| RTX | 52 |
 | Jump Trading | 43 |
 | Cloudflare | 30 |
 | NVIDIA | 30 |
@@ -33,7 +33,7 @@ _Generated 2026-08-20_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 1099 | `█████████████` |
+| software-engineering | 1100 | `█████████████` |
 | ai | 198 | `██` |
 | quant | 190 | `██` |
 | machine-learning | 137 | `██` |
@@ -124,6 +124,7 @@ _Generated 2026-08-20_
 - Cloudflare — Customer Advocacy Intern (Fall 2026)
 - Cloudflare — Marketing Programs and Analytics Intern
 - Cloudflare — Marketing Programs and Analytics Intern (Fall 2026)
+- Cloudflare — Professional Services Intern – Global Customer Services (Fall 2026)
 - Cloudflare — Technical Marketing Intern (Fall 2026)
 - Cloudflare — U.S. Public Policy and AI Innovation Intern (Fall 2026)
 - CNO Financial Group — Artificial Intelligence Information Technology Intern - AI
@@ -218,6 +219,7 @@ _Generated 2026-08-20_
 - Nokia — Electromechanical Assembly Co-op Intern - Intern
 - Nokia — Hardware Developer Engineer Co-op/Intern
 - NVIDIA — Computer Architecture Intern
+- NVIDIA — Ph.D. Research Autonomous Vehicles Intern
 - Otter Products — Artificial Intelligence Intern
 - Palantir — Forward Deployed Software Engineer Intern
 - PEAK6 — Trading Bootcamp Micro-Internship - Summer 2027
@@ -251,13 +253,13 @@ _Generated 2026-08-20_
 - RTX — Methods Intern - Hot Section Engineering
 - RTX — Modeling, Simulation & Analysis Intern
 - RTX — Radar Digital Products Engineering Intern
+- RTX — Software Development Intern - Summer 2027
 - RTX — Software Engineer Intern
 - RTX — Software Engineer Intern
 - RTX — Software Engineer Intern
 - RTX — Software Engineer Intern
 - RTX — Software Engineer Intern
 - RTX — Software Engineer Intern
-- RTX — Software Engineer Intern - Spring 2027
 - RTX — Software Engineer Intern - Summer 2027
 - RTX — Software Engineer Intern - Summer 2027
 - RTX — Software Engineer Intern - Summer 2027
