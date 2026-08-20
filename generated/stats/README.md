@@ -11,7 +11,7 @@ _Generated 2026-08-20_
 | TikTok | 140 |
 | Tesla | 110 |
 | ByteDance | 54 |
-| RTX | 52 |
+| RTX | 53 |
 | Jump Trading | 43 |
 | Cloudflare | 30 |
 | NVIDIA | 30 |
@@ -33,27 +33,30 @@ _Generated 2026-08-20_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 1100 | `█████████████` |
+| software-engineering | 1102 | `█████████████` |
 | ai | 198 | `██` |
 | quant | 190 | `██` |
 | machine-learning | 137 | `██` |
 | research | 105 | `█` |
 | hardware | 90 | `█` |
-| product | 57 | `█` |
+| product | 59 | `█` |
 | embedded | 51 | `█` |
 | cloud | 42 | `█` |
 | design | 42 | `█` |
-| data-science | 39 | `█` |
+| data-science | 40 | `█` |
 | data-engineering | 23 | `█` |
 | security | 13 | `█` |
 
 ## Newest listings
 
+- 2026-08-20 — **AbbVie**: [Business Technology Solutions Intern - Data & Software Engineering - Undergraduate](https://jobs.smartrecruiters.com/AbbVie/3743990014697918)
 - 2026-08-20 — **Abundant**: [Member of Technical Staff Intern - Research](https://jobs.ashbyhq.com/abundant/1ebf7fda-c322-404d-acc3-2757bbd79996/application?embed=true)
 - 2026-08-20 — **E-Space**: [Embedded Software Engineer Intern](https://jobs.lever.co/espace/1e189295-a315-414d-8c0b-686f204e3cb3/apply)
 - 2026-08-20 — **Epic Games**: [Tools Programmer Intern](https://epicgames.com/careers/jobs/6147167004?gh_jid=6147167004)
+- 2026-08-20 — **Fannie Mae**: [Data Science Intern - Analytics & Modeling Program](https://fanniemae.wd1.myworkdayjobs.com/FannieMaeCareers/job/Washington-DC/Campus---Data-Science-Intern--Analytics---Modeling-Program-_JR2815)
 - 2026-08-20 — **General Matter**: [Software Engineering Intern](https://job-boards.greenhouse.io/generalmatter/jobs/5377118008)
 - 2026-08-20 — **Notion**: [Data Science Intern](https://jobs.ashbyhq.com/notion/a67d6f2b-7c13-41d0-b36b-b2f662c9873e/application?embed=true)
+- 2026-08-20 — **RTX**: [Software Development Intern](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Development-Intern--Summer-2027-_01867943)
 - 2026-08-20 — **TikTok**: [Machine Learning Engineer Intern](https://lifeattiktok.com/search/7675847556668295429)
 - 2026-08-20 — **TikTok**: [Machine Learning Engineer Intern - E-Commerce Supply Chain & Logistics-LLM/Agent - PhD](https://lifeattiktok.com/search/7675845333947812149)
 - 2026-08-20 — **TikTok**: [Software Engineer Intern - Recommendation Architecture - Feeds Infrastructure](https://lifeattiktok.com/search/7672930401597671733)
@@ -66,9 +69,6 @@ _Generated 2026-08-20_
 - 2026-08-19 — **Allegheny County**: [Business Analytics Intern](https://alleghenycounty.bamboohr.com/careers/663/)
 - 2026-08-19 — **Autodesk**: [AI Developer Intern](https://autodesk.wd1.myworkdayjobs.com/uni/job/Montreal-QC-CAN/Intern--AI-Developer--Stagiaire-en-dveloppement-IA_26WD100523-1)
 - 2026-08-19 — **Autodesk**: [AI Developer Intern - Creative Technology](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Intern--AI-Developer--Stagiaire-en-dveloppement-IA_26WD100523-2)
-- 2026-08-19 — **Bank of Montreal**: [Workforce Analyst Co-op Intern](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Workforce-Analyst--Winter-2027--Co-op-Internship----8-Months_R260024513)
-- 2026-08-19 — **Bosch Home Comfort**: [Electrochemistry Modeling Intern](https://jobs.smartrecruiters.com/BoschGroup/744000144370279)
-- 2026-08-19 — **ByteDance**: [Machine Learning Engineer Intern - E-Commerce Risk Control - PhD](https://jobs.bytedance.com/en/position/7675478684795881781/detail)
 
 ## Recently closed
 
@@ -115,7 +115,6 @@ _Generated 2026-08-20_
 - Ciena — Software Engineer Intern
 - Ciena — Software Engineer Intern
 - Ciena — Software Liquid Spectrum Applications Intern
-- Citadel — Investment & Trading Intern
 - City of Austin — Business Intelligence Intern - Business Intelligence
 - City of Austin — Research Analyst Intern
 - Cloudflare — AI Builder Intern - Global Customer Engineering - Service Sales
@@ -158,9 +157,12 @@ _Generated 2026-08-20_
 - General Motors — Research and Development Intern - Research & Development: AI/ML
 - Global Infrastructure — Alternative Delivery Project Analytics Intern
 - Golden Pet Brands — Data Analytics Intern
-- Goldman Sachs — Summer Analyst Intern - FICC and Equities - Sales and Trading
-- Goldman Sachs — Summer Analyst Intern - FICC & Equities - Sales & Trading
-- Goldman Sachs — Summer Analyst Intern - Wealth Management - Product Management and Design
+- Goldman Sachs — Quantitative Strategist Associate Intern - Asset and Wealth Management
+- Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
+- Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
+- Goldman Sachs — Summer Associate Intern - Multiple Teams
 - Group 1001 — Quantitative Analysis Intern
 - Gulfstream — Computer Science Intern - Advanced Structures and Materials
 - Gumloop — Design Engineer Intern
@@ -191,7 +193,6 @@ _Generated 2026-08-20_
 - Magnera — Data Analyst Intern - Information Technology
 - MaxLinear — AI Intern
 - McKesson — Software Developer Intern - Digital and Enterprise Technology
-- McKesson — Technology Intern
 - Meta — Research Scientist Intern - Monetization Computer Vision
 - Metropolitan Transportation Authority — Data Analyst Intern
 - Metropolitan Transportation Authority — Data Analyst Intern - Power - Emerging Talent
@@ -219,7 +220,6 @@ _Generated 2026-08-20_
 - Nokia — Electromechanical Assembly Co-op Intern - Intern
 - Nokia — Hardware Developer Engineer Co-op/Intern
 - NVIDIA — Computer Architecture Intern
-- NVIDIA — Ph.D. Research Autonomous Vehicles Intern
 - Otter Products — Artificial Intelligence Intern
 - Palantir — Forward Deployed Software Engineer Intern
 - PEAK6 — Trading Bootcamp Micro-Internship - Summer 2027
@@ -247,13 +247,13 @@ _Generated 2026-08-20_
 - Rockwell Automation — Firmware Engineering Intern
 - ROCKWOOL Group — Paint & Coating Intern
 - Royal Bank of Canada — Relationship Manager Commercial Markets Intern
+- RTX — Electrical Engineering Intern
 - RTX — Enterprise Extended Reality Intern
 - RTX — Machine Learning Researcher Intern/Co-op
 - RTX — Manufacturing & Quality Analyst Intern
 - RTX — Methods Intern - Hot Section Engineering
 - RTX — Modeling, Simulation & Analysis Intern
 - RTX — Radar Digital Products Engineering Intern
-- RTX — Software Development Intern - Summer 2027
 - RTX — Software Engineer Intern
 - RTX — Software Engineer Intern
 - RTX — Software Engineer Intern

@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "nvidia-ph-d-research-autonomous-vehicles-intern-2027",
+  "id": "rtx-software-development-intern-2027",
   "company": {
-    "name": "NVIDIA",
-    "slug": "nvidia"
+    "name": "RTX",
+    "slug": "rtx"
   },
-  "role": "Ph.D. Research Autonomous Vehicles Intern",
-  "category": "research",
-  "apply_url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Autonomous-Vehicles_JR2023838",
+  "role": "Software Development Intern",
+  "category": "software-engineering",
+  "apply_url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Development-Intern--Summer-2027-_01867943",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Santa Clara",
-      "state": "CA",
+      "city": "Tewksbury",
+      "state": "MA",
       "country": "USA"
     }
   ],
@@ -26,7 +26,7 @@
   "eligibility": {
     "graduation_years": [],
     "degree_levels": [
-      "phd"
+      "masters"
     ],
     "citizenship_required": false,
     "security_clearance_required": false,
@@ -42,8 +42,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-19",
-    "discovered": "2026-08-19",
+    "posted": "2026-08-20",
+    "discovered": "2026-08-20",
     "last_verified": "2026-08-20"
   },
   "status": "open",

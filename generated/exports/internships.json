@@ -1,6 +1,6 @@
 {
   "generated": "2026-08-20",
-  "count": 2087,
+  "count": 2092,
   "internships": [
     {
       "schema_version": "1.0",
@@ -218,6 +218,58 @@
       "tags": [
         "auto-ingested",
         "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "abbvie-business-technology-solutions-intern-data-software-engineeri-2027",
+      "company": {
+        "name": "AbbVie",
+        "slug": "abbvie"
+      },
+      "role": "Business Technology Solutions Intern - Data & Software Engineering - Undergraduate",
+      "category": "software-engineering",
+      "apply_url": "https://jobs.smartrecruiters.com/AbbVie/3743990014697918",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "North Chicago",
+          "state": "IL",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-20",
+        "discovered": "2026-08-20",
+        "last_verified": "2026-08-20"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
       ]
     },
     {
@@ -20782,7 +20834,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-20"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -31967,6 +32019,60 @@
     },
     {
       "schema_version": "1.0",
+      "id": "fannie-mae-data-science-intern-analytics-modeling-program-2027",
+      "company": {
+        "name": "Fannie Mae",
+        "slug": "fannie-mae"
+      },
+      "role": "Data Science Intern - Analytics & Modeling Program",
+      "category": "data-science",
+      "apply_url": "https://fanniemae.wd1.myworkdayjobs.com/FannieMaeCareers/job/Washington-DC/Campus---Data-Science-Intern--Analytics---Modeling-Program-_JR2815",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Washington",
+          "state": "DC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-20",
+        "discovered": "2026-08-20",
+        "last_verified": "2026-08-20"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "fast-enterprises-implementation-intern-2027",
       "company": {
         "name": "FAST Enterprises",
@@ -36719,6 +36825,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "goldman-sachs-awm-product-management-analyst-intern-2027",
+      "company": {
+        "name": "Goldman Sachs",
+        "slug": "goldman-sachs"
+      },
+      "role": "AWM Product Management Analyst Intern",
+      "category": "product",
+      "apply_url": "https://higher.gs.com/roles/171513?type=students",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Dallas",
+          "state": "TX",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-19",
+        "discovered": "2026-08-20",
+        "last_verified": "2026-08-20"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "goldman-sachs-quantitative-strategist-associate-intern-asset-and-wealth-ma-2027",
       "company": {
         "name": "Goldman Sachs",
@@ -36764,7 +36922,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-08-20"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -36817,7 +36975,7 @@
         "discovered": "2026-08-18",
         "last_verified": "2026-08-20"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -36870,7 +37028,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-08-20"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -36921,7 +37079,7 @@
         "discovered": "2026-08-20",
         "last_verified": "2026-08-20"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -36970,6 +37128,59 @@
       "dates": {
         "posted": "2026-08-15",
         "discovered": "2026-08-15",
+        "last_verified": "2026-08-20"
+      },
+      "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "goldman-sachs-summer-analyst-intern-americas-awm-product-management-2027",
+      "company": {
+        "name": "Goldman Sachs",
+        "slug": "goldman-sachs"
+      },
+      "role": "Summer Analyst Intern - Americas - AWM Product Management",
+      "category": "product",
+      "apply_url": "https://higher.gs.com/roles/182389?type=students",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "NYC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-19",
+        "discovered": "2026-08-20",
         "last_verified": "2026-08-20"
       },
       "status": "open",
@@ -37026,7 +37237,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-08-20"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -37077,7 +37288,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-08-20"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -37128,7 +37339,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-08-20"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -37181,7 +37392,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-08-20"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -52573,9 +52784,9 @@
       "dates": {
         "posted": "2026-08-10",
         "discovered": "2026-08-10",
-        "last_verified": "2026-08-17"
+        "last_verified": "2026-08-20"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -63917,7 +64128,7 @@
         "discovered": "2026-08-19",
         "last_verified": "2026-08-20"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -75987,7 +76198,7 @@
         "discovered": "2026-08-19",
         "last_verified": "2026-08-20"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -76471,6 +76682,60 @@
     },
     {
       "schema_version": "1.0",
+      "id": "rtx-software-development-intern-2027",
+      "company": {
+        "name": "RTX",
+        "slug": "rtx"
+      },
+      "role": "Software Development Intern",
+      "category": "software-engineering",
+      "apply_url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Development-Intern--Summer-2027-_01867943",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Tewksbury",
+          "state": "MA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-20",
+        "discovered": "2026-08-20",
+        "last_verified": "2026-08-20"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "rtx-software-development-intern-summer-2027-2027",
       "company": {
         "name": "RTX",
@@ -76517,7 +76782,7 @@
         "discovered": "2026-08-11",
         "last_verified": "2026-08-20"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"

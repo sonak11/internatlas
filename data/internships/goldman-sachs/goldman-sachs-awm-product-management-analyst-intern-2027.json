@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "nvidia-ph-d-research-autonomous-vehicles-intern-2027",
+  "id": "goldman-sachs-awm-product-management-analyst-intern-2027",
   "company": {
-    "name": "NVIDIA",
-    "slug": "nvidia"
+    "name": "Goldman Sachs",
+    "slug": "goldman-sachs"
   },
-  "role": "Ph.D. Research Autonomous Vehicles Intern",
-  "category": "research",
-  "apply_url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Autonomous-Vehicles_JR2023838",
+  "role": "AWM Product Management Analyst Intern",
+  "category": "product",
+  "apply_url": "https://higher.gs.com/roles/171513?type=students",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Santa Clara",
-      "state": "CA",
+      "city": "Dallas",
+      "state": "TX",
       "country": "USA"
     }
   ],
@@ -25,9 +25,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "phd"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -43,7 +41,7 @@
   },
   "dates": {
     "posted": "2026-08-19",
-    "discovered": "2026-08-19",
+    "discovered": "2026-08-20",
     "last_verified": "2026-08-20"
   },
   "status": "open",

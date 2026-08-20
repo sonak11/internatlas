@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "nvidia-ph-d-research-autonomous-vehicles-intern-2027",
+  "id": "fannie-mae-data-science-intern-analytics-modeling-program-2027",
   "company": {
-    "name": "NVIDIA",
-    "slug": "nvidia"
+    "name": "Fannie Mae",
+    "slug": "fannie-mae"
   },
-  "role": "Ph.D. Research Autonomous Vehicles Intern",
-  "category": "research",
-  "apply_url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Autonomous-Vehicles_JR2023838",
+  "role": "Data Science Intern - Analytics & Modeling Program",
+  "category": "data-science",
+  "apply_url": "https://fanniemae.wd1.myworkdayjobs.com/FannieMaeCareers/job/Washington-DC/Campus---Data-Science-Intern--Analytics---Modeling-Program-_JR2815",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Santa Clara",
-      "state": "CA",
+      "city": "Washington",
+      "state": "DC",
       "country": "USA"
     }
   ],
@@ -26,7 +26,7 @@
   "eligibility": {
     "graduation_years": [],
     "degree_levels": [
-      "phd"
+      "masters"
     ],
     "citizenship_required": false,
     "security_clearance_required": false,
@@ -42,8 +42,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-19",
-    "discovered": "2026-08-19",
+    "posted": "2026-08-20",
+    "discovered": "2026-08-20",
     "last_verified": "2026-08-20"
   },
   "status": "open",
