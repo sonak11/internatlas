@@ -9,11 +9,11 @@ _Generated 2026-08-20_
 | Company | Listings |
 |---|---|
 | TikTok | 140 |
-| Tesla | 109 |
+| Tesla | 110 |
+| RTX | 55 |
 | ByteDance | 54 |
-| RTX | 53 |
 | Jump Trading | 43 |
-| Cloudflare | 31 |
+| Cloudflare | 32 |
 | NVIDIA | 30 |
 | American Express | 28 |
 | SpaceX | 25 |
@@ -33,42 +33,42 @@ _Generated 2026-08-20_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 1106 | `█████████████` |
-| ai | 198 | `██` |
-| quant | 190 | `██` |
+| software-engineering | 1119 | `█████████████` |
+| ai | 202 | `██` |
+| quant | 191 | `██` |
 | machine-learning | 137 | `██` |
-| research | 105 | `█` |
+| research | 106 | `█` |
 | hardware | 90 | `█` |
 | product | 59 | `█` |
 | embedded | 51 | `█` |
 | cloud | 42 | `█` |
 | design | 41 | `█` |
 | data-science | 40 | `█` |
-| data-engineering | 23 | `█` |
+| data-engineering | 24 | `█` |
 | security | 13 | `█` |
 
 ## Newest listings
 
 - 2026-08-20 — **AbbVie**: [Business Technology Solutions Intern - Data & Software Engineering - Undergraduate](https://jobs.smartrecruiters.com/AbbVie/3743990014697918)
 - 2026-08-20 — **Abundant**: [Member of Technical Staff Intern - Research](https://jobs.ashbyhq.com/abundant/1ebf7fda-c322-404d-acc3-2757bbd79996/application?embed=true)
+- 2026-08-20 — **Catalist**: [Data Services Intern](https://jobs.lever.co/catalist/4300e9ab-5f6f-4b9a-8ad6-8282a34e7dec/apply)
+- 2026-08-20 — **Cloudflare**: [Software Engineer Intern - Fall 2026](https://boards.greenhouse.io/cloudflare/jobs/8118855)
 - 2026-08-20 — **Cloudflare**: [Software Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8118855?gh_jid=8118855)
+- 2026-08-20 — **CNO Financial Group**: [Reporting Analyst Intern](https://cnoinc.wd5.myworkdayjobs.com/Careers/job/Carmel-IN/Summer-2027-Reporting-Analyst-Intern-2027---REMOTE-from-any-US-based-location_JR170455)
+- 2026-08-20 — **Devon Energy**: [Technology Intern - Data Engineering](https://wd5.myworkdaysite.com/en-US/recruiting/devonenergy/Careers/job/Oklahoma-City-OK/Technology-Summer-Intern-2027_R26264-1)
 - 2026-08-20 — **E-Space**: [Embedded Software Engineer Intern](https://jobs.lever.co/espace/1e189295-a315-414d-8c0b-686f204e3cb3/apply)
+- 2026-08-20 — **Epic Games**: [Engine Programmer Intern - Unreal Engine](https://epicgames.com/careers/jobs/6147283004?gh_jid=6147283004)
 - 2026-08-20 — **Epic Games**: [Tools Programmer Intern](https://epicgames.com/careers/jobs/6147167004?gh_jid=6147167004)
+- 2026-08-20 — **Eversource Energy**: [Asset Management Technology Engineer Intern - Fall 2026](https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/Hartford-CT/Asset-Management-Technology--Engineering-Intern--Fall-2026-_R-031600)
+- 2026-08-20 — **Excellus BCBS**: [College Intern - AI Engineering](https://lthc.wd1.myworkdayjobs.com/en-US/ExcellusBCBSCareers/job/Rochester/College-Intern---AI-Engineering---Fall-2026--Multiple-Openings-_JR103879-2)
+- 2026-08-20 — **Excellus BCBS**: [Software Engineering Intern - Multiple Openings](https://lthc.wd1.myworkdayjobs.com/en-US/ExcellusBCBSCareers/job/Rochester/College-Intern---Software-Engineering---Fall-2026--Multiple-Openings-_JR103878-2)
 - 2026-08-20 — **Fannie Mae**: [Data Science Intern - Analytics & Modeling Program](https://fanniemae.wd1.myworkdayjobs.com/FannieMaeCareers/job/Washington-DC/Campus---Data-Science-Intern--Analytics---Modeling-Program-_JR2815)
+- 2026-08-20 — **Framatome**: [Computer Science Engineer Intern Co-op - Univ/Co-op Technical](https://careers-framatome.icims.com/jobs/3295/job?mobile=true&needsRedirect=false)
 - 2026-08-20 — **Freeform**: [Materials Engineer Intern](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7907965003)
 - 2026-08-20 — **General Matter**: [Software Engineering Intern](https://job-boards.greenhouse.io/generalmatter/jobs/5377118008)
-- 2026-08-20 — **Notion**: [Data Science Intern](https://jobs.ashbyhq.com/notion/a67d6f2b-7c13-41d0-b36b-b2f662c9873e/application?embed=true)
-- 2026-08-20 — **Pivot Robotics**: [Robot Operator Internship](https://jobs.ashbyhq.com/pivotrobotics/5b7e7074-aace-4b9a-9db8-245c8ad66a69/application?embed=true)
-- 2026-08-20 — **RTX**: [Software Development Intern](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Development-Intern--Summer-2027-_01867943)
-- 2026-08-20 — **TikTok**: [Machine Learning Engineer Intern](https://lifeattiktok.com/search/7675847556668295429)
-- 2026-08-20 — **TikTok**: [Machine Learning Engineer Intern - E-Commerce Supply Chain & Logistics-LLM/Agent - PhD](https://lifeattiktok.com/search/7675845333947812149)
-- 2026-08-20 — **TikTok**: [Software Engineer Intern - Recommendation Architecture - Feeds Infrastructure](https://lifeattiktok.com/search/7672930401597671733)
-- 2026-08-20 — **TikTok**: [Software Engineer Intern - Recommendation Architecture - Feeds Infrastructure](https://lifeattiktok.com/search/7672926068681951493)
-- 2026-08-20 — **TikTok**: [Software Engineer Intern - Recommendation Infra - Performance Efficiency](https://lifeattiktok.com/search/7675159726676101381)
-- 2026-08-20 — **TikTok**: [Software Engineer Intern - TikTok Search Architecture](https://lifeattiktok.com/search/7675517686256863541)
-- 2026-08-20 — **Wells Fargo**: [Quantitative Analytics Intern - Risk Analytics and Decision Sciences](https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Quantitative-Analytics-Summer-Internship-Risk-Analytics-and-Decision-Sciences--RADS-PhD----Early-Careers_R-569912)
-- 2026-08-20 — **Western Magnetics**: [Software Engineer Intern](https://apply.workable.com/western-magnetics/j/E366930F3F/apply)
-- 2026-08-20 — **Zipline**: [Applications Engineer Intern - Spring 2027](https://www.zipline.com/open-roles?gh_jid=7908677003)
+- 2026-08-20 — **Integra FEC**: [Research Analyst Intern](https://job-boards.greenhouse.io/integrainterns/jobs/5396990008)
+- 2026-08-20 — **Leidos**: [Engineering Intern - Defense Systems - Threat Modeling & Simulation Portfolio](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Engineering-Intern_R-00189691)
+- 2026-08-20 — **National Laboratory of the Rockies**: [Graduate Energy Systems Intern](https://nrel.wd5.myworkdayjobs.com/NLR/job/Boulder-CO/Graduate-Summer-Intern---Modeling-and-Analysis-of-Distributed-Hybrid-Energy-Systems_R14469)
 
 ## Recently closed
 
@@ -85,7 +85,6 @@ _Generated 2026-08-20_
 - Arevon — Data Science Intern - Interconnection & Transmission
 - Arizona State University — Management Intern - Career Data and Analytics
 - Arkema Global — Manufacturing Data Systems Intern
-- Artisan Partners — Data Engineer Intern - Platform & Product
 - Assurant — Digital & AI Transformation Intern 1 - Internship Program
 - Assured Guaranty — Product Software Developer Intern
 - Astranis — Embedded Software Developer – Network/Payload Software Intern
@@ -160,12 +159,13 @@ _Generated 2026-08-20_
 - General Motors — Research and Development Intern - Research & Development: AI/ML
 - Global Infrastructure — Alternative Delivery Project Analytics Intern
 - Golden Pet Brands — Data Analytics Intern
-- Goldman Sachs — Quantitative Strategist Associate Intern - Asset and Wealth Management
+- Goldman Sachs — AWM Product Management Analyst Intern
 - Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
 - Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
-- Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
-- Goldman Sachs — Summer Associate Intern - Multiple Teams
+- Goldman Sachs — Summer Analyst Intern - Americas - AWM Product Management
+- Goldman Sachs — Summer Analyst Intern - FICC and Equities - Sales and Trading
+- Goldman Sachs — Summer Analyst Intern - FICC & Equities - Sales & Trading
+- Goldman Sachs — Summer Analyst Intern - Wealth Management - Product Management and Design
 - Group 1001 — Quantitative Analysis Intern
 - Gulfstream — Computer Science Intern - Advanced Structures and Materials
 - Gumloop — Design Engineer Intern
@@ -330,6 +330,7 @@ _Generated 2026-08-20_
 - US Acute Care Solutions — People Analytics Intern
 - Vanguard — Data Analysis Intern
 - Vanguard — Data Science Intern - College to Corporate IT
+- Vanguard — Data Science Intern - Information Technology
 - Veeda AI — AI Scientist Intern - Veeda AI Scientist
 - Vega Investment Technologies — Product Operations Intern
 - Veralto — Machine Learning Co-op Intern

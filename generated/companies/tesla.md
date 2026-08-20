@@ -39,6 +39,7 @@
 | Tesla | [Firmware Engineer Intern - New Programs Engineering](https://www.tesla.com/careers/search/job/279991) | Fremont, CA | Onsite | 2026-08-13 | Rolling | 🟢 Open | ❔ |
 | Tesla | [Firmware Engineer Intern - Power Electronics Firmware Engineer - Energy Engineering](https://www.tesla.com/careers/search/job/275689) | Palo Alto, CA | Onsite | 2026-07-01 | Rolling | 🟢 Open | ❔ |
 | Tesla | [Fullstack C++ Engineer Intern, Vehicle User Interface](https://www.tesla.com/careers/search/job/251798) | Palo Alto, CA | Onsite | 2025-09-24 | Rolling | 🟢 Open | ❔ |
+| Tesla | [Internship - Fullstack Engineer - Applications Engineering - Winter/Spring 2027](https://www.tesla.com/careers/search/job/280820) | Fremont, CA | Onsite | 2026-08-20 | Rolling | 🟢 Open | ❔ |
 | Tesla | [Localization Specialist Intern](https://www.tesla.com/careers/search/job/internship-localization-specialist-it-applications-fall-2026-276308) | Fremont, CA | Onsite | 2026-07-24 | Rolling | 🟢 Open | ❔ |
 | Tesla | [Machine Learning Engineer Intern, Noise Vibration Harshness Engineering](https://www.tesla.com/careers/search/job/244786?source=Indeed&source=Indeed&tags=organicjob) | Fremont, CA | Onsite | 2025-08-03 | Rolling | 🟢 Open | ❔ |
 | Tesla | [Machine Learning Intern - AI Engineer - Tesla AI](https://www.tesla.com/careers/search/job/275331) | Palo Alto, CA | Onsite | 2026-07-01 | Rolling | 🟢 Open | ❔ |

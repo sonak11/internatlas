@@ -1,0 +1,72 @@
+{
+  "schema_version": "1.0",
+  "id": "excellus-bcbs-software-engineering-intern-multiple-openings-2026",
+  "company": {
+    "name": "Excellus BCBS",
+    "slug": "excellus-bcbs"
+  },
+  "role": "Software Engineering Intern - Multiple Openings",
+  "category": "software-engineering",
+  "apply_url": "https://lthc.wd1.myworkdayjobs.com/en-US/ExcellusBCBSCareers/job/Rochester/College-Intern---Software-Engineering---Fall-2026--Multiple-Openings-_JR103878-2",
+  "season": "fall",
+  "year": 2026,
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "Rochester",
+      "state": "NY",
+      "country": "USA"
+    },
+    {
+      "city": "De Witt",
+      "state": "NY",
+      "country": "USA"
+    },
+    {
+      "city": "Albany",
+      "state": "NY",
+      "country": "USA"
+    },
+    {
+      "city": "Binghamton",
+      "state": "NY",
+      "country": "USA"
+    },
+    {
+      "city": "Buffalo",
+      "state": "NY",
+      "country": "USA"
+    }
+  ],
+  "compensation": {
+    "currency": "USD",
+    "housing_stipend": false,
+    "relocation_assistance": false
+  },
+  "eligibility": {
+    "graduation_years": [],
+    "degree_levels": [],
+    "citizenship_required": false,
+    "security_clearance_required": false,
+    "visa_sponsorship": "unknown"
+  },
+  "interview": {},
+  "tech": {
+    "required_skills": [],
+    "preferred_skills": [],
+    "languages": [],
+    "frameworks": [],
+    "cloud_platforms": [],
+    "resume_keywords": []
+  },
+  "dates": {
+    "posted": "2026-08-20",
+    "discovered": "2026-08-20",
+    "last_verified": "2026-08-20"
+  },
+  "status": "open",
+  "tags": [
+    "auto-ingested",
+    "src:simplify"
+  ]
+}

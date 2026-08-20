@@ -1,6 +1,6 @@
 {
   "generated": "2026-08-20",
-  "count": 2095,
+  "count": 2115,
   "internships": [
     {
       "schema_version": "1.0",
@@ -7893,7 +7893,7 @@
         "discovered": "2026-08-17",
         "last_verified": "2026-08-20"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -18556,6 +18556,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "catalist-data-services-intern-2026",
+      "company": {
+        "name": "Catalist",
+        "slug": "catalist"
+      },
+      "role": "Data Services Intern",
+      "category": "software-engineering",
+      "apply_url": "https://jobs.lever.co/catalist/4300e9ab-5f6f-4b9a-8ad6-8282a34e7dec/apply",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Washington",
+          "state": "DC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-20",
+        "discovered": "2026-08-20",
+        "last_verified": "2026-08-20"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "ccc-intelligent-solutions-applied-ai-engineer-intern-2026",
       "company": {
         "name": "CCC Intelligent Solutions",
@@ -21445,9 +21497,9 @@
       "dates": {
         "posted": "2026-07-13",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-18"
+        "last_verified": "2026-08-20"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -22961,6 +23013,57 @@
     },
     {
       "schema_version": "1.0",
+      "id": "cloudflare-software-engineer-intern-fall-2026-2026",
+      "company": {
+        "name": "Cloudflare",
+        "slug": "cloudflare"
+      },
+      "role": "Software Engineer Intern - Fall 2026",
+      "category": "software-engineering",
+      "apply_url": "https://boards.greenhouse.io/cloudflare/jobs/8118855",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "London",
+          "country": "UK"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-20",
+        "discovered": "2026-08-20",
+        "last_verified": "2026-08-20"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "cloudflare-software-engineer-intern-fall-2026-2027-ca02d2",
       "company": {
         "name": "Cloudflare",
@@ -23584,6 +23687,58 @@
         "auto-ingested",
         "src:vanshb03",
         "remote-available"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "cno-financial-group-reporting-analyst-intern-2027",
+      "company": {
+        "name": "CNO Financial Group",
+        "slug": "cno-financial-group"
+      },
+      "role": "Reporting Analyst Intern",
+      "category": "software-engineering",
+      "apply_url": "https://cnoinc.wd5.myworkdayjobs.com/Careers/job/Carmel-IN/Summer-2027-Reporting-Analyst-Intern-2027---REMOTE-from-any-US-based-location_JR170455",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Carmel",
+          "state": "IN",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-20",
+        "discovered": "2026-08-20",
+        "last_verified": "2026-08-20"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
       ]
     },
     {
@@ -27707,6 +27862,63 @@
     },
     {
       "schema_version": "1.0",
+      "id": "devon-energy-technology-intern-data-engineering-2027",
+      "company": {
+        "name": "Devon Energy",
+        "slug": "devon-energy"
+      },
+      "role": "Technology Intern - Data Engineering",
+      "category": "data-engineering",
+      "apply_url": "https://wd5.myworkdaysite.com/en-US/recruiting/devonenergy/Careers/job/Oklahoma-City-OK/Technology-Summer-Intern-2027_R26264-1",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Houston",
+          "state": "TX",
+          "country": "USA"
+        },
+        {
+          "city": "Oklahoma City",
+          "state": "OK",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-20",
+        "discovered": "2026-08-20",
+        "last_verified": "2026-08-20"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "dexmate-frontend-engineer-intern-2026",
       "company": {
         "name": "Dexmate",
@@ -29943,6 +30155,57 @@
     },
     {
       "schema_version": "1.0",
+      "id": "epic-games-engine-programmer-intern-unreal-engine-2026",
+      "company": {
+        "name": "Epic Games",
+        "slug": "epic-games"
+      },
+      "role": "Engine Programmer Intern - Unreal Engine",
+      "category": "software-engineering",
+      "apply_url": "https://epicgames.com/careers/jobs/6147283004?gh_jid=6147283004",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "London",
+          "country": "UK"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-20",
+        "discovered": "2026-08-20",
+        "last_verified": "2026-08-20"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "epic-games-gameplay-programmer-intern-2026",
       "company": {
         "name": "Epic Games",
@@ -31161,6 +31424,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "eversource-energy-asset-management-technology-engineer-intern-fall-2026-2026",
+      "company": {
+        "name": "Eversource Energy",
+        "slug": "eversource-energy"
+      },
+      "role": "Asset Management Technology Engineer Intern - Fall 2026",
+      "category": "software-engineering",
+      "apply_url": "https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/Hartford-CT/Asset-Management-Technology--Engineering-Intern--Fall-2026-_R-031600",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Hartford",
+          "state": "CT",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-20",
+        "discovered": "2026-08-20",
+        "last_verified": "2026-08-20"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "evonik-life-cycle-management-intern-sustainability-life-cycle-manag-2026",
       "company": {
         "name": "Evonik",
@@ -31368,6 +31683,150 @@
         "last_verified": "2026-08-14"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "excellus-bcbs-college-intern-ai-engineering-2026",
+      "company": {
+        "name": "Excellus BCBS",
+        "slug": "excellus-bcbs"
+      },
+      "role": "College Intern - AI Engineering",
+      "category": "ai",
+      "apply_url": "https://lthc.wd1.myworkdayjobs.com/en-US/ExcellusBCBSCareers/job/Rochester/College-Intern---AI-Engineering---Fall-2026--Multiple-Openings-_JR103879-2",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Rochester",
+          "state": "NY",
+          "country": "USA"
+        },
+        {
+          "city": "DeWitt",
+          "state": "IA",
+          "country": "USA"
+        },
+        {
+          "city": "Albany",
+          "state": "NY",
+          "country": "USA"
+        },
+        {
+          "city": "Binghamton",
+          "state": "NY",
+          "country": "USA"
+        },
+        {
+          "city": "Buffalo",
+          "state": "NY",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-20",
+        "discovered": "2026-08-20",
+        "last_verified": "2026-08-20"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "excellus-bcbs-software-engineering-intern-multiple-openings-2026",
+      "company": {
+        "name": "Excellus BCBS",
+        "slug": "excellus-bcbs"
+      },
+      "role": "Software Engineering Intern - Multiple Openings",
+      "category": "software-engineering",
+      "apply_url": "https://lthc.wd1.myworkdayjobs.com/en-US/ExcellusBCBSCareers/job/Rochester/College-Intern---Software-Engineering---Fall-2026--Multiple-Openings-_JR103878-2",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Rochester",
+          "state": "NY",
+          "country": "USA"
+        },
+        {
+          "city": "De Witt",
+          "state": "NY",
+          "country": "USA"
+        },
+        {
+          "city": "Albany",
+          "state": "NY",
+          "country": "USA"
+        },
+        {
+          "city": "Binghamton",
+          "state": "NY",
+          "country": "USA"
+        },
+        {
+          "city": "Buffalo",
+          "state": "NY",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-20",
+        "discovered": "2026-08-20",
+        "last_verified": "2026-08-20"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -33945,6 +34404,61 @@
       "dates": {
         "posted": "2026-08-11",
         "discovered": "2026-08-11",
+        "last_verified": "2026-08-20"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "framatome-computer-science-engineer-intern-co-op-univ-co-op-technical-2026",
+      "company": {
+        "name": "Framatome",
+        "slug": "framatome"
+      },
+      "role": "Computer Science Engineer Intern Co-op - Univ/Co-op Technical",
+      "category": "software-engineering",
+      "apply_url": "https://careers-framatome.icims.com/jobs/3295/job?mobile=true&needsRedirect=false",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Richland",
+          "state": "WA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters",
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-20",
+        "discovered": "2026-08-20",
         "last_verified": "2026-08-20"
       },
       "status": "open",
@@ -36915,7 +37429,7 @@
         "discovered": "2026-08-20",
         "last_verified": "2026-08-20"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -36968,7 +37482,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-08-20"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -37125,7 +37639,7 @@
         "discovered": "2026-08-20",
         "last_verified": "2026-08-20"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -37176,7 +37690,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-08-20"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -37229,7 +37743,7 @@
         "discovered": "2026-08-20",
         "last_verified": "2026-08-20"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -37283,7 +37797,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-08-20"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -37334,7 +37848,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-08-20"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -37385,7 +37899,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-08-20"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -37438,7 +37952,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-08-20"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -43871,6 +44385,58 @@
       "dates": {
         "posted": "2026-04-28",
         "discovered": "2026-07-17",
+        "last_verified": "2026-08-20"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "integra-fec-research-analyst-intern-2026",
+      "company": {
+        "name": "Integra FEC",
+        "slug": "integra-fec"
+      },
+      "role": "Research Analyst Intern",
+      "category": "research",
+      "apply_url": "https://job-boards.greenhouse.io/integrainterns/jobs/5396990008",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Austin",
+          "state": "TX",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-20",
+        "discovered": "2026-08-20",
         "last_verified": "2026-08-20"
       },
       "status": "open",
@@ -50560,6 +51126,58 @@
       "dates": {
         "posted": "2026-06-26",
         "discovered": "2026-07-17",
+        "last_verified": "2026-08-20"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "leidos-engineering-intern-defense-systems-threat-modeling-simulatio-2026",
+      "company": {
+        "name": "Leidos",
+        "slug": "leidos"
+      },
+      "role": "Engineering Intern - Defense Systems - Threat Modeling & Simulation Portfolio",
+      "category": "software-engineering",
+      "apply_url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Engineering-Intern_R-00189691",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Huntsville",
+          "state": "AL",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-20",
+        "discovered": "2026-08-20",
         "last_verified": "2026-08-20"
       },
       "status": "open",
@@ -58182,6 +58800,62 @@
     },
     {
       "schema_version": "1.0",
+      "id": "national-laboratory-of-the-rockies-graduate-energy-systems-intern-2026",
+      "company": {
+        "name": "National Laboratory of the Rockies",
+        "slug": "national-laboratory-of-the-rockies"
+      },
+      "role": "Graduate Energy Systems Intern",
+      "category": "software-engineering",
+      "apply_url": "https://nrel.wd5.myworkdayjobs.com/NLR/job/Boulder-CO/Graduate-Summer-Intern---Modeling-and-Analysis-of-Distributed-Hybrid-Energy-Systems_R14469",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Boulder",
+          "state": "CO",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters",
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-20",
+        "discovered": "2026-08-20",
+        "last_verified": "2026-08-20"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify",
+        "remote-available"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "national-laboratory-of-the-rockies-graduate-geospatial-data-science-intern-2026",
       "company": {
         "name": "National Laboratory of the Rockies",
@@ -65255,6 +65929,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "onsemi-oracle-platform-intern-2026",
+      "company": {
+        "name": "onsemi",
+        "slug": "onsemi"
+      },
+      "role": "Oracle Platform Intern",
+      "category": "software-engineering",
+      "apply_url": "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506391",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Scottsdale",
+          "state": "AZ",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-20",
+        "discovered": "2026-08-20",
+        "last_verified": "2026-08-20"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "onsemi-tax-ai-and-automation-intern-2026",
       "company": {
         "name": "onsemi",
@@ -69747,6 +70473,58 @@
       "dates": {
         "posted": "2026-08-18",
         "discovered": "2026-08-18",
+        "last_verified": "2026-08-20"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "pimco-trading-analyst-intern-2027",
+      "company": {
+        "name": "PIMCO",
+        "slug": "pimco"
+      },
+      "role": "Trading Analyst Intern",
+      "category": "quant",
+      "apply_url": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-Summer-Intern---Trading-Analyst--US_R106763",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Newport Beach",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-20",
+        "discovered": "2026-08-20",
         "last_verified": "2026-08-20"
       },
       "status": "open",
@@ -75886,6 +76664,108 @@
     },
     {
       "schema_version": "1.0",
+      "id": "royal-bank-of-canada-portfolio-risk-data-ai-analyst-intern-group-risk-management-2027-c54739",
+      "company": {
+        "name": "Royal Bank of Canada",
+        "slug": "royal-bank-of-canada"
+      },
+      "role": "Portfolio Risk Data & AI Analyst Intern - Group Risk Management",
+      "category": "ai",
+      "apply_url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--Portfolio-Risk-Data---AI-Analyst-Intern--4-Months-_R-0000185116-2",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Toronto",
+          "country": "ON"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-20",
+        "discovered": "2026-08-20",
+        "last_verified": "2026-08-20"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "royal-bank-of-canada-portfolio-risk-data-ai-analyst-intern-group-risk-management-2027",
+      "company": {
+        "name": "Royal Bank of Canada",
+        "slug": "royal-bank-of-canada"
+      },
+      "role": "Portfolio Risk Data & AI Analyst Intern - Group Risk Management",
+      "category": "ai",
+      "apply_url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--Portfolio-Risk-Data---AI-Analyst-Intern--4-Months-_R-0000185116",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Toronto",
+          "country": "ON"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-20",
+        "discovered": "2026-08-20",
+        "last_verified": "2026-08-20"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "royal-bank-of-canada-relationship-manager-commercial-markets-intern-2026",
       "company": {
         "name": "Royal Bank of Canada",
@@ -78115,6 +78995,60 @@
     },
     {
       "schema_version": "1.0",
+      "id": "rtx-software-engineer-intern-summer-2027-2027-c079fe",
+      "company": {
+        "name": "RTX",
+        "slug": "rtx"
+      },
+      "role": "Software Engineer Intern - Summer 2027",
+      "category": "software-engineering",
+      "apply_url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CA-EL-SEGUNDO-E04--2006-E-El-Segundo-Blvd--BLDG-E04/Software-Engineering-Intern--Summer-2027-_01866619",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "El Segundo",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-14",
+        "discovered": "2026-08-20",
+        "last_verified": "2026-08-20"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "rtx-software-engineer-intern-summer-2027-2027-cfa30c",
       "company": {
         "name": "RTX",
@@ -78496,14 +79430,14 @@
       },
       "role": "Software Engineer Intern - Summer 2027",
       "category": "software-engineering",
-      "apply_url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CA-EL-SEGUNDO-E04--2006-E-El-Segundo-Blvd--BLDG-E04/Software-Engineering-Intern--Summer-2027-_01866619",
+      "apply_url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Software-Engineer-Intern--Summer-2027-_01867664",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
       "locations": [
         {
-          "city": "El Segundo",
-          "state": "CA",
+          "city": "Tucson",
+          "state": "AZ",
           "country": "USA"
         }
       ],
@@ -78531,7 +79465,7 @@
         "resume_keywords": []
       },
       "dates": {
-        "posted": "2026-08-14",
+        "posted": "2026-08-20",
         "discovered": "2026-08-05",
         "last_verified": "2026-08-20"
       },
@@ -78852,6 +79786,58 @@
         "last_verified": "2026-08-18"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "rtx-systems-technology-intern-2027",
+      "company": {
+        "name": "RTX",
+        "slug": "rtx"
+      },
+      "role": "Systems Technology Intern",
+      "category": "software-engineering",
+      "apply_url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Systems-Technology-Intern----Summer-2027-_01868533",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Tucson",
+          "state": "AZ",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-20",
+        "discovered": "2026-08-20",
+        "last_verified": "2026-08-20"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -90811,6 +91797,58 @@
         "last_verified": "2026-08-13"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "tesla-internship-fullstack-engineer-applications-engineering-winte-2027",
+      "company": {
+        "name": "Tesla",
+        "slug": "tesla"
+      },
+      "role": "Internship - Fullstack Engineer - Applications Engineering - Winter/Spring 2027",
+      "category": "software-engineering",
+      "apply_url": "https://www.tesla.com/careers/search/job/280820",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Fremont",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-20",
+        "discovered": "2026-08-20",
+        "last_verified": "2026-08-20"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -104093,6 +105131,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "toshiba-global-commerce-ai-software-engineer-intern-2026",
+      "company": {
+        "name": "Toshiba Global Commerce",
+        "slug": "toshiba-global-commerce"
+      },
+      "role": "AI Software Engineer Intern",
+      "category": "ai",
+      "apply_url": "https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5214224007",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Durham",
+          "state": "NC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-20",
+        "discovered": "2026-08-20",
+        "last_verified": "2026-08-20"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "toshiba-global-commerce-hardware-engineer-intern-2026",
       "company": {
         "name": "Toshiba Global Commerce",
@@ -107319,7 +108409,7 @@
         "discovered": "2026-08-17",
         "last_verified": "2026-08-20"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
