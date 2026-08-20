@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 📊 Statistics
 
-_Generated 2026-08-19_
+_Generated 2026-08-20_
 
 ## Top hiring companies
 
@@ -33,7 +33,7 @@ _Generated 2026-08-19_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 1093 | `█████████████` |
+| software-engineering | 1096 | `█████████████` |
 | ai | 198 | `██` |
 | quant | 188 | `██` |
 | machine-learning | 135 | `██` |
@@ -43,12 +43,15 @@ _Generated 2026-08-19_
 | embedded | 50 | `█` |
 | design | 42 | `█` |
 | cloud | 40 | `█` |
-| data-science | 38 | `█` |
+| data-science | 39 | `█` |
 | data-engineering | 23 | `█` |
 | security | 13 | `█` |
 
 ## Newest listings
 
+- 2026-08-20 — **General Matter**: [Software Engineering Intern](https://job-boards.greenhouse.io/generalmatter/jobs/5377118008)
+- 2026-08-20 — **Notion**: [Data Science Intern](https://jobs.ashbyhq.com/notion/a67d6f2b-7c13-41d0-b36b-b2f662c9873e/application?embed=true)
+- 2026-08-20 — **Western Magnetics**: [Software Engineer Intern](https://apply.workable.com/western-magnetics/j/E366930F3F/apply)
 - 2026-08-19 — **Allegheny County**: [Business Analytics Intern](https://alleghenycounty.bamboohr.com/careers/663/)
 - 2026-08-19 — **Autodesk**: [AI Developer Intern](https://autodesk.wd1.myworkdayjobs.com/uni/job/Montreal-QC-CAN/Intern--AI-Developer--Stagiaire-en-dveloppement-IA_26WD100523-1)
 - 2026-08-19 — **Autodesk**: [AI Developer Intern - Creative Technology](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Intern--AI-Developer--Stagiaire-en-dveloppement-IA_26WD100523-2)
@@ -66,13 +69,9 @@ _Generated 2026-08-19_
 - 2026-08-19 — **Humana**: [Technology Intern - Early ID Participants](https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Louisville-KY/Humana-Technology-Internship---Summer-2027--Early-ID-Participants-_R-427451)
 - 2026-08-19 — **InfiniteQuant**: [Quantitative Developer Internship - Summer 2027](https://jobs.smartrecruiters.com/InfiniteQuant/744000144281579)
 - 2026-08-19 — **Kensington**: [Data Analyst Intern - Revenue Optimization](https://job-boards.greenhouse.io/kensingtontours/jobs/5209507007)
-- 2026-08-19 — **Kepler Communications**: [Embedded Software Engineer Intern - January 2027 - 4 months](https://jobs.lever.co/kepler/2ad02ce3-1d56-4aee-9f1d-5199c780c0c1/apply)
-- 2026-08-19 — **Marmon Holdings**: [Data & Process Automation Intern - Duty Drawback](https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Newark-NJ/Data---Process-Automation-Intern---Duty-Drawback_JR0000045184)
-- 2026-08-19 — **Microsoft**: [AI Software Engineer Intern](https://apply.careers.microsoft.com/careers/job/1970393556962891)
 
 ## Recently closed
 
-- Adobe — AI/ML Intern – Machine Learning Engineer/Researcher Intern
 - Adtheorant — Enterprise AI Intern
 - Alljoined — Research Intern
 - Altera Corporation — Embedded Solutions Intern
@@ -82,7 +81,6 @@ _Generated 2026-08-19_
 - Amentum — Spaceflight Hardware Intern
 - American Enterprise Institute — Intern
 - Analytical Mechanics Associates — Computer Science/Engineering Intern - Computer Vision Applications
-- Arcadis — GIS Intern
 - Arevon — Data Science Intern - Interconnection & Transmission
 - Arizona State University — Management Intern - Career Data and Analytics
 - Arkema Global — Manufacturing Data Systems Intern
@@ -91,7 +89,6 @@ _Generated 2026-08-19_
 - Astranis — Reliability Design Intern
 - Axon — Software Engineer Intern
 - Bank of Montreal — Card Products Intern Co-op - Customer Solutions
-- Bank of Montreal — Data and AI Operations Analyst Intern/Co-op - Cloud - 8 months
 - Bank of Montreal — Data Scientist Co-op/Internship - Months
 - Bank of Montreal — Database Operations Co-op Intern
 - Bank of Montreal — Investment Intern Co-op - Co-op/Internship
@@ -110,12 +107,9 @@ _Generated 2026-08-19_
 - Centerfield — Product Manager Intern
 - Centific — Technical Intern - Masters or PhD
 - Ciena — Optical Modem Hardware Intern
-- Ciena — Photonic Hardware Intern
 - Ciena — Software Engineer Intern
 - Ciena — Software Engineer Intern
 - Ciena — Software Liquid Spectrum Applications Intern
-- Cirrus Logic — AI Business Analytics Co-op Intern
-- Cirrus Logic — Embedded Software AI Intern Co-op
 - City of Austin — Business Intelligence Intern - Business Intelligence
 - City of Austin — Research Analyst Intern
 - Cloudflare — AI Builder Intern - Global Customer Engineering - Service Sales
@@ -132,7 +126,6 @@ _Generated 2026-08-19_
 - Copart — Software Engineer Intern
 - Copart — Technology Product Analyst Intern
 - Cotiviti — Agentic AI Research Intern
-- Definity Financial — Data Analyst Co-op/Intern
 - Definity Financial — Reporting Specialist Co-op/Intern
 - Definity Financial — Technology Solutions Data Platform & Engineering Co-op/Intern
 - Desjardins Group — Data Intern
@@ -152,15 +145,17 @@ _Generated 2026-08-19_
 - GE Vernova — Digital Technology Intern
 - GE Vernova — Digital Technology Intern
 - GE Vernova — Engineering Intern
-- Gemini — Software Engineer Intern
 - General Dynamics Information Technology — Artificial Intelligence/Machine Learning Intern
 - General Dynamics Information Technology — Software Developer Intern
 - General Dynamics Mission Systems — Cybersecurity Software Engineer Intern
 - General Motors — Research and Development Intern - Research & Development: AI/ML
 - Global Infrastructure — Alternative Delivery Project Analytics Intern
 - Golden Pet Brands — Data Analytics Intern
-- Goldman Sachs — Quantitative Strategist Associate Intern - Asset and Wealth Management
-- Goldman Sachs — Summer Associate Intern - Multiple Teams
+- Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
+- Goldman Sachs — Summer Analyst Intern - FICC and Equities - Sales and Trading
+- Goldman Sachs — Summer Analyst Intern - FICC & Equities - Sales & Trading
+- Goldman Sachs — Summer Analyst Intern - Wealth Management - Product Management and Design
 - Group 1001 — Quantitative Analysis Intern
 - Gulfstream — Computer Science Intern - Advanced Structures and Materials
 - Gumloop — Design Engineer Intern
@@ -185,12 +180,13 @@ _Generated 2026-08-19_
 - Louisiana Blue — Operational Reporting & Data Analyst Intern - CW
 - Lumentum — Optical Verification Technician Co-op Intern
 - Lumentum — Optical Verification Technician Intern/Co-op
+- MaxLinear — AI Intern
 - McKesson — Software Developer Intern - Digital and Enterprise Technology
 - McKesson — Technology Intern
 - Meta — Research Scientist Intern - Monetization Computer Vision
 - Metropolitan Transportation Authority — Data Analyst Intern
+- Metropolitan Transportation Authority — Data Analyst Intern - Power - Emerging Talent
 - Microchip Technology — Engineering Intern - Firmware Development
-- Microchip Technology — Power, Analog and Mixed-Signal IC Product Engineer Intern - Product Engineering
 - Micron Technology — Industrial Engineer Intern - Technology & Products Group - Global Industrial Engineering
 - Micron Technology — Surface Scientist Intern - Corporate Labs
 - Microsoft — Full-Stack Product Engineer Intern - Web + Services
@@ -259,7 +255,6 @@ _Generated 2026-08-19_
 - Sargent & Lundy — AI & Automation Intern - Enterprise Data & Analytics
 - Sargent & Lundy — AI & Automation Intern - Summer 2027
 - Sargent & Lundy — Software Engineer Intern
-- Saronic — Enterprise Technology Intern - AI and Automation
 - Saronic — Software Engineer Intern
 - Schweitzer Engineering Laboratories — Test Engineer Intern
 - Sentry — Software Engineer Intern - Summer 2027
@@ -297,13 +292,12 @@ _Generated 2026-08-19_
 - TMEIC Corporation Americas — Engineer Intern - Spring 2027 - Eis
 - TMX Group — Analyst Student Intern - Market Insights
 - Together AI — Research Intern - Model Shaping
+- Together AI — Systems Research Engineer Intern - GPU Programming
 - Toshiba Global Commerce — Product & Business Analytics Intern
 - Truist Bank — Analyst Intern Conversion - Multiple Teams
 - Truist Bank — Analyst Intern - Equity Research - Sales, Trading & Research
 - Truist Bank — Fixed Income Loans S&T Intern - Sales, Trading & Research - Analyst Program
 - Truist Bank — Technology and Operations Intern Conversion - Data
-- Truland Equipment — Power Platform Intern
-- Two Six Technologies — China Subject Matter Expert Intern
 - US Acute Care Solutions — People Analytics Intern
 - Vanguard — Data Analysis Intern
 - Veeda AI — AI Scientist Intern - Veeda AI Scientist
