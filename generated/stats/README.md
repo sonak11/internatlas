@@ -33,7 +33,7 @@ _Generated 2026-08-20_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 1105 | `█████████████` |
+| software-engineering | 1106 | `█████████████` |
 | ai | 198 | `██` |
 | quant | 190 | `██` |
 | machine-learning | 137 | `██` |
@@ -328,6 +328,7 @@ _Generated 2026-08-20_
 - Truist Bank — Technology and Operations Intern Conversion - Data
 - US Acute Care Solutions — People Analytics Intern
 - Vanguard — Data Analysis Intern
+- Vanguard — Data Science Intern - College to Corporate IT
 - Veeda AI — AI Scientist Intern - Veeda AI Scientist
 - Vega Investment Technologies — Product Operations Intern
 - Veralto — Machine Learning Co-op Intern

@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "vanguard-data-science-intern-college-to-corporate-it-2027",
+  "id": "thyssenkrupp-sustainability-systems-intern-2026",
   "company": {
-    "name": "Vanguard",
-    "slug": "vanguard"
+    "name": "thyssenkrupp",
+    "slug": "thyssenkrupp"
   },
-  "role": "Data Science Intern - College to Corporate IT",
-  "category": "data-science",
-  "apply_url": "https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Charlotte-NC/College-to-Corporate-IT-Internship---Data-Science--NC-_177682-1",
-  "season": "summer",
-  "year": 2027,
+  "role": "Sustainability Systems Intern",
+  "category": "software-engineering",
+  "apply_url": "https://thyssenkruppmaterialsna.wd12.myworkdayjobs.com/1/job/Cleveland-Ohio-USA/Sustainability-Systems-Intern_JR104148",
+  "season": "fall",
+  "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Charlotte",
-      "state": "NC",
+      "city": "Cleveland",
+      "state": "OH",
       "country": "USA"
     }
   ],
@@ -25,9 +25,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -42,11 +40,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-17",
-    "discovered": "2026-08-17",
+    "posted": "2026-05-16",
+    "discovered": "2026-08-20",
     "last_verified": "2026-08-20"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"
