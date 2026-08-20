@@ -210,6 +210,7 @@ _Generated 2026-08-20_
 - Noblis — Machinery Silencing Technician Intern
 - Nokia — Electromechanical Assembly Co-op Intern - Intern
 - Nokia — Hardware Developer Engineer Co-op/Intern
+- NVIDIA — Developer and Performance Technology Intern
 - Otter Products — Artificial Intelligence Intern
 - Palantir — Forward Deployed Software Engineer Intern
 - PEAK6 — Trading Bootcamp Micro-Internship - Summer 2027
@@ -225,6 +226,7 @@ _Generated 2026-08-20_
 - Renesas Electronics — Digital Design Engineer Intern
 - Revvity — Full-Stack AI Developer Intern
 - Rippling — Full Stack Software Engineer Intern
+- Rippling — Machine Learning Software Engineer Intern
 - Rippling — Software Engineer Intern - Backend Focused
 - Rivian — Intern
 - Rivian — Research Park Intern - Embedded Software
