@@ -1,0 +1,231 @@
+{
+  "schema_version": "1.0",
+  "id": "crowe-ai-functional-intern-2027",
+  "company": {
+    "name": "Crowe",
+    "slug": "crowe"
+  },
+  "role": "AI Functional Intern",
+  "category": "ai",
+  "apply_url": "https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/AI-Functional-Intern---WINTER-2027_R-71015",
+  "season": "winter",
+  "year": 2027,
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "Lexington",
+      "state": "KY",
+      "country": "USA"
+    },
+    {
+      "city": "Boston",
+      "state": "MA",
+      "country": "USA"
+    },
+    {
+      "city": "Indianapolis",
+      "state": "IN",
+      "country": "USA"
+    },
+    {
+      "city": "Houston",
+      "state": "TX",
+      "country": "USA"
+    },
+    {
+      "city": "Louisville",
+      "state": "KY",
+      "country": "USA"
+    },
+    {
+      "city": "Knoxville",
+      "state": "TN",
+      "country": "USA"
+    },
+    {
+      "city": "Nashville",
+      "state": "TN",
+      "country": "USA"
+    },
+    {
+      "city": "Washington",
+      "state": "DC",
+      "country": "USA"
+    },
+    {
+      "city": "SF",
+      "country": "USA"
+    },
+    {
+      "city": "Austin",
+      "state": "TX",
+      "country": "USA"
+    },
+    {
+      "city": "Cleveland",
+      "state": "OH",
+      "country": "USA"
+    },
+    {
+      "state": "LA",
+      "country": "USA"
+    },
+    {
+      "city": "Tampa",
+      "state": "FL",
+      "country": "USA"
+    },
+    {
+      "city": "San Jose",
+      "state": "CA",
+      "country": "USA"
+    },
+    {
+      "city": "Livingston",
+      "state": "NJ",
+      "country": "USA"
+    },
+    {
+      "city": "Grand Rapids",
+      "state": "MI",
+      "country": "USA"
+    },
+    {
+      "city": "Miami",
+      "state": "FL",
+      "country": "USA"
+    },
+    {
+      "city": "Dallas",
+      "state": "TX",
+      "country": "USA"
+    },
+    {
+      "city": "The Woodlands",
+      "state": "TX",
+      "country": "USA"
+    },
+    {
+      "city": "Plano",
+      "state": "TX",
+      "country": "USA"
+    },
+    {
+      "city": "Chicago",
+      "state": "IL",
+      "country": "USA"
+    },
+    {
+      "city": "Tallahassee",
+      "state": "FL",
+      "country": "USA"
+    },
+    {
+      "city": "Charlotte",
+      "state": "NC",
+      "country": "USA"
+    },
+    {
+      "city": "Fort Lauderdale",
+      "state": "FL",
+      "country": "USA"
+    },
+    {
+      "city": "Oakbrook Terrace",
+      "state": "IL",
+      "country": "USA"
+    },
+    {
+      "city": "Burlington",
+      "state": "VT",
+      "country": "USA"
+    },
+    {
+      "city": "Sacramento",
+      "state": "CA",
+      "country": "USA"
+    },
+    {
+      "city": "Columbus",
+      "state": "OH",
+      "country": "USA"
+    },
+    {
+      "city": "Hartford",
+      "state": "CT",
+      "country": "USA"
+    },
+    {
+      "city": "Springfield",
+      "state": "IL",
+      "country": "USA"
+    },
+    {
+      "city": "NYC",
+      "country": "USA"
+    },
+    {
+      "city": "Denver",
+      "state": "CO",
+      "country": "USA"
+    },
+    {
+      "city": "Atlanta",
+      "state": "GA",
+      "country": "USA"
+    },
+    {
+      "city": "Fort Wayne",
+      "state": "IN",
+      "country": "USA"
+    },
+    {
+      "city": "South Bend",
+      "state": "IN",
+      "country": "USA"
+    },
+    {
+      "city": "Sarasota",
+      "state": "FL",
+      "country": "USA"
+    },
+    {
+      "city": "Costa Mesa",
+      "state": "CA",
+      "country": "USA"
+    }
+  ],
+  "compensation": {
+    "currency": "USD",
+    "housing_stipend": false,
+    "relocation_assistance": false
+  },
+  "eligibility": {
+    "graduation_years": [],
+    "degree_levels": [
+      "masters"
+    ],
+    "citizenship_required": false,
+    "security_clearance_required": false,
+    "visa_sponsorship": "unknown"
+  },
+  "interview": {},
+  "tech": {
+    "required_skills": [],
+    "preferred_skills": [],
+    "languages": [],
+    "frameworks": [],
+    "cloud_platforms": [],
+    "resume_keywords": []
+  },
+  "dates": {
+    "posted": "2026-08-19",
+    "discovered": "2026-08-21",
+    "last_verified": "2026-08-21"
+  },
+  "status": "open",
+  "tags": [
+    "auto-ingested",
+    "src:simplify"
+  ]
+}
