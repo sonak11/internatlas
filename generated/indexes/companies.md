@@ -88,6 +88,7 @@
 | [BDO Canada](../companies/bdo-canada.md) | 0/2 | software-engineering |
 | [BMO](../companies/bmo.md) | 0/1 | machine-learning |
 | [BP](../companies/bp.md) | 1/1 | software-engineering |
+| [BRG](../companies/brg.md) | 1/1 | software-engineering |
 | [Baker Hughes](../companies/baker-hughes.md) | 1/1 | software-engineering |
 | [Bank of China USA](../companies/bank-of-china-usa.md) | 3/3 | software-engineering |
 | [Bank of Montreal](../companies/bank-of-montreal.md) | 1/9 | ai, data-science, software-engineering |
@@ -258,6 +259,7 @@
 | [Framatome](../companies/framatome.md) | 1/1 | software-engineering |
 | [Freeform](../companies/freeform.md) | 1/3 | software-engineering |
 | [Frontier Health](../companies/frontier-health.md) | 1/1 | research |
+| [Frost](../companies/frost.md) | 1/1 | software-engineering |
 | [Fussball Club Cincinnati LLC (“FC Cincinnati”)](../companies/fussball-club-cincinnati-llc-fc-cincinnati.md) | 1/1 | software-engineering |
 | [G-Research](../companies/g-research.md) | 4/4 | data-science, machine-learning, quant, software-engineering |
 | [GCI](../companies/gci.md) | 1/1 | software-engineering |
@@ -441,7 +443,7 @@
 | [Netflix](../companies/netflix.md) | 2/2 | machine-learning, software-engineering |
 | [Netic](../companies/netic.md) | 4/4 | software-engineering |
 | [Netsmart](../companies/netsmart.md) | 0/1 | software-engineering |
-| [Neuralink](../companies/neuralink.md) | 20/21 | cloud, design, embedded, hardware, machine-learning, software-engineering |
+| [Neuralink](../companies/neuralink.md) | 21/22 | cloud, design, embedded, hardware, machine-learning, software-engineering |
 | [New Balance](../companies/new-balance.md) | 0/1 | research |
 | [New York Post Holdings](../companies/new-york-post-holdings.md) | 1/1 | software-engineering |
 | [NewsBreak](../companies/newsbreak.md) | 0/1 | software-engineering |
@@ -546,7 +548,7 @@
 | [Rise8](../companies/rise8.md) | 0/1 | product |
 | [Riveron](../companies/riveron.md) | 0/1 | software-engineering |
 | [Rivian](../companies/rivian.md) | 2/5 | embedded, hardware, machine-learning, research, software-engineering |
-| [Rivian and Volkswagen Group Technologies](../companies/rivian-and-volkswagen-group-technologies.md) | 11/16 | ai, design, embedded, software-engineering |
+| [Rivian and Volkswagen Group Technologies](../companies/rivian-and-volkswagen-group-technologies.md) | 10/16 | ai, design, embedded, software-engineering |
 | [Roam](../companies/roam.md) | 1/1 | software-engineering |
 | [Robert Bosch LLC](../companies/robert-bosch-llc.md) | 1/1 | software-engineering |
 | [Robert Bosch Venture Capital](../companies/robert-bosch-venture-capital.md) | 0/1 | embedded |
@@ -616,6 +618,7 @@
 | [Susquehanna Investment Group](../companies/susquehanna-investment-group.md) | 1/1 | quant |
 | [Swift](../companies/swift.md) | 1/2 | product, research |
 | [Synchrony Financial](../companies/synchrony-financial.md) | 4/4 | software-engineering |
+| [Syska Hennessy Group](../companies/syska-hennessy-group.md) | 1/1 | software-engineering |
 | [Systems Planning and Analysis (SPA)](../companies/systems-planning-and-analysis-spa.md) | 1/1 | software-engineering |
 | [T. Rowe Price](../companies/t-rowe-price.md) | 0/4 | quant, software-engineering |
 | [TETRAMEM](../companies/tetramem.md) | 1/1 | embedded |
@@ -720,7 +723,7 @@
 | [Yotta Labs](../companies/yotta-labs.md) | 2/2 | ai, research |
 | [ZGF Architects](../companies/zgf-architects.md) | 0/1 | software-engineering |
 | [Zello](../companies/zello.md) | 1/1 | software-engineering |
-| [Zipline](../companies/zipline.md) | 10/17 | embedded, hardware, software-engineering |
+| [Zipline](../companies/zipline.md) | 12/19 | embedded, hardware, software-engineering |
 | [Zoomifier](../companies/zoomifier.md) | 1/1 | software-engineering |
 | [Zuckerman Investment Group](../companies/zuckerman-investment-group.md) | 1/1 | software-engineering |
 | [Zurich Insurance](../companies/zurich-insurance.md) | 0/1 | ai |

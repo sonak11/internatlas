@@ -19,11 +19,11 @@ _Generated 2026-08-21_
 | AMD | 27 |
 | SpaceX | 25 |
 | IMC Trading | 23 |
+| Neuralink | 22 |
 | Susquehanna International Group (SIG) | 22 |
-| Neuralink | 21 |
+| Zipline | 19 |
 | Jane Street | 17 |
 | Palantir Technologies | 17 |
-| Zipline | 17 |
 | Microsoft | 16 |
 | Rivian and Volkswagen Group Technologies | 16 |
 | Capital One | 15 |
@@ -33,12 +33,12 @@ _Generated 2026-08-21_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 1179 | `█████████████` |
+| software-engineering | 1184 | `█████████████` |
 | ai | 209 | `██` |
 | quant | 196 | `██` |
 | machine-learning | 141 | `██` |
 | research | 107 | `█` |
-| hardware | 97 | `█` |
+| hardware | 98 | `█` |
 | product | 60 | `█` |
 | embedded | 56 | `█` |
 | design | 43 | `█` |
@@ -267,6 +267,7 @@ _Generated 2026-08-21_
 - Rivian and Volkswagen Group Technologies — Electromechanical Design Engineer Intern
 - Rivian and Volkswagen Group Technologies — Software Engineer Intern - Applications
 - Rivian and Volkswagen Group Technologies — Software Engineer Intern - Connected Systems
+- Rivian and Volkswagen Group Technologies — Software Engineer Intern - Embedded Platforms
 - RLI — Product Management Intern
 - Rockwell Automation — Firmware Engineering Intern
 - Rockwell Automation — Firmware Engineering Intern

@@ -1,25 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "rivian-and-volkswagen-group-technologies-software-engineer-intern-embedded-platforms-2026-eddc3d",
+  "id": "brg-health-analytics-intern-health-analytics-practice-2026",
   "company": {
-    "name": "Rivian and Volkswagen Group Technologies",
-    "slug": "rivian-and-volkswagen-group-technologies"
+    "name": "BRG",
+    "slug": "brg"
   },
-  "role": "Software Engineer Intern - Embedded Platforms",
-  "category": "embedded",
-  "apply_url": "https://jobs.ashbyhq.com/rivianvw.tech/4dfbf1e6-3778-4101-8ac7-cd4015d47eff/application",
+  "role": "Health Analytics Intern - Health Analytics Practice",
+  "category": "software-engineering",
+  "apply_url": "https://thinkbrg.wd5.myworkdayjobs.com/en-US/BRG_External_Career_Site/job/Chicago-IL/Chicago-Office-Health-Analytics-Practice-Intern_JR101039",
   "season": "fall",
   "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Palo Alto",
-      "state": "CA",
-      "country": "USA"
-    },
-    {
-      "city": "Irvine",
-      "state": "CA",
+      "city": "Chicago",
+      "state": "IL",
       "country": "USA"
     }
   ],
@@ -47,11 +42,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-06-11",
-    "discovered": "2026-08-17",
+    "posted": "2026-08-21",
+    "discovered": "2026-08-21",
     "last_verified": "2026-08-21"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

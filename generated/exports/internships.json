@@ -1,6 +1,6 @@
 {
   "generated": "2026-08-21",
-  "count": 2209,
+  "count": 2215,
   "internships": [
     {
       "schema_version": "1.0",
@@ -15306,6 +15306,60 @@
       "tags": [
         "auto-ingested",
         "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "brg-health-analytics-intern-health-analytics-practice-2026",
+      "company": {
+        "name": "BRG",
+        "slug": "brg"
+      },
+      "role": "Health Analytics Intern - Health Analytics Practice",
+      "category": "software-engineering",
+      "apply_url": "https://thinkbrg.wd5.myworkdayjobs.com/en-US/BRG_External_Career_Site/job/Chicago-IL/Chicago-Office-Health-Analytics-Practice-Intern_JR101039",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Chicago",
+          "state": "IL",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-21",
+        "discovered": "2026-08-21",
+        "last_verified": "2026-08-21"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
       ]
     },
     {
@@ -38010,6 +38064,58 @@
       "dates": {
         "posted": "2026-07-21",
         "discovered": "2026-07-21",
+        "last_verified": "2026-08-21"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "frost-computer-science-intern-digital-services-2026",
+      "company": {
+        "name": "Frost",
+        "slug": "frost"
+      },
+      "role": "Computer Science Intern - Digital Services",
+      "category": "software-engineering",
+      "apply_url": "https://frostbank.wd5.myworkdayjobs.com/External/job/San-Antonio-TX---One-Frost/College-Intern---Digital-Services_R261550",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Antonio",
+          "state": "TX",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-21",
+        "discovered": "2026-08-21",
         "last_verified": "2026-08-21"
       },
       "status": "open",
@@ -65419,6 +65525,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "neuralink-electrical-engineer-intern-robotics-and-surgery-engineering-2027",
+      "company": {
+        "name": "Neuralink",
+        "slug": "neuralink",
+        "career_page": "https://neuralink.com/careers"
+      },
+      "role": "Electrical Engineer Intern, Robotics and Surgery Engineering",
+      "category": "hardware",
+      "apply_url": "https://boards.greenhouse.io/neuralink/jobs/6607398003?gh_jid=6607398003",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "South San Francisco",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2025-06-13",
+        "discovered": "2026-08-21",
+        "last_verified": "2026-08-21"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "neuralink-embedded-software-engineer-intern-implant-embedded-systems-2027",
       "company": {
         "name": "Neuralink",
@@ -80491,7 +80649,7 @@
         "discovered": "2026-08-17",
         "last_verified": "2026-08-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -93291,6 +93449,57 @@
       "dates": {
         "posted": "2026-06-12",
         "discovered": "2026-07-18",
+        "last_verified": "2026-08-21"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "syska-hennessy-group-innovations-intern-full-stack-front-end-engineering-2026",
+      "company": {
+        "name": "Syska Hennessy Group",
+        "slug": "syska-hennessy-group"
+      },
+      "role": "Innovations Intern - Full Stack/Front End Engineering",
+      "category": "software-engineering",
+      "apply_url": "https://job-boards.greenhouse.io/syskahennessy/jobs/8147733",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "NYC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-21",
+        "discovered": "2026-08-21",
         "last_verified": "2026-08-21"
       },
       "status": "open",
@@ -119205,6 +119414,57 @@
     },
     {
       "schema_version": "1.0",
+      "id": "zipline-computational-physics-intern-spring-2027-2027",
+      "company": {
+        "name": "Zipline",
+        "slug": "zipline"
+      },
+      "role": "Computational Physics Intern - Spring 2027",
+      "category": "software-engineering",
+      "apply_url": "https://www.zipline.com/open-roles?gh_jid=7904605003",
+      "season": "spring",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "South SF",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-21",
+        "discovered": "2026-08-21",
+        "last_verified": "2026-08-21"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "zipline-computational-physics-intern-summer-2027-2027",
       "company": {
         "name": "Zipline",
@@ -119991,6 +120251,57 @@
       "dates": {
         "posted": "2026-08-20",
         "discovered": "2026-08-20",
+        "last_verified": "2026-08-21"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "zipline-software-engineer-intern-summer-2027-2027",
+      "company": {
+        "name": "Zipline",
+        "slug": "zipline"
+      },
+      "role": "Software Engineer Intern - Summer 2027",
+      "category": "software-engineering",
+      "apply_url": "https://www.zipline.com/open-roles?gh_jid=7929236003",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "South SF",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-21",
+        "discovered": "2026-08-21",
         "last_verified": "2026-08-21"
       },
       "status": "open",

@@ -1,25 +1,19 @@
 {
   "schema_version": "1.0",
-  "id": "rivian-and-volkswagen-group-technologies-software-engineer-intern-embedded-platforms-2026-eddc3d",
+  "id": "syska-hennessy-group-innovations-intern-full-stack-front-end-engineering-2026",
   "company": {
-    "name": "Rivian and Volkswagen Group Technologies",
-    "slug": "rivian-and-volkswagen-group-technologies"
+    "name": "Syska Hennessy Group",
+    "slug": "syska-hennessy-group"
   },
-  "role": "Software Engineer Intern - Embedded Platforms",
-  "category": "embedded",
-  "apply_url": "https://jobs.ashbyhq.com/rivianvw.tech/4dfbf1e6-3778-4101-8ac7-cd4015d47eff/application",
+  "role": "Innovations Intern - Full Stack/Front End Engineering",
+  "category": "software-engineering",
+  "apply_url": "https://job-boards.greenhouse.io/syskahennessy/jobs/8147733",
   "season": "fall",
   "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Palo Alto",
-      "state": "CA",
-      "country": "USA"
-    },
-    {
-      "city": "Irvine",
-      "state": "CA",
+      "city": "NYC",
       "country": "USA"
     }
   ],
@@ -30,9 +24,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -47,11 +39,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-06-11",
-    "discovered": "2026-08-17",
+    "posted": "2026-08-21",
+    "discovered": "2026-08-21",
     "last_verified": "2026-08-21"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

@@ -1,25 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "rivian-and-volkswagen-group-technologies-software-engineer-intern-embedded-platforms-2026-eddc3d",
+  "id": "frost-computer-science-intern-digital-services-2026",
   "company": {
-    "name": "Rivian and Volkswagen Group Technologies",
-    "slug": "rivian-and-volkswagen-group-technologies"
+    "name": "Frost",
+    "slug": "frost"
   },
-  "role": "Software Engineer Intern - Embedded Platforms",
-  "category": "embedded",
-  "apply_url": "https://jobs.ashbyhq.com/rivianvw.tech/4dfbf1e6-3778-4101-8ac7-cd4015d47eff/application",
+  "role": "Computer Science Intern - Digital Services",
+  "category": "software-engineering",
+  "apply_url": "https://frostbank.wd5.myworkdayjobs.com/External/job/San-Antonio-TX---One-Frost/College-Intern---Digital-Services_R261550",
   "season": "fall",
   "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Palo Alto",
-      "state": "CA",
-      "country": "USA"
-    },
-    {
-      "city": "Irvine",
-      "state": "CA",
+      "city": "San Antonio",
+      "state": "TX",
       "country": "USA"
     }
   ],
@@ -30,9 +25,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -47,11 +40,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-06-11",
-    "discovered": "2026-08-17",
+    "posted": "2026-08-21",
+    "discovered": "2026-08-21",
     "last_verified": "2026-08-21"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"
