@@ -1,6 +1,6 @@
 {
   "generated": "2026-08-21",
-  "count": 2159,
+  "count": 2160,
   "internships": [
     {
       "schema_version": "1.0",
@@ -28024,6 +28024,63 @@
     },
     {
       "schema_version": "1.0",
+      "id": "crowe-power-platform-business-solutions-intern-consulting-practice-2026",
+      "company": {
+        "name": "Crowe",
+        "slug": "crowe"
+      },
+      "role": "Power Platform Business Solutions Intern - Consulting Practice",
+      "category": "software-engineering",
+      "apply_url": "https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/Power-Platform-Business-Solutions-Intern_R-71035",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Chicago",
+          "state": "IL",
+          "country": "USA"
+        },
+        {
+          "city": "Sacramento",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-14",
+        "discovered": "2026-08-21",
+        "last_verified": "2026-08-21"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "crowe-servicenow-implementation-intern-servicenow-cloud-solutions-2026",
       "company": {
         "name": "Crowe",
@@ -39759,7 +39816,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-08-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -39863,7 +39920,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-08-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -39916,7 +39973,7 @@
         "discovered": "2026-08-20",
         "last_verified": "2026-08-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -67342,7 +67399,7 @@
         "discovered": "2026-08-19",
         "last_verified": "2026-08-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -68309,14 +68366,14 @@
         "resume_keywords": []
       },
       "dates": {
-        "posted": "2026-07-24",
+        "posted": "2026-07-15",
         "discovered": "2026-07-17",
         "last_verified": "2026-08-21"
       },
       "status": "open",
       "tags": [
         "auto-ingested",
-        "src:vanshb03"
+        "src:simplify"
       ]
     },
     {
@@ -68675,7 +68732,7 @@
         "discovered": "2026-08-21",
         "last_verified": "2026-08-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -79724,6 +79781,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "rtx-chemistry-materials-engineer-intern-2026",
+      "company": {
+        "name": "RTX",
+        "slug": "rtx"
+      },
+      "role": "Chemistry Materials Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-ANDOVER-AN1--350-Lowell-St--AN1-ESSEX-BLDG/Chemistry-Materials-Engineer-Intern--Onsite-_01868041",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Andover",
+          "state": "MA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-20",
+        "discovered": "2026-08-21",
+        "last_verified": "2026-08-21"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "rtx-conversion-systems-engineer-1-intern-2026-28bd9c",
       "company": {
         "name": "RTX",
@@ -81631,7 +81740,7 @@
         "discovered": "2026-08-18",
         "last_verified": "2026-08-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -82059,7 +82168,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-08-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -82229,7 +82338,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "rtx-software-engineering-intern-2027-f059af",
+      "id": "rtx-software-engineering-intern-2027",
       "company": {
         "name": "RTX",
         "slug": "rtx"
@@ -82244,58 +82353,6 @@
         {
           "city": "Cambridge",
           "state": "MA",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-08-18",
-        "discovered": "2026-08-20",
-        "last_verified": "2026-08-21"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "rtx-software-engineering-intern-2027",
-      "company": {
-        "name": "RTX",
-        "slug": "rtx"
-      },
-      "role": "Software Engineering Intern",
-      "category": "software-engineering",
-      "apply_url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineering-Intern--Summer-2027-_01866777",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Tucson",
-          "state": "AZ",
           "country": "USA"
         }
       ],
@@ -82323,7 +82380,7 @@
         "resume_keywords": []
       },
       "dates": {
-        "posted": "2026-08-14",
+        "posted": "2026-08-18",
         "discovered": "2026-08-11",
         "last_verified": "2026-08-21"
       },

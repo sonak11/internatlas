@@ -166,7 +166,7 @@
 | [Copart](../companies/copart.md) | 7/12 | data-engineering, software-engineering |
 | [Core & Main](../companies/core-main.md) | 1/1 | machine-learning |
 | [Cotiviti](../companies/cotiviti.md) | 1/2 | ai |
-| [Crowe](../companies/crowe.md) | 8/8 | ai, cloud, software-engineering |
+| [Crowe](../companies/crowe.md) | 9/9 | ai, cloud, software-engineering |
 | [Cubist Systematic Strategies](../companies/cubist-systematic-strategies.md) | 1/1 | quant |
 | [CuspAI](../companies/cuspai.md) | 1/1 | software-engineering |
 | [Cybernetic Labs](../companies/cybernetic-labs.md) | 3/3 | software-engineering |
@@ -281,7 +281,7 @@
 | [Global Partners](../companies/global-partners.md) | 1/1 | software-engineering |
 | [GoDaddy](../companies/godaddy.md) | 1/1 | software-engineering |
 | [Golden Pet Brands](../companies/golden-pet-brands.md) | 0/1 | software-engineering |
-| [Goldman Sachs](../companies/goldman-sachs.md) | 4/9 | product, quant, software-engineering |
+| [Goldman Sachs](../companies/goldman-sachs.md) | 1/9 | product, quant, software-engineering |
 | [Google](../companies/google.md) | 3/7 | data-science, research, software-engineering |
 | [Grant Thornton](../companies/grant-thornton.md) | 2/2 | software-engineering |
 | [Gritt Robotics Inc](../companies/gritt-robotics-inc.md) | 1/1 | software-engineering |
@@ -417,7 +417,7 @@
 | [NBCUniversal](../companies/nbcuniversal.md) | 2/2 | software-engineering |
 | [NBT Bank](../companies/nbt-bank.md) | 0/1 | software-engineering |
 | [NTT DATA AIVista](../companies/ntt-data-aivista.md) | 1/1 | ai |
-| [NVIDIA](../companies/nvidia.md) | 20/30 | ai, design, hardware, machine-learning, quant, research, security, software-engineering |
+| [NVIDIA](../companies/nvidia.md) | 19/30 | ai, design, hardware, machine-learning, quant, research, security, software-engineering |
 | [NXP Semiconductors](../companies/nxp-semiconductors.md) | 1/3 | ai, design, software-engineering |
 | [Nash](../companies/nash.md) | 1/1 | software-engineering |
 | [NationGraph](../companies/nationgraph.md) | 1/2 | software-engineering |
@@ -456,7 +456,7 @@
 | [Odin Dynamics, Inc](../companies/odin-dynamics-inc.md) | 1/1 | software-engineering |
 | [Old Mission](../companies/old-mission.md) | 1/1 | software-engineering |
 | [Oligo Space](../companies/oligo-space.md) | 1/1 | machine-learning |
-| [Ontario Teachers' Pension Plan](../companies/ontario-teachers-pension-plan.md) | 3/3 | software-engineering |
+| [Ontario Teachers' Pension Plan](../companies/ontario-teachers-pension-plan.md) | 2/3 | software-engineering |
 | [Open Road Integrated Media](../companies/open-road-integrated-media.md) | 1/1 | software-engineering |
 | [Optiver](../companies/optiver.md) | 12/13 | hardware, quant, software-engineering |
 | [OpusClip](../companies/opusclip.md) | 2/2 | ai |
@@ -514,7 +514,7 @@
 | [RLI](../companies/rli.md) | 0/1 | product |
 | [ROCKWOOL Group](../companies/rockwool-group.md) | 0/2 | product, software-engineering |
 | [RRS Group](../companies/rrs-group.md) | 2/2 | software-engineering |
-| [RTX](../companies/rtx.md) | 23/55 | design, machine-learning, software-engineering |
+| [RTX](../companies/rtx.md) | 21/55 | design, machine-learning, software-engineering |
 | [Radix Trading](../companies/radix-trading.md) | 1/1 | quant |
 | [Rainmaker](../companies/rainmaker.md) | 0/1 | software-engineering |
 | [Rakuten International](../companies/rakuten-international.md) | 0/1 | software-engineering |

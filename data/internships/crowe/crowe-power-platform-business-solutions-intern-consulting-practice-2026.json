@@ -1,20 +1,25 @@
 {
   "schema_version": "1.0",
-  "id": "rtx-software-engineering-intern-2027-f059af",
+  "id": "crowe-power-platform-business-solutions-intern-consulting-practice-2026",
   "company": {
-    "name": "RTX",
-    "slug": "rtx"
+    "name": "Crowe",
+    "slug": "crowe"
   },
-  "role": "Software Engineering Intern",
+  "role": "Power Platform Business Solutions Intern - Consulting Practice",
   "category": "software-engineering",
-  "apply_url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-CAMBRIDGE-BBN01--10--50-Moulton-St--MOULTON-B2/XMLNAME-2027-Software-Engineering-Intern--Onsite-_01864698",
-  "season": "summer",
-  "year": 2027,
+  "apply_url": "https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/Power-Platform-Business-Solutions-Intern_R-71035",
+  "season": "fall",
+  "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Cambridge",
-      "state": "MA",
+      "city": "Chicago",
+      "state": "IL",
+      "country": "USA"
+    },
+    {
+      "city": "Sacramento",
+      "state": "CA",
       "country": "USA"
     }
   ],
@@ -40,8 +45,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-18",
-    "discovered": "2026-08-20",
+    "posted": "2026-08-14",
+    "discovered": "2026-08-21",
     "last_verified": "2026-08-21"
   },
   "status": "open",

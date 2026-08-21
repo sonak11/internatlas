@@ -33,7 +33,7 @@ _Generated 2026-08-21_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 1145 | `█████████████` |
+| software-engineering | 1146 | `█████████████` |
 | ai | 204 | `██` |
 | quant | 189 | `██` |
 | machine-learning | 141 | `██` |
@@ -160,6 +160,9 @@ _Generated 2026-08-21_
 - Global Infrastructure — Alternative Delivery Project Analytics Intern
 - Golden Pet Brands — Data Analytics Intern
 - Goldman Sachs — AWM Product Management Analyst Intern
+- Goldman Sachs — Quantitative Strategist Associate Intern - Asset and Wealth Management
+- Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
+- Goldman Sachs — Summer Analyst Intern - Americas - AWM Product Management
 - Goldman Sachs — Summer Analyst Intern - FICC and Equities - Sales and Trading
 - Goldman Sachs — Summer Analyst Intern - FICC & Equities - Sales & Trading
 - Goldman Sachs — Summer Analyst Intern - Wealth Management - Product Management and Design
@@ -224,6 +227,8 @@ _Generated 2026-08-21_
 - Nokia — Electromechanical Assembly Co-op Intern - Intern
 - Nokia — Hardware Developer Engineer Co-op/Intern
 - NVIDIA — Computer Architecture Intern
+- NVIDIA — Ph.D. Engineering Intern
+- Ontario Teachers' Pension Plan — Finance Intern - Risk Analytics
 - Otter Products — Artificial Intelligence Intern
 - Palantir — Forward Deployed Software Engineer Intern
 - PEAK6 — Trading Bootcamp Micro-Internship - Summer 2027
@@ -268,6 +273,8 @@ _Generated 2026-08-21_
 - RTX — Software Engineer Intern
 - RTX — Software Engineer Intern
 - RTX — Software Engineer Intern - Spring 2027
+- RTX — Software Engineer Intern - Summer 2027
+- RTX — Software Engineer Intern - Summer 2027
 - RTX — Software Engineer Intern - Summer 2027
 - RTX — Software Engineer Intern - Summer 2027
 - RTX — Software Engineer Intern - Summer 2027
