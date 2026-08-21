@@ -91,7 +91,7 @@
 | [BRG](../companies/brg.md) | 1/1 | software-engineering |
 | [Baker Hughes](../companies/baker-hughes.md) | 1/1 | software-engineering |
 | [Bank of China USA](../companies/bank-of-china-usa.md) | 3/3 | software-engineering |
-| [Bank of Montreal](../companies/bank-of-montreal.md) | 1/9 | ai, data-science, software-engineering |
+| [Bank of Montreal](../companies/bank-of-montreal.md) | 4/12 | ai, data-science, software-engineering |
 | [Barclays](../companies/barclays.md) | 1/1 | quant |
 | [Base Power](../companies/base-power.md) | 1/1 | embedded |
 | [Beacon Software](../companies/beacon-software.md) | 1/1 | software-engineering |
@@ -127,6 +127,7 @@
 | [Cadence Design Systems](../companies/cadence-design-systems.md) | 0/6 | design, software-engineering |
 | [Campbell Soup Company](../companies/campbell-soup-company.md) | 1/1 | ai |
 | [Canva](../companies/canva.md) | 4/5 | ai, research |
+| [Capacity](../companies/capacity.md) | 1/1 | software-engineering |
 | [Capital One](../companies/capital-one.md) | 10/15 | data-science, security, software-engineering |
 | [Capula](../companies/capula.md) | 1/1 | quant |
 | [Carnegie Mellon University](../companies/carnegie-mellon-university.md) | 0/1 | research |
@@ -198,6 +199,7 @@
 | [Devon Energy](../companies/devon-energy.md) | 1/1 | data-engineering |
 | [Dexmate](../companies/dexmate.md) | 1/1 | software-engineering |
 | [DiDi Global](../companies/didi-global.md) | 1/2 | software-engineering |
+| [Diamondback Energy](../companies/diamondback-energy.md) | 1/1 | software-engineering |
 | [DimeHealth AI](../companies/dimehealth-ai.md) | 1/1 | software-engineering |
 | [Dimensional Fund Advisors](../companies/dimensional-fund-advisors.md) | 2/2 | software-engineering |
 | [Ditto](../companies/ditto.md) | 0/1 | software-engineering |
@@ -260,6 +262,7 @@
 | [Freeform](../companies/freeform.md) | 1/3 | software-engineering |
 | [Frontier Health](../companies/frontier-health.md) | 1/1 | research |
 | [Frost](../companies/frost.md) | 1/1 | software-engineering |
+| [Fullbay](../companies/fullbay.md) | 1/1 | software-engineering |
 | [Fussball Club Cincinnati LLC (“FC Cincinnati”)](../companies/fussball-club-cincinnati-llc-fc-cincinnati.md) | 1/1 | software-engineering |
 | [G-Research](../companies/g-research.md) | 4/4 | data-science, machine-learning, quant, software-engineering |
 | [GCI](../companies/gci.md) | 1/1 | software-engineering |
@@ -345,7 +348,7 @@
 | [IntelliGenesis](../companies/intelligenesis.md) | 1/1 | data-science |
 | [Interco](../companies/interco.md) | 1/1 | software-engineering |
 | [Intercontinental Exchange, Inc.](../companies/intercontinental-exchange-inc.md) | 1/1 | machine-learning |
-| [Interdigital](../companies/interdigital.md) | 1/1 | software-engineering |
+| [Interdigital](../companies/interdigital.md) | 2/2 | software-engineering |
 | [International Rescue Committee (IRC)](../companies/international-rescue-committee-irc.md) | 2/2 | research, software-engineering |
 | [Intuit](../companies/intuit.md) | 0/1 | software-engineering |
 | [Intuitive Surgical](../companies/intuitive-surgical.md) | 0/1 | software-engineering |
@@ -384,7 +387,7 @@
 | [Lumentum](../companies/lumentum.md) | 0/2 | software-engineering |
 | [Luminance](../companies/luminance.md) | 1/1 | ai |
 | [Léger](../companies/l-ger.md) | 1/1 | research |
-| [Mackenzie Investments](../companies/mackenzie-investments.md) | 0/1 | ai |
+| [Mackenzie Investments](../companies/mackenzie-investments.md) | 1/2 | ai, data-science |
 | [Magna](../companies/magna.md) | 1/1 | software-engineering |
 | [Magnera](../companies/magnera.md) | 0/1 | software-engineering |
 | [Markem-Imaje](../companies/markem-imaje.md) | 1/1 | software-engineering |
@@ -548,7 +551,7 @@
 | [Rise8](../companies/rise8.md) | 0/1 | product |
 | [Riveron](../companies/riveron.md) | 0/1 | software-engineering |
 | [Rivian](../companies/rivian.md) | 2/5 | embedded, hardware, machine-learning, research, software-engineering |
-| [Rivian and Volkswagen Group Technologies](../companies/rivian-and-volkswagen-group-technologies.md) | 10/16 | ai, design, embedded, software-engineering |
+| [Rivian and Volkswagen Group Technologies](../companies/rivian-and-volkswagen-group-technologies.md) | 9/16 | ai, design, embedded, software-engineering |
 | [Roam](../companies/roam.md) | 1/1 | software-engineering |
 | [Robert Bosch LLC](../companies/robert-bosch-llc.md) | 1/1 | software-engineering |
 | [Robert Bosch Venture Capital](../companies/robert-bosch-venture-capital.md) | 0/1 | embedded |
@@ -564,7 +567,7 @@
 | [SRI International](../companies/sri-international.md) | 0/1 | software-engineering |
 | [SS&C](../companies/ss-c.md) | 0/1 | ai |
 | [Salesforce](../companies/salesforce.md) | 0/4 | product, software-engineering |
-| [Samsara](../companies/samsara.md) | 2/2 | software-engineering |
+| [Samsara](../companies/samsara.md) | 4/4 | software-engineering |
 | [Samsung](../companies/samsung.md) | 0/1 | research |
 | [Samsung Research America](../companies/samsung-research-america.md) | 1/4 | ai, machine-learning, software-engineering |
 | [Sandhills Global](../companies/sandhills-global.md) | 1/1 | software-engineering |

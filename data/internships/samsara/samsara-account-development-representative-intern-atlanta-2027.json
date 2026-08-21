@@ -1,24 +1,21 @@
 {
   "schema_version": "1.0",
-  "id": "rivian-and-volkswagen-group-technologies-software-engineer-intern-co-op-vehicle-controls-2026",
+  "id": "samsara-account-development-representative-intern-atlanta-2027",
   "company": {
-    "name": "Rivian and Volkswagen Group Technologies",
-    "slug": "rivian-and-volkswagen-group-technologies"
+    "name": "Samsara",
+    "slug": "samsara",
+    "career_page": "https://www.samsara.com/company/careers"
   },
-  "role": "Software Engineer Intern Co-op - Vehicle Controls",
+  "role": "Account Development Representative Intern - Atlanta",
   "category": "software-engineering",
-  "apply_url": "https://jobs.ashbyhq.com/rivianvw.tech/a706bc73-8c3d-41b0-8bc5-874926a4af3e/application",
-  "season": "fall",
-  "year": 2026,
+  "apply_url": "https://www.samsara.com/company/careers/roles/8103119?gh_jid=8103119",
+  "season": "summer",
+  "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Toronto",
-      "country": "ON"
-    },
-    {
-      "city": "Vancouver",
-      "country": "BC"
+      "city": "Atlanta",
+      "country": "USA"
     }
   ],
   "compensation": {
@@ -28,9 +25,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -45,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-06-11",
-    "discovered": "2026-07-17",
+    "posted": "2026-08-21",
+    "discovered": "2026-08-21",
     "last_verified": "2026-08-21"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:ats"
   ]
 }

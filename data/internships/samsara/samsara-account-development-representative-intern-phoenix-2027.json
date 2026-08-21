@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "neuralink-mechanical-engineering-intern-robotics-2027",
+  "id": "samsara-account-development-representative-intern-phoenix-2027",
   "company": {
-    "name": "Neuralink",
-    "slug": "neuralink",
-    "career_page": "https://neuralink.com/careers"
+    "name": "Samsara",
+    "slug": "samsara",
+    "career_page": "https://www.samsara.com/company/careers"
   },
-  "role": "Mechanical Engineering Intern, Robotics",
-  "category": "hardware",
-  "apply_url": "https://boards.greenhouse.io/neuralink/jobs/6514169003?gh_jid=6514169003",
+  "role": "Account Development Representative Intern - Phoenix",
+  "category": "software-engineering",
+  "apply_url": "https://www.samsara.com/company/careers/roles/8099799?gh_jid=8099799",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "South San Francisco",
+      "city": "Phoenix",
       "country": "USA"
     }
   ],
@@ -40,8 +40,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2025-03-28",
-    "discovered": "2026-07-18",
+    "posted": "2026-08-21",
+    "discovered": "2026-08-21",
     "last_verified": "2026-08-21"
   },
   "status": "open",

@@ -33,8 +33,8 @@ _Generated 2026-08-21_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 1184 | `█████████████` |
-| ai | 209 | `██` |
+| software-engineering | 1191 | `█████████████` |
+| ai | 210 | `██` |
 | quant | 196 | `██` |
 | machine-learning | 141 | `██` |
 | research | 107 | `█` |
@@ -42,8 +42,8 @@ _Generated 2026-08-21_
 | product | 60 | `█` |
 | embedded | 56 | `█` |
 | design | 43 | `█` |
+| data-science | 42 | `█` |
 | cloud | 42 | `█` |
-| data-science | 40 | `█` |
 | data-engineering | 24 | `█` |
 | security | 15 | `█` |
 
@@ -266,6 +266,7 @@ _Generated 2026-08-21_
 - Rivian and Volkswagen Group Technologies — Data Engineering Intern - AI & Analytics
 - Rivian and Volkswagen Group Technologies — Electromechanical Design Engineer Intern
 - Rivian and Volkswagen Group Technologies — Software Engineer Intern - Applications
+- Rivian and Volkswagen Group Technologies — Software Engineer Intern Co-op - Vehicle Controls
 - Rivian and Volkswagen Group Technologies — Software Engineer Intern - Connected Systems
 - Rivian and Volkswagen Group Technologies — Software Engineer Intern - Embedded Platforms
 - RLI — Product Management Intern

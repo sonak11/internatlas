@@ -1,24 +1,21 @@
 {
   "schema_version": "1.0",
-  "id": "rivian-and-volkswagen-group-technologies-software-engineer-intern-co-op-vehicle-controls-2026",
+  "id": "diamondback-energy-geoscience-intern-2027",
   "company": {
-    "name": "Rivian and Volkswagen Group Technologies",
-    "slug": "rivian-and-volkswagen-group-technologies"
+    "name": "Diamondback Energy",
+    "slug": "diamondback-energy"
   },
-  "role": "Software Engineer Intern Co-op - Vehicle Controls",
+  "role": "Geoscience Intern",
   "category": "software-engineering",
-  "apply_url": "https://jobs.ashbyhq.com/rivianvw.tech/a706bc73-8c3d-41b0-8bc5-874926a4af3e/application",
-  "season": "fall",
-  "year": 2026,
+  "apply_url": "https://diamondbackenergy.wd12.myworkdayjobs.com/DBE/job/Midland-TX/Summer-2027-Geoscience-Intern_R100829",
+  "season": "summer",
+  "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Toronto",
-      "country": "ON"
-    },
-    {
-      "city": "Vancouver",
-      "country": "BC"
+      "city": "Midland",
+      "state": "TX",
+      "country": "USA"
     }
   ],
   "compensation": {
@@ -45,11 +42,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-06-11",
-    "discovered": "2026-07-17",
+    "posted": "2026-08-21",
+    "discovered": "2026-08-21",
     "last_verified": "2026-08-21"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"
