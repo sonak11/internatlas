@@ -10,8 +10,8 @@ _Generated 2026-08-21_
 |---|---|
 | TikTok | 140 |
 | Tesla | 110 |
+| RTX | 56 |
 | ByteDance | 54 |
-| RTX | 54 |
 | Jump Trading | 43 |
 | Cloudflare | 34 |
 | American Express | 30 |
@@ -33,13 +33,13 @@ _Generated 2026-08-21_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 1168 | `█████████████` |
-| ai | 208 | `██` |
-| quant | 193 | `██` |
+| software-engineering | 1179 | `█████████████` |
+| ai | 209 | `██` |
+| quant | 196 | `██` |
 | machine-learning | 141 | `██` |
 | research | 107 | `█` |
 | hardware | 97 | `█` |
-| product | 59 | `█` |
+| product | 60 | `█` |
 | embedded | 56 | `█` |
 | design | 43 | `█` |
 | cloud | 42 | `█` |
@@ -148,6 +148,7 @@ _Generated 2026-08-21_
 - Exabeam — AI Deployment Intern
 - Excel Sports Management — Analytics Intern - Analytics
 - Excel Sports Management — Football Coaches Intern
+- Fab2 — Automation Software Engineer Intern
 - Fab2 — Embedded Software Engineer Intern
 - Fab2 — Rust Software Engineer Intern - Chip Design Tools
 - Fab2 — Software Engineer Intern
@@ -168,8 +169,15 @@ _Generated 2026-08-21_
 - Global Infrastructure — Alternative Delivery Project Analytics Intern
 - GoDaddy — Software Development Engineer Intern
 - Golden Pet Brands — Data Analytics Intern
-- Goldman Sachs — AWM Product Management Analyst Intern
-- Goldman Sachs — Summer Analyst Intern - Americas - AWM Product Management
+- Goldman Sachs — Quantitative Strategist Associate Intern - Asset and Wealth Management
+- Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
+- Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
+- Goldman Sachs — Summer Analyst Intern - FICC and Equities - Sales and Trading
+- Goldman Sachs — Summer Analyst Intern - FICC & Equities - Sales & Trading
+- Goldman Sachs — Summer Analyst Intern - Wealth Management - Product Management and Design
+- Goldman Sachs — Summer Associate Intern - Multiple Teams
 - Group 1001 — Quantitative Analysis Intern
 - Gulfstream — Computer Science Intern - Advanced Structures and Materials
 - Gumloop — Design Engineer Intern
@@ -224,7 +232,6 @@ _Generated 2026-08-21_
 - National Laboratory of the Rockies — Graduate Intern - Transportation Systems Analysis
 - National Laboratory of the Rockies — Software and Data Infrastructure Intern
 - National Reconnaissance Office — Summer Internship - Dr. Chris Scolese
-- Nationwide Children's Hospital — IGM Research Intern - RI Miller
 - Nationwide Children's Hospital — Research Intern
 - Netsmart — Software Engineer Intern
 - New Balance — Sports Research Engineer Intern
@@ -255,6 +262,9 @@ _Generated 2026-08-21_
 - Rivian — Intern
 - Rivian — Research Park Intern - Embedded Software
 - Rivian — UIUC Research Park Intern - Computational Methods Development
+- Rivian and Volkswagen Group Technologies — Electromechanical Design Engineer Intern
+- Rivian and Volkswagen Group Technologies — Software Engineer Intern - Applications
+- Rivian and Volkswagen Group Technologies — Software Engineer Intern - Connected Systems
 - RLI — Product Management Intern
 - Rockwell Automation — Firmware Engineering Intern
 - Rockwell Automation — Firmware Engineering Intern
@@ -340,6 +350,7 @@ _Generated 2026-08-21_
 - Together AI — Systems Research Engineer Intern - GPU Programming
 - Toshiba Global Commerce — Hardware Engineer Intern
 - Toshiba Global Commerce — Product & Business Analytics Intern
+- Trillium — Software Engineer Intern - Summer 2027
 - Truist Bank — Analyst Intern Conversion - Multiple Teams
 - Truist Bank — Analyst Intern - Equity Research - Sales, Trading & Research
 - Truist Bank — Fixed Income Loans S&T Intern - Sales, Trading & Research - Analyst Program

@@ -1,13 +1,13 @@
 {
   "schema_version": "1.0",
-  "id": "goldman-sachs-quantitative-strategist-associate-intern-the-core-quantitati-2027-14d0f0",
+  "id": "susquehanna-international-group-quantitative-strategy-developer-intern-2027",
   "company": {
-    "name": "Goldman Sachs",
-    "slug": "goldman-sachs"
+    "name": "Susquehanna International Group",
+    "slug": "susquehanna-international-group"
   },
-  "role": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
+  "role": "Quantitative Strategy Developer Intern",
   "category": "quant",
-  "apply_url": "https://higher.gs.com/roles/175427?type=students",
+  "apply_url": "https://careers-sig.icims.com/jobs/11333/job?mobile=true&needsRedirect=false",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
@@ -15,6 +15,10 @@
     {
       "city": "London",
       "country": "UK"
+    },
+    {
+      "city": "Dublin",
+      "country": "Ireland"
     }
   ],
   "compensation": {
@@ -25,7 +29,7 @@
   "eligibility": {
     "graduation_years": [],
     "degree_levels": [
-      "phd"
+      "masters"
     ],
     "citizenship_required": false,
     "security_clearance_required": false,
@@ -41,11 +45,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-15",
+    "posted": "2026-08-21",
     "discovered": "2026-08-21",
     "last_verified": "2026-08-21"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"
