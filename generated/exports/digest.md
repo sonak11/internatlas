@@ -1,6 +1,6 @@
 # 📬 InternAtlas Weekly Digest — 2026-08-21
 
-## 🆕 New this week (396)
+## 🆕 New this week (398)
 
 - **AARP** — [Data Science and Advanced Analytics Intern](https://careers.aarp.org/jobs/7437?icims=1) · data-science · —
 - **AMD** — [Data Analyst Intern/Co-op](https://careers.amd.com/jobs/91183?icims=1) · software-engineering · —
@@ -166,7 +166,9 @@
 - **Goldman Sachs** — [AWM Product Management Analyst Intern](https://higher.gs.com/roles/171513?type=students) · product · —
 - **Goldman Sachs** — [Quantitative Strategist Associate Intern - Asset and Wealth Management](https://higher.gs.com/roles/175423?type=students) · quant · —
 - **Goldman Sachs** — [Quantitative Strategist Associate Intern - The Core Quantitative Strats](https://higher.gs.com/roles/175427?type=students) · quant · —
+- **Goldman Sachs** — [Quantitative Strategist Associate Intern - The Core Quantitative Strats](https://higher.gs.com/roles/171535?type=students) · quant · —
 - **Goldman Sachs** — [Quantitative Strategist Intern - Multiple Teams](https://higher.gs.com/roles/175424?type=students) · quant · —
+- **Goldman Sachs** — [Quantitative Strategist Intern - Multiple Teams](https://higher.gs.com/roles/171563?type=students) · quant · —
 - **Goldman Sachs** — [Summer Analyst Intern - Americas - AWM Product Management](https://higher.gs.com/roles/182389?type=students) · product · —
 - **Goldman Sachs** — [Summer Analyst Intern - FICC and Equities - Sales and Trading](https://higher.gs.com/roles/181628?type=students) · quant · —
 - **Goldman Sachs** — [Summer Analyst Intern - FICC & Equities - Sales & Trading](https://higher.gs.com/roles/170675?type=students) · quant · —

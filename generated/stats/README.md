@@ -35,7 +35,7 @@ _Generated 2026-08-21_
 |---|---|---|
 | software-engineering | 1146 | `█████████████` |
 | ai | 204 | `██` |
-| quant | 189 | `██` |
+| quant | 191 | `██` |
 | machine-learning | 141 | `██` |
 | research | 107 | `█` |
 | hardware | 97 | `█` |
@@ -160,13 +160,7 @@ _Generated 2026-08-21_
 - Global Infrastructure — Alternative Delivery Project Analytics Intern
 - Golden Pet Brands — Data Analytics Intern
 - Goldman Sachs — AWM Product Management Analyst Intern
-- Goldman Sachs — Quantitative Strategist Associate Intern - Asset and Wealth Management
-- Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
 - Goldman Sachs — Summer Analyst Intern - Americas - AWM Product Management
-- Goldman Sachs — Summer Analyst Intern - FICC and Equities - Sales and Trading
-- Goldman Sachs — Summer Analyst Intern - FICC & Equities - Sales & Trading
-- Goldman Sachs — Summer Analyst Intern - Wealth Management - Product Management and Design
-- Goldman Sachs — Summer Associate Intern - Multiple Teams
 - Group 1001 — Quantitative Analysis Intern
 - Gulfstream — Computer Science Intern - Advanced Structures and Materials
 - Gumloop — Design Engineer Intern
@@ -227,7 +221,6 @@ _Generated 2026-08-21_
 - Nokia — Electromechanical Assembly Co-op Intern - Intern
 - Nokia — Hardware Developer Engineer Co-op/Intern
 - NVIDIA — Computer Architecture Intern
-- NVIDIA — Ph.D. Engineering Intern
 - Ontario Teachers' Pension Plan — Finance Intern - Risk Analytics
 - Otter Products — Artificial Intelligence Intern
 - Palantir — Forward Deployed Software Engineer Intern

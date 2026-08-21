@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "goldman-sachs-quantitative-strategist-associate-intern-the-core-quantitati-2027",
+  "id": "goldman-sachs-quantitative-strategist-associate-intern-the-core-quantitati-2027-14d0f0",
   "company": {
     "name": "Goldman Sachs",
     "slug": "goldman-sachs"
   },
   "role": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
   "category": "quant",
-  "apply_url": "https://higher.gs.com/roles/171535?type=students",
+  "apply_url": "https://higher.gs.com/roles/175427?type=students",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "NYC",
-      "country": "USA"
+      "city": "London",
+      "country": "UK"
     }
   ],
   "compensation": {
@@ -42,7 +42,7 @@
   },
   "dates": {
     "posted": "2026-08-15",
-    "discovered": "2026-08-15",
+    "discovered": "2026-08-21",
     "last_verified": "2026-08-21"
   },
   "status": "open",
