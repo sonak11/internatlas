@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "readystate-asset-management-investment-intern-summer-2027-2028-2027",
+  "id": "solid-power-product-engineer-intern-2026",
   "company": {
-    "name": "Readystate Asset Management",
-    "slug": "readystate-asset-management"
+    "name": "Solid Power",
+    "slug": "solid-power"
   },
-  "role": "Investment Intern - Summer 2027 & 2028",
+  "role": "Product Engineer Intern",
   "category": "software-engineering",
-  "apply_url": "https://job-boards.greenhouse.io/readystate/jobs/4171077008",
-  "season": "summer",
-  "year": 2027,
+  "apply_url": "https://job-boards.greenhouse.io/solidpower/jobs/6150710004",
+  "season": "fall",
+  "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Chicago",
-      "state": "IL",
+      "city": "Thornton",
+      "state": "CO",
       "country": "USA"
     }
   ],
@@ -40,11 +40,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-13",
-    "discovered": "2026-08-17",
+    "posted": "2026-08-21",
+    "discovered": "2026-08-21",
     "last_verified": "2026-08-21"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

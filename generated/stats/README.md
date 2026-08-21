@@ -33,7 +33,7 @@ _Generated 2026-08-21_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 1191 | `█████████████` |
+| software-engineering | 1194 | `█████████████` |
 | ai | 210 | `██` |
 | quant | 196 | `██` |
 | machine-learning | 141 | `██` |
@@ -73,6 +73,7 @@ _Generated 2026-08-21_
 ## Recently closed
 
 - ABB — Application Engineering Intern
+- AcreTrader — Data Intern
 - Adtheorant — Enterprise AI Intern
 - Alljoined — Research Intern
 - Altera Corporation — Embedded Solutions Intern
@@ -170,11 +171,13 @@ _Generated 2026-08-21_
 - Global Partners — Advanced Analytics Intern
 - GoDaddy — Software Development Engineer Intern
 - Golden Pet Brands — Data Analytics Intern
+- Goldman Sachs — AWM Product Management Analyst Intern
 - Goldman Sachs — Quantitative Strategist Associate Intern - Asset and Wealth Management
 - Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
 - Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
 - Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
 - Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
+- Goldman Sachs — Summer Analyst Intern - Americas - AWM Product Management
 - Goldman Sachs — Summer Analyst Intern - FICC and Equities - Sales and Trading
 - Goldman Sachs — Summer Analyst Intern - FICC & Equities - Sales & Trading
 - Goldman Sachs — Summer Analyst Intern - Wealth Management - Product Management and Design
@@ -187,6 +190,7 @@ _Generated 2026-08-21_
 - Hershey — Product Development Intern - R&D
 - Hitachi — Data Center Optimization Intern
 - Horizon Industries — Appian Intern
+- IES Holdings — Data Analytics Intern
 - IMC Trading — Hardware Machine Learning PhD Research Internship
 - impact.com — Associate Software Engineer Intern
 - Impulse Space — Data Analytics Intern
@@ -254,6 +258,7 @@ _Generated 2026-08-21_
 - Picton Mahoney Asset Management — Quantitative Research & Risk Intern
 - Prophet — AI Engineer Intern - AI Foundry & Digital Growth
 - Quantbot Technologies — Software Engineer Intern
+- Readystate Asset Management — Investment Intern - Summer 2027 & 2028
 - Redwood Materials — Embedded Software Engineer Intern
 - RenderATL — Software Engineer Intern
 - Renesas Electronics — Digital Design Engineer Intern
@@ -267,6 +272,8 @@ _Generated 2026-08-21_
 - Rivian and Volkswagen Group Technologies — Data Engineering Intern - AI & Analytics
 - Rivian and Volkswagen Group Technologies — Electromechanical Design Engineer Intern
 - Rivian and Volkswagen Group Technologies — Software Engineer Intern - Applications
+- Rivian and Volkswagen Group Technologies — Software Engineer Intern Co-op - Applications
+- Rivian and Volkswagen Group Technologies — Software Engineer Intern Co-op - Systems Engineering
 - Rivian and Volkswagen Group Technologies — Software Engineer Intern Co-op - Vehicle Controls
 - Rivian and Volkswagen Group Technologies — Software Engineer Intern - Connected Systems
 - Rivian and Volkswagen Group Technologies — Software Engineer Intern - Embedded Platforms
@@ -377,6 +384,7 @@ _Generated 2026-08-21_
 - Wells Fargo — Quantitative Analytics Intern - Multiple Teams
 - Western Digital — Failure Analysis Automation Engineer Intern - Failure Analysis Automation Engineering
 - Western Digital — Software Engineer Intern
+- Western Magnetics — Software Engineer Intern
 - WGU — Data Support Engineer Intern
 - Willkie Farr & Gallagher — Financial Data Analyst Intern
 - X Development — PhD Residency Intern - Operations Research and Optimization

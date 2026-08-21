@@ -20,7 +20,7 @@
 | [Abridge](../companies/abridge.md) | 1/1 | software-engineering |
 | [Abundant](../companies/abundant.md) | 2/2 | research |
 | [Accenture](../companies/accenture.md) | 0/2 | software-engineering |
-| [AcreTrader](../companies/acretrader.md) | 1/1 | software-engineering |
+| [AcreTrader](../companies/acretrader.md) | 0/1 | software-engineering |
 | [Ada](../companies/ada.md) | 0/1 | software-engineering |
 | [Adobe](../companies/adobe.md) | 0/1 | machine-learning |
 | [Adtheorant](../companies/adtheorant.md) | 0/1 | ai |
@@ -226,6 +226,7 @@
 | [Eridu AI](../companies/eridu-ai.md) | 1/1 | software-engineering |
 | [Etched](../companies/etched.md) | 12/14 | cloud, embedded, software-engineering |
 | [Ether.fi](../companies/ether-fi.md) | 1/1 | software-engineering |
+| [Eudia](../companies/eudia.md) | 1/1 | software-engineering |
 | [Eversource Energy](../companies/eversource-energy.md) | 1/1 | software-engineering |
 | [Evonik](../companies/evonik.md) | 0/1 | software-engineering |
 | [Exa](../companies/exa.md) | 1/1 | software-engineering |
@@ -288,7 +289,7 @@
 | [Global Partners](../companies/global-partners.md) | 0/1 | software-engineering |
 | [GoDaddy](../companies/godaddy.md) | 0/1 | software-engineering |
 | [Golden Pet Brands](../companies/golden-pet-brands.md) | 0/1 | software-engineering |
-| [Goldman Sachs](../companies/goldman-sachs.md) | 2/11 | product, quant, software-engineering |
+| [Goldman Sachs](../companies/goldman-sachs.md) | 0/11 | product, quant, software-engineering |
 | [Google](../companies/google.md) | 3/7 | data-science, research, software-engineering |
 | [Grant Thornton](../companies/grant-thornton.md) | 2/2 | software-engineering |
 | [Gritt Robotics Inc](../companies/gritt-robotics-inc.md) | 1/1 | software-engineering |
@@ -327,7 +328,7 @@
 | [Humana](../companies/humana.md) | 3/3 | software-engineering |
 | [HyperLight](../companies/hyperlight.md) | 2/2 | software-engineering |
 | [Hypercubic](../companies/hypercubic.md) | 2/2 | software-engineering |
-| [IES Holdings](../companies/ies-holdings.md) | 1/1 | software-engineering |
+| [IES Holdings](../companies/ies-holdings.md) | 0/1 | software-engineering |
 | [IMC](../companies/imc.md) | 4/4 | hardware, quant, software-engineering |
 | [IMC Trading](../companies/imc-trading.md) | 15/23 | hardware, machine-learning, quant |
 | [IMEG](../companies/imeg.md) | 1/1 | software-engineering |
@@ -392,6 +393,7 @@
 | [Magnera](../companies/magnera.md) | 0/1 | software-engineering |
 | [Markem-Imaje](../companies/markem-imaje.md) | 1/1 | software-engineering |
 | [Marmon Holdings](../companies/marmon-holdings.md) | 5/5 | data-engineering, software-engineering |
+| [Marsh](../companies/marsh.md) | 1/1 | software-engineering |
 | [Marshall Wace](../companies/marshall-wace.md) | 2/2 | software-engineering |
 | [Marvell](../companies/marvell.md) | 2/3 | design, software-engineering |
 | [Mathtech](../companies/mathtech.md) | 1/1 | software-engineering |
@@ -532,7 +534,7 @@
 | [Ramp](../companies/ramp.md) | 1/1 | software-engineering |
 | [RapDev](../companies/rapdev.md) | 0/1 | software-engineering |
 | [Raytheon](../companies/raytheon.md) | 1/1 | software-engineering |
-| [Readystate Asset Management](../companies/readystate-asset-management.md) | 1/1 | software-engineering |
+| [Readystate Asset Management](../companies/readystate-asset-management.md) | 0/1 | software-engineering |
 | [Red Bull](../companies/red-bull.md) | 1/1 | data-science |
 | [Redwood Materials](../companies/redwood-materials.md) | 1/2 | embedded, software-engineering |
 | [RegDesk](../companies/regdesk.md) | 1/1 | software-engineering |
@@ -551,7 +553,7 @@
 | [Rise8](../companies/rise8.md) | 0/1 | product |
 | [Riveron](../companies/riveron.md) | 0/1 | software-engineering |
 | [Rivian](../companies/rivian.md) | 2/5 | embedded, hardware, machine-learning, research, software-engineering |
-| [Rivian and Volkswagen Group Technologies](../companies/rivian-and-volkswagen-group-technologies.md) | 9/16 | ai, design, embedded, software-engineering |
+| [Rivian and Volkswagen Group Technologies](../companies/rivian-and-volkswagen-group-technologies.md) | 7/16 | ai, design, embedded, software-engineering |
 | [Roam](../companies/roam.md) | 1/1 | software-engineering |
 | [Robert Bosch LLC](../companies/robert-bosch-llc.md) | 1/1 | software-engineering |
 | [Robert Bosch Venture Capital](../companies/robert-bosch-venture-capital.md) | 0/1 | embedded |
@@ -594,7 +596,7 @@
 | [Snap](../companies/snap.md) | 1/1 | research |
 | [Snorkel AI](../companies/snorkel-ai.md) | 0/1 | ai |
 | [Snowflake](../companies/snowflake.md) | 3/3 | cloud, software-engineering |
-| [Solid Power](../companies/solid-power.md) | 0/1 | software-engineering |
+| [Solid Power](../companies/solid-power.md) | 1/2 | software-engineering |
 | [SoloPulse](../companies/solopulse.md) | 1/1 | software-engineering |
 | [Sony Music Entertainment](../companies/sony-music-entertainment.md) | 1/2 | research, software-engineering |
 | [Sony Pictures Entertainment](../companies/sony-pictures-entertainment.md) | 0/2 | software-engineering |
@@ -713,7 +715,7 @@
 | [Warner Bros.](../companies/warner-bros.md) | 0/3 | research, software-engineering |
 | [Wells Fargo](../companies/wells-fargo.md) | 4/6 | quant, software-engineering |
 | [Western Digital](../companies/western-digital.md) | 1/3 | hardware, software-engineering |
-| [Western Magnetics](../companies/western-magnetics.md) | 1/1 | software-engineering |
+| [Western Magnetics](../companies/western-magnetics.md) | 0/1 | software-engineering |
 | [Williams](../companies/williams.md) | 0/1 | software-engineering |
 | [Willkie Farr & Gallagher](../companies/willkie-farr-gallagher.md) | 0/1 | software-engineering |
 | [WindBorne Systems](../companies/windborne-systems.md) | 1/1 | embedded |

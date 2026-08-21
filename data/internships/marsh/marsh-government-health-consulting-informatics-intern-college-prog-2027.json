@@ -1,20 +1,25 @@
 {
   "schema_version": "1.0",
-  "id": "readystate-asset-management-investment-intern-summer-2027-2028-2027",
+  "id": "marsh-government-health-consulting-informatics-intern-college-prog-2027",
   "company": {
-    "name": "Readystate Asset Management",
-    "slug": "readystate-asset-management"
+    "name": "Marsh",
+    "slug": "marsh"
   },
-  "role": "Investment Intern - Summer 2027 & 2028",
+  "role": "Government Health Consulting Informatics Intern - College Program",
   "category": "software-engineering",
-  "apply_url": "https://job-boards.greenhouse.io/readystate/jobs/4171077008",
+  "apply_url": "https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Phoenix---E-Camelback/Government-Health-Consulting-Informatics-Summer-Intern---College-Program-2027_R_362073",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Chicago",
-      "state": "IL",
+      "city": "Phoenix",
+      "state": "AZ",
+      "country": "USA"
+    },
+    {
+      "city": "Minneapolis",
+      "state": "MN",
       "country": "USA"
     }
   ],
@@ -40,11 +45,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-13",
-    "discovered": "2026-08-17",
+    "posted": "2026-08-21",
+    "discovered": "2026-08-21",
     "last_verified": "2026-08-21"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"
