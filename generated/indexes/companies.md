@@ -281,7 +281,7 @@
 | [Global Partners](../companies/global-partners.md) | 1/1 | software-engineering |
 | [GoDaddy](../companies/godaddy.md) | 1/1 | software-engineering |
 | [Golden Pet Brands](../companies/golden-pet-brands.md) | 0/1 | software-engineering |
-| [Goldman Sachs](../companies/goldman-sachs.md) | 10/11 | product, quant, software-engineering |
+| [Goldman Sachs](../companies/goldman-sachs.md) | 5/9 | product, quant, software-engineering |
 | [Google](../companies/google.md) | 3/7 | data-science, research, software-engineering |
 | [Grant Thornton](../companies/grant-thornton.md) | 2/2 | software-engineering |
 | [Gritt Robotics Inc](../companies/gritt-robotics-inc.md) | 1/1 | software-engineering |
@@ -345,7 +345,7 @@
 | [Intuit](../companies/intuit.md) | 0/1 | software-engineering |
 | [Intuitive Surgical](../companies/intuitive-surgical.md) | 0/1 | software-engineering |
 | [JINGDONG](../companies/jingdong.md) | 0/1 | software-engineering |
-| [JP Morgan Chase](../companies/jp-morgan-chase.md) | 7/7 | ai, quant, software-engineering |
+| [JP Morgan Chase](../companies/jp-morgan-chase.md) | 6/7 | ai, quant, software-engineering |
 | [Jane Street](../companies/jane-street.md) | 17/17 | data-engineering, hardware, machine-learning, quant, research, security, software-engineering |
 | [Jump Trading](../companies/jump-trading.md) | 42/43 | ai, data-engineering, design, hardware, machine-learning, quant, research |
 | [Junior AI](../companies/junior-ai.md) | 1/1 | software-engineering |
@@ -417,7 +417,7 @@
 | [NBCUniversal](../companies/nbcuniversal.md) | 2/2 | software-engineering |
 | [NBT Bank](../companies/nbt-bank.md) | 0/1 | software-engineering |
 | [NTT DATA AIVista](../companies/ntt-data-aivista.md) | 1/1 | ai |
-| [NVIDIA](../companies/nvidia.md) | 19/30 | ai, design, hardware, machine-learning, quant, research, security, software-engineering |
+| [NVIDIA](../companies/nvidia.md) | 20/30 | ai, design, hardware, machine-learning, quant, research, security, software-engineering |
 | [NXP Semiconductors](../companies/nxp-semiconductors.md) | 1/3 | ai, design, software-engineering |
 | [Nash](../companies/nash.md) | 1/1 | software-engineering |
 | [NationGraph](../companies/nationgraph.md) | 1/2 | software-engineering |
@@ -514,7 +514,7 @@
 | [RLI](../companies/rli.md) | 0/1 | product |
 | [ROCKWOOL Group](../companies/rockwool-group.md) | 0/2 | product, software-engineering |
 | [RRS Group](../companies/rrs-group.md) | 2/2 | software-engineering |
-| [RTX](../companies/rtx.md) | 26/55 | design, machine-learning, software-engineering |
+| [RTX](../companies/rtx.md) | 25/55 | design, machine-learning, software-engineering |
 | [Radix Trading](../companies/radix-trading.md) | 1/1 | quant |
 | [Rainmaker](../companies/rainmaker.md) | 0/1 | software-engineering |
 | [Rakuten International](../companies/rakuten-international.md) | 0/1 | software-engineering |
@@ -694,7 +694,7 @@
 | [Wabtec](../companies/wabtec.md) | 2/2 | software-engineering |
 | [WallStreetQuants](../companies/wallstreetquants.md) | 2/2 | quant |
 | [Walleye Capital](../companies/walleye-capital.md) | 3/9 | data-science, quant, software-engineering |
-| [Warner Bros.](../companies/warner-bros.md) | 1/3 | research, software-engineering |
+| [Warner Bros.](../companies/warner-bros.md) | 0/3 | research, software-engineering |
 | [Wells Fargo](../companies/wells-fargo.md) | 4/6 | quant, software-engineering |
 | [Western Digital](../companies/western-digital.md) | 1/3 | hardware, software-engineering |
 | [Western Magnetics](../companies/western-magnetics.md) | 1/1 | software-engineering |

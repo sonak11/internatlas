@@ -35,7 +35,7 @@ _Generated 2026-08-21_
 |---|---|---|
 | software-engineering | 1144 | `█████████████` |
 | ai | 203 | `██` |
-| quant | 191 | `██` |
+| quant | 189 | `██` |
 | machine-learning | 141 | `██` |
 | research | 107 | `█` |
 | hardware | 97 | `█` |
@@ -159,6 +159,9 @@ _Generated 2026-08-21_
 - Global Infrastructure — Alternative Delivery Project Analytics Intern
 - Golden Pet Brands — Data Analytics Intern
 - Goldman Sachs — AWM Product Management Analyst Intern
+- Goldman Sachs — Summer Analyst Intern - FICC and Equities - Sales and Trading
+- Goldman Sachs — Summer Analyst Intern - FICC & Equities - Sales & Trading
+- Goldman Sachs — Summer Analyst Intern - Wealth Management - Product Management and Design
 - Group 1001 — Quantitative Analysis Intern
 - Gulfstream — Computer Science Intern - Advanced Structures and Materials
 - Gumloop — Design Engineer Intern
@@ -179,6 +182,7 @@ _Generated 2026-08-21_
 - Intel — AI Software Engineer Intern
 - Intuit — Software Engineer Intern
 - Intuitive Surgical — Computer Vision Engineer Intern
+- JP Morgan Chase — Data Internship - Data & AI Program
 - KBR — Software Intern
 - Keysight Technologies — AI/ML Research Intern
 - Keysight Technologies — Software Engineer Intern - R&D - FPGA
@@ -218,7 +222,6 @@ _Generated 2026-08-21_
 - Nokia — Electromechanical Assembly Co-op Intern - Intern
 - Nokia — Hardware Developer Engineer Co-op/Intern
 - NVIDIA — Computer Architecture Intern
-- NVIDIA — Developer and Performance Technology Intern
 - Otter Products — Artificial Intelligence Intern
 - Palantir — Forward Deployed Software Engineer Intern
 - PEAK6 — Trading Bootcamp Micro-Internship - Summer 2027
@@ -252,7 +255,8 @@ _Generated 2026-08-21_
 - RTX — Methods Intern - Hot Section Engineering
 - RTX — Modeling, Simulation & Analysis Intern
 - RTX — Radar Digital Products Engineering Intern
-- RTX — Software Development Intern
+- RTX — Software Engineer Intern
+- RTX — Software Engineer Intern
 - RTX — Software Engineer Intern
 - RTX — Software Engineer Intern
 - RTX — Software Engineer Intern
@@ -332,6 +336,7 @@ _Generated 2026-08-21_
 - Vertiv — Software Engineer Intern
 - Warner Bros. — Research & Analytics Internships - Multiple Teams
 - Warner Bros. — Research, Analytics & Strategy Intern
+- Warner Bros. — Sports Growth Strategy and Data Intern
 - Wells Fargo — Corporate Risk Development Program Intern - Core Risk - Early Careers
 - Wells Fargo — Quantitative Analytics Intern - Multiple Teams
 - Western Digital — Failure Analysis Automation Engineer Intern - Failure Analysis Automation Engineering
