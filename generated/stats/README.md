@@ -133,6 +133,7 @@ _Generated 2026-08-21_
 - Copart — Software Engineer Intern
 - Copart — Technology Product Analyst Intern
 - Cotiviti — Agentic AI Research Intern
+- Crowe — NetSuite Implementation Intern - Consulting Practice
 - Definity Financial — Reporting Specialist Co-op/Intern
 - Definity Financial — Technology Solutions Data Platform & Engineering Co-op/Intern
 - Ditto — Ditto Intern Program
@@ -256,6 +257,7 @@ _Generated 2026-08-21_
 - RTX — Methods Intern - Hot Section Engineering
 - RTX — Modeling, Simulation & Analysis Intern
 - RTX — Radar Digital Products Engineering Intern
+- RTX — Software Engineer Intern
 - RTX — Software Engineer Intern
 - RTX — Software Engineer Intern
 - RTX — Software Engineer Intern
