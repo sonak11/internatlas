@@ -10,12 +10,12 @@ _Generated 2026-08-21_
 |---|---|
 | TikTok | 140 |
 | Tesla | 110 |
-| RTX | 55 |
 | ByteDance | 54 |
+| RTX | 54 |
 | Jump Trading | 43 |
-| Cloudflare | 32 |
+| Cloudflare | 34 |
+| American Express | 30 |
 | NVIDIA | 30 |
-| American Express | 28 |
 | AMD | 27 |
 | SpaceX | 25 |
 | IMC Trading | 23 |
@@ -26,26 +26,26 @@ _Generated 2026-08-21_
 | Zipline | 17 |
 | Microsoft | 16 |
 | Rivian and Volkswagen Group Technologies | 16 |
+| Capital One | 15 |
 | Meta | 15 |
-| Etched | 14 |
 
 ## Listings by category
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 1147 | `█████████████` |
-| ai | 204 | `██` |
-| quant | 191 | `██` |
+| software-engineering | 1168 | `█████████████` |
+| ai | 208 | `██` |
+| quant | 193 | `██` |
 | machine-learning | 141 | `██` |
 | research | 107 | `█` |
 | hardware | 97 | `█` |
 | product | 59 | `█` |
-| embedded | 55 | `█` |
+| embedded | 56 | `█` |
 | design | 43 | `█` |
 | cloud | 42 | `█` |
 | data-science | 40 | `█` |
 | data-engineering | 24 | `█` |
-| security | 13 | `█` |
+| security | 15 | `█` |
 
 ## Newest listings
 
@@ -139,6 +139,7 @@ _Generated 2026-08-21_
 - Copart — Technology Product Analyst Intern
 - Cotiviti — Agentic AI Research Intern
 - Crowe — NetSuite Implementation Intern - Consulting Practice
+- Cubist Systematic Strategies — Quantitative Developer Intern
 - Definity Financial — Reporting Specialist Co-op/Intern
 - Definity Financial — Technology Solutions Data Platform & Engineering Co-op/Intern
 - Ditto — Ditto Intern Program
@@ -159,6 +160,7 @@ _Generated 2026-08-21_
 - GE Vernova — Digital Technology Intern
 - GE Vernova — Digital Technology Intern
 - GE Vernova — Engineering Intern
+- Gemini — Software Engineering Intern
 - General Dynamics Information Technology — Artificial Intelligence/Machine Learning Intern
 - General Dynamics Information Technology — Software Developer Intern
 - General Dynamics Mission Systems — Cybersecurity Software Engineer Intern
@@ -345,6 +347,8 @@ _Generated 2026-08-21_
 - US Acute Care Solutions — People Analytics Intern
 - Valeo — Software Engineer Intern
 - Vanguard — Data Analysis Intern
+- Veeam Software — Software Engineering Intern, Platform, Security & AI
+- Veeam Software — Software Engineering Intern, Policy Engineering
 - Veeda AI — AI Scientist Intern - Veeda AI Scientist
 - Vega Investment Technologies — Product Operations Intern
 - Veralto — Machine Learning Co-op Intern

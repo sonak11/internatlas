@@ -16,6 +16,11 @@
       "city": "Cambridge",
       "state": "MA",
       "country": "USA"
+    },
+    {
+      "city": "Somerville",
+      "state": "MA",
+      "country": "USA"
     }
   ],
   "compensation": {

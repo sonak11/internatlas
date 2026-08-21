@@ -1,37 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "atoms-software-engineer-intern-summer-2027-2027",
+  "id": "humana-software-engineer-intern-centerwell-and-humana-military-2027",
   "company": {
-    "name": "Atoms",
-    "slug": "atoms"
+    "name": "Humana",
+    "slug": "humana"
   },
-  "role": "Software Engineer Intern - Summer 2027",
+  "role": "Software Engineer Intern, CenterWell and Humana Military",
   "category": "software-engineering",
-  "apply_url": "https://job-boards.greenhouse.io/cssmerge/jobs/8687896002",
+  "apply_url": "https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Louisville-KY/Humana-Technology-Internship---Summer-2027_R-424692-1",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Seattle",
-      "state": "WA",
-      "country": "USA"
-    },
-    {
-      "city": "SF",
-      "country": "USA"
-    },
-    {
-      "state": "LA",
-      "country": "USA"
-    },
-    {
-      "city": "NYC",
-      "country": "USA"
-    },
-    {
-      "city": "Mountain View",
-      "state": "CA",
+      "city": "Louisville",
+      "state": "KY",
       "country": "USA"
     }
   ],
@@ -42,12 +25,10 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
-    "visa_sponsorship": "unknown"
+    "visa_sponsorship": "no"
   },
   "interview": {},
   "tech": {
@@ -59,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-07",
-    "discovered": "2026-08-07",
+    "posted": "2026-08-21",
+    "discovered": "2026-08-21",
     "last_verified": "2026-08-21"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }

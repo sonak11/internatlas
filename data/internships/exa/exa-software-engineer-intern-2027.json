@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "hpr-hyannis-port-research-fpga-engineer-intern-2027",
+  "id": "exa-software-engineer-intern-2027",
   "company": {
-    "name": "HPR (Hyannis Port Research)",
-    "slug": "hpr-hyannis-port-research"
+    "name": "Exa",
+    "slug": "exa"
   },
-  "role": "FPGA Engineer Intern",
-  "category": "hardware",
-  "apply_url": "https://job-boards.greenhouse.io/hyannisportresearch/jobs/7822801003",
+  "role": "Software Engineer Intern",
+  "category": "software-engineering",
+  "apply_url": "https://jobs.ashbyhq.com/exa/a9e01521-66f1-481b-89da-ec01d4620f16",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Needham",
-      "state": "MA",
+      "city": "San Francisco",
+      "state": "CA",
       "country": "USA"
     }
   ],
@@ -25,12 +25,10 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
-    "visa_sponsorship": "unknown"
+    "visa_sponsorship": "yes"
   },
   "interview": {},
   "tech": {
@@ -42,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-01",
-    "discovered": "2026-08-02",
+    "posted": "2026-08-21",
+    "discovered": "2026-08-21",
     "last_verified": "2026-08-21"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }

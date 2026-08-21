@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "the-nuclear-company-data-science-machine-learning-fellow-intern-2027",
+  "id": "crowe-data-analytics-developer-intern-2026",
   "company": {
-    "name": "The Nuclear Company",
-    "slug": "the-nuclear-company"
+    "name": "Crowe",
+    "slug": "crowe"
   },
-  "role": "Data Science & Machine Learning Fellow Intern",
-  "category": "machine-learning",
-  "apply_url": "https://job-boards.greenhouse.io/thenuclearcompany/jobs/5391923008",
-  "season": "summer",
-  "year": 2027,
+  "role": "Data Analytics Developer Intern",
+  "category": "software-engineering",
+  "apply_url": "https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/Data-Analytics-Developer-Intern_R-71041",
+  "season": "fall",
+  "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Washington",
-      "state": "DC",
+      "city": "Chicago",
+      "state": "IL",
       "country": "USA"
     }
   ],
@@ -25,13 +25,10 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters",
-      "phd"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
-    "visa_sponsorship": "unknown"
+    "visa_sponsorship": "no"
   },
   "interview": {},
   "tech": {
@@ -44,12 +41,12 @@
   },
   "dates": {
     "posted": "2026-08-14",
-    "discovered": "2026-08-14",
+    "discovered": "2026-08-21",
     "last_verified": "2026-08-21"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }

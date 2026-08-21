@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "dv-trading-software-engineer-intern-2027",
+  "id": "capital-one-backend-software-engineer-intern-team-interstellar-2027-c2d4d2",
   "company": {
-    "name": "DV Trading",
-    "slug": "dv-trading"
+    "name": "Capital One",
+    "slug": "capital-one"
   },
-  "role": "Software Engineer Intern",
+  "role": "Backend Software Engineer Intern, Team Interstellar",
   "category": "software-engineering",
-  "apply_url": "https://job-boards.greenhouse.io/dvtrading/jobs/4719119005",
-  "season": "summer",
+  "apply_url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Toronto-ON/Intern--Backend-Software-Engineer---Team-Interstellar---Winter-2027_R249022",
+  "season": "winter",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "NYC",
-      "country": "USA"
+      "city": "Toronto",
+      "country": "ON"
     }
   ],
   "compensation": {
@@ -27,7 +27,7 @@
     "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
-    "visa_sponsorship": "unknown"
+    "visa_sponsorship": "yes"
   },
   "interview": {},
   "tech": {
@@ -39,13 +39,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-11",
-    "discovered": "2026-08-11",
+    "posted": "2026-08-21",
+    "discovered": "2026-08-21",
     "last_verified": "2026-08-21"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }
