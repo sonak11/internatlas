@@ -33,7 +33,7 @@ _Generated 2026-08-21_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 1146 | `█████████████` |
+| software-engineering | 1147 | `█████████████` |
 | ai | 204 | `██` |
 | quant | 191 | `██` |
 | machine-learning | 141 | `██` |
@@ -181,6 +181,7 @@ _Generated 2026-08-21_
 - Intel — AI Software Engineer Intern
 - Intuit — Software Engineer Intern
 - Intuitive Surgical — Computer Vision Engineer Intern
+- JP Morgan Chase — Data & AI Intern - Analyst
 - JP Morgan Chase — Data Internship - Data & AI Program
 - KBR — Software Intern
 - Keysight Technologies — AI/ML Research Intern
