@@ -167,6 +167,7 @@ _Generated 2026-08-21_
 - General Dynamics Mission Systems — Cybersecurity Software Engineer Intern
 - General Motors — Research and Development Intern - Research & Development: AI/ML
 - Global Infrastructure — Alternative Delivery Project Analytics Intern
+- Global Partners — Advanced Analytics Intern
 - GoDaddy — Software Development Engineer Intern
 - Golden Pet Brands — Data Analytics Intern
 - Goldman Sachs — Quantitative Strategist Associate Intern - Asset and Wealth Management

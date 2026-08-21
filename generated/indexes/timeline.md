@@ -544,7 +544,6 @@
 - General Motors — [Battery and Sustainability Intern - Battery Research and Development](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Fall-2026-PhD-Battery---Sustainability-Intern---Battery-Research-and-Development_JR-202618049)
 - GenMD — [AI Research Scientist Intern](https://jobs.ashbyhq.com/genmd/807adafc-7842-4e05-90f3-9bc45dd39a13/application?embed=true)
 - Genworth Financial — [IT Development Program Intern - IT Development Program](https://gnw.wd1.myworkdayjobs.com/GNW/job/Richmond-Virginia/Genworth-IT-Development-Program-Intern---Summer-2027_REQ-260269-1)
-- Global Partners — [Advanced Analytics Intern](https://global.wd1.myworkdayjobs.com/globalpartnerscareers/job/Newton-Office/Advanced-Analytics-Intern_R0031779)
 - Goldman Sachs — [AWM Product Management Analyst Intern](https://higher.gs.com/roles/171513?type=students)
 - Goldman Sachs — [Summer Analyst Intern - Americas - AWM Product Management](https://higher.gs.com/roles/182389?type=students)
 - Google — [Data Science PhD Intern](https://www.google.com/about/careers/applications/jobs/results/73321728058499782)
