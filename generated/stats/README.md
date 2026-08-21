@@ -238,6 +238,7 @@ _Generated 2026-08-21_
 - Noblis — Machinery Silencing Technician Intern
 - Nokia — Electromechanical Assembly Co-op Intern - Intern
 - Nokia — Hardware Developer Engineer Co-op/Intern
+- Notion — Governance, Risk, and Compliance Intern (Fall 2026)
 - NVIDIA — Computer Architecture Intern
 - Ontario Teachers' Pension Plan — Finance Intern - Risk Analytics
 - Otter Products — Artificial Intelligence Intern
@@ -262,6 +263,7 @@ _Generated 2026-08-21_
 - Rivian — Intern
 - Rivian — Research Park Intern - Embedded Software
 - Rivian — UIUC Research Park Intern - Computational Methods Development
+- Rivian and Volkswagen Group Technologies — Data Engineering Intern - AI & Analytics
 - Rivian and Volkswagen Group Technologies — Electromechanical Design Engineer Intern
 - Rivian and Volkswagen Group Technologies — Software Engineer Intern - Applications
 - Rivian and Volkswagen Group Technologies — Software Engineer Intern - Connected Systems

@@ -453,7 +453,7 @@
 | [North Cloud](../companies/north-cloud.md) | 0/1 | ai |
 | [Northrop Grumman](../companies/northrop-grumman.md) | 3/5 | software-engineering |
 | [Northwestern Mutual](../companies/northwestern-mutual.md) | 2/2 | quant, software-engineering |
-| [Notion](../companies/notion.md) | 11/12 | ai, data-science, software-engineering |
+| [Notion](../companies/notion.md) | 10/12 | ai, data-science, software-engineering |
 | [Novanta](../companies/novanta.md) | 1/1 | software-engineering |
 | [Novogradac](../companies/novogradac.md) | 1/1 | software-engineering |
 | [Nuro](../companies/nuro.md) | 1/1 | ai |
@@ -546,7 +546,7 @@
 | [Rise8](../companies/rise8.md) | 0/1 | product |
 | [Riveron](../companies/riveron.md) | 0/1 | software-engineering |
 | [Rivian](../companies/rivian.md) | 2/5 | embedded, hardware, machine-learning, research, software-engineering |
-| [Rivian and Volkswagen Group Technologies](../companies/rivian-and-volkswagen-group-technologies.md) | 12/16 | ai, design, embedded, software-engineering |
+| [Rivian and Volkswagen Group Technologies](../companies/rivian-and-volkswagen-group-technologies.md) | 11/16 | ai, design, embedded, software-engineering |
 | [Roam](../companies/roam.md) | 1/1 | software-engineering |
 | [Robert Bosch LLC](../companies/robert-bosch-llc.md) | 1/1 | software-engineering |
 | [Robert Bosch Venture Capital](../companies/robert-bosch-venture-capital.md) | 0/1 | embedded |
