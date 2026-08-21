@@ -214,7 +214,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -19304,7 +19304,7 @@
         "discovered": "2026-08-03",
         "last_verified": "2026-08-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -19853,7 +19853,7 @@
         "discovered": "2026-08-03",
         "last_verified": "2026-08-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -25615,7 +25615,7 @@
         "discovered": "2026-08-06",
         "last_verified": "2026-08-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03",
@@ -26158,7 +26158,7 @@
         "discovered": "2026-08-11",
         "last_verified": "2026-08-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -39665,7 +39665,7 @@
         "discovered": "2026-07-31",
         "last_verified": "2026-08-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -63389,7 +63389,7 @@
         "discovered": "2026-08-04",
         "last_verified": "2026-08-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -76349,7 +76349,7 @@
         "discovered": "2026-08-20",
         "last_verified": "2026-08-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -114157,7 +114157,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"

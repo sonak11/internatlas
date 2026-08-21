@@ -6,7 +6,7 @@
 |---|---|---|
 | [1X](../companies/1x.md) | 2/2 | ai, software-engineering |
 | [AARP](../companies/aarp.md) | 1/1 | data-science |
-| [ABB](../companies/abb.md) | 1/1 | software-engineering |
+| [ABB](../companies/abb.md) | 0/1 | software-engineering |
 | [ABC News](../companies/abc-news.md) | 0/1 | product |
 | [ACLU Kentucky](../companies/aclu-kentucky.md) | 0/1 | software-engineering |
 | [AMAROK Security](../companies/amarok-security.md) | 0/1 | research |
@@ -120,12 +120,12 @@
 | [CALSTART](../companies/calstart.md) | 3/3 | research, software-engineering |
 | [CCC Intelligent Solutions](../companies/ccc-intelligent-solutions.md) | 0/3 | ai, data-science |
 | [CME Group](../companies/cme-group.md) | 1/1 | quant |
-| [CNO Financial Group](../companies/cno-financial-group.md) | 2/3 | ai, security, software-engineering |
+| [CNO Financial Group](../companies/cno-financial-group.md) | 1/3 | ai, security, software-engineering |
 | [CTGT](../companies/ctgt.md) | 1/1 | software-engineering |
 | [Caddi Workflow Automation](../companies/caddi-workflow-automation.md) | 1/1 | software-engineering |
 | [Cadence Design Systems](../companies/cadence-design-systems.md) | 0/6 | design, software-engineering |
 | [Canva](../companies/canva.md) | 4/5 | ai, research |
-| [Capital One](../companies/capital-one.md) | 9/12 | data-science, security, software-engineering |
+| [Capital One](../companies/capital-one.md) | 7/12 | data-science, security, software-engineering |
 | [Capula](../companies/capula.md) | 1/1 | quant |
 | [Carnegie Mellon University](../companies/carnegie-mellon-university.md) | 0/1 | research |
 | [Castleton Commodities International](../companies/castleton-commodities-international.md) | 8/8 | data-engineering, machine-learning, quant, software-engineering |
@@ -155,7 +155,7 @@
 | [Cole Engineering Services](../companies/cole-engineering-services.md) | 2/2 | ai, software-engineering |
 | [Colgate-Palmolive](../companies/colgate-palmolive.md) | 1/1 | software-engineering |
 | [Colonist](../companies/colonist.md) | 0/1 | software-engineering |
-| [Commence](../companies/commence.md) | 1/1 | software-engineering |
+| [Commence](../companies/commence.md) | 0/1 | software-engineering |
 | [Commercial Metals](../companies/commercial-metals.md) | 1/1 | ai |
 | [Composio](../companies/composio.md) | 1/2 | software-engineering |
 | [ConnectPrep](../companies/connectprep.md) | 1/1 | software-engineering |
@@ -279,7 +279,7 @@
 | [GeoComply](../companies/geocomply.md) | 0/2 | software-engineering |
 | [Global Infrastructure](../companies/global-infrastructure.md) | 0/1 | software-engineering |
 | [Global Partners](../companies/global-partners.md) | 1/1 | software-engineering |
-| [GoDaddy](../companies/godaddy.md) | 1/1 | software-engineering |
+| [GoDaddy](../companies/godaddy.md) | 0/1 | software-engineering |
 | [Golden Pet Brands](../companies/golden-pet-brands.md) | 0/1 | software-engineering |
 | [Goldman Sachs](../companies/goldman-sachs.md) | 9/11 | product, quant, software-engineering |
 | [Google](../companies/google.md) | 3/7 | data-science, research, software-engineering |
@@ -434,7 +434,7 @@
 | [NeoSigma](../companies/neosigma.md) | 2/2 | software-engineering |
 | [Netflix](../companies/netflix.md) | 2/2 | machine-learning, software-engineering |
 | [Netic](../companies/netic.md) | 4/4 | software-engineering |
-| [Netsmart](../companies/netsmart.md) | 1/1 | software-engineering |
+| [Netsmart](../companies/netsmart.md) | 0/1 | software-engineering |
 | [Neuralink](../companies/neuralink.md) | 20/21 | cloud, design, embedded, hardware, machine-learning, software-engineering |
 | [New Balance](../companies/new-balance.md) | 0/1 | research |
 | [New York Post Holdings](../companies/new-york-post-holdings.md) | 1/1 | software-engineering |
@@ -525,7 +525,7 @@
 | [Redwood Materials](../companies/redwood-materials.md) | 1/2 | embedded, software-engineering |
 | [RegDesk](../companies/regdesk.md) | 1/1 | software-engineering |
 | [Regions Bank](../companies/regions-bank.md) | 1/1 | software-engineering |
-| [RenderATL](../companies/renderatl.md) | 1/1 | software-engineering |
+| [RenderATL](../companies/renderatl.md) | 0/1 | software-engineering |
 | [Rendezvous Robotics](../companies/rendezvous-robotics.md) | 2/2 | software-engineering |
 | [Renesas Electronics](../companies/renesas-electronics.md) | 0/1 | design |
 | [Replit](../companies/replit.md) | 1/1 | software-engineering |
@@ -693,7 +693,7 @@
 | [WSP](../companies/wsp.md) | 2/2 | software-engineering |
 | [Wabtec](../companies/wabtec.md) | 2/2 | software-engineering |
 | [WallStreetQuants](../companies/wallstreetquants.md) | 2/2 | quant |
-| [Walleye Capital](../companies/walleye-capital.md) | 3/9 | data-science, quant, software-engineering |
+| [Walleye Capital](../companies/walleye-capital.md) | 2/9 | data-science, quant, software-engineering |
 | [Warner Bros.](../companies/warner-bros.md) | 0/3 | research, software-engineering |
 | [Wells Fargo](../companies/wells-fargo.md) | 4/6 | quant, software-engineering |
 | [Western Digital](../companies/western-digital.md) | 1/3 | hardware, software-engineering |

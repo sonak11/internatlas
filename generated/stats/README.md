@@ -72,6 +72,7 @@ _Generated 2026-08-21_
 
 ## Recently closed
 
+- ABB — Application Engineering Intern
 - Adtheorant — Enterprise AI Intern
 - Alljoined — Research Intern
 - Altera Corporation — Embedded Solutions Intern
@@ -104,6 +105,8 @@ _Generated 2026-08-21_
 - Cadence Design Systems — Software Engineer Intern
 - Cadence Design Systems — SSG Design Engineering Intern
 - Canva — PhD Research Scientist Intern - Reinforcement Learning - Images
+- Capital One — Cyber Security Intern
+- Capital One — Software Engineer Intern
 - Capital One — Technology Intern
 - CCC Intelligent Solutions — Data Science Engineer Intern
 - CCC Intelligent Solutions — Data Science Intern - R&D
@@ -128,7 +131,9 @@ _Generated 2026-08-21_
 - Cloudflare — Technical Marketing Intern (Fall 2026)
 - Cloudflare — U.S. Public Policy and AI Innovation Intern (Fall 2026)
 - CNO Financial Group — Artificial Intelligence Information Technology Intern - AI
+- CNO Financial Group — Cyber Security IT Intern
 - Cohesity — Data Cleansing and Sales Enablement Analyst Intern
+- Commence — Health Data Analyst Intern
 - ConocoPhillips — GIS Intern
 - Copart — Software Engineer Intern
 - Copart — Technology Product Analyst Intern
@@ -159,6 +164,7 @@ _Generated 2026-08-21_
 - General Dynamics Mission Systems — Cybersecurity Software Engineer Intern
 - General Motors — Research and Development Intern - Research & Development: AI/ML
 - Global Infrastructure — Alternative Delivery Project Analytics Intern
+- GoDaddy — Software Development Engineer Intern
 - Golden Pet Brands — Data Analytics Intern
 - Goldman Sachs — AWM Product Management Analyst Intern
 - Goldman Sachs — Summer Analyst Intern - Americas - AWM Product Management
@@ -218,6 +224,7 @@ _Generated 2026-08-21_
 - National Reconnaissance Office — Summer Internship - Dr. Chris Scolese
 - Nationwide Children's Hospital — IGM Research Intern - RI Miller
 - Nationwide Children's Hospital — Research Intern
+- Netsmart — Software Engineer Intern
 - New Balance — Sports Research Engineer Intern
 - Noblis — Machinery Silencing Technician Intern
 - Nokia — Electromechanical Assembly Co-op Intern - Intern
@@ -237,6 +244,7 @@ _Generated 2026-08-21_
 - Prophet — AI Engineer Intern - AI Foundry & Digital Growth
 - Quantbot Technologies — Software Engineer Intern
 - Redwood Materials — Embedded Software Engineer Intern
+- RenderATL — Software Engineer Intern
 - Renesas Electronics — Digital Design Engineer Intern
 - Revvity — Full-Stack AI Developer Intern
 - Rippling — Full Stack Software Engineer Intern
@@ -341,6 +349,7 @@ _Generated 2026-08-21_
 - Vega Investment Technologies — Product Operations Intern
 - Veralto — Machine Learning Co-op Intern
 - Vertiv — Software Engineer Intern
+- Walleye Capital — Equity Volatility Quant Researcher Intern
 - Warner Bros. — Research & Analytics Internships - Multiple Teams
 - Warner Bros. — Research, Analytics & Strategy Intern
 - Warner Bros. — Sports Growth Strategy and Data Intern
