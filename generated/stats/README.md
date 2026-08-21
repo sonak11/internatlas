@@ -16,6 +16,7 @@ _Generated 2026-08-21_
 | Cloudflare | 32 |
 | NVIDIA | 30 |
 | American Express | 28 |
+| AMD | 27 |
 | SpaceX | 25 |
 | IMC Trading | 23 |
 | Susquehanna International Group (SIG) | 22 |
@@ -27,48 +28,47 @@ _Generated 2026-08-21_
 | Rivian and Volkswagen Group Technologies | 16 |
 | Meta | 15 |
 | Etched | 14 |
-| Virtu Financial | 14 |
 
 ## Listings by category
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 1129 | `█████████████` |
+| software-engineering | 1141 | `█████████████` |
 | ai | 203 | `██` |
 | quant | 191 | `██` |
-| machine-learning | 137 | `██` |
-| research | 106 | `█` |
-| hardware | 90 | `█` |
+| machine-learning | 141 | `██` |
+| research | 107 | `█` |
+| hardware | 97 | `█` |
 | product | 59 | `█` |
-| embedded | 51 | `█` |
+| embedded | 55 | `█` |
+| design | 43 | `█` |
 | cloud | 42 | `█` |
-| design | 42 | `█` |
 | data-science | 40 | `█` |
 | data-engineering | 24 | `█` |
 | security | 13 | `█` |
 
 ## Newest listings
 
-- 2026-08-21 — **Auto-Owners Insurance**: [Predictive Modeler Intern - Summer 2027](https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Predictive-Modeler-Intern---Summer-2022_R_3833)
-- 2026-08-21 — **Lawrence Livermore National Laboratory (LLNL)**: [Computational Engineering Graduate Intern](https://jobs.smartrecruiters.com/LLNL/3743990014730886)
-- 2026-08-21 — **Lawrence Livermore National Laboratory (LLNL)**: [Environment, Safety and Health Undergraduate Intern - Fall 2026](https://jobs.smartrecruiters.com/LLNL/3743990014730996)
-- 2026-08-21 — **Navy Federal**: [Change Management Intern](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/31728)
-- 2026-08-21 — **Phoebe**: [Software Engineer Intern](https://jobs.ashbyhq.com/phoebe-work/1ffe3e63-2163-447e-a8b0-1fff8b87e0ca/application?embed=true)
-- 2026-08-20 — **AbbVie**: [Business Technology Solutions Intern - Data & Software Engineering - Undergraduate](https://jobs.smartrecruiters.com/AbbVie/3743990014697918)
-- 2026-08-20 — **Abundant**: [Member of Technical Staff Intern - Research](https://jobs.ashbyhq.com/abundant/1ebf7fda-c322-404d-acc3-2757bbd79996/application?embed=true)
-- 2026-08-20 — **Analog Devices**: [Mixed Signal Engineer Intern](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Mixed-Signal-Engineer-Intern_R265299)
-- 2026-08-20 — **Catalist**: [Data Services Intern](https://jobs.lever.co/catalist/4300e9ab-5f6f-4b9a-8ad6-8282a34e7dec/apply)
-- 2026-08-20 — **Cloudflare**: [Software Engineer Intern - Fall 2026](https://boards.greenhouse.io/cloudflare/jobs/8118855)
-- 2026-08-20 — **Cloudflare**: [Software Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8118855?gh_jid=8118855)
-- 2026-08-20 — **CNO Financial Group**: [Reporting Analyst Intern](https://cnoinc.wd5.myworkdayjobs.com/Careers/job/Carmel-IN/Summer-2027-Reporting-Analyst-Intern-2027---REMOTE-from-any-US-based-location_JR170455)
-- 2026-08-20 — **Databricks**: [Software Engineering Intern (2027 Start) - Winter](https://databricks.com/company/careers/open-positions/job?gh_jid=8732364002)
-- 2026-08-20 — **Devon Energy**: [Technology Intern - Data Engineering](https://wd5.myworkdaysite.com/en-US/recruiting/devonenergy/Careers/job/Oklahoma-City-OK/Technology-Summer-Intern-2027_R26264-1)
-- 2026-08-20 — **E-Space**: [Embedded Software Engineer Intern](https://jobs.lever.co/espace/1e189295-a315-414d-8c0b-686f204e3cb3/apply)
-- 2026-08-20 — **Epic Games**: [Engine Programmer Intern - Unreal Engine](https://epicgames.com/careers/jobs/6147283004?gh_jid=6147283004)
-- 2026-08-20 — **Epic Games**: [Tools Programmer Intern](https://epicgames.com/careers/jobs/6147167004?gh_jid=6147167004)
-- 2026-08-20 — **Eversource Energy**: [Asset Management Technology Engineer Intern - Fall 2026](https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/Hartford-CT/Asset-Management-Technology--Engineering-Intern--Fall-2026-_R-031600)
-- 2026-08-20 — **Excellus BCBS**: [College Intern - AI Engineering](https://lthc.wd1.myworkdayjobs.com/en-US/ExcellusBCBSCareers/job/Rochester/College-Intern---AI-Engineering---Fall-2026--Multiple-Openings-_JR103879-2)
-- 2026-08-20 — **Excellus BCBS**: [Software Engineering Intern - Multiple Openings](https://lthc.wd1.myworkdayjobs.com/en-US/ExcellusBCBSCareers/job/Rochester/College-Intern---Software-Engineering---Fall-2026--Multiple-Openings-_JR103878-2)
+- 2026-08-21 — **AMD**: [Data Analyst Intern/Co-op](https://careers.amd.com/jobs/91183?icims=1)
+- 2026-08-21 — **AMD**: [Data Analyst Intern/Co-op](https://careers.amd.com/jobs/91175?icims=1)
+- 2026-08-21 — **AMD**: [Data Analyst Intern/Co-op](https://careers.amd.com/jobs/91179?icims=1)
+- 2026-08-21 — **AMD**: [Data Analyst Intern/Co-op](https://careers.amd.com/jobs/90895?icims=1)
+- 2026-08-21 — **AMD**: [Field Applications Engineer Intern - Masters](https://careers.amd.com/jobs/91239?icims=1)
+- 2026-08-21 — **AMD**: [Firmware Engineer Co-op/Intern](https://careers.amd.com/jobs/90809?icims=1)
+- 2026-08-21 — **AMD**: [Firmware Engineer Intern/Co-op](https://careers.amd.com/jobs/90805?icims=1)
+- 2026-08-21 — **AMD**: [Firmware Engineer Intern/Co-op](https://careers.amd.com/jobs/90801?icims=1)
+- 2026-08-21 — **AMD**: [Firmware Engineering Intern Co-op - Undergrad](https://careers.amd.com/jobs/90807?icims=1)
+- 2026-08-21 — **AMD**: [Hardware Design Verification Engineer Co-op/Intern](https://careers.amd.com/jobs/90811?icims=1)
+- 2026-08-21 — **AMD**: [Hardware Design Verification Engineer Co-op/Intern](https://careers.amd.com/jobs/90810?icims=1)
+- 2026-08-21 — **AMD**: [Hardware Design Verification Engineer Intern/Co-op](https://careers.amd.com/jobs/90813?icims=1)
+- 2026-08-21 — **AMD**: [Hardware Design Verification Engineering Intern/Co-op](https://careers.amd.com/jobs/90820?icims=1)
+- 2026-08-21 — **AMD**: [Hardware Engineer Intern/Co-op](https://careers.amd.com/jobs/90894?icims=1)
+- 2026-08-21 — **AMD**: [Hardware Engineer Intern/Co-op - Hardware Engineering](https://careers.amd.com/jobs/91182?icims=1)
+- 2026-08-21 — **AMD**: [Hardware Engineering Intern/Co-op - Undergrad](https://careers.amd.com/jobs/91173?icims=1)
+- 2026-08-21 — **AMD**: [Machine Learning Intern/Co-op - Artificial Intelligence](https://careers.amd.com/jobs/91181?icims=1)
+- 2026-08-21 — **AMD**: [Machine Learning Intern/Co-op - Machine Learning - Artificial Intelligence](https://careers.amd.com/jobs/91177?icims=1)
+- 2026-08-21 — **AMD**: [Machine Learning Intern/Co-op - Machine Learning - Artificial Intelligence](https://careers.amd.com/jobs/90892?icims=1)
+- 2026-08-21 — **AMD**: [Machine Learning Intern/Co-op - Multiple Teams](https://careers.amd.com/jobs/91170?icims=1)
 
 ## Recently closed
 
@@ -156,6 +156,17 @@ _Generated 2026-08-21_
 - General Motors — Research and Development Intern - Research & Development: AI/ML
 - Global Infrastructure — Alternative Delivery Project Analytics Intern
 - Golden Pet Brands — Data Analytics Intern
+- Goldman Sachs — AWM Product Management Analyst Intern
+- Goldman Sachs — Quantitative Strategist Associate Intern - Asset and Wealth Management
+- Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
+- Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
+- Goldman Sachs — Summer Analyst Intern - Americas - AWM Product Management
+- Goldman Sachs — Summer Analyst Intern - FICC and Equities - Sales and Trading
+- Goldman Sachs — Summer Analyst Intern - FICC & Equities - Sales & Trading
+- Goldman Sachs — Summer Analyst Intern - Wealth Management - Product Management and Design
+- Goldman Sachs — Summer Associate Intern - Multiple Teams
 - Group 1001 — Quantitative Analysis Intern
 - Gulfstream — Computer Science Intern - Advanced Structures and Materials
 - Gumloop — Design Engineer Intern
@@ -240,6 +251,7 @@ _Generated 2026-08-21_
 - Rockwell Automation — Firmware Engineering Intern
 - Rockwell Automation — Firmware Engineering Intern
 - ROCKWOOL Group — Paint & Coating Intern
+- RTX — Digital Technology Intern
 - RTX — Electrical Engineering Intern
 - RTX — Enterprise Extended Reality Intern
 - RTX — Machine Learning Researcher Intern/Co-op
@@ -254,6 +266,8 @@ _Generated 2026-08-21_
 - RTX — Software Engineer Intern
 - RTX — Software Engineer Intern
 - RTX — Software Engineer Intern
+- RTX — Software Engineer Intern - Spring 2027
+- RTX — Software Engineer Intern - Summer 2027
 - RTX — Software Engineer Intern - Summer 2027
 - RTX — Software Engineer Intern - Summer 2027
 - RTX — Software Engineer Intern - Summer 2027
@@ -278,6 +292,7 @@ _Generated 2026-08-21_
 - SpaceX — Recruiting Coordinator, Intern Program- Temporary
 - SRI International — Computer Science Intern
 - Stand Insurance — Fire Science Engineer Intern
+- State of Nebraska — IT Construction Systems Intern
 - StudyFetch — Engineering Intern
 - Susquehanna International Group (SIG) — Derivatives Sales Trader Intern - Summer 2027
 - Susquehanna International Group (SIG) — Quantitative Trader Intern
@@ -319,6 +334,8 @@ _Generated 2026-08-21_
 - Vega Investment Technologies — Product Operations Intern
 - Veralto — Machine Learning Co-op Intern
 - Vertiv — Software Engineer Intern
+- Warner Bros. — Research & Analytics Internships - Multiple Teams
+- Warner Bros. — Research, Analytics & Strategy Intern
 - Wells Fargo — Corporate Risk Development Program Intern - Core Risk - Early Careers
 - Wells Fargo — Quantitative Analytics Intern - Multiple Teams
 - Western Digital — Failure Analysis Automation Engineer Intern - Failure Analysis Automation Engineering

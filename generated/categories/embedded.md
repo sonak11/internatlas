@@ -2,12 +2,16 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # ⚙️ Embedded Internships
 
-**51** tracked · **34** open now
+**55** tracked · **38** open now
 
 ## Current openings
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
+| [AMD](generated/companies/amd.md) | [Firmware Engineer Co-op/Intern](https://careers.amd.com/jobs/90809?icims=1) | San Jose, CA +1 | Onsite | 2026-08-21 | Rolling | 🟢 Open | ❔ |
+| [AMD](generated/companies/amd.md) | [Firmware Engineer Intern/Co-op](https://careers.amd.com/jobs/90805?icims=1) | Secaucus, NJ +6 | Onsite | 2026-08-21 | Rolling | 🟢 Open | ❔ |
+| [AMD](generated/companies/amd.md) | [Firmware Engineer Intern/Co-op](https://careers.amd.com/jobs/90801?icims=1) | Secaucus, NJ +6 | Onsite | 2026-08-21 | Rolling | 🟢 Open | ❔ |
+| [AMD](generated/companies/amd.md) | [Firmware Engineering Intern Co-op - Undergrad](https://careers.amd.com/jobs/90807?icims=1) | San Jose, CA +1 | Onsite | 2026-08-21 | Rolling | 🟢 Open | ❔ |
 | [Apex Technology, Inc.](generated/companies/apex-technology-inc.md) | [Software Engineering Intern, Embedded Systems](https://jobs.ashbyhq.com/apex-technology-inc/5ec2dfa9-724d-4ce4-ab97-5067ec747f11) | Los Angeles | Onsite | 2026-05-11 | Rolling | 🟢 Open | ❔ |
 | [Atomic Semi](generated/companies/atomic-semi.md) | [Embedded Software Engineering Intern](https://jobs.ashbyhq.com/AtomicSemi/13e95284-dbcf-4cf2-8151-c9687dfc1889) | San Francisco, CA | Onsite | 2025-08-15 | Rolling | 🟢 Open | ✅ |
 | [Base Power](generated/companies/base-power.md) | [Firmware Engineer Intern](https://jobs.ashbyhq.com/base-power/a8ee9a66-e90b-42c2-a4a2-28d997c3e8c7/application?embed=true) | Austin, TX | Onsite | 2026-05-27 | Rolling | 🟢 Open | ❔ |
@@ -63,6 +67,7 @@
 ## Hiring companies
 
 - Tesla (14)
+- AMD (4)
 - Etched (3)
 - Neuralink (3)
 - Rivian and Volkswagen Group Technologies (3)

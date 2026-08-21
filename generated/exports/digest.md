@@ -1,8 +1,35 @@
 # 📬 InternAtlas Weekly Digest — 2026-08-21
 
-## 🆕 New this week (363)
+## 🆕 New this week (392)
 
 - **AARP** — [Data Science and Advanced Analytics Intern](https://careers.aarp.org/jobs/7437?icims=1) · data-science · —
+- **AMD** — [Data Analyst Intern/Co-op](https://careers.amd.com/jobs/91183?icims=1) · software-engineering · —
+- **AMD** — [Data Analyst Intern/Co-op](https://careers.amd.com/jobs/91175?icims=1) · software-engineering · —
+- **AMD** — [Data Analyst Intern/Co-op](https://careers.amd.com/jobs/91179?icims=1) · software-engineering · —
+- **AMD** — [Data Analyst Intern/Co-op](https://careers.amd.com/jobs/90895?icims=1) · software-engineering · —
+- **AMD** — [Field Applications Engineer Intern - Masters](https://careers.amd.com/jobs/91239?icims=1) · software-engineering · —
+- **AMD** — [Firmware Engineer Co-op/Intern](https://careers.amd.com/jobs/90809?icims=1) · embedded · —
+- **AMD** — [Firmware Engineer Intern/Co-op](https://careers.amd.com/jobs/90805?icims=1) · embedded · —
+- **AMD** — [Firmware Engineer Intern/Co-op](https://careers.amd.com/jobs/90801?icims=1) · embedded · —
+- **AMD** — [Firmware Engineering Intern Co-op - Undergrad](https://careers.amd.com/jobs/90807?icims=1) · embedded · —
+- **AMD** — [Hardware Design Verification Engineer Co-op/Intern](https://careers.amd.com/jobs/90811?icims=1) · hardware · —
+- **AMD** — [Hardware Design Verification Engineer Co-op/Intern](https://careers.amd.com/jobs/90810?icims=1) · hardware · —
+- **AMD** — [Hardware Design Verification Engineer Intern/Co-op](https://careers.amd.com/jobs/90813?icims=1) · hardware · —
+- **AMD** — [Hardware Design Verification Engineering Intern/Co-op](https://careers.amd.com/jobs/90820?icims=1) · hardware · —
+- **AMD** — [Hardware Engineer Intern/Co-op](https://careers.amd.com/jobs/90894?icims=1) · hardware · —
+- **AMD** — [Hardware Engineer Intern/Co-op - Hardware Engineering](https://careers.amd.com/jobs/91182?icims=1) · hardware · —
+- **AMD** — [Hardware Engineering Intern/Co-op - Undergrad](https://careers.amd.com/jobs/91173?icims=1) · hardware · —
+- **AMD** — [Machine Learning Intern/Co-op - Artificial Intelligence](https://careers.amd.com/jobs/91181?icims=1) · machine-learning · —
+- **AMD** — [Machine Learning Intern/Co-op - Machine Learning - Artificial Intelligence](https://careers.amd.com/jobs/91177?icims=1) · machine-learning · —
+- **AMD** — [Machine Learning Intern/Co-op - Machine Learning - Artificial Intelligence](https://careers.amd.com/jobs/90892?icims=1) · machine-learning · —
+- **AMD** — [Machine Learning Intern/Co-op - Multiple Teams](https://careers.amd.com/jobs/91170?icims=1) · machine-learning · —
+- **AMD** — [Product Development Engineer Intern/Co-op](https://careers.amd.com/jobs/91227?icims=1) · software-engineering · —
+- **AMD** — [Product Development Engineering Intern/Co-op](https://careers.amd.com/jobs/91228?icims=1) · software-engineering · —
+- **AMD** — [Research Engineer Intern/Co-op - AMD Research](https://careers.amd.com/jobs/90925?icims=1) · research · —
+- **AMD** — [Software Engineer Intern/Co-op](https://careers.amd.com/jobs/90947?icims=1) · software-engineering · —
+- **AMD** — [Software Engineer Intern/Co-op](https://careers.amd.com/jobs/91180?icims=1) · software-engineering · —
+- **AMD** — [Software Engineer Intern/Co-op](https://careers.amd.com/jobs/90891?icims=1) · software-engineering · —
+- **AMD** — [Software Engineer Intern/Co-op - Masters](https://careers.amd.com/jobs/91176?icims=1) · software-engineering · —
 - **AbbVie** — [Business Technology Solutions Intern - Data & Software Engineering - Undergraduate](https://jobs.smartrecruiters.com/AbbVie/3743990014697918) · software-engineering · —
 - **Abridge** — [Software Engineer Intern](https://jobs.ashbyhq.com/abridge/3f07a457-dc14-4238-bf4e-5c33b5c1f883/application?embed=true) · software-engineering · —
 - **Abundant** — [Member of Technical Staff Intern - Research](https://jobs.ashbyhq.com/abundant/1ebf7fda-c322-404d-acc3-2757bbd79996/application?embed=true) · research · —
@@ -181,6 +208,7 @@
 - **L3Harris Technologies** — [Software Engineer Intern 3](https://jobs.l3harris.com/job/Colorado-Springs-Intern-C,-Software-Engineer-CO-80916/1420759900/?ats=successfactors) · software-engineering · —
 - **L3Harris Technologies** — [Software Engineering Intern](https://jobs.l3harris.com/job/Clifton-Software-Engineering-Intern-(Clifton,-NJ)-1-NJ-07014/1420083900/?ats=successfactors) · software-engineering · —
 - **Lawrence Livermore National Laboratory (LLNL)** — [Computational Engineering Graduate Intern](https://jobs.smartrecruiters.com/LLNL/3743990014730886) · software-engineering · —
+- **Lawrence Livermore National Laboratory (LLNL)** — [Energy Systems Analyst Graduate Intern - Fall 2026](https://jobs.smartrecruiters.com/LLNL/3743990014731696) · software-engineering · —
 - **Lawrence Livermore National Laboratory (LLNL)** — [Environment, Safety and Health Undergraduate Intern - Fall 2026](https://jobs.smartrecruiters.com/LLNL/3743990014730996) · software-engineering · —
 - **Leidos** — [Engineering Intern - Defense Systems - Threat Modeling & Simulation Portfolio](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Engineering-Intern_R-00189691) · software-engineering · —
 - **Levi Strauss & Co.** — [Analytics Intern - eCommerce](https://levistraussandco.wd5.myworkdayjobs.com/external/job/London-United-Kingdom/Analytics-Intern_R-0155618-1) · software-engineering · —
@@ -303,6 +331,7 @@
 - **Swift** — [Standards Strategy & Product Management Intern](https://swift.wd3.myworkdayjobs.com/join-swift/job/London-United-Kingdom/Standards-Strategy---Product-Management-Intern_2026-16374) · product · —
 - **TMEIC Corporation Americas** — [Engineer Intern - Spring 2027](https://apply.workable.com/tmeic-corporation-americas/j/532EE44DFB/apply) · software-engineering · —
 - **Tesla** — [Internship - Fullstack Engineer - Applications Engineering - Winter/Spring 2027](https://www.tesla.com/careers/search/job/280820) · software-engineering · —
+- **Texas Instruments** — [Layout Design Intern](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017338) · design · —
 - **The Nuclear Company** — [AI Applied Research Intern](https://job-boards.greenhouse.io/thenuclearcompany/jobs/5391888008) · ai · —
 - **The Nuclear Company** — [Data Science & Machine Learning Fellow Intern](https://job-boards.greenhouse.io/thenuclearcompany/jobs/5391923008) · machine-learning · —
 - **Thomson Reuters** — [Applied Research Intern - NLP/ML/GenAI](https://thomsonreuters.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Canada-Toronto-Ontario/Applied-Research-Intern--NLP-ML-GenAI-_JREQ202812) · machine-learning · —

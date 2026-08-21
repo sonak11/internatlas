@@ -6,7 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
-| State of Nebraska | [IT Construction Systems Intern](https://son.wd108.myworkdayjobs.com/NebraskaStateCareers/job/Lincoln-NE/Student-Intern---IT-Construction-Systems_JR2026-00028484-1) | Lincoln, NE | Onsite | 2026-08-06 | Rolling | 🟢 Open | ❔ |
+| State of Nebraska | [IT Construction Systems Intern](https://son.wd108.myworkdayjobs.com/NebraskaStateCareers/job/Lincoln-NE/Student-Intern---IT-Construction-Systems_JR2026-00028484-1) | Lincoln, NE | Onsite | 2026-08-06 | Rolling | 🔴 Closed | ❔ |
 
 ## Related
 

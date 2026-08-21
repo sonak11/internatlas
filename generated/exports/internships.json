@@ -1,6 +1,6 @@
 {
   "generated": "2026-08-21",
-  "count": 2127,
+  "count": 2156,
   "internships": [
     {
       "schema_version": "1.0",
@@ -3284,6 +3284,1825 @@
       "dates": {
         "posted": "2026-08-07",
         "discovered": "2026-08-07",
+        "last_verified": "2026-08-21"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "amd-data-analyst-intern-co-op-2027-481a6b",
+      "company": {
+        "name": "AMD",
+        "slug": "amd"
+      },
+      "role": "Data Analyst Intern/Co-op",
+      "category": "software-engineering",
+      "apply_url": "https://careers.amd.com/jobs/91183?icims=1",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Rochester",
+          "state": "NY",
+          "country": "USA"
+        },
+        {
+          "city": "Austin",
+          "state": "TX",
+          "country": "USA"
+        },
+        {
+          "city": "Longmont",
+          "state": "CO",
+          "country": "USA"
+        },
+        {
+          "city": "Fishkill",
+          "state": "NY",
+          "country": "USA"
+        },
+        {
+          "city": "Fort Collins",
+          "state": "CO",
+          "country": "USA"
+        },
+        {
+          "city": "Boxborough",
+          "state": "MA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-21",
+        "discovered": "2026-08-21",
+        "last_verified": "2026-08-21"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "amd-data-analyst-intern-co-op-2027-b30b00",
+      "company": {
+        "name": "AMD",
+        "slug": "amd"
+      },
+      "role": "Data Analyst Intern/Co-op",
+      "category": "software-engineering",
+      "apply_url": "https://careers.amd.com/jobs/91175?icims=1",
+      "season": "spring",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Rochester",
+          "state": "NY",
+          "country": "USA"
+        },
+        {
+          "city": "Austin",
+          "state": "TX",
+          "country": "USA"
+        },
+        {
+          "city": "Longmont",
+          "state": "CO",
+          "country": "USA"
+        },
+        {
+          "city": "Fishkill",
+          "state": "NY",
+          "country": "USA"
+        },
+        {
+          "city": "Fort Collins",
+          "state": "CO",
+          "country": "USA"
+        },
+        {
+          "city": "Boxborough",
+          "state": "MA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-21",
+        "discovered": "2026-08-21",
+        "last_verified": "2026-08-21"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "amd-data-analyst-intern-co-op-2027-c24e24",
+      "company": {
+        "name": "AMD",
+        "slug": "amd"
+      },
+      "role": "Data Analyst Intern/Co-op",
+      "category": "software-engineering",
+      "apply_url": "https://careers.amd.com/jobs/91179?icims=1",
+      "season": "spring",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        },
+        {
+          "city": "Santa Clara",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-21",
+        "discovered": "2026-08-21",
+        "last_verified": "2026-08-21"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "amd-data-analyst-intern-co-op-2027",
+      "company": {
+        "name": "AMD",
+        "slug": "amd"
+      },
+      "role": "Data Analyst Intern/Co-op",
+      "category": "software-engineering",
+      "apply_url": "https://careers.amd.com/jobs/90895?icims=1",
+      "season": "spring",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        },
+        {
+          "city": "Santa Clara",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-21",
+        "discovered": "2026-08-21",
+        "last_verified": "2026-08-21"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "amd-field-applications-engineer-intern-masters-2027",
+      "company": {
+        "name": "AMD",
+        "slug": "amd"
+      },
+      "role": "Field Applications Engineer Intern - Masters",
+      "category": "software-engineering",
+      "apply_url": "https://careers.amd.com/jobs/91239?icims=1",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-21",
+        "discovered": "2026-08-21",
+        "last_verified": "2026-08-21"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "amd-firmware-engineer-co-op-intern-2027",
+      "company": {
+        "name": "AMD",
+        "slug": "amd"
+      },
+      "role": "Firmware Engineer Co-op/Intern",
+      "category": "embedded",
+      "apply_url": "https://careers.amd.com/jobs/90809?icims=1",
+      "season": "spring",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        },
+        {
+          "city": "Santa Clara",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-21",
+        "discovered": "2026-08-21",
+        "last_verified": "2026-08-21"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "amd-firmware-engineer-intern-co-op-2027-ab50e0",
+      "company": {
+        "name": "AMD",
+        "slug": "amd"
+      },
+      "role": "Firmware Engineer Intern/Co-op",
+      "category": "embedded",
+      "apply_url": "https://careers.amd.com/jobs/90805?icims=1",
+      "season": "spring",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Secaucus",
+          "state": "NJ",
+          "country": "USA"
+        },
+        {
+          "city": "Rochester",
+          "state": "NY",
+          "country": "USA"
+        },
+        {
+          "city": "Austin",
+          "state": "TX",
+          "country": "USA"
+        },
+        {
+          "city": "Longmont",
+          "state": "CO",
+          "country": "USA"
+        },
+        {
+          "city": "Fishkill",
+          "state": "NY",
+          "country": "USA"
+        },
+        {
+          "city": "Fort Collins",
+          "state": "CO",
+          "country": "USA"
+        },
+        {
+          "city": "Boxborough",
+          "state": "MA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-21",
+        "discovered": "2026-08-21",
+        "last_verified": "2026-08-21"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "amd-firmware-engineer-intern-co-op-2027",
+      "company": {
+        "name": "AMD",
+        "slug": "amd"
+      },
+      "role": "Firmware Engineer Intern/Co-op",
+      "category": "embedded",
+      "apply_url": "https://careers.amd.com/jobs/90801?icims=1",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Secaucus",
+          "state": "NJ",
+          "country": "USA"
+        },
+        {
+          "city": "Rochester",
+          "state": "NY",
+          "country": "USA"
+        },
+        {
+          "city": "Austin",
+          "state": "TX",
+          "country": "USA"
+        },
+        {
+          "city": "Longmont",
+          "state": "CO",
+          "country": "USA"
+        },
+        {
+          "city": "Fishkill",
+          "state": "NY",
+          "country": "USA"
+        },
+        {
+          "city": "Fort Collins",
+          "state": "CO",
+          "country": "USA"
+        },
+        {
+          "city": "Massachusetts",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-21",
+        "discovered": "2026-08-21",
+        "last_verified": "2026-08-21"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "amd-firmware-engineering-intern-co-op-undergrad-2027",
+      "company": {
+        "name": "AMD",
+        "slug": "amd"
+      },
+      "role": "Firmware Engineering Intern Co-op - Undergrad",
+      "category": "embedded",
+      "apply_url": "https://careers.amd.com/jobs/90807?icims=1",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        },
+        {
+          "city": "Santa Clara",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-21",
+        "discovered": "2026-08-21",
+        "last_verified": "2026-08-21"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "amd-hardware-design-verification-engineer-co-op-intern-2027-0a859a",
+      "company": {
+        "name": "AMD",
+        "slug": "amd"
+      },
+      "role": "Hardware Design Verification Engineer Co-op/Intern",
+      "category": "hardware",
+      "apply_url": "https://careers.amd.com/jobs/90811?icims=1",
+      "season": "spring",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        },
+        {
+          "city": "Santa Clara",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-21",
+        "discovered": "2026-08-21",
+        "last_verified": "2026-08-21"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "amd-hardware-design-verification-engineer-co-op-intern-2027",
+      "company": {
+        "name": "AMD",
+        "slug": "amd"
+      },
+      "role": "Hardware Design Verification Engineer Co-op/Intern",
+      "category": "hardware",
+      "apply_url": "https://careers.amd.com/jobs/90810?icims=1",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        },
+        {
+          "city": "Santa Clara",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-21",
+        "discovered": "2026-08-21",
+        "last_verified": "2026-08-21"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "amd-hardware-design-verification-engineer-intern-co-op-2027",
+      "company": {
+        "name": "AMD",
+        "slug": "amd"
+      },
+      "role": "Hardware Design Verification Engineer Intern/Co-op",
+      "category": "hardware",
+      "apply_url": "https://careers.amd.com/jobs/90813?icims=1",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Secaucus",
+          "state": "NJ",
+          "country": "USA"
+        },
+        {
+          "city": "Rochester",
+          "state": "NY",
+          "country": "USA"
+        },
+        {
+          "city": "Austin",
+          "state": "TX",
+          "country": "USA"
+        },
+        {
+          "city": "Longmont",
+          "state": "CO",
+          "country": "USA"
+        },
+        {
+          "city": "Fishkill",
+          "state": "NY",
+          "country": "USA"
+        },
+        {
+          "city": "Fort Collins",
+          "state": "CO",
+          "country": "USA"
+        },
+        {
+          "city": "Boxborough",
+          "state": "MA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-21",
+        "discovered": "2026-08-21",
+        "last_verified": "2026-08-21"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "amd-hardware-design-verification-engineering-intern-co-op-2027",
+      "company": {
+        "name": "AMD",
+        "slug": "amd"
+      },
+      "role": "Hardware Design Verification Engineering Intern/Co-op",
+      "category": "hardware",
+      "apply_url": "https://careers.amd.com/jobs/90820?icims=1",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Secaucus",
+          "state": "NJ",
+          "country": "USA"
+        },
+        {
+          "city": "Rochester",
+          "state": "NY",
+          "country": "USA"
+        },
+        {
+          "city": "Austin",
+          "state": "TX",
+          "country": "USA"
+        },
+        {
+          "city": "Longmont",
+          "state": "CO",
+          "country": "USA"
+        },
+        {
+          "city": "Fishkill",
+          "state": "NY",
+          "country": "USA"
+        },
+        {
+          "city": "Fort Collins",
+          "state": "CO",
+          "country": "USA"
+        },
+        {
+          "city": "Boxborough",
+          "state": "MA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-21",
+        "discovered": "2026-08-21",
+        "last_verified": "2026-08-21"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "amd-hardware-engineer-intern-co-op-2027",
+      "company": {
+        "name": "AMD",
+        "slug": "amd"
+      },
+      "role": "Hardware Engineer Intern/Co-op",
+      "category": "hardware",
+      "apply_url": "https://careers.amd.com/jobs/90894?icims=1",
+      "season": "spring",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        },
+        {
+          "city": "Santa Clara",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-21",
+        "discovered": "2026-08-21",
+        "last_verified": "2026-08-21"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "amd-hardware-engineer-intern-co-op-hardware-engineering-2027",
+      "company": {
+        "name": "AMD",
+        "slug": "amd"
+      },
+      "role": "Hardware Engineer Intern/Co-op - Hardware Engineering",
+      "category": "hardware",
+      "apply_url": "https://careers.amd.com/jobs/91182?icims=1",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Rochester",
+          "state": "NY",
+          "country": "USA"
+        },
+        {
+          "city": "Austin",
+          "state": "TX",
+          "country": "USA"
+        },
+        {
+          "city": "Longmont",
+          "state": "CO",
+          "country": "USA"
+        },
+        {
+          "city": "Fishkill",
+          "state": "NY",
+          "country": "USA"
+        },
+        {
+          "city": "Fort Collins",
+          "state": "CO",
+          "country": "USA"
+        },
+        {
+          "city": "Boxborough",
+          "state": "MA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-21",
+        "discovered": "2026-08-21",
+        "last_verified": "2026-08-21"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "amd-hardware-engineering-intern-co-op-undergrad-2027",
+      "company": {
+        "name": "AMD",
+        "slug": "amd"
+      },
+      "role": "Hardware Engineering Intern/Co-op - Undergrad",
+      "category": "hardware",
+      "apply_url": "https://careers.amd.com/jobs/91173?icims=1",
+      "season": "spring",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Rochester",
+          "state": "NY",
+          "country": "USA"
+        },
+        {
+          "city": "Austin",
+          "state": "TX",
+          "country": "USA"
+        },
+        {
+          "city": "Longmont",
+          "state": "CO",
+          "country": "USA"
+        },
+        {
+          "city": "Fishkill",
+          "state": "NY",
+          "country": "USA"
+        },
+        {
+          "city": "Fort Collins",
+          "state": "CO",
+          "country": "USA"
+        },
+        {
+          "city": "Boxborough",
+          "state": "MA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-21",
+        "discovered": "2026-08-21",
+        "last_verified": "2026-08-21"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "amd-machine-learning-intern-co-op-artificial-intelligence-2027",
+      "company": {
+        "name": "AMD",
+        "slug": "amd"
+      },
+      "role": "Machine Learning Intern/Co-op - Artificial Intelligence",
+      "category": "machine-learning",
+      "apply_url": "https://careers.amd.com/jobs/91181?icims=1",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Rochester",
+          "state": "NY",
+          "country": "USA"
+        },
+        {
+          "city": "Austin",
+          "state": "TX",
+          "country": "USA"
+        },
+        {
+          "city": "Longmont",
+          "state": "CO",
+          "country": "USA"
+        },
+        {
+          "city": "Fishkill",
+          "state": "NY",
+          "country": "USA"
+        },
+        {
+          "city": "Fort Collins",
+          "state": "CO",
+          "country": "USA"
+        },
+        {
+          "city": "Boxborough",
+          "state": "MA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-21",
+        "discovered": "2026-08-21",
+        "last_verified": "2026-08-21"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "amd-machine-learning-intern-co-op-machine-learning-artificial-in-2027-8ecdb5",
+      "company": {
+        "name": "AMD",
+        "slug": "amd"
+      },
+      "role": "Machine Learning Intern/Co-op - Machine Learning - Artificial Intelligence",
+      "category": "machine-learning",
+      "apply_url": "https://careers.amd.com/jobs/91177?icims=1",
+      "season": "spring",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        },
+        {
+          "city": "Santa Clara",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-21",
+        "discovered": "2026-08-21",
+        "last_verified": "2026-08-21"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "amd-machine-learning-intern-co-op-machine-learning-artificial-in-2027",
+      "company": {
+        "name": "AMD",
+        "slug": "amd"
+      },
+      "role": "Machine Learning Intern/Co-op - Machine Learning - Artificial Intelligence",
+      "category": "machine-learning",
+      "apply_url": "https://careers.amd.com/jobs/90892?icims=1",
+      "season": "spring",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        },
+        {
+          "city": "Santa Clara",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-21",
+        "discovered": "2026-08-21",
+        "last_verified": "2026-08-21"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "amd-machine-learning-intern-co-op-multiple-teams-2027",
+      "company": {
+        "name": "AMD",
+        "slug": "amd"
+      },
+      "role": "Machine Learning Intern/Co-op - Multiple Teams",
+      "category": "machine-learning",
+      "apply_url": "https://careers.amd.com/jobs/91170?icims=1",
+      "season": "spring",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Rochester",
+          "state": "NY",
+          "country": "USA"
+        },
+        {
+          "city": "Austin",
+          "state": "TX",
+          "country": "USA"
+        },
+        {
+          "city": "Longmont",
+          "state": "CO",
+          "country": "USA"
+        },
+        {
+          "city": "Fishkill",
+          "state": "NY",
+          "country": "USA"
+        },
+        {
+          "city": "Fort Collins",
+          "state": "CO",
+          "country": "USA"
+        },
+        {
+          "city": "Boxborough",
+          "state": "MA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-21",
+        "discovered": "2026-08-21",
+        "last_verified": "2026-08-21"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "amd-product-development-engineer-intern-co-op-2027",
+      "company": {
+        "name": "AMD",
+        "slug": "amd"
+      },
+      "role": "Product Development Engineer Intern/Co-op",
+      "category": "software-engineering",
+      "apply_url": "https://careers.amd.com/jobs/91227?icims=1",
+      "season": "spring",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        },
+        {
+          "city": "Santa Clara",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-21",
+        "discovered": "2026-08-21",
+        "last_verified": "2026-08-21"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "amd-product-development-engineering-intern-co-op-2027",
+      "company": {
+        "name": "AMD",
+        "slug": "amd"
+      },
+      "role": "Product Development Engineering Intern/Co-op",
+      "category": "software-engineering",
+      "apply_url": "https://careers.amd.com/jobs/91228?icims=1",
+      "season": "spring",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        },
+        {
+          "city": "Santa Clara",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-21",
+        "discovered": "2026-08-21",
+        "last_verified": "2026-08-21"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "amd-research-engineer-intern-co-op-amd-research-2027",
+      "company": {
+        "name": "AMD",
+        "slug": "amd"
+      },
+      "role": "Research Engineer Intern/Co-op - AMD Research",
+      "category": "research",
+      "apply_url": "https://careers.amd.com/jobs/90925?icims=1",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        },
+        {
+          "city": "Santa Clara",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-21",
+        "discovered": "2026-08-21",
+        "last_verified": "2026-08-21"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "amd-software-engineer-intern-co-op-2027-1bdcce",
+      "company": {
+        "name": "AMD",
+        "slug": "amd"
+      },
+      "role": "Software Engineer Intern/Co-op",
+      "category": "software-engineering",
+      "apply_url": "https://careers.amd.com/jobs/90947?icims=1",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Rochester",
+          "state": "NY",
+          "country": "USA"
+        },
+        {
+          "city": "Austin",
+          "state": "TX",
+          "country": "USA"
+        },
+        {
+          "city": "Longmont",
+          "state": "CO",
+          "country": "USA"
+        },
+        {
+          "city": "Fishkill",
+          "state": "NY",
+          "country": "USA"
+        },
+        {
+          "city": "Fort Collins",
+          "state": "CO",
+          "country": "USA"
+        },
+        {
+          "city": "Boxborough",
+          "state": "MA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-21",
+        "discovered": "2026-08-21",
+        "last_verified": "2026-08-21"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "amd-software-engineer-intern-co-op-2027-a7d519",
+      "company": {
+        "name": "AMD",
+        "slug": "amd"
+      },
+      "role": "Software Engineer Intern/Co-op",
+      "category": "software-engineering",
+      "apply_url": "https://careers.amd.com/jobs/91180?icims=1",
+      "season": "spring",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Rochester",
+          "state": "NY",
+          "country": "USA"
+        },
+        {
+          "city": "Austin",
+          "state": "TX",
+          "country": "USA"
+        },
+        {
+          "city": "Longmont",
+          "state": "CO",
+          "country": "USA"
+        },
+        {
+          "city": "Fishkill",
+          "state": "NY",
+          "country": "USA"
+        },
+        {
+          "city": "Fort Collins",
+          "state": "CO",
+          "country": "USA"
+        },
+        {
+          "city": "Boxborough",
+          "state": "MA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-21",
+        "discovered": "2026-08-21",
+        "last_verified": "2026-08-21"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "amd-software-engineer-intern-co-op-2027",
+      "company": {
+        "name": "AMD",
+        "slug": "amd"
+      },
+      "role": "Software Engineer Intern/Co-op",
+      "category": "software-engineering",
+      "apply_url": "https://careers.amd.com/jobs/90891?icims=1",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        },
+        {
+          "city": "Santa Clara",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-21",
+        "discovered": "2026-08-21",
+        "last_verified": "2026-08-21"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "amd-software-engineer-intern-co-op-masters-2027",
+      "company": {
+        "name": "AMD",
+        "slug": "amd"
+      },
+      "role": "Software Engineer Intern/Co-op - Masters",
+      "category": "software-engineering",
+      "apply_url": "https://careers.amd.com/jobs/91176?icims=1",
+      "season": "spring",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        },
+        {
+          "city": "Santa Clara",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-21",
+        "discovered": "2026-08-21",
         "last_verified": "2026-08-21"
       },
       "status": "open",
@@ -37595,7 +39414,7 @@
         "discovered": "2026-08-20",
         "last_verified": "2026-08-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -37648,7 +39467,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-08-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -37701,7 +39520,7 @@
         "discovered": "2026-08-18",
         "last_verified": "2026-08-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -37754,7 +39573,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-08-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -37805,7 +39624,7 @@
         "discovered": "2026-08-20",
         "last_verified": "2026-08-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -37856,7 +39675,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-08-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -37909,7 +39728,7 @@
         "discovered": "2026-08-20",
         "last_verified": "2026-08-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -37963,7 +39782,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-08-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -38014,7 +39833,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-08-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -38065,7 +39884,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-08-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -38118,7 +39937,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-08-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -51398,6 +53217,60 @@
       "dates": {
         "posted": "2026-06-26",
         "discovered": "2026-07-17",
+        "last_verified": "2026-08-21"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "lawrence-livermore-national-laboratory-llnl-energy-systems-analyst-graduate-intern-fall-2026-2026",
+      "company": {
+        "name": "Lawrence Livermore National Laboratory (LLNL)",
+        "slug": "lawrence-livermore-national-laboratory-llnl"
+      },
+      "role": "Energy Systems Analyst Graduate Intern - Fall 2026",
+      "category": "software-engineering",
+      "apply_url": "https://jobs.smartrecruiters.com/LLNL/3743990014731696",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Livermore",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-21",
+        "discovered": "2026-08-21",
         "last_verified": "2026-08-21"
       },
       "status": "open",
@@ -77660,7 +79533,7 @@
         "discovered": "2026-08-18",
         "last_verified": "2026-08-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -79203,7 +81076,7 @@
         "discovered": "2026-08-18",
         "last_verified": "2026-08-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -79363,7 +81236,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-08-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -86391,7 +88264,7 @@
         "discovered": "2026-08-07",
         "last_verified": "2026-08-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -95839,6 +97712,56 @@
       "tags": [
         "auto-ingested",
         "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "texas-instruments-layout-design-intern-2026",
+      "company": {
+        "name": "Texas Instruments",
+        "slug": "texas-instruments"
+      },
+      "role": "Layout Design Intern",
+      "category": "design",
+      "apply_url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017338",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-21",
+        "discovered": "2026-08-21",
+        "last_verified": "2026-08-21"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
       ]
     },
     {
@@ -112207,7 +114130,7 @@
         "discovered": "2026-08-11",
         "last_verified": "2026-08-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -112258,7 +114181,7 @@
         "discovered": "2026-07-23",
         "last_verified": "2026-08-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"

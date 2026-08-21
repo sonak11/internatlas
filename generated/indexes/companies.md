@@ -10,6 +10,7 @@
 | [ABC News](../companies/abc-news.md) | 0/1 | product |
 | [ACLU Kentucky](../companies/aclu-kentucky.md) | 0/1 | software-engineering |
 | [AMAROK Security](../companies/amarok-security.md) | 0/1 | research |
+| [AMD](../companies/amd.md) | 27/27 | embedded, hardware, machine-learning, research, software-engineering |
 | [AQR Capital Management](../companies/aqr-capital-management.md) | 1/2 | quant |
 | [ASM Global](../companies/asm-global.md) | 1/1 | software-engineering |
 | [ASM International](../companies/asm-international.md) | 1/1 | software-engineering |
@@ -280,7 +281,7 @@
 | [Global Partners](../companies/global-partners.md) | 1/1 | software-engineering |
 | [GoDaddy](../companies/godaddy.md) | 1/1 | software-engineering |
 | [Golden Pet Brands](../companies/golden-pet-brands.md) | 0/1 | software-engineering |
-| [Goldman Sachs](../companies/goldman-sachs.md) | 11/11 | product, quant, software-engineering |
+| [Goldman Sachs](../companies/goldman-sachs.md) | 0/11 | product, quant, software-engineering |
 | [Google](../companies/google.md) | 3/7 | data-science, research, software-engineering |
 | [Grant Thornton](../companies/grant-thornton.md) | 2/2 | software-engineering |
 | [Gritt Robotics Inc](../companies/gritt-robotics-inc.md) | 1/1 | software-engineering |
@@ -364,7 +365,7 @@
 | [Kudu Dynamics](../companies/kudu-dynamics.md) | 0/3 | software-engineering |
 | [L3Harris Technologies](../companies/l3harris-technologies.md) | 8/8 | software-engineering |
 | [LPL Financial Holdings](../companies/lpl-financial-holdings.md) | 3/3 | data-engineering, software-engineering |
-| [Lawrence Livermore National Laboratory (LLNL)](../companies/lawrence-livermore-national-laboratory-llnl.md) | 4/4 | software-engineering |
+| [Lawrence Livermore National Laboratory (LLNL)](../companies/lawrence-livermore-national-laboratory-llnl.md) | 5/5 | software-engineering |
 | [Leidos](../companies/leidos.md) | 1/2 | software-engineering |
 | [Leland](../companies/leland.md) | 1/1 | ai |
 | [Levi Strauss & Co.](../companies/levi-strauss-co.md) | 1/1 | software-engineering |
@@ -512,7 +513,7 @@
 | [RLI](../companies/rli.md) | 0/1 | product |
 | [ROCKWOOL Group](../companies/rockwool-group.md) | 0/2 | product, software-engineering |
 | [RRS Group](../companies/rrs-group.md) | 2/2 | software-engineering |
-| [RTX](../companies/rtx.md) | 32/55 | design, machine-learning, software-engineering |
+| [RTX](../companies/rtx.md) | 29/55 | design, machine-learning, software-engineering |
 | [Radix Trading](../companies/radix-trading.md) | 1/1 | quant |
 | [Rainmaker](../companies/rainmaker.md) | 0/1 | software-engineering |
 | [Rakuten International](../companies/rakuten-international.md) | 0/1 | software-engineering |
@@ -592,7 +593,7 @@
 | [Squarepoint Capital](../companies/squarepoint-capital.md) | 2/2 | quant, software-engineering |
 | [Stand Insurance](../companies/stand-insurance.md) | 0/1 | software-engineering |
 | [StarSling](../companies/starsling.md) | 1/1 | software-engineering |
-| [State of Nebraska](../companies/state-of-nebraska.md) | 1/1 | software-engineering |
+| [State of Nebraska](../companies/state-of-nebraska.md) | 0/1 | software-engineering |
 | [State of North Carolina](../companies/state-of-north-carolina.md) | 0/1 | software-engineering |
 | [Stellar Science](../companies/stellar-science.md) | 1/1 | software-engineering |
 | [StepStone Group](../companies/stepstone-group.md) | 1/1 | ai |
@@ -621,7 +622,7 @@
 | [Terranox AI](../companies/terranox-ai.md) | 1/1 | machine-learning |
 | [Tesla](../companies/tesla.md) | 82/110 | ai, cloud, data-engineering, design, embedded, hardware, machine-learning, product, security, software-engineering |
 | [Tessera Labs](../companies/tessera-labs.md) | 1/1 | product |
-| [Texas Instruments](../companies/texas-instruments.md) | 1/1 | software-engineering |
+| [Texas Instruments](../companies/texas-instruments.md) | 2/2 | design, software-engineering |
 | [Texas Permanent School Fund Corporation](../companies/texas-permanent-school-fund-corporation.md) | 0/1 | software-engineering |
 | [The Boeing Company](../companies/the-boeing-company.md) | 2/2 | software-engineering |
 | [The Federal Reserve System](../companies/the-federal-reserve-system.md) | 1/2 | software-engineering |
@@ -692,7 +693,7 @@
 | [Wabtec](../companies/wabtec.md) | 2/2 | software-engineering |
 | [WallStreetQuants](../companies/wallstreetquants.md) | 2/2 | quant |
 | [Walleye Capital](../companies/walleye-capital.md) | 3/9 | data-science, quant, software-engineering |
-| [Warner Bros.](../companies/warner-bros.md) | 3/3 | research, software-engineering |
+| [Warner Bros.](../companies/warner-bros.md) | 1/3 | research, software-engineering |
 | [Wells Fargo](../companies/wells-fargo.md) | 4/6 | quant, software-engineering |
 | [Western Digital](../companies/western-digital.md) | 1/3 | hardware, software-engineering |
 | [Western Magnetics](../companies/western-magnetics.md) | 1/1 | software-engineering |

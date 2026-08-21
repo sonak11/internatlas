@@ -2,13 +2,17 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🧠 Machine Learning Internships
 
-**137** tracked · **113** open now
+**141** tracked · **117** open now
 
 ## Current openings
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
 | [Amazon](generated/companies/amazon.md) | [Applied Science Intern - Reinforcement Learning & Optimization - Machine Learning](https://amazon.jobs/en/jobs/10394278/2026-fall-applied-science-internship-reinforcement-learning-optimization-machine-learning-united-states-phd-student-science-recruiting) | Palo Alto, CA +7 | Onsite | 2026-04-16 | Rolling | 🟢 Open | ❔ |
+| [AMD](generated/companies/amd.md) | [Machine Learning Intern/Co-op - Artificial Intelligence](https://careers.amd.com/jobs/91181?icims=1) | Rochester, NY +5 | Onsite | 2026-08-21 | Rolling | 🟢 Open | ❔ |
+| [AMD](generated/companies/amd.md) | [Machine Learning Intern/Co-op - Machine Learning - Artificial Intelligence](https://careers.amd.com/jobs/91177?icims=1) | San Jose, CA +1 | Onsite | 2026-08-21 | Rolling | 🟢 Open | ❔ |
+| [AMD](generated/companies/amd.md) | [Machine Learning Intern/Co-op - Machine Learning - Artificial Intelligence](https://careers.amd.com/jobs/90892?icims=1) | San Jose, CA +1 | Onsite | 2026-08-21 | Rolling | 🟢 Open | ❔ |
+| [AMD](generated/companies/amd.md) | [Machine Learning Intern/Co-op - Multiple Teams](https://careers.amd.com/jobs/91170?icims=1) | Rochester, NY +5 | Onsite | 2026-08-21 | Rolling | 🟢 Open | ❔ |
 | [Atoms](generated/companies/atoms.md) | [Machine Learning PhD Software Engineer Intern](https://job-boards.greenhouse.io/cssmerge/jobs/8693034002) | Seattle, WA +3 | Onsite | 2026-08-10 | Rolling | 🟢 Open | ❔ |
 | [Bot Auto](generated/companies/bot-auto.md) | [Deep Learning Engineer Intern](https://job-boards.greenhouse.io/botauto/jobs/5289440008) | Houston, TX | Onsite | 2026-07-02 | Rolling | 🟢 Open | ❔ |
 | [ByteDance](generated/companies/bytedance.md) | [Agent Evaluation & Evolution Machine Learning Engineer Intern - Applied Machine Learning Ark](https://jobs.bytedance.com/en/position/7672391300141877557/detail) | Seattle, WA | Onsite | 2026-08-11 | Rolling | 🟢 Open | ❔ |
@@ -151,6 +155,7 @@
 - TikTok (37)
 - ByteDance (14)
 - Tesla (8)
+- AMD (4)
 - Jump Trading (4)
 - NVIDIA (4)
 - The Nuclear Company (4)

@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🔬 Research Internships
 
-**106** tracked · **72** open now
+**107** tracked · **71** open now
 
 ## Current openings
 
@@ -11,6 +11,7 @@
 | [Abundant](generated/companies/abundant.md) | [Member of Technical Staff Intern - Research](https://jobs.ashbyhq.com/abundant/1ebf7fda-c322-404d-acc3-2757bbd79996/application?embed=true) | SF | Onsite | 2026-08-20 | Rolling | 🟢 Open | ❔ |
 | [Abundant](generated/companies/abundant.md) | [Software Engineering Intern, Research Focused](https://www.workatastartup.com/jobs/94634) | San Francisco, CA | Onsite | 2026-05-14 | Rolling | 🟢 Open | ❌ |
 | [Altamira Technologies](generated/companies/altamira-technologies.md) | [Research and Development Intern](https://jobs.jobvite.com/altamiracorps/job/oHqCAfw3?nl=1&nl=1&fr=false) | Fairborn, OH | Onsite | 2026-08-10 | Rolling | 🟢 Open | ❔ |
+| [AMD](generated/companies/amd.md) | [Research Engineer Intern/Co-op - AMD Research](https://careers.amd.com/jobs/90925?icims=1) | San Jose, CA +1 | Onsite | 2026-08-21 | Rolling | 🟢 Open | ❔ |
 | [Analysis Group](generated/companies/analysis-group.md) | [Research Professional Intern - Generalist](https://analystcareers-analysisgroup.icims.com/jobs/3007/job?mobile=true&needsRedirect=false) | Montreal +1 | Onsite | 2026-08-14 | Rolling | 🟢 Open | ❔ |
 | [Architect Labs](generated/companies/architect-labs.md) | [Member of Technical Staff Research Intern](https://jobs.ashbyhq.com/architect/1999377b-b23b-461f-b79a-d4edce0d46b1/application?embed=true) | Palo Alto, CA | Onsite | 2026-07-21 | Rolling | 🟢 Open | ❔ |
 | [Block](generated/companies/block.md) | [Applied Research Intern Co-op](http://block.xyz/careers/jobs/5108009008?gh_jid=5108009008) | Toronto +1 | Onsite | 2026-06-09 | Rolling | 🟢 Open | ❔ |
@@ -77,8 +78,6 @@
 | [TikTok](generated/companies/tiktok.md) | [Research Scientist Intern - Trust and Safety](https://lifeattiktok.com/search/7662672903447988485) | Seattle, WA | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
 | [Trata](generated/companies/trata.md) | [Research Scientist Intern](https://www.workatastartup.com/jobs/94620) | San Francisco, CA +1 | Onsite | 2026-05-14 | Rolling | 🟢 Open | ❌ |
 | [Trend Micro](generated/companies/trend-micro.md) | [Malware Research Intern](https://trendmicro.wd3.myworkdayjobs.com/External/job/Toronto/Malware-Research-Intern_R0009997) | Toronto | Onsite | 2026-07-22 | Rolling | 🟢 Open | ❔ |
-| [Warner Bros.](generated/companies/warner-bros.md) | [Research & Analytics Internships - Multiple Teams](https://warnerbros.wd5.myworkdayjobs.com/global/job/GA-Atlanta-1050-Techwood-Drive-NW/Research---Analytics-Internships--ATL---Fall-2026_R000107483) | Atlanta, GA | Onsite | 2026-08-11 | Rolling | 🟢 Open | ❔ |
-| [Warner Bros.](generated/companies/warner-bros.md) | [Research, Analytics & Strategy Intern](https://warnerbros.wd5.myworkdayjobs.com/global/job/NY-New-York-30-Hudson-Yards/Research--Analytics---Strategy-Internships--NYC---Fall-2026_R000107153) | NYC | Onsite | 2026-07-23 | Rolling | 🟢 Open | ❔ |
 | [Yotta Labs](generated/companies/yotta-labs.md) | [Research Engineer Intern](https://jobs.ashbyhq.com/yotta/09821a51-fbe6-42a7-a566-0d2b5d40fae3) | Remote | Remote | 2026-08-04 | Rolling | 🟢 Open | ❔ |
 | [Alljoined](generated/companies/alljoined.md) | [Research Intern](https://jobs.ashbyhq.com/alljoined/b9e2f607-6a07-4836-8d89-e4f6de8bd515/application?embed=true) | SF | Onsite | 2026-07-04 | Rolling | 🔴 Closed | ❔ |
 | [AMAROK Security](generated/companies/amarok-security.md) | [Research and Development Intern](https://job-boards.greenhouse.io/amarok/jobs/6018661004) | Columbia, SC | Onsite | 2026-06-11 | Rolling | 🔴 Closed | ❔ |
@@ -113,6 +112,8 @@
 | [Together AI](generated/companies/together-ai.md) | [Research Intern - Model Shaping](https://job-boards.greenhouse.io/togetherai/jobs/5157661007) | SF | Onsite | 2026-06-16 | Rolling | 🔴 Closed | ❔ |
 | [Together AI](generated/companies/together-ai.md) | [Systems Research Engineer Intern - GPU Programming](https://job-boards.greenhouse.io/togetherai/jobs/5157559007) | SF | Onsite | 2026-06-12 | Rolling | 🔴 Closed | ❔ |
 | [University of Virginia](generated/companies/university-of-virginia.md) | [Graduate Research Intern](https://uva.wd1.myworkdayjobs.com/uvastudentjobs/job/Charlottesville-VA/CPSJ-Graduate-Research-Intern--Student-Wage-_R0085307) | Charlottesville, VA | Onsite | 2026-07-21 | Rolling | 🔴 Closed | ❔ |
+| [Warner Bros.](generated/companies/warner-bros.md) | [Research & Analytics Internships - Multiple Teams](https://warnerbros.wd5.myworkdayjobs.com/global/job/GA-Atlanta-1050-Techwood-Drive-NW/Research---Analytics-Internships--ATL---Fall-2026_R000107483) | Atlanta, GA | Onsite | 2026-08-11 | Rolling | 🔴 Closed | ❔ |
+| [Warner Bros.](generated/companies/warner-bros.md) | [Research, Analytics & Strategy Intern](https://warnerbros.wd5.myworkdayjobs.com/global/job/NY-New-York-30-Hudson-Yards/Research--Analytics---Strategy-Internships--NYC---Fall-2026_R000107153) | NYC | Onsite | 2026-07-23 | Rolling | 🔴 Closed | ❔ |
 | [X Development](generated/companies/x-development.md) | [PhD Residency Intern - Operations Research and Optimization](https://x.company/careers/8511395002?gh_jid=8511395002) | Mountain View, CA | Onsite | 2026-04-20 | Rolling | 🔴 Closed | ❔ |
 
 ## Hiring companies
@@ -131,9 +132,10 @@
 - General Motors (2)
 - Jane Street (2)
 - Mistral AI (2)
-- Warner Bros. (2)
 - Nationwide Children's Hospital (2)
+- Warner Bros. (2)
 - Altamira Technologies (1)
+- AMD (1)
 - Analysis Group (1)
 - Architect Labs (1)
 - CALSTART (1)
