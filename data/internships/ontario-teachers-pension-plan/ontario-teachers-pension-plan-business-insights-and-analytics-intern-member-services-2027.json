@@ -1,21 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "figure-special-projects-intern-2026",
+  "id": "ontario-teachers-pension-plan-business-insights-and-analytics-intern-member-services-2027",
   "company": {
-    "name": "Figure",
-    "slug": "figure"
+    "name": "Ontario Teachers' Pension Plan",
+    "slug": "ontario-teachers-pension-plan"
   },
-  "role": "Special Projects Intern",
+  "role": "Business Insights and Analytics Intern - Member Services",
   "category": "software-engineering",
-  "apply_url": "https://job-boards.greenhouse.io/figureai/jobs/4694889006",
-  "season": "fall",
-  "year": 2026,
+  "apply_url": "https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers/job/Toronto-Canada/Intern---Member-Services--Business-Insights-and-Analytics--January-2027---8-months-_7179",
+  "season": "winter",
+  "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "San Jose",
-      "state": "CA",
-      "country": "USA"
+      "city": "Toronto",
+      "country": "ON"
     }
   ],
   "compensation": {
@@ -25,10 +24,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters",
-      "phd"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -43,11 +39,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-07",
-    "discovered": "2026-07-17",
+    "posted": "2026-08-21",
+    "discovered": "2026-08-21",
     "last_verified": "2026-08-21"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

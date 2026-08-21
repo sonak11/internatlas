@@ -178,7 +178,7 @@
 | [DV Trading](../companies/dv-trading.md) | 4/4 | quant, software-engineering |
 | [Dallas College](../companies/dallas-college.md) | 1/1 | software-engineering |
 | [DataRobot](../companies/datarobot.md) | 1/1 | ai |
-| [Databricks](../companies/databricks.md) | 4/4 | product, research, software-engineering |
+| [Databricks](../companies/databricks.md) | 5/5 | product, research, software-engineering |
 | [Datadog](../companies/datadog.md) | 3/3 | product, security, software-engineering |
 | [Datasite](../companies/datasite.md) | 0/2 | ai, software-engineering |
 | [Dedalus Labs](../companies/dedalus-labs.md) | 3/3 | design, product, software-engineering |
@@ -237,7 +237,7 @@
 | [Felix Magazine](../companies/felix-magazine.md) | 4/4 | software-engineering |
 | [Field AI](../companies/field-ai.md) | 1/1 | software-engineering |
 | [Figma](../companies/figma.md) | 2/2 | design, software-engineering |
-| [Figure](../companies/figure.md) | 3/3 | embedded, hardware, software-engineering |
+| [Figure](../companies/figure.md) | 2/3 | embedded, hardware, software-engineering |
 | [Filtration Group](../companies/filtration-group.md) | 1/1 | software-engineering |
 | [Firetiger](../companies/firetiger.md) | 1/1 | software-engineering |
 | [First American](../companies/first-american.md) | 0/1 | software-engineering |
@@ -456,6 +456,7 @@
 | [Odin Dynamics, Inc](../companies/odin-dynamics-inc.md) | 1/1 | software-engineering |
 | [Old Mission](../companies/old-mission.md) | 1/1 | software-engineering |
 | [Oligo Space](../companies/oligo-space.md) | 1/1 | machine-learning |
+| [Ontario Teachers' Pension Plan](../companies/ontario-teachers-pension-plan.md) | 2/2 | software-engineering |
 | [Open Road Integrated Media](../companies/open-road-integrated-media.md) | 1/1 | software-engineering |
 | [Optiver](../companies/optiver.md) | 12/13 | hardware, quant, software-engineering |
 | [OpusClip](../companies/opusclip.md) | 2/2 | ai |
@@ -513,7 +514,7 @@
 | [RLI](../companies/rli.md) | 0/1 | product |
 | [ROCKWOOL Group](../companies/rockwool-group.md) | 0/2 | product, software-engineering |
 | [RRS Group](../companies/rrs-group.md) | 2/2 | software-engineering |
-| [RTX](../companies/rtx.md) | 29/55 | design, machine-learning, software-engineering |
+| [RTX](../companies/rtx.md) | 28/55 | design, machine-learning, software-engineering |
 | [Radix Trading](../companies/radix-trading.md) | 1/1 | quant |
 | [Rainmaker](../companies/rainmaker.md) | 0/1 | software-engineering |
 | [Rakuten International](../companies/rakuten-international.md) | 0/1 | software-engineering |

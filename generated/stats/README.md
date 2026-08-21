@@ -33,7 +33,7 @@ _Generated 2026-08-21_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 1141 | `█████████████` |
+| software-engineering | 1144 | `█████████████` |
 | ai | 203 | `██` |
 | quant | 191 | `██` |
 | machine-learning | 141 | `██` |
@@ -143,6 +143,7 @@ _Generated 2026-08-21_
 - Fab2 — Embedded Software Engineer Intern
 - Fab2 — Rust Software Engineer Intern - Chip Design Tools
 - Fab2 — Software Engineer Intern
+- Figure — Special Projects Intern
 - First American — Software Engineer Intern
 - Formlabs — Hardware Systems Integration Intern
 - Freeform — Materials Engineer Intern
@@ -267,6 +268,7 @@ _Generated 2026-08-21_
 - RTX — Software Engineer Intern
 - RTX — Software Engineer Intern
 - RTX — Software Engineer Intern - Spring 2027
+- RTX — Software Engineer Intern - Summer 2027
 - RTX — Software Engineer Intern - Summer 2027
 - RTX — Software Engineer Intern - Summer 2027
 - RTX — Software Engineer Intern - Summer 2027
