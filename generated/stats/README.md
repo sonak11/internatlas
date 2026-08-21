@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 📊 Statistics
 
-_Generated 2026-08-20_
+_Generated 2026-08-21_
 
 ## Top hiring companies
 
@@ -33,8 +33,8 @@ _Generated 2026-08-20_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 1121 | `█████████████` |
-| ai | 202 | `██` |
+| software-engineering | 1130 | `█████████████` |
+| ai | 203 | `██` |
 | quant | 191 | `██` |
 | machine-learning | 137 | `██` |
 | research | 106 | `█` |
@@ -42,19 +42,26 @@ _Generated 2026-08-20_
 | product | 59 | `█` |
 | embedded | 51 | `█` |
 | cloud | 42 | `█` |
-| design | 41 | `█` |
+| design | 42 | `█` |
 | data-science | 40 | `█` |
 | data-engineering | 24 | `█` |
 | security | 13 | `█` |
 
 ## Newest listings
 
+- 2026-08-21 — **Auto-Owners Insurance**: [Predictive Modeler Intern - Summer 2027](https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Predictive-Modeler-Intern---Summer-2022_R_3833)
+- 2026-08-21 — **Lawrence Livermore National Laboratory (LLNL)**: [Computational Engineering Graduate Intern](https://jobs.smartrecruiters.com/LLNL/3743990014730886)
+- 2026-08-21 — **Lawrence Livermore National Laboratory (LLNL)**: [Environment, Safety and Health Undergraduate Intern - Fall 2026](https://jobs.smartrecruiters.com/LLNL/3743990014730996)
+- 2026-08-21 — **Navy Federal**: [Change Management Intern](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/31728)
+- 2026-08-21 — **Phoebe**: [Software Engineer Intern](https://jobs.ashbyhq.com/phoebe-work/1ffe3e63-2163-447e-a8b0-1fff8b87e0ca/application?embed=true)
 - 2026-08-20 — **AbbVie**: [Business Technology Solutions Intern - Data & Software Engineering - Undergraduate](https://jobs.smartrecruiters.com/AbbVie/3743990014697918)
 - 2026-08-20 — **Abundant**: [Member of Technical Staff Intern - Research](https://jobs.ashbyhq.com/abundant/1ebf7fda-c322-404d-acc3-2757bbd79996/application?embed=true)
+- 2026-08-20 — **Analog Devices**: [Mixed Signal Engineer Intern](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Mixed-Signal-Engineer-Intern_R265299)
 - 2026-08-20 — **Catalist**: [Data Services Intern](https://jobs.lever.co/catalist/4300e9ab-5f6f-4b9a-8ad6-8282a34e7dec/apply)
 - 2026-08-20 — **Cloudflare**: [Software Engineer Intern - Fall 2026](https://boards.greenhouse.io/cloudflare/jobs/8118855)
 - 2026-08-20 — **Cloudflare**: [Software Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8118855?gh_jid=8118855)
 - 2026-08-20 — **CNO Financial Group**: [Reporting Analyst Intern](https://cnoinc.wd5.myworkdayjobs.com/Careers/job/Carmel-IN/Summer-2027-Reporting-Analyst-Intern-2027---REMOTE-from-any-US-based-location_JR170455)
+- 2026-08-20 — **Databricks**: [Software Engineering Intern (2027 Start) - Winter](https://databricks.com/company/careers/open-positions/job?gh_jid=8732364002)
 - 2026-08-20 — **Devon Energy**: [Technology Intern - Data Engineering](https://wd5.myworkdaysite.com/en-US/recruiting/devonenergy/Careers/job/Oklahoma-City-OK/Technology-Summer-Intern-2027_R26264-1)
 - 2026-08-20 — **E-Space**: [Embedded Software Engineer Intern](https://jobs.lever.co/espace/1e189295-a315-414d-8c0b-686f204e3cb3/apply)
 - 2026-08-20 — **Epic Games**: [Engine Programmer Intern - Unreal Engine](https://epicgames.com/careers/jobs/6147283004?gh_jid=6147283004)
@@ -62,13 +69,6 @@ _Generated 2026-08-20_
 - 2026-08-20 — **Eversource Energy**: [Asset Management Technology Engineer Intern - Fall 2026](https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/Hartford-CT/Asset-Management-Technology--Engineering-Intern--Fall-2026-_R-031600)
 - 2026-08-20 — **Excellus BCBS**: [College Intern - AI Engineering](https://lthc.wd1.myworkdayjobs.com/en-US/ExcellusBCBSCareers/job/Rochester/College-Intern---AI-Engineering---Fall-2026--Multiple-Openings-_JR103879-2)
 - 2026-08-20 — **Excellus BCBS**: [Software Engineering Intern - Multiple Openings](https://lthc.wd1.myworkdayjobs.com/en-US/ExcellusBCBSCareers/job/Rochester/College-Intern---Software-Engineering---Fall-2026--Multiple-Openings-_JR103878-2)
-- 2026-08-20 — **Fannie Mae**: [Data Science Intern - Analytics & Modeling Program](https://fanniemae.wd1.myworkdayjobs.com/FannieMaeCareers/job/Washington-DC/Campus---Data-Science-Intern--Analytics---Modeling-Program-_JR2815)
-- 2026-08-20 — **Framatome**: [Computer Science Engineer Intern Co-op - Univ/Co-op Technical](https://careers-framatome.icims.com/jobs/3295/job?mobile=true&needsRedirect=false)
-- 2026-08-20 — **Freeform**: [Materials Engineer Intern](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7907965003)
-- 2026-08-20 — **General Matter**: [Software Engineering Intern](https://job-boards.greenhouse.io/generalmatter/jobs/5377118008)
-- 2026-08-20 — **Integra FEC**: [Research Analyst Intern](https://job-boards.greenhouse.io/integrainterns/jobs/5396990008)
-- 2026-08-20 — **Leidos**: [Engineering Intern - Defense Systems - Threat Modeling & Simulation Portfolio](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Engineering-Intern_R-00189691)
-- 2026-08-20 — **National Laboratory of the Rockies**: [Graduate Energy Systems Intern](https://nrel.wd5.myworkdayjobs.com/NLR/job/Boulder-CO/Graduate-Summer-Intern---Modeling-and-Analysis-of-Distributed-Hybrid-Energy-Systems_R14469)
 
 ## Recently closed
 
@@ -88,8 +88,6 @@ _Generated 2026-08-20_
 - Assurant — Digital & AI Transformation Intern 1 - Internship Program
 - Assured Guaranty — Product Software Developer Intern
 - Astranis — Embedded Software Developer – Network/Payload Software Intern
-- Astranis — Reliability Design Intern
-- Axon — Software Engineer Intern
 - Bank of Montreal — Card Products Intern Co-op - Customer Solutions
 - Bank of Montreal — Data Scientist Co-op/Internship - Months
 - Bank of Montreal — Database Operations Co-op Intern
@@ -107,7 +105,6 @@ _Generated 2026-08-20_
 - Capital One — Technology Intern
 - CCC Intelligent Solutions — Data Science Engineer Intern
 - CCC Intelligent Solutions — Data Science Intern - R&D
-- Centerfield — Product Manager Intern
 - Centerstone — Bachelor Level Intern
 - Centific — Research Intern - Healthcare AI
 - Centific — Technical Intern
@@ -136,11 +133,9 @@ _Generated 2026-08-20_
 - Cotiviti — Agentic AI Research Intern
 - Definity Financial — Reporting Specialist Co-op/Intern
 - Definity Financial — Technology Solutions Data Platform & Engineering Co-op/Intern
-- Desjardins Group — Data Intern
 - Ditto — Ditto Intern Program
 - Eko Health — Clinical Product Strategy Intern - Clinical Technology
 - Environmental Defense Fund — Climate & Health Intern
-- Etched — Electrical Platform Intern
 - Exabeam — AI Deployment Intern
 - Excel Sports Management — Analytics Intern - Analytics
 - Excel Sports Management — Football Coaches Intern
@@ -149,6 +144,7 @@ _Generated 2026-08-20_
 - Fab2 — Software Engineer Intern
 - First American — Software Engineer Intern
 - Formlabs — Hardware Systems Integration Intern
+- Freeform — Materials Engineer Intern
 - Gartner — Data Analyst Intern
 - GE Vernova — Digital Technology Intern
 - GE Vernova — Digital Technology Intern
@@ -247,12 +243,9 @@ _Generated 2026-08-20_
 - Rivian — Research Park Intern - Embedded Software
 - Rivian — UIUC Research Park Intern - Computational Methods Development
 - RLI — Product Management Intern
-- Rockwell Automation — Applied AI Intern
-- Rockwell Automation — Applied AI Intern
 - Rockwell Automation — Firmware Engineering Intern
 - Rockwell Automation — Firmware Engineering Intern
 - ROCKWOOL Group — Paint & Coating Intern
-- Royal Bank of Canada — Relationship Manager Commercial Markets Intern
 - RTX — Electrical Engineering Intern
 - RTX — Enterprise Extended Reality Intern
 - RTX — Machine Learning Researcher Intern/Co-op
@@ -295,8 +288,6 @@ _Generated 2026-08-20_
 - Susquehanna International Group (SIG) — Derivatives Sales Trader Intern - Summer 2027
 - Susquehanna International Group (SIG) — Quantitative Trader Intern
 - Swift — Industry Engagement Research Analyst Intern
-- T. Rowe Price — Global Trading Intern
-- T. Rowe Price — Quantitative Equity Investing Intern
 - Tencent — AI Product Manager Intern
 - Tencent — Research Intern - Video World Models - Research & ML Systems
 - Terminal — Software Engineer Intern - Backend
@@ -309,7 +300,7 @@ _Generated 2026-08-20_
 - Tesla — Inline Metrology Systems Design/Engineer Intern - Cell Engineering
 - Tesla — Machine Learning Engineer Intern - Machine Learning Engineer - Factory Software
 - Tesla — Operational Automation Software Engineer Intern - Operational Automation Engineer - Residential Energy
-- Tesla — Software Engineer Intern - AI Data Infrastructure
+- Tesla — Software Engineer Intern - Software Engineer - AI Hardware Infrastructure
 - Tesla — Software Engineer Intern - Software Engineer - Data Platforms
 - Tesla — Software Engineer Intern - Software Engineer - Energy Engineering
 - Tesla — Software Integration Engineer Intern - Software Integration Engineer - Optimus
@@ -330,8 +321,6 @@ _Generated 2026-08-20_
 - US Acute Care Solutions — People Analytics Intern
 - Valeo — Software Engineer Intern
 - Vanguard — Data Analysis Intern
-- Vanguard — Data Science Intern - College to Corporate IT
-- Vanguard — Data Science Intern - Information Technology
 - Veeda AI — AI Scientist Intern - Veeda AI Scientist
 - Vega Investment Technologies — Product Operations Intern
 - Veralto — Machine Learning Co-op Intern

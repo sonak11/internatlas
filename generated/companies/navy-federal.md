@@ -6,6 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
+| Navy Federal | [Change Management Intern](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/31728) | Pensacola, FL +1 | Onsite | 2026-08-21 | Rolling | 🟢 Open | ❔ |
 | Navy Federal | [Data Engineering Intern](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/29792) | Vienna, VA | Onsite | 2026-08-12 | Rolling | 🟢 Open | ❔ |
 | Navy Federal | [Data Scientist Intern](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/31873) | Pensacola, FL +1 | Onsite | 2026-08-12 | Rolling | 🟢 Open | ❔ |
 | Navy Federal | [Frontend Application Engineer Intern](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/29776) | Pensacola, FL +1 | Onsite | 2026-07-14 | Rolling | 🟢 Open | ❔ |

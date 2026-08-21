@@ -6,8 +6,10 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
+| Lawrence Livermore National Laboratory (LLNL) | [Computational Engineering Graduate Intern](https://jobs.smartrecruiters.com/LLNL/3743990014730886) | Livermore, CA | Onsite | 2026-08-21 | Rolling | 🟢 Open | ❔ |
 | Lawrence Livermore National Laboratory (LLNL) | [Computing Graduate Student Intern](https://jobs.smartrecruiters.com/LLNL/3743990013801396) | Livermore, CA | Onsite | 2026-06-26 | Rolling | 🟢 Open | ❔ |
 | Lawrence Livermore National Laboratory (LLNL) | [Computing Undergraduate Student Intern](https://jobs.smartrecruiters.com/LLNL/3743990013801386) | Livermore, CA | Onsite | 2026-06-26 | Rolling | 🟢 Open | ❔ |
+| Lawrence Livermore National Laboratory (LLNL) | [Environment, Safety and Health Undergraduate Intern - Fall 2026](https://jobs.smartrecruiters.com/LLNL/3743990014730996) | Livermore, CA | Onsite | 2026-08-21 | Rolling | 🟢 Open | ❔ |
 
 ## Related
 

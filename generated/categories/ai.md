@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🤖 AI Internships
 
-**202** tracked · **136** open now
+**203** tracked · **136** open now
 
 ## Current openings
 
@@ -77,6 +77,7 @@
 | [Meta](generated/companies/meta.md) | [Research Scientist Intern, LLM Evaluation](https://www.metacareers.com/profile/job_details/4203446973242742) | New York, NY | Onsite | 2025-12-11 | Rolling | 🟢 Open | ❌ |
 | [Microsoft](generated/companies/microsoft.md) | [AI Software Engineer Intern](https://apply.careers.microsoft.com/careers/job/1970393556962891) | Redmond, WA +1 | Onsite | 2026-08-19 | Rolling | 🟢 Open | ❔ |
 | [Montenson](generated/companies/montenson.md) | [Artificial Intelligence Intern](https://fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23339) | Minnesota | Onsite | 2026-08-10 | Rolling | 🟢 Open | ❔ |
+| [Mosaic](generated/companies/mosaic.md) | [Artificial Intelligence Co-op Intern](https://mosaic.wd5.myworkdayjobs.com/mosaic/job/US---Tampa-FL-Lithia-area/Artificial-Intelligence-Co-Op-Intern---Spring-2027_64729) | Tampa, FL | Onsite | 2026-08-20 | Rolling | 🟢 Open | ❔ |
 | [Nelnet](generated/companies/nelnet.md) | [Agentic AI Intern](https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Lincoln-NE/Intern-Program---Agentic-AI_R22904) | Lincoln, NE | Onsite | 2026-07-27 | Rolling | 🟢 Open | ❔ |
 | [Nextiva](generated/companies/nextiva.md) | [Forward Deployed Engineer Intern - AI Implementation](https://www.nextiva.com/company/careers-listing?gh_jid=8639480002) | Scottsdale, AZ | Onsite | 2026-07-24 | Rolling | 🟢 Open | ❔ |
 | [Notion](generated/companies/notion.md) | [Software Engineer, AI Intern](https://jobs.ashbyhq.com/notion/39d70209-37f6-4623-949b-18fbd8889933) | San Francisco, CA +1 | Onsite | 2025-08-08 | Rolling | 🟢 Open | ✅ |
@@ -115,7 +116,6 @@
 | [Tesla](generated/companies/tesla.md) | [Software Compiler Engineer Intern - AI Inference](https://www.tesla.com/careers/search/job/278847) | Palo Alto, CA | Onsite | 2026-08-01 | Rolling | 🟢 Open | ❔ |
 | [Tesla](generated/companies/tesla.md) | [Software Compiler Engineer Intern, AI Inference](https://www.tesla.com/careers/search/job/247889) | Palo Alto, CA | Onsite | 2025-08-08 | Rolling | 🟢 Open | ❔ |
 | [Tesla](generated/companies/tesla.md) | [Software Engineer Intern - AI Inference Co Design](https://www.tesla.com/careers/search/job/279600) | Palo Alto, CA | Onsite | 2026-08-12 | Rolling | 🟢 Open | ❔ |
-| [Tesla](generated/companies/tesla.md) | [Software Engineer Intern - Software Engineer - AI Hardware Infrastructure](https://www.tesla.com/careers/search/job/260382) | Palo Alto, CA | Onsite | 2026-06-07 | Rolling | 🟢 Open | ❔ |
 | [Tesla](generated/companies/tesla.md) | [Software Engineer Intern - Software Engineer - AI Infrastructure](https://www.tesla.com/careers/search/job/278578) | Palo Alto, CA | Onsite | 2026-07-30 | Rolling | 🟢 Open | ❔ |
 | [Tesla](generated/companies/tesla.md) | [Software Integration Engineer Intern, AI Platforms](https://www.tesla.com/careers/search/job/247873?source=Indeed&source=Indeed&tags=organicjob) | Palo Alto, CA | Onsite | 2025-08-08 | Rolling | 🟢 Open | ❔ |
 | [The Nuclear Company](generated/companies/the-nuclear-company.md) | [AI Applied Research Intern](https://job-boards.greenhouse.io/thenuclearcompany/jobs/5391888008) | Washington, DC | Onsite | 2026-08-14 | Rolling | 🟢 Open | ❔ |
@@ -204,6 +204,7 @@
 | [Tesla](generated/companies/tesla.md) | [AI Hardware Design Engineer Intern - AI Hardware Design Engineer - AI Hardware](https://www.tesla.com/careers/search/job/272462) | Palo Alto, CA +1 | Onsite | 2026-06-07 | Rolling | 🔴 Closed | ❔ |
 | [Tesla](generated/companies/tesla.md) | [AI Inference Engineer Intern - Software Compiler Engineer - AI Inference](https://www.tesla.com/careers/search/job/263211) | Palo Alto, CA | Onsite | 2026-06-07 | Rolling | 🔴 Closed | ❔ |
 | [Tesla](generated/companies/tesla.md) | [Software Engineer Intern - AI Data Infrastructure](https://www.tesla.com/careers/search/job/269829) | Palo Alto, CA | Onsite | 2026-06-07 | Rolling | 🔴 Closed | ❔ |
+| [Tesla](generated/companies/tesla.md) | [Software Engineer Intern - Software Engineer - AI Hardware Infrastructure](https://www.tesla.com/careers/search/job/260382) | Palo Alto, CA | Onsite | 2026-06-07 | Rolling | 🔴 Closed | ❔ |
 | [The Home Depot](generated/companies/the-home-depot.md) | [AI Engineer Intern](https://homedepot.wd5.myworkdayjobs.com/CareerDepotCanada/job/CANADA-STORE-SUPPORT-CENTER---7000/Intern--AI-Engineer_Req188547) | Toronto | Onsite | 2026-07-30 | Rolling | 🔴 Closed | ❔ |
 | [Toshiba Commerce Solutions](generated/companies/toshiba-commerce-solutions.md) | [AI Engineering Intern](https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5192820007) | Frisco, TX | Onsite | 2026-07-27 | Rolling | 🔴 Closed | ❌ |
 | [Toshiba Commerce Solutions](generated/companies/toshiba-commerce-solutions.md) | [Project Management & AI Automation Intern](https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5190937007) | Frisco, TX | Onsite | 2026-07-27 | Rolling | 🔴 Closed | ❌ |
@@ -274,6 +275,7 @@
 - Medpace, Inc. (1)
 - Microsoft (1)
 - Montenson (1)
+- Mosaic (1)
 - Nelnet (1)
 - Nextiva (1)
 - Notion (1)
