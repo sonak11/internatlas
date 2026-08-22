@@ -10,7 +10,7 @@ _Generated 2026-08-22_
 |---|---|
 | TikTok | 143 |
 | Tesla | 110 |
-| RTX | 57 |
+| RTX | 58 |
 | ByteDance | 54 |
 | Jump Trading | 43 |
 | Cloudflare | 34 |
@@ -33,13 +33,13 @@ _Generated 2026-08-22_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 1204 | `█████████████` |
-| ai | 214 | `██` |
+| software-engineering | 1209 | `█████████████` |
+| ai | 215 | `██` |
 | quant | 196 | `██` |
 | machine-learning | 141 | `██` |
-| research | 107 | `█` |
+| research | 108 | `█` |
 | hardware | 98 | `█` |
-| product | 61 | `█` |
+| product | 64 | `█` |
 | embedded | 56 | `█` |
 | design | 43 | `█` |
 | data-science | 42 | `█` |
@@ -54,6 +54,14 @@ _Generated 2026-08-22_
 - 2026-08-22 — **Elevate Semiconductor**: [Product Engineering Intern](https://apply.workable.com/elevate-semiconductor/j/F234DECA3C/apply)
 - 2026-08-22 — **Hitachi**: [Engineering Intern](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Raleigh-North-Carolina-United-States/XMLNAME-2027-Summer-Engineering-Intern---Raleigh_R0142571)
 - 2026-08-22 — **Microsoft**: [AI Software Engineer Intern - Edge](https://apply.careers.microsoft.com/careers/job/1970393556979054)
+- 2026-08-22 — **Springs Window Fashions**: [AI Analyst Intern - Consumer Business Unit](https://careers-springswindowfashions.icims.com/jobs/12875/job?mobile=true&needsRedirect=false)
+- 2026-08-22 — **Springs Window Fashions**: [Application Engineering Intern - Summer 2027](https://careers-springswindowfashions.icims.com/jobs/12893/job?mobile=true&needsRedirect=false)
+- 2026-08-22 — **Springs Window Fashions**: [Data Analyst Intern - Consumer Business Unit](https://careers-springswindowfashions.icims.com/jobs/12874/job?mobile=true&needsRedirect=false)
+- 2026-08-22 — **Springs Window Fashions**: [Dealer Business Operations & Analytics Intern - Summer 2027](https://careers-springswindowfashions.icims.com/jobs/12886/job?mobile=true&needsRedirect=false)
+- 2026-08-22 — **Springs Window Fashions**: [Product Management Competitive Product Assessment Intern - Summer 2027](https://careers-springswindowfashions.icims.com/jobs/12883/job?mobile=true&needsRedirect=false)
+- 2026-08-22 — **Springs Window Fashions**: [Product Management Dashboard Analytics Intern](https://careers-springswindowfashions.icims.com/jobs/12882/job?mobile=true&needsRedirect=false)
+- 2026-08-22 — **Springs Window Fashions**: [Product Management Intern](https://careers-springswindowfashions.icims.com/jobs/12892/job?mobile=true&needsRedirect=false)
+- 2026-08-22 — **Springs Window Fashions**: [Textile Engineering Intern - Summer 2027](https://careers-springswindowfashions.icims.com/jobs/12881/job?mobile=true&needsRedirect=false)
 - 2026-08-22 — **TikTok**: [AI Product Manager Intern - Product Social](https://lifeattiktok.com/search/7675616554318596357)
 - 2026-08-22 — **TikTok**: [Product Manager Intern - Content and Service Ads](https://lifeattiktok.com/search/7676283436713593093)
 - 2026-08-22 — **TikTok**: [Software Engineer Intern](https://lifeattiktok.com/search/7676276048527214901)
@@ -61,14 +69,6 @@ _Generated 2026-08-22_
 - 2026-08-21 — **AMD**: [Data Analyst Intern/Co-op](https://careers.amd.com/jobs/91175?icims=1)
 - 2026-08-21 — **AMD**: [Data Analyst Intern/Co-op](https://careers.amd.com/jobs/91179?icims=1)
 - 2026-08-21 — **AMD**: [Data Analyst Intern/Co-op](https://careers.amd.com/jobs/90895?icims=1)
-- 2026-08-21 — **AMD**: [Field Applications Engineer Intern - Masters](https://careers.amd.com/jobs/91239?icims=1)
-- 2026-08-21 — **AMD**: [Firmware Engineer Co-op/Intern](https://careers.amd.com/jobs/90809?icims=1)
-- 2026-08-21 — **AMD**: [Firmware Engineer Intern/Co-op](https://careers.amd.com/jobs/90805?icims=1)
-- 2026-08-21 — **AMD**: [Firmware Engineer Intern/Co-op](https://careers.amd.com/jobs/90801?icims=1)
-- 2026-08-21 — **AMD**: [Firmware Engineering Intern Co-op - Undergrad](https://careers.amd.com/jobs/90807?icims=1)
-- 2026-08-21 — **AMD**: [Hardware Design Verification Engineer Co-op/Intern](https://careers.amd.com/jobs/90811?icims=1)
-- 2026-08-21 — **AMD**: [Hardware Design Verification Engineer Co-op/Intern](https://careers.amd.com/jobs/90810?icims=1)
-- 2026-08-21 — **AMD**: [Hardware Design Verification Engineer Intern/Co-op](https://careers.amd.com/jobs/90813?icims=1)
 
 ## Recently closed
 
@@ -106,6 +106,7 @@ _Generated 2026-08-22_
 - Cadence Design Systems — Software Engineer Intern
 - Cadence Design Systems — SSG Design Engineering Intern
 - CALSTART — Web Development Intern
+- Canva — PhD Research Scientist Intern - Generative AI
 - Canva — PhD Research Scientist Intern - Reinforcement Learning for Diffusion Modelling
 - Capital One — Cyber Security Intern
 - Capital One — Software Engineer Intern
@@ -166,6 +167,17 @@ _Generated 2026-08-22_
 - Global Partners — Advanced Analytics Intern
 - GoDaddy — Software Development Engineer Intern
 - Golden Pet Brands — Data Analytics Intern
+- Goldman Sachs — AWM Product Management Analyst Intern
+- Goldman Sachs — Quantitative Strategist Associate Intern - Asset and Wealth Management
+- Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
+- Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
+- Goldman Sachs — Summer Analyst Intern - Americas - AWM Product Management
+- Goldman Sachs — Summer Analyst Intern - FICC and Equities - Sales and Trading
+- Goldman Sachs — Summer Analyst Intern - FICC & Equities - Sales & Trading
+- Goldman Sachs — Summer Analyst Intern - Wealth Management - Product Management and Design
+- Goldman Sachs — Summer Associate Intern - Multiple Teams
 - Group 1001 — Quantitative Analysis Intern
 - Gulf Management — Software Engineer & Business Systems Intern
 - Gulfstream — Computer Science Intern - Advanced Structures and Materials
@@ -230,6 +242,7 @@ _Generated 2026-08-22_
 - Nokia — Hardware Developer Engineer Co-op/Intern
 - Notion — Governance, Risk, and Compliance Intern (Fall 2026)
 - NVIDIA — Computer Architecture Intern
+- NVIDIA — Hardware Verification Intern
 - Ontario Teachers' Pension Plan — Finance Intern - Risk Analytics
 - Ontario Teachers' Pension Plan — Risk Intern - Total Fund Risk
 - Otter Products — Artificial Intelligence Intern

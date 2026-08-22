@@ -127,7 +127,7 @@
 | [Caddi Workflow Automation](../companies/caddi-workflow-automation.md) | 1/1 | software-engineering |
 | [Cadence Design Systems](../companies/cadence-design-systems.md) | 0/6 | design, software-engineering |
 | [Campbell Soup Company](../companies/campbell-soup-company.md) | 1/1 | ai |
-| [Canva](../companies/canva.md) | 4/5 | ai, research |
+| [Canva](../companies/canva.md) | 4/6 | ai, research |
 | [Capacity](../companies/capacity.md) | 1/1 | software-engineering |
 | [Capital One](../companies/capital-one.md) | 10/15 | data-science, security, software-engineering |
 | [Capula](../companies/capula.md) | 1/1 | quant |
@@ -292,7 +292,7 @@
 | [Global Partners](../companies/global-partners.md) | 0/1 | software-engineering |
 | [GoDaddy](../companies/godaddy.md) | 0/1 | software-engineering |
 | [Golden Pet Brands](../companies/golden-pet-brands.md) | 0/1 | software-engineering |
-| [Goldman Sachs](../companies/goldman-sachs.md) | 11/11 | product, quant, software-engineering |
+| [Goldman Sachs](../companies/goldman-sachs.md) | 0/11 | product, quant, software-engineering |
 | [Google](../companies/google.md) | 3/7 | data-science, research, software-engineering |
 | [Grant Thornton](../companies/grant-thornton.md) | 2/2 | software-engineering |
 | [Gritt Robotics Inc](../companies/gritt-robotics-inc.md) | 1/1 | software-engineering |
@@ -434,7 +434,7 @@
 | [NBCUniversal](../companies/nbcuniversal.md) | 2/2 | software-engineering |
 | [NBT Bank](../companies/nbt-bank.md) | 0/1 | software-engineering |
 | [NTT DATA AIVista](../companies/ntt-data-aivista.md) | 1/1 | ai |
-| [NVIDIA](../companies/nvidia.md) | 20/30 | ai, design, hardware, machine-learning, quant, research, security, software-engineering |
+| [NVIDIA](../companies/nvidia.md) | 19/30 | ai, design, hardware, machine-learning, quant, research, security, software-engineering |
 | [NXP Semiconductors](../companies/nxp-semiconductors.md) | 1/3 | ai, design, software-engineering |
 | [Nash](../companies/nash.md) | 1/1 | software-engineering |
 | [NationGraph](../companies/nationgraph.md) | 1/2 | software-engineering |
@@ -531,7 +531,7 @@
 | [RLI](../companies/rli.md) | 0/1 | product |
 | [ROCKWOOL Group](../companies/rockwool-group.md) | 0/2 | product, software-engineering |
 | [RRS Group](../companies/rrs-group.md) | 2/2 | software-engineering |
-| [RTX](../companies/rtx.md) | 21/57 | design, machine-learning, software-engineering |
+| [RTX](../companies/rtx.md) | 22/58 | design, machine-learning, software-engineering |
 | [Radix Trading](../companies/radix-trading.md) | 1/1 | quant |
 | [Rainmaker](../companies/rainmaker.md) | 0/1 | software-engineering |
 | [Rakuten International](../companies/rakuten-international.md) | 0/1 | software-engineering |
@@ -610,6 +610,7 @@
 | [Specialisterne](../companies/specialisterne.md) | 1/1 | software-engineering |
 | [Spectrum Control](../companies/spectrum-control.md) | 0/1 | software-engineering |
 | [SpreeAI](../companies/spreeai.md) | 4/4 | machine-learning, software-engineering |
+| [Springs Window Fashions](../companies/springs-window-fashions.md) | 8/8 | ai, product, software-engineering |
 | [Squarepoint Capital](../companies/squarepoint-capital.md) | 2/2 | quant, software-engineering |
 | [Stand Insurance](../companies/stand-insurance.md) | 0/1 | software-engineering |
 | [StarSling](../companies/starsling.md) | 1/1 | software-engineering |
