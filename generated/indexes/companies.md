@@ -38,7 +38,7 @@
 | [Altice USA](../companies/altice-usa.md) | 1/1 | data-engineering |
 | [Altom Transport](../companies/altom-transport.md) | 3/3 | software-engineering |
 | [Amazon](../companies/amazon.md) | 8/8 | machine-learning, software-engineering |
-| [Ambarella](../companies/ambarella.md) | 2/5 | hardware, software-engineering |
+| [Ambarella](../companies/ambarella.md) | 0/5 | hardware, software-engineering |
 | [Amcor](../companies/amcor.md) | 2/2 | ai, software-engineering |
 | [Amentum](../companies/amentum.md) | 0/1 | hardware |
 | [Ameren](../companies/ameren.md) | 1/1 | software-engineering |
@@ -386,7 +386,7 @@
 | [Littelfuse](../companies/littelfuse.md) | 0/1 | software-engineering |
 | [LiveRamp](../companies/liveramp.md) | 0/1 | software-engineering |
 | [Loop](../companies/loop.md) | 0/1 | data-science |
-| [Louisiana Blue](../companies/louisiana-blue.md) | 2/4 | software-engineering |
+| [Louisiana Blue](../companies/louisiana-blue.md) | 1/4 | software-engineering |
 | [Lumentum](../companies/lumentum.md) | 0/2 | software-engineering |
 | [Luminance](../companies/luminance.md) | 1/1 | ai |
 | [Léger](../companies/l-ger.md) | 1/1 | research |

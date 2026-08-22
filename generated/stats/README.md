@@ -77,8 +77,10 @@ _Generated 2026-08-22_
 - Adtheorant — Enterprise AI Intern
 - Altera Corporation — Embedded Solutions Intern
 - Ambarella — Algorithm Engineer Intern
+- Ambarella — ASIC Design Engineer Intern
 - Ambarella — DFT Engineer Intern
 - Ambarella — Software Development Engineer Intern
+- Ambarella — Verification Engineer Intern
 - Amentum — Spaceflight Hardware Intern
 - American Enterprise Institute — Intern
 - Analytical Mechanics Associates — Computer Science/Engineering Intern - Computer Vision Applications
@@ -190,6 +192,7 @@ _Generated 2026-08-22_
 - Keysight Technologies — Software Engineer Intern - R&D - FPGA
 - Kimley-Horn — Software Developer Intern
 - Louisiana Blue — Data Modeler Intern
+- Louisiana Blue — Healthcare Price and Transparency Data Analyst Intern
 - Louisiana Blue — Operational Reporting & Data Analyst Intern - CW
 - Lumentum — Optical Verification Technician Co-op Intern
 - Lumentum — Optical Verification Technician Intern/Co-op
