@@ -1,20 +1,21 @@
 {
   "schema_version": "1.0",
-  "id": "dmg-media-editorial-innovation-intern-innovation-team-2026",
+  "id": "analog-devices-algorithm-development-engineer-intern-2026",
   "company": {
-    "name": "Dmg Media",
-    "slug": "dmg-media"
+    "name": "Analog Devices",
+    "slug": "analog-devices"
   },
-  "role": "Editorial Innovation Intern - Innovation Team",
+  "role": "Algorithm Development Engineer Intern",
   "category": "software-engineering",
-  "apply_url": "https://www.dmgmedia.co.uk/careers/jobs/id/8130320?gh_jid=8130320",
+  "apply_url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Algorithm-Development-Engineer-Intern_R265306-1",
   "season": "fall",
   "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "London",
-      "country": "UK"
+      "city": "Wilmington",
+      "state": "MA",
+      "country": "USA"
     }
   ],
   "compensation": {
@@ -39,11 +40,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-17",
-    "discovered": "2026-08-17",
+    "posted": "2026-08-22",
+    "discovered": "2026-08-22",
     "last_verified": "2026-08-22"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

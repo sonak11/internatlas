@@ -1,20 +1,21 @@
 {
   "schema_version": "1.0",
-  "id": "dmg-media-editorial-innovation-intern-innovation-team-2026",
+  "id": "hitachi-engineering-intern-2027",
   "company": {
-    "name": "Dmg Media",
-    "slug": "dmg-media"
+    "name": "Hitachi",
+    "slug": "hitachi"
   },
-  "role": "Editorial Innovation Intern - Innovation Team",
+  "role": "Engineering Intern",
   "category": "software-engineering",
-  "apply_url": "https://www.dmgmedia.co.uk/careers/jobs/id/8130320?gh_jid=8130320",
-  "season": "fall",
-  "year": 2026,
+  "apply_url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Raleigh-North-Carolina-United-States/XMLNAME-2027-Summer-Engineering-Intern---Raleigh_R0142571",
+  "season": "summer",
+  "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "London",
-      "country": "UK"
+      "city": "Raleigh",
+      "state": "NC",
+      "country": "USA"
     }
   ],
   "compensation": {
@@ -24,7 +25,9 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "masters"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -39,11 +42,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-17",
-    "discovered": "2026-08-17",
+    "posted": "2026-08-22",
+    "discovered": "2026-08-22",
     "last_verified": "2026-08-22"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

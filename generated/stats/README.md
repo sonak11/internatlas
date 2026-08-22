@@ -33,7 +33,7 @@ _Generated 2026-08-22_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 1200 | `█████████████` |
+| software-engineering | 1204 | `█████████████` |
 | ai | 214 | `██` |
 | quant | 196 | `██` |
 | machine-learning | 141 | `██` |
@@ -49,7 +49,10 @@ _Generated 2026-08-22_
 
 ## Newest listings
 
+- 2026-08-22 — **Analog Devices**: [Algorithm Development Engineer Intern](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Algorithm-Development-Engineer-Intern_R265306-1)
+- 2026-08-22 — **Analog Devices**: [Systems Integration Engineer Intern](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-NC-Durham/System-Integration-Engineer-Intern_R265305)
 - 2026-08-22 — **Elevate Semiconductor**: [Product Engineering Intern](https://apply.workable.com/elevate-semiconductor/j/F234DECA3C/apply)
+- 2026-08-22 — **Hitachi**: [Engineering Intern](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Raleigh-North-Carolina-United-States/XMLNAME-2027-Summer-Engineering-Intern---Raleigh_R0142571)
 - 2026-08-22 — **Microsoft**: [AI Software Engineer Intern - Edge](https://apply.careers.microsoft.com/careers/job/1970393556979054)
 - 2026-08-22 — **TikTok**: [AI Product Manager Intern - Product Social](https://lifeattiktok.com/search/7675616554318596357)
 - 2026-08-22 — **TikTok**: [Product Manager Intern - Content and Service Ads](https://lifeattiktok.com/search/7676283436713593093)
@@ -66,9 +69,6 @@ _Generated 2026-08-22_
 - 2026-08-21 — **AMD**: [Hardware Design Verification Engineer Co-op/Intern](https://careers.amd.com/jobs/90811?icims=1)
 - 2026-08-21 — **AMD**: [Hardware Design Verification Engineer Co-op/Intern](https://careers.amd.com/jobs/90810?icims=1)
 - 2026-08-21 — **AMD**: [Hardware Design Verification Engineer Intern/Co-op](https://careers.amd.com/jobs/90813?icims=1)
-- 2026-08-21 — **AMD**: [Hardware Design Verification Engineering Intern/Co-op](https://careers.amd.com/jobs/90820?icims=1)
-- 2026-08-21 — **AMD**: [Hardware Engineer Intern/Co-op](https://careers.amd.com/jobs/90894?icims=1)
-- 2026-08-21 — **AMD**: [Hardware Engineer Intern/Co-op - Hardware Engineering](https://careers.amd.com/jobs/91182?icims=1)
 
 ## Recently closed
 
@@ -141,6 +141,7 @@ _Generated 2026-08-22_
 - Crowe — NetSuite Implementation Intern - Consulting Practice
 - Cubist Systematic Strategies — Quantitative Developer Intern
 - Ditto — Ditto Intern Program
+- Dmg Media — Editorial Innovation Intern - Innovation Team
 - Eko Health — Clinical Product Strategy Intern - Clinical Technology
 - Environmental Defense Fund — Climate & Health Intern
 - Excel Sports Management — Analytics Intern - Analytics
@@ -165,6 +166,8 @@ _Generated 2026-08-22_
 - Global Partners — Advanced Analytics Intern
 - GoDaddy — Software Development Engineer Intern
 - Golden Pet Brands — Data Analytics Intern
+- Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
+- Goldman Sachs — Summer Associate Intern - Multiple Teams
 - Group 1001 — Quantitative Analysis Intern
 - Gulf Management — Software Engineer & Business Systems Intern
 - Gulfstream — Computer Science Intern - Advanced Structures and Materials
@@ -264,6 +267,7 @@ _Generated 2026-08-22_
 - Rivian and Volkswagen Group Technologies — Software Engineer Intern - Vehicle Controls
 - RLI — Product Management Intern
 - ROCKWOOL Group — Paint & Coating Intern
+- RTX — Chemistry Materials Engineer Intern
 - RTX — Digital Technology Intern
 - RTX — Electrical Engineering Intern
 - RTX — Enterprise Extended Reality Intern

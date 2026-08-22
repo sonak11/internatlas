@@ -1,20 +1,21 @@
 {
   "schema_version": "1.0",
-  "id": "dmg-media-editorial-innovation-intern-innovation-team-2026",
+  "id": "bp-reservoir-engineer-intern-summer-internship-2027",
   "company": {
-    "name": "Dmg Media",
-    "slug": "dmg-media"
+    "name": "BP",
+    "slug": "bp"
   },
-  "role": "Editorial Innovation Intern - Innovation Team",
+  "role": "Reservoir Engineer Intern - Summer Internship",
   "category": "software-engineering",
-  "apply_url": "https://www.dmgmedia.co.uk/careers/jobs/id/8130320?gh_jid=8130320",
-  "season": "fall",
-  "year": 2026,
+  "apply_url": "https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers/job/United-States-of-America---Texas---Houston/Summer-Intern---Reservoir-Engineer---Houston--TX_RQ114655-2",
+  "season": "summer",
+  "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "London",
-      "country": "UK"
+      "city": "Houston",
+      "state": "TX",
+      "country": "USA"
     }
   ],
   "compensation": {
@@ -39,11 +40,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-17",
-    "discovered": "2026-08-17",
+    "posted": "2026-08-16",
+    "discovered": "2026-08-22",
     "last_verified": "2026-08-22"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"
