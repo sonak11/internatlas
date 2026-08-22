@@ -45083,7 +45083,7 @@
         "discovered": "2026-08-22",
         "last_verified": "2026-08-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -62943,7 +62943,7 @@
         "discovered": "2026-08-19",
         "last_verified": "2026-08-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"

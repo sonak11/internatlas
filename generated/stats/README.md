@@ -173,6 +173,7 @@ _Generated 2026-08-22_
 - Harris Computer — Software Development Intern
 - Hershey — Product Development Intern - R&D
 - Hitachi — Data Center Optimization Intern
+- Hoffman Construction — Data Analyst Intern
 - Horizon Industries — Appian Intern
 - IES Holdings — Data Analytics Intern
 - IMC Trading — Hardware Machine Learning PhD Research Internship
@@ -217,6 +218,7 @@ _Generated 2026-08-22_
 - Midmark — Firmware Engineering Intern/Co-op
 - Mistral AI — AI Data Solutions Intern - Data Partnerships
 - Mobius Renewables — Software Engineer Intern
+- Moog — Computer Science Intern - Information Technology
 - Moog — Product Engineering Intern
 - National Laboratory of the Rockies — Graduate Intern - Transportation Systems Analysis
 - National Laboratory of the Rockies — Software and Data Infrastructure Intern
