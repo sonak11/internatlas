@@ -310,6 +310,7 @@ _Generated 2026-08-22_
 - RTX — Software Engineer Intern - Summer 2027
 - RTX — Software Engineer Intern - Summer 2027
 - RTX — Software Engineer Intern - Summer 2027
+- RTX — Software Engineer Intern - Summer 2027
 - RTX — Software Engineering Intern - Summer 2027
 - RTX — Systems Engineering Intern
 - RTX — Validation Engineer Intern - Product Safety - Certification & Validation
@@ -354,6 +355,7 @@ _Generated 2026-08-22_
 - TMX Group — Analyst Student Intern - Market Insights
 - Together AI — Research Intern - Model Shaping
 - Together AI — Systems Research Engineer Intern - GPU Programming
+- Toshiba Global Commerce — AI Software Engineer Intern
 - Toshiba Global Commerce — Hardware Engineer Intern
 - Toshiba Global Commerce — Product & Business Analytics Intern
 - Trillium — Software Engineer Intern - Summer 2027
