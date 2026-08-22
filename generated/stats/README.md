@@ -106,7 +106,7 @@ _Generated 2026-08-22_
 - Cadence Design Systems — Software Engineer Intern
 - Cadence Design Systems — SSG Design Engineering Intern
 - CALSTART — Web Development Intern
-- Canva — PhD Research Scientist Intern - Reinforcement Learning - Images
+- Canva — PhD Research Scientist Intern - Reinforcement Learning for Diffusion Modelling
 - Capital One — Cyber Security Intern
 - Capital One — Software Engineer Intern
 - Capital One — Technology Intern
@@ -165,17 +165,6 @@ _Generated 2026-08-22_
 - Global Partners — Advanced Analytics Intern
 - GoDaddy — Software Development Engineer Intern
 - Golden Pet Brands — Data Analytics Intern
-- Goldman Sachs — AWM Product Management Analyst Intern
-- Goldman Sachs — Quantitative Strategist Associate Intern - Asset and Wealth Management
-- Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
-- Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
-- Goldman Sachs — Summer Analyst Intern - Americas - AWM Product Management
-- Goldman Sachs — Summer Analyst Intern - FICC and Equities - Sales and Trading
-- Goldman Sachs — Summer Analyst Intern - FICC & Equities - Sales & Trading
-- Goldman Sachs — Summer Analyst Intern - Wealth Management - Product Management and Design
-- Goldman Sachs — Summer Associate Intern - Multiple Teams
 - Group 1001 — Quantitative Analysis Intern
 - Gulf Management — Software Engineer & Business Systems Intern
 - Gulfstream — Computer Science Intern - Advanced Structures and Materials
