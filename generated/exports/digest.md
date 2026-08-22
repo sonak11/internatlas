@@ -1,6 +1,6 @@
 # 📬 InternAtlas Weekly Digest — 2026-08-22
 
-## 🆕 New this week (400)
+## 🆕 New this week (404)
 
 - **AMD** — [Data Analyst Intern/Co-op](https://careers.amd.com/jobs/91183?icims=1) · software-engineering · —
 - **AMD** — [Data Analyst Intern/Co-op](https://careers.amd.com/jobs/91175?icims=1) · software-engineering · —
@@ -131,6 +131,8 @@
 - **Dmg Media** — [Editorial Innovation Intern - Innovation Team](https://www.dmgmedia.co.uk/careers/jobs/id/8130320?gh_jid=8130320) · software-engineering · —
 - **Draper** — [Embedded Quality & Fielded Systems Intern](https://draper.wd5.myworkdayjobs.com/en-US/draper_careers/job/Cambridge-MA/Embedded-Quality---Fielded-Systems-Intern_JR002718) · embedded · —
 - **E-Space** — [Embedded Software Engineer Intern](https://jobs.lever.co/espace/1e189295-a315-414d-8c0b-686f204e3cb3/apply) · embedded · —
+- **Ecolab** — [Digital & AI Technology Intern](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/USA---Minnesota---Saint-Paul/Digital---AI-Technology-Intern_R00303249) · ai · —
+- **Elevate Semiconductor** — [Product Engineering Intern](https://apply.workable.com/elevate-semiconductor/j/F234DECA3C/apply) · software-engineering · —
 - **Encephalo Investments** — [Software Developer Intern](https://jobs.smartrecruiters.com/EncephaloInvestments/743999734497349) · software-engineering · —
 - **Epia Neuro** — [Hardware Engineer Intern](https://jobs.ashbyhq.com/epianeuro/62d296e8-16c4-4403-8af5-629e97f7f7fe/application?embed=true) · hardware · —
 - **Epic Games** — [Engine Programmer Intern - Unreal Engine](https://epicgames.com/careers/jobs/6147283004?gh_jid=6147283004) · software-engineering · —
@@ -227,7 +229,9 @@
 - **Marsh** — [Government Health Consulting Informatics Intern - College Program](https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Phoenix---E-Camelback/Government-Health-Consulting-Informatics-Summer-Intern---College-Program-2027_R_362073) · software-engineering · —
 - **Micron Technology** — [DRAM Design Engineer Intern](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---DRAM-Design-Engineer_JR108458) · design · —
 - **Micron Technology** — [SoC RTL Design Engineer Intern - HBM](https://micron.wd1.myworkdayjobs.com/External/job/Folsom-CA/Intern---HBM-SoC-RTL-Design-Engineer_JR109290) · design · —
+- **Micron Technology** — [Yield Enhancement Intern - Data Analysis](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Yield-Enhancement--Data-Analysis_JR109076) · software-engineering · —
 - **Microsoft** — [AI Software Engineer Intern](https://apply.careers.microsoft.com/careers/job/1970393556962891) · ai · —
+- **Microsoft** — [AI Software Engineer Intern - Edge](https://apply.careers.microsoft.com/careers/job/1970393556979054) · ai · —
 - **Millennium** — [Applied AI Engineer Intern](https://career.mlp.com/careers/job/755957778821) · ai · —
 - **Millennium** — [Applied AI Engineer Intern](https://career.mlp.com/careers/job/755957778848) · ai · —
 - **Millennium** — [Quantitative Developer Intern](https://career.mlp.com/careers/job/755957819661) · quant · —

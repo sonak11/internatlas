@@ -23,8 +23,8 @@ _Generated 2026-08-22_
 | Susquehanna International Group (SIG) | 22 |
 | Zipline | 19 |
 | Jane Street | 17 |
+| Microsoft | 17 |
 | Palantir Technologies | 17 |
-| Microsoft | 16 |
 | Rivian and Volkswagen Group Technologies | 16 |
 | Capital One | 15 |
 | Meta | 15 |
@@ -33,8 +33,8 @@ _Generated 2026-08-22_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 1198 | `█████████████` |
-| ai | 212 | `██` |
+| software-engineering | 1200 | `█████████████` |
+| ai | 214 | `██` |
 | quant | 196 | `██` |
 | machine-learning | 141 | `██` |
 | research | 107 | `█` |
@@ -49,6 +49,8 @@ _Generated 2026-08-22_
 
 ## Newest listings
 
+- 2026-08-22 — **Elevate Semiconductor**: [Product Engineering Intern](https://apply.workable.com/elevate-semiconductor/j/F234DECA3C/apply)
+- 2026-08-22 — **Microsoft**: [AI Software Engineer Intern - Edge](https://apply.careers.microsoft.com/careers/job/1970393556979054)
 - 2026-08-22 — **TikTok**: [AI Product Manager Intern - Product Social](https://lifeattiktok.com/search/7675616554318596357)
 - 2026-08-22 — **TikTok**: [Product Manager Intern - Content and Service Ads](https://lifeattiktok.com/search/7676283436713593093)
 - 2026-08-22 — **TikTok**: [Software Engineer Intern](https://lifeattiktok.com/search/7676276048527214901)
@@ -67,8 +69,6 @@ _Generated 2026-08-22_
 - 2026-08-21 — **AMD**: [Hardware Design Verification Engineering Intern/Co-op](https://careers.amd.com/jobs/90820?icims=1)
 - 2026-08-21 — **AMD**: [Hardware Engineer Intern/Co-op](https://careers.amd.com/jobs/90894?icims=1)
 - 2026-08-21 — **AMD**: [Hardware Engineer Intern/Co-op - Hardware Engineering](https://careers.amd.com/jobs/91182?icims=1)
-- 2026-08-21 — **AMD**: [Hardware Engineering Intern/Co-op - Undergrad](https://careers.amd.com/jobs/91173?icims=1)
-- 2026-08-21 — **AMD**: [Machine Learning Intern/Co-op - Artificial Intelligence](https://careers.amd.com/jobs/91181?icims=1)
 
 ## Recently closed
 

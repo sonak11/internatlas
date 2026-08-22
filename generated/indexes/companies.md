@@ -212,11 +212,13 @@
 | [E-Space](../companies/e-space.md) | 1/1 | embedded |
 | [ETHGlobal](../companies/ethglobal.md) | 1/1 | software-engineering |
 | [East Penn Manufacturing Company](../companies/east-penn-manufacturing-company.md) | 2/2 | data-engineering, software-engineering |
+| [Ecolab](../companies/ecolab.md) | 1/1 | ai |
 | [EdgeTrace](../companies/edgetrace.md) | 1/1 | ai |
 | [Egra](../companies/egra.md) | 1/1 | ai |
 | [Eight Sleep](../companies/eight-sleep.md) | 0/1 | software-engineering |
 | [Eko Health](../companies/eko-health.md) | 0/1 | software-engineering |
 | [Electronic Arts](../companies/electronic-arts.md) | 1/1 | software-engineering |
+| [Elevate Semiconductor](../companies/elevate-semiconductor.md) | 1/1 | software-engineering |
 | [Encephalo Investments](../companies/encephalo-investments.md) | 1/1 | software-engineering |
 | [Ensemble Health Partners](../companies/ensemble-health-partners.md) | 2/2 | data-science, software-engineering |
 | [Entergy](../companies/entergy.md) | 0/1 | software-engineering |
@@ -411,8 +413,8 @@
 | [Meta](../companies/meta.md) | 11/15 | ai, machine-learning, research |
 | [Metropolitan Transportation Authority](../companies/metropolitan-transportation-authority.md) | 0/2 | software-engineering |
 | [Microchip Technology](../companies/microchip-technology.md) | 2/5 | embedded, software-engineering |
-| [Micron Technology](../companies/micron-technology.md) | 6/8 | design, software-engineering |
-| [Microsoft](../companies/microsoft.md) | 8/16 | ai, cloud, machine-learning, product, security, software-engineering |
+| [Micron Technology](../companies/micron-technology.md) | 7/9 | design, software-engineering |
+| [Microsoft](../companies/microsoft.md) | 9/17 | ai, cloud, machine-learning, product, security, software-engineering |
 | [Midmark](../companies/midmark.md) | 0/1 | embedded |
 | [Millennium](../companies/millennium.md) | 3/3 | ai, quant |
 | [Mindsmith](../companies/mindsmith.md) | 1/1 | software-engineering |

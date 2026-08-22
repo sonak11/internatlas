@@ -1,6 +1,6 @@
 {
   "generated": "2026-08-22",
-  "count": 2236,
+  "count": 2240,
   "internships": [
     {
       "schema_version": "1.0",
@@ -32918,6 +32918,68 @@
     },
     {
       "schema_version": "1.0",
+      "id": "ecolab-digital-ai-technology-intern-2027",
+      "company": {
+        "name": "Ecolab",
+        "slug": "ecolab"
+      },
+      "role": "Digital & AI Technology Intern",
+      "category": "ai",
+      "apply_url": "https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/USA---Minnesota---Saint-Paul/Digital---AI-Technology-Intern_R00303249",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Naperville",
+          "state": "IL",
+          "country": "USA"
+        },
+        {
+          "city": "Eagan",
+          "state": "MN",
+          "country": "USA"
+        },
+        {
+          "city": "St Paul",
+          "state": "MN",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-21",
+        "discovered": "2026-08-22",
+        "last_verified": "2026-08-22"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "edgetrace-ai-full-stack-engineering-intern-2027",
       "company": {
         "name": "EdgeTrace",
@@ -33167,6 +33229,60 @@
       "tags": [
         "auto-ingested",
         "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "elevate-semiconductor-product-engineering-intern-2026",
+      "company": {
+        "name": "Elevate Semiconductor",
+        "slug": "elevate-semiconductor"
+      },
+      "role": "Product Engineering Intern",
+      "category": "software-engineering",
+      "apply_url": "https://apply.workable.com/elevate-semiconductor/j/F234DECA3C/apply",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Diego",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-22",
+        "discovered": "2026-08-22",
+        "last_verified": "2026-08-22"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
       ]
     },
     {
@@ -60813,6 +60929,61 @@
     },
     {
       "schema_version": "1.0",
+      "id": "micron-technology-yield-enhancement-intern-data-analysis-2026",
+      "company": {
+        "name": "Micron Technology",
+        "slug": "micron-technology"
+      },
+      "role": "Yield Enhancement Intern - Data Analysis",
+      "category": "software-engineering",
+      "apply_url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Yield-Enhancement--Data-Analysis_JR109076",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Boise",
+          "state": "ID",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters",
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-21",
+        "discovered": "2026-08-22",
+        "last_verified": "2026-08-22"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "microsoft-ai-software-engineer-intern-2026",
       "company": {
         "name": "Microsoft",
@@ -60862,6 +61033,65 @@
       "dates": {
         "posted": "2026-08-19",
         "discovered": "2026-08-19",
+        "last_verified": "2026-08-22"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "microsoft-ai-software-engineer-intern-edge-2026",
+      "company": {
+        "name": "Microsoft",
+        "slug": "microsoft"
+      },
+      "role": "AI Software Engineer Intern - Edge",
+      "category": "ai",
+      "apply_url": "https://apply.careers.microsoft.com/careers/job/1970393556979054",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Redmond",
+          "state": "WA",
+          "country": "USA"
+        },
+        {
+          "city": "Mountain View",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-22",
+        "discovered": "2026-08-22",
         "last_verified": "2026-08-22"
       },
       "status": "open",
