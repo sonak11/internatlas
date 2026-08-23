@@ -229,7 +229,6 @@ _Generated 2026-08-23_
 - Nokia — Hardware Developer Engineer Co-op/Intern
 - Notion — Governance, Risk, and Compliance Intern (Fall 2026)
 - NVIDIA — Computer Architecture Intern
-- NVIDIA — Developer and Performance Technology Intern
 - Ontario Teachers' Pension Plan — Finance Intern - Risk Analytics
 - Ontario Teachers' Pension Plan — Risk Intern - Total Fund Risk
 - Otter Products — Artificial Intelligence Intern
@@ -275,7 +274,6 @@ _Generated 2026-08-23_
 - RTX — Methods Intern - Hot Section Engineering
 - RTX — Modeling, Simulation & Analysis Intern
 - RTX — Radar Digital Products Engineering Intern
-- RTX — Software Development Intern
 - RTX — Software Engineer Intern
 - RTX — Software Engineer Intern
 - RTX — Software Engineer Intern
@@ -288,6 +286,7 @@ _Generated 2026-08-23_
 - RTX — Software Engineer Intern
 - RTX — Software Engineer Intern
 - RTX — Software Engineer Intern - Spring 2027
+- RTX — Software Engineer Intern - Summer 2027
 - RTX — Software Engineer Intern - Summer 2027
 - RTX — Software Engineer Intern - Summer 2027
 - RTX — Software Engineer Intern - Summer 2027
