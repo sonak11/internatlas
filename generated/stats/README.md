@@ -106,6 +106,7 @@ _Generated 2026-08-23_
 - Cadence Design Systems — Software Engineer Intern
 - Cadence Design Systems — SSG Design Engineering Intern
 - CALSTART — Web Development Intern
+- Canva — PhD Research Scientist Intern - Edge AI
 - Canva — PhD Research Scientist Intern - Generative AI
 - Canva — PhD Research Scientist Intern - Reinforcement Learning - Images
 - Capital One — Cyber Security Intern
