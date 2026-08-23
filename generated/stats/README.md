@@ -298,7 +298,6 @@ _Generated 2026-08-23_
 - RTX — Software Engineer Intern - Summer 2027
 - RTX — Software Engineer Intern - Summer 2027
 - RTX — Software Engineer Intern - Summer 2027
-- RTX — Software Engineer Intern - Summer 2027
 - RTX — Software Engineering Intern - Summer 2027
 - RTX — Systems Engineering Intern
 - RTX — Validation Engineer Intern - Product Safety - Certification & Validation
@@ -312,6 +311,7 @@ _Generated 2026-08-23_
 - Snorkel AI — AI Researcher Intern
 - Sony Music Entertainment — Insight & Analytics Intern
 - Sony Pictures Entertainment — Insights Intern - Multiple Teams
+- SOTI — Data Scientist Intern
 - SpaceX — Recruiting Coordinator, Intern Program- Temporary
 - Stand Insurance — Fire Science Engineer Intern
 - State of Nebraska — IT Construction Systems Intern

@@ -531,7 +531,7 @@
 | [RLI](../companies/rli.md) | 0/1 | product |
 | [ROCKWOOL Group](../companies/rockwool-group.md) | 0/2 | product, software-engineering |
 | [RRS Group](../companies/rrs-group.md) | 2/2 | software-engineering |
-| [RTX](../companies/rtx.md) | 20/58 | design, machine-learning, software-engineering |
+| [RTX](../companies/rtx.md) | 21/58 | design, machine-learning, software-engineering |
 | [Radix Trading](../companies/radix-trading.md) | 1/1 | quant |
 | [Rainmaker](../companies/rainmaker.md) | 0/1 | software-engineering |
 | [Rakuten International](../companies/rakuten-international.md) | 0/1 | software-engineering |
@@ -568,7 +568,7 @@
 | [Royal Bank of Canada](../companies/royal-bank-of-canada.md) | 8/10 | ai, data-science, software-engineering |
 | [Ryan Companies](../companies/ryan-companies.md) | 1/1 | software-engineering |
 | [SK Hynix Memory Solution](../companies/sk-hynix-memory-solution.md) | 1/1 | software-engineering |
-| [SOTI](../companies/soti.md) | 2/3 | data-science, product |
+| [SOTI](../companies/soti.md) | 1/3 | data-science, product |
 | [SPREEAI](../companies/spreeai.md) | 1/1 | ai |
 | [SRI International](../companies/sri-international.md) | 0/1 | software-engineering |
 | [SS&C](../companies/ss-c.md) | 0/1 | ai |
