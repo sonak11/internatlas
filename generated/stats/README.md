@@ -35,7 +35,7 @@ _Generated 2026-08-23_
 |---|---|---|
 | software-engineering | 1209 | `█████████████` |
 | ai | 215 | `██` |
-| quant | 196 | `██` |
+| quant | 195 | `██` |
 | machine-learning | 141 | `██` |
 | research | 107 | `█` |
 | hardware | 98 | `█` |
@@ -164,12 +164,8 @@ _Generated 2026-08-23_
 - Global Partners — Advanced Analytics Intern
 - GoDaddy — Software Development Engineer Intern
 - Golden Pet Brands — Data Analytics Intern
-- Goldman Sachs — Quantitative Strategist Associate Intern - Asset and Wealth Management
-- Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
 - Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
 - Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
-- Goldman Sachs — Summer Analyst Intern - Americas - AWM Product Management
 - Goldman Sachs — Summer Analyst Intern - FICC and Equities - Sales and Trading
 - Goldman Sachs — Summer Analyst Intern - FICC & Equities - Sales & Trading
 - Goldman Sachs — Summer Analyst Intern - Wealth Management - Product Management and Design
