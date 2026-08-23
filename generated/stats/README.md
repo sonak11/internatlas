@@ -381,3 +381,4 @@ _Generated 2026-08-23_
 - Zipline — Enterprise Systems Software Engineer Intern
 - Zipline — Mechatronics Perception Intern - Fall 2026
 - Zipline — Perception Intern
+- Zuckerman Investment Group — Investment Analyst Intern - MBA

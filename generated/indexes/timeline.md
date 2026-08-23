@@ -1594,5 +1594,4 @@
 - Zipline — [Software Engineer Intern - Spring 2027](https://www.zipline.com/open-roles?gh_jid=7907191003)
 - Zipline — [Software Engineer Intern - Summer 2027](https://www.zipline.com/open-roles?gh_jid=7929236003)
 - Zoomifier — [Software Development Intern](https://jobs.smartrecruiters.com/CustomShow/75886593)
-- Zuckerman Investment Group — [Investment Analyst Intern - MBA](https://ats.rippling.com/zuckerman-investment-group/jobs/923b73b8-91a9-430c-9f84-b87014b8bbb3)
 - Zuru — [Data Analyst Intern](https://jobs.ashbyhq.com/zuru/750dea66-6f5a-4622-80d6-b6289954d3d0/application?embed=true)

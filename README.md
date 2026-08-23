@@ -8,7 +8,7 @@
 
 No dead links, no generic careers pages. Just current openings, newest first, with the date each one was posted.
 
-![summer 2027](https://img.shields.io/badge/summer%202027-918-blue?style=for-the-badge) ![open now](https://img.shields.io/badge/open%20now-760-brightgreen?style=for-the-badge) ![companies](https://img.shields.io/badge/companies-744-purple?style=for-the-badge) ![visa sponsors](https://img.shields.io/badge/visa%20sponsors-29-orange?style=for-the-badge) ![remote roles](https://img.shields.io/badge/remote%20roles-48-teal?style=for-the-badge) ![sync](https://img.shields.io/badge/sync-hourly-success?style=for-the-badge) ![updated](https://img.shields.io/badge/updated-2026--08--23%209:36%20AM%20EDT-lightgrey?style=for-the-badge)
+![summer 2027](https://img.shields.io/badge/summer%202027-918-blue?style=for-the-badge) ![open now](https://img.shields.io/badge/open%20now-760-brightgreen?style=for-the-badge) ![companies](https://img.shields.io/badge/companies-744-purple?style=for-the-badge) ![visa sponsors](https://img.shields.io/badge/visa%20sponsors-29-orange?style=for-the-badge) ![remote roles](https://img.shields.io/badge/remote%20roles-48-teal?style=for-the-badge) ![sync](https://img.shields.io/badge/sync-hourly-success?style=for-the-badge) ![updated](https://img.shields.io/badge/updated-2026--08--23%2010:29%20AM%20EDT-lightgrey?style=for-the-badge)
 
 [**📋 Browse listings**](#-summer-2027-internships) · [**🗓 Other terms**](#-other-open-terms) · [**➕ Add one**](CONTRIBUTING.md) · [**🔗 Sources**](SOURCES.md)
 
@@ -1020,7 +1020,7 @@ No dead links, no generic careers pages. Just current openings, newest first, wi
 <details>
 <summary><b>Show other open terms (1334)</b></summary>
 
-### 🍂 Fall 2026 (1133 · 646 open)
+### 🍂 Fall 2026 (1133 · 645 open)
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
@@ -1112,7 +1112,6 @@ No dead links, no generic careers pages. Just current openings, newest first, wi
 | [University of St. Thomas](generated/companies/university-of-st-thomas.md) | [Digital Innovation & Learning Technology Intern](https://studentemployment-stthomas.icims.com/jobs/9527/job?mobile=true&needsRedirect=false) | St Paul, MN | Onsite | 2026-08-18 | Rolling | 🟢 Open | ❔ |
 | [University of St. Thomas](generated/companies/university-of-st-thomas.md) | [Semiconductor Test AI Intern - Minnesota Semiconductor AI Hub](https://studentemployment-stthomas.icims.com/jobs/9529/job?mobile=true&needsRedirect=false) | St Paul, MN | Onsite | 2026-08-18 | Rolling | 🟢 Open | ❔ |
 | [Zoomifier](generated/companies/zoomifier.md) | [Software Development Intern](https://jobs.smartrecruiters.com/CustomShow/75886593) | NYC | Onsite | 2026-08-18 | Rolling | 🟢 Open | ❔ |
-| [Zuckerman Investment Group](generated/companies/zuckerman-investment-group.md) | [Investment Analyst Intern - MBA](https://ats.rippling.com/zuckerman-investment-group/jobs/923b73b8-91a9-430c-9f84-b87014b8bbb3) | Chicago, IL | Onsite | 2026-08-18 | Rolling | 🟢 Open | ❔ |
 | [Artisan Partners](generated/companies/artisan-partners.md) | [Data Engineer Intern - Platform & Product](https://www.artisanpartners.com/careers/career-opportunities.html?gh_jid=8132641) | Milwaukee, WI | Onsite | 2026-08-17 | Rolling | 🟢 Open | ❔ |
 | [DiDi Global](generated/companies/didi-global.md) | [Motion Planning Engineer Intern - PhD](https://job-boards.greenhouse.io/didi/jobs/8131863) | San Jose, CA | Onsite | 2026-08-17 | Rolling | 🟢 Open | ❔ |
 | [General Motors](generated/companies/general-motors.md) | [Battery and Sustainability Intern - Battery Research and Development](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Fall-2026-PhD-Battery---Sustainability-Intern---Battery-Research-and-Development_JR-202618049) | Warren, MI | Onsite | 2026-08-17 | Rolling | 🟢 Open | ❔ |
@@ -1687,6 +1686,7 @@ No dead links, no generic careers pages. Just current openings, newest first, wi
 | [RTX](generated/companies/rtx.md) | [Digital Technology Intern](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Digital-Technology-Intern----Hybrid-_01867766) | East Hartford, CT | Onsite | 2026-08-18 | Rolling | 🔴 Closed | ❔ |
 | [Snorkel AI](generated/companies/snorkel-ai.md) | [AI Researcher Intern](https://job-boards.greenhouse.io/snorkelai/jobs/6146378004) | NYC | Onsite | 2026-08-18 | Rolling | 🔴 Closed | ❔ |
 | [Toshiba Global Commerce](generated/companies/toshiba-global-commerce.md) | [Hardware Engineer Intern](https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5214748007) | Bentonville, AR | Onsite | 2026-08-18 | Rolling | 🔴 Closed | ❔ |
+| [Zuckerman Investment Group](generated/companies/zuckerman-investment-group.md) | [Investment Analyst Intern - MBA](https://ats.rippling.com/zuckerman-investment-group/jobs/923b73b8-91a9-430c-9f84-b87014b8bbb3) | Chicago, IL | Onsite | 2026-08-18 | Rolling | 🔴 Closed | ❔ |
 | [Centific](generated/companies/centific.md) | [Research Intern - Healthcare AI](https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Redmond-Washington/Research-Intern_JR108155-1) | Palo Alto, CA +1 | Onsite | 2026-08-17 | Rolling | 🔴 Closed | ❔ |
 | [Centific](generated/companies/centific.md) | [Technical Intern - Masters or PhD](https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Remote-Work-USA/Technical-Intern--Masters-or-PhD-_JR108085-1) | Remote | Remote | 2026-08-17 | Rolling | 🔴 Closed | ❔ |
 | [Dmg Media](generated/companies/dmg-media.md) | [Editorial Innovation Intern - Innovation Team](https://www.dmgmedia.co.uk/careers/jobs/id/8130320?gh_jid=8130320) | London | Onsite | 2026-08-17 | Rolling | 🔴 Closed | ❔ |

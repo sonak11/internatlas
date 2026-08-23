@@ -737,7 +737,7 @@
 | [Zello](../companies/zello.md) | 1/1 | software-engineering |
 | [Zipline](../companies/zipline.md) | 12/19 | embedded, hardware, software-engineering |
 | [Zoomifier](../companies/zoomifier.md) | 1/1 | software-engineering |
-| [Zuckerman Investment Group](../companies/zuckerman-investment-group.md) | 1/1 | software-engineering |
+| [Zuckerman Investment Group](../companies/zuckerman-investment-group.md) | 0/1 | software-engineering |
 | [Zurich Insurance](../companies/zurich-insurance.md) | 0/1 | ai |
 | [Zuru](../companies/zuru.md) | 1/1 | software-engineering |
 | [fab2](../companies/fab2.md) | 1/1 | software-engineering |

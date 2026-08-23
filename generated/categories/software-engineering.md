@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 💻 Software Engineering Internships
 
-**1209** tracked · **804** open now
+**1209** tracked · **803** open now
 
 ## Current openings
 
@@ -810,7 +810,6 @@
 | [Zipline](generated/companies/zipline.md) | [Software Engineer Intern - Spring 2027](https://www.zipline.com/open-roles?gh_jid=7907191003) | South SF | Onsite | 2026-08-20 | Rolling | 🟢 Open | ❔ |
 | [Zipline](generated/companies/zipline.md) | [Software Engineer Intern - Summer 2027](https://www.zipline.com/open-roles?gh_jid=7929236003) | South SF | Onsite | 2026-08-21 | Rolling | 🟢 Open | ❔ |
 | [Zoomifier](generated/companies/zoomifier.md) | [Software Development Intern](https://jobs.smartrecruiters.com/CustomShow/75886593) | NYC | Onsite | 2026-08-18 | Rolling | 🟢 Open | ❔ |
-| [Zuckerman Investment Group](generated/companies/zuckerman-investment-group.md) | [Investment Analyst Intern - MBA](https://ats.rippling.com/zuckerman-investment-group/jobs/923b73b8-91a9-430c-9f84-b87014b8bbb3) | Chicago, IL | Onsite | 2026-08-18 | Rolling | 🟢 Open | ❔ |
 | [Zuru](generated/companies/zuru.md) | [Data Analyst Intern](https://jobs.ashbyhq.com/zuru/750dea66-6f5a-4622-80d6-b6289954d3d0/application?embed=true) | LA | Onsite | 2026-07-21 | Rolling | 🟢 Open | ❔ |
 | [ABB](generated/companies/abb.md) | [Application Engineering Intern](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Alpharetta-Georgia-United-States-of-America/Application-Engineering-Intern---Fall-2026_JR00038999) | Alpharetta, GA +1 | Onsite | 2026-07-10 | Rolling | 🔴 Closed | ❌ |
 | [Accenture](generated/companies/accenture.md) | [Software Engineer Intern](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Belen/Software-Engineer-Intern_R00345312) | Albuquerque, NM | Onsite | 2026-07-20 | Rolling | 🔴 Closed | ❔ |
@@ -1217,6 +1216,7 @@
 | [Zipline](generated/companies/zipline.md) | [Mechatronics Perception Intern - Fall 2026](https://www.zipline.com/open-roles?gh_jid=7763697003) | South SF | Onsite | 2026-06-05 | Rolling | 🔴 Closed | ❔ |
 | [Zipline](generated/companies/zipline.md) | [Perception Intern](https://www.zipline.com/careers?gh_jid=7761650003) | Dallas, TX +1 | Onsite | 2026-06-03 | Rolling | 🔴 Closed | ❔ |
 | [Zipline](generated/companies/zipline.md) | [Software Engineer Intern](https://www.zipline.com/open-roles?gh_jid=7787509003) | San Bruno, CA | Onsite | 2026-06-27 | Rolling | 🔴 Closed | ❔ |
+| [Zuckerman Investment Group](generated/companies/zuckerman-investment-group.md) | [Investment Analyst Intern - MBA](https://ats.rippling.com/zuckerman-investment-group/jobs/923b73b8-91a9-430c-9f84-b87014b8bbb3) | Chicago, IL | Onsite | 2026-08-18 | Rolling | 🔴 Closed | ❔ |
 
 ## Hiring companies
 
@@ -1635,7 +1635,6 @@
 - Winland Foods (1)
 - Zello (1)
 - Zoomifier (1)
-- Zuckerman Investment Group (1)
 - Zuru (1)
 - ABB (1)
 - ACLU Kentucky (1)
@@ -1765,6 +1764,7 @@
 - Willkie Farr & Gallagher (1)
 - XTX Markets (1)
 - ZGF Architects (1)
+- Zuckerman Investment Group (1)
 
 ## Tips
 
