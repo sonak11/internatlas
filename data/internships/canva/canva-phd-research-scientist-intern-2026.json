@@ -7,13 +7,14 @@
   },
   "role": "PhD Research Scientist Intern",
   "category": "research",
-  "apply_url": "https://jobs.smartrecruiters.com/Canva/6000000001291655",
+  "apply_url": "https://jobs.smartrecruiters.com/Canva/6000000001291655-phd-research-scientist-intern",
   "season": "fall",
   "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "SF",
+      "city": "San Francisco",
+      "state": "CA",
       "country": "USA"
     }
   ],
@@ -43,11 +44,11 @@
   "dates": {
     "posted": "2026-08-06",
     "discovered": "2026-08-06",
-    "last_verified": "2026-08-22"
+    "last_verified": "2026-08-23"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }

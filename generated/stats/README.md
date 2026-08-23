@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 📊 Statistics
 
-_Generated 2026-08-22_
+_Generated 2026-08-23_
 
 ## Top hiring companies
 
@@ -37,7 +37,7 @@ _Generated 2026-08-22_
 | ai | 215 | `██` |
 | quant | 196 | `██` |
 | machine-learning | 141 | `██` |
-| research | 108 | `█` |
+| research | 107 | `█` |
 | hardware | 98 | `█` |
 | product | 64 | `█` |
 | embedded | 56 | `█` |
@@ -93,7 +93,6 @@ _Generated 2026-08-22_
 - Astranis — Software Engineer-Backend Intern
 - Bank of Montreal — Card Products Intern Co-op - Customer Solutions
 - Bank of Montreal — Data Scientist Co-op/Internship - Months
-- Bank of Montreal — Database Operations Co-op Intern
 - Bank of Montreal — Investment Intern Co-op - Co-op/Internship
 - Bloxd — Software Engineer Intern
 - Booz Allen — AI RAN Telecommunications Engineer Intern
@@ -106,7 +105,6 @@ _Generated 2026-08-22_
 - Cadence Design Systems — Software Engineer Intern
 - Cadence Design Systems — SSG Design Engineering Intern
 - CALSTART — Web Development Intern
-- Canva — PhD Research Scientist Intern - Generative AI
 - Canva — PhD Research Scientist Intern - Reinforcement Learning - Images
 - Capital One — Cyber Security Intern
 - Capital One — Software Engineer Intern
@@ -148,7 +146,6 @@ _Generated 2026-08-22_
 - Excel Sports Management — Analytics Intern - Analytics
 - Excel Sports Management — Football Coaches Intern
 - Fab2 — Automation Software Engineer Intern
-- Fab2 — Embedded Software Engineer Intern
 - Fab2 — Rust Software Engineer Intern - Chip Design Tools
 - Fab2 — Software Engineer Intern
 - Figure — Special Projects Intern
@@ -168,11 +165,16 @@ _Generated 2026-08-22_
 - GoDaddy — Software Development Engineer Intern
 - Golden Pet Brands — Data Analytics Intern
 - Goldman Sachs — AWM Product Management Analyst Intern
+- Goldman Sachs — Quantitative Strategist Associate Intern - Asset and Wealth Management
 - Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
 - Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
+- Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
 - Goldman Sachs — Summer Analyst Intern - Americas - AWM Product Management
 - Goldman Sachs — Summer Analyst Intern - FICC and Equities - Sales and Trading
+- Goldman Sachs — Summer Analyst Intern - FICC & Equities - Sales & Trading
 - Goldman Sachs — Summer Analyst Intern - Wealth Management - Product Management and Design
+- Goldman Sachs — Summer Associate Intern - Multiple Teams
 - Group 1001 — Quantitative Analysis Intern
 - Gulf Management — Software Engineer & Business Systems Intern
 - Gulfstream — Computer Science Intern - Advanced Structures and Materials
@@ -223,7 +225,6 @@ _Generated 2026-08-22_
 - Microsoft — Software Engineer Intern - Data Platform & Analytics
 - Microsoft — Software Engineer Intern - Gears of War
 - Microsoft — Software Engineer Security & Identity Intern
-- Midmark — Firmware Engineering Intern/Co-op
 - Mistral AI — AI Data Solutions Intern - Data Partnerships
 - Mobius Renewables — Software Engineer Intern
 - Moog — Computer Science Intern - Information Technology
@@ -336,7 +337,6 @@ _Generated 2026-08-22_
 - Tesla — Energy System Optimization Intern - Energy Optimization Software
 - Tesla — Inline Metrology Systems Design/Engineer Intern - Cell Engineering
 - Tesla — Machine Learning Engineer Intern - Machine Learning Engineer - Factory Software
-- Tesla — Operational Automation Software Engineer Intern - Operational Automation Engineer - Residential Energy
 - Tesla — Software Engineer Intern - Software Engineer - AI Hardware Infrastructure
 - Tesla — Software Engineer Intern - Software Engineer - Data Platforms
 - Tesla — Software Engineer Intern - Software Engineer - Energy Engineering
