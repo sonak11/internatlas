@@ -108,7 +108,7 @@ _Generated 2026-08-23_
 - CALSTART — Web Development Intern
 - Canva — PhD Research Scientist Intern - Edge AI
 - Canva — PhD Research Scientist Intern - Generative AI
-- Canva — PhD Research Scientist Intern - Reinforcement Learning - Images
+- Canva — PhD Research Scientist Intern - Reinforcement Learning for Diffusion Modelling
 - Capital One — Cyber Security Intern
 - Capital One — Software Engineer Intern
 - Capital One — Technology Intern
