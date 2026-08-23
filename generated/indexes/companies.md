@@ -377,7 +377,7 @@
 | [Kodak](../companies/kodak.md) | 0/1 | software-engineering |
 | [Kognitos](../companies/kognitos.md) | 1/1 | software-engineering |
 | [Kudu Dynamics](../companies/kudu-dynamics.md) | 0/3 | software-engineering |
-| [L3Harris Technologies](../companies/l3harris-technologies.md) | 8/8 | software-engineering |
+| [L3Harris Technologies](../companies/l3harris-technologies.md) | 6/8 | software-engineering |
 | [LPL Financial Holdings](../companies/lpl-financial-holdings.md) | 5/5 | data-engineering, software-engineering |
 | [Lawrence Livermore National Laboratory (LLNL)](../companies/lawrence-livermore-national-laboratory-llnl.md) | 5/5 | software-engineering |
 | [Leidos](../companies/leidos.md) | 2/3 | software-engineering |

@@ -192,6 +192,8 @@ _Generated 2026-08-23_
 - Keysight Technologies — AI/ML Research Intern
 - Keysight Technologies — Software Engineer Intern - R&D - FPGA
 - Kimley-Horn — Software Developer Intern
+- L3Harris Technologies — Integration/Test Engineering Intern
+- L3Harris Technologies — Software Engineering Intern
 - Louisiana Blue — Data Modeler Intern
 - Louisiana Blue — Healthcare Price and Transparency Data Analyst Intern
 - Louisiana Blue — Operational Reporting & Data Analyst Intern - CW
