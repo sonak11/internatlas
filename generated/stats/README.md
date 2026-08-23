@@ -37,7 +37,7 @@ _Generated 2026-08-23_
 | ai | 215 | `██` |
 | quant | 195 | `██` |
 | machine-learning | 141 | `██` |
-| research | 107 | `█` |
+| research | 108 | `█` |
 | hardware | 98 | `█` |
 | product | 64 | `█` |
 | embedded | 56 | `█` |
@@ -106,6 +106,7 @@ _Generated 2026-08-23_
 - Cadence Design Systems — Software Engineer Intern
 - Cadence Design Systems — SSG Design Engineering Intern
 - CALSTART — Web Development Intern
+- Canva — PhD Research Scientist Intern - Generative AI
 - Canva — PhD Research Scientist Intern - Reinforcement Learning - Images
 - Capital One — Cyber Security Intern
 - Capital One — Software Engineer Intern
@@ -165,12 +166,9 @@ _Generated 2026-08-23_
 - Global Partners — Advanced Analytics Intern
 - GoDaddy — Software Development Engineer Intern
 - Golden Pet Brands — Data Analytics Intern
-- Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
-- Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
-- Goldman Sachs — Summer Analyst Intern - FICC and Equities - Sales and Trading
-- Goldman Sachs — Summer Analyst Intern - FICC & Equities - Sales & Trading
-- Goldman Sachs — Summer Analyst Intern - Wealth Management - Product Management and Design
-- Goldman Sachs — Summer Associate Intern - Multiple Teams
+- Goldman Sachs — AWM Product Management Analyst Intern
+- Goldman Sachs — Quantitative Strategist Associate Intern - Asset and Wealth Management
+- Goldman Sachs — Summer Analyst Intern - Americas - AWM Product Management
 - Group 1001 — Quantitative Analysis Intern
 - Gulf Management — Software Engineer & Business Systems Intern
 - Gulfstream — Computer Science Intern - Advanced Structures and Materials
@@ -185,7 +183,7 @@ _Generated 2026-08-23_
 - IMC Trading — Hardware Machine Learning PhD Research Internship
 - impact.com — Associate Software Engineer Intern
 - Impulse Space — Data Analytics Intern
-- InfiniteQuant — Quantitative Developer Intern - Summer 2027
+- InfiniteQuant — Quantitative Developer Internship - Summer 2027
 - InfiniteQuant — Quantitative Researcher Intern
 - ING — Technology Intern - Innovation
 - Inizio — Data and Analytics Intern
@@ -381,4 +379,3 @@ _Generated 2026-08-23_
 - Zipline — Enterprise Systems Software Engineer Intern
 - Zipline — Mechatronics Perception Intern - Fall 2026
 - Zipline — Perception Intern
-- Zuckerman Investment Group — Investment Analyst Intern - MBA
