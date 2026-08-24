@@ -96,6 +96,7 @@ _Generated 2026-08-24_
 - Booz Allen — AI RAN Telecommunications Engineer Intern
 - Bosch Home Comfort — ADAS Software Engineer Intern
 - BP — Geoscience Intern - Geoscientist
+- ByteDance — Network Software Engineer Intern - Network Switch
 - ByteDance — Research Scientist Intern
 - Cadence Design Systems — Characterization and Support Intern
 - Cadence Design Systems — Characterization and Support Intern
@@ -152,6 +153,7 @@ _Generated 2026-08-24_
 - Fab2 — Software Engineer Intern
 - Figure — Special Projects Intern
 - First American — Software Engineer Intern
+- Flexion Robotics — Research Intern
 - Fluency — Engineer Intern
 - Freeform — Materials Engineer Intern
 - Gartner — Data Analyst Intern
@@ -189,6 +191,7 @@ _Generated 2026-08-24_
 - Inizio — Data and Analytics Intern
 - Integra FEC — Data Analyst Intern
 - Intel — AI Software Engineer Intern
+- International Rescue Committee (IRC) — Data Integration & Reporting Intern
 - Intuit — Software Engineer Intern
 - Intuitive Surgical — Computer Vision Engineer Intern
 - JP Morgan Chase — Data & AI Intern - Analyst
@@ -241,6 +244,7 @@ _Generated 2026-08-24_
 - PEAK6 — Trading Bootcamp Micro-Internship - Summer 2027
 - PEAK6 — Trading Intern
 - Pendulum Intelligence — Product Manager Intern
+- PennState University — Research and Development Engineering Intern
 - Pennsylvania State University — Electronic Materials and Devices Engineer Intern - Electronic Materials and Devices
 - Photon — Software Engineering Intern - AI
 - Picton Mahoney Asset Management — Business Data Analyst Intern
@@ -315,6 +319,7 @@ _Generated 2026-08-24_
 - Signify — Product Management Intern
 - Smiths Detection Group — Commercial Intern - Commercial Tools & Business Intelligence
 - Snorkel AI — AI Researcher Intern
+- Sony Music Entertainment — Data Analytics Intern - A&R Research
 - Sony Music Entertainment — Insight & Analytics Intern
 - Sony Pictures Entertainment — Insights Intern - Multiple Teams
 - SpaceX — Recruiting Coordinator, Intern Program- Temporary
@@ -342,7 +347,6 @@ _Generated 2026-08-24_
 - Tesla — Thermal Controls Engineer Intern - Thermal Controls Engineer - Vehicle Controls
 - Texas Permanent School Fund Corporation — Equity Capital Markets Intern
 - The Home Depot — Co-op Intern
-- Thomson Reuters — Applied Research Intern - NLP/ML/GenAI
 - TMEIC Corporation Americas — Engineer Intern - Spring 2027 - Eis
 - TMX Group — Analyst Student Intern - Market Insights
 - Together AI — Research Intern - Model Shaping
