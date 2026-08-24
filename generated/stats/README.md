@@ -17,8 +17,8 @@ _Generated 2026-08-24_
 | American Express | 30 |
 | NVIDIA | 30 |
 | AMD | 27 |
+| IMC Trading | 25 |
 | SpaceX | 25 |
-| IMC Trading | 23 |
 | Neuralink | 22 |
 | Susquehanna International Group (SIG) | 22 |
 | Zipline | 19 |
@@ -33,15 +33,15 @@ _Generated 2026-08-24_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 1243 | `█████████████` |
-| ai | 215 | `██` |
-| quant | 199 | `██` |
-| machine-learning | 141 | `██` |
+| software-engineering | 1261 | `██████████████` |
+| ai | 216 | `██` |
+| quant | 201 | `██` |
+| machine-learning | 143 | `██` |
 | research | 109 | `█` |
 | hardware | 101 | `█` |
-| product | 65 | `█` |
+| product | 67 | `█` |
 | embedded | 56 | `█` |
-| data-science | 48 | `█` |
+| data-science | 49 | `█` |
 | design | 44 | `█` |
 | cloud | 42 | `█` |
 | data-engineering | 25 | `█` |
@@ -51,6 +51,8 @@ _Generated 2026-08-24_
 
 - 2026-08-24 — **Analog Devices**: [Digital Design Engineer Intern](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-NC-Durham/Digital-Design-Engineer-Intern_R265298)
 - 2026-08-24 — **Analog Devices**: [Product Engineer Intern - Product Development](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Product-Engineer--Product-Development--Intern_R265302)
+- 2026-08-24 — **Apple**: [GPU Intern](https://jobs.apple.com/en-us/details/200679652)
+- 2026-08-24 — **Apple**: [GPU Intern](https://jobs.apple.com/en-us/details/200679650)
 - 2026-08-24 — **BNY**: [Data Science Intern - Engineering](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81241)
 - 2026-08-24 — **BNY**: [Data Science Intern - Engineering](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81239)
 - 2026-08-24 — **BNY**: [Data Science Intern - Engineering](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81240)
@@ -59,16 +61,14 @@ _Generated 2026-08-24_
 - 2026-08-24 — **BNY**: [Engineering Intern - Data Science](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81322)
 - 2026-08-24 — **BNY**: [Engineering Intern - Developer](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81318)
 - 2026-08-24 — **BNY**: [Engineering Intern - Engineering - Developer](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81254)
+- 2026-08-24 — **BNY**: [Product Management Intern - Product Management](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81345)
 - 2026-08-24 — **BNY**: [Software Developer Intern - Engineering](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81253)
 - 2026-08-24 — **BNY**: [Software Engineer Intern - Engineering - Developer](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81251)
+- 2026-08-24 — **BNY**: [Trading Intern - Trading](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81350)
+- 2026-08-24 — **Booz Allen**: [Software Engineer Intern](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Bremerton-WA/Software-Engineer---Intern_R0247218)
+- 2026-08-24 — **Canadian Solar**: [Data Analysis Intern - Quality](https://canadiansolar.wd5.myworkdayjobs.com/CanadianSolar/job/Mesquite-TX/Data-Analyst--Quality-Intern_10001414)
 - 2026-08-24 — **Cigna Group**: [Healthcare Policy & Regulated Markets Intern](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/St-Louis-MO/Healthcare-Policy---Regulated-Markets-Intern_26006403)
-- 2026-08-24 — **Freddie Mac**: [Quantitative Risk Management Intern](https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Risk-Management-Graduate-Intern---Quantitative-Summer-2027_JR17553)
-- 2026-08-24 — **Google**: [Research Intern - PhD](https://www.google.com/about/careers/applications/jobs/results/86701057991680710)
-- 2026-08-24 — **Google**: [Software Developer Intern](https://www.google.com/about/careers/applications/jobs/results/112518690523488966)
-- 2026-08-24 — **Gulfstream**: [Software Engineer Intern - IEF](https://careers.gulfstream.com/job/Savannah-Summer-2027-IEF-Software-Engineer-Collegiate-Associate-Intern-GA-31401/1421863200/?ats=successfactors)
-- 2026-08-24 — **Gulfstream**: [Software Engineer Intern - Innovation, Engineering and Flight](https://careers.gulfstream.com/job/Savannah-Spring-2027-IEF-Software-Engineer-Collegiate-Associate-Intern-GA-31401/1421676700/?ats=successfactors)
-- 2026-08-24 — **InfiniteQuant**: [Quantitative Developer Internship - Summer 2027](https://jobs.smartrecruiters.com/InfiniteQuant/744000145263134)
-- 2026-08-24 — **Jump Trading**: [Campus Quantitative Researcher (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8027900)
+- 2026-08-24 — **DuCharme, McMillen & Associates**: [Software Developer Intern](https://dmainc.wd5.myworkdayjobs.com/dma/job/Fort-Wayne-IN/Software-Development-Intern---Summer-2027_REQ636)
 
 ## Recently closed
 
@@ -175,15 +175,6 @@ _Generated 2026-08-24_
 - GoDaddy — Software Development Engineer Intern
 - Golden Pet Brands — Data Analytics Intern
 - Goldman Sachs — AWM Product Management Analyst Intern
-- Goldman Sachs — Quantitative Strategist Associate Intern - Asset and Wealth Management
-- Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
-- Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
-- Goldman Sachs — Summer Analyst Intern - Americas - AWM Product Management
-- Goldman Sachs — Summer Analyst Intern - FICC and Equities - Sales and Trading
-- Goldman Sachs — Summer Analyst Intern - FICC & Equities - Sales & Trading
-- Goldman Sachs — Summer Analyst Intern - Wealth Management - Product Management and Design
-- Goldman Sachs — Summer Associate Intern - Multiple Teams
 - Group 1001 — Quantitative Analysis Intern
 - Gulf Management — Software Engineer & Business Systems Intern
 - Gulfstream — Computer Science Intern - Advanced Structures and Materials
@@ -222,6 +213,7 @@ _Generated 2026-08-24_
 - Lumentum — Optical Verification Technician Co-op Intern
 - Lumentum — Optical Verification Technician Intern/Co-op
 - Magnera — Data Analyst Intern - Information Technology
+- Marsh — Government Health Consulting Informatics Intern - College Program
 - MaxLinear — AI Intern
 - McKesson — Software Developer Intern - Digital and Enterprise Technology
 - McKesson — Technology Intern
