@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 📊 Statistics
 
-_Generated 2026-08-23_
+_Generated 2026-08-24_
 
 ## Top hiring companies
 
@@ -91,8 +91,6 @@ _Generated 2026-08-23_
 - Assured Guaranty — Product Software Developer Intern
 - Astranis — Embedded Software Developer – Network/Payload Software Intern
 - Astranis — Software Engineer-Backend Intern
-- Bank of Montreal — Card Products Intern Co-op - Customer Solutions
-- Bank of Montreal — Data Scientist Co-op/Internship - Months
 - Bank of Montreal — Investment Intern Co-op - Co-op/Internship
 - Bloxd — Software Engineer Intern
 - Booz Allen — AI RAN Telecommunications Engineer Intern
@@ -163,7 +161,6 @@ _Generated 2026-08-23_
 - General Dynamics Information Technology — Artificial Intelligence/Machine Learning Intern
 - General Dynamics Information Technology — Software Developer Intern
 - General Dynamics Mission Systems — Cybersecurity Software Engineer Intern
-- General Motors — Research and Development Intern - Research & Development: AI/ML
 - Global Partners — Advanced Analytics Intern
 - GoDaddy — Software Development Engineer Intern
 - Golden Pet Brands — Data Analytics Intern
@@ -276,7 +273,6 @@ _Generated 2026-08-23_
 - RTX — Electrical Engineering Intern
 - RTX — Enterprise Extended Reality Intern
 - RTX — Industrialization Intern - Industrialization Production Readiness
-- RTX — Machine Learning Researcher Intern/Co-op
 - RTX — Manufacturing & Quality Analyst Intern
 - RTX — Methods Intern - Hot Section Engineering
 - RTX — Modeling, Simulation & Analysis Intern
@@ -315,6 +311,7 @@ _Generated 2026-08-23_
 - Schweitzer Engineering Laboratories — Test Engineer Intern
 - Sentry — Software Engineer Intern - Summer 2027
 - Signify — Product Management Intern
+- Smiths Detection Group — Commercial Intern - Commercial Tools & Business Intelligence
 - Snorkel AI — AI Researcher Intern
 - Sony Music Entertainment — Insight & Analytics Intern
 - Sony Pictures Entertainment — Insights Intern - Multiple Teams
@@ -343,7 +340,6 @@ _Generated 2026-08-23_
 - Tesla — Supercharger Product Engineer Intern - Supercharger Product Support Engineering
 - Tesla — Thermal Controls Engineer Intern - Thermal Controls Engineer - Vehicle Controls
 - Texas Permanent School Fund Corporation — Equity Capital Markets Intern
-- The Home Depot — AI Engineer Intern
 - The Home Depot — Co-op Intern
 - TMEIC Corporation Americas — Engineer Intern - Spring 2027 - Eis
 - TMX Group — Analyst Student Intern - Market Insights
