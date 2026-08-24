@@ -70116,7 +70116,7 @@
         "discovered": "2026-08-19",
         "last_verified": "2026-08-24"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -90205,9 +90205,9 @@
       "dates": {
         "posted": "2026-05-12",
         "discovered": "2026-07-17",
-        "last_verified": "2026-08-23"
+        "last_verified": "2026-08-24"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"

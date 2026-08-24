@@ -234,7 +234,6 @@ _Generated 2026-08-24_
 - Nokia — Hardware Developer Engineer Co-op/Intern
 - Notion — Governance, Risk, and Compliance Intern (Fall 2026)
 - NVIDIA — Computer Architecture Intern
-- NVIDIA — Hardware ASIC Design Intern - Hardware
 - Ontario Teachers' Pension Plan — Finance Intern - Risk Analytics
 - Ontario Teachers' Pension Plan — Risk Intern - Total Fund Risk
 - Otter Products — Artificial Intelligence Intern
@@ -318,7 +317,6 @@ _Generated 2026-08-24_
 - Snorkel AI — AI Researcher Intern
 - Sony Music Entertainment — Insight & Analytics Intern
 - Sony Pictures Entertainment — Insights Intern - Multiple Teams
-- SOTI — Data Scientist Intern
 - SpaceX — Recruiting Coordinator, Intern Program- Temporary
 - Stand Insurance — Fire Science Engineer Intern
 - State of Nebraska — IT Construction Systems Intern
