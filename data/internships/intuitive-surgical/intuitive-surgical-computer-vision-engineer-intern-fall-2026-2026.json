@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "hoffman-construction-data-analyst-intern-2026",
+  "id": "intuitive-surgical-computer-vision-engineer-intern-fall-2026-2026",
   "company": {
-    "name": "Hoffman Construction",
-    "slug": "hoffman-construction"
+    "name": "Intuitive Surgical",
+    "slug": "intuitive-surgical"
   },
-  "role": "Data Analyst Intern",
+  "role": "Computer Vision Engineer Intern - Fall 2026",
   "category": "software-engineering",
-  "apply_url": "https://efsp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/1490",
+  "apply_url": "https://jobs.smartrecruiters.com/Intuitive/744000145329669",
   "season": "fall",
   "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Boise",
-      "state": "ID",
+      "city": "Sunnyvale",
+      "state": "CA",
       "country": "USA"
     }
   ],
@@ -25,7 +25,10 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "masters",
+      "phd"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -41,7 +44,7 @@
   },
   "dates": {
     "posted": "2026-08-24",
-    "discovered": "2026-08-22",
+    "discovered": "2026-08-24",
     "last_verified": "2026-08-24"
   },
   "status": "open",

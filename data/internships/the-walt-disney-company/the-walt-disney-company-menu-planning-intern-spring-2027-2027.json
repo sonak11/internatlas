@@ -1,20 +1,25 @@
 {
   "schema_version": "1.0",
-  "id": "hoffman-construction-data-analyst-intern-2026",
+  "id": "the-walt-disney-company-menu-planning-intern-spring-2027-2027",
   "company": {
-    "name": "Hoffman Construction",
-    "slug": "hoffman-construction"
+    "name": "The Walt Disney Company",
+    "slug": "the-walt-disney-company"
   },
-  "role": "Data Analyst Intern",
+  "role": "Menu Planning Intern - Spring 2027",
   "category": "software-engineering",
-  "apply_url": "https://efsp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/1490",
-  "season": "fall",
-  "year": 2026,
+  "apply_url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/WDI-Menu-Planning-Intern--Spring-2027_10159160",
+  "season": "winter",
+  "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Boise",
-      "state": "ID",
+      "city": "Lake Buena Vista",
+      "state": "FL",
+      "country": "USA"
+    },
+    {
+      "city": "Glendale",
+      "state": "CA",
       "country": "USA"
     }
   ],
@@ -41,7 +46,7 @@
   },
   "dates": {
     "posted": "2026-08-24",
-    "discovered": "2026-08-22",
+    "discovered": "2026-08-24",
     "last_verified": "2026-08-24"
   },
   "status": "open",

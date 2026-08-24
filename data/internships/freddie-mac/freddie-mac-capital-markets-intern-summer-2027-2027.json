@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "hoffman-construction-data-analyst-intern-2026",
+  "id": "freddie-mac-capital-markets-intern-summer-2027-2027",
   "company": {
-    "name": "Hoffman Construction",
-    "slug": "hoffman-construction"
+    "name": "Freddie Mac",
+    "slug": "freddie-mac"
   },
-  "role": "Data Analyst Intern",
+  "role": "Capital Markets Intern - Summer 2027",
   "category": "software-engineering",
-  "apply_url": "https://efsp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/1490",
-  "season": "fall",
-  "year": 2026,
+  "apply_url": "https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Capital-Markets-Intern---Summer-2027_JR17560",
+  "season": "summer",
+  "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Boise",
-      "state": "ID",
+      "city": "McLean",
+      "state": "VA",
       "country": "USA"
     }
   ],
@@ -41,7 +41,7 @@
   },
   "dates": {
     "posted": "2026-08-24",
-    "discovered": "2026-08-22",
+    "discovered": "2026-08-24",
     "last_verified": "2026-08-24"
   },
   "status": "open",

@@ -1,54 +1,70 @@
 {
   "schema_version": "1.0",
-  "id": "jp-morgan-chase-data-ai-intern-analyst-2027",
+  "id": "johnson-johnson-technology-intern-technology-ldp-2027",
   "company": {
-    "name": "JP Morgan Chase",
-    "slug": "jp-morgan-chase"
+    "name": "Johnson & Johnson",
+    "slug": "johnson-johnson"
   },
-  "role": "Data & AI Intern - Analyst",
-  "category": "ai",
-  "apply_url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773869",
+  "role": "Technology Intern - Technology LDP",
+  "category": "software-engineering",
+  "apply_url": "https://jj.wd5.myworkdayjobs.com/JJ/job/New-Brunswick-New-Jersey-United-States-of-America/Technology-2027-Summer-Internship_R-095602",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Palo Alto",
-      "state": "CA",
+      "city": "West Chester",
+      "state": "PA",
       "country": "USA"
     },
     {
-      "city": "Newark",
-      "state": "DE",
+      "city": "Horsham",
+      "state": "PA",
       "country": "USA"
     },
     {
-      "city": "Plano",
-      "state": "TX",
+      "city": "Spring House",
+      "state": "PA",
       "country": "USA"
     },
     {
-      "city": "Chicago",
-      "state": "IL",
-      "country": "USA"
-    },
-    {
-      "city": "Jersey City",
+      "city": "New Brunswick",
       "state": "NJ",
       "country": "USA"
     },
     {
-      "city": "Columbus",
-      "state": "OH",
+      "city": "Irvine",
+      "state": "CA",
       "country": "USA"
     },
     {
-      "city": "NYC",
+      "city": "Raritan",
+      "state": "NJ",
       "country": "USA"
     },
     {
-      "city": "Wilmington",
-      "state": "DE",
+      "city": "Santa Clara",
+      "state": "CA",
+      "country": "USA"
+    },
+    {
+      "city": "Hopewell Township",
+      "state": "NJ",
+      "country": "USA"
+    },
+    {
+      "city": "Fort Washington",
+      "state": "PA",
+      "country": "USA"
+    },
+    {
+      "city": "Jacksonville",
+      "state": "FL",
+      "country": "USA"
+    },
+    {
+      "city": "Palm Beach Gardens",
+      "state": "FL",
       "country": "USA"
     }
   ],
@@ -76,8 +92,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-03",
-    "discovered": "2026-08-03",
+    "posted": "2026-08-24",
+    "discovered": "2026-08-24",
     "last_verified": "2026-08-24"
   },
   "status": "open",

@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "rfcuny-it-data-systems-intern-archibus-applications-development-2026-0fd83a",
+  "id": "mackenzie-investments-data-engineering-intern-2027",
   "company": {
-    "name": "RFCUNY",
-    "slug": "rfcuny"
+    "name": "Mackenzie Investments",
+    "slug": "mackenzie-investments"
   },
-  "role": "IT & Data Systems Intern - Archibus & Applications Development",
-  "category": "software-engineering",
-  "apply_url": "https://rfcuny.wd108.myworkdayjobs.com/RFCUNY/job/New-York-NY/IT---Data-Systems-Intern--Archibus---Applications-Development-_JR3277",
-  "season": "fall",
-  "year": 2026,
+  "role": "Data Engineering Intern",
+  "category": "data-engineering",
+  "apply_url": "https://careersen-mackenzieinvestments.icims.com/jobs/5983/job?mobile=true&needsRedirect=false",
+  "season": "winter",
+  "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "NYC",
-      "country": "USA"
+      "city": "Toronto",
+      "country": "ON"
     }
   ],
   "compensation": {
@@ -39,8 +39,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-15",
-    "discovered": "2026-07-17",
+    "posted": "2026-08-24",
+    "discovered": "2026-08-24",
     "last_verified": "2026-08-24"
   },
   "status": "open",

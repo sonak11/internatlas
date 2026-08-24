@@ -10,7 +10,7 @@ _Generated 2026-08-24_
 |---|---|
 | TikTok | 143 |
 | Tesla | 111 |
-| RTX | 58 |
+| RTX | 60 |
 | ByteDance | 54 |
 | Jump Trading | 45 |
 | Cloudflare | 34 |
@@ -21,8 +21,8 @@ _Generated 2026-08-24_
 | SpaceX | 25 |
 | Neuralink | 22 |
 | Susquehanna International Group (SIG) | 22 |
+| The Walt Disney Company | 20 |
 | Zipline | 19 |
-| The Walt Disney Company | 18 |
 | Jane Street | 17 |
 | Microsoft | 17 |
 | Palantir Technologies | 17 |
@@ -33,7 +33,7 @@ _Generated 2026-08-24_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 1272 | `██████████████` |
+| software-engineering | 1278 | `██████████████` |
 | ai | 218 | `██` |
 | quant | 201 | `██` |
 | machine-learning | 144 | `██` |
@@ -41,10 +41,10 @@ _Generated 2026-08-24_
 | hardware | 101 | `█` |
 | product | 68 | `█` |
 | embedded | 57 | `█` |
-| data-science | 49 | `█` |
+| data-science | 50 | `█` |
 | design | 44 | `█` |
 | cloud | 42 | `█` |
-| data-engineering | 27 | `█` |
+| data-engineering | 28 | `█` |
 | security | 15 | `█` |
 
 ## Newest listings
@@ -100,6 +100,7 @@ _Generated 2026-08-24_
 - Booz Allen — AI RAN Telecommunications Engineer Intern
 - Bosch Home Comfort — ADAS Software Engineer Intern
 - BP — Geoscience Intern - Geoscientist
+- Brio Water Technology — AI Automation & Business Analytics Intern - Rotational Program
 - ByteDance — Research Scientist Intern
 - Cadence Design Systems — Characterization and Support Intern
 - Cadence Design Systems — Characterization and Support Intern
@@ -147,10 +148,13 @@ _Generated 2026-08-24_
 - Cotiviti — Agentic AI Research Intern
 - Crowe — NetSuite Implementation Intern - Consulting Practice
 - Cubist Systematic Strategies — Quantitative Developer Intern
+- CuspAI — Chemistry Intern - MLFF Distillation & GCMC Integration
+- DataRobot — Agentic AI Intern
 - Ditto — Ditto Intern Program
 - Dmg Media — Editorial Innovation Intern - Innovation Team
 - Eko Health — Clinical Product Strategy Intern - Clinical Technology
 - Environmental Defense Fund — Climate & Health Intern
+- Eridu AI — Lab Intern
 - Excel Sports Management — Analytics Intern - Analytics
 - Excel Sports Management — Football Coaches Intern
 - Fab2 — Automation Software Engineer Intern
@@ -176,6 +180,17 @@ _Generated 2026-08-24_
 - Global Partners — Advanced Analytics Intern
 - GoDaddy — Software Development Engineer Intern
 - Golden Pet Brands — Data Analytics Intern
+- Goldman Sachs — AWM Product Management Analyst Intern
+- Goldman Sachs — Quantitative Strategist Associate Intern - Asset and Wealth Management
+- Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
+- Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
+- Goldman Sachs — Summer Analyst Intern - Americas - AWM Product Management
+- Goldman Sachs — Summer Analyst Intern - FICC and Equities - Sales and Trading
+- Goldman Sachs — Summer Analyst Intern - FICC & Equities - Sales & Trading
+- Goldman Sachs — Summer Analyst Intern - Wealth Management - Product Management and Design
+- Goldman Sachs — Summer Associate Intern - Multiple Teams
 - Group 1001 — Quantitative Analysis Intern
 - Gulf Management — Software Engineer & Business Systems Intern
 - Gulfstream — Computer Science Intern - Advanced Structures and Materials
@@ -183,8 +198,8 @@ _Generated 2026-08-24_
 - Harris Central Appraisal District — GIS Intern
 - Harris Computer — Software Development Intern
 - Hershey — Product Development Intern - R&D
+- Hilton Worldwide — Corporate Summer Internship - Technology, Software Engineering and Cyber
 - Hitachi — Data Center Optimization Intern
-- Hoffman Construction — Data Analyst Intern
 - Horizon Industries — Appian Intern
 - IES Holdings — Data Analytics Intern
 - IMC Trading — Hardware Machine Learning PhD Research Internship
@@ -198,7 +213,6 @@ _Generated 2026-08-24_
 - International Rescue Committee (IRC) — Data Integration & Reporting Intern
 - Intuit — Software Engineer Intern
 - Intuitive Surgical — Computer Vision Engineer Intern
-- JP Morgan Chase — Data & AI Intern - Analyst
 - JP Morgan Chase — Data Internship - Data & AI Program
 - KBR — Software Intern
 - Kensington — Data Analyst Intern - Revenue Optimization
@@ -216,7 +230,6 @@ _Generated 2026-08-24_
 - Magnera — Data Analyst Intern - Information Technology
 - MaxLinear — AI Intern
 - McKesson — Software Developer Intern - Digital and Enterprise Technology
-- McKesson — Technology Intern
 - Meta — Research Scientist Intern - Monetization Computer Vision
 - Metropolitan Transportation Authority — Data Analyst Intern
 - Metropolitan Transportation Authority — Data Analyst Intern - Power - Emerging Talent
@@ -301,9 +314,7 @@ _Generated 2026-08-24_
 - RTX — Software Engineer Intern
 - RTX — Software Engineer Intern
 - RTX — Software Engineer Intern
-- RTX — Software Engineer Intern
 - RTX — Software Engineer Intern - Spring 2027
-- RTX — Software Engineer Intern - Summer 2027
 - RTX — Software Engineer Intern - Summer 2027
 - RTX — Software Engineer Intern - Summer 2027
 - RTX — Software Engineer Intern - Summer 2027
@@ -358,6 +369,7 @@ _Generated 2026-08-24_
 - Tesla — Thermal Controls Engineer Intern - Thermal Controls Engineer - Vehicle Controls
 - Texas Permanent School Fund Corporation — Equity Capital Markets Intern
 - The Home Depot — Co-op Intern
+- The Hub Project — Polling and Outreach Intern
 - TMEIC Corporation Americas — Engineer Intern - Spring 2027 - Eis
 - TMX Group — Analyst Student Intern - Market Insights
 - Together AI — Research Intern - Model Shaping
@@ -378,7 +390,6 @@ _Generated 2026-08-24_
 - Veeam Software — Software Engineering Intern, Policy Engineering
 - Veeda AI — AI Scientist Intern - Veeda AI Scientist
 - Vega Investment Technologies — Product Operations Intern
-- Vertiv — Product Marketing Intern
 - Vertiv — Software Engineer Intern
 - Walleye Capital — Equity Volatility Quant Researcher Intern
 - Warner Bros. — Research & Analytics Internships - Multiple Teams
