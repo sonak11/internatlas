@@ -96,7 +96,6 @@ _Generated 2026-08-24_
 - Booz Allen — AI RAN Telecommunications Engineer Intern
 - Bosch Home Comfort — ADAS Software Engineer Intern
 - BP — Geoscience Intern - Geoscientist
-- ByteDance — Network Software Engineer Intern - Network Switch
 - ByteDance — Research Scientist Intern
 - Cadence Design Systems — Characterization and Support Intern
 - Cadence Design Systems — Characterization and Support Intern
@@ -244,7 +243,6 @@ _Generated 2026-08-24_
 - PEAK6 — Trading Bootcamp Micro-Internship - Summer 2027
 - PEAK6 — Trading Intern
 - Pendulum Intelligence — Product Manager Intern
-- PennState University — Research and Development Engineering Intern
 - Pennsylvania State University — Electronic Materials and Devices Engineer Intern - Electronic Materials and Devices
 - Photon — Software Engineering Intern - AI
 - Picton Mahoney Asset Management — Business Data Analyst Intern

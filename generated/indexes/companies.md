@@ -117,7 +117,7 @@
 | [Brookfield](../companies/brookfield.md) | 1/1 | ai |
 | [Brunswick](../companies/brunswick.md) | 0/1 | software-engineering |
 | [By Light Professional IT Services](../companies/by-light-professional-it-services.md) | 2/2 | ai, design |
-| [ByteDance](../companies/bytedance.md) | 50/54 | ai, cloud, hardware, machine-learning, research, software-engineering |
+| [ByteDance](../companies/bytedance.md) | 51/54 | ai, cloud, hardware, machine-learning, research, software-engineering |
 | [CACI](../companies/caci.md) | 1/2 | software-engineering |
 | [CALSTART](../companies/calstart.md) | 2/3 | research, software-engineering |
 | [CCC Intelligent Solutions](../companies/ccc-intelligent-solutions.md) | 0/3 | ai, data-science |
@@ -495,7 +495,7 @@
 | [Paragon](../companies/paragon.md) | 1/1 | software-engineering |
 | [PathAI](../companies/pathai.md) | 1/1 | machine-learning |
 | [Pendulum Intelligence](../companies/pendulum-intelligence.md) | 0/1 | product |
-| [PennState University](../companies/pennstate-university.md) | 0/1 | research |
+| [PennState University](../companies/pennstate-university.md) | 1/1 | research |
 | [Pennsylvania State University](../companies/pennsylvania-state-university.md) | 1/6 | machine-learning, research, software-engineering |
 | [Pentair](../companies/pentair.md) | 1/1 | product |
 | [Persistent Systems](../companies/persistent-systems.md) | 1/2 | embedded, hardware |
