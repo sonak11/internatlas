@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "frost-computer-science-intern-digital-services-2026",
+  "id": "freddie-mac-quantitative-risk-management-intern-2027",
   "company": {
-    "name": "Frost",
-    "slug": "frost"
+    "name": "Freddie Mac",
+    "slug": "freddie-mac"
   },
-  "role": "Computer Science Intern - Digital Services",
-  "category": "software-engineering",
-  "apply_url": "https://frostbank.wd5.myworkdayjobs.com/External/job/San-Antonio-TX---One-Frost/College-Intern---Digital-Services_R261550",
-  "season": "fall",
-  "year": 2026,
+  "role": "Quantitative Risk Management Intern",
+  "category": "quant",
+  "apply_url": "https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Risk-Management-Graduate-Intern---Quantitative-Summer-2027_JR17553",
+  "season": "summer",
+  "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "San Antonio",
-      "state": "TX",
+      "city": "McLean",
+      "state": "VA",
       "country": "USA"
     }
   ],
@@ -40,11 +40,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-21",
-    "discovered": "2026-08-21",
+    "posted": "2026-08-24",
+    "discovered": "2026-08-24",
     "last_verified": "2026-08-24"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

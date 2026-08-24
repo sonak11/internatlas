@@ -1,21 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "frost-computer-science-intern-digital-services-2026",
+  "id": "royal-bank-of-canada-data-intern-ecco-2027-6c6aed",
   "company": {
-    "name": "Frost",
-    "slug": "frost"
+    "name": "Royal Bank of Canada",
+    "slug": "royal-bank-of-canada"
   },
-  "role": "Computer Science Intern - Digital Services",
+  "role": "Data Intern - ECCO",
   "category": "software-engineering",
-  "apply_url": "https://frostbank.wd5.myworkdayjobs.com/External/job/San-Antonio-TX---One-Frost/College-Intern---Digital-Services_R261550",
-  "season": "fall",
-  "year": 2026,
+  "apply_url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---ECCO--Data-Intern--4-Months-_R-0000185330",
+  "season": "winter",
+  "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "San Antonio",
-      "state": "TX",
-      "country": "USA"
+      "city": "Toronto",
+      "country": "ON"
     }
   ],
   "compensation": {
@@ -40,11 +39,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-21",
-    "discovered": "2026-08-21",
+    "posted": "2026-08-24",
+    "discovered": "2026-08-24",
     "last_verified": "2026-08-24"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

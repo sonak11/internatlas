@@ -1,21 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "frost-computer-science-intern-digital-services-2026",
+  "id": "bny-engineering-intern-developer-2027",
   "company": {
-    "name": "Frost",
-    "slug": "frost"
+    "name": "BNY",
+    "slug": "bny"
   },
-  "role": "Computer Science Intern - Digital Services",
+  "role": "Engineering Intern - Developer",
   "category": "software-engineering",
-  "apply_url": "https://frostbank.wd5.myworkdayjobs.com/External/job/San-Antonio-TX---One-Frost/College-Intern---Digital-Services_R261550",
-  "season": "fall",
-  "year": 2026,
+  "apply_url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81318",
+  "season": "summer",
+  "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "San Antonio",
-      "state": "TX",
-      "country": "USA"
+      "city": "Greater Manchester",
+      "country": "UK"
     }
   ],
   "compensation": {
@@ -40,11 +39,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-21",
-    "discovered": "2026-08-21",
+    "posted": "2026-08-24",
+    "discovered": "2026-08-24",
     "last_verified": "2026-08-24"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

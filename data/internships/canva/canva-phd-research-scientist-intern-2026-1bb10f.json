@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "frost-computer-science-intern-digital-services-2026",
+  "id": "canva-phd-research-scientist-intern-2026-1bb10f",
   "company": {
-    "name": "Frost",
-    "slug": "frost"
+    "name": "Canva",
+    "slug": "canva"
   },
-  "role": "Computer Science Intern - Digital Services",
-  "category": "software-engineering",
-  "apply_url": "https://frostbank.wd5.myworkdayjobs.com/External/job/San-Antonio-TX---One-Frost/College-Intern---Digital-Services_R261550",
+  "role": "PhD Research Scientist Intern",
+  "category": "research",
+  "apply_url": "https://jobs.smartrecruiters.com/Canva/6000000001291655-phd-research-scientist-intern",
   "season": "fall",
   "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "San Antonio",
-      "state": "TX",
+      "city": "San Francisco",
+      "state": "CA",
       "country": "USA"
     }
   ],
@@ -40,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-21",
-    "discovered": "2026-08-21",
+    "posted": "2026-08-06",
+    "discovered": "2026-08-24",
     "last_verified": "2026-08-24"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }

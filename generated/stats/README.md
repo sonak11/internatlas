@@ -9,7 +9,7 @@ _Generated 2026-08-24_
 | Company | Listings |
 |---|---|
 | TikTok | 143 |
-| Tesla | 110 |
+| Tesla | 111 |
 | RTX | 58 |
 | ByteDance | 54 |
 | Jump Trading | 45 |
@@ -33,16 +33,16 @@ _Generated 2026-08-24_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 1232 | `██████████████` |
+| software-engineering | 1242 | `██████████████` |
 | ai | 215 | `██` |
-| quant | 197 | `██` |
+| quant | 198 | `██` |
 | machine-learning | 141 | `██` |
-| research | 107 | `█` |
+| research | 109 | `█` |
 | hardware | 101 | `█` |
-| product | 64 | `█` |
+| product | 65 | `█` |
 | embedded | 56 | `█` |
+| data-science | 47 | `█` |
 | design | 44 | `█` |
-| data-science | 42 | `█` |
 | cloud | 42 | `█` |
 | data-engineering | 25 | `█` |
 | security | 15 | `█` |
@@ -51,24 +51,24 @@ _Generated 2026-08-24_
 
 - 2026-08-24 — **Analog Devices**: [Digital Design Engineer Intern](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-NC-Durham/Digital-Design-Engineer-Intern_R265298)
 - 2026-08-24 — **Analog Devices**: [Product Engineer Intern - Product Development](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Product-Engineer--Product-Development--Intern_R265302)
+- 2026-08-24 — **BNY**: [Data Science Intern - Engineering](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81241)
+- 2026-08-24 — **BNY**: [Data Science Intern - Engineering](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81239)
+- 2026-08-24 — **BNY**: [Data Science Intern - Engineering](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81240)
+- 2026-08-24 — **BNY**: [Data Science Intern - Engineering](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81238)
 - 2026-08-24 — **BNY**: [Engineering Developer Intern - Engineering](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81252)
+- 2026-08-24 — **BNY**: [Engineering Intern - Data Science](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81322)
+- 2026-08-24 — **BNY**: [Engineering Intern - Developer](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81318)
+- 2026-08-24 — **BNY**: [Engineering Intern - Engineering - Developer](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81254)
+- 2026-08-24 — **BNY**: [Software Developer Intern - Engineering](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81253)
+- 2026-08-24 — **BNY**: [Software Engineer Intern - Engineering - Developer](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81251)
 - 2026-08-24 — **Cigna Group**: [Healthcare Policy & Regulated Markets Intern](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/St-Louis-MO/Healthcare-Policy---Regulated-Markets-Intern_26006403)
+- 2026-08-24 — **Freddie Mac**: [Quantitative Risk Management Intern](https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Risk-Management-Graduate-Intern---Quantitative-Summer-2027_JR17553)
+- 2026-08-24 — **Google**: [Research Intern - PhD](https://www.google.com/about/careers/applications/jobs/results/86701057991680710)
+- 2026-08-24 — **Google**: [Software Developer Intern](https://www.google.com/about/careers/applications/jobs/results/112518690523488966)
 - 2026-08-24 — **Gulfstream**: [Software Engineer Intern - IEF](https://careers.gulfstream.com/job/Savannah-Summer-2027-IEF-Software-Engineer-Collegiate-Associate-Intern-GA-31401/1421863200/?ats=successfactors)
 - 2026-08-24 — **Gulfstream**: [Software Engineer Intern - Innovation, Engineering and Flight](https://careers.gulfstream.com/job/Savannah-Spring-2027-IEF-Software-Engineer-Collegiate-Associate-Intern-GA-31401/1421676700/?ats=successfactors)
+- 2026-08-24 — **InfiniteQuant**: [Quantitative Developer Internship - Summer 2027](https://jobs.smartrecruiters.com/InfiniteQuant/744000145263134)
 - 2026-08-24 — **Jump Trading**: [Campus Quantitative Researcher (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8027900)
-- 2026-08-24 — **Jump Trading**: [Campus Quantitative Trader (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8027922)
-- 2026-08-24 — **Mastercard**: [Software Engineer Intern](https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Software-Engineer-Intern--Summer-2027---United-States_R-287618-1)
-- 2026-08-24 — **Nomagic**: [Engineering Intern - Software or Hardware](https://jobs.lever.co/Nomagic/c7a6445d-3fd8-4bf1-90c0-ec01c2bef2af/apply)
-- 2026-08-24 — **Ontario Teachers' Pension Plan**: [Total Fund Risk Intern - Months](https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers/job/Toronto-Canada/Intern---Total-Risk-Fund--May-2027---12-months-_7212)
-- 2026-08-24 — **The Walt Disney Company**: [Computer Science / Computer Engineering Intern - Multiple Teams](https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Lake-Buena-Vista-FL-USA/WDW-Computer-Science---Computer-Engineering-Interns--Spring-2027_10158145-1)
-- 2026-08-24 — **The Walt Disney Company**: [Computer Science / Computer Engineering Intern - Multiple Teams](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/WDW-Computer-Science---Computer-Engineering-Interns--Spring-2027_10158145)
-- 2026-08-24 — **The Walt Disney Company**: [Environmental Sustainability Data Analytics Intern - Spring 2027](https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Lake-Buena-Vista-FL-USA/Environmental-Sustainability-Data-Analytics-Intern--Spring-2027_10156341-1)
-- 2026-08-24 — **The Walt Disney Company**: [Environmental Sustainability Data Analytics Intern - Spring 2027](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/Environmental-Sustainability-Data-Analytics-Intern--Spring-2027_10156341)
-- 2026-08-24 — **The Walt Disney Company**: [Geographic Information Systems Intern - GIS](https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Anaheim-CA-USA/Geographic-Information-Systems--GIS--Intern--Spring-2027_10158899-1)
-- 2026-08-24 — **The Walt Disney Company**: [Geographic Information Systems Intern - GIS](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Anaheim-CA-USA/Geographic-Information-Systems--GIS--Intern--Spring-2027_10158899)
-- 2026-08-24 — **The Walt Disney Company**: [Labor Systems Data Analytics & Integration Intern - Spring 2027](https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Lake-Buena-Vista-FL-USA/Labor-Systems-Data-Analytics---Integration-Intern--Spring-2027_10157891-2)
-- 2026-08-24 — **The Walt Disney Company**: [Labor Systems Data Analytics & Integration Intern - Spring 2027](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/Labor-Systems-Data-Analytics---Integration-Intern--Spring-2027_10157891-1)
-- 2026-08-24 — **The Walt Disney Company**: [Labor Systems Web Integration Intern - Spring 2027](https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Lake-Buena-Vista-FL-USA/Labor-Systems-Web-Integration-Intern--Spring-2027_10158184-1)
 
 ## Recently closed
 
@@ -105,7 +105,8 @@ _Generated 2026-08-24_
 - Cadence Design Systems — SSG Design Engineering Intern
 - CALSTART — Web Development Intern
 - Canva — PhD Research Scientist Intern - Edge AI
-- Canva — PhD Research Scientist Intern - Reinforcement Learning for Diffusion Modelling
+- Canva — PhD Research Scientist Intern - Generative AI
+- Canva — PhD Research Scientist Intern - Reinforcement Learning - Images
 - Capital One — Cyber Security Intern
 - Capital One — Software Engineer Intern
 - Capital One — Technology Intern
@@ -153,7 +154,9 @@ _Generated 2026-08-24_
 - First American — Software Engineer Intern
 - Flexion Robotics — Research Intern
 - Fluency — Engineer Intern
+- Foxconn Industrial Internet — Software Engineer Intern - Engineering and Operations
 - Freeform — Materials Engineer Intern
+- Frost — Computer Science Intern - Digital Services
 - Gartner — Data Analyst Intern
 - GE Vernova — Digital Technology Intern
 - GE Vernova — Digital Technology Intern
@@ -190,7 +193,6 @@ _Generated 2026-08-24_
 - IMC Trading — Hardware Machine Learning PhD Research Internship
 - impact.com — Associate Software Engineer Intern
 - Impulse Space — Data Analytics Intern
-- InfiniteQuant — Quantitative Developer Internship - Summer 2027
 - InfiniteQuant — Quantitative Researcher Intern
 - ING — Technology Intern - Innovation
 - Inizio — Data and Analytics Intern
@@ -299,6 +301,7 @@ _Generated 2026-08-24_
 - RTX — Software Engineer Intern
 - RTX — Software Engineer Intern
 - RTX — Software Engineer Intern - Spring 2027
+- RTX — Software Engineer Intern - Summer 2027
 - RTX — Software Engineer Intern - Summer 2027
 - RTX — Software Engineer Intern - Summer 2027
 - RTX — Software Engineer Intern - Summer 2027

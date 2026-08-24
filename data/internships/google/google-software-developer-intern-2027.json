@@ -1,21 +1,28 @@
 {
   "schema_version": "1.0",
-  "id": "frost-computer-science-intern-digital-services-2026",
+  "id": "google-software-developer-intern-2027",
   "company": {
-    "name": "Frost",
-    "slug": "frost"
+    "name": "Google",
+    "slug": "google"
   },
-  "role": "Computer Science Intern - Digital Services",
+  "role": "Software Developer Intern",
   "category": "software-engineering",
-  "apply_url": "https://frostbank.wd5.myworkdayjobs.com/External/job/San-Antonio-TX---One-Frost/College-Intern---Digital-Services_R261550",
-  "season": "fall",
-  "year": 2026,
+  "apply_url": "https://www.google.com/about/careers/applications/jobs/results/112518690523488966",
+  "season": "summer",
+  "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "San Antonio",
-      "state": "TX",
-      "country": "USA"
+      "city": "Montreal",
+      "country": "QC"
+    },
+    {
+      "city": "Toronto",
+      "country": "ON"
+    },
+    {
+      "city": "Waterloo",
+      "country": "ON"
     }
   ],
   "compensation": {
@@ -25,7 +32,9 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "phd"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -40,11 +49,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-21",
-    "discovered": "2026-08-21",
+    "posted": "2026-08-24",
+    "discovered": "2026-08-24",
     "last_verified": "2026-08-24"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"
