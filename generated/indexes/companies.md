@@ -115,9 +115,9 @@
 | [Bosch Home Comfort](../companies/bosch-home-comfort.md) | 4/9 | ai, product, research, software-engineering |
 | [Bot Auto](../companies/bot-auto.md) | 1/1 | machine-learning |
 | [Brex](../companies/brex.md) | 0/1 | software-engineering |
-| [Brio Water Technology](../companies/brio-water-technology.md) | 0/1 | ai |
+| [Brio Water Technology](../companies/brio-water-technology.md) | 1/1 | ai |
 | [Brookfield](../companies/brookfield.md) | 1/1 | ai |
-| [Brunswick](../companies/brunswick.md) | 0/1 | software-engineering |
+| [Brunswick](../companies/brunswick.md) | 2/3 | design, software-engineering |
 | [By Light Professional IT Services](../companies/by-light-professional-it-services.md) | 2/2 | ai, design |
 | [ByteDance](../companies/bytedance.md) | 51/54 | ai, cloud, hardware, machine-learning, research, software-engineering |
 | [CACI](../companies/caci.md) | 1/2 | software-engineering |
@@ -176,7 +176,7 @@
 | [Cotiviti](../companies/cotiviti.md) | 1/2 | ai |
 | [Crowe](../companies/crowe.md) | 8/9 | ai, cloud, software-engineering |
 | [Cubist Systematic Strategies](../companies/cubist-systematic-strategies.md) | 0/1 | quant |
-| [CuspAI](../companies/cuspai.md) | 0/1 | software-engineering |
+| [CuspAI](../companies/cuspai.md) | 1/1 | software-engineering |
 | [Cybernetic Labs](../companies/cybernetic-labs.md) | 3/3 | software-engineering |
 | [DE Shaw](../companies/de-shaw.md) | 1/1 | software-engineering |
 | [DNV](../companies/dnv.md) | 0/1 | ai |
@@ -232,7 +232,7 @@
 | [Epia Neuro](../companies/epia-neuro.md) | 1/1 | hardware |
 | [Epic Games](../companies/epic-games.md) | 8/8 | machine-learning, software-engineering |
 | [Eragon](../companies/eragon.md) | 1/1 | ai |
-| [Eridu AI](../companies/eridu-ai.md) | 0/1 | software-engineering |
+| [Eridu AI](../companies/eridu-ai.md) | 1/1 | software-engineering |
 | [Etched](../companies/etched.md) | 12/14 | cloud, embedded, software-engineering |
 | [Ether.fi](../companies/ether-fi.md) | 1/1 | software-engineering |
 | [Eudia](../companies/eudia.md) | 1/1 | software-engineering |
@@ -270,7 +270,7 @@
 | [Foxconn Industrial Internet](../companies/foxconn-industrial-internet.md) | 0/2 | software-engineering |
 | [Framatome](../companies/framatome.md) | 1/1 | software-engineering |
 | [Freddie Mac](../companies/freddie-mac.md) | 7/7 | quant, software-engineering |
-| [Freeform](../companies/freeform.md) | 1/3 | software-engineering |
+| [Freeform](../companies/freeform.md) | 2/3 | software-engineering |
 | [Frontier Health](../companies/frontier-health.md) | 1/1 | research |
 | [Frost](../companies/frost.md) | 0/1 | software-engineering |
 | [Fullbay](../companies/fullbay.md) | 1/1 | software-engineering |
@@ -342,7 +342,7 @@
 | [Hypercubic](../companies/hypercubic.md) | 2/2 | software-engineering |
 | [IES Holdings](../companies/ies-holdings.md) | 0/1 | software-engineering |
 | [IMC](../companies/imc.md) | 4/4 | hardware, quant, software-engineering |
-| [IMC Trading](../companies/imc-trading.md) | 17/25 | hardware, machine-learning, quant |
+| [IMC Trading](../companies/imc-trading.md) | 16/25 | hardware, machine-learning, quant |
 | [IMEG](../companies/imeg.md) | 1/1 | software-engineering |
 | [ING](../companies/ing.md) | 0/1 | software-engineering |
 | [Ignite Digital Services](../companies/ignite-digital-services.md) | 0/1 | software-engineering |

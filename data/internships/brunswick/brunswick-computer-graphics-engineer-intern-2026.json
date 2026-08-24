@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "brio-water-technology-ai-automation-business-analytics-intern-rotational-program-2026",
+  "id": "brunswick-computer-graphics-engineer-intern-2026",
   "company": {
-    "name": "Brio Water Technology",
-    "slug": "brio-water-technology"
+    "name": "Brunswick",
+    "slug": "brunswick"
   },
-  "role": "AI Automation & Business Analytics Intern - Rotational Program",
-  "category": "ai",
-  "apply_url": "https://ats.rippling.com/briowt/jobs/52da1fca-1cb1-49ff-8a94-b6f3850cd8eb",
+  "role": "Computer Graphics Engineer Intern",
+  "category": "software-engineering",
+  "apply_url": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Champaign-IL/Computer-Graphics-Engineering-Intern_JR-051325",
   "season": "fall",
   "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Glendale",
-      "state": "CA",
+      "city": "Champaign",
+      "state": "IL",
       "country": "USA"
     }
   ],
@@ -40,8 +40,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-31",
-    "discovered": "2026-08-01",
+    "posted": "2026-08-24",
+    "discovered": "2026-08-24",
     "last_verified": "2026-08-24"
   },
   "status": "open",

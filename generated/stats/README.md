@@ -33,7 +33,7 @@ _Generated 2026-08-24_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 1278 | `██████████████` |
+| software-engineering | 1279 | `██████████████` |
 | ai | 218 | `██` |
 | quant | 201 | `██` |
 | machine-learning | 144 | `██` |
@@ -42,7 +42,7 @@ _Generated 2026-08-24_
 | product | 68 | `█` |
 | embedded | 57 | `█` |
 | data-science | 50 | `█` |
-| design | 44 | `█` |
+| design | 45 | `█` |
 | cloud | 42 | `█` |
 | data-engineering | 28 | `█` |
 | security | 15 | `█` |
@@ -100,7 +100,6 @@ _Generated 2026-08-24_
 - Booz Allen — AI RAN Telecommunications Engineer Intern
 - Bosch Home Comfort — ADAS Software Engineer Intern
 - BP — Geoscience Intern - Geoscientist
-- Brio Water Technology — AI Automation & Business Analytics Intern - Rotational Program
 - ByteDance — Research Scientist Intern
 - Cadence Design Systems — Characterization and Support Intern
 - Cadence Design Systems — Characterization and Support Intern
@@ -148,13 +147,11 @@ _Generated 2026-08-24_
 - Cotiviti — Agentic AI Research Intern
 - Crowe — NetSuite Implementation Intern - Consulting Practice
 - Cubist Systematic Strategies — Quantitative Developer Intern
-- CuspAI — Chemistry Intern - MLFF Distillation & GCMC Integration
 - DataRobot — Agentic AI Intern
 - Ditto — Ditto Intern Program
 - Dmg Media — Editorial Innovation Intern - Innovation Team
 - Eko Health — Clinical Product Strategy Intern - Clinical Technology
 - Environmental Defense Fund — Climate & Health Intern
-- Eridu AI — Lab Intern
 - Excel Sports Management — Analytics Intern - Analytics
 - Excel Sports Management — Football Coaches Intern
 - Fab2 — Automation Software Engineer Intern
@@ -166,7 +163,6 @@ _Generated 2026-08-24_
 - Fluency — Engineer Intern
 - Foxconn Industrial Internet — Data Visualization & Analytics Intern - Engineering
 - Foxconn Industrial Internet — Software Engineer Intern - Engineering and Operations
-- Freeform — Materials Engineer Intern
 - Frost — Computer Science Intern - Digital Services
 - Gartner — Data Analyst Intern
 - GE Vernova — Digital Technology Intern
@@ -203,6 +199,7 @@ _Generated 2026-08-24_
 - Horizon Industries — Appian Intern
 - IES Holdings — Data Analytics Intern
 - IMC Trading — Hardware Machine Learning PhD Research Internship
+- IMC Trading — Machine Learning Research Intern - Summer 2027 - Hong Kong
 - impact.com — Associate Software Engineer Intern
 - Impulse Space — Data Analytics Intern
 - InfiniteQuant — Quantitative Researcher Intern
