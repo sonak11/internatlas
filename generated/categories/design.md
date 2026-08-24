@@ -2,12 +2,13 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🎨 Design Internships
 
-**43** tracked · **34** open now
+**44** tracked · **35** open now
 
 ## Current openings
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
+| [Analog Devices](generated/companies/analog-devices.md) | [Digital Design Engineer Intern](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-NC-Durham/Digital-Design-Engineer-Intern_R265298) | San Jose, CA +1 | Onsite | 2026-08-24 | Rolling | 🟢 Open | ❔ |
 | [Astranis](generated/companies/astranis.md) | [Reliability Design Associate Intern](https://job-boards.greenhouse.io/astranis/jobs/4681416006) | SF | Onsite | 2026-06-22 | Rolling | 🟢 Open | ❔ |
 | [Atomic Semi](generated/companies/atomic-semi.md) | [Software Engineer Intern, Chip Design Tools](https://jobs.ashbyhq.com/fab2/907766af-a3c0-49a3-b01e-246baa437d10?embed=true) | San Francisco, CA | Onsite | 2026-07-27 | Rolling | 🟢 Open | ✅ |
 | [By Light Professional IT Services](generated/companies/by-light-professional-it-services.md) | [Software Design Engineer Intern](https://jobs-bylight.icims.com/jobs/11204/job?mobile=true&needsRedirect=false) | Orlando, FL | Onsite | 2026-08-18 | Rolling | 🟢 Open | ❔ |
@@ -59,6 +60,7 @@
 - Jump Trading (4)
 - Neuralink (3)
 - Astranis (2)
+- Analog Devices (1)
 - Atomic Semi (1)
 - By Light Professional IT Services (1)
 - Ciena (1)

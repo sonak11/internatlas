@@ -1,6 +1,6 @@
 {
   "generated": "2026-08-24",
-  "count": 2255,
+  "count": 2281,
   "internships": [
     {
       "schema_version": "1.0",
@@ -7437,6 +7437,65 @@
     },
     {
       "schema_version": "1.0",
+      "id": "analog-devices-digital-design-engineer-intern-2026",
+      "company": {
+        "name": "Analog Devices",
+        "slug": "analog-devices"
+      },
+      "role": "Digital Design Engineer Intern",
+      "category": "design",
+      "apply_url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-NC-Durham/Digital-Design-Engineer-Intern_R265298",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        },
+        {
+          "city": "Durham",
+          "state": "NC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-24",
+        "discovered": "2026-08-24",
+        "last_verified": "2026-08-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "analog-devices-mixed-signal-engineer-intern-2026",
       "company": {
         "name": "Analog Devices",
@@ -7487,6 +7546,65 @@
       "dates": {
         "posted": "2026-08-20",
         "discovered": "2026-08-21",
+        "last_verified": "2026-08-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "analog-devices-product-engineer-intern-product-development-2026",
+      "company": {
+        "name": "Analog Devices",
+        "slug": "analog-devices"
+      },
+      "role": "Product Engineer Intern - Product Development",
+      "category": "software-engineering",
+      "apply_url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Product-Engineer--Product-Development--Intern_R265302",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Wilmington",
+          "state": "MA",
+          "country": "USA"
+        },
+        {
+          "city": "Durham",
+          "state": "NC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-24",
+        "discovered": "2026-08-24",
         "last_verified": "2026-08-24"
       },
       "status": "open",
@@ -14409,6 +14527,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "bny-engineering-developer-intern-engineering-2027",
+      "company": {
+        "name": "BNY",
+        "slug": "bny"
+      },
+      "role": "Engineering Developer Intern - Engineering",
+      "category": "software-engineering",
+      "apply_url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81252",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Lake Mary",
+          "state": "FL",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-24",
+        "discovered": "2026-08-24",
+        "last_verified": "2026-08-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "boeing-data-analytics-intern-2027",
       "company": {
         "name": "Boeing",
@@ -19551,7 +19721,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "canva-phd-research-scientist-intern-2026-1bb10f",
+      "id": "canva-phd-research-scientist-intern-2026",
       "company": {
         "name": "Canva",
         "slug": "canva"
@@ -19566,57 +19736,6 @@
         {
           "city": "San Francisco",
           "state": "CA",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-08-06",
-        "discovered": "2026-08-23",
-        "last_verified": "2026-08-24"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:vanshb03"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "canva-phd-research-scientist-intern-2026",
-      "company": {
-        "name": "Canva",
-        "slug": "canva"
-      },
-      "role": "PhD Research Scientist Intern",
-      "category": "research",
-      "apply_url": "https://jobs.smartrecruiters.com/Canva/6000000001291655",
-      "season": "fall",
-      "year": 2026,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "SF",
           "country": "USA"
         }
       ],
@@ -19651,7 +19770,7 @@
       "status": "open",
       "tags": [
         "auto-ingested",
-        "src:simplify"
+        "src:vanshb03"
       ]
     },
     {
@@ -19752,9 +19871,9 @@
       "dates": {
         "posted": "2026-08-06",
         "discovered": "2026-08-06",
-        "last_verified": "2026-08-23"
+        "last_verified": "2026-08-24"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -23315,6 +23434,58 @@
       "dates": {
         "posted": "2026-07-06",
         "discovered": "2026-08-01",
+        "last_verified": "2026-08-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "cigna-group-healthcare-policy-regulated-markets-intern-2027",
+      "company": {
+        "name": "Cigna Group",
+        "slug": "cigna-group"
+      },
+      "role": "Healthcare Policy & Regulated Markets Intern",
+      "category": "software-engineering",
+      "apply_url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/St-Louis-MO/Healthcare-Policy---Regulated-Markets-Intern_26006403",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "St. Louis",
+          "state": "MO",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-24",
+        "discovered": "2026-08-24",
         "last_verified": "2026-08-24"
       },
       "status": "open",
@@ -41946,7 +42117,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-08-24"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -41997,7 +42168,7 @@
         "discovered": "2026-08-21",
         "last_verified": "2026-08-24"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -42048,7 +42219,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-08-24"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -42155,7 +42326,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-08-24"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -42206,7 +42377,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-08-24"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -42257,7 +42428,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-08-24"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -42310,7 +42481,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-08-24"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -43535,6 +43706,110 @@
         "last_verified": "2026-08-14"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "gulfstream-software-engineer-intern-ief-2027",
+      "company": {
+        "name": "Gulfstream",
+        "slug": "gulfstream"
+      },
+      "role": "Software Engineer Intern - IEF",
+      "category": "software-engineering",
+      "apply_url": "https://careers.gulfstream.com/job/Savannah-Summer-2027-IEF-Software-Engineer-Collegiate-Associate-Intern-GA-31401/1421863200/?ats=successfactors",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Savannah",
+          "state": "GA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-24",
+        "discovered": "2026-08-24",
+        "last_verified": "2026-08-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "gulfstream-software-engineer-intern-innovation-engineering-and-flight-2027",
+      "company": {
+        "name": "Gulfstream",
+        "slug": "gulfstream"
+      },
+      "role": "Software Engineer Intern - Innovation, Engineering and Flight",
+      "category": "software-engineering",
+      "apply_url": "https://careers.gulfstream.com/job/Savannah-Spring-2027-IEF-Software-Engineer-Collegiate-Associate-Intern-GA-31401/1421676700/?ats=successfactors",
+      "season": "spring",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Savannah",
+          "state": "GA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-24",
+        "discovered": "2026-08-24",
+        "last_verified": "2026-08-24"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -58145,6 +58420,71 @@
     },
     {
       "schema_version": "1.0",
+      "id": "mastercard-software-engineer-intern-2027",
+      "company": {
+        "name": "Mastercard",
+        "slug": "mastercard"
+      },
+      "role": "Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Software-Engineer-Intern--Summer-2027---United-States_R-287618-1",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "O'Fallon",
+          "state": "MO",
+          "country": "USA"
+        },
+        {
+          "city": "Arlington County",
+          "country": "Arlington"
+        },
+        {
+          "city": "NYC",
+          "country": "USA"
+        },
+        {
+          "city": "Atlanta",
+          "state": "GA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-24",
+        "discovered": "2026-08-24",
+        "last_verified": "2026-08-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "mathtech-web-application-developer-intern-2026",
       "company": {
         "name": "Mathtech",
@@ -68308,6 +68648,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "nomagic-engineering-intern-software-or-hardware-2026",
+      "company": {
+        "name": "Nomagic",
+        "slug": "nomagic"
+      },
+      "role": "Engineering Intern - Software or Hardware",
+      "category": "hardware",
+      "apply_url": "https://jobs.lever.co/Nomagic/c7a6445d-3fd8-4bf1-90c0-ec01c2bef2af/apply",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Alpharetta",
+          "state": "GA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-24",
+        "discovered": "2026-08-24",
+        "last_verified": "2026-08-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "north-cloud-ai-automation-intern-2026",
       "company": {
         "name": "North Cloud",
@@ -72146,6 +72538,59 @@
         "last_verified": "2026-08-22"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "ontario-teachers-pension-plan-total-fund-risk-intern-months-2027",
+      "company": {
+        "name": "Ontario Teachers' Pension Plan",
+        "slug": "ontario-teachers-pension-plan"
+      },
+      "role": "Total Fund Risk Intern - Months",
+      "category": "software-engineering",
+      "apply_url": "https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers/job/Toronto-Canada/Intern---Total-Risk-Fund--May-2027---12-months-_7212",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Toronto",
+          "country": "ON"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-24",
+        "discovered": "2026-08-24",
+        "last_verified": "2026-08-24"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -104122,6 +104567,974 @@
         "last_verified": "2026-07-23"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "the-walt-disney-company-computer-science-computer-engineering-intern-multiple-teams-2027-74c080",
+      "company": {
+        "name": "The Walt Disney Company",
+        "slug": "the-walt-disney-company"
+      },
+      "role": "Computer Science / Computer Engineering Intern - Multiple Teams",
+      "category": "software-engineering",
+      "apply_url": "https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Lake-Buena-Vista-FL-USA/WDW-Computer-Science---Computer-Engineering-Interns--Spring-2027_10158145-1",
+      "season": "spring",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Lake Buena Vista",
+          "state": "FL",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-24",
+        "discovered": "2026-08-24",
+        "last_verified": "2026-08-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "the-walt-disney-company-computer-science-computer-engineering-intern-multiple-teams-2027",
+      "company": {
+        "name": "The Walt Disney Company",
+        "slug": "the-walt-disney-company"
+      },
+      "role": "Computer Science / Computer Engineering Intern - Multiple Teams",
+      "category": "software-engineering",
+      "apply_url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/WDW-Computer-Science---Computer-Engineering-Interns--Spring-2027_10158145",
+      "season": "spring",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Lake Buena Vista",
+          "state": "FL",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-24",
+        "discovered": "2026-08-24",
+        "last_verified": "2026-08-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "the-walt-disney-company-environmental-sustainability-data-analytics-intern-spring-20-2027-376036",
+      "company": {
+        "name": "The Walt Disney Company",
+        "slug": "the-walt-disney-company"
+      },
+      "role": "Environmental Sustainability Data Analytics Intern - Spring 2027",
+      "category": "software-engineering",
+      "apply_url": "https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Lake-Buena-Vista-FL-USA/Environmental-Sustainability-Data-Analytics-Intern--Spring-2027_10156341-1",
+      "season": "spring",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Lake Buena Vista",
+          "state": "FL",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-24",
+        "discovered": "2026-08-24",
+        "last_verified": "2026-08-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "the-walt-disney-company-environmental-sustainability-data-analytics-intern-spring-20-2027",
+      "company": {
+        "name": "The Walt Disney Company",
+        "slug": "the-walt-disney-company"
+      },
+      "role": "Environmental Sustainability Data Analytics Intern - Spring 2027",
+      "category": "software-engineering",
+      "apply_url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/Environmental-Sustainability-Data-Analytics-Intern--Spring-2027_10156341",
+      "season": "spring",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Lake Buena Vista",
+          "state": "FL",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-24",
+        "discovered": "2026-08-24",
+        "last_verified": "2026-08-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "the-walt-disney-company-geographic-information-systems-intern-gis-2027-1c47f6",
+      "company": {
+        "name": "The Walt Disney Company",
+        "slug": "the-walt-disney-company"
+      },
+      "role": "Geographic Information Systems Intern - GIS",
+      "category": "software-engineering",
+      "apply_url": "https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Anaheim-CA-USA/Geographic-Information-Systems--GIS--Intern--Spring-2027_10158899-1",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Anaheim",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-24",
+        "discovered": "2026-08-24",
+        "last_verified": "2026-08-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "the-walt-disney-company-geographic-information-systems-intern-gis-2027",
+      "company": {
+        "name": "The Walt Disney Company",
+        "slug": "the-walt-disney-company"
+      },
+      "role": "Geographic Information Systems Intern - GIS",
+      "category": "software-engineering",
+      "apply_url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Anaheim-CA-USA/Geographic-Information-Systems--GIS--Intern--Spring-2027_10158899",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Anaheim",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-24",
+        "discovered": "2026-08-24",
+        "last_verified": "2026-08-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "the-walt-disney-company-labor-systems-data-analytics-integration-intern-spring-2027-2027-b07ba2",
+      "company": {
+        "name": "The Walt Disney Company",
+        "slug": "the-walt-disney-company"
+      },
+      "role": "Labor Systems Data Analytics & Integration Intern - Spring 2027",
+      "category": "software-engineering",
+      "apply_url": "https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Lake-Buena-Vista-FL-USA/Labor-Systems-Data-Analytics---Integration-Intern--Spring-2027_10157891-2",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Lake Buena Vista",
+          "state": "FL",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-24",
+        "discovered": "2026-08-24",
+        "last_verified": "2026-08-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "the-walt-disney-company-labor-systems-data-analytics-integration-intern-spring-2027-2027",
+      "company": {
+        "name": "The Walt Disney Company",
+        "slug": "the-walt-disney-company"
+      },
+      "role": "Labor Systems Data Analytics & Integration Intern - Spring 2027",
+      "category": "software-engineering",
+      "apply_url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/Labor-Systems-Data-Analytics---Integration-Intern--Spring-2027_10157891-1",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Lake Buena Vista",
+          "state": "FL",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-24",
+        "discovered": "2026-08-24",
+        "last_verified": "2026-08-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "the-walt-disney-company-labor-systems-web-integration-intern-spring-2027-2027-eed923",
+      "company": {
+        "name": "The Walt Disney Company",
+        "slug": "the-walt-disney-company"
+      },
+      "role": "Labor Systems Web Integration Intern - Spring 2027",
+      "category": "software-engineering",
+      "apply_url": "https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Lake-Buena-Vista-FL-USA/Labor-Systems-Web-Integration-Intern--Spring-2027_10158184-1",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Lake Buena Vista",
+          "state": "FL",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-24",
+        "discovered": "2026-08-24",
+        "last_verified": "2026-08-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "the-walt-disney-company-labor-systems-web-integration-intern-spring-2027-2027",
+      "company": {
+        "name": "The Walt Disney Company",
+        "slug": "the-walt-disney-company"
+      },
+      "role": "Labor Systems Web Integration Intern - Spring 2027",
+      "category": "software-engineering",
+      "apply_url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/Labor-Systems-Web-Integration-Intern--Spring-2027_10158184",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Lake Buena Vista",
+          "state": "FL",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-24",
+        "discovered": "2026-08-24",
+        "last_verified": "2026-08-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "the-walt-disney-company-pricing-revenue-management-intern-2027-cdf4d4",
+      "company": {
+        "name": "The Walt Disney Company",
+        "slug": "the-walt-disney-company"
+      },
+      "role": "Pricing & Revenue Management Intern",
+      "category": "software-engineering",
+      "apply_url": "https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Celebration-FL-USA/Disney-Signature-Experiences-Pricing---Revenue-Management-Intern--Spring-2027_10158469-1",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Celebration",
+          "state": "FL",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-24",
+        "discovered": "2026-08-24",
+        "last_verified": "2026-08-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "the-walt-disney-company-pricing-revenue-management-intern-2027",
+      "company": {
+        "name": "The Walt Disney Company",
+        "slug": "the-walt-disney-company"
+      },
+      "role": "Pricing & Revenue Management Intern",
+      "category": "software-engineering",
+      "apply_url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Celebration-FL-USA/Disney-Signature-Experiences-Pricing---Revenue-Management-Intern--Spring-2027_10158469",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Celebration",
+          "state": "FL",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-24",
+        "discovered": "2026-08-24",
+        "last_verified": "2026-08-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "the-walt-disney-company-show-control-hardware-intern-2027-8959d1",
+      "company": {
+        "name": "The Walt Disney Company",
+        "slug": "the-walt-disney-company"
+      },
+      "role": "Show Control Hardware Intern",
+      "category": "hardware",
+      "apply_url": "https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Celebration-FL-USA/WDI-Show-Control-Hardware-Intern--Glendale--Spring-2027_10158467-1",
+      "season": "spring",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Orlando",
+          "state": "FL",
+          "country": "USA"
+        },
+        {
+          "city": "Celebration",
+          "state": "FL",
+          "country": "USA"
+        },
+        {
+          "city": "Glendale",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-24",
+        "discovered": "2026-08-24",
+        "last_verified": "2026-08-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "the-walt-disney-company-show-control-hardware-intern-2027",
+      "company": {
+        "name": "The Walt Disney Company",
+        "slug": "the-walt-disney-company"
+      },
+      "role": "Show Control Hardware Intern",
+      "category": "hardware",
+      "apply_url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Celebration-FL-USA/WDI-Show-Control-Hardware-Intern--Glendale--Spring-2027_10158467",
+      "season": "spring",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Orlando",
+          "state": "FL",
+          "country": "USA"
+        },
+        {
+          "city": "Celebration",
+          "state": "FL",
+          "country": "USA"
+        },
+        {
+          "city": "Glendale",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-24",
+        "discovered": "2026-08-24",
+        "last_verified": "2026-08-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "the-walt-disney-company-systems-software-engineer-intern-2027-14b6f6",
+      "company": {
+        "name": "The Walt Disney Company",
+        "slug": "the-walt-disney-company"
+      },
+      "role": "Systems Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Glendale-CA-USA/Glendale-System-Software-Engineering-Internship--Spring-2027_10158137-1",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Glendale",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-24",
+        "discovered": "2026-08-24",
+        "last_verified": "2026-08-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "the-walt-disney-company-systems-software-engineer-intern-2027",
+      "company": {
+        "name": "The Walt Disney Company",
+        "slug": "the-walt-disney-company"
+      },
+      "role": "Systems Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/Glendale-System-Software-Engineering-Internship--Spring-2027_10158137",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Glendale",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-24",
+        "discovered": "2026-08-24",
+        "last_verified": "2026-08-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "the-walt-disney-company-transportation-logistics-analytics-intern-spring-2027-2027-47fb9b",
+      "company": {
+        "name": "The Walt Disney Company",
+        "slug": "the-walt-disney-company"
+      },
+      "role": "Transportation Logistics & Analytics Intern - Spring 2027",
+      "category": "software-engineering",
+      "apply_url": "https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Lake-Buena-Vista-FL-USA/Walt-Disney-World-Transportation-Logistics---Analytics-Intern--Spring-2027_10158253-2",
+      "season": "spring",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Lake Buena Vista",
+          "state": "FL",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-24",
+        "discovered": "2026-08-24",
+        "last_verified": "2026-08-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "the-walt-disney-company-transportation-logistics-analytics-intern-spring-2027-2027",
+      "company": {
+        "name": "The Walt Disney Company",
+        "slug": "the-walt-disney-company"
+      },
+      "role": "Transportation Logistics & Analytics Intern - Spring 2027",
+      "category": "software-engineering",
+      "apply_url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/Walt-Disney-World-Transportation-Logistics---Analytics-Intern--Spring-2027_10158253-1",
+      "season": "spring",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Lake Buena Vista",
+          "state": "FL",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-24",
+        "discovered": "2026-08-24",
+        "last_verified": "2026-08-24"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"

@@ -1,0 +1,59 @@
+{
+  "schema_version": "1.0",
+  "id": "analog-devices-product-engineer-intern-product-development-2026",
+  "company": {
+    "name": "Analog Devices",
+    "slug": "analog-devices"
+  },
+  "role": "Product Engineer Intern - Product Development",
+  "category": "software-engineering",
+  "apply_url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Product-Engineer--Product-Development--Intern_R265302",
+  "season": "fall",
+  "year": 2026,
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "Wilmington",
+      "state": "MA",
+      "country": "USA"
+    },
+    {
+      "city": "Durham",
+      "state": "NC",
+      "country": "USA"
+    }
+  ],
+  "compensation": {
+    "currency": "USD",
+    "housing_stipend": false,
+    "relocation_assistance": false
+  },
+  "eligibility": {
+    "graduation_years": [],
+    "degree_levels": [
+      "masters"
+    ],
+    "citizenship_required": false,
+    "security_clearance_required": false,
+    "visa_sponsorship": "unknown"
+  },
+  "interview": {},
+  "tech": {
+    "required_skills": [],
+    "preferred_skills": [],
+    "languages": [],
+    "frameworks": [],
+    "cloud_platforms": [],
+    "resume_keywords": []
+  },
+  "dates": {
+    "posted": "2026-08-24",
+    "discovered": "2026-08-24",
+    "last_verified": "2026-08-24"
+  },
+  "status": "open",
+  "tags": [
+    "auto-ingested",
+    "src:simplify"
+  ]
+}

@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🔬 Research Internships
 
-**108** tracked · **70** open now
+**107** tracked · **69** open now
 
 ## Current openings
 
@@ -25,7 +25,6 @@
 | [ByteDance](generated/companies/bytedance.md) | [Research Scientist Intern - Multimedia Streaming](https://jobs.bytedance.com/en/position/7670354800621603125/detail) | San Diego, CA | Onsite | 2026-08-06 | Rolling | 🟢 Open | ❔ |
 | [CALSTART](generated/companies/calstart.md) | [Zero-Emission Data & Research Intern](https://jobs.lever.co/calstart/faf839b1-8c62-4fcf-991c-71750d8fc909/apply) | Remote | Remote | 2026-07-30 | Rolling | 🟢 Open | ❔ |
 | [Canva](generated/companies/canva.md) | [PhD Research Scientist Intern](https://jobs.smartrecruiters.com/Canva/6000000001291655-phd-research-scientist-intern) | San Francisco, CA | Onsite | 2026-08-06 | Rolling | 🟢 Open | ❔ |
-| [Canva](generated/companies/canva.md) | [PhD Research Scientist Intern](https://jobs.smartrecruiters.com/Canva/6000000001291655) | SF | Onsite | 2026-08-06 | Rolling | 🟢 Open | ❔ |
 | [Canva](generated/companies/canva.md) | [PhD Research Scientist Intern - Reinforcement Learning - Images](https://jobs.smartrecruiters.com/Canva/6000000001292768) | London | Onsite | 2026-08-06 | Rolling | 🟢 Open | ❔ |
 | [Cloudflare](generated/companies/cloudflare.md) | [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089407) | London | Onsite | 2026-07-29 | Rolling | 🟢 Open | ❔ |
 | [Cloudflare](generated/companies/cloudflare.md) | [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089379) | Austin, TX | Onsite | 2026-07-28 | Rolling | 🟢 Open | ❔ |
@@ -124,7 +123,7 @@
 - ByteDance (8)
 - NVIDIA (6)
 - Cloudflare (5)
-- Canva (4)
+- Canva (3)
 - Pennsylvania State University (3)
 - Tencent (3)
 - Together AI (3)

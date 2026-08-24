@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "canva-phd-research-scientist-intern-2026-1bb10f",
+  "id": "gulfstream-software-engineer-intern-innovation-engineering-and-flight-2027",
   "company": {
-    "name": "Canva",
-    "slug": "canva"
+    "name": "Gulfstream",
+    "slug": "gulfstream"
   },
-  "role": "PhD Research Scientist Intern",
-  "category": "research",
-  "apply_url": "https://jobs.smartrecruiters.com/Canva/6000000001291655-phd-research-scientist-intern",
-  "season": "fall",
-  "year": 2026,
+  "role": "Software Engineer Intern - Innovation, Engineering and Flight",
+  "category": "software-engineering",
+  "apply_url": "https://careers.gulfstream.com/job/Savannah-Spring-2027-IEF-Software-Engineer-Collegiate-Associate-Intern-GA-31401/1421676700/?ats=successfactors",
+  "season": "spring",
+  "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "San Francisco",
-      "state": "CA",
+      "city": "Savannah",
+      "state": "GA",
       "country": "USA"
     }
   ],
@@ -40,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-06",
-    "discovered": "2026-08-23",
+    "posted": "2026-08-24",
+    "discovered": "2026-08-24",
     "last_verified": "2026-08-24"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:vanshb03"
+    "src:simplify"
   ]
 }

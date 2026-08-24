@@ -22,26 +22,26 @@ _Generated 2026-08-24_
 | Neuralink | 22 |
 | Susquehanna International Group (SIG) | 22 |
 | Zipline | 19 |
+| The Walt Disney Company | 18 |
 | Jane Street | 17 |
 | Microsoft | 17 |
 | Palantir Technologies | 17 |
 | Rivian and Volkswagen Group Technologies | 16 |
 | Capital One | 15 |
-| Meta | 15 |
 
 ## Listings by category
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 1209 | `█████████████` |
+| software-engineering | 1232 | `██████████████` |
 | ai | 215 | `██` |
 | quant | 197 | `██` |
 | machine-learning | 141 | `██` |
-| research | 108 | `█` |
-| hardware | 98 | `█` |
+| research | 107 | `█` |
+| hardware | 101 | `█` |
 | product | 64 | `█` |
 | embedded | 56 | `█` |
-| design | 43 | `█` |
+| design | 44 | `█` |
 | data-science | 42 | `█` |
 | cloud | 42 | `█` |
 | data-engineering | 25 | `█` |
@@ -49,26 +49,26 @@ _Generated 2026-08-24_
 
 ## Newest listings
 
+- 2026-08-24 — **Analog Devices**: [Digital Design Engineer Intern](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-NC-Durham/Digital-Design-Engineer-Intern_R265298)
+- 2026-08-24 — **Analog Devices**: [Product Engineer Intern - Product Development](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Product-Engineer--Product-Development--Intern_R265302)
+- 2026-08-24 — **BNY**: [Engineering Developer Intern - Engineering](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81252)
+- 2026-08-24 — **Cigna Group**: [Healthcare Policy & Regulated Markets Intern](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/St-Louis-MO/Healthcare-Policy---Regulated-Markets-Intern_26006403)
+- 2026-08-24 — **Gulfstream**: [Software Engineer Intern - IEF](https://careers.gulfstream.com/job/Savannah-Summer-2027-IEF-Software-Engineer-Collegiate-Associate-Intern-GA-31401/1421863200/?ats=successfactors)
+- 2026-08-24 — **Gulfstream**: [Software Engineer Intern - Innovation, Engineering and Flight](https://careers.gulfstream.com/job/Savannah-Spring-2027-IEF-Software-Engineer-Collegiate-Associate-Intern-GA-31401/1421676700/?ats=successfactors)
 - 2026-08-24 — **Jump Trading**: [Campus Quantitative Researcher (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8027900)
 - 2026-08-24 — **Jump Trading**: [Campus Quantitative Trader (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8027922)
-- 2026-08-22 — **Analog Devices**: [Algorithm Development Engineer Intern](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Algorithm-Development-Engineer-Intern_R265306-1)
-- 2026-08-22 — **Analog Devices**: [Systems Integration Engineer Intern](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-NC-Durham/System-Integration-Engineer-Intern_R265305)
-- 2026-08-22 — **Elevate Semiconductor**: [Product Engineering Intern](https://apply.workable.com/elevate-semiconductor/j/F234DECA3C/apply)
-- 2026-08-22 — **Hitachi**: [Engineering Intern](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Raleigh-North-Carolina-United-States/XMLNAME-2027-Summer-Engineering-Intern---Raleigh_R0142571)
-- 2026-08-22 — **Microsoft**: [AI Software Engineer Intern - Edge](https://apply.careers.microsoft.com/careers/job/1970393556979054)
-- 2026-08-22 — **Springs Window Fashions**: [AI Analyst Intern - Consumer Business Unit](https://careers-springswindowfashions.icims.com/jobs/12875/job?mobile=true&needsRedirect=false)
-- 2026-08-22 — **Springs Window Fashions**: [Application Engineering Intern - Summer 2027](https://careers-springswindowfashions.icims.com/jobs/12893/job?mobile=true&needsRedirect=false)
-- 2026-08-22 — **Springs Window Fashions**: [Data Analyst Intern - Consumer Business Unit](https://careers-springswindowfashions.icims.com/jobs/12874/job?mobile=true&needsRedirect=false)
-- 2026-08-22 — **Springs Window Fashions**: [Dealer Business Operations & Analytics Intern - Summer 2027](https://careers-springswindowfashions.icims.com/jobs/12886/job?mobile=true&needsRedirect=false)
-- 2026-08-22 — **Springs Window Fashions**: [Product Management Competitive Product Assessment Intern - Summer 2027](https://careers-springswindowfashions.icims.com/jobs/12883/job?mobile=true&needsRedirect=false)
-- 2026-08-22 — **Springs Window Fashions**: [Product Management Dashboard Analytics Intern](https://careers-springswindowfashions.icims.com/jobs/12882/job?mobile=true&needsRedirect=false)
-- 2026-08-22 — **Springs Window Fashions**: [Product Management Intern](https://careers-springswindowfashions.icims.com/jobs/12892/job?mobile=true&needsRedirect=false)
-- 2026-08-22 — **Springs Window Fashions**: [Textile Engineering Intern - Summer 2027](https://careers-springswindowfashions.icims.com/jobs/12881/job?mobile=true&needsRedirect=false)
-- 2026-08-22 — **TikTok**: [AI Product Manager Intern - Product Social](https://lifeattiktok.com/search/7675616554318596357)
-- 2026-08-22 — **TikTok**: [Product Manager Intern - Content and Service Ads](https://lifeattiktok.com/search/7676283436713593093)
-- 2026-08-22 — **TikTok**: [Software Engineer Intern](https://lifeattiktok.com/search/7676276048527214901)
-- 2026-08-21 — **AMD**: [Data Analyst Intern/Co-op](https://careers.amd.com/jobs/91183?icims=1)
-- 2026-08-21 — **AMD**: [Data Analyst Intern/Co-op](https://careers.amd.com/jobs/91175?icims=1)
+- 2026-08-24 — **Mastercard**: [Software Engineer Intern](https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Software-Engineer-Intern--Summer-2027---United-States_R-287618-1)
+- 2026-08-24 — **Nomagic**: [Engineering Intern - Software or Hardware](https://jobs.lever.co/Nomagic/c7a6445d-3fd8-4bf1-90c0-ec01c2bef2af/apply)
+- 2026-08-24 — **Ontario Teachers' Pension Plan**: [Total Fund Risk Intern - Months](https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers/job/Toronto-Canada/Intern---Total-Risk-Fund--May-2027---12-months-_7212)
+- 2026-08-24 — **The Walt Disney Company**: [Computer Science / Computer Engineering Intern - Multiple Teams](https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Lake-Buena-Vista-FL-USA/WDW-Computer-Science---Computer-Engineering-Interns--Spring-2027_10158145-1)
+- 2026-08-24 — **The Walt Disney Company**: [Computer Science / Computer Engineering Intern - Multiple Teams](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/WDW-Computer-Science---Computer-Engineering-Interns--Spring-2027_10158145)
+- 2026-08-24 — **The Walt Disney Company**: [Environmental Sustainability Data Analytics Intern - Spring 2027](https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Lake-Buena-Vista-FL-USA/Environmental-Sustainability-Data-Analytics-Intern--Spring-2027_10156341-1)
+- 2026-08-24 — **The Walt Disney Company**: [Environmental Sustainability Data Analytics Intern - Spring 2027](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/Environmental-Sustainability-Data-Analytics-Intern--Spring-2027_10156341)
+- 2026-08-24 — **The Walt Disney Company**: [Geographic Information Systems Intern - GIS](https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Anaheim-CA-USA/Geographic-Information-Systems--GIS--Intern--Spring-2027_10158899-1)
+- 2026-08-24 — **The Walt Disney Company**: [Geographic Information Systems Intern - GIS](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Anaheim-CA-USA/Geographic-Information-Systems--GIS--Intern--Spring-2027_10158899)
+- 2026-08-24 — **The Walt Disney Company**: [Labor Systems Data Analytics & Integration Intern - Spring 2027](https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Lake-Buena-Vista-FL-USA/Labor-Systems-Data-Analytics---Integration-Intern--Spring-2027_10157891-2)
+- 2026-08-24 — **The Walt Disney Company**: [Labor Systems Data Analytics & Integration Intern - Spring 2027](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/Labor-Systems-Data-Analytics---Integration-Intern--Spring-2027_10157891-1)
+- 2026-08-24 — **The Walt Disney Company**: [Labor Systems Web Integration Intern - Spring 2027](https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Lake-Buena-Vista-FL-USA/Labor-Systems-Web-Integration-Intern--Spring-2027_10158184-1)
 
 ## Recently closed
 
@@ -105,7 +105,6 @@ _Generated 2026-08-24_
 - Cadence Design Systems — SSG Design Engineering Intern
 - CALSTART — Web Development Intern
 - Canva — PhD Research Scientist Intern - Edge AI
-- Canva — PhD Research Scientist Intern - Generative AI
 - Canva — PhD Research Scientist Intern - Reinforcement Learning for Diffusion Modelling
 - Capital One — Cyber Security Intern
 - Capital One — Software Engineer Intern
@@ -169,7 +168,14 @@ _Generated 2026-08-24_
 - Golden Pet Brands — Data Analytics Intern
 - Goldman Sachs — AWM Product Management Analyst Intern
 - Goldman Sachs — Quantitative Strategist Associate Intern - Asset and Wealth Management
+- Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
+- Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
 - Goldman Sachs — Summer Analyst Intern - Americas - AWM Product Management
+- Goldman Sachs — Summer Analyst Intern - FICC and Equities - Sales and Trading
+- Goldman Sachs — Summer Analyst Intern - FICC & Equities - Sales & Trading
+- Goldman Sachs — Summer Analyst Intern - Wealth Management - Product Management and Design
+- Goldman Sachs — Summer Associate Intern - Multiple Teams
 - Group 1001 — Quantitative Analysis Intern
 - Gulf Management — Software Engineer & Business Systems Intern
 - Gulfstream — Computer Science Intern - Advanced Structures and Materials
