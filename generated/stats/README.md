@@ -209,11 +209,13 @@ _Generated 2026-08-24_
 - JP Morgan Chase — Data & AI Intern - Analyst
 - JP Morgan Chase — Data Internship - Data & AI Program
 - KBR — Software Intern
+- Kensington — Data Analyst Intern - Revenue Optimization
 - Keysight Technologies — AI/ML Research Intern
 - Keysight Technologies — Software Engineer Intern - R&D - FPGA
 - Kimley-Horn — Software Developer Intern
 - L3Harris Technologies — Integration/Test Engineering Intern
 - L3Harris Technologies — Software Engineering Intern
+- Leidos — Engineering Intern - Defense Systems - Threat Modeling & Simulation Portfolio
 - Louisiana Blue — Data Modeler Intern
 - Louisiana Blue — Healthcare Price and Transparency Data Analyst Intern
 - Louisiana Blue — Operational Reporting & Data Analyst Intern - CW
@@ -254,6 +256,7 @@ _Generated 2026-08-24_
 - Ontario Teachers' Pension Plan — Risk Intern - Total Fund Risk
 - Otter Products — Artificial Intelligence Intern
 - Palantir — Forward Deployed Software Engineer Intern
+- PanAgora — Dynamic Intern
 - PEAK6 — Trading Bootcamp Micro-Internship - Summer 2027
 - PEAK6 — Trading Intern
 - Pendulum Intelligence — Product Manager Intern
@@ -295,6 +298,7 @@ _Generated 2026-08-24_
 - RTX — Methods Intern - Hot Section Engineering
 - RTX — Modeling, Simulation & Analysis Intern
 - RTX — Radar Digital Products Engineering Intern
+- RTX — Software Development Intern
 - RTX — Software Engineer Intern
 - RTX — Software Engineer Intern
 - RTX — Software Engineer Intern
@@ -353,6 +357,7 @@ _Generated 2026-08-24_
 - Tesla — Energy System Optimization Intern - Energy Optimization Software
 - Tesla — Inline Metrology Systems Design/Engineer Intern - Cell Engineering
 - Tesla — Machine Learning Engineer Intern - Machine Learning Engineer - Factory Software
+- Tesla — Software Engineer Intern - Linux Update Systems
 - Tesla — Software Engineer Intern - Software Engineer - AI Hardware Infrastructure
 - Tesla — Software Engineer Intern - Software Engineer - Data Platforms
 - Tesla — Software Engineer Intern - Software Engineer - Energy Engineering
