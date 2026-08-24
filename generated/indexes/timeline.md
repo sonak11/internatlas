@@ -1323,7 +1323,6 @@
 - The Nuclear Company — [Data Science Intern](https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383218008)
 - The Nuclear Company — [Software Engineering Intern](https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383171008)
 - The Nuclear Company — [Software Engineering Intern - Product - Platform](https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383236008)
-- Thomson Reuters — [Applied Research Intern - NLP/ML/GenAI](https://thomsonreuters.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Canada-Toronto-Ontario/Applied-Research-Intern--NLP-ML-GenAI-_JREQ202812)
 - Thomson Reuters — [Research Scientist Intern](https://thomsonreuters.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/United-Kingdom-London/Research-Scientist-Intern_JREQ198484)
 - thyssenkrupp — [Sustainability Systems Intern](https://thyssenkruppmaterialsna.wd12.myworkdayjobs.com/1/job/Cleveland-Ohio-USA/Sustainability-Systems-Intern_JR104148)
 - TikTok — [AI Agent Product Manager Intern - Product Infrastructure-Customer Service Platform](https://lifeattiktok.com/search/7670010726514493749)

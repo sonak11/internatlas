@@ -342,6 +342,7 @@ _Generated 2026-08-24_
 - Tesla — Thermal Controls Engineer Intern - Thermal Controls Engineer - Vehicle Controls
 - Texas Permanent School Fund Corporation — Equity Capital Markets Intern
 - The Home Depot — Co-op Intern
+- Thomson Reuters — Applied Research Intern - NLP/ML/GenAI
 - TMEIC Corporation Americas — Engineer Intern - Spring 2027 - Eis
 - TMX Group — Analyst Student Intern - Market Insights
 - Together AI — Research Intern - Model Shaping
