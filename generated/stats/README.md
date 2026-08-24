@@ -12,7 +12,7 @@ _Generated 2026-08-24_
 | Tesla | 110 |
 | RTX | 58 |
 | ByteDance | 54 |
-| Jump Trading | 43 |
+| Jump Trading | 45 |
 | Cloudflare | 34 |
 | American Express | 30 |
 | NVIDIA | 30 |
@@ -35,7 +35,7 @@ _Generated 2026-08-24_
 |---|---|---|
 | software-engineering | 1209 | `█████████████` |
 | ai | 215 | `██` |
-| quant | 195 | `██` |
+| quant | 197 | `██` |
 | machine-learning | 141 | `██` |
 | research | 108 | `█` |
 | hardware | 98 | `█` |
@@ -49,6 +49,8 @@ _Generated 2026-08-24_
 
 ## Newest listings
 
+- 2026-08-24 — **Jump Trading**: [Campus Quantitative Researcher (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8027900)
+- 2026-08-24 — **Jump Trading**: [Campus Quantitative Trader (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8027922)
 - 2026-08-22 — **Analog Devices**: [Algorithm Development Engineer Intern](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Algorithm-Development-Engineer-Intern_R265306-1)
 - 2026-08-22 — **Analog Devices**: [Systems Integration Engineer Intern](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-NC-Durham/System-Integration-Engineer-Intern_R265305)
 - 2026-08-22 — **Elevate Semiconductor**: [Product Engineering Intern](https://apply.workable.com/elevate-semiconductor/j/F234DECA3C/apply)
@@ -67,8 +69,6 @@ _Generated 2026-08-24_
 - 2026-08-22 — **TikTok**: [Software Engineer Intern](https://lifeattiktok.com/search/7676276048527214901)
 - 2026-08-21 — **AMD**: [Data Analyst Intern/Co-op](https://careers.amd.com/jobs/91183?icims=1)
 - 2026-08-21 — **AMD**: [Data Analyst Intern/Co-op](https://careers.amd.com/jobs/91175?icims=1)
-- 2026-08-21 — **AMD**: [Data Analyst Intern/Co-op](https://careers.amd.com/jobs/91179?icims=1)
-- 2026-08-21 — **AMD**: [Data Analyst Intern/Co-op](https://careers.amd.com/jobs/90895?icims=1)
 
 ## Recently closed
 
@@ -116,6 +116,7 @@ _Generated 2026-08-24_
 - Centific — Research Intern - Healthcare AI
 - Centific — Technical Intern
 - Centific — Technical Intern - Masters or PhD
+- Ciena — Software Developer Intern - Fall 2026
 - Ciena — Software Engineer Intern
 - Ciena — Software Engineer Intern
 - Ciena — Software Liquid Spectrum Applications Intern
@@ -233,6 +234,7 @@ _Generated 2026-08-24_
 - Nokia — Hardware Developer Engineer Co-op/Intern
 - Notion — Governance, Risk, and Compliance Intern (Fall 2026)
 - NVIDIA — Computer Architecture Intern
+- NVIDIA — Hardware ASIC Design Intern - Hardware
 - Ontario Teachers' Pension Plan — Finance Intern - Risk Analytics
 - Ontario Teachers' Pension Plan — Risk Intern - Total Fund Risk
 - Otter Products — Artificial Intelligence Intern

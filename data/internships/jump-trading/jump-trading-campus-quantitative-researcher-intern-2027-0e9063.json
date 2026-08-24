@@ -1,20 +1,21 @@
 {
   "schema_version": "1.0",
-  "id": "ciena-software-developer-intern-fall-2026-2026",
+  "id": "jump-trading-campus-quantitative-researcher-intern-2027-0e9063",
   "company": {
-    "name": "Ciena",
-    "slug": "ciena"
+    "name": "Jump Trading",
+    "slug": "jump-trading",
+    "career_page": "https://www.jumptrading.com/careers"
   },
-  "role": "Software Developer Intern - Fall 2026",
-  "category": "software-engineering",
-  "apply_url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Developer-Intern---Fall-2026_R031492",
-  "season": "fall",
-  "year": 2026,
+  "role": "Campus Quantitative Researcher (Intern)",
+  "category": "quant",
+  "apply_url": "https://www.jumptrading.com/hr/job?gh_jid=8027900",
+  "season": "summer",
+  "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Ottawa",
-      "country": "ON"
+      "city": "Hong Kong",
+      "country": "USA"
     }
   ],
   "compensation": {
@@ -39,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-07",
-    "discovered": "2026-08-07",
+    "posted": "2026-08-24",
+    "discovered": "2026-08-24",
     "last_verified": "2026-08-24"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:ats"
   ]
 }
