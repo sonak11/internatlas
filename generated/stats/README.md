@@ -91,6 +91,7 @@ _Generated 2026-08-24_
 - Assured Guaranty — Product Software Developer Intern
 - Astranis — Embedded Software Developer – Network/Payload Software Intern
 - Astranis — Software Engineer-Backend Intern
+- Availity — Software Engineer Intern - Multiple Teams
 - Bank of Montreal — Investment Intern Co-op - Co-op/Internship
 - Bloxd — Software Engineer Intern
 - Booz Allen — AI RAN Telecommunications Engineer Intern
@@ -242,6 +243,7 @@ _Generated 2026-08-24_
 - National Laboratory of the Rockies — Graduate Intern - Transportation Systems Analysis
 - National Laboratory of the Rockies — Software and Data Infrastructure Intern
 - National Reconnaissance Office — Summer Internship - Dr. Chris Scolese
+- Nationwide Children's Hospital — IGM Research Intern - RI Miller
 - Netsmart — Software Engineer Intern
 - New Balance — Sports Research Engineer Intern
 - Noblis — Machinery Silencing Technician Intern
@@ -320,6 +322,7 @@ _Generated 2026-08-24_
 - RTX — Software Engineer Intern - Summer 2027
 - RTX — Software Engineering Intern - Summer 2027
 - RTX — Systems Engineering Intern
+- RTX — Systems Technology Intern
 - RTX — Validation Engineer Intern - Product Safety - Certification & Validation
 - Salesforce — Software Engineer Intern - Future Pathways
 - Samsung Research America — Digital Health Algorithms Intern

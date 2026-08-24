@@ -81,7 +81,7 @@
 | [Atoms](../companies/atoms.md) | 3/3 | machine-learning, software-engineering |
 | [Auto-Owners Insurance](../companies/auto-owners-insurance.md) | 1/1 | software-engineering |
 | [Autodesk](../companies/autodesk.md) | 8/13 | ai, cloud, machine-learning, software-engineering |
-| [Availity](../companies/availity.md) | 1/1 | software-engineering |
+| [Availity](../companies/availity.md) | 0/1 | software-engineering |
 | [Avanade](../companies/avanade.md) | 0/1 | software-engineering |
 | [Axis Capital](../companies/axis-capital.md) | 1/1 | software-engineering |
 | [Axogen](../companies/axogen.md) | 0/1 | machine-learning |
@@ -444,7 +444,7 @@
 | [NationGraph](../companies/nationgraph.md) | 1/2 | software-engineering |
 | [National Laboratory of the Rockies](../companies/national-laboratory-of-the-rockies.md) | 8/12 | cloud, data-science, software-engineering |
 | [National Reconnaissance Office](../companies/national-reconnaissance-office.md) | 0/1 | software-engineering |
-| [Nationwide Children's Hospital](../companies/nationwide-children-s-hospital.md) | 1/2 | research |
+| [Nationwide Children's Hospital](../companies/nationwide-children-s-hospital.md) | 0/2 | research |
 | [Naver U.Hub INC](../companies/naver-u-hub-inc.md) | 1/1 | product |
 | [Navi AI](../companies/navi-ai.md) | 1/1 | software-engineering |
 | [Navy Federal](../companies/navy-federal.md) | 4/5 | data-engineering, data-science, software-engineering |
@@ -538,7 +538,7 @@
 | [RLI](../companies/rli.md) | 0/1 | product |
 | [ROCKWOOL Group](../companies/rockwool-group.md) | 0/2 | product, software-engineering |
 | [RRS Group](../companies/rrs-group.md) | 2/2 | software-engineering |
-| [RTX](../companies/rtx.md) | 19/58 | design, machine-learning, software-engineering |
+| [RTX](../companies/rtx.md) | 18/58 | design, machine-learning, software-engineering |
 | [Radix Trading](../companies/radix-trading.md) | 1/1 | quant |
 | [Rainmaker](../companies/rainmaker.md) | 0/1 | software-engineering |
 | [Rakuten International](../companies/rakuten-international.md) | 0/1 | software-engineering |
