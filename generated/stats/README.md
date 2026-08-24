@@ -33,15 +33,15 @@ _Generated 2026-08-24_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 1242 | `██████████████` |
+| software-engineering | 1243 | `█████████████` |
 | ai | 215 | `██` |
-| quant | 198 | `██` |
+| quant | 199 | `██` |
 | machine-learning | 141 | `██` |
 | research | 109 | `█` |
 | hardware | 101 | `█` |
 | product | 65 | `█` |
 | embedded | 56 | `█` |
-| data-science | 47 | `█` |
+| data-science | 48 | `█` |
 | design | 44 | `█` |
 | cloud | 42 | `█` |
 | data-engineering | 25 | `█` |
@@ -94,6 +94,7 @@ _Generated 2026-08-24_
 - Bank of Montreal — Investment Intern Co-op - Co-op/Internship
 - Bloxd — Software Engineer Intern
 - Booz Allen — AI RAN Telecommunications Engineer Intern
+- Booz Allen — AI RAN Telecommunications Engineer Intern
 - Bosch Home Comfort — ADAS Software Engineer Intern
 - BP — Geoscience Intern - Geoscientist
 - ByteDance — Research Scientist Intern
@@ -129,6 +130,8 @@ _Generated 2026-08-24_
 - Cloudflare — Marketing Events and Campaigns Intern (Fall 2026)
 - Cloudflare — Marketing Programs and Analytics Intern
 - Cloudflare — Marketing Programs and Analytics Intern (Fall 2026)
+- Cloudflare — Network Strategy Intern (Fall 2026)
+- Cloudflare — Network Strategy Intern (Fall 2026)
 - Cloudflare — Professional Services Intern – Global Customer Services (Fall 2026)
 - Cloudflare — Technical Marketing Intern (Fall 2026)
 - Cloudflare — U.S. Public Policy and AI Innovation Intern (Fall 2026)
@@ -154,6 +157,7 @@ _Generated 2026-08-24_
 - First American — Software Engineer Intern
 - Flexion Robotics — Research Intern
 - Fluency — Engineer Intern
+- Foxconn Industrial Internet — Data Visualization & Analytics Intern - Engineering
 - Foxconn Industrial Internet — Software Engineer Intern - Engineering and Operations
 - Freeform — Materials Engineer Intern
 - Frost — Computer Science Intern - Digital Services

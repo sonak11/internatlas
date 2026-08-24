@@ -1,23 +1,25 @@
 {
   "schema_version": "1.0",
-  "id": "infinitequant-quantitative-researcher-intern-summer-2027-2027",
+  "id": "polaris-predictive-data-science-intern-digital-it-2027",
   "company": {
-    "name": "InfiniteQuant",
-    "slug": "infinitequant"
+    "name": "Polaris",
+    "slug": "polaris"
   },
-  "role": "Quantitative Researcher Intern - Summer 2027",
-  "category": "quant",
-  "apply_url": "https://jobs.smartrecruiters.com/InfiniteQuant/744000142560129",
+  "role": "Predictive Data Science Intern - Digital & IT",
+  "category": "data-science",
+  "apply_url": "https://polaris.wd5.myworkdayjobs.com/PolarisJobs/job/Medina-MN-USA/Digital---IT---Predictive-Data-Science-Internship---Summer-2027_R30525",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Dubai - United Arab Emirates",
+      "city": "Medina",
+      "state": "MN",
       "country": "USA"
     },
     {
-      "city": "NYC",
+      "city": "Plymouth",
+      "state": "MN",
       "country": "USA"
     }
   ],
@@ -29,8 +31,7 @@
   "eligibility": {
     "graduation_years": [],
     "degree_levels": [
-      "masters",
-      "phd"
+      "masters"
     ],
     "citizenship_required": false,
     "security_clearance_required": false,
@@ -46,8 +47,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-10",
-    "discovered": "2026-08-10",
+    "posted": "2026-08-24",
+    "discovered": "2026-08-24",
     "last_verified": "2026-08-24"
   },
   "status": "open",

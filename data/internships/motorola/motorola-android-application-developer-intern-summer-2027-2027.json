@@ -1,23 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "infinitequant-quantitative-researcher-intern-summer-2027-2027",
+  "id": "motorola-android-application-developer-intern-summer-2027-2027",
   "company": {
-    "name": "InfiniteQuant",
-    "slug": "infinitequant"
+    "name": "Motorola",
+    "slug": "motorola"
   },
-  "role": "Quantitative Researcher Intern - Summer 2027",
-  "category": "quant",
-  "apply_url": "https://jobs.smartrecruiters.com/InfiniteQuant/744000142560129",
+  "role": "Android Application Developer Intern - Summer 2027",
+  "category": "software-engineering",
+  "apply_url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Android-Applications-Developer-Intern---Summer-2027_R67740",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Dubai - United Arab Emirates",
-      "country": "USA"
-    },
-    {
-      "city": "NYC",
+      "city": "Chicago",
+      "state": "IL",
       "country": "USA"
     }
   ],
@@ -29,8 +26,7 @@
   "eligibility": {
     "graduation_years": [],
     "degree_levels": [
-      "masters",
-      "phd"
+      "masters"
     ],
     "citizenship_required": false,
     "security_clearance_required": false,
@@ -46,8 +42,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-10",
-    "discovered": "2026-08-10",
+    "posted": "2026-08-24",
+    "discovered": "2026-08-24",
     "last_verified": "2026-08-24"
   },
   "status": "open",

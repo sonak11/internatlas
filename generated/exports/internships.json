@@ -1,6 +1,6 @@
 {
   "generated": "2026-08-24",
-  "count": 2300,
+  "count": 2303,
   "internships": [
     {
       "schema_version": "1.0",
@@ -15338,7 +15338,7 @@
         "discovered": "2026-08-10",
         "last_verified": "2026-08-24"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -25927,7 +25927,7 @@
         "discovered": "2026-07-18",
         "last_verified": "2026-08-24"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:ats"
@@ -25979,7 +25979,7 @@
         "discovered": "2026-07-18",
         "last_verified": "2026-08-24"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:ats"
@@ -39120,7 +39120,7 @@
         "discovered": "2026-08-11",
         "last_verified": "2026-08-24"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -49579,7 +49579,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "infinitequant-quantitative-researcher-intern-summer-2027-2027",
+      "id": "infinitequant-quantitative-researcher-intern-summer-2027-2027-7aadc8",
       "company": {
         "name": "InfiniteQuant",
         "slug": "infinitequant"
@@ -49626,6 +49626,64 @@
       },
       "dates": {
         "posted": "2026-08-13",
+        "discovered": "2026-08-24",
+        "last_verified": "2026-08-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "infinitequant-quantitative-researcher-intern-summer-2027-2027",
+      "company": {
+        "name": "InfiniteQuant",
+        "slug": "infinitequant"
+      },
+      "role": "Quantitative Researcher Intern - Summer 2027",
+      "category": "quant",
+      "apply_url": "https://jobs.smartrecruiters.com/InfiniteQuant/744000142560129",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Dubai - United Arab Emirates",
+          "country": "USA"
+        },
+        {
+          "city": "NYC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters",
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-10",
         "discovered": "2026-08-10",
         "last_verified": "2026-08-24"
       },
@@ -64957,6 +65015,60 @@
     },
     {
       "schema_version": "1.0",
+      "id": "motorola-android-application-developer-intern-summer-2027-2027",
+      "company": {
+        "name": "Motorola",
+        "slug": "motorola"
+      },
+      "role": "Android Application Developer Intern - Summer 2027",
+      "category": "software-engineering",
+      "apply_url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Android-Applications-Developer-Intern---Summer-2027_R67740",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Chicago",
+          "state": "IL",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-24",
+        "discovered": "2026-08-24",
+        "last_verified": "2026-08-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "motorola-android-platform-software-engineer-intern-summer-2027-2027",
       "company": {
         "name": "Motorola",
@@ -78677,6 +78789,65 @@
       "tags": [
         "auto-ingested",
         "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "polaris-predictive-data-science-intern-digital-it-2027",
+      "company": {
+        "name": "Polaris",
+        "slug": "polaris"
+      },
+      "role": "Predictive Data Science Intern - Digital & IT",
+      "category": "data-science",
+      "apply_url": "https://polaris.wd5.myworkdayjobs.com/PolarisJobs/job/Medina-MN-USA/Digital---IT---Predictive-Data-Science-Internship---Summer-2027_R30525",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Medina",
+          "state": "MN",
+          "country": "USA"
+        },
+        {
+          "city": "Plymouth",
+          "state": "MN",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-24",
+        "discovered": "2026-08-24",
+        "last_verified": "2026-08-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
       ]
     },
     {
