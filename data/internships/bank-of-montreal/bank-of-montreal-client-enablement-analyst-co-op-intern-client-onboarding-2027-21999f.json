@@ -1,21 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "goldman-sachs-awm-product-management-analyst-intern-2027",
+  "id": "bank-of-montreal-client-enablement-analyst-co-op-intern-client-onboarding-2027-21999f",
   "company": {
-    "name": "Goldman Sachs",
-    "slug": "goldman-sachs"
+    "name": "Bank of Montreal",
+    "slug": "bank-of-montreal"
   },
-  "role": "AWM Product Management Analyst Intern",
-  "category": "product",
-  "apply_url": "https://higher.gs.com/roles/171513?type=students",
-  "season": "summer",
+  "role": "Client Enablement Analyst Co-op Intern - Client Onboarding",
+  "category": "software-engineering",
+  "apply_url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/BMO-Capital-Markets-Winter-2027-Client-Enablement-Analyst--Toronto_R260021775",
+  "season": "winter",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Dallas",
-      "state": "TX",
-      "country": "USA"
+      "city": "Toronto",
+      "country": "ON"
     }
   ],
   "compensation": {
@@ -40,8 +39,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-19",
-    "discovered": "2026-08-20",
+    "posted": "2026-08-24",
+    "discovered": "2026-08-24",
     "last_verified": "2026-08-24"
   },
   "status": "open",

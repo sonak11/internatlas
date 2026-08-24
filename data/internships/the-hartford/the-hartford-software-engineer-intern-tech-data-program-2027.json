@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "goldman-sachs-awm-product-management-analyst-intern-2027",
+  "id": "the-hartford-software-engineer-intern-tech-data-program-2027",
   "company": {
-    "name": "Goldman Sachs",
-    "slug": "goldman-sachs"
+    "name": "The Hartford",
+    "slug": "the-hartford"
   },
-  "role": "AWM Product Management Analyst Intern",
-  "category": "product",
-  "apply_url": "https://higher.gs.com/roles/171513?type=students",
+  "role": "Software Engineer Intern - Tech & Data Program",
+  "category": "software-engineering",
+  "apply_url": "https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Tech---Data-Program-Summer-2027---Software-Engineer-Intern--Hartford-_R2626105-1",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Dallas",
-      "state": "TX",
+      "city": "Hartford",
+      "state": "CT",
       "country": "USA"
     }
   ],
@@ -25,7 +25,9 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "masters"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -40,8 +42,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-19",
-    "discovered": "2026-08-20",
+    "posted": "2026-08-24",
+    "discovered": "2026-08-24",
     "last_verified": "2026-08-24"
   },
   "status": "open",

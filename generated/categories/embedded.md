@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # ⚙️ Embedded Internships
 
-**56** tracked · **38** open now
+**57** tracked · **39** open now
 
 ## Current openings
 
@@ -16,6 +16,7 @@
 | [Atomic Semi](generated/companies/atomic-semi.md) | [Embedded Software Engineering Intern](https://jobs.ashbyhq.com/AtomicSemi/13e95284-dbcf-4cf2-8151-c9687dfc1889) | San Francisco, CA | Onsite | 2025-08-15 | Rolling | 🟢 Open | ✅ |
 | [Base Power](generated/companies/base-power.md) | [Firmware Engineer Intern](https://jobs.ashbyhq.com/base-power/a8ee9a66-e90b-42c2-a4a2-28d997c3e8c7/application?embed=true) | Austin, TX | Onsite | 2026-05-27 | Rolling | 🟢 Open | ❔ |
 | [Cirrus Logic](generated/companies/cirrus-logic.md) | [Embedded Software Test Engineer Intern](https://jobs.eu.lever.co/cirrus/2926421c-691a-434a-ae59-c828e7fcbf5b) | Austin, TX | Onsite | 2026-07-31 | Rolling | 🟢 Open | ❔ |
+| [Daktronics](generated/companies/daktronics.md) | [Hardware Design Co-op Intern - Firmware](https://careers-daktronics.icims.com/jobs/7518/job?mobile=true&needsRedirect=false) | Brookings, SD | Onsite | 2026-08-24 | Rolling | 🟢 Open | ❔ |
 | [Draper](generated/companies/draper.md) | [Embedded Quality & Fielded Systems Intern](https://draper.wd5.myworkdayjobs.com/en-US/draper_careers/job/Cambridge-MA/Embedded-Quality---Fielded-Systems-Intern_JR002718) | Cambridge, MA | Onsite | 2026-08-21 | Rolling | 🟢 Open | ❌ |
 | [E-Space](generated/companies/e-space.md) | [Embedded Software Engineer Intern](https://jobs.lever.co/espace/1e189295-a315-414d-8c0b-686f204e3cb3/apply) | Arlington, TX | Onsite | 2026-08-20 | Rolling | 🟢 Open | ❔ |
 | [Etched](generated/companies/etched.md) | [Firmware Intern](https://jobs.ashbyhq.com/Etched/1efd9b58-66fe-4798-a877-776857b4e189) | San Jose, CA | Onsite | 2026-05-22 | Rolling | 🟢 Open | ❔ |
@@ -79,6 +80,7 @@
 - Atomic Semi (1)
 - Base Power (1)
 - Cirrus Logic (1)
+- Daktronics (1)
 - Draper (1)
 - E-Space (1)
 - Figure (1)

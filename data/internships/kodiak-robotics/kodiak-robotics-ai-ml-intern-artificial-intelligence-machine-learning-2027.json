@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "goldman-sachs-awm-product-management-analyst-intern-2027",
+  "id": "kodiak-robotics-ai-ml-intern-artificial-intelligence-machine-learning-2027",
   "company": {
-    "name": "Goldman Sachs",
-    "slug": "goldman-sachs"
+    "name": "Kodiak Robotics",
+    "slug": "kodiak-robotics"
   },
-  "role": "AWM Product Management Analyst Intern",
-  "category": "product",
-  "apply_url": "https://higher.gs.com/roles/171513?type=students",
-  "season": "summer",
+  "role": "AI/ML Intern - Artificial Intelligence/Machine Learning",
+  "category": "machine-learning",
+  "apply_url": "https://job-boards.greenhouse.io/kodiak/jobs/4377407009",
+  "season": "winter",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Dallas",
-      "state": "TX",
+      "city": "Mountain View",
+      "state": "CA",
       "country": "USA"
     }
   ],
@@ -25,7 +25,10 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "masters",
+      "phd"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -40,8 +43,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-19",
-    "discovered": "2026-08-20",
+    "posted": "2026-08-24",
+    "discovered": "2026-08-24",
     "last_verified": "2026-08-24"
   },
   "status": "open",

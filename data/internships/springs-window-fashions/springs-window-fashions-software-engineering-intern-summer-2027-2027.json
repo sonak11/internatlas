@@ -1,21 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "goldman-sachs-awm-product-management-analyst-intern-2027",
+  "id": "springs-window-fashions-software-engineering-intern-summer-2027-2027",
   "company": {
-    "name": "Goldman Sachs",
-    "slug": "goldman-sachs"
+    "name": "Springs Window Fashions",
+    "slug": "springs-window-fashions"
   },
-  "role": "AWM Product Management Analyst Intern",
-  "category": "product",
-  "apply_url": "https://higher.gs.com/roles/171513?type=students",
+  "role": "Software Engineering Intern - Summer 2027",
+  "category": "software-engineering",
+  "apply_url": "https://careers-springswindowfashions.icims.com/jobs/12891/job?mobile=true&needsRedirect=false",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Dallas",
-      "state": "TX",
-      "country": "USA"
+      "city": "Long Island City",
+      "country": "Queens"
     }
   ],
   "compensation": {
@@ -40,8 +39,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-19",
-    "discovered": "2026-08-20",
+    "posted": "2026-08-24",
+    "discovered": "2026-08-24",
     "last_verified": "2026-08-24"
   },
   "status": "open",

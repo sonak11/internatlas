@@ -1,20 +1,24 @@
 {
   "schema_version": "1.0",
-  "id": "goldman-sachs-awm-product-management-analyst-intern-2027",
+  "id": "atoms-robotics-software-engineer-intern-2026",
   "company": {
-    "name": "Goldman Sachs",
-    "slug": "goldman-sachs"
+    "name": "Atoms",
+    "slug": "atoms"
   },
-  "role": "AWM Product Management Analyst Intern",
-  "category": "product",
-  "apply_url": "https://higher.gs.com/roles/171513?type=students",
-  "season": "summer",
-  "year": 2027,
+  "role": "Robotics Software Engineer Intern",
+  "category": "software-engineering",
+  "apply_url": "https://job-boards.greenhouse.io/cssmerge/jobs/8695475002",
+  "season": "fall",
+  "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Dallas",
-      "state": "TX",
+      "state": "LA",
+      "country": "USA"
+    },
+    {
+      "city": "Pittsburgh",
+      "state": "PA",
       "country": "USA"
     }
   ],
@@ -25,7 +29,9 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "masters"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -40,8 +46,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-19",
-    "discovered": "2026-08-20",
+    "posted": "2026-08-24",
+    "discovered": "2026-08-24",
     "last_verified": "2026-08-24"
   },
   "status": "open",

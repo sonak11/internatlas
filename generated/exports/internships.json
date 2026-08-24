@@ -1,6 +1,6 @@
 {
   "generated": "2026-08-24",
-  "count": 2329,
+  "count": 2347,
   "internships": [
     {
       "schema_version": "1.0",
@@ -10672,7 +10672,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-24"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -11601,6 +11601,64 @@
       "dates": {
         "posted": "2026-08-10",
         "discovered": "2026-08-10",
+        "last_verified": "2026-08-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "atoms-robotics-software-engineer-intern-2026",
+      "company": {
+        "name": "Atoms",
+        "slug": "atoms"
+      },
+      "role": "Robotics Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://job-boards.greenhouse.io/cssmerge/jobs/8695475002",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "state": "LA",
+          "country": "USA"
+        },
+        {
+          "city": "Pittsburgh",
+          "state": "PA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-24",
+        "discovered": "2026-08-24",
         "last_verified": "2026-08-24"
       },
       "status": "open",
@@ -12847,7 +12905,7 @@
         "discovered": "2026-08-14",
         "last_verified": "2026-08-24"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -13052,6 +13110,159 @@
         "last_verified": "2026-08-09"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "bank-of-montreal-client-enablement-analyst-co-op-intern-client-onboarding-2027-21999f",
+      "company": {
+        "name": "Bank of Montreal",
+        "slug": "bank-of-montreal"
+      },
+      "role": "Client Enablement Analyst Co-op Intern - Client Onboarding",
+      "category": "software-engineering",
+      "apply_url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/BMO-Capital-Markets-Winter-2027-Client-Enablement-Analyst--Toronto_R260021775",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Toronto",
+          "country": "ON"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-24",
+        "discovered": "2026-08-24",
+        "last_verified": "2026-08-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "bank-of-montreal-client-enablement-analyst-co-op-intern-client-onboarding-2027",
+      "company": {
+        "name": "Bank of Montreal",
+        "slug": "bank-of-montreal"
+      },
+      "role": "Client Enablement Analyst Co-op Intern - Client Onboarding",
+      "category": "software-engineering",
+      "apply_url": "https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/BMO-Capital-Markets-Winter-2027-Client-Enablement-Analyst--Toronto_R260021775-1",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Toronto",
+          "country": "ON"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-24",
+        "discovered": "2026-08-24",
+        "last_verified": "2026-08-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "bank-of-montreal-client-enablement-analyst-co-op-intern-customer-shared-servi-2027",
+      "company": {
+        "name": "Bank of Montreal",
+        "slug": "bank-of-montreal"
+      },
+      "role": "Client Enablement Analyst Co-op/Intern - Customer Shared Services",
+      "category": "software-engineering",
+      "apply_url": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/BMO-Capital-Markets-Winter-2027-Client-Enablement-Analyst--Toronto_R260021775-3",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Toronto",
+          "country": "ON"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-24",
+        "discovered": "2026-08-24",
+        "last_verified": "2026-08-24"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -30498,6 +30709,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "daktronics-hardware-design-co-op-intern-firmware-2027",
+      "company": {
+        "name": "Daktronics",
+        "slug": "daktronics"
+      },
+      "role": "Hardware Design Co-op Intern - Firmware",
+      "category": "embedded",
+      "apply_url": "https://careers-daktronics.icims.com/jobs/7518/job?mobile=true&needsRedirect=false",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Brookings",
+          "state": "SD",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-24",
+        "discovered": "2026-08-24",
+        "last_verified": "2026-08-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "dallas-college-sas-intern-2026",
       "company": {
         "name": "Dallas College",
@@ -43398,9 +43661,9 @@
       "dates": {
         "posted": "2026-08-19",
         "discovered": "2026-08-20",
-        "last_verified": "2026-08-23"
+        "last_verified": "2026-08-24"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -57033,6 +57296,113 @@
     },
     {
       "schema_version": "1.0",
+      "id": "kodiak-robotics-ai-ml-intern-artificial-intelligence-machine-learning-2027",
+      "company": {
+        "name": "Kodiak Robotics",
+        "slug": "kodiak-robotics"
+      },
+      "role": "AI/ML Intern - Artificial Intelligence/Machine Learning",
+      "category": "machine-learning",
+      "apply_url": "https://job-boards.greenhouse.io/kodiak/jobs/4377407009",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Mountain View",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters",
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-24",
+        "discovered": "2026-08-24",
+        "last_verified": "2026-08-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "kodiak-robotics-planning-intern-mission-planning-2027",
+      "company": {
+        "name": "Kodiak Robotics",
+        "slug": "kodiak-robotics"
+      },
+      "role": "Planning Intern - Mission Planning",
+      "category": "software-engineering",
+      "apply_url": "https://job-boards.greenhouse.io/kodiak/jobs/4378548009",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Mountain View",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-24",
+        "discovered": "2026-08-24",
+        "last_verified": "2026-08-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "kognitos-forward-deployed-engineer-intern-2026",
       "company": {
         "name": "Kognitos",
@@ -60112,7 +60482,7 @@
         "discovered": "2026-08-21",
         "last_verified": "2026-08-24"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -65426,6 +65796,61 @@
     },
     {
       "schema_version": "1.0",
+      "id": "monolithic-power-systems-ai-developer-intern-2026",
+      "company": {
+        "name": "Monolithic Power Systems",
+        "slug": "monolithic-power-systems"
+      },
+      "role": "AI Developer Intern",
+      "category": "ai",
+      "apply_url": "https://monolithicpower.wd12.myworkdayjobs.com/MPS_Careers/job/San-Jose---California/AI-Developer-Intern_R-1756",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters",
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-24",
+        "discovered": "2026-08-24",
+        "last_verified": "2026-08-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "monolithic-power-systems-inc-application-engineer-intern-2026",
       "company": {
         "name": "Monolithic Power Systems, Inc.",
@@ -66424,6 +66849,58 @@
       "dates": {
         "posted": "2026-08-11",
         "discovered": "2026-08-11",
+        "last_verified": "2026-08-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "msa-safety-software-engineer-intern-product-development-summer-2027-2027",
+      "company": {
+        "name": "MSA Safety",
+        "slug": "msa-safety"
+      },
+      "role": "Software Engineer Intern - Product Development - Summer 2027",
+      "category": "software-engineering",
+      "apply_url": "https://careers.msasafety.com/jobs/9993?icims=1",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Cranberry Township",
+          "state": "PA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-24",
+        "discovered": "2026-08-24",
         "last_verified": "2026-08-24"
       },
       "status": "open",
@@ -85970,6 +86447,57 @@
     },
     {
       "schema_version": "1.0",
+      "id": "royal-bank-of-canada-data-engineer-intern-chief-data-office-2027",
+      "company": {
+        "name": "Royal Bank of Canada",
+        "slug": "royal-bank-of-canada"
+      },
+      "role": "Data Engineer Intern - Chief Data Office",
+      "category": "data-engineering",
+      "apply_url": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---CDO--Data-Engineer-Intern--4-Months-_R-0000184902",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Toronto",
+          "country": "ON"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-24",
+        "discovered": "2026-08-24",
+        "last_verified": "2026-08-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "royal-bank-of-canada-data-intern-ecco-2027-6c6aed",
       "company": {
         "name": "Royal Bank of Canada",
@@ -86266,6 +86794,57 @@
       "dates": {
         "posted": "2026-08-20",
         "discovered": "2026-08-20",
+        "last_verified": "2026-08-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "royal-bank-of-canada-product-management-intern-global-asset-management-2027",
+      "company": {
+        "name": "Royal Bank of Canada",
+        "slug": "royal-bank-of-canada"
+      },
+      "role": "Product Management Intern - Global Asset Management",
+      "category": "product",
+      "apply_url": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/XMLNAME-2027-Global-Asset-Management--Product-Management-Intern-Winter-Spring--8-months-_R-0000185514",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Toronto",
+          "country": "ON"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-24",
+        "discovered": "2026-08-24",
         "last_verified": "2026-08-24"
       },
       "status": "open",
@@ -89631,6 +90210,108 @@
       "dates": {
         "posted": "2026-08-17",
         "discovered": "2026-08-17",
+        "last_verified": "2026-08-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "sage-software-engineer-intern-edge-summer-2027-2027",
+      "company": {
+        "name": "Sage",
+        "slug": "sage"
+      },
+      "role": "Software Engineer Intern - Edge - Summer 2027",
+      "category": "software-engineering",
+      "apply_url": "https://job-boards.greenhouse.io/sage49/jobs/6131191004",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "NYC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-24",
+        "discovered": "2026-08-24",
+        "last_verified": "2026-08-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "sage-software-engineer-intern-full-stack-2027",
+      "company": {
+        "name": "Sage",
+        "slug": "sage"
+      },
+      "role": "Software Engineer Intern - Full Stack",
+      "category": "software-engineering",
+      "apply_url": "https://job-boards.greenhouse.io/sage49/jobs/6131185004",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "NYC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-24",
+        "discovered": "2026-08-24",
         "last_verified": "2026-08-24"
       },
       "status": "open",
@@ -95708,6 +96389,57 @@
       "dates": {
         "posted": "2026-08-22",
         "discovered": "2026-08-22",
+        "last_verified": "2026-08-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "springs-window-fashions-software-engineering-intern-summer-2027-2027",
+      "company": {
+        "name": "Springs Window Fashions",
+        "slug": "springs-window-fashions"
+      },
+      "role": "Software Engineering Intern - Summer 2027",
+      "category": "software-engineering",
+      "apply_url": "https://careers-springswindowfashions.icims.com/jobs/12891/job?mobile=true&needsRedirect=false",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Long Island City",
+          "country": "Queens"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-24",
+        "discovered": "2026-08-24",
         "last_verified": "2026-08-24"
       },
       "status": "open",
@@ -106492,6 +107224,164 @@
       "dates": {
         "posted": "2026-08-04",
         "discovered": "2026-08-05",
+        "last_verified": "2026-08-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "the-hartford-data-engineer-intern-tech-data-program-2027",
+      "company": {
+        "name": "The Hartford",
+        "slug": "the-hartford"
+      },
+      "role": "Data Engineer Intern - Tech & Data Program",
+      "category": "data-engineering",
+      "apply_url": "https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Columbus-OH/Tech---Data-Program-Summer-2027---Data-Engineer-Intern--Columbus-_R2626610",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Columbus",
+          "state": "OH",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-24",
+        "discovered": "2026-08-24",
+        "last_verified": "2026-08-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "the-hartford-data-engineer-intern-technology-data-ai-and-operations-2027",
+      "company": {
+        "name": "The Hartford",
+        "slug": "the-hartford"
+      },
+      "role": "Data Engineer Intern - Technology, Data, AI, and Operations",
+      "category": "ai",
+      "apply_url": "https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Tech---Data-Program-Summer-2027---Data-Engineer-Intern--Hartford-_R2626103-1",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Hartford",
+          "state": "CT",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-24",
+        "discovered": "2026-08-24",
+        "last_verified": "2026-08-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "the-hartford-software-engineer-intern-tech-data-program-2027",
+      "company": {
+        "name": "The Hartford",
+        "slug": "the-hartford"
+      },
+      "role": "Software Engineer Intern - Tech & Data Program",
+      "category": "software-engineering",
+      "apply_url": "https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Tech---Data-Program-Summer-2027---Software-Engineer-Intern--Hartford-_R2626105-1",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Hartford",
+          "state": "CT",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-24",
+        "discovered": "2026-08-24",
         "last_verified": "2026-08-24"
       },
       "status": "open",
@@ -124450,6 +125340,58 @@
         "last_verified": "2026-08-21"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "westinghouse-electric-company-computer-engineering-software-engineering-intern-2027",
+      "company": {
+        "name": "Westinghouse Electric Company",
+        "slug": "westinghouse-electric-company"
+      },
+      "role": "Computer Engineering / Software Engineering Intern",
+      "category": "software-engineering",
+      "apply_url": "https://careers.westinghousenuclear.com/job/Cranberry-Township-Summer-Intern-Computer-Engineering-Software-Engineering-NC/1422595200/?ats=successfactors",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Cranberry Township",
+          "state": "PA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-24",
+        "discovered": "2026-08-24",
+        "last_verified": "2026-08-24"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"

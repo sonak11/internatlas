@@ -1,20 +1,19 @@
 {
   "schema_version": "1.0",
-  "id": "goldman-sachs-awm-product-management-analyst-intern-2027",
+  "id": "sage-software-engineer-intern-edge-summer-2027-2027",
   "company": {
-    "name": "Goldman Sachs",
-    "slug": "goldman-sachs"
+    "name": "Sage",
+    "slug": "sage"
   },
-  "role": "AWM Product Management Analyst Intern",
-  "category": "product",
-  "apply_url": "https://higher.gs.com/roles/171513?type=students",
+  "role": "Software Engineer Intern - Edge - Summer 2027",
+  "category": "software-engineering",
+  "apply_url": "https://job-boards.greenhouse.io/sage49/jobs/6131191004",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Dallas",
-      "state": "TX",
+      "city": "NYC",
       "country": "USA"
     }
   ],
@@ -40,8 +39,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-19",
-    "discovered": "2026-08-20",
+    "posted": "2026-08-24",
+    "discovered": "2026-08-24",
     "last_verified": "2026-08-24"
   },
   "status": "open",

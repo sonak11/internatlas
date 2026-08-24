@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "goldman-sachs-awm-product-management-analyst-intern-2027",
+  "id": "msa-safety-software-engineer-intern-product-development-summer-2027-2027",
   "company": {
-    "name": "Goldman Sachs",
-    "slug": "goldman-sachs"
+    "name": "MSA Safety",
+    "slug": "msa-safety"
   },
-  "role": "AWM Product Management Analyst Intern",
-  "category": "product",
-  "apply_url": "https://higher.gs.com/roles/171513?type=students",
+  "role": "Software Engineer Intern - Product Development - Summer 2027",
+  "category": "software-engineering",
+  "apply_url": "https://careers.msasafety.com/jobs/9993?icims=1",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Dallas",
-      "state": "TX",
+      "city": "Cranberry Township",
+      "state": "PA",
       "country": "USA"
     }
   ],
@@ -40,8 +40,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-19",
-    "discovered": "2026-08-20",
+    "posted": "2026-08-24",
+    "discovered": "2026-08-24",
     "last_verified": "2026-08-24"
   },
   "status": "open",

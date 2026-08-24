@@ -6,6 +6,9 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
+| Bank of Montreal | [Client Enablement Analyst Co-op Intern - Client Onboarding](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/BMO-Capital-Markets-Winter-2027-Client-Enablement-Analyst--Toronto_R260021775) | Toronto | Onsite | 2026-08-24 | Rolling | 🟢 Open | ❔ |
+| Bank of Montreal | [Client Enablement Analyst Co-op Intern - Client Onboarding](https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/BMO-Capital-Markets-Winter-2027-Client-Enablement-Analyst--Toronto_R260021775-1) | Toronto | Onsite | 2026-08-24 | Rolling | 🟢 Open | ❔ |
+| Bank of Montreal | [Client Enablement Analyst Co-op/Intern - Customer Shared Services](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/BMO-Capital-Markets-Winter-2027-Client-Enablement-Analyst--Toronto_R260021775-3) | Toronto | Onsite | 2026-08-24 | Rolling | 🟢 Open | ❔ |
 | Bank of Montreal | [Climate Risk Reporting Analyst Co-op Intern - Winter 2027 - 4 Months](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Climate-Risk-Reporting-Analyst--Winter-2027--Co-op-Internship----4-Months_R260024768) | Toronto | Onsite | 2026-08-21 | Rolling | 🟢 Open | ❔ |
 | Bank of Montreal | [Data Science Analyst Co-op Intern - Audit AI & Analytics](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Data-Science-Analyst---Audit-AI---Analytics--Winter-2027--Co-op-Internship----4-Months_R260024761) | Toronto | Onsite | 2026-08-21 | Rolling | 🟢 Open | ❔ |
 | Bank of Montreal | [Data Science Risk Analyst Co-op Intern](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Data-Science-Risk-Analyst--Winter-2027--Co-op-Internship----4-Months_R260024735) | Toronto | Onsite | 2026-08-21 | Rolling | 🟢 Open | ❔ |

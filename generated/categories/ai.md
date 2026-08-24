@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🤖 AI Internships
 
-**216** tracked · **141** open now
+**218** tracked · **143** open now
 
 ## Current openings
 
@@ -78,6 +78,7 @@
 | [Microsoft](generated/companies/microsoft.md) | [AI Software Engineer Intern - Edge](https://apply.careers.microsoft.com/careers/job/1970393556979054) | Redmond, WA +1 | Onsite | 2026-08-22 | Rolling | 🟢 Open | ❔ |
 | [Millennium](generated/companies/millennium.md) | [Applied AI Engineer Intern](https://career.mlp.com/careers/job/755957778821) | New York, NY | Onsite | 2026-08-21 | Rolling | 🟢 Open | ❔ |
 | [Millennium](generated/companies/millennium.md) | [Applied AI Engineer Intern](https://career.mlp.com/careers/job/755957778848) | Miami, FL | Onsite | 2026-08-21 | Rolling | 🟢 Open | ❔ |
+| [Monolithic Power Systems](generated/companies/monolithic-power-systems.md) | [AI Developer Intern](https://monolithicpower.wd12.myworkdayjobs.com/MPS_Careers/job/San-Jose---California/AI-Developer-Intern_R-1756) | San Jose, CA | Onsite | 2026-08-24 | Rolling | 🟢 Open | ❔ |
 | [Montenson](generated/companies/montenson.md) | [Artificial Intelligence Intern](https://fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23339) | Minnesota | Onsite | 2026-08-10 | Rolling | 🟢 Open | ❔ |
 | [Mosaic](generated/companies/mosaic.md) | [Artificial Intelligence Co-op Intern](https://mosaic.wd5.myworkdayjobs.com/mosaic/job/US---Tampa-FL-Lithia-area/Artificial-Intelligence-Co-Op-Intern---Spring-2027_64729) | Tampa, FL | Onsite | 2026-08-20 | Rolling | 🟢 Open | ❔ |
 | [Nelnet](generated/companies/nelnet.md) | [Agentic AI Intern](https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Lincoln-NE/Intern-Program---Agentic-AI_R22904) | Lincoln, NE | Onsite | 2026-07-27 | Rolling | 🟢 Open | ❔ |
@@ -123,6 +124,7 @@
 | [Tesla](generated/companies/tesla.md) | [Software Engineer Intern - AI Inference Co Design](https://www.tesla.com/careers/search/job/279600) | Palo Alto, CA | Onsite | 2026-08-12 | Rolling | 🟢 Open | ❔ |
 | [Tesla](generated/companies/tesla.md) | [Software Engineer Intern - Software Engineer - AI Infrastructure](https://www.tesla.com/careers/search/job/278578) | Palo Alto, CA | Onsite | 2026-07-30 | Rolling | 🟢 Open | ❔ |
 | [Tesla](generated/companies/tesla.md) | [Software Integration Engineer Intern, AI Platforms](https://www.tesla.com/careers/search/job/247873?source=Indeed&source=Indeed&tags=organicjob) | Palo Alto, CA | Onsite | 2025-08-08 | Rolling | 🟢 Open | ❔ |
+| [The Hartford](generated/companies/the-hartford.md) | [Data Engineer Intern - Technology, Data, AI, and Operations](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Tech---Data-Program-Summer-2027---Data-Engineer-Intern--Hartford-_R2626103-1) | Hartford, CT | Onsite | 2026-08-24 | Rolling | 🟢 Open | ❔ |
 | [The Nuclear Company](generated/companies/the-nuclear-company.md) | [AI Applied Research Intern](https://job-boards.greenhouse.io/thenuclearcompany/jobs/5391923008) | Washington, DC | Onsite | 2026-08-14 | Rolling | 🟢 Open | ❌ |
 | [The Nuclear Company](generated/companies/the-nuclear-company.md) | [AI Applied Research Intern](https://job-boards.greenhouse.io/thenuclearcompany/jobs/5391888008) | Washington, DC | Onsite | 2026-08-14 | Rolling | 🟢 Open | ❔ |
 | [The Nuclear Company](generated/companies/the-nuclear-company.md) | [AI Software Engineer Intern](https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383113008) | Washington, DC | Onsite | 2026-08-07 | Rolling | 🟢 Open | ❔ |
@@ -290,6 +292,7 @@
 - McKesson (1)
 - Medpace (1)
 - Medpace, Inc. (1)
+- Monolithic Power Systems (1)
 - Montenson (1)
 - Mosaic (1)
 - Nelnet (1)
@@ -306,6 +309,7 @@
 - SPREEAI (1)
 - Springs Window Fashions (1)
 - StepStone Group (1)
+- The Hartford (1)
 - Turabify (1)
 - Two Sigma (1)
 - University of St. Thomas (1)

@@ -27,24 +27,24 @@ _Generated 2026-08-24_
 | Microsoft | 17 |
 | Palantir Technologies | 17 |
 | Rivian and Volkswagen Group Technologies | 16 |
-| Capital One | 15 |
+| Bank of Montreal | 15 |
 
 ## Listings by category
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 1261 | `██████████████` |
-| ai | 216 | `██` |
+| software-engineering | 1272 | `██████████████` |
+| ai | 218 | `██` |
 | quant | 201 | `██` |
-| machine-learning | 143 | `██` |
+| machine-learning | 144 | `██` |
 | research | 109 | `█` |
 | hardware | 101 | `█` |
-| product | 67 | `█` |
-| embedded | 56 | `█` |
+| product | 68 | `█` |
+| embedded | 57 | `█` |
 | data-science | 49 | `█` |
 | design | 44 | `█` |
 | cloud | 42 | `█` |
-| data-engineering | 25 | `█` |
+| data-engineering | 27 | `█` |
 | security | 15 | `█` |
 
 ## Newest listings
@@ -53,6 +53,10 @@ _Generated 2026-08-24_
 - 2026-08-24 — **Analog Devices**: [Product Engineer Intern - Product Development](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Product-Engineer--Product-Development--Intern_R265302)
 - 2026-08-24 — **Apple**: [GPU Intern](https://jobs.apple.com/en-us/details/200679652)
 - 2026-08-24 — **Apple**: [GPU Intern](https://jobs.apple.com/en-us/details/200679650)
+- 2026-08-24 — **Atoms**: [Robotics Software Engineer Intern](https://job-boards.greenhouse.io/cssmerge/jobs/8695475002)
+- 2026-08-24 — **Bank of Montreal**: [Client Enablement Analyst Co-op Intern - Client Onboarding](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/BMO-Capital-Markets-Winter-2027-Client-Enablement-Analyst--Toronto_R260021775)
+- 2026-08-24 — **Bank of Montreal**: [Client Enablement Analyst Co-op Intern - Client Onboarding](https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/BMO-Capital-Markets-Winter-2027-Client-Enablement-Analyst--Toronto_R260021775-1)
+- 2026-08-24 — **Bank of Montreal**: [Client Enablement Analyst Co-op/Intern - Customer Shared Services](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/BMO-Capital-Markets-Winter-2027-Client-Enablement-Analyst--Toronto_R260021775-3)
 - 2026-08-24 — **BNY**: [Data Science Intern - Engineering](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81241)
 - 2026-08-24 — **BNY**: [Data Science Intern - Engineering](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81239)
 - 2026-08-24 — **BNY**: [Data Science Intern - Engineering](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81240)
@@ -65,10 +69,6 @@ _Generated 2026-08-24_
 - 2026-08-24 — **BNY**: [Software Developer Intern - Engineering](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81253)
 - 2026-08-24 — **BNY**: [Software Engineer Intern - Engineering - Developer](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81251)
 - 2026-08-24 — **BNY**: [Trading Intern - Trading](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81350)
-- 2026-08-24 — **Booz Allen**: [Software Engineer Intern](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Bremerton-WA/Software-Engineer---Intern_R0247218)
-- 2026-08-24 — **Canadian Solar**: [Data Analysis Intern - Quality](https://canadiansolar.wd5.myworkdayjobs.com/CanadianSolar/job/Mesquite-TX/Data-Analyst--Quality-Intern_10001414)
-- 2026-08-24 — **Cigna Group**: [Healthcare Policy & Regulated Markets Intern](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/St-Louis-MO/Healthcare-Policy---Regulated-Markets-Intern_26006403)
-- 2026-08-24 — **DuCharme, McMillen & Associates**: [Software Developer Intern](https://dmainc.wd5.myworkdayjobs.com/dma/job/Fort-Wayne-IN/Software-Development-Intern---Summer-2027_REQ636)
 
 ## Recently closed
 
@@ -89,9 +89,11 @@ _Generated 2026-08-24_
 - Arkema Global — Manufacturing Data Systems Intern
 - Assurant — Digital & AI Transformation Intern 1 - Internship Program
 - Assured Guaranty — Product Software Developer Intern
+- Astranis — Assembly and Test Intern - Integration
 - Astranis — Embedded Software Developer – Network/Payload Software Intern
 - Astranis — Software Engineer-Backend Intern
 - Availity — Software Engineer Intern - Multiple Teams
+- Baker Hughes — Benefit Tool Developer Intern - Month Fixed Term Contract
 - Bank of Montreal — Investment Intern Co-op - Co-op/Internship
 - Bloxd — Software Engineer Intern
 - Booz Allen — AI RAN Telecommunications Engineer Intern
@@ -174,7 +176,6 @@ _Generated 2026-08-24_
 - Global Partners — Advanced Analytics Intern
 - GoDaddy — Software Development Engineer Intern
 - Golden Pet Brands — Data Analytics Intern
-- Goldman Sachs — AWM Product Management Analyst Intern
 - Group 1001 — Quantitative Analysis Intern
 - Gulf Management — Software Engineer & Business Systems Intern
 - Gulfstream — Computer Science Intern - Advanced Structures and Materials
@@ -213,7 +214,6 @@ _Generated 2026-08-24_
 - Lumentum — Optical Verification Technician Co-op Intern
 - Lumentum — Optical Verification Technician Intern/Co-op
 - Magnera — Data Analyst Intern - Information Technology
-- Marsh — Government Health Consulting Informatics Intern - College Program
 - MaxLinear — AI Intern
 - McKesson — Software Developer Intern - Digital and Enterprise Technology
 - McKesson — Technology Intern
