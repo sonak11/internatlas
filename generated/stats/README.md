@@ -353,6 +353,7 @@ _Generated 2026-08-24_
 - Truist Bank — Analyst Intern - Equity Research - Sales, Trading & Research
 - Truist Bank — Fixed Income Loans S&T Intern - Sales, Trading & Research - Analyst Program
 - Truist Bank — Technology and Operations Intern Conversion - Data
+- Truist Bank — Technology and Operations Intern - Data
 - US Acute Care Solutions — People Analytics Intern
 - Valeo — Software Engineer Intern
 - Vanguard — Data Analysis Intern
