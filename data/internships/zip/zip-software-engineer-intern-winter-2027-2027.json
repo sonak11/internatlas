@@ -1,21 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "plusai-deep-learning-research-intern-multimodal-bev-perception-2026",
+  "id": "zip-software-engineer-intern-winter-2027-2027",
   "company": {
-    "name": "PlusAI",
-    "slug": "plusai"
+    "name": "Zip",
+    "slug": "zip"
   },
-  "role": "Deep Learning Research Intern - Multimodal BEV Perception",
-  "category": "machine-learning",
-  "apply_url": "https://jobs.lever.co/plus-2/2ee24f85-bfa1-47fc-bfe3-fd07521a7b62/apply",
-  "season": "fall",
-  "year": 2026,
+  "role": "Software Engineer Intern - Winter 2027",
+  "category": "software-engineering",
+  "apply_url": "https://jobs.ashbyhq.com/zip/2bc7327b-1c06-418a-beeb-bec1dd70480e/application?embed=true",
+  "season": "winter",
+  "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Santa Clara",
-      "state": "CA",
-      "country": "USA"
+      "city": "Toronto",
+      "country": "ON"
     }
   ],
   "compensation": {
@@ -26,8 +25,7 @@
   "eligibility": {
     "graduation_years": [],
     "degree_levels": [
-      "masters",
-      "phd"
+      "masters"
     ],
     "citizenship_required": false,
     "security_clearance_required": false,
@@ -43,11 +41,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-06",
-    "discovered": "2026-08-07",
+    "posted": "2026-08-25",
+    "discovered": "2026-08-25",
     "last_verified": "2026-08-25"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

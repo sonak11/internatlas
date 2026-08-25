@@ -10,7 +10,7 @@ _Generated 2026-08-25_
 |---|---|
 | TikTok | 149 |
 | Tesla | 111 |
-| RTX | 62 |
+| RTX | 63 |
 | ByteDance | 54 |
 | Jump Trading | 46 |
 | Cloudflare | 34 |
@@ -33,7 +33,7 @@ _Generated 2026-08-25_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 1322 | `██████████████` |
+| software-engineering | 1324 | `██████████████` |
 | ai | 222 | `██` |
 | quant | 203 | `██` |
 | machine-learning | 147 | `██` |
@@ -66,9 +66,9 @@ _Generated 2026-08-25_
 - 2026-08-25 — **Compeer Financial**: [Engineering Intern](https://job-boards.greenhouse.io/compeerfinancial/jobs/5405015008)
 - 2026-08-25 — **Compeer Financial**: [Engineering Intern](https://job-boards.greenhouse.io/compeerfinancial/jobs/5404994008)
 - 2026-08-25 — **Compeer Financial**: [Engineering Intern](https://job-boards.greenhouse.io/compeerfinancial/jobs/5404850008)
+- 2026-08-25 — **Copart**: [Technology Product Analyst Intern](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Technology-Product-Analyst-Intern_JR110789)
 - 2026-08-25 — **Empirical Foods**: [Software Engineer Intern - Summer 2027](https://careers-empiricalfoods.icims.com/jobs/4161/job?mobile=true&needsRedirect=false)
 - 2026-08-25 — **GE Vernova**: [Controls Product Management Intern](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Greenville/GE-Vernova-Controls-Product-Management-Intern---Summer-2027_R5050803-3)
-- 2026-08-25 — **GE Vernova**: [Controls Product Management Intern - Summer 2027](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Greenville/GE-Vernova-Controls-Product-Management-Intern---Summer-2027_R5050803)
 
 ## Recently closed
 
@@ -143,7 +143,6 @@ _Generated 2026-08-25_
 - CNO Financial Group — Cyber Security IT Intern
 - Cohesity — Data Cleansing and Sales Enablement Analyst Intern
 - Commence — Health Data Analyst Intern
-- Copart — Technology Product Analyst Intern
 - Cotiviti — Agentic AI Research Intern
 - Crowe — NetSuite Implementation Intern - Consulting Practice
 - Cubist Systematic Strategies — Quantitative Developer Intern
@@ -176,17 +175,6 @@ _Generated 2026-08-25_
 - Global Partners — Advanced Analytics Intern
 - GoDaddy — Software Development Engineer Intern
 - Golden Pet Brands — Data Analytics Intern
-- Goldman Sachs — AWM Product Management Analyst Intern
-- Goldman Sachs — Quantitative Strategist Associate Intern - Asset and Wealth Management
-- Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
-- Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
-- Goldman Sachs — Summer Analyst Intern - Americas - AWM Product Management
-- Goldman Sachs — Summer Analyst Intern - FICC and Equities - Sales and Trading
-- Goldman Sachs — Summer Analyst Intern - FICC & Equities - Sales & Trading
-- Goldman Sachs — Summer Analyst Intern - Wealth Management - Product Management and Design
-- Goldman Sachs — Summer Associate Intern - Multiple Teams
 - Google — Research Intern - PhD
 - Google — Software Developer Intern
 - Group 1001 — Quantitative Analysis Intern
@@ -209,6 +197,7 @@ _Generated 2026-08-25_
 - Integra FEC — Data Analyst Intern
 - Intel — AI Software Engineer Intern
 - Intel — Software Development Intern
+- Interdigital — Wireless Engineering Intern - 6G Wireless Systems
 - International Rescue Committee (IRC) — Data Integration & Reporting Intern
 - Intuit — Software Engineer Intern
 - Intuitive Surgical — Computer Vision Engineer Intern
@@ -272,6 +261,7 @@ _Generated 2026-08-25_
 - Photon — Software Engineering Intern - AI
 - Picton Mahoney Asset Management — Business Data Analyst Intern
 - Picton Mahoney Asset Management — Quantitative Research & Risk Intern
+- PlusAI — Deep Learning Research Intern - Multimodal BEV Perception
 - Prophet — AI Engineer Intern - AI Foundry & Digital Growth
 - Quantbot Technologies — Software Engineer Intern
 - Readystate Asset Management — Investment Intern - Summer 2027 & 2028

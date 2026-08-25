@@ -13,6 +13,10 @@
   "work_mode": "onsite",
   "locations": [
     {
+      "city": "SF",
+      "country": "USA"
+    },
+    {
       "city": "San Francisco",
       "state": "CA",
       "country": "USA"
@@ -40,13 +44,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-21",
+    "posted": "2026-05-04",
     "discovered": "2026-07-17",
     "last_verified": "2026-08-25"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:vanshb03"
+    "src:simplify"
   ]
 }
