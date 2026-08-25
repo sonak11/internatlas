@@ -1,26 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "axon-software-engineer-intern-2027",
+  "id": "royal-bank-of-canada-commercial-portfolio-risk-credit-analytics-intern-grm-2027",
   "company": {
-    "name": "Axon",
-    "slug": "axon"
+    "name": "Royal Bank of Canada",
+    "slug": "royal-bank-of-canada"
   },
-  "role": "Software Engineer Intern",
+  "role": "Commercial Portfolio Risk & Credit Analytics Intern - Grm",
   "category": "software-engineering",
-  "apply_url": "https://job-boards.greenhouse.io/axontalentcommunity/jobs/7837133003",
-  "season": "summer",
+  "apply_url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--Commercial-Portfolio-Risk---Credit-Analytics-Intern--4-Months-_R-0000185201",
+  "season": "winter",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Boston",
-      "state": "MA",
-      "country": "USA"
-    },
-    {
-      "city": "Seattle",
-      "state": "WA",
-      "country": "USA"
+      "city": "Toronto",
+      "country": "ON"
     }
   ],
   "compensation": {
@@ -45,11 +39,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-07",
-    "discovered": "2026-08-07",
+    "posted": "2026-08-25",
+    "discovered": "2026-08-25",
     "last_verified": "2026-08-25"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

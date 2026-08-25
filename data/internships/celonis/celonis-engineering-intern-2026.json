@@ -1,20 +1,19 @@
 {
   "schema_version": "1.0",
-  "id": "robinhood-market-research-strategy-intern-2027",
+  "id": "celonis-engineering-intern-2026",
   "company": {
-    "name": "Robinhood",
-    "slug": "robinhood",
-    "career_page": "https://careers.robinhood.com/"
+    "name": "Celonis",
+    "slug": "celonis"
   },
-  "role": "Market Research Strategy Intern",
-  "category": "research",
-  "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8103727?t=gh_src%3D&gh_jid=8103727",
-  "season": "summer",
-  "year": 2027,
+  "role": "Engineering Intern",
+  "category": "software-engineering",
+  "apply_url": "https://job-boards.greenhouse.io/celonis/jobs/7974381003?gh_jid=7974381003",
+  "season": "fall",
+  "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Singapore",
+      "city": "Massachusetts",
       "country": "USA"
     }
   ],
@@ -25,7 +24,9 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "masters"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -40,13 +41,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-04",
-    "discovered": "2026-08-07",
+    "posted": "2026-08-25",
+    "discovered": "2026-08-25",
     "last_verified": "2026-08-25"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:ats"
+    "src:simplify"
   ]
 }

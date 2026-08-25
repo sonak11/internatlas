@@ -33,12 +33,12 @@ _Generated 2026-08-25_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 1306 | `██████████████` |
+| software-engineering | 1309 | `██████████████` |
 | ai | 220 | `██` |
 | quant | 202 | `██` |
 | machine-learning | 146 | `██` |
 | research | 109 | `█` |
-| hardware | 108 | `█` |
+| hardware | 109 | `█` |
 | product | 70 | `█` |
 | embedded | 57 | `█` |
 | data-science | 50 | `█` |
@@ -57,6 +57,7 @@ _Generated 2026-08-25_
 - 2026-08-25 — **Cadence Design Systems**: [Product Engineering Intern - Electronics Hardware Design](https://cadence.wd1.myworkdayjobs.com/University_Talent_Intern/job/Burlington-MA/Product-Engineering-Internship--Electronics-Hardware-Design--Fall-2026-_R54158)
 - 2026-08-25 — **Cadence Design Systems**: [Product Engineering Intern - Electronics Hardware Design](https://cadence.wd1.myworkdayjobs.com/University_Talent/job/Burlington-MA/Product-Engineering-Internship--Electronics-Hardware-Design--Fall-2026-_R54158-1)
 - 2026-08-25 — **Cadence Design Systems**: [Product Engineering Intern - Electronics Hardware Design](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/Burlington-MA/Product-Engineering-Internship--Electronics-Hardware-Design--Fall-2026-_R54158-2)
+- 2026-08-25 — **Celonis**: [Engineering Intern](https://job-boards.greenhouse.io/celonis/jobs/7974381003?gh_jid=7974381003)
 - 2026-08-25 — **Jump Trading**: [Campus Quantitative Research Intern (Off-Cycle - Winter/Spring 2027)](https://www.jumptrading.com/hr/job?gh_jid=8027898)
 - 2026-08-25 — **Kodiak Robotics**: [Simulation Intern](https://job-boards.greenhouse.io/kodiak/jobs/4378662009)
 - 2026-08-25 — **L3Harris Technologies**: [Configuration Management Intern](https://jobs.l3harris.com/job/Waco-Intern,-Configuration-Management-TX-76705/1422798600/?ats=successfactors)
@@ -68,7 +69,6 @@ _Generated 2026-08-25_
 - 2026-08-25 — **L3Harris Technologies**: [Software Engineer Intern](https://jobs.l3harris.com/job/Fort-Wayne-Intern-D,-Software-Engineer-IN-46818/1422797900/?ats=successfactors)
 - 2026-08-25 — **L3Harris Technologies**: [Software Engineer Intern](https://jobs.l3harris.com/job/Fort-Wayne-Intern,-Software-Engineer-IN-46818/1422837800/?ats=successfactors)
 - 2026-08-25 — **L3Harris Technologies**: [Software Engineer Intern](https://jobs.l3harris.com/job/Fort-Wayne-Intern,-Software-Engineer-IN-46818/1422838400/?ats=successfactors)
-- 2026-08-25 — **L3Harris Technologies**: [Software Engineer Intern](https://jobs.l3harris.com/job/Palm-Bay-Intern-D,-Software-Engineer-FL-32905/1422837000/?ats=successfactors)
 
 ## Recently closed
 
@@ -94,7 +94,9 @@ _Generated 2026-08-25_
 - Astranis — Radiation Effects Engineer Intern
 - Astranis — Reliability Design Associate Intern
 - Astranis — Software Engineer-Backend Intern
+- Atoms — Robotics Software Engineer Intern
 - Availity — Software Engineer Intern - Multiple Teams
+- Axon — Software Engineer Intern
 - Baker Hughes — Benefit Tool Developer Intern - Month Fixed Term Contract
 - Bank of Montreal — Investment Intern Co-op - Co-op/Internship
 - Bloxd — Software Engineer Intern
@@ -194,6 +196,7 @@ _Generated 2026-08-25_
 - Inizio — Data and Analytics Intern
 - Integra FEC — Data Analyst Intern
 - Intel — AI Software Engineer Intern
+- Intel — Software Development Intern
 - International Rescue Committee (IRC) — Data Integration & Reporting Intern
 - Intuit — Software Engineer Intern
 - Intuitive Surgical — Computer Vision Engineer Intern

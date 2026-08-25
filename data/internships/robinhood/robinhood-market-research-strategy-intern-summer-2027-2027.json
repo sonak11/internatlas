@@ -1,25 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "axon-software-engineer-intern-2027",
+  "id": "robinhood-market-research-strategy-intern-summer-2027-2027",
   "company": {
-    "name": "Axon",
-    "slug": "axon"
+    "name": "Robinhood",
+    "slug": "robinhood",
+    "career_page": "https://careers.robinhood.com/"
   },
-  "role": "Software Engineer Intern",
-  "category": "software-engineering",
-  "apply_url": "https://job-boards.greenhouse.io/axontalentcommunity/jobs/7837133003",
+  "role": "Market Research Strategy Intern (Summer 2027)",
+  "category": "research",
+  "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8103727?t=gh_src%3D&gh_jid=8103727",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Boston",
-      "state": "MA",
-      "country": "USA"
-    },
-    {
-      "city": "Seattle",
-      "state": "WA",
+      "city": "Singapore",
       "country": "USA"
     }
   ],
@@ -45,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-07",
-    "discovered": "2026-08-07",
+    "posted": "2026-08-04",
+    "discovered": "2026-08-25",
     "last_verified": "2026-08-25"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:ats"
   ]
 }
