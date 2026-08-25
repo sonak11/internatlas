@@ -33,7 +33,7 @@ _Generated 2026-08-25_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 1286 | `██████████████` |
+| software-engineering | 1291 | `██████████████` |
 | ai | 218 | `██` |
 | quant | 201 | `██` |
 | machine-learning | 144 | `██` |
@@ -49,6 +49,10 @@ _Generated 2026-08-25_
 
 ## Newest listings
 
+- 2026-08-25 — **L3Harris Technologies**: [Configuration Management Intern](https://jobs.l3harris.com/job/Waco-Intern,-Configuration-Management-TX-76705/1422798600/?ats=successfactors)
+- 2026-08-25 — **L3Harris Technologies**: [Software Engineer Intern](https://jobs.l3harris.com/job/Melbourne-Intern-C,-Software-Engineer-FL-32919/1422807400/?ats=successfactors)
+- 2026-08-25 — **L3Harris Technologies**: [Software Engineer Intern](https://jobs.l3harris.com/job/Palm-Bay-Intern-D,-Software-Engineer-FL-32905/1422806300/?ats=successfactors)
+- 2026-08-25 — **L3Harris Technologies**: [Software Engineer Intern](https://jobs.l3harris.com/job/Fort-Wayne-Intern-D,-Software-Engineer-IN-46818/1422797900/?ats=successfactors)
 - 2026-08-25 — **Rivet Industries**: [Software Engineer Intern - XR Team - Fall 2026](https://jobs.ashbyhq.com/rivet/4e02461a-9f6c-4d3c-a511-6d54f31999bc/application?embed=true)
 - 2026-08-25 — **Rystad Energy**: [Analyst Intern - Summer 2027](https://apply.workable.com/rystad-energy/j/74A4CBBC6B/apply)
 - 2026-08-24 — **Analog Devices**: [Digital Design Engineer Intern](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-NC-Durham/Digital-Design-Engineer-Intern_R265298)
@@ -65,10 +69,6 @@ _Generated 2026-08-25_
 - 2026-08-24 — **BNY**: [Data Science Intern - Engineering](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81238)
 - 2026-08-24 — **BNY**: [Engineering Developer Intern - Engineering](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81252)
 - 2026-08-24 — **BNY**: [Engineering Intern - Data Science](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81322)
-- 2026-08-24 — **BNY**: [Engineering Intern - Developer](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81318)
-- 2026-08-24 — **BNY**: [Engineering Intern - Engineering - Developer](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81254)
-- 2026-08-24 — **BNY**: [Product Management Intern - Product Management](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81345)
-- 2026-08-24 — **BNY**: [Software Developer Intern - Engineering](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81253)
 
 ## Recently closed
 
@@ -170,6 +170,17 @@ _Generated 2026-08-25_
 - Global Partners — Advanced Analytics Intern
 - GoDaddy — Software Development Engineer Intern
 - Golden Pet Brands — Data Analytics Intern
+- Goldman Sachs — AWM Product Management Analyst Intern
+- Goldman Sachs — Quantitative Strategist Associate Intern - Asset and Wealth Management
+- Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
+- Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
+- Goldman Sachs — Summer Analyst Intern - Americas - AWM Product Management
+- Goldman Sachs — Summer Analyst Intern - FICC and Equities - Sales and Trading
+- Goldman Sachs — Summer Analyst Intern - FICC & Equities - Sales & Trading
+- Goldman Sachs — Summer Analyst Intern - Wealth Management - Product Management and Design
+- Goldman Sachs — Summer Associate Intern - Multiple Teams
 - Group 1001 — Quantitative Analysis Intern
 - Gulf Management — Software Engineer & Business Systems Intern
 - Gulfstream — Computer Science Intern - Advanced Structures and Materials
@@ -207,7 +218,6 @@ _Generated 2026-08-25_
 - Lumentum — Optical Verification Technician Co-op Intern
 - Lumentum — Optical Verification Technician Intern/Co-op
 - Magnera — Data Analyst Intern - Information Technology
-- Marsh — Government Health Consulting Informatics Intern - College Program
 - MaxLinear — AI Intern
 - McKesson — Software Developer Intern - Digital and Enterprise Technology
 - Meta — Research Scientist Intern - Monetization Computer Vision
@@ -358,6 +368,7 @@ _Generated 2026-08-25_
 - Truist Bank — Fixed Income Loans S&T Intern - Sales, Trading & Research - Analyst Program
 - Truist Bank — Technology and Operations Intern Conversion - Data
 - Truist Bank — Technology and Operations Intern - Data
+- Uline — Business Intelligence Developer Intern
 - Valeo — Software Engineer Intern
 - Vanguard — Data Analysis Intern
 - Veeam Software — Software Engineering Intern, Platform, Security & AI

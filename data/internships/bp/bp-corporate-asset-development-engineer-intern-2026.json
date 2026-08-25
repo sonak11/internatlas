@@ -1,20 +1,21 @@
 {
   "schema_version": "1.0",
-  "id": "goldman-sachs-quantitative-strategist-associate-intern-the-core-quantitati-2027-14d0f0",
+  "id": "bp-corporate-asset-development-engineer-intern-2026",
   "company": {
-    "name": "Goldman Sachs",
-    "slug": "goldman-sachs"
+    "name": "BP",
+    "slug": "bp"
   },
-  "role": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
-  "category": "quant",
-  "apply_url": "https://higher.gs.com/roles/175427?type=students",
-  "season": "summer",
-  "year": 2027,
+  "role": "Corporate Asset Development Engineer Intern",
+  "category": "software-engineering",
+  "apply_url": "https://bpinternational.wd3.myworkdayjobs.com/bpPrivateExternalCareersSite/job/United-States-of-America---Colorado---Denver/Corporate-Asset-Development-Engineer-Intern_RQ115146",
+  "season": "fall",
+  "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "London",
-      "country": "UK"
+      "city": "Denver",
+      "state": "CO",
+      "country": "USA"
     }
   ],
   "compensation": {
@@ -24,9 +25,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "phd"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -41,11 +40,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-15",
-    "discovered": "2026-08-24",
+    "posted": "2026-08-24",
+    "discovered": "2026-08-25",
     "last_verified": "2026-08-25"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

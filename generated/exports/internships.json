@@ -1,6 +1,6 @@
 {
   "generated": "2026-08-25",
-  "count": 2366,
+  "count": 2371,
   "internships": [
     {
       "schema_version": "1.0",
@@ -16631,6 +16631,58 @@
       "dates": {
         "posted": "2026-07-02",
         "discovered": "2026-07-17",
+        "last_verified": "2026-08-25"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "bp-corporate-asset-development-engineer-intern-2026",
+      "company": {
+        "name": "BP",
+        "slug": "bp"
+      },
+      "role": "Corporate Asset Development Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://bpinternational.wd3.myworkdayjobs.com/bpPrivateExternalCareersSite/job/United-States-of-America---Colorado---Denver/Corporate-Asset-Development-Engineer-Intern_RQ115146",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Denver",
+          "state": "CO",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-24",
+        "discovered": "2026-08-25",
         "last_verified": "2026-08-25"
       },
       "status": "open",
@@ -43871,7 +43923,7 @@
         "discovered": "2026-08-20",
         "last_verified": "2026-08-25"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -43924,7 +43976,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-08-25"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -43977,7 +44029,7 @@
         "discovered": "2026-08-24",
         "last_verified": "2026-08-25"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -44030,7 +44082,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-08-25"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -44081,7 +44133,7 @@
         "discovered": "2026-08-21",
         "last_verified": "2026-08-25"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -44132,7 +44184,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-08-25"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -44185,7 +44237,7 @@
         "discovered": "2026-08-20",
         "last_verified": "2026-08-25"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -44239,7 +44291,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-08-25"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -44290,7 +44342,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-08-25"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -44341,7 +44393,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-08-25"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -44394,7 +44446,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-08-25"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -58289,6 +58341,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "l3harris-technologies-configuration-management-intern-2026",
+      "company": {
+        "name": "L3Harris Technologies",
+        "slug": "l3harris-technologies"
+      },
+      "role": "Configuration Management Intern",
+      "category": "software-engineering",
+      "apply_url": "https://jobs.l3harris.com/job/Waco-Intern,-Configuration-Management-TX-76705/1422798600/?ats=successfactors",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Waco",
+          "state": "TX",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-25",
+        "discovered": "2026-08-25",
+        "last_verified": "2026-08-25"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "l3harris-technologies-integration-test-engineering-intern-2026",
       "company": {
         "name": "L3Harris Technologies",
@@ -58337,6 +58441,116 @@
         "last_verified": "2026-08-23"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "l3harris-technologies-software-engineer-intern-2026-359f3a",
+      "company": {
+        "name": "L3Harris Technologies",
+        "slug": "l3harris-technologies"
+      },
+      "role": "Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://jobs.l3harris.com/job/Melbourne-Intern-C,-Software-Engineer-FL-32919/1422807400/?ats=successfactors",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Melbourne",
+          "state": "FL",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters",
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-25",
+        "discovered": "2026-08-25",
+        "last_verified": "2026-08-25"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "l3harris-technologies-software-engineer-intern-2026-47db48",
+      "company": {
+        "name": "L3Harris Technologies",
+        "slug": "l3harris-technologies"
+      },
+      "role": "Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://jobs.l3harris.com/job/Palm-Bay-Intern-D,-Software-Engineer-FL-32905/1422806300/?ats=successfactors",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Palm Bay",
+          "state": "FL",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters",
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-25",
+        "discovered": "2026-08-25",
+        "last_verified": "2026-08-25"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -58444,6 +58658,61 @@
       "dates": {
         "posted": "2026-08-24",
         "discovered": "2026-08-24",
+        "last_verified": "2026-08-25"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "l3harris-technologies-software-engineer-intern-2026-a830ab",
+      "company": {
+        "name": "L3Harris Technologies",
+        "slug": "l3harris-technologies"
+      },
+      "role": "Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://jobs.l3harris.com/job/Fort-Wayne-Intern-D,-Software-Engineer-IN-46818/1422797900/?ats=successfactors",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Fort Wayne",
+          "state": "IN",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters",
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-25",
+        "discovered": "2026-08-25",
         "last_verified": "2026-08-25"
       },
       "status": "open",
@@ -60900,7 +61169,7 @@
         "discovered": "2026-08-21",
         "last_verified": "2026-08-25"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -120647,7 +120916,7 @@
         "discovered": "2026-08-04",
         "last_verified": "2026-08-25"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"

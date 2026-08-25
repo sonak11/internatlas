@@ -89,7 +89,7 @@
 | [BDO Canada](../companies/bdo-canada.md) | 0/2 | software-engineering |
 | [BMO](../companies/bmo.md) | 0/1 | machine-learning |
 | [BNY](../companies/bny.md) | 12/12 | data-science, product, quant, software-engineering |
-| [BP](../companies/bp.md) | 1/2 | software-engineering |
+| [BP](../companies/bp.md) | 2/3 | software-engineering |
 | [BRG](../companies/brg.md) | 1/1 | software-engineering |
 | [BTI360](../companies/bti360.md) | 1/1 | software-engineering |
 | [Baker Hughes](../companies/baker-hughes.md) | 0/1 | software-engineering |
@@ -300,7 +300,7 @@
 | [Global Partners](../companies/global-partners.md) | 0/1 | software-engineering |
 | [GoDaddy](../companies/godaddy.md) | 0/1 | software-engineering |
 | [Golden Pet Brands](../companies/golden-pet-brands.md) | 0/1 | software-engineering |
-| [Goldman Sachs](../companies/goldman-sachs.md) | 11/11 | product, quant, software-engineering |
+| [Goldman Sachs](../companies/goldman-sachs.md) | 0/11 | product, quant, software-engineering |
 | [Google](../companies/google.md) | 5/9 | data-science, research, software-engineering |
 | [Grant Thornton](../companies/grant-thornton.md) | 2/2 | software-engineering |
 | [Gritt Robotics Inc](../companies/gritt-robotics-inc.md) | 1/1 | software-engineering |
@@ -387,7 +387,7 @@
 | [Kodiak Robotics](../companies/kodiak-robotics.md) | 2/2 | machine-learning, software-engineering |
 | [Kognitos](../companies/kognitos.md) | 1/1 | software-engineering |
 | [Kudu Dynamics](../companies/kudu-dynamics.md) | 0/3 | software-engineering |
-| [L3Harris Technologies](../companies/l3harris-technologies.md) | 7/9 | software-engineering |
+| [L3Harris Technologies](../companies/l3harris-technologies.md) | 11/13 | software-engineering |
 | [LPL Financial Holdings](../companies/lpl-financial-holdings.md) | 6/6 | data-engineering, software-engineering |
 | [Lawrence Livermore National Laboratory (LLNL)](../companies/lawrence-livermore-national-laboratory-llnl.md) | 5/5 | software-engineering |
 | [Leidos](../companies/leidos.md) | 1/3 | software-engineering |
@@ -408,7 +408,7 @@
 | [Magnera](../companies/magnera.md) | 0/1 | software-engineering |
 | [Markem-Imaje](../companies/markem-imaje.md) | 1/1 | software-engineering |
 | [Marmon Holdings](../companies/marmon-holdings.md) | 5/5 | data-engineering, software-engineering |
-| [Marsh](../companies/marsh.md) | 0/1 | software-engineering |
+| [Marsh](../companies/marsh.md) | 1/1 | software-engineering |
 | [Marshall Wace](../companies/marshall-wace.md) | 2/2 | software-engineering |
 | [Marvell](../companies/marvell.md) | 2/3 | design, software-engineering |
 | [Mastercard](../companies/mastercard.md) | 1/1 | software-engineering |
@@ -700,7 +700,7 @@
 | [UMB](../companies/umb.md) | 1/1 | software-engineering |
 | [US Acute Care Solutions](../companies/us-acute-care-solutions.md) | 0/1 | software-engineering |
 | [Uber](../companies/uber.md) | 1/1 | software-engineering |
-| [Uline](../companies/uline.md) | 6/6 | product, software-engineering |
+| [Uline](../companies/uline.md) | 5/6 | product, software-engineering |
 | [Uncountable](../companies/uncountable.md) | 1/1 | software-engineering |
 | [Unify](../companies/unify.md) | 1/1 | software-engineering |
 | [University System of New Hampshire](../companies/university-system-of-new-hampshire.md) | 2/2 | software-engineering |
