@@ -1,29 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "datadog-software-engineering-intern-2027-8ae0aa",
+  "id": "l3harris-technologies-software-engineer-intern-2026-4c9d9f",
   "company": {
-    "name": "Datadog",
-    "slug": "datadog"
+    "name": "L3Harris Technologies",
+    "slug": "l3harris-technologies"
   },
-  "role": "Software Engineering Intern",
+  "role": "Software Engineer Intern",
   "category": "software-engineering",
-  "apply_url": "https://careers.datadoghq.com/detail/8052095/?gh_jid=8052095",
-  "season": "winter",
-  "year": 2027,
+  "apply_url": "https://jobs.l3harris.com/job/Fort-Wayne-Intern,-Software-Engineer-IN-46818/1422837600/?ats=successfactors",
+  "season": "fall",
+  "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Boston",
-      "state": "MA",
-      "country": "USA"
-    },
-    {
-      "city": "New York",
-      "state": "NY",
-      "country": "USA"
-    },
-    {
-      "city": "Boston",
+      "city": "Fort Wayne",
+      "state": "IN",
       "country": "USA"
     }
   ],
@@ -34,10 +25,13 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "masters",
+      "phd"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
-    "visa_sponsorship": "yes"
+    "visa_sponsorship": "unknown"
   },
   "interview": {},
   "tech": {
@@ -49,13 +43,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-17",
+    "posted": "2026-08-25",
     "discovered": "2026-08-25",
     "last_verified": "2026-08-25"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:vanshb03"
+    "src:simplify"
   ]
 }

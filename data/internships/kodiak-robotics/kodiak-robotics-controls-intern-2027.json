@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "rtx-conversion-systems-engineer-1-intern-2026-28bd9c",
+  "id": "kodiak-robotics-controls-intern-2027",
   "company": {
-    "name": "RTX",
-    "slug": "rtx"
+    "name": "Kodiak Robotics",
+    "slug": "kodiak-robotics"
   },
-  "role": "Conversion Systems Engineer 1 Intern",
+  "role": "Controls Intern",
   "category": "software-engineering",
-  "apply_url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Intern-Conversion-Systems-Engineer-I--Onsite-_01866850",
-  "season": "fall",
-  "year": 2026,
+  "apply_url": "https://job-boards.greenhouse.io/kodiak/jobs/4378402009",
+  "season": "winter",
+  "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Cedar Rapids",
-      "state": "IA",
+      "city": "Mountain View",
+      "state": "CA",
       "country": "USA"
     }
   ],
@@ -40,8 +40,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-17",
-    "discovered": "2026-08-18",
+    "posted": "2026-08-24",
+    "discovered": "2026-08-25",
     "last_verified": "2026-08-25"
   },
   "status": "open",

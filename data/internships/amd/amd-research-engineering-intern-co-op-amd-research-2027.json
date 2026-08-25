@@ -1,25 +1,45 @@
 {
   "schema_version": "1.0",
-  "id": "amd-research-engineer-intern-co-op-amd-research-2027",
+  "id": "amd-research-engineering-intern-co-op-amd-research-2027",
   "company": {
     "name": "AMD",
     "slug": "amd"
   },
-  "role": "Research Engineer Intern/Co-op - AMD Research",
+  "role": "Research Engineering Intern/Co-op - AMD Research",
   "category": "research",
-  "apply_url": "https://careers.amd.com/jobs/90925?icims=1",
+  "apply_url": "https://careers.amd.com/jobs/90926?icims=1",
   "season": "winter",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "San Jose",
-      "state": "CA",
+      "city": "Secaucus",
+      "state": "NJ",
       "country": "USA"
     },
     {
-      "city": "Santa Clara",
-      "state": "CA",
+      "city": "Austin",
+      "state": "TX",
+      "country": "USA"
+    },
+    {
+      "city": "Longmont",
+      "state": "CO",
+      "country": "USA"
+    },
+    {
+      "city": "Fishkill",
+      "state": "NY",
+      "country": "USA"
+    },
+    {
+      "city": "Fort Collins",
+      "state": "CO",
+      "country": "USA"
+    },
+    {
+      "city": "Boxborough",
+      "state": "MA",
       "country": "USA"
     }
   ],
@@ -48,7 +68,7 @@
   },
   "dates": {
     "posted": "2026-08-21",
-    "discovered": "2026-08-21",
+    "discovered": "2026-08-25",
     "last_verified": "2026-08-25"
   },
   "status": "open",

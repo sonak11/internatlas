@@ -1,25 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "block-applied-research-intern-phd-graduate-co-op-2026",
+  "id": "l3harris-technologies-software-engineer-intern-2026-ed5d49",
   "company": {
-    "name": "Block",
-    "slug": "block"
+    "name": "L3Harris Technologies",
+    "slug": "l3harris-technologies"
   },
-  "role": "Applied Research Intern PhD / Graduate Co-op",
-  "category": "research",
-  "apply_url": "http://block.xyz/careers/jobs/5108007008?gh_jid=5108007008",
+  "role": "Software Engineer Intern",
+  "category": "software-engineering",
+  "apply_url": "https://jobs.l3harris.com/job/Palm-Bay-Intern-D,-Software-Engineer-FL-32905/1422837000/?ats=successfactors",
   "season": "fall",
   "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Oakland",
-      "state": "CA",
-      "country": "USA"
-    },
-    {
-      "city": "Bay Area",
-      "state": "CA",
+      "city": "Palm Bay",
+      "state": "FL",
       "country": "USA"
     }
   ],
@@ -48,8 +43,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-06-09",
-    "discovered": "2026-07-17",
+    "posted": "2026-08-25",
+    "discovered": "2026-08-25",
     "last_verified": "2026-08-25"
   },
   "status": "open",

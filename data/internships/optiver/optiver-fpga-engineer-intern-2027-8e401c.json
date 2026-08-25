@@ -1,25 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "amd-research-engineer-intern-co-op-amd-research-2027",
+  "id": "optiver-fpga-engineer-intern-2027-8e401c",
   "company": {
-    "name": "AMD",
-    "slug": "amd"
+    "name": "Optiver",
+    "slug": "optiver"
   },
-  "role": "Research Engineer Intern/Co-op - AMD Research",
-  "category": "research",
-  "apply_url": "https://careers.amd.com/jobs/90925?icims=1",
-  "season": "winter",
+  "role": "FPGA Engineer Intern",
+  "category": "hardware",
+  "apply_url": "https://www.optiver.com/join-us/jobs/8641352002/?gh_jid=8641352002",
+  "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "San Jose",
-      "state": "CA",
-      "country": "USA"
-    },
-    {
-      "city": "Santa Clara",
-      "state": "CA",
+      "city": "Austin",
+      "state": "TX",
       "country": "USA"
     }
   ],
@@ -31,6 +26,7 @@
   "eligibility": {
     "graduation_years": [],
     "degree_levels": [
+      "masters",
       "phd"
     ],
     "citizenship_required": false,
@@ -47,8 +43,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-21",
-    "discovered": "2026-08-21",
+    "posted": "2026-07-21",
+    "discovered": "2026-08-25",
     "last_verified": "2026-08-25"
   },
   "status": "open",

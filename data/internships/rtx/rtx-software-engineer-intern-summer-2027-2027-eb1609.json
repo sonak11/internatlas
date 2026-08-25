@@ -1,25 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "amd-research-engineer-intern-co-op-amd-research-2027",
+  "id": "rtx-software-engineer-intern-summer-2027-2027-eb1609",
   "company": {
-    "name": "AMD",
-    "slug": "amd"
+    "name": "RTX",
+    "slug": "rtx"
   },
-  "role": "Research Engineer Intern/Co-op - AMD Research",
-  "category": "research",
-  "apply_url": "https://careers.amd.com/jobs/90925?icims=1",
-  "season": "winter",
+  "role": "Software Engineer Intern - Summer 2027",
+  "category": "software-engineering",
+  "apply_url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineering-Intern--Summer-2027-_01866136",
+  "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "San Jose",
-      "state": "CA",
-      "country": "USA"
-    },
-    {
-      "city": "Santa Clara",
-      "state": "CA",
+      "city": "Cedar Rapids",
+      "state": "IA",
       "country": "USA"
     }
   ],
@@ -31,7 +26,7 @@
   "eligibility": {
     "graduation_years": [],
     "degree_levels": [
-      "phd"
+      "masters"
     ],
     "citizenship_required": false,
     "security_clearance_required": false,
@@ -47,8 +42,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-21",
-    "discovered": "2026-08-21",
+    "posted": "2026-08-14",
+    "discovered": "2026-08-25",
     "last_verified": "2026-08-25"
   },
   "status": "open",
