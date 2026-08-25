@@ -287,6 +287,7 @@
 | [Gartner](../companies/gartner.md) | 0/1 | software-engineering |
 | [Gemini](../companies/gemini.md) | 0/3 | product, software-engineering |
 | [GenMD](../companies/genmd.md) | 1/1 | ai |
+| [Genentech](../companies/genentech.md) | 1/1 | machine-learning |
 | [Generac](../companies/generac.md) | 1/4 | data-science, embedded, software-engineering |
 | [General Astronautics](../companies/general-astronautics.md) | 1/1 | software-engineering |
 | [General Dynamics Information Technology](../companies/general-dynamics-information-technology.md) | 1/3 | machine-learning, software-engineering |
