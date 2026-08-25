@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "rtx-software-engineer-intern-summer-2027-2027-eb1609",
+  "id": "solid-power-r-d-intern-catholyte-2026",
   "company": {
-    "name": "RTX",
-    "slug": "rtx"
+    "name": "Solid Power",
+    "slug": "solid-power"
   },
-  "role": "Software Engineer Intern - Summer 2027",
+  "role": "R&D Intern - Catholyte",
   "category": "software-engineering",
-  "apply_url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineering-Intern--Summer-2027-_01866136",
-  "season": "summer",
-  "year": 2027,
+  "apply_url": "https://job-boards.greenhouse.io/solidpower/jobs/5703080004",
+  "season": "fall",
+  "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Cedar Rapids",
-      "state": "IA",
+      "city": "Thornton",
+      "state": "CO",
       "country": "USA"
     }
   ],
@@ -25,9 +25,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -42,8 +40,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-14",
-    "discovered": "2026-08-15",
+    "posted": "2026-07-03",
+    "discovered": "2026-08-25",
     "last_verified": "2026-08-25"
   },
   "status": "open",

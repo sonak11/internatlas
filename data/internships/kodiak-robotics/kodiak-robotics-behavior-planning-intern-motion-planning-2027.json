@@ -1,33 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "datadog-software-engineer-intern-observability-and-security-platform-2027",
+  "id": "kodiak-robotics-behavior-planning-intern-motion-planning-2027",
   "company": {
-    "name": "Datadog",
-    "slug": "datadog"
+    "name": "Kodiak Robotics",
+    "slug": "kodiak-robotics"
   },
-  "role": "Software Engineer Intern - Observability and Security Platform",
-  "category": "security",
-  "apply_url": "https://careers.datadoghq.com/detail/8052095/?gh_jid=8052095",
+  "role": "Behavior Planning Intern - Motion Planning",
+  "category": "software-engineering",
+  "apply_url": "https://job-boards.greenhouse.io/kodiak/jobs/4377721009",
   "season": "winter",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Boston",
-      "state": "MA",
-      "country": "USA"
-    },
-    {
-      "city": "NYC",
-      "country": "USA"
-    },
-    {
-      "city": "New York",
-      "state": "NY",
-      "country": "USA"
-    },
-    {
-      "city": "Boston",
+      "city": "Mountain View",
+      "state": "CA",
       "country": "USA"
     }
   ],
@@ -41,7 +28,7 @@
     "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
-    "visa_sponsorship": "yes"
+    "visa_sponsorship": "unknown"
   },
   "interview": {},
   "tech": {
@@ -53,8 +40,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-17",
-    "discovered": "2026-08-17",
+    "posted": "2026-08-24",
+    "discovered": "2026-08-25",
     "last_verified": "2026-08-25"
   },
   "status": "open",

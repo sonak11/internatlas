@@ -1,6 +1,6 @@
 {
   "generated": "2026-08-25",
-  "count": 2377,
+  "count": 2381,
   "internships": [
     {
       "schema_version": "1.0",
@@ -4027,7 +4027,7 @@
         "discovered": "2026-08-21",
         "last_verified": "2026-08-25"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -4165,7 +4165,7 @@
         "discovered": "2026-08-21",
         "last_verified": "2026-08-25"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -4363,7 +4363,7 @@
         "discovered": "2026-08-21",
         "last_verified": "2026-08-25"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -5105,7 +5105,7 @@
         "discovered": "2026-08-21",
         "last_verified": "2026-08-25"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -11003,6 +11003,57 @@
     },
     {
       "schema_version": "1.0",
+      "id": "astranis-flight-software-intern-2026",
+      "company": {
+        "name": "Astranis",
+        "slug": "astranis"
+      },
+      "role": "Flight Software Intern",
+      "category": "software-engineering",
+      "apply_url": "https://job-boards.greenhouse.io/astranis/jobs/4619283006",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "SF",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-04-29",
+        "discovered": "2026-08-25",
+        "last_verified": "2026-08-25"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "astranis-fpga-associate-intern-2026",
       "company": {
         "name": "Astranis",
@@ -11203,7 +11254,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-25"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -11254,7 +11305,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-25"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -11326,10 +11377,6 @@
       "work_mode": "onsite",
       "locations": [
         {
-          "city": "SF",
-          "country": "USA"
-        },
-        {
           "city": "San Francisco",
           "state": "CA",
           "country": "USA"
@@ -11357,14 +11404,14 @@
         "resume_keywords": []
       },
       "dates": {
-        "posted": "2026-05-04",
+        "posted": "2026-08-21",
         "discovered": "2026-07-17",
         "last_verified": "2026-08-25"
       },
       "status": "open",
       "tags": [
         "auto-ingested",
-        "src:simplify"
+        "src:vanshb03"
       ]
     },
     {
@@ -13126,7 +13173,7 @@
         "discovered": "2026-08-07",
         "last_verified": "2026-08-25"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -14859,64 +14906,6 @@
     },
     {
       "schema_version": "1.0",
-      "id": "block-applied-research-intern-co-op-2026",
-      "company": {
-        "name": "Block",
-        "slug": "block"
-      },
-      "role": "Applied Research Intern Co-op",
-      "category": "research",
-      "apply_url": "http://block.xyz/careers/jobs/5108009008?gh_jid=5108009008",
-      "season": "fall",
-      "year": 2026,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Toronto",
-          "country": "ON"
-        },
-        {
-          "city": "Toronto",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [
-          "masters",
-          "phd"
-        ],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-06-09",
-        "discovered": "2026-07-17",
-        "last_verified": "2026-08-25"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
       "id": "block-applied-research-intern-phd-graduate-co-op-2026",
       "company": {
         "name": "Block",
@@ -14973,6 +14962,58 @@
       "tags": [
         "auto-ingested",
         "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "block-applied-research-intern-proactive-intelligence-customer-worl-2027-05ffb6",
+      "company": {
+        "name": "Block",
+        "slug": "block",
+        "career_page": "https://block.xyz/careers"
+      },
+      "role": "Applied Research Intern, Proactive Intelligence & Customer World Models (PhD / Graduate Co-op)",
+      "category": "research",
+      "apply_url": "http://block.xyz/careers/jobs/5108009008?gh_jid=5108009008",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Toronto",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-06-09",
+        "discovered": "2026-08-25",
+        "last_verified": "2026-08-25"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
       ]
     },
     {
@@ -15641,7 +15682,7 @@
         "discovered": "2026-08-24",
         "last_verified": "2026-08-25"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -15693,7 +15734,7 @@
         "discovered": "2026-08-24",
         "last_verified": "2026-08-25"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -21213,7 +21254,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "canva-phd-research-scientist-intern-2026",
+      "id": "canva-phd-research-scientist-intern-2026-1bb10f",
       "company": {
         "name": "Canva",
         "slug": "canva"
@@ -21228,6 +21269,57 @@
         {
           "city": "San Francisco",
           "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-06",
+        "discovered": "2026-08-25",
+        "last_verified": "2026-08-25"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "canva-phd-research-scientist-intern-2026",
+      "company": {
+        "name": "Canva",
+        "slug": "canva"
+      },
+      "role": "PhD Research Scientist Intern",
+      "category": "research",
+      "apply_url": "https://jobs.smartrecruiters.com/Canva/6000000001291655",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "SF",
           "country": "USA"
         }
       ],
@@ -21262,7 +21354,7 @@
       "status": "open",
       "tags": [
         "auto-ingested",
-        "src:vanshb03"
+        "src:simplify"
       ]
     },
     {
@@ -21365,7 +21457,7 @@
         "discovered": "2026-08-06",
         "last_verified": "2026-08-25"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -29374,7 +29466,7 @@
         "discovered": "2026-07-27",
         "last_verified": "2026-08-25"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -31349,7 +31441,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-25"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -31597,10 +31689,6 @@
         {
           "city": "New York",
           "country": "USA"
-        },
-        {
-          "city": "NYC",
-          "country": "USA"
         }
       ],
       "compensation": {
@@ -31637,13 +31725,13 @@
     },
     {
       "schema_version": "1.0",
-      "id": "datadog-software-engineer-intern-observability-and-security-platform-2027",
+      "id": "datadog-software-engineering-intern-2027-8ae0aa",
       "company": {
         "name": "Datadog",
         "slug": "datadog"
       },
-      "role": "Software Engineer Intern - Observability and Security Platform",
-      "category": "security",
+      "role": "Software Engineering Intern",
+      "category": "software-engineering",
       "apply_url": "https://careers.datadoghq.com/detail/8052095/?gh_jid=8052095",
       "season": "winter",
       "year": 2027,
@@ -31652,10 +31740,6 @@
         {
           "city": "Boston",
           "state": "MA",
-          "country": "USA"
-        },
-        {
-          "city": "NYC",
           "country": "USA"
         },
         {
@@ -31691,13 +31775,13 @@
       },
       "dates": {
         "posted": "2026-08-17",
-        "discovered": "2026-08-17",
+        "discovered": "2026-08-25",
         "last_verified": "2026-08-25"
       },
       "status": "open",
       "tags": [
         "auto-ingested",
-        "src:simplify"
+        "src:vanshb03"
       ]
     },
     {
@@ -41607,7 +41691,7 @@
         "discovered": "2026-08-18",
         "last_verified": "2026-08-25"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -44197,7 +44281,7 @@
         "discovered": "2026-08-20",
         "last_verified": "2026-08-25"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -44250,7 +44334,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-08-25"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -44303,7 +44387,7 @@
         "discovered": "2026-08-24",
         "last_verified": "2026-08-25"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -44356,7 +44440,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-08-25"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -44407,7 +44491,7 @@
         "discovered": "2026-08-21",
         "last_verified": "2026-08-25"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -44458,7 +44542,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-08-25"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -44511,7 +44595,7 @@
         "discovered": "2026-08-20",
         "last_verified": "2026-08-25"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -44565,7 +44649,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-08-25"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -44667,7 +44751,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-08-25"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -44720,7 +44804,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-08-25"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -58044,6 +58128,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "kodiak-robotics-behavior-planning-intern-motion-planning-2027",
+      "company": {
+        "name": "Kodiak Robotics",
+        "slug": "kodiak-robotics"
+      },
+      "role": "Behavior Planning Intern - Motion Planning",
+      "category": "software-engineering",
+      "apply_url": "https://job-boards.greenhouse.io/kodiak/jobs/4377721009",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Mountain View",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-24",
+        "discovered": "2026-08-25",
+        "last_verified": "2026-08-25"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "kodiak-robotics-planning-intern-mission-planning-2027",
       "company": {
         "name": "Kodiak Robotics",
@@ -58088,7 +58224,7 @@
         "discovered": "2026-08-24",
         "last_verified": "2026-08-25"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -60361,7 +60497,7 @@
         "discovered": "2026-08-21",
         "last_verified": "2026-08-25"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -60598,7 +60734,7 @@
         "discovered": "2026-08-24",
         "last_verified": "2026-08-25"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -61443,7 +61579,7 @@
         "discovered": "2026-08-21",
         "last_verified": "2026-08-25"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -71846,9 +71982,9 @@
       "dates": {
         "posted": "2026-07-14",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-08-25"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -74286,7 +74422,7 @@
         "discovered": "2026-08-19",
         "last_verified": "2026-08-25"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -74615,7 +74751,7 @@
         "discovered": "2026-08-19",
         "last_verified": "2026-08-25"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -74938,7 +75074,7 @@
         "discovered": "2026-08-19",
         "last_verified": "2026-08-25"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -85182,7 +85318,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-25"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -88381,7 +88517,7 @@
         "discovered": "2026-08-24",
         "last_verified": "2026-08-25"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -90672,60 +90808,6 @@
     },
     {
       "schema_version": "1.0",
-      "id": "rtx-software-engineer-intern-summer-2027-2027-eb1609",
-      "company": {
-        "name": "RTX",
-        "slug": "rtx"
-      },
-      "role": "Software Engineer Intern - Summer 2027",
-      "category": "software-engineering",
-      "apply_url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineering-Intern--Summer-2027-_01866136",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Cedar Rapids",
-          "state": "IA",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [
-          "masters"
-        ],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-08-14",
-        "discovered": "2026-08-15",
-        "last_verified": "2026-08-25"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
       "id": "rtx-software-engineer-intern-summer-2027-2027-ef51ed",
       "company": {
         "name": "RTX",
@@ -90895,14 +90977,14 @@
       },
       "role": "Software Engineer Intern - Summer 2027",
       "category": "software-engineering",
-      "apply_url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Software-Engineer-Intern--Summer-2027-_01867664",
+      "apply_url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineering-Intern--Summer-2027-_01866136",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
       "locations": [
         {
-          "city": "Tucson",
-          "state": "AZ",
+          "city": "Cedar Rapids",
+          "state": "IA",
           "country": "USA"
         }
       ],
@@ -90930,7 +91012,7 @@
         "resume_keywords": []
       },
       "dates": {
-        "posted": "2026-08-20",
+        "posted": "2026-08-14",
         "discovered": "2026-08-05",
         "last_verified": "2026-08-25"
       },
@@ -94889,6 +94971,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "solid-power-r-d-intern-catholyte-2026",
+      "company": {
+        "name": "Solid Power",
+        "slug": "solid-power"
+      },
+      "role": "R&D Intern - Catholyte",
+      "category": "software-engineering",
+      "apply_url": "https://job-boards.greenhouse.io/solidpower/jobs/5703080004",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Thornton",
+          "state": "CO",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-03",
+        "discovered": "2026-08-25",
+        "last_verified": "2026-08-25"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "solopulse-software-engineer-intern-co-op-2026",
       "company": {
         "name": "SoloPulse",
@@ -97516,7 +97650,7 @@
         "discovered": "2026-08-22",
         "last_verified": "2026-08-25"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -100490,7 +100624,7 @@
         "discovered": "2026-08-21",
         "last_verified": "2026-08-25"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -109421,9 +109555,9 @@
       "dates": {
         "posted": "2026-07-15",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-08-25"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -110347,7 +110481,7 @@
         "discovered": "2026-08-24",
         "last_verified": "2026-08-25"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -121067,6 +121201,58 @@
         "last_verified": "2026-08-05"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "two-six-technologies-skillbridge-fellow-intern-multiple-teams-2026",
+      "company": {
+        "name": "Two Six Technologies",
+        "slug": "two-six-technologies"
+      },
+      "role": "SkillBridge Fellow Intern - Multiple Teams",
+      "category": "software-engineering",
+      "apply_url": "https://job-boards.greenhouse.io/twosixtechnologies/jobs/6126995004",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Doral",
+          "state": "FL",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-27",
+        "discovered": "2026-08-25",
+        "last_verified": "2026-08-25"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"

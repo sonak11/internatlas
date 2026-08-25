@@ -1,20 +1,29 @@
 {
   "schema_version": "1.0",
-  "id": "rtx-software-engineer-intern-summer-2027-2027",
+  "id": "datadog-software-engineering-intern-2027-8ae0aa",
   "company": {
-    "name": "RTX",
-    "slug": "rtx"
+    "name": "Datadog",
+    "slug": "datadog"
   },
-  "role": "Software Engineer Intern - Summer 2027",
+  "role": "Software Engineering Intern",
   "category": "software-engineering",
-  "apply_url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineering-Intern--Summer-2027-_01866136",
-  "season": "summer",
+  "apply_url": "https://careers.datadoghq.com/detail/8052095/?gh_jid=8052095",
+  "season": "winter",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Cedar Rapids",
-      "state": "IA",
+      "city": "Boston",
+      "state": "MA",
+      "country": "USA"
+    },
+    {
+      "city": "New York",
+      "state": "NY",
+      "country": "USA"
+    },
+    {
+      "city": "Boston",
       "country": "USA"
     }
   ],
@@ -25,12 +34,10 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
-    "visa_sponsorship": "unknown"
+    "visa_sponsorship": "yes"
   },
   "interview": {},
   "tech": {
@@ -42,13 +49,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-14",
-    "discovered": "2026-08-05",
+    "posted": "2026-08-17",
+    "discovered": "2026-08-25",
     "last_verified": "2026-08-25"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }
