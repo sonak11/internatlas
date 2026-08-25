@@ -208,6 +208,7 @@ _Generated 2026-08-25_
 - Kensington — Data Analyst Intern - Revenue Optimization
 - Keysight Technologies — AI/ML Research Intern
 - Keysight Technologies — Software Engineer Intern - R&D - FPGA
+- Kimley-Horn — GIS Intern
 - Kimley-Horn — Software Developer Intern
 - L3Harris Technologies — Integration/Test Engineering Intern
 - L3Harris Technologies — Software Engineering Intern
