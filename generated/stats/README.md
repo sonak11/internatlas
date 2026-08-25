@@ -33,15 +33,15 @@ _Generated 2026-08-25_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 1315 | `██████████████` |
-| ai | 221 | `██` |
-| quant | 202 | `██` |
-| machine-learning | 146 | `██` |
+| software-engineering | 1322 | `██████████████` |
+| ai | 222 | `██` |
+| quant | 203 | `██` |
+| machine-learning | 147 | `██` |
 | research | 109 | `█` |
 | hardware | 109 | `█` |
 | product | 75 | `█` |
-| embedded | 58 | `█` |
-| data-science | 51 | `█` |
+| embedded | 60 | `█` |
+| data-science | 52 | `█` |
 | design | 45 | `█` |
 | cloud | 42 | `█` |
 | data-engineering | 28 | `█` |
@@ -54,6 +54,7 @@ _Generated 2026-08-25_
 - 2026-08-25 — **AMD**: [ASIC Package Engineering Intern Co-op](https://careers.amd.com/jobs/91471?icims=1)
 - 2026-08-25 — **AMD**: [ASIC Package Engineering Intern Co-op](https://careers.amd.com/jobs/91466?icims=1)
 - 2026-08-25 — **Bosch Home Comfort**: [AI Security Research Intern](https://jobs.smartrecruiters.com/BoschGroup/744000145507908)
+- 2026-08-25 — **BP**: [Finance & Risk Intern - Supply, Trading, & Shipping - Finance & Risk](https://bpinternational.wd3.myworkdayjobs.com/bpPrivateExternalCareersSite/job/United-States-of-America---Illinois---Chicago/Summer-Intern---Supply--Trading----Shipping-Finance---Risk---Chicago--IL_RQ114738-1)
 - 2026-08-25 — **Brunswick**: [Product Management Intern - Oils & Lubricants](https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Fond-du-Lac-WI/Mercury-Marine--Product-Management-Intern---Oils---Lubricants_JR-051213)
 - 2026-08-25 — **Brunswick**: [Product Management Intern - Parts & Accessories](https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Fond-du-Lac-WI/Merucry-Marine--Product-Management-Intern---Parts---Accessories_JR-051142)
 - 2026-08-25 — **Cadence Design Systems**: [Product Engineering Intern - Electronics Hardware Design](https://cadence.wd1.myworkdayjobs.com/University_Talent_Intern/job/Burlington-MA/Product-Engineering-Internship--Electronics-Hardware-Design--Fall-2026-_R54158)
@@ -61,14 +62,13 @@ _Generated 2026-08-25_
 - 2026-08-25 — **Cadence Design Systems**: [Product Engineering Intern - Electronics Hardware Design](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/Burlington-MA/Product-Engineering-Internship--Electronics-Hardware-Design--Fall-2026-_R54158-2)
 - 2026-08-25 — **Celonis**: [Engineering Intern](https://job-boards.greenhouse.io/celonis/jobs/7974381003?gh_jid=7974381003)
 - 2026-08-25 — **Cigna Group**: [Legal Operations Financial Data & AI Analytics Intern](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/St-Louis-MO/Legal-Operations-Financial--Data---AI-Analytics-Intern_25016386)
+- 2026-08-25 — **Compeer Financial**: [Engineering Intern](https://job-boards.greenhouse.io/compeerfinancial/jobs/5405050008)
+- 2026-08-25 — **Compeer Financial**: [Engineering Intern](https://job-boards.greenhouse.io/compeerfinancial/jobs/5405015008)
+- 2026-08-25 — **Compeer Financial**: [Engineering Intern](https://job-boards.greenhouse.io/compeerfinancial/jobs/5404994008)
+- 2026-08-25 — **Compeer Financial**: [Engineering Intern](https://job-boards.greenhouse.io/compeerfinancial/jobs/5404850008)
+- 2026-08-25 — **Empirical Foods**: [Software Engineer Intern - Summer 2027](https://careers-empiricalfoods.icims.com/jobs/4161/job?mobile=true&needsRedirect=false)
 - 2026-08-25 — **GE Vernova**: [Controls Product Management Intern](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Greenville/GE-Vernova-Controls-Product-Management-Intern---Summer-2027_R5050803-3)
 - 2026-08-25 — **GE Vernova**: [Controls Product Management Intern - Summer 2027](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Greenville/GE-Vernova-Controls-Product-Management-Intern---Summer-2027_R5050803)
-- 2026-08-25 — **Johns Hopkins Applied Physics Laboratory**: [Data Scientist Intern - Data Science - System Performance Evaluation](https://careers.jhuapl.edu/jobs/59800?icims=1)
-- 2026-08-25 — **Jump Trading**: [Campus Quantitative Research Intern (Off-Cycle - Winter/Spring 2027)](https://www.jumptrading.com/hr/job?gh_jid=8027898)
-- 2026-08-25 — **Kodiak Robotics**: [Simulation Intern](https://job-boards.greenhouse.io/kodiak/jobs/4378662009)
-- 2026-08-25 — **L3Harris Technologies**: [Configuration Management Intern](https://jobs.l3harris.com/job/Waco-Intern,-Configuration-Management-TX-76705/1422798600/?ats=successfactors)
-- 2026-08-25 — **L3Harris Technologies**: [Security Research Engineer Intern](https://jobs.l3harris.com/job/Herndon-Intern,-Security-Research-Engineer-VA-20171/1422834800/?ats=successfactors)
-- 2026-08-25 — **L3Harris Technologies**: [Software Engineer Intern](https://jobs.l3harris.com/job/Melbourne-Intern-C,-Software-Engineer-FL-32919/1422807400/?ats=successfactors)
 
 ## Recently closed
 
