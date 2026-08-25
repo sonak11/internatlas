@@ -64332,7 +64332,7 @@
         "discovered": "2026-08-10",
         "last_verified": "2026-08-25"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -93016,7 +93016,7 @@
         "discovered": "2026-08-25",
         "last_verified": "2026-08-25"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
