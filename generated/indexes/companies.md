@@ -147,7 +147,7 @@
 | [Chevron Corporation](../companies/chevron-corporation.md) | 4/6 | quant, software-engineering |
 | [Chicago Trading Company](../companies/chicago-trading-company.md) | 6/6 | quant, software-engineering |
 | [Ciena](../companies/ciena.md) | 2/12 | design, embedded, hardware, software-engineering |
-| [Cigna Group](../companies/cigna-group.md) | 1/1 | software-engineering |
+| [Cigna Group](../companies/cigna-group.md) | 2/2 | ai, software-engineering |
 | [Circle K](../companies/circle-k.md) | 1/1 | software-engineering |
 | [Circleback](../companies/circleback.md) | 1/1 | software-engineering |
 | [Cirrus Logic](../companies/cirrus-logic.md) | 1/3 | ai, embedded |
@@ -282,7 +282,7 @@
 | [GE Aerospace](../companies/ge-aerospace.md) | 4/4 | software-engineering |
 | [GE Appliances](../companies/ge-appliances.md) | 0/1 | software-engineering |
 | [GE Healthcare](../companies/ge-healthcare.md) | 0/2 | hardware, software-engineering |
-| [GE Vernova](../companies/ge-vernova.md) | 6/11 | product, software-engineering |
+| [GE Vernova](../companies/ge-vernova.md) | 8/13 | product, software-engineering |
 | [GRITT ROBOTICS INC](../companies/gritt-robotics-inc.md) | 1/1 | machine-learning |
 | [Garda Capital Partners](../companies/garda-capital-partners.md) | 1/1 | software-engineering |
 | [Garmin](../companies/garmin.md) | 1/1 | software-engineering |
@@ -303,7 +303,7 @@
 | [Global Partners](../companies/global-partners.md) | 0/1 | software-engineering |
 | [GoDaddy](../companies/godaddy.md) | 0/1 | software-engineering |
 | [Golden Pet Brands](../companies/golden-pet-brands.md) | 0/1 | software-engineering |
-| [Goldman Sachs](../companies/goldman-sachs.md) | 11/11 | product, quant, software-engineering |
+| [Goldman Sachs](../companies/goldman-sachs.md) | 0/11 | product, quant, software-engineering |
 | [Google](../companies/google.md) | 3/9 | data-science, research, software-engineering |
 | [Grant Thornton](../companies/grant-thornton.md) | 2/2 | software-engineering |
 | [Gritt Robotics Inc](../companies/gritt-robotics-inc.md) | 1/1 | software-engineering |
@@ -371,6 +371,7 @@
 | [JINGDONG](../companies/jingdong.md) | 0/1 | software-engineering |
 | [JP Morgan Chase](../companies/jp-morgan-chase.md) | 6/7 | ai, quant, software-engineering |
 | [Jane Street](../companies/jane-street.md) | 17/17 | data-engineering, hardware, machine-learning, quant, research, security, software-engineering |
+| [Johns Hopkins Applied Physics Laboratory](../companies/johns-hopkins-applied-physics-laboratory.md) | 1/1 | data-science |
 | [Johnson & Johnson](../companies/johnson-johnson.md) | 1/1 | software-engineering |
 | [Jump Trading](../companies/jump-trading.md) | 45/46 | ai, data-engineering, design, hardware, machine-learning, quant, research |
 | [Junior AI](../companies/junior-ai.md) | 1/1 | software-engineering |
@@ -401,7 +402,7 @@
 | [Littelfuse](../companies/littelfuse.md) | 0/1 | software-engineering |
 | [LiveRamp](../companies/liveramp.md) | 0/1 | software-engineering |
 | [Loop](../companies/loop.md) | 0/1 | data-science |
-| [Louisiana Blue](../companies/louisiana-blue.md) | 1/4 | software-engineering |
+| [Louisiana Blue](../companies/louisiana-blue.md) | 2/4 | software-engineering |
 | [Lumentum](../companies/lumentum.md) | 0/2 | software-engineering |
 | [Luminance](../companies/luminance.md) | 1/1 | ai |
 | [Léger](../companies/l-ger.md) | 1/1 | research |
@@ -446,7 +447,7 @@
 | [Moss & Associates](../companies/moss-associates.md) | 0/1 | software-engineering |
 | [Motorola](../companies/motorola.md) | 3/3 | software-engineering |
 | [Mujin](../companies/mujin.md) | 3/3 | software-engineering |
-| [Multnomah County](../companies/multnomah-county.md) | 1/2 | software-engineering |
+| [Multnomah County](../companies/multnomah-county.md) | 0/2 | software-engineering |
 | [Muru](../companies/muru.md) | 2/2 | software-engineering |
 | [NBCUniversal](../companies/nbcuniversal.md) | 2/2 | software-engineering |
 | [NBT Bank](../companies/nbt-bank.md) | 0/1 | software-engineering |
@@ -536,6 +537,7 @@
 | [Postman](../companies/postman.md) | 1/1 | ai |
 | [Praytell](../companies/praytell.md) | 1/1 | software-engineering |
 | [PricewaterhouseCoopers (PwC)](../companies/pricewaterhousecoopers-pwc.md) | 6/6 | ai, software-engineering |
+| [Primetals Technologies](../companies/primetals-technologies.md) | 1/1 | software-engineering |
 | [ProNexus](../companies/pronexus.md) | 1/1 | software-engineering |
 | [Procter & Gamble](../companies/procter-gamble.md) | 5/5 | ai, data-science, product, software-engineering |
 | [Prophet](../companies/prophet.md) | 0/1 | ai |
@@ -551,7 +553,7 @@
 | [RLI](../companies/rli.md) | 0/1 | product |
 | [ROCKWOOL Group](../companies/rockwool-group.md) | 0/2 | product, software-engineering |
 | [RRS Group](../companies/rrs-group.md) | 2/2 | software-engineering |
-| [RTX](../companies/rtx.md) | 20/60 | data-science, design, machine-learning, software-engineering |
+| [RTX](../companies/rtx.md) | 23/62 | data-science, design, machine-learning, software-engineering |
 | [Radix Trading](../companies/radix-trading.md) | 1/1 | quant |
 | [Rainmaker](../companies/rainmaker.md) | 0/1 | software-engineering |
 | [Rakuten International](../companies/rakuten-international.md) | 0/1 | software-engineering |
@@ -727,9 +729,9 @@
 | [Veralto](../companies/veralto.md) | 0/1 | machine-learning |
 | [Verition Fund Management](../companies/verition-fund-management.md) | 1/1 | software-engineering |
 | [Verition Fund Management LLC](../companies/verition-fund-management-llc.md) | 1/1 | software-engineering |
-| [Verkada](../companies/verkada.md) | 0/1 | software-engineering |
+| [Verkada](../companies/verkada.md) | 5/6 | embedded, security, software-engineering |
 | [Verne Robotics](../companies/verne-robotics.md) | 1/1 | software-engineering |
-| [Vertiv](../companies/vertiv.md) | 12/13 | product, software-engineering |
+| [Vertiv](../companies/vertiv.md) | 13/14 | product, software-engineering |
 | [VetsEZ](../companies/vetsez.md) | 1/1 | software-engineering |
 | [Viavi Solutions](../companies/viavi-solutions.md) | 0/1 | software-engineering |
 | [Virtu Financial](../companies/virtu-financial.md) | 14/14 | design, hardware, quant |

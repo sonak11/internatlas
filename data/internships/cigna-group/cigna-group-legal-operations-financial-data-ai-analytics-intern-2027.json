@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "louisiana-blue-healthcare-price-and-transparency-data-analyst-intern-2026",
+  "id": "cigna-group-legal-operations-financial-data-ai-analytics-intern-2027",
   "company": {
-    "name": "Louisiana Blue",
-    "slug": "louisiana-blue"
+    "name": "Cigna Group",
+    "slug": "cigna-group"
   },
-  "role": "Healthcare Price and Transparency Data Analyst Intern",
-  "category": "software-engineering",
-  "apply_url": "https://bcbsla.wd1.myworkdayjobs.com/Generation_Blue/job/Corporate---Baton-Rouge-LA/Healthcare-Price-and-Transparency-Data-Analyst-Intern_R11903",
-  "season": "fall",
-  "year": 2026,
+  "role": "Legal Operations Financial Data & AI Analytics Intern",
+  "category": "ai",
+  "apply_url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/St-Louis-MO/Legal-Operations-Financial--Data---AI-Analytics-Intern_25016386",
+  "season": "summer",
+  "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Baton Rouge",
-      "state": "LA",
+      "city": "St. Louis",
+      "state": "MO",
       "country": "USA"
     }
   ],
@@ -40,8 +40,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-20",
-    "discovered": "2026-08-05",
+    "posted": "2026-08-25",
+    "discovered": "2026-08-25",
     "last_verified": "2026-08-25"
   },
   "status": "open",

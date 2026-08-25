@@ -10,7 +10,7 @@ _Generated 2026-08-25_
 |---|---|
 | TikTok | 149 |
 | Tesla | 111 |
-| RTX | 60 |
+| RTX | 62 |
 | ByteDance | 54 |
 | Jump Trading | 46 |
 | Cloudflare | 34 |
@@ -33,19 +33,19 @@ _Generated 2026-08-25_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 1309 | `██████████████` |
-| ai | 220 | `██` |
+| software-engineering | 1315 | `██████████████` |
+| ai | 221 | `██` |
 | quant | 202 | `██` |
 | machine-learning | 146 | `██` |
 | research | 109 | `█` |
 | hardware | 109 | `█` |
-| product | 70 | `█` |
-| embedded | 57 | `█` |
-| data-science | 50 | `█` |
+| product | 73 | `█` |
+| embedded | 58 | `█` |
+| data-science | 51 | `█` |
 | design | 45 | `█` |
 | cloud | 42 | `█` |
 | data-engineering | 28 | `█` |
-| security | 16 | `█` |
+| security | 17 | `█` |
 
 ## Newest listings
 
@@ -58,6 +58,10 @@ _Generated 2026-08-25_
 - 2026-08-25 — **Cadence Design Systems**: [Product Engineering Intern - Electronics Hardware Design](https://cadence.wd1.myworkdayjobs.com/University_Talent/job/Burlington-MA/Product-Engineering-Internship--Electronics-Hardware-Design--Fall-2026-_R54158-1)
 - 2026-08-25 — **Cadence Design Systems**: [Product Engineering Intern - Electronics Hardware Design](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/Burlington-MA/Product-Engineering-Internship--Electronics-Hardware-Design--Fall-2026-_R54158-2)
 - 2026-08-25 — **Celonis**: [Engineering Intern](https://job-boards.greenhouse.io/celonis/jobs/7974381003?gh_jid=7974381003)
+- 2026-08-25 — **Cigna Group**: [Legal Operations Financial Data & AI Analytics Intern](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/St-Louis-MO/Legal-Operations-Financial--Data---AI-Analytics-Intern_25016386)
+- 2026-08-25 — **GE Vernova**: [Controls Product Management Intern](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Greenville/GE-Vernova-Controls-Product-Management-Intern---Summer-2027_R5050803-3)
+- 2026-08-25 — **GE Vernova**: [Controls Product Management Intern - Summer 2027](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Greenville/GE-Vernova-Controls-Product-Management-Intern---Summer-2027_R5050803)
+- 2026-08-25 — **Johns Hopkins Applied Physics Laboratory**: [Data Scientist Intern - Data Science - System Performance Evaluation](https://careers.jhuapl.edu/jobs/59800?icims=1)
 - 2026-08-25 — **Jump Trading**: [Campus Quantitative Research Intern (Off-Cycle - Winter/Spring 2027)](https://www.jumptrading.com/hr/job?gh_jid=8027898)
 - 2026-08-25 — **Kodiak Robotics**: [Simulation Intern](https://job-boards.greenhouse.io/kodiak/jobs/4378662009)
 - 2026-08-25 — **L3Harris Technologies**: [Configuration Management Intern](https://jobs.l3harris.com/job/Waco-Intern,-Configuration-Management-TX-76705/1422798600/?ats=successfactors)
@@ -65,10 +69,6 @@ _Generated 2026-08-25_
 - 2026-08-25 — **L3Harris Technologies**: [Software Engineer Intern](https://jobs.l3harris.com/job/Melbourne-Intern-C,-Software-Engineer-FL-32919/1422807400/?ats=successfactors)
 - 2026-08-25 — **L3Harris Technologies**: [Software Engineer Intern](https://jobs.l3harris.com/job/Palm-Bay-Intern-D,-Software-Engineer-FL-32905/1422806300/?ats=successfactors)
 - 2026-08-25 — **L3Harris Technologies**: [Software Engineer Intern](https://jobs.l3harris.com/job/Fort-Wayne-Intern,-Software-Engineer-IN-46818/1422837600/?ats=successfactors)
-- 2026-08-25 — **L3Harris Technologies**: [Software Engineer Intern](https://jobs.l3harris.com/job/Palm-Bay-Intern,-Software-Engineer-FL-32905/1422837400/?ats=successfactors)
-- 2026-08-25 — **L3Harris Technologies**: [Software Engineer Intern](https://jobs.l3harris.com/job/Fort-Wayne-Intern-D,-Software-Engineer-IN-46818/1422797900/?ats=successfactors)
-- 2026-08-25 — **L3Harris Technologies**: [Software Engineer Intern](https://jobs.l3harris.com/job/Fort-Wayne-Intern,-Software-Engineer-IN-46818/1422837800/?ats=successfactors)
-- 2026-08-25 — **L3Harris Technologies**: [Software Engineer Intern](https://jobs.l3harris.com/job/Fort-Wayne-Intern,-Software-Engineer-IN-46818/1422838400/?ats=successfactors)
 
 ## Recently closed
 
@@ -175,6 +175,17 @@ _Generated 2026-08-25_
 - Global Partners — Advanced Analytics Intern
 - GoDaddy — Software Development Engineer Intern
 - Golden Pet Brands — Data Analytics Intern
+- Goldman Sachs — AWM Product Management Analyst Intern
+- Goldman Sachs — Quantitative Strategist Associate Intern - Asset and Wealth Management
+- Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
+- Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
+- Goldman Sachs — Summer Analyst Intern - Americas - AWM Product Management
+- Goldman Sachs — Summer Analyst Intern - FICC and Equities - Sales and Trading
+- Goldman Sachs — Summer Analyst Intern - FICC & Equities - Sales & Trading
+- Goldman Sachs — Summer Analyst Intern - Wealth Management - Product Management and Design
+- Goldman Sachs — Summer Associate Intern - Multiple Teams
 - Google — Research Intern - PhD
 - Google — Software Developer Intern
 - Group 1001 — Quantitative Analysis Intern
@@ -211,7 +222,6 @@ _Generated 2026-08-25_
 - L3Harris Technologies — Software Engineering Intern
 - Leidos — Engineering Intern - Defense Systems - Threat Modeling & Simulation Portfolio
 - Louisiana Blue — Data Modeler Intern
-- Louisiana Blue — Healthcare Price and Transparency Data Analyst Intern
 - Louisiana Blue — Operational Reporting & Data Analyst Intern - CW
 - Lumentum — Optical Verification Technician Co-op Intern
 - Lumentum — Optical Verification Technician Intern/Co-op
@@ -233,6 +243,7 @@ _Generated 2026-08-25_
 - Mobius Renewables — Software Engineer Intern
 - Moog — Computer Science Intern - Information Technology
 - Moog — Product Engineering Intern
+- Multnomah County — Immunization & Community Health Intern - Prevention and Health Promotion
 - Multnomah County — Public Health Tobacco Control and Prevention Intern
 - National Laboratory of the Rockies — Graduate Intern - Transportation Systems Analysis
 - National Laboratory of the Rockies — Software and Data Infrastructure Intern
@@ -302,7 +313,6 @@ _Generated 2026-08-25_
 - RTX — Software Engineer Intern
 - RTX — Software Engineer Intern
 - RTX — Software Engineer Intern - Spring 2027
-- RTX — Software Engineer Intern - Summer 2027
 - RTX — Software Engineer Intern - Summer 2027
 - RTX — Software Engineer Intern - Summer 2027
 - RTX — Software Engineer Intern - Summer 2027

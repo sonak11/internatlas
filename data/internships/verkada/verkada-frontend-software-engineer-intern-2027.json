@@ -1,20 +1,24 @@
 {
   "schema_version": "1.0",
-  "id": "louisiana-blue-healthcare-price-and-transparency-data-analyst-intern-2026",
+  "id": "verkada-frontend-software-engineer-intern-2027",
   "company": {
-    "name": "Louisiana Blue",
-    "slug": "louisiana-blue"
+    "name": "Verkada",
+    "slug": "verkada"
   },
-  "role": "Healthcare Price and Transparency Data Analyst Intern",
+  "role": "Frontend Software Engineer Intern",
   "category": "software-engineering",
-  "apply_url": "https://bcbsla.wd1.myworkdayjobs.com/Generation_Blue/job/Corporate---Baton-Rouge-LA/Healthcare-Price-and-Transparency-Data-Analyst-Intern_R11903",
-  "season": "fall",
-  "year": 2026,
+  "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5210942007",
+  "season": "winter",
+  "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Baton Rouge",
-      "state": "LA",
+      "city": "San Mateo",
+      "state": "CA",
+      "country": "USA"
+    },
+    {
+      "city": "San Mateo",
       "country": "USA"
     }
   ],
@@ -40,8 +44,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-20",
-    "discovered": "2026-08-05",
+    "posted": "2026-08-25",
+    "discovered": "2026-08-25",
     "last_verified": "2026-08-25"
   },
   "status": "open",

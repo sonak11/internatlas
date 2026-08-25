@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "louisiana-blue-healthcare-price-and-transparency-data-analyst-intern-2026",
+  "id": "rtx-software-engineer-intern-summer-2027-2027-d5f70b",
   "company": {
-    "name": "Louisiana Blue",
-    "slug": "louisiana-blue"
+    "name": "RTX",
+    "slug": "rtx"
   },
-  "role": "Healthcare Price and Transparency Data Analyst Intern",
+  "role": "Software Engineer Intern - Summer 2027",
   "category": "software-engineering",
-  "apply_url": "https://bcbsla.wd1.myworkdayjobs.com/Generation_Blue/job/Corporate---Baton-Rouge-LA/Healthcare-Price-and-Transparency-Data-Analyst-Intern_R11903",
-  "season": "fall",
-  "year": 2026,
+  "apply_url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CA-ANAHEIM-406--160-N-Riverview-Dr--BLDG-406-Ste-150/Software-Engineering-Intern--Summer-2027-_01867697",
+  "season": "summer",
+  "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Baton Rouge",
-      "state": "LA",
+      "city": "Anaheim",
+      "state": "CA",
       "country": "USA"
     }
   ],
@@ -25,7 +25,9 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "masters"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -40,8 +42,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-20",
-    "discovered": "2026-08-05",
+    "posted": "2026-08-25",
+    "discovered": "2026-08-25",
     "last_verified": "2026-08-25"
   },
   "status": "open",
