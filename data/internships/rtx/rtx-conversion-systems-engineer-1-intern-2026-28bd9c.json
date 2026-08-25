@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "freddie-mac-technology-intern-enterprise-operations-technology-2027",
+  "id": "rtx-conversion-systems-engineer-1-intern-2026-28bd9c",
   "company": {
-    "name": "Freddie Mac",
-    "slug": "freddie-mac"
+    "name": "RTX",
+    "slug": "rtx"
   },
-  "role": "Technology Intern - Enterprise Operations + Technology",
+  "role": "Conversion Systems Engineer 1 Intern",
   "category": "software-engineering",
-  "apply_url": "https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/EO-T-Technology-Intern--Summer-2027_JR17542",
-  "season": "summer",
-  "year": 2027,
+  "apply_url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Intern-Conversion-Systems-Engineer-I--Onsite-_01866850",
+  "season": "fall",
+  "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "McLean",
-      "state": "VA",
+      "city": "Cedar Rapids",
+      "state": "IA",
       "country": "USA"
     }
   ],
@@ -40,8 +40,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-24",
-    "discovered": "2026-08-24",
+    "posted": "2026-08-17",
+    "discovered": "2026-08-25",
     "last_verified": "2026-08-25"
   },
   "status": "open",

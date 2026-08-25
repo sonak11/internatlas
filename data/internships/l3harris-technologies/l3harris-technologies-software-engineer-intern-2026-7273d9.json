@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "freddie-mac-technology-intern-enterprise-operations-technology-2027",
+  "id": "l3harris-technologies-software-engineer-intern-2026-7273d9",
   "company": {
-    "name": "Freddie Mac",
-    "slug": "freddie-mac"
+    "name": "L3Harris Technologies",
+    "slug": "l3harris-technologies"
   },
-  "role": "Technology Intern - Enterprise Operations + Technology",
+  "role": "Software Engineer Intern",
   "category": "software-engineering",
-  "apply_url": "https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/EO-T-Technology-Intern--Summer-2027_JR17542",
-  "season": "summer",
-  "year": 2027,
+  "apply_url": "https://jobs.l3harris.com/job/Colorado-Springs-Intern-C,-Software-Engineer-CO-80916/1420701600/?ats=successfactors",
+  "season": "fall",
+  "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "McLean",
-      "state": "VA",
+      "city": "Colorado Springs",
+      "state": "CO",
       "country": "USA"
     }
   ],
@@ -25,7 +25,10 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "masters",
+      "phd"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -40,8 +43,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-24",
-    "discovered": "2026-08-24",
+    "posted": "2026-08-18",
+    "discovered": "2026-08-25",
     "last_verified": "2026-08-25"
   },
   "status": "open",

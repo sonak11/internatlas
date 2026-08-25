@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "freddie-mac-technology-intern-enterprise-operations-technology-2027",
+  "id": "cadence-design-systems-product-engineering-intern-electronics-hardware-design-2026-c5b6a7",
   "company": {
-    "name": "Freddie Mac",
-    "slug": "freddie-mac"
+    "name": "Cadence Design Systems",
+    "slug": "cadence-design-systems"
   },
-  "role": "Technology Intern - Enterprise Operations + Technology",
-  "category": "software-engineering",
-  "apply_url": "https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/EO-T-Technology-Intern--Summer-2027_JR17542",
-  "season": "summer",
-  "year": 2027,
+  "role": "Product Engineering Intern - Electronics Hardware Design",
+  "category": "hardware",
+  "apply_url": "https://cadence.wd1.myworkdayjobs.com/University_Talent/job/Burlington-MA/Product-Engineering-Internship--Electronics-Hardware-Design--Fall-2026-_R54158-1",
+  "season": "fall",
+  "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "McLean",
-      "state": "VA",
+      "city": "Burlington",
+      "state": "MA",
       "country": "USA"
     }
   ],
@@ -40,8 +40,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-24",
-    "discovered": "2026-08-24",
+    "posted": "2026-08-25",
+    "discovered": "2026-08-25",
     "last_verified": "2026-08-25"
   },
   "status": "open",

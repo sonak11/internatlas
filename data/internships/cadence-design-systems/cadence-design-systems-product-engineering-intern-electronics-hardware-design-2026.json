@@ -1,24 +1,19 @@
 {
   "schema_version": "1.0",
-  "id": "formlabs-hardware-r-d-engineer-intern-2026",
+  "id": "cadence-design-systems-product-engineering-intern-electronics-hardware-design-2026",
   "company": {
-    "name": "Formlabs",
-    "slug": "formlabs"
+    "name": "Cadence Design Systems",
+    "slug": "cadence-design-systems"
   },
-  "role": "Hardware R&D Engineer Intern",
+  "role": "Product Engineering Intern - Electronics Hardware Design",
   "category": "hardware",
-  "apply_url": "https://careers.formlabs.com/job/8097694/apply/?gh_jid=8097694",
+  "apply_url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/Burlington-MA/Product-Engineering-Internship--Electronics-Hardware-Design--Fall-2026-_R54158-2",
   "season": "fall",
   "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Cambridge",
-      "state": "MA",
-      "country": "USA"
-    },
-    {
-      "city": "Somerville",
+      "city": "Burlington",
       "state": "MA",
       "country": "USA"
     }
@@ -45,8 +40,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-30",
-    "discovered": "2026-07-17",
+    "posted": "2026-08-25",
+    "discovered": "2026-08-25",
     "last_verified": "2026-08-25"
   },
   "status": "open",

@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "freddie-mac-technology-intern-enterprise-operations-technology-2027",
+  "id": "formlabs-hardware-r-d-engineering-intern-2026",
   "company": {
-    "name": "Freddie Mac",
-    "slug": "freddie-mac"
+    "name": "Formlabs",
+    "slug": "formlabs"
   },
-  "role": "Technology Intern - Enterprise Operations + Technology",
-  "category": "software-engineering",
-  "apply_url": "https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/EO-T-Technology-Intern--Summer-2027_JR17542",
-  "season": "summer",
-  "year": 2027,
+  "role": "Hardware R&D Engineering Intern",
+  "category": "hardware",
+  "apply_url": "https://careers.formlabs.com/job/8097694/apply/?gh_jid=8097694",
+  "season": "fall",
+  "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "McLean",
-      "state": "VA",
+      "city": "Somerville",
+      "state": "MA",
       "country": "USA"
     }
   ],
@@ -40,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-24",
-    "discovered": "2026-08-24",
+    "posted": "2026-08-21",
+    "discovered": "2026-08-25",
     "last_verified": "2026-08-25"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }
