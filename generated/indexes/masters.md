@@ -10,6 +10,8 @@
 | [AlixPartners](generated/companies/alixpartners.md) | [Data Scientist Intern](https://www.alixpartners.com/careers/7725335003?gh_jid=7725335003) | NYC | Onsite | 2026-07-06 | Rolling | 🟢 Open | ❔ |
 | [Altice USA](generated/companies/altice-usa.md) | [Data Engineer Intern](https://www.optimumcareers.com/job/Long-Island-City-Intern-Data-Engineer-NY-11101/1414286700/?ats=successfactors) | Long Island City | Onsite | 2026-07-31 | Rolling | 🟢 Open | ❔ |
 | [Amazon](generated/companies/amazon.md) | [Software Development Engineer Internship - Fall 2026 - US](https://amazon.jobs/en/jobs/3116030/software-development-engineer-internship-fall-2026-us) | Seattle, WA | Onsite | 2026-05-15 | Rolling | 🟢 Open | ❔ |
+| [AMD](generated/companies/amd.md) | [ASIC Package Engineer Intern Co-op](https://careers.amd.com/jobs/91469?icims=1) | San Jose, CA +1 | Onsite | 2026-08-25 | Rolling | 🟢 Open | ❔ |
+| [AMD](generated/companies/amd.md) | [ASIC Package Engineering Intern Co-op](https://careers.amd.com/jobs/91471?icims=1) | Secaucus, NJ +5 | Onsite | 2026-08-25 | Rolling | 🟢 Open | ❔ |
 | [AMD](generated/companies/amd.md) | [Data Analyst Intern/Co-op](https://careers.amd.com/jobs/91183?icims=1) | Rochester, NY +5 | Onsite | 2026-08-21 | Rolling | 🟢 Open | ❔ |
 | [AMD](generated/companies/amd.md) | [Data Analyst Intern/Co-op](https://careers.amd.com/jobs/91179?icims=1) | San Jose, CA +1 | Onsite | 2026-08-21 | Rolling | 🟢 Open | ❔ |
 | [AMD](generated/companies/amd.md) | [Field Applications Engineer Intern - Masters](https://careers.amd.com/jobs/91239?icims=1) | San Jose, CA | Onsite | 2026-08-21 | Rolling | 🟢 Open | ❔ |

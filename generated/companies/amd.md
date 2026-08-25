@@ -6,6 +6,10 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
+| AMD | [ASIC Package Engineer Intern Co-op](https://careers.amd.com/jobs/91469?icims=1) | San Jose, CA +1 | Onsite | 2026-08-25 | Rolling | 🟢 Open | ❔ |
+| AMD | [ASIC Package Engineering Co-op/Intern](https://careers.amd.com/jobs/91463?icims=1) | San Jose, CA +1 | Onsite | 2026-08-25 | Rolling | 🟢 Open | ❔ |
+| AMD | [ASIC Package Engineering Intern Co-op](https://careers.amd.com/jobs/91471?icims=1) | Secaucus, NJ +5 | Onsite | 2026-08-25 | Rolling | 🟢 Open | ❔ |
+| AMD | [ASIC Package Engineering Intern Co-op](https://careers.amd.com/jobs/91466?icims=1) | Secaucus, NJ +5 | Onsite | 2026-08-25 | Rolling | 🟢 Open | ❔ |
 | AMD | [Data Analyst Intern/Co-op](https://careers.amd.com/jobs/91183?icims=1) | Rochester, NY +5 | Onsite | 2026-08-21 | Rolling | 🟢 Open | ❔ |
 | AMD | [Data Analyst Intern/Co-op](https://careers.amd.com/jobs/91175?icims=1) | Rochester, NY +5 | Onsite | 2026-08-21 | Rolling | 🟢 Open | ❔ |
 | AMD | [Data Analyst Intern/Co-op](https://careers.amd.com/jobs/91179?icims=1) | San Jose, CA +1 | Onsite | 2026-08-21 | Rolling | 🟢 Open | ❔ |

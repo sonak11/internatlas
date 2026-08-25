@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 💻 Software Engineering Internships
 
-**1291** tracked · **865** open now
+**1291** tracked · **863** open now
 
 ## Current openings
 
@@ -300,7 +300,6 @@
 | [Freddie Mac](generated/companies/freddie-mac.md) | [Single-Family Data Intern](https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Single-Family-Data-Intern--Summer-2027_JR17545) | McLean, VA | Onsite | 2026-08-24 | Rolling | 🟢 Open | ❔ |
 | [Freddie Mac](generated/companies/freddie-mac.md) | [Software Developer Intern - Single-Family](https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Single-Family-Software-Developer-Intern--Summer-2027_JR17544) | McLean, VA | Onsite | 2026-08-24 | Rolling | 🟢 Open | ❔ |
 | [Freddie Mac](generated/companies/freddie-mac.md) | [Technology Intern - Enterprise Operations + Technology](https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/EO-T-Technology-Intern--Summer-2027_JR17542) | McLean, VA | Onsite | 2026-08-24 | Rolling | 🟢 Open | ❔ |
-| [Freeform](generated/companies/freeform.md) | [Materials Engineer Intern](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7907965003) | LA | Onsite | 2026-08-20 | Rolling | 🟢 Open | ❔ |
 | [Freeform](generated/companies/freeform.md) | [Software Engineer Intern - Summer 2027](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7872198003) | LA +1 | Onsite | 2026-08-15 | Rolling | 🟢 Open | ❔ |
 | [FTI Consulting](generated/companies/fti-consulting.md) | [Technology Intern](https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/United-States/XMLNAME-2027-Intern---Technology_JR260339-1) | Houston, TX +9 | Onsite | 2026-07-27 | Rolling | 🟢 Open | ❔ |
 | [FTI Consulting](generated/companies/fti-consulting.md) | [Technology Intern - Technology](https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareersPrivate/job/United-States/XMLNAME-2027-Intern---Technology_JR260339) | Houston, TX +6 | Onsite | 2026-07-27 | Rolling | 🟢 Open | ❔ |
@@ -528,7 +527,6 @@
 | [Oracle](generated/companies/oracle.md) | [Customer Solutions Analyst Intern - Ovip](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/334388) | USA | Onsite | 2026-05-21 | Rolling | 🟢 Open | ❔ |
 | [Oracle](generated/companies/oracle.md) | [Platform Software Engineer 1 Intern - Full-time Intern Conversion](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/342415) | USA | Onsite | 2026-08-12 | Rolling | 🟢 Open | ❔ |
 | [Orennia](generated/companies/orennia.md) | [Analytics Intern](https://boards.greenhouse.io/orennia/jobs/5277706008) | Calgary | Onsite | 2026-07-07 | Rolling | 🟢 Open | ❔ |
-| [Pacific Northwest National Laboratory](generated/companies/pacific-northwest-national-laboratory.md) | [Detection Physics Intern](https://careers.pnnl.gov/jobs/11987?icims=1) | Washington | Onsite | 2026-08-14 | Rolling | 🟢 Open | ❔ |
 | [Pacific Northwest National Laboratory](generated/companies/pacific-northwest-national-laboratory.md) | [Undergraduate Technical Intern - Nuclear Facility](https://careers.pnnl.gov/jobs/12027?icims=1) | Richland, WA | Onsite | 2026-08-14 | Rolling | 🟢 Open | ❔ |
 | [Palantir](generated/companies/palantir.md) | [Forward Deployed Software Engineer Intern](https://jobs.lever.co/palantir/ac0dc094-2480-43c2-8495-26ade227ff4f/apply) | NYC | Onsite | 2026-03-10 | Rolling | 🟢 Open | ❔ |
 | [Palantir](generated/companies/palantir.md) | [Forward Deployed Software Engineer Intern](https://jobs.lever.co/palantir/26e23f5d-083b-45aa-b223-1a6e43d960bf/apply) | London | Onsite | 2026-07-31 | Rolling | 🟢 Open | ❔ |
@@ -1001,6 +999,7 @@
 | [Formlabs](generated/companies/formlabs.md) | [Test Software Intern](https://careers.formlabs.com/job/8065543/apply/?gh_jid=8065543) | Cambridge, MA | Onsite | 2026-07-14 | Rolling | 🔴 Closed | ❔ |
 | [Foxconn Industrial Internet](generated/companies/foxconn-industrial-internet.md) | [Data Visualization & Analytics Intern - Engineering](http://foxconnggroup.applytojob.com/apply/VZnsanT4LU/Engineering-Data-Visualization-Analytics-Intern) | Houston, TX | Onsite | 2026-08-11 | Rolling | 🔴 Closed | ❔ |
 | [Foxconn Industrial Internet](generated/companies/foxconn-industrial-internet.md) | [Software Engineer Intern - Engineering and Operations](http://foxconnggroup.applytojob.com/apply/xf0soVofyI/Software-Engineering-Intern) | Houston, TX | Onsite | 2026-08-11 | Rolling | 🔴 Closed | ❔ |
+| [Freeform](generated/companies/freeform.md) | [Materials Engineer Intern](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7907965003) | LA | Onsite | 2026-08-20 | Rolling | 🔴 Closed | ❔ |
 | [Freeform](generated/companies/freeform.md) | [Process Engineer Intern](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7765271003) | LA | Onsite | 2026-06-09 | Rolling | 🔴 Closed | ❔ |
 | [Frost](generated/companies/frost.md) | [Computer Science Intern - Digital Services](https://frostbank.wd5.myworkdayjobs.com/External/job/San-Antonio-TX---One-Frost/College-Intern---Digital-Services_R261550) | San Antonio, TX | Onsite | 2026-08-21 | Rolling | 🔴 Closed | ❔ |
 | [Gartner](generated/companies/gartner.md) | [Data Analyst Intern](https://gartner.wd5.myworkdayjobs.com/EXT/job/Irving-TX/Data-Analyst-Internship--2028-Graduates-_113297) | Irving, TX | Onsite | 2026-08-13 | Rolling | 🔴 Closed | ❔ |
@@ -1130,6 +1129,7 @@
 | [onsemi](generated/companies/onsemi.md) | [Electrical Device Characterization Intern](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2505101) | San Jose, CA | Onsite | 2026-05-26 | Rolling | 🔴 Closed | ❔ |
 | [Ontario Teachers' Pension Plan](generated/companies/ontario-teachers-pension-plan.md) | [Finance Intern - Risk Analytics](https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers/job/Toronto-Canada/Intern--Finance--Risk-Analytics--January-2027--8-months-_7145) | Toronto | Onsite | 2026-08-21 | Rolling | 🔴 Closed | ❔ |
 | [Ontario Teachers' Pension Plan](generated/companies/ontario-teachers-pension-plan.md) | [Risk Intern - Total Fund Risk](https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers/job/Toronto-Canada/Intern---Risk--Total-Fund-Risk--May-2027--12-months-_7195) | Toronto | Onsite | 2026-08-21 | Rolling | 🔴 Closed | ❔ |
+| [Pacific Northwest National Laboratory](generated/companies/pacific-northwest-national-laboratory.md) | [Detection Physics Intern](https://careers.pnnl.gov/jobs/11987?icims=1) | Washington | Onsite | 2026-08-14 | Rolling | 🔴 Closed | ❔ |
 | [Pacific Northwest National Laboratory](generated/companies/pacific-northwest-national-laboratory.md) | [Masters Intern - Detection Physics](https://careers.pnnl.gov/jobs/11986?icims=1) | USA | Onsite | 2026-08-14 | Rolling | 🔴 Closed | ❔ |
 | [Palantir](generated/companies/palantir.md) | [Forward Deployed Software Engineer Intern](https://jobs.lever.co/palantir/d582cd84-14fd-4aa3-b413-15982d286bd9/apply) | NYC | Onsite | 2026-02-19 | Rolling | 🔴 Closed | ❔ |
 | [PanAgora](generated/companies/panagora.md) | [Dynamic Intern](https://empower.wd12.myworkdayjobs.com/PanAgora/job/MA-Boston---PanAgora/Intern--Dynamic_R0061449) | Boston, MA | Onsite | 2026-08-06 | Rolling | 🔴 Closed | ❔ |

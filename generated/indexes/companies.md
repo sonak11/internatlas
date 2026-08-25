@@ -10,7 +10,7 @@
 | [ABC News](../companies/abc-news.md) | 0/1 | product |
 | [ACLU Kentucky](../companies/aclu-kentucky.md) | 0/1 | software-engineering |
 | [AMAROK Security](../companies/amarok-security.md) | 0/1 | research |
-| [AMD](../companies/amd.md) | 27/27 | embedded, hardware, machine-learning, research, software-engineering |
+| [AMD](../companies/amd.md) | 31/31 | embedded, hardware, machine-learning, research, software-engineering |
 | [AQR Capital Management](../companies/aqr-capital-management.md) | 1/2 | quant |
 | [ASM Global](../companies/asm-global.md) | 1/1 | software-engineering |
 | [ASM International](../companies/asm-international.md) | 1/1 | software-engineering |
@@ -130,7 +130,7 @@
 | [Cadence Design Systems](../companies/cadence-design-systems.md) | 0/6 | design, software-engineering |
 | [Campbell Soup Company](../companies/campbell-soup-company.md) | 1/1 | ai |
 | [Canadian Solar](../companies/canadian-solar.md) | 1/1 | software-engineering |
-| [Canva](../companies/canva.md) | 3/6 | ai, research |
+| [Canva](../companies/canva.md) | 3/5 | ai, research |
 | [Capacity](../companies/capacity.md) | 1/1 | software-engineering |
 | [Capital One](../companies/capital-one.md) | 10/15 | data-science, security, software-engineering |
 | [Capula](../companies/capula.md) | 1/1 | quant |
@@ -270,7 +270,7 @@
 | [Foxconn Industrial Internet](../companies/foxconn-industrial-internet.md) | 0/2 | software-engineering |
 | [Framatome](../companies/framatome.md) | 1/1 | software-engineering |
 | [Freddie Mac](../companies/freddie-mac.md) | 7/7 | quant, software-engineering |
-| [Freeform](../companies/freeform.md) | 2/3 | software-engineering |
+| [Freeform](../companies/freeform.md) | 1/3 | software-engineering |
 | [Frontier Health](../companies/frontier-health.md) | 1/1 | research |
 | [Frost](../companies/frost.md) | 0/1 | software-engineering |
 | [Fullbay](../companies/fullbay.md) | 1/1 | software-engineering |
@@ -504,7 +504,7 @@
 | [PIMCO](../companies/pimco.md) | 3/3 | quant, software-engineering |
 | [PSECU](../companies/psecu.md) | 0/1 | software-engineering |
 | [PSP Investments](../companies/psp-investments.md) | 1/1 | ai |
-| [Pacific Northwest National Laboratory](../companies/pacific-northwest-national-laboratory.md) | 2/3 | software-engineering |
+| [Pacific Northwest National Laboratory](../companies/pacific-northwest-national-laboratory.md) | 1/3 | software-engineering |
 | [Palantir](../companies/palantir.md) | 10/11 | cloud, software-engineering |
 | [Palantir Technologies](../companies/palantir-technologies.md) | 14/17 | cloud, software-engineering |
 | [PanAgora](../companies/panagora.md) | 0/1 | software-engineering |

@@ -1,19 +1,25 @@
 {
   "schema_version": "1.0",
-  "id": "canva-phd-research-scientist-intern-generative-ai-2026",
+  "id": "amd-asic-package-engineering-co-op-intern-2027",
   "company": {
-    "name": "Canva",
-    "slug": "canva"
+    "name": "AMD",
+    "slug": "amd"
   },
-  "role": "PhD Research Scientist Intern - Generative AI",
-  "category": "ai",
-  "apply_url": "https://jobs.smartrecruiters.com/Canva/6000000001289897",
-  "season": "fall",
-  "year": 2026,
+  "role": "ASIC Package Engineering Co-op/Intern",
+  "category": "hardware",
+  "apply_url": "https://careers.amd.com/jobs/91463?icims=1",
+  "season": "spring",
+  "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "SF",
+      "city": "San Jose",
+      "state": "CA",
+      "country": "USA"
+    },
+    {
+      "city": "Santa Clara",
+      "state": "CA",
       "country": "USA"
     }
   ],
@@ -24,9 +30,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "phd"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -41,8 +45,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-06",
-    "discovered": "2026-08-06",
+    "posted": "2026-08-25",
+    "discovered": "2026-08-25",
     "last_verified": "2026-08-25"
   },
   "status": "open",

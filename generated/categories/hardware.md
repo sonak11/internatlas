@@ -2,13 +2,17 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🔩 Hardware Internships
 
-**101** tracked · **81** open now
+**105** tracked · **85** open now
 
 ## Current openings
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
 | [Akuna Capital](generated/companies/akuna-capital.md) | [Hardware Engineer Intern](https://akunacapital.com/careers/job/8018880/?gh_jid=8018880) | Chicago, IL | Onsite | 2026-07-13 | Rolling | 🟢 Open | ❌ |
+| [AMD](generated/companies/amd.md) | [ASIC Package Engineer Intern Co-op](https://careers.amd.com/jobs/91469?icims=1) | San Jose, CA +1 | Onsite | 2026-08-25 | Rolling | 🟢 Open | ❔ |
+| [AMD](generated/companies/amd.md) | [ASIC Package Engineering Co-op/Intern](https://careers.amd.com/jobs/91463?icims=1) | San Jose, CA +1 | Onsite | 2026-08-25 | Rolling | 🟢 Open | ❔ |
+| [AMD](generated/companies/amd.md) | [ASIC Package Engineering Intern Co-op](https://careers.amd.com/jobs/91471?icims=1) | Secaucus, NJ +5 | Onsite | 2026-08-25 | Rolling | 🟢 Open | ❔ |
+| [AMD](generated/companies/amd.md) | [ASIC Package Engineering Intern Co-op](https://careers.amd.com/jobs/91466?icims=1) | Secaucus, NJ +5 | Onsite | 2026-08-25 | Rolling | 🟢 Open | ❔ |
 | [AMD](generated/companies/amd.md) | [Hardware Design Verification Engineer Co-op/Intern](https://careers.amd.com/jobs/90811?icims=1) | San Jose, CA +1 | Onsite | 2026-08-21 | Rolling | 🟢 Open | ❔ |
 | [AMD](generated/companies/amd.md) | [Hardware Design Verification Engineer Co-op/Intern](https://careers.amd.com/jobs/90810?icims=1) | San Jose, CA +1 | Onsite | 2026-08-21 | Rolling | 🟢 Open | ❔ |
 | [AMD](generated/companies/amd.md) | [Hardware Design Verification Engineer Intern/Co-op](https://careers.amd.com/jobs/90813?icims=1) | Secaucus, NJ +6 | Onsite | 2026-08-21 | Rolling | 🟢 Open | ❔ |
@@ -114,7 +118,7 @@
 
 - SpaceX (19)
 - Neuralink (13)
-- AMD (7)
+- AMD (11)
 - NVIDIA (6)
 - Jump Trading (5)
 - Anduril (4)

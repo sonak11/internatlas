@@ -14,9 +14,9 @@ _Generated 2026-08-25_
 | ByteDance | 54 |
 | Jump Trading | 45 |
 | Cloudflare | 34 |
+| AMD | 31 |
 | American Express | 30 |
 | NVIDIA | 30 |
-| AMD | 27 |
 | IMC Trading | 25 |
 | SpaceX | 25 |
 | Neuralink | 22 |
@@ -37,8 +37,8 @@ _Generated 2026-08-25_
 | ai | 218 | `██` |
 | quant | 201 | `██` |
 | machine-learning | 145 | `██` |
-| research | 109 | `█` |
-| hardware | 101 | `█` |
+| research | 108 | `█` |
+| hardware | 105 | `█` |
 | product | 70 | `█` |
 | embedded | 57 | `█` |
 | data-science | 50 | `█` |
@@ -49,6 +49,10 @@ _Generated 2026-08-25_
 
 ## Newest listings
 
+- 2026-08-25 — **AMD**: [ASIC Package Engineer Intern Co-op](https://careers.amd.com/jobs/91469?icims=1)
+- 2026-08-25 — **AMD**: [ASIC Package Engineering Co-op/Intern](https://careers.amd.com/jobs/91463?icims=1)
+- 2026-08-25 — **AMD**: [ASIC Package Engineering Intern Co-op](https://careers.amd.com/jobs/91471?icims=1)
+- 2026-08-25 — **AMD**: [ASIC Package Engineering Intern Co-op](https://careers.amd.com/jobs/91466?icims=1)
 - 2026-08-25 — **L3Harris Technologies**: [Configuration Management Intern](https://jobs.l3harris.com/job/Waco-Intern,-Configuration-Management-TX-76705/1422798600/?ats=successfactors)
 - 2026-08-25 — **L3Harris Technologies**: [Software Engineer Intern](https://jobs.l3harris.com/job/Melbourne-Intern-C,-Software-Engineer-FL-32919/1422807400/?ats=successfactors)
 - 2026-08-25 — **L3Harris Technologies**: [Software Engineer Intern](https://jobs.l3harris.com/job/Palm-Bay-Intern-D,-Software-Engineer-FL-32905/1422806300/?ats=successfactors)
@@ -65,10 +69,6 @@ _Generated 2026-08-25_
 - 2026-08-24 — **Bank of Montreal**: [Client Enablement Analyst Co-op/Intern - Customer Shared Services](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/BMO-Capital-Markets-Winter-2027-Client-Enablement-Analyst--Toronto_R260021775-3)
 - 2026-08-24 — **BNY**: [Data Science Intern - Engineering](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81241)
 - 2026-08-24 — **BNY**: [Data Science Intern - Engineering](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81239)
-- 2026-08-24 — **BNY**: [Data Science Intern - Engineering](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81240)
-- 2026-08-24 — **BNY**: [Data Science Intern - Engineering](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81238)
-- 2026-08-24 — **BNY**: [Engineering Developer Intern - Engineering](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81252)
-- 2026-08-24 — **BNY**: [Engineering Intern - Data Science](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81322)
 
 ## Recently closed
 
@@ -109,8 +109,7 @@ _Generated 2026-08-25_
 - Cadence Design Systems — SSG Design Engineering Intern
 - CALSTART — Web Development Intern
 - Canva — PhD Research Scientist Intern - Edge AI
-- Canva — PhD Research Scientist Intern - Generative AI
-- Canva — PhD Research Scientist Intern - Reinforcement Learning - Images
+- Canva — PhD Research Scientist Intern - Reinforcement Learning for Diffusion Modelling
 - Capital One — Cyber Security Intern
 - Capital One — Software Engineer Intern
 - CCC Intelligent Solutions — Data Science Engineer Intern
@@ -157,6 +156,7 @@ _Generated 2026-08-25_
 - Fluency — Engineer Intern
 - Foxconn Industrial Internet — Data Visualization & Analytics Intern - Engineering
 - Foxconn Industrial Internet — Software Engineer Intern - Engineering and Operations
+- Freeform — Materials Engineer Intern
 - Frost — Computer Science Intern - Digital Services
 - Gartner — Data Analyst Intern
 - GE Vernova — Digital Technology Intern
@@ -250,6 +250,7 @@ _Generated 2026-08-25_
 - Ontario Teachers' Pension Plan — Finance Intern - Risk Analytics
 - Ontario Teachers' Pension Plan — Risk Intern - Total Fund Risk
 - Otter Products — Artificial Intelligence Intern
+- Pacific Northwest National Laboratory — Detection Physics Intern
 - Pacific Northwest National Laboratory — Masters Intern - Detection Physics
 - Palantir — Forward Deployed Software Engineer Intern
 - PanAgora — Dynamic Intern
