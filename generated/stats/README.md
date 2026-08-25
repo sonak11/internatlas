@@ -144,6 +144,7 @@ _Generated 2026-08-25_
 - Cubist Systematic Strategies — Quantitative Developer Intern
 - DataRobot — Agentic AI Intern
 - Dmg Media — Editorial Innovation Intern - Innovation Team
+- Elevate Semiconductor — Product Engineering Intern
 - Excel Sports Management — Analytics Intern - Analytics
 - Excel Sports Management — Football Coaches Intern
 - Fab2 — Automation Software Engineer Intern
@@ -206,6 +207,7 @@ _Generated 2026-08-25_
 - Lumentum — Optical Verification Technician Co-op Intern
 - Lumentum — Optical Verification Technician Intern/Co-op
 - Magnera — Data Analyst Intern - Information Technology
+- Marsh — Government Health Consulting Informatics Intern - College Program
 - MaxLinear — AI Intern
 - McKesson — Software Developer Intern - Digital and Enterprise Technology
 - Meta — Research Scientist Intern - Monetization Computer Vision

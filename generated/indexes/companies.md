@@ -224,7 +224,7 @@
 | [Eight Sleep](../companies/eight-sleep.md) | 0/1 | software-engineering |
 | [Eko Health](../companies/eko-health.md) | 0/1 | software-engineering |
 | [Electronic Arts](../companies/electronic-arts.md) | 1/1 | software-engineering |
-| [Elevate Semiconductor](../companies/elevate-semiconductor.md) | 1/1 | software-engineering |
+| [Elevate Semiconductor](../companies/elevate-semiconductor.md) | 0/1 | software-engineering |
 | [Encephalo Investments](../companies/encephalo-investments.md) | 1/1 | software-engineering |
 | [Ensemble Health Partners](../companies/ensemble-health-partners.md) | 2/2 | data-science, software-engineering |
 | [Entergy](../companies/entergy.md) | 0/1 | software-engineering |
@@ -408,7 +408,7 @@
 | [Magnera](../companies/magnera.md) | 0/1 | software-engineering |
 | [Markem-Imaje](../companies/markem-imaje.md) | 1/1 | software-engineering |
 | [Marmon Holdings](../companies/marmon-holdings.md) | 5/5 | data-engineering, software-engineering |
-| [Marsh](../companies/marsh.md) | 1/1 | software-engineering |
+| [Marsh](../companies/marsh.md) | 0/1 | software-engineering |
 | [Marshall Wace](../companies/marshall-wace.md) | 2/2 | software-engineering |
 | [Marvell](../companies/marvell.md) | 2/3 | design, software-engineering |
 | [Mastercard](../companies/mastercard.md) | 1/1 | software-engineering |

@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 💻 Software Engineering Internships
 
-**1286** tracked · **864** open now
+**1286** tracked · **862** open now
 
 ## Current openings
 
@@ -249,7 +249,6 @@
 | [DV Trading](generated/companies/dv-trading.md) | [Software Engineer Intern - DV Commodities](https://job-boards.greenhouse.io/dvtrading/jobs/4719125005) | London | Onsite | 2026-08-11 | Rolling | 🟢 Open | ❔ |
 | [East Penn Manufacturing Company](generated/companies/east-penn-manufacturing-company.md) | [Power BI & Analytics Intern](https://careers-eastpennmanufacturing.icims.com/jobs/30020/job?mobile=true&needsRedirect=false) | Ann Arbor, MI | Onsite | 2026-07-27 | Rolling | 🟢 Open | ❔ |
 | [Electronic Arts](generated/companies/electronic-arts.md) | [Software Engineer Intern](https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern/210894) | Vancouver | Onsite | 2026-04-20 | Rolling | 🟢 Open | ❌ |
-| [Elevate Semiconductor](generated/companies/elevate-semiconductor.md) | [Product Engineering Intern](https://apply.workable.com/elevate-semiconductor/j/F234DECA3C/apply) | San Diego, CA | Onsite | 2026-08-22 | Rolling | 🟢 Open | ❔ |
 | [Encephalo Investments](generated/companies/encephalo-investments.md) | [Software Developer Intern](https://jobs.smartrecruiters.com/EncephaloInvestments/743999734497349) | Woodbury, MN | Onsite | 2026-08-18 | Rolling | 🟢 Open | ❔ |
 | [Ensemble Health Partners](generated/companies/ensemble-health-partners.md) | [Engineering Excellence Intern](https://ensemblehp.wd5.myworkdayjobs.com/ensemblehealthpartnerscareers/job/Remote---Nationwide/Engineering-Excellence-Intern_R048023) | Remote | Remote | 2026-07-17 | Rolling | 🟢 Open | ❔ |
 | [Epic Games](generated/companies/epic-games.md) | [Engine Programmer Intern - Unreal Engine](https://epicgames.com/careers/jobs/6147283004?gh_jid=6147283004) | London | Onsite | 2026-08-20 | Rolling | 🟢 Open | ❔ |
@@ -417,7 +416,6 @@
 | [Marmon Holdings](generated/companies/marmon-holdings.md) | [Data & Process Automation Intern - Duty Drawback](https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Newark-NJ/Data---Process-Automation-Intern---Duty-Drawback_JR0000045184) | Newark, NJ | Onsite | 2026-08-19 | Rolling | 🟢 Open | ❔ |
 | [Marmon Holdings](generated/companies/marmon-holdings.md) | [Digital Production Engineer Intern Co-op](https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Milwaukee-WI/Digital-Production-Engineering-Intern-OR-Student-Co-Op_JR0000037451-2) | Milwaukee, WI | Onsite | 2026-05-16 | Rolling | 🟢 Open | ❔ |
 | [Marmon Holdings](generated/companies/marmon-holdings.md) | [Digital Production Engineering Intern OR Student Co-Op](https://marmon.wd501.myworkdayjobs.com/Marmon_MSIP_Internships/job/Milwaukee-WI/Digital-Production-Engineering-Intern-OR-Student-Co-Op_JR0000037451) | Milwaukee, WI | Onsite | 2026-03-04 | Rolling | 🟢 Open | ❔ |
-| [Marsh](generated/companies/marsh.md) | [Government Health Consulting Informatics Intern - College Program](https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Phoenix---E-Camelback/Government-Health-Consulting-Informatics-Summer-Intern---College-Program-2027_R_362073) | Phoenix, AZ +1 | Onsite | 2026-08-21 | Rolling | 🟢 Open | ❔ |
 | [Marshall Wace](generated/companies/marshall-wace.md) | [Technology Intern](https://job-boards.greenhouse.io/mwinternshipprogram/jobs/8606238002) | NYC | Onsite | 2026-07-06 | Rolling | 🟢 Open | ❔ |
 | [Marshall Wace](generated/companies/marshall-wace.md) | [Technology Intern](https://job-boards.greenhouse.io/mwinternshipprogram/jobs/8598324002) | London | Onsite | 2026-07-07 | Rolling | 🟢 Open | ❔ |
 | [Marvell](generated/companies/marvell.md) | [Analog Engineer Intern](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Vancouver-Canada/Analog-Engineer-Intern---PhD_2502424) | Vancouver | Onsite | 2026-06-13 | Rolling | 🟢 Open | ❔ |
@@ -976,6 +974,7 @@
 | [Duku AI](generated/companies/duku-ai.md) | [Tech Intern - Visiting](https://ats.rippling.com/duku-ai/jobs/d6140320-add8-4c23-80b0-5253e87d7c84) | London | Onsite | 2026-07-21 | Rolling | 🔴 Closed | ❔ |
 | [Eight Sleep](generated/companies/eight-sleep.md) | [Prototype & Test Engineer Intern - New Product Development](https://jobs.ashbyhq.com/eightsleep/26d71b34-8a04-45e4-8c39-980688779dc3/application) | SF | Onsite | 2026-07-02 | Rolling | 🔴 Closed | ❔ |
 | [Eko Health](generated/companies/eko-health.md) | [Clinical Product Strategy Intern - Clinical Technology](https://jobs.lever.co/ekohealth/ff0ee63d-4733-4c97-b3c5-0a6f1e303f1d/apply) | Remote | Remote | 2026-08-04 | Rolling | 🔴 Closed | ❔ |
+| [Elevate Semiconductor](generated/companies/elevate-semiconductor.md) | [Product Engineering Intern](https://apply.workable.com/elevate-semiconductor/j/F234DECA3C/apply) | San Diego, CA | Onsite | 2026-08-22 | Rolling | 🔴 Closed | ❔ |
 | [Entergy](generated/companies/entergy.md) | [Power Delivery Intern](https://jobs.entergy.com/job/New-Orleans-Power-Delivery-Fall-2026-Intern-Loui/1410233500/?ats=successfactors) | New Orleans, LA | Onsite | 2026-07-17 | Rolling | 🔴 Closed | ❔ |
 | [Environmental Defense Fund](generated/companies/environmental-defense-fund.md) | [Climate & Health Intern](https://osv-edf.wd5.myworkdayjobs.com/en-US/Confidential/job/Remote---US-Home/Climate---Health-Intern_REQ-002561) | NYC | Onsite | 2026-07-09 | Rolling | 🔴 Closed | ❔ |
 | [Etched](generated/companies/etched.md) | [Electrical Platform Intern](https://jobs.ashbyhq.com/Etched/904ddf46-55fc-4a8f-8b49-f32cfe88116a/application) | San Jose, CA | Onsite | 2026-02-07 | Rolling | 🔴 Closed | ❔ |
@@ -1073,6 +1072,7 @@
 | [Lumentum](generated/companies/lumentum.md) | [Optical Verification Technician Co-op Intern](https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Optical-VerificationTechnician-Intern-Co-op_20261049) | Ottawa | Onsite | 2026-08-04 | Rolling | 🔴 Closed | ❔ |
 | [Lumentum](generated/companies/lumentum.md) | [Optical Verification Technician Intern/Co-op](https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Optical-Verification-Technician-Intern-Co-op_20261048) | Ottawa | Onsite | 2026-08-04 | Rolling | 🔴 Closed | ❔ |
 | [Magnera](generated/companies/magnera.md) | [Data Analyst Intern - Information Technology](https://careers-magnera.icims.com/jobs/27241/job?mobile=true&needsRedirect=false) | Evansville, IN | Onsite | 2026-08-14 | Rolling | 🔴 Closed | ❔ |
+| [Marsh](generated/companies/marsh.md) | [Government Health Consulting Informatics Intern - College Program](https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Phoenix---E-Camelback/Government-Health-Consulting-Informatics-Summer-Intern---College-Program-2027_R_362073) | Phoenix, AZ +1 | Onsite | 2026-08-21 | Rolling | 🔴 Closed | ❔ |
 | [McKesson](generated/companies/mckesson.md) | [Data Governance Analyst Intern](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-ON-Mississauga/Data-Governance-Analyst-Intern---Fall-2026_JR0149860) | Mississauga | Onsite | 2026-07-09 | Rolling | 🔴 Closed | ❔ |
 | [McKesson](generated/companies/mckesson.md) | [Software Developer Intern - Digital and Enterprise Technology](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-QC-Montreal-Ville-Saint-Laurent/Stagiaire-en-dveloppement-logiciel---Automne-2026---Software-Developer-Intern---Fall-2026_JR0151997) | Montreal +1 | Onsite | 2026-08-10 | Rolling | 🔴 Closed | ❔ |
 | [McKesson](generated/companies/mckesson.md) | [Supply Chain Engineering and Analytics Intern](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-BC-Surrey/Supply-Chain-Engineering-and-Analytics-Intern---Fall-2026_JR0149819) | Surrey | Onsite | 2026-07-02 | Rolling | 🔴 Closed | ❔ |
@@ -1572,7 +1572,6 @@
 - DV Trading (1)
 - East Penn Manufacturing Company (1)
 - Electronic Arts (1)
-- Elevate Semiconductor (1)
 - Encephalo Investments (1)
 - Ensemble Health Partners (1)
 - Eridu AI (1)
@@ -1631,7 +1630,6 @@
 - Levi Strauss & Co. (1)
 - Magna (1)
 - Markem-Imaje (1)
-- Marsh (1)
 - Mastercard (1)
 - Mathtech (1)
 - Mindsmith (1)
@@ -1763,6 +1761,7 @@
 - Duku AI (1)
 - Eight Sleep (1)
 - Eko Health (1)
+- Elevate Semiconductor (1)
 - Entergy (1)
 - Environmental Defense Fund (1)
 - Evonik (1)
@@ -1805,6 +1804,7 @@
 - Littelfuse (1)
 - LiveRamp (1)
 - Magnera (1)
+- Marsh (1)
 - Medpace, Inc. (1)
 - Monogram (1)
 - Moss & Associates (1)
