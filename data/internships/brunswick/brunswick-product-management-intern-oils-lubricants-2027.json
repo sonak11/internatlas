@@ -1,20 +1,21 @@
 {
   "schema_version": "1.0",
-  "id": "royal-bank-of-canada-data-engineer-intern-chief-data-office-2027",
+  "id": "brunswick-product-management-intern-oils-lubricants-2027",
   "company": {
-    "name": "Royal Bank of Canada",
-    "slug": "royal-bank-of-canada"
+    "name": "Brunswick",
+    "slug": "brunswick"
   },
-  "role": "Data Engineer Intern - Chief Data Office",
-  "category": "data-engineering",
-  "apply_url": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---CDO--Data-Engineer-Intern--4-Months-_R-0000184902",
-  "season": "winter",
+  "role": "Product Management Intern - Oils & Lubricants",
+  "category": "product",
+  "apply_url": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Fond-du-Lac-WI/Mercury-Marine--Product-Management-Intern---Oils---Lubricants_JR-051213",
+  "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Toronto",
-      "country": "ON"
+      "city": "Fond du Lac",
+      "state": "WI",
+      "country": "USA"
     }
   ],
   "compensation": {
@@ -39,11 +40,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-24",
-    "discovered": "2026-08-24",
+    "posted": "2026-08-25",
+    "discovered": "2026-08-25",
     "last_verified": "2026-08-25"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

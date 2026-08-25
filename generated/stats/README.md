@@ -39,7 +39,7 @@ _Generated 2026-08-25_
 | machine-learning | 146 | `██` |
 | research | 109 | `█` |
 | hardware | 109 | `█` |
-| product | 73 | `█` |
+| product | 75 | `█` |
 | embedded | 58 | `█` |
 | data-science | 51 | `█` |
 | design | 45 | `█` |
@@ -54,6 +54,8 @@ _Generated 2026-08-25_
 - 2026-08-25 — **AMD**: [ASIC Package Engineering Intern Co-op](https://careers.amd.com/jobs/91471?icims=1)
 - 2026-08-25 — **AMD**: [ASIC Package Engineering Intern Co-op](https://careers.amd.com/jobs/91466?icims=1)
 - 2026-08-25 — **Bosch Home Comfort**: [AI Security Research Intern](https://jobs.smartrecruiters.com/BoschGroup/744000145507908)
+- 2026-08-25 — **Brunswick**: [Product Management Intern - Oils & Lubricants](https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Fond-du-Lac-WI/Mercury-Marine--Product-Management-Intern---Oils---Lubricants_JR-051213)
+- 2026-08-25 — **Brunswick**: [Product Management Intern - Parts & Accessories](https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Fond-du-Lac-WI/Merucry-Marine--Product-Management-Intern---Parts---Accessories_JR-051142)
 - 2026-08-25 — **Cadence Design Systems**: [Product Engineering Intern - Electronics Hardware Design](https://cadence.wd1.myworkdayjobs.com/University_Talent_Intern/job/Burlington-MA/Product-Engineering-Internship--Electronics-Hardware-Design--Fall-2026-_R54158)
 - 2026-08-25 — **Cadence Design Systems**: [Product Engineering Intern - Electronics Hardware Design](https://cadence.wd1.myworkdayjobs.com/University_Talent/job/Burlington-MA/Product-Engineering-Internship--Electronics-Hardware-Design--Fall-2026-_R54158-1)
 - 2026-08-25 — **Cadence Design Systems**: [Product Engineering Intern - Electronics Hardware Design](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/Burlington-MA/Product-Engineering-Internship--Electronics-Hardware-Design--Fall-2026-_R54158-2)
@@ -67,8 +69,6 @@ _Generated 2026-08-25_
 - 2026-08-25 — **L3Harris Technologies**: [Configuration Management Intern](https://jobs.l3harris.com/job/Waco-Intern,-Configuration-Management-TX-76705/1422798600/?ats=successfactors)
 - 2026-08-25 — **L3Harris Technologies**: [Security Research Engineer Intern](https://jobs.l3harris.com/job/Herndon-Intern,-Security-Research-Engineer-VA-20171/1422834800/?ats=successfactors)
 - 2026-08-25 — **L3Harris Technologies**: [Software Engineer Intern](https://jobs.l3harris.com/job/Melbourne-Intern-C,-Software-Engineer-FL-32919/1422807400/?ats=successfactors)
-- 2026-08-25 — **L3Harris Technologies**: [Software Engineer Intern](https://jobs.l3harris.com/job/Palm-Bay-Intern-D,-Software-Engineer-FL-32905/1422806300/?ats=successfactors)
-- 2026-08-25 — **L3Harris Technologies**: [Software Engineer Intern](https://jobs.l3harris.com/job/Fort-Wayne-Intern,-Software-Engineer-IN-46818/1422837600/?ats=successfactors)
 
 ## Recently closed
 
@@ -223,10 +223,13 @@ _Generated 2026-08-25_
 - Leidos — Engineering Intern - Defense Systems - Threat Modeling & Simulation Portfolio
 - Louisiana Blue — Data Modeler Intern
 - Louisiana Blue — Operational Reporting & Data Analyst Intern - CW
+- LPL Financial Holdings — Data Analytics Intern - FAR Program
 - Lumentum — Optical Verification Technician Co-op Intern
 - Lumentum — Optical Verification Technician Intern/Co-op
 - Magnera — Data Analyst Intern - Information Technology
+- Marsh — Government Health Consulting Informatics Intern - College Program
 - MaxLinear — AI Intern
+- McKesson — AI & Strategic Analytics Intern
 - McKesson — Software Developer Intern - Digital and Enterprise Technology
 - Meta — Research Scientist Intern - Monetization Computer Vision
 - Metropolitan Transportation Authority — Data Analyst Intern
@@ -293,6 +296,7 @@ _Generated 2026-08-25_
 - Rivian and Volkswagen Group Technologies — Software Engineer Intern - Embedded Platforms
 - Rivian and Volkswagen Group Technologies — Software Engineer Intern - Vehicle Controls
 - RLI — Product Management Intern
+- Royal Bank of Canada — Data Engineer Intern - Chief Data Office
 - RTX — Chemistry Materials Engineer Intern
 - RTX — Digital Technology Intern
 - RTX — Electrical Engineering Intern
