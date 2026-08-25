@@ -4108,7 +4108,7 @@
         "discovered": "2026-08-21",
         "last_verified": "2026-08-25"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -4222,7 +4222,7 @@
         "discovered": "2026-08-21",
         "last_verified": "2026-08-25"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -13173,7 +13173,7 @@
         "discovered": "2026-08-07",
         "last_verified": "2026-08-25"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -17470,7 +17470,7 @@
         "discovered": "2026-08-24",
         "last_verified": "2026-08-25"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -21617,7 +21617,7 @@
         "discovered": "2026-08-21",
         "last_verified": "2026-08-25"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -29053,6 +29053,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "concentric-ai-workflow-intern-ai-workflow-optimization-2026",
+      "company": {
+        "name": "Concentric",
+        "slug": "concentric"
+      },
+      "role": "AI Workflow Intern - AI Workflow Optimization",
+      "category": "ai",
+      "apply_url": "https://job-boards.greenhouse.io/concentric/jobs/4703940006",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Kirkland",
+          "state": "WA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-11",
+        "discovered": "2026-08-25",
+        "last_verified": "2026-08-25"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "connectprep-data-analyst-intern-2026",
       "company": {
         "name": "ConnectPrep",
@@ -29526,58 +29578,6 @@
     },
     {
       "schema_version": "1.0",
-      "id": "copart-software-engineer-intern-2026-1b52a7",
-      "company": {
-        "name": "Copart",
-        "slug": "copart"
-      },
-      "role": "Software Engineer Intern",
-      "category": "software-engineering",
-      "apply_url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109673",
-      "season": "fall",
-      "year": 2026,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Dallas",
-          "state": "TX",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-07-15",
-        "discovered": "2026-08-20",
-        "last_verified": "2026-08-25"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
       "id": "copart-software-engineer-intern-2026-2ceb13",
       "company": {
         "name": "Copart",
@@ -29955,7 +29955,7 @@
       },
       "role": "Software Engineer Intern",
       "category": "software-engineering",
-      "apply_url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR106129",
+      "apply_url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109673",
       "season": "fall",
       "year": 2026,
       "work_mode": "onsite",
@@ -29990,7 +29990,7 @@
         "resume_keywords": []
       },
       "dates": {
-        "posted": "2026-05-16",
+        "posted": "2026-07-15",
         "discovered": "2026-07-17",
         "last_verified": "2026-08-25"
       },
@@ -31441,7 +31441,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-25"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -31688,6 +31688,10 @@
       "locations": [
         {
           "city": "New York",
+          "country": "USA"
+        },
+        {
+          "city": "NYC",
           "country": "USA"
         }
       ],
@@ -44440,7 +44444,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-08-25"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -44542,7 +44546,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-08-25"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -44804,7 +44808,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-08-25"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -55581,6 +55585,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "jump-trading-campus-quantitative-research-intern-off-cycle-winter-spring-2027",
+      "company": {
+        "name": "Jump Trading",
+        "slug": "jump-trading",
+        "career_page": "https://www.jumptrading.com/careers"
+      },
+      "role": "Campus Quantitative Research Intern (Off-Cycle - Winter/Spring 2027)",
+      "category": "quant",
+      "apply_url": "https://www.jumptrading.com/hr/job?gh_jid=8027898",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Hong Kong",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-25",
+        "discovered": "2026-08-25",
+        "last_verified": "2026-08-25"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "jump-trading-campus-quantitative-researcher-intern-2026",
       "company": {
         "name": "Jump Trading",
@@ -57481,7 +57537,7 @@
         "discovered": "2026-08-17",
         "last_verified": "2026-08-25"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -74587,7 +74643,7 @@
         "discovered": "2026-08-19",
         "last_verified": "2026-08-25"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -76563,7 +76619,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "optiver-fpga-engineer-intern-2027-8e401c",
+      "id": "optiver-fpga-engineer-intern-2027",
       "company": {
         "name": "Optiver",
         "slug": "optiver"
@@ -76578,61 +76634,6 @@
         {
           "city": "Austin",
           "state": "TX",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [
-          "masters",
-          "phd"
-        ],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-07-21",
-        "discovered": "2026-07-21",
-        "last_verified": "2026-08-25"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "optiver-fpga-engineer-intern-2027",
-      "company": {
-        "name": "Optiver",
-        "slug": "optiver"
-      },
-      "role": "FPGA Engineer Intern",
-      "category": "hardware",
-      "apply_url": "https://www.optiver.com/join-us/jobs/8402114002/?gh_jid=8402114002",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Chicago",
-          "state": "IL",
           "country": "USA"
         }
       ],
@@ -77267,9 +77268,9 @@
       "dates": {
         "posted": "2026-07-16",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-08-25"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -84052,7 +84053,7 @@
         "resume_keywords": []
       },
       "dates": {
-        "posted": "2026-08-11",
+        "posted": "2026-08-21",
         "discovered": "2026-08-21",
         "last_verified": "2026-08-25"
       },
@@ -85318,7 +85319,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-25"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -92232,9 +92233,9 @@
       "dates": {
         "posted": "2026-08-06",
         "discovered": "2026-08-07",
-        "last_verified": "2026-08-11"
+        "last_verified": "2026-08-25"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -113318,7 +113319,7 @@
         "discovered": "2026-08-20",
         "last_verified": "2026-08-25"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
