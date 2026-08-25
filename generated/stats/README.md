@@ -34,7 +34,7 @@ _Generated 2026-08-25_
 | Category | Count | Share |
 |---|---|---|
 | software-engineering | 1305 | `██████████████` |
-| ai | 219 | `██` |
+| ai | 220 | `██` |
 | quant | 202 | `██` |
 | machine-learning | 146 | `██` |
 | research | 109 | `█` |
@@ -53,6 +53,7 @@ _Generated 2026-08-25_
 - 2026-08-25 — **AMD**: [ASIC Package Engineering Co-op/Intern](https://careers.amd.com/jobs/91463?icims=1)
 - 2026-08-25 — **AMD**: [ASIC Package Engineering Intern Co-op](https://careers.amd.com/jobs/91471?icims=1)
 - 2026-08-25 — **AMD**: [ASIC Package Engineering Intern Co-op](https://careers.amd.com/jobs/91466?icims=1)
+- 2026-08-25 — **Bosch Home Comfort**: [AI Security Research Intern](https://jobs.smartrecruiters.com/BoschGroup/744000145507908)
 - 2026-08-25 — **Cadence Design Systems**: [Product Engineering Intern - Electronics Hardware Design](https://cadence.wd1.myworkdayjobs.com/University_Talent_Intern/job/Burlington-MA/Product-Engineering-Internship--Electronics-Hardware-Design--Fall-2026-_R54158)
 - 2026-08-25 — **Cadence Design Systems**: [Product Engineering Intern - Electronics Hardware Design](https://cadence.wd1.myworkdayjobs.com/University_Talent/job/Burlington-MA/Product-Engineering-Internship--Electronics-Hardware-Design--Fall-2026-_R54158-1)
 - 2026-08-25 — **Cadence Design Systems**: [Product Engineering Intern - Electronics Hardware Design](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/Burlington-MA/Product-Engineering-Internship--Electronics-Hardware-Design--Fall-2026-_R54158-2)
@@ -68,7 +69,6 @@ _Generated 2026-08-25_
 - 2026-08-25 — **L3Harris Technologies**: [Software Engineer Intern](https://jobs.l3harris.com/job/Fort-Wayne-Intern,-Software-Engineer-IN-46818/1422837800/?ats=successfactors)
 - 2026-08-25 — **L3Harris Technologies**: [Software Engineer Intern](https://jobs.l3harris.com/job/Fort-Wayne-Intern,-Software-Engineer-IN-46818/1422838400/?ats=successfactors)
 - 2026-08-25 — **L3Harris Technologies**: [Software Engineer Intern](https://jobs.l3harris.com/job/Palm-Bay-Intern-D,-Software-Engineer-FL-32905/1422837000/?ats=successfactors)
-- 2026-08-25 — **L3Harris Technologies**: [Software Engineer Intern](https://jobs.l3harris.com/job/Palm-Bay-Intern,-Software-Engineer-FL-32905/1422837500/?ats=successfactors)
 
 ## Recently closed
 
@@ -239,7 +239,6 @@ _Generated 2026-08-25_
 - Nokia — Hardware Developer Engineer Co-op/Intern
 - Notion — Governance, Risk, and Compliance Intern (Fall 2026)
 - NVIDIA — Computer Architecture Intern
-- NVIDIA — Hardware Design for Test Intern - DFT
 - Ontario Teachers' Pension Plan — Finance Intern - Risk Analytics
 - Ontario Teachers' Pension Plan — Risk Intern - Total Fund Risk
 - Otter Products — Artificial Intelligence Intern
