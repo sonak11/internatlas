@@ -12204,7 +12204,7 @@
         "discovered": "2026-08-07",
         "last_verified": "2026-08-25"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -72837,7 +72837,7 @@
       "work_mode": "onsite",
       "locations": [
         {
-          "city": "South San Francisco",
+          "city": "Austin",
           "country": "USA"
         }
       ],
@@ -72889,7 +72889,7 @@
       "work_mode": "onsite",
       "locations": [
         {
-          "city": "South San Francisco",
+          "city": "Austin",
           "country": "USA"
         }
       ],
@@ -129693,7 +129693,7 @@
         "discovered": "2026-08-07",
         "last_verified": "2026-08-25"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"

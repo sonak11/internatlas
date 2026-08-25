@@ -78,7 +78,7 @@
 | [Astera](../companies/astera.md) | 1/1 | software-engineering |
 | [Astranis](../companies/astranis.md) | 3/12 | design, embedded, hardware, software-engineering |
 | [Atomic Semi](../companies/atomic-semi.md) | 6/6 | cloud, design, embedded, software-engineering |
-| [Atoms](../companies/atoms.md) | 3/4 | machine-learning, software-engineering |
+| [Atoms](../companies/atoms.md) | 2/4 | machine-learning, software-engineering |
 | [Auto-Owners Insurance](../companies/auto-owners-insurance.md) | 1/1 | software-engineering |
 | [Autodesk](../companies/autodesk.md) | 8/13 | ai, cloud, machine-learning, software-engineering |
 | [Availity](../companies/availity.md) | 0/1 | software-engineering |
@@ -741,7 +741,7 @@
 | [W.W. Grainger](../companies/w-w-grainger.md) | 2/2 | software-engineering |
 | [WEC Energy Group](../companies/wec-energy-group.md) | 2/2 | software-engineering |
 | [WGU](../companies/wgu.md) | 0/1 | software-engineering |
-| [WSP](../companies/wsp.md) | 2/2 | software-engineering |
+| [WSP](../companies/wsp.md) | 1/2 | software-engineering |
 | [Wabtec](../companies/wabtec.md) | 2/2 | software-engineering |
 | [WallStreetQuants](../companies/wallstreetquants.md) | 2/2 | quant |
 | [Walleye Capital](../companies/walleye-capital.md) | 2/9 | data-science, quant, software-engineering |

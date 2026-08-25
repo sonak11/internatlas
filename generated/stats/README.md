@@ -95,6 +95,7 @@ _Generated 2026-08-25_
 - Astranis — Reliability Design Associate Intern
 - Astranis — Software Engineer-Backend Intern
 - Atoms — Robotics Software Engineer Intern
+- Atoms — Software Engineer Intern - Winter 2027
 - Availity — Software Engineer Intern - Multiple Teams
 - Axon — Software Engineer Intern
 - Baker Hughes — Benefit Tool Developer Intern - Month Fixed Term Contract
@@ -399,6 +400,7 @@ _Generated 2026-08-25_
 - Western Digital — Software Engineer Intern
 - Western Magnetics — Software Engineer Intern
 - Willkie Farr & Gallagher — Financial Data Analyst Intern
+- WSP — Business Intelligence Intern
 - Zipline — Embedded Software Engineer Intern
 - Zipline — Enterprise Systems Software Engineer Intern
 - Zipline — Mechatronics Perception Intern - Fall 2026
