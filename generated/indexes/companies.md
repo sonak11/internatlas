@@ -446,7 +446,7 @@
 | [Moss & Associates](../companies/moss-associates.md) | 0/1 | software-engineering |
 | [Motorola](../companies/motorola.md) | 3/3 | software-engineering |
 | [Mujin](../companies/mujin.md) | 3/3 | software-engineering |
-| [Multnomah County](../companies/multnomah-county.md) | 2/2 | software-engineering |
+| [Multnomah County](../companies/multnomah-county.md) | 1/2 | software-engineering |
 | [Muru](../companies/muru.md) | 2/2 | software-engineering |
 | [NBCUniversal](../companies/nbcuniversal.md) | 2/2 | software-engineering |
 | [NBT Bank](../companies/nbt-bank.md) | 0/1 | software-engineering |
@@ -773,5 +773,5 @@
 | [k-ID](../companies/k-id.md) | 2/2 | software-engineering |
 | [onsemi](../companies/onsemi.md) | 3/4 | ai, software-engineering |
 | [pony.ai](../companies/pony-ai.md) | 1/1 | machine-learning |
-| [tarte cosmetics](../companies/tarte-cosmetics.md) | 1/1 | software-engineering |
+| [tarte cosmetics](../companies/tarte-cosmetics.md) | 0/1 | software-engineering |
 | [thyssenkrupp](../companies/thyssenkrupp.md) | 1/1 | software-engineering |

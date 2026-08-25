@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 💻 Software Engineering Internships
 
-**1309** tracked · **879** open now
+**1309** tracked · **877** open now
 
 ## Current openings
 
@@ -468,7 +468,6 @@
 | [Mujin](generated/companies/mujin.md) | [Software Development Intern - Spring 2027](https://mujin.bamboohr.com/careers/165/) | Suwanee, GA | Onsite | 2026-08-10 | Rolling | 🟢 Open | ❔ |
 | [Mujin](generated/companies/mujin.md) | [Software Integration Intern](https://mujin.bamboohr.com/careers/166/) | Suwanee, GA | Onsite | 2026-08-10 | Rolling | 🟢 Open | ❔ |
 | [Multnomah County](generated/companies/multnomah-county.md) | [Immunization & Community Health Intern - Prevention and Health Promotion](https://multco.wd1.myworkdayjobs.com/multco_jobs/job/Portland-OR/PHP-Immunization---Community-Health-Intern_R-20139) | Portland, OR | Onsite | 2026-08-24 | Rolling | 🟢 Open | ❔ |
-| [Multnomah County](generated/companies/multnomah-county.md) | [Public Health Tobacco Control and Prevention Intern](https://multco.wd1.myworkdayjobs.com/multco_jobs/job/Portland-OR/PHP-Tobacco-Control-and-Prevention-Intern_R-20137-1) | Portland, OR | Onsite | 2026-08-24 | Rolling | 🟢 Open | ❔ |
 | [Muru](generated/companies/muru.md) | [Full-Stack Software Engineer Intern](https://www.murumed.com/job-listings/web-software-engineer-intern) | New York, NY | Onsite | 2026-06-23 | Rolling | 🟢 Open | ❌ |
 | [Muru](generated/companies/muru.md) | [Mobile Software Engineer Intern](https://www.murumed.com/job-listings/software-engineer-intern) | New York, NY | Onsite | 2026-06-23 | Rolling | 🟢 Open | ❌ |
 | [Nash](generated/companies/nash.md) | [Full Stack Engineering Intern](https://www.workatastartup.com/jobs/94993) | San Francisco, CA | Onsite | 2026-05-19 | Rolling | 🟢 Open | ❌ |
@@ -690,7 +689,6 @@
 | [Synchrony Financial](generated/companies/synchrony-financial.md) | [Technology Intern](https://synchronyfinancial.wd5.myworkdayjobs.com/University/job/Other-Remote-NY/Technology-Intern---Fall-2026_2601748) | NYC | Onsite | 2026-06-12 | Rolling | 🟢 Open | ❔ |
 | [Syska Hennessy Group](generated/companies/syska-hennessy-group.md) | [Innovations Intern - Full Stack/Front End Engineering](https://job-boards.greenhouse.io/syskahennessy/jobs/8147733) | NYC | Onsite | 2026-08-21 | Rolling | 🟢 Open | ❔ |
 | [Systems Planning and Analysis (SPA)](generated/companies/systems-planning-and-analysis-spa.md) | [Science & Technology Intern](https://spa.jibeapply.com/jobs/23220?icims=1) | Alexandria, VA | Onsite | 2026-08-06 | Rolling | 🟢 Open | ❔ |
-| [tarte cosmetics](generated/companies/tarte-cosmetics.md) | [Product Development Intern](https://apply.workable.com/tarte-inc/j/66E81C77A4/apply) | NYC | Onsite | 2026-08-07 | Rolling | 🟢 Open | ❔ |
 | [Teledyne](generated/companies/teledyne.md) | [Software Engineer Intern - NHRC](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/NHRC-Software-Engineering-Internship--Summer-2027-_REQ36194-2) | Huntsville, AL | Onsite | 2026-08-13 | Rolling | 🟢 Open | ❔ |
 | [Teledyne](generated/companies/teledyne.md) | [Software Engineer Intern - NHRC](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/NHRC-Software-Engineering-Internship--Summer-2027-_REQ36193) | Huntsville, AL | Onsite | 2026-08-13 | Rolling | 🟢 Open | ❔ |
 | [Teledyne Technologies Incorporated](generated/companies/teledyne-technologies-incorporated.md) | [Software Engineer Intern](https://flir.wd1.myworkdayjobs.com/en-US/flircareers/job/US---Huntsville-AL/NHRC-Software-Engineering-Internship--Summer-2027-_REQ36193) | Huntsville, AL | Onsite | 2026-08-21 | Rolling | 🟢 Open | ❌ |
@@ -1123,6 +1121,7 @@
 | [Mosaic](generated/companies/mosaic.md) | [Capital Project Engineering Co-op/Intern](https://mosaic.wd5.myworkdayjobs.com/mosaic/job/CA---Belle-Plaine-SK/Capital-Project-Engineering-Co-op-Intern---Winter-2027_64418) | Regina | Onsite | 2026-07-21 | Rolling | 🔴 Closed | ❔ |
 | [Mosaic](generated/companies/mosaic.md) | [Operations & Automation Engineering Co-op/Intern](https://mosaic.wd5.myworkdayjobs.com/mosaic/job/US---Bartow-FL/Operations---Automation-Engineering-Co-op-Intern---Spring-2027_64675-1) | Bartow, FL | Onsite | 2026-07-22 | Rolling | 🔴 Closed | ❔ |
 | [Moss & Associates](generated/companies/moss-associates.md) | [Construction Technologies Intern](https://mosscm.wd1.myworkdayjobs.com/moss_careers/job/FORT-LAUDERDALE-FL/Construction-Technologies-Internship_R-2710) | McKinney, TX +2 | Onsite | 2026-07-04 | Rolling | 🔴 Closed | ❔ |
+| [Multnomah County](generated/companies/multnomah-county.md) | [Public Health Tobacco Control and Prevention Intern](https://multco.wd1.myworkdayjobs.com/multco_jobs/job/Portland-OR/PHP-Tobacco-Control-and-Prevention-Intern_R-20137-1) | Portland, OR | Onsite | 2026-08-24 | Rolling | 🔴 Closed | ❔ |
 | [National Laboratory of the Rockies](generated/companies/national-laboratory-of-the-rockies.md) | [Energy Data Analysis Intern](https://nrel.wd5.myworkdayjobs.com/NLR/job/Remote/Energy-Data-Analysis----Year-Round--Graduate-Internship_R14400) | Golden, CO | Onsite | 2026-07-13 | Rolling | 🔴 Closed | ❔ |
 | [National Laboratory of the Rockies](generated/companies/national-laboratory-of-the-rockies.md) | [Graduate Intern - Transportation Systems Analysis](https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Graduate--Year-Round--Intern---Transportation-Systems-Analysis_R14153) | Golden, CO | Onsite | 2026-07-14 | Rolling | 🔴 Closed | ❔ |
 | [National Reconnaissance Office](generated/companies/national-reconnaissance-office.md) | [Summer Internship - Dr. Chris Scolese](https://nro.applytojob.com/apply/oZyJp3ZEQh/2027-Dr-Chris-Scolese-Summer-Internship-Program) | Aurora, CO +3 | Onsite | 2026-08-18 | Rolling | 🔴 Closed | ❔ |
@@ -1253,6 +1252,7 @@
 | [Susquehanna International Group (SIG)](generated/companies/susquehanna-international-group-sig.md) | [Derivatives Sales Trader Intern - Summer 2027](https://careers-sig.icims.com/jobs/10626/job?mobile=true&needsRedirect=false) | NYC | Onsite | 2026-08-05 | Rolling | 🔴 Closed | ❔ |
 | [T. Rowe Price](generated/companies/t-rowe-price.md) | [Global Product Intern](https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Global-Product-Internship-Program_82693) | Baltimore, MD | Onsite | 2026-07-23 | Rolling | 🔴 Closed | ❔ |
 | [T. Rowe Price](generated/companies/t-rowe-price.md) | [Technology and Data Intern](https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Technology-and-Data-Internship_82677) | Owings Mills, MD +1 | Onsite | 2026-07-23 | Rolling | 🔴 Closed | ❔ |
+| [tarte cosmetics](generated/companies/tarte-cosmetics.md) | [Product Development Intern](https://apply.workable.com/tarte-inc/j/66E81C77A4/apply) | NYC | Onsite | 2026-08-07 | Rolling | 🔴 Closed | ❔ |
 | [Terminal](generated/companies/terminal.md) | [Software Engineer Intern - Backend](https://jobs.ashbyhq.com/terminal/6855293e-a817-4b70-835c-cd57e3bfcfde/application?embed=true) | Toronto | Onsite | 2026-08-06 | Rolling | 🔴 Closed | ❔ |
 | [Terminal](generated/companies/terminal.md) | [Software Engineer Intern - Data Platform](https://jobs.ashbyhq.com/terminal/d7e128ed-617c-4b9b-9e42-0e909fb25729/application?embed=true) | Toronto | Onsite | 2026-08-06 | Rolling | 🔴 Closed | ❔ |
 | [Tesla](generated/companies/tesla.md) | [Automated Diagnostics Intern - Software Engineer](https://www.tesla.com/careers/search/job/270521) | Palo Alto, CA | Onsite | 2026-06-07 | Rolling | 🔴 Closed | ❔ |
@@ -1721,7 +1721,6 @@
 - Stellar Science (1)
 - Syska Hennessy Group (1)
 - Systems Planning and Analysis (SPA) (1)
-- tarte cosmetics (1)
 - Teledyne Technologies Incorporated (1)
 - Terranova (1)
 - Texas Instruments (1)
@@ -1867,6 +1866,7 @@
 - Stand Insurance (1)
 - State of Nebraska (1)
 - State of North Carolina (1)
+- tarte cosmetics (1)
 - Texas Permanent School Fund Corporation (1)
 - The Home Depot (1)
 - The Hub Project (1)

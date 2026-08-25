@@ -8,7 +8,7 @@
 
 No dead links, no generic careers pages. Just current openings, newest first, with the date each one was posted.
 
-![summer 2027](https://img.shields.io/badge/summer%202027-983-blue?style=for-the-badge) ![open now](https://img.shields.io/badge/open%20now-823-brightgreen?style=for-the-badge) ![companies](https://img.shields.io/badge/companies-771-purple?style=for-the-badge) ![visa sponsors](https://img.shields.io/badge/visa%20sponsors-29-orange?style=for-the-badge) ![remote roles](https://img.shields.io/badge/remote%20roles-48-teal?style=for-the-badge) ![sync](https://img.shields.io/badge/sync-hourly-success?style=for-the-badge) ![updated](https://img.shields.io/badge/updated-2026--08--25%2012:44%20PM%20EDT-lightgrey?style=for-the-badge)
+![summer 2027](https://img.shields.io/badge/summer%202027-983-blue?style=for-the-badge) ![open now](https://img.shields.io/badge/open%20now-823-brightgreen?style=for-the-badge) ![companies](https://img.shields.io/badge/companies-771-purple?style=for-the-badge) ![visa sponsors](https://img.shields.io/badge/visa%20sponsors-29-orange?style=for-the-badge) ![remote roles](https://img.shields.io/badge/remote%20roles-48-teal?style=for-the-badge) ![sync](https://img.shields.io/badge/sync-hourly-success?style=for-the-badge) ![updated](https://img.shields.io/badge/updated-2026--08--25%201:37%20PM%20EDT-lightgrey?style=for-the-badge)
 
 [**📋 Browse listings**](#-summer-2027-internships) · [**🗓 Other terms**](#-other-open-terms) · [**➕ Add one**](CONTRIBUTING.md) · [**🔗 Sources**](SOURCES.md)
 
@@ -1085,7 +1085,7 @@ No dead links, no generic careers pages. Just current openings, newest first, wi
 <details>
 <summary><b>Show other open terms (1420)</b></summary>
 
-### 🍂 Fall 2026 (1170 · 658 open)
+### 🍂 Fall 2026 (1170 · 656 open)
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
@@ -1121,7 +1121,6 @@ No dead links, no generic careers pages. Just current openings, newest first, wi
 | [Micron Technology](generated/companies/micron-technology.md) | [Thin Films Equipment Engineering Intern - EDE](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---EDE-Thin-Films-Equipment-Engineering_JR108977) | Boise, ID | Onsite | 2026-08-24 | Rolling | 🟢 Open | ❔ |
 | [Monolithic Power Systems](generated/companies/monolithic-power-systems.md) | [AI Developer Intern](https://monolithicpower.wd12.myworkdayjobs.com/MPS_Careers/job/San-Jose---California/AI-Developer-Intern_R-1756) | San Jose, CA | Onsite | 2026-08-24 | Rolling | 🟢 Open | ❔ |
 | [Multnomah County](generated/companies/multnomah-county.md) | [Immunization & Community Health Intern - Prevention and Health Promotion](https://multco.wd1.myworkdayjobs.com/multco_jobs/job/Portland-OR/PHP-Immunization---Community-Health-Intern_R-20139) | Portland, OR | Onsite | 2026-08-24 | Rolling | 🟢 Open | ❔ |
-| [Multnomah County](generated/companies/multnomah-county.md) | [Public Health Tobacco Control and Prevention Intern](https://multco.wd1.myworkdayjobs.com/multco_jobs/job/Portland-OR/PHP-Tobacco-Control-and-Prevention-Intern_R-20137-1) | Portland, OR | Onsite | 2026-08-24 | Rolling | 🟢 Open | ❔ |
 | [Nomagic](generated/companies/nomagic.md) | [Engineering Intern - Software or Hardware](https://jobs.lever.co/Nomagic/c7a6445d-3fd8-4bf1-90c0-ec01c2bef2af/apply) | Alpharetta, GA | Onsite | 2026-08-24 | Rolling | 🟢 Open | ❔ |
 | [Wex](generated/companies/wex.md) | [Artificial Intelligence Intern - AI/ML/NLP Engineer](https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/PhD-Intern--AI-ML-NLP-Engineer_R22834) | Boston, MA +5 | Onsite | 2026-08-24 | Rolling | 🟢 Open | ❔ |
 | [Analog Devices](generated/companies/analog-devices.md) | [Algorithm Development Engineer Intern](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Algorithm-Development-Engineer-Intern_R265306-1) | Wilmington, MA | Onsite | 2026-08-22 | Rolling | 🟢 Open | ❔ |
@@ -1299,7 +1298,6 @@ No dead links, no generic careers pages. Just current openings, newest first, wi
 | [Luminance](generated/companies/luminance.md) | [AI Engineering Intern](https://apply.workable.com/luminance-1/j/E045EF5A7A/apply) | Cambridge | Onsite | 2026-08-07 | Rolling | 🟢 Open | ❔ |
 | [RTX](generated/companies/rtx.md) | [Systems Engineer 1 Intern - Intern Conversion](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Intern-Conversion--Systems-Engineer-I--Onsite-_01863596) | Cedar Rapids, IA | Onsite | 2026-08-07 | Rolling | 🟢 Open | ❔ |
 | [RTX](generated/companies/rtx.md) | [Systems Engineer 1 Intern - Intern Conversion](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Intern-Conversion--Systems-Engineer-I--Onsite-_01863190) | Cedar Rapids, IA | Onsite | 2026-08-07 | Rolling | 🟢 Open | ❔ |
-| [tarte cosmetics](generated/companies/tarte-cosmetics.md) | [Product Development Intern](https://apply.workable.com/tarte-inc/j/66E81C77A4/apply) | NYC | Onsite | 2026-08-07 | Rolling | 🟢 Open | ❔ |
 | [Terranova](generated/companies/terranova.md) | [Software Engineer Intern](https://jobs.ashbyhq.com/terranova/a8e5a8d2-4af3-4736-b66e-e0804447f7a0/application?embed=true) | Berkeley, CA | Onsite | 2026-08-07 | Rolling | 🟢 Open | ❔ |
 | [The Nuclear Company](generated/companies/the-nuclear-company.md) | [AI/ML Engineer Intern - Platform Integration & AI/Data](https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383163008) | Washington, DC | Onsite | 2026-08-07 | Rolling | 🟢 Open | ❔ |
 | [The Nuclear Company](generated/companies/the-nuclear-company.md) | [AI Software Engineer Intern](https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383113008) | Washington, DC | Onsite | 2026-08-07 | Rolling | 🟢 Open | ❔ |
@@ -1748,6 +1746,7 @@ No dead links, no generic careers pages. Just current openings, newest first, wi
 | [Meta](generated/companies/meta.md) | [Research Scientist Intern, Organic Optoelectronic Materials (PhD)](https://www.metacareers.com/profile/job_details/843617948284299) | Redmond, WA | Onsite | 2025-12-10 | Rolling | 🟢 Open | ❌ |
 | [Amazon](generated/companies/amazon.md) | [Amazon Robotics – Applied Scientist 2 Intern / Co-op - 2026](https://amazon.jobs/en/jobs/3104589/amazon-robotics-applied-scientist-ii-intern-co-op-2026-robotics-manipulation-perception-motion-planning-autonomous-mobile-robots-computer-vision-machine-learning-controls-and-more) | Seattle, WA +2 | Onsite | 2025-12-08 | Rolling | 🟢 Open | ❔ |
 | [Atoms](generated/companies/atoms.md) | [Robotics Software Engineer Intern](https://job-boards.greenhouse.io/cssmerge/jobs/8695475002) | LA +1 | Onsite | 2026-08-24 | Rolling | 🔴 Closed | ❔ |
+| [Multnomah County](generated/companies/multnomah-county.md) | [Public Health Tobacco Control and Prevention Intern](https://multco.wd1.myworkdayjobs.com/multco_jobs/job/Portland-OR/PHP-Tobacco-Control-and-Prevention-Intern_R-20137-1) | Portland, OR | Onsite | 2026-08-24 | Rolling | 🔴 Closed | ❔ |
 | [Elevate Semiconductor](generated/companies/elevate-semiconductor.md) | [Product Engineering Intern](https://apply.workable.com/elevate-semiconductor/j/F234DECA3C/apply) | San Diego, CA | Onsite | 2026-08-22 | Rolling | 🔴 Closed | ❔ |
 | [Availity](generated/companies/availity.md) | [Software Engineer Intern - Multiple Teams](https://availity.wd1.myworkdayjobs.com/availity_careers_us/job/Remote---United-States/Software-Engineering-Intern_R0008436) | Remote | Remote | 2026-08-21 | Rolling | 🔴 Closed | ❔ |
 | [Frost](generated/companies/frost.md) | [Computer Science Intern - Digital Services](https://frostbank.wd5.myworkdayjobs.com/External/job/San-Antonio-TX---One-Frost/College-Intern---Digital-Services_R261550) | San Antonio, TX | Onsite | 2026-08-21 | Rolling | 🔴 Closed | ❔ |
@@ -1829,6 +1828,7 @@ No dead links, no generic careers pages. Just current openings, newest first, wi
 | [Canva](generated/companies/canva.md) | [PhD Research Scientist Intern - Reinforcement Learning for Diffusion Modelling](https://jobs.smartrecruiters.com/Canva/6000000001295209) | London | Onsite | 2026-08-07 | Rolling | 🔴 Closed | ❔ |
 | [Ciena](generated/companies/ciena.md) | [Software Developer Intern - Fall 2026](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Developer-Intern---Fall-2026_R031492) | Ottawa | Onsite | 2026-08-07 | Rolling | 🔴 Closed | ❔ |
 | [Sony Pictures Entertainment](generated/companies/sony-pictures-entertainment.md) | [Insights Intern - Multiple Teams](https://spe.wd1.myworkdayjobs.com/en-US/SonyPicturesEntertainment/job/Culver-City-California/Intern--Insights--Strategy---Analytics--Product-Management---Data-Science---Fall-2026_JR113988) | Culver City, CA | Onsite | 2026-08-07 | Rolling | 🔴 Closed | ❔ |
+| [tarte cosmetics](generated/companies/tarte-cosmetics.md) | [Product Development Intern](https://apply.workable.com/tarte-inc/j/66E81C77A4/apply) | NYC | Onsite | 2026-08-07 | Rolling | 🔴 Closed | ❔ |
 | [Cohesity](generated/companies/cohesity.md) | [Data Cleansing and Sales Enablement Analyst Intern](https://cohesity.wd5.myworkdayjobs.com/Cohesity_Careers/job/Cohesity---London/Data-Analyst--Intern--London_R04433) | London | Onsite | 2026-08-06 | Rolling | 🔴 Closed | ❔ |
 | [impact.com](generated/companies/impact-com.md) | [Associate Software Engineer Intern](https://job-boards.greenhouse.io/impact/jobs/8645964002) | Santa Barbara, CA | Onsite | 2026-08-06 | Rolling | 🔴 Closed | ❔ |
 | [KBR](generated/companies/kbr.md) | [Software Intern](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Houston-Texas/Software-Intern_R2127863) | Houston, TX | Onsite | 2026-08-06 | Rolling | 🔴 Closed | ❔ |

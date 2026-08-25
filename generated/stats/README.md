@@ -233,6 +233,7 @@ _Generated 2026-08-25_
 - Mobius Renewables — Software Engineer Intern
 - Moog — Computer Science Intern - Information Technology
 - Moog — Product Engineering Intern
+- Multnomah County — Public Health Tobacco Control and Prevention Intern
 - National Laboratory of the Rockies — Graduate Intern - Transportation Systems Analysis
 - National Laboratory of the Rockies — Software and Data Infrastructure Intern
 - National Reconnaissance Office — Summer Internship - Dr. Chris Scolese
@@ -334,6 +335,7 @@ _Generated 2026-08-25_
 - StudyFetch — Engineering Intern
 - Susquehanna International Group (SIG) — Quantitative Trader Intern
 - Swift — Industry Engagement Research Analyst Intern
+- tarte cosmetics — Product Development Intern
 - Tencent — AI Product Manager Intern
 - Terminal — Software Engineer Intern - Backend
 - Terminal — Software Engineer Intern - Data Platform
