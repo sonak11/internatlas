@@ -33,7 +33,7 @@ _Generated 2026-08-25_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 1305 | `██████████████` |
+| software-engineering | 1306 | `██████████████` |
 | ai | 220 | `██` |
 | quant | 202 | `██` |
 | machine-learning | 146 | `██` |
@@ -129,6 +129,7 @@ _Generated 2026-08-25_
 - Cloudflare — AI Innovation Intern – Service Sales (Fall 2026)
 - Cloudflare — Brand Social Media Intern (Fall 2026)
 - Cloudflare — Customer Advocacy Intern (Fall 2026)
+- Cloudflare — GRC Team Intern (Fall 2026)
 - Cloudflare — Marketing Events and Campaigns Intern (Fall 2026)
 - Cloudflare — Marketing Programs and Analytics Intern
 - Cloudflare — Marketing Programs and Analytics Intern (Fall 2026)
