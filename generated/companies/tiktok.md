@@ -25,6 +25,9 @@
 | TikTok | [Backend Software Engineer Intern - Innovative Growth](https://lifeattiktok.com/search/7667934860750063925) | San Jose, CA | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
 | TikTok | [Backend Software Engineer Intern - LIVE Foundation Governance Engineering](https://lifeattiktok.com/search/7667935150530840837) | San Jose, CA | Onsite | 2026-08-04 | Rolling | 🟢 Open | ❌ |
 | TikTok | [Backend Software Engineer Intern - Product Infrastructure](https://lifeattiktok.com/search/7667935633764370741) | San Jose, CA | Onsite | 2026-08-04 | Rolling | 🟢 Open | ❔ |
+| TikTok | [Client Solutions Intern](https://lifeattiktok.com/search/7677467052537776437) | San Jose, CA | Onsite | 2026-08-24 | Rolling | 🟢 Open | ❔ |
+| TikTok | [Client Solutions Intern - Global Business Solutions](https://lifeattiktok.com/search/7677467375487486213) | LA | Onsite | 2026-08-24 | Rolling | 🟢 Open | ❔ |
+| TikTok | [Client Solutions Intern - Global Business Solutions](https://lifeattiktok.com/search/7677467375486765317) | NYC | Onsite | 2026-08-24 | Rolling | 🟢 Open | ❔ |
 | TikTok | [Copyright Solution Product Manager Intern - Tiktok-Music](https://lifeattiktok.com/search/7657541997725288757) | San Jose, CA | Onsite | 2026-07-03 | Rolling | 🟢 Open | ❔ |
 | TikTok | [Data Analyst Intern - LIVE](https://lifeattiktok.com/search/7674944387893791029) | London | Onsite | 2026-08-17 | Rolling | 🟢 Open | ❔ |
 | TikTok | [Data Engineer Intern - Ads Targeting](https://lifeattiktok.com/search/7668533140146817333) | San Jose, CA | Onsite | 2026-08-05 | Rolling | 🟢 Open | ❔ |
@@ -89,11 +92,14 @@
 | TikTok | [Product Manager Intern - Commerce Ads](https://lifeattiktok.com/search/7672557943224961333) | San Jose, CA | Onsite | 2026-08-12 | Rolling | 🟢 Open | ❔ |
 | TikTok | [Product Manager Intern - Content and Service Ads](https://lifeattiktok.com/search/7676283436713593093) | San Jose, CA | Onsite | 2026-08-22 | Rolling | 🟢 Open | ❔ |
 | TikTok | [Product Manager Intern - Content and Services](https://lifeattiktok.com/search/7673337777708550405) | San Jose, CA | Onsite | 2026-08-14 | Rolling | 🟢 Open | ❔ |
+| TikTok | [Product Manager Intern - Pgc](https://lifeattiktok.com/search/7673365923163638069) | San Jose, CA | Onsite | 2026-08-24 | Rolling | 🟢 Open | ❔ |
+| TikTok | [Product Manager Intern - Pgc](https://lifeattiktok.com/search/7673365416605010229) | LA | Onsite | 2026-08-24 | Rolling | 🟢 Open | ❔ |
 | TikTok | [Product Manager Intern - Product Infrastructure - Account](https://lifeattiktok.com/search/7670009830602721589) | San Jose, CA | Onsite | 2026-08-06 | Rolling | 🟢 Open | ❔ |
 | TikTok | [Product Manager Intern - Scaled Growth](https://lifeattiktok.com/search/7673559305519794437) | San Jose, CA | Onsite | 2026-08-14 | Rolling | 🟢 Open | ❔ |
 | TikTok | [Product Manager Intern - Signal and Identity Product](https://lifeattiktok.com/search/7672554809555192117) | San Jose, CA | Onsite | 2026-08-12 | Rolling | 🟢 Open | ❔ |
 | TikTok | [Product Manager Intern - TikTok Ads Agent-Scaled Growth](https://lifeattiktok.com/search/7657728959042046213) | San Jose, CA | Onsite | 2026-07-07 | Rolling | 🟢 Open | ❔ |
 | TikTok | [Product Manager Intern - TikTok Product Content Ecosystem](https://lifeattiktok.com/search/7657778928769534213) | San Jose, CA | Onsite | 2026-07-03 | Rolling | 🟢 Open | ❔ |
+| TikTok | [Product Operations Intern](https://lifeattiktok.com/search/7673361736079329541) | LA | Onsite | 2026-08-24 | Rolling | 🟢 Open | ❔ |
 | TikTok | [Product Operations Intern - Apps and API](https://lifeattiktok.com/search/7669927344569764101) | Seattle, WA | Onsite | 2026-08-05 | Rolling | 🟢 Open | ❔ |
 | TikTok | [Product Operations Intern - TikTok Shop Apps and API](https://lifeattiktok.com/search/7669705525866383621) | Seattle, WA | Onsite | 2026-08-13 | Rolling | 🟢 Open | ❔ |
 | TikTok | [Product Operations Intern - TikTok Shop Apps and API - MBA](https://lifeattiktok.com/search/7668820702623467781) | Seattle, WA | Onsite | 2026-08-06 | Rolling | 🟢 Open | ❔ |

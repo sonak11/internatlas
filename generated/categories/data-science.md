@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 📊 Data Science Internships
 
-**50** tracked · **40** open now
+**50** tracked · **39** open now
 
 ## Current openings
 
@@ -38,7 +38,6 @@
 | [Royal Bank of Canada](generated/companies/royal-bank-of-canada.md) | [Data Scientist Intern - Group Risk Management](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--Data-Scientist-Intern--8-Months-_R-0000184624) | Toronto | Onsite | 2026-08-18 | Rolling | 🟢 Open | ❔ |
 | [Royal Bank of Canada](generated/companies/royal-bank-of-canada.md) | [Data Scientist Intern - Group Risk Management](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--Data-Scientist-Intern--8-Months-_R-0000184624-1) | Toronto | Onsite | 2026-08-18 | Rolling | 🟢 Open | ❔ |
 | [RTX](generated/companies/rtx.md) | [Data Science and Advanced Analytics Intern - Data Science and Advanced Analytics](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Science-des-donnees-et-analytique-avancee---Internship---Winter-2027---Data-Science-and-Advanced-Analytics_01865000) | Longueuil | Onsite | 2026-08-24 | Rolling | 🟢 Open | ❔ |
-| [SOTI](generated/companies/soti.md) | [Data Scientist Intern](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Data-Scientist--Intern--September-2026-12-Months-_R10065) | Mississauga | Onsite | 2026-05-12 | Rolling | 🟢 Open | ❔ |
 | [The Nuclear Company](generated/companies/the-nuclear-company.md) | [Data Science Intern](https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383244008) | Washington, DC | Onsite | 2026-08-07 | Rolling | 🟢 Open | ❔ |
 | [The Nuclear Company](generated/companies/the-nuclear-company.md) | [Data Science Intern](https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383218008) | Washington, DC | Onsite | 2026-08-07 | Rolling | 🟢 Open | ❔ |
 | [TikTok](generated/companies/tiktok.md) | [Data Science Intern - Advertisement Team](https://lifeattiktok.com/search/7673226686054107445) | San Jose, CA | Onsite | 2026-08-13 | Rolling | 🟢 Open | ❔ |
@@ -57,6 +56,7 @@
 | [Loop](generated/companies/loop.md) | [Data Scientist Intern](https://ats.rippling.com/loop-careers/jobs/e016b693-7ce9-4dad-95ff-03b934fbd580) | Toronto | Onsite | 2026-07-29 | Rolling | 🔴 Closed | ❔ |
 | [National Laboratory of the Rockies](generated/companies/national-laboratory-of-the-rockies.md) | [Graduate Geospatial Data Science Intern](https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Graduate--Year-Round--Intern--Geospatial-Data-Science-Modeling-and-Analysis_R14338) | Golden, CO | Onsite | 2026-07-04 | Rolling | 🔴 Closed | ❔ |
 | [Nokia](generated/companies/nokia.md) | [Data Science Co-op/Intern](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34327) | Ottawa | Onsite | 2026-04-14 | Rolling | 🔴 Closed | ❔ |
+| [SOTI](generated/companies/soti.md) | [Data Scientist Intern](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Data-Scientist--Intern--September-2026-12-Months-_R10065) | Mississauga | Onsite | 2026-05-12 | Rolling | 🔴 Closed | ❔ |
 | [Walleye Capital](generated/companies/walleye-capital.md) | [Investment Data Science Intern](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4676587006) | New York, NY | Onsite | 2026-07-24 | Rolling | 🔴 Closed | ❔ |
 
 ## Hiring companies
@@ -87,11 +87,11 @@
 - Procter & Gamble (1)
 - Red Bull (1)
 - RTX (1)
-- SOTI (1)
 - Arevon (1)
 - Generac (1)
 - HireVue (1)
 - Loop (1)
 - National Laboratory of the Rockies (1)
 - Nokia (1)
+- SOTI (1)
 - Walleye Capital (1)

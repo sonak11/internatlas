@@ -6,7 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
-| Field AI | [Robotics Controls Intern - Robot Control Systems](https://jobs.lever.co/field-ai/8a3b5d4b-f88f-4704-bfdd-74e8dcd30704/apply) | Irvine, CA | Onsite | 2026-07-28 | Rolling | 🟢 Open | ❔ |
+| Field AI | [Robotics Controls Intern - Robot Control Systems](https://jobs.lever.co/field-ai/8a3b5d4b-f88f-4704-bfdd-74e8dcd30704/apply) | Irvine, CA | Onsite | 2026-07-28 | Rolling | 🔴 Closed | ❔ |
 
 ## Related
 
