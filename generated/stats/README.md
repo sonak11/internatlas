@@ -125,6 +125,10 @@ _Generated 2026-08-26_
 - Ciena — Software Developer Intern - Fall 2026
 - Ciena — Software Engineer Intern
 - Ciena — Software Liquid Spectrum Applications Intern
+- Citadel — Quantitative Trader: Equity Quantitative Research Intern
+- Citadel — Sector Data Analyst Intern
+- Citadel — Sector Data Scientist Intern
+- Citadel — Trader: Fixed Income & Macro Intern
 - City of Austin — Business Intelligence Intern - Business Intelligence
 - City of Austin — Research Analyst Intern
 - Cloudflare — AI Builder Intern - Global Customer Engineering - Service Sales
@@ -243,7 +247,8 @@ _Generated 2026-08-26_
 - Nokia — Hardware Developer Engineer Co-op/Intern
 - Notion — Governance, Risk, and Compliance Intern (Fall 2026)
 - NVIDIA — Computer Architecture Intern
-- NVIDIA — Generative AI Ph.D. Research Intern
+- NVIDIA — Mixed Signal Design Intern
+- NVIDIA — Ph.D. Research Graphics and Simulation Intern - Graphics and Simulation
 - Ontario Teachers' Pension Plan — Finance Intern - Risk Analytics
 - Ontario Teachers' Pension Plan — Risk Intern - Total Fund Risk
 - Otter Products — Artificial Intelligence Intern
@@ -317,6 +322,7 @@ _Generated 2026-08-26_
 - RTX — Software Engineer Intern - Summer 2027
 - RTX — Software Engineer Intern - Summer 2027
 - RTX — Software Engineer Intern - Summer 2027
+- RTX — Software Engineer Intern - Summer 2027
 - RTX — Software Engineering Intern - Summer 2027
 - RTX — Systems Engineering Intern
 - RTX — Systems Technology Intern
@@ -345,6 +351,7 @@ _Generated 2026-08-26_
 - Tesla — Data Analyst Intern - Data Analyst - Energy
 - Tesla — Data Engineer Intern - Cell Engineering
 - Tesla — Data Engineer Intern - Data Engineer - Energy
+- Tesla — Electronics Design Engineer Intern - Reliability Electronics Design Engineer - Energy Engineering
 - Tesla — Energy System Optimization Intern - Energy Optimization Software
 - Tesla — Inline Metrology Systems Design/Engineer Intern - Cell Engineering
 - Tesla — Software Engineer Intern - Linux Update Systems
