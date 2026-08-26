@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "booz-allen-ai-ran-telecommunications-engineer-intern-2027",
+  "id": "parsons-software-intern-summer-2027-2027",
   "company": {
-    "name": "Booz Allen",
-    "slug": "booz-allen"
+    "name": "Parsons",
+    "slug": "parsons"
   },
-  "role": "AI RAN Telecommunications Engineer Intern",
-  "category": "ai",
-  "apply_url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/AI-RAN-Telecommunications-Engineer-Intern_R0246869",
+  "role": "Software Intern - Summer 2027",
+  "category": "software-engineering",
+  "apply_url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---CO-Denver/Software-Intern--Summer-2027-_R185388",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "McLean",
-      "state": "VA",
+      "city": "Denver",
+      "state": "CO",
       "country": "USA"
     }
   ],
@@ -25,9 +25,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -42,8 +40,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-11",
-    "discovered": "2026-08-11",
+    "posted": "2026-08-26",
+    "discovered": "2026-08-26",
     "last_verified": "2026-08-26"
   },
   "status": "open",

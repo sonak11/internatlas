@@ -1,6 +1,6 @@
 {
   "generated": "2026-08-26",
-  "count": 2479,
+  "count": 2484,
   "internships": [
     {
       "schema_version": "1.0",
@@ -12327,6 +12327,60 @@
     },
     {
       "schema_version": "1.0",
+      "id": "auto-owners-insurance-data-engineering-intern-summer-2027-2027",
+      "company": {
+        "name": "Auto-Owners Insurance",
+        "slug": "auto-owners-insurance"
+      },
+      "role": "Data Engineering Intern - Summer 2027",
+      "category": "data-engineering",
+      "apply_url": "https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Data-Engineering-Internship---Summer-2026_R_12318",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Lansing",
+          "state": "MI",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-26",
+        "discovered": "2026-08-26",
+        "last_verified": "2026-08-26"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "auto-owners-insurance-predictive-modeler-intern-summer-2027-2027",
       "company": {
         "name": "Auto-Owners Insurance",
@@ -16421,9 +16475,9 @@
       "dates": {
         "posted": "2026-08-11",
         "discovered": "2026-08-11",
-        "last_verified": "2026-08-14"
+        "last_verified": "2026-08-26"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -45833,7 +45887,7 @@
         "discovered": "2026-08-20",
         "last_verified": "2026-08-26"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -45886,7 +45940,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-08-26"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -45939,7 +45993,7 @@
         "discovered": "2026-08-24",
         "last_verified": "2026-08-26"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -45992,7 +46046,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-08-26"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -46043,7 +46097,7 @@
         "discovered": "2026-08-21",
         "last_verified": "2026-08-26"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -46094,7 +46148,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-08-26"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -46147,7 +46201,7 @@
         "discovered": "2026-08-20",
         "last_verified": "2026-08-26"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -46201,7 +46255,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-08-26"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -46252,7 +46306,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-08-26"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -46303,7 +46357,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-08-26"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -46356,7 +46410,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-08-26"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -82772,6 +82826,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "parsons-software-intern-summer-2027-2027",
+      "company": {
+        "name": "Parsons",
+        "slug": "parsons"
+      },
+      "role": "Software Intern - Summer 2027",
+      "category": "software-engineering",
+      "apply_url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---CO-Denver/Software-Intern--Summer-2027-_R185388",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Denver",
+          "state": "CO",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-26",
+        "discovered": "2026-08-26",
+        "last_verified": "2026-08-26"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "pathai-machine-learning-intern-ai-product-and-ml-core-2026",
       "company": {
         "name": "PathAI",
@@ -83534,7 +83640,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -128043,6 +128149,60 @@
     },
     {
       "schema_version": "1.0",
+      "id": "verisk-ai-intern-summer-internship-program-2027",
+      "company": {
+        "name": "Verisk",
+        "slug": "verisk"
+      },
+      "role": "AI Intern - Summer Internship Program",
+      "category": "ai",
+      "apply_url": "https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4682",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Jersey City",
+          "state": "NJ",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-26",
+        "discovered": "2026-08-26",
+        "last_verified": "2026-08-26"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "verition-fund-management-technology-intern-2027",
       "company": {
         "name": "Verition Fund Management",
@@ -132449,6 +132609,112 @@
         "last_verified": "2026-08-10"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "whitewater-midstream-data-science-intern-summer-2027-2027",
+      "company": {
+        "name": "WhiteWater Midstream",
+        "slug": "whitewater-midstream"
+      },
+      "role": "Data Science Intern - Summer 2027",
+      "category": "data-science",
+      "apply_url": "https://job-boards.greenhouse.io/whitewatermidstream/jobs/5217853007",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Austin",
+          "state": "TX",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-26",
+        "discovered": "2026-08-26",
+        "last_verified": "2026-08-26"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "whitewater-midstream-trading-operations-intern-summer-2027-2027",
+      "company": {
+        "name": "WhiteWater Midstream",
+        "slug": "whitewater-midstream"
+      },
+      "role": "Trading Operations Intern - Summer 2027",
+      "category": "quant",
+      "apply_url": "https://job-boards.greenhouse.io/whitewatermidstream/jobs/5221723007",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Austin",
+          "state": "TX",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-26",
+        "discovered": "2026-08-26",
+        "last_verified": "2026-08-26"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"

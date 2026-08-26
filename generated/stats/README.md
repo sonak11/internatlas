@@ -33,24 +33,25 @@ _Generated 2026-08-26_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 1355 | `██████████████` |
-| ai | 228 | `██` |
-| quant | 207 | `██` |
+| software-engineering | 1356 | `██████████████` |
+| ai | 229 | `██` |
+| quant | 208 | `██` |
 | machine-learning | 147 | `█` |
 | hardware | 111 | `█` |
 | research | 109 | `█` |
 | product | 76 | `█` |
 | embedded | 61 | `█` |
-| data-science | 52 | `█` |
+| data-science | 53 | `█` |
 | design | 45 | `█` |
 | cloud | 43 | `█` |
-| data-engineering | 28 | `█` |
+| data-engineering | 29 | `█` |
 | security | 17 | `█` |
 
 ## Newest listings
 
 - 2026-08-26 — **AbbVie**: [Business Technology Solutions Intern - Data & Software Engineering](https://jobs.smartrecruiters.com/AbbVie/3743990014860306)
 - 2026-08-26 — **AbbVie**: [Business Technology Solutions Intern - Data & Software Engineering - Undergraduate](https://jobs.smartrecruiters.com/AbbVie/3743990014860391)
+- 2026-08-26 — **Auto-Owners Insurance**: [Data Engineering Intern - Summer 2027](https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Data-Engineering-Internship---Summer-2026_R_12318)
 - 2026-08-26 — **Bank of Montreal**: [Full Stack Engineer Intern Co-op - Data Cognition Team](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/BMO-Capital-Markets-Winter-2027--Full-Stack-Engineer--Toronto--Co-Op--Internship-_R260021769)
 - 2026-08-26 — **Bank of Montreal**: [Full Stack Engineer Intern Co-op - Data Cognition Team](https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/BMO-Capital-Markets-Winter-2027--Full-Stack-Engineer--Toronto--Co-Op--Internship-_R260021769-1)
 - 2026-08-26 — **DV Trading**: [Futures & Options Trading Analyst Intern - Summer 2027](https://job-boards.greenhouse.io/dvtrading/jobs/4722749005)
@@ -68,7 +69,6 @@ _Generated 2026-08-26_
 - 2026-08-26 — **L3Harris Technologies**: [Software Engineer Intern](https://jobs.l3harris.com/job/Palm-Bay-Intern,-Software-Engineer-FL-32905/1423105900/?ats=successfactors)
 - 2026-08-26 — **L3Harris Technologies**: [Software Engineer Intern](https://jobs.l3harris.com/job/Palm-Bay-Intern,-Software-Engineer-FL-32905/1423102100/?ats=successfactors)
 - 2026-08-26 — **Microsoft**: [Silicon Engineer Intern](https://apply.careers.microsoft.com/careers/job/1970393556958170)
-- 2026-08-26 — **MKS Instruments**: [Business Intelligence/Data Analytics Intern](https://mksinst.wd1.myworkdayjobs.com/MKSCareersUniversity/job/Andover-MA/XMLNAME-2027-Summer-BI-Data-Analytics-IT-Intern_R20657)
 
 ## Recently closed
 
@@ -97,7 +97,6 @@ _Generated 2026-08-26_
 - Axon — Software Engineer Intern
 - Baker Hughes — Benefit Tool Developer Intern - Month Fixed Term Contract
 - Bloxd — Software Engineer Intern
-- Booz Allen — AI RAN Telecommunications Engineer Intern
 - Booz Allen — AI RAN Telecommunications Engineer Intern
 - Booz Allen — Software Engineer Intern
 - Bosch Home Comfort — ADAS Software Engineer Intern
@@ -172,17 +171,6 @@ _Generated 2026-08-26_
 - Global Partners — Advanced Analytics Intern
 - GoDaddy — Software Development Engineer Intern
 - Golden Pet Brands — Data Analytics Intern
-- Goldman Sachs — AWM Product Management Analyst Intern
-- Goldman Sachs — Quantitative Strategist Associate Intern - Asset and Wealth Management
-- Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
-- Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
-- Goldman Sachs — Summer Analyst Intern - Americas - AWM Product Management
-- Goldman Sachs — Summer Analyst Intern - FICC and Equities - Sales and Trading
-- Goldman Sachs — Summer Analyst Intern - FICC & Equities - Sales & Trading
-- Goldman Sachs — Summer Analyst Intern - Wealth Management - Product Management and Design
-- Goldman Sachs — Summer Associate Intern - Multiple Teams
 - Google — Research Intern - PhD
 - Google — Software Developer Intern
 - Group 1001 — Quantitative Analysis Intern
@@ -263,6 +251,7 @@ _Generated 2026-08-26_
 - PanAgora — Dynamic Intern
 - PEAK6 — Trading Bootcamp Micro-Internship - Summer 2027
 - Pendulum Intelligence — Product Manager Intern
+- Persistent Systems — Embedded Software Engineer Intern
 - Photon — Software Engineering Intern - AI
 - Picton Mahoney Asset Management — Business Data Analyst Intern
 - Picton Mahoney Asset Management — Quantitative Research & Risk Intern

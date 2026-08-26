@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "booz-allen-ai-ran-telecommunications-engineer-intern-2027",
+  "id": "verisk-ai-intern-summer-internship-program-2027",
   "company": {
-    "name": "Booz Allen",
-    "slug": "booz-allen"
+    "name": "Verisk",
+    "slug": "verisk"
   },
-  "role": "AI RAN Telecommunications Engineer Intern",
+  "role": "AI Intern - Summer Internship Program",
   "category": "ai",
-  "apply_url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/AI-RAN-Telecommunications-Engineer-Intern_R0246869",
+  "apply_url": "https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4682",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "McLean",
-      "state": "VA",
+      "city": "Jersey City",
+      "state": "NJ",
       "country": "USA"
     }
   ],
@@ -42,8 +42,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-11",
-    "discovered": "2026-08-11",
+    "posted": "2026-08-26",
+    "discovered": "2026-08-26",
     "last_verified": "2026-08-26"
   },
   "status": "open",
