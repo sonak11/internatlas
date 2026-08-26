@@ -9,22 +9,22 @@ _Generated 2026-08-26_
 | Company | Listings |
 |---|---|
 | TikTok | 150 |
-| Tesla | 112 |
-| RTX | 67 |
+| Tesla | 118 |
+| RTX | 71 |
 | ByteDance | 54 |
 | Jump Trading | 46 |
 | Cloudflare | 34 |
 | AMD | 32 |
+| L3Harris Technologies | 32 |
 | American Express | 30 |
 | NVIDIA | 30 |
-| L3Harris Technologies | 28 |
+| Royal Bank of Canada | 26 |
 | IMC Trading | 25 |
 | SpaceX | 25 |
 | Neuralink | 22 |
 | Susquehanna International Group (SIG) | 22 |
 | The Walt Disney Company | 22 |
-| Royal Bank of Canada | 20 |
-| Zipline | 20 |
+| Zipline | 21 |
 | Microsoft | 18 |
 | Bank of Montreal | 17 |
 | Jane Street | 17 |
@@ -33,16 +33,16 @@ _Generated 2026-08-26_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 1356 | `██████████████` |
-| ai | 229 | `██` |
+| software-engineering | 1388 | `██████████████` |
+| ai | 234 | `██` |
 | quant | 208 | `██` |
-| machine-learning | 147 | `█` |
+| machine-learning | 149 | `█` |
 | hardware | 111 | `█` |
 | research | 109 | `█` |
 | product | 76 | `█` |
-| embedded | 61 | `█` |
-| data-science | 53 | `█` |
-| design | 45 | `█` |
+| embedded | 64 | `█` |
+| data-science | 56 | `█` |
+| design | 46 | `█` |
 | cloud | 43 | `█` |
 | data-engineering | 29 | `█` |
 | security | 17 | `█` |
@@ -51,24 +51,24 @@ _Generated 2026-08-26_
 
 - 2026-08-26 — **AbbVie**: [Business Technology Solutions Intern - Data & Software Engineering](https://jobs.smartrecruiters.com/AbbVie/3743990014860306)
 - 2026-08-26 — **AbbVie**: [Business Technology Solutions Intern - Data & Software Engineering - Undergraduate](https://jobs.smartrecruiters.com/AbbVie/3743990014860391)
+- 2026-08-26 — **Ambarella**: [ASIC Design Engineer Intern](https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/ASIC-Design-Engineer-Intern_JR100357)
+- 2026-08-26 — **Ameren**: [Crisis Management Meteorology Intern](https://ameren.wd1.myworkdayjobs.com/External/job/Peoria-IL/Crisis-Management-Meteorology-Intern_033896-2)
+- 2026-08-26 — **Ameren**: [Meteorology Intern - Crisis Management](https://ameren.wd1.myworkdayjobs.com/External/job/Peoria-IL/Crisis-Management-Data---Analytics-Intern_033895-1)
+- 2026-08-26 — **American Institutes for Research**: [Data Science Intern](https://job-boards.greenhouse.io/americaninstitutesforresearch/jobs/5404816008)
 - 2026-08-26 — **Auto-Owners Insurance**: [Data Engineering Intern - Summer 2027](https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Data-Engineering-Internship---Summer-2026_R_12318)
 - 2026-08-26 — **Bank of Montreal**: [Full Stack Engineer Intern Co-op - Data Cognition Team](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/BMO-Capital-Markets-Winter-2027--Full-Stack-Engineer--Toronto--Co-Op--Internship-_R260021769)
 - 2026-08-26 — **Bank of Montreal**: [Full Stack Engineer Intern Co-op - Data Cognition Team](https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/BMO-Capital-Markets-Winter-2027--Full-Stack-Engineer--Toronto--Co-Op--Internship-_R260021769-1)
+- 2026-08-26 — **CACI**: [Software Developer/Data Scientist Intern - Summer 2027](https://caci.wd1.myworkdayjobs.com/external/job/Denver-CO-US/Software-Developer-Data-Scientist-Intern---Summer-2027_331120)
 - 2026-08-26 — **DV Trading**: [Futures & Options Trading Analyst Intern - Summer 2027](https://job-boards.greenhouse.io/dvtrading/jobs/4722749005)
+- 2026-08-26 — **Eaton**: [Data Analyst Intern - Marketing](https://eaton.eightfold.ai/careers/job/687238373522)
 - 2026-08-26 — **Eight Sleep**: [Hardware Support & Test Intern](https://jobs.ashbyhq.com/eightsleep/f8de63e3-605e-404a-98b4-5b58d9fe7bc5/application?embed=true)
 - 2026-08-26 — **Epic Games**: [Gameplay Programmer Intern](https://epicgames.com/careers/jobs/6152263004?gh_jid=6152263004)
 - 2026-08-26 — **Fannie Mae**: [Treasury & Capital Markets Intern - Quantitative Research Track](https://fanniemae.wd1.myworkdayjobs.com/FannieMaeCareers/job/Washington-DC/Campus---Treasury---Capital-Markets-Program-Intern--Quantitative-Research-Track-_JR2872)
+- 2026-08-26 — **GlossGenius**: [Engineering Intern](https://job-boards.greenhouse.io/glossgenius/jobs/7978666003)
+- 2026-08-26 — **GlossGenius**: [Engineering Intern - Summer 2027](https://job-boards.greenhouse.io/glossgenius/jobs/7978739003)
 - 2026-08-26 — **GrayMatter Robotics**: [AI Research Intern - Foundation Models](https://jobs.ashbyhq.com/graymatter-robotics/dea0f08d-ebf5-4e55-b9cb-e6302014f429/application?embed=true)
+- 2026-08-26 — **Gulfstream**: [Reliability & Performance Analytics Intern](https://careers.gulfstream.com/job/Savannah-Spring-2027-Reliability-&-Performance-Analytics-Collegiate-Associate-Intern-GA-31401/1423630500/?ats=successfactors)
 - 2026-08-26 — **Honeywell**: [Software Engineer Intern - Computer Science](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155558)
-- 2026-08-26 — **Honeywell**: [Software Engineer Intern - Computer Science](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155557)
-- 2026-08-26 — **L3Harris Technologies**: [Image Science Engineer Intern](https://jobs.l3harris.com/job/Rochester-Intern-C,-Image-Science-Engineer-NY-14624/1423112200/?ats=successfactors)
-- 2026-08-26 — **L3Harris Technologies**: [Software Engineer Intern](https://jobs.l3harris.com/job/Palm-Bay-Intern,-Software-Engineer-FL-32905/1423104800/?ats=successfactors)
-- 2026-08-26 — **L3Harris Technologies**: [Software Engineer Intern](https://jobs.l3harris.com/job/Palm-Bay-Intern,-Software-Engineer-FL-32905/1423104500/?ats=successfactors)
-- 2026-08-26 — **L3Harris Technologies**: [Software Engineer Intern](https://jobs.l3harris.com/job/Palm-Bay-Intern,-Software-Engineer-FL-32905/1423103100/?ats=successfactors)
-- 2026-08-26 — **L3Harris Technologies**: [Software Engineer Intern](https://jobs.l3harris.com/job/Palm-Bay-Intern,-Software-Engineer-FL-32905/1423100800/?ats=successfactors)
-- 2026-08-26 — **L3Harris Technologies**: [Software Engineer Intern](https://jobs.l3harris.com/job/Palm-Bay-Intern,-Software-Engineer-FL-32905/1423105900/?ats=successfactors)
-- 2026-08-26 — **L3Harris Technologies**: [Software Engineer Intern](https://jobs.l3harris.com/job/Palm-Bay-Intern,-Software-Engineer-FL-32905/1423102100/?ats=successfactors)
-- 2026-08-26 — **Microsoft**: [Silicon Engineer Intern](https://apply.careers.microsoft.com/careers/job/1970393556958170)
 
 ## Recently closed
 
@@ -77,7 +77,6 @@ _Generated 2026-08-26_
 - Adtheorant — Enterprise AI Intern
 - Altera Corporation — Embedded Solutions Intern
 - Ambarella — Algorithm Engineer Intern
-- Ambarella — ASIC Design Engineer Intern
 - Ambarella — DFT Engineer Intern
 - Ambarella — Verification Engineer Intern
 - Amentum — Spaceflight Hardware Intern
@@ -171,6 +170,17 @@ _Generated 2026-08-26_
 - Global Partners — Advanced Analytics Intern
 - GoDaddy — Software Development Engineer Intern
 - Golden Pet Brands — Data Analytics Intern
+- Goldman Sachs — AWM Product Management Analyst Intern
+- Goldman Sachs — Quantitative Strategist Associate Intern - Asset and Wealth Management
+- Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
+- Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
+- Goldman Sachs — Summer Analyst Intern - Americas - AWM Product Management
+- Goldman Sachs — Summer Analyst Intern - FICC and Equities - Sales and Trading
+- Goldman Sachs — Summer Analyst Intern - FICC & Equities - Sales & Trading
+- Goldman Sachs — Summer Analyst Intern - Wealth Management - Product Management and Design
+- Goldman Sachs — Summer Associate Intern - Multiple Teams
 - Google — Research Intern - PhD
 - Google — Software Developer Intern
 - Group 1001 — Quantitative Analysis Intern
@@ -230,7 +240,6 @@ _Generated 2026-08-26_
 - Multnomah County — Immunization & Community Health Intern - Prevention and Health Promotion
 - Multnomah County — Public Health Tobacco Control and Prevention Intern
 - National Laboratory of the Rockies — Graduate Intern - Transportation Systems Analysis
-- National Laboratory of the Rockies — Software and Data Infrastructure Intern
 - National Reconnaissance Office — Summer Internship - Dr. Chris Scolese
 - Nationwide Children's Hospital — IGM Research Intern - RI Miller
 - Naver U.Hub INC — Product Management Intern
