@@ -1,6 +1,6 @@
 {
   "generated": "2026-08-26",
-  "count": 2458,
+  "count": 2472,
   "internships": [
     {
       "schema_version": "1.0",
@@ -26025,7 +26025,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-26"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -26076,7 +26076,7 @@
         "discovered": "2026-08-01",
         "last_verified": "2026-08-26"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -26127,7 +26127,7 @@
         "discovered": "2026-08-10",
         "last_verified": "2026-08-26"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -26312,7 +26312,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-26"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -39627,6 +39627,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "fannie-mae-treasury-capital-markets-intern-quantitative-research-track-2027",
+      "company": {
+        "name": "Fannie Mae",
+        "slug": "fannie-mae"
+      },
+      "role": "Treasury & Capital Markets Intern - Quantitative Research Track",
+      "category": "quant",
+      "apply_url": "https://fanniemae.wd1.myworkdayjobs.com/FannieMaeCareers/job/Washington-DC/Campus---Treasury---Capital-Markets-Program-Intern--Quantitative-Research-Track-_JR2872",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Washington",
+          "state": "DC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-26",
+        "discovered": "2026-08-26",
+        "last_verified": "2026-08-26"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "fast-enterprises-implementation-intern-2027",
       "company": {
         "name": "FAST Enterprises",
@@ -40699,10 +40751,6 @@
           "city": "New York",
           "state": "NY",
           "country": "USA"
-        },
-        {
-          "city": "New York",
-          "country": "USA"
         }
       ],
       "compensation": {
@@ -40727,7 +40775,7 @@
         "resume_keywords": []
       },
       "dates": {
-        "posted": "2026-07-14",
+        "posted": "2026-07-24",
         "discovered": "2026-08-17",
         "last_verified": "2026-08-26"
       },
@@ -45663,7 +45711,7 @@
         "discovered": "2026-08-20",
         "last_verified": "2026-08-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -45716,7 +45764,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-08-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -45769,7 +45817,7 @@
         "discovered": "2026-08-24",
         "last_verified": "2026-08-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -45822,7 +45870,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-08-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -45873,7 +45921,7 @@
         "discovered": "2026-08-21",
         "last_verified": "2026-08-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -45924,7 +45972,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-08-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -45977,7 +46025,7 @@
         "discovered": "2026-08-20",
         "last_verified": "2026-08-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -46031,7 +46079,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-08-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -46082,7 +46130,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-08-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -46133,7 +46181,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-08-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -46186,7 +46234,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-08-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -50370,10 +50418,6 @@
         {
           "city": "NYC",
           "country": "USA"
-        },
-        {
-          "city": "London",
-          "country": "USA"
         }
       ],
       "compensation": {
@@ -50383,7 +50427,9 @@
       },
       "eligibility": {
         "graduation_years": [],
-        "degree_levels": [],
+        "degree_levels": [
+          "phd"
+        ],
         "citizenship_required": false,
         "security_clearance_required": false,
         "visa_sponsorship": "unknown"
@@ -50424,10 +50470,6 @@
       "locations": [
         {
           "city": "NYC",
-          "country": "USA"
-        },
-        {
-          "city": "London",
           "country": "USA"
         }
       ],
@@ -62796,7 +62838,7 @@
         "discovered": "2026-08-17",
         "last_verified": "2026-08-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -68379,6 +68421,70 @@
       "tags": [
         "auto-ingested",
         "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "microsoft-silicon-engineer-intern-2026",
+      "company": {
+        "name": "Microsoft",
+        "slug": "microsoft"
+      },
+      "role": "Silicon Engineer Intern",
+      "category": "hardware",
+      "apply_url": "https://apply.careers.microsoft.com/careers/job/1970393556958170",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Raleigh",
+          "state": "NC",
+          "country": "USA"
+        },
+        {
+          "city": "Santa Clara",
+          "state": "CA",
+          "country": "USA"
+        },
+        {
+          "city": "Mountain View",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-26",
+        "discovered": "2026-08-26",
+        "last_verified": "2026-08-26"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
       ]
     },
     {
@@ -86211,6 +86317,65 @@
     },
     {
       "schema_version": "1.0",
+      "id": "qts-data-center-infrastructure-management-intern-dcim-2027",
+      "company": {
+        "name": "QTS",
+        "slug": "qts"
+      },
+      "role": "Data Center Infrastructure Management Intern - DCIM",
+      "category": "cloud",
+      "apply_url": "https://qtsdatacenters.wd5.myworkdayjobs.com/qts/job/Suwanee-GA/Summer-2027-Internship--Data-Center-Infrastructure-Management--DCIM-_R2026-1892",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Ashburn",
+          "state": "VA",
+          "country": "USA"
+        },
+        {
+          "city": "Suwanee",
+          "state": "GA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-26",
+        "discovered": "2026-08-26",
+        "last_verified": "2026-08-26"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "quadrillion-research-intern-2026",
       "company": {
         "name": "Quadrillion",
@@ -87775,6 +87940,58 @@
       "tags": [
         "auto-ingested",
         "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "repsol-reservoir-engineer-intern-2027",
+      "company": {
+        "name": "Repsol",
+        "slug": "repsol"
+      },
+      "role": "Reservoir Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://repsol.wd3.myworkdayjobs.com/Repsol/job/Houston/Reservoir-Engineer-Intern_83636-1",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "The Woodlands",
+          "state": "TX",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-26",
+        "discovered": "2026-08-26",
+        "last_verified": "2026-08-26"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
       ]
     },
     {
@@ -90840,6 +91057,108 @@
     },
     {
       "schema_version": "1.0",
+      "id": "royal-bank-of-canada-data-ai-intern-balance-sheet-and-liquidity-risk-2027",
+      "company": {
+        "name": "Royal Bank of Canada",
+        "slug": "royal-bank-of-canada"
+      },
+      "role": "Data & AI Intern - Balance Sheet and Liquidity Risk",
+      "category": "ai",
+      "apply_url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Winter-2027---GRM--BSLR-Liquidity-Data---AI-Intern--4-Months-_R-0000185661",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Toronto",
+          "country": "ON"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-26",
+        "discovered": "2026-08-26",
+        "last_verified": "2026-08-26"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "royal-bank-of-canada-data-ai-intern-group-risk-management-balance-sheet-and-liqui-2027",
+      "company": {
+        "name": "Royal Bank of Canada",
+        "slug": "royal-bank-of-canada"
+      },
+      "role": "Data & AI Intern - Group Risk Management - Balance Sheet and Liquidity Risk",
+      "category": "ai",
+      "apply_url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/Winter-2027---GRM--BSLR-Liquidity-Data---AI-Intern--4-Months-_R-0000185661-1",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Toronto",
+          "country": "ON"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-26",
+        "discovered": "2026-08-26",
+        "last_verified": "2026-08-26"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "royal-bank-of-canada-data-engineer-intern-chief-data-office-2027",
       "company": {
         "name": "Royal Bank of Canada",
@@ -91292,6 +91611,108 @@
         "last_verified": "2026-08-06"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "royal-bank-of-canada-retail-risk-modeling-analyst-intern-8-months-2027-7fc4c6",
+      "company": {
+        "name": "Royal Bank of Canada",
+        "slug": "royal-bank-of-canada"
+      },
+      "role": "Retail Risk Modeling Analyst Intern - 8 Months",
+      "category": "software-engineering",
+      "apply_url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--Retail-Risk-Modeling-Analyst-Intern--8-Months-_R-0000185759-2",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Toronto",
+          "country": "ON"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-26",
+        "discovered": "2026-08-26",
+        "last_verified": "2026-08-26"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "royal-bank-of-canada-retail-risk-modeling-analyst-intern-8-months-2027",
+      "company": {
+        "name": "Royal Bank of Canada",
+        "slug": "royal-bank-of-canada"
+      },
+      "role": "Retail Risk Modeling Analyst Intern - 8 Months",
+      "category": "software-engineering",
+      "apply_url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--Retail-Risk-Modeling-Analyst-Intern--8-Months-_R-0000185759",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Toronto",
+          "country": "ON"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-26",
+        "discovered": "2026-08-26",
+        "last_verified": "2026-08-26"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -93035,6 +93456,60 @@
     },
     {
       "schema_version": "1.0",
+      "id": "rtx-software-engineer-intern-2027-9488d0",
+      "company": {
+        "name": "RTX",
+        "slug": "rtx"
+      },
+      "role": "Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineering-Intern--Summer-2027-_01868886",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Richardson",
+          "state": "TX",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-26",
+        "discovered": "2026-08-26",
+        "last_verified": "2026-08-26"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "rtx-software-engineer-intern-2027-97dc58",
       "company": {
         "name": "RTX",
@@ -93133,9 +93608,9 @@
       "dates": {
         "posted": "2026-08-14",
         "discovered": "2026-08-15",
-        "last_verified": "2026-08-20"
+        "last_verified": "2026-08-26"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -93726,6 +94201,60 @@
     },
     {
       "schema_version": "1.0",
+      "id": "rtx-software-engineer-intern-summer-2027-2027-4c3213",
+      "company": {
+        "name": "RTX",
+        "slug": "rtx"
+      },
+      "role": "Software Engineer Intern - Summer 2027",
+      "category": "software-engineering",
+      "apply_url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Software-Engineer-Intern--Summer-2027-_01869890",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Woburn",
+          "state": "MA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-26",
+        "discovered": "2026-08-26",
+        "last_verified": "2026-08-26"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "rtx-software-engineer-intern-summer-2027-2027-4ec68e",
       "company": {
         "name": "RTX",
@@ -93881,6 +94410,58 @@
         "last_verified": "2026-08-21"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "rtx-software-engineer-intern-summer-2027-2027-842975",
+      "company": {
+        "name": "RTX",
+        "slug": "rtx"
+      },
+      "role": "Software Engineer Intern - Summer 2027",
+      "category": "software-engineering",
+      "apply_url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineering-Intern--Summer-2027-_01868869",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Richardson",
+          "state": "TX",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-26",
+        "discovered": "2026-08-26",
+        "last_verified": "2026-08-26"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -105522,6 +106103,68 @@
     },
     {
       "schema_version": "1.0",
+      "id": "tesla-ai-hardware-physical-design-engineer-intern-ai-hardware-2027",
+      "company": {
+        "name": "Tesla",
+        "slug": "tesla"
+      },
+      "role": "AI Hardware Physical Design Engineer Intern - AI Hardware",
+      "category": "ai",
+      "apply_url": "https://www.tesla.com/careers/search/job/281233",
+      "season": "spring",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Palo Alto",
+          "state": "CA",
+          "country": "USA"
+        },
+        {
+          "city": "Austin",
+          "state": "TX",
+          "country": "USA"
+        },
+        {
+          "city": "Fort Collins",
+          "state": "CO",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-26",
+        "discovered": "2026-08-26",
+        "last_verified": "2026-08-26"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "tesla-ai-inference-engineer-intern-software-compiler-engineer-ai-i-2026",
       "company": {
         "name": "Tesla",
@@ -113439,6 +114082,108 @@
       "dates": {
         "posted": "2026-08-24",
         "discovered": "2026-08-24",
+        "last_verified": "2026-08-26"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "the-walt-disney-company-insights-and-analytics-intern-abc-news-2027",
+      "company": {
+        "name": "The Walt Disney Company",
+        "slug": "the-walt-disney-company"
+      },
+      "role": "Insights and Analytics Intern - ABC News",
+      "category": "software-engineering",
+      "apply_url": "https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/New-York-NY-USA/ABC-News-Insights-and-Analytics-Intern--Spring-2027_10158500-1",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "NYC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-26",
+        "discovered": "2026-08-26",
+        "last_verified": "2026-08-26"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "the-walt-disney-company-insights-and-analytics-intern-spring-2027-2027",
+      "company": {
+        "name": "The Walt Disney Company",
+        "slug": "the-walt-disney-company"
+      },
+      "role": "Insights and Analytics Intern - Spring 2027",
+      "category": "software-engineering",
+      "apply_url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/New-York-NY-USA/ABC-News-Insights-and-Analytics-Intern--Spring-2027_10158500",
+      "season": "spring",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "NYC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-26",
+        "discovered": "2026-08-26",
         "last_verified": "2026-08-26"
       },
       "status": "open",
@@ -128454,122 +129199,6 @@
     },
     {
       "schema_version": "1.0",
-      "id": "virtu-financial-2027-internship-frontend-engineer-ui-2027",
-      "company": {
-        "name": "Virtu Financial",
-        "slug": "virtu-financial",
-        "career_page": "https://www.virtu.com/careers"
-      },
-      "role": "2027 Internship - Frontend Engineer (UI)",
-      "category": "design",
-      "apply_url": "https://job-boards.greenhouse.io/virtu/jobs/8657500002",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "New York",
-          "country": "USA"
-        },
-        {
-          "city": "NYC",
-          "country": "USA"
-        },
-        {
-          "city": "New York",
-          "state": "NY",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-07-29",
-        "discovered": "2026-07-31",
-        "last_verified": "2026-08-26"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:ats"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "virtu-financial-2027-internship-hardware-engineer-fpga-2027",
-      "company": {
-        "name": "Virtu Financial",
-        "slug": "virtu-financial",
-        "career_page": "https://www.virtu.com/careers"
-      },
-      "role": "2027 Internship- Hardware Engineer (FPGA)",
-      "category": "hardware",
-      "apply_url": "https://job-boards.greenhouse.io/virtu/jobs/8657286002",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Austin",
-          "state": "TX",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [
-          "masters"
-        ],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-07-29",
-        "discovered": "2026-07-31",
-        "last_verified": "2026-08-26"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:ats"
-      ]
-    },
-    {
-      "schema_version": "1.0",
       "id": "virtu-financial-2027-internship-quantitative-researcher-master-or-phd-2027",
       "company": {
         "name": "Virtu Financial",
@@ -128611,120 +129240,6 @@
       },
       "dates": {
         "posted": "2026-07-14",
-        "discovered": "2026-07-28",
-        "last_verified": "2026-08-26"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:ats"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "virtu-financial-2027-internship-quantitative-researcher-phd-2027",
-      "company": {
-        "name": "Virtu Financial",
-        "slug": "virtu-financial",
-        "career_page": "https://www.virtu.com/careers"
-      },
-      "role": "2027 Internship - Quantitative Researcher (PhD)",
-      "category": "quant",
-      "apply_url": "https://job-boards.greenhouse.io/virtu/jobs/8624424002",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "New York",
-          "country": "USA"
-        },
-        {
-          "city": "NYC",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [
-          "phd"
-        ],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-07-22",
-        "discovered": "2026-07-22",
-        "last_verified": "2026-08-26"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:ats"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "virtu-financial-2027-internship-quantitative-researcher-undergrad-2027",
-      "company": {
-        "name": "Virtu Financial",
-        "slug": "virtu-financial",
-        "career_page": "https://www.virtu.com/careers"
-      },
-      "role": "2027 Internship - Quantitative Researcher (Undergrad)",
-      "category": "quant",
-      "apply_url": "https://job-boards.greenhouse.io/virtu/jobs/8142539002",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "New York",
-          "country": "USA"
-        },
-        {
-          "city": "NYC",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2025-09-12",
         "discovered": "2026-07-28",
         "last_verified": "2026-08-26"
       },
@@ -128778,73 +129293,6 @@
       "dates": {
         "posted": "2024-08-30",
         "discovered": "2026-07-30",
-        "last_verified": "2026-08-26"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:ats"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "virtu-financial-2027-internship-quantitative-trading-2027-29dd2a",
-      "company": {
-        "name": "Virtu Financial",
-        "slug": "virtu-financial",
-        "career_page": "https://www.virtu.com/careers"
-      },
-      "role": "2027 Internship - Quantitative Trading",
-      "category": "quant",
-      "apply_url": "https://job-boards.greenhouse.io/virtu/jobs/8624408002",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Austin",
-          "state": "TX",
-          "country": "USA"
-        },
-        {
-          "city": "Chicago",
-          "state": "IL",
-          "country": "USA"
-        },
-        {
-          "city": "NYC",
-          "country": "USA"
-        },
-        {
-          "city": "New York",
-          "state": "NY",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-07-21",
-        "discovered": "2026-07-28",
         "last_verified": "2026-08-26"
       },
       "status": "open",
@@ -128959,67 +129407,6 @@
     },
     {
       "schema_version": "1.0",
-      "id": "virtu-financial-2027-internship-software-engineer-2027-99c39c",
-      "company": {
-        "name": "Virtu Financial",
-        "slug": "virtu-financial",
-        "career_page": "https://www.virtu.com/careers"
-      },
-      "role": "2027 Internship - Software Engineer",
-      "category": "quant",
-      "apply_url": "https://job-boards.greenhouse.io/virtu/jobs/8624410002",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Austin",
-          "state": "TX",
-          "country": "USA"
-        },
-        {
-          "city": "New York",
-          "country": "USA"
-        },
-        {
-          "city": "NYC",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-07-21",
-        "discovered": "2026-07-23",
-        "last_verified": "2026-08-26"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:ats"
-      ]
-    },
-    {
-      "schema_version": "1.0",
       "id": "virtu-financial-2027-internship-software-engineer-2027-d06312",
       "company": {
         "name": "Virtu Financial",
@@ -129120,6 +129507,346 @@
       "tags": [
         "auto-ingested",
         "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "virtu-financial-frontend-developer-internship-2027",
+      "company": {
+        "name": "Virtu Financial",
+        "slug": "virtu-financial"
+      },
+      "role": "Frontend Developer Internship",
+      "category": "software-engineering",
+      "apply_url": "https://job-boards.greenhouse.io/virtu/jobs/8657500002",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "NYC",
+          "country": "USA"
+        },
+        {
+          "city": "New York",
+          "state": "NY",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-29",
+        "discovered": "2026-08-26",
+        "last_verified": "2026-08-26"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "virtu-financial-hardware-engineer-intern-fpga-2027",
+      "company": {
+        "name": "Virtu Financial",
+        "slug": "virtu-financial"
+      },
+      "role": "Hardware Engineer Intern - FPGA",
+      "category": "hardware",
+      "apply_url": "https://job-boards.greenhouse.io/virtu/jobs/8657286002",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Austin",
+          "state": "TX",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-31",
+        "discovered": "2026-08-26",
+        "last_verified": "2026-08-26"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "virtu-financial-quantitative-research-intern-quant-research-undergrad-2027",
+      "company": {
+        "name": "Virtu Financial",
+        "slug": "virtu-financial"
+      },
+      "role": "Quantitative Research Intern - Quant Research - Undergrad",
+      "category": "quant",
+      "apply_url": "https://job-boards.greenhouse.io/virtu/jobs/8142539002",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "NYC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-06-26",
+        "discovered": "2026-08-26",
+        "last_verified": "2026-08-26"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "virtu-financial-quantitative-researcher-internship-2027",
+      "company": {
+        "name": "Virtu Financial",
+        "slug": "virtu-financial"
+      },
+      "role": "Quantitative Researcher Internship",
+      "category": "quant",
+      "apply_url": "https://job-boards.greenhouse.io/virtu/jobs/8624424002",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "NYC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-22",
+        "discovered": "2026-08-26",
+        "last_verified": "2026-08-26"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "virtu-financial-quantitative-trading-intern-2027",
+      "company": {
+        "name": "Virtu Financial",
+        "slug": "virtu-financial"
+      },
+      "role": "Quantitative Trading Intern",
+      "category": "quant",
+      "apply_url": "https://job-boards.greenhouse.io/virtu/jobs/8624408002",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Austin",
+          "state": "TX",
+          "country": "USA"
+        },
+        {
+          "city": "Chicago",
+          "state": "IL",
+          "country": "USA"
+        },
+        {
+          "city": "NYC",
+          "country": "USA"
+        },
+        {
+          "city": "New York",
+          "state": "NY",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-21",
+        "discovered": "2026-08-26",
+        "last_verified": "2026-08-26"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "virtu-financial-software-engineer-intern-2027",
+      "company": {
+        "name": "Virtu Financial",
+        "slug": "virtu-financial"
+      },
+      "role": "Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://job-boards.greenhouse.io/virtu/jobs/8624410002",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Austin",
+          "state": "TX",
+          "country": "USA"
+        },
+        {
+          "city": "New York",
+          "country": "USA"
+        },
+        {
+          "city": "NYC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-21",
+        "discovered": "2026-08-26",
+        "last_verified": "2026-08-26"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
       ]
     },
     {

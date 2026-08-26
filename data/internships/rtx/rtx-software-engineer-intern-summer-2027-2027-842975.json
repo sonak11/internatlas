@@ -1,20 +1,21 @@
 {
   "schema_version": "1.0",
-  "id": "goldman-sachs-quantitative-strategist-associate-intern-the-core-quantitati-2027-14d0f0",
+  "id": "rtx-software-engineer-intern-summer-2027-2027-842975",
   "company": {
-    "name": "Goldman Sachs",
-    "slug": "goldman-sachs"
+    "name": "RTX",
+    "slug": "rtx"
   },
-  "role": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
-  "category": "quant",
-  "apply_url": "https://higher.gs.com/roles/175427?type=students",
+  "role": "Software Engineer Intern - Summer 2027",
+  "category": "software-engineering",
+  "apply_url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineering-Intern--Summer-2027-_01868869",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "London",
-      "country": "UK"
+      "city": "Richardson",
+      "state": "TX",
+      "country": "USA"
     }
   ],
   "compensation": {
@@ -24,9 +25,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "phd"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -41,11 +40,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-15",
-    "discovered": "2026-08-24",
+    "posted": "2026-08-26",
+    "discovered": "2026-08-26",
     "last_verified": "2026-08-26"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "goldman-sachs-quantitative-strategist-associate-intern-the-core-quantitati-2027-14d0f0",
+  "id": "royal-bank-of-canada-retail-risk-modeling-analyst-intern-8-months-2027",
   "company": {
-    "name": "Goldman Sachs",
-    "slug": "goldman-sachs"
+    "name": "Royal Bank of Canada",
+    "slug": "royal-bank-of-canada"
   },
-  "role": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
-  "category": "quant",
-  "apply_url": "https://higher.gs.com/roles/175427?type=students",
-  "season": "summer",
+  "role": "Retail Risk Modeling Analyst Intern - 8 Months",
+  "category": "software-engineering",
+  "apply_url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--Retail-Risk-Modeling-Analyst-Intern--8-Months-_R-0000185759",
+  "season": "winter",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "London",
-      "country": "UK"
+      "city": "Toronto",
+      "country": "ON"
     }
   ],
   "compensation": {
@@ -24,9 +24,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "phd"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -41,11 +39,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-15",
-    "discovered": "2026-08-24",
+    "posted": "2026-08-26",
+    "discovered": "2026-08-26",
     "last_verified": "2026-08-26"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

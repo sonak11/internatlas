@@ -1,21 +1,25 @@
 {
   "schema_version": "1.0",
-  "id": "virtu-financial-2027-internship-hardware-engineer-fpga-2027",
+  "id": "qts-data-center-infrastructure-management-intern-dcim-2027",
   "company": {
-    "name": "Virtu Financial",
-    "slug": "virtu-financial",
-    "career_page": "https://www.virtu.com/careers"
+    "name": "QTS",
+    "slug": "qts"
   },
-  "role": "2027 Internship- Hardware Engineer (FPGA)",
-  "category": "hardware",
-  "apply_url": "https://job-boards.greenhouse.io/virtu/jobs/8657286002",
+  "role": "Data Center Infrastructure Management Intern - DCIM",
+  "category": "cloud",
+  "apply_url": "https://qtsdatacenters.wd5.myworkdayjobs.com/qts/job/Suwanee-GA/Summer-2027-Internship--Data-Center-Infrastructure-Management--DCIM-_R2026-1892",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Austin",
-      "state": "TX",
+      "city": "Ashburn",
+      "state": "VA",
+      "country": "USA"
+    },
+    {
+      "city": "Suwanee",
+      "state": "GA",
       "country": "USA"
     }
   ],
@@ -43,13 +47,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-29",
-    "discovered": "2026-07-31",
+    "posted": "2026-08-26",
+    "discovered": "2026-08-26",
     "last_verified": "2026-08-26"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:ats"
+    "src:simplify"
   ]
 }

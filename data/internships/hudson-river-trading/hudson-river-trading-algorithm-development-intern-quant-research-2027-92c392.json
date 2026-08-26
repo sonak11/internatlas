@@ -15,10 +15,6 @@
     {
       "city": "NYC",
       "country": "USA"
-    },
-    {
-      "city": "London",
-      "country": "USA"
     }
   ],
   "compensation": {
@@ -28,7 +24,9 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "phd"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"

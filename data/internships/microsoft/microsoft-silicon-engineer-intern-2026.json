@@ -1,35 +1,30 @@
 {
   "schema_version": "1.0",
-  "id": "virtu-financial-2027-internship-quantitative-trading-2027-29dd2a",
+  "id": "microsoft-silicon-engineer-intern-2026",
   "company": {
-    "name": "Virtu Financial",
-    "slug": "virtu-financial",
-    "career_page": "https://www.virtu.com/careers"
+    "name": "Microsoft",
+    "slug": "microsoft"
   },
-  "role": "2027 Internship - Quantitative Trading",
-  "category": "quant",
-  "apply_url": "https://job-boards.greenhouse.io/virtu/jobs/8624408002",
-  "season": "summer",
-  "year": 2027,
+  "role": "Silicon Engineer Intern",
+  "category": "hardware",
+  "apply_url": "https://apply.careers.microsoft.com/careers/job/1970393556958170",
+  "season": "fall",
+  "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Austin",
-      "state": "TX",
+      "city": "Raleigh",
+      "state": "NC",
       "country": "USA"
     },
     {
-      "city": "Chicago",
-      "state": "IL",
+      "city": "Santa Clara",
+      "state": "CA",
       "country": "USA"
     },
     {
-      "city": "NYC",
-      "country": "USA"
-    },
-    {
-      "city": "New York",
-      "state": "NY",
+      "city": "Mountain View",
+      "state": "CA",
       "country": "USA"
     }
   ],
@@ -40,7 +35,9 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "masters"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -55,13 +52,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-21",
-    "discovered": "2026-07-28",
+    "posted": "2026-08-26",
+    "discovered": "2026-08-26",
     "last_verified": "2026-08-26"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:ats"
+    "src:simplify"
   ]
 }

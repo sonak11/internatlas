@@ -1,29 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "virtu-financial-2027-internship-frontend-engineer-ui-2027",
+  "id": "fannie-mae-treasury-capital-markets-intern-quantitative-research-track-2027",
   "company": {
-    "name": "Virtu Financial",
-    "slug": "virtu-financial",
-    "career_page": "https://www.virtu.com/careers"
+    "name": "Fannie Mae",
+    "slug": "fannie-mae"
   },
-  "role": "2027 Internship - Frontend Engineer (UI)",
-  "category": "design",
-  "apply_url": "https://job-boards.greenhouse.io/virtu/jobs/8657500002",
+  "role": "Treasury & Capital Markets Intern - Quantitative Research Track",
+  "category": "quant",
+  "apply_url": "https://fanniemae.wd1.myworkdayjobs.com/FannieMaeCareers/job/Washington-DC/Campus---Treasury---Capital-Markets-Program-Intern--Quantitative-Research-Track-_JR2872",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "New York",
-      "country": "USA"
-    },
-    {
-      "city": "NYC",
-      "country": "USA"
-    },
-    {
-      "city": "New York",
-      "state": "NY",
+      "city": "Washington",
+      "state": "DC",
       "country": "USA"
     }
   ],
@@ -49,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-29",
-    "discovered": "2026-07-31",
+    "posted": "2026-08-26",
+    "discovered": "2026-08-26",
     "last_verified": "2026-08-26"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:ats"
+    "src:simplify"
   ]
 }

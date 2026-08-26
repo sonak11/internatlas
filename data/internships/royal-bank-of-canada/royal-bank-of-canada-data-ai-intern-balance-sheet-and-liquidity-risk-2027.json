@@ -1,25 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "virtu-financial-2027-internship-quantitative-researcher-phd-2027",
+  "id": "royal-bank-of-canada-data-ai-intern-balance-sheet-and-liquidity-risk-2027",
   "company": {
-    "name": "Virtu Financial",
-    "slug": "virtu-financial",
-    "career_page": "https://www.virtu.com/careers"
+    "name": "Royal Bank of Canada",
+    "slug": "royal-bank-of-canada"
   },
-  "role": "2027 Internship - Quantitative Researcher (PhD)",
-  "category": "quant",
-  "apply_url": "https://job-boards.greenhouse.io/virtu/jobs/8624424002",
-  "season": "summer",
+  "role": "Data & AI Intern - Balance Sheet and Liquidity Risk",
+  "category": "ai",
+  "apply_url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Winter-2027---GRM--BSLR-Liquidity-Data---AI-Intern--4-Months-_R-0000185661",
+  "season": "winter",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "New York",
-      "country": "USA"
-    },
-    {
-      "city": "NYC",
-      "country": "USA"
+      "city": "Toronto",
+      "country": "ON"
     }
   ],
   "compensation": {
@@ -29,9 +24,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "phd"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -46,13 +39,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-22",
-    "discovered": "2026-07-22",
+    "posted": "2026-08-26",
+    "discovered": "2026-08-26",
     "last_verified": "2026-08-26"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:ats"
+    "src:simplify"
   ]
 }

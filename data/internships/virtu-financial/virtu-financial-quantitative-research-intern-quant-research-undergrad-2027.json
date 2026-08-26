@@ -1,27 +1,17 @@
 {
   "schema_version": "1.0",
-  "id": "virtu-financial-2027-internship-software-engineer-2027-99c39c",
+  "id": "virtu-financial-quantitative-research-intern-quant-research-undergrad-2027",
   "company": {
     "name": "Virtu Financial",
-    "slug": "virtu-financial",
-    "career_page": "https://www.virtu.com/careers"
+    "slug": "virtu-financial"
   },
-  "role": "2027 Internship - Software Engineer",
+  "role": "Quantitative Research Intern - Quant Research - Undergrad",
   "category": "quant",
-  "apply_url": "https://job-boards.greenhouse.io/virtu/jobs/8624410002",
+  "apply_url": "https://job-boards.greenhouse.io/virtu/jobs/8142539002",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
-    {
-      "city": "Austin",
-      "state": "TX",
-      "country": "USA"
-    },
-    {
-      "city": "New York",
-      "country": "USA"
-    },
     {
       "city": "NYC",
       "country": "USA"
@@ -49,13 +39,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-21",
-    "discovered": "2026-07-23",
+    "posted": "2026-06-26",
+    "discovered": "2026-08-26",
     "last_verified": "2026-08-26"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:ats"
+    "src:simplify"
   ]
 }

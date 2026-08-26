@@ -1,24 +1,30 @@
 {
   "schema_version": "1.0",
-  "id": "virtu-financial-2027-internship-quantitative-researcher-undergrad-2027",
+  "id": "tesla-ai-hardware-physical-design-engineer-intern-ai-hardware-2027",
   "company": {
-    "name": "Virtu Financial",
-    "slug": "virtu-financial",
-    "career_page": "https://www.virtu.com/careers"
+    "name": "Tesla",
+    "slug": "tesla"
   },
-  "role": "2027 Internship - Quantitative Researcher (Undergrad)",
-  "category": "quant",
-  "apply_url": "https://job-boards.greenhouse.io/virtu/jobs/8142539002",
-  "season": "summer",
+  "role": "AI Hardware Physical Design Engineer Intern - AI Hardware",
+  "category": "ai",
+  "apply_url": "https://www.tesla.com/careers/search/job/281233",
+  "season": "spring",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "New York",
+      "city": "Palo Alto",
+      "state": "CA",
       "country": "USA"
     },
     {
-      "city": "NYC",
+      "city": "Austin",
+      "state": "TX",
+      "country": "USA"
+    },
+    {
+      "city": "Fort Collins",
+      "state": "CO",
       "country": "USA"
     }
   ],
@@ -44,13 +50,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2025-09-12",
-    "discovered": "2026-07-28",
+    "posted": "2026-08-26",
+    "discovered": "2026-08-26",
     "last_verified": "2026-08-26"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:ats"
+    "src:simplify"
   ]
 }

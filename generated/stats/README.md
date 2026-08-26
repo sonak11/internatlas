@@ -9,8 +9,8 @@ _Generated 2026-08-26_
 | Company | Listings |
 |---|---|
 | TikTok | 150 |
-| Tesla | 111 |
-| RTX | 64 |
+| Tesla | 112 |
+| RTX | 67 |
 | ByteDance | 54 |
 | Jump Trading | 46 |
 | Cloudflare | 34 |
@@ -22,28 +22,28 @@ _Generated 2026-08-26_
 | SpaceX | 25 |
 | Neuralink | 22 |
 | Susquehanna International Group (SIG) | 22 |
-| The Walt Disney Company | 20 |
+| The Walt Disney Company | 22 |
+| Royal Bank of Canada | 20 |
 | Zipline | 20 |
+| Microsoft | 18 |
 | Jane Street | 17 |
-| Microsoft | 17 |
 | Palantir Technologies | 17 |
-| Rivian and Volkswagen Group Technologies | 16 |
 
 ## Listings by category
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 1343 | `██████████████` |
-| ai | 224 | `██` |
+| software-engineering | 1353 | `██████████████` |
+| ai | 227 | `██` |
 | quant | 204 | `██` |
 | machine-learning | 147 | `█` |
-| hardware | 110 | `█` |
+| hardware | 111 | `█` |
 | research | 109 | `█` |
 | product | 76 | `█` |
 | embedded | 61 | `█` |
 | data-science | 52 | `█` |
-| design | 45 | `█` |
-| cloud | 42 | `█` |
+| design | 44 | `█` |
+| cloud | 43 | `█` |
 | data-engineering | 28 | `█` |
 | security | 17 | `█` |
 
@@ -54,6 +54,7 @@ _Generated 2026-08-26_
 - 2026-08-26 — **DV Trading**: [Futures & Options Trading Analyst Intern - Summer 2027](https://job-boards.greenhouse.io/dvtrading/jobs/4722749005)
 - 2026-08-26 — **Eight Sleep**: [Hardware Support & Test Intern](https://jobs.ashbyhq.com/eightsleep/f8de63e3-605e-404a-98b4-5b58d9fe7bc5/application?embed=true)
 - 2026-08-26 — **Epic Games**: [Gameplay Programmer Intern](https://epicgames.com/careers/jobs/6152263004?gh_jid=6152263004)
+- 2026-08-26 — **Fannie Mae**: [Treasury & Capital Markets Intern - Quantitative Research Track](https://fanniemae.wd1.myworkdayjobs.com/FannieMaeCareers/job/Washington-DC/Campus---Treasury---Capital-Markets-Program-Intern--Quantitative-Research-Track-_JR2872)
 - 2026-08-26 — **GrayMatter Robotics**: [AI Research Intern - Foundation Models](https://jobs.ashbyhq.com/graymatter-robotics/dea0f08d-ebf5-4e55-b9cb-e6302014f429/application?embed=true)
 - 2026-08-26 — **Honeywell**: [Software Engineer Intern - Computer Science](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155558)
 - 2026-08-26 — **Honeywell**: [Software Engineer Intern - Computer Science](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155557)
@@ -64,11 +65,10 @@ _Generated 2026-08-26_
 - 2026-08-26 — **L3Harris Technologies**: [Software Engineer Intern](https://jobs.l3harris.com/job/Palm-Bay-Intern,-Software-Engineer-FL-32905/1423100800/?ats=successfactors)
 - 2026-08-26 — **L3Harris Technologies**: [Software Engineer Intern](https://jobs.l3harris.com/job/Palm-Bay-Intern,-Software-Engineer-FL-32905/1423105900/?ats=successfactors)
 - 2026-08-26 — **L3Harris Technologies**: [Software Engineer Intern](https://jobs.l3harris.com/job/Palm-Bay-Intern,-Software-Engineer-FL-32905/1423102100/?ats=successfactors)
+- 2026-08-26 — **Microsoft**: [Silicon Engineer Intern](https://apply.careers.microsoft.com/careers/job/1970393556958170)
 - 2026-08-26 — **North Atlantic Industries**: [Full Stack Software Engineer Intern](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4450017)
 - 2026-08-26 — **North Atlantic Industries**: [Software Engineer Intern](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4450421)
-- 2026-08-26 — **TikTok**: [AI Infrastructure Engineer Intern - Recommendation & LLM](https://lifeattiktok.com/search/7672671220798818613)
-- 2026-08-26 — **Zipline**: [Embedded Software Engineer Intern - Spring 2027](https://www.zipline.com/open-roles?gh_jid=7974897003)
-- 2026-08-25 — **AMD**: [ASIC Package Engineer Intern Co-op](https://careers.amd.com/jobs/91469?icims=1)
+- 2026-08-26 — **QTS**: [Data Center Infrastructure Management Intern - DCIM](https://qtsdatacenters.wd5.myworkdayjobs.com/qts/job/Suwanee-GA/Summer-2027-Internship--Data-Center-Infrastructure-Management--DCIM-_R2026-1892)
 
 ## Recently closed
 
@@ -125,10 +125,6 @@ _Generated 2026-08-26_
 - Ciena — Software Developer Intern - Fall 2026
 - Ciena — Software Engineer Intern
 - Ciena — Software Liquid Spectrum Applications Intern
-- Citadel — Quantitative Trader: Equity Quantitative Research Intern
-- Citadel — Sector Data Analyst Intern
-- Citadel — Sector Data Scientist Intern
-- Citadel — Trader: Fixed Income & Macro Intern
 - City of Austin — Business Intelligence Intern - Business Intelligence
 - City of Austin — Research Analyst Intern
 - Cloudflare — AI Builder Intern - Global Customer Engineering - Service Sales
@@ -178,6 +174,17 @@ _Generated 2026-08-26_
 - Global Partners — Advanced Analytics Intern
 - GoDaddy — Software Development Engineer Intern
 - Golden Pet Brands — Data Analytics Intern
+- Goldman Sachs — AWM Product Management Analyst Intern
+- Goldman Sachs — Quantitative Strategist Associate Intern - Asset and Wealth Management
+- Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
+- Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
+- Goldman Sachs — Summer Analyst Intern - Americas - AWM Product Management
+- Goldman Sachs — Summer Analyst Intern - FICC and Equities - Sales and Trading
+- Goldman Sachs — Summer Analyst Intern - FICC & Equities - Sales & Trading
+- Goldman Sachs — Summer Analyst Intern - Wealth Management - Product Management and Design
+- Goldman Sachs — Summer Associate Intern - Multiple Teams
 - Google — Research Intern - PhD
 - Google — Software Developer Intern
 - Group 1001 — Quantitative Analysis Intern
@@ -216,6 +223,7 @@ _Generated 2026-08-26_
 - L3Harris Technologies — Integration/Test Engineering Intern
 - L3Harris Technologies — Software Engineering Intern
 - Leidos — Engineering Intern - Defense Systems - Threat Modeling & Simulation Portfolio
+- Levi Strauss & Co. — Analytics Intern - eCommerce
 - Louisiana Blue — Data Modeler Intern
 - Louisiana Blue — Operational Reporting & Data Analyst Intern - CW
 - LPL Financial Holdings — Data Analytics Intern - FAR Program
@@ -296,7 +304,6 @@ _Generated 2026-08-26_
 - RTX — Modeling, Simulation & Analysis Intern
 - RTX — Radar Digital Products Engineering Intern
 - RTX — Software Development Intern
-- RTX — Software Engineer Intern
 - RTX — Software Engineer Intern
 - RTX — Software Engineer Intern
 - RTX — Software Engineer Intern
