@@ -1,19 +1,23 @@
 {
   "schema_version": "1.0",
-  "id": "nvidia-generative-ai-ph-d-research-intern-2027",
+  "id": "graymatter-robotics-ai-research-intern-foundation-models-2026",
   "company": {
-    "name": "NVIDIA",
-    "slug": "nvidia"
+    "name": "GrayMatter Robotics",
+    "slug": "graymatter-robotics"
   },
-  "role": "Generative AI Ph.D. Research Intern",
+  "role": "AI Research Intern - Foundation Models",
   "category": "ai",
-  "apply_url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Generative-AI_JR2023475",
-  "season": "summer",
-  "year": 2027,
+  "apply_url": "https://jobs.ashbyhq.com/graymatter-robotics/dea0f08d-ebf5-4e55-b9cb-e6302014f429/application?embed=true",
+  "season": "fall",
+  "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Santa Clara",
+      "state": "LA",
+      "country": "USA"
+    },
+    {
+      "city": "Carson",
       "state": "CA",
       "country": "USA"
     }
@@ -42,11 +46,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-19",
-    "discovered": "2026-08-19",
+    "posted": "2026-08-26",
+    "discovered": "2026-08-26",
     "last_verified": "2026-08-26"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

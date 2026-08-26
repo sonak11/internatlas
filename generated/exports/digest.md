@@ -1,6 +1,6 @@
 # 📬 InternAtlas Weekly Digest — 2026-08-26
 
-## 🆕 New this week (446)
+## 🆕 New this week (447)
 
 - **AMD** — [ASIC Package Engineer Intern Co-op](https://careers.amd.com/jobs/91469?icims=1) · hardware · —
 - **AMD** — [ASIC Package Engineering Co-op/Intern](https://careers.amd.com/jobs/91463?icims=1) · hardware · —
@@ -178,6 +178,7 @@
 - **Goldman Sachs** — [Summer Analyst Intern - Americas - AWM Product Management](https://higher.gs.com/roles/182389?type=students) · product · —
 - **Google** — [Research Intern - PhD](https://www.google.com/about/careers/applications/jobs/results/86701057991680710) · research · —
 - **Google** — [Software Developer Intern](https://www.google.com/about/careers/applications/jobs/results/112518690523488966) · software-engineering · —
+- **GrayMatter Robotics** — [AI Research Intern - Foundation Models](https://jobs.ashbyhq.com/graymatter-robotics/dea0f08d-ebf5-4e55-b9cb-e6302014f429/application?embed=true) · ai · —
 - **Gulfstream** — [Software Engineer Intern - IEF](https://careers.gulfstream.com/job/Savannah-Summer-2027-IEF-Software-Engineer-Collegiate-Associate-Intern-GA-31401/1421863200/?ats=successfactors) · software-engineering · —
 - **Gulfstream** — [Software Engineer Intern - Innovation, Engineering and Flight](https://careers.gulfstream.com/job/Savannah-Spring-2027-IEF-Software-Engineer-Collegiate-Associate-Intern-GA-31401/1421676700/?ats=successfactors) · software-engineering · —
 - **Hitachi** — [Engineering Intern](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Raleigh-North-Carolina-United-States/XMLNAME-2027-Summer-Engineering-Intern---Raleigh_R0142571) · software-engineering · —

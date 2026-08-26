@@ -1,6 +1,6 @@
 {
   "generated": "2026-08-26",
-  "count": 2457,
+  "count": 2458,
   "internships": [
     {
       "schema_version": "1.0",
@@ -30816,7 +30816,7 @@
         "discovered": "2026-07-31",
         "last_verified": "2026-08-26"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -47348,6 +47348,64 @@
     },
     {
       "schema_version": "1.0",
+      "id": "graymatter-robotics-ai-research-intern-foundation-models-2026",
+      "company": {
+        "name": "GrayMatter Robotics",
+        "slug": "graymatter-robotics"
+      },
+      "role": "AI Research Intern - Foundation Models",
+      "category": "ai",
+      "apply_url": "https://jobs.ashbyhq.com/graymatter-robotics/dea0f08d-ebf5-4e55-b9cb-e6302014f429/application?embed=true",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "state": "LA",
+          "country": "USA"
+        },
+        {
+          "city": "Carson",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-26",
+        "discovered": "2026-08-26",
+        "last_verified": "2026-08-26"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "gritt-robotics-inc-ml-cloud-infrastructure-engineer-intern-2026",
       "company": {
         "name": "GRITT ROBOTICS INC",
@@ -60062,7 +60120,7 @@
         "discovered": "2026-08-25",
         "last_verified": "2026-08-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -77342,7 +77400,7 @@
         "discovered": "2026-08-19",
         "last_verified": "2026-08-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"

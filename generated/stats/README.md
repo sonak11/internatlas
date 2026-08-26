@@ -34,7 +34,7 @@ _Generated 2026-08-26_
 | Category | Count | Share |
 |---|---|---|
 | software-engineering | 1343 | `██████████████` |
-| ai | 223 | `██` |
+| ai | 224 | `██` |
 | quant | 204 | `██` |
 | machine-learning | 147 | `█` |
 | hardware | 110 | `█` |
@@ -54,6 +54,7 @@ _Generated 2026-08-26_
 - 2026-08-26 — **DV Trading**: [Futures & Options Trading Analyst Intern - Summer 2027](https://job-boards.greenhouse.io/dvtrading/jobs/4722749005)
 - 2026-08-26 — **Eight Sleep**: [Hardware Support & Test Intern](https://jobs.ashbyhq.com/eightsleep/f8de63e3-605e-404a-98b4-5b58d9fe7bc5/application?embed=true)
 - 2026-08-26 — **Epic Games**: [Gameplay Programmer Intern](https://epicgames.com/careers/jobs/6152263004?gh_jid=6152263004)
+- 2026-08-26 — **GrayMatter Robotics**: [AI Research Intern - Foundation Models](https://jobs.ashbyhq.com/graymatter-robotics/dea0f08d-ebf5-4e55-b9cb-e6302014f429/application?embed=true)
 - 2026-08-26 — **Honeywell**: [Software Engineer Intern - Computer Science](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155558)
 - 2026-08-26 — **Honeywell**: [Software Engineer Intern - Computer Science](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155557)
 - 2026-08-26 — **L3Harris Technologies**: [Image Science Engineer Intern](https://jobs.l3harris.com/job/Rochester-Intern-C,-Image-Science-Engineer-NY-14624/1423112200/?ats=successfactors)
@@ -68,7 +69,6 @@ _Generated 2026-08-26_
 - 2026-08-26 — **TikTok**: [AI Infrastructure Engineer Intern - Recommendation & LLM](https://lifeattiktok.com/search/7672671220798818613)
 - 2026-08-26 — **Zipline**: [Embedded Software Engineer Intern - Spring 2027](https://www.zipline.com/open-roles?gh_jid=7974897003)
 - 2026-08-25 — **AMD**: [ASIC Package Engineer Intern Co-op](https://careers.amd.com/jobs/91469?icims=1)
-- 2026-08-25 — **AMD**: [ASIC Package Engineering Co-op/Intern](https://careers.amd.com/jobs/91463?icims=1)
 
 ## Recently closed
 
@@ -141,7 +141,6 @@ _Generated 2026-08-26_
 - CNO Financial Group — Cyber Security IT Intern
 - Cohesity — Data Cleansing and Sales Enablement Analyst Intern
 - Commence — Health Data Analyst Intern
-- Copart — Software Engineer Intern
 - Cotiviti — Agentic AI Research Intern
 - Crowe — NetSuite Implementation Intern - Consulting Practice
 - Cubist Systematic Strategies — Quantitative Developer Intern
@@ -209,6 +208,7 @@ _Generated 2026-08-26_
 - Keysight Technologies — Software Engineer Intern - R&D - FPGA
 - Kimley-Horn — GIS Intern
 - Kimley-Horn — Software Developer Intern
+- Kodiak Robotics — Controls Intern
 - L3Harris Technologies — Integration/Test Engineering Intern
 - L3Harris Technologies — Software Engineering Intern
 - Leidos — Engineering Intern - Defense Systems - Threat Modeling & Simulation Portfolio
@@ -243,6 +243,7 @@ _Generated 2026-08-26_
 - Nokia — Hardware Developer Engineer Co-op/Intern
 - Notion — Governance, Risk, and Compliance Intern (Fall 2026)
 - NVIDIA — Computer Architecture Intern
+- NVIDIA — Generative AI Ph.D. Research Intern
 - Ontario Teachers' Pension Plan — Finance Intern - Risk Analytics
 - Ontario Teachers' Pension Plan — Risk Intern - Total Fund Risk
 - Otter Products — Artificial Intelligence Intern
