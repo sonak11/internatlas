@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # ⚙️ Embedded Internships
 
-**60** tracked · **42** open now
+**61** tracked · **43** open now
 
 ## Current openings
 
@@ -49,6 +49,7 @@
 | [TETRAMEM](generated/companies/tetramem.md) | [Software Engineer Intern, Embedded](https://tetramem.hrmdirect.com/employment/job-opening.php?req=3491042) | San Jose, CA | Onsite | 2026-04-20 | Rolling | 🟢 Open | ❔ |
 | [Verkada](generated/companies/verkada.md) | [Embedded Software Engineer Intern](https://job-boards.greenhouse.io/verkada/jobs/5211595007) | San Mateo, CA +1 | Onsite | 2026-08-25 | Rolling | 🟢 Open | ❔ |
 | [WindBorne Systems](generated/companies/windborne-systems.md) | [Firmware Intern](https://jobs.ashbyhq.com/windborne-systems/75c5c65c-8179-4ca0-9659-39bf0f8f7b8b/application) | San Carlos, CA | Onsite | 2026-07-06 | Rolling | 🟢 Open | ❔ |
+| [Zipline](generated/companies/zipline.md) | [Embedded Software Engineer Intern - Spring 2027](https://www.zipline.com/open-roles?gh_jid=7974897003) | South SF | Onsite | 2026-08-26 | Rolling | 🟢 Open | ❔ |
 | [Zipline](generated/companies/zipline.md) | [Long Range Platform Embedded Firmware Intern - Summer 2027](https://www.zipline.com/open-roles?gh_jid=7891459003) | South SF | Onsite | 2026-08-18 | Rolling | 🟢 Open | ❔ |
 | [Altera Corporation](generated/companies/altera-corporation.md) | [Embedded Solutions Intern](https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Embedded-Solutions-Intern_R02832) | Toronto | Onsite | 2026-08-13 | Rolling | 🔴 Closed | ❔ |
 | [Astranis](generated/companies/astranis.md) | [Embedded Software Developer – Network/Payload Software Intern](https://job-boards.greenhouse.io/astranis/jobs/4601135006) | SF | Onsite | 2025-12-31 | Rolling | 🔴 Closed | ❔ |
@@ -76,8 +77,8 @@
 - Etched (3)
 - Neuralink (3)
 - Rivian and Volkswagen Group Technologies (3)
+- Zipline (3)
 - Honeywell (2)
-- Zipline (2)
 - Ciena (2)
 - Rockwell Automation (2)
 - Apex Technology, Inc. (1)
