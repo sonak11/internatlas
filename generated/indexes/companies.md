@@ -174,7 +174,7 @@
 | [Consensus Cloud Solutions](../companies/consensus-cloud-solutions.md) | 0/1 | software-engineering |
 | [Constellation Space](../companies/constellation-space.md) | 1/1 | machine-learning |
 | [Continental Resources](../companies/continental-resources.md) | 2/2 | software-engineering |
-| [Copart](../companies/copart.md) | 9/13 | data-engineering, software-engineering |
+| [Copart](../companies/copart.md) | 8/13 | data-engineering, software-engineering |
 | [Core & Main](../companies/core-main.md) | 1/1 | machine-learning |
 | [Cotiviti](../companies/cotiviti.md) | 1/2 | ai |
 | [Crowe](../companies/crowe.md) | 8/9 | ai, cloud, software-engineering |

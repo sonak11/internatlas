@@ -141,6 +141,7 @@ _Generated 2026-08-26_
 - CNO Financial Group — Cyber Security IT Intern
 - Cohesity — Data Cleansing and Sales Enablement Analyst Intern
 - Commence — Health Data Analyst Intern
+- Copart — Software Engineer Intern
 - Cotiviti — Agentic AI Research Intern
 - Crowe — NetSuite Implementation Intern - Consulting Practice
 - Cubist Systematic Strategies — Quantitative Developer Intern
