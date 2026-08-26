@@ -173,17 +173,6 @@ _Generated 2026-08-26_
 - Global Partners — Advanced Analytics Intern
 - GoDaddy — Software Development Engineer Intern
 - Golden Pet Brands — Data Analytics Intern
-- Goldman Sachs — AWM Product Management Analyst Intern
-- Goldman Sachs — Quantitative Strategist Associate Intern - Asset and Wealth Management
-- Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
-- Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
-- Goldman Sachs — Summer Analyst Intern - Americas - AWM Product Management
-- Goldman Sachs — Summer Analyst Intern - FICC and Equities - Sales and Trading
-- Goldman Sachs — Summer Analyst Intern - FICC & Equities - Sales & Trading
-- Goldman Sachs — Summer Analyst Intern - Wealth Management - Product Management and Design
-- Goldman Sachs — Summer Associate Intern - Multiple Teams
 - Google — Research Intern - PhD
 - Google — Software Developer Intern
 - Group 1001 — Quantitative Analysis Intern
@@ -242,6 +231,7 @@ _Generated 2026-08-26_
 - National Laboratory of the Rockies — Software and Data Infrastructure Intern
 - National Reconnaissance Office — Summer Internship - Dr. Chris Scolese
 - Nationwide Children's Hospital — IGM Research Intern - RI Miller
+- Naver U.Hub INC — Product Management Intern
 - Netsmart — Software Engineer Intern
 - New Balance — Sports Research Engineer Intern
 - New York Post Holdings — Product Intern
