@@ -1,11 +1,12 @@
 {
   "schema_version": "1.0",
-  "id": "virtu-financial-hardware-engineer-intern-fpga-2027",
+  "id": "virtu-financial-2027-internship-hardware-engineer-fpga-2027",
   "company": {
     "name": "Virtu Financial",
-    "slug": "virtu-financial"
+    "slug": "virtu-financial",
+    "career_page": "https://www.virtu.com/careers"
   },
-  "role": "Hardware Engineer Intern - FPGA",
+  "role": "2027 Internship- Hardware Engineer (FPGA)",
   "category": "hardware",
   "apply_url": "https://job-boards.greenhouse.io/virtu/jobs/8657286002",
   "season": "summer",
@@ -42,13 +43,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-31",
+    "posted": "2026-07-29",
     "discovered": "2026-08-26",
     "last_verified": "2026-08-26"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:ats"
   ]
 }

@@ -26,23 +26,23 @@ _Generated 2026-08-26_
 | Royal Bank of Canada | 20 |
 | Zipline | 20 |
 | Microsoft | 18 |
+| Bank of Montreal | 17 |
 | Jane Street | 17 |
-| Palantir Technologies | 17 |
 
 ## Listings by category
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 1353 | `██████████████` |
-| ai | 227 | `██` |
-| quant | 204 | `██` |
+| software-engineering | 1355 | `██████████████` |
+| ai | 228 | `██` |
+| quant | 207 | `██` |
 | machine-learning | 147 | `█` |
 | hardware | 111 | `█` |
 | research | 109 | `█` |
 | product | 76 | `█` |
 | embedded | 61 | `█` |
 | data-science | 52 | `█` |
-| design | 44 | `█` |
+| design | 45 | `█` |
 | cloud | 43 | `█` |
 | data-engineering | 28 | `█` |
 | security | 17 | `█` |
@@ -51,6 +51,8 @@ _Generated 2026-08-26_
 
 - 2026-08-26 — **AbbVie**: [Business Technology Solutions Intern - Data & Software Engineering](https://jobs.smartrecruiters.com/AbbVie/3743990014860306)
 - 2026-08-26 — **AbbVie**: [Business Technology Solutions Intern - Data & Software Engineering - Undergraduate](https://jobs.smartrecruiters.com/AbbVie/3743990014860391)
+- 2026-08-26 — **Bank of Montreal**: [Full Stack Engineer Intern Co-op - Data Cognition Team](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/BMO-Capital-Markets-Winter-2027--Full-Stack-Engineer--Toronto--Co-Op--Internship-_R260021769)
+- 2026-08-26 — **Bank of Montreal**: [Full Stack Engineer Intern Co-op - Data Cognition Team](https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/BMO-Capital-Markets-Winter-2027--Full-Stack-Engineer--Toronto--Co-Op--Internship-_R260021769-1)
 - 2026-08-26 — **DV Trading**: [Futures & Options Trading Analyst Intern - Summer 2027](https://job-boards.greenhouse.io/dvtrading/jobs/4722749005)
 - 2026-08-26 — **Eight Sleep**: [Hardware Support & Test Intern](https://jobs.ashbyhq.com/eightsleep/f8de63e3-605e-404a-98b4-5b58d9fe7bc5/application?embed=true)
 - 2026-08-26 — **Epic Games**: [Gameplay Programmer Intern](https://epicgames.com/careers/jobs/6152263004?gh_jid=6152263004)
@@ -66,9 +68,7 @@ _Generated 2026-08-26_
 - 2026-08-26 — **L3Harris Technologies**: [Software Engineer Intern](https://jobs.l3harris.com/job/Palm-Bay-Intern,-Software-Engineer-FL-32905/1423105900/?ats=successfactors)
 - 2026-08-26 — **L3Harris Technologies**: [Software Engineer Intern](https://jobs.l3harris.com/job/Palm-Bay-Intern,-Software-Engineer-FL-32905/1423102100/?ats=successfactors)
 - 2026-08-26 — **Microsoft**: [Silicon Engineer Intern](https://apply.careers.microsoft.com/careers/job/1970393556958170)
-- 2026-08-26 — **North Atlantic Industries**: [Full Stack Software Engineer Intern](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4450017)
-- 2026-08-26 — **North Atlantic Industries**: [Software Engineer Intern](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4450421)
-- 2026-08-26 — **QTS**: [Data Center Infrastructure Management Intern - DCIM](https://qtsdatacenters.wd5.myworkdayjobs.com/qts/job/Suwanee-GA/Summer-2027-Internship--Data-Center-Infrastructure-Management--DCIM-_R2026-1892)
+- 2026-08-26 — **MKS Instruments**: [Business Intelligence/Data Analytics Intern](https://mksinst.wd1.myworkdayjobs.com/MKSCareersUniversity/job/Andover-MA/XMLNAME-2027-Summer-BI-Data-Analytics-IT-Intern_R20657)
 
 ## Recently closed
 
@@ -93,8 +93,6 @@ _Generated 2026-08-26_
 - Astranis — Embedded Software Developer – Network/Payload Software Intern
 - Astranis — Radiation Effects Engineer Intern
 - Astranis — Software Engineer-Backend Intern
-- Atoms — Robotics Software Engineer Intern
-- Atoms — Software Engineer Intern - Winter 2027
 - Availity — Software Engineer Intern - Multiple Teams
 - Axon — Software Engineer Intern
 - Baker Hughes — Benefit Tool Developer Intern - Month Fixed Term Contract
@@ -335,6 +333,7 @@ _Generated 2026-08-26_
 - Salesforce — Software Engineer Intern - Future Pathways
 - Sargent & Lundy — AI & Automation Intern - Enterprise Data & Analytics
 - Saronic — Software Engineer Intern
+- Scale AI — Technical Advisor Specialist (Part-Time Internship)
 - Schweitzer Engineering Laboratories — Test Engineer Intern
 - Sentry — Software Engineer Intern - Summer 2027
 - Signify — Product Management Intern

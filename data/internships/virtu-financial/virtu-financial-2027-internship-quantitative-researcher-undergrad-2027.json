@@ -1,34 +1,24 @@
 {
   "schema_version": "1.0",
-  "id": "virtu-financial-quantitative-trading-intern-2027",
+  "id": "virtu-financial-2027-internship-quantitative-researcher-undergrad-2027",
   "company": {
     "name": "Virtu Financial",
-    "slug": "virtu-financial"
+    "slug": "virtu-financial",
+    "career_page": "https://www.virtu.com/careers"
   },
-  "role": "Quantitative Trading Intern",
+  "role": "2027 Internship - Quantitative Researcher (Undergrad)",
   "category": "quant",
-  "apply_url": "https://job-boards.greenhouse.io/virtu/jobs/8624408002",
+  "apply_url": "https://job-boards.greenhouse.io/virtu/jobs/8142539002",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Austin",
-      "state": "TX",
-      "country": "USA"
-    },
-    {
-      "city": "Chicago",
-      "state": "IL",
+      "city": "New York",
       "country": "USA"
     },
     {
       "city": "NYC",
-      "country": "USA"
-    },
-    {
-      "city": "New York",
-      "state": "NY",
       "country": "USA"
     }
   ],
@@ -54,13 +44,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-21",
+    "posted": "2025-09-12",
     "discovered": "2026-08-26",
     "last_verified": "2026-08-26"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:ats"
   ]
 }

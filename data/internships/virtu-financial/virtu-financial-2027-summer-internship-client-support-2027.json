@@ -1,28 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "virtu-financial-software-engineer-intern-2027",
+  "id": "virtu-financial-2027-summer-internship-client-support-2027",
   "company": {
     "name": "Virtu Financial",
-    "slug": "virtu-financial"
+    "slug": "virtu-financial",
+    "career_page": "https://www.virtu.com/careers"
   },
-  "role": "Software Engineer Intern",
-  "category": "software-engineering",
-  "apply_url": "https://job-boards.greenhouse.io/virtu/jobs/8624410002",
+  "role": "2027 Summer Internship - Client Support",
+  "category": "quant",
+  "apply_url": "https://job-boards.greenhouse.io/virtu/jobs/8746197002",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Austin",
-      "state": "TX",
-      "country": "USA"
-    },
-    {
-      "city": "New York",
-      "country": "USA"
-    },
-    {
-      "city": "NYC",
+      "city": "London",
       "country": "USA"
     }
   ],
@@ -48,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-21",
+    "posted": "2026-08-26",
     "discovered": "2026-08-26",
     "last_verified": "2026-08-26"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:vanshb03"
+    "src:ats"
   ]
 }

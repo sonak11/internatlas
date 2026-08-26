@@ -1,25 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "virtu-financial-frontend-developer-internship-2027",
+  "id": "bank-of-montreal-full-stack-engineer-intern-co-op-data-cognition-team-2027",
   "company": {
-    "name": "Virtu Financial",
-    "slug": "virtu-financial"
+    "name": "Bank of Montreal",
+    "slug": "bank-of-montreal"
   },
-  "role": "Frontend Developer Internship",
+  "role": "Full Stack Engineer Intern Co-op - Data Cognition Team",
   "category": "software-engineering",
-  "apply_url": "https://job-boards.greenhouse.io/virtu/jobs/8657500002",
-  "season": "summer",
+  "apply_url": "https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/BMO-Capital-Markets-Winter-2027--Full-Stack-Engineer--Toronto--Co-Op--Internship-_R260021769-1",
+  "season": "winter",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "NYC",
-      "country": "USA"
-    },
-    {
-      "city": "New York",
-      "state": "NY",
-      "country": "USA"
+      "city": "Toronto",
+      "country": "ON"
     }
   ],
   "compensation": {
@@ -29,7 +24,9 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "masters"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -44,7 +41,7 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-29",
+    "posted": "2026-08-26",
     "discovered": "2026-08-26",
     "last_verified": "2026-08-26"
   },

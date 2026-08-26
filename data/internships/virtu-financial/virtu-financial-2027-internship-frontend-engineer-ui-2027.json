@@ -1,23 +1,29 @@
 {
   "schema_version": "1.0",
-  "id": "hudson-river-trading-algorithm-development-intern-quant-research-2027-92c392",
+  "id": "virtu-financial-2027-internship-frontend-engineer-ui-2027",
   "company": {
-    "name": "Hudson River Trading",
-    "slug": "hudson-river-trading"
+    "name": "Virtu Financial",
+    "slug": "virtu-financial",
+    "career_page": "https://www.virtu.com/careers"
   },
-  "role": "Algorithm Development Intern - Quant Research",
-  "category": "quant",
-  "apply_url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8059837",
+  "role": "2027 Internship - Frontend Engineer (UI)",
+  "category": "design",
+  "apply_url": "https://job-boards.greenhouse.io/virtu/jobs/8657500002",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
+      "city": "New York",
+      "country": "USA"
+    },
+    {
       "city": "NYC",
       "country": "USA"
     },
     {
-      "city": "London",
+      "city": "New York",
+      "state": "NY",
       "country": "USA"
     }
   ],
@@ -28,9 +34,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "phd"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -45,13 +49,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-13",
-    "discovered": "2026-08-04",
+    "posted": "2026-07-29",
+    "discovered": "2026-08-26",
     "last_verified": "2026-08-26"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:ats"
   ]
 }

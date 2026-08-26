@@ -1,6 +1,6 @@
 # 📬 InternAtlas Weekly Digest — 2026-08-26
 
-## 🆕 New this week (461)
+## 🆕 New this week (466)
 
 - **AMD** — [ASIC Package Engineer Intern Co-op](https://careers.amd.com/jobs/91469?icims=1) · hardware · —
 - **AMD** — [ASIC Package Engineering Co-op/Intern](https://careers.amd.com/jobs/91463?icims=1) · hardware · —
@@ -50,7 +50,6 @@
 - **Apple** — [GPU Intern](https://jobs.apple.com/en-us/details/200679650) · software-engineering · —
 - **Astranis** — [Reliability Test Intern](https://job-boards.greenhouse.io/astranis/jobs/4677973006) · software-engineering · —
 - **Atoms** — [Robotics Software Engineer Intern](https://job-boards.greenhouse.io/cssmerge/jobs/8695475002) · software-engineering · —
-- **Atoms** — [Software Engineer Intern](https://job-boards.greenhouse.io/cssmerge/jobs/8687896002) · software-engineering · —
 - **Auto-Owners Insurance** — [Predictive Modeler Intern - Summer 2027](https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Predictive-Modeler-Intern---Summer-2022_R_3833) · software-engineering · —
 - **Autodesk** — [AI Developer Intern](https://autodesk.wd1.myworkdayjobs.com/uni/job/Montreal-QC-CAN/Intern--AI-Developer--Stagiaire-en-dveloppement-IA_26WD100523-1) · ai · —
 - **Autodesk** — [AI Developer Intern - Creative Technology](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Intern--AI-Developer--Stagiaire-en-dveloppement-IA_26WD100523-2) · ai · —
@@ -77,6 +76,8 @@
 - **Bank of Montreal** — [Climate Risk Reporting Analyst Co-op Intern - Winter 2027 - 4 Months](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Climate-Risk-Reporting-Analyst--Winter-2027--Co-op-Internship----4-Months_R260024768) · software-engineering · —
 - **Bank of Montreal** — [Data Science Analyst Co-op Intern - Audit AI & Analytics](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Data-Science-Analyst---Audit-AI---Analytics--Winter-2027--Co-op-Internship----4-Months_R260024761) · ai · —
 - **Bank of Montreal** — [Data Science Risk Analyst Co-op Intern](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Data-Science-Risk-Analyst--Winter-2027--Co-op-Internship----4-Months_R260024735) · data-science · —
+- **Bank of Montreal** — [Full Stack Engineer Intern Co-op - Data Cognition Team](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/BMO-Capital-Markets-Winter-2027--Full-Stack-Engineer--Toronto--Co-Op--Internship-_R260021769) · software-engineering · —
+- **Bank of Montreal** — [Full Stack Engineer Intern Co-op - Data Cognition Team](https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/BMO-Capital-Markets-Winter-2027--Full-Stack-Engineer--Toronto--Co-Op--Internship-_R260021769-1) · software-engineering · —
 - **Bank of Montreal** — [Workforce Analyst Co-op Intern](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Workforce-Analyst--Winter-2027--Co-op-Internship----8-Months_R260024513) · software-engineering · —
 - **Booz Allen** — [Software Engineer Intern](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Bremerton-WA/Software-Engineer---Intern_R0247218) · software-engineering · —
 - **Bosch Home Comfort** — [AI Security Research Intern](https://jobs.smartrecruiters.com/BoschGroup/744000145507908) · ai · —
@@ -243,6 +244,7 @@
 - **Lawrence Livermore National Laboratory (LLNL)** — [Environment, Safety and Health Undergraduate Intern - Fall 2026](https://jobs.smartrecruiters.com/LLNL/3743990014730996) · software-engineering · —
 - **Leidos** — [Engineering Intern](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Huntsville-AL/Engineering-Intern_R-00189691) · software-engineering · —
 - **Leidos** — [Engineering Intern - Defense Systems - Threat Modeling & Simulation Portfolio](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Engineering-Intern_R-00189691) · software-engineering · —
+- **MKS Instruments** — [Business Intelligence/Data Analytics Intern](https://mksinst.wd1.myworkdayjobs.com/MKSCareersUniversity/job/Andover-MA/XMLNAME-2027-Summer-BI-Data-Analytics-IT-Intern_R20657) · software-engineering · —
 - **MSA Safety** — [Software Engineer Intern - Product Development - Summer 2027](https://careers.msasafety.com/jobs/9993?icims=1) · software-engineering · —
 - **Mackenzie Investments** — [Data Engineering Intern](https://careersen-mackenzieinvestments.icims.com/jobs/5983/job?mobile=true&needsRedirect=false) · data-engineering · —
 - **Mackenzie Investments** — [Data Science Intern](https://careersen-mackenzieinvestments.icims.com/jobs/5977/job?mobile=true&needsRedirect=false) · data-science · —
@@ -359,6 +361,7 @@
 - **Royal Bank of Canada** — [Retail Risk Modeling Analyst Intern - 8 Months](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--Retail-Risk-Modeling-Analyst-Intern--8-Months-_R-0000185759-2) · software-engineering · —
 - **Royal Bank of Canada** — [Retail Risk Modeling Analyst Intern - 8 Months](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--Retail-Risk-Modeling-Analyst-Intern--8-Months-_R-0000185759) · software-engineering · —
 - **Rystad Energy** — [Analyst Intern - Summer 2027](https://apply.workable.com/rystad-energy/j/74A4CBBC6B/apply) · software-engineering · —
+- **Sabre Systems** — [AI Intern](https://careers.sabresystems.com/jobs/4759?icims=1) · ai · —
 - **Sage** — [Software Engineer Intern - Edge - Summer 2027](https://job-boards.greenhouse.io/sage49/jobs/6131191004) · software-engineering · —
 - **Sage** — [Software Engineer Intern - Full Stack](https://job-boards.greenhouse.io/sage49/jobs/6131185004) · software-engineering · —
 - **Samsara** — [Account Development Representative Intern - Atlanta](https://www.samsara.com/company/careers/roles/8103119?gh_jid=8103119) · software-engineering · —
@@ -444,6 +447,8 @@
 - **Vertiv** — [DC Power Product Management Intern - Summer 2027](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279952) · product · —
 - **Vertiv** — [Product Management Intern - Product Marketing](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279047) · product · —
 - **Vertiv** — [Product Marketing Intern](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279046) · software-engineering · —
+- **Virtu Financial** — [2027 Summer Internship - Client Support](https://job-boards.greenhouse.io/virtu/jobs/8746197002) · quant · —
+- **Virtu Financial** — [2027 Summer Internship - Technical](https://job-boards.greenhouse.io/virtu/jobs/8745933002) · quant · —
 - **Weave** — [Data Engineer Intern](https://jobs.ashbyhq.com/weave/1318e017-3ea6-4a1f-aac7-1c11a46cda8d/application?embed=true) · data-engineering · —
 - **Wells Fargo** — [Quantitative Analytics Intern - Risk Analytics and Decision Sciences](https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Quantitative-Analytics-Summer-Internship-Risk-Analytics-and-Decision-Sciences--RADS-PhD----Early-Careers_R-569912) · quant · —
 - **Western Magnetics** — [Software Engineer Intern](https://apply.workable.com/western-magnetics/j/E366930F3F/apply) · software-engineering · —

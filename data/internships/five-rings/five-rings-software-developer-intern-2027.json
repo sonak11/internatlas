@@ -16,6 +16,10 @@
       "city": "New York",
       "state": "NY",
       "country": "USA"
+    },
+    {
+      "city": "New York",
+      "country": "USA"
     }
   ],
   "compensation": {
@@ -40,7 +44,7 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-24",
+    "posted": "2026-07-14",
     "discovered": "2026-08-17",
     "last_verified": "2026-08-26"
   },

@@ -78,7 +78,7 @@
 | [Astera](../companies/astera.md) | 1/1 | software-engineering |
 | [Astranis](../companies/astranis.md) | 4/12 | design, embedded, hardware, software-engineering |
 | [Atomic Semi](../companies/atomic-semi.md) | 6/6 | cloud, design, embedded, software-engineering |
-| [Atoms](../companies/atoms.md) | 2/4 | machine-learning, software-engineering |
+| [Atoms](../companies/atoms.md) | 4/4 | machine-learning, software-engineering |
 | [Auto-Owners Insurance](../companies/auto-owners-insurance.md) | 1/1 | software-engineering |
 | [Autodesk](../companies/autodesk.md) | 8/13 | ai, cloud, machine-learning, software-engineering |
 | [Availity](../companies/availity.md) | 0/1 | software-engineering |
@@ -94,7 +94,7 @@
 | [BTI360](../companies/bti360.md) | 1/1 | software-engineering |
 | [Baker Hughes](../companies/baker-hughes.md) | 0/1 | software-engineering |
 | [Bank of China USA](../companies/bank-of-china-usa.md) | 3/3 | software-engineering |
-| [Bank of Montreal](../companies/bank-of-montreal.md) | 7/15 | ai, data-science, software-engineering |
+| [Bank of Montreal](../companies/bank-of-montreal.md) | 9/17 | ai, data-science, software-engineering |
 | [Barclays](../companies/barclays.md) | 1/1 | quant |
 | [Base Power](../companies/base-power.md) | 1/1 | embedded |
 | [Beacon Software](../companies/beacon-software.md) | 1/1 | software-engineering |
@@ -410,6 +410,7 @@
 | [Lumentum](../companies/lumentum.md) | 0/2 | software-engineering |
 | [Luminance](../companies/luminance.md) | 1/1 | ai |
 | [Léger](../companies/l-ger.md) | 1/1 | research |
+| [MKS Instruments](../companies/mks-instruments.md) | 1/1 | software-engineering |
 | [MSA Safety](../companies/msa-safety.md) | 1/1 | software-engineering |
 | [Mackenzie Investments](../companies/mackenzie-investments.md) | 2/3 | ai, data-engineering, data-science |
 | [Magna](../companies/magna.md) | 1/1 | software-engineering |
@@ -423,6 +424,7 @@
 | [Mathtech](../companies/mathtech.md) | 1/1 | software-engineering |
 | [Maven Securities](../companies/maven-securities.md) | 3/3 | quant, software-engineering |
 | [MaxLinear](../companies/maxlinear.md) | 0/1 | ai |
+| [Maxinsights](../companies/maxinsights.md) | 1/1 | software-engineering |
 | [McKesson](../companies/mckesson.md) | 1/6 | ai, software-engineering |
 | [Medline](../companies/medline.md) | 1/1 | product |
 | [Medpace](../companies/medpace.md) | 3/4 | ai, data-engineering, software-engineering |
@@ -603,6 +605,7 @@
 | [SPREEAI](../companies/spreeai.md) | 1/1 | ai |
 | [SRI International](../companies/sri-international.md) | 0/1 | software-engineering |
 | [SS&C](../companies/ss-c.md) | 0/1 | ai |
+| [Sabre Systems](../companies/sabre-systems.md) | 1/1 | ai |
 | [Sage](../companies/sage.md) | 2/2 | software-engineering |
 | [Salesforce](../companies/salesforce.md) | 0/4 | product, software-engineering |
 | [Samsara](../companies/samsara.md) | 4/4 | software-engineering |
@@ -611,7 +614,7 @@
 | [Sandhills Global](../companies/sandhills-global.md) | 1/1 | software-engineering |
 | [Sargent & Lundy](../companies/sargent-lundy.md) | 0/3 | ai, software-engineering |
 | [Saronic](../companies/saronic.md) | 0/2 | ai, software-engineering |
-| [Scale AI](../companies/scale-ai.md) | 3/3 | ai, software-engineering |
+| [Scale AI](../companies/scale-ai.md) | 2/3 | ai, software-engineering |
 | [SchoolMint](../companies/schoolmint.md) | 1/1 | software-engineering |
 | [Schweitzer Engineering Laboratories](../companies/schweitzer-engineering-laboratories.md) | 3/6 | ai, software-engineering |
 | [SciTec](../companies/scitec.md) | 1/1 | software-engineering |
@@ -742,7 +745,7 @@
 | [Vertiv](../companies/vertiv.md) | 13/14 | product, software-engineering |
 | [VetsEZ](../companies/vetsez.md) | 1/1 | software-engineering |
 | [Viavi Solutions](../companies/viavi-solutions.md) | 0/1 | software-engineering |
-| [Virtu Financial](../companies/virtu-financial.md) | 14/14 | hardware, quant, software-engineering |
+| [Virtu Financial](../companies/virtu-financial.md) | 16/16 | design, hardware, quant |
 | [Vital Lyfe](../companies/vital-lyfe.md) | 1/1 | software-engineering |
 | [Voloridge](../companies/voloridge.md) | 2/2 | quant |
 | [Voloridge Investment Management](../companies/voloridge-investment-management.md) | 1/1 | quant |

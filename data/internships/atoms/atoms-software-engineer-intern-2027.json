@@ -36,6 +36,18 @@
       "city": "San Francisco",
       "state": "CA",
       "country": "USA"
+    },
+    {
+      "city": "SF",
+      "country": "USA"
+    },
+    {
+      "state": "LA",
+      "country": "USA"
+    },
+    {
+      "city": "NYC",
+      "country": "USA"
     }
   ],
   "compensation": {
@@ -62,7 +74,7 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-21",
+    "posted": "2026-08-07",
     "discovered": "2026-08-21",
     "last_verified": "2026-08-26"
   },
