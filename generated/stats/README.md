@@ -186,6 +186,7 @@ _Generated 2026-08-26_
 - Hershey — Product Development Intern - R&D
 - Hilton Worldwide — Corporate Summer Internship - Technology, Software Engineering and Cyber
 - Hitachi — Data Center Optimization Intern
+- Hoffman Construction — Data Analyst Intern
 - Horizon Industries — Appian Intern
 - IES Holdings — Data Analytics Intern
 - IMC Trading — Hardware Machine Learning PhD Research Internship
@@ -300,6 +301,7 @@ _Generated 2026-08-26_
 - RTX — Software Engineer Intern
 - RTX — Software Engineer Intern
 - RTX — Software Engineer Intern - Spring 2027
+- RTX — Software Engineer Intern - Summer 2027
 - RTX — Software Engineer Intern - Summer 2027
 - RTX — Software Engineer Intern - Summer 2027
 - RTX — Software Engineer Intern - Summer 2027
