@@ -109,7 +109,7 @@
 | [Blue Cross Blue Shield of Michigan](../companies/blue-cross-blue-shield-of-michigan.md) | 1/1 | software-engineering |
 | [Boeing](../companies/boeing.md) | 1/1 | software-engineering |
 | [Boom Supersonic](../companies/boom-supersonic.md) | 1/1 | software-engineering |
-| [Booz Allen](../companies/booz-allen.md) | 1/3 | ai, software-engineering |
+| [Booz Allen](../companies/booz-allen.md) | 0/3 | ai, software-engineering |
 | [BorgWarner](../companies/borgwarner.md) | 2/2 | software-engineering |
 | [Bosch](../companies/bosch.md) | 2/2 | ai |
 | [Bosch Home Comfort](../companies/bosch-home-comfort.md) | 5/10 | ai, product, research, software-engineering |
@@ -321,7 +321,7 @@
 | [HPR (Hyannis Port Research)](../companies/hpr-hyannis-port-research.md) | 1/1 | software-engineering |
 | [Harris Central Appraisal District](../companies/harris-central-appraisal-district.md) | 0/1 | software-engineering |
 | [Harris Computer](../companies/harris-computer.md) | 0/1 | software-engineering |
-| [Heidelberg Materials](../companies/heidelberg-materials.md) | 1/1 | software-engineering |
+| [Heidelberg Materials](../companies/heidelberg-materials.md) | 0/1 | software-engineering |
 | [Heliux](../companies/heliux.md) | 3/3 | software-engineering |
 | [Helsing](../companies/helsing.md) | 1/1 | ai |
 | [Hendrick Motorsports](../companies/hendrick-motorsports.md) | 1/3 | software-engineering |
@@ -688,7 +688,7 @@
 | [The Voleon Group](../companies/the-voleon-group.md) | 1/1 | software-engineering |
 | [The Walt Disney Company](../companies/the-walt-disney-company.md) | 20/20 | hardware, software-engineering |
 | [Thomson Reuters](../companies/thomson-reuters.md) | 2/2 | machine-learning, research |
-| [TikTok](../companies/tiktok.md) | 146/150 | ai, cloud, data-engineering, data-science, machine-learning, product, research, software-engineering |
+| [TikTok](../companies/tiktok.md) | 145/150 | ai, cloud, data-engineering, data-science, machine-learning, product, research, software-engineering |
 | [Together AI](../companies/together-ai.md) | 0/3 | research |
 | [Torch Technologies](../companies/torch-technologies.md) | 0/1 | software-engineering |
 | [Toshiba Commerce Solutions](../companies/toshiba-commerce-solutions.md) | 0/2 | ai |

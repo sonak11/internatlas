@@ -101,6 +101,7 @@ _Generated 2026-08-26_
 - Bloxd — Software Engineer Intern
 - Booz Allen — AI RAN Telecommunications Engineer Intern
 - Booz Allen — AI RAN Telecommunications Engineer Intern
+- Booz Allen — Software Engineer Intern
 - Bosch Home Comfort — ADAS Software Engineer Intern
 - BP — Geoscience Intern - Geoscientist
 - ByteDance — Research Scientist Intern
@@ -181,6 +182,7 @@ _Generated 2026-08-26_
 - Gumloop — Design Engineer Intern
 - Harris Central Appraisal District — GIS Intern
 - Harris Computer — Software Development Intern
+- Heidelberg Materials — Master Data Intern - Service & Support
 - Hershey — Product Development Intern - R&D
 - Hilton Worldwide — Corporate Summer Internship - Technology, Software Engineering and Cyber
 - Hitachi — Data Center Optimization Intern
@@ -351,6 +353,7 @@ _Generated 2026-08-26_
 - Tesla — Thermal Controls Engineer Intern - Thermal Controls Engineer - Vehicle Controls
 - The Home Depot — Co-op Intern
 - The Hub Project — Polling and Outreach Intern
+- TikTok — Product Manager Intern - TikTok Product Content Ecosystem
 - TMEIC Corporation Americas — Engineer Intern - Spring 2027 - Eis
 - TMX Group — Analyst Student Intern - Market Insights
 - Together AI — Research Intern - Model Shaping
