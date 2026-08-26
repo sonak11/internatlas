@@ -247,8 +247,6 @@ _Generated 2026-08-26_
 - Nokia — Hardware Developer Engineer Co-op/Intern
 - Notion — Governance, Risk, and Compliance Intern (Fall 2026)
 - NVIDIA — Computer Architecture Intern
-- NVIDIA — Mixed Signal Design Intern
-- NVIDIA — Ph.D. Research Graphics and Simulation Intern - Graphics and Simulation
 - Ontario Teachers' Pension Plan — Finance Intern - Risk Analytics
 - Ontario Teachers' Pension Plan — Risk Intern - Total Fund Risk
 - Otter Products — Artificial Intelligence Intern
