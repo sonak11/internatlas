@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "rtx-software-engineer-intern-2027-9488d0",
+  "id": "lightcast-software-engineer-intern-api-development-2026",
   "company": {
-    "name": "RTX",
-    "slug": "rtx"
+    "name": "Lightcast",
+    "slug": "lightcast"
   },
-  "role": "Software Engineer Intern",
+  "role": "Software Engineer Intern - API Development",
   "category": "software-engineering",
-  "apply_url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineering-Intern--Summer-2027-_01868886",
-  "season": "summer",
-  "year": 2027,
+  "apply_url": "https://jobs.lever.co/economicmodeling/a6d45716-c743-4013-a1d8-310850c115f9/apply",
+  "season": "fall",
+  "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Richardson",
-      "state": "TX",
+      "city": "Moscow",
+      "state": "ID",
       "country": "USA"
     }
   ],
@@ -25,9 +25,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -43,8 +41,8 @@
   },
   "dates": {
     "posted": "2026-08-26",
-    "discovered": "2026-08-26",
-    "last_verified": "2026-08-26"
+    "discovered": "2026-08-27",
+    "last_verified": "2026-08-27"
   },
   "status": "open",
   "tags": [
