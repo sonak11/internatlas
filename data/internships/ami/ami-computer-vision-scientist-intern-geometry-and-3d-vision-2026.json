@@ -1,20 +1,27 @@
 {
   "schema_version": "1.0",
-  "id": "rtx-systems-engineer-1-intern-intern-conversion-2026-4fbca8",
+  "id": "ami-computer-vision-scientist-intern-geometry-and-3d-vision-2026",
   "company": {
-    "name": "RTX",
-    "slug": "rtx"
+    "name": "AMI",
+    "slug": "ami"
   },
-  "role": "Systems Engineer 1 Intern - Intern Conversion",
+  "role": "Computer Vision Scientist Intern - Geometry and 3D Vision",
   "category": "software-engineering",
-  "apply_url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Intern-Conversion--Systems-Engineer-I--Onsite-_01863596",
+  "apply_url": "https://jobs.ashbyhq.com/ami/0d7332d8-b8e7-40d3-89b6-dfc02b40bfa2/application?embed=true",
   "season": "fall",
   "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Cedar Rapids",
-      "state": "IA",
+      "city": "Montreal",
+      "country": "QC"
+    },
+    {
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "city": "NYC",
       "country": "USA"
     }
   ],
@@ -40,8 +47,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-07",
-    "discovered": "2026-08-07",
+    "posted": "2026-08-27",
+    "discovered": "2026-08-27",
     "last_verified": "2026-08-27"
   },
   "status": "open",

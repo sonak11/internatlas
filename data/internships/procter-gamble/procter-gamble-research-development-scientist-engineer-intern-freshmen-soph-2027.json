@@ -1,0 +1,69 @@
+{
+  "schema_version": "1.0",
+  "id": "procter-gamble-research-development-scientist-engineer-intern-freshmen-soph-2027",
+  "company": {
+    "name": "Procter & Gamble",
+    "slug": "procter-gamble"
+  },
+  "role": "Research & Development Scientist/Engineer Intern - Freshmen, Sophomores, And Juniors",
+  "category": "research",
+  "apply_url": "https://pg.wd5.myworkdayjobs.com/1000/job/Mason/Research---Development-Scientist-Engineer-Intern-Summer-2027---Freshmen--Sophomores--and-Juniors_R000157846",
+  "season": "summer",
+  "year": 2027,
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "St Bernard",
+      "state": "OH",
+      "country": "USA"
+    },
+    {
+      "city": "West Chester Township",
+      "state": "OH",
+      "country": "USA"
+    },
+    {
+      "city": "Mason",
+      "state": "OH",
+      "country": "USA"
+    },
+    {
+      "city": "Cincinnati",
+      "state": "OH",
+      "country": "USA"
+    }
+  ],
+  "compensation": {
+    "currency": "USD",
+    "housing_stipend": false,
+    "relocation_assistance": false
+  },
+  "eligibility": {
+    "graduation_years": [],
+    "degree_levels": [
+      "masters"
+    ],
+    "citizenship_required": false,
+    "security_clearance_required": false,
+    "visa_sponsorship": "unknown"
+  },
+  "interview": {},
+  "tech": {
+    "required_skills": [],
+    "preferred_skills": [],
+    "languages": [],
+    "frameworks": [],
+    "cloud_platforms": [],
+    "resume_keywords": []
+  },
+  "dates": {
+    "posted": "2026-08-24",
+    "discovered": "2026-08-27",
+    "last_verified": "2026-08-27"
+  },
+  "status": "open",
+  "tags": [
+    "auto-ingested",
+    "src:simplify"
+  ]
+}

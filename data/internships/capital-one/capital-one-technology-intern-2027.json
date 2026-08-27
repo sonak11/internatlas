@@ -7,25 +7,14 @@
   },
   "role": "Technology Intern",
   "category": "software-engineering",
-  "apply_url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Technology-Internship-Program---Summer-2027_R244387-1",
+  "apply_url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Nottingham--Eng/Technology-Summer-Internship_R999269",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Plano",
-      "state": "TX",
-      "country": "USA"
-    },
-    {
-      "city": "McLean",
-      "state": "VA",
-      "country": "USA"
-    },
-    {
-      "city": "Richmond",
-      "state": "VA",
-      "country": "USA"
+      "city": "Nottingham",
+      "country": "UK"
     }
   ],
   "compensation": {
@@ -50,11 +39,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-03",
+    "posted": "2026-08-27",
     "discovered": "2026-08-03",
-    "last_verified": "2026-08-10"
+    "last_verified": "2026-08-27"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"
