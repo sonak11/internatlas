@@ -1,20 +1,21 @@
 {
   "schema_version": "1.0",
-  "id": "rtx-engine-performance-intern-2027-08e1dc",
+  "id": "the-walt-disney-company-pricing-product-development-intern-2027",
   "company": {
-    "name": "RTX",
-    "slug": "rtx"
+    "name": "The Walt Disney Company",
+    "slug": "the-walt-disney-company"
   },
-  "role": "Engine Performance Intern",
+  "role": "Pricing & Product Development Intern",
   "category": "software-engineering",
-  "apply_url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stagiaire-Hiver-2027-Performance-Moteurs---Internship-Winter-2027-Engine-Performance_01862220",
+  "apply_url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/Pricing---Product-Development-Intern--Spring-2027_10158266-2",
   "season": "winter",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Longueuil",
-      "country": "QC"
+      "city": "Lake Buena Vista",
+      "state": "FL",
+      "country": "USA"
     }
   ],
   "compensation": {
@@ -39,11 +40,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-26",
-    "discovered": "2026-08-26",
-    "last_verified": "2026-08-27"
+    "posted": "2026-08-28",
+    "discovered": "2026-08-28",
+    "last_verified": "2026-08-28"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

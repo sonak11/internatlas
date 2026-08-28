@@ -1,19 +1,19 @@
 {
   "schema_version": "1.0",
-  "id": "cole-engineering-services-software-engineer-intern-2026",
+  "id": "the-walt-disney-company-pricing-product-development-intern-spring-2027-2027",
   "company": {
-    "name": "Cole Engineering Services",
-    "slug": "cole-engineering-services"
+    "name": "The Walt Disney Company",
+    "slug": "the-walt-disney-company"
   },
-  "role": "Software Engineer Intern",
+  "role": "Pricing & Product Development Intern - Spring 2027",
   "category": "software-engineering",
-  "apply_url": "https://jobs-cesi.icims.com/jobs/11204/job?mobile=true&needsRedirect=false",
-  "season": "fall",
-  "year": 2026,
+  "apply_url": "https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Lake-Buena-Vista-FL-USA/Pricing---Product-Development-Intern--Spring-2027_10158266",
+  "season": "summer",
+  "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Orlando",
+      "city": "Lake Buena Vista",
       "state": "FL",
       "country": "USA"
     }
@@ -25,9 +25,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -42,11 +40,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-18",
-    "discovered": "2026-08-18",
+    "posted": "2026-08-28",
+    "discovered": "2026-08-28",
     "last_verified": "2026-08-28"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

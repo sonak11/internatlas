@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "cole-engineering-services-software-engineer-intern-2026",
+  "id": "emory-university-student-tester-and-developer-intern-gps-sample-2026",
   "company": {
-    "name": "Cole Engineering Services",
-    "slug": "cole-engineering-services"
+    "name": "Emory University",
+    "slug": "emory-university"
   },
-  "role": "Software Engineer Intern",
+  "role": "Student Tester and Developer Intern - GPS Sample",
   "category": "software-engineering",
-  "apply_url": "https://jobs-cesi.icims.com/jobs/11204/job?mobile=true&needsRedirect=false",
+  "apply_url": "https://staff-emory.icims.com/jobs/172196/job?mobile=true&needsRedirect=false",
   "season": "fall",
   "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Orlando",
-      "state": "FL",
+      "city": "Decatur",
+      "state": "GA",
       "country": "USA"
     }
   ],
@@ -25,9 +25,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -42,11 +40,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-18",
-    "discovered": "2026-08-18",
+    "posted": "2026-08-21",
+    "discovered": "2026-08-28",
     "last_verified": "2026-08-28"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

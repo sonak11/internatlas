@@ -1,24 +1,45 @@
 {
   "schema_version": "1.0",
-  "id": "nvidia-software-engineering-intern-2027",
+  "id": "iberdrola-group-technology-cyber-data-intern-2027",
   "company": {
-    "name": "NVIDIA",
-    "slug": "nvidia"
+    "name": "Iberdrola Group",
+    "slug": "iberdrola-group"
   },
-  "role": "Software Engineering Intern",
+  "role": "Technology – Cyber & Data Intern",
   "category": "software-engineering",
-  "apply_url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495",
+  "apply_url": "https://iberdrola.wd3.myworkdayjobs.com/iberdrola/job/United-States-Of-America-Connecticut-Orange/XMLNAME-2027-Technology--Cyber---Data-Internship-Program_R-32747",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Canada",
+      "city": "Boston",
+      "state": "MA",
       "country": "USA"
     },
     {
-      "city": "Santa Clara",
-      "state": "CA",
+      "city": "Rochester",
+      "state": "NY",
+      "country": "USA"
+    },
+    {
+      "city": "Augusta",
+      "state": "ME",
+      "country": "USA"
+    },
+    {
+      "city": "Orange",
+      "state": "CT",
+      "country": "USA"
+    },
+    {
+      "city": "Portland",
+      "state": "OR",
+      "country": "USA"
+    },
+    {
+      "city": "Portland",
+      "state": "ME",
       "country": "USA"
     }
   ],
@@ -30,8 +51,7 @@
   "eligibility": {
     "graduation_years": [],
     "degree_levels": [
-      "masters",
-      "phd"
+      "masters"
     ],
     "citizenship_required": false,
     "security_clearance_required": false,
@@ -47,8 +67,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-19",
-    "discovered": "2026-08-19",
+    "posted": "2026-08-28",
+    "discovered": "2026-08-28",
     "last_verified": "2026-08-28"
   },
   "status": "open",

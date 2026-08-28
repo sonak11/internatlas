@@ -5,17 +5,13 @@
     "name": "Astranis",
     "slug": "astranis"
   },
-  "role": "Software Engineer Intern - Enterprise Systems",
+  "role": "Software Engineer Intern, Enterprise Systems",
   "category": "software-engineering",
   "apply_url": "https://job-boards.greenhouse.io/astranis/jobs/4699071006",
   "season": "fall",
   "year": 2026,
   "work_mode": "onsite",
   "locations": [
-    {
-      "city": "SF",
-      "country": "USA"
-    },
     {
       "city": "San Francisco",
       "state": "CA",
@@ -46,13 +42,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-23",
+    "posted": "2026-07-24",
     "discovered": "2026-07-24",
     "last_verified": "2026-08-28"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }

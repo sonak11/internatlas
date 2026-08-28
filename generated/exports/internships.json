@@ -1,6 +1,6 @@
 {
   "generated": "2026-08-28",
-  "count": 2612,
+  "count": 2622,
   "internships": [
     {
       "schema_version": "1.0",
@@ -8283,6 +8283,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "analog-devices-ai-ml-engineer-intern-2026",
+      "company": {
+        "name": "Analog Devices",
+        "slug": "analog-devices"
+      },
+      "role": "AI/ML Engineer Intern",
+      "category": "machine-learning",
+      "apply_url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/AI-ML-Engineer-Intern_R265579",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Wilmington",
+          "state": "MA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-28",
+        "discovered": "2026-08-28",
+        "last_verified": "2026-08-28"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "analog-devices-algorithm-development-engineer-intern-2026",
       "company": {
         "name": "Analog Devices",
@@ -10935,7 +10987,7 @@
         "discovered": "2026-08-14",
         "last_verified": "2026-08-28"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -12152,17 +12204,13 @@
         "name": "Astranis",
         "slug": "astranis"
       },
-      "role": "Software Engineer Intern - Enterprise Systems",
+      "role": "Software Engineer Intern, Enterprise Systems",
       "category": "software-engineering",
       "apply_url": "https://job-boards.greenhouse.io/astranis/jobs/4699071006",
       "season": "fall",
       "year": 2026,
       "work_mode": "onsite",
       "locations": [
-        {
-          "city": "SF",
-          "country": "USA"
-        },
         {
           "city": "San Francisco",
           "state": "CA",
@@ -12193,14 +12241,14 @@
         "resume_keywords": []
       },
       "dates": {
-        "posted": "2026-07-23",
+        "posted": "2026-07-24",
         "discovered": "2026-07-24",
         "last_verified": "2026-08-28"
       },
       "status": "open",
       "tags": [
         "auto-ingested",
-        "src:simplify"
+        "src:vanshb03"
       ]
     },
     {
@@ -23168,7 +23216,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "canva-phd-research-scientist-intern-2026",
+      "id": "canva-phd-research-scientist-intern-2026-1bb10f",
       "company": {
         "name": "Canva",
         "slug": "canva"
@@ -23183,6 +23231,57 @@
         {
           "city": "San Francisco",
           "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-06",
+        "discovered": "2026-08-28",
+        "last_verified": "2026-08-28"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "canva-phd-research-scientist-intern-2026",
+      "company": {
+        "name": "Canva",
+        "slug": "canva"
+      },
+      "role": "PhD Research Scientist Intern",
+      "category": "research",
+      "apply_url": "https://jobs.smartrecruiters.com/Canva/6000000001291655",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "SF",
           "country": "USA"
         }
       ],
@@ -23217,7 +23316,7 @@
       "status": "open",
       "tags": [
         "auto-ingested",
-        "src:vanshb03"
+        "src:simplify"
       ]
     },
     {
@@ -23320,7 +23419,7 @@
         "discovered": "2026-08-06",
         "last_verified": "2026-08-28"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -31151,7 +31250,7 @@
         "discovered": "2026-08-18",
         "last_verified": "2026-08-28"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -31846,7 +31945,7 @@
         "discovered": "2026-08-27",
         "last_verified": "2026-08-28"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -33707,6 +33806,60 @@
       "dates": {
         "posted": "2026-08-14",
         "discovered": "2026-08-15",
+        "last_verified": "2026-08-28"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "csx-intermodal-intern-summer-2027-paid-2027",
+      "company": {
+        "name": "CSX",
+        "slug": "csx"
+      },
+      "role": "Intermodal Intern - Summer 2027 - Paid",
+      "category": "software-engineering",
+      "apply_url": "https://fa-eowa-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CSXCareers/job/54817",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Jacksonville",
+          "state": "FL",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-28",
+        "discovered": "2026-08-28",
         "last_verified": "2026-08-28"
       },
       "status": "open",
@@ -38457,7 +38610,7 @@
         "discovered": "2026-07-21",
         "last_verified": "2026-08-28"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -38761,6 +38914,58 @@
       },
       "dates": {
         "posted": "2026-08-27",
+        "discovered": "2026-08-28",
+        "last_verified": "2026-08-28"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "emory-university-student-tester-and-developer-intern-gps-sample-2026",
+      "company": {
+        "name": "Emory University",
+        "slug": "emory-university"
+      },
+      "role": "Student Tester and Developer Intern - GPS Sample",
+      "category": "software-engineering",
+      "apply_url": "https://staff-emory.icims.com/jobs/172196/job?mobile=true&needsRedirect=false",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Decatur",
+          "state": "GA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-21",
         "discovered": "2026-08-28",
         "last_verified": "2026-08-28"
       },
@@ -47704,7 +47909,7 @@
         "discovered": "2026-08-28",
         "last_verified": "2026-08-28"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -48388,7 +48593,7 @@
         "discovered": "2026-08-27",
         "last_verified": "2026-08-28"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -53994,6 +54199,85 @@
     },
     {
       "schema_version": "1.0",
+      "id": "iberdrola-group-technology-cyber-data-intern-2027",
+      "company": {
+        "name": "Iberdrola Group",
+        "slug": "iberdrola-group"
+      },
+      "role": "Technology – Cyber & Data Intern",
+      "category": "software-engineering",
+      "apply_url": "https://iberdrola.wd3.myworkdayjobs.com/iberdrola/job/United-States-Of-America-Connecticut-Orange/XMLNAME-2027-Technology--Cyber---Data-Internship-Program_R-32747",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Boston",
+          "state": "MA",
+          "country": "USA"
+        },
+        {
+          "city": "Rochester",
+          "state": "NY",
+          "country": "USA"
+        },
+        {
+          "city": "Augusta",
+          "state": "ME",
+          "country": "USA"
+        },
+        {
+          "city": "Orange",
+          "state": "CT",
+          "country": "USA"
+        },
+        {
+          "city": "Portland",
+          "state": "OR",
+          "country": "USA"
+        },
+        {
+          "city": "Portland",
+          "state": "ME",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-28",
+        "discovered": "2026-08-28",
+        "last_verified": "2026-08-28"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "ies-holdings-data-analytics-intern-2026",
       "company": {
         "name": "IES Holdings",
@@ -59528,6 +59812,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "jump-trading-campus-ai-ml-researcher-intern-2027",
+      "company": {
+        "name": "Jump Trading",
+        "slug": "jump-trading",
+        "career_page": "https://www.jumptrading.com/careers"
+      },
+      "role": "Campus AI/ML Researcher (Intern)",
+      "category": "machine-learning",
+      "apply_url": "https://www.jumptrading.com/hr/job?gh_jid=8027938",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Hong Kong",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-24",
+        "discovered": "2026-08-28",
+        "last_verified": "2026-08-28"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "jump-trading-campus-ai-research-engineer-deep-learning-intern-2027",
       "company": {
         "name": "Jump Trading",
@@ -60466,58 +60802,6 @@
     },
     {
       "schema_version": "1.0",
-      "id": "jump-trading-campus-quantitative-research-intern-off-cycle-winter-spring-2027",
-      "company": {
-        "name": "Jump Trading",
-        "slug": "jump-trading",
-        "career_page": "https://www.jumptrading.com/careers"
-      },
-      "role": "Campus Quantitative Research Intern (Off-Cycle - Winter/Spring 2027)",
-      "category": "quant",
-      "apply_url": "https://www.jumptrading.com/hr/job?gh_jid=8027898",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Hong Kong",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-08-25",
-        "discovered": "2026-08-25",
-        "last_verified": "2026-08-28"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:ats"
-      ]
-    },
-    {
-      "schema_version": "1.0",
       "id": "jump-trading-campus-quantitative-researcher-intern-2026",
       "company": {
         "name": "Jump Trading",
@@ -60881,6 +61165,58 @@
       "dates": {
         "posted": "2026-07-13",
         "discovered": "2026-07-18",
+        "last_verified": "2026-08-28"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "jump-trading-campus-quantitative-researcher-off-cycle-winter-spring-2027-2027",
+      "company": {
+        "name": "Jump Trading",
+        "slug": "jump-trading",
+        "career_page": "https://www.jumptrading.com/careers"
+      },
+      "role": "Campus Quantitative Researcher (Off-Cycle - Winter/Spring 2027 Intern)",
+      "category": "quant",
+      "apply_url": "https://www.jumptrading.com/hr/job?gh_jid=8027898",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Hong Kong",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-25",
+        "discovered": "2026-08-28",
         "last_verified": "2026-08-28"
       },
       "status": "open",
@@ -65855,7 +66191,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-28"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -65907,7 +66243,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-08-28"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -74655,7 +74991,7 @@
         "discovered": "2026-08-25",
         "last_verified": "2026-08-28"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -82970,9 +83306,9 @@
       "dates": {
         "posted": "2026-08-19",
         "discovered": "2026-08-19",
-        "last_verified": "2026-08-27"
+        "last_verified": "2026-08-28"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -92059,7 +92395,7 @@
         "discovered": "2026-08-26",
         "last_verified": "2026-08-28"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -98129,7 +98465,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "rtx-engine-performance-intern-2027-08e1dc",
+      "id": "rtx-engine-performance-intern-2027",
       "company": {
         "name": "RTX",
         "slug": "rtx"
@@ -98170,60 +98506,9 @@
       "dates": {
         "posted": "2026-08-26",
         "discovered": "2026-08-26",
-        "last_verified": "2026-08-27"
+        "last_verified": "2026-08-28"
       },
-      "status": "closed",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "rtx-engine-performance-intern-2027",
-      "company": {
-        "name": "RTX",
-        "slug": "rtx"
-      },
-      "role": "Engine Performance Intern",
-      "category": "software-engineering",
-      "apply_url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stagiaire-Hiver-2027-Performance-Moteurs---Internship-Winter-2027-Engine-Performance_01861168",
-      "season": "winter",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Longueuil",
-          "country": "QC"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-08-26",
-        "discovered": "2026-08-26",
-        "last_verified": "2026-08-27"
-      },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -112752,6 +113037,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "tesla-backend-engineer-intern-infrastructure-engineering-2027",
+      "company": {
+        "name": "Tesla",
+        "slug": "tesla"
+      },
+      "role": "Backend Engineer Intern - Infrastructure Engineering",
+      "category": "cloud",
+      "apply_url": "https://www.tesla.com/careers/search/job/281467",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Fremont",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-28",
+        "discovered": "2026-08-28",
+        "last_verified": "2026-08-28"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "tesla-backend-software-engineer-intern-diagnostics-2027",
       "company": {
         "name": "Tesla",
@@ -121401,6 +121738,214 @@
       "dates": {
         "posted": "2026-08-24",
         "discovered": "2026-08-24",
+        "last_verified": "2026-08-28"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "the-walt-disney-company-park-yield-optimization-intern-spring-2027-2027-7e7d72",
+      "company": {
+        "name": "The Walt Disney Company",
+        "slug": "the-walt-disney-company"
+      },
+      "role": "Park Yield Optimization Intern - Spring 2027",
+      "category": "software-engineering",
+      "apply_url": "https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Lake-Buena-Vista-FL-USA/Park-Yield-Optimization-Intern--Spring-2027_10158534-1",
+      "season": "spring",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Lake Buena Vista",
+          "state": "FL",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-28",
+        "discovered": "2026-08-28",
+        "last_verified": "2026-08-28"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "the-walt-disney-company-park-yield-optimization-intern-spring-2027-2027",
+      "company": {
+        "name": "The Walt Disney Company",
+        "slug": "the-walt-disney-company"
+      },
+      "role": "Park Yield Optimization Intern - Spring 2027",
+      "category": "software-engineering",
+      "apply_url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/Park-Yield-Optimization-Intern--Spring-2027_10158534",
+      "season": "spring",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Lake Buena Vista",
+          "state": "FL",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-28",
+        "discovered": "2026-08-28",
+        "last_verified": "2026-08-28"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "the-walt-disney-company-pricing-product-development-intern-2027",
+      "company": {
+        "name": "The Walt Disney Company",
+        "slug": "the-walt-disney-company"
+      },
+      "role": "Pricing & Product Development Intern",
+      "category": "software-engineering",
+      "apply_url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/Pricing---Product-Development-Intern--Spring-2027_10158266-2",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Lake Buena Vista",
+          "state": "FL",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-28",
+        "discovered": "2026-08-28",
+        "last_verified": "2026-08-28"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "the-walt-disney-company-pricing-product-development-intern-spring-2027-2027",
+      "company": {
+        "name": "The Walt Disney Company",
+        "slug": "the-walt-disney-company"
+      },
+      "role": "Pricing & Product Development Intern - Spring 2027",
+      "category": "software-engineering",
+      "apply_url": "https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Lake-Buena-Vista-FL-USA/Pricing---Product-Development-Intern--Spring-2027_10158266",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Lake Buena Vista",
+          "state": "FL",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-28",
+        "discovered": "2026-08-28",
         "last_verified": "2026-08-28"
       },
       "status": "open",

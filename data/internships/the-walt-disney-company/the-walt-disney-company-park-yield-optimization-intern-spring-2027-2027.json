@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "jump-trading-campus-quantitative-research-intern-off-cycle-winter-spring-2027",
+  "id": "the-walt-disney-company-park-yield-optimization-intern-spring-2027-2027",
   "company": {
-    "name": "Jump Trading",
-    "slug": "jump-trading",
-    "career_page": "https://www.jumptrading.com/careers"
+    "name": "The Walt Disney Company",
+    "slug": "the-walt-disney-company"
   },
-  "role": "Campus Quantitative Research Intern (Off-Cycle - Winter/Spring 2027)",
-  "category": "quant",
-  "apply_url": "https://www.jumptrading.com/hr/job?gh_jid=8027898",
-  "season": "summer",
+  "role": "Park Yield Optimization Intern - Spring 2027",
+  "category": "software-engineering",
+  "apply_url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/Park-Yield-Optimization-Intern--Spring-2027_10158534",
+  "season": "spring",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Hong Kong",
+      "city": "Lake Buena Vista",
+      "state": "FL",
       "country": "USA"
     }
   ],
@@ -40,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-25",
-    "discovered": "2026-08-25",
+    "posted": "2026-08-28",
+    "discovered": "2026-08-28",
     "last_verified": "2026-08-28"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:ats"
+    "src:simplify"
   ]
 }
