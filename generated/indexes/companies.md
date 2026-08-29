@@ -204,7 +204,7 @@
 | [DV Group](../companies/dv-group.md) | 2/2 | quant, software-engineering |
 | [DV Trading](../companies/dv-trading.md) | 4/4 | quant, software-engineering |
 | [Daktronics](../companies/daktronics.md) | 1/1 | embedded |
-| [Dallas College](../companies/dallas-college.md) | 1/1 | software-engineering |
+| [Dallas College](../companies/dallas-college.md) | 0/1 | software-engineering |
 | [DataRobot](../companies/datarobot.md) | 0/1 | ai |
 | [Databricks](../companies/databricks.md) | 6/6 | product, research, software-engineering |
 | [Datadog](../companies/datadog.md) | 3/3 | product, security, software-engineering |
@@ -328,7 +328,7 @@
 | [GoDaddy](../companies/godaddy.md) | 0/1 | software-engineering |
 | [Golden Pet Brands](../companies/golden-pet-brands.md) | 0/1 | software-engineering |
 | [Goldman Sachs](../companies/goldman-sachs.md) | 7/12 | product, quant, software-engineering |
-| [Google](../companies/google.md) | 4/9 | data-science, research, software-engineering |
+| [Google](../companies/google.md) | 3/9 | data-science, research, software-engineering |
 | [Grant Thornton](../companies/grant-thornton.md) | 3/3 | ai, software-engineering |
 | [GrayMatter Robotics](../companies/graymatter-robotics.md) | 1/1 | ai |
 | [Gritt Robotics Inc](../companies/gritt-robotics-inc.md) | 1/1 | software-engineering |
@@ -465,7 +465,7 @@
 | [Metropolitan Transportation Authority](../companies/metropolitan-transportation-authority.md) | 0/2 | software-engineering |
 | [Microchip Technology](../companies/microchip-technology.md) | 5/8 | design, embedded, software-engineering |
 | [Micron Technology](../companies/micron-technology.md) | 11/13 | ai, design, software-engineering |
-| [Microsoft](../companies/microsoft.md) | 11/18 | ai, cloud, hardware, machine-learning, product, security, software-engineering |
+| [Microsoft](../companies/microsoft.md) | 10/18 | ai, cloud, hardware, machine-learning, product, security, software-engineering |
 | [Midmark](../companies/midmark.md) | 0/1 | embedded |
 | [Millennium](../companies/millennium.md) | 3/3 | ai, quant |
 | [Mindsmith](../companies/mindsmith.md) | 1/1 | software-engineering |
@@ -491,7 +491,7 @@
 | [NXP Semiconductors](../companies/nxp-semiconductors.md) | 1/3 | ai, design, software-engineering |
 | [Nash](../companies/nash.md) | 1/1 | software-engineering |
 | [NationGraph](../companies/nationgraph.md) | 1/2 | software-engineering |
-| [National Laboratory of the Rockies](../companies/national-laboratory-of-the-rockies.md) | 9/12 | cloud, data-science, software-engineering |
+| [National Laboratory of the Rockies](../companies/national-laboratory-of-the-rockies.md) | 8/12 | cloud, data-science, software-engineering |
 | [National Reconnaissance Office](../companies/national-reconnaissance-office.md) | 0/1 | software-engineering |
 | [Nationwide](../companies/nationwide.md) | 1/1 | software-engineering |
 | [Nationwide Children's Hospital](../companies/nationwide-children-s-hospital.md) | 0/2 | research |
@@ -595,7 +595,7 @@
 | [RLI](../companies/rli.md) | 0/1 | product |
 | [ROCKWOOL Group](../companies/rockwool-group.md) | 1/2 | product, software-engineering |
 | [RRS Group](../companies/rrs-group.md) | 2/2 | software-engineering |
-| [RTX](../companies/rtx.md) | 30/74 | data-science, design, machine-learning, software-engineering |
+| [RTX](../companies/rtx.md) | 29/74 | data-science, design, machine-learning, software-engineering |
 | [Radix Trading](../companies/radix-trading.md) | 1/1 | quant |
 | [Rainmaker](../companies/rainmaker.md) | 0/1 | software-engineering |
 | [Rakuten International](../companies/rakuten-international.md) | 0/1 | software-engineering |

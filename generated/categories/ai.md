@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🤖 AI Internships
 
-**248** tracked · **165** open now
+**248** tracked · **164** open now
 
 ## Current openings
 
@@ -87,7 +87,6 @@
 | [Meta](generated/companies/meta.md) | [Research Scientist Intern - Monetization Generative AI - LLM](https://www.metacareers.com/jobs/2916726525182155) | Seattle, WA +3 | Onsite | 2026-03-05 | Rolling | 🟢 Open | ❔ |
 | [Meta](generated/companies/meta.md) | [Research Scientist Intern, LLM Evaluation](https://www.metacareers.com/profile/job_details/4203446973242742) | New York, NY | Onsite | 2025-12-11 | Rolling | 🟢 Open | ❌ |
 | [Micron Technology](generated/companies/micron-technology.md) | [Technical Customer Management Intern - AI](https://micron.wd1.myworkdayjobs.com/External/job/Longmont-MAX--Office-CO/Intern---Technical-Customer-Management--AI_JR109454) | Longmont, CO | Onsite | 2026-08-27 | Rolling | 🟢 Open | ❔ |
-| [Microsoft](generated/companies/microsoft.md) | [AI Software Engineer Intern](https://apply.careers.microsoft.com/careers/job/1970393556962891) | Redmond, WA +1 | Onsite | 2026-08-19 | Rolling | 🟢 Open | ❔ |
 | [Microsoft](generated/companies/microsoft.md) | [AI Software Engineer Intern - Edge](https://apply.careers.microsoft.com/careers/job/1970393556979054) | Redmond, WA +1 | Onsite | 2026-08-22 | Rolling | 🟢 Open | ❔ |
 | [Millennium](generated/companies/millennium.md) | [Applied AI Engineer Intern](https://career.mlp.com/careers/job/755957778821) | New York, NY | Onsite | 2026-08-21 | Rolling | 🟢 Open | ❔ |
 | [Millennium](generated/companies/millennium.md) | [Applied AI Engineer Intern](https://career.mlp.com/careers/job/755957778848) | Miami, FL | Onsite | 2026-08-21 | Rolling | 🟢 Open | ❔ |
@@ -219,6 +218,7 @@
 | [MaxLinear](generated/companies/maxlinear.md) | [AI Intern](https://careersus-maxlinear.icims.com/jobs/3049/job?mobile=true&needsRedirect=false) | Carlsbad, CA | Onsite | 2026-08-14 | Rolling | 🔴 Closed | ❔ |
 | [McKesson](generated/companies/mckesson.md) | [AI & Strategic Analytics Intern](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-ON-Mississauga/AI---Strategic-Analytics-Intern---Fall-2026_JR0150114) | Mississauga | Onsite | 2026-07-14 | Rolling | 🔴 Closed | ❔ |
 | [Meta](generated/companies/meta.md) | [Research Scientist Intern - Multimodal Contextual AI](https://www.metacareers.com/jobs/2160167211413098) | Redmond, WA | Onsite | 2026-05-15 | Rolling | 🔴 Closed | ❔ |
+| [Microsoft](generated/companies/microsoft.md) | [AI Software Engineer Intern](https://apply.careers.microsoft.com/careers/job/1970393556962891) | Redmond, WA +1 | Onsite | 2026-08-19 | Rolling | 🔴 Closed | ❔ |
 | [Mistral AI](generated/companies/mistral-ai.md) | [AI Data Solutions Intern - Data Partnerships](https://jobs.ashbyhq.com/mistral.ai/60fcc44d-4d96-469d-a96c-d6a9bbfe8edd/application?embed=true) | Palo Alto, CA | Onsite | 2026-07-24 | Rolling | 🔴 Closed | ❔ |
 | [North Cloud](generated/companies/north-cloud.md) | [AI Automation Intern](https://ats.rippling.com/north-cloud/jobs/9d9d6db9-2da0-45e2-a3d3-6373c61763a4) | Brooklyn, NY | Onsite | 2026-07-21 | Rolling | 🔴 Closed | ❔ |
 | [NXP Semiconductors](generated/companies/nxp-semiconductors.md) | [AI / Software Engineering Intern](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/AI---Software-Engineering-Intern---Fall-2026_R-10064807) | Austin, TX | Onsite | 2026-07-20 | Rolling | 🔴 Closed | ❔ |

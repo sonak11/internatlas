@@ -150,6 +150,7 @@ _Generated 2026-08-29_
 - Crowe — AI Functional Intern
 - Crowe — NetSuite Implementation Intern - Consulting Practice
 - Cubist Systematic Strategies — Quantitative Developer Intern
+- Dallas College — SAS Intern
 - DataRobot — Agentic AI Intern
 - Deepgram — Software Engineer Intern
 - Detroit Lions — Quantitative Research Intern
@@ -184,6 +185,7 @@ _Generated 2026-08-29_
 - Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
 - Goldman Sachs — Summer Analyst Intern - Americas - AWM Product Management
 - Goldman Sachs — Summer Analyst Intern - FICC and Equities - Sales and Trading
+- Google — Research Intern - PhD
 - Google — Software Developer Intern
 - Group 1001 — Quantitative Analysis Intern
 - Gulf Management — Software Engineer & Business Systems Intern
@@ -233,12 +235,14 @@ _Generated 2026-08-29_
 - Metropolitan Transportation Authority — Data Analyst Intern
 - Metropolitan Transportation Authority — Data Analyst Intern - Power - Emerging Talent
 - Micron Technology — Surface Scientist Intern - Corporate Labs
+- Microsoft — AI Software Engineer Intern
 - Mobius Renewables — Software Engineer Intern
 - Moog — Computer Science Intern - Information Technology
 - Moog — Hardware Engineer Intern
 - Moog — Product Engineering Intern
 - Multnomah County — Immunization & Community Health Intern - Prevention and Health Promotion
 - Multnomah County — Public Health Tobacco Control and Prevention Intern
+- National Laboratory of the Rockies — Agricultural Energy Intern - Year-Round
 - National Reconnaissance Office — Summer Internship - Dr. Chris Scolese
 - Nationwide Children's Hospital — IGM Research Intern - RI Miller
 - Naver U.Hub INC — Product Management Intern
@@ -296,6 +300,7 @@ _Generated 2026-08-29_
 - RTX — Chemistry Materials Engineer Intern
 - RTX — Digital Technology Intern
 - RTX — Electrical Engineering Intern
+- RTX — Engine Performance Intern
 - RTX — Manufacturing & Quality Analyst Intern
 - RTX — Methods Intern - Hot Section Engineering
 - RTX — Modeling, Simulation & Analysis Intern - Summer 2027
