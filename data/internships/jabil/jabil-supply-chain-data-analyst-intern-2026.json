@@ -1,20 +1,25 @@
 {
   "schema_version": "1.0",
-  "id": "altom-transport-software-development-intern-2026-69c2d0",
+  "id": "jabil-supply-chain-data-analyst-intern-2026",
   "company": {
-    "name": "Altom Transport",
-    "slug": "altom-transport"
+    "name": "Jabil",
+    "slug": "jabil"
   },
-  "role": "Software Development Intern",
+  "role": "Supply Chain Data Analyst Intern",
   "category": "software-engineering",
-  "apply_url": "https://apply.workable.com/altom-transport/j/8536165C7B/apply",
+  "apply_url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Supply-Chain-Data-Analyst-Intern_J2462080",
   "season": "fall",
   "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Markham",
-      "state": "IL",
+      "city": "Tampa",
+      "state": "FL",
+      "country": "USA"
+    },
+    {
+      "city": "St. Petersburg",
+      "state": "FL",
       "country": "USA"
     }
   ],
@@ -40,9 +45,9 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-06-03",
-    "discovered": "2026-07-17",
-    "last_verified": "2026-08-28"
+    "posted": "2026-08-28",
+    "discovered": "2026-08-29",
+    "last_verified": "2026-08-29"
   },
   "status": "open",
   "tags": [

@@ -1,0 +1,51 @@
+{
+  "schema_version": "1.0",
+  "id": "epic-games-web-engineer-intern-tools-portals-2026",
+  "company": {
+    "name": "Epic Games",
+    "slug": "epic-games"
+  },
+  "role": "Web Engineer Intern - Tools & Portals",
+  "category": "software-engineering",
+  "apply_url": "https://epicgames.com/careers/jobs/6163851004?gh_jid=6163851004",
+  "season": "fall",
+  "year": 2026,
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "London",
+      "country": "UK"
+    }
+  ],
+  "compensation": {
+    "currency": "USD",
+    "housing_stipend": false,
+    "relocation_assistance": false
+  },
+  "eligibility": {
+    "graduation_years": [],
+    "degree_levels": [],
+    "citizenship_required": false,
+    "security_clearance_required": false,
+    "visa_sponsorship": "unknown"
+  },
+  "interview": {},
+  "tech": {
+    "required_skills": [],
+    "preferred_skills": [],
+    "languages": [],
+    "frameworks": [],
+    "cloud_platforms": [],
+    "resume_keywords": []
+  },
+  "dates": {
+    "posted": "2026-08-29",
+    "discovered": "2026-08-29",
+    "last_verified": "2026-08-29"
+  },
+  "status": "open",
+  "tags": [
+    "auto-ingested",
+    "src:simplify"
+  ]
+}

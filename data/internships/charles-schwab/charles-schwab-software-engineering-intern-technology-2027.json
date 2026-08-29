@@ -1,40 +1,45 @@
 {
   "schema_version": "1.0",
-  "id": "salesforce-software-engineer-intern-futureforce-summer-2027-2027",
+  "id": "charles-schwab-software-engineering-intern-technology-2027",
   "company": {
-    "name": "Salesforce",
-    "slug": "salesforce"
+    "name": "Charles Schwab",
+    "slug": "charles-schwab"
   },
-  "role": "Software Engineer Intern(Futureforce Summer 2027)",
+  "role": "Software Engineering Intern - Technology",
   "category": "software-engineering",
-  "apply_url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer_JR340771-1",
+  "apply_url": "https://career-schwab.icims.com/jobs/126228/job?mobile=true&needsRedirect=false",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "San Francisco",
-      "state": "CA",
+      "city": "Austin",
+      "state": "TX",
       "country": "USA"
     },
     {
-      "city": "Palo Alto",
-      "state": "CA",
+      "city": "Westlake",
+      "state": "TX",
       "country": "USA"
     },
     {
-      "city": "New York",
-      "state": "NY",
+      "city": "Ann Arbor",
+      "state": "MI",
       "country": "USA"
     },
     {
-      "city": "Seattle",
-      "state": "WA",
+      "city": "Southlake",
+      "state": "TX",
       "country": "USA"
     },
     {
-      "city": "Burlington",
-      "state": "MA",
+      "city": "Omaha",
+      "state": "NE",
+      "country": "USA"
+    },
+    {
+      "city": "Phoenix",
+      "state": "AZ",
       "country": "USA"
     }
   ],
@@ -60,13 +65,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-05-09",
-    "discovered": "2026-07-17",
-    "last_verified": "2026-07-24"
+    "posted": "2026-08-29",
+    "discovered": "2026-08-29",
+    "last_verified": "2026-08-29"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
-    "src:vanshb03"
+    "src:simplify"
   ]
 }

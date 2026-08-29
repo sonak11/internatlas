@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0",
+  "id": "waymo-2027-summer-intern-ms-phd-quantitative-ux-researcher-growth-2027",
+  "company": {
+    "name": "Waymo",
+    "slug": "waymo",
+    "career_page": "https://waymo.com/careers"
+  },
+  "role": "2027 Summer Intern, MS/PhD, Quantitative UX Researcher, Growth/International Expansion",
+  "category": "quant",
+  "apply_url": "https://careers.withwaymo.com/jobs?gh_jid=8163364",
+  "season": "summer",
+  "year": 2027,
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "San Francisco",
+      "country": "USA"
+    }
+  ],
+  "compensation": {
+    "currency": "USD",
+    "housing_stipend": false,
+    "relocation_assistance": false
+  },
+  "eligibility": {
+    "graduation_years": [],
+    "degree_levels": [],
+    "citizenship_required": false,
+    "security_clearance_required": false,
+    "visa_sponsorship": "unknown"
+  },
+  "interview": {},
+  "tech": {
+    "required_skills": [],
+    "preferred_skills": [],
+    "languages": [],
+    "frameworks": [],
+    "cloud_platforms": [],
+    "resume_keywords": []
+  },
+  "dates": {
+    "posted": "2026-08-28",
+    "discovered": "2026-08-29",
+    "last_verified": "2026-08-29"
+  },
+  "status": "open",
+  "tags": [
+    "auto-ingested",
+    "src:ats"
+  ]
+}

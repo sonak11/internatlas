@@ -1,0 +1,56 @@
+{
+  "schema_version": "1.0",
+  "id": "northwood-space-supply-chain-data-analytics-intern-2027",
+  "company": {
+    "name": "Northwood Space",
+    "slug": "northwood-space"
+  },
+  "role": "Supply Chain Data & Analytics Intern",
+  "category": "software-engineering",
+  "apply_url": "https://jobs.ashbyhq.com/NorthwoodSpace/69f99cd7-3ce7-413a-8cfe-29b7ccbc1490/application?embed=true",
+  "season": "summer",
+  "year": 2027,
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "state": "LA",
+      "country": "USA"
+    },
+    {
+      "city": "Torrance",
+      "state": "CA",
+      "country": "USA"
+    }
+  ],
+  "compensation": {
+    "currency": "USD",
+    "housing_stipend": false,
+    "relocation_assistance": false
+  },
+  "eligibility": {
+    "graduation_years": [],
+    "degree_levels": [],
+    "citizenship_required": false,
+    "security_clearance_required": false,
+    "visa_sponsorship": "unknown"
+  },
+  "interview": {},
+  "tech": {
+    "required_skills": [],
+    "preferred_skills": [],
+    "languages": [],
+    "frameworks": [],
+    "cloud_platforms": [],
+    "resume_keywords": []
+  },
+  "dates": {
+    "posted": "2026-08-29",
+    "discovered": "2026-08-29",
+    "last_verified": "2026-08-29"
+  },
+  "status": "open",
+  "tags": [
+    "auto-ingested",
+    "src:simplify"
+  ]
+}

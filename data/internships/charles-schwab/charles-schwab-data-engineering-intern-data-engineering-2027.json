@@ -1,0 +1,62 @@
+{
+  "schema_version": "1.0",
+  "id": "charles-schwab-data-engineering-intern-data-engineering-2027",
+  "company": {
+    "name": "Charles Schwab",
+    "slug": "charles-schwab"
+  },
+  "role": "Data Engineering Intern - Data Engineering",
+  "category": "data-engineering",
+  "apply_url": "https://career-schwab.icims.com/jobs/126227/job?mobile=true&needsRedirect=false",
+  "season": "summer",
+  "year": 2027,
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "Austin",
+      "state": "TX",
+      "country": "USA"
+    },
+    {
+      "city": "Westlake",
+      "state": "TX",
+      "country": "USA"
+    },
+    {
+      "city": "Southlake",
+      "state": "TX",
+      "country": "USA"
+    }
+  ],
+  "compensation": {
+    "currency": "USD",
+    "housing_stipend": false,
+    "relocation_assistance": false
+  },
+  "eligibility": {
+    "graduation_years": [],
+    "degree_levels": [],
+    "citizenship_required": false,
+    "security_clearance_required": false,
+    "visa_sponsorship": "unknown"
+  },
+  "interview": {},
+  "tech": {
+    "required_skills": [],
+    "preferred_skills": [],
+    "languages": [],
+    "frameworks": [],
+    "cloud_platforms": [],
+    "resume_keywords": []
+  },
+  "dates": {
+    "posted": "2026-08-29",
+    "discovered": "2026-08-29",
+    "last_verified": "2026-08-29"
+  },
+  "status": "open",
+  "tags": [
+    "auto-ingested",
+    "src:simplify"
+  ]
+}

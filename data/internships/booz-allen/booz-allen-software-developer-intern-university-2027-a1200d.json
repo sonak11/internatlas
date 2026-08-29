@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "stripe-software-engineer-intern-2027-5c3f60",
+  "id": "booz-allen-software-developer-intern-university-2027-a1200d",
   "company": {
-    "name": "Stripe",
-    "slug": "stripe",
-    "career_page": "https://stripe.com/jobs/university"
+    "name": "Booz Allen",
+    "slug": "booz-allen"
   },
-  "role": "Software Engineer, Intern",
+  "role": "Software Developer Intern - University",
   "category": "software-engineering",
-  "apply_url": "https://stripe.com/jobs/search?gh_jid=8097801",
+  "apply_url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Charleston-SC/University---2027-Summer-Games-Software-Developer-Intern_R0248134",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Dublin",
+      "city": "Charleston",
+      "state": "SC",
       "country": "USA"
     }
   ],
@@ -40,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-17",
-    "discovered": "2026-08-18",
-    "last_verified": "2026-08-28"
+    "posted": "2026-08-28",
+    "discovered": "2026-08-29",
+    "last_verified": "2026-08-29"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:ats"
+    "src:simplify"
   ]
 }
