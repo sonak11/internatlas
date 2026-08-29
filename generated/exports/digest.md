@@ -1,6 +1,6 @@
 # 📬 InternAtlas Weekly Digest — 2026-08-29
 
-## 🆕 New this week (427)
+## 🆕 New this week (429)
 
 - **AMD** — [ASIC Package Engineer Intern Co-op](https://careers.amd.com/jobs/91469?icims=1) · hardware · —
 - **AMD** — [ASIC Package Engineering Co-op/Intern](https://careers.amd.com/jobs/91463?icims=1) · hardware · —
@@ -258,7 +258,9 @@
 - **North Atlantic Industries** — [Full Stack Software Engineer Intern](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4450017) · software-engineering · —
 - **North Atlantic Industries** — [Software Engineer Intern](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4450421) · software-engineering · —
 - **Northrop Grumman** — [Software Engineer Intern - Strategic Deterrent Systems Division - Sentinel](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Software-Engineering-Intern--Huntsville-AL_R10247486) · software-engineering · —
+- **Northwood Space** — [Embedded Software Engineer Intern](https://jobs.ashbyhq.com/NorthwoodSpace/d0cca9dd-ea90-4c3b-94b4-17761932d11c/application?embed=true) · embedded · —
 - **Northwood Space** — [RF Engineer Intern - Summer Internship](https://jobs.ashbyhq.com/NorthwoodSpace/f086c92a-7e4b-4799-8f2a-2ad8b13111ca/application?embed=true) · software-engineering · —
+- **Northwood Space** — [Software Engineer Intern - Multiple Teams](https://jobs.ashbyhq.com/NorthwoodSpace/ce3d4b73-461e-4128-a6f1-f933897e8119/application?embed=true) · software-engineering · —
 - **Northwood Space** — [Supply Chain Data & Analytics Intern](https://jobs.ashbyhq.com/NorthwoodSpace/69f99cd7-3ce7-413a-8cfe-29b7ccbc1490/application?embed=true) · software-engineering · —
 - **Ontario Teachers' Pension Plan** — [Total Fund Risk Intern - Months](https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers/job/Toronto-Canada/Intern---Total-Risk-Fund--May-2027---12-months-_7212) · software-engineering · —
 - **Parsons** — [Software Intern - Summer 2027](https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---CO-Denver/Software-Intern--Summer-2027-_R185388) · software-engineering · —

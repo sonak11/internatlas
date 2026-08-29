@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 📊 Data Science Internships
 
-**67** tracked · **56** open now
+**67** tracked · **55** open now
 
 ## Current openings
 
@@ -61,7 +61,6 @@
 | [TikTok](generated/companies/tiktok.md) | [Data Science Intern - TikTok Product](https://lifeattiktok.com/search/7669683639101884725) | San Jose, CA | Onsite | 2026-08-05 | Rolling | 🟢 Open | ❔ |
 | [TikTok](generated/companies/tiktok.md) | [Data Scientist Intern - VOD Data](https://lifeattiktok.com/search/7670287013157095733) | San Jose, CA | Onsite | 2026-08-05 | Rolling | 🟢 Open | ❔ |
 | [U.S. Venture](generated/companies/u-s-venture.md) | [Data Science Intern - Breakthrough](https://usventure.wd1.myworkdayjobs.com/usvexternal/job/WI---Green-Bay/Data-Science-Intern---Breakthrough_R8528-1) | Green Bay, WI +1 | Onsite | 2026-08-27 | Rolling | 🟢 Open | ❔ |
-| [Vanguard](generated/companies/vanguard.md) | [Data Science Intern - College to Corporate IT](https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Charlotte-NC/College-to-Corporate-IT-Internship---Data-Science--NC-_181765) | Charlotte, NC | Onsite | 2026-08-20 | Rolling | 🟢 Open | ❔ |
 | [Vanguard](generated/companies/vanguard.md) | [Data Science Intern - Information Technology](https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship---Data-Science--PA-_181766) | Malvern, PA | Onsite | 2026-08-20 | Rolling | 🟢 Open | ❔ |
 | [WhiteWater Midstream](generated/companies/whitewater-midstream.md) | [Data Science Intern - Summer 2027](https://job-boards.greenhouse.io/whitewatermidstream/jobs/5217853007) | Austin, TX | Onsite | 2026-08-26 | Rolling | 🟢 Open | ❔ |
 | [Arevon](generated/companies/arevon.md) | [Data Science Intern - Interconnection & Transmission](https://job-boards.greenhouse.io/arevonenergyimpltest/jobs/5211455007) | Scottsdale, AZ | Onsite | 2026-08-14 | Rolling | 🔴 Closed | ❔ |
@@ -74,6 +73,7 @@
 | [National Laboratory of the Rockies](generated/companies/national-laboratory-of-the-rockies.md) | [Graduate Geospatial Data Science Intern](https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Graduate--Year-Round--Intern--Geospatial-Data-Science-Modeling-and-Analysis_R14338) | Golden, CO | Onsite | 2026-07-04 | Rolling | 🔴 Closed | ❔ |
 | [Nokia](generated/companies/nokia.md) | [Data Science Co-op/Intern](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34327) | Ottawa | Onsite | 2026-04-14 | Rolling | 🔴 Closed | ❔ |
 | [SOTI](generated/companies/soti.md) | [Data Scientist Intern](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Data-Scientist--Intern--September-2026-12-Months-_R10065) | Mississauga | Onsite | 2026-05-12 | Rolling | 🔴 Closed | ❔ |
+| [Vanguard](generated/companies/vanguard.md) | [Data Science Intern - College to Corporate IT](https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Charlotte-NC/College-to-Corporate-IT-Internship---Data-Science--NC-_181765) | Charlotte, NC | Onsite | 2026-08-20 | Rolling | 🔴 Closed | ❔ |
 | [Walleye Capital](generated/companies/walleye-capital.md) | [Investment Data Science Intern](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4676587006) | New York, NY | Onsite | 2026-07-24 | Rolling | 🔴 Closed | ❔ |
 
 ## Hiring companies
