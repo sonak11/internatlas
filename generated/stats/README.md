@@ -33,12 +33,12 @@ _Generated 2026-08-29_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 1471 | `██████████████` |
+| software-engineering | 1475 | `██████████████` |
 | ai | 248 | `██` |
-| quant | 214 | `██` |
+| quant | 213 | `██` |
 | machine-learning | 153 | `█` |
 | research | 113 | `█` |
-| hardware | 111 | `█` |
+| hardware | 112 | `█` |
 | product | 78 | `█` |
 | embedded | 68 | `█` |
 | data-science | 67 | `█` |
@@ -61,6 +61,7 @@ _Generated 2026-08-29_
 - 2026-08-29 — **Northwood Space**: [Supply Chain Data & Analytics Intern](https://jobs.ashbyhq.com/NorthwoodSpace/69f99cd7-3ce7-413a-8cfe-29b7ccbc1490/application?embed=true)
 - 2026-08-29 — **Persona AI**: [Robotics Software Intern - Manipulation](https://jobs.ashbyhq.com/persona.ai/1e8d195c-e28e-423d-a06a-9eeb401ed4fc/application?embed=true)
 - 2026-08-29 — **Schweitzer Engineering Laboratories**: [Engineering Intern - Protection Systems Forensics](https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Engineering-Intern_2025-18137)
+- 2026-08-29 — **Thea Energy**: [Physics Intern](https://jobs.lever.co/thea.energy/a2396f89-49c9-4ff4-adc5-37b91e227df5/apply)
 - 2026-08-28 — **Analog Devices**: [AI/ML Engineer Intern](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/AI-ML-Engineer-Intern_R265579)
 - 2026-08-28 — **Anheuser-Busch**: [Technology Intern](https://abinbev.wd1.myworkdayjobs.com/en-US/USA/job/St-Louis-Missouri/Technology-Internship_30102525)
 - 2026-08-28 — **Blockhouse**: [Applied AI Engineer Intern](https://jobs.ashbyhq.com/blockhouse/2e9fbde8-709c-4c1f-b908-cd51a53c8529/application?embed=true)
@@ -68,7 +69,6 @@ _Generated 2026-08-29_
 - 2026-08-28 — **Booz Allen**: [Data Scientist Intern - Summer Games](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Rome-NY/University--2027-Summer-Games-Data-Scientist-Intern_R0248143)
 - 2026-08-28 — **Booz Allen**: [Data Scientist Intern - Summer Games](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Colorado-Springs-CO/University--2027-Summer-Games-Data-Scientist-Intern_R0248132)
 - 2026-08-28 — **Booz Allen**: [Data Scientist Intern - University](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Charleston-SC/University---2027-Summer-Games-Data-Scientist-Intern_R0248137)
-- 2026-08-28 — **Booz Allen**: [Data Scientist Intern - University](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Atlanta-GA/University--2027-Summer-Games-Data-Scientist-Intern_R0248140)
 
 ## Recently closed
 
@@ -180,11 +180,12 @@ _Generated 2026-08-29_
 - General Motors — Battery & Sustainability Intern - Physics-Based Battery Modeling
 - Global Partners — Advanced Analytics Intern
 - GoDaddy — Software Development Engineer Intern
-- Goldman Sachs — AWM Product Management Analyst Intern
-- Goldman Sachs — Quantitative Strategist Associate Intern - Asset and Wealth Management
-- Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
-- Goldman Sachs — Summer Analyst Intern - Americas - AWM Product Management
-- Goldman Sachs — Summer Analyst Intern - FICC and Equities - Sales and Trading
+- Goldman Sachs — Associate Intern - The Core Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
+- Goldman Sachs — Summer Analyst Intern - FICC & Equities - Sales & Trading
+- Goldman Sachs — Summer Analyst Intern - Wealth Management - Product Management and Design
+- Goldman Sachs — Summer Associate Intern - Multiple Teams
 - Google — Research Intern - PhD
 - Google — Software Developer Intern
 - Group 1001 — Quantitative Analysis Intern
@@ -276,7 +277,6 @@ _Generated 2026-08-29_
 - Quantbot Technologies — Machine Learning Research Engineer Intern
 - Quantbot Technologies — Quantitative Developer Intern
 - Readystate Asset Management — Investment Intern - Summer 2027 & 2028
-- Realm — Software Engineer Intern
 - Redwood Materials — Embedded Software Engineer Intern
 - RenderATL — Software Engineer Intern
 - Renesas Electronics — Digital Design Engineer Intern
