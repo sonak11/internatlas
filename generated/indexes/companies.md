@@ -327,7 +327,7 @@
 | [GlossGenius](../companies/glossgenius.md) | 2/2 | software-engineering |
 | [GoDaddy](../companies/godaddy.md) | 0/1 | software-engineering |
 | [Golden Pet Brands](../companies/golden-pet-brands.md) | 0/1 | software-engineering |
-| [Goldman Sachs](../companies/goldman-sachs.md) | 6/12 | product, quant, software-engineering |
+| [Goldman Sachs](../companies/goldman-sachs.md) | 7/12 | product, quant, software-engineering |
 | [Google](../companies/google.md) | 3/9 | data-science, research, software-engineering |
 | [Grant Thornton](../companies/grant-thornton.md) | 3/3 | ai, software-engineering |
 | [GrayMatter Robotics](../companies/graymatter-robotics.md) | 1/1 | ai |
