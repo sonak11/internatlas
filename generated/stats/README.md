@@ -9,7 +9,7 @@ _Generated 2026-08-30_
 | Company | Listings |
 |---|---|
 | TikTok | 150 |
-| Tesla | 123 |
+| Tesla | 124 |
 | RTX | 74 |
 | ByteDance | 54 |
 | Jump Trading | 47 |
@@ -33,7 +33,7 @@ _Generated 2026-08-30_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 1474 | `██████████████` |
+| software-engineering | 1475 | `██████████████` |
 | ai | 248 | `██` |
 | quant | 213 | `██` |
 | machine-learning | 153 | `█` |
@@ -372,6 +372,7 @@ _Generated 2026-08-30_
 - The Home Depot — Co-op Intern
 - The Hub Project — Polling and Outreach Intern
 - The Nuclear Company — AI Software Engineer Intern
+- The Walt Disney Company — Geographic Information Systems Intern - GIS
 - The Walt Disney Company — Systems Software Engineer Intern
 - The Walt Disney Company — Systems Software Engineer Intern
 - TikTok — Product Manager Intern - TikTok Product Content Ecosystem
