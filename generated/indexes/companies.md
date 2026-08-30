@@ -327,7 +327,7 @@
 | [GlossGenius](../companies/glossgenius.md) | 2/2 | software-engineering |
 | [GoDaddy](../companies/godaddy.md) | 0/1 | software-engineering |
 | [Golden Pet Brands](../companies/golden-pet-brands.md) | 0/1 | software-engineering |
-| [Goldman Sachs](../companies/goldman-sachs.md) | 7/12 | product, quant, software-engineering |
+| [Goldman Sachs](../companies/goldman-sachs.md) | 3/12 | product, quant, software-engineering |
 | [Google](../companies/google.md) | 3/9 | data-science, research, software-engineering |
 | [Grant Thornton](../companies/grant-thornton.md) | 3/3 | ai, software-engineering |
 | [GrayMatter Robotics](../companies/graymatter-robotics.md) | 1/1 | ai |
@@ -421,7 +421,7 @@
 | [Kodiak Robotics](../companies/kodiak-robotics.md) | 4/5 | machine-learning, software-engineering |
 | [Kognitos](../companies/kognitos.md) | 1/1 | software-engineering |
 | [Kudu Dynamics](../companies/kudu-dynamics.md) | 0/3 | software-engineering |
-| [L3Harris Technologies](../companies/l3harris-technologies.md) | 34/36 | ai, security, software-engineering |
+| [L3Harris Technologies](../companies/l3harris-technologies.md) | 33/36 | ai, security, software-engineering |
 | [LPL Financial Holdings](../companies/lpl-financial-holdings.md) | 5/6 | data-engineering, software-engineering |
 | [Lawrence Livermore National Laboratory (LLNL)](../companies/lawrence-livermore-national-laboratory-llnl.md) | 2/5 | software-engineering |
 | [Leidos](../companies/leidos.md) | 4/6 | ai, data-engineering, data-science, software-engineering |
