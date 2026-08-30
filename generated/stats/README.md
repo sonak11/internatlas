@@ -19,7 +19,7 @@ _Generated 2026-08-30_
 | Royal Bank of Canada | 32 |
 | American Express | 30 |
 | NVIDIA | 30 |
-| The Walt Disney Company | 30 |
+| The Walt Disney Company | 29 |
 | IMC Trading | 26 |
 | SpaceX | 25 |
 | Neuralink | 22 |
@@ -33,7 +33,7 @@ _Generated 2026-08-30_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 1475 | `██████████████` |
+| software-engineering | 1474 | `██████████████` |
 | ai | 248 | `██` |
 | quant | 213 | `██` |
 | machine-learning | 153 | `█` |
@@ -180,12 +180,15 @@ _Generated 2026-08-30_
 - GoDaddy — Software Development Engineer Intern
 - Goldman Sachs — Associate Intern - The Core Quantitative Strats
 - Goldman Sachs — AWM Product Management Analyst Intern
+- Goldman Sachs — Quantitative Strategist Associate Intern - Asset and Wealth Management
 - Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
 - Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
 - Goldman Sachs — Summer Analyst Intern - Americas - AWM Product Management
 - Goldman Sachs — Summer Analyst Intern - FICC and Equities - Sales and Trading
 - Goldman Sachs — Summer Analyst Intern - FICC & Equities - Sales & Trading
 - Goldman Sachs — Summer Analyst Intern - Wealth Management - Product Management and Design
+- Goldman Sachs — Summer Associate Intern
 - Goldman Sachs — Summer Associate Intern - Multiple Teams
 - Google — Research Intern - PhD
 - Google — Software Developer Intern
@@ -218,6 +221,9 @@ _Generated 2026-08-30_
 - Kodiak Robotics — Controls Intern
 - L3Harris Technologies — Configuration Management Intern
 - L3Harris Technologies — Integration/Test Engineering Intern
+- L3Harris Technologies — Software Engineer Intern
+- L3Harris Technologies — Software Engineer Intern
+- L3Harris Technologies — Software Engineer Intern
 - L3Harris Technologies — Software Engineering Intern
 - Lawrence Livermore National Laboratory (LLNL) — Computing Graduate Student Intern
 - Lawrence Livermore National Laboratory (LLNL) — Computing Undergraduate Student Intern
