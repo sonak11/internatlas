@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 📊 Statistics
 
-_Generated 2026-08-29_
+_Generated 2026-08-30_
 
 ## Top hiring companies
 
@@ -146,7 +146,6 @@ _Generated 2026-08-29_
 - Commence — Health Data Analyst Intern
 - Concentric — AI Workflow Intern - AI Workflow Optimization
 - Conduent — Applied AI Engineer Intern - Government Healthcare Solutions
-- Cotiviti — Agentic AI Research Intern
 - Crowe — AI Functional Intern
 - Crowe — NetSuite Implementation Intern - Consulting Practice
 - Cubist Systematic Strategies — Quantitative Developer Intern
@@ -163,7 +162,6 @@ _Generated 2026-08-29_
 - Fab2 — Rust Software Engineer Intern - Chip Design Tools
 - Field AI — Robotics Controls Intern - Robot Control Systems
 - Figure — Special Projects Intern
-- First American — Software Engineer Intern
 - Flexion Robotics — Research Intern
 - Fluency — Engineer Intern
 - Foxconn Industrial Internet — Data Visualization & Analytics Intern - Engineering
@@ -236,7 +234,6 @@ _Generated 2026-08-29_
 - Metropolitan Transportation Authority — Data Analyst Intern - Power - Emerging Talent
 - Micron Technology — Surface Scientist Intern - Corporate Labs
 - Microsoft — AI Software Engineer Intern
-- Mobius Renewables — Software Engineer Intern
 - Moog — Computer Science Intern - Information Technology
 - Moog — Hardware Engineer Intern
 - Moog — Product Engineering Intern
@@ -294,7 +291,6 @@ _Generated 2026-08-29_
 - Rivian and Volkswagen Group Technologies — Software Engineer Intern - Connected Systems
 - Rivian and Volkswagen Group Technologies — Software Engineer Intern - Embedded Platforms
 - Rivian and Volkswagen Group Technologies — Software Engineer Intern - Vehicle Controls
-- RLI — Product Management Intern
 - Royal Bank of Canada — Data Engineer Intern - Chief Data Office
 - RTX — Chemistry Materials Engineer Intern
 - RTX — Digital Technology Intern
@@ -328,15 +324,11 @@ _Generated 2026-08-29_
 - RTX — Software Engineer Intern - Summer 2027
 - RTX — Software Engineer Intern - Summer 2027
 - RTX — Software Engineer Intern - Summer 2027
-- RTX — Software Engineer Intern - Summer 2027
-- RTX — Software Engineer Intern - Summer 2027
 - RTX — Software Engineering Intern - Summer 2027
 - RTX — Systems Engineering Intern
 - RTX — Systems Technology Intern
-- RTX — Validation Engineer Intern - Product Safety - Certification & Validation
 - Scale AI — AI Builder Intern
 - Scale AI — Technical Advisor Specialist (Part-Time Internship)
-- Schweitzer Engineering Laboratories — Test Engineer Intern
 - Sentry — Software Engineer Intern - Summer 2027
 - Smiths Detection Group — Commercial Intern - Commercial Tools & Business Intelligence
 - Snorkel AI — AI Researcher Intern
@@ -377,7 +369,6 @@ _Generated 2026-08-29_
 - Toshiba Global Commerce — AI Software Engineer Intern
 - Toshiba Global Commerce — Hardware Engineer Intern
 - Trillium — Software Engineer Intern - Summer 2027
-- Truist Bank — Technology and Operations Intern Conversion - Data
 - Truist Bank — Technology and Operations Intern - Data
 - Two Six Technologies — SkillBridge Fellow Intern - Multiple Teams
 - Uline — Business Intelligence Developer Intern
