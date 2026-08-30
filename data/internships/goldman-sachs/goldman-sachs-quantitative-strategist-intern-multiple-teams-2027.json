@@ -7,14 +7,14 @@
   },
   "role": "Quantitative Strategist Intern - Multiple Teams",
   "category": "quant",
-  "apply_url": "https://higher.gs.com/roles/175424?type=students",
+  "apply_url": "https://higher.gs.com/roles/171563?type=students",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "London",
-      "country": "UK"
+      "city": "NYC",
+      "country": "USA"
     }
   ],
   "compensation": {
@@ -43,7 +43,7 @@
     "discovered": "2026-08-15",
     "last_verified": "2026-08-30"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

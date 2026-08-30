@@ -1,19 +1,25 @@
 {
   "schema_version": "1.0",
-  "id": "goldman-sachs-quantitative-strategist-associate-intern-the-core-quantitati-2027",
+  "id": "ge-vernova-product-management-intern-controls-lifecare-services-2027",
   "company": {
-    "name": "Goldman Sachs",
-    "slug": "goldman-sachs"
+    "name": "GE Vernova",
+    "slug": "ge-vernova"
   },
-  "role": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
-  "category": "quant",
-  "apply_url": "https://higher.gs.com/roles/171535?type=students",
+  "role": "Product Management Intern - Controls Lifecare Services",
+  "category": "product",
+  "apply_url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Longmont/Product-Management-Intern---Controls-Lifecare-Services_R5050801-1",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "NYC",
+      "city": "Longmont",
+      "state": "CO",
+      "country": "USA"
+    },
+    {
+      "city": "Greenville",
+      "state": "SC",
       "country": "USA"
     }
   ],
@@ -25,7 +31,7 @@
   "eligibility": {
     "graduation_years": [],
     "degree_levels": [
-      "phd"
+      "masters"
     ],
     "citizenship_required": false,
     "security_clearance_required": false,
@@ -41,8 +47,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-15",
-    "discovered": "2026-08-15",
+    "posted": "2026-08-30",
+    "discovered": "2026-08-30",
     "last_verified": "2026-08-30"
   },
   "status": "open",

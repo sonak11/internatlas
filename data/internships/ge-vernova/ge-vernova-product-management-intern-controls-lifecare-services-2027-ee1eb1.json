@@ -1,20 +1,25 @@
 {
   "schema_version": "1.0",
-  "id": "canva-phd-research-scientist-intern-2026-1bb10f",
+  "id": "ge-vernova-product-management-intern-controls-lifecare-services-2027-ee1eb1",
   "company": {
-    "name": "Canva",
-    "slug": "canva"
+    "name": "GE Vernova",
+    "slug": "ge-vernova"
   },
-  "role": "PhD Research Scientist Intern",
-  "category": "research",
-  "apply_url": "https://jobs.smartrecruiters.com/Canva/6000000001291655-phd-research-scientist-intern",
-  "season": "fall",
-  "year": 2026,
+  "role": "Product Management Intern - Controls Lifecare Services",
+  "category": "product",
+  "apply_url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Longmont/Product-Management-Intern---Controls-Lifecare-Services_R5050801-2",
+  "season": "summer",
+  "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "San Francisco",
-      "state": "CA",
+      "city": "Longmont",
+      "state": "CO",
+      "country": "USA"
+    },
+    {
+      "city": "Greenville",
+      "state": "SC",
       "country": "USA"
     }
   ],
@@ -25,7 +30,9 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "masters"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -40,13 +47,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-06",
-    "discovered": "2026-08-28",
+    "posted": "2026-08-30",
+    "discovered": "2026-08-30",
     "last_verified": "2026-08-30"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:vanshb03"
+    "src:simplify"
   ]
 }
