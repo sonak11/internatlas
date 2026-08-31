@@ -1,0 +1,13 @@
+<!-- ⚠️ AUTO-GENERATED FILE — do not edit by hand.
+     Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
+# Astrion
+
+## Current openings
+
+| Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
+|---|---|---|---|---|---|---|---|
+| Astrion | [Data Analyst Intern](https://careers.astrion.us/jobs/24801?icims=1) | Cape Canaveral, FL | Onsite | 2026-08-31 | Rolling | 🟢 Open | ❔ |
+
+## Related
+
+Browse more roles in: [💻 Software Engineering](../categories/software-engineering.md)

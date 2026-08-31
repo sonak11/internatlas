@@ -1,0 +1,54 @@
+{
+  "schema_version": "1.0",
+  "id": "robert-bosch-venture-capital-calibration-process-data-science-intern-8-months-40-hours-pe-2027",
+  "company": {
+    "name": "Robert Bosch Venture Capital",
+    "slug": "robert-bosch-venture-capital"
+  },
+  "role": "Calibration Process Data Science Intern - 8 months/40 hours per week",
+  "category": "data-science",
+  "apply_url": "https://jobs.smartrecruiters.com/BoschGroup/744000146524429",
+  "season": "winter",
+  "year": 2027,
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "Farmington Hills",
+      "state": "MI",
+      "country": "USA"
+    }
+  ],
+  "compensation": {
+    "currency": "USD",
+    "housing_stipend": false,
+    "relocation_assistance": false
+  },
+  "eligibility": {
+    "graduation_years": [],
+    "degree_levels": [
+      "masters"
+    ],
+    "citizenship_required": false,
+    "security_clearance_required": false,
+    "visa_sponsorship": "unknown"
+  },
+  "interview": {},
+  "tech": {
+    "required_skills": [],
+    "preferred_skills": [],
+    "languages": [],
+    "frameworks": [],
+    "cloud_platforms": [],
+    "resume_keywords": []
+  },
+  "dates": {
+    "posted": "2026-08-31",
+    "discovered": "2026-08-31",
+    "last_verified": "2026-08-31"
+  },
+  "status": "open",
+  "tags": [
+    "auto-ingested",
+    "src:simplify"
+  ]
+}

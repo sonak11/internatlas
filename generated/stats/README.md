@@ -9,15 +9,15 @@ _Generated 2026-08-31_
 | Company | Listings |
 |---|---|
 | TikTok | 152 |
-| Tesla | 124 |
+| Tesla | 125 |
 | RTX | 74 |
 | ByteDance | 54 |
 | Jump Trading | 47 |
+| Royal Bank of Canada | 37 |
 | L3Harris Technologies | 35 |
 | Qorvo | 35 |
 | Cloudflare | 34 |
 | American Express | 33 |
-| Royal Bank of Canada | 33 |
 | AMD | 32 |
 | NVIDIA | 30 |
 | IMC Trading | 26 |
@@ -33,16 +33,16 @@ _Generated 2026-08-31_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 1515 | `██████████████` |
-| ai | 250 | `██` |
-| quant | 218 | `██` |
+| software-engineering | 1549 | `██████████████` |
+| ai | 256 | `██` |
+| quant | 222 | `██` |
 | machine-learning | 155 | `█` |
 | research | 115 | `█` |
-| hardware | 112 | `█` |
-| product | 84 | `█` |
+| hardware | 113 | `█` |
+| product | 91 | `█` |
+| data-science | 75 | `█` |
 | embedded | 69 | `█` |
-| data-science | 67 | `█` |
-| design | 54 | `█` |
+| design | 55 | `█` |
 | cloud | 45 | `█` |
 | data-engineering | 33 | `█` |
 | security | 18 | `█` |
@@ -52,23 +52,23 @@ _Generated 2026-08-31_
 - 2026-08-31 — **American Express**: [Product Development Intern - Global Commercial Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013091)
 - 2026-08-31 — **American Express**: [Product Development Intern - Global Commercial Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012890)
 - 2026-08-31 — **American Express**: [Product Management Intern - Global Commercial Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012558)
+- 2026-08-31 — **Astrion**: [Data Analyst Intern](https://careers.astrion.us/jobs/24801?icims=1)
+- 2026-08-31 — **Blackhawk Network Holdings**: [Product Management Intern](https://careers-blackhawknetwork.icims.com/jobs/26869/job?mobile=true&needsRedirect=false)
+- 2026-08-31 — **Blackhawk Network Holdings**: [Product Management Intern](https://careers-blackhawknetwork.icims.com/jobs/26868/job?mobile=true&needsRedirect=false)
+- 2026-08-31 — **Blackhawk Network Holdings**: [Technology Intern](https://careers-blackhawknetwork.icims.com/jobs/26867/job?mobile=true&needsRedirect=false)
+- 2026-08-31 — **Bosch Home Comfort**: [Calibration Process Optimization Intern](https://jobs.smartrecruiters.com/BoschGroup/744000146526409)
+- 2026-08-31 — **Bosch Home Comfort**: [Software Engineer Intern - 8 months/40hrs per week](https://jobs.smartrecruiters.com/BoschGroup/744000146524909)
 - 2026-08-31 — **BP**: [Commercial Intern - Supply, Trading, & Shipping](https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers/job/United-States-of-America---Illinois---Chicago/Summer-Internship---Supply--Trading----Shipping---Commercial---Chicago--IL_RQ115344)
+- 2026-08-31 — **BP**: [Finance & Risk Intern - Supply, Trading, & Shipping](https://bpinternational.wd3.myworkdayjobs.com/bpPrivateExternalCareersSite/job/United-States-of-America---Illinois---Chicago/Summer-Internship---Supply--Trading----Shipping-Finance---Risk---Chicago--IL_RQ115370)
+- 2026-08-31 — **BP**: [Finance & Risk Intern - Supply, Trading, & Shipping](https://bpinternational.wd3.myworkdayjobs.com/bpPrivateExternalCareersSite/job/United-States-of-America---Texas---Houston/Summer-Internship---Supply--Trading----Shipping-Finance---Risk---Houston--TX_RQ115372)
+- 2026-08-31 — **BP**: [Finance & Risk Intern - Supply, Trading, & Shipping](https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers/job/United-States-of-America---Texas---Houston/Summer-Internship---Supply--Trading----Shipping-Finance---Risk---Houston--TX_RQ115372-1)
+- 2026-08-31 — **BP**: [Finance & Risk Intern - Supply, Trading, & Shipping](https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers/job/United-States-of-America---Illinois---Chicago/Summer-Internship---Supply--Trading----Shipping-Finance---Risk---Chicago--IL_RQ115370-1)
 - 2026-08-31 — **BP**: [Finance & Risk Intern - Supply, Trading, & Shipping - Finance & Risk](https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers/job/United-States-of-America---Illinois---Chicago/Summer-Intern---Supply--Trading----Shipping-Finance---Risk---Chicago--IL_RQ114738)
 - 2026-08-31 — **BP**: [Summer Intern](https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers/job/United-States-of-America---Texas---Houston/Summer-Intern---Supply--Trading----Shipping-Finance---Risk---Houston--TX_RQ112380-1)
 - 2026-08-31 — **BP**: [Supply, Trading, & Shipping Intern](https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers/job/Canada---Calgary/Summer-Internship---Supply--Trading----Shipping---Calgary_RQ115340)
 - 2026-08-31 — **BP**: [Trading, Origination, Analytics, and Operations Intern - Supply, Trading, & Shipping - Trading, Origination, Analytics, & Operations](https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers/job/United-States-of-America---Texas---Houston/Summer-Internship---Supply--Trading----Shipping---Trading--Origination----Analytics--Houston--TX_RQ115366)
-- 2026-08-31 — **Framatome**: [Computer Science Engineer Intern Co-op - University Co-op Technical](https://careers-framatome.icims.com/jobs/3294/job?mobile=true&needsRedirect=false)
-- 2026-08-31 — **GE Aerospace**: [Applied AI Intern](https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Evendale/Applied-AI-Engineer-Intern---Summer-2027--May-June-Start-_R5039302-1)
-- 2026-08-31 — **Intelcom \| Dragonfly**: [AI Data Analyst Intern](https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/AI-Data-Analyst-Intern_JR111568)
-- 2026-08-31 — **Intelcom \| Dragonfly**: [Business Intelligence Developer Intern - BI](https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Business-Intelligence--BI--Developer-Intern_JR111555)
-- 2026-08-31 — **Intelcom \| Dragonfly**: [Data Engineer Intern](https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Data-Engineering-Intern_JR111567)
-- 2026-08-31 — **Intelcom \| Dragonfly**: [Front-end Developer Intern - Mobile Application](https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Front-end-Developer-Intern---Mobile-Application_JR111571)
-- 2026-08-31 — **Intelcom \| Dragonfly**: [Full-Stack Developer Intern - Route Optimization](https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Full-Stack-Developer-Intern---Route-Optimization_JR111570-1)
-- 2026-08-31 — **Intelcom \| Dragonfly**: [R&D Solution Builder Intern](https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/R-D-Solution-Builder-Intern_JR111563)
-- 2026-08-31 — **Intelcom \| Dragonfly**: [Routing Data Analytics & Optimization Intern](https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Routing-Data-Analytics---Optimization-Intern_JR111557-1)
-- 2026-08-31 — **PGIM**: [Product and Institutional Client Intern - Multiple Teams](https://pru.wd5.myworkdayjobs.com/pgim_careers/job/Newark-NJ-USA/PGIM--2027-Product-and-Institutional-Client--Internship-Program_R-124910-2)
-- 2026-08-31 — **PIMCO**: [Product Analyst Intern](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/London-GBR/XMLNAME-2027-Summer-Intern---Product-Analyst--EMEA_R106780)
-- 2026-08-31 — **PIMCO**: [Software Engineering Intern - Technology Analyst](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/London-GBR/XMLNAME-2027-Summer-Intern---Technology-Analyst--Software-Engineering--EMEA_R106800)
+- 2026-08-31 — **C3.ai**: [Data Scientist Intern - Summer 2027](https://c3.ai/job-description/8738918002?gh_jid=8738918002)
+- 2026-08-31 — **C3.ai**: [Software Engineer Intern](https://c3.ai/job-description/8739037002?gh_jid=8739037002)
 
 ## Recently closed
 
@@ -79,6 +79,7 @@ _Generated 2026-08-31_
 - Altera Corporation — Embedded Solutions Intern
 - Altom Transport — Software Development Intern
 - Altom Transport — Software Development Intern
+- Amazon — Software Development Engineer Internship - Fall 2026 - US
 - Amentum — Spaceflight Hardware Intern
 - Ameren — Crisis Management Meteorology Intern
 - American Enterprise Institute — Housing Center Intern
@@ -91,12 +92,14 @@ _Generated 2026-08-31_
 - Assurant — Digital & AI Transformation Intern 1 - Internship Program
 - Astranis — Assembly and Test Intern - Integration
 - Astranis — Embedded Software Developer – Network/Payload Software Intern
+- Astranis — Flight Software Intern
 - Astranis — Radiation Effects Engineer Intern
 - Astranis — Software Engineer-Backend Intern
 - Atoms — Software Engineer Intern - Winter 2027
 - Availity — Software Engineer Intern - Multiple Teams
 - Axon — Software Engineer Intern
 - Baker Hughes — Benefit Tool Developer Intern - Month Fixed Term Contract
+- Base Power — Firmware Engineer Intern
 - Blockhouse — Applied AI Engineer Intern
 - Boom Supersonic — Engineering and Tech Intern
 - Booz Allen — AI RAN Telecommunications Engineer Intern
@@ -105,8 +108,11 @@ _Generated 2026-08-31_
 - Bosch Home Comfort — ADAS Software Engineer Intern
 - Bosch Home Comfort — AI Security Research Intern
 - BP — Finance & Risk Intern - Multiple Teams
+- BP — Finance & Risk Intern - Supply, Trading, & Shipping - Finance & Risk
+- BP — Finance & Risk Intern - Supply, Trading, & Shipping - Finance & Risk
 - BP — Geoscience Intern - Geoscientist
 - BP — Reservoir Engineer Intern - Summer Internship
+- BP — Summer Intern
 - By Light Professional IT Services — Software Design Engineer Intern
 - Caddi Workflow Automation — Software Engineer Intern
 - Cadence Design Systems — Characterization and Support Intern
@@ -127,7 +133,6 @@ _Generated 2026-08-31_
 - Centerstone — Bachelor Level Intern
 - Centific — Research Intern - Healthcare AI
 - Centific — Technical Intern
-- Centific — Technical Intern - Masters or PhD
 - CesiumAstro — Embedded Software Engineer Intern
 - CesiumAstro — Software Engineering Intern - Advanced Projects Group
 - CesiumAstro — Test Engineer Intern
@@ -156,6 +161,7 @@ _Generated 2026-08-31_
 - Dallas College — SAS Intern
 - DataRobot — Agentic AI Intern
 - Deepgram — Software Engineer Intern
+- Delta Dental — Knowledge Science Intern
 - Detroit Lions — Quantitative Research Intern
 - Dmg Media — Editorial Innovation Intern - Innovation Team
 - Duracell — Electronics Tech Intern
@@ -257,6 +263,7 @@ _Generated 2026-08-31_
 - Moog — Computer Science Intern - Information Technology
 - Moog — Hardware Engineer Intern
 - Moog — Product Engineering Intern
+- Motorola — Android Platform Software Engineer Intern - Summer 2027
 - Multnomah County — Immunization & Community Health Intern - Prevention and Health Promotion
 - Multnomah County — Public Health Tobacco Control and Prevention Intern
 - National Laboratory of the Rockies — Agricultural Energy Intern - Year-Round
@@ -349,6 +356,7 @@ _Generated 2026-08-31_
 - RTX — Software Engineer Intern - Summer 2027
 - RTX — Software Engineer Intern - Summer 2027
 - RTX — Software Engineer Intern - Summer 2027
+- RTX — Software Engineer Intern - Summer 2027
 - RTX — Software Engineering Intern - Summer 2027
 - RTX — Systems Engineering Intern
 - RTX — Systems Technology Intern
@@ -371,6 +379,7 @@ _Generated 2026-08-31_
 - Tencent — AI Product Manager Intern
 - Tesla — Access Control Systems Integration Engineer Intern - Vehicle Software
 - Tesla — AI Hardware Design Engineer Intern - AI Hardware Design Engineer - AI Hardware
+- Tesla — Charging Data Modeling Intern - Charging Data Modeling - Machine Learning Engineer
 - Tesla — Commercial UI Software Engineer Intern - Energy Engineering
 - Tesla — Data Capture Engineering Intern - Data Capture Application Engineer - Energy Engineering
 - Tesla — Data Engineer Intern - Cell Engineering
@@ -380,6 +389,7 @@ _Generated 2026-08-31_
 - Tesla — Energy Battery Firmware Intern - Software Engineer - Energy Engineering
 - Tesla — Energy Engineering Intern - Software Engineer Diagnostics - Energy Engineering
 - Tesla — Firmware Engineer Intern - Power Electronics Firmware Engineer - Energy Engineering
+- Tesla — Product Management Intern - Product Engineer - Applications Engineering
 - Tesla — Software Engineer Intern - Distributed Systems Software Engineer - Energy Engineering
 - Tesla — Software Engineer Intern - Energy Engineering
 - Tesla — Software Engineer Intern - Linux Update Systems
@@ -392,9 +402,10 @@ _Generated 2026-08-31_
 - Tesla — Software Integration Engineer Intern - Software Integration Engineer - Optimus
 - Tesla — Software Machine Learning Engineer Intern - Reliability Energy Engineering
 - Tesla — Solar Hardware Engineer Intern - Solar Hardware Engineer - Energy Engineering
+- Tesla — Systems Modeling & Optimization Intern - Robotaxi Simulation Engineer - Systems Modeling & Optimization
 - Tesla — Thermal Controls Engineer Intern - Thermal Controls Engineer - Vehicle Controls
+- Tesla — Vehicle Software Intern - Vehicle Controls
 - Texas Instruments — Layout Design Intern
-- Texas Instruments — Product Operations Analyst Intern
 - The Home Depot — Co-op Intern
 - The Hub Project — Polling and Outreach Intern
 - The Nuclear Company — AI Software Engineer Intern
@@ -422,7 +433,6 @@ _Generated 2026-08-31_
 - Veeam Software — Software Engineering Intern, Policy Engineering
 - Veeda AI — AI Scientist Intern - Veeda AI Scientist
 - Vega Investment Technologies — Product Operations Intern
-- Verisk — AI Intern - Summer Internship Program
 - Walleye Capital — Equity Volatility Quant Researcher Intern
 - Warner Bros. — Research & Analytics Internships - Multiple Teams
 - Warner Bros. — Research, Analytics & Strategy Intern
