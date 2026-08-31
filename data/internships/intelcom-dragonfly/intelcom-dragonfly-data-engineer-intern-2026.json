@@ -1,21 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "l3harris-technologies-software-engineer-intern-2026-7273d9",
+  "id": "intelcom-dragonfly-data-engineer-intern-2026",
   "company": {
-    "name": "L3Harris Technologies",
-    "slug": "l3harris-technologies"
+    "name": "Intelcom | Dragonfly",
+    "slug": "intelcom-dragonfly"
   },
-  "role": "Software Engineer Intern",
-  "category": "software-engineering",
-  "apply_url": "https://jobs.l3harris.com/job/Colorado-Springs-Intern-C,-Software-Engineer-CO-80916/1420701600/?ats=successfactors",
+  "role": "Data Engineer Intern",
+  "category": "data-engineering",
+  "apply_url": "https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Data-Engineering-Intern_JR111567",
   "season": "fall",
   "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Colorado Springs",
-      "state": "CO",
-      "country": "USA"
+      "city": "Montreal",
+      "country": "QC"
     }
   ],
   "compensation": {
@@ -26,8 +25,7 @@
   "eligibility": {
     "graduation_years": [],
     "degree_levels": [
-      "masters",
-      "phd"
+      "masters"
     ],
     "citizenship_required": false,
     "security_clearance_required": false,
@@ -43,8 +41,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-18",
-    "discovered": "2026-08-25",
+    "posted": "2026-08-31",
+    "discovered": "2026-08-31",
     "last_verified": "2026-08-31"
   },
   "status": "open",

@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "the-walt-disney-company-computer-science-computer-engineering-intern-multiple-teams-2027-74c080",
+  "id": "framatome-computer-science-engineer-intern-co-op-university-co-op-tech-2026",
   "company": {
-    "name": "The Walt Disney Company",
-    "slug": "the-walt-disney-company"
+    "name": "Framatome",
+    "slug": "framatome"
   },
-  "role": "Computer Science / Computer Engineering Intern - Multiple Teams",
+  "role": "Computer Science Engineer Intern Co-op - University Co-op Technical",
   "category": "software-engineering",
-  "apply_url": "https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Lake-Buena-Vista-FL-USA/WDW-Computer-Science---Computer-Engineering-Interns--Spring-2027_10158145-1",
-  "season": "spring",
-  "year": 2027,
+  "apply_url": "https://careers-framatome.icims.com/jobs/3294/job?mobile=true&needsRedirect=false",
+  "season": "fall",
+  "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Lake Buena Vista",
-      "state": "FL",
+      "city": "Lynchburg",
+      "state": "VA",
       "country": "USA"
     }
   ],
@@ -26,7 +26,8 @@
   "eligibility": {
     "graduation_years": [],
     "degree_levels": [
-      "masters"
+      "masters",
+      "phd"
     ],
     "citizenship_required": false,
     "security_clearance_required": false,
@@ -42,8 +43,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-24",
-    "discovered": "2026-08-24",
+    "posted": "2026-08-31",
+    "discovered": "2026-08-31",
     "last_verified": "2026-08-31"
   },
   "status": "open",

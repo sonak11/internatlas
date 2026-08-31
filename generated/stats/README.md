@@ -8,16 +8,17 @@ _Generated 2026-08-31_
 
 | Company | Listings |
 |---|---|
-| TikTok | 150 |
+| TikTok | 152 |
 | Tesla | 124 |
 | RTX | 74 |
 | ByteDance | 54 |
 | Jump Trading | 47 |
-| L3Harris Technologies | 36 |
+| L3Harris Technologies | 35 |
 | Cloudflare | 34 |
+| American Express | 33 |
 | AMD | 32 |
+| Qorvo | 32 |
 | Royal Bank of Canada | 32 |
-| American Express | 30 |
 | NVIDIA | 30 |
 | The Walt Disney Company | 29 |
 | IMC Trading | 26 |
@@ -27,48 +28,47 @@ _Generated 2026-08-31_
 | Zipline | 22 |
 | Booz Allen | 19 |
 | Vertiv | 19 |
-| Microsoft | 18 |
 
 ## Listings by category
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 1475 | `██████████████` |
-| ai | 248 | `██` |
-| quant | 214 | `██` |
-| machine-learning | 153 | `█` |
-| research | 112 | `█` |
+| software-engineering | 1515 | `██████████████` |
+| ai | 250 | `██` |
+| quant | 218 | `██` |
+| machine-learning | 155 | `█` |
+| research | 115 | `█` |
 | hardware | 112 | `█` |
-| product | 80 | `█` |
-| embedded | 68 | `█` |
+| product | 84 | `█` |
+| embedded | 69 | `█` |
 | data-science | 67 | `█` |
-| design | 48 | `█` |
+| design | 53 | `█` |
 | cloud | 45 | `█` |
-| data-engineering | 32 | `█` |
+| data-engineering | 33 | `█` |
 | security | 18 | `█` |
 
 ## Newest listings
 
-- 2026-08-30 — **GE Vernova**: [Product Management Intern - Controls Lifecare Services](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Longmont/Product-Management-Intern---Controls-Lifecare-Services_R5050801-2)
-- 2026-08-30 — **GE Vernova**: [Product Management Intern - Controls Lifecare Services](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Longmont/Product-Management-Intern---Controls-Lifecare-Services_R5050801-1)
-- 2026-08-29 — **Bland AI**: [Machine Learning Research Intern - Audio](https://jobs.ashbyhq.com/bland/c8a5c0de-935d-4f76-bc7d-237cbfb2cf55/application?embed=true)
-- 2026-08-29 — **Charles Schwab**: [Data Engineering Intern - Data Engineering](https://career-schwab.icims.com/jobs/126227/job?mobile=true&needsRedirect=false)
-- 2026-08-29 — **Charles Schwab**: [Software Engineering Intern - Technology](https://career-schwab.icims.com/jobs/126228/job?mobile=true&needsRedirect=false)
-- 2026-08-29 — **Clerkie**: [Software Engineer Intern](http://getfiber.ai/careers?gh_jid=5225258007)
-- 2026-08-29 — **Epic Games**: [Web Engineer Intern - Tools & Portals](https://epicgames.com/careers/jobs/6163851004?gh_jid=6163851004)
-- 2026-08-29 — **Intuit**: [Software Engineer Intern - Full Stack](https://jobs.intuit.com/job/mountain-view/summer-2027-software-engineering-intern-full-stack/27595/99856180864)
-- 2026-08-29 — **Northwood Space**: [Embedded Software Engineer Intern](https://jobs.ashbyhq.com/NorthwoodSpace/d0cca9dd-ea90-4c3b-94b4-17761932d11c/application?embed=true)
-- 2026-08-29 — **Northwood Space**: [RF Engineer Intern - Summer Internship](https://jobs.ashbyhq.com/NorthwoodSpace/f086c92a-7e4b-4799-8f2a-2ad8b13111ca/application?embed=true)
-- 2026-08-29 — **Northwood Space**: [Software Engineer Intern - Multiple Teams](https://jobs.ashbyhq.com/NorthwoodSpace/ce3d4b73-461e-4128-a6f1-f933897e8119/application?embed=true)
-- 2026-08-29 — **Northwood Space**: [Supply Chain Data & Analytics Intern](https://jobs.ashbyhq.com/NorthwoodSpace/69f99cd7-3ce7-413a-8cfe-29b7ccbc1490/application?embed=true)
-- 2026-08-29 — **Persona AI**: [Robotics Software Intern - Manipulation](https://jobs.ashbyhq.com/persona.ai/1e8d195c-e28e-423d-a06a-9eeb401ed4fc/application?embed=true)
-- 2026-08-29 — **Schweitzer Engineering Laboratories**: [Engineering Intern - Protection Systems Forensics](https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Engineering-Intern_2025-18137)
-- 2026-08-29 — **Thea Energy**: [Physics Intern](https://jobs.lever.co/thea.energy/a2396f89-49c9-4ff4-adc5-37b91e227df5/apply)
-- 2026-08-28 — **Analog Devices**: [AI/ML Engineer Intern](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/AI-ML-Engineer-Intern_R265579)
-- 2026-08-28 — **Anheuser-Busch**: [Technology Intern](https://abinbev.wd1.myworkdayjobs.com/en-US/USA/job/St-Louis-Missouri/Technology-Internship_30102525)
-- 2026-08-28 — **Blockhouse**: [Applied AI Engineer Intern](https://jobs.ashbyhq.com/blockhouse/2e9fbde8-709c-4c1f-b908-cd51a53c8529/application?embed=true)
-- 2026-08-28 — **Booz Allen**: [AI Software Developer Intern](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/San-Diego-CA/AI-Software-Developer-Intern_R0248115)
-- 2026-08-28 — **Booz Allen**: [Data Scientist Intern - Summer Games](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Rome-NY/University--2027-Summer-Games-Data-Scientist-Intern_R0248143)
+- 2026-08-31 — **American Express**: [Product Development Intern - Global Commercial Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013091)
+- 2026-08-31 — **American Express**: [Product Development Intern - Global Commercial Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012890)
+- 2026-08-31 — **American Express**: [Product Management Intern - Global Commercial Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012558)
+- 2026-08-31 — **BP**: [Commercial Intern - Supply, Trading, & Shipping](https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers/job/United-States-of-America---Illinois---Chicago/Summer-Internship---Supply--Trading----Shipping---Commercial---Chicago--IL_RQ115344)
+- 2026-08-31 — **BP**: [Finance & Risk Intern - Supply, Trading, & Shipping - Finance & Risk](https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers/job/United-States-of-America---Illinois---Chicago/Summer-Intern---Supply--Trading----Shipping-Finance---Risk---Chicago--IL_RQ114738)
+- 2026-08-31 — **BP**: [Summer Intern](https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers/job/United-States-of-America---Texas---Houston/Summer-Intern---Supply--Trading----Shipping-Finance---Risk---Houston--TX_RQ112380-1)
+- 2026-08-31 — **BP**: [Supply, Trading, & Shipping Intern](https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers/job/Canada---Calgary/Summer-Internship---Supply--Trading----Shipping---Calgary_RQ115340)
+- 2026-08-31 — **BP**: [Trading, Origination, Analytics, and Operations Intern - Supply, Trading, & Shipping - Trading, Origination, Analytics, & Operations](https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers/job/United-States-of-America---Texas---Houston/Summer-Internship---Supply--Trading----Shipping---Trading--Origination----Analytics--Houston--TX_RQ115366)
+- 2026-08-31 — **Framatome**: [Computer Science Engineer Intern Co-op - University Co-op Technical](https://careers-framatome.icims.com/jobs/3294/job?mobile=true&needsRedirect=false)
+- 2026-08-31 — **GE Aerospace**: [Applied AI Intern](https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Evendale/Applied-AI-Engineer-Intern---Summer-2027--May-June-Start-_R5039302-1)
+- 2026-08-31 — **Intelcom \| Dragonfly**: [AI Data Analyst Intern](https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/AI-Data-Analyst-Intern_JR111568)
+- 2026-08-31 — **Intelcom \| Dragonfly**: [Business Intelligence Developer Intern - BI](https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Business-Intelligence--BI--Developer-Intern_JR111555)
+- 2026-08-31 — **Intelcom \| Dragonfly**: [Data Engineer Intern](https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Data-Engineering-Intern_JR111567)
+- 2026-08-31 — **Intelcom \| Dragonfly**: [Front-end Developer Intern - Mobile Application](https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Front-end-Developer-Intern---Mobile-Application_JR111571)
+- 2026-08-31 — **Intelcom \| Dragonfly**: [Full-Stack Developer Intern - Route Optimization](https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Full-Stack-Developer-Intern---Route-Optimization_JR111570-1)
+- 2026-08-31 — **Intelcom \| Dragonfly**: [R&D Solution Builder Intern](https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/R-D-Solution-Builder-Intern_JR111563)
+- 2026-08-31 — **Intelcom \| Dragonfly**: [Routing Data Analytics & Optimization Intern](https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Routing-Data-Analytics---Optimization-Intern_JR111557-1)
+- 2026-08-31 — **PGIM**: [Product and Institutional Client Intern - Multiple Teams](https://pru.wd5.myworkdayjobs.com/pgim_careers/job/Newark-NJ-USA/PGIM--2027-Product-and-Institutional-Client--Internship-Program_R-124910-2)
+- 2026-08-31 — **PIMCO**: [Product Analyst Intern](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/London-GBR/XMLNAME-2027-Summer-Intern---Product-Analyst--EMEA_R106780)
+- 2026-08-31 — **PIMCO**: [Software Engineering Intern - Technology Analyst](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/London-GBR/XMLNAME-2027-Summer-Intern---Technology-Analyst--Software-Engineering--EMEA_R106800)
 
 ## Recently closed
 
@@ -116,6 +116,7 @@ _Generated 2026-08-31_
 - Cadence Design Systems — SSG Design Engineering Intern
 - CALSTART — Web Development Intern
 - Canva — PhD Research Scientist Intern - Edge AI
+- Canva — PhD Research Scientist Intern - Generative AI
 - Canva — PhD Research Scientist Intern - Reinforcement Learning for Diffusion Modelling
 - Capital One — Cyber Security Intern
 - Capital One — Software Engineer Intern
@@ -211,6 +212,13 @@ _Generated 2026-08-31_
 - L3Harris Technologies — Software Engineer Intern
 - L3Harris Technologies — Software Engineer Intern
 - L3Harris Technologies — Software Engineer Intern
+- L3Harris Technologies — Software Engineer Intern
+- L3Harris Technologies — Software Engineer Intern
+- L3Harris Technologies — Software Engineer Intern
+- L3Harris Technologies — Software Engineer Intern
+- L3Harris Technologies — Software Engineer Intern
+- L3Harris Technologies — Software Engineer Intern
+- L3Harris Technologies — Software Engineer Intern
 - L3Harris Technologies — Software Engineering Intern
 - Lawrence Livermore National Laboratory (LLNL) — Computing Graduate Student Intern
 - Lawrence Livermore National Laboratory (LLNL) — Computing Undergraduate Student Intern
@@ -224,6 +232,7 @@ _Generated 2026-08-31_
 - LPL Financial Holdings — Data Analytics Intern - FAR Program
 - Magnera — Data Analyst Intern - Information Technology
 - Marsh — Government Health Consulting Informatics Intern - College Program
+- Marsh — Summer Analyst Intern - Data and Analytics
 - MaxLinear — AI Intern
 - McKesson — AI & Strategic Analytics Intern
 - McKesson — Associate Business Systems Analyst Intern - Data Hub Canada
@@ -268,6 +277,8 @@ _Generated 2026-08-31_
 - Picton Mahoney Asset Management — Business Data Analyst Intern
 - Picton Mahoney Asset Management — Quantitative Research & Risk Intern
 - PlusAI — Deep Learning Research Intern - Multimodal BEV Perception
+- ProNexus — Software Engineer Intern
+- Pure Storage — SW Engineer Internship
 - Quantbot Technologies — Machine Learning Research Engineer Intern
 - Quantbot Technologies — Quantitative Developer Intern
 - Readystate Asset Management — Investment Intern - Summer 2027 & 2028
@@ -343,23 +354,36 @@ _Generated 2026-08-31_
 - tarte cosmetics — Product Development Intern
 - Tencent — AI Product Manager Intern
 - Tesla — AI Hardware Design Engineer Intern - AI Hardware Design Engineer - AI Hardware
+- Tesla — Commercial UI Software Engineer Intern - Energy Engineering
 - Tesla — Data Capture Engineering Intern - Data Capture Application Engineer - Energy Engineering
 - Tesla — Data Engineer Intern - Cell Engineering
 - Tesla — Electronics Design Engineer Intern - Reliability Electronics Design Engineer - Energy Engineering
 - Tesla — Embedded Software Engineer Intern - Embedded Software Engineer - Body Controls Firmware
+- Tesla — Embedded System Software Engineer Intern - Embedded System Software Engineer - Energy Engineering
+- Tesla — Energy Battery Firmware Intern - Software Engineer - Energy Engineering
+- Tesla — Energy Engineering Intern - Software Engineer Diagnostics - Energy Engineering
+- Tesla — Firmware Engineer Intern - Power Electronics Firmware Engineer - Energy Engineering
+- Tesla — Software Engineer Intern - Distributed Systems Software Engineer - Energy Engineering
+- Tesla — Software Engineer Intern - Energy Engineering
 - Tesla — Software Engineer Intern - Linux Update Systems
+- Tesla — Software Engineer Intern - Multiple Teams
 - Tesla — Software Engineer Intern - Residential Energy Device Software Engineer - Energy Engineering
+- Tesla — Software Engineer Intern - Site Controller Software Engineer - Energy Engineering
 - Tesla — Software Engineer Intern - Software Engineer - AI Hardware Infrastructure
 - Tesla — Software Engineer Intern - Software Engineer Industrial Firmware - Energy Engineering
 - Tesla — Software Engineer Intern - Software Engineer - Information Security
 - Tesla — Software Integration Engineer Intern - Software Integration Engineer - Optimus
+- Tesla — Software Machine Learning Engineer Intern - Reliability Energy Engineering
 - Tesla — Solar Hardware Engineer Intern - Solar Hardware Engineer - Energy Engineering
 - Tesla — Thermal Controls Engineer Intern - Thermal Controls Engineer - Vehicle Controls
 - Texas Instruments — Layout Design Intern
 - The Home Depot — Co-op Intern
 - The Hub Project — Polling and Outreach Intern
 - The Nuclear Company — AI Software Engineer Intern
+- The Walt Disney Company — Environmental Sustainability Data Analytics Intern - Spring 2027
+- The Walt Disney Company — Environmental Sustainability Data Analytics Intern - Spring 2027
 - The Walt Disney Company — Geographic Information Systems Intern - GIS
+- The Walt Disney Company — Menu Planning Intern - Spring 2027
 - The Walt Disney Company — Systems Software Engineer Intern
 - The Walt Disney Company — Systems Software Engineer Intern
 - TikTok — Product Manager Intern - TikTok Product Content Ecosystem

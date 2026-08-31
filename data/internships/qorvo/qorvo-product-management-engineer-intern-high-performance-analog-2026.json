@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "the-walt-disney-company-transportation-logistics-analytics-intern-spring-2027-2027-47fb9b",
+  "id": "qorvo-product-management-engineer-intern-high-performance-analog-2026",
   "company": {
-    "name": "The Walt Disney Company",
-    "slug": "the-walt-disney-company"
+    "name": "Qorvo",
+    "slug": "qorvo"
   },
-  "role": "Transportation Logistics & Analytics Intern - Spring 2027",
-  "category": "software-engineering",
-  "apply_url": "https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Lake-Buena-Vista-FL-USA/Walt-Disney-World-Transportation-Logistics---Analytics-Intern--Spring-2027_10158253-2",
-  "season": "spring",
-  "year": 2027,
+  "role": "Product Management Engineer Intern - High Performance Analog",
+  "category": "product",
+  "apply_url": "https://careers.qorvo.com/job/Richardson-Product-Management-Engineering-Intern-TX-75081/1424705200/?ats=successfactors",
+  "season": "fall",
+  "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Lake Buena Vista",
-      "state": "FL",
+      "city": "Richardson",
+      "state": "TX",
       "country": "USA"
     }
   ],
@@ -40,8 +40,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-24",
-    "discovered": "2026-08-24",
+    "posted": "2026-08-31",
+    "discovered": "2026-08-31",
     "last_verified": "2026-08-31"
   },
   "status": "open",
