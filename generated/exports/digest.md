@@ -1,4 +1,4 @@
-# 📬 InternAtlas Weekly Digest — 2026-08-30
+# 📬 InternAtlas Weekly Digest — 2026-08-31
 
 ## 🆕 New this week (418)
 

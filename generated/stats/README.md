@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 📊 Statistics
 
-_Generated 2026-08-30_
+_Generated 2026-08-31_
 
 ## Top hiring companies
 
