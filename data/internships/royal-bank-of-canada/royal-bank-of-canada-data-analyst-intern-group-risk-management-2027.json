@@ -1,21 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "the-walt-disney-company-labor-systems-web-integration-intern-spring-2027-2027-eed923",
+  "id": "royal-bank-of-canada-data-analyst-intern-group-risk-management-2027",
   "company": {
-    "name": "The Walt Disney Company",
-    "slug": "the-walt-disney-company"
+    "name": "Royal Bank of Canada",
+    "slug": "royal-bank-of-canada"
   },
-  "role": "Labor Systems Web Integration Intern - Spring 2027",
+  "role": "Data Analyst Intern - Group Risk Management",
   "category": "software-engineering",
-  "apply_url": "https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Lake-Buena-Vista-FL-USA/Labor-Systems-Web-Integration-Intern--Spring-2027_10158184-1",
+  "apply_url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--Data-Analyst-Intern--4-Months-_R-0000186286-1",
   "season": "winter",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Lake Buena Vista",
-      "state": "FL",
-      "country": "USA"
+      "city": "Toronto",
+      "country": "ON"
     }
   ],
   "compensation": {
@@ -40,8 +39,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-24",
-    "discovered": "2026-08-24",
+    "posted": "2026-08-31",
+    "discovered": "2026-08-31",
     "last_verified": "2026-08-31"
   },
   "status": "open",

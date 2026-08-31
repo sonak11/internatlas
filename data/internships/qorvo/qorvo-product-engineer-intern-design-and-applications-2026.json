@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "the-walt-disney-company-labor-systems-data-analytics-integration-intern-spring-2027-2027-b07ba2",
+  "id": "qorvo-product-engineer-intern-design-and-applications-2026",
   "company": {
-    "name": "The Walt Disney Company",
-    "slug": "the-walt-disney-company"
+    "name": "Qorvo",
+    "slug": "qorvo"
   },
-  "role": "Labor Systems Data Analytics & Integration Intern - Spring 2027",
-  "category": "software-engineering",
-  "apply_url": "https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Lake-Buena-Vista-FL-USA/Labor-Systems-Data-Analytics---Integration-Intern--Spring-2027_10157891-2",
-  "season": "winter",
-  "year": 2027,
+  "role": "Product Engineer Intern - Design and Applications",
+  "category": "design",
+  "apply_url": "https://careers.qorvo.com/job/Richardson-Product-Engineer-D&A-Intern-TX-75081/1424806900/?ats=successfactors",
+  "season": "fall",
+  "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Lake Buena Vista",
-      "state": "FL",
+      "city": "Richardson",
+      "state": "TX",
       "country": "USA"
     }
   ],
@@ -25,7 +25,10 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "masters",
+      "phd"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -40,8 +43,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-24",
-    "discovered": "2026-08-24",
+    "posted": "2026-08-31",
+    "discovered": "2026-08-31",
     "last_verified": "2026-08-31"
   },
   "status": "open",
