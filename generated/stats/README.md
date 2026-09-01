@@ -9,15 +9,15 @@ _Generated 2026-09-01_
 | Company | Listings |
 |---|---|
 | TikTok | 151 |
-| Tesla | 125 |
-| RTX | 73 |
-| ByteDance | 57 |
+| Tesla | 126 |
+| RTX | 74 |
+| American Express | 60 |
+| ByteDance | 58 |
 | Jump Trading | 47 |
 | Royal Bank of Canada | 37 |
 | L3Harris Technologies | 35 |
 | Qorvo | 35 |
 | Cloudflare | 34 |
-| American Express | 33 |
 | AMD | 32 |
 | NVIDIA | 30 |
 | The Walt Disney Company | 28 |
@@ -33,42 +33,42 @@ _Generated 2026-09-01_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 1588 | `██████████████` |
-| ai | 261 | `██` |
+| software-engineering | 1622 | `██████████████` |
+| ai | 266 | `██` |
 | quant | 223 | `██` |
-| machine-learning | 155 | `█` |
+| machine-learning | 156 | `█` |
 | research | 115 | `█` |
 | hardware | 113 | `█` |
-| product | 92 | `█` |
-| data-science | 75 | `█` |
-| embedded | 69 | `█` |
+| product | 101 | `█` |
+| data-science | 79 | `█` |
+| embedded | 70 | `█` |
 | design | 56 | `█` |
 | cloud | 47 | `█` |
-| data-engineering | 33 | `█` |
+| data-engineering | 39 | `█` |
 | security | 19 | `█` |
 
 ## Newest listings
 
-- 2026-08-31 — **Aerotech**: [Electrical/Computer Engineering Intern Co-op](https://aerotech.applytojob.com/apply/FrPUDToawu/ElectricalComputer-Engineering-Internship-Or-Coop-2027)
-- 2026-08-31 — **Aerotech**: [Software Engineering Intern Co-op - Enterprise Development Team - Application Development Team](https://aerotech.applytojob.com/apply/OFIYSpO0HW/Software-Engineering-Internship-Or-Coop-2027)
-- 2026-08-31 — **American Express**: [Product Development Intern - Global Commercial Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013091)
-- 2026-08-31 — **American Express**: [Product Development Intern - Global Commercial Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012890)
-- 2026-08-31 — **American Express**: [Product Management Intern - Global Commercial Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012558)
-- 2026-08-31 — **Arch Capital Group**: [Data and Analytics Intern](https://archgroup.wd1.myworkdayjobs.com/careers/job/Farmington-CT-United-States-of-America/Data-and-Analytics-Intern_R26_845)
-- 2026-08-31 — **Astrion**: [Data Analyst Intern](https://careers.astrion.us/jobs/24801?icims=1)
-- 2026-08-31 — **Blackhawk Network Holdings**: [Product Management Intern](https://careers-blackhawknetwork.icims.com/jobs/26869/job?mobile=true&needsRedirect=false)
-- 2026-08-31 — **Blackhawk Network Holdings**: [Product Management Intern](https://careers-blackhawknetwork.icims.com/jobs/26868/job?mobile=true&needsRedirect=false)
-- 2026-08-31 — **Blackhawk Network Holdings**: [Technology Intern](https://careers-blackhawknetwork.icims.com/jobs/26867/job?mobile=true&needsRedirect=false)
-- 2026-08-31 — **Bosch Home Comfort**: [AI Application Intern](https://jobs.smartrecruiters.com/BoschGroup/744000146547599)
-- 2026-08-31 — **Bosch Home Comfort**: [Calibration Process Optimization Intern](https://jobs.smartrecruiters.com/BoschGroup/744000146526409)
-- 2026-08-31 — **Bosch Home Comfort**: [Software Engineer Intern](https://jobs.smartrecruiters.com/BoschGroup/744000146546849)
-- 2026-08-31 — **Bosch Home Comfort**: [Software Engineer Intern - 8 months/40hrs per week](https://jobs.smartrecruiters.com/BoschGroup/744000146524909)
-- 2026-08-31 — **BP**: [Commercial Intern - Supply, Trading, & Shipping](https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers/job/United-States-of-America---Illinois---Chicago/Summer-Internship---Supply--Trading----Shipping---Commercial---Chicago--IL_RQ115344)
-- 2026-08-31 — **BP**: [Finance & Risk Intern - Supply, Trading, & Shipping](https://bpinternational.wd3.myworkdayjobs.com/bpPrivateExternalCareersSite/job/United-States-of-America---Illinois---Chicago/Summer-Internship---Supply--Trading----Shipping-Finance---Risk---Chicago--IL_RQ115370)
-- 2026-08-31 — **BP**: [Finance & Risk Intern - Supply, Trading, & Shipping](https://bpinternational.wd3.myworkdayjobs.com/bpPrivateExternalCareersSite/job/United-States-of-America---Texas---Houston/Summer-Internship---Supply--Trading----Shipping-Finance---Risk---Houston--TX_RQ115372)
-- 2026-08-31 — **BP**: [Finance & Risk Intern - Supply, Trading, & Shipping](https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers/job/United-States-of-America---Texas---Houston/Summer-Internship---Supply--Trading----Shipping-Finance---Risk---Houston--TX_RQ115372-1)
-- 2026-08-31 — **BP**: [Finance & Risk Intern - Supply, Trading, & Shipping](https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers/job/United-States-of-America---Illinois---Chicago/Summer-Internship---Supply--Trading----Shipping-Finance---Risk---Chicago--IL_RQ115370-1)
-- 2026-08-31 — **BP**: [Finance & Risk Intern - Supply, Trading, & Shipping - Finance & Risk](https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers/job/United-States-of-America---Illinois---Chicago/Summer-Intern---Supply--Trading----Shipping-Finance---Risk---Chicago--IL_RQ114738)
+- 2026-09-01 — **American Express**: [Data Analytics Intern - Enterprise Technology Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012703)
+- 2026-09-01 — **American Express**: [Data Analytics Intern - Enterprise Technology Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012729)
+- 2026-09-01 — **American Express**: [Data Analytics Intern - Enterprise Technology Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012782)
+- 2026-09-01 — **American Express**: [Data Analytics Intern - Enterprise Technology Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011813)
+- 2026-09-01 — **American Express**: [Data Analytics Intern - Enterprise Technology Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011818)
+- 2026-09-01 — **American Express**: [Data Analytics Intern - Enterprise Technology Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012783)
+- 2026-09-01 — **American Express**: [Data Analytics Intern - Enterprise Technology Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012784)
+- 2026-09-01 — **American Express**: [Data Analytics Intern - Enterprise Technology Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011807)
+- 2026-09-01 — **American Express**: [Data Analytics Intern - US Consumer Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011607)
+- 2026-09-01 — **American Express**: [Data Engineer Intern - Enterprise Technology Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012764)
+- 2026-09-01 — **American Express**: [Data Engineer Intern - Enterprise Technology Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012781)
+- 2026-09-01 — **American Express**: [Data Engineer Intern - Enterprise Technology Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011831)
+- 2026-09-01 — **American Express**: [Data Engineer Intern - Enterprise Technology Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012339)
+- 2026-09-01 — **American Express**: [Data Engineer Intern - Enterprise Technology Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012333)
+- 2026-09-01 — **American Express**: [Data Engineer Intern - Enterprise Technology Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011828)
+- 2026-09-01 — **American Express**: [Data Management Intern - Global Merchant & Network Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012668)
+- 2026-09-01 — **American Express**: [Data Science Intern - Finance](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013191)
+- 2026-09-01 — **American Express**: [Data Science Intern - Finance](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013190)
+- 2026-09-01 — **American Express**: [Digital Product Management Intern - Enterprise Technology Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012057)
+- 2026-09-01 — **American Express**: [Digital Product Management Intern - Enterprise Technology Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011627)
 
 ## Recently closed
 
@@ -76,6 +76,7 @@ _Generated 2026-09-01_
 - Abridge — Software Engineer Intern
 - AcreTrader — Data Intern
 - Adtheorant — Enterprise AI Intern
+- Alayacare — Full-Stack Developer Intern - Python
 - Altera Corporation — Embedded Solutions Intern
 - Altom Transport — Software Development Intern
 - Altom Transport — Software Development Intern
@@ -188,6 +189,19 @@ _Generated 2026-09-01_
 - General Motors — Battery & Sustainability Intern - Physics-Based Battery Modeling
 - Global Partners — Advanced Analytics Intern
 - GoDaddy — Software Development Engineer Intern
+- Goldman Sachs — Associate Intern - The Core Quantitative Strats
+- Goldman Sachs — AWM Product Management Analyst Intern
+- Goldman Sachs — Quantitative Strategist Associate Intern - Asset and Wealth Management
+- Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
+- Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
+- Goldman Sachs — Summer Analyst Intern - Americas - AWM Product Management
+- Goldman Sachs — Summer Analyst Intern - FICC and Equities - Sales and Trading
+- Goldman Sachs — Summer Analyst Intern - FICC & Equities - Sales & Trading
+- Goldman Sachs — Summer Analyst Intern - Wealth Management - Product Management and Design
+- Goldman Sachs — Summer Associate Intern
+- Goldman Sachs — Summer Associate Intern - Multiple Teams
 - Google — Research Intern - PhD
 - Google — Software Developer Intern
 - Group 1001 — Quantitative Analysis Intern
@@ -206,6 +220,7 @@ _Generated 2026-09-01_
 - Integra FEC — Data Analyst Intern
 - Integra FEC — Data Scientist Intern
 - Integra FEC — Data Scientist Intern - PhD
+- Integra FEC — Research Analyst Intern
 - Intel — Software Development Intern
 - Interdigital — Wireless Engineering Intern - 6G Wireless Systems
 - International Rescue Committee (IRC) — Data Integration & Reporting Intern
@@ -251,6 +266,7 @@ _Generated 2026-09-01_
 - LPL Financial Holdings — Data Analytics Intern - FAR Program
 - Magnera — Data Analyst Intern - Information Technology
 - Marsh — Government Health Consulting Informatics Intern - College Program
+- Mastercard — Software Engineer Intern
 - MaxLinear — AI Intern
 - McKesson — AI & Strategic Analytics Intern
 - McKesson — Associate Business Systems Analyst Intern - Data Hub Canada
@@ -316,6 +332,7 @@ _Generated 2026-09-01_
 - Rivian and Volkswagen Group Technologies — Software Engineer Intern - Connected Systems
 - Rivian and Volkswagen Group Technologies — Software Engineer Intern - Embedded Platforms
 - Rivian and Volkswagen Group Technologies — Software Engineer Intern - Vehicle Controls
+- Royal Bank of Canada — Business Markets Relationship Manager Intern
 - Royal Bank of Canada — Data Engineer Intern - Chief Data Office
 - RRS Group — Software Engineer Intern - Placement Year
 - RTX — Chemistry Materials Engineer Intern
@@ -358,9 +375,11 @@ _Generated 2026-09-01_
 - Smiths Detection Group — Commercial Intern - Commercial Tools & Business Intelligence
 - Snorkel AI — AI Researcher Intern
 - Sony Music Entertainment — Data Analytics Intern - A&R Research
+- SOTI — Associate Product Manager Intern
 - SOTI — Data Scientist Intern
 - SpaceX — Recruiting Coordinator, Intern Program- Temporary
 - State of Nebraska — IT Construction Systems Intern
+- Stryten — Procurement Intern
 - Super — Software Engineer Intern - Product - Full-Stack
 - Synchrony Financial — Digital Technology Center Intern
 - Synchrony Financial — Emerging Technology Intern
@@ -403,6 +422,8 @@ _Generated 2026-09-01_
 - The Walt Disney Company — Environmental Sustainability Data Analytics Intern - Spring 2027
 - The Walt Disney Company — Geographic Information Systems Intern - GIS
 - The Walt Disney Company — Menu Planning Intern - Spring 2027
+- The Walt Disney Company — Show Control Hardware Intern
+- The Walt Disney Company — Show Control Hardware Intern
 - The Walt Disney Company — Systems Software Engineer Intern
 - The Walt Disney Company — Systems Software Engineer Intern
 - TikTok — Product Manager Intern - TikTok Product Content Ecosystem

@@ -2,13 +2,19 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🛠 Data Engineering Internships
 
-**33** tracked · **26** open now
+**39** tracked · **32** open now
 
 ## Current openings
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
 | [Altice USA](generated/companies/altice-usa.md) | [Data Engineer Intern](https://www.optimumcareers.com/job/Long-Island-City-Intern-Data-Engineer-NY-11101/1414286700/?ats=successfactors) | Long Island City | Onsite | 2026-07-31 | Rolling | 🟢 Open | ❔ |
+| [American Express](generated/companies/american-express.md) | [Data Engineer Intern - Enterprise Technology Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012764) | Charlotte, NC | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
+| [American Express](generated/companies/american-express.md) | [Data Engineer Intern - Enterprise Technology Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012781) | Sunrise, FL | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
+| [American Express](generated/companies/american-express.md) | [Data Engineer Intern - Enterprise Technology Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011831) | Sunrise, FL | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
+| [American Express](generated/companies/american-express.md) | [Data Engineer Intern - Enterprise Technology Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012339) | Phoenix, AZ | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
+| [American Express](generated/companies/american-express.md) | [Data Engineer Intern - Enterprise Technology Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012333) | Phoenix, AZ | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
+| [American Express](generated/companies/american-express.md) | [Data Engineer Intern - Enterprise Technology Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011828) | Charlotte, NC | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
 | [Auto-Owners Insurance](generated/companies/auto-owners-insurance.md) | [Data Engineering Intern - Summer 2027](https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Data-Engineering-Internship---Summer-2026_R_12318) | Lansing, MI | Onsite | 2026-08-26 | Rolling | 🟢 Open | ❔ |
 | [Castleton Commodities International](generated/companies/castleton-commodities-international.md) | [Data Engineering Intern](https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Stamford-CT/Data-Engineering-Internship--Summer-2027-_R1346) | Houston, TX +3 | Onsite | 2026-07-21 | Rolling | 🟢 Open | ❔ |
 | [Castleton Commodities International](generated/companies/castleton-commodities-international.md) | [Data Engineering Intern](https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/London/Data-Engineering-Internship--Summer-2027-_R1348) | London | Onsite | 2026-07-21 | Rolling | 🟢 Open | ❔ |
@@ -44,6 +50,7 @@
 
 ## Hiring companies
 
+- American Express (6)
 - Tesla (3)
 - TikTok (3)
 - Castleton Commodities International (2)

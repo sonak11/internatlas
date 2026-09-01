@@ -18,6 +18,7 @@
 | ByteDance | [ASIC Design Engineer Intern - Video Silicon IP](https://jobs.bytedance.com/en/position/7673638856678279429/detail) | San Jose, CA | Onsite | 2026-08-14 | Rolling | 🟢 Open | ❔ |
 | ByteDance | [ASIC Design Engineer Intern - Video Silicon IP](https://jobs.bytedance.com/en/position/7670332179383699717/detail) | San Jose, CA | Onsite | 2026-08-06 | Rolling | 🟢 Open | ❔ |
 | ByteDance | [Cloud Acceleration Research Intern - DPU & AI Infra](https://jobs.bytedance.com/en/position/7679562740656933125/detail) | Seattle, WA | Onsite | 2026-08-31 | Rolling | 🟢 Open | ❔ |
+| ByteDance | [Cloud Acceleration Research Intern - DPU & AI Infra](https://jobs.bytedance.com/en/position/7679552807864879365/detail) | San Jose, CA | Onsite | 2026-08-31 | Rolling | 🟢 Open | ❔ |
 | ByteDance | [Data Lake Infrastructure & Data Analytics Research Engineer Intern - Applied Machine Learning Ark](https://jobs.bytedance.com/en/position/7672394389001816325/detail) | Seattle, WA | Onsite | 2026-08-11 | Rolling | 🟢 Open | ❔ |
 | ByteDance | [Data Lake Infrastructure and Data Analytics Research Engineer Intern - Applied Machine Learning Ark](https://jobs.bytedance.com/en/position/7671109787509213445/detail) | San Jose, CA | Onsite | 2026-08-10 | Rolling | 🟢 Open | ❔ |
 | ByteDance | [GPU/AI Application System Software Engineer Intern](https://joinbytedance.com/search/7668464504736876853) | San Jose, CA | Onsite | 2026-08-06 | Rolling | 🟢 Open | ❔ |

@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🤖 AI Internships
 
-**261** tracked · **174** open now
+**266** tracked · **179** open now
 
 ## Current openings
 
@@ -39,6 +39,7 @@
 | [ByteDance](generated/companies/bytedance.md) | [AI/LLM Network Research Intern - High Speed Network](https://jobs.bytedance.com/en/position/7670281454740818181/detail) | Seattle, WA | Onsite | 2026-08-06 | Rolling | 🟢 Open | ❔ |
 | [ByteDance](generated/companies/bytedance.md) | [AI/LLM Network Research Intern - High Speed Network - PhD](https://jobs.bytedance.com/en/position/7669969771686775045/detail) | San Jose, CA | Onsite | 2026-08-06 | Rolling | 🟢 Open | ❔ |
 | [ByteDance](generated/companies/bytedance.md) | [Cloud Acceleration Research Intern - DPU & AI Infra](https://jobs.bytedance.com/en/position/7679562740656933125/detail) | Seattle, WA | Onsite | 2026-08-31 | Rolling | 🟢 Open | ❔ |
+| [ByteDance](generated/companies/bytedance.md) | [Cloud Acceleration Research Intern - DPU & AI Infra](https://jobs.bytedance.com/en/position/7679552807864879365/detail) | San Jose, CA | Onsite | 2026-08-31 | Rolling | 🟢 Open | ❔ |
 | [ByteDance](generated/companies/bytedance.md) | [GPU/AI Application System Software Engineer Intern](https://joinbytedance.com/search/7668464504736876853) | San Jose, CA | Onsite | 2026-08-06 | Rolling | 🟢 Open | ❔ |
 | [ByteDance](generated/companies/bytedance.md) | [GPU/AI Application System Software Engineer Intern - System Technologies and Engineering](https://jobs.bytedance.com/en/position/7668464504736876853/detail) | San Jose, CA | Onsite | 2026-08-06 | Rolling | 🟢 Open | ❔ |
 | [ByteDance](generated/companies/bytedance.md) | [Research Intern - AI Compute](https://jobs.bytedance.com/en/position/7679892629651310901/detail) | Seattle, WA | Onsite | 2026-08-31 | Rolling | 🟢 Open | ❔ |
@@ -79,6 +80,7 @@
 | [Homebase](generated/companies/homebase.md) | [Forward Deployed Engineering Intern, AI-Native](https://jobs.ashbyhq.com/homebase/a7ab59c0-786e-4675-b684-2ed19b240fb2) | Houston, TX +1 | Onsite | 2026-04-28 | Rolling | 🟢 Open | ❔ |
 | [Intelcom \| Dragonfly](generated/companies/intelcom-dragonfly.md) | [AI Data Analyst Intern](https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/AI-Data-Analyst-Intern_JR111568) | Montreal | Onsite | 2026-08-31 | Rolling | 🟢 Open | ❔ |
 | [JP Morgan Chase](generated/companies/jp-morgan-chase.md) | [Data & AI Intern - Analyst](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773869) | Palo Alto, CA +7 | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
+| [JP Morgan Chase](generated/companies/jp-morgan-chase.md) | [Data & AI Intern - Data & AI Program](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774745) | London +1 | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
 | [Jump Trading](generated/companies/jump-trading.md) | [AI Research Engineer Intern](https://boards.greenhouse.io/embed/job_app?token=8052281) | Chicago, IL +1 | Onsite | 2026-07-08 | Rolling | 🟢 Open | ❔ |
 | [Jump Trading](generated/companies/jump-trading.md) | [AI Research Engineer Intern - Research Automation](https://boards.greenhouse.io/embed/job_app?token=8052351) | Chicago, IL +1 | Onsite | 2026-07-08 | Rolling | 🟢 Open | ❔ |
 | [Jump Trading](generated/companies/jump-trading.md) | [Campus AI Research Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8052281) | Chicago | Onsite | 2026-07-08 | Rolling | 🟢 Open | ❔ |
@@ -148,6 +150,7 @@
 | [Tesla](generated/companies/tesla.md) | [Software Compiler Engineer Intern, AI Inference](https://www.tesla.com/careers/search/job/278847) | Palo Alto, CA | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
 | [Tesla](generated/companies/tesla.md) | [Software Compiler Engineer Intern, AI Inference](https://www.tesla.com/careers/search/job/247889) | Palo Alto, CA | Onsite | 2025-08-08 | Rolling | 🟢 Open | ❔ |
 | [Tesla](generated/companies/tesla.md) | [Software Engineer Intern - AI Inference Co Design](https://www.tesla.com/careers/search/job/279600) | Palo Alto, CA | Onsite | 2026-08-12 | Rolling | 🟢 Open | ❔ |
+| [Tesla](generated/companies/tesla.md) | [Software Engineer Intern - Core AI Compiler & Runtime](https://www.tesla.com/careers/search/job/281951) | Palo Alto, CA | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
 | [Tesla](generated/companies/tesla.md) | [Software Engineer Intern - Software Engineer - AI Infrastructure](https://www.tesla.com/careers/search/job/278578) | Palo Alto, CA | Onsite | 2026-07-30 | Rolling | 🟢 Open | ❔ |
 | [Tesla](generated/companies/tesla.md) | [Software Integration Engineer Intern, AI Platforms](https://www.tesla.com/careers/search/job/247873?source=Indeed&source=Indeed&tags=organicjob) | Palo Alto, CA | Onsite | 2025-08-08 | Rolling | 🟢 Open | ❔ |
 | [The Hartford](generated/companies/the-hartford.md) | [Data Engineer Intern - Technology, Data, AI, and Operations](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Chicago-IL/Tech---Data-Program-Summer-2027---Data-Engineer-Intern--Chicago-_R2626650) | Chicago, IL | Onsite | 2026-08-26 | Rolling | 🟢 Open | ❔ |
@@ -171,6 +174,8 @@
 | [TikTok](generated/companies/tiktok.md) | [Research Engineer Intern - Agentic Systems & AI Infrastructure - Tiktok-Generalized Arch](https://lifeattiktok.com/search/7667935568626043141) | San Jose, CA | Onsite | 2026-08-04 | Rolling | 🟢 Open | ❔ |
 | [TikTok](generated/companies/tiktok.md) | [Research Scientist Intern - Nextgen LLM](https://lifeattiktok.com/search/7633668061979543813) | San Jose, CA | Onsite | 2026-04-29 | Rolling | 🟢 Open | ❔ |
 | [TikTok](generated/companies/tiktok.md) | [Research Scientist Intern - TikTok Search / Generative AI - LLM](https://lifeattiktok.com/search/7629250876813642037) | San Jose, CA | Onsite | 2026-04-17 | Rolling | 🟢 Open | ❔ |
+| [Trane Technologies](generated/companies/trane-technologies.md) | [AI & Analytics Intern](https://careers.tranetechnologies.com/global/en/job/JR-7591) | Minneapolis, MN +1 | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
+| [Trane Technologies](generated/companies/trane-technologies.md) | [AI Intern - AI Product Management - AI Controls Integration](https://careers.tranetechnologies.com/global/en/job/JR-7608) | Montreal | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
 | [Turabify](generated/companies/turabify.md) | [AI Automation Intern](https://apply.workable.com/turabify-co/j/0B50CC0D49/apply) | Franklin, OH | Onsite | 2026-08-08 | Rolling | 🟢 Open | ❔ |
 | [Two Sigma](generated/companies/two-sigma.md) | [AI Research Scientist Intern - 2027 Summer](https://twosigma.avature.net/careers/JobDetail/14096) | NYC | Onsite | 2026-08-02 | Rolling | 🟢 Open | ❔ |
 | [University of St. Thomas](generated/companies/university-of-st-thomas.md) | [Semiconductor Test AI Intern - Minnesota Semiconductor AI Hub](https://studentemployment-stthomas.icims.com/jobs/9529/job?mobile=true&needsRedirect=false) | St Paul, MN | Onsite | 2026-08-18 | Rolling | 🟢 Open | ❔ |
@@ -272,8 +277,8 @@
 
 ## Hiring companies
 
-- ByteDance (17)
-- Tesla (16)
+- ByteDance (18)
+- Tesla (17)
 - TikTok (15)
 - Royal Bank of Canada (9)
 - American Express (8)
@@ -288,6 +293,7 @@
 - Cloudflare (4)
 - Bosch Home Comfort (3)
 - Crowe (3)
+- JP Morgan Chase (3)
 - The Nuclear Company (3)
 - Intel (3)
 - Autodesk (2)
@@ -295,13 +301,13 @@
 - CCC Intelligent Solutions (2)
 - Cotiviti (2)
 - Deloitte (2)
-- JP Morgan Chase (2)
 - Micron Technology (2)
 - Millennium (2)
 - onsemi (2)
 - OpusClip (2)
 - ShyftLabs (2)
 - Tenstorrent (2)
+- Trane Technologies (2)
 - Assurant (2)
 - Canva (2)
 - Cirrus Logic (2)

@@ -1,0 +1,68 @@
+{
+  "schema_version": "1.0",
+  "id": "travelers-engineering-development-intern-2027",
+  "company": {
+    "name": "Travelers",
+    "slug": "travelers"
+  },
+  "role": "Engineering Development Intern",
+  "category": "software-engineering",
+  "apply_url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Engineering-Development-Program--EDP----Intern_R-52270",
+  "season": "summer",
+  "year": 2027,
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "Hunt Valley",
+      "country": "Cockeysville"
+    },
+    {
+      "city": "Hartford",
+      "state": "CT",
+      "country": "USA"
+    },
+    {
+      "city": "Atlanta",
+      "state": "GA",
+      "country": "USA"
+    },
+    {
+      "city": "St Paul",
+      "state": "MN",
+      "country": "USA"
+    }
+  ],
+  "compensation": {
+    "currency": "USD",
+    "housing_stipend": false,
+    "relocation_assistance": false
+  },
+  "eligibility": {
+    "graduation_years": [],
+    "degree_levels": [
+      "masters"
+    ],
+    "citizenship_required": false,
+    "security_clearance_required": false,
+    "visa_sponsorship": "unknown"
+  },
+  "interview": {},
+  "tech": {
+    "required_skills": [],
+    "preferred_skills": [],
+    "languages": [],
+    "frameworks": [],
+    "cloud_platforms": [],
+    "resume_keywords": []
+  },
+  "dates": {
+    "posted": "2026-09-01",
+    "discovered": "2026-09-01",
+    "last_verified": "2026-09-01"
+  },
+  "status": "open",
+  "tags": [
+    "auto-ingested",
+    "src:simplify"
+  ]
+}

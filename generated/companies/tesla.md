@@ -54,6 +54,7 @@
 | Tesla | [Software Compiler Engineer Intern, AI Inference](https://www.tesla.com/careers/search/job/247889) | Palo Alto, CA | Onsite | 2025-08-08 | Rolling | 🟢 Open | ❔ |
 | Tesla | [Software Developer Intern, Integration Platforms](https://www.tesla.com/careers/search/job/internship-software-developer-integration-platforms-fall-2026-270037) | Palo Alto, CA | Onsite | 2026-05-09 | Rolling | 🟢 Open | ❔ |
 | Tesla | [Software Engineer Intern - AI Inference Co Design](https://www.tesla.com/careers/search/job/279600) | Palo Alto, CA | Onsite | 2026-08-12 | Rolling | 🟢 Open | ❔ |
+| Tesla | [Software Engineer Intern - Core AI Compiler & Runtime](https://www.tesla.com/careers/search/job/281951) | Palo Alto, CA | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
 | Tesla | [Software Engineer Intern - Engineering Automation - Vehicle Engineering](https://www.tesla.com/careers/search/job/279763) | Palo Alto, CA | Onsite | 2026-08-10 | Rolling | 🟢 Open | ❔ |
 | Tesla | [Software Engineer Intern - Information Security - Spring 2027](https://www.tesla.com/careers/search/job/281473) | Bellevue, WA | Onsite | 2026-08-27 | Rolling | 🟢 Open | ❔ |
 | Tesla | [Software Engineer Intern - Maps & Navigation - Robotaxi](https://www.tesla.com/careers/search/job/280960) | Palo Alto, CA | Onsite | 2026-08-26 | Rolling | 🟢 Open | ❔ |

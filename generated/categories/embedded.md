@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # ⚙️ Embedded Internships
 
-**69** tracked · **42** open now
+**70** tracked · **43** open now
 
 ## Current openings
 
@@ -18,6 +18,7 @@
 | [Cirrus Logic](generated/companies/cirrus-logic.md) | [Embedded Software Test Engineer Intern](https://jobs.eu.lever.co/cirrus/2926421c-691a-434a-ae59-c828e7fcbf5b) | Austin, TX | Onsite | 2026-07-31 | Rolling | 🟢 Open | ❔ |
 | [Daktronics](generated/companies/daktronics.md) | [Hardware Design Co-op Intern - Firmware](https://careers-daktronics.icims.com/jobs/7518/job?mobile=true&needsRedirect=false) | Brookings, SD | Onsite | 2026-08-24 | Rolling | 🟢 Open | ❔ |
 | [Draper](generated/companies/draper.md) | [Embedded Quality & Fielded Systems Intern](https://draper.wd5.myworkdayjobs.com/en-US/draper_careers/job/Cambridge-MA/Embedded-Quality---Fielded-Systems-Intern_JR002718) | Cambridge, MA | Onsite | 2026-08-21 | Rolling | 🟢 Open | ❌ |
+| [Eaton](generated/companies/eaton.md) | [Firmware Engineer Intern/Co-op - Research & Development Engineering](https://eaton.eightfold.ai/careers/job/687238596754) | Moon Twp, PA | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
 | [Etched](generated/companies/etched.md) | [Firmware Intern](https://jobs.ashbyhq.com/Etched/1efd9b58-66fe-4798-a877-776857b4e189) | San Jose, CA | Onsite | 2026-05-22 | Rolling | 🟢 Open | ❔ |
 | [Etched](generated/companies/etched.md) | [Firmware Intern](https://jobs.ashbyhq.com/Etched/8134a9bf-9624-48dd-98be-0bf1c3cb1f55) | San Jose, CA | Onsite | 2026-05-22 | Rolling | 🟢 Open | ❔ |
 | [Etched](generated/companies/etched.md) | [Firmware Intern](https://jobs.ashbyhq.com/Etched/0e78a385-c450-4749-9803-0970ce2971a5) | San Jose, CA | Onsite | 2026-05-22 | Rolling | 🟢 Open | ❔ |
@@ -96,6 +97,7 @@
 - Cirrus Logic (1)
 - Daktronics (1)
 - Draper (1)
+- Eaton (1)
 - Figure (1)
 - Generac (1)
 - Kepler Communications (1)

@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 📊 Data Science Internships
 
-**75** tracked · **61** open now
+**79** tracked · **65** open now
 
 ## Current openings
 
@@ -10,9 +10,12 @@
 |---|---|---|---|---|---|---|---|
 | [AARP](generated/companies/aarp.md) | [Data Science and Advanced Analytics Intern](https://careers.aarp.org/jobs/7437?icims=1) | Washington, DC | Onsite | 2026-08-14 | Rolling | 🟢 Open | ❔ |
 | [AlixPartners](generated/companies/alixpartners.md) | [Data Scientist Intern](https://www.alixpartners.com/careers/7725335003?gh_jid=7725335003) | NYC | Onsite | 2026-07-06 | Rolling | 🟢 Open | ❔ |
+| [American Express](generated/companies/american-express.md) | [Data Science Intern - Finance](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013191) | NYC | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
+| [American Express](generated/companies/american-express.md) | [Data Science Intern - Finance](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013190) | NYC | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
 | [American Institutes for Research](generated/companies/american-institutes-for-research.md) | [Data Science Intern](https://job-boards.greenhouse.io/americaninstitutesforresearch/jobs/5404816008) | Arlington County | Onsite | 2026-08-26 | Rolling | 🟢 Open | ❔ |
 | [Ardian](generated/companies/ardian.md) | [Data Scientist Intern](https://ardian.wd103.myworkdayjobs.com/ArdianCareers/job/New-York/Data-Scientist-Intern_JR1001434) | NYC | Onsite | 2026-05-16 | Rolling | 🟢 Open | ❔ |
 | [Bank of Montreal](generated/companies/bank-of-montreal.md) | [Data Science Risk Analyst Co-op Intern](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Data-Science-Risk-Analyst--Winter-2027--Co-op-Internship----4-Months_R260024735) | Toronto | Onsite | 2026-08-21 | Rolling | 🟢 Open | ❔ |
+| [BlueCross BlueShield of Nebraska](generated/companies/bluecross-blueshield-of-nebraska.md) | [Data Intern - Data Science - Data Analytics](https://nebraskablue.wd1.myworkdayjobs.com/BCBSNE/job/Omaha-NE/Data-Intern--Summer-2027_JR101406) | Omaha, NE | Onsite | 2026-08-31 | Rolling | 🟢 Open | ❔ |
 | [BNY](generated/companies/bny.md) | [Data Science Intern - Engineering](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81241) | Pittsburgh, PA | Onsite | 2026-08-24 | Rolling | 🟢 Open | ❔ |
 | [BNY](generated/companies/bny.md) | [Data Science Intern - Engineering](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81239) | Lake Mary, FL | Onsite | 2026-08-24 | Rolling | 🟢 Open | ❔ |
 | [BNY](generated/companies/bny.md) | [Data Science Intern - Engineering](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81240) | NYC | Onsite | 2026-08-24 | Rolling | 🟢 Open | ❔ |
@@ -68,6 +71,7 @@
 | [Vanguard](generated/companies/vanguard.md) | [Data Science Intern - College to Corporate IT](https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Charlotte-NC/College-to-Corporate-IT-Internship---Data-Science--NC-_181765) | Charlotte, NC | Onsite | 2026-08-20 | Rolling | 🟢 Open | ❔ |
 | [Vanguard](generated/companies/vanguard.md) | [Data Science Intern - Information Technology](https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship---Data-Science--PA-_181766) | Malvern, PA | Onsite | 2026-08-20 | Rolling | 🟢 Open | ❔ |
 | [Waymo](generated/companies/waymo.md) | [2027 Summer Intern, MS/PhD, Data Science - Commercialization Testing](https://careers.withwaymo.com/jobs?gh_jid=8167323) | San Francisco +1 | Onsite | 2026-08-31 | Rolling | 🟢 Open | ❔ |
+| [Wealthsimple](generated/companies/wealthsimple.md) | [Software Development Intern / Data Science Intern - Multiple Teams](https://jobs.ashbyhq.com/wealthsimple/de09418a-8a12-46aa-a371-34bafaf5be26/application?embed=true) | Toronto | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
 | [WhiteWater Midstream](generated/companies/whitewater-midstream.md) | [Data Science Intern - Summer 2027](https://job-boards.greenhouse.io/whitewatermidstream/jobs/5217853007) | Austin, TX | Onsite | 2026-08-26 | Rolling | 🟢 Open | ❔ |
 | [Arevon](generated/companies/arevon.md) | [Data Science Intern - Interconnection & Transmission](https://job-boards.greenhouse.io/arevonenergyimpltest/jobs/5211455007) | Scottsdale, AZ | Onsite | 2026-08-14 | Rolling | 🔴 Closed | ❔ |
 | [Bank of Montreal](generated/companies/bank-of-montreal.md) | [Data Scientist Co-op/Internship - Months](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Data-Scientist--Fall-2026---Co-op-Internship----12-months_R260019879) | Toronto | Onsite | 2026-07-07 | Rolling | 🔴 Closed | ❔ |
@@ -91,6 +95,7 @@
 - TikTok (5)
 - Integra FEC (3)
 - Royal Bank of Canada (3)
+- American Express (2)
 - Bank of Montreal (2)
 - Capital One (2)
 - Mastercard (2)
@@ -103,6 +108,7 @@
 - AlixPartners (1)
 - American Institutes for Research (1)
 - Ardian (1)
+- BlueCross BlueShield of Nebraska (1)
 - C3.ai (1)
 - CACI (1)
 - Citadel (1)
@@ -125,6 +131,7 @@
 - RTX (1)
 - U.S. Venture (1)
 - Waymo (1)
+- Wealthsimple (1)
 - WhiteWater Midstream (1)
 - Arevon (1)
 - Generac (1)

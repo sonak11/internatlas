@@ -2,12 +2,13 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🧠 Machine Learning Internships
 
-**155** tracked · **125** open now
+**156** tracked · **126** open now
 
 ## Current openings
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
+| [Adobe](generated/companies/adobe.md) | [Machine Learning Engineer Intern](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Machine-Learning-Engineer_R171519) | Seattle, WA +5 | Onsite | 2026-08-31 | Rolling | 🟢 Open | ❔ |
 | [Amazon](generated/companies/amazon.md) | [Applied Science Intern - Reinforcement Learning & Optimization - Machine Learning](https://amazon.jobs/en/jobs/10394278/2026-fall-applied-science-internship-reinforcement-learning-optimization-machine-learning-united-states-phd-student-science-recruiting) | Palo Alto, CA +7 | Onsite | 2026-04-16 | Rolling | 🟢 Open | ❔ |
 | [AMD](generated/companies/amd.md) | [Machine Learning Intern/Co-op - Artificial Intelligence](https://careers.amd.com/jobs/91181?icims=1) | Rochester, NY +5 | Onsite | 2026-08-21 | Rolling | 🟢 Open | ❔ |
 | [AMD](generated/companies/amd.md) | [Machine Learning Intern/Co-op - Machine Learning - Artificial Intelligence](https://careers.amd.com/jobs/91177?icims=1) | San Jose, CA +1 | Onsite | 2026-08-21 | Rolling | 🟢 Open | ❔ |
@@ -176,6 +177,7 @@
 - NVIDIA (4)
 - Netflix (3)
 - The Nuclear Company (3)
+- Adobe (2)
 - Castleton Commodities International (2)
 - Jane Street (2)
 - Microsoft (2)
@@ -217,7 +219,6 @@
 - TMEIC Corporation Americas (1)
 - Wex (1)
 - X Development (1)
-- Adobe (1)
 - Apptronik (1)
 - Autodesk (1)
 - Axogen (1)

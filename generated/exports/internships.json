@@ -1,6 +1,6 @@
 {
   "generated": "2026-09-01",
-  "count": 2846,
+  "count": 2906,
   "internships": [
     {
       "schema_version": "1.0",
@@ -907,6 +907,84 @@
     },
     {
       "schema_version": "1.0",
+      "id": "adobe-machine-learning-engineer-intern-2027",
+      "company": {
+        "name": "Adobe",
+        "slug": "adobe"
+      },
+      "role": "Machine Learning Engineer Intern",
+      "category": "machine-learning",
+      "apply_url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Machine-Learning-Engineer_R171519",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Seattle",
+          "state": "WA",
+          "country": "USA"
+        },
+        {
+          "city": "SF",
+          "country": "USA"
+        },
+        {
+          "city": "Austin",
+          "state": "TX",
+          "country": "USA"
+        },
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        },
+        {
+          "city": "NYC",
+          "country": "USA"
+        },
+        {
+          "city": "Lehi",
+          "state": "UT",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters",
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-31",
+        "discovered": "2026-09-01",
+        "last_verified": "2026-09-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "adtheorant-enterprise-ai-intern-2026",
       "company": {
         "name": "Adtheorant",
@@ -1740,7 +1818,7 @@
         "discovered": "2026-08-07",
         "last_verified": "2026-09-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -6915,6 +6993,428 @@
     },
     {
       "schema_version": "1.0",
+      "id": "american-express-data-analytics-intern-enterprise-technology-services-2027-023a4e",
+      "company": {
+        "name": "American Express",
+        "slug": "american-express"
+      },
+      "role": "Data Analytics Intern - Enterprise Technology Services",
+      "category": "software-engineering",
+      "apply_url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012703",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Phoenix",
+          "state": "AZ",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-01",
+        "discovered": "2026-09-01",
+        "last_verified": "2026-09-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "american-express-data-analytics-intern-enterprise-technology-services-2027-07d163",
+      "company": {
+        "name": "American Express",
+        "slug": "american-express"
+      },
+      "role": "Data Analytics Intern - Enterprise Technology Services",
+      "category": "software-engineering",
+      "apply_url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012729",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Phoenix",
+          "state": "AZ",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-01",
+        "discovered": "2026-09-01",
+        "last_verified": "2026-09-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "american-express-data-analytics-intern-enterprise-technology-services-2027-1626dc",
+      "company": {
+        "name": "American Express",
+        "slug": "american-express"
+      },
+      "role": "Data Analytics Intern - Enterprise Technology Services",
+      "category": "software-engineering",
+      "apply_url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012782",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Palo Alto",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-01",
+        "discovered": "2026-09-01",
+        "last_verified": "2026-09-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "american-express-data-analytics-intern-enterprise-technology-services-2027-2d1b29",
+      "company": {
+        "name": "American Express",
+        "slug": "american-express"
+      },
+      "role": "Data Analytics Intern - Enterprise Technology Services",
+      "category": "software-engineering",
+      "apply_url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011813",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "NYC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-01",
+        "discovered": "2026-09-01",
+        "last_verified": "2026-09-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "american-express-data-analytics-intern-enterprise-technology-services-2027-2ddec3",
+      "company": {
+        "name": "American Express",
+        "slug": "american-express"
+      },
+      "role": "Data Analytics Intern - Enterprise Technology Services",
+      "category": "software-engineering",
+      "apply_url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011818",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Palo Alto",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-01",
+        "discovered": "2026-09-01",
+        "last_verified": "2026-09-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "american-express-data-analytics-intern-enterprise-technology-services-2027-587ea6",
+      "company": {
+        "name": "American Express",
+        "slug": "american-express"
+      },
+      "role": "Data Analytics Intern - Enterprise Technology Services",
+      "category": "software-engineering",
+      "apply_url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012783",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "NYC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-01",
+        "discovered": "2026-09-01",
+        "last_verified": "2026-09-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "american-express-data-analytics-intern-enterprise-technology-services-2027-d5b1b0",
+      "company": {
+        "name": "American Express",
+        "slug": "american-express"
+      },
+      "role": "Data Analytics Intern - Enterprise Technology Services",
+      "category": "software-engineering",
+      "apply_url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012784",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Charlotte",
+          "state": "NC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-01",
+        "discovered": "2026-09-01",
+        "last_verified": "2026-09-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "american-express-data-analytics-intern-enterprise-technology-services-2027",
+      "company": {
+        "name": "American Express",
+        "slug": "american-express"
+      },
+      "role": "Data Analytics Intern - Enterprise Technology Services",
+      "category": "software-engineering",
+      "apply_url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011807",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Charlotte",
+          "state": "NC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-01",
+        "discovered": "2026-09-01",
+        "last_verified": "2026-09-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "american-express-data-analytics-intern-global-servicing-financial-crimes-risk-2027",
       "company": {
         "name": "American Express",
@@ -6966,6 +7466,535 @@
     },
     {
       "schema_version": "1.0",
+      "id": "american-express-data-analytics-intern-us-consumer-services-2027",
+      "company": {
+        "name": "American Express",
+        "slug": "american-express"
+      },
+      "role": "Data Analytics Intern - US Consumer Services",
+      "category": "software-engineering",
+      "apply_url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011607",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "NYC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-01",
+        "discovered": "2026-09-01",
+        "last_verified": "2026-09-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "american-express-data-engineer-intern-enterprise-technology-services-2027-6349f1",
+      "company": {
+        "name": "American Express",
+        "slug": "american-express"
+      },
+      "role": "Data Engineer Intern - Enterprise Technology Services",
+      "category": "data-engineering",
+      "apply_url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012764",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Charlotte",
+          "state": "NC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-01",
+        "discovered": "2026-09-01",
+        "last_verified": "2026-09-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "american-express-data-engineer-intern-enterprise-technology-services-2027-66aa72",
+      "company": {
+        "name": "American Express",
+        "slug": "american-express"
+      },
+      "role": "Data Engineer Intern - Enterprise Technology Services",
+      "category": "data-engineering",
+      "apply_url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012781",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Sunrise",
+          "state": "FL",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-01",
+        "discovered": "2026-09-01",
+        "last_verified": "2026-09-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "american-express-data-engineer-intern-enterprise-technology-services-2027-7d8d40",
+      "company": {
+        "name": "American Express",
+        "slug": "american-express"
+      },
+      "role": "Data Engineer Intern - Enterprise Technology Services",
+      "category": "data-engineering",
+      "apply_url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011831",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Sunrise",
+          "state": "FL",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-01",
+        "discovered": "2026-09-01",
+        "last_verified": "2026-09-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "american-express-data-engineer-intern-enterprise-technology-services-2027-e0e8bb",
+      "company": {
+        "name": "American Express",
+        "slug": "american-express"
+      },
+      "role": "Data Engineer Intern - Enterprise Technology Services",
+      "category": "data-engineering",
+      "apply_url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012339",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Phoenix",
+          "state": "AZ",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-01",
+        "discovered": "2026-09-01",
+        "last_verified": "2026-09-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "american-express-data-engineer-intern-enterprise-technology-services-2027-e64a65",
+      "company": {
+        "name": "American Express",
+        "slug": "american-express"
+      },
+      "role": "Data Engineer Intern - Enterprise Technology Services",
+      "category": "data-engineering",
+      "apply_url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012333",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Phoenix",
+          "state": "AZ",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-01",
+        "discovered": "2026-09-01",
+        "last_verified": "2026-09-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "american-express-data-engineer-intern-enterprise-technology-services-2027",
+      "company": {
+        "name": "American Express",
+        "slug": "american-express"
+      },
+      "role": "Data Engineer Intern - Enterprise Technology Services",
+      "category": "data-engineering",
+      "apply_url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011828",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Charlotte",
+          "state": "NC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-01",
+        "discovered": "2026-09-01",
+        "last_verified": "2026-09-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "american-express-data-management-intern-global-merchant-network-services-2027",
+      "company": {
+        "name": "American Express",
+        "slug": "american-express"
+      },
+      "role": "Data Management Intern - Global Merchant & Network Services",
+      "category": "software-engineering",
+      "apply_url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012668",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Phoenix",
+          "state": "AZ",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-01",
+        "discovered": "2026-09-01",
+        "last_verified": "2026-09-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "american-express-data-science-intern-finance-2027-16c670",
+      "company": {
+        "name": "American Express",
+        "slug": "american-express"
+      },
+      "role": "Data Science Intern - Finance",
+      "category": "data-science",
+      "apply_url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013191",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "NYC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-01",
+        "discovered": "2026-09-01",
+        "last_verified": "2026-09-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "american-express-data-science-intern-finance-2027",
+      "company": {
+        "name": "American Express",
+        "slug": "american-express"
+      },
+      "role": "Data Science Intern - Finance",
+      "category": "data-science",
+      "apply_url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013190",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "NYC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-01",
+        "discovered": "2026-09-01",
+        "last_verified": "2026-09-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "american-express-digital-product-analyst-intern-2027",
       "company": {
         "name": "American Express",
@@ -7007,6 +8036,375 @@
       "dates": {
         "posted": "2026-08-03",
         "discovered": "2026-08-03",
+        "last_verified": "2026-09-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "american-express-digital-product-management-intern-enterprise-technology-serv-2027-13ba62",
+      "company": {
+        "name": "American Express",
+        "slug": "american-express"
+      },
+      "role": "Digital Product Management Intern - Enterprise Technology Services",
+      "category": "product",
+      "apply_url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012057",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "NYC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-01",
+        "discovered": "2026-09-01",
+        "last_verified": "2026-09-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "american-express-digital-product-management-intern-enterprise-technology-serv-2027-3efaab",
+      "company": {
+        "name": "American Express",
+        "slug": "american-express"
+      },
+      "role": "Digital Product Management Intern - Enterprise Technology Services",
+      "category": "product",
+      "apply_url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011627",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Sunrise",
+          "state": "FL",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-01",
+        "discovered": "2026-09-01",
+        "last_verified": "2026-09-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "american-express-digital-product-management-intern-enterprise-technology-serv-2027-68aa1e",
+      "company": {
+        "name": "American Express",
+        "slug": "american-express"
+      },
+      "role": "Digital Product Management Intern - Enterprise Technology Services",
+      "category": "product",
+      "apply_url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012681",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Phoenix",
+          "state": "AZ",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-01",
+        "discovered": "2026-09-01",
+        "last_verified": "2026-09-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "american-express-digital-product-management-intern-enterprise-technology-serv-2027-a1cfa7",
+      "company": {
+        "name": "American Express",
+        "slug": "american-express"
+      },
+      "role": "Digital Product Management Intern - Enterprise Technology Services",
+      "category": "product",
+      "apply_url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012678",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Phoenix",
+          "state": "AZ",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-01",
+        "discovered": "2026-09-01",
+        "last_verified": "2026-09-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "american-express-digital-product-management-intern-enterprise-technology-serv-2027-ec15f5",
+      "company": {
+        "name": "American Express",
+        "slug": "american-express"
+      },
+      "role": "Digital Product Management Intern - Enterprise Technology Services",
+      "category": "product",
+      "apply_url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012145",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Sunrise",
+          "state": "FL",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-01",
+        "discovered": "2026-09-01",
+        "last_verified": "2026-09-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "american-express-digital-product-management-intern-enterprise-technology-serv-2027",
+      "company": {
+        "name": "American Express",
+        "slug": "american-express"
+      },
+      "role": "Digital Product Management Intern - Enterprise Technology Services",
+      "category": "product",
+      "apply_url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011143",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "NYC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-01",
+        "discovered": "2026-09-01",
+        "last_verified": "2026-09-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "american-express-product-development-intern-2027-product-development-us-consu-2027",
+      "company": {
+        "name": "American Express",
+        "slug": "american-express"
+      },
+      "role": "Product Development Intern - 2027 Product Development - US Consumer Services",
+      "category": "software-engineering",
+      "apply_url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011605",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "NYC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-01",
+        "discovered": "2026-09-01",
         "last_verified": "2026-09-01"
       },
       "status": "open",
@@ -7473,6 +8871,113 @@
       "dates": {
         "posted": "2026-08-05",
         "discovered": "2026-08-05",
+        "last_verified": "2026-09-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "american-express-product-management-intern-global-merchant-network-services-2027-9ee746",
+      "company": {
+        "name": "American Express",
+        "slug": "american-express"
+      },
+      "role": "Product Management Intern - Global Merchant & Network Services",
+      "category": "product",
+      "apply_url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012636",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "NYC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-01",
+        "discovered": "2026-09-01",
+        "last_verified": "2026-09-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "american-express-product-management-intern-global-merchant-network-services-2027-d257dc",
+      "company": {
+        "name": "American Express",
+        "slug": "american-express"
+      },
+      "role": "Product Management Intern - Global Merchant & Network Services",
+      "category": "product",
+      "apply_url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012638",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Phoenix",
+          "state": "AZ",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-01",
+        "discovered": "2026-09-01",
         "last_verified": "2026-09-01"
       },
       "status": "open",
@@ -16819,6 +18324,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "bluecross-blueshield-of-nebraska-data-intern-data-science-data-analytics-2027",
+      "company": {
+        "name": "BlueCross BlueShield of Nebraska",
+        "slug": "bluecross-blueshield-of-nebraska"
+      },
+      "role": "Data Intern - Data Science - Data Analytics",
+      "category": "data-science",
+      "apply_url": "https://nebraskablue.wd1.myworkdayjobs.com/BCBSNE/job/Omaha-NE/Data-Intern--Summer-2027_JR101406",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Omaha",
+          "state": "NE",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-31",
+        "discovered": "2026-09-01",
+        "last_verified": "2026-09-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "bmo-machine-learning-intern-2026",
       "company": {
         "name": "BMO",
@@ -21859,7 +23416,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "bytedance-cloud-acceleration-research-intern-dpu-ai-infra-2027",
+      "id": "bytedance-cloud-acceleration-research-intern-dpu-ai-infra-2027-2276cb",
       "company": {
         "name": "ByteDance",
         "slug": "bytedance"
@@ -21874,6 +23431,60 @@
         {
           "city": "Seattle",
           "state": "WA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-31",
+        "discovered": "2026-09-01",
+        "last_verified": "2026-09-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "bytedance-cloud-acceleration-research-intern-dpu-ai-infra-2027",
+      "company": {
+        "name": "ByteDance",
+        "slug": "bytedance"
+      },
+      "role": "Cloud Acceleration Research Intern - DPU & AI Infra",
+      "category": "ai",
+      "apply_url": "https://jobs.bytedance.com/en/position/7679552807864879365/detail",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
           "country": "USA"
         }
       ],
@@ -41614,6 +43225,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "eaton-firmware-engineer-intern-co-op-research-development-engineer-2027",
+      "company": {
+        "name": "Eaton",
+        "slug": "eaton"
+      },
+      "role": "Firmware Engineer Intern/Co-op - Research & Development Engineering",
+      "category": "embedded",
+      "apply_url": "https://eaton.eightfold.ai/careers/job/687238596754",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Moon Twp",
+          "state": "PA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-01",
+        "discovered": "2026-09-01",
+        "last_verified": "2026-09-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "ecolab-digital-ai-technology-intern-2027",
       "company": {
         "name": "Ecolab",
@@ -46795,6 +48458,110 @@
         "last_verified": "2026-09-01"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "first-national-bank-capital-markets-intern-2027",
+      "company": {
+        "name": "First National Bank",
+        "slug": "first-national-bank"
+      },
+      "role": "Capital Markets Intern",
+      "category": "software-engineering",
+      "apply_url": "https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Pittsburgh-PA/Summer-2027-Capital-Markets-Intern_2026-02010",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Pittsburgh",
+          "state": "PA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-01",
+        "discovered": "2026-09-01",
+        "last_verified": "2026-09-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "first-national-bank-retail-administration-analytics-intern-2027",
+      "company": {
+        "name": "First National Bank",
+        "slug": "first-national-bank"
+      },
+      "role": "Retail Administration Analytics Intern",
+      "category": "software-engineering",
+      "apply_url": "https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Pittsburgh-PA/Summer-2027-Retail-Administration-Analytics-Intern_2026-02039",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Pittsburgh",
+          "state": "PA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-01",
+        "discovered": "2026-09-01",
+        "last_verified": "2026-09-01"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -52484,7 +54251,7 @@
         "discovered": "2026-08-27",
         "last_verified": "2026-09-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -52536,7 +54303,7 @@
         "discovered": "2026-08-20",
         "last_verified": "2026-09-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -52589,7 +54356,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-09-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -52642,7 +54409,7 @@
         "discovered": "2026-08-24",
         "last_verified": "2026-09-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -52695,7 +54462,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-09-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -52746,7 +54513,7 @@
         "discovered": "2026-08-30",
         "last_verified": "2026-09-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -52797,7 +54564,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-09-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -52850,7 +54617,7 @@
         "discovered": "2026-08-20",
         "last_verified": "2026-09-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -52904,7 +54671,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-09-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -52955,7 +54722,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-09-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -53006,7 +54773,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-09-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -53059,7 +54826,7 @@
         "discovered": "2026-08-29",
         "last_verified": "2026-09-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -53112,7 +54879,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-09-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -62269,7 +64036,7 @@
         "discovered": "2026-08-20",
         "last_verified": "2026-09-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -63636,6 +65403,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "isn-software-software-developer-intern-fall-2026-2027",
+      "company": {
+        "name": "ISN Software",
+        "slug": "isn-software"
+      },
+      "role": "Software Developer Intern - Fall 2026",
+      "category": "software-engineering",
+      "apply_url": "https://isnetworld.com/en/about/careers/jobs?gh_jid=6176204004",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Dallas",
+          "state": "TX",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-01",
+        "discovered": "2026-09-01",
+        "last_verified": "2026-09-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "jabil-supply-chain-data-analyst-intern-2026",
       "company": {
         "name": "Jabil",
@@ -64679,6 +66498,61 @@
     },
     {
       "schema_version": "1.0",
+      "id": "johns-hopkins-applied-physics-laboratory-signal-processing-intern-multiple-teams-2027",
+      "company": {
+        "name": "Johns Hopkins Applied Physics Laboratory",
+        "slug": "johns-hopkins-applied-physics-laboratory"
+      },
+      "role": "Signal Processing Intern - Multiple Teams",
+      "category": "software-engineering",
+      "apply_url": "https://careers.jhuapl.edu/jobs/59875?icims=1",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Laurel",
+          "state": "MD",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters",
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-01",
+        "discovered": "2026-09-01",
+        "last_verified": "2026-09-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "johns-manville-product-management-intern-2027",
       "company": {
         "name": "Johns Manville",
@@ -64923,6 +66797,63 @@
     },
     {
       "schema_version": "1.0",
+      "id": "jp-morgan-chase-data-ai-intern-data-ai-program-2027",
+      "company": {
+        "name": "JP Morgan Chase",
+        "slug": "jp-morgan-chase"
+      },
+      "role": "Data & AI Intern - Data & AI Program",
+      "category": "ai",
+      "apply_url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774745",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "London",
+          "country": "UK"
+        },
+        {
+          "city": "Glasgow",
+          "country": "UK"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-01",
+        "discovered": "2026-09-01",
+        "last_verified": "2026-09-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "jp-morgan-chase-data-internship-data-ai-program-2027",
       "company": {
         "name": "JP Morgan Chase",
@@ -65004,6 +66935,59 @@
         "last_verified": "2026-08-21"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "jp-morgan-chase-product-manager-intern-chase-digital-development-programme-2027",
+      "company": {
+        "name": "JP Morgan Chase",
+        "slug": "jp-morgan-chase"
+      },
+      "role": "Product Manager Intern - Chase Digital Development Programme",
+      "category": "product",
+      "apply_url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210775305",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "London",
+          "country": "UK"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-01",
+        "discovered": "2026-09-01",
+        "last_verified": "2026-09-01"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -65239,6 +67223,59 @@
     },
     {
       "schema_version": "1.0",
+      "id": "jp-morgan-chase-software-engineer-intern-immersion-program-2027",
+      "company": {
+        "name": "JP Morgan Chase",
+        "slug": "jp-morgan-chase"
+      },
+      "role": "Software Engineer Intern - Immersion Program",
+      "category": "software-engineering",
+      "apply_url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774813",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Glasgow",
+          "country": "UK"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-01",
+        "discovered": "2026-09-01",
+        "last_verified": "2026-09-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "jp-morgan-chase-software-engineer-intern-software-engineer-program-2027",
       "company": {
         "name": "JP Morgan Chase",
@@ -65322,6 +67359,114 @@
       "dates": {
         "posted": "2026-08-03",
         "discovered": "2026-08-03",
+        "last_verified": "2026-09-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "jp-morgan-chase-software-engineer-intern-summer-internship-2027",
+      "company": {
+        "name": "JP Morgan Chase",
+        "slug": "jp-morgan-chase"
+      },
+      "role": "Software Engineer Intern - Summer Internship",
+      "category": "software-engineering",
+      "apply_url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774716",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "London",
+          "country": "UK"
+        },
+        {
+          "city": "Glasgow",
+          "country": "UK"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-01",
+        "discovered": "2026-09-01",
+        "last_verified": "2026-09-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "jp-morgan-chase-summer-analyst-intern-corporate-functions-corporate-analyst-2027",
+      "company": {
+        "name": "JP Morgan Chase",
+        "slug": "jp-morgan-chase"
+      },
+      "role": "Summer Analyst Intern - Corporate Functions - Corporate Analyst Development Program",
+      "category": "software-engineering",
+      "apply_url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210775228",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Bournemouth",
+          "country": "UK"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-01",
+        "discovered": "2026-09-01",
         "last_verified": "2026-09-01"
       },
       "status": "open",
@@ -67969,6 +70114,112 @@
       "dates": {
         "posted": "2026-07-21",
         "discovered": "2026-07-21",
+        "last_verified": "2026-09-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "k2-space-radio-frequency-engineer-intern-summer-2027-2027",
+      "company": {
+        "name": "K2 Space",
+        "slug": "k2-space"
+      },
+      "role": "Radio Frequency Engineer Intern - Summer 2027",
+      "category": "software-engineering",
+      "apply_url": "https://job-boards.greenhouse.io/k2spacecorporation/jobs/5411919008",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "state": "LA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-01",
+        "discovered": "2026-09-01",
+        "last_verified": "2026-09-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "k2-space-software-engineer-intern-summer-2027-2027",
+      "company": {
+        "name": "K2 Space",
+        "slug": "k2-space"
+      },
+      "role": "Software Engineer Intern - Summer 2027",
+      "category": "software-engineering",
+      "apply_url": "https://job-boards.greenhouse.io/k2spacecorporation/jobs/5411920008",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "state": "LA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-01",
+        "discovered": "2026-09-01",
         "last_verified": "2026-09-01"
       },
       "status": "open",
@@ -75060,7 +77311,7 @@
         "discovered": "2026-08-24",
         "last_verified": "2026-09-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -76917,6 +79168,162 @@
         "last_verified": "2026-07-31"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "merchants-bank-of-indiana-business-technology-intern-application-development-2027",
+      "company": {
+        "name": "Merchants Bank of Indiana",
+        "slug": "merchants-bank-of-indiana"
+      },
+      "role": "Business Technology Intern - Application Development",
+      "category": "software-engineering",
+      "apply_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4464054",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Carmel",
+          "state": "IN",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-31",
+        "discovered": "2026-09-01",
+        "last_verified": "2026-09-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "merchants-bank-of-indiana-business-technology-intern-summer-2027-2027",
+      "company": {
+        "name": "Merchants Bank of Indiana",
+        "slug": "merchants-bank-of-indiana"
+      },
+      "role": "Business Technology Intern - Summer 2027",
+      "category": "software-engineering",
+      "apply_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4464029",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Carmel",
+          "state": "IN",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-31",
+        "discovered": "2026-09-01",
+        "last_verified": "2026-09-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "merchants-bank-of-indiana-capital-markets-intern-single-family-2027",
+      "company": {
+        "name": "Merchants Bank of Indiana",
+        "slug": "merchants-bank-of-indiana"
+      },
+      "role": "Capital Markets Intern - Single-Family",
+      "category": "software-engineering",
+      "apply_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4464116",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Carmel",
+          "state": "IN",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-31",
+        "discovered": "2026-09-01",
+        "last_verified": "2026-09-01"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -80838,6 +83245,58 @@
       "tags": [
         "auto-ingested",
         "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "momentive-service-quality-intern-2027",
+      "company": {
+        "name": "Momentive",
+        "slug": "momentive"
+      },
+      "role": "Service Quality Intern",
+      "category": "software-engineering",
+      "apply_url": "https://momentive.wd1.myworkdayjobs.com/MC/job/US-NY-Waterford/Summer-2027-Intern---Service-Quality_R9767",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Waterford",
+          "state": "NY",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-01",
+        "discovered": "2026-09-01",
+        "last_verified": "2026-09-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
       ]
     },
     {
@@ -106832,7 +109291,7 @@
         "discovered": "2026-07-29",
         "last_verified": "2026-09-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -110415,6 +112874,60 @@
     },
     {
       "schema_version": "1.0",
+      "id": "rtx-software-engineer-intern-2027-87ac25",
+      "company": {
+        "name": "RTX",
+        "slug": "rtx"
+      },
+      "role": "Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-107--400-Collins-Rd-NE--BLDG-107/Software-Engineering-Intern--Summer-2027-_01871019",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Cedar Rapids",
+          "state": "IA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-31",
+        "discovered": "2026-09-01",
+        "last_verified": "2026-09-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "rtx-software-engineer-intern-2027-9488d0",
       "company": {
         "name": "RTX",
@@ -110743,14 +113256,14 @@
       },
       "role": "Software Engineer Intern",
       "category": "software-engineering",
-      "apply_url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-FL-JUPITER-ADR--17900-Beeline-Hwy--ADR-BLDG/Software-Engineering-Intern--Summer-2027-_01868485",
+      "apply_url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/Software-Engineering-Intern--Summer-2027-_01870410",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
       "locations": [
         {
-          "city": "Jupiter",
-          "state": "FL",
+          "city": "Aurora",
+          "state": "CO",
           "country": "USA"
         }
       ],
@@ -110778,7 +113291,7 @@
         "resume_keywords": []
       },
       "dates": {
-        "posted": "2026-08-25",
+        "posted": "2026-08-31",
         "discovered": "2026-07-27",
         "last_verified": "2026-09-01"
       },
@@ -115213,6 +117726,63 @@
     },
     {
       "schema_version": "1.0",
+      "id": "sierra-software-engineer-intern-2027",
+      "company": {
+        "name": "Sierra",
+        "slug": "sierra"
+      },
+      "role": "Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://jobs.ashbyhq.com/Sierra/34b31b67-268c-4270-b48f-72e59064c96e/application?embed=true",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "SF",
+          "country": "USA"
+        },
+        {
+          "city": "NYC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-01",
+        "discovered": "2026-09-01",
+        "last_verified": "2026-09-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "sightcall-web-developer-intern-2026",
       "company": {
         "name": "SightCall",
@@ -116739,7 +119309,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-09-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -116842,6 +119412,114 @@
         "last_verified": "2026-07-31"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "southwest-airlines-software-engineer-intern-multiple-teams-2027",
+      "company": {
+        "name": "Southwest Airlines",
+        "slug": "southwest-airlines"
+      },
+      "role": "Software Engineer Intern - Multiple Teams",
+      "category": "software-engineering",
+      "apply_url": "https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Spring-2027-Software-Engineering-Internships_R-2026-71386",
+      "season": "spring",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Dallas",
+          "state": "TX",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-01",
+        "discovered": "2026-09-01",
+        "last_verified": "2026-09-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "southwest-airlines-technology-analyst-intern-2027",
+      "company": {
+        "name": "Southwest Airlines",
+        "slug": "southwest-airlines"
+      },
+      "role": "Technology Analyst Intern",
+      "category": "software-engineering",
+      "apply_url": "https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Spring-2027-Technology-Analyst-Internships_R-2026-71388",
+      "season": "spring",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Dallas",
+          "state": "TX",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-01",
+        "discovered": "2026-09-01",
+        "last_verified": "2026-09-01"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -120659,7 +123337,7 @@
         "discovered": "2026-09-01",
         "last_verified": "2026-09-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -123059,6 +125737,109 @@
         "last_verified": "2026-08-25"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "tc-energy-engineering-intern-2027",
+      "company": {
+        "name": "TC Energy",
+        "slug": "tc-energy"
+      },
+      "role": "Engineering Intern",
+      "category": "software-engineering",
+      "apply_url": "https://tcenergy.wd3.myworkdayjobs.com/CAREER_SITE_TC/job/Charleston-West-Virginia/Student-Intern--Engineering_JR-10741",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Charleston",
+          "state": "WV",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-01",
+        "discovered": "2026-09-01",
+        "last_verified": "2026-09-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "td-bank-direct-investing-intern-co-op-winter-2027-2027",
+      "company": {
+        "name": "TD Bank",
+        "slug": "td-bank"
+      },
+      "role": "Direct Investing Intern/Co-op - Winter 2027",
+      "category": "software-engineering",
+      "apply_url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Direct-Investing-Journey-Intern-Co-Op--Winter-2027-_R_1507625",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Toronto",
+          "country": "ON"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-01",
+        "discovered": "2026-09-01",
+        "last_verified": "2026-09-01"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -128288,6 +131069,58 @@
       "dates": {
         "posted": "2026-08-12",
         "discovered": "2026-08-12",
+        "last_verified": "2026-09-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "tesla-software-engineer-intern-core-ai-compiler-runtime-2027",
+      "company": {
+        "name": "Tesla",
+        "slug": "tesla"
+      },
+      "role": "Software Engineer Intern - Core AI Compiler & Runtime",
+      "category": "ai",
+      "apply_url": "https://www.tesla.com/careers/search/job/281951",
+      "season": "spring",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Palo Alto",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-01",
+        "discovered": "2026-09-01",
         "last_verified": "2026-09-01"
       },
       "status": "open",
@@ -134122,7 +136955,7 @@
         "discovered": "2026-08-24",
         "last_verified": "2026-09-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -134184,7 +137017,7 @@
         "discovered": "2026-08-24",
         "last_verified": "2026-09-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -144046,6 +146879,114 @@
     },
     {
       "schema_version": "1.0",
+      "id": "trane-technologies-ai-analytics-intern-2027",
+      "company": {
+        "name": "Trane Technologies",
+        "slug": "trane-technologies"
+      },
+      "role": "AI & Analytics Intern",
+      "category": "ai",
+      "apply_url": "https://careers.tranetechnologies.com/global/en/job/JR-7591",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Minneapolis",
+          "state": "MN",
+          "country": "USA"
+        },
+        {
+          "city": "Davidson",
+          "state": "NC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-01",
+        "discovered": "2026-09-01",
+        "last_verified": "2026-09-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "trane-technologies-ai-intern-ai-product-management-ai-controls-integration-2027",
+      "company": {
+        "name": "Trane Technologies",
+        "slug": "trane-technologies"
+      },
+      "role": "AI Intern - AI Product Management - AI Controls Integration",
+      "category": "ai",
+      "apply_url": "https://careers.tranetechnologies.com/global/en/job/JR-7608",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Montreal",
+          "country": "QC"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-01",
+        "discovered": "2026-09-01",
+        "last_verified": "2026-09-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "transmarket-group-algorithmic-trader-intern-2026",
       "company": {
         "name": "TransMarket Group",
@@ -144367,6 +147308,133 @@
       "tags": [
         "auto-ingested",
         "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "travelers-business-insights-analytics-intern-bi-a-ldp-2027",
+      "company": {
+        "name": "Travelers",
+        "slug": "travelers"
+      },
+      "role": "Business Insights & Analytics Intern - BI&A LDP",
+      "category": "software-engineering",
+      "apply_url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Business-Insights---Analytics-Leadership-Development-Program--BI-A-LDP--Intern_R-52304",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Hartford",
+          "state": "CT",
+          "country": "USA"
+        },
+        {
+          "city": "St Paul",
+          "state": "MN",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-01",
+        "discovered": "2026-09-01",
+        "last_verified": "2026-09-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "travelers-engineering-development-intern-2027",
+      "company": {
+        "name": "Travelers",
+        "slug": "travelers"
+      },
+      "role": "Engineering Development Intern",
+      "category": "software-engineering",
+      "apply_url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Engineering-Development-Program--EDP----Intern_R-52270",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Hunt Valley",
+          "country": "Cockeysville"
+        },
+        {
+          "city": "Hartford",
+          "state": "CT",
+          "country": "USA"
+        },
+        {
+          "city": "Atlanta",
+          "state": "GA",
+          "country": "USA"
+        },
+        {
+          "city": "St Paul",
+          "state": "MN",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-01",
+        "discovered": "2026-09-01",
+        "last_verified": "2026-09-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
       ]
     },
     {
@@ -147678,6 +150746,57 @@
         "last_verified": "2026-08-07"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "verdantas-data-analytics-intern-2027",
+      "company": {
+        "name": "Verdantas",
+        "slug": "verdantas"
+      },
+      "role": "Data Analytics Intern",
+      "category": "software-engineering",
+      "apply_url": "https://verdantas.wd108.myworkdayjobs.com/Verdantas/job/Remote-TX/Data-Analytics-Intern-Summer-2027_R-101128",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Texas",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-31",
+        "discovered": "2026-09-01",
+        "last_verified": "2026-09-01"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -151596,6 +154715,57 @@
     },
     {
       "schema_version": "1.0",
+      "id": "wealthsimple-software-development-intern-data-science-intern-multiple-tea-2027",
+      "company": {
+        "name": "Wealthsimple",
+        "slug": "wealthsimple"
+      },
+      "role": "Software Development Intern / Data Science Intern - Multiple Teams",
+      "category": "data-science",
+      "apply_url": "https://jobs.ashbyhq.com/wealthsimple/de09418a-8a12-46aa-a371-34bafaf5be26/application?embed=true",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Toronto",
+          "country": "ON"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-01",
+        "discovered": "2026-09-01",
+        "last_verified": "2026-09-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "weave-data-engineer-intern-2026",
       "company": {
         "name": "Weave",
@@ -152687,6 +155857,70 @@
         "last_verified": "2026-08-10"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "whatnot-software-engineer-intern-2027",
+      "company": {
+        "name": "WhatNot",
+        "slug": "whatnot"
+      },
+      "role": "Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://jobs.ashbyhq.com/whatnot/928ffdca-b316-40ce-b82b-94b570919bcd/application?embed=true",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Seattle",
+          "state": "WA",
+          "country": "USA"
+        },
+        {
+          "city": "SF",
+          "country": "USA"
+        },
+        {
+          "state": "LA",
+          "country": "USA"
+        },
+        {
+          "city": "NYC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-01",
+        "discovered": "2026-09-01",
+        "last_verified": "2026-09-01"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
