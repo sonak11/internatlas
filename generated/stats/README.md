@@ -10,37 +10,37 @@ _Generated 2026-09-01_
 |---|---|
 | TikTok | 151 |
 | Tesla | 127 |
-| RTX | 74 |
-| American Express | 60 |
-| ByteDance | 58 |
-| AMD | 50 |
+| RTX | 78 |
+| American Express | 61 |
+| ByteDance | 59 |
+| AMD | 54 |
 | Jump Trading | 47 |
-| Royal Bank of Canada | 37 |
+| Royal Bank of Canada | 39 |
 | L3Harris Technologies | 35 |
 | Qorvo | 35 |
 | Cloudflare | 34 |
 | NVIDIA | 30 |
 | The Walt Disney Company | 28 |
+| Booz Allen | 27 |
 | IMC Trading | 26 |
 | SpaceX | 25 |
 | Neuralink | 22 |
 | Susquehanna International Group (SIG) | 22 |
 | Zipline | 22 |
-| Booz Allen | 19 |
-| Vertiv | 19 |
+| Microsoft | 21 |
 
 ## Listings by category
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 1639 | `██████████████` |
-| ai | 266 | `██` |
-| quant | 223 | `██` |
-| machine-learning | 158 | `█` |
+| software-engineering | 1671 | `██████████████` |
+| ai | 268 | `██` |
+| quant | 232 | `██` |
+| machine-learning | 160 | `█` |
 | hardware | 118 | `█` |
-| research | 116 | `█` |
+| research | 115 | `█` |
 | product | 102 | `█` |
-| data-science | 81 | `█` |
+| data-science | 83 | `█` |
 | embedded | 76 | `█` |
 | design | 57 | `█` |
 | cloud | 48 | `█` |
@@ -49,6 +49,10 @@ _Generated 2026-09-01_
 
 ## Newest listings
 
+- 2026-09-01 — **AMD**: [Compiler Engineer Intern/Co-op](https://careers.amd.com/jobs/91866?icims=1)
+- 2026-09-01 — **AMD**: [Compiler Engineer Intern/Co-op](https://careers.amd.com/jobs/91865?icims=1)
+- 2026-09-01 — **AMD**: [Compiler Engineer Intern/Co-op](https://careers.amd.com/jobs/91864?icims=1)
+- 2026-09-01 — **AMD**: [Compiler Engineer Intern/Co-op - Masters](https://careers.amd.com/jobs/91867?icims=1)
 - 2026-09-01 — **AMD**: [Diagnostics Design Engineer Intern/Co-op](https://careers.amd.com/jobs/90435?icims=1)
 - 2026-09-01 — **AMD**: [Firmware Engineer Intern/Co-op](https://careers.amd.com/jobs/91313?icims=1)
 - 2026-09-01 — **AMD**: [Firmware Engineer Intern/Co-op](https://careers.amd.com/jobs/91320?icims=1)
@@ -65,10 +69,6 @@ _Generated 2026-09-01_
 - 2026-09-01 — **AMD**: [Machine Learning/Artificial Intelligence Intern/Co-op](https://careers.amd.com/jobs/90383?icims=1)
 - 2026-09-01 — **AMD**: [Product Management Intern/Co-op - Multiple Teams](https://careers.amd.com/jobs/90411?icims=1)
 - 2026-09-01 — **AMD**: [Software Engineer Intern/Co-op](https://careers.amd.com/jobs/91368?icims=1)
-- 2026-09-01 — **AMD**: [Software Engineer Intern/Co-op](https://careers.amd.com/jobs/91367?icims=1)
-- 2026-09-01 — **AMD**: [Software Engineer Intern/Co-op](https://careers.amd.com/jobs/91366?icims=1)
-- 2026-09-01 — **American Express**: [Data Analytics Intern - Enterprise Technology Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012703)
-- 2026-09-01 — **American Express**: [Data Analytics Intern - Enterprise Technology Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012729)
 
 ## Recently closed
 
@@ -124,7 +124,6 @@ _Generated 2026-09-01_
 - Cadence Design Systems — SSG Design Engineering Intern
 - CALSTART — Web Development Intern
 - Canva — PhD Research Scientist Intern - Edge AI
-- Canva — PhD Research Scientist Intern - Generative AI
 - Canva — PhD Research Scientist Intern - Reinforcement Learning for Diffusion Modelling
 - Capital One — Cyber Security Intern
 - Capital One — Software Engineer Intern
@@ -191,18 +190,8 @@ _Generated 2026-09-01_
 - General Motors — Battery & Sustainability Intern - Physics-Based Battery Modeling
 - Global Partners — Advanced Analytics Intern
 - GoDaddy — Software Development Engineer Intern
-- Goldman Sachs — Associate Intern - The Core Quantitative Strats
 - Goldman Sachs — AWM Product Management Analyst Intern
-- Goldman Sachs — Quantitative Strategist Associate Intern - Asset and Wealth Management
-- Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
-- Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
-- Goldman Sachs — Summer Analyst Intern - Americas - AWM Product Management
-- Goldman Sachs — Summer Analyst Intern - FICC and Equities - Sales and Trading
-- Goldman Sachs — Summer Analyst Intern - Wealth Management - Product Management and Design
-- Goldman Sachs — Summer Associate Intern
-- Goldman Sachs — Summer Associate Intern - Multiple Teams
+- Goldman Sachs — Summer Analyst Intern - FICC & Equities - Sales & Trading
 - Group 1001 — Quantitative Analysis Intern
 - Gulf Management — Software Engineer & Business Systems Intern
 - Gumloop — Design Engineer Intern
@@ -226,6 +215,7 @@ _Generated 2026-09-01_
 - Intuit — Software Engineer Intern
 - Intuit — Software Engineer Intern - Full Stack
 - Intuitive Surgical — Computer Vision Engineer Intern - Fall 2026
+- Jabil — Supply Chain Data Analyst Intern
 - JP Morgan Chase — Data Internship - Data & AI Program
 - Kensington — Data Analyst Intern - Revenue Optimization
 - Keysight Technologies — AI/ML Research Intern
@@ -250,6 +240,9 @@ _Generated 2026-09-01_
 - L3Harris Technologies — Software Engineer Intern
 - L3Harris Technologies — Software Engineer Intern
 - L3Harris Technologies — Software Engineer Intern
+- L3Harris Technologies — Software Engineer Intern
+- L3Harris Technologies — Software Engineer Intern
+- L3Harris Technologies — Software Engineer Intern 3
 - L3Harris Technologies — Software Engineering Intern
 - Lawrence Livermore National Laboratory (LLNL) — Computing Graduate Student Intern
 - Lawrence Livermore National Laboratory (LLNL) — Computing Undergraduate Student Intern
@@ -270,6 +263,7 @@ _Generated 2026-09-01_
 - McKesson — AI & Strategic Analytics Intern
 - McKesson — Associate Business Systems Analyst Intern - Data Hub Canada
 - McKesson — Technology Intern
+- Medline — RPA & Agentic AI Software Technologies Intern - Summer 2027
 - Metropolitan Transportation Authority — Data Analyst Intern
 - Metropolitan Transportation Authority — Data Analyst Intern - Power - Emerging Talent
 - Microchip Technology — Design Intern - Design
@@ -334,6 +328,7 @@ _Generated 2026-09-01_
 - Rivian and Volkswagen Group Technologies — Software Engineer Intern - Connected Systems
 - Rivian and Volkswagen Group Technologies — Software Engineer Intern - Embedded Platforms
 - Rivian and Volkswagen Group Technologies — Software Engineer Intern - Vehicle Controls
+- Robinhood — Market Research Strategy Intern (Summer 2027)
 - Royal Bank of Canada — Business Markets Relationship Manager Intern
 - Royal Bank of Canada — Data Engineer Intern - Chief Data Office
 - RRS Group — Software Engineer Intern - Placement Year
@@ -344,7 +339,6 @@ _Generated 2026-09-01_
 - RTX — Manufacturing & Quality Analyst Intern
 - RTX — Methods Intern - Hot Section Engineering
 - RTX — Modeling, Simulation & Analysis Intern - Summer 2027
-- RTX — PLM Business Analyst Intern - PLM Transformation and Governance
 - RTX — Radar Digital Products Engineering Intern
 - RTX — Software Development Intern
 - RTX — Software Engineer Intern
@@ -368,10 +362,10 @@ _Generated 2026-09-01_
 - RTX — Software Engineer Intern - Summer 2027
 - RTX — Software Engineer Intern - Summer 2027
 - RTX — Software Engineer Intern - Summer 2027
-- RTX — Software Engineering Intern
 - RTX — Software Engineering Intern - Summer 2027
 - RTX — Systems Engineering Intern
 - RTX — Systems Technology Intern
+- Samsara — Software Engineering Internship - London
 - Scale AI — AI Builder Intern
 - Scale AI — Technical Advisor Specialist (Part-Time Internship)
 - Schweitzer Engineering Laboratories — Software Engineer Intern - AI Focus

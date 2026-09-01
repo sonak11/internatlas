@@ -1,0 +1,62 @@
+{
+  "schema_version": "1.0",
+  "id": "woodward-governor-sap-s-4hana-analyst-intern-2027",
+  "company": {
+    "name": "Woodward Governor",
+    "slug": "woodward-governor"
+  },
+  "role": "SAP S/4HANA Analyst Intern",
+  "category": "software-engineering",
+  "apply_url": "https://woodward.wd5.myworkdayjobs.com/woodward/job/Niles-IL-US/SAP-S-4-HANA-Analyst-Intern-Summer-2027_JR112066",
+  "season": "summer",
+  "year": 2027,
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "Rockford",
+      "state": "IL",
+      "country": "USA"
+    },
+    {
+      "city": "Niles",
+      "state": "IL",
+      "country": "USA"
+    },
+    {
+      "city": "Fort Collins",
+      "state": "CO",
+      "country": "USA"
+    }
+  ],
+  "compensation": {
+    "currency": "USD",
+    "housing_stipend": false,
+    "relocation_assistance": false
+  },
+  "eligibility": {
+    "graduation_years": [],
+    "degree_levels": [],
+    "citizenship_required": false,
+    "security_clearance_required": false,
+    "visa_sponsorship": "unknown"
+  },
+  "interview": {},
+  "tech": {
+    "required_skills": [],
+    "preferred_skills": [],
+    "languages": [],
+    "frameworks": [],
+    "cloud_platforms": [],
+    "resume_keywords": []
+  },
+  "dates": {
+    "posted": "2026-09-01",
+    "discovered": "2026-09-01",
+    "last_verified": "2026-09-01"
+  },
+  "status": "open",
+  "tags": [
+    "auto-ingested",
+    "src:simplify"
+  ]
+}

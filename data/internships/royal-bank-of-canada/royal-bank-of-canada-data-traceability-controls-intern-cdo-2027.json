@@ -1,21 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "canva-phd-research-scientist-intern-2026-1bb10f",
+  "id": "royal-bank-of-canada-data-traceability-controls-intern-cdo-2027",
   "company": {
-    "name": "Canva",
-    "slug": "canva"
+    "name": "Royal Bank of Canada",
+    "slug": "royal-bank-of-canada"
   },
-  "role": "PhD Research Scientist Intern",
-  "category": "research",
-  "apply_url": "https://jobs.smartrecruiters.com/Canva/6000000001291655-phd-research-scientist-intern",
-  "season": "fall",
-  "year": 2026,
+  "role": "Data Traceability & Controls Intern - CDO",
+  "category": "software-engineering",
+  "apply_url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/HALIFAX-Nova-Scotia-Canada/XMLNAME-2027-Winter---CDO--Data-Traceability---Controls-Intern--4-Months-_R-0000186553",
+  "season": "winter",
+  "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "San Francisco",
-      "state": "CA",
-      "country": "USA"
+      "city": "Halifax Regional Municipality",
+      "country": "NS"
     }
   ],
   "compensation": {
@@ -40,13 +39,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-06",
-    "discovered": "2026-08-31",
+    "posted": "2026-09-01",
+    "discovered": "2026-09-01",
     "last_verified": "2026-09-01"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:vanshb03"
+    "src:simplify"
   ]
 }
