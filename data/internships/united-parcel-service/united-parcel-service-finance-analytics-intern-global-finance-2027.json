@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "grant-thornton-tax-technology-intern-summer-2027-2027-c8d3be",
+  "id": "united-parcel-service-finance-analytics-intern-global-finance-2027",
   "company": {
-    "name": "Grant Thornton",
-    "slug": "grant-thornton"
+    "name": "United Parcel Service",
+    "slug": "united-parcel-service"
   },
-  "role": "Tax Technology Intern - Summer 2027",
+  "role": "Finance Analytics Intern - Global Finance",
   "category": "software-engineering",
-  "apply_url": "https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/114405",
+  "apply_url": "https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/US---UPS-CORPORATE-OFFICES-GACOR/UPS-Global-Finance-Summer-2027-Analytics-Internship_R26030589",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Bellevue",
-      "state": "WA",
+      "city": "Atlanta",
+      "state": "GA",
       "country": "USA"
     }
   ],
@@ -40,8 +40,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-02-11",
-    "discovered": "2026-08-13",
+    "posted": "2026-09-01",
+    "discovered": "2026-09-01",
     "last_verified": "2026-09-01"
   },
   "status": "open",

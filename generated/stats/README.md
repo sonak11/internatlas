@@ -15,7 +15,7 @@ _Generated 2026-09-01_
 | ByteDance | 59 |
 | AMD | 54 |
 | Jump Trading | 47 |
-| Royal Bank of Canada | 39 |
+| Royal Bank of Canada | 40 |
 | Booz Allen | 35 |
 | L3Harris Technologies | 35 |
 | Qorvo | 35 |
@@ -33,18 +33,18 @@ _Generated 2026-09-01_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 1715 | `██████████████` |
-| ai | 269 | `██` |
+| software-engineering | 1732 | `██████████████` |
+| ai | 270 | `██` |
 | quant | 233 | `██` |
-| machine-learning | 164 | `█` |
+| machine-learning | 165 | `█` |
 | hardware | 119 | `█` |
 | research | 115 | `█` |
 | product | 103 | `█` |
-| data-science | 90 | `█` |
+| data-science | 92 | `█` |
 | embedded | 78 | `█` |
 | design | 57 | `█` |
 | cloud | 48 | `█` |
-| data-engineering | 43 | `█` |
+| data-engineering | 44 | `█` |
 | security | 19 | `█` |
 
 ## Newest listings
@@ -190,20 +190,8 @@ _Generated 2026-09-01_
 - General Motors — Battery & Sustainability Intern - Physics-Based Battery Modeling
 - Global Partners — Advanced Analytics Intern
 - GlossGenius — Engineering Intern
+- GlossGenius — Engineering Intern - Summer 2027
 - GoDaddy — Software Development Engineer Intern
-- Goldman Sachs — Associate Intern - The Core Quantitative Strats
-- Goldman Sachs — AWM Product Management Analyst Intern
-- Goldman Sachs — Quantitative Strategist Associate Intern - Asset and Wealth Management
-- Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
-- Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
-- Goldman Sachs — Summer Analyst Intern - Americas - AWM Product Management
-- Goldman Sachs — Summer Analyst Intern - FICC and Equities - Sales and Trading
-- Goldman Sachs — Summer Analyst Intern - FICC & Equities - Sales & Trading
-- Goldman Sachs — Summer Analyst Intern - Wealth Management - Product Management and Design
-- Goldman Sachs — Summer Associate Intern
-- Goldman Sachs — Summer Associate Intern - Multiple Teams
 - Group 1001 — Quantitative Analysis Intern
 - Gulf Management — Software Engineer & Business Systems Intern
 - Gumloop — Design Engineer Intern
@@ -217,6 +205,7 @@ _Generated 2026-09-01_
 - IES Holdings — Data Analytics Intern
 - IMC Trading — Hardware Machine Learning PhD Research Internship
 - IMC Trading — Machine Learning Research Intern - Summer 2027 - Hong Kong
+- Incident IQ — Software Engineer Intern
 - Inizio — Data and Analytics Intern
 - Integra FEC — Data Analyst Intern
 - Integra FEC — Data Scientist Intern
@@ -236,6 +225,7 @@ _Generated 2026-09-01_
 - Kimley-Horn — GIS Intern
 - Kimley-Horn — Software Developer Intern
 - Kodiak Robotics — Controls Intern
+- L3Harris Technologies — Artificial Intelligence Intern
 - L3Harris Technologies — Configuration Management Intern
 - L3Harris Technologies — Integration/Test Engineering Intern
 - L3Harris Technologies — Security Research Engineer Intern
@@ -271,7 +261,9 @@ _Generated 2026-09-01_
 - Louisiana Blue — Operational Reporting & Data Analyst Intern - CW
 - Louisiana Blue — Provider Reimbursement Intern
 - LPL Financial Holdings — Data Analytics Intern - FAR Program
+- Magna — R&D-Computer Vision Engineer Intern
 - Magnera — Data Analyst Intern - Information Technology
+- Maven Securities — Trader Intern
 - MaxLinear — AI Intern
 - McKesson — AI & Strategic Analytics Intern
 - McKesson — Associate Business Systems Analyst Intern - Data Hub Canada
@@ -312,6 +304,7 @@ _Generated 2026-09-01_
 - Pacific Northwest National Laboratory — Undergraduate Technical Intern - Nuclear Facility
 - Palantir — Forward Deployed Software Engineer Intern
 - PanAgora — Dynamic Intern
+- Panasonic Holdings — Back-End Cloud Developer Intern
 - Parsons — Software Intern - Summer 2027
 - Pendulum Intelligence — Product Manager Intern
 - Pennsylvania State University — Research Engineering Intern
@@ -391,6 +384,7 @@ _Generated 2026-09-01_
 - SOTI — Associate Product Manager Intern
 - SOTI — Data Scientist Intern
 - SpaceX — Recruiting Coordinator, Intern Program- Temporary
+- SpreeAI — Machine Learning Engineer Intern - Computer Vision/Multimodal/Generative AI
 - SpreeAI — Mobile Software Engineer Intern - Flagship Apps - iOS / Android / Web
 - State of Nebraska — IT Construction Systems Intern
 - Stryten — Procurement Intern
@@ -422,6 +416,7 @@ _Generated 2026-09-01_
 - Tesla — Software Engineer Intern - Software Engineer - AI Hardware Infrastructure
 - Tesla — Software Engineer Intern - Software Engineer Industrial Firmware - Energy Engineering
 - Tesla — Software Engineer Intern - Software Engineer - Information Security
+- Tesla — Software Engineering Intern - Software Engineering - Service Engineering
 - Tesla — Software Integration Engineer Intern - Software Integration Engineer - Optimus
 - Tesla — Software Machine Learning Engineer Intern - Reliability Energy Engineering
 - Tesla — Solar Hardware Engineer Intern - Solar Hardware Engineer - Energy Engineering

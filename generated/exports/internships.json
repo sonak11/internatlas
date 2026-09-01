@@ -1,6 +1,6 @@
 {
   "generated": "2026-09-01",
-  "count": 3053,
+  "count": 3075,
   "internships": [
     {
       "schema_version": "1.0",
@@ -38905,6 +38905,68 @@
     },
     {
       "schema_version": "1.0",
+      "id": "compeer-financial-new-markets-intern-2027",
+      "company": {
+        "name": "Compeer Financial",
+        "slug": "compeer-financial"
+      },
+      "role": "New Markets Intern",
+      "category": "software-engineering",
+      "apply_url": "https://job-boards.greenhouse.io/compeerfinancial/jobs/5406940008",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Sun Prairie",
+          "state": "WI",
+          "country": "USA"
+        },
+        {
+          "city": "Naperville",
+          "state": "IL",
+          "country": "USA"
+        },
+        {
+          "city": "Prairie du Sac",
+          "state": "WI",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-27",
+        "discovered": "2026-09-01",
+        "last_verified": "2026-09-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "composio-full-stack-intern-2026",
       "company": {
         "name": "Composio",
@@ -40269,6 +40331,60 @@
     },
     {
       "schema_version": "1.0",
+      "id": "corning-artificial-intelligence-and-machine-learning-intern-2027",
+      "company": {
+        "name": "Corning",
+        "slug": "corning"
+      },
+      "role": "Artificial Intelligence and Machine Learning Intern",
+      "category": "machine-learning",
+      "apply_url": "https://corningjobs.corning.com/job/Wilmington-Artificial-Intelligence-and-Machine-Learning-Intern-Summer-2027-NC-28405/1425596800/?ats=successfactors",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Wilmington",
+          "state": "NC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-01",
+        "discovered": "2026-09-01",
+        "last_verified": "2026-09-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "corning-digital-it-intern-analyst-machine-learning-2027",
       "company": {
         "name": "Corning",
@@ -40277,6 +40393,60 @@
       "role": "Digital & IT Intern - Analyst - Machine Learning",
       "category": "machine-learning",
       "apply_url": "https://corningjobs.corning.com/job/Charlotte-Digital-&-IT-Intern,-Analyst,-Machine-Learning-Summer-2027-NC-28216/1425580100/?ats=successfactors",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Charlotte",
+          "state": "NC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-01",
+        "discovered": "2026-09-01",
+        "last_verified": "2026-09-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "corning-optical-fiber-and-cable-engineer-intern-summer-2027-2027",
+      "company": {
+        "name": "Corning",
+        "slug": "corning"
+      },
+      "role": "Optical Fiber and Cable Engineer Intern - Summer 2027",
+      "category": "software-engineering",
+      "apply_url": "https://corningjobs.corning.com/job/Charlotte-Optical-Fiber-and-Cable-Engineering-Intern-Summer-2027-NC-28216/1425615400/?ats=successfactors",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
@@ -49586,6 +49756,57 @@
     },
     {
       "schema_version": "1.0",
+      "id": "eulerity-backend-developer-intern-2027",
+      "company": {
+        "name": "Eulerity",
+        "slug": "eulerity"
+      },
+      "role": "Backend Developer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://job-boards.greenhouse.io/eulerity/jobs/4709040006",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "NYC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-01",
+        "discovered": "2026-09-01",
+        "last_verified": "2026-09-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "eversource-energy-asset-management-technology-engineer-intern-fall-2026-2026",
       "company": {
         "name": "Eversource Energy",
@@ -58111,7 +58332,7 @@
         "discovered": "2026-08-26",
         "last_verified": "2026-09-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -58265,7 +58486,7 @@
         "discovered": "2026-08-27",
         "last_verified": "2026-09-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -58317,7 +58538,7 @@
         "discovered": "2026-08-20",
         "last_verified": "2026-09-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -58370,7 +58591,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-09-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -58423,7 +58644,7 @@
         "discovered": "2026-08-24",
         "last_verified": "2026-09-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -58476,7 +58697,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-09-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -58527,7 +58748,7 @@
         "discovered": "2026-08-30",
         "last_verified": "2026-09-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -58578,7 +58799,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-09-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -58631,7 +58852,7 @@
         "discovered": "2026-08-20",
         "last_verified": "2026-09-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -58685,7 +58906,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-09-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -58736,7 +58957,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-09-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -58787,7 +59008,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-09-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -58840,7 +59061,7 @@
         "discovered": "2026-08-29",
         "last_verified": "2026-09-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -58893,7 +59114,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-09-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -60552,7 +60773,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "grant-thornton-tax-technology-intern-summer-2027-2027-c8d3be",
+      "id": "grant-thornton-tax-technology-intern-summer-2027-2027",
       "company": {
         "name": "Grant Thornton",
         "slug": "grant-thornton"
@@ -60567,58 +60788,6 @@
         {
           "city": "Bellevue",
           "state": "WA",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-02-11",
-        "discovered": "2026-08-13",
-        "last_verified": "2026-09-01"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "grant-thornton-tax-technology-intern-summer-2027-2027",
-      "company": {
-        "name": "Grant Thornton",
-        "slug": "grant-thornton"
-      },
-      "role": "Tax Technology Intern - Summer 2027",
-      "category": "software-engineering",
-      "apply_url": "https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/114404",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Dallas",
-          "state": "TX",
           "country": "USA"
         }
       ],
@@ -63972,6 +64141,57 @@
       },
       "dates": {
         "posted": "2026-08-31",
+        "discovered": "2026-09-01",
+        "last_verified": "2026-09-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "hp-iq-software-engineer-intern-connectivity-2027",
+      "company": {
+        "name": "HP IQ",
+        "slug": "hp-iq"
+      },
+      "role": "Software Engineer Intern - Connectivity",
+      "category": "software-engineering",
+      "apply_url": "https://job-boards.greenhouse.io/hpiq/jobs/6176783004",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "SF",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-01",
         "discovered": "2026-09-01",
         "last_verified": "2026-09-01"
       },
@@ -67405,7 +67625,7 @@
         "discovered": "2026-08-04",
         "last_verified": "2026-09-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -75894,6 +76114,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "kinder-morgan-information-technology-intern-application-development-2027",
+      "company": {
+        "name": "Kinder Morgan",
+        "slug": "kinder-morgan"
+      },
+      "role": "Information Technology Intern - Application Development",
+      "category": "software-engineering",
+      "apply_url": "https://careers.kindermorgan.com/jobs/6032?icims=1",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Houston",
+          "state": "TX",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-01",
+        "discovered": "2026-09-01",
+        "last_verified": "2026-09-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "kirin-quantitative-research-intern-prediction-markets-2026",
       "company": {
         "name": "Kirin",
@@ -76879,7 +77151,7 @@
         "discovered": "2026-08-27",
         "last_verified": "2026-09-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -78844,6 +79116,164 @@
     },
     {
       "schema_version": "1.0",
+      "id": "lawrence-livermore-national-laboratory-llnl-computing-intern-2027-9cfb59",
+      "company": {
+        "name": "Lawrence Livermore National Laboratory (LLNL)",
+        "slug": "lawrence-livermore-national-laboratory-llnl"
+      },
+      "role": "Computing Intern",
+      "category": "software-engineering",
+      "apply_url": "https://jobs.smartrecruiters.com/LLNL/3743990014982576",
+      "season": "spring",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Livermore",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-01",
+        "discovered": "2026-09-01",
+        "last_verified": "2026-09-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "lawrence-livermore-national-laboratory-llnl-computing-intern-2027",
+      "company": {
+        "name": "Lawrence Livermore National Laboratory (LLNL)",
+        "slug": "lawrence-livermore-national-laboratory-llnl"
+      },
+      "role": "Computing Intern",
+      "category": "software-engineering",
+      "apply_url": "https://jobs.smartrecruiters.com/LLNL/3743990014982336",
+      "season": "spring",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Livermore",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-01",
+        "discovered": "2026-09-01",
+        "last_verified": "2026-09-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "lawrence-livermore-national-laboratory-llnl-computing-intern-summer-undergraduate-internship-program-2027",
+      "company": {
+        "name": "Lawrence Livermore National Laboratory (LLNL)",
+        "slug": "lawrence-livermore-national-laboratory-llnl"
+      },
+      "role": "Computing Intern - Summer Undergraduate Internship Program",
+      "category": "software-engineering",
+      "apply_url": "https://jobs.smartrecruiters.com/LLNL/3743990014982059",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Livermore",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-01",
+        "discovered": "2026-09-01",
+        "last_verified": "2026-09-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "lawrence-livermore-national-laboratory-llnl-computing-undergraduate-student-intern-2026",
       "company": {
         "name": "Lawrence Livermore National Laboratory (LLNL)",
@@ -78889,6 +79319,58 @@
         "last_verified": "2026-08-28"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "lawrence-livermore-national-laboratory-llnl-computing-undergraduate-student-intern-early-internship-prog-2027",
+      "company": {
+        "name": "Lawrence Livermore National Laboratory (LLNL)",
+        "slug": "lawrence-livermore-national-laboratory-llnl"
+      },
+      "role": "Computing Undergraduate Student Intern - Early Internship Program",
+      "category": "software-engineering",
+      "apply_url": "https://jobs.smartrecruiters.com/LLNL/3743990014981656",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Livermore",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-01",
+        "discovered": "2026-09-01",
+        "last_verified": "2026-09-01"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -80859,7 +81341,7 @@
         "discovered": "2026-07-24",
         "last_verified": "2026-09-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -82338,7 +82820,7 @@
         "discovered": "2026-08-05",
         "last_verified": "2026-09-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -82871,6 +83353,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "medline-business-systems-intern-summer-2027-2027",
+      "company": {
+        "name": "Medline",
+        "slug": "medline"
+      },
+      "role": "Business Systems Intern - Summer 2027",
+      "category": "software-engineering",
+      "apply_url": "https://medline.wd5.myworkdayjobs.com/en-US/Medline/job/Northbrook-Illinois/IT-Business-Systems-Intern---Summer-2027_R2617626",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Northbrook",
+          "state": "IL",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-01",
+        "discovered": "2026-09-01",
+        "last_verified": "2026-09-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "medline-mba-intern-product-management-2027",
       "company": {
         "name": "Medline",
@@ -83045,6 +83579,58 @@
       "role": "Software Development Intern - Summer 2027",
       "category": "software-engineering",
       "apply_url": "https://medline.wd5.myworkdayjobs.com/en-US/Medline/job/Northbrook-Illinois/Software-Development-Intern---Summer-2027_R2617613",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Northbrook",
+          "state": "IL",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-01",
+        "discovered": "2026-09-01",
+        "last_verified": "2026-09-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "medline-software-engineer-intern-summer-2027-2027",
+      "company": {
+        "name": "Medline",
+        "slug": "medline"
+      },
+      "role": "Software Engineer Intern - Summer 2027",
+      "category": "software-engineering",
+      "apply_url": "https://medline.wd5.myworkdayjobs.com/en-US/Medline/job/Northbrook-Illinois/Software-Engineering-Intern---Summer-2027_R2617623",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
@@ -102229,7 +102815,7 @@
         "discovered": "2026-09-01",
         "last_verified": "2026-09-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -102285,6 +102871,52 @@
       "tags": [
         "auto-ingested",
         "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "parsons-software-developer-intern-fall-2026-spring-2027-2026",
+      "company": {
+        "name": "Parsons",
+        "slug": "parsons"
+      },
+      "role": "Software Developer Intern - Fall 2026/Spring 2027",
+      "category": "software-engineering",
+      "apply_url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---Remote-Any-Location/Software-Developer-Intern_R185565",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "remote",
+      "locations": [],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-01",
+        "discovered": "2026-09-01",
+        "last_verified": "2026-09-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
       ]
     },
     {
@@ -105242,6 +105874,58 @@
       "tags": [
         "auto-ingested",
         "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "poet-process-engineering-intern-2027",
+      "company": {
+        "name": "POET",
+        "slug": "poet"
+      },
+      "role": "Process Engineering Intern",
+      "category": "software-engineering",
+      "apply_url": "https://poet.wd1.myworkdayjobs.com/POET/job/Sioux-Falls-SD/Process-Engineering-Intern---Summer-2027_R101679",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Sioux Falls",
+          "state": "SD",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-01",
+        "discovered": "2026-09-01",
+        "last_verified": "2026-09-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
       ]
     },
     {
@@ -110992,6 +111676,60 @@
     },
     {
       "schema_version": "1.0",
+      "id": "ragle-inc-data-engineering-intern-2027",
+      "company": {
+        "name": "Ragle Inc",
+        "slug": "ragle-inc"
+      },
+      "role": "Data Engineering Intern",
+      "category": "data-engineering",
+      "apply_url": "https://ragleinc.applytojob.com/apply/bOx8uiciOs/Data-Engineering-Intern-Summer-2027",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "North Richland Hills",
+          "state": "TX",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-01",
+        "discovered": "2026-09-01",
+        "last_verified": "2026-09-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "rainmaker-software-engineer-intern-2026",
       "company": {
         "name": "Rainmaker",
@@ -111184,9 +111922,9 @@
       "dates": {
         "posted": "2026-07-29",
         "discovered": "2026-07-30",
-        "last_verified": "2026-08-04"
+        "last_verified": "2026-09-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -116238,6 +116976,57 @@
         {
           "city": "Halifax Regional Municipality",
           "country": "NS"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-01",
+        "discovered": "2026-09-01",
+        "last_verified": "2026-09-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "royal-bank-of-canada-financial-crime-insights-and-analytics-intern-group-risk-man-2027",
+      "company": {
+        "name": "Royal Bank of Canada",
+        "slug": "royal-bank-of-canada"
+      },
+      "role": "Financial Crime Insights and Analytics Intern - Group Risk Management",
+      "category": "software-engineering",
+      "apply_url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--FC-Insights-and-Analytics-Intern--4-Months-_R-0000185601-1",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Toronto",
+          "country": "ON"
         }
       ],
       "compensation": {
@@ -125896,6 +126685,60 @@
     },
     {
       "schema_version": "1.0",
+      "id": "southern-star-central-gas-pipeline-gis-analyst-intern-2027",
+      "company": {
+        "name": "Southern Star Central Gas Pipeline",
+        "slug": "southern-star-central-gas-pipeline"
+      },
+      "role": "GIS Analyst Intern",
+      "category": "software-engineering",
+      "apply_url": "https://careers-sscgp.icims.com/jobs/3036/job?mobile=true&needsRedirect=false",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Owensboro",
+          "state": "KY",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-01",
+        "discovered": "2026-09-01",
+        "last_verified": "2026-09-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "southwest-airlines-software-engineer-intern-multiple-teams-2027",
       "company": {
         "name": "Southwest Airlines",
@@ -127748,7 +128591,7 @@
         "discovered": "2026-07-21",
         "last_verified": "2026-09-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -131918,6 +132761,58 @@
         "last_verified": "2026-08-27"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "syngenta-group-data-entry-intern-product-safety-2027",
+      "company": {
+        "name": "Syngenta Group",
+        "slug": "syngenta-group"
+      },
+      "role": "Data Entry Intern - Product Safety",
+      "category": "software-engineering",
+      "apply_url": "https://jobs.smartrecruiters.com/SyngentaGroup/744000146744188",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Greensboro",
+          "state": "NC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-01",
+        "discovered": "2026-09-01",
+        "last_verified": "2026-09-01"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -139713,7 +140608,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-09-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -153352,6 +154247,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "toast-engineer-intern-2027",
+      "company": {
+        "name": "Toast",
+        "slug": "toast"
+      },
+      "role": "Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://boards.greenhouse.io/embed/job_app?token=8171800",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Boston",
+          "state": "MA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-01",
+        "discovered": "2026-09-01",
+        "last_verified": "2026-09-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "together-ai-research-intern-inference-2026",
       "company": {
         "name": "Together AI",
@@ -155583,6 +156530,167 @@
     },
     {
       "schema_version": "1.0",
+      "id": "twg-global-ai-engineer-intern-summer-2027-2027",
+      "company": {
+        "name": "TWG Global",
+        "slug": "twg-global"
+      },
+      "role": "AI Engineer Intern - Summer 2027",
+      "category": "ai",
+      "apply_url": "https://apply.workable.com/twgai/j/772CD136FF/apply",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Santa Monica",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-01",
+        "discovered": "2026-09-01",
+        "last_verified": "2026-09-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "twg-global-data-science-intern-maqr-2027",
+      "company": {
+        "name": "TWG Global",
+        "slug": "twg-global"
+      },
+      "role": "Data Science Intern - MAQR",
+      "category": "data-science",
+      "apply_url": "https://apply.workable.com/twgai/j/AC536E5EE2/apply",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Santa Monica",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-01",
+        "discovered": "2026-09-01",
+        "last_verified": "2026-09-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "twg-global-data-science-intern-solt-2027",
+      "company": {
+        "name": "TWG Global",
+        "slug": "twg-global"
+      },
+      "role": "Data Science Intern - SOLT",
+      "category": "data-science",
+      "apply_url": "https://apply.workable.com/twgai/j/263B34D737/apply",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Santa Monica",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters",
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-01",
+        "discovered": "2026-09-01",
+        "last_verified": "2026-09-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "two-sigma-ai-research-scientist-intern-2027-summer-2027",
       "company": {
         "name": "Two Sigma",
@@ -156726,6 +157834,58 @@
         {
           "city": "Chicago",
           "state": "IL",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-01",
+        "discovered": "2026-09-01",
+        "last_verified": "2026-09-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "united-parcel-service-finance-analytics-intern-global-finance-2027",
+      "company": {
+        "name": "United Parcel Service",
+        "slug": "united-parcel-service"
+      },
+      "role": "Finance Analytics Intern - Global Finance",
+      "category": "software-engineering",
+      "apply_url": "https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/US---UPS-CORPORATE-OFFICES-GACOR/UPS-Global-Finance-Summer-2027-Analytics-Internship_R26030589",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Atlanta",
+          "state": "GA",
           "country": "USA"
         }
       ],

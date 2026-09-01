@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0",
+  "id": "syngenta-group-data-entry-intern-product-safety-2027",
+  "company": {
+    "name": "Syngenta Group",
+    "slug": "syngenta-group"
+  },
+  "role": "Data Entry Intern - Product Safety",
+  "category": "software-engineering",
+  "apply_url": "https://jobs.smartrecruiters.com/SyngentaGroup/744000146744188",
+  "season": "summer",
+  "year": 2027,
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "Greensboro",
+      "state": "NC",
+      "country": "USA"
+    }
+  ],
+  "compensation": {
+    "currency": "USD",
+    "housing_stipend": false,
+    "relocation_assistance": false
+  },
+  "eligibility": {
+    "graduation_years": [],
+    "degree_levels": [],
+    "citizenship_required": false,
+    "security_clearance_required": false,
+    "visa_sponsorship": "unknown"
+  },
+  "interview": {},
+  "tech": {
+    "required_skills": [],
+    "preferred_skills": [],
+    "languages": [],
+    "frameworks": [],
+    "cloud_platforms": [],
+    "resume_keywords": []
+  },
+  "dates": {
+    "posted": "2026-09-01",
+    "discovered": "2026-09-01",
+    "last_verified": "2026-09-01"
+  },
+  "status": "open",
+  "tags": [
+    "auto-ingested",
+    "src:simplify"
+  ]
+}
