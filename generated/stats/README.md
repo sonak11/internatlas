@@ -9,16 +9,16 @@ _Generated 2026-09-01_
 | Company | Listings |
 |---|---|
 | TikTok | 151 |
-| Tesla | 126 |
+| Tesla | 127 |
 | RTX | 74 |
 | American Express | 60 |
 | ByteDance | 58 |
+| AMD | 50 |
 | Jump Trading | 47 |
 | Royal Bank of Canada | 37 |
 | L3Harris Technologies | 35 |
 | Qorvo | 35 |
 | Cloudflare | 34 |
-| AMD | 32 |
 | NVIDIA | 30 |
 | The Walt Disney Company | 28 |
 | IMC Trading | 26 |
@@ -33,42 +33,42 @@ _Generated 2026-09-01_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 1622 | `██████████████` |
+| software-engineering | 1639 | `██████████████` |
 | ai | 266 | `██` |
 | quant | 223 | `██` |
-| machine-learning | 156 | `█` |
-| research | 115 | `█` |
-| hardware | 113 | `█` |
-| product | 101 | `█` |
-| data-science | 79 | `█` |
-| embedded | 70 | `█` |
-| design | 56 | `█` |
-| cloud | 47 | `█` |
-| data-engineering | 39 | `█` |
+| machine-learning | 158 | `█` |
+| hardware | 118 | `█` |
+| research | 116 | `█` |
+| product | 102 | `█` |
+| data-science | 81 | `█` |
+| embedded | 76 | `█` |
+| design | 57 | `█` |
+| cloud | 48 | `█` |
+| data-engineering | 40 | `█` |
 | security | 19 | `█` |
 
 ## Newest listings
 
+- 2026-09-01 — **AMD**: [Diagnostics Design Engineer Intern/Co-op](https://careers.amd.com/jobs/90435?icims=1)
+- 2026-09-01 — **AMD**: [Firmware Engineer Intern/Co-op](https://careers.amd.com/jobs/91313?icims=1)
+- 2026-09-01 — **AMD**: [Firmware Engineer Intern/Co-op](https://careers.amd.com/jobs/91320?icims=1)
+- 2026-09-01 — **AMD**: [Firmware Engineer Intern/Co-op](https://careers.amd.com/jobs/90301?icims=1)
+- 2026-09-01 — **AMD**: [Firmware Engineer Intern/Co-op - Long Term](https://careers.amd.com/jobs/90297?icims=1)
+- 2026-09-01 — **AMD**: [Graphics Software Engineer Intern/Co-op](https://careers.amd.com/jobs/91359?icims=1)
+- 2026-09-01 — **AMD**: [Graphics Software Engineer Intern/Co-op](https://careers.amd.com/jobs/90305?icims=1)
+- 2026-09-01 — **AMD**: [Hardware Design Engineer Intern/Co-op](https://careers.amd.com/jobs/91360?icims=1)
+- 2026-09-01 — **AMD**: [Hardware Design Engineer Intern/Co-op](https://careers.amd.com/jobs/90372?icims=1)
+- 2026-09-01 — **AMD**: [Hardware Design Engineer Intern/Co-op - Long Term](https://careers.amd.com/jobs/90367?icims=1)
+- 2026-09-01 — **AMD**: [Hardware Design Verification Engineer Intern/Co-op](https://careers.amd.com/jobs/91362?icims=1)
+- 2026-09-01 — **AMD**: [Hardware Design Verification Engineer Intern/Co-op](https://careers.amd.com/jobs/90379?icims=1)
+- 2026-09-01 — **AMD**: [Machine Learning/Artificial Intelligence Intern/Co-op](https://careers.amd.com/jobs/91363?icims=1)
+- 2026-09-01 — **AMD**: [Machine Learning/Artificial Intelligence Intern/Co-op](https://careers.amd.com/jobs/90383?icims=1)
+- 2026-09-01 — **AMD**: [Product Management Intern/Co-op - Multiple Teams](https://careers.amd.com/jobs/90411?icims=1)
+- 2026-09-01 — **AMD**: [Software Engineer Intern/Co-op](https://careers.amd.com/jobs/91368?icims=1)
+- 2026-09-01 — **AMD**: [Software Engineer Intern/Co-op](https://careers.amd.com/jobs/91367?icims=1)
+- 2026-09-01 — **AMD**: [Software Engineer Intern/Co-op](https://careers.amd.com/jobs/91366?icims=1)
 - 2026-09-01 — **American Express**: [Data Analytics Intern - Enterprise Technology Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012703)
 - 2026-09-01 — **American Express**: [Data Analytics Intern - Enterprise Technology Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012729)
-- 2026-09-01 — **American Express**: [Data Analytics Intern - Enterprise Technology Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012782)
-- 2026-09-01 — **American Express**: [Data Analytics Intern - Enterprise Technology Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011813)
-- 2026-09-01 — **American Express**: [Data Analytics Intern - Enterprise Technology Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011818)
-- 2026-09-01 — **American Express**: [Data Analytics Intern - Enterprise Technology Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012783)
-- 2026-09-01 — **American Express**: [Data Analytics Intern - Enterprise Technology Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012784)
-- 2026-09-01 — **American Express**: [Data Analytics Intern - Enterprise Technology Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011807)
-- 2026-09-01 — **American Express**: [Data Analytics Intern - US Consumer Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011607)
-- 2026-09-01 — **American Express**: [Data Engineer Intern - Enterprise Technology Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012764)
-- 2026-09-01 — **American Express**: [Data Engineer Intern - Enterprise Technology Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012781)
-- 2026-09-01 — **American Express**: [Data Engineer Intern - Enterprise Technology Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011831)
-- 2026-09-01 — **American Express**: [Data Engineer Intern - Enterprise Technology Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012339)
-- 2026-09-01 — **American Express**: [Data Engineer Intern - Enterprise Technology Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012333)
-- 2026-09-01 — **American Express**: [Data Engineer Intern - Enterprise Technology Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011828)
-- 2026-09-01 — **American Express**: [Data Management Intern - Global Merchant & Network Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012668)
-- 2026-09-01 — **American Express**: [Data Science Intern - Finance](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013191)
-- 2026-09-01 — **American Express**: [Data Science Intern - Finance](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013190)
-- 2026-09-01 — **American Express**: [Digital Product Management Intern - Enterprise Technology Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012057)
-- 2026-09-01 — **American Express**: [Digital Product Management Intern - Enterprise Technology Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011627)
 
 ## Recently closed
 
@@ -134,6 +134,7 @@ _Generated 2026-09-01_
 - Centerstone — Bachelor Level Intern
 - Centific — Research Intern - Healthcare AI
 - Centific — Technical Intern
+- Centific — Technical Intern - Masters or PhD
 - CesiumAstro — Embedded Software Engineer Intern
 - CesiumAstro — Software Engineering Intern - Advanced Projects Group
 - CesiumAstro — Test Engineer Intern
@@ -156,6 +157,7 @@ _Generated 2026-09-01_
 - Commence — Health Data Analyst Intern
 - Concentric — AI Workflow Intern - AI Workflow Optimization
 - Conduent — Applied AI Engineer Intern - Government Healthcare Solutions
+- Copart — AI Engineer Intern
 - Crowe — AI Functional Intern
 - Crowe — NetSuite Implementation Intern - Consulting Practice
 - Cubist Systematic Strategies — Quantitative Developer Intern
@@ -198,12 +200,9 @@ _Generated 2026-09-01_
 - Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
 - Goldman Sachs — Summer Analyst Intern - Americas - AWM Product Management
 - Goldman Sachs — Summer Analyst Intern - FICC and Equities - Sales and Trading
-- Goldman Sachs — Summer Analyst Intern - FICC & Equities - Sales & Trading
 - Goldman Sachs — Summer Analyst Intern - Wealth Management - Product Management and Design
 - Goldman Sachs — Summer Associate Intern
 - Goldman Sachs — Summer Associate Intern - Multiple Teams
-- Google — Research Intern - PhD
-- Google — Software Developer Intern
 - Group 1001 — Quantitative Analysis Intern
 - Gulf Management — Software Engineer & Business Systems Intern
 - Gumloop — Design Engineer Intern
@@ -273,6 +272,8 @@ _Generated 2026-09-01_
 - McKesson — Technology Intern
 - Metropolitan Transportation Authority — Data Analyst Intern
 - Metropolitan Transportation Authority — Data Analyst Intern - Power - Emerging Talent
+- Microchip Technology — Design Intern - Design
+- Microchip Technology — Verification Intern - Verification
 - Microsoft — AI Software Engineer Intern
 - Microsoft — AI Software Engineer Intern - Edge
 - Moog — Computer Science Intern - Information Technology
@@ -312,6 +313,7 @@ _Generated 2026-09-01_
 - Picton Mahoney Asset Management — Quantitative Research & Risk Intern
 - PlusAI — Deep Learning Research Intern - Multimodal BEV Perception
 - ProNexus — Software Engineer Intern
+- PSP Investments — AI Solutions Intern - External Manager Selection & Monitoring
 - Pure Storage — SW Engineer Internship
 - Quantbot Technologies — Machine Learning Research Engineer Intern
 - Quantbot Technologies — Quantitative Developer Intern
@@ -342,6 +344,7 @@ _Generated 2026-09-01_
 - RTX — Manufacturing & Quality Analyst Intern
 - RTX — Methods Intern - Hot Section Engineering
 - RTX — Modeling, Simulation & Analysis Intern - Summer 2027
+- RTX — PLM Business Analyst Intern - PLM Transformation and Governance
 - RTX — Radar Digital Products Engineering Intern
 - RTX — Software Development Intern
 - RTX — Software Engineer Intern
@@ -365,6 +368,7 @@ _Generated 2026-09-01_
 - RTX — Software Engineer Intern - Summer 2027
 - RTX — Software Engineer Intern - Summer 2027
 - RTX — Software Engineer Intern - Summer 2027
+- RTX — Software Engineering Intern
 - RTX — Software Engineering Intern - Summer 2027
 - RTX — Systems Engineering Intern
 - RTX — Systems Technology Intern
@@ -426,6 +430,7 @@ _Generated 2026-09-01_
 - The Walt Disney Company — Show Control Hardware Intern
 - The Walt Disney Company — Systems Software Engineer Intern
 - The Walt Disney Company — Systems Software Engineer Intern
+- TikTok — Efficiency Analyst/Methodologist Project Intern - Content Operations - Tiktok-Operations-Operations Efficiency
 - TikTok — Product Manager Intern - TikTok Product Content Ecosystem
 - Together AI — Research Intern - Model Shaping
 - Together AI — Systems Research Engineer Intern - GPU Programming

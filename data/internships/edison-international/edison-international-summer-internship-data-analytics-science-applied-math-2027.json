@@ -1,0 +1,67 @@
+{
+  "schema_version": "1.0",
+  "id": "edison-international-summer-internship-data-analytics-science-applied-math-2027",
+  "company": {
+    "name": "Edison International",
+    "slug": "edison-international"
+  },
+  "role": "Summer Internship - Data Analytics/Science/Applied Math",
+  "category": "software-engineering",
+  "apply_url": "https://apply.edisoncareers.com/job/Westminster-2027-Summer-Internship-Data-AnalyticsScienceApplied-Math-Santa-AnaWestminsterIrvineFullerton-CA-92683-5240/1425175800/?ats=successfactors",
+  "season": "summer",
+  "year": 2027,
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "Santa Ana",
+      "state": "CA",
+      "country": "USA"
+    },
+    {
+      "city": "Fullerton",
+      "state": "CA",
+      "country": "USA"
+    },
+    {
+      "city": "Irvine",
+      "state": "CA",
+      "country": "USA"
+    },
+    {
+      "city": "Westminster",
+      "state": "CA",
+      "country": "USA"
+    }
+  ],
+  "compensation": {
+    "currency": "USD",
+    "housing_stipend": false,
+    "relocation_assistance": false
+  },
+  "eligibility": {
+    "graduation_years": [],
+    "degree_levels": [],
+    "citizenship_required": false,
+    "security_clearance_required": false,
+    "visa_sponsorship": "unknown"
+  },
+  "interview": {},
+  "tech": {
+    "required_skills": [],
+    "preferred_skills": [],
+    "languages": [],
+    "frameworks": [],
+    "cloud_platforms": [],
+    "resume_keywords": []
+  },
+  "dates": {
+    "posted": "2026-09-01",
+    "discovered": "2026-09-01",
+    "last_verified": "2026-09-01"
+  },
+  "status": "open",
+  "tags": [
+    "auto-ingested",
+    "src:simplify"
+  ]
+}

@@ -7,44 +7,14 @@
   },
   "role": "Firmware Engineer Intern/Co-op",
   "category": "embedded",
-  "apply_url": "https://careers.amd.com/jobs/90801?icims=1",
-  "season": "winter",
+  "apply_url": "https://careers.amd.com/jobs/90301?icims=1",
+  "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Secaucus",
-      "state": "NJ",
-      "country": "USA"
-    },
-    {
-      "city": "Rochester",
-      "state": "NY",
-      "country": "USA"
-    },
-    {
-      "city": "Austin",
-      "state": "TX",
-      "country": "USA"
-    },
-    {
-      "city": "Longmont",
-      "state": "CO",
-      "country": "USA"
-    },
-    {
-      "city": "Fishkill",
-      "state": "NY",
-      "country": "USA"
-    },
-    {
-      "city": "Fort Collins",
-      "state": "CO",
-      "country": "USA"
-    },
-    {
-      "city": "Massachusetts",
-      "country": "USA"
+      "city": "Vancouver",
+      "country": "BC"
     }
   ],
   "compensation": {
@@ -69,7 +39,7 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-21",
+    "posted": "2026-09-01",
     "discovered": "2026-08-21",
     "last_verified": "2026-09-01"
   },
