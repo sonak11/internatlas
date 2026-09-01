@@ -1,0 +1,114 @@
+{
+  "schema_version": "1.0",
+  "id": "pricewaterhousecoopers-pwc-connected-physical-products-intern-summer-2027-2027",
+  "company": {
+    "name": "PricewaterhouseCoopers (PwC)",
+    "slug": "pricewaterhousecoopers-pwc"
+  },
+  "role": "Connected Physical Products Intern - Summer 2027",
+  "category": "software-engineering",
+  "apply_url": "https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Connected-Physical-Products-Intern---Summer-2027_757231WD",
+  "season": "summer",
+  "year": 2027,
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "Boston",
+      "state": "MA",
+      "country": "USA"
+    },
+    {
+      "city": "Seattle",
+      "state": "WA",
+      "country": "USA"
+    },
+    {
+      "city": "Houston",
+      "state": "TX",
+      "country": "USA"
+    },
+    {
+      "city": "Washington",
+      "state": "DC",
+      "country": "USA"
+    },
+    {
+      "city": "SF",
+      "country": "USA"
+    },
+    {
+      "state": "LA",
+      "country": "USA"
+    },
+    {
+      "city": "Dallas",
+      "state": "TX",
+      "country": "USA"
+    },
+    {
+      "city": "Philadelphia",
+      "state": "PA",
+      "country": "USA"
+    },
+    {
+      "city": "Rosemont",
+      "state": "IL",
+      "country": "USA"
+    },
+    {
+      "city": "Chicago",
+      "state": "IL",
+      "country": "USA"
+    },
+    {
+      "city": "Silicon Valley",
+      "state": "CA",
+      "country": "USA"
+    },
+    {
+      "city": "NYC",
+      "country": "USA"
+    },
+    {
+      "city": "Minneapolis",
+      "state": "MN",
+      "country": "USA"
+    },
+    {
+      "city": "Atlanta",
+      "state": "GA",
+      "country": "USA"
+    }
+  ],
+  "compensation": {
+    "currency": "USD",
+    "housing_stipend": false,
+    "relocation_assistance": false
+  },
+  "eligibility": {
+    "graduation_years": [],
+    "degree_levels": [],
+    "citizenship_required": false,
+    "security_clearance_required": false,
+    "visa_sponsorship": "unknown"
+  },
+  "interview": {},
+  "tech": {
+    "required_skills": [],
+    "preferred_skills": [],
+    "languages": [],
+    "frameworks": [],
+    "cloud_platforms": [],
+    "resume_keywords": []
+  },
+  "dates": {
+    "posted": "2026-08-31",
+    "discovered": "2026-09-01",
+    "last_verified": "2026-09-01"
+  },
+  "status": "open",
+  "tags": [
+    "auto-ingested",
+    "src:simplify"
+  ]
+}

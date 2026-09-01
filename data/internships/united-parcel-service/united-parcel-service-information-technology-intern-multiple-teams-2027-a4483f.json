@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "stripe-software-engineer-intern-summer-2027",
+  "id": "united-parcel-service-information-technology-intern-multiple-teams-2027-a4483f",
   "company": {
-    "name": "Stripe",
-    "slug": "stripe",
-    "career_page": "https://stripe.com/jobs/university"
+    "name": "United Parcel Service",
+    "slug": "united-parcel-service"
   },
-  "role": "Software Engineer, Intern (Summer)",
+  "role": "Information Technology Intern - Multiple Teams",
   "category": "software-engineering",
-  "apply_url": "https://stripe.com/jobs/search?gh_jid=8097801",
+  "apply_url": "https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/US---UPS-TECHNOLOGY-HEADQUARTERS--DATACENTER-NJRAR/UPS-Technology-Group-Summer-2027-Internship---NJ_R26029748",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Dublin",
+      "city": "Mahwah",
+      "state": "NJ",
       "country": "USA"
     }
   ],
@@ -40,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-17",
-    "discovered": "2026-08-29",
-    "last_verified": "2026-08-31"
+    "posted": "2026-08-31",
+    "discovered": "2026-09-01",
+    "last_verified": "2026-09-01"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:ats"
+    "src:simplify"
   ]
 }

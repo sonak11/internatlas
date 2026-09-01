@@ -1,0 +1,54 @@
+{
+  "schema_version": "1.0",
+  "id": "aerotech-software-engineering-intern-co-op-enterprise-development-tea-2027",
+  "company": {
+    "name": "Aerotech",
+    "slug": "aerotech"
+  },
+  "role": "Software Engineering Intern Co-op - Enterprise Development Team - Application Development Team",
+  "category": "software-engineering",
+  "apply_url": "https://aerotech.applytojob.com/apply/OFIYSpO0HW/Software-Engineering-Internship-Or-Coop-2027",
+  "season": "summer",
+  "year": 2027,
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "Pittsburgh",
+      "state": "PA",
+      "country": "USA"
+    }
+  ],
+  "compensation": {
+    "currency": "USD",
+    "housing_stipend": false,
+    "relocation_assistance": false
+  },
+  "eligibility": {
+    "graduation_years": [],
+    "degree_levels": [
+      "masters"
+    ],
+    "citizenship_required": false,
+    "security_clearance_required": false,
+    "visa_sponsorship": "unknown"
+  },
+  "interview": {},
+  "tech": {
+    "required_skills": [],
+    "preferred_skills": [],
+    "languages": [],
+    "frameworks": [],
+    "cloud_platforms": [],
+    "resume_keywords": []
+  },
+  "dates": {
+    "posted": "2026-08-31",
+    "discovered": "2026-09-01",
+    "last_verified": "2026-09-01"
+  },
+  "status": "open",
+  "tags": [
+    "auto-ingested",
+    "src:simplify"
+  ]
+}

@@ -5,7 +5,7 @@
     "name": "Tesla",
     "slug": "tesla"
   },
-  "role": "Software Compiler Engineer Intern - AI Inference",
+  "role": "Software Compiler Engineer Intern, AI Inference",
   "category": "ai",
   "apply_url": "https://www.tesla.com/careers/search/job/278847",
   "season": "fall",
@@ -40,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-01",
+    "posted": "2026-08-03",
     "discovered": "2026-08-01",
-    "last_verified": "2026-08-31"
+    "last_verified": "2026-09-01"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }

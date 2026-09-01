@@ -1,20 +1,24 @@
 {
   "schema_version": "1.0",
-  "id": "rtx-software-engineer-intern-summer-2027-2027-842975",
+  "id": "pricewaterhousecoopers-pwc-financial-crimes-unit-data-analytics-tech-consulting-intern-2027",
   "company": {
-    "name": "RTX",
-    "slug": "rtx"
+    "name": "PricewaterhouseCoopers (PwC)",
+    "slug": "pricewaterhousecoopers-pwc"
   },
-  "role": "Software Engineer Intern - Summer 2027",
+  "role": "Financial Crimes Unit Data & Analytics Tech Consulting Intern - Summer 2027",
   "category": "software-engineering",
-  "apply_url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineering-Intern--Summer-2027-_01868869",
+  "apply_url": "https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Financial-Crimes-Unit-Data---Analytics-Tech-Consulting-Intern---Summer-2027_757242WD",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Richardson",
-      "state": "TX",
+      "city": "Rosemont",
+      "state": "IL",
+      "country": "USA"
+    },
+    {
+      "city": "NYC",
       "country": "USA"
     }
   ],
@@ -40,9 +44,9 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-26",
-    "discovered": "2026-08-26",
-    "last_verified": "2026-08-31"
+    "posted": "2026-08-31",
+    "discovered": "2026-09-01",
+    "last_verified": "2026-09-01"
   },
   "status": "open",
   "tags": [

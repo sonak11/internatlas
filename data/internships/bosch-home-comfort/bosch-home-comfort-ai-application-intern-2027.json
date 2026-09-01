@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "tiktok-efficiency-analyst-methodologist-project-intern-content-oper-2026-89a560",
+  "id": "bosch-home-comfort-ai-application-intern-2027",
   "company": {
-    "name": "TikTok",
-    "slug": "tiktok"
+    "name": "Bosch Home Comfort",
+    "slug": "bosch-home-comfort"
   },
-  "role": "Efficiency Analyst/Methodologist Project Intern - Content Operations - Tiktok-Operations-Operations Efficiency",
-  "category": "software-engineering",
-  "apply_url": "https://lifeattiktok.com/search/7667613782697232693",
-  "season": "fall",
-  "year": 2026,
+  "role": "AI Application Intern",
+  "category": "ai",
+  "apply_url": "https://jobs.smartrecruiters.com/BoschGroup/744000146547599",
+  "season": "winter",
+  "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "San Jose",
-      "state": "CA",
+      "city": "Farmington Hills",
+      "state": "MI",
       "country": "USA"
     }
   ],
@@ -25,7 +25,9 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "masters"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -40,9 +42,9 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-29",
-    "discovered": "2026-07-29",
-    "last_verified": "2026-08-31"
+    "posted": "2026-08-31",
+    "discovered": "2026-09-01",
+    "last_verified": "2026-09-01"
   },
   "status": "open",
   "tags": [

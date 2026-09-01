@@ -1,21 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "hudson-river-trading-hardware-engineer-internship-summer-2027-2027",
+  "id": "stripe-software-engineer-intern-summer-or-winter-2027-bb368d",
   "company": {
-    "name": "Hudson River Trading",
-    "slug": "hudson-river-trading",
-    "career_page": "https://www.hudsonrivertrading.com/careers"
+    "name": "Stripe",
+    "slug": "stripe",
+    "career_page": "https://stripe.com/jobs/university"
   },
-  "role": "Hardware Engineer Internship - Summer 2027",
-  "category": "hardware",
-  "apply_url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=7899574",
+  "role": "Software Engineer, Intern (Summer or Winter)",
+  "category": "software-engineering",
+  "apply_url": "https://stripe.com/jobs/search?gh_jid=8128745",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "New York",
-      "state": "NY",
+      "city": "San Francisco",
       "country": "USA"
     }
   ],
@@ -42,8 +41,8 @@
   },
   "dates": {
     "posted": "2026-08-31",
-    "discovered": "2026-08-31",
-    "last_verified": "2026-08-31"
+    "discovered": "2026-09-01",
+    "last_verified": "2026-09-01"
   },
   "status": "open",
   "tags": [
