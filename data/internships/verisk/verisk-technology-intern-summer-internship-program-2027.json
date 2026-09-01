@@ -1,0 +1,64 @@
+{
+  "schema_version": "1.0",
+  "id": "verisk-technology-intern-summer-internship-program-2027",
+  "company": {
+    "name": "Verisk",
+    "slug": "verisk"
+  },
+  "role": "Technology Intern - Summer Internship Program",
+  "category": "software-engineering",
+  "apply_url": "https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4722",
+  "season": "summer",
+  "year": 2027,
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "Holmdel",
+      "state": "NJ",
+      "country": "USA"
+    },
+    {
+      "city": "Jersey City",
+      "state": "NJ",
+      "country": "USA"
+    },
+    {
+      "city": "Lehi",
+      "state": "UT",
+      "country": "USA"
+    }
+  ],
+  "compensation": {
+    "currency": "USD",
+    "housing_stipend": false,
+    "relocation_assistance": false
+  },
+  "eligibility": {
+    "graduation_years": [],
+    "degree_levels": [
+      "masters"
+    ],
+    "citizenship_required": false,
+    "security_clearance_required": false,
+    "visa_sponsorship": "unknown"
+  },
+  "interview": {},
+  "tech": {
+    "required_skills": [],
+    "preferred_skills": [],
+    "languages": [],
+    "frameworks": [],
+    "cloud_platforms": [],
+    "resume_keywords": []
+  },
+  "dates": {
+    "posted": "2026-09-01",
+    "discovered": "2026-09-01",
+    "last_verified": "2026-09-01"
+  },
+  "status": "open",
+  "tags": [
+    "auto-ingested",
+    "src:simplify"
+  ]
+}

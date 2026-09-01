@@ -1,0 +1,64 @@
+{
+  "schema_version": "1.0",
+  "id": "vanguard-technical-product-manager-intern-2027",
+  "company": {
+    "name": "Vanguard",
+    "slug": "vanguard"
+  },
+  "role": "Technical Product Manager Intern",
+  "category": "product",
+  "apply_url": "https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship---Technical-Product-Manager_181969",
+  "season": "summer",
+  "year": 2027,
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "Dallas",
+      "state": "TX",
+      "country": "USA"
+    },
+    {
+      "city": "Malvern",
+      "state": "PA",
+      "country": "USA"
+    },
+    {
+      "city": "Charlotte",
+      "state": "NC",
+      "country": "USA"
+    }
+  ],
+  "compensation": {
+    "currency": "USD",
+    "housing_stipend": false,
+    "relocation_assistance": false
+  },
+  "eligibility": {
+    "graduation_years": [],
+    "degree_levels": [
+      "masters"
+    ],
+    "citizenship_required": false,
+    "security_clearance_required": false,
+    "visa_sponsorship": "unknown"
+  },
+  "interview": {},
+  "tech": {
+    "required_skills": [],
+    "preferred_skills": [],
+    "languages": [],
+    "frameworks": [],
+    "cloud_platforms": [],
+    "resume_keywords": []
+  },
+  "dates": {
+    "posted": "2026-09-01",
+    "discovered": "2026-09-01",
+    "last_verified": "2026-09-01"
+  },
+  "status": "open",
+  "tags": [
+    "auto-ingested",
+    "src:simplify"
+  ]
+}
