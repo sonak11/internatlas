@@ -1,0 +1,57 @@
+{
+  "schema_version": "1.0",
+  "id": "aerovironment-machine-learning-intern-2027",
+  "company": {
+    "name": "AeroVironment",
+    "slug": "aerovironment"
+  },
+  "role": "Machine Learning Intern",
+  "category": "machine-learning",
+  "apply_url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Minneapolis-MN/Summer-2027-Machine-Learning-Intern_8389",
+  "season": "summer",
+  "year": 2027,
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "Centreville",
+      "state": "VA",
+      "country": "USA"
+    },
+    {
+      "city": "Minneapolis",
+      "state": "MN",
+      "country": "USA"
+    }
+  ],
+  "compensation": {
+    "currency": "USD",
+    "housing_stipend": false,
+    "relocation_assistance": false
+  },
+  "eligibility": {
+    "graduation_years": [],
+    "degree_levels": [],
+    "citizenship_required": false,
+    "security_clearance_required": false,
+    "visa_sponsorship": "unknown"
+  },
+  "interview": {},
+  "tech": {
+    "required_skills": [],
+    "preferred_skills": [],
+    "languages": [],
+    "frameworks": [],
+    "cloud_platforms": [],
+    "resume_keywords": []
+  },
+  "dates": {
+    "posted": "2026-09-01",
+    "discovered": "2026-09-02",
+    "last_verified": "2026-09-02"
+  },
+  "status": "open",
+  "tags": [
+    "auto-ingested",
+    "src:simplify"
+  ]
+}
