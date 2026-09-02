@@ -48,7 +48,7 @@
 | [Amentum](../companies/amentum.md) | 0/1 | hardware |
 | [Ameren](../companies/ameren.md) | 2/3 | software-engineering |
 | [American Bureau of Shipping](../companies/american-bureau-of-shipping.md) | 0/1 | ai |
-| [American Enterprise Institute](../companies/american-enterprise-institute.md) | 1/4 | ai, software-engineering |
+| [American Enterprise Institute](../companies/american-enterprise-institute.md) | 0/4 | ai, software-engineering |
 | [American Express](../companies/american-express.md) | 60/61 | ai, data-engineering, data-science, product, security, software-engineering |
 | [American Fidelity](../companies/american-fidelity.md) | 4/4 | ai, software-engineering |
 | [American Institutes for Research](../companies/american-institutes-for-research.md) | 0/1 | data-science |
@@ -156,7 +156,7 @@
 | [Capula](../companies/capula.md) | 1/1 | quant |
 | [Cardinal Health](../companies/cardinal-health.md) | 1/1 | software-engineering |
 | [Carnegie Mellon University](../companies/carnegie-mellon-university.md) | 0/1 | research |
-| [Castleton Commodities International](../companies/castleton-commodities-international.md) | 8/8 | data-engineering, machine-learning, quant, software-engineering |
+| [Castleton Commodities International](../companies/castleton-commodities-international.md) | 7/7 | data-engineering, machine-learning, quant, software-engineering |
 | [Catalist](../companies/catalist.md) | 1/1 | software-engineering |
 | [Celonis](../companies/celonis.md) | 1/1 | software-engineering |
 | [Centene](../companies/centene.md) | 0/1 | software-engineering |
@@ -560,7 +560,7 @@
 | [Nightwing](../companies/nightwing.md) | 1/1 | hardware |
 | [Nike](../companies/nike.md) | 2/2 | software-engineering |
 | [Noblis](../companies/noblis.md) | 0/1 | software-engineering |
-| [Nokia](../companies/nokia.md) | 6/12 | data-science, design, embedded, hardware, software-engineering |
+| [Nokia](../companies/nokia.md) | 5/12 | data-science, design, embedded, hardware, software-engineering |
 | [Nomagic](../companies/nomagic.md) | 1/1 | hardware |
 | [North Atlantic Industries](../companies/north-atlantic-industries.md) | 2/2 | software-engineering |
 | [North Cloud](../companies/north-cloud.md) | 0/1 | ai |
@@ -759,7 +759,7 @@
 | [Stripe](../companies/stripe.md) | 6/6 | software-engineering |
 | [Stryker](../companies/stryker.md) | 5/5 | software-engineering |
 | [Stryten](../companies/stryten.md) | 0/1 | software-engineering |
-| [StudyFetch](../companies/studyfetch.md) | 1/2 | software-engineering |
+| [StudyFetch](../companies/studyfetch.md) | 0/2 | software-engineering |
 | [Super](../companies/super.md) | 0/2 | software-engineering |
 | [Susquehanna](../companies/susquehanna.md) | 1/1 | quant |
 | [Susquehanna International Group](../companies/susquehanna-international-group.md) | 2/2 | quant |

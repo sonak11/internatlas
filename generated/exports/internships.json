@@ -1,6 +1,6 @@
 {
   "generated": "2026-09-02",
-  "count": 3137,
+  "count": 3136,
   "internships": [
     {
       "schema_version": "1.0",
@@ -8027,7 +8027,7 @@
         "discovered": "2026-08-01",
         "last_verified": "2026-09-02"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -32146,17 +32146,13 @@
       "work_mode": "onsite",
       "locations": [
         {
-          "city": "Houston",
-          "state": "TX",
-          "country": "USA"
-        },
-        {
           "city": "Stamford",
           "state": "CT",
           "country": "USA"
         },
         {
-          "city": "NYC",
+          "city": "Houston",
+          "state": "TX",
           "country": "USA"
         },
         {
@@ -32187,14 +32183,14 @@
         "resume_keywords": []
       },
       "dates": {
-        "posted": "2026-07-21",
+        "posted": "2026-07-31",
         "discovered": "2026-08-01",
         "last_verified": "2026-09-02"
       },
       "status": "open",
       "tags": [
         "auto-ingested",
-        "src:simplify"
+        "src:vanshb03"
       ]
     },
     {
@@ -32252,7 +32248,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "castleton-commodities-international-data-science-machine-learning-intern-2027-011a44",
+      "id": "castleton-commodities-international-data-science-machine-learning-intern-2027",
       "company": {
         "name": "Castleton Commodities International",
         "slug": "castleton-commodities-international"
@@ -32278,60 +32274,6 @@
           "city": "New York City",
           "state": "NY",
           "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [
-          "masters",
-          "phd"
-        ],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-07-21",
-        "discovered": "2026-08-01",
-        "last_verified": "2026-09-02"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "castleton-commodities-international-data-science-machine-learning-intern-2027",
-      "company": {
-        "name": "Castleton Commodities International",
-        "slug": "castleton-commodities-international"
-      },
-      "role": "Data Science Machine Learning Intern",
-      "category": "machine-learning",
-      "apply_url": "https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/London-UK/Data-Science-Machine-Learning-Internship--Summer-2027-_R1345",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "London",
-          "country": "UK"
         }
       ],
       "compensation": {
@@ -97362,7 +97304,7 @@
         "discovered": "2026-09-02",
         "last_verified": "2026-09-02"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -133604,7 +133546,7 @@
         "discovered": "2026-08-03",
         "last_verified": "2026-09-02"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"

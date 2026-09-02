@@ -36,7 +36,7 @@ _Generated 2026-09-02_
 | software-engineering | 1768 | `██████████████` |
 | ai | 272 | `██` |
 | quant | 233 | `██` |
-| machine-learning | 168 | `█` |
+| machine-learning | 167 | `█` |
 | hardware | 123 | `█` |
 | research | 115 | `█` |
 | product | 108 | `█` |
@@ -82,6 +82,7 @@ _Generated 2026-09-02_
 - Amazon — Software Development Engineer Internship - Fall 2026 - US
 - Ameren — Crisis Management Meteorology Intern
 - American Enterprise Institute — Housing Center Intern
+- American Enterprise Institute — Intern: Economic Policy
 - American Institutes for Research — Data Science Intern
 - Analytical Mechanics Associates — Research Scientist Intern
 - Aptiv — Engineering Intern
@@ -298,6 +299,7 @@ _Generated 2026-09-02_
 - New York Post Holdings — Product Intern
 - Nextiva — Marketing Intern - Data Science
 - Nokia — Hardware Developer Engineer Co-op/Intern
+- Nokia — Software Developer Co-op Intern - Intern
 - Northrop Grumman — Software Engineer Intern - Aeronautics Systems
 - Northrop Grumman — Software Engineer Intern - Strategic Deterrent Systems Division - Sentinel
 - Notion — Governance, Risk, and Compliance Intern (Fall 2026)
@@ -395,6 +397,7 @@ _Generated 2026-09-02_
 - SpreeAI — Software Engineer Intern
 - State of Nebraska — IT Construction Systems Intern
 - Stryten — Procurement Intern
+- StudyFetch — Product Intern
 - Super — Software Engineer Intern - Product - Full-Stack
 - Super — Travel Supply Analyst Intern
 - Synchrony Financial — Digital Technology Center Intern
