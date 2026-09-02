@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "pylon-software-engineer-intern-2027",
+  "id": "nokia-web-developer-co-op-intern-2027",
   "company": {
-    "name": "Pylon",
-    "slug": "pylon"
+    "name": "Nokia",
+    "slug": "nokia"
   },
-  "role": "Software Engineer Intern",
+  "role": "Web Developer Co-op Intern",
   "category": "software-engineering",
-  "apply_url": "https://jobs.ashbyhq.com/pylon-labs/fcea8b52-81f1-4b0c-b575-d7b180faec4d/application",
-  "season": "summer",
+  "apply_url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39821",
+  "season": "winter",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "SF",
-      "country": "USA"
+      "city": "Ottawa",
+      "country": "ON"
     }
   ],
   "compensation": {
@@ -41,11 +41,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-09",
-    "discovered": "2026-07-17",
+    "posted": "2026-09-02",
+    "discovered": "2026-09-02",
     "last_verified": "2026-09-02"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

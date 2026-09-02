@@ -1,6 +1,6 @@
 {
   "generated": "2026-09-02",
-  "count": 3121,
+  "count": 3137,
   "internships": [
     {
       "schema_version": "1.0",
@@ -58198,7 +58198,7 @@
         "discovered": "2026-09-01",
         "last_verified": "2026-09-02"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -59474,6 +59474,115 @@
     },
     {
       "schema_version": "1.0",
+      "id": "geotab-data-analyst-intern-2027",
+      "company": {
+        "name": "Geotab",
+        "slug": "geotab"
+      },
+      "role": "Data Analyst Intern",
+      "category": "software-engineering",
+      "apply_url": "https://job-boards.greenhouse.io/internshiplist2000/jobs/5324252008",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Toronto",
+          "country": "ON"
+        },
+        {
+          "city": "Oakville",
+          "country": "ON"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-02",
+        "discovered": "2026-09-02",
+        "last_verified": "2026-09-02"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "geotab-dataops-developer-intern-months-2027",
+      "company": {
+        "name": "Geotab",
+        "slug": "geotab"
+      },
+      "role": "DataOps Developer Intern - Months",
+      "category": "software-engineering",
+      "apply_url": "https://job-boards.greenhouse.io/internshiplist2000/jobs/5389379008",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Atlanta",
+          "state": "GA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-02",
+        "discovered": "2026-09-02",
+        "last_verified": "2026-09-02"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "geotab-embedded-developer-intern-multiple-teams-2027",
       "company": {
         "name": "Geotab",
@@ -59519,6 +59628,218 @@
       "dates": {
         "posted": "2026-09-01",
         "discovered": "2026-09-01",
+        "last_verified": "2026-09-02"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "geotab-insights-integrations-consultancy-data-scientist-intern-2026",
+      "company": {
+        "name": "Geotab",
+        "slug": "geotab"
+      },
+      "role": "Insights & Integrations Consultancy Data Scientist Intern",
+      "category": "data-science",
+      "apply_url": "https://job-boards.greenhouse.io/internshiplist2000/jobs/5156504008",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Oakville",
+          "country": "ON"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-05-04",
+        "discovered": "2026-09-02",
+        "last_verified": "2026-09-02"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "geotab-product-coordinator-intern-driver-compliance-2027",
+      "company": {
+        "name": "Geotab",
+        "slug": "geotab"
+      },
+      "role": "Product Coordinator Intern - Driver Compliance",
+      "category": "software-engineering",
+      "apply_url": "https://job-boards.greenhouse.io/internshiplist2000/jobs/5360844008",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Toronto",
+          "country": "ON"
+        },
+        {
+          "city": "Oakville",
+          "country": "ON"
+        },
+        {
+          "city": "Waterloo",
+          "country": "ON"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-02",
+        "discovered": "2026-09-02",
+        "last_verified": "2026-09-02"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "geotab-product-management-intern-2027",
+      "company": {
+        "name": "Geotab",
+        "slug": "geotab"
+      },
+      "role": "Product Management Intern",
+      "category": "product",
+      "apply_url": "https://job-boards.greenhouse.io/internshiplist2000/jobs/5383920008",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Oakville",
+          "country": "ON"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-02",
+        "discovered": "2026-09-02",
+        "last_verified": "2026-09-02"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "geotab-product-management-intern-growth-marketplace-2027",
+      "company": {
+        "name": "Geotab",
+        "slug": "geotab"
+      },
+      "role": "Product Management Intern - Growth & Marketplace",
+      "category": "product",
+      "apply_url": "https://job-boards.greenhouse.io/internshiplist2000/jobs/5291162008",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Oakville",
+          "country": "ON"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-02",
+        "discovered": "2026-09-02",
         "last_verified": "2026-09-02"
       },
       "status": "open",
@@ -96892,6 +97213,163 @@
     },
     {
       "schema_version": "1.0",
+      "id": "nokia-software-designer-co-op-intern-intern-2027",
+      "company": {
+        "name": "Nokia",
+        "slug": "nokia"
+      },
+      "role": "Software Designer Co-op Intern - Intern",
+      "category": "design",
+      "apply_url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39679",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Ottawa",
+          "country": "ON"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-02",
+        "discovered": "2026-09-02",
+        "last_verified": "2026-09-02"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "nokia-software-developer-co-op-intern-2027",
+      "company": {
+        "name": "Nokia",
+        "slug": "nokia"
+      },
+      "role": "Software Developer Co-op Intern",
+      "category": "software-engineering",
+      "apply_url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39435",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Ottawa",
+          "country": "ON"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-02",
+        "discovered": "2026-09-02",
+        "last_verified": "2026-09-02"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "nokia-software-developer-co-op-intern-intern-2027",
+      "company": {
+        "name": "Nokia",
+        "slug": "nokia"
+      },
+      "role": "Software Developer Co-op Intern - Intern",
+      "category": "software-engineering",
+      "apply_url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39395",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Ottawa",
+          "country": "ON"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-02",
+        "discovered": "2026-09-02",
+        "last_verified": "2026-09-02"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "nokia-tools-and-automation-software-developer-co-op-intern-2027",
       "company": {
         "name": "Nokia",
@@ -96900,6 +97378,112 @@
       "role": "Tools and Automation Software Developer Co-op/Intern",
       "category": "software-engineering",
       "apply_url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39341",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Ottawa",
+          "country": "ON"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-02",
+        "discovered": "2026-09-02",
+        "last_verified": "2026-09-02"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "nokia-web-developer-co-op-intern-2027",
+      "company": {
+        "name": "Nokia",
+        "slug": "nokia"
+      },
+      "role": "Web Developer Co-op Intern",
+      "category": "software-engineering",
+      "apply_url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39821",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Ottawa",
+          "country": "ON"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-02",
+        "discovered": "2026-09-02",
+        "last_verified": "2026-09-02"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "nokia-web-developer-co-op-intern-intern-2027",
+      "company": {
+        "name": "Nokia",
+        "slug": "nokia"
+      },
+      "role": "Web Developer Co-op Intern - Intern",
+      "category": "software-engineering",
+      "apply_url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39612",
       "season": "winter",
       "year": 2027,
       "work_mode": "onsite",
@@ -110954,7 +111538,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-09-02"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -117345,6 +117929,112 @@
     },
     {
       "schema_version": "1.0",
+      "id": "roblox-summer-2027-product-design-intern-2027",
+      "company": {
+        "name": "Roblox",
+        "slug": "roblox",
+        "career_page": "https://careers.roblox.com/"
+      },
+      "role": "[Summer 2027] Product Design Intern",
+      "category": "design",
+      "apply_url": "https://careers.roblox.com/jobs/8143984?gh_jid=8143984",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Mateo",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-02",
+        "discovered": "2026-09-02",
+        "last_verified": "2026-09-02"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "roblox-summer-2027-product-management-intern-2027",
+      "company": {
+        "name": "Roblox",
+        "slug": "roblox",
+        "career_page": "https://careers.roblox.com/"
+      },
+      "role": "[Summer 2027] Product Management Intern",
+      "category": "product",
+      "apply_url": "https://careers.roblox.com/jobs/8143981?gh_jid=8143981",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Mateo",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-02",
+        "discovered": "2026-09-02",
+        "last_verified": "2026-09-02"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "rocket-lab-software-intern-2026",
       "company": {
         "name": "Rocket Lab",
@@ -121894,7 +122584,7 @@
         "discovered": "2026-08-28",
         "last_verified": "2026-09-02"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -122107,7 +122797,7 @@
         "discovered": "2026-09-01",
         "last_verified": "2026-09-02"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -123177,7 +123867,7 @@
         "discovered": "2026-08-27",
         "last_verified": "2026-09-02"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -124919,9 +125609,9 @@
       "dates": {
         "posted": "2026-08-03",
         "discovered": "2026-08-04",
-        "last_verified": "2026-09-01"
+        "last_verified": "2026-09-02"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:ats"
@@ -131789,6 +132479,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "steel-dynamics-software-development-intern-2027",
+      "company": {
+        "name": "Steel Dynamics",
+        "slug": "steel-dynamics"
+      },
+      "role": "Software Development Intern",
+      "category": "software-engineering",
+      "apply_url": "https://careers-steeldynamics.icims.com/jobs/7994/job?mobile=true&needsRedirect=false",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Fort Wayne",
+          "state": "IN",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-02",
+        "discovered": "2026-09-02",
+        "last_verified": "2026-09-02"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "stellar-science-scientific-software-developer-intern-co-op-2026",
       "company": {
         "name": "Stellar Science",
@@ -132964,7 +133706,7 @@
         "discovered": "2026-08-01",
         "last_verified": "2026-09-02"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify",
@@ -156785,7 +157527,7 @@
         "discovered": "2026-09-01",
         "last_verified": "2026-09-02"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -160511,6 +161253,110 @@
       "dates": {
         "posted": "2026-08-31",
         "discovered": "2026-09-01",
+        "last_verified": "2026-09-02"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "universal-health-services-revenue-cycle-analyst-intern-2027",
+      "company": {
+        "name": "Universal Health Services",
+        "slug": "universal-health-services"
+      },
+      "role": "Revenue Cycle Analyst Intern",
+      "category": "software-engineering",
+      "apply_url": "https://jobs.uhsinc.com/jobs/367250?icims=1",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Tredyffrin Township",
+          "state": "PA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-02",
+        "discovered": "2026-09-02",
+        "last_verified": "2026-09-02"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "universal-health-services-software-engineer-intern-data-analytics-2027",
+      "company": {
+        "name": "Universal Health Services",
+        "slug": "universal-health-services"
+      },
+      "role": "Software Engineer Intern - Data Analytics",
+      "category": "software-engineering",
+      "apply_url": "https://jobs.uhsinc.com/jobs/367247?icims=1",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "King of Prussia",
+          "state": "PA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-02",
+        "discovered": "2026-09-02",
         "last_verified": "2026-09-02"
       },
       "status": "open",

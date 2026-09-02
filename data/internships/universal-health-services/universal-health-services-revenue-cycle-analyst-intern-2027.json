@@ -1,19 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "pylon-software-engineer-intern-2027",
+  "id": "universal-health-services-revenue-cycle-analyst-intern-2027",
   "company": {
-    "name": "Pylon",
-    "slug": "pylon"
+    "name": "Universal Health Services",
+    "slug": "universal-health-services"
   },
-  "role": "Software Engineer Intern",
+  "role": "Revenue Cycle Analyst Intern",
   "category": "software-engineering",
-  "apply_url": "https://jobs.ashbyhq.com/pylon-labs/fcea8b52-81f1-4b0c-b575-d7b180faec4d/application",
+  "apply_url": "https://jobs.uhsinc.com/jobs/367250?icims=1",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "SF",
+      "city": "Tredyffrin Township",
+      "state": "PA",
       "country": "USA"
     }
   ],
@@ -24,9 +25,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -41,11 +40,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-09",
-    "discovered": "2026-07-17",
+    "posted": "2026-09-02",
+    "discovered": "2026-09-02",
     "last_verified": "2026-09-02"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

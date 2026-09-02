@@ -33,16 +33,16 @@ _Generated 2026-09-02_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 1758 | `██████████████` |
+| software-engineering | 1768 | `██████████████` |
 | ai | 272 | `██` |
 | quant | 233 | `██` |
 | machine-learning | 168 | `█` |
 | hardware | 123 | `█` |
 | research | 115 | `█` |
-| product | 105 | `█` |
-| data-science | 95 | `█` |
+| product | 108 | `█` |
+| data-science | 96 | `█` |
 | embedded | 79 | `█` |
-| design | 57 | `█` |
+| design | 59 | `█` |
 | data-engineering | 49 | `█` |
 | cloud | 48 | `█` |
 | security | 19 | `█` |
@@ -60,15 +60,15 @@ _Generated 2026-09-02_
 - 2026-09-02 — **Corning**: [Digital & IT Intern - Analyst - Enterprise Data Management](https://corningjobs.corning.com/job/Charlotte-Digital-&-IT-Intern,-Analyst,-Enterprise-Data-Management-Summer-2027-NC-28216/1425715900/?ats=successfactors)
 - 2026-09-02 — **Eight Sleep**: [Prototype & Test Engineer Intern - New Product Development](https://jobs.ashbyhq.com/eightsleep/393ffe76-749e-4ec1-9975-a96b7fefe31f/application?embed=true)
 - 2026-09-02 — **Formlabs**: [Hardware Systems Integration Intern - Winter/Spring 2027](https://careers.formlabs.com/job/8172004/apply/?gh_jid=8172004)
+- 2026-09-02 — **Geotab**: [Data Analyst Intern](https://job-boards.greenhouse.io/internshiplist2000/jobs/5324252008)
+- 2026-09-02 — **Geotab**: [DataOps Developer Intern - Months](https://job-boards.greenhouse.io/internshiplist2000/jobs/5389379008)
+- 2026-09-02 — **Geotab**: [Product Coordinator Intern - Driver Compliance](https://job-boards.greenhouse.io/internshiplist2000/jobs/5360844008)
+- 2026-09-02 — **Geotab**: [Product Management Intern](https://job-boards.greenhouse.io/internshiplist2000/jobs/5383920008)
+- 2026-09-02 — **Geotab**: [Product Management Intern - Growth & Marketplace](https://job-boards.greenhouse.io/internshiplist2000/jobs/5291162008)
 - 2026-09-02 — **John Deere**: [Product Engineering Intern](https://johndeere.eightfold.ai/careers/job/137482769212)
 - 2026-09-02 — **Johns Hopkins Applied Physics Laboratory**: [Mission Systems Engineering Intern](https://careers.jhuapl.edu/jobs/59883?icims=1)
-- 2026-09-02 — **Nokia**: [Tools and Automation Software Developer Co-op/Intern](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39341)
-- 2026-09-02 — **Oppenheimer & Co. Inc.**: [Equities Sales & Trading Intern - Business Segments and Corporate Infrastructure](https://opco.hrmdirect.com/employment/job-opening.php?req=3799625)
-- 2026-09-02 — **Panasonic Holdings**: [Data Engineering Intern](https://careers.na.panasonic.com/jobs/50772?icims=1)
-- 2026-09-02 — **Tesla**: [Machine Learning Engineer Intern - Charging Data Modeling](https://www.tesla.com/careers/search/job/281940)
-- 2026-09-02 — **Tesla**: [Physics Engine Development Engineer Intern - Optimus](https://www.tesla.com/careers/search/job/282147)
-- 2026-09-02 — **Tesla**: [Robotaxi Simulation Engineer Intern - Systems Modeling & Optimization](https://www.tesla.com/careers/search/job/281936)
-- 2026-09-02 — **Tesla**: [Vehicle Software Engineer Intern - Diagnostic User Interface](https://www.tesla.com/careers/search/job/281921)
+- 2026-09-02 — **Nokia**: [Software Designer Co-op Intern - Intern](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39679)
+- 2026-09-02 — **Nokia**: [Software Developer Co-op Intern](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39435)
 
 ## Recently closed
 
@@ -184,6 +184,7 @@ _Generated 2026-09-02_
 - Freeform — Materials Engineer Intern
 - Frost — Computer Science Intern - Digital Services
 - GE Vernova — Digital Technology Intern
+- Geico — Artificial Intelligence Applied Research & Machine Learning Intern - PhD
 - Gemini — Software Engineering Intern
 - Generac — Firmware Engineering Intern
 - General Motors — Battery and Sustainability Intern - Battery Research and Development
@@ -320,6 +321,7 @@ _Generated 2026-09-02_
 - ProNexus — Software Engineer Intern
 - PSP Investments — AI Solutions Intern - External Manager Selection & Monitoring
 - Pure Storage — SW Engineer Internship
+- Pylon — Software Engineer Intern
 - Quantbot Technologies — Machine Learning Research Engineer Intern
 - Quantbot Technologies — Quantitative Developer Intern
 - QuEra Computing — Photonics Data Engineer Intern - Data Management
@@ -359,6 +361,8 @@ _Generated 2026-09-02_
 - RTX — Software Engineer Intern
 - RTX — Software Engineer Intern
 - RTX — Software Engineer Intern
+- RTX — Software Engineer Intern
+- RTX — Software Engineer Intern
 - RTX — Software Engineer Intern - Intelligent Software & Systems
 - RTX — Software Engineer Intern - Spring 2027
 - RTX — Software Engineer Intern - Summer 2027
@@ -375,9 +379,7 @@ _Generated 2026-09-02_
 - RTX — Software Engineer Intern - Summer 2027
 - RTX — Software Engineer Intern - Summer 2027
 - RTX — Software Engineer Intern - Summer 2027
-- RTX — Software Engineer Intern - Summer 2027
 - RTX — Systems Technology Intern
-- Samsara — Software Engineering Internship - London
 - Scale AI — AI Builder Intern
 - Scale AI — Technical Advisor Specialist (Part-Time Internship)
 - Schweitzer Engineering Laboratories — Application Engineering Intern
@@ -394,6 +396,7 @@ _Generated 2026-09-02_
 - State of Nebraska — IT Construction Systems Intern
 - Stryten — Procurement Intern
 - Super — Software Engineer Intern - Product - Full-Stack
+- Super — Travel Supply Analyst Intern
 - Synchrony Financial — Digital Technology Center Intern
 - Synchrony Financial — Emerging Technology Intern - Fall 2026
 - Synchrony Financial — Software Engineer Intern
@@ -447,7 +450,6 @@ _Generated 2026-09-02_
 - The Walt Disney Company — Systems Software Engineer Intern
 - TikTok — Efficiency Analyst/Methodologist Project Intern - Content Operations - Tiktok-Operations-Operations Efficiency
 - TikTok — Product Manager Intern - TikTok Product Content Ecosystem
-- Toast — Engineer Intern
 - Together AI — Research Intern - Model Shaping
 - Together AI — Systems Research Engineer Intern - GPU Programming
 - Toshiba Global Commerce — AI Software Engineer Intern
