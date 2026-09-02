@@ -126,6 +126,7 @@ _Generated 2026-09-02_
 - Canva — PhD Research Scientist Intern - Reinforcement Learning for Diffusion Modelling
 - Capital One — Cyber Security Intern
 - Capital One — Software Engineer Intern
+- Castleton Commodities International — Front Office Software Engineer Intern
 - CCC Intelligent Solutions — AI Enablement Intern
 - Centene — People Analytics Intern - Undergraduate
 - Centerstone — Bachelor Level Intern
@@ -158,6 +159,7 @@ _Generated 2026-09-02_
 - Concentric — AI Workflow Intern - AI Workflow Optimization
 - Conduent — Applied AI Engineer Intern - Government Healthcare Solutions
 - Copart — AI Engineer Intern
+- Copart — Software Engineer Intern
 - Crowe — AI Functional Intern
 - Crowe — NetSuite Implementation Intern - Consulting Practice
 - Cubist Systematic Strategies — Quantitative Developer Intern
@@ -190,6 +192,7 @@ _Generated 2026-09-02_
 - Generac — Firmware Engineering Intern
 - General Motors — Battery and Sustainability Intern - Battery Research and Development
 - General Motors — Battery & Sustainability Intern - Physics-Based Battery Modeling
+- Geotab — Embedded Developer Intern - Multiple Teams
 - Global Partners — Advanced Analytics Intern
 - GlossGenius — Engineering Intern
 - GlossGenius — Engineering Intern - Summer 2027
@@ -300,6 +303,7 @@ _Generated 2026-09-02_
 - Nextiva — Marketing Intern - Data Science
 - Nokia — Hardware Developer Engineer Co-op/Intern
 - Nokia — Software Developer Co-op Intern - Intern
+- Nokia — Web Developer Co-op Intern
 - Northrop Grumman — Software Engineer Intern - Aeronautics Systems
 - Northrop Grumman — Software Engineer Intern - Strategic Deterrent Systems Division - Sentinel
 - Notion — Governance, Risk, and Compliance Intern (Fall 2026)
@@ -351,6 +355,7 @@ _Generated 2026-09-02_
 - RRS Group — Software Engineer Intern - Placement Year
 - RTX — Chemistry Materials Engineer Intern
 - RTX — Digital Technology Intern
+- RTX — Electrical Computer-Aided Design Engineer Intern
 - RTX — Electrical Engineering Intern
 - RTX — Engine Performance Intern
 - RTX — Manufacturing & Quality Analyst Intern

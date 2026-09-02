@@ -32261,13 +32261,13 @@
       "work_mode": "onsite",
       "locations": [
         {
-          "city": "Houston",
-          "state": "TX",
+          "city": "Stamford",
+          "state": "CT",
           "country": "USA"
         },
         {
-          "city": "Stamford",
-          "state": "CT",
+          "city": "Houston",
+          "state": "TX",
           "country": "USA"
         },
         {
@@ -32301,14 +32301,14 @@
         "resume_keywords": []
       },
       "dates": {
-        "posted": "2026-07-21",
+        "posted": "2026-07-31",
         "discovered": "2026-07-22",
         "last_verified": "2026-09-02"
       },
       "status": "open",
       "tags": [
         "auto-ingested",
-        "src:simplify"
+        "src:vanshb03"
       ]
     },
     {
@@ -32358,7 +32358,7 @@
         "discovered": "2026-07-22",
         "last_verified": "2026-09-02"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -32379,13 +32379,13 @@
       "work_mode": "onsite",
       "locations": [
         {
-          "city": "Houston",
-          "state": "TX",
+          "city": "Stamford",
+          "state": "CT",
           "country": "USA"
         },
         {
-          "city": "Stamford",
-          "state": "CT",
+          "city": "Houston",
+          "state": "TX",
           "country": "USA"
         }
       ],
@@ -32411,14 +32411,14 @@
         "resume_keywords": []
       },
       "dates": {
-        "posted": "2026-07-21",
+        "posted": "2026-07-31",
         "discovered": "2026-07-22",
         "last_verified": "2026-09-02"
       },
       "status": "open",
       "tags": [
         "auto-ingested",
-        "src:simplify"
+        "src:vanshb03"
       ]
     },
     {
@@ -40459,7 +40459,7 @@
         "discovered": "2026-08-25",
         "last_verified": "2026-09-02"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -59572,7 +59572,7 @@
         "discovered": "2026-09-01",
         "last_verified": "2026-09-02"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -97410,7 +97410,7 @@
         "discovered": "2026-09-02",
         "last_verified": "2026-09-02"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -121261,7 +121261,7 @@
         "discovered": "2026-08-14",
         "last_verified": "2026-09-02"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
