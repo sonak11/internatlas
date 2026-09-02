@@ -8,9 +8,9 @@ _Generated 2026-09-02_
 
 | Company | Listings |
 |---|---|
-| TikTok | 152 |
+| TikTok | 153 |
 | Tesla | 131 |
-| RTX | 80 |
+| RTX | 79 |
 | American Express | 61 |
 | ByteDance | 61 |
 | AMD | 54 |
@@ -33,11 +33,11 @@ _Generated 2026-09-02_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 1755 | `██████████████` |
+| software-engineering | 1758 | `██████████████` |
 | ai | 272 | `██` |
-| quant | 234 | `██` |
+| quant | 233 | `██` |
 | machine-learning | 168 | `█` |
-| hardware | 121 | `█` |
+| hardware | 123 | `█` |
 | research | 115 | `█` |
 | product | 105 | `█` |
 | data-science | 95 | `█` |
@@ -49,6 +49,8 @@ _Generated 2026-09-02_
 
 ## Newest listings
 
+- 2026-09-02 — **Anduril**: [Mechanical Engineering Intern - Summer 2026](https://boards.greenhouse.io/andurilindustries/jobs/5211102007?gh_jid=5211102007)
+- 2026-09-02 — **Anduril**: [Software Engineering Intern - Summer 2026](https://boards.greenhouse.io/andurilindustries/jobs/5211077007?gh_jid=5211077007)
 - 2026-09-02 — **Atlassian**: [Product Management Intern](https://careers-americas.icims.com/jobs/26274/product-management-intern%2c-2027-summer-u.s./job)
 - 2026-09-02 — **Boston Scientific**: [R&D Hardware Engineer Intern - Interns/Graduates](https://bostonscientific.eightfold.ai/careers/job/563602813483105)
 - 2026-09-02 — **Boston Scientific**: [Research Algorithm & Data Science Intern - Interns/Graduates](https://bostonscientific.eightfold.ai/careers/job/563602813483110)
@@ -60,15 +62,13 @@ _Generated 2026-09-02_
 - 2026-09-02 — **Formlabs**: [Hardware Systems Integration Intern - Winter/Spring 2027](https://careers.formlabs.com/job/8172004/apply/?gh_jid=8172004)
 - 2026-09-02 — **John Deere**: [Product Engineering Intern](https://johndeere.eightfold.ai/careers/job/137482769212)
 - 2026-09-02 — **Johns Hopkins Applied Physics Laboratory**: [Mission Systems Engineering Intern](https://careers.jhuapl.edu/jobs/59883?icims=1)
+- 2026-09-02 — **Nokia**: [Tools and Automation Software Developer Co-op/Intern](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39341)
 - 2026-09-02 — **Oppenheimer & Co. Inc.**: [Equities Sales & Trading Intern - Business Segments and Corporate Infrastructure](https://opco.hrmdirect.com/employment/job-opening.php?req=3799625)
 - 2026-09-02 — **Panasonic Holdings**: [Data Engineering Intern](https://careers.na.panasonic.com/jobs/50772?icims=1)
 - 2026-09-02 — **Tesla**: [Machine Learning Engineer Intern - Charging Data Modeling](https://www.tesla.com/careers/search/job/281940)
 - 2026-09-02 — **Tesla**: [Physics Engine Development Engineer Intern - Optimus](https://www.tesla.com/careers/search/job/282147)
 - 2026-09-02 — **Tesla**: [Robotaxi Simulation Engineer Intern - Systems Modeling & Optimization](https://www.tesla.com/careers/search/job/281936)
 - 2026-09-02 — **Tesla**: [Vehicle Software Engineer Intern - Diagnostic User Interface](https://www.tesla.com/careers/search/job/281921)
-- 2026-09-02 — **Textron**: [Aftermarket Analyst Intern](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=343153)
-- 2026-09-02 — **Textron**: [Data Product & Analytics Intern](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=343181)
-- 2026-09-02 — **Textron**: [Software Engineer Intern](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=343299)
 
 ## Recently closed
 
@@ -130,9 +130,11 @@ _Generated 2026-09-02_
 - Centerstone — Bachelor Level Intern
 - Centific — Research Intern - Healthcare AI
 - Centific — Technical Intern
+- Centific — Technical Intern - Masters or PhD
 - CesiumAstro — Embedded Software Engineer Intern
 - CesiumAstro — Software Engineering Intern - Advanced Projects Group
 - CesiumAstro — Test Engineer Intern
+- Chanel — Data Intern - Global Data Program
 - Charles Schwab — Data Engineering Intern - Data Engineering
 - Charles Schwab — Software Engineering Intern - Technology
 - Ciena — Software Developer Intern - Fall 2026
@@ -140,6 +142,7 @@ _Generated 2026-09-02_
 - Circle K — Analyst Intern - Global Fuels
 - Cloudflare — Accounting Intern (Fall 2026)
 - Cloudflare — GRC Team Intern (Fall 2026)
+- Cloudflare — Marketing Campaigns & Account-Based Marketing (ABM) Intern (Fall 2026)
 - Cloudflare — Marketing Events and Campaigns Intern (Fall 2026)
 - Cloudflare — Marketing Events and Campaigns Intern (Fall 2026)
 - Cloudflare — Network Strategy Intern (Fall 2026)
@@ -189,6 +192,14 @@ _Generated 2026-09-02_
 - GlossGenius — Engineering Intern
 - GlossGenius — Engineering Intern - Summer 2027
 - GoDaddy — Software Development Engineer Intern
+- Goldman Sachs — Associate Intern - The Core Quantitative Strats
+- Goldman Sachs — AWM Product Management Analyst Intern
+- Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
+- Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
+- Goldman Sachs — Summer Analyst Intern - FICC and Equities - Sales and Trading
+- Goldman Sachs — Summer Analyst Intern - FICC & Equities - Sales & Trading
+- Goldman Sachs — Summer Analyst Intern - Wealth Management - Product Management and Design
+- Goldman Sachs — Summer Associate Intern - Multiple Teams
 - Gulf Management — Software Engineer & Business Systems Intern
 - Gumloop — Design Engineer Intern
 - Harris Central Appraisal District — GIS Intern
@@ -198,6 +209,7 @@ _Generated 2026-09-02_
 - Humana — Technology Intern - Early ID Participants
 - HyperLight — Integrated Photonics Intern
 - IES Holdings — Data Analytics Intern
+- iHeartMedia — Research Intern
 - IMC Trading — Machine Learning Research Intern - Summer 2027 - Hong Kong
 - Incident IQ — Software Engineer Intern
 - Inizio — Data and Analytics Intern
@@ -268,6 +280,7 @@ _Generated 2026-09-02_
 - Microchip Technology — Verification Intern - Verification
 - Microsoft — AI Software Engineer Intern
 - Microsoft — AI Software Engineer Intern - Edge
+- MKS Instruments — Business Intelligence/Data Analytics Intern
 - Moog — Computer Science Intern - Information Technology
 - Moog — Hardware Engineer Intern
 - Moog — Product Engineering Intern
@@ -278,9 +291,11 @@ _Generated 2026-09-02_
 - National Reconnaissance Office — Summer Internship - Dr. Chris Scolese
 - Nationwide Children's Hospital — IGM Research Intern - RI Miller
 - Naver U.Hub INC — Product Management Intern
+- Navy Federal — Data Scientist Intern
 - Navy Federal — Frontend Application Engineer Intern
 - Netsmart — Software Engineer Intern
 - New York Post Holdings — Product Intern
+- Nextiva — Marketing Intern - Data Science
 - Nokia — Hardware Developer Engineer Co-op/Intern
 - Northrop Grumman — Software Engineer Intern - Aeronautics Systems
 - Northrop Grumman — Software Engineer Intern - Strategic Deterrent Systems Division - Sentinel
@@ -343,8 +358,10 @@ _Generated 2026-09-02_
 - RTX — Software Engineer Intern
 - RTX — Software Engineer Intern
 - RTX — Software Engineer Intern
+- RTX — Software Engineer Intern
 - RTX — Software Engineer Intern - Intelligent Software & Systems
 - RTX — Software Engineer Intern - Spring 2027
+- RTX — Software Engineer Intern - Summer 2027
 - RTX — Software Engineer Intern - Summer 2027
 - RTX — Software Engineer Intern - Summer 2027
 - RTX — Software Engineer Intern - Summer 2027
