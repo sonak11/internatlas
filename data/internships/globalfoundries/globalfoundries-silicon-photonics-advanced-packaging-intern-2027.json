@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "anduril-mechanical-engineering-intern-summer-2026-2027",
+  "id": "globalfoundries-silicon-photonics-advanced-packaging-intern-2027",
   "company": {
-    "name": "Anduril",
-    "slug": "anduril",
-    "career_page": "https://www.anduril.com/careers"
+    "name": "GlobalFoundries",
+    "slug": "globalfoundries"
   },
-  "role": "Mechanical Engineering Intern - Summer 2026",
+  "role": "Silicon Photonics Advanced Packaging Intern",
   "category": "hardware",
-  "apply_url": "https://boards.greenhouse.io/andurilindustries/jobs/5211102007?gh_jid=5211102007",
+  "apply_url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Silicon-Photonics-Advanced-Packaging-Intern--Summer-2027-_JR-2604270",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Sydney",
+      "city": "Malta",
+      "state": "NY",
       "country": "USA"
     }
   ],
@@ -25,7 +25,9 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "masters"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -40,13 +42,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-02",
-    "discovered": "2026-09-02",
+    "posted": "2026-09-03",
+    "discovered": "2026-09-03",
     "last_verified": "2026-09-03"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:ats"
+    "src:simplify"
   ]
 }

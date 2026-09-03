@@ -6,7 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
-| EquipmentShare | [Electrical Engineering Intern](https://www.equipmentshare.com/careers/openings/?gh_jid=8082027) | Columbia, MO | Onsite | 2026-08-14 | Rolling | 🟢 Open | ❔ |
+| EquipmentShare | [Electrical Engineering Intern](https://www.equipmentshare.com/careers/openings/?gh_jid=8082027) | Columbia, MO | Onsite | 2026-08-14 | Rolling | 🔴 Closed | ❔ |
 
 ## Related
 

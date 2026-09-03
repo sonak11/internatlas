@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "national-laboratory-of-the-rockies-graduate-intern-2026-24999b",
+  "id": "nidec-aerospace-intern-new-grad-2026",
   "company": {
-    "name": "National Laboratory of the Rockies",
-    "slug": "national-laboratory-of-the-rockies"
+    "name": "Nidec",
+    "slug": "nidec"
   },
-  "role": "Graduate Intern",
+  "role": "Aerospace Intern New Grad",
   "category": "software-engineering",
-  "apply_url": "https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Graduate-Intern---LLM-Reliability-and-Uncertainty-for-AI-Science-Assistants_R14416",
+  "apply_url": "https://nidec.wd1.myworkdayjobs.com/nidec/job/Atlanta-GA/Nidec-Aerospace-Internship-Opportunities_R0010414",
   "season": "fall",
   "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Golden",
-      "state": "CO",
+      "city": "Atlanta",
+      "state": "GA",
       "country": "USA"
     }
   ],
@@ -43,14 +43,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-20",
-    "discovered": "2026-08-01",
+    "posted": "2026-06-13",
+    "discovered": "2026-09-03",
     "last_verified": "2026-09-03"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify",
-    "remote-available"
+    "src:simplify"
   ]
 }

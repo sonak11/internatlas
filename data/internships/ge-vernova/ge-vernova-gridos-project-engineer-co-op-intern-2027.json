@@ -1,20 +1,25 @@
 {
   "schema_version": "1.0",
-  "id": "tmeic-corporation-americas-engineer-intern-spring-2027-2027-536a5c",
+  "id": "ge-vernova-gridos-project-engineer-co-op-intern-2027",
   "company": {
-    "name": "TMEIC Corporation Americas",
-    "slug": "tmeic-corporation-americas"
+    "name": "GE Vernova",
+    "slug": "ge-vernova"
   },
-  "role": "Engineer Intern - Spring 2027",
+  "role": "GridOS Project Engineer Co-op/Intern",
   "category": "software-engineering",
-  "apply_url": "https://apply.workable.com/tmeic-corporation-americas/j/68E556E5CA/apply",
-  "season": "summer",
+  "apply_url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Bellevue/GE-Vernova-GridOS--Project-Engineer---Co-Op-Intern---January-2027-June-2027_R5050087-1",
+  "season": "winter",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Houston",
-      "state": "TX",
+      "city": "Bellevue",
+      "state": "WA",
+      "country": "USA"
+    },
+    {
+      "city": "Atlanta",
+      "state": "GA",
       "country": "USA"
     }
   ],
@@ -42,8 +47,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-12",
-    "discovered": "2026-08-19",
+    "posted": "2026-08-19",
+    "discovered": "2026-09-03",
     "last_verified": "2026-09-03"
   },
   "status": "open",

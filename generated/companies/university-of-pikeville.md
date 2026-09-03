@@ -6,7 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
-| University of Pikeville | [Policy Analyst Intern - Center for Public Service](https://upike.bamboohr.com/careers/511/) | Pikeville, KY | Onsite | 2026-08-19 | Rolling | 🟢 Open | ❔ |
+| University of Pikeville | [Policy Analyst Intern - Center for Public Service](https://upike.bamboohr.com/careers/511/) | Pikeville, KY | Onsite | 2026-08-19 | Rolling | 🔴 Closed | ❔ |
 
 ## Related
 

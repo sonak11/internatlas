@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "anduril-software-engineering-intern-summer-2026-2027",
+  "id": "transcard-payments-software-engineer-intern-2027",
   "company": {
-    "name": "Anduril",
-    "slug": "anduril",
-    "career_page": "https://www.anduril.com/careers"
+    "name": "Transcard Payments",
+    "slug": "transcard-payments"
   },
-  "role": "Software Engineering Intern - Summer 2026",
-  "category": "hardware",
-  "apply_url": "https://boards.greenhouse.io/andurilindustries/jobs/5211077007?gh_jid=5211077007",
+  "role": "Software Engineer Intern",
+  "category": "software-engineering",
+  "apply_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4476288",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Sydney",
+      "city": "Chattanooga",
+      "state": "TN",
       "country": "USA"
     }
   ],
@@ -40,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-02",
-    "discovered": "2026-09-02",
+    "posted": "2026-09-03",
+    "discovered": "2026-09-03",
     "last_verified": "2026-09-03"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:ats"
+    "src:simplify"
   ]
 }

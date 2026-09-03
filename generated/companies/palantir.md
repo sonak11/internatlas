@@ -15,8 +15,8 @@
 | Palantir | [Forward Deployed Software Engineer – Internship - US Government](https://jobs.lever.co/palantir/315f695d-04d1-4a9a-848e-cb2bec7a997e/apply) | Honolulu, HI | Onsite | 2025-12-12 | Rolling | 🟢 Open | ❔ |
 | Palantir | [Privacy and Civil Liberties Software Engineer Intern](https://jobs.lever.co/palantir/09846827-b931-4a9f-bd64-c3bb8860187b/apply) | NYC | Onsite | 2026-06-29 | Rolling | 🟢 Open | ❔ |
 | Palantir | [Software Engineer Intern](https://jobs.lever.co/palantir/76a60923-bb49-40f5-b061-7c7eb1299602/apply) | London | Onsite | 2026-07-31 | Rolling | 🟢 Open | ❔ |
-| Palantir | [Software Engineer Intern - Infrastructure](https://jobs.lever.co/palantir/fd3603a9-7016-45c6-9c8d-04c9279ab85e/apply) | London | Onsite | 2026-07-31 | Rolling | 🟢 Open | ❔ |
 | Palantir | [Forward Deployed Software Engineer Intern](https://jobs.lever.co/palantir/d582cd84-14fd-4aa3-b413-15982d286bd9/apply) | NYC | Onsite | 2026-02-19 | Rolling | 🔴 Closed | ❔ |
+| Palantir | [Software Engineer Intern - Infrastructure](https://jobs.lever.co/palantir/fd3603a9-7016-45c6-9c8d-04c9279ab85e/apply) | London | Onsite | 2026-07-31 | Rolling | 🔴 Closed | ❔ |
 
 ## Related
 

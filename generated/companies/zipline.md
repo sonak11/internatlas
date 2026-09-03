@@ -6,9 +6,6 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
-| Zipline | [Applications Engineer Intern - Spring 2027](https://www.zipline.com/open-roles?gh_jid=7908677003) | South SF | Onsite | 2026-08-20 | Rolling | 🟢 Open | ❔ |
-| Zipline | [Computational Physics Intern - Summer 2027](https://www.zipline.com/open-roles?gh_jid=7904720003) | South SF | Onsite | 2026-08-19 | Rolling | 🟢 Open | ❔ |
-| Zipline | [Controls Engineer Intern - Spring 2027](https://www.zipline.com/open-roles/7903823003?gh_jid=7903823003) | South SF | Onsite | 2026-08-19 | Rolling | 🟢 Open | ❔ |
 | Zipline | [Electrical Engineer Intern - Electrical Engineering Team](https://www.zipline.com/open-roles/7903708003?gh_jid=7903708003) | South SF | Onsite | 2026-08-19 | Rolling | 🟢 Open | ❔ |
 | Zipline | [Electrical Engineer Intern - Summer 2027](https://www.zipline.com/open-roles/7903711003?gh_jid=7903711003) | South SF | Onsite | 2026-08-19 | Rolling | 🟢 Open | ❔ |
 | Zipline | [Embedded Software Engineer Intern - Spring 2027](https://www.zipline.com/open-roles?gh_jid=7974897003) | South SF | Onsite | 2026-08-26 | Rolling | 🟢 Open | ❔ |
@@ -26,7 +23,10 @@
 | Zipline | [Software Engineer Intern - Spring 2027](https://www.zipline.com/open-roles?gh_jid=7907191003) | South SF | Onsite | 2026-08-20 | Rolling | 🟢 Open | ❔ |
 | Zipline | [Software Engineer Intern - Summer 2027](https://www.zipline.com/open-roles?gh_jid=7929236003) | South SF | Onsite | 2026-08-21 | Rolling | 🟢 Open | ❔ |
 | Zipline | [Applications Engineer Intern](https://www.zipline.com/open-roles?gh_jid=7765099003) | San Bruno, CA | Onsite | 2026-06-08 | Rolling | 🔴 Closed | ❔ |
+| Zipline | [Applications Engineer Intern - Spring 2027](https://www.zipline.com/open-roles?gh_jid=7908677003) | South SF | Onsite | 2026-08-20 | Rolling | 🔴 Closed | ❔ |
 | Zipline | [Computational Physics Intern - Spring 2027](https://www.zipline.com/open-roles?gh_jid=7904605003) | South SF | Onsite | 2026-08-21 | Rolling | 🔴 Closed | ❔ |
+| Zipline | [Computational Physics Intern - Summer 2027](https://www.zipline.com/open-roles?gh_jid=7904720003) | South SF | Onsite | 2026-08-19 | Rolling | 🔴 Closed | ❔ |
+| Zipline | [Controls Engineer Intern - Spring 2027](https://www.zipline.com/open-roles/7903823003?gh_jid=7903823003) | South SF | Onsite | 2026-08-19 | Rolling | 🔴 Closed | ❔ |
 | Zipline | [Embedded Software Engineer Intern](https://www.zipline.com/careers?gh_jid=7765240003) | San Bruno, CA | Onsite | 2026-06-06 | Rolling | 🔴 Closed | ❔ |
 | Zipline | [Enterprise Systems Software Engineer Intern](https://www.zipline.com/careers?gh_jid=7767667003) | San Bruno, CA | Onsite | 2026-06-10 | Rolling | 🔴 Closed | ❔ |
 | Zipline | [Maps Intern](https://www.zipline.com/open-roles?gh_jid=7787868003) | San Bruno, CA | Onsite | 2026-06-27 | Rolling | 🔴 Closed | ❔ |

@@ -5,9 +5,9 @@
     "name": "Tesla",
     "slug": "tesla"
   },
-  "role": "Embedded Software Engineer Intern - Keys & Authentication",
+  "role": "Embedded Software Engineer Intern, Keys & Authentication",
   "category": "embedded",
-  "apply_url": "https://www.tesla.com/careers/search/job/270067",
+  "apply_url": "https://www.tesla.com/careers/search/job/internship-embedded-software-engineer-keys-authentication-fall-2026-270067",
   "season": "fall",
   "year": 2026,
   "work_mode": "onsite",
@@ -40,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-06-07",
+    "posted": "2026-05-09",
     "discovered": "2026-07-17",
     "last_verified": "2026-09-03"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }
