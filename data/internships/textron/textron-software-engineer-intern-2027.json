@@ -7,14 +7,14 @@
   },
   "role": "Software Engineer Intern",
   "category": "software-engineering",
-  "apply_url": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342550",
+  "apply_url": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=343299",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Waterboro",
-      "state": "ME",
+      "city": "Augusta",
+      "state": "GA",
       "country": "USA"
     }
   ],
@@ -40,9 +40,9 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-01",
+    "posted": "2026-09-02",
     "discovered": "2026-09-01",
-    "last_verified": "2026-09-02"
+    "last_verified": "2026-09-03"
   },
   "status": "open",
   "tags": [

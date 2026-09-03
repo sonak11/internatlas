@@ -1,30 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "castleton-commodities-international-data-engineering-intern-2027-45251c",
+  "id": "united-airlines-tech-ops-analytics-business-intelligence-intern-summer-2027-2027",
   "company": {
-    "name": "Castleton Commodities International",
-    "slug": "castleton-commodities-international"
+    "name": "United Airlines",
+    "slug": "united-airlines"
   },
-  "role": "Data Engineering Intern",
-  "category": "data-engineering",
-  "apply_url": "https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Stamford-CT/Data-Engineering-Internship--Summer-2027-_R1346",
+  "role": "Tech Ops Analytics & Business Intelligence Intern - Summer 2027",
+  "category": "software-engineering",
+  "apply_url": "https://careers.united.com/us/en/job/WHQ00026447",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Stamford",
-      "state": "CT",
-      "country": "USA"
-    },
-    {
-      "city": "Houston",
-      "state": "TX",
-      "country": "USA"
-    },
-    {
-      "city": "New York City",
-      "state": "NY",
+      "city": "Chicago",
+      "state": "IL",
       "country": "USA"
     }
   ],
@@ -50,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-31",
-    "discovered": "2026-08-01",
-    "last_verified": "2026-09-02"
+    "posted": "2026-09-01",
+    "discovered": "2026-09-03",
+    "last_verified": "2026-09-03"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:vanshb03"
+    "src:simplify"
   ]
 }

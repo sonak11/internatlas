@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "textron-software-engineer-intern-2027-22b23a",
+  "id": "formlabs-r-d-print-process-engineering-intern-winter-spring-2027-2027",
   "company": {
-    "name": "Textron",
-    "slug": "textron"
+    "name": "Formlabs",
+    "slug": "formlabs"
   },
-  "role": "Software Engineer Intern",
+  "role": "R&D Print Process Engineering Intern - Winter/Spring 2027",
   "category": "software-engineering",
-  "apply_url": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=343299",
-  "season": "summer",
+  "apply_url": "https://careers.formlabs.com/job/8172226/apply/?gh_jid=8172226",
+  "season": "winter",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Augusta",
-      "state": "GA",
+      "city": "Somerville",
+      "state": "MA",
       "country": "USA"
     }
   ],
@@ -41,8 +41,8 @@
   },
   "dates": {
     "posted": "2026-09-02",
-    "discovered": "2026-09-02",
-    "last_verified": "2026-09-02"
+    "discovered": "2026-09-03",
+    "last_verified": "2026-09-03"
   },
   "status": "open",
   "tags": [

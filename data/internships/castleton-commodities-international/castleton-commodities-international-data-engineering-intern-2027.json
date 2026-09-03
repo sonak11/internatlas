@@ -7,14 +7,25 @@
   },
   "role": "Data Engineering Intern",
   "category": "data-engineering",
-  "apply_url": "https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/London/Data-Engineering-Internship--Summer-2027-_R1348",
+  "apply_url": "https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Stamford-CT/Data-Engineering-Internship--Summer-2027-_R1346",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "London",
-      "country": "UK"
+      "city": "Stamford",
+      "state": "CT",
+      "country": "USA"
+    },
+    {
+      "city": "Houston",
+      "state": "TX",
+      "country": "USA"
+    },
+    {
+      "city": "New York City",
+      "state": "NY",
+      "country": "USA"
     }
   ],
   "compensation": {
@@ -41,13 +52,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-21",
+    "posted": "2026-07-31",
     "discovered": "2026-07-22",
-    "last_verified": "2026-09-02"
+    "last_verified": "2026-09-03"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }

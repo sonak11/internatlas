@@ -7,23 +7,23 @@
   },
   "role": "Software Engineer Intern",
   "category": "software-engineering",
-  "apply_url": "https://job-boards.greenhouse.io/andurilindustries/jobs/5148079007?gh_jid=5148079007",
+  "apply_url": "https://boards.greenhouse.io/andurilindustries/jobs/5148079007",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
-    {
-      "city": "Atlanta",
-      "state": "GA",
-      "country": "USA"
-    },
     {
       "city": "Boston",
       "state": "MA",
       "country": "USA"
     },
     {
-      "city": "Costa Mesa",
+      "city": "Seattle",
+      "state": "WA",
+      "country": "USA"
+    },
+    {
+      "city": "Newport Beach",
       "state": "CA",
       "country": "USA"
     },
@@ -38,8 +38,8 @@
       "country": "USA"
     },
     {
-      "city": "Seattle",
-      "state": "WA",
+      "city": "Atlanta",
+      "state": "GA",
       "country": "USA"
     }
   ],
@@ -65,13 +65,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-07",
+    "posted": "2026-06-11",
     "discovered": "2026-07-17",
-    "last_verified": "2026-09-02"
+    "last_verified": "2026-09-03"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:vanshb03"
+    "src:simplify"
   ]
 }

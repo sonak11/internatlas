@@ -43,9 +43,9 @@
   "dates": {
     "posted": "2026-09-02",
     "discovered": "2026-07-17",
-    "last_verified": "2026-09-02"
+    "last_verified": "2026-09-03"
   },
-  "status": "open",
+  "status": "closed",
   "tags": [
     "auto-ingested",
     "src:simplify"
