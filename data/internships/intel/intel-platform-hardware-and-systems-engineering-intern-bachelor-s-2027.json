@@ -1,0 +1,72 @@
+{
+  "schema_version": "1.0",
+  "id": "intel-platform-hardware-and-systems-engineering-intern-bachelor-s-2027",
+  "company": {
+    "name": "Intel",
+    "slug": "intel"
+  },
+  "role": "Platform Hardware and Systems Engineering Intern - Bachelor's",
+  "category": "hardware",
+  "apply_url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Platform-Hardware-and-Systems-Engineering---Intern--Bachelor-s_JR0286827",
+  "season": "spring",
+  "year": 2027,
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "Austin",
+      "state": "TX",
+      "country": "USA"
+    },
+    {
+      "city": "Santa Clara",
+      "state": "CA",
+      "country": "USA"
+    },
+    {
+      "city": "Hillsboro",
+      "state": "OR",
+      "country": "USA"
+    },
+    {
+      "city": "Folsom",
+      "state": "CA",
+      "country": "USA"
+    },
+    {
+      "city": "Phoenix",
+      "state": "AZ",
+      "country": "USA"
+    }
+  ],
+  "compensation": {
+    "currency": "USD",
+    "housing_stipend": false,
+    "relocation_assistance": false
+  },
+  "eligibility": {
+    "graduation_years": [],
+    "degree_levels": [],
+    "citizenship_required": false,
+    "security_clearance_required": false,
+    "visa_sponsorship": "unknown"
+  },
+  "interview": {},
+  "tech": {
+    "required_skills": [],
+    "preferred_skills": [],
+    "languages": [],
+    "frameworks": [],
+    "cloud_platforms": [],
+    "resume_keywords": []
+  },
+  "dates": {
+    "posted": "2026-09-02",
+    "discovered": "2026-09-03",
+    "last_verified": "2026-09-03"
+  },
+  "status": "open",
+  "tags": [
+    "auto-ingested",
+    "src:simplify"
+  ]
+}

@@ -7,14 +7,18 @@
   },
   "role": "Quantitative Systematic Trading Intern",
   "category": "quant",
-  "apply_url": "https://careers-sig.icims.com/jobs/10821/job?mobile=true&needsRedirect=false",
+  "apply_url": "https://careers-sig.icims.com/jobs/10824/job?mobile=true&needsRedirect=false",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Ardmore",
+      "city": "Philadelphia",
       "state": "PA",
+      "country": "USA"
+    },
+    {
+      "city": "NYC",
       "country": "USA"
     }
   ],
@@ -42,7 +46,7 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-04-21",
+    "posted": "2026-06-29",
     "discovered": "2026-07-17",
     "last_verified": "2026-09-03"
   },

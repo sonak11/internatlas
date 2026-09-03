@@ -7,13 +7,23 @@
   },
   "role": "Computer Science Intern",
   "category": "software-engineering",
-  "apply_url": "https://apply.edisoncareers.com/job/Santa-Ana-2027-Summer-Internship-Computer-Science-(Santa-Ana)-CA-92705/1425158700/?ats=successfactors",
+  "apply_url": "https://apply.edisoncareers.com/job/Alhambra-2027-Summer-Internship-Computer-Science-(AlhambraRosemeadPomona)-CA-91803-0000/1425151100/?ats=successfactors",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Santa Ana",
+      "city": "Alhambra",
+      "state": "CA",
+      "country": "USA"
+    },
+    {
+      "city": "Pomona",
+      "state": "CA",
+      "country": "USA"
+    },
+    {
+      "city": "Rosemead",
       "state": "CA",
       "country": "USA"
     }
@@ -25,7 +35,10 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "masters",
+      "phd"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"

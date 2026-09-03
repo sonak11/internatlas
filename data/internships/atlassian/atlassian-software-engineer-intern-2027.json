@@ -7,19 +7,22 @@
   },
   "role": "Software Engineer Intern",
   "category": "software-engineering",
-  "apply_url": "https://careers-americas.icims.com/jobs/26266/software-engineer-intern%2c-2027-summer-u.s./job",
+  "apply_url": "https://campus-globalcareers-atlassian.icims.com/jobs/26275/software-engineer-intern%2c-2027-canada/job",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Seattle",
-      "state": "WA",
-      "country": "USA"
+      "city": "Burnaby",
+      "country": "BC"
     },
     {
-      "city": "SF",
-      "country": "USA"
+      "city": "Vancouver",
+      "country": "BC"
+    },
+    {
+      "city": "Richmond",
+      "country": "BC"
     }
   ],
   "compensation": {
@@ -46,7 +49,7 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-01",
+    "posted": "2026-09-03",
     "discovered": "2026-09-01",
     "last_verified": "2026-09-03"
   },
