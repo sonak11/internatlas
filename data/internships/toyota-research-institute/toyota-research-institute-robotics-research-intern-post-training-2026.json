@@ -1,0 +1,54 @@
+{
+  "schema_version": "1.0",
+  "id": "toyota-research-institute-robotics-research-intern-post-training-2026",
+  "company": {
+    "name": "Toyota Research Institute",
+    "slug": "toyota-research-institute"
+  },
+  "role": "Robotics Research Intern - Post-Training",
+  "category": "research",
+  "apply_url": "https://jobs.lever.co/tri/186808f9-464c-4f22-9d7d-4372ef272ff0/apply",
+  "season": "fall",
+  "year": 2026,
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "Los Altos",
+      "state": "CA",
+      "country": "USA"
+    }
+  ],
+  "compensation": {
+    "currency": "USD",
+    "housing_stipend": false,
+    "relocation_assistance": false
+  },
+  "eligibility": {
+    "graduation_years": [],
+    "degree_levels": [
+      "phd"
+    ],
+    "citizenship_required": false,
+    "security_clearance_required": false,
+    "visa_sponsorship": "unknown"
+  },
+  "interview": {},
+  "tech": {
+    "required_skills": [],
+    "preferred_skills": [],
+    "languages": [],
+    "frameworks": [],
+    "cloud_platforms": [],
+    "resume_keywords": []
+  },
+  "dates": {
+    "posted": "2026-08-17",
+    "discovered": "2026-09-03",
+    "last_verified": "2026-09-03"
+  },
+  "status": "open",
+  "tags": [
+    "auto-ingested",
+    "src:simplify"
+  ]
+}

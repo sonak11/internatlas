@@ -6,6 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
+| MSA Safety | [Electrochemistry Intern](https://careers.msasafety.com/jobs/9984?icims=1) | Cranberry Township, PA | Onsite | 2026-08-14 | Rolling | 🟢 Open | ❔ |
 | MSA Safety | [Software Engineer Intern - Product Development - Summer 2027](https://careers.msasafety.com/jobs/9993?icims=1) | Cranberry Township, PA | Onsite | 2026-08-24 | Rolling | 🟢 Open | ❔ |
 
 ## Related

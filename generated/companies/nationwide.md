@@ -6,6 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
+| Nationwide | [State Product Analyst Intern - Personal Lines](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-One-Nationwide-Plaza/Summer-2027-State-Product-Analyst-Intern---Personal-Lines_099794) | Des Moines, IA +1 | Onsite | 2026-08-21 | Rolling | 🟢 Open | ❔ |
 | Nationwide | [Economics Intern](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Metro/Summer-2027-Economics-Internship_100099) | Columbus, OH | Onsite | 2026-08-28 | Rolling | 🔴 Closed | ❔ |
 | Nationwide | [Technology Intern](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Summer-2027-Technology-Internship_100105) | Des Moines, IA +2 | Onsite | 2026-09-01 | Rolling | 🔴 Closed | ❔ |
 

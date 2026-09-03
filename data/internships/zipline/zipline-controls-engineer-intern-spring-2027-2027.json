@@ -1,0 +1,51 @@
+{
+  "schema_version": "1.0",
+  "id": "zipline-controls-engineer-intern-spring-2027-2027",
+  "company": {
+    "name": "Zipline",
+    "slug": "zipline"
+  },
+  "role": "Controls Engineer Intern - Spring 2027",
+  "category": "software-engineering",
+  "apply_url": "https://www.zipline.com/open-roles/7903823003?gh_jid=7903823003",
+  "season": "spring",
+  "year": 2027,
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "South SF",
+      "country": "USA"
+    }
+  ],
+  "compensation": {
+    "currency": "USD",
+    "housing_stipend": false,
+    "relocation_assistance": false
+  },
+  "eligibility": {
+    "graduation_years": [],
+    "degree_levels": [],
+    "citizenship_required": false,
+    "security_clearance_required": false,
+    "visa_sponsorship": "unknown"
+  },
+  "interview": {},
+  "tech": {
+    "required_skills": [],
+    "preferred_skills": [],
+    "languages": [],
+    "frameworks": [],
+    "cloud_platforms": [],
+    "resume_keywords": []
+  },
+  "dates": {
+    "posted": "2026-08-19",
+    "discovered": "2026-09-03",
+    "last_verified": "2026-09-03"
+  },
+  "status": "open",
+  "tags": [
+    "auto-ingested",
+    "src:simplify"
+  ]
+}

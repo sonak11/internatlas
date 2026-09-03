@@ -7,19 +7,39 @@
   },
   "role": "Product Development Engineer Intern/Co-op",
   "category": "software-engineering",
-  "apply_url": "https://careers.amd.com/jobs/91227?icims=1",
-  "season": "spring",
+  "apply_url": "https://careers.amd.com/jobs/90790?icims=1",
+  "season": "winter",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "San Jose",
-      "state": "CA",
+      "city": "Rochester",
+      "state": "NY",
       "country": "USA"
     },
     {
-      "city": "Santa Clara",
-      "state": "CA",
+      "city": "Austin",
+      "state": "TX",
+      "country": "USA"
+    },
+    {
+      "city": "Longmont",
+      "state": "CO",
+      "country": "USA"
+    },
+    {
+      "city": "Fishkill",
+      "state": "NY",
+      "country": "USA"
+    },
+    {
+      "city": "Fort Collins",
+      "state": "CO",
+      "country": "USA"
+    },
+    {
+      "city": "Boxborough",
+      "state": "MA",
       "country": "USA"
     }
   ],

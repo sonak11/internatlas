@@ -6,7 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
-| Eudia | [Product Intern](https://job-boards.greenhouse.io/eudia/jobs/4379570009) | Palo Alto, CA | Onsite | 2026-08-21 | Rolling | 🟢 Open | ❔ |
+| Eudia | [Product Intern](https://job-boards.greenhouse.io/eudia/jobs/4379570009) | Palo Alto, CA | Onsite | 2026-08-21 | Rolling | 🔴 Closed | ❔ |
 
 ## Related
 
