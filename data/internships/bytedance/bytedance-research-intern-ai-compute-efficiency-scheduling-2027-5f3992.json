@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "formlabs-hardware-r-d-engineering-intern-2026",
+  "id": "bytedance-research-intern-ai-compute-efficiency-scheduling-2027-5f3992",
   "company": {
-    "name": "Formlabs",
-    "slug": "formlabs"
+    "name": "ByteDance",
+    "slug": "bytedance"
   },
-  "role": "Hardware R&D Engineering Intern",
-  "category": "hardware",
-  "apply_url": "https://careers.formlabs.com/job/8097694/apply/?gh_jid=8097694",
-  "season": "fall",
-  "year": 2026,
+  "role": "Research Intern - AI Compute Efficiency & Scheduling",
+  "category": "ai",
+  "apply_url": "https://jobs.bytedance.com/en/position/7668804309487749429/detail",
+  "season": "summer",
+  "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Somerville",
-      "state": "MA",
+      "city": "San Jose",
+      "state": "CA",
       "country": "USA"
     }
   ],
@@ -25,7 +25,9 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "phd"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -40,13 +42,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-21",
-    "discovered": "2026-08-25",
+    "posted": "2026-08-04",
+    "discovered": "2026-09-03",
     "last_verified": "2026-09-03"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:vanshb03"
+    "src:simplify"
   ]
 }

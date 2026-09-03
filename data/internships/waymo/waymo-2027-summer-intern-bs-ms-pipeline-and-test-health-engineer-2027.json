@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "jane-street-sales-and-trading-intern-2027-9072ad",
+  "id": "waymo-2027-summer-intern-bs-ms-pipeline-and-test-health-engineer-2027",
   "company": {
-    "name": "Jane Street",
-    "slug": "jane-street"
+    "name": "Waymo",
+    "slug": "waymo",
+    "career_page": "https://waymo.com/careers"
   },
-  "role": "Sales and Trading Intern",
-  "category": "quant",
-  "apply_url": "https://www.janestreet.com/join-jane-street/position/8347385002/",
+  "role": "2027 Summer Intern, BS/MS, Pipeline and Test Health Engineer",
+  "category": "software-engineering",
+  "apply_url": "https://careers.withwaymo.com/jobs?gh_jid=8177651",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "New York",
-      "state": "NY",
+      "city": "San Francisco",
       "country": "USA"
     }
   ],
@@ -28,7 +28,7 @@
     "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
-    "visa_sponsorship": "yes"
+    "visa_sponsorship": "unknown"
   },
   "interview": {},
   "tech": {
@@ -40,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-24",
-    "discovered": "2026-08-03",
+    "posted": "2026-09-03",
+    "discovered": "2026-09-03",
     "last_verified": "2026-09-03"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:vanshb03"
+    "src:ats"
   ]
 }

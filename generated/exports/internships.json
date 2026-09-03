@@ -1,6 +1,6 @@
 {
   "generated": "2026-09-03",
-  "count": 3468,
+  "count": 3477,
   "internships": [
     {
       "schema_version": "1.0",
@@ -103,7 +103,7 @@
         "discovered": "2026-08-03",
         "last_verified": "2026-09-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -1189,7 +1189,7 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-09-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -9508,7 +9508,7 @@
         "discovered": "2026-08-03",
         "last_verified": "2026-09-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -12302,7 +12302,7 @@
         "discovered": "2026-08-03",
         "last_verified": "2026-09-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -17140,7 +17140,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-09-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -29672,6 +29672,114 @@
     },
     {
       "schema_version": "1.0",
+      "id": "bytedance-research-intern-ai-compute-efficiency-scheduling-2027-5f3992",
+      "company": {
+        "name": "ByteDance",
+        "slug": "bytedance"
+      },
+      "role": "Research Intern - AI Compute Efficiency & Scheduling",
+      "category": "ai",
+      "apply_url": "https://jobs.bytedance.com/en/position/7668804309487749429/detail",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-04",
+        "discovered": "2026-09-03",
+        "last_verified": "2026-09-03"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "bytedance-research-intern-ai-compute-efficiency-scheduling-2027",
+      "company": {
+        "name": "ByteDance",
+        "slug": "bytedance"
+      },
+      "role": "Research Intern - AI Compute Efficiency & Scheduling",
+      "category": "ai",
+      "apply_url": "https://jobs.bytedance.com/en/position/7668802153418475829/detail",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Seattle",
+          "state": "WA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-04",
+        "discovered": "2026-09-03",
+        "last_verified": "2026-09-03"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "bytedance-research-intern-ai-native-databases-2027-18ded0",
       "company": {
         "name": "ByteDance",
@@ -29888,7 +29996,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "bytedance-research-scientist-intern-2027-511a28",
+      "id": "bytedance-research-scientist-intern-2027",
       "company": {
         "name": "ByteDance",
         "slug": "bytedance"
@@ -29931,60 +30039,6 @@
       },
       "dates": {
         "posted": "2026-08-06",
-        "discovered": "2026-09-03",
-        "last_verified": "2026-09-03"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "bytedance-research-scientist-intern-2027",
-      "company": {
-        "name": "ByteDance",
-        "slug": "bytedance"
-      },
-      "role": "Research Scientist Intern",
-      "category": "research",
-      "apply_url": "https://jobs.bytedance.com/en/position/7668590365398993205/detail",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "San Jose",
-          "state": "CA",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [
-          "phd"
-        ],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-08-03",
         "discovered": "2026-08-06",
         "last_verified": "2026-09-03"
       },
@@ -34653,7 +34707,7 @@
         "discovered": "2026-08-20",
         "last_verified": "2026-09-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -35950,7 +36004,7 @@
         "discovered": "2026-07-20",
         "last_verified": "2026-09-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -57986,18 +58040,23 @@
     },
     {
       "schema_version": "1.0",
-      "id": "formlabs-hardware-r-d-engineering-intern-2026",
+      "id": "formlabs-hardware-r-d-engineer-intern-2026",
       "company": {
         "name": "Formlabs",
         "slug": "formlabs"
       },
-      "role": "Hardware R&D Engineering Intern",
+      "role": "Hardware R&D Engineer Intern",
       "category": "hardware",
       "apply_url": "https://careers.formlabs.com/job/8097694/apply/?gh_jid=8097694",
       "season": "fall",
       "year": 2026,
       "work_mode": "onsite",
       "locations": [
+        {
+          "city": "Cambridge",
+          "state": "MA",
+          "country": "USA"
+        },
         {
           "city": "Somerville",
           "state": "MA",
@@ -58026,14 +58085,14 @@
         "resume_keywords": []
       },
       "dates": {
-        "posted": "2026-08-21",
-        "discovered": "2026-08-25",
+        "posted": "2026-07-30",
+        "discovered": "2026-09-03",
         "last_verified": "2026-09-03"
       },
       "status": "open",
       "tags": [
         "auto-ingested",
-        "src:vanshb03"
+        "src:simplify"
       ]
     },
     {
@@ -60751,7 +60810,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-09-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -63589,7 +63648,7 @@
         "discovered": "2026-07-31",
         "last_verified": "2026-09-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -63801,7 +63860,7 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-09-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -63853,7 +63912,7 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-09-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -64909,7 +64968,7 @@
         "discovered": "2026-08-27",
         "last_verified": "2026-09-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -65067,7 +65126,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-09-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -65118,7 +65177,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-09-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -65327,7 +65386,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-09-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -65433,7 +65492,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-09-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -75723,7 +75782,7 @@
         "discovered": "2026-08-03",
         "last_verified": "2026-09-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -78957,7 +79016,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "jane-street-sales-and-trading-intern-2027-9072ad",
+      "id": "jane-street-sales-and-trading-intern-2027",
       "company": {
         "name": "Jane Street",
         "slug": "jane-street"
@@ -78998,64 +79057,13 @@
       },
       "dates": {
         "posted": "2026-07-24",
-        "discovered": "2026-08-03",
-        "last_verified": "2026-09-03"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:vanshb03"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "jane-street-sales-and-trading-intern-2027",
-      "company": {
-        "name": "Jane Street",
-        "slug": "jane-street"
-      },
-      "role": "Sales and Trading Intern",
-      "category": "quant",
-      "apply_url": "https://www.janestreet.com/join-jane-street/apply/8537797002?gh_jid=8537797002",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "London",
-          "country": "UK"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "yes"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-08-03",
         "discovered": "2026-07-24",
         "last_verified": "2026-09-03"
       },
       "status": "open",
       "tags": [
         "auto-ingested",
-        "src:simplify"
+        "src:vanshb03"
       ]
     },
     {
@@ -80988,7 +80996,7 @@
         "discovered": "2026-08-03",
         "last_verified": "2026-09-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -91509,6 +91517,59 @@
     },
     {
       "schema_version": "1.0",
+      "id": "marquee-brands-consumer-insights-intern-2026",
+      "company": {
+        "name": "Marquee Brands",
+        "slug": "marquee-brands"
+      },
+      "role": "Consumer Insights Intern",
+      "category": "software-engineering",
+      "apply_url": "https://marqueebrands.bamboohr.com/careers/132/",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "NYC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-30",
+        "discovered": "2026-09-03",
+        "last_verified": "2026-09-03"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "marsh-government-health-consulting-informatics-intern-college-prog-2027",
       "company": {
         "name": "Marsh",
@@ -91611,7 +91672,7 @@
         "discovered": "2026-08-28",
         "last_verified": "2026-09-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -98879,7 +98940,7 @@
         "discovered": "2026-08-04",
         "last_verified": "2026-09-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -105524,7 +105585,7 @@
         "discovered": "2026-07-18",
         "last_verified": "2026-09-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:ats"
@@ -105941,7 +106002,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-09-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -109173,7 +109234,7 @@
         "discovered": "2026-08-03",
         "last_verified": "2026-09-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -116062,6 +116123,60 @@
       "dates": {
         "posted": "2026-07-24",
         "discovered": "2026-07-24",
+        "last_verified": "2026-09-03"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "peak-energy-systems-integration-and-test-engineer-intern-winter-2027-2027",
+      "company": {
+        "name": "Peak Energy",
+        "slug": "peak-energy"
+      },
+      "role": "Systems Integration and Test Engineer Intern - Winter 2027",
+      "category": "software-engineering",
+      "apply_url": "https://peakenergy.com/get-in-touch/careers/jobs?job_id=5185852007&gh_jid=5185852007",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Burlingame",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-13",
+        "discovered": "2026-09-03",
         "last_verified": "2026-09-03"
       },
       "status": "open",
@@ -126319,7 +126434,7 @@
         "discovered": "2026-07-18",
         "last_verified": "2026-09-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:ats"
@@ -126519,6 +126634,58 @@
       "dates": {
         "posted": "2026-08-26",
         "discovered": "2026-08-26",
+        "last_verified": "2026-09-03"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "red-bull-academy-scouting-intern-academy-scout-2026",
+      "company": {
+        "name": "Red Bull",
+        "slug": "red-bull"
+      },
+      "role": "Academy Scouting Intern - Academy Scout",
+      "category": "software-engineering",
+      "apply_url": "https://jobs.smartrecruiters.com/RedBull/744000140784792",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Morristown",
+          "state": "NJ",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-31",
+        "discovered": "2026-09-03",
         "last_verified": "2026-09-03"
       },
       "status": "open",
@@ -128430,7 +128597,7 @@
         "discovered": "2026-08-17",
         "last_verified": "2026-09-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -129809,7 +129976,7 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-09-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -130600,7 +130767,7 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-09-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -135532,7 +135699,7 @@
         "discovered": "2026-09-01",
         "last_verified": "2026-09-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -141983,6 +142150,73 @@
     },
     {
       "schema_version": "1.0",
+      "id": "sifive-design-verification-infrastructure-intern-platform-2026",
+      "company": {
+        "name": "SiFive",
+        "slug": "sifive"
+      },
+      "role": "Design Verification Infrastructure Intern - Platform",
+      "category": "cloud",
+      "apply_url": "https://sifive.wd1.myworkdayjobs.com/en-US/sifivecareers/job/Santa-Clara-California-United-States/Intern---Design-Verification-Infrastructure-Engineer---Platform_R-101291-1",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Boston",
+          "state": "MA",
+          "country": "USA"
+        },
+        {
+          "city": "Austin",
+          "state": "TX",
+          "country": "USA"
+        },
+        {
+          "city": "Santa Clara",
+          "state": "CA",
+          "country": "USA"
+        },
+        {
+          "city": "Berkeley",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-01",
+        "discovered": "2026-09-03",
+        "last_verified": "2026-09-03"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "sightcall-web-developer-intern-2026",
       "company": {
         "name": "SightCall",
@@ -142444,7 +142678,7 @@
         "discovered": "2026-08-01",
         "last_verified": "2026-09-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -152020,7 +152254,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-09-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -152981,7 +153215,7 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-09-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -153997,7 +154231,7 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-09-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -169498,6 +169732,60 @@
     },
     {
       "schema_version": "1.0",
+      "id": "tiktok-machine-learning-infrastructure-engineer-intern-ads-infrastr-2027",
+      "company": {
+        "name": "TikTok",
+        "slug": "tiktok"
+      },
+      "role": "Machine Learning Infrastructure Engineer Intern - Ads Infrastructure",
+      "category": "machine-learning",
+      "apply_url": "https://lifeattiktok.com/search/7668881813744191749",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-04",
+        "discovered": "2026-09-03",
+        "last_verified": "2026-09-03"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "tiktok-machine-learning-mlops-intern-global-site-reliability-engine-2027",
       "company": {
         "name": "TikTok",
@@ -176941,7 +177229,7 @@
         "discovered": "2026-08-04",
         "last_verified": "2026-09-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -177021,6 +177309,150 @@
     },
     {
       "schema_version": "1.0",
+      "id": "uline-international-operations-analyst-intern-2027",
+      "company": {
+        "name": "Uline",
+        "slug": "uline"
+      },
+      "role": "International Operations Analyst Intern",
+      "category": "software-engineering",
+      "apply_url": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/International-Operations-Analyst-Internship---Summer-2027_R265918",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Waukegan",
+          "state": "IL",
+          "country": "USA"
+        },
+        {
+          "city": "Milwaukee",
+          "state": "WI",
+          "country": "USA"
+        },
+        {
+          "city": "Glenview",
+          "state": "IL",
+          "country": "USA"
+        },
+        {
+          "city": "Pleasant Prairie",
+          "state": "WI",
+          "country": "USA"
+        },
+        {
+          "city": "Kenosha",
+          "state": "WI",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-03",
+        "discovered": "2026-09-03",
+        "last_verified": "2026-09-03"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "uline-marketing-intern-2027",
+      "company": {
+        "name": "Uline",
+        "slug": "uline"
+      },
+      "role": "Marketing Intern",
+      "category": "software-engineering",
+      "apply_url": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Marketing-Internship---Summer-2027_R265940",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Waukegan",
+          "state": "IL",
+          "country": "USA"
+        },
+        {
+          "city": "Milwaukee",
+          "state": "WI",
+          "country": "USA"
+        },
+        {
+          "city": "Glenview",
+          "state": "IL",
+          "country": "USA"
+        },
+        {
+          "city": "Pleasant Prairie",
+          "state": "WI",
+          "country": "USA"
+        },
+        {
+          "city": "Kenosha",
+          "state": "WI",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-03",
+        "discovered": "2026-09-03",
+        "last_verified": "2026-09-03"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "uline-operations-analyst-intern-2027",
       "company": {
         "name": "Uline",
@@ -177085,7 +177517,7 @@
         "discovered": "2026-08-04",
         "last_verified": "2026-09-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -177155,6 +177587,78 @@
       "dates": {
         "posted": "2026-08-03",
         "discovered": "2026-08-04",
+        "last_verified": "2026-09-03"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "uline-sales-analyst-intern-2027",
+      "company": {
+        "name": "Uline",
+        "slug": "uline"
+      },
+      "role": "Sales Analyst Intern",
+      "category": "software-engineering",
+      "apply_url": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Sales-Analyst-Internship---Summer-2027_R265911",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Waukegan",
+          "state": "IL",
+          "country": "USA"
+        },
+        {
+          "city": "Milwaukee",
+          "state": "WI",
+          "country": "USA"
+        },
+        {
+          "city": "Glenview",
+          "state": "IL",
+          "country": "USA"
+        },
+        {
+          "city": "Pleasant Prairie",
+          "state": "WI",
+          "country": "USA"
+        },
+        {
+          "city": "Kenosha",
+          "state": "WI",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-03",
+        "discovered": "2026-09-03",
         "last_verified": "2026-09-03"
       },
       "status": "open",
@@ -184006,6 +184510,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "waymo-2027-summer-intern-bs-ms-pipeline-and-test-health-engineer-2027",
+      "company": {
+        "name": "Waymo",
+        "slug": "waymo",
+        "career_page": "https://waymo.com/careers"
+      },
+      "role": "2027 Summer Intern, BS/MS, Pipeline and Test Health Engineer",
+      "category": "software-engineering",
+      "apply_url": "https://careers.withwaymo.com/jobs?gh_jid=8177651",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Francisco",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-03",
+        "discovered": "2026-09-03",
+        "last_verified": "2026-09-03"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "waymo-2027-summer-intern-bs-syseng-software-engineer-2027",
       "company": {
         "name": "Waymo",
@@ -186890,7 +187446,7 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-09-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"

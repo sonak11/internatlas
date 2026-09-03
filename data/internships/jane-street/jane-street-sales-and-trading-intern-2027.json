@@ -7,14 +7,15 @@
   },
   "role": "Sales and Trading Intern",
   "category": "quant",
-  "apply_url": "https://www.janestreet.com/join-jane-street/apply/8537797002?gh_jid=8537797002",
+  "apply_url": "https://www.janestreet.com/join-jane-street/position/8347385002/",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "London",
-      "country": "UK"
+      "city": "New York",
+      "state": "NY",
+      "country": "USA"
     }
   ],
   "compensation": {
@@ -39,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-03",
+    "posted": "2026-07-24",
     "discovered": "2026-07-24",
     "last_verified": "2026-09-03"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }
