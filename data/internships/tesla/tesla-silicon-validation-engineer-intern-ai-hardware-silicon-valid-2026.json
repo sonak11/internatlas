@@ -1,24 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "five-rings-software-developer-intern-2027",
+  "id": "tesla-silicon-validation-engineer-intern-ai-hardware-silicon-valid-2026",
   "company": {
-    "name": "Five Rings",
-    "slug": "five-rings"
+    "name": "Tesla",
+    "slug": "tesla"
   },
-  "role": "Software Developer Intern",
-  "category": "software-engineering",
-  "apply_url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5349707008",
-  "season": "summer",
-  "year": 2027,
+  "role": "Silicon Validation Engineer Intern - AI Hardware Silicon Validation Engineer - AI Hardware",
+  "category": "ai",
+  "apply_url": "https://www.tesla.com/careers/search/job/272912",
+  "season": "fall",
+  "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "New York",
-      "state": "NY",
-      "country": "USA"
-    },
-    {
-      "city": "New York",
+      "city": "Palo Alto",
+      "state": "CA",
       "country": "USA"
     }
   ],
@@ -30,9 +26,9 @@
   "eligibility": {
     "graduation_years": [],
     "degree_levels": [],
-    "citizenship_required": true,
+    "citizenship_required": false,
     "security_clearance_required": false,
-    "visa_sponsorship": "no"
+    "visa_sponsorship": "unknown"
   },
   "interview": {},
   "tech": {
@@ -44,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-14",
-    "discovered": "2026-08-17",
+    "posted": "2026-06-07",
+    "discovered": "2026-09-03",
     "last_verified": "2026-09-03"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:vanshb03"
+    "src:simplify"
   ]
 }

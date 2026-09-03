@@ -13,21 +13,8 @@
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Houston",
-      "state": "TX",
-      "country": "USA"
-    },
-    {
-      "city": "Washington",
-      "state": "DC",
-      "country": "USA"
-    },
-    {
-      "city": "SF",
-      "country": "USA"
-    },
-    {
-      "state": "LA",
+      "city": "Atlanta",
+      "state": "GA",
       "country": "USA"
     },
     {
@@ -36,12 +23,8 @@
       "country": "USA"
     },
     {
-      "city": "NYC",
-      "country": "USA"
-    },
-    {
-      "city": "Atlanta",
-      "state": "GA",
+      "city": "Houston",
+      "state": "TX",
       "country": "USA"
     },
     {
@@ -57,6 +40,11 @@
     {
       "city": "San Francisco",
       "state": "CA",
+      "country": "USA"
+    },
+    {
+      "city": "Washington",
+      "state": "DC",
       "country": "USA"
     }
   ],
@@ -84,13 +72,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-27",
+    "posted": "2026-07-31",
     "discovered": "2026-07-29",
     "last_verified": "2026-09-03"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }

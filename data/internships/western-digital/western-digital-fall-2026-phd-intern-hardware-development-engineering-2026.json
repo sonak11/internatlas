@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "five-rings-summer-intern-2027-quantitative-trader-2027",
+  "id": "western-digital-fall-2026-phd-intern-hardware-development-engineering-2026",
   "company": {
-    "name": "Five Rings",
-    "slug": "five-rings",
-    "career_page": "https://fiverings.com/careers"
+    "name": "Western Digital",
+    "slug": "western-digital"
   },
-  "role": "Summer Intern 2027 - Quantitative Trader",
-  "category": "quant",
-  "apply_url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5139668008",
-  "season": "summer",
-  "year": 2027,
+  "role": "Fall 2026 PhD Intern - Hardware Development Engineering",
+  "category": "hardware",
+  "apply_url": "https://jobs.smartrecruiters.com/WesternDigital/744000138191379",
+  "season": "fall",
+  "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "New York",
+      "city": "Fremont",
+      "state": "CA",
       "country": "USA"
     }
   ],
@@ -25,7 +25,9 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "phd"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -40,13 +42,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-14",
-    "discovered": "2026-07-23",
+    "posted": "2026-07-16",
+    "discovered": "2026-09-03",
     "last_verified": "2026-09-03"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:ats"
+    "src:simplify"
   ]
 }

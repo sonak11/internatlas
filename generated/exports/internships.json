@@ -1,6 +1,6 @@
 {
   "generated": "2026-09-03",
-  "count": 3448,
+  "count": 3468,
   "internships": [
     {
       "schema_version": "1.0",
@@ -2254,7 +2254,10 @@
       },
       "eligibility": {
         "graduation_years": [],
-        "degree_levels": [],
+        "degree_levels": [
+          "masters",
+          "phd"
+        ],
         "citizenship_required": false,
         "security_clearance_required": false,
         "visa_sponsorship": "unknown"
@@ -3575,7 +3578,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-09-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -3717,7 +3720,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-09-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -15336,7 +15339,7 @@
         "discovered": "2026-07-22",
         "last_verified": "2026-09-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -16143,7 +16146,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-09-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -16412,7 +16415,7 @@
         "discovered": "2026-08-01",
         "last_verified": "2026-09-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -21725,7 +21728,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-09-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -22040,7 +22043,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-09-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -27631,7 +27634,7 @@
         "discovered": "2026-07-21",
         "last_verified": "2026-09-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -29065,6 +29068,60 @@
       "dates": {
         "posted": "2026-08-06",
         "discovered": "2026-08-06",
+        "last_verified": "2026-09-03"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "bytedance-intelligent-sensing-intern-global-frontier-tech-recruitment-2027",
+      "company": {
+        "name": "ByteDance",
+        "slug": "bytedance"
+      },
+      "role": "Intelligent Sensing Intern - Global Frontier Tech Recruitment Program",
+      "category": "software-engineering",
+      "apply_url": "https://jobs.bytedance.com/en/position/7629210458173556997/detail",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-06-04",
+        "discovered": "2026-09-03",
         "last_verified": "2026-09-03"
       },
       "status": "open",
@@ -34246,7 +34303,7 @@
         "discovered": "2026-07-22",
         "last_verified": "2026-09-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -34305,7 +34362,7 @@
         "discovered": "2026-07-22",
         "last_verified": "2026-09-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -36002,7 +36059,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-09-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -36054,7 +36111,7 @@
         "discovered": "2026-07-20",
         "last_verified": "2026-09-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -36106,7 +36163,7 @@
         "discovered": "2026-07-20",
         "last_verified": "2026-09-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -38755,6 +38812,58 @@
       "dates": {
         "posted": "2026-08-18",
         "discovered": "2026-08-18",
+        "last_verified": "2026-09-03"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "clinton-foundation-communications-intern-2026",
+      "company": {
+        "name": "Clinton Foundation",
+        "slug": "clinton-foundation"
+      },
+      "role": "Communications Intern",
+      "category": "software-engineering",
+      "apply_url": "https://www.clintonfoundation.org/careers/apply/?gh_jid=7800648003",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Little Rock",
+          "state": "AR",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-10",
+        "discovered": "2026-09-03",
         "last_verified": "2026-09-03"
       },
       "status": "open",
@@ -42857,58 +42966,6 @@
     },
     {
       "schema_version": "1.0",
-      "id": "copart-software-engineer-intern-2026-2ceb13",
-      "company": {
-        "name": "Copart",
-        "slug": "copart"
-      },
-      "role": "Software Engineer Intern",
-      "category": "software-engineering",
-      "apply_url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109689",
-      "season": "fall",
-      "year": 2026,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Dallas",
-          "state": "TX",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-07-15",
-        "discovered": "2026-07-28",
-        "last_verified": "2026-09-03"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
       "id": "copart-software-engineer-intern-2026-7f0d4f",
       "company": {
         "name": "Copart",
@@ -43234,7 +43291,7 @@
       },
       "role": "Software Engineer Intern",
       "category": "software-engineering",
-      "apply_url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR106129",
+      "apply_url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109689",
       "season": "fall",
       "year": 2026,
       "work_mode": "onsite",
@@ -43269,7 +43326,7 @@
         "resume_keywords": []
       },
       "dates": {
-        "posted": "2026-05-16",
+        "posted": "2026-07-15",
         "discovered": "2026-07-17",
         "last_verified": "2026-09-03"
       },
@@ -51687,6 +51744,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "enterprise-holdings-management-trainee-intern-2026",
+      "company": {
+        "name": "Enterprise Holdings",
+        "slug": "enterprise-holdings"
+      },
+      "role": "Management Trainee Intern",
+      "category": "software-engineering",
+      "apply_url": "https://us-erac.icims.com/jobs/553479/job?mobile=true&needsRedirect=false",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Tomball",
+          "state": "TX",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-01",
+        "discovered": "2026-09-03",
+        "last_verified": "2026-09-03"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "environmental-defense-fund-climate-health-intern-2026",
       "company": {
         "name": "Environmental Defense Fund",
@@ -52572,6 +52681,57 @@
         "last_verified": "2026-09-03"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "ernst-young-intern-co-op-assurance-technology-risk-gestion-des-risques-t-2026",
+      "company": {
+        "name": "Ernst & Young",
+        "slug": "ernst-young"
+      },
+      "role": "Intern/Co-op - Assurance Technology Risk - Gestion des risques technologiques",
+      "category": "software-engineering",
+      "apply_url": "https://eyglobal.yello.co/jobs/Z5l1IcAarbkthLOcBeIpRQ?job_board_id=c1riT--B2O-KySgYWsZO1Q",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Edmonton",
+          "country": "AB"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-03-05",
+        "discovered": "2026-09-03",
+        "last_verified": "2026-09-03"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -57290,18 +57450,132 @@
     },
     {
       "schema_version": "1.0",
-      "id": "five-rings-software-developer-intern-2027",
+      "id": "five-rings-capital-quantitative-researcher-intern-2027",
       "company": {
-        "name": "Five Rings",
-        "slug": "five-rings"
+        "name": "Five Rings Capital",
+        "slug": "five-rings-capital"
       },
-      "role": "Software Developer Intern",
+      "role": "Quantitative Researcher Intern",
+      "category": "quant",
+      "apply_url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5349219008",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "NYC",
+          "country": "USA"
+        },
+        {
+          "city": "New York",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-14",
+        "discovered": "2026-09-03",
+        "last_verified": "2026-09-03"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "five-rings-capital-quantitative-trader-intern-quantitative-trader-2027",
+      "company": {
+        "name": "Five Rings Capital",
+        "slug": "five-rings-capital"
+      },
+      "role": "Quantitative Trader Intern - Quantitative Trader",
+      "category": "quant",
+      "apply_url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5139668008",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "NYC",
+          "country": "USA"
+        },
+        {
+          "city": "New York",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-14",
+        "discovered": "2026-09-03",
+        "last_verified": "2026-09-03"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "five-rings-capital-software-developer-intern-software-developer-2027",
+      "company": {
+        "name": "Five Rings Capital",
+        "slug": "five-rings-capital"
+      },
+      "role": "Software Developer Intern - Software Developer",
       "category": "software-engineering",
       "apply_url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5349707008",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
       "locations": [
+        {
+          "city": "NYC",
+          "country": "USA"
+        },
         {
           "city": "New York",
           "state": "NY",
@@ -57335,117 +57609,13 @@
       },
       "dates": {
         "posted": "2026-07-14",
-        "discovered": "2026-08-17",
+        "discovered": "2026-09-03",
         "last_verified": "2026-09-03"
       },
       "status": "open",
       "tags": [
         "auto-ingested",
-        "src:vanshb03"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "five-rings-summer-intern-2027-quantitative-researcher-phd-2027",
-      "company": {
-        "name": "Five Rings",
-        "slug": "five-rings",
-        "career_page": "https://fiverings.com/careers"
-      },
-      "role": "Summer Intern 2027 - Quantitative Researcher (PhD)",
-      "category": "quant",
-      "apply_url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5349219008",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "New York",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-07-14",
-        "discovered": "2026-07-23",
-        "last_verified": "2026-09-03"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:ats"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "five-rings-summer-intern-2027-quantitative-trader-2027",
-      "company": {
-        "name": "Five Rings",
-        "slug": "five-rings",
-        "career_page": "https://fiverings.com/careers"
-      },
-      "role": "Summer Intern 2027 - Quantitative Trader",
-      "category": "quant",
-      "apply_url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5139668008",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "New York",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-07-14",
-        "discovered": "2026-07-23",
-        "last_verified": "2026-09-03"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:ats"
+        "src:simplify"
       ]
     },
     {
@@ -59354,21 +59524,8 @@
       "work_mode": "onsite",
       "locations": [
         {
-          "city": "Houston",
-          "state": "TX",
-          "country": "USA"
-        },
-        {
-          "city": "Washington",
-          "state": "DC",
-          "country": "USA"
-        },
-        {
-          "city": "SF",
-          "country": "USA"
-        },
-        {
-          "state": "LA",
+          "city": "Atlanta",
+          "state": "GA",
           "country": "USA"
         },
         {
@@ -59377,12 +59534,8 @@
           "country": "USA"
         },
         {
-          "city": "NYC",
-          "country": "USA"
-        },
-        {
-          "city": "Atlanta",
-          "state": "GA",
+          "city": "Houston",
+          "state": "TX",
           "country": "USA"
         },
         {
@@ -59398,6 +59551,11 @@
         {
           "city": "San Francisco",
           "state": "CA",
+          "country": "USA"
+        },
+        {
+          "city": "Washington",
+          "state": "DC",
           "country": "USA"
         }
       ],
@@ -59425,14 +59583,14 @@
         "resume_keywords": []
       },
       "dates": {
-        "posted": "2026-07-27",
+        "posted": "2026-07-31",
         "discovered": "2026-07-29",
         "last_verified": "2026-09-03"
       },
       "status": "open",
       "tags": [
         "auto-ingested",
-        "src:simplify"
+        "src:vanshb03"
       ]
     },
     {
@@ -62896,7 +63054,7 @@
         "discovered": "2026-08-01",
         "last_verified": "2026-09-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -67877,9 +68035,9 @@
       "dates": {
         "posted": "2026-07-16",
         "discovered": "2026-08-01",
-        "last_verified": "2026-08-19"
+        "last_verified": "2026-09-03"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -68742,7 +68900,7 @@
         "discovered": "2026-08-01",
         "last_verified": "2026-09-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -68902,6 +69060,58 @@
       "tags": [
         "auto-ingested",
         "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "hermeus-flight-software-engineer-intern-2026",
+      "company": {
+        "name": "Hermeus",
+        "slug": "hermeus"
+      },
+      "role": "Flight Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://jobs.lever.co/hermeus/51378fa0-0327-45fd-9420-b6e7d8b56440/apply",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Atlanta",
+          "state": "GA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-03-05",
+        "discovered": "2026-09-03",
+        "last_verified": "2026-09-03"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
       ]
     },
     {
@@ -69482,7 +69692,7 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-09-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -71931,7 +72141,7 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-09-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -77546,7 +77756,7 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-09-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -77717,7 +77927,7 @@
         "discovered": "2026-07-21",
         "last_verified": "2026-09-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -82042,9 +82252,9 @@
       "dates": {
         "posted": "2026-07-08",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-22"
+        "last_verified": "2026-09-03"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -91291,7 +91501,7 @@
         "discovered": "2026-08-01",
         "last_verified": "2026-09-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -91944,7 +92154,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "marvell-design-dsp-verification-intern-2026-6046b3",
+      "id": "marvell-design-dsp-verification-intern-2026",
       "company": {
         "name": "Marvell",
         "slug": "marvell"
@@ -91988,61 +92198,6 @@
       },
       "dates": {
         "posted": "2026-07-04",
-        "discovered": "2026-09-03",
-        "last_verified": "2026-09-03"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "marvell-design-dsp-verification-intern-2026",
-      "company": {
-        "name": "Marvell",
-        "slug": "marvell"
-      },
-      "role": "Design/DSP/Verification Intern",
-      "category": "design",
-      "apply_url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Design-DSP-Verification-Intern---PhD-Degree_2502786-1",
-      "season": "fall",
-      "year": 2026,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Santa Clara",
-          "state": "CA",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [
-          "masters",
-          "phd"
-        ],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-05-16",
         "discovered": "2026-09-03",
         "last_verified": "2026-09-03"
       },
@@ -92150,6 +92305,60 @@
       },
       "dates": {
         "posted": "2026-07-04",
+        "discovered": "2026-09-03",
+        "last_verified": "2026-09-03"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "marvell-silicon-photonics-intern-phd-fall-2026-start-date-2026",
+      "company": {
+        "name": "Marvell",
+        "slug": "marvell"
+      },
+      "role": "Silicon Photonics Intern - PhD - Fall 2026 Start Date",
+      "category": "hardware",
+      "apply_url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Ottawa-Canada/Silicon-Photonics-Intern---PhD_2502469",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Ottawa",
+          "country": "ON"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters",
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-06-13",
         "discovered": "2026-09-03",
         "last_verified": "2026-09-03"
       },
@@ -93965,9 +94174,9 @@
       "dates": {
         "posted": "2026-06-03",
         "discovered": "2026-07-30",
-        "last_verified": "2026-08-01"
+        "last_verified": "2026-09-03"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -95208,7 +95417,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-09-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -96301,6 +96510,60 @@
         "last_verified": "2026-08-10"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "microchip-technology-engineering-intern-mems-design-2026",
+      "company": {
+        "name": "Microchip Technology",
+        "slug": "microchip-technology"
+      },
+      "role": "Engineering Intern - MEMS Design",
+      "category": "design",
+      "apply_url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/MI---Detroit-Sales-Office/Intern-Engineering--MEMS-Design-_R3208-26",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Detroit",
+          "state": "MI",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-21",
+        "discovered": "2026-09-03",
+        "last_verified": "2026-09-03"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -100598,6 +100861,60 @@
     },
     {
       "schema_version": "1.0",
+      "id": "motorola-embedded-software-intern-2026",
+      "company": {
+        "name": "Motorola",
+        "slug": "motorola"
+      },
+      "role": "Embedded Software Intern",
+      "category": "embedded",
+      "apply_url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Irvine-CA/Intern---Embedded-Software--System--and-Test-Engineer---2026_R62372",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Irvine",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-04",
+        "discovered": "2026-09-03",
+        "last_verified": "2026-09-03"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "motorola-supply-chain-data-analyst-intern-2027",
       "company": {
         "name": "Motorola",
@@ -100695,7 +101012,7 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-09-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -101783,7 +102100,7 @@
         "discovered": "2026-08-01",
         "last_verified": "2026-09-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -101884,7 +102201,7 @@
         "discovered": "2026-08-01",
         "last_verified": "2026-09-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -105051,7 +105368,7 @@
         "discovered": "2026-07-18",
         "last_verified": "2026-09-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -105676,7 +105993,7 @@
         "discovered": "2026-08-01",
         "last_verified": "2026-09-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -105941,7 +106258,7 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-09-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -112938,7 +113255,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-09-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -112989,6 +113306,58 @@
         "last_verified": "2026-08-28"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "oracle-project-manager-intern-2026",
+      "company": {
+        "name": "Oracle",
+        "slug": "oracle"
+      },
+      "role": "Project Manager Intern",
+      "category": "software-engineering",
+      "apply_url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/334344",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Seattle",
+          "state": "WA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-05-21",
+        "discovered": "2026-09-03",
+        "last_verified": "2026-09-03"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -115437,6 +115806,57 @@
     },
     {
       "schema_version": "1.0",
+      "id": "parkdepot-marketing-analyst-intern-2026",
+      "company": {
+        "name": "Parkdepot",
+        "slug": "parkdepot"
+      },
+      "role": "Marketing Analyst Intern",
+      "category": "software-engineering",
+      "apply_url": "https://jobs.lever.co/salesdemo-jr/a5070161-0ed6-4872-b34a-28f90f7fc8c3/apply",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "SF",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-07",
+        "discovered": "2026-09-03",
+        "last_verified": "2026-09-03"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "parsons-software-developer-intern-fall-2026-spring-2027-2026",
       "company": {
         "name": "Parsons",
@@ -116493,6 +116913,57 @@
       },
       "dates": {
         "posted": "2026-06-20",
+        "discovered": "2026-09-03",
+        "last_verified": "2026-09-03"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "pennsylvania-state-university-uncrewed-systems-intern-2026",
+      "company": {
+        "name": "Pennsylvania State University",
+        "slug": "pennsylvania-state-university"
+      },
+      "role": "Uncrewed Systems Intern",
+      "category": "software-engineering",
+      "apply_url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Uncrewed-Systems-Intern_REQ_0000076298-1",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "University Park",
+          "country": "State College"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-06-13",
         "discovered": "2026-09-03",
         "last_verified": "2026-09-03"
       },
@@ -123714,7 +124185,7 @@
         "discovered": "2026-08-31",
         "last_verified": "2026-09-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -125758,6 +126229,57 @@
     },
     {
       "schema_version": "1.0",
+      "id": "ramiel-capital-trading-intern-2026",
+      "company": {
+        "name": "Ramiel Capital",
+        "slug": "ramiel-capital"
+      },
+      "role": "Trading Intern",
+      "category": "quant",
+      "apply_url": "https://jobs.ashbyhq.com/ramielcapital/8c57222a-e723-49a6-b9f1-b4628c1da76f/application?embed=true",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "NYC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-21",
+        "discovered": "2026-09-03",
+        "last_verified": "2026-09-03"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "ramp-software-engineer-internship-android-2027",
       "company": {
         "name": "Ramp",
@@ -127050,7 +127572,7 @@
         "discovered": "2026-07-21",
         "last_verified": "2026-09-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -127250,7 +127772,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-09-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -149528,7 +150050,7 @@
         "discovered": "2026-08-01",
         "last_verified": "2026-09-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -150115,7 +150637,7 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-09-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -150530,7 +151052,7 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-09-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -156211,6 +156733,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "tesla-silicon-validation-engineer-intern-ai-hardware-silicon-valid-2026",
+      "company": {
+        "name": "Tesla",
+        "slug": "tesla"
+      },
+      "role": "Silicon Validation Engineer Intern - AI Hardware Silicon Validation Engineer - AI Hardware",
+      "category": "ai",
+      "apply_url": "https://www.tesla.com/careers/search/job/272912",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Palo Alto",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-06-07",
+        "discovered": "2026-09-03",
+        "last_verified": "2026-09-03"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "tesla-software-compiler-engineer-intern-ai-inference-2026",
       "company": {
         "name": "Tesla",
@@ -157765,7 +158339,7 @@
         "discovered": "2026-07-30",
         "last_verified": "2026-09-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -164410,7 +164984,7 @@
         "discovered": "2026-08-04",
         "last_verified": "2026-09-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -164568,6 +165142,222 @@
       "dates": {
         "posted": "2026-08-11",
         "discovered": "2026-08-11",
+        "last_verified": "2026-09-03"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "tiktok-applied-scientist-intern-business-integrity-global-frontier-2026",
+      "company": {
+        "name": "TikTok",
+        "slug": "tiktok"
+      },
+      "role": "Applied Scientist Intern - Business Integrity - Global Frontier Tech Recruitment Program",
+      "category": "software-engineering",
+      "apply_url": "https://lifeattiktok.com/search/7631063087262419205",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-04-22",
+        "discovered": "2026-09-03",
+        "last_verified": "2026-09-03"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "tiktok-applied-scientist-intern-monetization-technology-global-fron-2026",
+      "company": {
+        "name": "TikTok",
+        "slug": "tiktok"
+      },
+      "role": "Applied Scientist Intern - Monetization Technology - Global Frontier Tech Recruitment Program",
+      "category": "software-engineering",
+      "apply_url": "https://lifeattiktok.com/search/7629248119245261061",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-06-15",
+        "discovered": "2026-09-03",
+        "last_verified": "2026-09-03"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "tiktok-applied-scientist-intern-multiple-teams-2027-d31b44",
+      "company": {
+        "name": "TikTok",
+        "slug": "tiktok"
+      },
+      "role": "Applied Scientist Intern - Multiple Teams",
+      "category": "software-engineering",
+      "apply_url": "https://lifeattiktok.com/search/7633670871815670069",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-04-29",
+        "discovered": "2026-09-03",
+        "last_verified": "2026-09-03"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "tiktok-applied-scientist-intern-multiple-teams-2027",
+      "company": {
+        "name": "TikTok",
+        "slug": "tiktok"
+      },
+      "role": "Applied Scientist Intern - Multiple Teams",
+      "category": "software-engineering",
+      "apply_url": "https://lifeattiktok.com/search/7633668456744503557",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Seattle",
+          "state": "WA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-06-15",
+        "discovered": "2026-09-03",
         "last_verified": "2026-09-03"
       },
       "status": "open",
@@ -165536,7 +166326,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-09-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -166655,9 +167445,63 @@
       "dates": {
         "posted": "2026-07-13",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-23"
+        "last_verified": "2026-09-03"
       },
-      "status": "closed",
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "tiktok-global-product-strategy-operation-project-intern-ads-interfa-2026",
+      "company": {
+        "name": "TikTok",
+        "slug": "tiktok"
+      },
+      "role": "Global Product Strategy & Operation Project Intern - Ads Interface and Platform Product",
+      "category": "software-engineering",
+      "apply_url": "https://lifeattiktok.com/search/7663478489194612997",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-24",
+        "discovered": "2026-09-03",
+        "last_verified": "2026-09-03"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -169924,6 +170768,60 @@
     },
     {
       "schema_version": "1.0",
+      "id": "tiktok-product-solutions-and-operations-project-intern-ads-interfac-2026",
+      "company": {
+        "name": "TikTok",
+        "slug": "tiktok"
+      },
+      "role": "Product Solutions and Operations Project Intern - Ads Interface and Platform Product",
+      "category": "software-engineering",
+      "apply_url": "https://lifeattiktok.com/search/7665080709191108917",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-24",
+        "discovered": "2026-09-03",
+        "last_verified": "2026-09-03"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "tiktok-recommendation-product-manager-intern-content-ecosystem-2027",
       "company": {
         "name": "TikTok",
@@ -170724,6 +171622,60 @@
       "dates": {
         "posted": "2026-08-03",
         "discovered": "2026-08-03",
+        "last_verified": "2026-09-03"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "tiktok-smb-operations-specialist-project-intern-product-led-growth-2026",
+      "company": {
+        "name": "TikTok",
+        "slug": "tiktok"
+      },
+      "role": "SMB Operations Specialist Project Intern - Product Led Growth - 2026 Start - BS/MS",
+      "category": "software-engineering",
+      "apply_url": "https://lifeattiktok.com/search/7657540410859948341",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-09",
+        "discovered": "2026-09-03",
         "last_verified": "2026-09-03"
       },
       "status": "open",
@@ -174551,7 +175503,7 @@
         "discovered": "2026-07-24",
         "last_verified": "2026-09-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -174605,7 +175557,7 @@
         "discovered": "2026-07-24",
         "last_verified": "2026-09-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -176331,7 +177283,7 @@
         "discovered": "2026-07-21",
         "last_verified": "2026-09-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -181734,7 +182686,7 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-09-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -183269,6 +184221,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "waymo-2027-summer-intern-ms-software-engineering-behavior-test-2027",
+      "company": {
+        "name": "Waymo",
+        "slug": "waymo",
+        "career_page": "https://waymo.com/careers"
+      },
+      "role": "2027 Summer Intern, MS, Software Engineering, Behavior Test",
+      "category": "software-engineering",
+      "apply_url": "https://careers.withwaymo.com/jobs?gh_jid=8174504",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Francisco",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-03",
+        "discovered": "2026-09-03",
+        "last_verified": "2026-09-03"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "wealthsimple-software-development-intern-data-science-intern-multiple-tea-2027",
       "company": {
         "name": "Wealthsimple",
@@ -184014,6 +185018,60 @@
         "last_verified": "2026-08-19"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "western-digital-fall-2026-phd-intern-hardware-development-engineering-2026",
+      "company": {
+        "name": "Western Digital",
+        "slug": "western-digital"
+      },
+      "role": "Fall 2026 PhD Intern - Hardware Development Engineering",
+      "category": "hardware",
+      "apply_url": "https://jobs.smartrecruiters.com/WesternDigital/744000138191379",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Fremont",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-16",
+        "discovered": "2026-09-03",
+        "last_verified": "2026-09-03"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -185723,7 +186781,7 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-09-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
