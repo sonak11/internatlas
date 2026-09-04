@@ -1,9 +1,9 @@
 {
   "schema_version": "1.0",
-  "id": "varda-space-applications-engineer-intern-2027",
+  "id": "varda-space-industries-applications-engineer-intern-2027",
   "company": {
-    "name": "Varda Space",
-    "slug": "varda-space"
+    "name": "Varda Space Industries",
+    "slug": "varda-space-industries"
   },
   "role": "Applications Engineer Intern",
   "category": "software-engineering",
@@ -40,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-07",
-    "discovered": "2026-08-07",
-    "last_verified": "2026-09-03"
+    "posted": "2026-08-21",
+    "discovered": "2026-09-04",
+    "last_verified": "2026-09-04"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }

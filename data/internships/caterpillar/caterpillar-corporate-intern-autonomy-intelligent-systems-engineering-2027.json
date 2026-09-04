@@ -1,0 +1,71 @@
+{
+  "schema_version": "1.0",
+  "id": "caterpillar-corporate-intern-autonomy-intelligent-systems-engineering-2027",
+  "company": {
+    "name": "Caterpillar",
+    "slug": "caterpillar"
+  },
+  "role": "Corporate Intern - Autonomy & Intelligent Systems Engineering",
+  "category": "software-engineering",
+  "apply_url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Summer-Corporate-Intern---Autonomy---Intelligent-Systems-Engineering_R0000392394",
+  "season": "summer",
+  "year": 2027,
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "Peoria",
+      "state": "IL",
+      "country": "USA"
+    },
+    {
+      "city": "SF",
+      "country": "USA"
+    },
+    {
+      "city": "Pittsburgh",
+      "state": "PA",
+      "country": "USA"
+    },
+    {
+      "city": "Mossville",
+      "state": "IL",
+      "country": "USA"
+    },
+    {
+      "city": "Irving",
+      "state": "TX",
+      "country": "USA"
+    }
+  ],
+  "compensation": {
+    "currency": "USD",
+    "housing_stipend": false,
+    "relocation_assistance": false
+  },
+  "eligibility": {
+    "graduation_years": [],
+    "degree_levels": [],
+    "citizenship_required": false,
+    "security_clearance_required": false,
+    "visa_sponsorship": "unknown"
+  },
+  "interview": {},
+  "tech": {
+    "required_skills": [],
+    "preferred_skills": [],
+    "languages": [],
+    "frameworks": [],
+    "cloud_platforms": [],
+    "resume_keywords": []
+  },
+  "dates": {
+    "posted": "2026-09-03",
+    "discovered": "2026-09-04",
+    "last_verified": "2026-09-04"
+  },
+  "status": "open",
+  "tags": [
+    "auto-ingested",
+    "src:simplify"
+  ]
+}

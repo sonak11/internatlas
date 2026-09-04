@@ -14,6 +14,8 @@
 | GE Vernova | [Energy Optimization Software Engineer Intern - Summer 2027](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Bellevue/GE-Vernova---Energy-Optimization-Software-Engineer-Intern---Summer-2027_R5050022-1) | Bellevue, WA | Onsite | 2026-08-21 | Rolling | 🟢 Open | ❔ |
 | GE Vernova | [GridOS Project Engineer Co-op/Intern](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Bellevue/GE-Vernova-GridOS--Project-Engineer---Co-Op-Intern---January-2027-June-2027_R5050087-1) | Bellevue, WA +1 | Onsite | 2026-08-19 | Rolling | 🟢 Open | ❔ |
 | GE Vernova | [GridOS Project Engineer Intern Co-op - GridOS](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Bellevue/GE-Vernova-GridOS--Project-Engineer---Co-Op-Intern---January-2027-June-2027_R5050087-2) | Bellevue, WA +1 | Onsite | 2026-08-19 | Rolling | 🟢 Open | ❔ |
+| GE Vernova | [Hardware Engineer Intern - Critical Infrastructure Communications](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Rochester/GE-Vernova-Grid-Solutions---Hardware-Engineering-Intern--Critical-Infrastructure-Communications----Spring-Summer-2027_R5051647-2) | Rochester, NY | Onsite | 2026-09-03 | Rolling | 🟢 Open | ❔ |
+| GE Vernova | [Hardware Engineer Intern - Critical Infrastructure Communications](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Rochester/GE-Vernova-Grid-Solutions---Hardware-Engineering-Intern--Critical-Infrastructure-Communications----Spring-Summer-2027_R5051647-1) | Rochester, NY | Onsite | 2026-09-03 | Rolling | 🟢 Open | ❔ |
 | GE Vernova | [Product Management Intern - Controls Lifecare Services](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Longmont/Product-Management-Intern---Controls-Lifecare-Services_R5050801-2) | Longmont, CO +1 | Onsite | 2026-08-30 | Rolling | 🟢 Open | ❔ |
 | GE Vernova | [Product Management Intern - Controls Lifecare Services](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Longmont/Product-Management-Intern---Controls-Lifecare-Services_R5050801-1) | Longmont, CO +1 | Onsite | 2026-08-30 | Rolling | 🟢 Open | ❔ |
 | GE Vernova | [Project Engineer Intern - Summer 2027](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Bellevue/GE-Vernova---Project-Engineer-Intern---Summer-2027_R5050023-2) | Bellevue, WA | Onsite | 2026-08-21 | Rolling | 🟢 Open | ❔ |
@@ -30,4 +32,4 @@
 
 ## Related
 
-Browse more roles in: [🧭 Product](../categories/product.md), [💻 Software Engineering](../categories/software-engineering.md)
+Browse more roles in: [🔩 Hardware](../categories/hardware.md), [🧭 Product](../categories/product.md), [💻 Software Engineering](../categories/software-engineering.md)

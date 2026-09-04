@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🔬 Research Internships
 
-**128** tracked · **78** open now
+**129** tracked · **78** open now
 
 ## Current openings
 
@@ -18,6 +18,7 @@
 | [Architect Labs](generated/companies/architect-labs.md) | [Member of Technical Staff Research Intern](https://jobs.ashbyhq.com/architect/1999377b-b23b-461f-b79a-d4edce0d46b1/application?embed=true) | Palo Alto, CA | Onsite | 2026-07-21 | Rolling | 🟢 Open | ❔ |
 | [Block](generated/companies/block.md) | [Applied Research Intern, Proactive Intelligence & Customer World Models (PhD / Graduate Co-op)](http://block.xyz/careers/jobs/5108009008?gh_jid=5108009008) | Toronto | Onsite | 2026-06-09 | Rolling | 🟢 Open | ❔ |
 | [Block](generated/companies/block.md) | [Applied Research Intern, Proactive Intelligence & Customer World Models (PhD / Graduate Co-op)](http://block.xyz/careers/jobs/5108007008?gh_jid=5108007008) | Bay Area, CA | Onsite | 2026-06-09 | Rolling | 🟢 Open | ❔ |
+| [ByteDance](generated/companies/bytedance.md) | [Research Intern - SDN Traffic Intelligence & Control](https://jobs.bytedance.com/en/position/7668118098724079877/detail) | San Jose, CA | Onsite | 2026-08-06 | Rolling | 🟢 Open | ❔ |
 | [ByteDance](generated/companies/bytedance.md) | [Research Scientist Intern](https://jobs.bytedance.com/en/position/7667379218929780997/detail) | Seattle, WA | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
 | [ByteDance](generated/companies/bytedance.md) | [Research Scientist Intern](https://jobs.bytedance.com/en/position/7670375041041320245/detail) | San Jose, CA | Onsite | 2026-08-06 | Rolling | 🟢 Open | ❔ |
 | [ByteDance](generated/companies/bytedance.md) | [Research Scientist Intern - Distributed NoSQL Database Systems](https://jobs.bytedance.com/en/position/7668371456348326149/detail) | Seattle, WA | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
@@ -39,7 +40,6 @@
 | [Google](generated/companies/google.md) | [Research Intern - PhD](https://www.google.com/about/careers/applications/jobs/results/86701057991680710) | Palo Alto, CA +27 | Onsite | 2026-08-24 | Rolling | 🟢 Open | ❔ |
 | [Google](generated/companies/google.md) | [Research Scientist PhD Intern](https://www.google.com/about/careers/applications/jobs/results/134795423167455942) | London | Onsite | 2026-08-17 | Rolling | 🟢 Open | ❔ |
 | [Huck Adventures](generated/companies/huck-adventures.md) | [Research Analyst Intern](https://jobs.smartrecruiters.com/HuckAdventures/743999747985535) | Boulder, CO | Onsite | 2026-08-18 | Rolling | 🟢 Open | ❔ |
-| [Intel](generated/companies/intel.md) | [System Technology PhD Intern - Research Engineer](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/System-Technology---Research-Engineer--PhD-Intern-_JR0286791) | Austin, TX +2 | Onsite | 2026-09-03 | Rolling | 🟢 Open | ❔ |
 | [Jane Street](generated/companies/jane-street.md) | [Fundamental Research Analyst Intern](https://www.janestreet.com/join-jane-street/position/8347286002/) | New York, NY | Onsite | 2026-07-24 | Rolling | 🟢 Open | ❔ |
 | [Jane Street](generated/companies/jane-street.md) | [Tools and Compilers Research and Development Intern](https://www.janestreet.com/join-jane-street/position/5869205002/) | New York, NY | Onsite | 2026-07-24 | Rolling | 🟢 Open | ✅ |
 | [Jump Trading](generated/companies/jump-trading.md) | [Campus Crypto Researcher (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7362318) | London | Onsite | 2025-10-29 | Rolling | 🟢 Open | ❔ |
@@ -104,6 +104,7 @@
 | [iHeartMedia](generated/companies/iheartmedia.md) | [Research Intern](https://iheartmedia.wd5.myworkdayjobs.com/External_iHM/job/Virtual-FL/Research-Intern_Req37325) | Florida | Onsite | 2026-07-04 | Rolling | 🔴 Closed | ❔ |
 | [Integra FEC](generated/companies/integra-fec.md) | [Research Analyst Intern](https://job-boards.greenhouse.io/integrainterns/jobs/5396990008) | Austin, TX | Onsite | 2026-08-20 | Rolling | 🔴 Closed | ❔ |
 | [Integrity](generated/companies/integrity.md) | [Research Intern](https://integritymarketing.wd1.myworkdayjobs.com/en-US/Integrity/job/Minneapolis-MN/Research-Intern_JR4284) | Minneapolis, MN | Onsite | 2026-07-02 | Rolling | 🔴 Closed | ❔ |
+| [Intel](generated/companies/intel.md) | [System Technology PhD Intern - Research Engineer](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/System-Technology---Research-Engineer--PhD-Intern-_JR0286791) | Austin, TX +2 | Onsite | 2026-09-03 | Rolling | 🔴 Closed | ❔ |
 | [Interdigital](generated/companies/interdigital.md) | [Wifi Intern - Wireless Researcher](https://interdigital.wd5.myworkdayjobs.com/InterDigital_Intern/job/Melville-NY/Intern--WIFI---Wireless-Researcher_REQ25-1051) | Melville, NY | Onsite | 2026-06-20 | Rolling | 🔴 Closed | ❔ |
 | [International Rescue Committee (IRC)](generated/companies/international-rescue-committee-irc.md) | [Development Data and Research Intern](https://theirc.wd1.myworkdayjobs.com/en-US/External_Careers/job/Silver-Spring-MD-USA/Development---Grant-Coordination-Intern--Summer-2026-_JR00002373) | Silver Spring, MD | Onsite | 2026-07-04 | Rolling | 🔴 Closed | ❔ |
 | [Meta](generated/companies/meta.md) | [Research Scientist Intern - 3D Vision & World Simulation](https://www.metacareers.com/jobs/2839011673109571) | Redmond, WA | Onsite | 2026-07-07 | Rolling | 🔴 Closed | ❔ |
@@ -141,7 +142,7 @@
 
 - Meta (11)
 - TikTok (10)
-- ByteDance (8)
+- ByteDance (9)
 - NVIDIA (7)
 - Cloudflare (5)
 - Pennsylvania State University (5)
@@ -167,7 +168,6 @@
 - Eaton (1)
 - Frontier Health (1)
 - Huck Adventures (1)
-- Intel (1)
 - Jump Trading (1)
 - Léger (1)
 - NeoCognition (1)
@@ -194,6 +194,7 @@
 - iHeartMedia (1)
 - Integra FEC (1)
 - Integrity (1)
+- Intel (1)
 - Interdigital (1)
 - International Rescue Committee (IRC) (1)
 - New Balance (1)

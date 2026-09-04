@@ -7,15 +7,18 @@
   },
   "role": "Data Scientist Intern",
   "category": "data-science",
-  "apply_url": "https://job-boards.greenhouse.io/internshiplist2000/jobs/5383409008",
+  "apply_url": "https://job-boards.greenhouse.io/internshiplist2000/jobs/5383410008",
   "season": "winter",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Atlanta",
-      "state": "GA",
-      "country": "USA"
+      "city": "Toronto",
+      "country": "ON"
+    },
+    {
+      "city": "Oakville",
+      "country": "ON"
     }
   ],
   "compensation": {
@@ -42,9 +45,9 @@
   "dates": {
     "posted": "2026-09-03",
     "discovered": "2026-09-03",
-    "last_verified": "2026-09-03"
+    "last_verified": "2026-09-04"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

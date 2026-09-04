@@ -12,6 +12,7 @@
 | Johns Hopkins Applied Physics Laboratory | [Engineer/Analyst/Scientist Intern - C2 Resilience Sciences](https://careers.jhuapl.edu/jobs/59832?icims=1) | Laurel, MD | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
 | Johns Hopkins Applied Physics Laboratory | [Engineer/SW Developer/Analyst Intern - Maritime Force Engagement Control](https://careers.jhuapl.edu/jobs/59598?icims=1) | Laurel, MD | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
 | Johns Hopkins Applied Physics Laboratory | [Mission Systems Engineering Intern](https://careers.jhuapl.edu/jobs/59883?icims=1) | Laurel, MD | Onsite | 2026-09-02 | Rolling | 🟢 Open | ❔ |
+| Johns Hopkins Applied Physics Laboratory | [Sensor Systems Intern - Data Analytics](https://careers.jhuapl.edu/jobs/59958?icims=1) | Laurel, MD | Onsite | 2026-09-04 | Rolling | 🟢 Open | ❔ |
 | Johns Hopkins Applied Physics Laboratory | [Software Developer Intern - Tactical System Prototyping and Deployment](https://careers.jhuapl.edu/jobs/59564?icims=1) | Laurel, MD | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
 | Johns Hopkins Applied Physics Laboratory | [Software Development Intern](https://careers.jhuapl.edu/jobs/59745?icims=1) | Laurel, MD | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
 | Johns Hopkins Applied Physics Laboratory | [Systems Exploitation Intern - Reverse Engineer - Systems Exploitation](https://careers.jhuapl.edu/jobs/59798?icims=1) | Laurel, MD | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |

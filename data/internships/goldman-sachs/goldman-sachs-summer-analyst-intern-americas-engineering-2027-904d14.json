@@ -1,24 +1,21 @@
 {
   "schema_version": "1.0",
-  "id": "geotab-data-scientist-intern-2027-5eb766",
+  "id": "goldman-sachs-summer-analyst-intern-americas-engineering-2027-904d14",
   "company": {
-    "name": "Geotab",
-    "slug": "geotab"
+    "name": "Goldman Sachs",
+    "slug": "goldman-sachs"
   },
-  "role": "Data Scientist Intern",
-  "category": "data-science",
-  "apply_url": "https://job-boards.greenhouse.io/internshiplist2000/jobs/5383410008",
-  "season": "winter",
+  "role": "Summer Analyst Intern - Americas - Engineering",
+  "category": "software-engineering",
+  "apply_url": "https://higher.gs.com/roles/171565?type=students",
+  "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Toronto",
-      "country": "ON"
-    },
-    {
-      "city": "Oakville",
-      "country": "ON"
+      "city": "Salt Lake City",
+      "state": "UT",
+      "country": "USA"
     }
   ],
   "compensation": {
@@ -43,11 +40,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-03",
-    "discovered": "2026-09-03",
-    "last_verified": "2026-09-03"
+    "posted": "2026-08-15",
+    "discovered": "2026-09-04",
+    "last_verified": "2026-09-04"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"
