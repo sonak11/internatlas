@@ -7,15 +7,14 @@
   },
   "role": "Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats",
   "category": "quant",
-  "apply_url": "https://higher.gs.com/roles/171549?type=students",
+  "apply_url": "https://higher.gs.com/roles/175421?type=students",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Salt Lake City",
-      "state": "UT",
-      "country": "USA"
+      "city": "London",
+      "country": "UK"
     }
   ],
   "compensation": {
@@ -46,7 +45,7 @@
     "discovered": "2026-09-04",
     "last_verified": "2026-09-04"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

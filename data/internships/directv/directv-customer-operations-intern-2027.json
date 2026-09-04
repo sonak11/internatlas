@@ -1,20 +1,21 @@
 {
   "schema_version": "1.0",
-  "id": "cloudflare-research-engineer-intern-2026-efe410",
+  "id": "directv-customer-operations-intern-2027",
   "company": {
-    "name": "Cloudflare",
-    "slug": "cloudflare"
+    "name": "DIRECTV",
+    "slug": "directv"
   },
-  "role": "Research Engineer Intern",
-  "category": "research",
-  "apply_url": "https://boards.greenhouse.io/cloudflare/jobs/8089407",
-  "season": "fall",
-  "year": 2026,
+  "role": "Customer Operations Intern",
+  "category": "software-engineering",
+  "apply_url": "https://directv.wd1.myworkdayjobs.com/careers/job/El-Segundo-CA/Customer-Operations-Intern_R260273",
+  "season": "summer",
+  "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "London",
-      "country": "UK"
+      "city": "El Segundo",
+      "state": "CA",
+      "country": "USA"
     }
   ],
   "compensation": {
@@ -39,8 +40,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-29",
-    "discovered": "2026-07-30",
+    "posted": "2026-09-04",
+    "discovered": "2026-09-04",
     "last_verified": "2026-09-04"
   },
   "status": "open",

@@ -1,21 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "qorvo-product-engineering-intern-2026-2442c3",
+  "id": "rtx-digital-transformation-of-aeronautic-manufacturing-intern-2027",
   "company": {
-    "name": "Qorvo",
-    "slug": "qorvo"
+    "name": "RTX",
+    "slug": "rtx"
   },
-  "role": "Product Engineering Intern",
+  "role": "Digital Transformation of Aeronautic Manufacturing Intern",
   "category": "software-engineering",
-  "apply_url": "https://careers.qorvo.com/job/Hillsboro-Product-Engineering-Intern-OR-97124/1421976600/?ats=successfactors",
-  "season": "fall",
-  "year": 2026,
+  "apply_url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---hiver-2027---Transformation-numerique-de-la-fabrication-aeronautique---Internship---Winter-2027---Digital-Transformation-of-Aeronautic-Manufacturing_01865735",
+  "season": "winter",
+  "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Hillsboro",
-      "state": "OR",
-      "country": "USA"
+      "city": "Longueuil",
+      "country": "QC"
     }
   ],
   "compensation": {
@@ -25,9 +24,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -42,8 +39,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-31",
-    "discovered": "2026-08-31",
+    "posted": "2026-09-04",
+    "discovered": "2026-09-04",
     "last_verified": "2026-09-04"
   },
   "status": "open",

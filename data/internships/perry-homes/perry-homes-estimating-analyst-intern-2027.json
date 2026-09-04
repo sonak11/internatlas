@@ -1,20 +1,21 @@
 {
   "schema_version": "1.0",
-  "id": "goldman-sachs-quantitative-strategist-intern-multiple-teams-2027-323368",
+  "id": "perry-homes-estimating-analyst-intern-2027",
   "company": {
-    "name": "Goldman Sachs",
-    "slug": "goldman-sachs"
+    "name": "Perry Homes",
+    "slug": "perry-homes"
   },
-  "role": "Quantitative Strategist Intern - Multiple Teams",
-  "category": "quant",
-  "apply_url": "https://higher.gs.com/roles/175424?type=students",
+  "role": "Estimating Analyst Intern",
+  "category": "software-engineering",
+  "apply_url": "https://apply.workable.com/perryhomes/j/555769E26B/apply",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "London",
-      "country": "UK"
+      "city": "Houston",
+      "state": "TX",
+      "country": "USA"
     }
   ],
   "compensation": {
@@ -39,11 +40,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-15",
+    "posted": "2026-09-04",
     "discovered": "2026-09-04",
     "last_verified": "2026-09-04"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

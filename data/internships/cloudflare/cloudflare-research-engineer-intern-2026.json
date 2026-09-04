@@ -7,15 +7,14 @@
   },
   "role": "Research Engineer Intern",
   "category": "research",
-  "apply_url": "https://boards.greenhouse.io/cloudflare/jobs/8089379",
+  "apply_url": "https://boards.greenhouse.io/cloudflare/jobs/8089407",
   "season": "fall",
   "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Austin",
-      "state": "TX",
-      "country": "USA"
+      "city": "London",
+      "country": "UK"
     }
   ],
   "compensation": {
@@ -40,7 +39,7 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-28",
+    "posted": "2026-07-29",
     "discovered": "2026-07-29",
     "last_verified": "2026-09-04"
   },

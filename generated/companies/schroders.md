@@ -7,6 +7,7 @@
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
 | Schroders | [Product Intern](https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/1952) | London | Onsite | 2026-08-28 | Rolling | 🟢 Open | ❔ |
+| Schroders | [Product Strategy Intern](https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/1953) | London | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
 | Schroders | [Public Markets Quants Intern - Quants (Public Markets)](https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/1941) | London | Onsite | 2026-08-28 | Rolling | 🟢 Open | ❔ |
 
 ## Related
