@@ -127,7 +127,10 @@ _Generated 2026-09-04_
 - Boom Supersonic — Engineering and Tech Intern
 - Booz Allen — AI RAN Telecommunications Engineer Intern
 - Booz Allen — AI RAN Telecommunications Engineer Intern
+- Booz Allen — Data Scientist Intern - 2027 Summer Games
 - Booz Allen — Software Developer Intern - Summer Games
+- Booz Allen — Software Developer Intern - University
+- Booz Allen — Systems Engineer Intern - University
 - Bosch Home Comfort — A.1. Integration Intern
 - Bosch Home Comfort — AI Security Research Intern
 - Bosch Home Comfort — Calibration Process Optimization Intern
@@ -171,6 +174,7 @@ _Generated 2026-09-04_
 - Capital One — Cyber Security Intern
 - Capital One — Software Engineer Intern
 - Capital One — Technology Intern
+- Castleton Commodities International — Commodities Trading Analyst Internship
 - Castleton Commodities International — Front Office Software Engineer Intern
 - Catalist — Data Services Intern
 - CCC Intelligent Solutions — AI Enablement Intern
@@ -201,6 +205,7 @@ _Generated 2026-09-04_
 - Cloudflare — Marketing Events and Campaigns Intern (Fall 2026)
 - Cloudflare — Network Strategy Intern (Fall 2026)
 - Cloudflare — Network Strategy Intern (Fall 2026)
+- Cloudflare — Research Engineer Intern
 - Cloudflare — Research Engineer Intern (Fall 2026)
 - Cloudflare — Research Engineer Intern (Fall 2026)
 - Cloudflare — Research Engineer Intern (Fall 2026)
