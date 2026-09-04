@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "ge-vernova-energy-optimization-software-engineer-intern-summer-2027-2027-a37b1f",
+  "id": "bytedance-data-platform-engineer-intern-global-engineering-cdn-2026",
   "company": {
-    "name": "GE Vernova",
-    "slug": "ge-vernova"
+    "name": "ByteDance",
+    "slug": "bytedance"
   },
-  "role": "Energy Optimization Software Engineer Intern - Summer 2027",
-  "category": "software-engineering",
-  "apply_url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Bellevue/GE-Vernova---Energy-Optimization-Software-Engineer-Intern---Summer-2027_R5050022-2",
-  "season": "summer",
-  "year": 2027,
+  "role": "Data Platform Engineer Intern - Global Engineering CDN",
+  "category": "cloud",
+  "apply_url": "https://jobs.bytedance.com/en/position/7538139519473092882/detail",
+  "season": "fall",
+  "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Bellevue",
-      "state": "WA",
+      "city": "San Jose",
+      "state": "CA",
       "country": "USA"
     }
   ],
@@ -26,8 +26,7 @@
   "eligibility": {
     "graduation_years": [],
     "degree_levels": [
-      "masters",
-      "phd"
+      "masters"
     ],
     "citizenship_required": false,
     "security_clearance_required": false,
@@ -43,8 +42,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-21",
-    "discovered": "2026-08-21",
+    "posted": "2026-08-11",
+    "discovered": "2026-09-04",
     "last_verified": "2026-09-04"
   },
   "status": "open",

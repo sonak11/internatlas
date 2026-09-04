@@ -1,6 +1,6 @@
 {
   "generated": "2026-09-04",
-  "count": 3561,
+  "count": 3574,
   "internships": [
     {
       "schema_version": "1.0",
@@ -3658,9 +3658,9 @@
       "dates": {
         "posted": "2026-04-16",
         "discovered": "2026-07-17",
-        "last_verified": "2026-09-03"
+        "last_verified": "2026-09-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -3800,9 +3800,74 @@
       "dates": {
         "posted": "2026-04-16",
         "discovered": "2026-07-17",
-        "last_verified": "2026-09-03"
+        "last_verified": "2026-09-04"
       },
-      "status": "closed",
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "amazon-applied-science-intern-science-recruiting-2026",
+      "company": {
+        "name": "Amazon",
+        "slug": "amazon"
+      },
+      "role": "Applied Science Intern - Science Recruiting",
+      "category": "software-engineering",
+      "apply_url": "https://amazon.jobs/en/jobs/10394248/fall-2026-applied-science-internship-canada-phd-student-science-recruiting",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Toronto",
+          "country": "ON"
+        },
+        {
+          "city": "Burnaby",
+          "country": "BC"
+        },
+        {
+          "city": "Pitt Meadows",
+          "country": "BC"
+        },
+        {
+          "city": "Vancouver",
+          "country": "BC"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-04-16",
+        "discovered": "2026-09-04",
+        "last_verified": "2026-09-04"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -13807,7 +13872,7 @@
       "dates": {
         "posted": "2026-09-02",
         "discovered": "2026-09-03",
-        "last_verified": "2026-09-03"
+        "last_verified": "2026-09-04"
       },
       "status": "open",
       "tags": [
@@ -13859,7 +13924,7 @@
       "dates": {
         "posted": "2026-09-02",
         "discovered": "2026-09-03",
-        "last_verified": "2026-09-03"
+        "last_verified": "2026-09-04"
       },
       "status": "open",
       "tags": [
@@ -13911,7 +13976,7 @@
       "dates": {
         "posted": "2026-06-11",
         "discovered": "2026-07-18",
-        "last_verified": "2026-09-03"
+        "last_verified": "2026-09-04"
       },
       "status": "open",
       "tags": [
@@ -13963,7 +14028,7 @@
       "dates": {
         "posted": "2026-06-11",
         "discovered": "2026-07-18",
-        "last_verified": "2026-09-03"
+        "last_verified": "2026-09-04"
       },
       "status": "open",
       "tags": [
@@ -14015,7 +14080,7 @@
       "dates": {
         "posted": "2026-06-11",
         "discovered": "2026-07-18",
-        "last_verified": "2026-09-03"
+        "last_verified": "2026-09-04"
       },
       "status": "open",
       "tags": [
@@ -14067,7 +14132,7 @@
       "dates": {
         "posted": "2026-06-10",
         "discovered": "2026-07-18",
-        "last_verified": "2026-09-03"
+        "last_verified": "2026-09-04"
       },
       "status": "open",
       "tags": [
@@ -15457,6 +15522,60 @@
     },
     {
       "schema_version": "1.0",
+      "id": "aqr-capital-management-engineering-summer-analyst-intern-2027",
+      "company": {
+        "name": "AQR Capital Management",
+        "slug": "aqr-capital-management"
+      },
+      "role": "Engineering Summer Analyst Intern",
+      "category": "software-engineering",
+      "apply_url": "https://careers.aqr.com/jobs?gh_jid=7926647&gh_jid=7926647",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Greenwich",
+          "state": "CT",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-05-15",
+        "discovered": "2026-09-04",
+        "last_verified": "2026-09-04"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "aqr-capital-management-portfolio-implementation-trading-and-portfolio-finance-analy-2027",
       "company": {
         "name": "AQR Capital Management",
@@ -15501,9 +15620,9 @@
       "dates": {
         "posted": "2026-05-15",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-22"
+        "last_verified": "2026-09-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -15555,6 +15674,166 @@
       },
       "dates": {
         "posted": "2026-08-11",
+        "discovered": "2026-09-04",
+        "last_verified": "2026-09-04"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "aqr-capital-management-research-and-portfolio-management-engineering-summer-analyst-2027",
+      "company": {
+        "name": "AQR Capital Management",
+        "slug": "aqr-capital-management"
+      },
+      "role": "Research and Portfolio Management Engineering Summer Analyst Intern",
+      "category": "research",
+      "apply_url": "https://careers.aqr.com/jobs?gh_jid=7957728&gh_jid=7957728",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Greenwich",
+          "state": "CT",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-05-26",
+        "discovered": "2026-09-04",
+        "last_verified": "2026-09-04"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "aqr-capital-management-research-summer-analyst-intern-2027",
+      "company": {
+        "name": "AQR Capital Management",
+        "slug": "aqr-capital-management"
+      },
+      "role": "Research Summer Analyst Intern",
+      "category": "research",
+      "apply_url": "https://careers.aqr.com/jobs?gh_jid=7895583&gh_jid=7895583",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Greenwich",
+          "state": "CT",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-05-15",
+        "discovered": "2026-09-04",
+        "last_verified": "2026-09-04"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "aqr-capital-management-risk-summer-analyst-intern-2027",
+      "company": {
+        "name": "AQR Capital Management",
+        "slug": "aqr-capital-management"
+      },
+      "role": "Risk Summer Analyst Intern",
+      "category": "software-engineering",
+      "apply_url": "https://careers.aqr.com/jobs?gh_jid=7926692&gh_jid=7926692",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Greenwich",
+          "state": "CT",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-05-15",
         "discovered": "2026-09-04",
         "last_verified": "2026-09-04"
       },
@@ -17360,7 +17639,7 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-09-04"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -29390,6 +29669,60 @@
       "dates": {
         "posted": "2026-08-11",
         "discovered": "2026-08-11",
+        "last_verified": "2026-09-04"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "bytedance-data-platform-engineer-intern-global-engineering-cdn-2026",
+      "company": {
+        "name": "ByteDance",
+        "slug": "bytedance"
+      },
+      "role": "Data Platform Engineer Intern - Global Engineering CDN",
+      "category": "cloud",
+      "apply_url": "https://jobs.bytedance.com/en/position/7538139519473092882/detail",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-11",
+        "discovered": "2026-09-04",
         "last_verified": "2026-09-04"
       },
       "status": "open",
@@ -47409,7 +47742,7 @@
         "discovered": "2026-08-28",
         "last_verified": "2026-09-04"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -54463,7 +54796,7 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-09-04"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -54985,7 +55318,7 @@
         "discovered": "2026-08-20",
         "last_verified": "2026-09-04"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -56999,6 +57332,58 @@
         "last_verified": "2026-09-03"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "fgs-global-research-insights-intern-2026",
+      "company": {
+        "name": "FGS Global",
+        "slug": "fgs-global"
+      },
+      "role": "Research & Insights Intern",
+      "category": "research",
+      "apply_url": "https://job-boards.greenhouse.io/fgsglobal/jobs/4805006007",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Washington",
+          "state": "DC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-31",
+        "discovered": "2026-09-04",
+        "last_verified": "2026-09-04"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -61916,6 +62301,65 @@
     },
     {
       "schema_version": "1.0",
+      "id": "ge-aerospace-engines-engineering-intern-co-op-computer-or-software-engine-2027",
+      "company": {
+        "name": "GE Aerospace",
+        "slug": "ge-aerospace"
+      },
+      "role": "Engines Engineering Intern/Co-op - Computer or Software Engineering",
+      "category": "software-engineering",
+      "apply_url": "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Evendale/Engines-Engineering-Co-op---Computer-or-Software-Engineering---US---Spring-2027_R5029619",
+      "season": "spring",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Saugus",
+          "state": "MA",
+          "country": "USA"
+        },
+        {
+          "city": "Sharonville",
+          "state": "OH",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-03-03",
+        "discovered": "2026-09-04",
+        "last_verified": "2026-09-04"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "ge-aerospace-engines-engineering-intern-computer-or-software-engineering-2027",
       "company": {
         "name": "GE Aerospace",
@@ -62604,61 +63048,6 @@
     },
     {
       "schema_version": "1.0",
-      "id": "ge-vernova-energy-optimization-software-engineer-intern-summer-2027-2027-a37b1f",
-      "company": {
-        "name": "GE Vernova",
-        "slug": "ge-vernova"
-      },
-      "role": "Energy Optimization Software Engineer Intern - Summer 2027",
-      "category": "software-engineering",
-      "apply_url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Bellevue/GE-Vernova---Energy-Optimization-Software-Engineer-Intern---Summer-2027_R5050022-2",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Bellevue",
-          "state": "WA",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [
-          "masters",
-          "phd"
-        ],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-08-21",
-        "discovered": "2026-08-21",
-        "last_verified": "2026-09-04"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
       "id": "ge-vernova-energy-optimization-software-engineer-intern-summer-2027-2027",
       "company": {
         "name": "GE Vernova",
@@ -62666,7 +63055,7 @@
       },
       "role": "Energy Optimization Software Engineer Intern - Summer 2027",
       "category": "software-engineering",
-      "apply_url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Bellevue/GE-Vernova---Energy-Optimization-Software-Engineer-Intern---Summer-2027_R5050022-1",
+      "apply_url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Bellevue/GE-Vernova---Energy-Optimization-Software-Engineer-Intern---Summer-2027_R5050022-2",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
@@ -63473,7 +63862,7 @@
         "discovered": "2026-08-21",
         "last_verified": "2026-09-04"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -66181,7 +66570,7 @@
         "discovered": "2026-08-27",
         "last_verified": "2026-09-04"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -66233,7 +66622,7 @@
         "discovered": "2026-08-20",
         "last_verified": "2026-09-04"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -66286,7 +66675,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-09-04"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -66339,7 +66728,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-04"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -66392,7 +66781,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-09-04"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -66444,7 +66833,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-04"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -66496,7 +66885,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-04"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -66550,7 +66939,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-04"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -66601,7 +66990,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-04"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -66652,7 +67041,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-04"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -66706,7 +67095,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-04"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -66757,7 +67146,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-04"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -66808,7 +67197,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-04"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -66859,7 +67248,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-09-04"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -66911,7 +67300,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-04"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -66962,7 +67351,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-04"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -67015,7 +67404,7 @@
         "discovered": "2026-08-20",
         "last_verified": "2026-09-04"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -67066,7 +67455,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-04"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -67118,7 +67507,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-04"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -67169,7 +67558,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-04"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -67222,7 +67611,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-04"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -67273,7 +67662,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-04"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -67327,7 +67716,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-04"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -67381,7 +67770,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-04"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -67432,7 +67821,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-04"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -67486,7 +67875,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-09-04"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -67588,7 +67977,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-04"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -67639,7 +68028,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-09-04"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -67690,7 +68079,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-04"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -67743,7 +68132,7 @@
         "discovered": "2026-08-29",
         "last_verified": "2026-09-04"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -67796,7 +68185,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-09-04"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -69604,7 +69993,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-09-04"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -82212,7 +82601,7 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-09-04"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -87056,7 +87445,7 @@
         "discovered": "2026-08-14",
         "last_verified": "2026-09-04"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -87108,7 +87497,7 @@
         "discovered": "2026-08-17",
         "last_verified": "2026-09-04"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -91970,7 +92359,7 @@
         "discovered": "2026-08-11",
         "last_verified": "2026-09-04"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -94452,9 +94841,9 @@
       "dates": {
         "posted": "2026-08-21",
         "discovered": "2026-08-21",
-        "last_verified": "2026-09-03"
+        "last_verified": "2026-09-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -112774,7 +113163,7 @@
         "discovered": "2026-08-19",
         "last_verified": "2026-09-04"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -116161,6 +116550,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "oracle-ai-agent-intern-logistics-focus-2026",
+      "company": {
+        "name": "Oracle",
+        "slug": "oracle"
+      },
+      "role": "AI Agent Intern - Logistics Focus",
+      "category": "ai",
+      "apply_url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/334345",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Austin",
+          "state": "TX",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-05-21",
+        "discovered": "2026-09-04",
+        "last_verified": "2026-09-04"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "oracle-customer-solutions-analyst-intern-ovip-2026",
       "company": {
         "name": "Oracle",
@@ -116204,6 +116645,78 @@
         "last_verified": "2026-09-03"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "oracle-data-strategy-intern-2026",
+      "company": {
+        "name": "Oracle",
+        "slug": "oracle"
+      },
+      "role": "Data Strategy Intern",
+      "category": "software-engineering",
+      "apply_url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/334396",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Seattle",
+          "state": "WA",
+          "country": "USA"
+        },
+        {
+          "city": "Santa Monica",
+          "state": "CA",
+          "country": "USA"
+        },
+        {
+          "city": "San Carlos",
+          "state": "CA",
+          "country": "USA"
+        },
+        {
+          "city": "Santa Clara",
+          "state": "CA",
+          "country": "USA"
+        },
+        {
+          "city": "Rocklin",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-05-21",
+        "discovered": "2026-09-04",
+        "last_verified": "2026-09-04"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -120644,7 +121157,7 @@
         "discovered": "2026-08-29",
         "last_verified": "2026-09-04"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -124307,6 +124820,57 @@
     },
     {
       "schema_version": "1.0",
+      "id": "primer-software-engineer-intern-full-stack-2027",
+      "company": {
+        "name": "Primer",
+        "slug": "primer"
+      },
+      "role": "Software Engineer Intern - Full Stack",
+      "category": "software-engineering",
+      "apply_url": "https://jobs.ashbyhq.com/primer/edd1667b-6323-444a-adc1-40bae5b9a3b0/application?embed=true",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "SF",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-04",
+        "discovered": "2026-09-04",
+        "last_verified": "2026-09-04"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "primetals-technologies-it-data-analytics-intern-asset-demand-procurement-2026",
       "company": {
         "name": "Primetals Technologies",
@@ -124916,7 +125480,7 @@
         "discovered": "2026-08-31",
         "last_verified": "2026-09-04"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -124970,7 +125534,7 @@
         "discovered": "2026-08-31",
         "last_verified": "2026-09-04"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -131156,7 +131720,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-09-04"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -133234,7 +133798,7 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-09-04"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -136057,6 +136621,73 @@
         "last_verified": "2026-08-31"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "rsm-application-development-intern-summer-2027-2027",
+      "company": {
+        "name": "RSM",
+        "slug": "rsm"
+      },
+      "role": "Application Development Intern - Summer 2027",
+      "category": "software-engineering",
+      "apply_url": "https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Des-Moines/Application-Development-Intern---Summer-2027_JR120736",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Des Moines",
+          "state": "IA",
+          "country": "USA"
+        },
+        {
+          "city": "Chicago",
+          "state": "IL",
+          "country": "USA"
+        },
+        {
+          "city": "Minneapolis",
+          "state": "MN",
+          "country": "USA"
+        },
+        {
+          "city": "Denver",
+          "state": "CO",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-04",
+        "discovered": "2026-09-04",
+        "last_verified": "2026-09-04"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -140399,7 +141030,7 @@
         "discovered": "2026-08-05",
         "last_verified": "2026-09-04"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -142974,7 +143605,7 @@
         "discovered": "2026-08-14",
         "last_verified": "2026-09-04"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -149321,7 +149952,7 @@
         "discovered": "2026-08-19",
         "last_verified": "2026-09-04"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -154269,9 +154900,9 @@
       "dates": {
         "posted": "2026-07-23",
         "discovered": "2026-07-23",
-        "last_verified": "2026-08-06"
+        "last_verified": "2026-09-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -154321,9 +154952,9 @@
       "dates": {
         "posted": "2026-07-23",
         "discovered": "2026-07-23",
-        "last_verified": "2026-08-06"
+        "last_verified": "2026-09-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -156285,6 +156916,57 @@
         "last_verified": "2026-09-04"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "tesla-actuator-test-engineer-intern-optimus-2026",
+      "company": {
+        "name": "Tesla",
+        "slug": "tesla"
+      },
+      "role": "Actuator Test Engineer Intern - Optimus",
+      "category": "software-engineering",
+      "apply_url": "https://www.tesla.com/careers/search/job/259950",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Langley",
+          "country": "BC"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-06-07",
+        "discovered": "2026-09-04",
+        "last_verified": "2026-09-04"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -159216,9 +159898,9 @@
       "dates": {
         "posted": "2026-06-06",
         "discovered": "2026-07-17",
-        "last_verified": "2026-07-28"
+        "last_verified": "2026-09-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -160573,7 +161255,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-09-04"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -164288,6 +164970,58 @@
       "tags": [
         "auto-ingested",
         "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "texas-a-m-international-university-information-technology-intern-2026",
+      "company": {
+        "name": "Texas A&M International University",
+        "slug": "texas-a-m-international-university"
+      },
+      "role": "Information Technology Intern",
+      "category": "software-engineering",
+      "apply_url": "https://tamus.wd1.myworkdayjobs.com/TAMIU_Student_Employment/job/Laredo-TX/Intern--Information-Technology--OIT-SIS-_R-093087",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Laredo",
+          "state": "TX",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-06-27",
+        "discovered": "2026-09-04",
+        "last_verified": "2026-09-04"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
       ]
     },
     {
@@ -168018,7 +168752,7 @@
         "discovered": "2026-08-28",
         "last_verified": "2026-09-04"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -173972,7 +174706,7 @@
         "discovered": "2026-08-19",
         "last_verified": "2026-09-04"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -177346,7 +178080,7 @@
         "discovered": "2026-08-03",
         "last_verified": "2026-09-04"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -193869,7 +194603,7 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-09-04"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"

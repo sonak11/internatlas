@@ -1,0 +1,59 @@
+{
+  "schema_version": "1.0",
+  "id": "ge-aerospace-engines-engineering-intern-co-op-computer-or-software-engine-2027",
+  "company": {
+    "name": "GE Aerospace",
+    "slug": "ge-aerospace"
+  },
+  "role": "Engines Engineering Intern/Co-op - Computer or Software Engineering",
+  "category": "software-engineering",
+  "apply_url": "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Evendale/Engines-Engineering-Co-op---Computer-or-Software-Engineering---US---Spring-2027_R5029619",
+  "season": "spring",
+  "year": 2027,
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "Saugus",
+      "state": "MA",
+      "country": "USA"
+    },
+    {
+      "city": "Sharonville",
+      "state": "OH",
+      "country": "USA"
+    }
+  ],
+  "compensation": {
+    "currency": "USD",
+    "housing_stipend": false,
+    "relocation_assistance": false
+  },
+  "eligibility": {
+    "graduation_years": [],
+    "degree_levels": [
+      "masters"
+    ],
+    "citizenship_required": false,
+    "security_clearance_required": false,
+    "visa_sponsorship": "unknown"
+  },
+  "interview": {},
+  "tech": {
+    "required_skills": [],
+    "preferred_skills": [],
+    "languages": [],
+    "frameworks": [],
+    "cloud_platforms": [],
+    "resume_keywords": []
+  },
+  "dates": {
+    "posted": "2026-03-03",
+    "discovered": "2026-09-04",
+    "last_verified": "2026-09-04"
+  },
+  "status": "open",
+  "tags": [
+    "auto-ingested",
+    "src:simplify"
+  ]
+}
