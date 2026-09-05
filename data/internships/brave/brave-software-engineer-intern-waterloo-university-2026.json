@@ -1,0 +1,46 @@
+{
+  "schema_version": "1.0",
+  "id": "brave-software-engineer-intern-waterloo-university-2026",
+  "company": {
+    "name": "Brave",
+    "slug": "brave"
+  },
+  "role": "Software Engineer Intern - Waterloo University",
+  "category": "software-engineering",
+  "apply_url": "https://job-boards.greenhouse.io/brave/jobs/8161945",
+  "season": "fall",
+  "year": 2026,
+  "work_mode": "remote",
+  "locations": [],
+  "compensation": {
+    "currency": "USD",
+    "housing_stipend": false,
+    "relocation_assistance": false
+  },
+  "eligibility": {
+    "graduation_years": [],
+    "degree_levels": [],
+    "citizenship_required": false,
+    "security_clearance_required": false,
+    "visa_sponsorship": "unknown"
+  },
+  "interview": {},
+  "tech": {
+    "required_skills": [],
+    "preferred_skills": [],
+    "languages": [],
+    "frameworks": [],
+    "cloud_platforms": [],
+    "resume_keywords": []
+  },
+  "dates": {
+    "posted": "2026-09-04",
+    "discovered": "2026-09-05",
+    "last_verified": "2026-09-05"
+  },
+  "status": "open",
+  "tags": [
+    "auto-ingested",
+    "src:simplify"
+  ]
+}
