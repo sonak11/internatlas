@@ -21,10 +21,10 @@ _Generated 2026-09-05_
 | Booz Allen | 38 |
 | Cloudflare | 33 |
 | NVIDIA | 33 |
+| Goldman Sachs | 31 |
 | The Walt Disney Company | 31 |
 | Marvell | 29 |
 | Zipline | 29 |
-| Goldman Sachs | 28 |
 | Shure | 28 |
 | IMC Trading | 26 |
 | SpaceX | 25 |
@@ -33,9 +33,9 @@ _Generated 2026-09-05_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 2160 | `███████████████` |
+| software-engineering | 2162 | `███████████████` |
 | ai | 305 | `██` |
-| quant | 262 | `██` |
+| quant | 263 | `██` |
 | machine-learning | 173 | `█` |
 | hardware | 146 | `█` |
 | research | 133 | `█` |
@@ -301,32 +301,16 @@ _Generated 2026-09-05_
 - GlossGenius — Engineering Intern - Summer 2027
 - Goldman Sachs — Associate Intern - The Core Quantitative Strats
 - Goldman Sachs — AWM Product Management Analyst Intern
-- Goldman Sachs — Quantitative Strategist Associate Intern - Asset and Wealth Management
 - Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
 - Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Americas
 - Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Investment Banking
-- Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
-- Goldman Sachs — Quantitative Strats Analyst Intern - Americas - Investment Banking
-- Goldman Sachs — Summer Analyst Intern
 - Goldman Sachs — Summer Analyst Intern - Americas - AWM Product Management
-- Goldman Sachs — Summer Analyst Intern - Americas - Engineering
-- Goldman Sachs — Summer Analyst Intern - Americas - Engineering
-- Goldman Sachs — Summer Analyst Intern - Americas - Investment Banking Quantitative Strats
-- Goldman Sachs — Summer Analyst Intern - Engineering
-- Goldman Sachs — Summer Analyst Intern - Engineering
 - Goldman Sachs — Summer Analyst Intern - Engineering
 - Goldman Sachs — Summer Analyst Intern - FICC and Equities - Sales and Trading
 - Goldman Sachs — Summer Analyst Intern - FICC & Equities - Sales & Trading
 - Goldman Sachs — Summer Analyst Intern - The Core Quantitative Strats
 - Goldman Sachs — Summer Analyst Intern - Wealth Management - Product Management and Design
 - Goldman Sachs — Summer Analyst Intern - Wealth Management - Quantitative Finance
-- Goldman Sachs — Summer Associate Intern
-- Goldman Sachs — Summer Associate Intern - Multiple Teams
 - Grant Thornton — AI, Data & Technology Intern - Summer 2027
 - Grant Thornton — AI, Data & Technology Intern - Summer 2027
 - Grant Thornton — AI, Data & Technology Intern - Summer 2027
@@ -533,7 +517,6 @@ _Generated 2026-09-05_
 - Northwood Space — Supply Chain Data & Analytics Intern
 - Novogradac — Junior Analyst Intern
 - NVIDIA — Ph.D. Engineering Intern
-- NVIDIA — Ph.D. Research Autonomous Vehicles Intern
 - OceanComm — Electronics Technician Intern
 - Oceanus Marine Technologies — Software Engineer Intern
 - Odin Dynamics, Inc — Engineering Intern

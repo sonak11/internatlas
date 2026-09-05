@@ -1,13 +1,13 @@
 {
   "schema_version": "1.0",
-  "id": "goldman-sachs-quantitative-strategist-associate-intern-asset-and-wealth-ma-2027",
+  "id": "goldman-sachs-summer-analyst-intern-engineering-2027-324b6c",
   "company": {
     "name": "Goldman Sachs",
     "slug": "goldman-sachs"
   },
-  "role": "Quantitative Strategist Associate Intern - Asset and Wealth Management",
-  "category": "quant",
-  "apply_url": "https://higher.gs.com/roles/175423?type=students",
+  "role": "Summer Analyst Intern - Engineering",
+  "category": "software-engineering",
+  "apply_url": "https://higher.gs.com/roles/170644?type=students",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
@@ -24,9 +24,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "phd"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -42,7 +40,7 @@
   },
   "dates": {
     "posted": "2026-08-15",
-    "discovered": "2026-08-15",
+    "discovered": "2026-09-05",
     "last_verified": "2026-09-05"
   },
   "status": "open",
