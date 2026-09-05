@@ -9,7 +9,7 @@ _Generated 2026-09-05_
 | Company | Listings |
 |---|---|
 | TikTok | 166 |
-| Tesla | 156 |
+| Tesla | 157 |
 | RTX | 93 |
 | ByteDance | 69 |
 | American Express | 62 |
@@ -21,39 +21,45 @@ _Generated 2026-09-05_
 | Booz Allen | 38 |
 | Cloudflare | 33 |
 | NVIDIA | 33 |
-| The Walt Disney Company | 32 |
+| The Walt Disney Company | 31 |
+| Goldman Sachs | 29 |
+| Marvell | 29 |
 | Zipline | 29 |
-| Goldman Sachs | 28 |
 | Shure | 28 |
 | IMC Trading | 26 |
 | SpaceX | 25 |
-| Neuralink | 24 |
 
 ## Listings by category
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 2158 | `███████████████` |
-| ai | 304 | `██` |
-| quant | 262 | `██` |
+| software-engineering | 2159 | `███████████████` |
+| ai | 305 | `██` |
+| quant | 263 | `██` |
 | machine-learning | 173 | `█` |
-| hardware | 144 | `█` |
+| hardware | 146 | `█` |
 | research | 133 | `█` |
 | product | 113 | `█` |
 | data-science | 108 | `█` |
-| embedded | 91 | `█` |
-| design | 88 | `█` |
+| design | 96 | `█` |
+| embedded | 92 | `█` |
 | data-engineering | 57 | `█` |
 | cloud | 54 | `█` |
 | security | 19 | `█` |
 
 ## Newest listings
 
+- 2026-09-05 — **Solidigm**: [Hardware, Electrical Validation and Product Engineering Intern - Validation](https://jobs.smartrecruiters.com/Solidigm/744000147613779)
+- 2026-09-05 — **Solidigm**: [Hardware & Product Development Engineering Intern](https://jobs.smartrecruiters.com/Solidigm/744000147613839)
+- 2026-09-05 — **Solidigm**: [Software Development & Firmware Engineering Intern - Multiple Teams](https://jobs.smartrecruiters.com/Solidigm/744000147613629)
+- 2026-09-05 — **Solidigm**: [Software Engineering Intern - Firmware & AI Engineering](https://jobs.smartrecruiters.com/Solidigm/744000147613769)
+- 2026-09-05 — **Tesla**: [Software Engineer Intern - Code Hardening & Framework Resilience - Robotaxi](https://www.tesla.com/careers/search/job/282598)
 - 2026-09-04 — **AArete**: [Business Analytics Intern - Summer 2027](https://jobs.jobvite.com/aarete/job/oBXLAfwD?nl=1&nl=1&fr=false)
 - 2026-09-04 — **Allied Solutions**: [Sales Analytics Intern](https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/Carmel-IN/Sales-Analytics-Intern_R-011098)
 - 2026-09-04 — **Amazon**: [Software Development Engineer Intern - Robotics](https://amazon.jobs/en/jobs/10529525/software-development-engineer-intern-robotics-2027)
 - 2026-09-04 — **Anduril**: [2026 Robotics Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5211095007?gh_jid=5211095007)
 - 2026-09-04 — **Apex**: [Simulation Software Engineering Intern](https://jobs.ashbyhq.com/apex-technology-inc/d3e21f84-3637-4521-833d-fd07b3ca5f2e/application?embed=true)
+- 2026-09-04 — **Applied Materials**: [Data Analyst Intern - Global Technical Learning Center](https://amat.wd1.myworkdayjobs.com/External/job/AlbanyNY/Summer-2027-Global-Technical-Learning-Center-Data-Analyst-Intern--Bachelor-s-Master-s--Albany--NY-_R2627551)
 - 2026-09-04 — **Bank of Montreal**: [Investment Intern Co-op - Gam](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Investment-Intern---GAM--Summer-2027--Co-op-Internship----4-months_R260026067)
 - 2026-09-04 — **Bank of Montreal**: [Junior Software Developer Co-op Intern - Winter 2027 - 4 months](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Junior-Software-Developer--Winter-2027---Co-op-Internship---4-months_R260026093)
 - 2026-09-04 — **Bank of Montreal**: [Junior Software Developer Co-op Intern - Winter 2027 - 4 months](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Junior-Software-Developer--Winter-2027---Co-op-Internship---4-months_R260026089)
@@ -63,16 +69,11 @@ _Generated 2026-09-05_
 - 2026-09-04 — **CACI**: [Software Engineer Intern](https://caci.wd1.myworkdayjobs.com/external/job/Ypsilanti-MI-US/Software-Engineer-Intern---Summer-2027_331648)
 - 2026-09-04 — **CDM Smith**: [Electrical Engineer Intern - Summer 2027](https://careers.cdmsmith.com/jobs/4398?icims=1)
 - 2026-09-04 — **CesiumAstro**: [Test Engineer Intern](https://jobs.lever.co/CesiumAstro/a8f6548c-e941-48cb-9e52-596d110556c0/apply)
-- 2026-09-04 — **CIBC**: [Software Engineer Intern](https://cibc.wd3.myworkdayjobs.com/search/job/Chicago-IL/XMLNAME-2027-Summer-Intern---Software-Engineering_2618322-1)
-- 2026-09-04 — **CIBC**: [Software Engineer Intern](https://cibc.wd3.myworkdayjobs.com/campus/job/Chicago-IL/XMLNAME-2027-Summer-Intern---Software-Engineering_2618322)
-- 2026-09-04 — **Clarios**: [Category Analyst Intern](https://clarios.wd5.myworkdayjobs.com/clarioscareers/job/United-States-Wisconsin-Milwaukee/Category-Analyst-Intern--Summer-2027-_WD50036)
-- 2026-09-04 — **Cox**: [Software Engineer Intern - Summer 2027](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Long-Island-NY/Software-Engineering-Intern---Summer-2027--North-Hills--NY-_R202682171-1)
-- 2026-09-04 — **CSX**: [Sales & Marketing Analytics Intern - Paid](https://fa-eowa-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CSXCareers/job/54839)
-- 2026-09-04 — **DIRECTV**: [Customer Operations Intern](https://directv.wd1.myworkdayjobs.com/careers/job/El-Segundo-CA/Customer-Operations-Intern_R260273)
 
 ## Recently closed
 
 - 1X — CNC Machine Park Intern
+- AArete — Business Analytics Intern - Summer 2027
 - Abridge — Software Engineer Intern
 - Advanced Robotics for Manufacturing — Mechanical Engineer Co-op Intern
 - Air Products — Information Technology/Digital Technology Intern - Infrastructure Services
@@ -124,7 +125,6 @@ _Generated 2026-09-05_
 - Boom Supersonic — Engineering and Tech Intern
 - Booz Allen — AI RAN Telecommunications Engineer Intern
 - Booz Allen — AI RAN Telecommunications Engineer Intern
-- Booz Allen — Data Scientist Intern - 2027 Summer Games
 - Booz Allen — Software Engineer Intern
 - Bosch Home Comfort — A.1. Integration Intern
 - Bosch Home Comfort — AI Security Research Intern
@@ -176,7 +176,7 @@ _Generated 2026-09-05_
 - CesiumAstro — Embedded Software Engineer Intern
 - CesiumAstro — Software Engineering Intern - Advanced Projects Group
 - Chanel — Data Intern - Global Data Program
-- Charles Schwab — Software Engineering Intern - Technology
+- Chevron — Previous Intern - Information Technology - Information and Analytics
 - Chevron Corporation — Intern
 - Chevron Corporation — Supply & Trading TAMU TRIP Program Intern
 - Chevron Corporation — Supply & Trading TRIP Program Intern
@@ -296,23 +296,21 @@ _Generated 2026-09-05_
 - GlobalFoundries — Robotics and Automation Engineering Intern - Junior
 - GlossGenius — Engineering Intern
 - GlossGenius — Engineering Intern - Summer 2027
+- Goldman Sachs — Associate Intern - The Core Quantitative Strats
 - Goldman Sachs — AWM Product Management Analyst Intern
-- Goldman Sachs — Quantitative Strategist Associate Intern - Asset and Wealth Management
-- Goldman Sachs — Quantitative Strategist Intern - Americas
-- Goldman Sachs — Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats
-- Goldman Sachs — Quantitative Strats Analyst Intern - Americas - Investment Banking
-- Goldman Sachs — Summer Analyst Intern
+- Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Intern - Investment Banking
 - Goldman Sachs — Summer Analyst Intern - Americas - AWM Product Management
-- Goldman Sachs — Summer Analyst Intern - Americas - Engineering
+- Goldman Sachs — Summer Analyst Intern - Americas - Investment Banking Quantitative Strats
 - Goldman Sachs — Summer Analyst Intern - Engineering
-- Goldman Sachs — Summer Analyst Intern - Engineering
-- Goldman Sachs — Summer Analyst Intern - FICC and Equities - Sales and Trading
 - Goldman Sachs — Summer Analyst Intern - FICC & Equities - Sales & Trading
 - Goldman Sachs — Summer Analyst Intern - The Core Quantitative Strats
 - Goldman Sachs — Summer Analyst Intern - Wealth Management - Product Management and Design
 - Goldman Sachs — Summer Analyst Intern - Wealth Management - Quantitative Finance
-- Goldman Sachs — Summer Associate Intern
-- Goldman Sachs — Summer Associate Intern - Multiple Teams
 - Grant Thornton — AI, Data & Technology Intern - Summer 2027
 - Grant Thornton — AI, Data & Technology Intern - Summer 2027
 - Grant Thornton — AI, Data & Technology Intern - Summer 2027
@@ -341,6 +339,7 @@ _Generated 2026-09-05_
 - Human Computer Lab — Mechanical Engineer Intern
 - Humana — Technology Intern
 - Humana — Technology Intern - Early ID Participants
+- Hypercubic — Software Engineering Intern
 - HyperLight — Integrated Photonics Intern
 - Iberdrola Group — Technology – Cyber & Data Intern
 - iHeartMedia — Research Intern
@@ -498,7 +497,6 @@ _Generated 2026-09-05_
 - Navy Federal — Frontend Application Engineer Intern
 - Netflix — Machine Learning/AI Infrastructure Engineering Intern - AI Platform
 - Neuralink — R&D Materials Engineer Intern
-- Neuralink — Software Engineer Intern, BCI Applications
 - New York Post Holdings — Product Intern
 - NewsBreak — Growth Engineer Intern - Growth Engineering
 - Nexstar — Media Archivist Intern
@@ -749,6 +747,7 @@ _Generated 2026-09-05_
 - The Walt Disney Company — Revenue Planning & Analytics Intern - Spring 2027
 - The Walt Disney Company — Show Control Hardware Intern
 - The Walt Disney Company — Show Control Hardware Intern
+- The Walt Disney Company — Systems Application Development and Sustainment Intern
 - The Walt Disney Company — Systems Software Engineer Intern
 - The Walt Disney Company — Systems Software Engineer Intern
 - Thea Energy — Physics Intern

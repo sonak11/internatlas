@@ -1,0 +1,82 @@
+{
+  "schema_version": "1.0",
+  "id": "marvell-physical-design-engineer-intern-bs-2027",
+  "company": {
+    "name": "Marvell",
+    "slug": "marvell"
+  },
+  "role": "Physical Design Engineer Intern - BS",
+  "category": "design",
+  "apply_url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Physical-Design-Engineer-Intern--BS---Summer-2027_2604517-1",
+  "season": "summer",
+  "year": 2027,
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "Morrisville",
+      "state": "NC",
+      "country": "USA"
+    },
+    {
+      "city": "Austin",
+      "state": "TX",
+      "country": "USA"
+    },
+    {
+      "city": "Rochester",
+      "state": "MN",
+      "country": "USA"
+    },
+    {
+      "city": "Santa Clara",
+      "state": "CA",
+      "country": "USA"
+    },
+    {
+      "city": "Boise",
+      "state": "ID",
+      "country": "USA"
+    },
+    {
+      "city": "Burlington",
+      "state": "VT",
+      "country": "USA"
+    },
+    {
+      "city": "Westborough",
+      "state": "MA",
+      "country": "USA"
+    }
+  ],
+  "compensation": {
+    "currency": "USD",
+    "housing_stipend": false,
+    "relocation_assistance": false
+  },
+  "eligibility": {
+    "graduation_years": [],
+    "degree_levels": [],
+    "citizenship_required": false,
+    "security_clearance_required": false,
+    "visa_sponsorship": "unknown"
+  },
+  "interview": {},
+  "tech": {
+    "required_skills": [],
+    "preferred_skills": [],
+    "languages": [],
+    "frameworks": [],
+    "cloud_platforms": [],
+    "resume_keywords": []
+  },
+  "dates": {
+    "posted": "2026-09-04",
+    "discovered": "2026-09-05",
+    "last_verified": "2026-09-05"
+  },
+  "status": "open",
+  "tags": [
+    "auto-ingested",
+    "src:simplify"
+  ]
+}

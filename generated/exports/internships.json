@@ -1,6 +1,6 @@
 {
   "generated": "2026-09-05",
-  "count": 3704,
+  "count": 3718,
   "internships": [
     {
       "schema_version": "1.0",
@@ -155,7 +155,7 @@
         "discovered": "2026-09-05",
         "last_verified": "2026-09-05"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -15703,6 +15703,60 @@
     },
     {
       "schema_version": "1.0",
+      "id": "applied-materials-data-analyst-intern-global-technical-learning-center-2027",
+      "company": {
+        "name": "Applied Materials",
+        "slug": "applied-materials"
+      },
+      "role": "Data Analyst Intern - Global Technical Learning Center",
+      "category": "software-engineering",
+      "apply_url": "https://amat.wd1.myworkdayjobs.com/External/job/AlbanyNY/Summer-2027-Global-Technical-Learning-Center-Data-Analyst-Intern--Bachelor-s-Master-s--Albany--NY-_R2627551",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Albany",
+          "state": "NY",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-04",
+        "discovered": "2026-09-05",
+        "last_verified": "2026-09-05"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "apptronik-software-engineer-intern-ml-systems-2026",
       "company": {
         "name": "Apptronik",
@@ -25144,9 +25198,9 @@
       "dates": {
         "posted": "2026-09-01",
         "discovered": "2026-09-01",
-        "last_verified": "2026-09-04"
+        "last_verified": "2026-09-05"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -37794,9 +37848,9 @@
       "dates": {
         "posted": "2026-08-29",
         "discovered": "2026-08-29",
-        "last_verified": "2026-08-31"
+        "last_verified": "2026-09-05"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -37905,7 +37959,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-05"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -69144,7 +69198,7 @@
         "discovered": "2026-08-27",
         "last_verified": "2026-09-05"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -69247,9 +69301,9 @@
       "dates": {
         "posted": "2026-08-15",
         "discovered": "2026-08-15",
-        "last_verified": "2026-09-04"
+        "last_verified": "2026-09-05"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -69302,7 +69356,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-05"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -69355,7 +69409,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-09-05"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -69405,9 +69459,9 @@
       "dates": {
         "posted": "2026-08-15",
         "discovered": "2026-09-04",
-        "last_verified": "2026-09-04"
+        "last_verified": "2026-09-05"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -69459,7 +69513,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-05"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -69513,7 +69567,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-05"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -69564,6 +69618,57 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-05"
       },
+      "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "goldman-sachs-quantitative-strategist-intern-asset-and-wealth-management-q-2027-0ac951",
+      "company": {
+        "name": "Goldman Sachs",
+        "slug": "goldman-sachs"
+      },
+      "role": "Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats",
+      "category": "quant",
+      "apply_url": "https://higher.gs.com/roles/175421?type=students",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "London",
+          "country": "UK"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-15",
+        "discovered": "2026-09-05",
+        "last_verified": "2026-09-05"
+      },
       "status": "open",
       "tags": [
         "auto-ingested",
@@ -69579,14 +69684,15 @@
       },
       "role": "Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats",
       "category": "quant",
-      "apply_url": "https://higher.gs.com/roles/175421?type=students",
+      "apply_url": "https://higher.gs.com/roles/171549?type=students",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
       "locations": [
         {
-          "city": "London",
-          "country": "UK"
+          "city": "Salt Lake City",
+          "state": "UT",
+          "country": "USA"
         }
       ],
       "compensation": {
@@ -69615,9 +69721,9 @@
       "dates": {
         "posted": "2026-08-15",
         "discovered": "2026-09-04",
-        "last_verified": "2026-09-04"
+        "last_verified": "2026-09-05"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -69668,7 +69774,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-05"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -69683,14 +69789,14 @@
       },
       "role": "Quantitative Strategist Intern - Multiple Teams",
       "category": "quant",
-      "apply_url": "https://higher.gs.com/roles/171563?type=students",
+      "apply_url": "https://higher.gs.com/roles/175424?type=students",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
       "locations": [
         {
-          "city": "NYC",
-          "country": "USA"
+          "city": "London",
+          "country": "UK"
         }
       ],
       "compensation": {
@@ -69769,9 +69875,9 @@
       "dates": {
         "posted": "2026-08-15",
         "discovered": "2026-09-04",
-        "last_verified": "2026-09-04"
+        "last_verified": "2026-09-05"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -69820,9 +69926,9 @@
       "dates": {
         "posted": "2026-08-15",
         "discovered": "2026-09-04",
-        "last_verified": "2026-09-04"
+        "last_verified": "2026-09-05"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -69925,9 +70031,9 @@
       "dates": {
         "posted": "2026-08-15",
         "discovered": "2026-09-04",
-        "last_verified": "2026-09-04"
+        "last_verified": "2026-09-05"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -69942,14 +70048,14 @@
       },
       "role": "Summer Analyst Intern - Americas - Engineering",
       "category": "software-engineering",
-      "apply_url": "https://higher.gs.com/roles/171567?type=students",
+      "apply_url": "https://higher.gs.com/roles/171564?type=students",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
       "locations": [
         {
-          "city": "Toronto",
-          "country": "ON"
+          "city": "NYC",
+          "country": "USA"
         }
       ],
       "compensation": {
@@ -70031,7 +70137,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-05"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -70137,9 +70243,9 @@
       "dates": {
         "posted": "2026-08-15",
         "discovered": "2026-09-04",
-        "last_verified": "2026-09-04"
+        "last_verified": "2026-09-05"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -70154,13 +70260,13 @@
       },
       "role": "Summer Analyst Intern - Engineering",
       "category": "software-engineering",
-      "apply_url": "https://higher.gs.com/roles/170644?type=students",
+      "apply_url": "https://higher.gs.com/roles/170637?type=students",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
       "locations": [
         {
-          "city": "London",
+          "city": "Birmingham",
           "country": "UK"
         }
       ],
@@ -70242,9 +70348,9 @@
       "dates": {
         "posted": "2026-08-15",
         "discovered": "2026-08-15",
-        "last_verified": "2026-09-04"
+        "last_verified": "2026-09-05"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -70499,9 +70605,9 @@
       "dates": {
         "posted": "2026-08-15",
         "discovered": "2026-08-29",
-        "last_verified": "2026-09-04"
+        "last_verified": "2026-09-05"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -70552,9 +70658,9 @@
       "dates": {
         "posted": "2026-08-15",
         "discovered": "2026-08-15",
-        "last_verified": "2026-09-04"
+        "last_verified": "2026-09-05"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -78072,7 +78178,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-09-05"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -98698,6 +98804,298 @@
     },
     {
       "schema_version": "1.0",
+      "id": "marvell-design-verification-intern-bs-2027",
+      "company": {
+        "name": "Marvell",
+        "slug": "marvell"
+      },
+      "role": "Design Verification Intern - BS",
+      "category": "design",
+      "apply_url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Design-Verification-Intern--BS---Summer-2027_2604505-1",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Morrisville",
+          "state": "NC",
+          "country": "USA"
+        },
+        {
+          "city": "Austin",
+          "state": "TX",
+          "country": "USA"
+        },
+        {
+          "city": "Santa Clara",
+          "state": "CA",
+          "country": "USA"
+        },
+        {
+          "city": "Boise",
+          "state": "ID",
+          "country": "USA"
+        },
+        {
+          "city": "Westborough",
+          "state": "MA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-04",
+        "discovered": "2026-09-05",
+        "last_verified": "2026-09-05"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "marvell-design-verification-intern-bs-summer-2027-2027",
+      "company": {
+        "name": "Marvell",
+        "slug": "marvell"
+      },
+      "role": "Design Verification Intern - BS - Summer 2027",
+      "category": "design",
+      "apply_url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Design-Verification-Intern--BS---Summer-2027_2604505",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Morrisville",
+          "state": "NC",
+          "country": "USA"
+        },
+        {
+          "city": "Austin",
+          "state": "TX",
+          "country": "USA"
+        },
+        {
+          "city": "Santa Clara",
+          "state": "CA",
+          "country": "USA"
+        },
+        {
+          "city": "Boise",
+          "state": "ID",
+          "country": "USA"
+        },
+        {
+          "city": "Westborough",
+          "state": "MA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-04",
+        "discovered": "2026-09-05",
+        "last_verified": "2026-09-05"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "marvell-design-verification-intern-ms-2027-6fe312",
+      "company": {
+        "name": "Marvell",
+        "slug": "marvell"
+      },
+      "role": "Design Verification Intern - MS",
+      "category": "design",
+      "apply_url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Design-Verification-Intern--MS---Summer-2027_2604506",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Morrisville",
+          "state": "NC",
+          "country": "USA"
+        },
+        {
+          "city": "Austin",
+          "state": "TX",
+          "country": "USA"
+        },
+        {
+          "city": "Santa Clara",
+          "state": "CA",
+          "country": "USA"
+        },
+        {
+          "city": "Boise",
+          "state": "ID",
+          "country": "USA"
+        },
+        {
+          "city": "Westborough",
+          "state": "MA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-04",
+        "discovered": "2026-09-05",
+        "last_verified": "2026-09-05"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "marvell-design-verification-intern-ms-2027",
+      "company": {
+        "name": "Marvell",
+        "slug": "marvell"
+      },
+      "role": "Design Verification Intern - MS",
+      "category": "design",
+      "apply_url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Design-Verification-Intern--MS---Summer-2027_2604506-1",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Morrisville",
+          "state": "NC",
+          "country": "USA"
+        },
+        {
+          "city": "Austin",
+          "state": "TX",
+          "country": "USA"
+        },
+        {
+          "city": "Santa Clara",
+          "state": "CA",
+          "country": "USA"
+        },
+        {
+          "city": "Boise",
+          "state": "ID",
+          "country": "USA"
+        },
+        {
+          "city": "Westborough",
+          "state": "MA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-04",
+        "discovered": "2026-09-05",
+        "last_verified": "2026-09-05"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "marvell-firmware-engineer-intern-2027-d0a34b",
       "company": {
         "name": "Marvell",
@@ -99051,6 +99449,338 @@
       "dates": {
         "posted": "2026-09-04",
         "discovered": "2026-09-04",
+        "last_verified": "2026-09-05"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "marvell-physical-design-engineer-intern-bs-2027-8fa78d",
+      "company": {
+        "name": "Marvell",
+        "slug": "marvell"
+      },
+      "role": "Physical Design Engineer Intern - BS",
+      "category": "design",
+      "apply_url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Physical-Design-Engineer-Intern--BS---Summer-2027_2604517",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Morrisville",
+          "state": "NC",
+          "country": "USA"
+        },
+        {
+          "city": "Austin",
+          "state": "TX",
+          "country": "USA"
+        },
+        {
+          "city": "Rochester",
+          "state": "MN",
+          "country": "USA"
+        },
+        {
+          "city": "Santa Clara",
+          "state": "CA",
+          "country": "USA"
+        },
+        {
+          "city": "Boise",
+          "state": "ID",
+          "country": "USA"
+        },
+        {
+          "city": "Burlington",
+          "state": "VT",
+          "country": "USA"
+        },
+        {
+          "city": "Westborough",
+          "state": "MA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-04",
+        "discovered": "2026-09-05",
+        "last_verified": "2026-09-05"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "marvell-physical-design-engineer-intern-bs-2027",
+      "company": {
+        "name": "Marvell",
+        "slug": "marvell"
+      },
+      "role": "Physical Design Engineer Intern - BS",
+      "category": "design",
+      "apply_url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Physical-Design-Engineer-Intern--BS---Summer-2027_2604517-1",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Morrisville",
+          "state": "NC",
+          "country": "USA"
+        },
+        {
+          "city": "Austin",
+          "state": "TX",
+          "country": "USA"
+        },
+        {
+          "city": "Rochester",
+          "state": "MN",
+          "country": "USA"
+        },
+        {
+          "city": "Santa Clara",
+          "state": "CA",
+          "country": "USA"
+        },
+        {
+          "city": "Boise",
+          "state": "ID",
+          "country": "USA"
+        },
+        {
+          "city": "Burlington",
+          "state": "VT",
+          "country": "USA"
+        },
+        {
+          "city": "Westborough",
+          "state": "MA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-04",
+        "discovered": "2026-09-05",
+        "last_verified": "2026-09-05"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "marvell-physical-design-engineer-intern-ms-multiple-teams-2027-b4bcb8",
+      "company": {
+        "name": "Marvell",
+        "slug": "marvell"
+      },
+      "role": "Physical Design Engineer Intern - MS - Multiple Teams",
+      "category": "design",
+      "apply_url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Physical-Design-Engineer-Intern--MS---Summer-2027_2604518",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Morrisville",
+          "state": "NC",
+          "country": "USA"
+        },
+        {
+          "city": "Austin",
+          "state": "TX",
+          "country": "USA"
+        },
+        {
+          "city": "Rochester",
+          "state": "MN",
+          "country": "USA"
+        },
+        {
+          "city": "Santa Clara",
+          "state": "CA",
+          "country": "USA"
+        },
+        {
+          "city": "Boise",
+          "state": "ID",
+          "country": "USA"
+        },
+        {
+          "city": "Burlington",
+          "state": "VT",
+          "country": "USA"
+        },
+        {
+          "city": "Westborough",
+          "state": "MA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-04",
+        "discovered": "2026-09-05",
+        "last_verified": "2026-09-05"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "marvell-physical-design-engineer-intern-ms-multiple-teams-2027",
+      "company": {
+        "name": "Marvell",
+        "slug": "marvell"
+      },
+      "role": "Physical Design Engineer Intern - MS - Multiple Teams",
+      "category": "design",
+      "apply_url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Physical-Design-Engineer-Intern--MS---Summer-2027_2604518-1",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Morrisville",
+          "state": "NC",
+          "country": "USA"
+        },
+        {
+          "city": "Austin",
+          "state": "TX",
+          "country": "USA"
+        },
+        {
+          "city": "Rochester",
+          "state": "MN",
+          "country": "USA"
+        },
+        {
+          "city": "Santa Clara",
+          "state": "CA",
+          "country": "USA"
+        },
+        {
+          "city": "Boise",
+          "state": "ID",
+          "country": "USA"
+        },
+        {
+          "city": "Burlington",
+          "state": "VT",
+          "country": "USA"
+        },
+        {
+          "city": "Westborough",
+          "state": "MA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-04",
+        "discovered": "2026-09-05",
         "last_verified": "2026-09-05"
       },
       "status": "open",
@@ -112845,9 +113575,9 @@
       "dates": {
         "posted": "2025-05-30",
         "discovered": "2026-07-18",
-        "last_verified": "2026-09-03"
+        "last_verified": "2026-09-05"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:ats"
@@ -153150,6 +153880,230 @@
     },
     {
       "schema_version": "1.0",
+      "id": "solidigm-hardware-electrical-validation-and-product-engineering-inter-2027",
+      "company": {
+        "name": "Solidigm",
+        "slug": "solidigm"
+      },
+      "role": "Hardware, Electrical Validation and Product Engineering Intern - Validation",
+      "category": "hardware",
+      "apply_url": "https://jobs.smartrecruiters.com/Solidigm/744000147613779",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Rancho Cordova",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters",
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-05",
+        "discovered": "2026-09-05",
+        "last_verified": "2026-09-05"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "solidigm-hardware-product-development-engineering-intern-2027",
+      "company": {
+        "name": "Solidigm",
+        "slug": "solidigm"
+      },
+      "role": "Hardware & Product Development Engineering Intern",
+      "category": "hardware",
+      "apply_url": "https://jobs.smartrecruiters.com/Solidigm/744000147613839",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Rancho Cordova",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-05",
+        "discovered": "2026-09-05",
+        "last_verified": "2026-09-05"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "solidigm-software-development-firmware-engineering-intern-multiple-te-2027",
+      "company": {
+        "name": "Solidigm",
+        "slug": "solidigm"
+      },
+      "role": "Software Development & Firmware Engineering Intern - Multiple Teams",
+      "category": "embedded",
+      "apply_url": "https://jobs.smartrecruiters.com/Solidigm/744000147613629",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Rancho Cordova",
+          "state": "CA",
+          "country": "USA"
+        },
+        {
+          "city": "Longmont",
+          "state": "CO",
+          "country": "USA"
+        },
+        {
+          "city": "Sacramento",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-05",
+        "discovered": "2026-09-05",
+        "last_verified": "2026-09-05"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "solidigm-software-engineering-intern-firmware-ai-engineering-2027",
+      "company": {
+        "name": "Solidigm",
+        "slug": "solidigm"
+      },
+      "role": "Software Engineering Intern - Firmware & AI Engineering",
+      "category": "ai",
+      "apply_url": "https://jobs.smartrecruiters.com/Solidigm/744000147613769",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Rancho Cordova",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters",
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-05",
+        "discovered": "2026-09-05",
+        "last_verified": "2026-09-05"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "solopulse-software-engineer-intern-co-op-2026",
       "company": {
         "name": "SoloPulse",
@@ -167932,6 +168886,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "tesla-software-engineer-intern-code-hardening-framework-resilience-2027",
+      "company": {
+        "name": "Tesla",
+        "slug": "tesla"
+      },
+      "role": "Software Engineer Intern - Code Hardening & Framework Resilience - Robotaxi",
+      "category": "software-engineering",
+      "apply_url": "https://www.tesla.com/careers/search/job/282598",
+      "season": "spring",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Palo Alto",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-05",
+        "discovered": "2026-09-05",
+        "last_verified": "2026-09-05"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "tesla-software-engineer-intern-core-ai-compiler-runtime-2027",
       "company": {
         "name": "Tesla",
@@ -175554,58 +176560,6 @@
     },
     {
       "schema_version": "1.0",
-      "id": "the-walt-disney-company-software-engineer-intern-2027-e8785a",
-      "company": {
-        "name": "The Walt Disney Company",
-        "slug": "the-walt-disney-company"
-      },
-      "role": "Software Engineer Intern",
-      "category": "software-engineering",
-      "apply_url": "https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Orlando-FL-USA/Software-Engineering-Intern--Spring-2027_10158599-1",
-      "season": "spring",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Orlando",
-          "state": "FL",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-08-28",
-        "discovered": "2026-08-29",
-        "last_verified": "2026-09-05"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
       "id": "the-walt-disney-company-software-engineer-intern-2027",
       "company": {
         "name": "The Walt Disney Company",
@@ -175613,7 +176567,7 @@
       },
       "role": "Software Engineer Intern",
       "category": "software-engineering",
-      "apply_url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Orlando-FL-USA/Software-Engineering-Intern--Spring-2027_10158599",
+      "apply_url": "https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Orlando-FL-USA/Software-Engineering-Intern--Spring-2027_10158599-1",
       "season": "spring",
       "year": 2027,
       "work_mode": "onsite",
@@ -175702,7 +176656,7 @@
         "discovered": "2026-08-29",
         "last_verified": "2026-09-05"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"

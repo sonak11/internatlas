@@ -1,20 +1,30 @@
 {
   "schema_version": "1.0",
-  "id": "the-walt-disney-company-software-engineer-intern-2027-e8785a",
+  "id": "solidigm-software-development-firmware-engineering-intern-multiple-te-2027",
   "company": {
-    "name": "The Walt Disney Company",
-    "slug": "the-walt-disney-company"
+    "name": "Solidigm",
+    "slug": "solidigm"
   },
-  "role": "Software Engineer Intern",
-  "category": "software-engineering",
-  "apply_url": "https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Orlando-FL-USA/Software-Engineering-Intern--Spring-2027_10158599-1",
-  "season": "spring",
+  "role": "Software Development & Firmware Engineering Intern - Multiple Teams",
+  "category": "embedded",
+  "apply_url": "https://jobs.smartrecruiters.com/Solidigm/744000147613629",
+  "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Orlando",
-      "state": "FL",
+      "city": "Rancho Cordova",
+      "state": "CA",
+      "country": "USA"
+    },
+    {
+      "city": "Longmont",
+      "state": "CO",
+      "country": "USA"
+    },
+    {
+      "city": "Sacramento",
+      "state": "CA",
       "country": "USA"
     }
   ],
@@ -40,8 +50,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-28",
-    "discovered": "2026-08-29",
+    "posted": "2026-09-05",
+    "discovered": "2026-09-05",
     "last_verified": "2026-09-05"
   },
   "status": "open",
