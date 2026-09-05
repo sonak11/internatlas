@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 📊 Data Science Internships
 
-**108** tracked · **84** open now
+**108** tracked · **82** open now
 
 ## Current openings
 
@@ -32,9 +32,7 @@
 | [Booz Allen](generated/companies/booz-allen.md) | [Data Scientist Intern - University](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Atlanta-GA/University--2027-Summer-Games-Data-Scientist-Intern_R0248140) | Atlanta, GA | Onsite | 2026-08-28 | Rolling | 🟢 Open | ❔ |
 | [Booz Allen](generated/companies/booz-allen.md) | [Data Scientist Intern - University](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Charleston-SC/University---2027-Summer-Games-Data-Scientist-Intern_R0248137) | Charleston, SC | Onsite | 2026-08-28 | Rolling | 🟢 Open | ❔ |
 | [Booz Allen](generated/companies/booz-allen.md) | [Data Scientist Intern - University](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Annapolis-Junction-MD/University---2027-Summer-Games-Data-Scientist-Intern---Annapolis-Junction--MD_R0248408) | Annapolis Junction, MD | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
-| [Booz Allen](generated/companies/booz-allen.md) | [Data Scientist Intern - University - Summer Games](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fort-Walton-Beach-FL/University---2027-Summer-Games-Data-Scientist-Intern---Ft-Walton-Beach--FL_R0248409) | Fort Walton Beach, FL | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
 | [Booz Allen](generated/companies/booz-allen.md) | [Data Scientist Intern - University - Summer Games](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/El-Segundo-CA/University--2027-Summer-Games-Data-Scientist-Intern_R0248050) | El Segundo, CA | Onsite | 2026-08-27 | Rolling | 🟢 Open | ❔ |
-| [Boston Scientific](generated/companies/boston-scientific.md) | [Research Algorithm & Data Science Intern - Interns/Graduates](https://bostonscientific.eightfold.ai/careers/job/563602813483110) | Arden Hills, MN | Onsite | 2026-09-02 | Rolling | 🟢 Open | ❔ |
 | [C3.ai](generated/companies/c3-ai.md) | [Data Scientist Intern - Summer 2027](https://c3.ai/job-description/8738918002?gh_jid=8738918002) | Redwood City, CA | Onsite | 2026-08-31 | Rolling | 🟢 Open | ❔ |
 | [CACI](generated/companies/caci.md) | [Software Developer/Data Scientist Intern - Summer 2027](https://caci.wd1.myworkdayjobs.com/external/job/Denver-CO-US/Software-Developer-Data-Scientist-Intern---Summer-2027_331120) | Sterling, VA +2 | Onsite | 2026-08-26 | Rolling | 🟢 Open | ❔ |
 | [Capital One](generated/companies/capital-one.md) | [Data Science Intern](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Current-PhD---Data-Science-Internship---Summer-2027_R244287-1) | Cambridge, MA +7 | Onsite | 2026-07-20 | Rolling | 🟢 Open | ❔ |
@@ -95,6 +93,8 @@
 | [American Institutes for Research](generated/companies/american-institutes-for-research.md) | [Data Science Intern](https://job-boards.greenhouse.io/americaninstitutesforresearch/jobs/5404816008) | Arlington County | Onsite | 2026-08-26 | Rolling | 🔴 Closed | ❔ |
 | [Arevon](generated/companies/arevon.md) | [Data Science Intern - Interconnection & Transmission](https://job-boards.greenhouse.io/arevonenergyimpltest/jobs/5211455007) | Scottsdale, AZ | Onsite | 2026-08-14 | Rolling | 🔴 Closed | ❔ |
 | [Bank of Montreal](generated/companies/bank-of-montreal.md) | [Data Scientist Co-op/Internship - Months](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Data-Scientist--Fall-2026---Co-op-Internship----12-months_R260019879) | Toronto | Onsite | 2026-07-07 | Rolling | 🔴 Closed | ❔ |
+| [Booz Allen](generated/companies/booz-allen.md) | [Data Scientist Intern - University - Summer Games](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fort-Walton-Beach-FL/University---2027-Summer-Games-Data-Scientist-Intern---Ft-Walton-Beach--FL_R0248409) | Fort Walton Beach, FL | Onsite | 2026-09-01 | Rolling | 🔴 Closed | ❔ |
+| [Boston Scientific](generated/companies/boston-scientific.md) | [Research Algorithm & Data Science Intern - Interns/Graduates](https://bostonscientific.eightfold.ai/careers/job/563602813483110) | Arden Hills, MN | Onsite | 2026-09-02 | Rolling | 🔴 Closed | ❔ |
 | [Boston Scientific](generated/companies/boston-scientific.md) | [Research Data Science Intern - Active Implantable Systems](https://bostonscientific.eightfold.ai/careers/job/563602813483103) | Arden Hills, MN | Onsite | 2026-09-02 | Rolling | 🔴 Closed | ❔ |
 | [CCC Intelligent Solutions](generated/companies/ccc-intelligent-solutions.md) | [Data Science Engineer Intern](https://cccis.wd1.myworkdayjobs.com/broadbean_external/job/Chicago-Green-St-IL/Data-Science-Engineer-Internship_0014843) | Chicago, IL | Onsite | 2026-08-12 | Rolling | 🔴 Closed | ❔ |
 | [CCC Intelligent Solutions](generated/companies/ccc-intelligent-solutions.md) | [Data Science Intern - R&D](https://cccis.wd1.myworkdayjobs.com/broadbean_external/job/Chicago-Green-St-IL/R-D---Data-Science-Internship-Fall-2026_0014841) | Chicago, IL | Onsite | 2026-08-11 | Rolling | 🔴 Closed | ❔ |
@@ -127,7 +127,6 @@
 - Mastercard (3)
 - Royal Bank of Canada (3)
 - Bank of Montreal (2)
-- Boston Scientific (2)
 - Capital One (2)
 - DraftKings (2)
 - Edison International (2)
@@ -138,6 +137,7 @@
 - The Walt Disney Company (2)
 - TWG Global (2)
 - Vanguard (2)
+- Boston Scientific (2)
 - CCC Intelligent Solutions (2)
 - AARP (1)
 - AlixPartners (1)

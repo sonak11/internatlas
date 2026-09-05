@@ -1,6 +1,6 @@
 {
   "generated": "2026-09-05",
-  "count": 3718,
+  "count": 3717,
   "internships": [
     {
       "schema_version": "1.0",
@@ -25668,7 +25668,7 @@
         "discovered": "2026-09-01",
         "last_verified": "2026-09-05"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -26084,7 +26084,7 @@
         "discovered": "2026-09-01",
         "last_verified": "2026-09-05"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -28095,7 +28095,7 @@
         "discovered": "2026-09-02",
         "last_verified": "2026-09-05"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -69626,7 +69626,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "goldman-sachs-quantitative-strategist-intern-asset-and-wealth-management-q-2027-0ac951",
+      "id": "goldman-sachs-quantitative-strategist-intern-asset-and-wealth-management-q-2027",
       "company": {
         "name": "Goldman Sachs",
         "slug": "goldman-sachs"
@@ -69641,58 +69641,6 @@
         {
           "city": "London",
           "country": "UK"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-08-15",
-        "discovered": "2026-09-05",
-        "last_verified": "2026-09-05"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "goldman-sachs-quantitative-strategist-intern-asset-and-wealth-management-q-2027",
-      "company": {
-        "name": "Goldman Sachs",
-        "slug": "goldman-sachs"
-      },
-      "role": "Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats",
-      "category": "quant",
-      "apply_url": "https://higher.gs.com/roles/171549?type=students",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Salt Lake City",
-          "state": "UT",
-          "country": "USA"
         }
       ],
       "compensation": {
@@ -70033,7 +69981,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-05"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -70084,7 +70032,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-05"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -70245,7 +70193,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-05"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -70350,7 +70298,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-09-05"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -70660,7 +70608,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-09-05"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -100216,7 +100164,7 @@
         "discovered": "2026-08-24",
         "last_verified": "2026-09-05"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -144510,7 +144458,7 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-09-05"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -149806,7 +149754,7 @@
         "discovered": "2026-08-14",
         "last_verified": "2026-09-05"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -176604,7 +176552,7 @@
         "discovered": "2026-08-29",
         "last_verified": "2026-09-05"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -176708,7 +176656,7 @@
         "discovered": "2026-08-29",
         "last_verified": "2026-09-05"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"

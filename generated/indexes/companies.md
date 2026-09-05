@@ -137,11 +137,11 @@
 | [BlueCross BlueShield of Nebraska](../companies/bluecross-blueshield-of-nebraska.md) | 2/2 | data-science, software-engineering |
 | [Boeing](../companies/boeing.md) | 1/1 | software-engineering |
 | [Boom Supersonic](../companies/boom-supersonic.md) | 0/1 | software-engineering |
-| [Booz Allen](../companies/booz-allen.md) | 35/38 | ai, data-science, hardware, software-engineering |
+| [Booz Allen](../companies/booz-allen.md) | 33/38 | ai, data-science, hardware, software-engineering |
 | [BorgWarner](../companies/borgwarner.md) | 2/2 | software-engineering |
 | [Bosch](../companies/bosch.md) | 2/2 | ai |
 | [Bosch Home Comfort](../companies/bosch-home-comfort.md) | 5/16 | ai, product, research, software-engineering |
-| [Boston Scientific](../companies/boston-scientific.md) | 1/3 | data-science, hardware |
+| [Boston Scientific](../companies/boston-scientific.md) | 0/3 | data-science, hardware |
 | [Bot Auto](../companies/bot-auto.md) | 1/1 | machine-learning |
 | [Brave](../companies/brave.md) | 1/1 | software-engineering |
 | [Brex](../companies/brex.md) | 0/1 | software-engineering |
@@ -386,7 +386,7 @@
 | [GlossGenius](../companies/glossgenius.md) | 0/2 | software-engineering |
 | [GoDaddy](../companies/godaddy.md) | 0/1 | software-engineering |
 | [Golden Pet Brands](../companies/golden-pet-brands.md) | 0/1 | software-engineering |
-| [Goldman Sachs](../companies/goldman-sachs.md) | 14/29 | product, quant, software-engineering |
+| [Goldman Sachs](../companies/goldman-sachs.md) | 8/28 | product, quant, software-engineering |
 | [Google](../companies/google.md) | 8/12 | data-science, research, software-engineering |
 | [Grant Thornton](../companies/grant-thornton.md) | 0/6 | ai, software-engineering |
 | [Grass Valley](../companies/grass-valley.md) | 1/1 | software-engineering |
@@ -536,7 +536,7 @@
 | [Marshall Wace](../companies/marshall-wace.md) | 3/3 | quant, software-engineering |
 | [Marvell](../companies/marvell.md) | 28/29 | design, embedded, hardware, software-engineering |
 | [Mary Free Bed Rehabilitation Hospital](../companies/mary-free-bed-rehabilitation-hospital.md) | 1/1 | software-engineering |
-| [Mastercard](../companies/mastercard.md) | 6/6 | data-engineering, data-science, product, software-engineering |
+| [Mastercard](../companies/mastercard.md) | 5/6 | data-engineering, data-science, product, software-engineering |
 | [Mathtech](../companies/mathtech.md) | 1/1 | software-engineering |
 | [Maven Securities](../companies/maven-securities.md) | 3/4 | quant, software-engineering |
 | [MaxLinear](../companies/maxlinear.md) | 0/1 | ai |
@@ -718,7 +718,7 @@
 | [ROUSH](../companies/roush.md) | 0/1 | software-engineering |
 | [RRS Group](../companies/rrs-group.md) | 0/2 | software-engineering |
 | [RSM](../companies/rsm.md) | 1/3 | software-engineering |
-| [RTX](../companies/rtx.md) | 29/93 | ai, data-science, design, machine-learning, software-engineering |
+| [RTX](../companies/rtx.md) | 28/93 | ai, data-science, design, machine-learning, software-engineering |
 | [Radix Trading](../companies/radix-trading.md) | 1/1 | quant |
 | [Ragle Inc](../companies/ragle-inc.md) | 2/2 | data-engineering, software-engineering |
 | [Rainmaker](../companies/rainmaker.md) | 0/1 | software-engineering |
@@ -780,7 +780,7 @@
 | [Schonfeld](../companies/schonfeld.md) | 9/9 | data-science, quant, software-engineering |
 | [SchoolMint](../companies/schoolmint.md) | 0/1 | software-engineering |
 | [Schroders](../companies/schroders.md) | 3/3 | quant, software-engineering |
-| [Schweitzer Engineering Laboratories](../companies/schweitzer-engineering-laboratories.md) | 2/7 | ai, software-engineering |
+| [Schweitzer Engineering Laboratories](../companies/schweitzer-engineering-laboratories.md) | 1/7 | ai, software-engineering |
 | [SciTec](../companies/scitec.md) | 0/1 | software-engineering |
 | [Seaspan](../companies/seaspan.md) | 0/2 | software-engineering |
 | [Sensata](../companies/sensata.md) | 1/1 | software-engineering |
@@ -887,7 +887,7 @@
 | [The Nuclear Company](../companies/the-nuclear-company.md) | 9/10 | ai, data-science, machine-learning, software-engineering |
 | [The Trade Desk](../companies/the-trade-desk.md) | 0/1 | software-engineering |
 | [The Voleon Group](../companies/the-voleon-group.md) | 1/1 | software-engineering |
-| [The Walt Disney Company](../companies/the-walt-disney-company.md) | 16/31 | data-science, hardware, software-engineering |
+| [The Walt Disney Company](../companies/the-walt-disney-company.md) | 14/31 | data-science, hardware, software-engineering |
 | [Thea Energy](../companies/thea-energy.md) | 0/1 | software-engineering |
 | [Thomson Reuters](../companies/thomson-reuters.md) | 2/2 | machine-learning, research |
 | [TikTok](../companies/tiktok.md) | 154/166 | ai, cloud, data-engineering, data-science, machine-learning, product, research, software-engineering |

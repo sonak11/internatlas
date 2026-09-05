@@ -22,9 +22,9 @@ _Generated 2026-09-05_
 | Cloudflare | 33 |
 | NVIDIA | 33 |
 | The Walt Disney Company | 31 |
-| Goldman Sachs | 29 |
 | Marvell | 29 |
 | Zipline | 29 |
+| Goldman Sachs | 28 |
 | Shure | 28 |
 | IMC Trading | 26 |
 | SpaceX | 25 |
@@ -35,7 +35,7 @@ _Generated 2026-09-05_
 |---|---|---|
 | software-engineering | 2159 | `███████████████` |
 | ai | 305 | `██` |
-| quant | 263 | `██` |
+| quant | 262 | `██` |
 | machine-learning | 173 | `█` |
 | hardware | 146 | `█` |
 | research | 133 | `█` |
@@ -125,6 +125,8 @@ _Generated 2026-09-05_
 - Boom Supersonic — Engineering and Tech Intern
 - Booz Allen — AI RAN Telecommunications Engineer Intern
 - Booz Allen — AI RAN Telecommunications Engineer Intern
+- Booz Allen — Data Scientist Intern - University - Summer Games
+- Booz Allen — Software Developer Intern - University
 - Booz Allen — Software Engineer Intern
 - Bosch Home Comfort — A.1. Integration Intern
 - Bosch Home Comfort — AI Security Research Intern
@@ -133,6 +135,7 @@ _Generated 2026-09-05_
 - Bosch Home Comfort — Software Engineer Intern - 8 months/40hrs per week
 - Bosch Home Comfort — Vehicle Motion Intern
 - Boston Scientific — R&D Hardware Engineer Intern - Interns/Graduates
+- Boston Scientific — Research Algorithm & Data Science Intern - Interns/Graduates
 - Boston Scientific — Research Data Science Intern - Active Implantable Systems
 - BP — Commercial Intern - Supply, Trading, & Shipping
 - BP — Corporate Asset Development Engineer Intern
@@ -305,12 +308,17 @@ _Generated 2026-09-05_
 - Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
 - Goldman Sachs — Quantitative Strategist Intern - Investment Banking
 - Goldman Sachs — Summer Analyst Intern - Americas - AWM Product Management
+- Goldman Sachs — Summer Analyst Intern - Americas - Engineering
+- Goldman Sachs — Summer Analyst Intern - Americas - Engineering
 - Goldman Sachs — Summer Analyst Intern - Americas - Investment Banking Quantitative Strats
 - Goldman Sachs — Summer Analyst Intern - Engineering
+- Goldman Sachs — Summer Analyst Intern - Engineering
+- Goldman Sachs — Summer Analyst Intern - FICC and Equities - Sales and Trading
 - Goldman Sachs — Summer Analyst Intern - FICC & Equities - Sales & Trading
 - Goldman Sachs — Summer Analyst Intern - The Core Quantitative Strats
 - Goldman Sachs — Summer Analyst Intern - Wealth Management - Product Management and Design
 - Goldman Sachs — Summer Analyst Intern - Wealth Management - Quantitative Finance
+- Goldman Sachs — Summer Associate Intern - Multiple Teams
 - Grant Thornton — AI, Data & Technology Intern - Summer 2027
 - Grant Thornton — AI, Data & Technology Intern - Summer 2027
 - Grant Thornton — AI, Data & Technology Intern - Summer 2027
@@ -447,6 +455,7 @@ _Generated 2026-09-05_
 - Marmon Holdings — Digital Production Engineer Intern Co-op
 - Marmon Holdings — Digital Production Engineering Intern OR Student Co-Op
 - Marsh — Summer Analyst Intern - Data and Analytics
+- Mastercard — Software Engineer Intern
 - Maven Securities — Trader Intern
 - McKesson — AI & Strategic Analytics Intern
 - McKesson — Associate Business Systems Analyst Intern - Data Hub Canada
@@ -633,6 +642,7 @@ _Generated 2026-09-05_
 - RTX — Software Engineer Intern
 - RTX — Software Engineer Intern
 - RTX — Software Engineer Intern
+- RTX — Software Engineer Intern
 - RTX — Software Engineer Intern - Intelligent Software & Systems
 - RTX — Software Engineer Intern - Summer 2027
 - RTX — Software Engineer Intern - Summer 2027
@@ -651,6 +661,7 @@ _Generated 2026-09-05_
 - Schweitzer Engineering Laboratories — Application Engineering Intern
 - Schweitzer Engineering Laboratories — Engineering Intern
 - Schweitzer Engineering Laboratories — Software Engineer Intern - AI Focus
+- Schweitzer Engineering Laboratories — Test Engineer Intern
 - SciTec — Intern - Multiple Teams
 - Skydio — Product Management Intern
 - Smiths Detection Group — Commercial Intern - Commercial Tools & Business Intelligence
@@ -747,6 +758,8 @@ _Generated 2026-09-05_
 - The Walt Disney Company — Revenue Planning & Analytics Intern - Spring 2027
 - The Walt Disney Company — Show Control Hardware Intern
 - The Walt Disney Company — Show Control Hardware Intern
+- The Walt Disney Company — Software Engineer Intern
+- The Walt Disney Company — Systems Application Development and Sustainment Intern
 - The Walt Disney Company — Systems Application Development and Sustainment Intern
 - The Walt Disney Company — Systems Software Engineer Intern
 - The Walt Disney Company — Systems Software Engineer Intern
