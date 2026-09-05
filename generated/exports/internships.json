@@ -1,6 +1,6 @@
 {
   "generated": "2026-09-05",
-  "count": 3721,
+  "count": 3722,
   "internships": [
     {
       "schema_version": "1.0",
@@ -69303,7 +69303,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-09-05"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -69461,7 +69461,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-05"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -69567,7 +69567,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-05"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -69618,7 +69618,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-05"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -69671,7 +69671,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-05"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -69722,7 +69722,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-05"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -69773,7 +69773,7 @@
         "discovered": "2026-09-05",
         "last_verified": "2026-09-05"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -69824,7 +69824,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-09-05"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -69876,7 +69876,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-05"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -69927,7 +69927,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-05"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -70031,7 +70031,7 @@
         "discovered": "2026-09-05",
         "last_verified": "2026-09-05"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -70083,7 +70083,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-05"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -70134,7 +70134,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-05"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -70187,7 +70187,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-05"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -70238,7 +70238,7 @@
         "discovered": "2026-09-05",
         "last_verified": "2026-09-05"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -70346,7 +70346,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-05"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -70397,7 +70397,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-05"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -70708,7 +70708,7 @@
         "discovered": "2026-08-29",
         "last_verified": "2026-09-05"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -70761,7 +70761,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-09-05"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -98156,6 +98156,85 @@
       "dates": {
         "posted": "2026-07-07",
         "discovered": "2026-07-17",
+        "last_verified": "2026-09-05"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "marvell-advanced-packaging-intern-2027",
+      "company": {
+        "name": "Marvell",
+        "slug": "marvell"
+      },
+      "role": "Advanced Packaging Intern",
+      "category": "software-engineering",
+      "apply_url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Advanced-Packaging-Intern--MS---Summer-2027_2604519-1",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Austin",
+          "state": "TX",
+          "country": "USA"
+        },
+        {
+          "city": "Santa Clara",
+          "state": "CA",
+          "country": "USA"
+        },
+        {
+          "city": "Westlake Village",
+          "state": "CA",
+          "country": "USA"
+        },
+        {
+          "city": "Burlington",
+          "state": "VT",
+          "country": "USA"
+        },
+        {
+          "city": "Chandler",
+          "state": "AZ",
+          "country": "USA"
+        },
+        {
+          "city": "Westborough",
+          "state": "MA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-05",
+        "discovered": "2026-09-05",
         "last_verified": "2026-09-05"
       },
       "status": "open",
