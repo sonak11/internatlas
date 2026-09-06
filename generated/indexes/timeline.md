@@ -8,6 +8,7 @@
 ## Rolling deadlines
 
 - 1X — [AI Residency Intern](https://jobs.ashbyhq.com/1x/5b2b4c73-13b5-46ca-8467-8024741a4b57/application)
+- AArete — [Business Analytics Intern - Summer 2027](https://jobs.jobvite.com/aarete/job/oBXLAfwD?nl=1&nl=1&fr=false)
 - AARP — [Data Science and Advanced Analytics Intern](https://careers.aarp.org/jobs/7437?icims=1)
 - ABB — [Physical AI Robotics Simulation Intern](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Milpitas-California-USA/Physical-AI-Robotics-Simulation-Intern--Fall-2026_JR00044848-1)
 - AbbVie — [Business Technology Solutions Intern - Data & Software Engineering](https://jobs.smartrecruiters.com/AbbVie/3743990014860306)

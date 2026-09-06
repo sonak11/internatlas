@@ -6,7 +6,7 @@
 |---|---|---|
 | [1X](../companies/1x.md) | 1/2 | ai, software-engineering |
 | [AARP](../companies/aarp.md) | 1/1 | data-science |
-| [AArete](../companies/aarete.md) | 0/1 | software-engineering |
+| [AArete](../companies/aarete.md) | 1/1 | software-engineering |
 | [ABB](../companies/abb.md) | 1/2 | ai, software-engineering |
 | [ABC News](../companies/abc-news.md) | 0/1 | product |
 | [ACLU Kentucky](../companies/aclu-kentucky.md) | 0/1 | software-engineering |

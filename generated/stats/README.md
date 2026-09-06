@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 📊 Statistics
 
-_Generated 2026-09-05_
+_Generated 2026-09-06_
 
 ## Top hiring companies
 
@@ -73,7 +73,6 @@ _Generated 2026-09-05_
 ## Recently closed
 
 - 1X — CNC Machine Park Intern
-- AArete — Business Analytics Intern - Summer 2027
 - Abridge — Software Engineer Intern
 - Advanced Robotics for Manufacturing — Mechanical Engineer Co-op Intern
 - Air Products — Information Technology/Digital Technology Intern - Infrastructure Services
@@ -164,7 +163,6 @@ _Generated 2026-09-05_
 - ByteDance — Software Engineer Intern - Traffic Infrastructure
 - CACI — GMU Scholar Program Intern
 - Caddi Workflow Automation — Software Engineer Intern
-- CALSTART — Web Development Intern
 - CALSTART — Zero-Emission Data & Research Intern
 - Canva — PhD Research Scientist Intern - Edge AI
 - Canva — PhD Research Scientist Intern - Reinforcement Learning for Diffusion Modelling
@@ -235,7 +233,6 @@ _Generated 2026-09-05_
 - Deutsche Bank — Quantitative Analyst Intern - GSA
 - Diamondback Energy — Geoscience Intern
 - Dimensional Fund Advisors — Global Client Group Operations Insights Intern - Undergraduate & Master's
-- Dmg Media — Editorial Innovation Intern - Innovation Team
 - DraftKings — Data Science Intern - Summer 2027
 - DTCC — Product Management Intern - 2027 Internship Program
 - Duracell — Electronics Tech Intern
@@ -336,7 +333,6 @@ _Generated 2026-09-05_
 - Grant Thornton — AI, Data & Technology Intern - Summer 2027
 - Grant Thornton — Tax Technology Intern - Summer 2027
 - Grant Thornton — Tax Technology Intern - Summer 2027
-- Gulf Management — Software Engineer & Business Systems Intern
 - Gulfstream — Human Factors Engineer Intern - SE&I
 - H3X Technologies — Electromagnetics Engineering Intern - Spring
 - Heidelberg Materials — Master Data Intern - Service & Support
@@ -494,7 +490,6 @@ _Generated 2026-09-05_
 - Montenson — Investment Analyst Intern
 - Montenson — Sustainability Engineer Intern
 - Montenson — System Administrator Intern
-- Moog — Computer Science Intern - Information Technology
 - Moog — Hardware Engineer Intern
 - Motorola — Supply Chain Data Analyst Intern
 - Motorola — Wireless Systems Engineer Intern - Wireless Systems
@@ -545,7 +540,6 @@ _Generated 2026-09-05_
 - Ontario Teachers' Pension Plan — Finance Intern - Risk Analytics
 - Ontario Teachers' Pension Plan — Investments Intern
 - Ontario Teachers' Pension Plan — Investments Intern - Total Fund Management - Global Trading
-- Ontario Teachers' Pension Plan — Risk Intern - Total Fund Risk
 - Open Road Integrated Media — Marketing Analytics Intern - Paid
 - Oppenheimer & Co. Inc. — Equities Sales & Trading Intern - Business Segments and Corporate Infrastructure
 - OpusClip — AI Research Intern
@@ -609,8 +603,6 @@ _Generated 2026-09-05_
 - RFCUNY — IT & Data Systems Intern - Archibus & Applications Development
 - Rivian — FPGA Design Intern - FPGA Design
 - Rivian — Machine Learning Compiler Intern - Machine Learning Compiler
-- Rivian and Volkswagen Group Technologies — Android Developer Intern
-- Rivian and Volkswagen Group Technologies — Software Engineer Intern - Vehicle Controls
 - Robert Bosch Venture Capital — Chemical Engineering Intern - Proton Exchange Membrane Water Electrolysis
 - Robinhood — Market Research Strategy Intern (Summer 2027)
 - Rockefeller Capital Management — Private Advisor Team Intern
@@ -632,7 +624,6 @@ _Generated 2026-09-05_
 - RSM — Enterprise Data Integration and Migration Intern
 - RTX — Automation Solutions Developer Intern
 - RTX — Business Systems and Transformation Intern - Analyst Business Systems and Transformation
-- RTX — Chemistry Materials Engineer Intern
 - RTX — Conversion Systems Engineer 1 Intern
 - RTX — Data Science and Advanced Analytics Intern - Data Science and Advanced Analytics
 - RTX — Digital Technology Intern
@@ -656,7 +647,6 @@ _Generated 2026-09-05_
 - RTX — Software Engineer Intern
 - RTX — Software Engineer Intern
 - RTX — Software Engineer Intern - Intelligent Software & Systems
-- RTX — Software Engineer Intern - Summer 2027
 - RTX — Software Engineer Intern - Summer 2027
 - RTX — Software Engineer Intern - Summer 2027
 - RTX — Software Engineer Intern - Summer 2027
@@ -754,7 +744,6 @@ _Generated 2026-09-05_
 - The Federal Reserve System — Graduate Intern - Markets Group - New York Innovation Center
 - The Federal Reserve System — Research Intern - Research Group
 - The Federal Reserve System — Technical Intern - Federal Reserve - National IT
-- The Home Depot — Co-op Intern
 - The Hub Project — Polling and Outreach Intern
 - The Nuclear Company — AI Software Engineer Intern
 - The Trade Desk — Software Engineering Intern
@@ -787,7 +776,6 @@ _Generated 2026-09-05_
 - TikTok — Software Engineer Intern - ML Infra
 - TMEIC Corporation Americas — Engineer Intern - Spring 2027
 - Toast — Engineer Intern
-- Toshiba Global Commerce — AI Software Engineer Intern
 - Travelers — Engineering Development Intern
 - Trend Micro — Malware Research Intern
 - Trillium — Equity Trader Intern
