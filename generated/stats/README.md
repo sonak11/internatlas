@@ -319,8 +319,12 @@ _Generated 2026-09-06_
 - Goldman Sachs — Summer Analyst Intern - Americas - Investment Banking Quantitative Strats
 - Goldman Sachs — Summer Analyst Intern - Engineering
 - Goldman Sachs — Summer Analyst Intern - Engineering
+- Goldman Sachs — Summer Analyst Intern - Engineering
+- Goldman Sachs — Summer Analyst Intern - FICC and Equities - Sales and Trading
 - Goldman Sachs — Summer Analyst Intern - FICC & Equities - Sales & Trading
+- Goldman Sachs — Summer Analyst Intern - The Core Quantitative Strats
 - Goldman Sachs — Summer Analyst Intern - Wealth Management - Product Management and Design
+- Goldman Sachs — Summer Analyst Intern - Wealth Management - Quantitative Finance
 - Goldman Sachs — Summer Associate Intern
 - Goldman Sachs — Summer Associate Intern - Multiple Teams
 - Grant Thornton — AI, Data & Technology Intern - Summer 2027
@@ -457,6 +461,7 @@ _Generated 2026-09-06_
 - Magna — R&D-Computer Vision Engineer Intern
 - Marmon Holdings — Digital Production Engineer Intern Co-op
 - Marmon Holdings — Digital Production Engineering Intern OR Student Co-Op
+- Marsh — Government Health Consulting Informatics Intern - College Program
 - Marsh — Summer Analyst Intern - Data and Analytics
 - Mastercard — Software Engineer Intern
 - Maven Securities — Trader Intern
@@ -748,6 +753,7 @@ _Generated 2026-09-06_
 - The Walt Disney Company — Geographic Information Systems Intern - GIS
 - The Walt Disney Company — Insights and Analytics Intern - ABC News
 - The Walt Disney Company — Insights and Analytics Intern - Spring 2027
+- The Walt Disney Company — Labor Systems Data Analytics & Integration Intern - Spring 2027
 - The Walt Disney Company — Menu Planning Intern - Spring 2027
 - The Walt Disney Company — Pricing & Product Development Intern
 - The Walt Disney Company — Project Controls Planning Intern - Spring 2027
