@@ -155,7 +155,7 @@
         "discovered": "2026-09-05",
         "last_verified": "2026-09-06"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -69198,7 +69198,7 @@
         "discovered": "2026-08-27",
         "last_verified": "2026-09-06"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -69303,7 +69303,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-09-06"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -69356,7 +69356,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-06"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -69409,7 +69409,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-09-06"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -69461,7 +69461,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-06"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -69513,7 +69513,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-06"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -69567,7 +69567,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-06"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -69618,7 +69618,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-06"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -69669,7 +69669,7 @@
         "discovered": "2026-09-06",
         "last_verified": "2026-09-06"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -69723,7 +69723,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-06"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -69774,7 +69774,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-06"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -69825,7 +69825,7 @@
         "discovered": "2026-09-05",
         "last_verified": "2026-09-06"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -69876,7 +69876,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-09-06"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -69928,7 +69928,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-06"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -69979,7 +69979,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-06"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -70083,7 +70083,7 @@
         "discovered": "2026-09-05",
         "last_verified": "2026-09-06"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -70135,7 +70135,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-06"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -70186,7 +70186,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-06"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -70239,7 +70239,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-06"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -70289,60 +70289,6 @@
         "posted": "2026-08-15",
         "discovered": "2026-09-05",
         "last_verified": "2026-09-06"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "goldman-sachs-summer-analyst-intern-engineering-2027-3e3ccf",
-      "company": {
-        "name": "Goldman Sachs",
-        "slug": "goldman-sachs"
-      },
-      "role": "Summer Analyst Intern - Engineering",
-      "category": "software-engineering",
-      "apply_url": "https://higher.gs.com/roles/177808?type=students",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Seattle",
-          "state": "WA",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [
-          "masters"
-        ],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-08-15",
-        "discovered": "2026-09-04",
-        "last_verified": "2026-09-04"
       },
       "status": "closed",
       "tags": [
@@ -70398,7 +70344,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-06"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -70413,14 +70359,15 @@
       },
       "role": "Summer Analyst Intern - Engineering",
       "category": "software-engineering",
-      "apply_url": "https://higher.gs.com/roles/170637?type=students",
+      "apply_url": "https://higher.gs.com/roles/177808?type=students",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
       "locations": [
         {
-          "city": "Birmingham",
-          "country": "UK"
+          "city": "Seattle",
+          "state": "WA",
+          "country": "USA"
         }
       ],
       "compensation": {
@@ -70430,7 +70377,9 @@
       },
       "eligibility": {
         "graduation_years": [],
-        "degree_levels": [],
+        "degree_levels": [
+          "masters"
+        ],
         "citizenship_required": false,
         "security_clearance_required": false,
         "visa_sponsorship": "unknown"
@@ -70501,9 +70450,9 @@
       "dates": {
         "posted": "2026-08-15",
         "discovered": "2026-08-15",
-        "last_verified": "2026-09-05"
+        "last_verified": "2026-09-06"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -70603,9 +70552,9 @@
       "dates": {
         "posted": "2026-08-15",
         "discovered": "2026-09-04",
-        "last_verified": "2026-09-04"
+        "last_verified": "2026-09-06"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -70705,9 +70654,9 @@
       "dates": {
         "posted": "2026-08-15",
         "discovered": "2026-09-04",
-        "last_verified": "2026-09-04"
+        "last_verified": "2026-09-06"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -70760,7 +70709,7 @@
         "discovered": "2026-08-29",
         "last_verified": "2026-09-06"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -70813,7 +70762,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-09-06"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -98208,6 +98157,85 @@
       "dates": {
         "posted": "2026-07-07",
         "discovered": "2026-07-17",
+        "last_verified": "2026-09-06"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "marvell-advanced-packaging-intern-2027-590867",
+      "company": {
+        "name": "Marvell",
+        "slug": "marvell"
+      },
+      "role": "Advanced Packaging Intern",
+      "category": "software-engineering",
+      "apply_url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Advanced-Packaging-Intern--MS---Summer-2027_2604519",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Austin",
+          "state": "TX",
+          "country": "USA"
+        },
+        {
+          "city": "Santa Clara",
+          "state": "CA",
+          "country": "USA"
+        },
+        {
+          "city": "Westlake Village",
+          "state": "CA",
+          "country": "USA"
+        },
+        {
+          "city": "Burlington",
+          "state": "VT",
+          "country": "USA"
+        },
+        {
+          "city": "Chandler",
+          "state": "AZ",
+          "country": "USA"
+        },
+        {
+          "city": "Westborough",
+          "state": "MA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-05",
+        "discovered": "2026-09-06",
         "last_verified": "2026-09-06"
       },
       "status": "open",
@@ -176660,7 +176688,7 @@
         "discovered": "2026-09-01",
         "last_verified": "2026-09-06"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"

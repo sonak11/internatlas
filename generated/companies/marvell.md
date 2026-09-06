@@ -6,6 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
+| Marvell | [Advanced Packaging Intern](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Advanced-Packaging-Intern--MS---Summer-2027_2604519) | Austin, TX +5 | Onsite | 2026-09-05 | Rolling | 🟢 Open | ❔ |
 | Marvell | [Advanced Packaging Intern](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Advanced-Packaging-Intern--MS---Summer-2027_2604519-1) | Austin, TX +5 | Onsite | 2026-09-05 | Rolling | 🟢 Open | ❔ |
 | Marvell | [Analog Design Intern](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Westlake-Village-CA/Analog-Design-Intern---Master-s-Degree--Quarter-Schools---Fall-2026-Start-Dates-_2502475) | Westlake Village, CA | Onsite | 2026-07-04 | Rolling | 🟢 Open | ❔ |
 | Marvell | [Analog Design Intern](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Westlake-Village-CA/Analog-Design-Intern---Master-s-Degree--Quarter-Schools---Fall-2026-Start-Dates-_2502475-1) | Westlake Village, CA | Onsite | 2026-06-13 | Rolling | 🟢 Open | ❔ |

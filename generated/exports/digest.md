@@ -1,6 +1,6 @@
 # 📬 InternAtlas Weekly Digest — 2026-09-06
 
-## 🆕 New this week (838)
+## 🆕 New this week (839)
 
 - **AArete** — [Business Analytics Intern - Summer 2027](https://jobs.jobvite.com/aarete/job/oBXLAfwD?nl=1&nl=1&fr=false) · software-engineering · —
 - **AIG** — [Summer Intern - Data Office](https://aig.wd1.myworkdayjobs.com/en-US/early_careers/job/GA-Atlanta/XMLNAME-2027-Early-Careers--Summer-Intern--Data-Office---United-States--Atlanta--GA--Charlotte--NC--Parsippany--NJ--Jersey-City--NJ---New-York--NY_JR2603655) · software-engineering · —
@@ -392,6 +392,7 @@
 - **Manulife Financial** — [Software Engineering Intern](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/Summer-Intern-2027---Software-Engineering_JR26081684) · software-engineering · —
 - **Marmon Holdings** — [AI Intern](https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Sauget-IL/AI-Intern_JR0000045510) · ai · —
 - **Marshall Wace** — [Quantitative Research Intern](https://job-boards.greenhouse.io/mwinternshipprogram/jobs/8772688002) · quant · —
+- **Marvell** — [Advanced Packaging Intern](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Advanced-Packaging-Intern--MS---Summer-2027_2604519) · software-engineering · —
 - **Marvell** — [Advanced Packaging Intern](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Advanced-Packaging-Intern--MS---Summer-2027_2604519-1) · software-engineering · —
 - **Marvell** — [Analog Design Intern](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Analog-Design-Intern--MS---Summer-2027_2604510) · design · —
 - **Marvell** — [Analog Design Intern - MS](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Analog-Design-Intern--MS---Summer-2027_2604510-1) · design · —
