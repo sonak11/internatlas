@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "goldman-sachs-quantitative-strategist-intern-asset-and-wealth-management-q-2027",
+  "id": "goldman-sachs-summer-analyst-intern-engineering-2027-3e3ccf",
   "company": {
     "name": "Goldman Sachs",
     "slug": "goldman-sachs"
   },
-  "role": "Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats",
-  "category": "quant",
-  "apply_url": "https://higher.gs.com/roles/171549?type=students",
+  "role": "Summer Analyst Intern - Engineering",
+  "category": "software-engineering",
+  "apply_url": "https://higher.gs.com/roles/177808?type=students",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Salt Lake City",
-      "state": "UT",
+      "city": "Seattle",
+      "state": "WA",
       "country": "USA"
     }
   ],
@@ -43,7 +43,7 @@
   },
   "dates": {
     "posted": "2026-08-15",
-    "discovered": "2026-09-04",
+    "discovered": "2026-09-06",
     "last_verified": "2026-09-06"
   },
   "status": "open",

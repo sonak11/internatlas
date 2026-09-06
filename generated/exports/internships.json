@@ -1,6 +1,6 @@
 {
   "generated": "2026-09-06",
-  "count": 3723,
+  "count": 3724,
   "internships": [
     {
       "schema_version": "1.0",
@@ -69198,7 +69198,7 @@
         "discovered": "2026-08-27",
         "last_verified": "2026-09-06"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -69248,9 +69248,9 @@
       "dates": {
         "posted": "2026-08-19",
         "discovered": "2026-08-20",
-        "last_verified": "2026-09-04"
+        "last_verified": "2026-09-06"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -69303,7 +69303,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-09-06"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -69356,7 +69356,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-06"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -69409,7 +69409,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-09-06"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -69461,7 +69461,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-06"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -69513,7 +69513,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-06"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -69567,7 +69567,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-06"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -69618,7 +69618,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-06"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -69669,7 +69669,7 @@
         "discovered": "2026-09-06",
         "last_verified": "2026-09-06"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -69723,7 +69723,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-06"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -69774,7 +69774,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-06"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -69825,7 +69825,7 @@
         "discovered": "2026-09-05",
         "last_verified": "2026-09-06"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -69876,7 +69876,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-09-06"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -69928,7 +69928,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-06"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -69979,7 +69979,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-06"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -70083,7 +70083,7 @@
         "discovered": "2026-09-05",
         "last_verified": "2026-09-06"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -70135,7 +70135,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-06"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -70186,7 +70186,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-06"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -70239,7 +70239,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-06"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -70290,7 +70290,61 @@
         "discovered": "2026-09-05",
         "last_verified": "2026-09-06"
       },
-      "status": "closed",
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "goldman-sachs-summer-analyst-intern-engineering-2027-3e3ccf",
+      "company": {
+        "name": "Goldman Sachs",
+        "slug": "goldman-sachs"
+      },
+      "role": "Summer Analyst Intern - Engineering",
+      "category": "software-engineering",
+      "apply_url": "https://higher.gs.com/roles/177808?type=students",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Seattle",
+          "state": "WA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-15",
+        "discovered": "2026-09-06",
+        "last_verified": "2026-09-06"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -70344,7 +70398,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-06"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -70359,15 +70413,14 @@
       },
       "role": "Summer Analyst Intern - Engineering",
       "category": "software-engineering",
-      "apply_url": "https://higher.gs.com/roles/177808?type=students",
+      "apply_url": "https://higher.gs.com/roles/170637?type=students",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
       "locations": [
         {
-          "city": "Seattle",
-          "state": "WA",
-          "country": "USA"
+          "city": "Birmingham",
+          "country": "UK"
         }
       ],
       "compensation": {
@@ -70398,7 +70451,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-06"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -70452,7 +70505,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-09-06"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -70554,7 +70607,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-06"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -70656,7 +70709,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-06"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -70709,7 +70762,7 @@
         "discovered": "2026-08-29",
         "last_verified": "2026-09-06"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -70762,7 +70815,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-09-06"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -97950,7 +98003,7 @@
         "discovered": "2026-08-21",
         "last_verified": "2026-09-06"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -176106,7 +176159,7 @@
         "discovered": "2026-08-24",
         "last_verified": "2026-09-06"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
