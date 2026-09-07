@@ -144,6 +144,7 @@
 | [Boston Scientific](../companies/boston-scientific.md) | 0/3 | data-science, hardware |
 | [Bot Auto](../companies/bot-auto.md) | 1/1 | machine-learning |
 | [Brave](../companies/brave.md) | 1/1 | software-engineering |
+| [Brevan Howard](../companies/brevan-howard.md) | 1/1 | quant |
 | [Brex](../companies/brex.md) | 0/1 | software-engineering |
 | [Brio Water Technology](../companies/brio-water-technology.md) | 1/1 | ai |
 | [Brookfield](../companies/brookfield.md) | 0/1 | ai |
@@ -273,7 +274,7 @@
 | [DraftKings](../companies/draftkings.md) | 4/5 | data-science, software-engineering |
 | [Draper](../companies/draper.md) | 1/2 | embedded, software-engineering |
 | [DriveTime](../companies/drivetime.md) | 4/4 | data-science, software-engineering |
-| [Dropbox](../companies/dropbox.md) | 1/1 | software-engineering |
+| [Dropbox](../companies/dropbox.md) | 2/2 | software-engineering |
 | [Droyd Robotics](../companies/droyd-robotics.md) | 2/2 | machine-learning, software-engineering |
 | [DuCharme, McMillen & Associates](../companies/ducharme-mcmillen-associates.md) | 2/2 | software-engineering |
 | [Duku AI](../companies/duku-ai.md) | 0/1 | software-engineering |
@@ -300,6 +301,7 @@
 | [Ensemble Health Partners](../companies/ensemble-health-partners.md) | 2/2 | data-science, software-engineering |
 | [Entergy](../companies/entergy.md) | 3/4 | ai, software-engineering |
 | [Enterprise Holdings](../companies/enterprise-holdings.md) | 1/1 | software-engineering |
+| [Entrust](../companies/entrust.md) | 1/1 | software-engineering |
 | [Environmental Defense Fund](../companies/environmental-defense-fund.md) | 0/1 | software-engineering |
 | [Epia Neuro](../companies/epia-neuro.md) | 1/1 | hardware |
 | [Epic Games](../companies/epic-games.md) | 12/12 | machine-learning, software-engineering |
@@ -307,7 +309,7 @@
 | [EquipmentShare](../companies/equipmentshare.md) | 0/1 | software-engineering |
 | [Eragon](../companies/eragon.md) | 1/1 | ai |
 | [Eridu AI](../companies/eridu-ai.md) | 0/1 | software-engineering |
-| [Ernst & Young](../companies/ernst-young.md) | 4/4 | ai, product, software-engineering |
+| [Ernst & Young](../companies/ernst-young.md) | 5/5 | ai, product, software-engineering |
 | [Etched](../companies/etched.md) | 13/15 | cloud, embedded, software-engineering |
 | [Ether.fi](../companies/ether-fi.md) | 1/1 | software-engineering |
 | [Eudia](../companies/eudia.md) | 0/1 | software-engineering |
@@ -387,7 +389,7 @@
 | [GlossGenius](../companies/glossgenius.md) | 0/2 | software-engineering |
 | [GoDaddy](../companies/godaddy.md) | 0/1 | software-engineering |
 | [Golden Pet Brands](../companies/golden-pet-brands.md) | 0/1 | software-engineering |
-| [Goldman Sachs](../companies/goldman-sachs.md) | 0/32 | product, quant, software-engineering |
+| [Goldman Sachs](../companies/goldman-sachs.md) | 29/32 | product, quant, software-engineering |
 | [Google](../companies/google.md) | 8/12 | data-science, research, software-engineering |
 | [Grant Thornton](../companies/grant-thornton.md) | 0/6 | ai, software-engineering |
 | [Grass Valley](../companies/grass-valley.md) | 1/1 | software-engineering |
@@ -535,6 +537,7 @@
 | [Marmon Holdings](../companies/marmon-holdings.md) | 4/6 | ai, data-engineering, software-engineering |
 | [Marquee Brands](../companies/marquee-brands.md) | 1/1 | software-engineering |
 | [Marsh](../companies/marsh.md) | 0/2 | software-engineering |
+| [Marsh & McLennan](../companies/marsh-mclennan.md) | 1/1 | software-engineering |
 | [Marshall Wace](../companies/marshall-wace.md) | 3/3 | quant, software-engineering |
 | [Marvell](../companies/marvell.md) | 30/31 | design, embedded, hardware, software-engineering |
 | [Mary Free Bed Rehabilitation Hospital](../companies/mary-free-bed-rehabilitation-hospital.md) | 1/1 | software-engineering |

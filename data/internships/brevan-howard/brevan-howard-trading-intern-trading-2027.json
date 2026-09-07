@@ -1,20 +1,19 @@
 {
   "schema_version": "1.0",
-  "id": "goldman-sachs-summer-analyst-intern-engineering-2027-9c2724",
+  "id": "brevan-howard-trading-intern-trading-2027",
   "company": {
-    "name": "Goldman Sachs",
-    "slug": "goldman-sachs"
+    "name": "Brevan Howard",
+    "slug": "brevan-howard"
   },
-  "role": "Summer Analyst Intern - Engineering",
-  "category": "software-engineering",
-  "apply_url": "https://higher.gs.com/roles/171553?type=students",
+  "role": "Trading Intern - Trading",
+  "category": "quant",
+  "apply_url": "https://wd3.myworkdaysite.com/recruiting/brevanhoward/BH_ExternalCareers/job/New-York/XMLNAME-2027-Summer-Internship-Program---Trading--New-York_JR101583",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Dallas",
-      "state": "TX",
+      "city": "NYC",
       "country": "USA"
     }
   ],
@@ -26,7 +25,8 @@
   "eligibility": {
     "graduation_years": [],
     "degree_levels": [
-      "masters"
+      "masters",
+      "phd"
     ],
     "citizenship_required": false,
     "security_clearance_required": false,
@@ -42,8 +42,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-15",
-    "discovered": "2026-09-04",
+    "posted": "2026-09-07",
+    "discovered": "2026-09-07",
     "last_verified": "2026-09-07"
   },
   "status": "open",
