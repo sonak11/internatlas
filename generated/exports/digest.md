@@ -1,6 +1,6 @@
 # 📬 InternAtlas Weekly Digest — 2026-09-07
 
-## 🆕 New this week (863)
+## 🆕 New this week (885)
 
 - **AArete** — [Business Analytics Intern - Summer 2027](https://jobs.jobvite.com/aarete/job/oBXLAfwD?nl=1&nl=1&fr=false) · software-engineering · —
 - **AIG** — [Summer Intern - Data Office](https://aig.wd1.myworkdayjobs.com/en-US/early_careers/job/GA-Atlanta/XMLNAME-2027-Early-Careers--Summer-Intern--Data-Office---United-States--Atlanta--GA--Charlotte--NC--Parsippany--NJ--Jersey-City--NJ---New-York--NY_JR2603655) · software-engineering · —
@@ -223,6 +223,7 @@
 - **DriveTime** — [Data Science Intern - Summer 2027](https://drivetime.wd1.myworkdayjobs.com/DriveTime/job/1720-W-Rio-Salado-Pkwy-Tempe-AZ-85281/Data-Science-Intern--Summer-2027-_R16301) · data-science · —
 - **DriveTime** — [Database Engineer Intern](https://drivetime.wd1.myworkdayjobs.com/DriveTime/job/1720-W-Rio-Salado-Pkwy-Tempe-AZ-85281/Data-Engineer-Intern--Summer-2027-_R16300) · software-engineering · —
 - **DriveTime** — [Software Engineer Intern - Summer 2027](https://drivetime.wd1.myworkdayjobs.com/DriveTime/job/1720-W-Rio-Salado-Pkwy-Tempe-AZ-85281/Software-Engineer-Intern--Summer-2027-_R16294) · software-engineering · —
+- **Dropbox** — [Software Engineering Intern (Summer 2027)](https://jobs.dropbox.com/listing/8106224?gh_jid=8106224) · software-engineering · —
 - **ENFOS** — [Software Engineer Intern - Summer 2027](https://apply.workable.com/enfos-inc/j/CA15908E0A/apply) · software-engineering · —
 - **Eaton** — [Electrical Engineer Intern/Co-op - Research & Development Engineering](https://eaton.eightfold.ai/careers/job/687238596674) · research · —
 - **Eaton** — [Firmware Engineer Intern/Co-op - Research & Development Engineering](https://eaton.eightfold.ai/careers/job/687238596754) · embedded · —
@@ -333,6 +334,8 @@
 - **ID.me** — [Software Development Engineer Intern](https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7980429003) · software-engineering · —
 - **IGS Energy** — [Software Engineer Intern](https://igsenergy.wd1.myworkdayjobs.com/en-US/IGS/job/Ohio-Remote/Software-Engineer-Intern_R6263) · software-engineering · —
 - **ISN Software** — [Software Developer Intern - Fall 2026](https://isnetworld.com/en/about/careers/jobs?gh_jid=6176204004) · software-engineering · —
+- **InfiniteQuant** — [Quantitative Developer Intern](https://jobs.smartrecruiters.com/InfiniteQuant/744000147163879) · quant · —
+- **InfiniteQuant** — [Quantitative Researcher Intern - Summer 2027](https://jobs.smartrecruiters.com/InfiniteQuant/744000147161390) · quant · —
 - **Ingredion** — [Digital Innovation Intern](https://ingredion.wd1.myworkdayjobs.com/IngredionCareers/job/Bridgewater-NJ/Digital-Innovation-Intern_Req-40180-1) · software-engineering · —
 - **Innovative Systems** — [Software Engineer Intern/Co-op](http://innovativesystems.applytojob.com/apply/nPMqeNSQOo/InternCoop-Summer-2027-Software-Engineering) · software-engineering · —
 - **Innovative Systems** — [Software Engineering Intern/Co-op](http://innovativesystems.applytojob.com/apply/wJuSCjOOqx/InternCoopSpring-2027-Software-Engineering) · software-engineering · —
@@ -450,6 +453,24 @@
 - **Motorola** — [Android Platform Software Engineer Intern - Summer 2027](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Android-Platform-Software-Engineering-Intern---Summer-2027_R68363) · software-engineering · —
 - **Motorola** — [Test Engineer Intern](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Greater-Chicago-Area/Test-Engineering-Internship-2027_R68059) · software-engineering · —
 - **NJM Insurance Group** — [Insurance Product Management Analyst Intern 3](https://njm.wd1.myworkdayjobs.com/njm/job/NJM---Trenton/Insurance-Product-Management-Analyst-Intern-3_R2008190) · product · —
+- **NXP Semiconductors** — [AI/ML ASIC Design and Implementation Automation Intern - Summer 2027](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/San-Diego-Treena-St/AI-ML-ASIC-Design-and-Implementation-Automation-Intern---Summer-2027_R-10065562) · machine-learning · —
+- **NXP Semiconductors** — [Analog Validation Intern - Summer 2027](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Analog-Validation-Intern---Summer-2027_R-10065558) · software-engineering · —
+- **NXP Semiconductors** — [Data Analytics Engineer Intern - Summer 2027](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Data-Analytics-Engineer-Intern---Summer-2027_R-10065538) · data-engineering · —
+- **NXP Semiconductors** — [Data Science / Structured Problem Solving Intern - Summer 2027](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Ed-Bluestein-Office/Data-Science---Structured-Problem-Solving-Intern---Summer-2027_R-10065037) · data-science · —
+- **NXP Semiconductors** — [Design for Test Engineer Intern - Summer 2027](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Digital-Design-Intern---Summer-2027_R-10065550) · design · —
+- **NXP Semiconductors** — [Design for Test Intern](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Digital-Design-Intern---Spring-2027_R-10065548) · design · —
+- **NXP Semiconductors** — [Device Engineering Intern - Summer 2027](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Chandler-Office/Device-Engineering-Intern---Summer-2027_R-10064586) · software-engineering · —
+- **NXP Semiconductors** — [Digital Design Intern](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Digital-Design-Intern---Summer-2027_R-10065551) · design · —
+- **NXP Semiconductors** — [Digital Design Intern](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Digital-Design-Intern---Spring-2027_R-10065537) · design · —
+- **NXP Semiconductors** — [Digital Design Intern - Spring 2027](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Digital-Design-Intern---Spring-2027_R-10065549) · design · —
+- **NXP Semiconductors** — [Digital Physical Design Intern](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Digital-Physical-Design-Intern---Summer-2027_R-10065546) · design · —
+- **NXP Semiconductors** — [Digital Physical Design Intern](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Digital-Physical-Design-Intern---Spring-2027_R-10065545) · design · —
+- **NXP Semiconductors** — [Digital Validation Intern](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Digital-Validation-Intern---Summer-2027_R-10065557) · software-engineering · —
+- **NXP Semiconductors** — [Digital Verification Intern - Summer 2027](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Digital-Verification-Intern---Summer-2027_R-10065552) · software-engineering · —
+- **NXP Semiconductors** — [Embedded Machine Learning & Radar Processing Intern - Summer 2027](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/San-Jose-Holger-Way/Embedded-Machine-Learning---Radar-Processing-Intern---Summer-2027_R-10065534) · machine-learning · —
+- **NXP Semiconductors** — [FAB Device Engineer Intern - Summer 2027](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Ed-Bluestein-Office/FAB-Device-Engineer-Intern---Summer-2027_R-10064583) · software-engineering · —
+- **NXP Semiconductors** — [Functional Safety Intern](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Functional-Safety-Intern---Spring-2027_R-10066483) · software-engineering · —
+- **NXP Semiconductors** — [Microcontrollers System Engineering Intern](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Microcontrollers-System-Engineering-Intern---Summer-2027_R-10066400-1) · software-engineering · —
 - **National Information Solutions Cooperative** — [Data Engineer Intern](https://job-boards.greenhouse.io/testnisc/jobs/8167884) · data-engineering · —
 - **National Information Solutions Cooperative** — [Data Engineer Intern](https://job-boards.greenhouse.io/testnisc/jobs/8167886) · data-engineering · —
 - **National Information Solutions Cooperative** — [Data Engineer Intern](https://job-boards.greenhouse.io/testnisc/jobs/8167883) · data-engineering · —
@@ -865,6 +886,7 @@
 - **Xcel Energy** — [Wildfire Analyst Intern](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80205/Wildfire-Analyst-Intern--CO_JR115413-1) · software-engineering · —
 - **Zipline** — [Aircraft Software Integration Intern](https://www.zipline.com/open-roles/7986848003?gh_jid=7986848003) · software-engineering · —
 - **Zipline** — [Aircraft Software Integration Intern](https://www.zipline.com/open-roles/7986810003?gh_jid=7986810003) · software-engineering · —
+- **incident.io** — [Product Engineer Intern](https://jobs.ashbyhq.com/incident/35461290-c0fe-449a-bed4-5ee873f868fd/application?embed=true) · software-engineering · —
 
 ## ⏰ Closing within 7 days (0)
 

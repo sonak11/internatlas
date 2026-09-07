@@ -1,31 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "charles-schwab-data-engineering-intern-data-engineering-2027",
+  "id": "incident-io-product-engineer-intern-2027",
   "company": {
-    "name": "Charles Schwab",
-    "slug": "charles-schwab"
+    "name": "incident.io",
+    "slug": "incident-io"
   },
-  "role": "Data Engineering Intern - Data Engineering",
-  "category": "data-engineering",
-  "apply_url": "https://career-schwab.icims.com/jobs/126227/job?mobile=true&needsRedirect=false",
+  "role": "Product Engineer Intern",
+  "category": "software-engineering",
+  "apply_url": "https://jobs.ashbyhq.com/incident/35461290-c0fe-449a-bed4-5ee873f868fd/application?embed=true",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Austin",
-      "state": "TX",
-      "country": "USA"
-    },
-    {
-      "city": "Westlake",
-      "state": "TX",
-      "country": "USA"
-    },
-    {
-      "city": "Southlake",
-      "state": "TX",
-      "country": "USA"
+      "city": "London",
+      "country": "UK"
     }
   ],
   "compensation": {
@@ -50,11 +39,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-29",
-    "discovered": "2026-08-29",
+    "posted": "2026-09-07",
+    "discovered": "2026-09-07",
     "last_verified": "2026-09-07"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

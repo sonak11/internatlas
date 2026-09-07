@@ -1,29 +1,19 @@
 {
   "schema_version": "1.0",
-  "id": "charles-schwab-data-engineering-intern-data-engineering-2027",
+  "id": "nxp-semiconductors-data-science-structured-problem-solving-intern-summer-2027-2027",
   "company": {
-    "name": "Charles Schwab",
-    "slug": "charles-schwab"
+    "name": "NXP Semiconductors",
+    "slug": "nxp-semiconductors"
   },
-  "role": "Data Engineering Intern - Data Engineering",
-  "category": "data-engineering",
-  "apply_url": "https://career-schwab.icims.com/jobs/126227/job?mobile=true&needsRedirect=false",
+  "role": "Data Science / Structured Problem Solving Intern - Summer 2027",
+  "category": "data-science",
+  "apply_url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Ed-Bluestein-Office/Data-Science---Structured-Problem-Solving-Intern---Summer-2027_R-10065037",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
       "city": "Austin",
-      "state": "TX",
-      "country": "USA"
-    },
-    {
-      "city": "Westlake",
-      "state": "TX",
-      "country": "USA"
-    },
-    {
-      "city": "Southlake",
       "state": "TX",
       "country": "USA"
     }
@@ -50,11 +40,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-29",
-    "discovered": "2026-08-29",
+    "posted": "2026-09-07",
+    "discovered": "2026-09-07",
     "last_verified": "2026-09-07"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

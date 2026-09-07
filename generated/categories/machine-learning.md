@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🧠 Machine Learning Internships
 
-**173** tracked · **132** open now
+**175** tracked · **134** open now
 
 ## Current openings
 
@@ -76,6 +76,8 @@
 | [NVIDIA](generated/companies/nvidia.md) | [Computer Vision and Deep Learning Intern](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Computer-Vision-and-Deep-Learning_JR2023833) | Santa Clara, CA | Onsite | 2026-08-19 | Rolling | 🟢 Open | ❔ |
 | [NVIDIA](generated/companies/nvidia.md) | [Deep Learning Computer Architecture Intern](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning-Computer-Architecture_JR2023491) | Santa Clara, CA | Onsite | 2026-08-19 | Rolling | 🟢 Open | ❔ |
 | [NVIDIA](generated/companies/nvidia.md) | [Deep Learning Intern - Deep Learning Applications and Algorithms - Deep Learning Frameworks and Libraries](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning_JR2023497-1) | Santa Clara, CA | Onsite | 2026-08-19 | Rolling | 🟢 Open | ❔ |
+| [NXP Semiconductors](generated/companies/nxp-semiconductors.md) | [AI/ML ASIC Design and Implementation Automation Intern - Summer 2027](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/San-Diego-Treena-St/AI-ML-ASIC-Design-and-Implementation-Automation-Intern---Summer-2027_R-10065562) | San Diego, CA | Onsite | 2026-09-07 | Rolling | 🟢 Open | ❔ |
+| [NXP Semiconductors](generated/companies/nxp-semiconductors.md) | [Embedded Machine Learning & Radar Processing Intern - Summer 2027](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/San-Jose-Holger-Way/Embedded-Machine-Learning---Radar-Processing-Intern---Summer-2027_R-10065534) | San Jose, CA | Onsite | 2026-09-07 | Rolling | 🟢 Open | ❔ |
 | [PathAI](generated/companies/pathai.md) | [Machine Learning Intern, AI Product and ML Core](https://www.pathai.com/career/job-post?gh_jid=8202342002) | Boston, MA +1 | Onsite | 2026-04-20 | Rolling | 🟢 Open | ❔ |
 | [Pennsylvania State University](generated/companies/pennsylvania-state-university.md) | [AI/ML Research Support Intern - Visualization and Decision Support Division](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/AI-ML-Research-Support-Intern_REQ_0000080506-1) | State College, PA | Onsite | 2026-07-27 | Rolling | 🟢 Open | ❔ |
 | [Persona AI](generated/companies/persona-ai.md) | [Machine Learning Intern - Manipulation](https://jobs.ashbyhq.com/persona.ai/ed9a7425-9798-471e-b46a-fefd59570630/application?embed=true) | Houston, TX | Onsite | 2026-07-31 | Rolling | 🟢 Open | ❔ |
@@ -199,6 +201,7 @@
 - Adobe (2)
 - Jane Street (2)
 - Modal (2)
+- NXP Semiconductors (2)
 - Pennsylvania State University (2)
 - Pinterest (2)
 - Rippling (2)

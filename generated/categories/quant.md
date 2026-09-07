@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 📈 Quant Internships
 
-**264** tracked · **194** open now
+**265** tracked · **194** open now
 
 ## Current openings
 
@@ -69,8 +69,8 @@
 | [IMC Trading](generated/companies/imc-trading.md) | [Software Engineer Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4667854101) | Amsterdam | Onsite | 2026-05-07 | Rolling | 🟢 Open | ❔ |
 | [IMC Trading](generated/companies/imc-trading.md) | [Software Engineer Intern 2027](https://job-boards.eu.greenhouse.io/imc/jobs/4941206101) | Hong Kong | Onsite | 2026-08-12 | Rolling | 🟢 Open | ❔ |
 | [IMC Trading](generated/companies/imc-trading.md) | [Trader Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4939846101) | Amsterdam | Onsite | 2026-07-31 | Rolling | 🟢 Open | ❔ |
-| [InfiniteQuant](generated/companies/infinitequant.md) | [Quantitative Developer Internship - Summer 2027](https://jobs.smartrecruiters.com/InfiniteQuant/744000145263134) | Dubai - United Arab Emirates +1 | Onsite | 2026-08-24 | Rolling | 🟢 Open | ❔ |
-| [InfiniteQuant](generated/companies/infinitequant.md) | [Quantitative Researcher Intern - Summer 2027](https://jobs.smartrecruiters.com/InfiniteQuant/744000145264634) | Dubai - United Arab Emirates +1 | Onsite | 2026-08-24 | Rolling | 🟢 Open | ❔ |
+| [InfiniteQuant](generated/companies/infinitequant.md) | [Quantitative Developer Intern](https://jobs.smartrecruiters.com/InfiniteQuant/744000147163879) | Dubai - United Arab Emirates +1 | Onsite | 2026-09-03 | Rolling | 🟢 Open | ❔ |
+| [InfiniteQuant](generated/companies/infinitequant.md) | [Quantitative Researcher Intern - Summer 2027](https://jobs.smartrecruiters.com/InfiniteQuant/744000147161390) | Dubai - United Arab Emirates +1 | Onsite | 2026-09-03 | Rolling | 🟢 Open | ❔ |
 | [Jane Street](generated/companies/jane-street.md) | [Quantitative Researcher Intern](https://www.janestreet.com/join-jane-street/position/8498547002/) | New York, NY | Onsite | 2026-07-24 | Rolling | 🟢 Open | ✅ |
 | [Jane Street](generated/companies/jane-street.md) | [Quantitative Trader Intern](https://www.janestreet.com/join-jane-street/position/8617344002/) | New York, NY | Onsite | 2026-07-24 | Rolling | 🟢 Open | ✅ |
 | [Jane Street](generated/companies/jane-street.md) | [Sales and Trading Intern](https://www.janestreet.com/join-jane-street/position/8347385002/) | New York, NY | Onsite | 2026-07-24 | Rolling | 🟢 Open | ✅ |
@@ -251,6 +251,7 @@
 | [IMC Trading](generated/companies/imc-trading.md) | [2027 - Software Engineering Intern - IIT Bombay](https://job-boards.eu.greenhouse.io/imc/jobs/4860319101) | Mumbai | Onsite | 2026-07-06 | Rolling | 🔴 Closed | ❔ |
 | [IMC Trading](generated/companies/imc-trading.md) | [2027 - Software Engineering Intern - IIT Delhi](https://job-boards.eu.greenhouse.io/imc/jobs/4917535101) | Mumbai | Onsite | 2026-07-06 | Rolling | 🔴 Closed | ❔ |
 | [InfiniteQuant](generated/companies/infinitequant.md) | [Quantitative Developer Intern - Summer 2027](https://jobs.smartrecruiters.com/InfiniteQuant/744000143287594) | Dubai - United Arab Emirates +1 | Onsite | 2026-08-13 | Rolling | 🔴 Closed | ❔ |
+| [InfiniteQuant](generated/companies/infinitequant.md) | [Quantitative Developer Internship - Summer 2027](https://jobs.smartrecruiters.com/InfiniteQuant/744000145263134) | Dubai - United Arab Emirates +1 | Onsite | 2026-08-24 | Rolling | 🔴 Closed | ❔ |
 | [InfiniteQuant](generated/companies/infinitequant.md) | [Quantitative Researcher Intern](https://jobs.smartrecruiters.com/InfiniteQuant/744000129235439) | Dubai - United Arab Emirates +1 | Onsite | 2026-05-29 | Rolling | 🔴 Closed | ❔ |
 | [Jump Trading](generated/companies/jump-trading.md) | [Campus Trading Team Software Engineer  (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7565728) | Hong Kong | Onsite | 2026-02-05 | Rolling | 🔴 Closed | ❔ |
 | [KeyBank](generated/companies/keybank.md) | [Analytics and Quantitative Modeling Intern - Analytics & Quantitative Modeling](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Cleveland-OH/XMLNAME-2027-Summer-Analytics-and-Quantitative-Modeling-Internship--Cleveland_R-41380) | Cleveland, OH | Onsite | 2026-08-14 | Rolling | 🔴 Closed | ❔ |
@@ -285,11 +286,11 @@
 - Walleye Capital (6)
 - Wells Fargo (6)
 - Deutsche Bank (5)
+- InfiniteQuant (5)
 - Optiver (5)
 - Quantbot Technologies (5)
 - Chicago Trading Company (4)
 - Citi (4)
-- InfiniteQuant (4)
 - Jane Street (4)
 - JP Morgan Chase (4)
 - Point72 (4)

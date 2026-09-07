@@ -33,17 +33,17 @@ _Generated 2026-09-07_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 2185 | `███████████████` |
+| software-engineering | 2194 | `███████████████` |
 | ai | 309 | `██` |
-| quant | 264 | `██` |
-| machine-learning | 173 | `█` |
+| quant | 265 | `██` |
+| machine-learning | 175 | `█` |
 | hardware | 146 | `█` |
 | research | 133 | `█` |
+| data-science | 113 | `█` |
 | product | 113 | `█` |
-| data-science | 112 | `█` |
-| design | 96 | `█` |
+| design | 103 | `█` |
 | embedded | 92 | `█` |
-| data-engineering | 57 | `█` |
+| data-engineering | 58 | `█` |
 | cloud | 54 | `█` |
 | security | 19 | `█` |
 
@@ -57,18 +57,18 @@ _Generated 2026-09-07_
 - 2026-09-07 — **Bank of Montreal**: [Data Science Analyst Co-op Intern - Audit AI & Analytics](https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Data-Science-Analyst---Audit-AI---Analytics--Winter-2027--Co-op-Internship----4-Months_R260024761-2)
 - 2026-09-07 — **Bank of Montreal**: [Data Science Risk Analyst Co-op Intern](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Data-Science-Risk-Analyst--Winter-2027--Co-op-Internship----4-Months_R260024735-1)
 - 2026-09-07 — **Bank of Montreal**: [Data Science Risk Analyst Co-op Intern](https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Data-Science-Risk-Analyst--Winter-2027--Co-op-Internship----4-Months_R260024735-2)
+- 2026-09-07 — **Dropbox**: [Software Engineering Intern (Summer 2027)](https://jobs.dropbox.com/listing/8106224?gh_jid=8106224)
 - 2026-09-07 — **ICF International**: [Software Developer Intern](https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Software-Developer--Reston--VA-_R2603002)
-- 2026-09-07 — **Stripe**: [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8130883)
-- 2026-09-07 — **Tokyo Electron**: [Automation Developer/Analyst Intern](https://tel.wd3.myworkdayjobs.com/tel-careers/job/Austin-RiverSouth/Automation-Developer-Analyst-Intern_R26-01497)
-- 2026-09-07 — **Tokyo Electron**: [Business Intelligence Analyst Intern](https://tel.wd3.myworkdayjobs.com/tel-careers/job/Austin-RiverSouth/Business-Intelligence-Analyst-Summer-2027-Intern_R26-01504)
-- 2026-09-07 — **Tokyo Electron**: [Data Platforms Engineer Intern](https://tel.wd3.myworkdayjobs.com/tel-careers/job/Austin-RiverSouth/Data-Platforms-Engineer-Summer-2027-Intern_R26-01498)
-- 2026-09-07 — **Xcel Energy**: [AI & Automation Intern - Regulatory](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80205/AI---Automation-Intern--CO_JR115739-1)
-- 2026-09-07 — **Xcel Energy**: [AI Solutions Development Intern](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80205/AI-Solutions-Development-Intern-CO--MN_JR116329-1)
-- 2026-09-07 — **Xcel Energy**: [Asset Strategy & Budget Integration Intern](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Henderson-CO-80640/Asset-Strategy---Budget-Integration-Intern--CO_JR115564-1)
-- 2026-09-07 — **Xcel Energy**: [Data Analyst Intern](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80223/Reliability-Data-Analyst-Intern--CO_JR115833)
-- 2026-09-07 — **Xcel Energy**: [Data Science Intern](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80205/Data-Science-Intern-CO--MN_JR116327-1)
-- 2026-09-07 — **Xcel Energy**: [Data Scientist Intern](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Minneapolis-MN-55401/Data-Scientist-Intern---MN--CO_JR115668-1)
-- 2026-09-07 — **Xcel Energy**: [Energy Supply Renewable Intern - MN](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Minneapolis-MN-55418/Energy-Supply-Renewable-Intern---MN_JR115609-1)
+- 2026-09-07 — **incident.io**: [Product Engineer Intern](https://jobs.ashbyhq.com/incident/35461290-c0fe-449a-bed4-5ee873f868fd/application?embed=true)
+- 2026-09-07 — **NXP Semiconductors**: [AI/ML ASIC Design and Implementation Automation Intern - Summer 2027](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/San-Diego-Treena-St/AI-ML-ASIC-Design-and-Implementation-Automation-Intern---Summer-2027_R-10065562)
+- 2026-09-07 — **NXP Semiconductors**: [Analog Validation Intern - Summer 2027](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Analog-Validation-Intern---Summer-2027_R-10065558)
+- 2026-09-07 — **NXP Semiconductors**: [Data Analytics Engineer Intern - Summer 2027](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Data-Analytics-Engineer-Intern---Summer-2027_R-10065538)
+- 2026-09-07 — **NXP Semiconductors**: [Data Science / Structured Problem Solving Intern - Summer 2027](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Ed-Bluestein-Office/Data-Science---Structured-Problem-Solving-Intern---Summer-2027_R-10065037)
+- 2026-09-07 — **NXP Semiconductors**: [Design for Test Engineer Intern - Summer 2027](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Digital-Design-Intern---Summer-2027_R-10065550)
+- 2026-09-07 — **NXP Semiconductors**: [Design for Test Intern](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Digital-Design-Intern---Spring-2027_R-10065548)
+- 2026-09-07 — **NXP Semiconductors**: [Device Engineering Intern - Summer 2027](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Chandler-Office/Device-Engineering-Intern---Summer-2027_R-10064586)
+- 2026-09-07 — **NXP Semiconductors**: [Digital Design Intern](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Digital-Design-Intern---Summer-2027_R-10065551)
+- 2026-09-07 — **NXP Semiconductors**: [Digital Design Intern](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Digital-Design-Intern---Spring-2027_R-10065537)
 
 ## Recently closed
 
@@ -170,11 +170,13 @@ _Generated 2026-09-07_
 - Catalist — Data Services Intern
 - CCC Intelligent Solutions — AI Enablement Intern
 - CCC Intelligent Solutions — Applied AI Engineer Intern
+- Celonis — Engineering Intern
 - Centene — People Analytics Intern - Undergraduate
 - Centific — Technical Intern - Masters or PhD
 - CesiumAstro — Embedded Software Engineer Intern
 - CesiumAstro — Software Engineering Intern - Advanced Projects Group
 - Chanel — Data Intern - Global Data Program
+- Charles Schwab — Data Engineering Intern - Data Engineering
 - Charles Schwab — Software Engineering Intern - Technology
 - Chevron — Previous Intern - Information Technology - Information and Analytics
 - Chevron Corporation — Intern
@@ -346,6 +348,7 @@ _Generated 2026-09-07_
 - HNTB — Strategic Technology Intern
 - HNTB — Strategic Technology Intern - SED Division
 - HNTB — Strategic Technology Intern - SED Division
+- Hoffman Construction — Data Analyst Intern
 - Honeywell — Information Systems Intern - IT - Cyber Engineer & Data Science
 - Honeywell — Information Systems Intern - Multiple Teams
 - Hormel Foods — Packaging Intern
@@ -369,12 +372,14 @@ _Generated 2026-09-07_
 - IMEG — Innovation Services Intern
 - Incident IQ — Software Engineer Intern
 - InfiniteQuant — Quantitative Developer Intern - Summer 2027
+- InfiniteQuant — Quantitative Developer Internship - Summer 2027
 - Innovation Works, Inc. — Scale Prototyping Shop Intern
 - Intact — Investment Analyst Intern Co-op
 - Integra FEC — Data Scientist Intern
 - Integra FEC — Data Scientist Intern - PhD
 - Integra FEC — Research Analyst Intern
 - Intel — Physical Design Engineer Intern
+- Intel — Software Development Intern
 - Intel — System Technology PhD Intern - Research Engineer
 - Interdigital — Information Systems / Salesforce Intern
 - Interdigital — Wifi Intern - Wireless Researcher
@@ -524,6 +529,7 @@ _Generated 2026-09-07_
 - Nokia — Software Developer Co-op Intern - Intern
 - Nokia — Web Developer Co-op Intern
 - Nokia — Web Developer Co-op Intern - Intern
+- Northrop Grumman — Software Engineer Intern
 - Northrop Grumman — Software Engineer Intern - Aeronautics Systems
 - Northrop Grumman — Software Engineer Intern - Strategic Deterrent Systems Division - Sentinel
 - Northwestern Mutual — Investment Analyst Intern - Private Debt & Equity
@@ -751,6 +757,8 @@ _Generated 2026-09-07_
 - The Walt Disney Company — Computer Science / Computer Engineering Intern - Multiple Teams
 - The Walt Disney Company — Environmental Sustainability Data Analytics Intern - Spring 2027
 - The Walt Disney Company — Environmental Sustainability Data Analytics Intern - Spring 2027
+- The Walt Disney Company — Figure Programming Intern
+- The Walt Disney Company — Figure Programming Intern
 - The Walt Disney Company — Geographic Information Systems Intern - GIS
 - The Walt Disney Company — Insights and Analytics Intern - ABC News
 - The Walt Disney Company — Insights and Analytics Intern - Spring 2027

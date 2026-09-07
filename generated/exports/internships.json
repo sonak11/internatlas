@@ -1,6 +1,6 @@
 {
   "generated": "2026-09-07",
-  "count": 3753,
+  "count": 3774,
   "internships": [
     {
       "schema_version": "1.0",
@@ -37329,7 +37329,7 @@
         "discovered": "2026-08-25",
         "last_verified": "2026-09-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -38181,7 +38181,7 @@
         "discovered": "2026-08-29",
         "last_verified": "2026-09-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -52568,6 +52568,53 @@
       "tags": [
         "auto-ingested",
         "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "dropbox-software-engineering-intern-summer-2027-2027",
+      "company": {
+        "name": "Dropbox",
+        "slug": "dropbox",
+        "career_page": "https://www.dropbox.com/jobs"
+      },
+      "role": "Software Engineering Intern (Summer 2027)",
+      "category": "software-engineering",
+      "apply_url": "https://jobs.dropbox.com/listing/8106224?gh_jid=8106224",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "remote",
+      "locations": [],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-07",
+        "discovered": "2026-09-07",
+        "last_verified": "2026-09-07"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
       ]
     },
     {
@@ -76350,7 +76397,7 @@
         "discovered": "2026-08-22",
         "last_verified": "2026-09-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -81567,6 +81614,57 @@
     },
     {
       "schema_version": "1.0",
+      "id": "incident-io-product-engineer-intern-2027",
+      "company": {
+        "name": "incident.io",
+        "slug": "incident-io"
+      },
+      "role": "Product Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://jobs.ashbyhq.com/incident/35461290-c0fe-449a-bed4-5ee873f868fd/application?embed=true",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "London",
+          "country": "UK"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-07",
+        "discovered": "2026-09-07",
+        "last_verified": "2026-09-07"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "incident-iq-software-engineer-intern-2026",
       "company": {
         "name": "Incident IQ",
@@ -81612,6 +81710,61 @@
         "last_verified": "2026-09-01"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "infinitequant-quantitative-developer-intern-2027",
+      "company": {
+        "name": "InfiniteQuant",
+        "slug": "infinitequant"
+      },
+      "role": "Quantitative Developer Intern",
+      "category": "quant",
+      "apply_url": "https://jobs.smartrecruiters.com/InfiniteQuant/744000147163879",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Dubai - United Arab Emirates",
+          "country": "USA"
+        },
+        {
+          "city": "NYC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-03",
+        "discovered": "2026-09-07",
+        "last_verified": "2026-09-07"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -81723,7 +81876,7 @@
         "discovered": "2026-08-19",
         "last_verified": "2026-09-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -81796,7 +81949,7 @@
       },
       "role": "Quantitative Researcher Intern - Summer 2027",
       "category": "quant",
-      "apply_url": "https://jobs.smartrecruiters.com/InfiniteQuant/744000145264634",
+      "apply_url": "https://jobs.smartrecruiters.com/InfiniteQuant/744000147161390",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
@@ -81835,7 +81988,7 @@
         "resume_keywords": []
       },
       "dates": {
-        "posted": "2026-08-24",
+        "posted": "2026-09-03",
         "discovered": "2026-08-10",
         "last_verified": "2026-09-07"
       },
@@ -83243,7 +83396,7 @@
         "discovered": "2026-08-17",
         "last_verified": "2026-09-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -116658,7 +116811,7 @@
         "discovered": "2026-07-25",
         "last_verified": "2026-09-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -119970,6 +120123,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "nxp-semiconductors-ai-ml-asic-design-and-implementation-automation-intern-summe-2027",
+      "company": {
+        "name": "NXP Semiconductors",
+        "slug": "nxp-semiconductors"
+      },
+      "role": "AI/ML ASIC Design and Implementation Automation Intern - Summer 2027",
+      "category": "machine-learning",
+      "apply_url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/San-Diego-Treena-St/AI-ML-ASIC-Design-and-Implementation-Automation-Intern---Summer-2027_R-10065562",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Diego",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-07",
+        "discovered": "2026-09-07",
+        "last_verified": "2026-09-07"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "nxp-semiconductors-ai-software-engineering-intern-2026",
       "company": {
         "name": "NXP Semiconductors",
@@ -120015,6 +120220,598 @@
         "last_verified": "2026-07-24"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "nxp-semiconductors-analog-validation-intern-summer-2027-2027",
+      "company": {
+        "name": "NXP Semiconductors",
+        "slug": "nxp-semiconductors"
+      },
+      "role": "Analog Validation Intern - Summer 2027",
+      "category": "software-engineering",
+      "apply_url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Analog-Validation-Intern---Summer-2027_R-10065558",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Austin",
+          "state": "TX",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-07",
+        "discovered": "2026-09-07",
+        "last_verified": "2026-09-07"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "nxp-semiconductors-data-analytics-engineer-intern-summer-2027-2027",
+      "company": {
+        "name": "NXP Semiconductors",
+        "slug": "nxp-semiconductors"
+      },
+      "role": "Data Analytics Engineer Intern - Summer 2027",
+      "category": "data-engineering",
+      "apply_url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Data-Analytics-Engineer-Intern---Summer-2027_R-10065538",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Austin",
+          "state": "TX",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-07",
+        "discovered": "2026-09-07",
+        "last_verified": "2026-09-07"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "nxp-semiconductors-data-science-structured-problem-solving-intern-summer-2027-2027",
+      "company": {
+        "name": "NXP Semiconductors",
+        "slug": "nxp-semiconductors"
+      },
+      "role": "Data Science / Structured Problem Solving Intern - Summer 2027",
+      "category": "data-science",
+      "apply_url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Ed-Bluestein-Office/Data-Science---Structured-Problem-Solving-Intern---Summer-2027_R-10065037",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Austin",
+          "state": "TX",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-07",
+        "discovered": "2026-09-07",
+        "last_verified": "2026-09-07"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "nxp-semiconductors-design-for-test-engineer-intern-summer-2027-2027",
+      "company": {
+        "name": "NXP Semiconductors",
+        "slug": "nxp-semiconductors"
+      },
+      "role": "Design for Test Engineer Intern - Summer 2027",
+      "category": "design",
+      "apply_url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Digital-Design-Intern---Summer-2027_R-10065550",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Austin",
+          "state": "TX",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-07",
+        "discovered": "2026-09-07",
+        "last_verified": "2026-09-07"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "nxp-semiconductors-design-for-test-intern-2027",
+      "company": {
+        "name": "NXP Semiconductors",
+        "slug": "nxp-semiconductors"
+      },
+      "role": "Design for Test Intern",
+      "category": "design",
+      "apply_url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Digital-Design-Intern---Spring-2027_R-10065548",
+      "season": "spring",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Austin",
+          "state": "TX",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-07",
+        "discovered": "2026-09-07",
+        "last_verified": "2026-09-07"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "nxp-semiconductors-device-engineering-intern-summer-2027-2027",
+      "company": {
+        "name": "NXP Semiconductors",
+        "slug": "nxp-semiconductors"
+      },
+      "role": "Device Engineering Intern - Summer 2027",
+      "category": "software-engineering",
+      "apply_url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Chandler-Office/Device-Engineering-Intern---Summer-2027_R-10064586",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Chandler",
+          "state": "AZ",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-07",
+        "discovered": "2026-09-07",
+        "last_verified": "2026-09-07"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "nxp-semiconductors-digital-design-intern-2027-f3d254",
+      "company": {
+        "name": "NXP Semiconductors",
+        "slug": "nxp-semiconductors"
+      },
+      "role": "Digital Design Intern",
+      "category": "design",
+      "apply_url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Digital-Design-Intern---Summer-2027_R-10065551",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Austin",
+          "state": "TX",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-07",
+        "discovered": "2026-09-07",
+        "last_verified": "2026-09-07"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "nxp-semiconductors-digital-design-intern-2027",
+      "company": {
+        "name": "NXP Semiconductors",
+        "slug": "nxp-semiconductors"
+      },
+      "role": "Digital Design Intern",
+      "category": "design",
+      "apply_url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Digital-Design-Intern---Spring-2027_R-10065537",
+      "season": "spring",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Austin",
+          "state": "TX",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-07",
+        "discovered": "2026-09-07",
+        "last_verified": "2026-09-07"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "nxp-semiconductors-digital-design-intern-spring-2027-2027",
+      "company": {
+        "name": "NXP Semiconductors",
+        "slug": "nxp-semiconductors"
+      },
+      "role": "Digital Design Intern - Spring 2027",
+      "category": "design",
+      "apply_url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Digital-Design-Intern---Spring-2027_R-10065549",
+      "season": "spring",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Austin",
+          "state": "TX",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-07",
+        "discovered": "2026-09-07",
+        "last_verified": "2026-09-07"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "nxp-semiconductors-digital-physical-design-intern-2027-efa0eb",
+      "company": {
+        "name": "NXP Semiconductors",
+        "slug": "nxp-semiconductors"
+      },
+      "role": "Digital Physical Design Intern",
+      "category": "design",
+      "apply_url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Digital-Physical-Design-Intern---Summer-2027_R-10065546",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Austin",
+          "state": "TX",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-07",
+        "discovered": "2026-09-07",
+        "last_verified": "2026-09-07"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "nxp-semiconductors-digital-physical-design-intern-2027",
+      "company": {
+        "name": "NXP Semiconductors",
+        "slug": "nxp-semiconductors"
+      },
+      "role": "Digital Physical Design Intern",
+      "category": "design",
+      "apply_url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Digital-Physical-Design-Intern---Spring-2027_R-10065545",
+      "season": "spring",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Austin",
+          "state": "TX",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-07",
+        "discovered": "2026-09-07",
+        "last_verified": "2026-09-07"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -120076,6 +120873,60 @@
     },
     {
       "schema_version": "1.0",
+      "id": "nxp-semiconductors-digital-validation-intern-2027",
+      "company": {
+        "name": "NXP Semiconductors",
+        "slug": "nxp-semiconductors"
+      },
+      "role": "Digital Validation Intern",
+      "category": "software-engineering",
+      "apply_url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Digital-Validation-Intern---Summer-2027_R-10065557",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Austin",
+          "state": "TX",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-07",
+        "discovered": "2026-09-07",
+        "last_verified": "2026-09-07"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "nxp-semiconductors-digital-verification-engineer-intern-2026",
       "company": {
         "name": "NXP Semiconductors",
@@ -120123,6 +120974,273 @@
         "last_verified": "2026-07-20"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "nxp-semiconductors-digital-verification-intern-summer-2027-2027",
+      "company": {
+        "name": "NXP Semiconductors",
+        "slug": "nxp-semiconductors"
+      },
+      "role": "Digital Verification Intern - Summer 2027",
+      "category": "software-engineering",
+      "apply_url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Digital-Verification-Intern---Summer-2027_R-10065552",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Austin",
+          "state": "TX",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-07",
+        "discovered": "2026-09-07",
+        "last_verified": "2026-09-07"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "nxp-semiconductors-embedded-machine-learning-radar-processing-intern-summer-202-2027",
+      "company": {
+        "name": "NXP Semiconductors",
+        "slug": "nxp-semiconductors"
+      },
+      "role": "Embedded Machine Learning & Radar Processing Intern - Summer 2027",
+      "category": "machine-learning",
+      "apply_url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/San-Jose-Holger-Way/Embedded-Machine-Learning---Radar-Processing-Intern---Summer-2027_R-10065534",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters",
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-07",
+        "discovered": "2026-09-07",
+        "last_verified": "2026-09-07"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "nxp-semiconductors-fab-device-engineer-intern-summer-2027-2027",
+      "company": {
+        "name": "NXP Semiconductors",
+        "slug": "nxp-semiconductors"
+      },
+      "role": "FAB Device Engineer Intern - Summer 2027",
+      "category": "software-engineering",
+      "apply_url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Ed-Bluestein-Office/FAB-Device-Engineer-Intern---Summer-2027_R-10064583",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Austin",
+          "state": "TX",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-07",
+        "discovered": "2026-09-07",
+        "last_verified": "2026-09-07"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "nxp-semiconductors-functional-safety-intern-2027",
+      "company": {
+        "name": "NXP Semiconductors",
+        "slug": "nxp-semiconductors"
+      },
+      "role": "Functional Safety Intern",
+      "category": "software-engineering",
+      "apply_url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Functional-Safety-Intern---Spring-2027_R-10066483",
+      "season": "spring",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Austin",
+          "state": "TX",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-07",
+        "discovered": "2026-09-07",
+        "last_verified": "2026-09-07"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "nxp-semiconductors-microcontrollers-system-engineering-intern-2027",
+      "company": {
+        "name": "NXP Semiconductors",
+        "slug": "nxp-semiconductors"
+      },
+      "role": "Microcontrollers System Engineering Intern",
+      "category": "software-engineering",
+      "apply_url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Microcontrollers-System-Engineering-Intern---Summer-2027_R-10066400-1",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Austin",
+          "state": "TX",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-07",
+        "discovered": "2026-09-07",
+        "last_verified": "2026-09-07"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -176356,7 +177474,7 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-09-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -176413,7 +177531,7 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-09-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"

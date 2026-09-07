@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 📊 Data Science Internships
 
-**112** tracked · **86** open now
+**113** tracked · **87** open now
 
 ## Current openings
 
@@ -64,6 +64,7 @@
 | [Northern Trust](generated/companies/northern-trust.md) | [Technology Intern - Data Science and Analytics](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL/Technology-Intern---Data-Science-and-Analytics_R160865-1) | Chicago, IL | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
 | [Notion](generated/companies/notion.md) | [Data Science Intern](https://jobs.ashbyhq.com/notion/a67d6f2b-7c13-41d0-b36b-b2f662c9873e/application?embed=true) | SF | Onsite | 2026-08-20 | Rolling | 🟢 Open | ❔ |
 | [Notion](generated/companies/notion.md) | [Data Science Intern (Winter 2027)](https://jobs.ashbyhq.com/notion/a67d6f2b-7c13-41d0-b36b-b2f662c9873e) | Remote | Remote | 2026-08-19 | Rolling | 🟢 Open | ❔ |
+| [NXP Semiconductors](generated/companies/nxp-semiconductors.md) | [Data Science / Structured Problem Solving Intern - Summer 2027](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Ed-Bluestein-Office/Data-Science---Structured-Problem-Solving-Intern---Summer-2027_R-10065037) | Austin, TX | Onsite | 2026-09-07 | Rolling | 🟢 Open | ❔ |
 | [Phoenix Contact](generated/companies/phoenix-contact.md) | [Data Science & Analytics Intern](https://job-boards.greenhouse.io/phoenixcontact/jobs/7964865003) | Middletown, PA | Onsite | 2026-08-27 | Rolling | 🟢 Open | ❔ |
 | [Polaris](generated/companies/polaris.md) | [Predictive Data Science Intern - Digital & IT](https://polaris.wd5.myworkdayjobs.com/PolarisJobs/job/Medina-MN-USA/Digital---IT---Predictive-Data-Science-Internship---Summer-2027_R30525) | Medina, MN +1 | Onsite | 2026-08-24 | Rolling | 🟢 Open | ❔ |
 | [Post Holdings](generated/companies/post-holdings.md) | [Data Science Intern - Summer 2027](https://jobs.postholdings.com/jobs/31961?icims=1) | Lakeville, MN | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
@@ -165,6 +166,7 @@
 - Mackenzie Investments (1)
 - Momentive (1)
 - Northern Trust (1)
+- NXP Semiconductors (1)
 - Phoenix Contact (1)
 - Polaris (1)
 - Post Holdings (1)

@@ -1,12 +1,14 @@
 <!-- ⚠️ AUTO-GENERATED FILE — do not edit by hand.
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
-# Hoffman Construction
+# Dropbox
+
+[Careers page](https://www.dropbox.com/jobs)
 
 ## Current openings
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
-| Hoffman Construction | [Data Analyst Intern](https://efsp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/1498) | Amarillo, TX | Onsite | 2026-08-27 | Rolling | 🔴 Closed | ❔ |
+| Dropbox | [Software Engineering Intern (Summer 2027)](https://jobs.dropbox.com/listing/8106224?gh_jid=8106224) | Remote | Remote | 2026-09-07 | Rolling | 🟢 Open | ❔ |
 
 ## Related
 

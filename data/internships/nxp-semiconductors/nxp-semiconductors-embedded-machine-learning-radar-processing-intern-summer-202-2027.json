@@ -1,30 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "charles-schwab-data-engineering-intern-data-engineering-2027",
+  "id": "nxp-semiconductors-embedded-machine-learning-radar-processing-intern-summer-202-2027",
   "company": {
-    "name": "Charles Schwab",
-    "slug": "charles-schwab"
+    "name": "NXP Semiconductors",
+    "slug": "nxp-semiconductors"
   },
-  "role": "Data Engineering Intern - Data Engineering",
-  "category": "data-engineering",
-  "apply_url": "https://career-schwab.icims.com/jobs/126227/job?mobile=true&needsRedirect=false",
+  "role": "Embedded Machine Learning & Radar Processing Intern - Summer 2027",
+  "category": "machine-learning",
+  "apply_url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/San-Jose-Holger-Way/Embedded-Machine-Learning---Radar-Processing-Intern---Summer-2027_R-10065534",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Austin",
-      "state": "TX",
-      "country": "USA"
-    },
-    {
-      "city": "Westlake",
-      "state": "TX",
-      "country": "USA"
-    },
-    {
-      "city": "Southlake",
-      "state": "TX",
+      "city": "San Jose",
+      "state": "CA",
       "country": "USA"
     }
   ],
@@ -35,7 +25,10 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "masters",
+      "phd"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -50,11 +43,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-29",
-    "discovered": "2026-08-29",
+    "posted": "2026-09-07",
+    "discovered": "2026-09-07",
     "last_verified": "2026-09-07"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

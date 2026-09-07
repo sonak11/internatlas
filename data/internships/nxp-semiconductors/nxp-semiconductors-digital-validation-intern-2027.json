@@ -1,29 +1,19 @@
 {
   "schema_version": "1.0",
-  "id": "charles-schwab-data-engineering-intern-data-engineering-2027",
+  "id": "nxp-semiconductors-digital-validation-intern-2027",
   "company": {
-    "name": "Charles Schwab",
-    "slug": "charles-schwab"
+    "name": "NXP Semiconductors",
+    "slug": "nxp-semiconductors"
   },
-  "role": "Data Engineering Intern - Data Engineering",
-  "category": "data-engineering",
-  "apply_url": "https://career-schwab.icims.com/jobs/126227/job?mobile=true&needsRedirect=false",
+  "role": "Digital Validation Intern",
+  "category": "software-engineering",
+  "apply_url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Digital-Validation-Intern---Summer-2027_R-10065557",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
       "city": "Austin",
-      "state": "TX",
-      "country": "USA"
-    },
-    {
-      "city": "Westlake",
-      "state": "TX",
-      "country": "USA"
-    },
-    {
-      "city": "Southlake",
       "state": "TX",
       "country": "USA"
     }
@@ -35,7 +25,9 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "masters"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -50,11 +42,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-29",
-    "discovered": "2026-08-29",
+    "posted": "2026-09-07",
+    "discovered": "2026-09-07",
     "last_verified": "2026-09-07"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

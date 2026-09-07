@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🎨 Design Internships
 
-**96** tracked · **72** open now
+**103** tracked · **79** open now
 
 ## Current openings
 
@@ -54,6 +54,13 @@
 | [Neuralink](generated/companies/neuralink.md) | [Digital IC Design Engineer Intern](https://boards.greenhouse.io/neuralink/jobs/7090489003?gh_jid=7090489003) | South San Francisco | Onsite | 2025-10-27 | Rolling | 🟢 Open | ❔ |
 | [NVIDIA](generated/companies/nvidia.md) | [Digital Circuit Design Intern](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Digital-Circuit-Design_JR2023504) | Santa Clara, CA | Onsite | 2026-08-19 | Rolling | 🟢 Open | ❔ |
 | [NVIDIA](generated/companies/nvidia.md) | [Mixed Signal Design Intern](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Mixed-Signal-Design_JR2023502) | Santa Clara, CA | Onsite | 2026-08-19 | Rolling | 🟢 Open | ❔ |
+| [NXP Semiconductors](generated/companies/nxp-semiconductors.md) | [Design for Test Engineer Intern - Summer 2027](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Digital-Design-Intern---Summer-2027_R-10065550) | Austin, TX | Onsite | 2026-09-07 | Rolling | 🟢 Open | ❔ |
+| [NXP Semiconductors](generated/companies/nxp-semiconductors.md) | [Design for Test Intern](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Digital-Design-Intern---Spring-2027_R-10065548) | Austin, TX | Onsite | 2026-09-07 | Rolling | 🟢 Open | ❔ |
+| [NXP Semiconductors](generated/companies/nxp-semiconductors.md) | [Digital Design Intern](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Digital-Design-Intern---Summer-2027_R-10065551) | Austin, TX | Onsite | 2026-09-07 | Rolling | 🟢 Open | ❔ |
+| [NXP Semiconductors](generated/companies/nxp-semiconductors.md) | [Digital Design Intern](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Digital-Design-Intern---Spring-2027_R-10065537) | Austin, TX | Onsite | 2026-09-07 | Rolling | 🟢 Open | ❔ |
+| [NXP Semiconductors](generated/companies/nxp-semiconductors.md) | [Digital Design Intern - Spring 2027](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Digital-Design-Intern---Spring-2027_R-10065549) | Austin, TX | Onsite | 2026-09-07 | Rolling | 🟢 Open | ❔ |
+| [NXP Semiconductors](generated/companies/nxp-semiconductors.md) | [Digital Physical Design Intern](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Digital-Physical-Design-Intern---Summer-2027_R-10065546) | Austin, TX | Onsite | 2026-09-07 | Rolling | 🟢 Open | ❔ |
+| [NXP Semiconductors](generated/companies/nxp-semiconductors.md) | [Digital Physical Design Intern](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Digital-Physical-Design-Intern---Spring-2027_R-10065545) | Austin, TX | Onsite | 2026-09-07 | Rolling | 🟢 Open | ❔ |
 | [NXP Semiconductors](generated/companies/nxp-semiconductors.md) | [Digital Physical Design Intern - P&R](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Chandler-Office/Digital-Physical-Design--P-R--Intern_R-10064673) | Chandler, AZ | Onsite | 2026-07-13 | Rolling | 🟢 Open | ❔ |
 | [Qorvo](generated/companies/qorvo.md) | [Analog Design Engineer Intern](https://careers.qorvo.com/job/San-Jose-Analog-Design-Engineering-Intern-CA-95134/1424725600/?ats=successfactors) | San Jose, CA | Onsite | 2026-08-31 | Rolling | 🟢 Open | ❔ |
 | [Qorvo](generated/companies/qorvo.md) | [Analog Design Engineer Intern - High Performance Analog - Advanced Cellular](https://careers.qorvo.com/job/Richardson-Analog-Design-Engineering-Intern-TX-75081/1424728600/?ats=successfactors) | Richardson, TX | Onsite | 2026-08-31 | Rolling | 🟢 Open | ❔ |
@@ -110,6 +117,7 @@
 - Marvell (16)
 - Qorvo (13)
 - Tesla (12)
+- NXP Semiconductors (8)
 - Micron Technology (7)
 - Jump Trading (4)
 - Neuralink (3)
@@ -128,7 +136,6 @@
 - Gumloop (1)
 - Heron Power (1)
 - Humanscale (1)
-- NXP Semiconductors (1)
 - Roblox (1)
 - SkyGig (1)
 - Virtu Financial (1)
