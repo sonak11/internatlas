@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 📊 Statistics
 
-_Generated 2026-09-06_
+_Generated 2026-09-07_
 
 ## Top hiring companies
 
@@ -145,7 +145,6 @@ _Generated 2026-09-06_
 - BP — Finance & Risk Intern - Supply, Trading, & Shipping
 - BP — Finance & Risk Intern - Supply, Trading, & Shipping - Finance & Risk
 - BP — Finance & Risk Intern - Supply, Trading, & Shipping - Finance & Risk
-- BP — Geoscience Intern - Geoscientist
 - BP — Reservoir Engineer Intern - Summer Internship
 - BP — Summer Intern
 - BP — Supply, Trading, & Shipping Intern
@@ -164,7 +163,6 @@ _Generated 2026-09-06_
 - CACI — GMU Scholar Program Intern
 - Caddi Workflow Automation — Software Engineer Intern
 - CALSTART — Zero-Emission Data & Research Intern
-- Canva — PhD Research Scientist Intern - Edge AI
 - Canva — PhD Research Scientist Intern - Reinforcement Learning for Diffusion Modelling
 - Capital One — Technology Intern
 - Castleton Commodities International — Commodities Trading Analyst Internship
@@ -296,38 +294,14 @@ _Generated 2026-09-06_
 - GlobalFoundries — Robotics and Automation Engineering Intern - Junior
 - GlossGenius — Engineering Intern
 - GlossGenius — Engineering Intern - Summer 2027
-- Goldman Sachs — Associate Intern - The Core Quantitative Strats
 - Goldman Sachs — AWM Product Management Analyst Intern
-- Goldman Sachs — Quantitative Strategist Associate Intern - Asset and Wealth Management
-- Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Americas
-- Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Investment Banking
-- Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
-- Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
-- Goldman Sachs — Quantitative Strats Analyst Intern - Americas - Investment Banking
-- Goldman Sachs — Summer Analyst Intern
 - Goldman Sachs — Summer Analyst Intern - Americas - AWM Product Management
-- Goldman Sachs — Summer Analyst Intern - Americas - Engineering
-- Goldman Sachs — Summer Analyst Intern - Americas - Engineering
-- Goldman Sachs — Summer Analyst Intern - Americas - Engineering
-- Goldman Sachs — Summer Analyst Intern - Americas - Investment Banking Quantitative Strats
-- Goldman Sachs — Summer Analyst Intern - Engineering
-- Goldman Sachs — Summer Analyst Intern - Engineering
-- Goldman Sachs — Summer Analyst Intern - Engineering
 - Goldman Sachs — Summer Analyst Intern - Engineering
 - Goldman Sachs — Summer Analyst Intern - FICC and Equities - Sales and Trading
 - Goldman Sachs — Summer Analyst Intern - FICC & Equities - Sales & Trading
 - Goldman Sachs — Summer Analyst Intern - The Core Quantitative Strats
 - Goldman Sachs — Summer Analyst Intern - Wealth Management - Product Management and Design
 - Goldman Sachs — Summer Analyst Intern - Wealth Management - Quantitative Finance
-- Goldman Sachs — Summer Associate Intern
-- Goldman Sachs — Summer Associate Intern - Multiple Teams
 - Grant Thornton — AI, Data & Technology Intern - Summer 2027
 - Grant Thornton — AI, Data & Technology Intern - Summer 2027
 - Grant Thornton — AI, Data & Technology Intern - Summer 2027
@@ -419,7 +393,6 @@ _Generated 2026-09-06_
 - L3Harris Technologies — Electrical Engineer Intern - Spring 2027
 - L3Harris Technologies — Electrical Engineer Intern - Spring 2027
 - L3Harris Technologies — Electrical Engineering Intern - EGSE Design
-- L3Harris Technologies — Integration/Test Engineering Intern
 - L3Harris Technologies — Security Research Engineer Intern
 - L3Harris Technologies — Software Engineer Intern
 - L3Harris Technologies — Software Engineer Intern
@@ -440,7 +413,6 @@ _Generated 2026-09-06_
 - L3Harris Technologies — Software Engineer Intern
 - L3Harris Technologies — Software Engineer Intern
 - L3Harris Technologies — Software Engineer Intern 3
-- L3Harris Technologies — Software Engineering Intern
 - Lawrence Livermore National Laboratory (LLNL) — Computational Engineering Graduate Intern
 - Lawrence Livermore National Laboratory (LLNL) — Computing Graduate Student Intern
 - Lawrence Livermore National Laboratory (LLNL) — Computing Undergraduate Student Intern
