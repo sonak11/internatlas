@@ -22,7 +22,7 @@
 | [AXQ Capital](../companies/axq-capital.md) | 1/1 | quant |
 | [AbbVie](../companies/abbvie.md) | 3/3 | software-engineering |
 | [Abridge](../companies/abridge.md) | 0/1 | software-engineering |
-| [Abundant](../companies/abundant.md) | 2/2 | research |
+| [Abundant](../companies/abundant.md) | 1/2 | research |
 | [Accenture](../companies/accenture.md) | 0/2 | software-engineering |
 | [AcreTrader](../companies/acretrader.md) | 0/1 | software-engineering |
 | [Acumatica](../companies/acumatica.md) | 1/1 | ai |
@@ -61,7 +61,7 @@
 | [Ameriprise Financial](../companies/ameriprise-financial.md) | 1/1 | software-engineering |
 | [Amgen](../companies/amgen.md) | 1/2 | software-engineering |
 | [Amwins](../companies/amwins.md) | 0/1 | ai |
-| [AnaVation](../companies/anavation.md) | 1/1 | software-engineering |
+| [AnaVation](../companies/anavation.md) | 0/1 | software-engineering |
 | [Analog Devices](../companies/analog-devices.md) | 7/7 | design, machine-learning, software-engineering |
 | [Analysis Group](../companies/analysis-group.md) | 0/1 | research |
 | [Analytical Mechanics Associates](../companies/analytical-mechanics-associates.md) | 0/2 | research, software-engineering |
@@ -735,7 +735,7 @@
 | [Rakuten International](../companies/rakuten-international.md) | 0/1 | software-engineering |
 | [Ramiel Capital](../companies/ramiel-capital.md) | 1/1 | quant |
 | [Ramp](../companies/ramp.md) | 0/1 | software-engineering |
-| [RapDev](../companies/rapdev.md) | 1/1 | software-engineering |
+| [RapDev](../companies/rapdev.md) | 0/1 | software-engineering |
 | [Raytheon](../companies/raytheon.md) | 1/1 | software-engineering |
 | [Readystate Asset Management](../companies/readystate-asset-management.md) | 0/1 | software-engineering |
 | [Realm](../companies/realm.md) | 1/1 | software-engineering |
@@ -869,7 +869,7 @@
 | [TMEIC Corporation Americas](../companies/tmeic-corporation-americas.md) | 1/3 | machine-learning, software-engineering |
 | [TMX Group](../companies/tmx-group.md) | 0/2 | software-engineering |
 | [TRUMPF](../companies/trumpf.md) | 0/1 | software-engineering |
-| [TSC](../companies/tsc.md) | 1/1 | software-engineering |
+| [TSC](../companies/tsc.md) | 0/1 | software-engineering |
 | [TWG Global](../companies/twg-global.md) | 3/3 | ai, data-science |
 | [Tacit](../companies/tacit.md) | 0/2 | hardware, software-engineering |
 | [Tarrant Regional Water District](../companies/tarrant-regional-water-district.md) | 1/1 | software-engineering |
@@ -988,7 +988,7 @@
 | [Waymo](../companies/waymo.md) | 6/6 | data-science, quant, software-engineering |
 | [Wealthsimple](../companies/wealthsimple.md) | 2/2 | data-science, software-engineering |
 | [Weave](../companies/weave.md) | 1/1 | data-engineering |
-| [Wells Fargo](../companies/wells-fargo.md) | 6/8 | quant, software-engineering |
+| [Wells Fargo](../companies/wells-fargo.md) | 5/8 | quant, software-engineering |
 | [Western & Southern Financial Group](../companies/western-southern-financial-group.md) | 5/5 | data-engineering, software-engineering |
 | [Western Aircraft](../companies/western-aircraft.md) | 0/1 | software-engineering |
 | [Western Digital](../companies/western-digital.md) | 2/4 | hardware, software-engineering |

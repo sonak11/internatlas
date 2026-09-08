@@ -6,7 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
-| TSC | [Robotics Intern](https://tsc.wd12.myworkdayjobs.com/en-US/TSC-Careers/job/Washington-DC---Naval-Research-Laboratory/Robotics-Intern_JR2713) | Washington, DC | Onsite | 2026-08-04 | Rolling | 🟢 Open | ❔ |
+| TSC | [Robotics Intern](https://tsc.wd12.myworkdayjobs.com/en-US/TSC-Careers/job/Washington-DC---Naval-Research-Laboratory/Robotics-Intern_JR2713) | Washington, DC | Onsite | 2026-08-04 | Rolling | 🔴 Closed | ❔ |
 
 ## Related
 

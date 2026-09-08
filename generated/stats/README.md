@@ -74,6 +74,7 @@ _Generated 2026-09-08_
 
 - 1X — CNC Machine Park Intern
 - Abridge — Software Engineer Intern
+- Abundant — Member of Technical Staff Intern - Research
 - Advanced Robotics for Manufacturing — Mechanical Engineer Co-op Intern
 - Air Products — Information Technology/Digital Technology Intern - Infrastructure Services
 - Alayacare — Full-Stack Developer Intern - Python
@@ -90,6 +91,7 @@ _Generated 2026-09-08_
 - American Institutes for Research — Data Science Intern
 - Amgen — Operations Graduate Program Intern - Operations
 - Analysis Group — Research Professional Intern - Generalist
+- AnaVation — Computer Science Intern
 - Anheuser-Busch — Technology Intern
 - Aptiv — Engineering Intern
 - Argonne National Laboratory — Business Systems Administration Internship
@@ -576,6 +578,7 @@ _Generated 2026-09-08_
 - Quantbot Technologies — Quantitative Developer Intern
 - QuEra Computing — Photonics Data Engineer Intern - Data Management
 - Ramp — Software Engineer Internship, Android
+- RapDev — ServiceNow Engineer Intern
 - Red Bull — Academy Scouting Intern - Academy Scout
 - Red Bull — Data Science Intern - Data Science
 - Replit — Software Engineer Intern - Summer 2027
@@ -766,6 +769,7 @@ _Generated 2026-09-08_
 - Trillium — Equity Trader Intern
 - True Anomaly — GSE Engineering Intern
 - TRUMPF — Application Engineer Intern/Co-op
+- TSC — Robotics Intern
 - Turabify — AI Automation Intern
 - Two Six Technologies — SkillBridge Fellow Intern - Multiple Teams
 - U.S. Venture — Data Science Intern - Breakthrough
@@ -792,6 +796,7 @@ _Generated 2026-09-08_
 - W.W. Grainger — Business Systems Analyst Intern
 - Wabtec — Digital Intern
 - Wabtec — Engineering Intern
+- Wells Fargo — Applied Computational Intelligence Intern - ACI Masters - Early Careers
 - Western Aircraft — Electrical Engineer Intern
 - Wex — Artificial Intelligence Intern - AI/ML/NLP Engineer
 - WhiteWater Midstream — Trading Operations Intern - Summer 2027
