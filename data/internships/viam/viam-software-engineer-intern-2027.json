@@ -1,20 +1,19 @@
 {
   "schema_version": "1.0",
-  "id": "datadog-software-engineering-intern-summer-2027",
+  "id": "viam-software-engineer-intern-2027",
   "company": {
-    "name": "Datadog",
-    "slug": "datadog",
-    "career_page": "https://careers.datadoghq.com/"
+    "name": "Viam",
+    "slug": "viam"
   },
-  "role": "Software Engineering Intern (Summer)",
+  "role": "Software Engineer Intern",
   "category": "software-engineering",
-  "apply_url": "https://careers.datadoghq.com/detail/8052118/?gh_jid=8052118",
+  "apply_url": "https://job-boards.greenhouse.io/viamrobotics/jobs/6185046004",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Boston",
+      "city": "NYC",
       "country": "USA"
     }
   ],
@@ -25,7 +24,9 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "masters"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -47,6 +48,6 @@
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:ats"
+    "src:simplify"
   ]
 }
