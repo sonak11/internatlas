@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "united-airlines-sales-product-intern-2027",
+  "id": "united-launch-alliance-software-engineer-intern-2027",
   "company": {
-    "name": "United Airlines",
-    "slug": "united-airlines"
+    "name": "United Launch Alliance",
+    "slug": "united-launch-alliance"
   },
-  "role": "Sales Product Intern",
+  "role": "Software Engineer Intern",
   "category": "software-engineering",
-  "apply_url": "https://careers.united.com/us/en/job/WHQ00026558",
+  "apply_url": "https://jobs.ulalaunch.com/job/Centennial-Software-Engineering-Internship-Summer-2027-CO-80112/1427398300/?ats=successfactors",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Chicago",
-      "state": "IL",
+      "city": "Centennial",
+      "state": "CO",
       "country": "USA"
     }
   ],
@@ -40,8 +40,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-01",
-    "discovered": "2026-09-01",
+    "posted": "2026-09-08",
+    "discovered": "2026-09-08",
     "last_verified": "2026-09-08"
   },
   "status": "open",

@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "united-airlines-sales-product-intern-2027",
+  "id": "bjc-healthcare-rpa-automation-intern-2027",
   "company": {
-    "name": "United Airlines",
-    "slug": "united-airlines"
+    "name": "BJC HealthCare",
+    "slug": "bjc-healthcare"
   },
-  "role": "Sales Product Intern",
+  "role": "RPA Automation Intern",
   "category": "software-engineering",
-  "apply_url": "https://careers.united.com/us/en/job/WHQ00026558",
+  "apply_url": "https://jobs.bjc.org/jobs/116509?icims=1",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Chicago",
-      "state": "IL",
+      "city": "St. Louis",
+      "state": "MO",
       "country": "USA"
     }
   ],
@@ -40,8 +40,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-01",
-    "discovered": "2026-09-01",
+    "posted": "2026-09-08",
+    "discovered": "2026-09-08",
     "last_verified": "2026-09-08"
   },
   "status": "open",

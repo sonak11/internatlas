@@ -1,21 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "united-airlines-sales-product-intern-2027",
+  "id": "bny-product-management-intern-product-management-2027-53ce70",
   "company": {
-    "name": "United Airlines",
-    "slug": "united-airlines"
+    "name": "BNY",
+    "slug": "bny"
   },
-  "role": "Sales Product Intern",
-  "category": "software-engineering",
-  "apply_url": "https://careers.united.com/us/en/job/WHQ00026558",
+  "role": "Product Management Intern - Product Management",
+  "category": "product",
+  "apply_url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81922",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Chicago",
-      "state": "IL",
-      "country": "USA"
+      "city": "London",
+      "country": "UK"
     }
   ],
   "compensation": {
@@ -40,8 +39,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-01",
-    "discovered": "2026-09-01",
+    "posted": "2026-09-08",
+    "discovered": "2026-09-08",
     "last_verified": "2026-09-08"
   },
   "status": "open",

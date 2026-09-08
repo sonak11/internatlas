@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "united-airlines-sales-product-intern-2027",
+  "id": "datadog-product-management-intern-2027-762318",
   "company": {
-    "name": "United Airlines",
-    "slug": "united-airlines"
+    "name": "Datadog",
+    "slug": "datadog",
+    "career_page": "https://careers.datadoghq.com/"
   },
-  "role": "Sales Product Intern",
-  "category": "software-engineering",
-  "apply_url": "https://careers.united.com/us/en/job/WHQ00026558",
+  "role": "Product Management Intern",
+  "category": "product",
+  "apply_url": "https://careers.datadoghq.com/detail/8143729/?gh_jid=8143729",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Chicago",
-      "state": "IL",
+      "city": "Paris",
       "country": "USA"
     }
   ],
@@ -40,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-01",
-    "discovered": "2026-09-01",
+    "posted": "2026-09-08",
+    "discovered": "2026-09-08",
     "last_verified": "2026-09-08"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:ats"
   ]
 }

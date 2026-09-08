@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "united-airlines-sales-product-intern-2027",
+  "id": "rtx-electrical-engineer-intern-summer-2027-2027-9b93b7",
   "company": {
-    "name": "United Airlines",
-    "slug": "united-airlines"
+    "name": "RTX",
+    "slug": "rtx"
   },
-  "role": "Sales Product Intern",
+  "role": "Electrical Engineer Intern - Summer 2027",
   "category": "software-engineering",
-  "apply_url": "https://careers.united.com/us/en/job/WHQ00026558",
+  "apply_url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Electrical-Engineering-Internship--Summer-2027-_01868409",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Chicago",
-      "state": "IL",
+      "city": "Cedar Rapids",
+      "state": "IA",
       "country": "USA"
     }
   ],
@@ -25,7 +25,9 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "masters"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -41,7 +43,7 @@
   },
   "dates": {
     "posted": "2026-09-01",
-    "discovered": "2026-09-01",
+    "discovered": "2026-09-08",
     "last_verified": "2026-09-08"
   },
   "status": "open",

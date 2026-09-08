@@ -1,6 +1,6 @@
 {
   "generated": "2026-09-08",
-  "count": 3809,
+  "count": 3821,
   "internships": [
     {
       "schema_version": "1.0",
@@ -15493,6 +15493,68 @@
     },
     {
       "schema_version": "1.0",
+      "id": "apple-gpu-intern-multiple-teams-2026",
+      "company": {
+        "name": "Apple",
+        "slug": "apple"
+      },
+      "role": "GPU Intern - Multiple Teams",
+      "category": "software-engineering",
+      "apply_url": "https://jobs.apple.com/en-us/details/200682357",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "London",
+          "country": "UK"
+        },
+        {
+          "city": "Cambridge",
+          "country": "UK"
+        },
+        {
+          "city": "St Albans",
+          "country": "UK"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters",
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-08",
+        "discovered": "2026-09-08",
+        "last_verified": "2026-09-08"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "apple-software-engineer-intern-undergrad-2027",
       "company": {
         "name": "Apple",
@@ -23287,6 +23349,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "bjc-healthcare-rpa-automation-intern-2027",
+      "company": {
+        "name": "BJC HealthCare",
+        "slug": "bjc-healthcare"
+      },
+      "role": "RPA Automation Intern",
+      "category": "software-engineering",
+      "apply_url": "https://jobs.bjc.org/jobs/116509?icims=1",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "St. Louis",
+          "state": "MO",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-08",
+        "discovered": "2026-09-08",
+        "last_verified": "2026-09-08"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "black-cape-software-engineer-intern-2026",
       "company": {
         "name": "Black Cape",
@@ -24888,6 +25002,57 @@
       "dates": {
         "posted": "2026-08-24",
         "discovered": "2026-08-24",
+        "last_verified": "2026-09-08"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "bny-product-management-intern-product-management-2027-53ce70",
+      "company": {
+        "name": "BNY",
+        "slug": "bny"
+      },
+      "role": "Product Management Intern - Product Management",
+      "category": "product",
+      "apply_url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81922",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "London",
+          "country": "UK"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-08",
+        "discovered": "2026-09-08",
         "last_verified": "2026-09-08"
       },
       "status": "open",
@@ -35513,7 +35678,7 @@
         "discovered": "2026-08-07",
         "last_verified": "2026-09-08"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -49281,6 +49446,162 @@
     },
     {
       "schema_version": "1.0",
+      "id": "datadog-applied-science-intern-2027",
+      "company": {
+        "name": "Datadog",
+        "slug": "datadog",
+        "career_page": "https://careers.datadoghq.com/"
+      },
+      "role": "Applied Science Intern",
+      "category": "software-engineering",
+      "apply_url": "https://careers.datadoghq.com/detail/8181440/?gh_jid=8181440",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Paris",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-08",
+        "discovered": "2026-09-08",
+        "last_verified": "2026-09-08"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "datadog-it-support-technician-intern-2027",
+      "company": {
+        "name": "Datadog",
+        "slug": "datadog",
+        "career_page": "https://careers.datadoghq.com/"
+      },
+      "role": "IT Support Technician Intern",
+      "category": "software-engineering",
+      "apply_url": "https://careers.datadoghq.com/detail/8129799/?gh_jid=8129799",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Paris",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-08",
+        "discovered": "2026-09-08",
+        "last_verified": "2026-09-08"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "datadog-product-management-intern-2027-762318",
+      "company": {
+        "name": "Datadog",
+        "slug": "datadog",
+        "career_page": "https://careers.datadoghq.com/"
+      },
+      "role": "Product Management Intern",
+      "category": "product",
+      "apply_url": "https://careers.datadoghq.com/detail/8143729/?gh_jid=8143729",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Paris",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-08",
+        "discovered": "2026-09-08",
+        "last_verified": "2026-09-08"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "datadog-product-management-intern-2027",
       "company": {
         "name": "Datadog",
@@ -49402,6 +49723,110 @@
     },
     {
       "schema_version": "1.0",
+      "id": "datadog-software-engineering-intern-2027-97ef48",
+      "company": {
+        "name": "Datadog",
+        "slug": "datadog",
+        "career_page": "https://careers.datadoghq.com/"
+      },
+      "role": "Software Engineering Intern",
+      "category": "software-engineering",
+      "apply_url": "https://careers.datadoghq.com/detail/8114161/?gh_jid=8114161",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Madrid",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-08",
+        "discovered": "2026-09-08",
+        "last_verified": "2026-09-08"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "datadog-software-engineering-intern-2027-bd34f5",
+      "company": {
+        "name": "Datadog",
+        "slug": "datadog",
+        "career_page": "https://careers.datadoghq.com/"
+      },
+      "role": "Software Engineering Intern",
+      "category": "software-engineering",
+      "apply_url": "https://careers.datadoghq.com/detail/8114186/?gh_jid=8114186",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Paris",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-08",
+        "discovered": "2026-09-08",
+        "last_verified": "2026-09-08"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "datadog-software-engineering-intern-2027",
       "company": {
         "name": "Datadog",
@@ -49455,6 +49880,58 @@
       "tags": [
         "auto-ingested",
         "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "datadog-software-engineering-intern-summer-2027",
+      "company": {
+        "name": "Datadog",
+        "slug": "datadog",
+        "career_page": "https://careers.datadoghq.com/"
+      },
+      "role": "Software Engineering Intern (Summer)",
+      "category": "software-engineering",
+      "apply_url": "https://careers.datadoghq.com/detail/8052118/?gh_jid=8052118",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Boston",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-08",
+        "discovered": "2026-09-08",
+        "last_verified": "2026-09-08"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
       ]
     },
     {
@@ -69210,9 +69687,9 @@
       "dates": {
         "posted": "2026-09-01",
         "discovered": "2026-09-01",
-        "last_verified": "2026-09-02"
+        "last_verified": "2026-09-08"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -70437,7 +70914,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-09-08"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -70490,7 +70967,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-08"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -70595,7 +71072,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-08"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -70647,7 +71124,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-08"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -70701,7 +71178,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-08"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -70752,7 +71229,7 @@
         "discovered": "2026-09-06",
         "last_verified": "2026-09-08"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -70857,7 +71334,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-08"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -70908,7 +71385,7 @@
         "discovered": "2026-09-05",
         "last_verified": "2026-09-08"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -71011,7 +71488,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-08"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -71062,7 +71539,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-08"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -71218,7 +71695,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-08"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -71269,57 +71746,6 @@
       "dates": {
         "posted": "2026-08-15",
         "discovered": "2026-09-04",
-        "last_verified": "2026-09-08"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "goldman-sachs-summer-analyst-intern-engineering-2027-324b6c",
-      "company": {
-        "name": "Goldman Sachs",
-        "slug": "goldman-sachs"
-      },
-      "role": "Summer Analyst Intern - Engineering",
-      "category": "software-engineering",
-      "apply_url": "https://higher.gs.com/roles/170644?type=students",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "London",
-          "country": "UK"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-08-15",
-        "discovered": "2026-09-05",
         "last_verified": "2026-09-08"
       },
       "status": "open",
@@ -71445,13 +71871,13 @@
       },
       "role": "Summer Analyst Intern - Engineering",
       "category": "software-engineering",
-      "apply_url": "https://higher.gs.com/roles/170637?type=students",
+      "apply_url": "https://higher.gs.com/roles/170644?type=students",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
       "locations": [
         {
-          "city": "Birmingham",
+          "city": "London",
           "country": "UK"
         }
       ],
@@ -71794,7 +72220,7 @@
         "discovered": "2026-08-29",
         "last_verified": "2026-09-08"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -79717,6 +80143,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "id-me-product-intern-2027",
+      "company": {
+        "name": "ID.me",
+        "slug": "id-me"
+      },
+      "role": "Product Intern",
+      "category": "software-engineering",
+      "apply_url": "https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7986695003",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Mountain View",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-08",
+        "discovered": "2026-09-08",
+        "last_verified": "2026-09-08"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "id-me-software-development-engineer-intern-2027",
       "company": {
         "name": "ID.me",
@@ -82526,7 +83004,7 @@
       },
       "role": "Quantitative Researcher Intern - Summer 2027",
       "category": "quant",
-      "apply_url": "https://jobs.smartrecruiters.com/InfiniteQuant/744000145264634",
+      "apply_url": "https://jobs.smartrecruiters.com/InfiniteQuant/744000143307421",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
@@ -82565,7 +83043,7 @@
         "resume_keywords": []
       },
       "dates": {
-        "posted": "2026-08-24",
+        "posted": "2026-08-13",
         "discovered": "2026-08-10",
         "last_verified": "2026-09-08"
       },
@@ -83918,7 +84396,7 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-09-08"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -107853,7 +108331,7 @@
         "discovered": "2026-08-04",
         "last_verified": "2026-09-08"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -109512,7 +109990,7 @@
         "discovered": "2026-09-05",
         "last_verified": "2026-09-08"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -119746,7 +120224,7 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-09-08"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -123236,9 +123714,9 @@
       "dates": {
         "posted": "2026-08-21",
         "discovered": "2026-08-21",
-        "last_verified": "2026-09-04"
+        "last_verified": "2026-09-08"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -145776,9 +146254,9 @@
       "dates": {
         "posted": "2026-08-17",
         "discovered": "2026-08-18",
-        "last_verified": "2026-09-03"
+        "last_verified": "2026-09-08"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -146301,7 +146779,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-08"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -146514,6 +146992,60 @@
       "dates": {
         "posted": "2026-09-01",
         "discovered": "2026-09-04",
+        "last_verified": "2026-09-08"
+      },
+      "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "rtx-electrical-engineer-intern-summer-2027-2027-9b93b7",
+      "company": {
+        "name": "RTX",
+        "slug": "rtx"
+      },
+      "role": "Electrical Engineer Intern - Summer 2027",
+      "category": "software-engineering",
+      "apply_url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Electrical-Engineering-Internship--Summer-2027-_01868409",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Cedar Rapids",
+          "state": "IA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-01",
+        "discovered": "2026-09-08",
         "last_verified": "2026-09-08"
       },
       "status": "open",
@@ -194363,7 +194895,7 @@
         "discovered": "2026-09-05",
         "last_verified": "2026-09-08"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -194425,6 +194957,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "united-airlines-onboard-experience-intern-summer-2027-2027",
+      "company": {
+        "name": "United Airlines",
+        "slug": "united-airlines"
+      },
+      "role": "Onboard Experience Intern - Summer 2027",
+      "category": "software-engineering",
+      "apply_url": "https://careers.united.com/us/en/job/WHQ00026534",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Chicago",
+          "state": "IL",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-01",
+        "discovered": "2026-09-08",
+        "last_verified": "2026-09-08"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "united-airlines-operations-data-analytics-intern-summer-2027-2027",
       "company": {
         "name": "United Airlines",
@@ -194469,7 +195053,7 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-09-08"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -194677,9 +195261,9 @@
       "dates": {
         "posted": "2026-09-01",
         "discovered": "2026-09-01",
-        "last_verified": "2026-09-03"
+        "last_verified": "2026-09-08"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -194729,6 +195313,58 @@
       "dates": {
         "posted": "2026-09-01",
         "discovered": "2026-09-03",
+        "last_verified": "2026-09-08"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "united-launch-alliance-software-engineer-intern-2027",
+      "company": {
+        "name": "United Launch Alliance",
+        "slug": "united-launch-alliance"
+      },
+      "role": "Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://jobs.ulalaunch.com/job/Centennial-Software-Engineering-Internship-Summer-2027-CO-80112/1427398300/?ats=successfactors",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Centennial",
+          "state": "CO",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-08",
+        "discovered": "2026-09-08",
         "last_verified": "2026-09-08"
       },
       "status": "open",

@@ -1,20 +1,21 @@
 {
   "schema_version": "1.0",
-  "id": "goldman-sachs-summer-analyst-intern-engineering-2027-324b6c",
+  "id": "datadog-applied-science-intern-2027",
   "company": {
-    "name": "Goldman Sachs",
-    "slug": "goldman-sachs"
+    "name": "Datadog",
+    "slug": "datadog",
+    "career_page": "https://careers.datadoghq.com/"
   },
-  "role": "Summer Analyst Intern - Engineering",
+  "role": "Applied Science Intern",
   "category": "software-engineering",
-  "apply_url": "https://higher.gs.com/roles/170644?type=students",
+  "apply_url": "https://careers.datadoghq.com/detail/8181440/?gh_jid=8181440",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "London",
-      "country": "UK"
+      "city": "Paris",
+      "country": "USA"
     }
   ],
   "compensation": {
@@ -39,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-15",
-    "discovered": "2026-09-05",
+    "posted": "2026-09-08",
+    "discovered": "2026-09-08",
     "last_verified": "2026-09-08"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:ats"
   ]
 }

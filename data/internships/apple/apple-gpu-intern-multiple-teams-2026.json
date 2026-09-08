@@ -1,21 +1,28 @@
 {
   "schema_version": "1.0",
-  "id": "united-airlines-sales-product-intern-2027",
+  "id": "apple-gpu-intern-multiple-teams-2026",
   "company": {
-    "name": "United Airlines",
-    "slug": "united-airlines"
+    "name": "Apple",
+    "slug": "apple"
   },
-  "role": "Sales Product Intern",
+  "role": "GPU Intern - Multiple Teams",
   "category": "software-engineering",
-  "apply_url": "https://careers.united.com/us/en/job/WHQ00026558",
-  "season": "summer",
-  "year": 2027,
+  "apply_url": "https://jobs.apple.com/en-us/details/200682357",
+  "season": "fall",
+  "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Chicago",
-      "state": "IL",
-      "country": "USA"
+      "city": "London",
+      "country": "UK"
+    },
+    {
+      "city": "Cambridge",
+      "country": "UK"
+    },
+    {
+      "city": "St Albans",
+      "country": "UK"
     }
   ],
   "compensation": {
@@ -25,7 +32,10 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "masters",
+      "phd"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -40,8 +50,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-01",
-    "discovered": "2026-09-01",
+    "posted": "2026-09-08",
+    "discovered": "2026-09-08",
     "last_verified": "2026-09-08"
   },
   "status": "open",
