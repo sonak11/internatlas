@@ -1,20 +1,21 @@
 {
   "schema_version": "1.0",
-  "id": "goldman-sachs-quantitative-strategist-intern-multiple-teams-2027-323368",
+  "id": "vercel-software-engineering-intern-summer-27-2027",
   "company": {
-    "name": "Goldman Sachs",
-    "slug": "goldman-sachs"
+    "name": "Vercel",
+    "slug": "vercel",
+    "career_page": "https://vercel.com/careers"
   },
-  "role": "Quantitative Strategist Intern - Multiple Teams",
-  "category": "quant",
-  "apply_url": "https://higher.gs.com/roles/175424?type=students",
+  "role": "Software Engineering Intern - Summer '27",
+  "category": "software-engineering",
+  "apply_url": "https://job-boards.greenhouse.io/vercel/jobs/6181759004",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "London",
-      "country": "UK"
+      "city": "Hybrid",
+      "country": "USA"
     }
   ],
   "compensation": {
@@ -39,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-15",
-    "discovered": "2026-09-05",
+    "posted": "2026-09-08",
+    "discovered": "2026-09-08",
     "last_verified": "2026-09-08"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:ats"
   ]
 }

@@ -7,14 +7,13 @@
   },
   "role": "Quantitative Strategist Intern - Americas - The Core Quantitative Strats",
   "category": "quant",
-  "apply_url": "https://higher.gs.com/roles/171534?type=students",
+  "apply_url": "https://higher.gs.com/roles/171533?type=students",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Dallas",
-      "state": "TX",
+      "city": "NYC",
       "country": "USA"
     }
   ],
@@ -46,7 +45,7 @@
     "discovered": "2026-09-04",
     "last_verified": "2026-09-08"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

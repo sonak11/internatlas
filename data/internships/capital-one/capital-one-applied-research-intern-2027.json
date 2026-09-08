@@ -1,20 +1,29 @@
 {
   "schema_version": "1.0",
-  "id": "tenstorrent-software-engineer-intern-power-modeling-ai-tools-2027",
+  "id": "capital-one-applied-research-intern-2027",
   "company": {
-    "name": "Tenstorrent",
-    "slug": "tenstorrent"
+    "name": "Capital One",
+    "slug": "capital-one"
   },
-  "role": "Software Engineer Intern - Power Modeling & AI Tools",
-  "category": "ai",
-  "apply_url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5186916007",
-  "season": "winter",
+  "role": "Applied Research Intern",
+  "category": "research",
+  "apply_url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Current-PhD--Applied-Research-Internship-Program---Summer-2027_R244323-1",
+  "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Santa Clara",
+      "city": "San Jose",
       "state": "CA",
+      "country": "USA"
+    },
+    {
+      "city": "McLean",
+      "state": "VA",
+      "country": "USA"
+    },
+    {
+      "city": "NYC",
       "country": "USA"
     }
   ],
@@ -25,10 +34,12 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "phd"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
-    "visa_sponsorship": "yes"
+    "visa_sponsorship": "unknown"
   },
   "interview": {},
   "tech": {
@@ -40,8 +51,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-23",
-    "discovered": "2026-07-24",
+    "posted": "2026-09-08",
+    "discovered": "2026-09-08",
     "last_verified": "2026-09-08"
   },
   "status": "open",

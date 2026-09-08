@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "goldman-sachs-quantitative-strategist-intern-asset-and-wealth-management-q-2027-0ac951",
+  "id": "intact-software-developer-1-co-op-intern-2027",
   "company": {
-    "name": "Goldman Sachs",
-    "slug": "goldman-sachs"
+    "name": "Intact",
+    "slug": "intact"
   },
-  "role": "Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats",
-  "category": "quant",
-  "apply_url": "https://higher.gs.com/roles/175421?type=students",
-  "season": "summer",
+  "role": "Software Developer 1 Co-op Intern",
+  "category": "software-engineering",
+  "apply_url": "https://intactfc.wd3.myworkdayjobs.com/en-US/intactfc/job/Toronto-Ontario-CAN/Software-Developer-I---4-Month-Co-op-Internship--Winter-2027-_R155112",
+  "season": "winter",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "London",
-      "country": "UK"
+      "city": "Toronto",
+      "country": "ON"
     }
   ],
   "compensation": {
@@ -24,7 +24,9 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "masters"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -39,11 +41,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-15",
-    "discovered": "2026-09-06",
+    "posted": "2026-09-08",
+    "discovered": "2026-09-08",
     "last_verified": "2026-09-08"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

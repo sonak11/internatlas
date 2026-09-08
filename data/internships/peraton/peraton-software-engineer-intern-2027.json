@@ -1,0 +1,57 @@
+{
+  "schema_version": "1.0",
+  "id": "peraton-software-engineer-intern-2027",
+  "company": {
+    "name": "Peraton",
+    "slug": "peraton"
+  },
+  "role": "Software Engineer Intern",
+  "category": "software-engineering",
+  "apply_url": "https://careers-peraton.icims.com/jobs/169665/job?mobile=true&needsRedirect=false",
+  "season": "summer",
+  "year": 2027,
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "Blacksburg",
+      "state": "VA",
+      "country": "USA"
+    },
+    {
+      "city": "Herndon",
+      "state": "VA",
+      "country": "USA"
+    }
+  ],
+  "compensation": {
+    "currency": "USD",
+    "housing_stipend": false,
+    "relocation_assistance": false
+  },
+  "eligibility": {
+    "graduation_years": [],
+    "degree_levels": [],
+    "citizenship_required": false,
+    "security_clearance_required": false,
+    "visa_sponsorship": "unknown"
+  },
+  "interview": {},
+  "tech": {
+    "required_skills": [],
+    "preferred_skills": [],
+    "languages": [],
+    "frameworks": [],
+    "cloud_platforms": [],
+    "resume_keywords": []
+  },
+  "dates": {
+    "posted": "2026-09-08",
+    "discovered": "2026-09-08",
+    "last_verified": "2026-09-08"
+  },
+  "status": "open",
+  "tags": [
+    "auto-ingested",
+    "src:simplify"
+  ]
+}
