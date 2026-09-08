@@ -10,7 +10,7 @@ _Generated 2026-09-08_
 |---|---|
 | TikTok | 166 |
 | Tesla | 157 |
-| RTX | 93 |
+| RTX | 94 |
 | ByteDance | 69 |
 | American Express | 62 |
 | AMD | 61 |
@@ -21,9 +21,9 @@ _Generated 2026-09-08_
 | Booz Allen | 38 |
 | Cloudflare | 33 |
 | NVIDIA | 33 |
-| Goldman Sachs | 32 |
-| Marvell | 31 |
+| Marvell | 32 |
 | The Walt Disney Company | 31 |
+| Goldman Sachs | 30 |
 | Bank of Montreal | 29 |
 | Zipline | 29 |
 | Shure | 28 |
@@ -33,14 +33,14 @@ _Generated 2026-09-08_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 2198 | `███████████████` |
+| software-engineering | 2216 | `███████████████` |
 | ai | 309 | `██` |
-| quant | 266 | `██` |
-| machine-learning | 175 | `█` |
+| quant | 265 | `██` |
+| machine-learning | 176 | `█` |
 | hardware | 146 | `█` |
-| research | 133 | `█` |
-| data-science | 113 | `█` |
-| product | 113 | `█` |
+| research | 134 | `█` |
+| product | 119 | `█` |
+| data-science | 118 | `█` |
 | design | 103 | `█` |
 | embedded | 92 | `█` |
 | data-engineering | 58 | `█` |
@@ -49,26 +49,26 @@ _Generated 2026-09-08_
 
 ## Newest listings
 
-- 2026-09-07 — **Bank of Montreal**: [Business Analyst Co-op Intern - Data and Change Management](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Business-Analyst--Data-and-Change-Management---Winter-2027--Co-op-Internship----4-Months_R260024737-2)
-- 2026-09-07 — **Bank of Montreal**: [Business Analyst Co-op Intern - Data and Change Management](https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Business-Analyst--Data-and-Change-Management---Winter-2027--Co-op-Internship----4-Months_R260024737-1)
-- 2026-09-07 — **Bank of Montreal**: [Climate Risk Reporting Analyst Co-op Intern - Winter 2027 - 4 Months](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Climate-Risk-Reporting-Analyst--Winter-2027--Co-op-Internship----4-Months_R260024768-1)
-- 2026-09-07 — **Bank of Montreal**: [Climate Risk Reporting Analyst Co-op Intern - Winter 2027 - 4 Months](https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Climate-Risk-Reporting-Analyst--Winter-2027--Co-op-Internship----4-Months_R260024768-2)
-- 2026-09-07 — **Bank of Montreal**: [Data Science Analyst Co-op Intern - Audit AI & Analytics](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Data-Science-Analyst---Audit-AI---Analytics--Winter-2027--Co-op-Internship----4-Months_R260024761-1)
-- 2026-09-07 — **Bank of Montreal**: [Data Science Analyst Co-op Intern - Audit AI & Analytics](https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Data-Science-Analyst---Audit-AI---Analytics--Winter-2027--Co-op-Internship----4-Months_R260024761-2)
-- 2026-09-07 — **Bank of Montreal**: [Data Science Risk Analyst Co-op Intern](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Data-Science-Risk-Analyst--Winter-2027--Co-op-Internship----4-Months_R260024735-1)
-- 2026-09-07 — **Bank of Montreal**: [Data Science Risk Analyst Co-op Intern](https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Data-Science-Risk-Analyst--Winter-2027--Co-op-Internship----4-Months_R260024735-2)
-- 2026-09-07 — **Brevan Howard**: [Trading Intern - Trading](https://wd3.myworkdaysite.com/recruiting/brevanhoward/BH_ExternalCareers/job/New-York/XMLNAME-2027-Summer-Internship-Program---Trading--New-York_JR101583)
-- 2026-09-07 — **Dropbox**: [Software Engineer Intern - Summer 2027](https://boards.greenhouse.io/embed/job_app?token=8106224)
-- 2026-09-07 — **Dropbox**: [Software Engineering Intern (Summer 2027)](https://jobs.dropbox.com/listing/8106224?gh_jid=8106224)
-- 2026-09-07 — **Entrust**: [Software Developer Intern](https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/Canada---Ottawa/Intern---Software-Developer---8-months-Hybrid-in-Ottawa_R004358)
-- 2026-09-07 — **Ernst & Young**: [Data and Intelligence Delivery Intern - Assurance](https://eyglobal.yello.co/jobs/Ps6DR65DB3hhb_XrmIxQjA?job_board_id=c1riT--B2O-KySgYWsZO1Q)
-- 2026-09-07 — **ICF International**: [Software Developer Intern](https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Software-Developer--Reston--VA-_R2603002)
-- 2026-09-07 — **incident.io**: [Product Engineer Intern](https://jobs.ashbyhq.com/incident/35461290-c0fe-449a-bed4-5ee873f868fd/application?embed=true)
-- 2026-09-07 — **Marsh & McLennan**: [Data & Analytics Intern - Data & Analytics](https://mmc.wd1.myworkdayjobs.com/mmc/job/Newcastle---Bank/Oliver-Wyman---Data---Analytics-Summer-Internship-2027---Newcastle_R_364984-1)
-- 2026-09-07 — **NXP Semiconductors**: [AI/ML ASIC Design and Implementation Automation Intern - Summer 2027](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/San-Diego-Treena-St/AI-ML-ASIC-Design-and-Implementation-Automation-Intern---Summer-2027_R-10065562)
-- 2026-09-07 — **NXP Semiconductors**: [Analog Validation Intern - Summer 2027](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Analog-Validation-Intern---Summer-2027_R-10065558)
-- 2026-09-07 — **NXP Semiconductors**: [Data Analytics Engineer Intern - Summer 2027](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Data-Analytics-Engineer-Intern---Summer-2027_R-10065538)
-- 2026-09-07 — **NXP Semiconductors**: [Data Science / Structured Problem Solving Intern - Summer 2027](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Ed-Bluestein-Office/Data-Science---Structured-Problem-Solving-Intern---Summer-2027_R-10065037)
+- 2026-09-08 — **Cox**: [Data Scientist Intern](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Data-Scientist-Intern---Summer-2027--Atlanta--GA-_R202682164)
+- 2026-09-08 — **Cox**: [Product Management Intern - Summer 2027](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Burlington-VT/Product-Management-Intern---Summer-2027--Burlington--VT-_R202682191)
+- 2026-09-08 — **Cox**: [Product Management Intern - Summer 2027](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Draper-UT/Product-Management-Intern---Summer-2027--Draper--UT-_R202682188)
+- 2026-09-08 — **Cox**: [Product Management Intern - Summer 2027](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Long-Island-NY/Product-Management-Intern---Summer-2027--North-Hills--NY-_R202682185)
+- 2026-09-08 — **Cox**: [Product Management Intern - Summer 2027](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Product-Management-Intern---Summer-2027--Atlanta--GA-_R202682174)
+- 2026-09-08 — **Dick's Sporting Goods**: [Product Management Intern - Corporate Internship](https://dickssportinggoods.wd1.myworkdayjobs.com/en-US/DSG/job/Customer-Support-Center/Product-Management---Summer-2027-Corporate-Internship_202608791-1)
+- 2026-09-08 — **Dick's Sporting Goods**: [Retail Analytics Intern - Corporate Internship](https://dickssportinggoods.wd1.myworkdayjobs.com/en-US/DSG/job/Customer-Support-Center/Retail-Analytics---Summer-2027-Corporate-Internship_202608785-1)
+- 2026-09-08 — **Dick's Sporting Goods**: [Software Engineer Intern - Corporate Internship](https://dickssportinggoods.wd1.myworkdayjobs.com/en-US/DSG/job/Customer-Support-Center/Software-Engineering---Summer-2027-Corporate-Internship_202608792-1)
+- 2026-09-08 — **Lumentum**: [Optical Verification Engineer Intern Co-op](https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Optical-Verification-Engineer-Co-op-Intern_20261193)
+- 2026-09-08 — **Merck**: [Business Intelligence Intern - Research Lab](https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Pennsylvania---North-Wales-Upper-Gwynedd/XMLNAME-2027-Future-Talent-Program---Business-Intelligence---Intern_R412411)
+- 2026-09-08 — **Merck**: [Computational Toxicology Intern - AI/ML Computational Toxicology](https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---AI-ML-Computational-Toxicology---Intern_R412871)
+- 2026-09-08 — **Merck**: [Data Scientist Intern - Nonclinical Drug Safety](https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Massachusetts---Boston-MA-Parcel-B-Laboratory/XMLNAME-2027-Future-Talent-Program---Nonclinical-Drug-Safety-Data-Scientist---Intern_R412861)
+- 2026-09-08 — **Merck**: [Digital Strategy & Insights Intern - Global Supplier Management Group](https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---New-Jersey---Rahway/XMLNAME-2027-Future-Talent-Program---Global-Supplier-Management-Group-Digital-Strategy---Insights--DS-I----Intern_R416016)
+- 2026-09-08 — **Merck**: [Global Data Management and Standards Intern](https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---New-Jersey---Rahway/XMLNAME-2027-Future-Talent-Program---Global-Data-Management-and-Standards--GDMS----Intern_R412060)
+- 2026-09-08 — **Merck**: [Information Science Intern - Future Talent Program](https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---New-Jersey---Rahway/XMLNAME-2027-Future-Talent-Program---Information-Science---Intern_R413651)
+- 2026-09-08 — **Merck**: [Intern](https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---Standardizing-Automation-Scripting-Practices-Through-AI-Enabled-Knowledge-Repository---Intern_R412939)
+- 2026-09-08 — **Merck**: [Medical Data Scientist Intern](https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Pennsylvania---North-Wales-Upper-Gwynedd/XMLNAME-2027-Future-Talent-Program---Medical-Data-Scientist---Intern_R412403)
+- 2026-09-08 — **Merck**: [Optical Imaging Data Science Intern](https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Massachusetts---Boston-MA-Parcel-B-Laboratory/XMLNAME-2027-Future-Talent-Program---Optical-Imaging-Data-Science-Intern---Intern_R412885)
+- 2026-09-08 — **Merck**: [Portfolio Resource Forecasting Intern](https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Pennsylvania---North-Wales-Upper-Gwynedd/XMLNAME-2027-Future-Talent-Program---Portfolio-Resource-Forecasting---Intern_R414068)
+- 2026-09-08 — **RTX**: [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineering-Intern--Summer-2027-_01872097)
 
 ## Recently closed
 
@@ -107,6 +107,7 @@ _Generated 2026-09-08_
 - Axon — Software Engineer Intern
 - Bank of China USA — Data Analytics Audit Intern
 - Bank of Montreal — Client Enablement Analyst Co-op/Intern - Customer Shared Services
+- Bank of Montreal — Investment Intern Co-op - Gam
 - Base Power — Firmware Engineer Intern
 - BerryDunn — Consulting Intern - Healthcare Data Management and Strategy
 - Blackhawk Network Holdings — Technology Intern
@@ -209,6 +210,7 @@ _Generated 2026-09-08_
 - Corning — Digital & IT Intern - Analyst - Machine Learning
 - Corning — Optical Fiber and Cable Engineer Intern - Summer 2027
 - Corning — Raw Material Engineering Intern - Summer 2027
+- Cox — Software Engineer Intern - Summer 2027
 - Crowe — AI Functional Intern
 - Crowe — AI Functional Intern - Consulting Practice
 - Crowe — D365 ERP Technical Intern - Consulting Practice
@@ -258,6 +260,7 @@ _Generated 2026-09-08_
 - First National Bank — Systems Analyst Intern - Consumer and Commercial Banking Technology
 - Four Hands — Product Development Intern
 - Freddie Mac — Capital Markets Intern - Summer 2027
+- Freddie Mac — Multifamily Digital Product Analysis Intern - Summer 2027
 - Freeform — Materials Engineer Intern
 - GE Aerospace — Digital Technology Intern - Multiple Teams
 - GE Aerospace — Digital Technology Intern - Multiple Teams
@@ -274,6 +277,7 @@ _Generated 2026-09-08_
 - GE Vernova — Power Conversion & Storage Engineer Intern/Co-op
 - GE Vernova — Project Engineer Intern - Summer 2027
 - Geico — Artificial Intelligence Applied Research & Machine Learning Intern - PhD
+- Genentech — Machine Learning Intern - OpRegen Machine Learning
 - Generac — Firmware Engineering Intern
 - General Intuition &amp; Medal — Technical Intern and New Grad
 - General Matter — Electrical Engineering Intern
@@ -284,8 +288,14 @@ _Generated 2026-09-08_
 - GlobalFoundries — Robotics and Automation Engineering Intern - Junior
 - GlossGenius — Engineering Intern
 - GlossGenius — Engineering Intern - Summer 2027
+- Goldman Sachs — AWM Product Management Analyst Intern
+- Goldman Sachs — Summer Analyst Intern - Americas - AWM Product Management
 - Goldman Sachs — Summer Analyst Intern - Americas - Engineering
+- Goldman Sachs — Summer Analyst Intern - Engineering
 - Goldman Sachs — Summer Analyst Intern - FICC & Equities - Sales & Trading
+- Goldman Sachs — Summer Analyst Intern - The Core Quantitative Strats
+- Goldman Sachs — Summer Analyst Intern - Wealth Management - Quantitative Finance
+- Goldman Sachs — Summer Associate Intern - Multiple Teams
 - Grant Thornton — AI, Data & Technology Intern - Summer 2027
 - Grant Thornton — AI, Data & Technology Intern - Summer 2027
 - Grant Thornton — AI, Data & Technology Intern - Summer 2027
@@ -328,7 +338,7 @@ _Generated 2026-09-08_
 - IMEG — Innovation Services Intern
 - Incident IQ — Software Engineer Intern
 - InfiniteQuant — Quantitative Developer Intern
-- InfiniteQuant — Quantitative Developer Internship - Summer 2027
+- InfiniteQuant — Quantitative Developer Intern - Summer 2027
 - Innovation Works, Inc. — Scale Prototyping Shop Intern
 - Intact — Investment Analyst Intern Co-op
 - Integra FEC — Data Scientist Intern
@@ -367,6 +377,7 @@ _Generated 2026-09-08_
 - KeyBank — Technology Track Intern - Key Technology and Services
 - Kimley-Horn — GIS Intern
 - Kognitos — Forward Deployed Engineer Intern
+- KPMG — Product Specialist Intern Co-op - Asset Management Digital Solutions
 - KPMG — Software Developer Intern Co-op - Asset Management Digital Solutions - Software Developer
 - KPMG — Technical Consultant Intern Co-op - Global Compliance and Transformation
 - L3Harris Technologies — Artificial Intelligence Intern
@@ -443,6 +454,11 @@ _Generated 2026-09-08_
 - Micron Technology — Thin Films Equipment Engineering Intern - EDE
 - Microsoft — AI Software Engineer Intern
 - Microsoft — AI Software Engineer Intern - Edge
+- Microsoft — Software Engineer: AI/ML & LLM Intern
+- Microsoft — Software Engineer Intern - AI and ML
+- Microsoft — Software Engineer Intern - AI and ML Projects
+- Microsoft — Software Engineer Intern - Cloud & Distributed Backend
+- Microsoft — Software Engineer Intern - Data Platform & Analytics
 - Microsoft — Software Engineer Security & Identity Intern
 - MKS Instruments — Business Intelligence/Data Analytics Intern
 - Montenson — Investment Analyst Intern
@@ -488,6 +504,7 @@ _Generated 2026-09-08_
 - Northwood Space — RF Engineer Intern - Summer Internship
 - Northwood Space — Supply Chain Data & Analytics Intern
 - Novogradac — Junior Analyst Intern
+- NVIDIA — Developer and Performance Technology Intern
 - NVIDIA — Ph.D. Engineering Intern
 - OceanComm — Electronics Technician Intern
 - Oceanus Marine Technologies — Software Engineer Intern
@@ -596,6 +613,7 @@ _Generated 2026-09-08_
 - RTX — Methods Intern - Hot Section Engineering
 - RTX — Modeling, Simulation & Analysis Intern - Summer 2027
 - RTX — PLM Business Analyst Intern - PLM Transformation and Governance
+- RTX — Proactive Engine Performance Monitoring Intern - Proactive DPHM
 - RTX — Product Integrity Tools and Process Improvement Intern
 - RTX — Software Engineer Intern
 - RTX — Software Engineer Intern
@@ -612,8 +630,8 @@ _Generated 2026-09-08_
 - RTX — Software Engineer Intern - Summer 2027
 - RTX — Software Engineer Intern - Summer 2027
 - RTX — Software Engineer Intern - Summer 2027
-- RTX — Software Engineer Intern - Summer 2027
 - RTX — Systems Engineering Intern
+- RTX — Technical Publications Technical Developer Intern - Artificial Intelligence/Machine Learning
 - Scale AI — AI Builder Intern
 - Scale AI — Technical Advisor Specialist (Part-Time Internship)
 - SchoolMint — Marketing Technology & Analytics Intern
@@ -628,6 +646,7 @@ _Generated 2026-09-08_
 - Sony — Account Management & Business Analytics Intern
 - SOTI — Associate Product Manager Intern
 - SOTI — Data Scientist Intern
+- Southwest Airlines — Software Engineer Intern - Multiple Teams
 - Southwest Airlines — Technology Analyst Intern
 - SpreeAI — Machine Learning Engineer Intern - Computer Vision/Multimodal/Generative AI
 - SpreeAI — Mobile Software Engineer Intern - Flagship Apps - iOS / Android / Web
@@ -649,8 +668,6 @@ _Generated 2026-09-08_
 - tarte cosmetics — Product Development Intern
 - TC Energy — Engineering Intern
 - TC Energy — Engineering Intern - Engineering
-- TD Bank — Direct Investing Analytics & Insights Intern Co-op - Winter 2027
-- TD Bank — Direct Investing Intern/Co-op - Winter 2027
 - Techtronic Industries (TTI) — Electrical Engineer Intern
 - Tenstorrent — Design Verification Engineer Intern
 - Tesla — Access Control Systems Integration Engineer Intern - Vehicle Software
@@ -721,6 +738,7 @@ _Generated 2026-09-08_
 - The Walt Disney Company — Systems Software Engineer Intern
 - The Walt Disney Company — Systems Software Engineer Intern
 - Thea Energy — Physics Intern
+- thyssenkrupp — Sustainability Systems Intern
 - TikTok — AI Product Manager Intern - Content Ecosystem
 - TikTok — Client Solutions Intern
 - TikTok — Client Solutions Intern - Global Business Solutions

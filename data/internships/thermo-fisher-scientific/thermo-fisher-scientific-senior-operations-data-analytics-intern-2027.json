@@ -1,0 +1,50 @@
+{
+  "schema_version": "1.0",
+  "id": "thermo-fisher-scientific-senior-operations-data-analytics-intern-2027",
+  "company": {
+    "name": "Thermo Fisher Scientific",
+    "slug": "thermo-fisher-scientific"
+  },
+  "role": "Senior Operations Data Analytics Intern",
+  "category": "software-engineering",
+  "apply_url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Ho-Chi-Minh-City-Vietnam/Sr-Operations-Data-Analytics-Intern_R-01366619",
+  "season": "summer",
+  "year": 2027,
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "country": "USA"
+    }
+  ],
+  "compensation": {
+    "currency": "USD",
+    "housing_stipend": false,
+    "relocation_assistance": false
+  },
+  "eligibility": {
+    "graduation_years": [],
+    "degree_levels": [],
+    "citizenship_required": false,
+    "security_clearance_required": false,
+    "visa_sponsorship": "unknown"
+  },
+  "interview": {},
+  "tech": {
+    "required_skills": [],
+    "preferred_skills": [],
+    "languages": [],
+    "frameworks": [],
+    "cloud_platforms": [],
+    "resume_keywords": []
+  },
+  "dates": {
+    "posted": "2026-09-08",
+    "discovered": "2026-09-08",
+    "last_verified": "2026-09-08"
+  },
+  "status": "open",
+  "tags": [
+    "auto-ingested",
+    "src:simplify"
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "schema_version": "1.0",
+  "id": "dick-s-sporting-goods-product-management-intern-corporate-internship-2027",
+  "company": {
+    "name": "Dick's Sporting Goods",
+    "slug": "dick-s-sporting-goods"
+  },
+  "role": "Product Management Intern - Corporate Internship",
+  "category": "product",
+  "apply_url": "https://dickssportinggoods.wd1.myworkdayjobs.com/en-US/DSG/job/Customer-Support-Center/Product-Management---Summer-2027-Corporate-Internship_202608791-1",
+  "season": "summer",
+  "year": 2027,
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "Pittsburgh",
+      "state": "PA",
+      "country": "USA"
+    }
+  ],
+  "compensation": {
+    "currency": "USD",
+    "housing_stipend": false,
+    "relocation_assistance": false
+  },
+  "eligibility": {
+    "graduation_years": [],
+    "degree_levels": [
+      "masters"
+    ],
+    "citizenship_required": false,
+    "security_clearance_required": false,
+    "visa_sponsorship": "unknown"
+  },
+  "interview": {},
+  "tech": {
+    "required_skills": [],
+    "preferred_skills": [],
+    "languages": [],
+    "frameworks": [],
+    "cloud_platforms": [],
+    "resume_keywords": []
+  },
+  "dates": {
+    "posted": "2026-09-08",
+    "discovered": "2026-09-08",
+    "last_verified": "2026-09-08"
+  },
+  "status": "open",
+  "tags": [
+    "auto-ingested",
+    "src:simplify"
+  ]
+}

@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "microsoft-software-engineer-intern-coreai-2027-7a33f3",
+  "id": "td-bank-commercial-deposits-money-movement-digital-channels-intern-c-2027",
   "company": {
-    "name": "Microsoft",
-    "slug": "microsoft"
+    "name": "TD Bank",
+    "slug": "td-bank"
   },
-  "role": "Software Engineer Intern, CoreAI",
+  "role": "Commercial Deposits – Money Movement & Digital Channels Intern/Co-op - Winter 2027",
   "category": "software-engineering",
-  "apply_url": "https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0",
-  "season": "summer",
+  "apply_url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Commercial-Deposits--Money-Movement---Digital-Channels-Intern-Co-op--Winter-2027-_R_1503532",
+  "season": "winter",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Multiple Locations",
-      "country": "USA"
+      "city": "Toronto",
+      "country": "ON"
     }
   ],
   "compensation": {
@@ -39,13 +39,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-03",
-    "discovered": "2026-09-01",
+    "posted": "2026-09-08",
+    "discovered": "2026-09-08",
     "last_verified": "2026-09-08"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:vanshb03"
+    "src:simplify"
   ]
 }
