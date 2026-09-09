@@ -1,0 +1,59 @@
+{
+  "schema_version": "1.0",
+  "id": "interstates-data-analyst-intern-2027",
+  "company": {
+    "name": "Interstates",
+    "slug": "interstates"
+  },
+  "role": "Data Analyst Intern",
+  "category": "software-engineering",
+  "apply_url": "https://www.interstates.com/careers/jobs?gh_jid=4398703009&gh_jid=4398703009",
+  "season": "spring",
+  "year": 2027,
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "Sioux Center",
+      "state": "IA",
+      "country": "USA"
+    },
+    {
+      "city": "Sioux Falls",
+      "state": "SD",
+      "country": "USA"
+    }
+  ],
+  "compensation": {
+    "currency": "USD",
+    "housing_stipend": false,
+    "relocation_assistance": false
+  },
+  "eligibility": {
+    "graduation_years": [],
+    "degree_levels": [
+      "masters"
+    ],
+    "citizenship_required": false,
+    "security_clearance_required": false,
+    "visa_sponsorship": "unknown"
+  },
+  "interview": {},
+  "tech": {
+    "required_skills": [],
+    "preferred_skills": [],
+    "languages": [],
+    "frameworks": [],
+    "cloud_platforms": [],
+    "resume_keywords": []
+  },
+  "dates": {
+    "posted": "2026-09-09",
+    "discovered": "2026-09-09",
+    "last_verified": "2026-09-09"
+  },
+  "status": "open",
+  "tags": [
+    "auto-ingested",
+    "src:simplify"
+  ]
+}

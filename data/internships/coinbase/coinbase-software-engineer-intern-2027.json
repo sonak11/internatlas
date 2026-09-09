@@ -3,18 +3,17 @@
   "id": "coinbase-software-engineer-intern-2027",
   "company": {
     "name": "Coinbase",
-    "slug": "coinbase",
-    "career_page": "https://www.coinbase.com/careers"
+    "slug": "coinbase"
   },
   "role": "Software Engineer Intern",
   "category": "software-engineering",
-  "apply_url": "https://www.coinbase.com/careers/positions/8168315?gh_jid=8168315",
+  "apply_url": "https://boards.greenhouse.io/embed/job_app?token=8168315",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Hybrid",
+      "city": "SF",
       "country": "USA"
     }
   ],
@@ -40,13 +39,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-08",
+    "posted": "2026-09-09",
     "discovered": "2026-09-08",
-    "last_verified": "2026-09-08"
+    "last_verified": "2026-09-09"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:ats"
+    "src:simplify"
   ]
 }

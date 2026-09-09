@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 📊 Statistics
 
-_Generated 2026-09-08_
+_Generated 2026-09-09_
 
 ## Top hiring companies
 
@@ -19,61 +19,60 @@ _Generated 2026-09-08_
 | Royal Bank of Canada | 48 |
 | L3Harris Technologies | 45 |
 | Booz Allen | 38 |
+| Marvell | 35 |
 | Cloudflare | 33 |
-| Marvell | 33 |
+| Coinbase | 33 |
 | NVIDIA | 33 |
 | The Walt Disney Company | 31 |
 | Bank of Montreal | 30 |
+| Goldman Sachs | 29 |
 | Zipline | 29 |
-| Goldman Sachs | 28 |
 | Shure | 28 |
-| IMC Trading | 26 |
 
 ## Listings by category
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 2305 | `███████████████` |
+| software-engineering | 2321 | `███████████████` |
 | ai | 315 | `██` |
-| quant | 266 | `██` |
-| machine-learning | 179 | `█` |
+| quant | 267 | `██` |
+| machine-learning | 181 | `█` |
 | hardware | 148 | `█` |
-| research | 136 | `█` |
-| data-science | 126 | `█` |
-| product | 125 | `█` |
+| research | 137 | `█` |
+| data-science | 128 | `█` |
+| product | 127 | `█` |
 | design | 108 | `█` |
 | embedded | 93 | `█` |
-| data-engineering | 61 | `█` |
+| data-engineering | 64 | `█` |
 | cloud | 55 | `█` |
 | security | 19 | `█` |
 
 ## Newest listings
 
+- 2026-09-09 — **Allen Control Systems**: [Systems Engineering Intern](https://jobs.ashbyhq.com/allen-control-systems/9945f76d-6d03-45f0-b431-fc69d31f5476/application?embed=true)
+- 2026-09-09 — **Coinbase**: [Analytics Engineer Intern](https://boards.greenhouse.io/embed/job_app?token=8175471)
+- 2026-09-09 — **Coinbase**: [Associate Product Manager Intern - Multiple Teams](https://boards.greenhouse.io/embed/job_app?token=8168322)
+- 2026-09-09 — **Coinbase**: [Data Engineer Intern](https://boards.greenhouse.io/embed/job_app?token=8175459)
+- 2026-09-09 — **Coinbase**: [Data Science Intern - Strategy, Execution, & Analytics - Platform](https://boards.greenhouse.io/embed/job_app?token=8175462)
+- 2026-09-09 — **Coinbase**: [Machine Learning Engineer Intern](https://boards.greenhouse.io/embed/job_app?token=8175441)
+- 2026-09-09 — **Coinbase**: [People Analytics Intern](https://boards.greenhouse.io/embed/job_app?token=8175517)
+- 2026-09-09 — **Coinbase**: [Product Manager Intern - HR Technology](https://boards.greenhouse.io/embed/job_app?token=8175504)
+- 2026-09-09 — **Coinbase**: [Software Engineer Intern](https://boards.greenhouse.io/embed/job_app?token=8168315)
+- 2026-09-09 — **Gallup**: [Artificial Intelligence/Machine Learning Research Intern](https://job-boards.greenhouse.io/gallup/jobs/4395921009)
+- 2026-09-09 — **Gallup**: [Data Engineering Intern](https://job-boards.greenhouse.io/gallup/jobs/4395454009)
+- 2026-09-09 — **Gallup**: [Data Science Intern - Summer 2027](https://job-boards.greenhouse.io/gallup/jobs/4395491009)
+- 2026-09-09 — **Gallup**: [Fintech Intern - Summer 2027](https://job-boards.greenhouse.io/gallup/jobs/4393289009)
+- 2026-09-09 — **Gallup**: [Software Engineer Intern - Summer 2027](https://job-boards.greenhouse.io/gallup/jobs/4395897009)
+- 2026-09-09 — **Interstates**: [Data Analyst Intern](https://www.interstates.com/careers/jobs?gh_jid=4398703009&gh_jid=4398703009)
+- 2026-09-09 — **SECURE**: [Measurement Intern - Measurement & Quality](https://careers-canada-secure.icims.com/jobs/1954/job?mobile=true&needsRedirect=false)
+- 2026-09-09 — **SECURE**: [Software Developer Intern](https://careers-canada-secure.icims.com/jobs/1934/job?mobile=true&needsRedirect=false)
 - 2026-09-08 — **AArete**: [Data Architecture & Engineering Intern](https://jobs.jobvite.com/aarete/job/otGLAfwe?nl=1&nl=1&fr=false)
 - 2026-09-08 — **ABB**: [Application Engineering Intern](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Alpharetta-Georgia-United-States-of-America/Application-Engineering-Intern---Spring-2027_JR00045705)
 - 2026-09-08 — **ABB**: [Application Engineering Intern - Summer 2027](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Alpharetta-Georgia-United-States-of-America/Application-Engineering-Intern---Summer-2027_JR00045706)
-- 2026-09-08 — **Acxiom**: [Data Scientist Intern](https://acxiomllc.wd5.myworkdayjobs.com/AcxiomUSA/job/RemoteHomebased/Intern---Data-Scientist_JR014459)
-- 2026-09-08 — **Allen Control Systems**: [Computer Vision Intern - Machine Learning](https://jobs.ashbyhq.com/allen-control-systems/a7831fef-7125-4c03-b828-5f0472989037/application?embed=true)
-- 2026-09-08 — **AnaVation**: [Computer Science Intern - Summer Program](https://jobs.lever.co/anavationllc/a5c70b6a-2d16-4774-9043-677456614b1b/apply)
-- 2026-09-08 — **Apple**: [GPU Intern - Multiple Teams](https://jobs.apple.com/en-us/details/200682357)
-- 2026-09-08 — **Bank of Montreal**: [Junior Software Developer Co-op Intern - Winter 2027 - 4 months](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Junior-Software-Developer--Winter-2027---Co-op-Internship---4-months_R260026100)
-- 2026-09-08 — **Bedrock Robotics**: [Sensor Hardware Test Engineer Intern](https://jobs.ashbyhq.com/bedrock-robotics/1f413f83-b897-4938-a19e-ab91bd326c51/application?embed=true)
-- 2026-09-08 — **BJC HealthCare**: [RPA Automation Intern](https://jobs.bjc.org/jobs/116509?icims=1)
-- 2026-09-08 — **BlueCross BlueShield of Nebraska**: [Healthcare Reimbursement Analytics Intern - Summer 2027](https://nebraskablue.wd1.myworkdayjobs.com/BCBSNE/job/Omaha-NE/Healthcare-Reimbursement-Analytics-Intern---Summer-2027_JR101410)
-- 2026-09-08 — **BNY**: [Product Management Intern - Product Management](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81922)
-- 2026-09-08 — **Boeing**: [Applied Mathematician Intern - Engineering & Technology Innovation](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---North-Charleston-SC/Boeing-Engineering---Technology-Innovation-Graduate-Researcher-Program--Applied-Mathematician-Intern_JR2026523704)
-- 2026-09-08 — **Boeing**: [Artificial Intelligence Software Engineer Intern - Graduate Researcher Program](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tukwila-WA/Boeing-Engineering---Technology-Innovation-Graduate-Researcher-Program--Software-Engineering-Artificial-Intelligence-Intern_JR2026523687)
-- 2026-09-08 — **Boeing**: [Microelectronics R&D Intern - Engineering & Technology Innovation](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Huntington-Beach-CA/Boeing-Engineering---Technology-Innovation-Graduate-Researcher-Program--Microelectronics-R-D-Intern_JR2026523675)
-- 2026-09-08 — **Burlington Stores**: [Sustainability Intern](https://burlington.wd5.myworkdayjobs.com/BurlingtonCareers/job/00000---Burlington-Corporate-Office/Sustainability-Intern---Summer-2027_R104521)
-- 2026-09-08 — **C.H. Robinson**: [Software Engineer Intern](https://chrobinson.wd5.myworkdayjobs.com/CHRobinson/job/Eden-Prairie-MN-United-States-of-America/Software-Engineering-Internship-2027_R49323)
-- 2026-09-08 — **Capital One**: [AI Engineer Intern](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Current-Master-s--AI-Engineering-Internship-Program---Summer-2027_R249109-1)
-- 2026-09-08 — **Capital One**: [AI Engineering Intern](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Current-PhD--AI-Engineering-Internship-Program---Summer-2027_R249110-1)
-- 2026-09-08 — **Capital One**: [Applied Research Intern](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Current-PhD--Applied-Research-Internship-Program---Summer-2027_R244323-1)
 
 ## Recently closed
 
 - 1X — CNC Machine Park Intern
-- AArete — Business Analytics Intern - Summer 2027
 - Abridge — Software Engineer Intern
 - Abundant — Member of Technical Staff Intern - Research
 - Advanced Robotics for Manufacturing — Mechanical Engineer Co-op Intern
@@ -108,7 +107,6 @@ _Generated 2026-09-08_
 - Atoms — Software Engineer Intern - Winter 2027
 - Auto-Owners Insurance — Predictive Modeler Intern - Summer 2027
 - Axis Capital — Renewable Energy Engineer Intern
-- Axon — Software Engineer Intern
 - Bank of China USA — Data Analytics Audit Intern
 - Bank of Montreal — Client Enablement Analyst Co-op/Intern - Customer Shared Services
 - Bank of Montreal — Investment Intern Co-op - Gam
@@ -164,7 +162,7 @@ _Generated 2026-09-08_
 - CACI — GMU Scholar Program Intern
 - Caddi Workflow Automation — Software Engineer Intern
 - CALSTART — Zero-Emission Data & Research Intern
-- Canva — PhD Research Scientist Intern - Reinforcement Learning for Diffusion Modelling
+- Canva — PhD Research Scientist Intern - Generative AI
 - Canva — PhD Research Scientist Intern - Reinforcement Learning - Images
 - Capital One — Technology Intern
 - Castleton Commodities International — Commodities Trading Analyst Internship
@@ -195,7 +193,6 @@ _Generated 2026-09-08_
 - City of Manhattan Kansas — GIS Planning Intern
 - Clorox — Sales Analyst Intern - Customer Analytics
 - Cloudflare — Accounting Intern (Fall 2026)
-- Cloudflare — GRC Team Intern (Fall 2026)
 - Cloudflare — Marketing Campaigns & Account-Based Marketing (ABM) Intern (Fall 2026)
 - Cloudflare — Marketing Events and Campaigns Intern (Fall 2026)
 - Cloudflare — Research Engineer Intern
@@ -240,11 +237,11 @@ _Generated 2026-09-08_
 - East Penn Manufacturing Company — Data Engineer Intern
 - Eaton — Electrical Engineer Intern - Engineering
 - Egra — AI Researcher Intern
-- Elevate Semiconductor — Product Engineering Intern
 - Emerging Tech — Integration Analyst Intern
 - Emerson Electric — Application Engineer Intern
 - Emory University — Student Tester and Developer Intern - GPS Sample
 - Engenious Design — Systems Architecture Intern
+- Epia Neuro — Hardware Engineer Intern
 - Eridu AI — Lab Intern
 - Etched — Signal Integrity / Power Integrity Intern
 - Eudia — Product Intern
@@ -256,7 +253,6 @@ _Generated 2026-09-08_
 - Fannie Mae — Technology Program Intern
 - Felix Magazine — Database Coordinator Volunteer/Intern
 - Fenwick & West — Forward Deployed Operations Intern
-- Field AI — Robotics Controls Intern - Robot Control Systems
 - Filtration Group — Product Development Intern - Material Science
 - First Bank & Trust — SharePoint/Power Platform Intern - SharePoint - Power Platform
 - First National Bank — Capital Markets Intern
@@ -291,29 +287,10 @@ _Generated 2026-09-08_
 - GlobalFoundries — Robotics and Automation Engineering Intern - Junior
 - GlossGenius — Engineering Intern
 - GlossGenius — Engineering Intern - Summer 2027
+- Goldman Sachs — Associate Intern - The Core Quantitative Strats
 - Goldman Sachs — AWM Product Management Analyst Intern
-- Goldman Sachs — Quantitative Strategist Associate Intern - Asset and Wealth Management
-- Goldman Sachs — Quantitative Strategist Intern - Americas
-- Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Investment Banking
-- Goldman Sachs — Quantitative Strats Analyst Intern - Americas - Investment Banking
-- Goldman Sachs — Summer Analyst Intern
-- Goldman Sachs — Summer Analyst Intern - Americas - AWM Product Management
-- Goldman Sachs — Summer Analyst Intern - Americas - Engineering
-- Goldman Sachs — Summer Analyst Intern - Americas - Engineering
-- Goldman Sachs — Summer Analyst Intern - Americas - Engineering
-- Goldman Sachs — Summer Analyst Intern - Americas - Investment Banking Quantitative Strats
-- Goldman Sachs — Summer Analyst Intern - Engineering
-- Goldman Sachs — Summer Analyst Intern - Engineering
-- Goldman Sachs — Summer Analyst Intern - FICC and Equities - Sales and Trading
 - Goldman Sachs — Summer Analyst Intern - FICC & Equities - Sales & Trading
-- Goldman Sachs — Summer Analyst Intern - The Core Quantitative Strats
-- Goldman Sachs — Summer Analyst Intern - Wealth Management - Quantitative Finance
-- Goldman Sachs — Summer Associate Intern
-- Goldman Sachs — Summer Associate Intern - Multiple Teams
+- Goldman Sachs — Summer Analyst Intern - Wealth Management - Product Management and Design
 - Grant Thornton — AI, Data & Technology Intern - Summer 2027
 - Grant Thornton — AI, Data & Technology Intern - Summer 2027
 - Grant Thornton — AI, Data & Technology Intern - Summer 2027
@@ -354,7 +331,7 @@ _Generated 2026-09-08_
 - IMEG — Electrical Engineer Intern - Education
 - IMEG — Innovation Services Intern
 - Incident IQ — Software Engineer Intern
-- InfiniteQuant — Quantitative Developer Intern - Summer 2027
+- InfiniteQuant — Quantitative Developer Intern
 - InfiniteQuant — Quantitative Developer Internship - Summer 2027
 - Innovation Works, Inc. — Scale Prototyping Shop Intern
 - Intact — Investment Analyst Intern Co-op
@@ -366,7 +343,6 @@ _Generated 2026-09-08_
 - Intel — System Technology PhD Intern - Research Engineer
 - Interdigital — Information Systems / Salesforce Intern
 - Interdigital — Wifi Intern - Wireless Researcher
-- Interdigital — Wireless Engineering Intern - 6G Wireless Systems
 - International Rescue Committee (IRC) — Development Data and Research Intern
 - Interstates — Electrical Engineering Intern - Design Services
 - Interstates — Engineering Intern - Design Services
@@ -392,7 +368,6 @@ _Generated 2026-09-08_
 - K2 Space — Radio Frequency Engineer Intern - Summer 2027
 - KeyBank — Analytics and Quantitative Modeling Intern - Analytics & Quantitative Modeling
 - KeyBank — Technology Track Intern - Key Technology and Services
-- Kimley-Horn — GIS Intern
 - Kognitos — Forward Deployed Engineer Intern
 - KPMG — Product Specialist Intern Co-op - Asset Management Digital Solutions
 - KPMG — Software Developer Intern Co-op - Asset Management Digital Solutions - Software Developer
@@ -438,7 +413,6 @@ _Generated 2026-09-08_
 - Levi Strauss & Co. — Analytics Intern - eCommerce
 - Lightcast — Software Engineer Intern - API Development
 - Louisiana Blue — Provider Reimbursement Intern
-- LPL Financial Holdings — Data Analytics Intern - FAR Program
 - LPL Financial Holdings — Internal Audit Intern - Multiple Teams
 - LPL Financial Holdings — Service Transformation & Data Analytics Intern
 - Mackenzie Investments — Data Engineering Intern
@@ -451,9 +425,7 @@ _Generated 2026-09-08_
 - Marsh — Government Health Consulting Informatics Intern - College Program
 - Mastercard — Software Engineer Intern
 - Maven Securities — Trader Intern
-- McKesson — AI & Strategic Analytics Intern
 - McKesson — Associate Business Systems Analyst Intern - Data Hub Canada
-- McKesson — Technology Intern
 - Medline — Business Systems Intern - Summer 2027
 - Medline — Product Management Intern - Summer 2027
 - Medline — RPA & Agentic AI Software Technologies Intern - Summer 2027
@@ -489,8 +461,6 @@ _Generated 2026-09-08_
 - Motorola — Wireless Systems Engineer Intern - Wireless Systems
 - MSA Safety — Electrochemistry Intern
 - Mujin — Product Development Intern - Spring 2027
-- Multnomah County — Immunization & Community Health Intern - Prevention and Health Promotion
-- Multnomah County — Public Health Tobacco Control and Prevention Intern
 - National Laboratory of the Rockies — 3-5 Processing Intern
 - National Laboratory of the Rockies — Agricultural Energy Intern - Year-Round
 - National Laboratory of the Rockies — Associate/Undergraduate Intern
@@ -540,8 +510,6 @@ _Generated 2026-09-08_
 - OpusClip — AI Research Intern
 - Oracle — Customer Solutions Analyst Intern - Ovip
 - Oracle — Platform Software Engineer 1 Intern - Full-time Intern Conversion
-- Pacific Northwest National Laboratory — Detection Physics Intern
-- Pacific Northwest National Laboratory — Masters Intern - Detection Physics
 - Pacific Northwest National Laboratory — Undergraduate Technical Intern - Nuclear Facility
 - Palantir — Forward Deployed Software Engineer Intern - Intel
 - Palantir — Software Engineer Intern - Infrastructure
@@ -561,7 +529,6 @@ _Generated 2026-09-08_
 - PIMCO — Product Analyst Intern
 - PIMCO — Trading Analyst Intern
 - Pivot Robotics — Robot Operator Internship
-- PlusAI — Deep Learning Research Intern - Multimodal BEV Perception
 - POET — Plant Engineer Intern - Summer 2027
 - POET — Process Engineering Intern
 - Post Holdings — Product R&D Intern - Summer 2027
@@ -594,7 +561,6 @@ _Generated 2026-09-08_
 - RapDev — ServiceNow Engineer Intern
 - Red Bull — Academy Scouting Intern - Academy Scout
 - Red Bull — Data Science Intern - Data Science
-- Replit — Software Engineer Intern - Summer 2027
 - Repsol — Geology & Geophysics Intern
 - Repsol — Production Allocation Engineering Intern
 - Revise Robotics — Engineer Intern
@@ -611,7 +577,6 @@ _Generated 2026-09-08_
 - Royal Bank of Canada — Commercial Portfolio Risk & Credit Analytics Intern - Grm
 - Royal Bank of Canada — Commercial Portfolio Risk & Credit Analytics Intern - Group Risk Management
 - Royal Bank of Canada — Credit Model Analyst Intern - Group Risk Management
-- Royal Bank of Canada — Data Engineer Intern - Chief Data Office
 - Royal Bank of Canada — Financial Crime Analytics Intern
 - Royal Bank of Canada — Financial Crime Insights and Analytics Intern - Group Risk Management
 - Royal Bank of Canada — Portfolio Risk & Credit Analytics Intern
@@ -652,7 +617,6 @@ _Generated 2026-09-08_
 - RTX — Software Engineer Intern - Summer 2027
 - RTX — Software Engineer Intern - Summer 2027
 - RTX — Software Engineer Intern - Summer 2027
-- RTX — Software Engineer Intern - Summer 2027
 - RTX — Systems Engineer 1 Intern - Intern Conversion
 - RTX — Systems Engineering Intern
 - RTX — Technical Publications Technical Developer Intern - Artificial Intelligence/Machine Learning
@@ -669,7 +633,6 @@ _Generated 2026-09-08_
 - Solid Power — R&D Intern - Catholyte
 - Sony — Account Management & Business Analytics Intern
 - SOTI — Associate Product Manager Intern
-- SOTI — Data Scientist Intern
 - Southwest Airlines — Software Engineer Intern - Multiple Teams
 - Southwest Airlines — Technology Analyst Intern
 - SpreeAI — Machine Learning Engineer Intern - Computer Vision/Multimodal/Generative AI
@@ -689,7 +652,6 @@ _Generated 2026-09-08_
 - Synchrony Financial — Technology Intern
 - Tacit — Antenna Engineer Intern
 - Tacit — Radio Frequency Hardware Intern - Fall 2026
-- tarte cosmetics — Product Development Intern
 - TC Energy — Engineering Intern
 - TC Energy — Engineering Intern - Engineering
 - Techtronic Industries (TTI) — Electrical Engineer Intern
@@ -786,7 +748,6 @@ _Generated 2026-09-08_
 - Turabify — AI Automation Intern
 - Two Six Technologies — SkillBridge Fellow Intern - Multiple Teams
 - U.S. Venture — Data Science Intern - Breakthrough
-- Uline — Business Intelligence Developer Intern
 - Uline — Database Administrator Intern
 - Uline — Operations Analyst Intern
 - UMB — IT Blockchain Intern
@@ -816,7 +777,6 @@ _Generated 2026-09-08_
 - WhiteWater Midstream — Trading Operations Intern - Summer 2027
 - Winland Foods — Product Development Intern
 - Woodward Governor — SAP S/4HANA Analyst Intern
-- WSP — Business Intelligence Intern
 - Xcel Energy — Damage Prevention Intern
 - Zipline — Applications Engineer Intern - Spring 2027
 - Zipline — Computational Physics Intern - Spring 2027
