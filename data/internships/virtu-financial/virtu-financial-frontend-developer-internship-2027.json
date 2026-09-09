@@ -1,0 +1,56 @@
+{
+  "schema_version": "1.0",
+  "id": "virtu-financial-frontend-developer-internship-2027",
+  "company": {
+    "name": "Virtu Financial",
+    "slug": "virtu-financial"
+  },
+  "role": "Frontend Developer Internship",
+  "category": "software-engineering",
+  "apply_url": "https://job-boards.greenhouse.io/virtu/jobs/8657500002",
+  "season": "summer",
+  "year": 2027,
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "NYC",
+      "country": "USA"
+    },
+    {
+      "city": "New York",
+      "state": "NY",
+      "country": "USA"
+    }
+  ],
+  "compensation": {
+    "currency": "USD",
+    "housing_stipend": false,
+    "relocation_assistance": false
+  },
+  "eligibility": {
+    "graduation_years": [],
+    "degree_levels": [],
+    "citizenship_required": false,
+    "security_clearance_required": false,
+    "visa_sponsorship": "unknown"
+  },
+  "interview": {},
+  "tech": {
+    "required_skills": [],
+    "preferred_skills": [],
+    "languages": [],
+    "frameworks": [],
+    "cloud_platforms": [],
+    "resume_keywords": []
+  },
+  "dates": {
+    "posted": "2026-07-29",
+    "discovered": "2026-09-09",
+    "last_verified": "2026-09-09"
+  },
+  "status": "open",
+  "tags": [
+    "auto-ingested",
+    "src:simplify"
+  ]
+}

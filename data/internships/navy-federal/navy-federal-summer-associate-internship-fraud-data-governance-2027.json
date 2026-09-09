@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "coinbase-treasury-intern-2027",
+  "id": "navy-federal-summer-associate-internship-fraud-data-governance-2027",
   "company": {
-    "name": "Coinbase",
-    "slug": "coinbase",
-    "career_page": "https://www.coinbase.com/careers"
+    "name": "Navy Federal",
+    "slug": "navy-federal"
   },
-  "role": "Treasury Intern",
+  "role": "Summer Associate Internship - Fraud Data Governance",
   "category": "software-engineering",
-  "apply_url": "https://www.coinbase.com/careers/positions/8175435?gh_jid=8175435",
+  "apply_url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32310",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Hybrid",
+      "city": "Vienna",
+      "state": "VA",
       "country": "USA"
     }
   ],
@@ -25,7 +25,9 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "masters"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -40,13 +42,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-08",
-    "discovered": "2026-09-08",
+    "posted": "2026-09-09",
+    "discovered": "2026-09-09",
     "last_verified": "2026-09-09"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:ats"
+    "src:simplify"
   ]
 }
