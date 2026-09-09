@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "edison-international-computer-science-intern-2027-562fd1",
+  "id": "moog-software-engineer-intern-military-aircraft-2027",
   "company": {
-    "name": "Edison International",
-    "slug": "edison-international"
+    "name": "Moog",
+    "slug": "moog"
   },
-  "role": "Computer Science Intern",
+  "role": "Software Engineer Intern - Military Aircraft",
   "category": "software-engineering",
-  "apply_url": "https://apply.edisoncareers.com/job/Santa-Ana-2027-Summer-Internship-Computer-Science-(Santa-Ana)-CA-92705/1425158700/?ats=successfactors",
+  "apply_url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Mineral-Wells-TX/Intern--Software-Engineering_R-26-19888-1",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Santa Ana",
-      "state": "CA",
+      "city": "Mineral Wells",
+      "state": "TX",
       "country": "USA"
     }
   ],
@@ -25,7 +25,9 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "masters"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -40,8 +42,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-01",
-    "discovered": "2026-09-03",
+    "posted": "2026-09-09",
+    "discovered": "2026-09-09",
     "last_verified": "2026-09-09"
   },
   "status": "open",

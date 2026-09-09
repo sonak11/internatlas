@@ -1,6 +1,6 @@
 {
   "generated": "2026-09-09",
-  "count": 3963,
+  "count": 3966,
   "internships": [
     {
       "schema_version": "1.0",
@@ -1601,7 +1601,7 @@
         "discovered": "2026-09-01",
         "last_verified": "2026-09-09"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -42514,7 +42514,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-09"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -42522,7 +42522,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "citi-quantitative-risk-management-summer-analyst-intern-functions-2027-dccd47",
+      "id": "citi-quantitative-risk-management-summer-analyst-intern-functions-2027",
       "company": {
         "name": "Citi",
         "slug": "citi"
@@ -42538,59 +42538,6 @@
           "city": "Irving",
           "state": "TX",
           "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [
-          "masters"
-        ],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-08-27",
-        "discovered": "2026-09-04",
-        "last_verified": "2026-09-09"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "citi-quantitative-risk-management-summer-analyst-intern-functions-2027",
-      "company": {
-        "name": "Citi",
-        "slug": "citi"
-      },
-      "role": "Quantitative Risk Management Summer Analyst Intern - Functions",
-      "category": "quant",
-      "apply_url": "https://citi.wd5.myworkdayjobs.com/2/job/Getzville-New-York-United-States/Functions---Quantitative-Risk-Management--Summer-Analyst--Buffalo---USA--2027_26990039",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Getzville",
-          "country": "University at Buffalo"
         }
       ],
       "compensation": {
@@ -58798,7 +58745,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "edison-international-computer-science-intern-2027-562fd1",
+      "id": "edison-international-computer-science-intern-2027",
       "company": {
         "name": "Edison International",
         "slug": "edison-international"
@@ -58812,68 +58759,6 @@
       "locations": [
         {
           "city": "Santa Ana",
-          "state": "CA",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-09-01",
-        "discovered": "2026-09-03",
-        "last_verified": "2026-09-09"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "edison-international-computer-science-intern-2027",
-      "company": {
-        "name": "Edison International",
-        "slug": "edison-international"
-      },
-      "role": "Computer Science Intern",
-      "category": "software-engineering",
-      "apply_url": "https://apply.edisoncareers.com/job/Alhambra-2027-Summer-Internship-Computer-Science-(AlhambraRosemeadPomona)-CA-91803-0000/1425151100/?ats=successfactors",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Alhambra",
-          "state": "CA",
-          "country": "USA"
-        },
-        {
-          "city": "Pomona",
-          "state": "CA",
-          "country": "USA"
-        },
-        {
-          "city": "Rosemead",
           "state": "CA",
           "country": "USA"
         }
@@ -60084,7 +59969,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-09"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -72931,7 +72816,7 @@
         "discovered": "2026-09-09",
         "last_verified": "2026-09-09"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -74756,7 +74641,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-09-09"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -74809,7 +74694,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-09-09"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -74861,7 +74746,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-09"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -74913,7 +74798,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-09"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -74967,7 +74852,7 @@
         "discovered": "2026-09-08",
         "last_verified": "2026-09-09"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -75020,7 +74905,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-09"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -75071,7 +74956,7 @@
         "discovered": "2026-09-09",
         "last_verified": "2026-09-09"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -75125,7 +75010,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-09"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -75176,7 +75061,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-09"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -75227,7 +75112,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-09-09"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -75279,7 +75164,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-09"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -75330,7 +75215,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-09"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -75383,7 +75268,7 @@
         "discovered": "2026-08-20",
         "last_verified": "2026-09-09"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -75434,7 +75319,7 @@
         "discovered": "2026-09-08",
         "last_verified": "2026-09-09"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -75486,7 +75371,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-09"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -75537,7 +75422,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-09"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -75590,7 +75475,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-09"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -75644,7 +75529,7 @@
         "discovered": "2026-09-06",
         "last_verified": "2026-09-09"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -75698,7 +75583,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-09"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -75751,7 +75636,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-09"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -75805,7 +75690,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-09-09"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -75907,7 +75792,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-09"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -76009,7 +75894,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-09"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -76062,7 +75947,7 @@
         "discovered": "2026-08-29",
         "last_verified": "2026-09-09"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -76115,7 +76000,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-09-09"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -86768,7 +86653,7 @@
         "discovered": "2026-08-13",
         "last_verified": "2026-09-09"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -86823,9 +86708,9 @@
       "dates": {
         "posted": "2026-08-24",
         "discovered": "2026-08-19",
-        "last_verified": "2026-09-08"
+        "last_verified": "2026-09-09"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -86898,7 +86783,7 @@
       },
       "role": "Quantitative Researcher Intern - Summer 2027",
       "category": "quant",
-      "apply_url": "https://jobs.smartrecruiters.com/InfiniteQuant/744000145264634",
+      "apply_url": "https://jobs.smartrecruiters.com/InfiniteQuant/744000143307421",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
@@ -86937,7 +86822,7 @@
         "resume_keywords": []
       },
       "dates": {
-        "posted": "2026-08-24",
+        "posted": "2026-08-13",
         "discovered": "2026-08-10",
         "last_verified": "2026-09-09"
       },
@@ -95878,6 +95763,57 @@
     },
     {
       "schema_version": "1.0",
+      "id": "k2-space-simulation-software-engineering-intern-2027",
+      "company": {
+        "name": "K2 Space",
+        "slug": "k2-space"
+      },
+      "role": "Simulation Software Engineering Intern",
+      "category": "software-engineering",
+      "apply_url": "https://job-boards.greenhouse.io/k2spacecorporation/jobs/5418727008",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "state": "LA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-09",
+        "discovered": "2026-09-09",
+        "last_verified": "2026-09-09"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "k2-space-software-engineer-intern-summer-2027-2027",
       "company": {
         "name": "K2 Space",
@@ -104051,7 +103987,7 @@
         "discovered": "2026-09-07",
         "last_verified": "2026-09-09"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -115276,6 +115212,60 @@
     },
     {
       "schema_version": "1.0",
+      "id": "moog-hardware-design-engineering-intern-2027",
+      "company": {
+        "name": "Moog",
+        "slug": "moog"
+      },
+      "role": "Hardware Design Engineering Intern",
+      "category": "hardware",
+      "apply_url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Mineral-Wells-TX/Intern--Hardware-Design-Engineering_R-26-19887",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Mineral Wells",
+          "state": "TX",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-09",
+        "discovered": "2026-09-09",
+        "last_verified": "2026-09-09"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "moog-hardware-engineer-intern-2027",
       "company": {
         "name": "Moog",
@@ -115434,6 +115424,60 @@
       "tags": [
         "auto-ingested",
         "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "moog-software-engineer-intern-military-aircraft-2027",
+      "company": {
+        "name": "Moog",
+        "slug": "moog"
+      },
+      "role": "Software Engineer Intern - Military Aircraft",
+      "category": "software-engineering",
+      "apply_url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Mineral-Wells-TX/Intern--Software-Engineering_R-26-19888-1",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Mineral Wells",
+          "state": "TX",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-09",
+        "discovered": "2026-09-09",
+        "last_verified": "2026-09-09"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
       ]
     },
     {
@@ -119373,7 +119417,7 @@
         "discovered": "2026-07-21",
         "last_verified": "2026-09-09"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -143844,7 +143888,7 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-09-09"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -180733,6 +180777,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "tesla-software-engineer-intern-service-engineering-2027-e73461",
+      "company": {
+        "name": "Tesla",
+        "slug": "tesla"
+      },
+      "role": "Software Engineer Intern - Service Engineering",
+      "category": "software-engineering",
+      "apply_url": "https://www.tesla.com/careers/search/job/282233",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Palo Alto",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-09",
+        "discovered": "2026-09-09",
+        "last_verified": "2026-09-09"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "tesla-software-engineer-intern-service-engineering-2027",
       "company": {
         "name": "Tesla",
@@ -180983,9 +181079,9 @@
       "dates": {
         "posted": "2026-07-30",
         "discovered": "2026-07-30",
-        "last_verified": "2026-09-03"
+        "last_verified": "2026-09-09"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -210131,14 +210227,14 @@
     },
     {
       "schema_version": "1.0",
-      "id": "wells-fargo-quantitative-analytics-intern-applied-computational-intellig-2027",
+      "id": "wells-fargo-quantitative-analytics-intern-applied-computational-intellig-2027-b01c72",
       "company": {
         "name": "Wells Fargo",
         "slug": "wells-fargo"
       },
       "role": "Quantitative Analytics Intern - Applied Computational Intelligence",
       "category": "quant",
-      "apply_url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Quantitative-Analytics-Summer-Internship-Applied-Computational-Intelligence--ACI-PhD----Early-Careers_R-571703",
+      "apply_url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Quantitative-Analytics-Summer-Internship-Applied-Computational-Intelligence--ACI-PhD----Early-Careers_R-574032",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
@@ -210173,11 +210269,65 @@
         "resume_keywords": []
       },
       "dates": {
-        "posted": "2026-08-27",
-        "discovered": "2026-08-28",
-        "last_verified": "2026-09-08"
+        "posted": "2026-09-09",
+        "discovered": "2026-09-09",
+        "last_verified": "2026-09-09"
       },
-      "status": "closed",
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "wells-fargo-quantitative-analytics-intern-applied-computational-intellig-2027",
+      "company": {
+        "name": "Wells Fargo",
+        "slug": "wells-fargo"
+      },
+      "role": "Quantitative Analytics Intern - Applied Computational Intelligence",
+      "category": "quant",
+      "apply_url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Quantitative-Analytics-Summer-Internship-Applied-Computational-Intelligence--ACI-Masters----Early-Careers_R-574030",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Charlotte",
+          "state": "NC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-09",
+        "discovered": "2026-08-28",
+        "last_verified": "2026-09-09"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"

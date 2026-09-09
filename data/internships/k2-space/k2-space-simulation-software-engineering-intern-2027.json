@@ -1,19 +1,19 @@
 {
   "schema_version": "1.0",
-  "id": "ramiel-capital-trading-intern-2026",
+  "id": "k2-space-simulation-software-engineering-intern-2027",
   "company": {
-    "name": "Ramiel Capital",
-    "slug": "ramiel-capital"
+    "name": "K2 Space",
+    "slug": "k2-space"
   },
-  "role": "Trading Intern",
-  "category": "quant",
-  "apply_url": "https://jobs.ashbyhq.com/ramielcapital/8c57222a-e723-49a6-b9f1-b4628c1da76f/application?embed=true",
-  "season": "fall",
-  "year": 2026,
+  "role": "Simulation Software Engineering Intern",
+  "category": "software-engineering",
+  "apply_url": "https://job-boards.greenhouse.io/k2spacecorporation/jobs/5418727008",
+  "season": "summer",
+  "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "NYC",
+      "state": "LA",
       "country": "USA"
     }
   ],
@@ -39,11 +39,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-21",
-    "discovered": "2026-09-03",
+    "posted": "2026-09-09",
+    "discovered": "2026-09-09",
     "last_verified": "2026-09-09"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"
