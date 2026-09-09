@@ -190,6 +190,7 @@ _Generated 2026-09-09_
 - Cigna Group — Healthcare Policy & Regulated Markets Intern
 - Circle K — Analyst Intern - Global Fuels
 - Citadel — Investment & Trading Intern
+- Citadel — Trader: Fixed Income & Macro Intern
 - Citadel Securities — Fundamental Analyst Intern
 - Citadel Securities — Rates Trading Intern
 - Citi — Markets Analyst Intern - Sales and Trading
@@ -664,6 +665,7 @@ _Generated 2026-09-09_
 - Schweitzer Engineering Laboratories — Test Engineer Intern
 - SciTec — Intern - Multiple Teams
 - Sensata — Electrical Engineer Intern
+- Shure — Application Software Engineer Intern
 - Skydio — Product Management Intern
 - Solid Power — Product Engineer Intern
 - Solid Power — R&D Intern - Catholyte

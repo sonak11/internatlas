@@ -42700,7 +42700,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-09-09"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -162761,7 +162761,7 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-09-09"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -210515,22 +210515,18 @@
     },
     {
       "schema_version": "1.0",
-      "id": "virtu-financial-frontend-developer-internship-2027",
+      "id": "virtu-financial-frontend-user-experience-intern-2027",
       "company": {
         "name": "Virtu Financial",
         "slug": "virtu-financial"
       },
-      "role": "Frontend Developer Internship",
+      "role": "Frontend & User Experience Intern",
       "category": "software-engineering",
       "apply_url": "https://job-boards.greenhouse.io/virtu/jobs/8657500002",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
       "locations": [
-        {
-          "city": "NYC",
-          "country": "USA"
-        },
         {
           "city": "New York",
           "state": "NY",
@@ -210559,14 +210555,14 @@
         "resume_keywords": []
       },
       "dates": {
-        "posted": "2026-07-29",
+        "posted": "2026-07-30",
         "discovered": "2026-09-09",
         "last_verified": "2026-09-09"
       },
       "status": "open",
       "tags": [
         "auto-ingested",
-        "src:simplify"
+        "src:vanshb03"
       ]
     },
     {

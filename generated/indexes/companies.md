@@ -202,7 +202,7 @@
 | [Circle K](../companies/circle-k.md) | 0/1 | software-engineering |
 | [Circleback](../companies/circleback.md) | 1/1 | software-engineering |
 | [Cirrus Logic](../companies/cirrus-logic.md) | 1/3 | ai, embedded |
-| [Citadel](../companies/citadel.md) | 6/7 | data-science, quant, software-engineering |
+| [Citadel](../companies/citadel.md) | 5/7 | data-science, quant, software-engineering |
 | [Citadel Securities](../companies/citadel-securities.md) | 3/5 | hardware, quant, software-engineering |
 | [Citi](../companies/citi.md) | 0/3 | quant |
 | [City of Aurora](../companies/city-of-aurora.md) | 0/1 | software-engineering |
@@ -816,7 +816,7 @@
 | [Sentry](../companies/sentry.md) | 0/1 | software-engineering |
 | [Seven Research](../companies/seven-research.md) | 4/4 | machine-learning, quant, software-engineering |
 | [Shopify](../companies/shopify.md) | 2/2 | software-engineering |
-| [Shure](../companies/shure.md) | 28/28 | ai, cloud, data-engineering, embedded, hardware, product, research, software-engineering |
+| [Shure](../companies/shure.md) | 27/28 | ai, cloud, data-engineering, embedded, hardware, product, research, software-engineering |
 | [ShyftLabs](../companies/shyftlabs.md) | 2/2 | ai |
 | [SiFive](../companies/sifive.md) | 1/1 | cloud |
 | [Sierra](../companies/sierra.md) | 2/2 | software-engineering |

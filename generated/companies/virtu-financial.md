@@ -23,7 +23,7 @@
 | Virtu Financial | [2027 Internship- Hardware Engineer (FPGA)](https://job-boards.greenhouse.io/virtu/jobs/8657286002) | Austin, TX | Onsite | 2026-07-29 | Rolling | 🟢 Open | ❔ |
 | Virtu Financial | [2027 Summer Internship - Client Support](https://job-boards.greenhouse.io/virtu/jobs/8746197002) | London | Onsite | 2026-08-26 | Rolling | 🟢 Open | ❔ |
 | Virtu Financial | [2027 Summer Internship - Technical](https://job-boards.greenhouse.io/virtu/jobs/8745933002) | London | Onsite | 2026-08-26 | Rolling | 🟢 Open | ❔ |
-| Virtu Financial | [Frontend Developer Internship](https://job-boards.greenhouse.io/virtu/jobs/8657500002) | NYC +1 | Onsite | 2026-07-29 | Rolling | 🟢 Open | ❔ |
+| Virtu Financial | [Frontend & User Experience Intern](https://job-boards.greenhouse.io/virtu/jobs/8657500002) | New York, NY | Onsite | 2026-07-30 | Rolling | 🟢 Open | ❔ |
 
 ## Related
 
