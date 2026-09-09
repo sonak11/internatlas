@@ -1,0 +1,57 @@
+{
+  "schema_version": "1.0",
+  "id": "general-dynamics-mission-systems-payload-control-system-software-systems-engineering-intern-s-2027",
+  "company": {
+    "name": "General Dynamics Mission Systems",
+    "slug": "general-dynamics-mission-systems"
+  },
+  "role": "Payload Control System Software/Systems Engineering Intern - Summer 2027",
+  "category": "software-engineering",
+  "apply_url": "https://careers-gdms.icims.com/jobs/74848/job?mobile=true&needsRedirect=false",
+  "season": "summer",
+  "year": 2027,
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "Middletown",
+      "state": "RI",
+      "country": "USA"
+    },
+    {
+      "city": "Manassas",
+      "state": "VA",
+      "country": "USA"
+    }
+  ],
+  "compensation": {
+    "currency": "USD",
+    "housing_stipend": false,
+    "relocation_assistance": false
+  },
+  "eligibility": {
+    "graduation_years": [],
+    "degree_levels": [],
+    "citizenship_required": false,
+    "security_clearance_required": false,
+    "visa_sponsorship": "unknown"
+  },
+  "interview": {},
+  "tech": {
+    "required_skills": [],
+    "preferred_skills": [],
+    "languages": [],
+    "frameworks": [],
+    "cloud_platforms": [],
+    "resume_keywords": []
+  },
+  "dates": {
+    "posted": "2026-09-09",
+    "discovered": "2026-09-09",
+    "last_verified": "2026-09-09"
+  },
+  "status": "open",
+  "tags": [
+    "auto-ingested",
+    "src:simplify"
+  ]
+}

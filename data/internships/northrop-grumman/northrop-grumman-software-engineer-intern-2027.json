@@ -7,14 +7,39 @@
   },
   "role": "Software Engineer Intern",
   "category": "software-engineering",
-  "apply_url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Software-Engineering-Intern---Roy-UT_R10249842",
+  "apply_url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Intern-Software-Engineer_R10250150",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Roy",
-      "state": "UT",
+      "city": "Redondo Beach",
+      "state": "CA",
+      "country": "USA"
+    },
+    {
+      "city": "Palmdale",
+      "state": "CA",
+      "country": "USA"
+    },
+    {
+      "city": "Oklahoma City",
+      "state": "OK",
+      "country": "USA"
+    },
+    {
+      "city": "San Diego",
+      "state": "CA",
+      "country": "USA"
+    },
+    {
+      "city": "Emerado",
+      "state": "ND",
+      "country": "USA"
+    },
+    {
+      "city": "El Segundo",
+      "state": "CA",
       "country": "USA"
     }
   ],
@@ -42,7 +67,7 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-08",
+    "posted": "2026-09-09",
     "discovered": "2026-07-25",
     "last_verified": "2026-09-09"
   },
