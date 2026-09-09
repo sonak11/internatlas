@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "citi-quantitative-risk-management-summer-analyst-intern-functions-2027",
+  "id": "nisource-change-management-analytics-intern-2027",
   "company": {
-    "name": "Citi",
-    "slug": "citi"
+    "name": "NiSource",
+    "slug": "nisource"
   },
-  "role": "Quantitative Risk Management Summer Analyst Intern - Functions",
-  "category": "quant",
-  "apply_url": "https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Functions---Quantitative-Risk-Management--Summer-Analyst--Irving---USA--2027_26990048",
+  "role": "Change Management Analytics Intern",
+  "category": "software-engineering",
+  "apply_url": "https://nisource.wd1.myworkdayjobs.com/NiSource/job/Columbus-OH---Arena-District/Intern-People-Analytics---Change-Management_R00943378",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Irving",
-      "state": "TX",
+      "city": "Columbus",
+      "state": "OH",
       "country": "USA"
     }
   ],
@@ -25,9 +25,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -42,11 +40,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-27",
-    "discovered": "2026-09-04",
+    "posted": "2026-08-31",
+    "discovered": "2026-09-09",
     "last_verified": "2026-09-09"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

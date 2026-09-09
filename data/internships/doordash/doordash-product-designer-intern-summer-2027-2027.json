@@ -1,20 +1,21 @@
 {
   "schema_version": "1.0",
-  "id": "citi-quantitative-risk-management-summer-analyst-intern-functions-2027",
+  "id": "doordash-product-designer-intern-summer-2027-2027",
   "company": {
-    "name": "Citi",
-    "slug": "citi"
+    "name": "DoorDash",
+    "slug": "doordash",
+    "career_page": "https://careers.doordash.com/"
   },
-  "role": "Quantitative Risk Management Summer Analyst Intern - Functions",
-  "category": "quant",
-  "apply_url": "https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Functions---Quantitative-Risk-Management--Summer-Analyst--Irving---USA--2027_26990048",
+  "role": "Product Designer, Intern (Summer 2027)",
+  "category": "design",
+  "apply_url": "https://job-boards.greenhouse.io/doordashusa/jobs/8187876",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Irving",
-      "state": "TX",
+      "city": "San Francisco",
+      "state": "CA",
       "country": "USA"
     }
   ],
@@ -25,9 +26,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -42,13 +41,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-27",
-    "discovered": "2026-09-04",
+    "posted": "2026-09-09",
+    "discovered": "2026-09-09",
     "last_verified": "2026-09-09"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:ats"
   ]
 }

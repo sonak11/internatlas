@@ -1,6 +1,6 @@
 {
   "generated": "2026-09-09",
-  "count": 3966,
+  "count": 3969,
   "internships": [
     {
       "schema_version": "1.0",
@@ -16666,7 +16666,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-09"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -16881,7 +16881,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-09"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -42568,7 +42568,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-09"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -45317,7 +45317,7 @@
         "discovered": "2026-08-04",
         "last_verified": "2026-09-09"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -56172,6 +56172,59 @@
     },
     {
       "schema_version": "1.0",
+      "id": "doordash-product-designer-intern-summer-2027-2027",
+      "company": {
+        "name": "DoorDash",
+        "slug": "doordash",
+        "career_page": "https://careers.doordash.com/"
+      },
+      "role": "Product Designer, Intern (Summer 2027)",
+      "category": "design",
+      "apply_url": "https://job-boards.greenhouse.io/doordashusa/jobs/8187876",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Francisco",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-09",
+        "discovered": "2026-09-09",
+        "last_verified": "2026-09-09"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "draftkings-analytics-intern-summer-2027-2027-8d0ccf",
       "company": {
         "name": "DraftKings",
@@ -58745,7 +58798,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "edison-international-computer-science-intern-2027",
+      "id": "edison-international-computer-science-intern-2027-562fd1",
       "company": {
         "name": "Edison International",
         "slug": "edison-international"
@@ -58759,6 +58812,68 @@
       "locations": [
         {
           "city": "Santa Ana",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-01",
+        "discovered": "2026-09-09",
+        "last_verified": "2026-09-09"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "edison-international-computer-science-intern-2027",
+      "company": {
+        "name": "Edison International",
+        "slug": "edison-international"
+      },
+      "role": "Computer Science Intern",
+      "category": "software-engineering",
+      "apply_url": "https://apply.edisoncareers.com/job/Alhambra-2027-Summer-Internship-Computer-Science-(AlhambraRosemeadPomona)-CA-91803-0000/1425151100/?ats=successfactors",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Alhambra",
+          "state": "CA",
+          "country": "USA"
+        },
+        {
+          "city": "Pomona",
+          "state": "CA",
+          "country": "USA"
+        },
+        {
+          "city": "Rosemead",
           "state": "CA",
           "country": "USA"
         }
@@ -67825,9 +67940,9 @@
       "dates": {
         "posted": "2026-08-24",
         "discovered": "2026-08-24",
-        "last_verified": "2026-09-08"
+        "last_verified": "2026-09-09"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -72816,7 +72931,7 @@
         "discovered": "2026-09-09",
         "last_verified": "2026-09-09"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -74536,7 +74651,7 @@
         "discovered": "2026-08-27",
         "last_verified": "2026-09-09"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -74656,14 +74771,14 @@
       },
       "role": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
       "category": "quant",
-      "apply_url": "https://higher.gs.com/roles/175427?type=students",
+      "apply_url": "https://higher.gs.com/roles/171535?type=students",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
       "locations": [
         {
-          "city": "London",
-          "country": "UK"
+          "city": "NYC",
+          "country": "USA"
         }
       ],
       "compensation": {
@@ -74694,7 +74809,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-09-09"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -75010,7 +75125,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-09"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -75076,14 +75191,14 @@
       },
       "role": "Quantitative Strategist Intern - Multiple Teams",
       "category": "quant",
-      "apply_url": "https://higher.gs.com/roles/175424?type=students",
+      "apply_url": "https://higher.gs.com/roles/171563?type=students",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
       "locations": [
         {
-          "city": "London",
-          "country": "UK"
+          "city": "NYC",
+          "country": "USA"
         }
       ],
       "compensation": {
@@ -75112,7 +75227,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-09-09"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -75371,7 +75486,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-09"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -75422,7 +75537,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-09"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -75475,7 +75590,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-09"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -75529,7 +75644,7 @@
         "discovered": "2026-09-06",
         "last_verified": "2026-09-09"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -75598,13 +75713,13 @@
       },
       "role": "Summer Analyst Intern - Engineering",
       "category": "software-engineering",
-      "apply_url": "https://higher.gs.com/roles/170637?type=students",
+      "apply_url": "https://higher.gs.com/roles/170644?type=students",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
       "locations": [
         {
-          "city": "Birmingham",
+          "city": "London",
           "country": "UK"
         }
       ],
@@ -75636,7 +75751,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-09"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -75690,7 +75805,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-09-09"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -75792,7 +75907,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-09"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -75843,7 +75958,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-09-09"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -75894,7 +76009,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-09"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -76000,7 +76115,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-09-09"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -86653,7 +86768,7 @@
         "discovered": "2026-08-13",
         "last_verified": "2026-09-09"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -86710,7 +86825,7 @@
         "discovered": "2026-08-19",
         "last_verified": "2026-09-09"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -86783,7 +86898,7 @@
       },
       "role": "Quantitative Researcher Intern - Summer 2027",
       "category": "quant",
-      "apply_url": "https://jobs.smartrecruiters.com/InfiniteQuant/744000143307421",
+      "apply_url": "https://jobs.smartrecruiters.com/InfiniteQuant/744000147161390",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
@@ -86822,7 +86937,7 @@
         "resume_keywords": []
       },
       "dates": {
-        "posted": "2026-08-13",
+        "posted": "2026-09-03",
         "discovered": "2026-08-10",
         "last_verified": "2026-09-09"
       },
@@ -89671,7 +89786,7 @@
         "discovered": "2026-09-09",
         "last_verified": "2026-09-09"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -103255,7 +103370,7 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-09-09"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -106501,7 +106616,7 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-09-09"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -119417,7 +119532,7 @@
         "discovered": "2026-07-21",
         "last_verified": "2026-09-09"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -121936,6 +122051,58 @@
       "dates": {
         "posted": "2026-08-31",
         "discovered": "2026-08-31",
+        "last_verified": "2026-09-09"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "nisource-change-management-analytics-intern-2027",
+      "company": {
+        "name": "NiSource",
+        "slug": "nisource"
+      },
+      "role": "Change Management Analytics Intern",
+      "category": "software-engineering",
+      "apply_url": "https://nisource.wd1.myworkdayjobs.com/NiSource/job/Columbus-OH---Arena-District/Intern-People-Analytics---Change-Management_R00943378",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Columbus",
+          "state": "OH",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-31",
+        "discovered": "2026-09-09",
         "last_verified": "2026-09-09"
       },
       "status": "open",
@@ -128609,7 +128776,7 @@
         "discovered": "2026-08-21",
         "last_verified": "2026-09-09"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -138152,9 +138319,9 @@
       "dates": {
         "posted": "2026-08-31",
         "discovered": "2026-09-01",
-        "last_verified": "2026-09-04"
+        "last_verified": "2026-09-09"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -139898,7 +140065,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-09-09"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -143888,7 +144055,7 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-09-09"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -152205,7 +152372,7 @@
         "discovered": "2026-08-21",
         "last_verified": "2026-09-09"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -152416,9 +152583,9 @@
       "dates": {
         "posted": "2026-09-04",
         "discovered": "2026-09-04",
-        "last_verified": "2026-09-08"
+        "last_verified": "2026-09-09"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -152687,7 +152854,7 @@
         "discovered": "2026-09-08",
         "last_verified": "2026-09-09"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -153162,7 +153329,7 @@
         "discovered": "2026-08-18",
         "last_verified": "2026-09-09"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
