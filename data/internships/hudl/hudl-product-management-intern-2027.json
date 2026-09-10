@@ -1,20 +1,21 @@
 {
   "schema_version": "1.0",
-  "id": "royal-bank-of-canada-financial-crimes-quality-assurance-intern-grm-2027-d01a8c",
+  "id": "hudl-product-management-intern-2027",
   "company": {
-    "name": "Royal Bank of Canada",
-    "slug": "royal-bank-of-canada"
+    "name": "Hudl",
+    "slug": "hudl"
   },
-  "role": "Financial Crimes Quality Assurance Intern - Grm",
-  "category": "software-engineering",
-  "apply_url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Winter-2027---GRM--Financial-Crimes-Quality-Assurance-Intern--4-months-_R-0000184566-1",
+  "role": "Product Management Intern",
+  "category": "product",
+  "apply_url": "https://job-boards.greenhouse.io/hudl/jobs/8155103",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Toronto",
-      "country": "ON"
+      "city": "Lincoln",
+      "state": "NE",
+      "country": "USA"
     }
   ],
   "compensation": {
@@ -39,8 +40,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-17",
-    "discovered": "2026-09-03",
+    "posted": "2026-09-10",
+    "discovered": "2026-09-10",
     "last_verified": "2026-09-10"
   },
   "status": "open",

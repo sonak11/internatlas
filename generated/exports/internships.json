@@ -1,6 +1,6 @@
 {
   "generated": "2026-09-10",
-  "count": 4124,
+  "count": 4127,
   "internships": [
     {
       "schema_version": "1.0",
@@ -1118,7 +1118,7 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-09-10"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -21802,7 +21802,7 @@
         "discovered": "2026-08-14",
         "last_verified": "2026-09-10"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -36377,7 +36377,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "caci-software-engineer-intern-2027",
+      "id": "caci-software-engineer-intern-2027-89b97f",
       "company": {
         "name": "CACI",
         "slug": "caci"
@@ -36420,6 +36420,60 @@
       },
       "dates": {
         "posted": "2026-08-31",
+        "discovered": "2026-09-10",
+        "last_verified": "2026-09-10"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "caci-software-engineer-intern-2027",
+      "company": {
+        "name": "CACI",
+        "slug": "caci"
+      },
+      "role": "Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://caci.wd1.myworkdayjobs.com/external/job/Denver-CO-US/Software-Engineering-Intern---Summer-2027_331543-1",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Denver",
+          "state": "CO",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-10",
         "discovered": "2026-08-31",
         "last_verified": "2026-09-10"
       },
@@ -37889,7 +37943,7 @@
         "discovered": "2026-08-21",
         "last_verified": "2026-09-10"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -47980,58 +48034,6 @@
     },
     {
       "schema_version": "1.0",
-      "id": "coinbase-fp-a-intern-2027",
-      "company": {
-        "name": "Coinbase",
-        "slug": "coinbase",
-        "career_page": "https://www.coinbase.com/careers"
-      },
-      "role": "FP&A Intern",
-      "category": "software-engineering",
-      "apply_url": "https://www.coinbase.com/careers/positions/8175438?gh_jid=8175438",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Hybrid",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-09-08",
-        "discovered": "2026-09-08",
-        "last_verified": "2026-09-10"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:ats"
-      ]
-    },
-    {
-      "schema_version": "1.0",
       "id": "coinbase-internal-audit-intern-2027",
       "company": {
         "name": "Coinbase",
@@ -48603,13 +48605,13 @@
     },
     {
       "schema_version": "1.0",
-      "id": "coinbase-real-estate-builds-intern-ewx-2027",
+      "id": "coinbase-real-estate-builds-intern-2027",
       "company": {
         "name": "Coinbase",
         "slug": "coinbase",
         "career_page": "https://www.coinbase.com/careers"
       },
-      "role": "Real Estate & Builds Intern (EWX)",
+      "role": "Real Estate & Builds Intern",
       "category": "software-engineering",
       "apply_url": "https://www.coinbase.com/careers/positions/8175507?gh_jid=8175507",
       "season": "summer",
@@ -48644,7 +48646,7 @@
       },
       "dates": {
         "posted": "2026-09-08",
-        "discovered": "2026-09-09",
+        "discovered": "2026-09-10",
         "last_verified": "2026-09-10"
       },
       "status": "open",
@@ -48697,9 +48699,9 @@
       "dates": {
         "posted": "2026-09-08",
         "discovered": "2026-09-09",
-        "last_verified": "2026-09-09"
+        "last_verified": "2026-09-10"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:ats"
@@ -48806,6 +48808,58 @@
       "tags": [
         "auto-ingested",
         "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "coinbase-strategic-finance-intern-2027",
+      "company": {
+        "name": "Coinbase",
+        "slug": "coinbase",
+        "career_page": "https://www.coinbase.com/careers"
+      },
+      "role": "Strategic Finance Intern",
+      "category": "software-engineering",
+      "apply_url": "https://www.coinbase.com/careers/positions/8175438?gh_jid=8175438",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Hybrid",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-08",
+        "discovered": "2026-09-10",
+        "last_verified": "2026-09-10"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
       ]
     },
     {
@@ -77247,7 +77301,7 @@
         "discovered": "2026-08-27",
         "last_verified": "2026-09-10"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -77352,7 +77406,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-09-10"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -77405,7 +77459,7 @@
         "discovered": "2026-09-09",
         "last_verified": "2026-09-10"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -77458,7 +77512,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-09-10"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -77510,7 +77564,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-10"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -77562,7 +77616,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-10"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -77616,7 +77670,7 @@
         "discovered": "2026-09-08",
         "last_verified": "2026-09-10"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -77669,7 +77723,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-10"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -77720,7 +77774,7 @@
         "discovered": "2026-09-10",
         "last_verified": "2026-09-10"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -77774,7 +77828,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-10"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -77825,7 +77879,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-10"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -77876,7 +77930,7 @@
         "discovered": "2026-09-09",
         "last_verified": "2026-09-10"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -77927,7 +77981,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-09-10"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -77979,7 +78033,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-10"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -78030,7 +78084,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-10"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -78083,58 +78137,7 @@
         "discovered": "2026-08-20",
         "last_verified": "2026-09-10"
       },
-      "status": "closed",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "goldman-sachs-summer-analyst-intern-americas-engineering-2027-48b2d0",
-      "company": {
-        "name": "Goldman Sachs",
-        "slug": "goldman-sachs"
-      },
-      "role": "Summer Analyst Intern - Americas - Engineering",
-      "category": "software-engineering",
-      "apply_url": "https://higher.gs.com/roles/171567?type=students",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Toronto",
-          "country": "ON"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-08-15",
-        "discovered": "2026-09-08",
-        "last_verified": "2026-09-10"
-      },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -78186,7 +78189,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-10"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -78201,14 +78204,14 @@
       },
       "role": "Summer Analyst Intern - Americas - Engineering",
       "category": "software-engineering",
-      "apply_url": "https://higher.gs.com/roles/171564?type=students",
+      "apply_url": "https://higher.gs.com/roles/171567?type=students",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
       "locations": [
         {
-          "city": "NYC",
-          "country": "USA"
+          "city": "Toronto",
+          "country": "ON"
         }
       ],
       "compensation": {
@@ -78290,7 +78293,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-10"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -78341,7 +78344,7 @@
         "discovered": "2026-09-10",
         "last_verified": "2026-09-10"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -78395,7 +78398,7 @@
         "discovered": "2026-09-06",
         "last_verified": "2026-09-10"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -78449,7 +78452,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-10"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -78502,7 +78505,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-10"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -78556,7 +78559,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-09-10"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -78658,7 +78661,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-10"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -78760,7 +78763,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-10"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -78813,7 +78816,7 @@
         "discovered": "2026-08-29",
         "last_verified": "2026-09-10"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -78866,7 +78869,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-09-10"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -85656,6 +85659,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "hudl-product-management-intern-2027",
+      "company": {
+        "name": "Hudl",
+        "slug": "hudl"
+      },
+      "role": "Product Management Intern",
+      "category": "product",
+      "apply_url": "https://job-boards.greenhouse.io/hudl/jobs/8155103",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Lincoln",
+          "state": "NE",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-10",
+        "discovered": "2026-09-10",
+        "last_verified": "2026-09-10"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "hudson-river-trading-algorithm-development-intern-quant-research-2027-92c392",
       "company": {
         "name": "Hudson River Trading",
@@ -89936,7 +89991,7 @@
         "discovered": "2026-09-07",
         "last_verified": "2026-09-10"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -90048,7 +90103,7 @@
         "discovered": "2026-08-19",
         "last_verified": "2026-09-10"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -91641,6 +91696,57 @@
       "tags": [
         "auto-ingested",
         "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "intel-compiler-engineer-intern-sycl-runtime-2027",
+      "company": {
+        "name": "Intel",
+        "slug": "intel"
+      },
+      "role": "Compiler Engineer Intern - SYCL Runtime",
+      "category": "software-engineering",
+      "apply_url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Canada-Toronto/Compiler-Engineering-Undergraduate-Intern---SYCL-Runtime_JR0286849",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Toronto",
+          "country": "ON"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-10",
+        "discovered": "2026-09-10",
+        "last_verified": "2026-09-10"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
       ]
     },
     {
@@ -101824,7 +101930,7 @@
         "discovered": "2026-08-12",
         "last_verified": "2026-09-10"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -106872,6 +106978,61 @@
         "last_verified": "2026-09-03"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "mackenzie-investments-winter-intern-investment-management-multi-asset-2027",
+      "company": {
+        "name": "Mackenzie Investments",
+        "slug": "mackenzie-investments"
+      },
+      "role": "Winter Intern - Investment Management - Multi-Asset",
+      "category": "software-engineering",
+      "apply_url": "https://careersen-mackenzieinvestments.icims.com/jobs/6008/job?mobile=true&needsRedirect=false",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Winnipeg",
+          "country": "MB"
+        },
+        {
+          "city": "Toronto",
+          "country": "ON"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-10",
+        "discovered": "2026-09-10",
+        "last_verified": "2026-09-10"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -118278,9 +118439,9 @@
       "dates": {
         "posted": "2026-08-26",
         "discovered": "2026-08-26",
-        "last_verified": "2026-09-02"
+        "last_verified": "2026-09-10"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -120206,7 +120367,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-10"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -142571,6 +142732,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "planview-software-engineer-intern-2027",
+      "company": {
+        "name": "Planview",
+        "slug": "planview"
+      },
+      "role": "Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://careers.planview.com/jobs/5128?icims=1",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Austin",
+          "state": "TX",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-10",
+        "discovered": "2026-09-10",
+        "last_verified": "2026-09-10"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "plusai-deep-learning-research-intern-multimodal-bev-perception-2026",
       "company": {
         "name": "PlusAI",
@@ -156810,7 +157023,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "royal-bank-of-canada-financial-crimes-quality-assurance-intern-grm-2027-d01a8c",
+      "id": "royal-bank-of-canada-financial-crimes-quality-assurance-intern-grm-2027",
       "company": {
         "name": "Royal Bank of Canada",
         "slug": "royal-bank-of-canada"
@@ -156819,57 +157032,6 @@
       "category": "software-engineering",
       "apply_url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Winter-2027---GRM--Financial-Crimes-Quality-Assurance-Intern--4-months-_R-0000184566-1",
       "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Toronto",
-          "country": "ON"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-08-17",
-        "discovered": "2026-09-03",
-        "last_verified": "2026-09-10"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "royal-bank-of-canada-financial-crimes-quality-assurance-intern-grm-2027",
-      "company": {
-        "name": "Royal Bank of Canada",
-        "slug": "royal-bank-of-canada"
-      },
-      "role": "Financial Crimes Quality Assurance Intern - Grm",
-      "category": "software-engineering",
-      "apply_url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/Winter-2027---GRM--Financial-Crimes-Quality-Assurance-Intern--4-months-_R-0000184566-2",
-      "season": "winter",
       "year": 2027,
       "work_mode": "onsite",
       "locations": [
@@ -178757,7 +178919,7 @@
         "discovered": "2026-09-01",
         "last_verified": "2026-09-10"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -197333,7 +197495,7 @@
         "discovered": "2026-09-02",
         "last_verified": "2026-09-10"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"

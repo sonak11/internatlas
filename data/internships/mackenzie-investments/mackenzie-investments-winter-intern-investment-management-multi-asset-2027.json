@@ -1,17 +1,21 @@
 {
   "schema_version": "1.0",
-  "id": "l-ger-research-intern-2026",
+  "id": "mackenzie-investments-winter-intern-investment-management-multi-asset-2027",
   "company": {
-    "name": "Léger",
-    "slug": "l-ger"
+    "name": "Mackenzie Investments",
+    "slug": "mackenzie-investments"
   },
-  "role": "Research Intern",
-  "category": "research",
-  "apply_url": "https://jobs.smartrecruiters.com/Leger2/744000141569336",
-  "season": "fall",
-  "year": 2026,
+  "role": "Winter Intern - Investment Management - Multi-Asset",
+  "category": "software-engineering",
+  "apply_url": "https://careersen-mackenzieinvestments.icims.com/jobs/6008/job?mobile=true&needsRedirect=false",
+  "season": "winter",
+  "year": 2027,
   "work_mode": "onsite",
   "locations": [
+    {
+      "city": "Winnipeg",
+      "country": "MB"
+    },
     {
       "city": "Toronto",
       "country": "ON"
@@ -24,9 +28,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -41,11 +43,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-12",
-    "discovered": "2026-08-12",
+    "posted": "2026-09-10",
+    "discovered": "2026-09-10",
     "last_verified": "2026-09-10"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

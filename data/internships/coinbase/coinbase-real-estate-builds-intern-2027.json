@@ -1,12 +1,12 @@
 {
   "schema_version": "1.0",
-  "id": "coinbase-real-estate-builds-intern-ewx-2027",
+  "id": "coinbase-real-estate-builds-intern-2027",
   "company": {
     "name": "Coinbase",
     "slug": "coinbase",
     "career_page": "https://www.coinbase.com/careers"
   },
-  "role": "Real Estate & Builds Intern (EWX)",
+  "role": "Real Estate & Builds Intern",
   "category": "software-engineering",
   "apply_url": "https://www.coinbase.com/careers/positions/8175507?gh_jid=8175507",
   "season": "summer",
@@ -41,7 +41,7 @@
   },
   "dates": {
     "posted": "2026-09-08",
-    "discovered": "2026-09-09",
+    "discovered": "2026-09-10",
     "last_verified": "2026-09-10"
   },
   "status": "open",
