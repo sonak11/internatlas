@@ -33,7 +33,7 @@ _Generated 2026-09-10_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 2423 | `███████████████` |
+| software-engineering | 2424 | `███████████████` |
 | ai | 328 | `██` |
 | quant | 273 | `██` |
 | machine-learning | 186 | `█` |
@@ -85,6 +85,8 @@ _Generated 2026-09-10_
 - Amazon — Software Development Engineer Internship - Fall 2026 - US
 - Amcor — Product Development Engineer Intern
 - AMD — Field Applications Engineer Intern - Masters
+- AMD — Research Engineer Intern/Co-op - AMD Research
+- AMD — Research Engineering Intern/Co-op - AMD Research
 - Ameren — DERMS Co-op/Intern
 - American Enterprise Institute — Housing Center Intern
 - American Enterprise Institute — Intern: Economic Policy
@@ -127,6 +129,7 @@ _Generated 2026-09-10_
 - BNY — Trading Intern - Trading
 - Boom Supersonic — Engineering and Tech Intern
 - Booz Allen — AI RAN Telecommunications Engineer Intern
+- Booz Allen — Applied AI Intern - University
 - Booz Allen — Data Scientist Intern - University - Summer Games
 - Booz Allen — Software Developer Intern - University
 - Booz Allen — Software Engineer Intern
@@ -154,6 +157,7 @@ _Generated 2026-09-10_
 - BP — Trading, Origination, Analytics, and Operations Intern - Supply, Trading, & Shipping - Trading, Origination, Analytics, & Operations
 - BRG — Health Analytics Intern - Health Analytics Practice
 - Brookfield — AI Value Creation Office Intern
+- Brunswick — Software Engineer Intern - Boating Intelligence Design Lab
 - By Light Professional IT Services — Software Design Engineer Intern
 - ByteDance — Applied Machine Learning Production Engineer Intern - AML Production Engineer
 - ByteDance — Machine Learning Engineer Intern
@@ -674,6 +678,7 @@ _Generated 2026-09-10_
 - Synchrony Financial — Software Engineer Intern
 - Synchrony Financial — Technology Intern
 - Syngenta Group — Data Entry Intern - Product Safety
+- Systems Planning and Analysis (SPA) — Science & Technology Intern
 - Tacit — Antenna Engineer Intern
 - Tacit — Radio Frequency Hardware Intern - Fall 2026
 - TC Energy — Engineering Intern
@@ -681,6 +686,7 @@ _Generated 2026-09-10_
 - Techtronic Industries (TTI) — Electrical Engineer Intern
 - Tenstorrent — Design Verification Engineer Intern
 - Tesla — Access Control Systems Integration Engineer Intern - Vehicle Software
+- Tesla — AI Performance Engineer Intern - AI Performance Engineer - Performance Optimization
 - Tesla — Automation Development & Tooling Engineer Intern
 - Tesla — Backend Engineer Intern - Infrastructure Engineering
 - Tesla — Charging Data Modeling Intern - Charging Data Modeling - Machine Learning Engineer
@@ -805,6 +811,7 @@ _Generated 2026-09-10_
 - Wex — Artificial Intelligence Intern - AI/ML/NLP Engineer
 - WhiteWater Midstream — Trading Operations Intern - Summer 2027
 - Winland Foods — Product Development Intern
+- Wipfli — Product Development Intern
 - Woodward Governor — SAP S/4HANA Analyst Intern
 - Xcel Energy — Damage Prevention Intern
 - Zipline — Applications Engineer Intern - Spring 2027

@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "brunswick-software-engineer-intern-boating-intelligence-design-lab-2026",
+  "id": "waymo-2027-summer-intern-phd-vehicle-intent-and-prediction-2027",
   "company": {
-    "name": "Brunswick",
-    "slug": "brunswick"
+    "name": "Waymo",
+    "slug": "waymo",
+    "career_page": "https://waymo.com/careers"
   },
-  "role": "Software Engineer Intern - Boating Intelligence Design Lab",
-  "category": "design",
-  "apply_url": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Champaign-IL/Software-Engineering-Intern_JR-051316",
-  "season": "fall",
-  "year": 2026,
+  "role": "2027 Summer Intern, PhD, Vehicle Intent and Prediction",
+  "category": "software-engineering",
+  "apply_url": "https://careers.withwaymo.com/jobs?gh_jid=8189848",
+  "season": "summer",
+  "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Champaign",
-      "state": "IL",
+      "city": "Mountain View",
       "country": "USA"
     }
   ],
@@ -40,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-24",
-    "discovered": "2026-08-24",
+    "posted": "2026-09-10",
+    "discovered": "2026-09-10",
     "last_verified": "2026-09-10"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:ats"
   ]
 }

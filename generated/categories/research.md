@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🔬 Research Internships
 
-**139** tracked · **82** open now
+**139** tracked · **80** open now
 
 ## Current openings
 
@@ -11,8 +11,6 @@
 | [Abundant](generated/companies/abundant.md) | [Member of Technical Staff Intern - Research](https://jobs.ashbyhq.com/abundant/1ebf7fda-c322-404d-acc3-2757bbd79996/application?embed=true) | SF | Onsite | 2026-08-20 | Rolling | 🟢 Open | ❔ |
 | [Abundant](generated/companies/abundant.md) | [Software Engineering Intern, Research Focused](https://www.workatastartup.com/jobs/94634) | San Francisco, CA | Onsite | 2026-05-14 | Rolling | 🟢 Open | ❌ |
 | [Altamira Technologies](generated/companies/altamira-technologies.md) | [Research and Development Intern](https://jobs.jobvite.com/altamiracorps/job/oHqCAfw3?nl=1&nl=1&fr=false) | Fairborn, OH | Onsite | 2026-08-10 | Rolling | 🟢 Open | ❔ |
-| [AMD](generated/companies/amd.md) | [Research Engineer Intern/Co-op - AMD Research](https://careers.amd.com/jobs/90925?icims=1) | San Jose, CA +1 | Onsite | 2026-08-21 | Rolling | 🟢 Open | ❔ |
-| [AMD](generated/companies/amd.md) | [Research Engineering Intern/Co-op - AMD Research](https://careers.amd.com/jobs/90926?icims=1) | Secaucus, NJ +5 | Onsite | 2026-08-21 | Rolling | 🟢 Open | ❔ |
 | [Applied Intuition](generated/companies/applied-intuition.md) | [Research Intern - Reinforcement Learning - Robotics](https://jobs.ashbyhq.com/applied/bb953f29-0059-4a40-aa9e-3a8c88733902/application?embed=true) | Sunnyvale, CA | Onsite | 2026-06-27 | Rolling | 🟢 Open | ❔ |
 | [Applied Intuition](generated/companies/applied-intuition.md) | [Research Intern - World-Action Foundation Model - Robotics](https://jobs.ashbyhq.com/applied/edc2528d-6e6c-4a67-b871-bfe7d9c890b4/application?embed=true) | Sunnyvale, CA | Onsite | 2026-06-27 | Rolling | 🟢 Open | ❔ |
 | [AQR Capital Management](generated/companies/aqr-capital-management.md) | [Arbitrage Research Summer Analyst Intern - AQR Arbitrage](https://careers.aqr.com/jobs?gh_jid=8156993&gh_jid=8156993) | Greenwich, CT | Onsite | 2026-08-25 | Rolling | 🟢 Open | ❔ |
@@ -92,6 +90,8 @@
 | [Yotta Labs](generated/companies/yotta-labs.md) | [Research Engineer Intern](https://jobs.ashbyhq.com/yotta/09821a51-fbe6-42a7-a566-0d2b5d40fae3) | Remote | Remote | 2026-08-04 | Rolling | 🟢 Open | ❔ |
 | [Alljoined](generated/companies/alljoined.md) | [Research Intern](https://jobs.ashbyhq.com/alljoined/b9e2f607-6a07-4836-8d89-e4f6de8bd515/application?embed=true) | SF | Onsite | 2026-07-04 | Rolling | 🔴 Closed | ❔ |
 | [AMAROK Security](generated/companies/amarok-security.md) | [Research and Development Intern](https://job-boards.greenhouse.io/amarok/jobs/6018661004) | Columbia, SC | Onsite | 2026-06-11 | Rolling | 🔴 Closed | ❔ |
+| [AMD](generated/companies/amd.md) | [Research Engineer Intern/Co-op - AMD Research](https://careers.amd.com/jobs/90925?icims=1) | San Jose, CA +1 | Onsite | 2026-08-21 | Rolling | 🔴 Closed | ❔ |
+| [AMD](generated/companies/amd.md) | [Research Engineering Intern/Co-op - AMD Research](https://careers.amd.com/jobs/90926?icims=1) | Secaucus, NJ +5 | Onsite | 2026-08-21 | Rolling | 🔴 Closed | ❔ |
 | [Analysis Group](generated/companies/analysis-group.md) | [Research Professional Intern - Generalist](https://analystcareers-analysisgroup.icims.com/jobs/3007/job?mobile=true&needsRedirect=false) | Montreal +1 | Onsite | 2026-08-14 | Rolling | 🔴 Closed | ❔ |
 | [Analytical Mechanics Associates](generated/companies/analytical-mechanics-associates.md) | [Research Scientist Intern](https://amainc.wd12.myworkdayjobs.com/ama_careers/job/Remote---New-Jersey/Graduate-Research-Scientist-intern_R-100717-1) | New Jersey | Onsite | 2026-08-13 | Rolling | 🔴 Closed | ❔ |
 | [Bosch Home Comfort](generated/companies/bosch-home-comfort.md) | [Research Intern](https://jobs.smartrecruiters.com/BoschGroup/744000136313549) | Sunnyvale, CA | Onsite | 2026-07-07 | Rolling | 🔴 Closed | ❔ |
@@ -162,7 +162,6 @@
 - General Motors (3)
 - Together AI (3)
 - Abundant (2)
-- AMD (2)
 - Applied Intuition (2)
 - Block (2)
 - Google (2)
@@ -170,6 +169,7 @@
 - Mistral AI (2)
 - Qorvo (2)
 - Shure (2)
+- AMD (2)
 - Nationwide Children's Hospital (2)
 - Warner Bros. (2)
 - Altamira Technologies (1)

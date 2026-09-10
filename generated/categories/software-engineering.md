@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 💻 Software Engineering Internships
 
-**2423** tracked · **1494** open now
+**2424** tracked · **1493** open now
 
 ## Current openings
 
@@ -1184,7 +1184,6 @@
 | [Susquehanna International Group (SIG)](generated/companies/susquehanna-international-group-sig.md) | [Analytics Intern](https://careers-sig.icims.com/jobs/11099/job?mobile=true&needsRedirect=false) | Richmond, VA | Onsite | 2026-06-25 | Rolling | 🟢 Open | ❔ |
 | [Susquehanna International Group (SIG)](generated/companies/susquehanna-international-group-sig.md) | [Electricity + Natural Gas Analyst Intern](https://careers-sig.icims.com/jobs/10945/job?mobile=true&needsRedirect=false) | Ardmore, PA | Onsite | 2026-06-04 | Rolling | 🟢 Open | ❔ |
 | [Syska Hennessy Group](generated/companies/syska-hennessy-group.md) | [Innovations Intern - Full Stack/Front End Engineering](https://job-boards.greenhouse.io/syskahennessy/jobs/8147733) | NYC | Onsite | 2026-08-21 | Rolling | 🟢 Open | ❔ |
-| [Systems Planning and Analysis (SPA)](generated/companies/systems-planning-and-analysis-spa.md) | [Science & Technology Intern](https://spa.jibeapply.com/jobs/23220?icims=1) | Alexandria, VA | Onsite | 2026-08-06 | Rolling | 🟢 Open | ❔ |
 | [Talos](generated/companies/talos.md) | [Software Engineer Intern - Dealer](https://jobs.ashbyhq.com/Talos-Trading/91fd5274-3b6b-43cf-b366-9f6dc2ae5977/application?embed=true) | NYC | Onsite | 2026-09-08 | Rolling | 🟢 Open | ❔ |
 | [Talos](generated/companies/talos.md) | [Software Engineer Intern - RFQ](https://jobs.ashbyhq.com/Talos-Trading/2c833180-484f-4657-80e3-f822cf1a0285/application?embed=true) | NYC | Onsite | 2026-09-08 | Rolling | 🟢 Open | ❔ |
 | [Tarrant Regional Water District](generated/companies/tarrant-regional-water-district.md) | [Energy Intern](https://trwd.wd1.myworkdayjobs.com/TRWDCareers/job/Fort-Worth-TX/Summer-2027-Energy-Intern--T047-_JR100217) | Fort Worth, TX | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
@@ -1452,6 +1451,7 @@
 | [Waymo](generated/companies/waymo.md) | [2027 Summer Intern, BS/MS, Pipeline and Test Health Engineer](https://careers.withwaymo.com/jobs?gh_jid=8177651) | San Francisco | Onsite | 2026-09-03 | Rolling | 🟢 Open | ❔ |
 | [Waymo](generated/companies/waymo.md) | [2027 Summer Intern, MBA, Operations Planning](https://careers.withwaymo.com/jobs?gh_jid=8165014) | San Francisco | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
 | [Waymo](generated/companies/waymo.md) | [2027 Summer Intern, MS, Software Engineering, Behavior Test](https://careers.withwaymo.com/jobs?gh_jid=8174504) | San Francisco +1 | Onsite | 2026-09-03 | Rolling | 🟢 Open | ❔ |
+| [Waymo](generated/companies/waymo.md) | [2027 Summer Intern, PhD, Vehicle Intent and Prediction](https://careers.withwaymo.com/jobs?gh_jid=8189848) | Mountain View | Onsite | 2026-09-10 | Rolling | 🟢 Open | ❔ |
 | [Wealthsimple](generated/companies/wealthsimple.md) | [Credit & Fraud Analytics Intern - Winter 2027](https://jobs.ashbyhq.com/wealthsimple/c4cea9f1-950e-4035-83a8-7126b72b3a28/application?embed=true) | Toronto | Onsite | 2026-09-03 | Rolling | 🟢 Open | ❔ |
 | [WEC Energy Group](generated/companies/wec-energy-group.md) | [Energy Analytics Intern](https://careers.wecenergygroup.com/We_Energies/job/Milwaukee-Intern-Energy-Analytics-WI-53203/1420267800/?ats=successfactors) | Milwaukee, WI | Onsite | 2026-08-17 | Rolling | 🟢 Open | ❔ |
 | [WEC Energy Group](generated/companies/wec-energy-group.md) | [Renewables Data Analytics Intern](https://careers.wecenergygroup.com/We_Energies/job/Milwaukee-Intern-Renewables-Data-Analytics-WI-53203/1419740100/?ats=successfactors) | Milwaukee, WI +1 | Onsite | 2026-08-14 | Rolling | 🟢 Open | ❔ |
@@ -1466,7 +1466,6 @@
 | [WhatNot](generated/companies/whatnot.md) | [Software Engineer Intern](https://jobs.ashbyhq.com/whatnot/928ffdca-b316-40ce-b82b-94b570919bcd/application?embed=true) | Seattle, WA +3 | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
 | [Williams-Sonoma](generated/companies/williams-sonoma.md) | [Merchandising Intern](https://ehac.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/20062) | Brooklyn, NY | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
 | [Wipfli](generated/companies/wipfli.md) | [Data and Analytics Consulting Intern - Summer 2027](https://careers-wipfli.icims.com/jobs/8295/job?mobile=true&needsRedirect=false) | Milwaukee, WI | Onsite | 2026-09-04 | Rolling | 🟢 Open | ❔ |
-| [Wipfli](generated/companies/wipfli.md) | [Product Development Intern](https://careers-wipfli.icims.com/jobs/8307/job?mobile=true&needsRedirect=false) | Milwaukee, WI | Onsite | 2026-09-04 | Rolling | 🟢 Open | ❔ |
 | [Wipfli](generated/companies/wipfli.md) | [Product Development Intern](https://careers-wipfli.icims.com/jobs/8305/job?mobile=true&needsRedirect=false) | Chicago, IL | Onsite | 2026-09-04 | Rolling | 🟢 Open | ❔ |
 | [Wipfli](generated/companies/wipfli.md) | [Product Development Intern - Summer 2027](https://careers-wipfli.icims.com/jobs/8304/job?mobile=true&needsRedirect=false) | Minneapolis, MN | Onsite | 2026-09-04 | Rolling | 🟢 Open | ❔ |
 | [WSP](generated/companies/wsp.md) | [Software Developer Intern](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/86808) | Dallas, TX | Onsite | 2026-05-12 | Rolling | 🟢 Open | ❔ |
@@ -2265,6 +2264,7 @@
 | [Synchrony Financial](generated/companies/synchrony-financial.md) | [Software Engineer Intern](https://synchronyfinancial.wd5.myworkdayjobs.com/University/job/Canton-Engagement-Hub-OH/Software-Engineer-Intern---Fall-2026_2601751-1) | Sharonville, OH +2 | Onsite | 2026-06-12 | Rolling | 🔴 Closed | ❔ |
 | [Synchrony Financial](generated/companies/synchrony-financial.md) | [Technology Intern](https://synchronyfinancial.wd5.myworkdayjobs.com/University/job/Other-Remote-NY/Technology-Intern---Fall-2026_2601748) | NYC | Onsite | 2026-06-12 | Rolling | 🔴 Closed | ❔ |
 | [Syngenta Group](generated/companies/syngenta-group.md) | [Data Entry Intern - Product Safety](https://jobs.smartrecruiters.com/SyngentaGroup/744000146744188) | Greensboro, NC | Onsite | 2026-09-01 | Rolling | 🔴 Closed | ❔ |
+| [Systems Planning and Analysis (SPA)](generated/companies/systems-planning-and-analysis-spa.md) | [Science & Technology Intern](https://spa.jibeapply.com/jobs/23220?icims=1) | Alexandria, VA | Onsite | 2026-08-06 | Rolling | 🔴 Closed | ❔ |
 | [T. Rowe Price](generated/companies/t-rowe-price.md) | [Global Product Intern](https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Global-Product-Internship-Program_82693) | Baltimore, MD | Onsite | 2026-07-23 | Rolling | 🔴 Closed | ❔ |
 | [T. Rowe Price](generated/companies/t-rowe-price.md) | [Technology and Data Intern](https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Technology-and-Data-Internship_82677) | Owings Mills, MD +1 | Onsite | 2026-07-23 | Rolling | 🔴 Closed | ❔ |
 | [Tacit](generated/companies/tacit.md) | [Antenna Engineer Intern](https://jobs.ashbyhq.com/tacit/9d8cf04c-4033-40ff-9af4-91dd8e4f02c6/application?embed=true) | SF | Onsite | 2026-07-15 | Rolling | 🔴 Closed | ❔ |
@@ -2414,6 +2414,7 @@
 | [Williams](generated/companies/williams.md) | [Engineering Intern](https://williams.wd5.myworkdayjobs.com/External/job/OK-Tulsa---Headquarters/Summer-2027-Return-Engineering-Intern_R112502) | Salt Lake City, UT +2 | Onsite | 2026-08-03 | Rolling | 🔴 Closed | ❔ |
 | [Willkie Farr & Gallagher](generated/companies/willkie-farr-gallagher.md) | [Financial Data Analyst Intern](https://uscareers-willkie.icims.com/jobs/2194/job?mobile=true&needsRedirect=false) | NYC | Onsite | 2026-08-19 | Rolling | 🔴 Closed | ❔ |
 | [Winland Foods](generated/companies/winland-foods.md) | [Product Development Intern](https://winlandfoods.wd1.myworkdayjobs.com/external/job/USA-IL-Oak-Brook/Product-Development-Intern_R28807) | Oak Brook, IL | Onsite | 2026-08-05 | Rolling | 🔴 Closed | ❔ |
+| [Wipfli](generated/companies/wipfli.md) | [Product Development Intern](https://careers-wipfli.icims.com/jobs/8307/job?mobile=true&needsRedirect=false) | Milwaukee, WI | Onsite | 2026-09-04 | Rolling | 🔴 Closed | ❔ |
 | [Woodward Governor](generated/companies/woodward-governor.md) | [SAP S/4HANA Analyst Intern](https://woodward.wd5.myworkdayjobs.com/woodward/job/Niles-IL-US/SAP-S-4-HANA-Analyst-Intern-Summer-2027_JR112066) | Rockford, IL +2 | Onsite | 2026-09-01 | Rolling | 🔴 Closed | ❔ |
 | [WSP](generated/companies/wsp.md) | [Business Intelligence Intern](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/92595) | Toronto +1 | Onsite | 2026-08-07 | Rolling | 🔴 Closed | ❔ |
 | [Xcel Energy](generated/companies/xcel-energy.md) | [Damage Prevention Intern](https://xcelenergy.wd1.myworkdayjobs.com/External/job/St-Paul-MN-55117/Damage-Prevention-Intern---MN_JR115636-1) | Minneapolis, MN +1 | Onsite | 2026-09-02 | Rolling | 🔴 Closed | ❔ |
@@ -2536,6 +2537,7 @@
 - Procter & Gamble (5)
 - Repsol (5)
 - Vanguard (5)
+- Waymo (5)
 - BP (5)
 - Hendrick Motorsports (5)
 - Synchrony Financial (5)
@@ -2578,7 +2580,6 @@
 - Tokyo Electron (4)
 - Trillium (4)
 - United Parcel Service (4)
-- Waymo (4)
 - Western & Southern Financial Group (4)
 - Westinghouse Electric Company (4)
 - Wipfli (4)
@@ -2994,7 +2995,6 @@
 - State Farm (1)
 - Stellar Science (1)
 - Syska Hennessy Group (1)
-- Systems Planning and Analysis (SPA) (1)
 - Tarrant Regional Water District (1)
 - Teledyne Technologies Incorporated (1)
 - Texas A&M International University (1)
@@ -3230,6 +3230,7 @@
 - State of North Carolina (1)
 - Strattec (1)
 - Syngenta Group (1)
+- Systems Planning and Analysis (SPA) (1)
 - Tacit (1)
 - tarte cosmetics (1)
 - Techtronic Industries (TTI) (1)

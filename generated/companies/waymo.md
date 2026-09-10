@@ -14,6 +14,7 @@
 | Waymo | [2027 Summer Intern, MS, Software Engineering, Behavior Test](https://careers.withwaymo.com/jobs?gh_jid=8174504) | San Francisco +1 | Onsite | 2026-09-03 | Rolling | 🟢 Open | ❔ |
 | Waymo | [2027 Summer Intern, MS/PhD, Data Science - Commercialization Testing](https://careers.withwaymo.com/jobs?gh_jid=8167323) | San Francisco +1 | Onsite | 2026-08-31 | Rolling | 🟢 Open | ❔ |
 | Waymo | [2027 Summer Intern, MS/PhD, Quantitative UX Researcher, Growth/International Expansion](https://careers.withwaymo.com/jobs?gh_jid=8163364) | San Francisco | Onsite | 2026-08-28 | Rolling | 🟢 Open | ❔ |
+| Waymo | [2027 Summer Intern, PhD, Vehicle Intent and Prediction](https://careers.withwaymo.com/jobs?gh_jid=8189848) | Mountain View | Onsite | 2026-09-10 | Rolling | 🟢 Open | ❔ |
 
 ## Related
 

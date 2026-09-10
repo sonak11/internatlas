@@ -1,6 +1,6 @@
 {
   "generated": "2026-09-10",
-  "count": 4127,
+  "count": 4128,
   "internships": [
     {
       "schema_version": "1.0",
@@ -8754,7 +8754,7 @@
         "discovered": "2026-08-21",
         "last_verified": "2026-09-10"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -8833,7 +8833,7 @@
         "discovered": "2026-08-25",
         "last_verified": "2026-09-10"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -27563,7 +27563,7 @@
         "discovered": "2026-08-28",
         "last_verified": "2026-09-10"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -32130,7 +32130,7 @@
         "discovered": "2026-08-24",
         "last_verified": "2026-09-10"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -179024,7 +179024,7 @@
         "discovered": "2026-08-08",
         "last_verified": "2026-09-10"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -182404,7 +182404,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-09-10"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -218452,6 +218452,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "waymo-2027-summer-intern-phd-vehicle-intent-and-prediction-2027",
+      "company": {
+        "name": "Waymo",
+        "slug": "waymo",
+        "career_page": "https://waymo.com/careers"
+      },
+      "role": "2027 Summer Intern, PhD, Vehicle Intent and Prediction",
+      "category": "software-engineering",
+      "apply_url": "https://careers.withwaymo.com/jobs?gh_jid=8189848",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Mountain View",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-10",
+        "discovered": "2026-09-10",
+        "last_verified": "2026-09-10"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "wealthsimple-credit-fraud-analytics-intern-winter-2027-2027",
       "company": {
         "name": "Wealthsimple",
@@ -220713,7 +220765,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-10"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"

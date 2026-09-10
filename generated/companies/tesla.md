@@ -9,7 +9,6 @@
 | Tesla | [Access Control Systems Integration Engineer Intern - Access Control Systems](https://www.tesla.com/careers/search/job/282258) | Palo Alto, CA | Onsite | 2026-09-03 | Rolling | 🟢 Open | ❔ |
 | Tesla | [Actuator Test Engineer Intern - Optimus](https://www.tesla.com/careers/search/job/259950) | Langley | Onsite | 2026-06-07 | Rolling | 🟢 Open | ❔ |
 | Tesla | [AI Hardware Physical Design Engineer Intern - AI Hardware](https://www.tesla.com/careers/search/job/281233) | Palo Alto, CA +2 | Onsite | 2026-08-26 | Rolling | 🟢 Open | ❔ |
-| Tesla | [AI Performance Engineer Intern - AI Performance Engineer - Performance Optimization](https://www.tesla.com/careers/search/job/263759) | Palo Alto, CA | Onsite | 2026-06-07 | Rolling | 🟢 Open | ❔ |
 | Tesla | [AI/ML Modeling Engineer Intern - ML Modeling Engineer - AI Hardware](https://www.tesla.com/careers/search/job/275316) | Palo Alto, CA | Onsite | 2026-06-29 | Rolling | 🟢 Open | ❔ |
 | Tesla | [Android Engineer Intern - Mobile Software](https://www.tesla.com/careers/search/job/280605) | Palo Alto, CA | Onsite | 2026-08-26 | Rolling | 🟢 Open | ❔ |
 | Tesla | [Applied AI Engineer Intern - AI Hardware](https://www.tesla.com/careers/search/job/279603) | Palo Alto, CA | Onsite | 2026-08-11 | Rolling | 🟢 Open | ❔ |
@@ -100,6 +99,7 @@
 | Tesla | [Access Control Systems Integration Engineer Intern - Vehicle Software](https://www.tesla.com/careers/search/job/277192) | Palo Alto, CA | Onsite | 2026-07-17 | Rolling | 🔴 Closed | ❔ |
 | Tesla | [AI Hardware Design Engineer Intern - AI Hardware Design Engineer - AI Hardware](https://www.tesla.com/careers/search/job/272462) | Palo Alto, CA +1 | Onsite | 2026-06-07 | Rolling | 🔴 Closed | ❔ |
 | Tesla | [AI Inference Engineer Intern - Software Compiler Engineer - AI Inference](https://www.tesla.com/careers/search/job/263211) | Palo Alto, CA | Onsite | 2026-06-07 | Rolling | 🔴 Closed | ❔ |
+| Tesla | [AI Performance Engineer Intern - AI Performance Engineer - Performance Optimization](https://www.tesla.com/careers/search/job/263759) | Palo Alto, CA | Onsite | 2026-06-07 | Rolling | 🔴 Closed | ❔ |
 | Tesla | [Automated Diagnostics Intern - Software Engineer](https://www.tesla.com/careers/search/job/270521) | Palo Alto, CA | Onsite | 2026-06-07 | Rolling | 🔴 Closed | ❔ |
 | Tesla | [Automation Development & Tooling Engineer Intern](https://www.tesla.com/careers/search/job/278963) | Grand Rapids, MI +2 | Onsite | 2026-08-04 | Rolling | 🔴 Closed | ❔ |
 | Tesla | [Backend Engineer Intern - Infrastructure Engineering](https://www.tesla.com/careers/search/job/281467) | Fremont, CA | Onsite | 2026-08-28 | Rolling | 🔴 Closed | ❔ |
