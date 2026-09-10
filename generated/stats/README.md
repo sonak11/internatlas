@@ -10,7 +10,7 @@ _Generated 2026-09-10_
 |---|---|
 | TikTok | 166 |
 | Tesla | 161 |
-| RTX | 103 |
+| RTX | 104 |
 | ByteDance | 69 |
 | American Express | 62 |
 | AMD | 61 |
@@ -33,7 +33,7 @@ _Generated 2026-09-10_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 2417 | `███████████████` |
+| software-engineering | 2420 | `███████████████` |
 | ai | 328 | `██` |
 | quant | 273 | `██` |
 | machine-learning | 186 | `█` |
@@ -49,7 +49,9 @@ _Generated 2026-09-10_
 
 ## Newest listings
 
+- 2026-09-10 — **Barr**: [GIS Specialist Intern](https://barr.wd1.myworkdayjobs.com/barrcareers/job/Salt-Lake-City-UT/Internship---GIS-Specialist--Hybrid-_R-102305-1)
 - 2026-09-10 — **Charles Schwab**: [Product Management Intern - Thinkorswim](https://career-schwab.icims.com/jobs/126266/job?mobile=true&needsRedirect=false)
+- 2026-09-10 — **Constellation Energy**: [Business Performance & Analytics Intern](https://jobs.constellationenergy.com/jobs/138770?icims=1)
 - 2026-09-10 — **Dell Technologies**: [Hardware Engineering Intern - Client Solutions Group Engineering](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/298216)
 - 2026-09-10 — **Dell Technologies**: [Software Engineer Intern - Client Solutions Group Engineering](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/298217)
 - 2026-09-10 — **Epic Games**: [Backend Services Programmer Intern - Epic Games Services](https://epicgames.com/careers/jobs/6183293004?gh_jid=6183293004)
@@ -67,12 +69,11 @@ _Generated 2026-09-10_
 - 2026-09-10 — **Tradeweb**: [Java Software Engineer Intern](https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301907)
 - 2026-09-10 — **Tradeweb**: [Market Data Developer Intern](https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301910)
 - 2026-09-10 — **Tradeweb**: [Node.js Developer Intern](https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301912)
-- 2026-09-10 — **Tradeweb**: [Software Developer Intern - STP](https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301914)
-- 2026-09-09 — **Allen Control Systems**: [Systems Engineering Intern](https://jobs.ashbyhq.com/allen-control-systems/9945f76d-6d03-45f0-b431-fc69d31f5476/application?embed=true)
 
 ## Recently closed
 
 - 1X — CNC Machine Park Intern
+- ABB — Physical AI Robotics Simulation Intern
 - Abridge — Software Engineer Intern
 - Advanced Robotics for Manufacturing — Mechanical Engineer Co-op Intern
 - Aerotech — Electrical/Computer Engineering Intern Co-op
@@ -183,6 +184,7 @@ _Generated 2026-09-10_
 - CHAOS Industries — Software Engineer Intern
 - Charles Schwab — Data Engineering Intern - Data Engineering
 - Charles Schwab — Software Engineering Intern - Technology
+- Chemours — Generative AI and Data Science Intern - AI & Data Science
 - Chevron — Previous Intern - Information Technology - Information and Analytics
 - Chevron Corporation — Intern
 - Chevron Corporation — Supply & Trading TAMU TRIP Program Intern
@@ -215,10 +217,12 @@ _Generated 2026-09-10_
 - Coinbase — Sales Intern
 - Cole Engineering Services — Software Engineer Intern
 - Compeer Financial — New Markets Intern
+- Composio — Fullstack Engineer Intern - Product Team
 - Concentric — AI Workflow Intern - AI Workflow Optimization
 - Conduent — Applied AI Engineer Intern - Government Healthcare Solutions
 - Continental Resources — Geoscience Intern
 - Copart — AI Engineer Intern
+- Copart — Data Engineer Intern
 - Copart — Software Engineer Intern
 - Corning — Digital & IT Intern - Analyst - Machine Learning
 - Corning — Optical Fiber and Cable Engineer Intern - Summer 2027
@@ -299,8 +303,38 @@ _Generated 2026-09-10_
 - GlobalFoundries — Robotics and Automation Engineering Intern - Junior
 - GlossGenius — Engineering Intern
 - GlossGenius — Engineering Intern - Summer 2027
+- Goldman Sachs — Associate Intern - The Core Quantitative Strats
+- Goldman Sachs — AWM Product Management Analyst Intern
+- Goldman Sachs — Quantitative Strategist Associate Intern - Asset and Wealth Management
+- Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Intern - Americas
+- Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Intern - Investment Banking
+- Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
+- Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
+- Goldman Sachs — Quantitative Strats Analyst Intern - Americas - Investment Banking
+- Goldman Sachs — Summer Analyst Intern
+- Goldman Sachs — Summer Analyst Intern - Americas - AWM Product Management
+- Goldman Sachs — Summer Analyst Intern - Americas - Engineering
+- Goldman Sachs — Summer Analyst Intern - Americas - Engineering
+- Goldman Sachs — Summer Analyst Intern - Americas - Engineering
+- Goldman Sachs — Summer Analyst Intern - Americas - Investment Banking Quantitative Strats
+- Goldman Sachs — Summer Analyst Intern - Engineering
+- Goldman Sachs — Summer Analyst Intern - Engineering
+- Goldman Sachs — Summer Analyst Intern - Engineering
+- Goldman Sachs — Summer Analyst Intern - Engineering
+- Goldman Sachs — Summer Analyst Intern - FICC and Equities - Sales and Trading
 - Goldman Sachs — Summer Analyst Intern - FICC & Equities - Sales & Trading
+- Goldman Sachs — Summer Analyst Intern - The Core Quantitative Strats
 - Goldman Sachs — Summer Analyst Intern - Wealth Management - Product Management and Design
+- Goldman Sachs — Summer Analyst Intern - Wealth Management - Quantitative Finance
+- Goldman Sachs — Summer Associate Intern
+- Goldman Sachs — Summer Associate Intern - Multiple Teams
 - Grant Thornton — AI, Data & Technology Intern - Summer 2027
 - Grant Thornton — AI, Data & Technology Intern - Summer 2027
 - Grant Thornton — AI, Data & Technology Intern - Summer 2027
@@ -342,8 +376,8 @@ _Generated 2026-09-10_
 - IMEG — Electrical Engineer Intern - Education
 - IMEG — Innovation Services Intern
 - Incident IQ — Software Engineer Intern
-- InfiniteQuant — Quantitative Developer Intern
 - InfiniteQuant — Quantitative Developer Intern - Summer 2027
+- InfiniteQuant — Quantitative Developer Internship - Summer 2027
 - Innovation Works, Inc. — Scale Prototyping Shop Intern
 - Intact — Investment Analyst Intern Co-op
 - Integra FEC — Data Scientist Intern
@@ -518,6 +552,7 @@ _Generated 2026-09-10_
 - Ontario Teachers' Pension Plan — Business Insights and Analytics Intern - Member Services
 - Ontario Teachers' Pension Plan — Investments Intern
 - Ontario Teachers' Pension Plan — Investments Intern - Total Fund Management - Global Trading
+- Ontario Teachers' Pension Plan — Risk Intern - Models and Asset Liability
 - Open Road Integrated Media — Marketing Analytics Intern - Paid
 - Oppenheimer & Co. Inc. — Equities Sales & Trading Intern - Business Segments and Corporate Infrastructure
 - OpusClip — AI Research Intern
@@ -712,6 +747,7 @@ _Generated 2026-09-10_
 - Tesla — Vehicle Software Intern - Vehicle Software Engineer-Diagnostic User Interface
 - Texas Instruments — Layout Design Intern
 - Texas Instruments — Product Operations Analyst Intern
+- Texas Instruments — Systems Engineering Intern
 - Textron — IT Programmer Intern
 - The Federal Reserve System — Analyst Intern - Summer 2027
 - The Federal Reserve System — Graduate Intern - Markets Group
@@ -770,6 +806,7 @@ _Generated 2026-09-10_
 - United Airlines — Airport Operations Intern - Safety Strategy
 - United Airlines — Clubs & Lounges Intern - Summer 2027
 - United Airlines — Digital Technology Intern - Summer 2027
+- United Airlines — Onboard Experience Intern - Summer 2027
 - United Airlines — Operations Data & Analytics Intern - Summer 2027
 - United Parcel Service — Information Technology Intern - Multiple Teams
 - United Parcel Service — Information Technology Intern - Multiple Teams

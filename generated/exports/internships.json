@@ -1,6 +1,6 @@
 {
   "generated": "2026-09-10",
-  "count": 4118,
+  "count": 4121,
   "internships": [
     {
       "schema_version": "1.0",
@@ -491,7 +491,7 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-09-10"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -24318,6 +24318,60 @@
     },
     {
       "schema_version": "1.0",
+      "id": "barr-gis-specialist-intern-2027",
+      "company": {
+        "name": "Barr",
+        "slug": "barr"
+      },
+      "role": "GIS Specialist Intern",
+      "category": "software-engineering",
+      "apply_url": "https://barr.wd1.myworkdayjobs.com/barrcareers/job/Salt-Lake-City-UT/Internship---GIS-Specialist--Hybrid-_R-102305-1",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Salt Lake City",
+          "state": "UT",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-10",
+        "discovered": "2026-09-10",
+        "last_verified": "2026-09-10"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "base-power-firmware-engineer-intern-2026",
       "company": {
         "name": "Base Power",
@@ -41086,7 +41140,7 @@
         "discovered": "2026-08-27",
         "last_verified": "2026-09-10"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -49848,7 +49902,7 @@
         "discovered": "2026-08-14",
         "last_verified": "2026-09-10"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -50152,6 +50206,60 @@
         "last_verified": "2026-07-22"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "constellation-energy-business-performance-analytics-intern-2027",
+      "company": {
+        "name": "Constellation Energy",
+        "slug": "constellation-energy"
+      },
+      "role": "Business Performance & Analytics Intern",
+      "category": "software-engineering",
+      "apply_url": "https://jobs.constellationenergy.com/jobs/138770?icims=1",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Houston",
+          "state": "TX",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-10",
+        "discovered": "2026-09-10",
+        "last_verified": "2026-09-10"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -50474,7 +50582,7 @@
         "discovered": "2026-07-27",
         "last_verified": "2026-09-10"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -77086,7 +77194,7 @@
         "discovered": "2026-08-27",
         "last_verified": "2026-09-10"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -77138,7 +77246,7 @@
         "discovered": "2026-08-20",
         "last_verified": "2026-09-10"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -77191,7 +77299,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-09-10"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -77244,7 +77352,7 @@
         "discovered": "2026-09-09",
         "last_verified": "2026-09-10"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -77297,7 +77405,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-09-10"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -77349,7 +77457,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-10"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -77401,7 +77509,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-10"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -77455,7 +77563,7 @@
         "discovered": "2026-09-08",
         "last_verified": "2026-09-10"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -77508,7 +77616,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-10"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -77559,7 +77667,7 @@
         "discovered": "2026-09-10",
         "last_verified": "2026-09-10"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -77613,7 +77721,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-10"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -77664,7 +77772,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-10"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -77715,7 +77823,7 @@
         "discovered": "2026-09-09",
         "last_verified": "2026-09-10"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -77766,7 +77874,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-09-10"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -77818,7 +77926,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-10"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -77869,7 +77977,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-10"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -77922,7 +78030,7 @@
         "discovered": "2026-08-20",
         "last_verified": "2026-09-10"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -77973,7 +78081,7 @@
         "discovered": "2026-09-08",
         "last_verified": "2026-09-10"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -78025,7 +78133,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-10"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -78076,7 +78184,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-10"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -78129,7 +78237,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-10"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -78180,7 +78288,7 @@
         "discovered": "2026-09-10",
         "last_verified": "2026-09-10"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -78234,7 +78342,7 @@
         "discovered": "2026-09-06",
         "last_verified": "2026-09-10"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -78288,7 +78396,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-10"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -78341,7 +78449,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-10"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -78395,7 +78503,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-09-10"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -78497,7 +78605,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-10"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -78599,7 +78707,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-10"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -78652,7 +78760,7 @@
         "discovered": "2026-08-29",
         "last_verified": "2026-09-10"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -78705,7 +78813,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-09-10"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -89773,9 +89881,9 @@
       "dates": {
         "posted": "2026-09-03",
         "discovered": "2026-09-07",
-        "last_verified": "2026-09-09"
+        "last_verified": "2026-09-10"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -89887,7 +89995,7 @@
         "discovered": "2026-08-19",
         "last_verified": "2026-09-10"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -89960,7 +90068,7 @@
       },
       "role": "Quantitative Researcher Intern - Summer 2027",
       "category": "quant",
-      "apply_url": "https://jobs.smartrecruiters.com/InfiniteQuant/744000145264634",
+      "apply_url": "https://jobs.smartrecruiters.com/InfiniteQuant/744000143307421",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
@@ -89999,7 +90107,7 @@
         "resume_keywords": []
       },
       "dates": {
-        "posted": "2026-08-24",
+        "posted": "2026-08-13",
         "discovered": "2026-08-10",
         "last_verified": "2026-09-10"
       },
@@ -134564,7 +134672,7 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-09-10"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -162719,6 +162827,60 @@
     },
     {
       "schema_version": "1.0",
+      "id": "rtx-software-engineering-intern-2027-d23ff1",
+      "company": {
+        "name": "RTX",
+        "slug": "rtx"
+      },
+      "role": "Software Engineering Intern",
+      "category": "software-engineering",
+      "apply_url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AL-HUNTSVILLE-382--420-Jan-Davis-Dr--DAVIS-382/Software-Engineering-Intern--Summer-2027-_01872655",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Huntsville",
+          "state": "AL",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-09",
+        "discovered": "2026-09-10",
+        "last_verified": "2026-09-10"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "rtx-software-engineering-intern-2027",
       "company": {
         "name": "RTX",
@@ -190278,7 +190440,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-10"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -210063,7 +210225,7 @@
         "discovered": "2026-09-08",
         "last_verified": "2026-09-10"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"

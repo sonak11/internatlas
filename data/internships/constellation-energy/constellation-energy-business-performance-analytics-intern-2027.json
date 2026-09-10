@@ -1,20 +1,21 @@
 {
   "schema_version": "1.0",
-  "id": "goldman-sachs-summer-analyst-intern-wealth-management-quantitative-finance-2027",
+  "id": "constellation-energy-business-performance-analytics-intern-2027",
   "company": {
-    "name": "Goldman Sachs",
-    "slug": "goldman-sachs"
+    "name": "Constellation Energy",
+    "slug": "constellation-energy"
   },
-  "role": "Summer Analyst Intern - Wealth Management - Quantitative Finance",
-  "category": "quant",
-  "apply_url": "https://higher.gs.com/roles/170860?type=students",
+  "role": "Business Performance & Analytics Intern",
+  "category": "software-engineering",
+  "apply_url": "https://jobs.constellationenergy.com/jobs/138770?icims=1",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "London",
-      "country": "UK"
+      "city": "Houston",
+      "state": "TX",
+      "country": "USA"
     }
   ],
   "compensation": {
@@ -24,7 +25,9 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "masters"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -39,11 +42,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-15",
-    "discovered": "2026-09-04",
+    "posted": "2026-09-10",
+    "discovered": "2026-09-10",
     "last_verified": "2026-09-10"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"
