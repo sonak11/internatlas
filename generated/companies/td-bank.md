@@ -10,6 +10,7 @@
 | TD Bank | [Business Intelligence Co-op Intern - Winter 2027](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/AI2-Business-Intelligence-Co-op-Intern--WINTER-2027-_R_1506122) | Toronto | Onsite | 2026-09-08 | Rolling | 🟢 Open | ❔ |
 | TD Bank | [Commercial Deposits – Money Movement & Digital Channels Intern/Co-op - Winter 2027](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Commercial-Deposits--Money-Movement---Digital-Channels-Intern-Co-op--Winter-2027-_R_1503532) | Toronto | Onsite | 2026-09-08 | Rolling | 🟢 Open | ❔ |
 | TD Bank | [Data Analyst Co-op Intern - Winter 2027](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Data-Analyst-Co-op---Intern---Winter-2027-_R_1509804) | Toronto +1 | Onsite | 2026-09-08 | Rolling | 🟢 Open | ❔ |
+| TD Bank | [Data Engineer Intern/Co-op - Winter 2027](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Data-Engineer-Co-op---Intern---Winter-2027-_R_1509826) | Toronto | Onsite | 2026-09-08 | Rolling | 🟢 Open | ❔ |
 | TD Bank | [Data Science Intern/Co-op](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Enterprise-Real-Estate-Intern-Co-op_R_1504711) | Toronto | Onsite | 2026-09-08 | Rolling | 🟢 Open | ❔ |
 | TD Bank | [Direct Investing Analytics & Insights Intern Co-op - Winter 2027](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Direct-Investing-Analytics---Insights-Intern---Co-Op--Fall-2026-_R_1507372) | Toronto | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
 | TD Bank | [Direct Investing Intern/Co-op - Winter 2027](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Direct-Investing-Journey-Intern-Co-Op--Winter-2027-_R_1507625) | Toronto | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
@@ -25,4 +26,4 @@
 
 ## Related
 
-Browse more roles in: [📊 Data Science](../categories/data-science.md), [🧭 Product](../categories/product.md), [💻 Software Engineering](../categories/software-engineering.md)
+Browse more roles in: [🛠 Data Engineering](../categories/data-engineering.md), [📊 Data Science](../categories/data-science.md), [🧭 Product](../categories/product.md), [💻 Software Engineering](../categories/software-engineering.md)

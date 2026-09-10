@@ -1,6 +1,6 @@
 {
   "generated": "2026-09-10",
-  "count": 4121,
+  "count": 4124,
   "internships": [
     {
       "schema_version": "1.0",
@@ -41140,7 +41140,7 @@
         "discovered": "2026-08-27",
         "last_verified": "2026-09-10"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -49902,7 +49902,7 @@
         "discovered": "2026-08-14",
         "last_verified": "2026-09-10"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -50582,7 +50582,7 @@
         "discovered": "2026-07-27",
         "last_verified": "2026-09-10"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -58123,6 +58123,59 @@
         "last_verified": "2026-07-21"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "domino-data-lab-forward-deployed-engineer-intern-campus-recruiting-2027-2027",
+      "company": {
+        "name": "Domino Data Lab",
+        "slug": "domino-data-lab"
+      },
+      "role": "Forward Deployed Engineer Intern - Campus Recruiting 2027",
+      "category": "software-engineering",
+      "apply_url": "https://app.careerpuck.com/job-board/domino-data-lab/job/7992534?gh_jid=7992534",
+      "season": "spring",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "NYC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-09",
+        "discovered": "2026-09-10",
+        "last_verified": "2026-09-10"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -76278,7 +76331,7 @@
         "discovered": "2026-09-02",
         "last_verified": "2026-09-10"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -78133,7 +78186,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-10"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -78184,7 +78237,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-10"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -78237,7 +78290,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-10"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -78813,7 +78866,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-09-10"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -83063,9 +83116,9 @@
       "dates": {
         "posted": "2026-09-01",
         "discovered": "2026-09-01",
-        "last_verified": "2026-09-03"
+        "last_verified": "2026-09-10"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -83437,7 +83490,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-10"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -93621,6 +93674,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "j-m-smucker-sensory-and-products-research-intern-summer-2027-2027",
+      "company": {
+        "name": "J.M. Smucker",
+        "slug": "j-m-smucker"
+      },
+      "role": "Sensory and Products Research Intern - Summer 2027",
+      "category": "research",
+      "apply_url": "https://smucker.wd5.myworkdayjobs.com/US_External_Careers/job/Orrville-OH/Sensory-and-Products-Research-Intern--Summer-2027_115677",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Orrville",
+          "state": "OH",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-25",
+        "discovered": "2026-09-10",
+        "last_verified": "2026-09-10"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "jabil-supply-chain-data-analyst-intern-2026",
       "company": {
         "name": "Jabil",
@@ -100785,7 +100890,7 @@
         "discovered": "2026-07-21",
         "last_verified": "2026-09-10"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -134156,7 +134261,7 @@
         "discovered": "2026-09-08",
         "last_verified": "2026-09-10"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -134413,9 +134518,9 @@
       "dates": {
         "posted": "2026-08-21",
         "discovered": "2026-08-21",
-        "last_verified": "2026-09-09"
+        "last_verified": "2026-09-10"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -134672,7 +134777,7 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-09-10"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -143983,7 +144088,7 @@
         "discovered": "2026-09-01",
         "last_verified": "2026-09-10"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -146194,9 +146299,9 @@
       "dates": {
         "posted": "2026-07-09",
         "discovered": "2026-07-17",
-        "last_verified": "2026-09-09"
+        "last_verified": "2026-09-10"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -179646,6 +179751,57 @@
       "dates": {
         "posted": "2026-09-08",
         "discovered": "2026-09-08",
+        "last_verified": "2026-09-10"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "td-bank-data-engineer-intern-co-op-winter-2027-2027",
+      "company": {
+        "name": "TD Bank",
+        "slug": "td-bank"
+      },
+      "role": "Data Engineer Intern/Co-op - Winter 2027",
+      "category": "data-engineering",
+      "apply_url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Data-Engineer-Co-op---Intern---Winter-2027-_R_1509826",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Toronto",
+          "country": "ON"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-08",
+        "discovered": "2026-09-10",
         "last_verified": "2026-09-10"
       },
       "status": "open",

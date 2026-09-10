@@ -1,14 +1,14 @@
 {
   "schema_version": "1.0",
-  "id": "goldman-sachs-summer-associate-intern-multiple-teams-2027",
+  "id": "domino-data-lab-forward-deployed-engineer-intern-campus-recruiting-2027-2027",
   "company": {
-    "name": "Goldman Sachs",
-    "slug": "goldman-sachs"
+    "name": "Domino Data Lab",
+    "slug": "domino-data-lab"
   },
-  "role": "Summer Associate Intern - Multiple Teams",
+  "role": "Forward Deployed Engineer Intern - Campus Recruiting 2027",
   "category": "software-engineering",
-  "apply_url": "https://higher.gs.com/roles/171566?type=students",
-  "season": "summer",
+  "apply_url": "https://app.careerpuck.com/job-board/domino-data-lab/job/7992534?gh_jid=7992534",
+  "season": "spring",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
@@ -25,7 +25,7 @@
   "eligibility": {
     "graduation_years": [],
     "degree_levels": [
-      "phd"
+      "masters"
     ],
     "citizenship_required": false,
     "security_clearance_required": false,
@@ -41,8 +41,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-15",
-    "discovered": "2026-08-15",
+    "posted": "2026-09-09",
+    "discovered": "2026-09-10",
     "last_verified": "2026-09-10"
   },
   "status": "open",

@@ -1,19 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "goldman-sachs-summer-associate-intern-multiple-teams-2027",
+  "id": "j-m-smucker-sensory-and-products-research-intern-summer-2027-2027",
   "company": {
-    "name": "Goldman Sachs",
-    "slug": "goldman-sachs"
+    "name": "J.M. Smucker",
+    "slug": "j-m-smucker"
   },
-  "role": "Summer Associate Intern - Multiple Teams",
-  "category": "software-engineering",
-  "apply_url": "https://higher.gs.com/roles/171566?type=students",
+  "role": "Sensory and Products Research Intern - Summer 2027",
+  "category": "research",
+  "apply_url": "https://smucker.wd5.myworkdayjobs.com/US_External_Careers/job/Orrville-OH/Sensory-and-Products-Research-Intern--Summer-2027_115677",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "NYC",
+      "city": "Orrville",
+      "state": "OH",
       "country": "USA"
     }
   ],
@@ -24,9 +25,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "phd"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -41,8 +40,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-15",
-    "discovered": "2026-08-15",
+    "posted": "2026-08-25",
+    "discovered": "2026-09-10",
     "last_verified": "2026-09-10"
   },
   "status": "open",

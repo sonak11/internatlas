@@ -6,7 +6,6 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
-| PricewaterhouseCoopers (PwC) | [Connected Physical Products Intern - Summer 2027](https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Connected-Physical-Products-Intern---Summer-2027_757231WD) | Boston, MA +13 | Onsite | 2026-08-31 | Rolling | 🟢 Open | ❔ |
 | PricewaterhouseCoopers (PwC) | [Contracts Intern - Deals - Summer 2027](https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Deals---DTDS---Contracts-Intern---Summer-2027_757235WD) | Boston, MA +13 | Onsite | 2026-08-31 | Rolling | 🟢 Open | ❔ |
 | PricewaterhouseCoopers (PwC) | [Deals Analytics Intern - DTDS](https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Deals---DTDS---Analytics-Intern---Summer-2027_757228WD) | Boston, MA +13 | Onsite | 2026-08-31 | Rolling | 🟢 Open | ❔ |
 | PricewaterhouseCoopers (PwC) | [Diligence Analytics Intern - Deals](https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Deals---Diligence-Analytics-Intern---Summer-2027_757227WD) | Boston, MA +13 | Onsite | 2026-08-31 | Rolling | 🟢 Open | ❔ |
@@ -20,6 +19,7 @@
 | PricewaterhouseCoopers (PwC) | [Cloud, Data and AI Intern](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Ottawa/May-2027---Cloud--Data-and-AI---Summer-Intern---Ottawa_752827WD) | Ottawa | Onsite | 2026-08-18 | Rolling | 🔴 Closed | ❔ |
 | PricewaterhouseCoopers (PwC) | [Cloud, Data and AI Intern](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Calgary/May-2027---Cloud--Data-and-AI---Summer-Intern---Calgary_752586WD) | Calgary | Onsite | 2026-08-18 | Rolling | 🔴 Closed | ❔ |
 | PricewaterhouseCoopers (PwC) | [Cloud, Data and AI Intern - Cloud, Data and AI](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Vancouver/May-2027---Cloud--Data-and-AI---Summer-Intern---Vancouver_752583WD) | Vancouver | Onsite | 2026-08-18 | Rolling | 🔴 Closed | ❔ |
+| PricewaterhouseCoopers (PwC) | [Connected Physical Products Intern - Summer 2027](https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Connected-Physical-Products-Intern---Summer-2027_757231WD) | Boston, MA +13 | Onsite | 2026-08-31 | Rolling | 🔴 Closed | ❔ |
 | PricewaterhouseCoopers (PwC) | [Digital Assurance & Transparency Intern - Multiple Teams](https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Digital-Assurance---Transparency--DAT----Tech---Intern---Summer-2027_756925WD) | SF +5 | Onsite | 2026-08-31 | Rolling | 🔴 Closed | ❔ |
 | PricewaterhouseCoopers (PwC) | [Geographic Information Systems Intern](https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Technology-Consulting---Geographic-Information-Systems-Intern---Summer-2027_757257WD) | Boston, MA +13 | Onsite | 2026-08-31 | Rolling | 🔴 Closed | ❔ |
 | PricewaterhouseCoopers (PwC) | [Summer Intern - SAP](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Calgary/May-2027---SAP---Summer-Intern---Calgary_752589WD) | Calgary | Onsite | 2026-08-18 | Rolling | 🔴 Closed | ❔ |

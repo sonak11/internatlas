@@ -33,17 +33,17 @@ _Generated 2026-09-10_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 2420 | `███████████████` |
+| software-engineering | 2421 | `███████████████` |
 | ai | 328 | `██` |
 | quant | 273 | `██` |
 | machine-learning | 186 | `█` |
 | hardware | 165 | `█` |
-| research | 138 | `█` |
+| research | 139 | `█` |
 | data-science | 135 | `█` |
 | product | 129 | `█` |
 | design | 108 | `█` |
 | embedded | 95 | `█` |
-| data-engineering | 69 | `█` |
+| data-engineering | 70 | `█` |
 | cloud | 55 | `█` |
 | security | 20 | `█` |
 
@@ -184,7 +184,6 @@ _Generated 2026-09-10_
 - CHAOS Industries — Software Engineer Intern
 - Charles Schwab — Data Engineering Intern - Data Engineering
 - Charles Schwab — Software Engineering Intern - Technology
-- Chemours — Generative AI and Data Science Intern - AI & Data Science
 - Chevron — Previous Intern - Information Technology - Information and Analytics
 - Chevron Corporation — Intern
 - Chevron Corporation — Supply & Trading TAMU TRIP Program Intern
@@ -217,12 +216,10 @@ _Generated 2026-09-10_
 - Coinbase — Sales Intern
 - Cole Engineering Services — Software Engineer Intern
 - Compeer Financial — New Markets Intern
-- Composio — Fullstack Engineer Intern - Product Team
 - Concentric — AI Workflow Intern - AI Workflow Optimization
 - Conduent — Applied AI Engineer Intern - Government Healthcare Solutions
 - Continental Resources — Geoscience Intern
 - Copart — AI Engineer Intern
-- Copart — Data Engineer Intern
 - Copart — Software Engineer Intern
 - Corning — Digital & IT Intern - Analyst - Machine Learning
 - Corning — Optical Fiber and Cable Engineer Intern - Summer 2027
@@ -300,6 +297,7 @@ _Generated 2026-09-10_
 - General Motors — Battery & Sustainability Intern - Physics-Based Battery Modeling
 - General Motors — Electrical & SDV Intern - Global Manufacturing
 - Genworth Financial — IT Development Program Intern - IT Development Program
+- Geotab — Product Management Intern - Growth & Marketplace
 - GlobalFoundries — Robotics and Automation Engineering Intern - Junior
 - GlossGenius — Engineering Intern
 - GlossGenius — Engineering Intern - Summer 2027
@@ -321,9 +319,6 @@ _Generated 2026-09-10_
 - Goldman Sachs — Summer Analyst Intern
 - Goldman Sachs — Summer Analyst Intern - Americas - AWM Product Management
 - Goldman Sachs — Summer Analyst Intern - Americas - Engineering
-- Goldman Sachs — Summer Analyst Intern - Americas - Engineering
-- Goldman Sachs — Summer Analyst Intern - Americas - Engineering
-- Goldman Sachs — Summer Analyst Intern - Americas - Investment Banking Quantitative Strats
 - Goldman Sachs — Summer Analyst Intern - Engineering
 - Goldman Sachs — Summer Analyst Intern - Engineering
 - Goldman Sachs — Summer Analyst Intern - Engineering
@@ -334,7 +329,6 @@ _Generated 2026-09-10_
 - Goldman Sachs — Summer Analyst Intern - Wealth Management - Product Management and Design
 - Goldman Sachs — Summer Analyst Intern - Wealth Management - Quantitative Finance
 - Goldman Sachs — Summer Associate Intern
-- Goldman Sachs — Summer Associate Intern - Multiple Teams
 - Grant Thornton — AI, Data & Technology Intern - Summer 2027
 - Grant Thornton — AI, Data & Technology Intern - Summer 2027
 - Grant Thornton — AI, Data & Technology Intern - Summer 2027
@@ -348,8 +342,8 @@ _Generated 2026-09-10_
 - Hendrick Motorsports — Project and Race Support Engineer Intern
 - Hermeus — Human Machine Interface – Software Engineering Intern - Human Machine Interface
 - Hermeus — Software Engineer Intern - Hardware in the Loop
-- Hermeus — Software Engineer Intern - Modeling & Simulation - Multiple Teams
 - Heron Power — Power Electronics Controls Engineer Intern
+- Hexagon AB — Geomatics Engineer Intern - GNSS Algorithms
 - Hilton Worldwide — Corporate Summer Internship - Technology, Software Engineering and Cyber
 - Hitachi — Engineering Intern
 - HNTB — Strategic Technology Intern
@@ -414,6 +408,7 @@ _Generated 2026-09-10_
 - K2 Space — Radio Frequency Engineer Intern - Summer 2027
 - KeyBank — Analytics and Quantitative Modeling Intern - Analytics & Quantitative Modeling
 - KeyBank — Technology Track Intern - Key Technology and Services
+- Kirin — Quantitative Research Intern - Prediction Markets
 - Kognitos — Forward Deployed Engineer Intern
 - KPMG — Product Specialist Intern Co-op - Asset Management Digital Solutions
 - KPMG — Software Developer Intern Co-op - Asset Management Digital Solutions - Software Developer
@@ -547,12 +542,11 @@ _Generated 2026-09-10_
 - Odin Dynamics, Inc — Engineering Intern
 - Oligo Space — ML/AI/CS Intern
 - ONE Finance — AI Research Intern
+- ONE Finance — Software Engineer Intern
 - onsemi — Oracle Platform Intern
 - onsemi — Tax AI and Automation Intern
-- Ontario Teachers' Pension Plan — Business Insights and Analytics Intern - Member Services
 - Ontario Teachers' Pension Plan — Investments Intern
 - Ontario Teachers' Pension Plan — Investments Intern - Total Fund Management - Global Trading
-- Ontario Teachers' Pension Plan — Risk Intern - Models and Asset Liability
 - Open Road Integrated Media — Marketing Analytics Intern - Paid
 - Oppenheimer & Co. Inc. — Equities Sales & Trading Intern - Business Segments and Corporate Infrastructure
 - OpusClip — AI Research Intern
@@ -586,6 +580,7 @@ _Generated 2026-09-10_
 - PricewaterhouseCoopers (PwC) — Cloud, Data and AI Intern
 - PricewaterhouseCoopers (PwC) — Cloud, Data and AI Intern
 - PricewaterhouseCoopers (PwC) — Cloud, Data and AI Intern - Cloud, Data and AI
+- PricewaterhouseCoopers (PwC) — Connected Physical Products Intern - Summer 2027
 - PricewaterhouseCoopers (PwC) — Digital Assurance & Transparency Intern - Multiple Teams
 - PricewaterhouseCoopers (PwC) — Geographic Information Systems Intern
 - PricewaterhouseCoopers (PwC) — Summer Intern - SAP
@@ -599,7 +594,6 @@ _Generated 2026-09-10_
 - PSECU — Data Analyst Intern
 - PSP Investments — AI Solutions Intern - External Manager Selection & Monitoring
 - Pure Storage — SW Engineer Internship
-- Pylon — Software Engineer Intern
 - Qorvo — Application Engineer Intern
 - Qorvo — Software Engineer Intern
 - QTS — Data Center Infrastructure Management Intern - DCIM

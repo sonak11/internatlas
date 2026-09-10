@@ -14,13 +14,13 @@
 | Geotab | [Insights & Integrations Consultancy Data Scientist Intern](https://job-boards.greenhouse.io/internshiplist2000/jobs/5156504008) | Oakville | Onsite | 2026-05-04 | Rolling | 🟢 Open | ❔ |
 | Geotab | [Product Coordinator Intern - Driver Compliance](https://job-boards.greenhouse.io/internshiplist2000/jobs/5360844008) | Toronto +2 | Onsite | 2026-09-02 | Rolling | 🟢 Open | ❔ |
 | Geotab | [Product Management Intern](https://job-boards.greenhouse.io/internshiplist2000/jobs/5383920008) | Oakville | Onsite | 2026-09-02 | Rolling | 🟢 Open | ❔ |
-| Geotab | [Product Management Intern - Growth & Marketplace](https://job-boards.greenhouse.io/internshiplist2000/jobs/5291162008) | Oakville | Onsite | 2026-09-02 | Rolling | 🟢 Open | ❔ |
 | Geotab | [Software Developer Intern](https://job-boards.greenhouse.io/internshiplist2000/jobs/5414448008) | Toronto +2 | Onsite | 2026-09-08 | Rolling | 🟢 Open | ❔ |
 | Geotab | [Software Developer Intern](https://job-boards.greenhouse.io/internshiplist2000/jobs/5376578008) | Toronto +2 | Onsite | 2026-09-03 | Rolling | 🟢 Open | ❔ |
 | Geotab | [Software Developer Intern](https://job-boards.greenhouse.io/internshiplist2000/jobs/5361630008) | Oakville +1 | Onsite | 2026-09-03 | Rolling | 🟢 Open | ❔ |
 | Geotab | [Software Developer Intern](https://job-boards.greenhouse.io/internshiplist2000/jobs/5350915008) | Toronto +1 | Onsite | 2026-09-03 | Rolling | 🟢 Open | ❔ |
 | Geotab | [Software Developer Intern - Mygeotab](https://job-boards.greenhouse.io/internshiplist2000/jobs/5383412008) | Toronto +2 | Onsite | 2026-09-04 | Rolling | 🟢 Open | ❔ |
 | Geotab | [Vehicle Systems Engineering Intern - Winter/January 2027 - 4, 8 Months](https://job-boards.greenhouse.io/internshiplist2000/jobs/5381043008) | Waterloo | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
+| Geotab | [Product Management Intern - Growth & Marketplace](https://job-boards.greenhouse.io/internshiplist2000/jobs/5291162008) | Oakville | Onsite | 2026-09-02 | Rolling | 🔴 Closed | ❔ |
 
 ## Related
 
