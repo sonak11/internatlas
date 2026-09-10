@@ -9,66 +9,66 @@ _Generated 2026-09-10_
 | Company | Listings |
 |---|---|
 | TikTok | 166 |
-| Tesla | 161 |
-| RTX | 104 |
+| Tesla | 162 |
+| RTX | 106 |
 | ByteDance | 69 |
 | American Express | 62 |
 | AMD | 61 |
 | Qorvo | 53 |
 | Jump Trading | 49 |
-| Royal Bank of Canada | 47 |
+| Royal Bank of Canada | 48 |
 | L3Harris Technologies | 45 |
-| Booz Allen | 39 |
+| Booz Allen | 40 |
 | Marvell | 37 |
+| Bank of Montreal | 33 |
 | Cloudflare | 33 |
 | Coinbase | 33 |
 | Navy Federal | 33 |
 | NVIDIA | 33 |
-| Bank of Montreal | 32 |
+| Zipline | 33 |
 | Goldman Sachs | 31 |
 | The Walt Disney Company | 31 |
-| Zipline | 29 |
 
 ## Listings by category
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 2424 | `███████████████` |
-| ai | 328 | `██` |
-| quant | 273 | `██` |
-| machine-learning | 186 | `█` |
-| hardware | 165 | `█` |
-| research | 139 | `█` |
-| data-science | 135 | `█` |
+| software-engineering | 2467 | `███████████████` |
+| ai | 330 | `██` |
+| quant | 275 | `██` |
+| machine-learning | 190 | `█` |
+| hardware | 167 | `█` |
+| data-science | 142 | `█` |
+| research | 140 | `█` |
 | product | 130 | `█` |
-| design | 108 | `█` |
-| embedded | 95 | `█` |
-| data-engineering | 70 | `█` |
+| design | 109 | `█` |
+| embedded | 96 | `█` |
+| data-engineering | 71 | `█` |
 | cloud | 55 | `█` |
 | security | 20 | `█` |
 
 ## Newest listings
 
+- 2026-09-10 — **AeroVironment**: [Embedded Software Engineer Intern](https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Simi-Valley-CA/Summer-2027-Embedded-Software-Engineering-Intern_8549)
+- 2026-09-10 — **Bank of Montreal**: [Workforce Analyst Intern/Co-op](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Workforce-Analyst--Winter-2027--Co-op-Internship----8-Months_R260024513-1)
 - 2026-09-10 — **Barr**: [GIS Specialist Intern](https://barr.wd1.myworkdayjobs.com/barrcareers/job/Salt-Lake-City-UT/Internship---GIS-Specialist--Hybrid-_R-102305-1)
+- 2026-09-10 — **Bedrock Robotics**: [Behavior Machine Learning Engineer Intern - World Models](https://jobs.ashbyhq.com/bedrock-robotics/c51d682e-58ee-44de-886f-4cfacb56d2e1/application?embed=true)
+- 2026-09-10 — **Bedrock Robotics**: [Onboard Infrastructure Engineer Intern - ML Inference](https://jobs.ashbyhq.com/bedrock-robotics/0331551e-c18e-428a-8e91-e6cb25c9c2e8/application?embed=true)
+- 2026-09-10 — **Bedrock Robotics**: [Validation & Verification Test Engineer Intern](https://jobs.ashbyhq.com/bedrock-robotics/c396dedc-06ec-4a23-8408-0194e360f30e/application?embed=true)
+- 2026-09-10 — **Booz Allen**: [Systems Engineer Intern - Summer Games](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Huntsville-AL/University---2027-Summer-Games-Systems-Engineer-Intern---Huntsville--AL_R0249188)
+- 2026-09-10 — **Brevan Howard**: [Execution Research Intern - Systematic Execution Research](https://wd3.myworkdaysite.com/recruiting/brevanhoward/BH_ExternalCareers/job/New-York/XMLNAME-2027-Summer-Internship-Program---Systematic-Execution-Research--New-York_JR101595)
+- 2026-09-10 — **Brevan Howard**: [Summer Internship Program - Systematic Trading Technology Software Engineer](https://wd3.myworkdaysite.com/recruiting/brevanhoward/BH_ExternalCareers/job/New-York/XMLNAME-2027-Summer-Internship-Program---Systematic-Trading-Technology-Software-Engineer--New-York_JR101597)
+- 2026-09-10 — **Brevan Howard**: [Systematic Data Strategy Intern](https://wd3.myworkdaysite.com/recruiting/brevanhoward/BH_ExternalCareers/job/New-York/XMLNAME-2027-Summer-Internship-Program---Systematic-Data-Strategy--New-York_JR101596)
 - 2026-09-10 — **CACI**: [Software Engineer Intern](https://caci.wd1.myworkdayjobs.com/external/job/Denver-CO-US/Software-Engineering-Intern---Summer-2027_331543-1)
 - 2026-09-10 — **Charles Schwab**: [Product Management Intern - Thinkorswim](https://career-schwab.icims.com/jobs/126266/job?mobile=true&needsRedirect=false)
+- 2026-09-10 — **Ciena**: [Modem Hardware Engineer Intern/Co-op](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Wavelogic-Modem-HW-Engineering-Intern-Co-op--Winter-2027---4-month-_R031652)
 - 2026-09-10 — **Constellation Energy**: [Business Performance & Analytics Intern](https://jobs.constellationenergy.com/jobs/138770?icims=1)
+- 2026-09-10 — **Cox**: [AI/Automation Intern](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/AI-Automation-Intern---Summer-2027_R202682342)
+- 2026-09-10 — **Cox**: [Data Governance and Management Intern](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Data-Governance-and-Management-Intern---Summer-2027_R202682353)
+- 2026-09-10 — **Danaher**: [Data Analytics Intern](https://danaher.wd1.myworkdayjobs.com/danaherjobs/job/Logan-Utah-United-States/Data-Analytics-Intern-Summer-2027_R1317525)
 - 2026-09-10 — **Dell Technologies**: [Hardware Engineering Intern - Client Solutions Group Engineering](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/298216)
 - 2026-09-10 — **Dell Technologies**: [Software Engineer Intern - Client Solutions Group Engineering](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/298217)
 - 2026-09-10 — **Epic Games**: [Backend Services Programmer Intern - Epic Games Services](https://epicgames.com/careers/jobs/6183293004?gh_jid=6183293004)
-- 2026-09-10 — **Hudl**: [Product Management Intern](https://job-boards.greenhouse.io/hudl/jobs/8155103)
-- 2026-09-10 — **Intel**: [Compiler Engineer Intern - SYCL Runtime](https://intel.wd1.myworkdayjobs.com/en-us/external/job/Canada-Toronto/Compiler-Engineering-Undergraduate-Intern---SYCL-Runtime_JR0286849)
-- 2026-09-10 — **Johns Hopkins Applied Physics Laboratory**: [Electrical/Computer Engineer Intern - Intelligence Surveillance & Reconnaissance](https://careers.jhuapl.edu/jobs/59764?icims=1)
-- 2026-09-10 — **Mackenzie Investments**: [Winter Intern - Investment Management - Multi-Asset](https://careersen-mackenzieinvestments.icims.com/jobs/6008/job?mobile=true&needsRedirect=false)
-- 2026-09-10 — **Planview**: [Software Engineer Intern](https://careers.planview.com/jobs/5128?icims=1)
-- 2026-09-10 — **Rocket Lab USA**: [Electrical Engineer Intern - Space Systems Division](https://job-boards.greenhouse.io/rocketlab/jobs/7990043003)
-- 2026-09-10 — **Rocket Lab USA**: [Flight Software Intern](https://job-boards.greenhouse.io/rocketlab/jobs/7989724003)
-- 2026-09-10 — **Rocket Lab USA**: [Flight Software Intern](https://job-boards.greenhouse.io/rocketlab/jobs/7989722003)
-- 2026-09-10 — **Shield AI**: [Software Engineer Intern](https://jobs.lever.co/shieldai/8c850c75-081d-4d09-bebf-096379a93010/apply)
-- 2026-09-10 — **Tradeweb**: [AI Software Engineer Intern](https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301902)
-- 2026-09-10 — **Tradeweb**: [Application Software Engineering Internship - IFI Application](https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301906)
-- 2026-09-10 — **Tradeweb**: [C++ Distributed Systems Developer Intern - C++ Core Services](https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301903)
-- 2026-09-10 — **Tradeweb**: [Credit Software Engineer Intern](https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301915)
 
 ## Recently closed
 
@@ -96,6 +96,7 @@ _Generated 2026-09-10_
 - Amgen — Operations Graduate Program Intern - Operations
 - Analysis Group — Research Professional Intern - Generalist
 - AnaVation — Computer Science Intern
+- AnaVation — Computer Science Intern - Summer Program
 - Anheuser-Busch — Technology Intern
 - AQR Capital Management — Portfolio Solutions Group Summer Analyst Intern - Portfolio Solutions Group
 - AQR Capital Management — Risk Summer Analyst Intern
@@ -157,6 +158,7 @@ _Generated 2026-09-10_
 - BP — Trading, Origination, Analytics, and Operations Intern - Supply, Trading, & Shipping - Trading, Origination, Analytics, & Operations
 - BRG — Health Analytics Intern - Health Analytics Practice
 - Brookfield — AI Value Creation Office Intern
+- Brunswick — Reinforcement Learning Intern - Boating Intelligence Design Lab
 - Brunswick — Software Engineer Intern - Boating Intelligence Design Lab
 - By Light Professional IT Services — Software Design Engineer Intern
 - ByteDance — Applied Machine Learning Production Engineer Intern - AML Production Engineer
@@ -307,11 +309,36 @@ _Generated 2026-09-10_
 - GlobalFoundries — Robotics and Automation Engineering Intern - Junior
 - GlossGenius — Engineering Intern
 - GlossGenius — Engineering Intern - Summer 2027
+- Goldman Sachs — Associate Intern - The Core Quantitative Strats
 - Goldman Sachs — AWM Product Management Analyst Intern
+- Goldman Sachs — Quantitative Strategist Associate Intern - Asset and Wealth Management
+- Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Intern - Americas
+- Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Intern - Investment Banking
+- Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
+- Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
+- Goldman Sachs — Quantitative Strats Analyst Intern - Americas - Investment Banking
+- Goldman Sachs — Summer Analyst Intern
+- Goldman Sachs — Summer Analyst Intern - Americas - AWM Product Management
+- Goldman Sachs — Summer Analyst Intern - Americas - Engineering
 - Goldman Sachs — Summer Analyst Intern - Americas - Engineering
 - Goldman Sachs — Summer Analyst Intern - Americas - Investment Banking Quantitative Strats
+- Goldman Sachs — Summer Analyst Intern - Engineering
+- Goldman Sachs — Summer Analyst Intern - Engineering
+- Goldman Sachs — Summer Analyst Intern - Engineering
+- Goldman Sachs — Summer Analyst Intern - Engineering
+- Goldman Sachs — Summer Analyst Intern - FICC and Equities - Sales and Trading
 - Goldman Sachs — Summer Analyst Intern - FICC & Equities - Sales & Trading
+- Goldman Sachs — Summer Analyst Intern - The Core Quantitative Strats
 - Goldman Sachs — Summer Analyst Intern - Wealth Management - Product Management and Design
+- Goldman Sachs — Summer Analyst Intern - Wealth Management - Quantitative Finance
+- Goldman Sachs — Summer Associate Intern
 - Goldman Sachs — Summer Associate Intern - Multiple Teams
 - Grant Thornton — AI, Data & Technology Intern - Summer 2027
 - Grant Thornton — AI, Data & Technology Intern - Summer 2027
@@ -354,8 +381,8 @@ _Generated 2026-09-10_
 - IMEG — Electrical Engineer Intern - Education
 - IMEG — Innovation Services Intern
 - Incident IQ — Software Engineer Intern
-- InfiniteQuant — Quantitative Developer Intern
 - InfiniteQuant — Quantitative Developer Intern - Summer 2027
+- InfiniteQuant — Quantitative Developer Internship - Summer 2027
 - Innovation Works, Inc. — Scale Prototyping Shop Intern
 - Intact — Investment Analyst Intern Co-op
 - Integra FEC — Data Scientist Intern
@@ -367,7 +394,6 @@ _Generated 2026-09-10_
 - Interdigital — Information Systems / Salesforce Intern
 - Interdigital — Wifi Intern - Wireless Researcher
 - International Rescue Committee (IRC) — Development Data and Research Intern
-- Interstates — Data Analyst Intern
 - Interstates — Electrical Engineering Intern - Design Services
 - Interstates — Engineering Intern - Design Services
 - Interstates — Engineering Intern - Design Services
@@ -450,7 +476,6 @@ _Generated 2026-09-10_
 - Marsh — Government Health Consulting Informatics Intern - College Program
 - Marsh & McLennan — Data & Analytics Intern - Data & Analytics
 - Mastercard — Data Scientist Intern
-- Mastercard — Software Engineer Intern
 - Maven Securities — Trader Intern
 - McKesson — Associate Business Systems Analyst Intern - Data Hub Canada
 - Medline — Business Systems Intern - Summer 2027
@@ -509,6 +534,7 @@ _Generated 2026-09-10_
 - Nike — Global Apparel Materials Developer Intern - Apparel Development - Global Apparel Materials
 - NiSource — Engineering Intern
 - Nokia — Software Designer Co-op Intern - Intern
+- Nokia — Software Developer Co-op Intern
 - Nokia — Software Developer Co-op Intern - Intern
 - Nokia — Web Developer Co-op Intern
 - Nokia — Web Developer Co-op Intern - Intern
@@ -577,7 +603,6 @@ _Generated 2026-09-10_
 - Prudential Financial — Product and Institutional Client Intern - Multiple Teams
 - Prudential Financial — Public Credit Summer Investment Analyst Intern - Portfolio Analysis Group
 - PSECU — Data Analyst Intern
-- PSP Investments — AI Solutions Intern - External Manager Selection & Monitoring
 - Pure Storage — SW Engineer Internship
 - Qorvo — Application Engineer Intern
 - Qorvo — Software Engineer Intern
@@ -812,6 +837,8 @@ _Generated 2026-09-10_
 - WhiteWater Midstream — Trading Operations Intern - Summer 2027
 - Winland Foods — Product Development Intern
 - Wipfli — Product Development Intern
+- Wipfli — Product Development Intern
+- Wipfli — Product Development Intern - Summer 2027
 - Woodward Governor — SAP S/4HANA Analyst Intern
 - Xcel Energy — Damage Prevention Intern
 - Zipline — Applications Engineer Intern - Spring 2027
