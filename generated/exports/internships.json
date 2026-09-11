@@ -1,6 +1,6 @@
 {
   "generated": "2026-09-11",
-  "count": 4208,
+  "count": 4228,
   "internships": [
     {
       "schema_version": "1.0",
@@ -3158,7 +3158,7 @@
         "discovered": "2026-09-09",
         "last_verified": "2026-09-11"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -44805,6 +44805,637 @@
     },
     {
       "schema_version": "1.0",
+      "id": "citizens-financial-group-business-insights-intern-multiple-teams-2027-fca492",
+      "company": {
+        "name": "Citizens Financial Group",
+        "slug": "citizens-financial-group"
+      },
+      "role": "Business Insights Intern - Multiple Teams",
+      "category": "software-engineering",
+      "apply_url": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49283",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Boston",
+          "state": "MA",
+          "country": "USA"
+        },
+        {
+          "city": "Johnston",
+          "state": "RI",
+          "country": "USA"
+        },
+        {
+          "city": "Columbus",
+          "state": "OH",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters",
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-11",
+        "discovered": "2026-09-11",
+        "last_verified": "2026-09-11"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "citizens-financial-group-business-insights-intern-multiple-teams-2027",
+      "company": {
+        "name": "Citizens Financial Group",
+        "slug": "citizens-financial-group"
+      },
+      "role": "Business Insights Intern - Multiple Teams",
+      "category": "software-engineering",
+      "apply_url": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49279",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Boston",
+          "state": "MA",
+          "country": "USA"
+        },
+        {
+          "city": "Johnston",
+          "state": "RI",
+          "country": "USA"
+        },
+        {
+          "city": "Columbus",
+          "state": "OH",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-11",
+        "discovered": "2026-09-11",
+        "last_verified": "2026-09-11"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "citizens-financial-group-data-analyst-intern-multiple-teams-2027-89a8c0",
+      "company": {
+        "name": "Citizens Financial Group",
+        "slug": "citizens-financial-group"
+      },
+      "role": "Data Analyst Intern - Multiple Teams",
+      "category": "software-engineering",
+      "apply_url": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49282",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Boston",
+          "state": "MA",
+          "country": "USA"
+        },
+        {
+          "city": "Johnston",
+          "state": "RI",
+          "country": "USA"
+        },
+        {
+          "city": "Columbus",
+          "state": "OH",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters",
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-11",
+        "discovered": "2026-09-11",
+        "last_verified": "2026-09-11"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "citizens-financial-group-data-analyst-intern-multiple-teams-2027",
+      "company": {
+        "name": "Citizens Financial Group",
+        "slug": "citizens-financial-group"
+      },
+      "role": "Data Analyst Intern - Multiple Teams",
+      "category": "software-engineering",
+      "apply_url": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49278",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Boston",
+          "state": "MA",
+          "country": "USA"
+        },
+        {
+          "city": "Johnston",
+          "state": "RI",
+          "country": "USA"
+        },
+        {
+          "city": "Columbus",
+          "state": "OH",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-11",
+        "discovered": "2026-09-11",
+        "last_verified": "2026-09-11"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "citizens-financial-group-data-engineer-intern-enterprise-technology-security-2027",
+      "company": {
+        "name": "Citizens Financial Group",
+        "slug": "citizens-financial-group"
+      },
+      "role": "Data Engineer Intern - Enterprise Technology & Security",
+      "category": "data-engineering",
+      "apply_url": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49285",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Plano",
+          "state": "TX",
+          "country": "USA"
+        },
+        {
+          "city": "Johnston",
+          "state": "RI",
+          "country": "USA"
+        },
+        {
+          "city": "Phoenix",
+          "state": "AZ",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-11",
+        "discovered": "2026-09-11",
+        "last_verified": "2026-09-11"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "citizens-financial-group-data-management-intern-enterprise-data-and-analytics-2027",
+      "company": {
+        "name": "Citizens Financial Group",
+        "slug": "citizens-financial-group"
+      },
+      "role": "Data Management Intern - Enterprise Data and Analytics",
+      "category": "software-engineering",
+      "apply_url": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49281",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Boston",
+          "state": "MA",
+          "country": "USA"
+        },
+        {
+          "city": "Johnston",
+          "state": "RI",
+          "country": "USA"
+        },
+        {
+          "city": "Columbus",
+          "state": "OH",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-11",
+        "discovered": "2026-09-11",
+        "last_verified": "2026-09-11"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "citizens-financial-group-data-management-intern-multiple-teams-2027",
+      "company": {
+        "name": "Citizens Financial Group",
+        "slug": "citizens-financial-group"
+      },
+      "role": "Data Management Intern - Multiple Teams",
+      "category": "software-engineering",
+      "apply_url": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49277",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Boston",
+          "state": "MA",
+          "country": "USA"
+        },
+        {
+          "city": "Johnston",
+          "state": "RI",
+          "country": "USA"
+        },
+        {
+          "city": "Columbus",
+          "state": "OH",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-11",
+        "discovered": "2026-09-11",
+        "last_verified": "2026-09-11"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "citizens-financial-group-data-science-intern-multiple-teams-2027-d4a686",
+      "company": {
+        "name": "Citizens Financial Group",
+        "slug": "citizens-financial-group"
+      },
+      "role": "Data Science Intern - Multiple Teams",
+      "category": "data-science",
+      "apply_url": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49280",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Boston",
+          "state": "MA",
+          "country": "USA"
+        },
+        {
+          "city": "Johnston",
+          "state": "RI",
+          "country": "USA"
+        },
+        {
+          "city": "Columbus",
+          "state": "OH",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters",
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-11",
+        "discovered": "2026-09-11",
+        "last_verified": "2026-09-11"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "citizens-financial-group-data-science-intern-multiple-teams-2027",
+      "company": {
+        "name": "Citizens Financial Group",
+        "slug": "citizens-financial-group"
+      },
+      "role": "Data Science Intern - Multiple Teams",
+      "category": "data-science",
+      "apply_url": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49276",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Boston",
+          "state": "MA",
+          "country": "USA"
+        },
+        {
+          "city": "Johnston",
+          "state": "RI",
+          "country": "USA"
+        },
+        {
+          "city": "Columbus",
+          "state": "OH",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-11",
+        "discovered": "2026-09-11",
+        "last_verified": "2026-09-11"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "citizens-financial-group-software-engineer-intern-2027",
+      "company": {
+        "name": "Citizens Financial Group",
+        "slug": "citizens-financial-group"
+      },
+      "role": "Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49286",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Plano",
+          "state": "TX",
+          "country": "USA"
+        },
+        {
+          "city": "Johnston",
+          "state": "RI",
+          "country": "USA"
+        },
+        {
+          "city": "Phoenix",
+          "state": "AZ",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-11",
+        "discovered": "2026-09-11",
+        "last_verified": "2026-09-11"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "city-of-aurora-water-gis-intern-2026",
       "company": {
         "name": "City of Aurora",
@@ -45726,7 +46357,7 @@
         "discovered": "2026-07-18",
         "last_verified": "2026-09-11"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:ats"
@@ -59283,7 +59914,7 @@
         "discovered": "2026-09-11",
         "last_verified": "2026-09-11"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:ats"
@@ -77284,7 +77915,7 @@
         "discovered": "2026-09-02",
         "last_verified": "2026-09-11"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -77339,7 +77970,7 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-09-11"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -78261,7 +78892,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-11"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -78728,9 +79359,9 @@
       "dates": {
         "posted": "2026-08-19",
         "discovered": "2026-08-20",
-        "last_verified": "2026-09-10"
+        "last_verified": "2026-09-11"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -79512,9 +80143,9 @@
       "dates": {
         "posted": "2026-08-19",
         "discovered": "2026-08-20",
-        "last_verified": "2026-09-10"
+        "last_verified": "2026-09-11"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -80087,9 +80718,9 @@
       "dates": {
         "posted": "2026-08-15",
         "discovered": "2026-09-04",
-        "last_verified": "2026-09-10"
+        "last_verified": "2026-09-11"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -80189,9 +80820,9 @@
       "dates": {
         "posted": "2026-08-15",
         "discovered": "2026-09-04",
-        "last_verified": "2026-09-10"
+        "last_verified": "2026-09-11"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -97086,6 +97717,60 @@
     },
     {
       "schema_version": "1.0",
+      "id": "johns-hopkins-applied-physics-laboratory-decision-science-intern-software-engineer-2027",
+      "company": {
+        "name": "Johns Hopkins Applied Physics Laboratory",
+        "slug": "johns-hopkins-applied-physics-laboratory"
+      },
+      "role": "Decision Science Intern - Software Engineer",
+      "category": "software-engineering",
+      "apply_url": "https://careers.jhuapl.edu/jobs/60040?icims=1",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Laurel",
+          "state": "MD",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-11",
+        "discovered": "2026-09-11",
+        "last_verified": "2026-09-11"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "johns-hopkins-applied-physics-laboratory-electrical-and-computer-engineer-intern-miniature-device-tec-2027",
       "company": {
         "name": "Johns Hopkins Applied Physics Laboratory",
@@ -110926,7 +111611,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-11"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -112688,7 +113373,7 @@
         "discovered": "2026-09-09",
         "last_verified": "2026-09-11"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -112792,7 +113477,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-11"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -116599,7 +117284,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-09-11"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -116823,7 +117508,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-09-11"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -117105,7 +117790,7 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-09-11"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -137147,7 +137832,7 @@
         "discovered": "2026-08-21",
         "last_verified": "2026-09-11"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -166617,7 +167302,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-11"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -183910,7 +184595,7 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-09-11"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -190063,6 +190748,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "tesla-robotics-physics-modeling-engineer-intern-model-based-design-2027",
+      "company": {
+        "name": "Tesla",
+        "slug": "tesla"
+      },
+      "role": "Robotics Physics Modeling Engineer Intern - Model Based Design - Optimus",
+      "category": "design",
+      "apply_url": "https://www.tesla.com/careers/search/job/283128",
+      "season": "spring",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Palo Alto",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-11",
+        "discovered": "2026-09-11",
+        "last_verified": "2026-09-11"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "tesla-sensor-hardware-engineer-intern-sensor-hardware-design-engin-2026",
       "company": {
         "name": "Tesla",
@@ -190687,6 +191424,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "tesla-software-engineer-intern-data-platforms-2027",
+      "company": {
+        "name": "Tesla",
+        "slug": "tesla"
+      },
+      "role": "Software Engineer Intern - Data Platforms",
+      "category": "software-engineering",
+      "apply_url": "https://www.tesla.com/careers/search/job/283117",
+      "season": "spring",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Palo Alto",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-11",
+        "discovered": "2026-09-11",
+        "last_verified": "2026-09-11"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "tesla-software-engineer-intern-distributed-systems-software-engine-2026",
       "company": {
         "name": "Tesla",
@@ -190991,9 +191780,9 @@
       "dates": {
         "posted": "2026-09-01",
         "discovered": "2026-09-01",
-        "last_verified": "2026-09-04"
+        "last_verified": "2026-09-11"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -193552,6 +194341,58 @@
         "last_verified": "2026-08-18"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "tesla-vehicle-accessories-merchandise-product-intern-global-mercha-2027",
+      "company": {
+        "name": "Tesla",
+        "slug": "tesla"
+      },
+      "role": "Vehicle Accessories & Merchandise Product Intern - Global Merchandise",
+      "category": "software-engineering",
+      "apply_url": "https://www.tesla.com/careers/search/job/283137",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Hawthorne",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-11",
+        "discovered": "2026-09-11",
+        "last_verified": "2026-09-11"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -197102,6 +197943,162 @@
     },
     {
       "schema_version": "1.0",
+      "id": "the-toro-company-embedded-software-engineer-intern-2027",
+      "company": {
+        "name": "The Toro Company",
+        "slug": "the-toro-company"
+      },
+      "role": "Embedded Software Engineer Intern",
+      "category": "embedded",
+      "apply_url": "https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Bloomington-MN/Embedded-Software-Engineering-Intern---The-Toro-Company_JR17114",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Bloomington",
+          "state": "MN",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-11",
+        "discovered": "2026-09-11",
+        "last_verified": "2026-09-11"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "the-toro-company-embedded-software-engineering-intern-2027",
+      "company": {
+        "name": "The Toro Company",
+        "slug": "the-toro-company"
+      },
+      "role": "Embedded Software Engineering Intern",
+      "category": "embedded",
+      "apply_url": "https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Bloomington-MN/Embedded-Software-Engineering-Intern---The-Toro-Company_JR17125",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Bloomington",
+          "state": "MN",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-11",
+        "discovered": "2026-09-11",
+        "last_verified": "2026-09-11"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "the-toro-company-enterprise-analytics-intern-2027",
+      "company": {
+        "name": "The Toro Company",
+        "slug": "the-toro-company"
+      },
+      "role": "Enterprise Analytics Intern",
+      "category": "software-engineering",
+      "apply_url": "https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Bloomington-MN/Enterprise-Analytics-Intern---The-Toro-Company_JR17104",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Bloomington",
+          "state": "MN",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-11",
+        "discovered": "2026-09-11",
+        "last_verified": "2026-09-11"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "the-toro-company-hardware-and-software-engineering-intern-2027",
       "company": {
         "name": "The Toro Company",
@@ -197156,6 +198153,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "the-toro-company-robotics-engineer-intern-2027",
+      "company": {
+        "name": "The Toro Company",
+        "slug": "the-toro-company"
+      },
+      "role": "Robotics Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Bloomington-MN/Robotics-Engineering-Intern---The-Toro-Company_JR17194",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Bloomington",
+          "state": "MN",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-11",
+        "discovered": "2026-09-11",
+        "last_verified": "2026-09-11"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "the-toro-company-robotics-system-test-intern-2027",
       "company": {
         "name": "The Toro Company",
@@ -197198,6 +198247,60 @@
       "dates": {
         "posted": "2026-09-10",
         "discovered": "2026-09-10",
+        "last_verified": "2026-09-11"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "the-toro-company-spatial-data-r-d-intern-2027",
+      "company": {
+        "name": "The Toro Company",
+        "slug": "the-toro-company"
+      },
+      "role": "Spatial Data R&D Intern",
+      "category": "software-engineering",
+      "apply_url": "https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Bloomington-MN/Spatial-Data-R-D-Intern---The-Toro-Company_JR17187",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Bloomington",
+          "state": "MN",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-11",
+        "discovered": "2026-09-11",
         "last_verified": "2026-09-11"
       },
       "status": "open",
@@ -197868,7 +198971,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-11"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -198074,7 +199177,7 @@
         "discovered": "2026-08-24",
         "last_verified": "2026-09-11"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -198240,7 +199343,7 @@
         "discovered": "2026-08-28",
         "last_verified": "2026-09-11"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -198344,7 +199447,7 @@
         "discovered": "2026-08-28",
         "last_verified": "2026-09-11"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -224169,6 +225272,58 @@
       "dates": {
         "posted": "2026-09-04",
         "discovered": "2026-09-04",
+        "last_verified": "2026-09-11"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "westinghouse-electric-company-finance-analyst-intern-2027",
+      "company": {
+        "name": "Westinghouse Electric Company",
+        "slug": "westinghouse-electric-company"
+      },
+      "role": "Finance Analyst Intern",
+      "category": "software-engineering",
+      "apply_url": "https://careers.westinghousenuclear.com/job/Madison-Summer-Intern-Finance-Analyst-PA-15663/1427820800/?ats=successfactors",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Madison",
+          "state": "PA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-11",
+        "discovered": "2026-09-11",
         "last_verified": "2026-09-11"
       },
       "status": "open",

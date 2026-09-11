@@ -9,7 +9,7 @@ _Generated 2026-09-11_
 | Company | Listings |
 |---|---|
 | TikTok | 166 |
-| Tesla | 162 |
+| Tesla | 165 |
 | RTX | 105 |
 | ByteDance | 69 |
 | American Express | 62 |
@@ -33,42 +33,42 @@ _Generated 2026-09-11_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 2479 | `███████████████` |
+| software-engineering | 2493 | `███████████████` |
 | ai | 330 | `██` |
 | quant | 275 | `██` |
 | machine-learning | 190 | `█` |
 | hardware | 168 | `█` |
-| data-science | 142 | `█` |
+| data-science | 144 | `█` |
 | research | 141 | `█` |
 | product | 130 | `█` |
-| design | 110 | `█` |
-| embedded | 97 | `█` |
-| data-engineering | 71 | `█` |
+| design | 111 | `█` |
+| embedded | 99 | `█` |
+| data-engineering | 72 | `█` |
 | cloud | 55 | `█` |
 | security | 20 | `█` |
 
 ## Newest listings
 
 - 2026-09-11 — **Bedrock Robotics**: [Hardware Engineer Intern](https://jobs.ashbyhq.com/bedrock-robotics/949feb1b-c60f-43c5-94de-7dd9cd70ba4a/application?embed=true)
+- 2026-09-11 — **Citizens Financial Group**: [Business Insights Intern - Multiple Teams](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49283)
+- 2026-09-11 — **Citizens Financial Group**: [Business Insights Intern - Multiple Teams](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49279)
+- 2026-09-11 — **Citizens Financial Group**: [Data Analyst Intern - Multiple Teams](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49282)
+- 2026-09-11 — **Citizens Financial Group**: [Data Analyst Intern - Multiple Teams](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49278)
+- 2026-09-11 — **Citizens Financial Group**: [Data Engineer Intern - Enterprise Technology & Security](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49285)
+- 2026-09-11 — **Citizens Financial Group**: [Data Management Intern - Enterprise Data and Analytics](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49281)
+- 2026-09-11 — **Citizens Financial Group**: [Data Management Intern - Multiple Teams](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49277)
+- 2026-09-11 — **Citizens Financial Group**: [Data Science Intern - Multiple Teams](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49280)
+- 2026-09-11 — **Citizens Financial Group**: [Data Science Intern - Multiple Teams](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49276)
+- 2026-09-11 — **Citizens Financial Group**: [Software Engineer Intern](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49286)
 - 2026-09-11 — **Definity Financial**: [Analyst Co-op Intern - Consumer Insights & Market Research](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9344)
 - 2026-09-11 — **Definity Financial**: [Commercial Insurance Portfolio Analyst Co-op Intern](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9349)
 - 2026-09-11 — **Definity Financial**: [Commercial Insurance Product Owner Co-op Intern](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9354)
 - 2026-09-11 — **Garmin**: [Software Engineer Intern](https://careers.garmin.com/jobs/20135?icims=1)
 - 2026-09-11 — **GrayMatter Robotics**: [Robotics Engineering Intern - Systems & Applications](https://jobs.ashbyhq.com/graymatter-robotics/aa7c2419-7bb9-4080-9403-937c4db01bb6/application?embed=true)
+- 2026-09-11 — **Johns Hopkins Applied Physics Laboratory**: [Decision Science Intern - Software Engineer](https://careers.jhuapl.edu/jobs/60040?icims=1)
 - 2026-09-11 — **Kinaxis**: [Developer Intern - Clients - Front End Technologies](https://careers-kinaxis.icims.com/jobs/35320/job?mobile=true&needsRedirect=false)
 - 2026-09-11 — **Tanium**: [Software Engineer Intern - Summer 2027](https://job-boards.greenhouse.io/tanium/jobs/8181017)
-- 2026-09-11 — **Vertiv**: [Innovation Lab Engineering Intern 2](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20280129)
-- 2026-09-11 — **Vertiv**: [Innovation Lab Intern](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20280126)
-- 2026-09-11 — **Wellmark**: [Data Analytics & Governance Internship](https://jobs.smartrecruiters.com/WellmarkInc/744000148917718)
-- 2026-09-11 — **Wellmark**: [Software Engineer Intern](https://jobs.smartrecruiters.com/WellmarkInc/744000148915793)
-- 2026-09-10 — **AeroVironment**: [Embedded Software Engineer Intern](https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Simi-Valley-CA/Summer-2027-Embedded-Software-Engineering-Intern_8549)
-- 2026-09-10 — **Bank of Montreal**: [Workforce Analyst Intern/Co-op](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Workforce-Analyst--Winter-2027--Co-op-Internship----8-Months_R260024513-1)
-- 2026-09-10 — **Barr**: [GIS Specialist Intern](https://barr.wd1.myworkdayjobs.com/barrcareers/job/Salt-Lake-City-UT/Internship---GIS-Specialist--Hybrid-_R-102305-1)
-- 2026-09-10 — **Bedrock Robotics**: [Behavior Machine Learning Engineer Intern - World Models](https://jobs.ashbyhq.com/bedrock-robotics/c51d682e-58ee-44de-886f-4cfacb56d2e1/application?embed=true)
-- 2026-09-10 — **Bedrock Robotics**: [Onboard Infrastructure Engineer Intern - ML Inference](https://jobs.ashbyhq.com/bedrock-robotics/0331551e-c18e-428a-8e91-e6cb25c9c2e8/application?embed=true)
-- 2026-09-10 — **Bedrock Robotics**: [Validation & Verification Test Engineer Intern](https://jobs.ashbyhq.com/bedrock-robotics/c396dedc-06ec-4a23-8408-0194e360f30e/application?embed=true)
-- 2026-09-10 — **Booz Allen**: [Systems Engineer Intern - Summer Games](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Huntsville-AL/University---2027-Summer-Games-Systems-Engineer-Intern---Huntsville--AL_R0249188)
-- 2026-09-10 — **Brevan Howard**: [Execution Research Intern - Systematic Execution Research](https://wd3.myworkdaysite.com/recruiting/brevanhoward/BH_ExternalCareers/job/New-York/XMLNAME-2027-Summer-Internship-Program---Systematic-Execution-Research--New-York_JR101595)
+- 2026-09-11 — **Tesla**: [Robotics Physics Modeling Engineer Intern - Model Based Design - Optimus](https://www.tesla.com/careers/search/job/283128)
 
 ## Recently closed
 
@@ -80,6 +80,7 @@ _Generated 2026-09-11_
 - Aerotech — Electrical/Computer Engineering Intern Co-op
 - Air Products — Information Technology/Digital Technology Intern - Infrastructure Services
 - Alayacare — Full-Stack Developer Intern - Python
+- Allen Control Systems — Systems Engineering Intern
 - Altom Transport — Software Development Intern
 - Altom Transport — Software Development Intern
 - Amazon — Software Development Engineer Internship - Fall 2026 - US
@@ -206,6 +207,7 @@ _Generated 2026-09-11_
 - City of Manhattan Kansas — GIS Planning Intern
 - Clorox — Sales Analyst Intern - Customer Analytics
 - Cloudflare — Accounting Intern (Fall 2026)
+- Cloudflare — EIAM Business Enablement & Operations Intern (Fall 2026)
 - Cloudflare — Marketing Campaigns & Account-Based Marketing (ABM) Intern (Fall 2026)
 - Cloudflare — Research Engineer Intern
 - Cloudflare — Research Engineer Intern (Fall 2026)
@@ -242,6 +244,7 @@ _Generated 2026-09-11_
 - Diamondback Energy — Geoscience Intern
 - Dick's Sporting Goods — Data Analytics & Engineering Intern
 - Dimensional Fund Advisors — Global Client Group Operations Insights Intern - Undergraduate & Master's
+- DoorDash — Product Design, Intern (Summer 2027)
 - DoorDash — Product Designer, Intern (Summer 2027)
 - DTCC — Product Management Intern - 2027 Internship Program
 - Duracell — Electronics Tech Intern
@@ -296,16 +299,15 @@ _Generated 2026-09-11_
 - General Motors — Battery & Sustainability Intern - Physics-Based Battery Modeling
 - General Motors — Electrical & SDV Intern - Global Manufacturing
 - Genworth Financial — IT Development Program Intern - IT Development Program
+- Geotab — Data Analyst Intern
+- Geotab — Data Scientist Intern
 - Geotab — Product Management Intern - Growth & Marketplace
+- GlobalFoundries — RF Technology Development Automation Engineer Intern - Summer 2027
 - GlobalFoundries — Robotics and Automation Engineering Intern - Junior
 - GlossGenius — Engineering Intern
 - GlossGenius — Engineering Intern - Summer 2027
-- Goldman Sachs — AWM Product Management Analyst Intern
-- Goldman Sachs — Summer Analyst Intern - Americas - AWM Product Management
 - Goldman Sachs — Summer Analyst Intern - FICC & Equities - Sales & Trading
-- Goldman Sachs — Summer Analyst Intern - The Core Quantitative Strats
 - Goldman Sachs — Summer Analyst Intern - Wealth Management - Product Management and Design
-- Goldman Sachs — Summer Analyst Intern - Wealth Management - Quantitative Finance
 - Grant Thornton — AI, Data & Technology Intern - Summer 2027
 - Grant Thornton — AI, Data & Technology Intern - Summer 2027
 - Grant Thornton — AI, Data & Technology Intern - Summer 2027
@@ -440,8 +442,7 @@ _Generated 2026-09-11_
 - Marquee Brands — Consumer Insights Intern
 - Marsh — Government Health Consulting Informatics Intern - College Program
 - Marsh & McLennan — Data & Analytics Intern - Data & Analytics
-- Marvell — Analog Design Intern - MS
-- Marvell — Test Solutions Engineering Intern - BS - Post-Silicon Hardware Validation
+- Mary Free Bed Rehabilitation Hospital — IT Intern - Project Management
 - Mastercard — Data Scientist Intern
 - Maven Securities — Trader Intern
 - Medline — Business Systems Intern - Summer 2027
@@ -450,7 +451,10 @@ _Generated 2026-09-11_
 - Merchants Bank of Indiana — Business Technology Intern - Application Development
 - Merchants Bank of Indiana — Business Technology Intern - Summer 2027
 - Merchants Bank of Indiana — Capital Markets Intern - Single-Family
+- Meta — Research Scientist Intern - AI Alignment
 - Meta — Research Scientist Intern - AI/ML - Core Ads Growth
+- Meta — Research Scientist Intern - Language & Multimodal Foundations
+- Meta — Research Scientist Intern - Multiple Teams
 - Microchip Technology — Design Intern - Design
 - Microchip Technology — Engineering Intern - Applications
 - Microchip Technology — Equipment Engineering Technician Intern - Wet Process
@@ -522,7 +526,6 @@ _Generated 2026-09-11_
 - ONE Finance — Software Engineer Intern
 - onsemi — Oracle Platform Intern
 - onsemi — Tax AI and Automation Intern
-- Ontario Teachers' Pension Plan — Finance Intern - Risk Analytics
 - Ontario Teachers' Pension Plan — Investments Intern
 - Ontario Teachers' Pension Plan — Investments Intern - Total Fund Management - Global Trading
 - Open Road Integrated Media — Marketing Analytics Intern - Paid
@@ -636,6 +639,7 @@ _Generated 2026-09-11_
 - RTX — Systems Engineer 1 Intern - Intern Conversion
 - RTX — Systems Engineering Intern
 - RTX — Technical Publications Technical Developer Intern - Artificial Intelligence/Machine Learning
+- RTX — Work Transfer Analyst Intern - Global Work Transfer Analyst
 - SchoolMint — Marketing Technology & Analytics Intern
 - Schweitzer Engineering Laboratories — Application Engineering Intern
 - Schweitzer Engineering Laboratories — Engineering Intern
@@ -670,6 +674,7 @@ _Generated 2026-09-11_
 - TC Energy — Engineering Intern
 - TC Energy — Engineering Intern - Engineering
 - Techtronic Industries (TTI) — Electrical Engineer Intern
+- Teledyne — Electrical Engineer Intern
 - Tenstorrent — Design Verification Engineer Intern
 - Tesla — Access Control Systems Integration Engineer Intern - Vehicle Software
 - Tesla — AI Performance Engineer Intern - AI Performance Engineer - Performance Optimization
@@ -699,7 +704,6 @@ _Generated 2026-09-11_
 - Tesla — Service Engineering Intern - Product Support Engineer - Service Engineering
 - Tesla — Software Engineer Intern - Distributed Systems Software Engineer - Energy Engineering
 - Tesla — Software Engineer Intern - Energy Engineering
-- Tesla — Software Engineer Intern - Fullstack Engineer - Infrastructure Engineering
 - Tesla — Software Engineer Intern - Multiple Teams
 - Tesla — Software Engineer Intern - Residential Energy Device Software Engineer - Energy Engineering
 - Tesla — Software Engineer Intern - Site Controller Software Engineer - Energy Engineering
@@ -729,10 +733,14 @@ _Generated 2026-09-11_
 - The Walt Disney Company — Figure Programming Intern
 - The Walt Disney Company — Figure Programming Intern
 - The Walt Disney Company — Geographic Information Systems Intern - GIS
+- The Walt Disney Company — Industrial Engineer Intern - Workforce Management
 - The Walt Disney Company — Insights and Analytics Intern - ABC News
 - The Walt Disney Company — Insights and Analytics Intern - Spring 2027
+- The Walt Disney Company — Labor Systems Web Integration Intern - Spring 2027
 - The Walt Disney Company — Menu Planning Intern - Spring 2027
+- The Walt Disney Company — Park Yield Optimization Intern - Spring 2027
 - The Walt Disney Company — Pricing & Product Development Intern
+- The Walt Disney Company — Pricing & Product Development Intern - Spring 2027
 - The Walt Disney Company — Project Controls Planning Intern - Spring 2027
 - The Walt Disney Company — Project Controls Planning Intern - Spring 2027
 - The Walt Disney Company — Revenue Planning & Analytics Intern - Spring 2027
