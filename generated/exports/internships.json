@@ -1,6 +1,6 @@
 {
   "generated": "2026-09-11",
-  "count": 4206,
+  "count": 4208,
   "internships": [
     {
       "schema_version": "1.0",
@@ -3052,6 +3052,58 @@
       "dates": {
         "posted": "2026-09-08",
         "discovered": "2026-09-08",
+        "last_verified": "2026-09-11"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "allen-control-systems-electrical-engineer-intern-2027",
+      "company": {
+        "name": "Allen Control Systems",
+        "slug": "allen-control-systems"
+      },
+      "role": "Electrical Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://jobs.ashbyhq.com/allen-control-systems/cc1618f1-e4b8-4dcb-88fd-9771da972220/application?embed=true",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Austin",
+          "state": "TX",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-08",
+        "discovered": "2026-09-11",
         "last_verified": "2026-09-11"
       },
       "status": "open",
@@ -59186,6 +59238,59 @@
     },
     {
       "schema_version": "1.0",
+      "id": "doordash-product-design-intern-summer-2027-2027",
+      "company": {
+        "name": "DoorDash",
+        "slug": "doordash",
+        "career_page": "https://careers.doordash.com/"
+      },
+      "role": "Product Design, Intern (Summer 2027)",
+      "category": "design",
+      "apply_url": "https://job-boards.greenhouse.io/doordashusa/jobs/8176863",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Francisco",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-03",
+        "discovered": "2026-09-11",
+        "last_verified": "2026-09-11"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "doordash-product-designer-intern-summer-2027-2027",
       "company": {
         "name": "DoorDash",
@@ -79719,9 +79824,9 @@
       "dates": {
         "posted": "2026-08-15",
         "discovered": "2026-09-06",
-        "last_verified": "2026-09-10"
+        "last_verified": "2026-09-11"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -79880,9 +79985,9 @@
       "dates": {
         "posted": "2026-08-15",
         "discovered": "2026-08-15",
-        "last_verified": "2026-09-10"
+        "last_verified": "2026-09-11"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -110821,7 +110926,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-11"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -112583,7 +112688,7 @@
         "discovered": "2026-09-09",
         "last_verified": "2026-09-11"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -131603,7 +131708,7 @@
         "discovered": "2026-09-09",
         "last_verified": "2026-09-11"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -137042,7 +137147,7 @@
         "discovered": "2026-08-21",
         "last_verified": "2026-09-11"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -198939,7 +199044,7 @@
         "discovered": "2026-08-24",
         "last_verified": "2026-09-11"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -213966,9 +214071,9 @@
       "dates": {
         "posted": "2026-09-01",
         "discovered": "2026-09-08",
-        "last_verified": "2026-09-10"
+        "last_verified": "2026-09-11"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"

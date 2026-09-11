@@ -1,25 +1,21 @@
 {
   "schema_version": "1.0",
-  "id": "marvell-analog-design-intern-ms-2027",
+  "id": "doordash-product-design-intern-summer-2027-2027",
   "company": {
-    "name": "Marvell",
-    "slug": "marvell"
+    "name": "DoorDash",
+    "slug": "doordash",
+    "career_page": "https://careers.doordash.com/"
   },
-  "role": "Analog Design Intern - MS",
+  "role": "Product Design, Intern (Summer 2027)",
   "category": "design",
-  "apply_url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Analog-Design-Intern--MS---Summer-2027_2604510-1",
+  "apply_url": "https://job-boards.greenhouse.io/doordashusa/jobs/8176863",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Santa Clara",
+      "city": "San Francisco",
       "state": "CA",
-      "country": "USA"
-    },
-    {
-      "city": "Burlington",
-      "state": "VT",
       "country": "USA"
     }
   ],
@@ -30,9 +26,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -47,13 +41,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-04",
-    "discovered": "2026-09-04",
+    "posted": "2026-09-03",
+    "discovered": "2026-09-11",
     "last_verified": "2026-09-11"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:ats"
   ]
 }

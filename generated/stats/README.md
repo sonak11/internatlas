@@ -33,7 +33,7 @@ _Generated 2026-09-11_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 2478 | `███████████████` |
+| software-engineering | 2479 | `███████████████` |
 | ai | 330 | `██` |
 | quant | 275 | `██` |
 | machine-learning | 190 | `█` |
@@ -41,7 +41,7 @@ _Generated 2026-09-11_
 | data-science | 142 | `█` |
 | research | 141 | `█` |
 | product | 130 | `█` |
-| design | 109 | `█` |
+| design | 110 | `█` |
 | embedded | 97 | `█` |
 | data-engineering | 71 | `█` |
 | cloud | 55 | `█` |
@@ -302,8 +302,6 @@ _Generated 2026-09-11_
 - GlossGenius — Engineering Intern - Summer 2027
 - Goldman Sachs — AWM Product Management Analyst Intern
 - Goldman Sachs — Summer Analyst Intern - Americas - AWM Product Management
-- Goldman Sachs — Summer Analyst Intern - Engineering
-- Goldman Sachs — Summer Analyst Intern - FICC and Equities - Sales and Trading
 - Goldman Sachs — Summer Analyst Intern - FICC & Equities - Sales & Trading
 - Goldman Sachs — Summer Analyst Intern - The Core Quantitative Strats
 - Goldman Sachs — Summer Analyst Intern - Wealth Management - Product Management and Design
@@ -442,6 +440,8 @@ _Generated 2026-09-11_
 - Marquee Brands — Consumer Insights Intern
 - Marsh — Government Health Consulting Informatics Intern - College Program
 - Marsh & McLennan — Data & Analytics Intern - Data & Analytics
+- Marvell — Analog Design Intern - MS
+- Marvell — Test Solutions Engineering Intern - BS - Post-Silicon Hardware Validation
 - Mastercard — Data Scientist Intern
 - Maven Securities — Trader Intern
 - Medline — Business Systems Intern - Summer 2027
@@ -504,6 +504,7 @@ _Generated 2026-09-11_
 - Nokia — Tools and Automation Software Developer Co-op/Intern
 - Nokia — Web Developer Co-op Intern
 - Nokia — Web Developer Co-op Intern - Intern
+- Northrop Grumman — Software Engineer Intern
 - Northrop Grumman — Software Engineer Intern - Strategic Deterrent Systems Division - Sentinel
 - Northwestern Mutual — Investment Analyst Intern - Private Debt & Equity
 - Northwood Space — RF Engineer Intern - Summer Internship
@@ -521,6 +522,7 @@ _Generated 2026-09-11_
 - ONE Finance — Software Engineer Intern
 - onsemi — Oracle Platform Intern
 - onsemi — Tax AI and Automation Intern
+- Ontario Teachers' Pension Plan — Finance Intern - Risk Analytics
 - Ontario Teachers' Pension Plan — Investments Intern
 - Ontario Teachers' Pension Plan — Investments Intern - Total Fund Management - Global Trading
 - Open Road Integrated Media — Marketing Analytics Intern - Paid
@@ -742,6 +744,7 @@ _Generated 2026-09-11_
 - The Walt Disney Company — Systems Application Development and Sustainment Intern
 - The Walt Disney Company — Systems Software Engineer Intern
 - The Walt Disney Company — Systems Software Engineer Intern
+- The Walt Disney Company — Transportation Logistics & Analytics Intern - Spring 2027
 - Thea Energy — Physics Intern
 - thyssenkrupp — Sustainability Systems Intern
 - TikTok — AI Product Manager Intern - Content Ecosystem
@@ -772,7 +775,6 @@ _Generated 2026-09-11_
 - United Airlines — Airport Operations Intern - Safety Strategy
 - United Airlines — Clubs & Lounges Intern - Summer 2027
 - United Airlines — Digital Technology Intern - Summer 2027
-- United Airlines — Onboard Experience Intern - Summer 2027
 - United Airlines — Operations Data & Analytics Intern - Summer 2027
 - United Parcel Service — Information Technology Intern - Multiple Teams
 - United Parcel Service — Information Technology Intern - Multiple Teams

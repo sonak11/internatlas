@@ -1,25 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "marvell-analog-design-intern-ms-2027",
+  "id": "allen-control-systems-electrical-engineer-intern-2027",
   "company": {
-    "name": "Marvell",
-    "slug": "marvell"
+    "name": "Allen Control Systems",
+    "slug": "allen-control-systems"
   },
-  "role": "Analog Design Intern - MS",
-  "category": "design",
-  "apply_url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Analog-Design-Intern--MS---Summer-2027_2604510-1",
+  "role": "Electrical Engineer Intern",
+  "category": "software-engineering",
+  "apply_url": "https://jobs.ashbyhq.com/allen-control-systems/cc1618f1-e4b8-4dcb-88fd-9771da972220/application?embed=true",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Santa Clara",
-      "state": "CA",
-      "country": "USA"
-    },
-    {
-      "city": "Burlington",
-      "state": "VT",
+      "city": "Austin",
+      "state": "TX",
       "country": "USA"
     }
   ],
@@ -30,9 +25,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -47,11 +40,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-04",
-    "discovered": "2026-09-04",
+    "posted": "2026-09-08",
+    "discovered": "2026-09-11",
     "last_verified": "2026-09-11"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"
