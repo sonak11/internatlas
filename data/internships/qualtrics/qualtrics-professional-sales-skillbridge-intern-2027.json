@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "nvidia-ph-d-research-graphics-and-simulation-intern-graphics-and-si-2027",
+  "id": "qualtrics-professional-sales-skillbridge-intern-2027",
   "company": {
-    "name": "NVIDIA",
-    "slug": "nvidia"
+    "name": "Qualtrics",
+    "slug": "qualtrics",
+    "career_page": "https://www.qualtrics.com/careers"
   },
-  "role": "Ph.D. Research Graphics and Simulation Intern - Graphics and Simulation",
-  "category": "research",
-  "apply_url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Graphics-and-Simulation_JR2023835",
+  "role": "Professional Sales Skillbridge Intern",
+  "category": "software-engineering",
+  "apply_url": "https://www.qualtrics.com/careers/us/en/job/8193457?gh_jid=8193457",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Santa Clara",
-      "state": "CA",
+      "city": "Dallas",
       "country": "USA"
     }
   ],
@@ -25,9 +25,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "phd"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -42,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-19",
-    "discovered": "2026-08-19",
+    "posted": "2026-09-11",
+    "discovered": "2026-09-11",
     "last_verified": "2026-09-11"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:ats"
   ]
 }

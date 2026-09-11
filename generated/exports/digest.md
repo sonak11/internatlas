@@ -1,6 +1,6 @@
 # 📬 InternAtlas Weekly Digest — 2026-09-11
 
-## 🆕 New this week (625)
+## 🆕 New this week (626)
 
 - **AArete** — [Business Analytics Intern - Summer 2027](https://jobs.jobvite.com/aarete/job/oBXLAfwD?nl=1&nl=1&fr=false) · software-engineering · —
 - **AArete** — [Data Architecture & Engineering Intern](https://jobs.jobvite.com/aarete/job/otGLAfwe?nl=1&nl=1&fr=false) · software-engineering · —
@@ -419,6 +419,7 @@
 - **Procter & Gamble** — [Research and Development PhD Intern - Life Cycle Assessment - Data Science](https://pg.wd5.myworkdayjobs.com/1000/job/MASON-BUS-AND-INNOVATION-CTR/R-D-PhD-Summer-Intern--Life-Cycle-Assessment--LCA--Data-Science_R000158787) · data-science · —
 - **Protective Life** — [Business Analytics Intern](https://jobs.lever.co/protective/40354575-2b06-42cd-93fb-f9ea82bdec7c/apply) · software-engineering · —
 - **Publicis Groupe** — [Software Engineer Intern](https://careers.publicisgroupe.com/jobs/172577?icims=1) · software-engineering · —
+- **Qualtrics** — [Professional Sales Skillbridge Intern](https://www.qualtrics.com/careers/us/en/job/8193457?gh_jid=8193457) · software-engineering · —
 - **RF-SMART** — [Product Strategy Intern](https://job-boards.greenhouse.io/rfsmart/jobs/5409030008) · software-engineering · —
 - **RF-SMART** — [Software Developer Intern - Product Engineering](https://job-boards.greenhouse.io/rfsmart/jobs/5407206008) · software-engineering · —
 - **RF-SMART** — [Software Support Engineer Intern - Netsuite](https://job-boards.greenhouse.io/rfsmart/jobs/5409034008) · software-engineering · —

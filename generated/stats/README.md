@@ -33,7 +33,7 @@ _Generated 2026-09-11_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 2493 | `███████████████` |
+| software-engineering | 2494 | `███████████████` |
 | ai | 330 | `██` |
 | quant | 275 | `██` |
 | machine-learning | 190 | `█` |
@@ -67,8 +67,8 @@ _Generated 2026-09-11_
 - 2026-09-11 — **GrayMatter Robotics**: [Robotics Engineering Intern - Systems & Applications](https://jobs.ashbyhq.com/graymatter-robotics/aa7c2419-7bb9-4080-9403-937c4db01bb6/application?embed=true)
 - 2026-09-11 — **Johns Hopkins Applied Physics Laboratory**: [Decision Science Intern - Software Engineer](https://careers.jhuapl.edu/jobs/60040?icims=1)
 - 2026-09-11 — **Kinaxis**: [Developer Intern - Clients - Front End Technologies](https://careers-kinaxis.icims.com/jobs/35320/job?mobile=true&needsRedirect=false)
+- 2026-09-11 — **Qualtrics**: [Professional Sales Skillbridge Intern](https://www.qualtrics.com/careers/us/en/job/8193457?gh_jid=8193457)
 - 2026-09-11 — **Tanium**: [Software Engineer Intern - Summer 2027](https://job-boards.greenhouse.io/tanium/jobs/8181017)
-- 2026-09-11 — **Tesla**: [Robotics Physics Modeling Engineer Intern - Model Based Design - Optimus](https://www.tesla.com/careers/search/job/283128)
 
 ## Recently closed
 
@@ -236,6 +236,7 @@ _Generated 2026-09-11_
 - Crum & Forster Insurance — Actuarial, Data Science or Product Services Intern - Commercial Lines
 - CSX — Technology Intern - Paid
 - Dallas College — SAS Intern
+- Dell Technologies — Software Engineer Intern - Client Solutions Group Engineering
 - Deloitte — AI Innovation Summer Scholar Intern - AI Innovation
 - Deloitte — Forensic Analytics Summer Scholar Intern - Forensic Analytics
 - Delta Dental — Knowledge Science Intern
@@ -502,6 +503,7 @@ _Generated 2026-09-11_
 - Nidec — Electrical Engineer Intern
 - Nike — Global Apparel Materials Developer Intern - Apparel Development - Global Apparel Materials
 - NiSource — Engineering Intern
+- Nokia — Optical Test Co-op Intern
 - Nokia — Software Designer Co-op Intern - Intern
 - Nokia — Software Developer Co-op Intern
 - Nokia — Software Developer Co-op Intern - Intern
@@ -515,8 +517,12 @@ _Generated 2026-09-11_
 - Northwood Space — Supply Chain Data & Analytics Intern
 - Novogradac — Junior Analyst Intern
 - NVIDIA — Autonomous Vehicles and Robotics Intern
+- NVIDIA — Computer Architecture and Systems Intern - Research
+- NVIDIA — Computer Vision and Deep Learning Intern
 - NVIDIA — Developer and Performance Technology Intern
 - NVIDIA — Ph.D. Engineering Intern
+- NVIDIA — Ph.D. Research Graphics and Simulation Intern - Graphics and Simulation
+- NVIDIA — Robotics Intern - Ph.D. Research
 - NXP Semiconductors — AI/ML ASIC Design and Implementation Automation Intern - Summer 2027
 - OceanComm — Electronics Technician Intern
 - Oceanus Marine Technologies — Software Engineer Intern
@@ -736,11 +742,13 @@ _Generated 2026-09-11_
 - The Walt Disney Company — Industrial Engineer Intern - Workforce Management
 - The Walt Disney Company — Insights and Analytics Intern - ABC News
 - The Walt Disney Company — Insights and Analytics Intern - Spring 2027
+- The Walt Disney Company — Labor Systems Data Analytics & Integration Intern - Spring 2027
 - The Walt Disney Company — Labor Systems Web Integration Intern - Spring 2027
 - The Walt Disney Company — Menu Planning Intern - Spring 2027
 - The Walt Disney Company — Park Yield Optimization Intern - Spring 2027
 - The Walt Disney Company — Pricing & Product Development Intern
 - The Walt Disney Company — Pricing & Product Development Intern - Spring 2027
+- The Walt Disney Company — Pricing & Revenue Management Intern
 - The Walt Disney Company — Project Controls Planning Intern - Spring 2027
 - The Walt Disney Company — Project Controls Planning Intern - Spring 2027
 - The Walt Disney Company — Revenue Planning & Analytics Intern - Spring 2027
@@ -812,6 +820,8 @@ _Generated 2026-09-11_
 - Zipline — Computational Physics Intern - Spring 2027
 - Zipline — Computational Physics Intern - Summer 2027
 - Zipline — Controls Engineer Intern - Spring 2027
+- Zipline — Enterprise Systems Software Engineer Intern - Spring 2027
+- Zipline — Enterprise Systems Software Engineer Intern - Spring 2027
 - Zipline — Long Range Platform Hardware Engineering Intern
 - Zipline — Quality & Manufacturing Intern
 - Zuckerman Investment Group — Investment Analyst Intern - MBA
