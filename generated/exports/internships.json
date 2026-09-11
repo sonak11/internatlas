@@ -1,6 +1,6 @@
 {
   "generated": "2026-09-11",
-  "count": 4202,
+  "count": 4206,
   "internships": [
     {
       "schema_version": "1.0",
@@ -72920,6 +72920,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "garmin-software-engineer-intern-2027-3855bb",
+      "company": {
+        "name": "Garmin",
+        "slug": "garmin"
+      },
+      "role": "Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://careers.garmin.com/jobs/20135?icims=1",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Tulsa",
+          "state": "OK",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-11",
+        "discovered": "2026-09-11",
+        "last_verified": "2026-09-11"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "garmin-software-engineer-intern-2027-869bd2",
       "company": {
         "name": "Garmin",
@@ -78519,9 +78571,9 @@
       "dates": {
         "posted": "2026-08-15",
         "discovered": "2026-08-27",
-        "last_verified": "2026-09-10"
+        "last_verified": "2026-09-11"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -78624,9 +78676,9 @@
       "dates": {
         "posted": "2026-08-15",
         "discovered": "2026-08-15",
-        "last_verified": "2026-09-10"
+        "last_verified": "2026-09-11"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -78677,9 +78729,9 @@
       "dates": {
         "posted": "2026-08-15",
         "discovered": "2026-09-09",
-        "last_verified": "2026-09-10"
+        "last_verified": "2026-09-11"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -78730,9 +78782,9 @@
       "dates": {
         "posted": "2026-08-15",
         "discovered": "2026-08-15",
-        "last_verified": "2026-09-10"
+        "last_verified": "2026-09-11"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -78782,9 +78834,9 @@
       "dates": {
         "posted": "2026-08-15",
         "discovered": "2026-09-04",
-        "last_verified": "2026-09-10"
+        "last_verified": "2026-09-11"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -78834,9 +78886,9 @@
       "dates": {
         "posted": "2026-08-15",
         "discovered": "2026-09-04",
-        "last_verified": "2026-09-10"
+        "last_verified": "2026-09-11"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -78888,9 +78940,9 @@
       "dates": {
         "posted": "2026-08-15",
         "discovered": "2026-09-08",
-        "last_verified": "2026-09-10"
+        "last_verified": "2026-09-11"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -78941,9 +78993,9 @@
       "dates": {
         "posted": "2026-08-15",
         "discovered": "2026-09-04",
-        "last_verified": "2026-09-10"
+        "last_verified": "2026-09-11"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -78992,9 +79044,9 @@
       "dates": {
         "posted": "2026-08-15",
         "discovered": "2026-09-10",
-        "last_verified": "2026-09-10"
+        "last_verified": "2026-09-11"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -79046,9 +79098,9 @@
       "dates": {
         "posted": "2026-08-15",
         "discovered": "2026-09-04",
-        "last_verified": "2026-09-10"
+        "last_verified": "2026-09-11"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -79097,9 +79149,9 @@
       "dates": {
         "posted": "2026-08-15",
         "discovered": "2026-09-04",
-        "last_verified": "2026-09-10"
+        "last_verified": "2026-09-11"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -79148,9 +79200,9 @@
       "dates": {
         "posted": "2026-08-15",
         "discovered": "2026-09-09",
-        "last_verified": "2026-09-10"
+        "last_verified": "2026-09-11"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -79199,9 +79251,9 @@
       "dates": {
         "posted": "2026-08-15",
         "discovered": "2026-08-15",
-        "last_verified": "2026-09-10"
+        "last_verified": "2026-09-11"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -79251,9 +79303,9 @@
       "dates": {
         "posted": "2026-08-15",
         "discovered": "2026-09-04",
-        "last_verified": "2026-09-10"
+        "last_verified": "2026-09-11"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -79302,9 +79354,9 @@
       "dates": {
         "posted": "2026-08-15",
         "discovered": "2026-09-04",
-        "last_verified": "2026-09-10"
+        "last_verified": "2026-09-11"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -79365,6 +79417,57 @@
     },
     {
       "schema_version": "1.0",
+      "id": "goldman-sachs-summer-analyst-intern-americas-engineering-2027-48b2d0",
+      "company": {
+        "name": "Goldman Sachs",
+        "slug": "goldman-sachs"
+      },
+      "role": "Summer Analyst Intern - Americas - Engineering",
+      "category": "software-engineering",
+      "apply_url": "https://higher.gs.com/roles/171567?type=students",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Toronto",
+          "country": "ON"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-15",
+        "discovered": "2026-09-11",
+        "last_verified": "2026-09-11"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "goldman-sachs-summer-analyst-intern-americas-engineering-2027-904d14",
       "company": {
         "name": "Goldman Sachs",
@@ -79407,9 +79510,9 @@
       "dates": {
         "posted": "2026-08-15",
         "discovered": "2026-09-04",
-        "last_verified": "2026-09-10"
+        "last_verified": "2026-09-11"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -79424,14 +79527,14 @@
       },
       "role": "Summer Analyst Intern - Americas - Engineering",
       "category": "software-engineering",
-      "apply_url": "https://higher.gs.com/roles/171567?type=students",
+      "apply_url": "https://higher.gs.com/roles/171564?type=students",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
       "locations": [
         {
-          "city": "Toronto",
-          "country": "ON"
+          "city": "NYC",
+          "country": "USA"
         }
       ],
       "compensation": {
@@ -79458,9 +79561,9 @@
       "dates": {
         "posted": "2026-08-15",
         "discovered": "2026-09-04",
-        "last_verified": "2026-09-10"
+        "last_verified": "2026-09-11"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -79511,9 +79614,9 @@
       "dates": {
         "posted": "2026-08-15",
         "discovered": "2026-09-04",
-        "last_verified": "2026-09-10"
+        "last_verified": "2026-09-11"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -79562,9 +79665,9 @@
       "dates": {
         "posted": "2026-08-15",
         "discovered": "2026-09-10",
-        "last_verified": "2026-09-10"
+        "last_verified": "2026-09-11"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -79670,9 +79773,9 @@
       "dates": {
         "posted": "2026-08-15",
         "discovered": "2026-09-04",
-        "last_verified": "2026-09-10"
+        "last_verified": "2026-09-11"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -79723,9 +79826,9 @@
       "dates": {
         "posted": "2026-08-15",
         "discovered": "2026-09-04",
-        "last_verified": "2026-09-10"
+        "last_verified": "2026-09-11"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -80034,9 +80137,9 @@
       "dates": {
         "posted": "2026-08-15",
         "discovered": "2026-08-29",
-        "last_verified": "2026-09-10"
+        "last_verified": "2026-09-11"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -80087,9 +80190,9 @@
       "dates": {
         "posted": "2026-08-15",
         "discovered": "2026-08-15",
-        "last_verified": "2026-09-10"
+        "last_verified": "2026-09-11"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -102526,6 +102629,57 @@
       "dates": {
         "posted": "2026-09-09",
         "discovered": "2026-09-09",
+        "last_verified": "2026-09-11"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "kinaxis-developer-intern-clients-front-end-technologies-2027",
+      "company": {
+        "name": "Kinaxis",
+        "slug": "kinaxis"
+      },
+      "role": "Developer Intern - Clients - Front End Technologies",
+      "category": "software-engineering",
+      "apply_url": "https://careers-kinaxis.icims.com/jobs/35320/job?mobile=true&needsRedirect=false",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Ottawa",
+          "country": "ON"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-11",
+        "discovered": "2026-09-11",
         "last_verified": "2026-09-11"
       },
       "status": "open",
@@ -147529,7 +147683,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-11"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -165890,7 +166044,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "rtx-software-engineering-intern-2027-d23ff1",
+      "id": "rtx-software-engineering-intern-2027",
       "company": {
         "name": "RTX",
         "slug": "rtx"
@@ -165933,60 +166087,6 @@
       },
       "dates": {
         "posted": "2026-09-09",
-        "discovered": "2026-09-10",
-        "last_verified": "2026-09-11"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "rtx-software-engineering-intern-2027",
-      "company": {
-        "name": "RTX",
-        "slug": "rtx"
-      },
-      "role": "Software Engineering Intern",
-      "category": "software-engineering",
-      "apply_url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-CAMBRIDGE-BBN01--10--50-Moulton-St--MOULTON-B2/XMLNAME-2027-Software-Engineering-Intern--Onsite-_01864698",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Cambridge",
-          "state": "MA",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [
-          "masters"
-        ],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-08-18",
         "discovered": "2026-08-11",
         "last_verified": "2026-09-11"
       },
@@ -222533,6 +222633,110 @@
       "dates": {
         "posted": "2026-09-10",
         "discovered": "2026-09-10",
+        "last_verified": "2026-09-11"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "wellmark-data-analytics-governance-internship-2027",
+      "company": {
+        "name": "Wellmark",
+        "slug": "wellmark"
+      },
+      "role": "Data Analytics & Governance Internship",
+      "category": "software-engineering",
+      "apply_url": "https://jobs.smartrecruiters.com/WellmarkInc/744000148917718",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Des Moines",
+          "state": "IA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-11",
+        "discovered": "2026-09-11",
+        "last_verified": "2026-09-11"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "wellmark-software-engineer-intern-2027",
+      "company": {
+        "name": "Wellmark",
+        "slug": "wellmark"
+      },
+      "role": "Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://jobs.smartrecruiters.com/WellmarkInc/744000148915793",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Des Moines",
+          "state": "IA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-11",
+        "discovered": "2026-09-11",
         "last_verified": "2026-09-11"
       },
       "status": "open",

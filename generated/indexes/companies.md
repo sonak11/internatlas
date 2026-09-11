@@ -391,7 +391,7 @@
 | [GRITT ROBOTICS INC](../companies/gritt-robotics-inc.md) | 1/1 | machine-learning |
 | [Gallup](../companies/gallup.md) | 5/5 | data-engineering, data-science, machine-learning, software-engineering |
 | [Garda Capital Partners](../companies/garda-capital-partners.md) | 4/4 | quant, software-engineering |
-| [Garmin](../companies/garmin.md) | 5/5 | design, software-engineering |
+| [Garmin](../companies/garmin.md) | 6/6 | design, software-engineering |
 | [Gartner](../companies/gartner.md) | 1/1 | software-engineering |
 | [Geico](../companies/geico.md) | 0/1 | machine-learning |
 | [Gemini](../companies/gemini.md) | 0/3 | product, software-engineering |
@@ -415,7 +415,7 @@
 | [GoDaddy](../companies/godaddy.md) | 0/1 | software-engineering |
 | [GoMaterials](../companies/gomaterials.md) | 1/1 | software-engineering |
 | [Golden Pet Brands](../companies/golden-pet-brands.md) | 0/1 | software-engineering |
-| [Goldman Sachs](../companies/goldman-sachs.md) | 0/31 | product, quant, software-engineering |
+| [Goldman Sachs](../companies/goldman-sachs.md) | 24/32 | product, quant, software-engineering |
 | [Google](../companies/google.md) | 8/12 | data-science, research, software-engineering |
 | [Grant Thornton](../companies/grant-thornton.md) | 0/6 | ai, software-engineering |
 | [Grass Valley](../companies/grass-valley.md) | 2/2 | software-engineering |
@@ -532,7 +532,7 @@
 | [KeyBank](../companies/keybank.md) | 1/3 | quant, software-engineering |
 | [Keysight Technologies](../companies/keysight-technologies.md) | 1/4 | hardware, machine-learning, software-engineering |
 | [Kimley-Horn](../companies/kimley-horn.md) | 0/2 | software-engineering |
-| [Kinaxis](../companies/kinaxis.md) | 3/5 | ai, machine-learning, software-engineering |
+| [Kinaxis](../companies/kinaxis.md) | 4/6 | ai, machine-learning, software-engineering |
 | [Kinder Morgan](../companies/kinder-morgan.md) | 2/2 | software-engineering |
 | [Kirin](../companies/kirin.md) | 0/2 | ai, quant |
 | [Kodak](../companies/kodak.md) | 0/1 | software-engineering |
@@ -743,7 +743,7 @@
 | [PricewaterhouseCoopers (PwC)](../companies/pricewaterhousecoopers-pwc.md) | 7/17 | ai, product, software-engineering |
 | [Primer](../companies/primer.md) | 1/1 | software-engineering |
 | [Primetals Technologies](../companies/primetals-technologies.md) | 1/1 | software-engineering |
-| [Principal Financial Group](../companies/principal-financial-group.md) | 1/1 | software-engineering |
+| [Principal Financial Group](../companies/principal-financial-group.md) | 0/1 | software-engineering |
 | [ProNexus](../companies/pronexus.md) | 0/1 | software-engineering |
 | [Procter & Gamble](../companies/procter-gamble.md) | 10/12 | ai, data-science, machine-learning, product, research, software-engineering |
 | [Prophet](../companies/prophet.md) | 0/1 | ai |
@@ -770,7 +770,7 @@
 | [ROUSH](../companies/roush.md) | 0/1 | software-engineering |
 | [RRS Group](../companies/rrs-group.md) | 0/2 | software-engineering |
 | [RSM](../companies/rsm.md) | 1/3 | software-engineering |
-| [RTX](../companies/rtx.md) | 37/106 | ai, data-science, design, hardware, machine-learning, software-engineering |
+| [RTX](../companies/rtx.md) | 36/105 | ai, data-science, design, hardware, machine-learning, software-engineering |
 | [Radix Trading](../companies/radix-trading.md) | 1/1 | quant |
 | [Ragle Inc](../companies/ragle-inc.md) | 2/2 | data-engineering, software-engineering |
 | [Rainmaker](../companies/rainmaker.md) | 0/1 | software-engineering |
@@ -1052,6 +1052,7 @@
 | [Wealthsimple](../companies/wealthsimple.md) | 2/2 | data-science, software-engineering |
 | [Weave](../companies/weave.md) | 1/1 | data-engineering |
 | [Wellington Management](../companies/wellington-management.md) | 1/1 | software-engineering |
+| [Wellmark](../companies/wellmark.md) | 2/2 | software-engineering |
 | [Wells Fargo](../companies/wells-fargo.md) | 6/9 | quant, software-engineering |
 | [Western & Southern Financial Group](../companies/western-southern-financial-group.md) | 5/5 | data-engineering, software-engineering |
 | [Western Aircraft](../companies/western-aircraft.md) | 0/1 | software-engineering |

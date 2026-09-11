@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "rtx-software-engineering-intern-2027-d23ff1",
+  "id": "wellmark-software-engineer-intern-2027",
   "company": {
-    "name": "RTX",
-    "slug": "rtx"
+    "name": "Wellmark",
+    "slug": "wellmark"
   },
-  "role": "Software Engineering Intern",
+  "role": "Software Engineer Intern",
   "category": "software-engineering",
-  "apply_url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AL-HUNTSVILLE-382--420-Jan-Davis-Dr--DAVIS-382/Software-Engineering-Intern--Summer-2027-_01872655",
+  "apply_url": "https://jobs.smartrecruiters.com/WellmarkInc/744000148915793",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Huntsville",
-      "state": "AL",
+      "city": "Des Moines",
+      "state": "IA",
       "country": "USA"
     }
   ],
@@ -25,9 +25,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -42,8 +40,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-09",
-    "discovered": "2026-09-10",
+    "posted": "2026-09-11",
+    "discovered": "2026-09-11",
     "last_verified": "2026-09-11"
   },
   "status": "open",

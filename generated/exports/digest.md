@@ -1,6 +1,6 @@
 # 📬 InternAtlas Weekly Digest — 2026-09-11
 
-## 🆕 New this week (600)
+## 🆕 New this week (604)
 
 - **AArete** — [Business Analytics Intern - Summer 2027](https://jobs.jobvite.com/aarete/job/oBXLAfwD?nl=1&nl=1&fr=false) · software-engineering · —
 - **AArete** — [Data Architecture & Engineering Intern](https://jobs.jobvite.com/aarete/job/otGLAfwe?nl=1&nl=1&fr=false) · software-engineering · —
@@ -205,6 +205,7 @@
 - **Gallup** — [Software Engineer Intern - Summer 2027](https://job-boards.greenhouse.io/gallup/jobs/4395897009) · software-engineering · —
 - **Garmin** — [Electrical Design Engineer Intern](https://careers.garmin.com/jobs/19896?icims=1) · design · —
 - **Garmin** — [Software Engineer Intern](https://careers.garmin.com/jobs/20131?icims=1) · software-engineering · —
+- **Garmin** — [Software Engineer Intern](https://careers.garmin.com/jobs/20135?icims=1) · software-engineering · —
 - **General Dynamics Mission Systems** — [Payload Control System Software/Systems Engineering Intern - Summer 2027](https://careers-gdms.icims.com/jobs/74848/job?mobile=true&needsRedirect=false) · software-engineering · —
 - **General Dynamics Mission Systems** — [Software Engineer Intern](https://careers-gdms.icims.com/jobs/74687/job?mobile=true&needsRedirect=false) · software-engineering · —
 - **General Motors** — [Economics Intern](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---General-Motors-Economics-Intern_JR-202619691) · software-engineering · —
@@ -263,6 +264,7 @@
 - **Ketjen** — [Data Science Intern](https://albemarle.wd5.myworkdayjobs.com/en-US/ketjenexternal/job/Houston-Texas-United-States-of-America/Ketjen-Summer-2027-Data-Science-Internship_REQ-31411) · data-science · —
 - **Keysight Technologies** — [Full Stack Intern](https://jobs.keysight.com/jobs/54165?icims=1) · software-engineering · —
 - **Kinaxis** — [Developer Intern - AI Solutions](https://careers-kinaxis.icims.com/jobs/35343/job?mobile=true&needsRedirect=false) · ai · —
+- **Kinaxis** — [Developer Intern - Clients - Front End Technologies](https://careers-kinaxis.icims.com/jobs/35320/job?mobile=true&needsRedirect=false) · software-engineering · —
 - **Kinaxis** — [Software Developer Co-op/Intern - Core Algorithms](https://careers-kinaxis.icims.com/jobs/35329/job?mobile=true&needsRedirect=false) · software-engineering · —
 - **Kodiak Robotics** — [Data Engineering Intern](https://job-boards.greenhouse.io/kodiak/jobs/4396622009) · data-engineering · —
 - **LEGO** — [Employee Engagement & Analytics Intern](https://lego.wd103.myworkdayjobs.com/LEGO_External/job/London/Employee-Engagement---Analytics-Intern_0000036941) · software-engineering · —
@@ -567,6 +569,8 @@
 - **Waymo** — [2027 Summer Intern, PhD, Machine Learning, Computer Vision](https://careers.withwaymo.com/jobs?gh_jid=8193295) · machine-learning · —
 - **Waymo** — [2027 Summer Intern, PhD, Vehicle Intent and Prediction](https://careers.withwaymo.com/jobs?gh_jid=8189848) · software-engineering · —
 - **Wellington Management** — [Technology Undergraduate Intern](https://wellington.wd5.myworkdayjobs.com/Campus/job/Boston-MA-United-States/Technology-Undergraduate-Summer-Internship_R94778) · software-engineering · —
+- **Wellmark** — [Data Analytics & Governance Internship](https://jobs.smartrecruiters.com/WellmarkInc/744000148917718) · software-engineering · —
+- **Wellmark** — [Software Engineer Intern](https://jobs.smartrecruiters.com/WellmarkInc/744000148915793) · software-engineering · —
 - **Wells Fargo** — [Quantitative Analytics Intern - Applied Computational Intelligence](https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Quantitative-Analytics-Summer-Internship-Applied-Computational-Intelligence--ACI-PhD----Early-Careers_R-574032) · quant · —
 - **Wells Fargo** — [Quantitative Analytics Intern - Applied Computational Intelligence](https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Quantitative-Analytics-Summer-Internship-Applied-Computational-Intelligence--ACI-Masters----Early-Careers_R-574030) · quant · —
 - **Westinghouse Electric Company** — [Application Development Intern](https://careers.westinghousenuclear.com/job/Cranberry-Township-Summer-Intern-Application-Development-NC/1426859800/?ats=successfactors) · software-engineering · —
