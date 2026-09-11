@@ -16,6 +16,11 @@
     {
       "city": "Mountain View",
       "country": "USA"
+    },
+    {
+      "city": "Mountain View",
+      "state": "CA",
+      "country": "USA"
     }
   ],
   "compensation": {
@@ -25,7 +30,9 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "phd"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -42,7 +49,7 @@
   "dates": {
     "posted": "2026-09-10",
     "discovered": "2026-09-10",
-    "last_verified": "2026-09-10"
+    "last_verified": "2026-09-11"
   },
   "status": "open",
   "tags": [
