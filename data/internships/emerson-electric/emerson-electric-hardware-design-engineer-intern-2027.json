@@ -1,29 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "datadog-software-engineer-intern-observability-and-security-platform-2027",
+  "id": "emerson-electric-hardware-design-engineer-intern-2027",
   "company": {
-    "name": "Datadog",
-    "slug": "datadog"
+    "name": "Emerson Electric",
+    "slug": "emerson-electric"
   },
-  "role": "Software Engineer Intern - Observability and Security Platform",
-  "category": "security",
-  "apply_url": "https://careers.datadoghq.com/detail/8052095/?gh_jid=8052095",
-  "season": "winter",
+  "role": "Hardware Design Engineer Intern",
+  "category": "hardware",
+  "apply_url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010801",
+  "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Boston",
-      "state": "MA",
-      "country": "USA"
-    },
-    {
-      "city": "NYC",
-      "country": "USA"
-    },
-    {
-      "city": "New York",
-      "state": "NY",
+      "city": "Round Rock",
+      "state": "TX",
       "country": "USA"
     }
   ],
@@ -37,7 +28,7 @@
     "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
-    "visa_sponsorship": "yes"
+    "visa_sponsorship": "unknown"
   },
   "interview": {},
   "tech": {
@@ -49,8 +40,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-17",
-    "discovered": "2026-08-25",
+    "posted": "2026-09-11",
+    "discovered": "2026-09-11",
     "last_verified": "2026-09-11"
   },
   "status": "open",

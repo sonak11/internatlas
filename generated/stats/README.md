@@ -8,17 +8,17 @@ _Generated 2026-09-11_
 
 | Company | Listings |
 |---|---|
+| Tesla | 168 |
 | TikTok | 166 |
-| Tesla | 165 |
-| RTX | 105 |
+| RTX | 108 |
 | ByteDance | 69 |
+| AMD | 66 |
 | American Express | 62 |
-| AMD | 61 |
 | Qorvo | 53 |
 | Jump Trading | 49 |
 | Royal Bank of Canada | 48 |
 | L3Harris Technologies | 45 |
-| Booz Allen | 40 |
+| Booz Allen | 41 |
 | Marvell | 37 |
 | Bank of Montreal | 33 |
 | Cloudflare | 33 |
@@ -33,42 +33,42 @@ _Generated 2026-09-11_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 2494 | `███████████████` |
-| ai | 330 | `██` |
-| quant | 275 | `██` |
-| machine-learning | 190 | `█` |
-| hardware | 168 | `█` |
-| data-science | 144 | `█` |
+| software-engineering | 2538 | `███████████████` |
+| ai | 338 | `██` |
+| quant | 277 | `██` |
+| machine-learning | 196 | `█` |
+| hardware | 170 | `█` |
+| data-science | 151 | `█` |
 | research | 141 | `█` |
-| product | 130 | `█` |
-| design | 111 | `█` |
-| embedded | 99 | `█` |
-| data-engineering | 72 | `█` |
+| product | 132 | `█` |
+| design | 112 | `█` |
+| embedded | 101 | `█` |
+| data-engineering | 78 | `█` |
 | cloud | 55 | `█` |
-| security | 20 | `█` |
+| security | 19 | `█` |
 
 ## Newest listings
 
-- 2026-09-11 — **Bedrock Robotics**: [Hardware Engineer Intern](https://jobs.ashbyhq.com/bedrock-robotics/949feb1b-c60f-43c5-94de-7dd9cd70ba4a/application?embed=true)
-- 2026-09-11 — **Citizens Financial Group**: [Business Insights Intern - Multiple Teams](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49283)
-- 2026-09-11 — **Citizens Financial Group**: [Business Insights Intern - Multiple Teams](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49279)
-- 2026-09-11 — **Citizens Financial Group**: [Data Analyst Intern - Multiple Teams](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49282)
-- 2026-09-11 — **Citizens Financial Group**: [Data Analyst Intern - Multiple Teams](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49278)
-- 2026-09-11 — **Citizens Financial Group**: [Data Engineer Intern - Enterprise Technology & Security](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49285)
-- 2026-09-11 — **Citizens Financial Group**: [Data Management Intern - Enterprise Data and Analytics](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49281)
-- 2026-09-11 — **Citizens Financial Group**: [Data Management Intern - Multiple Teams](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49277)
-- 2026-09-11 — **Citizens Financial Group**: [Data Science Intern - Multiple Teams](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49280)
-- 2026-09-11 — **Citizens Financial Group**: [Data Science Intern - Multiple Teams](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49276)
-- 2026-09-11 — **Citizens Financial Group**: [Software Engineer Intern](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49286)
-- 2026-09-11 — **Definity Financial**: [Analyst Co-op Intern - Consumer Insights & Market Research](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9344)
-- 2026-09-11 — **Definity Financial**: [Commercial Insurance Portfolio Analyst Co-op Intern](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9349)
-- 2026-09-11 — **Definity Financial**: [Commercial Insurance Product Owner Co-op Intern](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9354)
-- 2026-09-11 — **Garmin**: [Software Engineer Intern](https://careers.garmin.com/jobs/20135?icims=1)
-- 2026-09-11 — **GrayMatter Robotics**: [Robotics Engineering Intern - Systems & Applications](https://jobs.ashbyhq.com/graymatter-robotics/aa7c2419-7bb9-4080-9403-937c4db01bb6/application?embed=true)
-- 2026-09-11 — **Johns Hopkins Applied Physics Laboratory**: [Decision Science Intern - Software Engineer](https://careers.jhuapl.edu/jobs/60040?icims=1)
-- 2026-09-11 — **Kinaxis**: [Developer Intern - Clients - Front End Technologies](https://careers-kinaxis.icims.com/jobs/35320/job?mobile=true&needsRedirect=false)
-- 2026-09-11 — **Qualtrics**: [Professional Sales Skillbridge Intern](https://www.qualtrics.com/careers/us/en/job/8193457?gh_jid=8193457)
-- 2026-09-11 — **Tanium**: [Software Engineer Intern - Summer 2027](https://job-boards.greenhouse.io/tanium/jobs/8181017)
+- 2026-09-11 — **AES**: [Performance and Reliability Engineering Intern - Summer 2027](https://aes.wd1.myworkdayjobs.com/AES_US/job/US-Dayton-OH/T-D-Performance-and-Reliability-Engineering-Intern--Summer-2027-_R1064841)
+- 2026-09-11 — **Amazon**: [Machine Learning Systems Software Development Engineer Intern - Annapurna Labs](https://amazon.jobs/en/jobs/10538066/ml-systems-software-development-engineer-intern-annapurna-labs-2027)
+- 2026-09-11 — **Amcor**: [Business Intelligence Intern](https://amcor.wd5.myworkdayjobs.com/amcor_external_career_site/job/AF-Oshkosh-Division-Head-Office-WI/Business-Intelligence-Internship_REQ_95255)
+- 2026-09-11 — **AMD**: [AI Systems & GPU Performance Engineer Intern](https://careers.amd.com/jobs/92354?icims=1)
+- 2026-09-11 — **AMD**: [Analog/Mixed-Signal Design Intern/Co-op](https://careers.amd.com/jobs/92346?icims=1)
+- 2026-09-11 — **AMD**: [Machine Learning System Engineering Intern/Co-op](https://careers.amd.com/jobs/92342?icims=1)
+- 2026-09-11 — **AMD**: [Optical & Photonics Engineering Intern/Co-op](https://careers.amd.com/jobs/92358?icims=1)
+- 2026-09-11 — **AMD**: [SerDes Optical Transceivers Silicon Design and Architecture Modeling Engineer Intern/Co-op](https://careers.amd.com/jobs/92350?icims=1)
+- 2026-09-11 — **Amgen**: [Data Engineer Intern](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Data-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255742)
+- 2026-09-11 — **Amgen**: [Data Engineer Intern - Technology & Medical Organizations](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Undergrad-Intern---Data-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255708)
+- 2026-09-11 — **Amgen**: [Data Engineer Intern - Technology & Medical Organizations](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Data-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255725)
+- 2026-09-11 — **Amgen**: [Data Scientist Intern](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Undergrad-Intern---Data-Scientist---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255704)
+- 2026-09-11 — **Amgen**: [Data Scientist Intern - Amgen’s Technology & Medical Organizations](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Data-Scientist---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255722)
+- 2026-09-11 — **Amgen**: [Digital Product Intern](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Undergrad-Intern---Digital-Product---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255711)
+- 2026-09-11 — **Amgen**: [Digital Product Intern - Digital Product - Technology & Medical Organizations](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Digital-Product---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255744)
+- 2026-09-11 — **Amgen**: [Machine Learning Engineer Intern](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Machine-Learning-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255743)
+- 2026-09-11 — **Amgen**: [Machine Learning Engineer Intern - Technology & Medical Organizations](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Undergrad-Intern---Machine-Learning-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255709)
+- 2026-09-11 — **Amgen**: [Software Engineer Intern - Amgen’s Technology & Medical Organizations](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Software-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255745)
+- 2026-09-11 — **Amgen**: [Software Engineer Intern - Technology & Medical Organizations](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Undergrad-Intern---Software-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255719)
+- 2026-09-11 — **Baird**: [IT Data & Analytics Intern](https://baird.wd1.myworkdayjobs.com/careers/job/WI-Milwaukee/Internship---IT-Data---Analytics--Year-Round-_R20261012-1)
 
 ## Recently closed
 
@@ -80,6 +80,7 @@ _Generated 2026-09-11_
 - Aerotech — Electrical/Computer Engineering Intern Co-op
 - Air Products — Information Technology/Digital Technology Intern - Infrastructure Services
 - Alayacare — Full-Stack Developer Intern - Python
+- Albedo — Electrical Engineer Intern
 - Allen Control Systems — Systems Engineering Intern
 - Altom Transport — Software Development Intern
 - Altom Transport — Software Development Intern
@@ -187,7 +188,6 @@ _Generated 2026-09-11_
 - Chanel — Data Intern - Global Data Program
 - CHAOS Industries — Electrical Engineer Intern - Summer 2027
 - CHAOS Industries — Software Engineer Intern
-- Charles Schwab — Data Engineering Intern - Data Engineering
 - Charles Schwab — Software Engineering Intern - Technology
 - Chevron — Previous Intern - Information Technology - Information and Analytics
 - Chevron Corporation — Intern
@@ -307,8 +307,38 @@ _Generated 2026-09-11_
 - GlobalFoundries — Robotics and Automation Engineering Intern - Junior
 - GlossGenius — Engineering Intern
 - GlossGenius — Engineering Intern - Summer 2027
+- Goldman Sachs — Associate Intern - The Core Quantitative Strats
+- Goldman Sachs — AWM Product Management Analyst Intern
+- Goldman Sachs — Quantitative Strategist Associate Intern - Asset and Wealth Management
+- Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Intern - Americas
+- Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Intern - Investment Banking
+- Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
+- Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
+- Goldman Sachs — Quantitative Strats Analyst Intern - Americas - Investment Banking
+- Goldman Sachs — Summer Analyst Intern
+- Goldman Sachs — Summer Analyst Intern - Americas - AWM Product Management
+- Goldman Sachs — Summer Analyst Intern - Americas - Engineering
+- Goldman Sachs — Summer Analyst Intern - Americas - Engineering
+- Goldman Sachs — Summer Analyst Intern - Americas - Engineering
+- Goldman Sachs — Summer Analyst Intern - Americas - Investment Banking Quantitative Strats
+- Goldman Sachs — Summer Analyst Intern - Engineering
+- Goldman Sachs — Summer Analyst Intern - Engineering
+- Goldman Sachs — Summer Analyst Intern - Engineering
+- Goldman Sachs — Summer Analyst Intern - Engineering
+- Goldman Sachs — Summer Analyst Intern - FICC and Equities - Sales and Trading
 - Goldman Sachs — Summer Analyst Intern - FICC & Equities - Sales & Trading
+- Goldman Sachs — Summer Analyst Intern - The Core Quantitative Strats
 - Goldman Sachs — Summer Analyst Intern - Wealth Management - Product Management and Design
+- Goldman Sachs — Summer Analyst Intern - Wealth Management - Quantitative Finance
+- Goldman Sachs — Summer Associate Intern
+- Goldman Sachs — Summer Associate Intern - Multiple Teams
 - Grant Thornton — AI, Data & Technology Intern - Summer 2027
 - Grant Thornton — AI, Data & Technology Intern - Summer 2027
 - Grant Thornton — AI, Data & Technology Intern - Summer 2027
@@ -442,6 +472,7 @@ _Generated 2026-09-11_
 - Marmon Holdings — Digital Production Engineering Intern OR Student Co-Op
 - Marquee Brands — Consumer Insights Intern
 - Marsh — Government Health Consulting Informatics Intern - College Program
+- Marsh — Summer Analyst Intern - Data and Analytics
 - Marsh & McLennan — Data & Analytics Intern - Data & Analytics
 - Mary Free Bed Rehabilitation Hospital — IT Intern - Project Management
 - Mastercard — Data Scientist Intern
@@ -540,6 +571,7 @@ _Generated 2026-09-11_
 - Oracle — Customer Solutions Analyst Intern - Ovip
 - Oracle — Platform Software Engineer 1 Intern - Full-time Intern Conversion
 - Orennia — Analytics Intern
+- Oshkosh — Digital Technology Intern - Application Development
 - Palantir — Forward Deployed Software Engineer Intern - Intel
 - Palantir — Software Engineer Intern - Infrastructure
 - Panasonic Holdings — Back-End Cloud Developer Intern
@@ -670,6 +702,8 @@ _Generated 2026-09-11_
 - Stryten — Procurement Intern
 - StudyFetch — Product Intern
 - Super — Travel Supply Analyst Intern
+- Susquehanna International Group (SIG) — Quantitative Trader Intern
+- Susquehanna International Group (SIG) — Quantitative Trader Intern
 - Synchrony Financial — Emerging Technology Intern
 - Synchrony Financial — Emerging Technology Intern - Fall 2026
 - Synchrony Financial — Software Engineer Intern
@@ -775,6 +809,8 @@ _Generated 2026-09-11_
 - TikTok — Software Engineer Intern - ML Infra
 - TMEIC Corporation Americas — Engineer Intern - Spring 2027
 - Toast — Engineer Intern
+- Tradeweb — Java Software Engineer Intern
+- Tradeweb — Software Developer Intern - STP
 - Travelers — Engineering Development Intern
 - Trend Micro — Malware Research Intern
 - Trillium — Equity Trader Intern
