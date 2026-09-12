@@ -1,6 +1,6 @@
 # 📬 InternAtlas Weekly Digest — 2026-09-12
 
-## 🆕 New this week (601)
+## 🆕 New this week (604)
 
 - **AArete** — [Data Architecture & Engineering Intern](https://jobs.jobvite.com/aarete/job/otGLAfwe?nl=1&nl=1&fr=false) · software-engineering · —
 - **ABB** — [Application Engineering Intern](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Alpharetta-Georgia-United-States-of-America/Application-Engineering-Intern---Spring-2027_JR00045705) · software-engineering · —
@@ -156,6 +156,8 @@
 - **Cone Health** — [Healthcare Innovation Intern - AI](https://conehealth.wd12.myworkdayjobs.com/cone_health-careers/job/White-Box/Healthcare-Innovation--AI--Intern_JR155166) · ai · —
 - **Cone Health** — [Healthcare Innovation Intern - AI](https://careers.conehealth.com/us/en/job/JR155166) · ai · —
 - **Constellation Energy** — [Business Performance & Analytics Intern](https://jobs.constellationenergy.com/jobs/138770?icims=1) · software-engineering · —
+- **Constellation Energy** — [Information Technology Software Development Intern](https://jobs.constellationenergy.com/jobs/138708?icims=1) · software-engineering · —
+- **Constellation Energy** — [IT Data Engineering Intern](https://jobs.constellationenergy.com/jobs/138716?icims=1) · data-engineering · —
 - **Corteva** — [AI Engineer Intern](https://corteva.wd5.myworkdayjobs.com/corteva/job/Indianapolis-Indiana-United-States/Agentic-AI-Engineer-Intern_248210W) · ai · —
 - **Covestro** — [Digital R&D Intern](https://covestro.wd3.myworkdayjobs.com/cov_external/job/Pittsburgh-PA/Digital-R-D-Intern_JR-2026-02006) · software-engineering · —
 - **Cox** — [AI/Automation Intern](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/AI-Automation-Intern---Summer-2027_R202682342) · ai · —
@@ -197,6 +199,7 @@
 - **Emerson Electric** — [Hardware Design Engineer Intern](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010801) · hardware · —
 - **Energy Transfer Partners** — [Business Transformation and Integration Intern](https://energytransfer.taleo.net/careersection/etp_ext/jobdetail.ftl?job=2610003511) · software-engineering · —
 - **Energy Transfer Partners** — [Commodity Trading Analyst Intern](https://energytransfer.taleo.net/careersection/etp_ext/jobdetail.ftl?job=2610003520) · quant · —
+- **Energy Transfer Partners** — [Power Optimization Intern](https://energytransfer.taleo.net/careersection/etp_ext/jobdetail.ftl?job=2610003535) · software-engineering · —
 - **Entrust** — [Software Developer Intern](https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/Canada---Ottawa/Intern---Software-Developer---8-months-Hybrid-in-Ottawa_R004358) · software-engineering · —
 - **Epic Games** — [Backend Services Programmer Intern - Epic Games Services](https://epicgames.com/careers/jobs/6183293004?gh_jid=6183293004) · software-engineering · —
 - **Epiroc** — [Data Analyst Intern - Digital Solutions Division](https://www.careerprofile.epiroc.com/job/Broomfield-Intern-Data-Analyst-CO-80020/1435969833/?ats=successfactors) · software-engineering · —

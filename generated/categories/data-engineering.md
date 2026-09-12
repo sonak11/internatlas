@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🛠 Data Engineering Internships
 
-**78** tracked · **67** open now
+**79** tracked · **68** open now
 
 ## Current openings
 
@@ -28,6 +28,7 @@
 | [Coinbase](generated/companies/coinbase.md) | [Analytics Engineer Intern](https://boards.greenhouse.io/embed/job_app?token=8175471) | SF | Onsite | 2026-09-09 | Rolling | 🟢 Open | ❔ |
 | [Coinbase](generated/companies/coinbase.md) | [Data Engineer Intern](https://www.coinbase.com/careers/positions/8175459?gh_jid=8175459) | Hybrid | Onsite | 2026-09-08 | Rolling | 🟢 Open | ❔ |
 | [Coinbase](generated/companies/coinbase.md) | [Data Engineer Intern](https://boards.greenhouse.io/embed/job_app?token=8175459) | SF | Onsite | 2026-09-09 | Rolling | 🟢 Open | ❔ |
+| [Constellation Energy](generated/companies/constellation-energy.md) | [IT Data Engineering Intern](https://jobs.constellationenergy.com/jobs/138716?icims=1) | Baltimore, MD | Onsite | 2026-09-12 | Rolling | 🟢 Open | ❔ |
 | [Copart](generated/companies/copart.md) | [Data Engineer Intern](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Data-Engineering-Intern_JR110617) | Dallas, TX | Onsite | 2026-08-19 | Rolling | 🟢 Open | ❔ |
 | [Devon Energy](generated/companies/devon-energy.md) | [Technology Intern - Data Engineering](https://wd5.myworkdaysite.com/en-US/recruiting/devonenergy/Careers/job/Oklahoma-City-OK/Technology-Summer-Intern-2027_R26264-1) | Houston, TX +1 | Onsite | 2026-08-20 | Rolling | 🟢 Open | ❔ |
 | [Edison International](generated/companies/edison-international.md) | [Software/Data Engineering Intern](https://apply.edisoncareers.com/job/Chino-2027-Summer-Internship-SoftwareData-Engineering-(Chino)-CA-91710/1424663800/?ats=successfactors) | Chino, CA | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
@@ -108,6 +109,7 @@
 - Charles Schwab (1)
 - Cigna Group (1)
 - Citizens Financial Group (1)
+- Constellation Energy (1)
 - Copart (1)
 - Devon Energy (1)
 - Edison International (1)

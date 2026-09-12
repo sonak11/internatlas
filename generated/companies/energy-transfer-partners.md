@@ -8,6 +8,7 @@
 |---|---|---|---|---|---|---|---|
 | Energy Transfer Partners | [Business Transformation and Integration Intern](https://energytransfer.taleo.net/careersection/etp_ext/jobdetail.ftl?job=2610003511) | Dallas, TX | Onsite | 2026-09-12 | Rolling | 🟢 Open | ❔ |
 | Energy Transfer Partners | [Commodity Trading Analyst Intern](https://energytransfer.taleo.net/careersection/etp_ext/jobdetail.ftl?job=2610003520) | Overland Park, KS | Onsite | 2026-09-12 | Rolling | 🟢 Open | ❔ |
+| Energy Transfer Partners | [Power Optimization Intern](https://energytransfer.taleo.net/careersection/etp_ext/jobdetail.ftl?job=2610003535) | Houston, TX | Onsite | 2026-09-12 | Rolling | 🟢 Open | ❔ |
 
 ## Related
 

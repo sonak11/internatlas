@@ -33,7 +33,7 @@ _Generated 2026-09-12_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 2544 | `███████████████` |
+| software-engineering | 2546 | `███████████████` |
 | ai | 339 | `██` |
 | quant | 278 | `██` |
 | machine-learning | 198 | `█` |
@@ -43,14 +43,17 @@ _Generated 2026-09-12_
 | product | 132 | `█` |
 | design | 112 | `█` |
 | embedded | 101 | `█` |
-| data-engineering | 78 | `█` |
+| data-engineering | 79 | `█` |
 | cloud | 55 | `█` |
 | security | 19 | `█` |
 
 ## Newest listings
 
+- 2026-09-12 — **Constellation Energy**: [Information Technology Software Development Intern](https://jobs.constellationenergy.com/jobs/138708?icims=1)
+- 2026-09-12 — **Constellation Energy**: [IT Data Engineering Intern](https://jobs.constellationenergy.com/jobs/138716?icims=1)
 - 2026-09-12 — **Energy Transfer Partners**: [Business Transformation and Integration Intern](https://energytransfer.taleo.net/careersection/etp_ext/jobdetail.ftl?job=2610003511)
 - 2026-09-12 — **Energy Transfer Partners**: [Commodity Trading Analyst Intern](https://energytransfer.taleo.net/careersection/etp_ext/jobdetail.ftl?job=2610003520)
+- 2026-09-12 — **Energy Transfer Partners**: [Power Optimization Intern](https://energytransfer.taleo.net/careersection/etp_ext/jobdetail.ftl?job=2610003535)
 - 2026-09-11 — **AES**: [Performance and Reliability Engineering Intern - Summer 2027](https://aes.wd1.myworkdayjobs.com/AES_US/job/US-Dayton-OH/T-D-Performance-and-Reliability-Engineering-Intern--Summer-2027-_R1064841)
 - 2026-09-11 — **Amazon**: [Machine Learning Systems Software Development Engineer Intern - Annapurna Labs](https://amazon.jobs/en/jobs/10538066/ml-systems-software-development-engineer-intern-annapurna-labs-2027)
 - 2026-09-11 — **Amcor**: [Business Intelligence Intern](https://amcor.wd5.myworkdayjobs.com/amcor_external_career_site/job/AF-Oshkosh-Division-Head-Office-WI/Business-Intelligence-Internship_REQ_95255)
@@ -66,9 +69,6 @@ _Generated 2026-09-12_
 - 2026-09-11 — **Amgen**: [Data Scientist Intern - Amgen’s Technology & Medical Organizations](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Data-Scientist---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255722)
 - 2026-09-11 — **Amgen**: [Digital Product Intern](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Undergrad-Intern---Digital-Product---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255711)
 - 2026-09-11 — **Amgen**: [Digital Product Intern - Digital Product - Technology & Medical Organizations](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Digital-Product---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255744)
-- 2026-09-11 — **Amgen**: [Machine Learning Engineer Intern](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Machine-Learning-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255743)
-- 2026-09-11 — **Amgen**: [Machine Learning Engineer Intern - Technology & Medical Organizations](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Undergrad-Intern---Machine-Learning-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255709)
-- 2026-09-11 — **Amgen**: [Software Engineer Intern - Amgen’s Technology & Medical Organizations](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Software-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255745)
 
 ## Recently closed
 
@@ -297,8 +297,38 @@ _Generated 2026-09-12_
 - GlobalFoundries — Silicon Photonics Advanced Packaging Intern
 - GlossGenius — Engineering Intern
 - GlossGenius — Engineering Intern - Summer 2027
+- Goldman Sachs — Associate Intern - The Core Quantitative Strats
+- Goldman Sachs — AWM Product Management Analyst Intern
+- Goldman Sachs — Quantitative Strategist Associate Intern - Asset and Wealth Management
+- Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Intern - Americas
+- Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Intern - Investment Banking
+- Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
+- Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
+- Goldman Sachs — Quantitative Strats Analyst Intern - Americas - Investment Banking
+- Goldman Sachs — Summer Analyst Intern
+- Goldman Sachs — Summer Analyst Intern - Americas - AWM Product Management
+- Goldman Sachs — Summer Analyst Intern - Americas - Engineering
+- Goldman Sachs — Summer Analyst Intern - Americas - Engineering
+- Goldman Sachs — Summer Analyst Intern - Americas - Engineering
+- Goldman Sachs — Summer Analyst Intern - Americas - Investment Banking Quantitative Strats
+- Goldman Sachs — Summer Analyst Intern - Engineering
+- Goldman Sachs — Summer Analyst Intern - Engineering
+- Goldman Sachs — Summer Analyst Intern - Engineering
+- Goldman Sachs — Summer Analyst Intern - Engineering
+- Goldman Sachs — Summer Analyst Intern - FICC and Equities - Sales and Trading
 - Goldman Sachs — Summer Analyst Intern - FICC & Equities - Sales & Trading
+- Goldman Sachs — Summer Analyst Intern - The Core Quantitative Strats
 - Goldman Sachs — Summer Analyst Intern - Wealth Management - Product Management and Design
+- Goldman Sachs — Summer Analyst Intern - Wealth Management - Quantitative Finance
+- Goldman Sachs — Summer Associate Intern
+- Goldman Sachs — Summer Associate Intern - Multiple Teams
 - Grant Thornton — AI, Data & Technology Intern - Summer 2027
 - Grant Thornton — AI, Data & Technology Intern - Summer 2027
 - Grant Thornton — AI, Data & Technology Intern - Summer 2027
@@ -363,7 +393,6 @@ _Generated 2026-09-12_
 - John Deere — Product Engineering Intern
 - Johns Hopkins Applied Physics Laboratory — Acoustic Algorithm Development Engineer Intern
 - Johns Hopkins Applied Physics Laboratory — Cyber Software Engineer Intern - Capabilities Development
-- Johns Hopkins Applied Physics Laboratory — Engineering/Science Intern - Tailored Autonomous Systems
 - Johns Hopkins Applied Physics Laboratory — Human-Machine Engineering Intern
 - Johns Hopkins Applied Physics Laboratory — Modeling, Simulation & Analysis Intern - Engagement Optimization Group
 - Johns Hopkins Applied Physics Laboratory — Signal Processing Intern - Multiple Teams
@@ -419,6 +448,7 @@ _Generated 2026-09-12_
 - Leidos — Software Developer Intern
 - Leidos — Software Engineer Intern - Artificial Intelligence
 - Leland — AI Education Intern
+- LPL Financial Holdings — Data Analytics Intern - FAR Program
 - LPL Financial Holdings — Internal Audit Intern - Multiple Teams
 - LPL Financial Holdings — Service Transformation & Data Analytics Intern
 - Mackenzie Investments — Data Engineering Intern
@@ -433,6 +463,7 @@ _Generated 2026-09-12_
 - Marsh & McLennan — Data & Analytics Intern - Data & Analytics
 - Mary Free Bed Rehabilitation Hospital — IT Intern - Project Management
 - Mastercard — Data Scientist Intern
+- Mastercard — Software Engineer Intern
 - Maven Securities — Trader Intern
 - Medline — Business Systems Intern - Summer 2027
 - Medline — Product Management Intern - Summer 2027
@@ -449,6 +480,7 @@ _Generated 2026-09-12_
 - Microchip Technology — Equipment Engineering Technician Intern - Wet Process
 - Microchip Technology — Verification Intern - Verification
 - Micron Technology — Advanced Spectroscopy and Nanoscale Materials Characterization Intern
+- Micron Technology — Design Architecture Intern - HBM
 - Micron Technology — Digital IP Design Engineer Intern - DRAM
 - Micron Technology — DRAM IP Circuits Design Engineer Intern - IP Development
 - Micron Technology — Realtime Defect Analysis Intern - Yield Technology
@@ -608,6 +640,7 @@ _Generated 2026-09-12_
 - RRS Group — Software Engineer Intern - Placement Year
 - RSM — Enterprise Data Integration and Migration Intern
 - RSM — Enterprise Data Integration and Migration Intern
+- RTX — Artificial Intelligence / Machine Learning Methods Intern
 - RTX — Automation Solutions Developer Intern
 - RTX — Business Systems and Transformation Intern - Analyst Business Systems and Transformation
 - RTX — Data Science and Advanced Analytics Intern - Data Science and Advanced Analytics
@@ -631,13 +664,16 @@ _Generated 2026-09-12_
 - RTX — Software Engineer Intern
 - RTX — Software Engineer Intern
 - RTX — Software Engineer Intern
+- RTX — Software Engineer Intern
 - RTX — Software Engineer Intern - Intelligent Software & Systems
+- RTX — Software Engineer Intern - Summer 2027
 - RTX — Software Engineer Intern - Summer 2027
 - RTX — Software Engineer Intern - Summer 2027
 - RTX — Systems Engineer 1 Intern - Intern Conversion
 - RTX — Systems Engineering Intern
 - RTX — Technical Publications Technical Developer Intern - Artificial Intelligence/Machine Learning
 - RTX — Work Transfer Analyst Intern - Global Work Transfer Analyst
+- Schonfeld — Fixed Income Intern
 - SchoolMint — Marketing Technology & Analytics Intern
 - Schweitzer Engineering Laboratories — Application Engineering Intern
 - Schweitzer Engineering Laboratories — Engineering Intern
@@ -723,10 +759,12 @@ _Generated 2026-09-12_
 - The Federal Reserve System — Analyst Intern - Summer 2027
 - The Federal Reserve System — Graduate Intern - Markets Group
 - The Federal Reserve System — Graduate Intern - Markets Group - New York Innovation Center
+- The Federal Reserve System — Graduate Statistical Analysis Intern - Regional & Community Outreach
 - The Federal Reserve System — Research Intern - Research Group
 - The Federal Reserve System — Technical Intern - Federal Reserve - National IT
 - The Nuclear Company — AI Software Engineer Intern
 - The Trade Desk — Software Engineering Intern
+- The Walt Disney Company — Commercial Data Science Intern - Spring 2027
 - The Walt Disney Company — Computer Science / Computer Engineering Intern - Multiple Teams
 - The Walt Disney Company — Environmental Sustainability Data Analytics Intern - Spring 2027
 - The Walt Disney Company — Environmental Sustainability Data Analytics Intern - Spring 2027
@@ -795,6 +833,7 @@ _Generated 2026-09-12_
 - University of Pikeville — Policy Analyst Intern - Center for Public Service
 - Verdantas — Data Analytics Intern
 - Verition Fund Management — Technology Intern
+- Verizon Communications — AI/ML Engineering Intern - Consumer Group
 - Vertiv — Electrical Engineer Intern - Energy Storage
 - Vertiv — Product Management Intern - Product Marketing
 - Vertiv — Services Product Management Intern - Summer 2027

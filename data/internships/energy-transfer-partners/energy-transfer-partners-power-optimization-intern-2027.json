@@ -1,19 +1,19 @@
 {
   "schema_version": "1.0",
-  "id": "rtx-software-engineer-intern-summer-2027-2027-32ba3b",
+  "id": "energy-transfer-partners-power-optimization-intern-2027",
   "company": {
-    "name": "RTX",
-    "slug": "rtx"
+    "name": "Energy Transfer Partners",
+    "slug": "energy-transfer-partners"
   },
-  "role": "Software Engineer Intern - Summer 2027",
+  "role": "Power Optimization Intern",
   "category": "software-engineering",
-  "apply_url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineering-Intern--Summer-2027-_01872100",
+  "apply_url": "https://energytransfer.taleo.net/careersection/etp_ext/jobdetail.ftl?job=2610003535",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Richardson",
+      "city": "Houston",
       "state": "TX",
       "country": "USA"
     }
@@ -25,7 +25,9 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "masters"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -40,11 +42,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-08",
-    "discovered": "2026-09-09",
+    "posted": "2026-09-12",
+    "discovered": "2026-09-12",
     "last_verified": "2026-09-12"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

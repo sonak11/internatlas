@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "rtx-software-engineer-intern-summer-2027-2027-32ba3b",
+  "id": "constellation-energy-it-data-engineering-intern-2027",
   "company": {
-    "name": "RTX",
-    "slug": "rtx"
+    "name": "Constellation Energy",
+    "slug": "constellation-energy"
   },
-  "role": "Software Engineer Intern - Summer 2027",
-  "category": "software-engineering",
-  "apply_url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineering-Intern--Summer-2027-_01872100",
+  "role": "IT Data Engineering Intern",
+  "category": "data-engineering",
+  "apply_url": "https://jobs.constellationenergy.com/jobs/138716?icims=1",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Richardson",
-      "state": "TX",
+      "city": "Baltimore",
+      "state": "MD",
       "country": "USA"
     }
   ],
@@ -25,7 +25,9 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "masters"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -40,11 +42,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-08",
-    "discovered": "2026-09-09",
+    "posted": "2026-09-12",
+    "discovered": "2026-09-12",
     "last_verified": "2026-09-12"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"
