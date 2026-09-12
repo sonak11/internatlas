@@ -1,6 +1,6 @@
 # 📬 InternAtlas Weekly Digest — 2026-09-12
 
-## 🆕 New this week (606)
+## 🆕 New this week (607)
 
 - **AArete** — [Data Architecture & Engineering Intern](https://jobs.jobvite.com/aarete/job/otGLAfwe?nl=1&nl=1&fr=false) · software-engineering · —
 - **ABB** — [Application Engineering Intern](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Alpharetta-Georgia-United-States-of-America/Application-Engineering-Intern---Spring-2027_JR00045705) · software-engineering · —
@@ -281,6 +281,7 @@
 - **Kinaxis** — [Developer Intern - Clients - Front End Technologies](https://careers-kinaxis.icims.com/jobs/35320/job?mobile=true&needsRedirect=false) · software-engineering · —
 - **Kinaxis** — [Software Engineer Co-op/Intern - Data Modeling & Integration](https://careers-kinaxis.icims.com/jobs/35349/job?mobile=true&needsRedirect=false) · software-engineering · —
 - **Kinder Morgan** — [ESG Intern](https://careers.kindermorgan.com/jobs/6176?icims=1) · software-engineering · —
+- **Klaviyo** — [Software Engineer Intern - Summer 2027](https://job-boards.greenhouse.io/klaviyocampus/jobs/7989364003) · software-engineering · —
 - **LEGO** — [Employee Engagement & Analytics Intern](https://lego.wd103.myworkdayjobs.com/LEGO_External/job/London/Employee-Engagement---Analytics-Intern_0000036941) · software-engineering · —
 - **LabCorp** — [Financial Analytics & Technology Intern - Financial Analytics Team](https://labcorp.wd1.myworkdayjobs.com/external/job/Remote_United-States/Intern---Financial-Analytics---Technology_2630761) · software-engineering · —
 - **Leidos** — [Artificial Intelligence/Machine Learning Intern](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/AI-ML-Intern_R-00192042) · machine-learning · —

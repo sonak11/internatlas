@@ -1300,6 +1300,7 @@
 - Kinder Morgan — [ESG Intern](https://careers.kindermorgan.com/jobs/6176?icims=1)
 - Kinder Morgan — [Information Technology Intern - Application Development](https://careers.kindermorgan.com/jobs/6032?icims=1)
 - Kinder Morgan — [Intern - IT](https://careers.kindermorgan.com/jobs/6171?icims=1)
+- Klaviyo — [Software Engineer Intern - Summer 2027](https://job-boards.greenhouse.io/klaviyocampus/jobs/7989364003)
 - Kodiak Robotics — [AI/ML Intern - Artificial Intelligence/Machine Learning](https://job-boards.greenhouse.io/kodiak/jobs/4377407009)
 - Kodiak Robotics — [Behavior Planning Intern - Motion Planning](https://job-boards.greenhouse.io/kodiak/jobs/4377721009)
 - Kodiak Robotics — [Controls Intern](https://job-boards.greenhouse.io/kodiak/jobs/4378402009)

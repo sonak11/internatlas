@@ -33,7 +33,7 @@ _Generated 2026-09-12_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 2546 | `███████████████` |
+| software-engineering | 2547 | `███████████████` |
 | ai | 339 | `██` |
 | quant | 278 | `██` |
 | machine-learning | 198 | `█` |
@@ -54,6 +54,7 @@ _Generated 2026-09-12_
 - 2026-09-12 — **Energy Transfer Partners**: [Business Transformation and Integration Intern](https://energytransfer.taleo.net/careersection/etp_ext/jobdetail.ftl?job=2610003511)
 - 2026-09-12 — **Energy Transfer Partners**: [Commodity Trading Analyst Intern](https://energytransfer.taleo.net/careersection/etp_ext/jobdetail.ftl?job=2610003520)
 - 2026-09-12 — **Energy Transfer Partners**: [Power Optimization Intern](https://energytransfer.taleo.net/careersection/etp_ext/jobdetail.ftl?job=2610003535)
+- 2026-09-12 — **Klaviyo**: [Software Engineer Intern - Summer 2027](https://job-boards.greenhouse.io/klaviyocampus/jobs/7989364003)
 - 2026-09-11 — **AES**: [Performance and Reliability Engineering Intern - Summer 2027](https://aes.wd1.myworkdayjobs.com/AES_US/job/US-Dayton-OH/T-D-Performance-and-Reliability-Engineering-Intern--Summer-2027-_R1064841)
 - 2026-09-11 — **Amazon**: [Machine Learning Systems Software Development Engineer Intern - Annapurna Labs](https://amazon.jobs/en/jobs/10538066/ml-systems-software-development-engineer-intern-annapurna-labs-2027)
 - 2026-09-11 — **Amcor**: [Business Intelligence Intern](https://amcor.wd5.myworkdayjobs.com/amcor_external_career_site/job/AF-Oshkosh-Division-Head-Office-WI/Business-Intelligence-Internship_REQ_95255)
@@ -68,7 +69,6 @@ _Generated 2026-09-12_
 - 2026-09-11 — **Amgen**: [Data Scientist Intern](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Undergrad-Intern---Data-Scientist---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255704)
 - 2026-09-11 — **Amgen**: [Data Scientist Intern - Amgen’s Technology & Medical Organizations](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Data-Scientist---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255722)
 - 2026-09-11 — **Amgen**: [Digital Product Intern](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Undergrad-Intern---Digital-Product---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255711)
-- 2026-09-11 — **Amgen**: [Digital Product Intern - Digital Product - Technology & Medical Organizations](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Digital-Product---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255744)
 
 ## Recently closed
 
