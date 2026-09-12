@@ -33,7 +33,7 @@ _Generated 2026-09-12_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 2547 | `███████████████` |
+| software-engineering | 2548 | `███████████████` |
 | ai | 339 | `██` |
 | quant | 278 | `██` |
 | machine-learning | 198 | `█` |
@@ -49,6 +49,7 @@ _Generated 2026-09-12_
 
 ## Newest listings
 
+- 2026-09-12 — **AnaVation**: [Computer Science Intern - Summer 2027](https://jobs.lever.co/anavationllc/4a82ae00-30f0-410c-bf3c-f1cdd18739e7/apply)
 - 2026-09-12 — **Constellation Energy**: [Information Technology Software Development Intern](https://jobs.constellationenergy.com/jobs/138708?icims=1)
 - 2026-09-12 — **Constellation Energy**: [IT Data Engineering Intern](https://jobs.constellationenergy.com/jobs/138716?icims=1)
 - 2026-09-12 — **Energy Transfer Partners**: [Business Transformation and Integration Intern](https://energytransfer.taleo.net/careersection/etp_ext/jobdetail.ftl?job=2610003511)
@@ -68,7 +69,6 @@ _Generated 2026-09-12_
 - 2026-09-11 — **Amgen**: [Data Engineer Intern - Technology & Medical Organizations](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Data-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255725)
 - 2026-09-11 — **Amgen**: [Data Scientist Intern](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Undergrad-Intern---Data-Scientist---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255704)
 - 2026-09-11 — **Amgen**: [Data Scientist Intern - Amgen’s Technology & Medical Organizations](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Data-Scientist---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255722)
-- 2026-09-11 — **Amgen**: [Digital Product Intern](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Undergrad-Intern---Digital-Product---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255711)
 
 ## Recently closed
 
@@ -474,6 +474,7 @@ _Generated 2026-09-12_
 - Meta — Research Scientist Intern - AI Alignment
 - Meta — Research Scientist Intern - AI/ML - Core Ads Growth
 - Meta — Research Scientist Intern - Language & Multimodal Foundations
+- Meta — Research Scientist Intern - Monetization Generative AI - LLM
 - Meta — Research Scientist Intern - Multiple Teams
 - Microchip Technology — Design Intern - Design
 - Microchip Technology — Engineering Intern - Applications
