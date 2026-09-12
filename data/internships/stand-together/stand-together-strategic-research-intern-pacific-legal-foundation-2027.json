@@ -1,21 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "walmart-data-scientist-3-intern-2026-intern-conversion-2027-ft-2027",
+  "id": "stand-together-strategic-research-intern-pacific-legal-foundation-2027",
   "company": {
-    "name": "Walmart",
-    "slug": "walmart"
+    "name": "Stand Together",
+    "slug": "stand-together"
   },
-  "role": "Data Scientist 3 Intern - 2026 Intern Conversion: 2027 FT",
-  "category": "data-science",
-  "apply_url": "https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-Crossman-Respect-Building-CA-SUNNYVALE-Home-Office/XMLNAME-2026-Intern-Conversion--2027-FT-Data-Scientist-III--Sunnyvale_R-2630125",
+  "role": "Strategic Research Intern - Pacific Legal Foundation",
+  "category": "research",
+  "apply_url": "https://jobs.lever.co/standtogether/e4dd1d3c-79a0-435d-87b3-eac542b4c2b5/apply",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Sunnyvale",
-      "state": "CA",
-      "country": "USA"
+      "city": "Arlington County",
+      "country": "Arlington"
     }
   ],
   "compensation": {
@@ -25,9 +24,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -42,11 +39,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-03",
-    "discovered": "2026-09-04",
+    "posted": "2026-09-09",
+    "discovered": "2026-09-12",
     "last_verified": "2026-09-12"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

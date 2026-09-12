@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "walmart-data-scientist-3-intern-2026-intern-conversion-2027-ft-2027",
+  "id": "usaa-product-management-analyst-intern-property-and-casualty-2027",
   "company": {
-    "name": "Walmart",
-    "slug": "walmart"
+    "name": "USAA",
+    "slug": "usaa"
   },
-  "role": "Data Scientist 3 Intern - 2026 Intern Conversion: 2027 FT",
-  "category": "data-science",
-  "apply_url": "https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-Crossman-Respect-Building-CA-SUNNYVALE-Home-Office/XMLNAME-2026-Intern-Conversion--2027-FT-Data-Scientist-III--Sunnyvale_R-2630125",
+  "role": "Product Management Analyst Intern - Property and Casualty",
+  "category": "product",
+  "apply_url": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/P-C-Product-Management-Analyst-Intern_R0120949",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Sunnyvale",
-      "state": "CA",
+      "city": "San Antonio",
+      "state": "TX",
       "country": "USA"
     }
   ],
@@ -25,9 +25,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -42,11 +40,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-03",
-    "discovered": "2026-09-04",
+    "posted": "2026-09-11",
+    "discovered": "2026-09-12",
     "last_verified": "2026-09-12"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

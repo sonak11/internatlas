@@ -39,8 +39,8 @@ _Generated 2026-09-12_
 | machine-learning | 198 | `█` |
 | hardware | 170 | `█` |
 | data-science | 152 | `█` |
-| research | 141 | `█` |
-| product | 132 | `█` |
+| research | 142 | `█` |
+| product | 133 | `█` |
 | design | 112 | `█` |
 | embedded | 101 | `█` |
 | data-engineering | 79 | `█` |
@@ -154,6 +154,7 @@ _Generated 2026-09-12_
 - BRG — Health Analytics Intern - Health Analytics Practice
 - Brookfield — AI Value Creation Office Intern
 - Brunswick — Computer Graphics Engineer Intern
+- Brunswick — Product Management Intern - Parts & Accessories
 - Brunswick — Reinforcement Learning Intern - Boating Intelligence Design Lab
 - Brunswick — Software Engineer Intern - Boating Intelligence Design Lab
 - By Light Professional IT Services — Software Design Engineer Intern
@@ -184,6 +185,7 @@ _Generated 2026-09-12_
 - Chanel — Data Intern - Global Data Program
 - CHAOS Industries — Electrical Engineer Intern - Summer 2027
 - CHAOS Industries — Software Engineer Intern
+- Charles Schwab — Product Management Intern - Thinkorswim
 - Chevron — Previous Intern - Information Technology - Information and Analytics
 - Chevron Corporation — Intern
 - Chevron Corporation — Supply & Trading TAMU TRIP Program Intern
@@ -448,7 +450,6 @@ _Generated 2026-09-12_
 - Leidos — Software Developer Intern
 - Leidos — Software Engineer Intern - Artificial Intelligence
 - Leland — AI Education Intern
-- LPL Financial Holdings — Data Analytics Intern - FAR Program
 - LPL Financial Holdings — Internal Audit Intern - Multiple Teams
 - LPL Financial Holdings — Service Transformation & Data Analytics Intern
 - Mackenzie Investments — Data Engineering Intern
@@ -461,6 +462,7 @@ _Generated 2026-09-12_
 - Marsh — Government Health Consulting Informatics Intern - College Program
 - Marsh — Summer Analyst Intern - Data and Analytics
 - Marsh & McLennan — Data & Analytics Intern - Data & Analytics
+- Marvell — Test Solutions Engineering Intern - BS - Post-Silicon Hardware Validation
 - Mary Free Bed Rehabilitation Hospital — IT Intern - Project Management
 - Mastercard — Data Scientist Intern
 - Mastercard — Software Engineer Intern
@@ -532,6 +534,7 @@ _Generated 2026-09-12_
 - Nokia — Web Developer Co-op Intern
 - Nokia — Web Developer Co-op Intern - Intern
 - Northrop Grumman — Software Engineer Intern
+- Northrop Grumman — Software Engineer Intern
 - Northrop Grumman — Software Engineer Intern - Strategic Deterrent Systems Division - Sentinel
 - Northwestern Mutual — Investment Analyst Intern - Private Debt & Equity
 - Northwood Space — RF Engineer Intern - Summer Internship
@@ -595,6 +598,7 @@ _Generated 2026-09-12_
 - PricewaterhouseCoopers (PwC) — Geographic Information Systems Intern
 - PricewaterhouseCoopers (PwC) — Summer Intern - SAP
 - Principal Financial Group — Software Engineer Intern - Summer 2027
+- Procter & Gamble — Data Science and Machine Learning PhD Intern
 - Procter & Gamble — IT Project & Product Manager Intern
 - Procter & Gamble — Research & Development Scientist/Engineer Intern - Freshmen, Sophomores, And Juniors
 - ProNexus — Software Engineer Intern
@@ -665,6 +669,7 @@ _Generated 2026-09-12_
 - RTX — Software Engineer Intern
 - RTX — Software Engineer Intern
 - RTX — Software Engineer Intern
+- RTX — Software Engineer Intern
 - RTX — Software Engineer Intern - Intelligent Software & Systems
 - RTX — Software Engineer Intern - Summer 2027
 - RTX — Software Engineer Intern - Summer 2027
@@ -673,7 +678,6 @@ _Generated 2026-09-12_
 - RTX — Systems Engineering Intern
 - RTX — Technical Publications Technical Developer Intern - Artificial Intelligence/Machine Learning
 - RTX — Work Transfer Analyst Intern - Global Work Transfer Analyst
-- Schonfeld — Fixed Income Intern
 - SchoolMint — Marketing Technology & Analytics Intern
 - Schweitzer Engineering Laboratories — Application Engineering Intern
 - Schweitzer Engineering Laboratories — Engineering Intern
@@ -696,6 +700,7 @@ _Generated 2026-09-12_
 - Strattec — Engineering Intern
 - Stryker — Statistical Programming Intern
 - Stryten — Procurement Intern
+- Stryten — System Engineer Intern
 - StudyFetch — Product Intern
 - Super — Travel Supply Analyst Intern
 - Susquehanna International Group (SIG) — Quantitative Trader Intern
@@ -759,11 +764,11 @@ _Generated 2026-09-12_
 - The Federal Reserve System — Analyst Intern - Summer 2027
 - The Federal Reserve System — Graduate Intern - Markets Group
 - The Federal Reserve System — Graduate Intern - Markets Group - New York Innovation Center
-- The Federal Reserve System — Graduate Statistical Analysis Intern - Regional & Community Outreach
 - The Federal Reserve System — Research Intern - Research Group
 - The Federal Reserve System — Technical Intern - Federal Reserve - National IT
 - The Nuclear Company — AI Software Engineer Intern
 - The Trade Desk — Software Engineering Intern
+- The Walt Disney Company — Commercial Data Science Intern
 - The Walt Disney Company — Commercial Data Science Intern - Spring 2027
 - The Walt Disney Company — Computer Science / Computer Engineering Intern - Multiple Teams
 - The Walt Disney Company — Environmental Sustainability Data Analytics Intern - Spring 2027
@@ -808,6 +813,7 @@ _Generated 2026-09-12_
 - TMEIC Corporation Americas — Engineer Intern - Spring 2027
 - Toast — Engineer Intern
 - Tradeweb — AI Software Engineer Intern
+- Tradeweb — Credit Software Engineer Intern
 - Tradeweb — Java Software Engineer Intern
 - Tradeweb — Software Developer Intern - STP
 - Travelers — Engineering Development Intern
@@ -842,6 +848,7 @@ _Generated 2026-09-12_
 - W.W. Grainger — Business Systems Analyst Intern
 - Wabtec — Digital Intern
 - Wabtec — Engineering Intern
+- Walmart — Data Scientist 3 Intern - 2026 Intern Conversion: 2027 FT
 - Wells Fargo — Applied Computational Intelligence Intern - ACI Masters - Early Careers
 - Western Aircraft — Electrical Engineer Intern
 - Wex — Artificial Intelligence Intern - AI/ML/NLP Engineer
