@@ -154,7 +154,6 @@ _Generated 2026-09-12_
 - BRG — Health Analytics Intern - Health Analytics Practice
 - Brookfield — AI Value Creation Office Intern
 - Brunswick — Computer Graphics Engineer Intern
-- Brunswick — Product Management Intern - Parts & Accessories
 - Brunswick — Reinforcement Learning Intern - Boating Intelligence Design Lab
 - Brunswick — Software Engineer Intern - Boating Intelligence Design Lab
 - By Light Professional IT Services — Software Design Engineer Intern
@@ -372,8 +371,8 @@ _Generated 2026-09-12_
 - IMEG — Electrical Engineer Intern - Education
 - IMEG — Innovation Services Intern
 - Incident IQ — Software Engineer Intern
+- InfiniteQuant — Quantitative Developer Intern
 - InfiniteQuant — Quantitative Developer Intern - Summer 2027
-- InfiniteQuant — Quantitative Developer Internship - Summer 2027
 - Innovation Works, Inc. — Scale Prototyping Shop Intern
 - Intact — Investment Analyst Intern Co-op
 - Integra FEC — Data Scientist Intern
@@ -462,7 +461,6 @@ _Generated 2026-09-12_
 - Marsh — Government Health Consulting Informatics Intern - College Program
 - Marsh — Summer Analyst Intern - Data and Analytics
 - Marsh & McLennan — Data & Analytics Intern - Data & Analytics
-- Marvell — Test Solutions Engineering Intern - BS - Post-Silicon Hardware Validation
 - Mary Free Bed Rehabilitation Hospital — IT Intern - Project Management
 - Mastercard — Data Scientist Intern
 - Mastercard — Software Engineer Intern
@@ -598,7 +596,6 @@ _Generated 2026-09-12_
 - PricewaterhouseCoopers (PwC) — Geographic Information Systems Intern
 - PricewaterhouseCoopers (PwC) — Summer Intern - SAP
 - Principal Financial Group — Software Engineer Intern - Summer 2027
-- Procter & Gamble — Data Science and Machine Learning PhD Intern
 - Procter & Gamble — IT Project & Product Manager Intern
 - Procter & Gamble — Research & Development Scientist/Engineer Intern - Freshmen, Sophomores, And Juniors
 - ProNexus — Software Engineer Intern
@@ -767,6 +764,7 @@ _Generated 2026-09-12_
 - The Federal Reserve System — Research Intern - Research Group
 - The Federal Reserve System — Technical Intern - Federal Reserve - National IT
 - The Nuclear Company — AI Software Engineer Intern
+- The Toro Company — Test Engineer Intern
 - The Trade Desk — Software Engineering Intern
 - The Walt Disney Company — Commercial Data Science Intern
 - The Walt Disney Company — Commercial Data Science Intern - Spring 2027
