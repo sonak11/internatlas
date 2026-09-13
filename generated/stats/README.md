@@ -26,16 +26,16 @@ _Generated 2026-09-13_
 | Navy Federal | 33 |
 | NVIDIA | 33 |
 | Zipline | 33 |
-| Goldman Sachs | 32 |
 | The Walt Disney Company | 31 |
+| GE Vernova | 28 |
 
 ## Listings by category
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 2549 | `███████████████` |
+| software-engineering | 2548 | `███████████████` |
 | ai | 339 | `██` |
-| quant | 278 | `██` |
+| quant | 275 | `██` |
 | machine-learning | 198 | `█` |
 | hardware | 170 | `█` |
 | data-science | 152 | `█` |
@@ -92,7 +92,6 @@ _Generated 2026-09-13_
 - American Express — Undergraduate Intern - Strategy & Analytics
 - American Institutes for Research — Data Science Intern
 - Amgen — Operations Graduate Program Intern - Operations
-- Amgen — Software Engineer Intern - Amgen’s Technology & Medical Organizations
 - Analysis Group — Research Professional Intern - Generalist
 - AnaVation — Computer Science Intern
 - AnaVation — Computer Science Intern - Summer Program
@@ -215,7 +214,6 @@ _Generated 2026-09-13_
 - Corning — Digital & IT Intern - Analyst - Machine Learning
 - Corning — Optical Fiber and Cable Engineer Intern - Summer 2027
 - Corning — Raw Material Engineering Intern - Summer 2027
-- COUNTRY Financial — Automation Developer Intern
 - Cox — Software Engineer Intern - Summer 2027
 - Crowe — AI Functional Intern - Consulting Practice
 - Crowe — D365 ERP Technical Intern - Consulting Practice
@@ -294,35 +292,13 @@ _Generated 2026-09-13_
 - GlossGenius — Engineering Intern
 - GlossGenius — Engineering Intern - Summer 2027
 - Goldman Sachs — Associate Intern - The Core Quantitative Strats
-- Goldman Sachs — AWM Product Management Analyst Intern
-- Goldman Sachs — Quantitative Strategist Associate Intern - Asset and Wealth Management
-- Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Americas
-- Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Investment Banking
-- Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
-- Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
-- Goldman Sachs — Quantitative Strats Analyst Intern - Americas - Investment Banking
-- Goldman Sachs — Summer Analyst Intern
-- Goldman Sachs — Summer Analyst Intern - Americas - AWM Product Management
-- Goldman Sachs — Summer Analyst Intern - Americas - Engineering
-- Goldman Sachs — Summer Analyst Intern - Americas - Engineering
 - Goldman Sachs — Summer Analyst Intern - Americas - Engineering
 - Goldman Sachs — Summer Analyst Intern - Americas - Investment Banking Quantitative Strats
 - Goldman Sachs — Summer Analyst Intern - Engineering
 - Goldman Sachs — Summer Analyst Intern - Engineering
-- Goldman Sachs — Summer Analyst Intern - Engineering
-- Goldman Sachs — Summer Analyst Intern - Engineering
-- Goldman Sachs — Summer Analyst Intern - FICC and Equities - Sales and Trading
 - Goldman Sachs — Summer Analyst Intern - FICC & Equities - Sales & Trading
 - Goldman Sachs — Summer Analyst Intern - Wealth Management - Product Management and Design
 - Goldman Sachs — Summer Analyst Intern - Wealth Management - Quantitative Finance
-- Goldman Sachs — Summer Associate Intern
 - Grant Thornton — AI, Data & Technology Intern - Summer 2027
 - Grant Thornton — AI, Data & Technology Intern - Summer 2027
 - Grant Thornton — AI, Data & Technology Intern - Summer 2027
@@ -446,7 +422,6 @@ _Generated 2026-09-13_
 - Mackenzie Investments — Investment Management Intern - Canadian Equities
 - Mackenzie Investments — Technology Engineering Intern
 - Magna — R&D-Computer Vision Engineer Intern
-- Manulife Financial — Reporting Analyst Intern
 - Marmon Holdings — Digital Production Engineer Intern Co-op
 - Marmon Holdings — Digital Production Engineering Intern OR Student Co-Op
 - Marquee Brands — Consumer Insights Intern
@@ -735,6 +710,7 @@ _Generated 2026-09-13_
 - Tesla — Software Engineer Intern - Software Engineer - IT Apps
 - Tesla — Software Engineering Intern - Software Engineering - Service Engineering
 - Tesla — Software Machine Learning Engineer Intern - Reliability Energy Engineering
+- Tesla — Systems Architecture & Integration Engineer Intern - LV Architecture
 - Tesla — Systems Integration Engineer Intern - Body Controls
 - Tesla — Systems Modeling & Optimization Intern - Robotaxi Simulation Engineer - Systems Modeling & Optimization
 - Tesla — Vehicle Software Intern - Torque Path & Chassis Controls
