@@ -92,6 +92,7 @@ _Generated 2026-09-13_
 - American Express — Undergraduate Intern - Strategy & Analytics
 - American Institutes for Research — Data Science Intern
 - Amgen — Operations Graduate Program Intern - Operations
+- Amgen — Software Engineer Intern - Amgen’s Technology & Medical Organizations
 - Analysis Group — Research Professional Intern - Generalist
 - AnaVation — Computer Science Intern
 - AnaVation — Computer Science Intern - Summer Program
@@ -113,6 +114,9 @@ _Generated 2026-09-13_
 - Bank of China USA — Enterprise Risk Management Risk Data Aggregation Intern
 - Bank of Montreal — Client Enablement Analyst Co-op/Intern - Customer Shared Services
 - Bank of Montreal — Investment Intern Co-op - Gam
+- Bank of Montreal — Junior Software Developer Co-op Intern - Winter 2027 - 4 months
+- Bank of Montreal — Junior Software Developer Co-op Intern - Winter 2027 - 4 months
+- Bank of Montreal — Junior Software Developer Co-op Intern - Winter 2027 - 4 months
 - Base Power — Firmware Engineer Intern
 - BerryDunn — Consulting Intern - Healthcare Data Management and Strategy
 - Blackhawk Network Holdings — Technology Intern
@@ -211,6 +215,7 @@ _Generated 2026-09-13_
 - Corning — Digital & IT Intern - Analyst - Machine Learning
 - Corning — Optical Fiber and Cable Engineer Intern - Summer 2027
 - Corning — Raw Material Engineering Intern - Summer 2027
+- COUNTRY Financial — Automation Developer Intern
 - Cox — Software Engineer Intern - Summer 2027
 - Crowe — AI Functional Intern - Consulting Practice
 - Crowe — D365 ERP Technical Intern - Consulting Practice
@@ -234,6 +239,7 @@ _Generated 2026-09-13_
 - DV Trading — Trading Intern - Summer 2027 - DV Commodities
 - E-Space — Embedded Software Engineer Intern
 - Eaton — Electrical Engineer Intern - Engineering
+- Ecolab — Research and Development Intern
 - Emerging Tech — Integration Analyst Intern
 - Emerson Electric — Application Engineer Intern
 - Emory University — Student Tester and Developer Intern - GPS Sample
@@ -314,11 +320,9 @@ _Generated 2026-09-13_
 - Goldman Sachs — Summer Analyst Intern - Engineering
 - Goldman Sachs — Summer Analyst Intern - FICC and Equities - Sales and Trading
 - Goldman Sachs — Summer Analyst Intern - FICC & Equities - Sales & Trading
-- Goldman Sachs — Summer Analyst Intern - The Core Quantitative Strats
 - Goldman Sachs — Summer Analyst Intern - Wealth Management - Product Management and Design
 - Goldman Sachs — Summer Analyst Intern - Wealth Management - Quantitative Finance
 - Goldman Sachs — Summer Associate Intern
-- Goldman Sachs — Summer Associate Intern - Multiple Teams
 - Grant Thornton — AI, Data & Technology Intern - Summer 2027
 - Grant Thornton — AI, Data & Technology Intern - Summer 2027
 - Grant Thornton — AI, Data & Technology Intern - Summer 2027
@@ -442,6 +446,7 @@ _Generated 2026-09-13_
 - Mackenzie Investments — Investment Management Intern - Canadian Equities
 - Mackenzie Investments — Technology Engineering Intern
 - Magna — R&D-Computer Vision Engineer Intern
+- Manulife Financial — Reporting Analyst Intern
 - Marmon Holdings — Digital Production Engineer Intern Co-op
 - Marmon Holdings — Digital Production Engineering Intern OR Student Co-Op
 - Marquee Brands — Consumer Insights Intern
@@ -449,7 +454,6 @@ _Generated 2026-09-13_
 - Marsh — Summer Analyst Intern - Data and Analytics
 - Marsh & McLennan — Data & Analytics Intern - Data & Analytics
 - Mary Free Bed Rehabilitation Hospital — IT Intern - Project Management
-- Mastercard — Data Scientist Intern
 - Mastercard — Software Engineer Intern
 - Maven Securities — Trader Intern
 - Medline — Business Systems Intern - Summer 2027
@@ -464,6 +468,7 @@ _Generated 2026-09-13_
 - Meta — Research Scientist Intern - Language & Multimodal Foundations
 - Meta — Research Scientist Intern - Monetization Generative AI - LLM
 - Meta — Research Scientist Intern - Multiple Teams
+- Meta — Research Scientist Intern - Photorealistic Telepresence
 - Microchip Technology — Design Intern - Design
 - Microchip Technology — Engineering Intern - Applications
 - Microchip Technology — Equipment Engineering Technician Intern - Wet Process
@@ -482,6 +487,7 @@ _Generated 2026-09-13_
 - Microsoft — Software Engineer Intern - Cloud & Distributed Backend
 - Microsoft — Software Engineer Intern - Data Platform & Analytics
 - Microsoft — Software Engineer Security & Identity Intern
+- MKS Instruments — Business Intelligence/Data Analytics Intern
 - Moderna — Applied Technologies Intern
 - Montenson — Investment Analyst Intern
 - Montenson — Sustainability Engineer Intern
@@ -518,6 +524,7 @@ _Generated 2026-09-13_
 - Nokia — Tools and Automation Software Developer Co-op/Intern
 - Nokia — Web Developer Co-op Intern
 - Nokia — Web Developer Co-op Intern - Intern
+- Northrop Grumman — Data Analytics Intern
 - Northrop Grumman — Software Engineer Intern
 - Northrop Grumman — Software Engineer Intern
 - Northwestern Mutual — Investment Analyst Intern - Private Debt & Equity
@@ -692,6 +699,7 @@ _Generated 2026-09-13_
 - Tacit — Radio Frequency Hardware Intern - Fall 2026
 - TC Energy — Engineering Intern
 - TC Energy — Engineering Intern - Engineering
+- TD Bank — Software Engineer Intern - Software Engineering Rotational Program
 - Techtronic Industries (TTI) — Electrical Engineer Intern
 - Teledyne — Electrical Engineer Intern
 - Tenstorrent — Design Verification Engineer Intern

@@ -21,8 +21,8 @@
 | TD Bank | [Portfolio Analytics Developer Intern/Co-op - Winter 2027](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/161-Bay-Street-Corporate-Toronto-Ontario/TD-Asset-Management-Portfolio-Analytics-Developer-Intern-Co-Op--Winter-2027-_R_1509223) | Toronto | Onsite | 2026-09-08 | Rolling | 🟢 Open | ❔ |
 | TD Bank | [Product Management Intern/Co-op - Personal Savings & Investing](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Personal-Savings---Investing--PS-I--Product-Management-Intern-Co-op_R_1504373) | Toronto | Onsite | 2026-09-08 | Rolling | 🟢 Open | ❔ |
 | TD Bank | [Saving & Investing Shopping & Buying Journey Intern Co-op - Saving & Investing](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Saving---Investing--SIJ--Shopping---Buying-Journey-Intern-Co-op_R_1504408) | Toronto | Onsite | 2026-09-08 | Rolling | 🟢 Open | ❔ |
-| TD Bank | [Software Engineer Intern - Software Engineering Rotational Program](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/New-York-New-York/XMLNAME-2027-Summer-Analyst---Software-Engineering-Rotational-Program--New-York-City-_R_1508053) | NYC | Onsite | 2026-08-31 | Rolling | 🟢 Open | ❔ |
 | TD Bank | [Software Engineer Intern Co-op](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-Co-op---Intern--Winter-2027-_R_1509790) | Toronto +2 | Onsite | 2026-09-08 | Rolling | 🟢 Open | ❔ |
+| TD Bank | [Software Engineer Intern - Software Engineering Rotational Program](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/New-York-New-York/XMLNAME-2027-Summer-Analyst---Software-Engineering-Rotational-Program--New-York-City-_R_1508053) | NYC | Onsite | 2026-08-31 | Rolling | 🔴 Closed | ❔ |
 
 ## Related
 
