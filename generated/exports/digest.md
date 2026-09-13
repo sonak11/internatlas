@@ -1,6 +1,6 @@
-# 📬 InternAtlas Weekly Digest — 2026-09-12
+# 📬 InternAtlas Weekly Digest — 2026-09-13
 
-## 🆕 New this week (608)
+## 🆕 New this week (600)
 
 - **AArete** — [Data Architecture & Engineering Intern](https://jobs.jobvite.com/aarete/job/otGLAfwe?nl=1&nl=1&fr=false) · software-engineering · —
 - **ABB** — [Application Engineering Intern](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Alpharetta-Georgia-United-States-of-America/Application-Engineering-Intern---Spring-2027_JR00045705) · software-engineering · —
@@ -302,11 +302,8 @@
 - **Lyft** — [Software Engineer Intern - Machine Learning](https://app.careerpuck.com/job-board/lyft/job/8802332002?gh_jid=8802332002) · machine-learning · —
 - **Mackenzie Investments** — [Winter Intern - Investment Management - Multi-Asset](https://careersen-mackenzieinvestments.icims.com/jobs/6008/job?mobile=true&needsRedirect=false) · software-engineering · —
 - **Marsh & McLennan** — [Data & Analytics Intern - Data & Analytics](https://mmc.wd1.myworkdayjobs.com/mmc/job/Newcastle---Bank/Oliver-Wyman---Data---Analytics-Summer-Internship-2027---Newcastle_R_364984-1) · software-engineering · —
-- **Marvell** — [Advanced Packaging Intern](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Advanced-Packaging-Intern--MS---Summer-2027_2604519-1) · software-engineering · —
-- **Marvell** — [Advanced Packaging Intern](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Advanced-Packaging-Intern--MS---Summer-2027_2604519) · software-engineering · —
 - **Marvell** — [Advanced Packaging Intern](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Burlington-VT/Advanced-Packaging-Intern--BS---Summer-2027_2604156) · software-engineering · —
 - **Marvell** — [Advanced Packaging Intern](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Burlington-VT/Advanced-Packaging-Intern--BS---Summer-2027_2604156-1) · software-engineering · —
-- **Marvell** — [Reliability Intern](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Reliability-Intern_2604001) · software-engineering · —
 - **Marvell** — [Test Solutions Engineering Intern - BS - Post-Silicon Hardware Validation](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Burlington-VT/Test-Solutions-Engineering-Intern--BS---Summer-2027_2603835-1) · hardware · —
 - **Marvell** — [Test Solutions Engineering Intern - BS - Post-Silicon Hardware Validation](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Burlington-VT/Test-Solutions-Engineering-Intern--BS---Summer-2027_2603835) · hardware · —
 - **Medpace** — [Clinical Informatics Intern](https://careers.medpace.com/jobs/12988?icims=1) · software-engineering · —
@@ -463,10 +460,6 @@
 - **Shure** — [Application Software Engineer Intern](https://careersus-shure.icims.com/jobs/4956/job?mobile=true&needsRedirect=false) · software-engineering · —
 - **Smartly.io** — [Business Analytics Intern](https://job-boards.greenhouse.io/smartlyio/jobs/6186905004) · software-engineering · —
 - **Smartly.io** — [Marketing Science Intern](https://job-boards.greenhouse.io/smartlyio/jobs/6186906004) · software-engineering · —
-- **Solidigm** — [Hardware, Electrical Validation and Product Engineering Intern - Validation](https://jobs.smartrecruiters.com/Solidigm/744000147613779) · hardware · —
-- **Solidigm** — [Hardware & Product Development Engineering Intern](https://jobs.smartrecruiters.com/Solidigm/744000147613839) · hardware · —
-- **Solidigm** — [Software Development & Firmware Engineering Intern - Multiple Teams](https://jobs.smartrecruiters.com/Solidigm/744000147613629) · embedded · —
-- **Solidigm** — [Software Engineering Intern - Firmware & AI Engineering](https://jobs.smartrecruiters.com/Solidigm/744000147613769) · ai · —
 - **Solidigm** — [Talent Acquisition Data Engineering & Analytics Intern](https://jobs.smartrecruiters.com/Solidigm/744000148610610) · data-engineering · —
 - **Spirit AeroSystems** — [Data Analytics Intern - Production & Industrial Engineering - Paid](https://careers.spiritaero.com/jobs/17503?icims=1) · software-engineering · —
 - **Spirit AeroSystems** — [Programmer Analyst / Developer Intern - IDT&S](https://careers.spiritaero.com/jobs/17481?icims=1) · software-engineering · —
@@ -502,7 +495,6 @@
 - **Tesla** — [Machine Learning Engineer Intern - Factory Software](https://www.tesla.com/careers/search/job/282916) · machine-learning · —
 - **Tesla** — [Robotics Physics Modeling Engineer Intern - Model Based Design - Optimus](https://www.tesla.com/careers/search/job/283128) · design · —
 - **Tesla** — [Software Engineer Intern - Autonomy Systems Foundations](https://www.tesla.com/careers/search/job/282825) · software-engineering · —
-- **Tesla** — [Software Engineer Intern - Code Hardening & Framework Resilience - Robotaxi](https://www.tesla.com/careers/search/job/282598) · software-engineering · —
 - **Tesla** — [Software Engineer Intern - Data Platforms](https://www.tesla.com/careers/search/job/283117) · software-engineering · —
 - **Tesla** — [Software Engineer Intern - IT Apps](https://www.tesla.com/careers/search/job/282774) · software-engineering · —
 - **Tesla** — [Software Engineer Intern - Service Engineering](https://www.tesla.com/careers/search/job/282233) · software-engineering · —
