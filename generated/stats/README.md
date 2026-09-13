@@ -21,10 +21,10 @@ _Generated 2026-09-13_
 | Booz Allen | 41 |
 | Marvell | 37 |
 | Bank of Montreal | 34 |
+| NVIDIA | 34 |
 | Cloudflare | 33 |
 | Coinbase | 33 |
 | Navy Federal | 33 |
-| NVIDIA | 33 |
 | Zipline | 33 |
 | The Walt Disney Company | 31 |
 | GE Vernova | 28 |
@@ -39,7 +39,7 @@ _Generated 2026-09-13_
 | machine-learning | 198 | `█` |
 | hardware | 170 | `█` |
 | data-science | 152 | `█` |
-| research | 142 | `█` |
+| research | 143 | `█` |
 | product | 133 | `█` |
 | design | 112 | `█` |
 | embedded | 101 | `█` |
@@ -49,6 +49,7 @@ _Generated 2026-09-13_
 
 ## Newest listings
 
+- 2026-09-13 — **NVIDIA**: [Research Intern](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Autonomous-Systems-and-Physical-AI-Research---2027_JR2024171)
 - 2026-09-12 — **AnaVation**: [Computer Science Intern - Summer 2027](https://jobs.lever.co/anavationllc/4a82ae00-30f0-410c-bf3c-f1cdd18739e7/apply)
 - 2026-09-12 — **Constellation Energy**: [Information Technology Software Development Intern](https://jobs.constellationenergy.com/jobs/138708?icims=1)
 - 2026-09-12 — **Constellation Energy**: [IT Data Engineering Intern](https://jobs.constellationenergy.com/jobs/138716?icims=1)
@@ -68,7 +69,6 @@ _Generated 2026-09-13_
 - 2026-09-11 — **Amgen**: [Data Engineer Intern - Technology & Medical Organizations](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Undergrad-Intern---Data-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255708)
 - 2026-09-11 — **Amgen**: [Data Engineer Intern - Technology & Medical Organizations](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Data-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255725)
 - 2026-09-11 — **Amgen**: [Data Scientist Intern](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Undergrad-Intern---Data-Scientist---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255704)
-- 2026-09-11 — **Amgen**: [Data Scientist Intern - Amgen’s Technology & Medical Organizations](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Data-Scientist---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255722)
 
 ## Recently closed
 
@@ -291,21 +291,31 @@ _Generated 2026-09-13_
 - GlobalFoundries — Silicon Photonics Advanced Packaging Intern
 - GlossGenius — Engineering Intern
 - GlossGenius — Engineering Intern - Summer 2027
+- Goldman Sachs — Associate Intern - The Core Quantitative Strats
 - Goldman Sachs — AWM Product Management Analyst Intern
 - Goldman Sachs — Quantitative Strategist Associate Intern - Asset and Wealth Management
+- Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
 - Goldman Sachs — Quantitative Strategist Intern - Americas
 - Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
 - Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
 - Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats
 - Goldman Sachs — Quantitative Strategist Intern - Investment Banking
+- Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
 - Goldman Sachs — Quantitative Strats Analyst Intern - Americas - Investment Banking
 - Goldman Sachs — Summer Analyst Intern
 - Goldman Sachs — Summer Analyst Intern - Americas - AWM Product Management
+- Goldman Sachs — Summer Analyst Intern - Americas - Engineering
+- Goldman Sachs — Summer Analyst Intern - Americas - Engineering
+- Goldman Sachs — Summer Analyst Intern - Americas - Investment Banking Quantitative Strats
+- Goldman Sachs — Summer Analyst Intern - Engineering
+- Goldman Sachs — Summer Analyst Intern - Engineering
 - Goldman Sachs — Summer Analyst Intern - Engineering
 - Goldman Sachs — Summer Analyst Intern - FICC and Equities - Sales and Trading
 - Goldman Sachs — Summer Analyst Intern - FICC & Equities - Sales & Trading
 - Goldman Sachs — Summer Analyst Intern - The Core Quantitative Strats
 - Goldman Sachs — Summer Analyst Intern - Wealth Management - Product Management and Design
+- Goldman Sachs — Summer Analyst Intern - Wealth Management - Quantitative Finance
 - Goldman Sachs — Summer Associate Intern
 - Goldman Sachs — Summer Associate Intern - Multiple Teams
 - Grant Thornton — AI, Data & Technology Intern - Summer 2027

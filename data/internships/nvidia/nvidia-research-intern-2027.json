@@ -1,19 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "goldman-sachs-quantitative-strategist-intern-multiple-teams-2027",
+  "id": "nvidia-research-intern-2027",
   "company": {
-    "name": "Goldman Sachs",
-    "slug": "goldman-sachs"
+    "name": "NVIDIA",
+    "slug": "nvidia"
   },
-  "role": "Quantitative Strategist Intern - Multiple Teams",
-  "category": "quant",
-  "apply_url": "https://higher.gs.com/roles/171563?type=students",
+  "role": "Research Intern",
+  "category": "research",
+  "apply_url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Autonomous-Systems-and-Physical-AI-Research---2027_JR2024171",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "NYC",
+      "city": "Santa Clara",
+      "state": "CA",
       "country": "USA"
     }
   ],
@@ -24,7 +25,9 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "phd"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -39,11 +42,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-15",
-    "discovered": "2026-08-15",
+    "posted": "2026-09-13",
+    "discovered": "2026-09-13",
     "last_verified": "2026-09-13"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

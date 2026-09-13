@@ -1,6 +1,6 @@
 {
   "generated": "2026-09-13",
-  "count": 4322,
+  "count": 4323,
   "internships": [
     {
       "schema_version": "1.0",
@@ -81442,7 +81442,7 @@
         "discovered": "2026-08-27",
         "last_verified": "2026-09-13"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -81600,7 +81600,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-09-13"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -81865,7 +81865,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-13"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -81967,7 +81967,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-09-13"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -82175,7 +82175,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-13"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -82226,7 +82226,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-13"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -82279,7 +82279,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-13"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -82333,7 +82333,7 @@
         "discovered": "2026-09-06",
         "last_verified": "2026-09-13"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -82440,7 +82440,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-13"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -82698,7 +82698,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-13"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -138969,6 +138969,60 @@
       "tags": [
         "auto-ingested",
         "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "nvidia-research-intern-2027",
+      "company": {
+        "name": "NVIDIA",
+        "slug": "nvidia"
+      },
+      "role": "Research Intern",
+      "category": "research",
+      "apply_url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Autonomous-Systems-and-Physical-AI-Research---2027_JR2024171",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Santa Clara",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-13",
+        "discovered": "2026-09-13",
+        "last_verified": "2026-09-13"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
       ]
     },
     {

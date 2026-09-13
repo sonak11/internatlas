@@ -423,7 +423,7 @@
 | [GoDaddy](../companies/godaddy.md) | 0/1 | software-engineering |
 | [GoMaterials](../companies/gomaterials.md) | 1/1 | software-engineering |
 | [Golden Pet Brands](../companies/golden-pet-brands.md) | 0/1 | software-engineering |
-| [Goldman Sachs](../companies/goldman-sachs.md) | 10/27 | product, quant, software-engineering |
+| [Goldman Sachs](../companies/goldman-sachs.md) | 0/27 | product, quant, software-engineering |
 | [Google](../companies/google.md) | 8/12 | data-science, research, software-engineering |
 | [Grant Thornton](../companies/grant-thornton.md) | 0/6 | ai, software-engineering |
 | [Grass Valley](../companies/grass-valley.md) | 2/2 | software-engineering |
@@ -632,7 +632,7 @@
 | [NBT Bank](../companies/nbt-bank.md) | 1/1 | software-engineering |
 | [NJM Insurance Group](../companies/njm-insurance-group.md) | 1/1 | product |
 | [NTT DATA AIVista](../companies/ntt-data-aivista.md) | 1/1 | ai |
-| [NVIDIA](../companies/nvidia.md) | 13/33 | ai, design, hardware, machine-learning, quant, research, security, software-engineering |
+| [NVIDIA](../companies/nvidia.md) | 14/34 | ai, design, hardware, machine-learning, quant, research, security, software-engineering |
 | [NXP Semiconductors](../companies/nxp-semiconductors.md) | 19/22 | ai, data-engineering, data-science, design, machine-learning, software-engineering |
 | [Nash](../companies/nash.md) | 1/1 | software-engineering |
 | [NationGraph](../companies/nationgraph.md) | 1/2 | software-engineering |
