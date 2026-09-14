@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🧠 Machine Learning Internships
 
-**198** tracked · **148** open now
+**199** tracked · **149** open now
 
 ## Current openings
 
@@ -58,6 +58,7 @@
 | [G-Research](generated/companies/g-research.md) | [Machine Learning Research Intern](https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Machine-Learning-Research-Internship_R3682) | London | Onsite | 2026-07-23 | Rolling | 🟢 Open | ❔ |
 | [Gallup](generated/companies/gallup.md) | [Artificial Intelligence/Machine Learning Research Intern](https://job-boards.greenhouse.io/gallup/jobs/4395921009) | SF | Onsite | 2026-09-09 | Rolling | 🟢 Open | ❔ |
 | [GRITT ROBOTICS INC](generated/companies/gritt-robotics-inc.md) | [ML & Cloud Infrastructure Engineer Intern](https://jobs.ashbyhq.com/gritt/46af6e69-40fc-4e53-940e-a99757137523) | South San Francisco, CA | Onsite | 2026-07-27 | Rolling | 🟢 Open | ❔ |
+| [Guardian Life](generated/companies/guardian-life.md) | [Summer Intern - Digital & Technology - AI & Machine Learning](https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/New-York/XMLNAME-2027-Guardian-Summer-Intern--Digital---Technology---AI---Machine-Learning_R000110205) | Holmdel, NJ +2 | Onsite | 2026-09-14 | Rolling | 🟢 Open | ❔ |
 | [Honeywell](generated/companies/honeywell.md) | [Artificial Intelligence/Machine Learning Intern](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155522) | USA | Onsite | 2026-08-25 | Rolling | 🟢 Open | ❔ |
 | [Human Computer Lab](generated/companies/human-computer-lab.md) | [Software/ML Engineering Intern](https://jobs.ashbyhq.com/human-computer-lab/7d13ae27-1f02-4d9b-8d39-e3d9d67df705/application) | Toronto +1 | Onsite | 2026-07-01 | Rolling | 🟢 Open | ❔ |
 | [IMC Trading](generated/companies/imc-trading.md) | [Machine Learning Research Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4907430101) | Chicago, IL +1 | Onsite | 2026-07-01 | Rolling | 🟢 Open | ❔ |
@@ -251,6 +252,7 @@
 - G-Research (1)
 - Gallup (1)
 - GRITT ROBOTICS INC (1)
+- Guardian Life (1)
 - Honeywell (1)
 - Human Computer Lab (1)
 - Intercontinental Exchange, Inc. (1)

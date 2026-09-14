@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🤖 AI Internships
 
-**339** tracked · **215** open now
+**339** tracked · **214** open now
 
 ## Current openings
 
@@ -208,7 +208,6 @@
 | [Transcard Payments](generated/companies/transcard-payments.md) | [Artificial Intelligence Intern](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4476416) | Chattanooga, TN | Onsite | 2026-09-03 | Rolling | 🟢 Open | ❔ |
 | [TWG Global](generated/companies/twg-global.md) | [AI Engineer Intern - Summer 2027](https://apply.workable.com/twgai/j/772CD136FF/apply) | Santa Monica, CA | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
 | [Two Sigma](generated/companies/two-sigma.md) | [AI Research Scientist Intern - 2027 Summer](https://twosigma.avature.net/careers/JobDetail/14096) | NYC | Onsite | 2026-08-02 | Rolling | 🟢 Open | ❔ |
-| [University of St. Thomas](generated/companies/university-of-st-thomas.md) | [Semiconductor Test AI Intern - Minnesota Semiconductor AI Hub](https://studentemployment-stthomas.icims.com/jobs/9529/job?mobile=true&needsRedirect=false) | St Paul, MN | Onsite | 2026-08-18 | Rolling | 🟢 Open | ❔ |
 | [Veeam Software](generated/companies/veeam-software.md) | [AI & Automation Engineering Intern - Summer 2027](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4955296101) | Georgia | Onsite | 2026-09-11 | Rolling | 🟢 Open | ❔ |
 | [Veeam Software](generated/companies/veeam-software.md) | [Customer Care AI Analyst Intern - Summer 2027](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4972324101) | Columbus, OH | Onsite | 2026-09-11 | Rolling | 🟢 Open | ❔ |
 | [Veeam Software](generated/companies/veeam-software.md) | [Security & AI Engineer Intern](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4952609101) | San Jose, CA | Onsite | 2026-09-11 | Rolling | 🟢 Open | ❔ |
@@ -344,6 +343,7 @@
 | [Toshiba Global Commerce](generated/companies/toshiba-global-commerce.md) | [AI Software Engineer Intern](https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5214224007) | Durham, NC | Onsite | 2026-08-20 | Rolling | 🔴 Closed | ❔ |
 | [Tradeweb](generated/companies/tradeweb.md) | [AI Software Engineer Intern](https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301902) | Jersey City, NJ | Onsite | 2026-09-10 | Rolling | 🔴 Closed | ❔ |
 | [Turabify](generated/companies/turabify.md) | [AI Automation Intern](https://apply.workable.com/turabify-co/j/0B50CC0D49/apply) | Franklin, OH | Onsite | 2026-08-08 | Rolling | 🔴 Closed | ❔ |
+| [University of St. Thomas](generated/companies/university-of-st-thomas.md) | [Semiconductor Test AI Intern - Minnesota Semiconductor AI Hub](https://studentemployment-stthomas.icims.com/jobs/9529/job?mobile=true&needsRedirect=false) | St Paul, MN | Onsite | 2026-08-18 | Rolling | 🔴 Closed | ❔ |
 | [Veeam Software](generated/companies/veeam-software.md) | [Software Engineering Intern, Platform, Security & AI](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4857832101) | San Jose, CA | Onsite | 2026-05-09 | Rolling | 🔴 Closed | ❔ |
 | [Veeda AI](generated/companies/veeda-ai.md) | [AI Scientist Intern - Veeda AI Scientist](https://jobs.ashbyhq.com/veeda-labs/58cc42fb-1d6f-4e5f-860d-3b97bdccc6f4/application?embed=true) | Seattle, WA +2 | Onsite | 2026-07-21 | Rolling | 🔴 Closed | ❔ |
 | [Zurich Insurance](generated/companies/zurich-insurance.md) | [Data Analytics & AI Internship/Co-op - Data Analytics & AI](https://www.careers.zurich.com/job/Toronto-Fall-2026-InternshipCo-op-Data-Analytics-&-AI-ON/1367953057/?ats=successfactors) | Toronto | Onsite | 2026-07-28 | Rolling | 🔴 Closed | ❔ |
@@ -480,7 +480,6 @@
 - Transcard Payments (1)
 - TWG Global (1)
 - Two Sigma (1)
-- University of St. Thomas (1)
 - Verisk (1)
 - Workato (1)
 - Xaira Therapeutics (1)
@@ -532,5 +531,6 @@
 - SS&C (1)
 - The Home Depot (1)
 - Turabify (1)
+- University of St. Thomas (1)
 - Veeda AI (1)
 - Zurich Insurance (1)

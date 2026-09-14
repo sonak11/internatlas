@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🛠 Data Engineering Internships
 
-**80** tracked · **69** open now
+**81** tracked · **69** open now
 
 ## Current openings
 
@@ -21,7 +21,6 @@
 | [Auto-Owners Insurance](generated/companies/auto-owners-insurance.md) | [Data Engineering Intern - Summer 2027](https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Data-Engineering-Internship---Summer-2026_R_12318) | Lansing, MI | Onsite | 2026-08-26 | Rolling | 🟢 Open | ❔ |
 | [Capital One](generated/companies/capital-one.md) | [Data Analytics Engineering Intern](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Data-Analytics-Engineering---Winter-2027_R999617-1) | Toronto | Onsite | 2026-09-08 | Rolling | 🟢 Open | ❔ |
 | [Castleton Commodities International](generated/companies/castleton-commodities-international.md) | [Data Engineering Intern](https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Stamford-CT/Data-Engineering-Internship--Summer-2027-_R1346) | Stamford, CT +2 | Onsite | 2026-07-31 | Rolling | 🟢 Open | ❔ |
-| [Charles Schwab](generated/companies/charles-schwab.md) | [Data Engineering Intern - Data Engineering](https://career-schwab.icims.com/jobs/126227/job?mobile=true&needsRedirect=false) | Austin, TX +2 | Onsite | 2026-08-29 | Rolling | 🟢 Open | ❔ |
 | [Cigna Group](generated/companies/cigna-group.md) | [Data & Analytics Engineering Intern - Technology Development Program](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Bloomfield-CT/The-Cigna-Group-s-Technology-Development-Program---Data---Analytics-Engineering-Track-Summer-Internship_26009533) | Bloomington, MN +3 | Onsite | 2026-09-09 | Rolling | 🟢 Open | ❔ |
 | [Citizens Financial Group](generated/companies/citizens-financial-group.md) | [Data Engineer Intern - Enterprise Technology & Security](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49285) | Plano, TX +2 | Onsite | 2026-09-11 | Rolling | 🟢 Open | ❔ |
 | [Coinbase](generated/companies/coinbase.md) | [Analytics Engineer Intern](https://www.coinbase.com/careers/positions/8175471?gh_jid=8175471) | Hybrid | Onsite | 2026-09-08 | Rolling | 🟢 Open | ❔ |
@@ -36,6 +35,7 @@
 | [First National Bank](generated/companies/first-national-bank.md) | [Data Engineering Intern](https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Hermitage-PA/Summer-2027-Data-Engineering-Intern_2026-01713) | Pittsburgh, PA +1 | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
 | [First National Bank](generated/companies/first-national-bank.md) | [Data Engineering Intern](https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Hermitage-PA/Summer-2027-Data-Engineering-Intern_2026-01712) | Pittsburgh, PA +1 | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
 | [Gallup](generated/companies/gallup.md) | [Data Engineering Intern](https://job-boards.greenhouse.io/gallup/jobs/4395454009) | Omaha, NE | Onsite | 2026-09-09 | Rolling | 🟢 Open | ❔ |
+| [Guardian Life](generated/companies/guardian-life.md) | [Data Engineering Intern - Digital & Technology](https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/New-York/XMLNAME-2027-Guardian-Summer-Intern--Digital---Technology---Data-Engineering_R000110202) | Holmdel, NJ +2 | Onsite | 2026-09-14 | Rolling | 🟢 Open | ❔ |
 | [Hone Health](generated/companies/hone-health.md) | [Data Engineering Intern](https://job-boards.greenhouse.io/honehealth/jobs/5308958008) | Remote | Remote | 2026-07-08 | Rolling | 🟢 Open | ❔ |
 | [Intact](generated/companies/intact.md) | [Data Engineering Developer Intern Co-op - Winter 2027](https://intactfc.wd3.myworkdayjobs.com/en-US/intactfc/job/Montral-Quebec-CAN/Data-Engineering-Developer-I---4-Month-Internship-Co-op--Winter-2027--_R155204) | Montreal | Onsite | 2026-09-09 | Rolling | 🟢 Open | ❔ |
 | [Intelcom \| Dragonfly](generated/companies/intelcom-dragonfly.md) | [Data Engineer Intern](https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Data-Engineering-Intern_JR111567) | Montreal | Onsite | 2026-08-31 | Rolling | 🟢 Open | ❔ |
@@ -78,6 +78,7 @@
 | [Weave](generated/companies/weave.md) | [Data Engineer Intern](https://jobs.ashbyhq.com/weave/1318e017-3ea6-4a1f-aac7-1c11a46cda8d/application?embed=true) | Lehi, UT | Onsite | 2026-08-21 | Rolling | 🟢 Open | ❔ |
 | [Western & Southern Financial Group](generated/companies/western-southern-financial-group.md) | [Data Engineering and Analytics Intern - Summer 2027](https://careers-westernsouthern.icims.com/jobs/25207/job?mobile=true&needsRedirect=false) | Cincinnati, OH | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
 | [Artisan Partners](generated/companies/artisan-partners.md) | [Data Engineer Intern - Platform & Product](https://www.artisanpartners.com/careers/career-opportunities.html?gh_jid=8132641) | Milwaukee, WI | Onsite | 2026-08-17 | Rolling | 🔴 Closed | ❔ |
+| [Charles Schwab](generated/companies/charles-schwab.md) | [Data Engineering Intern - Data Engineering](https://career-schwab.icims.com/jobs/126227/job?mobile=true&needsRedirect=false) | Austin, TX +2 | Onsite | 2026-08-29 | Rolling | 🔴 Closed | ❔ |
 | [East Penn Manufacturing Company](generated/companies/east-penn-manufacturing-company.md) | [Data Engineer Intern](https://careers-eastpennmanufacturing.icims.com/jobs/30007/job?mobile=true&needsRedirect=false) | Ann Arbor, MI | Onsite | 2026-07-27 | Rolling | 🔴 Closed | ❔ |
 | [Mackenzie Investments](generated/companies/mackenzie-investments.md) | [Data Engineering Intern](https://careersen-mackenzieinvestments.icims.com/jobs/5983/job?mobile=true&needsRedirect=false) | Toronto | Onsite | 2026-08-24 | Rolling | 🔴 Closed | ❔ |
 | [National Information Solutions Cooperative](generated/companies/national-information-solutions-cooperative.md) | [Data Engineer Intern](https://job-boards.greenhouse.io/testnisc/jobs/8167886) | Mandan, ND | Onsite | 2026-09-03 | Rolling | 🔴 Closed | ❔ |
@@ -108,7 +109,6 @@
 - Auto-Owners Insurance (1)
 - Capital One (1)
 - Castleton Commodities International (1)
-- Charles Schwab (1)
 - Cigna Group (1)
 - Citizens Financial Group (1)
 - Constellation Energy (1)
@@ -116,6 +116,7 @@
 - Devon Energy (1)
 - Edison International (1)
 - Gallup (1)
+- Guardian Life (1)
 - Hone Health (1)
 - Intact (1)
 - Intelcom | Dragonfly (1)
@@ -138,6 +139,7 @@
 - Weave (1)
 - Western & Southern Financial Group (1)
 - Artisan Partners (1)
+- Charles Schwab (1)
 - East Penn Manufacturing Company (1)
 - Mackenzie Investments (1)
 - Panasonic Holdings (1)

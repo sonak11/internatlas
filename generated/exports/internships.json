@@ -1,6 +1,6 @@
 {
   "generated": "2026-09-14",
-  "count": 4330,
+  "count": 4357,
   "internships": [
     {
       "schema_version": "1.0",
@@ -23505,7 +23505,7 @@
         "discovered": "2026-08-24",
         "last_verified": "2026-09-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -23556,7 +23556,7 @@
         "discovered": "2026-08-24",
         "last_verified": "2026-09-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -24427,7 +24427,7 @@
         "discovered": "2026-08-26",
         "last_verified": "2026-09-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -32331,6 +32331,58 @@
         "last_verified": "2026-09-03"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "boston-scientific-software-engineer-intern-interns-graduates-2027",
+      "company": {
+        "name": "Boston Scientific",
+        "slug": "boston-scientific"
+      },
+      "role": "Software Engineer Intern - Interns/Graduates",
+      "category": "software-engineering",
+      "apply_url": "https://bostonscientific.eightfold.ai/careers/job/563602813549535",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Maple Grove",
+          "state": "MN",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-14",
+        "discovered": "2026-09-14",
+        "last_verified": "2026-09-14"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -42886,7 +42938,7 @@
         "discovered": "2026-08-29",
         "last_verified": "2026-09-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -43015,7 +43067,7 @@
         "discovered": "2026-08-29",
         "last_verified": "2026-09-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -48488,7 +48540,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "cloudflare-software-engineer-intern-2026-8149c7",
+      "id": "cloudflare-software-engineer-intern-2026",
       "company": {
         "name": "Cloudflare",
         "slug": "cloudflare"
@@ -48529,65 +48581,13 @@
       },
       "dates": {
         "posted": "2026-08-21",
-        "discovered": "2026-08-21",
-        "last_verified": "2026-09-14"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:vanshb03"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "cloudflare-software-engineer-intern-2026",
-      "company": {
-        "name": "Cloudflare",
-        "slug": "cloudflare"
-      },
-      "role": "Software Engineer Intern",
-      "category": "software-engineering",
-      "apply_url": "https://boards.greenhouse.io/cloudflare/jobs/8052785",
-      "season": "fall",
-      "year": 2026,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Austin",
-          "state": "TX",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-07-15",
         "discovered": "2026-07-17",
         "last_verified": "2026-09-14"
       },
       "status": "open",
       "tags": [
         "auto-ingested",
-        "src:simplify"
+        "src:vanshb03"
       ]
     },
     {
@@ -81442,7 +81442,7 @@
         "discovered": "2026-08-27",
         "last_verified": "2026-09-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -81494,7 +81494,7 @@
         "discovered": "2026-08-20",
         "last_verified": "2026-09-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -81547,7 +81547,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-09-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -81600,7 +81600,7 @@
         "discovered": "2026-09-14",
         "last_verified": "2026-09-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -81653,7 +81653,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-09-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -81705,7 +81705,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -81757,7 +81757,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -81811,7 +81811,7 @@
         "discovered": "2026-09-08",
         "last_verified": "2026-09-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -81864,7 +81864,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -81915,7 +81915,7 @@
         "discovered": "2026-09-14",
         "last_verified": "2026-09-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -81969,7 +81969,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -82020,7 +82020,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -82071,7 +82071,7 @@
         "discovered": "2026-09-14",
         "last_verified": "2026-09-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -82122,7 +82122,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-09-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -82174,7 +82174,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -82225,7 +82225,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -82278,7 +82278,7 @@
         "discovered": "2026-08-20",
         "last_verified": "2026-09-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -82329,7 +82329,7 @@
         "discovered": "2026-09-14",
         "last_verified": "2026-09-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -82381,7 +82381,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -82432,7 +82432,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -82485,7 +82485,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -82536,7 +82536,7 @@
         "discovered": "2026-09-14",
         "last_verified": "2026-09-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -82590,7 +82590,7 @@
         "discovered": "2026-09-06",
         "last_verified": "2026-09-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -82644,7 +82644,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -82697,7 +82697,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -82751,7 +82751,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-09-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -82853,7 +82853,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -82955,7 +82955,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -83008,7 +83008,7 @@
         "discovered": "2026-08-29",
         "last_verified": "2026-09-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -83061,7 +83061,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-09-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -85408,6 +85408,189 @@
         "last_verified": "2026-08-18"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "guardian-life-application-development-intern-digital-technology-2027",
+      "company": {
+        "name": "Guardian Life",
+        "slug": "guardian-life"
+      },
+      "role": "Application Development Intern - Digital & Technology",
+      "category": "software-engineering",
+      "apply_url": "https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/New-York/XMLNAME-2027-Guardian-Summer-Intern--Digital---Technology---Application-Development_R000110209",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Holmdel",
+          "state": "NJ",
+          "country": "USA"
+        },
+        {
+          "city": "NYC",
+          "country": "USA"
+        },
+        {
+          "city": "Bethlehem",
+          "state": "PA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-14",
+        "discovered": "2026-09-14",
+        "last_verified": "2026-09-14"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "guardian-life-data-engineering-intern-digital-technology-2027",
+      "company": {
+        "name": "Guardian Life",
+        "slug": "guardian-life"
+      },
+      "role": "Data Engineering Intern - Digital & Technology",
+      "category": "data-engineering",
+      "apply_url": "https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/New-York/XMLNAME-2027-Guardian-Summer-Intern--Digital---Technology---Data-Engineering_R000110202",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Holmdel",
+          "state": "NJ",
+          "country": "USA"
+        },
+        {
+          "city": "NYC",
+          "country": "USA"
+        },
+        {
+          "city": "Bethlehem",
+          "state": "PA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-14",
+        "discovered": "2026-09-14",
+        "last_verified": "2026-09-14"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "guardian-life-summer-intern-digital-technology-ai-machine-learning-2027",
+      "company": {
+        "name": "Guardian Life",
+        "slug": "guardian-life"
+      },
+      "role": "Summer Intern - Digital & Technology - AI & Machine Learning",
+      "category": "machine-learning",
+      "apply_url": "https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/New-York/XMLNAME-2027-Guardian-Summer-Intern--Digital---Technology---AI---Machine-Learning_R000110205",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Holmdel",
+          "state": "NJ",
+          "country": "USA"
+        },
+        {
+          "city": "NYC",
+          "country": "USA"
+        },
+        {
+          "city": "Bethlehem",
+          "state": "PA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-14",
+        "discovered": "2026-09-14",
+        "last_verified": "2026-09-14"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -98034,7 +98217,7 @@
       },
       "role": "Data Analyst Intern",
       "category": "software-engineering",
-      "apply_url": "https://www.interstates.com/careers/jobs?gh_jid=4398703009&gh_jid=4398703009",
+      "apply_url": "https://www.interstates.com/careers/jobs?gh_jid=4056077009&gh_jid=4056077009",
       "season": "spring",
       "year": 2027,
       "work_mode": "onsite",
@@ -98074,11 +98257,11 @@
         "resume_keywords": []
       },
       "dates": {
-        "posted": "2026-09-09",
+        "posted": "2026-09-14",
         "discovered": "2026-09-09",
         "last_verified": "2026-09-14"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -148243,6 +148426,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "philips-software-engineer-intern-2027",
+      "company": {
+        "name": "Philips",
+        "slug": "philips"
+      },
+      "role": "Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Plymouth-Minnesota-United-States/Intern---Software-Engineering---Plymouth--MN---Summer-2027_590403",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Plymouth",
+          "state": "MN",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-14",
+        "discovered": "2026-09-14",
+        "last_verified": "2026-09-14"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "phlair-working-student-intern-control-team-systems-data-infrastruct-2026",
       "company": {
         "name": "Phlair",
@@ -162164,6 +162399,536 @@
     },
     {
       "schema_version": "1.0",
+      "id": "robinhood-accounting-intern-summer-2027-2027",
+      "company": {
+        "name": "Robinhood",
+        "slug": "robinhood",
+        "career_page": "https://careers.robinhood.com/"
+      },
+      "role": "Accounting Intern (Summer 2027)",
+      "category": "software-engineering",
+      "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8198153?t=gh_src%3D&gh_jid=8198153",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "New York",
+          "state": "NY",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-14",
+        "discovered": "2026-09-14",
+        "last_verified": "2026-09-14"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "robinhood-brokerage-operations-intern-summer-2027-2027",
+      "company": {
+        "name": "Robinhood",
+        "slug": "robinhood",
+        "career_page": "https://careers.robinhood.com/"
+      },
+      "role": "Brokerage Operations Intern (Summer 2027)",
+      "category": "software-engineering",
+      "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8198198?t=gh_src%3D&gh_jid=8198198",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Chicago",
+          "state": "IL",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-14",
+        "discovered": "2026-09-14",
+        "last_verified": "2026-09-14"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "robinhood-brokerage-risk-analyst-intern-summer-2027-2027",
+      "company": {
+        "name": "Robinhood",
+        "slug": "robinhood",
+        "career_page": "https://careers.robinhood.com/"
+      },
+      "role": "Brokerage Risk Analyst Intern (Summer 2027)",
+      "category": "software-engineering",
+      "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8198223?t=gh_src%3D&gh_jid=8198223",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Chicago",
+          "state": "IL",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-14",
+        "discovered": "2026-09-14",
+        "last_verified": "2026-09-14"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "robinhood-business-analyst-intern-summer-2027-2027",
+      "company": {
+        "name": "Robinhood",
+        "slug": "robinhood",
+        "career_page": "https://careers.robinhood.com/"
+      },
+      "role": "Business Analyst Intern (Summer 2027)",
+      "category": "software-engineering",
+      "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8123238?t=gh_src%3D&gh_jid=8123238",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Washington",
+          "state": "DC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-14",
+        "discovered": "2026-09-14",
+        "last_verified": "2026-09-14"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "robinhood-crypto-operations-intern-summer-2027-2027",
+      "company": {
+        "name": "Robinhood",
+        "slug": "robinhood",
+        "career_page": "https://careers.robinhood.com/"
+      },
+      "role": "Crypto Operations Intern (Summer 2027)",
+      "category": "software-engineering",
+      "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8193484?t=gh_src%3D&gh_jid=8193484",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "New York",
+          "state": "NY",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-14",
+        "discovered": "2026-09-14",
+        "last_verified": "2026-09-14"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "robinhood-crypto-partnership-intern-summer-2027-2027",
+      "company": {
+        "name": "Robinhood",
+        "slug": "robinhood",
+        "career_page": "https://careers.robinhood.com/"
+      },
+      "role": "Crypto Partnership Intern (Summer 2027)",
+      "category": "software-engineering",
+      "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8193710?t=gh_src%3D&gh_jid=8193710",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "New York",
+          "state": "NY",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-14",
+        "discovered": "2026-09-14",
+        "last_verified": "2026-09-14"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "robinhood-fraud-operations-intern-summer-2027-2027",
+      "company": {
+        "name": "Robinhood",
+        "slug": "robinhood",
+        "career_page": "https://careers.robinhood.com/"
+      },
+      "role": "Fraud Operations Intern (Summer 2027)",
+      "category": "software-engineering",
+      "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8198241?t=gh_src%3D&gh_jid=8198241",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Denver",
+          "state": "CO",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-14",
+        "discovered": "2026-09-14",
+        "last_verified": "2026-09-14"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "robinhood-futures-prediction-market-operations-intern-summer-2027-2027",
+      "company": {
+        "name": "Robinhood",
+        "slug": "robinhood",
+        "career_page": "https://careers.robinhood.com/"
+      },
+      "role": "Futures & Prediction Market Operations Intern (Summer 2027)",
+      "category": "software-engineering",
+      "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8187309?t=gh_src%3D&gh_jid=8187309",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Chicago",
+          "state": "IL",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-14",
+        "discovered": "2026-09-14",
+        "last_verified": "2026-09-14"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "robinhood-growth-marketing-intern-summer-2027-2027",
+      "company": {
+        "name": "Robinhood",
+        "slug": "robinhood",
+        "career_page": "https://careers.robinhood.com/"
+      },
+      "role": "Growth Marketing Intern (Summer 2027)",
+      "category": "software-engineering",
+      "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8192367?t=gh_src%3D&gh_jid=8192367",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Menlo Park",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-14",
+        "discovered": "2026-09-14",
+        "last_verified": "2026-09-14"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "robinhood-investment-analyst-intern-summer-2027-2027",
+      "company": {
+        "name": "Robinhood",
+        "slug": "robinhood",
+        "career_page": "https://careers.robinhood.com/"
+      },
+      "role": "Investment Analyst Intern (Summer 2027)",
+      "category": "software-engineering",
+      "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8198187?t=gh_src%3D&gh_jid=8198187",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Menlo Park",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-14",
+        "discovered": "2026-09-14",
+        "last_verified": "2026-09-14"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "robinhood-market-research-strategy-intern-summer-2027-2027",
       "company": {
         "name": "Robinhood",
@@ -162209,6 +162974,638 @@
         "last_verified": "2026-09-01"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "robinhood-people-partner-intern-summer-2027-2027",
+      "company": {
+        "name": "Robinhood",
+        "slug": "robinhood",
+        "career_page": "https://careers.robinhood.com/"
+      },
+      "role": "People Partner Intern (Summer 2027)",
+      "category": "software-engineering",
+      "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8197614?t=gh_src%3D&gh_jid=8197614",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "New York",
+          "state": "NY",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-14",
+        "discovered": "2026-09-14",
+        "last_verified": "2026-09-14"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "robinhood-peoplex-insights-analytics-intern-summer-2027-2027",
+      "company": {
+        "name": "Robinhood",
+        "slug": "robinhood",
+        "career_page": "https://careers.robinhood.com/"
+      },
+      "role": "PeopleX Insights & Analytics Intern (Summer 2027)",
+      "category": "software-engineering",
+      "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8198255?t=gh_src%3D&gh_jid=8198255",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Menlo Park",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-14",
+        "discovered": "2026-09-14",
+        "last_verified": "2026-09-14"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "robinhood-software-developer-intern-backend-summer-2027-2027",
+      "company": {
+        "name": "Robinhood",
+        "slug": "robinhood",
+        "career_page": "https://careers.robinhood.com/"
+      },
+      "role": "Software Developer Intern, Backend (Summer 2027)",
+      "category": "software-engineering",
+      "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8142930?t=gh_src%3D&gh_jid=8142930",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Toronto",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-14",
+        "discovered": "2026-09-14",
+        "last_verified": "2026-09-14"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "robinhood-software-developer-intern-co-op-backend-winter-2027-2027",
+      "company": {
+        "name": "Robinhood",
+        "slug": "robinhood",
+        "career_page": "https://careers.robinhood.com/"
+      },
+      "role": "Software Developer Intern/Co-op, Backend (Winter 2027)",
+      "category": "software-engineering",
+      "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8194428?t=gh_src%3D&gh_jid=8194428",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Toronto",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-14",
+        "discovered": "2026-09-14",
+        "last_verified": "2026-09-14"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "robinhood-software-developer-intern-ios-summer-2027-2027",
+      "company": {
+        "name": "Robinhood",
+        "slug": "robinhood",
+        "career_page": "https://careers.robinhood.com/"
+      },
+      "role": "Software Developer Intern, iOS (Summer 2027)",
+      "category": "software-engineering",
+      "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8199729?t=gh_src%3D&gh_jid=8199729",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Toronto",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-14",
+        "discovered": "2026-09-14",
+        "last_verified": "2026-09-14"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "robinhood-software-developer-intern-web-summer-2027-2027",
+      "company": {
+        "name": "Robinhood",
+        "slug": "robinhood",
+        "career_page": "https://careers.robinhood.com/"
+      },
+      "role": "Software Developer Intern, Web (Summer 2027)",
+      "category": "software-engineering",
+      "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8199744?t=gh_src%3D&gh_jid=8199744",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Toronto",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-14",
+        "discovered": "2026-09-14",
+        "last_verified": "2026-09-14"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "robinhood-software-engineering-intern-android-summer-2027-2027",
+      "company": {
+        "name": "Robinhood",
+        "slug": "robinhood",
+        "career_page": "https://careers.robinhood.com/"
+      },
+      "role": "Software Engineering Intern, Android (Summer 2027)",
+      "category": "software-engineering",
+      "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8142961?t=gh_src%3D&gh_jid=8142961",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Menlo Park",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-14",
+        "discovered": "2026-09-14",
+        "last_verified": "2026-09-14"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "robinhood-software-engineering-intern-backend-summer-2027-2027",
+      "company": {
+        "name": "Robinhood",
+        "slug": "robinhood",
+        "career_page": "https://careers.robinhood.com/"
+      },
+      "role": "Software Engineering Intern, Backend (Summer 2027)",
+      "category": "software-engineering",
+      "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8123225?t=gh_src%3D&gh_jid=8123225",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Bellevue",
+          "state": "WA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-14",
+        "discovered": "2026-09-14",
+        "last_verified": "2026-09-14"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "robinhood-software-engineering-intern-ios-summer-2027-2027",
+      "company": {
+        "name": "Robinhood",
+        "slug": "robinhood",
+        "career_page": "https://careers.robinhood.com/"
+      },
+      "role": "Software Engineering Intern, iOS (Summer 2027)",
+      "category": "software-engineering",
+      "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8142959?t=gh_src%3D&gh_jid=8142959",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Menlo Park",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-14",
+        "discovered": "2026-09-14",
+        "last_verified": "2026-09-14"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "robinhood-software-engineering-intern-web-summer-2027-2027",
+      "company": {
+        "name": "Robinhood",
+        "slug": "robinhood",
+        "career_page": "https://careers.robinhood.com/"
+      },
+      "role": "Software Engineering Intern, Web (Summer 2027)",
+      "category": "software-engineering",
+      "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8142963?t=gh_src%3D&gh_jid=8142963",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Menlo Park",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-14",
+        "discovered": "2026-09-14",
+        "last_verified": "2026-09-14"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "robinhood-special-projects-intern-summer-2027-2027",
+      "company": {
+        "name": "Robinhood",
+        "slug": "robinhood",
+        "career_page": "https://careers.robinhood.com/"
+      },
+      "role": "Special Projects Intern (Summer 2027)",
+      "category": "software-engineering",
+      "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8198262?t=gh_src%3D&gh_jid=8198262",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Menlo Park",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-14",
+        "discovered": "2026-09-14",
+        "last_verified": "2026-09-14"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "robinhood-vendor-management-intern-summer-2027-2027",
+      "company": {
+        "name": "Robinhood",
+        "slug": "robinhood",
+        "career_page": "https://careers.robinhood.com/"
+      },
+      "role": "Vendor Management Intern (Summer 2027)",
+      "category": "software-engineering",
+      "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8198097?t=gh_src%3D&gh_jid=8198097",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "New York",
+          "state": "NY",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-14",
+        "discovered": "2026-09-14",
+        "last_verified": "2026-09-14"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:ats"
@@ -171187,7 +172584,7 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-09-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -188065,6 +189462,58 @@
       "dates": {
         "posted": "2026-09-08",
         "discovered": "2026-09-08",
+        "last_verified": "2026-09-14"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "td-bank-data-analyst-intern-global-technology-solutions-2027",
+      "company": {
+        "name": "TD Bank",
+        "slug": "td-bank"
+      },
+      "role": "Data Analyst Intern - Global Technology & Solutions",
+      "category": "software-engineering",
+      "apply_url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Summer-Internship-Program---Global-Technology---Solutions---Data-Analyst_R_1510800",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Mt Laurel Township",
+          "state": "NJ",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-13",
+        "discovered": "2026-09-14",
         "last_verified": "2026-09-14"
       },
       "status": "open",
@@ -220781,7 +222230,7 @@
         "discovered": "2026-08-18",
         "last_verified": "2026-09-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
