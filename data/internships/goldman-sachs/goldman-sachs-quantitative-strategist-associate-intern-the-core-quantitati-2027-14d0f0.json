@@ -1,21 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "goldman-sachs-quantitative-strategist-intern-asset-and-wealth-management-q-2027",
+  "id": "goldman-sachs-quantitative-strategist-associate-intern-the-core-quantitati-2027-14d0f0",
   "company": {
     "name": "Goldman Sachs",
     "slug": "goldman-sachs"
   },
-  "role": "Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats",
+  "role": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
   "category": "quant",
-  "apply_url": "https://higher.gs.com/roles/171549?type=students",
+  "apply_url": "https://higher.gs.com/roles/175427?type=students",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Salt Lake City",
-      "state": "UT",
-      "country": "USA"
+      "city": "London",
+      "country": "UK"
     }
   ],
   "compensation": {
@@ -26,7 +25,7 @@
   "eligibility": {
     "graduation_years": [],
     "degree_levels": [
-      "masters"
+      "phd"
     ],
     "citizenship_required": false,
     "security_clearance_required": false,
@@ -43,7 +42,7 @@
   },
   "dates": {
     "posted": "2026-08-15",
-    "discovered": "2026-09-04",
+    "discovered": "2026-09-14",
     "last_verified": "2026-09-14"
   },
   "status": "open",

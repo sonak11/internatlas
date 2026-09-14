@@ -26,16 +26,16 @@ _Generated 2026-09-14_
 | Coinbase | 33 |
 | Navy Federal | 33 |
 | Zipline | 33 |
+| Goldman Sachs | 32 |
 | The Walt Disney Company | 31 |
-| GE Vernova | 28 |
 
 ## Listings by category
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 2547 | `███████████████` |
+| software-engineering | 2550 | `███████████████` |
 | ai | 339 | `██` |
-| quant | 275 | `██` |
+| quant | 278 | `██` |
 | machine-learning | 198 | `█` |
 | hardware | 170 | `█` |
 | data-science | 152 | `█` |
@@ -43,13 +43,15 @@ _Generated 2026-09-14_
 | product | 133 | `█` |
 | design | 112 | `█` |
 | embedded | 101 | `█` |
-| data-engineering | 79 | `█` |
+| data-engineering | 80 | `█` |
 | cloud | 55 | `█` |
 | security | 19 | `█` |
 
 ## Newest listings
 
 - 2026-09-13 — **NVIDIA**: [Research Intern](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Autonomous-Systems-and-Physical-AI-Research---2027_JR2024171)
+- 2026-09-13 — **TD Bank**: [Data Engineer Intern - Global Technology & Solutions](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Summer-Internship-Program---Global-Technology---Solutions---Data-Engineer_R_1510797)
+- 2026-09-13 — **TD Bank**: [Software Engineer Intern - Global Technology & Solutions](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Summer-Internship-Program---Global-Technology---Solutions---Software-Engineer--SWE-_R_1510796-1)
 - 2026-09-12 — **AnaVation**: [Computer Science Intern - Summer 2027](https://jobs.lever.co/anavationllc/4a82ae00-30f0-410c-bf3c-f1cdd18739e7/apply)
 - 2026-09-12 — **Constellation Energy**: [Information Technology Software Development Intern](https://jobs.constellationenergy.com/jobs/138708?icims=1)
 - 2026-09-12 — **Constellation Energy**: [IT Data Engineering Intern](https://jobs.constellationenergy.com/jobs/138716?icims=1)
@@ -67,8 +69,6 @@ _Generated 2026-09-14_
 - 2026-09-11 — **AMD**: [SerDes Optical Transceivers Silicon Design and Architecture Modeling Engineer Intern/Co-op](https://careers.amd.com/jobs/92350?icims=1)
 - 2026-09-11 — **Amgen**: [Data Engineer Intern](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Data-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255742)
 - 2026-09-11 — **Amgen**: [Data Engineer Intern - Technology & Medical Organizations](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Undergrad-Intern---Data-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255708)
-- 2026-09-11 — **Amgen**: [Data Engineer Intern - Technology & Medical Organizations](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Data-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255725)
-- 2026-09-11 — **Amgen**: [Data Scientist Intern](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Undergrad-Intern---Data-Scientist---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255704)
 
 ## Recently closed
 
@@ -112,6 +112,7 @@ _Generated 2026-09-14_
 - Bank of China USA — Data Analytics Audit Intern
 - Bank of China USA — Enterprise Risk Management Risk Data Aggregation Intern
 - Bank of Montreal — Client Enablement Analyst Co-op/Intern - Customer Shared Services
+- Bank of Montreal — Full Stack Engineer Intern Co-op - Data Cognition Team
 - Bank of Montreal — Investment Intern Co-op - Gam
 - Bank of Montreal — Junior Software Developer Co-op Intern - Winter 2027 - 4 months
 - Bank of Montreal — Junior Software Developer Co-op Intern - Winter 2027 - 4 months
@@ -203,6 +204,7 @@ _Generated 2026-09-14_
 - Cloudflare — Research Engineer Intern (Fall 2026)
 - Cloudflare — Research Engineer Intern (Fall 2026)
 - Cloudflare — Research Engineer Intern (Fall 2026)
+- Cloudflare — Software Engineer Intern - Fall 2026
 - Cloudflare — Software Engineer Intern (Fall 2026)
 - Cloudflare — Software Engineer Intern (Fall 2026)
 - Cloudflare — Software Engineer Intern (Fall 2026) - Austin, TX
@@ -294,33 +296,8 @@ _Generated 2026-09-14_
 - GlobalFoundries — Silicon Photonics Advanced Packaging Intern
 - GlossGenius — Engineering Intern
 - GlossGenius — Engineering Intern - Summer 2027
-- Goldman Sachs — Associate Intern - The Core Quantitative Strats
-- Goldman Sachs — AWM Product Management Analyst Intern
-- Goldman Sachs — Quantitative Strategist Associate Intern - Asset and Wealth Management
-- Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Americas
-- Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Investment Banking
-- Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
-- Goldman Sachs — Quantitative Strats Analyst Intern - Americas - Investment Banking
-- Goldman Sachs — Summer Analyst Intern
-- Goldman Sachs — Summer Analyst Intern - Americas - AWM Product Management
-- Goldman Sachs — Summer Analyst Intern - Americas - Engineering
-- Goldman Sachs — Summer Analyst Intern - Americas - Engineering
-- Goldman Sachs — Summer Analyst Intern - Americas - Investment Banking Quantitative Strats
-- Goldman Sachs — Summer Analyst Intern - Engineering
-- Goldman Sachs — Summer Analyst Intern - Engineering
-- Goldman Sachs — Summer Analyst Intern - Engineering
-- Goldman Sachs — Summer Analyst Intern - FICC and Equities - Sales and Trading
 - Goldman Sachs — Summer Analyst Intern - FICC & Equities - Sales & Trading
-- Goldman Sachs — Summer Analyst Intern - The Core Quantitative Strats
 - Goldman Sachs — Summer Analyst Intern - Wealth Management - Product Management and Design
-- Goldman Sachs — Summer Analyst Intern - Wealth Management - Quantitative Finance
-- Goldman Sachs — Summer Associate Intern
-- Goldman Sachs — Summer Associate Intern - Multiple Teams
 - Grant Thornton — AI, Data & Technology Intern - Summer 2027
 - Grant Thornton — AI, Data & Technology Intern - Summer 2027
 - Grant Thornton — AI, Data & Technology Intern - Summer 2027
@@ -374,6 +351,7 @@ _Generated 2026-09-14_
 - Interdigital — Information Systems / Salesforce Intern
 - Interdigital — Wifi Intern - Wireless Researcher
 - International Rescue Committee (IRC) — Development Data and Research Intern
+- Interstates — Data Analyst Intern
 - Interstates — Electrical Engineering Intern - Design Services
 - Interstates — Engineering Intern - Design Services
 - Interstates — Engineering Intern - Design Services
