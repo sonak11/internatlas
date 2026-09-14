@@ -1,21 +1,19 @@
 {
   "schema_version": "1.0",
-  "id": "hudson-river-trading-women-in-trading-and-technology-internship-witti-winter-2027-2027",
+  "id": "pace-member-of-technical-staff-intern-2027",
   "company": {
-    "name": "Hudson River Trading",
-    "slug": "hudson-river-trading",
-    "career_page": "https://www.hudsonrivertrading.com/careers"
+    "name": "Pace",
+    "slug": "pace"
   },
-  "role": "Women in Trading and Technology Internship (WiTTI) – Winter 2027",
-  "category": "quant",
-  "apply_url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8188637",
+  "role": "Member of Technical Staff Intern",
+  "category": "software-engineering",
+  "apply_url": "https://jobs.ashbyhq.com/withpace/9acdae91-3834-4c08-8579-fd14ff40a76b/application?embed=true",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "New York",
-      "state": "NY",
+      "city": "NYC",
       "country": "USA"
     }
   ],
@@ -48,6 +46,6 @@
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:ats"
+    "src:simplify"
   ]
 }

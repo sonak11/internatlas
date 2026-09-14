@@ -1,0 +1,51 @@
+{
+  "schema_version": "1.0",
+  "id": "equitable-bank-commercial-lending-ai-engineer-intern-winter-2027-2027",
+  "company": {
+    "name": "Equitable Bank",
+    "slug": "equitable-bank"
+  },
+  "role": "Commercial Lending AI Engineer Intern - Winter 2027",
+  "category": "ai",
+  "apply_url": "https://jobs.lever.co/eqbank/54045eae-334a-4486-8e97-96e49e6a1487/apply",
+  "season": "winter",
+  "year": 2027,
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "Toronto",
+      "country": "ON"
+    }
+  ],
+  "compensation": {
+    "currency": "USD",
+    "housing_stipend": false,
+    "relocation_assistance": false
+  },
+  "eligibility": {
+    "graduation_years": [],
+    "degree_levels": [],
+    "citizenship_required": false,
+    "security_clearance_required": false,
+    "visa_sponsorship": "unknown"
+  },
+  "interview": {},
+  "tech": {
+    "required_skills": [],
+    "preferred_skills": [],
+    "languages": [],
+    "frameworks": [],
+    "cloud_platforms": [],
+    "resume_keywords": []
+  },
+  "dates": {
+    "posted": "2026-09-14",
+    "discovered": "2026-09-14",
+    "last_verified": "2026-09-14"
+  },
+  "status": "open",
+  "tags": [
+    "auto-ingested",
+    "src:simplify"
+  ]
+}

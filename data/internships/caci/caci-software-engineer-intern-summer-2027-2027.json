@@ -7,14 +7,19 @@
   },
   "role": "Software Engineer Intern - Summer 2027",
   "category": "software-engineering",
-  "apply_url": "https://caci.wd1.myworkdayjobs.com/external/job/Lisle-IL-US/Software-Engineering-Intern---Summer-2027_331742",
+  "apply_url": "https://caci.wd1.myworkdayjobs.com/external/job/437-DENVER-CO/Cleared-Software-Engineer-Intern---Summer-2027_331999",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Lisle",
-      "state": "IL",
+      "city": "Sterling",
+      "state": "VA",
+      "country": "USA"
+    },
+    {
+      "city": "Denver",
+      "state": "CO",
       "country": "USA"
     }
   ],
@@ -42,13 +47,14 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-09",
+    "posted": "2026-09-14",
     "discovered": "2026-09-09",
     "last_verified": "2026-09-14"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:simplify",
+    "remote-available"
   ]
 }
