@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 📊 Statistics
 
-_Generated 2026-09-13_
+_Generated 2026-09-14_
 
 ## Top hiring companies
 
@@ -203,6 +203,9 @@ _Generated 2026-09-13_
 - Cloudflare — Research Engineer Intern (Fall 2026)
 - Cloudflare — Research Engineer Intern (Fall 2026)
 - Cloudflare — Research Engineer Intern (Fall 2026)
+- Cloudflare — Software Engineer Intern (Fall 2026)
+- Cloudflare — Software Engineer Intern (Fall 2026)
+- Cloudflare — Software Engineer Intern (Fall 2026) - Austin, TX
 - Cloudflare — Strategic Events Intern (Fall 2026)
 - CNO Financial Group — Artificial Intelligence Information Technology Intern - AI
 - CNO Financial Group — Reporting Analyst Intern
@@ -410,9 +413,6 @@ _Generated 2026-09-13_
 - L3Harris Technologies — Electrical Engineer Intern - Spring 2027
 - L3Harris Technologies — Electrical Engineering Intern - EGSE Design
 - L3Harris Technologies — Security Research Engineer Intern
-- L3Harris Technologies — Software Engineer Intern
-- L3Harris Technologies — Software Engineer Intern
-- L3Harris Technologies — Software Engineer Intern
 - L3Harris Technologies — Software Engineer Intern
 - L3Harris Technologies — Software Engineer Intern
 - L3Harris Technologies — Software Engineer Intern
@@ -752,7 +752,6 @@ _Generated 2026-09-13_
 - The Walt Disney Company — Environmental Sustainability Data Analytics Intern - Spring 2027
 - The Walt Disney Company — Figure Programming Intern
 - The Walt Disney Company — Figure Programming Intern
-- The Walt Disney Company — Geographic Information Systems Intern - GIS
 - The Walt Disney Company — Industrial Engineer Intern - Workforce Management
 - The Walt Disney Company — Insights and Analytics Intern - ABC News
 - The Walt Disney Company — Insights and Analytics Intern - Spring 2027
