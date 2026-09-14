@@ -7,14 +7,14 @@
   },
   "role": "Software Engineer Intern - Summer 2027",
   "category": "software-engineering",
-  "apply_url": "https://careers.principal.com/jobs/52513?icims=1",
+  "apply_url": "https://careers.principal.com/jobs/52512?icims=1",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Charlotte",
-      "state": "NC",
+      "city": "Des Moines",
+      "state": "IA",
       "country": "USA"
     }
   ],
@@ -40,11 +40,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-04",
+    "posted": "2026-09-14",
     "discovered": "2026-09-04",
-    "last_verified": "2026-09-11"
+    "last_verified": "2026-09-14"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

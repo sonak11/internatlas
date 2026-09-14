@@ -12,8 +12,8 @@ _Generated 2026-09-14_
 | TikTok | 167 |
 | RTX | 108 |
 | ByteDance | 69 |
+| American Express | 68 |
 | AMD | 66 |
-| American Express | 62 |
 | Qorvo | 53 |
 | Jump Trading | 49 |
 | Royal Bank of Canada | 48 |
@@ -27,48 +27,48 @@ _Generated 2026-09-14_
 | Zipline | 33 |
 | Cloudflare | 32 |
 | Goldman Sachs | 32 |
-| The Walt Disney Company | 31 |
+| Robinhood | 32 |
 
 ## Listings by category
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 2575 | `███████████████` |
-| ai | 339 | `██` |
-| quant | 278 | `██` |
+| software-engineering | 2612 | `███████████████` |
+| ai | 342 | `██` |
+| quant | 279 | `██` |
 | machine-learning | 199 | `█` |
-| hardware | 170 | `█` |
-| data-science | 152 | `█` |
+| hardware | 171 | `█` |
+| data-science | 154 | `█` |
 | research | 143 | `█` |
-| product | 133 | `█` |
-| design | 112 | `█` |
+| product | 136 | `█` |
+| design | 116 | `█` |
 | embedded | 101 | `█` |
-| data-engineering | 81 | `█` |
+| data-engineering | 82 | `█` |
 | cloud | 55 | `█` |
 | security | 19 | `█` |
 
 ## Newest listings
 
+- 2026-09-14 — **American Express**: [AI Engineer Intern](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013758)
+- 2026-09-14 — **American Express**: [AI Engineer Intern - Undergraduate](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013756)
+- 2026-09-14 — **American Express**: [Product Manager Intern - Undergraduate](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013766)
+- 2026-09-14 — **American Express**: [Product Manager Intern - Undergraduate](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013764)
+- 2026-09-14 — **American Express**: [Software Engineer Intern - Undergraduate](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013771)
+- 2026-09-14 — **American Express**: [Software Engineer Intern - Undergraduate](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013769)
 - 2026-09-14 — **Boston Scientific**: [Software Engineer Intern - Interns/Graduates](https://bostonscientific.eightfold.ai/careers/job/563602813549535)
-- 2026-09-14 — **Guardian Life**: [Application Development Intern - Digital & Technology](https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/New-York/XMLNAME-2027-Guardian-Summer-Intern--Digital---Technology---Application-Development_R000110209)
-- 2026-09-14 — **Guardian Life**: [Data Engineering Intern - Digital & Technology](https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/New-York/XMLNAME-2027-Guardian-Summer-Intern--Digital---Technology---Data-Engineering_R000110202)
-- 2026-09-14 — **Guardian Life**: [Summer Intern - Digital & Technology - AI & Machine Learning](https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/New-York/XMLNAME-2027-Guardian-Summer-Intern--Digital---Technology---AI---Machine-Learning_R000110205)
-- 2026-09-14 — **Interstates**: [Data Analyst Intern](https://www.interstates.com/careers/jobs?gh_jid=4056077009&gh_jid=4056077009)
-- 2026-09-14 — **Philips**: [Software Engineer Intern](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Plymouth-Minnesota-United-States/Intern---Software-Engineering---Plymouth--MN---Summer-2027_590403)
-- 2026-09-14 — **Robinhood**: [Accounting Intern (Summer 2027)](https://boards.greenhouse.io/robinhood/jobs/8198153?t=gh_src%3D&gh_jid=8198153)
-- 2026-09-14 — **Robinhood**: [Brokerage Operations Intern (Summer 2027)](https://boards.greenhouse.io/robinhood/jobs/8198198?t=gh_src%3D&gh_jid=8198198)
-- 2026-09-14 — **Robinhood**: [Brokerage Risk Analyst Intern (Summer 2027)](https://boards.greenhouse.io/robinhood/jobs/8198223?t=gh_src%3D&gh_jid=8198223)
-- 2026-09-14 — **Robinhood**: [Business Analyst Intern (Summer 2027)](https://boards.greenhouse.io/robinhood/jobs/8123238?t=gh_src%3D&gh_jid=8123238)
-- 2026-09-14 — **Robinhood**: [Crypto Operations Intern (Summer 2027)](https://boards.greenhouse.io/robinhood/jobs/8193484?t=gh_src%3D&gh_jid=8193484)
-- 2026-09-14 — **Robinhood**: [Crypto Partnership Intern (Summer 2027)](https://boards.greenhouse.io/robinhood/jobs/8193710?t=gh_src%3D&gh_jid=8193710)
-- 2026-09-14 — **Robinhood**: [Fraud Operations Intern (Summer 2027)](https://boards.greenhouse.io/robinhood/jobs/8198241?t=gh_src%3D&gh_jid=8198241)
-- 2026-09-14 — **Robinhood**: [Futures & Prediction Market Operations Intern (Summer 2027)](https://boards.greenhouse.io/robinhood/jobs/8187309?t=gh_src%3D&gh_jid=8187309)
-- 2026-09-14 — **Robinhood**: [Growth Marketing Intern (Summer 2027)](https://boards.greenhouse.io/robinhood/jobs/8192367?t=gh_src%3D&gh_jid=8192367)
-- 2026-09-14 — **Robinhood**: [Investment Analyst Intern (Summer 2027)](https://boards.greenhouse.io/robinhood/jobs/8198187?t=gh_src%3D&gh_jid=8198187)
-- 2026-09-14 — **Robinhood**: [People Partner Intern (Summer 2027)](https://boards.greenhouse.io/robinhood/jobs/8197614?t=gh_src%3D&gh_jid=8197614)
-- 2026-09-14 — **Robinhood**: [PeopleX Insights & Analytics Intern (Summer 2027)](https://boards.greenhouse.io/robinhood/jobs/8198255?t=gh_src%3D&gh_jid=8198255)
-- 2026-09-14 — **Robinhood**: [Software Developer Intern, Backend (Summer 2027)](https://boards.greenhouse.io/robinhood/jobs/8142930?t=gh_src%3D&gh_jid=8142930)
-- 2026-09-14 — **Robinhood**: [Software Developer Intern/Co-op, Backend (Winter 2027)](https://boards.greenhouse.io/robinhood/jobs/8194428?t=gh_src%3D&gh_jid=8194428)
+- 2026-09-14 — **Ciena**: [Software Engineering Intern - Optical Transport and IP Networking](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Engineering--Optical-Transport-and-IP-Networking-Intern_R031631)
+- 2026-09-14 — **Cleveland-Cliffs**: [Computer Science Engineer Intern](https://aksteel.wd1.myworkdayjobs.com/careers/job/Rockport-Works/Computer-Science-Engineering-Intern_R13553)
+- 2026-09-14 — **CoStar Group**: [Technology Intern](https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/US-VA-Arlington/Technology-Intern---Arlington--VA--Summer-2027-_R39666)
+- 2026-09-14 — **CoStar Group**: [Technology Intern - Multiple Teams](https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/US-TN-Nashville/Technology-Intern---Nashville--TN--Summer-2027-_R39670)
+- 2026-09-14 — **CoStar Group**: [Technology Intern - Summer 2027](https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/US-VA-Richmond---CoStar-Tower/Technology-Intern---Richmond--VA--Summer-2027-_R39665)
+- 2026-09-14 — **Dell Technologies**: [Hardware Engineering Intern - Infrastructure Solutions Group](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/297770)
+- 2026-09-14 — **Dell Technologies**: [Software Engineering Intern](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/297773)
+- 2026-09-14 — **Figma**: [Brand Design Intern (Summer 2027)](https://boards.greenhouse.io/figma/jobs/6144755004?gh_jid=6144755004)
+- 2026-09-14 — **Figma**: [Data Science Intern (2027)](https://boards.greenhouse.io/figma/jobs/6178857004?gh_jid=6178857004)
+- 2026-09-14 — **Figma**: [Product Design Intern (2027)](https://boards.greenhouse.io/figma/jobs/6180005004?gh_jid=6180005004)
+- 2026-09-14 — **Figma**: [Software Engineer Intern (London, United Kingdom) (Summer 2027)](https://boards.greenhouse.io/figma/jobs/6152695004?gh_jid=6152695004)
+- 2026-09-14 — **Figma**: [Software Engineer Intern (Summer 2027)](https://boards.greenhouse.io/figma/jobs/6143238004?gh_jid=6143238004)
+- 2026-09-14 — **FNBO**: [Technology Intern](https://firstnational.wd12.myworkdayjobs.com/fnbocareers/job/Omaha---FN-Tower/Summer-2027---Technology-Intern_R-20261653)
 
 ## Recently closed
 
@@ -220,7 +220,6 @@ _Generated 2026-09-14_
 - Compeer Financial — New Markets Intern
 - Continental Resources — Geoscience Intern
 - Copart — AI Engineer Intern
-- Copart — Software Engineer Intern
 - Corning — Digital & IT Intern - Analyst - Machine Learning
 - Corning — Optical Fiber and Cable Engineer Intern - Summer 2027
 - Corning — Raw Material Engineering Intern - Summer 2027
@@ -241,7 +240,6 @@ _Generated 2026-09-14_
 - Dick's Sporting Goods — Data Analytics & Engineering Intern
 - DiDi Global — Motion Planning Engineer Intern - PhD
 - Dimensional Fund Advisors — Global Client Group Operations Insights Intern - Undergraduate & Master's
-- DoorDash — Product Design, Intern (Summer 2027)
 - DoorDash — Product Designer, Intern (Summer 2027)
 - DTCC — Product Management Intern - 2027 Internship Program
 - DV Trading — Trading Intern - Summer 2027 - DV Commodities
@@ -259,6 +257,7 @@ _Generated 2026-09-14_
 - Eudia — Product Intern
 - Eversource Energy — Asset Management Technology Engineer Intern - Fall 2026
 - Excellus BCBS — Community Impact Intern
+- Excellus BCBS — Software Engineering Intern - Multiple Openings
 - Fab2 — Packaging Engineer Intern - Winter
 - Fannie Mae — Business Analysis Associate Intern - Access Management
 - Fannie Mae — Business Analysis Associate Intern - Access Management
@@ -302,7 +301,6 @@ _Generated 2026-09-14_
 - GlossGenius — Engineering Intern
 - GlossGenius — Engineering Intern - Summer 2027
 - Goldman Sachs — Associate Intern - The Core Quantitative Strats
-- Goldman Sachs — AWM Product Management Analyst Intern
 - Goldman Sachs — Quantitative Strategist Associate Intern - Asset and Wealth Management
 - Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
 - Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
@@ -363,6 +361,7 @@ _Generated 2026-09-14_
 - Hypercubic — Software Engineering Intern
 - HyperLight — Integrated Photonics Intern
 - Iberdrola Group — Technology – Cyber & Data Intern
+- ICF International — Software Developer Intern
 - iHeartMedia — Research Intern
 - IMEG — Electrical Engineer Intern
 - IMEG — Electrical Engineer Intern
@@ -530,6 +529,7 @@ _Generated 2026-09-14_
 - Nokia — Tools and Automation Software Developer Co-op/Intern
 - Nokia — Web Developer Co-op Intern
 - Nokia — Web Developer Co-op Intern - Intern
+- North Atlantic Industries — Electrical Engineer Intern - Test Systems
 - Northrop Grumman — Data Analytics Intern
 - Northrop Grumman — Software Engineer Intern
 - Northrop Grumman — Software Engineer Intern
@@ -572,6 +572,7 @@ _Generated 2026-09-14_
 - PayPal — Software Engineer Intern
 - Pella — Product Engineer Intern - Summer 2027
 - Pella — Product Engineer Intern - Summer 2027
+- PennState University — Research and Development Engineering Intern
 - Pennsylvania State University — Research and Development Engineer Intern
 - PGIM — Product and Institutional Client Intern - Multiple Teams
 - PGIM — Public Credit Summer Investment Analyst Intern - Portfolio Analysis Group
@@ -593,7 +594,6 @@ _Generated 2026-09-14_
 - PricewaterhouseCoopers (PwC) — Digital Assurance & Transparency Intern - Multiple Teams
 - PricewaterhouseCoopers (PwC) — Geographic Information Systems Intern
 - PricewaterhouseCoopers (PwC) — Summer Intern - SAP
-- Principal Financial Group — Software Engineer Intern - Summer 2027
 - Procter & Gamble — IT Project & Product Manager Intern
 - Procter & Gamble — Research & Development Scientist/Engineer Intern - Freshmen, Sophomores, And Juniors
 - ProNexus — Software Engineer Intern
@@ -666,6 +666,7 @@ _Generated 2026-09-14_
 - RTX — Software Engineer Intern - Summer 2027
 - RTX — Software Engineer Intern - Summer 2027
 - RTX — Software Engineer Intern - Summer 2027
+- RTX — Software Engineer Intern - Summer/Fall 2027 - Mission Engineering / Operational Analysis
 - RTX — Spectrum Dominance Intern
 - RTX — Systems Engineer 1 Intern - Intern Conversion
 - RTX — Systems Engineering Intern
@@ -678,6 +679,7 @@ _Generated 2026-09-14_
 - Schweitzer Engineering Laboratories — Test Engineer Intern
 - SciTec — Intern - Multiple Teams
 - Sensata — Electrical Engineer Intern
+- Sierra — Agent Development Intern
 - Skydio — Product Management Intern
 - Solid Power — Product Engineer Intern
 - Solid Power — R&D Intern - Catholyte
