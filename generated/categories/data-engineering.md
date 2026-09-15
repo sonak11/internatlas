@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🛠 Data Engineering Internships
 
-**82** tracked · **70** open now
+**83** tracked · **70** open now
 
 ## Current openings
 
@@ -17,7 +17,6 @@
 | [American Express](generated/companies/american-express.md) | [Data Engineer Intern - Enterprise Technology Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011828) | Charlotte, NC | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
 | [Amgen](generated/companies/amgen.md) | [Data Engineer Intern](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Data-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255742) | Remote | Remote | 2026-09-11 | Rolling | 🟢 Open | ❔ |
 | [Amgen](generated/companies/amgen.md) | [Data Engineer Intern - Technology & Medical Organizations](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Undergrad-Intern---Data-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255708) | Remote | Remote | 2026-09-11 | Rolling | 🟢 Open | ❔ |
-| [Amgen](generated/companies/amgen.md) | [Data Engineer Intern - Technology & Medical Organizations](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Data-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255725) | Remote | Remote | 2026-09-11 | Rolling | 🟢 Open | ❔ |
 | [Auto-Owners Insurance](generated/companies/auto-owners-insurance.md) | [Data Engineering Intern - Summer 2027](https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Data-Engineering-Internship---Summer-2026_R_12318) | Lansing, MI | Onsite | 2026-08-26 | Rolling | 🟢 Open | ❔ |
 | [Capital One](generated/companies/capital-one.md) | [Data Analytics Engineering Intern](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Data-Analytics-Engineering---Winter-2027_R999617-1) | Toronto | Onsite | 2026-09-08 | Rolling | 🟢 Open | ❔ |
 | [Castleton Commodities International](generated/companies/castleton-commodities-international.md) | [Data Engineering Intern](https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Stamford-CT/Data-Engineering-Internship--Summer-2027-_R1346) | Stamford, CT +2 | Onsite | 2026-07-31 | Rolling | 🟢 Open | ❔ |
@@ -31,19 +30,20 @@
 | [Copart](generated/companies/copart.md) | [Data Engineer Intern](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Data-Engineering-Intern_JR110617) | Dallas, TX | Onsite | 2026-08-19 | Rolling | 🟢 Open | ❔ |
 | [Devon Energy](generated/companies/devon-energy.md) | [Technology Intern - Data Engineering](https://wd5.myworkdaysite.com/en-US/recruiting/devonenergy/Careers/job/Oklahoma-City-OK/Technology-Summer-Intern-2027_R26264-1) | Houston, TX +1 | Onsite | 2026-08-20 | Rolling | 🟢 Open | ❔ |
 | [Edison International](generated/companies/edison-international.md) | [Software/Data Engineering Intern](https://apply.edisoncareers.com/job/Chino-2027-Summer-Internship-SoftwareData-Engineering-(Chino)-CA-91710/1424663800/?ats=successfactors) | Chino, CA | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
+| [Ernst & Young](generated/companies/ernst-young.md) | [Data Engineer Intern - Multiple Teams](https://eyglobal.yello.co/jobs/nuM1c7MBNjknCC8oSMvZMg?job_board_id=c1riT--B2O-KySgYWsZO1Q) | Chicago, IL +1 | Onsite | 2026-09-14 | Rolling | 🟢 Open | ❔ |
 | [First National Bank](generated/companies/first-national-bank.md) | [Data Engineer Intern](https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Hermitage-PA/Summer-2027-Data-Engineering-Intern_2026-01714) | Pittsburgh, PA +1 | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
 | [First National Bank](generated/companies/first-national-bank.md) | [Data Engineering Intern](https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Hermitage-PA/Summer-2027-Data-Engineering-Intern_2026-01713) | Pittsburgh, PA +1 | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
 | [First National Bank](generated/companies/first-national-bank.md) | [Data Engineering Intern](https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Hermitage-PA/Summer-2027-Data-Engineering-Intern_2026-01712) | Pittsburgh, PA +1 | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
 | [Gallup](generated/companies/gallup.md) | [Data Engineering Intern](https://job-boards.greenhouse.io/gallup/jobs/4395454009) | Omaha, NE | Onsite | 2026-09-09 | Rolling | 🟢 Open | ❔ |
 | [Guardian Life](generated/companies/guardian-life.md) | [Data Engineering Intern - Digital & Technology](https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/New-York/XMLNAME-2027-Guardian-Summer-Intern--Digital---Technology---Data-Engineering_R000110202) | Holmdel, NJ +2 | Onsite | 2026-09-14 | Rolling | 🟢 Open | ❔ |
 | [Hone Health](generated/companies/hone-health.md) | [Data Engineering Intern](https://job-boards.greenhouse.io/honehealth/jobs/5308958008) | Remote | Remote | 2026-07-08 | Rolling | 🟢 Open | ❔ |
+| [ibotta](generated/companies/ibotta.md) | [Data Engineer Intern](https://jobs.ashbyhq.com/ibotta/666cac72-9e06-46ee-aea0-576f766338b2/application?embed=true) | Denver, CO | Onsite | 2026-09-14 | Rolling | 🟢 Open | ❔ |
 | [Intact](generated/companies/intact.md) | [Data Engineering Developer Intern Co-op - Winter 2027](https://intactfc.wd3.myworkdayjobs.com/en-US/intactfc/job/Montral-Quebec-CAN/Data-Engineering-Developer-I---4-Month-Internship-Co-op--Winter-2027--_R155204) | Montreal | Onsite | 2026-09-09 | Rolling | 🟢 Open | ❔ |
 | [Intelcom \| Dragonfly](generated/companies/intelcom-dragonfly.md) | [Data Engineer Intern](https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Data-Engineering-Intern_JR111567) | Montreal | Onsite | 2026-08-31 | Rolling | 🟢 Open | ❔ |
 | [Jane Street](generated/companies/jane-street.md) | [Data Engineer Intern](https://www.janestreet.com/join-jane-street/position/8631973002/) | New York, NY | Onsite | 2026-07-24 | Rolling | 🟢 Open | ✅ |
 | [Jump Trading](generated/companies/jump-trading.md) | [Campus Data Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8002998) | Chicago | Onsite | 2026-07-08 | Rolling | 🟢 Open | ❔ |
 | [Jump Trading](generated/companies/jump-trading.md) | [Campus Data Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7975008) | London | Onsite | 2026-07-13 | Rolling | 🟢 Open | ❔ |
 | [Kodiak Robotics](generated/companies/kodiak-robotics.md) | [Data Engineering Intern](https://job-boards.greenhouse.io/kodiak/jobs/4396622009) | Mountain View, CA | Onsite | 2026-09-04 | Rolling | 🟢 Open | ❔ |
-| [Leidos](generated/companies/leidos.md) | [Data Engineering & Analytics Intern](https://leidos.wd5.myworkdayjobs.com/External/job/Shiloh-IL/Data-Engineering---Analytics-Intern_R-00190672-1) | Shiloh, IL | Onsite | 2026-08-27 | Rolling | 🟢 Open | ❔ |
 | [LPL Financial Holdings](generated/companies/lpl-financial-holdings.md) | [Data Engineer Intern - Data](https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/Summer-Intern-2027---Data_R-052914) | Austin, TX +2 | Onsite | 2026-08-10 | Rolling | 🟢 Open | ❔ |
 | [Lyft](generated/companies/lyft.md) | [Data Engineer Intern](https://app.careerpuck.com/job-board/lyft/job/8797376002?gh_jid=8797376002) | Toronto | Onsite | 2026-09-11 | Rolling | 🟢 Open | ❔ |
 | [Marmon Holdings](generated/companies/marmon-holdings.md) | [Data Engineering Intern Co-op](https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Milwaukee-WI/Data-Engineering-Intern-OR-Student-Co-Op_JR0000037453-1) | Milwaukee, WI | Onsite | 2026-05-16 | Rolling | 🟢 Open | ❔ |
@@ -81,6 +81,7 @@
 | [Artisan Partners](generated/companies/artisan-partners.md) | [Data Engineer Intern - Platform & Product](https://www.artisanpartners.com/careers/career-opportunities.html?gh_jid=8132641) | Milwaukee, WI | Onsite | 2026-08-17 | Rolling | 🔴 Closed | ❔ |
 | [Charles Schwab](generated/companies/charles-schwab.md) | [Data Engineering Intern - Data Engineering](https://career-schwab.icims.com/jobs/126227/job?mobile=true&needsRedirect=false) | Austin, TX +2 | Onsite | 2026-08-29 | Rolling | 🔴 Closed | ❔ |
 | [East Penn Manufacturing Company](generated/companies/east-penn-manufacturing-company.md) | [Data Engineer Intern](https://careers-eastpennmanufacturing.icims.com/jobs/30007/job?mobile=true&needsRedirect=false) | Ann Arbor, MI | Onsite | 2026-07-27 | Rolling | 🔴 Closed | ❔ |
+| [Leidos](generated/companies/leidos.md) | [Data Engineering & Analytics Intern](https://leidos.wd5.myworkdayjobs.com/External/job/Shiloh-IL/Data-Engineering---Analytics-Intern_R-00190672-1) | Shiloh, IL | Onsite | 2026-08-27 | Rolling | 🔴 Closed | ❔ |
 | [Mackenzie Investments](generated/companies/mackenzie-investments.md) | [Data Engineering Intern](https://careersen-mackenzieinvestments.icims.com/jobs/5983/job?mobile=true&needsRedirect=false) | Toronto | Onsite | 2026-08-24 | Rolling | 🔴 Closed | ❔ |
 | [National Information Solutions Cooperative](generated/companies/national-information-solutions-cooperative.md) | [Data Engineer Intern](https://job-boards.greenhouse.io/testnisc/jobs/8167886) | Mandan, ND | Onsite | 2026-09-03 | Rolling | 🔴 Closed | ❔ |
 | [Navy Federal](generated/companies/navy-federal.md) | [Data Engineering Intern](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/29792) | Vienna, VA | Onsite | 2026-08-12 | Rolling | 🔴 Closed | ❔ |
@@ -97,10 +98,10 @@
 - Tesla (5)
 - Coinbase (4)
 - National Information Solutions Cooperative (4)
-- Amgen (3)
 - First National Bank (3)
 - Navy Federal (3)
 - TikTok (3)
+- Amgen (2)
 - Jump Trading (2)
 - Marmon Holdings (2)
 - Shure (2)
@@ -116,14 +117,15 @@
 - Copart (1)
 - Devon Energy (1)
 - Edison International (1)
+- Ernst & Young (1)
 - Gallup (1)
 - Guardian Life (1)
 - Hone Health (1)
+- ibotta (1)
 - Intact (1)
 - Intelcom | Dragonfly (1)
 - Jane Street (1)
 - Kodiak Robotics (1)
-- Leidos (1)
 - LPL Financial Holdings (1)
 - Lyft (1)
 - Mastercard (1)
@@ -143,6 +145,7 @@
 - Artisan Partners (1)
 - Charles Schwab (1)
 - East Penn Manufacturing Company (1)
+- Leidos (1)
 - Mackenzie Investments (1)
 - Panasonic Holdings (1)
 - QuEra Computing (1)

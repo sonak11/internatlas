@@ -6,6 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
+| Oshkosh | [Advanced Analytics Intern](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Frederick-Maryland-United-States/Summer-2027-Advanced-Analytics-Intern_R49541) | Frederick, MD | Onsite | 2026-09-14 | Rolling | 🟢 Open | ❔ |
 | Oshkosh | [AI Engineer Intern](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Oshkosh-Wisconsin-United-States/AI-Intern_R50265) | Oshkosh, WI | Onsite | 2026-09-11 | Rolling | 🟢 Open | ❔ |
 | Oshkosh | [Autonomy & Active Safety Engineer Intern](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Pittsburgh-Pennsylvania-United-States/Autonomy---Active-Safety-Engineering-Intern_R50266) | Oshkosh, WI +1 | Onsite | 2026-09-11 | Rolling | 🟢 Open | ❔ |
 | Oshkosh | [Autonomy Engineering Intern - Summer 2027](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/New-Hudson-Michigan-United-States/Autonomy-Intern---Summer-2027_R50320) | New Hudson, MI | Onsite | 2026-09-14 | Rolling | 🟢 Open | ❔ |

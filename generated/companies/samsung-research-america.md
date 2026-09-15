@@ -8,6 +8,7 @@
 |---|---|---|---|---|---|---|---|
 | Samsung Research America | [Digital Health Algorithms Intern](https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8678880002) | Mountain View, CA | Onsite | 2026-08-06 | Rolling | 🟢 Open | ❔ |
 | Samsung Research America | [Memory and Personalization Intern - Memory and Personalization](https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8438402002) | Mountain View, CA | Onsite | 2026-02-27 | Rolling | 🟢 Open | ❔ |
+| Samsung Research America | [SoC Modeling Intern - SOC Modeling](https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8806469002) | Mountain View, CA | Onsite | 2026-09-14 | Rolling | 🟢 Open | ❔ |
 | Samsung Research America | [Computer Vision/AI Intern - Computer Vision/AI](https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8560657002) | Mountain View, CA | Onsite | 2026-05-27 | Rolling | 🔴 Closed | ❔ |
 | Samsung Research America | [ML/NLP Research Intern](https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8541339002) | Mountain View, CA | Onsite | 2026-05-08 | Rolling | 🔴 Closed | ❔ |
 

@@ -8,9 +8,10 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
-| DoorDash | [Product Design, Intern (Summer 2027)](https://job-boards.greenhouse.io/doordashusa/jobs/8176863) | San Francisco, CA | Onsite | 2026-09-03 | Rolling | 🔴 Closed | ❔ |
+| DoorDash | [Product Design, Intern (Summer 2027)](https://job-boards.greenhouse.io/doordashusa/jobs/8176863) | San Francisco, CA | Onsite | 2026-09-03 | Rolling | 🟢 Open | ❔ |
+| DoorDash | [Software Engineer, Intern (Summer 2027) - US](https://job-boards.greenhouse.io/doordashusa/jobs/8171041) | New York, NY | Onsite | 2026-09-14 | Rolling | 🟢 Open | ❔ |
 | DoorDash | [Product Designer, Intern (Summer 2027)](https://job-boards.greenhouse.io/doordashusa/jobs/8187876) | San Francisco, CA | Onsite | 2026-09-09 | Rolling | 🔴 Closed | ❔ |
 
 ## Related
 
-Browse more roles in: [🎨 Design](../categories/design.md)
+Browse more roles in: [🎨 Design](../categories/design.md), [💻 Software Engineering](../categories/software-engineering.md)

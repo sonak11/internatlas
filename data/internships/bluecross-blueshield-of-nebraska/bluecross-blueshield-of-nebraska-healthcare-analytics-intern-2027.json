@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "rtx-software-engineering-intern-2027-1fe175",
+  "id": "bluecross-blueshield-of-nebraska-healthcare-analytics-intern-2027",
   "company": {
-    "name": "RTX",
-    "slug": "rtx"
+    "name": "BlueCross BlueShield of Nebraska",
+    "slug": "bluecross-blueshield-of-nebraska"
   },
-  "role": "Software Engineering Intern",
+  "role": "Healthcare Analytics Intern",
   "category": "software-engineering",
-  "apply_url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MN-BURNSVILLE-WEST--14300-Judicial-Rd--WEST-BLDG/Software-Engineering-Intern--Summer-2027-_01872977",
+  "apply_url": "https://nebraskablue.wd1.myworkdayjobs.com/BCBSNE/job/Omaha-NE/Healthcare-Analytics-Intern--Starts-Summer-2027_JR101437",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Burnsville",
-      "state": "MN",
+      "city": "Omaha",
+      "state": "NE",
       "country": "USA"
     }
   ],
@@ -42,9 +42,9 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-10",
-    "discovered": "2026-09-10",
-    "last_verified": "2026-09-14"
+    "posted": "2026-09-14",
+    "discovered": "2026-09-15",
+    "last_verified": "2026-09-15"
   },
   "status": "open",
   "tags": [

@@ -1,0 +1,54 @@
+{
+  "schema_version": "1.0",
+  "id": "atkinsr-alis-data-scientist-intern-summer-2027-2027",
+  "company": {
+    "name": "AtkinsRéalis",
+    "slug": "atkinsr-alis"
+  },
+  "role": "Data Scientist Intern - Summer 2027",
+  "category": "data-science",
+  "apply_url": "https://slihrms.wd3.myworkdayjobs.com/careers/job/USAZTempe/Data-Scientist-Intern---Summer-2027_R-161183-1",
+  "season": "summer",
+  "year": 2027,
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "Tempe",
+      "state": "AZ",
+      "country": "USA"
+    }
+  ],
+  "compensation": {
+    "currency": "USD",
+    "housing_stipend": false,
+    "relocation_assistance": false
+  },
+  "eligibility": {
+    "graduation_years": [],
+    "degree_levels": [
+      "masters"
+    ],
+    "citizenship_required": false,
+    "security_clearance_required": false,
+    "visa_sponsorship": "unknown"
+  },
+  "interview": {},
+  "tech": {
+    "required_skills": [],
+    "preferred_skills": [],
+    "languages": [],
+    "frameworks": [],
+    "cloud_platforms": [],
+    "resume_keywords": []
+  },
+  "dates": {
+    "posted": "2026-09-14",
+    "discovered": "2026-09-15",
+    "last_verified": "2026-09-15"
+  },
+  "status": "open",
+  "tags": [
+    "auto-ingested",
+    "src:simplify"
+  ]
+}

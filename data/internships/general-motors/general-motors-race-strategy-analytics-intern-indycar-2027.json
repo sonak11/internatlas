@@ -1,17 +1,23 @@
 {
   "schema_version": "1.0",
-  "id": "amgen-data-engineer-intern-technology-medical-organizations-2027-38ec78",
+  "id": "general-motors-race-strategy-analytics-intern-indycar-2027",
   "company": {
-    "name": "Amgen",
-    "slug": "amgen"
+    "name": "General Motors",
+    "slug": "general-motors"
   },
-  "role": "Data Engineer Intern - Technology & Medical Organizations",
-  "category": "data-engineering",
-  "apply_url": "https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Undergrad-Intern---Data-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255708",
+  "role": "Race Strategy & Analytics Intern - IndyCar",
+  "category": "software-engineering",
+  "apply_url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Concord-North-Carolina-United-States-of-America/XMLNAME-2027-Summer-Intern---IndyCar-Race-Strategy---Analytics_JR-202619990",
   "season": "summer",
   "year": 2027,
-  "work_mode": "remote",
-  "locations": [],
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "Concord",
+      "state": "NC",
+      "country": "USA"
+    }
+  ],
   "compensation": {
     "currency": "USD",
     "housing_stipend": false,
@@ -34,9 +40,9 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-11",
-    "discovered": "2026-09-11",
-    "last_verified": "2026-09-14"
+    "posted": "2026-09-14",
+    "discovered": "2026-09-15",
+    "last_verified": "2026-09-15"
   },
   "status": "open",
   "tags": [

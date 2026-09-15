@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 📊 Data Science Internships
 
-**160** tracked · **132** open now
+**161** tracked · **132** open now
 
 ## Current openings
 
@@ -19,6 +19,7 @@
 | [Amgen](generated/companies/amgen.md) | [Data Scientist Intern](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Undergrad-Intern---Data-Scientist---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255704) | Remote | Remote | 2026-09-11 | Rolling | 🟢 Open | ❔ |
 | [Amgen](generated/companies/amgen.md) | [Data Scientist Intern - Amgen’s Technology & Medical Organizations](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Data-Scientist---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255722) | Remote | Remote | 2026-09-11 | Rolling | 🟢 Open | ❔ |
 | [Ardian](generated/companies/ardian.md) | [Data Scientist Intern](https://ardian.wd103.myworkdayjobs.com/ArdianCareers/job/New-York/Data-Scientist-Intern_JR1001434) | NYC | Onsite | 2026-05-16 | Rolling | 🟢 Open | ❔ |
+| [AtkinsRéalis](generated/companies/atkinsr-alis.md) | [Data Scientist Intern - Summer 2027](https://slihrms.wd3.myworkdayjobs.com/careers/job/USAZTempe/Data-Scientist-Intern---Summer-2027_R-161183-1) | Tempe, AZ | Onsite | 2026-09-14 | Rolling | 🟢 Open | ❔ |
 | [Bank of Montreal](generated/companies/bank-of-montreal.md) | [Data Science Risk Analyst Co-op Intern](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Data-Science-Risk-Analyst--Winter-2027--Co-op-Internship----4-Months_R260024735) | Toronto | Onsite | 2026-08-21 | Rolling | 🟢 Open | ❔ |
 | [Bank of Montreal](generated/companies/bank-of-montreal.md) | [Data Science Risk Analyst Co-op Intern](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Data-Science-Risk-Analyst--Winter-2027--Co-op-Internship----4-Months_R260024735-1) | Toronto | Onsite | 2026-09-07 | Rolling | 🟢 Open | ❔ |
 | [Bank of Montreal](generated/companies/bank-of-montreal.md) | [Data Science Risk Analyst Co-op Intern](https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Data-Science-Risk-Analyst--Winter-2027--Co-op-Internship----4-Months_R260024735-2) | Toronto | Onsite | 2026-09-07 | Rolling | 🟢 Open | ❔ |
@@ -114,7 +115,6 @@
 | [Royal Bank of Canada](generated/companies/royal-bank-of-canada.md) | [Data Scientist Intern - Ecco](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---ECCO--Data-Scientist-Intern--4-Months-_R-0000185186) | Toronto | Onsite | 2026-08-26 | Rolling | 🟢 Open | ❔ |
 | [Royal Bank of Canada](generated/companies/royal-bank-of-canada.md) | [Data Scientist Intern - Group Risk Management](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--Data-Scientist-Intern--8-Months-_R-0000184624) | Toronto | Onsite | 2026-08-18 | Rolling | 🟢 Open | ❔ |
 | [Royal Bank of Canada](generated/companies/royal-bank-of-canada.md) | [Data Scientist Intern - Group Risk Management](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--Data-Scientist-Intern--8-Months-_R-0000184624-1) | Toronto | Onsite | 2026-08-18 | Rolling | 🟢 Open | ❔ |
-| [RTX](generated/companies/rtx.md) | [Data Science and Advanced Analytics Intern](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Science-des-donnees-et-analytique-avancee---Internship---Winter-2027---Data-Science-and-Advanced-Analytics_01865000-1) | Longueuil | Onsite | 2026-09-08 | Rolling | 🟢 Open | ❔ |
 | [Schonfeld](generated/companies/schonfeld.md) | [Data Science Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8171692) | NYC | Onsite | 2026-09-04 | Rolling | 🟢 Open | ❔ |
 | [Securian Financial Group](generated/companies/securian-financial-group.md) | [Data Science and Advanced Analytics Intern - Multiple Teams](https://hq.wd12.myworkdayjobs.com/Securian_External/job/Saint-Paul-MN-Campus/Data-Science-and-Advanced-Analytics-Internship---Summer-2027_R-010894) | St Paul, MN | Onsite | 2026-09-10 | Rolling | 🟢 Open | ❔ |
 | [State Farm](generated/companies/state-farm.md) | [Data Science Intern - Magnet Program - Online MS Analytics](https://jobs.statefarm.com/jobs/46057?icims=1) | Athens, GA | Onsite | 2026-09-10 | Rolling | 🟢 Open | ❔ |
@@ -161,6 +161,7 @@
 | [Nextiva](generated/companies/nextiva.md) | [Marketing Intern - Data Science](https://www.nextiva.com/company/careers-listing?gh_jid=8687999002) | Scottsdale, AZ | Onsite | 2026-08-19 | Rolling | 🔴 Closed | ❔ |
 | [Nokia](generated/companies/nokia.md) | [Data Science Co-op/Intern](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34327) | Ottawa | Onsite | 2026-04-14 | Rolling | 🔴 Closed | ❔ |
 | [Red Bull](generated/companies/red-bull.md) | [Data Science Intern - Data Science](https://jobs.smartrecruiters.com/RedBull/744000139168339) | Morristown, NJ | Onsite | 2026-07-23 | Rolling | 🔴 Closed | ❔ |
+| [RTX](generated/companies/rtx.md) | [Data Science and Advanced Analytics Intern](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Science-des-donnees-et-analytique-avancee---Internship---Winter-2027---Data-Science-and-Advanced-Analytics_01865000-1) | Longueuil | Onsite | 2026-09-08 | Rolling | 🔴 Closed | ❔ |
 | [RTX](generated/companies/rtx.md) | [Data Science and Advanced Analytics Intern - Data Science and Advanced Analytics](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Science-des-donnees-et-analytique-avancee---Internship---Winter-2027---Data-Science-and-Advanced-Analytics_01865000) | Longueuil | Onsite | 2026-08-24 | Rolling | 🔴 Closed | ❔ |
 | [SOTI](generated/companies/soti.md) | [Data Scientist Intern](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Data-Scientist--Intern--September-2026-12-Months-_R10065) | Mississauga | Onsite | 2026-05-12 | Rolling | 🔴 Closed | ❔ |
 | [The Walt Disney Company](generated/companies/the-walt-disney-company.md) | [Commercial Data Science Intern](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Celebration-FL-USA/Commercial-Data-Science-Intern--Spring-2027_10158063) | Celebration, FL | Onsite | 2026-09-04 | Rolling | 🔴 Closed | ❔ |
@@ -197,19 +198,20 @@
 - Nokia (2)
 - Notion (2)
 - Procter & Gamble (2)
-- RTX (2)
 - The Home Depot (2)
 - The Nuclear Company (2)
 - TWG Global (2)
 - Vanguard (2)
 - Xcel Energy (2)
 - Boston Scientific (2)
+- RTX (2)
 - The Walt Disney Company (2)
 - AARP (1)
 - Acxiom (1)
 - AlixPartners (1)
 - Allied Solutions (1)
 - Ardian (1)
+- AtkinsRéalis (1)
 - BlueCross BlueShield of Nebraska (1)
 - C3.ai (1)
 - CACI (1)
