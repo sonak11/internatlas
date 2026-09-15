@@ -1,6 +1,6 @@
 {
   "generated": "2026-09-15",
-  "count": 4546,
+  "count": 4565,
   "internships": [
     {
       "schema_version": "1.0",
@@ -22474,7 +22474,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "autodesk-software-developer-intern-2027",
+      "id": "autodesk-software-developer-intern-2027-e6a0ac",
       "company": {
         "name": "Autodesk",
         "slug": "autodesk"
@@ -22514,6 +22514,57 @@
       },
       "dates": {
         "posted": "2026-08-11",
+        "discovered": "2026-09-15",
+        "last_verified": "2026-09-15"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "autodesk-software-developer-intern-2027",
+      "company": {
+        "name": "Autodesk",
+        "slug": "autodesk"
+      },
+      "role": "Software Developer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Intern--Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD101101-2",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Montreal",
+          "country": "QC"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-15",
         "discovered": "2026-08-11",
         "last_verified": "2026-09-15"
       },
@@ -40936,6 +40987,57 @@
       "role": "Data Analyst Intern",
       "category": "software-engineering",
       "apply_url": "https://cai.wd5.myworkdayjobs.com/computer_aid/job/PA-CLIENT-STATE/Data-Analyst-Intern_R8452",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Pennsylvania",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-15",
+        "discovered": "2026-09-15",
+        "last_verified": "2026-09-15"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "cai-data-engineer-intern-2027",
+      "company": {
+        "name": "CAI",
+        "slug": "cai"
+      },
+      "role": "Data Engineer Intern",
+      "category": "data-engineering",
+      "apply_url": "https://cai.wd5.myworkdayjobs.com/computer_aid/job/PA-CLIENT-STATE/Data-Engineering-Intern_R8481",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
@@ -59810,6 +59912,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "datadog-research-science-intern-phd-2027",
+      "company": {
+        "name": "Datadog",
+        "slug": "datadog",
+        "career_page": "https://careers.datadoghq.com/"
+      },
+      "role": "Research Science Intern (PhD)",
+      "category": "research",
+      "apply_url": "https://careers.datadoghq.com/detail/8203657/?gh_jid=8203657",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "New York",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-15",
+        "discovered": "2026-09-15",
+        "last_verified": "2026-09-15"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "datadog-software-engineer-intern-summer-2027",
       "company": {
         "name": "Datadog",
@@ -65973,6 +66127,165 @@
     },
     {
       "schema_version": "1.0",
+      "id": "duolingo-associate-product-manager-intern-2027",
+      "company": {
+        "name": "Duolingo",
+        "slug": "duolingo",
+        "career_page": "https://careers.duolingo.com/"
+      },
+      "role": "Associate Product Manager, Intern",
+      "category": "product",
+      "apply_url": "https://careers.duolingo.com/jobs/8806187002?gh_jid=8806187002",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Pittsburgh",
+          "state": "PA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-15",
+        "discovered": "2026-09-15",
+        "last_verified": "2026-09-15"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "duolingo-software-engineer-intern-2027",
+      "company": {
+        "name": "Duolingo",
+        "slug": "duolingo",
+        "career_page": "https://careers.duolingo.com/"
+      },
+      "role": "Software Engineer, Intern",
+      "category": "software-engineering",
+      "apply_url": "https://careers.duolingo.com/jobs/8805925002?gh_jid=8805925002",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "New York",
+          "state": "NY",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-15",
+        "discovered": "2026-09-15",
+        "last_verified": "2026-09-15"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "duolingo-software-engineer-thrive-intern-2027",
+      "company": {
+        "name": "Duolingo",
+        "slug": "duolingo",
+        "career_page": "https://careers.duolingo.com/"
+      },
+      "role": "Software Engineer, Thrive Intern",
+      "category": "software-engineering",
+      "apply_url": "https://careers.duolingo.com/jobs/8806114002?gh_jid=8806114002",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Pittsburgh",
+          "state": "PA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-15",
+        "discovered": "2026-09-15",
+        "last_verified": "2026-09-15"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "duracell-electronics-tech-intern-2026",
       "company": {
         "name": "Duracell",
@@ -67674,6 +67987,57 @@
       "dates": {
         "posted": "2026-09-02",
         "discovered": "2026-07-17",
+        "last_verified": "2026-09-15"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "ekimetrics-data-science-marketing-effectiveness-intern-2027",
+      "company": {
+        "name": "Ekimetrics",
+        "slug": "ekimetrics"
+      },
+      "role": "Data Science & Marketing Effectiveness Intern",
+      "category": "data-science",
+      "apply_url": "https://jobs.lever.co/ekimetrics/8df1a768-c6b0-4082-9c41-b3171c0fb548/apply",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "London",
+          "country": "UK"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-15",
+        "discovered": "2026-09-15",
         "last_verified": "2026-09-15"
       },
       "status": "open",
@@ -76356,6 +76720,61 @@
     },
     {
       "schema_version": "1.0",
+      "id": "five-rings-capital-trading-operations-engineer-intern-2027",
+      "company": {
+        "name": "Five Rings Capital",
+        "slug": "five-rings-capital"
+      },
+      "role": "Trading Operations Engineer Intern",
+      "category": "quant",
+      "apply_url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5420708008",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "NYC",
+          "country": "USA"
+        },
+        {
+          "city": "New York",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-15",
+        "discovered": "2026-09-15",
+        "last_verified": "2026-09-15"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "flagright-product-operations-intern-2026",
       "company": {
         "name": "Flagright",
@@ -82766,6 +83185,168 @@
     },
     {
       "schema_version": "1.0",
+      "id": "general-dynamics-information-technology-software-development-intern-2027-232635",
+      "company": {
+        "name": "General Dynamics Information Technology",
+        "slug": "general-dynamics-information-technology"
+      },
+      "role": "Software Development Intern",
+      "category": "software-engineering",
+      "apply_url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Falls-Church/Summer-2027-Software-Development-Internship_RQ228406",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Falls Church",
+          "state": "VA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-15",
+        "discovered": "2026-09-15",
+        "last_verified": "2026-09-15"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "general-dynamics-information-technology-software-development-intern-2027-cbf46f",
+      "company": {
+        "name": "General Dynamics Information Technology",
+        "slug": "general-dynamics-information-technology"
+      },
+      "role": "Software Development Intern",
+      "category": "software-engineering",
+      "apply_url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Falls-Church/Summer-2027-Software-Development-Internship_RQ228405",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Falls Church",
+          "state": "VA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-15",
+        "discovered": "2026-09-15",
+        "last_verified": "2026-09-15"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "general-dynamics-information-technology-software-development-intern-2027",
+      "company": {
+        "name": "General Dynamics Information Technology",
+        "slug": "general-dynamics-information-technology"
+      },
+      "role": "Software Development Intern",
+      "category": "software-engineering",
+      "apply_url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Falls-Church/Summer-2027-Software-Development-Internship_RQ228404",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Falls Church",
+          "state": "VA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-15",
+        "discovered": "2026-09-15",
+        "last_verified": "2026-09-15"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "general-dynamics-information-technology-systems-engineer-intern-2027",
       "company": {
         "name": "General Dynamics Information Technology",
@@ -84159,7 +84740,7 @@
         "discovered": "2026-09-14",
         "last_verified": "2026-09-15"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -85710,7 +86291,7 @@
         "discovered": "2026-08-27",
         "last_verified": "2026-09-15"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -85762,7 +86343,7 @@
         "discovered": "2026-08-20",
         "last_verified": "2026-09-15"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -85815,7 +86396,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-09-15"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -85868,7 +86449,7 @@
         "discovered": "2026-09-14",
         "last_verified": "2026-09-15"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -85921,7 +86502,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-09-15"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -85973,7 +86554,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-15"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -86025,7 +86606,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-15"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -86079,7 +86660,7 @@
         "discovered": "2026-09-08",
         "last_verified": "2026-09-15"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -86132,7 +86713,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-15"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -86183,7 +86764,7 @@
         "discovered": "2026-09-14",
         "last_verified": "2026-09-15"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -86237,7 +86818,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-15"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -86288,58 +86869,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-15"
       },
-      "status": "closed",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "goldman-sachs-quantitative-strategist-intern-multiple-teams-2027-323368",
-      "company": {
-        "name": "Goldman Sachs",
-        "slug": "goldman-sachs"
-      },
-      "role": "Quantitative Strategist Intern - Multiple Teams",
-      "category": "quant",
-      "apply_url": "https://higher.gs.com/roles/175424?type=students",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "London",
-          "country": "UK"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-08-15",
-        "discovered": "2026-09-14",
-        "last_verified": "2026-09-15"
-      },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -86354,14 +86884,14 @@
       },
       "role": "Quantitative Strategist Intern - Multiple Teams",
       "category": "quant",
-      "apply_url": "https://higher.gs.com/roles/171563?type=students",
+      "apply_url": "https://higher.gs.com/roles/175424?type=students",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
       "locations": [
         {
-          "city": "NYC",
-          "country": "USA"
+          "city": "London",
+          "country": "UK"
         }
       ],
       "compensation": {
@@ -86442,7 +86972,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-15"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -86493,7 +87023,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-15"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -86554,57 +87084,6 @@
     },
     {
       "schema_version": "1.0",
-      "id": "goldman-sachs-summer-analyst-intern-americas-engineering-2027-48b2d0",
-      "company": {
-        "name": "Goldman Sachs",
-        "slug": "goldman-sachs"
-      },
-      "role": "Summer Analyst Intern - Americas - Engineering",
-      "category": "software-engineering",
-      "apply_url": "https://higher.gs.com/roles/171567?type=students",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Toronto",
-          "country": "ON"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-08-15",
-        "discovered": "2026-09-14",
-        "last_verified": "2026-09-15"
-      },
-      "status": "closed",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
       "id": "goldman-sachs-summer-analyst-intern-americas-engineering-2027-904d14",
       "company": {
         "name": "Goldman Sachs",
@@ -86649,7 +87128,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-15"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -86664,14 +87143,14 @@
       },
       "role": "Summer Analyst Intern - Americas - Engineering",
       "category": "software-engineering",
-      "apply_url": "https://higher.gs.com/roles/171564?type=students",
+      "apply_url": "https://higher.gs.com/roles/171567?type=students",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
       "locations": [
         {
-          "city": "NYC",
-          "country": "USA"
+          "city": "Toronto",
+          "country": "ON"
         }
       ],
       "compensation": {
@@ -86753,7 +87232,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-15"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -86804,7 +87283,7 @@
         "discovered": "2026-09-14",
         "last_verified": "2026-09-15"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -86858,7 +87337,7 @@
         "discovered": "2026-09-06",
         "last_verified": "2026-09-15"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -86912,7 +87391,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-15"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -86965,7 +87444,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-15"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -87019,7 +87498,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-09-15"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -87121,7 +87600,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-15"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -87223,7 +87702,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-15"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -87276,7 +87755,7 @@
         "discovered": "2026-08-29",
         "last_verified": "2026-09-15"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -87329,7 +87808,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-09-15"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -91590,6 +92069,110 @@
     },
     {
       "schema_version": "1.0",
+      "id": "gulfstream-ai-product-collegiate-associate-intern-2027",
+      "company": {
+        "name": "Gulfstream",
+        "slug": "gulfstream"
+      },
+      "role": "AI Product Collegiate Associate Intern",
+      "category": "ai",
+      "apply_url": "https://careers.gulfstream.com/job/Savannah-Spring-2027-AI-Product-Collegiate-Associate-Intern-GA-31401/1430047800/?ats=successfactors",
+      "season": "spring",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Savannah",
+          "state": "GA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-15",
+        "discovered": "2026-09-15",
+        "last_verified": "2026-09-15"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "gulfstream-azure-ai-collegiate-associate-intern-2027",
+      "company": {
+        "name": "Gulfstream",
+        "slug": "gulfstream"
+      },
+      "role": "Azure AI Collegiate Associate Intern",
+      "category": "ai",
+      "apply_url": "https://careers.gulfstream.com/job/Savannah-Spring-2027-Azure-AI-Collegiate-Associate-Intern-GA-31401/1430045500/?ats=successfactors",
+      "season": "spring",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Savannah",
+          "state": "GA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-15",
+        "discovered": "2026-09-15",
+        "last_verified": "2026-09-15"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "gulfstream-computer-science-intern-advanced-structures-and-materials-2027",
       "company": {
         "name": "Gulfstream",
@@ -93918,6 +94501,114 @@
       "dates": {
         "posted": "2026-09-03",
         "discovered": "2026-09-04",
+        "last_verified": "2026-09-15"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "hf-sinclair-it-data-analytics-intern-2027",
+      "company": {
+        "name": "HF Sinclair",
+        "slug": "hf-sinclair"
+      },
+      "role": "IT Data Analytics Intern",
+      "category": "software-engineering",
+      "apply_url": "https://careers.hfsinclair.com/job/Dallas-IT-Data-Analytics-Intern-TX-75219/1430072400/?ats=successfactors",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Dallas",
+          "state": "TX",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-15",
+        "discovered": "2026-09-15",
+        "last_verified": "2026-09-15"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "hf-sinclair-reporting-analytics-intern-2027",
+      "company": {
+        "name": "HF Sinclair",
+        "slug": "hf-sinclair"
+      },
+      "role": "Reporting & Analytics Intern",
+      "category": "software-engineering",
+      "apply_url": "https://careers.hfsinclair.com/job/Dallas-Reporting-&-Analytics-Intern-TX-75219/1430067400/?ats=successfactors",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Dallas",
+          "state": "TX",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-15",
+        "discovered": "2026-09-15",
         "last_verified": "2026-09-15"
       },
       "status": "open",
@@ -97467,6 +98158,58 @@
       "dates": {
         "posted": "2026-08-28",
         "discovered": "2026-08-29",
+        "last_verified": "2026-09-15"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "huntington-ingalls-industries-computer-engineering-intern-2027",
+      "company": {
+        "name": "Huntington Ingalls Industries",
+        "slug": "huntington-ingalls-industries"
+      },
+      "role": "Computer Engineering Intern",
+      "category": "software-engineering",
+      "apply_url": "https://careers.huntingtoningalls.com/job/Pascagoula-2027-COLLEGE-SUMMER-INTERN-COMPUTER-ENGINEERING-Miss/1430053700/?ats=successfactors",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Pascagoula",
+          "state": "MS",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-15",
+        "discovered": "2026-09-15",
         "last_verified": "2026-09-15"
       },
       "status": "open",
@@ -104075,7 +104818,7 @@
         "discovered": "2026-08-13",
         "last_verified": "2026-09-15"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -122436,7 +123179,7 @@
         "discovered": "2026-09-15",
         "last_verified": "2026-09-15"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -142597,6 +143340,57 @@
     },
     {
       "schema_version": "1.0",
+      "id": "nokia-hardware-engineer-co-op-intern-ip-routing-2027",
+      "company": {
+        "name": "Nokia",
+        "slug": "nokia"
+      },
+      "role": "Hardware Engineer Co-op Intern - IP Routing",
+      "category": "hardware",
+      "apply_url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39600",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Ottawa",
+          "country": "ON"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-15",
+        "discovered": "2026-09-15",
+        "last_verified": "2026-09-15"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "nokia-incubation-developer-coop-intern-2026",
       "company": {
         "name": "Nokia",
@@ -142964,6 +143758,57 @@
     },
     {
       "schema_version": "1.0",
+      "id": "nokia-software-tools-development-co-op-intern-2027",
+      "company": {
+        "name": "Nokia",
+        "slug": "nokia"
+      },
+      "role": "Software Tools Development Co-op Intern",
+      "category": "software-engineering",
+      "apply_url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39230",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Ottawa",
+          "country": "ON"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-15",
+        "discovered": "2026-09-15",
+        "last_verified": "2026-09-15"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "nokia-tools-and-automation-software-developer-co-op-intern-2027",
       "company": {
         "name": "Nokia",
@@ -143167,7 +144012,7 @@
         "discovered": "2026-08-24",
         "last_verified": "2026-09-15"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -146377,7 +147222,7 @@
         "discovered": "2026-08-19",
         "last_verified": "2026-09-15"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -151234,7 +152079,7 @@
         "discovered": "2026-09-15",
         "last_verified": "2026-09-15"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -154977,9 +155822,9 @@
       "dates": {
         "posted": "2026-03-03",
         "discovered": "2026-07-17",
-        "last_verified": "2026-09-14"
+        "last_verified": "2026-09-15"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -161208,7 +162053,7 @@
         "discovered": "2026-09-05",
         "last_verified": "2026-09-15"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -165366,6 +166211,60 @@
         "last_verified": "2026-09-03"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "qts-tableau-analytics-and-business-intelligence-intern-2027",
+      "company": {
+        "name": "QTS",
+        "slug": "qts"
+      },
+      "role": "Tableau Analytics and Business Intelligence Intern",
+      "category": "software-engineering",
+      "apply_url": "https://qtsdatacenters.wd5.myworkdayjobs.com/qts/job/Overland-Park-KS/Summer-2027-Internship--Tableau-Analytics-and-Business-Intelligence_R2026-2090",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Overland Park",
+          "state": "KS",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-15",
+        "discovered": "2026-09-15",
+        "last_verified": "2026-09-15"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -178923,6 +179822,58 @@
         "last_verified": "2026-08-21"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "rtx-software-engineer-intern-2027-06708a",
+      "company": {
+        "name": "RTX",
+        "slug": "rtx"
+      },
+      "role": "Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-PA-STATE-COLLEGE-5A--302-Science-Park-Rd--BLDG-5A/Software-Engineering-Intern--Summer-2027-_01871987",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "State College",
+          "state": "PA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-15",
+        "discovered": "2026-09-15",
+        "last_verified": "2026-09-15"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -235275,6 +236226,57 @@
         "last_verified": "2026-09-12"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "verizon-communications-marketing-technology-intern-consumer-group-2027",
+      "company": {
+        "name": "Verizon Communications",
+        "slug": "verizon-communications"
+      },
+      "role": "Marketing Technology Intern - Consumer Group",
+      "category": "software-engineering",
+      "apply_url": "https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Basking-Ridge-New-Jersey/Verizon-Consumer-Group--Marketing-Technology-Summer-2027-Internship_R-1100887",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Basking Ridge",
+          "country": "Bernards"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-15",
+        "discovered": "2026-09-15",
+        "last_verified": "2026-09-15"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"

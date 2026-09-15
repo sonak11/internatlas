@@ -1,0 +1,51 @@
+{
+  "schema_version": "1.0",
+  "id": "verizon-communications-marketing-technology-intern-consumer-group-2027",
+  "company": {
+    "name": "Verizon Communications",
+    "slug": "verizon-communications"
+  },
+  "role": "Marketing Technology Intern - Consumer Group",
+  "category": "software-engineering",
+  "apply_url": "https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Basking-Ridge-New-Jersey/Verizon-Consumer-Group--Marketing-Technology-Summer-2027-Internship_R-1100887",
+  "season": "summer",
+  "year": 2027,
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "Basking Ridge",
+      "country": "Bernards"
+    }
+  ],
+  "compensation": {
+    "currency": "USD",
+    "housing_stipend": false,
+    "relocation_assistance": false
+  },
+  "eligibility": {
+    "graduation_years": [],
+    "degree_levels": [],
+    "citizenship_required": false,
+    "security_clearance_required": false,
+    "visa_sponsorship": "unknown"
+  },
+  "interview": {},
+  "tech": {
+    "required_skills": [],
+    "preferred_skills": [],
+    "languages": [],
+    "frameworks": [],
+    "cloud_platforms": [],
+    "resume_keywords": []
+  },
+  "dates": {
+    "posted": "2026-09-15",
+    "discovered": "2026-09-15",
+    "last_verified": "2026-09-15"
+  },
+  "status": "open",
+  "tags": [
+    "auto-ingested",
+    "src:simplify"
+  ]
+}

@@ -10,7 +10,7 @@ _Generated 2026-09-15_
 |---|---|
 | Tesla | 175 |
 | TikTok | 167 |
-| RTX | 108 |
+| RTX | 109 |
 | ByteDance | 69 |
 | American Express | 68 |
 | AMD | 66 |
@@ -26,29 +26,30 @@ _Generated 2026-09-15_
 | Navy Federal | 33 |
 | Zipline | 33 |
 | Cloudflare | 32 |
-| Goldman Sachs | 32 |
 | Robinhood | 32 |
+| The Walt Disney Company | 31 |
 
 ## Listings by category
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 2698 | `███████████████` |
-| ai | 353 | `██` |
+| software-engineering | 2710 | `███████████████` |
+| ai | 355 | `██` |
 | quant | 292 | `██` |
 | machine-learning | 199 | `█` |
-| hardware | 179 | `█` |
-| data-science | 161 | `█` |
-| research | 146 | `█` |
-| product | 138 | `█` |
+| hardware | 180 | `█` |
+| data-science | 162 | `█` |
+| research | 147 | `█` |
+| product | 139 | `█` |
 | design | 117 | `█` |
 | embedded | 105 | `█` |
-| data-engineering | 83 | `█` |
+| data-engineering | 84 | `█` |
 | cloud | 55 | `█` |
 | security | 20 | `█` |
 
 ## Newest listings
 
+- 2026-09-15 — **Autodesk**: [Software Developer Intern](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Intern--Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD101101-2)
 - 2026-09-15 — **BlackRock**: [Quantitative Master's Intern - Investments - Global Capital Markets](https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/San-Francisco-CA/XMLNAME-2027-Quantitative-Masters-Internship-Program---Investments---Global-Capital-Markets---San-Francisco_R266469)
 - 2026-09-15 — **BlackRock**: [Quantitative Master’s Intern - Investments - Global Capital Markets](https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/New-York-NY/XMLNAME-2027-Quantitative-Masters-Internship-Program---Investments---Global-Capital-Markets---New-York_R266468)
 - 2026-09-15 — **BlackRock**: [Quantitative Master’s Intern - Investments - Portfolio Management](https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/San-Francisco-CA/XMLNAME-2027-Quantitative-Masters-Internship-Program---Investments---Portfolio-Management---San-Francisco_R266472)
@@ -60,15 +61,14 @@ _Generated 2026-09-15_
 - 2026-09-15 — **BlackRock**: [Quantitative Masters Intern - Investments - Portfolio Management](https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/New-York-NY/XMLNAME-2027-Quantitative-Masters-Internship-Program---Investments---Portfolio-Management---New-York_R266471)
 - 2026-09-15 — **BlackRock**: [Quantitative Masters Intern - Technology - Analytics & Modeling](https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/New-York-NY/XMLNAME-2027-Quantitative-Masters-Internship-Program---Technology---Analytics---Modeling---New-York_R266477)
 - 2026-09-15 — **CAI**: [Data Analyst Intern](https://cai.wd5.myworkdayjobs.com/computer_aid/job/PA-CLIENT-STATE/Data-Analyst-Intern_R8452)
+- 2026-09-15 — **CAI**: [Data Engineer Intern](https://cai.wd5.myworkdayjobs.com/computer_aid/job/PA-CLIENT-STATE/Data-Engineering-Intern_R8481)
 - 2026-09-15 — **CAI**: [Software Developer Intern](https://cai.wd5.myworkdayjobs.com/computer_aid/job/PA-CLIENT-STATE/Software-Developer-Intern_R8462)
 - 2026-09-15 — **CAI**: [Software Developer Intern](https://cai.wd5.myworkdayjobs.com/computer_aid/job/PA-CLIENT-STATE/Software-Developer-Intern_R8451)
+- 2026-09-15 — **Datadog**: [Research Science Intern (PhD)](https://careers.datadoghq.com/detail/8203657/?gh_jid=8203657)
 - 2026-09-15 — **Definity Financial**: [Technology Solutions Co-op Intern - Data Platform & Engineering](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9324)
 - 2026-09-15 — **DoorDash**: [Software Engineer Intern](https://job-boards.greenhouse.io/doordashcanada/jobs/8170944)
-- 2026-09-15 — **Howden**: [Analytics Intern](https://hyperiongrp.wd3.myworkdayjobs.com/Hyperion_External/job/London---One-Creechurch-Place/Analytics-Summer-Internship-2027_R0019272)
-- 2026-09-15 — **Howden**: [Business Intelligence Intern](https://hyperiongrp.wd3.myworkdayjobs.com/Hyperion_External/job/London---One-Creechurch-Place/Business-Intelligence-Summer-Internship-2027_R0019273)
-- 2026-09-15 — **Johns Hopkins Applied Physics Laboratory**: [Computer Engineer Intern - Shipboard Systems Group](https://careers.jhuapl.edu/jobs/60049?icims=1)
-- 2026-09-15 — **Superhuman**: [Software Engineer Intern](https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc/5f1f25ee-709d-4ae0-ada4-d1f243bde89c/application?embed=true)
-- 2026-09-15 — **Superhuman**: [Software Engineer Intern - Summer 2027](https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc/e6b917b1-325a-47d0-b267-b279b0efdad0/application?embed=true)
+- 2026-09-15 — **Duolingo**: [Associate Product Manager, Intern](https://careers.duolingo.com/jobs/8806187002?gh_jid=8806187002)
+- 2026-09-15 — **Duolingo**: [Software Engineer, Intern](https://careers.duolingo.com/jobs/8805925002?gh_jid=8805925002)
 
 ## Recently closed
 
@@ -291,6 +291,7 @@ _Generated 2026-09-15_
 - General Matter — Electrical Engineering Intern
 - General Motors — Electrical & SDV Intern - Global Manufacturing
 - Genworth Financial — IT Development Program Intern - IT Development Program
+- Genworth Financial — Software Engineer Intern
 - Geotab — Data Analyst Intern
 - Geotab — Data Scientist Intern
 - Geotab — Product Management Intern - Growth & Marketplace
@@ -299,34 +300,11 @@ _Generated 2026-09-15_
 - GlobalFoundries — Silicon Photonics Advanced Packaging Intern
 - GlossGenius — Engineering Intern
 - GlossGenius — Engineering Intern - Summer 2027
-- Goldman Sachs — Associate Intern - The Core Quantitative Strats
-- Goldman Sachs — AWM Product Management Analyst Intern
-- Goldman Sachs — Quantitative Strategist Associate Intern - Asset and Wealth Management
-- Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Americas
-- Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Investment Banking
-- Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
-- Goldman Sachs — Quantitative Strats Analyst Intern - Americas - Investment Banking
-- Goldman Sachs — Summer Analyst Intern
 - Goldman Sachs — Summer Analyst Intern - Americas - AWM Product Management
 - Goldman Sachs — Summer Analyst Intern - Americas - Engineering
-- Goldman Sachs — Summer Analyst Intern - Americas - Investment Banking Quantitative Strats
-- Goldman Sachs — Summer Analyst Intern - Engineering
-- Goldman Sachs — Summer Analyst Intern - Engineering
-- Goldman Sachs — Summer Analyst Intern - Engineering
-- Goldman Sachs — Summer Analyst Intern - Engineering
-- Goldman Sachs — Summer Analyst Intern - FICC and Equities - Sales and Trading
 - Goldman Sachs — Summer Analyst Intern - FICC & Equities - Sales & Trading
-- Goldman Sachs — Summer Analyst Intern - The Core Quantitative Strats
 - Goldman Sachs — Summer Analyst Intern - Wealth Management - Product Management and Design
-- Goldman Sachs — Summer Analyst Intern - Wealth Management - Quantitative Finance
-- Goldman Sachs — Summer Associate Intern
+- Goldman Sachs — Summer Associate Intern - Multiple Teams
 - Grant Thornton — AI, Data & Technology Intern - Summer 2027
 - Grant Thornton — AI, Data & Technology Intern - Summer 2027
 - Grant Thornton — AI, Data & Technology Intern - Summer 2027
@@ -383,6 +361,7 @@ _Generated 2026-09-15_
 - Intel — Software Development Intern
 - Intel — System Technology PhD Intern - Research Engineer
 - Intelcom \| Dragonfly — Front-end Developer Intern - Mobile Application
+- Interco — Software Development Intern - React
 - Interdigital — Information Systems / Salesforce Intern
 - Interdigital — Wifi Intern - Wireless Researcher
 - International Rescue Committee (IRC) — Development Data and Research Intern
@@ -447,6 +426,7 @@ _Generated 2026-09-15_
 - Marsh — Government Health Consulting Informatics Intern - College Program
 - Marsh — Summer Analyst Intern - Data and Analytics
 - Marsh & McLennan — Data & Analytics Intern - Data & Analytics
+- Marvell — Architecture Intern - MS
 - Mary Free Bed Rehabilitation Hospital — IT Intern - Project Management
 - Maven Securities — Trader Intern
 - Medline — Business Systems Intern - Summer 2027
@@ -516,6 +496,7 @@ _Generated 2026-09-15_
 - Nokia — Tools and Automation Software Developer Co-op/Intern
 - Nokia — Web Developer Co-op Intern
 - Nokia — Web Developer Co-op Intern - Intern
+- Nomagic — Engineering Intern - Software or Hardware
 - North Atlantic Industries — Electrical Engineer Intern - Test Systems
 - Northrop Grumman — Data Analytics Intern
 - Northrop Grumman — Software Engineer Intern
@@ -528,7 +509,6 @@ _Generated 2026-09-15_
 - NVIDIA — Computer Architecture and Systems Intern - Research
 - NVIDIA — Computer Vision and Deep Learning Intern
 - NVIDIA — Developer and Performance Technology Intern
-- NVIDIA — Hardware Physical Design / VLSI Intern
 - NVIDIA — Large Language Models Intern - Research
 - NVIDIA — Ph.D. Engineering Intern
 - NVIDIA — Ph.D. Research Autonomous Vehicles Intern
@@ -549,6 +529,7 @@ _Generated 2026-09-15_
 - Oppenheimer & Co. Inc. — Equities Sales & Trading Intern - Business Segments and Corporate Infrastructure
 - OpusClip — AI Research Intern
 - Oracle — Customer Solutions Analyst Intern - Ovip
+- Oshkosh — Advanced Analytics Intern
 - Oshkosh — Digital Technology Intern - Application Development
 - Palantir — Forward Deployed Software Engineer Intern - Intel
 - Palantir — Software Engineer Intern - Infrastructure
@@ -558,7 +539,6 @@ _Generated 2026-09-15_
 - PayPal — Software Engineer Intern
 - Pella — Product Engineer Intern - Summer 2027
 - Pella — Product Engineer Intern - Summer 2027
-- PennState University — Research and Development Engineering Intern
 - Pennsylvania State University — Research and Development Engineer Intern
 - PGIM — Product and Institutional Client Intern - Multiple Teams
 - PGIM — Public Credit Summer Investment Analyst Intern - Portfolio Analysis Group
@@ -581,7 +561,6 @@ _Generated 2026-09-15_
 - PricewaterhouseCoopers (PwC) — Digital Assurance & Transparency Intern - Multiple Teams
 - PricewaterhouseCoopers (PwC) — Geographic Information Systems Intern
 - PricewaterhouseCoopers (PwC) — Summer Intern - SAP
-- Procter & Gamble — Analytics & Insights Intern/Co-op
 - Procter & Gamble — IT Project & Product Manager Intern
 - Procter & Gamble — Research & Development Scientist/Engineer Intern - Freshmen, Sophomores, And Juniors
 - Protiviti — Technology Consulting Intern - 2027
