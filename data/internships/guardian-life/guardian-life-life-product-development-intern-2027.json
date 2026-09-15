@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "lseg-engineering-intern-multiple-teams-2027",
+  "id": "guardian-life-life-product-development-intern-2027",
   "company": {
-    "name": "LSEG",
-    "slug": "lseg"
+    "name": "Guardian Life",
+    "slug": "guardian-life"
   },
-  "role": "Engineering Intern - Multiple Teams",
+  "role": "Life Product Development Intern",
   "category": "software-engineering",
-  "apply_url": "https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/London-United-Kingdom/Engineering-Summer-Internship-Programme_R0123389-1",
+  "apply_url": "https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/New-York/XMLNAME-2027-Guardian-Summer-Intern--Life-Product-Development_R000110125",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "London",
-      "country": "UK"
+      "city": "NYC",
+      "country": "USA"
     }
   ],
   "compensation": {
@@ -40,10 +40,10 @@
   },
   "dates": {
     "posted": "2026-09-14",
-    "discovered": "2026-09-14",
+    "discovered": "2026-09-15",
     "last_verified": "2026-09-15"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

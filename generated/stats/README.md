@@ -8,7 +8,7 @@ _Generated 2026-09-15_
 
 | Company | Listings |
 |---|---|
-| Tesla | 174 |
+| Tesla | 175 |
 | TikTok | 167 |
 | RTX | 108 |
 | ByteDance | 69 |
@@ -33,11 +33,11 @@ _Generated 2026-09-15_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 2697 | `███████████████` |
-| ai | 352 | `██` |
+| software-engineering | 2698 | `███████████████` |
+| ai | 353 | `██` |
 | quant | 292 | `██` |
 | machine-learning | 199 | `█` |
-| hardware | 178 | `█` |
+| hardware | 179 | `█` |
 | data-science | 161 | `█` |
 | research | 146 | `█` |
 | product | 138 | `█` |
@@ -207,6 +207,7 @@ _Generated 2026-09-15_
 - Cloudflare — Software Engineer Intern (Fall 2026)
 - Cloudflare — Software Engineer Intern (Fall 2026)
 - Cloudflare — Software Engineer Intern (Fall 2026) - Austin, TX
+- Cloudflare — Systems Engineer – Data Residency Intern - Global Resource Management
 - CNO Financial Group — Artificial Intelligence Information Technology Intern - AI
 - CNO Financial Group — Reporting Analyst Intern
 - Coinbase — Policy Intern
@@ -226,6 +227,7 @@ _Generated 2026-09-15_
 - Crum & Forster Insurance — Actuarial, Data Science or Product Services Intern - Commercial Lines
 - CSX — Technology Intern - Paid
 - Dell Technologies — Software Engineer Intern - Client Solutions Group Engineering
+- Dell Technologies — Software Engineering Intern
 - Deloitte — AI Innovation Summer Scholar Intern - AI Innovation
 - Deloitte — Forensic Analytics Summer Scholar Intern - Forensic Analytics
 - Deutsche Bank — Quantitative Analyst Intern - GSA
@@ -242,6 +244,7 @@ _Generated 2026-09-15_
 - Emerging Tech — Integration Analyst Intern
 - Emerson Electric — Application Engineer Intern
 - Emory University — Student Tester and Developer Intern - GPS Sample
+- Enact Mortgage Insurance — Software Engineer Intern
 - Engenious Design — Systems Architecture Intern
 - Entergy — Engineering Intern
 - Epia Neuro — Hardware Engineer Intern
@@ -309,12 +312,9 @@ _Generated 2026-09-15_
 - Goldman Sachs — Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats
 - Goldman Sachs — Quantitative Strategist Intern - Investment Banking
 - Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
-- Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
 - Goldman Sachs — Quantitative Strats Analyst Intern - Americas - Investment Banking
 - Goldman Sachs — Summer Analyst Intern
 - Goldman Sachs — Summer Analyst Intern - Americas - AWM Product Management
-- Goldman Sachs — Summer Analyst Intern - Americas - Engineering
-- Goldman Sachs — Summer Analyst Intern - Americas - Engineering
 - Goldman Sachs — Summer Analyst Intern - Americas - Engineering
 - Goldman Sachs — Summer Analyst Intern - Americas - Investment Banking Quantitative Strats
 - Goldman Sachs — Summer Analyst Intern - Engineering
@@ -327,7 +327,6 @@ _Generated 2026-09-15_
 - Goldman Sachs — Summer Analyst Intern - Wealth Management - Product Management and Design
 - Goldman Sachs — Summer Analyst Intern - Wealth Management - Quantitative Finance
 - Goldman Sachs — Summer Associate Intern
-- Goldman Sachs — Summer Associate Intern - Multiple Teams
 - Grant Thornton — AI, Data & Technology Intern - Summer 2027
 - Grant Thornton — AI, Data & Technology Intern - Summer 2027
 - Grant Thornton — AI, Data & Technology Intern - Summer 2027
@@ -383,6 +382,7 @@ _Generated 2026-09-15_
 - Intel — Physical Design Engineer Intern
 - Intel — Software Development Intern
 - Intel — System Technology PhD Intern - Research Engineer
+- Intelcom \| Dragonfly — Front-end Developer Intern - Mobile Application
 - Interdigital — Information Systems / Salesforce Intern
 - Interdigital — Wifi Intern - Wireless Researcher
 - International Rescue Committee (IRC) — Development Data and Research Intern
@@ -435,6 +435,8 @@ _Generated 2026-09-15_
 - Leland — AI Education Intern
 - LPL Financial Holdings — Internal Audit Intern - Multiple Teams
 - LPL Financial Holdings — Service Transformation & Data Analytics Intern
+- LSEG — Engineering Intern - Multiple Teams
+- LSEG — Engineering Intern - Multiple Teams
 - Mackenzie Investments — Data Engineering Intern
 - Mackenzie Investments — Investment Management Intern - Canadian Equities
 - Mackenzie Investments — Technology Engineering Intern
@@ -481,6 +483,7 @@ _Generated 2026-09-15_
 - Montenson — Investment Analyst Intern
 - Montenson — Sustainability Engineer Intern
 - Montenson — System Administrator Intern
+- Moog — Embedded Design Engineering Intern
 - Motorola — Supply Chain Applied AI Engineering Intern
 - Motorola — Supply Chain Data Analyst Intern
 - Motorola — Wireless Systems Engineer Intern - Wireless Systems
@@ -525,6 +528,7 @@ _Generated 2026-09-15_
 - NVIDIA — Computer Architecture and Systems Intern - Research
 - NVIDIA — Computer Vision and Deep Learning Intern
 - NVIDIA — Developer and Performance Technology Intern
+- NVIDIA — Hardware Physical Design / VLSI Intern
 - NVIDIA — Large Language Models Intern - Research
 - NVIDIA — Ph.D. Engineering Intern
 - NVIDIA — Ph.D. Research Autonomous Vehicles Intern
@@ -577,6 +581,7 @@ _Generated 2026-09-15_
 - PricewaterhouseCoopers (PwC) — Digital Assurance & Transparency Intern - Multiple Teams
 - PricewaterhouseCoopers (PwC) — Geographic Information Systems Intern
 - PricewaterhouseCoopers (PwC) — Summer Intern - SAP
+- Procter & Gamble — Analytics & Insights Intern/Co-op
 - Procter & Gamble — IT Project & Product Manager Intern
 - Procter & Gamble — Research & Development Scientist/Engineer Intern - Freshmen, Sophomores, And Juniors
 - Protiviti — Technology Consulting Intern - 2027
@@ -672,6 +677,7 @@ _Generated 2026-09-15_
 - SpreeAI — Mobile Software Engineer Intern - Flagship Apps - iOS / Android / Web
 - SpreeAI — Software Engineer Intern
 - Springs Window Fashions — Application Engineering Intern - Summer 2027
+- Springs Window Fashions — Sustainability Data Specialist Intern - Commercial Marketing
 - State Farm — Software Engineer Intern - Innovation Group
 - Steel Dynamics — Software Development Intern
 - Strattec — Engineering Intern

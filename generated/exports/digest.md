@@ -1,6 +1,6 @@
 # 📬 InternAtlas Weekly Digest — 2026-09-15
 
-## 🆕 New this week (764)
+## 🆕 New this week (767)
 
 - **3M** — [Business Analyst Intern - Consumer Business Group](https://3m.wd1.myworkdayjobs.com/en-US/Search/job/US-Minnesota-Maplewood/Internship---2027-Undergraduate-Business-Analytics-Intern---Consumer-Business-Group--CBG-_R01171049) · software-engineering · —
 - **AArete** — [Data Architecture & Engineering Intern](https://jobs.jobvite.com/aarete/job/otGLAfwe?nl=1&nl=1&fr=false) · software-engineering · —
@@ -57,6 +57,7 @@
 - **BDO Canada** — [Full-Stack Developer Co-op Intern](https://bdo.wd3.myworkdayjobs.com/BDO/job/Toronto---Bay-St/Co-op-or-Intern--Full-Stack-Developer--January-2027-_JR7057) · software-engineering · —
 - **BJC HealthCare** — [RPA Automation Intern](https://jobs.bjc.org/jobs/116509?icims=1) · software-engineering · —
 - **BNY** — [Product Management Intern - Product Management](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81922) · product · —
+- **Baird** — [IT AI & Automation Intern](https://baird.wd1.myworkdayjobs.com/careers/job/WI-Milwaukee/Internship---IT-Operations-Automation---AI--Year-Round-_R2026986-1) · ai · —
 - **Baird** — [IT Data & Analytics Intern](https://baird.wd1.myworkdayjobs.com/careers/job/WI-Milwaukee/Internship---IT-Data---Analytics--Year-Round-_R20261012-1) · software-engineering · —
 - **Baird** — [Software Developer Intern](https://baird.wd1.myworkdayjobs.com/careers/job/WI-Milwaukee/Internship---Software-Developer--Year-Round-_R20261024-1) · software-engineering · —
 - **Bank of Montreal** — [Hardware Asset Management Analyst Co-op Intern - 8 months](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Hardware-Asset-Management-Analyst--Winter-2027--Co-op-Internship----8-months_R260026279-2) · hardware · —
@@ -317,6 +318,7 @@
 - **GrayMatter Robotics** — [Robotics Engineering Intern - Systems & Applications](https://jobs.ashbyhq.com/graymatter-robotics/aa7c2419-7bb9-4080-9403-937c4db01bb6/application?embed=true) · software-engineering · —
 - **Guardian Life** — [Application Development Intern - Digital & Technology](https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/New-York/XMLNAME-2027-Guardian-Summer-Intern--Digital---Technology---Application-Development_R000110209) · software-engineering · —
 - **Guardian Life** — [Data Engineering Intern - Digital & Technology](https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/New-York/XMLNAME-2027-Guardian-Summer-Intern--Digital---Technology---Data-Engineering_R000110202) · data-engineering · —
+- **Guardian Life** — [Life Product Development Intern](https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/New-York/XMLNAME-2027-Guardian-Summer-Intern--Life-Product-Development_R000110125) · software-engineering · —
 - **Guardian Life** — [Summer Intern - Digital & Technology - AI & Machine Learning](https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/New-York/XMLNAME-2027-Guardian-Summer-Intern--Digital---Technology---AI---Machine-Learning_R000110205) · machine-learning · —
 - **Gulfstream** — [Flight Sciences / Mass Properties College Intern - IEF](https://careers.gulfstream.com/job/Savannah-Summer-2027-IEF-Flight-Sciences-Mass-Properties-College-Intern-GA-31401/1428564800/?ats=successfactors) · software-engineering · —
 - **Gulfstream** — [Flight Sciences / SWAPP Intern](https://careers.gulfstream.com/job/Savannah-Spring-2027-IEF-Flight-Sciences-SWAPP-Collegiate-Intern-GA-31401/1428204100/?ats=successfactors) · software-engineering · —
@@ -657,6 +659,7 @@
 - **Tesla** — [Software Engineer Intern - IT Apps](https://www.tesla.com/careers/search/job/282774) · software-engineering · —
 - **Tesla** — [Software Engineer Intern - Service Engineering](https://www.tesla.com/careers/search/job/282233) · software-engineering · —
 - **Tesla** — [Software Integration Engineer Intern - Factory Firmware](https://www.tesla.com/careers/search/job/283395) · embedded · —
+- **Tesla** — [Solar Hardware Engineer Intern - Energy Engineering](https://www.tesla.com/careers/search/job/283423) · hardware · —
 - **Tesla** — [System Integration and Test Automation Engineer Intern - Energy Engineering](https://www.tesla.com/careers/search/job/283396) · software-engineering · —
 - **Tesla** — [Vehicle Accessories & Merchandise Product Intern - Global Merchandise](https://www.tesla.com/careers/search/job/283137) · software-engineering · —
 - **The Aerospace Corporation** — [Machine Learning Engineering Intern](https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Machine-Learning-Engineering-Graduate-Intern_R016432) · machine-learning · —

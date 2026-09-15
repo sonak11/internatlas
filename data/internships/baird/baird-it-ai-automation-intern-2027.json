@@ -1,20 +1,21 @@
 {
   "schema_version": "1.0",
-  "id": "lseg-engineering-intern-multiple-teams-2027",
+  "id": "baird-it-ai-automation-intern-2027",
   "company": {
-    "name": "LSEG",
-    "slug": "lseg"
+    "name": "Baird",
+    "slug": "baird"
   },
-  "role": "Engineering Intern - Multiple Teams",
-  "category": "software-engineering",
-  "apply_url": "https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/London-United-Kingdom/Engineering-Summer-Internship-Programme_R0123389-1",
+  "role": "IT AI & Automation Intern",
+  "category": "ai",
+  "apply_url": "https://baird.wd1.myworkdayjobs.com/careers/job/WI-Milwaukee/Internship---IT-Operations-Automation---AI--Year-Round-_R2026986-1",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "London",
-      "country": "UK"
+      "city": "Milwaukee",
+      "state": "WI",
+      "country": "USA"
     }
   ],
   "compensation": {
@@ -39,11 +40,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-14",
-    "discovered": "2026-09-14",
+    "posted": "2026-09-08",
+    "discovered": "2026-09-15",
     "last_verified": "2026-09-15"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"
