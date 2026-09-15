@@ -66,10 +66,10 @@
 | [Amgen](../companies/amgen.md) | 11/12 | data-engineering, data-science, machine-learning, software-engineering |
 | [Amwins](../companies/amwins.md) | 0/1 | ai |
 | [AnaVation](../companies/anavation.md) | 1/3 | software-engineering |
-| [Analog Devices](../companies/analog-devices.md) | 7/7 | design, machine-learning, software-engineering |
+| [Analog Devices](../companies/analog-devices.md) | 5/7 | design, machine-learning, software-engineering |
 | [Analysis Group](../companies/analysis-group.md) | 0/1 | research |
 | [Analytical Mechanics Associates](../companies/analytical-mechanics-associates.md) | 0/2 | research, software-engineering |
-| [Anduril](../companies/anduril.md) | 16/16 | hardware, software-engineering |
+| [Anduril](../companies/anduril.md) | 17/17 | hardware, software-engineering |
 | [Anheuser-Busch](../companies/anheuser-busch.md) | 0/1 | software-engineering |
 | [Anthelion Capital](../companies/anthelion-capital.md) | 2/2 | quant |
 | [Apex](../companies/apex.md) | 3/3 | embedded, software-engineering |
@@ -626,7 +626,7 @@
 | [Metropolitan Transportation Authority](../companies/metropolitan-transportation-authority.md) | 2/4 | software-engineering |
 | [Michael Baker International](../companies/michael-baker-international.md) | 1/1 | software-engineering |
 | [Michelin](../companies/michelin.md) | 1/1 | data-engineering |
-| [Microchip Technology](../companies/microchip-technology.md) | 3/10 | design, embedded, software-engineering |
+| [Microchip Technology](../companies/microchip-technology.md) | 2/10 | design, embedded, software-engineering |
 | [Micron Technology](../companies/micron-technology.md) | 10/18 | ai, design, software-engineering |
 | [Microsoft](../companies/microsoft.md) | 10/20 | ai, cloud, hardware, machine-learning, product, security, software-engineering |
 | [Midmark](../companies/midmark.md) | 0/1 | embedded |
@@ -807,7 +807,7 @@
 | [ROUSH](../companies/roush.md) | 0/1 | software-engineering |
 | [RRS Group](../companies/rrs-group.md) | 0/2 | software-engineering |
 | [RSM](../companies/rsm.md) | 1/3 | software-engineering |
-| [RTX](../companies/rtx.md) | 31/109 | ai, data-science, design, hardware, machine-learning, software-engineering |
+| [RTX](../companies/rtx.md) | 30/109 | ai, data-science, design, hardware, machine-learning, software-engineering |
 | [Radix Trading](../companies/radix-trading.md) | 1/1 | quant |
 | [Ragle Inc](../companies/ragle-inc.md) | 2/2 | data-engineering, software-engineering |
 | [Rainmaker](../companies/rainmaker.md) | 0/1 | software-engineering |
@@ -845,7 +845,7 @@
 | [Roam](../companies/roam.md) | 1/1 | software-engineering |
 | [Robert Bosch LLC](../companies/robert-bosch-llc.md) | 1/1 | software-engineering |
 | [Robert Bosch Venture Capital](../companies/robert-bosch-venture-capital.md) | 2/4 | ai, data-science, embedded, software-engineering |
-| [Robinhood](../companies/robinhood.md) | 31/32 | research, software-engineering |
+| [Robinhood](../companies/robinhood.md) | 32/33 | research, software-engineering |
 | [Roblox](../companies/roblox.md) | 3/3 | design, product, software-engineering |
 | [RoboForce](../companies/roboforce.md) | 1/1 | software-engineering |
 | [Rockefeller Capital Management](../companies/rockefeller-capital-management.md) | 0/1 | software-engineering |
@@ -1094,7 +1094,7 @@
 | [Walleye Capital](../companies/walleye-capital.md) | 2/9 | data-science, quant, software-engineering |
 | [Walmart](../companies/walmart.md) | 3/4 | data-science, software-engineering |
 | [Warner Bros.](../companies/warner-bros.md) | 0/3 | research, software-engineering |
-| [Waymo](../companies/waymo.md) | 12/12 | data-science, machine-learning, quant, research, software-engineering |
+| [Waymo](../companies/waymo.md) | 13/13 | data-science, machine-learning, quant, research, software-engineering |
 | [Wealthsimple](../companies/wealthsimple.md) | 2/2 | data-science, software-engineering |
 | [Weave](../companies/weave.md) | 1/1 | data-engineering |
 | [Wellington Management](../companies/wellington-management.md) | 1/1 | software-engineering |

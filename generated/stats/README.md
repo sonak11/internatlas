@@ -24,20 +24,20 @@ _Generated 2026-09-15_
 | NVIDIA | 34 |
 | Coinbase | 33 |
 | Navy Federal | 33 |
+| Robinhood | 33 |
 | Zipline | 33 |
 | Cloudflare | 32 |
-| Robinhood | 32 |
 | The Walt Disney Company | 31 |
 
 ## Listings by category
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 2710 | `███████████████` |
+| software-engineering | 2712 | `███████████████` |
 | ai | 355 | `██` |
 | quant | 292 | `██` |
 | machine-learning | 199 | `█` |
-| hardware | 180 | `█` |
+| hardware | 181 | `█` |
 | data-science | 162 | `█` |
 | research | 147 | `█` |
 | product | 139 | `█` |
@@ -49,6 +49,7 @@ _Generated 2026-09-15_
 
 ## Newest listings
 
+- 2026-09-15 — **Anduril**: [2027 Flight Software Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5239083007?gh_jid=5239083007)
 - 2026-09-15 — **Autodesk**: [Software Developer Intern](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Intern--Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD101101-2)
 - 2026-09-15 — **BlackRock**: [Quantitative Master's Intern - Investments - Global Capital Markets](https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/San-Francisco-CA/XMLNAME-2027-Quantitative-Masters-Internship-Program---Investments---Global-Capital-Markets---San-Francisco_R266469)
 - 2026-09-15 — **BlackRock**: [Quantitative Master’s Intern - Investments - Global Capital Markets](https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/New-York-NY/XMLNAME-2027-Quantitative-Masters-Internship-Program---Investments---Global-Capital-Markets---New-York_R266468)
@@ -68,7 +69,6 @@ _Generated 2026-09-15_
 - 2026-09-15 — **Definity Financial**: [Technology Solutions Co-op Intern - Data Platform & Engineering](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9324)
 - 2026-09-15 — **DoorDash**: [Software Engineer Intern](https://job-boards.greenhouse.io/doordashcanada/jobs/8170944)
 - 2026-09-15 — **Duolingo**: [Associate Product Manager, Intern](https://careers.duolingo.com/jobs/8806187002?gh_jid=8806187002)
-- 2026-09-15 — **Duolingo**: [Software Engineer, Intern](https://careers.duolingo.com/jobs/8805925002?gh_jid=8805925002)
 
 ## Recently closed
 
@@ -91,6 +91,8 @@ _Generated 2026-09-15_
 - American Express — Undergraduate Intern - Strategy & Analytics
 - American Institutes for Research — Data Science Intern
 - Amgen — Operations Graduate Program Intern - Operations
+- Analog Devices — AI/ML Engineer Intern
+- Analog Devices — Analog Design Engineer Intern
 - Analysis Group — Research Professional Intern - Generalist
 - AnaVation — Computer Science Intern
 - AnaVation — Computer Science Intern - Summer Program
@@ -443,6 +445,7 @@ _Generated 2026-09-15_
 - Meta — Research Scientist Intern - Photorealistic Telepresence
 - Microchip Technology — Design Intern - Design
 - Microchip Technology — Engineering Intern - Applications
+- Microchip Technology — Engineering Intern - Software Development
 - Microchip Technology — Equipment Engineering Technician Intern - Wet Process
 - Microchip Technology — Verification Intern - Verification
 - Micron Technology — Advanced Spectroscopy and Nanoscale Materials Characterization Intern
@@ -611,6 +614,7 @@ _Generated 2026-09-15_
 - RTX — Digital Technology Intern - Summer 2027
 - RTX — Electrical Computer-Aided Design Engineer Intern
 - RTX — Electrical Engineer Intern
+- RTX — Electrical Engineer Intern - Summer 2027
 - RTX — Electrical Engineer Intern - Summer 2027
 - RTX — Electrical Engineer Intern - Summer 2027
 - RTX — Electro-Optical Systems Technician Intern - AN/ZSQ-2

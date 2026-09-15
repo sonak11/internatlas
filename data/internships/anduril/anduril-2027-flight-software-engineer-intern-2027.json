@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "microchip-technology-engineering-intern-software-development-2026",
+  "id": "anduril-2027-flight-software-engineer-intern-2027",
   "company": {
-    "name": "Microchip Technology",
-    "slug": "microchip-technology"
+    "name": "Anduril",
+    "slug": "anduril",
+    "career_page": "https://www.anduril.com/careers"
   },
-  "role": "Engineering Intern - Software Development",
-  "category": "software-engineering",
-  "apply_url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/TX---Houston---Compaq-Center-Dr/Intern-Engineering--Software-Development-_R3371-26",
-  "season": "fall",
-  "year": 2026,
+  "role": "2027 Flight Software Engineer Intern",
+  "category": "hardware",
+  "apply_url": "https://boards.greenhouse.io/andurilindustries/jobs/5239083007?gh_jid=5239083007",
+  "season": "summer",
+  "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Houston",
-      "state": "TX",
+      "city": "Costa Mesa",
       "country": "USA"
     }
   ],
@@ -40,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-03",
-    "discovered": "2026-08-04",
+    "posted": "2026-09-15",
+    "discovered": "2026-09-15",
     "last_verified": "2026-09-15"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:ats"
   ]
 }

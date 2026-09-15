@@ -1,20 +1,21 @@
 {
   "schema_version": "1.0",
-  "id": "microchip-technology-engineering-intern-software-development-2026",
+  "id": "robinhood-finance-and-strategy-intern-summer-2027-2027",
   "company": {
-    "name": "Microchip Technology",
-    "slug": "microchip-technology"
+    "name": "Robinhood",
+    "slug": "robinhood",
+    "career_page": "https://careers.robinhood.com/"
   },
-  "role": "Engineering Intern - Software Development",
+  "role": "Finance and Strategy Intern (Summer 2027)",
   "category": "software-engineering",
-  "apply_url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/TX---Houston---Compaq-Center-Dr/Intern-Engineering--Software-Development-_R3371-26",
-  "season": "fall",
-  "year": 2026,
+  "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8198142?t=gh_src%3D&gh_jid=8198142",
+  "season": "summer",
+  "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Houston",
-      "state": "TX",
+      "city": "Menlo Park",
+      "state": "CA",
       "country": "USA"
     }
   ],
@@ -40,13 +41,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-03",
-    "discovered": "2026-08-04",
+    "posted": "2026-09-15",
+    "discovered": "2026-09-15",
     "last_verified": "2026-09-15"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:ats"
   ]
 }

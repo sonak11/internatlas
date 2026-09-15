@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "microchip-technology-engineering-intern-software-development-2026",
+  "id": "waymo-2027-summer-intern-mba-salesforce-product-owner-2027",
   "company": {
-    "name": "Microchip Technology",
-    "slug": "microchip-technology"
+    "name": "Waymo",
+    "slug": "waymo",
+    "career_page": "https://waymo.com/careers"
   },
-  "role": "Engineering Intern - Software Development",
+  "role": "2027 Summer Intern, MBA, Salesforce Product Owner",
   "category": "software-engineering",
-  "apply_url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/TX---Houston---Compaq-Center-Dr/Intern-Engineering--Software-Development-_R3371-26",
-  "season": "fall",
-  "year": 2026,
+  "apply_url": "https://careers.withwaymo.com/jobs?gh_jid=8198582",
+  "season": "summer",
+  "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Houston",
-      "state": "TX",
+      "city": "Los Angeles",
       "country": "USA"
     }
   ],
@@ -40,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-03",
-    "discovered": "2026-08-04",
+    "posted": "2026-09-15",
+    "discovered": "2026-09-15",
     "last_verified": "2026-09-15"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:ats"
   ]
 }
