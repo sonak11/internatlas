@@ -1,20 +1,19 @@
 {
   "schema_version": "1.0",
-  "id": "gulfstream-flight-sciences-swapp-intern-2027",
+  "id": "louisiana-blue-value-based-operations-analyst-intern-spring-2027-2027",
   "company": {
-    "name": "Gulfstream",
-    "slug": "gulfstream"
+    "name": "Louisiana Blue",
+    "slug": "louisiana-blue"
   },
-  "role": "Flight Sciences / SWAPP Intern",
+  "role": "Value Based Operations Analyst Intern - Spring 2027",
   "category": "software-engineering",
-  "apply_url": "https://careers.gulfstream.com/job/Savannah-Spring-2027-IEF-Flight-Sciences-SWAPP-Collegiate-Intern-GA-31401/1428204100/?ats=successfactors",
+  "apply_url": "https://bcbsla.wd1.myworkdayjobs.com/Generation_Blue/job/Remote-LA/CW-Value-Based-Operations-Analyst-Intern--Spring-2027-_R12138",
   "season": "spring",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Savannah",
-      "state": "GA",
+      "state": "LA",
       "country": "USA"
     }
   ],
@@ -25,10 +24,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters",
-      "phd"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -43,11 +39,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-09",
-    "discovered": "2026-09-09",
+    "posted": "2026-09-16",
+    "discovered": "2026-09-16",
     "last_verified": "2026-09-16"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

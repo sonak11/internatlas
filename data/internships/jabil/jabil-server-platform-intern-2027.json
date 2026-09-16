@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "gulfstream-flight-sciences-swapp-intern-2027",
+  "id": "jabil-server-platform-intern-2027",
   "company": {
-    "name": "Gulfstream",
-    "slug": "gulfstream"
+    "name": "Jabil",
+    "slug": "jabil"
   },
-  "role": "Flight Sciences / SWAPP Intern",
+  "role": "Server Platform Intern",
   "category": "software-engineering",
-  "apply_url": "https://careers.gulfstream.com/job/Savannah-Spring-2027-IEF-Flight-Sciences-SWAPP-Collegiate-Intern-GA-31401/1428204100/?ats=successfactors",
-  "season": "spring",
+  "apply_url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Austin-TX/Server-Platform-Intern_J2464685",
+  "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Savannah",
-      "state": "GA",
+      "city": "Austin",
+      "state": "TX",
       "country": "USA"
     }
   ],
@@ -25,10 +25,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters",
-      "phd"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -43,11 +40,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-09",
-    "discovered": "2026-09-09",
+    "posted": "2026-09-16",
+    "discovered": "2026-09-16",
     "last_verified": "2026-09-16"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

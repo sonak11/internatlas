@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "gulfstream-flight-sciences-swapp-intern-2027",
+  "id": "waymo-2027-summer-intern-ms-phd-software-engineer-2027",
   "company": {
-    "name": "Gulfstream",
-    "slug": "gulfstream"
+    "name": "Waymo",
+    "slug": "waymo",
+    "career_page": "https://waymo.com/careers"
   },
-  "role": "Flight Sciences / SWAPP Intern",
+  "role": "2027 Summer Intern, MS/PhD, Software Engineer",
   "category": "software-engineering",
-  "apply_url": "https://careers.gulfstream.com/job/Savannah-Spring-2027-IEF-Flight-Sciences-SWAPP-Collegiate-Intern-GA-31401/1428204100/?ats=successfactors",
-  "season": "spring",
+  "apply_url": "https://careers.withwaymo.com/jobs?gh_jid=8202801",
+  "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Savannah",
-      "state": "GA",
+      "city": "Mountain View",
       "country": "USA"
     }
   ],
@@ -25,10 +25,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters",
-      "phd"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -43,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-09",
-    "discovered": "2026-09-09",
+    "posted": "2026-09-16",
+    "discovered": "2026-09-16",
     "last_verified": "2026-09-16"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:ats"
   ]
 }

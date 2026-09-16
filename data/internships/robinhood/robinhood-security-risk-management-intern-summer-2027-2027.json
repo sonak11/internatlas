@@ -1,20 +1,21 @@
 {
   "schema_version": "1.0",
-  "id": "gulfstream-flight-sciences-swapp-intern-2027",
+  "id": "robinhood-security-risk-management-intern-summer-2027-2027",
   "company": {
-    "name": "Gulfstream",
-    "slug": "gulfstream"
+    "name": "Robinhood",
+    "slug": "robinhood",
+    "career_page": "https://careers.robinhood.com/"
   },
-  "role": "Flight Sciences / SWAPP Intern",
-  "category": "software-engineering",
-  "apply_url": "https://careers.gulfstream.com/job/Savannah-Spring-2027-IEF-Flight-Sciences-SWAPP-Collegiate-Intern-GA-31401/1428204100/?ats=successfactors",
-  "season": "spring",
+  "role": "Security Risk Management Intern (Summer 2027)",
+  "category": "security",
+  "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8207970?t=gh_src%3D&gh_jid=8207970",
+  "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Savannah",
-      "state": "GA",
+      "city": "Menlo Park",
+      "state": "CA",
       "country": "USA"
     }
   ],
@@ -25,10 +26,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters",
-      "phd"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -43,13 +41,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-09",
-    "discovered": "2026-09-09",
+    "posted": "2026-09-16",
+    "discovered": "2026-09-16",
     "last_verified": "2026-09-16"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:ats"
   ]
 }

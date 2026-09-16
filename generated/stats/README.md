@@ -10,7 +10,7 @@ _Generated 2026-09-16_
 |---|---|
 | Tesla | 176 |
 | TikTok | 167 |
-| RTX | 113 |
+| RTX | 116 |
 | ByteDance | 69 |
 | American Express | 68 |
 | AMD | 66 |
@@ -22,9 +22,9 @@ _Generated 2026-09-16_
 | Marvell | 40 |
 | Bank of Montreal | 37 |
 | NVIDIA | 37 |
+| Robinhood | 34 |
 | Coinbase | 33 |
 | Navy Federal | 33 |
-| Robinhood | 33 |
 | Zipline | 33 |
 | Cloudflare | 32 |
 | The Walt Disney Company | 32 |
@@ -33,10 +33,10 @@ _Generated 2026-09-16_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 2761 | `███████████████` |
+| software-engineering | 2768 | `███████████████` |
 | ai | 368 | `██` |
 | quant | 292 | `██` |
-| machine-learning | 201 | `█` |
+| machine-learning | 202 | `█` |
 | hardware | 185 | `█` |
 | data-science | 169 | `█` |
 | research | 147 | `█` |
@@ -45,11 +45,12 @@ _Generated 2026-09-16_
 | embedded | 108 | `█` |
 | data-engineering | 86 | `█` |
 | cloud | 56 | `█` |
-| security | 20 | `█` |
+| security | 21 | `█` |
 
 ## Newest listings
 
 - 2026-09-16 — **Antares Nuclear**: [Software Engineer Intern](https://jobs.ashbyhq.com/Antares/419ef2df-f0aa-4b68-994a-077e08a959e3/application?embed=true)
+- 2026-09-16 — **Bass Pro Shops**: [IT Developer Intern](https://basspro.wd1.myworkdayjobs.com/careers/job/Springfield-MO-Bass-Pro-Shops-Base-Camp/IT-Developer-Intern-Summer-2027_R267441-1)
 - 2026-09-16 — **Bedrock Robotics**: [Software Engineer Intern - Fleet Platform](https://jobs.ashbyhq.com/bedrock-robotics/8927dd7e-a48d-49a2-92eb-09ec059432f4/application?embed=true)
 - 2026-09-16 — **CesiumAstro**: [Electrical Engineer Intern - FPGA](https://jobs.lever.co/CesiumAstro/e6d87528-5da1-4970-9e42-7b224cfa63a9/apply)
 - 2026-09-16 — **CesiumAstro**: [Electrical Engineer Intern - Hardware](https://jobs.lever.co/CesiumAstro/ccb0f99f-0cc7-4517-8d1c-faeca53b5e5c/apply)
@@ -61,14 +62,13 @@ _Generated 2026-09-16_
 - 2026-09-16 — **Gecko Robotics**: [Full Stack Software Engineer Intern](https://jobs.ashbyhq.com/gecko-robotics/01138338-ff3c-4982-8ba3-5401386bf082/application?embed=true)
 - 2026-09-16 — **General Dynamics**: [Information Technology Intern - Software Engineering - Computer Science](https://careers-gdeb.icims.com/jobs/20341/job?mobile=true&needsRedirect=false)
 - 2026-09-16 — **Illinois Tool Works**: [Product Management Intern](https://careers.itw.com/global/en/job/JR10112)
+- 2026-09-16 — **Jabil**: [Server Platform Intern](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Austin-TX/Server-Platform-Intern_J2464685)
 - 2026-09-16 — **Lawrence Livermore National Laboratory (LLNL)**: [Data Science Undergraduate Student Intern - Summer 2027](https://jobs.smartrecruiters.com/LLNL/3743990015289136)
 - 2026-09-16 — **Live Oak Bank**: [Architecture/Engineering Intern](https://liveoakbancshares.wd1.myworkdayjobs.com/en-US/Live_Oak/job/Wilmington-NC/Summer-2027-Intern--Architecture-Engineering_R-002630)
 - 2026-09-16 — **Live Oak Bank**: [Artificial Intelligence Enablement & Forward-Deployed Engineering Intern](https://liveoakbancshares.wd1.myworkdayjobs.com/en-US/Live_Oak/job/Wilmington-NC/Summer-2027-Intern--AI-Enablement---Forward-Deployed-Engineering_R-002624)
+- 2026-09-16 — **Louisiana Blue**: [Value Based Operations Analyst Intern - Spring 2027](https://bcbsla.wd1.myworkdayjobs.com/Generation_Blue/job/Remote-LA/CW-Value-Based-Operations-Analyst-Intern--Spring-2027-_R12138)
 - 2026-09-16 — **RAVE Aerospace**: [Software Engineer Intern](https://apply.workable.com/raveaerospace/j/739753C003/apply)
-- 2026-09-16 — **Talos**: [Software Engineer Intern - Trading](https://jobs.ashbyhq.com/Talos-Trading/42cad756-c312-4142-a9b7-18ed76f61c5d/application?embed=true)
-- 2026-09-16 — **The Walt Disney Company**: [Costuming Project Analyst Intern - Spring 2027](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Orlando-FL-USA/Disney-Live-Entertainment-Costuming-Project-Analyst--Orlando--Spring-2027_10160667)
-- 2026-09-16 — **V2X**: [Artificial Intelligence Intern](https://careers.gov2x.com/jobs/62843?icims=1)
-- 2026-09-16 — **Wabash Valley Power Alliance**: [Energy Efficiency & Demand Response Intern](https://jobs.smartrecruiters.com/WabashValleyPowerAlliance/744000149873771)
+- 2026-09-16 — **Robinhood**: [Security Risk Management Intern (Summer 2027)](https://boards.greenhouse.io/robinhood/jobs/8207970?t=gh_src%3D&gh_jid=8207970)
 
 ## Recently closed
 
@@ -130,7 +130,6 @@ _Generated 2026-09-16_
 - Booz Allen — Applied AI Intern - University
 - Booz Allen — Data Scientist Intern - University - Summer Games
 - Booz Allen — Software Developer Intern - University
-- Booz Allen — Software Developer Intern - University
 - Booz Allen — Software Engineer Intern
 - Bosch Home Comfort — Calibration Process Optimization Intern
 - Bosch Home Comfort — Electrochemistry Modeling Intern
@@ -160,8 +159,6 @@ _Generated 2026-09-16_
 - ByteDance — Software Engineer Intern - AML-Engine-Orchestration
 - ByteDance — Software Engineer Intern - Traffic Infrastructure
 - CACI — GMU Scholar Program Intern
-- CAI — Software Developer Intern
-- CAI — Software Developer Intern
 - CALSTART — Data Analysis Intern
 - CALSTART — Zero-Emission Data & Research Intern
 - Canadian Solar — Data Analysis Intern - Quality
@@ -300,6 +297,7 @@ _Generated 2026-09-16_
 - GlobalFoundries — RF Technology Development Automation Engineer Intern - Summer 2027
 - GlobalFoundries — Robotics and Automation Engineering Intern - Junior
 - GlobalFoundries — Silicon Photonics Advanced Packaging Intern
+- GlobalFoundries — Systems Engineer Intern
 - Goldman Sachs — Associate Intern - The Core Quantitative Strats
 - Goldman Sachs — Summer Analyst Intern - Americas - AWM Product Management
 - Goldman Sachs — Summer Analyst Intern - Americas - Engineering
@@ -316,7 +314,10 @@ _Generated 2026-09-16_
 - Grant Thornton — AI, Data & Technology Intern - Summer 2027
 - Grant Thornton — Tax Technology Intern - Summer 2027
 - Grant Thornton — Tax Technology Intern - Summer 2027
+- Gulfstream — AI Product Collegiate Associate Intern
+- Gulfstream — Flight Sciences / SWAPP Intern
 - Gulfstream — Human Factors Engineer Intern - SE&I
+- Gulfstream — Software Engineer Intern - IEF
 - Gumloop — Design Engineer Intern
 - H3X Technologies — Electromagnetics Engineering Intern - Spring
 - Hendrick Motorsports — Electrical Engineer Intern
@@ -795,6 +796,7 @@ _Generated 2026-09-16_
 - Xcel Energy — Damage Prevention Intern
 - Xsolla — AI Engineer Intern
 - Xsolla — AI-First Engineer Intern
+- Zello — Analytics Intern
 - Zipline — Applications Engineer Intern - Spring 2027
 - Zipline — Computational Physics Intern - Spring 2027
 - Zipline — Computational Physics Intern - Summer 2027

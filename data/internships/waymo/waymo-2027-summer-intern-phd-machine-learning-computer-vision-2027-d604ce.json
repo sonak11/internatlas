@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "opengov-software-engineer-intern-2027-497174",
+  "id": "waymo-2027-summer-intern-phd-machine-learning-computer-vision-2027-d604ce",
   "company": {
-    "name": "OpenGov",
-    "slug": "opengov"
+    "name": "Waymo",
+    "slug": "waymo",
+    "career_page": "https://waymo.com/careers"
   },
-  "role": "Software Engineer Intern",
-  "category": "software-engineering",
-  "apply_url": "https://jobs.ashbyhq.com/opengov/d036cfd6-5a01-41ed-af73-78fc32854849/application?embed=true",
+  "role": "2027 Summer Intern, PhD, Machine Learning, Computer Vision",
+  "category": "machine-learning",
+  "apply_url": "https://careers.withwaymo.com/jobs?gh_jid=8202025",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Atlanta",
-      "state": "GA",
+      "city": "Mountain View",
       "country": "USA"
     }
   ],
@@ -40,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-14",
-    "discovered": "2026-09-14",
+    "posted": "2026-09-16",
+    "discovered": "2026-09-16",
     "last_verified": "2026-09-16"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:ats"
   ]
 }
