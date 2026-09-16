@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "opengov-product-intern-2027-d2d076",
+  "id": "waymo-2027-summer-intern-phd-quantitative-software-engineer-2027",
   "company": {
-    "name": "OpenGov",
-    "slug": "opengov"
+    "name": "Waymo",
+    "slug": "waymo",
+    "career_page": "https://waymo.com/careers"
   },
-  "role": "Product Intern",
-  "category": "software-engineering",
-  "apply_url": "https://jobs.ashbyhq.com/opengov/2581c459-07f2-4bd8-9cbd-1d242beaac66/application?embed=true",
+  "role": "2027 Summer Intern, PhD, Quantitative Software Engineer",
+  "category": "quant",
+  "apply_url": "https://careers.withwaymo.com/jobs?gh_jid=8197554",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Atlanta",
-      "state": "GA",
+      "city": "Mountain View",
       "country": "USA"
     }
   ],
@@ -40,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-14",
-    "discovered": "2026-09-15",
+    "posted": "2026-09-16",
+    "discovered": "2026-09-16",
     "last_verified": "2026-09-16"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:ats"
   ]
 }

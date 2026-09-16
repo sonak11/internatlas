@@ -1,23 +1,18 @@
 {
   "schema_version": "1.0",
-  "id": "postman-ai-engineer-intern-2026",
+  "id": "twilio-software-engineer-intern-january-12th-start-23-weeks-2027",
   "company": {
-    "name": "Postman",
-    "slug": "postman"
+    "name": "Twilio",
+    "slug": "twilio",
+    "career_page": "https://www.twilio.com/company/jobs"
   },
-  "role": "AI Engineer Intern",
-  "category": "ai",
-  "apply_url": "https://job-boards.greenhouse.io/postman/jobs/7823417003",
-  "season": "fall",
-  "year": 2026,
-  "work_mode": "onsite",
-  "locations": [
-    {
-      "city": "Berkeley",
-      "state": "CA",
-      "country": "USA"
-    }
-  ],
+  "role": "Software Engineer Intern (January 12th start, 23 weeks)",
+  "category": "software-engineering",
+  "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8190889",
+  "season": "summer",
+  "year": 2027,
+  "work_mode": "remote",
+  "locations": [],
   "compensation": {
     "currency": "USD",
     "housing_stipend": false,
@@ -25,10 +20,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters",
-      "phd"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -43,13 +35,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-01",
-    "discovered": "2026-08-02",
+    "posted": "2026-09-16",
+    "discovered": "2026-09-16",
     "last_verified": "2026-09-16"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:ats"
   ]
 }

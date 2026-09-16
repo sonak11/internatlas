@@ -1,6 +1,6 @@
 {
   "generated": "2026-09-16",
-  "count": 4665,
+  "count": 4666,
   "internships": [
     {
       "schema_version": "1.0",
@@ -47581,7 +47581,7 @@
         "discovered": "2026-08-01",
         "last_verified": "2026-09-16"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -94195,7 +94195,7 @@
         "discovered": "2026-09-10",
         "last_verified": "2026-09-16"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -94357,7 +94357,7 @@
         "discovered": "2026-08-26",
         "last_verified": "2026-09-16"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -94461,7 +94461,7 @@
         "discovered": "2026-08-24",
         "last_verified": "2026-09-16"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -120598,7 +120598,7 @@
         "discovered": "2026-09-12",
         "last_verified": "2026-09-16"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -154102,7 +154102,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "opengov-product-intern-2027-d2d076",
+      "id": "opengov-product-intern-2027",
       "company": {
         "name": "OpenGov",
         "slug": "opengov"
@@ -154117,58 +154117,6 @@
         {
           "city": "Atlanta",
           "state": "GA",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-09-14",
-        "discovered": "2026-09-15",
-        "last_verified": "2026-09-16"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "opengov-product-intern-2027",
-      "company": {
-        "name": "OpenGov",
-        "slug": "opengov"
-      },
-      "role": "Product Intern",
-      "category": "software-engineering",
-      "apply_url": "https://jobs.ashbyhq.com/opengov/163f2c69-851d-4215-ae4b-bb717b2e66d6/application?embed=true",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Boston",
-          "state": "MA",
           "country": "USA"
         }
       ],
@@ -163768,7 +163716,7 @@
         "discovered": "2026-08-02",
         "last_verified": "2026-09-16"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -186942,7 +186890,7 @@
         "discovered": "2026-08-11",
         "last_verified": "2026-09-16"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -190011,7 +189959,7 @@
         "discovered": "2026-08-29",
         "last_verified": "2026-09-16"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -190062,7 +190010,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-16"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -190113,7 +190061,7 @@
         "discovered": "2026-08-29",
         "last_verified": "2026-09-16"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -194637,7 +194585,7 @@
         "discovered": "2026-08-14",
         "last_verified": "2026-09-16"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -222212,7 +222160,7 @@
         "discovered": "2026-08-01",
         "last_verified": "2026-09-16"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -235512,6 +235460,53 @@
     },
     {
       "schema_version": "1.0",
+      "id": "twilio-software-engineer-intern-january-12th-start-23-weeks-2027",
+      "company": {
+        "name": "Twilio",
+        "slug": "twilio",
+        "career_page": "https://www.twilio.com/company/jobs"
+      },
+      "role": "Software Engineer Intern (January 12th start, 23 weeks)",
+      "category": "software-engineering",
+      "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8190889",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "remote",
+      "locations": [],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-16",
+        "discovered": "2026-09-16",
+        "last_verified": "2026-09-16"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "two-sigma-ai-research-scientist-intern-2027-summer-2027",
       "company": {
         "name": "Two Sigma",
@@ -246906,6 +246901,58 @@
       "dates": {
         "posted": "2026-09-10",
         "discovered": "2026-09-10",
+        "last_verified": "2026-09-16"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "waymo-2027-summer-intern-phd-quantitative-software-engineer-2027",
+      "company": {
+        "name": "Waymo",
+        "slug": "waymo",
+        "career_page": "https://waymo.com/careers"
+      },
+      "role": "2027 Summer Intern, PhD, Quantitative Software Engineer",
+      "category": "quant",
+      "apply_url": "https://careers.withwaymo.com/jobs?gh_jid=8197554",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Mountain View",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-16",
+        "discovered": "2026-09-16",
         "last_verified": "2026-09-16"
       },
       "status": "open",

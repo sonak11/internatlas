@@ -35,7 +35,7 @@ _Generated 2026-09-16_
 |---|---|---|
 | software-engineering | 2768 | `███████████████` |
 | ai | 368 | `██` |
-| quant | 292 | `██` |
+| quant | 293 | `██` |
 | machine-learning | 202 | `█` |
 | hardware | 185 | `█` |
 | data-science | 169 | `█` |
@@ -185,6 +185,7 @@ _Generated 2026-09-16_
 - Chevron Corporation — Supply & Trading TAMU TRIP Program Intern
 - Chevron Corporation — Supply & Trading TRIP Program Intern
 - Ciena — WaveLogic Software Engineer Intern
+- Ciena — Wavelogic Systems Design Architecture Intern
 - Cigna Group — Healthcare Policy & Regulated Markets Intern
 - Citadel — Investment & Trading Intern
 - Citadel — Trader: Fixed Income & Macro Intern
@@ -315,9 +316,12 @@ _Generated 2026-09-16_
 - Grant Thornton — Tax Technology Intern - Summer 2027
 - Grant Thornton — Tax Technology Intern - Summer 2027
 - Gulfstream — AI Product Collegiate Associate Intern
+- Gulfstream — Flight Sciences / Mass Properties College Intern - IEF
 - Gulfstream — Flight Sciences / SWAPP Intern
 - Gulfstream — Human Factors Engineer Intern - SE&I
+- Gulfstream — Reliability & Performance Analytics Intern
 - Gulfstream — Software Engineer Intern - IEF
+- Gulfstream — Software Engineer Intern - Innovation, Engineering and Flight
 - Gumloop — Design Engineer Intern
 - H3X Technologies — Electromagnetics Engineering Intern - Spring
 - Hendrick Motorsports — Electrical Engineer Intern
@@ -403,6 +407,7 @@ _Generated 2026-09-16_
 - L3Harris Technologies — Software Engineer Intern
 - Lawrence Livermore National Laboratory (LLNL) — Computational Engineering Graduate Intern
 - Lawrence Livermore National Laboratory (LLNL) — Energy Systems Analyst Graduate Intern - Fall 2026
+- Leidos — Artificial Intelligence/Machine Learning Intern
 - Leidos — Data Engineering & Analytics Intern
 - Leidos — Software Developer Intern
 - Leland — AI Education Intern
@@ -543,6 +548,7 @@ _Generated 2026-09-16_
 - POET — Plant Engineer Intern - Summer 2027
 - POET — Process Engineering Intern
 - Post Holdings — Product R&D Intern - Summer 2027
+- Postman — AI Engineer Intern
 - Praytell — Analytics & Reporting Intern
 - PricewaterhouseCoopers (PwC) — Business Analytics Intern - Mida
 - PricewaterhouseCoopers (PwC) — Cloud, Data and AI Intern
@@ -624,18 +630,23 @@ _Generated 2026-09-16_
 - RTX — Software Engineer Intern - Summer 2027
 - RTX — Software Engineer Intern - Summer 2027
 - RTX — Software Engineer Intern - Summer/Fall 2027 - Mission Engineering / Operational Analysis
+- RTX — Software Engineering Intern
 - RTX — Spectrum Dominance Intern
 - RTX — Systems Engineer 1 Intern - Intern Conversion
 - RTX — Systems Engineering Intern
 - RTX — Technical Publications Technical Developer Intern - Artificial Intelligence/Machine Learning
 - RTX — Work Transfer Analyst Intern - Global Work Transfer Analyst
 - SchoolMint — Marketing Technology & Analytics Intern
+- Schroders — Product Intern
+- Schroders — Product Strategy Intern
+- Schroders — Public Markets Quants Intern - Quants (Public Markets)
 - Schweitzer Engineering Laboratories — Engineering Intern
 - Schweitzer Engineering Laboratories — Test Engineer Intern
 - SciTec — Intern - Multiple Teams
 - Sensata — Electrical Engineer Intern
 - Sierra — Agent Development Intern
 - Skydio — Product Management Intern
+- Snap — Research Scientist Intern - User Modeling and Personalization
 - Solid Power — Product Engineer Intern
 - Solid Power — R&D Intern - Catholyte
 - Sony — Account Management & Business Analytics Intern
@@ -727,6 +738,7 @@ _Generated 2026-09-16_
 - The Walt Disney Company — Systems Application Development and Sustainment Intern
 - The Walt Disney Company — Transportation Logistics & Analytics Intern - Spring 2027
 - Thea Energy — Physics Intern
+- Thomson Reuters — Research Scientist Intern
 - thyssenkrupp — Sustainability Systems Intern
 - TikTok — AI Product Manager Intern - Content Ecosystem
 - TikTok — Client Solutions Intern
