@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "cesiumastro-test-engineer-intern-2027",
+  "id": "cesiumastro-electrical-engineer-intern-fpga-2027",
   "company": {
     "name": "CesiumAstro",
     "slug": "cesiumastro"
   },
-  "role": "Test Engineer Intern",
-  "category": "software-engineering",
-  "apply_url": "https://jobs.lever.co/CesiumAstro/a8f6548c-e941-48cb-9e52-596d110556c0/apply",
-  "season": "spring",
+  "role": "Electrical Engineer Intern - FPGA",
+  "category": "hardware",
+  "apply_url": "https://jobs.lever.co/CesiumAstro/e6d87528-5da1-4970-9e42-7b224cfa63a9/apply",
+  "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Austin",
-      "state": "TX",
+      "city": "Westminster",
+      "state": "CO",
       "country": "USA"
     }
   ],
@@ -26,7 +26,8 @@
   "eligibility": {
     "graduation_years": [],
     "degree_levels": [
-      "masters"
+      "masters",
+      "phd"
     ],
     "citizenship_required": false,
     "security_clearance_required": false,
@@ -42,11 +43,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-04",
-    "discovered": "2026-08-28",
+    "posted": "2026-09-16",
+    "discovered": "2026-09-16",
     "last_verified": "2026-09-16"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

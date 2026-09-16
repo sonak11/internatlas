@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "cesiumastro-test-engineer-intern-2027",
+  "id": "pricewaterhousecoopers-pwc-product-management-intern-commercial-tech-innovation-2027",
   "company": {
-    "name": "CesiumAstro",
-    "slug": "cesiumastro"
+    "name": "PricewaterhouseCoopers (PwC)",
+    "slug": "pricewaterhousecoopers-pwc"
   },
-  "role": "Test Engineer Intern",
-  "category": "software-engineering",
-  "apply_url": "https://jobs.lever.co/CesiumAstro/a8f6548c-e941-48cb-9e52-596d110556c0/apply",
-  "season": "spring",
+  "role": "Product Management Intern - Commercial Tech & Innovation",
+  "category": "product",
+  "apply_url": "https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Advisory-National---Commercial-Tech---Innovation---Product-Management-Intern---Summer-2027_760527WD",
+  "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Austin",
-      "state": "TX",
+      "city": "Rosemont",
+      "state": "IL",
       "country": "USA"
     }
   ],
@@ -25,9 +25,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -42,11 +40,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-04",
-    "discovered": "2026-08-28",
+    "posted": "2026-09-15",
+    "discovered": "2026-09-16",
     "last_verified": "2026-09-16"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

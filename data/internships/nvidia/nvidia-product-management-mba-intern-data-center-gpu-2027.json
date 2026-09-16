@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "cesiumastro-test-engineer-intern-2027",
+  "id": "nvidia-product-management-mba-intern-data-center-gpu-2027",
   "company": {
-    "name": "CesiumAstro",
-    "slug": "cesiumastro"
+    "name": "NVIDIA",
+    "slug": "nvidia"
   },
-  "role": "Test Engineer Intern",
-  "category": "software-engineering",
-  "apply_url": "https://jobs.lever.co/CesiumAstro/a8f6548c-e941-48cb-9e52-596d110556c0/apply",
-  "season": "spring",
+  "role": "Product Management MBA Intern - Data Center GPU",
+  "category": "product",
+  "apply_url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--Data-Center-GPU---Summer-2027_JR2025670-1",
+  "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Austin",
-      "state": "TX",
+      "city": "Santa Clara",
+      "state": "CA",
       "country": "USA"
     }
   ],
@@ -25,9 +25,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -42,11 +40,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-04",
-    "discovered": "2026-08-28",
+    "posted": "2026-09-15",
+    "discovered": "2026-09-16",
     "last_verified": "2026-09-16"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

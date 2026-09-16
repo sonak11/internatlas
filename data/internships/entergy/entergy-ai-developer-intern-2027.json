@@ -1,20 +1,30 @@
 {
   "schema_version": "1.0",
-  "id": "cesiumastro-test-engineer-intern-2027",
+  "id": "entergy-ai-developer-intern-2027",
   "company": {
-    "name": "CesiumAstro",
-    "slug": "cesiumastro"
+    "name": "Entergy",
+    "slug": "entergy"
   },
-  "role": "Test Engineer Intern",
-  "category": "software-engineering",
-  "apply_url": "https://jobs.lever.co/CesiumAstro/a8f6548c-e941-48cb-9e52-596d110556c0/apply",
+  "role": "AI Developer Intern",
+  "category": "ai",
+  "apply_url": "https://jobs.entergy.com/job/New-Orleans-Student-Intern-AI-Developer-Spring-2027-Loui/1430299700/?ats=successfactors",
   "season": "spring",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Austin",
+      "city": "New Orleans",
+      "state": "LA",
+      "country": "USA"
+    },
+    {
+      "city": "The Woodlands",
       "state": "TX",
+      "country": "USA"
+    },
+    {
+      "city": "Hammond",
+      "state": "LA",
       "country": "USA"
     }
   ],
@@ -25,9 +35,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -42,11 +50,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-04",
-    "discovered": "2026-08-28",
+    "posted": "2026-09-15",
+    "discovered": "2026-09-16",
     "last_verified": "2026-09-16"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

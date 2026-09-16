@@ -21,7 +21,7 @@ _Generated 2026-09-16_
 | Booz Allen | 41 |
 | Marvell | 40 |
 | Bank of Montreal | 37 |
-| NVIDIA | 36 |
+| NVIDIA | 37 |
 | Coinbase | 33 |
 | Navy Federal | 33 |
 | Robinhood | 33 |
@@ -34,21 +34,27 @@ _Generated 2026-09-16_
 | Category | Count | Share |
 |---|---|---|
 | software-engineering | 2749 | `███████████████` |
-| ai | 365 | `██` |
+| ai | 366 | `██` |
 | quant | 292 | `██` |
 | machine-learning | 200 | `█` |
-| hardware | 182 | `█` |
-| data-science | 167 | `█` |
+| hardware | 185 | `█` |
+| data-science | 169 | `█` |
 | research | 147 | `█` |
-| product | 142 | `█` |
+| product | 144 | `█` |
 | design | 118 | `█` |
-| embedded | 107 | `█` |
+| embedded | 108 | `█` |
 | data-engineering | 86 | `█` |
 | cloud | 56 | `█` |
 | security | 20 | `█` |
 
 ## Newest listings
 
+- 2026-09-16 — **CesiumAstro**: [Electrical Engineer Intern - FPGA](https://jobs.lever.co/CesiumAstro/e6d87528-5da1-4970-9e42-7b224cfa63a9/apply)
+- 2026-09-16 — **CesiumAstro**: [Electrical Engineer Intern - Hardware](https://jobs.lever.co/CesiumAstro/ccb0f99f-0cc7-4517-8d1c-faeca53b5e5c/apply)
+- 2026-09-16 — **CesiumAstro**: [Electrical Engineer Intern - Hardware](https://jobs.lever.co/CesiumAstro/6a953cbc-af69-452c-b357-1a0a3db80bbf/apply)
+- 2026-09-16 — **CesiumAstro**: [Embedded Software Engineer Intern](https://jobs.lever.co/CesiumAstro/d25bf640-2b2b-48d6-ab79-8a06b246caaa/apply)
+- 2026-09-16 — **CesiumAstro**: [Embedded Software Engineer Intern](https://jobs.lever.co/CesiumAstro/96e97f22-a5b2-4e95-af84-b4f765343663/apply)
+- 2026-09-16 — **Lawrence Livermore National Laboratory (LLNL)**: [Data Science Undergraduate Student Intern - Summer 2027](https://jobs.smartrecruiters.com/LLNL/3743990015289136)
 - 2026-09-15 — **Acxiom**: [Data Engineer Intern](https://acxiomllc.wd5.myworkdayjobs.com/AcxiomUSA/job/RemoteHomebased/Intern---Data-Engineer_JR014482)
 - 2026-09-15 — **Acxiom**: [Product Manager Intern - Real Identity Product Team](https://acxiomllc.wd5.myworkdayjobs.com/AcxiomUSA/job/RemoteHomebased/Intern---Product-Management_JR014473-1)
 - 2026-09-15 — **Alliance Laundry Systems**: [Data & Analytics Intern](https://uscareeropenings-alliancelaundry.icims.com/jobs/13162/job?mobile=true&needsRedirect=false)
@@ -63,12 +69,6 @@ _Generated 2026-09-16_
 - 2026-09-15 — **Autodesk**: [Software Developer Intern](https://autodesk.wd1.myworkdayjobs.com/uni/job/Montreal-QC-CAN/Intern--Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD101101-1)
 - 2026-09-15 — **Autodesk**: [Software Developer Intern](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Intern--Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD101101-2)
 - 2026-09-15 — **BlackRock**: [Quantitative Master's Intern - Investments - Global Capital Markets](https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/San-Francisco-CA/XMLNAME-2027-Quantitative-Masters-Internship-Program---Investments---Global-Capital-Markets---San-Francisco_R266469)
-- 2026-09-15 — **BlackRock**: [Quantitative Master’s Intern - Investments - Global Capital Markets](https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/New-York-NY/XMLNAME-2027-Quantitative-Masters-Internship-Program---Investments---Global-Capital-Markets---New-York_R266468)
-- 2026-09-15 — **BlackRock**: [Quantitative Master’s Intern - Investments - Portfolio Management](https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/San-Francisco-CA/XMLNAME-2027-Quantitative-Masters-Internship-Program---Investments---Portfolio-Management---San-Francisco_R266472)
-- 2026-09-15 — **BlackRock**: [Quantitative Master’s Intern - Investments - Portfolio Management](https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/Atlanta-GA/XMLNAME-2027-Quantitative-Masters-Internship-Program---Investments---Portfolio-Management---Atlanta_R266470)
-- 2026-09-15 — **BlackRock**: [Quantitative Master’s Intern - Investments - Quantitative Investing](https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/New-York-NY/XMLNAME-2027-Quantitative-Masters-Internship-Program---Investments---Quantitative-Investing---New-York_R266473)
-- 2026-09-15 — **BlackRock**: [Quantitative Master’s Intern - Investments - Quantitative Investing](https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/San-Francisco-CA/XMLNAME-2027-Quantitative-Masters-Internship-Program---Investments---Quantitative-Investing---San-Francisco_R266474)
-- 2026-09-15 — **BlackRock**: [Quantitative Master's Intern - Investments - Quantitative Investing](https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/London-Greater-London/XMLNAME-2027-Quantitative-Masters-Internship-Programme---Investments---Quantitative-Investing---London_R266465)
 
 ## Recently closed
 
@@ -90,7 +90,9 @@ _Generated 2026-09-16_
 - American Express — Undergraduate Intern - Strategy & Analytics
 - Amgen — Operations Graduate Program Intern - Operations
 - Analog Devices — AI/ML Engineer Intern
+- Analog Devices — Algorithm Development Engineer Intern
 - Analog Devices — Analog Design Engineer Intern
+- Analog Devices — Product Engineer Intern - Product Development
 - Analysis Group — Research Professional Intern - Generalist
 - AnaVation — Computer Science Intern
 - AnaVation — Computer Science Intern - Summer Program
@@ -160,6 +162,7 @@ _Generated 2026-09-16_
 - ByteDance — Software Engineer Intern - Traffic Infrastructure
 - CACI — GMU Scholar Program Intern
 - CAI — Software Developer Intern
+- CAI — Software Developer Intern
 - CALSTART — Data Analysis Intern
 - CALSTART — Zero-Emission Data & Research Intern
 - Canadian Solar — Data Analysis Intern - Quality
@@ -173,12 +176,14 @@ _Generated 2026-09-16_
 - CCC Intelligent Solutions — Applied AI Engineer Intern
 - Celonis — Engineering Intern
 - Centific — Technical Intern - Masters or PhD
+- CesiumAstro — Test Engineer Intern
 - Chanel — Data Intern - Global Data Program
 - CHAOS Industries — Electrical Engineer Intern - Summer 2027
 - CHAOS Industries — Software Engineer Intern
 - Charles Schwab — Data Engineering Intern - Data Engineering
 - Charles Schwab — Product Management Intern - Thinkorswim
 - Charles Schwab — Software Engineering Intern - Technology
+- Chemours — Data Visualization Analyst Intern
 - Chevron — Previous Intern - Information Technology - Information and Analytics
 - Chevron Corporation — Intern
 - Chevron Corporation — Supply & Trading TAMU TRIP Program Intern
@@ -240,6 +245,7 @@ _Generated 2026-09-16_
 - Emerging Tech — Integration Analyst Intern
 - Emerson Electric — Application Engineer Intern
 - Emory University — Student Tester and Developer Intern - GPS Sample
+- Enact Mortgage Insurance — Data Science Intern
 - Enact Mortgage Insurance — Software Engineer Intern
 - Engenious Design — Systems Architecture Intern
 - Entergy — Engineering Intern
@@ -285,6 +291,7 @@ _Generated 2026-09-16_
 - General Intuition &amp; Medal — Technical Intern and New Grad
 - General Matter — Electrical Engineering Intern
 - General Motors — Electrical & SDV Intern - Global Manufacturing
+- Genworth Financial — Data Science Intern
 - Genworth Financial — IT Development Program Intern - IT Development Program
 - Genworth Financial — Software Engineer Intern
 - Geotab — Data Analyst Intern
@@ -293,32 +300,11 @@ _Generated 2026-09-16_
 - GlobalFoundries — RF Technology Development Automation Engineer Intern - Summer 2027
 - GlobalFoundries — Robotics and Automation Engineering Intern - Junior
 - GlobalFoundries — Silicon Photonics Advanced Packaging Intern
-- Goldman Sachs — Associate Intern - The Core Quantitative Strats
-- Goldman Sachs — AWM Product Management Analyst Intern
-- Goldman Sachs — Quantitative Strategist Associate Intern - Asset and Wealth Management
-- Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Americas
-- Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Investment Banking
-- Goldman Sachs — Quantitative Strats Analyst Intern - Americas - Investment Banking
-- Goldman Sachs — Summer Analyst Intern
 - Goldman Sachs — Summer Analyst Intern - Americas - AWM Product Management
-- Goldman Sachs — Summer Analyst Intern - Americas - Investment Banking Quantitative Strats
-- Goldman Sachs — Summer Analyst Intern - Engineering
-- Goldman Sachs — Summer Analyst Intern - Engineering
-- Goldman Sachs — Summer Analyst Intern - Engineering
-- Goldman Sachs — Summer Analyst Intern - Engineering
-- Goldman Sachs — Summer Analyst Intern - FICC and Equities - Sales and Trading
+- Goldman Sachs — Summer Analyst Intern - Americas - Engineering
 - Goldman Sachs — Summer Analyst Intern - FICC & Equities - Sales & Trading
-- Goldman Sachs — Summer Analyst Intern - The Core Quantitative Strats
 - Goldman Sachs — Summer Analyst Intern - Wealth Management - Product Management and Design
-- Goldman Sachs — Summer Analyst Intern - Wealth Management - Quantitative Finance
-- Goldman Sachs — Summer Associate Intern
+- Goldman Sachs — Summer Associate Intern - Multiple Teams
 - Grant Thornton — AI, Data & Technology Intern - Summer 2027
 - Grant Thornton — AI, Data & Technology Intern - Summer 2027
 - Grant Thornton — AI, Data & Technology Intern - Summer 2027
@@ -509,6 +495,7 @@ _Generated 2026-09-16_
 - NVIDIA — Computer Architecture and Systems Intern - Research
 - NVIDIA — Computer Vision and Deep Learning Intern
 - NVIDIA — Developer and Performance Technology Intern
+- NVIDIA — Generative AI Ph.D. Research Intern
 - NVIDIA — Large Language Models Intern - Research
 - NVIDIA — Ph.D. Engineering Intern
 - NVIDIA — Ph.D. Research Autonomous Vehicles Intern
