@@ -16,8 +16,11 @@
 | National Information Solutions Cooperative | [Software Development Intern](https://job-boards.greenhouse.io/testnisc/jobs/8174090) | Lake St Louis, MO | Onsite | 2026-09-03 | Rolling | 🟢 Open | ❔ |
 | National Information Solutions Cooperative | [Software Development Intern](https://job-boards.greenhouse.io/testnisc/jobs/8174096) | Mandan, ND | Onsite | 2026-09-03 | Rolling | 🟢 Open | ❔ |
 | National Information Solutions Cooperative | [Software Development Intern](https://job-boards.greenhouse.io/nisc/jobs/8092699) | Lake St Louis, MO +2 | Onsite | 2026-09-03 | Rolling | 🟢 Open | ❔ |
+| National Information Solutions Cooperative | [Software Development Intern - AI Development](https://job-boards.greenhouse.io/testnisc/jobs/8204156) | Lake St Louis, MO +1 | Onsite | 2026-09-15 | Rolling | 🟢 Open | ❔ |
+| National Information Solutions Cooperative | [Software Development Intern - AI Development](https://job-boards.greenhouse.io/testnisc/jobs/8204161) | Lake St Louis, MO | Onsite | 2026-09-15 | Rolling | 🟢 Open | ❔ |
+| National Information Solutions Cooperative | [Software Development Intern - AI Development](https://job-boards.greenhouse.io/nisc/jobs/8204086) | Lake St Louis, MO +1 | Onsite | 2026-09-15 | Rolling | 🟢 Open | ❔ |
 | National Information Solutions Cooperative | [Data Engineer Intern](https://job-boards.greenhouse.io/testnisc/jobs/8167886) | Mandan, ND | Onsite | 2026-09-03 | Rolling | 🔴 Closed | ❔ |
 
 ## Related
 
-Browse more roles in: [🛠 Data Engineering](../categories/data-engineering.md), [💻 Software Engineering](../categories/software-engineering.md)
+Browse more roles in: [🤖 AI](../categories/ai.md), [🛠 Data Engineering](../categories/data-engineering.md), [💻 Software Engineering](../categories/software-engineering.md)
