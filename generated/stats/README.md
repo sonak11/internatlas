@@ -33,14 +33,14 @@ _Generated 2026-09-16_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 2755 | `███████████████` |
-| ai | 367 | `██` |
-| quant | 291 | `██` |
-| machine-learning | 200 | `█` |
+| software-engineering | 2761 | `███████████████` |
+| ai | 368 | `██` |
+| quant | 292 | `██` |
+| machine-learning | 201 | `█` |
 | hardware | 185 | `█` |
 | data-science | 169 | `█` |
 | research | 147 | `█` |
-| product | 144 | `█` |
+| product | 145 | `█` |
 | design | 118 | `█` |
 | embedded | 108 | `█` |
 | data-engineering | 86 | `█` |
@@ -49,26 +49,26 @@ _Generated 2026-09-16_
 
 ## Newest listings
 
+- 2026-09-16 — **Antares Nuclear**: [Software Engineer Intern](https://jobs.ashbyhq.com/Antares/419ef2df-f0aa-4b68-994a-077e08a959e3/application?embed=true)
+- 2026-09-16 — **Bedrock Robotics**: [Software Engineer Intern - Fleet Platform](https://jobs.ashbyhq.com/bedrock-robotics/8927dd7e-a48d-49a2-92eb-09ec059432f4/application?embed=true)
 - 2026-09-16 — **CesiumAstro**: [Electrical Engineer Intern - FPGA](https://jobs.lever.co/CesiumAstro/e6d87528-5da1-4970-9e42-7b224cfa63a9/apply)
 - 2026-09-16 — **CesiumAstro**: [Electrical Engineer Intern - Hardware](https://jobs.lever.co/CesiumAstro/ccb0f99f-0cc7-4517-8d1c-faeca53b5e5c/apply)
 - 2026-09-16 — **CesiumAstro**: [Electrical Engineer Intern - Hardware](https://jobs.lever.co/CesiumAstro/6a953cbc-af69-452c-b357-1a0a3db80bbf/apply)
 - 2026-09-16 — **CesiumAstro**: [Embedded Software Engineer Intern](https://jobs.lever.co/CesiumAstro/d25bf640-2b2b-48d6-ab79-8a06b246caaa/apply)
 - 2026-09-16 — **CesiumAstro**: [Embedded Software Engineer Intern](https://jobs.lever.co/CesiumAstro/96e97f22-a5b2-4e95-af84-b4f765343663/apply)
+- 2026-09-16 — **Enterprise Holdings**: [Software Engineer Intern - Summer 2027](https://us-erac.icims.com/jobs/566721/job?mobile=true&needsRedirect=false)
+- 2026-09-16 — **Gecko Robotics**: [AI/Machine Learning Engineer Intern](https://jobs.ashbyhq.com/gecko-robotics/c097505b-0a28-4a33-a917-268f463641e8/application?embed=true)
+- 2026-09-16 — **Gecko Robotics**: [Full Stack Software Engineer Intern](https://jobs.ashbyhq.com/gecko-robotics/01138338-ff3c-4982-8ba3-5401386bf082/application?embed=true)
+- 2026-09-16 — **General Dynamics**: [Information Technology Intern - Software Engineering - Computer Science](https://careers-gdeb.icims.com/jobs/20341/job?mobile=true&needsRedirect=false)
+- 2026-09-16 — **Illinois Tool Works**: [Product Management Intern](https://careers.itw.com/global/en/job/JR10112)
 - 2026-09-16 — **Lawrence Livermore National Laboratory (LLNL)**: [Data Science Undergraduate Student Intern - Summer 2027](https://jobs.smartrecruiters.com/LLNL/3743990015289136)
 - 2026-09-16 — **Live Oak Bank**: [Architecture/Engineering Intern](https://liveoakbancshares.wd1.myworkdayjobs.com/en-US/Live_Oak/job/Wilmington-NC/Summer-2027-Intern--Architecture-Engineering_R-002630)
 - 2026-09-16 — **Live Oak Bank**: [Artificial Intelligence Enablement & Forward-Deployed Engineering Intern](https://liveoakbancshares.wd1.myworkdayjobs.com/en-US/Live_Oak/job/Wilmington-NC/Summer-2027-Intern--AI-Enablement---Forward-Deployed-Engineering_R-002624)
+- 2026-09-16 — **RAVE Aerospace**: [Software Engineer Intern](https://apply.workable.com/raveaerospace/j/739753C003/apply)
+- 2026-09-16 — **Talos**: [Software Engineer Intern - Trading](https://jobs.ashbyhq.com/Talos-Trading/42cad756-c312-4142-a9b7-18ed76f61c5d/application?embed=true)
 - 2026-09-16 — **The Walt Disney Company**: [Costuming Project Analyst Intern - Spring 2027](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Orlando-FL-USA/Disney-Live-Entertainment-Costuming-Project-Analyst--Orlando--Spring-2027_10160667)
-- 2026-09-15 — **Acxiom**: [Data Engineer Intern](https://acxiomllc.wd5.myworkdayjobs.com/AcxiomUSA/job/RemoteHomebased/Intern---Data-Engineer_JR014482)
-- 2026-09-15 — **Acxiom**: [Product Manager Intern - Real Identity Product Team](https://acxiomllc.wd5.myworkdayjobs.com/AcxiomUSA/job/RemoteHomebased/Intern---Product-Management_JR014473-1)
-- 2026-09-15 — **Alliance Laundry Systems**: [Data & Analytics Intern](https://uscareeropenings-alliancelaundry.icims.com/jobs/13162/job?mobile=true&needsRedirect=false)
-- 2026-09-15 — **Altar'd State**: [Store Operations Data Analyst Intern](https://standoutforgood.wd12.myworkdayjobs.com/StandOutForGood/job/Knoxville-TN/Spring-2027-Store-Operations-Intern_SOSJ12464)
-- 2026-09-15 — **Anduril**: [2027 Flight Software Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5239083007?gh_jid=5239083007)
-- 2026-09-15 — **Anduril**: [Flight Software Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5239083007)
-- 2026-09-15 — **APEX Analytix**: [Automation Developer Intern](https://ats.rippling.com/apexanalytix-careers/jobs/40e4727d-e132-4de0-89ba-b4fdbd5860a7)
-- 2026-09-15 — **APEX Analytix**: [Data Analyst Intern - Summer 2027](https://ats.rippling.com/apexanalytix-careers/jobs/e275fd70-45a3-4a64-8688-cace8a3f87ef)
-- 2026-09-15 — **APEX Analytix**: [Data Engineering Intern - Summer 2027](https://ats.rippling.com/apexanalytix-careers/jobs/52353bce-cb36-423f-ae0a-f2057ef3b5d9)
-- 2026-09-15 — **APEX Analytix**: [Data Science Intern](https://ats.rippling.com/apexanalytix-careers/jobs/0cfde729-9d23-4186-91a7-464a4b87af53)
-- 2026-09-15 — **AspenTech**: [Data Science Intern](https://aspentech.wd5.myworkdayjobs.com/aspentech/job/Bedford-Massachusetts/Data-Science-Intern---Summer-2027---Bedford--MA_R9459)
+- 2026-09-16 — **V2X**: [Artificial Intelligence Intern](https://careers.gov2x.com/jobs/62843?icims=1)
+- 2026-09-16 — **Wabash Valley Power Alliance**: [Energy Efficiency & Demand Response Intern](https://jobs.smartrecruiters.com/WabashValleyPowerAlliance/744000149873771)
 
 ## Recently closed
 
@@ -93,6 +93,7 @@ _Generated 2026-09-16_
 - AnaVation — Computer Science Intern
 - AnaVation — Computer Science Intern - Summer Program
 - Anduril — 2027 Quality & Test Engineer Intern
+- Anduril — 2027 Software Engineer Intern
 - Anheuser-Busch — Technology Intern
 - AQR Capital Management — Portfolio Solutions Group Summer Analyst Intern - Portfolio Solutions Group
 - AQR Capital Management — Risk Summer Analyst Intern
@@ -128,6 +129,7 @@ _Generated 2026-09-16_
 - Booz Allen — AI RAN Telecommunications Engineer Intern
 - Booz Allen — Applied AI Intern - University
 - Booz Allen — Data Scientist Intern - University - Summer Games
+- Booz Allen — Software Developer Intern - University
 - Booz Allen — Software Developer Intern - University
 - Booz Allen — Software Engineer Intern
 - Bosch Home Comfort — Calibration Process Optimization Intern
@@ -227,7 +229,6 @@ _Generated 2026-09-16_
 - CSX — Technology Intern - Paid
 - Dell Technologies — Software Engineer Intern - Client Solutions Group Engineering
 - Dell Technologies — Software Engineering Intern
-- Deloitte — AI Innovation Summer Scholar Intern - AI Innovation
 - Deloitte — Data & AI Solutions Engineering Summer Scholar Intern
 - Deloitte — Forensic Analytics Summer Scholar Intern - Forensic Analytics
 - Deutsche Bank — Quantitative Analyst Intern - GSA
@@ -245,6 +246,7 @@ _Generated 2026-09-16_
 - Emory University — Student Tester and Developer Intern - GPS Sample
 - Enact Mortgage Insurance — Data Science Intern
 - Enact Mortgage Insurance — Software Engineer Intern
+- Engenious Design — Electrical Engineering Intern
 - Engenious Design — Systems Architecture Intern
 - Entergy — Engineering Intern
 - Epia Neuro — Hardware Engineer Intern
@@ -298,12 +300,16 @@ _Generated 2026-09-16_
 - GlobalFoundries — RF Technology Development Automation Engineer Intern - Summer 2027
 - GlobalFoundries — Robotics and Automation Engineering Intern - Junior
 - GlobalFoundries — Silicon Photonics Advanced Packaging Intern
+- Goldman Sachs — Associate Intern - The Core Quantitative Strats
 - Goldman Sachs — Summer Analyst Intern - Americas - AWM Product Management
+- Goldman Sachs — Summer Analyst Intern - Americas - Engineering
+- Goldman Sachs — Summer Analyst Intern - Americas - Investment Banking Quantitative Strats
 - Goldman Sachs — Summer Analyst Intern - Engineering
+- Goldman Sachs — Summer Analyst Intern - Engineering
+- Goldman Sachs — Summer Analyst Intern - FICC and Equities - Sales and Trading
 - Goldman Sachs — Summer Analyst Intern - FICC & Equities - Sales & Trading
-- Goldman Sachs — Summer Analyst Intern - The Core Quantitative Strats
 - Goldman Sachs — Summer Analyst Intern - Wealth Management - Product Management and Design
-- Goldman Sachs — Summer Analyst Intern - Wealth Management - Quantitative Finance
+- Goldman Sachs — Summer Associate Intern - Multiple Teams
 - Grant Thornton — AI, Data & Technology Intern - Summer 2027
 - Grant Thornton — AI, Data & Technology Intern - Summer 2027
 - Grant Thornton — AI, Data & Technology Intern - Summer 2027
@@ -412,7 +418,6 @@ _Generated 2026-09-16_
 - Marsh — Government Health Consulting Informatics Intern - College Program
 - Marsh — Summer Analyst Intern - Data and Analytics
 - Marsh & McLennan — Data & Analytics Intern - Data & Analytics
-- Marvell — Architecture Intern - MS
 - Mary Free Bed Rehabilitation Hospital — IT Intern - Project Management
 - Medline — Business Systems Intern - Summer 2027
 - Medline — Product Management Intern - Summer 2027
@@ -558,7 +563,6 @@ _Generated 2026-09-16_
 - Qorvo — Application Engineer Intern
 - Qorvo — Software Engineer Intern
 - QTS — Data Center Infrastructure Management Intern - DCIM
-- Qualcomm — Machine Learning Compiler & Performance Engineering Intern - Systems
 - Ramp — Software Engineer Internship, Android
 - RapDev — ServiceNow Engineer Intern
 - Red Bull — Academy Scouting Intern - Academy Scout
@@ -659,12 +663,16 @@ _Generated 2026-09-16_
 - TD Bank — Software Engineer Intern - Software Engineering Rotational Program
 - Techtronic Industries (TTI) — Electrical Engineer Intern
 - Teledyne — Electrical Engineer Intern
+- Tencent — Data Product Intern
+- Tencent — Data Product Intern
+- Tencent — Multimodal Algorithm Researcher Intern - Omni-Modal
 - Tenstorrent — Design Verification Engineer Intern
 - Tesla — Access Control Systems Integration Engineer Intern - Vehicle Software
 - Tesla — Actuator Test Engineer Intern - Optimus
 - Tesla — AI Performance Engineer Intern - AI Performance Engineer - Performance Optimization
 - Tesla — Automation Development & Tooling Engineer Intern
 - Tesla — Backend Engineer Intern - Infrastructure Engineering
+- Tesla — Cell Engineering Intern - Cell Qualification
 - Tesla — Commercial Charging Product Management Intern - Energy Engineering
 - Tesla — Data Analytics Intern - People Analytics
 - Tesla — Data Engineer Intern - Applications Engineering
@@ -746,6 +754,7 @@ _Generated 2026-09-16_
 - Uline — Operations Analyst Intern
 - UMB — IT Blockchain Intern
 - Unify — GTM Engineering Intern
+- United Airlines — Air Traffic Strategy Data Analytics Intern - Summer 2027
 - United Airlines — Airport Operations Intern - Safety Strategy
 - United Airlines — Clubs & Lounges Intern - Summer 2027
 - United Airlines — Onboard Experience Intern - Summer 2027

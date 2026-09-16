@@ -1,20 +1,21 @@
 {
   "schema_version": "1.0",
-  "id": "goldman-sachs-quantitative-strategist-intern-asset-and-wealth-management-q-2027-0ac951",
+  "id": "rave-aerospace-software-engineer-intern-2027",
   "company": {
-    "name": "Goldman Sachs",
-    "slug": "goldman-sachs"
+    "name": "RAVE Aerospace",
+    "slug": "rave-aerospace"
   },
-  "role": "Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats",
-  "category": "quant",
-  "apply_url": "https://higher.gs.com/roles/175421?type=students",
+  "role": "Software Engineer Intern",
+  "category": "software-engineering",
+  "apply_url": "https://apply.workable.com/raveaerospace/j/739753C003/apply",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "London",
-      "country": "UK"
+      "city": "Laramie",
+      "state": "WY",
+      "country": "USA"
     }
   ],
   "compensation": {
@@ -39,8 +40,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-15",
-    "discovered": "2026-09-14",
+    "posted": "2026-09-16",
+    "discovered": "2026-09-16",
     "last_verified": "2026-09-16"
   },
   "status": "open",

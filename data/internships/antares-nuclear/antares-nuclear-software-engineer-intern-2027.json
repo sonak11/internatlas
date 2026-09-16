@@ -1,20 +1,21 @@
 {
   "schema_version": "1.0",
-  "id": "goldman-sachs-summer-analyst-intern-americas-engineering-2027-48b2d0",
+  "id": "antares-nuclear-software-engineer-intern-2027",
   "company": {
-    "name": "Goldman Sachs",
-    "slug": "goldman-sachs"
+    "name": "Antares Nuclear",
+    "slug": "antares-nuclear"
   },
-  "role": "Summer Analyst Intern - Americas - Engineering",
+  "role": "Software Engineer Intern",
   "category": "software-engineering",
-  "apply_url": "https://higher.gs.com/roles/171567?type=students",
+  "apply_url": "https://jobs.ashbyhq.com/Antares/419ef2df-f0aa-4b68-994a-077e08a959e3/application?embed=true",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Toronto",
-      "country": "ON"
+      "city": "Torrance",
+      "state": "CA",
+      "country": "USA"
     }
   ],
   "compensation": {
@@ -39,7 +40,7 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-15",
+    "posted": "2026-09-16",
     "discovered": "2026-09-16",
     "last_verified": "2026-09-16"
   },
