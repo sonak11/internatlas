@@ -33,7 +33,7 @@ _Generated 2026-09-17_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 2791 | `███████████████` |
+| software-engineering | 2796 | `███████████████` |
 | ai | 374 | `██` |
 | quant | 294 | `██` |
 | machine-learning | 204 | `█` |
@@ -49,9 +49,11 @@ _Generated 2026-09-17_
 
 ## Newest listings
 
+- 2026-09-17 — **onsemi**: [Data and Visualization Intern](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506638)
 - 2026-09-16 — **AEG**: [Global Partnerships Intern - Data & Research](https://job-boards.greenhouse.io/aegworldwide/jobs/8811721002)
 - 2026-09-16 — **AeroVironment**: [Software Engineer Intern](https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Melbourne-FL/Summer-2027-Software-Engineering-Intern_8550)
 - 2026-09-16 — **Altar'd State**: [IT Data Intern](https://standoutforgood.wd12.myworkdayjobs.com/StandOutForGood/job/Knoxville-TN/Spring-2027-IT-Data-Intern_SOSJ12488-1)
+- 2026-09-16 — **Altar'd State**: [IT Ecommerce Product Owner Intern](https://standoutforgood.wd12.myworkdayjobs.com/StandOutForGood/job/Knoxville-TN/Spring-2027-IT-Ecommerce-Product-Owner-Intern_SOSJ12489)
 - 2026-09-16 — **AMD**: [AI Model Optimization & Software Engineer Intern/Co-op](https://careers.amd.com/jobs/92526?icims=1)
 - 2026-09-16 — **AMD**: [AI Model Optimization & Software Engineer Intern/Co-op](https://careers.amd.com/jobs/92522?icims=1)
 - 2026-09-16 — **Antares Nuclear**: [Software Engineer Intern](https://jobs.ashbyhq.com/Antares/419ef2df-f0aa-4b68-994a-077e08a959e3/application?embed=true)
@@ -67,8 +69,6 @@ _Generated 2026-09-17_
 - 2026-09-16 — **CesiumAstro**: [Electrical Engineer Intern - Hardware](https://jobs.lever.co/CesiumAstro/6a953cbc-af69-452c-b357-1a0a3db80bbf/apply)
 - 2026-09-16 — **CesiumAstro**: [Embedded Software Engineer Intern](https://jobs.lever.co/CesiumAstro/d25bf640-2b2b-48d6-ab79-8a06b246caaa/apply)
 - 2026-09-16 — **CesiumAstro**: [Embedded Software Engineer Intern](https://jobs.lever.co/CesiumAstro/96e97f22-a5b2-4e95-af84-b4f765343663/apply)
-- 2026-09-16 — **Charter Manufacturing**: [Automation & Analytics Intern](https://chartermfg.wd5.myworkdayjobs.com/Charter_Careers/job/Charter-Wire---Menomonee-Valley---Milwaukee-WI/Automation---Analytics-Intern--Year-Round-_R08112)
-- 2026-09-16 — **Ciena**: [AI Engineer Intern - Winter 2027](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/AI-Engineer-Intern--Winter-2027-_R031667)
 
 ## Recently closed
 
@@ -164,6 +164,7 @@ _Generated 2026-09-17_
 - Canva — PhD Research Scientist Intern - Generative AI
 - Canva — PhD Research Scientist Intern - Reinforcement Learning - Images
 - Capacity — Speech Technology Intern
+- Capital One — Full Stack Software Engineer Intern - Team Integrated Sprout
 - Capital One — Full Stack Software Engineer Intern - Team Pickle
 - Capital One — Mobile Software Engineer Intern
 - Capital One — Technology Intern
@@ -210,6 +211,7 @@ _Generated 2026-09-17_
 - Cole Engineering Services — AI Intern
 - Compeer Financial — New Markets Intern
 - Continental Resources — Geoscience Intern
+- Copart — Data Engineer Intern
 - Corning — Digital & IT Intern - Analyst - Machine Learning
 - Corning — Optical Fiber and Cable Engineer Intern - Summer 2027
 - Corning — Raw Material Engineering Intern - Summer 2027
@@ -244,6 +246,7 @@ _Generated 2026-09-17_
 - Engenious Design — Systems Architecture Intern
 - Entergy — Engineering Intern
 - Epia Neuro — Hardware Engineer Intern
+- EquipmentShare — Electrical Engineering Intern
 - Eridu AI — Lab Intern
 - Etched — Signal Integrity / Power Integrity Intern
 - Eudia — Product Intern
@@ -287,28 +290,20 @@ _Generated 2026-09-17_
 - Genworth Financial — Software Engineer Intern
 - Geotab — Data Analyst Intern
 - Geotab — Data Scientist Intern
+- Geotab — Hardware Developer Intern
 - Geotab — Product Management Intern - Growth & Marketplace
 - GlobalFoundries — RF Technology Development Automation Engineer Intern - Summer 2027
 - GlobalFoundries — Robotics and Automation Engineering Intern - Junior
 - GlobalFoundries — Silicon Photonics Advanced Packaging Intern
 - GlobalFoundries — Systems Engineer Intern
-- Goldman Sachs — AWM Product Management Analyst Intern
-- Goldman Sachs — Quantitative Strategist Associate Intern - Asset and Wealth Management
-- Goldman Sachs — Quantitative Strategist Intern - Americas
-- Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Investment Banking
-- Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
-- Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
-- Goldman Sachs — Quantitative Strats Analyst Intern - Americas - Investment Banking
-- Goldman Sachs — Summer Analyst Intern
+- Goldman Sachs — Associate Intern - The Core Quantitative Strats
 - Goldman Sachs — Summer Analyst Intern - Americas - AWM Product Management
+- Goldman Sachs — Summer Analyst Intern - Americas - Engineering
+- Goldman Sachs — Summer Analyst Intern - Americas - Investment Banking Quantitative Strats
 - Goldman Sachs — Summer Analyst Intern - Engineering
-- Goldman Sachs — Summer Analyst Intern - The Core Quantitative Strats
+- Goldman Sachs — Summer Analyst Intern - FICC and Equities - Sales and Trading
 - Goldman Sachs — Summer Analyst Intern - Wealth Management - Product Management and Design
-- Goldman Sachs — Summer Analyst Intern - Wealth Management - Quantitative Finance
-- Goldman Sachs — Summer Associate Intern
+- Goldman Sachs — Summer Associate Intern - Multiple Teams
 - Grant Thornton — AI, Data & Technology Intern - Summer 2027
 - Grant Thornton — AI, Data & Technology Intern - Summer 2027
 - Grant Thornton — AI, Data & Technology Intern - Summer 2027
@@ -316,6 +311,7 @@ _Generated 2026-09-17_
 - Grant Thornton — Tax Technology Intern - Summer 2027
 - Grant Thornton — Tax Technology Intern - Summer 2027
 - Gulfstream — AI Product Collegiate Associate Intern
+- Gulfstream — Azure AI Collegiate Associate Intern
 - Gulfstream — Flight Sciences / Mass Properties College Intern - IEF
 - Gulfstream — Flight Sciences / SWAPP Intern
 - Gulfstream — Human Factors Engineer Intern - SE&I
@@ -467,6 +463,7 @@ _Generated 2026-09-17_
 - National Laboratory of the Rockies — 3-5 Processing Intern
 - National Laboratory of the Rockies — Associate/Undergraduate Intern
 - National Laboratory of the Rockies — Graduate Energy Systems Intern
+- NationGraph — Software Engineer Intern
 - Nationwide — Economics Intern
 - Nationwide — Technology Intern
 - Navi AI — Device Build Intern
@@ -474,6 +471,8 @@ _Generated 2026-09-17_
 - Navy Federal — Credit Risk Analyst Intern
 - Navy Federal — Data Engineering Intern
 - Netflix — Machine Learning/AI Infrastructure Engineering Intern - AI Platform
+- Neuralink — Biomedical Engineer Intern
+- Neuralink — R&D Materials Engineer Intern
 - Neuralink — R&D Materials Engineer Intern
 - NewsBreak — Growth Engineer Intern - Growth Engineering
 - Nexstar — Media Archivist Intern
@@ -751,9 +750,7 @@ _Generated 2026-09-17_
 - United Airlines — Air Traffic Strategy Data Analytics Intern - Summer 2027
 - United Airlines — Clubs & Lounges Intern - Summer 2027
 - United Airlines — Onboard Experience Intern - Summer 2027
-- United Airlines — Operations Data & Analytics Intern - Summer 2027
 - United Airlines — Operations Strategy & Analytics Intern
-- United Airlines — Operations Strategy & Analytics Intern - Summer 2027
 - United Airlines — Pricing & Revenue Management Intern
 - United Airlines — Sales Product Intern
 - United Airlines — Tech Ops Analytics & Business Intelligence Intern - Summer 2027

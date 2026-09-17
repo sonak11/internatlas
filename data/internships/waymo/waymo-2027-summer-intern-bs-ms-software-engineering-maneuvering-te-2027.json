@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "goldman-sachs-quantitative-strategist-intern-americas-2027",
+  "id": "waymo-2027-summer-intern-bs-ms-software-engineering-maneuvering-te-2027",
   "company": {
-    "name": "Goldman Sachs",
-    "slug": "goldman-sachs"
+    "name": "Waymo",
+    "slug": "waymo",
+    "career_page": "https://waymo.com/careers"
   },
-  "role": "Quantitative Strategist Intern - Americas",
-  "category": "quant",
-  "apply_url": "https://higher.gs.com/roles/171532?type=students",
+  "role": "2027 Summer Intern, BS/MS, Software Engineering, Maneuvering Tech",
+  "category": "software-engineering",
+  "apply_url": "https://careers.withwaymo.com/jobs?gh_jid=8203200",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Dallas",
-      "state": "TX",
+      "city": "San Francisco",
       "country": "USA"
     }
   ],
@@ -40,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-15",
-    "discovered": "2026-09-04",
+    "posted": "2026-09-16",
+    "discovered": "2026-09-17",
     "last_verified": "2026-09-17"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:ats"
   ]
 }

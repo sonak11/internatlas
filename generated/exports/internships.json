@@ -1,6 +1,6 @@
 {
   "generated": "2026-09-17",
-  "count": 4708,
+  "count": 4713,
   "internships": [
     {
       "schema_version": "1.0",
@@ -4118,6 +4118,58 @@
       "category": "software-engineering",
       "apply_url": "https://standoutforgood.wd12.myworkdayjobs.com/StandOutForGood/job/Knoxville-TN/Spring-2027-IT-Data-Intern_SOSJ12488-1",
       "season": "spring",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Knoxville",
+          "state": "TN",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-16",
+        "discovered": "2026-09-17",
+        "last_verified": "2026-09-17"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "altar-d-state-it-ecommerce-product-owner-intern-2027",
+      "company": {
+        "name": "Altar'd State",
+        "slug": "altar-d-state"
+      },
+      "role": "IT Ecommerce Product Owner Intern",
+      "category": "software-engineering",
+      "apply_url": "https://standoutforgood.wd12.myworkdayjobs.com/StandOutForGood/job/Knoxville-TN/Spring-2027-IT-Ecommerce-Product-Owner-Intern_SOSJ12489",
+      "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
       "locations": [
@@ -43731,7 +43783,7 @@
         "discovered": "2026-08-17",
         "last_verified": "2026-09-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -57369,7 +57421,7 @@
         "discovered": "2026-07-27",
         "last_verified": "2026-09-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -58713,7 +58765,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "costar-group-technology-intern-2027",
+      "id": "costar-group-technology-intern-2027-3579a2",
       "company": {
         "name": "CoStar Group",
         "slug": "costar-group"
@@ -58753,6 +58805,58 @@
       },
       "dates": {
         "posted": "2026-09-14",
+        "discovered": "2026-09-17",
+        "last_verified": "2026-09-17"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "costar-group-technology-intern-2027",
+      "company": {
+        "name": "CoStar Group",
+        "slug": "costar-group"
+      },
+      "role": "Technology Intern",
+      "category": "software-engineering",
+      "apply_url": "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Irvine-US/Summer-2027-Technology-Intern---Irvine--CA_R39673",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Irvine",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-16",
         "discovered": "2026-09-14",
         "last_verified": "2026-09-17"
       },
@@ -66620,6 +66724,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "draftkings-analytics-intern-summer-2027-2027-c346b7",
+      "company": {
+        "name": "DraftKings",
+        "slug": "draftkings"
+      },
+      "role": "Analytics Intern - Summer 2027",
+      "category": "software-engineering",
+      "apply_url": "https://draftkings.wd1.myworkdayjobs.com/Campus_Career_Portal/job/Boston-MA/Analyst-Intern--Summer-2027-_JR15147",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Boston",
+          "state": "MA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-16",
+        "discovered": "2026-09-17",
+        "last_verified": "2026-09-17"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "draftkings-analytics-intern-summer-2027-2027",
       "company": {
         "name": "DraftKings",
@@ -73107,7 +73263,7 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-09-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -88170,7 +88326,7 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-09-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -89461,7 +89617,7 @@
         "discovered": "2026-08-27",
         "last_verified": "2026-09-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -89513,7 +89669,7 @@
         "discovered": "2026-08-20",
         "last_verified": "2026-09-17"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -89566,7 +89722,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-09-17"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -89581,14 +89737,14 @@
       },
       "role": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
       "category": "quant",
-      "apply_url": "https://higher.gs.com/roles/171535?type=students",
+      "apply_url": "https://higher.gs.com/roles/175427?type=students",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
       "locations": [
         {
-          "city": "NYC",
-          "country": "USA"
+          "city": "London",
+          "country": "UK"
         }
       ],
       "compensation": {
@@ -89671,7 +89827,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-17"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -89723,7 +89879,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-17"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -89777,7 +89933,7 @@
         "discovered": "2026-09-16",
         "last_verified": "2026-09-17"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -89830,7 +89986,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-17"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -89845,15 +90001,14 @@
       },
       "role": "Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats",
       "category": "quant",
-      "apply_url": "https://higher.gs.com/roles/171549?type=students",
+      "apply_url": "https://higher.gs.com/roles/175421?type=students",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
       "locations": [
         {
-          "city": "Salt Lake City",
-          "state": "UT",
-          "country": "USA"
+          "city": "London",
+          "country": "UK"
         }
       ],
       "compensation": {
@@ -89935,7 +90090,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-17"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -89986,7 +90141,7 @@
         "discovered": "2026-09-16",
         "last_verified": "2026-09-17"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -90037,7 +90192,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-09-17"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -90089,7 +90244,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-17"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -90140,7 +90295,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-17"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -90245,7 +90400,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -90260,14 +90415,14 @@
       },
       "role": "Summer Analyst Intern - Americas - Engineering",
       "category": "software-engineering",
-      "apply_url": "https://higher.gs.com/roles/171564?type=students",
+      "apply_url": "https://higher.gs.com/roles/171567?type=students",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
       "locations": [
         {
-          "city": "NYC",
-          "country": "USA"
+          "city": "Toronto",
+          "country": "ON"
         }
       ],
       "compensation": {
@@ -90349,7 +90504,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -90403,7 +90558,7 @@
         "discovered": "2026-09-06",
         "last_verified": "2026-09-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -90457,7 +90612,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-17"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -90472,13 +90627,13 @@
       },
       "role": "Summer Analyst Intern - Engineering",
       "category": "software-engineering",
-      "apply_url": "https://higher.gs.com/roles/170644?type=students",
+      "apply_url": "https://higher.gs.com/roles/170637?type=students",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
       "locations": [
         {
-          "city": "London",
+          "city": "Birmingham",
           "country": "UK"
         }
       ],
@@ -90564,7 +90719,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-09-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -90666,7 +90821,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-17"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -90768,7 +90923,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-17"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -90821,7 +90976,7 @@
         "discovered": "2026-08-29",
         "last_verified": "2026-09-17"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -90874,7 +91029,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-09-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -95283,7 +95438,7 @@
         "discovered": "2026-09-15",
         "last_verified": "2026-09-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -141862,7 +142017,7 @@
         "discovered": "2026-07-21",
         "last_verified": "2026-09-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -145587,7 +145742,7 @@
         "discovered": "2026-08-14",
         "last_verified": "2026-09-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:ats"
@@ -146370,7 +146525,7 @@
         "discovered": "2026-07-18",
         "last_verified": "2026-09-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:ats"
@@ -155027,6 +155182,58 @@
       "dates": {
         "posted": "2026-07-15",
         "discovered": "2026-07-17",
+        "last_verified": "2026-09-17"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "onsemi-data-and-visualization-intern-2027",
+      "company": {
+        "name": "onsemi",
+        "slug": "onsemi"
+      },
+      "role": "Data and Visualization Intern",
+      "category": "software-engineering",
+      "apply_url": "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506638",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Hopewell Junction",
+          "state": "NY",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-17",
+        "discovered": "2026-09-17",
         "last_verified": "2026-09-17"
       },
       "status": "open",
@@ -239730,9 +239937,9 @@
       "dates": {
         "posted": "2026-09-01",
         "discovered": "2026-09-03",
-        "last_verified": "2026-09-08"
+        "last_verified": "2026-09-17"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -239836,9 +240043,9 @@
       "dates": {
         "posted": "2026-09-01",
         "discovered": "2026-09-03",
-        "last_verified": "2026-09-16"
+        "last_verified": "2026-09-17"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -248594,6 +248801,58 @@
       "dates": {
         "posted": "2026-09-14",
         "discovered": "2026-09-14",
+        "last_verified": "2026-09-17"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "waymo-2027-summer-intern-bs-ms-software-engineering-maneuvering-te-2027",
+      "company": {
+        "name": "Waymo",
+        "slug": "waymo",
+        "career_page": "https://waymo.com/careers"
+      },
+      "role": "2027 Summer Intern, BS/MS, Software Engineering, Maneuvering Tech",
+      "category": "software-engineering",
+      "apply_url": "https://careers.withwaymo.com/jobs?gh_jid=8203200",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Francisco",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-16",
+        "discovered": "2026-09-17",
         "last_verified": "2026-09-17"
       },
       "status": "open",

@@ -1,21 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "goldman-sachs-quantitative-strategist-intern-americas-2027",
+  "id": "costar-group-technology-intern-2027-3579a2",
   "company": {
-    "name": "Goldman Sachs",
-    "slug": "goldman-sachs"
+    "name": "CoStar Group",
+    "slug": "costar-group"
   },
-  "role": "Quantitative Strategist Intern - Americas",
-  "category": "quant",
-  "apply_url": "https://higher.gs.com/roles/171532?type=students",
+  "role": "Technology Intern",
+  "category": "software-engineering",
+  "apply_url": "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/US-VA-Arlington/Technology-Intern---Arlington--VA--Summer-2027-_R39666",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Dallas",
-      "state": "TX",
-      "country": "USA"
+      "city": "Arlington County",
+      "country": "Arlington"
     }
   ],
   "compensation": {
@@ -40,8 +39,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-15",
-    "discovered": "2026-09-04",
+    "posted": "2026-09-14",
+    "discovered": "2026-09-17",
     "last_verified": "2026-09-17"
   },
   "status": "open",
