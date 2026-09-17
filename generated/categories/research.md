@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🔬 Research Internships
 
-**147** tracked · **74** open now
+**148** tracked · **75** open now
 
 ## Current openings
 
@@ -10,6 +10,7 @@
 |---|---|---|---|---|---|---|---|
 | [Abundant](generated/companies/abundant.md) | [Member of Technical Staff Intern - Research](https://jobs.ashbyhq.com/abundant/1ebf7fda-c322-404d-acc3-2757bbd79996/application?embed=true) | SF | Onsite | 2026-08-20 | Rolling | 🟢 Open | ❔ |
 | [Abundant](generated/companies/abundant.md) | [Software Engineering Intern, Research Focused](https://www.workatastartup.com/jobs/94634) | San Francisco, CA | Onsite | 2026-05-14 | Rolling | 🟢 Open | ❌ |
+| [AEG](generated/companies/aeg.md) | [Global Partnerships Intern - Data & Research](https://job-boards.greenhouse.io/aegworldwide/jobs/8811721002) | LA | Onsite | 2026-09-16 | Rolling | 🟢 Open | ❔ |
 | [Altamira Technologies](generated/companies/altamira-technologies.md) | [Research and Development Intern](https://jobs.jobvite.com/altamiracorps/job/oHqCAfw3?nl=1&nl=1&fr=false) | Fairborn, OH | Onsite | 2026-08-10 | Rolling | 🟢 Open | ❔ |
 | [Applied Intuition](generated/companies/applied-intuition.md) | [Research Intern - Reinforcement Learning - Robotics](https://jobs.ashbyhq.com/applied/bb953f29-0059-4a40-aa9e-3a8c88733902/application?embed=true) | Sunnyvale, CA | Onsite | 2026-06-27 | Rolling | 🟢 Open | ❔ |
 | [Applied Intuition](generated/companies/applied-intuition.md) | [Research Intern - World-Action Foundation Model - Robotics](https://jobs.ashbyhq.com/applied/edc2528d-6e6c-4a67-b871-bfe7d9c890b4/application?embed=true) | Sunnyvale, CA | Onsite | 2026-06-27 | Rolling | 🟢 Open | ❔ |
@@ -180,6 +181,7 @@
 - AMD (2)
 - Nationwide Children's Hospital (2)
 - Warner Bros. (2)
+- AEG (1)
 - Altamira Technologies (1)
 - Architect Labs (1)
 - Brevan Howard (1)

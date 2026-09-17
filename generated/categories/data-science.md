@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 📊 Data Science Internships
 
-**169** tracked · **138** open now
+**173** tracked · **142** open now
 
 ## Current openings
 
@@ -25,6 +25,7 @@
 | [Bank of Montreal](generated/companies/bank-of-montreal.md) | [Data Science Risk Analyst Co-op Intern](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Data-Science-Risk-Analyst--Winter-2027--Co-op-Internship----4-Months_R260024735) | Toronto | Onsite | 2026-08-21 | Rolling | 🟢 Open | ❔ |
 | [Bank of Montreal](generated/companies/bank-of-montreal.md) | [Data Science Risk Analyst Co-op Intern](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Data-Science-Risk-Analyst--Winter-2027--Co-op-Internship----4-Months_R260024735-1) | Toronto | Onsite | 2026-09-07 | Rolling | 🟢 Open | ❔ |
 | [Bank of Montreal](generated/companies/bank-of-montreal.md) | [Data Science Risk Analyst Co-op Intern](https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Data-Science-Risk-Analyst--Winter-2027--Co-op-Internship----4-Months_R260024735-2) | Toronto | Onsite | 2026-09-07 | Rolling | 🟢 Open | ❔ |
+| [Barr](generated/companies/barr.md) | [Data Science Intern](https://barr.wd1.myworkdayjobs.com/barrcareers/job/Minneapolis-MN/Internship---Data-Science--Remote-_R-102342) | Minneapolis, MN | Onsite | 2026-09-16 | Rolling | 🟢 Open | ❔ |
 | [BlueCross BlueShield of Nebraska](generated/companies/bluecross-blueshield-of-nebraska.md) | [Data Intern - Data Science - Data Analytics](https://nebraskablue.wd1.myworkdayjobs.com/BCBSNE/job/Omaha-NE/Data-Intern--Summer-2027_JR101406) | Omaha, NE | Onsite | 2026-08-31 | Rolling | 🟢 Open | ❔ |
 | [BNY](generated/companies/bny.md) | [Data Science Intern - Engineering](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81241) | Pittsburgh, PA | Onsite | 2026-08-24 | Rolling | 🟢 Open | ❔ |
 | [BNY](generated/companies/bny.md) | [Data Science Intern - Engineering](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81239) | Lake Mary, FL | Onsite | 2026-08-24 | Rolling | 🟢 Open | ❔ |
@@ -70,10 +71,12 @@
 | [G-Research](generated/companies/g-research.md) | [Data Science Intern](https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Data-Science-Internship_R3679) | London | Onsite | 2026-07-23 | Rolling | 🟢 Open | ❔ |
 | [Gallup](generated/companies/gallup.md) | [Data Science Intern - Summer 2027](https://job-boards.greenhouse.io/gallup/jobs/4395491009) | SF | Onsite | 2026-09-09 | Rolling | 🟢 Open | ❔ |
 | [Geotab](generated/companies/geotab.md) | [Insights & Integrations Consultancy Data Scientist Intern](https://job-boards.greenhouse.io/internshiplist2000/jobs/5156504008) | Oakville | Onsite | 2026-05-04 | Rolling | 🟢 Open | ❔ |
+| [GM financial](generated/companies/gm-financial.md) | [Data Science Intern](https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260839) | Fort Worth, TX | Onsite | 2026-09-16 | Rolling | 🟢 Open | ❔ |
 | [Google](generated/companies/google.md) | [Business Data Scientist Intern](https://www.google.com/about/careers/applications/jobs/results/134577198026629830) | Palo Alto, CA +30 | Onsite | 2026-09-14 | Rolling | 🟢 Open | ❔ |
 | [Google](generated/companies/google.md) | [Data Science PhD Intern](https://www.google.com/about/careers/applications/jobs/results/73321728058499782) | London | Onsite | 2026-08-17 | Rolling | 🟢 Open | ❔ |
 | [Google](generated/companies/google.md) | [Data Scientist Intern - Product](https://www.google.com/about/careers/applications/jobs/results/119184035237765830) | Palo Alto, CA +30 | Onsite | 2026-09-14 | Rolling | 🟢 Open | ❔ |
 | [Google](generated/companies/google.md) | [Data Scientist Research Intern - PhD](https://www.google.com/about/careers/applications/jobs/results/89965613241246406) | Palo Alto, CA +30 | Onsite | 2026-09-14 | Rolling | 🟢 Open | ❔ |
+| [Gordon Food Service](generated/companies/gordon-food-service.md) | [Data Science Engineer Intern](https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Atlanta-Georgia/Data-Science-Engineer-Internship_R-57243-1) | Atlanta, GA | Onsite | 2026-09-16 | Rolling | 🟢 Open | ❔ |
 | [Hadrian](generated/companies/hadrian.md) | [Data Science/Data Engineer Intern](https://jobs.ashbyhq.com/hadrian-automation/f718bcfe-3f5b-4682-a294-697499caf813/application?embed=true) | LA +1 | Onsite | 2026-09-03 | Rolling | 🟢 Open | ❔ |
 | [Intact](generated/companies/intact.md) | [Data Scientist 1 Intern Co-op - Winter 2027](https://intactfc.wd3.myworkdayjobs.com/en-US/intactfc/job/Toronto-Ontario-CAN/Data-Scientist-I---4-Month-Internship-Co-op--Winter-2027--_R155113) | Toronto | Onsite | 2026-09-08 | Rolling | 🟢 Open | ❔ |
 | [Intact](generated/companies/intact.md) | [Data Scientist Intern Co-op](https://intactfc.wd3.myworkdayjobs.com/en-US/intactfc/job/Montral-Quebec-CAN/Data-Scientist-I---4-Month-Internship-Co-op--Winter-2027-_R155132) | Montreal +1 | Onsite | 2026-09-08 | Rolling | 🟢 Open | ❔ |
@@ -85,6 +88,7 @@
 | [Ketjen](generated/companies/ketjen.md) | [Data Science Intern](https://albemarle.wd5.myworkdayjobs.com/en-US/ketjenexternal/job/Houston-Texas-United-States-of-America/Ketjen-Summer-2027-Data-Science-Internship_REQ-31411) | Houston, TX | Onsite | 2026-09-10 | Rolling | 🟢 Open | ❔ |
 | [Lawrence Livermore National Laboratory (LLNL)](generated/companies/lawrence-livermore-national-laboratory-llnl.md) | [Data Science Undergraduate Student Intern - Summer 2027](https://jobs.smartrecruiters.com/LLNL/3743990015289136) | Livermore, CA | Onsite | 2026-09-16 | Rolling | 🟢 Open | ❔ |
 | [LexisNexis Legal & Professional](generated/companies/lexisnexis-legal-professional.md) | [Data Science Intern](https://relx.wd3.myworkdayjobs.com/en-US/LexisNexisLegal/job/Raleigh-NC/Data-Science-Internship_R118691-1) | Raleigh, NC | Onsite | 2026-09-15 | Rolling | 🟢 Open | ❔ |
+| [Louisiana Blue](generated/companies/louisiana-blue.md) | [Healthcare Data Science Intern - Spring 2027](https://bcbsla.wd1.myworkdayjobs.com/Generation_Blue/job/Corporate---Baton-Rouge-LA/CW-Healthcare-Data-Science-Intern--Spring-2027-_R12151) | Baton Rouge, LA | Onsite | 2026-09-16 | Rolling | 🟢 Open | ❔ |
 | [Lyft](generated/companies/lyft.md) | [Data Science Intern - Algorithms](https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002) | NYC | Onsite | 2026-09-11 | Rolling | 🟢 Open | ❔ |
 | [Lyft](generated/companies/lyft.md) | [Data Science Intern - Algorithms](https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002) | SF | Onsite | 2026-09-11 | Rolling | 🟢 Open | ❔ |
 | [Lyft](generated/companies/lyft.md) | [Data Science Intern - Algorithms](https://app.careerpuck.com/job-board/lyft/job/8767697002?gh_jid=8767697002) | Toronto | Onsite | 2026-09-11 | Rolling | 🟢 Open | ❔ |
@@ -222,6 +226,7 @@
 - Ardian (1)
 - AspenTech (1)
 - AtkinsRéalis (1)
+- Barr (1)
 - BlueCross BlueShield of Nebraska (1)
 - C3.ai (1)
 - CACI (1)
@@ -239,11 +244,14 @@
 - First National Bank (1)
 - G-Research (1)
 - Gallup (1)
+- GM financial (1)
+- Gordon Food Service (1)
 - Hadrian (1)
 - IntelliGenesis (1)
 - Ketjen (1)
 - Lawrence Livermore National Laboratory (LLNL) (1)
 - LexisNexis Legal & Professional (1)
+- Louisiana Blue (1)
 - Mackenzie Investments (1)
 - Meijer (1)
 - Momentive (1)

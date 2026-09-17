@@ -7,6 +7,8 @@
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
 | AMD | [AGS Libraries Intern/Co-op](https://careers.amd.com/jobs/90427?icims=1) | Calgary | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
+| AMD | [AI Model Optimization & Software Engineer Intern/Co-op](https://careers.amd.com/jobs/92526?icims=1) | Austin, TX | Onsite | 2026-09-16 | Rolling | 🟢 Open | ❔ |
+| AMD | [AI Model Optimization & Software Engineer Intern/Co-op](https://careers.amd.com/jobs/92522?icims=1) | San Jose, CA +1 | Onsite | 2026-09-16 | Rolling | 🟢 Open | ❔ |
 | AMD | [AI Systems & GPU Performance Engineer Intern](https://careers.amd.com/jobs/92354?icims=1) | San Jose, CA +1 | Onsite | 2026-09-11 | Rolling | 🟢 Open | ❔ |
 | AMD | [Analog and Mixed Signal Engineer Intern/Co-op](https://careers.amd.com/jobs/91369?icims=1) | Markham | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
 | AMD | [Analog/Mixed-Signal Design Intern/Co-op](https://careers.amd.com/jobs/92346?icims=1) | San Jose, CA +1 | Onsite | 2026-09-11 | Rolling | 🟢 Open | ❔ |

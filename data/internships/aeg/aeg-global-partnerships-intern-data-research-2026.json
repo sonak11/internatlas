@@ -1,0 +1,51 @@
+{
+  "schema_version": "1.0",
+  "id": "aeg-global-partnerships-intern-data-research-2026",
+  "company": {
+    "name": "AEG",
+    "slug": "aeg"
+  },
+  "role": "Global Partnerships Intern - Data & Research",
+  "category": "research",
+  "apply_url": "https://job-boards.greenhouse.io/aegworldwide/jobs/8811721002",
+  "season": "fall",
+  "year": 2026,
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "state": "LA",
+      "country": "USA"
+    }
+  ],
+  "compensation": {
+    "currency": "USD",
+    "housing_stipend": false,
+    "relocation_assistance": false
+  },
+  "eligibility": {
+    "graduation_years": [],
+    "degree_levels": [],
+    "citizenship_required": false,
+    "security_clearance_required": false,
+    "visa_sponsorship": "unknown"
+  },
+  "interview": {},
+  "tech": {
+    "required_skills": [],
+    "preferred_skills": [],
+    "languages": [],
+    "frameworks": [],
+    "cloud_platforms": [],
+    "resume_keywords": []
+  },
+  "dates": {
+    "posted": "2026-09-16",
+    "discovered": "2026-09-17",
+    "last_verified": "2026-09-17"
+  },
+  "status": "open",
+  "tags": [
+    "auto-ingested",
+    "src:simplify"
+  ]
+}

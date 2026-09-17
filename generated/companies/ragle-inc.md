@@ -8,6 +8,7 @@
 |---|---|---|---|---|---|---|---|
 | Ragle Inc | [Data Analytics Intern](https://ragleinc.applytojob.com/apply/H0xLKtFZlq/Data-Analytics-Intern-Summer-2027) | North Richland Hills, TX | Onsite | 2026-09-04 | Rolling | 🟢 Open | ❔ |
 | Ragle Inc | [Data Engineering Intern](https://ragleinc.applytojob.com/apply/bOx8uiciOs/Data-Engineering-Intern-Summer-2027) | North Richland Hills, TX | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
+| Ragle Inc | [Software Engineer Intern](https://ragleinc.applytojob.com/apply/lonTfWhOqm/Software-Engineer-Intern) | North Richland Hills, TX | Onsite | 2026-09-16 | Rolling | 🟢 Open | ❔ |
 
 ## Related
 

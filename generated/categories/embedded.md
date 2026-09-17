@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # ⚙️ Embedded Internships
 
-**108** tracked · **79** open now
+**111** tracked · **82** open now
 
 ## Current openings
 
@@ -43,6 +43,8 @@
 | [Geotab](generated/companies/geotab.md) | [Embedded Developer Intern - Multiple Teams](https://job-boards.greenhouse.io/internshiplist2000/jobs/5406651008) | Oakville +1 | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
 | [Honeywell](generated/companies/honeywell.md) | [Embedded Engineer Intern](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155562) | USA | Onsite | 2026-08-25 | Rolling | 🟢 Open | ❔ |
 | [Honeywell](generated/companies/honeywell.md) | [Embedded Engineer Intern](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155561) | USA | Onsite | 2026-08-25 | Rolling | 🟢 Open | ❔ |
+| [Itron](generated/companies/itron.md) | [Firmware Engineer Intern](https://itron.wd5.myworkdayjobs.com/Itron/job/United-States-of-America-South-Carolina-West-Union/Intern----Firmware-Engineer--Spring-2027-_JR102920-1) | West Union, SC | Onsite | 2026-09-16 | Rolling | 🟢 Open | ❔ |
+| [Itron](generated/companies/itron.md) | [Firmware Engineer Intern](https://itron.wd5.myworkdayjobs.com/Early_Careers/job/United-States-of-America-South-Carolina-West-Union/Intern----Firmware-Engineer--Spring-2027-_JR102920) | West Union, SC | Onsite | 2026-09-16 | Rolling | 🟢 Open | ❔ |
 | [Kepler Communications](generated/companies/kepler-communications.md) | [Embedded Software Engineer Intern - January 2027 - 4 months](https://jobs.lever.co/kepler/2ad02ce3-1d56-4aee-9f1d-5199c780c0c1/apply) | Toronto | Onsite | 2026-08-19 | Rolling | 🟢 Open | ❔ |
 | [Lexington Medical](generated/companies/lexington-medical.md) | [Electrical/Embedded Software Engineer Intern](https://job-boards.greenhouse.io/lexingtonmedical/jobs/5400236008) | Bedford, MA | Onsite | 2026-09-09 | Rolling | 🟢 Open | ❔ |
 | [Lunar Outpost](generated/companies/lunar-outpost.md) | [Embedded Software Engineer Intern - Summer 2027](https://lunaroutpost.bamboohr.com/careers/392/) | Golden, CO | Onsite | 2026-09-15 | Rolling | 🟢 Open | ❔ |
@@ -73,6 +75,7 @@
 | [Tesla](generated/companies/tesla.md) | [Embedded Software Engineer Intern - Optimus](https://www.tesla.com/careers/search/job/282340) | Palo Alto, CA | Onsite | 2026-09-03 | Rolling | 🟢 Open | ❔ |
 | [Tesla](generated/companies/tesla.md) | [Embedded Software Engineer Intern - Steering - Chassis Systems](https://www.tesla.com/careers/search/job/282248) | Palo Alto, CA | Onsite | 2026-09-03 | Rolling | 🟢 Open | ❔ |
 | [Tesla](generated/companies/tesla.md) | [Embedded Software Engineer Intern, Keys & Authentication](https://www.tesla.com/careers/search/job/internship-embedded-software-engineer-keys-authentication-fall-2026-270067) | Palo Alto, CA | Onsite | 2026-05-09 | Rolling | 🟢 Open | ❔ |
+| [Tesla](generated/companies/tesla.md) | [Factory Firmware Integration Intern - Energy Engineering](https://www.tesla.com/careers/search/job/283630) | Buffalo, NY | Onsite | 2026-09-16 | Rolling | 🟢 Open | ❔ |
 | [Tesla](generated/companies/tesla.md) | [Firmware Engineer Intern - New Programs Engineering](https://www.tesla.com/careers/search/job/279991) | Fremont, CA | Onsite | 2026-08-13 | Rolling | 🟢 Open | ❔ |
 | [Tesla](generated/companies/tesla.md) | [Internship - Software Integration Engineer - Factory Firmware Team - Winter/Spring 2027](https://www.tesla.com/careers/search/job/283447) | Palo Alto, CA | Onsite | 2026-09-15 | Rolling | 🟢 Open | ❔ |
 | [Tesla](generated/companies/tesla.md) | [Software Integration Engineer Intern - Factory Firmware](https://www.tesla.com/careers/search/job/283395) | Palo Alto, CA | Onsite | 2026-09-14 | Rolling | 🟢 Open | ❔ |
@@ -119,7 +122,7 @@
 
 ## Hiring companies
 
-- Tesla (21)
+- Tesla (22)
 - AMD (8)
 - Neuralink (4)
 - Zipline (4)
@@ -131,6 +134,7 @@
 - Fab2 (2)
 - Geotab (2)
 - Honeywell (2)
+- Itron (2)
 - Marvell (2)
 - Nokia (2)
 - The Toro Company (2)

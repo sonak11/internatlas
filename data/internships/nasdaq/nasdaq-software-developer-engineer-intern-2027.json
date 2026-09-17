@@ -1,20 +1,21 @@
 {
   "schema_version": "1.0",
-  "id": "capital-one-backend-software-engineer-intern-team-interstellar-2027-c2d4d2",
+  "id": "nasdaq-software-developer-engineer-intern-2027",
   "company": {
-    "name": "Capital One",
-    "slug": "capital-one"
+    "name": "Nasdaq",
+    "slug": "nasdaq"
   },
-  "role": "Backend Software Engineer Intern, Team Interstellar",
+  "role": "Software Developer/Engineer Intern",
   "category": "software-engineering",
-  "apply_url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Toronto-ON/Intern--Backend-Software-Engineer---Team-Interstellar---Winter-2027_R249022",
-  "season": "winter",
+  "apply_url": "https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/GA---Glenridge-Point/Software-Developer--Engineer-Intern---2027-Summer-Internship_R0026972",
+  "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Toronto",
-      "country": "ON"
+      "city": "Atlanta",
+      "state": "GA",
+      "country": "USA"
     }
   ],
   "compensation": {
@@ -27,7 +28,7 @@
     "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
-    "visa_sponsorship": "yes"
+    "visa_sponsorship": "unknown"
   },
   "interview": {},
   "tech": {
@@ -39,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-21",
-    "discovered": "2026-08-21",
-    "last_verified": "2026-09-16"
+    "posted": "2026-09-16",
+    "discovered": "2026-09-17",
+    "last_verified": "2026-09-17"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:vanshb03"
+    "src:simplify"
   ]
 }

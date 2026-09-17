@@ -5,9 +5,9 @@
     "name": "Capital One",
     "slug": "capital-one"
   },
-  "role": "Backend Software Engineer Intern - Team Interstellar",
+  "role": "Backend Software Engineer Intern, Team Interstellar",
   "category": "software-engineering",
-  "apply_url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Backend-Software-Engineer---Team-Interstellar---Winter-2027_R249022",
+  "apply_url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Toronto-ON/Intern--Backend-Software-Engineer---Team-Interstellar---Winter-2027_R249022",
   "season": "winter",
   "year": 2027,
   "work_mode": "onsite",
@@ -42,13 +42,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-17",
+    "posted": "2026-08-21",
     "discovered": "2026-08-17",
-    "last_verified": "2026-09-16"
+    "last_verified": "2026-09-17"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }
