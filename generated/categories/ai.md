@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🤖 AI Internships
 
-**376** tracked · **244** open now
+**377** tracked · **244** open now
 
 ## Current openings
 
@@ -104,7 +104,6 @@
 | [Ernst & Young](generated/companies/ernst-young.md) | [Artificial Intelligence Intern - Tax - Tax Technology and Transformation](https://eyglobal.yello.co/jobs/LGUG7W08QqkVXWnuqFB0TA?job_board_id=c1riT--B2O-KySgYWsZO1Q) | Dallas, TX +1 | Onsite | 2026-09-04 | Rolling | 🟢 Open | ❔ |
 | [Eulerity](generated/companies/eulerity.md) | [Digital Marketing Intern - Technical AI & Automation](https://job-boards.greenhouse.io/eulerity/jobs/4708258006) | NYC | Onsite | 2026-08-25 | Rolling | 🟢 Open | ❔ |
 | [Excellus BCBS](generated/companies/excellus-bcbs.md) | [College Intern - AI Engineering](https://lthc.wd1.myworkdayjobs.com/en-US/ExcellusBCBSCareers/job/Rochester/College-Intern---AI-Engineering---Fall-2026--Multiple-Openings-_JR103879-2) | Rochester, NY +4 | Onsite | 2026-08-20 | Rolling | 🟢 Open | ❔ |
-| [Finastra](generated/companies/finastra.md) | [AI Engineer Intern - Summer 2027](https://finastra.wd3.myworkdayjobs.com/FINC/job/Atlanta/AI-Engineer-Intern--Summer-2027-_REQ0826_0038079) | Atlanta, GA | Onsite | 2026-08-27 | Rolling | 🟢 Open | ❔ |
 | [First National Bank](generated/companies/first-national-bank.md) | [AI and Innovation Intern](https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Pittsburgh-PA/Summer-2027-AI-and-Innovation-Intern---Pittsburgh--PA_2026-01811) | Pittsburgh, PA | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
 | [Formlabs](generated/companies/formlabs.md) | [AI Software Intern](https://careers.formlabs.com/job/8174874/apply/?gh_jid=8174874) | Somerville, MA | Onsite | 2026-09-08 | Rolling | 🟢 Open | ❔ |
 | [GE Aerospace](generated/companies/ge-aerospace.md) | [Applied AI Intern](https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Evendale/Applied-AI-Engineer-Intern---Summer-2027--May-June-Start-_R5039302-1) | Evendale, OH +1 | Onsite | 2026-08-31 | Rolling | 🟢 Open | ❔ |
@@ -113,6 +112,7 @@
 | [HD Supply](generated/companies/hd-supply.md) | [Artificial Intelligence and Data Science Intern - Artificial Intelligence & Data Science](https://hdsupply.wd1.myworkdayjobs.com/External/job/Atlanta-GA-US/Graduate-Intern--Artificial-Intelligence---Data-Science---Summer-2027_R26004952) | Atlanta, GA | Onsite | 2026-09-02 | Rolling | 🟢 Open | ❔ |
 | [Helsing](generated/companies/helsing.md) | [AI Research Intern - 3D Computer Vision](https://helsing.ai/jobs/4941957101?gh_jid=4941957101) | London +4 | Onsite | 2026-07-30 | Rolling | 🟢 Open | ❔ |
 | [Homebase](generated/companies/homebase.md) | [Forward Deployed Engineering Intern, AI-Native](https://jobs.ashbyhq.com/homebase/a7ab59c0-786e-4675-b684-2ed19b240fb2) | Houston, TX +1 | Onsite | 2026-04-28 | Rolling | 🟢 Open | ❔ |
+| [Howmet Aerospace](generated/companies/howmet-aerospace.md) | [Artificial Intelligence Intern - AI](https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/119494) | Pittsburgh, PA | Onsite | 2026-09-17 | Rolling | 🟢 Open | ❔ |
 | [Huntington Bancshares](generated/companies/huntington-bancshares.md) | [Business Innovation & AI Products Intern](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Austin-TX/Summer-2027-Business-Innovation---AI-Products-Intern_R0075876) | Austin, TX +2 | Onsite | 2026-09-15 | Rolling | 🟢 Open | ❔ |
 | [Intact](generated/companies/intact.md) | [AI Developer Intern Co-op](https://intactfc.wd3.myworkdayjobs.com/en-US/intactfc/job/Montral-Quebec-CAN/AI-Developer---4-Month-Internship-Co-op--Winter-2027--_R155233) | Montreal | Onsite | 2026-09-09 | Rolling | 🟢 Open | ❔ |
 | [Intact](generated/companies/intact.md) | [AI Developer Intern Co-op - Winter 2027](https://intactfc.wd3.myworkdayjobs.com/en-US/intactfc/job/Vancouver-British-Columbia-CAN/AI-Developer---4-Month-Internship-Co-op--Winter-2027--_R155235) | Vancouver | Onsite | 2026-09-09 | Rolling | 🟢 Open | ❔ |
@@ -301,6 +301,7 @@
 | [Egra](generated/companies/egra.md) | [AI Researcher Intern](https://jobs.ashbyhq.com/egra/6f295102-6330-4a9e-9fc4-9b414e620003/application?embed=true) | NYC | Onsite | 2026-07-21 | Rolling | 🔴 Closed | ❔ |
 | [Exabeam](generated/companies/exabeam.md) | [AI Deployment Intern](https://jobs.jobvite.com/exabeam/job/oRNAAfwy?nl=1&nl=1&fr=false) | Remote | Remote | 2026-08-04 | Rolling | 🔴 Closed | ❔ |
 | [Exowatt](generated/companies/exowatt.md) | [Software Engineer Intern - Agent Platform - AI](https://jobs.lever.co/exowatt/2623555d-8b81-4f95-8bca-de9fafd2381c/apply) | Austin, TX | Onsite | 2026-07-10 | Rolling | 🔴 Closed | ❔ |
+| [Finastra](generated/companies/finastra.md) | [AI Engineer Intern - Summer 2027](https://finastra.wd3.myworkdayjobs.com/FINC/job/Atlanta/AI-Engineer-Intern--Summer-2027-_REQ0826_0038079) | Atlanta, GA | Onsite | 2026-08-27 | Rolling | 🔴 Closed | ❔ |
 | [Formlabs](generated/companies/formlabs.md) | [AI Software Intern](https://careers.formlabs.com/job/8067641/apply/?gh_jid=8067641) | Cambridge, MA | Onsite | 2026-07-16 | Rolling | 🔴 Closed | ❔ |
 | [Grant Thornton](generated/companies/grant-thornton.md) | [AI, Data & Technology Intern - Summer 2027](https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/115704) | Charlotte, NC | Onsite | 2026-08-31 | Rolling | 🔴 Closed | ❔ |
 | [Grant Thornton](generated/companies/grant-thornton.md) | [AI, Data & Technology Intern - Summer 2027](https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/115750) | Minneapolis, MN | Onsite | 2026-08-31 | Rolling | 🔴 Closed | ❔ |
@@ -485,7 +486,6 @@
 - Ernst & Young (1)
 - Eulerity (1)
 - Excellus BCBS (1)
-- Finastra (1)
 - First National Bank (1)
 - GE Aerospace (1)
 - GenMD (1)
@@ -493,6 +493,7 @@
 - HD Supply (1)
 - Helsing (1)
 - Homebase (1)
+- Howmet Aerospace (1)
 - Huntington Bancshares (1)
 - Intelcom | Dragonfly (1)
 - Johns Hopkins Applied Physics Laboratory (1)
@@ -558,6 +559,7 @@
 - Egra (1)
 - Exabeam (1)
 - Exowatt (1)
+- Finastra (1)
 - Intel Corporation (1)
 - Kirin (1)
 - L3Harris Technologies (1)

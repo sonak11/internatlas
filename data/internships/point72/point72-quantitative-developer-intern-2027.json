@@ -7,13 +7,14 @@
   },
   "role": "Quantitative Developer Intern",
   "category": "quant",
-  "apply_url": "https://boards.greenhouse.io/point72/jobs/8721562002",
-  "season": "winter",
+  "apply_url": "https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-developer-internship&jobCode=CSS-0012293",
+  "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "NYC",
+      "city": "New York",
+      "state": "NY",
       "country": "USA"
     }
   ],
@@ -41,13 +42,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-17",
+    "posted": "2026-04-19",
     "discovered": "2026-07-17",
     "last_verified": "2026-09-17"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }

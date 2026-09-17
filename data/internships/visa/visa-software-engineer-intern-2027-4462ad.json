@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "northrop-grumman-software-engineer-intern-aeronautics-systems-2027-2a30b4",
+  "id": "visa-software-engineer-intern-2027-4462ad",
   "company": {
-    "name": "Northrop Grumman",
-    "slug": "northrop-grumman"
+    "name": "Visa",
+    "slug": "visa"
   },
-  "role": "Software Engineer Intern - Aeronautics Systems",
+  "role": "Software Engineer Intern",
   "category": "software-engineering",
-  "apply_url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10242395",
+  "apply_url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Denver-CO/Software-Engineer--Intern--Highlands-Ranch--CO---2027_REF088583W",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Melbourne",
-      "state": "FL",
+      "city": "Denver",
+      "state": "CO",
       "country": "USA"
     }
   ],
@@ -25,7 +25,9 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "masters"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -40,8 +42,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-06",
-    "discovered": "2026-09-14",
+    "posted": "2026-09-17",
+    "discovered": "2026-09-17",
     "last_verified": "2026-09-17"
   },
   "status": "open",

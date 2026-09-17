@@ -1,6 +1,6 @@
 {
   "generated": "2026-09-17",
-  "count": 4719,
+  "count": 4741,
   "internships": [
     {
       "schema_version": "1.0",
@@ -3216,6 +3216,57 @@
         "last_verified": "2026-09-01"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "alayacare-fullstack-developer-intern-python-2027",
+      "company": {
+        "name": "Alayacare",
+        "slug": "alayacare"
+      },
+      "role": "Fullstack Developer Intern - Python",
+      "category": "software-engineering",
+      "apply_url": "https://alayacare.com/open-positions?gh_jid=8811336002",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Montreal",
+          "country": "QC"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-17",
+        "discovered": "2026-09-17",
+        "last_verified": "2026-09-17"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -13104,6 +13155,57 @@
       "dates": {
         "posted": "2026-09-01",
         "discovered": "2026-09-01",
+        "last_verified": "2026-09-17"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "american-express-marketing-analyst-intern-undergraduate-ics-2027",
+      "company": {
+        "name": "American Express",
+        "slug": "american-express"
+      },
+      "role": "Marketing Analyst Intern - Undergraduate ICS",
+      "category": "software-engineering",
+      "apply_url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013825",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "London",
+          "country": "UK"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-17",
+        "discovered": "2026-09-17",
         "last_verified": "2026-09-17"
       },
       "status": "open",
@@ -23716,6 +23818,108 @@
     },
     {
       "schema_version": "1.0",
+      "id": "autodesk-software-developer-intern-2027-5a165a",
+      "company": {
+        "name": "Autodesk",
+        "slug": "autodesk"
+      },
+      "role": "Software Developer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://autodesk.wd1.myworkdayjobs.com/uni/job/Montreal-QC-CAN/Intern--Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD101114",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Montreal",
+          "country": "QC"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-17",
+        "discovered": "2026-09-17",
+        "last_verified": "2026-09-17"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "autodesk-software-developer-intern-2027-651c55",
+      "company": {
+        "name": "Autodesk",
+        "slug": "autodesk"
+      },
+      "role": "Software Developer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Intern--Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD101114-1",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Montreal",
+          "country": "QC"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-17",
+        "discovered": "2026-09-17",
+        "last_verified": "2026-09-17"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "autodesk-software-developer-intern-2027-b9385f",
       "company": {
         "name": "Autodesk",
@@ -24173,6 +24377,110 @@
         "last_verified": "2026-07-23"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "avis-budget-group-data-analytics-intern-2027",
+      "company": {
+        "name": "Avis Budget Group",
+        "slug": "avis-budget-group"
+      },
+      "role": "Data Analytics Intern",
+      "category": "software-engineering",
+      "apply_url": "https://avisbudget.wd1.myworkdayjobs.com/abg_careers/job/379-Interpace-Pkwy-Parsippany-07054/Accelerate---Data-Analytics-Intern-Summer-2027_R0190389",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Parsippany-Troy Hills",
+          "state": "NJ",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-17",
+        "discovered": "2026-09-17",
+        "last_verified": "2026-09-17"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "avis-budget-group-it-engineering-intern-accelerate-2027",
+      "company": {
+        "name": "Avis Budget Group",
+        "slug": "avis-budget-group"
+      },
+      "role": "IT Engineering Intern - Accelerate",
+      "category": "software-engineering",
+      "apply_url": "https://avisbudget.wd1.myworkdayjobs.com/abg_careers/job/379-Interpace-Pkwy-Parsippany-07054/Accelerate---IT-Engineering-Intern-Summer-2027_R0190463",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Parsippany-Troy Hills",
+          "state": "NJ",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-17",
+        "discovered": "2026-09-17",
+        "last_verified": "2026-09-17"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -36732,6 +37040,171 @@
         "degree_levels": [
           "masters"
         ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-17",
+        "discovered": "2026-09-17",
+        "last_verified": "2026-09-17"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "british-columbia-investment-software-engineer-co-op-intern-investment-tech-data-analytic-2027",
+      "company": {
+        "name": "British Columbia Investment",
+        "slug": "british-columbia-investment"
+      },
+      "role": "Software Engineer Co-op Intern - Investment Tech/Data & Analytics",
+      "category": "software-engineering",
+      "apply_url": "https://bci.wd10.myworkdayjobs.com/BCI_Careers/job/Victoria-BC/Investment-Tech-Data---Analytics----Software-Engineer-Co-op-Internship--Winter-2027-or-Winter---Summer-2027-_JR101596",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Victoria",
+          "country": "BC"
+        },
+        {
+          "city": "Vancouver",
+          "country": "BC"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-17",
+        "discovered": "2026-09-17",
+        "last_verified": "2026-09-17"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "british-columbia-investment-software-engineer-co-op-intern-winter-2027-2027",
+      "company": {
+        "name": "British Columbia Investment",
+        "slug": "british-columbia-investment"
+      },
+      "role": "Software Engineer Co-op Intern - Winter 2027",
+      "category": "software-engineering",
+      "apply_url": "https://bci.wd10.myworkdayjobs.com/BCI_Careers/job/Vancouver-BC/Software-Engineer-Co-op-Internship--Winter-2027-_JR101590",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Victoria",
+          "country": "BC"
+        },
+        {
+          "city": "Vancouver",
+          "country": "BC"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-17",
+        "discovered": "2026-09-17",
+        "last_verified": "2026-09-17"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "british-columbia-investment-technology-solutions-engineer-co-op-intern-2027",
+      "company": {
+        "name": "British Columbia Investment",
+        "slug": "british-columbia-investment"
+      },
+      "role": "Technology Solutions Engineer Co-op/Intern",
+      "category": "software-engineering",
+      "apply_url": "https://bci.wd10.myworkdayjobs.com/BCI_Careers/job/Victoria-BC/Technology-Solutions-Engineer-Co-op-Internship--Winter-2027-_JR101601",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Victoria",
+          "country": "BC"
+        },
+        {
+          "city": "Vancouver",
+          "country": "BC"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
         "citizenship_required": false,
         "security_clearance_required": false,
         "visa_sponsorship": "unknown"
@@ -78520,7 +78993,7 @@
         "discovered": "2026-08-28",
         "last_verified": "2026-09-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -89670,7 +90143,7 @@
         "discovered": "2026-08-27",
         "last_verified": "2026-09-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -89722,7 +90195,7 @@
         "discovered": "2026-08-20",
         "last_verified": "2026-09-17"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -89775,7 +90248,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-09-17"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -89790,14 +90263,14 @@
       },
       "role": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
       "category": "quant",
-      "apply_url": "https://higher.gs.com/roles/171535?type=students",
+      "apply_url": "https://higher.gs.com/roles/175427?type=students",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
       "locations": [
         {
-          "city": "NYC",
-          "country": "USA"
+          "city": "London",
+          "country": "UK"
         }
       ],
       "compensation": {
@@ -89880,7 +90353,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-17"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -89932,7 +90405,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-17"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -89986,7 +90459,7 @@
         "discovered": "2026-09-16",
         "last_verified": "2026-09-17"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -90039,7 +90512,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-17"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -90054,15 +90527,14 @@
       },
       "role": "Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats",
       "category": "quant",
-      "apply_url": "https://higher.gs.com/roles/171549?type=students",
+      "apply_url": "https://higher.gs.com/roles/175421?type=students",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
       "locations": [
         {
-          "city": "Salt Lake City",
-          "state": "UT",
-          "country": "USA"
+          "city": "London",
+          "country": "UK"
         }
       ],
       "compensation": {
@@ -90144,58 +90616,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-17"
       },
-      "status": "closed",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "goldman-sachs-quantitative-strategist-intern-multiple-teams-2027-323368",
-      "company": {
-        "name": "Goldman Sachs",
-        "slug": "goldman-sachs"
-      },
-      "role": "Quantitative Strategist Intern - Multiple Teams",
-      "category": "quant",
-      "apply_url": "https://higher.gs.com/roles/175424?type=students",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "London",
-          "country": "UK"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-08-15",
-        "discovered": "2026-09-16",
-        "last_verified": "2026-09-17"
-      },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -90210,14 +90631,14 @@
       },
       "role": "Quantitative Strategist Intern - Multiple Teams",
       "category": "quant",
-      "apply_url": "https://higher.gs.com/roles/171563?type=students",
+      "apply_url": "https://higher.gs.com/roles/175424?type=students",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
       "locations": [
         {
-          "city": "NYC",
-          "country": "USA"
+          "city": "London",
+          "country": "UK"
         }
       ],
       "compensation": {
@@ -90298,7 +90719,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-17"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -90349,7 +90770,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-17"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -90410,6 +90831,57 @@
     },
     {
       "schema_version": "1.0",
+      "id": "goldman-sachs-summer-analyst-intern-americas-engineering-2027-48b2d0",
+      "company": {
+        "name": "Goldman Sachs",
+        "slug": "goldman-sachs"
+      },
+      "role": "Summer Analyst Intern - Americas - Engineering",
+      "category": "software-engineering",
+      "apply_url": "https://higher.gs.com/roles/171567?type=students",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Toronto",
+          "country": "ON"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-15",
+        "discovered": "2026-09-17",
+        "last_verified": "2026-09-17"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "goldman-sachs-summer-analyst-intern-americas-engineering-2027-904d14",
       "company": {
         "name": "Goldman Sachs",
@@ -90454,7 +90926,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-17"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -90469,14 +90941,14 @@
       },
       "role": "Summer Analyst Intern - Americas - Engineering",
       "category": "software-engineering",
-      "apply_url": "https://higher.gs.com/roles/171567?type=students",
+      "apply_url": "https://higher.gs.com/roles/171564?type=students",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
       "locations": [
         {
-          "city": "Toronto",
-          "country": "ON"
+          "city": "NYC",
+          "country": "USA"
         }
       ],
       "compensation": {
@@ -90505,7 +90977,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-17"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -90558,7 +91030,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -90612,7 +91084,7 @@
         "discovered": "2026-09-06",
         "last_verified": "2026-09-17"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -90666,7 +91138,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-17"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -90681,13 +91153,13 @@
       },
       "role": "Summer Analyst Intern - Engineering",
       "category": "software-engineering",
-      "apply_url": "https://higher.gs.com/roles/170644?type=students",
+      "apply_url": "https://higher.gs.com/roles/170637?type=students",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
       "locations": [
         {
-          "city": "London",
+          "city": "Birmingham",
           "country": "UK"
         }
       ],
@@ -90773,7 +91245,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-09-17"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -90875,7 +91347,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-17"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -90977,7 +91449,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-17"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -91030,7 +91502,7 @@
         "discovered": "2026-08-29",
         "last_verified": "2026-09-17"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -91083,7 +91555,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-09-17"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -94779,6 +95251,58 @@
       "dates": {
         "posted": "2026-09-11",
         "discovered": "2026-09-11",
+        "last_verified": "2026-09-17"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "great-american-insurance-company-catastrophe-modeling-data-analytics-intern-2027",
+      "company": {
+        "name": "Great American Insurance Company",
+        "slug": "great-american-insurance-company"
+      },
+      "role": "Catastrophe Modeling & Data Analytics Intern",
+      "category": "software-engineering",
+      "apply_url": "https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Catastrophe-Modeling---Data-Analytics-Intern--Spring-2027-_R9576",
+      "season": "spring",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Cincinnati",
+          "state": "OH",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-17",
+        "discovered": "2026-09-17",
         "last_verified": "2026-09-17"
       },
       "status": "open",
@@ -99786,6 +100310,58 @@
       "dates": {
         "posted": "2026-09-15",
         "discovered": "2026-09-15",
+        "last_verified": "2026-09-17"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "howmet-aerospace-artificial-intelligence-intern-ai-2027",
+      "company": {
+        "name": "Howmet Aerospace",
+        "slug": "howmet-aerospace"
+      },
+      "role": "Artificial Intelligence Intern - AI",
+      "category": "ai",
+      "apply_url": "https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/119494",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Pittsburgh",
+          "state": "PA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-17",
+        "discovered": "2026-09-17",
         "last_verified": "2026-09-17"
       },
       "status": "open",
@@ -109597,6 +110173,108 @@
     },
     {
       "schema_version": "1.0",
+      "id": "invesco-etf-product-development-intern-early-career-2027-54a0a2",
+      "company": {
+        "name": "Invesco",
+        "slug": "invesco"
+      },
+      "role": "ETF Product Development Intern - Early Career",
+      "category": "software-engineering",
+      "apply_url": "https://invesco.wd1.myworkdayjobs.com/IVZearlycareers/job/New-York-New-York/Early-Career-Intern-ETF-Product_R-15572",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "NYC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-17",
+        "discovered": "2026-09-17",
+        "last_verified": "2026-09-17"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "invesco-etf-product-development-intern-early-career-2027",
+      "company": {
+        "name": "Invesco",
+        "slug": "invesco"
+      },
+      "role": "ETF Product Development Intern - Early Career",
+      "category": "software-engineering",
+      "apply_url": "https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/New-York-New-York/Early-Career-Intern-ETF-Product_R-15572-1",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "NYC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-17",
+        "discovered": "2026-09-17",
+        "last_verified": "2026-09-17"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "isn-software-product-strategy-intern-2027",
       "company": {
         "name": "ISN Software",
@@ -111706,6 +112384,58 @@
         "last_verified": "2026-09-03"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "johns-hopkins-applied-physics-laboratory-maritime-modeling-control-intern-maritime-robotics-2027",
+      "company": {
+        "name": "Johns Hopkins Applied Physics Laboratory",
+        "slug": "johns-hopkins-applied-physics-laboratory"
+      },
+      "role": "Maritime Modeling & Control Intern - Maritime Robotics",
+      "category": "software-engineering",
+      "apply_url": "https://careers.jhuapl.edu/jobs/60031?icims=1",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Laurel",
+          "state": "MD",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-17",
+        "discovered": "2026-09-17",
+        "last_verified": "2026-09-17"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -115358,7 +116088,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "jump-trading-campus-software-engineer-intern-2027",
+      "id": "jump-trading-campus-software-engineer-intern-2027-295be1",
       "company": {
         "name": "Jump Trading",
         "slug": "jump-trading",
@@ -115404,6 +116134,58 @@
       },
       "dates": {
         "posted": "2026-07-08",
+        "discovered": "2026-09-17",
+        "last_verified": "2026-09-17"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "jump-trading-campus-software-engineer-intern-2027",
+      "company": {
+        "name": "Jump Trading",
+        "slug": "jump-trading",
+        "career_page": "https://www.jumptrading.com/careers"
+      },
+      "role": "Campus Software Engineer (Intern)",
+      "category": "quant",
+      "apply_url": "https://www.jumptrading.com/hr/job?gh_jid=7975026",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "London",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-13",
         "discovered": "2026-07-18",
         "last_verified": "2026-09-17"
       },
@@ -128371,7 +129153,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-17"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -130981,7 +131763,7 @@
         "discovered": "2026-09-01",
         "last_verified": "2026-09-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -149703,58 +150485,6 @@
     },
     {
       "schema_version": "1.0",
-      "id": "northrop-grumman-software-engineer-intern-aeronautics-systems-2027-2a30b4",
-      "company": {
-        "name": "Northrop Grumman",
-        "slug": "northrop-grumman"
-      },
-      "role": "Software Engineer Intern - Aeronautics Systems",
-      "category": "software-engineering",
-      "apply_url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10242395",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Melbourne",
-          "state": "FL",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-08-06",
-        "discovered": "2026-09-14",
-        "last_verified": "2026-09-17"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
       "id": "northrop-grumman-software-engineer-intern-aeronautics-systems-2027-8b64a8",
       "company": {
         "name": "Northrop Grumman",
@@ -149866,29 +150596,14 @@
       },
       "role": "Software Engineer Intern - Aeronautics Systems",
       "category": "software-engineering",
-      "apply_url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Intern-Software-Engineer_R10250669",
+      "apply_url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10242395",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
       "locations": [
         {
-          "city": "Redondo Beach",
-          "state": "CA",
-          "country": "USA"
-        },
-        {
-          "city": "Palmdale",
-          "state": "CA",
-          "country": "USA"
-        },
-        {
-          "city": "San Diego",
-          "state": "CA",
-          "country": "USA"
-        },
-        {
-          "city": "El Segundo",
-          "state": "CA",
+          "city": "Melbourne",
+          "state": "FL",
           "country": "USA"
         }
       ],
@@ -149914,7 +150629,7 @@
         "resume_keywords": []
       },
       "dates": {
-        "posted": "2026-09-14",
+        "posted": "2026-08-06",
         "discovered": "2026-08-06",
         "last_verified": "2026-09-17"
       },
@@ -164889,58 +165604,6 @@
     },
     {
       "schema_version": "1.0",
-      "id": "point72-quantitative-developer-intern-2027-3961d9",
-      "company": {
-        "name": "Point72",
-        "slug": "point72"
-      },
-      "role": "Quantitative Developer Intern",
-      "category": "quant",
-      "apply_url": "https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-developer-internship&jobCode=CSS-0012293",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "New York",
-          "state": "NY",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-04-19",
-        "discovered": "2026-08-17",
-        "last_verified": "2026-09-17"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:vanshb03"
-      ]
-    },
-    {
-      "schema_version": "1.0",
       "id": "point72-quantitative-developer-intern-2027-593b48",
       "company": {
         "name": "Point72",
@@ -165000,13 +165663,14 @@
       },
       "role": "Quantitative Developer Intern",
       "category": "quant",
-      "apply_url": "https://boards.greenhouse.io/point72/jobs/8721562002",
-      "season": "winter",
+      "apply_url": "https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-developer-internship&jobCode=CSS-0012293",
+      "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
       "locations": [
         {
-          "city": "NYC",
+          "city": "New York",
+          "state": "NY",
           "country": "USA"
         }
       ],
@@ -165034,14 +165698,14 @@
         "resume_keywords": []
       },
       "dates": {
-        "posted": "2026-08-17",
+        "posted": "2026-04-19",
         "discovered": "2026-07-17",
         "last_verified": "2026-09-17"
       },
       "status": "open",
       "tags": [
         "auto-ingested",
-        "src:simplify"
+        "src:vanshb03"
       ]
     },
     {
@@ -180393,6 +181057,57 @@
     },
     {
       "schema_version": "1.0",
+      "id": "rothesay-quantitative-strategist-intern-2027",
+      "company": {
+        "name": "Rothesay",
+        "slug": "rothesay"
+      },
+      "role": "Quantitative Strategist Intern",
+      "category": "quant",
+      "apply_url": "https://job-boards.greenhouse.io/rothesaygraduates/jobs/8811533002",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "London",
+          "country": "UK"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-17",
+        "discovered": "2026-09-17",
+        "last_verified": "2026-09-17"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "roush-electrified-powertrain-calibration-intern-2026",
       "company": {
         "name": "ROUSH",
@@ -195291,6 +196006,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "sierra-nevada-corporation-software-engineer-intern-2027-26fb6a",
+      "company": {
+        "name": "Sierra Nevada Corporation",
+        "slug": "sierra-nevada-corporation"
+      },
+      "role": "Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Southern-Pines-NC/Software-Engineering-Intern--Summer-2027-_R0030759",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Southern Pines",
+          "state": "NC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-03",
+        "discovered": "2026-09-17",
+        "last_verified": "2026-09-17"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "sierra-nevada-corporation-software-engineer-intern-2027-42bb9f",
       "company": {
         "name": "Sierra Nevada Corporation",
@@ -195350,14 +196117,14 @@
       },
       "role": "Software Engineer Intern",
       "category": "software-engineering",
-      "apply_url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Southern-Pines-NC/Software-Engineering-Intern--Summer-2027-_R0030759",
+      "apply_url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Folsom-CA/Software-Engineering-Intern--Summer-2027-_R0030761-1",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
       "locations": [
         {
-          "city": "Southern Pines",
-          "state": "NC",
+          "city": "Folsom",
+          "state": "CA",
           "country": "USA"
         }
       ],
@@ -205861,7 +206628,7 @@
         "discovered": "2026-07-23",
         "last_verified": "2026-09-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -208435,9 +209202,9 @@
       "dates": {
         "posted": "2026-07-04",
         "discovered": "2026-08-28",
-        "last_verified": "2026-09-16"
+        "last_verified": "2026-09-17"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -247264,6 +248031,60 @@
     },
     {
       "schema_version": "1.0",
+      "id": "visa-associate-product-manager-intern-apm-2027-de187e",
+      "company": {
+        "name": "Visa",
+        "slug": "visa"
+      },
+      "role": "Associate Product Manager Intern - APM",
+      "category": "product",
+      "apply_url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Associate-Product-Manager--APM--Intern---Summer-2027_REF088603W-1",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Foster City",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-17",
+        "discovered": "2026-09-17",
+        "last_verified": "2026-09-17"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "visa-associate-product-manager-intern-apm-2027",
       "company": {
         "name": "Visa",
@@ -247272,6 +248093,330 @@
       "role": "Associate Product Manager Intern - APM",
       "category": "product",
       "apply_url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Job-Posting-Title-Associate-Product-Manager--APM--Intern---Summer-2027_REF088604W",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Austin",
+          "state": "TX",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-17",
+        "discovered": "2026-09-17",
+        "last_verified": "2026-09-17"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "visa-software-engineer-intern-2027-4462ad",
+      "company": {
+        "name": "Visa",
+        "slug": "visa"
+      },
+      "role": "Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Denver-CO/Software-Engineer--Intern--Highlands-Ranch--CO---2027_REF088583W",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Denver",
+          "state": "CO",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-17",
+        "discovered": "2026-09-17",
+        "last_verified": "2026-09-17"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "visa-software-engineer-intern-2027-6bf8b7",
+      "company": {
+        "name": "Visa",
+        "slug": "visa"
+      },
+      "role": "Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Bellevue-WA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Bellevue_REF088594W-1",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Bellevue",
+          "state": "WA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-17",
+        "discovered": "2026-09-17",
+        "last_verified": "2026-09-17"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "visa-software-engineer-intern-2027-6d395f",
+      "company": {
+        "name": "Visa",
+        "slug": "visa"
+      },
+      "role": "Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Software-Engineer--Intern---Foster-City-2027_REF088587W-1",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Foster City",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-17",
+        "discovered": "2026-09-17",
+        "last_verified": "2026-09-17"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "visa-software-engineer-intern-2027-9c8aba",
+      "company": {
+        "name": "Visa",
+        "slug": "visa"
+      },
+      "role": "Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Denver-CO/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Highlands-Ranch_REF088597W-1",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Denver",
+          "state": "CO",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-17",
+        "discovered": "2026-09-17",
+        "last_verified": "2026-09-17"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "visa-software-engineer-intern-2027",
+      "company": {
+        "name": "Visa",
+        "slug": "visa"
+      },
+      "role": "Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Software-Engineer--Intern---2027-Austin--TX_REF088544W-1",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Austin",
+          "state": "TX",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-17",
+        "discovered": "2026-09-17",
+        "last_verified": "2026-09-17"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "visa-software-engineer-intern-sophomore-internship-program-2027",
+      "company": {
+        "name": "Visa",
+        "slug": "visa"
+      },
+      "role": "Software Engineer Intern - Sophomore Internship Program",
+      "category": "software-engineering",
+      "apply_url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Austin_REF088596W-1",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",

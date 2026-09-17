@@ -1,0 +1,55 @@
+{
+  "schema_version": "1.0",
+  "id": "british-columbia-investment-software-engineer-co-op-intern-winter-2027-2027",
+  "company": {
+    "name": "British Columbia Investment",
+    "slug": "british-columbia-investment"
+  },
+  "role": "Software Engineer Co-op Intern - Winter 2027",
+  "category": "software-engineering",
+  "apply_url": "https://bci.wd10.myworkdayjobs.com/BCI_Careers/job/Vancouver-BC/Software-Engineer-Co-op-Internship--Winter-2027-_JR101590",
+  "season": "winter",
+  "year": 2027,
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "Victoria",
+      "country": "BC"
+    },
+    {
+      "city": "Vancouver",
+      "country": "BC"
+    }
+  ],
+  "compensation": {
+    "currency": "USD",
+    "housing_stipend": false,
+    "relocation_assistance": false
+  },
+  "eligibility": {
+    "graduation_years": [],
+    "degree_levels": [],
+    "citizenship_required": false,
+    "security_clearance_required": false,
+    "visa_sponsorship": "unknown"
+  },
+  "interview": {},
+  "tech": {
+    "required_skills": [],
+    "preferred_skills": [],
+    "languages": [],
+    "frameworks": [],
+    "cloud_platforms": [],
+    "resume_keywords": []
+  },
+  "dates": {
+    "posted": "2026-09-17",
+    "discovered": "2026-09-17",
+    "last_verified": "2026-09-17"
+  },
+  "status": "open",
+  "tags": [
+    "auto-ingested",
+    "src:simplify"
+  ]
+}

@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "point72-quantitative-developer-intern-2027-3961d9",
+  "id": "visa-software-engineer-intern-2027",
   "company": {
-    "name": "Point72",
-    "slug": "point72"
+    "name": "Visa",
+    "slug": "visa"
   },
-  "role": "Quantitative Developer Intern",
-  "category": "quant",
-  "apply_url": "https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-developer-internship&jobCode=CSS-0012293",
+  "role": "Software Engineer Intern",
+  "category": "software-engineering",
+  "apply_url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Software-Engineer--Intern---2027-Austin--TX_REF088544W-1",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "New York",
-      "state": "NY",
+      "city": "Austin",
+      "state": "TX",
       "country": "USA"
     }
   ],
@@ -25,7 +25,9 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "masters"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -40,13 +42,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-04-19",
-    "discovered": "2026-08-17",
+    "posted": "2026-09-17",
+    "discovered": "2026-09-17",
     "last_verified": "2026-09-17"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:vanshb03"
+    "src:simplify"
   ]
 }

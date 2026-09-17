@@ -8,6 +8,9 @@
 |---|---|---|---|---|---|---|---|
 | British Columbia Investment | [AI and Automation Engineer Co-op Intern - Winter 2027 - Summer 2027](https://bci.wd10.myworkdayjobs.com/BCI_Careers/job/Victoria-BC/AI-and-Automation-Engineer-Co-op-Internship--Winter---Summer-2027-_JR101597-1) | Victoria | Onsite | 2026-09-17 | Rolling | 🟢 Open | ❔ |
 | British Columbia Investment | [Investment Risk Analytics Solutions Co-op Intern - Winter 2027](https://bci.wd10.myworkdayjobs.com/BCI_Careers/job/Victoria-BC/Investment-Risk-Analytics-Solutions-Co-op-Internship--Winter-2027-_JR101608) | Victoria | Onsite | 2026-09-17 | Rolling | 🟢 Open | ❔ |
+| British Columbia Investment | [Software Engineer Co-op Intern - Investment Tech/Data & Analytics](https://bci.wd10.myworkdayjobs.com/BCI_Careers/job/Victoria-BC/Investment-Tech-Data---Analytics----Software-Engineer-Co-op-Internship--Winter-2027-or-Winter---Summer-2027-_JR101596) | Victoria +1 | Onsite | 2026-09-17 | Rolling | 🟢 Open | ❔ |
+| British Columbia Investment | [Software Engineer Co-op Intern - Winter 2027](https://bci.wd10.myworkdayjobs.com/BCI_Careers/job/Vancouver-BC/Software-Engineer-Co-op-Internship--Winter-2027-_JR101590) | Victoria +1 | Onsite | 2026-09-17 | Rolling | 🟢 Open | ❔ |
+| British Columbia Investment | [Technology Solutions Engineer Co-op/Intern](https://bci.wd10.myworkdayjobs.com/BCI_Careers/job/Victoria-BC/Technology-Solutions-Engineer-Co-op-Internship--Winter-2027-_JR101601) | Victoria +1 | Onsite | 2026-09-17 | Rolling | 🟢 Open | ❔ |
 
 ## Related
 
