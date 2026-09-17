@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "goldman-sachs-summer-analyst-intern-americas-engineering-2027",
+  "id": "british-columbia-investment-ai-and-automation-engineer-co-op-intern-winter-2027-summer-2-2027",
   "company": {
-    "name": "Goldman Sachs",
-    "slug": "goldman-sachs"
+    "name": "British Columbia Investment",
+    "slug": "british-columbia-investment"
   },
-  "role": "Summer Analyst Intern - Americas - Engineering",
-  "category": "software-engineering",
-  "apply_url": "https://higher.gs.com/roles/171567?type=students",
-  "season": "summer",
+  "role": "AI and Automation Engineer Co-op Intern - Winter 2027 - Summer 2027",
+  "category": "ai",
+  "apply_url": "https://bci.wd10.myworkdayjobs.com/BCI_Careers/job/Victoria-BC/AI-and-Automation-Engineer-Co-op-Internship--Winter---Summer-2027-_JR101597-1",
+  "season": "winter",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Toronto",
-      "country": "ON"
+      "city": "Victoria",
+      "country": "BC"
     }
   ],
   "compensation": {
@@ -39,11 +39,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-15",
-    "discovered": "2026-09-04",
+    "posted": "2026-09-17",
+    "discovered": "2026-09-17",
     "last_verified": "2026-09-17"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

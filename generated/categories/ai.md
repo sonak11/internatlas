@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🤖 AI Internships
 
-**374** tracked · **242** open now
+**376** tracked · **244** open now
 
 ## Current openings
 
@@ -42,6 +42,7 @@
 | [Bosch Home Comfort](generated/companies/bosch-home-comfort.md) | [AI Application Intern](https://jobs.smartrecruiters.com/BoschGroup/744000146547599) | Farmington Hills, MI | Onsite | 2026-08-31 | Rolling | 🟢 Open | ❔ |
 | [Brevan Howard](generated/companies/brevan-howard.md) | [Quantitative Analyst Intern - AI](https://wd3.myworkdaysite.com/recruiting/brevanhoward/BH_ExternalCareers/job/New-York/XMLNAME-2027-Summer-Internship-Program---AI---Quantitative-Analyst--New-York_JR101602) | NYC | Onsite | 2026-09-14 | Rolling | 🟢 Open | ❔ |
 | [Brio Water Technology](generated/companies/brio-water-technology.md) | [AI Automation & Business Analytics Intern - Rotational Program](https://ats.rippling.com/briowt/jobs/52da1fca-1cb1-49ff-8a94-b6f3850cd8eb) | Glendale, CA | Onsite | 2026-07-31 | Rolling | 🟢 Open | ❔ |
+| [British Columbia Investment](generated/companies/british-columbia-investment.md) | [AI and Automation Engineer Co-op Intern - Winter 2027 - Summer 2027](https://bci.wd10.myworkdayjobs.com/BCI_Careers/job/Victoria-BC/AI-and-Automation-Engineer-Co-op-Internship--Winter---Summer-2027-_JR101597-1) | Victoria | Onsite | 2026-09-17 | Rolling | 🟢 Open | ❔ |
 | [By Light Professional IT Services](generated/companies/by-light-professional-it-services.md) | [AI Intern](https://jobs-bylight.icims.com/jobs/11206/job?mobile=true&needsRedirect=false) | Orlando, FL | Onsite | 2026-08-18 | Rolling | 🟢 Open | ❔ |
 | [ByteDance](generated/companies/bytedance.md) | [AI Network Automation Engineer Intern - Global Physical Network Infrastructure](https://jobs.bytedance.com/en/position/7670690923748870405/detail) | San Jose, CA | Onsite | 2026-08-06 | Rolling | 🟢 Open | ❔ |
 | [ByteDance](generated/companies/bytedance.md) | [AI Network Automation Engineer Intern, Global Physical Network Infra](https://joinbytedance.com/search/7670690923748870405) | San Jose, CA | Onsite | 2026-08-06 | Rolling | 🟢 Open | ❔ |
@@ -182,6 +183,7 @@
 | [ShyftLabs](generated/companies/shyftlabs.md) | [AI Engineer Intern](https://jobs.lever.co/shyftlabs/4f389ea7-9b98-4ed0-99c2-b25ea8cc2dcd/apply) | Toronto | Onsite | 2026-07-21 | Rolling | 🟢 Open | ❔ |
 | [ShyftLabs](generated/companies/shyftlabs.md) | [AI Engineer Intern](https://jobs.lever.co/shyftlabs/4f389ea7-9b98-4ed0-99c2-b25ea8cc2dcd) | Toronto | Onsite | 2026-07-24 | Rolling | 🟢 Open | ❔ |
 | [SimIS](generated/companies/simis.md) | [Artificial Intelligence Developer Intern - Aerospace/Aviation](https://simisinc.applytojob.com/apply/U1yOSyvkvH/AerospaceAviation-Artificial-Intelligence-Developer-Intern) | Suffolk, VA | Onsite | 2026-08-21 | Rolling | 🟢 Open | ❔ |
+| [Smith+Nephew](generated/companies/smith-nephew.md) | [Data Science Intern - AI Center of Excellence](https://smithnephew.wd5.myworkdayjobs.com/External/job/US---Pittsburgh-PA/Intern-AI-Center-of-Excellence-Data-Science_R92480-1) | Pittsburgh, PA | Onsite | 2026-09-17 | Rolling | 🟢 Open | ❔ |
 | [Solidigm](generated/companies/solidigm.md) | [Software Engineering Intern - Firmware & AI Engineering](https://jobs.smartrecruiters.com/Solidigm/744000147613769) | Rancho Cordova, CA | Onsite | 2026-09-05 | Rolling | 🟢 Open | ❔ |
 | [SPREEAI](generated/companies/spreeai.md) | [Software Engineer Intern, AI Infrastructure / Training / Inference](https://ats.rippling.com/en-GB/spreeai/jobs/d34aed29-7a11-4e37-b5bc-e9317f82f0b1) | San Francisco, CA | Onsite | 2026-07-24 | Rolling | 🟢 Open | ✅ |
 | [Springs Window Fashions](generated/companies/springs-window-fashions.md) | [AI Analyst Intern - Consumer Business Unit](https://careers-springswindowfashions.icims.com/jobs/12875/job?mobile=true&needsRedirect=false) | Middleton, WI | Onsite | 2026-08-22 | Rolling | 🟢 Open | ❔ |
@@ -460,6 +462,7 @@
 - Boeing (1)
 - Brevan Howard (1)
 - Brio Water Technology (1)
+- British Columbia Investment (1)
 - By Light Professional IT Services (1)
 - CAE (1)
 - Campbell Soup Company (1)
@@ -519,6 +522,7 @@
 - RTX (1)
 - Sabre Systems (1)
 - SimIS (1)
+- Smith+Nephew (1)
 - Solidigm (1)
 - SPREEAI (1)
 - Springs Window Fashions (1)

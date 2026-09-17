@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🛠 Data Engineering Internships
 
-**86** tracked · **72** open now
+**86** tracked · **70** open now
 
 ## Current openings
 
@@ -68,8 +68,6 @@
 | [Shure](generated/companies/shure.md) | [Data Engineer Intern](https://careersus-shure.icims.com/jobs/4982/job?mobile=true&needsRedirect=false) | Niles, IL | Onsite | 2026-09-03 | Rolling | 🟢 Open | ❔ |
 | [Shure](generated/companies/shure.md) | [Quality Data Engineering Intern](https://careersus-shure.icims.com/jobs/4995/job?mobile=true&needsRedirect=false) | Niles, IL | Onsite | 2026-09-03 | Rolling | 🟢 Open | ❔ |
 | [Solidigm](generated/companies/solidigm.md) | [Talent Acquisition Data Engineering & Analytics Intern](https://jobs.smartrecruiters.com/Solidigm/744000148610610) | Rancho Cordova, CA | Onsite | 2026-09-09 | Rolling | 🟢 Open | ❔ |
-| [Super](generated/companies/super.md) | [Data Engineer Intern](https://jobs.ashbyhq.com/super.com/c54cf7df-73b3-49d4-acff-5dc04fba15a4/application?embed=true) | Toronto | Onsite | 2026-09-04 | Rolling | 🟢 Open | ❔ |
-| [Super](generated/companies/super.md) | [Data Engineer Intern](https://jobs.ashbyhq.com/super.com/5251792e-093d-42c6-ae9e-08c656e90807/application?embed=true) | Toronto | Onsite | 2026-09-04 | Rolling | 🟢 Open | ❔ |
 | [TD Bank](generated/companies/td-bank.md) | [Data Engineer Intern - Global Technology & Solutions](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Summer-Internship-Program---Global-Technology---Solutions---Data-Engineer_R_1510797) | Mt Laurel Township, NJ | Onsite | 2026-09-13 | Rolling | 🟢 Open | ❔ |
 | [TD Bank](generated/companies/td-bank.md) | [Data Engineer Intern/Co-op - Winter 2027](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Data-Engineer-Co-op---Intern---Winter-2027-_R_1509826) | Toronto | Onsite | 2026-09-08 | Rolling | 🟢 Open | ❔ |
 | [Tesla](generated/companies/tesla.md) | [Data Engineer Intern - Fleet Analytics](https://www.tesla.com/careers/search/job/283138) | Palo Alto, CA | Onsite | 2026-09-11 | Rolling | 🟢 Open | ❔ |
@@ -91,6 +89,8 @@
 | [Panasonic Holdings](generated/companies/panasonic-holdings.md) | [Data Engineering Intern](https://careers.na.panasonic.com/jobs/50772?icims=1) | Bridgeton, MO | Onsite | 2026-09-02 | Rolling | 🔴 Closed | ❔ |
 | [QuEra Computing](generated/companies/quera-computing.md) | [Photonics Data Engineer Intern - Data Management](https://job-boards.greenhouse.io/queracomputinginc/jobs/5378366008) | Boston, MA | Onsite | 2026-08-03 | Rolling | 🔴 Closed | ❔ |
 | [Royal Bank of Canada](generated/companies/royal-bank-of-canada.md) | [Data Engineer Intern - Chief Data Office](https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---CDO--Data-Engineer-Intern--4-Months-_R-0000184902) | Toronto | Onsite | 2026-08-24 | Rolling | 🔴 Closed | ❔ |
+| [Super](generated/companies/super.md) | [Data Engineer Intern](https://jobs.ashbyhq.com/super.com/c54cf7df-73b3-49d4-acff-5dc04fba15a4/application?embed=true) | Toronto | Onsite | 2026-09-04 | Rolling | 🔴 Closed | ❔ |
+| [Super](generated/companies/super.md) | [Data Engineer Intern](https://jobs.ashbyhq.com/super.com/5251792e-093d-42c6-ae9e-08c656e90807/application?embed=true) | Toronto | Onsite | 2026-09-04 | Rolling | 🔴 Closed | ❔ |
 | [Tesla](generated/companies/tesla.md) | [Data Engineer Intern - Applications Engineering](https://www.tesla.com/careers/search/job/272928) | Fremont, CA | Onsite | 2026-06-30 | Rolling | 🔴 Closed | ❔ |
 | [Tesla](generated/companies/tesla.md) | [Data Engineer Intern - Cell Engineering](https://www.tesla.com/careers/search/job/278622) | Palo Alto, CA | Onsite | 2026-08-04 | Rolling | 🔴 Closed | ❔ |
 | [Tesla](generated/companies/tesla.md) | [Data Engineer Intern - Data Engineer - Energy](https://www.tesla.com/careers/search/job/271331) | Palo Alto, CA | Onsite | 2026-06-07 | Rolling | 🔴 Closed | ❔ |
@@ -108,8 +108,8 @@
 - Jump Trading (2)
 - Marmon Holdings (2)
 - Shure (2)
-- Super (2)
 - TD Bank (2)
+- Super (2)
 - Acxiom (1)
 - Altice USA (1)
 - APEX Analytix (1)

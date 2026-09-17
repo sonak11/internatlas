@@ -29,7 +29,6 @@
 | Marvell | [Design Verification Intern - MS](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Design-Verification-Intern--MS---Summer-2027_2604506) | Morrisville, NC +4 | Onsite | 2026-09-04 | Rolling | 🟢 Open | ❔ |
 | Marvell | [Design Verification Intern - MS](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Design-Verification-Intern--MS---Summer-2027_2604506-1) | Morrisville, NC +4 | Onsite | 2026-09-04 | Rolling | 🟢 Open | ❔ |
 | Marvell | [Design/DSP/Verification Intern](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Design-DSP-Verification-Intern---PhD-Degree_2502786) | Santa Clara, CA | Onsite | 2026-07-04 | Rolling | 🟢 Open | ❔ |
-| Marvell | [Firmware Engineer Intern](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Firmware-Engineer-Intern--MS---Summer-2027_2604513) | Santa Clara, CA | Onsite | 2026-09-04 | Rolling | 🟢 Open | ❔ |
 | Marvell | [Firmware Engineer Intern](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Firmware-Engineer-Intern--BS---Summer-2027_2604461) | Santa Clara, CA +1 | Onsite | 2026-09-04 | Rolling | 🟢 Open | ❔ |
 | Marvell | [Functional Validation Intern - BS](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Westborough-MA/Functional-Validation-Intern--BS---Summer-2027_2604514) | Santa Clara, CA +2 | Onsite | 2026-09-04 | Rolling | 🟢 Open | ❔ |
 | Marvell | [Functional Validation Intern - BS](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Westborough-MA/Functional-Validation-Intern--BS---Summer-2027_2604514-1) | Santa Clara, CA +2 | Onsite | 2026-09-04 | Rolling | 🟢 Open | ❔ |
@@ -46,6 +45,7 @@
 | Marvell | [Test Solutions Engineering Intern - BS - Post-Silicon Hardware Validation](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Burlington-VT/Test-Solutions-Engineering-Intern--BS---Summer-2027_2603835-1) | Burlington, VT | Onsite | 2026-09-09 | Rolling | 🟢 Open | ❔ |
 | Marvell | [Test Solutions Engineering Intern - BS - Post-Silicon Hardware Validation](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Burlington-VT/Test-Solutions-Engineering-Intern--BS---Summer-2027_2603835) | Burlington, VT | Onsite | 2026-09-09 | Rolling | 🟢 Open | ❔ |
 | Marvell | [Design Verification Engineer Intern](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Ottawa-Canada/Design-Verification-Engineer-Intern---Fall-2026_2602706) | Ottawa | Onsite | 2026-06-17 | Rolling | 🔴 Closed | ❔ |
+| Marvell | [Firmware Engineer Intern](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Firmware-Engineer-Intern--MS---Summer-2027_2604513) | Santa Clara, CA | Onsite | 2026-09-04 | Rolling | 🔴 Closed | ❔ |
 
 ## Related
 

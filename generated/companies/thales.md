@@ -1,12 +1,12 @@
 <!-- ⚠️ AUTO-GENERATED FILE — do not edit by hand.
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
-# Persona
+# Thales
 
 ## Current openings
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
-| Persona | [Software Engineer Intern](https://jobs.ashbyhq.com/persona/eb77c97c-fa9d-4bf0-9566-e5ba4453b7d3/application?embed=true) | SF | Onsite | 2026-09-16 | Rolling | 🔴 Closed | ❔ |
+| Thales | [Computer Science Intern Co-op](https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Ottawa---Palladium/Computer-Science-Intern-or-Coop_R0338233) | Ottawa | Onsite | 2026-09-17 | Rolling | 🟢 Open | ❔ |
 
 ## Related
 

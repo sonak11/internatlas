@@ -1,12 +1,12 @@
 <!-- ⚠️ AUTO-GENERATED FILE — do not edit by hand.
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
-# Persona
+# Penta Group
 
 ## Current openings
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
-| Persona | [Software Engineer Intern](https://jobs.ashbyhq.com/persona/eb77c97c-fa9d-4bf0-9566-e5ba4453b7d3/application?embed=true) | SF | Onsite | 2026-09-16 | Rolling | 🔴 Closed | ❔ |
+| Penta Group | [Monitoring & Insights Intern](https://jobs.lever.co/pentagrp/ec67c4f9-52b9-42b0-bf0b-e6f88c140951/apply) | Remote | Remote | 2026-08-25 | Rolling | 🟢 Open | ❔ |
 
 ## Related
 

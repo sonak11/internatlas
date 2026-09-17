@@ -31,7 +31,6 @@
 | Qorvo | [Research Engineer Intern - High Performance Analog](https://careers.qorvo.com/job/Richardson-Research-Engineering-Intern-TX-75080/1424726900/?ats=successfactors) | Richardson, TX | Onsite | 2026-08-31 | Rolling | 🟢 Open | ❔ |
 | Qorvo | [Research Scientist Intern](https://careers.qorvo.com/job/Richardson-Research-Scientist-Intern-TX-75080/1424705400/?ats=successfactors) | Richardson, TX | Onsite | 2026-08-31 | Rolling | 🟢 Open | ❔ |
 | Qorvo | [RF/Analog IC Design Intern](https://careers.qorvo.com/job/Ft_-Lauderdale-RFAnalog-IC-Design-Intern-FL-33309/1421449000/?ats=successfactors) | Fort Lauderdale, FL | Onsite | 2026-08-31 | Rolling | 🟢 Open | ❔ |
-| Qorvo | [RFIC Design Engineer Intern](https://careers.qorvo.com/job/Greensboro-RFIC-Design-Engineering-Intern-NC-27409/1421973800/?ats=successfactors) | Greensboro, NC | Onsite | 2026-08-31 | Rolling | 🟢 Open | ❔ |
 | Qorvo | [RFIC Design Engineer Intern](https://careers.qorvo.com/job/Chelmsford-RFIC-Design-Engineer-Intern-MA-1824/1424704500/?ats=successfactors) | Chelmsford, MA | Onsite | 2026-08-31 | Rolling | 🟢 Open | ❔ |
 | Qorvo | [RFIC Design Intern](https://careers.qorvo.com/job/San-Diego-RFIC-Design-Intern-CA-92121/1424705100/?ats=successfactors) | San Diego, CA | Onsite | 2026-08-31 | Rolling | 🟢 Open | ❔ |
 | Qorvo | [RFIC Design Intern](https://careers.qorvo.com/job/Chelmsford-RFIC-Design-Intern-MA-1824/1424704100/?ats=successfactors) | Chelmsford, MA | Onsite | 2026-08-31 | Rolling | 🟢 Open | ❔ |
@@ -58,6 +57,7 @@
 | Qorvo | [Test Engineering Intern](https://careers.qorvo.com/job/Greensboro-Test-Engineering-Intern-NC-27409/1422393300/?ats=successfactors) | Greensboro, NC | Onsite | 2026-08-31 | Rolling | 🟢 Open | ❔ |
 | Qorvo | [Test Engineering Intern](https://careers.qorvo.com/job/Greensboro-Test-Engineering-Intern-NC-27409/1421444200/?ats=successfactors) | Greensboro, NC | Onsite | 2026-08-31 | Rolling | 🟢 Open | ❔ |
 | Qorvo | [Application Engineer Intern](https://careers.qorvo.com/job/Apopka-Application-Engineering-Intern-FL-32703/1421984100/?ats=successfactors) | Apopka, FL | Onsite | 2026-08-31 | Rolling | 🔴 Closed | ❔ |
+| Qorvo | [RFIC Design Engineer Intern](https://careers.qorvo.com/job/Greensboro-RFIC-Design-Engineering-Intern-NC-27409/1421973800/?ats=successfactors) | Greensboro, NC | Onsite | 2026-08-31 | Rolling | 🔴 Closed | ❔ |
 | Qorvo | [Software Engineer Intern](https://careers.qorvo.com/job/Richardson-Software-Engineer-Intern-TX-75080/1421453600/?ats=successfactors) | Richardson, TX | Onsite | 2026-08-31 | Rolling | 🔴 Closed | ❔ |
 
 ## Related

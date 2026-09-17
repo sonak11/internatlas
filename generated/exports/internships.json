@@ -1,6 +1,6 @@
 {
   "generated": "2026-09-17",
-  "count": 4713,
+  "count": 4719,
   "internships": [
     {
       "schema_version": "1.0",
@@ -26865,58 +26865,7 @@
         "discovered": "2026-09-14",
         "last_verified": "2026-09-17"
       },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "bank-of-montreal-quantitative-developer-co-op-intern-alpha-research-team-mult-2027-8535f4",
-      "company": {
-        "name": "Bank of Montreal",
-        "slug": "bank-of-montreal"
-      },
-      "role": "Quantitative Developer Co-op Intern - Alpha Research Team - Multiple Teams",
-      "category": "quant",
-      "apply_url": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Quantitative-Developer--Alpha-Research-Team----GAM--Summer-2027--Co-op-Internship----12-months_R260026715-2",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Toronto",
-          "country": "ON"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-09-14",
-        "discovered": "2026-09-15",
-        "last_verified": "2026-09-17"
-      },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -26931,7 +26880,7 @@
       },
       "role": "Quantitative Developer Co-op Intern - Alpha Research Team - Multiple Teams",
       "category": "quant",
-      "apply_url": "https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Quantitative-Developer--Alpha-Research-Team----GAM--Summer-2027--Co-op-Internship----12-months_R260026715",
+      "apply_url": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Quantitative-Developer--Alpha-Research-Team----GAM--Summer-2027--Co-op-Internship----12-months_R260026715-2",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
@@ -35387,7 +35336,7 @@
         "discovered": "2026-09-14",
         "last_verified": "2026-09-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -36695,6 +36644,110 @@
       "dates": {
         "posted": "2026-07-31",
         "discovered": "2026-08-01",
+        "last_verified": "2026-09-17"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "british-columbia-investment-ai-and-automation-engineer-co-op-intern-winter-2027-summer-2-2027",
+      "company": {
+        "name": "British Columbia Investment",
+        "slug": "british-columbia-investment"
+      },
+      "role": "AI and Automation Engineer Co-op Intern - Winter 2027 - Summer 2027",
+      "category": "ai",
+      "apply_url": "https://bci.wd10.myworkdayjobs.com/BCI_Careers/job/Victoria-BC/AI-and-Automation-Engineer-Co-op-Internship--Winter---Summer-2027-_JR101597-1",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Victoria",
+          "country": "BC"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-17",
+        "discovered": "2026-09-17",
+        "last_verified": "2026-09-17"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "british-columbia-investment-investment-risk-analytics-solutions-co-op-intern-winter-2027-2027",
+      "company": {
+        "name": "British Columbia Investment",
+        "slug": "british-columbia-investment"
+      },
+      "role": "Investment Risk Analytics Solutions Co-op Intern - Winter 2027",
+      "category": "software-engineering",
+      "apply_url": "https://bci.wd10.myworkdayjobs.com/BCI_Careers/job/Victoria-BC/Investment-Risk-Analytics-Solutions-Co-op-Internship--Winter-2027-_JR101608",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Victoria",
+          "country": "BC"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-17",
+        "discovered": "2026-09-17",
         "last_verified": "2026-09-17"
       },
       "status": "open",
@@ -55967,7 +56020,7 @@
         "discovered": "2026-08-31",
         "last_verified": "2026-09-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -88169,7 +88222,7 @@
         "discovered": "2026-09-02",
         "last_verified": "2026-09-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -89617,7 +89670,7 @@
         "discovered": "2026-08-27",
         "last_verified": "2026-09-17"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -89669,7 +89722,7 @@
         "discovered": "2026-08-20",
         "last_verified": "2026-09-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -89722,7 +89775,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-09-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -89737,14 +89790,14 @@
       },
       "role": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
       "category": "quant",
-      "apply_url": "https://higher.gs.com/roles/175427?type=students",
+      "apply_url": "https://higher.gs.com/roles/171535?type=students",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
       "locations": [
         {
-          "city": "London",
-          "country": "UK"
+          "city": "NYC",
+          "country": "USA"
         }
       ],
       "compensation": {
@@ -89827,7 +89880,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -89879,7 +89932,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -89933,7 +89986,7 @@
         "discovered": "2026-09-16",
         "last_verified": "2026-09-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -89986,7 +90039,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -90001,14 +90054,15 @@
       },
       "role": "Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats",
       "category": "quant",
-      "apply_url": "https://higher.gs.com/roles/175421?type=students",
+      "apply_url": "https://higher.gs.com/roles/171549?type=students",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
       "locations": [
         {
-          "city": "London",
-          "country": "UK"
+          "city": "Salt Lake City",
+          "state": "UT",
+          "country": "USA"
         }
       ],
       "compensation": {
@@ -90090,7 +90144,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -90141,7 +90195,7 @@
         "discovered": "2026-09-16",
         "last_verified": "2026-09-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -90244,7 +90298,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -90295,7 +90349,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -90451,7 +90505,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -90504,7 +90558,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-17"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -90612,7 +90666,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -90627,13 +90681,13 @@
       },
       "role": "Summer Analyst Intern - Engineering",
       "category": "software-engineering",
-      "apply_url": "https://higher.gs.com/roles/170637?type=students",
+      "apply_url": "https://higher.gs.com/roles/170644?type=students",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
       "locations": [
         {
-          "city": "Birmingham",
+          "city": "London",
           "country": "UK"
         }
       ],
@@ -90821,7 +90875,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -90923,7 +90977,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -90976,7 +91030,7 @@
         "discovered": "2026-08-29",
         "last_verified": "2026-09-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -115304,7 +115358,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "jump-trading-campus-software-engineer-intern-2027-295be1",
+      "id": "jump-trading-campus-software-engineer-intern-2027",
       "company": {
         "name": "Jump Trading",
         "slug": "jump-trading",
@@ -115350,58 +115404,6 @@
       },
       "dates": {
         "posted": "2026-07-08",
-        "discovered": "2026-07-18",
-        "last_verified": "2026-09-17"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:ats"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "jump-trading-campus-software-engineer-intern-2027",
-      "company": {
-        "name": "Jump Trading",
-        "slug": "jump-trading",
-        "career_page": "https://www.jumptrading.com/careers"
-      },
-      "role": "Campus Software Engineer (Intern)",
-      "category": "quant",
-      "apply_url": "https://www.jumptrading.com/hr/job?gh_jid=7975026",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "London",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-07-13",
         "discovered": "2026-07-18",
         "last_verified": "2026-09-17"
       },
@@ -128369,7 +128371,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -161551,6 +161553,52 @@
     },
     {
       "schema_version": "1.0",
+      "id": "penta-group-monitoring-insights-intern-2026",
+      "company": {
+        "name": "Penta Group",
+        "slug": "penta-group"
+      },
+      "role": "Monitoring & Insights Intern",
+      "category": "software-engineering",
+      "apply_url": "https://jobs.lever.co/pentagrp/ec67c4f9-52b9-42b0-bf0b-e6f88c140951/apply",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "remote",
+      "locations": [],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-25",
+        "discovered": "2026-09-17",
+        "last_verified": "2026-09-17"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "pentair-product-management-internship-2027",
       "company": {
         "name": "Pentair",
@@ -162210,7 +162258,7 @@
         "discovered": "2026-09-17",
         "last_verified": "2026-09-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -170346,7 +170394,7 @@
         "discovered": "2026-08-31",
         "last_verified": "2026-09-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -195243,58 +195291,6 @@
     },
     {
       "schema_version": "1.0",
-      "id": "sierra-nevada-corporation-software-engineer-intern-2027-26fb6a",
-      "company": {
-        "name": "Sierra Nevada Corporation",
-        "slug": "sierra-nevada-corporation"
-      },
-      "role": "Software Engineer Intern",
-      "category": "software-engineering",
-      "apply_url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Southern-Pines-NC/Software-Engineering-Intern--Summer-2027-_R0030759",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Southern Pines",
-          "state": "NC",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-09-03",
-        "discovered": "2026-09-04",
-        "last_verified": "2026-09-17"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
       "id": "sierra-nevada-corporation-software-engineer-intern-2027-42bb9f",
       "company": {
         "name": "Sierra Nevada Corporation",
@@ -195354,14 +195350,14 @@
       },
       "role": "Software Engineer Intern",
       "category": "software-engineering",
-      "apply_url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Folsom-CA/Software-Engineering-Intern--Summer-2027-_R0030761-1",
+      "apply_url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Southern-Pines-NC/Software-Engineering-Intern--Summer-2027-_R0030759",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
       "locations": [
         {
-          "city": "Folsom",
-          "state": "CA",
+          "city": "Southern Pines",
+          "state": "NC",
           "country": "USA"
         }
       ],
@@ -196564,6 +196560,61 @@
     },
     {
       "schema_version": "1.0",
+      "id": "smith-nephew-data-science-intern-ai-center-of-excellence-2027",
+      "company": {
+        "name": "Smith+Nephew",
+        "slug": "smith-nephew"
+      },
+      "role": "Data Science Intern - AI Center of Excellence",
+      "category": "ai",
+      "apply_url": "https://smithnephew.wd5.myworkdayjobs.com/External/job/US---Pittsburgh-PA/Intern-AI-Center-of-Excellence-Data-Science_R92480-1",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Pittsburgh",
+          "state": "PA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters",
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-17",
+        "discovered": "2026-09-17",
+        "last_verified": "2026-09-17"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "smith-nephew-operational-technology-intern-2026",
       "company": {
         "name": "Smith+Nephew",
@@ -196608,6 +196659,58 @@
         "last_verified": "2026-07-29"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "smith-nephew-robotics-software-engineer-intern-2027",
+      "company": {
+        "name": "Smith+Nephew",
+        "slug": "smith-nephew"
+      },
+      "role": "Robotics Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://smithnephew.wd5.myworkdayjobs.com/External/job/US---Pittsburgh-PA/Intern-Robotics-Software-Engineering_R92482",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Pittsburgh",
+          "state": "PA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-17",
+        "discovered": "2026-09-17",
+        "last_verified": "2026-09-17"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -203203,7 +203306,7 @@
         "discovered": "2026-09-05",
         "last_verified": "2026-09-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify",
@@ -203255,7 +203358,7 @@
         "discovered": "2026-09-05",
         "last_verified": "2026-09-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify",
@@ -203307,7 +203410,7 @@
         "discovered": "2026-09-05",
         "last_verified": "2026-09-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -203358,7 +203461,7 @@
         "discovered": "2026-09-05",
         "last_verified": "2026-09-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -203409,7 +203512,7 @@
         "discovered": "2026-09-05",
         "last_verified": "2026-09-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify",
@@ -203461,7 +203564,7 @@
         "discovered": "2026-09-05",
         "last_verified": "2026-09-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify",
@@ -207266,6 +207369,59 @@
       "dates": {
         "posted": "2026-09-08",
         "discovered": "2026-09-08",
+        "last_verified": "2026-09-17"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "td-bank-product-management-intern-co-op-2027",
+      "company": {
+        "name": "TD Bank",
+        "slug": "td-bank"
+      },
+      "role": "Product Management Intern Co-op",
+      "category": "product",
+      "apply_url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/L-H-Product-Management-Intern-Co-op--Winter-2027-_R_1506427",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Toronto",
+          "country": "ON"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-16",
+        "discovered": "2026-09-17",
         "last_verified": "2026-09-17"
       },
       "status": "open",
@@ -219483,6 +219639,57 @@
     },
     {
       "schema_version": "1.0",
+      "id": "thales-computer-science-intern-co-op-2027",
+      "company": {
+        "name": "Thales",
+        "slug": "thales"
+      },
+      "role": "Computer Science Intern Co-op",
+      "category": "software-engineering",
+      "apply_url": "https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Ottawa---Palladium/Computer-Science-Intern-or-Coop_R0338233",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Ottawa",
+          "country": "ON"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-17",
+        "discovered": "2026-09-17",
+        "last_verified": "2026-09-17"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "the-aerospace-corporation-aerospace-software-engineer-intern-2027",
       "company": {
         "name": "The Aerospace Corporation",
@@ -223974,6 +224181,63 @@
         "last_verified": "2026-09-01"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "the-walt-disney-company-show-control-software-intern-2027",
+      "company": {
+        "name": "The Walt Disney Company",
+        "slug": "the-walt-disney-company"
+      },
+      "role": "Show Control Software Intern",
+      "category": "software-engineering",
+      "apply_url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/WDI-Show-Control-Software-Internship--Spring-2027_10160946",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Lake Buena Vista",
+          "state": "FL",
+          "country": "USA"
+        },
+        {
+          "city": "Glendale",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-17",
+        "discovered": "2026-09-17",
+        "last_verified": "2026-09-17"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -247000,6 +247264,60 @@
     },
     {
       "schema_version": "1.0",
+      "id": "visa-associate-product-manager-intern-apm-2027",
+      "company": {
+        "name": "Visa",
+        "slug": "visa"
+      },
+      "role": "Associate Product Manager Intern - APM",
+      "category": "product",
+      "apply_url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Job-Posting-Title-Associate-Product-Manager--APM--Intern---Summer-2027_REF088604W",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Austin",
+          "state": "TX",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-17",
+        "discovered": "2026-09-17",
+        "last_verified": "2026-09-17"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "vital-lyfe-electrical-engineer-intern-2026",
       "company": {
         "name": "Vital Lyfe",
@@ -248827,6 +249145,10 @@
         {
           "city": "San Francisco",
           "country": "USA"
+        },
+        {
+          "city": "SF",
+          "country": "USA"
         }
       ],
       "compensation": {
@@ -248836,7 +249158,9 @@
       },
       "eligibility": {
         "graduation_years": [],
-        "degree_levels": [],
+        "degree_levels": [
+          "masters"
+        ],
         "citizenship_required": false,
         "security_clearance_required": false,
         "visa_sponsorship": "unknown"

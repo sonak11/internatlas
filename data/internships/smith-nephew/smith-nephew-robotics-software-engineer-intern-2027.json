@@ -1,20 +1,21 @@
 {
   "schema_version": "1.0",
-  "id": "goldman-sachs-summer-analyst-intern-americas-engineering-2027",
+  "id": "smith-nephew-robotics-software-engineer-intern-2027",
   "company": {
-    "name": "Goldman Sachs",
-    "slug": "goldman-sachs"
+    "name": "Smith+Nephew",
+    "slug": "smith-nephew"
   },
-  "role": "Summer Analyst Intern - Americas - Engineering",
+  "role": "Robotics Software Engineer Intern",
   "category": "software-engineering",
-  "apply_url": "https://higher.gs.com/roles/171567?type=students",
+  "apply_url": "https://smithnephew.wd5.myworkdayjobs.com/External/job/US---Pittsburgh-PA/Intern-Robotics-Software-Engineering_R92482",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Toronto",
-      "country": "ON"
+      "city": "Pittsburgh",
+      "state": "PA",
+      "country": "USA"
     }
   ],
   "compensation": {
@@ -39,11 +40,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-15",
-    "discovered": "2026-09-04",
+    "posted": "2026-09-17",
+    "discovered": "2026-09-17",
     "last_verified": "2026-09-17"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

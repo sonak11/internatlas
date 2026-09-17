@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🎨 Design Internships
 
-**119** tracked · **85** open now
+**119** tracked · **84** open now
 
 ## Current openings
 
@@ -72,7 +72,6 @@
 | [Qorvo](generated/companies/qorvo.md) | [Product Engineer Intern - Design and Applications](https://careers.qorvo.com/job/Richardson-Product-Engineer-D&A-Intern-TX-75081/1424806900/?ats=successfactors) | Richardson, TX | Onsite | 2026-08-31 | Rolling | 🟢 Open | ❔ |
 | [Qorvo](generated/companies/qorvo.md) | [Radio Frequency Integrated Circuit Design Intern - High Performance Analog](https://careers.qorvo.com/job/Chelmsford-RFIC-Design-Intern-MA-1824/1424704300/?ats=successfactors) | Chelmsford, MA | Onsite | 2026-08-31 | Rolling | 🟢 Open | ❔ |
 | [Qorvo](generated/companies/qorvo.md) | [RF/Analog IC Design Intern](https://careers.qorvo.com/job/Ft_-Lauderdale-RFAnalog-IC-Design-Intern-FL-33309/1421449000/?ats=successfactors) | Fort Lauderdale, FL | Onsite | 2026-08-31 | Rolling | 🟢 Open | ❔ |
-| [Qorvo](generated/companies/qorvo.md) | [RFIC Design Engineer Intern](https://careers.qorvo.com/job/Greensboro-RFIC-Design-Engineering-Intern-NC-27409/1421973800/?ats=successfactors) | Greensboro, NC | Onsite | 2026-08-31 | Rolling | 🟢 Open | ❔ |
 | [Qorvo](generated/companies/qorvo.md) | [RFIC Design Engineer Intern](https://careers.qorvo.com/job/Chelmsford-RFIC-Design-Engineer-Intern-MA-1824/1424704500/?ats=successfactors) | Chelmsford, MA | Onsite | 2026-08-31 | Rolling | 🟢 Open | ❔ |
 | [Qorvo](generated/companies/qorvo.md) | [RFIC Design Intern](https://careers.qorvo.com/job/San-Diego-RFIC-Design-Intern-CA-92121/1424705100/?ats=successfactors) | San Diego, CA | Onsite | 2026-08-31 | Rolling | 🟢 Open | ❔ |
 | [Qorvo](generated/companies/qorvo.md) | [RFIC Design Intern](https://careers.qorvo.com/job/Chelmsford-RFIC-Design-Intern-MA-1824/1424704100/?ats=successfactors) | Chelmsford, MA | Onsite | 2026-08-31 | Rolling | 🟢 Open | ❔ |
@@ -116,6 +115,7 @@
 | [Micron Technology](generated/companies/micron-technology.md) | [Digital IP Design Engineer Intern - DRAM](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Digital-IP-Design-Engineer--DRAM_JR108533) | Boise, ID | Onsite | 2026-08-13 | Rolling | 🔴 Closed | ❔ |
 | [Micron Technology](generated/companies/micron-technology.md) | [DRAM IP Circuits Design Engineer Intern - IP Development](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---DRAM-IP-Circuits-Design-Engineer_JR108471) | Boise, ID | Onsite | 2026-08-10 | Rolling | 🔴 Closed | ❔ |
 | [Nokia](generated/companies/nokia.md) | [Software Designer Co-op Intern - Intern](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39679) | Ottawa | Onsite | 2026-09-02 | Rolling | 🔴 Closed | ❔ |
+| [Qorvo](generated/companies/qorvo.md) | [RFIC Design Engineer Intern](https://careers.qorvo.com/job/Greensboro-RFIC-Design-Engineering-Intern-NC-27409/1421973800/?ats=successfactors) | Greensboro, NC | Onsite | 2026-08-31 | Rolling | 🔴 Closed | ❔ |
 | [Renesas Electronics](generated/companies/renesas-electronics.md) | [Digital Design Engineer Intern](https://jobs.smartrecruiters.com/RenesasElectronics/744000143930119) | Duluth, GA | Onsite | 2026-08-17 | Rolling | 🔴 Closed | ❔ |
 | [Rivian and Volkswagen Group Technologies](generated/companies/rivian-and-volkswagen-group-technologies.md) | [Electromechanical Design Engineer Intern](https://jobs.ashbyhq.com/rivianvw.tech/14734be2-9c81-4aab-bfa6-7dbbe95c94a6/application?embed=true) | Palo Alto, CA +2 | Onsite | 2026-06-11 | Rolling | 🔴 Closed | ❔ |
 | [RTX](generated/companies/rtx.md) | [Electrical Computer-Aided Design Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-M02--1151-E-Hermans-Rd--BLDG-M02/EAP-Engineering-ECAD-Intern--Summer-2027-_01866716-1) | Tucson, AZ | Onsite | 2026-08-14 | Rolling | 🔴 Closed | ❔ |

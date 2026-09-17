@@ -1,20 +1,25 @@
 {
   "schema_version": "1.0",
-  "id": "sierra-nevada-corporation-software-engineer-intern-2027-26fb6a",
+  "id": "the-walt-disney-company-show-control-software-intern-2027",
   "company": {
-    "name": "Sierra Nevada Corporation",
-    "slug": "sierra-nevada-corporation"
+    "name": "The Walt Disney Company",
+    "slug": "the-walt-disney-company"
   },
-  "role": "Software Engineer Intern",
+  "role": "Show Control Software Intern",
   "category": "software-engineering",
-  "apply_url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Southern-Pines-NC/Software-Engineering-Intern--Summer-2027-_R0030759",
-  "season": "summer",
+  "apply_url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/WDI-Show-Control-Software-Internship--Spring-2027_10160946",
+  "season": "winter",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Southern Pines",
-      "state": "NC",
+      "city": "Lake Buena Vista",
+      "state": "FL",
+      "country": "USA"
+    },
+    {
+      "city": "Glendale",
+      "state": "CA",
       "country": "USA"
     }
   ],
@@ -40,8 +45,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-03",
-    "discovered": "2026-09-04",
+    "posted": "2026-09-17",
+    "discovered": "2026-09-17",
     "last_verified": "2026-09-17"
   },
   "status": "open",

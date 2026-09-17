@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🧭 Product Internships
 
-**146** tracked · **111** open now
+**148** tracked · **112** open now
 
 ## Current openings
 
@@ -60,7 +60,6 @@
 | [GE Vernova](generated/companies/ge-vernova.md) | [Product Management Intern - Controls Lifecare Services](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Longmont/Product-Management-Intern---Controls-Lifecare-Services_R5050801-2) | Longmont, CO +1 | Onsite | 2026-08-30 | Rolling | 🟢 Open | ❔ |
 | [GE Vernova](generated/companies/ge-vernova.md) | [Product Management Intern - Controls Lifecare Services](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Longmont/Product-Management-Intern---Controls-Lifecare-Services_R5050801-1) | Longmont, CO +1 | Onsite | 2026-08-30 | Rolling | 🟢 Open | ❔ |
 | [Geotab](generated/companies/geotab.md) | [Product Management Intern](https://job-boards.greenhouse.io/internshiplist2000/jobs/5383920008) | Oakville | Onsite | 2026-09-02 | Rolling | 🟢 Open | ❔ |
-| [Goldman Sachs](generated/companies/goldman-sachs.md) | [AWM Product Management Analyst Intern](https://higher.gs.com/roles/171513?type=students) | Dallas, TX | Onsite | 2026-08-19 | Rolling | 🟢 Open | ❔ |
 | [Hudl](generated/companies/hudl.md) | [Product Management Intern](https://job-boards.greenhouse.io/hudl/jobs/8155103) | Lincoln, NE | Onsite | 2026-09-10 | Rolling | 🟢 Open | ❔ |
 | [Illinois Tool Works](generated/companies/illinois-tool-works.md) | [Product Management Intern](https://careers.itw.com/global/en/job/JR10112) | San Luis Obispo, CA | Onsite | 2026-09-16 | Rolling | 🟢 Open | ❔ |
 | [Illinois Tool Works](generated/companies/illinois-tool-works.md) | [Product Management Intern](https://careers.itw.com/global/en/job/JR10105) | Troy, OH | Onsite | 2026-09-15 | Rolling | 🟢 Open | ❔ |
@@ -89,6 +88,7 @@
 | [Springs Window Fashions](generated/companies/springs-window-fashions.md) | [Product Management Dashboard Analytics Intern](https://careers-springswindowfashions.icims.com/jobs/12882/job?mobile=true&needsRedirect=false) | Middleton, WI | Onsite | 2026-08-22 | Rolling | 🟢 Open | ❔ |
 | [Springs Window Fashions](generated/companies/springs-window-fashions.md) | [Product Management Intern](https://careers-springswindowfashions.icims.com/jobs/12892/job?mobile=true&needsRedirect=false) | Long Island City | Onsite | 2026-08-22 | Rolling | 🟢 Open | ❔ |
 | [Swift](generated/companies/swift.md) | [Standards Strategy & Product Management Intern](https://swift.wd3.myworkdayjobs.com/join-swift/job/London-United-Kingdom/Standards-Strategy---Product-Management-Intern_2026-16374) | London | Onsite | 2026-08-19 | Rolling | 🟢 Open | ❔ |
+| [TD Bank](generated/companies/td-bank.md) | [Product Management Intern Co-op](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/L-H-Product-Management-Intern-Co-op--Winter-2027-_R_1506427) | Toronto | Onsite | 2026-09-16 | Rolling | 🟢 Open | ❔ |
 | [TD Bank](generated/companies/td-bank.md) | [Product Management Intern/Co-op - Personal Savings & Investing](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Personal-Savings---Investing--PS-I--Product-Management-Intern-Co-op_R_1504373) | Toronto | Onsite | 2026-09-08 | Rolling | 🟢 Open | ❔ |
 | [Tesla](generated/companies/tesla.md) | [Commercial Charging Product Management Intern - Energy Engineering](https://www.tesla.com/careers/search/job/283156) | Palo Alto, CA | Onsite | 2026-09-11 | Rolling | 🟢 Open | ❔ |
 | [Tessera Labs](generated/companies/tessera-labs.md) | [Product Manager Intern](https://jobs.ashbyhq.com/tessera-labs/3b2d45b8-9881-41fe-b103-7bbc400e1544/application?embed=true) | San Jose, CA +1 | Onsite | 2026-06-08 | Rolling | 🟢 Open | ❔ |
@@ -119,6 +119,7 @@
 | [Vertiv](generated/companies/vertiv.md) | [Product Management Intern](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278958) | Delaware, OH | Onsite | 2026-08-12 | Rolling | 🟢 Open | ❌ |
 | [Vertiv](generated/companies/vertiv.md) | [Product Management Intern](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278933) | Westerville, OH | Onsite | 2026-08-10 | Rolling | 🟢 Open | ❌ |
 | [Vertiv](generated/companies/vertiv.md) | [Product Management Intern - MBA - Power Solutions & Distribution](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278959) | Delaware, OH | Onsite | 2026-08-12 | Rolling | 🟢 Open | ❔ |
+| [Visa](generated/companies/visa.md) | [Associate Product Manager Intern - APM](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Job-Posting-Title-Associate-Product-Manager--APM--Intern---Summer-2027_REF088604W) | Austin, TX | Onsite | 2026-09-17 | Rolling | 🟢 Open | ❔ |
 | [ABC News](generated/companies/abc-news.md) | [Product Management and Engineering Intern](https://jobs.disneycareers.com/job/new-york/abc-news-product-management-and-engineering-intern-summer-fall-2026/391/93958488896) | New York, NY | Onsite | 2026-04-20 | Rolling | 🔴 Closed | ❔ |
 | [Altasciences](generated/companies/altasciences.md) | [Process Innovation Product Management Intern](https://altasciences.wd1.myworkdayjobs.com/Careers/job/Laval-Quebec/Process-Innovation---Product-Management-Intern_R102753) | Laval +1 | Onsite | 2026-07-04 | Rolling | 🔴 Closed | ❔ |
 | [Centerfield](generated/companies/centerfield.md) | [Product Manager Intern](https://jobs.ashbyhq.com/centerfield/92a124aa-9efd-4dbd-90f1-6319be7706b2/application?embed=true) | LA | Onsite | 2026-06-12 | Rolling | 🔴 Closed | ❔ |
@@ -129,6 +130,7 @@
 | [GE Vernova](generated/companies/ge-vernova.md) | [GE Vernova Grid Automation Product Management Intern](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Rochester/GE-Vernova-Grid-Automation-Product-Management-Intern---Fall-2026_R5035460-3) | Rochester, NY | Onsite | 2026-04-07 | Rolling | 🔴 Closed | ❔ |
 | [Gemini](generated/companies/gemini.md) | [Product Management Intern](https://boards.greenhouse.io/embed/job_app?for=gemini&token=8041452&gh_jid=8041452) | NYC | Onsite | 2026-07-01 | Rolling | 🔴 Closed | ❔ |
 | [Geotab](generated/companies/geotab.md) | [Product Management Intern - Growth & Marketplace](https://job-boards.greenhouse.io/internshiplist2000/jobs/5291162008) | Oakville | Onsite | 2026-09-02 | Rolling | 🔴 Closed | ❔ |
+| [Goldman Sachs](generated/companies/goldman-sachs.md) | [AWM Product Management Analyst Intern](https://higher.gs.com/roles/171513?type=students) | Dallas, TX | Onsite | 2026-08-19 | Rolling | 🔴 Closed | ❔ |
 | [Goldman Sachs](generated/companies/goldman-sachs.md) | [Summer Analyst Intern - Americas - AWM Product Management](https://higher.gs.com/roles/182389?type=students) | NYC | Onsite | 2026-08-19 | Rolling | 🔴 Closed | ❔ |
 | [Goldman Sachs](generated/companies/goldman-sachs.md) | [Summer Analyst Intern - Wealth Management - Product Management and Design](https://higher.gs.com/roles/170935?type=students) | London | Onsite | 2026-08-15 | Rolling | 🔴 Closed | ❔ |
 | [JP Morgan Chase](generated/companies/jp-morgan-chase.md) | [Product Manager Intern - Chase Digital Development Programme](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210775305) | London | Onsite | 2026-09-01 | Rolling | 🔴 Closed | ❔ |
@@ -164,9 +166,9 @@
 - Coinbase (4)
 - Cox (4)
 - Tesla (4)
-- Goldman Sachs (3)
 - Qorvo (3)
 - Springs Window Fashions (3)
+- Goldman Sachs (3)
 - Appian (2)
 - Blackhawk Network Holdings (2)
 - BNY (2)
@@ -180,6 +182,7 @@
 - Oshkosh (2)
 - PricewaterhouseCoopers (PwC) (2)
 - Shure (2)
+- TD Bank (2)
 - USAA (2)
 - DTCC (2)
 - Salesforce (2)
@@ -207,7 +210,6 @@
 - Roblox (1)
 - ROCKWOOL Group (1)
 - Swift (1)
-- TD Bank (1)
 - Tessera Labs (1)
 - The Home Depot (1)
 - Trimble (1)
@@ -216,6 +218,7 @@
 - Ulta Beauty (1)
 - Upbring (1)
 - Vanguard (1)
+- Visa (1)
 - ABC News (1)
 - Altasciences (1)
 - Centerfield (1)

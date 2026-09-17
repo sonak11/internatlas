@@ -1,19 +1,19 @@
 {
   "schema_version": "1.0",
-  "id": "goldman-sachs-summer-analyst-intern-americas-engineering-2027",
+  "id": "thales-computer-science-intern-co-op-2027",
   "company": {
-    "name": "Goldman Sachs",
-    "slug": "goldman-sachs"
+    "name": "Thales",
+    "slug": "thales"
   },
-  "role": "Summer Analyst Intern - Americas - Engineering",
+  "role": "Computer Science Intern Co-op",
   "category": "software-engineering",
-  "apply_url": "https://higher.gs.com/roles/171567?type=students",
-  "season": "summer",
+  "apply_url": "https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Ottawa---Palladium/Computer-Science-Intern-or-Coop_R0338233",
+  "season": "winter",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Toronto",
+      "city": "Ottawa",
       "country": "ON"
     }
   ],
@@ -39,11 +39,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-15",
-    "discovered": "2026-09-04",
+    "posted": "2026-09-17",
+    "discovered": "2026-09-17",
     "last_verified": "2026-09-17"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

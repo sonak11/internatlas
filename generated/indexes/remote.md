@@ -30,6 +30,7 @@
 | [Microsoft](generated/companies/microsoft.md) | [Product Manager Intern](https://apply.careers.microsoft.com/careers/job/1970393556953113) | Remote | Remote | 2026-08-04 | Rolling | 🟢 Open | ❔ |
 | [Notion](generated/companies/notion.md) | [Data Science Intern (Winter 2027)](https://jobs.ashbyhq.com/notion/a67d6f2b-7c13-41d0-b36b-b2f662c9873e) | Remote | Remote | 2026-08-19 | Rolling | 🟢 Open | ❔ |
 | [Notion](generated/companies/notion.md) | [Software Engineer Intern (Winter 2027)](https://jobs.ashbyhq.com/notion/e66c6658-9e65-4c58-8db2-844628b6e8f8) | Remote | Remote | 2026-08-14 | Rolling | 🟢 Open | ❔ |
+| [Penta Group](generated/companies/penta-group.md) | [Monitoring & Insights Intern](https://jobs.lever.co/pentagrp/ec67c4f9-52b9-42b0-bf0b-e6f88c140951/apply) | Remote | Remote | 2026-08-25 | Rolling | 🟢 Open | ❔ |
 | [Realm](generated/companies/realm.md) | [Software Engineer Intern](https://jobs.ashbyhq.com/realmalliance/a8a2f78e-1c28-4b52-a77a-c2b2ad9b7a8a/application?embed=true) | Remote | Remote | 2026-08-26 | Rolling | 🟢 Open | ❔ |
 | [Shopify](generated/companies/shopify.md) | [Software Engineering Intern](https://www.shopify.com/careers/software-engineering-internships-winter-2027_404bb82e-37f3-4a78-b0f3-12923a7c4856?ashby_jid=404bb82e-37f3-4a78-b0f3-12923a7c4856) | Remote | Remote | 2026-08-06 | Rolling | 🟢 Open | ❌ |
 | [SpaceX](generated/companies/spacex.md) | [Software Engineer Intern, Fleet Health Instrumentation](https://job-boards.greenhouse.io/spacex/jobs/8621756002) | Remote | Remote | 2026-08-06 | Rolling | 🟢 Open | ❌ |
