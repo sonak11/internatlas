@@ -33,10 +33,10 @@ _Generated 2026-09-17_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 2820 | `███████████████` |
+| software-engineering | 2821 | `███████████████` |
 | ai | 377 | `██` |
 | quant | 292 | `██` |
-| machine-learning | 204 | `█` |
+| machine-learning | 206 | `█` |
 | hardware | 185 | `█` |
 | data-science | 173 | `█` |
 | product | 149 | `█` |
@@ -80,6 +80,7 @@ _Generated 2026-09-17_
 - Air Products — Information Technology/Digital Technology Intern - Infrastructure Services
 - Albedo — Electrical Engineer Intern
 - Allen Control Systems — Systems Engineering Intern
+- Amazon — Applied Science Intern - Multiple Teams
 - Amcor — Product Development Engineer Intern
 - AMD — Field Applications Engineer Intern - Masters
 - AMD — Research Engineer Intern/Co-op - AMD Research
@@ -151,6 +152,7 @@ _Generated 2026-09-17_
 - Brunswick — Computer Graphics Engineer Intern
 - Brunswick — Reinforcement Learning Intern - Boating Intelligence Design Lab
 - Brunswick — Software Engineer Intern - Boating Intelligence Design Lab
+- By Light Professional IT Services — AI Intern
 - ByteDance — Applied Machine Learning Production Engineer Intern - AML Production Engineer
 - ByteDance — Machine Learning Engineer Intern
 - ByteDance — Machine Learning Engineer Intern - AML-Engine-Orchestration
@@ -218,6 +220,7 @@ _Generated 2026-09-17_
 - Corning — Digital & IT Intern - Analyst - Machine Learning
 - Corning — Optical Fiber and Cable Engineer Intern - Summer 2027
 - Corning — Raw Material Engineering Intern - Summer 2027
+- Cotiviti — Generative AI Research Engineer Intern
 - Cox — Software Engineer Intern - Summer 2027
 - Crowe — AI Functional Intern - Consulting Practice
 - Crowe — D365 ERP Technical Intern - Consulting Practice
@@ -296,6 +299,7 @@ _Generated 2026-09-17_
 - Geotab — Data Scientist Intern
 - Geotab — DataOps Developer Intern - Months
 - Geotab — Hardware Developer Intern
+- Geotab — Insights & Integrations Consultancy Data Scientist Intern
 - Geotab — Product Management Intern - Growth & Marketplace
 - GlobalFoundries — RF Technology Development Automation Engineer Intern - Summer 2027
 - GlobalFoundries — Robotics and Automation Engineering Intern - Junior
@@ -629,6 +633,7 @@ _Generated 2026-09-17_
 - RTX — Systems Engineering Intern
 - RTX — Technical Publications Technical Developer Intern - Artificial Intelligence/Machine Learning
 - RTX — Work Transfer Analyst Intern - Global Work Transfer Analyst
+- Sabre Systems — AI Intern
 - SchoolMint — Marketing Technology & Analytics Intern
 - Schroders — Product Intern
 - Schroders — Product Strategy Intern

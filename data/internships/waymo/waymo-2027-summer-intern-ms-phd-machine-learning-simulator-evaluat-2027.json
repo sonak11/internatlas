@@ -1,20 +1,25 @@
 {
   "schema_version": "1.0",
-  "id": "by-light-professional-it-services-ai-intern-2026",
+  "id": "waymo-2027-summer-intern-ms-phd-machine-learning-simulator-evaluat-2027",
   "company": {
-    "name": "By Light Professional IT Services",
-    "slug": "by-light-professional-it-services"
+    "name": "Waymo",
+    "slug": "waymo",
+    "career_page": "https://waymo.com/careers"
   },
-  "role": "AI Intern",
-  "category": "ai",
-  "apply_url": "https://jobs-bylight.icims.com/jobs/11206/job?mobile=true&needsRedirect=false",
-  "season": "fall",
-  "year": 2026,
+  "role": "2027 Summer Intern, MS/PhD, Machine Learning, Simulator Evaluation",
+  "category": "machine-learning",
+  "apply_url": "https://careers.withwaymo.com/jobs?gh_jid=8202801",
+  "season": "summer",
+  "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Orlando",
-      "state": "FL",
+      "city": "Mountain View",
+      "country": "USA"
+    },
+    {
+      "city": "Mountain View",
+      "state": "CA",
       "country": "USA"
     }
   ],
@@ -26,7 +31,8 @@
   "eligibility": {
     "graduation_years": [],
     "degree_levels": [
-      "masters"
+      "masters",
+      "phd"
     ],
     "citizenship_required": false,
     "security_clearance_required": false,
@@ -42,13 +48,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-18",
-    "discovered": "2026-08-18",
+    "posted": "2026-09-16",
+    "discovered": "2026-09-17",
     "last_verified": "2026-09-17"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:ats"
   ]
 }
