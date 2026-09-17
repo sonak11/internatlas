@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # ⚙️ Embedded Internships
 
-**111** tracked · **82** open now
+**111** tracked · **83** open now
 
 ## Current openings
 
@@ -50,6 +50,7 @@
 | [Lunar Outpost](generated/companies/lunar-outpost.md) | [Embedded Software Engineer Intern - Summer 2027](https://lunaroutpost.bamboohr.com/careers/392/) | Golden, CO | Onsite | 2026-09-15 | Rolling | 🟢 Open | ❔ |
 | [Marvell](generated/companies/marvell.md) | [Firmware Engineer Intern](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Firmware-Engineer-Intern--MS---Summer-2027_2604513) | Santa Clara, CA | Onsite | 2026-09-04 | Rolling | 🟢 Open | ❔ |
 | [Marvell](generated/companies/marvell.md) | [Firmware Engineer Intern](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Firmware-Engineer-Intern--BS---Summer-2027_2604461) | Santa Clara, CA +1 | Onsite | 2026-09-04 | Rolling | 🟢 Open | ❔ |
+| [Moog](generated/companies/moog.md) | [Embedded Design Engineering Intern](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Blacksburg-VA/Intern--Embedded-Design-Engineering_R-26-20053) | Blacksburg, VA | Onsite | 2026-09-11 | Rolling | 🟢 Open | ❔ |
 | [Motorola](generated/companies/motorola.md) | [Embedded Software Intern](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Irvine-CA/Intern---Embedded-Software--System--and-Test-Engineer---2026_R62372) | Irvine, CA | Onsite | 2026-07-04 | Rolling | 🟢 Open | ❔ |
 | [Neuralink](generated/companies/neuralink.md) | [Electrical Engineer Intern - Implant Embedded Systems](https://boards.greenhouse.io/neuralink/jobs/7702527003) | Austin, TX +1 | Onsite | 2026-04-16 | Rolling | 🟢 Open | ❔ |
 | [Neuralink](generated/companies/neuralink.md) | [Electrical Engineer Intern, Implant Embedded Systems](https://boards.greenhouse.io/neuralink/jobs/7702527003?gh_jid=7702527003) | Austin | Onsite | 2026-04-15 | Rolling | 🟢 Open | ❔ |
@@ -100,7 +101,6 @@
 | [Inogen](generated/companies/inogen.md) | [Firmware Engineer Intern](https://jobs.jobvite.com/inogen/job/om2zAfwh?nl=1&nl=1&fr=false) | Plano, TX | Onsite | 2026-08-04 | Rolling | 🔴 Closed | ❔ |
 | [Microchip Technology](generated/companies/microchip-technology.md) | [Engineering Intern - Firmware Development](https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/TX---Houston---Compaq-Center-Dr/Intern-Engineering--Firmware-Development-_R3372-26) | Houston, TX | Onsite | 2026-08-03 | Rolling | 🔴 Closed | ❔ |
 | [Midmark](generated/companies/midmark.md) | [Firmware Engineering Intern/Co-op](https://hcor.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4333) | Vandalia, OH | Onsite | 2026-02-05 | Rolling | 🔴 Closed | ❔ |
-| [Moog](generated/companies/moog.md) | [Embedded Design Engineering Intern](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Blacksburg-VA/Intern--Embedded-Design-Engineering_R-26-20053) | Blacksburg, VA | Onsite | 2026-09-11 | Rolling | 🔴 Closed | ❔ |
 | [Nokia](generated/companies/nokia.md) | [Embedded C/C++ Software Developer Co-op/Intern](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/35268) | Ottawa | Onsite | 2026-05-20 | Rolling | 🔴 Closed | ❔ |
 | [Persistent Systems](generated/companies/persistent-systems.md) | [Embedded Software Engineer Intern](https://careers-persistentsystems.icims.com/jobs/2272/job?mobile=true&needsRedirect=false) | NYC | Onsite | 2026-06-22 | Rolling | 🔴 Closed | ❔ |
 | [Redwood Materials](generated/companies/redwood-materials.md) | [Embedded Software Engineer Intern](https://boards.greenhouse.io/redwoodmaterials/jobs/6126784004) | SF | Onsite | 2026-07-29 | Rolling | 🔴 Closed | ❔ |
@@ -156,6 +156,7 @@
 - Kepler Communications (1)
 - Lexington Medical (1)
 - Lunar Outpost (1)
+- Moog (1)
 - Motorola (1)
 - Northwood Space (1)
 - Odys Aviation (1)
@@ -178,7 +179,6 @@
 - Inogen (1)
 - Microchip Technology (1)
 - Midmark (1)
-- Moog (1)
 - Persistent Systems (1)
 - Redwood Materials (1)
 - Rivian (1)

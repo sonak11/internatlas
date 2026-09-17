@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🤖 AI Internships
 
-**377** tracked · **241** open now
+**381** tracked · **245** open now
 
 ## Current openings
 
@@ -102,6 +102,7 @@
 | [Ernst & Young](generated/companies/ernst-young.md) | [Artificial Intelligence Intern - Tax - Tax Technology and Transformation](https://eyglobal.yello.co/jobs/LGUG7W08QqkVXWnuqFB0TA?job_board_id=c1riT--B2O-KySgYWsZO1Q) | Dallas, TX +1 | Onsite | 2026-09-04 | Rolling | 🟢 Open | ❔ |
 | [Eulerity](generated/companies/eulerity.md) | [Digital Marketing Intern - Technical AI & Automation](https://job-boards.greenhouse.io/eulerity/jobs/4708258006) | NYC | Onsite | 2026-08-25 | Rolling | 🟢 Open | ❔ |
 | [Excellus BCBS](generated/companies/excellus-bcbs.md) | [College Intern - AI Engineering](https://lthc.wd1.myworkdayjobs.com/en-US/ExcellusBCBSCareers/job/Rochester/College-Intern---AI-Engineering---Fall-2026--Multiple-Openings-_JR103879-2) | Rochester, NY +4 | Onsite | 2026-08-20 | Rolling | 🟢 Open | ❔ |
+| [Fidelity National Information Services](generated/companies/fidelity-national-information-services.md) | [Data Analytics and AI Intern - FIS University Program](https://fis.wd5.myworkdayjobs.com/searchjobs/job/US-FL-JAX-347/Intern--Data-Analytics-and-AI--FIS-University-Program_JR0309690) | Milwaukee, WI +2 | Onsite | 2026-09-17 | Rolling | 🟢 Open | ❔ |
 | [First National Bank](generated/companies/first-national-bank.md) | [AI and Innovation Intern](https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Pittsburgh-PA/Summer-2027-AI-and-Innovation-Intern---Pittsburgh--PA_2026-01811) | Pittsburgh, PA | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
 | [Formlabs](generated/companies/formlabs.md) | [AI Software Intern](https://careers.formlabs.com/job/8174874/apply/?gh_jid=8174874) | Somerville, MA | Onsite | 2026-09-08 | Rolling | 🟢 Open | ❔ |
 | [GE Aerospace](generated/companies/ge-aerospace.md) | [Applied AI Intern](https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Evendale/Applied-AI-Engineer-Intern---Summer-2027--May-June-Start-_R5039302-1) | Evendale, OH +1 | Onsite | 2026-08-31 | Rolling | 🟢 Open | ❔ |
@@ -127,6 +128,7 @@
 | [Jump Trading](generated/companies/jump-trading.md) | [Campus AI Research Engineer – Research Automation (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8052351) | Chicago | Onsite | 2026-07-08 | Rolling | 🟢 Open | ❔ |
 | [Jump Trading](generated/companies/jump-trading.md) | [Campus AI Researcher Intern](https://boards.greenhouse.io/embed/job_app?token=7976964) | London | Onsite | 2026-07-13 | Rolling | 🟢 Open | ❔ |
 | [Jump Trading](generated/companies/jump-trading.md) | [Campus AI Researcher, PhD/Postdoc (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7976964) | London | Onsite | 2026-07-13 | Rolling | 🟢 Open | ❔ |
+| [Kinaxis](generated/companies/kinaxis.md) | [AI Quality Co-op Intern - Evaluation & Security](https://careers-kinaxis.icims.com/jobs/35378/job?mobile=true&needsRedirect=false) | Ottawa | Onsite | 2026-09-17 | Rolling | 🟢 Open | ❔ |
 | [Kinaxis](generated/companies/kinaxis.md) | [Developer Intern - AI Solutions](https://careers-kinaxis.icims.com/jobs/35343/job?mobile=true&needsRedirect=false) | Ottawa | Onsite | 2026-09-09 | Rolling | 🟢 Open | ❔ |
 | [Live Oak Bank](generated/companies/live-oak-bank.md) | [Artificial Intelligence Enablement & Forward-Deployed Engineering Intern](https://liveoakbancshares.wd1.myworkdayjobs.com/en-US/Live_Oak/job/Wilmington-NC/Summer-2027-Intern--AI-Enablement---Forward-Deployed-Engineering_R-002624) | Wilmington, NC | Onsite | 2026-09-16 | Rolling | 🟢 Open | ❔ |
 | [Luminance](generated/companies/luminance.md) | [AI Engineering Intern](https://apply.workable.com/luminance-1/j/E045EF5A7A/apply) | Cambridge | Onsite | 2026-08-07 | Rolling | 🟢 Open | ❔ |
@@ -163,6 +165,7 @@
 | [PSP Investments](generated/companies/psp-investments.md) | [AI Solutions Intern - External Manager Selection & Monitoring](https://investpsp.wd3.myworkdayjobs.com/psp_careers/job/Montreal/Intern--AI-Solutions-for-External-Manager-Selection---Monitoring--May---August-2027-_R4933) | Montreal | Onsite | 2026-08-10 | Rolling | 🟢 Open | ❔ |
 | [Qualcomm](generated/companies/qualcomm.md) | [Sensors Subsystem Engineering Intern - Low-Power AI - Audio](https://qualcomm.eightfold.ai/careers/job/446721109229) | Markham | Onsite | 2026-09-15 | Rolling | 🟢 Open | ❔ |
 | [Qualified Health](generated/companies/qualified-health.md) | [Clinical AI Evaluation Intern](https://jobs.ashbyhq.com/qualified-health-pbc/6cae1651-ea0d-4779-bf8c-778be1ac8789/application?embed=true) | Palo Alto, CA | Onsite | 2026-08-29 | Rolling | 🟢 Open | ❔ |
+| [Robert Bosch Venture Capital](generated/companies/robert-bosch-venture-capital.md) | [AI Engineering Intern](https://jobs.smartrecruiters.com/BoschGroup/744000150217869) | Plymouth, MI | Onsite | 2026-09-17 | Rolling | 🟢 Open | ❔ |
 | [Robert Bosch Venture Capital](generated/companies/robert-bosch-venture-capital.md) | [Product Management AI-Tool Intern - 8 months/40hrs per week](https://jobs.smartrecruiters.com/BoschGroup/744000148575999) | Farmington Hills, MI | Onsite | 2026-09-09 | Rolling | 🟢 Open | ❔ |
 | [Royal Bank of Canada](generated/companies/royal-bank-of-canada.md) | [AI & Stress Testing Analytics Intern - Group Risk Management](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--AI---Stress-Testing-Analytics-Intern--4-Months-_R-0000185790) | Toronto | Onsite | 2026-08-27 | Rolling | 🟢 Open | ❔ |
 | [Royal Bank of Canada](generated/companies/royal-bank-of-canada.md) | [AI and Stress Testing Analytics Intern - Group Risk Management](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--AI---Stress-Testing-Analytics-Intern--4-Months-_R-0000185790-1) | Toronto | Onsite | 2026-08-27 | Rolling | 🟢 Open | ❔ |
@@ -174,6 +177,7 @@
 | [Royal Bank of Canada](generated/companies/royal-bank-of-canada.md) | [Portfolio Risk Data & AI Analyst Intern - Group Risk Management](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--Portfolio-Risk-Data---AI-Analyst-Intern--4-Months-_R-0000185116-2) | Toronto | Onsite | 2026-08-20 | Rolling | 🟢 Open | ❔ |
 | [Royal Bank of Canada](generated/companies/royal-bank-of-canada.md) | [Portfolio Risk Data & AI Analyst Intern - Group Risk Management](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--Portfolio-Risk-Data---AI-Analyst-Intern--4-Months-_R-0000185116) | Toronto | Onsite | 2026-08-20 | Rolling | 🟢 Open | ❔ |
 | [RTX](generated/companies/rtx.md) | [Advanced Analytics Products & Change Management Intern - Advanced Analytics AI Evolution Project](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Analyste-systmes-d-affaires-et-transformation---Internship---Winter-2027---Analyst-Business-Systems-and-Transformation_01869327) | Longueuil | Onsite | 2026-09-03 | Rolling | 🟢 Open | ❔ |
+| [Scale AI](generated/companies/scale-ai.md) | [Software Engineering Intern (Summer 2027)](https://job-boards.greenhouse.io/scaleai/jobs/4730846005) | London, UK | Onsite | 2026-09-14 | Rolling | 🟢 Open | ❔ |
 | [Scale AI](generated/companies/scale-ai.md) | [Software Engineering Intern (Summer 2027)](https://job-boards.greenhouse.io/scaleai/jobs/4730834005) | Doha | Onsite | 2026-09-14 | Rolling | 🟢 Open | ❔ |
 | [Shure](generated/companies/shure.md) | [Artificial Intelligence Engineer Intern](https://careersus-shure.icims.com/jobs/4966/job?mobile=true&needsRedirect=false) | Niles, IL | Onsite | 2026-09-03 | Rolling | 🟢 Open | ❔ |
 | [Shure](generated/companies/shure.md) | [Artificial Intelligence Specialist Intern - Operations](https://careersus-shure.icims.com/jobs/5029/job?mobile=true&needsRedirect=false) | Niles, IL | Onsite | 2026-09-03 | Rolling | 🟢 Open | ❔ |
@@ -398,6 +402,7 @@
 - PricewaterhouseCoopers (PwC) (5)
 - Booz Allen (4)
 - Meta (4)
+- Scale AI (4)
 - The Hartford (4)
 - Veeam Software (4)
 - Wex (4)
@@ -414,7 +419,6 @@
 - JP Morgan Chase (3)
 - National Information Solutions Cooperative (3)
 - NVIDIA (3)
-- Scale AI (3)
 - The Nuclear Company (3)
 - Xcel Energy (3)
 - Intel (3)
@@ -427,11 +431,13 @@
 - Equitable Bank (2)
 - Formlabs (2)
 - Intuit (2)
+- Kinaxis (2)
 - Micron Technology (2)
 - Millennium (2)
 - Navy Federal (2)
 - onsemi (2)
 - OpusClip (2)
+- Robert Bosch Venture Capital (2)
 - Shure (2)
 - ShyftLabs (2)
 - Tenstorrent (2)
@@ -485,6 +491,7 @@
 - Ernst & Young (1)
 - Eulerity (1)
 - Excellus BCBS (1)
+- Fidelity National Information Services (1)
 - First National Bank (1)
 - GE Aerospace (1)
 - GenMD (1)
@@ -496,7 +503,6 @@
 - Huntington Bancshares (1)
 - Intelcom | Dragonfly (1)
 - Johns Hopkins Applied Physics Laboratory (1)
-- Kinaxis (1)
 - Live Oak Bank (1)
 - Luminance (1)
 - Manulife Financial (1)
@@ -518,7 +524,6 @@
 - PSP Investments (1)
 - Qualcomm (1)
 - Qualified Health (1)
-- Robert Bosch Venture Capital (1)
 - RTX (1)
 - SimIS (1)
 - Smith+Nephew (1)

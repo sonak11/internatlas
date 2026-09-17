@@ -2,10 +2,13 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # Akuna Capital
 
+[Careers page](https://akunacapital.com/careers)
+
 ## Current openings
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
+| Akuna Capital | [Accounting Intern (Term-Time, Part-Time)](https://www.akunacapital.com/careers/job/8109370/?gh_jid=8109370) | Chicago, IL | Onsite | 2026-09-17 | Rolling | 🟢 Open | ❔ |
 | Akuna Capital | [Hardware Engineer Intern](https://akunacapital.com/careers/job/8018880/?gh_jid=8018880) | Chicago, IL | Onsite | 2026-07-13 | Rolling | 🟢 Open | ❌ |
 | Akuna Capital | [Platform Engineer Intern](https://akunacapital.com/careers/job/8018856/?gh_jid=8018856) | Chicago, IL | Onsite | 2026-07-13 | Rolling | 🟢 Open | ❌ |
 | Akuna Capital | [Python Software Engineer Intern](https://akunacapital.com/careers/job/8018853/?gh_jid=8018853) | Chicago, IL | Onsite | 2026-07-13 | Rolling | 🟢 Open | ❌ |

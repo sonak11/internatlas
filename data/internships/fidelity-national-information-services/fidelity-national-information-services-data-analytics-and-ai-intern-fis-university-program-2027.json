@@ -1,0 +1,62 @@
+{
+  "schema_version": "1.0",
+  "id": "fidelity-national-information-services-data-analytics-and-ai-intern-fis-university-program-2027",
+  "company": {
+    "name": "Fidelity National Information Services",
+    "slug": "fidelity-national-information-services"
+  },
+  "role": "Data Analytics and AI Intern - FIS University Program",
+  "category": "ai",
+  "apply_url": "https://fis.wd5.myworkdayjobs.com/searchjobs/job/US-FL-JAX-347/Intern--Data-Analytics-and-AI--FIS-University-Program_JR0309690",
+  "season": "summer",
+  "year": 2027,
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "Milwaukee",
+      "state": "WI",
+      "country": "USA"
+    },
+    {
+      "city": "Jacksonville",
+      "state": "FL",
+      "country": "USA"
+    },
+    {
+      "city": "Atlanta",
+      "state": "GA",
+      "country": "USA"
+    }
+  ],
+  "compensation": {
+    "currency": "USD",
+    "housing_stipend": false,
+    "relocation_assistance": false
+  },
+  "eligibility": {
+    "graduation_years": [],
+    "degree_levels": [],
+    "citizenship_required": false,
+    "security_clearance_required": false,
+    "visa_sponsorship": "unknown"
+  },
+  "interview": {},
+  "tech": {
+    "required_skills": [],
+    "preferred_skills": [],
+    "languages": [],
+    "frameworks": [],
+    "cloud_platforms": [],
+    "resume_keywords": []
+  },
+  "dates": {
+    "posted": "2026-09-17",
+    "discovered": "2026-09-17",
+    "last_verified": "2026-09-17"
+  },
+  "status": "open",
+  "tags": [
+    "auto-ingested",
+    "src:simplify"
+  ]
+}

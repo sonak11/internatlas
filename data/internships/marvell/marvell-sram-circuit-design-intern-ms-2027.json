@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "appian-software-engineer-intern-2027",
+  "id": "marvell-sram-circuit-design-intern-ms-2027",
   "company": {
-    "name": "Appian",
-    "slug": "appian"
+    "name": "Marvell",
+    "slug": "marvell"
   },
-  "role": "Software Engineer Intern",
-  "category": "software-engineering",
-  "apply_url": "https://job-boards.greenhouse.io/appian/jobs/8041237",
+  "role": "SRAM Circuit Design Intern - MS",
+  "category": "design",
+  "apply_url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Burlington-VT/SRAM-Circuit-Design-Intern--MS---Summer-2027_2604083-1",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "McLean",
-      "state": "VA",
+      "city": "Burlington",
+      "state": "VT",
       "country": "USA"
     }
   ],
@@ -42,8 +42,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-23",
-    "discovered": "2026-07-24",
+    "posted": "2026-09-17",
+    "discovered": "2026-09-17",
     "last_verified": "2026-09-17"
   },
   "status": "open",

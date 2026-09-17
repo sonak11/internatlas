@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🎨 Design Internships
 
-**119** tracked · **84** open now
+**123** tracked · **88** open now
 
 ## Current openings
 
@@ -36,6 +36,8 @@
 | [Marvell](generated/companies/marvell.md) | [Analog Design Intern - MS](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Analog-Design-Intern--MS---Summer-2027_2604510-1) | Santa Clara, CA +1 | Onsite | 2026-09-04 | Rolling | 🟢 Open | ❔ |
 | [Marvell](generated/companies/marvell.md) | [Design for Test Intern](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Morrisville-NC/Design-for-Test-Intern--BS---Summer-2027_2604511-1) | Morrisville, NC +3 | Onsite | 2026-09-04 | Rolling | 🟢 Open | ❔ |
 | [Marvell](generated/companies/marvell.md) | [Design for Test Intern](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Morrisville-NC/Design-for-Test-Intern--BS---Summer-2027_2604511) | Morrisville, NC +3 | Onsite | 2026-09-04 | Rolling | 🟢 Open | ❔ |
+| [Marvell](generated/companies/marvell.md) | [Design for Test Intern - MS](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Design-For-Test-Intern--MS---Summer-2027_2603788) | Santa Clara, CA | Onsite | 2026-09-17 | Rolling | 🟢 Open | ❔ |
+| [Marvell](generated/companies/marvell.md) | [Design for Test Intern - MS](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Design-For-Test-Intern--MS---Summer-2027_2603788-1) | Santa Clara, CA | Onsite | 2026-09-17 | Rolling | 🟢 Open | ❔ |
 | [Marvell](generated/companies/marvell.md) | [Design Verification Intern - BS](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Design-Verification-Intern--BS---Summer-2027_2604505-1) | Morrisville, NC +4 | Onsite | 2026-09-04 | Rolling | 🟢 Open | ❔ |
 | [Marvell](generated/companies/marvell.md) | [Design Verification Intern - BS - Summer 2027](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Design-Verification-Intern--BS---Summer-2027_2604505) | Morrisville, NC +4 | Onsite | 2026-09-04 | Rolling | 🟢 Open | ❔ |
 | [Marvell](generated/companies/marvell.md) | [Design Verification Intern - MS](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Design-Verification-Intern--MS---Summer-2027_2604506) | Morrisville, NC +4 | Onsite | 2026-09-04 | Rolling | 🟢 Open | ❔ |
@@ -45,6 +47,8 @@
 | [Marvell](generated/companies/marvell.md) | [Physical Design Engineer Intern - BS](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Physical-Design-Engineer-Intern--BS---Summer-2027_2604517-1) | Morrisville, NC +6 | Onsite | 2026-09-04 | Rolling | 🟢 Open | ❔ |
 | [Marvell](generated/companies/marvell.md) | [Physical Design Engineer Intern - MS - Multiple Teams](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Physical-Design-Engineer-Intern--MS---Summer-2027_2604518) | Morrisville, NC +6 | Onsite | 2026-09-04 | Rolling | 🟢 Open | ❔ |
 | [Marvell](generated/companies/marvell.md) | [Physical Design Engineer Intern - MS - Multiple Teams](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Physical-Design-Engineer-Intern--MS---Summer-2027_2604518-1) | Morrisville, NC +6 | Onsite | 2026-09-04 | Rolling | 🟢 Open | ❔ |
+| [Marvell](generated/companies/marvell.md) | [SRAM Circuit Design Intern - MS](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Burlington-VT/SRAM-Circuit-Design-Intern--MS---Summer-2027_2604083) | Burlington, VT | Onsite | 2026-09-17 | Rolling | 🟢 Open | ❔ |
+| [Marvell](generated/companies/marvell.md) | [SRAM Circuit Design Intern - MS](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Burlington-VT/SRAM-Circuit-Design-Intern--MS---Summer-2027_2604083-1) | Burlington, VT | Onsite | 2026-09-17 | Rolling | 🟢 Open | ❔ |
 | [Microchip Technology](generated/companies/microchip-technology.md) | [Engineering Intern - MEMS Design](https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/MI---Detroit-Sales-Office/Intern-Engineering--MEMS-Design-_R3208-26) | Detroit, MI | Onsite | 2026-07-21 | Rolling | 🟢 Open | ❔ |
 | [Micron Technology](generated/companies/micron-technology.md) | [DRAM Design Engineer Intern](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---DRAM-Design-Engineer_JR108458) | Boise, ID | Onsite | 2026-08-17 | Rolling | 🟢 Open | ❔ |
 | [Micron Technology](generated/companies/micron-technology.md) | [DRAM Design Engineer Intern](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---DRAM-Design-Engineer_JR108468) | Boise, ID | Onsite | 2026-08-10 | Rolling | 🟢 Open | ❔ |
@@ -130,7 +134,7 @@
 
 ## Hiring companies
 
-- Marvell (16)
+- Marvell (20)
 - Tesla (14)
 - Qorvo (13)
 - NXP Semiconductors (8)

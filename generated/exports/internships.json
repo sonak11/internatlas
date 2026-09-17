@@ -1,6 +1,6 @@
 {
   "generated": "2026-09-17",
-  "count": 4744,
+  "count": 4773,
   "internships": [
     {
       "schema_version": "1.0",
@@ -207,7 +207,7 @@
         "discovered": "2026-09-05",
         "last_verified": "2026-09-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -259,7 +259,7 @@
         "discovered": "2026-09-08",
         "last_verified": "2026-09-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -1380,6 +1380,222 @@
       "dates": {
         "posted": "2026-09-15",
         "discovered": "2026-09-16",
+        "last_verified": "2026-09-17"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "acxiom-product-operations-intern-2027-119e72",
+      "company": {
+        "name": "Acxiom",
+        "slug": "acxiom"
+      },
+      "role": "Product Operations Intern",
+      "category": "software-engineering",
+      "apply_url": "https://acxiomllc.wd5.myworkdayjobs.com/AcxiomUSA/job/RemoteHomebased/Intern---Product-Operations_JR014480",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Conway",
+          "state": "AR",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-17",
+        "discovered": "2026-09-17",
+        "last_verified": "2026-09-17"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "acxiom-product-operations-intern-2027-2829c0",
+      "company": {
+        "name": "Acxiom",
+        "slug": "acxiom"
+      },
+      "role": "Product Operations Intern",
+      "category": "software-engineering",
+      "apply_url": "https://acxiomllc.wd5.myworkdayjobs.com/AcxiomUSA/job/RemoteHomebased/Intern---Product-Operations_JR014478",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Conway",
+          "state": "AR",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-17",
+        "discovered": "2026-09-17",
+        "last_verified": "2026-09-17"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "acxiom-product-operations-intern-2027-e4e280",
+      "company": {
+        "name": "Acxiom",
+        "slug": "acxiom"
+      },
+      "role": "Product Operations Intern",
+      "category": "software-engineering",
+      "apply_url": "https://acxiomllc.wd5.myworkdayjobs.com/AcxiomUSA/job/RemoteHomebased/Intern---Product-Operations_JR014479-1",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Conway",
+          "state": "AR",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-17",
+        "discovered": "2026-09-17",
+        "last_verified": "2026-09-17"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "acxiom-product-operations-intern-2027",
+      "company": {
+        "name": "Acxiom",
+        "slug": "acxiom"
+      },
+      "role": "Product Operations Intern",
+      "category": "software-engineering",
+      "apply_url": "https://acxiomllc.wd5.myworkdayjobs.com/AcxiomUSA/job/RemoteHomebased/Intern---Product-Operations_JR014477",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Conway",
+          "state": "AR",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-17",
+        "discovered": "2026-09-17",
         "last_verified": "2026-09-17"
       },
       "status": "open",
@@ -2686,6 +2902,59 @@
         "last_verified": "2026-07-30"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "akuna-capital-accounting-intern-term-time-part-time-2027",
+      "company": {
+        "name": "Akuna Capital",
+        "slug": "akuna-capital",
+        "career_page": "https://akunacapital.com/careers"
+      },
+      "role": "Accounting Intern (Term-Time, Part-Time)",
+      "category": "quant",
+      "apply_url": "https://www.akunacapital.com/careers/job/8109370/?gh_jid=8109370",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Chicago",
+          "state": "IL",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-17",
+        "discovered": "2026-09-17",
+        "last_verified": "2026-09-17"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:ats"
@@ -5090,7 +5359,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -18348,7 +18617,7 @@
         "discovered": "2026-08-17",
         "last_verified": "2026-09-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -18410,12 +18679,12 @@
     },
     {
       "schema_version": "1.0",
-      "id": "appian-software-engineer-intern-2027",
+      "id": "appian-software-engineering-intern-2027-172919",
       "company": {
         "name": "Appian",
         "slug": "appian"
       },
-      "role": "Software Engineer Intern",
+      "role": "Software Engineering Intern",
       "category": "software-engineering",
       "apply_url": "https://job-boards.greenhouse.io/appian/jobs/8041237",
       "season": "summer",
@@ -18435,12 +18704,10 @@
       },
       "eligibility": {
         "graduation_years": [],
-        "degree_levels": [
-          "masters"
-        ],
+        "degree_levels": [],
         "citizenship_required": false,
         "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
+        "visa_sponsorship": "no"
       },
       "interview": {},
       "tech": {
@@ -18452,14 +18719,14 @@
         "resume_keywords": []
       },
       "dates": {
-        "posted": "2026-07-23",
-        "discovered": "2026-07-24",
+        "posted": "2026-07-27",
+        "discovered": "2026-09-17",
         "last_verified": "2026-09-17"
       },
       "status": "open",
       "tags": [
         "auto-ingested",
-        "src:simplify"
+        "src:vanshb03"
       ]
     },
     {
@@ -36475,7 +36742,7 @@
         "discovered": "2026-09-05",
         "last_verified": "2026-09-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -66910,7 +67177,7 @@
         "discovered": "2026-09-15",
         "last_verified": "2026-09-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -78041,6 +78308,192 @@
     },
     {
       "schema_version": "1.0",
+      "id": "fidelity-national-information-services-data-analytics-and-ai-intern-fis-university-program-2027",
+      "company": {
+        "name": "Fidelity National Information Services",
+        "slug": "fidelity-national-information-services"
+      },
+      "role": "Data Analytics and AI Intern - FIS University Program",
+      "category": "ai",
+      "apply_url": "https://fis.wd5.myworkdayjobs.com/searchjobs/job/US-FL-JAX-347/Intern--Data-Analytics-and-AI--FIS-University-Program_JR0309690",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Milwaukee",
+          "state": "WI",
+          "country": "USA"
+        },
+        {
+          "city": "Jacksonville",
+          "state": "FL",
+          "country": "USA"
+        },
+        {
+          "city": "Atlanta",
+          "state": "GA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-17",
+        "discovered": "2026-09-17",
+        "last_verified": "2026-09-17"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "fidelity-national-information-services-product-management-intern-fis-university-program-2027",
+      "company": {
+        "name": "Fidelity National Information Services",
+        "slug": "fidelity-national-information-services"
+      },
+      "role": "Product Management Intern - FIS University Program",
+      "category": "product",
+      "apply_url": "https://fis.wd5.myworkdayjobs.com/searchjobs/job/US-FL-JAX-347/Intern--Product-Management--FIS-University-Program_JR0309691",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Milwaukee",
+          "state": "WI",
+          "country": "USA"
+        },
+        {
+          "city": "Jacksonville",
+          "state": "FL",
+          "country": "USA"
+        },
+        {
+          "city": "Atlanta",
+          "state": "GA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-17",
+        "discovered": "2026-09-17",
+        "last_verified": "2026-09-17"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "fidelity-national-information-services-software-engineer-intern-fis-university-program-2027",
+      "company": {
+        "name": "Fidelity National Information Services",
+        "slug": "fidelity-national-information-services"
+      },
+      "role": "Software Engineer Intern - FIS University Program",
+      "category": "software-engineering",
+      "apply_url": "https://fis.wd5.myworkdayjobs.com/searchjobs/job/US-FL-JAX-347/Intern--Software-Engineer--FIS-University-Program_JR0309512",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Milwaukee",
+          "state": "WI",
+          "country": "USA"
+        },
+        {
+          "city": "Jacksonville",
+          "state": "FL",
+          "country": "USA"
+        },
+        {
+          "city": "Atlanta",
+          "state": "GA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-17",
+        "discovered": "2026-09-17",
+        "last_verified": "2026-09-17"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "field-ai-robotics-controls-intern-robot-control-systems-2026",
       "company": {
         "name": "Field AI",
@@ -86488,6 +86941,65 @@
     },
     {
       "schema_version": "1.0",
+      "id": "generac-data-science-intern-summer-2027-2027",
+      "company": {
+        "name": "Generac",
+        "slug": "generac"
+      },
+      "role": "Data Science Intern - Summer 2027",
+      "category": "data-science",
+      "apply_url": "https://generac.wd5.myworkdayjobs.com/en-US/external/job/Waukesha-WI---USA/Data-Science-Intern---Summer-2027_JR17001",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Pewaukee",
+          "state": "WI",
+          "country": "USA"
+        },
+        {
+          "city": "Waukesha",
+          "state": "WI",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-17",
+        "discovered": "2026-09-17",
+        "last_verified": "2026-09-17"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "generac-engineering-intern-2026",
       "company": {
         "name": "Generac",
@@ -87617,7 +88129,7 @@
         "discovered": "2026-09-10",
         "last_verified": "2026-09-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -87730,7 +88242,7 @@
         "discovered": "2026-09-09",
         "last_verified": "2026-09-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -87782,7 +88294,7 @@
         "discovered": "2026-09-15",
         "last_verified": "2026-09-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -87834,7 +88346,7 @@
         "discovered": "2026-09-15",
         "last_verified": "2026-09-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -88002,7 +88514,7 @@
         "discovered": "2026-09-15",
         "last_verified": "2026-09-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -90143,7 +90655,7 @@
         "discovered": "2026-08-27",
         "last_verified": "2026-09-17"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -90195,7 +90707,7 @@
         "discovered": "2026-08-20",
         "last_verified": "2026-09-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -90248,7 +90760,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-09-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -90263,14 +90775,14 @@
       },
       "role": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
       "category": "quant",
-      "apply_url": "https://higher.gs.com/roles/175427?type=students",
+      "apply_url": "https://higher.gs.com/roles/171535?type=students",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
       "locations": [
         {
-          "city": "London",
-          "country": "UK"
+          "city": "NYC",
+          "country": "USA"
         }
       ],
       "compensation": {
@@ -90353,7 +90865,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -90405,7 +90917,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -90459,7 +90971,7 @@
         "discovered": "2026-09-16",
         "last_verified": "2026-09-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -90512,7 +91024,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -90527,14 +91039,15 @@
       },
       "role": "Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats",
       "category": "quant",
-      "apply_url": "https://higher.gs.com/roles/175421?type=students",
+      "apply_url": "https://higher.gs.com/roles/171549?type=students",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
       "locations": [
         {
-          "city": "London",
-          "country": "UK"
+          "city": "Salt Lake City",
+          "state": "UT",
+          "country": "USA"
         }
       ],
       "compensation": {
@@ -90616,7 +91129,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -90631,14 +91144,14 @@
       },
       "role": "Quantitative Strategist Intern - Multiple Teams",
       "category": "quant",
-      "apply_url": "https://higher.gs.com/roles/175424?type=students",
+      "apply_url": "https://higher.gs.com/roles/171563?type=students",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
       "locations": [
         {
-          "city": "London",
-          "country": "UK"
+          "city": "NYC",
+          "country": "USA"
         }
       ],
       "compensation": {
@@ -90719,7 +91232,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -90770,7 +91283,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -90874,7 +91387,7 @@
         "discovered": "2026-09-17",
         "last_verified": "2026-09-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -90926,7 +91439,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -90977,7 +91490,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -91030,7 +91543,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-17"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -91084,7 +91597,7 @@
         "discovered": "2026-09-06",
         "last_verified": "2026-09-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -91138,7 +91651,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -91153,13 +91666,13 @@
       },
       "role": "Summer Analyst Intern - Engineering",
       "category": "software-engineering",
-      "apply_url": "https://higher.gs.com/roles/170637?type=students",
+      "apply_url": "https://higher.gs.com/roles/170644?type=students",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
       "locations": [
         {
-          "city": "Birmingham",
+          "city": "London",
           "country": "UK"
         }
       ],
@@ -91245,7 +91758,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-09-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -91347,7 +91860,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -91449,7 +91962,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -91502,7 +92015,7 @@
         "discovered": "2026-08-29",
         "last_verified": "2026-09-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -91555,7 +92068,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-09-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -94627,6 +95140,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "gordon-food-service-data-engineering-intern-atlanta-tech-hub-data-engineering-2027",
+      "company": {
+        "name": "Gordon Food Service",
+        "slug": "gordon-food-service"
+      },
+      "role": "Data Engineering Intern - Atlanta Tech Hub - Data Engineering",
+      "category": "data-engineering",
+      "apply_url": "https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Atlanta-Georgia/Data-Engineering-Internship_R-57330",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Atlanta",
+          "state": "GA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-17",
+        "discovered": "2026-09-17",
+        "last_verified": "2026-09-17"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "gordon-food-service-data-science-engineer-intern-2027",
       "company": {
         "name": "Gordon Food Service",
@@ -94668,6 +95233,58 @@
       },
       "dates": {
         "posted": "2026-09-16",
+        "discovered": "2026-09-17",
+        "last_verified": "2026-09-17"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "gordon-food-service-digital-product-management-intern-2027",
+      "company": {
+        "name": "Gordon Food Service",
+        "slug": "gordon-food-service"
+      },
+      "role": "Digital Product Management Intern",
+      "category": "product",
+      "apply_url": "https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Wyoming-Michigan/Digital-Product-Management-Internship_R-57336",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Wyoming",
+          "state": "MI",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-17",
         "discovered": "2026-09-17",
         "last_verified": "2026-09-17"
       },
@@ -118057,6 +118674,57 @@
     },
     {
       "schema_version": "1.0",
+      "id": "kinaxis-ai-quality-co-op-intern-evaluation-security-2027",
+      "company": {
+        "name": "Kinaxis",
+        "slug": "kinaxis"
+      },
+      "role": "AI Quality Co-op Intern - Evaluation & Security",
+      "category": "ai",
+      "apply_url": "https://careers-kinaxis.icims.com/jobs/35378/job?mobile=true&needsRedirect=false",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Ottawa",
+          "country": "ON"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-17",
+        "discovered": "2026-09-17",
+        "last_verified": "2026-09-17"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "kinaxis-developer-intern-ai-solutions-2027",
       "company": {
         "name": "Kinaxis",
@@ -124662,6 +125330,160 @@
     },
     {
       "schema_version": "1.0",
+      "id": "lseg-engineering-intern-2027-9cf9fc",
+      "company": {
+        "name": "LSEG",
+        "slug": "lseg"
+      },
+      "role": "Engineering Intern",
+      "category": "software-engineering",
+      "apply_url": "https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/New-York-City-United-States/Engineering-Summer-Internship-Programme_R0123569-1",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "NYC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-17",
+        "discovered": "2026-09-17",
+        "last_verified": "2026-09-17"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "lseg-engineering-intern-2027-c90a7e",
+      "company": {
+        "name": "LSEG",
+        "slug": "lseg"
+      },
+      "role": "Engineering Intern",
+      "category": "software-engineering",
+      "apply_url": "https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/New-York-City-United-States/Engineering-Summer-Internship-Programme_R0123569",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "NYC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-17",
+        "discovered": "2026-09-17",
+        "last_verified": "2026-09-17"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "lseg-engineering-intern-2027",
+      "company": {
+        "name": "LSEG",
+        "slug": "lseg"
+      },
+      "role": "Engineering Intern",
+      "category": "software-engineering",
+      "apply_url": "https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Greater-Charlotte-Area-United-States/Engineering-Summer-Internship-Programme_R0123571-1",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Charlotte",
+          "state": "NC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-17",
+        "discovered": "2026-09-17",
+        "last_verified": "2026-09-17"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "lseg-engineering-intern-multiple-teams-2027-0f44cd",
       "company": {
         "name": "LSEG",
@@ -124703,9 +125525,9 @@
       "dates": {
         "posted": "2026-09-14",
         "discovered": "2026-09-14",
-        "last_verified": "2026-09-15"
+        "last_verified": "2026-09-17"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -124713,21 +125535,22 @@
     },
     {
       "schema_version": "1.0",
-      "id": "lseg-engineering-intern-multiple-teams-2027",
+      "id": "lseg-engineering-intern-multiple-teams-2027-ccca02",
       "company": {
         "name": "LSEG",
         "slug": "lseg"
       },
       "role": "Engineering Intern - Multiple Teams",
       "category": "software-engineering",
-      "apply_url": "https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/London-United-Kingdom/Engineering-Summer-Internship-Programme_R0123389-1",
+      "apply_url": "https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/Boston-Massachusetts/Engineering-Summer-Internship-Programme_R0123570-1",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
       "locations": [
         {
-          "city": "London",
-          "country": "UK"
+          "city": "Boston",
+          "state": "MA",
+          "country": "USA"
         }
       ],
       "compensation": {
@@ -124752,11 +125575,63 @@
         "resume_keywords": []
       },
       "dates": {
-        "posted": "2026-09-14",
-        "discovered": "2026-09-14",
-        "last_verified": "2026-09-15"
+        "posted": "2026-09-17",
+        "discovered": "2026-09-17",
+        "last_verified": "2026-09-17"
       },
-      "status": "closed",
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "lseg-engineering-intern-multiple-teams-2027",
+      "company": {
+        "name": "LSEG",
+        "slug": "lseg"
+      },
+      "role": "Engineering Intern - Multiple Teams",
+      "category": "software-engineering",
+      "apply_url": "https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Boston-Massachusetts/Engineering-Summer-Internship-Programme_R0123570-2",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Boston",
+          "state": "MA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-17",
+        "discovered": "2026-09-14",
+        "last_verified": "2026-09-17"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -126760,6 +127635,57 @@
     },
     {
       "schema_version": "1.0",
+      "id": "manulife-financial-software-engineering-intern-2027-94af41",
+      "company": {
+        "name": "Manulife Financial",
+        "slug": "manulife-financial"
+      },
+      "role": "Software Engineering Intern",
+      "category": "software-engineering",
+      "apply_url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Waterloo-Ontario/Summer-Intern-2027---Software-Engineering--12-Months-_JR26091053",
+      "season": "spring",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Waterloo",
+          "country": "ON"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-17",
+        "discovered": "2026-09-17",
+        "last_verified": "2026-09-17"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "manulife-financial-software-engineering-intern-2027-9720d8",
       "company": {
         "name": "Manulife Financial",
@@ -126907,7 +127833,7 @@
         "discovered": "2026-09-17",
         "last_verified": "2026-09-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -127381,7 +128307,7 @@
         "discovered": "2026-08-21",
         "last_verified": "2026-09-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -128762,6 +129688,114 @@
     },
     {
       "schema_version": "1.0",
+      "id": "marvell-design-for-test-intern-ms-2027-c774ae",
+      "company": {
+        "name": "Marvell",
+        "slug": "marvell"
+      },
+      "role": "Design for Test Intern - MS",
+      "category": "design",
+      "apply_url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Design-For-Test-Intern--MS---Summer-2027_2603788",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Santa Clara",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-17",
+        "discovered": "2026-09-17",
+        "last_verified": "2026-09-17"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "marvell-design-for-test-intern-ms-2027",
+      "company": {
+        "name": "Marvell",
+        "slug": "marvell"
+      },
+      "role": "Design for Test Intern - MS",
+      "category": "design",
+      "apply_url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Design-For-Test-Intern--MS---Summer-2027_2603788-1",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Santa Clara",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-17",
+        "discovered": "2026-09-17",
+        "last_verified": "2026-09-17"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "marvell-design-verification-engineer-intern-2026",
       "company": {
         "name": "Marvell",
@@ -130004,6 +131038,114 @@
       "dates": {
         "posted": "2026-06-13",
         "discovered": "2026-09-03",
+        "last_verified": "2026-09-17"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "marvell-sram-circuit-design-intern-ms-2027-37e964",
+      "company": {
+        "name": "Marvell",
+        "slug": "marvell"
+      },
+      "role": "SRAM Circuit Design Intern - MS",
+      "category": "design",
+      "apply_url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Burlington-VT/SRAM-Circuit-Design-Intern--MS---Summer-2027_2604083",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Burlington",
+          "state": "VT",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-17",
+        "discovered": "2026-09-17",
+        "last_verified": "2026-09-17"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "marvell-sram-circuit-design-intern-ms-2027",
+      "company": {
+        "name": "Marvell",
+        "slug": "marvell"
+      },
+      "role": "SRAM Circuit Design Intern - MS",
+      "category": "design",
+      "apply_url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Burlington-VT/SRAM-Circuit-Design-Intern--MS---Summer-2027_2604083-1",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Burlington",
+          "state": "VT",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-17",
+        "discovered": "2026-09-17",
         "last_verified": "2026-09-17"
       },
       "status": "open",
@@ -139284,9 +140426,9 @@
       "dates": {
         "posted": "2026-09-11",
         "discovered": "2026-09-11",
-        "last_verified": "2026-09-15"
+        "last_verified": "2026-09-17"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -150747,6 +151889,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "northwestern-mutual-investment-data-analytics-intern-2027",
+      "company": {
+        "name": "Northwestern Mutual",
+        "slug": "northwestern-mutual"
+      },
+      "role": "Investment Data & Analytics Intern",
+      "category": "software-engineering",
+      "apply_url": "https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Milwaukee-WI-Corporate/Investment-Data---Analytics-Intern--Summer-2027_JR-46050",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Milwaukee",
+          "state": "WI",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-17",
+        "discovered": "2026-09-17",
+        "last_verified": "2026-09-17"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "northwestern-mutual-investment-risk-management-intern-fall-2026-2026",
       "company": {
         "name": "Northwestern Mutual",
@@ -152206,6 +153400,70 @@
     },
     {
       "schema_version": "1.0",
+      "id": "nvidia-architecture-research-intern-architecture-2027-2027",
+      "company": {
+        "name": "NVIDIA",
+        "slug": "nvidia"
+      },
+      "role": "Architecture Research Intern - Architecture - 2027",
+      "category": "research",
+      "apply_url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Architecture---2027_JR2025395",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Seattle",
+          "state": "WA",
+          "country": "USA"
+        },
+        {
+          "city": "Santa Clara",
+          "state": "CA",
+          "country": "USA"
+        },
+        {
+          "city": "Westford",
+          "state": "MA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-17",
+        "discovered": "2026-09-17",
+        "last_verified": "2026-09-17"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "nvidia-autonomous-vehicles-and-robotics-intern-2027",
       "company": {
         "name": "NVIDIA",
@@ -153400,6 +154658,61 @@
       "tags": [
         "auto-ingested",
         "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "nvidia-phd-research-intern-generalist-embodied-agents-research-2027",
+      "company": {
+        "name": "NVIDIA",
+        "slug": "nvidia"
+      },
+      "role": "PhD Research Intern - Generalist Embodied Agents Research",
+      "category": "research",
+      "apply_url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Generalist-Embodied-Agents-Research---2027_JR2025103",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Santa Clara",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-17",
+        "discovered": "2026-09-17",
+        "last_verified": "2026-09-17"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify",
+        "remote-available"
       ]
     },
     {
@@ -178238,6 +179551,60 @@
     },
     {
       "schema_version": "1.0",
+      "id": "robert-bosch-venture-capital-ai-engineering-intern-2026",
+      "company": {
+        "name": "Robert Bosch Venture Capital",
+        "slug": "robert-bosch-venture-capital"
+      },
+      "role": "AI Engineering Intern",
+      "category": "ai",
+      "apply_url": "https://jobs.smartrecruiters.com/BoschGroup/744000150217869",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Plymouth",
+          "state": "MI",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-17",
+        "discovered": "2026-09-17",
+        "last_verified": "2026-09-17"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "robert-bosch-venture-capital-calibration-process-data-science-intern-8-months-40-hours-pe-2027",
       "company": {
         "name": "Robert Bosch Venture Capital",
@@ -180733,6 +182100,61 @@
       "dates": {
         "posted": "2026-09-10",
         "discovered": "2026-09-10",
+        "last_verified": "2026-09-17"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "rocket-lab-usa-systems-engineer-intern-2027",
+      "company": {
+        "name": "Rocket Lab USA",
+        "slug": "rocket-lab-usa"
+      },
+      "role": "Systems Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://job-boards.greenhouse.io/rocketlab/jobs/7990138003",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Pasadena",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters",
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-17",
+        "discovered": "2026-09-17",
         "last_verified": "2026-09-17"
       },
       "status": "open",
@@ -191911,62 +193333,6 @@
     },
     {
       "schema_version": "1.0",
-      "id": "scale-ai-software-engineer-intern-summer-2027-2027-4c5b46",
-      "company": {
-        "name": "Scale AI",
-        "slug": "scale-ai"
-      },
-      "role": "Software Engineer Intern - Summer 2027",
-      "category": "software-engineering",
-      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4730846005",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "London",
-          "country": "UK"
-        },
-        {
-          "city": "London",
-          "state": "UK",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-09-14",
-        "discovered": "2026-09-14",
-        "last_verified": "2026-09-17"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
       "id": "scale-ai-software-engineer-intern-summer-2027-2027",
       "company": {
         "name": "Scale AI",
@@ -192019,6 +193385,59 @@
       "tags": [
         "auto-ingested",
         "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "scale-ai-software-engineering-intern-summer-2027-2027-4c5b46",
+      "company": {
+        "name": "Scale AI",
+        "slug": "scale-ai",
+        "career_page": "https://scale.com/careers"
+      },
+      "role": "Software Engineering Intern (Summer 2027)",
+      "category": "ai",
+      "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4730846005",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "London",
+          "state": "UK",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-14",
+        "discovered": "2026-09-17",
+        "last_verified": "2026-09-17"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
       ]
     },
     {
@@ -221319,7 +222738,7 @@
         "discovered": "2026-08-05",
         "last_verified": "2026-09-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -221788,6 +223207,71 @@
       "dates": {
         "posted": "2026-08-26",
         "discovered": "2026-08-24",
+        "last_verified": "2026-09-17"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "the-hartford-data-science-intern-summer-2027-2027",
+      "company": {
+        "name": "The Hartford",
+        "slug": "the-hartford"
+      },
+      "role": "Data Science Intern - Summer 2027",
+      "category": "data-science",
+      "apply_url": "https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Data-Science-Intern---Summer-2027_R2627114",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Chicago",
+          "state": "IL",
+          "country": "USA"
+        },
+        {
+          "city": "Charlotte",
+          "state": "NC",
+          "country": "USA"
+        },
+        {
+          "city": "Hartford",
+          "state": "CT",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters",
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-17",
+        "discovered": "2026-09-17",
         "last_verified": "2026-09-17"
       },
       "status": "open",
@@ -236883,7 +238367,7 @@
         "discovered": "2026-09-10",
         "last_verified": "2026-09-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -236935,7 +238419,7 @@
         "discovered": "2026-09-10",
         "last_verified": "2026-09-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -248880,6 +250364,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "w-r-berkley-product-management-analyst-intern-claims-2027",
+      "company": {
+        "name": "W.R. Berkley",
+        "slug": "w-r-berkley"
+      },
+      "role": "Product Management Analyst Intern - Claims",
+      "category": "product",
+      "apply_url": "https://careers-berkley.icims.com/jobs/14439/job?mobile=true&needsRedirect=false",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Manassas",
+          "state": "VA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-17",
+        "discovered": "2026-09-17",
+        "last_verified": "2026-09-17"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "w-w-grainger-business-systems-analyst-intern-2027",
       "company": {
         "name": "W.W. Grainger",
@@ -258951,6 +260487,58 @@
         "last_verified": "2026-08-03"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "zurn-elkay-water-solutions-product-management-intern-2027",
+      "company": {
+        "name": "Zurn Elkay Water Solutions",
+        "slug": "zurn-elkay-water-solutions"
+      },
+      "role": "Product Management Intern",
+      "category": "product",
+      "apply_url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Paso-Robles-CA/Product-Management-Intern--Summer-2027-_REQ-020109",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Paso Robles",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-17",
+        "discovered": "2026-09-17",
+        "last_verified": "2026-09-17"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"

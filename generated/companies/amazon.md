@@ -10,7 +10,6 @@
 | Amazon | [Applied Science Intern - Automated Reasoning - PhD Student Science Recruiting](https://amazon.jobs/en/jobs/10394156/2026-fall-applied-science-internship-automated-reasoning-united-states-phd-student-science-recruiting) | Seattle, WA | Onsite | 2026-07-23 | Rolling | 🟢 Open | ❔ |
 | Amazon | [Applied Science Intern - PhD Student Science Recruiting](https://amazon.jobs/en/jobs/10394268/2026-fall-applied-science-internship-natural-language-processing-and-speech-technologies-united-states-phd-student-science-recruiting) | Seattle, WA | Onsite | 2026-04-16 | Rolling | 🟢 Open | ❔ |
 | Amazon | [Applied Science Intern - Reinforcement Learning & Optimization - Machine Learning](https://amazon.jobs/en/jobs/10394278/2026-fall-applied-science-internship-reinforcement-learning-optimization-machine-learning-united-states-phd-student-science-recruiting) | Palo Alto, CA +7 | Onsite | 2026-04-16 | Rolling | 🟢 Open | ❔ |
-| Amazon | [Applied Science Intern - Science Recruiting](https://amazon.jobs/en/jobs/10394248/fall-2026-applied-science-internship-canada-phd-student-science-recruiting) | Toronto +3 | Onsite | 2026-04-16 | Rolling | 🟢 Open | ❔ |
 | Amazon | [Machine Learning Systems Software Development Engineer Intern - Annapurna Labs](https://amazon.jobs/en/jobs/10538066/ml-systems-software-development-engineer-intern-annapurna-labs-2027) | Toronto | Onsite | 2026-09-11 | Rolling | 🟢 Open | ❔ |
 | Amazon | [Quantum Applied Science Intern - Center for Quantum Computing](https://amazon.jobs/en/jobs/10419240/2026-fall-quantum-applied-science-internship-center-for-quantum-computing) | Pasadena, CA +1 | Onsite | 2026-06-03 | Rolling | 🟢 Open | ❔ |
 | Amazon | [Robotics - Software Development Engineer Intern/Co-op](https://www.amazon.jobs/en/jobs/3136266/robotics-software-development-engineer-intern-co-op-2026?no_int_redir=1) | Sunnyvale, CA +7 | Onsite | 2026-05-09 | Rolling | 🟢 Open | ❔ |
@@ -19,6 +18,7 @@
 | Amazon | [Software Development Engineer Intern - Robotics](https://amazon.jobs/en/jobs/10529525/software-development-engineer-intern-robotics-2027) | Seattle, WA +6 | Onsite | 2026-09-04 | Rolling | 🟢 Open | ❔ |
 | Amazon | [Software Development Engineer Intern, AWS Data Services](https://www.amazon.jobs/en/jobs/10412530/software-development-engineer-intern-aws-data-services-fall-2026-us) | Seattle, WA | Onsite | 2026-05-09 | Rolling | 🟢 Open | ❔ |
 | Amazon | [Applied Science Intern - Multiple Teams](https://amazon.jobs/en/jobs/10394230/2026-fall-applied-science-internship-information-knowledge-management-machine-learning-united-states-phd-student-science-recruiting) | Palo Alto, CA +7 | Onsite | 2026-04-16 | Rolling | 🔴 Closed | ❔ |
+| Amazon | [Applied Science Intern - Science Recruiting](https://amazon.jobs/en/jobs/10394248/fall-2026-applied-science-internship-canada-phd-student-science-recruiting) | Toronto +3 | Onsite | 2026-04-16 | Rolling | 🔴 Closed | ❔ |
 | Amazon | [Software Development Engineer Internship - Fall 2026 - US](https://amazon.jobs/en/jobs/3116030/software-development-engineer-internship-fall-2026-us) | Seattle, WA | Onsite | 2026-05-15 | Rolling | 🔴 Closed | ❔ |
 
 ## Related

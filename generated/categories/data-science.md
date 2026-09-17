@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 📊 Data Science Internships
 
-**173** tracked · **141** open now
+**175** tracked · **143** open now
 
 ## Current openings
 
@@ -70,6 +70,7 @@
 | [First National Bank](generated/companies/first-national-bank.md) | [Data Science Intern](https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Pittsburgh-PA/Summer-2027-Data-Science-Intern---Pittsburgh--PA_2026-02016) | Pittsburgh, PA | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
 | [G-Research](generated/companies/g-research.md) | [Data Science Intern](https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Data-Science-Internship_R3679) | London | Onsite | 2026-07-23 | Rolling | 🟢 Open | ❔ |
 | [Gallup](generated/companies/gallup.md) | [Data Science Intern - Summer 2027](https://job-boards.greenhouse.io/gallup/jobs/4395491009) | SF | Onsite | 2026-09-09 | Rolling | 🟢 Open | ❔ |
+| [Generac](generated/companies/generac.md) | [Data Science Intern - Summer 2027](https://generac.wd5.myworkdayjobs.com/en-US/external/job/Waukesha-WI---USA/Data-Science-Intern---Summer-2027_JR17001) | Pewaukee, WI +1 | Onsite | 2026-09-17 | Rolling | 🟢 Open | ❔ |
 | [GM financial](generated/companies/gm-financial.md) | [Data Science Intern](https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260839) | Fort Worth, TX | Onsite | 2026-09-16 | Rolling | 🟢 Open | ❔ |
 | [Google](generated/companies/google.md) | [Business Data Scientist Intern](https://www.google.com/about/careers/applications/jobs/results/134577198026629830) | Palo Alto, CA +30 | Onsite | 2026-09-14 | Rolling | 🟢 Open | ❔ |
 | [Google](generated/companies/google.md) | [Data Science PhD Intern](https://www.google.com/about/careers/applications/jobs/results/73321728058499782) | London | Onsite | 2026-08-17 | Rolling | 🟢 Open | ❔ |
@@ -128,6 +129,7 @@
 | [Securian Financial Group](generated/companies/securian-financial-group.md) | [Data Science and Advanced Analytics Intern - Multiple Teams](https://hq.wd12.myworkdayjobs.com/Securian_External/job/Saint-Paul-MN-Campus/Data-Science-and-Advanced-Analytics-Internship---Summer-2027_R-010894) | St Paul, MN | Onsite | 2026-09-10 | Rolling | 🟢 Open | ❔ |
 | [State Farm](generated/companies/state-farm.md) | [Data Science Intern - Magnet Program - Online MS Analytics](https://jobs.statefarm.com/jobs/46057?icims=1) | Athens, GA | Onsite | 2026-09-10 | Rolling | 🟢 Open | ❔ |
 | [TD Bank](generated/companies/td-bank.md) | [Data Science Intern/Co-op](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Enterprise-Real-Estate-Intern-Co-op_R_1504711) | Toronto | Onsite | 2026-09-08 | Rolling | 🟢 Open | ❔ |
+| [The Hartford](generated/companies/the-hartford.md) | [Data Science Intern - Summer 2027](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Data-Science-Intern---Summer-2027_R2627114) | Chicago, IL +2 | Onsite | 2026-09-17 | Rolling | 🟢 Open | ❔ |
 | [The Home Depot](generated/companies/the-home-depot.md) | [Data Science & Analytics Intern](https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/XMLNAME-2027-Summer-Internship---Data-Science---Analytics_Req191968) | Atlanta, GA | Onsite | 2026-08-31 | Rolling | 🟢 Open | ❔ |
 | [The Home Depot](generated/companies/the-home-depot.md) | [Data Science Intern](https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/XMLNAME-2027-Summer-Internship---PhD-Data-Science_Req191948) | Atlanta, GA | Onsite | 2026-08-31 | Rolling | 🟢 Open | ❔ |
 | [The Nuclear Company](generated/companies/the-nuclear-company.md) | [Data Science Intern](https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383244008) | Washington, DC | Onsite | 2026-08-07 | Rolling | 🟢 Open | ❔ |
@@ -205,6 +207,7 @@
 - Coinbase (2)
 - DraftKings (2)
 - Edison International (2)
+- Generac (2)
 - Johns Hopkins Applied Physics Laboratory (2)
 - Nokia (2)
 - Notion (2)
@@ -269,6 +272,7 @@
 - Securian Financial Group (1)
 - State Farm (1)
 - TD Bank (1)
+- The Hartford (1)
 - URBN (1)
 - Waymo (1)
 - Wealthsimple (1)
@@ -277,7 +281,6 @@
 - Arevon (1)
 - Crum & Forster Insurance (1)
 - Enact Mortgage Insurance (1)
-- Generac (1)
 - Genworth Financial (1)
 - HireVue (1)
 - Honeywell (1)

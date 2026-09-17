@@ -7,14 +7,15 @@
   },
   "role": "Engineering Intern - Multiple Teams",
   "category": "software-engineering",
-  "apply_url": "https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/London-United-Kingdom/Engineering-Summer-Internship-Programme_R0123389-1",
+  "apply_url": "https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Boston-Massachusetts/Engineering-Summer-Internship-Programme_R0123570-2",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "London",
-      "country": "UK"
+      "city": "Boston",
+      "state": "MA",
+      "country": "USA"
     }
   ],
   "compensation": {
@@ -39,11 +40,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-14",
+    "posted": "2026-09-17",
     "discovered": "2026-09-14",
-    "last_verified": "2026-09-15"
+    "last_verified": "2026-09-17"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

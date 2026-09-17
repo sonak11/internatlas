@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🛠 Data Engineering Internships
 
-**86** tracked · **70** open now
+**87** tracked · **71** open now
 
 ## Current openings
 
@@ -37,6 +37,7 @@
 | [First National Bank](generated/companies/first-national-bank.md) | [Data Engineering Intern](https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Hermitage-PA/Summer-2027-Data-Engineering-Intern_2026-01713) | Pittsburgh, PA +1 | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
 | [First National Bank](generated/companies/first-national-bank.md) | [Data Engineering Intern](https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Hermitage-PA/Summer-2027-Data-Engineering-Intern_2026-01712) | Pittsburgh, PA +1 | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
 | [Gallup](generated/companies/gallup.md) | [Data Engineering Intern](https://job-boards.greenhouse.io/gallup/jobs/4395454009) | Omaha, NE | Onsite | 2026-09-09 | Rolling | 🟢 Open | ❔ |
+| [Gordon Food Service](generated/companies/gordon-food-service.md) | [Data Engineering Intern - Atlanta Tech Hub - Data Engineering](https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Atlanta-Georgia/Data-Engineering-Internship_R-57330) | Atlanta, GA | Onsite | 2026-09-17 | Rolling | 🟢 Open | ❔ |
 | [Guardian Life](generated/companies/guardian-life.md) | [Data Engineering Intern - Digital & Technology](https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/New-York/XMLNAME-2027-Guardian-Summer-Intern--Digital---Technology---Data-Engineering_R000110202) | Holmdel, NJ +2 | Onsite | 2026-09-14 | Rolling | 🟢 Open | ❔ |
 | [Hone Health](generated/companies/hone-health.md) | [Data Engineering Intern](https://job-boards.greenhouse.io/honehealth/jobs/5308958008) | Remote | Remote | 2026-07-08 | Rolling | 🟢 Open | ❔ |
 | [ibotta](generated/companies/ibotta.md) | [Data Engineer Intern](https://jobs.ashbyhq.com/ibotta/666cac72-9e06-46ee-aea0-576f766338b2/application?embed=true) | Denver, CO | Onsite | 2026-09-14 | Rolling | 🟢 Open | ❔ |
@@ -124,6 +125,7 @@
 - Edison International (1)
 - Ernst & Young (1)
 - Gallup (1)
+- Gordon Food Service (1)
 - Guardian Life (1)
 - Hone Health (1)
 - ibotta (1)

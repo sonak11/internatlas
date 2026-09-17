@@ -6,6 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
+| Generac | [Data Science Intern - Summer 2027](https://generac.wd5.myworkdayjobs.com/en-US/external/job/Waukesha-WI---USA/Data-Science-Intern---Summer-2027_JR17001) | Pewaukee, WI +1 | Onsite | 2026-09-17 | Rolling | 🟢 Open | ❔ |
 | Generac | [Data Science Intern](https://generac.wd5.myworkdayjobs.com/en-US/external/job/Toronto-Canada/Intern-Data_JR14262) | Toronto | Onsite | 2026-07-21 | Rolling | 🔴 Closed | ❔ |
 | Generac | [Engineering Intern](https://generac.wd5.myworkdayjobs.com/en-US/external/job/Toronto-Canada/Intern-Engineering_JR14267) | Toronto | Onsite | 2026-07-29 | Rolling | 🔴 Closed | ❔ |
 | Generac | [Firmware Engineering Intern](https://generac.wd5.myworkdayjobs.com/en-US/external/job/Reno-NV---USA/Intern-Firmware-Engineering_JR16149) | Reno, NV | Onsite | 2026-08-14 | Rolling | 🔴 Closed | ❔ |

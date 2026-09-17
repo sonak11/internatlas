@@ -1,24 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "scale-ai-software-engineer-intern-summer-2027-2027-4c5b46",
+  "id": "marvell-design-for-test-intern-ms-2027-c774ae",
   "company": {
-    "name": "Scale AI",
-    "slug": "scale-ai"
+    "name": "Marvell",
+    "slug": "marvell"
   },
-  "role": "Software Engineer Intern - Summer 2027",
-  "category": "software-engineering",
-  "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4730846005",
+  "role": "Design for Test Intern - MS",
+  "category": "design",
+  "apply_url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Design-For-Test-Intern--MS---Summer-2027_2603788",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "London",
-      "country": "UK"
-    },
-    {
-      "city": "London",
-      "state": "UK",
+      "city": "Santa Clara",
+      "state": "CA",
       "country": "USA"
     }
   ],
@@ -29,7 +25,9 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "masters"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -44,8 +42,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-14",
-    "discovered": "2026-09-14",
+    "posted": "2026-09-17",
+    "discovered": "2026-09-17",
     "last_verified": "2026-09-17"
   },
   "status": "open",
