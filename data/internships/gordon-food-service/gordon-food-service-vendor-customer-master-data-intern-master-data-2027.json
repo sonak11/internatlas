@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "tradeweb-c-distributed-systems-developer-intern-c-core-services-2027",
+  "id": "gordon-food-service-vendor-customer-master-data-intern-master-data-2027",
   "company": {
-    "name": "Tradeweb",
-    "slug": "tradeweb"
+    "name": "Gordon Food Service",
+    "slug": "gordon-food-service"
   },
-  "role": "C++ Distributed Systems Developer Intern - C++ Core Services",
+  "role": "Vendor & Customer Master Data Intern - Master Data",
   "category": "software-engineering",
-  "apply_url": "https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301903",
+  "apply_url": "https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Wyoming-Michigan/Vendor---Customer-Master-Data-Internship_R-57341",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Jersey City",
-      "state": "NJ",
+      "city": "Wyoming",
+      "state": "MI",
       "country": "USA"
     }
   ],
@@ -25,9 +25,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -42,11 +40,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-10",
-    "discovered": "2026-09-10",
+    "posted": "2026-09-17",
+    "discovered": "2026-09-18",
     "last_verified": "2026-09-18"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

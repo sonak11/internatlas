@@ -1,21 +1,25 @@
 {
   "schema_version": "1.0",
-  "id": "tradeweb-c-distributed-systems-developer-intern-c-core-services-2027",
+  "id": "amazon-software-development-engineer-intern-summer-2027",
   "company": {
-    "name": "Tradeweb",
-    "slug": "tradeweb"
+    "name": "Amazon",
+    "slug": "amazon"
   },
-  "role": "C++ Distributed Systems Developer Intern - C++ Core Services",
+  "role": "Software Development Engineer Intern - Summer",
   "category": "software-engineering",
-  "apply_url": "https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301903",
+  "apply_url": "https://amazon.jobs/en/jobs/10552937/software-development-engineer-internship-summer-2027-usa",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Jersey City",
-      "state": "NJ",
+      "city": "Seattle",
+      "state": "WA",
       "country": "USA"
+    },
+    {
+      "city": "Arlington County",
+      "country": "Arlington"
     }
   ],
   "compensation": {
@@ -25,9 +29,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -42,11 +44,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-10",
-    "discovered": "2026-09-10",
+    "posted": "2026-09-18",
+    "discovered": "2026-09-18",
     "last_verified": "2026-09-18"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

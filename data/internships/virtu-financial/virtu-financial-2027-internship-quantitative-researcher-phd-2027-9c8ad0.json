@@ -1,20 +1,24 @@
 {
   "schema_version": "1.0",
-  "id": "tradeweb-c-distributed-systems-developer-intern-c-core-services-2027",
+  "id": "virtu-financial-2027-internship-quantitative-researcher-phd-2027-9c8ad0",
   "company": {
-    "name": "Tradeweb",
-    "slug": "tradeweb"
+    "name": "Virtu Financial",
+    "slug": "virtu-financial",
+    "career_page": "https://www.virtu.com/careers"
   },
-  "role": "C++ Distributed Systems Developer Intern - C++ Core Services",
-  "category": "software-engineering",
-  "apply_url": "https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301903",
+  "role": "2027 Internship - Quantitative Researcher (PhD)",
+  "category": "quant",
+  "apply_url": "https://job-boards.greenhouse.io/virtu/jobs/8624424002",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Jersey City",
-      "state": "NJ",
+      "city": "New York",
+      "country": "USA"
+    },
+    {
+      "city": "NYC",
       "country": "USA"
     }
   ],
@@ -26,7 +30,7 @@
   "eligibility": {
     "graduation_years": [],
     "degree_levels": [
-      "masters"
+      "phd"
     ],
     "citizenship_required": false,
     "security_clearance_required": false,
@@ -42,13 +46,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-10",
-    "discovered": "2026-09-10",
+    "posted": "2026-07-22",
+    "discovered": "2026-09-18",
     "last_verified": "2026-09-18"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:ats"
   ]
 }

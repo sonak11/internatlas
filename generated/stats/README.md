@@ -8,9 +8,9 @@ _Generated 2026-09-18_
 
 | Company | Listings |
 |---|---|
-| Tesla | 179 |
-| TikTok | 167 |
-| RTX | 119 |
+| Tesla | 187 |
+| TikTok | 168 |
+| RTX | 120 |
 | American Express | 69 |
 | ByteDance | 69 |
 | AMD | 68 |
@@ -18,7 +18,7 @@ _Generated 2026-09-18_
 | Jump Trading | 49 |
 | Royal Bank of Canada | 48 |
 | L3Harris Technologies | 45 |
-| Marvell | 44 |
+| Marvell | 45 |
 | Booz Allen | 41 |
 | NVIDIA | 40 |
 | Bank of Montreal | 36 |
@@ -33,15 +33,15 @@ _Generated 2026-09-18_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 2859 | `███████████████` |
-| ai | 385 | `██` |
+| software-engineering | 2870 | `███████████████` |
+| ai | 387 | `██` |
 | quant | 296 | `██` |
-| machine-learning | 207 | `█` |
-| hardware | 187 | `█` |
+| machine-learning | 209 | `█` |
+| hardware | 189 | `█` |
 | data-science | 176 | `█` |
-| product | 153 | `█` |
+| product | 154 | `█` |
 | research | 150 | `█` |
-| design | 125 | `█` |
+| design | 126 | `█` |
 | embedded | 112 | `█` |
 | data-engineering | 87 | `█` |
 | cloud | 56 | `█` |
@@ -49,26 +49,26 @@ _Generated 2026-09-18_
 
 ## Newest listings
 
+- 2026-09-18 — **Amazon**: [Software Development Engineer Intern - Summer](https://amazon.jobs/en/jobs/10552937/software-development-engineer-internship-summer-2027-usa)
+- 2026-09-18 — **Microsoft**: [Electrical Engineer Intern - 6-Month Program](https://apply.careers.microsoft.com/careers/job/1970393556982262)
+- 2026-09-18 — **Microsoft**: [Silicon Engineering Intern - 6-month Program](https://apply.careers.microsoft.com/careers/job/1970393556982259)
+- 2026-09-18 — **Microsoft**: [Software Engineer Intern](https://apply.careers.microsoft.com/careers/job/1970393556982258)
+- 2026-09-18 — **Qualcomm**: [Low Power AI Software Development Intern - Interim Engineering Intern - Software](https://qualcomm.eightfold.ai/careers/job/446721143440)
+- 2026-09-18 — **Qualcomm**: [Silicon Validation Intern](https://qualcomm.eightfold.ai/careers/job/446721143274)
+- 2026-09-18 — **Tesla**: [Internship - Electrical Engineer - Power Electronics - Optimus - Winter/Spring 2027](https://www.tesla.com/careers/search/job/284009)
+- 2026-09-18 — **Tesla**: [Internship - Electronic Design Engineer - Optimus - Winter/Spring 2027](https://www.tesla.com/careers/search/job/284008)
+- 2026-09-18 — **Tesla**: [Internship - Software Engineering - People Products - Summer 2027](https://www.tesla.com/careers/search/job/284004)
+- 2026-09-18 — **Tesla**: [Internship - Software Engineering - People Products - Winter/Spring 2027](https://www.tesla.com/careers/search/job/284003)
+- 2026-09-18 — **Tesla**: [Internship - System Integration & Test Automation Engineer - Energy Engineering - Winter/Spring 2027](https://www.tesla.com/careers/search/job/284026)
+- 2026-09-18 — **Tesla**: [Product Manager Intern - Residential Energy Engineering](https://www.tesla.com/careers/search/job/283841)
+- 2026-09-18 — **Tesla**: [Site Controller Software Engineer Intern - Energy Engineering](https://www.tesla.com/careers/search/job/283956)
+- 2026-09-18 — **Tesla**: [Software Engineer Intern - Energy Engineering](https://www.tesla.com/careers/search/job/283950)
+- 2026-09-18 — **TikTok**: [Machine Learning Engineer Intern - E-Commerce Recommendation Mall](https://lifeattiktok.com/search/7686283601340369205)
+- 2026-09-18 — **TRC Companies**: [Software Engineer Intern](https://careers.trccompanies.com/jobs/26840?icims=1)
 - 2026-09-17 — **Abridge**: [Software Engineer Intern - Spring](https://jobs.ashbyhq.com/abridge/6569d8f7-bd0b-4bb0-a3af-37f83e19ec5e/application?embed=true)
 - 2026-09-17 — **Acxiom**: [Product Operations Intern](https://acxiomllc.wd5.myworkdayjobs.com/AcxiomUSA/job/RemoteHomebased/Intern---Product-Operations_JR014480)
 - 2026-09-17 — **Acxiom**: [Product Operations Intern](https://acxiomllc.wd5.myworkdayjobs.com/AcxiomUSA/job/RemoteHomebased/Intern---Product-Operations_JR014478)
 - 2026-09-17 — **Acxiom**: [Product Operations Intern](https://acxiomllc.wd5.myworkdayjobs.com/AcxiomUSA/job/RemoteHomebased/Intern---Product-Operations_JR014479-1)
-- 2026-09-17 — **Acxiom**: [Product Operations Intern](https://acxiomllc.wd5.myworkdayjobs.com/AcxiomUSA/job/RemoteHomebased/Intern---Product-Operations_JR014477)
-- 2026-09-17 — **Akuna Capital**: [Accounting Intern (Term-Time, Part-Time)](https://www.akunacapital.com/careers/job/8109370/?gh_jid=8109370)
-- 2026-09-17 — **Alayacare**: [Fullstack Developer Intern - Python](https://alayacare.com/open-positions?gh_jid=8811336002)
-- 2026-09-17 — **American Express**: [Marketing Analyst Intern - Undergraduate ICS](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013825)
-- 2026-09-17 — **Autodesk**: [Software Developer Intern](https://autodesk.wd1.myworkdayjobs.com/uni/job/Montreal-QC-CAN/Intern--Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD101114)
-- 2026-09-17 — **Autodesk**: [Software Developer Intern](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Intern--Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD101114-1)
-- 2026-09-17 — **Avis Budget Group**: [Data Analytics Intern](https://avisbudget.wd1.myworkdayjobs.com/abg_careers/job/379-Interpace-Pkwy-Parsippany-07054/Accelerate---Data-Analytics-Intern-Summer-2027_R0190389)
-- 2026-09-17 — **Avis Budget Group**: [IT Engineering Intern - Accelerate](https://avisbudget.wd1.myworkdayjobs.com/abg_careers/job/379-Interpace-Pkwy-Parsippany-07054/Accelerate---IT-Engineering-Intern-Summer-2027_R0190463)
-- 2026-09-17 — **Blue Cross and Blue Shield of Kansas**: [RPA Engineer Intern](https://bcbsks.wd1.myworkdayjobs.com/External/job/Topeka/RPA-Engineering-Developer-Intern_R2026350)
-- 2026-09-17 — **British Columbia Investment**: [AI and Automation Engineer Co-op Intern - Winter 2027 - Summer 2027](https://bci.wd10.myworkdayjobs.com/BCI_Careers/job/Victoria-BC/AI-and-Automation-Engineer-Co-op-Internship--Winter---Summer-2027-_JR101597-1)
-- 2026-09-17 — **British Columbia Investment**: [Investment Risk Analytics Solutions Co-op Intern - Winter 2027](https://bci.wd10.myworkdayjobs.com/BCI_Careers/job/Victoria-BC/Investment-Risk-Analytics-Solutions-Co-op-Internship--Winter-2027-_JR101608)
-- 2026-09-17 — **British Columbia Investment**: [Software Engineer Co-op Intern - Investment Tech/Data & Analytics](https://bci.wd10.myworkdayjobs.com/BCI_Careers/job/Victoria-BC/Investment-Tech-Data---Analytics----Software-Engineer-Co-op-Internship--Winter-2027-or-Winter---Summer-2027-_JR101596)
-- 2026-09-17 — **British Columbia Investment**: [Software Engineer Co-op Intern - Winter 2027](https://bci.wd10.myworkdayjobs.com/BCI_Careers/job/Vancouver-BC/Software-Engineer-Co-op-Internship--Winter-2027-_JR101590)
-- 2026-09-17 — **British Columbia Investment**: [Technology Solutions Engineer Co-op/Intern](https://bci.wd10.myworkdayjobs.com/BCI_Careers/job/Victoria-BC/Technology-Solutions-Engineer-Co-op-Internship--Winter-2027-_JR101601)
-- 2026-09-17 — **Cerity Partners**: [Risk Management Strategy Intern](https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/Louisville-KY/XMLNAME-2027-Summer-Risk-Management-Strategy-Analyst-Internship_R918-1)
-- 2026-09-17 — **Chemours**: [Data Visualization Analyst Intern](https://chemours.wd103.myworkdayjobs.com/Chemours/job/US---Remote/Data-Visualization-Analyst-Summer-Intern_JR15018)
 
 ## Recently closed
 
@@ -79,6 +79,7 @@ _Generated 2026-09-18_
 - Allen Control Systems — Systems Engineering Intern
 - Amazon — Applied Science Intern - Multiple Teams
 - Amazon — Applied Science Intern - Science Recruiting
+- Amazon — Quantum Applied Science Intern - Center for Quantum Computing
 - Amcor — Product Development Engineer Intern
 - AMD — Research Engineer Intern/Co-op - AMD Research
 - AMD — Research Engineering Intern/Co-op - AMD Research
@@ -192,6 +193,7 @@ _Generated 2026-09-18_
 - Freddie Mac — Capital Markets Intern - Summer 2027
 - Freddie Mac — Multifamily Digital Product Analysis Intern - Summer 2027
 - Frontier Health — Applied Scientist / Research Engineer Intern
+- FTI Consulting — Technology Intern - Technology
 - Fullbay — Software Engineer Intern
 - GE Vernova — Application Engineer Co-op/Intern - PCS
 - GE Vernova — Application Engineer Co-op/Intern - PCS
@@ -221,6 +223,7 @@ _Generated 2026-09-18_
 - Goldman Sachs — Summer Analyst Intern - Americas - Engineering
 - Goldman Sachs — Summer Analyst Intern - Americas - Engineering
 - Goldman Sachs — Summer Analyst Intern - Americas - Engineering
+- Goldman Sachs — Summer Analyst Intern - Engineering
 - Goldman Sachs — Summer Analyst Intern - Engineering
 - Goldman Sachs — Summer Analyst Intern - Engineering
 - Goldman Sachs — Summer Analyst Intern - FICC and Equities - Sales and Trading
@@ -394,6 +397,7 @@ _Generated 2026-09-18_
 - RTX — Artificial Intelligence / Machine Learning Methods Intern
 - RTX — Data Science and Advanced Analytics Intern
 - RTX — Electrical Engineer Intern
+- RTX — Electrical Engineer Intern
 - RTX — Electrical Engineer Intern - RDP
 - RTX — Electrical Engineer Intern - Summer 2027
 - RTX — Electrical Engineer Intern - Summer 2027
@@ -468,6 +472,7 @@ _Generated 2026-09-18_
 - Tesla — Systems Integration Engineer Intern - Body Controls
 - Tesla — Vehicle Software Intern - Torque Path & Chassis Controls
 - Texas Instruments — Systems Engineering Intern
+- Thales — Computer Science Intern Co-op
 - The Federal Reserve System — Analyst Intern - Summer 2027
 - The Federal Reserve System — Graduate Statistical Analysis Intern - Regional & Community Outreach
 - The Nuclear Company — AI/ML Engineer Intern - Platform Integration & AI/Data
@@ -498,7 +503,11 @@ _Generated 2026-09-18_
 - TikTok — Software Engineer Intern - ML Infra
 - TMEIC Corporation Americas — Engineer Intern - Spring 2027
 - Tradeweb — AI Software Engineer Intern
+- Tradeweb — Application Software Engineering Internship - IFI Application
+- Tradeweb — C++ Distributed Systems Developer Intern - C++ Core Services
 - Tradeweb — Credit Software Engineer Intern
+- Tradeweb — Data Platform Intern
+- Tradeweb — Engineering Intern - Distributed Ledger Technology - Engineering
 - Tradeweb — Java Software Engineer Intern
 - Tradeweb — Market Data Developer Intern
 - Tradeweb — Node.js Developer Intern

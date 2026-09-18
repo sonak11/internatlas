@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "tradeweb-c-distributed-systems-developer-intern-c-core-services-2027",
+  "id": "tesla-software-engineer-intern-energy-engineering-2027",
   "company": {
-    "name": "Tradeweb",
-    "slug": "tradeweb"
+    "name": "Tesla",
+    "slug": "tesla"
   },
-  "role": "C++ Distributed Systems Developer Intern - C++ Core Services",
+  "role": "Software Engineer Intern - Energy Engineering",
   "category": "software-engineering",
-  "apply_url": "https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301903",
-  "season": "summer",
+  "apply_url": "https://www.tesla.com/careers/search/job/283950",
+  "season": "winter",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Jersey City",
-      "state": "NJ",
+      "city": "Palo Alto",
+      "state": "CA",
       "country": "USA"
     }
   ],
@@ -25,9 +25,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -42,11 +40,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-10",
-    "discovered": "2026-09-10",
+    "posted": "2026-09-18",
+    "discovered": "2026-09-18",
     "last_verified": "2026-09-18"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

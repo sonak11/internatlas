@@ -1,6 +1,6 @@
 {
   "generated": "2026-09-18",
-  "count": 4814,
+  "count": 4833,
   "internships": [
     {
       "schema_version": "1.0",
@@ -5522,7 +5522,7 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-09-18"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -6085,6 +6085,62 @@
       "dates": {
         "posted": "2026-09-04",
         "discovered": "2026-09-04",
+        "last_verified": "2026-09-18"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "amazon-software-development-engineer-intern-summer-2027",
+      "company": {
+        "name": "Amazon",
+        "slug": "amazon"
+      },
+      "role": "Software Development Engineer Intern - Summer",
+      "category": "software-engineering",
+      "apply_url": "https://amazon.jobs/en/jobs/10552937/software-development-engineer-internship-summer-2027-usa",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Seattle",
+          "state": "WA",
+          "country": "USA"
+        },
+        {
+          "city": "Arlington County",
+          "country": "Arlington"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-18",
+        "discovered": "2026-09-18",
         "last_verified": "2026-09-18"
       },
       "status": "open",
@@ -83150,7 +83206,7 @@
         "discovered": "2026-07-29",
         "last_verified": "2026-09-18"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -92068,7 +92124,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-18"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -95702,6 +95758,58 @@
       "dates": {
         "posted": "2026-09-14",
         "discovered": "2026-09-14",
+        "last_verified": "2026-09-18"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "gordon-food-service-vendor-customer-master-data-intern-master-data-2027",
+      "company": {
+        "name": "Gordon Food Service",
+        "slug": "gordon-food-service"
+      },
+      "role": "Vendor & Customer Master Data Intern - Master Data",
+      "category": "software-engineering",
+      "apply_url": "https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Wyoming-Michigan/Vendor---Customer-Master-Data-Internship_R-57341",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Wyoming",
+          "state": "MI",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-17",
+        "discovered": "2026-09-18",
         "last_verified": "2026-09-18"
       },
       "status": "open",
@@ -119352,6 +119460,57 @@
     },
     {
       "schema_version": "1.0",
+      "id": "kinaxis-developer-intern-co-op-ai-innovation-2027",
+      "company": {
+        "name": "Kinaxis",
+        "slug": "kinaxis"
+      },
+      "role": "Developer Intern Co-op - AI Innovation",
+      "category": "ai",
+      "apply_url": "https://careers-kinaxis.icims.com/jobs/35377/job?mobile=true&needsRedirect=false",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Ottawa",
+          "country": "ON"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-17",
+        "discovered": "2026-09-18",
+        "last_verified": "2026-09-18"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "kinaxis-developer-intern-co-op-machine-learning-2027",
       "company": {
         "name": "Kinaxis",
@@ -130073,6 +130232,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "marvell-applied-machine-learning-scientist-intern-2026",
+      "company": {
+        "name": "Marvell",
+        "slug": "marvell"
+      },
+      "role": "Applied Machine Learning Scientist Intern",
+      "category": "machine-learning",
+      "apply_url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Applied-Machine-Learning-Scientist-Intern---PhD_2502662",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Santa Clara",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-06-13",
+        "discovered": "2026-09-18",
+        "last_verified": "2026-09-18"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "marvell-architecture-intern-ms-2027-aca9f5",
       "company": {
         "name": "Marvell",
@@ -138619,6 +138830,70 @@
     },
     {
       "schema_version": "1.0",
+      "id": "microsoft-electrical-engineer-intern-6-month-program-2027",
+      "company": {
+        "name": "Microsoft",
+        "slug": "microsoft"
+      },
+      "role": "Electrical Engineer Intern - 6-Month Program",
+      "category": "software-engineering",
+      "apply_url": "https://apply.careers.microsoft.com/careers/job/1970393556982262",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Seattle",
+          "state": "WA",
+          "country": "USA"
+        },
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        },
+        {
+          "city": "Raleigh",
+          "state": "NC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-18",
+        "discovered": "2026-09-18",
+        "last_verified": "2026-09-18"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "microsoft-full-stack-product-engineer-intern-web-services-2026",
       "company": {
         "name": "Microsoft",
@@ -138839,6 +139114,65 @@
     },
     {
       "schema_version": "1.0",
+      "id": "microsoft-silicon-engineering-intern-6-month-program-2027",
+      "company": {
+        "name": "Microsoft",
+        "slug": "microsoft"
+      },
+      "role": "Silicon Engineering Intern - 6-month Program",
+      "category": "hardware",
+      "apply_url": "https://apply.careers.microsoft.com/careers/job/1970393556982259",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Hillsboro",
+          "state": "OR",
+          "country": "USA"
+        },
+        {
+          "city": "Mountain View",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-18",
+        "discovered": "2026-09-18",
+        "last_verified": "2026-09-18"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "microsoft-software-engineer-ai-ml-llm-intern-2026",
       "company": {
         "name": "Microsoft",
@@ -138900,14 +139234,20 @@
       },
       "role": "Software Engineer Intern",
       "category": "software-engineering",
-      "apply_url": "https://apply.careers.microsoft.com/careers/job/1970393556951951",
+      "apply_url": "https://apply.careers.microsoft.com/careers/job/1970393556982258",
       "season": "winter",
       "year": 2027,
       "work_mode": "onsite",
       "locations": [
         {
-          "city": "Vancouver",
-          "country": "BC"
+          "city": "Redmond",
+          "state": "WA",
+          "country": "USA"
+        },
+        {
+          "city": "Santa Clara",
+          "state": "CA",
+          "country": "USA"
         }
       ],
       "compensation": {
@@ -138934,11 +139274,11 @@
         "resume_keywords": []
       },
       "dates": {
-        "posted": "2026-08-02",
+        "posted": "2026-09-18",
         "discovered": "2026-08-02",
-        "last_verified": "2026-08-04"
+        "last_verified": "2026-09-18"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -148246,14 +148586,14 @@
         "resume_keywords": []
       },
       "dates": {
-        "posted": "2026-08-04",
+        "posted": "2026-08-03",
         "discovered": "2026-08-04",
-        "last_verified": "2026-08-21"
+        "last_verified": "2026-09-18"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
-        "src:vanshb03"
+        "src:simplify"
       ]
     },
     {
@@ -175472,6 +175812,57 @@
     },
     {
       "schema_version": "1.0",
+      "id": "qualcomm-low-power-ai-software-development-intern-interim-engineering-2027",
+      "company": {
+        "name": "Qualcomm",
+        "slug": "qualcomm"
+      },
+      "role": "Low Power AI Software Development Intern - Interim Engineering Intern - Software",
+      "category": "ai",
+      "apply_url": "https://qualcomm.eightfold.ai/careers/job/446721143440",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Markham",
+          "country": "ON"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-18",
+        "discovered": "2026-09-18",
+        "last_verified": "2026-09-18"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "qualcomm-machine-learning-compiler-performance-engineering-intern-sys-2027",
       "company": {
         "name": "Qualcomm",
@@ -175668,6 +176059,57 @@
       "dates": {
         "posted": "2026-09-15",
         "discovered": "2026-09-16",
+        "last_verified": "2026-09-18"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "qualcomm-silicon-validation-intern-2027",
+      "company": {
+        "name": "Qualcomm",
+        "slug": "qualcomm"
+      },
+      "role": "Silicon Validation Intern",
+      "category": "hardware",
+      "apply_url": "https://qualcomm.eightfold.ai/careers/job/446721143274",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Toronto",
+          "country": "ON"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-18",
+        "discovered": "2026-09-18",
         "last_verified": "2026-09-18"
       },
       "status": "open",
@@ -188361,7 +188803,7 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-09-18"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -191118,6 +191560,60 @@
         "last_verified": "2026-08-12"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "rtx-software-engineer-intern-2027-c374a7",
+      "company": {
+        "name": "RTX",
+        "slug": "rtx"
+      },
+      "role": "Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CO-COLORADO-SPRINGS-9970-CUST--9970-Federal-Dr--FEDERAL-External-Site/Software-Engineering-Intern--Summer-2027-_01876131",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Colorado Springs",
+          "state": "CO",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-17",
+        "discovered": "2026-09-18",
+        "last_verified": "2026-09-18"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -217402,6 +217898,110 @@
     },
     {
       "schema_version": "1.0",
+      "id": "tesla-internship-electrical-engineer-power-electronics-optimus-win-2027",
+      "company": {
+        "name": "Tesla",
+        "slug": "tesla"
+      },
+      "role": "Internship - Electrical Engineer - Power Electronics - Optimus - Winter/Spring 2027",
+      "category": "software-engineering",
+      "apply_url": "https://www.tesla.com/careers/search/job/284009",
+      "season": "spring",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Palo Alto",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-18",
+        "discovered": "2026-09-18",
+        "last_verified": "2026-09-18"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "tesla-internship-electronic-design-engineer-optimus-winter-spring-2027",
+      "company": {
+        "name": "Tesla",
+        "slug": "tesla"
+      },
+      "role": "Internship - Electronic Design Engineer - Optimus - Winter/Spring 2027",
+      "category": "design",
+      "apply_url": "https://www.tesla.com/careers/search/job/284008",
+      "season": "spring",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Palo Alto",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-18",
+        "discovered": "2026-09-18",
+        "last_verified": "2026-09-18"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "tesla-internship-fullstack-engineer-applications-engineering-winte-2027",
       "company": {
         "name": "Tesla",
@@ -217454,6 +218054,110 @@
     },
     {
       "schema_version": "1.0",
+      "id": "tesla-internship-software-engineering-people-products-summer-2027-2027",
+      "company": {
+        "name": "Tesla",
+        "slug": "tesla"
+      },
+      "role": "Internship - Software Engineering - People Products - Summer 2027",
+      "category": "software-engineering",
+      "apply_url": "https://www.tesla.com/careers/search/job/284004",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Palo Alto",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-18",
+        "discovered": "2026-09-18",
+        "last_verified": "2026-09-18"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "tesla-internship-software-engineering-people-products-winter-sprin-2027",
+      "company": {
+        "name": "Tesla",
+        "slug": "tesla"
+      },
+      "role": "Internship - Software Engineering - People Products - Winter/Spring 2027",
+      "category": "software-engineering",
+      "apply_url": "https://www.tesla.com/careers/search/job/284003",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Palo Alto",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-18",
+        "discovered": "2026-09-18",
+        "last_verified": "2026-09-18"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "tesla-internship-software-integration-engineer-factory-firmware-te-2027",
       "company": {
         "name": "Tesla",
@@ -217496,6 +218200,58 @@
       "dates": {
         "posted": "2026-09-15",
         "discovered": "2026-09-15",
+        "last_verified": "2026-09-18"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "tesla-internship-system-integration-test-automation-engineer-energ-2027",
+      "company": {
+        "name": "Tesla",
+        "slug": "tesla"
+      },
+      "role": "Internship - System Integration & Test Automation Engineer - Energy Engineering - Winter/Spring 2027",
+      "category": "software-engineering",
+      "apply_url": "https://www.tesla.com/careers/search/job/284026",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Palo Alto",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-18",
+        "discovered": "2026-09-18",
         "last_verified": "2026-09-18"
       },
       "status": "open",
@@ -218341,6 +219097,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "tesla-product-manager-intern-residential-energy-engineering-2027",
+      "company": {
+        "name": "Tesla",
+        "slug": "tesla"
+      },
+      "role": "Product Manager Intern - Residential Energy Engineering",
+      "category": "product",
+      "apply_url": "https://www.tesla.com/careers/search/job/283841",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Palo Alto",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-18",
+        "discovered": "2026-09-18",
+        "last_verified": "2026-09-18"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "tesla-product-support-engineer-intern-service-engineering-2027",
       "company": {
         "name": "Tesla",
@@ -218801,6 +219609,58 @@
       "dates": {
         "posted": "2026-06-07",
         "discovered": "2026-09-03",
+        "last_verified": "2026-09-18"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "tesla-site-controller-software-engineer-intern-energy-engineering-2027",
+      "company": {
+        "name": "Tesla",
+        "slug": "tesla"
+      },
+      "role": "Site Controller Software Engineer Intern - Energy Engineering",
+      "category": "software-engineering",
+      "apply_url": "https://www.tesla.com/careers/search/job/283956",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Palo Alto",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-18",
+        "discovered": "2026-09-18",
         "last_verified": "2026-09-18"
       },
       "status": "open",
@@ -219480,6 +220340,58 @@
         "last_verified": "2026-08-31"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "tesla-software-engineer-intern-energy-engineering-2027",
+      "company": {
+        "name": "Tesla",
+        "slug": "tesla"
+      },
+      "role": "Software Engineer Intern - Energy Engineering",
+      "category": "software-engineering",
+      "apply_url": "https://www.tesla.com/careers/search/job/283950",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Palo Alto",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-18",
+        "discovered": "2026-09-18",
+        "last_verified": "2026-09-18"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -223655,7 +224567,7 @@
         "discovered": "2026-09-17",
         "last_verified": "2026-09-18"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -233157,6 +234069,60 @@
     },
     {
       "schema_version": "1.0",
+      "id": "tiktok-machine-learning-engineer-intern-e-commerce-recommendation-m-2027-5a1b1e",
+      "company": {
+        "name": "TikTok",
+        "slug": "tiktok"
+      },
+      "role": "Machine Learning Engineer Intern - E-Commerce Recommendation Mall",
+      "category": "machine-learning",
+      "apply_url": "https://lifeattiktok.com/search/7686283601340369205",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-18",
+        "discovered": "2026-09-18",
+        "last_verified": "2026-09-18"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "tiktok-machine-learning-engineer-intern-e-commerce-recommendation-m-2027",
       "company": {
         "name": "TikTok",
@@ -239888,7 +240854,7 @@
         "discovered": "2026-09-10",
         "last_verified": "2026-09-18"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -239995,7 +240961,7 @@
         "discovered": "2026-09-10",
         "last_verified": "2026-09-18"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -240103,7 +241069,7 @@
         "discovered": "2026-09-10",
         "last_verified": "2026-09-18"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -240157,7 +241123,7 @@
         "discovered": "2026-09-10",
         "last_verified": "2026-09-18"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -241087,6 +242053,57 @@
         "last_verified": "2026-09-03"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "trc-companies-software-engineer-intern-2027",
+      "company": {
+        "name": "TRC Companies",
+        "slug": "trc-companies"
+      },
+      "role": "Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://careers.trccompanies.com/jobs/26840?icims=1",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Calgary",
+          "country": "AB"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-18",
+        "discovered": "2026-09-18",
+        "last_verified": "2026-09-18"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -250806,7 +251823,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "virtu-financial-2027-internship-quantitative-researcher-phd-2027",
+      "id": "virtu-financial-2027-internship-quantitative-researcher-phd-2027-9c8ad0",
       "company": {
         "name": "Virtu Financial",
         "slug": "virtu-financial",
@@ -250853,6 +251870,60 @@
       },
       "dates": {
         "posted": "2026-07-22",
+        "discovered": "2026-09-18",
+        "last_verified": "2026-09-18"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "virtu-financial-2027-internship-quantitative-researcher-phd-2027",
+      "company": {
+        "name": "Virtu Financial",
+        "slug": "virtu-financial",
+        "career_page": "https://www.virtu.com/careers"
+      },
+      "role": "2027 Internship - Quantitative Researcher (PhD)",
+      "category": "quant",
+      "apply_url": "https://job-boards.greenhouse.io/virtu/jobs/7617953002",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Singapore",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2024-08-30",
         "discovered": "2026-08-26",
         "last_verified": "2026-09-18"
       },
@@ -250910,58 +251981,6 @@
       "dates": {
         "posted": "2025-09-12",
         "discovered": "2026-08-26",
-        "last_verified": "2026-09-18"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:ats"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "virtu-financial-2027-internship-quantitative-strategist-2027",
-      "company": {
-        "name": "Virtu Financial",
-        "slug": "virtu-financial",
-        "career_page": "https://www.virtu.com/careers"
-      },
-      "role": "2027 Internship - Quantitative Strategist",
-      "category": "quant",
-      "apply_url": "https://job-boards.greenhouse.io/virtu/jobs/7617953002",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Singapore",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2024-08-30",
-        "discovered": "2026-07-30",
         "last_verified": "2026-09-18"
       },
       "status": "open",

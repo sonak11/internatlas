@@ -1,21 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "tradeweb-c-distributed-systems-developer-intern-c-core-services-2027",
+  "id": "kinaxis-developer-intern-co-op-ai-innovation-2027",
   "company": {
-    "name": "Tradeweb",
-    "slug": "tradeweb"
+    "name": "Kinaxis",
+    "slug": "kinaxis"
   },
-  "role": "C++ Distributed Systems Developer Intern - C++ Core Services",
-  "category": "software-engineering",
-  "apply_url": "https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301903",
-  "season": "summer",
+  "role": "Developer Intern Co-op - AI Innovation",
+  "category": "ai",
+  "apply_url": "https://careers-kinaxis.icims.com/jobs/35377/job?mobile=true&needsRedirect=false",
+  "season": "winter",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Jersey City",
-      "state": "NJ",
-      "country": "USA"
+      "city": "Ottawa",
+      "country": "ON"
     }
   ],
   "compensation": {
@@ -25,9 +24,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -42,11 +39,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-10",
-    "discovered": "2026-09-10",
+    "posted": "2026-09-17",
+    "discovered": "2026-09-18",
     "last_verified": "2026-09-18"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

@@ -7,14 +7,20 @@
   },
   "role": "Software Engineer Intern",
   "category": "software-engineering",
-  "apply_url": "https://apply.careers.microsoft.com/careers/job/1970393556951951",
+  "apply_url": "https://apply.careers.microsoft.com/careers/job/1970393556982258",
   "season": "winter",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Vancouver",
-      "country": "BC"
+      "city": "Redmond",
+      "state": "WA",
+      "country": "USA"
+    },
+    {
+      "city": "Santa Clara",
+      "state": "CA",
+      "country": "USA"
     }
   ],
   "compensation": {
@@ -41,11 +47,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-02",
+    "posted": "2026-09-18",
     "discovered": "2026-08-02",
-    "last_verified": "2026-08-04"
+    "last_verified": "2026-09-18"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"
