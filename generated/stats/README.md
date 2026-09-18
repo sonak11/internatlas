@@ -87,8 +87,10 @@ _Generated 2026-09-18_
 - Amgen — Operations Graduate Program Intern - Operations
 - AnaVation — Computer Science Intern
 - AnaVation — Computer Science Intern - Summer Program
+- Anduril — 2027 Mechanical Engineer Intern
 - Anduril — 2027 Quality & Test Engineer Intern
 - Anduril — 2027 Software Engineer Intern
+- Anduril — 2027 Software Quality Assurance Intern
 - AQR Capital Management — Portfolio Solutions Group Summer Analyst Intern - Portfolio Solutions Group
 - AQR Capital Management — Risk Summer Analyst Intern
 - Astranis — Power Electronics Intern - Fall 2026
@@ -210,20 +212,24 @@ _Generated 2026-09-18_
 - GlobalFoundries — RF Technology Development Automation Engineer Intern - Summer 2027
 - GlobalFoundries — Silicon Photonics Advanced Packaging Intern
 - GlobalFoundries — Systems Engineer Intern
+- Goldman Sachs — Associate Intern - The Core Quantitative Strats
 - Goldman Sachs — AWM Product Management Analyst Intern
 - Goldman Sachs — Quantitative Strategist Associate Intern - Asset and Wealth Management
+- Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
 - Goldman Sachs — Quantitative Strategist Intern - Americas
 - Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
 - Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
 - Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats
 - Goldman Sachs — Quantitative Strategist Intern - Investment Banking
+- Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
 - Goldman Sachs — Quantitative Strats Analyst Intern - Americas - Investment Banking
 - Goldman Sachs — Summer Analyst Intern
 - Goldman Sachs — Summer Analyst Intern - Americas - AWM Product Management
 - Goldman Sachs — Summer Analyst Intern - Americas - Engineering
 - Goldman Sachs — Summer Analyst Intern - Americas - Engineering
 - Goldman Sachs — Summer Analyst Intern - Americas - Engineering
-- Goldman Sachs — Summer Analyst Intern - Engineering
+- Goldman Sachs — Summer Analyst Intern - Americas - Investment Banking Quantitative Strats
 - Goldman Sachs — Summer Analyst Intern - Engineering
 - Goldman Sachs — Summer Analyst Intern - Engineering
 - Goldman Sachs — Summer Analyst Intern - FICC and Equities - Sales and Trading
@@ -244,6 +250,7 @@ _Generated 2026-09-18_
 - Hendrick Motorsports — Electrical Engineer Intern
 - Hendrick Motorsports — Electrical Engineer Intern - Unmanned Vehicles - UXVs
 - Hexagon AB — Geomatics Engineer Intern - GNSS Algorithms
+- Highgate — Revenue Management Intern - Summer 2027
 - Hilton Worldwide — Corporate Summer Internship - Technology, Software Engineering and Cyber
 - Hitachi — Software Analyst Intern
 - Hitachi — Software Analyst Intern
@@ -282,6 +289,7 @@ _Generated 2026-09-18_
 - Leidos — Data Engineering & Analytics Intern
 - Leidos — Software Developer Intern
 - Leland — AI Education Intern
+- Lyft — Software Engineer Intern - Fullstack - Multiple Teams
 - Mackenzie Investments — Data Engineering Intern
 - Marathon Petroleum — Marketing Analyst – Intern to Full-Time Conversion
 - Marquee Brands — Consumer Insights Intern
@@ -345,6 +353,7 @@ _Generated 2026-09-18_
 - NVIDIA — Ph.D. Research Autonomous Vehicles Intern
 - NVIDIA — Ph.D. Research Graphics and Simulation Intern - Graphics and Simulation
 - NVIDIA — Ph.D. Research Hardware Intern
+- NVIDIA — Research Intern
 - NVIDIA — Robotics Intern - Ph.D. Research
 - NXP Semiconductors — AI/ML ASIC Design and Implementation Automation Intern - Summer 2027
 - NXP Semiconductors — Functional Safety Intern
@@ -405,6 +414,7 @@ _Generated 2026-09-18_
 - RTX — Manufacturing & Quality Analyst Intern
 - RTX — Methods Intern - Hot Section Engineering
 - RTX — Proactive Engine Performance Monitoring Intern - Proactive DPHM
+- RTX — Quality Project Management and Data Analysis Tool Development Intern
 - RTX — Software Developer Intern
 - RTX — Software Engineer Intern
 - RTX — Software Engineer Intern
@@ -501,6 +511,7 @@ _Generated 2026-09-18_
 - TikTok — Machine Learning MLOps Intern - Global Site Reliability Engineering
 - TikTok — Product Manager Intern - TikTok LIVE-AI & Ecosystem Governance
 - TikTok — Software Engineer Intern - ML Infra
+- TJX — IT Engineer Intern
 - TMEIC Corporation Americas — Engineer Intern - Spring 2027
 - Tradeweb — AI Software Engineer Intern
 - Tradeweb — Application Software Engineering Internship - IFI Application
@@ -530,6 +541,7 @@ _Generated 2026-09-18_
 - Vertiv — Thermal Application Engineer Intern - Summer 2027
 - Walmart — Data Scientist 3 Intern - 2026 Intern Conversion: 2027 FT
 - Wells Fargo — Applied Computational Intelligence Intern - ACI Masters - Early Careers
+- Wells Fargo — Quantitative Analytics Intern - Applied Computational Intelligence
 - Wells Fargo — Quantitative Analytics Intern - Applied Computational Intelligence
 - Western Aircraft — Electrical Engineer Intern
 - Winland Foods — Product Development Intern

@@ -17418,7 +17418,7 @@
         "discovered": "2026-09-09",
         "last_verified": "2026-09-18"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:ats"
@@ -17678,7 +17678,7 @@
         "discovered": "2026-09-09",
         "last_verified": "2026-09-18"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:ats"
@@ -91075,7 +91075,7 @@
         "discovered": "2026-08-27",
         "last_verified": "2026-09-18"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -91233,7 +91233,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-09-18"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -91498,7 +91498,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-18"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -91600,7 +91600,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-09-18"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -91963,7 +91963,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-18"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -92124,7 +92124,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-18"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -99656,7 +99656,7 @@
         "discovered": "2026-09-14",
         "last_verified": "2026-09-18"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -127588,7 +127588,7 @@
         "discovered": "2026-09-11",
         "last_verified": "2026-09-18"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -156325,7 +156325,7 @@
         "discovered": "2026-09-13",
         "last_verified": "2026-09-18"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -190011,7 +190011,7 @@
         "discovered": "2026-08-17",
         "last_verified": "2026-09-18"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -238882,7 +238882,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-18"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -256636,7 +256636,7 @@
         "discovered": "2026-08-28",
         "last_verified": "2026-09-18"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
