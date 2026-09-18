@@ -1,6 +1,6 @@
 {
   "generated": "2026-09-18",
-  "count": 4834,
+  "count": 4837,
   "internships": [
     {
       "schema_version": "1.0",
@@ -3107,7 +3107,7 @@
         "resume_keywords": []
       },
       "dates": {
-        "posted": "2026-07-24",
+        "posted": "2026-07-13",
         "discovered": "2026-08-17",
         "last_verified": "2026-09-18"
       },
@@ -182629,6 +182629,59 @@
     },
     {
       "schema_version": "1.0",
+      "id": "robinhood-offensive-security-intern-summer-2027-2027",
+      "company": {
+        "name": "Robinhood",
+        "slug": "robinhood",
+        "career_page": "https://careers.robinhood.com/"
+      },
+      "role": "Offensive Security Intern (Summer 2027)",
+      "category": "security",
+      "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8214142?t=gh_src%3D&gh_jid=8214142",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Bellevue",
+          "state": "WA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-18",
+        "discovered": "2026-09-18",
+        "last_verified": "2026-09-18"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "robinhood-people-insights-analytics-intern-summer-2027-2027",
       "company": {
         "name": "Robinhood",
@@ -255704,6 +255757,110 @@
       "dates": {
         "posted": "2026-09-03",
         "discovered": "2026-09-03",
+        "last_verified": "2026-09-18"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "waymo-2027-summer-intern-phd-data-science-2027",
+      "company": {
+        "name": "Waymo",
+        "slug": "waymo",
+        "career_page": "https://waymo.com/careers"
+      },
+      "role": "2027 Summer Intern, PhD, Data Science",
+      "category": "data-science",
+      "apply_url": "https://careers.withwaymo.com/jobs?gh_jid=8199365",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Francisco",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-18",
+        "discovered": "2026-09-18",
+        "last_verified": "2026-09-18"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "waymo-2027-summer-intern-phd-learning-based-behavior-for-special-v-2027",
+      "company": {
+        "name": "Waymo",
+        "slug": "waymo",
+        "career_page": "https://waymo.com/careers"
+      },
+      "role": "2027 Summer Intern, PhD, Learning-Based Behavior for Special Vehicles",
+      "category": "software-engineering",
+      "apply_url": "https://careers.withwaymo.com/jobs?gh_jid=8203191",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Mountain View",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-18",
+        "discovered": "2026-09-18",
         "last_verified": "2026-09-18"
       },
       "status": "open",

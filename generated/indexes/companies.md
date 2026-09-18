@@ -891,7 +891,7 @@
 | [Roam](../companies/roam.md) | 1/1 | software-engineering |
 | [Robert Bosch LLC](../companies/robert-bosch-llc.md) | 1/1 | software-engineering |
 | [Robert Bosch Venture Capital](../companies/robert-bosch-venture-capital.md) | 3/5 | ai, data-science, embedded, software-engineering |
-| [Robinhood](../companies/robinhood.md) | 33/34 | research, security, software-engineering |
+| [Robinhood](../companies/robinhood.md) | 34/35 | research, security, software-engineering |
 | [Roblox](../companies/roblox.md) | 3/3 | design, product, software-engineering |
 | [RoboForce](../companies/roboforce.md) | 1/1 | software-engineering |
 | [Rockefeller Capital Management](../companies/rockefeller-capital-management.md) | 0/1 | software-engineering |
@@ -1150,7 +1150,7 @@
 | [Walmart](../companies/walmart.md) | 3/4 | data-science, software-engineering |
 | [Warner Bros.](../companies/warner-bros.md) | 0/3 | research, software-engineering |
 | [Watts Water](../companies/watts-water.md) | 3/3 | software-engineering |
-| [Waymo](../companies/waymo.md) | 21/21 | data-science, machine-learning, quant, research, software-engineering |
+| [Waymo](../companies/waymo.md) | 23/23 | data-science, machine-learning, quant, research, software-engineering |
 | [Wealthsimple](../companies/wealthsimple.md) | 2/2 | data-science, software-engineering |
 | [Weave](../companies/weave.md) | 1/1 | data-engineering |
 | [Wellington Management](../companies/wellington-management.md) | 1/1 | software-engineering |

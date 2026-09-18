@@ -22,7 +22,7 @@ _Generated 2026-09-18_
 | Booz Allen | 41 |
 | NVIDIA | 40 |
 | Bank of Montreal | 36 |
-| Robinhood | 34 |
+| Robinhood | 35 |
 | Coinbase | 33 |
 | Navy Federal | 33 |
 | The Walt Disney Company | 33 |
@@ -33,19 +33,19 @@ _Generated 2026-09-18_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 2870 | `███████████████` |
+| software-engineering | 2871 | `███████████████` |
 | ai | 387 | `██` |
 | quant | 296 | `██` |
 | machine-learning | 210 | `█` |
 | hardware | 189 | `█` |
-| data-science | 176 | `█` |
+| data-science | 177 | `█` |
 | product | 154 | `█` |
 | research | 150 | `█` |
 | design | 126 | `█` |
 | embedded | 112 | `█` |
 | data-engineering | 87 | `█` |
 | cloud | 56 | `█` |
-| security | 21 | `█` |
+| security | 22 | `█` |
 
 ## Newest listings
 
@@ -55,6 +55,7 @@ _Generated 2026-09-18_
 - 2026-09-18 — **Microsoft**: [Software Engineer Intern](https://apply.careers.microsoft.com/careers/job/1970393556982258)
 - 2026-09-18 — **Qualcomm**: [Low Power AI Software Development Intern - Interim Engineering Intern - Software](https://qualcomm.eightfold.ai/careers/job/446721143440)
 - 2026-09-18 — **Qualcomm**: [Silicon Validation Intern](https://qualcomm.eightfold.ai/careers/job/446721143274)
+- 2026-09-18 — **Robinhood**: [Offensive Security Intern (Summer 2027)](https://boards.greenhouse.io/robinhood/jobs/8214142?t=gh_src%3D&gh_jid=8214142)
 - 2026-09-18 — **Tesla**: [Internship - Electrical Engineer - Power Electronics - Optimus - Winter/Spring 2027](https://www.tesla.com/careers/search/job/284009)
 - 2026-09-18 — **Tesla**: [Internship - Electronic Design Engineer - Optimus - Winter/Spring 2027](https://www.tesla.com/careers/search/job/284008)
 - 2026-09-18 — **Tesla**: [Internship - Software Engineering - People Products - Summer 2027](https://www.tesla.com/careers/search/job/284004)
@@ -66,9 +67,8 @@ _Generated 2026-09-18_
 - 2026-09-18 — **TikTok**: [Machine Learning Engineer Intern - E-Commerce Recommendation Mall](https://lifeattiktok.com/search/7686283601340369205)
 - 2026-09-18 — **TRC Companies**: [Software Engineer Intern](https://careers.trccompanies.com/jobs/26840?icims=1)
 - 2026-09-18 — **Waymo**: [2027 Summer Intern, MS/PhD, Sim-Realism ML Infrastructure](https://careers.withwaymo.com/jobs?gh_jid=8205680)
-- 2026-09-17 — **Abridge**: [Software Engineer Intern - Spring](https://jobs.ashbyhq.com/abridge/6569d8f7-bd0b-4bb0-a3af-37f83e19ec5e/application?embed=true)
-- 2026-09-17 — **Acxiom**: [Product Operations Intern](https://acxiomllc.wd5.myworkdayjobs.com/AcxiomUSA/job/RemoteHomebased/Intern---Product-Operations_JR014480)
-- 2026-09-17 — **Acxiom**: [Product Operations Intern](https://acxiomllc.wd5.myworkdayjobs.com/AcxiomUSA/job/RemoteHomebased/Intern---Product-Operations_JR014478)
+- 2026-09-18 — **Waymo**: [2027 Summer Intern, PhD, Data Science](https://careers.withwaymo.com/jobs?gh_jid=8199365)
+- 2026-09-18 — **Waymo**: [2027 Summer Intern, PhD, Learning-Based Behavior for Special Vehicles](https://careers.withwaymo.com/jobs?gh_jid=8203191)
 
 ## Recently closed
 

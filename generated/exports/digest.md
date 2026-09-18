@@ -1,6 +1,6 @@
 # 📬 InternAtlas Weekly Digest — 2026-09-18
 
-## 🆕 New this week (641)
+## 🆕 New this week (644)
 
 - **3M** — [Business Analyst Intern - Consumer Business Group](https://3m.wd1.myworkdayjobs.com/en-US/Search/job/US-Minnesota-Maplewood/Internship---2027-Undergraduate-Business-Analytics-Intern---Consumer-Business-Group--CBG-_R01171049) · software-engineering · —
 - **AEG** — [Global Partnerships Intern - Data & Research](https://job-boards.greenhouse.io/aegworldwide/jobs/8811721002) · research · —
@@ -477,6 +477,7 @@
 - **Robinhood** — [Growth Marketing Intern (Summer 2027)](https://boards.greenhouse.io/robinhood/jobs/8192367?t=gh_src%3D&gh_jid=8192367) · software-engineering · —
 - **Robinhood** — [Investment Analyst Intern (Summer 2027)](https://boards.greenhouse.io/robinhood/jobs/8198187?t=gh_src%3D&gh_jid=8198187) · software-engineering · —
 - **Robinhood** — [iOS Software Developer Intern](https://boards.greenhouse.io/robinhood/jobs/8199729) · software-engineering · —
+- **Robinhood** — [Offensive Security Intern (Summer 2027)](https://boards.greenhouse.io/robinhood/jobs/8214142?t=gh_src%3D&gh_jid=8214142) · security · —
 - **Robinhood** — [People Insights & Analytics Intern - Summer 2027](https://boards.greenhouse.io/robinhood/jobs/8198255) · software-engineering · —
 - **Robinhood** — [People Partner Intern (Summer 2027)](https://boards.greenhouse.io/robinhood/jobs/8197614?t=gh_src%3D&gh_jid=8197614) · software-engineering · —
 - **Robinhood** — [PeopleX Insights & Analytics Intern (Summer 2027)](https://boards.greenhouse.io/robinhood/jobs/8198255?t=gh_src%3D&gh_jid=8198255) · software-engineering · —
@@ -615,6 +616,8 @@
 - **Waymo** — [2027 Summer Intern, MS/PhD, Machine Learning, Simulation Realism](https://careers.withwaymo.com/jobs?gh_jid=8208465) · machine-learning · —
 - **Waymo** — [2027 Summer Intern, MS/PhD, Machine Learning, Simulator Evaluation](https://careers.withwaymo.com/jobs?gh_jid=8202801) · machine-learning · —
 - **Waymo** — [2027 Summer Intern, MS/PhD, Sim-Realism ML Infrastructure](https://careers.withwaymo.com/jobs?gh_jid=8205680) · machine-learning · —
+- **Waymo** — [2027 Summer Intern, PhD, Data Science](https://careers.withwaymo.com/jobs?gh_jid=8199365) · data-science · —
+- **Waymo** — [2027 Summer Intern, PhD, Learning-Based Behavior for Special Vehicles](https://careers.withwaymo.com/jobs?gh_jid=8203191) · software-engineering · —
 - **Waymo** — [2027 Summer Intern, PhD, Machine Learning, Computer Vision](https://careers.withwaymo.com/jobs?gh_jid=8202025) · machine-learning · —
 - **Waymo** — [2027 Summer Intern, PhD, Quantitative Software Engineer](https://careers.withwaymo.com/jobs?gh_jid=8197554) · quant · —
 - **Waymo** — [2027 Summer Intern, PhD, Safety Research, Human Behavior Analytics](https://careers.withwaymo.com/jobs?gh_jid=8197899) · research · —

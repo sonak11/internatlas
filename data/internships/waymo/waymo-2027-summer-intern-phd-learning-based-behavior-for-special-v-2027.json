@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "akuna-capital-platform-engineer-intern-2027",
+  "id": "waymo-2027-summer-intern-phd-learning-based-behavior-for-special-v-2027",
   "company": {
-    "name": "Akuna Capital",
-    "slug": "akuna-capital"
+    "name": "Waymo",
+    "slug": "waymo",
+    "career_page": "https://waymo.com/careers"
   },
-  "role": "Platform Engineer Intern",
-  "category": "cloud",
-  "apply_url": "https://akunacapital.com/careers/job/8018856/?gh_jid=8018856",
+  "role": "2027 Summer Intern, PhD, Learning-Based Behavior for Special Vehicles",
+  "category": "software-engineering",
+  "apply_url": "https://careers.withwaymo.com/jobs?gh_jid=8203191",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Chicago",
-      "state": "IL",
+      "city": "Mountain View",
       "country": "USA"
     }
   ],
@@ -26,9 +26,9 @@
   "eligibility": {
     "graduation_years": [],
     "degree_levels": [],
-    "citizenship_required": true,
+    "citizenship_required": false,
     "security_clearance_required": false,
-    "visa_sponsorship": "no"
+    "visa_sponsorship": "unknown"
   },
   "interview": {},
   "tech": {
@@ -40,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-13",
-    "discovered": "2026-08-17",
+    "posted": "2026-09-18",
+    "discovered": "2026-09-18",
     "last_verified": "2026-09-18"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:vanshb03"
+    "src:ats"
   ]
 }
