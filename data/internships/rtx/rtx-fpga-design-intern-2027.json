@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "appian-software-engineering-intern-2027-172919",
+  "id": "rtx-fpga-design-intern-2027",
   "company": {
-    "name": "Appian",
-    "slug": "appian"
+    "name": "RTX",
+    "slug": "rtx"
   },
-  "role": "Software Engineering Intern",
-  "category": "software-engineering",
-  "apply_url": "https://job-boards.greenhouse.io/appian/jobs/8041237",
+  "role": "FPGA Design Intern",
+  "category": "hardware",
+  "apply_url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-121--350-Collins-Rd-NE--BLDG-121/FPGA-Design-Intern--Summer-2027-_01870290",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "McLean",
-      "state": "VA",
+      "city": "Cedar Rapids",
+      "state": "IA",
       "country": "USA"
     }
   ],
@@ -25,10 +25,12 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "masters"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
-    "visa_sponsorship": "no"
+    "visa_sponsorship": "unknown"
   },
   "interview": {},
   "tech": {
@@ -40,13 +42,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-27",
-    "discovered": "2026-09-17",
-    "last_verified": "2026-09-17"
+    "posted": "2026-09-17",
+    "discovered": "2026-09-18",
+    "last_verified": "2026-09-18"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:vanshb03"
+    "src:simplify"
   ]
 }

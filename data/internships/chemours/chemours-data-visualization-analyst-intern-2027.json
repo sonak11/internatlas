@@ -7,17 +7,11 @@
   },
   "role": "Data Visualization Analyst Intern",
   "category": "software-engineering",
-  "apply_url": "https://chemours.wd103.myworkdayjobs.com/Chemours/job/US---Remote/Data-Visualization-Analyst-Spring-Intern_JR15000",
+  "apply_url": "https://chemours.wd103.myworkdayjobs.com/Chemours/job/US---Remote/Data-Visualization-Analyst-Summer-Intern_JR15018",
   "season": "spring",
   "year": 2027,
-  "work_mode": "onsite",
-  "locations": [
-    {
-      "city": "Wilmington",
-      "state": "DE",
-      "country": "USA"
-    }
-  ],
+  "work_mode": "remote",
+  "locations": [],
   "compensation": {
     "currency": "USD",
     "housing_stipend": false,
@@ -40,14 +34,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-14",
+    "posted": "2026-09-17",
     "discovered": "2026-09-14",
-    "last_verified": "2026-09-16"
+    "last_verified": "2026-09-18"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify",
-    "remote-available"
+    "src:simplify"
   ]
 }

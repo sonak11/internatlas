@@ -8,6 +8,7 @@
 |---|---|---|---|---|---|---|---|
 | JP Morgan Chase | [Data & AI Intern - Analyst](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773869) | Palo Alto, CA +7 | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
 | JP Morgan Chase | [Data & AI Intern - Data & AI Program](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774745) | London +1 | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
+| JP Morgan Chase | [Machine Learning Engineer Summer Associate Intern - Asset and Wealth Management](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210790885) | Jersey City, NJ | Onsite | 2026-09-17 | Rolling | 🟢 Open | ❔ |
 | JP Morgan Chase | [Quantitative Research Intern](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774061) | NYC | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
 | JP Morgan Chase | [Quantitative Research Intern - Markets - Analyst](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774038) | NYC +1 | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
 | JP Morgan Chase | [Quantitative Research Intern - Risk and Treasury](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773978) | Plano, TX +2 | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
@@ -21,4 +22,4 @@
 
 ## Related
 
-Browse more roles in: [🤖 AI](../categories/ai.md), [🧭 Product](../categories/product.md), [📈 Quant](../categories/quant.md), [💻 Software Engineering](../categories/software-engineering.md)
+Browse more roles in: [🤖 AI](../categories/ai.md), [🧠 Machine Learning](../categories/machine-learning.md), [🧭 Product](../categories/product.md), [📈 Quant](../categories/quant.md), [💻 Software Engineering](../categories/software-engineering.md)
