@@ -36,7 +36,7 @@ _Generated 2026-09-18_
 | software-engineering | 2870 | `███████████████` |
 | ai | 387 | `██` |
 | quant | 296 | `██` |
-| machine-learning | 209 | `█` |
+| machine-learning | 210 | `█` |
 | hardware | 189 | `█` |
 | data-science | 176 | `█` |
 | product | 154 | `█` |
@@ -65,10 +65,10 @@ _Generated 2026-09-18_
 - 2026-09-18 — **Tesla**: [Software Engineer Intern - Energy Engineering](https://www.tesla.com/careers/search/job/283950)
 - 2026-09-18 — **TikTok**: [Machine Learning Engineer Intern - E-Commerce Recommendation Mall](https://lifeattiktok.com/search/7686283601340369205)
 - 2026-09-18 — **TRC Companies**: [Software Engineer Intern](https://careers.trccompanies.com/jobs/26840?icims=1)
+- 2026-09-18 — **Waymo**: [2027 Summer Intern, MS/PhD, Sim-Realism ML Infrastructure](https://careers.withwaymo.com/jobs?gh_jid=8205680)
 - 2026-09-17 — **Abridge**: [Software Engineer Intern - Spring](https://jobs.ashbyhq.com/abridge/6569d8f7-bd0b-4bb0-a3af-37f83e19ec5e/application?embed=true)
 - 2026-09-17 — **Acxiom**: [Product Operations Intern](https://acxiomllc.wd5.myworkdayjobs.com/AcxiomUSA/job/RemoteHomebased/Intern---Product-Operations_JR014480)
 - 2026-09-17 — **Acxiom**: [Product Operations Intern](https://acxiomllc.wd5.myworkdayjobs.com/AcxiomUSA/job/RemoteHomebased/Intern---Product-Operations_JR014478)
-- 2026-09-17 — **Acxiom**: [Product Operations Intern](https://acxiomllc.wd5.myworkdayjobs.com/AcxiomUSA/job/RemoteHomebased/Intern---Product-Operations_JR014479-1)
 
 ## Recently closed
 
