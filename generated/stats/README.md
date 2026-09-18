@@ -20,7 +20,7 @@ _Generated 2026-09-18_
 | L3Harris Technologies | 45 |
 | Marvell | 45 |
 | Booz Allen | 41 |
-| NVIDIA | 40 |
+| NVIDIA | 41 |
 | Bank of Montreal | 36 |
 | Robinhood | 35 |
 | Coinbase | 33 |
@@ -33,14 +33,14 @@ _Generated 2026-09-18_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 2871 | `███████████████` |
+| software-engineering | 2879 | `███████████████` |
 | ai | 387 | `██` |
-| quant | 296 | `██` |
+| quant | 299 | `██` |
 | machine-learning | 210 | `█` |
 | hardware | 189 | `█` |
 | data-science | 177 | `█` |
 | product | 154 | `█` |
-| research | 150 | `█` |
+| research | 151 | `█` |
 | design | 126 | `█` |
 | embedded | 112 | `█` |
 | data-engineering | 87 | `█` |
@@ -49,7 +49,11 @@ _Generated 2026-09-18_
 
 ## Newest listings
 
+- 2026-09-18 — **Altar'd State**: [IT Analytics Intern](https://standoutforgood.wd12.myworkdayjobs.com/StandOutForGood/job/Knoxville-TN/Spring-2027-IT-Analytics-Intern_SOSJ12499)
 - 2026-09-18 — **Amazon**: [Software Development Engineer Intern - Summer](https://amazon.jobs/en/jobs/10552937/software-development-engineer-internship-summer-2027-usa)
+- 2026-09-18 — **Cogna**: [Software Engineer Intern](https://apply.workable.com/cogna/j/45A6283F88/apply)
+- 2026-09-18 — **Corning**: [Imaging Sciences Engineer Intern](https://corningjobs.corning.com/job/Keene-Imaging-Sciences-Engineering-Intern-Summer-2027-NH-03431/1431391900/?ats=successfactors)
+- 2026-09-18 — **Hudson River Trading**: [PhD Winter Internship - 2027](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8212741)
 - 2026-09-18 — **Microsoft**: [Electrical Engineer Intern - 6-Month Program](https://apply.careers.microsoft.com/careers/job/1970393556982262)
 - 2026-09-18 — **Microsoft**: [Silicon Engineering Intern - 6-month Program](https://apply.careers.microsoft.com/careers/job/1970393556982259)
 - 2026-09-18 — **Microsoft**: [Software Engineer Intern](https://apply.careers.microsoft.com/careers/job/1970393556982258)
@@ -65,10 +69,6 @@ _Generated 2026-09-18_
 - 2026-09-18 — **Tesla**: [Site Controller Software Engineer Intern - Energy Engineering](https://www.tesla.com/careers/search/job/283956)
 - 2026-09-18 — **Tesla**: [Software Engineer Intern - Energy Engineering](https://www.tesla.com/careers/search/job/283950)
 - 2026-09-18 — **TikTok**: [Machine Learning Engineer Intern - E-Commerce Recommendation Mall](https://lifeattiktok.com/search/7686283601340369205)
-- 2026-09-18 — **TRC Companies**: [Software Engineer Intern](https://careers.trccompanies.com/jobs/26840?icims=1)
-- 2026-09-18 — **Waymo**: [2027 Summer Intern, MS/PhD, Sim-Realism ML Infrastructure](https://careers.withwaymo.com/jobs?gh_jid=8205680)
-- 2026-09-18 — **Waymo**: [2027 Summer Intern, PhD, Data Science](https://careers.withwaymo.com/jobs?gh_jid=8199365)
-- 2026-09-18 — **Waymo**: [2027 Summer Intern, PhD, Learning-Based Behavior for Special Vehicles](https://careers.withwaymo.com/jobs?gh_jid=8203191)
 
 ## Recently closed
 
@@ -213,31 +213,10 @@ _Generated 2026-09-18_
 - GlobalFoundries — Silicon Photonics Advanced Packaging Intern
 - GlobalFoundries — Systems Engineer Intern
 - Goldman Sachs — Associate Intern - The Core Quantitative Strats
-- Goldman Sachs — AWM Product Management Analyst Intern
-- Goldman Sachs — Quantitative Strategist Associate Intern - Asset and Wealth Management
-- Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
 - Goldman Sachs — Quantitative Strategist Intern - Americas
 - Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Investment Banking
-- Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
-- Goldman Sachs — Quantitative Strats Analyst Intern - Americas - Investment Banking
-- Goldman Sachs — Summer Analyst Intern
 - Goldman Sachs — Summer Analyst Intern - Americas - AWM Product Management
-- Goldman Sachs — Summer Analyst Intern - Americas - Engineering
-- Goldman Sachs — Summer Analyst Intern - Americas - Engineering
-- Goldman Sachs — Summer Analyst Intern - Americas - Engineering
-- Goldman Sachs — Summer Analyst Intern - Americas - Investment Banking Quantitative Strats
-- Goldman Sachs — Summer Analyst Intern - Engineering
-- Goldman Sachs — Summer Analyst Intern - Engineering
-- Goldman Sachs — Summer Analyst Intern - FICC and Equities - Sales and Trading
-- Goldman Sachs — Summer Analyst Intern - The Core Quantitative Strats
 - Goldman Sachs — Summer Analyst Intern - Wealth Management - Product Management and Design
-- Goldman Sachs — Summer Analyst Intern - Wealth Management - Quantitative Finance
-- Goldman Sachs — Summer Associate Intern
-- Goldman Sachs — Summer Associate Intern - Multiple Teams
 - Grant Thornton — Tax Technology Intern - Summer 2027
 - Gulfstream — AI Product Collegiate Associate Intern
 - Gulfstream — Azure AI Collegiate Associate Intern

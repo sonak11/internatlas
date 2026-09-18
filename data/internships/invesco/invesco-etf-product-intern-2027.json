@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "goldman-sachs-summer-analyst-intern-engineering-2027-3e3ccf",
+  "id": "invesco-etf-product-intern-2027",
   "company": {
-    "name": "Goldman Sachs",
-    "slug": "goldman-sachs"
+    "name": "Invesco",
+    "slug": "invesco"
   },
-  "role": "Summer Analyst Intern - Engineering",
+  "role": "ETF Product Intern",
   "category": "software-engineering",
-  "apply_url": "https://higher.gs.com/roles/177808?type=students",
+  "apply_url": "https://invesco.wd1.myworkdayjobs.com/IVZearlycareers/job/Downers-Grove-Illinois/Early-Career-Intern-ETF-Product_R-15546",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Seattle",
-      "state": "WA",
+      "city": "Downers Grove",
+      "state": "IL",
       "country": "USA"
     }
   ],
@@ -25,9 +25,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -42,8 +40,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-15",
-    "discovered": "2026-09-06",
+    "posted": "2026-09-17",
+    "discovered": "2026-09-18",
     "last_verified": "2026-09-18"
   },
   "status": "open",

@@ -1,20 +1,21 @@
 {
   "schema_version": "1.0",
-  "id": "goldman-sachs-summer-analyst-intern-engineering-2027-3e3ccf",
+  "id": "hudson-river-trading-phd-winter-internship-2027-2027",
   "company": {
-    "name": "Goldman Sachs",
-    "slug": "goldman-sachs"
+    "name": "Hudson River Trading",
+    "slug": "hudson-river-trading",
+    "career_page": "https://www.hudsonrivertrading.com/careers"
   },
-  "role": "Summer Analyst Intern - Engineering",
-  "category": "software-engineering",
-  "apply_url": "https://higher.gs.com/roles/177808?type=students",
+  "role": "PhD Winter Internship - 2027",
+  "category": "quant",
+  "apply_url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8212741",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Seattle",
-      "state": "WA",
+      "city": "New York",
+      "state": "NY",
       "country": "USA"
     }
   ],
@@ -25,9 +26,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -42,13 +41,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-15",
-    "discovered": "2026-09-06",
+    "posted": "2026-09-18",
+    "discovered": "2026-09-18",
     "last_verified": "2026-09-18"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:ats"
   ]
 }

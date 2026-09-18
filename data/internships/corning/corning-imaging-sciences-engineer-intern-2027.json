@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "goldman-sachs-summer-analyst-intern-engineering-2027-3e3ccf",
+  "id": "corning-imaging-sciences-engineer-intern-2027",
   "company": {
-    "name": "Goldman Sachs",
-    "slug": "goldman-sachs"
+    "name": "Corning",
+    "slug": "corning"
   },
-  "role": "Summer Analyst Intern - Engineering",
+  "role": "Imaging Sciences Engineer Intern",
   "category": "software-engineering",
-  "apply_url": "https://higher.gs.com/roles/177808?type=students",
+  "apply_url": "https://corningjobs.corning.com/job/Keene-Imaging-Sciences-Engineering-Intern-Summer-2027-NH-03431/1431391900/?ats=successfactors",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Seattle",
-      "state": "WA",
+      "city": "Keene",
+      "state": "NH",
       "country": "USA"
     }
   ],
@@ -25,9 +25,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -42,8 +40,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-15",
-    "discovered": "2026-09-06",
+    "posted": "2026-09-18",
+    "discovered": "2026-09-18",
     "last_verified": "2026-09-18"
   },
   "status": "open",

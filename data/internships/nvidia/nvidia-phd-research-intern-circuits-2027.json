@@ -1,20 +1,25 @@
 {
   "schema_version": "1.0",
-  "id": "goldman-sachs-summer-analyst-intern-engineering-2027-3e3ccf",
+  "id": "nvidia-phd-research-intern-circuits-2027",
   "company": {
-    "name": "Goldman Sachs",
-    "slug": "goldman-sachs"
+    "name": "NVIDIA",
+    "slug": "nvidia"
   },
-  "role": "Summer Analyst Intern - Engineering",
-  "category": "software-engineering",
-  "apply_url": "https://higher.gs.com/roles/177808?type=students",
+  "role": "PhD Research Intern - Circuits",
+  "category": "research",
+  "apply_url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Circuits---2027_JR2024174",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Seattle",
-      "state": "WA",
+      "city": "Santa Clara",
+      "state": "CA",
+      "country": "USA"
+    },
+    {
+      "city": "Durham",
+      "state": "NC",
       "country": "USA"
     }
   ],
@@ -26,7 +31,7 @@
   "eligibility": {
     "graduation_years": [],
     "degree_levels": [
-      "masters"
+      "phd"
     ],
     "citizenship_required": false,
     "security_clearance_required": false,
@@ -42,8 +47,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-15",
-    "discovered": "2026-09-06",
+    "posted": "2026-09-13",
+    "discovered": "2026-09-18",
     "last_verified": "2026-09-18"
   },
   "status": "open",

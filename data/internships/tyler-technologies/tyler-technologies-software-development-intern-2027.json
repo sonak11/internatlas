@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "waymo-2027-summer-intern-phd-data-science-2027",
+  "id": "tyler-technologies-software-development-intern-2027",
   "company": {
-    "name": "Waymo",
-    "slug": "waymo",
-    "career_page": "https://waymo.com/careers"
+    "name": "Tyler Technologies",
+    "slug": "tyler-technologies"
   },
-  "role": "2027 Summer Intern, PhD, Data Science",
-  "category": "data-science",
-  "apply_url": "https://careers.withwaymo.com/jobs?gh_jid=8199365",
+  "role": "Software Development Intern",
+  "category": "software-engineering",
+  "apply_url": "https://jobs.jobvite.com/tylertech/job/oAVOAfwD?nl=1&nl=1&fr=false",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "San Francisco",
+      "city": "Lawrenceville",
+      "state": "GA",
       "country": "USA"
     }
   ],
@@ -47,6 +47,6 @@
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:ats"
+    "src:simplify"
   ]
 }

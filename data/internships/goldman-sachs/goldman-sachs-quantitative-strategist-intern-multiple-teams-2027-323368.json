@@ -1,21 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "goldman-sachs-summer-analyst-intern-engineering-2027-3e3ccf",
+  "id": "goldman-sachs-quantitative-strategist-intern-multiple-teams-2027-323368",
   "company": {
     "name": "Goldman Sachs",
     "slug": "goldman-sachs"
   },
-  "role": "Summer Analyst Intern - Engineering",
-  "category": "software-engineering",
-  "apply_url": "https://higher.gs.com/roles/177808?type=students",
+  "role": "Quantitative Strategist Intern - Multiple Teams",
+  "category": "quant",
+  "apply_url": "https://higher.gs.com/roles/175424?type=students",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Seattle",
-      "state": "WA",
-      "country": "USA"
+      "city": "London",
+      "country": "UK"
     }
   ],
   "compensation": {
@@ -25,9 +24,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -43,7 +40,7 @@
   },
   "dates": {
     "posted": "2026-08-15",
-    "discovered": "2026-09-06",
+    "discovered": "2026-09-18",
     "last_verified": "2026-09-18"
   },
   "status": "open",
