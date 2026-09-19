@@ -1,20 +1,19 @@
 {
   "schema_version": "1.0",
-  "id": "deloitte-ai-innovation-summer-scholar-intern-ai-innovation-2027",
+  "id": "centene-analytics-intern-2027",
   "company": {
-    "name": "Deloitte",
-    "slug": "deloitte"
+    "name": "Centene",
+    "slug": "centene"
   },
-  "role": "AI Innovation Summer Scholar Intern - AI Innovation",
-  "category": "ai",
-  "apply_url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Summer-Scholar-AI-Innovation/364696",
+  "role": "Analytics Intern",
+  "category": "software-engineering",
+  "apply_url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-FL/Centene-2027-Graduate-Summer-Intern_1660479",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "McLean",
-      "state": "VA",
+      "city": "Florida",
       "country": "USA"
     }
   ],
@@ -40,11 +39,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-27",
-    "discovered": "2026-08-28",
+    "posted": "2026-09-18",
+    "discovered": "2026-09-19",
     "last_verified": "2026-09-19"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

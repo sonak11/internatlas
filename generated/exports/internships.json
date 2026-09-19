@@ -1,6 +1,6 @@
 {
   "generated": "2026-09-19",
-  "count": 4907,
+  "count": 4909,
   "internships": [
     {
       "schema_version": "1.0",
@@ -1277,7 +1277,7 @@
         "discovered": "2026-09-16",
         "last_verified": "2026-09-19"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -15724,7 +15724,7 @@
         "discovered": "2026-09-11",
         "last_verified": "2026-09-19"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -25331,6 +25331,61 @@
       "dates": {
         "posted": "2026-09-14",
         "discovered": "2026-09-15",
+        "last_verified": "2026-09-19"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "axiom-space-software-engineer-intern-2027",
+      "company": {
+        "name": "Axiom Space",
+        "slug": "axiom-space"
+      },
+      "role": "Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://axiomspace.wd5.myworkdayjobs.com/External_Career_Site/job/Software-Engineering-Intern--Summer-2026-_JR100691",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Houston",
+          "state": "TX",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters",
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-17",
+        "discovered": "2026-09-19",
         "last_verified": "2026-09-19"
       },
       "status": "open",
@@ -46533,6 +46588,57 @@
     },
     {
       "schema_version": "1.0",
+      "id": "centene-analytics-intern-2027",
+      "company": {
+        "name": "Centene",
+        "slug": "centene"
+      },
+      "role": "Analytics Intern",
+      "category": "software-engineering",
+      "apply_url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-FL/Centene-2027-Graduate-Summer-Intern_1660479",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Florida",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-18",
+        "discovered": "2026-09-19",
+        "last_verified": "2026-09-19"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "centene-data-and-analytics-intern-undergraduate-2027",
       "company": {
         "name": "Centene",
@@ -65492,7 +65598,7 @@
         "discovered": "2026-08-28",
         "last_verified": "2026-09-19"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -72183,7 +72289,7 @@
         "discovered": "2026-09-01",
         "last_verified": "2026-09-19"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -92631,7 +92737,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-19"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -92682,7 +92788,7 @@
         "discovered": "2026-09-19",
         "last_verified": "2026-09-19"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -92941,7 +93047,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-19"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -114790,7 +114896,7 @@
         "discovered": "2026-09-10",
         "last_verified": "2026-09-19"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -131533,7 +131639,7 @@
         "discovered": "2026-09-09",
         "last_verified": "2026-09-19"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -160194,7 +160300,7 @@
         "discovered": "2026-09-18",
         "last_verified": "2026-09-19"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -190271,7 +190377,7 @@
         "discovered": "2026-08-25",
         "last_verified": "2026-09-19"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -190426,7 +190532,7 @@
         "discovered": "2026-08-18",
         "last_verified": "2026-09-19"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -190581,7 +190687,7 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-09-19"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -194028,7 +194134,7 @@
         "discovered": "2026-09-18",
         "last_verified": "2026-09-19"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -195742,7 +195848,7 @@
         "discovered": "2026-08-05",
         "last_verified": "2026-09-19"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"

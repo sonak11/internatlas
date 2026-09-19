@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "deloitte-ai-innovation-summer-scholar-intern-ai-innovation-2027",
+  "id": "axiom-space-software-engineer-intern-2027",
   "company": {
-    "name": "Deloitte",
-    "slug": "deloitte"
+    "name": "Axiom Space",
+    "slug": "axiom-space"
   },
-  "role": "AI Innovation Summer Scholar Intern - AI Innovation",
-  "category": "ai",
-  "apply_url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Summer-Scholar-AI-Innovation/364696",
+  "role": "Software Engineer Intern",
+  "category": "software-engineering",
+  "apply_url": "https://axiomspace.wd5.myworkdayjobs.com/External_Career_Site/job/Software-Engineering-Intern--Summer-2026-_JR100691",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "McLean",
-      "state": "VA",
+      "city": "Houston",
+      "state": "TX",
       "country": "USA"
     }
   ],
@@ -25,7 +25,10 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "masters",
+      "phd"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -40,11 +43,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-27",
-    "discovered": "2026-08-28",
+    "posted": "2026-09-17",
+    "discovered": "2026-09-19",
     "last_verified": "2026-09-19"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

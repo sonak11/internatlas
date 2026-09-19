@@ -33,7 +33,7 @@ _Generated 2026-09-19_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 2909 | `███████████████` |
+| software-engineering | 2911 | `███████████████` |
 | ai | 391 | `██` |
 | quant | 299 | `██` |
 | machine-learning | 211 | `█` |
@@ -60,6 +60,7 @@ _Generated 2026-09-19_
 - 2026-09-18 — **American Family Insurance Group**: [Internal Data and Analytics Intern - Summer 2027](https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/Internal-Data-and-Analytics-Intern---Summer-2027_R39401)
 - 2026-09-18 — **Athene**: [Software Developer Intern](https://athene.wd5.myworkdayjobs.com/athene_careers/job/West-Des-Moines-Iowa/Software-Developer-Internship-_R255125)
 - 2026-09-18 — **Belden**: [R&D Cable Intern](https://careers.belden.com/job/Carmel-R&D-Cable-Internship-IN-46032/1431653800/?ats=successfactors)
+- 2026-09-18 — **Centene**: [Analytics Intern](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-FL/Centene-2027-Graduate-Summer-Intern_1660479)
 - 2026-09-18 — **Centene**: [Data and Analytics Intern - Undergraduate](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Data-and-Analytics-Summer-2027-Intern--Undergraduate-_1660515)
 - 2026-09-18 — **CME Group**: [Software Engineering Intern - Summer 2027](https://cmegroup.wd1.myworkdayjobs.com/en-US/cme_careers/job/Chicago---20-S-Wacker/Software-Engineering-Internship---Summer-2027_34821)
 - 2026-09-18 — **CoBank**: [Software Engineer Intern](https://careers.cobank.com/jobs/7940?icims=1)
@@ -68,13 +69,13 @@ _Generated 2026-09-19_
 - 2026-09-18 — **Cotiviti**: [Generative AI Research Engineer Intern](https://careers-cotiviti.icims.com/jobs/20183/job?mobile=true&needsRedirect=false)
 - 2026-09-18 — **Eaton**: [R&D Engineer Intern - Research & Development Engineering](https://eaton.eightfold.ai/careers/job/687239185039)
 - 2026-09-18 — **Echelon Insights**: [Fellow Intern](https://echelon.applytojob.com/apply/1OQKKfWvRO/Echelon-Fellowship-Internship-Spring-2027)
-- 2026-09-18 — **Formlabs**: [Hardware Test Engineer Intern](https://careers.formlabs.com/job/8196515/apply/?gh_jid=8196515)
 
 ## Recently closed
 
 - AArete — Business Analytics Intern - Summer 2027
 - ABB — Physical AI Robotics Simulation Intern
 - Acumatica — AI & Automation Intern - Office of the CFO
+- Acxiom — Data Engineer Intern
 - Aerotech — Electrical/Computer Engineering Intern Co-op
 - Albedo — Electrical Engineer Intern
 - Allen Control Systems — Systems Engineering Intern
@@ -84,6 +85,7 @@ _Generated 2026-09-19_
 - Amazon — Quantum Applied Science Intern - Center for Quantum Computing
 - AMD — Research Engineer Intern/Co-op - AMD Research
 - AMD — Research Engineering Intern/Co-op - AMD Research
+- Amgen — Data Scientist Intern - Amgen’s Technology & Medical Organizations
 - Amgen — Operations Graduate Program Intern - Operations
 - AnaVation — Computer Science Intern
 - AnaVation — Computer Science Intern - Summer Program
@@ -146,11 +148,11 @@ _Generated 2026-09-19_
 - Definity Financial — Data Specialist Co-op Intern - Claim Operations Management
 - Dell Technologies — Software Engineer Intern - Client Solutions Group Engineering
 - Dell Technologies — Software Engineering Intern
+- Deloitte — AI Innovation Summer Scholar Intern - AI Innovation
 - Dick's Sporting Goods — Data Analytics & Engineering Intern
 - DiDi Global — Motion Planning Engineer Intern - PhD
 - DoorDash — Product Designer, Intern (Summer 2027)
 - Ecolab — Research and Development Intern
-- Edison International — Summer Internship - Data Analytics/Science/Applied Math
 - Enact Mortgage Insurance — Commercial Analytics and Optimization Team Intern
 - Enact Mortgage Insurance — Data Science Intern
 - Enact Mortgage Insurance — Software Engineer Intern
@@ -185,8 +187,11 @@ _Generated 2026-09-19_
 - Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
 - Goldman Sachs — Quantitative Strategist Intern - Americas
 - Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats
 - Goldman Sachs — Quantitative Strategist Intern - Investment Banking
 - Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
+- Goldman Sachs — Quantitative Strats Analyst Intern - Americas - Investment Banking
 - Goldman Sachs — Summer Analyst Intern
 - Goldman Sachs — Summer Analyst Intern - Americas - AWM Product Management
 - Goldman Sachs — Summer Analyst Intern - Americas - Engineering
@@ -222,7 +227,6 @@ _Generated 2026-09-19_
 - Intelcom \| Dragonfly — Operations Analyst Intern
 - Interco — Software Development Intern - React
 - ISN Software — Product Strategy Intern
-- Johns Hopkins Applied Physics Laboratory — AI & Data Science Intern - Analytic Capabilities
 - Jump Trading — Campus Trading Team Software Engineer  (Intern)
 - Kirin — Quantitative Research Intern - Prediction Markets
 - KPMG — Product Specialist Intern Co-op - Asset Management Digital Solutions
@@ -238,7 +242,6 @@ _Generated 2026-09-19_
 - Marquee Brands — Consumer Insights Intern
 - Marsh — Summer Analyst Intern - Data and Analytics
 - Marsh & McLennan — Data & Analytics Intern - Data & Analytics
-- Marvell — Advanced Packaging Intern
 - Mary Free Bed Rehabilitation Hospital — IT Intern - Project Management
 - Mastercard — Software Engineer Intern
 - Medline — Software Development Intern - Summer 2027
@@ -290,7 +293,6 @@ _Generated 2026-09-19_
 - NVIDIA — Robotics Intern - Ph.D. Research
 - NXP Semiconductors — AI/ML ASIC Design and Implementation Automation Intern - Summer 2027
 - NXP Semiconductors — Functional Safety Intern
-- OCC — Quantitative Risk Management Intern
 - OCC — Software Engineering Intern - UI/UX
 - ONE Finance — AI Research Intern
 - ONE Finance — Software Engineer Intern
@@ -313,9 +315,6 @@ _Generated 2026-09-19_
 - Royal Bank of Canada — Business Analyst Intern - AI Innovation
 - Royal Bank of Canada — Financial Crimes Quality Assurance Intern - Grm
 - RTX — Artificial Intelligence / Machine Learning Methods Intern
-- RTX — Business Intelligence and Governance Analyst Intern
-- RTX — Conversion Systems Engineer 1 Intern
-- RTX — Data Analyst Intern - Global Sales
 - RTX — Data Science and Advanced Analytics Intern
 - RTX — Electrical Engineer Intern
 - RTX — Electrical Engineer Intern - RDP
@@ -333,6 +332,8 @@ _Generated 2026-09-19_
 - RTX — Software Engineer Intern
 - RTX — Software Engineer Intern
 - RTX — Software Engineer Intern
+- RTX — Software Engineer Intern
+- RTX — Software Engineer Intern - Summer 2027
 - RTX — Software Engineer Intern - Summer 2027
 - RTX — Software Engineer Intern - Summer/Fall 2027 - Mission Engineering / Operational Analysis
 - RTX — Spectrum Dominance Intern
