@@ -33,14 +33,14 @@ _Generated 2026-09-19_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 2908 | `███████████████` |
-| ai | 390 | `██` |
-| quant | 299 | `██` |
+| software-engineering | 2909 | `███████████████` |
+| ai | 391 | `██` |
+| quant | 300 | `██` |
 | machine-learning | 210 | `█` |
 | hardware | 191 | `█` |
 | data-science | 179 | `█` |
 | research | 160 | `█` |
-| product | 158 | `█` |
+| product | 159 | `█` |
 | design | 128 | `█` |
 | embedded | 113 | `█` |
 | data-engineering | 87 | `█` |
@@ -49,6 +49,8 @@ _Generated 2026-09-19_
 
 ## Newest listings
 
+- 2026-09-19 — **Bot Auto**: [Software Engineer Intern - AI Agents](https://job-boards.greenhouse.io/botauto/jobs/5429357008)
+- 2026-09-19 — **Epic Games**: [Tools Programmer Intern](https://epicgames.com/careers/jobs/6200355004?gh_jid=6200355004)
 - 2026-09-18 — **Altar'd State**: [IT Analytics Intern](https://standoutforgood.wd12.myworkdayjobs.com/StandOutForGood/job/Knoxville-TN/Spring-2027-IT-Analytics-Intern_SOSJ12499)
 - 2026-09-18 — **Amazon**: [Software Development Engineer Intern - Summer 2027](https://amazon.jobs/en/jobs/10553947/software-development-engineer-intern-summer-2027-can)
 - 2026-09-18 — **Amazon**: [Software Development Engineer Intern - Summer](https://amazon.jobs/en/jobs/10552937/software-development-engineer-internship-summer-2027-usa)
@@ -67,11 +69,10 @@ _Generated 2026-09-19_
 - 2026-09-18 — **Formlabs**: [Hardware Test Engineer Intern](https://careers.formlabs.com/job/8196515/apply/?gh_jid=8196515)
 - 2026-09-18 — **Gemini**: [Product Management Intern](https://boards.greenhouse.io/embed/job_app?for=gemini&token=8214332&gh_jid=8214332)
 - 2026-09-18 — **Gemini**: [Software Engineer Intern](https://boards.greenhouse.io/embed/job_app?for=gemini&token=8214272&gh_jid=8214272)
-- 2026-09-18 — **General Motors**: [Product Management Intern - Digital Product](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Digital-Product--Product-Management--MBA-_JR-202620538)
-- 2026-09-18 — **Gordon Food Service**: [Category Insights Analyst Intern](https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Wyoming-Michigan/NA-Category-Insights-Analyst-Intern_R-57366-1)
 
 ## Recently closed
 
+- AArete — Business Analytics Intern - Summer 2027
 - ABB — Physical AI Robotics Simulation Intern
 - Acumatica — AI & Automation Intern - Office of the CFO
 - Aerotech — Electrical/Computer Engineering Intern Co-op
@@ -123,9 +124,7 @@ _Generated 2026-09-19_
 - CesiumAstro — Test Engineer Intern
 - CHAOS Industries — Electrical Engineer Intern - Summer 2027
 - CHAOS Industries — Software Engineer Intern
-- Charles Schwab — Data Engineering Intern - Data Engineering
 - Charles Schwab — Product Management Intern - Thinkorswim
-- Charles Schwab — Software Engineering Intern - Technology
 - Chevron — Previous Intern - Information Technology - Information and Analytics
 - Ciena — Wavelogic Systems Design Architecture Intern
 - Citadel — Trader: Fixed Income & Macro Intern
@@ -180,34 +179,8 @@ _Generated 2026-09-19_
 - GlobalFoundries — RF Technology Development Automation Engineer Intern - Summer 2027
 - GlobalFoundries — Silicon Photonics Advanced Packaging Intern
 - GlobalFoundries — Systems Engineer Intern
-- Goldman Sachs — Associate Intern - The Core Quantitative Strats
-- Goldman Sachs — AWM Product Management Analyst Intern
-- Goldman Sachs — Quantitative Strategist Associate Intern - Asset and Wealth Management
-- Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Americas
-- Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Investment Banking
-- Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
-- Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
-- Goldman Sachs — Quantitative Strats Analyst Intern - Americas - Investment Banking
-- Goldman Sachs — Summer Analyst Intern
 - Goldman Sachs — Summer Analyst Intern - Americas - AWM Product Management
-- Goldman Sachs — Summer Analyst Intern - Americas - Engineering
-- Goldman Sachs — Summer Analyst Intern - Americas - Engineering
-- Goldman Sachs — Summer Analyst Intern - Americas - Engineering
-- Goldman Sachs — Summer Analyst Intern - Americas - Investment Banking Quantitative Strats
-- Goldman Sachs — Summer Analyst Intern - Engineering
-- Goldman Sachs — Summer Analyst Intern - Engineering
-- Goldman Sachs — Summer Analyst Intern - FICC and Equities - Sales and Trading
-- Goldman Sachs — Summer Analyst Intern - The Core Quantitative Strats
 - Goldman Sachs — Summer Analyst Intern - Wealth Management - Product Management and Design
-- Goldman Sachs — Summer Analyst Intern - Wealth Management - Quantitative Finance
-- Goldman Sachs — Summer Associate Intern
-- Goldman Sachs — Summer Associate Intern - Multiple Teams
 - Gulfstream — AI Product Collegiate Associate Intern
 - Gulfstream — Azure AI Collegiate Associate Intern
 - Gulfstream — Flight Sciences / Mass Properties College Intern - IEF
@@ -280,6 +253,7 @@ _Generated 2026-09-19_
 - Nokia — Tools and Automation Software Developer Co-op/Intern
 - Nomagic — Engineering Intern - Software or Hardware
 - North Atlantic Industries — Electrical Engineer Intern - Test Systems
+- Northrop Grumman — Cyber Software Engineer Intern
 - Northrop Grumman — Data Analytics Intern
 - Northrop Grumman — Software Engineer Intern
 - NVIDIA — Autonomous Vehicles and Robotics Intern
@@ -332,9 +306,9 @@ _Generated 2026-09-19_
 - RTX — Software Engineer Intern
 - RTX — Software Engineer Intern
 - RTX — Software Engineer Intern
+- RTX — Software Engineer Intern
 - RTX — Software Engineer Intern - Summer 2027
 - RTX — Software Engineer Intern - Summer/Fall 2027 - Mission Engineering / Operational Analysis
-- RTX — Software Engineering Intern
 - RTX — Spectrum Dominance Intern
 - RTX — Systems Engineer 1 Intern - Intern Conversion
 - RTX — Technical Publications Technical Developer Intern - Artificial Intelligence/Machine Learning
@@ -429,6 +403,7 @@ _Generated 2026-09-19_
 - Vanguard — Technical Product Manager Intern
 - Verizon Communications — AI/ML Engineering Intern - Consumer Group
 - Walmart — Data Scientist 3 Intern - 2026 Intern Conversion: 2027 FT
+- Wealthsimple — Software Development Intern / Data Science Intern - Multiple Teams
 - Wells Fargo — Applied Computational Intelligence Intern - ACI Masters - Early Careers
 - Wells Fargo — Quantitative Analytics Intern - Applied Computational Intelligence
 - Wells Fargo — Quantitative Analytics Intern - Applied Computational Intelligence

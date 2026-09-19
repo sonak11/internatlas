@@ -1,6 +1,6 @@
 {
   "generated": "2026-09-19",
-  "count": 4901,
+  "count": 4905,
   "internships": [
     {
       "schema_version": "1.0",
@@ -207,7 +207,7 @@
         "discovered": "2026-09-05",
         "last_verified": "2026-09-19"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -36456,6 +36456,60 @@
     },
     {
       "schema_version": "1.0",
+      "id": "bot-auto-software-engineer-intern-ai-agents-2026",
+      "company": {
+        "name": "Bot Auto",
+        "slug": "bot-auto"
+      },
+      "role": "Software Engineer Intern - AI Agents",
+      "category": "ai",
+      "apply_url": "https://job-boards.greenhouse.io/botauto/jobs/5429357008",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Houston",
+          "state": "TX",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-19",
+        "discovered": "2026-09-19",
+        "last_verified": "2026-09-19"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "bp-commercial-intern-supply-trading-shipping-2027",
       "company": {
         "name": "BP",
@@ -47752,9 +47806,9 @@
       "dates": {
         "posted": "2026-08-29",
         "discovered": "2026-08-29",
-        "last_verified": "2026-09-14"
+        "last_verified": "2026-09-19"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -47881,9 +47935,9 @@
       "dates": {
         "posted": "2026-08-29",
         "discovered": "2026-08-29",
-        "last_verified": "2026-09-14"
+        "last_verified": "2026-09-19"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -74805,6 +74859,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "epic-games-tools-programmer-intern-2027",
+      "company": {
+        "name": "Epic Games",
+        "slug": "epic-games"
+      },
+      "role": "Tools Programmer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://epicgames.com/careers/jobs/6200355004?gh_jid=6200355004",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Cary",
+          "state": "NC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-19",
+        "discovered": "2026-09-19",
+        "last_verified": "2026-09-19"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "epic-games-web-engineer-intern-tools-portals-2026",
       "company": {
         "name": "Epic Games",
@@ -92032,9 +92138,9 @@
       "dates": {
         "posted": "2026-08-15",
         "discovered": "2026-08-27",
-        "last_verified": "2026-09-18"
+        "last_verified": "2026-09-19"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -92086,7 +92192,7 @@
         "discovered": "2026-08-20",
         "last_verified": "2026-09-19"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -92139,7 +92245,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-09-19"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -92192,7 +92298,7 @@
         "discovered": "2026-09-18",
         "last_verified": "2026-09-19"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -92245,7 +92351,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-09-19"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -92295,9 +92401,9 @@
       "dates": {
         "posted": "2026-08-15",
         "discovered": "2026-09-04",
-        "last_verified": "2026-09-17"
+        "last_verified": "2026-09-19"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -92349,7 +92455,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-19"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -92401,9 +92507,9 @@
       "dates": {
         "posted": "2026-08-15",
         "discovered": "2026-09-16",
-        "last_verified": "2026-09-17"
+        "last_verified": "2026-09-19"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -92456,7 +92562,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-19"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -92464,7 +92570,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "goldman-sachs-quantitative-strategist-intern-asset-and-wealth-management-q-2027",
+      "id": "goldman-sachs-quantitative-strategist-intern-asset-and-wealth-management-q-2027-0ac951",
       "company": {
         "name": "Goldman Sachs",
         "slug": "goldman-sachs"
@@ -92479,6 +92585,58 @@
         {
           "city": "London",
           "country": "UK"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-15",
+        "discovered": "2026-09-19",
+        "last_verified": "2026-09-19"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "goldman-sachs-quantitative-strategist-intern-asset-and-wealth-management-q-2027",
+      "company": {
+        "name": "Goldman Sachs",
+        "slug": "goldman-sachs"
+      },
+      "role": "Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats",
+      "category": "quant",
+      "apply_url": "https://higher.gs.com/roles/171549?type=students",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Salt Lake City",
+          "state": "UT",
+          "country": "USA"
         }
       ],
       "compensation": {
@@ -92509,7 +92667,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-19"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -92560,7 +92718,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-19"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -92611,7 +92769,7 @@
         "discovered": "2026-09-18",
         "last_verified": "2026-09-19"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -92662,7 +92820,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-09-19"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -92714,7 +92872,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-19"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -92765,7 +92923,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-19"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -92869,7 +93027,7 @@
         "discovered": "2026-09-17",
         "last_verified": "2026-09-19"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -92921,7 +93079,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-19"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -92972,7 +93130,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-19"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -93025,7 +93183,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-19"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -93079,7 +93237,7 @@
         "discovered": "2026-09-06",
         "last_verified": "2026-09-19"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -93133,7 +93291,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-19"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -93148,13 +93306,13 @@
       },
       "role": "Summer Analyst Intern - Engineering",
       "category": "software-engineering",
-      "apply_url": "https://higher.gs.com/roles/170644?type=students",
+      "apply_url": "https://higher.gs.com/roles/170637?type=students",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
       "locations": [
         {
-          "city": "London",
+          "city": "Birmingham",
           "country": "UK"
         }
       ],
@@ -93240,7 +93398,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-09-19"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -93342,7 +93500,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-19"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -93444,7 +93602,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-19"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -93497,7 +93655,7 @@
         "discovered": "2026-08-29",
         "last_verified": "2026-09-19"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -93550,7 +93708,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-09-19"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -154195,7 +154353,7 @@
         "discovered": "2026-09-16",
         "last_verified": "2026-09-19"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -193642,7 +193800,7 @@
         "discovered": "2026-09-16",
         "last_verified": "2026-09-19"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -195532,14 +195690,14 @@
       },
       "role": "Software Engineering Intern",
       "category": "software-engineering",
-      "apply_url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MN-BURNSVILLE-WEST--14300-Judicial-Rd--WEST-BLDG/Software-Engineering-Intern--Summer-2027-_01872977",
+      "apply_url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Software-Engineering-Intern--Summer-2027-_01875780",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
       "locations": [
         {
-          "city": "Burnsville",
-          "state": "MN",
+          "city": "Sterling",
+          "state": "VA",
           "country": "USA"
         }
       ],
@@ -195567,11 +195725,11 @@
         "resume_keywords": []
       },
       "dates": {
-        "posted": "2026-09-10",
+        "posted": "2026-09-18",
         "discovered": "2026-08-11",
-        "last_verified": "2026-09-16"
+        "last_verified": "2026-09-19"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -250185,6 +250343,61 @@
     },
     {
       "schema_version": "1.0",
+      "id": "usaa-digital-technical-product-manager-intern-digital-and-omnicha-2027",
+      "company": {
+        "name": "USAA",
+        "slug": "usaa"
+      },
+      "role": "Digital/Technical Product Manager Intern - Digital and Omnichannel Servicing",
+      "category": "product",
+      "apply_url": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/Operations---Digital-Technical-Product-Manager-Intern_R0121101",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Antonio",
+          "state": "TX",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters",
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-18",
+        "discovered": "2026-09-19",
+        "last_verified": "2026-09-19"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "usaa-product-management-analyst-intern-property-and-casualty-2027",
       "company": {
         "name": "USAA",
@@ -259569,7 +259782,7 @@
         "discovered": "2026-09-01",
         "last_verified": "2026-09-19"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"

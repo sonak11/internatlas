@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "goldman-sachs-quantitative-strategist-intern-asset-and-wealth-management-q-2027",
+  "id": "bot-auto-software-engineer-intern-ai-agents-2026",
   "company": {
-    "name": "Goldman Sachs",
-    "slug": "goldman-sachs"
+    "name": "Bot Auto",
+    "slug": "bot-auto"
   },
-  "role": "Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats",
-  "category": "quant",
-  "apply_url": "https://higher.gs.com/roles/171549?type=students",
-  "season": "summer",
-  "year": 2027,
+  "role": "Software Engineer Intern - AI Agents",
+  "category": "ai",
+  "apply_url": "https://job-boards.greenhouse.io/botauto/jobs/5429357008",
+  "season": "fall",
+  "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Salt Lake City",
-      "state": "UT",
+      "city": "Houston",
+      "state": "TX",
       "country": "USA"
     }
   ],
@@ -42,8 +42,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-15",
-    "discovered": "2026-09-04",
+    "posted": "2026-09-19",
+    "discovered": "2026-09-19",
     "last_verified": "2026-09-19"
   },
   "status": "open",
