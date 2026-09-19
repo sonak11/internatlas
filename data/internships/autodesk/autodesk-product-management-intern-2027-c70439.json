@@ -1,21 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "goldman-sachs-quantitative-strategist-intern-asset-and-wealth-management-q-2027",
+  "id": "autodesk-product-management-intern-2027-c70439",
   "company": {
-    "name": "Goldman Sachs",
-    "slug": "goldman-sachs"
+    "name": "Autodesk",
+    "slug": "autodesk"
   },
-  "role": "Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats",
-  "category": "quant",
-  "apply_url": "https://higher.gs.com/roles/171549?type=students",
-  "season": "summer",
+  "role": "Product Management Intern",
+  "category": "product",
+  "apply_url": "https://autodesk.wd1.myworkdayjobs.com/uni/job/Montreal-QC-CAN/Product-Management-Intern--Stagiaire-Gestion-de-Produit_26WD101135-1",
+  "season": "winter",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Salt Lake City",
-      "state": "UT",
-      "country": "USA"
+      "city": "Montreal",
+      "country": "QC"
     }
   ],
   "compensation": {
@@ -42,8 +41,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-15",
-    "discovered": "2026-09-04",
+    "posted": "2026-09-19",
+    "discovered": "2026-09-19",
     "last_verified": "2026-09-19"
   },
   "status": "open",

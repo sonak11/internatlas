@@ -39,8 +39,8 @@ _Generated 2026-09-19_
 | machine-learning | 211 | `█` |
 | hardware | 192 | `█` |
 | data-science | 179 | `█` |
+| product | 161 | `█` |
 | research | 161 | `█` |
-| product | 159 | `█` |
 | design | 128 | `█` |
 | embedded | 113 | `█` |
 | data-engineering | 87 | `█` |
@@ -49,6 +49,8 @@ _Generated 2026-09-19_
 
 ## Newest listings
 
+- 2026-09-19 — **Autodesk**: [Product Management Intern](https://autodesk.wd1.myworkdayjobs.com/uni/job/Montreal-QC-CAN/Product-Management-Intern--Stagiaire-Gestion-de-Produit_26WD101135-1)
+- 2026-09-19 — **Autodesk**: [Product Management Intern](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Product-Management-Intern--Stagiaire-Gestion-de-Produit_26WD101135-2)
 - 2026-09-19 — **Bot Auto**: [Software Engineer Intern - AI Agents](https://job-boards.greenhouse.io/botauto/jobs/5429357008)
 - 2026-09-19 — **DatologyAI**: [Research Intern](https://jobs.ashbyhq.com/DatologyAI/0ced19c2-21ec-4bcc-92d2-68d448279f3f/application?embed=true)
 - 2026-09-19 — **Epic Games**: [Tools Programmer Intern](https://epicgames.com/careers/jobs/6200355004?gh_jid=6200355004)
@@ -67,8 +69,6 @@ _Generated 2026-09-19_
 - 2026-09-18 — **Cogna**: [Software Engineer Intern](https://apply.workable.com/cogna/j/45A6283F88/apply)
 - 2026-09-18 — **Corning**: [Imaging Sciences Engineer Intern](https://corningjobs.corning.com/job/Keene-Imaging-Sciences-Engineering-Intern-Summer-2027-NH-03431/1431391900/?ats=successfactors)
 - 2026-09-18 — **Cotiviti**: [Generative AI Research Engineer Intern](https://careers-cotiviti.icims.com/jobs/20183/job?mobile=true&needsRedirect=false)
-- 2026-09-18 — **Eaton**: [R&D Engineer Intern - Research & Development Engineering](https://eaton.eightfold.ai/careers/job/687239185039)
-- 2026-09-18 — **Echelon Insights**: [Fellow Intern](https://echelon.applytojob.com/apply/1OQKKfWvRO/Echelon-Fellowship-Internship-Spring-2027)
 
 ## Recently closed
 
@@ -181,12 +181,25 @@ _Generated 2026-09-19_
 - GlobalFoundries — RF Technology Development Automation Engineer Intern - Summer 2027
 - GlobalFoundries — Silicon Photonics Advanced Packaging Intern
 - GlobalFoundries — Systems Engineer Intern
-- Goldman Sachs — Associate Intern - The Core Quantitative Strats
+- Goldman Sachs — AWM Product Management Analyst Intern
+- Goldman Sachs — Quantitative Strategist Associate Intern - Asset and Wealth Management
+- Goldman Sachs — Quantitative Strategist Intern - Americas
+- Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Intern - Investment Banking
+- Goldman Sachs — Quantitative Strats Analyst Intern - Americas - Investment Banking
+- Goldman Sachs — Summer Analyst Intern
 - Goldman Sachs — Summer Analyst Intern - Americas - AWM Product Management
-- Goldman Sachs — Summer Analyst Intern - Americas - Investment Banking Quantitative Strats
+- Goldman Sachs — Summer Analyst Intern - Americas - Engineering
+- Goldman Sachs — Summer Analyst Intern - Americas - Engineering
+- Goldman Sachs — Summer Analyst Intern - Americas - Engineering
 - Goldman Sachs — Summer Analyst Intern - Engineering
-- Goldman Sachs — Summer Analyst Intern - FICC and Equities - Sales and Trading
+- Goldman Sachs — Summer Analyst Intern - The Core Quantitative Strats
 - Goldman Sachs — Summer Analyst Intern - Wealth Management - Product Management and Design
+- Goldman Sachs — Summer Analyst Intern - Wealth Management - Quantitative Finance
+- Goldman Sachs — Summer Associate Intern
+- Goldman Sachs — Summer Associate Intern - Multiple Teams
 - Gulfstream — AI Product Collegiate Associate Intern
 - Gulfstream — Azure AI Collegiate Associate Intern
 - Gulfstream — Flight Sciences / Mass Properties College Intern - IEF
