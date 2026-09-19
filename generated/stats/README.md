@@ -35,7 +35,7 @@ _Generated 2026-09-19_
 |---|---|---|
 | software-engineering | 2911 | `███████████████` |
 | ai | 391 | `██` |
-| quant | 299 | `██` |
+| quant | 297 | `██` |
 | machine-learning | 211 | `█` |
 | hardware | 192 | `█` |
 | data-science | 179 | `█` |
@@ -85,7 +85,6 @@ _Generated 2026-09-19_
 - Amazon — Quantum Applied Science Intern - Center for Quantum Computing
 - AMD — Research Engineer Intern/Co-op - AMD Research
 - AMD — Research Engineering Intern/Co-op - AMD Research
-- Amgen — Data Scientist Intern - Amgen’s Technology & Medical Organizations
 - Amgen — Operations Graduate Program Intern - Operations
 - AnaVation — Computer Science Intern
 - AnaVation — Computer Science Intern - Summer Program
@@ -182,27 +181,12 @@ _Generated 2026-09-19_
 - GlobalFoundries — RF Technology Development Automation Engineer Intern - Summer 2027
 - GlobalFoundries — Silicon Photonics Advanced Packaging Intern
 - GlobalFoundries — Systems Engineer Intern
-- Goldman Sachs — AWM Product Management Analyst Intern
-- Goldman Sachs — Quantitative Strategist Associate Intern - Asset and Wealth Management
-- Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Americas
-- Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Investment Banking
-- Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
-- Goldman Sachs — Quantitative Strats Analyst Intern - Americas - Investment Banking
-- Goldman Sachs — Summer Analyst Intern
+- Goldman Sachs — Associate Intern - The Core Quantitative Strats
 - Goldman Sachs — Summer Analyst Intern - Americas - AWM Product Management
-- Goldman Sachs — Summer Analyst Intern - Americas - Engineering
-- Goldman Sachs — Summer Analyst Intern - Americas - Engineering
-- Goldman Sachs — Summer Analyst Intern - Americas - Engineering
+- Goldman Sachs — Summer Analyst Intern - Americas - Investment Banking Quantitative Strats
 - Goldman Sachs — Summer Analyst Intern - Engineering
-- Goldman Sachs — Summer Analyst Intern - The Core Quantitative Strats
+- Goldman Sachs — Summer Analyst Intern - FICC and Equities - Sales and Trading
 - Goldman Sachs — Summer Analyst Intern - Wealth Management - Product Management and Design
-- Goldman Sachs — Summer Analyst Intern - Wealth Management - Quantitative Finance
-- Goldman Sachs — Summer Associate Intern
-- Goldman Sachs — Summer Associate Intern - Multiple Teams
 - Gulfstream — AI Product Collegiate Associate Intern
 - Gulfstream — Azure AI Collegiate Associate Intern
 - Gulfstream — Flight Sciences / Mass Properties College Intern - IEF
@@ -242,6 +226,8 @@ _Generated 2026-09-19_
 - Marquee Brands — Consumer Insights Intern
 - Marsh — Summer Analyst Intern - Data and Analytics
 - Marsh & McLennan — Data & Analytics Intern - Data & Analytics
+- Marvell — Reliability Intern
+- Marvell — Reliability Intern
 - Mary Free Bed Rehabilitation Hospital — IT Intern - Project Management
 - Mastercard — Software Engineer Intern
 - Medline — Software Development Intern - Summer 2027

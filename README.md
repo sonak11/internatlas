@@ -8,7 +8,7 @@
 
 No dead links, no generic careers pages. Just current openings, newest first, with the date each one was posted.
 
-![summer 2027](https://img.shields.io/badge/summer%202027-2752-blue?style=for-the-badge) ![open now](https://img.shields.io/badge/open%20now-2147-brightgreen?style=for-the-badge) ![companies](https://img.shields.io/badge/companies-1214-purple?style=for-the-badge) ![visa sponsors](https://img.shields.io/badge/visa%20sponsors-29-orange?style=for-the-badge) ![remote roles](https://img.shields.io/badge/remote%20roles-80-teal?style=for-the-badge) ![sync](https://img.shields.io/badge/sync-hourly-success?style=for-the-badge) ![updated](https://img.shields.io/badge/updated-2026--09--19%2010:16%20AM%20EDT-lightgrey?style=for-the-badge)
+![summer 2027](https://img.shields.io/badge/summer%202027-2750-blue?style=for-the-badge) ![open now](https://img.shields.io/badge/open%20now-2159-brightgreen?style=for-the-badge) ![companies](https://img.shields.io/badge/companies-1214-purple?style=for-the-badge) ![visa sponsors](https://img.shields.io/badge/visa%20sponsors-29-orange?style=for-the-badge) ![remote roles](https://img.shields.io/badge/remote%20roles-80-teal?style=for-the-badge) ![sync](https://img.shields.io/badge/sync-hourly-success?style=for-the-badge) ![updated](https://img.shields.io/badge/updated-2026--09--19%201:53%20PM%20EDT-lightgrey?style=for-the-badge)
 
 [**📋 Browse listings**](#-summer-2027-internships) · [**🗓 Other terms**](#-other-open-terms) · [**➕ Add one**](CONTRIBUTING.md) · [**🔗 Sources**](SOURCES.md)
 
@@ -27,9 +27,9 @@ No dead links, no generic careers pages. Just current openings, newest first, wi
 
 ## ☀️ Summer 2027 internships
 
-**2752 open right now**, grouped by category with the newest postings first. Every **Role** link goes straight to the live application page; the **Posted** column shows when it went up (`*` = the date we first saw it, when the source didn't publish one).
+**2750 open right now**, grouped by category with the newest postings first. Every **Role** link goes straight to the live application page; the **Posted** column shows when it went up (`*` = the date we first saw it, when the source didn't publish one).
 
-### 💻 Software Engineering (1596 · 1178 open)
+### 💻 Software Engineering (1596 · 1182 open)
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
@@ -594,7 +594,6 @@ No dead links, no generic careers pages. Just current openings, newest first, wi
 | [Xcel Energy](generated/companies/xcel-energy.md) | [Wildfire Analyst Intern](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80205/Wildfire-Analyst-Intern--CO_JR115413-1) | Denver, CO | Onsite | 2026-09-07 | Rolling | 🟢 Open | ❔ |
 | [Marvell](generated/companies/marvell.md) | [Advanced Packaging Intern](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Advanced-Packaging-Intern--MS---Summer-2027_2604519-1) | Austin, TX +5 | Onsite | 2026-09-05 | Rolling | 🟢 Open | ❔ |
 | [Marvell](generated/companies/marvell.md) | [Advanced Packaging Intern](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Advanced-Packaging-Intern--MS---Summer-2027_2604519) | Austin, TX +5 | Onsite | 2026-09-05 | Rolling | 🟢 Open | ❔ |
-| [Marvell](generated/companies/marvell.md) | [Reliability Intern](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Reliability-Intern_2604001) | Santa Clara, CA | Onsite | 2026-09-05 | Rolling | 🟢 Open | ❔ |
 | [Allied Solutions](generated/companies/allied-solutions.md) | [Sales Analytics Intern](https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/Carmel-IN/Sales-Analytics-Intern_R-011098) | Carmel, IN | Onsite | 2026-09-04 | Rolling | 🟢 Open | ❔ |
 | [Amazon](generated/companies/amazon.md) | [Software Development Engineer Intern - Robotics](https://amazon.jobs/en/jobs/10529525/software-development-engineer-intern-robotics-2027) | Seattle, WA +6 | Onsite | 2026-09-04 | Rolling | 🟢 Open | ❔ |
 | [Apex](generated/companies/apex.md) | [Simulation Software Engineering Intern](https://jobs.ashbyhq.com/apex-technology-inc/d3e21f84-3637-4521-833d-fd07b3ca5f2e/application?embed=true) | LA | Onsite | 2026-09-04 | Rolling | 🟢 Open | ❔ |
@@ -626,7 +625,6 @@ No dead links, no generic careers pages. Just current openings, newest first, wi
 | [Marvell](generated/companies/marvell.md) | [Functional Validation Intern - BS](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Westborough-MA/Functional-Validation-Intern--BS---Summer-2027_2604514-1) | Santa Clara, CA +2 | Onsite | 2026-09-04 | Rolling | 🟢 Open | ❔ |
 | [Marvell](generated/companies/marvell.md) | [IC Validation Engineer Intern - MS - Multiple Teams](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/IC-Validation-Engineer-Intern--MS---Summer-2027_2604515) | Irvine, CA +2 | Onsite | 2026-09-04 | Rolling | 🟢 Open | ❔ |
 | [Marvell](generated/companies/marvell.md) | [IC Validation Engineer Intern - MS - Multiple Teams](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/IC-Validation-Engineer-Intern--MS---Summer-2027_2604515-1) | Irvine, CA +2 | Onsite | 2026-09-04 | Rolling | 🟢 Open | ❔ |
-| [Marvell](generated/companies/marvell.md) | [Reliability Intern](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Reliability-Intern_2604001-1) | Santa Clara, CA | Onsite | 2026-09-04 | Rolling | 🟢 Open | ❔ |
 | [Motorola](generated/companies/motorola.md) | [Test Engineer Intern](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Greater-Chicago-Area/Test-Engineering-Internship-2027_R68059) | Illinois | Onsite | 2026-09-04 | Rolling | 🟢 Open | ❔ |
 | [Nationwide](generated/companies/nationwide.md) | [Analytic Consulting Advisor Intern](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Metro/Summer-2027-Analytic-Consulting-Advisor-Internship_100235) | Columbus, OH | Onsite | 2026-09-04 | Rolling | 🟢 Open | ❔ |
 | [Nationwide](generated/companies/nationwide.md) | [Feature Engineer Intern - Enterprise Analytics Office](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Metro/Summer-2027-Feature-Engineer-Internship_100233) | Columbus, OH | Onsite | 2026-09-04 | Rolling | 🟢 Open | ❔ |
@@ -1015,8 +1013,14 @@ No dead links, no generic careers pages. Just current openings, newest first, wi
 | [WEC Energy Group](generated/companies/wec-energy-group.md) | [Energy Analytics Intern](https://careers.wecenergygroup.com/We_Energies/job/Milwaukee-Intern-Energy-Analytics-WI-53203/1420267800/?ats=successfactors) | Milwaukee, WI | Onsite | 2026-08-17 | Rolling | 🟢 Open | ❔ |
 | [ByteDance](generated/companies/bytedance.md) | [Software Engineer Intern - Global Traffic Architecture](https://jobs.bytedance.com/en/position/7672557061679483189/detail) | San Jose, CA | Onsite | 2026-08-15 | Rolling | 🟢 Open | ❔ |
 | [Freeform](generated/companies/freeform.md) | [Software Engineer Intern - Summer 2027](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7872198003) | LA +1 | Onsite | 2026-08-15 | Rolling | 🟢 Open | ❔ |
-| [Goldman Sachs](generated/companies/goldman-sachs.md) | [Summer Analyst Intern - Engineering](https://higher.gs.com/roles/177808?type=students) | Seattle, WA | Onsite | 2026-08-15 | Rolling | 🟢 Open | ❔ |
-| [Goldman Sachs](generated/companies/goldman-sachs.md) | [Summer Analyst Intern - Engineering](https://higher.gs.com/roles/170644?type=students) | London | Onsite | 2026-08-15 | Rolling | 🟢 Open | ❔ |
+| [Goldman Sachs](generated/companies/goldman-sachs.md) | [Summer Analyst Intern](https://higher.gs.com/roles/171550?type=students) | NYC | Onsite | 2026-08-15 | Rolling | 🟢 Open | ❔ |
+| [Goldman Sachs](generated/companies/goldman-sachs.md) | [Summer Analyst Intern - Americas - Engineering](https://higher.gs.com/roles/171567?type=students) | Toronto | Onsite | 2026-08-15 | Rolling | 🟢 Open | ❔ |
+| [Goldman Sachs](generated/companies/goldman-sachs.md) | [Summer Analyst Intern - Americas - Engineering](https://higher.gs.com/roles/171565?type=students) | Salt Lake City, UT | Onsite | 2026-08-15 | Rolling | 🟢 Open | ❔ |
+| [Goldman Sachs](generated/companies/goldman-sachs.md) | [Summer Analyst Intern - Americas - Engineering](https://higher.gs.com/roles/171564?type=students) | NYC | Onsite | 2026-08-15 | Rolling | 🟢 Open | ❔ |
+| [Goldman Sachs](generated/companies/goldman-sachs.md) | [Summer Analyst Intern - Engineering](https://higher.gs.com/roles/171553?type=students) | Dallas, TX | Onsite | 2026-08-15 | Rolling | 🟢 Open | ❔ |
+| [Goldman Sachs](generated/companies/goldman-sachs.md) | [Summer Analyst Intern - Engineering](https://higher.gs.com/roles/170637?type=students) | Birmingham | Onsite | 2026-08-15 | Rolling | 🟢 Open | ❔ |
+| [Goldman Sachs](generated/companies/goldman-sachs.md) | [Summer Associate Intern](https://higher.gs.com/roles/171552?type=students) | NYC | Onsite | 2026-08-15 | Rolling | 🟢 Open | ❔ |
+| [Goldman Sachs](generated/companies/goldman-sachs.md) | [Summer Associate Intern - Multiple Teams](https://higher.gs.com/roles/171566?type=students) | NYC | Onsite | 2026-08-15 | Rolling | 🟢 Open | ❔ |
 | [Notion](generated/companies/notion.md) | [Software Engineer Intern - Summer 2027](https://jobs.ashbyhq.com/notion/3fba1c39-c5cb-47d7-9ad2-1cec4d7e9d0c/application?embed=true) | SF +1 | Onsite | 2026-08-15 | Rolling | 🟢 Open | ❔ |
 | [ByteDance](generated/companies/bytedance.md) | [Self-Built Engineer Intern - CDN Platform](https://jobs.bytedance.com/en/position/7673617571165620533/detail) | San Jose, CA | Onsite | 2026-08-14 | Rolling | 🟢 Open | ❔ |
 | [ByteDance](generated/companies/bytedance.md) | [Self-Built Engineer Intern - CDN Platform](https://jobs.bytedance.com/en/position/7673608499872827701/detail) | Seattle, WA | Onsite | 2026-08-14 | Rolling | 🟢 Open | ❔ |
@@ -1268,10 +1272,12 @@ No dead links, no generic careers pages. Just current openings, newest first, wi
 | [RTX](generated/companies/rtx.md) | [Software Engineer Intern - Summer/Fall 2027 - Mission Engineering / Operational Analysis](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-179--855-35Th-St-NE--BLDG-179/Software-Engineering-Intern--Summer-Fall-2027-_01873006) | Cedar Rapids, IA | Onsite | 2026-09-08 | Rolling | 🔴 Closed | ❔ |
 | [ICF International](generated/companies/icf-international.md) | [Software Developer Intern](https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Software-Developer--Reston--VA-_R2603002) | Reston, VA | Onsite | 2026-09-07 | Rolling | 🔴 Closed | ❔ |
 | [Marsh & McLennan](generated/companies/marsh-mclennan.md) | [Data & Analytics Intern - Data & Analytics](https://mmc.wd1.myworkdayjobs.com/mmc/job/Newcastle---Bank/Oliver-Wyman---Data---Analytics-Summer-Internship-2027---Newcastle_R_364984-1) | Newcastle upon Tyne | Onsite | 2026-09-07 | Rolling | 🔴 Closed | ❔ |
+| [Marvell](generated/companies/marvell.md) | [Reliability Intern](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Reliability-Intern_2604001) | Santa Clara, CA | Onsite | 2026-09-05 | Rolling | 🔴 Closed | ❔ |
 | [AArete](generated/companies/aarete.md) | [Business Analytics Intern - Summer 2027](https://jobs.jobvite.com/aarete/job/oBXLAfwD?nl=1&nl=1&fr=false) | Chicago, IL | Onsite | 2026-09-04 | Rolling | 🔴 Closed | ❔ |
 | [Bank of Montreal](generated/companies/bank-of-montreal.md) | [Investment Intern Co-op - Gam](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Investment-Intern---GAM--Summer-2027--Co-op-Internship----4-months_R260026067) | Toronto | Onsite | 2026-09-04 | Rolling | 🔴 Closed | ❔ |
 | [Cox](generated/companies/cox.md) | [Software Engineer Intern - Summer 2027](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Long-Island-NY/Software-Engineering-Intern---Summer-2027--North-Hills--NY-_R202682171-1) | Long Island | Onsite | 2026-09-04 | Rolling | 🔴 Closed | ❔ |
 | [Entergy](generated/companies/entergy.md) | [Engineering Intern](https://jobs.entergy.com/job/New-Orleans-Student,-Intern-Engineering-Summer-2027-Loui/1426672400/?ats=successfactors) | New Orleans, LA | Onsite | 2026-09-04 | Rolling | 🔴 Closed | ❔ |
+| [Marvell](generated/companies/marvell.md) | [Reliability Intern](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Reliability-Intern_2604001-1) | Santa Clara, CA | Onsite | 2026-09-04 | Rolling | 🔴 Closed | ❔ |
 | [Moderna](generated/companies/moderna.md) | [Applied Technologies Intern](https://modernatx.wd1.myworkdayjobs.com/en-US/M_tx/job/Norwood-Massachusetts/Intern--Applied-Technologies--Summer-2027-_R19734) | Norwood, MA | Onsite | 2026-09-04 | Rolling | 🔴 Closed | ❔ |
 | [PayPal](generated/companies/paypal.md) | [Software Engineer Intern](https://paypal.eightfold.ai/careers/job/274922260559) | Austin, TX +2 | Onsite | 2026-09-04 | Rolling | 🔴 Closed | ❔ |
 | [TJX](generated/companies/tjx.md) | [IT Engineer Intern](https://tjx.wd1.myworkdayjobs.com/tjx_external/job/Marlborough-MA-01752/IT-Engineer-Internship---Summer-2027_REQ153160) | Marlborough, MA | Onsite | 2026-09-04 | Rolling | 🔴 Closed | ❔ |
@@ -1492,13 +1498,7 @@ No dead links, no generic careers pages. Just current openings, newest first, wi
 | [W.W. Grainger](generated/companies/w-w-grainger.md) | [Business Systems Analyst Intern](https://jobs.grainger.com/job/CHICAGO-GTG-Intern-Business-Systems-Analyst-IL-60654-4203/1419931200/?ats=successfactors) | Chicago, IL | Onsite | 2026-08-17 | Rolling | 🔴 Closed | ❔ |
 | [Boom Supersonic](generated/companies/boom-supersonic.md) | [Engineering and Tech Intern](https://ats.rippling.com/boom-supersonic/jobs/4053f749-3d30-4d71-a64c-5fa79e162bbf) | Centennial, CO | Onsite | 2026-08-16 | Rolling | 🔴 Closed | ❔ |
 | [BP](generated/companies/bp.md) | [Reservoir Engineer Intern - Summer Internship](https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers/job/United-States-of-America---Texas---Houston/Summer-Intern---Reservoir-Engineer---Houston--TX_RQ114655-2) | Houston, TX | Onsite | 2026-08-16 | Rolling | 🔴 Closed | ❔ |
-| [Goldman Sachs](generated/companies/goldman-sachs.md) | [Summer Analyst Intern](https://higher.gs.com/roles/171550?type=students) | NYC | Onsite | 2026-08-15 | Rolling | 🔴 Closed | ❔ |
-| [Goldman Sachs](generated/companies/goldman-sachs.md) | [Summer Analyst Intern - Americas - Engineering](https://higher.gs.com/roles/171567?type=students) | Toronto | Onsite | 2026-08-15 | Rolling | 🔴 Closed | ❔ |
-| [Goldman Sachs](generated/companies/goldman-sachs.md) | [Summer Analyst Intern - Americas - Engineering](https://higher.gs.com/roles/171565?type=students) | Salt Lake City, UT | Onsite | 2026-08-15 | Rolling | 🔴 Closed | ❔ |
-| [Goldman Sachs](generated/companies/goldman-sachs.md) | [Summer Analyst Intern - Americas - Engineering](https://higher.gs.com/roles/171564?type=students) | NYC | Onsite | 2026-08-15 | Rolling | 🔴 Closed | ❔ |
-| [Goldman Sachs](generated/companies/goldman-sachs.md) | [Summer Analyst Intern - Engineering](https://higher.gs.com/roles/171553?type=students) | Dallas, TX | Onsite | 2026-08-15 | Rolling | 🔴 Closed | ❔ |
-| [Goldman Sachs](generated/companies/goldman-sachs.md) | [Summer Associate Intern](https://higher.gs.com/roles/171552?type=students) | NYC | Onsite | 2026-08-15 | Rolling | 🔴 Closed | ❔ |
-| [Goldman Sachs](generated/companies/goldman-sachs.md) | [Summer Associate Intern - Multiple Teams](https://higher.gs.com/roles/171566?type=students) | NYC | Onsite | 2026-08-15 | Rolling | 🔴 Closed | ❔ |
+| [Goldman Sachs](generated/companies/goldman-sachs.md) | [Summer Analyst Intern - Engineering](https://higher.gs.com/roles/177808?type=students) | Seattle, WA | Onsite | 2026-08-15 | Rolling | 🔴 Closed | ❔ |
 | [Replit](generated/companies/replit.md) | [Software Engineer Intern - Summer 2027](https://jobs.ashbyhq.com/replit/7e0dafe8-3eec-442e-aa76-a4d84d779fb1/application?embed=true) | Foster City, CA | Onsite | 2026-08-15 | Rolling | 🔴 Closed | ❔ |
 | [BerryDunn](generated/companies/berrydunn.md) | [Consulting Intern - Healthcare Data Management and Strategy](https://careers-berrydunn.icims.com/jobs/3973/job?mobile=true&needsRedirect=false) | Portland, ME | Onsite | 2026-08-14 | Rolling | 🔴 Closed | ❔ |
 | [BP](generated/companies/bp.md) | [Geoscience Intern - Geoscientist](https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers/job/United-States-of-America---Texas---Houston/Summer-Intern---Geoscientist---Houston-TX_RQ114816) | Houston, TX | Onsite | 2026-08-14 | Rolling | 🔴 Closed | ❔ |
@@ -1934,7 +1934,7 @@ No dead links, no generic careers pages. Just current openings, newest first, wi
 | [Veeam Software](generated/companies/veeam-software.md) | [Software Engineering Intern, Platform, Security & AI](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4857832101) | San Jose, CA | Onsite | 2026-05-09 | Rolling | 🔴 Closed | ❔ |
 | [Scale AI](generated/companies/scale-ai.md) | [Technical Advisor Specialist (Part-Time Internship)](https://job-boards.greenhouse.io/scaleai/jobs/4611533005) | San Francisco, CA | Onsite | 2025-09-22 | Rolling | 🔴 Closed | ❔ |
 
-### 📊 Data Science (125 · 115 open)
+### 📊 Data Science (125 · 116 open)
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
@@ -1961,6 +1961,7 @@ No dead links, no generic careers pages. Just current openings, newest first, wi
 | [Google](generated/companies/google.md) | [Data Scientist Research Intern - PhD](https://www.google.com/about/careers/applications/jobs/results/89965613241246406) | Palo Alto, CA +30 | Onsite | 2026-09-14 | Rolling | 🟢 Open | ❔ |
 | [URBN](generated/companies/urbn.md) | [Data Science Intern](https://homeoffice-na-urbn.icims.com/jobs/30444/job?mobile=true&needsRedirect=false) | Philadelphia, PA | Onsite | 2026-09-14 | Rolling | 🟢 Open | ❔ |
 | [Amgen](generated/companies/amgen.md) | [Data Scientist Intern](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Undergrad-Intern---Data-Scientist---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255704) | Remote | Remote | 2026-09-11 | Rolling | 🟢 Open | ❔ |
+| [Amgen](generated/companies/amgen.md) | [Data Scientist Intern - Amgen’s Technology & Medical Organizations](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Data-Scientist---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255722) | Remote | Remote | 2026-09-11 | Rolling | 🟢 Open | ❔ |
 | [Citizens Financial Group](generated/companies/citizens-financial-group.md) | [Data Science Intern - Multiple Teams](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49280) | Boston, MA +2 | Onsite | 2026-09-11 | Rolling | 🟢 Open | ❔ |
 | [Citizens Financial Group](generated/companies/citizens-financial-group.md) | [Data Science Intern - Multiple Teams](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49276) | Boston, MA +2 | Onsite | 2026-09-11 | Rolling | 🟢 Open | ❔ |
 | [EMC Insurance](generated/companies/emc-insurance.md) | [Data Science Intern](https://emcins.wd5.myworkdayjobs.com/en-US/EMC_Careers/job/Iowa/Intern--Data-Science_R6524) | Iowa | Onsite | 2026-09-11 | Rolling | 🟢 Open | ❔ |
@@ -2055,7 +2056,6 @@ No dead links, no generic careers pages. Just current openings, newest first, wi
 | [AlixPartners](generated/companies/alixpartners.md) | [Data Scientist Intern](https://www.alixpartners.com/careers/7725335003?gh_jid=7725335003) | NYC | Onsite | 2026-07-06 | Rolling | 🟢 Open | ❔ |
 | [Enact Mortgage Insurance](generated/companies/enact-mortgage-insurance.md) | [Data Science Intern](https://gnw.wd1.myworkdayjobs.com/enact_mi/job/Raleigh-North-Carolina/Data-Science-Intern_REQ-260362) | Raleigh, NC | Onsite | 2026-09-14 | Rolling | 🔴 Closed | ❔ |
 | [Genworth Financial](generated/companies/genworth-financial.md) | [Data Science Intern](https://gnw.wd1.myworkdayjobs.com/GNW/job/Raleigh-North-Carolina/Data-Science-Intern_REQ-260362-1) | Raleigh, NC | Onsite | 2026-09-14 | Rolling | 🔴 Closed | ❔ |
-| [Amgen](generated/companies/amgen.md) | [Data Scientist Intern - Amgen’s Technology & Medical Organizations](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Data-Scientist---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255722) | Remote | Remote | 2026-09-11 | Rolling | 🔴 Closed | ❔ |
 | [Crum & Forster Insurance](generated/companies/crum-forster-insurance.md) | [Actuarial, Data Science or Product Services Intern - Commercial Lines](https://careers-cfins.icims.com/jobs/5108/job?mobile=true&needsRedirect=false) | Morristown, NJ | Onsite | 2026-09-03 | Rolling | 🔴 Closed | ❔ |
 | [Walmart](generated/companies/walmart.md) | [Data Scientist 3 Intern - 2026 Intern Conversion: 2027 FT](https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-Crossman-Respect-Building-CA-SUNNYVALE-Home-Office/XMLNAME-2026-Intern-Conversion--2027-FT-Data-Scientist-III--Sunnyvale_R-2630125) | Sunnyvale, CA | Onsite | 2026-09-03 | Rolling | 🔴 Closed | ❔ |
 | [Boston Scientific](generated/companies/boston-scientific.md) | [Research Algorithm & Data Science Intern - Interns/Graduates](https://bostonscientific.eightfold.ai/careers/job/563602813483110) | Arden Hills, MN | Onsite | 2026-09-02 | Rolling | 🔴 Closed | ❔ |
@@ -2128,7 +2128,7 @@ No dead links, no generic careers pages. Just current openings, newest first, wi
 | [Panasonic Holdings](generated/companies/panasonic-holdings.md) | [Data Engineering Intern](https://careers.na.panasonic.com/jobs/50772?icims=1) | Bridgeton, MO | Onsite | 2026-09-02 | Rolling | 🔴 Closed | ❔ |
 | [Leidos](generated/companies/leidos.md) | [Data Engineering & Analytics Intern](https://leidos.wd5.myworkdayjobs.com/External/job/Shiloh-IL/Data-Engineering---Analytics-Intern_R-00190672-1) | Shiloh, IL | Onsite | 2026-08-27 | Rolling | 🔴 Closed | ❔ |
 
-### 📈 Quant (256 · 195 open)
+### 📈 Quant (254 · 201 open)
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
@@ -2204,12 +2204,18 @@ No dead links, no generic careers pages. Just current openings, newest first, wi
 | [Belvedere Trading](generated/companies/belvedere-trading.md) | [Quantitative Trading Intern](https://jobs.lever.co/belvederetrading/cbde47db-c60b-4339-a8f4-a8e4f30505ab) | Chicago, IL | Onsite | 2026-08-17 | Rolling | 🟢 Open | ✅ |
 | [Xantium](generated/companies/xantium.md) | [Quantitative Developer Intern](https://job-boards.greenhouse.io/xantium/jobs/4360768009) | London +1 | Onsite | 2026-08-17 | Rolling | 🟢 Open | ❔ |
 | [Xantium](generated/companies/xantium.md) | [Quantitative Researcher Intern](https://job-boards.greenhouse.io/xantium/jobs/4371217009) | London +1 | Onsite | 2026-08-17 | Rolling | 🟢 Open | ❔ |
-| [Goldman Sachs](generated/companies/goldman-sachs.md) | [Associate Intern - The Core Quantitative Strats](https://higher.gs.com/roles/171546?type=students) | Dallas, TX | Onsite | 2026-08-15 | Rolling | 🟢 Open | ❔ |
-| [Goldman Sachs](generated/companies/goldman-sachs.md) | [Quantitative Strategist Associate Intern - The Core Quantitative Strats](https://higher.gs.com/roles/171535?type=students) | NYC | Onsite | 2026-08-15 | Rolling | 🟢 Open | ❔ |
-| [Goldman Sachs](generated/companies/goldman-sachs.md) | [Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats](https://higher.gs.com/roles/171549?type=students) | Salt Lake City, UT | Onsite | 2026-08-15 | Rolling | 🟢 Open | ❔ |
-| [Goldman Sachs](generated/companies/goldman-sachs.md) | [Quantitative Strategist Intern - Multiple Teams](https://higher.gs.com/roles/171563?type=students) | NYC | Onsite | 2026-08-15 | Rolling | 🟢 Open | ❔ |
-| [Goldman Sachs](generated/companies/goldman-sachs.md) | [Summer Analyst Intern - Americas - Investment Banking Quantitative Strats](https://higher.gs.com/roles/171547?type=students) | NYC | Onsite | 2026-08-15 | Rolling | 🟢 Open | ❔ |
-| [Goldman Sachs](generated/companies/goldman-sachs.md) | [Summer Analyst Intern - FICC and Equities - Sales and Trading](https://higher.gs.com/roles/181628?type=students) | West Palm Beach, FL | Onsite | 2026-08-15 | Rolling | 🟢 Open | ❔ |
+| [Goldman Sachs](generated/companies/goldman-sachs.md) | [Quantitative Strategist Associate Intern - Asset and Wealth Management](https://higher.gs.com/roles/175423?type=students) | London | Onsite | 2026-08-15 | Rolling | 🟢 Open | ❔ |
+| [Goldman Sachs](generated/companies/goldman-sachs.md) | [Quantitative Strategist Associate Intern - The Core Quantitative Strats](https://higher.gs.com/roles/175427?type=students) | London | Onsite | 2026-08-15 | Rolling | 🟢 Open | ❔ |
+| [Goldman Sachs](generated/companies/goldman-sachs.md) | [Quantitative Strategist Intern - Americas](https://higher.gs.com/roles/171532?type=students) | Dallas, TX | Onsite | 2026-08-15 | Rolling | 🟢 Open | ❔ |
+| [Goldman Sachs](generated/companies/goldman-sachs.md) | [Quantitative Strategist Intern - Americas - The Core Quantitative Strats](https://higher.gs.com/roles/171551?type=students) | Salt Lake City, UT | Onsite | 2026-08-15 | Rolling | 🟢 Open | ❔ |
+| [Goldman Sachs](generated/companies/goldman-sachs.md) | [Quantitative Strategist Intern - Americas - The Core Quantitative Strats](https://higher.gs.com/roles/171534?type=students) | Dallas, TX | Onsite | 2026-08-15 | Rolling | 🟢 Open | ❔ |
+| [Goldman Sachs](generated/companies/goldman-sachs.md) | [Quantitative Strategist Intern - Americas - The Core Quantitative Strats](https://higher.gs.com/roles/171533?type=students) | NYC | Onsite | 2026-08-15 | Rolling | 🟢 Open | ❔ |
+| [Goldman Sachs](generated/companies/goldman-sachs.md) | [Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats](https://higher.gs.com/roles/175421?type=students) | London | Onsite | 2026-08-15 | Rolling | 🟢 Open | ❔ |
+| [Goldman Sachs](generated/companies/goldman-sachs.md) | [Quantitative Strategist Intern - Investment Banking](https://higher.gs.com/roles/175428?type=students) | London | Onsite | 2026-08-15 | Rolling | 🟢 Open | ❔ |
+| [Goldman Sachs](generated/companies/goldman-sachs.md) | [Quantitative Strategist Intern - Multiple Teams](https://higher.gs.com/roles/175424?type=students) | London | Onsite | 2026-08-15 | Rolling | 🟢 Open | ❔ |
+| [Goldman Sachs](generated/companies/goldman-sachs.md) | [Quantitative Strats Analyst Intern - Americas - Investment Banking](https://higher.gs.com/roles/171548?type=students) | Dallas, TX | Onsite | 2026-08-15 | Rolling | 🟢 Open | ❔ |
+| [Goldman Sachs](generated/companies/goldman-sachs.md) | [Summer Analyst Intern - The Core Quantitative Strats](https://higher.gs.com/roles/175426?type=students) | London | Onsite | 2026-08-15 | Rolling | 🟢 Open | ❔ |
+| [Goldman Sachs](generated/companies/goldman-sachs.md) | [Summer Analyst Intern - Wealth Management - Quantitative Finance](https://higher.gs.com/roles/170860?type=students) | London | Onsite | 2026-08-15 | Rolling | 🟢 Open | ❔ |
 | [Barclays](generated/companies/barclays.md) | [Quantitative Finance Associate Intern](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/New-York-745-7th-Avenue/Quantitative-Finance-Associate-Summer-Internship-Program-2027-New-York_JR-0000128099) | NYC | Onsite | 2026-08-14 | Rolling | 🟢 Open | ❔ |
 | [InfiniteQuant](generated/companies/infinitequant.md) | [Quantitative Researcher Intern - Summer 2027](https://jobs.smartrecruiters.com/InfiniteQuant/744000143307421) | Dubai - United Arab Emirates +1 | Onsite | 2026-08-13 | Rolling | 🟢 Open | ❔ |
 | [Wells Fargo](generated/companies/wells-fargo.md) | [Quantitative Analytics Intern - Capital Markets - Masters](https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Quantitative-Analytics-Summer-Internship-Capital-Markets--Masters----Early-Careers_R-568270) | Charlotte, NC | Onsite | 2026-08-13 | Rolling | 🟢 Open | ❔ |
@@ -2350,18 +2356,10 @@ No dead links, no generic careers pages. Just current openings, newest first, wi
 | [BNY](generated/companies/bny.md) | [Trading Intern - Trading](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81350) | NYC | Onsite | 2026-08-24 | Rolling | 🔴 Closed | ❔ |
 | [PIMCO](generated/companies/pimco.md) | [Trading Analyst Intern](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-Summer-Intern---Trading-Analyst--US_R106763) | Newport Beach, CA | Onsite | 2026-08-20 | Rolling | 🔴 Closed | ❔ |
 | [DV Trading](generated/companies/dv-trading.md) | [Trading Intern - Summer 2027 - DV Commodities](https://job-boards.greenhouse.io/dvtrading/jobs/4719134005) | NYC | Onsite | 2026-08-17 | Rolling | 🔴 Closed | ❔ |
-| [Goldman Sachs](generated/companies/goldman-sachs.md) | [Quantitative Strategist Associate Intern - Asset and Wealth Management](https://higher.gs.com/roles/175423?type=students) | London | Onsite | 2026-08-15 | Rolling | 🔴 Closed | ❔ |
-| [Goldman Sachs](generated/companies/goldman-sachs.md) | [Quantitative Strategist Associate Intern - The Core Quantitative Strats](https://higher.gs.com/roles/175427?type=students) | London | Onsite | 2026-08-15 | Rolling | 🔴 Closed | ❔ |
-| [Goldman Sachs](generated/companies/goldman-sachs.md) | [Quantitative Strategist Intern - Americas](https://higher.gs.com/roles/171532?type=students) | Dallas, TX | Onsite | 2026-08-15 | Rolling | 🔴 Closed | ❔ |
-| [Goldman Sachs](generated/companies/goldman-sachs.md) | [Quantitative Strategist Intern - Americas - The Core Quantitative Strats](https://higher.gs.com/roles/171534?type=students) | Dallas, TX | Onsite | 2026-08-15 | Rolling | 🔴 Closed | ❔ |
-| [Goldman Sachs](generated/companies/goldman-sachs.md) | [Quantitative Strategist Intern - Americas - The Core Quantitative Strats](https://higher.gs.com/roles/171551?type=students) | Salt Lake City, UT | Onsite | 2026-08-15 | Rolling | 🔴 Closed | ❔ |
-| [Goldman Sachs](generated/companies/goldman-sachs.md) | [Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats](https://higher.gs.com/roles/175421?type=students) | London | Onsite | 2026-08-15 | Rolling | 🔴 Closed | ❔ |
-| [Goldman Sachs](generated/companies/goldman-sachs.md) | [Quantitative Strategist Intern - Investment Banking](https://higher.gs.com/roles/175428?type=students) | London | Onsite | 2026-08-15 | Rolling | 🔴 Closed | ❔ |
-| [Goldman Sachs](generated/companies/goldman-sachs.md) | [Quantitative Strategist Intern - Multiple Teams](https://higher.gs.com/roles/175424?type=students) | London | Onsite | 2026-08-15 | Rolling | 🔴 Closed | ❔ |
-| [Goldman Sachs](generated/companies/goldman-sachs.md) | [Quantitative Strats Analyst Intern - Americas - Investment Banking](https://higher.gs.com/roles/171548?type=students) | Dallas, TX | Onsite | 2026-08-15 | Rolling | 🔴 Closed | ❔ |
+| [Goldman Sachs](generated/companies/goldman-sachs.md) | [Associate Intern - The Core Quantitative Strats](https://higher.gs.com/roles/171546?type=students) | Dallas, TX | Onsite | 2026-08-15 | Rolling | 🔴 Closed | ❔ |
+| [Goldman Sachs](generated/companies/goldman-sachs.md) | [Summer Analyst Intern - Americas - Investment Banking Quantitative Strats](https://higher.gs.com/roles/171547?type=students) | NYC | Onsite | 2026-08-15 | Rolling | 🔴 Closed | ❔ |
+| [Goldman Sachs](generated/companies/goldman-sachs.md) | [Summer Analyst Intern - FICC and Equities - Sales and Trading](https://higher.gs.com/roles/181628?type=students) | West Palm Beach, FL | Onsite | 2026-08-15 | Rolling | 🔴 Closed | ❔ |
 | [Goldman Sachs](generated/companies/goldman-sachs.md) | [Summer Analyst Intern - FICC & Equities - Sales & Trading](https://higher.gs.com/roles/170675?type=students) | London | Onsite | 2026-08-15 | Rolling | 🔴 Closed | ❔ |
-| [Goldman Sachs](generated/companies/goldman-sachs.md) | [Summer Analyst Intern - The Core Quantitative Strats](https://higher.gs.com/roles/175426?type=students) | London | Onsite | 2026-08-15 | Rolling | 🔴 Closed | ❔ |
-| [Goldman Sachs](generated/companies/goldman-sachs.md) | [Summer Analyst Intern - Wealth Management - Quantitative Finance](https://higher.gs.com/roles/170860?type=students) | London | Onsite | 2026-08-15 | Rolling | 🔴 Closed | ❔ |
 | [KeyBank](generated/companies/keybank.md) | [Analytics and Quantitative Modeling Intern - Analytics & Quantitative Modeling](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Cleveland-OH/XMLNAME-2027-Summer-Analytics-and-Quantitative-Modeling-Internship--Cleveland_R-41380) | Cleveland, OH | Onsite | 2026-08-14 | Rolling | 🔴 Closed | ❔ |
 | [InfiniteQuant](generated/companies/infinitequant.md) | [Quantitative Developer Intern - Summer 2027](https://jobs.smartrecruiters.com/InfiniteQuant/744000143287594) | Dubai - United Arab Emirates +1 | Onsite | 2026-08-13 | Rolling | 🔴 Closed | ❔ |
 | [Wells Fargo](generated/companies/wells-fargo.md) | [Quantitative Analytics Intern - Multiple Teams](https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Quantitative-Analytics-Summer-Internship-Risk-Analytics-and-Decision-Sciences--Masters----Early-Careers_R-568259) | Charlotte, NC | Onsite | 2026-08-13 | Rolling | 🔴 Closed | ❔ |
@@ -2600,7 +2598,7 @@ No dead links, no generic careers pages. Just current openings, newest first, wi
 | [QTS](generated/companies/qts.md) | [Data Center Infrastructure Management Intern - DCIM](https://qtsdatacenters.wd5.myworkdayjobs.com/qts/job/Suwanee-GA/Summer-2027-Internship--Data-Center-Infrastructure-Management--DCIM-_R2026-1892) | Ashburn, VA +1 | Onsite | 2026-08-26 | Rolling | 🔴 Closed | ❔ |
 | [ByteDance](generated/companies/bytedance.md) | [Software Engineer Intern - Traffic Infrastructure](https://jobs.bytedance.com/en/position/7672626707586746629/detail) | San Jose, CA | Onsite | 2026-08-15 | Rolling | 🔴 Closed | ❔ |
 
-### 🧭 Product (117 · 101 open)
+### 🧭 Product (117 · 102 open)
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
@@ -2679,6 +2677,7 @@ No dead links, no generic careers pages. Just current openings, newest first, wi
 | [Springs Window Fashions](generated/companies/springs-window-fashions.md) | [Product Management Dashboard Analytics Intern](https://careers-springswindowfashions.icims.com/jobs/12882/job?mobile=true&needsRedirect=false) | Middleton, WI | Onsite | 2026-08-22 | Rolling | 🟢 Open | ❔ |
 | [Springs Window Fashions](generated/companies/springs-window-fashions.md) | [Product Management Intern](https://careers-springswindowfashions.icims.com/jobs/12892/job?mobile=true&needsRedirect=false) | Long Island City | Onsite | 2026-08-22 | Rolling | 🟢 Open | ❔ |
 | [TikTok](generated/companies/tiktok.md) | [Product Manager Intern - Content and Service Ads](https://lifeattiktok.com/search/7676283436713593093) | San Jose, CA | Onsite | 2026-08-22 | Rolling | 🟢 Open | ❔ |
+| [Goldman Sachs](generated/companies/goldman-sachs.md) | [AWM Product Management Analyst Intern](https://higher.gs.com/roles/171513?type=students) | Dallas, TX | Onsite | 2026-08-19 | Rolling | 🟢 Open | ❔ |
 | [Datadog](generated/companies/datadog.md) | [Product Management Intern](https://careers.datadoghq.com/detail/8108241/?gh_jid=8108241) | New York +1 | Onsite | 2026-08-17 | Rolling | 🟢 Open | ❔ |
 | [TikTok](generated/companies/tiktok.md) | [Product Manager Intern - Content and Services](https://lifeattiktok.com/search/7673337777708550405) | San Jose, CA | Onsite | 2026-08-14 | Rolling | 🟢 Open | ❔ |
 | [TikTok](generated/companies/tiktok.md) | [Product Manager Intern - Scaled Growth](https://lifeattiktok.com/search/7673559305519794437) | San Jose, CA | Onsite | 2026-08-14 | Rolling | 🟢 Open | ❔ |
@@ -2714,7 +2713,6 @@ No dead links, no generic careers pages. Just current openings, newest first, wi
 | [DTCC](generated/companies/dtcc.md) | [Product Management Intern - 2027 Internship Program](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214410) | Tampa, FL +1 | Onsite | 2026-08-25 | Rolling | 🔴 Closed | ❔ |
 | [Procter & Gamble](generated/companies/procter-gamble.md) | [IT Project & Product Manager Intern](https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/IT-Project---Product-Manager-Internship_R000157500) | Cincinnati, OH | Onsite | 2026-08-24 | Rolling | 🔴 Closed | ❔ |
 | [Vertiv](generated/companies/vertiv.md) | [Product Management Intern - Product Marketing](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279047) | Delaware, OH | Onsite | 2026-08-21 | Rolling | 🔴 Closed | ❔ |
-| [Goldman Sachs](generated/companies/goldman-sachs.md) | [AWM Product Management Analyst Intern](https://higher.gs.com/roles/171513?type=students) | Dallas, TX | Onsite | 2026-08-19 | Rolling | 🔴 Closed | ❔ |
 | [Goldman Sachs](generated/companies/goldman-sachs.md) | [Summer Analyst Intern - Americas - AWM Product Management](https://higher.gs.com/roles/182389?type=students) | NYC | Onsite | 2026-08-19 | Rolling | 🔴 Closed | ❔ |
 | [Goldman Sachs](generated/companies/goldman-sachs.md) | [Summer Analyst Intern - Wealth Management - Product Management and Design](https://higher.gs.com/roles/170935?type=students) | London | Onsite | 2026-08-15 | Rolling | 🔴 Closed | ❔ |
 | [Salesforce](generated/companies/salesforce.md) | [Associate Product Manager Intern - Associate Product Manager](https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/California---San-Francisco/Summer-2027-Intern---Associate-Product-Manager--APM-_JR348039) | SF | Onsite | 2026-07-13 | Rolling | 🔴 Closed | ❔ |
@@ -5036,7 +5034,7 @@ Pulled automatically every hour: company ATS boards (Greenhouse, Lever, Ashby) f
 | Source | Listings | Type |
 |---|---:|---|
 | Company ATS boards (Greenhouse · Lever · Ashby) | 279 | Direct API |
-| [SimplifyJobs / Summer Internships](https://github.com/SimplifyJobs/Summer2026-Internships) | 4297 | Community feed |
+| [SimplifyJobs / Summer Internships](https://github.com/SimplifyJobs/Summer2026-Internships) | 4295 | Community feed |
 | [vanshb03 / Summer 2027 Internships](https://github.com/vanshb03/Summer2027-Internships) | 333 | Community feed |
 
 ## 🤝 Add a listing

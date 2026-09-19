@@ -1,20 +1,21 @@
 {
   "schema_version": "1.0",
-  "id": "goldman-sachs-quantitative-strategist-intern-multiple-teams-2027-323368",
+  "id": "goldman-sachs-quantitative-strategist-intern-americas-the-core-quantitativ-2027-41219d",
   "company": {
     "name": "Goldman Sachs",
     "slug": "goldman-sachs"
   },
-  "role": "Quantitative Strategist Intern - Multiple Teams",
+  "role": "Quantitative Strategist Intern - Americas - The Core Quantitative Strats",
   "category": "quant",
-  "apply_url": "https://higher.gs.com/roles/175424?type=students",
+  "apply_url": "https://higher.gs.com/roles/171551?type=students",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "London",
-      "country": "UK"
+      "city": "Salt Lake City",
+      "state": "UT",
+      "country": "USA"
     }
   ],
   "compensation": {
@@ -40,10 +41,10 @@
   },
   "dates": {
     "posted": "2026-08-15",
-    "discovered": "2026-09-18",
+    "discovered": "2026-09-19",
     "last_verified": "2026-09-19"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

@@ -69,7 +69,7 @@
 | [American Fidelity](../companies/american-fidelity.md) | 4/4 | ai, software-engineering |
 | [American Institutes for Research](../companies/american-institutes-for-research.md) | 0/1 | data-science |
 | [Ameriprise Financial](../companies/ameriprise-financial.md) | 1/1 | software-engineering |
-| [Amgen](../companies/amgen.md) | 10/12 | data-engineering, data-science, machine-learning, software-engineering |
+| [Amgen](../companies/amgen.md) | 11/12 | data-engineering, data-science, machine-learning, software-engineering |
 | [Amwins](../companies/amwins.md) | 0/1 | ai |
 | [AnaVation](../companies/anavation.md) | 1/3 | software-engineering |
 | [Analog Devices](../companies/analog-devices.md) | 7/7 | design, machine-learning, software-engineering |
@@ -469,7 +469,7 @@
 | [GoDaddy](../companies/godaddy.md) | 0/1 | software-engineering |
 | [GoMaterials](../companies/gomaterials.md) | 1/1 | software-engineering |
 | [Golden Pet Brands](../companies/golden-pet-brands.md) | 0/1 | software-engineering |
-| [Goldman Sachs](../companies/goldman-sachs.md) | 8/30 | product, quant, software-engineering |
+| [Goldman Sachs](../companies/goldman-sachs.md) | 21/28 | product, quant, software-engineering |
 | [Google](../companies/google.md) | 17/21 | data-science, hardware, research, software-engineering |
 | [Gordon Food Service](../companies/gordon-food-service.md) | 10/10 | data-engineering, data-science, product, software-engineering |
 | [Grant Thornton](../companies/grant-thornton.md) | 0/6 | ai, software-engineering |
@@ -648,7 +648,7 @@
 | [Marsh](../companies/marsh.md) | 1/2 | software-engineering |
 | [Marsh & McLennan](../companies/marsh-mclennan.md) | 0/1 | software-engineering |
 | [Marshall Wace](../companies/marshall-wace.md) | 3/3 | quant, software-engineering |
-| [Marvell](../companies/marvell.md) | 44/45 | design, embedded, hardware, machine-learning, software-engineering |
+| [Marvell](../companies/marvell.md) | 42/45 | design, embedded, hardware, machine-learning, software-engineering |
 | [Mary Free Bed Rehabilitation Hospital](../companies/mary-free-bed-rehabilitation-hospital.md) | 0/1 | software-engineering |
 | [Mastercard](../companies/mastercard.md) | 5/6 | data-engineering, data-science, product, software-engineering |
 | [Mathtech](../companies/mathtech.md) | 1/1 | software-engineering |

@@ -1,6 +1,6 @@
 {
   "generated": "2026-09-19",
-  "count": 4909,
+  "count": 4907,
   "internships": [
     {
       "schema_version": "1.0",
@@ -15724,7 +15724,7 @@
         "discovered": "2026-09-11",
         "last_verified": "2026-09-19"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -92366,7 +92366,7 @@
         "discovered": "2026-08-27",
         "last_verified": "2026-09-19"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -92418,7 +92418,7 @@
         "discovered": "2026-08-20",
         "last_verified": "2026-09-19"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -92471,60 +92471,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-09-19"
       },
-      "status": "closed",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "goldman-sachs-quantitative-strategist-associate-intern-the-core-quantitati-2027-14d0f0",
-      "company": {
-        "name": "Goldman Sachs",
-        "slug": "goldman-sachs"
-      },
-      "role": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
-      "category": "quant",
-      "apply_url": "https://higher.gs.com/roles/175427?type=students",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "London",
-          "country": "UK"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [
-          "phd"
-        ],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-08-15",
-        "discovered": "2026-09-18",
-        "last_verified": "2026-09-19"
-      },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -92539,14 +92486,14 @@
       },
       "role": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
       "category": "quant",
-      "apply_url": "https://higher.gs.com/roles/171535?type=students",
+      "apply_url": "https://higher.gs.com/roles/175427?type=students",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
       "locations": [
         {
-          "city": "NYC",
-          "country": "USA"
+          "city": "London",
+          "country": "UK"
         }
       ],
       "compensation": {
@@ -92629,7 +92576,59 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-19"
       },
-      "status": "closed",
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "goldman-sachs-quantitative-strategist-intern-americas-the-core-quantitativ-2027-41219d",
+      "company": {
+        "name": "Goldman Sachs",
+        "slug": "goldman-sachs"
+      },
+      "role": "Quantitative Strategist Intern - Americas - The Core Quantitative Strats",
+      "category": "quant",
+      "apply_url": "https://higher.gs.com/roles/171551?type=students",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Salt Lake City",
+          "state": "UT",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-15",
+        "discovered": "2026-09-19",
+        "last_verified": "2026-09-19"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -92683,7 +92682,7 @@
         "discovered": "2026-09-16",
         "last_verified": "2026-09-19"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -92698,14 +92697,13 @@
       },
       "role": "Quantitative Strategist Intern - Americas - The Core Quantitative Strats",
       "category": "quant",
-      "apply_url": "https://higher.gs.com/roles/171551?type=students",
+      "apply_url": "https://higher.gs.com/roles/171533?type=students",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
       "locations": [
         {
-          "city": "Salt Lake City",
-          "state": "UT",
+          "city": "NYC",
           "country": "USA"
         }
       ],
@@ -92737,58 +92735,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-19"
       },
-      "status": "closed",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "goldman-sachs-quantitative-strategist-intern-asset-and-wealth-management-q-2027-0ac951",
-      "company": {
-        "name": "Goldman Sachs",
-        "slug": "goldman-sachs"
-      },
-      "role": "Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats",
-      "category": "quant",
-      "apply_url": "https://higher.gs.com/roles/175421?type=students",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "London",
-          "country": "UK"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-08-15",
-        "discovered": "2026-09-19",
-        "last_verified": "2026-09-19"
-      },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -92803,15 +92750,14 @@
       },
       "role": "Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats",
       "category": "quant",
-      "apply_url": "https://higher.gs.com/roles/171549?type=students",
+      "apply_url": "https://higher.gs.com/roles/175421?type=students",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
       "locations": [
         {
-          "city": "Salt Lake City",
-          "state": "UT",
-          "country": "USA"
+          "city": "London",
+          "country": "UK"
         }
       ],
       "compensation": {
@@ -92893,58 +92839,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-19"
       },
-      "status": "closed",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "goldman-sachs-quantitative-strategist-intern-multiple-teams-2027-323368",
-      "company": {
-        "name": "Goldman Sachs",
-        "slug": "goldman-sachs"
-      },
-      "role": "Quantitative Strategist Intern - Multiple Teams",
-      "category": "quant",
-      "apply_url": "https://higher.gs.com/roles/175424?type=students",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "London",
-          "country": "UK"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-08-15",
-        "discovered": "2026-09-18",
-        "last_verified": "2026-09-19"
-      },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -92959,14 +92854,14 @@
       },
       "role": "Quantitative Strategist Intern - Multiple Teams",
       "category": "quant",
-      "apply_url": "https://higher.gs.com/roles/171563?type=students",
+      "apply_url": "https://higher.gs.com/roles/175424?type=students",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
       "locations": [
         {
-          "city": "NYC",
-          "country": "USA"
+          "city": "London",
+          "country": "UK"
         }
       ],
       "compensation": {
@@ -93047,7 +92942,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-19"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -93098,7 +92993,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-19"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -93202,7 +93097,7 @@
         "discovered": "2026-09-17",
         "last_verified": "2026-09-19"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -93254,7 +93149,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-19"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -93305,7 +93200,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-19"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -93358,7 +93253,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-19"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -93412,7 +93307,7 @@
         "discovered": "2026-09-06",
         "last_verified": "2026-09-19"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -93466,7 +93361,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-19"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -93481,13 +93376,13 @@
       },
       "role": "Summer Analyst Intern - Engineering",
       "category": "software-engineering",
-      "apply_url": "https://higher.gs.com/roles/170644?type=students",
+      "apply_url": "https://higher.gs.com/roles/170637?type=students",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
       "locations": [
         {
-          "city": "London",
+          "city": "Birmingham",
           "country": "UK"
         }
       ],
@@ -93573,7 +93468,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-09-19"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -93675,7 +93570,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-19"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -93777,7 +93672,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-19"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -93830,7 +93725,7 @@
         "discovered": "2026-08-29",
         "last_verified": "2026-09-19"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -93883,7 +93778,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-09-19"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -133794,7 +133689,7 @@
         "discovered": "2026-09-08",
         "last_verified": "2026-09-19"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -133846,7 +133741,7 @@
         "discovered": "2026-09-08",
         "last_verified": "2026-09-19"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
