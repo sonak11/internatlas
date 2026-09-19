@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🧭 Product Internships
 
-**154** tracked · **119** open now
+**158** tracked · **121** open now
 
 ## Current openings
 
@@ -60,9 +60,11 @@
 | [GE Vernova](generated/companies/ge-vernova.md) | [Controls Product Management Intern - Summer 2027](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Greenville/GE-Vernova-Controls-Product-Management-Intern---Summer-2027_R5050803) | Longmont, CO +1 | Onsite | 2026-08-25 | Rolling | 🟢 Open | ❔ |
 | [GE Vernova](generated/companies/ge-vernova.md) | [Product Management Intern - Controls Lifecare Services](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Longmont/Product-Management-Intern---Controls-Lifecare-Services_R5050801-2) | Longmont, CO +1 | Onsite | 2026-08-30 | Rolling | 🟢 Open | ❔ |
 | [GE Vernova](generated/companies/ge-vernova.md) | [Product Management Intern - Controls Lifecare Services](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Longmont/Product-Management-Intern---Controls-Lifecare-Services_R5050801-1) | Longmont, CO +1 | Onsite | 2026-08-30 | Rolling | 🟢 Open | ❔ |
+| [Gemini](generated/companies/gemini.md) | [Product Management Intern](https://boards.greenhouse.io/embed/job_app?for=gemini&token=8214332&gh_jid=8214332) | NYC | Onsite | 2026-09-18 | Rolling | 🟢 Open | ❔ |
+| [General Motors](generated/companies/general-motors.md) | [Product Management Intern - Digital Product](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Digital-Product--Product-Management--MBA-_JR-202620538) | Austin, TX +1 | Onsite | 2026-09-18 | Rolling | 🟢 Open | ❔ |
 | [Geotab](generated/companies/geotab.md) | [Product Management Intern](https://job-boards.greenhouse.io/internshiplist2000/jobs/5383920008) | Oakville | Onsite | 2026-09-02 | Rolling | 🟢 Open | ❔ |
-| [Goldman Sachs](generated/companies/goldman-sachs.md) | [AWM Product Management Analyst Intern](https://higher.gs.com/roles/171513?type=students) | Dallas, TX | Onsite | 2026-08-19 | Rolling | 🟢 Open | ❔ |
 | [Gordon Food Service](generated/companies/gordon-food-service.md) | [Digital Product Management Intern](https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Wyoming-Michigan/Digital-Product-Management-Internship_R-57336) | Wyoming, MI | Onsite | 2026-09-17 | Rolling | 🟢 Open | ❔ |
+| [Guardian Life](generated/companies/guardian-life.md) | [Summer Intern - Group Benefits Product Management](https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/Boston/XMLNAME-2027-Guardian-Summer-Intern--Group-Benefits-Product-Management_R000110299) | Boston, MA | Onsite | 2026-09-18 | Rolling | 🟢 Open | ❔ |
 | [Hudl](generated/companies/hudl.md) | [Product Management Intern](https://job-boards.greenhouse.io/hudl/jobs/8155103) | Lincoln, NE | Onsite | 2026-09-10 | Rolling | 🟢 Open | ❔ |
 | [Illinois Tool Works](generated/companies/illinois-tool-works.md) | [Product Management Intern](https://careers.itw.com/global/en/job/JR10112) | San Luis Obispo, CA | Onsite | 2026-09-16 | Rolling | 🟢 Open | ❔ |
 | [Illinois Tool Works](generated/companies/illinois-tool-works.md) | [Product Management Intern](https://careers.itw.com/global/en/job/JR10105) | Troy, OH | Onsite | 2026-09-15 | Rolling | 🟢 Open | ❔ |
@@ -79,7 +81,7 @@
 | [Oshkosh](generated/companies/oshkosh.md) | [Product Management Intern - Summer 2027](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Dodge-Center-Minnesota-United-States/Product-Management-Intern--Summer-2027-_R49796) | Dodge Center, MN | Onsite | 2026-08-31 | Rolling | 🟢 Open | ❔ |
 | [Pentair](generated/companies/pentair.md) | [Product Management Internship](https://pentair.wd5.myworkdayjobs.com/pentair_careers/job/Golden-Valley-MN/Product-Management-Leadership-Development-Internship-Program---Summer-2027_R23713) | Apex, NC +5 | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
 | [PricewaterhouseCoopers (PwC)](generated/companies/pricewaterhousecoopers-pwc.md) | [Product Management Intern - Commercial Tech & Innovation](https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Advisory-National---Commercial-Tech---Innovation---Product-Management-Intern---Summer-2027_760527WD) | Rosemont, IL | Onsite | 2026-09-15 | Rolling | 🟢 Open | ❔ |
-| [PricewaterhouseCoopers (PwC)](generated/companies/pricewaterhousecoopers-pwc.md) | [Tax Innovation Delivery Experience Intern - Product Management](https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Tax-Innovation-Delivery-Experience--TIDE----Product-Management---Intern---Summer-2027_756419WD) | Rosemont, IL | Onsite | 2026-08-31 | Rolling | 🟢 Open | ❔ |
+| [Publicis Groupe](generated/companies/publicis-groupe.md) | [Product Manager Intern - Class of 2028](https://careers.publicisgroupe.com/jobs/172574?icims=1) | Chicago, IL | Onsite | 2026-09-18 | Rolling | 🟢 Open | ❔ |
 | [Qorvo](generated/companies/qorvo.md) | [Product Management Engineer Intern - High Performance Analog](https://careers.qorvo.com/job/Richardson-Product-Management-Engineering-Intern-TX-75081/1424705200/?ats=successfactors) | Richardson, TX | Onsite | 2026-08-31 | Rolling | 🟢 Open | ❔ |
 | [Qorvo](generated/companies/qorvo.md) | [Product Management Intern](https://careers.qorvo.com/job/Greensboro-Product-Management-Intern-NC-27409/1421954200/?ats=successfactors) | Greensboro, NC | Onsite | 2026-08-31 | Rolling | 🟢 Open | ❔ |
 | [Qorvo](generated/companies/qorvo.md) | [Product Management Intern - Advanced Cellular](https://careers.qorvo.com/job/Greensboro-Product-Management-Intern-NC-27409/1421973000/?ats=successfactors) | Greensboro, NC | Onsite | 2026-08-31 | Rolling | 🟢 Open | ❔ |
@@ -137,12 +139,14 @@
 | [GE Vernova](generated/companies/ge-vernova.md) | [GE Vernova Grid Automation Product Management Intern](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Rochester/GE-Vernova-Grid-Automation-Product-Management-Intern---Fall-2026_R5035460-3) | Rochester, NY | Onsite | 2026-04-07 | Rolling | 🔴 Closed | ❔ |
 | [Gemini](generated/companies/gemini.md) | [Product Management Intern](https://boards.greenhouse.io/embed/job_app?for=gemini&token=8041452&gh_jid=8041452) | NYC | Onsite | 2026-07-01 | Rolling | 🔴 Closed | ❔ |
 | [Geotab](generated/companies/geotab.md) | [Product Management Intern - Growth & Marketplace](https://job-boards.greenhouse.io/internshiplist2000/jobs/5291162008) | Oakville | Onsite | 2026-09-02 | Rolling | 🔴 Closed | ❔ |
+| [Goldman Sachs](generated/companies/goldman-sachs.md) | [AWM Product Management Analyst Intern](https://higher.gs.com/roles/171513?type=students) | Dallas, TX | Onsite | 2026-08-19 | Rolling | 🔴 Closed | ❔ |
 | [Goldman Sachs](generated/companies/goldman-sachs.md) | [Summer Analyst Intern - Americas - AWM Product Management](https://higher.gs.com/roles/182389?type=students) | NYC | Onsite | 2026-08-19 | Rolling | 🔴 Closed | ❔ |
 | [Goldman Sachs](generated/companies/goldman-sachs.md) | [Summer Analyst Intern - Wealth Management - Product Management and Design](https://higher.gs.com/roles/170935?type=students) | London | Onsite | 2026-08-15 | Rolling | 🔴 Closed | ❔ |
 | [JP Morgan Chase](generated/companies/jp-morgan-chase.md) | [Product Manager Intern - Chase Digital Development Programme](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210775305) | London | Onsite | 2026-09-01 | Rolling | 🔴 Closed | ❔ |
 | [Medline](generated/companies/medline.md) | [Product Management Intern - Summer 2027](https://medline.wd5.myworkdayjobs.com/en-US/Medline/job/Northfield-Illinois/Product-Management-Intern---Summer-2027_R2616983) | Chicago, IL +1 | Onsite | 2026-08-31 | Rolling | 🔴 Closed | ❔ |
 | [Naver U.Hub INC](generated/companies/naver-u-hub-inc.md) | [Product Management Intern](https://naveruhubinc.applytojob.com/apply/snw35vU7eX/ThingsBook-Product-Management-Intern) | Redwood City, CA | Onsite | 2026-08-03 | Rolling | 🔴 Closed | ❔ |
 | [Pendulum Intelligence](generated/companies/pendulum-intelligence.md) | [Product Manager Intern](https://ats.rippling.com/pendulum-intelligence-jobs/jobs/301a1742-46fd-4489-b410-6fdcac0dbe27) | Remote | Remote | 2026-07-21 | Rolling | 🔴 Closed | ❔ |
+| [PricewaterhouseCoopers (PwC)](generated/companies/pricewaterhousecoopers-pwc.md) | [Tax Innovation Delivery Experience Intern - Product Management](https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Tax-Innovation-Delivery-Experience--TIDE----Product-Management---Intern---Summer-2027_756419WD) | Rosemont, IL | Onsite | 2026-08-31 | Rolling | 🔴 Closed | ❔ |
 | [Procter & Gamble](generated/companies/procter-gamble.md) | [IT Project & Product Manager Intern](https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/IT-Project---Product-Manager-Internship_R000157500) | Cincinnati, OH | Onsite | 2026-08-24 | Rolling | 🔴 Closed | ❔ |
 | [Revvity](generated/companies/revvity.md) | [Product Manager Intern](https://revvity.wd103.myworkdayjobs.com/External/job/CAD-Remote--ON/Product-Manager-Intern_JR-044907) | Remote | Remote | 2026-07-15 | Rolling | 🔴 Closed | ❔ |
 | [Rise8](generated/companies/rise8.md) | [Skillbridge Intern - Product Manager](https://job-boards.greenhouse.io/rise8/jobs/4359627007) | Remote | Remote | 2026-06-29 | Rolling | 🔴 Closed | ❔ |
@@ -172,9 +176,9 @@
 - Tesla (5)
 - Coinbase (4)
 - Cox (4)
-- Goldman Sachs (3)
 - Qorvo (3)
 - Springs Window Fashions (3)
+- Goldman Sachs (3)
 - Appian (2)
 - Blackhawk Network Holdings (2)
 - BNY (2)
@@ -182,6 +186,7 @@
 - Databricks (2)
 - Datadog (2)
 - Duolingo (2)
+- Gemini (2)
 - Geotab (2)
 - Illinois Tool Works (2)
 - Medline (2)
@@ -205,7 +210,9 @@
 - Dick's Sporting Goods (1)
 - Ernst & Young (1)
 - Fidelity National Information Services (1)
+- General Motors (1)
 - Gordon Food Service (1)
+- Guardian Life (1)
 - Hudl (1)
 - Intuit (1)
 - Johns Manville (1)
@@ -216,6 +223,7 @@
 - NJM Insurance Group (1)
 - NVIDIA (1)
 - Pentair (1)
+- Publicis Groupe (1)
 - Roblox (1)
 - ROCKWOOL Group (1)
 - Skydio (1)
@@ -233,7 +241,6 @@
 - Altasciences (1)
 - Centerfield (1)
 - Charles Schwab (1)
-- Gemini (1)
 - JP Morgan Chase (1)
 - Naver U.Hub INC (1)
 - Pendulum Intelligence (1)

@@ -58,6 +58,7 @@
 | AMD | [Machine Learning/Artificial Intelligence Intern/Co-op](https://careers.amd.com/jobs/91363?icims=1) | Markham | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
 | AMD | [Machine Learning/Artificial Intelligence Intern/Co-op](https://careers.amd.com/jobs/90383?icims=1) | Markham | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
 | AMD | [Optical & Photonics Engineering Intern/Co-op](https://careers.amd.com/jobs/92358?icims=1) | San Jose, CA +1 | Onsite | 2026-09-11 | Rolling | 🟢 Open | ❔ |
+| AMD | [PhD HPC & Sovereign AI Intern/Co-op](https://careers.amd.com/jobs/92636?icims=1) | San Jose, CA +1 | Onsite | 2026-09-18 | Rolling | 🟢 Open | ❔ |
 | AMD | [Product Development Engineer Intern/Co-op](https://careers.amd.com/jobs/91227?icims=1) | San Jose, CA +1 | Onsite | 2026-08-21 | Rolling | 🟢 Open | ❔ |
 | AMD | [Product Development Engineer Intern/Co-op](https://careers.amd.com/jobs/90790?icims=1) | Rochester, NY +5 | Onsite | 2026-08-21 | Rolling | 🟢 Open | ❔ |
 | AMD | [Product Development Engineering Intern/Co-op](https://careers.amd.com/jobs/91230?icims=1) | Rochester, NY +5 | Onsite | 2026-08-21 | Rolling | 🟢 Open | ❔ |

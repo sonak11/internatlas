@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 📊 Data Science Internships
 
-**177** tracked · **145** open now
+**179** tracked · **147** open now
 
 ## Current openings
 
@@ -101,6 +101,7 @@
 | [Merck](generated/companies/merck.md) | [Data Scientist Intern - Nonclinical Drug Safety](https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Massachusetts---Boston-MA-Parcel-B-Laboratory/XMLNAME-2027-Future-Talent-Program---Nonclinical-Drug-Safety-Data-Scientist---Intern_R412861) | Boston, MA | Onsite | 2026-09-08 | Rolling | 🟢 Open | ❔ |
 | [Merck](generated/companies/merck.md) | [Medical Data Scientist Intern](https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Pennsylvania---North-Wales-Upper-Gwynedd/XMLNAME-2027-Future-Talent-Program---Medical-Data-Scientist---Intern_R412403) | North Wales, PA | Onsite | 2026-09-08 | Rolling | 🟢 Open | ❔ |
 | [Merck](generated/companies/merck.md) | [Optical Imaging Data Science Intern](https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Massachusetts---Boston-MA-Parcel-B-Laboratory/XMLNAME-2027-Future-Talent-Program---Optical-Imaging-Data-Science-Intern---Intern_R412885) | Boston, MA | Onsite | 2026-09-08 | Rolling | 🟢 Open | ❔ |
+| [MetOx International](generated/companies/metox-international.md) | [Data Science Intern - Spring 2027](https://job-boards.greenhouse.io/metoxinternationalinc/jobs/5427064008) | Houston, TX | Onsite | 2026-09-18 | Rolling | 🟢 Open | ❔ |
 | [Momentive](generated/companies/momentive.md) | [Data Science Intern - Enterprise Reporting & Analytics](https://momentive.wd1.myworkdayjobs.com/MC/job/US-NY-Niskayuna/Summer-2027-Intern---Enterprise-Reporting---Analytics---Data-Science_R9807-1) | Niskayuna, NY | Onsite | 2026-09-03 | Rolling | 🟢 Open | ❔ |
 | [Navy Federal](generated/companies/navy-federal.md) | [Data Scientist Intern](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32291) | Vienna, VA | Onsite | 2026-09-09 | Rolling | 🟢 Open | ❔ |
 | [Navy Federal](generated/companies/navy-federal.md) | [Data Scientist Intern](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32288) | Pensacola, FL +1 | Onsite | 2026-09-09 | Rolling | 🟢 Open | ❔ |
@@ -148,9 +149,10 @@
 | [Walmart](generated/companies/walmart.md) | [Data Science Intern 3](https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-ISD-Office---DGTC-AR-BENTONVILLE-Home-Office/Summer-2027-Intern---Data-Science-III_R-2630030) | Bentonville, AR | Onsite | 2026-09-10 | Rolling | 🟢 Open | ❔ |
 | [Walmart](generated/companies/walmart.md) | [Senior Data Scientist Intern](https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-ISD-Office---DGTC-AR-BENTONVILLE-Home-Office/Summer-2027-Intern--Intern--Sr-Data-Science_R-2630032) | Bentonville, AR | Onsite | 2026-09-10 | Rolling | 🟢 Open | ❔ |
 | [Waymo](generated/companies/waymo.md) | [2027 Summer Intern, MS/PhD, Data Science - Commercialization Testing](https://careers.withwaymo.com/jobs?gh_jid=8167323) | San Francisco +1 | Onsite | 2026-08-31 | Rolling | 🟢 Open | ❔ |
-| [Waymo](generated/companies/waymo.md) | [2027 Summer Intern, PhD, Product Data Science](https://careers.withwaymo.com/jobs?gh_jid=8199365) | San Francisco | Onsite | 2026-09-18 | Rolling | 🟢 Open | ❔ |
+| [Waymo](generated/companies/waymo.md) | [2027 Summer Intern, PhD, Product Data Science](https://careers.withwaymo.com/jobs?gh_jid=8199365) | San Francisco +1 | Onsite | 2026-09-18 | Rolling | 🟢 Open | ❔ |
 | [Wealthsimple](generated/companies/wealthsimple.md) | [Software Development Intern / Data Science Intern - Multiple Teams](https://jobs.ashbyhq.com/wealthsimple/de09418a-8a12-46aa-a371-34bafaf5be26/application?embed=true) | Toronto | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
 | [WhiteWater Midstream](generated/companies/whitewater-midstream.md) | [Data Science Intern - Summer 2027](https://job-boards.greenhouse.io/whitewatermidstream/jobs/5217853007) | Austin, TX | Onsite | 2026-08-26 | Rolling | 🟢 Open | ❔ |
+| [WTW](generated/companies/wtw.md) | [Data Scientist Intern - P&C Insurance](https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202605997) | London +1 | Onsite | 2026-09-18 | Rolling | 🟢 Open | ❔ |
 | [Xcel Energy](generated/companies/xcel-energy.md) | [Data Science Intern](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80205/Data-Science-Intern-CO--MN_JR116327-1) | Minneapolis, MN +1 | Onsite | 2026-09-07 | Rolling | 🟢 Open | ❔ |
 | [Xcel Energy](generated/companies/xcel-energy.md) | [Data Scientist Intern](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Minneapolis-MN-55401/Data-Scientist-Intern---MN--CO_JR115668-1) | Minneapolis, MN +1 | Onsite | 2026-09-07 | Rolling | 🟢 Open | ❔ |
 | [American Institutes for Research](generated/companies/american-institutes-for-research.md) | [Data Science Intern](https://job-boards.greenhouse.io/americaninstitutesforresearch/jobs/5404816008) | Arlington County | Onsite | 2026-08-26 | Rolling | 🔴 Closed | ❔ |
@@ -261,6 +263,7 @@
 - Louisiana Blue (1)
 - Mackenzie Investments (1)
 - Meijer (1)
+- MetOx International (1)
 - Momentive (1)
 - NJM Insurance Group (1)
 - Northern Trust (1)
@@ -280,6 +283,7 @@
 - URBN (1)
 - Wealthsimple (1)
 - WhiteWater Midstream (1)
+- WTW (1)
 - American Institutes for Research (1)
 - Arevon (1)
 - Crum & Forster Insurance (1)

@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # ⚙️ Embedded Internships
 
-**112** tracked · **84** open now
+**113** tracked · **85** open now
 
 ## Current openings
 
@@ -72,6 +72,7 @@
 | [Tesla](generated/companies/tesla.md) | [Chassis Validation Engineer Intern, Vehicle Firmware](https://www.tesla.com/careers/search/job/247990) | Palo Alto, CA | Onsite | 2025-08-08 | Rolling | 🟢 Open | ❔ |
 | [Tesla](generated/companies/tesla.md) | [Content Integration Engineer Intern - Vehicle Firmware](https://www.tesla.com/careers/search/job/283220) | Palo Alto, CA | Onsite | 2026-09-11 | Rolling | 🟢 Open | ❔ |
 | [Tesla](generated/companies/tesla.md) | [Embedded Engineer Intern - Infotainment Platforms](https://www.tesla.com/careers/search/job/281100) | Palo Alto, CA | Onsite | 2026-09-03 | Rolling | 🟢 Open | ❔ |
+| [Tesla](generated/companies/tesla.md) | [Embedded Software Engineer Intern - Body Controls Firmware](https://www.tesla.com/careers/search/job/283994) | Palo Alto, CA | Onsite | 2026-09-18 | Rolling | 🟢 Open | ❔ |
 | [Tesla](generated/companies/tesla.md) | [Embedded Software Engineer Intern - Firmware Platforms](https://www.tesla.com/careers/search/job/281102) | Palo Alto, CA | Onsite | 2026-08-26 | Rolling | 🟢 Open | ❔ |
 | [Tesla](generated/companies/tesla.md) | [Embedded Software Engineer Intern - High Voltage Systems](https://www.tesla.com/careers/search/job/282227) | Palo Alto, CA | Onsite | 2026-09-03 | Rolling | 🟢 Open | ❔ |
 | [Tesla](generated/companies/tesla.md) | [Embedded Software Engineer Intern - Optimus](https://www.tesla.com/careers/search/job/282340) | Palo Alto, CA | Onsite | 2026-09-03 | Rolling | 🟢 Open | ❔ |
@@ -123,7 +124,7 @@
 
 ## Hiring companies
 
-- Tesla (22)
+- Tesla (23)
 - AMD (8)
 - Neuralink (4)
 - Zipline (4)

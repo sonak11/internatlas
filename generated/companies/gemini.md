@@ -6,6 +6,8 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
+| Gemini | [Product Management Intern](https://boards.greenhouse.io/embed/job_app?for=gemini&token=8214332&gh_jid=8214332) | NYC | Onsite | 2026-09-18 | Rolling | 🟢 Open | ❔ |
+| Gemini | [Software Engineer Intern](https://boards.greenhouse.io/embed/job_app?for=gemini&token=8214272&gh_jid=8214272) | NYC | Onsite | 2026-09-18 | Rolling | 🟢 Open | ❔ |
 | Gemini | [Product Management Intern](https://boards.greenhouse.io/embed/job_app?for=gemini&token=8041452&gh_jid=8041452) | NYC | Onsite | 2026-07-01 | Rolling | 🔴 Closed | ❔ |
 | Gemini | [Software Engineer Intern](https://boards.greenhouse.io/embed/job_app?for=gemini&token=7875125&gh_jid=7875125) | NYC | Onsite | 2026-05-01 | Rolling | 🔴 Closed | ❔ |
 | Gemini | [Software Engineering Intern](https://job-boards.greenhouse.io/embed/job_app?for=gemini&token=7875125) | New York, NY | Onsite | 2026-07-28 | Rolling | 🔴 Closed | ❔ |

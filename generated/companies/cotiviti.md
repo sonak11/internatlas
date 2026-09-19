@@ -6,8 +6,8 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
+| Cotiviti | [Generative AI Research Engineer Intern](https://careers-cotiviti.icims.com/jobs/20183/job?mobile=true&needsRedirect=false) | Remote | Remote | 2026-09-18 | Rolling | 🟢 Open | ❔ |
 | Cotiviti | [Agentic AI Research Intern](https://careers-cotiviti.icims.com/jobs/19480/job?mobile=true&needsRedirect=false) | Remote | Remote | 2026-08-12 | Rolling | 🔴 Closed | ❔ |
-| Cotiviti | [Generative AI Research Engineer Intern](https://careers-cotiviti.icims.com/jobs/19341/job?mobile=true&needsRedirect=false) | Remote | Remote | 2026-06-16 | Rolling | 🔴 Closed | ❔ |
 
 ## Related
 

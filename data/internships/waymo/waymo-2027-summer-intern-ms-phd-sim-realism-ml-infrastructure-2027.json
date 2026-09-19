@@ -16,6 +16,10 @@
     {
       "city": "London",
       "country": "USA"
+    },
+    {
+      "city": "London",
+      "country": "UK"
     }
   ],
   "compensation": {
@@ -25,7 +29,10 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "masters",
+      "phd"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -42,7 +49,7 @@
   "dates": {
     "posted": "2026-09-18",
     "discovered": "2026-09-18",
-    "last_verified": "2026-09-18"
+    "last_verified": "2026-09-19"
   },
   "status": "open",
   "tags": [

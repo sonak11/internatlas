@@ -7,39 +7,14 @@
   },
   "role": "Software Engineer Intern",
   "category": "software-engineering",
-  "apply_url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Intern-Software-Engineer_R10250150",
+  "apply_url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10239275",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Redondo Beach",
-      "state": "CA",
-      "country": "USA"
-    },
-    {
-      "city": "Palmdale",
-      "state": "CA",
-      "country": "USA"
-    },
-    {
-      "city": "Oklahoma City",
-      "state": "OK",
-      "country": "USA"
-    },
-    {
-      "city": "San Diego",
-      "state": "CA",
-      "country": "USA"
-    },
-    {
-      "city": "Emerado",
-      "state": "ND",
-      "country": "USA"
-    },
-    {
-      "city": "El Segundo",
-      "state": "CA",
+      "city": "Melbourne",
+      "state": "FL",
       "country": "USA"
     }
   ],
@@ -67,11 +42,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-09",
+    "posted": "2026-07-08",
     "discovered": "2026-07-25",
-    "last_verified": "2026-09-12"
+    "last_verified": "2026-09-19"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

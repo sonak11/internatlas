@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🎨 Design Internships
 
-**126** tracked · **91** open now
+**128** tracked · **92** open now
 
 ## Current openings
 
@@ -69,7 +69,6 @@
 | [NXP Semiconductors](generated/companies/nxp-semiconductors.md) | [Digital Physical Design Intern](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Digital-Physical-Design-Intern---Summer-2027_R-10065546) | Austin, TX | Onsite | 2026-09-07 | Rolling | 🟢 Open | ❔ |
 | [NXP Semiconductors](generated/companies/nxp-semiconductors.md) | [Digital Physical Design Intern](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Digital-Physical-Design-Intern---Spring-2027_R-10065545) | Austin, TX | Onsite | 2026-09-07 | Rolling | 🟢 Open | ❔ |
 | [NXP Semiconductors](generated/companies/nxp-semiconductors.md) | [Digital Physical Design Intern - P&R](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Chandler-Office/Digital-Physical-Design--P-R--Intern_R-10064673) | Chandler, AZ | Onsite | 2026-07-13 | Rolling | 🟢 Open | ❔ |
-| [OCC](generated/companies/occ.md) | [Software Engineering Intern - UI/UX](https://theocc.wd5.myworkdayjobs.com/careers/job/Chicago---125-S-Franklin/Summer-Intern---Software-Engineering--UI-UX_REQ-4868) | Chicago, IL | Onsite | 2026-09-17 | Rolling | 🟢 Open | ❔ |
 | [Qorvo](generated/companies/qorvo.md) | [Analog Design Engineer Intern](https://careers.qorvo.com/job/San-Jose-Analog-Design-Engineering-Intern-CA-95134/1424725600/?ats=successfactors) | San Jose, CA | Onsite | 2026-08-31 | Rolling | 🟢 Open | ❔ |
 | [Qorvo](generated/companies/qorvo.md) | [Analog Design Engineer Intern - High Performance Analog - Advanced Cellular](https://careers.qorvo.com/job/Richardson-Analog-Design-Engineering-Intern-TX-75081/1424728600/?ats=successfactors) | Richardson, TX | Onsite | 2026-08-31 | Rolling | 🟢 Open | ❔ |
 | [Qorvo](generated/companies/qorvo.md) | [Analog Design Intern](https://careers.qorvo.com/job/Chandler-Analog-Design-Intern-AZ-85226/1421977600/?ats=successfactors) | Chandler, AZ | Onsite | 2026-08-31 | Rolling | 🟢 Open | ❔ |
@@ -83,6 +82,7 @@
 | [Qorvo](generated/companies/qorvo.md) | [SOI Design Engineer Intern](https://careers.qorvo.com/job/Greensboro-SOI-Design-Intern-NC-27409/1421670100/?ats=successfactors) | Greensboro, NC | Onsite | 2026-08-31 | Rolling | 🟢 Open | ❔ |
 | [Qorvo](generated/companies/qorvo.md) | [SOI Design Engineer Intern - High Performance Analog - Advanced Cellular](https://careers.qorvo.com/job/Greensboro-SOI-Design-Intern-NC-27409/1421973500/?ats=successfactors) | Greensboro, NC | Onsite | 2026-08-31 | Rolling | 🟢 Open | ❔ |
 | [Qualcomm](generated/companies/qualcomm.md) | [Design Methodology Engineer Intern - MSIP - HW](https://qualcomm.eightfold.ai/careers/job/446721140936) | Toronto | Onsite | 2026-09-17 | Rolling | 🟢 Open | ❔ |
+| [Qualcomm](generated/companies/qualcomm.md) | [MSIP Digital Design Verification Engineering Intern - HW](https://qualcomm.eightfold.ai/careers/job/446721156800) | Toronto | Onsite | 2026-09-18 | Rolling | 🟢 Open | ❔ |
 | [Roblox](generated/companies/roblox.md) | [[Summer 2027] Product Design Intern](https://careers.roblox.com/jobs/8143984?gh_jid=8143984) | San Mateo, CA | Onsite | 2026-09-02 | Rolling | 🟢 Open | ❔ |
 | [RTX](generated/companies/rtx.md) | [Digital Design Electrical Engineer Intern - Summer 2027](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-M02--1151-E-Hermans-Rd--BLDG-M02/Digital-Design-Electrical-Engineer-Intern--Summer-2027--Onsite-_01872991) | Tucson, AZ | Onsite | 2026-09-08 | Rolling | 🟢 Open | ❔ |
 | [SkyGig](generated/companies/skygig.md) | [RFIC Design Intern](https://apply.workable.com/skygig/j/10A5A58F9E/apply) | San Jose, CA | Onsite | 2026-08-11 | Rolling | 🟢 Open | ❔ |
@@ -92,6 +92,7 @@
 | [Tesla](generated/companies/tesla.md) | [Electronic Design Engineer Intern - Energy Engineering](https://www.tesla.com/careers/search/job/283676) | Palo Alto, CA | Onsite | 2026-09-16 | Rolling | 🟢 Open | ❔ |
 | [Tesla](generated/companies/tesla.md) | [Electronic Design Engineer Intern - Optimus](https://www.tesla.com/careers/search/job/271981) | Palo Alto, CA | Onsite | 2026-06-07 | Rolling | 🟢 Open | ❔ |
 | [Tesla](generated/companies/tesla.md) | [Internship - Electronic Design Engineer - Optimus - Winter/Spring 2027](https://www.tesla.com/careers/search/job/284008) | Palo Alto, CA | Onsite | 2026-09-18 | Rolling | 🟢 Open | ❔ |
+| [Tesla](generated/companies/tesla.md) | [Reliability Electronics Design Engineer Intern - Energy Engineering](https://www.tesla.com/careers/search/job/284126) | Palo Alto, CA | Onsite | 2026-09-18 | Rolling | 🟢 Open | ❔ |
 | [Tesla](generated/companies/tesla.md) | [Robotics Physics Modeling Engineer Intern - Model Based Design - Optimus](https://www.tesla.com/careers/search/job/283128) | Palo Alto, CA | Onsite | 2026-09-11 | Rolling | 🟢 Open | ❔ |
 | [Tesla](generated/companies/tesla.md) | [Software Engineer Intern - Vehicle UI Development](https://www.tesla.com/careers/search/job/282242) | Palo Alto, CA | Onsite | 2026-09-03 | Rolling | 🟢 Open | ❔ |
 | [Tesla](generated/companies/tesla.md) | [Software Engineer Intern, Vehicle UI Development](https://www.tesla.com/careers/search/job/internship-software-engineer-vehicle-ui-development-fall-2026-270063) | Palo Alto, CA | Onsite | 2026-05-09 | Rolling | 🟢 Open | ❔ |
@@ -122,6 +123,7 @@
 | [Micron Technology](generated/companies/micron-technology.md) | [Digital IP Design Engineer Intern - DRAM](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Digital-IP-Design-Engineer--DRAM_JR108533) | Boise, ID | Onsite | 2026-08-13 | Rolling | 🔴 Closed | ❔ |
 | [Micron Technology](generated/companies/micron-technology.md) | [DRAM IP Circuits Design Engineer Intern - IP Development](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---DRAM-IP-Circuits-Design-Engineer_JR108471) | Boise, ID | Onsite | 2026-08-10 | Rolling | 🔴 Closed | ❔ |
 | [Nokia](generated/companies/nokia.md) | [Software Designer Co-op Intern - Intern](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39679) | Ottawa | Onsite | 2026-09-02 | Rolling | 🔴 Closed | ❔ |
+| [OCC](generated/companies/occ.md) | [Software Engineering Intern - UI/UX](https://theocc.wd5.myworkdayjobs.com/careers/job/Chicago---125-S-Franklin/Summer-Intern---Software-Engineering--UI-UX_REQ-4868) | Chicago, IL | Onsite | 2026-09-17 | Rolling | 🔴 Closed | ❔ |
 | [Qorvo](generated/companies/qorvo.md) | [RFIC Design Engineer Intern](https://careers.qorvo.com/job/Greensboro-RFIC-Design-Engineering-Intern-NC-27409/1421973800/?ats=successfactors) | Greensboro, NC | Onsite | 2026-08-31 | Rolling | 🔴 Closed | ❔ |
 | [Renesas Electronics](generated/companies/renesas-electronics.md) | [Digital Design Engineer Intern](https://jobs.smartrecruiters.com/RenesasElectronics/744000143930119) | Duluth, GA | Onsite | 2026-08-17 | Rolling | 🔴 Closed | ❔ |
 | [Rivian and Volkswagen Group Technologies](generated/companies/rivian-and-volkswagen-group-technologies.md) | [Electromechanical Design Engineer Intern](https://jobs.ashbyhq.com/rivianvw.tech/14734be2-9c81-4aab-bfa6-7dbbe95c94a6/application?embed=true) | Palo Alto, CA +2 | Onsite | 2026-06-11 | Rolling | 🔴 Closed | ❔ |
@@ -138,7 +140,7 @@
 ## Hiring companies
 
 - Marvell (20)
-- Tesla (15)
+- Tesla (16)
 - Qorvo (13)
 - NXP Semiconductors (8)
 - Micron Technology (7)
@@ -154,6 +156,7 @@
 - DoorDash (2)
 - Garmin (2)
 - Microchip Technology (2)
+- Qualcomm (2)
 - RTX (2)
 - Astranis (2)
 - Brunswick (2)
@@ -162,8 +165,6 @@
 - Dedalus Labs (1)
 - Heron Power (1)
 - North Atlantic Industries (1)
-- OCC (1)
-- Qualcomm (1)
 - Roblox (1)
 - SkyGig (1)
 - Xcel Energy (1)
@@ -176,6 +177,7 @@
 - Intel (1)
 - L3Harris Technologies (1)
 - Nokia (1)
+- OCC (1)
 - Renesas Electronics (1)
 - Rivian and Volkswagen Group Technologies (1)
 - Tenstorrent (1)

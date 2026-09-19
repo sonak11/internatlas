@@ -8,9 +8,12 @@
 |---|---|---|---|---|---|---|---|
 | Qualcomm | [Analog Design Intern - Hardware Engineering](https://qualcomm.eightfold.ai/careers/job/446721140914) | Toronto | Onsite | 2026-09-17 | Rolling | 🟢 Open | ❔ |
 | Qualcomm | [Design Methodology Engineer Intern - MSIP - HW](https://qualcomm.eightfold.ai/careers/job/446721140936) | Toronto | Onsite | 2026-09-17 | Rolling | 🟢 Open | ❔ |
+| Qualcomm | [Electrical and Optical Systems Intern - Silicon Validation Engineer - Interim Engineering Intern - Hardware](https://qualcomm.eightfold.ai/careers/job/446721156176) | Ottawa | Onsite | 2026-09-18 | Rolling | 🟢 Open | ❔ |
 | Qualcomm | [Firmware Engineer Intern - Embedded Software Engineering - Embedded Firmware and SDK Development](https://qualcomm.eightfold.ai/careers/job/446721141411) | Toronto | Onsite | 2026-09-17 | Rolling | 🟢 Open | ❔ |
+| Qualcomm | [IP Applications Engineering Intern - Interim Engineering Intern - HW](https://qualcomm.eightfold.ai/careers/job/446721156615) | Toronto | Onsite | 2026-09-18 | Rolling | 🟢 Open | ❔ |
 | Qualcomm | [Low Power AI Software Development Intern - Interim Engineering Intern - Software](https://qualcomm.eightfold.ai/careers/job/446721143440) | Markham | Onsite | 2026-09-18 | Rolling | 🟢 Open | ❔ |
 | Qualcomm | [Machine Learning Compiler & Performance Engineering Intern - Systems](https://qualcomm.eightfold.ai/careers/job/446721064018) | Markham | Onsite | 2026-09-11 | Rolling | 🟢 Open | ❔ |
+| Qualcomm | [MSIP Digital Design Verification Engineering Intern - HW](https://qualcomm.eightfold.ai/careers/job/446721156800) | Toronto | Onsite | 2026-09-18 | Rolling | 🟢 Open | ❔ |
 | Qualcomm | [Physical Mixed Layout Engineer Intern - Canada - Interim Engineering Intern - HW](https://qualcomm.eightfold.ai/careers/job/446721142985) | Toronto | Onsite | 2026-09-17 | Rolling | 🟢 Open | ❔ |
 | Qualcomm | [Sensors Subsystem Engineering Intern - Low-Power AI - Audio](https://qualcomm.eightfold.ai/careers/job/446721109229) | Markham | Onsite | 2026-09-15 | Rolling | 🟢 Open | ❔ |
 | Qualcomm | [Sensors Subsystem Engineering Intern - Multiple Teams](https://qualcomm.eightfold.ai/careers/job/446721109168) | Markham | Onsite | 2026-09-15 | Rolling | 🟢 Open | ❔ |

@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🔩 Hardware Internships
 
-**189** tracked · **149** open now
+**191** tracked · **151** open now
 
 ## Current openings
 
@@ -64,6 +64,7 @@
 | [Figure](generated/companies/figure.md) | [Hardware Reliability Intern](https://job-boards.greenhouse.io/figureai/jobs/4613067006) | San Jose, CA | Onsite | 2026-06-23 | Rolling | 🟢 Open | ❔ |
 | [Formlabs](generated/companies/formlabs.md) | [Hardware R&D Engineer Intern](https://careers.formlabs.com/job/8097694/apply/?gh_jid=8097694) | Cambridge, MA +1 | Onsite | 2026-07-30 | Rolling | 🟢 Open | ❔ |
 | [Formlabs](generated/companies/formlabs.md) | [Hardware Systems Integration Intern - Winter/Spring 2027](https://careers.formlabs.com/job/8172004/apply/?gh_jid=8172004) | Somerville, MA | Onsite | 2026-09-02 | Rolling | 🟢 Open | ❔ |
+| [Formlabs](generated/companies/formlabs.md) | [Hardware Test Engineer Intern](https://careers.formlabs.com/job/8196515/apply/?gh_jid=8196515) | Somerville, MA | Onsite | 2026-09-18 | Rolling | 🟢 Open | ❔ |
 | [GE Healthcare](generated/companies/ge-healthcare.md) | [Engineering Development Program Intern - Hardware](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Waukesha/Edison-Engineering-Development-Program-Internship---Hardware_R4043923-1) | Twinsburg, OH +1 | Onsite | 2026-07-20 | Rolling | 🟢 Open | ❔ |
 | [GE Vernova](generated/companies/ge-vernova.md) | [Hardware Automation and Test Engineering Intern - Critical Infrastructure Communications](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Rochester/GE-Vernova-Hardware-Automation-and-Test-Engineering-Intern---Summer-Fall-2027_R5051790-2) | Rochester, NY | Onsite | 2026-09-09 | Rolling | 🟢 Open | ❔ |
 | [GE Vernova](generated/companies/ge-vernova.md) | [Hardware Automation and Test Engineering Intern - Critical Infrastructure Communications](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Rochester/GE-Vernova-Hardware-Automation-and-Test-Engineering-Intern---Summer-Fall-2027_R5051790-1) | Rochester, NY | Onsite | 2026-09-09 | Rolling | 🟢 Open | ❔ |
@@ -123,6 +124,7 @@
 | [Optiver](generated/companies/optiver.md) | [FPGA Engineer Intern](https://www.optiver.com/join-us/jobs/8641352002/?gh_jid=8641352002) | Austin, TX | Onsite | 2026-07-21 | Rolling | 🟢 Open | ❔ |
 | [Optiver](generated/companies/optiver.md) | [FPGA Engineer Intern](https://www.optiver.com/join-us/jobs/8402114002/?gh_jid=8402114002) | Chicago, IL | Onsite | 2026-07-21 | Rolling | 🟢 Open | ❔ |
 | [Qualcomm](generated/companies/qualcomm.md) | [Analog Design Intern - Hardware Engineering](https://qualcomm.eightfold.ai/careers/job/446721140914) | Toronto | Onsite | 2026-09-17 | Rolling | 🟢 Open | ❔ |
+| [Qualcomm](generated/companies/qualcomm.md) | [Electrical and Optical Systems Intern - Silicon Validation Engineer - Interim Engineering Intern - Hardware](https://qualcomm.eightfold.ai/careers/job/446721156176) | Ottawa | Onsite | 2026-09-18 | Rolling | 🟢 Open | ❔ |
 | [Qualcomm](generated/companies/qualcomm.md) | [Silicon Validation Intern](https://qualcomm.eightfold.ai/careers/job/446721143274) | Toronto | Onsite | 2026-09-18 | Rolling | 🟢 Open | ❔ |
 | [RTX](generated/companies/rtx.md) | [FPGA Design Intern](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-121--350-Collins-Rd-NE--BLDG-121/FPGA-Design-Intern--Summer-2027-_01870290) | Cedar Rapids, IA | Onsite | 2026-09-17 | Rolling | 🟢 Open | ❔ |
 | [RTX](generated/companies/rtx.md) | [FPGA Electrical Design Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-M02--1151-E-Hermans-Rd--BLDG-M02/FPGA-Electrical-Design-Engineer-Intern--Summer-2027--Onsite-_01872989) | Tucson, AZ | Onsite | 2026-09-08 | Rolling | 🟢 Open | ❔ |
@@ -209,15 +211,16 @@
 - Jump Trading (5)
 - Marvell (5)
 - Cadence Design Systems (4)
+- Formlabs (4)
 - Google (4)
 - Intel (4)
 - Tesla (4)
 - Bedrock Robotics (3)
 - CesiumAstro (3)
 - Ciena (3)
-- Formlabs (3)
 - Hermeus (3)
 - IMC Trading (3)
+- Qualcomm (3)
 - Zipline (3)
 - Astranis (3)
 - Bank of Montreal (2)
@@ -228,7 +231,6 @@
 - Moog (2)
 - Nokia (2)
 - Optiver (2)
-- Qualcomm (2)
 - RTX (2)
 - Shure (2)
 - Solidigm (2)

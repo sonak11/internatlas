@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🔬 Research Internships
 
-**151** tracked · **78** open now
+**160** tracked · **86** open now
 
 ## Current openings
 
@@ -38,6 +38,7 @@
 | [Dexmate](generated/companies/dexmate.md) | [Research Intern](https://jobs.ashbyhq.com/dexmate/9361af41-d1e4-4b27-be37-683685bf48dc/application?embed=true) | Fremont, CA | Onsite | 2026-07-21 | Rolling | 🟢 Open | ❔ |
 | [Dow Jones](generated/companies/dow-jones.md) | [Research Analyst Intern - Summer Internship Program](https://dowjones.wd1.myworkdayjobs.com/en-US/Dow_Jones_Career/job/Houston-TX---OPIS/Summer-2027-Internship-Program---Research-Analyst-Intern_Job_Req_55298) | Houston, TX | Onsite | 2026-09-14 | Rolling | 🟢 Open | ❔ |
 | [Eaton](generated/companies/eaton.md) | [Electrical Engineer Intern/Co-op - Research & Development Engineering](https://eaton.eightfold.ai/careers/job/687238596674) | Moon Twp, PA | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
+| [Eaton](generated/companies/eaton.md) | [R&D Engineer Intern - Research & Development Engineering](https://eaton.eightfold.ai/careers/job/687239185039) | Cleveland, TN | Onsite | 2026-09-18 | Rolling | 🟢 Open | ❔ |
 | [FGS Global](generated/companies/fgs-global.md) | [Research & Insights Intern](https://job-boards.greenhouse.io/fgsglobal/jobs/4805006007) | Washington, DC | Onsite | 2026-08-31 | Rolling | 🟢 Open | ❔ |
 | [General Motors](generated/companies/general-motors.md) | [Global Customer Research Intern](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--Global-Customer-Research-Intern--Master-MBA-Degree-_JR-202619679) | Washington, DC +1 | Onsite | 2026-09-08 | Rolling | 🟢 Open | ❔ |
 | [Google](generated/companies/google.md) | [Research Intern - PhD](https://www.google.com/about/careers/applications/jobs/results/86701057991680710) | Palo Alto, CA +27 | Onsite | 2026-08-24 | Rolling | 🟢 Open | ❔ |
@@ -49,7 +50,6 @@
 | [Jane Street](generated/companies/jane-street.md) | [Tools and Compilers Research and Development Intern](https://www.janestreet.com/join-jane-street/position/5869205002/) | New York, NY | Onsite | 2026-07-24 | Rolling | 🟢 Open | ✅ |
 | [Jump Trading](generated/companies/jump-trading.md) | [Campus Crypto Researcher (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7362318) | London | Onsite | 2025-10-29 | Rolling | 🟢 Open | ❔ |
 | [Merck](generated/companies/merck.md) | [Business Intelligence Intern - Research Lab](https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Pennsylvania---North-Wales-Upper-Gwynedd/XMLNAME-2027-Future-Talent-Program---Business-Intelligence---Intern_R412411) | North Wales, PA +1 | Onsite | 2026-09-08 | Rolling | 🟢 Open | ❔ |
-| [Meta](generated/companies/meta.md) | [Research Scientist Intern - State Estimation for Dexterous Manipulation](https://www.metacareers.com/jobs/2774289902955470) | Redmond, WA | Onsite | 2026-06-16 | Rolling | 🟢 Open | ❔ |
 | [Meta](generated/companies/meta.md) | [Research Scientist Intern, Advanced Materials for Soft Robotics (PhD)](https://www.metacareers.com/profile/job_details/25514049594874160) | Redmond, WA | Onsite | 2025-12-10 | Rolling | 🟢 Open | ❌ |
 | [Meta](generated/companies/meta.md) | [Research Scientist Intern, Computational Chemist](https://www.metacareers.com/profile/job_details/2059739221232640) | Redmond, WA | Onsite | 2025-12-10 | Rolling | 🟢 Open | ❌ |
 | [Meta](generated/companies/meta.md) | [Research Scientist Intern, Organic Optoelectronic Materials (PhD)](https://www.metacareers.com/profile/job_details/843617948284299) | Redmond, WA | Onsite | 2025-12-10 | Rolling | 🟢 Open | ❌ |
@@ -80,6 +80,14 @@
 | [TikTok](generated/companies/tiktok.md) | [Research Scientist Intern - Recommendation](https://lifeattiktok.com/search/7662661203281447221) | San Jose, CA | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
 | [TikTok](generated/companies/tiktok.md) | [Research Scientist Intern - Trust and Safety](https://lifeattiktok.com/search/7662674242861074741) | San Jose, CA | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
 | [TikTok](generated/companies/tiktok.md) | [Research Scientist Intern - Trust and Safety](https://lifeattiktok.com/search/7662672903447988485) | Seattle, WA | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
+| [Together AI](generated/companies/together-ai.md) | [Research Intern - Frontier Agents](https://job-boards.greenhouse.io/togetherai/jobs/5238468007) | SF | Onsite | 2026-09-18 | Rolling | 🟢 Open | ❔ |
+| [Together AI](generated/companies/together-ai.md) | [Research Intern - Frontier Agents](https://job-boards.greenhouse.io/togetherai/jobs/5238467007) | SF | Onsite | 2026-09-18 | Rolling | 🟢 Open | ❔ |
+| [Together AI](generated/companies/together-ai.md) | [Research Intern - Inference](https://job-boards.greenhouse.io/togetherai/jobs/5238462007) | SF | Onsite | 2026-09-18 | Rolling | 🟢 Open | ❔ |
+| [Together AI](generated/companies/together-ai.md) | [Research Intern - Inference](https://job-boards.greenhouse.io/togetherai/jobs/5238461007) | SF | Onsite | 2026-09-18 | Rolling | 🟢 Open | ❔ |
+| [Together AI](generated/companies/together-ai.md) | [Research Intern - Model Shaping](https://job-boards.greenhouse.io/togetherai/jobs/5238466007) | SF | Onsite | 2026-09-18 | Rolling | 🟢 Open | ❔ |
+| [Together AI](generated/companies/together-ai.md) | [Research Intern - Model Shaping](https://job-boards.greenhouse.io/togetherai/jobs/5238465007) | SF | Onsite | 2026-09-18 | Rolling | 🟢 Open | ❔ |
+| [Together AI](generated/companies/together-ai.md) | [Systems Research Engineer Intern - GPU Programming](https://job-boards.greenhouse.io/togetherai/jobs/5238460007) | SF | Onsite | 2026-09-18 | Rolling | 🟢 Open | ❔ |
+| [Together AI](generated/companies/together-ai.md) | [Systems Research Engineer Intern - GPU Programming](https://job-boards.greenhouse.io/togetherai/jobs/5238411007) | SF | Onsite | 2026-09-18 | Rolling | 🟢 Open | ❔ |
 | [Toyota Research Institute](generated/companies/toyota-research-institute.md) | [Robotics Research Intern - Post-Training](https://jobs.lever.co/tri/186808f9-464c-4f22-9d7d-4372ef272ff0/apply) | Los Altos, CA | Onsite | 2026-08-17 | Rolling | 🟢 Open | ❔ |
 | [Trata](generated/companies/trata.md) | [Research Scientist Intern](https://www.workatastartup.com/jobs/94620) | San Francisco, CA +1 | Onsite | 2026-05-14 | Rolling | 🟢 Open | ❌ |
 | [Vertiv](generated/companies/vertiv.md) | [Service Technology Research Intern - Summer 2027](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20270351) | Westerville, OH | Onsite | 2026-08-28 | Rolling | 🟢 Open | ❔ |
@@ -123,6 +131,7 @@
 | [Meta](generated/companies/meta.md) | [Research Scientist Intern - Monetization Computer Vision](https://www.metacareers.com/jobs/2281218542616482) | Menlo Park, CA | Onsite | 2026-07-10 | Rolling | 🔴 Closed | ❔ |
 | [Meta](generated/companies/meta.md) | [Research Scientist Intern - Multiple Teams](https://www.metacareers.com/jobs/1027438186737957) | Menlo Park, CA | Onsite | 2026-08-19 | Rolling | 🔴 Closed | ❔ |
 | [Meta](generated/companies/meta.md) | [Research Scientist Intern - Photorealistic Telepresence](https://www.metacareers.com/jobs/924149567345400) | London | Onsite | 2026-06-17 | Rolling | 🔴 Closed | ❔ |
+| [Meta](generated/companies/meta.md) | [Research Scientist Intern - State Estimation for Dexterous Manipulation](https://www.metacareers.com/jobs/2774289902955470) | Redmond, WA | Onsite | 2026-06-16 | Rolling | 🔴 Closed | ❔ |
 | [Meta](generated/companies/meta.md) | [Research Scientist Intern PhD - Applied Research](https://www.metacareers.com/jobs/2633206137040139) | Menlo Park, CA +2 | Onsite | 2026-03-05 | Rolling | 🔴 Closed | ❔ |
 | [Mistral AI](generated/companies/mistral-ai.md) | [Applied Scientist / Research Engineer Intern](https://jobs.ashbyhq.com/mtesting.ai/de46ba8b-00cb-4618-83df-66e15a78434e/application?embed=true) | London +1 | Onsite | 2026-07-21 | Rolling | 🔴 Closed | ❔ |
 | [Nationwide Children's Hospital](generated/companies/nationwide-children-s-hospital.md) | [IGM Research Intern - RI Miller](https://nationwidechildrens.wd5.myworkdayjobs.com/en-US/NCHCareers/job/Main-Campus-Columbus-OH/IGM-Research-Intern---RI-Miller_R-27625-1) | Columbus, OH | Onsite | 2026-08-21 | Rolling | 🔴 Closed | ❔ |
@@ -164,6 +173,7 @@
 
 - Meta (11)
 - NVIDIA (11)
+- Together AI (11)
 - TikTok (10)
 - ByteDance (9)
 - Pennsylvania State University (5)
@@ -172,10 +182,10 @@
 - AQR Capital Management (3)
 - Canva (3)
 - General Motors (3)
-- Together AI (3)
 - Abundant (2)
 - Applied Intuition (2)
 - Block (2)
+- Eaton (2)
 - Google (2)
 - Jane Street (2)
 - Mistral AI (2)
@@ -195,7 +205,6 @@
 - Definity Financial (1)
 - Dexmate (1)
 - Dow Jones (1)
-- Eaton (1)
 - FGS Global (1)
 - Huck Adventures (1)
 - Immuta (1)
