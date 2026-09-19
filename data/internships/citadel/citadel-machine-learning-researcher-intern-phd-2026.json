@@ -1,20 +1,34 @@
 {
   "schema_version": "1.0",
-  "id": "goldman-sachs-quantitative-strategist-intern-americas-the-core-quantitativ-2027-41219d",
+  "id": "citadel-machine-learning-researcher-intern-phd-2026",
   "company": {
-    "name": "Goldman Sachs",
-    "slug": "goldman-sachs"
+    "name": "Citadel",
+    "slug": "citadel"
   },
-  "role": "Quantitative Strategist Intern - Americas - The Core Quantitative Strats",
-  "category": "quant",
-  "apply_url": "https://higher.gs.com/roles/171551?type=students",
-  "season": "summer",
-  "year": 2027,
+  "role": "Machine Learning Researcher Intern - PhD",
+  "category": "machine-learning",
+  "apply_url": "https://www.citadel.com/careers/details/machine-learning-researcher-phd-intern-us/",
+  "season": "fall",
+  "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Salt Lake City",
-      "state": "UT",
+      "city": "Greenwich",
+      "state": "CT",
+      "country": "USA"
+    },
+    {
+      "city": "Houston",
+      "state": "TX",
+      "country": "USA"
+    },
+    {
+      "city": "Miami",
+      "state": "FL",
+      "country": "USA"
+    },
+    {
+      "city": "NYC",
       "country": "USA"
     }
   ],
@@ -25,7 +39,9 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "phd"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -40,8 +56,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-15",
-    "discovered": "2026-09-04",
+    "posted": "2026-07-01",
+    "discovered": "2026-09-19",
     "last_verified": "2026-09-19"
   },
   "status": "open",

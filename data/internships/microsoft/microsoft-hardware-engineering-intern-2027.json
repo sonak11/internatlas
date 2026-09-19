@@ -1,35 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "state-farm-technology-product-analyst-intern-innovation-group-2027",
+  "id": "microsoft-hardware-engineering-intern-2027",
   "company": {
-    "name": "State Farm",
-    "slug": "state-farm"
+    "name": "Microsoft",
+    "slug": "microsoft"
   },
-  "role": "Technology Product Analyst Intern - Innovation Group",
-  "category": "software-engineering",
-  "apply_url": "https://jobs.statefarm.com/jobs/45986?icims=1",
-  "season": "summer",
+  "role": "Hardware Engineering Intern",
+  "category": "hardware",
+  "apply_url": "https://apply.careers.microsoft.com/careers/job/1970393557002608",
+  "season": "winter",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Tempe",
-      "state": "AZ",
-      "country": "USA"
-    },
-    {
-      "city": "Dunwoody",
-      "state": "GA",
-      "country": "USA"
-    },
-    {
-      "city": "Richardson",
-      "state": "TX",
-      "country": "USA"
-    },
-    {
-      "city": "Bloomington",
-      "state": "IL",
+      "city": "Redmond",
+      "state": "WA",
       "country": "USA"
     }
   ],
@@ -55,11 +40,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-14",
-    "discovered": "2026-09-14",
+    "posted": "2026-09-19",
+    "discovered": "2026-09-19",
     "last_verified": "2026-09-19"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

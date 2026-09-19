@@ -1,6 +1,6 @@
 {
   "generated": "2026-09-19",
-  "count": 4905,
+  "count": 4907,
   "internships": [
     {
       "schema_version": "1.0",
@@ -3955,7 +3955,7 @@
         "discovered": "2026-09-16",
         "last_verified": "2026-09-19"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -50444,6 +50444,74 @@
     },
     {
       "schema_version": "1.0",
+      "id": "citadel-machine-learning-researcher-intern-phd-2026",
+      "company": {
+        "name": "Citadel",
+        "slug": "citadel"
+      },
+      "role": "Machine Learning Researcher Intern - PhD",
+      "category": "machine-learning",
+      "apply_url": "https://www.citadel.com/careers/details/machine-learning-researcher-phd-intern-us/",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Greenwich",
+          "state": "CT",
+          "country": "USA"
+        },
+        {
+          "city": "Houston",
+          "state": "TX",
+          "country": "USA"
+        },
+        {
+          "city": "Miami",
+          "state": "FL",
+          "country": "USA"
+        },
+        {
+          "city": "NYC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-01",
+        "discovered": "2026-09-19",
+        "last_verified": "2026-09-19"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "citadel-quantitative-trader-equity-quantitative-research-intern-2026",
       "company": {
         "name": "Citadel",
@@ -64181,6 +64249,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "datologyai-research-intern-2027",
+      "company": {
+        "name": "DatologyAI",
+        "slug": "datologyai"
+      },
+      "role": "Research Intern",
+      "category": "research",
+      "apply_url": "https://jobs.ashbyhq.com/DatologyAI/0ced19c2-21ec-4bcc-92d2-68d448279f3f/application?embed=true",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Mateo",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-19",
+        "discovered": "2026-09-19",
+        "last_verified": "2026-09-19"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "de-shaw-software-developer-intern-2027",
       "company": {
         "name": "DE Shaw",
@@ -65422,9 +65542,9 @@
       "dates": {
         "posted": "2026-08-19",
         "discovered": "2026-09-04",
-        "last_verified": "2026-09-16"
+        "last_verified": "2026-09-19"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -72063,7 +72183,7 @@
         "discovered": "2026-09-01",
         "last_verified": "2026-09-19"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -92192,7 +92312,7 @@
         "discovered": "2026-08-20",
         "last_verified": "2026-09-19"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -92245,7 +92365,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-09-19"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -92298,7 +92418,7 @@
         "discovered": "2026-09-18",
         "last_verified": "2026-09-19"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -92403,59 +92523,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-19"
       },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "goldman-sachs-quantitative-strategist-intern-americas-the-core-quantitativ-2027-41219d",
-      "company": {
-        "name": "Goldman Sachs",
-        "slug": "goldman-sachs"
-      },
-      "role": "Quantitative Strategist Intern - Americas - The Core Quantitative Strats",
-      "category": "quant",
-      "apply_url": "https://higher.gs.com/roles/171551?type=students",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Salt Lake City",
-          "state": "UT",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-08-15",
-        "discovered": "2026-09-04",
-        "last_verified": "2026-09-19"
-      },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -92509,7 +92577,7 @@
         "discovered": "2026-09-16",
         "last_verified": "2026-09-19"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -92524,13 +92592,14 @@
       },
       "role": "Quantitative Strategist Intern - Americas - The Core Quantitative Strats",
       "category": "quant",
-      "apply_url": "https://higher.gs.com/roles/171533?type=students",
+      "apply_url": "https://higher.gs.com/roles/171551?type=students",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
       "locations": [
         {
-          "city": "NYC",
+          "city": "Salt Lake City",
+          "state": "UT",
           "country": "USA"
         }
       ],
@@ -92718,7 +92787,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-19"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -92769,7 +92838,7 @@
         "discovered": "2026-09-18",
         "last_verified": "2026-09-19"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -92923,7 +92992,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-19"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -93027,7 +93096,7 @@
         "discovered": "2026-09-17",
         "last_verified": "2026-09-19"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -93079,7 +93148,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-19"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -93130,7 +93199,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-19"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -93291,7 +93360,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-19"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -93306,13 +93375,13 @@
       },
       "role": "Summer Analyst Intern - Engineering",
       "category": "software-engineering",
-      "apply_url": "https://higher.gs.com/roles/170637?type=students",
+      "apply_url": "https://higher.gs.com/roles/170644?type=students",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
       "locations": [
         {
-          "city": "Birmingham",
+          "city": "London",
           "country": "UK"
         }
       ],
@@ -93500,7 +93569,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-19"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -93602,7 +93671,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-19"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -93655,7 +93724,7 @@
         "discovered": "2026-08-29",
         "last_verified": "2026-09-19"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -93708,7 +93777,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-09-19"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -114721,7 +114790,7 @@
         "discovered": "2026-09-10",
         "last_verified": "2026-09-19"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -122801,7 +122870,7 @@
         "discovered": "2026-08-25",
         "last_verified": "2026-09-19"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -131464,7 +131533,7 @@
         "discovered": "2026-09-09",
         "last_verified": "2026-09-19"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -134316,7 +134385,7 @@
         "discovered": "2026-08-24",
         "last_verified": "2026-09-19"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -140837,6 +140906,58 @@
         "last_verified": "2026-09-08"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "microsoft-hardware-engineering-intern-2027",
+      "company": {
+        "name": "Microsoft",
+        "slug": "microsoft"
+      },
+      "role": "Hardware Engineering Intern",
+      "category": "hardware",
+      "apply_url": "https://apply.careers.microsoft.com/careers/job/1970393557002608",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Redmond",
+          "state": "WA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-19",
+        "discovered": "2026-09-19",
+        "last_verified": "2026-09-19"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -160073,7 +160194,7 @@
         "discovered": "2026-09-18",
         "last_verified": "2026-09-19"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -190150,7 +190271,7 @@
         "discovered": "2026-08-25",
         "last_verified": "2026-09-19"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -190305,7 +190426,7 @@
         "discovered": "2026-08-18",
         "last_verified": "2026-09-19"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -190460,7 +190581,7 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-09-19"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -192724,7 +192845,7 @@
         "discovered": "2026-09-15",
         "last_verified": "2026-09-19"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -208216,7 +208337,7 @@
         "discovered": "2026-09-14",
         "last_verified": "2026-09-19"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -208350,7 +208471,7 @@
         "discovered": "2026-09-14",
         "last_verified": "2026-09-19"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -208417,7 +208538,7 @@
         "discovered": "2026-09-14",
         "last_verified": "2026-09-19"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -248760,7 +248881,7 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-09-19"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -248866,7 +248987,7 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-09-19"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -248970,7 +249091,7 @@
         "discovered": "2026-09-01",
         "last_verified": "2026-09-19"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -252712,7 +252833,7 @@
         "discovered": "2026-09-15",
         "last_verified": "2026-09-19"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -259731,7 +259852,7 @@
         "discovered": "2026-09-05",
         "last_verified": "2026-09-19"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -260776,7 +260897,7 @@
         "discovered": "2026-09-14",
         "last_verified": "2026-09-19"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"

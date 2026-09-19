@@ -1,35 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "state-farm-technology-product-analyst-intern-innovation-group-2027",
+  "id": "datologyai-research-intern-2027",
   "company": {
-    "name": "State Farm",
-    "slug": "state-farm"
+    "name": "DatologyAI",
+    "slug": "datologyai"
   },
-  "role": "Technology Product Analyst Intern - Innovation Group",
-  "category": "software-engineering",
-  "apply_url": "https://jobs.statefarm.com/jobs/45986?icims=1",
+  "role": "Research Intern",
+  "category": "research",
+  "apply_url": "https://jobs.ashbyhq.com/DatologyAI/0ced19c2-21ec-4bcc-92d2-68d448279f3f/application?embed=true",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Tempe",
-      "state": "AZ",
-      "country": "USA"
-    },
-    {
-      "city": "Dunwoody",
-      "state": "GA",
-      "country": "USA"
-    },
-    {
-      "city": "Richardson",
-      "state": "TX",
-      "country": "USA"
-    },
-    {
-      "city": "Bloomington",
-      "state": "IL",
+      "city": "San Mateo",
+      "state": "CA",
       "country": "USA"
     }
   ],
@@ -55,11 +40,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-14",
-    "discovered": "2026-09-14",
+    "posted": "2026-09-19",
+    "discovered": "2026-09-19",
     "last_verified": "2026-09-19"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"
