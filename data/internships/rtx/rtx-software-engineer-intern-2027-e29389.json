@@ -1,20 +1,21 @@
 {
   "schema_version": "1.0",
-  "id": "bank-of-montreal-data-science-analyst-co-op-intern-audit-ai-analytics-2027-4c7fe9",
+  "id": "rtx-software-engineer-intern-2027-e29389",
   "company": {
-    "name": "Bank of Montreal",
-    "slug": "bank-of-montreal"
+    "name": "RTX",
+    "slug": "rtx"
   },
-  "role": "Data Science Analyst Co-op Intern - Audit AI & Analytics",
-  "category": "ai",
-  "apply_url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Data-Science-Analyst---Audit-AI---Analytics--Winter-2027--Co-op-Internship----4-Months_R260024761-1",
-  "season": "winter",
+  "role": "Software Engineer Intern",
+  "category": "software-engineering",
+  "apply_url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-CAMBRIDGE-BBN06--10--50-Moulton-St--MOULTON-B6/Software-Engineer-Intern--Summer-2027----Onsite_01873017",
+  "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Toronto",
-      "country": "ON"
+      "city": "Cambridge",
+      "state": "MA",
+      "country": "USA"
     }
   ],
   "compensation": {
@@ -24,7 +25,10 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "masters",
+      "phd"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -39,8 +43,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-07",
-    "discovered": "2026-09-07",
+    "posted": "2026-09-19",
+    "discovered": "2026-09-20",
     "last_verified": "2026-09-20"
   },
   "status": "open",
