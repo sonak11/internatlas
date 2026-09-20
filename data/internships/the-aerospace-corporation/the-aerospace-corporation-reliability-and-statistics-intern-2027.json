@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "goldman-sachs-quantitative-strategist-intern-americas-the-core-quantitativ-2027-41219d",
+  "id": "the-aerospace-corporation-reliability-and-statistics-intern-2027",
   "company": {
-    "name": "Goldman Sachs",
-    "slug": "goldman-sachs"
+    "name": "The Aerospace Corporation",
+    "slug": "the-aerospace-corporation"
   },
-  "role": "Quantitative Strategist Intern - Americas - The Core Quantitative Strats",
-  "category": "quant",
-  "apply_url": "https://higher.gs.com/roles/171551?type=students",
+  "role": "Reliability and Statistics Intern",
+  "category": "software-engineering",
+  "apply_url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Reliability-and-Statistics-Undergraduate-Intern_R016594",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Salt Lake City",
-      "state": "UT",
+      "city": "El Segundo",
+      "state": "CA",
       "country": "USA"
     }
   ],
@@ -40,8 +40,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-15",
-    "discovered": "2026-09-19",
+    "posted": "2026-09-20",
+    "discovered": "2026-09-20",
     "last_verified": "2026-09-20"
   },
   "status": "open",

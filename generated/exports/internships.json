@@ -1,6 +1,6 @@
 {
   "generated": "2026-09-20",
-  "count": 4908,
+  "count": 4913,
   "internships": [
     {
       "schema_version": "1.0",
@@ -27006,7 +27006,7 @@
         "discovered": "2026-09-07",
         "last_verified": "2026-09-20"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -27057,7 +27057,7 @@
         "discovered": "2026-08-21",
         "last_verified": "2026-09-20"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -27979,7 +27979,7 @@
         "discovered": "2026-09-12",
         "last_verified": "2026-09-20"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -72293,7 +72293,7 @@
         "discovered": "2026-09-01",
         "last_verified": "2026-09-20"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -92370,7 +92370,7 @@
         "discovered": "2026-08-27",
         "last_verified": "2026-09-20"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -92422,7 +92422,7 @@
         "discovered": "2026-08-20",
         "last_verified": "2026-09-20"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -92475,7 +92475,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-09-20"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -92483,7 +92483,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "goldman-sachs-quantitative-strategist-associate-intern-the-core-quantitati-2027",
+      "id": "goldman-sachs-quantitative-strategist-associate-intern-the-core-quantitati-2027-14d0f0",
       "company": {
         "name": "Goldman Sachs",
         "slug": "goldman-sachs"
@@ -92525,10 +92525,63 @@
       },
       "dates": {
         "posted": "2026-08-15",
+        "discovered": "2026-09-20",
+        "last_verified": "2026-09-20"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "goldman-sachs-quantitative-strategist-associate-intern-the-core-quantitati-2027",
+      "company": {
+        "name": "Goldman Sachs",
+        "slug": "goldman-sachs"
+      },
+      "role": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
+      "category": "quant",
+      "apply_url": "https://higher.gs.com/roles/171535?type=students",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "NYC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-15",
         "discovered": "2026-08-15",
         "last_verified": "2026-09-20"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -92580,7 +92633,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-20"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -92632,7 +92685,7 @@
         "discovered": "2026-09-19",
         "last_verified": "2026-09-20"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -92686,7 +92739,7 @@
         "discovered": "2026-09-16",
         "last_verified": "2026-09-20"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -92739,7 +92792,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-20"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -92747,7 +92800,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "goldman-sachs-quantitative-strategist-intern-asset-and-wealth-management-q-2027",
+      "id": "goldman-sachs-quantitative-strategist-intern-asset-and-wealth-management-q-2027-0ac951",
       "company": {
         "name": "Goldman Sachs",
         "slug": "goldman-sachs"
@@ -92762,6 +92815,58 @@
         {
           "city": "London",
           "country": "UK"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-15",
+        "discovered": "2026-09-20",
+        "last_verified": "2026-09-20"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "goldman-sachs-quantitative-strategist-intern-asset-and-wealth-management-q-2027",
+      "company": {
+        "name": "Goldman Sachs",
+        "slug": "goldman-sachs"
+      },
+      "role": "Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats",
+      "category": "quant",
+      "apply_url": "https://higher.gs.com/roles/171549?type=students",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Salt Lake City",
+          "state": "UT",
+          "country": "USA"
         }
       ],
       "compensation": {
@@ -92792,7 +92897,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-20"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -92843,7 +92948,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-20"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -92851,7 +92956,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "goldman-sachs-quantitative-strategist-intern-multiple-teams-2027",
+      "id": "goldman-sachs-quantitative-strategist-intern-multiple-teams-2027-323368",
       "company": {
         "name": "Goldman Sachs",
         "slug": "goldman-sachs"
@@ -92891,10 +92996,61 @@
       },
       "dates": {
         "posted": "2026-08-15",
+        "discovered": "2026-09-20",
+        "last_verified": "2026-09-20"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "goldman-sachs-quantitative-strategist-intern-multiple-teams-2027",
+      "company": {
+        "name": "Goldman Sachs",
+        "slug": "goldman-sachs"
+      },
+      "role": "Quantitative Strategist Intern - Multiple Teams",
+      "category": "quant",
+      "apply_url": "https://higher.gs.com/roles/171563?type=students",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "NYC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-15",
         "discovered": "2026-08-15",
         "last_verified": "2026-09-20"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -92946,7 +93102,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-20"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -92997,7 +93153,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-20"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -93101,7 +93257,7 @@
         "discovered": "2026-09-17",
         "last_verified": "2026-09-20"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -93153,7 +93309,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-20"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -93204,7 +93360,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-20"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -93257,7 +93413,58 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-20"
       },
-      "status": "closed",
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "goldman-sachs-summer-analyst-intern-engineering-2027-324b6c",
+      "company": {
+        "name": "Goldman Sachs",
+        "slug": "goldman-sachs"
+      },
+      "role": "Summer Analyst Intern - Engineering",
+      "category": "software-engineering",
+      "apply_url": "https://higher.gs.com/roles/170644?type=students",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "London",
+          "country": "UK"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-15",
+        "discovered": "2026-09-20",
+        "last_verified": "2026-09-20"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -93311,7 +93518,7 @@
         "discovered": "2026-09-06",
         "last_verified": "2026-09-20"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -93365,7 +93572,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-20"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -93418,7 +93625,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-20"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -93472,7 +93679,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-09-20"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -93574,7 +93781,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-20"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -93676,7 +93883,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-20"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -93729,7 +93936,7 @@
         "discovered": "2026-08-29",
         "last_verified": "2026-09-20"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -93782,7 +93989,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-09-20"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -133391,7 +133598,7 @@
         "discovered": "2026-09-05",
         "last_verified": "2026-09-20"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -157947,7 +158154,7 @@
         "discovered": "2026-09-16",
         "last_verified": "2026-09-20"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -158170,7 +158377,7 @@
         "discovered": "2026-09-16",
         "last_verified": "2026-09-20"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -158222,7 +158429,7 @@
         "discovered": "2026-09-16",
         "last_verified": "2026-09-20"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -227373,6 +227580,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "the-aerospace-corporation-reliability-and-statistics-intern-2027",
+      "company": {
+        "name": "The Aerospace Corporation",
+        "slug": "the-aerospace-corporation"
+      },
+      "role": "Reliability and Statistics Intern",
+      "category": "software-engineering",
+      "apply_url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Reliability-and-Statistics-Undergraduate-Intern_R016594",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "El Segundo",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-20",
+        "discovered": "2026-09-20",
+        "last_verified": "2026-09-20"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "the-boeing-company-data-analytics-intern-2027-dadcfa",
       "company": {
         "name": "The Boeing Company",
@@ -263532,7 +263791,7 @@
         "discovered": "2026-09-15",
         "last_verified": "2026-09-20"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"

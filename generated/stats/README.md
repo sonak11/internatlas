@@ -33,9 +33,9 @@ _Generated 2026-09-20_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 2911 | `███████████████` |
+| software-engineering | 2913 | `███████████████` |
 | ai | 390 | `██` |
-| quant | 297 | `██` |
+| quant | 300 | `██` |
 | machine-learning | 211 | `█` |
 | hardware | 192 | `█` |
 | data-science | 179 | `█` |
@@ -49,6 +49,7 @@ _Generated 2026-09-20_
 
 ## Newest listings
 
+- 2026-09-20 — **The Aerospace Corporation**: [Reliability and Statistics Intern](https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Reliability-and-Statistics-Undergraduate-Intern_R016594)
 - 2026-09-19 — **Autodesk**: [Product Management Intern](https://autodesk.wd1.myworkdayjobs.com/uni/job/Montreal-QC-CAN/Product-Management-Intern--Stagiaire-Gestion-de-Produit_26WD101135-1)
 - 2026-09-19 — **Autodesk**: [Product Management Intern](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Product-Management-Intern--Stagiaire-Gestion-de-Produit_26WD101135-2)
 - 2026-09-19 — **Bot Auto**: [Software Engineer Intern - AI Agents](https://job-boards.greenhouse.io/botauto/jobs/5429357008)
@@ -68,7 +69,6 @@ _Generated 2026-09-20_
 - 2026-09-18 — **CME Group**: [Software Engineering Intern - Summer 2027](https://cmegroup.wd1.myworkdayjobs.com/en-US/cme_careers/job/Chicago---20-S-Wacker/Software-Engineering-Internship---Summer-2027_34821)
 - 2026-09-18 — **CoBank**: [Software Engineer Intern](https://careers.cobank.com/jobs/7940?icims=1)
 - 2026-09-18 — **Cogna**: [Software Engineer Intern](https://apply.workable.com/cogna/j/45A6283F88/apply)
-- 2026-09-18 — **Corning**: [Imaging Sciences Engineer Intern](https://corningjobs.corning.com/job/Keene-Imaging-Sciences-Engineering-Intern-Summer-2027-NH-03431/1431391900/?ats=successfactors)
 
 ## Recently closed
 
@@ -102,6 +102,8 @@ _Generated 2026-09-20_
 - Bank of Montreal — Climate Risk Reporting Analyst Co-op Intern - Winter 2027 - 4 Months
 - Bank of Montreal — Climate Risk Reporting Analyst Co-op Intern - Winter 2027 - 4 Months
 - Bank of Montreal — Climate Risk Reporting Analyst Co-op Intern - Winter 2027 - 4 Months
+- Bank of Montreal — Data Science Analyst Co-op Intern - Audit AI & Analytics
+- Bank of Montreal — Data Science Analyst Co-op Intern - Audit AI & Analytics
 - Bank of Montreal — Data Science Risk Analyst Co-op Intern
 - Bank of Montreal — Data Science Risk Analyst Co-op Intern
 - Bank of Montreal — Data Science Risk Analyst Co-op Intern
@@ -112,6 +114,7 @@ _Generated 2026-09-20_
 - Bank of Montreal — Junior Software Developer Co-op Intern - Winter 2027 - 4 months
 - Bank of Montreal — Junior Software Developer Co-op Intern - Winter 2027 - 4 months
 - Bank of Montreal — Quantitative Developer Co-op Intern - Alpha Research Team - Multiple Teams
+- Bank of Montreal — Software Engineer Co-op Intern - Winter 2027
 - Bank of Montreal — Workforce Analyst Co-op Intern
 - Bank of Montreal — Workforce Analyst Intern/Co-op
 - Booz Allen — Applied AI Intern - University
@@ -157,7 +160,6 @@ _Generated 2026-09-20_
 - DiDi Global — Motion Planning Engineer Intern - PhD
 - DoorDash — Product Designer, Intern (Summer 2027)
 - Ecolab — Research and Development Intern
-- Edison International — Summer Internship - Data Analytics/Science/Applied Math
 - Enact Mortgage Insurance — Commercial Analytics and Optimization Team Intern
 - Enact Mortgage Insurance — Data Science Intern
 - Enact Mortgage Insurance — Software Engineer Intern
@@ -186,33 +188,8 @@ _Generated 2026-09-20_
 - GlobalFoundries — RF Technology Development Automation Engineer Intern - Summer 2027
 - GlobalFoundries — Silicon Photonics Advanced Packaging Intern
 - GlobalFoundries — Systems Engineer Intern
-- Goldman Sachs — Associate Intern - The Core Quantitative Strats
-- Goldman Sachs — AWM Product Management Analyst Intern
-- Goldman Sachs — Quantitative Strategist Associate Intern - Asset and Wealth Management
-- Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Americas
-- Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Investment Banking
-- Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
-- Goldman Sachs — Quantitative Strats Analyst Intern - Americas - Investment Banking
-- Goldman Sachs — Summer Analyst Intern
 - Goldman Sachs — Summer Analyst Intern - Americas - AWM Product Management
-- Goldman Sachs — Summer Analyst Intern - Americas - Engineering
-- Goldman Sachs — Summer Analyst Intern - Americas - Engineering
-- Goldman Sachs — Summer Analyst Intern - Americas - Engineering
-- Goldman Sachs — Summer Analyst Intern - Americas - Investment Banking Quantitative Strats
-- Goldman Sachs — Summer Analyst Intern - Engineering
-- Goldman Sachs — Summer Analyst Intern - Engineering
-- Goldman Sachs — Summer Analyst Intern - Engineering
-- Goldman Sachs — Summer Analyst Intern - FICC and Equities - Sales and Trading
-- Goldman Sachs — Summer Analyst Intern - The Core Quantitative Strats
 - Goldman Sachs — Summer Analyst Intern - Wealth Management - Product Management and Design
-- Goldman Sachs — Summer Analyst Intern - Wealth Management - Quantitative Finance
-- Goldman Sachs — Summer Associate Intern
-- Goldman Sachs — Summer Associate Intern - Multiple Teams
 - Gulfstream — AI Product Collegiate Associate Intern
 - Gulfstream — Azure AI Collegiate Associate Intern
 - Gulfstream — Flight Sciences / Mass Properties College Intern - IEF
@@ -251,7 +228,6 @@ _Generated 2026-09-20_
 - Marquee Brands — Consumer Insights Intern
 - Marsh — Summer Analyst Intern - Data and Analytics
 - Marsh & McLennan — Data & Analytics Intern - Data & Analytics
-- Marvell — Physical Design Engineer Intern - BS
 - Marvell — Reliability Intern
 - Marvell — Reliability Intern
 - Marvell — Test Solutions Engineering Intern - BS - Post-Silicon Hardware Validation
@@ -304,6 +280,9 @@ _Generated 2026-09-20_
 - NVIDIA — Ph.D. Research Autonomous Vehicles Intern
 - NVIDIA — Ph.D. Research Graphics and Simulation Intern - Graphics and Simulation
 - NVIDIA — Ph.D. Research Hardware Intern
+- NVIDIA — PhD Research Intern - Generative AI for Physical AI
+- NVIDIA — Physical Design and Timing Engineer Intern
+- NVIDIA — Product Management MBA Intern - Data Center GPU
 - NVIDIA — Research Intern
 - NVIDIA — Robotics Intern - Ph.D. Research
 - NXP Semiconductors — AI/ML ASIC Design and Implementation Automation Intern - Summer 2027
@@ -455,6 +434,7 @@ _Generated 2026-09-20_
 - Wipfli — Product Development Intern
 - Wipfli — Product Development Intern
 - Wipfli — Product Development Intern - Summer 2027
+- Xcel Energy — AI and Analytics Intern
 - Xsolla — AI Engineer Intern
 - Xsolla — AI-First Engineer Intern
 - Zello — Analytics Intern
