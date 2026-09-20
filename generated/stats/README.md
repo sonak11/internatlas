@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 📊 Statistics
 
-_Generated 2026-09-19_
+_Generated 2026-09-20_
 
 ## Top hiring companies
 
@@ -105,9 +105,6 @@ _Generated 2026-09-19_
 - Bank of Montreal — Junior Software Developer Co-op Intern - Winter 2027 - 4 months
 - Bank of Montreal — Quantitative Developer Co-op Intern - Alpha Research Team - Multiple Teams
 - Booz Allen — Applied AI Intern - University
-- Booz Allen — Data Scientist Intern - University - Summer Games
-- Booz Allen — Software Developer Intern - University
-- Boston Scientific — Research Algorithm & Data Science Intern - Interns/Graduates
 - Boston Scientific — Software Engineer Intern - Interns/Graduates
 - Brunswick — Computer Graphics Engineer Intern
 - Brunswick — Reinforcement Learning Intern - Boating Intelligence Design Lab
@@ -121,13 +118,11 @@ _Generated 2026-09-19_
 - Capital One — Full Stack Software Engineer Intern - Team Integrated Sprout
 - Capital One — Full Stack Software Engineer Intern - Team Pickle
 - Capital One — Mobile Software Engineer Intern
-- CCC Intelligent Solutions — Applied AI Engineer Intern
 - Celonis — Engineering Intern
 - CesiumAstro — Test Engineer Intern
 - CHAOS Industries — Electrical Engineer Intern - Summer 2027
 - CHAOS Industries — Software Engineer Intern
 - Charles Schwab — Product Management Intern - Thinkorswim
-- Chevron — Previous Intern - Information Technology - Information and Analytics
 - Ciena — Wavelogic Systems Design Architecture Intern
 - Citadel — Trader: Fixed Income & Macro Intern
 - Citi — Quantitative Risk Management Summer Analyst Intern
@@ -156,7 +151,6 @@ _Generated 2026-09-19_
 - Enact Mortgage Insurance — Data Science Intern
 - Enact Mortgage Insurance — Software Engineer Intern
 - Engenious Design — Electrical Engineering Intern
-- Engenious Design — Systems Architecture Intern
 - Entergy — Engineering Intern
 - Epia Neuro — Hardware Engineer Intern
 - EquipmentShare — Electrical Engineering Intern
@@ -215,7 +209,6 @@ _Generated 2026-09-19_
 - Hitachi — Software Analyst Intern
 - Hitachi — Software Analyst Intern
 - Humanscale — Electrical Design Engineer Intern
-- Hypercubic — Software Engineering Intern
 - ICF International — Software Developer Intern
 - InfiniteQuant — Quantitative Developer Intern
 - InfiniteQuant — Quantitative Developer Intern - Summer 2027
@@ -241,6 +234,8 @@ _Generated 2026-09-19_
 - Marsh & McLennan — Data & Analytics Intern - Data & Analytics
 - Marvell — Reliability Intern
 - Marvell — Reliability Intern
+- Marvell — Test Solutions Engineering Intern - BS - Post-Silicon Hardware Validation
+- Marvell — Test Solutions Engineering Intern - BS - Post-Silicon Hardware Validation
 - Mary Free Bed Rehabilitation Hospital — IT Intern - Project Management
 - Mastercard — Software Engineer Intern
 - Medline — Software Development Intern - Summer 2027
@@ -311,7 +306,6 @@ _Generated 2026-09-19_
 - Red Bull — Academy Scouting Intern - Academy Scout
 - Reyes Beverage Group — Commercial Analytics Intern - Beverage Alliance Support
 - Ridgeline — Software Engineer Intern
-- Royal Bank of Canada — Business Analyst Intern - AI Innovation
 - Royal Bank of Canada — Financial Crimes Quality Assurance Intern - Grm
 - RTX — Artificial Intelligence / Machine Learning Methods Intern
 - RTX — Data Science and Advanced Analytics Intern
@@ -331,7 +325,6 @@ _Generated 2026-09-19_
 - RTX — Software Engineer Intern
 - RTX — Software Engineer Intern
 - RTX — Software Engineer Intern
-- RTX — Software Engineer Intern
 - RTX — Software Engineer Intern - Summer 2027
 - RTX — Software Engineer Intern - Summer 2027
 - RTX — Software Engineer Intern - Summer/Fall 2027 - Mission Engineering / Operational Analysis
@@ -342,7 +335,6 @@ _Generated 2026-09-19_
 - Sabre Systems — AI Intern
 - Schroders — Product Intern
 - Schroders — Product Strategy Intern
-- Schweitzer Engineering Laboratories — Test Engineer Intern
 - Sensata — Electrical Engineer Intern
 - Sierra — Agent Development Intern
 - Snap — Research Scientist Intern - User Modeling and Personalization
@@ -399,9 +391,6 @@ _Generated 2026-09-19_
 - The Walt Disney Company — Pricing & Product Development Intern - Spring 2027
 - The Walt Disney Company — Pricing & Revenue Management Intern
 - The Walt Disney Company — Revenue Planning & Analytics Intern - Spring 2027
-- The Walt Disney Company — Software Engineer Intern
-- The Walt Disney Company — Systems Application Development and Sustainment Intern
-- The Walt Disney Company — Systems Application Development and Sustainment Intern
 - The Walt Disney Company — Transportation Logistics & Analytics Intern - Spring 2027
 - Thomson Reuters — Research Scientist Intern
 - thyssenkrupp — Sustainability Systems Intern
