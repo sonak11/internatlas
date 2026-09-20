@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 💻 Software Engineering Internships
 
-**2913** tracked · **1831** open now
+**2913** tracked · **1830** open now
 
 ## Current openings
 
@@ -1674,7 +1674,6 @@
 | [Trimble](generated/companies/trimble.md) | [Software Engineer Intern](https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---CO-Westminster/Software-Engineering-Intern_R57676) | Dayton, OH +7 | Onsite | 2026-09-08 | Rolling | 🟢 Open | ❔ |
 | [TTP](generated/companies/ttp.md) | [Electronic Engineer Intern](https://jobs.smartrecruiters.com/TTP1/744000149038070) | Melbourn | Onsite | 2026-09-11 | Rolling | 🟢 Open | ❔ |
 | [TTP](generated/companies/ttp.md) | [Software Engineering Intern](https://jobs.smartrecruiters.com/TTP1/744000149038758) | Melbourn | Onsite | 2026-09-11 | Rolling | 🟢 Open | ❔ |
-| [Twilio](generated/companies/twilio.md) | [Software Engineer Intern (January 12th start, 23 weeks)](https://job-boards.greenhouse.io/twilio/jobs/8190889) | Remote | Remote | 2026-09-16 | Rolling | 🟢 Open | ❔ |
 | [Two Sigma](generated/companies/two-sigma.md) | [Software Engineering Intern - Summer 2027](https://twosigma.avature.net/careers/JobDetail/14016) | NYC | Onsite | 2026-09-08 | Rolling | 🟢 Open | ❔ |
 | [Tyler Technologies](generated/companies/tyler-technologies.md) | [Software Development Intern](https://jobs.jobvite.com/tylertech/job/oAVOAfwD?nl=1&nl=1&fr=false) | Lawrenceville, GA | Onsite | 2026-09-18 | Rolling | 🟢 Open | ❔ |
 | [Tyler Technologies](generated/companies/tyler-technologies.md) | [Software Development Intern - Summer 2027](https://jobs.jobvite.com/tylertech/job/oqQJAfwj?nl=1&nl=1&fr=false) | Lakewood, CO | Onsite | 2026-09-15 | Rolling | 🟢 Open | ❔ |
@@ -2841,6 +2840,7 @@
 | [Truland Equipment](generated/companies/truland-equipment.md) | [Power Platform Intern](https://www.trulandequip.com/about-us/careers/?gh_jid=5174621007) | Fort Wayne, IN | Onsite | 2026-06-30 | Rolling | 🔴 Closed | ❔ |
 | [TRUMPF](generated/companies/trumpf.md) | [Application Engineer Intern/Co-op](https://trumpf.wd3.myworkdayjobs.com/TRUMPF_Students/job/Plymouth-MI/Application-Engineering-Intern-Co-op_R00042681) | Plymouth, MI | Onsite | 2026-09-01 | Rolling | 🔴 Closed | ❔ |
 | [TSC](generated/companies/tsc.md) | [Robotics Intern](https://tsc.wd12.myworkdayjobs.com/en-US/TSC-Careers/job/Washington-DC---Naval-Research-Laboratory/Robotics-Intern_JR2713) | Washington, DC | Onsite | 2026-08-04 | Rolling | 🔴 Closed | ❔ |
+| [Twilio](generated/companies/twilio.md) | [Software Engineer Intern (January 12th start, 23 weeks)](https://job-boards.greenhouse.io/twilio/jobs/8190889) | Remote | Remote | 2026-09-16 | Rolling | 🔴 Closed | ❔ |
 | [Two Six Technologies](generated/companies/two-six-technologies.md) | [China Subject Matter Expert Intern](https://job-boards.greenhouse.io/twosixtechnologies/jobs/6105290004) | Remote | Remote | 2026-07-02 | Rolling | 🔴 Closed | ❔ |
 | [Two Six Technologies](generated/companies/two-six-technologies.md) | [SkillBridge Fellow Intern - Multiple Teams](https://job-boards.greenhouse.io/twosixtechnologies/jobs/6126995004) | Doral, FL | Onsite | 2026-07-27 | Rolling | 🔴 Closed | ❔ |
 | [Uline](generated/companies/uline.md) | [Business Intelligence Developer Intern](https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Business-Intelligence-Developer-Internship---Summer-2027_R265685) | Waukegan, IL +4 | Onsite | 2026-08-03 | Rolling | 🔴 Closed | ❔ |
@@ -3622,7 +3622,6 @@
 - Transcard Payments (1)
 - TRC Companies (1)
 - Trimble (1)
-- Twilio (1)
 - Two Sigma (1)
 - Uber (1)
 - UHY (1)
@@ -3862,6 +3861,7 @@
 - Truland Equipment (1)
 - TRUMPF (1)
 - TSC (1)
+- Twilio (1)
 - UMB (1)
 - Unify (1)
 - University of Pikeville (1)

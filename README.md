@@ -8,7 +8,7 @@
 
 No dead links, no generic careers pages. Just current openings, newest first, with the date each one was posted.
 
-![summer 2027](https://img.shields.io/badge/summer%202027-2756-blue?style=for-the-badge) ![open now](https://img.shields.io/badge/open%20now-2163-brightgreen?style=for-the-badge) ![companies](https://img.shields.io/badge/companies-1214-purple?style=for-the-badge) ![visa sponsors](https://img.shields.io/badge/visa%20sponsors-29-orange?style=for-the-badge) ![remote roles](https://img.shields.io/badge/remote%20roles-80-teal?style=for-the-badge) ![sync](https://img.shields.io/badge/sync-hourly-success?style=for-the-badge) ![updated](https://img.shields.io/badge/updated-2026--09--20%2010:39%20AM%20EDT-lightgrey?style=for-the-badge)
+![summer 2027](https://img.shields.io/badge/summer%202027-2756-blue?style=for-the-badge) ![open now](https://img.shields.io/badge/open%20now-2163-brightgreen?style=for-the-badge) ![companies](https://img.shields.io/badge/companies-1214-purple?style=for-the-badge) ![visa sponsors](https://img.shields.io/badge/visa%20sponsors-29-orange?style=for-the-badge) ![remote roles](https://img.shields.io/badge/remote%20roles-80-teal?style=for-the-badge) ![sync](https://img.shields.io/badge/sync-hourly-success?style=for-the-badge) ![updated](https://img.shields.io/badge/updated-2026--09--20%202:09%20PM%20EDT-lightgrey?style=for-the-badge)
 
 [**📋 Browse listings**](#-summer-2027-internships) · [**🗓 Other terms**](#-other-open-terms) · [**➕ Add one**](CONTRIBUTING.md) · [**🔗 Sources**](SOURCES.md)
 
@@ -29,7 +29,7 @@ No dead links, no generic careers pages. Just current openings, newest first, wi
 
 **2756 open right now**, grouped by category with the newest postings first. Every **Role** link goes straight to the live application page; the **Posted** column shows when it went up (`*` = the date we first saw it, when the source didn't publish one).
 
-### 💻 Software Engineering (1599 · 1186 open)
+### 💻 Software Engineering (1599 · 1185 open)
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
@@ -150,7 +150,6 @@ No dead links, no generic careers pages. Just current openings, newest first, wi
 | [RTX](generated/companies/rtx.md) | [Software Engineer Intern - Receiver Exciter and Processing Architecture](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Receiver--Exciter----Processing-Architecture-Software-Engineer-Intern--Summer-2027-_01873484) | Marlborough, MA | Onsite | 2026-09-16 | Rolling | 🟢 Open | ❔ |
 | [Teledyne](generated/companies/teledyne.md) | [Systems Engineering Intern - Summer 2027](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/EADSIM-MBSE-Intern--Summer-2027-_REQ36670-1) | Huntsville, AL | Onsite | 2026-09-16 | Rolling | 🟢 Open | ❔ |
 | [Tokyo Electron](generated/companies/tokyo-electron.md) | [Software Engineer Intern](https://tel.wd3.myworkdayjobs.com/tel-careers/job/Chaska/Software-Engineer-2027-Summer-Intern_R26-01573) | Chaska, MN | Onsite | 2026-09-16 | Rolling | 🟢 Open | ❔ |
-| [Twilio](generated/companies/twilio.md) | [Software Engineer Intern (January 12th start, 23 weeks)](https://job-boards.greenhouse.io/twilio/jobs/8190889) | Remote | Remote | 2026-09-16 | Rolling | 🟢 Open | ❔ |
 | [Wabash Valley Power Alliance](generated/companies/wabash-valley-power-alliance.md) | [Energy Efficiency & Demand Response Intern](https://jobs.smartrecruiters.com/WabashValleyPowerAlliance/744000149873771) | Indianapolis, IN | Onsite | 2026-09-16 | Rolling | 🟢 Open | ❔ |
 | [Waymo](generated/companies/waymo.md) | [2027 Summer Intern, BS/MS, Software Engineering, Maneuvering Tech](https://careers.withwaymo.com/jobs?gh_jid=8203200) | San Francisco +1 | Onsite | 2026-09-16 | Rolling | 🟢 Open | ❔ |
 | [Altar'd State](generated/companies/altar-d-state.md) | [Store Operations Data Analyst Intern](https://standoutforgood.wd12.myworkdayjobs.com/StandOutForGood/job/Knoxville-TN/Spring-2027-Store-Operations-Intern_SOSJ12464) | Knoxville, TN | Onsite | 2026-09-15 | Rolling | 🟢 Open | ❔ |
@@ -1220,6 +1219,7 @@ No dead links, no generic careers pages. Just current openings, newest first, wi
 | [Point72](generated/companies/point72.md) | [Investment Analyst Intern, Point72 Academy](https://careers.point72.com/CSJobDetail?jobName=2027-point72-academy-investment-analyst-summer-internship-program-us&jobCode=CPA-0014081) | New York, NY +4 | Onsite | 2026-04-19 | Rolling | 🟢 Open | ❔ |
 | [Aquatic Capital Management](generated/companies/aquatic-capital-management.md) | [Software Engineer Intern](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489233002) | London +1 | Onsite | 2026-04-01 | Rolling | 🟢 Open | ❔ |
 | [RTX](generated/companies/rtx.md) | [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CO-COLORADO-SPRINGS-9970-CUST--9970-Federal-Dr--FEDERAL-External-Site/Software-Engineering-Intern--Summer-2027-_01876131) | Colorado Springs, CO | Onsite | 2026-09-17 | Rolling | 🔴 Closed | ❔ |
+| [Twilio](generated/companies/twilio.md) | [Software Engineer Intern (January 12th start, 23 weeks)](https://job-boards.greenhouse.io/twilio/jobs/8190889) | Remote | Remote | 2026-09-16 | Rolling | 🔴 Closed | ❔ |
 | [Alliance Laundry Systems](generated/companies/alliance-laundry-systems.md) | [Data & Analytics Intern](https://uscareeropenings-alliancelaundry.icims.com/jobs/13162/job?mobile=true&needsRedirect=false) | Ripon, WI | Onsite | 2026-09-15 | Rolling | 🔴 Closed | ❔ |
 | [GlobalFoundries](generated/companies/globalfoundries.md) | [Systems Engineer Intern](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Richardson/Systems-Engineering-Intern--Summer-2027-_JR-2604044) | Richardson, TX | Onsite | 2026-09-15 | Rolling | 🔴 Closed | ❔ |
 | [Northrop Grumman](generated/companies/northrop-grumman.md) | [Cyber Software Engineer Intern](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Ohio-Cincinnati/XMLNAME-2027-Cyber-Software-Engineer-Intern---Cincinnati-OH_R10249186) | Cincinnati, OH | Onsite | 2026-09-15 | Rolling | 🔴 Closed | ❔ |
@@ -1766,7 +1766,7 @@ No dead links, no generic careers pages. Just current openings, newest first, wi
 | [Instacart](generated/companies/instacart.md) | [Machine Learning PhD Intern, Economics (Fall)](https://instacart.careers/job/?gh_jid=7532267) | Remote | Remote | 2026-01-13 | Rolling | 🔴 Closed | ❔ |
 | [Instacart](generated/companies/instacart.md) | [Machine Learning Engineer, PhD Intern (Fall)](https://instacart.careers/job/?gh_jid=5917202) | Remote | Remote | 2024-04-18 | Rolling | 🔴 Closed | ❔ |
 
-### 🤖 AI (166 · 133 open)
+### 🤖 AI (166 · 134 open)
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
@@ -1801,6 +1801,7 @@ No dead links, no generic careers pages. Just current openings, newest first, wi
 | [Wex](generated/companies/wex.md) | [Backend Software Engineer Intern - Cloud Security & AI - Undergraduate](https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/Backend-Software-Engineer-Intern---C---Cloud-Security---AI--Undergraduate-_R22589) | Remote | Remote | 2026-09-14 | Rolling | 🟢 Open | ❔ |
 | [Wex](generated/companies/wex.md) | [Backend Software Engineer Intern - Java & AI - Master's](https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/Backend-Software-Engineer-Intern---Java---AI--Master-s-_R22547) | Remote | Remote | 2026-09-14 | Rolling | 🟢 Open | ❔ |
 | [Wex](generated/companies/wex.md) | [Software Engineer Intern - AI & Cloud](https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/Software-Engineer-Intern---AI---Cloud--Graduate-Master-s-_R22546) | Remote | Remote | 2026-09-14 | Rolling | 🟢 Open | ❔ |
+| [Xcel Energy](generated/companies/xcel-energy.md) | [AI and Analytics Intern](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Minneapolis-MN-55401/AI-and-Analytics-Intern-MN--CO_JR115877-1) | Minneapolis, MN +1 | Onsite | 2026-09-14 | Rolling | 🟢 Open | ❔ |
 | [Corteva](generated/companies/corteva.md) | [AI Engineer Intern](https://corteva.wd5.myworkdayjobs.com/corteva/job/Indianapolis-Indiana-United-States/Agentic-AI-Engineer-Intern_248210W) | Indianapolis, IN | Onsite | 2026-09-11 | Rolling | 🟢 Open | ❔ |
 | [Oshkosh](generated/companies/oshkosh.md) | [AI Engineer Intern](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Oshkosh-Wisconsin-United-States/AI-Intern_R50265) | Oshkosh, WI | Onsite | 2026-09-11 | Rolling | 🟢 Open | ❔ |
 | [The Friedkin Group](generated/companies/the-friedkin-group.md) | [IT Data Analytics Intern - Business Systems & AI](https://external-careers-friedkin.icims.com/jobs/6759/job?mobile=true&needsRedirect=false) | Houston, TX | Onsite | 2026-09-11 | Rolling | 🟢 Open | ❔ |
@@ -1904,7 +1905,6 @@ No dead links, no generic careers pages. Just current openings, newest first, wi
 | [TikTok](generated/companies/tiktok.md) | [Research Scientist Intern - TikTok Search / Generative AI - LLM](https://lifeattiktok.com/search/7629250876813642037) | San Jose, CA | Onsite | 2026-04-17 | Rolling | 🟢 Open | ❔ |
 | [Nuro](generated/companies/nuro.md) | [Software Engineer, AI Platform - Intern](https://nuro.ai/careersitem?gh_jid=7351061) | Mountain View | Onsite | 2025-10-22 | Rolling | 🟢 Open | ❔ |
 | [NVIDIA](generated/companies/nvidia.md) | [PhD Research Intern - Generative AI for Physical AI](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Generative-AI-for-Physical-AI---2027_JR2025025) | Santa Clara, CA | Onsite | 2026-09-15 | Rolling | 🔴 Closed | ❔ |
-| [Xcel Energy](generated/companies/xcel-energy.md) | [AI and Analytics Intern](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Minneapolis-MN-55401/AI-and-Analytics-Intern-MN--CO_JR115877-1) | Minneapolis, MN +1 | Onsite | 2026-09-14 | Rolling | 🔴 Closed | ❔ |
 | [Tradeweb](generated/companies/tradeweb.md) | [AI Software Engineer Intern](https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301902) | Jersey City, NJ | Onsite | 2026-09-10 | Rolling | 🔴 Closed | ❔ |
 | [ONE Finance](generated/companies/one-finance.md) | [AI Research Intern](https://jobs.ashbyhq.com/oneapp/7cc2fdfb-a186-4a58-af1b-8255c173244a/application?embed=true) | Remote | Remote | 2026-09-08 | Rolling | 🔴 Closed | ❔ |
 | [ByteDance](generated/companies/bytedance.md) | [Research Intern - AI Compute](https://jobs.bytedance.com/en/position/7679892629651310901/detail) | Seattle, WA | Onsite | 2026-08-31 | Rolling | 🔴 Closed | ❔ |

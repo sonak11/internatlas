@@ -1092,7 +1092,7 @@
 | [Truland Equipment](../companies/truland-equipment.md) | 0/1 | software-engineering |
 | [Tuckernuck](../companies/tuckernuck.md) | 0/1 | product |
 | [Turabify](../companies/turabify.md) | 0/1 | ai |
-| [Twilio](../companies/twilio.md) | 1/1 | software-engineering |
+| [Twilio](../companies/twilio.md) | 0/1 | software-engineering |
 | [Two Sigma](../companies/two-sigma.md) | 3/3 | ai, quant, software-engineering |
 | [Two Six Technologies](../companies/two-six-technologies.md) | 0/2 | software-engineering |
 | [Tyler Technologies](../companies/tyler-technologies.md) | 2/2 | software-engineering |
@@ -1193,7 +1193,7 @@
 | [XTX Markets](../companies/xtx-markets.md) | 0/1 | software-engineering |
 | [Xaira Therapeutics](../companies/xaira-therapeutics.md) | 1/1 | ai |
 | [Xantium](../companies/xantium.md) | 2/2 | quant |
-| [Xcel Energy](../companies/xcel-energy.md) | 26/28 | ai, data-science, design, research, software-engineering |
+| [Xcel Energy](../companies/xcel-energy.md) | 27/28 | ai, data-science, design, research, software-engineering |
 | [Xcimer Energy](../companies/xcimer-energy.md) | 1/1 | software-engineering |
 | [Xpansiv](../companies/xpansiv.md) | 1/1 | ai |
 | [Xsolla](../companies/xsolla.md) | 2/4 | ai |

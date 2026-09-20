@@ -409,6 +409,7 @@ _Generated 2026-09-20_
 - Tradeweb — Software Developer Intern - STP
 - TSC — Robotics Intern
 - Tuckernuck — Product Management Intern
+- Twilio — Software Engineer Intern (January 12th start, 23 weeks)
 - Unify — GTM Engineering Intern
 - United Airlines — Air Traffic Strategy Data Analytics Intern - Summer 2027
 - United Airlines — Clubs & Lounges Intern - Summer 2027
@@ -434,7 +435,6 @@ _Generated 2026-09-20_
 - Wipfli — Product Development Intern
 - Wipfli — Product Development Intern
 - Wipfli — Product Development Intern - Summer 2027
-- Xcel Energy — AI and Analytics Intern
 - Xsolla — AI Engineer Intern
 - Xsolla — AI-First Engineer Intern
 - Zello — Analytics Intern
