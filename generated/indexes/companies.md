@@ -135,7 +135,7 @@
 | [Baird](../companies/baird.md) | 4/4 | ai, software-engineering |
 | [Baker Hughes](../companies/baker-hughes.md) | 0/1 | software-engineering |
 | [Bank of China USA](../companies/bank-of-china-usa.md) | 3/5 | software-engineering |
-| [Bank of Montreal](../companies/bank-of-montreal.md) | 18/36 | ai, data-science, hardware, quant, software-engineering |
+| [Bank of Montreal](../companies/bank-of-montreal.md) | 11/35 | ai, data-science, hardware, quant, software-engineering |
 | [Barclays](../companies/barclays.md) | 12/12 | quant, software-engineering |
 | [Barnes & Thornburg](../companies/barnes-thornburg.md) | 2/2 | ai, software-engineering |
 | [Barr](../companies/barr.md) | 2/2 | data-science, software-engineering |
@@ -469,7 +469,7 @@
 | [GoDaddy](../companies/godaddy.md) | 0/1 | software-engineering |
 | [GoMaterials](../companies/gomaterials.md) | 1/1 | software-engineering |
 | [Golden Pet Brands](../companies/golden-pet-brands.md) | 0/1 | software-engineering |
-| [Goldman Sachs](../companies/goldman-sachs.md) | 8/28 | product, quant, software-engineering |
+| [Goldman Sachs](../companies/goldman-sachs.md) | 21/28 | product, quant, software-engineering |
 | [Google](../companies/google.md) | 17/21 | data-science, hardware, research, software-engineering |
 | [Gordon Food Service](../companies/gordon-food-service.md) | 10/10 | data-engineering, data-science, product, software-engineering |
 | [Grant Thornton](../companies/grant-thornton.md) | 0/6 | ai, software-engineering |
@@ -673,7 +673,7 @@
 | [Michelin](../companies/michelin.md) | 1/1 | data-engineering |
 | [Microchip Technology](../companies/microchip-technology.md) | 1/10 | design, embedded, software-engineering |
 | [Micron Technology](../companies/micron-technology.md) | 10/18 | ai, design, software-engineering |
-| [Microsoft](../companies/microsoft.md) | 13/23 | ai, cloud, hardware, machine-learning, product, security, software-engineering |
+| [Microsoft](../companies/microsoft.md) | 12/23 | ai, cloud, hardware, machine-learning, product, security, software-engineering |
 | [Midmark](../companies/midmark.md) | 0/1 | embedded |
 | [Millennium](../companies/millennium.md) | 3/3 | ai, quant |
 | [Mindsmith](../companies/mindsmith.md) | 1/1 | software-engineering |

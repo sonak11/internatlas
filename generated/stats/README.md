@@ -21,7 +21,7 @@ _Generated 2026-09-20_
 | Marvell | 45 |
 | Booz Allen | 41 |
 | NVIDIA | 41 |
-| Bank of Montreal | 36 |
+| Bank of Montreal | 35 |
 | Robinhood | 35 |
 | Coinbase | 33 |
 | Navy Federal | 33 |
@@ -33,7 +33,7 @@ _Generated 2026-09-20_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 2911 | `███████████████` |
+| software-engineering | 2910 | `███████████████` |
 | ai | 391 | `██` |
 | quant | 297 | `██` |
 | machine-learning | 211 | `█` |
@@ -97,6 +97,10 @@ _Generated 2026-09-20_
 - Bank of China USA — Enterprise Risk Management Risk Data Aggregation Intern
 - Bank of Montreal — Client Enablement Analyst Co-op Intern - Client Onboarding
 - Bank of Montreal — Client Enablement Analyst Co-op Intern - Client Onboarding
+- Bank of Montreal — Climate Risk Reporting Analyst Co-op Intern - Winter 2027 - 4 Months
+- Bank of Montreal — Climate Risk Reporting Analyst Co-op Intern - Winter 2027 - 4 Months
+- Bank of Montreal — Data Science Risk Analyst Co-op Intern
+- Bank of Montreal — Data Science Risk Analyst Co-op Intern
 - Bank of Montreal — Full Stack Engineer Intern Co-op - Data Cognition Team
 - Bank of Montreal — Full Stack Engineer Intern Co-op - Data Cognition Team
 - Bank of Montreal — Investment Intern Co-op - Gam
@@ -104,6 +108,8 @@ _Generated 2026-09-20_
 - Bank of Montreal — Junior Software Developer Co-op Intern - Winter 2027 - 4 months
 - Bank of Montreal — Junior Software Developer Co-op Intern - Winter 2027 - 4 months
 - Bank of Montreal — Quantitative Developer Co-op Intern - Alpha Research Team - Multiple Teams
+- Bank of Montreal — Workforce Analyst Co-op Intern
+- Bank of Montreal — Workforce Analyst Intern/Co-op
 - Booz Allen — Applied AI Intern - University
 - Boston Scientific — Software Engineer Intern - Interns/Graduates
 - Brunswick — Computer Graphics Engineer Intern
@@ -175,25 +181,12 @@ _Generated 2026-09-20_
 - GlobalFoundries — RF Technology Development Automation Engineer Intern - Summer 2027
 - GlobalFoundries — Silicon Photonics Advanced Packaging Intern
 - GlobalFoundries — Systems Engineer Intern
-- Goldman Sachs — AWM Product Management Analyst Intern
-- Goldman Sachs — Quantitative Strategist Associate Intern - Asset and Wealth Management
-- Goldman Sachs — Quantitative Strategist Intern - Americas
-- Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Investment Banking
-- Goldman Sachs — Quantitative Strats Analyst Intern - Americas - Investment Banking
-- Goldman Sachs — Summer Analyst Intern
+- Goldman Sachs — Associate Intern - The Core Quantitative Strats
 - Goldman Sachs — Summer Analyst Intern - Americas - AWM Product Management
-- Goldman Sachs — Summer Analyst Intern - Americas - Engineering
-- Goldman Sachs — Summer Analyst Intern - Americas - Engineering
-- Goldman Sachs — Summer Analyst Intern - Americas - Engineering
+- Goldman Sachs — Summer Analyst Intern - Americas - Investment Banking Quantitative Strats
 - Goldman Sachs — Summer Analyst Intern - Engineering
-- Goldman Sachs — Summer Analyst Intern - The Core Quantitative Strats
+- Goldman Sachs — Summer Analyst Intern - FICC and Equities - Sales and Trading
 - Goldman Sachs — Summer Analyst Intern - Wealth Management - Product Management and Design
-- Goldman Sachs — Summer Analyst Intern - Wealth Management - Quantitative Finance
-- Goldman Sachs — Summer Associate Intern
-- Goldman Sachs — Summer Associate Intern - Multiple Teams
 - Gulfstream — AI Product Collegiate Associate Intern
 - Gulfstream — Azure AI Collegiate Associate Intern
 - Gulfstream — Flight Sciences / Mass Properties College Intern - IEF
@@ -252,6 +245,7 @@ _Generated 2026-09-20_
 - Micron Technology — DRAM IP Circuits Design Engineer Intern - IP Development
 - Microsoft — AI Software Engineer Intern
 - Microsoft — Full-Stack Product Engineer Intern - Web + Services
+- Microsoft — Optoelectronics Device Engineer Intern
 - Microsoft — Software Engineer: AI/ML & LLM Intern
 - Microsoft — Software Engineer Intern - AI and ML
 - Microsoft — Software Engineer Intern - AI and ML Projects

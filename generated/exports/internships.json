@@ -1,6 +1,6 @@
 {
   "generated": "2026-09-20",
-  "count": 4909,
+  "count": 4908,
   "internships": [
     {
       "schema_version": "1.0",
@@ -26351,57 +26351,6 @@
     },
     {
       "schema_version": "1.0",
-      "id": "bank-of-montreal-business-analyst-co-op-intern-data-and-change-management-2027-6ce950",
-      "company": {
-        "name": "Bank of Montreal",
-        "slug": "bank-of-montreal"
-      },
-      "role": "Business Analyst Co-op Intern - Data and Change Management",
-      "category": "software-engineering",
-      "apply_url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Business-Analyst--Data-and-Change-Management---Winter-2027--Co-op-Internship----4-Months_R260024737-2",
-      "season": "winter",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Toronto",
-          "country": "ON"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-09-07",
-        "discovered": "2026-09-07",
-        "last_verified": "2026-09-20"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
       "id": "bank-of-montreal-business-analyst-co-op-intern-data-and-change-management-2027-c3871f",
       "company": {
         "name": "Bank of Montreal",
@@ -26460,7 +26409,7 @@
       },
       "role": "Business Analyst Co-op Intern - Data and Change Management",
       "category": "software-engineering",
-      "apply_url": "https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Business-Analyst--Data-and-Change-Management---Winter-2027--Co-op-Internship----4-Months_R260024737-1",
+      "apply_url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Business-Analyst--Data-and-Change-Management---Winter-2027--Co-op-Internship----4-Months_R260024737-2",
       "season": "winter",
       "year": 2027,
       "work_mode": "onsite",
@@ -26751,7 +26700,7 @@
         "discovered": "2026-09-07",
         "last_verified": "2026-09-20"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -26802,7 +26751,7 @@
         "discovered": "2026-09-07",
         "last_verified": "2026-09-20"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -27210,7 +27159,7 @@
         "discovered": "2026-09-07",
         "last_verified": "2026-09-20"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -27261,7 +27210,7 @@
         "discovered": "2026-09-07",
         "last_verified": "2026-09-20"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -28132,7 +28081,7 @@
         "discovered": "2026-08-19",
         "last_verified": "2026-09-20"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -28183,7 +28132,7 @@
         "discovered": "2026-09-10",
         "last_verified": "2026-09-20"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -92472,7 +92421,7 @@
         "discovered": "2026-08-27",
         "last_verified": "2026-09-20"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -92522,9 +92471,9 @@
       "dates": {
         "posted": "2026-08-19",
         "discovered": "2026-08-20",
-        "last_verified": "2026-09-19"
+        "last_verified": "2026-09-20"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -92575,9 +92524,9 @@
       "dates": {
         "posted": "2026-08-15",
         "discovered": "2026-08-15",
-        "last_verified": "2026-09-19"
+        "last_verified": "2026-09-20"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -92592,14 +92541,14 @@
       },
       "role": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
       "category": "quant",
-      "apply_url": "https://higher.gs.com/roles/171535?type=students",
+      "apply_url": "https://higher.gs.com/roles/175427?type=students",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
       "locations": [
         {
-          "city": "NYC",
-          "country": "USA"
+          "city": "London",
+          "country": "UK"
         }
       ],
       "compensation": {
@@ -92680,9 +92629,9 @@
       "dates": {
         "posted": "2026-08-15",
         "discovered": "2026-09-04",
-        "last_verified": "2026-09-19"
+        "last_verified": "2026-09-20"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -92732,9 +92681,9 @@
       "dates": {
         "posted": "2026-08-15",
         "discovered": "2026-09-19",
-        "last_verified": "2026-09-19"
+        "last_verified": "2026-09-20"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -92786,9 +92735,9 @@
       "dates": {
         "posted": "2026-08-15",
         "discovered": "2026-09-16",
-        "last_verified": "2026-09-19"
+        "last_verified": "2026-09-20"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -92839,9 +92788,9 @@
       "dates": {
         "posted": "2026-08-15",
         "discovered": "2026-09-04",
-        "last_verified": "2026-09-19"
+        "last_verified": "2026-09-20"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -92856,15 +92805,14 @@
       },
       "role": "Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats",
       "category": "quant",
-      "apply_url": "https://higher.gs.com/roles/171549?type=students",
+      "apply_url": "https://higher.gs.com/roles/175421?type=students",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
       "locations": [
         {
-          "city": "Salt Lake City",
-          "state": "UT",
-          "country": "USA"
+          "city": "London",
+          "country": "UK"
         }
       ],
       "compensation": {
@@ -92944,9 +92892,9 @@
       "dates": {
         "posted": "2026-08-15",
         "discovered": "2026-09-04",
-        "last_verified": "2026-09-19"
+        "last_verified": "2026-09-20"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -92961,14 +92909,14 @@
       },
       "role": "Quantitative Strategist Intern - Multiple Teams",
       "category": "quant",
-      "apply_url": "https://higher.gs.com/roles/171563?type=students",
+      "apply_url": "https://higher.gs.com/roles/175424?type=students",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
       "locations": [
         {
-          "city": "NYC",
-          "country": "USA"
+          "city": "London",
+          "country": "UK"
         }
       ],
       "compensation": {
@@ -93047,9 +92995,9 @@
       "dates": {
         "posted": "2026-08-15",
         "discovered": "2026-09-04",
-        "last_verified": "2026-09-19"
+        "last_verified": "2026-09-20"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -93098,9 +93046,9 @@
       "dates": {
         "posted": "2026-08-15",
         "discovered": "2026-09-04",
-        "last_verified": "2026-09-19"
+        "last_verified": "2026-09-20"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -93202,9 +93150,9 @@
       "dates": {
         "posted": "2026-08-15",
         "discovered": "2026-09-17",
-        "last_verified": "2026-09-19"
+        "last_verified": "2026-09-20"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -93254,9 +93202,9 @@
       "dates": {
         "posted": "2026-08-15",
         "discovered": "2026-09-04",
-        "last_verified": "2026-09-19"
+        "last_verified": "2026-09-20"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -93305,9 +93253,9 @@
       "dates": {
         "posted": "2026-08-15",
         "discovered": "2026-09-04",
-        "last_verified": "2026-09-19"
+        "last_verified": "2026-09-20"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -93360,7 +93308,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-20"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -93414,7 +93362,7 @@
         "discovered": "2026-09-06",
         "last_verified": "2026-09-20"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -93466,9 +93414,9 @@
       "dates": {
         "posted": "2026-08-15",
         "discovered": "2026-09-04",
-        "last_verified": "2026-09-19"
+        "last_verified": "2026-09-20"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -93483,13 +93431,13 @@
       },
       "role": "Summer Analyst Intern - Engineering",
       "category": "software-engineering",
-      "apply_url": "https://higher.gs.com/roles/170644?type=students",
+      "apply_url": "https://higher.gs.com/roles/170637?type=students",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
       "locations": [
         {
-          "city": "London",
+          "city": "Birmingham",
           "country": "UK"
         }
       ],
@@ -93575,7 +93523,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-09-20"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -93675,9 +93623,9 @@
       "dates": {
         "posted": "2026-08-15",
         "discovered": "2026-09-04",
-        "last_verified": "2026-09-19"
+        "last_verified": "2026-09-20"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -93777,9 +93725,9 @@
       "dates": {
         "posted": "2026-08-15",
         "discovered": "2026-09-04",
-        "last_verified": "2026-09-19"
+        "last_verified": "2026-09-20"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -93830,9 +93778,9 @@
       "dates": {
         "posted": "2026-08-15",
         "discovered": "2026-08-29",
-        "last_verified": "2026-09-19"
+        "last_verified": "2026-09-20"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -93883,9 +93831,9 @@
       "dates": {
         "posted": "2026-08-15",
         "discovered": "2026-08-15",
-        "last_verified": "2026-09-19"
+        "last_verified": "2026-09-20"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -141118,7 +141066,7 @@
         "discovered": "2026-08-14",
         "last_verified": "2026-09-20"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
