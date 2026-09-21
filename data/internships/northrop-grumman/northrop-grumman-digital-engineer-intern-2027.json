@@ -1,20 +1,21 @@
 {
   "schema_version": "1.0",
-  "id": "bank-of-montreal-hardware-asset-management-analyst-co-op-intern-multiple-team-2027",
+  "id": "northrop-grumman-digital-engineer-intern-2027",
   "company": {
-    "name": "Bank of Montreal",
-    "slug": "bank-of-montreal"
+    "name": "Northrop Grumman",
+    "slug": "northrop-grumman"
   },
-  "role": "Hardware Asset Management Analyst Co-op Intern - Multiple Teams",
-  "category": "hardware",
-  "apply_url": "https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Hardware-Asset-Management-Analyst--Winter-2027--Co-op-Internship----8-months_R260026279-3",
-  "season": "winter",
+  "role": "Digital Engineer Intern",
+  "category": "software-engineering",
+  "apply_url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/XMLNAME-2027-Digital-Engineer-Intern---Baltimore-MD_R10251150-1",
+  "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Toronto",
-      "country": "ON"
+      "city": "Baltimore",
+      "state": "MD",
+      "country": "USA"
     }
   ],
   "compensation": {
@@ -24,7 +25,9 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "masters"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -39,11 +42,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-09",
-    "discovered": "2026-09-09",
+    "posted": "2026-09-21",
+    "discovered": "2026-09-21",
     "last_verified": "2026-09-21"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

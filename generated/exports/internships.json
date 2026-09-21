@@ -1,6 +1,6 @@
 {
   "generated": "2026-09-21",
-  "count": 4913,
+  "count": 4919,
   "internships": [
     {
       "schema_version": "1.0",
@@ -24977,6 +24977,162 @@
     },
     {
       "schema_version": "1.0",
+      "id": "autozone-data-science-intern-2027",
+      "company": {
+        "name": "AutoZone",
+        "slug": "autozone"
+      },
+      "role": "Data Science Intern",
+      "category": "data-science",
+      "apply_url": "https://egud.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155461",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Memphis",
+          "state": "TN",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-21",
+        "discovered": "2026-09-21",
+        "last_verified": "2026-09-21"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "autozone-ecommerce-intern-2027",
+      "company": {
+        "name": "AutoZone",
+        "slug": "autozone"
+      },
+      "role": "Ecommerce Intern",
+      "category": "software-engineering",
+      "apply_url": "https://egud.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155427",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Memphis",
+          "state": "TN",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-21",
+        "discovered": "2026-09-21",
+        "last_verified": "2026-09-21"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "autozone-information-technology-intern-2027",
+      "company": {
+        "name": "AutoZone",
+        "slug": "autozone"
+      },
+      "role": "Information Technology Intern",
+      "category": "software-engineering",
+      "apply_url": "https://egud.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155451",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Memphis",
+          "state": "TN",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-21",
+        "discovered": "2026-09-21",
+        "last_verified": "2026-09-21"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "availity-software-engineer-intern-multiple-teams-2026",
       "company": {
         "name": "Availity",
@@ -27469,7 +27625,7 @@
         "discovered": "2026-09-09",
         "last_verified": "2026-09-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -27520,7 +27676,7 @@
         "discovered": "2026-09-09",
         "last_verified": "2026-09-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -28852,7 +29008,7 @@
         "discovered": "2026-09-17",
         "last_verified": "2026-09-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -47918,7 +48074,7 @@
         "discovered": "2026-08-29",
         "last_verified": "2026-09-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -48047,7 +48203,7 @@
         "discovered": "2026-08-29",
         "last_verified": "2026-09-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -64403,7 +64559,7 @@
         "discovered": "2026-09-19",
         "last_verified": "2026-09-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -85235,7 +85391,7 @@
         "discovered": "2026-09-10",
         "last_verified": "2026-09-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -92635,59 +92791,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-21"
       },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "goldman-sachs-quantitative-strategist-intern-americas-the-core-quantitativ-2027-41219d",
-      "company": {
-        "name": "Goldman Sachs",
-        "slug": "goldman-sachs"
-      },
-      "role": "Quantitative Strategist Intern - Americas - The Core Quantitative Strats",
-      "category": "quant",
-      "apply_url": "https://higher.gs.com/roles/171551?type=students",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Salt Lake City",
-          "state": "UT",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-08-15",
-        "discovered": "2026-09-19",
-        "last_verified": "2026-09-21"
-      },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -92741,7 +92845,7 @@
         "discovered": "2026-09-16",
         "last_verified": "2026-09-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -92756,13 +92860,14 @@
       },
       "role": "Quantitative Strategist Intern - Americas - The Core Quantitative Strats",
       "category": "quant",
-      "apply_url": "https://higher.gs.com/roles/171533?type=students",
+      "apply_url": "https://higher.gs.com/roles/171551?type=students",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
       "locations": [
         {
-          "city": "NYC",
+          "city": "Salt Lake City",
+          "state": "UT",
           "country": "USA"
         }
       ],
@@ -92950,7 +93055,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -93001,7 +93106,7 @@
         "discovered": "2026-09-20",
         "last_verified": "2026-09-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -93259,7 +93364,7 @@
         "discovered": "2026-09-17",
         "last_verified": "2026-09-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -93311,7 +93416,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -93362,7 +93467,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -93574,7 +93679,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -93783,7 +93888,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -93885,7 +93990,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -93991,7 +94096,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-09-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -105835,9 +105940,9 @@
       "dates": {
         "posted": "2026-09-07",
         "discovered": "2026-09-07",
-        "last_verified": "2026-09-14"
+        "last_verified": "2026-09-21"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -129973,7 +130078,7 @@
         "discovered": "2026-08-21",
         "last_verified": "2026-09-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -130075,7 +130180,7 @@
         "discovered": "2026-08-26",
         "last_verified": "2026-09-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -130126,7 +130231,7 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-09-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -134597,9 +134702,9 @@
       "dates": {
         "posted": "2026-08-24",
         "discovered": "2026-08-24",
-        "last_verified": "2026-09-19"
+        "last_verified": "2026-09-21"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -138055,6 +138160,67 @@
       "tags": [
         "auto-ingested",
         "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "mercury-software-engineering-intern-spring-2027-2027",
+      "company": {
+        "name": "Mercury",
+        "slug": "mercury"
+      },
+      "role": "Software Engineering Intern - Spring 2027",
+      "category": "software-engineering",
+      "apply_url": "https://job-boards.greenhouse.io/mercury/jobs/6199367004",
+      "season": "spring",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "SF",
+          "country": "USA"
+        },
+        {
+          "city": "NYC",
+          "country": "USA"
+        },
+        {
+          "city": "Portland",
+          "state": "OR",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-21",
+        "discovered": "2026-09-21",
+        "last_verified": "2026-09-21"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify",
+        "remote-available"
       ]
     },
     {
@@ -154743,6 +154909,168 @@
         "last_verified": "2026-09-13"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "northrop-grumman-digital-engineer-intern-2027",
+      "company": {
+        "name": "Northrop Grumman",
+        "slug": "northrop-grumman"
+      },
+      "role": "Digital Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/XMLNAME-2027-Digital-Engineer-Intern---Baltimore-MD_R10251150-1",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Baltimore",
+          "state": "MD",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-21",
+        "discovered": "2026-09-21",
+        "last_verified": "2026-09-21"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "northrop-grumman-embedded-software-engineer-intern-2027-c90d3d",
+      "company": {
+        "name": "Northrop Grumman",
+        "slug": "northrop-grumman"
+      },
+      "role": "Embedded Software Engineer Intern",
+      "category": "embedded",
+      "apply_url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/XMLNAME-2027-Embedded-Software-Engineer-Intern---Baltimore-MD_R10251464",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Baltimore",
+          "state": "MD",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-21",
+        "discovered": "2026-09-21",
+        "last_verified": "2026-09-21"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "northrop-grumman-embedded-software-engineer-intern-2027",
+      "company": {
+        "name": "Northrop Grumman",
+        "slug": "northrop-grumman"
+      },
+      "role": "Embedded Software Engineer Intern",
+      "category": "embedded",
+      "apply_url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Camarillo/XMLNAME-2027-Embedded-Software-Engineer-Intern---Camarillo-CA_R10251835",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Camarillo",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-21",
+        "discovered": "2026-09-21",
+        "last_verified": "2026-09-21"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -187323,7 +187651,7 @@
         "discovered": "2026-08-27",
         "last_verified": "2026-09-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -187374,7 +187702,7 @@
         "discovered": "2026-08-18",
         "last_verified": "2026-09-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -187425,7 +187753,7 @@
         "discovered": "2026-08-18",
         "last_verified": "2026-09-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -187476,7 +187804,7 @@
         "discovered": "2026-08-27",
         "last_verified": "2026-09-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -187527,7 +187855,7 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-09-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -187578,7 +187906,7 @@
         "discovered": "2026-08-31",
         "last_verified": "2026-09-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -187938,7 +188266,7 @@
         "discovered": "2026-08-26",
         "last_verified": "2026-09-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -187989,7 +188317,7 @@
         "discovered": "2026-08-26",
         "last_verified": "2026-09-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -188040,7 +188368,7 @@
         "discovered": "2026-08-28",
         "last_verified": "2026-09-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -188193,7 +188521,7 @@
         "discovered": "2026-09-08",
         "last_verified": "2026-09-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -188244,7 +188572,7 @@
         "discovered": "2026-08-31",
         "last_verified": "2026-09-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -188397,7 +188725,7 @@
         "discovered": "2026-08-24",
         "last_verified": "2026-09-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -188448,7 +188776,7 @@
         "discovered": "2026-08-24",
         "last_verified": "2026-09-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -188499,7 +188827,7 @@
         "discovered": "2026-08-26",
         "last_verified": "2026-09-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -188550,7 +188878,7 @@
         "discovered": "2026-08-26",
         "last_verified": "2026-09-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -188601,7 +188929,7 @@
         "discovered": "2026-08-18",
         "last_verified": "2026-09-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -188703,7 +189031,7 @@
         "discovered": "2026-09-01",
         "last_verified": "2026-09-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -188754,7 +189082,7 @@
         "discovered": "2026-09-01",
         "last_verified": "2026-09-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -189009,7 +189337,7 @@
         "discovered": "2026-08-26",
         "last_verified": "2026-09-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -189060,7 +189388,7 @@
         "discovered": "2026-08-26",
         "last_verified": "2026-09-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -189213,7 +189541,7 @@
         "discovered": "2026-08-20",
         "last_verified": "2026-09-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -189264,7 +189592,7 @@
         "discovered": "2026-08-20",
         "last_verified": "2026-09-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -189366,7 +189694,7 @@
         "discovered": "2026-08-28",
         "last_verified": "2026-09-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -189417,7 +189745,7 @@
         "discovered": "2026-08-28",
         "last_verified": "2026-09-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -189519,7 +189847,7 @@
         "discovered": "2026-08-26",
         "last_verified": "2026-09-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -189570,7 +189898,7 @@
         "discovered": "2026-08-26",
         "last_verified": "2026-09-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -189621,7 +189949,7 @@
         "discovered": "2026-08-31",
         "last_verified": "2026-09-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -230389,7 +230717,7 @@
         "discovered": "2026-09-10",
         "last_verified": "2026-09-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -247154,7 +247482,7 @@
         "discovered": "2026-09-16",
         "last_verified": "2026-09-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:ats"
@@ -260864,7 +261192,7 @@
         "discovered": "2026-08-13",
         "last_verified": "2026-09-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -260972,7 +261300,7 @@
         "discovered": "2026-08-18",
         "last_verified": "2026-09-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -261080,7 +261408,7 @@
         "discovered": "2026-08-20",
         "last_verified": "2026-09-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"

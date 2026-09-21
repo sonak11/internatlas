@@ -1,20 +1,28 @@
 {
   "schema_version": "1.0",
-  "id": "goldman-sachs-quantitative-strategist-intern-americas-the-core-quantitativ-2027-41219d",
+  "id": "mercury-software-engineering-intern-spring-2027-2027",
   "company": {
-    "name": "Goldman Sachs",
-    "slug": "goldman-sachs"
+    "name": "Mercury",
+    "slug": "mercury"
   },
-  "role": "Quantitative Strategist Intern - Americas - The Core Quantitative Strats",
-  "category": "quant",
-  "apply_url": "https://higher.gs.com/roles/171551?type=students",
-  "season": "summer",
+  "role": "Software Engineering Intern - Spring 2027",
+  "category": "software-engineering",
+  "apply_url": "https://job-boards.greenhouse.io/mercury/jobs/6199367004",
+  "season": "spring",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Salt Lake City",
-      "state": "UT",
+      "city": "SF",
+      "country": "USA"
+    },
+    {
+      "city": "NYC",
+      "country": "USA"
+    },
+    {
+      "city": "Portland",
+      "state": "OR",
       "country": "USA"
     }
   ],
@@ -40,13 +48,14 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-15",
-    "discovered": "2026-09-19",
+    "posted": "2026-09-21",
+    "discovered": "2026-09-21",
     "last_verified": "2026-09-21"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:simplify",
+    "remote-available"
   ]
 }

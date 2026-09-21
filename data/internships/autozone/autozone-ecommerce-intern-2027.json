@@ -1,20 +1,21 @@
 {
   "schema_version": "1.0",
-  "id": "bank-of-montreal-hardware-asset-management-analyst-co-op-intern-multiple-team-2027",
+  "id": "autozone-ecommerce-intern-2027",
   "company": {
-    "name": "Bank of Montreal",
-    "slug": "bank-of-montreal"
+    "name": "AutoZone",
+    "slug": "autozone"
   },
-  "role": "Hardware Asset Management Analyst Co-op Intern - Multiple Teams",
-  "category": "hardware",
-  "apply_url": "https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Hardware-Asset-Management-Analyst--Winter-2027--Co-op-Internship----8-months_R260026279-3",
-  "season": "winter",
+  "role": "Ecommerce Intern",
+  "category": "software-engineering",
+  "apply_url": "https://egud.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155427",
+  "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Toronto",
-      "country": "ON"
+      "city": "Memphis",
+      "state": "TN",
+      "country": "USA"
     }
   ],
   "compensation": {
@@ -39,11 +40,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-09",
-    "discovered": "2026-09-09",
+    "posted": "2026-09-21",
+    "discovered": "2026-09-21",
     "last_verified": "2026-09-21"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"
