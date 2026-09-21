@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🤖 AI Internships
 
-**392** tracked · **243** open now
+**392** tracked · **241** open now
 
 ## Current openings
 
@@ -61,7 +61,6 @@
 | [ByteDance](generated/companies/bytedance.md) | [Software Engineer Intern - AI Infrastructure Compute](https://jobs.bytedance.com/en/position/7667377525182662965/detail) | San Jose, CA | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
 | [ByteDance](generated/companies/bytedance.md) | [Software Engineer Intern - AI Platform](https://jobs.bytedance.com/en/position/7668212952030841093/detail) | San Jose, CA | Onsite | 2026-08-04 | Rolling | 🟢 Open | ❔ |
 | [ByteDance](generated/companies/bytedance.md) | [Software Engineer Intern, AI Platform](https://joinbytedance.com/search/7668212952030841093) | San Jose, CA | Onsite | 2026-08-04 | Rolling | 🟢 Open | ❌ |
-| [CAE](generated/companies/cae.md) | [Software Engineering Intern - AI, Automation and Business Intelligence](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-FIN-275-Software-Engineering-Intern--AI--Automation-and-Business-Intelligence_123477-1) | Montreal | Onsite | 2026-09-02 | Rolling | 🟢 Open | ❔ |
 | [Campbell Soup Company](generated/companies/campbell-soup-company.md) | [Data Engineer Intern, DA&AI Co-Op](https://campbellsoup.wd5.myworkdayjobs.com/en-US/externalcareers_globalsite/job/USA---NJ---Camden/Data-Engineer--DA-AI-Co-Op_Req-65838) | Camden, NJ | Onsite | 2026-08-21 | Rolling | 🟢 Open | ❔ |
 | [Capital One](generated/companies/capital-one.md) | [AI Engineer Intern](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Current-Master-s--AI-Engineering-Internship-Program---Summer-2027_R249109-1) | San Jose, CA +2 | Onsite | 2026-09-08 | Rolling | 🟢 Open | ❔ |
 | [Capital One](generated/companies/capital-one.md) | [AI Engineering Intern](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Current-PhD--AI-Engineering-Internship-Program---Summer-2027_R249110-1) | San Jose, CA +2 | Onsite | 2026-09-08 | Rolling | 🟢 Open | ❔ |
@@ -171,7 +170,6 @@
 | [Qualcomm](generated/companies/qualcomm.md) | [Sensors Subsystem Engineering Intern - Low-Power AI - Audio](https://qualcomm.eightfold.ai/careers/job/446721109229) | Markham | Onsite | 2026-09-15 | Rolling | 🟢 Open | ❔ |
 | [Qualified Health](generated/companies/qualified-health.md) | [Clinical AI Evaluation Intern](https://jobs.ashbyhq.com/qualified-health-pbc/6cae1651-ea0d-4779-bf8c-778be1ac8789/application?embed=true) | Palo Alto, CA | Onsite | 2026-08-29 | Rolling | 🟢 Open | ❔ |
 | [Rivian](generated/companies/rivian.md) | [Supply Chain Data, AI and Business Intelligence Co-op Intern](https://careers.rivian.com/jobs/33800?icims=1) | Normal, IL | Onsite | 2026-09-18 | Rolling | 🟢 Open | ❔ |
-| [Robert Bosch Venture Capital](generated/companies/robert-bosch-venture-capital.md) | [AI Engineering Intern](https://jobs.smartrecruiters.com/BoschGroup/744000150217869) | Plymouth, MI | Onsite | 2026-09-17 | Rolling | 🟢 Open | ❔ |
 | [Robert Bosch Venture Capital](generated/companies/robert-bosch-venture-capital.md) | [Product Management AI-Tool Intern - 8 months/40hrs per week](https://jobs.smartrecruiters.com/BoschGroup/744000148575999) | Farmington Hills, MI | Onsite | 2026-09-09 | Rolling | 🟢 Open | ❔ |
 | [RSM](generated/companies/rsm.md) | [Tax Digital Services Intern - AI Engineering](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Charlotte/Tax-Digital-Services-Intern---AI-Engineering---Summer-2027_JR121297) | Charlotte, NC | Onsite | 2026-09-21 | Rolling | 🟢 Open | ❔ |
 | [RTX](generated/companies/rtx.md) | [Advanced Analytics Products & Change Management Intern - Advanced Analytics AI Evolution Project](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Analyste-systmes-d-affaires-et-transformation---Internship---Winter-2027---Analyst-Business-Systems-and-Transformation_01869327) | Longueuil | Onsite | 2026-09-03 | Rolling | 🟢 Open | ❔ |
@@ -277,6 +275,7 @@
 | [ByteDance](generated/companies/bytedance.md) | [Research Intern - AI Compute](https://jobs.bytedance.com/en/position/7679892316538063157/detail) | San Jose, CA | Onsite | 2026-08-31 | Rolling | 🔴 Closed | ❔ |
 | [ByteDance](generated/companies/bytedance.md) | [Research Scientist Intern - AI Infrastructure](https://jobs.bytedance.com/en/position/7553917136512076050/detail) | San Jose, CA | Onsite | 2026-07-03 | Rolling | 🔴 Closed | ❔ |
 | [ByteDance](generated/companies/bytedance.md) | [Research Scientist Intern - AI Infrastructure](https://jobs.bytedance.com/en/position/7553916190126524680/detail) | Seattle, WA | Onsite | 2026-07-03 | Rolling | 🔴 Closed | ❔ |
+| [CAE](generated/companies/cae.md) | [Software Engineering Intern - AI, Automation and Business Intelligence](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-FIN-275-Software-Engineering-Intern--AI--Automation-and-Business-Intelligence_123477-1) | Montreal | Onsite | 2026-09-02 | Rolling | 🔴 Closed | ❔ |
 | [Canva](generated/companies/canva.md) | [PhD Research Scientist Intern - Edge AI](https://jobs.smartrecruiters.com/Canva/6000000001295782) | London | Onsite | 2026-08-07 | Rolling | 🔴 Closed | ❔ |
 | [Canva](generated/companies/canva.md) | [PhD Research Scientist Intern - Generative AI](https://jobs.smartrecruiters.com/Canva/6000000001289897) | SF | Onsite | 2026-08-06 | Rolling | 🔴 Closed | ❔ |
 | [CCC Intelligent Solutions](generated/companies/ccc-intelligent-solutions.md) | [AI Enablement Intern](https://cccis.wd1.myworkdayjobs.com/broadbean_external/job/Chicago-Green-St-IL/AI-Enablement-Intern_0014872) | Chicago, IL | Onsite | 2026-08-28 | Rolling | 🔴 Closed | ❔ |
@@ -351,6 +350,7 @@
 | [Prophet](generated/companies/prophet.md) | [AI Engineer Intern - AI Foundry & Digital Growth](https://job-boards.greenhouse.io/prophet/jobs/4689859005) | NYC | Onsite | 2026-07-27 | Rolling | 🔴 Closed | ❔ |
 | [Revvity](generated/companies/revvity.md) | [Full-Stack AI Developer Intern](https://revvity.wd103.myworkdayjobs.com/External/job/CAD-Remote--ON/Full-Stack-AI-Developer-Intern_JR-044905) | Remote | Remote | 2026-07-15 | Rolling | 🔴 Closed | ❔ |
 | [Rivian and Volkswagen Group Technologies](generated/companies/rivian-and-volkswagen-group-technologies.md) | [Data Engineering Intern - AI & Analytics](https://jobs.ashbyhq.com/rivianvw.tech/3864f83a-7b29-4c96-b00e-436d60c0508a/application) | Palo Alto, CA | Onsite | 2026-06-11 | Rolling | 🔴 Closed | ❔ |
+| [Robert Bosch Venture Capital](generated/companies/robert-bosch-venture-capital.md) | [AI Engineering Intern](https://jobs.smartrecruiters.com/BoschGroup/744000150217869) | Plymouth, MI | Onsite | 2026-09-17 | Rolling | 🔴 Closed | ❔ |
 | [Rockwell Automation](generated/companies/rockwell-automation.md) | [Applied AI Intern](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Austin-Texas-United-States/Intern--Applied-AI_R26-5631-2) | Austin, TX | Onsite | 2026-07-29 | Rolling | 🔴 Closed | ❔ |
 | [Rockwell Automation](generated/companies/rockwell-automation.md) | [Applied AI Intern](https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Austin-Texas-United-States/Intern--Applied-AI_R26-5631-1) | Austin, TX | Onsite | 2026-07-29 | Rolling | 🔴 Closed | ❔ |
 | [Royal Bank of Canada](generated/companies/royal-bank-of-canada.md) | [AI & Stress Testing Analytics Intern - Group Risk Management](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--AI---Stress-Testing-Analytics-Intern--4-Months-_R-0000185790) | Toronto | Onsite | 2026-08-27 | Rolling | 🔴 Closed | ❔ |
@@ -485,7 +485,6 @@
 - Brevan Howard (1)
 - Brio Water Technology (1)
 - British Columbia Investment (1)
-- CAE (1)
 - Campbell Soup Company (1)
 - Chemours (1)
 - Ciena (1)
@@ -568,6 +567,7 @@
 - Blockhouse (1)
 - Brookfield (1)
 - By Light Professional IT Services (1)
+- CAE (1)
 - Centific (1)
 - CNO Financial Group (1)
 - Cole Engineering Services (1)

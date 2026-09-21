@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "l3harris-technologies-software-engineer-intern-2026-2bb1e2",
+  "id": "waymo-2027-summer-intern-bs-ms-global-supply-management-gsm-2027",
   "company": {
-    "name": "L3Harris Technologies",
-    "slug": "l3harris-technologies"
+    "name": "Waymo",
+    "slug": "waymo",
+    "career_page": "https://waymo.com/careers"
   },
-  "role": "Software Engineer Intern",
+  "role": "2027 Summer Intern, BS/MS, Global Supply Management (GSM)",
   "category": "software-engineering",
-  "apply_url": "https://jobs.l3harris.com/job/Northampton-Intern,-Software-Engineer-MA-01060/1423745000/?ats=successfactors",
-  "season": "fall",
-  "year": 2026,
+  "apply_url": "https://careers.withwaymo.com/jobs?gh_jid=8201252",
+  "season": "summer",
+  "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Northampton",
-      "state": "MA",
+      "city": "Mountain View",
       "country": "USA"
     }
   ],
@@ -25,10 +25,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters",
-      "phd"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -43,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-26",
-    "discovered": "2026-08-26",
+    "posted": "2026-09-21",
+    "discovered": "2026-09-21",
     "last_verified": "2026-09-21"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:ats"
   ]
 }

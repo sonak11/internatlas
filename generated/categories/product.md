@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🧭 Product Internships
 
-**161** tracked · **123** open now
+**161** tracked · **122** open now
 
 ## Current openings
 
@@ -94,7 +94,6 @@
 | [Springs Window Fashions](generated/companies/springs-window-fashions.md) | [Product Management Competitive Product Assessment Intern - Summer 2027](https://careers-springswindowfashions.icims.com/jobs/12883/job?mobile=true&needsRedirect=false) | Middleton, WI | Onsite | 2026-08-22 | Rolling | 🟢 Open | ❔ |
 | [Springs Window Fashions](generated/companies/springs-window-fashions.md) | [Product Management Dashboard Analytics Intern](https://careers-springswindowfashions.icims.com/jobs/12882/job?mobile=true&needsRedirect=false) | Middleton, WI | Onsite | 2026-08-22 | Rolling | 🟢 Open | ❔ |
 | [Springs Window Fashions](generated/companies/springs-window-fashions.md) | [Product Management Intern](https://careers-springswindowfashions.icims.com/jobs/12892/job?mobile=true&needsRedirect=false) | Long Island City | Onsite | 2026-08-22 | Rolling | 🟢 Open | ❔ |
-| [Swift](generated/companies/swift.md) | [Standards Strategy & Product Management Intern](https://swift.wd3.myworkdayjobs.com/join-swift/job/London-United-Kingdom/Standards-Strategy---Product-Management-Intern_2026-16374) | London | Onsite | 2026-08-19 | Rolling | 🟢 Open | ❔ |
 | [TD Bank](generated/companies/td-bank.md) | [Product Management Intern Co-op](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/L-H-Product-Management-Intern-Co-op--Winter-2027-_R_1506427) | Toronto | Onsite | 2026-09-16 | Rolling | 🟢 Open | ❔ |
 | [TD Bank](generated/companies/td-bank.md) | [Product Management Intern/Co-op - Personal Savings & Investing](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Personal-Savings---Investing--PS-I--Product-Management-Intern-Co-op_R_1504373) | Toronto | Onsite | 2026-09-08 | Rolling | 🟢 Open | ❔ |
 | [Tesla](generated/companies/tesla.md) | [Commercial Charging Product Management Intern - Energy Engineering](https://www.tesla.com/careers/search/job/283156) | Palo Alto, CA | Onsite | 2026-09-11 | Rolling | 🟢 Open | ❔ |
@@ -160,6 +159,7 @@
 | [Signify](generated/companies/signify.md) | [Product Management Intern](https://lighting.wd3.myworkdayjobs.com/jobs-and-careers/job/Menlo-Park/Product-Management-Intern---Fall-2026_365521) | Menlo Park, CA | Onsite | 2026-07-16 | Rolling | 🔴 Closed | ❔ |
 | [SOTI](generated/companies/soti.md) | [Associate Product Manager Intern](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Associate-Product-Manager-Intern--September-2026-12-Months-_R10041) | Mississauga | Onsite | 2026-05-08 | Rolling | 🔴 Closed | ❔ |
 | [SOTI](generated/companies/soti.md) | [Product Manager Intern - Sales Enablement Products](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Product-Manager--Intern-_R10095) | Mississauga | Onsite | 2026-05-14 | Rolling | 🔴 Closed | ❔ |
+| [Swift](generated/companies/swift.md) | [Standards Strategy & Product Management Intern](https://swift.wd3.myworkdayjobs.com/join-swift/job/London-United-Kingdom/Standards-Strategy---Product-Management-Intern_2026-16374) | London | Onsite | 2026-08-19 | Rolling | 🔴 Closed | ❔ |
 | [Tesla](generated/companies/tesla.md) | [Commercial Charging Product Management Intern - Energy Engineering](https://www.tesla.com/careers/search/job/272322) | Palo Alto, CA | Onsite | 2026-06-07 | Rolling | 🔴 Closed | ❔ |
 | [Tesla](generated/companies/tesla.md) | [Product Management Intern - Product Engineer - Applications Engineering](https://www.tesla.com/careers/search/job/274754) | Fremont, CA | Onsite | 2026-06-24 | Rolling | 🔴 Closed | ❔ |
 | [Tesla](generated/companies/tesla.md) | [Product Manager Intern - Residential Energy Engineering](https://www.tesla.com/careers/search/job/275178) | Palo Alto, CA | Onsite | 2026-06-27 | Rolling | 🔴 Closed | ❔ |
@@ -229,7 +229,6 @@
 - Publicis Groupe (1)
 - Roblox (1)
 - Skydio (1)
-- Swift (1)
 - Tessera Labs (1)
 - The Home Depot (1)
 - Trimble (1)
@@ -254,5 +253,6 @@
 - ROCKWOOL Group (1)
 - Royal Bank of Canada (1)
 - Signify (1)
+- Swift (1)
 - Tuckernuck (1)
 - Vanguard (1)

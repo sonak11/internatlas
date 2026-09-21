@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 📈 Quant Internships
 
-**298** tracked · **224** open now
+**298** tracked · **223** open now
 
 ## Current openings
 
@@ -228,7 +228,6 @@
 | [WallStreetQuants](generated/companies/wallstreetquants.md) | [Quantitative Trading Intern](https://apply.workable.com/wallstreetquants/j/8CB119E789/apply) | Miami, FL | Onsite | 2026-08-08 | Rolling | 🟢 Open | ❔ |
 | [Waymo](generated/companies/waymo.md) | [2027 Summer Intern, MS/PhD, Quantitative UX Researcher, Growth/International Expansion](https://careers.withwaymo.com/jobs?gh_jid=8163364) | San Francisco | Onsite | 2026-08-28 | Rolling | 🟢 Open | ❔ |
 | [Waymo](generated/companies/waymo.md) | [2027 Summer Intern, PhD, Quantitative Software Engineer](https://careers.withwaymo.com/jobs?gh_jid=8197554) | Mountain View +2 | Onsite | 2026-09-16 | Rolling | 🟢 Open | ❔ |
-| [Wells Fargo](generated/companies/wells-fargo.md) | [Quantitative Analytics Intern - Multiple Teams](https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Quantitative-Analytics-Summer-Internship-Capital-Markets--PhD----Early-Careers_R-568279) | Charlotte, NC | Onsite | 2026-08-13 | Rolling | 🟢 Open | ❔ |
 | [Xantium](generated/companies/xantium.md) | [Quantitative Developer Intern](https://job-boards.greenhouse.io/xantium/jobs/4360768009) | London +1 | Onsite | 2026-08-17 | Rolling | 🟢 Open | ❔ |
 | [Xantium](generated/companies/xantium.md) | [Quantitative Researcher Intern](https://job-boards.greenhouse.io/xantium/jobs/4371217009) | London +1 | Onsite | 2026-08-17 | Rolling | 🟢 Open | ❔ |
 | [Zions Bank](generated/companies/zions-bank.md) | [Quantitative Modeling Analyst Intern - Corporate Quantitative Analytics](https://zionsbancorp.taleo.net/careersection/joinexternalmobile/jobdetail.ftl?job=071620) | USA | Onsite | 2026-09-09 | Rolling | 🟢 Open | ❔ |
@@ -304,6 +303,7 @@
 | [Wells Fargo](generated/companies/wells-fargo.md) | [Quantitative Analytics Intern - Capital Markets - Masters](https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Quantitative-Analytics-Summer-Internship-Capital-Markets--Masters----Early-Careers_R-568270) | Charlotte, NC | Onsite | 2026-08-13 | Rolling | 🔴 Closed | ❔ |
 | [Wells Fargo](generated/companies/wells-fargo.md) | [Quantitative Analytics Intern - Multiple Teams](https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Quantitative-Analytics-Summer-Internship-Risk-Analytics-and-Decision-Sciences--Masters----Early-Careers_R-568259) | Charlotte, NC | Onsite | 2026-08-13 | Rolling | 🔴 Closed | ❔ |
 | [Wells Fargo](generated/companies/wells-fargo.md) | [Quantitative Analytics Intern - Multiple Teams](https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Quantitative-Analytics-Summer-Internship-Risk-Analytics-and-Decision-Sciences--RADS-Masters----Early-Careers_R-569402) | Charlotte, NC | Onsite | 2026-08-18 | Rolling | 🔴 Closed | ❔ |
+| [Wells Fargo](generated/companies/wells-fargo.md) | [Quantitative Analytics Intern - Multiple Teams](https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Quantitative-Analytics-Summer-Internship-Capital-Markets--PhD----Early-Careers_R-568279) | Charlotte, NC | Onsite | 2026-08-13 | Rolling | 🔴 Closed | ❔ |
 | [Wells Fargo](generated/companies/wells-fargo.md) | [Quantitative Analytics Intern - Risk Analytics and Decision Sciences](https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Quantitative-Analytics-Summer-Internship-Risk-Analytics-and-Decision-Sciences--RADS-PhD----Early-Careers_R-569912) | Charlotte, NC | Onsite | 2026-08-20 | Rolling | 🔴 Closed | ❔ |
 | [WhiteWater Midstream](generated/companies/whitewater-midstream.md) | [Trading Operations Intern - Summer 2027](https://job-boards.greenhouse.io/whitewatermidstream/jobs/5221723007) | Austin, TX | Onsite | 2026-08-26 | Rolling | 🔴 Closed | ❔ |
 

@@ -17,8 +17,8 @@ _Generated 2026-09-21_
 | Qorvo | 53 |
 | Jump Trading | 49 |
 | Royal Bank of Canada | 49 |
-| L3Harris Technologies | 45 |
 | Marvell | 45 |
+| L3Harris Technologies | 44 |
 | Booz Allen | 41 |
 | NVIDIA | 41 |
 | Robinhood | 35 |
@@ -38,7 +38,7 @@ _Generated 2026-09-21_
 | quant | 298 | `██` |
 | machine-learning | 211 | `█` |
 | hardware | 192 | `█` |
-| data-science | 180 | `█` |
+| data-science | 181 | `█` |
 | product | 161 | `█` |
 | research | 161 | `█` |
 | design | 128 | `█` |
@@ -54,6 +54,7 @@ _Generated 2026-09-21_
 - 2026-09-21 — **AutoZone**: [Ecommerce Intern](https://egud.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155427)
 - 2026-09-21 — **AutoZone**: [Information Technology Intern](https://egud.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155451)
 - 2026-09-21 — **Fidelity Investments**: [Undergraduate Internship - Software](https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/One-Destiny-Way-Westlake-TX/Summer-2027-Undergraduate-Internship---Software_2134524)
+- 2026-09-21 — **Figma**: [PhD Intern, Data Science (2027)](https://boards.greenhouse.io/figma/jobs/6200626004?gh_jid=6200626004)
 - 2026-09-21 — **First Citizens BancShares**: [Quantitative Analysis Intern - Quantitative Analysis](https://firstcitizens.jibeapply.com/jobs/35602?icims=1)
 - 2026-09-21 — **G-Research**: [Software Engineer Intern](https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Software-Engineering-Intern_R3746)
 - 2026-09-21 — **Lazard**: [AI Engineer Intern](https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6606)
@@ -68,7 +69,6 @@ _Generated 2026-09-21_
 - 2026-09-21 — **Upbound Group**: [Software Engineer Intern](https://upbound.wd501.myworkdayjobs.com/Upbound/job/Plano-TX/Software-Engineer-Intern_R-100762)
 - 2026-09-21 — **Upbound Group**: [Software Engineer Intern](https://upbound.wd501.myworkdayjobs.com/Upbound/job/Plano-TX/Software-Engineer-Intern_R-100761)
 - 2026-09-21 — **Upbound Group**: [Software Engineer Intern](https://upbound.wd501.myworkdayjobs.com/Upbound/job/Draper-UT/Software-Engineer-Intern_R-100759)
-- 2026-09-20 — **The Aerospace Corporation**: [Reliability and Statistics Intern](https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Reliability-and-Statistics-Undergraduate-Intern_R016594)
 
 ## Recently closed
 
@@ -93,6 +93,7 @@ _Generated 2026-09-21_
 - Anduril — 2027 Software Quality Assurance Intern
 - AQR Capital Management — Portfolio Solutions Group Summer Analyst Intern - Portfolio Solutions Group
 - AQR Capital Management — Risk Summer Analyst Intern
+- Awardco — Front-End Software Engineer Intern
 - Bank of China USA — Enterprise Risk Management Risk Data Aggregation Intern
 - Bank of Montreal — Business Analyst Co-op Intern - Data and Change Management
 - Bank of Montreal — Business Analyst Co-op Intern - Data and Change Management
@@ -125,6 +126,8 @@ _Generated 2026-09-21_
 - Brunswick — Reinforcement Learning Intern - Boating Intelligence Design Lab
 - Brunswick — Software Engineer Intern - Boating Intelligence Design Lab
 - By Light Professional IT Services — AI Intern
+- CAE — Junior Data Analyst Intern
+- CAE — Software Engineering Intern - AI, Automation and Business Intelligence
 - CALSTART — Data Analysis Intern
 - Canadian Solar — Data Analysis Intern - Quality
 - Canva — PhD Research Scientist Intern - Generative AI
@@ -150,6 +153,7 @@ _Generated 2026-09-21_
 - CNO Financial Group — Artificial Intelligence Information Technology Intern - AI
 - Coinbase — Policy Intern
 - Cole Engineering Services — AI Intern
+- Commure — Software Engineer Intern - Summer 2027
 - Compeer Financial — Data Analytics Intern
 - Copart — Data Engineer Intern
 - Cox — Software Engineer Intern - Summer 2027
@@ -182,6 +186,7 @@ _Generated 2026-09-21_
 - Genentech — Machine Learning Intern - OpRegen Machine Learning
 - Genworth Financial — Commercial Analytics and Optimization Team Intern
 - Genworth Financial — Data Science Intern
+- Genworth Financial — Process Improvement Analyst Intern
 - Genworth Financial — Software Engineer Intern
 - Geotab — Data Analyst Intern
 - Geotab — Data Scientist Intern
@@ -255,6 +260,7 @@ _Generated 2026-09-21_
 - Meta — Research Scientist Intern - Multiple Teams
 - Meta — Research Scientist Intern - Photorealistic Telepresence
 - Meta — Research Scientist Intern - State Estimation for Dexterous Manipulation
+- MetOx International — Data Science Intern - Spring 2027
 - Microchip Technology — Engineering Intern - Software Development
 - Microchip Technology — Intern – Engineering - Device Software and Test
 - Micron Technology — Design Architecture Intern - HBM
@@ -273,6 +279,7 @@ _Generated 2026-09-21_
 - National Information Solutions Cooperative — Data Engineer Intern
 - NationGraph — Software Engineer Intern
 - Navy Federal — Credit Risk Analyst Intern
+- NBT Bank — Data Warehouse & Analytics Intern
 - Neuralink — Biomedical Engineer Intern
 - Neuralink — R&D Materials Engineer Intern
 - Niantic Spatial — Robotics Engineering Intern
@@ -319,6 +326,7 @@ _Generated 2026-09-21_
 - Red Bull — Academy Scouting Intern - Academy Scout
 - Reyes Beverage Group — Commercial Analytics Intern - Beverage Alliance Support
 - Ridgeline — Software Engineer Intern
+- Robert Bosch Venture Capital — AI Engineering Intern
 - ROCKWOOL Group — Product Management Intern
 - Royal Bank of Canada — AI and Stress Testing Analytics Intern - Group Risk Management
 - Royal Bank of Canada — AI Applications Intern
@@ -380,6 +388,7 @@ _Generated 2026-09-21_
 - RTX — Systems Engineer 1 Intern - Intern Conversion
 - RTX — Technical Publications Technical Developer Intern - Artificial Intelligence/Machine Learning
 - RTX — Work Transfer Analyst Intern - Global Work Transfer Analyst
+- Rystad Energy — Analyst Intern - Summer 2027
 - Sabre Systems — AI Intern
 - Schroders — Product Intern
 - Schroders — Product Strategy Intern
@@ -402,6 +411,7 @@ _Generated 2026-09-21_
 - Super — Software Engineer Intern - Platform
 - Susquehanna International Group (SIG) — Quantitative Trader Intern
 - Susquehanna International Group (SIG) — Quantitative Trader Intern
+- Swift — Standards Strategy & Product Management Intern
 - Syngenta Group — Data Entry Intern - Product Safety
 - Syska Hennessy Group — Innovations Intern - Full Stack/Front End Engineering
 - Systems Planning and Analysis (SPA) — Science & Technology Intern
@@ -480,6 +490,7 @@ _Generated 2026-09-21_
 - Wells Fargo — Quantitative Analytics Intern - Applied Computational Intelligence
 - Wells Fargo — Quantitative Analytics Intern - Applied Computational Intelligence
 - Wells Fargo — Quantitative Analytics Intern - Capital Markets - Masters
+- Wells Fargo — Quantitative Analytics Intern - Multiple Teams
 - Wells Fargo — Quantitative Analytics Intern - Multiple Teams
 - Wells Fargo — Quantitative Analytics Intern - Risk Analytics and Decision Sciences
 - Wells Fargo — Software Engineering Intern - Early Careers - Software Engineering

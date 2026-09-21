@@ -1,6 +1,6 @@
 # 📬 InternAtlas Weekly Digest — 2026-09-21
 
-## 🆕 New this week (605)
+## 🆕 New this week (607)
 
 - **3M** — [Business Analyst Intern - Consumer Business Group](https://3m.wd1.myworkdayjobs.com/en-US/Search/job/US-Minnesota-Maplewood/Internship---2027-Undergraduate-Business-Analytics-Intern---Consumer-Business-Group--CBG-_R01171049) · software-engineering · —
 - **AEG** — [Global Partnerships Intern - Data & Research](https://job-boards.greenhouse.io/aegworldwide/jobs/8811721002) · research · —
@@ -182,6 +182,7 @@
 - **Fidelity National Information Services** — [Software Engineer Intern - FIS University Program](https://fis.wd5.myworkdayjobs.com/searchjobs/job/US-FL-JAX-347/Intern--Software-Engineer--FIS-University-Program_JR0309512) · software-engineering · —
 - **Figma** — [Brand Design Intern (Summer 2027)](https://boards.greenhouse.io/figma/jobs/6144755004?gh_jid=6144755004) · design · —
 - **Figma** — [Data Science Intern (2027)](https://boards.greenhouse.io/figma/jobs/6178857004?gh_jid=6178857004) · data-science · —
+- **Figma** — [PhD Intern, Data Science (2027)](https://boards.greenhouse.io/figma/jobs/6200626004?gh_jid=6200626004) · data-science · —
 - **Figma** — [Product Design Intern (2027)](https://boards.greenhouse.io/figma/jobs/6180005004?gh_jid=6180005004) · design · —
 - **Figma** — [Software Engineer Intern](https://boards.greenhouse.io/figma/jobs/6143238004) · software-engineering · —
 - **Figma** — [Software Engineer Intern (London, United Kingdom) (Summer 2027)](https://boards.greenhouse.io/figma/jobs/6152695004?gh_jid=6152695004) · design · —
@@ -570,6 +571,7 @@
 - **Watts Water** — [Product Marketing Data Analyst Intern](https://wattswater.wd5.myworkdayjobs.com/Intern-External/job/North-Andover-MA/Product-Data-Analyst--Marketing-Intern_10017538) · software-engineering · —
 - **Watts Water** — [Product Specialist Intern](https://wattswater.wd5.myworkdayjobs.com/Intern-External/job/Fort-Worth-TX/Product-Specialist-Intern-2027_10017586) · software-engineering · —
 - **Watts Water** — [Product Specialist Intern - Summer 2027](https://wattswater.wd5.myworkdayjobs.com/Intern-External/job/Fort-Worth-TX/Product-Specialist-Intern--Summer-2027_10017585) · software-engineering · —
+- **Waymo** — [2027 Summer Intern, BS/MS, Global Supply Management (GSM)](https://careers.withwaymo.com/jobs?gh_jid=8201252) · software-engineering · —
 - **Waymo** — [2027 Summer Intern, BS/MS, Scenes](https://careers.withwaymo.com/jobs?gh_jid=8210170) · software-engineering · —
 - **Waymo** — [2027 Summer Intern, BS/MS, Software Engineer](https://careers.withwaymo.com/jobs?gh_jid=8193731) · software-engineering · —
 - **Waymo** — [2027 Summer Intern, BS/MS, Software Engineering, Commercialization](https://careers.withwaymo.com/jobs?gh_jid=8198218) · software-engineering · —

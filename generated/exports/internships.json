@@ -1,6 +1,6 @@
 {
   "generated": "2026-09-21",
-  "count": 4931,
+  "count": 4932,
   "internships": [
     {
       "schema_version": "1.0",
@@ -25649,7 +25649,7 @@
         "discovered": "2026-09-15",
         "last_verified": "2026-09-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -43968,7 +43968,7 @@
         "discovered": "2026-09-09",
         "last_verified": "2026-09-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -44019,7 +44019,7 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-09-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -57971,7 +57971,7 @@
         "discovered": "2026-09-12",
         "last_verified": "2026-09-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -80261,6 +80261,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "figma-phd-intern-data-science-2027-2027",
+      "company": {
+        "name": "Figma",
+        "slug": "figma",
+        "career_page": "https://www.figma.com/careers"
+      },
+      "role": "PhD Intern, Data Science (2027)",
+      "category": "data-science",
+      "apply_url": "https://boards.greenhouse.io/figma/jobs/6200626004?gh_jid=6200626004",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Francisco",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-21",
+        "discovered": "2026-09-21",
+        "last_verified": "2026-09-21"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "figma-product-design-intern-2027-2027",
       "company": {
         "name": "Figma",
@@ -90925,7 +90977,7 @@
         "discovered": "2026-09-14",
         "last_verified": "2026-09-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -124272,61 +124324,6 @@
     },
     {
       "schema_version": "1.0",
-      "id": "l3harris-technologies-software-engineer-intern-2026-2bb1e2",
-      "company": {
-        "name": "L3Harris Technologies",
-        "slug": "l3harris-technologies"
-      },
-      "role": "Software Engineer Intern",
-      "category": "software-engineering",
-      "apply_url": "https://jobs.l3harris.com/job/Northampton-Intern,-Software-Engineer-MA-01060/1423745000/?ats=successfactors",
-      "season": "fall",
-      "year": 2026,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Northampton",
-          "state": "MA",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [
-          "masters",
-          "phd"
-        ],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-08-26",
-        "discovered": "2026-08-26",
-        "last_verified": "2026-09-21"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
       "id": "l3harris-technologies-software-engineer-intern-2026-2c8bca",
       "company": {
         "name": "L3Harris Technologies",
@@ -125489,14 +125486,14 @@
       },
       "role": "Software Engineer Intern",
       "category": "software-engineering",
-      "apply_url": "https://jobs.l3harris.com/job/Colorado-Springs-Intern-C,-Software-Engineer-CO-80916/1423742600/?ats=successfactors",
+      "apply_url": "https://jobs.l3harris.com/job/Northampton-Intern,-Software-Engineer-MA-01060/1423745000/?ats=successfactors",
       "season": "fall",
       "year": 2026,
       "work_mode": "onsite",
       "locations": [
         {
-          "city": "Colorado Springs",
-          "state": "CO",
+          "city": "Northampton",
+          "state": "MA",
           "country": "USA"
         }
       ],
@@ -139507,7 +139504,7 @@
         "discovered": "2026-09-19",
         "last_verified": "2026-09-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -150406,7 +150403,7 @@
         "discovered": "2026-08-04",
         "last_verified": "2026-09-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -184891,7 +184888,7 @@
         "discovered": "2026-09-17",
         "last_verified": "2026-09-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -197436,7 +197433,7 @@
         "discovered": "2026-08-25",
         "last_verified": "2026-09-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -213242,7 +213239,7 @@
         "discovered": "2026-08-19",
         "last_verified": "2026-09-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -259664,6 +259661,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "waymo-2027-summer-intern-bs-ms-global-supply-management-gsm-2027",
+      "company": {
+        "name": "Waymo",
+        "slug": "waymo",
+        "career_page": "https://waymo.com/careers"
+      },
+      "role": "2027 Summer Intern, BS/MS, Global Supply Management (GSM)",
+      "category": "software-engineering",
+      "apply_url": "https://careers.withwaymo.com/jobs?gh_jid=8201252",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Mountain View",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-21",
+        "discovered": "2026-09-21",
+        "last_verified": "2026-09-21"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "waymo-2027-summer-intern-bs-ms-pipeline-and-test-health-engineer-2027",
       "company": {
         "name": "Waymo",
@@ -261991,7 +262040,7 @@
         "discovered": "2026-08-13",
         "last_verified": "2026-09-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"

@@ -9,6 +9,7 @@
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
 | Waymo | [2027 Summer Intern, BS, SysEng Software Engineer](https://careers.withwaymo.com/jobs?gh_jid=8174099) | Mountain View +1 | Onsite | 2026-09-03 | Rolling | 🟢 Open | ❔ |
+| Waymo | [2027 Summer Intern, BS/MS, Global Supply Management (GSM)](https://careers.withwaymo.com/jobs?gh_jid=8201252) | Mountain View | Onsite | 2026-09-21 | Rolling | 🟢 Open | ❔ |
 | Waymo | [2027 Summer Intern, BS/MS, Pipeline and Test Health Engineer](https://careers.withwaymo.com/jobs?gh_jid=8177651) | San Francisco | Onsite | 2026-09-03 | Rolling | 🟢 Open | ❔ |
 | Waymo | [2027 Summer Intern, BS/MS, Scenes](https://careers.withwaymo.com/jobs?gh_jid=8210170) | Mountain View +1 | Onsite | 2026-09-17 | Rolling | 🟢 Open | ❔ |
 | Waymo | [2027 Summer Intern, BS/MS, Software Engineer](https://careers.withwaymo.com/jobs?gh_jid=8193731) | San Francisco +1 | Onsite | 2026-09-14 | Rolling | 🟢 Open | ❔ |

@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "metox-international-data-science-intern-spring-2027-2027",
+  "id": "figma-phd-intern-data-science-2027-2027",
   "company": {
-    "name": "MetOx International",
-    "slug": "metox-international"
+    "name": "Figma",
+    "slug": "figma",
+    "career_page": "https://www.figma.com/careers"
   },
-  "role": "Data Science Intern - Spring 2027",
+  "role": "PhD Intern, Data Science (2027)",
   "category": "data-science",
-  "apply_url": "https://job-boards.greenhouse.io/metoxinternationalinc/jobs/5427064008",
+  "apply_url": "https://boards.greenhouse.io/figma/jobs/6200626004?gh_jid=6200626004",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Houston",
-      "state": "TX",
+      "city": "San Francisco",
       "country": "USA"
     }
   ],
@@ -25,9 +25,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -42,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-18",
-    "discovered": "2026-09-19",
+    "posted": "2026-09-21",
+    "discovered": "2026-09-21",
     "last_verified": "2026-09-21"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:ats"
   ]
 }

@@ -6,7 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
-| Commure | [Software Engineer Intern - Summer 2027](https://jobs.ashbyhq.com/Commure/62841aa1-3ee5-4547-8380-637b737b2cb3/application?embed=true) | Mountain View, CA | Onsite | 2026-09-11 | Rolling | 🟢 Open | ❔ |
+| Commure | [Software Engineer Intern - Summer 2027](https://jobs.ashbyhq.com/Commure/62841aa1-3ee5-4547-8380-637b737b2cb3/application?embed=true) | Mountain View, CA | Onsite | 2026-09-11 | Rolling | 🔴 Closed | ❔ |
 
 ## Related
 
