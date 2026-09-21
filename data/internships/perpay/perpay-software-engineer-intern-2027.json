@@ -1,15 +1,15 @@
 {
   "schema_version": "1.0",
-  "id": "perpay-software-engineering-intern-2026",
+  "id": "perpay-software-engineer-intern-2027",
   "company": {
     "name": "Perpay",
     "slug": "perpay"
   },
-  "role": "Software Engineering Intern",
+  "role": "Software Engineer Intern",
   "category": "software-engineering",
   "apply_url": "https://job-boards.greenhouse.io/perpay/jobs/4076988007",
-  "season": "fall",
-  "year": 2026,
+  "season": "summer",
+  "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
@@ -26,8 +26,7 @@
   "eligibility": {
     "graduation_years": [],
     "degree_levels": [
-      "masters",
-      "phd"
+      "masters"
     ],
     "citizenship_required": false,
     "security_clearance_required": false,
@@ -43,9 +42,9 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-01-23",
-    "discovered": "2026-09-10",
-    "last_verified": "2026-09-20"
+    "posted": "2026-09-10",
+    "discovered": "2026-09-21",
+    "last_verified": "2026-09-21"
   },
   "status": "open",
   "tags": [
