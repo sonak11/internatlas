@@ -8,7 +8,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
-| Twilio | [Software Engineer Intern (January 12th start, 23 weeks)](https://job-boards.greenhouse.io/twilio/jobs/8190889) | Remote | Remote | 2026-09-16 | Rolling | 🔴 Closed | ❔ |
+| Twilio | [Software Engineer Intern (January 12th start, 23 weeks)](https://job-boards.greenhouse.io/twilio/jobs/8190887) | Remote | Remote | 2026-09-16 | Rolling | 🟢 Open | ❔ |
 
 ## Related
 

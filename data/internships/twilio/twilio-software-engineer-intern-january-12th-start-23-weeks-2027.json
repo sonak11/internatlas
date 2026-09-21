@@ -8,7 +8,7 @@
   },
   "role": "Software Engineer Intern (January 12th start, 23 weeks)",
   "category": "software-engineering",
-  "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8190889",
+  "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8190887",
   "season": "summer",
   "year": 2027,
   "work_mode": "remote",
@@ -37,9 +37,9 @@
   "dates": {
     "posted": "2026-09-16",
     "discovered": "2026-09-16",
-    "last_verified": "2026-09-20"
+    "last_verified": "2026-09-21"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:ats"
