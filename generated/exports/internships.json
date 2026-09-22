@@ -1,6 +1,6 @@
 {
   "generated": "2026-09-22",
-  "count": 5065,
+  "count": 5067,
   "internships": [
     {
       "schema_version": "1.0",
@@ -36020,7 +36020,7 @@
         "discovered": "2026-09-21",
         "last_verified": "2026-09-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -110055,7 +110055,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-09-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -136442,7 +136442,7 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-09-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -136497,7 +136497,7 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-09-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -138994,7 +138994,7 @@
         "discovered": "2026-09-17",
         "last_verified": "2026-09-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -144457,7 +144457,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -182302,7 +182302,7 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-09-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -187424,7 +187424,7 @@
         "discovered": "2026-09-21",
         "last_verified": "2026-09-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -216038,6 +216038,58 @@
       "tags": [
         "auto-ingested",
         "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "stripe-integration-reliability-engineer-intern-technical-operations-2027",
+      "company": {
+        "name": "Stripe",
+        "slug": "stripe",
+        "career_page": "https://stripe.com/jobs/university"
+      },
+      "role": "Integration Reliability Engineer Intern, Technical Operations",
+      "category": "software-engineering",
+      "apply_url": "https://stripe.com/jobs/search?gh_jid=8186367",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Singapore",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-22",
+        "discovered": "2026-09-22",
+        "last_verified": "2026-09-22"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
       ]
     },
     {
@@ -267165,6 +267217,59 @@
       "dates": {
         "posted": "2026-08-31",
         "discovered": "2026-08-31",
+        "last_verified": "2026-09-22"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "waymo-2027-summer-intern-ms-phd-machine-learning-engineer-2027",
+      "company": {
+        "name": "Waymo",
+        "slug": "waymo",
+        "career_page": "https://waymo.com/careers"
+      },
+      "role": "2027 Summer Intern, MS/PhD, Machine Learning Engineer",
+      "category": "machine-learning",
+      "apply_url": "https://careers.withwaymo.com/jobs?gh_jid=8223735",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Francisco",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-22",
+        "discovered": "2026-09-22",
         "last_verified": "2026-09-22"
       },
       "status": "open",

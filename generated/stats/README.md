@@ -33,10 +33,10 @@ _Generated 2026-09-22_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 3002 | `███████████████` |
+| software-engineering | 3003 | `███████████████` |
 | ai | 401 | `██` |
 | quant | 309 | `██` |
-| machine-learning | 215 | `█` |
+| machine-learning | 216 | `█` |
 | data-science | 194 | `█` |
 | hardware | 193 | `█` |
 | product | 166 | `█` |
@@ -68,7 +68,7 @@ _Generated 2026-09-22_
 - 2026-09-22 — **Rivian**: [Software Engineer Intern Co-op - Design Automation](https://careers.rivian.com/jobs/33748?icims=1)
 - 2026-09-22 — **Rivian**: [Software Engineer Intern Co-op - Product Lifecycle Management](https://careers.rivian.com/jobs/33746?icims=1)
 - 2026-09-22 — **RTX**: [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-RI-PORTSMOUTH-PS1--1847-W-Main-Rd--NIMITZ-BLDG/Software-Engineering-Intern--Summer-2027-_01876065)
-- 2026-09-22 — **Tesla**: [Firmware Integration Engineer Intern - Factory Firmware](https://www.tesla.com/careers/search/job/284156)
+- 2026-09-22 — **Stripe**: [Integration Reliability Engineer Intern, Technical Operations](https://stripe.com/jobs/search?gh_jid=8186367)
 
 ## Recently closed
 
@@ -124,6 +124,7 @@ _Generated 2026-09-22_
 - Bank of Montreal — Workforce Analyst Intern/Co-op
 - Barr — Data Science Intern
 - Booz Allen — Applied AI Intern - University
+- Booz Allen — Software Developer Intern - University
 - Boston Scientific — Software Engineer Intern - Interns/Graduates
 - Brunswick — Computer Graphics Engineer Intern
 - Brunswick — Reinforcement Learning Intern - Boating Intelligence Design Lab
@@ -232,6 +233,7 @@ _Generated 2026-09-22_
 - Hitachi — Software Analyst Intern
 - Howmet Aerospace — Artificial Intelligence Intern - AI
 - Humanscale — Electrical Design Engineer Intern
+- Ignite Digital Services — Engineer/Scientist Intern
 - InfiniteQuant — Quantitative Developer Intern
 - InfiniteQuant — Quantitative Developer Intern - Summer 2027
 - Intel — Compiler Engineer Intern - SYCL Runtime
@@ -258,10 +260,13 @@ _Generated 2026-09-22_
 - Marquee Brands — Consumer Insights Intern
 - Marsh — Summer Analyst Intern - Data and Analytics
 - Marsh & McLennan — Data & Analytics Intern - Data & Analytics
+- Marvell — Analog Design Intern
+- Marvell — Analog Design Intern
 - Marvell — Applied Machine Learning Scientist Intern
 - Marvell — Design/DSP/Verification Intern
 - Marvell — Reliability Intern
 - Marvell — Reliability Intern
+- Marvell — SRAM Circuit Design Intern - MS
 - Marvell — Test Solutions Engineering Intern - BS - Post-Silicon Hardware Validation
 - Marvell — Test Solutions Engineering Intern - BS - Post-Silicon Hardware Validation
 - Mary Free Bed Rehabilitation Hospital — IT Intern - Project Management
@@ -274,6 +279,7 @@ _Generated 2026-09-22_
 - Meta — Research Scientist Intern - Photorealistic Telepresence
 - Meta — Research Scientist Intern - State Estimation for Dexterous Manipulation
 - MetOx International — Data Science Intern - Spring 2027
+- Metropolitan Transportation Authority — Technology Support Intern - Emerging Talent
 - Microchip Technology — Engineering Intern - Software Development
 - Microchip Technology — Intern – Engineering - Device Software and Test
 - Micron Technology — Design Architecture Intern - HBM
@@ -342,8 +348,10 @@ _Generated 2026-09-22_
 - PricewaterhouseCoopers (PwC) — Tax Innovation Delivery Experience Intern - Product Management
 - PSECU — Data Analyst Intern
 - Qorvo — RFIC Design Engineer Intern
+- Qorvo — RFIC Design Intern
 - RapDev — ServiceNow Engineer Intern
 - Red Bull — Academy Scouting Intern - Academy Scout
+- Resultant — Data & Analytics Consultant Intern - Summer 2027
 - Ridgeline — Software Engineer Intern
 - Robert Bosch Venture Capital — AI Engineering Intern
 - ROCKWOOL Group — Product Management Intern

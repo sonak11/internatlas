@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "marvell-analog-design-intern-2026",
+  "id": "stripe-integration-reliability-engineer-intern-technical-operations-2027",
   "company": {
-    "name": "Marvell",
-    "slug": "marvell"
+    "name": "Stripe",
+    "slug": "stripe",
+    "career_page": "https://stripe.com/jobs/university"
   },
-  "role": "Analog Design Intern",
-  "category": "design",
-  "apply_url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Westlake-Village-CA/Analog-Design-Intern---Master-s-Degree--Quarter-Schools---Fall-2026-Start-Dates-_2502475-1",
-  "season": "fall",
-  "year": 2026,
+  "role": "Integration Reliability Engineer Intern, Technical Operations",
+  "category": "software-engineering",
+  "apply_url": "https://stripe.com/jobs/search?gh_jid=8186367",
+  "season": "summer",
+  "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Westlake Village",
-      "state": "CA",
+      "city": "Singapore",
       "country": "USA"
     }
   ],
@@ -25,10 +25,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters",
-      "phd"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -43,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-06-13",
-    "discovered": "2026-09-03",
+    "posted": "2026-09-22",
+    "discovered": "2026-09-22",
     "last_verified": "2026-09-22"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:ats"
   ]
 }
