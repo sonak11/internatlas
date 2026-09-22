@@ -1,6 +1,6 @@
 {
   "generated": "2026-09-22",
-  "count": 5054,
+  "count": 5052,
   "internships": [
     {
       "schema_version": "1.0",
@@ -259,7 +259,7 @@
         "discovered": "2026-09-08",
         "last_verified": "2026-09-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -19110,7 +19110,7 @@
         "discovered": "2026-09-16",
         "last_verified": "2026-09-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -28573,7 +28573,7 @@
         "discovered": "2026-09-14",
         "last_verified": "2026-09-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -60813,7 +60813,7 @@
         "discovered": "2026-08-14",
         "last_verified": "2026-09-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -76644,7 +76644,7 @@
         "discovered": "2026-09-16",
         "last_verified": "2026-09-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -96164,7 +96164,7 @@
         "discovered": "2026-08-27",
         "last_verified": "2026-09-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -96277,7 +96277,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "goldman-sachs-quantitative-strategist-associate-intern-the-core-quantitati-2027-14d0f0",
+      "id": "goldman-sachs-quantitative-strategist-associate-intern-the-core-quantitati-2027",
       "company": {
         "name": "Goldman Sachs",
         "slug": "goldman-sachs"
@@ -96292,59 +96292,6 @@
         {
           "city": "London",
           "country": "UK"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [
-          "phd"
-        ],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-08-15",
-        "discovered": "2026-09-22",
-        "last_verified": "2026-09-22"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "goldman-sachs-quantitative-strategist-associate-intern-the-core-quantitati-2027",
-      "company": {
-        "name": "Goldman Sachs",
-        "slug": "goldman-sachs"
-      },
-      "role": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
-      "category": "quant",
-      "apply_url": "https://higher.gs.com/roles/171535?type=students",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "NYC",
-          "country": "USA"
         }
       ],
       "compensation": {
@@ -96533,7 +96480,7 @@
         "discovered": "2026-09-16",
         "last_verified": "2026-09-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -96594,7 +96541,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "goldman-sachs-quantitative-strategist-intern-asset-and-wealth-management-q-2027-0ac951",
+      "id": "goldman-sachs-quantitative-strategist-intern-asset-and-wealth-management-q-2027",
       "company": {
         "name": "Goldman Sachs",
         "slug": "goldman-sachs"
@@ -96609,58 +96556,6 @@
         {
           "city": "London",
           "country": "UK"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-08-15",
-        "discovered": "2026-09-22",
-        "last_verified": "2026-09-22"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "goldman-sachs-quantitative-strategist-intern-asset-and-wealth-management-q-2027",
-      "company": {
-        "name": "Goldman Sachs",
-        "slug": "goldman-sachs"
-      },
-      "role": "Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats",
-      "category": "quant",
-      "apply_url": "https://higher.gs.com/roles/171549?type=students",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Salt Lake City",
-          "state": "UT",
-          "country": "USA"
         }
       ],
       "compensation": {
@@ -96750,7 +96645,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "goldman-sachs-quantitative-strategist-intern-multiple-teams-2027-323368",
+      "id": "goldman-sachs-quantitative-strategist-intern-multiple-teams-2027",
       "company": {
         "name": "Goldman Sachs",
         "slug": "goldman-sachs"
@@ -96765,57 +96660,6 @@
         {
           "city": "London",
           "country": "UK"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-08-15",
-        "discovered": "2026-09-22",
-        "last_verified": "2026-09-22"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "goldman-sachs-quantitative-strategist-intern-multiple-teams-2027",
-      "company": {
-        "name": "Goldman Sachs",
-        "slug": "goldman-sachs"
-      },
-      "role": "Quantitative Strategist Intern - Multiple Teams",
-      "category": "quant",
-      "apply_url": "https://higher.gs.com/roles/171563?type=students",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "NYC",
-          "country": "USA"
         }
       ],
       "compensation": {
@@ -97103,7 +96947,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -97154,7 +96998,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -97312,7 +97156,7 @@
         "discovered": "2026-09-06",
         "last_verified": "2026-09-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -97473,7 +97317,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-09-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -97575,7 +97419,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -97783,7 +97627,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-09-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -102483,7 +102327,7 @@
         "discovered": "2026-09-15",
         "last_verified": "2026-09-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -107049,7 +106893,7 @@
         "discovered": "2026-09-15",
         "last_verified": "2026-09-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -112304,7 +112148,7 @@
         "discovered": "2026-09-09",
         "last_verified": "2026-09-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -125259,7 +125103,7 @@
         "discovered": "2026-09-17",
         "last_verified": "2026-09-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -148636,7 +148480,7 @@
         "discovered": "2026-09-11",
         "last_verified": "2026-09-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -157234,7 +157078,7 @@
         "discovered": "2026-09-01",
         "last_verified": "2026-09-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -166735,7 +166579,7 @@
         "discovered": "2026-08-21",
         "last_verified": "2026-09-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -166786,7 +166630,7 @@
         "discovered": "2026-08-21",
         "last_verified": "2026-09-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -166939,7 +166783,7 @@
         "discovered": "2026-08-21",
         "last_verified": "2026-09-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -166992,7 +166836,7 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-09-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -167098,7 +166942,7 @@
         "discovered": "2026-08-24",
         "last_verified": "2026-09-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -198068,7 +197912,7 @@
         "discovered": "2026-09-18",
         "last_verified": "2026-09-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -199111,7 +198955,7 @@
         "discovered": "2026-09-18",
         "last_verified": "2026-09-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -200452,7 +200296,7 @@
         "discovered": "2026-09-16",
         "last_verified": "2026-09-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -203756,7 +203600,7 @@
         "discovered": "2026-08-04",
         "last_verified": "2026-09-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:ats"
@@ -237518,7 +237362,7 @@
         "discovered": "2026-09-16",
         "last_verified": "2026-09-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -240536,64 +240380,6 @@
         {
           "city": "San Jose",
           "state": "CA",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [
-          "masters"
-        ],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-08-03",
-        "discovered": "2026-08-03",
-        "last_verified": "2026-09-22"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "tiktok-backend-software-engineer-intern-2027-c1f3e2",
-      "company": {
-        "name": "TikTok",
-        "slug": "tiktok"
-      },
-      "role": "Backend Software Engineer Intern",
-      "category": "software-engineering",
-      "apply_url": "https://lifeattiktok.com/search/7667933770819897605",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "San Jose",
-          "state": "CA",
-          "country": "USA"
-        },
-        {
-          "city": "San Jose",
           "country": "USA"
         }
       ],
@@ -248023,6 +247809,57 @@
     },
     {
       "schema_version": "1.0",
+      "id": "tiktok-software-engineer-intern-pgc-creator-strategy-2027",
+      "company": {
+        "name": "TikTok",
+        "slug": "tiktok"
+      },
+      "role": "Software Engineer Intern, PGC Creator Strategy",
+      "category": "software-engineering",
+      "apply_url": "https://lifeattiktok.com/search/7667933770819897605",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "no"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-04",
+        "discovered": "2026-09-22",
+        "last_verified": "2026-09-22"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "tiktok-software-engineer-intern-recommendation-architecture-feeds-i-2027-2d6a32",
       "company": {
         "name": "TikTok",
@@ -254259,7 +254096,7 @@
         "discovered": "2026-09-22",
         "last_verified": "2026-09-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -262444,6 +262281,62 @@
       "dates": {
         "posted": "2026-06-24",
         "discovered": "2026-07-17",
+        "last_verified": "2026-09-22"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "vialto-partners-client-technology-intern-2027",
+      "company": {
+        "name": "Vialto Partners",
+        "slug": "vialto-partners"
+      },
+      "role": "Client Technology Intern",
+      "category": "software-engineering",
+      "apply_url": "https://vialto.wd107.myworkdayjobs.com/vialtoexternalcareers/job/Manhattan/Client-Technology-Services---Intern_REQ908939",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Campbell",
+          "state": "CA",
+          "country": "USA"
+        },
+        {
+          "city": "NYC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-21",
+        "discovered": "2026-09-22",
         "last_verified": "2026-09-22"
       },
       "status": "open",

@@ -1,20 +1,25 @@
 {
   "schema_version": "1.0",
-  "id": "goldman-sachs-quantitative-strategist-intern-asset-and-wealth-management-q-2027-0ac951",
+  "id": "vialto-partners-client-technology-intern-2027",
   "company": {
-    "name": "Goldman Sachs",
-    "slug": "goldman-sachs"
+    "name": "Vialto Partners",
+    "slug": "vialto-partners"
   },
-  "role": "Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats",
-  "category": "quant",
-  "apply_url": "https://higher.gs.com/roles/175421?type=students",
-  "season": "summer",
+  "role": "Client Technology Intern",
+  "category": "software-engineering",
+  "apply_url": "https://vialto.wd107.myworkdayjobs.com/vialtoexternalcareers/job/Manhattan/Client-Technology-Services---Intern_REQ908939",
+  "season": "winter",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "London",
-      "country": "UK"
+      "city": "Campbell",
+      "state": "CA",
+      "country": "USA"
+    },
+    {
+      "city": "NYC",
+      "country": "USA"
     }
   ],
   "compensation": {
@@ -39,7 +44,7 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-15",
+    "posted": "2026-09-21",
     "discovered": "2026-09-22",
     "last_verified": "2026-09-22"
   },

@@ -23,7 +23,6 @@
 | TikTok | [Backend Software Engineer Intern](https://lifeattiktok.com/search/7667935739300317493) | San Jose, CA | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
 | TikTok | [Backend Software Engineer Intern](https://lifeattiktok.com/search/7667934635573692725) | San Jose, CA | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
 | TikTok | [Backend Software Engineer Intern](https://lifeattiktok.com/search/7667935565120112949) | San Jose, CA | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
-| TikTok | [Backend Software Engineer Intern](https://lifeattiktok.com/search/7667933770819897605) | San Jose, CA +1 | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
 | TikTok | [Backend Software Engineer Intern](https://lifeattiktok.com/search/7667933335084124469) | San Jose, CA | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
 | TikTok | [Backend Software Engineer Intern - Creation Platform](https://lifeattiktok.com/search/7670289874020993285) | San Jose, CA | Onsite | 2026-08-05 | Rolling | 🟢 Open | ❔ |
 | TikTok | [Backend Software Engineer Intern - Digital Content Center](https://lifeattiktok.com/search/7667934302872537397) | San Jose, CA | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
@@ -157,6 +156,7 @@
 | TikTok | [Software Engineer Intern - Transaction Platform](https://lifeattiktok.com/search/7669943120351906053) | San Jose, CA | Onsite | 2026-08-04 | Rolling | 🟢 Open | ❔ |
 | TikTok | [Software Engineer Intern - Trust and Safety Engineering](https://lifeattiktok.com/search/7662684280234232117) | Seattle, WA | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
 | TikTok | [Software Engineer Intern, Data Arch - E-commerce](https://lifeattiktok.com/search/7668582146236631349) | Seattle, WA | Onsite | 2026-08-03 | Rolling | 🟢 Open | ✅ |
+| TikTok | [Software Engineer Intern, PGC Creator Strategy](https://lifeattiktok.com/search/7667933770819897605) | San Jose | Onsite | 2026-08-04 | Rolling | 🟢 Open | ❌ |
 | TikTok | [Software Engineer Intern, Recommendation Infrastructure](https://lifeattiktok.com/referral/tiktok/campus/position/7537493362585979154/detail?token=MzsxNzU3OTM3MTgyMDE1OzczNzM0OTcwMTcxNzQxMzIyNDA7MDsy) | Seattle, WA | Onsite | 2026-04-20 | Rolling | 🟢 Open | ❔ |
 | TikTok | [Strategy Product Manager Intern - Platform Responsibility](https://lifeattiktok.com/search/7670420287191517493) | San Jose, CA | Onsite | 2026-08-06 | Rolling | 🟢 Open | ❔ |
 | TikTok | [AI Product Manager Intern - Content Ecosystem](https://lifeattiktok.com/search/7667578131150506293) | San Jose, CA | Onsite | 2026-08-04 | Rolling | 🔴 Closed | ❔ |

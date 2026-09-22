@@ -1,6 +1,6 @@
 # 📬 InternAtlas Weekly Digest — 2026-09-22
 
-## 🆕 New this week (537)
+## 🆕 New this week (538)
 
 - **AEG** — [Global Partnerships Intern - Data & Research](https://job-boards.greenhouse.io/aegworldwide/jobs/8811721002) · research · —
 - **AMD** — [AI Model Optimization & Software Engineer Intern/Co-op](https://careers.amd.com/jobs/92526?icims=1) · ai · —
@@ -496,6 +496,7 @@
 - **Upbound Group** — [Software Engineer Intern](https://upbound.wd501.myworkdayjobs.com/Upbound/job/Draper-UT/Software-Engineer-Intern_R-100759) · software-engineering · —
 - **V2X** — [Artificial Intelligence Intern](https://careers.gov2x.com/jobs/62843?icims=1) · ai · —
 - **Verizon Communications** — [Marketing Technology Intern - Consumer Group](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Basking-Ridge-New-Jersey/Verizon-Consumer-Group--Marketing-Technology-Summer-2027-Internship_R-1100887) · software-engineering · —
+- **Vialto Partners** — [Client Technology Intern](https://vialto.wd107.myworkdayjobs.com/vialtoexternalcareers/job/Manhattan/Client-Technology-Services---Intern_REQ908939) · software-engineering · —
 - **Viking Global** — [Data Science Intern](https://job-boards.greenhouse.io/vikingglobalinvestors/jobs/6202755004) · data-science · —
 - **Visa** — [Associate Product Manager Intern - APM](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Associate-Product-Manager--APM--Intern---Summer-2027_REF088603W-1) · product · —
 - **Visa** — [Associate Product Manager Intern - APM](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Job-Posting-Title-Associate-Product-Manager--APM--Intern---Summer-2027_REF088604W) · product · —

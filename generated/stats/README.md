@@ -33,9 +33,9 @@ _Generated 2026-09-22_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 2995 | `███████████████` |
+| software-engineering | 2996 | `███████████████` |
 | ai | 399 | `██` |
-| quant | 308 | `██` |
+| quant | 305 | `██` |
 | machine-learning | 215 | `█` |
 | data-science | 194 | `█` |
 | hardware | 193 | `█` |
@@ -73,6 +73,7 @@ _Generated 2026-09-22_
 ## Recently closed
 
 - AArete — Business Analytics Intern - Summer 2027
+- AArete — Data Architecture & Engineering Intern
 - ABB — Physical AI Robotics Simulation Intern
 - Acumatica — AI & Automation Intern - Office of the CFO
 - Acxiom — Data Engineer Intern
@@ -92,6 +93,7 @@ _Generated 2026-09-22_
 - Anduril — 2027 Software Engineer Intern
 - Anduril — 2027 Software Quality Assurance Intern
 - Apex — Ground Software Intern - Spring or Summer 2027
+- APEX Analytix — Data Engineering Intern - Summer 2027
 - AQR Capital Management — Portfolio Solutions Group Summer Analyst Intern - Portfolio Solutions Group
 - AQR Capital Management — Risk Summer Analyst Intern
 - Athene — Software Developer Intern
@@ -117,6 +119,7 @@ _Generated 2026-09-22_
 - Bank of Montreal — Junior Software Developer Co-op Intern - Winter 2027 - 4 months
 - Bank of Montreal — Junior Software Developer Co-op Intern - Winter 2027 - 4 months
 - Bank of Montreal — Junior Software Developer Co-op Intern - Winter 2027 - 4 months
+- Bank of Montreal — Quantitative Developer Co-op Intern - Alpha Research Team - Multiple Teams
 - Bank of Montreal — Quantitative Developer Co-op Intern - Alpha Research Team - Multiple Teams
 - Bank of Montreal — Software Engineer Co-op Intern - Winter 2027
 - Bank of Montreal — Workforce Analyst Co-op Intern
@@ -158,6 +161,7 @@ _Generated 2026-09-22_
 - Cole Engineering Services — AI Intern
 - Commure — Software Engineer Intern - Summer 2027
 - Compeer Financial — Data Analytics Intern
+- Composio — Fullstack Engineer Intern - Product Team
 - Copart — Data Engineer Intern
 - Cox — Software Engineer Intern - Summer 2027
 - DatologyAI — Research Intern
@@ -175,6 +179,7 @@ _Generated 2026-09-22_
 - Enact Mortgage Insurance — Process Improvement Analyst Intern
 - Enact Mortgage Insurance — Software Engineer Intern
 - Engenious Design — Electrical Engineering Intern
+- Entergy — AI Agent Development Intern
 - Entergy — Engineering Intern
 - Epia Neuro — Hardware Engineer Intern
 - EquipmentShare — Electrical Engineering Intern
@@ -201,12 +206,21 @@ _Generated 2026-09-22_
 - GlobalFoundries — RF Technology Development Automation Engineer Intern - Summer 2027
 - GlobalFoundries — Silicon Photonics Advanced Packaging Intern
 - GlobalFoundries — Systems Engineer Intern
+- Goldman Sachs — Associate Intern - The Core Quantitative Strats
 - Goldman Sachs — AWM Product Management Analyst Intern
+- Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
 - Goldman Sachs — Summer Analyst Intern - Americas - AWM Product Management
 - Goldman Sachs — Summer Analyst Intern - Americas - Engineering
+- Goldman Sachs — Summer Analyst Intern - Americas - Engineering
+- Goldman Sachs — Summer Analyst Intern - Americas - Engineering
+- Goldman Sachs — Summer Analyst Intern - Engineering
+- Goldman Sachs — Summer Analyst Intern - FICC and Equities - Sales and Trading
+- Goldman Sachs — Summer Analyst Intern - The Core Quantitative Strats
 - Goldman Sachs — Summer Analyst Intern - Wealth Management - Product Management and Design
 - Goldman Sachs — Summer Analyst Intern - Wealth Management - Quantitative Finance
+- Goldman Sachs — Summer Associate Intern - Multiple Teams
 - Gordon Food Service — Category Technology Intern
+- Guardian Life — Life Product Development Intern
 - Gulfstream — AI Product Collegiate Associate Intern
 - Gulfstream — Azure AI Collegiate Associate Intern
 - Gulfstream — Flight Sciences / Mass Properties College Intern - IEF
@@ -221,8 +235,10 @@ _Generated 2026-09-22_
 - Hilton Worldwide — Corporate Summer Internship - Technology, Software Engineering and Cyber
 - Hitachi — Software Analyst Intern
 - Hitachi — Software Analyst Intern
+- Howden — Analytics Intern
 - Howmet Aerospace — Artificial Intelligence Intern - AI
 - Humanscale — Electrical Design Engineer Intern
+- Immuta — Product Research Intern
 - InfiniteQuant — Quantitative Developer Intern
 - InfiniteQuant — Quantitative Developer Intern - Summer 2027
 - Intel — Compiler Engineer Intern - SYCL Runtime
@@ -231,6 +247,7 @@ _Generated 2026-09-22_
 - Interco — Software Development Intern - React
 - ISN Software — Product Strategy Intern
 - Keysight Technologies — Full Stack Intern
+- Kinaxis — AI Quality Co-op Intern - Evaluation & Security
 - Kirin — Quantitative Research Intern - Prediction Markets
 - KPMG — Product Specialist Intern Co-op - Asset Management Digital Solutions
 - KPMG — Software Developer Intern Co-op - Asset Management Digital Solutions - Software Developer
@@ -276,6 +293,7 @@ _Generated 2026-09-22_
 - Microsoft — Software Engineer Intern - Data Platform & Analytics
 - MKS Instruments — Business Intelligence/Data Analytics Intern
 - Moderna — Applied Technologies Intern
+- Moog — Embedded Design Engineering Intern
 - Motorola — Supply Chain Applied AI Engineering Intern
 - National Information Solutions Cooperative — Data Engineer Intern
 - NationGraph — Software Engineer Intern
@@ -284,6 +302,7 @@ _Generated 2026-09-22_
 - NBT Bank — Data Warehouse & Analytics Intern
 - Neuralink — Biomedical Engineer Intern
 - Neuralink — R&D Materials Engineer Intern
+- Newrez — Software Developer Intern
 - Niantic Spatial — Robotics Engineering Intern
 - Nokia — Optical Test Co-op Intern
 - Nokia — Software Developer Co-op Intern
@@ -310,6 +329,11 @@ _Generated 2026-09-22_
 - NXP Semiconductors — AI/ML ASIC Design and Implementation Automation Intern - Summer 2027
 - NXP Semiconductors — Functional Safety Intern
 - OCC — Software Engineering Intern - UI/UX
+- Ontario Teachers' Pension Plan — Business Insights and Analytics Intern - Member Services
+- Ontario Teachers' Pension Plan — Finance Intern - Risk Analytics
+- Ontario Teachers' Pension Plan — Portfolio Engineer Intern - Capital Markets - CMIA
+- Ontario Teachers' Pension Plan — Risk Intern - Models and Asset Liability
+- Ontario Teachers' Pension Plan — Total Fund Risk Intern - Months
 - Oshkosh — Digital Technology Intern - Application Development
 - Oshkosh — Software Engineer Intern
 - Parsons — Software Developer Intern - Fall 2026/Spring 2027
@@ -367,10 +391,13 @@ _Generated 2026-09-22_
 - RTX — Electrical Engineer Intern - Summer 2027
 - RTX — Electrical Engineer Intern - Summer 2027
 - RTX — Electrical Engineer Intern - Summer 2027
+- RTX — FPGA Design Intern
 - RTX — Manufacturing & Quality Analyst Intern
 - RTX — Proactive Engine Performance Monitoring Intern - Proactive DPHM
 - RTX — Quality Project Management and Data Analysis Tool Development Intern
 - RTX — Software Developer Intern
+- RTX — Software Development Intern - Summer 2027
+- RTX — Software Engineer Intern
 - RTX — Software Engineer Intern
 - RTX — Software Engineer Intern
 - RTX — Software Engineer Intern
@@ -388,6 +415,7 @@ _Generated 2026-09-22_
 - RTX — Work Transfer Analyst Intern - Global Work Transfer Analyst
 - Rystad Energy — Analyst Intern - Summer 2027
 - Sabre Systems — AI Intern
+- Samsara — Software Engineering Internship - London
 - Schroders — Product Intern
 - Schroders — Product Strategy Intern
 - Sensata — Electrical Engineer Intern
@@ -439,6 +467,7 @@ _Generated 2026-09-22_
 - The Nuclear Company — AI/ML Engineer Intern - Platform Integration & AI/Data
 - The Walt Disney Company — Commercial Data Science Intern
 - The Walt Disney Company — Commercial Data Science Intern - Spring 2027
+- The Walt Disney Company — Costuming Project Analyst Intern - Spring 2027
 - The Walt Disney Company — Industrial Engineer Intern - Workforce Management
 - The Walt Disney Company — Labor Systems Data Analytics & Integration Intern - Spring 2027
 - The Walt Disney Company — Labor Systems Web Integration Intern - Spring 2027
@@ -464,6 +493,7 @@ _Generated 2026-09-22_
 - TSC — Robotics Intern
 - Tuckernuck — Product Management Intern
 - Twilio — Software Engineer Intern (January 12th start, 23 weeks)
+- Tyler Technologies — Software Development Intern - Summer 2027
 - Unify — GTM Engineering Intern
 - United Airlines — Air Traffic Strategy Data Analytics Intern - Summer 2027
 - United Airlines — Clubs & Lounges Intern - Summer 2027
