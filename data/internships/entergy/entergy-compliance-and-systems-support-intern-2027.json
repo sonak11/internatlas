@@ -1,0 +1,62 @@
+{
+  "schema_version": "1.0",
+  "id": "entergy-compliance-and-systems-support-intern-2027",
+  "company": {
+    "name": "Entergy",
+    "slug": "entergy"
+  },
+  "role": "Compliance and Systems Support Intern",
+  "category": "software-engineering",
+  "apply_url": "https://jobs.entergy.com/job/Little-Rock-Student,-Intern-Compliance-and-Systems-Support-Spring-2027-Arka/1432001400/?ats=successfactors",
+  "season": "spring",
+  "year": 2027,
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "New Orleans",
+      "state": "LA",
+      "country": "USA"
+    },
+    {
+      "city": "The Woodlands",
+      "state": "TX",
+      "country": "USA"
+    },
+    {
+      "city": "Little Rock",
+      "state": "AR",
+      "country": "USA"
+    }
+  ],
+  "compensation": {
+    "currency": "USD",
+    "housing_stipend": false,
+    "relocation_assistance": false
+  },
+  "eligibility": {
+    "graduation_years": [],
+    "degree_levels": [],
+    "citizenship_required": false,
+    "security_clearance_required": false,
+    "visa_sponsorship": "unknown"
+  },
+  "interview": {},
+  "tech": {
+    "required_skills": [],
+    "preferred_skills": [],
+    "languages": [],
+    "frameworks": [],
+    "cloud_platforms": [],
+    "resume_keywords": []
+  },
+  "dates": {
+    "posted": "2026-09-21",
+    "discovered": "2026-09-22",
+    "last_verified": "2026-09-22"
+  },
+  "status": "open",
+  "tags": [
+    "auto-ingested",
+    "src:simplify"
+  ]
+}

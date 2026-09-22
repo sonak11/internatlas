@@ -32,6 +32,7 @@
 | ByteDance | [Multi-Cloud CDN Scheduling Platform Engineer Intern - CDN Platform](https://jobs.bytedance.com/en/position/7673636205233490181/detail) | San Jose, CA | Onsite | 2026-08-14 | Rolling | 🟢 Open | ❔ |
 | ByteDance | [Network Software Engineer Intern - Network Observation](https://jobs.bytedance.com/en/position/7670772641439041797/detail) | San Jose, CA | Onsite | 2026-08-07 | Rolling | 🟢 Open | ❔ |
 | ByteDance | [Network Software Engineer Intern - Network Switch](https://jobs.bytedance.com/en/position/7670778018960542005/detail) | San Jose, CA | Onsite | 2026-08-07 | Rolling | 🟢 Open | ❔ |
+| ByteDance | [Product Management Project Intern - Global Payment](https://jobs.bytedance.com/en/position/7686394581777631541/detail) | San Jose, CA | Onsite | 2026-09-22 | Rolling | 🟢 Open | ❔ |
 | ByteDance | [Research Intern - AI Compute Efficiency & Scheduling](https://jobs.bytedance.com/en/position/7668804309487749429/detail) | San Jose, CA | Onsite | 2026-08-04 | Rolling | 🟢 Open | ❔ |
 | ByteDance | [Research Intern - AI Compute Efficiency & Scheduling](https://jobs.bytedance.com/en/position/7668802153418475829/detail) | Seattle, WA | Onsite | 2026-08-04 | Rolling | 🟢 Open | ❔ |
 | ByteDance | [Research Intern - AI-Native Databases](https://jobs.bytedance.com/en/position/7678451067500529925/detail) | Seattle, WA | Onsite | 2026-09-02 | Rolling | 🟢 Open | ❔ |
@@ -78,4 +79,4 @@
 
 ## Related
 
-Browse more roles in: [🤖 AI](../categories/ai.md), [☁️ Cloud](../categories/cloud.md), [🔩 Hardware](../categories/hardware.md), [🧠 Machine Learning](../categories/machine-learning.md), [🔬 Research](../categories/research.md), [💻 Software Engineering](../categories/software-engineering.md)
+Browse more roles in: [🤖 AI](../categories/ai.md), [☁️ Cloud](../categories/cloud.md), [🔩 Hardware](../categories/hardware.md), [🧠 Machine Learning](../categories/machine-learning.md), [🧭 Product](../categories/product.md), [🔬 Research](../categories/research.md), [💻 Software Engineering](../categories/software-engineering.md)

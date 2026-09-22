@@ -7,11 +7,15 @@
   },
   "role": "AI Research Intern",
   "category": "ai",
-  "apply_url": "https://jobs.ashbyhq.com/oneapp/7cc2fdfb-a186-4a58-af1b-8255c173244a/application?embed=true",
+  "apply_url": "https://jobs.ashbyhq.com/oneapp/84beb108-c04b-42d3-a9ae-9a91210201b7/application?embed=true",
   "season": "summer",
   "year": 2027,
-  "work_mode": "remote",
-  "locations": [],
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "country": "USA"
+    }
+  ],
   "compensation": {
     "currency": "USD",
     "housing_stipend": false,
@@ -19,7 +23,10 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "masters",
+      "phd"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -34,11 +41,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-08",
+    "posted": "2026-09-22",
     "discovered": "2026-09-08",
-    "last_verified": "2026-09-10"
+    "last_verified": "2026-09-22"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"
