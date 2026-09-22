@@ -12,6 +12,7 @@
 | Google | [Data Scientist Research Intern - PhD](https://www.google.com/about/careers/applications/jobs/results/89965613241246406) | Palo Alto, CA +30 | Onsite | 2026-09-14 | Rolling | 🟢 Open | ❔ |
 | Google | [Hardware Engineer Intern](https://www.google.com/about/careers/applications/jobs/results/122803627516404422) | Palo Alto, CA +30 | Onsite | 2026-09-14 | Rolling | 🟢 Open | ❔ |
 | Google | [Hardware Engineer Intern - PhD](https://www.google.com/about/careers/applications/jobs/results/97352132356645574) | Palo Alto, CA +30 | Onsite | 2026-09-14 | Rolling | 🟢 Open | ❔ |
+| Google | [Product Manager Intern - Summer 2027](https://www.google.com/about/careers/applications/jobs/results/134770032394543814) | SF +3 | Onsite | 2026-09-22 | Rolling | 🟢 Open | ❔ |
 | Google | [Research Intern - PhD](https://www.google.com/about/careers/applications/jobs/results/86701057991680710) | Palo Alto, CA +27 | Onsite | 2026-08-24 | Rolling | 🟢 Open | ❔ |
 | Google | [Research Scientist PhD Intern](https://www.google.com/about/careers/applications/jobs/results/134795423167455942) | London | Onsite | 2026-08-17 | Rolling | 🟢 Open | ❔ |
 | Google | [Silicon Engineering Intern](https://www.google.com/about/careers/applications/jobs/results/136529930677560006) | Madison, WI +2 | Onsite | 2026-09-14 | Rolling | 🟢 Open | ❔ |
@@ -30,4 +31,4 @@
 
 ## Related
 
-Browse more roles in: [📊 Data Science](../categories/data-science.md), [🔩 Hardware](../categories/hardware.md), [🔬 Research](../categories/research.md), [💻 Software Engineering](../categories/software-engineering.md)
+Browse more roles in: [📊 Data Science](../categories/data-science.md), [🔩 Hardware](../categories/hardware.md), [🧭 Product](../categories/product.md), [🔬 Research](../categories/research.md), [💻 Software Engineering](../categories/software-engineering.md)

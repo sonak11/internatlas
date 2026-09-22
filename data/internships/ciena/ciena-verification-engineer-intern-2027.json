@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "coinbase-finance-operations-intern-2027",
+  "id": "ciena-verification-engineer-intern-2027",
   "company": {
-    "name": "Coinbase",
-    "slug": "coinbase",
-    "career_page": "https://www.coinbase.com/careers"
+    "name": "Ciena",
+    "slug": "ciena"
   },
-  "role": "Finance Operations Intern",
+  "role": "Verification Engineer Intern",
   "category": "software-engineering",
-  "apply_url": "https://www.coinbase.com/careers/positions/8175569?gh_jid=8175569",
-  "season": "summer",
+  "apply_url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/Verification-Engineer-Intern--Spring-2027-_R031686",
+  "season": "spring",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Hybrid",
+      "city": "Atlanta",
+      "state": "GA",
       "country": "USA"
     }
   ],
@@ -25,7 +25,9 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "masters"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -40,13 +42,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-08",
-    "discovered": "2026-09-08",
+    "posted": "2026-09-22",
+    "discovered": "2026-09-22",
     "last_verified": "2026-09-22"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:ats"
+    "src:simplify"
   ]
 }

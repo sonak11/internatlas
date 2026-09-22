@@ -22,7 +22,7 @@
 | Coinbase | [Data Science Intern](https://www.coinbase.com/careers/positions/8175462?gh_jid=8175462) | Hybrid | Onsite | 2026-09-08 | Rolling | 🟢 Open | ❔ |
 | Coinbase | [Data Science Intern - Strategy, Execution, & Analytics - Platform](https://boards.greenhouse.io/embed/job_app?token=8175462) | SF | Onsite | 2026-09-09 | Rolling | 🟢 Open | ❔ |
 | Coinbase | [Employee and Workplace Experience Intern](https://www.coinbase.com/careers/positions/8175429?gh_jid=8175429) | Hybrid | Onsite | 2026-09-08 | Rolling | 🟢 Open | ❔ |
-| Coinbase | [Finance Operations Intern](https://www.coinbase.com/careers/positions/8175569?gh_jid=8175569) | Hybrid | Onsite | 2026-09-08 | Rolling | 🟢 Open | ❔ |
+| Coinbase | [Institutional Operations Intern](https://www.coinbase.com/careers/positions/8175569?gh_jid=8175569) | Hybrid | Onsite | 2026-09-08 | Rolling | 🟢 Open | ❔ |
 | Coinbase | [Internal Audit Analytics Intern](https://www.coinbase.com/careers/positions/8221238?gh_jid=8221238) | Hybrid | Onsite | 2026-09-21 | Rolling | 🟢 Open | ❔ |
 | Coinbase | [Internal Audit Intern](https://www.coinbase.com/careers/positions/8175432?gh_jid=8175432) | Hybrid | Onsite | 2026-09-08 | Rolling | 🟢 Open | ❔ |
 | Coinbase | [Learning & Development Intern](https://www.coinbase.com/careers/positions/8175514?gh_jid=8175514) | Hybrid | Onsite | 2026-09-08 | Rolling | 🟢 Open | ❔ |

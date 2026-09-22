@@ -7,7 +7,6 @@
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
 | Formlabs | [Electrical Engineering Intern - Winter/Spring 2027](https://careers.formlabs.com/job/8148283/apply/?gh_jid=8148283) | Somerville, MA | Onsite | 2026-08-21 | Rolling | 🟢 Open | ❔ |
-| Formlabs | [Embedded Software Intern - Winter/Spring 2027](https://careers.formlabs.com/job/8188578/apply/?gh_jid=8188578) | Somerville, MA | Onsite | 2026-09-09 | Rolling | 🟢 Open | ❔ |
 | Formlabs | [Hardware R&D Engineer Intern](https://careers.formlabs.com/job/8097694/apply/?gh_jid=8097694) | Cambridge, MA +1 | Onsite | 2026-07-30 | Rolling | 🟢 Open | ❔ |
 | Formlabs | [Hardware Systems Integration Intern - Winter/Spring 2027](https://careers.formlabs.com/job/8172004/apply/?gh_jid=8172004) | Somerville, MA | Onsite | 2026-09-02 | Rolling | 🟢 Open | ❔ |
 | Formlabs | [Hardware Test Engineer Intern](https://careers.formlabs.com/job/8196515/apply/?gh_jid=8196515) | Somerville, MA | Onsite | 2026-09-18 | Rolling | 🟢 Open | ❔ |
@@ -16,6 +15,7 @@
 | Formlabs | [AI Software Intern](https://careers.formlabs.com/job/8067641/apply/?gh_jid=8067641) | Cambridge, MA | Onsite | 2026-07-16 | Rolling | 🔴 Closed | ❔ |
 | Formlabs | [AI Software Intern](https://careers.formlabs.com/job/8174874/apply/?gh_jid=8174874) | Somerville, MA | Onsite | 2026-09-08 | Rolling | 🔴 Closed | ❔ |
 | Formlabs | [Algorithms Software Intern](https://careers.formlabs.com/job/8060759/apply/?gh_jid=8060759) | Cambridge, MA | Onsite | 2026-07-16 | Rolling | 🔴 Closed | ❔ |
+| Formlabs | [Embedded Software Intern - Winter/Spring 2027](https://careers.formlabs.com/job/8188578/apply/?gh_jid=8188578) | Somerville, MA | Onsite | 2026-09-09 | Rolling | 🔴 Closed | ❔ |
 | Formlabs | [Hardware Systems Integration Intern](https://careers.formlabs.com/job/7927471/apply/?gh_jid=7927471) | Cambridge, MA | Onsite | 2026-05-15 | Rolling | 🔴 Closed | ❔ |
 | Formlabs | [Manufacturing Test Software Intern](https://careers.formlabs.com/job/8021679/apply/?gh_jid=8021679) | Cambridge, MA | Onsite | 2026-06-23 | Rolling | 🔴 Closed | ❔ |
 | Formlabs | [Supply Chain Operations Software Intern](https://careers.formlabs.com/job/8069676/apply/?gh_jid=8069676) | Cambridge, MA | Onsite | 2026-07-17 | Rolling | 🔴 Closed | ❔ |

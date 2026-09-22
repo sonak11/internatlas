@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # ⚙️ Embedded Internships
 
-**119** tracked · **90** open now
+**119** tracked · **89** open now
 
 ## Current openings
 
@@ -36,7 +36,6 @@
 | [Etched](generated/companies/etched.md) | [Firmware Intern](https://jobs.ashbyhq.com/Etched/0e78a385-c450-4749-9803-0970ce2971a5) | San Jose, CA | Onsite | 2026-05-22 | Rolling | 🟢 Open | ❔ |
 | [Fab2](generated/companies/fab2.md) | [Embedded Software Engineer Intern - Winter](https://jobs.ashbyhq.com/fab2/3c7fd0f1-b25f-413c-8e62-6ef00a9d47da/application?embed=true) | SF +1 | Onsite | 2026-08-28 | Rolling | 🟢 Open | ❔ |
 | [Figure](generated/companies/figure.md) | [Firmware Intern](https://job-boards.greenhouse.io/figureai/jobs/4691070006) | San Jose, CA | Onsite | 2026-06-22 | Rolling | 🟢 Open | ❔ |
-| [Formlabs](generated/companies/formlabs.md) | [Embedded Software Intern - Winter/Spring 2027](https://careers.formlabs.com/job/8188578/apply/?gh_jid=8188578) | Somerville, MA | Onsite | 2026-09-09 | Rolling | 🟢 Open | ❔ |
 | [Gecko Robotics](generated/companies/gecko-robotics.md) | [Embedded Software Engineer Intern - RoboSPLAT - Field Infra](https://jobs.ashbyhq.com/gecko-robotics/24561868-f075-4edf-a991-59ff0174e92a/application?embed=true) | Pittsburgh, PA | Onsite | 2026-09-15 | Rolling | 🟢 Open | ❔ |
 | [General Matter](generated/companies/general-matter.md) | [Embedded Software Engineer Intern](https://job-boards.greenhouse.io/generalmatter/jobs/5377131008) | LA | Onsite | 2026-09-03 | Rolling | 🟢 Open | ❔ |
 | [General Motors](generated/companies/general-motors.md) | [Embedded and Systems Engineering Intern - Digital Product](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Digital-Product--Embedded-and-Systems-Engineering_JR-202620513) | Austin, TX +3 | Onsite | 2026-09-21 | Rolling | 🟢 Open | ❔ |
@@ -104,6 +103,7 @@
 | [Ciena](generated/companies/ciena.md) | [Embedded Software Engineer Intern](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Engineer-Intern--4-months---September-2026-_R031219) | Ottawa | Onsite | 2026-06-23 | Rolling | 🔴 Closed | ❔ |
 | [E-Space](generated/companies/e-space.md) | [Embedded Software Engineer Intern](https://jobs.lever.co/espace/1e189295-a315-414d-8c0b-686f204e3cb3/apply) | Arlington, TX | Onsite | 2026-08-20 | Rolling | 🔴 Closed | ❔ |
 | [Fab2](generated/companies/fab2.md) | [Embedded Software Engineer Intern](https://jobs.ashbyhq.com/fab2/de448098-ffc6-4b99-b341-d6a5874f390f/application?embed=true) | SF +1 | Onsite | 2026-07-21 | Rolling | 🔴 Closed | ❔ |
+| [Formlabs](generated/companies/formlabs.md) | [Embedded Software Intern - Winter/Spring 2027](https://careers.formlabs.com/job/8188578/apply/?gh_jid=8188578) | Somerville, MA | Onsite | 2026-09-09 | Rolling | 🔴 Closed | ❔ |
 | [Generac](generated/companies/generac.md) | [Firmware Engineering Intern](https://generac.wd5.myworkdayjobs.com/en-US/external/job/Reno-NV---USA/Intern-Firmware-Engineering_JR16149) | Reno, NV | Onsite | 2026-08-14 | Rolling | 🔴 Closed | ❔ |
 | [Inogen](generated/companies/inogen.md) | [Firmware Engineer Intern](https://jobs.jobvite.com/inogen/job/om2zAfwh?nl=1&nl=1&fr=false) | Plano, TX | Onsite | 2026-08-04 | Rolling | 🔴 Closed | ❔ |
 | [Microchip Technology](generated/companies/microchip-technology.md) | [Engineering Intern - Firmware Development](https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/TX---Houston---Compaq-Center-Dr/Intern-Engineering--Firmware-Development-_R3372-26) | Houston, TX | Onsite | 2026-08-03 | Rolling | 🔴 Closed | ❔ |
@@ -159,7 +159,6 @@
 - Draper (1)
 - Eaton (1)
 - Figure (1)
-- Formlabs (1)
 - Gecko Robotics (1)
 - General Matter (1)
 - General Motors (1)
@@ -186,6 +185,7 @@
 - Altera Corporation (1)
 - Astranis (1)
 - E-Space (1)
+- Formlabs (1)
 - Generac (1)
 - Inogen (1)
 - Microchip Technology (1)

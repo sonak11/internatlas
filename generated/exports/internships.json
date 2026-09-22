@@ -1,6 +1,6 @@
 {
   "generated": "2026-09-22",
-  "count": 5053,
+  "count": 5065,
   "internships": [
     {
       "schema_version": "1.0",
@@ -46170,7 +46170,7 @@
         "discovered": "2026-09-15",
         "last_verified": "2026-09-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -52090,6 +52090,60 @@
         "last_verified": "2026-08-14"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "ciena-verification-engineer-intern-2027",
+      "company": {
+        "name": "Ciena",
+        "slug": "ciena"
+      },
+      "role": "Verification Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/Verification-Engineer-Intern--Spring-2027-_R031686",
+      "season": "spring",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Atlanta",
+          "state": "GA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-22",
+        "discovered": "2026-09-22",
+        "last_verified": "2026-09-22"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -58525,13 +58579,13 @@
     },
     {
       "schema_version": "1.0",
-      "id": "coinbase-finance-operations-intern-2027",
+      "id": "coinbase-institutional-operations-intern-2027",
       "company": {
         "name": "Coinbase",
         "slug": "coinbase",
         "career_page": "https://www.coinbase.com/careers"
       },
-      "role": "Finance Operations Intern",
+      "role": "Institutional Operations Intern",
       "category": "software-engineering",
       "apply_url": "https://www.coinbase.com/careers/positions/8175569?gh_jid=8175569",
       "season": "summer",
@@ -58566,7 +58620,7 @@
       },
       "dates": {
         "posted": "2026-09-08",
-        "discovered": "2026-09-08",
+        "discovered": "2026-09-22",
         "last_verified": "2026-09-22"
       },
       "status": "open",
@@ -82531,7 +82585,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -85984,7 +86038,7 @@
         "discovered": "2026-09-09",
         "last_verified": "2026-09-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -96164,7 +96218,7 @@
         "discovered": "2026-08-27",
         "last_verified": "2026-09-22"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -96216,7 +96270,7 @@
         "discovered": "2026-08-20",
         "last_verified": "2026-09-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -96269,7 +96323,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-09-22"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -96277,7 +96331,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "goldman-sachs-quantitative-strategist-associate-intern-the-core-quantitati-2027",
+      "id": "goldman-sachs-quantitative-strategist-associate-intern-the-core-quantitati-2027-14d0f0",
       "company": {
         "name": "Goldman Sachs",
         "slug": "goldman-sachs"
@@ -96319,10 +96373,63 @@
       },
       "dates": {
         "posted": "2026-08-15",
+        "discovered": "2026-09-22",
+        "last_verified": "2026-09-22"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "goldman-sachs-quantitative-strategist-associate-intern-the-core-quantitati-2027",
+      "company": {
+        "name": "Goldman Sachs",
+        "slug": "goldman-sachs"
+      },
+      "role": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
+      "category": "quant",
+      "apply_url": "https://higher.gs.com/roles/171535?type=students",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "NYC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-15",
         "discovered": "2026-08-15",
         "last_verified": "2026-09-22"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -96374,7 +96481,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-22"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -96426,7 +96533,7 @@
         "discovered": "2026-09-21",
         "last_verified": "2026-09-22"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -96480,7 +96587,7 @@
         "discovered": "2026-09-16",
         "last_verified": "2026-09-22"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -96533,7 +96640,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-22"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -96541,7 +96648,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "goldman-sachs-quantitative-strategist-intern-asset-and-wealth-management-q-2027",
+      "id": "goldman-sachs-quantitative-strategist-intern-asset-and-wealth-management-q-2027-0ac951",
       "company": {
         "name": "Goldman Sachs",
         "slug": "goldman-sachs"
@@ -96556,6 +96663,58 @@
         {
           "city": "London",
           "country": "UK"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-15",
+        "discovered": "2026-09-22",
+        "last_verified": "2026-09-22"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "goldman-sachs-quantitative-strategist-intern-asset-and-wealth-management-q-2027",
+      "company": {
+        "name": "Goldman Sachs",
+        "slug": "goldman-sachs"
+      },
+      "role": "Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats",
+      "category": "quant",
+      "apply_url": "https://higher.gs.com/roles/171549?type=students",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Salt Lake City",
+          "state": "UT",
+          "country": "USA"
         }
       ],
       "compensation": {
@@ -96586,7 +96745,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-22"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -96637,7 +96796,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-22"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -96645,7 +96804,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "goldman-sachs-quantitative-strategist-intern-multiple-teams-2027",
+      "id": "goldman-sachs-quantitative-strategist-intern-multiple-teams-2027-323368",
       "company": {
         "name": "Goldman Sachs",
         "slug": "goldman-sachs"
@@ -96685,10 +96844,61 @@
       },
       "dates": {
         "posted": "2026-08-15",
+        "discovered": "2026-09-22",
+        "last_verified": "2026-09-22"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "goldman-sachs-quantitative-strategist-intern-multiple-teams-2027",
+      "company": {
+        "name": "Goldman Sachs",
+        "slug": "goldman-sachs"
+      },
+      "role": "Quantitative Strategist Intern - Multiple Teams",
+      "category": "quant",
+      "apply_url": "https://higher.gs.com/roles/171563?type=students",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "NYC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-15",
         "discovered": "2026-08-15",
         "last_verified": "2026-09-22"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -96740,7 +96950,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-22"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -96791,7 +97001,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-22"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -96947,7 +97157,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-22"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -96998,7 +97208,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-22"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -97051,7 +97261,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -97105,7 +97315,7 @@
         "discovered": "2026-09-06",
         "last_verified": "2026-09-22"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -97159,7 +97369,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-22"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -97174,13 +97384,13 @@
       },
       "role": "Summer Analyst Intern - Engineering",
       "category": "software-engineering",
-      "apply_url": "https://higher.gs.com/roles/170644?type=students",
+      "apply_url": "https://higher.gs.com/roles/170637?type=students",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
       "locations": [
         {
-          "city": "London",
+          "city": "Birmingham",
           "country": "UK"
         }
       ],
@@ -97266,7 +97476,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-09-22"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -97368,7 +97578,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-22"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -97523,7 +97733,7 @@
         "discovered": "2026-08-29",
         "last_verified": "2026-09-22"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -97576,7 +97786,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-09-22"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -98678,6 +98888,71 @@
       "dates": {
         "posted": "2026-09-14",
         "discovered": "2026-09-14",
+        "last_verified": "2026-09-22"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "google-product-manager-intern-summer-2027-2027",
+      "company": {
+        "name": "Google",
+        "slug": "google"
+      },
+      "role": "Product Manager Intern - Summer 2027",
+      "category": "product",
+      "apply_url": "https://www.google.com/about/careers/applications/jobs/results/134770032394543814",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "SF",
+          "country": "USA"
+        },
+        {
+          "city": "San Bruno",
+          "state": "CA",
+          "country": "USA"
+        },
+        {
+          "city": "NYC",
+          "country": "USA"
+        },
+        {
+          "city": "Mountain View",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-22",
+        "discovered": "2026-09-22",
         "last_verified": "2026-09-22"
       },
       "status": "open",
@@ -102387,6 +102662,58 @@
       "dates": {
         "posted": "2026-09-18",
         "discovered": "2026-09-19",
+        "last_verified": "2026-09-22"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "guidestone-software-developer-intern-software-development-2027",
+      "company": {
+        "name": "GuideStone",
+        "slug": "guidestone"
+      },
+      "role": "Software Developer Intern - Software Development",
+      "category": "software-engineering",
+      "apply_url": "https://guidestone.wd1.myworkdayjobs.com/guidestone/job/Dallas-TX/Summer-Intern---Software-Developer_R2129",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Dallas",
+          "state": "TX",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-22",
+        "discovered": "2026-09-22",
         "last_verified": "2026-09-22"
       },
       "status": "open",
@@ -119019,6 +119346,60 @@
     },
     {
       "schema_version": "1.0",
+      "id": "johns-hopkins-applied-physics-laboratory-electrical-computer-engineering-intern-space-science-electro-2027",
+      "company": {
+        "name": "Johns Hopkins Applied Physics Laboratory",
+        "slug": "johns-hopkins-applied-physics-laboratory"
+      },
+      "role": "Electrical/Computer Engineering Intern - Space Science Electronics",
+      "category": "software-engineering",
+      "apply_url": "https://careers.jhuapl.edu/jobs/60123?icims=1",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Laurel",
+          "state": "MD",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-22",
+        "discovered": "2026-09-22",
+        "last_verified": "2026-09-22"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "johns-hopkins-applied-physics-laboratory-engineer-analyst-scientist-intern-c2-resilience-sciences-2027",
       "company": {
         "name": "Johns Hopkins Applied Physics Laboratory",
@@ -120714,6 +121095,59 @@
       "dates": {
         "posted": "2026-08-03",
         "discovered": "2026-08-03",
+        "last_verified": "2026-09-22"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "jp-morgan-chase-quantitative-research-summer-analyst-internship-asset-manage-2027",
+      "company": {
+        "name": "JP Morgan Chase",
+        "slug": "jp-morgan-chase"
+      },
+      "role": "Quantitative Research Summer Analyst Internship - Asset Management",
+      "category": "quant",
+      "apply_url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210792010",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "London",
+          "country": "UK"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-22",
+        "discovered": "2026-09-22",
         "last_verified": "2026-09-22"
       },
       "status": "open",
@@ -136502,7 +136936,7 @@
         "discovered": "2026-09-18",
         "last_verified": "2026-09-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -136720,7 +137154,7 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-09-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -196180,7 +196614,7 @@
         "discovered": "2026-09-21",
         "last_verified": "2026-09-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -196489,7 +196923,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-22"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -198440,7 +198874,7 @@
         "discovered": "2026-09-01",
         "last_verified": "2026-09-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -199815,6 +200249,60 @@
         "last_verified": "2026-08-17"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "rtx-software-engineer-intern-2027-7b46f4",
+      "company": {
+        "name": "RTX",
+        "slug": "rtx"
+      },
+      "role": "Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-RI-PORTSMOUTH-PS1--1847-W-Main-Rd--NIMITZ-BLDG/Software-Engineering-Intern--Summer-2027-_01876065",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Portsmouth",
+          "state": "RI",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-22",
+        "discovered": "2026-09-22",
+        "last_verified": "2026-09-22"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -205505,7 +205993,7 @@
         "discovered": "2026-08-29",
         "last_verified": "2026-09-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -254151,7 +254639,7 @@
         "discovered": "2026-09-22",
         "last_verified": "2026-09-22"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -254526,6 +255014,65 @@
       "tags": [
         "auto-ingested",
         "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "udig-software-engineer-intern-2027",
+      "company": {
+        "name": "Udig",
+        "slug": "udig"
+      },
+      "role": "Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://udig.com/careers/job-listing/?gh_jid=7999436003",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Nashville",
+          "state": "TN",
+          "country": "USA"
+        },
+        {
+          "city": "Richmond",
+          "state": "VA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-22",
+        "discovered": "2026-09-22",
+        "last_verified": "2026-09-22"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
       ]
     },
     {
@@ -260050,6 +260597,108 @@
         "last_verified": "2026-09-12"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "verizon-communications-ai-science-intern-multiple-teams-2027",
+      "company": {
+        "name": "Verizon Communications",
+        "slug": "verizon-communications"
+      },
+      "role": "AI Science Intern - Multiple Teams",
+      "category": "ai",
+      "apply_url": "https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Basking-Ridge-New-Jersey/Verizon-Network-and-Technology--AI-Science-2027-Internship--Rutgers--NJIT--NYU--UT-Dallas--UT-Arlington--Texas-A-M_R-1101169",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Basking Ridge",
+          "country": "Bernards"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-22",
+        "discovered": "2026-09-22",
+        "last_verified": "2026-09-22"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "verizon-communications-ai-science-intern-network-and-technology-2027",
+      "company": {
+        "name": "Verizon Communications",
+        "slug": "verizon-communications"
+      },
+      "role": "AI Science Intern - Network and Technology",
+      "category": "ai",
+      "apply_url": "https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Basking-Ridge-New-Jersey/Verizon-Network-and-Technology--AI-Science-2027-Internship_R-1101167",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Basking Ridge",
+          "country": "Bernards"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-22",
+        "discovered": "2026-09-22",
+        "last_verified": "2026-09-22"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -266097,15 +266746,6 @@
       "locations": [
         {
           "city": "Mountain View",
-          "country": "USA"
-        },
-        {
-          "city": "SF",
-          "country": "USA"
-        },
-        {
-          "city": "Mountain View",
-          "state": "CA",
           "country": "USA"
         }
       ],
