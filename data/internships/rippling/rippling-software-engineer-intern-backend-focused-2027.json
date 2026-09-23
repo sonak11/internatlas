@@ -7,8 +7,8 @@
   },
   "role": "Software Engineer Intern - Backend Focused",
   "category": "software-engineering",
-  "apply_url": "https://ats.rippling.com/rippling/jobs/00cbc991-d2fb-452c-a8b6-2978f109a484",
-  "season": "winter",
+  "apply_url": "https://ats.rippling.com/rippling/jobs/a07e4e46-3721-4934-b57b-0d58412e22ba",
+  "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
@@ -50,11 +50,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-06-05",
+    "posted": "2026-09-22",
     "discovered": "2026-07-17",
-    "last_verified": "2026-08-17"
+    "last_verified": "2026-09-23"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

@@ -1,19 +1,25 @@
 {
   "schema_version": "1.0",
-  "id": "xsolla-ai-first-engineer-intern-2026-30d479",
+  "id": "waymo-2027-summer-intern-phd-data-science-2027",
   "company": {
-    "name": "Xsolla",
-    "slug": "xsolla"
+    "name": "Waymo",
+    "slug": "waymo",
+    "career_page": "https://waymo.com/careers"
   },
-  "role": "AI-First Engineer Intern",
-  "category": "ai",
-  "apply_url": "https://jobs.lever.co/xsolla/7a8f8d4c-10fc-4c64-bc9d-167ba1e367c4/apply",
-  "season": "fall",
-  "year": 2026,
+  "role": "2027 Summer Intern, PhD, Data Science",
+  "category": "data-science",
+  "apply_url": "https://careers.withwaymo.com/jobs?gh_jid=8221956",
+  "season": "summer",
+  "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "state": "LA",
+      "city": "Mountain View",
+      "state": "CA",
+      "country": "USA"
+    },
+    {
+      "city": "SF",
       "country": "USA"
     }
   ],
@@ -24,7 +30,9 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "phd"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -39,13 +47,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-20",
-    "discovered": "2026-07-28",
-    "last_verified": "2026-09-22"
+    "posted": "2026-09-22",
+    "discovered": "2026-09-23",
+    "last_verified": "2026-09-23"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:ats"
   ]
 }

@@ -1,0 +1,57 @@
+{
+  "schema_version": "1.0",
+  "id": "west-bend-insurance-it-data-engineer-intern-2027",
+  "company": {
+    "name": "West Bend Insurance",
+    "slug": "west-bend-insurance"
+  },
+  "role": "IT Data Engineer Intern",
+  "category": "data-engineering",
+  "apply_url": "https://careers-thesilverlining.icims.com/jobs/3759/job?mobile=true&needsRedirect=false",
+  "season": "summer",
+  "year": 2027,
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "Madison",
+      "state": "WI",
+      "country": "USA"
+    },
+    {
+      "city": "West Bend",
+      "state": "WI",
+      "country": "USA"
+    }
+  ],
+  "compensation": {
+    "currency": "USD",
+    "housing_stipend": false,
+    "relocation_assistance": false
+  },
+  "eligibility": {
+    "graduation_years": [],
+    "degree_levels": [],
+    "citizenship_required": false,
+    "security_clearance_required": false,
+    "visa_sponsorship": "unknown"
+  },
+  "interview": {},
+  "tech": {
+    "required_skills": [],
+    "preferred_skills": [],
+    "languages": [],
+    "frameworks": [],
+    "cloud_platforms": [],
+    "resume_keywords": []
+  },
+  "dates": {
+    "posted": "2026-09-22",
+    "discovered": "2026-09-23",
+    "last_verified": "2026-09-23"
+  },
+  "status": "open",
+  "tags": [
+    "auto-ingested",
+    "src:simplify"
+  ]
+}

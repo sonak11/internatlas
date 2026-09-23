@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0",
+  "id": "eaton-electrical-engineer-intern-co-op-engineering-2027",
+  "company": {
+    "name": "Eaton",
+    "slug": "eaton"
+  },
+  "role": "Electrical Engineer Intern/Co-op - Engineering",
+  "category": "software-engineering",
+  "apply_url": "https://eaton.eightfold.ai/careers/job/687238597770",
+  "season": "summer",
+  "year": 2027,
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "Peachtree City",
+      "state": "GA",
+      "country": "USA"
+    }
+  ],
+  "compensation": {
+    "currency": "USD",
+    "housing_stipend": false,
+    "relocation_assistance": false
+  },
+  "eligibility": {
+    "graduation_years": [],
+    "degree_levels": [],
+    "citizenship_required": false,
+    "security_clearance_required": false,
+    "visa_sponsorship": "unknown"
+  },
+  "interview": {},
+  "tech": {
+    "required_skills": [],
+    "preferred_skills": [],
+    "languages": [],
+    "frameworks": [],
+    "cloud_platforms": [],
+    "resume_keywords": []
+  },
+  "dates": {
+    "posted": "2026-09-22",
+    "discovered": "2026-09-23",
+    "last_verified": "2026-09-23"
+  },
+  "status": "open",
+  "tags": [
+    "auto-ingested",
+    "src:simplify"
+  ]
+}
