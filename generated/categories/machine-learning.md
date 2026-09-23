@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🧠 Machine Learning Internships
 
-**220** tracked · **167** open now
+**220** tracked · **166** open now
 
 ## Current openings
 
@@ -49,7 +49,6 @@
 | [Coinbase](generated/companies/coinbase.md) | [Machine Learning Engineer Intern](https://boards.greenhouse.io/embed/job_app?token=8175441) | SF | Onsite | 2026-09-09 | Rolling | 🟢 Open | ❔ |
 | [Constellation Space](generated/companies/constellation-space.md) | [Graduate Researcher Intern - Machine Learning](https://jobs.ashbyhq.com/constellationspace/b763d4ba-7b77-479b-89a0-f632d9d02f4a/application?embed=true) | Seattle, WA | Onsite | 2026-07-15 | Rolling | 🟢 Open | ❔ |
 | [Core & Main](generated/companies/core-main.md) | [AI/ML Data Engineering Intern](https://coreandmain.wd1.myworkdayjobs.com/coreandmain/job/Saint-Louis-MO-63146/Intern---Data-Engineering----Corp_45804) | St. Louis, MO | Onsite | 2026-07-27 | Rolling | 🟢 Open | ❌ |
-| [Corning](generated/companies/corning.md) | [Artificial Intelligence and Machine Learning Intern](https://corningjobs.corning.com/job/Wilmington-Artificial-Intelligence-and-Machine-Learning-Intern-Summer-2027-NC-28405/1425596800/?ats=successfactors) | Wilmington, NC | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
 | [Corning](generated/companies/corning.md) | [Digital & IT Intern - Manufacturing AI/ML](https://corningjobs.corning.com/job/Charlotte-Digital-&-IT-Intern,-Analyst,-Manufacturing-AIML-Summer-2027-NC-28216/1425708000/?ats=successfactors) | Charlotte, NC | Onsite | 2026-09-02 | Rolling | 🟢 Open | ❔ |
 | [CoVar](generated/companies/covar.md) | [Machine Learning Intern](https://job-boards.greenhouse.io/covar/jobs/5240360007) | Durham, NC | Onsite | 2026-09-16 | Rolling | 🟢 Open | ❔ |
 | [Dev Technology Group](generated/companies/dev-technology-group.md) | [AI/ML Intern - Summer 2027](https://job-boards.greenhouse.io/devtechnology/jobs/8726074002) | Reston, VA | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
@@ -183,6 +182,7 @@
 | [ByteDance](generated/companies/bytedance.md) | [Applied Machine Learning Production Engineer Intern - AML Production Engineer](https://jobs.bytedance.com/en/position/7670009669494704437/detail) | San Jose, CA | Onsite | 2026-08-06 | Rolling | 🔴 Closed | ❔ |
 | [ByteDance](generated/companies/bytedance.md) | [Machine Learning Engineer Intern](https://jobs.bytedance.com/en/position/7671291260529821957/detail) | San Jose, CA | Onsite | 2026-08-10 | Rolling | 🔴 Closed | ❔ |
 | [ByteDance](generated/companies/bytedance.md) | [Machine Learning Engineer Intern - AML-Engine-Orchestration](https://jobs.bytedance.com/en/position/7672382828525832501/detail) | Seattle, WA | Onsite | 2026-08-11 | Rolling | 🔴 Closed | ❔ |
+| [Corning](generated/companies/corning.md) | [Artificial Intelligence and Machine Learning Intern](https://corningjobs.corning.com/job/Wilmington-Artificial-Intelligence-and-Machine-Learning-Intern-Summer-2027-NC-28405/1425596800/?ats=successfactors) | Wilmington, NC | Onsite | 2026-09-01 | Rolling | 🔴 Closed | ❔ |
 | [Corning](generated/companies/corning.md) | [Digital & IT Intern - Analyst - Machine Learning](https://corningjobs.corning.com/job/Charlotte-Digital-&-IT-Intern,-Analyst,-Machine-Learning-Summer-2027-NC-28216/1425580100/?ats=successfactors) | Charlotte, NC | Onsite | 2026-09-01 | Rolling | 🔴 Closed | ❔ |
 | [Geico](generated/companies/geico.md) | [Artificial Intelligence Applied Research & Machine Learning Intern - PhD](https://geico.wd1.myworkdayjobs.com/en-US/External/job/Palo-Alto-CA/AI-Applied-Research---Machine-Learning-Internship--PhD---Summer-2026-Interns-Only-_R0065435) | Palo Alto, CA +1 | Onsite | 2026-09-01 | Rolling | 🔴 Closed | ❔ |
 | [Genentech](generated/companies/genentech.md) | [Machine Learning Intern - OpRegen Machine Learning](https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2027-Spring-Intern---OpRegen-Machine-Learning_202608-121800) | South SF | Onsite | 2026-08-24 | Rolling | 🔴 Closed | ❔ |

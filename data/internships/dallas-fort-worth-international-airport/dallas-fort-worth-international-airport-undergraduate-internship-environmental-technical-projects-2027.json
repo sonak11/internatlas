@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "goldman-sachs-summer-analyst-intern-engineering-2027-3e3ccf",
+  "id": "dallas-fort-worth-international-airport-undergraduate-internship-environmental-technical-projects-2027",
   "company": {
-    "name": "Goldman Sachs",
-    "slug": "goldman-sachs"
+    "name": "Dallas Fort Worth International Airport",
+    "slug": "dallas-fort-worth-international-airport"
   },
-  "role": "Summer Analyst Intern - Engineering",
+  "role": "Undergraduate Internship - Environmental Technical Projects",
   "category": "software-engineering",
-  "apply_url": "https://higher.gs.com/roles/177808?type=students",
+  "apply_url": "https://dfwairport.wd5.myworkdayjobs.com/External/job/DFW-Intl-Airport-Board/XMLNAME-2027-Undergraduate-Internship---Environmental-Technical-Projects_JR102144",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Seattle",
-      "state": "WA",
+      "city": "Dallas",
+      "state": "TX",
       "country": "USA"
     }
   ],
@@ -25,9 +25,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -42,8 +40,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-15",
-    "discovered": "2026-09-06",
+    "posted": "2026-09-22",
+    "discovered": "2026-09-23",
     "last_verified": "2026-09-23"
   },
   "status": "open",

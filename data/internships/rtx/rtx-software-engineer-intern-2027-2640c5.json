@@ -1,19 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "goldman-sachs-summer-analyst-intern-2027",
+  "id": "rtx-software-engineer-intern-2027-2640c5",
   "company": {
-    "name": "Goldman Sachs",
-    "slug": "goldman-sachs"
+    "name": "RTX",
+    "slug": "rtx"
   },
-  "role": "Summer Analyst Intern",
+  "role": "Software Engineer Intern",
   "category": "software-engineering",
-  "apply_url": "https://higher.gs.com/roles/171550?type=students",
+  "apply_url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-G--400-Main-St--BLDG-G/Summer-2027-Software-Engineering-Intern--Onsite-_01873645",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "NYC",
+      "city": "East Hartford",
+      "state": "CT",
       "country": "USA"
     }
   ],
@@ -39,11 +40,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-15",
-    "discovered": "2026-09-04",
+    "posted": "2026-09-22",
+    "discovered": "2026-09-23",
     "last_verified": "2026-09-23"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

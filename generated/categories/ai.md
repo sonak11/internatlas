@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🤖 AI Internships
 
-**401** tracked · **248** open now
+**401** tracked · **247** open now
 
 ## Current openings
 
@@ -74,7 +74,6 @@
 | [Cigna Group](generated/companies/cigna-group.md) | [Artificial Intelligence Innovation Development Intern](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/NC-Raleigh-701-Corporate-Center-Dr-STE-200/Ai-Innovation-Development-Program--AIIDP--Summer-internship_26010712) | Raleigh, NC | Onsite | 2026-09-02 | Rolling | 🟢 Open | ❔ |
 | [Cigna Group](generated/companies/cigna-group.md) | [Legal Operations Financial Data & AI Analytics Intern](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/St-Louis-MO/Legal-Operations-Financial--Data---AI-Analytics-Intern_25016386) | St. Louis, MO | Onsite | 2026-08-25 | Rolling | 🟢 Open | ❔ |
 | [Clarios](generated/companies/clarios.md) | [IT Digital/AI Intern - Summer 2027](https://clarios.wd5.myworkdayjobs.com/clarioscareers/job/United-States-Wisconsin-Milwaukee/IT-Digital-AI-Intern--Summer-2027-_WD49910) | Milwaukee, WI | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
-| [Collier Aerospace](generated/companies/collier-aerospace.md) | [AI Feature Development Intern - NCSG](https://ats.rippling.com/collieraerospace/jobs/5a8bf9a3-c4f5-4c5a-ba9a-188979106827) | Raleigh, NC | Onsite | 2026-09-16 | Rolling | 🟢 Open | ❔ |
 | [Commercial Metals](generated/companies/commercial-metals.md) | [AI Intern](https://jobs.cmc.com/job/Irving-AI-Intern-SIOP-TX-75039/1417644400/?ats=successfactors) | Irving, TX | Onsite | 2026-08-10 | Rolling | 🟢 Open | ❔ |
 | [Cone Health](generated/companies/cone-health.md) | [Healthcare Innovation Intern - AI](https://conehealth.wd12.myworkdayjobs.com/cone_health-careers/job/White-Box/Healthcare-Innovation--AI--Intern_JR155166) | Salt Lake City, UT | Onsite | 2026-09-11 | Rolling | 🟢 Open | ❔ |
 | [Cone Health](generated/companies/cone-health.md) | [Healthcare Innovation Intern - AI](https://careers.conehealth.com/us/en/job/JR155166) | Greensboro, NC | Onsite | 2026-09-11 | Rolling | 🟢 Open | ❔ |
@@ -296,6 +295,7 @@
 | [Cloudflare](generated/companies/cloudflare.md) | [U.S. Public Policy and AI Innovation Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8105728?gh_jid=8105728) | In-Office | Onsite | 2026-08-04 | Rolling | 🔴 Closed | ❔ |
 | [CNO Financial Group](generated/companies/cno-financial-group.md) | [Artificial Intelligence Information Technology Intern - AI](https://cnoinc.wd5.myworkdayjobs.com/Careers/job/Carmel-IN/Artificial-Intelligence--AI--IT-Intern-2027---REMOTE_JR170389) | Carmel, IN | Onsite | 2026-08-03 | Rolling | 🔴 Closed | ❔ |
 | [Cole Engineering Services](generated/companies/cole-engineering-services.md) | [AI Intern](https://jobs-cesi.icims.com/jobs/11206/job?mobile=true&needsRedirect=false) | Orlando, FL | Onsite | 2026-08-18 | Rolling | 🔴 Closed | ❔ |
+| [Collier Aerospace](generated/companies/collier-aerospace.md) | [AI Feature Development Intern - NCSG](https://ats.rippling.com/collieraerospace/jobs/5a8bf9a3-c4f5-4c5a-ba9a-188979106827) | Raleigh, NC | Onsite | 2026-09-16 | Rolling | 🔴 Closed | ❔ |
 | [Concentric](generated/companies/concentric.md) | [AI Workflow Intern - AI Workflow Optimization](https://job-boards.greenhouse.io/concentric/jobs/4703940006) | Kirkland, WA | Onsite | 2026-08-11 | Rolling | 🔴 Closed | ❔ |
 | [Conduent](generated/companies/conduent.md) | [Applied AI Engineer Intern - Government Healthcare Solutions](https://egua.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25529) | Remote | Remote | 2026-08-26 | Rolling | 🔴 Closed | ❔ |
 | [Copart](generated/companies/copart.md) | [AI Engineer Intern](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/AI-Engineer-Intern_JR110948) | Dallas, TX | Onsite | 2026-08-31 | Rolling | 🔴 Closed | ❔ |
@@ -500,7 +500,6 @@
 - Chemours (1)
 - Ciena (1)
 - Clarios (1)
-- Collier Aerospace (1)
 - Commercial Metals (1)
 - Cook Group (1)
 - Corning (1)
@@ -584,6 +583,7 @@
 - Centific (1)
 - CNO Financial Group (1)
 - Cole Engineering Services (1)
+- Collier Aerospace (1)
 - Concentric (1)
 - Conduent (1)
 - Copart (1)

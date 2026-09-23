@@ -1,6 +1,6 @@
 {
   "generated": "2026-09-23",
-  "count": 5115,
+  "count": 5116,
   "internships": [
     {
       "schema_version": "1.0",
@@ -18092,7 +18092,7 @@
         "discovered": "2026-09-09",
         "last_verified": "2026-09-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:ats"
@@ -38996,7 +38996,7 @@
         "discovered": "2026-09-21",
         "last_verified": "2026-09-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -60630,7 +60630,7 @@
         "discovered": "2026-09-17",
         "last_verified": "2026-09-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -60732,9 +60732,9 @@
       "dates": {
         "posted": "2026-09-09",
         "discovered": "2026-09-09",
-        "last_verified": "2026-09-22"
+        "last_verified": "2026-09-23"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -63312,7 +63312,7 @@
         "discovered": "2026-09-01",
         "last_verified": "2026-09-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -66652,6 +66652,58 @@
         "last_verified": "2026-08-29"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "dallas-fort-worth-international-airport-undergraduate-internship-environmental-technical-projects-2027",
+      "company": {
+        "name": "Dallas Fort Worth International Airport",
+        "slug": "dallas-fort-worth-international-airport"
+      },
+      "role": "Undergraduate Internship - Environmental Technical Projects",
+      "category": "software-engineering",
+      "apply_url": "https://dfwairport.wd5.myworkdayjobs.com/External/job/DFW-Intl-Airport-Board/XMLNAME-2027-Undergraduate-Internship---Environmental-Technical-Projects_JR102144",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Dallas",
+          "state": "TX",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-22",
+        "discovered": "2026-09-23",
+        "last_verified": "2026-09-23"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -97340,7 +97392,7 @@
         "discovered": "2026-08-27",
         "last_verified": "2026-09-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -97445,7 +97497,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-09-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -97498,7 +97550,7 @@
         "discovered": "2026-09-22",
         "last_verified": "2026-09-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -97551,7 +97603,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-09-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -97603,7 +97655,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -97655,7 +97707,7 @@
         "discovered": "2026-09-21",
         "last_verified": "2026-09-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -97709,7 +97761,7 @@
         "discovered": "2026-09-16",
         "last_verified": "2026-09-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -97762,7 +97814,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -97813,7 +97865,7 @@
         "discovered": "2026-09-22",
         "last_verified": "2026-09-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -97918,7 +97970,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -97969,7 +98021,7 @@
         "discovered": "2026-09-22",
         "last_verified": "2026-09-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -98020,7 +98072,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-09-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -98072,7 +98124,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -98123,7 +98175,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -98279,7 +98331,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -98330,7 +98382,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -98381,60 +98433,6 @@
       "dates": {
         "posted": "2026-08-15",
         "discovered": "2026-09-04",
-        "last_verified": "2026-09-23"
-      },
-      "status": "closed",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "goldman-sachs-summer-analyst-intern-engineering-2027-3e3ccf",
-      "company": {
-        "name": "Goldman Sachs",
-        "slug": "goldman-sachs"
-      },
-      "role": "Summer Analyst Intern - Engineering",
-      "category": "software-engineering",
-      "apply_url": "https://higher.gs.com/roles/177808?type=students",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Seattle",
-          "state": "WA",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [
-          "masters"
-        ],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-08-15",
-        "discovered": "2026-09-06",
         "last_verified": "2026-09-23"
       },
       "status": "open",
@@ -98491,7 +98489,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -98506,14 +98504,15 @@
       },
       "role": "Summer Analyst Intern - Engineering",
       "category": "software-engineering",
-      "apply_url": "https://higher.gs.com/roles/170637?type=students",
+      "apply_url": "https://higher.gs.com/roles/177808?type=students",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
       "locations": [
         {
-          "city": "Birmingham",
-          "country": "UK"
+          "city": "Seattle",
+          "state": "WA",
+          "country": "USA"
         }
       ],
       "compensation": {
@@ -98598,7 +98597,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-09-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -98700,7 +98699,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -98855,7 +98854,7 @@
         "discovered": "2026-08-29",
         "last_verified": "2026-09-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -98908,7 +98907,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-09-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -105643,7 +105642,7 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-09-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -127388,7 +127387,7 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-09-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -141434,7 +141433,7 @@
         "discovered": "2026-08-24",
         "last_verified": "2026-09-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -161852,7 +161851,7 @@
         "discovered": "2026-09-21",
         "last_verified": "2026-09-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -162543,7 +162542,7 @@
         "discovered": "2026-09-09",
         "last_verified": "2026-09-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -171673,7 +171672,7 @@
         "discovered": "2026-09-09",
         "last_verified": "2026-09-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -201482,7 +201481,7 @@
         "discovered": "2026-09-18",
         "last_verified": "2026-09-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -201649,6 +201648,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "rtx-software-engineer-intern-2027-2640c5",
+      "company": {
+        "name": "RTX",
+        "slug": "rtx"
+      },
+      "role": "Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-G--400-Main-St--BLDG-G/Summer-2027-Software-Engineering-Intern--Onsite-_01873645",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "East Hartford",
+          "state": "CT",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-22",
+        "discovered": "2026-09-23",
+        "last_verified": "2026-09-23"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "rtx-software-engineer-intern-2027-3211dc",
       "company": {
         "name": "RTX",
@@ -201749,7 +201800,7 @@
         "discovered": "2026-09-16",
         "last_verified": "2026-09-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -202446,7 +202497,7 @@
         "discovered": "2026-09-16",
         "last_verified": "2026-09-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -204754,7 +204805,7 @@
         "discovered": "2026-08-11",
         "last_verified": "2026-09-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -256942,7 +256993,7 @@
         "discovered": "2026-09-22",
         "last_verified": "2026-09-23"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
