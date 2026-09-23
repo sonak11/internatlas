@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "goldman-sachs-summer-analyst-intern-the-core-quantitative-strats-2027",
+  "id": "astranis-backend-software-engineer-intern-summer-2027-2027",
   "company": {
-    "name": "Goldman Sachs",
-    "slug": "goldman-sachs"
+    "name": "Astranis",
+    "slug": "astranis"
   },
-  "role": "Summer Analyst Intern - The Core Quantitative Strats",
-  "category": "quant",
-  "apply_url": "https://higher.gs.com/roles/175426?type=students",
+  "role": "Backend Software Engineer Intern - Summer 2027",
+  "category": "software-engineering",
+  "apply_url": "https://job-boards.greenhouse.io/astranis/jobs/4705214006",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "London",
-      "country": "UK"
+      "city": "SF",
+      "country": "USA"
     }
   ],
   "compensation": {
@@ -24,7 +24,9 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "masters"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -39,8 +41,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-15",
-    "discovered": "2026-09-04",
+    "posted": "2026-09-23",
+    "discovered": "2026-09-23",
     "last_verified": "2026-09-23"
   },
   "status": "open",

@@ -1,20 +1,35 @@
 {
   "schema_version": "1.0",
-  "id": "goldman-sachs-summer-analyst-intern-the-core-quantitative-strats-2027",
+  "id": "amazon-quantum-applied-science-intern-quantum-technologies-team-2027",
   "company": {
-    "name": "Goldman Sachs",
-    "slug": "goldman-sachs"
+    "name": "Amazon",
+    "slug": "amazon"
   },
-  "role": "Summer Analyst Intern - The Core Quantitative Strats",
+  "role": "Quantum Applied Science Intern - Quantum Technologies team",
   "category": "quant",
-  "apply_url": "https://higher.gs.com/roles/175426?type=students",
+  "apply_url": "https://amazon.jobs/en/jobs/10556930/2027-quantum-applied-science-internship-quantum-technologies-team",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "London",
-      "country": "UK"
+      "city": "Boston",
+      "state": "MA",
+      "country": "USA"
+    },
+    {
+      "city": "SF",
+      "country": "USA"
+    },
+    {
+      "city": "Pasadena",
+      "state": "CA",
+      "country": "USA"
+    },
+    {
+      "city": "Santa Clara",
+      "state": "CA",
+      "country": "USA"
     }
   ],
   "compensation": {
@@ -24,7 +39,9 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "phd"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -39,8 +56,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-15",
-    "discovered": "2026-09-04",
+    "posted": "2026-09-23",
+    "discovered": "2026-09-23",
     "last_verified": "2026-09-23"
   },
   "status": "open",
