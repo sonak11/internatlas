@@ -1,6 +1,6 @@
 {
   "generated": "2026-09-23",
-  "count": 5132,
+  "count": 5135,
   "internships": [
     {
       "schema_version": "1.0",
@@ -11243,7 +11243,7 @@
         "discovered": "2026-09-01",
         "last_verified": "2026-09-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -23726,7 +23726,7 @@
         "discovered": "2026-09-21",
         "last_verified": "2026-09-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -85285,6 +85285,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "figma-data-engineer-intern-2027-2027",
+      "company": {
+        "name": "Figma",
+        "slug": "figma",
+        "career_page": "https://www.figma.com/careers"
+      },
+      "role": "Data Engineer Intern (2027)",
+      "category": "data-engineering",
+      "apply_url": "https://boards.greenhouse.io/figma/jobs/6178851004?gh_jid=6178851004",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Francisco",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-23",
+        "discovered": "2026-09-23",
+        "last_verified": "2026-09-23"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "figma-data-science-intern-2027-2027",
       "company": {
         "name": "Figma",
@@ -97201,7 +97253,7 @@
         "discovered": "2026-09-08",
         "last_verified": "2026-09-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -110178,10 +110230,6 @@
         {
           "city": "NYC",
           "country": "USA"
-        },
-        {
-          "city": "London",
-          "country": "USA"
         }
       ],
       "compensation": {
@@ -110235,10 +110283,6 @@
         {
           "city": "NYC",
           "country": "USA"
-        },
-        {
-          "city": "London",
-          "country": "USA"
         }
       ],
       "compensation": {
@@ -110275,24 +110319,18 @@
     },
     {
       "schema_version": "1.0",
-      "id": "hudson-river-trading-data-scientist-intern-2027-2027-dcf268",
+      "id": "hudson-river-trading-data-scientist-intern-2027-dcf268",
       "company": {
         "name": "Hudson River Trading",
-        "slug": "hudson-river-trading",
-        "career_page": "https://www.hudsonrivertrading.com/careers"
+        "slug": "hudson-river-trading"
       },
-      "role": "Data Scientist Intern - 2027",
+      "role": "Data Scientist Intern",
       "category": "data-science",
       "apply_url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8222414",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
       "locations": [
-        {
-          "city": "New York",
-          "state": "NY",
-          "country": "USA"
-        },
         {
           "city": "NYC",
           "country": "USA"
@@ -110327,7 +110365,7 @@
       "status": "open",
       "tags": [
         "auto-ingested",
-        "src:ats"
+        "src:simplify"
       ]
     },
     {
@@ -110347,10 +110385,6 @@
         {
           "city": "London",
           "country": "UK"
-        },
-        {
-          "city": "London",
-          "country": "USA"
         }
       ],
       "compensation": {
@@ -110401,11 +110435,6 @@
       "locations": [
         {
           "city": "NYC",
-          "country": "USA"
-        },
-        {
-          "city": "New York",
-          "state": "NY",
           "country": "USA"
         }
       ],
@@ -110685,11 +110714,6 @@
       "locations": [
         {
           "city": "NYC",
-          "country": "USA"
-        },
-        {
-          "city": "New York",
-          "state": "NY",
           "country": "USA"
         }
       ],
@@ -142078,7 +142102,7 @@
         "discovered": "2026-08-29",
         "last_verified": "2026-09-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -182527,7 +182551,7 @@
         "discovered": "2026-09-10",
         "last_verified": "2026-09-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -228668,7 +228692,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-09-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -270001,7 +270025,7 @@
         "discovered": "2026-09-18",
         "last_verified": "2026-09-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -271026,6 +271050,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "waymo-2027-summer-intern-ms-phd-road-understanding-ml-engineer-2027",
+      "company": {
+        "name": "Waymo",
+        "slug": "waymo",
+        "career_page": "https://waymo.com/careers"
+      },
+      "role": "2027 Summer Intern, MS/PhD, Road Understanding, ML Engineer",
+      "category": "machine-learning",
+      "apply_url": "https://careers.withwaymo.com/jobs?gh_jid=8224746",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Mountain View",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-23",
+        "discovered": "2026-09-23",
+        "last_verified": "2026-09-23"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "waymo-2027-summer-intern-ms-phd-sim-realism-ml-infrastructure-2027",
       "company": {
         "name": "Waymo",
@@ -271075,6 +271151,58 @@
       "dates": {
         "posted": "2026-09-18",
         "discovered": "2026-09-18",
+        "last_verified": "2026-09-23"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "waymo-2027-summer-intern-ms-phd-software-engineer-2027",
+      "company": {
+        "name": "Waymo",
+        "slug": "waymo",
+        "career_page": "https://waymo.com/careers"
+      },
+      "role": "2027 Summer Intern, MS/PhD, Software Engineer",
+      "category": "software-engineering",
+      "apply_url": "https://careers.withwaymo.com/jobs?gh_jid=8224729",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Mountain View",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-23",
+        "discovered": "2026-09-23",
         "last_verified": "2026-09-23"
       },
       "status": "open",

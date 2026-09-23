@@ -25,25 +25,25 @@ _Generated 2026-09-23_
 | Coinbase | 35 |
 | Robinhood | 35 |
 | Bank of Montreal | 34 |
+| Waymo | 34 |
 | Zipline | 34 |
 | Navy Federal | 33 |
-| Cloudflare | 32 |
 
 ## Listings by category
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 3046 | `███████████████` |
+| software-engineering | 3047 | `███████████████` |
 | ai | 404 | `██` |
 | quant | 310 | `██` |
-| machine-learning | 220 | `█` |
+| machine-learning | 221 | `█` |
 | data-science | 198 | `█` |
 | hardware | 196 | `█` |
 | product | 168 | `█` |
 | research | 168 | `█` |
 | design | 133 | `█` |
 | embedded | 120 | `█` |
-| data-engineering | 91 | `█` |
+| data-engineering | 92 | `█` |
 | cloud | 56 | `█` |
 | security | 22 | `█` |
 
@@ -68,7 +68,7 @@ _Generated 2026-09-23_
 - 2026-09-23 — **Excellus BCBS**: [College Intern - Research Insights](https://lthc.wd1.myworkdayjobs.com/en-US/ExcellusBCBSCareers/job/Rochester/College-Intern---Summer-2027---Research-Insights_JR104048-2)
 - 2026-09-23 — **Excellus BCBS**: [Healthcare Analytics Intern - Healthcare Analytics](https://lthc.wd1.myworkdayjobs.com/en-US/ExcellusBCBSCareers/job/Rochester/College-Intern---Summer-2027---Healthcare-Analytics_JR104059-2)
 - 2026-09-23 — **Excellus BCBS**: [Software Engineering Intern](https://lthc.wd1.myworkdayjobs.com/en-US/ExcellusBCBSCareers/job/Rochester/College-Intern---Summer-2027---Software-Engineering--Multiple-Openings-Available-_JR104022-1)
-- 2026-09-23 — **Neuberger Berman**: [Quantitative Analyst Intern](https://nb.wd1.myworkdayjobs.com/en-US/NBCareers/job/New-York-NY/Quantitative-2027-Summer-Intern_R0012643)
+- 2026-09-23 — **Figma**: [Data Engineer Intern (2027)](https://boards.greenhouse.io/figma/jobs/6178851004?gh_jid=6178851004)
 
 ## Recently closed
 
@@ -85,6 +85,7 @@ _Generated 2026-09-23_
 - Amazon — Quantum Applied Science Intern - Center for Quantum Computing
 - AMD — Research Engineer Intern/Co-op - AMD Research
 - AMD — Research Engineering Intern/Co-op - AMD Research
+- AMD — Software Engineer Intern/Co-op
 - Anduril — 2027 Hardware Engineer Intern
 - Anduril — 2027 Mechanical Engineer Intern
 - Anduril — 2027 Quality & Test Engineer Intern
@@ -93,6 +94,7 @@ _Generated 2026-09-23_
 - Apex — Ground Software Intern - Spring or Summer 2027
 - AQR Capital Management — Portfolio Solutions Group Summer Analyst Intern - Portfolio Solutions Group
 - AQR Capital Management — Risk Summer Analyst Intern
+- Athene — Operations Reporting & Analytics Intern
 - Athene — Software Developer Intern
 - AtkinsRéalis — Data Scientist Intern - Summer 2027
 - Awardco — Front-End Software Engineer Intern
@@ -212,6 +214,7 @@ _Generated 2026-09-23_
 - Geotab — Hardware Developer Intern
 - Geotab — Insights & Integrations Consultancy Data Scientist Intern
 - Geotab — Product Management Intern - Growth & Marketplace
+- Geotab — Software Developer Intern
 - GlobalFoundries — RF Technology Development Automation Engineer Intern - Summer 2027
 - GlobalFoundries — Silicon Photonics Advanced Packaging Intern
 - GlobalFoundries — Systems Engineer Intern
@@ -276,6 +279,7 @@ _Generated 2026-09-23_
 - Marvell — Test Solutions Engineering Intern - BS - Post-Silicon Hardware Validation
 - Mary Free Bed Rehabilitation Hospital — IT Intern - Project Management
 - Mastercard — Data Engineer Intern
+- Mastercard — Data Scientist Intern - Summer 2027
 - Mastercard — Software Engineer Intern
 - Medline — Software Development Intern - Summer 2027
 - Meta — Research Scientist Intern - AI Alignment
@@ -347,6 +351,7 @@ _Generated 2026-09-23_
 - PricewaterhouseCoopers (PwC) — Connected Physical Products Intern - Summer 2027
 - PricewaterhouseCoopers (PwC) — Tax Innovation Delivery Experience Intern - Multiple Teams
 - PricewaterhouseCoopers (PwC) — Tax Innovation Delivery Experience Intern - Product Management
+- Procter & Gamble — Research and Development PhD Intern - Life Cycle Assessment - Data Science
 - Qorvo — RFIC Design Engineer Intern
 - Qorvo — RFIC Design Intern
 - Resultant — Data & Analytics Consultant Intern - Summer 2027
@@ -461,6 +466,7 @@ _Generated 2026-09-23_
 - Tesla — Data Analytics Intern - People Analytics
 - Tesla — Data Engineer Intern - Cell Engineering
 - Tesla — Electrical Engineer Intern - Electronic Design Engineer - Energy Engineering
+- Tesla — Electronic Design Engineer Intern - Optimus
 - Tesla — Electronics Design Engineer Intern - Reliability Electronics Design Engineer - Energy Engineering
 - Tesla — Failure Analysis Engineer Intern - Failure Analysis Engineer - Energy Engineering
 - Tesla — Mobile App Software Engineer Intern - Mobile Application Software Engineer - Energy Engineering
@@ -515,6 +521,7 @@ _Generated 2026-09-23_
 - Vital Lyfe — Software Engineer Intern
 - WallStreetQuants — Quantitative Trading Intern
 - Walmart — Data Scientist 3 Intern - 2026 Intern Conversion: 2027 FT
+- Watts Water — Product Specialist Intern - Summer 2027
 - Wealthsimple — Credit & Fraud Analytics Intern - Winter 2027
 - Wealthsimple — Software Development Intern / Data Science Intern - Multiple Teams
 - Wells Fargo — Quantitative Analytics Intern - Applied Computational Intelligence
