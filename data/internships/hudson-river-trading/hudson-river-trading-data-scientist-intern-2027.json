@@ -15,6 +15,10 @@
     {
       "city": "London",
       "country": "UK"
+    },
+    {
+      "city": "London",
+      "country": "USA"
     }
   ],
   "compensation": {

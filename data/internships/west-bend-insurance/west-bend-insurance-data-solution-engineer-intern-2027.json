@@ -1,19 +1,25 @@
 {
   "schema_version": "1.0",
-  "id": "goldman-sachs-summer-analyst-intern-2027",
+  "id": "west-bend-insurance-data-solution-engineer-intern-2027",
   "company": {
-    "name": "Goldman Sachs",
-    "slug": "goldman-sachs"
+    "name": "West Bend Insurance",
+    "slug": "west-bend-insurance"
   },
-  "role": "Summer Analyst Intern",
+  "role": "Data Solution Engineer Intern",
   "category": "software-engineering",
-  "apply_url": "https://higher.gs.com/roles/171550?type=students",
+  "apply_url": "https://careers-thesilverlining.icims.com/jobs/3786/job?mobile=true&needsRedirect=false",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "NYC",
+      "city": "Madison",
+      "state": "WI",
+      "country": "USA"
+    },
+    {
+      "city": "West Bend",
+      "state": "WI",
       "country": "USA"
     }
   ],
@@ -39,11 +45,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-15",
-    "discovered": "2026-09-04",
+    "posted": "2026-09-23",
+    "discovered": "2026-09-23",
     "last_verified": "2026-09-23"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

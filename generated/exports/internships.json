@@ -1,6 +1,6 @@
 {
   "generated": "2026-09-23",
-  "count": 5135,
+  "count": 5144,
   "internships": [
     {
       "schema_version": "1.0",
@@ -259,7 +259,7 @@
         "discovered": "2026-09-08",
         "last_verified": "2026-09-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -26960,9 +26960,9 @@
       "dates": {
         "posted": "2026-08-07",
         "discovered": "2026-08-07",
-        "last_verified": "2026-08-25"
+        "last_verified": "2026-09-23"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -36363,7 +36363,7 @@
         "discovered": "2026-09-21",
         "last_verified": "2026-09-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -45768,7 +45768,7 @@
         "discovered": "2026-09-23",
         "last_verified": "2026-09-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -56135,7 +56135,7 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-09-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -62677,7 +62677,7 @@
         "discovered": "2026-09-16",
         "last_verified": "2026-09-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -80424,6 +80424,120 @@
     },
     {
       "schema_version": "1.0",
+      "id": "ernst-young-assurance-intern-data-and-intelligence-delivery-2027",
+      "company": {
+        "name": "Ernst & Young",
+        "slug": "ernst-young"
+      },
+      "role": "Assurance Intern - Data and Intelligence Delivery",
+      "category": "software-engineering",
+      "apply_url": "https://eyglobal.yello.co/jobs/b62Iqxo_xKj_eGnRD4WuOw?job_board_id=c1riT--B2O-KySgYWsZO1Q",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Salt Lake City",
+          "state": "UT",
+          "country": "USA"
+        },
+        {
+          "city": "Indianapolis",
+          "state": "IN",
+          "country": "USA"
+        },
+        {
+          "city": "Houston",
+          "state": "TX",
+          "country": "USA"
+        },
+        {
+          "city": "Des Moines",
+          "state": "IA",
+          "country": "USA"
+        },
+        {
+          "city": "Detroit",
+          "state": "MI",
+          "country": "USA"
+        },
+        {
+          "city": "Tampa",
+          "state": "FL",
+          "country": "USA"
+        },
+        {
+          "city": "Dallas",
+          "state": "TX",
+          "country": "USA"
+        },
+        {
+          "city": "Greenville",
+          "state": "SC",
+          "country": "USA"
+        },
+        {
+          "city": "St. Louis",
+          "state": "MO",
+          "country": "USA"
+        },
+        {
+          "city": "Alpharetta",
+          "state": "GA",
+          "country": "USA"
+        },
+        {
+          "city": "Phoenix",
+          "state": "AZ",
+          "country": "USA"
+        },
+        {
+          "city": "Atlanta",
+          "state": "GA",
+          "country": "USA"
+        },
+        {
+          "city": "Grandview Heights",
+          "state": "OH",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-23",
+        "discovered": "2026-09-23",
+        "last_verified": "2026-09-23"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "ernst-young-data-and-intelligence-delivery-intern-assurance-2027",
       "company": {
         "name": "Ernst & Young",
@@ -81857,7 +81971,7 @@
         "discovered": "2026-08-20",
         "last_verified": "2026-09-23"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -94806,6 +94920,60 @@
     },
     {
       "schema_version": "1.0",
+      "id": "general-dynamics-information-technology-software-development-intern-2027-8c7786",
+      "company": {
+        "name": "General Dynamics Information Technology",
+        "slug": "general-dynamics-information-technology"
+      },
+      "role": "Software Development Intern",
+      "category": "software-engineering",
+      "apply_url": "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-Software-Development-Internship_RQ228931-2",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Bossier City",
+          "state": "LA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-23",
+        "discovered": "2026-09-23",
+        "last_verified": "2026-09-23"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "general-dynamics-information-technology-software-development-intern-2027-cbf46f",
       "company": {
         "name": "General Dynamics Information Technology",
@@ -95788,7 +95956,7 @@
         "discovered": "2026-09-19",
         "last_verified": "2026-09-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -98380,7 +98548,7 @@
         "discovered": "2026-08-27",
         "last_verified": "2026-09-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -98485,7 +98653,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-09-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -98538,7 +98706,7 @@
         "discovered": "2026-09-22",
         "last_verified": "2026-09-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -98591,7 +98759,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-09-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -98643,7 +98811,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -98695,7 +98863,7 @@
         "discovered": "2026-09-21",
         "last_verified": "2026-09-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -98749,7 +98917,7 @@
         "discovered": "2026-09-16",
         "last_verified": "2026-09-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -98802,7 +98970,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -98817,14 +98985,15 @@
       },
       "role": "Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats",
       "category": "quant",
-      "apply_url": "https://higher.gs.com/roles/175421?type=students",
+      "apply_url": "https://higher.gs.com/roles/171549?type=students",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
       "locations": [
         {
-          "city": "London",
-          "country": "UK"
+          "city": "Salt Lake City",
+          "state": "UT",
+          "country": "USA"
         }
       ],
       "compensation": {
@@ -98906,7 +99075,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -98957,7 +99126,7 @@
         "discovered": "2026-09-22",
         "last_verified": "2026-09-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -99008,7 +99177,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-09-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -99060,7 +99229,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -99111,7 +99280,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -99267,7 +99436,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -99318,7 +99487,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -99371,7 +99540,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-23"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -99422,7 +99591,7 @@
         "discovered": "2026-09-23",
         "last_verified": "2026-09-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -99476,7 +99645,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -99491,14 +99660,15 @@
       },
       "role": "Summer Analyst Intern - Engineering",
       "category": "software-engineering",
-      "apply_url": "https://higher.gs.com/roles/170637?type=students",
+      "apply_url": "https://higher.gs.com/roles/177808?type=students",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
       "locations": [
         {
-          "city": "Birmingham",
-          "country": "UK"
+          "city": "Seattle",
+          "state": "WA",
+          "country": "USA"
         }
       ],
       "compensation": {
@@ -99583,7 +99753,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-09-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -99685,7 +99855,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -99840,7 +100010,7 @@
         "discovered": "2026-08-29",
         "last_verified": "2026-09-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -99893,7 +100063,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-09-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -108128,6 +108298,57 @@
     },
     {
       "schema_version": "1.0",
+      "id": "hitachi-energy-electrical-component-engineering-intern-2026",
+      "company": {
+        "name": "Hitachi Energy",
+        "slug": "hitachi-energy"
+      },
+      "role": "Electrical Component Engineering Intern",
+      "category": "software-engineering",
+      "apply_url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Electrical-Component-Engineering-Intern--Fall-2026-or-Winter-2027-_R0144279",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Toronto",
+          "country": "ON"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-23",
+        "discovered": "2026-09-23",
+        "last_verified": "2026-09-23"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "hitachi-energy-engineering-knowledge-management-intern-8-months-2026",
       "company": {
         "name": "Hitachi Energy",
@@ -110230,6 +110451,10 @@
         {
           "city": "NYC",
           "country": "USA"
+        },
+        {
+          "city": "London",
+          "country": "USA"
         }
       ],
       "compensation": {
@@ -110283,6 +110508,10 @@
         {
           "city": "NYC",
           "country": "USA"
+        },
+        {
+          "city": "London",
+          "country": "USA"
         }
       ],
       "compensation": {
@@ -110319,18 +110548,24 @@
     },
     {
       "schema_version": "1.0",
-      "id": "hudson-river-trading-data-scientist-intern-2027-dcf268",
+      "id": "hudson-river-trading-data-scientist-intern-2027-2027-dcf268",
       "company": {
         "name": "Hudson River Trading",
-        "slug": "hudson-river-trading"
+        "slug": "hudson-river-trading",
+        "career_page": "https://www.hudsonrivertrading.com/careers"
       },
-      "role": "Data Scientist Intern",
+      "role": "Data Scientist Intern - 2027",
       "category": "data-science",
       "apply_url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8222414",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
       "locations": [
+        {
+          "city": "New York",
+          "state": "NY",
+          "country": "USA"
+        },
         {
           "city": "NYC",
           "country": "USA"
@@ -110365,7 +110600,7 @@
       "status": "open",
       "tags": [
         "auto-ingested",
-        "src:simplify"
+        "src:ats"
       ]
     },
     {
@@ -110385,6 +110620,10 @@
         {
           "city": "London",
           "country": "UK"
+        },
+        {
+          "city": "London",
+          "country": "USA"
         }
       ],
       "compensation": {
@@ -110435,6 +110674,11 @@
       "locations": [
         {
           "city": "NYC",
+          "country": "USA"
+        },
+        {
+          "city": "New York",
+          "state": "NY",
           "country": "USA"
         }
       ],
@@ -110714,6 +110958,11 @@
       "locations": [
         {
           "city": "NYC",
+          "country": "USA"
+        },
+        {
+          "city": "New York",
+          "state": "NY",
           "country": "USA"
         }
       ],
@@ -113252,7 +113501,7 @@
       },
       "role": "Hardware Machine Learning PhD Research Internship",
       "category": "machine-learning",
-      "apply_url": "https://job-boards.eu.greenhouse.io/imc/jobs/4829785101",
+      "apply_url": "https://job-boards.eu.greenhouse.io/imc/jobs/4975945101",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
@@ -113284,11 +113533,11 @@
         "resume_keywords": []
       },
       "dates": {
-        "posted": "2026-04-16",
+        "posted": "2026-09-23",
         "discovered": "2026-07-18",
-        "last_verified": "2026-08-18"
+        "last_verified": "2026-09-23"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:ats"
@@ -130352,7 +130601,7 @@
         "discovered": "2026-08-26",
         "last_verified": "2026-09-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -138211,7 +138460,7 @@
         "discovered": "2026-08-21",
         "last_verified": "2026-09-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -147549,7 +147798,7 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-09-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -149129,6 +149378,61 @@
         "last_verified": "2026-09-20"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "microsoft-product-manager-intern-2027-7ea818",
+      "company": {
+        "name": "Microsoft",
+        "slug": "microsoft"
+      },
+      "role": "Product Manager Intern",
+      "category": "product",
+      "apply_url": "https://apply.careers.microsoft.com/careers/job/1970393557004836",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Mountain View",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters",
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-23",
+        "discovered": "2026-09-23",
+        "last_verified": "2026-09-23"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -155262,9 +155566,9 @@
       "dates": {
         "posted": "2026-09-04",
         "discovered": "2026-09-04",
-        "last_verified": "2026-09-21"
+        "last_verified": "2026-09-23"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -190213,6 +190517,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "resultant-data-analytics-consultant-intern-summer-2027-2027-1c400a",
+      "company": {
+        "name": "Resultant",
+        "slug": "resultant"
+      },
+      "role": "Data & Analytics Consultant Intern - Summer 2027",
+      "category": "software-engineering",
+      "apply_url": "https://jobs.smartrecruiters.com/Resultant/744000151474767",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Chicago",
+          "state": "IL",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-23",
+        "discovered": "2026-09-23",
+        "last_verified": "2026-09-23"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "resultant-data-analytics-consultant-intern-summer-2027-2027-cb6f28",
       "company": {
         "name": "Resultant",
@@ -190258,6 +190614,58 @@
         "last_verified": "2026-09-22"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "resultant-data-analytics-consultant-intern-summer-2027-2027-f9149b",
+      "company": {
+        "name": "Resultant",
+        "slug": "resultant"
+      },
+      "role": "Data & Analytics Consultant Intern - Summer 2027",
+      "category": "software-engineering",
+      "apply_url": "https://jobs.smartrecruiters.com/Resultant/744000151474719",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Indianapolis",
+          "state": "IN",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-23",
+        "discovered": "2026-09-23",
+        "last_verified": "2026-09-23"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -203187,9 +203595,9 @@
       "dates": {
         "posted": "2026-09-15",
         "discovered": "2026-09-16",
-        "last_verified": "2026-09-21"
+        "last_verified": "2026-09-23"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -218249,6 +218657,73 @@
         "last_verified": "2026-09-19"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "state-farm-software-developer-intern-hr-d-2027",
+      "company": {
+        "name": "State Farm",
+        "slug": "state-farm"
+      },
+      "role": "Software Developer Intern - HR&D",
+      "category": "software-engineering",
+      "apply_url": "https://jobs.statefarm.com/jobs/45689?icims=1",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Tempe",
+          "state": "AZ",
+          "country": "USA"
+        },
+        {
+          "city": "Dunwoody",
+          "state": "GA",
+          "country": "USA"
+        },
+        {
+          "city": "Richardson",
+          "state": "TX",
+          "country": "USA"
+        },
+        {
+          "city": "Bloomington",
+          "state": "IL",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-23",
+        "discovered": "2026-09-23",
+        "last_verified": "2026-09-23"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -255909,14 +256384,14 @@
         "resume_keywords": []
       },
       "dates": {
-        "posted": "2026-08-14",
+        "posted": "2026-08-21",
         "discovered": "2026-08-14",
         "last_verified": "2026-09-23"
       },
       "status": "open",
       "tags": [
         "auto-ingested",
-        "src:simplify"
+        "src:vanshb03"
       ]
     },
     {
@@ -258001,7 +258476,7 @@
         "discovered": "2026-09-22",
         "last_verified": "2026-09-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -273120,6 +273595,120 @@
     },
     {
       "schema_version": "1.0",
+      "id": "west-bend-insurance-data-scientist-intern-2027",
+      "company": {
+        "name": "West Bend Insurance",
+        "slug": "west-bend-insurance"
+      },
+      "role": "Data Scientist Intern",
+      "category": "data-science",
+      "apply_url": "https://careers-thesilverlining.icims.com/jobs/3785/job?mobile=true&needsRedirect=false",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Madison",
+          "state": "WI",
+          "country": "USA"
+        },
+        {
+          "city": "West Bend",
+          "state": "WI",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-23",
+        "discovered": "2026-09-23",
+        "last_verified": "2026-09-23"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "west-bend-insurance-data-solution-engineer-intern-2027",
+      "company": {
+        "name": "West Bend Insurance",
+        "slug": "west-bend-insurance"
+      },
+      "role": "Data Solution Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://careers-thesilverlining.icims.com/jobs/3786/job?mobile=true&needsRedirect=false",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Madison",
+          "state": "WI",
+          "country": "USA"
+        },
+        {
+          "city": "West Bend",
+          "state": "WI",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-23",
+        "discovered": "2026-09-23",
+        "last_verified": "2026-09-23"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "west-bend-insurance-it-data-engineer-intern-2027",
       "company": {
         "name": "West Bend Insurance",
@@ -274328,7 +274917,7 @@
         "discovered": "2026-09-14",
         "last_verified": "2026-09-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -274376,7 +274965,7 @@
         "discovered": "2026-09-14",
         "last_verified": "2026-09-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
