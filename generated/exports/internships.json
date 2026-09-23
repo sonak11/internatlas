@@ -1,6 +1,6 @@
 {
   "generated": "2026-09-23",
-  "count": 5116,
+  "count": 5132,
   "internships": [
     {
       "schema_version": "1.0",
@@ -30585,6 +30585,60 @@
     },
     {
       "schema_version": "1.0",
+      "id": "bedrock-robotics-evaluation-engineer-intern-metric-prototyping-2027",
+      "company": {
+        "name": "Bedrock Robotics",
+        "slug": "bedrock-robotics"
+      },
+      "role": "Evaluation Engineer Intern - Metric Prototyping",
+      "category": "software-engineering",
+      "apply_url": "https://jobs.ashbyhq.com/bedrock-robotics/07b55743-d5c4-4347-bfac-000821317b13/application?embed=true",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "SF",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters",
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-23",
+        "discovered": "2026-09-23",
+        "last_verified": "2026-09-23"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "bedrock-robotics-hardware-engineer-intern-2027",
       "company": {
         "name": "Bedrock Robotics",
@@ -45391,6 +45445,63 @@
     },
     {
       "schema_version": "1.0",
+      "id": "caci-ai-systems-engineer-intern-summer-2027-2027",
+      "company": {
+        "name": "CACI",
+        "slug": "caci"
+      },
+      "role": "AI Systems Engineer Intern - Summer 2027",
+      "category": "ai",
+      "apply_url": "https://caci.wd1.myworkdayjobs.com/external/job/Annapolis-Junction-MD-US/AI-Systems-Engineering-Intern----Summer-2027_332506",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Annapolis Junction",
+          "state": "MD",
+          "country": "USA"
+        },
+        {
+          "city": "Fort Meade",
+          "state": "MD",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-23",
+        "discovered": "2026-09-23",
+        "last_verified": "2026-09-23"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "caci-gmu-scholar-program-intern-2027",
       "company": {
         "name": "CACI",
@@ -45603,7 +45714,7 @@
         "discovered": "2026-09-10",
         "last_verified": "2026-09-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -45763,6 +45874,60 @@
       "dates": {
         "posted": "2026-09-09",
         "discovered": "2026-09-14",
+        "last_verified": "2026-09-23"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "caci-software-engineer-intern-summer-2027-2027-e2843f",
+      "company": {
+        "name": "CACI",
+        "slug": "caci"
+      },
+      "role": "Software Engineer Intern - Summer 2027",
+      "category": "software-engineering",
+      "apply_url": "https://caci.wd1.myworkdayjobs.com/external/job/Sterling-VA-US/Software-Engineering-Intern---Summer-2027_332372",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Sterling",
+          "state": "VA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-23",
+        "discovered": "2026-09-23",
         "last_verified": "2026-09-23"
       },
       "status": "open",
@@ -60630,7 +60795,7 @@
         "discovered": "2026-09-17",
         "last_verified": "2026-09-23"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -78320,6 +78485,108 @@
     },
     {
       "schema_version": "1.0",
+      "id": "entrust-software-development-intern-2027",
+      "company": {
+        "name": "Entrust",
+        "slug": "entrust"
+      },
+      "role": "Software Development Intern",
+      "category": "software-engineering",
+      "apply_url": "https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/Canada---Ottawa/XMLNAME--Intern---Software-Development----8-months---Hybrid-Ottawa_R004359",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Ottawa",
+          "country": "ON"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-23",
+        "discovered": "2026-09-23",
+        "last_verified": "2026-09-23"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "entrust-software-development-intern-citizen-remote-identity-verifica-2027",
+      "company": {
+        "name": "Entrust",
+        "slug": "entrust"
+      },
+      "role": "Software Development Intern - Citizen Remote Identity Verification",
+      "category": "software-engineering",
+      "apply_url": "https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/Canada---Ottawa/Intern--Software-Development---Hybrid-in-Ottawa_R004360",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Ottawa",
+          "country": "ON"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-23",
+        "discovered": "2026-09-23",
+        "last_verified": "2026-09-23"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "environmental-defense-fund-climate-health-intern-2026",
       "company": {
         "name": "Environmental Defense Fund",
@@ -81936,6 +82203,468 @@
     },
     {
       "schema_version": "1.0",
+      "id": "excellus-bcbs-college-intern-data-governance-ai-governance-2027",
+      "company": {
+        "name": "Excellus BCBS",
+        "slug": "excellus-bcbs"
+      },
+      "role": "College Intern - Data Governance & AI Governance",
+      "category": "ai",
+      "apply_url": "https://lthc.wd1.myworkdayjobs.com/en-US/ExcellusBCBSCareers/job/Rochester/College-Intern---Summer-2027---Data-Governance---AI-Governance_JR104033-1",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Rochester",
+          "state": "NY",
+          "country": "USA"
+        },
+        {
+          "city": "De Witt",
+          "state": "NY",
+          "country": "USA"
+        },
+        {
+          "city": "Utica",
+          "state": "NY",
+          "country": "USA"
+        },
+        {
+          "city": "Albany",
+          "state": "NY",
+          "country": "USA"
+        },
+        {
+          "city": "Binghamton",
+          "state": "NY",
+          "country": "USA"
+        },
+        {
+          "city": "Buffalo",
+          "state": "NY",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-23",
+        "discovered": "2026-09-23",
+        "last_verified": "2026-09-23"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "excellus-bcbs-college-intern-digital-analytics-2027",
+      "company": {
+        "name": "Excellus BCBS",
+        "slug": "excellus-bcbs"
+      },
+      "role": "College Intern - Digital Analytics",
+      "category": "software-engineering",
+      "apply_url": "https://lthc.wd1.myworkdayjobs.com/en-US/ExcellusBCBSCareers/job/Rochester/College-Intern---Summer-2027---Digital-Analytics_JR104050-2",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Rochester",
+          "state": "NY",
+          "country": "USA"
+        },
+        {
+          "city": "De Witt",
+          "state": "NY",
+          "country": "USA"
+        },
+        {
+          "city": "Utica",
+          "state": "NY",
+          "country": "USA"
+        },
+        {
+          "city": "Albany",
+          "state": "NY",
+          "country": "USA"
+        },
+        {
+          "city": "Binghamton",
+          "state": "NY",
+          "country": "USA"
+        },
+        {
+          "city": "Buffalo",
+          "state": "NY",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-23",
+        "discovered": "2026-09-23",
+        "last_verified": "2026-09-23"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "excellus-bcbs-college-intern-healthcare-statistical-analytics-2027",
+      "company": {
+        "name": "Excellus BCBS",
+        "slug": "excellus-bcbs"
+      },
+      "role": "College Intern - Healthcare Statistical Analytics",
+      "category": "software-engineering",
+      "apply_url": "https://lthc.wd1.myworkdayjobs.com/en-US/ExcellusBCBSCareers/job/Rochester/College-Intern---Summer-2027---Healthcare-Statistical-Analytics_JR104054-1",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Rochester",
+          "state": "NY",
+          "country": "USA"
+        },
+        {
+          "city": "De Witt",
+          "state": "NY",
+          "country": "USA"
+        },
+        {
+          "city": "Utica",
+          "state": "NY",
+          "country": "USA"
+        },
+        {
+          "city": "Albany",
+          "state": "NY",
+          "country": "USA"
+        },
+        {
+          "city": "Binghamton",
+          "state": "NY",
+          "country": "USA"
+        },
+        {
+          "city": "Buffalo",
+          "state": "NY",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-23",
+        "discovered": "2026-09-23",
+        "last_verified": "2026-09-23"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "excellus-bcbs-college-intern-mobile-software-engineering-team-2027",
+      "company": {
+        "name": "Excellus BCBS",
+        "slug": "excellus-bcbs"
+      },
+      "role": "College Intern - Mobile Software Engineering Team",
+      "category": "software-engineering",
+      "apply_url": "https://lthc.wd1.myworkdayjobs.com/en-US/ExcellusBCBSCareers/job/Rochester/College-Intern---Summer-2027---Mobile-Software-Engineering-Team_JR104025-3",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Rochester",
+          "state": "NY",
+          "country": "USA"
+        },
+        {
+          "city": "De Witt",
+          "state": "NY",
+          "country": "USA"
+        },
+        {
+          "city": "Utica",
+          "state": "NY",
+          "country": "USA"
+        },
+        {
+          "city": "Albany",
+          "state": "NY",
+          "country": "USA"
+        },
+        {
+          "city": "Binghamton",
+          "state": "NY",
+          "country": "USA"
+        },
+        {
+          "city": "Buffalo",
+          "state": "NY",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-23",
+        "discovered": "2026-09-23",
+        "last_verified": "2026-09-23"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "excellus-bcbs-college-intern-records-and-information-management-2027",
+      "company": {
+        "name": "Excellus BCBS",
+        "slug": "excellus-bcbs"
+      },
+      "role": "College Intern - Records and Information Management",
+      "category": "software-engineering",
+      "apply_url": "https://lthc.wd1.myworkdayjobs.com/en-US/ExcellusBCBSCareers/job/Rochester/College-Intern---Summer-2027---Records-and-Information-Management_JR104030-2",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Rochester",
+          "state": "NY",
+          "country": "USA"
+        },
+        {
+          "city": "De Witt",
+          "state": "NY",
+          "country": "USA"
+        },
+        {
+          "city": "Utica",
+          "state": "NY",
+          "country": "USA"
+        },
+        {
+          "city": "Albany",
+          "state": "NY",
+          "country": "USA"
+        },
+        {
+          "city": "Binghamton",
+          "state": "NY",
+          "country": "USA"
+        },
+        {
+          "city": "Buffalo",
+          "state": "NY",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-23",
+        "discovered": "2026-09-23",
+        "last_verified": "2026-09-23"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "excellus-bcbs-college-intern-research-insights-2027",
+      "company": {
+        "name": "Excellus BCBS",
+        "slug": "excellus-bcbs"
+      },
+      "role": "College Intern - Research Insights",
+      "category": "research",
+      "apply_url": "https://lthc.wd1.myworkdayjobs.com/en-US/ExcellusBCBSCareers/job/Rochester/College-Intern---Summer-2027---Research-Insights_JR104048-2",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Rochester",
+          "state": "NY",
+          "country": "USA"
+        },
+        {
+          "city": "De Witt",
+          "state": "NY",
+          "country": "USA"
+        },
+        {
+          "city": "Utica",
+          "state": "NY",
+          "country": "USA"
+        },
+        {
+          "city": "Albany",
+          "state": "NY",
+          "country": "USA"
+        },
+        {
+          "city": "Binghamton",
+          "state": "NY",
+          "country": "USA"
+        },
+        {
+          "city": "Buffalo",
+          "state": "NY",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-23",
+        "discovered": "2026-09-23",
+        "last_verified": "2026-09-23"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "excellus-bcbs-community-impact-intern-2026",
       "company": {
         "name": "Excellus BCBS",
@@ -81981,6 +82710,162 @@
         "last_verified": "2026-09-03"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "excellus-bcbs-healthcare-analytics-intern-healthcare-analytics-2027",
+      "company": {
+        "name": "Excellus BCBS",
+        "slug": "excellus-bcbs"
+      },
+      "role": "Healthcare Analytics Intern - Healthcare Analytics",
+      "category": "software-engineering",
+      "apply_url": "https://lthc.wd1.myworkdayjobs.com/en-US/ExcellusBCBSCareers/job/Rochester/College-Intern---Summer-2027---Healthcare-Analytics_JR104059-2",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Rochester",
+          "state": "NY",
+          "country": "USA"
+        },
+        {
+          "city": "De Witt",
+          "state": "NY",
+          "country": "USA"
+        },
+        {
+          "city": "Utica",
+          "state": "NY",
+          "country": "USA"
+        },
+        {
+          "city": "Albany",
+          "state": "NY",
+          "country": "USA"
+        },
+        {
+          "city": "Binghamton",
+          "state": "NY",
+          "country": "USA"
+        },
+        {
+          "city": "Buffalo",
+          "state": "NY",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-23",
+        "discovered": "2026-09-23",
+        "last_verified": "2026-09-23"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "excellus-bcbs-software-engineering-intern-2027",
+      "company": {
+        "name": "Excellus BCBS",
+        "slug": "excellus-bcbs"
+      },
+      "role": "Software Engineering Intern",
+      "category": "software-engineering",
+      "apply_url": "https://lthc.wd1.myworkdayjobs.com/en-US/ExcellusBCBSCareers/job/Rochester/College-Intern---Summer-2027---Software-Engineering--Multiple-Openings-Available-_JR104022-1",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Rochester",
+          "state": "NY",
+          "country": "USA"
+        },
+        {
+          "city": "De Witt",
+          "state": "NY",
+          "country": "USA"
+        },
+        {
+          "city": "Utica",
+          "state": "NY",
+          "country": "USA"
+        },
+        {
+          "city": "Albany",
+          "state": "NY",
+          "country": "USA"
+        },
+        {
+          "city": "Binghamton",
+          "state": "NY",
+          "country": "USA"
+        },
+        {
+          "city": "Buffalo",
+          "state": "NY",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-23",
+        "discovered": "2026-09-23",
+        "last_verified": "2026-09-23"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -89380,6 +90265,57 @@
       "dates": {
         "posted": "2026-09-21",
         "discovered": "2026-09-21",
+        "last_verified": "2026-09-23"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "g2-ai-agent-evaluations-intern-2026",
+      "company": {
+        "name": "G2",
+        "slug": "g2"
+      },
+      "role": "AI Agent Evaluations Intern",
+      "category": "ai",
+      "apply_url": "https://jobs.ashbyhq.com/G2/64dcc04a-a0e7-493b-b899-dd4c56e561fd/application?embed=true",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "SF",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-21",
+        "discovered": "2026-09-23",
         "last_verified": "2026-09-23"
       },
       "status": "open",
@@ -97392,7 +98328,7 @@
         "discovered": "2026-08-27",
         "last_verified": "2026-09-23"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -97497,7 +98433,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-09-23"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -97550,7 +98486,7 @@
         "discovered": "2026-09-22",
         "last_verified": "2026-09-23"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -97603,7 +98539,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-09-23"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -97655,7 +98591,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-23"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -97707,7 +98643,7 @@
         "discovered": "2026-09-21",
         "last_verified": "2026-09-23"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -97761,7 +98697,7 @@
         "discovered": "2026-09-16",
         "last_verified": "2026-09-23"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -97814,58 +98750,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-23"
       },
-      "status": "closed",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "goldman-sachs-quantitative-strategist-intern-asset-and-wealth-management-q-2027-0ac951",
-      "company": {
-        "name": "Goldman Sachs",
-        "slug": "goldman-sachs"
-      },
-      "role": "Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats",
-      "category": "quant",
-      "apply_url": "https://higher.gs.com/roles/175421?type=students",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "London",
-          "country": "UK"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-08-15",
-        "discovered": "2026-09-22",
-        "last_verified": "2026-09-23"
-      },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -97880,15 +98765,14 @@
       },
       "role": "Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats",
       "category": "quant",
-      "apply_url": "https://higher.gs.com/roles/171549?type=students",
+      "apply_url": "https://higher.gs.com/roles/175421?type=students",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
       "locations": [
         {
-          "city": "Salt Lake City",
-          "state": "UT",
-          "country": "USA"
+          "city": "London",
+          "country": "UK"
         }
       ],
       "compensation": {
@@ -97970,7 +98854,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-23"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -98021,7 +98905,7 @@
         "discovered": "2026-09-22",
         "last_verified": "2026-09-23"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -98072,7 +98956,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-09-23"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -98124,7 +99008,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-23"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -98175,7 +99059,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-23"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -98331,7 +99215,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-23"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -98382,7 +99266,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-23"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -98433,6 +99317,57 @@
       "dates": {
         "posted": "2026-08-15",
         "discovered": "2026-09-04",
+        "last_verified": "2026-09-23"
+      },
+      "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "goldman-sachs-summer-analyst-intern-engineering-2027-324b6c",
+      "company": {
+        "name": "Goldman Sachs",
+        "slug": "goldman-sachs"
+      },
+      "role": "Summer Analyst Intern - Engineering",
+      "category": "software-engineering",
+      "apply_url": "https://higher.gs.com/roles/170644?type=students",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "London",
+          "country": "UK"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-15",
+        "discovered": "2026-09-23",
         "last_verified": "2026-09-23"
       },
       "status": "open",
@@ -98489,7 +99424,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-23"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -98504,15 +99439,14 @@
       },
       "role": "Summer Analyst Intern - Engineering",
       "category": "software-engineering",
-      "apply_url": "https://higher.gs.com/roles/177808?type=students",
+      "apply_url": "https://higher.gs.com/roles/170637?type=students",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
       "locations": [
         {
-          "city": "Seattle",
-          "state": "WA",
-          "country": "USA"
+          "city": "Birmingham",
+          "country": "UK"
         }
       ],
       "compensation": {
@@ -98597,7 +99531,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-09-23"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -98699,7 +99633,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-23"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -98854,7 +99788,7 @@
         "discovered": "2026-08-29",
         "last_verified": "2026-09-23"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -98907,7 +99841,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-09-23"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -127387,7 +128321,7 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-09-23"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -137194,9 +138128,9 @@
       "dates": {
         "posted": "2026-07-30",
         "discovered": "2026-09-03",
-        "last_verified": "2026-09-08"
+        "last_verified": "2026-09-23"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -140988,7 +141922,7 @@
         "discovered": "2026-08-29",
         "last_verified": "2026-09-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -157884,6 +158818,59 @@
     },
     {
       "schema_version": "1.0",
+      "id": "neuberger-berman-quantitative-analyst-intern-2027",
+      "company": {
+        "name": "Neuberger Berman",
+        "slug": "neuberger-berman"
+      },
+      "role": "Quantitative Analyst Intern",
+      "category": "quant",
+      "apply_url": "https://nb.wd1.myworkdayjobs.com/en-US/NBCareers/job/New-York-NY/Quantitative-2027-Summer-Intern_R0012643",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "NYC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-23",
+        "discovered": "2026-09-23",
+        "last_verified": "2026-09-23"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "neuralink-analog-and-mixed-signal-ic-design-engineer-intern-2026",
       "company": {
         "name": "Neuralink",
@@ -163836,7 +164823,7 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-09-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -178108,7 +179095,7 @@
         "discovered": "2026-09-16",
         "last_verified": "2026-09-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -203045,61 +204032,6 @@
     },
     {
       "schema_version": "1.0",
-      "id": "rtx-software-engineer-intern-2027-e29389",
-      "company": {
-        "name": "RTX",
-        "slug": "rtx"
-      },
-      "role": "Software Engineer Intern",
-      "category": "software-engineering",
-      "apply_url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-CAMBRIDGE-BBN06--10--50-Moulton-St--MOULTON-B6/Software-Engineer-Intern--Summer-2027----Onsite_01873017",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Cambridge",
-          "state": "MA",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [
-          "masters",
-          "phd"
-        ],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-09-19",
-        "discovered": "2026-09-20",
-        "last_verified": "2026-09-23"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
       "id": "rtx-software-engineer-intern-2027-e4a660",
       "company": {
         "name": "RTX",
@@ -203321,14 +204253,14 @@
       },
       "role": "Software Engineer Intern",
       "category": "software-engineering",
-      "apply_url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/Software-Engineering-Intern--Summer-2027-_01870410",
+      "apply_url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-CAMBRIDGE-BBN06--10--50-Moulton-St--MOULTON-B6/Software-Engineer-Intern--Summer-2027----Onsite_01873017",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
       "locations": [
         {
-          "city": "Aurora",
-          "state": "CO",
+          "city": "Cambridge",
+          "state": "MA",
           "country": "USA"
         }
       ],
@@ -203356,7 +204288,7 @@
         "resume_keywords": []
       },
       "dates": {
-        "posted": "2026-08-31",
+        "posted": "2026-09-19",
         "discovered": "2026-07-27",
         "last_verified": "2026-09-23"
       },
@@ -237654,6 +238586,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "the-federal-reserve-system-research-business-survey-intern-2027",
+      "company": {
+        "name": "The Federal Reserve System",
+        "slug": "the-federal-reserve-system"
+      },
+      "role": "Research Business Survey Intern",
+      "category": "research",
+      "apply_url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Richmond-VA/Federal-Reserve-Summer-2027-Research-Business-Survey-Internship_R-0000033218",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Richmond",
+          "state": "VA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-23",
+        "discovered": "2026-09-23",
+        "last_verified": "2026-09-23"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "the-federal-reserve-system-research-intern-research-group-2027",
       "company": {
         "name": "The Federal Reserve System",
@@ -253572,7 +254556,7 @@
         "discovered": "2026-09-18",
         "last_verified": "2026-09-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -277220,6 +278204,59 @@
         "last_verified": "2026-09-03"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "zipline-autonomy-intern-2027",
+      "company": {
+        "name": "Zipline",
+        "slug": "zipline"
+      },
+      "role": "Autonomy Intern",
+      "category": "software-engineering",
+      "apply_url": "https://www.zipline.com/open-roles/8002829003?gh_jid=8002829003",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "South SF",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-23",
+        "discovered": "2026-09-23",
+        "last_verified": "2026-09-23"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"

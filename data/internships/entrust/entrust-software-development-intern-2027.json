@@ -1,21 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "rtx-software-engineer-intern-2027-e29389",
+  "id": "entrust-software-development-intern-2027",
   "company": {
-    "name": "RTX",
-    "slug": "rtx"
+    "name": "Entrust",
+    "slug": "entrust"
   },
-  "role": "Software Engineer Intern",
+  "role": "Software Development Intern",
   "category": "software-engineering",
-  "apply_url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-CAMBRIDGE-BBN06--10--50-Moulton-St--MOULTON-B6/Software-Engineer-Intern--Summer-2027----Onsite_01873017",
-  "season": "summer",
+  "apply_url": "https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/Canada---Ottawa/XMLNAME--Intern---Software-Development----8-months---Hybrid-Ottawa_R004359",
+  "season": "winter",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Cambridge",
-      "state": "MA",
-      "country": "USA"
+      "city": "Ottawa",
+      "country": "ON"
     }
   ],
   "compensation": {
@@ -25,10 +24,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters",
-      "phd"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -43,8 +39,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-19",
-    "discovered": "2026-09-20",
+    "posted": "2026-09-23",
+    "discovered": "2026-09-23",
     "last_verified": "2026-09-23"
   },
   "status": "open",

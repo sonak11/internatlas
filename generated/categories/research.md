@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🔬 Research Internships
 
-**166** tracked · **87** open now
+**168** tracked · **89** open now
 
 ## Current openings
 
@@ -40,6 +40,7 @@
 | [Dow Jones](generated/companies/dow-jones.md) | [Research Analyst Intern - Summer Internship Program](https://dowjones.wd1.myworkdayjobs.com/en-US/Dow_Jones_Career/job/Houston-TX---OPIS/Summer-2027-Internship-Program---Research-Analyst-Intern_Job_Req_55298) | Houston, TX | Onsite | 2026-09-14 | Rolling | 🟢 Open | ❔ |
 | [Eaton](generated/companies/eaton.md) | [Electrical Engineer Intern/Co-op - Research & Development Engineering](https://eaton.eightfold.ai/careers/job/687238596674) | Moon Twp, PA | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
 | [Eaton](generated/companies/eaton.md) | [R&D Engineer Intern - Research & Development Engineering](https://eaton.eightfold.ai/careers/job/687239185039) | Cleveland, TN | Onsite | 2026-09-18 | Rolling | 🟢 Open | ❔ |
+| [Excellus BCBS](generated/companies/excellus-bcbs.md) | [College Intern - Research Insights](https://lthc.wd1.myworkdayjobs.com/en-US/ExcellusBCBSCareers/job/Rochester/College-Intern---Summer-2027---Research-Insights_JR104048-2) | Rochester, NY +5 | Onsite | 2026-09-23 | Rolling | 🟢 Open | ❔ |
 | [General Motors](generated/companies/general-motors.md) | [Global Customer Research Intern](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--Global-Customer-Research-Intern--Master-MBA-Degree-_JR-202619679) | Washington, DC +1 | Onsite | 2026-09-08 | Rolling | 🟢 Open | ❔ |
 | [Google](generated/companies/google.md) | [Research Intern - PhD](https://www.google.com/about/careers/applications/jobs/results/86701057991680710) | Palo Alto, CA +27 | Onsite | 2026-08-24 | Rolling | 🟢 Open | ❔ |
 | [Google](generated/companies/google.md) | [Research Scientist PhD Intern](https://www.google.com/about/careers/applications/jobs/results/134795423167455942) | London | Onsite | 2026-08-17 | Rolling | 🟢 Open | ❔ |
@@ -71,6 +72,7 @@
 | [Stand Together](generated/companies/stand-together.md) | [Strategic Research Intern - Pacific Legal Foundation](https://jobs.lever.co/standtogether/e4dd1d3c-79a0-435d-87b3-eac542b4c2b5/apply) | Arlington County | Onsite | 2026-09-09 | Rolling | 🟢 Open | ❔ |
 | [Tencent](generated/companies/tencent.md) | [Multimodal Algorithm Researcher Intern - Omni-Modal](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Hunyuan-Multimodal-Algorithm-Researcher-intern-Omni-Modal---_R106650) | Palo Alto, CA | Onsite | 2026-07-04 | Rolling | 🟢 Open | ❔ |
 | [Tencent](generated/companies/tencent.md) | [Multimodal Algorithm Researcher Intern - Omni-Modal](https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/US-California-Palo-Alto/Hunyuan-Multimodal-Algorithm-Researcher-intern-Omni-Modal---_R106650-2) | Palo Alto, CA | Onsite | 2026-06-13 | Rolling | 🟢 Open | ❔ |
+| [The Federal Reserve System](generated/companies/the-federal-reserve-system.md) | [Research Business Survey Intern](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Richmond-VA/Federal-Reserve-Summer-2027-Research-Business-Survey-Internship_R-0000033218) | Richmond, VA | Onsite | 2026-09-23 | Rolling | 🟢 Open | ❔ |
 | [TikTok](generated/companies/tiktok.md) | [Research Engineer Intern - Monetization Technology - Business Integrity](https://lifeattiktok.com/search/7668204394458466565) | San Jose, CA | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
 | [TikTok](generated/companies/tiktok.md) | [Research Engineer Intern - Monetization Technology - Business Integrity](https://lifeattiktok.com/search/7668202602270951733) | San Jose, CA | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
 | [TikTok](generated/companies/tiktok.md) | [Research Scientist Intern - Content Intelligence](https://lifeattiktok.com/search/7662662842545539381) | San Jose, CA | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
@@ -198,6 +200,7 @@
 - Procter & Gamble (2)
 - Qorvo (2)
 - Shure (2)
+- The Federal Reserve System (2)
 - AMD (2)
 - Nationwide Children's Hospital (2)
 - Warner Bros. (2)
@@ -213,6 +216,7 @@
 - Definity Financial (1)
 - Dexmate (1)
 - Dow Jones (1)
+- Excellus BCBS (1)
 - Huck Adventures (1)
 - Immuta (1)
 - J.M. Smucker (1)
@@ -259,7 +263,6 @@
 - Snap (1)
 - Sony Music Entertainment (1)
 - Swift (1)
-- The Federal Reserve System (1)
 - Thomson Reuters (1)
 - Trend Micro (1)
 - University of Virginia (1)

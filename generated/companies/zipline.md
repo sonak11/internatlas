@@ -8,6 +8,7 @@
 |---|---|---|---|---|---|---|---|
 | Zipline | [Aircraft Software Integration Intern](https://www.zipline.com/open-roles/7986848003?gh_jid=7986848003) | South SF | Onsite | 2026-09-04 | Rolling | 🟢 Open | ❔ |
 | Zipline | [Aircraft Software Integration Intern](https://www.zipline.com/open-roles/7986810003?gh_jid=7986810003) | South SF | Onsite | 2026-09-04 | Rolling | 🟢 Open | ❔ |
+| Zipline | [Autonomy Intern](https://www.zipline.com/open-roles/8002829003?gh_jid=8002829003) | South SF | Onsite | 2026-09-23 | Rolling | 🟢 Open | ❔ |
 | Zipline | [Change Management Intern - Spring 2027](https://www.zipline.com/open-roles/7990677003?gh_jid=7990677003) | South SF | Onsite | 2026-09-10 | Rolling | 🟢 Open | ❔ |
 | Zipline | [Change Management Intern - Summer 2027](https://www.zipline.com/open-roles/7991435003?gh_jid=7991435003) | South SF | Onsite | 2026-09-10 | Rolling | 🟢 Open | ❔ |
 | Zipline | [Data Analytics Intern](https://www.zipline.com/open-roles/7990632003?gh_jid=7990632003) | South SF | Onsite | 2026-09-10 | Rolling | 🟢 Open | ❔ |

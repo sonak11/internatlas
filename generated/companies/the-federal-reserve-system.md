@@ -7,6 +7,7 @@
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
 | The Federal Reserve System | [Payments Forum Intern - Spring/Summer 2027](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Atlanta-GA/Payments-Forum-Intern---Spring-Summer-2027_R-0000033343-1) | Atlanta, GA | Onsite | 2026-09-08 | Rolling | 🟢 Open | ❔ |
+| The Federal Reserve System | [Research Business Survey Intern](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Richmond-VA/Federal-Reserve-Summer-2027-Research-Business-Survey-Internship_R-0000033218) | Richmond, VA | Onsite | 2026-09-23 | Rolling | 🟢 Open | ❔ |
 | The Federal Reserve System | [Statistics Intern](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/New-York-NY/XMLNAME-2027-Summer-Intern----Statistics---Sophomore-Intern_R-0000033027) | NYC | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
 | The Federal Reserve System | [Analyst Intern - Summer 2027](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Kansas-City-MO/Internship--Analyst---Summer-2027_R-0000033129-1) | Kansas City, MO | Onsite | 2026-09-01 | Rolling | 🔴 Closed | ❔ |
 | The Federal Reserve System | [Business Survey Intern](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Richmond-VA/Fall-2026-Business-Survey-Intern_R-0000032532) | Richmond, VA | Onsite | 2026-06-17 | Rolling | 🔴 Closed | ❔ |

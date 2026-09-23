@@ -1,0 +1,51 @@
+{
+  "schema_version": "1.0",
+  "id": "entrust-software-development-intern-citizen-remote-identity-verifica-2027",
+  "company": {
+    "name": "Entrust",
+    "slug": "entrust"
+  },
+  "role": "Software Development Intern - Citizen Remote Identity Verification",
+  "category": "software-engineering",
+  "apply_url": "https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/Canada---Ottawa/Intern--Software-Development---Hybrid-in-Ottawa_R004360",
+  "season": "winter",
+  "year": 2027,
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "Ottawa",
+      "country": "ON"
+    }
+  ],
+  "compensation": {
+    "currency": "USD",
+    "housing_stipend": false,
+    "relocation_assistance": false
+  },
+  "eligibility": {
+    "graduation_years": [],
+    "degree_levels": [],
+    "citizenship_required": false,
+    "security_clearance_required": false,
+    "visa_sponsorship": "unknown"
+  },
+  "interview": {},
+  "tech": {
+    "required_skills": [],
+    "preferred_skills": [],
+    "languages": [],
+    "frameworks": [],
+    "cloud_platforms": [],
+    "resume_keywords": []
+  },
+  "dates": {
+    "posted": "2026-09-23",
+    "discovered": "2026-09-23",
+    "last_verified": "2026-09-23"
+  },
+  "status": "open",
+  "tags": [
+    "auto-ingested",
+    "src:simplify"
+  ]
+}

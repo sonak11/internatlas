@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🛠 Data Engineering Internships
 
-**91** tracked · **73** open now
+**91** tracked · **72** open now
 
 ## Current openings
 
@@ -52,7 +52,6 @@
 | [Lyft](generated/companies/lyft.md) | [Data Engineer Intern](https://app.careerpuck.com/job-board/lyft/job/8797376002?gh_jid=8797376002) | Toronto | Onsite | 2026-09-11 | Rolling | 🟢 Open | ❔ |
 | [Marmon Holdings](generated/companies/marmon-holdings.md) | [Data Engineering Intern Co-op](https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Milwaukee-WI/Data-Engineering-Intern-OR-Student-Co-Op_JR0000037453-1) | Milwaukee, WI | Onsite | 2026-05-16 | Rolling | 🟢 Open | ❔ |
 | [Marmon Holdings](generated/companies/marmon-holdings.md) | [Data Engineering Intern/Co-op](https://marmon.wd501.myworkdayjobs.com/Marmon_MSIP_Internships/job/Milwaukee-WI/Data-Engineering-Intern-OR-Student-Co-Op_JR0000037453) | Milwaukee, WI | Onsite | 2026-03-04 | Rolling | 🟢 Open | ❔ |
-| [Mastercard](generated/companies/mastercard.md) | [Data Engineer Intern](https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Data-Engineering-Intern--Summer-2027---St-Louis--MO--US_R-284901) | O'Fallon, MO | Onsite | 2026-08-28 | Rolling | 🟢 Open | ❔ |
 | [Medpace](generated/companies/medpace.md) | [Data Engineer Intern - Spring 2027](https://careers.medpace.com/jobs/12921?icims=1) | Cincinnati, OH | Onsite | 2026-08-10 | Rolling | 🟢 Open | ❔ |
 | [Medpace, Inc.](generated/companies/medpace-inc.md) | [Data Engineer Intern](https://careers.medpace.com/jobs/12767?lang=en-us&icims=1) | Cincinnati, OH | Onsite | 2026-05-20 | Rolling | 🟢 Open | ❔ |
 | [Michelin](generated/companies/michelin.md) | [Data Engineering Intern](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/ARDMORE-OK/Summer-2027-Internship--Data-Engineering---Ardmore--OK-_R-2026030979) | Ardmore, OK | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
@@ -89,6 +88,7 @@
 | [East Penn Manufacturing Company](generated/companies/east-penn-manufacturing-company.md) | [Data Engineer Intern](https://careers-eastpennmanufacturing.icims.com/jobs/30007/job?mobile=true&needsRedirect=false) | Ann Arbor, MI | Onsite | 2026-07-27 | Rolling | 🔴 Closed | ❔ |
 | [Leidos](generated/companies/leidos.md) | [Data Engineering & Analytics Intern](https://leidos.wd5.myworkdayjobs.com/External/job/Shiloh-IL/Data-Engineering---Analytics-Intern_R-00190672-1) | Shiloh, IL | Onsite | 2026-08-27 | Rolling | 🔴 Closed | ❔ |
 | [Mackenzie Investments](generated/companies/mackenzie-investments.md) | [Data Engineering Intern](https://careersen-mackenzieinvestments.icims.com/jobs/5983/job?mobile=true&needsRedirect=false) | Toronto | Onsite | 2026-08-24 | Rolling | 🔴 Closed | ❔ |
+| [Mastercard](generated/companies/mastercard.md) | [Data Engineer Intern](https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Data-Engineering-Intern--Summer-2027---St-Louis--MO--US_R-284901) | O'Fallon, MO | Onsite | 2026-08-28 | Rolling | 🔴 Closed | ❔ |
 | [National Information Solutions Cooperative](generated/companies/national-information-solutions-cooperative.md) | [Data Engineer Intern](https://job-boards.greenhouse.io/testnisc/jobs/8167886) | Mandan, ND | Onsite | 2026-09-03 | Rolling | 🔴 Closed | ❔ |
 | [Navy Federal](generated/companies/navy-federal.md) | [Data Engineering Intern](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/29792) | Vienna, VA | Onsite | 2026-08-12 | Rolling | 🔴 Closed | ❔ |
 | [Panasonic Holdings](generated/companies/panasonic-holdings.md) | [Data Engineering Intern](https://careers.na.panasonic.com/jobs/50772?icims=1) | Bridgeton, MO | Onsite | 2026-09-02 | Rolling | 🔴 Closed | ❔ |
@@ -140,7 +140,6 @@
 - Live Oak Bank (1)
 - LPL Financial Holdings (1)
 - Lyft (1)
-- Mastercard (1)
 - Medpace (1)
 - Medpace, Inc. (1)
 - Michelin (1)
@@ -163,6 +162,7 @@
 - East Penn Manufacturing Company (1)
 - Leidos (1)
 - Mackenzie Investments (1)
+- Mastercard (1)
 - Panasonic Holdings (1)
 - QuEra Computing (1)
 - Royal Bank of Canada (1)

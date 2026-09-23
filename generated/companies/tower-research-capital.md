@@ -11,7 +11,7 @@
 | Tower Research Capital | [Quantitative Trader Intern](https://www.tower-research.com/open-positions/?gh_jid=8024128) | Chicago, IL +1 | Onsite | 2026-07-05 | Rolling | 🟢 Open | ❔ |
 | Tower Research Capital | [Quantitative Trader/Researcher Intern](https://www.tower-research.com/open-positions/?gh_jid=8037860) | London | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
 | Tower Research Capital | [Software Developer Intern](https://www.tower-research.com/open-positions/?gh_jid=8212179) | Montreal | Onsite | 2026-09-17 | Rolling | 🟢 Open | ❔ |
-| Tower Research Capital | [Software Engineer Intern - Summer 2027](https://www.tower-research.com/open-positions/?gh_jid=8212158) | NYC | Onsite | 2026-09-17 | Rolling | 🟢 Open | ❔ |
+| Tower Research Capital | [Software Engineer Intern - Summer 2027](https://www.tower-research.com/open-positions/?gh_jid=8212158) | NYC | Onsite | 2026-09-17 | Rolling | 🔴 Closed | ❔ |
 
 ## Related
 
