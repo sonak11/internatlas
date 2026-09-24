@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 📈 Quant Internships
 
-**311** tracked · **222** open now
+**311** tracked · **223** open now
 
 ## Current openings
 
@@ -71,6 +71,7 @@
 | [Five Rings Capital](generated/companies/five-rings-capital.md) | [Quantitative Researcher Intern](https://job-boards.greenhouse.io/fiveringsllc/jobs/5349219008) | NYC +1 | Onsite | 2026-07-14 | Rolling | 🟢 Open | ❔ |
 | [Five Rings Capital](generated/companies/five-rings-capital.md) | [Quantitative Trader Intern - Quantitative Trader](https://job-boards.greenhouse.io/fiveringsllc/jobs/5139668008) | NYC +1 | Onsite | 2026-07-14 | Rolling | 🟢 Open | ❔ |
 | [Five Rings Capital](generated/companies/five-rings-capital.md) | [Trading Operations Engineer Intern](https://job-boards.greenhouse.io/fiveringsllc/jobs/5420708008) | NYC +1 | Onsite | 2026-09-15 | Rolling | 🟢 Open | ❔ |
+| [Flow Traders](generated/companies/flow-traders.md) | [Quantitative Trading Intern](https://job-boards.greenhouse.io/flowtraders/jobs/8047166) | NYC | Onsite | 2026-07-08 | Rolling | 🟢 Open | ❔ |
 | [Freddie Mac](generated/companies/freddie-mac.md) | [Quantitative Risk Management Intern](https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Risk-Management-Graduate-Intern---Quantitative-Summer-2027_JR17553) | McLean, VA | Onsite | 2026-08-24 | Rolling | 🟢 Open | ❔ |
 | [G-Research](generated/companies/g-research.md) | [Quantitative Research Internship](https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Quant-Research-Internship_R3691) | London | Onsite | 2026-07-23 | Rolling | 🟢 Open | ❔ |
 | [Garda Capital Partners](generated/companies/garda-capital-partners.md) | [Trading Analyst Intern - Credit](https://job-boards.greenhouse.io/gardacp/jobs/6163540004) | NYC | Onsite | 2026-09-03 | Rolling | 🟢 Open | ❔ |
@@ -259,7 +260,6 @@
 | [Deutsche Bank](generated/companies/deutsche-bank.md) | [Quantitative Analyst Intern - GSA](https://db.recsolu.com/external/requisitions/7YdoahPnz0FeSk6E58AGDw) | London | Onsite | 2026-09-01 | Rolling | 🔴 Closed | ❔ |
 | [DV Trading](generated/companies/dv-trading.md) | [Trading Intern - Summer 2027 - DV Commodities](https://job-boards.greenhouse.io/dvtrading/jobs/4719134005) | NYC | Onsite | 2026-08-17 | Rolling | 🔴 Closed | ❔ |
 | [Fannie Mae](generated/companies/fannie-mae.md) | [Treasury & Capital Markets Intern - Quantitative Research Track](https://fanniemae.wd1.myworkdayjobs.com/FannieMaeCareers/job/Washington-DC/Campus---Treasury---Capital-Markets-Program-Intern--Quantitative-Research-Track-_JR2872) | Washington, DC | Onsite | 2026-08-26 | Rolling | 🔴 Closed | ❔ |
-| [Flow Traders](generated/companies/flow-traders.md) | [Quantitative Trading Intern](https://job-boards.greenhouse.io/flowtraders/jobs/8047166) | NYC | Onsite | 2026-07-08 | Rolling | 🔴 Closed | ❔ |
 | [Goldman Sachs](generated/companies/goldman-sachs.md) | [Associate Intern - The Core Quantitative Strats](https://higher.gs.com/roles/171546?type=students) | Dallas, TX | Onsite | 2026-08-15 | Rolling | 🔴 Closed | ❔ |
 | [Goldman Sachs](generated/companies/goldman-sachs.md) | [Quantitative Strategist Associate Intern - Asset and Wealth Management](https://higher.gs.com/roles/175423?type=students) | London | Onsite | 2026-08-15 | Rolling | 🔴 Closed | ❔ |
 | [Goldman Sachs](generated/companies/goldman-sachs.md) | [Quantitative Strategist Associate Intern - The Core Quantitative Strats](https://higher.gs.com/roles/175427?type=students) | London | Onsite | 2026-08-15 | Rolling | 🔴 Closed | ❔ |
@@ -382,6 +382,7 @@
 - DV Group (1)
 - Energy Transfer Partners (1)
 - First Citizens BancShares (1)
+- Flow Traders (1)
 - Freddie Mac (1)
 - G-Research (1)
 - Geneva Trading (1)
@@ -417,7 +418,6 @@
 - Cubist Systematic Strategies (1)
 - Detroit Lions (1)
 - Fannie Mae (1)
-- Flow Traders (1)
 - Group 1001 (1)
 - KeyBank (1)
 - Kirin (1)

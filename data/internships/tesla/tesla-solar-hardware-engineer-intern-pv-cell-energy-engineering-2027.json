@@ -1,19 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "centene-data-and-analytics-intern-undergraduate-2027",
+  "id": "tesla-solar-hardware-engineer-intern-pv-cell-energy-engineering-2027",
   "company": {
-    "name": "Centene",
-    "slug": "centene"
+    "name": "Tesla",
+    "slug": "tesla"
   },
-  "role": "Data and Analytics Intern - Undergraduate",
-  "category": "software-engineering",
-  "apply_url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Data-and-Analytics-Summer-2027-Intern--Undergraduate-_1660515",
-  "season": "summer",
+  "role": "Solar Hardware Engineer Intern - PV Cell - Energy Engineering",
+  "category": "hardware",
+  "apply_url": "https://www.tesla.com/careers/search/job/284489",
+  "season": "winter",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Missouri",
+      "city": "Palo Alto",
+      "state": "CA",
       "country": "USA"
     }
   ],
@@ -39,11 +40,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-18",
-    "discovered": "2026-09-19",
+    "posted": "2026-09-24",
+    "discovered": "2026-09-24",
     "last_verified": "2026-09-24"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

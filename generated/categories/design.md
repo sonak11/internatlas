@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🎨 Design Internships
 
-**134** tracked · **90** open now
+**135** tracked · **91** open now
 
 ## Current openings
 
@@ -91,6 +91,7 @@
 | [Tesla](generated/companies/tesla.md) | [Electronic Design Engineer Intern - Energy Engineering](https://www.tesla.com/careers/search/job/283676) | Palo Alto, CA | Onsite | 2026-09-16 | Rolling | 🟢 Open | ❔ |
 | [Tesla](generated/companies/tesla.md) | [Internship - Electronic Design Engineer - Optimus - Winter/Spring 2027](https://www.tesla.com/careers/search/job/284008) | Palo Alto, CA | Onsite | 2026-09-18 | Rolling | 🟢 Open | ❔ |
 | [Tesla](generated/companies/tesla.md) | [Reliability Electronics Design Engineer Intern - Energy Engineering](https://www.tesla.com/careers/search/job/284126) | Palo Alto, CA | Onsite | 2026-09-18 | Rolling | 🟢 Open | ❔ |
+| [Tesla](generated/companies/tesla.md) | [Robotics Electrical Design Engineer Intern - Tactile Sensing](https://www.tesla.com/careers/search/job/284593) | Palo Alto, CA | Onsite | 2026-09-24 | Rolling | 🟢 Open | ❔ |
 | [Tesla](generated/companies/tesla.md) | [Robotics Physics Modeling Engineer Intern - Model Based Design - Optimus](https://www.tesla.com/careers/search/job/283128) | Palo Alto, CA | Onsite | 2026-09-11 | Rolling | 🟢 Open | ❔ |
 | [Tesla](generated/companies/tesla.md) | [Software Engineer Intern - Vehicle UI Development](https://www.tesla.com/careers/search/job/282242) | Palo Alto, CA | Onsite | 2026-09-03 | Rolling | 🟢 Open | ❔ |
 | [Tesla](generated/companies/tesla.md) | [Software Engineer Intern, Vehicle UI Development](https://www.tesla.com/careers/search/job/internship-software-engineer-vehicle-ui-development-fall-2026-270063) | Palo Alto, CA | Onsite | 2026-05-09 | Rolling | 🟢 Open | ❔ |
@@ -146,7 +147,7 @@
 ## Hiring companies
 
 - Marvell (24)
-- Tesla (16)
+- Tesla (17)
 - Qorvo (13)
 - NXP Semiconductors (8)
 - Micron Technology (7)

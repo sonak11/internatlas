@@ -8,7 +8,7 @@ _Generated 2026-09-24_
 
 | Company | Listings |
 |---|---|
-| Tesla | 195 |
+| Tesla | 198 |
 | TikTok | 168 |
 | RTX | 126 |
 | AMD | 76 |
@@ -33,25 +33,32 @@ _Generated 2026-09-24_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 3069 | `███████████████` |
+| software-engineering | 3070 | `███████████████` |
 | ai | 409 | `██` |
 | quant | 311 | `██` |
 | machine-learning | 223 | `█` |
+| hardware | 201 | `█` |
 | data-science | 199 | `█` |
-| hardware | 196 | `█` |
 | product | 170 | `█` |
 | research | 168 | `█` |
-| design | 134 | `█` |
-| embedded | 121 | `█` |
+| design | 135 | `█` |
+| embedded | 122 | `█` |
 | data-engineering | 93 | `█` |
 | cloud | 56 | `█` |
 | security | 22 | `█` |
 
 ## Newest listings
 
+- 2026-09-24 — **Astranis**: [FPGA Intern - Summer 2027](https://job-boards.greenhouse.io/astranis/jobs/4704805006)
+- 2026-09-24 — **Astranis**: [FPGA Intern - Winter 2027](https://job-boards.greenhouse.io/astranis/jobs/4704803006)
+- 2026-09-24 — **Astranis**: [Software Defined Radio Hardware Intern - Summer 2027](https://job-boards.greenhouse.io/astranis/jobs/4716088006)
+- 2026-09-24 — **Astranis**: [Software Defined Radio Hardware Intern - Winter 2027](https://job-boards.greenhouse.io/astranis/jobs/4716087006)
 - 2026-09-24 — **Ramp**: [Software Engineer Internship, Frontend](https://jobs.ashbyhq.com/ramp/a13ae586-f4cb-4385-8822-c42b9b54ed74)
 - 2026-09-24 — **Ramp**: [Software Engineering Intern, Android](https://jobs.ashbyhq.com/ramp/fcf118cc-521a-4a62-9d13-945e5b6e3cb8)
 - 2026-09-24 — **Ramp**: [Software Engineering Intern, iOS](https://jobs.ashbyhq.com/ramp/b66be397-240b-41a6-9b05-493299b270a9)
+- 2026-09-24 — **Tesla**: [Robotics Electrical Design Engineer Intern - Tactile Sensing](https://www.tesla.com/careers/search/job/284593)
+- 2026-09-24 — **Tesla**: [Software Engineer Industrial Firmware Intern - Energy Engineering](https://www.tesla.com/careers/search/job/284448)
+- 2026-09-24 — **Tesla**: [Solar Hardware Engineer Intern - PV Cell - Energy Engineering](https://www.tesla.com/careers/search/job/284489)
 - 2026-09-23 — **Amazon**: [Quantum Applied Science Intern - Quantum Technologies team](https://amazon.jobs/en/jobs/10556930/2027-quantum-applied-science-internship-quantum-technologies-team)
 - 2026-09-23 — **AMD**: [AI Engineering Intern](https://careers.amd.com/jobs/91005?icims=1)
 - 2026-09-23 — **AMD**: [Applied Artificial Intelligence Engineering Intern - Hardware AI](https://careers.amd.com/jobs/90997?icims=1)
@@ -62,13 +69,6 @@ _Generated 2026-09-24_
 - 2026-09-23 — **Astranis**: [Flight Software Intern - Summer 2027](https://job-boards.greenhouse.io/astranis/jobs/4704598006)
 - 2026-09-23 — **Astranis**: [Software Engineer Enterprise Systems Intern - Summer 2027](https://job-boards.greenhouse.io/astranis/jobs/4705610006)
 - 2026-09-23 — **Bedrock Robotics**: [Evaluation Engineer Intern - Metric Prototyping](https://jobs.ashbyhq.com/bedrock-robotics/07b55743-d5c4-4347-bfac-000821317b13/application?embed=true)
-- 2026-09-23 — **Booz Allen**: [Quantum Research Intern - Summer 2027](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/University---Summer-2027---Quantum-Research-Intern_R0250129)
-- 2026-09-23 — **CACI**: [AI Systems Engineer Intern - Summer 2027](https://caci.wd1.myworkdayjobs.com/external/job/Annapolis-Junction-MD-US/AI-Systems-Engineering-Intern----Summer-2027_332506)
-- 2026-09-23 — **CACI**: [Software Engineer Intern](https://caci.wd1.myworkdayjobs.com/external/job/Reston-VA-US/Software-Engineering-Intern---Summer-2027_332041)
-- 2026-09-23 — **CACI**: [Software Engineer Intern - Summer 2027](https://caci.wd1.myworkdayjobs.com/external/job/Sterling-VA-US/Software-Engineering-Intern---Summer-2027_332372)
-- 2026-09-23 — **Entrust**: [Software Development Intern](https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/Canada---Ottawa/XMLNAME--Intern---Software-Development----8-months---Hybrid-Ottawa_R004359)
-- 2026-09-23 — **Entrust**: [Software Development Intern - Citizen Remote Identity Verification](https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/Canada---Ottawa/Intern--Software-Development---Hybrid-in-Ottawa_R004360)
-- 2026-09-23 — **Ernst & Young**: [Assurance Intern - Data and Intelligence Delivery](https://eyglobal.yello.co/jobs/b62Iqxo_xKj_eGnRD4WuOw?job_board_id=c1riT--B2O-KySgYWsZO1Q)
 
 ## Recently closed
 
@@ -85,6 +85,8 @@ _Generated 2026-09-24_
 - AMD — Research Engineer Intern/Co-op - AMD Research
 - AMD — Research Engineering Intern/Co-op - AMD Research
 - AMD — Software Engineer Intern/Co-op
+- Amgen — Data Engineer Intern
+- Amgen — Data Engineer Intern - Technology & Medical Organizations
 - Anduril — 2027 Hardware Engineer Intern
 - Anduril — 2027 Mechanical Engineer Intern
 - Anduril — 2027 Quality & Test Engineer Intern
@@ -94,7 +96,6 @@ _Generated 2026-09-24_
 - Apex — Software Engineer Intern - Embedded Systems
 - Athene — Operations Reporting & Analytics Intern
 - Athene — Software Developer Intern
-- AtkinsRéalis — Data Scientist Intern - Summer 2027
 - Awardco — Front-End Software Engineer Intern
 - Bank of China USA — Enterprise Risk Management Risk Data Aggregation Intern
 - Bank of China USA — Risk Data Aggregation Intern - Enterprise Risk Management Department
@@ -150,6 +151,7 @@ _Generated 2026-09-24_
 - Capacity — Speech Technology Intern
 - Castleton Commodities International — Commodities Trading Analyst Intern
 - CCC Intelligent Solutions — Data Science Intern - R&D
+- Centene — Data and Analytics Intern - Undergraduate
 - CesiumAstro — Test Engineer Intern
 - CHAOS Industries — Electrical Engineer Intern - Summer 2027
 - CHAOS Industries — Software Engineer Intern
@@ -169,6 +171,7 @@ _Generated 2026-09-24_
 - Cole Engineering Services — AI Intern
 - Commure — Software Engineer Intern - Summer 2027
 - Compeer Financial — Data Analytics Intern
+- Cone Health — Healthcare Innovation Intern - AI
 - Cook Group — AI and Data Solutions Intern
 - Copart — Data Engineer Intern
 - Corning — Artificial Intelligence and Machine Learning Intern
@@ -193,7 +196,6 @@ _Generated 2026-09-24_
 - Figure — Firmware Intern
 - Figure — Hardware Reliability Intern
 - Finastra — AI Engineer Intern - Summer 2027
-- Flow Traders — Quantitative Trading Intern
 - Formlabs — AI Software Intern
 - Formlabs — Embedded Software Intern - Winter/Spring 2027
 - Frontier Health — Applied Scientist / Research Engineer Intern
@@ -340,7 +342,6 @@ _Generated 2026-09-24_
 - NVIDIA — Ph.D. Research Hardware Intern
 - NVIDIA — PhD Research Intern - Circuits
 - NVIDIA — PhD Research Intern - Generalist Embodied Agents Research
-- NVIDIA — PhD Research Intern - Generative AI for Physical AI
 - NVIDIA — Product Management MBA Intern - Data Center GPU
 - NVIDIA — Research Intern
 - NVIDIA — Robotics Intern - Ph.D. Research
@@ -364,6 +365,7 @@ _Generated 2026-09-24_
 - Procter & Gamble — Research and Development PhD Intern - Life Cycle Assessment - Data Science
 - Qorvo — RFIC Design Engineer Intern
 - Qorvo — RFIC Design Intern
+- Renesas Electronics — Validation Intern
 - Resultant — Data & Analytics Consultant Intern - Summer 2027
 - Ridgeline — Software Engineer Intern
 - Rivet Industries — Software Engineer Intern - XR Team - Fall 2026
@@ -469,10 +471,14 @@ _Generated 2026-09-24_
 - Tesla — Data Analytics Intern - People Analytics
 - Tesla — Data Engineer Intern - Cell Engineering
 - Tesla — Electronic Design Engineer Intern - Optimus
+- Tesla — Embedded Software Engineer Intern - AI Platforms - Embedded Software Engineer
 - Tesla — Systems Architecture & Integration Engineer Intern - LV Architecture
 - Texas Instruments — Systems Engineering Intern
 - Thales — Computer Science Intern Co-op
 - The Federal Reserve System — Graduate Statistical Analysis Intern - Regional & Community Outreach
+- The Hartford — Data Engineer Intern - Tech & Data Program
+- The Hartford — Data Engineer Intern - Technology, Data, AI, and Operations
+- The Hartford — Software Engineer Intern - Technology & Data
 - The Nuclear Company — AI/ML Engineer Intern - Platform Integration & AI/Data
 - The Walt Disney Company — Commercial Data Science Intern
 - The Walt Disney Company — Commercial Data Science Intern - Spring 2027
@@ -515,6 +521,7 @@ _Generated 2026-09-24_
 - Urban Science — Data Driven Analysis Intern - Fall 2026
 - Vanguard — Technical Product Manager Intern
 - Verizon Communications — AI/ML Engineering Intern - Consumer Group
+- Verizon Communications — AI Science Intern - Network and Technology
 - Verizon Communications — Marketing Technology Intern - Consumer Group
 - Vital Lyfe — Software Engineer Intern
 - WallStreetQuants — Quantitative Trading Intern
@@ -530,6 +537,7 @@ _Generated 2026-09-24_
 - Wells Fargo — Quantitative Analytics Intern - Risk Analytics and Decision Sciences
 - Wells Fargo — Software Engineering Intern - Early Careers - Software Engineering
 - Wex — Backend Software Engineer Intern - Cloud Security & AI - Undergraduate
+- Wex — Backend Software Engineer Intern - Java & AI - Master's
 - Wex — Full-Stack Software Engineer Intern - Undergraduate
 - Wex — Software Engineer Intern - AI & Cloud
 - Wipfli — Product Development Intern

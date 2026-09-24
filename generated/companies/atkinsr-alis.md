@@ -6,7 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
-| AtkinsRéalis | [Data Scientist Intern - Summer 2027](https://slihrms.wd3.myworkdayjobs.com/careers/job/USAZTempe/Data-Scientist-Intern---Summer-2027_R-161183-1) | Tempe, AZ | Onsite | 2026-09-14 | Rolling | 🔴 Closed | ❔ |
+| AtkinsRéalis | [Data Scientist Intern - Summer 2027](https://slihrms.wd3.myworkdayjobs.com/careers/job/USAZTempe/Data-Scientist-Intern---Summer-2027_R-161183-1) | Tempe, AZ | Onsite | 2026-09-14 | Rolling | 🟢 Open | ❔ |
 
 ## Related
 

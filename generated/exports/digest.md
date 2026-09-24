@@ -1,6 +1,6 @@
 # 📬 InternAtlas Weekly Digest — 2026-09-24
 
-## 🆕 New this week (464)
+## 🆕 New this week (472)
 
 - **AMD** — [AI Engineering Intern](https://careers.amd.com/jobs/91005?icims=1) · ai · —
 - **AMD** — [AI Research Infrastructure – Reinforcement Learning Post-Training Intern](https://careers.amd.com/jobs/90950?icims=1) · ai · —
@@ -33,7 +33,11 @@
 - **Astranis** — [Backend Software Engineer Intern - Summer 2027](https://job-boards.greenhouse.io/astranis/jobs/4705214006) · software-engineering · —
 - **Astranis** — [Flight Software Intern](https://job-boards.greenhouse.io/astranis/jobs/4704595006) · software-engineering · —
 - **Astranis** — [Flight Software Intern - Summer 2027](https://job-boards.greenhouse.io/astranis/jobs/4704598006) · software-engineering · —
+- **Astranis** — [FPGA Intern - Summer 2027](https://job-boards.greenhouse.io/astranis/jobs/4704805006) · hardware · —
+- **Astranis** — [FPGA Intern - Winter 2027](https://job-boards.greenhouse.io/astranis/jobs/4704803006) · hardware · —
 - **Astranis** — [Hardware Test Intern](https://job-boards.greenhouse.io/astranis/jobs/4707012006) · hardware · —
+- **Astranis** — [Software Defined Radio Hardware Intern - Summer 2027](https://job-boards.greenhouse.io/astranis/jobs/4716088006) · hardware · —
+- **Astranis** — [Software Defined Radio Hardware Intern - Winter 2027](https://job-boards.greenhouse.io/astranis/jobs/4716087006) · hardware · —
 - **Astranis** — [Software Engineer Enterprise Systems Intern - Summer 2027](https://job-boards.greenhouse.io/astranis/jobs/4705610006) · software-engineering · —
 - **Athene** — [Operations Reporting & Analytics Intern](https://athene.wd5.myworkdayjobs.com/athene_careers/job/West-Des-Moines-Iowa/Operations-Reporting---Analytics-Intern_R255141) · software-engineering · —
 - **Athene** — [Software Developer Intern](https://athene.wd5.myworkdayjobs.com/athene_careers/job/West-Des-Moines-Iowa/Software-Developer-Internship-_R255125) · software-engineering · —
@@ -368,9 +372,12 @@
 - **Tesla** — [Reliability Electronics Design Engineer Intern - Energy Engineering](https://www.tesla.com/careers/search/job/284126) · design · —
 - **Tesla** — [Reliability Test Engineer Intern - Energy Engineering](https://www.tesla.com/careers/search/job/284278) · software-engineering · —
 - **Tesla** — [Residential Energy Device Software Engineer Intern - Energy Engineering](https://www.tesla.com/careers/search/job/284275) · software-engineering · —
+- **Tesla** — [Robotics Electrical Design Engineer Intern - Tactile Sensing](https://www.tesla.com/careers/search/job/284593) · design · —
 - **Tesla** — [Robotics Modeling & Simulation Engineer Intern](https://www.tesla.com/careers/search/job/284436) · software-engineering · —
 - **Tesla** — [Site Controller Software Engineer Intern - Energy Engineering](https://www.tesla.com/careers/search/job/283956) · software-engineering · —
+- **Tesla** — [Software Engineer Industrial Firmware Intern - Energy Engineering](https://www.tesla.com/careers/search/job/284448) · embedded · —
 - **Tesla** — [Software Engineer Intern - Energy Engineering](https://www.tesla.com/careers/search/job/283950) · software-engineering · —
+- **Tesla** — [Solar Hardware Engineer Intern - PV Cell - Energy Engineering](https://www.tesla.com/careers/search/job/284489) · hardware · —
 - **Tesla** — [Systems Integration Engineer Intern - Body Controls](https://www.tesla.com/careers/search/job/283990) · software-engineering · —
 - **Thales** — [Computer Science Intern Co-op](https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Ottawa---Palladium/Computer-Science-Intern-or-Coop_R0338233) · software-engineering · —
 - **The Aerospace Corporation** — [Reliability and Statistics Intern](https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Reliability-and-Statistics-Undergraduate-Intern_R016594) · software-engineering · —
@@ -460,6 +467,7 @@
 - **West Bend Insurance** — [Data Scientist Intern](https://careers-thesilverlining.icims.com/jobs/3785/job?mobile=true&needsRedirect=false) · data-science · —
 - **West Bend Insurance** — [Data Solution Engineer Intern](https://careers-thesilverlining.icims.com/jobs/3786/job?mobile=true&needsRedirect=false) · software-engineering · —
 - **West Bend Insurance** — [IT Data Engineer Intern](https://careers-thesilverlining.icims.com/jobs/3759/job?mobile=true&needsRedirect=false) · data-engineering · —
+- **Zekelman Industries** — [Business Intelligence Intern - Program Development](https://zekelman.wd12.myworkdayjobs.com/Careers/job/Troy-MI/Intern--Business-Intelligence_JR002769) · software-engineering · —
 - **Zimmer Biomet Holdings** — [Data Management Intern](https://careers.zimmerbiomet.com/us/en/job/12746) · software-engineering · —
 - **Zimmer Biomet Holdings** — [Product Management Intern - Artificial Intelligence Product Management](https://careers.zimmerbiomet.com/us/en/job/12745) · ai · —
 - **Zimmer Biomet Holdings** — [Summer Intern - Data Mesh Platform](https://careers.zimmerbiomet.com/us/en/job/12688) · software-engineering · —

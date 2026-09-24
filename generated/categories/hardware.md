@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🔩 Hardware Internships
 
-**196** tracked · **150** open now
+**201** tracked · **155** open now
 
 ## Current openings
 
@@ -38,7 +38,11 @@
 | [Anduril](generated/companies/anduril.md) | [2027 Manufacturing Optimization Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5236893007?gh_jid=5236893007) | Ashville | Onsite | 2026-09-14 | Rolling | 🟢 Open | ❔ |
 | [Anduril](generated/companies/anduril.md) | [2027 Mechanical Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5153187007?gh_jid=5153187007) | Atlanta | Onsite | 2026-06-11 | Rolling | 🟢 Open | ❔ |
 | [Anduril](generated/companies/anduril.md) | [2027 Software Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5148079007?gh_jid=5148079007) | Atlanta | Onsite | 2026-06-10 | Rolling | 🟢 Open | ❔ |
+| [Astranis](generated/companies/astranis.md) | [FPGA Intern - Summer 2027](https://job-boards.greenhouse.io/astranis/jobs/4704805006) | SF | Onsite | 2026-09-24 | Rolling | 🟢 Open | ❔ |
+| [Astranis](generated/companies/astranis.md) | [FPGA Intern - Winter 2027](https://job-boards.greenhouse.io/astranis/jobs/4704803006) | SF | Onsite | 2026-09-24 | Rolling | 🟢 Open | ❔ |
 | [Astranis](generated/companies/astranis.md) | [Hardware Test Intern](https://job-boards.greenhouse.io/astranis/jobs/4707012006) | SF | Onsite | 2026-09-22 | Rolling | 🟢 Open | ❔ |
+| [Astranis](generated/companies/astranis.md) | [Software Defined Radio Hardware Intern - Summer 2027](https://job-boards.greenhouse.io/astranis/jobs/4716088006) | SF | Onsite | 2026-09-24 | Rolling | 🟢 Open | ❔ |
+| [Astranis](generated/companies/astranis.md) | [Software Defined Radio Hardware Intern - Winter 2027](https://job-boards.greenhouse.io/astranis/jobs/4716087006) | SF | Onsite | 2026-09-24 | Rolling | 🟢 Open | ❔ |
 | [Bedrock Robotics](generated/companies/bedrock-robotics.md) | [Hardware Engineer Intern](https://jobs.ashbyhq.com/bedrock-robotics/949feb1b-c60f-43c5-94de-7dd9cd70ba4a/application?embed=true) | SF | Onsite | 2026-09-11 | Rolling | 🟢 Open | ❔ |
 | [Bedrock Robotics](generated/companies/bedrock-robotics.md) | [Hardware Engineer Intern - Machine Integration & Test](https://jobs.ashbyhq.com/bedrock-robotics/c9c08251-6a42-4f9c-be4d-2621995cc8f9/application?embed=true) | SF | Onsite | 2026-09-14 | Rolling | 🟢 Open | ❔ |
 | [Bedrock Robotics](generated/companies/bedrock-robotics.md) | [Sensor Hardware Test Engineer Intern](https://jobs.ashbyhq.com/bedrock-robotics/1f413f83-b897-4938-a19e-ab91bd326c51/application?embed=true) | SF | Onsite | 2026-09-08 | Rolling | 🟢 Open | ❔ |
@@ -149,6 +153,7 @@
 | [Tesla](generated/companies/tesla.md) | [Hardware Validation Engineer Intern - Optimus](https://www.tesla.com/careers/search/job/278982) | Palo Alto, CA | Onsite | 2026-08-05 | Rolling | 🟢 Open | ❔ |
 | [Tesla](generated/companies/tesla.md) | [Sensor Hardware Engineer Intern - Sensor Hardware Design Engineer - Optimus](https://www.tesla.com/careers/search/job/272581) | Palo Alto, CA | Onsite | 2026-06-07 | Rolling | 🟢 Open | ❔ |
 | [Tesla](generated/companies/tesla.md) | [Solar Hardware Engineer Intern - Energy Engineering](https://www.tesla.com/careers/search/job/283423) | Palo Alto, CA | Onsite | 2026-09-15 | Rolling | 🟢 Open | ❔ |
+| [Tesla](generated/companies/tesla.md) | [Solar Hardware Engineer Intern - PV Cell - Energy Engineering](https://www.tesla.com/careers/search/job/284489) | Palo Alto, CA | Onsite | 2026-09-24 | Rolling | 🟢 Open | ❔ |
 | [The Toro Company](generated/companies/the-toro-company.md) | [Hardware and Software Engineering Intern](https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Perry-OK/Hardware-and-Software-Engineering-Intern---Ditch-Witch_JR17183) | Perry, OK | Onsite | 2026-09-10 | Rolling | 🟢 Open | ❔ |
 | [Two Sigma](generated/companies/two-sigma.md) | [Hardware Engineering Intern](https://twosigma.avature.net/careers/JobDetail/14289) | NYC | Onsite | 2026-09-22 | Rolling | 🟢 Open | ❔ |
 | [V2X](generated/companies/v2x.md) | [Electrical Engineer Intern - Hardware Engineering](https://careers.gov2x.com/jobs/62685?icims=1) | Indianapolis, IN | Onsite | 2026-08-28 | Rolling | 🟢 Open | ❔ |
@@ -211,18 +216,18 @@
 - SpaceX (19)
 - Anduril (14)
 - Neuralink (13)
+- Astranis (8)
 - GE Vernova (6)
 - NVIDIA (6)
 - Jump Trading (5)
 - Marvell (5)
-- Astranis (4)
+- Tesla (5)
 - Cadence Design Systems (4)
 - CesiumAstro (4)
 - Ciena (4)
 - Formlabs (4)
 - Google (4)
 - Intel (4)
-- Tesla (4)
 - Bedrock Robotics (3)
 - Hermeus (3)
 - IMC Trading (3)

@@ -1,19 +1,19 @@
 {
   "schema_version": "1.0",
-  "id": "centene-data-and-analytics-intern-undergraduate-2027",
+  "id": "astranis-software-defined-radio-hardware-intern-winter-2027-2027",
   "company": {
-    "name": "Centene",
-    "slug": "centene"
+    "name": "Astranis",
+    "slug": "astranis"
   },
-  "role": "Data and Analytics Intern - Undergraduate",
-  "category": "software-engineering",
-  "apply_url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Data-and-Analytics-Summer-2027-Intern--Undergraduate-_1660515",
-  "season": "summer",
+  "role": "Software Defined Radio Hardware Intern - Winter 2027",
+  "category": "hardware",
+  "apply_url": "https://job-boards.greenhouse.io/astranis/jobs/4716087006",
+  "season": "winter",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Missouri",
+      "city": "SF",
       "country": "USA"
     }
   ],
@@ -39,11 +39,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-18",
-    "discovered": "2026-09-19",
+    "posted": "2026-09-24",
+    "discovered": "2026-09-24",
     "last_verified": "2026-09-24"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

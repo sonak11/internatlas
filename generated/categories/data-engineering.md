@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🛠 Data Engineering Internships
 
-**93** tracked · **74** open now
+**93** tracked · **71** open now
 
 ## Current openings
 
@@ -15,8 +15,6 @@
 | [American Express](generated/companies/american-express.md) | [Data Engineer Intern - Enterprise Technology Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012339) | Phoenix, AZ | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
 | [American Express](generated/companies/american-express.md) | [Data Engineer Intern - Enterprise Technology Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012333) | Phoenix, AZ | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
 | [American Express](generated/companies/american-express.md) | [Data Engineer Intern - Enterprise Technology Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011828) | Charlotte, NC | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
-| [Amgen](generated/companies/amgen.md) | [Data Engineer Intern](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Data-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255742) | Remote | Remote | 2026-09-11 | Rolling | 🟢 Open | ❔ |
-| [Amgen](generated/companies/amgen.md) | [Data Engineer Intern - Technology & Medical Organizations](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Undergrad-Intern---Data-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255708) | Remote | Remote | 2026-09-11 | Rolling | 🟢 Open | ❔ |
 | [APEX Analytix](generated/companies/apex-analytix.md) | [Data Engineering Intern - Summer 2027](https://ats.rippling.com/apexanalytix-careers/jobs/52353bce-cb36-423f-ae0a-f2057ef3b5d9) | Greensboro, NC | Onsite | 2026-09-15 | Rolling | 🟢 Open | ❔ |
 | [Auto-Owners Insurance](generated/companies/auto-owners-insurance.md) | [Data Engineering Intern - Summer 2027](https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Data-Engineering-Internship---Summer-2026_R_12318) | Lansing, MI | Onsite | 2026-08-26 | Rolling | 🟢 Open | ❔ |
 | [Boston Scientific](generated/companies/boston-scientific.md) | [Data Engineer Intern](https://bostonscientific.eightfold.ai/careers/job/563602813501949) | Maple Grove, MN | Onsite | 2026-09-21 | Rolling | 🟢 Open | ❔ |
@@ -75,7 +73,6 @@
 | [TD Bank](generated/companies/td-bank.md) | [Data Engineer Intern/Co-op - Winter 2027](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Data-Engineer-Co-op---Intern---Winter-2027-_R_1509826) | Toronto | Onsite | 2026-09-08 | Rolling | 🟢 Open | ❔ |
 | [Tesla](generated/companies/tesla.md) | [Data Engineer Intern - Fleet Analytics](https://www.tesla.com/careers/search/job/283138) | Palo Alto, CA | Onsite | 2026-09-11 | Rolling | 🟢 Open | ❔ |
 | [Tesla](generated/companies/tesla.md) | [Data Engineer Intern - Fleet Data - Self-Driving](https://www.tesla.com/careers/search/job/281612) | Palo Alto, CA | Onsite | 2026-09-10 | Rolling | 🟢 Open | ❔ |
-| [The Hartford](generated/companies/the-hartford.md) | [Data Engineer Intern - Tech & Data Program](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Columbus-OH/Tech---Data-Program-Summer-2027---Data-Engineer-Intern--Columbus-_R2626610) | Columbus, OH | Onsite | 2026-08-24 | Rolling | 🟢 Open | ❔ |
 | [TikTok](generated/companies/tiktok.md) | [Data Engineer Intern - Ads Targeting](https://lifeattiktok.com/search/7668533140146817333) | San Jose, CA | Onsite | 2026-08-05 | Rolling | 🟢 Open | ❔ |
 | [TikTok](generated/companies/tiktok.md) | [Data Engineer Intern - Data Platform Global Live](https://lifeattiktok.com/search/7674032146438162693) | San Jose, CA | Onsite | 2026-08-17 | Rolling | 🟢 Open | ❔ |
 | [TikTok](generated/companies/tiktok.md) | [Data Engineer Intern - Monetization Data](https://lifeattiktok.com/search/7671232204182276405) | San Jose, CA | Onsite | 2026-08-10 | Rolling | 🟢 Open | ❔ |
@@ -83,6 +80,8 @@
 | [West Bend Insurance](generated/companies/west-bend-insurance.md) | [IT Data Engineer Intern](https://careers-thesilverlining.icims.com/jobs/3759/job?mobile=true&needsRedirect=false) | Madison, WI +1 | Onsite | 2026-09-22 | Rolling | 🟢 Open | ❔ |
 | [Western & Southern Financial Group](generated/companies/western-southern-financial-group.md) | [Data Engineering and Analytics Intern - Summer 2027](https://careers-westernsouthern.icims.com/jobs/25207/job?mobile=true&needsRedirect=false) | Cincinnati, OH | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
 | [Acxiom](generated/companies/acxiom.md) | [Data Engineer Intern](https://acxiomllc.wd5.myworkdayjobs.com/AcxiomUSA/job/RemoteHomebased/Intern---Data-Engineer_JR014482) | Conway, AR | Onsite | 2026-09-15 | Rolling | 🔴 Closed | ❔ |
+| [Amgen](generated/companies/amgen.md) | [Data Engineer Intern](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Data-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255742) | Remote | Remote | 2026-09-11 | Rolling | 🔴 Closed | ❔ |
+| [Amgen](generated/companies/amgen.md) | [Data Engineer Intern - Technology & Medical Organizations](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Undergrad-Intern---Data-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255708) | Remote | Remote | 2026-09-11 | Rolling | 🔴 Closed | ❔ |
 | [Artisan Partners](generated/companies/artisan-partners.md) | [Data Engineer Intern - Platform & Product](https://www.artisanpartners.com/careers/career-opportunities.html?gh_jid=8132641) | Milwaukee, WI | Onsite | 2026-08-17 | Rolling | 🔴 Closed | ❔ |
 | [CAI](generated/companies/cai.md) | [Data Engineer Intern](https://cai.wd5.myworkdayjobs.com/computer_aid/job/PA-CLIENT-STATE/Data-Engineering-Intern_R8481) | Pennsylvania | Onsite | 2026-09-15 | Rolling | 🔴 Closed | ❔ |
 | [Charles Schwab](generated/companies/charles-schwab.md) | [Data Engineering Intern - Data Engineering](https://career-schwab.icims.com/jobs/126227/job?mobile=true&needsRedirect=false) | Austin, TX +2 | Onsite | 2026-08-29 | Rolling | 🔴 Closed | ❔ |
@@ -101,6 +100,7 @@
 | [Tesla](generated/companies/tesla.md) | [Data Engineer Intern - Applications Engineering](https://www.tesla.com/careers/search/job/272928) | Fremont, CA | Onsite | 2026-06-30 | Rolling | 🔴 Closed | ❔ |
 | [Tesla](generated/companies/tesla.md) | [Data Engineer Intern - Cell Engineering](https://www.tesla.com/careers/search/job/278622) | Palo Alto, CA | Onsite | 2026-08-04 | Rolling | 🔴 Closed | ❔ |
 | [Tesla](generated/companies/tesla.md) | [Data Engineer Intern - Data Engineer - Energy](https://www.tesla.com/careers/search/job/271331) | Palo Alto, CA | Onsite | 2026-06-07 | Rolling | 🔴 Closed | ❔ |
+| [The Hartford](generated/companies/the-hartford.md) | [Data Engineer Intern - Tech & Data Program](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Columbus-OH/Tech---Data-Program-Summer-2027---Data-Engineer-Intern--Columbus-_R2626610) | Columbus, OH | Onsite | 2026-08-24 | Rolling | 🔴 Closed | ❔ |
 
 ## Hiring companies
 
@@ -111,11 +111,11 @@
 - First National Bank (3)
 - Navy Federal (3)
 - TikTok (3)
-- Amgen (2)
 - Jump Trading (2)
 - Marmon Holdings (2)
 - Shure (2)
 - TD Bank (2)
+- Amgen (2)
 - Super (2)
 - Altice USA (1)
 - APEX Analytix (1)
@@ -154,7 +154,6 @@
 - Principal Financial Group (1)
 - Ragle Inc (1)
 - Solidigm (1)
-- The Hartford (1)
 - Weave (1)
 - West Bend Insurance (1)
 - Western & Southern Financial Group (1)
@@ -170,3 +169,4 @@
 - Panasonic Holdings (1)
 - QuEra Computing (1)
 - Royal Bank of Canada (1)
+- The Hartford (1)
