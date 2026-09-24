@@ -87,6 +87,7 @@ _Generated 2026-09-24_
 - AMD — Software Engineer Intern/Co-op
 - Amgen — Data Engineer Intern
 - Amgen — Data Engineer Intern - Technology & Medical Organizations
+- Amgen — Data Scientist Intern - Amgen’s Technology & Medical Organizations
 - Anduril — 2027 Hardware Engineer Intern
 - Anduril — 2027 Mechanical Engineer Intern
 - Anduril — 2027 Quality & Test Engineer Intern
@@ -97,6 +98,7 @@ _Generated 2026-09-24_
 - Athene — Operations Reporting & Analytics Intern
 - Athene — Software Developer Intern
 - Awardco — Front-End Software Engineer Intern
+- Axon — Software Engineer Intern
 - Bank of China USA — Enterprise Risk Management Risk Data Aggregation Intern
 - Bank of China USA — Risk Data Aggregation Intern - Enterprise Risk Management Department
 - Bank of Montreal — Business Analyst Co-op Intern - Data and Change Management
@@ -179,6 +181,7 @@ _Generated 2026-09-24_
 - Definity Financial — Data Specialist Co-op Intern - Claim Operations Management
 - Dell Technologies — Software Engineer Intern - Client Solutions Group Engineering
 - Dell Technologies — Software Engineering Intern
+- Deloitte — AI and Data Engineering Summer Scholar Intern - Government & Public Services
 - Deloitte — AI Innovation Summer Scholar Intern - AI Innovation
 - DiDi Global — Motion Planning Engineer Intern - PhD
 - Dmg Media — AI Engineer Intern - Innovation Team
@@ -258,6 +261,7 @@ _Generated 2026-09-24_
 - HP IQ — Software Engineer Intern - Software Systems
 - Humanscale — Electrical Design Engineer Intern
 - Ignite Digital Services — Engineer/Scientist Intern
+- IGS Energy — Software Engineer Intern
 - InfiniteQuant — Quantitative Developer Intern
 - InfiniteQuant — Quantitative Developer Intern - Summer 2027
 - Intel — Compiler Engineer Intern - SYCL Runtime
@@ -275,6 +279,8 @@ _Generated 2026-09-24_
 - Leidos — Data Engineering & Analytics Intern
 - Leidos — Software Developer Intern
 - Lexington Medical — Electrical/Embedded Software Engineer Intern
+- Live Oak Bank — Architecture/Engineering Intern
+- Live Oak Bank — Artificial Intelligence Enablement & Forward-Deployed Engineering Intern
 - Lunar Outpost — Electrical Engineer Intern
 - Lyft — Software Engineer Intern - Fullstack - Multiple Teams
 - Mackenzie Investments — Data Science Intern
@@ -297,6 +303,7 @@ _Generated 2026-09-24_
 - Mastercard — Data Scientist Intern - Summer 2027
 - Mastercard — Software Engineer Intern
 - Medline — Software Development Intern - Summer 2027
+- Merchants Bank of Indiana — Business Technology Intern - Application Development
 - Meta — Research Scientist Intern - AI Alignment
 - Meta — Research Scientist Intern - Applied Vision and Image Quality - PhD
 - Meta — Research Scientist Intern - Language & Multimodal Foundations
@@ -331,6 +338,7 @@ _Generated 2026-09-24_
 - Northrop Grumman — Data Analytics Intern
 - Northrop Grumman — Software Engineer Intern
 - Northwestern Mutual — Investment Risk Management Intern - Fall 2026
+- Northwood Space — Electrical Engineer Intern - Summer Internship
 - Nucor — Commodity Markets Analyst Intern
 - NVIDIA — Architecture Research Intern - Architecture - 2027
 - NVIDIA — Computer Architecture and Systems Intern - Research
@@ -346,6 +354,7 @@ _Generated 2026-09-24_
 - NVIDIA — Research Intern
 - NVIDIA — Robotics Intern - Ph.D. Research
 - NXP Semiconductors — Functional Safety Intern
+- Obsidian Solutions Group — Unity 3D Developer Intern
 - OCC — Software Engineering Intern - UI/UX
 - Ontario Teachers' Pension Plan — Business Insights and Analytics Intern - Member Services
 - Ontario Teachers' Pension Plan — Finance Intern - Risk Analytics
@@ -356,6 +365,7 @@ _Generated 2026-09-24_
 - Oshkosh — Motorsports Intern - Summer 2027
 - Oshkosh — Software Engineer Intern
 - Ovintiv — Technology Intern - Data & Digital
+- Paccar — Software Developer Intern
 - Parsons — Software Developer Intern - Fall 2026/Spring 2027
 - Plastipak — Software Engineer Intern
 - Postman — AI Engineer Intern
@@ -413,6 +423,7 @@ _Generated 2026-09-24_
 - RTX — Electrical Engineer Intern - RDP
 - RTX — Electrical Engineer Intern - Summer 2027
 - RTX — FPGA Design Intern
+- RTX — Manufacturing & Quality Analyst Intern - Stage 2027
 - RTX — Numerical Methods Intern - Advanced Software Development
 - RTX — Software Developer Intern
 - RTX — Software Development Intern - Summer 2027
@@ -478,10 +489,12 @@ _Generated 2026-09-24_
 - The Federal Reserve System — Graduate Statistical Analysis Intern - Regional & Community Outreach
 - The Hartford — Data Engineer Intern - Tech & Data Program
 - The Hartford — Data Engineer Intern - Technology, Data, AI, and Operations
+- The Hartford — Software Engineer Intern - Tech & Data Program
 - The Hartford — Software Engineer Intern - Technology & Data
 - The Nuclear Company — AI/ML Engineer Intern - Platform Integration & AI/Data
 - The Walt Disney Company — Commercial Data Science Intern
 - The Walt Disney Company — Commercial Data Science Intern - Spring 2027
+- The Walt Disney Company — Computer Science / Computer Engineering Intern - Multiple Teams
 - The Walt Disney Company — Costuming Project Analyst Intern - Spring 2027
 - The Walt Disney Company — Industrial Engineer Intern - Workforce Management
 - The Walt Disney Company — Labor Systems Data Analytics & Integration Intern - Spring 2027
@@ -505,6 +518,8 @@ _Generated 2026-09-24_
 - Tradeweb — Market Data Developer Intern
 - Tradeweb — Node.js Developer Intern
 - Tradeweb — Software Developer Intern - STP
+- Trane Technologies — AI & Analytics Intern
+- Trillium — Equity Trader Intern
 - Tuckernuck — Product Management Intern
 - Twilio — Software Engineer Intern (January 12th start, 23 weeks)
 - Tyler Technologies — Software Development Intern - Summer 2027
@@ -521,6 +536,7 @@ _Generated 2026-09-24_
 - Urban Science — Data Driven Analysis Intern - Fall 2026
 - Vanguard — Technical Product Manager Intern
 - Verizon Communications — AI/ML Engineering Intern - Consumer Group
+- Verizon Communications — AI Science Intern - Multiple Teams
 - Verizon Communications — AI Science Intern - Network and Technology
 - Verizon Communications — Marketing Technology Intern - Consumer Group
 - Vital Lyfe — Software Engineer Intern
