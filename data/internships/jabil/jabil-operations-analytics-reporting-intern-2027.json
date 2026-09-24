@@ -1,0 +1,57 @@
+{
+  "schema_version": "1.0",
+  "id": "jabil-operations-analytics-reporting-intern-2027",
+  "company": {
+    "name": "Jabil",
+    "slug": "jabil"
+  },
+  "role": "Operations Analytics & Reporting Intern",
+  "category": "software-engineering",
+  "apply_url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Operations-Analytics---Reporting-Intern_J2465601",
+  "season": "summer",
+  "year": 2027,
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "Tampa",
+      "state": "FL",
+      "country": "USA"
+    },
+    {
+      "city": "St. Petersburg",
+      "state": "FL",
+      "country": "USA"
+    }
+  ],
+  "compensation": {
+    "currency": "USD",
+    "housing_stipend": false,
+    "relocation_assistance": false
+  },
+  "eligibility": {
+    "graduation_years": [],
+    "degree_levels": [],
+    "citizenship_required": false,
+    "security_clearance_required": false,
+    "visa_sponsorship": "unknown"
+  },
+  "interview": {},
+  "tech": {
+    "required_skills": [],
+    "preferred_skills": [],
+    "languages": [],
+    "frameworks": [],
+    "cloud_platforms": [],
+    "resume_keywords": []
+  },
+  "dates": {
+    "posted": "2026-09-23",
+    "discovered": "2026-09-24",
+    "last_verified": "2026-09-24"
+  },
+  "status": "open",
+  "tags": [
+    "auto-ingested",
+    "src:simplify"
+  ]
+}
