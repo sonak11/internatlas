@@ -33,7 +33,7 @@ _Generated 2026-09-24_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 3075 | `███████████████` |
+| software-engineering | 3076 | `███████████████` |
 | ai | 409 | `██` |
 | quant | 312 | `██` |
 | machine-learning | 223 | `█` |
@@ -57,6 +57,7 @@ _Generated 2026-09-24_
 - 2026-09-24 — **Brevan Howard**: [Systematic Trading Intern - Systematic Trading](https://wd3.myworkdaysite.com/recruiting/brevanhoward/BH_ExternalCareers/job/London/XMLNAME-2027-Summer-Internship-Program---Systematic-Trading--London_JR101619)
 - 2026-09-24 — **Ciena**: [Software Intern - WaveLogic](https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/WaveLogic-Software-Intern-Spring-2027_R031692)
 - 2026-09-24 — **Enterprise Holdings**: [Data Engineer Intern - IT](https://us-erac.icims.com/jobs/567651/job?mobile=true&needsRedirect=false)
+- 2026-09-24 — **Notion**: [Software Engineer Intern, Mobile (Winter 2027)](https://jobs.ashbyhq.com/notion/2b587e66-deac-421a-a824-9415ba78b5a7)
 - 2026-09-24 — **Ramp**: [Software Engineer Internship, Frontend](https://jobs.ashbyhq.com/ramp/a13ae586-f4cb-4385-8822-c42b9b54ed74)
 - 2026-09-24 — **Ramp**: [Software Engineering Intern, Android](https://jobs.ashbyhq.com/ramp/fcf118cc-521a-4a62-9d13-945e5b6e3cb8)
 - 2026-09-24 — **Ramp**: [Software Engineering Intern, iOS](https://jobs.ashbyhq.com/ramp/b66be397-240b-41a6-9b05-493299b270a9)
@@ -68,7 +69,6 @@ _Generated 2026-09-24_
 - 2026-09-24 — **Semtech**: [Firmware Intern](https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Ottawa-ON/Firmware-Design-Intern_REQ3617)
 - 2026-09-24 — **Semtech**: [Validation Engineering Intern](https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Ottawa-ON/Validation-Engineering-Intern_REQ3618)
 - 2026-09-24 — **Semtech**: [Validation Engineering Intern - Signal Integrity Products Group](https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Burlington-ON/Validation-Engineering-Intern_REQ3628)
-- 2026-09-24 — **Tesla**: [Robotics Electrical Design Engineer Intern - Tactile Sensing](https://www.tesla.com/careers/search/job/284593)
 
 ## Recently closed
 
@@ -97,6 +97,8 @@ _Generated 2026-09-24_
 - Athene — Operations Reporting & Analytics Intern
 - Athene — Software Developer Intern
 - Awardco — Front-End Software Engineer Intern
+- Axon — 2027 US Electrical Engineering Internship
+- Axon — Embedded Engineer Intern
 - Axon — Software Engineer Intern
 - Bank of China USA — Enterprise Risk Management Risk Data Aggregation Intern
 - Bank of China USA — Risk Data Aggregation Intern - Enterprise Risk Management Department
@@ -136,6 +138,7 @@ _Generated 2026-09-24_
 - Booz Allen — Software Developer Intern - University
 - Booz Allen — Software Developer Intern - University
 - Booz Allen — Software Developer Intern - University
+- Booz Allen — Software Developer Intern - University
 - BorgWarner — Validation Intern
 - Bosch Home Comfort — Product Management Intern
 - Boston Scientific — Data Science Engineer Intern
@@ -149,6 +152,7 @@ _Generated 2026-09-24_
 - CAE — Junior Data Analyst Intern
 - CAE — Software Engineering Intern - AI, Automation and Business Intelligence
 - CAI — Data Engineer Intern
+- CAI — Software Developer Intern
 - CALSTART — Data Analysis Intern
 - Canadian Solar — Data Analysis Intern - Quality
 - Capacity — Speech Technology Intern
@@ -237,6 +241,7 @@ _Generated 2026-09-24_
 - Hermeus — Flight Software Engineer Intern
 - Hexagon AB — Geomatics Engineer Intern - GNSS Algorithms
 - Highgate — Revenue Management Intern - Summer 2027
+- Hitachi — Onboard Software Developer Intern
 - Hitachi — Software Analyst Intern
 - Hitachi — Software Analyst Intern
 - Howmet Aerospace — Artificial Intelligence Intern - AI
@@ -252,6 +257,7 @@ _Generated 2026-09-24_
 - Intelcom \| Dragonfly — Operations Analyst Intern
 - Interco — Software Development Intern - React
 - ISN Software — Product Strategy Intern
+- JP Morgan Chase — Machine Learning Engineer Summer Associate Intern - Asset and Wealth Management
 - Keysight Technologies — Full Stack Intern
 - Kirin — Quantitative Research Intern - Prediction Markets
 - Léger — Research Intern
@@ -288,6 +294,7 @@ _Generated 2026-09-24_
 - Mastercard — Software Engineer Intern
 - Medline — Software Development Intern - Summer 2027
 - Merchants Bank of Indiana — Business Technology Intern - Application Development
+- Merck — Medical Data Scientist Intern
 - Meta — Research Scientist Intern - AI Alignment
 - Meta — Research Scientist Intern - Applied Vision and Image Quality - PhD
 - Meta — Research Scientist Intern - Language & Multimodal Foundations
@@ -437,6 +444,7 @@ _Generated 2026-09-24_
 - Sierra — Agent Development Intern
 - Snap — Research Scientist Intern - User Modeling and Personalization
 - Springs Window Fashions — Sustainability Data Specialist Intern - Commercial Marketing
+- Stanley Black & Decker — Embedded Software Engineering Intern
 - State Farm — Mainframe Software Engineer Intern - Enterprise Technology
 - State Farm — Software Engineer Intern - Innovation Group
 - State Farm — Software Engineer Intern - Multiple Teams

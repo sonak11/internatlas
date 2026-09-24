@@ -1,22 +1,18 @@
 {
   "schema_version": "1.0",
-  "id": "cai-data-analyst-intern-2027-e7cae6",
+  "id": "notion-software-engineer-intern-mobile-winter-2027-2027",
   "company": {
-    "name": "CAI",
-    "slug": "cai"
+    "name": "Notion",
+    "slug": "notion",
+    "career_page": "https://www.notion.com/careers"
   },
-  "role": "Data Analyst Intern",
+  "role": "Software Engineer Intern, Mobile (Winter 2027)",
   "category": "software-engineering",
-  "apply_url": "https://cai.wd5.myworkdayjobs.com/computer_aid/job/PA-CLIENT-STATE/Data-Analyst-Intern_R8551",
+  "apply_url": "https://jobs.ashbyhq.com/notion/2b587e66-deac-421a-a824-9415ba78b5a7",
   "season": "summer",
   "year": 2027,
-  "work_mode": "onsite",
-  "locations": [
-    {
-      "city": "Pennsylvania",
-      "country": "USA"
-    }
-  ],
+  "work_mode": "remote",
+  "locations": [],
   "compensation": {
     "currency": "USD",
     "housing_stipend": false,
@@ -39,13 +35,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-22",
-    "discovered": "2026-09-23",
+    "posted": "2026-09-24",
+    "discovered": "2026-09-24",
     "last_verified": "2026-09-24"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:ats"
   ]
 }

@@ -1,6 +1,6 @@
 {
   "generated": "2026-09-24",
-  "count": 5191,
+  "count": 5192,
   "internships": [
     {
       "schema_version": "1.0",
@@ -27270,7 +27270,7 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-09-24"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -27327,7 +27327,7 @@
         "discovered": "2026-08-27",
         "last_verified": "2026-09-24"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -37307,7 +37307,7 @@
         "discovered": "2026-09-21",
         "last_verified": "2026-09-24"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -47427,7 +47427,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "cai-data-analyst-intern-2027-e7cae6",
+      "id": "cai-data-analyst-intern-2027",
       "company": {
         "name": "CAI",
         "slug": "cai"
@@ -47467,57 +47467,6 @@
       },
       "dates": {
         "posted": "2026-09-22",
-        "discovered": "2026-09-23",
-        "last_verified": "2026-09-24"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "cai-data-analyst-intern-2027",
-      "company": {
-        "name": "CAI",
-        "slug": "cai"
-      },
-      "role": "Data Analyst Intern",
-      "category": "software-engineering",
-      "apply_url": "https://cai.wd5.myworkdayjobs.com/computer_aid/job/PA-CLIENT-STATE/Data-Analyst-Intern_R8452",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Pennsylvania",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-09-15",
         "discovered": "2026-09-15",
         "last_verified": "2026-09-24"
       },
@@ -47623,7 +47572,7 @@
         "discovered": "2026-09-15",
         "last_verified": "2026-09-24"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -109031,7 +108980,7 @@
         "discovered": "2026-09-16",
         "last_verified": "2026-09-24"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -124477,7 +124426,7 @@
         "discovered": "2026-09-18",
         "last_verified": "2026-09-24"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -147153,7 +147102,7 @@
         "discovered": "2026-09-08",
         "last_verified": "2026-09-24"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -165898,6 +165847,53 @@
       "tags": [
         "auto-ingested",
         "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "notion-software-engineer-intern-mobile-winter-2027-2027",
+      "company": {
+        "name": "Notion",
+        "slug": "notion",
+        "career_page": "https://www.notion.com/careers"
+      },
+      "role": "Software Engineer Intern, Mobile (Winter 2027)",
+      "category": "software-engineering",
+      "apply_url": "https://jobs.ashbyhq.com/notion/2b587e66-deac-421a-a824-9415ba78b5a7",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "remote",
+      "locations": [],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-24",
+        "discovered": "2026-09-24",
+        "last_verified": "2026-09-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
       ]
     },
     {
@@ -220454,7 +220450,7 @@
         "discovered": "2026-09-01",
         "last_verified": "2026-09-24"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -221596,6 +221592,58 @@
       "tags": [
         "auto-ingested",
         "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "stripe-financial-data-analyst-intern-technical-operations-2027",
+      "company": {
+        "name": "Stripe",
+        "slug": "stripe",
+        "career_page": "https://stripe.com/jobs/university"
+      },
+      "role": "Financial Data Analyst Intern, Technical Operations",
+      "category": "software-engineering",
+      "apply_url": "https://stripe.com/jobs/search?gh_jid=8186442",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Singapore",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-24",
+        "discovered": "2026-09-24",
+        "last_verified": "2026-09-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
       ]
     },
     {
