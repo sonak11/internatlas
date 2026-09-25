@@ -1,20 +1,21 @@
 {
   "schema_version": "1.0",
-  "id": "booz-allen-software-developer-intern-university-2027-db92b6",
+  "id": "doordash-machine-learning-intern-phd-summer-2027-2027",
   "company": {
-    "name": "Booz Allen",
-    "slug": "booz-allen"
+    "name": "DoorDash",
+    "slug": "doordash",
+    "career_page": "https://careers.doordash.com/"
   },
-  "role": "Software Developer Intern - University",
-  "category": "software-engineering",
-  "apply_url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University--2027-Summer-Games-Software-Developer-Intern---McLean--VA_R0249805",
+  "role": "Machine Learning Intern (PhD) - Summer 2027",
+  "category": "machine-learning",
+  "apply_url": "https://job-boards.greenhouse.io/doordashusa/jobs/8233953",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "McLean",
-      "state": "VA",
+      "city": "San Francisco",
+      "state": "CA",
       "country": "USA"
     }
   ],
@@ -40,13 +41,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-21",
-    "discovered": "2026-09-21",
+    "posted": "2026-09-25",
+    "discovered": "2026-09-25",
     "last_verified": "2026-09-25"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:ats"
   ]
 }

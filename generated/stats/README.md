@@ -13,18 +13,18 @@ _Generated 2026-09-25_
 | RTX | 127 |
 | AMD | 76 |
 | American Express | 70 |
-| Booz Allen | 70 |
 | ByteDance | 70 |
+| Booz Allen | 69 |
 | Marvell | 58 |
 | Qorvo | 53 |
 | Royal Bank of Canada | 53 |
 | Jump Trading | 49 |
 | NVIDIA | 46 |
 | L3Harris Technologies | 44 |
+| Waymo | 39 |
 | The Walt Disney Company | 37 |
 | Coinbase | 35 |
 | Robinhood | 35 |
-| Waymo | 35 |
 | Bank of Montreal | 34 |
 | Zipline | 34 |
 | Navy Federal | 33 |
@@ -33,12 +33,12 @@ _Generated 2026-09-25_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 3118 | `███████████████` |
+| software-engineering | 3120 | `███████████████` |
 | ai | 410 | `██` |
-| quant | 315 | `██` |
-| machine-learning | 226 | `█` |
+| quant | 315 | `█` |
+| machine-learning | 230 | `█` |
 | hardware | 202 | `█` |
-| data-science | 201 | `█` |
+| data-science | 200 | `█` |
 | product | 171 | `█` |
 | research | 168 | `█` |
 | design | 140 | `█` |
@@ -50,6 +50,7 @@ _Generated 2026-09-25_
 ## Newest listings
 
 - 2026-09-25 — **Barrios**: [Data and Computer Engineering/Computer Science Intern](https://careers-barrios.icims.com/jobs/2897/job?mobile=true&needsRedirect=false)
+- 2026-09-25 — **DoorDash**: [Machine Learning Intern (PhD) - Summer 2027](https://job-boards.greenhouse.io/doordashusa/jobs/8233953)
 - 2026-09-25 — **Electronic Arts**: [Gameplay Engineer Intern](https://jobs.ea.com/en_US/careers/JobDetail/Gameplay-Engineer-Intern/216245)
 - 2026-09-25 — **First Citizens BancShares**: [IT Intern - Software Developer](https://firstcitizens.jibeapply.com/jobs/35709?icims=1)
 - 2026-09-25 — **FOX**: [Internship Program - Data Analytics](https://fox.wd1.myworkdayjobs.com/Domestic/job/New-York-New-York-USA/Spring-2027-FOX-News-Media-Internship-Program---Data-Analytics---New-York_R50033950)
@@ -60,15 +61,14 @@ _Generated 2026-09-25_
 - 2026-09-25 — **Snowflake**: [Software Engineer Intern - Core, Infrastructure & Security](https://jobs.ashbyhq.com/snowflake/5315b6f6-2c14-4cb9-a884-c2bae69f2c69/application?embed=true)
 - 2026-09-25 — **Snowflake**: [Software Engineer Intern - Database Engineering](https://jobs.ashbyhq.com/snowflake/7bd393df-67d7-4009-ba4f-1cd79a82b0be/application?embed=true)
 - 2026-09-25 — **Tesla**: [Optical Engineer Intern - Electronic Systems](https://www.tesla.com/careers/search/job/284607)
+- 2026-09-25 — **Waymo**: [2027 Summer Intern, BS, Software Engineer, Driver Refinement Foundations](https://careers.withwaymo.com/jobs?gh_jid=8224900)
+- 2026-09-25 — **Waymo**: [2027 Summer Intern, MS/PhD, Software Engineer, Sys Intel & Machine Learning](https://careers.withwaymo.com/jobs?gh_jid=8233746)
+- 2026-09-25 — **Waymo**: [2027 Summer Intern, MS/PhD, Software Engineering, Sys Intel & ML](https://careers.withwaymo.com/jobs?gh_jid=8234161)
+- 2026-09-25 — **Waymo**: [2027 Summer Intern, MS/PhD, Systems Engineer, Autonomous Vehicle Networks & Diagnostics](https://careers.withwaymo.com/jobs?gh_jid=8231711)
 - 2026-09-24 — **ABB**: [Product Management Intern](https://abb.wd3.myworkdayjobs.com/external_career_page/job/New-Berlin-Wisconsin-United-States-of-America/Product-Management-Intern---Summer-2027_JR00047280)
 - 2026-09-24 — **Arconic**: [Software Developer Intern](https://hdnn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/114233)
 - 2026-09-24 — **Astranis**: [FPGA Intern - Summer 2027](https://job-boards.greenhouse.io/astranis/jobs/4704805006)
 - 2026-09-24 — **Astranis**: [FPGA Intern - Winter 2027](https://job-boards.greenhouse.io/astranis/jobs/4704803006)
-- 2026-09-24 — **Astranis**: [Network Software Intern](https://job-boards.greenhouse.io/astranis/jobs/4705597006)
-- 2026-09-24 — **Astranis**: [RF Validation Intern - Summer 2027](https://job-boards.greenhouse.io/astranis/jobs/4716499006)
-- 2026-09-24 — **Astranis**: [Software Defined Radio Hardware Intern - Summer 2027](https://job-boards.greenhouse.io/astranis/jobs/4716088006)
-- 2026-09-24 — **Astranis**: [Software Defined Radio Hardware Intern - Winter 2027](https://job-boards.greenhouse.io/astranis/jobs/4716087006)
-- 2026-09-24 — **Astranis**: [Software Developer – Network Software Intern](https://job-boards.greenhouse.io/astranis/jobs/4705599006)
 
 ## Recently closed
 
@@ -79,9 +79,11 @@ _Generated 2026-09-25_
 - Allegheny County — Business Analytics Intern
 - Allen Control Systems — Systems Engineering Intern
 - Amazon — Applied Science Intern - Multiple Teams
+- Amazon — Applied Science Intern - PhD Student Science Recruiting
 - Amazon — Applied Science Intern - Science Recruiting
 - Amazon — Quantum Applied Science Intern - Center for Quantum Computing
 - AMD — Software Engineer Intern/Co-op
+- American Fidelity — Agentic AI Intern
 - American Fidelity — Data Intern
 - American Fidelity — Software Development Intern
 - American Fidelity — Software Mobile Intern
@@ -134,7 +136,12 @@ _Generated 2026-09-25_
 - Block — Applied Research Intern, Proactive Intelligence & Customer World Models (PhD / Graduate Co-op)
 - Blue Cross and Blue Shield of Kansas — RPA Engineer Intern
 - Booz Allen — Data Scientist Intern
+- Booz Allen — Data Scientist Intern
+- Booz Allen — Data Scientist Intern
+- Booz Allen — Software Developer Intern
+- Booz Allen — Software Developer Intern
 - Booz Allen — Software Developer Intern - Summer Games
+- Booz Allen — Software Developer Intern - University
 - Booz Allen — Software Developer Intern - University
 - Booz Allen — Software Developer Intern - University
 - Booz Allen — Software Developer Intern - University
@@ -166,6 +173,7 @@ _Generated 2026-09-25_
 - CAI — Data Engineer Intern
 - CAI — Software Developer Intern
 - CALSTART — Data Analysis Intern
+- Capital One — Data Science Intern
 - Castleton Commodities International — Commodities Trading Analyst Intern
 - CCC Intelligent Solutions — Data Science Intern - R&D
 - Centene — Data and Analytics Intern - Undergraduate
@@ -203,12 +211,15 @@ _Generated 2026-09-25_
 - DiDi Global — Motion Planning Engineer Intern - PhD
 - Dmg Media — AI Engineer Intern - Innovation Team
 - Ecolab — Research and Development Intern
+- Eight Sleep — Prototype & Test Engineer Intern - New Product Development
 - Enact Mortgage Insurance — Commercial Analytics and Optimization Team Intern
 - Enact Mortgage Insurance — Data Science Intern
 - Enact Mortgage Insurance — Process Improvement Analyst Intern
 - Enact Mortgage Insurance — Software Engineer Intern
 - Engenious Design — Electrical Engineering Intern
 - Entergy — AI Agent Development Intern
+- Epic Games — Machine Learning Intern
+- Epic Games — Machine Learning Intern - Special Projects - Epic Research Group
 - EquipmentShare — Electrical Engineering Intern
 - Excellus BCBS — Software Engineering Intern - Multiple Openings
 - Fannie Mae — Treasury & Capital Markets Intern - Quantitative Research Track
@@ -257,6 +268,7 @@ _Generated 2026-09-25_
 - Hitachi — Onboard Software Developer Intern
 - Hitachi — Software Analyst Intern
 - Hitachi — Software Analyst Intern
+- HMH — Software Engineer Intern
 - HP IQ — Software Engineer Intern - Software Systems
 - Humanscale — Electrical Design Engineer Intern
 - Ignite Digital Services — Engineer/Scientist Intern
@@ -269,10 +281,15 @@ _Generated 2026-09-25_
 - Interco — Software Development Intern - React
 - ISN Software — Product Strategy Intern
 - JP Morgan Chase — Machine Learning Engineer Summer Associate Intern - Asset and Wealth Management
+- Junior AI — Software Engineer Intern
 - Keysight Technologies — Full Stack Intern
+- Kodiak Robotics — AI/ML Intern - Artificial Intelligence/Machine Learning
 - L3Harris Technologies — Configuration Management Intern
+- L3Harris Technologies — Image Science Engineer Intern
 - L3Harris Technologies — Integration and Test Engineer Intern - Non-Automation
 - L3Harris Technologies — Software Engineer Intern
+- Lazard — AI Engineer Intern
+- Lazard — Software Engineer Intern - AI & Data Team
 - LEGO — Employee Engagement & Analytics Intern
 - Leidos — Artificial Intelligence/Machine Learning Intern
 - Leidos — Data Engineering & Analytics Intern
@@ -330,6 +347,7 @@ _Generated 2026-09-25_
 - Neuralink — Biomedical Engineer Intern
 - Neuralink — R&D Materials Engineer Intern
 - Nokia — Optical Test Co-op Intern
+- Nokia — Software Tools Development Co-op Intern
 - Nokia — Tools and Automation Software Developer Co-op/Intern
 - Nomagic — Engineering Intern - Software or Hardware
 - North Atlantic Industries — Electrical Engineer Intern - Test Systems
@@ -372,6 +390,7 @@ _Generated 2026-09-25_
 - Paccar — Software Developer Intern
 - Parsons — Software Developer Intern - Fall 2026/Spring 2027
 - PennState University — Research and Development Engineering Intern
+- Persona — Software Engineer Intern
 - Philips — Software Engineer Intern
 - Plastipak — Software Engineer Intern
 - Postman — AI Engineer Intern
@@ -557,12 +576,15 @@ _Generated 2026-09-25_
 - United Airlines — Tech Ops Analytics & Business Intelligence Intern - Summer 2027
 - University of St. Thomas — Semiconductor Test AI Intern - Minnesota Semiconductor AI Hub
 - Urban Science — Data Driven Analysis Intern - Fall 2026
+- USAA — AI/ML Engineer Intern
+- USAA — Data Scientist Intern
 - Vanguard — Technical Product Manager Intern
 - Verizon Communications — AI/ML Engineering Intern - Consumer Group
 - Verizon Communications — AI Science Intern - Multiple Teams
 - Verizon Communications — AI Science Intern - Network and Technology
 - Verizon Communications — Marketing Technology Intern - Consumer Group
 - Visa — Associate Product Manager Intern - APM
+- Visa — Software Engineer Intern
 - Visa — Software Engineer Intern
 - Visa — Software Engineer Intern
 - Visa — Software Engineer Intern

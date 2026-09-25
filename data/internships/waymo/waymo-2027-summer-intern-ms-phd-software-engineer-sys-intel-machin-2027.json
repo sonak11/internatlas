@@ -1,20 +1,21 @@
 {
   "schema_version": "1.0",
-  "id": "waymo-2027-summer-intern-ms-phd-software-engineer-ro-performance-t-2027",
+  "id": "waymo-2027-summer-intern-ms-phd-software-engineer-sys-intel-machin-2027",
   "company": {
     "name": "Waymo",
     "slug": "waymo",
     "career_page": "https://waymo.com/careers"
   },
-  "role": "2027 Summer Intern, MS/PhD, Software Engineer, RO Performance team, Release Evaluation (Simulation)",
-  "category": "software-engineering",
-  "apply_url": "https://careers.withwaymo.com/jobs?gh_jid=8214729",
+  "role": "2027 Summer Intern, MS/PhD, Software Engineer, Sys Intel & Machine Learning",
+  "category": "machine-learning",
+  "apply_url": "https://careers.withwaymo.com/jobs?gh_jid=8233746",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Warsaw",
+      "city": "Mountain View",
+      "state": "CA",
       "country": "USA"
     }
   ],
@@ -40,8 +41,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-18",
-    "discovered": "2026-09-18",
+    "posted": "2026-09-25",
+    "discovered": "2026-09-25",
     "last_verified": "2026-09-25"
   },
   "status": "open",
