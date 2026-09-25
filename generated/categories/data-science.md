@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 📊 Data Science Internships
 
-**199** tracked · **151** open now
+**200** tracked · **152** open now
 
 ## Current openings
 
@@ -130,6 +130,7 @@
 | [Robert Bosch Venture Capital](generated/companies/robert-bosch-venture-capital.md) | [Calibration Process Data Science Intern - 8 months/40 hours per week](https://jobs.smartrecruiters.com/BoschGroup/744000146524429) | Farmington Hills, MI | Onsite | 2026-08-31 | Rolling | 🟢 Open | ❔ |
 | [Schonfeld](generated/companies/schonfeld.md) | [Data Science Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8171692) | NYC | Onsite | 2026-09-04 | Rolling | 🟢 Open | ❔ |
 | [Securian Financial Group](generated/companies/securian-financial-group.md) | [Data Science and Advanced Analytics Intern - Multiple Teams](https://hq.wd12.myworkdayjobs.com/Securian_External/job/Saint-Paul-MN-Campus/Data-Science-and-Advanced-Analytics-Internship---Summer-2027_R-010894) | St Paul, MN | Onsite | 2026-09-10 | Rolling | 🟢 Open | ❔ |
+| [State Farm](generated/companies/state-farm.md) | [Data Science Intern - Magnet Program](https://jobs.statefarm.com/jobs/46353?icims=1) | Tempe, AZ | Onsite | 2026-09-24 | Rolling | 🟢 Open | ❔ |
 | [State Farm](generated/companies/state-farm.md) | [Data Science Intern - Magnet Program - Online MS Analytics](https://jobs.statefarm.com/jobs/46057?icims=1) | Athens, GA | Onsite | 2026-09-10 | Rolling | 🟢 Open | ❔ |
 | [TD Bank](generated/companies/td-bank.md) | [Data Science Intern/Co-op](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Enterprise-Real-Estate-Intern-Co-op_R_1504711) | Toronto | Onsite | 2026-09-08 | Rolling | 🟢 Open | ❔ |
 | [The Hartford](generated/companies/the-hartford.md) | [Data Science Intern - Summer 2027](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Data-Science-Intern---Summer-2027_R2627114) | Chicago, IL +2 | Onsite | 2026-09-17 | Rolling | 🟢 Open | ❔ |
@@ -152,8 +153,8 @@
 | [Walmart](generated/companies/walmart.md) | [Data Science Intern 3](https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-ISD-Office---DGTC-AR-BENTONVILLE-Home-Office/Summer-2027-Intern---Data-Science-III_R-2630030) | Bentonville, AR | Onsite | 2026-09-10 | Rolling | 🟢 Open | ❔ |
 | [Walmart](generated/companies/walmart.md) | [Senior Data Scientist Intern](https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-ISD-Office---DGTC-AR-BENTONVILLE-Home-Office/Summer-2027-Intern--Intern--Sr-Data-Science_R-2630032) | Bentonville, AR | Onsite | 2026-09-10 | Rolling | 🟢 Open | ❔ |
 | [Waymo](generated/companies/waymo.md) | [2027 Summer Intern, MS/PhD, Data Science - Commercialization Testing](https://careers.withwaymo.com/jobs?gh_jid=8167323) | San Francisco +1 | Onsite | 2026-08-31 | Rolling | 🟢 Open | ❔ |
+| [Waymo](generated/companies/waymo.md) | [2027 Summer Intern, MS/PhD, Product Data Science](https://careers.withwaymo.com/jobs?gh_jid=8199365) | San Francisco +1 | Onsite | 2026-09-18 | Rolling | 🟢 Open | ❔ |
 | [Waymo](generated/companies/waymo.md) | [2027 Summer Intern, PhD, Data Science](https://careers.withwaymo.com/jobs?gh_jid=8221956) | Mountain View, CA +1 | Onsite | 2026-09-22 | Rolling | 🟢 Open | ❔ |
-| [Waymo](generated/companies/waymo.md) | [2027 Summer Intern, PhD, Product Data Science](https://careers.withwaymo.com/jobs?gh_jid=8199365) | San Francisco +1 | Onsite | 2026-09-18 | Rolling | 🟢 Open | ❔ |
 | [West Bend Insurance](generated/companies/west-bend-insurance.md) | [Data Scientist Intern](https://careers-thesilverlining.icims.com/jobs/3785/job?mobile=true&needsRedirect=false) | Madison, WI +1 | Onsite | 2026-09-23 | Rolling | 🟢 Open | ❔ |
 | [WhiteWater Midstream](generated/companies/whitewater-midstream.md) | [Data Science Intern - Summer 2027](https://job-boards.greenhouse.io/whitewatermidstream/jobs/5217853007) | Austin, TX | Onsite | 2026-08-26 | Rolling | 🟢 Open | ❔ |
 | [WTW](generated/companies/wtw.md) | [Data Scientist Intern - P&C Insurance](https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202605997) | London +1 | Onsite | 2026-09-18 | Rolling | 🟢 Open | ❔ |
@@ -240,6 +241,7 @@
 - Nokia (2)
 - Notion (2)
 - Procter & Gamble (2)
+- State Farm (2)
 - The Home Depot (2)
 - The Nuclear Company (2)
 - TWG Global (2)
@@ -300,7 +302,6 @@
 - Robert Bosch Venture Capital (1)
 - Schonfeld (1)
 - Securian Financial Group (1)
-- State Farm (1)
 - TD Bank (1)
 - The Hartford (1)
 - URBN (1)

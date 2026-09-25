@@ -8,9 +8,6 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
-| Anduril | [2026 Mechanical Engineering Intern](https://boards.greenhouse.io/andurilindustries/jobs/5211102007?gh_jid=5211102007) | Sydney | Onsite | 2026-09-02 | Rolling | 🟢 Open | ❔ |
-| Anduril | [2026 Robotics Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5211095007?gh_jid=5211095007) | Sydney | Onsite | 2026-09-04 | Rolling | 🟢 Open | ❔ |
-| Anduril | [2026 Software Engineering Intern](https://boards.greenhouse.io/andurilindustries/jobs/5211077007?gh_jid=5211077007) | Sydney | Onsite | 2026-09-02 | Rolling | 🟢 Open | ❔ |
 | Anduril | [2027 Electrical Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5148101007?gh_jid=5148101007) | Atlanta | Onsite | 2026-06-11 | Rolling | 🟢 Open | ❔ |
 | Anduril | [2027 Flight Software Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5239083007?gh_jid=5239083007) | Costa Mesa | Onsite | 2026-09-15 | Rolling | 🟢 Open | ❔ |
 | Anduril | [2027 Manufacturing Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5153218007?gh_jid=5153218007) | Atlanta | Onsite | 2026-06-11 | Rolling | 🟢 Open | ❔ |
@@ -21,6 +18,9 @@
 | Anduril | [Flight Software Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5239083007) | Costa Mesa, CA | Onsite | 2026-09-15 | Rolling | 🟢 Open | ❔ |
 | Anduril | [Software Engineer Intern](https://job-boards.greenhouse.io/andurilindustries/jobs/5148079007?gh_jid=5148079007) | Atlanta, GA +5 | Onsite | 2026-07-07 | Rolling | 🟢 Open | ❔ |
 | Anduril | [Software Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5148079007) | Boston, MA +5 | Onsite | 2026-06-11 | Rolling | 🟢 Open | ❔ |
+| Anduril | [2026 Mechanical Engineering Intern](https://boards.greenhouse.io/andurilindustries/jobs/5211102007?gh_jid=5211102007) | Sydney | Onsite | 2026-09-02 | Rolling | 🔴 Closed | ❔ |
+| Anduril | [2026 Robotics Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5211095007?gh_jid=5211095007) | Sydney | Onsite | 2026-09-04 | Rolling | 🔴 Closed | ❔ |
+| Anduril | [2026 Software Engineering Intern](https://boards.greenhouse.io/andurilindustries/jobs/5211077007?gh_jid=5211077007) | Sydney | Onsite | 2026-09-02 | Rolling | 🔴 Closed | ❔ |
 | Anduril | [2027 Hardware Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5231555007?gh_jid=5231555007) | Dublin | Onsite | 2026-09-09 | Rolling | 🔴 Closed | ❔ |
 | Anduril | [2027 Mechanical Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5232027007?gh_jid=5232027007) | Dublin | Onsite | 2026-09-09 | Rolling | 🔴 Closed | ❔ |
 | Anduril | [2027 Quality & Test Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5231653007?gh_jid=5231653007) | Dublin | Onsite | 2026-09-09 | Rolling | 🔴 Closed | ❔ |

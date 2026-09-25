@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🎨 Design Internships
 
-**139** tracked · **95** open now
+**140** tracked · **95** open now
 
 ## Current openings
 
@@ -14,7 +14,6 @@
 | [Analog Devices](generated/companies/analog-devices.md) | [Analog Design Engineer Intern](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Analog-Design-Engineer-Intern_R265297) | Wilmington, MA +1 | Onsite | 2026-08-21 | Rolling | 🟢 Open | ❔ |
 | [Analog Devices](generated/companies/analog-devices.md) | [Digital Design Engineer Intern](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-NC-Durham/Digital-Design-Engineer-Intern_R265298) | San Jose, CA +1 | Onsite | 2026-08-24 | Rolling | 🟢 Open | ❔ |
 | [Atomic Semi](generated/companies/atomic-semi.md) | [Software Engineer Intern, Chip Design Tools](https://jobs.ashbyhq.com/fab2/907766af-a3c0-49a3-b01e-246baa437d10?embed=true) | San Francisco, CA | Onsite | 2026-07-27 | Rolling | 🟢 Open | ✅ |
-| [Ciena](generated/companies/ciena.md) | [Layout Design Intern - Fall 2026](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Layout-Design-Intern--Fall-2026-_R031587) | Ottawa | Onsite | 2026-08-27 | Rolling | 🟢 Open | ❔ |
 | [Coinbase](generated/companies/coinbase.md) | [Product Design Intern](https://www.coinbase.com/careers/positions/8175339?gh_jid=8175339) | Hybrid | Onsite | 2026-09-08 | Rolling | 🟢 Open | ❔ |
 | [Dedalus Labs](generated/companies/dedalus-labs.md) | [Design Engineer Intern](https://jobs.ashbyhq.com/dedalus-labs/bcd6db2e-400b-4ffa-aef3-0948a7b558c2/application?embed=true) | SF | Onsite | 2026-08-15 | Rolling | 🟢 Open | ❔ |
 | [DoorDash](generated/companies/doordash.md) | [Product Design, Intern (Summer 2027)](https://job-boards.greenhouse.io/doordashusa/jobs/8176863) | San Francisco, CA | Onsite | 2026-09-03 | Rolling | 🟢 Open | ❔ |
@@ -32,6 +31,7 @@
 | [Jump Trading](generated/companies/jump-trading.md) | [Campus UI Software Engineer Intern](https://boards.greenhouse.io/embed/job_app?token=7974943) | London | Onsite | 2026-07-13 | Rolling | 🟢 Open | ❔ |
 | [Marvell](generated/companies/marvell.md) | [Analog Design Intern](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Analog-Design-Intern--MS---Summer-2027_2604510) | Santa Clara, CA +1 | Onsite | 2026-09-04 | Rolling | 🟢 Open | ❔ |
 | [Marvell](generated/companies/marvell.md) | [Analog Design Intern - MS](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Analog-Design-Intern--MS---Summer-2027_2604510-1) | Santa Clara, CA +1 | Onsite | 2026-09-04 | Rolling | 🟢 Open | ❔ |
+| [Marvell](generated/companies/marvell.md) | [Analog Design Intern Co-op - Master’s](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Toronto-Canada/Analog-Design-Intern--Master-s---2027-Co-Op_2603862) | Toronto | Onsite | 2026-09-24 | Rolling | 🟢 Open | ❔ |
 | [Marvell](generated/companies/marvell.md) | [Design for Test Intern](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Morrisville-NC/Design-for-Test-Intern--BS---Summer-2027_2604511-1) | Morrisville, NC +3 | Onsite | 2026-09-04 | Rolling | 🟢 Open | ❔ |
 | [Marvell](generated/companies/marvell.md) | [Design for Test Intern](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Morrisville-NC/Design-for-Test-Intern--BS---Summer-2027_2604511) | Morrisville, NC +3 | Onsite | 2026-09-04 | Rolling | 🟢 Open | ❔ |
 | [Marvell](generated/companies/marvell.md) | [Design for Test Intern - MS](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Design-For-Test-Intern--MS---Summer-2027_2603788) | Santa Clara, CA | Onsite | 2026-09-17 | Rolling | 🟢 Open | ❔ |
@@ -109,6 +109,7 @@
 | [Brunswick](generated/companies/brunswick.md) | [Software Engineer Intern - Boating Intelligence Design Lab](https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Champaign-IL/Software-Engineering-Intern_JR-051316) | Champaign, IL | Onsite | 2026-08-24 | Rolling | 🔴 Closed | ❔ |
 | [By Light Professional IT Services](generated/companies/by-light-professional-it-services.md) | [Software Design Engineer Intern](https://jobs-bylight.icims.com/jobs/11204/job?mobile=true&needsRedirect=false) | Orlando, FL | Onsite | 2026-08-18 | Rolling | 🔴 Closed | ❔ |
 | [Cadence Design Systems](generated/companies/cadence-design-systems.md) | [SSG Design Engineering Intern](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/SSG-Design-Engineering-Intern--Fall-2026-_R52641) | San Jose, CA | Onsite | 2026-07-16 | Rolling | 🔴 Closed | ❔ |
+| [Ciena](generated/companies/ciena.md) | [Layout Design Intern - Fall 2026](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Layout-Design-Intern--Fall-2026-_R031587) | Ottawa | Onsite | 2026-08-27 | Rolling | 🔴 Closed | ❔ |
 | [Ciena](generated/companies/ciena.md) | [Wavelogic Systems Design Architecture Intern](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/WaveLogic-Systems-Design-Architecture-Intern--8-12-months-_R031286) | Ottawa | Onsite | 2026-07-06 | Rolling | 🔴 Closed | ❔ |
 | [DoorDash](generated/companies/doordash.md) | [Product Designer, Intern (Summer 2027)](https://job-boards.greenhouse.io/doordashusa/jobs/8187876) | San Francisco, CA | Onsite | 2026-09-09 | Rolling | 🔴 Closed | ❔ |
 | [Fab2](generated/companies/fab2.md) | [Rust Software Engineer Intern - Chip Design Tools](https://jobs.ashbyhq.com/fab2/907766af-a3c0-49a3-b01e-246baa437d10/application?embed=true) | SF | Onsite | 2026-07-21 | Rolling | 🔴 Closed | ❔ |
@@ -150,7 +151,7 @@
 
 ## Hiring companies
 
-- Marvell (24)
+- Marvell (25)
 - Tesla (17)
 - Qorvo (13)
 - NXP Semiconductors (8)
@@ -164,13 +165,13 @@
 - Vertiv (3)
 - Interstates (3)
 - Analog Devices (2)
-- Ciena (2)
 - DoorDash (2)
 - Garmin (2)
 - Qualcomm (2)
 - RTX (2)
 - Astranis (2)
 - Brunswick (2)
+- Ciena (2)
 - Microchip Technology (2)
 - Atomic Semi (1)
 - Coinbase (1)

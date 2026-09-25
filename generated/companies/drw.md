@@ -14,6 +14,7 @@
 | DRW | [Quantitative Trading Analyst Intern](https://job-boards.greenhouse.io/drweng/jobs/7957243) | London | Onsite | 2026-07-13 | Rolling | 🟢 Open | ❔ |
 | DRW | [Software Developer Intern](https://www.drw.com/work-at-drw/listings/software-developer-intern-3467328) | Chicago, IL | Onsite | 2026-07-31 | Rolling | 🟢 Open | ❔ |
 | DRW | [Software Developer Intern](https://www.drw.com/work-at-drw/listings/software-developer-intern-3466687) | Montréal | Onsite | 2026-07-31 | Rolling | 🟢 Open | ❔ |
+| DRW | [Software Developer Intern](https://job-boards.greenhouse.io/drwuniversityjobs/jobs/8220587) | Chicago, IL | Onsite | 2026-09-24 | Rolling | 🟢 Open | ❔ |
 
 ## Related
 

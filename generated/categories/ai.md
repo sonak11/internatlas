@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🤖 AI Internships
 
-**409** tracked · **244** open now
+**410** tracked · **248** open now
 
 ## Current openings
 
@@ -116,6 +116,7 @@
 | [HD Supply](generated/companies/hd-supply.md) | [Artificial Intelligence and Data Science Intern - Artificial Intelligence & Data Science](https://hdsupply.wd1.myworkdayjobs.com/External/job/Atlanta-GA-US/Graduate-Intern--Artificial-Intelligence---Data-Science---Summer-2027_R26004952) | Atlanta, GA | Onsite | 2026-09-02 | Rolling | 🟢 Open | ❔ |
 | [Helsing](generated/companies/helsing.md) | [AI Research Intern - 3D Computer Vision](https://helsing.ai/jobs/4941957101?gh_jid=4941957101) | London +4 | Onsite | 2026-07-30 | Rolling | 🟢 Open | ❔ |
 | [Homebase](generated/companies/homebase.md) | [Forward Deployed Engineering Intern, AI-Native](https://jobs.ashbyhq.com/homebase/a7ab59c0-786e-4675-b684-2ed19b240fb2) | Houston, TX +1 | Onsite | 2026-04-28 | Rolling | 🟢 Open | ❔ |
+| [Howmet Aerospace](generated/companies/howmet-aerospace.md) | [Artificial Intelligence Intern - AI](https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/119494) | Pittsburgh, PA | Onsite | 2026-09-17 | Rolling | 🟢 Open | ❔ |
 | [Huntington Bancshares](generated/companies/huntington-bancshares.md) | [Business Innovation & AI Products Intern](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Austin-TX/Summer-2027-Business-Innovation---AI-Products-Intern_R0075876) | Austin, TX +2 | Onsite | 2026-09-15 | Rolling | 🟢 Open | ❔ |
 | [Intact](generated/companies/intact.md) | [AI Developer Intern Co-op](https://intactfc.wd3.myworkdayjobs.com/en-US/intactfc/job/Montral-Quebec-CAN/AI-Developer---4-Month-Internship-Co-op--Winter-2027--_R155233) | Montreal | Onsite | 2026-09-09 | Rolling | 🟢 Open | ❔ |
 | [Intact](generated/companies/intact.md) | [AI Developer Intern Co-op - Winter 2027](https://intactfc.wd3.myworkdayjobs.com/en-US/intactfc/job/Vancouver-British-Columbia-CAN/AI-Developer---4-Month-Internship-Co-op--Winter-2027--_R155235) | Vancouver | Onsite | 2026-09-09 | Rolling | 🟢 Open | ❔ |
@@ -135,6 +136,7 @@
 | [Kinaxis](generated/companies/kinaxis.md) | [AI Quality Co-op Intern - Evaluation & Security](https://careers-kinaxis.icims.com/jobs/35378/job?mobile=true&needsRedirect=false) | Ottawa | Onsite | 2026-09-17 | Rolling | 🟢 Open | ❔ |
 | [Kinaxis](generated/companies/kinaxis.md) | [Developer Intern - AI Solutions](https://careers-kinaxis.icims.com/jobs/35343/job?mobile=true&needsRedirect=false) | Ottawa | Onsite | 2026-09-09 | Rolling | 🟢 Open | ❔ |
 | [Kinaxis](generated/companies/kinaxis.md) | [Developer Intern Co-op - AI Innovation](https://careers-kinaxis.icims.com/jobs/35377/job?mobile=true&needsRedirect=false) | Ottawa | Onsite | 2026-09-17 | Rolling | 🟢 Open | ❔ |
+| [Lazard](generated/companies/lazard.md) | [AI and Data Transformation Intern](https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6650) | NYC | Onsite | 2026-09-24 | Rolling | 🟢 Open | ❔ |
 | [Lazard](generated/companies/lazard.md) | [AI Engineer Intern](https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6606) | NYC | Onsite | 2026-09-21 | Rolling | 🟢 Open | ❔ |
 | [Lazard](generated/companies/lazard.md) | [Software Engineer Intern - AI & Data Team](https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6603) | NYC | Onsite | 2026-09-18 | Rolling | 🟢 Open | ❔ |
 | [Lennox International](generated/companies/lennox-international.md) | [AI & Analytics Intern](https://uscareers-lennox.icims.com/jobs/54804/job?mobile=true&needsRedirect=false) | Richardson, TX | Onsite | 2026-09-17 | Rolling | 🟢 Open | ❔ |
@@ -145,6 +147,7 @@
 | [Medline](generated/companies/medline.md) | [RPA & Agentic AI Software Technologies Intern - Summer 2027](https://medline.wd5.myworkdayjobs.com/en-US/Medline/job/Northbrook-Illinois/RPA---Agentic-AI-Software-Technologies-Intern---Summer-2027_R2617378) | Northbrook, IL | Onsite | 2026-08-31 | Rolling | 🟢 Open | ❔ |
 | [Medpace](generated/companies/medpace.md) | [AI Engineer Intern](https://careers.medpace.com/jobs/12863?icims=1) | London | Onsite | 2026-07-21 | Rolling | 🟢 Open | ❔ |
 | [Medpace, Inc.](generated/companies/medpace-inc.md) | [AI Engineer Intern](https://careers.medpace.com/jobs/12729?lang=en-us&icims=1) | Cincinnati, OH | Onsite | 2026-05-14 | Rolling | 🟢 Open | ❔ |
+| [Meta](generated/companies/meta.md) | [Research Scientist Intern - AI Alignment](https://www.metacareers.com/jobs/1782902493113620) | Boston, MA +5 | Onsite | 2026-03-05 | Rolling | 🟢 Open | ❔ |
 | [Meta](generated/companies/meta.md) | [Research Scientist Intern, LLM Evaluation](https://www.metacareers.com/profile/job_details/4203446973242742) | New York, NY | Onsite | 2025-12-11 | Rolling | 🟢 Open | ❌ |
 | [Micron Technology](generated/companies/micron-technology.md) | [AI Systems and Infrastructure Engineering Intern](https://micron.wd1.myworkdayjobs.com/External/job/Austin-TX/Intern---AI-Systems-and-Infrastructure-Engineering_JR109990) | Austin, TX | Onsite | 2026-08-31 | Rolling | 🟢 Open | ❔ |
 | [Micron Technology](generated/companies/micron-technology.md) | [Technical Customer Management Intern - AI](https://micron.wd1.myworkdayjobs.com/External/job/Longmont-MAX--Office-CO/Intern---Technical-Customer-Management--AI_JR109454) | Longmont, CO | Onsite | 2026-08-27 | Rolling | 🟢 Open | ❔ |
@@ -210,6 +213,7 @@
 | [Tesla](generated/companies/tesla.md) | [Software Integration Engineer Intern, AI Platforms](https://www.tesla.com/careers/search/job/247873?source=Indeed&source=Indeed&tags=organicjob) | Palo Alto, CA | Onsite | 2025-08-08 | Rolling | 🟢 Open | ❔ |
 | [The Friedkin Group](generated/companies/the-friedkin-group.md) | [IT Data Analytics Intern - Business Systems & AI](https://external-careers-friedkin.icims.com/jobs/6759/job?mobile=true&needsRedirect=false) | Houston, TX | Onsite | 2026-09-11 | Rolling | 🟢 Open | ❔ |
 | [The Hartford](generated/companies/the-hartford.md) | [Data Engineer Intern - Technology, Data, AI, and Operations](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Chicago-IL/Tech---Data-Program-Summer-2027---Data-Engineer-Intern--Chicago-_R2626650) | Chicago, IL | Onsite | 2026-08-26 | Rolling | 🟢 Open | ❔ |
+| [The Hartford](generated/companies/the-hartford.md) | [Data Engineer Intern - Technology, Data, AI, and Operations](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Tech---Data-Program-Summer-2027---Data-Engineer-Intern--Hartford-_R2626103-1) | Hartford, CT | Onsite | 2026-08-24 | Rolling | 🟢 Open | ❔ |
 | [The Hartford](generated/companies/the-hartford.md) | [Data Engineer Intern - Technology, Data, AI, and Operations](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Charlotte-NC/Tech---Data-Program-Summer-2027---Data-Engineer-Intern--Charlotte-_R2626648) | Charlotte, NC | Onsite | 2026-08-26 | Rolling | 🟢 Open | ❔ |
 | [The Hartford](generated/companies/the-hartford.md) | [Software Engineer Intern - Technology, Data, AI, and Operations](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Charlotte-NC/Tech---Data-Program-Summer-2027---Software-Engineer-Intern--Charlotte-_R2626649) | Charlotte, NC | Onsite | 2026-08-26 | Rolling | 🟢 Open | ❔ |
 | [The Nuclear Company](generated/companies/the-nuclear-company.md) | [AI Applied Research Intern](https://job-boards.greenhouse.io/thenuclearcompany/jobs/5391923008) | Washington, DC | Onsite | 2026-08-14 | Rolling | 🟢 Open | ❌ |
@@ -319,7 +323,6 @@
 | [Grant Thornton](generated/companies/grant-thornton.md) | [AI, Data & Technology Intern - Summer 2027](https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/115681) | Chicago, IL | Onsite | 2026-08-27 | Rolling | 🔴 Closed | ❔ |
 | [Gulfstream](generated/companies/gulfstream.md) | [AI Product Collegiate Associate Intern](https://careers.gulfstream.com/job/Savannah-Spring-2027-AI-Product-Collegiate-Associate-Intern-GA-31401/1430047800/?ats=successfactors) | Savannah, GA | Onsite | 2026-09-15 | Rolling | 🔴 Closed | ❔ |
 | [Gulfstream](generated/companies/gulfstream.md) | [Azure AI Collegiate Associate Intern](https://careers.gulfstream.com/job/Savannah-Spring-2027-Azure-AI-Collegiate-Associate-Intern-GA-31401/1430045500/?ats=successfactors) | Savannah, GA | Onsite | 2026-09-15 | Rolling | 🔴 Closed | ❔ |
-| [Howmet Aerospace](generated/companies/howmet-aerospace.md) | [Artificial Intelligence Intern - AI](https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/119494) | Pittsburgh, PA | Onsite | 2026-09-17 | Rolling | 🔴 Closed | ❔ |
 | [Intel](generated/companies/intel.md) | [AI Applied Intern](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/AI-Applied-intern_JR0285916) | Hillsboro, OR | Onsite | 2026-07-27 | Rolling | 🔴 Closed | ❔ |
 | [Intel](generated/companies/intel.md) | [AI Software Engineer Intern](https://intel.wd1.myworkdayjobs.com/en-us/external/job/Virtual-US/AI-Software-Engineer-Graduate-Intern_JR0285989) | Remote | Remote | 2026-08-03 | Rolling | 🔴 Closed | ❔ |
 | [Intel](generated/companies/intel.md) | [AI Software Engineering Intern](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/AI-Software-Engineering-Intern_JR0282639) | Hillsboro, OR +1 | Onsite | 2026-04-29 | Rolling | 🔴 Closed | ❌ |
@@ -333,7 +336,6 @@
 | [Mackenzie Investments](generated/companies/mackenzie-investments.md) | [Data Science and AI Specialist Intern - Investment Management - Fundamental Equity](https://careersen-mackenzieinvestments.icims.com/jobs/5938/job?mobile=true&needsRedirect=false) | Greater Toronto Area | Onsite | 2026-07-16 | Rolling | 🔴 Closed | ❔ |
 | [MaxLinear](generated/companies/maxlinear.md) | [AI Intern](https://careersus-maxlinear.icims.com/jobs/3049/job?mobile=true&needsRedirect=false) | Carlsbad, CA | Onsite | 2026-08-14 | Rolling | 🔴 Closed | ❔ |
 | [McKesson](generated/companies/mckesson.md) | [AI & Strategic Analytics Intern](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-ON-Mississauga/AI---Strategic-Analytics-Intern---Fall-2026_JR0150114) | Mississauga | Onsite | 2026-07-14 | Rolling | 🔴 Closed | ❔ |
-| [Meta](generated/companies/meta.md) | [Research Scientist Intern - AI Alignment](https://www.metacareers.com/jobs/1782902493113620) | Boston, MA +5 | Onsite | 2026-03-05 | Rolling | 🔴 Closed | ❔ |
 | [Meta](generated/companies/meta.md) | [Research Scientist Intern - Monetization Generative AI - LLM](https://www.metacareers.com/jobs/2916726525182155) | Seattle, WA +3 | Onsite | 2026-03-05 | Rolling | 🔴 Closed | ❔ |
 | [Meta](generated/companies/meta.md) | [Research Scientist Intern - Multimodal Contextual AI](https://www.metacareers.com/jobs/2160167211413098) | Redmond, WA | Onsite | 2026-05-15 | Rolling | 🔴 Closed | ❔ |
 | [Microsoft](generated/companies/microsoft.md) | [AI Software Engineer Intern](https://apply.careers.microsoft.com/careers/job/1970393556962891) | Redmond, WA +1 | Onsite | 2026-08-19 | Rolling | 🔴 Closed | ❔ |
@@ -393,7 +395,6 @@
 | [Tesla](generated/companies/tesla.md) | [Embedded Systems Software Engineer Intern - Embedded Systems Software Engineer - AI Platforms](https://www.tesla.com/careers/search/job/270778) | Palo Alto, CA | Onsite | 2026-06-07 | Rolling | 🔴 Closed | ❔ |
 | [Tesla](generated/companies/tesla.md) | [Software Engineer Intern - AI Data Infrastructure](https://www.tesla.com/careers/search/job/269829) | Palo Alto, CA | Onsite | 2026-06-07 | Rolling | 🔴 Closed | ❔ |
 | [Tesla](generated/companies/tesla.md) | [Software Engineer Intern - Software Engineer - AI Hardware Infrastructure](https://www.tesla.com/careers/search/job/260382) | Palo Alto, CA | Onsite | 2026-06-07 | Rolling | 🔴 Closed | ❔ |
-| [The Hartford](generated/companies/the-hartford.md) | [Data Engineer Intern - Technology, Data, AI, and Operations](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Tech---Data-Program-Summer-2027---Data-Engineer-Intern--Hartford-_R2626103-1) | Hartford, CT | Onsite | 2026-08-24 | Rolling | 🔴 Closed | ❔ |
 | [The Home Depot](generated/companies/the-home-depot.md) | [AI Engineer Intern](https://homedepot.wd5.myworkdayjobs.com/CareerDepotCanada/job/CANADA-STORE-SUPPORT-CENTER---7000/Intern--AI-Engineer_Req188547) | Toronto | Onsite | 2026-07-30 | Rolling | 🔴 Closed | ❔ |
 | [The Nuclear Company](generated/companies/the-nuclear-company.md) | [AI Software Engineer Intern](https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383113008) | Washington, DC | Onsite | 2026-08-07 | Rolling | 🔴 Closed | ❔ |
 | [TikTok](generated/companies/tiktok.md) | [AI Product Manager Intern - Content Ecosystem](https://lifeattiktok.com/search/7667578131150506293) | San Jose, CA | Onsite | 2026-08-04 | Rolling | 🔴 Closed | ❔ |
@@ -445,6 +446,7 @@
 - Intact (3)
 - JP Morgan Chase (3)
 - Kinaxis (3)
+- Lazard (3)
 - National Information Solutions Cooperative (3)
 - Scale AI (3)
 - The Nuclear Company (3)
@@ -462,7 +464,6 @@
 - Excellus BCBS (2)
 - General Dynamics Information Technology (2)
 - Intuit (2)
-- Lazard (2)
 - Lennox International (2)
 - Micron Technology (2)
 - Millennium (2)
@@ -534,6 +535,7 @@
 - HD Supply (1)
 - Helsing (1)
 - Homebase (1)
+- Howmet Aerospace (1)
 - Huntington Bancshares (1)
 - Intelcom | Dragonfly (1)
 - Johns Hopkins Applied Physics Laboratory (1)
@@ -604,7 +606,6 @@
 - Exabeam (1)
 - Exowatt (1)
 - Finastra (1)
-- Howmet Aerospace (1)
 - Intel Corporation (1)
 - Kirin (1)
 - L3Harris Technologies (1)

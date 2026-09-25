@@ -2,12 +2,13 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🧭 Product Internships
 
-**170** tracked · **129** open now
+**172** tracked · **131** open now
 
 ## Current openings
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
+| [ABB](generated/companies/abb.md) | [Product Management Intern](https://abb.wd3.myworkdayjobs.com/external_career_page/job/New-Berlin-Wisconsin-United-States-of-America/Product-Management-Intern---Summer-2027_JR00047280) | New Berlin, WI | Onsite | 2026-09-24 | Rolling | 🟢 Open | ❔ |
 | [Acxiom](generated/companies/acxiom.md) | [Product Manager Intern - Real Identity Product Team](https://acxiomllc.wd5.myworkdayjobs.com/AcxiomUSA/job/RemoteHomebased/Intern---Product-Management_JR014473-1) | Conway, AR | Onsite | 2026-09-15 | Rolling | 🟢 Open | ❔ |
 | [Allied Solutions](generated/companies/allied-solutions.md) | [Product Management Intern - Risk Management](https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/St-Paul-MN/Product-Management-Intern---Risk-Management_R-011083) | St Paul, MN | Onsite | 2026-09-02 | Rolling | 🟢 Open | ❔ |
 | [AMD](generated/companies/amd.md) | [Product Management Intern/Co-op - Multiple Teams](https://careers.amd.com/jobs/90411?icims=1) | Calgary | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
@@ -119,6 +120,7 @@
 | [TikTok](generated/companies/tiktok.md) | [Product Manager Intern - TikTok Ads Agent-Scaled Growth](https://lifeattiktok.com/search/7657728959042046213) | San Jose, CA | Onsite | 2026-07-07 | Rolling | 🟢 Open | ❔ |
 | [TikTok](generated/companies/tiktok.md) | [Recommendation Product Manager Intern - Content Ecosystem](https://lifeattiktok.com/search/7667874197682899205) | San Jose, CA | Onsite | 2026-08-04 | Rolling | 🟢 Open | ❔ |
 | [TikTok](generated/companies/tiktok.md) | [Strategy Product Manager Intern - Platform Responsibility](https://lifeattiktok.com/search/7670420287191517493) | San Jose, CA | Onsite | 2026-08-06 | Rolling | 🟢 Open | ❔ |
+| [Tradeweb](generated/companies/tradeweb.md) | [Market Data Product Management Intern](https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301932) | NYC | Onsite | 2026-09-24 | Rolling | 🟢 Open | ❔ |
 | [Trimble](generated/companies/trimble.md) | [Product Management Intern](https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---CO-Westminster/Product-Management-Intern_R57675-1) | Westminster, CO +1 | Onsite | 2026-09-08 | Rolling | 🟢 Open | ❔ |
 | [U.S. Bank](generated/companies/u-s-bank.md) | [Product Management Intern](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/XMLNAME-2027-Product-Management-Summer-Intern_2026-0026766) | Minneapolis, MN | Onsite | 2026-09-08 | Rolling | 🟢 Open | ❔ |
 | [Uline](generated/companies/uline.md) | [Product Management Intern](https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Product-Management-Internship---Summer-2027_R265939) | Waukegan, IL +4 | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
@@ -214,6 +216,7 @@
 - DTCC (2)
 - Salesforce (2)
 - SOTI (2)
+- ABB (1)
 - Acxiom (1)
 - Allied Solutions (1)
 - AMD (1)
@@ -242,6 +245,7 @@
 - Skydio (1)
 - Tessera Labs (1)
 - The Home Depot (1)
+- Tradeweb (1)
 - Trimble (1)
 - U.S. Bank (1)
 - Uline (1)

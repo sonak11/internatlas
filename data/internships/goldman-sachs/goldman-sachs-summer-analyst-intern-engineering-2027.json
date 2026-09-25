@@ -7,14 +7,15 @@
   },
   "role": "Summer Analyst Intern - Engineering",
   "category": "software-engineering",
-  "apply_url": "https://higher.gs.com/roles/170637?type=students",
+  "apply_url": "https://higher.gs.com/roles/177808?type=students",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Birmingham",
-      "country": "UK"
+      "city": "Seattle",
+      "state": "WA",
+      "country": "USA"
     }
   ],
   "compensation": {
@@ -43,7 +44,7 @@
   "dates": {
     "posted": "2026-08-15",
     "discovered": "2026-09-04",
-    "last_verified": "2026-09-24"
+    "last_verified": "2026-09-25"
   },
   "status": "open",
   "tags": [

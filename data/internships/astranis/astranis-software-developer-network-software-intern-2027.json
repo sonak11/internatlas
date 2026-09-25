@@ -1,0 +1,51 @@
+{
+  "schema_version": "1.0",
+  "id": "astranis-software-developer-network-software-intern-2027",
+  "company": {
+    "name": "Astranis",
+    "slug": "astranis"
+  },
+  "role": "Software Developer – Network Software Intern",
+  "category": "software-engineering",
+  "apply_url": "https://job-boards.greenhouse.io/astranis/jobs/4705599006",
+  "season": "winter",
+  "year": 2027,
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "SF",
+      "country": "USA"
+    }
+  ],
+  "compensation": {
+    "currency": "USD",
+    "housing_stipend": false,
+    "relocation_assistance": false
+  },
+  "eligibility": {
+    "graduation_years": [],
+    "degree_levels": [],
+    "citizenship_required": false,
+    "security_clearance_required": false,
+    "visa_sponsorship": "unknown"
+  },
+  "interview": {},
+  "tech": {
+    "required_skills": [],
+    "preferred_skills": [],
+    "languages": [],
+    "frameworks": [],
+    "cloud_platforms": [],
+    "resume_keywords": []
+  },
+  "dates": {
+    "posted": "2026-09-24",
+    "discovered": "2026-09-25",
+    "last_verified": "2026-09-25"
+  },
+  "status": "open",
+  "tags": [
+    "auto-ingested",
+    "src:simplify"
+  ]
+}

@@ -8,13 +8,14 @@
 |---|---|---|---|---|---|---|---|
 | Ciena | [AI Engineer Intern - Winter 2027](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/AI-Engineer-Intern--Winter-2027-_R031667) | Ottawa | Onsite | 2026-09-16 | Rolling | 🟢 Open | ❔ |
 | Ciena | [ASIC Engineer Intern](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/ASIC-Engineer-Intern_R031750) | Ottawa | Onsite | 2026-09-22 | Rolling | 🟢 Open | ❔ |
-| Ciena | [Layout Design Intern - Fall 2026](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Layout-Design-Intern--Fall-2026-_R031587) | Ottawa | Onsite | 2026-08-27 | Rolling | 🟢 Open | ❔ |
 | Ciena | [Modem Hardware Engineer Intern/Co-op](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Wavelogic-Modem-HW-Engineering-Intern-Co-op--Winter-2027---4-month-_R031652) | Ottawa | Onsite | 2026-09-10 | Rolling | 🟢 Open | ❔ |
 | Ciena | [Software Engineering Intern - Optical Transport and IP Networking](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Engineering--Optical-Transport-and-IP-Networking-Intern_R031631) | Ottawa | Onsite | 2026-09-14 | Rolling | 🟢 Open | ❔ |
+| Ciena | [Software Intern](https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/WaveLogic-Software-Intern--Summer-2027-_R031695) | Atlanta, GA | Onsite | 2026-09-24 | Rolling | 🟢 Open | ❔ |
 | Ciena | [Software Intern - WaveLogic](https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/WaveLogic-Software-Intern-Spring-2027_R031692) | Atlanta, GA | Onsite | 2026-09-24 | Rolling | 🟢 Open | ❔ |
 | Ciena | [Verification Engineer Intern](https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/Verification-Engineer-Intern--Spring-2027-_R031686) | Atlanta, GA | Onsite | 2026-09-22 | Rolling | 🟢 Open | ❔ |
 | Ciena | [Embedded Software Engineer Intern](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Engineer-Intern--4-months---September-2026-_R031232) | Ottawa | Onsite | 2026-06-23 | Rolling | 🔴 Closed | ❔ |
 | Ciena | [Embedded Software Engineer Intern](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Engineer-Intern--4-months---September-2026-_R031219) | Ottawa | Onsite | 2026-06-23 | Rolling | 🔴 Closed | ❔ |
+| Ciena | [Layout Design Intern - Fall 2026](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Layout-Design-Intern--Fall-2026-_R031587) | Ottawa | Onsite | 2026-08-27 | Rolling | 🔴 Closed | ❔ |
 | Ciena | [Optical Modem Hardware Intern](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Fall-2026-Optical-Modem-Hardware-Intern--8-12-months-_R031214) | Ottawa | Onsite | 2026-06-17 | Rolling | 🔴 Closed | ❔ |
 | Ciena | [Photonic Hardware Intern](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Photonic-Hardware-Intern--4-12-Months-_R031366) | Ottawa | Onsite | 2026-07-20 | Rolling | 🔴 Closed | ❔ |
 | Ciena | [Routing/IP Software Developer Intern](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Routing-IP-Software-Developer-Intern--4-8-Months-_R031326) | Ottawa | Onsite | 2026-07-21 | Rolling | 🔴 Closed | ❔ |

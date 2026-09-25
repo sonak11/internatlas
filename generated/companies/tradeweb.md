@@ -9,6 +9,8 @@
 | Tradeweb | [AI Engineering Intern](https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301900) | London | Onsite | 2026-09-09 | Rolling | 🟢 Open | ❔ |
 | Tradeweb | [C++ Developer Intern](https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301899) | London | Onsite | 2026-09-09 | Rolling | 🟢 Open | ❔ |
 | Tradeweb | [Java Developer Intern](https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301901) | London | Onsite | 2026-09-09 | Rolling | 🟢 Open | ❔ |
+| Tradeweb | [Market Data Product Management Intern](https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301932) | NYC | Onsite | 2026-09-24 | Rolling | 🟢 Open | ❔ |
+| Tradeweb | [Quantitative Intern](https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301931) | NYC | Onsite | 2026-09-24 | Rolling | 🟢 Open | ❔ |
 | Tradeweb | [AI Software Engineer Intern](https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301902) | Jersey City, NJ | Onsite | 2026-09-10 | Rolling | 🔴 Closed | ❔ |
 | Tradeweb | [Application Software Engineering Internship - IFI Application](https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301906) | Jersey City, NJ | Onsite | 2026-09-10 | Rolling | 🔴 Closed | ❔ |
 | Tradeweb | [C++ Distributed Systems Developer Intern - C++ Core Services](https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301903) | Jersey City, NJ | Onsite | 2026-09-10 | Rolling | 🔴 Closed | ❔ |
@@ -22,4 +24,4 @@
 
 ## Related
 
-Browse more roles in: [🤖 AI](../categories/ai.md), [💻 Software Engineering](../categories/software-engineering.md)
+Browse more roles in: [🤖 AI](../categories/ai.md), [🧭 Product](../categories/product.md), [📈 Quant](../categories/quant.md), [💻 Software Engineering](../categories/software-engineering.md)

@@ -6,6 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
+| State Farm | [Data Science Intern - Magnet Program](https://jobs.statefarm.com/jobs/46353?icims=1) | Tempe, AZ | Onsite | 2026-09-24 | Rolling | 🟢 Open | ❔ |
 | State Farm | [Data Science Intern - Magnet Program - Online MS Analytics](https://jobs.statefarm.com/jobs/46057?icims=1) | Athens, GA | Onsite | 2026-09-10 | Rolling | 🟢 Open | ❔ |
 | State Farm | [Financial Operations Data Analytics Intern](https://jobs.statefarm.com/jobs/45477?icims=1) | Tempe, AZ +3 | Onsite | 2026-08-31 | Rolling | 🟢 Open | ❔ |
 | State Farm | [Software Developer Intern - HR&D](https://jobs.statefarm.com/jobs/45689?icims=1) | Tempe, AZ +3 | Onsite | 2026-09-23 | Rolling | 🟢 Open | ❔ |

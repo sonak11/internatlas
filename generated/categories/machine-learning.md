@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🧠 Machine Learning Internships
 
-**223** tracked · **169** open now
+**226** tracked · **172** open now
 
 ## Current openings
 
@@ -63,6 +63,8 @@
 | [G-Research](generated/companies/g-research.md) | [Machine Learning Research Intern](https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Machine-Learning-Research-Internship_R3682) | London | Onsite | 2026-07-23 | Rolling | 🟢 Open | ❔ |
 | [Gallup](generated/companies/gallup.md) | [Artificial Intelligence/Machine Learning Research Intern](https://job-boards.greenhouse.io/gallup/jobs/4395921009) | SF | Onsite | 2026-09-09 | Rolling | 🟢 Open | ❔ |
 | [Gecko Robotics](generated/companies/gecko-robotics.md) | [AI/Machine Learning Engineer Intern](https://jobs.ashbyhq.com/gecko-robotics/c097505b-0a28-4a33-a917-268f463641e8/application?embed=true) | NYC | Onsite | 2026-09-16 | Rolling | 🟢 Open | ❔ |
+| [Genesis Molecular AI](generated/companies/genesis-molecular-ai.md) | [Machine Learning Research Intern](https://jobs.ashbyhq.com/genesis-molecular-ai/42fc0631-3f81-481a-b496-daa875c9e92e/application?embed=true) | SF +1 | Onsite | 2026-09-24 | Rolling | 🟢 Open | ❔ |
+| [Genesis Molecular AI](generated/companies/genesis-molecular-ai.md) | [Machine Learning Research Intern - PhD](https://jobs.ashbyhq.com/genesis-molecular-ai/5b62eacf-e930-4bc8-8fc7-30c213c02127/application?embed=true) | California +1 | Onsite | 2026-09-24 | Rolling | 🟢 Open | ❔ |
 | [GRITT ROBOTICS INC](generated/companies/gritt-robotics-inc.md) | [ML & Cloud Infrastructure Engineer Intern](https://jobs.ashbyhq.com/gritt/46af6e69-40fc-4e53-940e-a99757137523) | South San Francisco, CA | Onsite | 2026-07-27 | Rolling | 🟢 Open | ❔ |
 | [Guardian Life](generated/companies/guardian-life.md) | [Summer Intern - Digital & Technology - AI & Machine Learning](https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/New-York/XMLNAME-2027-Guardian-Summer-Intern--Digital---Technology---AI---Machine-Learning_R000110205) | Holmdel, NJ +2 | Onsite | 2026-09-14 | Rolling | 🟢 Open | ❔ |
 | [Honeywell](generated/companies/honeywell.md) | [Artificial Intelligence/Machine Learning Intern](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155522) | USA | Onsite | 2026-08-25 | Rolling | 🟢 Open | ❔ |
@@ -95,6 +97,7 @@
 | [NVIDIA](generated/companies/nvidia.md) | [Deep Learning Intern - Deep Learning Applications and Algorithms - Deep Learning Frameworks and Libraries](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning_JR2023497-1) | Santa Clara, CA | Onsite | 2026-08-19 | Rolling | 🟢 Open | ❔ |
 | [NXP Semiconductors](generated/companies/nxp-semiconductors.md) | [Embedded Machine Learning & Radar Processing Intern - Summer 2027](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/San-Jose-Holger-Way/Embedded-Machine-Learning---Radar-Processing-Intern---Summer-2027_R-10065534) | San Jose, CA | Onsite | 2026-09-07 | Rolling | 🟢 Open | ❔ |
 | [PathAI](generated/companies/pathai.md) | [Machine Learning Intern, AI Product and ML Core](https://www.pathai.com/career/job-post?gh_jid=8202342002) | Boston, MA +1 | Onsite | 2026-04-20 | Rolling | 🟢 Open | ❔ |
+| [PathAI](generated/companies/pathai.md) | [Machine Learning Intern/Co-op](https://www.pathai.com/careers/8843495002?gh_jid=8843495002) | Boston, MA +1 | Onsite | 2026-09-24 | Rolling | 🟢 Open | ❔ |
 | [Pennsylvania State University](generated/companies/pennsylvania-state-university.md) | [AI/ML Research Support Intern - Visualization and Decision Support Division](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/AI-ML-Research-Support-Intern_REQ_0000080506-1) | State College, PA | Onsite | 2026-07-27 | Rolling | 🟢 Open | ❔ |
 | [Persona AI](generated/companies/persona-ai.md) | [Machine Learning Intern - Manipulation](https://jobs.ashbyhq.com/persona.ai/ed9a7425-9798-471e-b46a-fefd59570630/application?embed=true) | Houston, TX | Onsite | 2026-07-31 | Rolling | 🟢 Open | ❔ |
 | [Phonic](generated/companies/phonic.md) | [Machine Learning Research Intern](https://jobs.ashbyhq.com/phonic/a6c8c3d2-250a-4c2f-8a20-e4667ca38e41/application?embed=true) | SF | Onsite | 2026-07-21 | Rolling | 🟢 Open | ❔ |
@@ -254,9 +257,11 @@
 - Amgen (2)
 - Bedrock Robotics (2)
 - Coinbase (2)
+- Genesis Molecular AI (2)
 - Jane Street (2)
 - Modal (2)
 - NXP Semiconductors (2)
+- PathAI (2)
 - Pennsylvania State University (2)
 - Pinterest (2)
 - Instacart (2)
@@ -294,7 +299,6 @@
 - Lyft (1)
 - Merck (1)
 - Neuralink (1)
-- PathAI (1)
 - Persona AI (1)
 - Phonic (1)
 - pony.ai (1)

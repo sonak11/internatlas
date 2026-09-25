@@ -6,6 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
+| Lazard | [AI and Data Transformation Intern](https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6650) | NYC | Onsite | 2026-09-24 | Rolling | 🟢 Open | ❔ |
 | Lazard | [AI Engineer Intern](https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6606) | NYC | Onsite | 2026-09-21 | Rolling | 🟢 Open | ❔ |
 | Lazard | [Data Engineer Intern](https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6605) | NYC | Onsite | 2026-09-21 | Rolling | 🟢 Open | ❔ |
 | Lazard | [Data Scientist Intern](https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6604) | NYC | Onsite | 2026-09-21 | Rolling | 🟢 Open | ❔ |
