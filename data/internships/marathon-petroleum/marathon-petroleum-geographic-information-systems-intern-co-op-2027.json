@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "visa-associate-product-manager-intern-apm-2027-de187e",
+  "id": "marathon-petroleum-geographic-information-systems-intern-co-op-2027",
   "company": {
-    "name": "Visa",
-    "slug": "visa"
+    "name": "Marathon Petroleum",
+    "slug": "marathon-petroleum"
   },
-  "role": "Associate Product Manager Intern - APM",
-  "category": "product",
-  "apply_url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Associate-Product-Manager--APM--Intern---Summer-2027_REF088603W-1",
+  "role": "Geographic Information Systems Intern/Co-op",
+  "category": "software-engineering",
+  "apply_url": "https://mpc.wd1.myworkdayjobs.com/en-US/MPCCareers/job/Tulsa-Oklahoma/Intern-Co-op---Midstream-Natural-Gas-and-NGL-Services-Geography-GIS--Summer-2027-_00024411",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Foster City",
-      "state": "CA",
+      "city": "Tulsa",
+      "state": "OK",
       "country": "USA"
     }
   ],
@@ -25,9 +25,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -42,8 +40,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-17",
-    "discovered": "2026-09-17",
+    "posted": "2026-09-24",
+    "discovered": "2026-09-25",
     "last_verified": "2026-09-25"
   },
   "status": "open",

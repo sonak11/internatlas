@@ -1,20 +1,21 @@
 {
   "schema_version": "1.0",
-  "id": "td-bank-data-science-intern-co-op-2027",
+  "id": "tesla-optical-engineer-intern-electronic-systems-2027",
   "company": {
-    "name": "TD Bank",
-    "slug": "td-bank"
+    "name": "Tesla",
+    "slug": "tesla"
   },
-  "role": "Data Science Intern/Co-op",
-  "category": "data-science",
-  "apply_url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Enterprise-Real-Estate-Intern-Co-op_R_1504711",
+  "role": "Optical Engineer Intern - Electronic Systems",
+  "category": "software-engineering",
+  "apply_url": "https://www.tesla.com/careers/search/job/284607",
   "season": "winter",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Toronto",
-      "country": "ON"
+      "city": "Palo Alto",
+      "state": "CA",
+      "country": "USA"
     }
   ],
   "compensation": {
@@ -39,11 +40,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-08",
-    "discovered": "2026-09-08",
+    "posted": "2026-09-25",
+    "discovered": "2026-09-25",
     "last_verified": "2026-09-25"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

@@ -1,20 +1,21 @@
 {
   "schema_version": "1.0",
-  "id": "td-bank-data-science-intern-co-op-2027",
+  "id": "labcorp-commercial-analytics-intern-ed-chemistry-solutions-commercia-2027",
   "company": {
-    "name": "TD Bank",
-    "slug": "td-bank"
+    "name": "LabCorp",
+    "slug": "labcorp"
   },
-  "role": "Data Science Intern/Co-op",
-  "category": "data-science",
-  "apply_url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Enterprise-Real-Estate-Intern-Co-op_R_1504711",
-  "season": "winter",
+  "role": "Commercial Analytics Intern - ED/Chemistry Solutions Commercial Analytics Team",
+  "category": "software-engineering",
+  "apply_url": "https://labcorp.wd1.myworkdayjobs.com/external/job/USA----WI---Milwaukee---3727-W-Wisconsin-Avenue/Intern---Commercial-Analytics_2633615",
+  "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Toronto",
-      "country": "ON"
+      "city": "Milwaukee",
+      "state": "WI",
+      "country": "USA"
     }
   ],
   "compensation": {
@@ -39,13 +40,14 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-08",
-    "discovered": "2026-09-08",
+    "posted": "2026-09-24",
+    "discovered": "2026-09-25",
     "last_verified": "2026-09-25"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:simplify",
+    "remote-available"
   ]
 }

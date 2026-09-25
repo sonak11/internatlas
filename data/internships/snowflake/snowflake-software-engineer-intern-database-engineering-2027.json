@@ -1,20 +1,26 @@
 {
   "schema_version": "1.0",
-  "id": "td-bank-data-science-intern-co-op-2027",
+  "id": "snowflake-software-engineer-intern-database-engineering-2027",
   "company": {
-    "name": "TD Bank",
-    "slug": "td-bank"
+    "name": "Snowflake",
+    "slug": "snowflake"
   },
-  "role": "Data Science Intern/Co-op",
-  "category": "data-science",
-  "apply_url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Enterprise-Real-Estate-Intern-Co-op_R_1504711",
-  "season": "winter",
+  "role": "Software Engineer Intern - Database Engineering",
+  "category": "software-engineering",
+  "apply_url": "https://jobs.ashbyhq.com/snowflake/7bd393df-67d7-4009-ba4f-1cd79a82b0be/application?embed=true",
+  "season": "spring",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Toronto",
-      "country": "ON"
+      "city": "Menlo Park",
+      "state": "CA",
+      "country": "USA"
+    },
+    {
+      "city": "Bellevue",
+      "state": "WA",
+      "country": "USA"
     }
   ],
   "compensation": {
@@ -24,7 +30,10 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "masters",
+      "phd"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -39,11 +48,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-08",
-    "discovered": "2026-09-08",
+    "posted": "2026-09-25",
+    "discovered": "2026-09-25",
     "last_verified": "2026-09-25"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

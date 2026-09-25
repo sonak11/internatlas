@@ -1,6 +1,6 @@
 {
   "generated": "2026-09-25",
-  "count": 5233,
+  "count": 5244,
   "internships": [
     {
       "schema_version": "1.0",
@@ -23826,6 +23826,108 @@
     },
     {
       "schema_version": "1.0",
+      "id": "astranis-reliability-test-intern-2027-22382b",
+      "company": {
+        "name": "Astranis",
+        "slug": "astranis"
+      },
+      "role": "Reliability Test Intern",
+      "category": "software-engineering",
+      "apply_url": "https://job-boards.greenhouse.io/astranis/jobs/4705629006",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "SF",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-23",
+        "discovered": "2026-09-25",
+        "last_verified": "2026-09-25"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "astranis-reliability-test-intern-2027",
+      "company": {
+        "name": "Astranis",
+        "slug": "astranis"
+      },
+      "role": "Reliability Test Intern",
+      "category": "software-engineering",
+      "apply_url": "https://job-boards.greenhouse.io/astranis/jobs/4705626006",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "SF",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-23",
+        "discovered": "2026-09-25",
+        "last_verified": "2026-09-25"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "astranis-rf-validation-intern-summer-2027-2027",
       "company": {
         "name": "Astranis",
@@ -24457,6 +24559,60 @@
       "dates": {
         "posted": "2026-09-14",
         "discovered": "2026-09-15",
+        "last_verified": "2026-09-25"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "atlassian-data-scientist-intern-multiple-teams-2027",
+      "company": {
+        "name": "Atlassian",
+        "slug": "atlassian"
+      },
+      "role": "Data Scientist Intern - Multiple Teams",
+      "category": "data-science",
+      "apply_url": "https://globalcareers-atlassian.icims.com/jobs/26271/data-scientist-intern%2c-2027-summer-u.s./job",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Seattle",
+          "state": "WA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-24",
+        "discovered": "2026-09-25",
         "last_verified": "2026-09-25"
       },
       "status": "open",
@@ -62992,7 +63148,7 @@
         "discovered": "2026-09-11",
         "last_verified": "2026-09-25"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -65900,7 +66056,7 @@
         "discovered": "2026-09-10",
         "last_verified": "2026-09-25"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -77511,6 +77667,59 @@
       "dates": {
         "posted": "2026-09-22",
         "discovered": "2026-09-22",
+        "last_verified": "2026-09-25"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "electronic-arts-gameplay-engineer-intern-2027",
+      "company": {
+        "name": "Electronic Arts",
+        "slug": "electronic-arts"
+      },
+      "role": "Gameplay Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://jobs.ea.com/en_US/careers/JobDetail/Gameplay-Engineer-Intern/216245",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "state": "LA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-25",
+        "discovered": "2026-09-25",
         "last_verified": "2026-09-25"
       },
       "status": "open",
@@ -90056,6 +90265,57 @@
     },
     {
       "schema_version": "1.0",
+      "id": "fox-internship-program-data-analytics-2027",
+      "company": {
+        "name": "FOX",
+        "slug": "fox"
+      },
+      "role": "Internship Program - Data Analytics",
+      "category": "software-engineering",
+      "apply_url": "https://fox.wd1.myworkdayjobs.com/Domestic/job/New-York-New-York-USA/Spring-2027-FOX-News-Media-Internship-Program---Data-Analytics---New-York_R50033950",
+      "season": "spring",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "NYC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-25",
+        "discovered": "2026-09-25",
+        "last_verified": "2026-09-25"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "foxconn-industrial-internet-data-visualization-analytics-intern-engineering-2026",
       "company": {
         "name": "Foxconn Industrial Internet",
@@ -101294,7 +101554,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-09-25"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -101396,7 +101656,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-25"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -113933,7 +114193,7 @@
         "discovered": "2026-09-07",
         "last_verified": "2026-09-25"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -118363,7 +118623,7 @@
         "discovered": "2026-09-08",
         "last_verified": "2026-09-25"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -121203,6 +121463,61 @@
       "dates": {
         "posted": "2026-08-29",
         "discovered": "2026-08-29",
+        "last_verified": "2026-09-25"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "intuitive-surgical-ai-research-intern-2027",
+      "company": {
+        "name": "Intuitive Surgical",
+        "slug": "intuitive-surgical"
+      },
+      "role": "AI Research Intern",
+      "category": "ai",
+      "apply_url": "https://jobs.smartrecruiters.com/Intuitive/744000151714759",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Sunnyvale",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters",
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-25",
+        "discovered": "2026-09-25",
         "last_verified": "2026-09-25"
       },
       "status": "open",
@@ -133955,6 +134270,59 @@
     },
     {
       "schema_version": "1.0",
+      "id": "labcorp-commercial-analytics-intern-ed-chemistry-solutions-commercia-2027",
+      "company": {
+        "name": "LabCorp",
+        "slug": "labcorp"
+      },
+      "role": "Commercial Analytics Intern - ED/Chemistry Solutions Commercial Analytics Team",
+      "category": "software-engineering",
+      "apply_url": "https://labcorp.wd1.myworkdayjobs.com/external/job/USA----WI---Milwaukee---3727-W-Wisconsin-Avenue/Intern---Commercial-Analytics_2633615",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Milwaukee",
+          "state": "WI",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-24",
+        "discovered": "2026-09-25",
+        "last_verified": "2026-09-25"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify",
+        "remote-available"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "labcorp-financial-analytics-technology-intern-financial-analytics-te-2027",
       "company": {
         "name": "LabCorp",
@@ -139903,6 +140271,58 @@
       "dates": {
         "posted": "2026-08-27",
         "discovered": "2026-08-28",
+        "last_verified": "2026-09-25"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "marathon-petroleum-geographic-information-systems-intern-co-op-2027",
+      "company": {
+        "name": "Marathon Petroleum",
+        "slug": "marathon-petroleum"
+      },
+      "role": "Geographic Information Systems Intern/Co-op",
+      "category": "software-engineering",
+      "apply_url": "https://mpc.wd1.myworkdayjobs.com/en-US/MPCCareers/job/Tulsa-Oklahoma/Intern-Co-op---Midstream-Natural-Gas-and-NGL-Services-Geography-GIS--Summer-2027-_00024411",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Tulsa",
+          "state": "OK",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-24",
+        "discovered": "2026-09-25",
         "last_verified": "2026-09-25"
       },
       "status": "open",
@@ -149510,7 +149930,7 @@
         "discovered": "2026-09-23",
         "last_verified": "2026-09-25"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -165511,7 +165931,7 @@
         "discovered": "2026-09-21",
         "last_verified": "2026-09-25"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -184219,7 +184639,7 @@
         "discovered": "2026-09-16",
         "last_verified": "2026-09-25"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -192789,7 +193209,7 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-09-25"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -192841,7 +193261,7 @@
         "discovered": "2026-08-19",
         "last_verified": "2026-09-25"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -201928,7 +202348,7 @@
         "discovered": "2026-09-01",
         "last_verified": "2026-09-25"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -218198,6 +218618,66 @@
     },
     {
       "schema_version": "1.0",
+      "id": "snowflake-software-engineer-intern-2027",
+      "company": {
+        "name": "Snowflake",
+        "slug": "snowflake"
+      },
+      "role": "Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://jobs.ashbyhq.com/snowflake/4be290ae-dd9d-488c-9d90-56fcd69101ca/application?embed=true",
+      "season": "spring",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Menlo Park",
+          "state": "CA",
+          "country": "USA"
+        },
+        {
+          "city": "Bellevue",
+          "state": "WA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters",
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-25",
+        "discovered": "2026-09-25",
+        "last_verified": "2026-09-25"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "snowflake-software-engineer-intern-core-engineering-2026",
       "company": {
         "name": "Snowflake",
@@ -218255,6 +218735,66 @@
     },
     {
       "schema_version": "1.0",
+      "id": "snowflake-software-engineer-intern-core-infrastructure-security-2027",
+      "company": {
+        "name": "Snowflake",
+        "slug": "snowflake"
+      },
+      "role": "Software Engineer Intern - Core, Infrastructure & Security",
+      "category": "security",
+      "apply_url": "https://jobs.ashbyhq.com/snowflake/5315b6f6-2c14-4cb9-a884-c2bae69f2c69/application?embed=true",
+      "season": "spring",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Menlo Park",
+          "state": "CA",
+          "country": "USA"
+        },
+        {
+          "city": "Bellevue",
+          "state": "WA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters",
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-25",
+        "discovered": "2026-09-25",
+        "last_verified": "2026-09-25"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "snowflake-software-engineer-intern-database-engineering-2026",
       "company": {
         "name": "Snowflake",
@@ -218303,6 +218843,66 @@
       "tags": [
         "auto-ingested",
         "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "snowflake-software-engineer-intern-database-engineering-2027",
+      "company": {
+        "name": "Snowflake",
+        "slug": "snowflake"
+      },
+      "role": "Software Engineer Intern - Database Engineering",
+      "category": "software-engineering",
+      "apply_url": "https://jobs.ashbyhq.com/snowflake/7bd393df-67d7-4009-ba4f-1cd79a82b0be/application?embed=true",
+      "season": "spring",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Menlo Park",
+          "state": "CA",
+          "country": "USA"
+        },
+        {
+          "city": "Bellevue",
+          "state": "WA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters",
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-25",
+        "discovered": "2026-09-25",
+        "last_verified": "2026-09-25"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
       ]
     },
     {
@@ -222474,9 +223074,9 @@
       "dates": {
         "posted": "2026-09-01",
         "discovered": "2026-09-01",
-        "last_verified": "2026-09-24"
+        "last_verified": "2026-09-25"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -228351,7 +228951,7 @@
         "discovered": "2026-09-08",
         "last_verified": "2026-09-25"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -228663,7 +229263,7 @@
         "discovered": "2026-09-08",
         "last_verified": "2026-09-25"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -228918,7 +229518,7 @@
         "discovered": "2026-09-08",
         "last_verified": "2026-09-25"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -229020,7 +229620,7 @@
         "discovered": "2026-09-08",
         "last_verified": "2026-09-25"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -236114,6 +236714,58 @@
         "last_verified": "2026-08-08"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "tesla-optical-engineer-intern-electronic-systems-2027",
+      "company": {
+        "name": "Tesla",
+        "slug": "tesla"
+      },
+      "role": "Optical Engineer Intern - Electronic Systems",
+      "category": "software-engineering",
+      "apply_url": "https://www.tesla.com/careers/search/job/284607",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Palo Alto",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-25",
+        "discovered": "2026-09-25",
+        "last_verified": "2026-09-25"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -243815,7 +244467,7 @@
         "discovered": "2026-08-26",
         "last_verified": "2026-09-25"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -244148,7 +244800,7 @@
         "discovered": "2026-08-26",
         "last_verified": "2026-09-25"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -272604,7 +273256,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "visa-associate-product-manager-intern-apm-2027-de187e",
+      "id": "visa-associate-product-manager-intern-apm-2027",
       "company": {
         "name": "Visa",
         "slug": "visa"
@@ -272619,60 +273271,6 @@
         {
           "city": "Foster City",
           "state": "CA",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [
-          "masters"
-        ],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-09-17",
-        "discovered": "2026-09-17",
-        "last_verified": "2026-09-25"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "visa-associate-product-manager-intern-apm-2027",
-      "company": {
-        "name": "Visa",
-        "slug": "visa"
-      },
-      "role": "Associate Product Manager Intern - APM",
-      "category": "product",
-      "apply_url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Job-Posting-Title-Associate-Product-Manager--APM--Intern---Summer-2027_REF088604W",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Austin",
-          "state": "TX",
           "country": "USA"
         }
       ],

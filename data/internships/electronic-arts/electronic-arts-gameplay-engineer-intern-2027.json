@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "td-bank-data-science-intern-co-op-2027",
+  "id": "electronic-arts-gameplay-engineer-intern-2027",
   "company": {
-    "name": "TD Bank",
-    "slug": "td-bank"
+    "name": "Electronic Arts",
+    "slug": "electronic-arts"
   },
-  "role": "Data Science Intern/Co-op",
-  "category": "data-science",
-  "apply_url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Enterprise-Real-Estate-Intern-Co-op_R_1504711",
-  "season": "winter",
+  "role": "Gameplay Engineer Intern",
+  "category": "software-engineering",
+  "apply_url": "https://jobs.ea.com/en_US/careers/JobDetail/Gameplay-Engineer-Intern/216245",
+  "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Toronto",
-      "country": "ON"
+      "state": "LA",
+      "country": "USA"
     }
   ],
   "compensation": {
@@ -24,7 +24,9 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "masters"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -39,11 +41,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-08",
-    "discovered": "2026-09-08",
+    "posted": "2026-09-25",
+    "discovered": "2026-09-25",
     "last_verified": "2026-09-25"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

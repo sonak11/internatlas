@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "td-bank-data-science-intern-co-op-2027",
+  "id": "astranis-reliability-test-intern-2027-22382b",
   "company": {
-    "name": "TD Bank",
-    "slug": "td-bank"
+    "name": "Astranis",
+    "slug": "astranis"
   },
-  "role": "Data Science Intern/Co-op",
-  "category": "data-science",
-  "apply_url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Enterprise-Real-Estate-Intern-Co-op_R_1504711",
-  "season": "winter",
+  "role": "Reliability Test Intern",
+  "category": "software-engineering",
+  "apply_url": "https://job-boards.greenhouse.io/astranis/jobs/4705629006",
+  "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Toronto",
-      "country": "ON"
+      "city": "SF",
+      "country": "USA"
     }
   ],
   "compensation": {
@@ -39,11 +39,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-08",
-    "discovered": "2026-09-08",
+    "posted": "2026-09-23",
+    "discovered": "2026-09-25",
     "last_verified": "2026-09-25"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"
