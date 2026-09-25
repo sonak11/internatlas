@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "visa-software-engineer-intern-2027-6d395f",
+  "id": "barrios-data-and-computer-engineering-computer-science-intern-2027",
   "company": {
-    "name": "Visa",
-    "slug": "visa"
+    "name": "Barrios",
+    "slug": "barrios"
   },
-  "role": "Software Engineer Intern",
+  "role": "Data and Computer Engineering/Computer Science Intern",
   "category": "software-engineering",
-  "apply_url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Software-Engineer--Intern---Foster-City-2027_REF088587W-1",
+  "apply_url": "https://careers-barrios.icims.com/jobs/2897/job?mobile=true&needsRedirect=false",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Foster City",
-      "state": "CA",
+      "city": "Houston",
+      "state": "TX",
       "country": "USA"
     }
   ],
@@ -42,8 +42,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-17",
-    "discovered": "2026-09-17",
+    "posted": "2026-09-25",
+    "discovered": "2026-09-25",
     "last_verified": "2026-09-25"
   },
   "status": "open",

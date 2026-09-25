@@ -1,20 +1,21 @@
 {
   "schema_version": "1.0",
-  "id": "goldman-sachs-quantitative-strategist-associate-intern-the-core-quantitati-2027-14d0f0",
+  "id": "goldman-sachs-summer-analyst-intern-engineering-2027-3e3ccf",
   "company": {
     "name": "Goldman Sachs",
     "slug": "goldman-sachs"
   },
-  "role": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
-  "category": "quant",
-  "apply_url": "https://higher.gs.com/roles/175427?type=students",
+  "role": "Summer Analyst Intern - Engineering",
+  "category": "software-engineering",
+  "apply_url": "https://higher.gs.com/roles/177808?type=students",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "London",
-      "country": "UK"
+      "city": "Seattle",
+      "state": "WA",
+      "country": "USA"
     }
   ],
   "compensation": {
@@ -25,7 +26,7 @@
   "eligibility": {
     "graduation_years": [],
     "degree_levels": [
-      "phd"
+      "masters"
     ],
     "citizenship_required": false,
     "security_clearance_required": false,
@@ -42,10 +43,10 @@
   },
   "dates": {
     "posted": "2026-08-15",
-    "discovered": "2026-09-22",
+    "discovered": "2026-09-25",
     "last_verified": "2026-09-25"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"
