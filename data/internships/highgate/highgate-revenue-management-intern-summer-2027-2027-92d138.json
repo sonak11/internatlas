@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "the-hartford-data-engineer-intern-technology-data-ai-and-operations-2027-e220d7",
+  "id": "highgate-revenue-management-intern-summer-2027-2027-92d138",
   "company": {
-    "name": "The Hartford",
-    "slug": "the-hartford"
+    "name": "Highgate",
+    "slug": "highgate"
   },
-  "role": "Data Engineer Intern - Technology, Data, AI, and Operations",
-  "category": "ai",
-  "apply_url": "https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Tech---Data-Program-Summer-2027---Data-Engineer-Intern--Hartford-_R2626103-1",
+  "role": "Revenue Management Intern - Summer 2027",
+  "category": "software-engineering",
+  "apply_url": "https://externalhourly-highgate.icims.com/jobs/82513/job?hub=7&mobile=true&needsRedirect=false",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Hartford",
-      "state": "CT",
+      "city": "Miami",
+      "state": "FL",
       "country": "USA"
     }
   ],
@@ -40,8 +40,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-24",
-    "discovered": "2026-08-26",
+    "posted": "2026-09-14",
+    "discovered": "2026-09-25",
     "last_verified": "2026-09-25"
   },
   "status": "open",

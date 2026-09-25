@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "tesla-ai-ml-modeling-engineer-intern-ml-modeling-engineer-ai-hardw-2026",
+  "id": "highgate-revenue-management-intern-summer-2027-2027-b66e98",
   "company": {
-    "name": "Tesla",
-    "slug": "tesla"
+    "name": "Highgate",
+    "slug": "highgate"
   },
-  "role": "AI/ML Modeling Engineer Intern - ML Modeling Engineer - AI Hardware",
-  "category": "machine-learning",
-  "apply_url": "https://www.tesla.com/careers/search/job/275316",
-  "season": "fall",
-  "year": 2026,
+  "role": "Revenue Management Intern - Summer 2027",
+  "category": "software-engineering",
+  "apply_url": "https://externalhourly-highgate.icims.com/jobs/82512/job?hub=7&mobile=true&needsRedirect=false",
+  "season": "summer",
+  "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Palo Alto",
-      "state": "CA",
+      "city": "Boston",
+      "state": "MA",
       "country": "USA"
     }
   ],
@@ -40,11 +40,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-06-29",
-    "discovered": "2026-07-17",
+    "posted": "2026-09-14",
+    "discovered": "2026-09-25",
     "last_verified": "2026-09-25"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

@@ -1,6 +1,6 @@
 {
   "generated": "2026-09-25",
-  "count": 5244,
+  "count": 5246,
   "internships": [
     {
       "schema_version": "1.0",
@@ -4842,7 +4842,7 @@
         "discovered": "2026-09-16",
         "last_verified": "2026-09-25"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -33299,7 +33299,7 @@
         "discovered": "2026-09-18",
         "last_verified": "2026-09-25"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -39835,7 +39835,7 @@
         "discovered": "2026-09-21",
         "last_verified": "2026-09-25"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -86239,7 +86239,7 @@
         "discovered": "2026-09-21",
         "last_verified": "2026-09-25"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -90840,7 +90840,7 @@
         "discovered": "2026-08-24",
         "last_verified": "2026-09-25"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -95778,7 +95778,7 @@
         "discovered": "2026-09-11",
         "last_verified": "2026-09-25"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -100349,7 +100349,7 @@
         "discovered": "2026-08-27",
         "last_verified": "2026-09-25"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -100560,7 +100560,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-09-25"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -100825,7 +100825,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-25"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -100978,7 +100978,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-09-25"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -101237,7 +101237,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-25"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -101288,7 +101288,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-25"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -101339,57 +101339,6 @@
       "dates": {
         "posted": "2026-08-15",
         "discovered": "2026-09-04",
-        "last_verified": "2026-09-25"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "goldman-sachs-summer-analyst-intern-engineering-2027-324b6c",
-      "company": {
-        "name": "Goldman Sachs",
-        "slug": "goldman-sachs"
-      },
-      "role": "Summer Analyst Intern - Engineering",
-      "category": "software-engineering",
-      "apply_url": "https://higher.gs.com/roles/170644?type=students",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "London",
-          "country": "UK"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-08-15",
-        "discovered": "2026-09-23",
         "last_verified": "2026-09-25"
       },
       "status": "closed",
@@ -101461,15 +101410,14 @@
       },
       "role": "Summer Analyst Intern - Engineering",
       "category": "software-engineering",
-      "apply_url": "https://higher.gs.com/roles/177808?type=students",
+      "apply_url": "https://higher.gs.com/roles/170644?type=students",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
       "locations": [
         {
-          "city": "Seattle",
-          "state": "WA",
-          "country": "USA"
+          "city": "London",
+          "country": "UK"
         }
       ],
       "compensation": {
@@ -101554,7 +101502,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-09-25"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -101656,7 +101604,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-25"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -101864,7 +101812,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-09-25"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -109615,6 +109563,212 @@
     },
     {
       "schema_version": "1.0",
+      "id": "highgate-revenue-management-intern-2027",
+      "company": {
+        "name": "Highgate",
+        "slug": "highgate"
+      },
+      "role": "Revenue Management Intern",
+      "category": "software-engineering",
+      "apply_url": "https://externalhourly-highgate.icims.com/jobs/82509/job?hub=7&mobile=true&needsRedirect=false",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "state": "LA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-14",
+        "discovered": "2026-09-25",
+        "last_verified": "2026-09-25"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "highgate-revenue-management-intern-summer-2027-2027-776b17",
+      "company": {
+        "name": "Highgate",
+        "slug": "highgate"
+      },
+      "role": "Revenue Management Intern - Summer 2027",
+      "category": "software-engineering",
+      "apply_url": "https://externalhourly-highgate.icims.com/jobs/82510/job?hub=7&mobile=true&needsRedirect=false",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "SF",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-14",
+        "discovered": "2026-09-25",
+        "last_verified": "2026-09-25"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "highgate-revenue-management-intern-summer-2027-2027-92d138",
+      "company": {
+        "name": "Highgate",
+        "slug": "highgate"
+      },
+      "role": "Revenue Management Intern - Summer 2027",
+      "category": "software-engineering",
+      "apply_url": "https://externalhourly-highgate.icims.com/jobs/82513/job?hub=7&mobile=true&needsRedirect=false",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Miami",
+          "state": "FL",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-14",
+        "discovered": "2026-09-25",
+        "last_verified": "2026-09-25"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "highgate-revenue-management-intern-summer-2027-2027-b66e98",
+      "company": {
+        "name": "Highgate",
+        "slug": "highgate"
+      },
+      "role": "Revenue Management Intern - Summer 2027",
+      "category": "software-engineering",
+      "apply_url": "https://externalhourly-highgate.icims.com/jobs/82512/job?hub=7&mobile=true&needsRedirect=false",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Boston",
+          "state": "MA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-14",
+        "discovered": "2026-09-25",
+        "last_verified": "2026-09-25"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "highgate-revenue-management-intern-summer-2027-2027",
       "company": {
         "name": "Highgate",
@@ -109656,9 +109810,9 @@
       "dates": {
         "posted": "2026-09-14",
         "discovered": "2026-09-14",
-        "last_verified": "2026-09-18"
+        "last_verified": "2026-09-25"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -147001,7 +147155,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-09-25"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -161956,7 +162110,7 @@
         "discovered": "2026-09-23",
         "last_verified": "2026-09-25"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -165985,7 +166139,7 @@
         "discovered": "2026-09-21",
         "last_verified": "2026-09-25"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -166039,7 +166193,7 @@
         "discovered": "2026-09-21",
         "last_verified": "2026-09-25"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -166409,7 +166563,7 @@
         "discovered": "2026-09-22",
         "last_verified": "2026-09-25"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -180718,7 +180872,7 @@
         "discovered": "2026-09-14",
         "last_verified": "2026-09-25"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -203749,7 +203903,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-25"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -204339,7 +204493,7 @@
         "discovered": "2026-08-25",
         "last_verified": "2026-09-25"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -218345,7 +218499,7 @@
         "discovered": "2026-09-17",
         "last_verified": "2026-09-25"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -218448,7 +218602,7 @@
         "discovered": "2026-09-17",
         "last_verified": "2026-09-25"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -229057,7 +229211,7 @@
         "discovered": "2026-09-08",
         "last_verified": "2026-09-25"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -229160,7 +229314,7 @@
         "discovered": "2026-09-10",
         "last_verified": "2026-09-25"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -229314,7 +229468,7 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-09-25"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -229365,7 +229519,7 @@
         "discovered": "2026-09-01",
         "last_verified": "2026-09-25"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -229416,7 +229570,7 @@
         "discovered": "2026-09-08",
         "last_verified": "2026-09-25"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -229569,7 +229723,7 @@
         "discovered": "2026-09-08",
         "last_verified": "2026-09-25"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -229726,7 +229880,7 @@
         "discovered": "2026-09-08",
         "last_verified": "2026-09-25"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -229779,7 +229933,7 @@
         "discovered": "2026-09-08",
         "last_verified": "2026-09-25"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -231966,7 +232120,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-09-25"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -237701,7 +237855,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-09-25"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -237859,7 +238013,7 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-09-25"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -244475,7 +244629,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "the-hartford-data-engineer-intern-technology-data-ai-and-operations-2027-e220d7",
+      "id": "the-hartford-data-engineer-intern-technology-data-ai-and-operations-2027",
       "company": {
         "name": "The Hartford",
         "slug": "the-hartford"
@@ -244490,58 +244644,6 @@
         {
           "city": "Hartford",
           "state": "CT",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-08-24",
-        "discovered": "2026-08-26",
-        "last_verified": "2026-09-25"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "the-hartford-data-engineer-intern-technology-data-ai-and-operations-2027",
-      "company": {
-        "name": "The Hartford",
-        "slug": "the-hartford"
-      },
-      "role": "Data Engineer Intern - Technology, Data, AI, and Operations",
-      "category": "ai",
-      "apply_url": "https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Charlotte-NC/Tech---Data-Program-Summer-2027---Data-Engineer-Intern--Charlotte-_R2626648",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Charlotte",
-          "state": "NC",
           "country": "USA"
         }
       ],
@@ -244569,7 +244671,7 @@
         "resume_keywords": []
       },
       "dates": {
-        "posted": "2026-08-26",
+        "posted": "2026-08-24",
         "discovered": "2026-08-24",
         "last_verified": "2026-09-25"
       },
@@ -248060,7 +248162,7 @@
         "discovered": "2026-09-17",
         "last_verified": "2026-09-25"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -261041,9 +261143,9 @@
       "dates": {
         "posted": "2026-09-01",
         "discovered": "2026-09-01",
-        "last_verified": "2026-09-24"
+        "last_verified": "2026-09-25"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -263762,7 +263864,7 @@
         "discovered": "2026-09-16",
         "last_verified": "2026-09-25"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -273302,7 +273404,7 @@
         "discovered": "2026-09-17",
         "last_verified": "2026-09-25"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -273356,7 +273458,7 @@
         "discovered": "2026-09-17",
         "last_verified": "2026-09-25"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -273518,7 +273620,7 @@
         "discovered": "2026-09-17",
         "last_verified": "2026-09-25"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
