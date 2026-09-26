@@ -1,21 +1,17 @@
 {
   "schema_version": "1.0",
-  "id": "jp-morgan-chase-quantitative-research-intern-markets-analyst-2027",
+  "id": "jpmorgan-chase-quantitative-research-markets-summer-internship-analyst-2027",
   "company": {
-    "name": "JP Morgan Chase",
-    "slug": "jp-morgan-chase"
+    "name": "JPMorgan Chase",
+    "slug": "jpmorgan-chase"
   },
-  "role": "Quantitative Research Intern - Markets - Analyst",
+  "role": "Quantitative Research, Markets, Summer Internship - Analyst",
   "category": "quant",
   "apply_url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774038",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
-    {
-      "city": "NYC",
-      "country": "USA"
-    },
     {
       "city": "New York",
       "state": "NY",
@@ -29,12 +25,10 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
-    "visa_sponsorship": "unknown"
+    "visa_sponsorship": "yes"
   },
   "interview": {},
   "tech": {
@@ -46,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-03",
-    "discovered": "2026-08-03",
+    "posted": "2026-08-21",
+    "discovered": "2026-09-26",
     "last_verified": "2026-09-26"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }

@@ -1,6 +1,6 @@
 {
   "generated": "2026-09-26",
-  "count": 5300,
+  "count": 5299,
   "internships": [
     {
       "schema_version": "1.0",
@@ -4167,7 +4167,7 @@
         "discovered": "2026-09-16",
         "last_verified": "2026-09-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -30376,7 +30376,7 @@
         "discovered": "2026-09-09",
         "last_verified": "2026-09-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -30478,7 +30478,7 @@
         "discovered": "2026-09-09",
         "last_verified": "2026-09-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -30632,7 +30632,7 @@
         "discovered": "2026-09-09",
         "last_verified": "2026-09-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -30683,7 +30683,7 @@
         "discovered": "2026-09-09",
         "last_verified": "2026-09-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -31204,7 +31204,7 @@
         "discovered": "2026-09-25",
         "last_verified": "2026-09-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -38471,58 +38471,6 @@
     },
     {
       "schema_version": "1.0",
-      "id": "booz-allen-systems-engineer-intern-summer-games-2027-159dcc",
-      "company": {
-        "name": "Booz Allen",
-        "slug": "booz-allen"
-      },
-      "role": "Systems Engineer Intern - Summer Games",
-      "category": "software-engineering",
-      "apply_url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Atlanta-GA/University---2027-Summer-Games--Systems-Engineer-Intern---Atlanta--GA_R0248381",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Atlanta",
-          "state": "GA",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-09-01",
-        "discovered": "2026-09-21",
-        "last_verified": "2026-09-26"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
       "id": "booz-allen-systems-engineer-intern-summer-games-2027-22fbbc",
       "company": {
         "name": "Booz Allen",
@@ -38842,14 +38790,14 @@
       },
       "role": "Systems Engineer Intern - Summer Games",
       "category": "software-engineering",
-      "apply_url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Annapolis-Junction-MD/University---2027-Summer-Games-Systems-Engineer-Intern---Annapolis-Junction--MD_R0249871",
+      "apply_url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Atlanta-GA/University---2027-Summer-Games--Systems-Engineer-Intern---Atlanta--GA_R0248381",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
       "locations": [
         {
-          "city": "Annapolis Junction",
-          "state": "MD",
+          "city": "Atlanta",
+          "state": "GA",
           "country": "USA"
         }
       ],
@@ -38875,7 +38823,7 @@
         "resume_keywords": []
       },
       "dates": {
-        "posted": "2026-09-21",
+        "posted": "2026-09-01",
         "discovered": "2026-09-01",
         "last_verified": "2026-09-26"
       },
@@ -55527,7 +55475,7 @@
         "discovered": "2026-09-19",
         "last_verified": "2026-09-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -55578,7 +55526,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-09-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -55629,7 +55577,7 @@
         "discovered": "2026-08-01",
         "last_verified": "2026-09-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -55680,7 +55628,7 @@
         "discovered": "2026-08-10",
         "last_verified": "2026-09-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -55734,7 +55682,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-09-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -81254,7 +81202,7 @@
         "discovered": "2026-08-07",
         "last_verified": "2026-09-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -93682,7 +93630,7 @@
         "discovered": "2026-08-31",
         "last_verified": "2026-09-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -101182,7 +101130,7 @@
         "discovered": "2026-08-27",
         "last_verified": "2026-09-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -101340,7 +101288,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-09-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -101758,7 +101706,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-09-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -102017,7 +101965,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -102068,7 +102016,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -102121,7 +102069,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-26"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -102282,7 +102230,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -107562,7 +107510,7 @@
         "discovered": "2026-09-15",
         "last_verified": "2026-09-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -119344,7 +119292,7 @@
         "discovered": "2026-09-09",
         "last_verified": "2026-09-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -119448,7 +119396,7 @@
         "discovered": "2026-09-09",
         "last_verified": "2026-09-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -119614,7 +119562,7 @@
         "discovered": "2026-09-08",
         "last_verified": "2026-09-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -126602,7 +126550,7 @@
         "discovered": "2026-08-03",
         "last_verified": "2026-09-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -126916,64 +126864,6 @@
     },
     {
       "schema_version": "1.0",
-      "id": "jp-morgan-chase-quantitative-research-intern-markets-analyst-2027",
-      "company": {
-        "name": "JP Morgan Chase",
-        "slug": "jp-morgan-chase"
-      },
-      "role": "Quantitative Research Intern - Markets - Analyst",
-      "category": "quant",
-      "apply_url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774038",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "NYC",
-          "country": "USA"
-        },
-        {
-          "city": "New York",
-          "state": "NY",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [
-          "masters"
-        ],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-08-03",
-        "discovered": "2026-08-03",
-        "last_verified": "2026-09-26"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
       "id": "jp-morgan-chase-quantitative-research-intern-risk-and-treasury-2027",
       "company": {
         "name": "JP Morgan Chase",
@@ -127189,7 +127079,7 @@
         "discovered": "2026-09-01",
         "last_verified": "2026-09-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -127394,6 +127284,58 @@
       "tags": [
         "auto-ingested",
         "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "jpmorgan-chase-quantitative-research-markets-summer-internship-analyst-2027",
+      "company": {
+        "name": "JPMorgan Chase",
+        "slug": "jpmorgan-chase"
+      },
+      "role": "Quantitative Research, Markets, Summer Internship - Analyst",
+      "category": "quant",
+      "apply_url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774038",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "New York",
+          "state": "NY",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "yes"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-21",
+        "discovered": "2026-09-26",
+        "last_verified": "2026-09-26"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
       ]
     },
     {
@@ -131724,7 +131666,7 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-09-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -133989,7 +133931,7 @@
         "discovered": "2026-08-27",
         "last_verified": "2026-09-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -138719,7 +138661,7 @@
         "discovered": "2026-08-21",
         "last_verified": "2026-09-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -143913,7 +143855,7 @@
         "discovered": "2026-09-17",
         "last_verified": "2026-09-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -153509,7 +153451,7 @@
         "discovered": "2026-08-26",
         "last_verified": "2026-09-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -167773,7 +167715,7 @@
         "discovered": "2026-07-25",
         "last_verified": "2026-09-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -170855,7 +170797,7 @@
         "discovered": "2026-09-22",
         "last_verified": "2026-09-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -171177,7 +171119,7 @@
         "discovered": "2026-09-22",
         "last_verified": "2026-09-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -171727,7 +171669,7 @@
         "discovered": "2026-09-17",
         "last_verified": "2026-09-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -171946,7 +171888,7 @@
         "discovered": "2026-09-21",
         "last_verified": "2026-09-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -186298,7 +186240,7 @@
         "discovered": "2026-09-01",
         "last_verified": "2026-09-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -186534,7 +186476,7 @@
         "discovered": "2026-09-01",
         "last_verified": "2026-09-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -210845,7 +210787,7 @@
         "discovered": "2026-09-21",
         "last_verified": "2026-09-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -216516,7 +216458,7 @@
         "discovered": "2026-09-09",
         "last_verified": "2026-09-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -216567,7 +216509,7 @@
         "discovered": "2026-09-09",
         "last_verified": "2026-09-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -231276,7 +231218,7 @@
         "discovered": "2026-09-08",
         "last_verified": "2026-09-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -231327,7 +231269,7 @@
         "discovered": "2026-09-08",
         "last_verified": "2026-09-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -231378,7 +231320,7 @@
         "discovered": "2026-09-08",
         "last_verified": "2026-09-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -232049,7 +231991,7 @@
         "discovered": "2026-09-17",
         "last_verified": "2026-09-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -232155,7 +232097,7 @@
         "discovered": "2026-09-08",
         "last_verified": "2026-09-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -233703,7 +233645,7 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-09-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -276244,7 +276186,7 @@
         "discovered": "2026-09-17",
         "last_verified": "2026-09-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -277883,7 +277825,7 @@
         "discovered": "2026-09-11",
         "last_verified": "2026-09-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -288963,7 +288905,7 @@
         "discovered": "2026-09-26",
         "last_verified": "2026-09-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"

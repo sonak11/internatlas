@@ -1,6 +1,6 @@
 # 📬 InternAtlas Weekly Digest — 2026-09-26
 
-## 🆕 New this week (406)
+## 🆕 New this week (405)
 
 - **ABB** — [Product Management Intern](https://abb.wd3.myworkdayjobs.com/external_career_page/job/New-Berlin-Wisconsin-United-States-of-America/Product-Management-Intern---Summer-2027_JR00047280) · product · —
 - **AMD** — [AI Engineering Intern](https://careers.amd.com/jobs/91005?icims=1) · ai · —
@@ -76,7 +76,6 @@
 - **Booz Allen** — [Systems Engineer Intern - Summer Games](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Huntsville-AL/University---2027-Summer-Games-Systems-Engineer-Intern---Huntsville--AL_R0249877) · software-engineering · —
 - **Booz Allen** — [Systems Engineer Intern - Summer Games](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Huntsville-AL/University---2027-Summer-Games-Systems-Engineer-Intern---Huntsville--AL_R0249876) · software-engineering · —
 - **Booz Allen** — [Systems Engineer Intern - Summer Games](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/El-Segundo-CA/University---2027-Summer-Games-Systems-Engineer-Intern---El-Segundo--CA_R0249869) · software-engineering · —
-- **Booz Allen** — [Systems Engineer Intern - Summer Games](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Annapolis-Junction-MD/University---2027-Summer-Games-Systems-Engineer-Intern---Annapolis-Junction--MD_R0249871) · software-engineering · —
 - **Boston Scientific** — [Data Engineer Intern](https://bostonscientific.eightfold.ai/careers/job/563602813501949) · data-engineering · —
 - **Boston Scientific** — [Data Science Engineer Intern](https://bostonscientific.eightfold.ai/careers/job/563602813600504) · data-science · —
 - **Boston Scientific** — [Software Development Engineer Intern](https://bostonscientific.eightfold.ai/careers/job/563602813567960) · software-engineering · —
