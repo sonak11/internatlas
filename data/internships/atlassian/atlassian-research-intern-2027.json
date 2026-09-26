@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "booz-allen-software-developer-intern-summer-games-2027-0f51e9",
+  "id": "atlassian-research-intern-2027",
   "company": {
-    "name": "Booz Allen",
-    "slug": "booz-allen"
+    "name": "Atlassian",
+    "slug": "atlassian"
   },
-  "role": "Software Developer Intern - Summer Games",
-  "category": "software-engineering",
-  "apply_url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/El-Segundo-CA/University---2027-Summer-Games-Software-Developer-Intern---El-Segundo--CA_R0248046",
+  "role": "Research Intern",
+  "category": "research",
+  "apply_url": "https://campus-americas.icims.com/jobs/26270/research-intern%2c-2027-summer-u.s./job",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "El Segundo",
-      "state": "CA",
+      "city": "Seattle",
+      "state": "WA",
       "country": "USA"
     }
   ],
@@ -40,8 +40,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-27",
-    "discovered": "2026-09-21",
+    "posted": "2026-09-26",
+    "discovered": "2026-09-26",
     "last_verified": "2026-09-26"
   },
   "status": "open",

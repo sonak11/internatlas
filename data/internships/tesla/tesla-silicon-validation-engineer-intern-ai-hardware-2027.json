@@ -1,23 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "genesis-molecular-ai-machine-learning-research-intern-2027",
+  "id": "tesla-silicon-validation-engineer-intern-ai-hardware-2027",
   "company": {
-    "name": "Genesis Molecular AI",
-    "slug": "genesis-molecular-ai"
+    "name": "Tesla",
+    "slug": "tesla"
   },
-  "role": "Machine Learning Research Intern",
-  "category": "machine-learning",
-  "apply_url": "https://jobs.ashbyhq.com/genesis-molecular-ai/42fc0631-3f81-481a-b496-daa875c9e92e/application?embed=true",
-  "season": "summer",
+  "role": "Silicon Validation Engineer Intern - AI Hardware",
+  "category": "ai",
+  "apply_url": "https://www.tesla.com/careers/search/job/284821",
+  "season": "spring",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "SF",
-      "country": "USA"
-    },
-    {
-      "city": "NYC",
+      "city": "Palo Alto",
+      "state": "CA",
       "country": "USA"
     }
   ],
@@ -28,9 +25,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -45,11 +40,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-24",
-    "discovered": "2026-09-25",
+    "posted": "2026-09-26",
+    "discovered": "2026-09-26",
     "last_verified": "2026-09-26"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

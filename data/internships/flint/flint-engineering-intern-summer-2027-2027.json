@@ -1,20 +1,19 @@
 {
   "schema_version": "1.0",
-  "id": "l3harris-technologies-software-engineer-intern-2026-5c9997",
+  "id": "flint-engineering-intern-summer-2027-2027",
   "company": {
-    "name": "L3Harris Technologies",
-    "slug": "l3harris-technologies"
+    "name": "Flint",
+    "slug": "flint"
   },
-  "role": "Software Engineer Intern",
+  "role": "Engineering Intern - Summer 2027",
   "category": "software-engineering",
-  "apply_url": "https://jobs.l3harris.com/job/Palm-Bay-Intern,-Software-Engineer-FL-32905/1420321500/?ats=successfactors",
-  "season": "fall",
-  "year": 2026,
+  "apply_url": "https://jobs.ashbyhq.com/flint/39f9e665-7037-4dff-b77a-ff7039df2bfc/application?embed=true",
+  "season": "summer",
+  "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Palm Bay",
-      "state": "FL",
+      "city": "SF",
       "country": "USA"
     }
   ],
@@ -25,10 +24,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters",
-      "phd"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -43,8 +39,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-18",
-    "discovered": "2026-08-18",
+    "posted": "2026-09-26",
+    "discovered": "2026-09-26",
     "last_verified": "2026-09-26"
   },
   "status": "open",

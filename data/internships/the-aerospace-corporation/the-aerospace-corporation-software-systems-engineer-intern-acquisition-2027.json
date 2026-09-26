@@ -1,23 +1,25 @@
 {
   "schema_version": "1.0",
-  "id": "genesis-molecular-ai-machine-learning-research-intern-2027",
+  "id": "the-aerospace-corporation-software-systems-engineer-intern-acquisition-2027",
   "company": {
-    "name": "Genesis Molecular AI",
-    "slug": "genesis-molecular-ai"
+    "name": "The Aerospace Corporation",
+    "slug": "the-aerospace-corporation"
   },
-  "role": "Machine Learning Research Intern",
-  "category": "machine-learning",
-  "apply_url": "https://jobs.ashbyhq.com/genesis-molecular-ai/42fc0631-3f81-481a-b496-daa875c9e92e/application?embed=true",
+  "role": "Software Systems Engineer Intern - Acquisition",
+  "category": "software-engineering",
+  "apply_url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Software-Systems-Engineer-and-Acquisition-Intern_R016431",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "SF",
+      "city": "Chantilly",
+      "state": "VA",
       "country": "USA"
     },
     {
-      "city": "NYC",
+      "city": "El Segundo",
+      "state": "CA",
       "country": "USA"
     }
   ],
@@ -28,9 +30,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -45,11 +45,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-24",
-    "discovered": "2026-09-25",
+    "posted": "2026-09-25",
+    "discovered": "2026-09-26",
     "last_verified": "2026-09-26"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

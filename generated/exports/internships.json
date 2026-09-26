@@ -1,6 +1,6 @@
 {
   "generated": "2026-09-26",
-  "count": 5296,
+  "count": 5300,
   "internships": [
     {
       "schema_version": "1.0",
@@ -24947,6 +24947,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "atlassian-research-intern-2027",
+      "company": {
+        "name": "Atlassian",
+        "slug": "atlassian"
+      },
+      "role": "Research Intern",
+      "category": "research",
+      "apply_url": "https://campus-americas.icims.com/jobs/26270/research-intern%2c-2027-summer-u.s./job",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Seattle",
+          "state": "WA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-26",
+        "discovered": "2026-09-26",
+        "last_verified": "2026-09-26"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "atlassian-software-engineer-intern-2027-36c980",
       "company": {
         "name": "Atlassian",
@@ -35752,7 +35804,7 @@
         "discovered": "2026-09-21",
         "last_verified": "2026-09-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -36854,58 +36906,6 @@
     },
     {
       "schema_version": "1.0",
-      "id": "booz-allen-software-developer-intern-summer-games-2027-0f51e9",
-      "company": {
-        "name": "Booz Allen",
-        "slug": "booz-allen"
-      },
-      "role": "Software Developer Intern - Summer Games",
-      "category": "software-engineering",
-      "apply_url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/El-Segundo-CA/University---2027-Summer-Games-Software-Developer-Intern---El-Segundo--CA_R0248046",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "El Segundo",
-          "state": "CA",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-08-27",
-        "discovered": "2026-09-21",
-        "last_verified": "2026-09-26"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
       "id": "booz-allen-software-developer-intern-summer-games-2027-24e556",
       "company": {
         "name": "Booz Allen",
@@ -37069,14 +37069,14 @@
       },
       "role": "Software Developer Intern - Summer Games",
       "category": "software-engineering",
-      "apply_url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Annapolis-Junction-MD/University---2027-Summer-Games-Software-Developer-Intern---Annapolis-Junction--MD_R0249873",
+      "apply_url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/El-Segundo-CA/University---2027-Summer-Games-Software-Developer-Intern---El-Segundo--CA_R0248046",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
       "locations": [
         {
-          "city": "Annapolis Junction",
-          "state": "MD",
+          "city": "El Segundo",
+          "state": "CA",
           "country": "USA"
         }
       ],
@@ -37102,7 +37102,7 @@
         "resume_keywords": []
       },
       "dates": {
-        "posted": "2026-09-21",
+        "posted": "2026-08-27",
         "discovered": "2026-08-27",
         "last_verified": "2026-09-26"
       },
@@ -46928,7 +46928,7 @@
         "discovered": "2026-08-26",
         "last_verified": "2026-09-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -47250,7 +47250,7 @@
         "discovered": "2026-09-23",
         "last_verified": "2026-09-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -51762,7 +51762,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "cesiumastro-electrical-engineer-intern-fpga-2027-0c448e",
+      "id": "cesiumastro-electrical-engineer-intern-fpga-2027",
       "company": {
         "name": "CesiumAstro",
         "slug": "cesiumastro"
@@ -51806,61 +51806,6 @@
       },
       "dates": {
         "posted": "2026-09-16",
-        "discovered": "2026-09-21",
-        "last_verified": "2026-09-26"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "cesiumastro-electrical-engineer-intern-fpga-2027",
-      "company": {
-        "name": "CesiumAstro",
-        "slug": "cesiumastro"
-      },
-      "role": "Electrical Engineer Intern - FPGA",
-      "category": "hardware",
-      "apply_url": "https://jobs.lever.co/CesiumAstro/7778b1db-4953-4320-83ec-35805f5a0516/apply",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Austin",
-          "state": "TX",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [
-          "masters",
-          "phd"
-        ],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-09-21",
         "discovered": "2026-09-16",
         "last_verified": "2026-09-26"
       },
@@ -52649,9 +52594,9 @@
       "dates": {
         "posted": "2026-08-29",
         "discovered": "2026-08-29",
-        "last_verified": "2026-09-21"
+        "last_verified": "2026-09-26"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -84016,7 +83961,7 @@
         "discovered": "2026-08-20",
         "last_verified": "2026-09-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -89941,6 +89886,57 @@
         "last_verified": "2026-08-24"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "flint-engineering-intern-summer-2027-2027",
+      "company": {
+        "name": "Flint",
+        "slug": "flint"
+      },
+      "role": "Engineering Intern - Summer 2027",
+      "category": "software-engineering",
+      "apply_url": "https://jobs.ashbyhq.com/flint/39f9e665-7037-4dff-b77a-ff7039df2bfc/application?embed=true",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "SF",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-26",
+        "discovered": "2026-09-26",
+        "last_verified": "2026-09-26"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -98662,7 +98658,7 @@
         "discovered": "2026-09-25",
         "last_verified": "2026-09-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -98719,7 +98715,7 @@
         "discovered": "2026-09-25",
         "last_verified": "2026-09-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -98775,7 +98771,7 @@
         "discovered": "2026-09-25",
         "last_verified": "2026-09-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -106349,6 +106345,52 @@
       "dates": {
         "posted": "2026-09-17",
         "discovered": "2026-09-18",
+        "last_verified": "2026-09-26"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "govsignals-engineering-intern-2026",
+      "company": {
+        "name": "GovSignals",
+        "slug": "govsignals"
+      },
+      "role": "Engineering Intern",
+      "category": "software-engineering",
+      "apply_url": "https://jobs.ashbyhq.com/GovSignals/e894290c-3263-424e-b7a4-8dcc32ca8ca9/application?embed=true",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "remote",
+      "locations": [],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-26",
+        "discovered": "2026-09-26",
         "last_verified": "2026-09-26"
       },
       "status": "open",
@@ -115246,7 +115288,7 @@
         "discovered": "2026-09-07",
         "last_verified": "2026-09-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -119145,7 +119187,7 @@
         "discovered": "2026-09-09",
         "last_verified": "2026-09-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -119353,7 +119395,7 @@
         "discovered": "2026-09-09",
         "last_verified": "2026-09-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -119460,7 +119502,7 @@
         "discovered": "2026-09-08",
         "last_verified": "2026-09-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -119518,7 +119560,7 @@
         "discovered": "2026-09-08",
         "last_verified": "2026-09-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -131784,7 +131826,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -133519,7 +133561,7 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-09-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -133629,7 +133671,7 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-09-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -133895,7 +133937,7 @@
         "discovered": "2026-08-27",
         "last_verified": "2026-09-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -134487,7 +134529,7 @@
         "discovered": "2026-08-26",
         "last_verified": "2026-09-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -134598,61 +134640,6 @@
         "last_verified": "2026-08-31"
       },
       "status": "closed",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "l3harris-technologies-software-engineer-intern-2026-5c9997",
-      "company": {
-        "name": "L3Harris Technologies",
-        "slug": "l3harris-technologies"
-      },
-      "role": "Software Engineer Intern",
-      "category": "software-engineering",
-      "apply_url": "https://jobs.l3harris.com/job/Palm-Bay-Intern,-Software-Engineer-FL-32905/1420321500/?ats=successfactors",
-      "season": "fall",
-      "year": 2026,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Palm Bay",
-          "state": "FL",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [
-          "masters",
-          "phd"
-        ],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-08-18",
-        "discovered": "2026-08-18",
-        "last_verified": "2026-09-26"
-      },
-      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -135382,14 +135369,14 @@
       },
       "role": "Software Engineer Intern",
       "category": "software-engineering",
-      "apply_url": "https://jobs.l3harris.com/job/Northampton-Intern,-Software-Engineer-MA-01060/1423745000/?ats=successfactors",
+      "apply_url": "https://jobs.l3harris.com/job/Palm-Bay-Intern,-Software-Engineer-FL-32905/1420321500/?ats=successfactors",
       "season": "fall",
       "year": 2026,
       "work_mode": "onsite",
       "locations": [
         {
-          "city": "Northampton",
-          "state": "MA",
+          "city": "Palm Bay",
+          "state": "FL",
           "country": "USA"
         }
       ],
@@ -135418,7 +135405,7 @@
         "resume_keywords": []
       },
       "dates": {
-        "posted": "2026-08-26",
+        "posted": "2026-08-18",
         "discovered": "2026-08-18",
         "last_verified": "2026-09-26"
       },
@@ -153409,7 +153396,7 @@
         "discovered": "2026-09-23",
         "last_verified": "2026-09-26"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -174455,7 +174442,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-09-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -182478,6 +182465,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "philips-electrical-engineer-intern-2027",
+      "company": {
+        "name": "Philips",
+        "slug": "philips"
+      },
+      "role": "Electrical Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Intern---Electrical-Engineering---Cambridge--MA---Summer-2027_592605",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Cambridge",
+          "state": "MA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-25",
+        "discovered": "2026-09-26",
+        "last_verified": "2026-09-26"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "philips-service-contracts-lifecycle-operations-intern-2027",
       "company": {
         "name": "Philips",
@@ -185956,7 +185995,7 @@
         "discovered": "2026-09-01",
         "last_verified": "2026-09-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -186070,7 +186109,7 @@
         "discovered": "2026-09-01",
         "last_verified": "2026-09-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -186315,7 +186354,7 @@
         "discovered": "2026-09-01",
         "last_verified": "2026-09-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -210215,7 +210254,7 @@
         "discovered": "2026-09-22",
         "last_verified": "2026-09-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -230447,7 +230486,7 @@
         "discovered": "2026-07-23",
         "last_verified": "2026-09-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -230504,7 +230543,7 @@
         "discovered": "2026-07-23",
         "last_verified": "2026-09-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -231600,7 +231639,7 @@
         "discovered": "2026-09-08",
         "last_verified": "2026-09-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -232063,7 +232102,7 @@
         "discovered": "2026-09-08",
         "last_verified": "2026-09-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -238954,6 +238993,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "tesla-mobile-application-software-engineer-intern-energy-engineeri-2027",
+      "company": {
+        "name": "Tesla",
+        "slug": "tesla"
+      },
+      "role": "Mobile Application Software Engineer Intern - Energy Engineering",
+      "category": "software-engineering",
+      "apply_url": "https://www.tesla.com/careers/search/job/284776",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Palo Alto",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-26",
+        "discovered": "2026-09-26",
+        "last_verified": "2026-09-26"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "tesla-mobile-applications-engineering-intern-android-engineer-mobi-2026",
       "company": {
         "name": "Tesla",
@@ -240142,6 +240233,58 @@
       "dates": {
         "posted": "2026-09-16",
         "discovered": "2026-09-17",
+        "last_verified": "2026-09-26"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "tesla-silicon-validation-engineer-intern-ai-hardware-2027",
+      "company": {
+        "name": "Tesla",
+        "slug": "tesla"
+      },
+      "role": "Silicon Validation Engineer Intern - AI Hardware",
+      "category": "ai",
+      "apply_url": "https://www.tesla.com/careers/search/job/284821",
+      "season": "spring",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Palo Alto",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-26",
+        "discovered": "2026-09-26",
         "last_verified": "2026-09-26"
       },
       "status": "open",
@@ -245470,6 +245613,63 @@
       "dates": {
         "posted": "2026-09-20",
         "discovered": "2026-09-20",
+        "last_verified": "2026-09-26"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "the-aerospace-corporation-software-systems-engineer-intern-acquisition-2027",
+      "company": {
+        "name": "The Aerospace Corporation",
+        "slug": "the-aerospace-corporation"
+      },
+      "role": "Software Systems Engineer Intern - Acquisition",
+      "category": "software-engineering",
+      "apply_url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Software-Systems-Engineer-and-Acquisition-Intern_R016431",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Chantilly",
+          "state": "VA",
+          "country": "USA"
+        },
+        {
+          "city": "El Segundo",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-25",
+        "discovered": "2026-09-26",
         "last_verified": "2026-09-26"
       },
       "status": "open",
@@ -266078,7 +266278,7 @@
         "discovered": "2026-09-22",
         "last_verified": "2026-09-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -270094,7 +270294,7 @@
         "discovered": "2026-09-23",
         "last_verified": "2026-09-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -279150,7 +279350,10 @@
       },
       "eligibility": {
         "graduation_years": [],
-        "degree_levels": [],
+        "degree_levels": [
+          "masters",
+          "phd"
+        ],
         "citizenship_required": false,
         "security_clearance_required": false,
         "visa_sponsorship": "unknown"

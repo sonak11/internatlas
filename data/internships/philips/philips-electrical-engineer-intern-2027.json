@@ -1,23 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "genesis-molecular-ai-machine-learning-research-intern-2027",
+  "id": "philips-electrical-engineer-intern-2027",
   "company": {
-    "name": "Genesis Molecular AI",
-    "slug": "genesis-molecular-ai"
+    "name": "Philips",
+    "slug": "philips"
   },
-  "role": "Machine Learning Research Intern",
-  "category": "machine-learning",
-  "apply_url": "https://jobs.ashbyhq.com/genesis-molecular-ai/42fc0631-3f81-481a-b496-daa875c9e92e/application?embed=true",
+  "role": "Electrical Engineer Intern",
+  "category": "software-engineering",
+  "apply_url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Intern---Electrical-Engineering---Cambridge--MA---Summer-2027_592605",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "SF",
-      "country": "USA"
-    },
-    {
-      "city": "NYC",
+      "city": "Cambridge",
+      "state": "MA",
       "country": "USA"
     }
   ],
@@ -28,9 +25,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -45,11 +40,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-24",
-    "discovered": "2026-09-25",
+    "posted": "2026-09-25",
+    "discovered": "2026-09-26",
     "last_verified": "2026-09-26"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"
