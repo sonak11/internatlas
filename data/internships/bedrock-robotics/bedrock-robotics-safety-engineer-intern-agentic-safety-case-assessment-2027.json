@@ -1,0 +1,51 @@
+{
+  "schema_version": "1.0",
+  "id": "bedrock-robotics-safety-engineer-intern-agentic-safety-case-assessment-2027",
+  "company": {
+    "name": "Bedrock Robotics",
+    "slug": "bedrock-robotics"
+  },
+  "role": "Safety Engineer Intern - Agentic Safety Case Assessment",
+  "category": "software-engineering",
+  "apply_url": "https://jobs.ashbyhq.com/bedrock-robotics/cb06dc4f-3e78-4546-897d-b39ba12a9178/application?embed=true",
+  "season": "summer",
+  "year": 2027,
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "SF",
+      "country": "USA"
+    }
+  ],
+  "compensation": {
+    "currency": "USD",
+    "housing_stipend": false,
+    "relocation_assistance": false
+  },
+  "eligibility": {
+    "graduation_years": [],
+    "degree_levels": [],
+    "citizenship_required": false,
+    "security_clearance_required": false,
+    "visa_sponsorship": "unknown"
+  },
+  "interview": {},
+  "tech": {
+    "required_skills": [],
+    "preferred_skills": [],
+    "languages": [],
+    "frameworks": [],
+    "cloud_platforms": [],
+    "resume_keywords": []
+  },
+  "dates": {
+    "posted": "2026-09-25",
+    "discovered": "2026-09-26",
+    "last_verified": "2026-09-26"
+  },
+  "status": "open",
+  "tags": [
+    "auto-ingested",
+    "src:simplify"
+  ]
+}

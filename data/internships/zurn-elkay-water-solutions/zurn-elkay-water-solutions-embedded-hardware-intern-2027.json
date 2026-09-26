@@ -1,21 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "doordash-machine-learning-intern-phd-summer-2027-2027",
+  "id": "zurn-elkay-water-solutions-embedded-hardware-intern-2027",
   "company": {
-    "name": "DoorDash",
-    "slug": "doordash",
-    "career_page": "https://careers.doordash.com/"
+    "name": "Zurn Elkay Water Solutions",
+    "slug": "zurn-elkay-water-solutions"
   },
-  "role": "Machine Learning Intern (PhD) - Summer 2027",
-  "category": "machine-learning",
-  "apply_url": "https://job-boards.greenhouse.io/doordashusa/jobs/8233953",
+  "role": "Embedded Hardware Intern",
+  "category": "embedded",
+  "apply_url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Embedded-Hardware-Intern--Summer-2027-_REQ-020151",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "San Francisco",
-      "state": "CA",
+      "city": "Milwaukee",
+      "state": "WI",
       "country": "USA"
     }
   ],
@@ -26,7 +25,9 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "masters"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -42,12 +43,12 @@
   },
   "dates": {
     "posted": "2026-09-25",
-    "discovered": "2026-09-25",
-    "last_verified": "2026-09-25"
+    "discovered": "2026-09-26",
+    "last_verified": "2026-09-26"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:ats"
+    "src:simplify"
   ]
 }

@@ -1,21 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "doordash-machine-learning-intern-masters-summer-2027-2027",
+  "id": "onsemi-test-engineer-intern-intelligent-sensor-group-test-engineeri-2027",
   "company": {
-    "name": "DoorDash",
-    "slug": "doordash",
-    "career_page": "https://careers.doordash.com/"
+    "name": "onsemi",
+    "slug": "onsemi"
   },
-  "role": "Machine Learning Intern (Masters) - Summer 2027",
-  "category": "machine-learning",
-  "apply_url": "https://job-boards.greenhouse.io/doordashusa/jobs/8204111",
+  "role": "Test Engineer Intern - Intelligent Sensor Group - Test Engineering",
+  "category": "software-engineering",
+  "apply_url": "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506604",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "San Francisco",
-      "state": "CA",
+      "city": "Nampa",
+      "state": "ID",
       "country": "USA"
     }
   ],
@@ -26,7 +25,9 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "masters"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -41,13 +42,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-23",
-    "discovered": "2026-09-25",
-    "last_verified": "2026-09-25"
+    "posted": "2026-09-25",
+    "discovered": "2026-09-26",
+    "last_verified": "2026-09-26"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:ats"
+    "src:simplify"
   ]
 }
