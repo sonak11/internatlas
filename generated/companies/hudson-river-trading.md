@@ -10,7 +10,7 @@
 |---|---|---|---|---|---|---|---|
 | Hudson River Trading | [Algorithm Development (Quant Research & Trading) Internship – Summer 2027](https://www.hudsonrivertrading.com/careers/job/?gh_jid=7964062) | London | Onsite | 2026-07-13 | Rolling | 🟢 Open | ❔ |
 | Hudson River Trading | [Algorithm Development (Quant Research & Trading) PhD Internship – Summer 2027](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8059837) | London | Onsite | 2026-07-13 | Rolling | 🟢 Open | ❔ |
-| Hudson River Trading | [Data Scientist Intern - 2027](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8257369) | London | Onsite | 2026-10-05 | Rolling | 🟢 Open | ❔ |
+| Hudson River Trading | [Data Scientist Intern](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8257369) | London +2 | Onsite | 2026-10-05 | Rolling | 🟢 Open | ❔ |
 | Hudson River Trading | [Hardware Engineer Internship - Summer 2027](https://www.hudsonrivertrading.com/careers/job/?gh_jid=7899574) | New York, NY | Onsite | 2026-08-31 | Rolling | 🟢 Open | ❔ |
 | Hudson River Trading | [Intern](https://www.hudsonrivertrading.com/hrt-job/algorithm-development-quant-research-internship-summer-2027/) | New York, NY | Onsite | 2026-07-24 | Rolling | 🟢 Open | ❔ |
 | Hudson River Trading | [PhD Winter Intern](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8212741) | NYC +1 | Onsite | 2026-09-18 | Rolling | 🟢 Open | ❔ |

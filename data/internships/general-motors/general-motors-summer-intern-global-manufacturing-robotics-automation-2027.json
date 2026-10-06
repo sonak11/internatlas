@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0",
+  "id": "general-motors-summer-intern-global-manufacturing-robotics-automation-2027",
+  "company": {
+    "name": "General Motors",
+    "slug": "general-motors"
+  },
+  "role": "Summer Intern - Global Manufacturing Robotics & Automation",
+  "category": "software-engineering",
+  "apply_url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Manufacturing-Engineering-Global-Automation_JR-202619348",
+  "season": "summer",
+  "year": 2027,
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "Warren",
+      "state": "MI",
+      "country": "USA"
+    }
+  ],
+  "compensation": {
+    "currency": "USD",
+    "housing_stipend": false,
+    "relocation_assistance": false
+  },
+  "eligibility": {
+    "graduation_years": [],
+    "degree_levels": [],
+    "citizenship_required": false,
+    "security_clearance_required": false,
+    "visa_sponsorship": "unknown"
+  },
+  "interview": {},
+  "tech": {
+    "required_skills": [],
+    "preferred_skills": [],
+    "languages": [],
+    "frameworks": [],
+    "cloud_platforms": [],
+    "resume_keywords": []
+  },
+  "dates": {
+    "posted": "2026-10-05",
+    "discovered": "2026-10-06",
+    "last_verified": "2026-10-06"
+  },
+  "status": "open",
+  "tags": [
+    "auto-ingested",
+    "src:simplify"
+  ]
+}

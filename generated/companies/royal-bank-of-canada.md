@@ -6,6 +6,8 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
+| Royal Bank of Canada | [AI Developer Intern - Grm - Innovation & AI Center of Excellence](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--AI-Developer-Intern---Innovation---AI-Center-of-Excellence--4-Months-_R-0000188001-1) | Toronto | Onsite | 2026-10-05 | Rolling | 🟢 Open | ❔ |
+| Royal Bank of Canada | [AI Developer Intern - Innovation & AI Center of Excellence](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--AI-Developer-Intern---Innovation---AI-Center-of-Excellence--4-Months-_R-0000188001) | Toronto | Onsite | 2026-10-05 | Rolling | 🟢 Open | ❔ |
 | Royal Bank of Canada | [Quantum Technologies Intern](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter-Student-Opportunities-Technology---Operations---Quantum-Computing-Specialist--8-Months_R-0000188860) | Toronto | Onsite | 2026-09-24 | Rolling | 🟢 Open | ❔ |
 | Royal Bank of Canada | [Quantum Technologies Intern - 8 Months](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter-Student-Opportunities-Technology---Operations---Quantum-Computing-Specialist--8-Months_R-0000188860-1) | Toronto | Onsite | 2026-09-24 | Rolling | 🟢 Open | ❔ |
 | Royal Bank of Canada | [Software Development Intern - Wealth Management Technology](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/Minneapolis-Minnesota-United-States-of-America/Summer-2027-Wealth-Management-Technology-Internship_R-0000187852-1) | Minneapolis, MN | Onsite | 2026-09-22 | Rolling | 🟢 Open | ❔ |

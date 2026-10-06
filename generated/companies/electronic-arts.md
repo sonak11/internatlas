@@ -13,6 +13,7 @@
 | Electronic Arts | [Rendering Engineer Intern - Apex Legends](https://jobs.ea.com/en_US/careers/JobDetail/Rendering-Engineer-Intern/216222) | Vancouver | Onsite | 2026-09-22 | Rolling | 🟢 Open | ❔ |
 | Electronic Arts | [Software Engineer Intern](https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern/210894) | Vancouver | Onsite | 2026-04-20 | Rolling | 🟢 Open | ❌ |
 | Electronic Arts | [Software Engineer Intern](https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern/216263) | Orlando, FL | Onsite | 2026-09-30 | Rolling | 🟢 Open | ❔ |
+| Electronic Arts | [Software Engineer Intern](https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern/216251) | Orlando, FL | Onsite | 2026-10-05 | Rolling | 🟢 Open | ❔ |
 | Electronic Arts | [Software Engineer Intern](https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern-Summer-2027/216239) | Austin, TX | Onsite | 2026-10-03 | Rolling | 🟢 Open | ❔ |
 
 ## Related

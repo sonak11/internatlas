@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "hudson-river-trading-data-scientist-intern-2027-2027",
+  "id": "tesla-systems-integration-engineering-intern-thermal-systems-2027",
   "company": {
-    "name": "Hudson River Trading",
-    "slug": "hudson-river-trading",
-    "career_page": "https://www.hudsonrivertrading.com/careers"
+    "name": "Tesla",
+    "slug": "tesla"
   },
-  "role": "Data Scientist Intern - 2027",
-  "category": "data-science",
-  "apply_url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8257369",
-  "season": "summer",
+  "role": "Systems Integration Engineering Intern - Thermal Systems",
+  "category": "software-engineering",
+  "apply_url": "https://www.tesla.com/careers/search/job/285779",
+  "season": "spring",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "London",
+      "city": "Palo Alto",
+      "state": "CA",
       "country": "USA"
     }
   ],
@@ -41,12 +41,12 @@
   },
   "dates": {
     "posted": "2026-10-05",
-    "discovered": "2026-09-28",
-    "last_verified": "2026-10-05"
+    "discovered": "2026-10-06",
+    "last_verified": "2026-10-06"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:ats"
+    "src:simplify"
   ]
 }

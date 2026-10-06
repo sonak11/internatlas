@@ -6,6 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
+| American Enterprise Institute | [Spring Data Analyst and Education Policy Intern](https://internships-aei.icims.com/jobs/2699/job?mobile=true&needsRedirect=false) | Washington, DC | Onsite | 2026-10-05 | Rolling | 🟢 Open | ❔ |
 | American Enterprise Institute | [Data Analysis & AI Policy Intern](https://internships-aei.icims.com/jobs/2612/job?mobile=true&needsRedirect=false) | Washington, DC | Onsite | 2026-05-01 | Rolling | 🔴 Closed | ❔ |
 | American Enterprise Institute | [Housing Center Intern](https://internships-aei.icims.com/jobs/2614/job?mobile=true&needsRedirect=false) | Washington, DC | Onsite | 2026-05-01 | Rolling | 🔴 Closed | ❔ |
 | American Enterprise Institute | [Intern](https://internships-aei.icims.com/jobs/2616/job?mobile=true&needsRedirect=false) | Washington, DC | Onsite | 2026-05-01 | Rolling | 🔴 Closed | ❔ |

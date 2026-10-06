@@ -2,12 +2,11 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # Figma
 
-[Careers page](https://www.figma.com/careers)
-
 ## Current openings
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
+| Figma | [AI Applied Scientist Intern](https://boards.greenhouse.io/figma/jobs/6207801004) | SF +1 | Onsite | 2026-10-05 | Rolling | 🟢 Open | ❔ |
 | Figma | [Data Engineer Intern (2027)](https://boards.greenhouse.io/figma/jobs/6178851004?gh_jid=6178851004) | San Francisco | Onsite | 2026-09-23 | Rolling | 🟢 Open | ❔ |
 | Figma | [Data Science Intern](https://boards.greenhouse.io/figma/jobs/6200626004) | SF +1 | Onsite | 2026-09-21 | Rolling | 🟢 Open | ❔ |
 | Figma | [Data Science Intern (2027)](https://boards.greenhouse.io/figma/jobs/6178857004?gh_jid=6178857004) | San Francisco | Onsite | 2026-09-14 | Rolling | 🟢 Open | ❔ |

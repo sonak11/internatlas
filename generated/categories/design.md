@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🎨 Design Internships
 
-**152** tracked · **86** open now
+**157** tracked · **91** open now
 
 ## Current openings
 
@@ -13,6 +13,9 @@
 | [Analog Devices](generated/companies/analog-devices.md) | [Analog Design Engineer Intern](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Analog-Design-Engineer-Intern_R265297) | Wilmington, MA +1 | Onsite | 2026-08-21 | Rolling | 🟢 Open | ❔ |
 | [Analog Devices](generated/companies/analog-devices.md) | [Digital Design Engineer Intern](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-NC-Durham/Digital-Design-Engineer-Intern_R265298) | San Jose, CA +1 | Onsite | 2026-08-24 | Rolling | 🟢 Open | ❔ |
 | [Atomic Semi](generated/companies/atomic-semi.md) | [Software Engineer Intern, Chip Design Tools](https://jobs.ashbyhq.com/fab2/907766af-a3c0-49a3-b01e-246baa437d10?embed=true) | San Francisco, CA | Onsite | 2026-07-27 | Rolling | 🟢 Open | ✅ |
+| [Cirrus Logic](generated/companies/cirrus-logic.md) | [Analog Design Engineer Intern](https://jobs.eu.lever.co/cirrus/df033a94-155f-427f-a178-88bd18c3d5ec/apply) | Austin, TX | Onsite | 2026-10-05 | Rolling | 🟢 Open | ❔ |
+| [Cirrus Logic](generated/companies/cirrus-logic.md) | [Design Verification Engineer Intern](https://jobs.eu.lever.co/cirrus/c71a6365-31c7-4ba1-bdc4-9f2df1fc483e/apply) | Austin, TX | Onsite | 2026-10-05 | Rolling | 🟢 Open | ❔ |
+| [Cirrus Logic](generated/companies/cirrus-logic.md) | [Digital Design Engineer Intern](https://jobs.eu.lever.co/cirrus/0310fbd1-a2a8-4c0f-a842-86e05ae7d98e/apply) | Austin, TX | Onsite | 2026-10-05 | Rolling | 🟢 Open | ❔ |
 | [Coinbase](generated/companies/coinbase.md) | [Product Design Intern](https://www.coinbase.com/careers/positions/8175339?gh_jid=8175339) | Hybrid | Onsite | 2026-09-08 | Rolling | 🟢 Open | ❔ |
 | [DoorDash](generated/companies/doordash.md) | [Product Design, Intern (Summer 2027)](https://job-boards.greenhouse.io/doordashusa/jobs/8176863) | San Francisco, CA | Onsite | 2026-09-03 | Rolling | 🟢 Open | ❔ |
 | [Etched](generated/companies/etched.md) | [Physical Design Intern](https://jobs.ashbyhq.com/Etched/bd8c5768-7efa-4a18-9e56-485ccaf4ec77/application?embed=true) | San Jose, CA | Onsite | 2026-05-20 | Rolling | 🟢 Open | ❔ |
@@ -23,6 +26,7 @@
 | [Garmin](generated/companies/garmin.md) | [Electrical Design Engineer Intern](https://careers.garmin.com/jobs/19896?icims=1) | Tulsa, OK | Onsite | 2026-09-10 | Rolling | 🟢 Open | ❔ |
 | [Garmin](generated/companies/garmin.md) | [Electrical Design Engineer Intern](https://careers.garmin.com/jobs/19643?icims=1) | Olathe, KS | Onsite | 2026-08-18 | Rolling | 🟢 Open | ❔ |
 | [Heron Power](generated/companies/heron-power.md) | [Electronics Design Engineer Intern](http://jobs.ashbyhq.com/heron-power/796052b0-3811-4282-b1f9-7e6f83c3e87b/application) | Santa Cruz, CA | Onsite | 2026-06-23 | Rolling | 🟢 Open | ❔ |
+| [Intel](generated/companies/intel.md) | [CPU Core Physical Design Technical Graduate Intern](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-California-Folsom/CPU-Core-Physical-Design-Technical-Graduate-Intern--Spring_JR0287613) | Folsom, CA | Onsite | 2026-10-05 | Rolling | 🟢 Open | ❔ |
 | [Jump Trading](generated/companies/jump-trading.md) | [Campus UI Software Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8003019) | Chicago +1 | Onsite | 2026-07-08 | Rolling | 🟢 Open | ✅ |
 | [Jump Trading](generated/companies/jump-trading.md) | [Campus UI Software Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7974943) | London | Onsite | 2026-07-13 | Rolling | 🟢 Open | ❔ |
 | [Jump Trading](generated/companies/jump-trading.md) | [Campus UI Software Engineer Intern](https://boards.greenhouse.io/embed/job_app?token=8003019) | Chicago, IL | Onsite | 2026-07-08 | Rolling | 🟢 Open | ❔ |
@@ -66,6 +70,7 @@
 | [Qorvo](generated/companies/qorvo.md) | [RFIC Design Engineer Intern](https://careers.qorvo.com/job/Chelmsford-RFIC-Design-Engineer-Intern-MA-1824/1424704500/?ats=successfactors) | Chelmsford, MA | Onsite | 2026-08-31 | Rolling | 🟢 Open | ❔ |
 | [Qorvo](generated/companies/qorvo.md) | [SOI Design Engineer Intern](https://careers.qorvo.com/job/Greensboro-SOI-Design-Intern-NC-27409/1421670100/?ats=successfactors) | Greensboro, NC | Onsite | 2026-08-31 | Rolling | 🟢 Open | ❔ |
 | [Qorvo](generated/companies/qorvo.md) | [SOI Design Engineer Intern - High Performance Analog - Advanced Cellular](https://careers.qorvo.com/job/Greensboro-SOI-Design-Intern-NC-27409/1421973500/?ats=successfactors) | Greensboro, NC | Onsite | 2026-08-31 | Rolling | 🟢 Open | ❔ |
+| [Rivian](generated/companies/rivian.md) | [Electronics Design Engineer Co-op Intern - Electronics Design](https://careers.rivian.com/jobs/34040?icims=1) | Palo Alto, CA | Onsite | 2026-10-05 | Rolling | 🟢 Open | ❔ |
 | [Rivian](generated/companies/rivian.md) | [Engineer Intern Co-op - Design-for-Test](https://careers.rivian.com/jobs/33810?icims=1) | Palo Alto, CA | Onsite | 2026-10-01 | Rolling | 🟢 Open | ❔ |
 | [Rivian](generated/companies/rivian.md) | [Engineering Intern/Co-op - Design Verification - Neural Engine](https://careers.rivian.com/jobs/33833?icims=1) | Palo Alto, CA | Onsite | 2026-09-30 | Rolling | 🟢 Open | ❔ |
 | [Rivian](generated/companies/rivian.md) | [Software Engineer Intern Co-op - Design Automation](https://careers.rivian.com/jobs/33748?icims=1) | Palo Alto, CA | Onsite | 2026-09-22 | Rolling | 🟢 Open | ❔ |
@@ -172,16 +177,18 @@
 - Semtech (5)
 - Jump Trading (4)
 - NVIDIA (4)
+- Rivian (4)
 - Vertiv (4)
 - AMD (3)
+- Cirrus Logic (3)
 - Neuralink (3)
-- Rivian (3)
 - RTX (3)
 - Interstates (3)
 - Analog Devices (2)
 - DoorDash (2)
 - Garmin (2)
 - Heron Power (2)
+- Intel (2)
 - Astranis (2)
 - Brunswick (2)
 - Ciena (2)
@@ -204,7 +211,6 @@
 - GlobalFoundries (1)
 - Gumloop (1)
 - Humanscale (1)
-- Intel (1)
 - L3Harris Technologies (1)
 - Nokia (1)
 - OCC (1)

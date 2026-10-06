@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🔩 Hardware Internships
 
-**217** tracked · **137** open now
+**219** tracked · **142** open now
 
 ## Current openings
 
@@ -24,8 +24,11 @@
 | [Anduril](generated/companies/anduril.md) | [2027 Manufacturing Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5153218007?gh_jid=5153218007) | Atlanta | Onsite | 2026-06-11 | Rolling | 🟢 Open | ❔ |
 | [Anduril](generated/companies/anduril.md) | [2027 Manufacturing Optimization Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5236893007?gh_jid=5236893007) | Ashville | Onsite | 2026-09-14 | Rolling | 🟢 Open | ❔ |
 | [Anduril](generated/companies/anduril.md) | [2027 Mechanical Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5153187007?gh_jid=5153187007) | Atlanta | Onsite | 2026-06-11 | Rolling | 🟢 Open | ❔ |
+| [Anduril](generated/companies/anduril.md) | [2027 Quality & Test Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5257674007?gh_jid=5257674007) | Ashville | Onsite | 2026-10-05 | Rolling | 🟢 Open | ❔ |
+| [Anduril](generated/companies/anduril.md) | [2027 Reliability Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5257682007?gh_jid=5257682007) | Costa Mesa | Onsite | 2026-10-05 | Rolling | 🟢 Open | ❔ |
 | [Anduril](generated/companies/anduril.md) | [2027 Software Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5148079007?gh_jid=5148079007) | Atlanta | Onsite | 2026-06-10 | Rolling | 🟢 Open | ❔ |
 | [Anduril](generated/companies/anduril.md) | [2027 Supply Chain Intern](https://boards.greenhouse.io/andurilindustries/jobs/5255827007?gh_jid=5255827007) | Costa Mesa | Onsite | 2026-10-02 | Rolling | 🟢 Open | ❔ |
+| [Anduril](generated/companies/anduril.md) | [2027 Systems Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5257690007?gh_jid=5257690007) | Boston | Onsite | 2026-10-05 | Rolling | 🟢 Open | ❔ |
 | [Arc](generated/companies/arc.md) | [Electrical Hardware Engineering Intern](https://job-boards.greenhouse.io/arcboatcompany/jobs/5442853008) | Torrance, CA | Onsite | 2026-10-02 | Rolling | 🟢 Open | ❔ |
 | [Astranis](generated/companies/astranis.md) | [FPGA Intern - Summer 2027](https://job-boards.greenhouse.io/astranis/jobs/4704805006) | SF | Onsite | 2026-09-24 | Rolling | 🟢 Open | ❔ |
 | [Astranis](generated/companies/astranis.md) | [FPGA Intern - Winter 2027](https://job-boards.greenhouse.io/astranis/jobs/4704803006) | SF | Onsite | 2026-09-24 | Rolling | 🟢 Open | ❔ |
@@ -50,6 +53,7 @@
 | [Ciena](generated/companies/ciena.md) | [Hardware Design and Verification Intern - PCBA](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Hardware--PCBA--Design-and-Verification-Intern--Winter-2027---4-Months-_R031787) | Ottawa | Onsite | 2026-09-29 | Rolling | 🟢 Open | ❔ |
 | [Ciena](generated/companies/ciena.md) | [Hardware Design and Verification Intern - PCBA](https://ciena.wd5.myworkdayjobs.com/Careers/job/Canada--Ottawa--383-Terry-Fox--Bldg-C/Hardware--PCBA--Design-and-Verification-Intern--Winter-2027---4-months-_R031752) | Ottawa | Onsite | 2026-09-25 | Rolling | 🟢 Open | ❔ |
 | [Ciena](generated/companies/ciena.md) | [Modem Hardware Engineer Intern/Co-op](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Wavelogic-Modem-HW-Engineering-Intern-Co-op--Winter-2027---4-month-_R031652) | Ottawa | Onsite | 2026-09-10 | Rolling | 🟢 Open | ❔ |
+| [Citadel Securities](generated/companies/citadel-securities.md) | [FPGA Engineer Intern](https://www.citadelsecurities.com/careers/details/fpga-engineer-intern-us/) | Miami, FL +1 | Onsite | 2026-07-06 | Rolling | 🟢 Open | ❔ |
 | [Dell Technologies](generated/companies/dell-technologies.md) | [Hardware Engineering Intern - Client Solutions Group Engineering](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/298216) | Austin, TX | Onsite | 2026-09-10 | Rolling | 🟢 Open | ❔ |
 | [Dell Technologies](generated/companies/dell-technologies.md) | [Hardware Engineering Intern - Infrastructure Solutions Group](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/297770) | Round Rock, TX +1 | Onsite | 2026-09-14 | Rolling | 🟢 Open | ❔ |
 | [DRW](generated/companies/drw.md) | [FPGA Intern](https://www.drw.com/work-at-drw/listings/fpga-intern-3484423) | Chicago, IL | Onsite | 2026-07-31 | Rolling | 🟢 Open | ✅ |
@@ -60,6 +64,7 @@
 | [Formlabs](generated/companies/formlabs.md) | [Hardware Systems Integration Intern - Winter/Spring 2027](https://careers.formlabs.com/job/8172004/apply/?gh_jid=8172004) | Somerville, MA | Onsite | 2026-09-02 | Rolling | 🟢 Open | ❔ |
 | [Formlabs](generated/companies/formlabs.md) | [Hardware Test Engineer Intern](https://careers.formlabs.com/job/8196515/apply/?gh_jid=8196515) | Somerville, MA | Onsite | 2026-09-18 | Rolling | 🟢 Open | ❔ |
 | [GE Healthcare](generated/companies/ge-healthcare.md) | [Engineering Development Program Intern - Hardware](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Waukesha/Edison-Engineering-Development-Program-Internship---Hardware_R4043923-1) | Twinsburg, OH +1 | Onsite | 2026-07-20 | Rolling | 🟢 Open | ❔ |
+| [GlobalFoundries](generated/companies/globalfoundries.md) | [Silicon Photonics Advanced Packaging Intern](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Silicon-Photonics-Advanced-Packaging-Intern--Summer-2027-_JR-2604270) | Malta, NY | Onsite | 2026-09-03 | Rolling | 🟢 Open | ❔ |
 | [Google](generated/companies/google.md) | [Hardware Engineer Intern](https://www.google.com/about/careers/applications/jobs/results/122803627516404422) | Palo Alto, CA +30 | Onsite | 2026-09-14 | Rolling | 🟢 Open | ❔ |
 | [Google](generated/companies/google.md) | [Hardware Engineer Intern - PhD](https://www.google.com/about/careers/applications/jobs/results/97352132356645574) | Palo Alto, CA +30 | Onsite | 2026-09-14 | Rolling | 🟢 Open | ❔ |
 | [Google](generated/companies/google.md) | [Silicon Engineering Intern](https://www.google.com/about/careers/applications/jobs/results/136529930677560006) | Madison, WI +2 | Onsite | 2026-09-14 | Rolling | 🟢 Open | ❔ |
@@ -163,7 +168,6 @@
 | [Anduril](generated/companies/anduril.md) | [2026 Software Engineering Intern](https://boards.greenhouse.io/andurilindustries/jobs/5211077007?gh_jid=5211077007) | Sydney | Onsite | 2026-09-02 | Rolling | 🔴 Closed | ❔ |
 | [Anduril](generated/companies/anduril.md) | [2027 Hardware Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5231555007?gh_jid=5231555007) | Dublin | Onsite | 2026-09-09 | Rolling | 🔴 Closed | ❔ |
 | [Anduril](generated/companies/anduril.md) | [2027 Mechanical Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5232027007?gh_jid=5232027007) | Dublin | Onsite | 2026-09-09 | Rolling | 🔴 Closed | ❔ |
-| [Anduril](generated/companies/anduril.md) | [2027 Quality & Test Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5231653007?gh_jid=5231653007) | Dublin | Onsite | 2026-09-09 | Rolling | 🔴 Closed | ❔ |
 | [Anduril](generated/companies/anduril.md) | [2027 Software Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5231488007?gh_jid=5231488007) | Dublin | Onsite | 2026-09-09 | Rolling | 🔴 Closed | ❔ |
 | [Anduril](generated/companies/anduril.md) | [2027 Software Quality Assurance Intern](https://boards.greenhouse.io/andurilindustries/jobs/5232025007?gh_jid=5232025007) | Dublin | Onsite | 2026-09-09 | Rolling | 🔴 Closed | ❔ |
 | [Astranis](generated/companies/astranis.md) | [FPGA Associate Intern](https://job-boards.greenhouse.io/astranis/jobs/4677337006) | SF | Onsite | 2026-04-30 | Rolling | 🔴 Closed | ❔ |
@@ -175,7 +179,6 @@
 | [Boston Scientific](generated/companies/boston-scientific.md) | [R&D Hardware Engineer Intern - Interns/Graduates](https://bostonscientific.eightfold.ai/careers/job/563602813483105) | Arden Hills, MN | Onsite | 2026-09-02 | Rolling | 🔴 Closed | ❔ |
 | [Ciena](generated/companies/ciena.md) | [Optical Modem Hardware Intern](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Fall-2026-Optical-Modem-Hardware-Intern--8-12-months-_R031214) | Ottawa | Onsite | 2026-06-17 | Rolling | 🔴 Closed | ❔ |
 | [Ciena](generated/companies/ciena.md) | [Photonic Hardware Intern](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Photonic-Hardware-Intern--4-12-Months-_R031366) | Ottawa | Onsite | 2026-07-20 | Rolling | 🔴 Closed | ❔ |
-| [Citadel Securities](generated/companies/citadel-securities.md) | [FPGA Engineer Intern](https://www.citadelsecurities.com/careers/details/fpga-engineer-intern-us/) | Miami, FL +1 | Onsite | 2026-07-06 | Rolling | 🔴 Closed | ❔ |
 | [Epia Neuro](generated/companies/epia-neuro.md) | [Hardware Engineer Intern](https://jobs.ashbyhq.com/epianeuro/62d296e8-16c4-4403-8af5-629e97f7f7fe/application?embed=true) | Alameda, CA | Onsite | 2026-08-15 | Rolling | 🔴 Closed | ❔ |
 | [Figure](generated/companies/figure.md) | [Hardware Reliability Intern](https://job-boards.greenhouse.io/figureai/jobs/4613067006) | San Jose, CA | Onsite | 2026-06-23 | Rolling | 🔴 Closed | ❔ |
 | [Formlabs](generated/companies/formlabs.md) | [Hardware Systems Integration Intern](https://careers.formlabs.com/job/7927471/apply/?gh_jid=7927471) | Cambridge, MA | Onsite | 2026-05-15 | Rolling | 🔴 Closed | ❔ |
@@ -185,7 +188,6 @@
 | [GE Vernova](generated/companies/ge-vernova.md) | [Hardware Engineer Intern - Critical Infrastructure Communications](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Rochester/GE-Vernova-Grid-Solutions---Hardware-Engineering-Intern--Critical-Infrastructure-Communications----Spring-Summer-2027_R5051647-2) | Rochester, NY | Onsite | 2026-09-03 | Rolling | 🔴 Closed | ❔ |
 | [GE Vernova](generated/companies/ge-vernova.md) | [Hardware Engineer Intern - Critical Infrastructure Communications](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Rochester/GE-Vernova-Grid-Solutions---Hardware-Engineering-Intern--Critical-Infrastructure-Communications----Spring-Summer-2027_R5051647-1) | Rochester, NY | Onsite | 2026-09-03 | Rolling | 🔴 Closed | ❔ |
 | [Geotab](generated/companies/geotab.md) | [Hardware Developer Intern](https://job-boards.greenhouse.io/internshiplist2000/jobs/5380567008) | Oakville | Onsite | 2026-09-03 | Rolling | 🔴 Closed | ❔ |
-| [GlobalFoundries](generated/companies/globalfoundries.md) | [Silicon Photonics Advanced Packaging Intern](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Silicon-Photonics-Advanced-Packaging-Intern--Summer-2027-_JR-2604270) | Malta, NY | Onsite | 2026-09-03 | Rolling | 🔴 Closed | ❔ |
 | [Hermeus](generated/companies/hermeus.md) | [Hardware-In-the-Loop Software Engineering Intern - Fall 2026](https://jobs.lever.co/hermeus/10d69ef6-a754-42ab-833c-76adf01367bf/apply) | Atlanta, GA | Onsite | 2026-04-17 | Rolling | 🔴 Closed | ❔ |
 | [Hermeus](generated/companies/hermeus.md) | [Software Engineer Intern - Hardware in the Loop](https://jobs.lever.co/hermeus/d87ed913-affc-475e-b721-c5b5f11c3c7b/apply) | Atlanta, GA | Onsite | 2026-09-01 | Rolling | 🔴 Closed | ❔ |
 | [IMC Trading](generated/companies/imc-trading.md) | [2027 - FPGA Intern - IIT Bombay](https://job-boards.eu.greenhouse.io/imc/jobs/4860306101) | Amsterdam | Onsite | 2026-07-03 | Rolling | 🔴 Closed | ❔ |
@@ -229,8 +231,8 @@
 ## Hiring companies
 
 - AMD (19)
+- Anduril (19)
 - SpaceX (19)
-- Anduril (17)
 - Neuralink (13)
 - Astranis (9)
 - NVIDIA (7)
@@ -267,11 +269,13 @@
 - Akuna Capital (1)
 - Ambarella (1)
 - Arc (1)
+- Citadel Securities (1)
 - DRW (1)
 - Efficient Computer (1)
 - Eight Sleep (1)
 - Emerson Electric (1)
 - GE Healthcare (1)
+- GlobalFoundries (1)
 - Hexagon AB (1)
 - Hitachi Energy (1)
 - HPR (1)
@@ -289,11 +293,9 @@
 - Amentum (1)
 - Booz Allen (1)
 - Boston Scientific (1)
-- Citadel Securities (1)
 - Epia Neuro (1)
 - Figure (1)
 - Geotab (1)
-- GlobalFoundries (1)
 - Kepler Communications (1)
 - L3Harris Technologies (1)
 - Nomagic (1)

@@ -6,6 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
+| Corning | [Engineering Data Analyst Intern](https://corningjobs.corning.com/job/Keller-Engineering-Data-Analyst-Intern-Summer-2027-TX-76248/1437049900/?ats=successfactors) | Keller, TX | Onsite | 2026-10-05 | Rolling | 🟢 Open | ❔ |
 | Corning | [Measurements Engineering Intern - Summer 2027](https://corningjobs.corning.com/job/Corning-Intern,-Measurements-Summer-2027-NY-14831/1433453700/?ats=successfactors) | Corning, NY | Onsite | 2026-09-24 | Rolling | 🟢 Open | ❔ |
 | Corning | [Artificial Intelligence and Machine Learning Intern](https://corningjobs.corning.com/job/Wilmington-Artificial-Intelligence-and-Machine-Learning-Intern-Summer-2027-NC-28405/1425596800/?ats=successfactors) | Wilmington, NC | Onsite | 2026-09-01 | Rolling | 🔴 Closed | ❔ |
 | Corning | [Data Analytics Intern - Summer 2027](https://corningjobs.corning.com/job/Painted-Post-Data-Analytics-Intern-Summer-2027-NY-14870/1426622100/?ats=successfactors) | Painted Post, NY | Onsite | 2026-09-03 | Rolling | 🔴 Closed | ❔ |

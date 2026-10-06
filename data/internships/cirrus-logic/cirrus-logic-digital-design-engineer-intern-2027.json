@@ -1,21 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "waymo-2027-summer-intern-perception-evaluation-2027",
+  "id": "cirrus-logic-digital-design-engineer-intern-2027",
   "company": {
-    "name": "Waymo",
-    "slug": "waymo",
-    "career_page": "https://waymo.com/careers"
+    "name": "Cirrus Logic",
+    "slug": "cirrus-logic"
   },
-  "role": "2027 Summer Intern, Perception - Evaluation",
-  "category": "software-engineering",
-  "apply_url": "https://careers.withwaymo.com/jobs?gh_jid=8248327",
-  "season": "summer",
+  "role": "Digital Design Engineer Intern",
+  "category": "design",
+  "apply_url": "https://jobs.eu.lever.co/cirrus/0310fbd1-a2a8-4c0f-a842-86e05ae7d98e/apply",
+  "season": "spring",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Mountain View",
-      "state": "CA",
+      "city": "Austin",
+      "state": "TX",
       "country": "USA"
     }
   ],
@@ -44,13 +43,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-10-02",
-    "discovered": "2026-10-03",
-    "last_verified": "2026-10-05"
+    "posted": "2026-10-05",
+    "discovered": "2026-10-06",
+    "last_verified": "2026-10-06"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:ats"
+    "src:simplify"
   ]
 }

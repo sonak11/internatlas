@@ -1,21 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "robinhood-investment-analyst-intern-robinhood-ventures-summer-2027-2027",
+  "id": "goldman-sachs-quantitative-strategist-intern-americas-the-core-quantitativ-2027-41219d",
   "company": {
-    "name": "Robinhood",
-    "slug": "robinhood",
-    "career_page": "https://careers.robinhood.com/"
+    "name": "Goldman Sachs",
+    "slug": "goldman-sachs"
   },
-  "role": "Investment Analyst Intern, Robinhood Ventures (Summer 2027)",
-  "category": "software-engineering",
-  "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8198187?t=gh_src%3D&gh_jid=8198187",
+  "role": "Quantitative Strategist Intern - Americas - The Core Quantitative Strats",
+  "category": "quant",
+  "apply_url": "https://higher.gs.com/roles/171551?type=students",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Menlo Park",
-      "state": "CA",
+      "city": "Salt Lake City",
+      "state": "UT",
       "country": "USA"
     }
   ],
@@ -41,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-14",
-    "discovered": "2026-09-22",
-    "last_verified": "2026-10-05"
+    "posted": "2026-08-15",
+    "discovered": "2026-10-06",
+    "last_verified": "2026-10-06"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:ats"
+    "src:simplify"
   ]
 }

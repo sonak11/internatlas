@@ -6,7 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
-| LexisNexis Legal & Professional | [Data Science Intern](https://relx.wd3.myworkdayjobs.com/en-US/LexisNexisLegal/job/Raleigh-NC/Data-Science-Internship_R118691-1) | Raleigh, NC | Onsite | 2026-09-15 | Rolling | 🔴 Closed | ❔ |
+| LexisNexis Legal & Professional | [Data Science Intern](https://relx.wd3.myworkdayjobs.com/en-US/LexisNexisLegal/job/Raleigh-NC/Data-Science-Internship_R118691-1) | Raleigh, NC | Onsite | 2026-09-15 | Rolling | 🟢 Open | ❔ |
 | LexisNexis Legal & Professional | [Software Engineer Intern](https://relx.wd3.myworkdayjobs.com/en-US/LexisNexisLegal/job/Raleigh-NC/Software-Engineer-Internship_R118692) | Raleigh, NC | Onsite | 2026-09-15 | Rolling | 🔴 Closed | ❔ |
 
 ## Related

@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 📊 Data Science Internships
 
-**222** tracked · **140** open now
+**225** tracked · **144** open now
 
 ## Current openings
 
@@ -39,6 +39,7 @@
 | [Booz Allen](generated/companies/booz-allen.md) | [Data Scientist Intern - University - Summer Games](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/El-Segundo-CA/University--2027-Summer-Games-Data-Scientist-Intern_R0248050) | El Segundo, CA | Onsite | 2026-08-27 | Rolling | 🟢 Open | ❔ |
 | [C3.ai](generated/companies/c3-ai.md) | [Data Scientist Intern - Summer 2027](https://c3.ai/job-description/8738918002?gh_jid=8738918002) | Redwood City, CA | Onsite | 2026-08-31 | Rolling | 🟢 Open | ❔ |
 | [Capital One](generated/companies/capital-one.md) | [Data Scientist Intern](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Data-Scientist---Winter-2027_R999619-1) | Toronto | Onsite | 2026-09-08 | Rolling | 🟢 Open | ❔ |
+| [Capital One](generated/companies/capital-one.md) | [Data Scientist Intern](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Data-Scientist---Summer-2027_R1002165-1) | Toronto | Onsite | 2026-10-05 | Rolling | 🟢 Open | ❔ |
 | [Citizens Financial Group](generated/companies/citizens-financial-group.md) | [Data Science Intern - Multiple Teams](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49280) | Boston, MA +2 | Onsite | 2026-09-11 | Rolling | 🟢 Open | ❔ |
 | [Citizens Financial Group](generated/companies/citizens-financial-group.md) | [Data Science Intern - Multiple Teams](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49276) | Boston, MA +2 | Onsite | 2026-09-11 | Rolling | 🟢 Open | ❔ |
 | [Clarios](generated/companies/clarios.md) | [Data Science Intern](https://clarios.wd5.myworkdayjobs.com/clarioscareers/job/United-States-Wisconsin-Milwaukee/Data-Science-Intern--Summer-2027-_WD50211) | Milwaukee, WI | Onsite | 2026-09-17 | Rolling | 🟢 Open | ❔ |
@@ -71,7 +72,7 @@
 | [Google](generated/companies/google.md) | [Data Scientist Research Intern - PhD](https://www.google.com/about/careers/applications/jobs/results/89965613241246406) | Palo Alto, CA +30 | Onsite | 2026-09-14 | Rolling | 🟢 Open | ❔ |
 | [Gordon Food Service](generated/companies/gordon-food-service.md) | [Data Science Engineer Intern](https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Atlanta-Georgia/Data-Science-Engineer-Internship_R-57243-1) | Atlanta, GA | Onsite | 2026-09-16 | Rolling | 🟢 Open | ❔ |
 | [Hadrian](generated/companies/hadrian.md) | [Data Science/Data Engineer Intern](https://jobs.ashbyhq.com/hadrian-automation/f718bcfe-3f5b-4682-a294-697499caf813/application?embed=true) | LA +1 | Onsite | 2026-09-03 | Rolling | 🟢 Open | ❔ |
-| [Hudson River Trading](generated/companies/hudson-river-trading.md) | [Data Scientist Intern - 2027](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8257369) | London | Onsite | 2026-10-05 | Rolling | 🟢 Open | ❔ |
+| [Hudson River Trading](generated/companies/hudson-river-trading.md) | [Data Scientist Intern](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8257369) | London +2 | Onsite | 2026-10-05 | Rolling | 🟢 Open | ❔ |
 | [ICF International](generated/companies/icf-international.md) | [Data Scientist Intern](https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Data-Scientist--Reston--VA--Denver--CO--Remote-_R2603252) | Reston, VA +1 | Onsite | 2026-09-25 | Rolling | 🟢 Open | ❔ |
 | [Integra FEC](generated/companies/integra-fec.md) | [Data Scientist Intern - PhD](https://job-boards.greenhouse.io/integrainterns/jobs/5406093008) | Austin, TX | Onsite | 2026-08-31 | Rolling | 🟢 Open | ❔ |
 | [IntelliGenesis](generated/companies/intelligenesis.md) | [Applied Data Scientist Intern](http://intelligenesis.applytojob.com/apply/synY3toJUH/Applied-Data-Scientist-Internship-DoW-SkillBridge) | Columbia, MD | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
@@ -82,6 +83,8 @@
 | [Ketjen](generated/companies/ketjen.md) | [Data Science Intern](https://albemarle.wd5.myworkdayjobs.com/en-US/ketjenexternal/job/Houston-Texas-United-States-of-America/Ketjen-Summer-2027-Data-Science-Internship_REQ-31411) | Houston, TX | Onsite | 2026-09-10 | Rolling | 🟢 Open | ❔ |
 | [Lawrence Livermore National Laboratory (LLNL)](generated/companies/lawrence-livermore-national-laboratory-llnl.md) | [Data Science Undergraduate Student Intern - Summer 2027](https://jobs.smartrecruiters.com/LLNL/3743990015289136) | Livermore, CA | Onsite | 2026-09-16 | Rolling | 🟢 Open | ❔ |
 | [Lazard](generated/companies/lazard.md) | [Data Scientist Intern](https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6604) | NYC | Onsite | 2026-09-21 | Rolling | 🟢 Open | ❔ |
+| [LexisNexis Legal & Professional](generated/companies/lexisnexis-legal-professional.md) | [Data Science Intern](https://relx.wd3.myworkdayjobs.com/en-US/LexisNexisLegal/job/Raleigh-NC/Data-Science-Internship_R118691-1) | Raleigh, NC | Onsite | 2026-09-15 | Rolling | 🟢 Open | ❔ |
+| [LexisNexis Risk Solutions](generated/companies/lexisnexis-risk-solutions.md) | [Data Science Intern](https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Alpharetta-GA-Alderman/Data-Science-Intern_R118955) | Alpharetta, GA | Onsite | 2026-10-05 | Rolling | 🟢 Open | ❔ |
 | [Louisiana Blue](generated/companies/louisiana-blue.md) | [Healthcare Data Science Intern - Spring 2027](https://bcbsla.wd1.myworkdayjobs.com/Generation_Blue/job/Corporate---Baton-Rouge-LA/CW-Healthcare-Data-Science-Intern--Spring-2027-_R12151) | Baton Rouge, LA | Onsite | 2026-09-16 | Rolling | 🟢 Open | ❔ |
 | [Lyft](generated/companies/lyft.md) | [Data Science Intern - Algorithms](https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002) | NYC | Onsite | 2026-09-11 | Rolling | 🟢 Open | ❔ |
 | [Lyft](generated/companies/lyft.md) | [Data Science Intern - Algorithms](https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002) | SF | Onsite | 2026-09-11 | Rolling | 🟢 Open | ❔ |
@@ -115,6 +118,7 @@
 | [Robinhood](generated/companies/robinhood.md) | [Data Science Intern](https://boards.greenhouse.io/robinhood/jobs/8241738) | Menlo Park, CA | Onsite | 2026-09-30 | Rolling | 🟢 Open | ❔ |
 | [Robinhood](generated/companies/robinhood.md) | [Data Science Intern (Summer 2027)](https://boards.greenhouse.io/robinhood/jobs/8241738?t=gh_src%3D&gh_jid=8241738) | Menlo Park, CA | Onsite | 2026-09-29 | Rolling | 🟢 Open | ❔ |
 | [Securian Financial Group](generated/companies/securian-financial-group.md) | [Data Science and Advanced Analytics Intern - Multiple Teams](https://hq.wd12.myworkdayjobs.com/Securian_External/job/Saint-Paul-MN-Campus/Data-Science-and-Advanced-Analytics-Internship---Summer-2027_R-010894) | St Paul, MN | Onsite | 2026-09-10 | Rolling | 🟢 Open | ❔ |
+| [SOTI](generated/companies/soti.md) | [Data Scientist Intern](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Data-Scientist--Intern--Jan-2027-12-Months-_R10571) | Mississauga | Onsite | 2026-10-05 | Rolling | 🟢 Open | ❔ |
 | [Southwest Airlines](generated/companies/southwest-airlines.md) | [Customer Experience and Analytics Data Science Intern](https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Summer-2027-Customer-Experience---Analytics-Data-Science-Internship_R-2026-73023) | Dallas, TX | Onsite | 2026-10-01 | Rolling | 🟢 Open | ❔ |
 | [State Farm](generated/companies/state-farm.md) | [Data Science Intern - Magnet Program](https://jobs.statefarm.com/jobs/46353?icims=1) | Tempe, AZ | Onsite | 2026-09-24 | Rolling | 🟢 Open | ❔ |
 | [State Farm](generated/companies/state-farm.md) | [Data Science Intern - Magnet Program - Online MS Analytics](https://jobs.statefarm.com/jobs/46057?icims=1) | Athens, GA | Onsite | 2026-09-10 | Rolling | 🟢 Open | ❔ |
@@ -192,7 +196,6 @@
 | [Integra FEC](generated/companies/integra-fec.md) | [Data Scientist Intern](https://job-boards.greenhouse.io/integrainterns/jobs/5134593008) | Austin, TX | Onsite | 2026-04-28 | Rolling | 🔴 Closed | ❔ |
 | [Integra FEC](generated/companies/integra-fec.md) | [Data Scientist Intern - PhD](https://job-boards.greenhouse.io/integra/jobs/5134592008) | Austin, TX | Onsite | 2026-04-28 | Rolling | 🔴 Closed | ❔ |
 | [Leidos](generated/companies/leidos.md) | [Data Science Intern](https://leidos.wd5.myworkdayjobs.com/External/job/San-Diego-CA/Data-Science-Intern_R-00190740) | San Diego, CA | Onsite | 2026-08-28 | Rolling | 🔴 Closed | ❔ |
-| [LexisNexis Legal & Professional](generated/companies/lexisnexis-legal-professional.md) | [Data Science Intern](https://relx.wd3.myworkdayjobs.com/en-US/LexisNexisLegal/job/Raleigh-NC/Data-Science-Internship_R118691-1) | Raleigh, NC | Onsite | 2026-09-15 | Rolling | 🔴 Closed | ❔ |
 | [Live Oak Bank](generated/companies/live-oak-bank.md) | [Data Science Intern](https://liveoakbancshares.wd1.myworkdayjobs.com/en-US/Live_Oak/job/Wilmington-NC/Summer-2027-Intern--Data-Science_R-002664) | Wilmington, NC | Onsite | 2026-09-21 | Rolling | 🔴 Closed | ❔ |
 | [Loop](generated/companies/loop.md) | [Data Scientist Intern](https://ats.rippling.com/loop-careers/jobs/e016b693-7ce9-4dad-95ff-03b934fbd580) | Toronto | Onsite | 2026-07-29 | Rolling | 🔴 Closed | ❔ |
 | [Mackenzie Investments](generated/companies/mackenzie-investments.md) | [Data Science Intern](https://careersen-mackenzieinvestments.icims.com/jobs/5977/job?mobile=true&needsRedirect=false) | Toronto | Onsite | 2026-08-21 | Rolling | 🔴 Closed | ❔ |
@@ -238,9 +241,9 @@
 - BNY (5)
 - TikTok (5)
 - American Express (4)
+- Capital One (4)
 - Google (4)
 - Bank of Montreal (4)
-- Capital One (3)
 - Figma (3)
 - Integra FEC (3)
 - Lyft (3)
@@ -267,6 +270,7 @@
 - Procter & Gamble (2)
 - Q2 (2)
 - Robinhood (2)
+- SOTI (2)
 - State Farm (2)
 - Stripe (2)
 - The Federal Reserve System (2)
@@ -310,6 +314,8 @@
 - Ketjen (1)
 - Lawrence Livermore National Laboratory (LLNL) (1)
 - Lazard (1)
+- LexisNexis Legal & Professional (1)
+- LexisNexis Risk Solutions (1)
 - Louisiana Blue (1)
 - Meijer (1)
 - Momentive (1)
@@ -347,7 +353,6 @@
 - HireVue (1)
 - Honeywell (1)
 - Leidos (1)
-- LexisNexis Legal & Professional (1)
 - Live Oak Bank (1)
 - Loop (1)
 - Mackenzie Investments (1)
@@ -360,7 +365,6 @@
 - Post Holdings (1)
 - Red Bull (1)
 - Schonfeld (1)
-- SOTI (1)
 - TD Bank (1)
 - U.S. Venture (1)
 - USAA (1)
