@@ -1,40 +1,19 @@
 {
   "schema_version": "1.0",
-  "id": "intel-software-engineer-intern-2027-d5ac8b",
+  "id": "state-employees-credit-union-server-engineering-and-operations-intern-2027",
   "company": {
-    "name": "Intel",
-    "slug": "intel"
+    "name": "State Employees' Credit Union",
+    "slug": "state-employees-credit-union"
   },
-  "role": "Software Engineer Intern",
+  "role": "Server Engineering and Operations Intern",
   "category": "software-engineering",
-  "apply_url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Software-Engineering---Intern--Graduate_JR0286836",
+  "apply_url": "https://ncsecu.wd1.myworkdayjobs.com/secu/job/North-Carolina/Intern---Server-Engineering-and-Operations-Part-time-Spring-2027_JR-16564",
   "season": "spring",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Austin",
-      "state": "TX",
-      "country": "USA"
-    },
-    {
-      "city": "Santa Clara",
-      "state": "CA",
-      "country": "USA"
-    },
-    {
-      "city": "Hillsboro",
-      "state": "OR",
-      "country": "USA"
-    },
-    {
-      "city": "Folsom",
-      "state": "CA",
-      "country": "USA"
-    },
-    {
-      "city": "Phoenix",
-      "state": "AZ",
+      "city": "North Carolina",
       "country": "USA"
     }
   ],
@@ -45,10 +24,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters",
-      "phd"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -63,8 +39,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-02",
-    "discovered": "2026-09-03",
+    "posted": "2026-10-06",
+    "discovered": "2026-10-06",
     "last_verified": "2026-10-06"
   },
   "status": "open",

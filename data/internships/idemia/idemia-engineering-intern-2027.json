@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "northrop-grumman-software-engineer-intern-aeronautics-systems-2027-faf646",
+  "id": "idemia-engineering-intern-2027",
   "company": {
-    "name": "Northrop Grumman",
-    "slug": "northrop-grumman"
+    "name": "IDEMIA",
+    "slug": "idemia"
   },
-  "role": "Software Engineer Intern - Aeronautics Systems",
+  "role": "Engineering Intern",
   "category": "software-engineering",
-  "apply_url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10243573",
+  "apply_url": "https://uscareers-idemia.icims.com/jobs/8647/job?mobile=true&needsRedirect=false",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Melbourne",
-      "state": "FL",
+      "city": "Reston",
+      "state": "VA",
       "country": "USA"
     }
   ],
@@ -25,7 +25,9 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "masters"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -40,8 +42,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-05",
-    "discovered": "2026-08-07",
+    "posted": "2026-10-06",
+    "discovered": "2026-10-06",
     "last_verified": "2026-10-06"
   },
   "status": "open",
