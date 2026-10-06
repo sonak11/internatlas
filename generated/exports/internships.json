@@ -1,6 +1,6 @@
 {
   "generated": "2026-10-06",
-  "count": 5727,
+  "count": 5747,
   "internships": [
     {
       "schema_version": "1.0",
@@ -4208,7 +4208,7 @@
         "discovered": "2026-09-30",
         "last_verified": "2026-10-06"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -7839,7 +7839,7 @@
         "discovered": "2026-09-24",
         "last_verified": "2026-10-06"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -10849,7 +10849,7 @@
         "discovered": "2026-09-01",
         "last_verified": "2026-10-06"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -24320,6 +24320,60 @@
     },
     {
       "schema_version": "1.0",
+      "id": "astera-labs-packaging-automation-data-engineering-intern-2027",
+      "company": {
+        "name": "Astera Labs",
+        "slug": "astera-labs"
+      },
+      "role": "Packaging Automation & Data Engineering Intern",
+      "category": "data-engineering",
+      "apply_url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4738127005",
+      "season": "spring",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-06",
+        "discovered": "2026-10-06",
+        "last_verified": "2026-10-06"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "astranis-assembly-and-test-intern-integration-2026",
       "company": {
         "name": "Astranis",
@@ -27021,7 +27075,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "atoms-electrical-engineer-intern-2027",
+      "id": "atoms-electrical-engineer-intern-2027-f92349",
       "company": {
         "name": "Atoms",
         "slug": "atoms"
@@ -27074,7 +27128,60 @@
     },
     {
       "schema_version": "1.0",
-      "id": "atoms-machine-learning-engineer-intern-2027",
+      "id": "atoms-electrical-engineer-intern-2027",
+      "company": {
+        "name": "Atoms",
+        "slug": "atoms"
+      },
+      "role": "Electrical Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://job-boards.greenhouse.io/atoms/jobs/8869094002",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "SF",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-06",
+        "discovered": "2026-10-06",
+        "last_verified": "2026-10-06"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "atoms-machine-learning-engineer-intern-2027-241edb",
       "company": {
         "name": "Atoms",
         "slug": "atoms"
@@ -27117,6 +27224,60 @@
       },
       "dates": {
         "posted": "2026-10-05",
+        "discovered": "2026-10-06",
+        "last_verified": "2026-10-06"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "atoms-machine-learning-engineer-intern-2027",
+      "company": {
+        "name": "Atoms",
+        "slug": "atoms"
+      },
+      "role": "Machine Learning Engineer Intern",
+      "category": "machine-learning",
+      "apply_url": "https://job-boards.greenhouse.io/atoms/jobs/8869105002",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "SF",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters",
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-06",
         "discovered": "2026-10-06",
         "last_verified": "2026-10-06"
       },
@@ -42651,6 +42812,60 @@
     },
     {
       "schema_version": "1.0",
+      "id": "boston-scientific-equipment-engineering-software-engineer-intern-2027",
+      "company": {
+        "name": "Boston Scientific",
+        "slug": "boston-scientific"
+      },
+      "role": "Equipment Engineering Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://bostonscientific.eightfold.ai/careers/job/563602813584306",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Maple Grove",
+          "state": "MN",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-06",
+        "discovered": "2026-10-06",
+        "last_verified": "2026-10-06"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "boston-scientific-r-d-firmware-engineer-intern-2027",
       "company": {
         "name": "Boston Scientific",
@@ -50950,6 +51165,102 @@
         "last_verified": "2026-08-19"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "cadence-solutions-product-management-intern-2027",
+      "company": {
+        "name": "Cadence Solutions",
+        "slug": "cadence-solutions"
+      },
+      "role": "Product Management Intern",
+      "category": "product",
+      "apply_url": "https://job-boards.greenhouse.io/solutions/jobs/4715294006",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "remote",
+      "locations": [],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-06",
+        "discovered": "2026-10-06",
+        "last_verified": "2026-10-06"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "cadence-solutions-software-engineer-intern-2027",
+      "company": {
+        "name": "Cadence Solutions",
+        "slug": "cadence-solutions"
+      },
+      "role": "Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://job-boards.greenhouse.io/solutions/jobs/4711210006",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "remote",
+      "locations": [],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-06",
+        "discovered": "2026-10-06",
+        "last_verified": "2026-10-06"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -63161,6 +63472,57 @@
       "tags": [
         "auto-ingested",
         "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "cloudflare-software-engineer-intern-2027-20d38d",
+      "company": {
+        "name": "Cloudflare",
+        "slug": "cloudflare"
+      },
+      "role": "Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://boards.greenhouse.io/cloudflare/jobs/8245211",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "London",
+          "country": "UK"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-06",
+        "discovered": "2026-10-06",
+        "last_verified": "2026-10-06"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
       ]
     },
     {
@@ -103720,6 +104082,60 @@
     },
     {
       "schema_version": "1.0",
+      "id": "genentech-applied-genai-scientist-intern-genai-applications-2027",
+      "company": {
+        "name": "Genentech",
+        "slug": "genentech"
+      },
+      "role": "Applied GenAI Scientist Intern - GenAI Applications",
+      "category": "software-engineering",
+      "apply_url": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2027-Spring-Intern---GenAI-Applications_202610-125229",
+      "season": "spring",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "South SF",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters",
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-05",
+        "discovered": "2026-10-06",
+        "last_verified": "2026-10-06"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "genentech-digital-sciences-intern-product-technical-development-2027",
       "company": {
         "name": "Genentech",
@@ -106306,7 +106722,7 @@
         "discovered": "2026-10-06",
         "last_verified": "2026-10-06"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -106802,7 +107218,7 @@
         "discovered": "2026-07-21",
         "last_verified": "2026-10-06"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -108523,7 +108939,7 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-10-06"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -109101,9 +109517,9 @@
       "dates": {
         "posted": "2026-08-15",
         "discovered": "2026-08-27",
-        "last_verified": "2026-10-05"
+        "last_verified": "2026-10-06"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -109208,7 +109624,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-10-06"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -109261,7 +109677,7 @@
         "discovered": "2026-10-03",
         "last_verified": "2026-10-06"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -109314,7 +109730,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-10-06"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -109366,7 +109782,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-06"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -109418,7 +109834,7 @@
         "discovered": "2026-10-06",
         "last_verified": "2026-10-06"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -109472,7 +109888,7 @@
         "discovered": "2026-09-16",
         "last_verified": "2026-10-06"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -109525,7 +109941,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-06"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -109576,7 +109992,7 @@
         "discovered": "2026-10-06",
         "last_verified": "2026-10-06"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -109630,7 +110046,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-06"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -109681,57 +110097,6 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-06"
       },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "goldman-sachs-quantitative-strategist-intern-multiple-teams-2027-323368",
-      "company": {
-        "name": "Goldman Sachs",
-        "slug": "goldman-sachs"
-      },
-      "role": "Quantitative Strategist Intern - Multiple Teams",
-      "category": "quant",
-      "apply_url": "https://higher.gs.com/roles/175424?type=students",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "London",
-          "country": "UK"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-08-15",
-        "discovered": "2026-10-03",
-        "last_verified": "2026-10-05"
-      },
       "status": "closed",
       "tags": [
         "auto-ingested",
@@ -109747,14 +110112,14 @@
       },
       "role": "Quantitative Strategist Intern - Multiple Teams",
       "category": "quant",
-      "apply_url": "https://higher.gs.com/roles/171563?type=students",
+      "apply_url": "https://higher.gs.com/roles/175424?type=students",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
       "locations": [
         {
-          "city": "NYC",
-          "country": "USA"
+          "city": "London",
+          "country": "UK"
         }
       ],
       "compensation": {
@@ -109835,7 +110200,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-06"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -109886,7 +110251,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-06"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -110040,9 +110405,9 @@
       "dates": {
         "posted": "2026-08-15",
         "discovered": "2026-09-04",
-        "last_verified": "2026-10-05"
+        "last_verified": "2026-10-06"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -110095,7 +110460,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-06"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -110254,7 +110619,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-06"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -110306,9 +110671,9 @@
       "dates": {
         "posted": "2026-08-15",
         "discovered": "2026-08-15",
-        "last_verified": "2026-10-05"
+        "last_verified": "2026-10-06"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -110410,7 +110775,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-06"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -110565,7 +110930,7 @@
         "discovered": "2026-08-29",
         "last_verified": "2026-10-06"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -110618,7 +110983,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-10-06"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -118572,6 +118937,111 @@
     },
     {
       "schema_version": "1.0",
+      "id": "hewlett-packard-enterprise-pre-silicon-diagnostics-intern-2027",
+      "company": {
+        "name": "Hewlett Packard Enterprise",
+        "slug": "hewlett-packard-enterprise"
+      },
+      "role": "Pre-Silicon Diagnostics Intern",
+      "category": "hardware",
+      "apply_url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Ft-Collins-Colorado-United-States-of-America/Pre-Silicon-Diagnostics-Intern_1213394",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Fort Collins",
+          "state": "CO",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-03",
+        "discovered": "2026-10-06",
+        "last_verified": "2026-10-06"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "hewlett-packard-enterprise-software-engineer-intern-2027",
+      "company": {
+        "name": "Hewlett Packard Enterprise",
+        "slug": "hewlett-packard-enterprise"
+      },
+      "role": "Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Bristol-Avon-United-Kingdom/Software-Engineering-Internship--Placement-Year-_1215804",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Bristol",
+          "country": "UK"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-23",
+        "discovered": "2026-10-06",
+        "last_verified": "2026-10-06"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "hexagon-ab-defense-engineer-intern-aerospace-and-defense-engineering-2027",
       "company": {
         "name": "Hexagon AB",
@@ -125229,6 +125699,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "imc-trading-deep-learning-research-intern-summer-2027-amsterdam-2027",
+      "company": {
+        "name": "IMC Trading",
+        "slug": "imc-trading",
+        "career_page": "https://www.imc.com/us/careers"
+      },
+      "role": "Deep Learning Research Intern - Summer 2027 - Amsterdam",
+      "category": "machine-learning",
+      "apply_url": "https://job-boards.eu.greenhouse.io/imc/jobs/4912874101",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Amsterdam",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-06",
+        "discovered": "2026-10-06",
+        "last_verified": "2026-10-06"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "imc-trading-deep-learning-research-intern-summer-2027-chicago-new-york-2027",
       "company": {
         "name": "IMC Trading",
@@ -125438,58 +125960,6 @@
       "dates": {
         "posted": "2026-09-23",
         "discovered": "2026-07-18",
-        "last_verified": "2026-10-06"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:ats"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "imc-trading-machine-learning-research-intern-summer-2027-amsterdam-2027",
-      "company": {
-        "name": "IMC Trading",
-        "slug": "imc-trading",
-        "career_page": "https://www.imc.com/us/careers"
-      },
-      "role": "Machine Learning Research Intern - Summer 2027 - Amsterdam",
-      "category": "machine-learning",
-      "apply_url": "https://job-boards.eu.greenhouse.io/imc/jobs/4912874101",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Amsterdam",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-07-06",
-        "discovered": "2026-09-03",
         "last_verified": "2026-10-06"
       },
       "status": "open",
@@ -127937,6 +128407,180 @@
         "last_verified": "2026-09-03"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "innovative-defense-technologies-software-engineer-intern-2027-76c222",
+      "company": {
+        "name": "Innovative Defense Technologies",
+        "slug": "innovative-defense-technologies"
+      },
+      "role": "Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://idtus.pinpointhq.com/en/postings/eac7d1ca-2dbd-4c60-8f65-979f0a9e3f33?ats=pinpointhq",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Mt Laurel Township",
+          "state": "NJ",
+          "country": "USA"
+        },
+        {
+          "city": "Arlington County",
+          "country": "Arlington"
+        },
+        {
+          "city": "San Diego",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-06",
+        "discovered": "2026-10-06",
+        "last_verified": "2026-10-06"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "innovative-defense-technologies-software-engineer-intern-2027-d649cc",
+      "company": {
+        "name": "Innovative Defense Technologies",
+        "slug": "innovative-defense-technologies"
+      },
+      "role": "Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://idtus.pinpointhq.com/en/postings/20817d1b-bd0e-4aa8-a3d5-78e4614b52a3?ats=pinpointhq",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Mt Laurel Township",
+          "state": "NJ",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-06",
+        "discovered": "2026-10-06",
+        "last_verified": "2026-10-06"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "innovative-defense-technologies-software-engineer-intern-2027",
+      "company": {
+        "name": "Innovative Defense Technologies",
+        "slug": "innovative-defense-technologies"
+      },
+      "role": "Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://idtus.pinpointhq.com/en/postings/0900a5f2-65d5-4cfa-8b14-b2a58d156d53?ats=pinpointhq",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Mt Laurel Township",
+          "state": "NJ",
+          "country": "USA"
+        },
+        {
+          "city": "Arlington County",
+          "country": "Arlington"
+        },
+        {
+          "city": "San Diego",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-06",
+        "discovered": "2026-10-06",
+        "last_verified": "2026-10-06"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -137407,6 +138051,62 @@
     },
     {
       "schema_version": "1.0",
+      "id": "judi-health-mba-analytics-intern-clinical-programs-2026",
+      "company": {
+        "name": "Judi Health",
+        "slug": "judi-health"
+      },
+      "role": "MBA Analytics Intern - Clinical Programs",
+      "category": "software-engineering",
+      "apply_url": "https://job-boards.greenhouse.io/judihealth/jobs/5427074008",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "NYC",
+          "country": "USA"
+        },
+        {
+          "city": "Denver",
+          "state": "CO",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-06",
+        "discovered": "2026-10-06",
+        "last_verified": "2026-10-06"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "jump-trading-ai-research-engineer-intern-2026",
       "company": {
         "name": "Jump Trading",
@@ -139469,7 +140169,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "jump-trading-campus-software-engineer-intern-2027-295be1",
+      "id": "jump-trading-campus-software-engineer-intern-2027",
       "company": {
         "name": "Jump Trading",
         "slug": "jump-trading",
@@ -139515,58 +140215,6 @@
       },
       "dates": {
         "posted": "2026-07-08",
-        "discovered": "2026-09-17",
-        "last_verified": "2026-10-06"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:ats"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "jump-trading-campus-software-engineer-intern-2027",
-      "company": {
-        "name": "Jump Trading",
-        "slug": "jump-trading",
-        "career_page": "https://www.jumptrading.com/careers"
-      },
-      "role": "Campus Software Engineer (Intern)",
-      "category": "quant",
-      "apply_url": "https://www.jumptrading.com/hr/job?gh_jid=7975026",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "London",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-07-13",
         "discovered": "2026-07-18",
         "last_verified": "2026-10-06"
       },
@@ -142297,6 +142945,57 @@
         "last_verified": "2026-08-03"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "kkr-summer-analyst-intern-insurance-risk-quantitative-asset-liab-2027",
+      "company": {
+        "name": "KKR",
+        "slug": "kkr"
+      },
+      "role": "Summer Analyst Intern - Insurance Risk - Quantitative Asset Liability Management/Liquidity Risk",
+      "category": "quant",
+      "apply_url": "https://www.kkr.com/careers/student-careers/student-career-opportunities/post?gh_jid=6200868004",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "NYC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-06",
+        "discovered": "2026-10-06",
+        "last_verified": "2026-10-06"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -147996,6 +148695,60 @@
     },
     {
       "schema_version": "1.0",
+      "id": "liberty-mutual-data-science-intern-2027",
+      "company": {
+        "name": "Liberty Mutual",
+        "slug": "liberty-mutual"
+      },
+      "role": "Data Science Intern",
+      "category": "data-science",
+      "apply_url": "https://campus-libertymutual.icims.com/jobs/95486/job?mobile=true&needsRedirect=false",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Boston",
+          "state": "MA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-06",
+        "discovered": "2026-10-06",
+        "last_verified": "2026-10-06"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "life-fitness-marketing-analytics-intern-2027",
       "company": {
         "name": "Life Fitness",
@@ -148250,7 +149003,7 @@
         "discovered": "2026-09-16",
         "last_verified": "2026-10-06"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -151020,7 +151773,7 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-10-06"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -151640,6 +152393,108 @@
         "last_verified": "2026-08-20"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "magnite-software-engineer-intern-2027-1b9928",
+      "company": {
+        "name": "Magnite",
+        "slug": "magnite"
+      },
+      "role": "Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://osv-rubicon.wd5.myworkdayjobs.com/en-US/MagniteCareers/job/United-Kingdom---Belfast/Software-Engineer---Student-Placement_R-01417-1",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Belfast",
+          "country": "UK"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-06",
+        "discovered": "2026-10-06",
+        "last_verified": "2026-10-06"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "magnite-software-engineer-intern-2027",
+      "company": {
+        "name": "Magnite",
+        "slug": "magnite"
+      },
+      "role": "Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://osv-rubicon.wd5.myworkdayjobs.com/en-US/MagniteCareers/job/United-Kingdom---Belfast/Software-Engineer---Student-Placement--Queens-University-Only-_R-01418",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Belfast",
+          "country": "UK"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-06",
+        "discovered": "2026-10-06",
+        "last_verified": "2026-10-06"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -157595,7 +158450,7 @@
         "discovered": "2026-09-23",
         "last_verified": "2026-10-06"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -157649,7 +158504,7 @@
         "discovered": "2026-09-23",
         "last_verified": "2026-10-06"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -159789,7 +160644,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "medtronic-software-engineer-intern-2027",
+      "id": "medtronic-software-engineer-intern-2027-4bac16",
       "company": {
         "name": "Medtronic",
         "slug": "medtronic"
@@ -159797,6 +160652,160 @@
       "role": "Software Engineer Intern",
       "category": "software-engineering",
       "apply_url": "https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Fridley-Minnesota-United-States-of-America/Software-Engineering-Intern---Summer-2027_R73630",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Boston",
+          "state": "MA",
+          "country": "USA"
+        },
+        {
+          "city": "Santa Ana",
+          "state": "CA",
+          "country": "USA"
+        },
+        {
+          "city": "Fridley",
+          "state": "MN",
+          "country": "USA"
+        },
+        {
+          "city": "Santa Rosa",
+          "state": "CA",
+          "country": "USA"
+        },
+        {
+          "city": "Irvine",
+          "state": "CA",
+          "country": "USA"
+        },
+        {
+          "city": "Mansfield",
+          "state": "MA",
+          "country": "USA"
+        },
+        {
+          "city": "Mounds View",
+          "state": "MN",
+          "country": "USA"
+        },
+        {
+          "city": "Tempe",
+          "state": "AZ",
+          "country": "USA"
+        },
+        {
+          "city": "Memphis",
+          "state": "TN",
+          "country": "USA"
+        },
+        {
+          "city": "Brooklyn Center",
+          "state": "MN",
+          "country": "USA"
+        },
+        {
+          "city": "Plymouth",
+          "state": "MN",
+          "country": "USA"
+        },
+        {
+          "city": "Brooklyn Park",
+          "state": "MN",
+          "country": "USA"
+        },
+        {
+          "city": "Fort Worth",
+          "state": "TX",
+          "country": "USA"
+        },
+        {
+          "city": "Dexter",
+          "state": "MI",
+          "country": "USA"
+        },
+        {
+          "city": "North Haven",
+          "state": "CT",
+          "country": "USA"
+        },
+        {
+          "city": "Lafayette",
+          "state": "CO",
+          "country": "USA"
+        },
+        {
+          "city": "Minneapolis",
+          "state": "MN",
+          "country": "USA"
+        },
+        {
+          "city": "Newton",
+          "state": "MA",
+          "country": "USA"
+        },
+        {
+          "city": "Jacksonville",
+          "state": "FL",
+          "country": "USA"
+        },
+        {
+          "city": "Eatontown",
+          "state": "NJ",
+          "country": "USA"
+        },
+        {
+          "city": "Boulder",
+          "state": "CO",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-01",
+        "discovered": "2026-10-06",
+        "last_verified": "2026-10-06"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "medtronic-software-engineer-intern-2027",
+      "company": {
+        "name": "Medtronic",
+        "slug": "medtronic"
+      },
+      "role": "Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Fridley-Minnesota-United-States-of-America/Software-Engineering-Intern---Summer-2027_R73630-1",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
@@ -243995,6 +245004,144 @@
     },
     {
       "schema_version": "1.0",
+      "id": "stackadapt-machine-learning-engineer-intern-2027",
+      "company": {
+        "name": "StackAdapt",
+        "slug": "stackadapt"
+      },
+      "role": "Machine Learning Engineer Intern",
+      "category": "machine-learning",
+      "apply_url": "https://job-boards.greenhouse.io/stackadapt-confidential/jobs/4397976009",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "remote",
+      "locations": [],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-06",
+        "discovered": "2026-10-06",
+        "last_verified": "2026-10-06"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "stackadapt-software-engineer-backend-intern-2027",
+      "company": {
+        "name": "StackAdapt",
+        "slug": "stackadapt"
+      },
+      "role": "Software Engineer Backend Intern",
+      "category": "software-engineering",
+      "apply_url": "https://job-boards.greenhouse.io/stackadapt-confidential/jobs/4386552009",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "remote",
+      "locations": [],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-06",
+        "discovered": "2026-10-06",
+        "last_verified": "2026-10-06"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "stackadapt-software-engineer-intern-2027",
+      "company": {
+        "name": "StackAdapt",
+        "slug": "stackadapt"
+      },
+      "role": "Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://job-boards.greenhouse.io/stackadapt-confidential/jobs/4386549009",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "remote",
+      "locations": [],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-06",
+        "discovered": "2026-10-06",
+        "last_verified": "2026-10-06"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "stand-insurance-fire-science-engineer-intern-2026",
       "company": {
         "name": "Stand Insurance",
@@ -244859,7 +246006,7 @@
         "discovered": "2026-10-05",
         "last_verified": "2026-10-06"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -282410,7 +283557,7 @@
         "discovered": "2026-09-07",
         "last_verified": "2026-10-06"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -287246,7 +288393,7 @@
         "discovered": "2026-09-22",
         "last_verified": "2026-10-06"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -291200,7 +292347,7 @@
         "discovered": "2026-09-10",
         "last_verified": "2026-10-06"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -304853,7 +306000,7 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-10-06"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -309450,7 +310597,7 @@
         "discovered": "2026-09-21",
         "last_verified": "2026-10-06"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"

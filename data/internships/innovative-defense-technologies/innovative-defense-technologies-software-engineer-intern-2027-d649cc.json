@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "imc-trading-machine-learning-research-intern-summer-2027-amsterdam-2027",
+  "id": "innovative-defense-technologies-software-engineer-intern-2027-d649cc",
   "company": {
-    "name": "IMC Trading",
-    "slug": "imc-trading",
-    "career_page": "https://www.imc.com/us/careers"
+    "name": "Innovative Defense Technologies",
+    "slug": "innovative-defense-technologies"
   },
-  "role": "Machine Learning Research Intern - Summer 2027 - Amsterdam",
-  "category": "machine-learning",
-  "apply_url": "https://job-boards.eu.greenhouse.io/imc/jobs/4912874101",
+  "role": "Software Engineer Intern",
+  "category": "software-engineering",
+  "apply_url": "https://idtus.pinpointhq.com/en/postings/20817d1b-bd0e-4aa8-a3d5-78e4614b52a3?ats=pinpointhq",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Amsterdam",
+      "city": "Mt Laurel Township",
+      "state": "NJ",
       "country": "USA"
     }
   ],
@@ -40,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-06",
-    "discovered": "2026-09-03",
+    "posted": "2026-10-06",
+    "discovered": "2026-10-06",
     "last_verified": "2026-10-06"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:ats"
+    "src:simplify"
   ]
 }
