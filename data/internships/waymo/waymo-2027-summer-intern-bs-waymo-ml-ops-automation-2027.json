@@ -1,20 +1,21 @@
 {
   "schema_version": "1.0",
-  "id": "raymond-james-financial-private-client-banking-strategy-analytics-sales-intern-2027",
+  "id": "waymo-2027-summer-intern-bs-waymo-ml-ops-automation-2027",
   "company": {
-    "name": "Raymond James Financial",
-    "slug": "raymond-james-financial"
+    "name": "Waymo",
+    "slug": "waymo",
+    "career_page": "https://waymo.com/careers"
   },
-  "role": "Private Client Banking Strategy, Analytics & Sales Intern",
-  "category": "software-engineering",
-  "apply_url": "https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesEarlyCareers/job/Saint-Petersburg-Florida---United-States/XMLNAME-2027-Summer-Internship-Program---Private-Client-Banking-Strategy--Analytics----Sales-Intern--St-Petersburg--FL-_R-0013001",
+  "role": "2027 Summer Intern, BS, Waymo ML Ops & Automation",
+  "category": "machine-learning",
+  "apply_url": "https://careers.withwaymo.com/jobs?gh_jid=8257237",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "St. Petersburg",
-      "state": "FL",
+      "city": "Mountain View",
+      "state": "CA",
       "country": "USA"
     }
   ],
@@ -40,13 +41,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-14",
-    "discovered": "2026-09-14",
+    "posted": "2026-10-06",
+    "discovered": "2026-10-06",
     "last_verified": "2026-10-06"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:ats"
   ]
 }

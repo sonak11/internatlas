@@ -1,6 +1,6 @@
 {
   "generated": "2026-10-06",
-  "count": 5763,
+  "count": 5766,
   "internships": [
     {
       "schema_version": "1.0",
@@ -16776,7 +16776,7 @@
         "discovered": "2026-10-02",
         "last_verified": "2026-10-06"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -24104,7 +24104,7 @@
         "discovered": "2026-10-06",
         "last_verified": "2026-10-06"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -88135,7 +88135,7 @@
         "discovered": "2026-08-07",
         "last_verified": "2026-10-06"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -130325,7 +130325,7 @@
         "discovered": "2026-09-10",
         "last_verified": "2026-10-06"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -160295,7 +160295,7 @@
         "discovered": "2026-08-31",
         "last_verified": "2026-10-06"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -171855,7 +171855,7 @@
         "discovered": "2026-09-17",
         "last_verified": "2026-10-06"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -182708,7 +182708,7 @@
         "discovered": "2026-08-06",
         "last_verified": "2026-10-06"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -196709,7 +196709,7 @@
         "discovered": "2026-09-17",
         "last_verified": "2026-10-06"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -200543,7 +200543,7 @@
         "discovered": "2026-10-04",
         "last_verified": "2026-10-06"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -211546,7 +211546,7 @@
         "discovered": "2026-09-14",
         "last_verified": "2026-10-06"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -218809,7 +218809,7 @@
         "discovered": "2026-09-18",
         "last_verified": "2026-10-06"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:ats"
@@ -230144,7 +230144,7 @@
         "discovered": "2026-09-08",
         "last_verified": "2026-10-06"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -244664,7 +244664,7 @@
         "discovered": "2026-09-08",
         "last_verified": "2026-10-06"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -302474,6 +302474,59 @@
     },
     {
       "schema_version": "1.0",
+      "id": "waymo-2027-summer-intern-bs-software-engineer-model-eval-2027",
+      "company": {
+        "name": "Waymo",
+        "slug": "waymo",
+        "career_page": "https://waymo.com/careers"
+      },
+      "role": "2027 Summer Intern, BS, Software Engineer, Model Eval",
+      "category": "software-engineering",
+      "apply_url": "https://careers.withwaymo.com/jobs?gh_jid=8257660",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Mountain View",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-06",
+        "discovered": "2026-10-06",
+        "last_verified": "2026-10-06"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "waymo-2027-summer-intern-bs-software-engineering-labeling-2027",
       "company": {
         "name": "Waymo",
@@ -302577,6 +302630,59 @@
         "last_verified": "2026-09-29"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "waymo-2027-summer-intern-bs-waymo-ml-ops-automation-2027",
+      "company": {
+        "name": "Waymo",
+        "slug": "waymo",
+        "career_page": "https://waymo.com/careers"
+      },
+      "role": "2027 Summer Intern, BS, Waymo ML Ops & Automation",
+      "category": "machine-learning",
+      "apply_url": "https://careers.withwaymo.com/jobs?gh_jid=8257237",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Mountain View",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-06",
+        "discovered": "2026-10-06",
+        "last_verified": "2026-10-06"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:ats"
@@ -303540,6 +303646,58 @@
       "dates": {
         "posted": "2026-09-18",
         "discovered": "2026-09-18",
+        "last_verified": "2026-10-06"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "waymo-2027-summer-intern-ms-phd-software-engineer-2027-40626b",
+      "company": {
+        "name": "Waymo",
+        "slug": "waymo",
+        "career_page": "https://waymo.com/careers"
+      },
+      "role": "2027 Summer Intern, MS, PhD, Software Engineer",
+      "category": "software-engineering",
+      "apply_url": "https://careers.withwaymo.com/jobs?gh_jid=8250220",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Mountain View",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-06",
+        "discovered": "2026-10-06",
         "last_verified": "2026-10-06"
       },
       "status": "open",
