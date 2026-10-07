@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "freeform-electrical-engineer-intern-2027-47f031",
+  "id": "goldman-sachs-quantitative-strategist-associate-intern-the-core-quantitati-2027-14d0f0",
   "company": {
-    "name": "Freeform",
-    "slug": "freeform"
+    "name": "Goldman Sachs",
+    "slug": "goldman-sachs"
   },
-  "role": "Electrical Engineer Intern",
-  "category": "software-engineering",
-  "apply_url": "https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7982398003",
-  "season": "spring",
+  "role": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
+  "category": "quant",
+  "apply_url": "https://higher.gs.com/roles/175427?type=students",
+  "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "state": "LA",
-      "country": "USA"
+      "city": "London",
+      "country": "UK"
     }
   ],
   "compensation": {
@@ -25,7 +25,6 @@
   "eligibility": {
     "graduation_years": [],
     "degree_levels": [
-      "masters",
       "phd"
     ],
     "citizenship_required": false,
@@ -42,8 +41,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-01",
-    "discovered": "2026-09-03",
+    "posted": "2026-08-15",
+    "discovered": "2026-10-07",
     "last_verified": "2026-10-07"
   },
   "status": "open",

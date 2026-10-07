@@ -1,6 +1,6 @@
 {
   "generated": "2026-10-07",
-  "count": 5808,
+  "count": 5825,
   "internships": [
     {
       "schema_version": "1.0",
@@ -3678,7 +3678,7 @@
         "resume_keywords": []
       },
       "dates": {
-        "posted": "2026-07-13",
+        "posted": "2026-07-24",
         "discovered": "2026-08-17",
         "last_verified": "2026-10-07"
       },
@@ -7212,6 +7212,65 @@
       "dates": {
         "posted": "2026-10-01",
         "discovered": "2026-10-02",
+        "last_verified": "2026-10-07"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "amazon-software-engineer-intern-embedded-systems-2027",
+      "company": {
+        "name": "Amazon",
+        "slug": "amazon"
+      },
+      "role": "Software Engineer Intern - Embedded Systems",
+      "category": "embedded",
+      "apply_url": "https://amazon.jobs/en/jobs/10571374/software-development-engineer-embedded-systems-intern-amazon-leo-summer-2027-usa",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Redmond",
+          "state": "WA",
+          "country": "USA"
+        },
+        {
+          "city": "Northridge",
+          "state": "LA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-07",
+        "discovered": "2026-10-07",
         "last_verified": "2026-10-07"
       },
       "status": "open",
@@ -21870,6 +21929,60 @@
     },
     {
       "schema_version": "1.0",
+      "id": "applied-materials-global-product-support-intern-master-s-2027",
+      "company": {
+        "name": "Applied Materials",
+        "slug": "applied-materials"
+      },
+      "role": "Global Product Support Intern Master's",
+      "category": "software-engineering",
+      "apply_url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2027-Global-Product-Support-Intern--Master-s--Santa-Clara--CA-_R2628947",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Santa Clara",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-06",
+        "discovered": "2026-10-07",
+        "last_verified": "2026-10-07"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "applied-materials-software-engineering-intern-masters-2027",
       "company": {
         "name": "Applied Materials",
@@ -33957,7 +34070,7 @@
         "discovered": "2026-09-10",
         "last_verified": "2026-10-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -55205,7 +55318,7 @@
         "discovered": "2026-10-02",
         "last_verified": "2026-10-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -62040,6 +62153,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "cl-nera-data-engineer-intern-2027",
+      "company": {
+        "name": "Clēnera",
+        "slug": "cl-nera"
+      },
+      "role": "Data Engineer Intern",
+      "category": "data-engineering",
+      "apply_url": "https://job-boards.greenhouse.io/clenera/jobs/5259423007",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Boise",
+          "state": "ID",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-06",
+        "discovered": "2026-10-07",
+        "last_verified": "2026-10-07"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "clarios-category-analyst-intern-2027",
       "company": {
         "name": "Clarios",
@@ -63329,7 +63494,7 @@
         "discovered": "2026-10-06",
         "last_verified": "2026-10-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -74272,9 +74437,9 @@
       "dates": {
         "posted": "2026-09-30",
         "discovered": "2026-10-01",
-        "last_verified": "2026-10-03"
+        "last_verified": "2026-10-07"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -74325,9 +74490,9 @@
       "dates": {
         "posted": "2026-09-30",
         "discovered": "2026-10-01",
-        "last_verified": "2026-10-03"
+        "last_verified": "2026-10-07"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -93186,6 +93351,60 @@
     },
     {
       "schema_version": "1.0",
+      "id": "f5-software-developer-intern-2027",
+      "company": {
+        "name": "F5",
+        "slug": "f5"
+      },
+      "role": "Software Developer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://ffive.wd5.myworkdayjobs.com/en-US/f5jobs/job/San-Jose/Software-Development-Engineer-Intern--San-Jose--CA-_RP1039076",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-06",
+        "discovered": "2026-10-07",
+        "last_verified": "2026-10-07"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "f5-software-development-engineer-intern-2027",
       "company": {
         "name": "F5",
@@ -96198,6 +96417,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "figure-firmware-engineer-intern-2027",
+      "company": {
+        "name": "Figure",
+        "slug": "figure"
+      },
+      "role": "Firmware Engineer Intern",
+      "category": "embedded",
+      "apply_url": "https://job-boards.greenhouse.io/figureai/jobs/4601309006",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-07",
+        "discovered": "2026-10-07",
+        "last_verified": "2026-10-07"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "figure-firmware-intern-2026",
       "company": {
         "name": "Figure",
@@ -96302,6 +96573,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "figure-middleware-software-intern-2027",
+      "company": {
+        "name": "Figure",
+        "slug": "figure"
+      },
+      "role": "Middleware Software Intern",
+      "category": "software-engineering",
+      "apply_url": "https://job-boards.greenhouse.io/figureai/jobs/4605724006",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-07",
+        "discovered": "2026-10-07",
+        "last_verified": "2026-10-07"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "figure-power-systems-integration-intern-2026",
       "company": {
         "name": "Figure",
@@ -96399,6 +96722,58 @@
       "dates": {
         "posted": "2026-07-07",
         "discovered": "2026-07-17",
+        "last_verified": "2026-10-07"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "figure-validation-engineer-intern-2027",
+      "company": {
+        "name": "Figure",
+        "slug": "figure"
+      },
+      "role": "Validation Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://job-boards.greenhouse.io/figureai/jobs/4606072006",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-07",
+        "discovered": "2026-10-07",
         "last_verified": "2026-10-07"
       },
       "status": "open",
@@ -99996,7 +100371,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "freeform-electrical-engineer-intern-2027-47f031",
+      "id": "freeform-electrical-engineer-intern-2027",
       "company": {
         "name": "Freeform",
         "slug": "freeform"
@@ -100039,60 +100414,6 @@
       },
       "dates": {
         "posted": "2026-09-01",
-        "discovered": "2026-09-03",
-        "last_verified": "2026-10-07"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "freeform-electrical-engineer-intern-2027",
-      "company": {
-        "name": "Freeform",
-        "slug": "freeform"
-      },
-      "role": "Electrical Engineer Intern",
-      "category": "software-engineering",
-      "apply_url": "https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7895657003",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "state": "LA",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [
-          "masters",
-          "phd"
-        ],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-08-20",
         "discovered": "2026-09-03",
         "last_verified": "2026-10-07"
       },
@@ -110473,7 +110794,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-10-07"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -110481,7 +110802,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "goldman-sachs-quantitative-strategist-associate-intern-the-core-quantitati-2027",
+      "id": "goldman-sachs-quantitative-strategist-associate-intern-the-core-quantitati-2027-14d0f0",
       "company": {
         "name": "Goldman Sachs",
         "slug": "goldman-sachs"
@@ -110496,6 +110817,59 @@
         {
           "city": "London",
           "country": "UK"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-15",
+        "discovered": "2026-10-07",
+        "last_verified": "2026-10-07"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "goldman-sachs-quantitative-strategist-associate-intern-the-core-quantitati-2027",
+      "company": {
+        "name": "Goldman Sachs",
+        "slug": "goldman-sachs"
+      },
+      "role": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
+      "category": "quant",
+      "apply_url": "https://higher.gs.com/roles/171535?type=students",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "NYC",
+          "country": "USA"
         }
       ],
       "compensation": {
@@ -110578,7 +110952,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-07"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -110630,7 +111004,7 @@
         "discovered": "2026-10-06",
         "last_verified": "2026-10-07"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -110684,7 +111058,7 @@
         "discovered": "2026-09-16",
         "last_verified": "2026-10-07"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -110737,7 +111111,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-07"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -110901,6 +111275,57 @@
     },
     {
       "schema_version": "1.0",
+      "id": "goldman-sachs-quantitative-strategist-intern-multiple-teams-2027-323368",
+      "company": {
+        "name": "Goldman Sachs",
+        "slug": "goldman-sachs"
+      },
+      "role": "Quantitative Strategist Intern - Multiple Teams",
+      "category": "quant",
+      "apply_url": "https://higher.gs.com/roles/175424?type=students",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "London",
+          "country": "UK"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-15",
+        "discovered": "2026-10-07",
+        "last_verified": "2026-10-07"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "goldman-sachs-quantitative-strategist-intern-multiple-teams-2027",
       "company": {
         "name": "Goldman Sachs",
@@ -110944,7 +111369,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-10-07"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -111256,7 +111681,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-07"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -111264,21 +111689,22 @@
     },
     {
       "schema_version": "1.0",
-      "id": "goldman-sachs-summer-analyst-intern-engineering-2027-324b6c",
+      "id": "goldman-sachs-summer-analyst-intern-engineering-2027-3e3ccf",
       "company": {
         "name": "Goldman Sachs",
         "slug": "goldman-sachs"
       },
       "role": "Summer Analyst Intern - Engineering",
       "category": "software-engineering",
-      "apply_url": "https://higher.gs.com/roles/170644?type=students",
+      "apply_url": "https://higher.gs.com/roles/177808?type=students",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
       "locations": [
         {
-          "city": "London",
-          "country": "UK"
+          "city": "Seattle",
+          "state": "WA",
+          "country": "USA"
         }
       ],
       "compensation": {
@@ -111288,7 +111714,9 @@
       },
       "eligibility": {
         "graduation_years": [],
-        "degree_levels": [],
+        "degree_levels": [
+          "masters"
+        ],
         "citizenship_required": false,
         "security_clearance_required": false,
         "visa_sponsorship": "unknown"
@@ -111304,10 +111732,10 @@
       },
       "dates": {
         "posted": "2026-08-15",
-        "discovered": "2026-09-26",
-        "last_verified": "2026-09-28"
+        "discovered": "2026-10-07",
+        "last_verified": "2026-10-07"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -111376,15 +111804,14 @@
       },
       "role": "Summer Analyst Intern - Engineering",
       "category": "software-engineering",
-      "apply_url": "https://higher.gs.com/roles/177808?type=students",
+      "apply_url": "https://higher.gs.com/roles/170644?type=students",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
       "locations": [
         {
-          "city": "Seattle",
-          "state": "WA",
-          "country": "USA"
+          "city": "London",
+          "country": "UK"
         }
       ],
       "compensation": {
@@ -111726,7 +112153,7 @@
         "discovered": "2026-08-29",
         "last_verified": "2026-10-07"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -111779,7 +112206,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-10-07"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -120460,6 +120887,58 @@
         "last_verified": "2026-09-29"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "highmark-health-market-analytics-graduate-intern-2027",
+      "company": {
+        "name": "Highmark Health",
+        "slug": "highmark-health"
+      },
+      "role": "Market Analytics Graduate Intern",
+      "category": "software-engineering",
+      "apply_url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-FAP-5th-Avenue-Place/Summer-2027-Market-Analytics-Graduate-Intern_J285906",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Pittsburgh",
+          "state": "PA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-06",
+        "discovered": "2026-10-07",
+        "last_verified": "2026-10-07"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -155064,9 +155543,9 @@
       "dates": {
         "posted": "2026-08-27",
         "discovered": "2026-08-28",
-        "last_verified": "2026-09-11"
+        "last_verified": "2026-10-07"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -163867,6 +164346,58 @@
         "auto-ingested",
         "src:simplify",
         "remote-available"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "meta-data-scientist-intern-product-analytics-2027-47a887",
+      "company": {
+        "name": "Meta",
+        "slug": "meta"
+      },
+      "role": "Data Scientist Intern - Product Analytics",
+      "category": "data-science",
+      "apply_url": "https://www.metacareers.com/jobs/929757023499411",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Menlo Park",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-07",
+        "discovered": "2026-10-07",
+        "last_verified": "2026-10-07"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
       ]
     },
     {
@@ -182759,6 +183290,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "north-atlantic-industries-electrical-engineer-qualification-test-intern-2026",
+      "company": {
+        "name": "North Atlantic Industries",
+        "slug": "north-atlantic-industries"
+      },
+      "role": "Electrical Engineer Qualification Test Intern",
+      "category": "software-engineering",
+      "apply_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4566437",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Bohemia",
+          "state": "NY",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-07",
+        "discovered": "2026-10-07",
+        "last_verified": "2026-10-07"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "north-atlantic-industries-full-stack-software-engineer-intern-2026",
       "company": {
         "name": "North Atlantic Industries",
@@ -183223,7 +183806,7 @@
         "discovered": "2026-10-02",
         "last_verified": "2026-10-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -184503,7 +185086,7 @@
         "discovered": "2026-08-12",
         "last_verified": "2026-10-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -187655,6 +188238,70 @@
         "last_verified": "2026-09-22"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "nvidia-phd-research-intern-cross-disciplinary-vision-science-2027",
+      "company": {
+        "name": "NVIDIA",
+        "slug": "nvidia"
+      },
+      "role": "PhD Research Intern - Cross-Disciplinary Vision Science",
+      "category": "research",
+      "apply_url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Cross-Disciplinary-Vision-Science---Summer-2027_JR2026499",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Santa Clara",
+          "state": "CA",
+          "country": "USA"
+        },
+        {
+          "city": "Durham",
+          "state": "NC",
+          "country": "USA"
+        },
+        {
+          "city": "Westford",
+          "state": "MA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-06",
+        "discovered": "2026-10-07",
+        "last_verified": "2026-10-07"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -206025,7 +206672,7 @@
         "discovered": "2026-10-07",
         "last_verified": "2026-10-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -214082,61 +214729,6 @@
     },
     {
       "schema_version": "1.0",
-      "id": "renesas-electronics-analog-intern-2027-136d98",
-      "company": {
-        "name": "Renesas Electronics",
-        "slug": "renesas-electronics"
-      },
-      "role": "Analog Intern",
-      "category": "software-engineering",
-      "apply_url": "https://jobs.smartrecruiters.com/RenesasElectronics/744000153587608",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "San Jose",
-          "state": "CA",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [
-          "masters",
-          "phd"
-        ],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-10-05",
-        "discovered": "2026-10-06",
-        "last_verified": "2026-10-07"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
       "id": "renesas-electronics-analog-intern-2027-90b8fb",
       "company": {
         "name": "Renesas Electronics",
@@ -214194,7 +214786,7 @@
         "discovered": "2026-10-05",
         "last_verified": "2026-10-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -214259,7 +214851,7 @@
         "discovered": "2026-10-05",
         "last_verified": "2026-10-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -214274,23 +214866,13 @@
       },
       "role": "Analog Intern",
       "category": "software-engineering",
-      "apply_url": "https://jobs.smartrecruiters.com/RenesasElectronics/744000153497087",
+      "apply_url": "https://jobs.smartrecruiters.com/RenesasElectronics/744000153587608",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
       "locations": [
         {
           "city": "San Jose",
-          "state": "CA",
-          "country": "USA"
-        },
-        {
-          "city": "Plano",
-          "state": "TX",
-          "country": "USA"
-        },
-        {
-          "city": "San Diego",
           "state": "CA",
           "country": "USA"
         }
@@ -227640,7 +228222,7 @@
         "discovered": "2026-09-30",
         "last_verified": "2026-10-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -228385,7 +228967,7 @@
         "discovered": "2026-10-02",
         "last_verified": "2026-10-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -230766,7 +231348,7 @@
         "discovered": "2026-10-07",
         "last_verified": "2026-10-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -231838,7 +232420,7 @@
         "discovered": "2026-10-06",
         "last_verified": "2026-10-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -234089,6 +234671,60 @@
         "last_verified": "2026-09-03"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "rtx-systems-engineering-test-equipment-intern-2027",
+      "company": {
+        "name": "RTX",
+        "slug": "rtx"
+      },
+      "role": "Systems Engineering Test Equipment Intern",
+      "category": "software-engineering",
+      "apply_url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/Systems-Engineering-Test-Equipment-Intern--Summer-2027-_01879955",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "El Segundo",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-06",
+        "discovered": "2026-10-07",
+        "last_verified": "2026-10-07"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -241460,6 +242096,222 @@
     },
     {
       "schema_version": "1.0",
+      "id": "sigma-computing-ai-ml-phd-intern-2027-debabc",
+      "company": {
+        "name": "Sigma Computing",
+        "slug": "sigma-computing"
+      },
+      "role": "AI/ML PhD Intern",
+      "category": "machine-learning",
+      "apply_url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/8015269003",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "NYC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-07",
+        "discovered": "2026-10-07",
+        "last_verified": "2026-10-07"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "sigma-computing-ai-ml-phd-intern-2027",
+      "company": {
+        "name": "Sigma Computing",
+        "slug": "sigma-computing"
+      },
+      "role": "AI/ML PhD Intern",
+      "category": "machine-learning",
+      "apply_url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/7861424003",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "SF",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-07",
+        "discovered": "2026-10-07",
+        "last_verified": "2026-10-07"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "sigma-computing-software-engineer-intern-2027",
+      "company": {
+        "name": "Sigma Computing",
+        "slug": "sigma-computing"
+      },
+      "role": "Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/8001295003",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "NYC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-07",
+        "discovered": "2026-10-07",
+        "last_verified": "2026-10-07"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "sigma-computing-software-engineer-intern-summer-2027-2027",
+      "company": {
+        "name": "Sigma Computing",
+        "slug": "sigma-computing"
+      },
+      "role": "Software Engineer Intern - Summer 2027",
+      "category": "software-engineering",
+      "apply_url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/7850795003",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "SF",
+          "country": "USA"
+        },
+        {
+          "city": "NYC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-07",
+        "discovered": "2026-10-07",
+        "last_verified": "2026-10-07"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "signify-product-management-intern-2026",
       "company": {
         "name": "Signify",
@@ -244513,7 +245365,7 @@
         "discovered": "2026-10-01",
         "last_verified": "2026-10-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -254905,7 +255757,7 @@
         "discovered": "2026-09-30",
         "last_verified": "2026-10-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -305869,6 +306721,62 @@
       "dates": {
         "posted": "2026-08-28",
         "discovered": "2026-08-29",
+        "last_verified": "2026-10-07"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "waymo-2027-summer-intern-ms-phd-research-perception-foundation-mod-2027",
+      "company": {
+        "name": "Waymo",
+        "slug": "waymo",
+        "career_page": "https://waymo.com/careers"
+      },
+      "role": "2027 Summer Intern, MS/PhD,  Research, Perception Foundation Models",
+      "category": "research",
+      "apply_url": "https://careers.withwaymo.com/jobs?gh_jid=8257801",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Mountain View",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters",
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-07",
+        "discovered": "2026-10-07",
         "last_verified": "2026-10-07"
       },
       "status": "open",

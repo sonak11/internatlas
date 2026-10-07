@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "renesas-electronics-analog-intern-2027-136d98",
+  "id": "north-atlantic-industries-electrical-engineer-qualification-test-intern-2026",
   "company": {
-    "name": "Renesas Electronics",
-    "slug": "renesas-electronics"
+    "name": "North Atlantic Industries",
+    "slug": "north-atlantic-industries"
   },
-  "role": "Analog Intern",
+  "role": "Electrical Engineer Qualification Test Intern",
   "category": "software-engineering",
-  "apply_url": "https://jobs.smartrecruiters.com/RenesasElectronics/744000153587608",
-  "season": "summer",
-  "year": 2027,
+  "apply_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4566437",
+  "season": "fall",
+  "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "San Jose",
-      "state": "CA",
+      "city": "Bohemia",
+      "state": "NY",
       "country": "USA"
     }
   ],
@@ -25,10 +25,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters",
-      "phd"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -43,8 +40,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-10-05",
-    "discovered": "2026-10-06",
+    "posted": "2026-10-07",
+    "discovered": "2026-10-07",
     "last_verified": "2026-10-07"
   },
   "status": "open",
