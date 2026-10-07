@@ -1,6 +1,6 @@
 {
   "generated": "2026-10-07",
-  "count": 5825,
+  "count": 5846,
   "internships": [
     {
       "schema_version": "1.0",
@@ -4525,7 +4525,7 @@
         "discovered": "2026-09-11",
         "last_verified": "2026-10-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -10163,7 +10163,7 @@
         "discovered": "2026-10-05",
         "last_verified": "2026-10-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -10755,7 +10755,7 @@
         "discovered": "2026-08-21",
         "last_verified": "2026-10-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -12019,83 +12019,6 @@
     },
     {
       "schema_version": "1.0",
-      "id": "amd-software-engineer-intern-co-op-2027-1bdcce",
-      "company": {
-        "name": "AMD",
-        "slug": "amd"
-      },
-      "role": "Software Engineer Intern/Co-op",
-      "category": "software-engineering",
-      "apply_url": "https://careers.amd.com/jobs/90947?icims=1",
-      "season": "winter",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Rochester",
-          "state": "NY",
-          "country": "USA"
-        },
-        {
-          "city": "Austin",
-          "state": "TX",
-          "country": "USA"
-        },
-        {
-          "city": "Longmont",
-          "state": "CO",
-          "country": "USA"
-        },
-        {
-          "city": "Fishkill",
-          "state": "NY",
-          "country": "USA"
-        },
-        {
-          "city": "Fort Collins",
-          "state": "CO",
-          "country": "USA"
-        },
-        {
-          "city": "Boxborough",
-          "state": "MA",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-08-21",
-        "discovered": "2026-08-21",
-        "last_verified": "2026-10-07"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
       "id": "amd-software-engineer-intern-co-op-2027-224bf1",
       "company": {
         "name": "AMD",
@@ -12335,19 +12258,39 @@
       },
       "role": "Software Engineer Intern/Co-op",
       "category": "software-engineering",
-      "apply_url": "https://careers.amd.com/jobs/90891?icims=1",
+      "apply_url": "https://careers.amd.com/jobs/90947?icims=1",
       "season": "winter",
       "year": 2027,
       "work_mode": "onsite",
       "locations": [
         {
-          "city": "San Jose",
-          "state": "CA",
+          "city": "Rochester",
+          "state": "NY",
           "country": "USA"
         },
         {
-          "city": "Santa Clara",
-          "state": "CA",
+          "city": "Austin",
+          "state": "TX",
+          "country": "USA"
+        },
+        {
+          "city": "Longmont",
+          "state": "CO",
+          "country": "USA"
+        },
+        {
+          "city": "Fishkill",
+          "state": "NY",
+          "country": "USA"
+        },
+        {
+          "city": "Fort Collins",
+          "state": "CO",
+          "country": "USA"
+        },
+        {
+          "city": "Boxborough",
+          "state": "MA",
           "country": "USA"
         }
       ],
@@ -17113,7 +17056,7 @@
         "discovered": "2026-09-19",
         "last_verified": "2026-10-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -19331,6 +19274,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "anduril-2027-deployment-logistics-intern-2027",
+      "company": {
+        "name": "Anduril",
+        "slug": "anduril",
+        "career_page": "https://www.anduril.com/careers"
+      },
+      "role": "2027 Deployment Logistics Intern",
+      "category": "hardware",
+      "apply_url": "https://boards.greenhouse.io/andurilindustries/jobs/5255866007?gh_jid=5255866007",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "London",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-07",
+        "discovered": "2026-10-07",
+        "last_verified": "2026-10-07"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "anduril-2027-electrical-engineer-intern-2027",
       "company": {
         "name": "Anduril",
@@ -19841,6 +19836,58 @@
       "dates": {
         "posted": "2026-10-05",
         "discovered": "2026-10-06",
+        "last_verified": "2026-10-07"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "anduril-2027-software-engineer-intern-2027-116356",
+      "company": {
+        "name": "Anduril",
+        "slug": "anduril",
+        "career_page": "https://www.anduril.com/careers"
+      },
+      "role": "2027 Software Engineer Intern",
+      "category": "hardware",
+      "apply_url": "https://boards.greenhouse.io/andurilindustries/jobs/5255902007?gh_jid=5255902007",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "London",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-07",
+        "discovered": "2026-10-07",
         "last_verified": "2026-10-07"
       },
       "status": "open",
@@ -20993,7 +21040,7 @@
         "discovered": "2026-09-16",
         "last_verified": "2026-10-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -28105,6 +28152,60 @@
     },
     {
       "schema_version": "1.0",
+      "id": "auto-owners-insurance-business-intelligence-engineer-intern-2027",
+      "company": {
+        "name": "Auto-Owners Insurance",
+        "slug": "auto-owners-insurance"
+      },
+      "role": "Business Intelligence Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Business-Intelligence-Engineering-Intern---Summer-2027_R_14662",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Lansing",
+          "state": "MI",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-07",
+        "discovered": "2026-10-07",
+        "last_verified": "2026-10-07"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "auto-owners-insurance-data-engineering-intern-summer-2027-2027",
       "company": {
         "name": "Auto-Owners Insurance",
@@ -28309,7 +28410,7 @@
         "discovered": "2026-09-09",
         "last_verified": "2026-10-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -29396,6 +29497,112 @@
       "dates": {
         "posted": "2026-09-19",
         "discovered": "2026-09-19",
+        "last_verified": "2026-10-07"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "autodesk-research-intern-ai-research-2027-0f864e",
+      "company": {
+        "name": "Autodesk",
+        "slug": "autodesk"
+      },
+      "role": "Research Intern - AI Research",
+      "category": "ai",
+      "apply_url": "https://autodesk.wd1.myworkdayjobs.com/uni/job/Toronto-ON-CAN/PhD-Researcher--AI-Research_26WD101373",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Toronto",
+          "country": "ON"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-07",
+        "discovered": "2026-10-07",
+        "last_verified": "2026-10-07"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "autodesk-research-intern-ai-research-2027",
+      "company": {
+        "name": "Autodesk",
+        "slug": "autodesk"
+      },
+      "role": "Research Intern - AI Research",
+      "category": "ai",
+      "apply_url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/PhD-Researcher--AI-Research_26WD101373-1",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Toronto",
+          "country": "ON"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-07",
+        "discovered": "2026-10-07",
         "last_verified": "2026-10-07"
       },
       "status": "open",
@@ -43518,6 +43725,59 @@
     },
     {
       "schema_version": "1.0",
+      "id": "boston-scientific-r-d-research-data-science-intern-2027",
+      "company": {
+        "name": "Boston Scientific",
+        "slug": "boston-scientific"
+      },
+      "role": "R&D Research Data Science Intern",
+      "category": "data-science",
+      "apply_url": "https://bostonscientific.eightfold.ai/careers/job/563602813667382",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters",
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-28",
+        "discovered": "2026-10-07",
+        "last_verified": "2026-10-07"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "boston-scientific-research-algorithm-data-science-intern-interns-graduates-2027",
       "company": {
         "name": "Boston Scientific",
@@ -53372,7 +53632,7 @@
         "discovered": "2026-10-07",
         "last_verified": "2026-10-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -71788,9 +72048,9 @@
       "dates": {
         "posted": "2026-09-08",
         "discovered": "2026-09-08",
-        "last_verified": "2026-09-29"
+        "last_verified": "2026-10-07"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -72570,6 +72830,57 @@
       "dates": {
         "posted": "2026-09-22",
         "discovered": "2026-09-23",
+        "last_verified": "2026-10-07"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "create-music-group-a-r-research-intern-hip-hop-r-b-2026",
+      "company": {
+        "name": "Create Music Group",
+        "slug": "create-music-group"
+      },
+      "role": "A&R Research Intern - Hip-Hop & R&B",
+      "category": "research",
+      "apply_url": "https://ats.rippling.com/createmusicgroup/jobs/ceae3af1-66d0-40f0-9d9a-dcbecfa578c1",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "state": "LA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-21",
+        "discovered": "2026-10-07",
         "last_verified": "2026-10-07"
       },
       "status": "open",
@@ -88736,14 +89047,14 @@
       },
       "role": "Machine Learning Intern - Special Projects - Epic Research Group",
       "category": "machine-learning",
-      "apply_url": "https://epicgames.com/careers/jobs/6138140004?gh_jid=6138140004",
-      "season": "winter",
+      "apply_url": "https://epicgames.com/careers/jobs/5708589004?gh_jid=5708589004",
+      "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
       "locations": [
         {
-          "city": "Montreal",
-          "country": "QC"
+          "city": "London",
+          "country": "UK"
         }
       ],
       "compensation": {
@@ -88773,9 +89084,9 @@
       "dates": {
         "posted": "2026-08-07",
         "discovered": "2026-08-07",
-        "last_verified": "2026-10-06"
+        "last_verified": "2026-10-07"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -89815,9 +90126,9 @@
       "dates": {
         "posted": "2026-08-05",
         "discovered": "2026-08-05",
-        "last_verified": "2026-09-03"
+        "last_verified": "2026-10-07"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -95086,7 +95397,7 @@
         "discovered": "2026-09-21",
         "last_verified": "2026-10-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -101582,7 +101893,7 @@
         "discovered": "2026-09-09",
         "last_verified": "2026-10-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -103212,7 +103523,7 @@
         "discovered": "2026-09-30",
         "last_verified": "2026-10-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -110689,7 +111000,7 @@
         "discovered": "2026-08-27",
         "last_verified": "2026-10-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -110794,7 +111105,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-10-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -110847,7 +111158,7 @@
         "discovered": "2026-10-07",
         "last_verified": "2026-10-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -110900,7 +111211,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-10-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -110952,7 +111263,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -111004,7 +111315,7 @@
         "discovered": "2026-10-06",
         "last_verified": "2026-10-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -111058,7 +111369,7 @@
         "discovered": "2026-09-16",
         "last_verified": "2026-10-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -111111,7 +111422,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -111162,7 +111473,7 @@
         "discovered": "2026-10-06",
         "last_verified": "2026-10-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -111216,7 +111527,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -111267,7 +111578,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -111318,7 +111629,7 @@
         "discovered": "2026-10-07",
         "last_verified": "2026-10-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -111369,7 +111680,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-10-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -111421,7 +111732,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -111472,7 +111783,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -111681,7 +111992,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -111735,7 +112046,7 @@
         "discovered": "2026-10-07",
         "last_verified": "2026-10-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -111842,7 +112153,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -111896,7 +112207,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-10-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -111998,7 +112309,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -112153,7 +112464,7 @@
         "discovered": "2026-08-29",
         "last_verified": "2026-10-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -112206,7 +112517,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-10-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -117495,6 +117806,60 @@
       "dates": {
         "posted": "2026-08-14",
         "discovered": "2026-08-14",
+        "last_verified": "2026-10-07"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "guidewell-mutual-it-graduate-internship-multiple-teams-2027",
+      "company": {
+        "name": "GuideWell Mutual",
+        "slug": "guidewell-mutual"
+      },
+      "role": "IT Graduate Internship - Multiple Teams",
+      "category": "software-engineering",
+      "apply_url": "http://fa-etum-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/42182",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Jacksonville",
+          "state": "FL",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-07",
+        "discovered": "2026-10-07",
         "last_verified": "2026-10-07"
       },
       "status": "open",
@@ -129578,7 +129943,7 @@
         "discovered": "2026-09-29",
         "last_verified": "2026-10-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -131859,7 +132224,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "intel-software-engineer-intern-2027",
+      "id": "intel-software-engineer-intern-2027-d5ac8b",
       "company": {
         "name": "Intel",
         "slug": "intel"
@@ -131867,6 +132232,81 @@
       "role": "Software Engineer Intern",
       "category": "software-engineering",
       "apply_url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Software-Engineering---Intern--Graduate_JR0286836",
+      "season": "spring",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Austin",
+          "state": "TX",
+          "country": "USA"
+        },
+        {
+          "city": "Santa Clara",
+          "state": "CA",
+          "country": "USA"
+        },
+        {
+          "city": "Hillsboro",
+          "state": "OR",
+          "country": "USA"
+        },
+        {
+          "city": "Folsom",
+          "state": "CA",
+          "country": "USA"
+        },
+        {
+          "city": "Phoenix",
+          "state": "AZ",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters",
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-02",
+        "discovered": "2026-10-07",
+        "last_verified": "2026-10-07"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "intel-software-engineer-intern-2027",
+      "company": {
+        "name": "Intel",
+        "slug": "intel"
+      },
+      "role": "Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Software-Engineering---Intern--Bachelor-s_JR0286834",
       "season": "spring",
       "year": 2027,
       "work_mode": "onsite",
@@ -134841,9 +135281,9 @@
       "dates": {
         "posted": "2026-09-29",
         "discovered": "2026-09-30",
-        "last_verified": "2026-10-03"
+        "last_verified": "2026-10-07"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -136798,9 +137238,9 @@
       "dates": {
         "posted": "2026-09-03",
         "discovered": "2026-09-03",
-        "last_verified": "2026-09-04"
+        "last_verified": "2026-10-07"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -137017,9 +137457,9 @@
       "dates": {
         "posted": "2026-09-01",
         "discovered": "2026-09-01",
-        "last_verified": "2026-09-03"
+        "last_verified": "2026-10-07"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -159427,6 +159867,110 @@
     },
     {
       "schema_version": "1.0",
+      "id": "marvell-security-verification-validation-engineer-intern-2027-e9bfd5",
+      "company": {
+        "name": "Marvell",
+        "slug": "marvell"
+      },
+      "role": "Security Verification/Validation Engineer Intern",
+      "category": "security",
+      "apply_url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Chandler-AZ/Security-Verification-Validation-Engineer-Intern--BS---Summer-2027_2604148",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Chandler",
+          "state": "AZ",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-23",
+        "discovered": "2026-10-07",
+        "last_verified": "2026-10-07"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "marvell-security-verification-validation-engineer-intern-2027",
+      "company": {
+        "name": "Marvell",
+        "slug": "marvell"
+      },
+      "role": "Security Verification/Validation Engineer Intern",
+      "category": "security",
+      "apply_url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Chandler-AZ/Security-Verification-Validation-Engineer-Intern--BS---Summer-2027_2604148-1",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Chandler",
+          "state": "AZ",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-23",
+        "discovered": "2026-10-07",
+        "last_verified": "2026-10-07"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "marvell-silicon-photonics-intern-2026",
       "company": {
         "name": "Marvell",
@@ -181088,6 +181632,57 @@
     },
     {
       "schema_version": "1.0",
+      "id": "newyork-presbyterian-finance-intern-2027",
+      "company": {
+        "name": "NewYork-Presbyterian",
+        "slug": "newyork-presbyterian"
+      },
+      "role": "Finance Intern",
+      "category": "software-engineering",
+      "apply_url": "https://nyp.wd1.myworkdayjobs.com/nypcareers/job/NYPWeill-Cornell-Medical-Center/Summer-2027-Finance-Internship-Program--Patient-Access-Westchester_00888341",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "NYC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-22",
+        "discovered": "2026-10-07",
+        "last_verified": "2026-10-07"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "nexstar-media-archivist-intern-2026",
       "company": {
         "name": "Nexstar",
@@ -183282,7 +183877,7 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-10-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -184131,6 +184726,58 @@
         "last_verified": "2026-10-05"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "northrop-grumman-software-developer-intern-2027",
+      "company": {
+        "name": "Northrop Grumman",
+        "slug": "northrop-grumman"
+      },
+      "role": "Software Developer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Chantilly/XMLNAME-2027-Software-Developer-Intern--Chantilly-VA_R10254863-1",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Chantilly",
+          "state": "VA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-07",
+        "discovered": "2026-10-07",
+        "last_verified": "2026-10-07"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -187037,7 +187684,7 @@
         "discovered": "2026-08-19",
         "last_verified": "2026-10-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -187530,7 +188177,7 @@
         "discovered": "2026-08-19",
         "last_verified": "2026-10-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -191249,7 +191896,7 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-10-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -197072,7 +197719,7 @@
         "discovered": "2026-10-03",
         "last_verified": "2026-10-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -202870,9 +203517,9 @@
       "dates": {
         "posted": "2026-09-10",
         "discovered": "2026-09-10",
-        "last_verified": "2026-09-28"
+        "last_verified": "2026-10-07"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -217283,7 +217930,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-10-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -222537,6 +223184,59 @@
     },
     {
       "schema_version": "1.0",
+      "id": "roche-data-science-intern-multiple-teams-2027",
+      "company": {
+        "name": "Roche",
+        "slug": "roche"
+      },
+      "role": "Data Science Intern - Multiple Teams",
+      "category": "data-science",
+      "apply_url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Welwyn/Data-Science-Industrial-Placement---Multiple-roles-within-Biostats--Data-Management--Real-World-Data-and-more_202609-122536",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Welwyn Garden City",
+          "country": "UK"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-18",
+        "discovered": "2026-10-07",
+        "last_verified": "2026-10-07"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "rockefeller-capital-management-private-advisor-team-intern-2026",
       "company": {
         "name": "Rockefeller Capital Management",
@@ -227018,9 +227718,9 @@
       "dates": {
         "posted": "2026-09-01",
         "discovered": "2026-09-04",
-        "last_verified": "2026-09-29"
+        "last_verified": "2026-10-07"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -227433,7 +228133,7 @@
         "discovered": "2026-08-18",
         "last_verified": "2026-10-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -230077,6 +230777,57 @@
     },
     {
       "schema_version": "1.0",
+      "id": "rtx-sales-analysis-and-marketing-intern-contract-administration-2027",
+      "company": {
+        "name": "RTX",
+        "slug": "rtx"
+      },
+      "role": "Sales Analysis and Marketing Intern - Contract Administration - Sales Analysis & Marketing",
+      "category": "software-engineering",
+      "apply_url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Administration-des-contrats--analyse-des-ventes-et-marketing---Internship---Winter-2027---Contract-Administration--Sales-Analysis---Marketing_01878336",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Longueuil",
+          "country": "QC"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-28",
+        "discovered": "2026-10-07",
+        "last_verified": "2026-10-07"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "rtx-software-developer-intern-2027",
       "company": {
         "name": "RTX",
@@ -230646,7 +231397,7 @@
         "discovered": "2026-09-30",
         "last_verified": "2026-10-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -234724,7 +235475,7 @@
         "discovered": "2026-10-07",
         "last_verified": "2026-10-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -235233,6 +235984,162 @@
         "last_verified": "2026-09-21"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "s-c-electric-company-electronics-engineer-intern-2027",
+      "company": {
+        "name": "S&C Electric Company",
+        "slug": "s-c-electric-company"
+      },
+      "role": "Electronics Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107358",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Chicago",
+          "state": "IL",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-07",
+        "discovered": "2026-10-07",
+        "last_verified": "2026-10-07"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "s-c-electric-company-software-engineer-intern-2027",
+      "company": {
+        "name": "S&C Electric Company",
+        "slug": "s-c-electric-company"
+      },
+      "role": "Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107374",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Chicago",
+          "state": "IL",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-07",
+        "discovered": "2026-10-07",
+        "last_verified": "2026-10-07"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "s-c-electric-company-test-equipment-engineering-and-maintenance-intern-2027",
+      "company": {
+        "name": "S&C Electric Company",
+        "slug": "s-c-electric-company"
+      },
+      "role": "Test Equipment Engineering and Maintenance Intern",
+      "category": "software-engineering",
+      "apply_url": "https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107368",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Franklin",
+          "state": "WI",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-07",
+        "discovered": "2026-10-07",
+        "last_verified": "2026-10-07"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -245837,7 +246744,7 @@
         "discovered": "2026-10-06",
         "last_verified": "2026-10-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -245889,7 +246796,7 @@
         "discovered": "2026-10-06",
         "last_verified": "2026-10-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -247642,7 +248549,7 @@
         "discovered": "2026-09-08",
         "last_verified": "2026-10-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -257777,6 +258684,216 @@
     },
     {
       "schema_version": "1.0",
+      "id": "tenstorrent-hardware-intern-architecture-ai-hw-system-on-a-chip-2026",
+      "company": {
+        "name": "Tenstorrent",
+        "slug": "tenstorrent"
+      },
+      "role": "Hardware Intern - Architecture - AI HW & System on a Chip",
+      "category": "ai",
+      "apply_url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256691007",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Boston",
+          "state": "MA",
+          "country": "USA"
+        },
+        {
+          "city": "Austin",
+          "state": "TX",
+          "country": "USA"
+        },
+        {
+          "city": "Santa Clara",
+          "state": "CA",
+          "country": "USA"
+        },
+        {
+          "city": "Fort Collins",
+          "state": "CO",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters",
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-07",
+        "discovered": "2026-10-07",
+        "last_verified": "2026-10-07"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "tenstorrent-physical-design-dft-intern-2026",
+      "company": {
+        "name": "Tenstorrent",
+        "slug": "tenstorrent"
+      },
+      "role": "Physical Design & DFT Intern",
+      "category": "design",
+      "apply_url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256706007",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Boston",
+          "state": "MA",
+          "country": "USA"
+        },
+        {
+          "city": "Austin",
+          "state": "TX",
+          "country": "USA"
+        },
+        {
+          "city": "Santa Clara",
+          "state": "CA",
+          "country": "USA"
+        },
+        {
+          "city": "Fort Collins",
+          "state": "CO",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters",
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-07",
+        "discovered": "2026-10-07",
+        "last_verified": "2026-10-07"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "tenstorrent-risc-5-cpu-intern-2026",
+      "company": {
+        "name": "Tenstorrent",
+        "slug": "tenstorrent"
+      },
+      "role": "RISC-5 CPU Intern",
+      "category": "software-engineering",
+      "apply_url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256699007",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Boston",
+          "state": "MA",
+          "country": "USA"
+        },
+        {
+          "city": "Austin",
+          "state": "TX",
+          "country": "USA"
+        },
+        {
+          "city": "Santa Clara",
+          "state": "CA",
+          "country": "USA"
+        },
+        {
+          "city": "Fort Collins",
+          "state": "CO",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters",
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-07",
+        "discovered": "2026-10-07",
+        "last_verified": "2026-10-07"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "tenstorrent-software-engineering-intern-power-modeling-ai-tools-2026",
       "company": {
         "name": "Tenstorrent",
@@ -262331,7 +263448,7 @@
         "discovered": "2026-09-17",
         "last_verified": "2026-10-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -272081,6 +273198,58 @@
         "last_verified": "2026-09-29"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "the-federal-reserve-system-research-intern-2027",
+      "company": {
+        "name": "The Federal Reserve System",
+        "slug": "the-federal-reserve-system"
+      },
+      "role": "Research Intern",
+      "category": "research",
+      "apply_url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Cleveland-OH/Research-Intern---2027_R-0000033640",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Cleveland",
+          "state": "OH",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-01",
+        "discovered": "2026-10-07",
+        "last_verified": "2026-10-07"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -283230,7 +284399,7 @@
         "discovered": "2026-10-02",
         "last_verified": "2026-10-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
