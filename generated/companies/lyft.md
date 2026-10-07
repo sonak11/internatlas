@@ -12,6 +12,7 @@
 | Lyft | [Data Science Intern - Algorithms](https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002) | NYC | Onsite | 2026-09-11 | Rolling | 🟢 Open | ❔ |
 | Lyft | [Data Science Intern - Algorithms](https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002) | SF | Onsite | 2026-09-11 | Rolling | 🟢 Open | ❔ |
 | Lyft | [Data Science Intern - Algorithms](https://app.careerpuck.com/job-board/lyft/job/8767697002?gh_jid=8767697002) | Toronto | Onsite | 2026-09-11 | Rolling | 🟢 Open | ❔ |
+| Lyft | [PhD Machine Learning Software Engineer Intern](https://app.careerpuck.com/job-board/lyft/job/8817974002?gh_jid=8817974002) | SF | Onsite | 2026-10-06 | Rolling | 🟢 Open | ❔ |
 | Lyft | [Software Engineer Intern](https://app.careerpuck.com/job-board/lyft/job/8767710002?gh_jid=8767710002) | Toronto | Onsite | 2026-09-11 | Rolling | 🟢 Open | ❔ |
 | Lyft | [Software Engineer Intern - Backend](https://app.careerpuck.com/job-board/lyft/job/8796054002?gh_jid=8796054002) | Montreal | Onsite | 2026-09-11 | Rolling | 🟢 Open | ❔ |
 | Lyft | [Software Engineer Intern - Backend](https://app.careerpuck.com/job-board/lyft/job/8767726002?gh_jid=8767726002) | SF | Onsite | 2026-09-11 | Rolling | 🟢 Open | ❔ |
