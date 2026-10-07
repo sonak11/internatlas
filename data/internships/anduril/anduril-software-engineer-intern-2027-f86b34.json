@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "kyndryl-marketing-intern-marketing-analytics-2027",
+  "id": "anduril-software-engineer-intern-2027-f86b34",
   "company": {
-    "name": "Kyndryl",
-    "slug": "kyndryl"
+    "name": "Anduril",
+    "slug": "anduril"
   },
-  "role": "Marketing Intern - Marketing Analytics",
+  "role": "Software Engineer Intern",
   "category": "software-engineering",
-  "apply_url": "https://kyndryl.wd5.myworkdayjobs.com/KyndrylEarlyCareers/job/New-York-NY-USA/Marketing-Internship--Marketing-Analytics_R-69403",
+  "apply_url": "https://boards.greenhouse.io/andurilindustries/jobs/5255902007",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "NYC",
-      "country": "USA"
+      "city": "London",
+      "country": "UK"
     }
   ],
   "compensation": {
@@ -24,7 +24,9 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "masters"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -39,11 +41,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-10-06",
-    "discovered": "2026-10-06",
+    "posted": "2026-10-07",
+    "discovered": "2026-10-07",
     "last_verified": "2026-10-07"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

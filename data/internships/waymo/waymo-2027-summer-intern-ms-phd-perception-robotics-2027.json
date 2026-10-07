@@ -1,28 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "innovative-defense-technologies-software-engineer-intern-2027-76c222",
+  "id": "waymo-2027-summer-intern-ms-phd-perception-robotics-2027",
   "company": {
-    "name": "Innovative Defense Technologies",
-    "slug": "innovative-defense-technologies"
+    "name": "Waymo",
+    "slug": "waymo",
+    "career_page": "https://waymo.com/careers"
   },
-  "role": "Software Engineer Intern",
+  "role": "2027 Summer Intern, MS/PhD, Perception, Robotics",
   "category": "software-engineering",
-  "apply_url": "https://idtus.pinpointhq.com/en/postings/eac7d1ca-2dbd-4c60-8f65-979f0a9e3f33?ats=pinpointhq",
+  "apply_url": "https://careers.withwaymo.com/jobs?gh_jid=8227633",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Mt Laurel Township",
-      "state": "NJ",
-      "country": "USA"
-    },
-    {
-      "city": "Arlington County",
-      "country": "Arlington"
-    },
-    {
-      "city": "San Diego",
+      "city": "Mountain View",
       "state": "CA",
       "country": "USA"
     }
@@ -49,13 +41,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-10-06",
-    "discovered": "2026-10-06",
+    "posted": "2026-10-07",
+    "discovered": "2026-10-07",
     "last_verified": "2026-10-07"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:ats"
   ]
 }

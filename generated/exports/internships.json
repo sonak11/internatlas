@@ -1,6 +1,6 @@
 {
   "generated": "2026-10-07",
-  "count": 5846,
+  "count": 5847,
   "internships": [
     {
       "schema_version": "1.0",
@@ -5622,7 +5622,7 @@
         "discovered": "2026-07-31",
         "last_verified": "2026-10-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -19630,7 +19630,7 @@
         "discovered": "2026-09-14",
         "last_verified": "2026-10-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:ats"
@@ -20296,6 +20296,59 @@
       "dates": {
         "posted": "2026-09-15",
         "discovered": "2026-09-16",
+        "last_verified": "2026-10-07"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "anduril-software-engineer-intern-2027-f86b34",
+      "company": {
+        "name": "Anduril",
+        "slug": "anduril"
+      },
+      "role": "Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://boards.greenhouse.io/andurilindustries/jobs/5255902007",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "London",
+          "country": "UK"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-07",
+        "discovered": "2026-10-07",
         "last_verified": "2026-10-07"
       },
       "status": "open",
@@ -33759,7 +33812,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -58368,7 +58421,7 @@
         "discovered": "2026-09-23",
         "last_verified": "2026-10-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -62717,7 +62770,7 @@
         "discovered": "2026-09-14",
         "last_verified": "2026-10-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -72883,7 +72936,7 @@
         "discovered": "2026-10-07",
         "last_verified": "2026-10-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -84927,7 +84980,7 @@
         "discovered": "2026-09-26",
         "last_verified": "2026-10-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -92442,7 +92495,7 @@
         "discovered": "2026-09-23",
         "last_verified": "2026-10-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -92596,7 +92649,7 @@
         "discovered": "2026-09-23",
         "last_verified": "2026-10-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -92956,7 +93009,7 @@
         "discovered": "2026-09-23",
         "last_verified": "2026-10-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -96613,7 +96666,7 @@
         "discovered": "2026-08-10",
         "last_verified": "2026-10-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:ats"
@@ -113792,7 +113845,7 @@
         "discovered": "2026-09-22",
         "last_verified": "2026-10-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -130108,67 +130161,6 @@
     },
     {
       "schema_version": "1.0",
-      "id": "innovative-defense-technologies-software-engineer-intern-2027-76c222",
-      "company": {
-        "name": "Innovative Defense Technologies",
-        "slug": "innovative-defense-technologies"
-      },
-      "role": "Software Engineer Intern",
-      "category": "software-engineering",
-      "apply_url": "https://idtus.pinpointhq.com/en/postings/eac7d1ca-2dbd-4c60-8f65-979f0a9e3f33?ats=pinpointhq",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Mt Laurel Township",
-          "state": "NJ",
-          "country": "USA"
-        },
-        {
-          "city": "Arlington County",
-          "country": "Arlington"
-        },
-        {
-          "city": "San Diego",
-          "state": "CA",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-10-06",
-        "discovered": "2026-10-06",
-        "last_verified": "2026-10-07"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
       "id": "innovative-defense-technologies-software-engineer-intern-2027-d649cc",
       "company": {
         "name": "Innovative Defense Technologies",
@@ -130213,7 +130205,7 @@
         "discovered": "2026-10-06",
         "last_verified": "2026-10-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -130228,7 +130220,7 @@
       },
       "role": "Software Engineer Intern",
       "category": "software-engineering",
-      "apply_url": "https://idtus.pinpointhq.com/en/postings/0900a5f2-65d5-4cfa-8b14-b2a58d156d53?ats=pinpointhq",
+      "apply_url": "https://idtus.pinpointhq.com/en/postings/eac7d1ca-2dbd-4c60-8f65-979f0a9e3f33?ats=pinpointhq",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
@@ -137024,7 +137016,7 @@
         "discovered": "2026-09-01",
         "last_verified": "2026-10-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -137078,7 +137070,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -144200,7 +144192,7 @@
         "discovered": "2026-09-11",
         "last_verified": "2026-10-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -145079,7 +145071,7 @@
         "discovered": "2026-10-07",
         "last_verified": "2026-10-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -146123,7 +146115,7 @@
         "discovered": "2026-10-06",
         "last_verified": "2026-10-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -146174,7 +146166,7 @@
         "discovered": "2026-10-06",
         "last_verified": "2026-10-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -174140,7 +174132,7 @@
         "discovered": "2026-09-17",
         "last_verified": "2026-10-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -217291,7 +217283,7 @@
         "discovered": "2026-09-10",
         "last_verified": "2026-10-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -235048,7 +235040,7 @@
         "discovered": "2026-08-05",
         "last_verified": "2026-10-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -307780,6 +307772,59 @@
       "dates": {
         "posted": "2026-09-25",
         "discovered": "2026-09-26",
+        "last_verified": "2026-10-07"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "waymo-2027-summer-intern-ms-phd-perception-robotics-2027",
+      "company": {
+        "name": "Waymo",
+        "slug": "waymo",
+        "career_page": "https://waymo.com/careers"
+      },
+      "role": "2027 Summer Intern, MS/PhD, Perception, Robotics",
+      "category": "software-engineering",
+      "apply_url": "https://careers.withwaymo.com/jobs?gh_jid=8227633",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Mountain View",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-07",
+        "discovered": "2026-10-07",
         "last_verified": "2026-10-07"
       },
       "status": "open",
