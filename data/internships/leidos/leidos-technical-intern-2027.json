@@ -7,7 +7,7 @@
   },
   "role": "Technical Intern",
   "category": "software-engineering",
-  "apply_url": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Technical-Intern_R-00193820",
+  "apply_url": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Technical-Intern_R-00193990",
   "season": "summer",
   "year": 2027,
   "work_mode": "remote",
@@ -36,11 +36,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-10-02",
+    "posted": "2026-10-07",
     "discovered": "2026-10-03",
-    "last_verified": "2026-10-05"
+    "last_verified": "2026-10-08"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

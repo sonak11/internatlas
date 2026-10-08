@@ -56,9 +56,12 @@
 | TikTok | [LLM Post-training Engineer Intern - Research & Product](https://lifeattiktok.com/search/7670285031018432773) | San Jose, CA | Onsite | 2026-08-06 | Rolling | 🟢 Open | ❔ |
 | TikTok | [LLM Post-training Engineer Intern, Research & Product](https://lifeattiktok.com/search/7631599293708126517) | San Jose, CA | Onsite | 2026-04-25 | Rolling | 🟢 Open | ❔ |
 | TikTok | [Machine Learning Engineer Intern](https://lifeattiktok.com/search/7675847556668295429) | Seattle, WA | Onsite | 2026-08-20 | Rolling | 🟢 Open | ❔ |
+| TikTok | [Machine Learning Engineer Intern](https://lifeattiktok.com/search/7694045969156426037) | San Jose, CA | Onsite | 2026-10-08 | Rolling | 🟢 Open | ❔ |
+| TikTok | [Machine Learning Engineer Intern](https://lifeattiktok.com/search/7694045967754889477) | San Jose, CA | Onsite | 2026-10-08 | Rolling | 🟢 Open | ❔ |
 | TikTok | [Machine Learning Engineer Intern](https://lifeattiktok.com/search/7668379675467761925) | San Jose, CA | Onsite | 2026-08-04 | Rolling | 🟢 Open | ❔ |
 | TikTok | [Machine Learning Engineer Intern](https://lifeattiktok.com/search/7667350291952765237) | San Jose, CA | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
 | TikTok | [Machine Learning Engineer Intern](https://lifeattiktok.com/search/7667346576033777925) | San Jose, CA | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
+| TikTok | [Machine Learning Engineer Intern](https://lifeattiktok.com/search/7694044547207268661) | San Jose, CA | Onsite | 2026-10-08 | Rolling | 🟢 Open | ❔ |
 | TikTok | [Machine Learning Engineer Intern](https://lifeattiktok.com/search/7667338938890930437) | San Jose, CA | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
 | TikTok | [Machine Learning Engineer Intern - Ads Signal & Measurement](https://lifeattiktok.com/search/7669700361976809733) | San Jose, CA | Onsite | 2026-08-04 | Rolling | 🟢 Open | ❔ |
 | TikTok | [Machine Learning Engineer Intern - App Ads and Gaming](https://lifeattiktok.com/search/7669709472078170373) | San Jose, CA | Onsite | 2026-08-04 | Rolling | 🟢 Open | ❔ |
@@ -70,7 +73,6 @@
 | TikTok | [Machine Learning Engineer Intern - Data Search Local Service](https://lifeattiktok.com/search/7668381860191734021) | San Jose, CA | Onsite | 2026-08-04 | Rolling | 🟢 Open | ❔ |
 | TikTok | [Machine Learning Engineer Intern - Data Search Recommendation Global E-Commerce](https://lifeattiktok.com/search/7668383643375257909) | Seattle, WA | Onsite | 2026-08-04 | Rolling | 🟢 Open | ❔ |
 | TikTok | [Machine Learning Engineer Intern - Data Search Search Quality](https://lifeattiktok.com/search/7665475888805611781) | San Jose, CA | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
-| TikTok | [Machine Learning Engineer Intern - Data-Global E-Commerce-Search](https://lifeattiktok.com/search/7668415591670417717) | Seattle, WA | Onsite | 2026-08-05 | Rolling | 🟢 Open | ❔ |
 | TikTok | [Machine Learning Engineer Intern - E-Commerce Governance](https://lifeattiktok.com/search/7674029136531015941) | Seattle, WA | Onsite | 2026-08-17 | Rolling | 🟢 Open | ❔ |
 | TikTok | [Machine Learning Engineer Intern - E-Commerce Knowledge Graph](https://lifeattiktok.com/search/7676652813409552645) | San Jose, CA | Onsite | 2026-08-31 | Rolling | 🟢 Open | ❔ |
 | TikTok | [Machine Learning Engineer Intern - E-Commerce Knowledge Graph](https://lifeattiktok.com/search/7676650607912601861) | Seattle, WA | Onsite | 2026-08-31 | Rolling | 🟢 Open | ❔ |
@@ -168,6 +170,7 @@
 | TikTok | [Global Product Operations Manager Intern - Global Business Solutions](https://lifeattiktok.com/search/7660641959426132277) | San Jose, CA | Onsite | 2026-07-13 | Rolling | 🔴 Closed | ❔ |
 | TikTok | [Issue Discovery Operations Intern - Content Ecosystem](https://lifeattiktok.com/search/7667582040108222773) | San Jose, CA | Onsite | 2026-08-10 | Rolling | 🔴 Closed | ❔ |
 | TikTok | [Machine Learning Engineer Intern - App Ads](https://lifeattiktok.com/search/7623166673809770757) | San Jose, CA | Onsite | 2026-03-31 | Rolling | 🔴 Closed | ❔ |
+| TikTok | [Machine Learning Engineer Intern - Data-Global E-Commerce-Search](https://lifeattiktok.com/search/7668415591670417717) | Seattle, WA | Onsite | 2026-08-05 | Rolling | 🔴 Closed | ❔ |
 | TikTok | [Mobile Software Engineer Intern - Global E-Commerce](https://lifeattiktok.com/search/7673663349758675205) | San Jose, CA | Onsite | 2026-08-14 | Rolling | 🔴 Closed | ❔ |
 | TikTok | [Product Manager Intern - TikTok Ads Agent-Scaled Growth](https://lifeattiktok.com/search/7657728959042046213) | San Jose, CA | Onsite | 2026-07-07 | Rolling | 🔴 Closed | ❔ |
 | TikTok | [Product Manager Intern - TikTok LIVE-AI & Ecosystem Governance](https://lifeattiktok.com/search/7680555984532982069) | San Jose, CA | Onsite | 2026-09-04 | Rolling | 🔴 Closed | ❔ |

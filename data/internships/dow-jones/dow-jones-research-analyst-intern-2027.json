@@ -1,20 +1,21 @@
 {
   "schema_version": "1.0",
-  "id": "goldman-sachs-quantitative-strategist-intern-multiple-teams-2027-323368",
+  "id": "dow-jones-research-analyst-intern-2027",
   "company": {
-    "name": "Goldman Sachs",
-    "slug": "goldman-sachs"
+    "name": "Dow Jones",
+    "slug": "dow-jones"
   },
-  "role": "Quantitative Strategist Intern - Multiple Teams",
-  "category": "quant",
-  "apply_url": "https://higher.gs.com/roles/175424?type=students",
+  "role": "Research Analyst Intern",
+  "category": "research",
+  "apply_url": "https://dowjones.wd1.myworkdayjobs.com/en-US/Dow_Jones_Career/job/Houston-TX---OPIS/Summer-2027-Internship-Program---Research-Analyst-Intern_Job_Req_55872",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "London",
-      "country": "UK"
+      "city": "Houston",
+      "state": "TX",
+      "country": "USA"
     }
   ],
   "compensation": {
@@ -39,11 +40,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-15",
-    "discovered": "2026-10-07",
-    "last_verified": "2026-10-07"
+    "posted": "2026-10-07",
+    "discovered": "2026-10-08",
+    "last_verified": "2026-10-08"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

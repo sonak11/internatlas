@@ -8,6 +8,7 @@
 |---|---|---|---|---|---|---|---|
 | Garmin | [Electrical Design Engineer Intern](https://careers.garmin.com/jobs/19896?icims=1) | Tulsa, OK | Onsite | 2026-09-10 | Rolling | 🟢 Open | ❔ |
 | Garmin | [Electrical Design Engineer Intern](https://careers.garmin.com/jobs/19643?icims=1) | Olathe, KS | Onsite | 2026-08-18 | Rolling | 🟢 Open | ❔ |
+| Garmin | [FPGA Engineer Intern](https://careers.garmin.com/jobs/19836?icims=1) | Olathe, KS | Onsite | 2026-10-07 | Rolling | 🟢 Open | ❔ |
 | Garmin | [Software Engineer Intern](https://careers.garmin.com/jobs/20131?icims=1) | Cary, NC | Onsite | 2026-09-10 | Rolling | 🟢 Open | ❔ |
 | Garmin | [Software Engineer Intern](https://careers.garmin.com/jobs/20135?icims=1) | Tulsa, OK | Onsite | 2026-09-11 | Rolling | 🟢 Open | ❔ |
 | Garmin | [Software Engineer Intern](https://careers.garmin.com/jobs/19858?icims=1) | Chandler, AZ | Onsite | 2026-08-31 | Rolling | 🟢 Open | ❔ |
@@ -15,4 +16,4 @@
 
 ## Related
 
-Browse more roles in: [🎨 Design](../categories/design.md), [💻 Software Engineering](../categories/software-engineering.md)
+Browse more roles in: [🎨 Design](../categories/design.md), [🔩 Hardware](../categories/hardware.md), [💻 Software Engineering](../categories/software-engineering.md)

@@ -7,14 +7,14 @@
   },
   "role": "Electrical Engineer Intern",
   "category": "software-engineering",
-  "apply_url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-FL-MELBOURNE-313--1344-S-Babcock-St--BLDG-313/Electrical-Engineer-Intern--Summer-2027-_01868065",
+  "apply_url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WH--2501-W-University-Dr--WING-H-BLDG/Electrical-Engineer-Intern--Summer2027--Onsite-_01880018",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Melbourne",
-      "state": "FL",
+      "city": "McKinney",
+      "state": "TX",
       "country": "USA"
     }
   ],
@@ -43,11 +43,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-02",
+    "posted": "2026-10-07",
     "discovered": "2026-09-03",
-    "last_verified": "2026-09-18"
+    "last_verified": "2026-10-08"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"
