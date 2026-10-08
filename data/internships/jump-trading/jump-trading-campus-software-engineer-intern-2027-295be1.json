@@ -1,20 +1,25 @@
 {
   "schema_version": "1.0",
-  "id": "tokyo-electron-software-engineer-intern-2027",
+  "id": "jump-trading-campus-software-engineer-intern-2027-295be1",
   "company": {
-    "name": "Tokyo Electron",
-    "slug": "tokyo-electron"
+    "name": "Jump Trading",
+    "slug": "jump-trading",
+    "career_page": "https://www.jumptrading.com/careers"
   },
-  "role": "Software Engineer Intern",
-  "category": "software-engineering",
-  "apply_url": "https://tel.wd3.myworkdayjobs.com/tel-careers/job/Chaska/Software-Engineer-2027-Summer-Intern_R26-01573",
+  "role": "Campus Software Engineer (Intern)",
+  "category": "quant",
+  "apply_url": "https://www.jumptrading.com/hr/job?gh_jid=8002989",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Chaska",
-      "state": "MN",
+      "city": "Chicago",
+      "country": "USA"
+    },
+    {
+      "city": "Chicago",
+      "state": "IL",
       "country": "USA"
     }
   ],
@@ -40,13 +45,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-16",
-    "discovered": "2026-09-17",
+    "posted": "2026-07-08",
+    "discovered": "2026-10-08",
     "last_verified": "2026-10-08"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:ats"
   ]
 }

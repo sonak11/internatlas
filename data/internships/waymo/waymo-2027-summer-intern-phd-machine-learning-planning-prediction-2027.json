@@ -1,20 +1,21 @@
 {
   "schema_version": "1.0",
-  "id": "tokyo-electron-software-engineer-intern-2027",
+  "id": "waymo-2027-summer-intern-phd-machine-learning-planning-prediction-2027",
   "company": {
-    "name": "Tokyo Electron",
-    "slug": "tokyo-electron"
+    "name": "Waymo",
+    "slug": "waymo",
+    "career_page": "https://waymo.com/careers"
   },
-  "role": "Software Engineer Intern",
-  "category": "software-engineering",
-  "apply_url": "https://tel.wd3.myworkdayjobs.com/tel-careers/job/Chaska/Software-Engineer-2027-Summer-Intern_R26-01573",
+  "role": "2027 Summer Intern, PhD, Machine Learning, Planning/Prediction",
+  "category": "machine-learning",
+  "apply_url": "https://careers.withwaymo.com/jobs?gh_jid=8262154",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Chaska",
-      "state": "MN",
+      "city": "Mountain View",
+      "state": "CA",
       "country": "USA"
     }
   ],
@@ -40,13 +41,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-16",
-    "discovered": "2026-09-17",
+    "posted": "2026-10-08",
+    "discovered": "2026-10-08",
     "last_verified": "2026-10-08"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:ats"
   ]
 }
