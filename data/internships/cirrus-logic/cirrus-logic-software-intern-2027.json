@@ -1,21 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "general-dynamics-information-technology-software-development-intern-2027",
+  "id": "cirrus-logic-software-intern-2027",
   "company": {
-    "name": "General Dynamics Information Technology",
-    "slug": "general-dynamics-information-technology"
+    "name": "Cirrus Logic",
+    "slug": "cirrus-logic"
   },
-  "role": "Software Development Intern",
+  "role": "Software Intern",
   "category": "software-engineering",
-  "apply_url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Falls-Church/Summer-2027-Software-Development-Internship_RQ228406",
+  "apply_url": "https://jobs.eu.lever.co/cirrus/8a27643f-35d8-44f2-b8f3-2318a3d26d4d/apply",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Falls Church",
-      "state": "VA",
-      "country": "USA"
+      "city": "London",
+      "country": "UK"
     }
   ],
   "compensation": {
@@ -42,8 +41,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-15",
-    "discovered": "2026-09-15",
+    "posted": "2026-10-08",
+    "discovered": "2026-10-08",
     "last_verified": "2026-10-08"
   },
   "status": "open",

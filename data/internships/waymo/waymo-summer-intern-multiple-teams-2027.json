@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "general-dynamics-information-technology-software-development-intern-2027-232635",
+  "id": "waymo-summer-intern-multiple-teams-2027",
   "company": {
-    "name": "General Dynamics Information Technology",
-    "slug": "general-dynamics-information-technology"
+    "name": "Waymo",
+    "slug": "waymo"
   },
-  "role": "Software Development Intern",
+  "role": "Summer Intern - Multiple Teams",
   "category": "software-engineering",
-  "apply_url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Falls-Church/Summer-2027-Software-Development-Internship_RQ228406",
+  "apply_url": "https://careers.withwaymo.com/jobs?gh_jid=8193295",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Falls Church",
-      "state": "VA",
+      "city": "Mountain View",
+      "state": "CA",
       "country": "USA"
     }
   ],
@@ -26,7 +26,7 @@
   "eligibility": {
     "graduation_years": [],
     "degree_levels": [
-      "masters"
+      "phd"
     ],
     "citizenship_required": false,
     "security_clearance_required": false,
@@ -42,8 +42,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-15",
-    "discovered": "2026-10-04",
+    "posted": "2026-09-11",
+    "discovered": "2026-10-08",
     "last_verified": "2026-10-08"
   },
   "status": "open",

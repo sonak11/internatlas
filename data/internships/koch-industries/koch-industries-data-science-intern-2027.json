@@ -1,30 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "national-information-solutions-cooperative-data-engineer-intern-2027-da18cb",
+  "id": "koch-industries-data-science-intern-2027",
   "company": {
-    "name": "National Information Solutions Cooperative",
-    "slug": "national-information-solutions-cooperative"
+    "name": "Koch Industries",
+    "slug": "koch-industries"
   },
-  "role": "Data Engineer Intern",
-  "category": "data-engineering",
-  "apply_url": "https://job-boards.greenhouse.io/testnisc/jobs/8167883",
+  "role": "Data Science Intern",
+  "category": "data-science",
+  "apply_url": "https://koch.avature.net/en_US/careers/JobDetail/195341",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Lake St Louis",
-      "state": "MO",
-      "country": "USA"
-    },
-    {
-      "city": "Mandan",
-      "state": "ND",
-      "country": "USA"
-    },
-    {
-      "city": "Cedar Rapids",
-      "state": "IA",
+      "city": "Atlanta",
+      "state": "GA",
       "country": "USA"
     }
   ],
@@ -35,7 +25,9 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "masters"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -50,8 +42,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-03",
-    "discovered": "2026-09-03",
+    "posted": "2026-10-08",
+    "discovered": "2026-10-08",
     "last_verified": "2026-10-08"
   },
   "status": "open",

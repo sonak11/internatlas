@@ -1,6 +1,6 @@
 {
   "generated": "2026-10-08",
-  "count": 5892,
+  "count": 5898,
   "internships": [
     {
       "schema_version": "1.0",
@@ -3530,6 +3530,57 @@
       "tags": [
         "auto-ingested",
         "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "airbus-radio-frequency-intern-2027",
+      "company": {
+        "name": "Airbus",
+        "slug": "airbus"
+      },
+      "role": "Radio Frequency Intern",
+      "category": "software-engineering",
+      "apply_url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Portsmouth/Radio-Frequency--RF--Test-System-Engineering-Placement--12-months-_JR10428274",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Portsmouth",
+          "country": "UK"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-07",
+        "discovered": "2026-10-08",
+        "last_verified": "2026-10-08"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
       ]
     },
     {
@@ -60853,6 +60904,59 @@
     },
     {
       "schema_version": "1.0",
+      "id": "cirrus-logic-software-intern-2027",
+      "company": {
+        "name": "Cirrus Logic",
+        "slug": "cirrus-logic"
+      },
+      "role": "Software Intern",
+      "category": "software-engineering",
+      "apply_url": "https://jobs.eu.lever.co/cirrus/8a27643f-35d8-44f2-b8f3-2318a3d26d4d/apply",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "London",
+          "country": "UK"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-08",
+        "discovered": "2026-10-08",
+        "last_verified": "2026-10-08"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "cirrus-logic-validation-engineer-intern-2027",
       "company": {
         "name": "Cirrus Logic",
@@ -80847,6 +80951,64 @@
     },
     {
       "schema_version": "1.0",
+      "id": "doordash-software-engineer-intern-2027-fef855",
+      "company": {
+        "name": "DoorDash",
+        "slug": "doordash"
+      },
+      "role": "Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://job-boards.greenhouse.io/doordashusa/jobs/8263774",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "SF",
+          "country": "USA"
+        },
+        {
+          "city": "Sunnyvale",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-08",
+        "discovered": "2026-10-08",
+        "last_verified": "2026-10-08"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "doordash-software-engineer-intern-2027",
       "company": {
         "name": "DoorDash",
@@ -80896,59 +81058,6 @@
       "tags": [
         "auto-ingested",
         "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "doordash-software-engineer-intern-labs-summer-2027-2027",
-      "company": {
-        "name": "DoorDash",
-        "slug": "doordash",
-        "career_page": "https://careers.doordash.com/"
-      },
-      "role": "Software Engineer, Intern - Labs (Summer 2027)",
-      "category": "software-engineering",
-      "apply_url": "https://job-boards.greenhouse.io/doordashusa/jobs/8263774",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "San Francisco",
-          "state": "CA",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-10-08",
-        "discovered": "2026-10-08",
-        "last_verified": "2026-10-08"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:ats"
       ]
     },
     {
@@ -85385,7 +85494,7 @@
         "discovered": "2026-09-01",
         "last_verified": "2026-10-08"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -107236,60 +107345,6 @@
     },
     {
       "schema_version": "1.0",
-      "id": "general-dynamics-information-technology-software-development-intern-2027-232635",
-      "company": {
-        "name": "General Dynamics Information Technology",
-        "slug": "general-dynamics-information-technology"
-      },
-      "role": "Software Development Intern",
-      "category": "software-engineering",
-      "apply_url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Falls-Church/Summer-2027-Software-Development-Internship_RQ228406",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Falls Church",
-          "state": "VA",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [
-          "masters"
-        ],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-09-15",
-        "discovered": "2026-10-04",
-        "last_verified": "2026-10-08"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
       "id": "general-dynamics-information-technology-software-development-intern-2027-8c7786",
       "company": {
         "name": "General Dynamics Information Technology",
@@ -107405,7 +107460,7 @@
       },
       "role": "Software Development Intern",
       "category": "software-engineering",
-      "apply_url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Falls-Church/Summer-2027-Software-Development-Internship_RQ228404",
+      "apply_url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Falls-Church/Summer-2027-Software-Development-Internship_RQ228406",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
@@ -112021,7 +112076,7 @@
         "discovered": "2026-08-27",
         "last_verified": "2026-10-08"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -112126,7 +112181,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-10-08"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -112179,7 +112234,7 @@
         "discovered": "2026-10-07",
         "last_verified": "2026-10-08"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -112232,7 +112287,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-10-08"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -112284,7 +112339,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-08"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -112336,7 +112391,7 @@
         "discovered": "2026-10-06",
         "last_verified": "2026-10-08"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -112390,7 +112445,7 @@
         "discovered": "2026-09-16",
         "last_verified": "2026-10-08"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -112443,7 +112498,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-08"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -112494,7 +112549,7 @@
         "discovered": "2026-10-06",
         "last_verified": "2026-10-08"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -112548,7 +112603,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-08"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -112599,7 +112654,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-08"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -112650,7 +112705,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-10-08"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -112702,7 +112757,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-08"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -112753,7 +112808,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-08"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -112962,7 +113017,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-08"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -113016,7 +113071,7 @@
         "discovered": "2026-10-07",
         "last_verified": "2026-10-08"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -113123,7 +113178,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-08"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -113177,7 +113232,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-10-08"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -113279,7 +113334,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-08"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -113434,7 +113489,7 @@
         "discovered": "2026-08-29",
         "last_verified": "2026-10-08"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -113487,7 +113542,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-10-08"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -146365,6 +146420,60 @@
     },
     {
       "schema_version": "1.0",
+      "id": "koch-industries-data-science-intern-2027",
+      "company": {
+        "name": "Koch Industries",
+        "slug": "koch-industries"
+      },
+      "role": "Data Science Intern",
+      "category": "data-science",
+      "apply_url": "https://koch.avature.net/en_US/careers/JobDetail/195341",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Atlanta",
+          "state": "GA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-08",
+        "discovered": "2026-10-08",
+        "last_verified": "2026-10-08"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "koch-industries-product-management-intern-2027",
       "company": {
         "name": "Koch Industries",
@@ -153245,6 +153354,58 @@
       "dates": {
         "posted": "2026-09-15",
         "discovered": "2026-09-21",
+        "last_verified": "2026-10-08"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "lowe-s-pro-services-reporting-intern-2027",
+      "company": {
+        "name": "Lowe's",
+        "slug": "lowe-s"
+      },
+      "role": "PRO Services Reporting Intern",
+      "category": "software-engineering",
+      "apply_url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Mooresville-NC-SSC-1999/PRO-Services-Reporting-Intern---Undergrad-Internship---Summer-2027-_JR-02672698",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Mooresville",
+          "state": "NC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-08",
+        "discovered": "2026-10-08",
         "last_verified": "2026-10-08"
       },
       "status": "open",
@@ -163023,7 +163184,7 @@
         "discovered": "2026-10-07",
         "last_verified": "2026-10-08"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -170021,7 +170182,7 @@
         "discovered": "2026-08-04",
         "last_verified": "2026-10-08"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -170407,7 +170568,7 @@
         "discovered": "2026-08-04",
         "last_verified": "2026-10-08"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -170680,7 +170841,7 @@
         "discovered": "2026-08-04",
         "last_verified": "2026-10-08"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -170740,7 +170901,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "microsoft-software-engineer-intern-coreai-2027-7a33f3",
+      "id": "microsoft-software-engineer-intern-coreai-2027",
       "company": {
         "name": "Microsoft",
         "slug": "microsoft"
@@ -170754,58 +170915,6 @@
       "locations": [
         {
           "city": "Multiple Locations",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-08-03",
-        "discovered": "2026-10-01",
-        "last_verified": "2026-10-08"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:vanshb03"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "microsoft-software-engineer-intern-coreai-2027",
-      "company": {
-        "name": "Microsoft",
-        "slug": "microsoft"
-      },
-      "role": "Software Engineer Intern - CoreAI",
-      "category": "software-engineering",
-      "apply_url": "https://apply.careers.microsoft.com/careers/job/1970393556951950",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Redmond",
-          "state": "WA",
           "country": "USA"
         }
       ],
@@ -170840,7 +170949,7 @@
       "status": "open",
       "tags": [
         "auto-ingested",
-        "src:simplify"
+        "src:vanshb03"
       ]
     },
     {
@@ -170891,7 +171000,7 @@
         "discovered": "2026-08-04",
         "last_verified": "2026-10-08"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -175740,7 +175849,7 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-10-08"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -175800,68 +175909,6 @@
     },
     {
       "schema_version": "1.0",
-      "id": "national-information-solutions-cooperative-data-engineer-intern-2027-da18cb",
-      "company": {
-        "name": "National Information Solutions Cooperative",
-        "slug": "national-information-solutions-cooperative"
-      },
-      "role": "Data Engineer Intern",
-      "category": "data-engineering",
-      "apply_url": "https://job-boards.greenhouse.io/testnisc/jobs/8167883",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Lake St Louis",
-          "state": "MO",
-          "country": "USA"
-        },
-        {
-          "city": "Mandan",
-          "state": "ND",
-          "country": "USA"
-        },
-        {
-          "city": "Cedar Rapids",
-          "state": "IA",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-09-03",
-        "discovered": "2026-09-03",
-        "last_verified": "2026-10-08"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
       "id": "national-information-solutions-cooperative-data-engineer-intern-2027",
       "company": {
         "name": "National Information Solutions Cooperative",
@@ -175869,7 +175916,7 @@
       },
       "role": "Data Engineer Intern",
       "category": "data-engineering",
-      "apply_url": "https://job-boards.greenhouse.io/nisc/jobs/8167858",
+      "apply_url": "https://job-boards.greenhouse.io/testnisc/jobs/8167883",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
@@ -176414,7 +176461,7 @@
         "discovered": "2026-09-16",
         "last_verified": "2026-10-08"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -185585,7 +185632,7 @@
         "discovered": "2026-10-07",
         "last_verified": "2026-10-08"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -224884,6 +224931,112 @@
     },
     {
       "schema_version": "1.0",
+      "id": "roblox-2027-applied-scientist-phd-intern-2027",
+      "company": {
+        "name": "Roblox",
+        "slug": "roblox",
+        "career_page": "https://careers.roblox.com/"
+      },
+      "role": "[2027] Applied Scientist - PhD Intern",
+      "category": "software-engineering",
+      "apply_url": "https://careers.roblox.com/jobs/8242621?gh_jid=8242621",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Mateo",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-08",
+        "discovered": "2026-10-08",
+        "last_verified": "2026-10-08"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "roblox-2027-data-scientist-phd-intern-2027",
+      "company": {
+        "name": "Roblox",
+        "slug": "roblox",
+        "career_page": "https://careers.roblox.com/"
+      },
+      "role": "[2027] Data Scientist - PhD Intern",
+      "category": "data-science",
+      "apply_url": "https://careers.roblox.com/jobs/8242619?gh_jid=8242619",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Mateo",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-08",
+        "discovered": "2026-10-08",
+        "last_verified": "2026-10-08"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "roblox-product-management-intern-2027",
       "company": {
         "name": "Roblox",
@@ -231628,9 +231781,9 @@
       "dates": {
         "posted": "2026-10-01",
         "discovered": "2026-10-02",
-        "last_verified": "2026-10-07"
+        "last_verified": "2026-10-08"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -233256,7 +233409,7 @@
         "discovered": "2026-10-01",
         "last_verified": "2026-10-08"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -237806,6 +237959,110 @@
       "dates": {
         "posted": "2026-09-18",
         "discovered": "2026-09-19",
+        "last_verified": "2026-10-08"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "rugged-robotics-electrical-engineer-intern-co-op-2027",
+      "company": {
+        "name": "Rugged Robotics",
+        "slug": "rugged-robotics"
+      },
+      "role": "Electrical Engineer Intern Co-op",
+      "category": "software-engineering",
+      "apply_url": "https://job-boards.greenhouse.io/ruggedrobotics/jobs/4724214005",
+      "season": "spring",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Houston",
+          "state": "TX",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-08",
+        "discovered": "2026-10-08",
+        "last_verified": "2026-10-08"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "rugged-robotics-robotics-software-intern-co-op-2027",
+      "company": {
+        "name": "Rugged Robotics",
+        "slug": "rugged-robotics"
+      },
+      "role": "Robotics Software Intern Co-op",
+      "category": "software-engineering",
+      "apply_url": "https://job-boards.greenhouse.io/ruggedrobotics/jobs/4730908005",
+      "season": "spring",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Houston",
+          "state": "TX",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-08",
+        "discovered": "2026-10-08",
         "last_verified": "2026-10-08"
       },
       "status": "open",
@@ -248453,7 +248710,7 @@
         "discovered": "2026-10-01",
         "last_verified": "2026-10-08"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -248505,7 +248762,7 @@
         "discovered": "2026-10-01",
         "last_verified": "2026-10-08"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -274039,7 +274296,7 @@
         "discovered": "2026-09-20",
         "last_verified": "2026-10-08"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -285267,6 +285524,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "tiktok-machine-learning-engineer-intern-monetization-technology-ads-2027",
+      "company": {
+        "name": "TikTok",
+        "slug": "tiktok"
+      },
+      "role": "Machine Learning Engineer Intern - Monetization Technology - Ads Core Global",
+      "category": "machine-learning",
+      "apply_url": "https://lifeattiktok.com/search/7687630614472149301",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-08",
+        "discovered": "2026-10-08",
+        "last_verified": "2026-10-08"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "tiktok-machine-learning-engineer-intern-performance-monetization-2027-f89997",
       "company": {
         "name": "TikTok",
@@ -286428,7 +286737,7 @@
         "discovered": "2026-08-06",
         "last_verified": "2026-10-08"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -296118,7 +296427,7 @@
         "discovered": "2026-09-08",
         "last_verified": "2026-10-08"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -311225,7 +311534,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "waymo-2027-summer-intern-phd-machine-learning-computer-vision-2027-d604ce",
+      "id": "waymo-2027-summer-intern-phd-machine-learning-computer-vision-2027",
       "company": {
         "name": "Waymo",
         "slug": "waymo",
@@ -311273,65 +311582,6 @@
       },
       "dates": {
         "posted": "2026-09-16",
-        "discovered": "2026-09-16",
-        "last_verified": "2026-10-08"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:ats"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "waymo-2027-summer-intern-phd-machine-learning-computer-vision-2027",
-      "company": {
-        "name": "Waymo",
-        "slug": "waymo",
-        "career_page": "https://waymo.com/careers"
-      },
-      "role": "2027 Summer Intern, PhD, Machine Learning, Computer Vision",
-      "category": "machine-learning",
-      "apply_url": "https://careers.withwaymo.com/jobs?gh_jid=8193295",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Mountain View",
-          "country": "USA"
-        },
-        {
-          "city": "Mountain View",
-          "state": "CA",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [
-          "phd"
-        ],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-09-10",
         "discovered": "2026-09-10",
         "last_verified": "2026-10-08"
       },
@@ -311899,6 +312149,60 @@
         "last_verified": "2026-09-29"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "waymo-summer-intern-multiple-teams-2027",
+      "company": {
+        "name": "Waymo",
+        "slug": "waymo"
+      },
+      "role": "Summer Intern - Multiple Teams",
+      "category": "software-engineering",
+      "apply_url": "https://careers.withwaymo.com/jobs?gh_jid=8193295",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Mountain View",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-11",
+        "discovered": "2026-10-08",
+        "last_verified": "2026-10-08"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
