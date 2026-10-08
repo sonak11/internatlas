@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "state-affairs-software-engineer-intern-2027",
+  "id": "motorola-software-engineer-intern-2027-85ef53",
   "company": {
-    "name": "State Affairs",
-    "slug": "state-affairs"
+    "name": "Motorola",
+    "slug": "motorola"
   },
   "role": "Software Engineer Intern",
   "category": "software-engineering",
-  "apply_url": "https://job-boards.greenhouse.io/stateaffairs/jobs/4437430009",
+  "apply_url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Westminster-CO/Software-Engineer---Summer-2027-Internship_R68997",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Washington",
-      "state": "DC",
+      "city": "Westminster",
+      "state": "CO",
       "country": "USA"
     }
   ],
@@ -46,7 +46,7 @@
     "discovered": "2026-10-08",
     "last_verified": "2026-10-08"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

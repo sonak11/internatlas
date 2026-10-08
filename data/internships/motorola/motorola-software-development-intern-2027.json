@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "state-affairs-software-engineer-intern-2027",
+  "id": "motorola-software-development-intern-2027",
   "company": {
-    "name": "State Affairs",
-    "slug": "state-affairs"
+    "name": "Motorola",
+    "slug": "motorola"
   },
-  "role": "Software Engineer Intern",
+  "role": "Software Development Intern",
   "category": "software-engineering",
-  "apply_url": "https://job-boards.greenhouse.io/stateaffairs/jobs/4437430009",
+  "apply_url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/St-Petersburg-Business-Center/Software-Development-Intern---Summer-2027-Internship_R68576",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Washington",
-      "state": "DC",
+      "city": "St. Petersburg",
+      "state": "FL",
       "country": "USA"
     }
   ],
@@ -26,7 +26,8 @@
   "eligibility": {
     "graduation_years": [],
     "degree_levels": [
-      "masters"
+      "masters",
+      "phd"
     ],
     "citizenship_required": false,
     "security_clearance_required": false,
@@ -46,7 +47,7 @@
     "discovered": "2026-10-08",
     "last_verified": "2026-10-08"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

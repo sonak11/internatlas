@@ -8,7 +8,7 @@ _Generated 2026-10-08_
 
 | Company | Listings |
 |---|---|
-| Tesla | 216 |
+| Tesla | 217 |
 | TikTok | 173 |
 | RTX | 153 |
 | AMD | 74 |
@@ -33,7 +33,7 @@ _Generated 2026-10-08_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 3490 | `███████████████` |
+| software-engineering | 3494 | `███████████████` |
 | ai | 466 | `██` |
 | quant | 326 | `█` |
 | machine-learning | 275 | `█` |
@@ -51,6 +51,8 @@ _Generated 2026-10-08_
 
 - 2026-10-08 — **Amazon**: [Business Intelligence Engineer Intern](https://amazon.jobs/en/jobs/10553765/business-intelligence-engineer-internship-2027-us)
 - 2026-10-08 — **Amazon**: [Data Engineer Intern](https://amazon.jobs/en/jobs/10553907/data-engineer-internship-2027-us)
+- 2026-10-08 — **DoorDash**: [Software Engineer, Intern - Labs (Summer 2027)](https://job-boards.greenhouse.io/doordashusa/jobs/8263774)
+- 2026-10-08 — **Tesla**: [Data Analyst Intern - People Products](https://www.tesla.com/careers/search/job/286085)
 - 2026-10-08 — **TikTok**: [Machine Learning Engineer Intern](https://lifeattiktok.com/search/7694045969156426037)
 - 2026-10-08 — **TikTok**: [Machine Learning Engineer Intern](https://lifeattiktok.com/search/7694045967754889477)
 - 2026-10-08 — **TikTok**: [Machine Learning Engineer Intern](https://lifeattiktok.com/search/7694044547207268661)
@@ -67,8 +69,6 @@ _Generated 2026-10-08_
 - 2026-10-07 — **Dow Jones**: [Data Analyst Intern](https://dowjones.wd1.myworkdayjobs.com/en-US/Dow_Jones_Career/job/NYC---1211-Ave-of-the-Americas/Summer-2027-Internship-Program---Data-Analyst-Intern_Job_Req_55893)
 - 2026-10-07 — **Dow Jones**: [Marketing Data Science Intern](https://dowjones.wd1.myworkdayjobs.com/en-US/Dow_Jones_Career/job/NYC---1211-Ave-of-the-Americas/Summer-2027-Internship-Program---Marketing-Data-Science-Intern_Job_Req_55876)
 - 2026-10-07 — **Dow Jones**: [Research Analyst Intern](https://dowjones.wd1.myworkdayjobs.com/en-US/Dow_Jones_Career/job/Houston-TX---OPIS/Summer-2027-Internship-Program---Research-Analyst-Intern_Job_Req_55873)
-- 2026-10-07 — **Dow Jones**: [Research Analyst Intern](https://dowjones.wd1.myworkdayjobs.com/en-US/Dow_Jones_Career/job/Houston-TX---OPIS/Summer-2027-Internship-Program---Research-Analyst-Intern_Job_Req_55872)
-- 2026-10-07 — **Dow Jones**: [Software Engineer Intern](https://dowjones.wd1.myworkdayjobs.com/en-US/Dow_Jones_Career/job/NYC---1211-Ave-of-the-Americas/Summer-2027-Internship-Program---Software-Engineering-Intern_Job_Req_55891)
 
 ## Recently closed
 
@@ -296,6 +296,8 @@ _Generated 2026-10-08_
 - Dexmate — Frontend Engineer Intern
 - Dropbox — Software Engineer Intern - Summer 2027
 - Dropbox — Software Engineering Intern (Summer 2027)
+- Duolingo — Associate Product Manager Intern
+- Duolingo — Associate Product Manager, Intern
 - Duolingo — Software Engineer Intern
 - Duolingo — Software Engineer, Intern
 - Duolingo — Software Engineer Intern - Thrive
@@ -332,7 +334,9 @@ _Generated 2026-10-08_
 - Figma — Brand Design Intern (Summer 2027)
 - Figma — Software Engineer Intern (Winter 2027)
 - Figma — Software Engineer Intern - Winter 2027
+- First Citizens BancShares — IT Intern - Software Developer
 - First Citizens BancShares — Quantitative Analysis Intern - Quantitative Analysis
+- First Citizens BancShares — Summer Intern - Sales Performance & Analytics Strategy
 - Flow Traders — Quantitative Trading Intern
 - Formlabs — Electrical Engineering Intern - Winter/Spring 2027
 - Formlabs — R&D Print Process Engineering Intern - Winter/Spring 2027
@@ -370,28 +374,8 @@ _Generated 2026-10-08_
 - Geotab — Vehicle Systems Engineering Intern - Winter/January 2027 - 4, 8 Months
 - GlobalFoundries — Design Application Engineering Intern
 - GlobalFoundries — Silicon Photonics Advanced Packaging Intern
-- Goldman Sachs — Associate Intern - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Associate Intern - Asset and Wealth Management
-- Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Americas
-- Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Investment Banking
-- Goldman Sachs — Quantitative Strats Analyst Intern - Americas - Investment Banking
-- Goldman Sachs — Summer Analyst Intern
 - Goldman Sachs — Summer Analyst Intern - Americas - Engineering
-- Goldman Sachs — Summer Analyst Intern - Americas - Investment Banking Quantitative Strats
 - Goldman Sachs — Summer Analyst Intern - Engineering
-- Goldman Sachs — Summer Analyst Intern - Engineering
-- Goldman Sachs — Summer Analyst Intern - Engineering
-- Goldman Sachs — Summer Analyst Intern - FICC and Equities - Sales and Trading
-- Goldman Sachs — Summer Analyst Intern - The Core Quantitative Strats
-- Goldman Sachs — Summer Associate Intern
-- Goldman Sachs — Summer Associate Intern - Multiple Teams
 - Google — Product Manager Intern - Summer 2027
 - Google — Research Scientist PhD Intern
 - Google — Software Engineer Intern - Multiple Teams
@@ -422,6 +406,7 @@ _Generated 2026-10-08_
 - Innovative Defense Technologies — Software Engineer Intern
 - Intact — AI Developer Intern Co-op
 - Intact — AI Developer Intern Co-op - Winter 2027
+- Intact — Android Developer Intern Co-op - Winter 2027
 - Intact — Artificial Intelligence Developer Intern Co-op - Winter 2027
 - Intact — Data Analyst Intern Co-op - Winter 2027
 - Intact — Data Engineering Developer Intern Co-op - Winter 2027
@@ -560,6 +545,7 @@ _Generated 2026-10-08_
 - Microsoft — Silicon Engineer Intern
 - Microsoft — Silicon Engineering Intern - 6-month Program
 - Microsoft — Software Engineer Intern
+- Microsoft — Software Engineer Security & Identity Intern
 - Momentive — Environmental Protection Intern
 - Momentive — Product Management Intern - Specialty Additives
 - Momentive — Web Content Support and Administration Intern
@@ -688,6 +674,7 @@ _Generated 2026-10-08_
 - Regions Bank — Technology, Operations, Digital, and Data Analytics Intern
 - Renesas Electronics — Analog Intern
 - Renesas Electronics — Analog Intern
+- Renesas Electronics — Analog Intern
 - Renesas Electronics — Validation Intern
 - Repsol — Energy Assessment Intern
 - Repsol — GIS Intern
@@ -727,6 +714,7 @@ _Generated 2026-10-08_
 - RTX — Business Development Intern
 - RTX — Business Intelligence and Governance Analyst Intern
 - RTX — Conversion Systems Engineer 1 Intern
+- RTX — Customer Data Management and Analysis Intern
 - RTX — Digital Support & Business Intelligence Intern - Computer Science
 - RTX — Digital Transformation of Aeronautic Manufacturing Intern
 - RTX — Electrical Design Engineer Intern
@@ -783,11 +771,17 @@ _Generated 2026-10-08_
 - Snowflake — Software Engineer Intern - Database Engineering
 - Somerce — Data Operations Intern
 - SOTI — Software Developer Intern
+- Southwest Airlines — Customer Experience and Analytics Data Science Intern
+- Southwest Airlines — Data Engineer Intern
+- Southwest Airlines — Digital Product Intern
+- Southwest Airlines — Digital Testing & Optimization Intern
+- Southwest Airlines — Safety Analytics Intern
 - Space Dynamics Laboratory — FPGA Electrical Engineer Intern - Civil & Commercial Space Division
 - Space Dynamics Laboratory — Software Engineer Intern - AI Enabled Software Development
 - Space Dynamics Laboratory — Software Engineer Intern - Software, AI, & Machine Learning
 - Spirit AeroSystems — Data Analytics Intern - Production & Industrial Engineering - Paid
 - Spirit AeroSystems — Programmer Analyst / Developer Intern - IDT&S
+- State Affairs — Software Engineer Intern
 - Stryten — Electrical Engineer Intern
 - Super — Data Analytics Intern
 - T. Rowe Price — Quantitative Equity Investing Intern
@@ -910,6 +904,7 @@ _Generated 2026-10-08_
 - Westinghouse Electric Company — Finance Analyst Intern
 - Williams-Sonoma — Merchandising Intern
 - Wipfli — Data and Analytics Consulting Intern - Summer 2027
+- Workato — Intern AI Engineering
 - Xaira Therapeutics — AI Scientist Intern - Computational Protein Design
 - Xcel Energy — AI Solutions Development Intern
 - Xpansiv — Product Management Intern - AI Products
