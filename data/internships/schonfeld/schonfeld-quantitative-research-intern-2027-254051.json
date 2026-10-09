@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "rtx-software-engineer-intern-2027-e29389",
+  "id": "schonfeld-quantitative-research-intern-2027-254051",
   "company": {
-    "name": "RTX",
-    "slug": "rtx"
+    "name": "Schonfeld",
+    "slug": "schonfeld"
   },
-  "role": "Software Engineer Intern",
-  "category": "software-engineering",
-  "apply_url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-CAMBRIDGE-BBN06--10--50-Moulton-St--MOULTON-B6/Software-Engineer-Intern--Summer-2027----Onsite_01873017",
+  "role": "Quantitative Research Intern",
+  "category": "quant",
+  "apply_url": "https://job-boards.greenhouse.io/schonfeld/jobs/8267120",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Cambridge",
-      "state": "MA",
+      "city": "Austin",
+      "state": "TX",
       "country": "USA"
     }
   ],
@@ -43,8 +43,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-19",
-    "discovered": "2026-10-06",
+    "posted": "2026-10-09",
+    "discovered": "2026-10-09",
     "last_verified": "2026-10-09"
   },
   "status": "open",

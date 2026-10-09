@@ -1,17 +1,22 @@
 {
   "schema_version": "1.0",
-  "id": "pinterest-ux-quantitative-research-intern-2027",
+  "id": "mufg-summer-analyst-programme-global-markets-intern-markets-engin-2027",
   "company": {
-    "name": "Pinterest",
-    "slug": "pinterest"
+    "name": "MUFG",
+    "slug": "mufg"
   },
-  "role": "UX Quantitative Research Intern",
-  "category": "quant",
-  "apply_url": "https://www.pinterestcareers.com/jobs/?gh_jid=8140217",
+  "role": "Summer Analyst Programme: Global Markets Intern - Markets Engineering",
+  "category": "software-engineering",
+  "apply_url": "https://mufgub.wd3.myworkdayjobs.com/mufg-earlycareers/job/London/XMLNAME-2027-MUFG-UK-Summer-Analyst-Programme--Global-Markets---Markets-Engineering_10080069-WD",
   "season": "summer",
   "year": 2027,
-  "work_mode": "remote",
-  "locations": [],
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "London",
+      "country": "UK"
+    }
+  ],
   "compensation": {
     "currency": "USD",
     "housing_stipend": false,
@@ -34,8 +39,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-10-01",
-    "discovered": "2026-10-03",
+    "posted": "2026-10-09",
+    "discovered": "2026-10-09",
     "last_verified": "2026-10-09"
   },
   "status": "open",
