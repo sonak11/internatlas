@@ -6,12 +6,12 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
+| Schonfeld | [Business Analytics Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8171703) | NYC | Onsite | 2026-09-04 | Rolling | 🟢 Open | ❔ |
 | Schonfeld | [Quant Developer Intern - Discretionary Macro Fixed Income](https://job-boards.greenhouse.io/schonfeld/jobs/8207942) | London | Onsite | 2026-09-16 | Rolling | 🟢 Open | ❔ |
 | Schonfeld | [Quantitative Research Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8172076) | Miami, FL | Onsite | 2026-09-04 | Rolling | 🟢 Open | ❔ |
 | Schonfeld | [Quantitative Research Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8172074) | NYC | Onsite | 2026-09-04 | Rolling | 🟢 Open | ❔ |
 | Schonfeld | [Quantitative Researcher Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8187178) | London | Onsite | 2026-09-08 | Rolling | 🟢 Open | ❔ |
 | Schonfeld | [Systematic COO Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8172059) | NYC | Onsite | 2026-09-04 | Rolling | 🟢 Open | ❔ |
-| Schonfeld | [Business Analytics Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8171703) | NYC | Onsite | 2026-09-04 | Rolling | 🔴 Closed | ❔ |
 | Schonfeld | [Data Science Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8171692) | NYC | Onsite | 2026-09-04 | Rolling | 🔴 Closed | ❔ |
 | Schonfeld | [Fixed Income Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8172055) | NYC | Onsite | 2026-09-04 | Rolling | 🔴 Closed | ❔ |
 | Schonfeld | [Risk Analyst Intern - DMFI](https://job-boards.greenhouse.io/schonfeld/jobs/8172053) | London | Onsite | 2026-09-04 | Rolling | 🔴 Closed | ❔ |

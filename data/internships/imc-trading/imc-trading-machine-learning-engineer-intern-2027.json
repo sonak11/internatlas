@@ -1,18 +1,21 @@
 {
   "schema_version": "1.0",
-  "id": "imc-trading-machine-learning-engineer-intern-summer-2027-2027",
+  "id": "imc-trading-machine-learning-engineer-intern-2027",
   "company": {
     "name": "IMC Trading",
-    "slug": "imc-trading",
-    "career_page": "https://www.imc.com/us/careers"
+    "slug": "imc-trading"
   },
-  "role": "Machine Learning Engineer Intern - Summer 2027",
+  "role": "Machine Learning Engineer Intern",
   "category": "machine-learning",
   "apply_url": "https://job-boards.eu.greenhouse.io/imc/jobs/4962456101",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
+    {
+      "city": "NYC",
+      "country": "USA"
+    },
     {
       "city": "New York",
       "country": "USA"
@@ -41,12 +44,12 @@
   },
   "dates": {
     "posted": "2026-10-08",
-    "discovered": "2026-10-08",
-    "last_verified": "2026-10-08"
+    "discovered": "2026-10-09",
+    "last_verified": "2026-10-09"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:ats"
+    "src:simplify"
   ]
 }
