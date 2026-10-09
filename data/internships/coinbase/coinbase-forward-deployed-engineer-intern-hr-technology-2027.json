@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "marvell-advanced-packaging-intern-2027",
+  "id": "coinbase-forward-deployed-engineer-intern-hr-technology-2027",
   "company": {
-    "name": "Marvell",
-    "slug": "marvell"
+    "name": "Coinbase",
+    "slug": "coinbase",
+    "career_page": "https://www.coinbase.com/careers"
   },
-  "role": "Advanced Packaging Intern",
+  "role": "Forward Deployed Engineer Intern (HR Technology)",
   "category": "software-engineering",
-  "apply_url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Burlington-VT/Advanced-Packaging-Intern--BS---Summer-2027_2604156-1",
+  "apply_url": "https://www.coinbase.com/careers/positions/8175510?gh_jid=8175510",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Burlington",
-      "state": "VT",
+      "city": "Hybrid",
       "country": "USA"
     }
   ],
@@ -25,9 +25,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -42,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-08",
-    "discovered": "2026-09-05",
+    "posted": "2026-10-09",
+    "discovered": "2026-10-09",
     "last_verified": "2026-10-09"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:ats"
   ]
 }

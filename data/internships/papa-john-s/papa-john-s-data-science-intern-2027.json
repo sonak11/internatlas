@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "databricks-product-management-intern-2026-belgrade-2027",
+  "id": "papa-john-s-data-science-intern-2027",
   "company": {
-    "name": "Databricks",
-    "slug": "databricks",
-    "career_page": "https://www.databricks.com/company/careers/university-recruiting"
+    "name": "Papa John's",
+    "slug": "papa-john-s"
   },
-  "role": "Product Management Intern (2026) - Belgrade",
-  "category": "product",
-  "apply_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8863328002",
+  "role": "Data Science Intern",
+  "category": "data-science",
+  "apply_url": "https://papajohns.wd1.myworkdayjobs.com/papajohnscareers/job/HQ_Atlanta/XMLNAME-2027-Summer-Intern---Data-Science_R26_0000002157",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Belgrade",
+      "city": "Atlanta",
+      "state": "GA",
       "country": "USA"
     }
   ],
@@ -40,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-10-02",
-    "discovered": "2026-10-02",
+    "posted": "2026-10-09",
+    "discovered": "2026-10-09",
     "last_verified": "2026-10-09"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:ats"
+    "src:simplify"
   ]
 }

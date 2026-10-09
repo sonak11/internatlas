@@ -1,20 +1,21 @@
 {
   "schema_version": "1.0",
-  "id": "marvell-advanced-packaging-intern-2027",
+  "id": "doordash-software-engineer-intern-labs-summer-2027-2027",
   "company": {
-    "name": "Marvell",
-    "slug": "marvell"
+    "name": "DoorDash",
+    "slug": "doordash",
+    "career_page": "https://careers.doordash.com/"
   },
-  "role": "Advanced Packaging Intern",
+  "role": "Software Engineer, Intern - Labs (Summer 2027)",
   "category": "software-engineering",
-  "apply_url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Burlington-VT/Advanced-Packaging-Intern--BS---Summer-2027_2604156-1",
+  "apply_url": "https://job-boards.greenhouse.io/doordashusa/jobs/8263774",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Burlington",
-      "state": "VT",
+      "city": "San Francisco",
+      "state": "CA",
       "country": "USA"
     }
   ],
@@ -25,9 +26,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -42,13 +41,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-08",
-    "discovered": "2026-09-05",
+    "posted": "2026-10-08",
+    "discovered": "2026-10-09",
     "last_verified": "2026-10-09"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:ats"
   ]
 }

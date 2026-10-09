@@ -1,12 +1,12 @@
 {
   "schema_version": "1.0",
-  "id": "databricks-product-management-intern-2026-amsterdam-2027",
+  "id": "databricks-product-management-intern-2027-amsterdam-2027",
   "company": {
     "name": "Databricks",
     "slug": "databricks",
     "career_page": "https://www.databricks.com/company/careers/university-recruiting"
   },
-  "role": "Product Management Intern (2026) - Amsterdam",
+  "role": "Product Management Intern (2027) - Amsterdam",
   "category": "product",
   "apply_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8133715002",
   "season": "summer",
@@ -41,7 +41,7 @@
   },
   "dates": {
     "posted": "2025-08-29",
-    "discovered": "2026-10-02",
+    "discovered": "2026-10-09",
     "last_verified": "2026-10-09"
   },
   "status": "open",

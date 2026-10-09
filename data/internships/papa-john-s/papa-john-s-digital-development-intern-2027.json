@@ -1,24 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "doordash-software-engineer-intern-2027-fef855",
+  "id": "papa-john-s-digital-development-intern-2027",
   "company": {
-    "name": "DoorDash",
-    "slug": "doordash"
+    "name": "Papa John's",
+    "slug": "papa-john-s"
   },
-  "role": "Software Engineer Intern",
+  "role": "Digital Development Intern",
   "category": "software-engineering",
-  "apply_url": "https://job-boards.greenhouse.io/doordashusa/jobs/8263774",
+  "apply_url": "https://papajohns.wd1.myworkdayjobs.com/papajohnscareers/job/HQ_Atlanta/XMLNAME-2027-Summer-Intern---Digital-Development_R26_0000002155",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "SF",
-      "country": "USA"
-    },
-    {
-      "city": "Sunnyvale",
-      "state": "CA",
+      "city": "Atlanta",
+      "state": "GA",
       "country": "USA"
     }
   ],
@@ -29,9 +25,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -46,11 +40,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-10-08",
-    "discovered": "2026-10-08",
-    "last_verified": "2026-10-08"
+    "posted": "2026-10-09",
+    "discovered": "2026-10-09",
+    "last_verified": "2026-10-09"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

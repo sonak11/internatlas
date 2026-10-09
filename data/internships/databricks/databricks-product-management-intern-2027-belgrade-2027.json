@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "marvell-advanced-packaging-intern-2027",
+  "id": "databricks-product-management-intern-2027-belgrade-2027",
   "company": {
-    "name": "Marvell",
-    "slug": "marvell"
+    "name": "Databricks",
+    "slug": "databricks",
+    "career_page": "https://www.databricks.com/company/careers/university-recruiting"
   },
-  "role": "Advanced Packaging Intern",
-  "category": "software-engineering",
-  "apply_url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Burlington-VT/Advanced-Packaging-Intern--BS---Summer-2027_2604156-1",
+  "role": "Product Management Intern (2027) - Belgrade",
+  "category": "product",
+  "apply_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8863328002",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Burlington",
-      "state": "VT",
+      "city": "Belgrade",
       "country": "USA"
     }
   ],
@@ -25,9 +25,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -42,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-08",
-    "discovered": "2026-09-05",
+    "posted": "2026-10-02",
+    "discovered": "2026-10-09",
     "last_verified": "2026-10-09"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:ats"
   ]
 }
