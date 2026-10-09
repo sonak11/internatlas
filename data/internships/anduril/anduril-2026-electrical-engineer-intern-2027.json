@@ -1,20 +1,21 @@
 {
   "schema_version": "1.0",
-  "id": "goldman-sachs-quantitative-strategist-intern-asset-and-wealth-management-q-2027-0ac951",
+  "id": "anduril-2026-electrical-engineer-intern-2027",
   "company": {
-    "name": "Goldman Sachs",
-    "slug": "goldman-sachs"
+    "name": "Anduril",
+    "slug": "anduril",
+    "career_page": "https://www.anduril.com/careers"
   },
-  "role": "Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats",
-  "category": "quant",
-  "apply_url": "https://higher.gs.com/roles/175421?type=students",
+  "role": "2026 Electrical Engineer Intern",
+  "category": "hardware",
+  "apply_url": "https://boards.greenhouse.io/andurilindustries/jobs/5261873007?gh_jid=5261873007",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "London",
-      "country": "UK"
+      "city": "Sydney",
+      "country": "USA"
     }
   ],
   "compensation": {
@@ -39,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-15",
-    "discovered": "2026-10-06",
-    "last_verified": "2026-10-08"
+    "posted": "2026-10-08",
+    "discovered": "2026-10-09",
+    "last_verified": "2026-10-09"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:ats"
   ]
 }
