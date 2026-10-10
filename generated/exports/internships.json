@@ -1,6 +1,6 @@
 {
   "generated": "2026-10-10",
-  "count": 6003,
+  "count": 6004,
   "internships": [
     {
       "schema_version": "1.0",
@@ -113697,7 +113697,7 @@
         "discovered": "2026-08-27",
         "last_verified": "2026-10-10"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -113802,7 +113802,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-10-10"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -113855,7 +113855,7 @@
         "discovered": "2026-10-07",
         "last_verified": "2026-10-10"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -113908,7 +113908,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-10-10"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -113960,7 +113960,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-10"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -114012,7 +114012,7 @@
         "discovered": "2026-10-06",
         "last_verified": "2026-10-10"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -114066,7 +114066,7 @@
         "discovered": "2026-09-16",
         "last_verified": "2026-10-10"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -114119,7 +114119,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-10"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -114170,7 +114170,7 @@
         "discovered": "2026-10-10",
         "last_verified": "2026-10-10"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -114224,7 +114224,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-10"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -114275,7 +114275,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-10"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -114326,7 +114326,7 @@
         "discovered": "2026-10-10",
         "last_verified": "2026-10-10"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -114377,7 +114377,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-10-10"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -114429,7 +114429,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-10"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -114480,7 +114480,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-10"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -114689,7 +114689,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-10"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -114797,7 +114797,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-10"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -114851,7 +114851,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-10-10"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -114953,7 +114953,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-10"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -115108,7 +115108,7 @@
         "discovered": "2026-08-29",
         "last_verified": "2026-10-10"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -115161,7 +115161,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-10-10"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -237129,6 +237129,60 @@
         "last_verified": "2026-10-02"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "rtx-software-engineer-intern-2027-0a9120",
+      "company": {
+        "name": "RTX",
+        "slug": "rtx"
+      },
+      "role": "Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-MELBOURNE-312--795-W-Nasa-Blvd--BLDG-312/Software-Engineering-Intern--Summer-2027-_01876918",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Melbourne",
+          "state": "FL",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-09",
+        "discovered": "2026-10-10",
+        "last_verified": "2026-10-10"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
