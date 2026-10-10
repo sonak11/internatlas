@@ -433,6 +433,7 @@ _Generated 2026-10-10_
 - Intelcom \| Dragonfly — Full-Stack Developer Intern - Route Optimization
 - Intelcom \| Dragonfly — R&D Solution Builder Intern
 - Intelcom \| Dragonfly — Routing Data Analytics & Optimization Intern
+- Interstates — Data Analyst Intern
 - Intuit — Fraud & Risk Intern
 - Invesco — Early Career Intern - Digital Asset Product
 - Invesco — Early Career Intern - Digital Asset Product
