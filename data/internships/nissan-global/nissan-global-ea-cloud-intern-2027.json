@@ -1,21 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "waymo-2026-summer-intern-phd-research-world-modeling-evaluation-2027",
+  "id": "nissan-global-ea-cloud-intern-2027",
   "company": {
-    "name": "Waymo",
-    "slug": "waymo",
-    "career_page": "https://waymo.com/careers"
+    "name": "Nissan Global",
+    "slug": "nissan-global"
   },
-  "role": "2026 Summer Intern, PhD, Research, World Modeling Evaluation",
-  "category": "research",
-  "apply_url": "https://careers.withwaymo.com/jobs?gh_jid=8265173",
+  "role": "EA & Cloud Intern",
+  "category": "cloud",
+  "apply_url": "https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Franklin-Tennessee---United-States-of-America/EA---Cloud-Intern---Summer-2027---Franklin--TN_R00214214",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Mountain View",
-      "state": "CA",
+      "city": "Franklin",
+      "state": "TN",
       "country": "USA"
     }
   ],
@@ -41,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-10-08",
-    "discovered": "2026-10-08",
-    "last_verified": "2026-10-09"
+    "posted": "2026-10-09",
+    "discovered": "2026-10-10",
+    "last_verified": "2026-10-10"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:ats"
+    "src:simplify"
   ]
 }
