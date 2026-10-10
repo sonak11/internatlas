@@ -11,7 +11,7 @@ _Generated 2026-10-10_
 | Tesla | 218 |
 | TikTok | 176 |
 | RTX | 159 |
-| AMD | 75 |
+| AMD | 77 |
 | Marvell | 73 |
 | ByteDance | 70 |
 | American Express | 67 |
@@ -33,13 +33,13 @@ _Generated 2026-10-10_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 3559 | `███████████████` |
+| software-engineering | 3561 | `███████████████` |
 | ai | 479 | `██` |
 | quant | 330 | `█` |
 | machine-learning | 280 | `█` |
 | data-science | 237 | `█` |
 | hardware | 227 | `█` |
-| product | 199 | `█` |
+| product | 200 | `█` |
 | research | 191 | `█` |
 | design | 161 | `█` |
 | embedded | 144 | `█` |
@@ -92,6 +92,8 @@ _Generated 2026-10-10_
 - Altice USA — Data Engineer Intern
 - Amazon — Applied Science Intern - Reinforcement Learning & Optimization - Machine Learning
 - AMD — AI Engineering Intern
+- AMD — AI Systems & GPU Performance Engineer Intern
+- AMD — AI Training Systems and Performance Engineer Intern/Co-op
 - AMD — Applied Artificial Intelligence Engineering Intern - Hardware AI
 - AMD — ASIC Package Engineer Intern Co-op
 - AMD — ASIC Package Engineering Co-op/Intern
@@ -101,12 +103,10 @@ _Generated 2026-10-10_
 - AMD — Data Analyst Intern/Co-op
 - AMD — Data Analyst Intern/Co-op
 - AMD — Diagnostics Design Engineering Intern/Co-op
-- AMD — Firmware Engineer Intern/Co-op
-- AMD — Firmware Engineer Intern/Co-op - Long Term
-- AMD — Graphics Software Engineer Intern/Co-op
 - AMD — Hardware Design Engineer Intern/Co-op
 - AMD — Hardware Design Verification Engineer Co-op/Intern
 - AMD — Hardware Design Verification Engineer Co-op/Intern
+- AMD — Hardware Design Verification Engineer Intern/Co-op
 - AMD — Hardware Design Verification Engineer Intern/Co-op
 - AMD — Hardware Design Verification Engineer Intern/Co-op
 - AMD — Hardware Design Verification Engineer Intern/Co-op
@@ -118,8 +118,6 @@ _Generated 2026-10-10_
 - AMD — Optical & Photonics Engineering Intern/Co-op
 - AMD — PhD HPC & Sovereign AI Intern/Co-op
 - AMD — Product Development Engineer Intern/Co-op
-- AMD — Product Management Intern/Co-op - Multiple Teams
-- AMD — Software Engineer Intern/Co-op
 - AMD — Software Engineer Intern/Co-op
 - AMD — Software Engineer Intern/Co-op - Masters
 - Ameren — Meteorology Intern - Crisis Management
@@ -336,7 +334,6 @@ _Generated 2026-10-10_
 - Gallup — Software Engineer Intern - Summer 2027
 - Garda Capital Partners — Trading Analyst Intern - Credit
 - Garda Capital Partners — Trading Analyst Intern - Rates
-- Gartner — Data Analyst Intern
 - GCI — Telecommunications Intern - Computer Science/Data Analytics
 - GCM Grosvenor — Fund Data Reporting and Analytics Intern
 - GE Aerospace — Applied AI Intern
@@ -427,6 +424,7 @@ _Generated 2026-10-10_
 - Jabil — Operations Analytics & Reporting Intern
 - Jabil — Server Platform Intern
 - John Deere — Data & Analytics Intern
+- John Deere — Information Technology Intern - Technology
 - Johns Hopkins Applied Physics Laboratory — Artificial Intelligence and Machine Learning Intern - Research Assistant
 - Johns Hopkins Applied Physics Laboratory — Decision Science Intern - Software Engineer
 - Johns Hopkins Applied Physics Laboratory — Engineer/Scientist Intern - Health Systems and Human-Machine Systems
@@ -538,6 +536,7 @@ _Generated 2026-10-10_
 - Micron Technology — Marketing Analytics Intern - Global Communications & Marketing
 - Micron Technology — Technical Customer Management Intern - AI
 - Microsoft — Electrical Engineer Intern - 6-Month Program
+- Microsoft — Firmware Engineer Intern
 - Microsoft — Full-Stack Product Engineer Intern - Web + Services
 - Microsoft — Hardware Engineering Intern
 - Microsoft — Product Manager Intern
@@ -571,6 +570,7 @@ _Generated 2026-10-10_
 - National Life — Strategic Operations Analyst Intern
 - Nationwide — Analytic Consulting Advisor Intern
 - Nationwide — Generative AI Intern
+- Nationwide — Personal Lines Business Insights Intern
 - Nationwide — Personal Lines Sales Business Analyst Intern
 - Navy Federal — Associate Intern
 - Navy Federal — Product Strategist Intern
@@ -594,7 +594,10 @@ _Generated 2026-10-10_
 - Northrop Grumman — Software Digital Intern
 - Northrop Grumman — Software Engineer Intern
 - Northrop Grumman — Software Engineer Intern
+- Northrop Grumman — Software Engineer Intern
+- Northrop Grumman — Software Engineer Intern
 - Northrop Grumman — Software Engineer Intern - Aeronautics Systems
+- Northrop Grumman — Test Engineer Intern
 - Northwestern Mutual — Actuarial Systems Intern
 - Northwestern Mutual — Investment Data & Analytics Intern
 - Northwestern Mutual — Quantitative Analyst Intern - Public Investments
@@ -642,6 +645,7 @@ _Generated 2026-10-10_
 - Palomar Holdings — Technical Intern
 - Patch My PC — Software Engineer Intern
 - PathAI — Machine Learning Intern/Co-op
+- Penta Group — Monitoring & Insights Intern
 - Philips — AI Engineer Intern - Enterprise AI & Workflow Automation
 - Philips — Electrical Engineer Intern
 - Philips — Service Contracts Lifecycle Operations Intern
@@ -839,6 +843,7 @@ _Generated 2026-10-10_
 - The Walt Disney Company — Consumer Insight Data Analyst Intern
 - The Walt Disney Company — Decision Science Intern
 - The Walt Disney Company — Decision Science Intern
+- The Walt Disney Company — Marketplace & Portfolio Insights Intern - Spring 2027
 - Thea Energy — Integrated Modeling Intern
 - Thermo Fisher Scientific — Senior Operations Data Analytics Intern
 - Thrivent — Associate Software Engineer Intern
@@ -912,6 +917,7 @@ _Generated 2026-10-10_
 - Xaira Therapeutics — AI Scientist Intern - Computational Protein Design
 - Xcel Energy — AI Solutions Development Intern
 - Xsolla — AI-First Engineer Intern
+- Zions Bank — Process Automation Developer Intern
 - Zip — Software Engineer Intern
 - Zipline — Embedded Software Engineer Intern - Spring 2027
 - Zipline — Software Engineer Intern - Summer 2027

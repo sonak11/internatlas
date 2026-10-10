@@ -1,25 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "tesla-cell-engineering-intern-cell-qualification-2027",
+  "id": "thea-energy-test-engineer-intern-2027",
   "company": {
-    "name": "Tesla",
-    "slug": "tesla"
+    "name": "Thea Energy",
+    "slug": "thea-energy"
   },
-  "role": "Cell Engineering Intern - Cell Qualification",
+  "role": "Test Engineer Intern",
   "category": "software-engineering",
-  "apply_url": "https://www.tesla.com/careers/search/job/278620",
-  "season": "winter",
+  "apply_url": "https://jobs.lever.co/thea.energy/5912ba14-1003-4f4f-84f2-74f7155e49ad/apply",
+  "season": "spring",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Palo Alto",
-      "state": "CA",
-      "country": "USA"
-    },
-    {
-      "city": "San Diego",
-      "state": "CA",
+      "city": "Kearny",
+      "state": "NJ",
       "country": "USA"
     }
   ],
@@ -30,7 +25,10 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "masters",
+      "phd"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -45,8 +43,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-04",
-    "discovered": "2026-08-04",
+    "posted": "2026-08-27",
+    "discovered": "2026-10-10",
     "last_verified": "2026-10-10"
   },
   "status": "open",
