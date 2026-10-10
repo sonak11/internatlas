@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "mujin-software-integration-intern-2027",
+  "id": "databricks-product-design-intern-2027-start-2027",
   "company": {
-    "name": "Mujin",
-    "slug": "mujin"
+    "name": "Databricks",
+    "slug": "databricks",
+    "career_page": "https://www.databricks.com/company/careers/university-recruiting"
   },
-  "role": "Software Integration Intern",
-  "category": "software-engineering",
-  "apply_url": "https://mujin.bamboohr.com/careers/166/",
-  "season": "winter",
+  "role": "Product Design Intern (2027 Start)",
+  "category": "design",
+  "apply_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8787352002",
+  "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Suwanee",
-      "state": "GA",
+      "city": "San Francisco",
       "country": "USA"
     }
   ],
@@ -40,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-10",
-    "discovered": "2026-08-10",
+    "posted": "2026-10-09",
+    "discovered": "2026-10-10",
     "last_verified": "2026-10-10"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:ats"
   ]
 }

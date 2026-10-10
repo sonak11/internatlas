@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "mujin-software-integration-intern-2027",
+  "id": "workday-software-engineer-intern-2027",
   "company": {
-    "name": "Mujin",
-    "slug": "mujin"
+    "name": "Workday",
+    "slug": "workday"
   },
-  "role": "Software Integration Intern",
+  "role": "Software Engineer Intern",
   "category": "software-engineering",
-  "apply_url": "https://mujin.bamboohr.com/careers/166/",
-  "season": "winter",
+  "apply_url": "https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Software-Development-Engineer-Intern_JR-0110810",
+  "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Suwanee",
-      "state": "GA",
+      "city": "Pleasanton",
+      "state": "CA",
       "country": "USA"
     }
   ],
@@ -25,7 +25,9 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "masters"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -40,11 +42,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-10",
-    "discovered": "2026-08-10",
+    "posted": "2026-10-09",
+    "discovered": "2026-10-10",
     "last_verified": "2026-10-10"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

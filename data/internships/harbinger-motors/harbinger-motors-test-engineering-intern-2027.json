@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "mujin-software-integration-intern-2027",
+  "id": "harbinger-motors-test-engineering-intern-2027",
   "company": {
-    "name": "Mujin",
-    "slug": "mujin"
+    "name": "Harbinger Motors",
+    "slug": "harbinger-motors"
   },
-  "role": "Software Integration Intern",
+  "role": "Test Engineering Intern",
   "category": "software-engineering",
-  "apply_url": "https://mujin.bamboohr.com/careers/166/",
+  "apply_url": "https://job-boards.greenhouse.io/harbingermotors/jobs/5255968007",
   "season": "winter",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Suwanee",
-      "state": "GA",
+      "city": "Garden Grove",
+      "state": "CA",
       "country": "USA"
     }
   ],
@@ -25,7 +25,10 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "masters",
+      "phd"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -40,11 +43,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-10",
-    "discovered": "2026-08-10",
+    "posted": "2026-10-09",
+    "discovered": "2026-10-10",
     "last_verified": "2026-10-10"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

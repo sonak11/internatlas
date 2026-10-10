@@ -1,20 +1,24 @@
 {
   "schema_version": "1.0",
-  "id": "the-walt-disney-company-marketplace-portfolio-insights-intern-spring-2027-2027-8b6538",
+  "id": "workday-machine-learning-engineer-intern-2027",
   "company": {
-    "name": "The Walt Disney Company",
-    "slug": "the-walt-disney-company"
+    "name": "Workday",
+    "slug": "workday"
   },
-  "role": "Marketplace & Portfolio Insights Intern - Spring 2027",
-  "category": "software-engineering",
-  "apply_url": "https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/New-York-NY-USA/Marketplace---Portfolio-Insights-Intern--Spring-2027_10158498-1",
-  "season": "spring",
+  "role": "Machine Learning Engineer Intern",
+  "category": "machine-learning",
+  "apply_url": "https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/Canada-BC-Vancouver/Machine-Learning-Engineer-Intern_JR-0110806",
+  "season": "winter",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "NYC",
-      "country": "USA"
+      "city": "Toronto",
+      "country": "ON"
+    },
+    {
+      "city": "Vancouver",
+      "country": "BC"
     }
   ],
   "compensation": {
@@ -24,7 +28,9 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "masters"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -39,8 +45,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-29",
-    "discovered": "2026-09-29",
+    "posted": "2026-10-09",
+    "discovered": "2026-10-10",
     "last_verified": "2026-10-10"
   },
   "status": "open",

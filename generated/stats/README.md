@@ -23,32 +23,34 @@ _Generated 2026-10-10_
 | Jump Trading | 49 |
 | L3Harris Technologies | 43 |
 | Cloudflare | 40 |
-| The Walt Disney Company | 39 |
+| The Walt Disney Company | 38 |
 | Coinbase | 37 |
 | Robinhood | 37 |
+| Zipline | 36 |
 | Navy Federal | 35 |
-| Bank of Montreal | 34 |
 
 ## Listings by category
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 3554 | `███████████████` |
-| ai | 477 | `██` |
+| software-engineering | 3559 | `███████████████` |
+| ai | 479 | `██` |
 | quant | 330 | `█` |
-| machine-learning | 278 | `█` |
+| machine-learning | 280 | `█` |
 | data-science | 237 | `█` |
 | hardware | 227 | `█` |
-| product | 197 | `█` |
+| product | 199 | `█` |
 | research | 191 | `█` |
 | design | 161 | `█` |
-| embedded | 142 | `█` |
+| embedded | 144 | `█` |
 | data-engineering | 109 | `█` |
 | cloud | 59 | `█` |
 | security | 25 | `█` |
 
 ## Newest listings
 
+- 2026-10-10 — **Zipline**: [Firmware Engineer Intern](https://www.zipline.com/open-roles/8020865003?gh_jid=8020865003)
+- 2026-10-10 — **Zipline**: [Firmware Engineer Intern](https://www.zipline.com/open-roles/8020863003?gh_jid=8020863003)
 - 2026-10-09 — **Affirm**: [IT Engineer Intern - Early Careers](https://job-boards.greenhouse.io/affirm/jobs/8011375003)
 - 2026-10-09 — **AMD**: [AI Agentic Flow for GPU ASIC Design Co-op Intern](https://careers.amd.com/jobs/91341?icims=1)
 - 2026-10-09 — **American Family Insurance Group**: [Data Analyst Intern](https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/Summer-2027-Intern---Data-Analyst_R39404)
@@ -57,7 +59,7 @@ _Generated 2026-10-10_
 - 2026-10-09 — **Capstone Investment Advisors**: [Tech Execution Intern](https://job-boards.greenhouse.io/capstoneinvestmentadvisors/jobs/8882130002)
 - 2026-10-09 — **Coinbase**: [Forward Deployed Engineer Intern (HR Technology)](https://www.coinbase.com/careers/positions/8175510?gh_jid=8175510)
 - 2026-10-09 — **Coinbase**: [Forward Deployed Engineer Intern - HR Technology](https://boards.greenhouse.io/embed/job_app?token=8175510)
-- 2026-10-09 — **Databricks**: [Evergreen  - Product Design Intern (2027 Start)](https://databricks.com/company/careers/open-positions/job?gh_jid=8787352002)
+- 2026-10-09 — **Databricks**: [Product Design Intern (2027 Start)](https://databricks.com/company/careers/open-positions/job?gh_jid=8787352002)
 - 2026-10-09 — **Elanco**: [Pet Health Sales Excellence Intern - AI Innovation & Enablement](https://elanco.wd5.myworkdayjobs.com/en-US/External_Career/job/Indianapolis-IN/US-Pet-Health-Sales-Excellence-Intern---AI-Innovation---Enablement--Summer-2027-_R0027467)
 - 2026-10-09 — **Electronic Arts**: [C++ Software Engineer Intern](https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern-Summer-2027-8-months-UFC/216226)
 - 2026-10-09 — **Electronic Arts**: [Software Engineer Intern](https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern-Summer-2027-8-Months-Sports-Technology/216225)
@@ -67,8 +69,6 @@ _Generated 2026-10-10_
 - 2026-10-09 — **General Motors**: [Data Scaling Intern - Data Scaling - Embodied AI](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Data-Scaling--Embodied-AI_JR-202622132)
 - 2026-10-09 — **General Motors**: [Seam Intern - Embodied AI](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--SEAM--Embodied-AI_JR-202622143)
 - 2026-10-09 — **General Motors**: [Summer Intern - Onboard Autonomy - Embodied AI](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--Onboard-Autonomy--Embodied-AI_JR-202622135)
-- 2026-10-09 — **GlobalFoundries**: [Software Engineer Intern](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/Software-Engineering-Intern--Summer-2027-_JR-2604039)
-- 2026-10-09 — **Kyndryl**: [Marketing Intern - Marketing Analysis](https://kyndryl.wd5.myworkdayjobs.com/KyndrylEarlyCareers/job/New-York-NY-USA/Marketing-Internship--Marketing-Analysis_R-70007-1)
 
 ## Recently closed
 
@@ -140,6 +140,7 @@ _Generated 2026-10-10_
 - American Family Insurance Group — Backend Digital Sales Intern
 - American Family Insurance Group — Consumer Research and Insights Intern
 - American Family Insurance Group — Customer Analytics Intern
+- American Family Insurance Group — Data Analyst Intern
 - American Family Insurance Group — GenAI Intern
 - American Family Insurance Group — Internal Data and Analytics Intern - Summer 2027
 - Ameriprise Financial — Asset Management Technology Intern - Data Enablement
@@ -193,6 +194,7 @@ _Generated 2026-10-10_
 - Boston Scientific — Data Engineer Intern
 - Boston Scientific — Equipment Engineering Software Engineer Intern
 - Boston Scientific — R&D Firmware Engineer Intern
+- Boston Scientific — Software Development Engineer Intern
 - Boston Scientific — Software Engineer Intern - Interns/Graduates
 - Boston Scientific — Software Engineer Intern - R&D
 - Brio Water Technology — AI Automation & Business Analytics Intern - Rotational Program
@@ -218,6 +220,7 @@ _Generated 2026-10-10_
 - Capital One — Master's Data Science Internship
 - CDM Smith — Electrical Engineer Intern - Summer 2027
 - Cencora — Software Intern
+- Centene — AI Enablement Intern
 - Centene — Analytics Intern
 - Centene — Medical Economics Analyst Intern
 - Centene — Medical Economics Analyst Intern
@@ -252,6 +255,7 @@ _Generated 2026-10-10_
 - Corning — Digital & IT Intern - Manufacturing AI/ML
 - Corning — Imaging Sciences Engineer Intern
 - Corning — Vision System Intern - Summer 2027
+- Corteva — AI Engineer Intern
 - CoStar Group — Technology Intern
 - CoStar Group — Technology Intern - Multiple Teams
 - CoStar Group — Technology Intern - Summer 2027
@@ -363,7 +367,6 @@ _Generated 2026-10-10_
 - GlobalFoundries — Silicon Photonics Advanced Packaging Intern
 - Goldman Sachs — Summer Analyst Intern - Americas - Engineering
 - Goldman Sachs — Summer Analyst Intern - Engineering
-- Goldman Sachs — Summer Analyst Intern - Engineering
 - Google — Product Manager Intern - Summer 2027
 - Google — Research Scientist PhD Intern
 - Google — Software Engineer Intern - Multiple Teams
@@ -387,6 +390,7 @@ _Generated 2026-10-10_
 - Hudl — Product Management Intern
 - Hudl — Software Engineer Intern
 - Hudson River Trading — Data Scientist Intern - 2027
+- Humana — Analytics Intern
 - Huntington Bancshares — Business Innovation & AI Products Intern
 - Huntington Bancshares — Data and Analytics Intern
 - ICF International — Software Developer Intern
@@ -528,6 +532,7 @@ _Generated 2026-10-10_
 - Metropolitan Transportation Authority — Software Analyst / Developer Intern - Fall
 - Michael Baker International — GIS Intern
 - Microchip Technology — Verification Intern - Verification
+- Micron Technology — AI Systems and Infrastructure Engineering Intern
 - Micron Technology — DRAM Design Engineer Intern
 - Micron Technology — Dry Etch Equipment Development Engineering Intern
 - Micron Technology — Marketing Analytics Intern - Global Communications & Marketing
@@ -554,6 +559,7 @@ _Generated 2026-10-10_
 - Motorola — Software Development Intern
 - Motorola — Software Engineer Intern
 - Mujin — Software Development Intern - Spring 2027
+- Mujin — Software Integration Intern
 - Nasdaq — Product Owner Intern
 - Nasdaq — Software Developer/Engineer Intern
 - National Information Solutions Cooperative — Data Engineer Intern
@@ -584,6 +590,7 @@ _Generated 2026-10-10_
 - Northrop Grumman — Cyber Software Engineer Intern
 - Northrop Grumman — Embedded Software Engineer Intern
 - Northrop Grumman — Hardware Electronics Engineer Intern
+- Northrop Grumman — Software Developer Intern
 - Northrop Grumman — Software Digital Intern
 - Northrop Grumman — Software Engineer Intern
 - Northrop Grumman — Software Engineer Intern
@@ -630,6 +637,7 @@ _Generated 2026-10-10_
 - Optiver — Quantitative Intern
 - Optiver — Quantitative Intern - Summer 2027
 - Oshkosh — Advanced Analytics Intern
+- Oshkosh — Autonomy Engineering Intern - Summer 2027
 - Oshkosh — Product Intern
 - Palomar Holdings — Technical Intern
 - Patch My PC — Software Engineer Intern
@@ -675,6 +683,7 @@ _Generated 2026-10-10_
 - Renesas Electronics — Analog Intern
 - Renesas Electronics — Analog Intern
 - Renesas Electronics — Analog Intern
+- Renesas Electronics — Marketing Analyst Intern
 - Renesas Electronics — Post Silicon Validation Intern
 - Repsol — Energy Assessment Intern
 - Repsol — GIS Intern
@@ -745,6 +754,8 @@ _Generated 2026-10-10_
 - RTX — Software Engineer Intern
 - RTX — Software Engineer Intern
 - RTX — Software Engineer Intern
+- RTX — Software Engineer Intern
+- RTX — Software Engineer Intern
 - RTX — Software Engineer Intern - Receiver Exciter and Processing Architecture
 - RTX — Software Engineer Intern - Summer 2027
 - RTX — Software Engineer Intern - Summer 2027
@@ -785,6 +796,7 @@ _Generated 2026-10-10_
 - Spirit AeroSystems — Programmer Analyst / Developer Intern - IDT&S
 - StackAdapt — Software Engineer Intern
 - State Affairs — Software Engineer Intern
+- State Farm — Data Science Intern - Magnet Program - Online MS Analytics
 - State Farm — Financial Operations Data Analytics Intern
 - Stryten — Electrical Engineer Intern
 - Super — Data Analytics Intern

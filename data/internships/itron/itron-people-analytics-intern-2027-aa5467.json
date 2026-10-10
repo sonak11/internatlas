@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "mujin-software-integration-intern-2027",
+  "id": "itron-people-analytics-intern-2027-aa5467",
   "company": {
-    "name": "Mujin",
-    "slug": "mujin"
+    "name": "Itron",
+    "slug": "itron"
   },
-  "role": "Software Integration Intern",
+  "role": "People Analytics Intern",
   "category": "software-engineering",
-  "apply_url": "https://mujin.bamboohr.com/careers/166/",
-  "season": "winter",
+  "apply_url": "https://itron.wd5.myworkdayjobs.com/Itron/job/United-States-of-America-Washington-Liberty-Lake/Intern---People-Analytics--Summer-2027-_JR103033-1",
+  "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Suwanee",
-      "state": "GA",
+      "city": "Liberty Lake",
+      "state": "WA",
       "country": "USA"
     }
   ],
@@ -25,7 +25,9 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "masters"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -40,11 +42,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-10",
-    "discovered": "2026-08-10",
+    "posted": "2026-10-09",
+    "discovered": "2026-10-10",
     "last_verified": "2026-10-10"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"
