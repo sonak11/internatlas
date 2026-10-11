@@ -33,7 +33,7 @@ _Generated 2026-10-11_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 3564 | `███████████████` |
+| software-engineering | 3565 | `███████████████` |
 | ai | 479 | `██` |
 | quant | 330 | `█` |
 | machine-learning | 280 | `█` |
@@ -49,6 +49,7 @@ _Generated 2026-10-11_
 
 ## Newest listings
 
+- 2026-10-11 — **Resource Innovations**: [Energy Engineering Intern](https://apply.workable.com/resource-innovations/j/4CAAA40639/apply)
 - 2026-10-10 — **Johns Hopkins Applied Physics Laboratory**: [Data Science & Autonomous Systems Intern - Data Science & Autonomous Systems - Critical Infrastructure Protection](https://careers.jhuapl.edu/jobs/60432?icims=1)
 - 2026-10-10 — **Zipline**: [Firmware Engineer Intern](https://www.zipline.com/open-roles/8020865003?gh_jid=8020865003)
 - 2026-10-10 — **Zipline**: [Firmware Engineer Intern](https://www.zipline.com/open-roles/8020863003?gh_jid=8020863003)
@@ -68,7 +69,6 @@ _Generated 2026-10-11_
 - 2026-10-09 — **GCM Grosvenor**: [Software Engineer Intern](https://job-boards.greenhouse.io/gcmgrosvenor/jobs/8015792003)
 - 2026-10-09 — **General Motors**: [AI Research Intern - Embodied AI](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--AI-Research--Embodied-AI_JR-202622146)
 - 2026-10-09 — **General Motors**: [Data Scaling Intern - Data Scaling - Embodied AI](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Data-Scaling--Embodied-AI_JR-202622132)
-- 2026-10-09 — **General Motors**: [Seam Intern - Embodied AI](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--SEAM--Embodied-AI_JR-202622143)
 
 ## Recently closed
 
@@ -324,20 +324,12 @@ _Generated 2026-10-11_
 - GE Vernova — Hardware Automation and Test Engineering Intern - Spring/Summer 2027
 - GE Vernova — Hardware Engineer Intern - Critical Infrastructure Communications
 - GE Vernova — Hardware Engineer Intern - Critical Infrastructure Communications
-- General Motors — Autonomous Driving Software Engineer Intern
-- General Motors — AV Sensor Design, Release and Integration Intern
-- General Motors — Data Scaling Intern - Data Scaling - Embodied AI
 - General Motors — Economics Intern
-- General Motors — Embedded and Systems Engineering Intern - Digital Product
 - General Motors — Global Customer Research Intern
-- General Motors — Machine Learning Intern - Autonomous Vehicles - Software Validation
 - General Motors — Motorsports Strategy Intern - Sportscar Motorsports Strategy
-- General Motors — Summer Intern - AI & Hardware Analytics - Adpt
 - General Motors — Summer Intern - Global Manufacturing Robotics & Automation
-- General Motors — Summer Intern - Onboard Autonomy - Embodied AI
 - General Motors — Summer Intern - Performance Analysis
 - General Motors — Systems/Calibration Engineer Intern - ADAS Drive
-- General Motors — Systems Engineer Intern - Asd
 - Geneva Trading — AI Engineer Intern
 - GenMD — AI Research Scientist Intern
 - Genworth Financial — Data Analytics Intern - Summer 2027
@@ -346,8 +338,30 @@ _Generated 2026-10-11_
 - Geotab — Vehicle Systems Engineering Intern - Winter/January 2027 - 4, 8 Months
 - GlobalFoundries — Design Application Engineering Intern
 - GlobalFoundries — Silicon Photonics Advanced Packaging Intern
+- Goldman Sachs — Associate Intern - The Core Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Associate Intern - Asset and Wealth Management
+- Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Intern - Americas
+- Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Intern - Investment Banking
+- Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
+- Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
+- Goldman Sachs — Quantitative Strats Analyst Intern - Americas - Investment Banking
+- Goldman Sachs — Summer Analyst Intern
 - Goldman Sachs — Summer Analyst Intern - Americas - Engineering
+- Goldman Sachs — Summer Analyst Intern - Americas - Investment Banking Quantitative Strats
 - Goldman Sachs — Summer Analyst Intern - Engineering
+- Goldman Sachs — Summer Analyst Intern - Engineering
+- Goldman Sachs — Summer Analyst Intern - Engineering
+- Goldman Sachs — Summer Analyst Intern - FICC and Equities - Sales and Trading
+- Goldman Sachs — Summer Analyst Intern - The Core Quantitative Strats
+- Goldman Sachs — Summer Associate Intern
+- Goldman Sachs — Summer Associate Intern - Multiple Teams
 - Google — Product Manager Intern - Summer 2027
 - Google — Research Scientist PhD Intern
 - Google — Software Engineer Intern - Multiple Teams
@@ -375,6 +389,7 @@ _Generated 2026-10-11_
 - Huntington Bancshares — Business Innovation & AI Products Intern
 - Huntington Bancshares — Data and Analytics Intern
 - Impulse Space — Ground Software Engineering Intern - Summer 2027
+- Impulse Space — RF Test Engineer Intern - Summer 2027
 - Ingredion — Customer Innovation Technical Service Intern - Texture & Healthful Solutions
 - Innovative Defense Technologies — Software Engineer Intern
 - Innovative Defense Technologies — Software Engineer Intern

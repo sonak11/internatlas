@@ -510,7 +510,7 @@
 | [General Dynamics Mission Systems](../companies/general-dynamics-mission-systems.md) | 4/5 | security, software-engineering |
 | [General Intuition &amp; Medal](../companies/general-intuition-amp-medal.md) | 0/1 | software-engineering |
 | [General Matter](../companies/general-matter.md) | 2/3 | embedded, software-engineering |
-| [General Motors](../companies/general-motors.md) | 12/31 | ai, design, embedded, machine-learning, product, research, software-engineering |
+| [General Motors](../companies/general-motors.md) | 20/31 | ai, design, embedded, machine-learning, product, research, software-engineering |
 | [Genesis Molecular AI](../companies/genesis-molecular-ai.md) | 0/3 | machine-learning, software-engineering |
 | [Geneva Trading](../companies/geneva-trading.md) | 1/2 | ai, quant |
 | [Genworth Financial](../companies/genworth-financial.md) | 0/6 | data-science, software-engineering |
@@ -524,7 +524,7 @@
 | [GoDaddy](../companies/godaddy.md) | 0/1 | software-engineering |
 | [GoMaterials](../companies/gomaterials.md) | 1/1 | software-engineering |
 | [Golden Pet Brands](../companies/golden-pet-brands.md) | 0/1 | software-engineering |
-| [Goldman Sachs](../companies/goldman-sachs.md) | 22/30 | product, quant, software-engineering |
+| [Goldman Sachs](../companies/goldman-sachs.md) | 0/30 | product, quant, software-engineering |
 | [Google](../companies/google.md) | 16/24 | data-science, hardware, product, research, software-engineering |
 | [Gordon Food Service](../companies/gordon-food-service.md) | 10/12 | data-engineering, data-science, product, software-engineering |
 | [GovSignals](../companies/govsignals.md) | 1/1 | software-engineering |
@@ -613,7 +613,7 @@
 | [Ignite Digital Services](../companies/ignite-digital-services.md) | 0/1 | software-engineering |
 | [Illinois Tool Works](../companies/illinois-tool-works.md) | 4/4 | product, software-engineering |
 | [Immuta](../companies/immuta.md) | 3/3 | research, software-engineering |
-| [Impulse Space](../companies/impulse-space.md) | 3/6 | software-engineering |
+| [Impulse Space](../companies/impulse-space.md) | 2/6 | software-engineering |
 | [Inbulks](../companies/inbulks.md) | 1/1 | software-engineering |
 | [Incident IQ](../companies/incident-iq.md) | 0/1 | software-engineering |
 | [InfiniteQuant](../companies/infinitequant.md) | 2/5 | quant |
@@ -1001,6 +1001,7 @@
 | [Replit](../companies/replit.md) | 2/3 | software-engineering |
 | [Repsol](../companies/repsol.md) | 2/8 | software-engineering |
 | [Republic Airways](../companies/republic-airways.md) | 3/3 | software-engineering |
+| [Resource Innovations](../companies/resource-innovations.md) | 1/1 | software-engineering |
 | [ResponsiveAds](../companies/responsiveads.md) | 1/1 | software-engineering |
 | [Resultant](../companies/resultant.md) | 3/4 | software-engineering |
 | [Revantage Corporate Services](../companies/revantage-corporate-services.md) | 0/1 | quant |

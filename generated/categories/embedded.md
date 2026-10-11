@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # ⚙️ Embedded Internships
 
-**144** tracked · **99** open now
+**144** tracked · **100** open now
 
 ## Current openings
 
@@ -39,6 +39,7 @@
 | [Figure](generated/companies/figure.md) | [Firmware Engineer Intern](https://job-boards.greenhouse.io/figureai/jobs/4601309006) | San Jose, CA | Onsite | 2026-10-07 | Rolling | 🟢 Open | ❔ |
 | [Gecko Robotics](generated/companies/gecko-robotics.md) | [Embedded Software Engineer Intern - RoboSPLAT - Field Infra](https://jobs.ashbyhq.com/gecko-robotics/24561868-f075-4edf-a991-59ff0174e92a/application?embed=true) | Pittsburgh, PA | Onsite | 2026-09-15 | Rolling | 🟢 Open | ❔ |
 | [General Matter](generated/companies/general-matter.md) | [Embedded Software Engineer Intern](https://job-boards.greenhouse.io/generalmatter/jobs/5377131008) | LA | Onsite | 2026-09-03 | Rolling | 🟢 Open | ❔ |
+| [General Motors](generated/companies/general-motors.md) | [Embedded and Systems Engineering Intern - Digital Product](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Digital-Product--Embedded-and-Systems-Engineering_JR-202620513) | Austin, TX +3 | Onsite | 2026-09-21 | Rolling | 🟢 Open | ❔ |
 | [Geotab](generated/companies/geotab.md) | [Embedded Developer Intern - Engine Data Reliability](https://job-boards.greenhouse.io/internshiplist2000/jobs/5396891008) | Oakville | Onsite | 2026-09-10 | Rolling | 🟢 Open | ❔ |
 | [Honeywell](generated/companies/honeywell.md) | [Embedded Engineer Intern](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155562) | USA | Onsite | 2026-08-25 | Rolling | 🟢 Open | ❔ |
 | [Honeywell](generated/companies/honeywell.md) | [Embedded Engineer Intern](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155561) | USA | Onsite | 2026-08-25 | Rolling | 🟢 Open | ❔ |
@@ -120,7 +121,6 @@
 | [Figure](generated/companies/figure.md) | [Firmware Intern](https://job-boards.greenhouse.io/figureai/jobs/4691070006) | San Jose, CA | Onsite | 2026-06-22 | Rolling | 🔴 Closed | ❔ |
 | [Formlabs](generated/companies/formlabs.md) | [Embedded Software Intern - Winter/Spring 2027](https://careers.formlabs.com/job/8188578/apply/?gh_jid=8188578) | Somerville, MA | Onsite | 2026-09-09 | Rolling | 🔴 Closed | ❔ |
 | [Generac](generated/companies/generac.md) | [Firmware Engineering Intern](https://generac.wd5.myworkdayjobs.com/en-US/external/job/Reno-NV---USA/Intern-Firmware-Engineering_JR16149) | Reno, NV | Onsite | 2026-08-14 | Rolling | 🔴 Closed | ❔ |
-| [General Motors](generated/companies/general-motors.md) | [Embedded and Systems Engineering Intern - Digital Product](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Digital-Product--Embedded-and-Systems-Engineering_JR-202620513) | Austin, TX +3 | Onsite | 2026-09-21 | Rolling | 🔴 Closed | ❔ |
 | [Geotab](generated/companies/geotab.md) | [Embedded Developer Intern - Multiple Teams](https://job-boards.greenhouse.io/internshiplist2000/jobs/5406651008) | Oakville +1 | Onsite | 2026-09-01 | Rolling | 🔴 Closed | ❔ |
 | [Inogen](generated/companies/inogen.md) | [Firmware Engineer Intern](https://jobs.jobvite.com/inogen/job/om2zAfwh?nl=1&nl=1&fr=false) | Plano, TX | Onsite | 2026-08-04 | Rolling | 🔴 Closed | ❔ |
 | [Lexington Medical](generated/companies/lexington-medical.md) | [Electrical/Embedded Software Engineer Intern](https://job-boards.greenhouse.io/lexingtonmedical/jobs/5400236008) | Bedford, MA | Onsite | 2026-09-09 | Rolling | 🔴 Closed | ❔ |
@@ -188,6 +188,7 @@
 - Draper (1)
 - Gecko Robotics (1)
 - General Matter (1)
+- General Motors (1)
 - Johns Hopkins Applied Physics Laboratory (1)
 - Kepler Communications (1)
 - Lunar Outpost (1)
@@ -218,7 +219,6 @@
 - E-Space (1)
 - Formlabs (1)
 - Generac (1)
-- General Motors (1)
 - Inogen (1)
 - Lexington Medical (1)
 - Microchip Technology (1)

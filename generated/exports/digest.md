@@ -1,6 +1,6 @@
 # 📬 InternAtlas Weekly Digest — 2026-10-11
 
-## 🆕 New this week (374)
+## 🆕 New this week (375)
 
 - **7-Eleven** — [AI Engineer Intern](https://my7elevenhr.wd12.myworkdayjobs.com/Careers/job/SSC-Irving-TX/AI-Engineer-Intern_R26_5974-1) · ai · —
 - **7-Eleven** — [Digital Product Manager Intern](https://my7elevenhr.wd12.myworkdayjobs.com/Careers/job/SSC-Irving-TX/Digital-Product-Manager-Intern_R26_5991) · product · —
@@ -284,6 +284,7 @@
 - **Renesas Electronics** — [Memory Server System Testing Intern](https://jobs.smartrecruiters.com/RenesasElectronics/744000154490303) · software-engineering · —
 - **Renesas Electronics** — [Post Silicon Validation Intern](https://jobs.smartrecruiters.com/RenesasElectronics/744000153840059) · hardware · —
 - **Replit** — [Software Engineer Intern](https://jobs.ashbyhq.com/replit/7c3c9d29-cec2-4367-8564-eadaed165aea/application?embed=true) · software-engineering · —
+- **Resource Innovations** — [Energy Engineering Intern](https://apply.workable.com/resource-innovations/j/4CAAA40639/apply) · software-engineering · —
 - **Rivet Industries** — [Software Engineer Intern](https://jobs.ashbyhq.com/rivet/03fcb078-7371-4cfd-89a9-368e5b60d914/application?embed=true) · software-engineering · —
 - **Rivian** — [Electronics Design Engineer Co-op Intern - Electronics Design](https://careers.rivian.com/jobs/34040?icims=1) · design · —
 - **Rivian** — [Engineering Intern Co-op - AI/ML ASIC CAD](https://careers.rivian.com/jobs/34059?icims=1) · machine-learning · —
