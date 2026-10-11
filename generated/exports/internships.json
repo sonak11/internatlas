@@ -1,6 +1,6 @@
 {
   "generated": "2026-10-11",
-  "count": 6004,
+  "count": 6007,
   "internships": [
     {
       "schema_version": "1.0",
@@ -109588,7 +109588,7 @@
         "discovered": "2026-10-09",
         "last_verified": "2026-10-11"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -109642,7 +109642,7 @@
         "discovered": "2026-10-08",
         "last_verified": "2026-10-11"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -109805,7 +109805,7 @@
         "discovered": "2026-10-10",
         "last_verified": "2026-10-11"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -109988,7 +109988,7 @@
         "discovered": "2026-09-21",
         "last_verified": "2026-10-11"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -110155,7 +110155,7 @@
         "discovered": "2026-10-06",
         "last_verified": "2026-10-11"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -110727,7 +110727,7 @@
         "discovered": "2026-10-06",
         "last_verified": "2026-10-11"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -110834,7 +110834,7 @@
         "discovered": "2026-10-10",
         "last_verified": "2026-10-11"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -111002,7 +111002,7 @@
         "discovered": "2026-10-08",
         "last_verified": "2026-10-11"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -113695,9 +113695,9 @@
       "dates": {
         "posted": "2026-08-15",
         "discovered": "2026-08-27",
-        "last_verified": "2026-10-10"
+        "last_verified": "2026-10-11"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -113800,9 +113800,9 @@
       "dates": {
         "posted": "2026-08-15",
         "discovered": "2026-08-15",
-        "last_verified": "2026-10-10"
+        "last_verified": "2026-10-11"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -113810,7 +113810,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "goldman-sachs-quantitative-strategist-associate-intern-the-core-quantitati-2027",
+      "id": "goldman-sachs-quantitative-strategist-associate-intern-the-core-quantitati-2027-14d0f0",
       "company": {
         "name": "Goldman Sachs",
         "slug": "goldman-sachs"
@@ -113852,10 +113852,63 @@
       },
       "dates": {
         "posted": "2026-08-15",
+        "discovered": "2026-10-11",
+        "last_verified": "2026-10-11"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "goldman-sachs-quantitative-strategist-associate-intern-the-core-quantitati-2027",
+      "company": {
+        "name": "Goldman Sachs",
+        "slug": "goldman-sachs"
+      },
+      "role": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
+      "category": "quant",
+      "apply_url": "https://higher.gs.com/roles/171535?type=students",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "NYC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-15",
         "discovered": "2026-08-15",
         "last_verified": "2026-10-11"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -113905,9 +113958,9 @@
       "dates": {
         "posted": "2026-08-15",
         "discovered": "2026-09-04",
-        "last_verified": "2026-10-10"
+        "last_verified": "2026-10-11"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -113959,7 +114012,7 @@
         "discovered": "2026-10-06",
         "last_verified": "2026-10-11"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -114013,7 +114066,7 @@
         "discovered": "2026-09-16",
         "last_verified": "2026-10-11"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -114066,7 +114119,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-11"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -114115,9 +114168,9 @@
       "dates": {
         "posted": "2026-08-15",
         "discovered": "2026-10-10",
-        "last_verified": "2026-10-10"
+        "last_verified": "2026-10-11"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -114169,9 +114222,9 @@
       "dates": {
         "posted": "2026-08-15",
         "discovered": "2026-09-04",
-        "last_verified": "2026-10-10"
+        "last_verified": "2026-10-11"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -114220,9 +114273,9 @@
       "dates": {
         "posted": "2026-08-15",
         "discovered": "2026-09-04",
-        "last_verified": "2026-10-10"
+        "last_verified": "2026-10-11"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -114271,9 +114324,9 @@
       "dates": {
         "posted": "2026-08-15",
         "discovered": "2026-10-10",
-        "last_verified": "2026-10-10"
+        "last_verified": "2026-10-11"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -114324,7 +114377,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-10-11"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -114374,9 +114427,9 @@
       "dates": {
         "posted": "2026-08-15",
         "discovered": "2026-09-04",
-        "last_verified": "2026-10-10"
+        "last_verified": "2026-10-11"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -114425,9 +114478,9 @@
       "dates": {
         "posted": "2026-08-15",
         "discovered": "2026-09-04",
-        "last_verified": "2026-10-10"
+        "last_verified": "2026-10-11"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -114636,7 +114689,61 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-11"
       },
-      "status": "closed",
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "goldman-sachs-summer-analyst-intern-engineering-2027-3e3ccf",
+      "company": {
+        "name": "Goldman Sachs",
+        "slug": "goldman-sachs"
+      },
+      "role": "Summer Analyst Intern - Engineering",
+      "category": "software-engineering",
+      "apply_url": "https://higher.gs.com/roles/177808?type=students",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Seattle",
+          "state": "WA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-15",
+        "discovered": "2026-10-11",
+        "last_verified": "2026-10-11"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -114705,15 +114812,14 @@
       },
       "role": "Summer Analyst Intern - Engineering",
       "category": "software-engineering",
-      "apply_url": "https://higher.gs.com/roles/177808?type=students",
+      "apply_url": "https://higher.gs.com/roles/170644?type=students",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
       "locations": [
         {
-          "city": "Seattle",
-          "state": "WA",
-          "country": "USA"
+          "city": "London",
+          "country": "UK"
         }
       ],
       "compensation": {
@@ -114742,9 +114848,9 @@
       "dates": {
         "posted": "2026-08-15",
         "discovered": "2026-09-04",
-        "last_verified": "2026-10-10"
+        "last_verified": "2026-10-11"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -114796,9 +114902,9 @@
       "dates": {
         "posted": "2026-08-15",
         "discovered": "2026-08-15",
-        "last_verified": "2026-10-10"
+        "last_verified": "2026-10-11"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -114898,9 +115004,9 @@
       "dates": {
         "posted": "2026-08-15",
         "discovered": "2026-09-04",
-        "last_verified": "2026-10-10"
+        "last_verified": "2026-10-11"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -115053,9 +115159,9 @@
       "dates": {
         "posted": "2026-08-15",
         "discovered": "2026-08-29",
-        "last_verified": "2026-10-10"
+        "last_verified": "2026-10-11"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -115106,9 +115212,9 @@
       "dates": {
         "posted": "2026-08-15",
         "discovered": "2026-08-15",
-        "last_verified": "2026-10-10"
+        "last_verified": "2026-10-11"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -187049,7 +187155,7 @@
         "discovered": "2026-10-08",
         "last_verified": "2026-10-11"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -189836,7 +189942,7 @@
         "discovered": "2026-07-25",
         "last_verified": "2026-10-11"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -193243,7 +193349,7 @@
         "discovered": "2026-10-07",
         "last_verified": "2026-10-11"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -193742,7 +193848,7 @@
         "discovered": "2026-10-07",
         "last_verified": "2026-10-11"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -271096,7 +271202,7 @@
         "discovered": "2026-09-18",
         "last_verified": "2026-10-11"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -305749,6 +305855,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "varda-space-avionics-engineer-intern-2027",
+      "company": {
+        "name": "Varda Space",
+        "slug": "varda-space"
+      },
+      "role": "Avionics Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://job-boards.greenhouse.io/vardaspace/jobs/7824780003",
+      "season": "spring",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "El Segundo",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-07",
+        "discovered": "2026-10-11",
+        "last_verified": "2026-10-11"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "varda-space-avionics-engineering-intern-2027",
       "company": {
         "name": "Varda Space",
@@ -305897,9 +306055,9 @@
       "dates": {
         "posted": "2026-08-07",
         "discovered": "2026-08-07",
-        "last_verified": "2026-09-29"
+        "last_verified": "2026-10-11"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"

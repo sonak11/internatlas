@@ -33,9 +33,9 @@ _Generated 2026-10-11_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 3562 | `███████████████` |
+| software-engineering | 3564 | `███████████████` |
 | ai | 479 | `██` |
-| quant | 329 | `█` |
+| quant | 330 | `█` |
 | machine-learning | 280 | `█` |
 | data-science | 238 | `█` |
 | hardware | 227 | `█` |
@@ -323,12 +323,20 @@ _Generated 2026-10-11_
 - GE Vernova — Hardware Automation and Test Engineering Intern - Spring/Summer 2027
 - GE Vernova — Hardware Engineer Intern - Critical Infrastructure Communications
 - GE Vernova — Hardware Engineer Intern - Critical Infrastructure Communications
+- General Motors — Autonomous Driving Software Engineer Intern
+- General Motors — AV Sensor Design, Release and Integration Intern
+- General Motors — Data Scaling Intern - Data Scaling - Embodied AI
 - General Motors — Economics Intern
+- General Motors — Embedded and Systems Engineering Intern - Digital Product
 - General Motors — Global Customer Research Intern
+- General Motors — Machine Learning Intern - Autonomous Vehicles - Software Validation
 - General Motors — Motorsports Strategy Intern - Sportscar Motorsports Strategy
+- General Motors — Summer Intern - AI & Hardware Analytics - Adpt
 - General Motors — Summer Intern - Global Manufacturing Robotics & Automation
+- General Motors — Summer Intern - Onboard Autonomy - Embodied AI
 - General Motors — Summer Intern - Performance Analysis
 - General Motors — Systems/Calibration Engineer Intern - ADAS Drive
+- General Motors — Systems Engineer Intern - Asd
 - Geneva Trading — AI Engineer Intern
 - GenMD — AI Research Scientist Intern
 - Genworth Financial — Data Analytics Intern - Summer 2027
@@ -337,28 +345,8 @@ _Generated 2026-10-11_
 - Geotab — Vehicle Systems Engineering Intern - Winter/January 2027 - 4, 8 Months
 - GlobalFoundries — Design Application Engineering Intern
 - GlobalFoundries — Silicon Photonics Advanced Packaging Intern
-- Goldman Sachs — Associate Intern - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Associate Intern - Asset and Wealth Management
-- Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Americas
-- Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Investment Banking
-- Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
-- Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
-- Goldman Sachs — Quantitative Strats Analyst Intern - Americas - Investment Banking
-- Goldman Sachs — Summer Analyst Intern
 - Goldman Sachs — Summer Analyst Intern - Americas - Engineering
-- Goldman Sachs — Summer Analyst Intern - Americas - Investment Banking Quantitative Strats
 - Goldman Sachs — Summer Analyst Intern - Engineering
-- Goldman Sachs — Summer Analyst Intern - Engineering
-- Goldman Sachs — Summer Analyst Intern - FICC and Equities - Sales and Trading
-- Goldman Sachs — Summer Analyst Intern - The Core Quantitative Strats
-- Goldman Sachs — Summer Associate Intern
-- Goldman Sachs — Summer Associate Intern - Multiple Teams
 - Google — Product Manager Intern - Summer 2027
 - Google — Research Scientist PhD Intern
 - Google — Software Engineer Intern - Multiple Teams
@@ -559,6 +547,7 @@ _Generated 2026-10-11_
 - NiSource — Change Management Analytics Intern
 - NiSource — People Analytics Intern
 - NiSource — Software Engineer Intern
+- NJ Department of Environmental Protection — Environmental Services Intern
 - Noblis — Data Science and Innovation Intern
 - North Atlantic Industries — Electrical Engineer Intern - Test Systems
 - North Atlantic Industries — Electrical Engineer Qualification Test Intern
@@ -575,6 +564,7 @@ _Generated 2026-10-11_
 - Northrop Grumman — Software Engineer Intern
 - Northrop Grumman — Software Engineer Intern
 - Northrop Grumman — Software Engineer Intern
+- Northrop Grumman — Software Engineer Intern
 - Northrop Grumman — Software Engineer Intern - Aeronautics Systems
 - Northrop Grumman — Test Engineer Intern
 - Northwestern Mutual — Actuarial Systems Intern
@@ -586,6 +576,8 @@ _Generated 2026-10-11_
 - NVIDIA — Hardware ASIC Design Intern - Hardware
 - NVIDIA — Hardware Verification Intern
 - NVIDIA — Mixed Signal Design Intern
+- NVIDIA — PCIe Design Verification Intern
+- NVIDIA — PhD Research Intern - Cross-Disciplinary Vision Science
 - NVIDIA — PhD Research Intern - Generative AI for Physical AI
 - NVIDIA — PhD Research Intern - Programming Systems
 - NVIDIA — PhD Research Intern - Quantum Simulation and AI
@@ -780,6 +772,7 @@ _Generated 2026-10-11_
 - TD Bank — Software Engineer Intern - Global Technology & Solutions
 - Tesla — Distributed Systems Software Engineer Intern - Energy Engineering
 - Tesla — Factory Firmware Integration Intern - Energy Engineering
+- Tesla — Internship - Electronic Design Engineer - Optimus - Winter/Spring 2027
 - Tessera Labs — Product Manager Intern
 - Texas A&M International University — Information Technology Intern
 - Textron — Data Product & Analytics Intern
@@ -845,7 +838,6 @@ _Generated 2026-10-11_
 - USAA — Quantitative Risk Analyst Intern
 - USAA — Technology Intern
 - Vanguard — IT Intern - Investment Systems
-- Varda Space — Flight Software Intern - Spring 2027
 - Veeam Software — Services Portfolio Management Intern
 - Verisk — AI Intern - Summer Internship Program
 - Verisk — Technology Intern - Summer Internship Program
