@@ -179,6 +179,7 @@ _Generated 2026-10-11_
 - Bosch Home Comfort — AI Application Intern
 - Bosch Home Comfort — Software Engineering Intern
 - Boston Scientific — Data Engineer Intern
+- Boston Scientific — Equipment Engineering AI Vision Engineer Intern
 - Boston Scientific — Equipment Engineering Software Engineer Intern
 - Boston Scientific — R&D Firmware Engineer Intern
 - Boston Scientific — Software Development Engineer Intern
@@ -338,14 +339,20 @@ _Generated 2026-10-11_
 - GlobalFoundries — Silicon Photonics Advanced Packaging Intern
 - Goldman Sachs — Associate Intern - The Core Quantitative Strats
 - Goldman Sachs — Quantitative Strategist Associate Intern - Asset and Wealth Management
+- Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
 - Goldman Sachs — Quantitative Strategist Intern - Americas
+- Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
 - Goldman Sachs — Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats
 - Goldman Sachs — Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats
 - Goldman Sachs — Quantitative Strategist Intern - Investment Banking
 - Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
+- Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
 - Goldman Sachs — Quantitative Strats Analyst Intern - Americas - Investment Banking
 - Goldman Sachs — Summer Analyst Intern
 - Goldman Sachs — Summer Analyst Intern - Americas - Engineering
+- Goldman Sachs — Summer Analyst Intern - Americas - Investment Banking Quantitative Strats
 - Goldman Sachs — Summer Analyst Intern - Engineering
 - Goldman Sachs — Summer Analyst Intern - Engineering
 - Goldman Sachs — Summer Analyst Intern - FICC and Equities - Sales and Trading
@@ -410,6 +417,7 @@ _Generated 2026-10-11_
 - Johns Hopkins Applied Physics Laboratory — Engineer/Scientist Intern - Health Systems and Human-Machine Systems
 - Johns Hopkins Applied Physics Laboratory — Mission Systems Engineering Intern
 - Johns Hopkins Applied Physics Laboratory — Sensor Systems Intern - Data Analytics
+- Johns Hopkins Applied Physics Laboratory — Software Engineer/Data Scientist/Ontologist Intern - Threat Analytic Systems
 - Kepler Communications — FPGA Digital Design Engineer Intern
 - KeyBank — Data Intern - Key Technology & Services - Data Track
 - Keysight Technologies — Software Engineer Intern - R&D - FPGA
@@ -506,6 +514,7 @@ _Generated 2026-10-11_
 - Micron Technology — Dry Etch Equipment Development Engineering Intern
 - Micron Technology — Marketing Analytics Intern - Global Communications & Marketing
 - Micron Technology — Technical Customer Management Intern - AI
+- Microsoft — AI Software Engineer Intern
 - Microsoft — Electrical Engineer Intern - 6-Month Program
 - Microsoft — Firmware Engineer Intern
 - Microsoft — Full-Stack Product Engineer Intern - Web + Services
@@ -648,6 +657,7 @@ _Generated 2026-10-11_
 - Renesas Electronics — Analog Intern
 - Renesas Electronics — Analog Intern
 - Renesas Electronics — Marketing Analyst Intern
+- Renesas Electronics — Memory Server System Testing Intern
 - Renesas Electronics — Post Silicon Validation Intern
 - Repsol — Energy Assessment Intern
 - Repsol — GIS Intern
@@ -764,8 +774,10 @@ _Generated 2026-10-11_
 - T. Rowe Price — Technology and Data Intern
 - TD Bank — Data Analyst Intern - Global Technology & Solutions
 - TD Bank — Data Analytics & Insights Intern Co-op
+- TD Bank — Data Engineer Intern - Global Technology & Solutions
 - TD Bank — Mobile Software Engineer Co-op Intern
 - TD Bank — Software Engineer Intern Co-op
+- TD Bank — Software Engineer Intern - Global Technology & Solutions
 - Tesla — Distributed Systems Software Engineer Intern - Energy Engineering
 - Tesla — Factory Firmware Integration Intern - Energy Engineering
 - Tessera Labs — Product Manager Intern
