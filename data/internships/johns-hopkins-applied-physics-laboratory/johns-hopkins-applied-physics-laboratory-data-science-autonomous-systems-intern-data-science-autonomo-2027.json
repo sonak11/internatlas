@@ -1,20 +1,21 @@
 {
   "schema_version": "1.0",
-  "id": "goldman-sachs-quantitative-strategist-associate-intern-the-core-quantitati-2027-14d0f0",
+  "id": "johns-hopkins-applied-physics-laboratory-data-science-autonomous-systems-intern-data-science-autonomo-2027",
   "company": {
-    "name": "Goldman Sachs",
-    "slug": "goldman-sachs"
+    "name": "Johns Hopkins Applied Physics Laboratory",
+    "slug": "johns-hopkins-applied-physics-laboratory"
   },
-  "role": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
-  "category": "quant",
-  "apply_url": "https://higher.gs.com/roles/175427?type=students",
+  "role": "Data Science & Autonomous Systems Intern - Data Science & Autonomous Systems - Critical Infrastructure Protection",
+  "category": "data-science",
+  "apply_url": "https://careers.jhuapl.edu/jobs/60432?icims=1",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "London",
-      "country": "UK"
+      "city": "Laurel",
+      "state": "MD",
+      "country": "USA"
     }
   ],
   "compensation": {
@@ -25,6 +26,7 @@
   "eligibility": {
     "graduation_years": [],
     "degree_levels": [
+      "masters",
       "phd"
     ],
     "citizenship_required": false,
@@ -41,11 +43,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-15",
-    "discovered": "2026-10-07",
-    "last_verified": "2026-10-10"
+    "posted": "2026-10-10",
+    "discovered": "2026-10-11",
+    "last_verified": "2026-10-11"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

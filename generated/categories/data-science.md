@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 📊 Data Science Internships
 
-**237** tracked · **147** open now
+**238** tracked · **148** open now
 
 ## Current openings
 
@@ -76,6 +76,7 @@
 | [IntelliGenesis](generated/companies/intelligenesis.md) | [Applied Data Scientist Intern](http://intelligenesis.applytojob.com/apply/synY3toJUH/Applied-Data-Scientist-Internship-DoW-SkillBridge) | Columbia, MD | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
 | [Itron](generated/companies/itron.md) | [Data Science Intern - Distributed Intelligence](https://itron.wd5.myworkdayjobs.com/Itron/job/United-States-of-America-Washington-Liberty-Lake/Intern---Data-Science--Distributed-Intelligence_JR102942) | Liberty Lake, WA | Onsite | 2026-09-28 | Rolling | 🟢 Open | ❔ |
 | [Itron](generated/companies/itron.md) | [Data Science Intern - Distributed Intelligence](https://itron.wd5.myworkdayjobs.com/Early_Careers/job/United-States-of-America-Washington-Liberty-Lake/Intern---Data-Science--Distributed-Intelligence_JR102942-2) | Liberty Lake, WA | Onsite | 2026-09-28 | Rolling | 🟢 Open | ❔ |
+| [Johns Hopkins Applied Physics Laboratory](generated/companies/johns-hopkins-applied-physics-laboratory.md) | [Data Science & Autonomous Systems Intern - Data Science & Autonomous Systems - Critical Infrastructure Protection](https://careers.jhuapl.edu/jobs/60432?icims=1) | Laurel, MD | Onsite | 2026-10-10 | Rolling | 🟢 Open | ❔ |
 | [Johns Hopkins Applied Physics Laboratory](generated/companies/johns-hopkins-applied-physics-laboratory.md) | [Data Scientist Intern - Data Science - System Performance Evaluation](https://careers.jhuapl.edu/jobs/59800?icims=1) | Laurel, MD | Onsite | 2026-08-25 | Rolling | 🟢 Open | ❔ |
 | [Johns Hopkins Applied Physics Laboratory](generated/companies/johns-hopkins-applied-physics-laboratory.md) | [Software Engineer/Data Scientist/Ontologist Intern - Threat Analytic Systems](https://careers.jhuapl.edu/jobs/59997?icims=1) | Laurel, MD | Onsite | 2026-09-10 | Rolling | 🟢 Open | ❔ |
 | [Ketjen](generated/companies/ketjen.md) | [Data Science Intern](https://albemarle.wd5.myworkdayjobs.com/en-US/ketjenexternal/job/Houston-Texas-United-States-of-America/Ketjen-Summer-2027-Data-Science-Internship_REQ-31411) | Houston, TX | Onsite | 2026-09-10 | Rolling | 🟢 Open | ❔ |
@@ -259,6 +260,7 @@
 - Capital One (4)
 - Figma (3)
 - Integra FEC (3)
+- Johns Hopkins Applied Physics Laboratory (3)
 - Lyft (3)
 - Walmart (3)
 - Waymo (3)
@@ -276,7 +278,6 @@
 - Generac (2)
 - Hudson River Trading (2)
 - Itron (2)
-- Johns Hopkins Applied Physics Laboratory (2)
 - Meta (2)
 - Nokia (2)
 - Notion (2)

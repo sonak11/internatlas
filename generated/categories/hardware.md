@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🔩 Hardware Internships
 
-**227** tracked · **142** open now
+**227** tracked · **144** open now
 
 ## Current openings
 
@@ -92,6 +92,8 @@
 | [Marvell](generated/companies/marvell.md) | [Data Center Silicon Hardware Engineering Intern Co-op - BS](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Ottawa-Canada/Data-Center-Silicon-Hardware-Engineering-Intern---BS---2027-Co-Op_2604525) | Toronto +1 | Onsite | 2026-09-24 | Rolling | 🟢 Open | ❔ |
 | [Marvell](generated/companies/marvell.md) | [Silicon Photonics Intern](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Ottawa-Canada/Silicon-Photonics-Intern---PhD_2502469-1) | Ottawa | Onsite | 2026-07-04 | Rolling | 🟢 Open | ❔ |
 | [Marvell](generated/companies/marvell.md) | [Silicon Photonics Intern - PhD - Fall 2026 Start Date](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Ottawa-Canada/Silicon-Photonics-Intern---PhD_2502469) | Ottawa | Onsite | 2026-06-13 | Rolling | 🟢 Open | ❔ |
+| [Marvell](generated/companies/marvell.md) | [Test Solutions Engineering Intern - BS - Post-Silicon Hardware Validation](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Burlington-VT/Test-Solutions-Engineering-Intern--BS---Summer-2027_2603835-1) | Burlington, VT | Onsite | 2026-09-09 | Rolling | 🟢 Open | ❔ |
+| [Marvell](generated/companies/marvell.md) | [Test Solutions Engineering Intern - BS - Post-Silicon Hardware Validation](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Burlington-VT/Test-Solutions-Engineering-Intern--BS---Summer-2027_2603835) | Burlington, VT | Onsite | 2026-09-09 | Rolling | 🟢 Open | ❔ |
 | [Motorola](generated/companies/motorola.md) | [FPGA Design Engineering Intern](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/FPGA-Design-Engineering-Intern---Summer-2027_R68401) | Schaumburg, IL | Onsite | 2026-09-09 | Rolling | 🟢 Open | ❔ |
 | [Neuralink](generated/companies/neuralink.md) | [Electrical Engineer Intern, Robotics and Surgery Engineering](https://boards.greenhouse.io/neuralink/jobs/6607398003?gh_jid=6607398003) | South San Francisco | Onsite | 2025-06-13 | Rolling | 🟢 Open | ❔ |
 | [Neuralink](generated/companies/neuralink.md) | [Histopathology Intern](https://boards.greenhouse.io/neuralink/jobs/8020751003?gh_jid=8020751003) | Austin | Onsite | 2026-10-09 | Rolling | 🟢 Open | ❔ |
@@ -200,8 +202,6 @@
 | [Kepler Communications](generated/companies/kepler-communications.md) | [FPGA Digital Design Engineer Intern](https://jobs.lever.co/kepler/f06ca5e6-2e7f-4b76-a5c4-cb423d3cfc03/apply) | Toronto | Onsite | 2026-07-22 | Rolling | 🔴 Closed | ❔ |
 | [Keysight Technologies](generated/companies/keysight-technologies.md) | [Software Engineer Intern - R&D - FPGA](https://jobs.keysight.com/jobs/53636?icims=1) | Santa Clara, CA +1 | Onsite | 2026-08-04 | Rolling | 🔴 Closed | ❔ |
 | [L3Harris Technologies](generated/companies/l3harris-technologies.md) | [Electrical Engineer Intern - FPGA](https://jobs.l3harris.com/job/Palm-Bay-Intern,-Electrical-Engineer-FPGA-FL-32905/1420319100/?ats=successfactors) | Palm Bay, FL | Onsite | 2026-08-17 | Rolling | 🔴 Closed | ❔ |
-| [Marvell](generated/companies/marvell.md) | [Test Solutions Engineering Intern - BS - Post-Silicon Hardware Validation](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Burlington-VT/Test-Solutions-Engineering-Intern--BS---Summer-2027_2603835-1) | Burlington, VT | Onsite | 2026-09-09 | Rolling | 🔴 Closed | ❔ |
-| [Marvell](generated/companies/marvell.md) | [Test Solutions Engineering Intern - BS - Post-Silicon Hardware Validation](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Burlington-VT/Test-Solutions-Engineering-Intern--BS---Summer-2027_2603835) | Burlington, VT | Onsite | 2026-09-09 | Rolling | 🔴 Closed | ❔ |
 | [Microsoft](generated/companies/microsoft.md) | [Hardware Engineering Intern](https://apply.careers.microsoft.com/careers/job/1970393557002608) | Redmond, WA | Onsite | 2026-09-19 | Rolling | 🔴 Closed | ❔ |
 | [Microsoft](generated/companies/microsoft.md) | [Silicon Engineer Intern](https://apply.careers.microsoft.com/careers/job/1970393556958170) | Raleigh, NC +2 | Onsite | 2026-08-26 | Rolling | 🔴 Closed | ❔ |
 | [Microsoft](generated/companies/microsoft.md) | [Silicon Engineering Intern - 6-month Program](https://apply.careers.microsoft.com/careers/job/1970393556982259) | Hillsboro, OR +1 | Onsite | 2026-09-18 | Rolling | 🔴 Closed | ❔ |

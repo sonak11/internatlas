@@ -1,6 +1,6 @@
-# 📬 InternAtlas Weekly Digest — 2026-10-10
+# 📬 InternAtlas Weekly Digest — 2026-10-11
 
-## 🆕 New this week (378)
+## 🆕 New this week (374)
 
 - **7-Eleven** — [AI Engineer Intern](https://my7elevenhr.wd12.myworkdayjobs.com/Careers/job/SSC-Irving-TX/AI-Engineer-Intern_R26_5974-1) · ai · —
 - **7-Eleven** — [Digital Product Manager Intern](https://my7elevenhr.wd12.myworkdayjobs.com/Careers/job/SSC-Irving-TX/Digital-Product-Manager-Intern_R26_5991) · product · —
@@ -58,7 +58,6 @@
 - **Capstone Investment Advisors** — [Risk Tech Intern](https://job-boards.greenhouse.io/capstoneinvestmentadvisors/jobs/8867730002) · software-engineering · —
 - **Capstone Investment Advisors** — [Tech Execution Intern](https://job-boards.greenhouse.io/capstoneinvestmentadvisors/jobs/8882130002) · software-engineering · —
 - **Centene** — [AI Enablement Intern](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/AI-Enablement-Intern--Undergraduate---Summer-2027-_1662038) · ai · —
-- **CesiumAstro** — [Electrical Engineering Intern - FPGA](https://jobs.lever.co/CesiumAstro/5ac10e3b-f9d7-4029-bf25-73a191ff2636/apply) · hardware · —
 - **Cirrus Logic** — [Analog Design Engineer Intern](https://jobs.eu.lever.co/cirrus/df033a94-155f-427f-a178-88bd18c3d5ec/apply) · design · —
 - **Cirrus Logic** — [Design Verification Engineer Intern](https://jobs.eu.lever.co/cirrus/c71a6365-31c7-4ba1-bdc4-9f2df1fc483e/apply) · design · —
 - **Cirrus Logic** — [Digital Design Engineer Intern](https://jobs.eu.lever.co/cirrus/0310fbd1-a2a8-4c0f-a842-86e05ae7d98e/apply) · design · —
@@ -90,9 +89,7 @@
 - **Elanco** — [Pet Health Sales Excellence Intern - AI Innovation & Enablement](https://elanco.wd5.myworkdayjobs.com/en-US/External_Career/job/Indianapolis-IN/US-Pet-Health-Sales-Excellence-Intern---AI-Innovation---Enablement--Summer-2027-_R0027467) · ai · —
 - **Electronic Arts** — [C++ Software Engineer Intern](https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern-Summer-2027-8-months-UFC/216226) · software-engineering · —
 - **Electronic Arts** — [Product Management Intern](https://jobs.ea.com/en_US/careers/JobDetail/Product-Management-Intern-Fan-Care-Community-Care-Summer-2027/216182) · product · —
-- **Electronic Arts** — [Product Manager Intern](https://jobs.ea.com/en_US/careers/JobDetail/Product-Manager-Intern-MBA-Level-Summer-2027-Apex-Legends/216272) · product · —
 - **Electronic Arts** — [Software Engineer Intern](https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineering-Intern/216240) · software-engineering · —
-- **Electronic Arts** — [Software Engineer Intern](https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern-Summer-2027/216239) · software-engineering · —
 - **Electronic Arts** — [Software Engineer Intern](https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern/216251) · software-engineering · —
 - **Electronic Arts** — [Software Engineer Intern](https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern-Summer-2027-8-Months-Sports-Technology/216225) · software-engineering · —
 - **Equitable Bank** — [Software Engineer Intern](https://jobs.lever.co/eqbank/c924506b-22ad-4906-aea5-61d9b79163f3/apply) · software-engineering · —
@@ -112,7 +109,6 @@
 - **Figure** — [Validation Engineer Intern](https://job-boards.greenhouse.io/figureai/jobs/4606072006) · software-engineering · —
 - **First Citizens BancShares** — [Outreach Analytics Intern](https://firstcitizens.jibeapply.com/jobs/35906?icims=1) · software-engineering · —
 - **First Citizens BancShares** — [Summer Intern - Card Product Management - Business to Business Payments](https://firstcitizens.jibeapply.com/jobs/35886?icims=1) · product · —
-- **First Citizens BancShares** — [Summer Intern - Sales Performance & Analytics Strategy](https://firstcitizens.jibeapply.com/jobs/35826?icims=1) · software-engineering · —
 - **G-Research** — [Machine Learning Engineer Intern](https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Machine-Learning-Engineer-Intern_R3773) · machine-learning · —
 - **GCM Grosvenor** — [Software Engineer Intern](https://job-boards.greenhouse.io/gcmgrosvenor/jobs/8015792003) · software-engineering · —
 - **GE Vernova** — [SCS Commercial Strategy & Growth Intern](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Longmont/SCS-Commercial-Strategy---Growth-Internship-Summer-2027_R5055048-2) · software-engineering · —
@@ -159,6 +155,7 @@
 - **Jain Global** — [Data Engineer Intern](https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/New-York-New-York/Data-Engineer-Intern_JR100605-1) · data-engineering · —
 - **Jain Global** — [Quant Modelling Intern](https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/New-York-New-York/Quant-Modelling-Intern_JR100616) · quant · —
 - **Jain Global** — [Quant Research Intern - Systematic Trading](https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/New-York-New-York/Quant-Research-Intern--Systematic-Trading_JR100603-1) · quant · —
+- **Johns Hopkins Applied Physics Laboratory** — [Data Science & Autonomous Systems Intern - Data Science & Autonomous Systems - Critical Infrastructure Protection](https://careers.jhuapl.edu/jobs/60432?icims=1) · data-science · —
 - **Jones Lang LaSalle** — [AI Intern](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Los-Angeles-CA/AI-Intern-Summer-2027-Internship---Los-Angeles--CA_REQ539393) · ai · —
 - **Judi Health** — [MBA Analytics Intern - Clinical Programs](https://job-boards.greenhouse.io/judihealth/jobs/5427074008) · software-engineering · —
 - **KKR** — [Summer Analyst Intern - Insurance Risk - Data Science](https://www.kkr.com/careers/student-careers/student-career-opportunities/post?gh_jid=6200944004) · data-science · —
@@ -169,7 +166,6 @@
 - **KnowBe4** — [Associate Product Manager Intern](https://job-boards.greenhouse.io/knowbe4/jobs/8871835002) · product · —
 - **KnowBe4** — [Software Engineer Intern](https://job-boards.greenhouse.io/knowbe4/jobs/8870749002) · software-engineering · —
 - **Koch Industries** — [Data Science Intern](https://koch.avature.net/en_US/careers/JobDetail/195341) · data-science · —
-- **Koch Industries** — [Product Management Intern](https://koch.avature.net/en_US/careers/JobDetail/195099) · product · —
 - **Kyndryl** — [Marketing Intern - Marketing Analysis](https://kyndryl.wd5.myworkdayjobs.com/KyndrylEarlyCareers/job/New-York-NY-USA/Marketing-Internship--Marketing-Analysis_R-70007-1) · software-engineering · —
 - **Kyndryl** — [Marketing Intern - Marketing Analytics](https://kyndryl.wd5.myworkdayjobs.com/KyndrylEarlyCareers/job/New-York-NY-USA/Marketing-Internship--Marketing-Analytics_R-69404) · software-engineering · —
 - **Kyndryl** — [Marketing Intern - Marketing Analytics](https://kyndryl.wd5.myworkdayjobs.com/KyndrylEarlyCareers/job/New-York-NY-USA/Marketing-Internship--Marketing-Analytics_R-69403) · software-engineering · —
