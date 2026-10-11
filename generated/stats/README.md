@@ -281,6 +281,7 @@ _Generated 2026-10-11_
 - EquipmentShare — Software Engineer Intern
 - EquipmentShare — Software Engineer Intern
 - Etched — Electrical Platform Intern
+- Etched — RTL Intern
 - Excellus BCBS — College Intern - AI Engineering
 - Excellus BCBS — College Intern - Data Governance & AI Governance
 - Excellus BCBS — College Intern - Healthcare Statistical Analytics
@@ -466,6 +467,8 @@ _Generated 2026-10-11_
 - Marvell — Architecture Intern - MS
 - Marvell — Test Engineering Intern
 - Marvell — Test Engineering Intern - BS
+- Marvell — Test Solutions Engineering Intern - BS - Post-Silicon Hardware Validation
+- Marvell — Test Solutions Engineering Intern - BS - Post-Silicon Hardware Validation
 - Mastercard — Data Scientist Intern
 - Mastercard — Data Scientist Intern
 - Mastercard — Product Management Intern

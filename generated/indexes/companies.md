@@ -422,7 +422,7 @@
 | [Eridu AI](../companies/eridu-ai.md) | 1/1 | software-engineering |
 | [Erie Insurance Group](../companies/erie-insurance-group.md) | 1/1 | software-engineering |
 | [Ernst & Young](../companies/ernst-young.md) | 8/8 | ai, data-engineering, product, software-engineering |
-| [Etched](../companies/etched.md) | 15/18 | cloud, design, embedded, software-engineering |
+| [Etched](../companies/etched.md) | 14/18 | cloud, design, embedded, software-engineering |
 | [Ether.fi](../companies/ether-fi.md) | 1/1 | software-engineering |
 | [Eudia](../companies/eudia.md) | 0/1 | software-engineering |
 | [Eulerity](../companies/eulerity.md) | 2/2 | ai, software-engineering |
@@ -734,7 +734,7 @@
 | [Marsh](../companies/marsh.md) | 1/2 | software-engineering |
 | [Marsh & McLennan](../companies/marsh-mclennan.md) | 0/1 | software-engineering |
 | [Marshall Wace](../companies/marshall-wace.md) | 3/3 | quant, software-engineering |
-| [Marvell](../companies/marvell.md) | 57/73 | ai, design, embedded, hardware, machine-learning, security, software-engineering |
+| [Marvell](../companies/marvell.md) | 55/73 | ai, design, embedded, hardware, machine-learning, security, software-engineering |
 | [Mary Free Bed Rehabilitation Hospital](../companies/mary-free-bed-rehabilitation-hospital.md) | 0/1 | software-engineering |
 | [Mastercard](../companies/mastercard.md) | 1/10 | data-engineering, data-science, product, software-engineering |
 | [Mathtech](../companies/mathtech.md) | 1/1 | software-engineering |

@@ -93390,7 +93390,7 @@
         "discovered": "2026-10-05",
         "last_verified": "2026-10-11"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -164361,7 +164361,7 @@
         "discovered": "2026-09-09",
         "last_verified": "2026-10-11"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -164413,7 +164413,7 @@
         "discovered": "2026-09-09",
         "last_verified": "2026-10-11"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
