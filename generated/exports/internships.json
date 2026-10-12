@@ -1,6 +1,6 @@
 {
   "generated": "2026-10-12",
-  "count": 6010,
+  "count": 6016,
   "internships": [
     {
       "schema_version": "1.0",
@@ -17533,7 +17533,7 @@
         "discovered": "2026-10-06",
         "last_verified": "2026-10-12"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -43625,6 +43625,57 @@
     },
     {
       "schema_version": "1.0",
+      "id": "bosch-home-comfort-ai-business-solutions-intern-2027",
+      "company": {
+        "name": "Bosch Home Comfort",
+        "slug": "bosch-home-comfort"
+      },
+      "role": "AI Business Solutions Intern",
+      "category": "ai",
+      "apply_url": "https://jobs.smartrecruiters.com/BoschGroup/744000154992819",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Coventry",
+          "country": "UK"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-12",
+        "discovered": "2026-10-12",
+        "last_verified": "2026-10-12"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "bosch-home-comfort-ai-security-research-intern-2026",
       "company": {
         "name": "Bosch Home Comfort",
@@ -55351,6 +55402,161 @@
       "dates": {
         "posted": "2026-10-09",
         "discovered": "2026-10-10",
+        "last_verified": "2026-10-12"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "captech-consulting-consulting-software-engineer-intern-2027",
+      "company": {
+        "name": "CapTech Consulting",
+        "slug": "captech-consulting"
+      },
+      "role": "Consulting Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://jobs.smartrecruiters.com/CapTechConsulting/744000155019115",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Richmond",
+          "state": "VA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-12",
+        "discovered": "2026-10-12",
+        "last_verified": "2026-10-12"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "captech-consulting-data-analysis-data-engineering-intern-2027",
+      "company": {
+        "name": "CapTech Consulting",
+        "slug": "captech-consulting"
+      },
+      "role": "Data Analysis/Data Engineering Intern",
+      "category": "data-engineering",
+      "apply_url": "https://jobs.smartrecruiters.com/CapTechConsulting/744000155023169",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Richmond",
+          "state": "VA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-12",
+        "discovered": "2026-10-12",
+        "last_verified": "2026-10-12"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "capula-technology-intern-2027",
+      "company": {
+        "name": "Capula",
+        "slug": "capula"
+      },
+      "role": "Technology Intern",
+      "category": "software-engineering",
+      "apply_url": "https://apply.workable.com/capula-investment-management-ltd/j/96EBCF5617/apply",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "London",
+          "country": "UK"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-12",
+        "discovered": "2026-10-12",
         "last_verified": "2026-10-12"
       },
       "status": "open",
@@ -77959,7 +78165,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-10-12"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -97563,7 +97769,7 @@
         "discovered": "2026-09-21",
         "last_verified": "2026-10-12"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -102512,7 +102718,7 @@
         "discovered": "2026-08-24",
         "last_verified": "2026-10-12"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -105456,7 +105662,7 @@
         "discovered": "2026-09-21",
         "last_verified": "2026-10-12"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -114127,7 +114333,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "goldman-sachs-quantitative-strategist-intern-asset-and-wealth-management-q-2027",
+      "id": "goldman-sachs-quantitative-strategist-intern-asset-and-wealth-management-q-2027-0ac951",
       "company": {
         "name": "Goldman Sachs",
         "slug": "goldman-sachs"
@@ -114142,6 +114348,58 @@
         {
           "city": "London",
           "country": "UK"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-15",
+        "discovered": "2026-10-12",
+        "last_verified": "2026-10-12"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "goldman-sachs-quantitative-strategist-intern-asset-and-wealth-management-q-2027",
+      "company": {
+        "name": "Goldman Sachs",
+        "slug": "goldman-sachs"
+      },
+      "role": "Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats",
+      "category": "quant",
+      "apply_url": "https://higher.gs.com/roles/171549?type=students",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Salt Lake City",
+          "state": "UT",
+          "country": "USA"
         }
       ],
       "compensation": {
@@ -114272,9 +114530,9 @@
       "dates": {
         "posted": "2026-08-15",
         "discovered": "2026-10-10",
-        "last_verified": "2026-10-11"
+        "last_verified": "2026-10-12"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -114689,9 +114947,9 @@
       "dates": {
         "posted": "2026-08-15",
         "discovered": "2026-10-11",
-        "last_verified": "2026-10-11"
+        "last_verified": "2026-10-12"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -114850,9 +115108,9 @@
       "dates": {
         "posted": "2026-08-15",
         "discovered": "2026-08-15",
-        "last_verified": "2026-10-11"
+        "last_verified": "2026-10-12"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -114952,9 +115210,9 @@
       "dates": {
         "posted": "2026-08-15",
         "discovered": "2026-09-04",
-        "last_verified": "2026-10-11"
+        "last_verified": "2026-10-12"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -115719,7 +115977,7 @@
         "discovered": "2026-09-14",
         "last_verified": "2026-10-12"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -115917,6 +116175,64 @@
       "dates": {
         "posted": "2026-09-14",
         "discovered": "2026-09-14",
+        "last_verified": "2026-10-12"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "google-forward-deployed-engineer-intern-2027-a4a830",
+      "company": {
+        "name": "Google",
+        "slug": "google"
+      },
+      "role": "Forward Deployed Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://www.google.com/about/careers/applications/jobs/results/75665705386549958",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "NYC",
+          "country": "USA"
+        },
+        {
+          "city": "Sunnyvale",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-12",
+        "discovered": "2026-10-12",
         "last_verified": "2026-10-12"
       },
       "status": "open",
@@ -116172,7 +116488,7 @@
         "discovered": "2026-09-14",
         "last_verified": "2026-10-12"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -116799,7 +117115,7 @@
         "discovered": "2026-09-14",
         "last_verified": "2026-10-12"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -118174,7 +118490,7 @@
         "discovered": "2026-09-14",
         "last_verified": "2026-10-12"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -145320,7 +145636,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "jump-trading-campus-software-engineer-intern-2027-295be1",
+      "id": "jump-trading-campus-software-engineer-intern-2027",
       "company": {
         "name": "Jump Trading",
         "slug": "jump-trading",
@@ -145366,58 +145682,6 @@
       },
       "dates": {
         "posted": "2026-07-08",
-        "discovered": "2026-10-08",
-        "last_verified": "2026-10-12"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:ats"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "jump-trading-campus-software-engineer-intern-2027",
-      "company": {
-        "name": "Jump Trading",
-        "slug": "jump-trading",
-        "career_page": "https://www.jumptrading.com/careers"
-      },
-      "role": "Campus Software Engineer (Intern)",
-      "category": "quant",
-      "apply_url": "https://www.jumptrading.com/hr/job?gh_jid=7975026",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "London",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-07-13",
         "discovered": "2026-07-18",
         "last_verified": "2026-10-12"
       },
@@ -156286,6 +156550,57 @@
     },
     {
       "schema_version": "1.0",
+      "id": "lseg-engineering-intern-2027-6491ee",
+      "company": {
+        "name": "LSEG",
+        "slug": "lseg"
+      },
+      "role": "Engineering Intern",
+      "category": "software-engineering",
+      "apply_url": "https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/Nottingham-United-Kingdom/Engineering-Summer-Internship-Programme_R0124221",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Nottingham",
+          "country": "UK"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-12",
+        "discovered": "2026-10-12",
+        "last_verified": "2026-10-12"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "lseg-engineering-intern-2027-6b69a8",
       "company": {
         "name": "LSEG",
@@ -162803,60 +163118,6 @@
     },
     {
       "schema_version": "1.0",
-      "id": "marvell-firmware-engineer-intern-2027-d0a34b",
-      "company": {
-        "name": "Marvell",
-        "slug": "marvell"
-      },
-      "role": "Firmware Engineer Intern",
-      "category": "embedded",
-      "apply_url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Firmware-Engineer-Intern--MS---Summer-2027_2604513",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Santa Clara",
-          "state": "CA",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [
-          "masters"
-        ],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-09-04",
-        "discovered": "2026-10-02",
-        "last_verified": "2026-10-12"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
       "id": "marvell-firmware-engineer-intern-2027-f90f6d",
       "company": {
         "name": "Marvell",
@@ -162921,14 +163182,15 @@
       },
       "role": "Firmware Engineer Intern",
       "category": "embedded",
-      "apply_url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Ottawa-Canada/Firmware-Engineer-Intern---Winter-2027_2604738",
-      "season": "winter",
+      "apply_url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Firmware-Engineer-Intern--MS---Summer-2027_2604513",
+      "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
       "locations": [
         {
-          "city": "Ottawa",
-          "country": "ON"
+          "city": "Santa Clara",
+          "state": "CA",
+          "country": "USA"
         }
       ],
       "compensation": {
@@ -162955,7 +163217,7 @@
         "resume_keywords": []
       },
       "dates": {
-        "posted": "2026-10-02",
+        "posted": "2026-09-04",
         "discovered": "2026-09-04",
         "last_verified": "2026-10-12"
       },
@@ -163066,7 +163328,7 @@
         "discovered": "2026-10-02",
         "last_verified": "2026-10-12"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -187254,9 +187516,9 @@
       "dates": {
         "posted": "2026-10-07",
         "discovered": "2026-10-08",
-        "last_verified": "2026-10-11"
+        "last_verified": "2026-10-12"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -193123,7 +193385,7 @@
         "discovered": "2026-08-19",
         "last_verified": "2026-10-12"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -227359,7 +227621,7 @@
         "discovered": "2026-09-30",
         "last_verified": "2026-10-12"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -227412,7 +227674,7 @@
         "discovered": "2026-09-30",
         "last_verified": "2026-10-12"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:ats"
@@ -242665,7 +242927,7 @@
         "discovered": "2026-10-07",
         "last_verified": "2026-10-12"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -253599,9 +253861,9 @@
       "dates": {
         "posted": "2026-10-01",
         "discovered": "2026-10-01",
-        "last_verified": "2026-10-02"
+        "last_verified": "2026-10-12"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -265417,7 +265679,7 @@
         "discovered": "2026-09-16",
         "last_verified": "2026-10-12"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -265471,7 +265733,7 @@
         "discovered": "2026-09-16",
         "last_verified": "2026-10-12"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -297300,6 +297562,59 @@
         "last_verified": "2026-09-23"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "tower-research-capital-venture-capital-intern-2026",
+      "company": {
+        "name": "Tower Research Capital",
+        "slug": "tower-research-capital"
+      },
+      "role": "Venture Capital Intern",
+      "category": "software-engineering",
+      "apply_url": "https://www.tower-research.com/open-positions/?gh_jid=7368106",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "NYC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-12",
+        "discovered": "2026-10-12",
+        "last_verified": "2026-10-12"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"

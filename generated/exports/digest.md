@@ -1,6 +1,6 @@
 # 📬 InternAtlas Weekly Digest — 2026-10-12
 
-## 🆕 New this week (371)
+## 🆕 New this week (378)
 
 - **7-Eleven** — [AI Engineer Intern](https://my7elevenhr.wd12.myworkdayjobs.com/Careers/job/SSC-Irving-TX/AI-Engineer-Intern_R26_5974-1) · ai · —
 - **7-Eleven** — [Digital Product Manager Intern](https://my7elevenhr.wd12.myworkdayjobs.com/Careers/job/SSC-Irving-TX/Digital-Product-Manager-Intern_R26_5991) · product · —
@@ -47,16 +47,20 @@
 - **Autodesk** — [Research Intern - Multimodal AI for Human Experience](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Boston-MA-USA/PhD-Researcher--Multimodal-AI-for-Human-Experience_26WD101433-1) · ai · —
 - **Autodesk** — [Researcher Intern - Machine Learning for Construction](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Boston-MA-USA/Phd-Researcher--Machine-Learning-for-Construction_26WD101430-1) · machine-learning · —
 - **Blue Cross Blue Shield of Michigan** — [Epidemiology / Biostatistics Intern](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/14949) · software-engineering · —
+- **Bosch Home Comfort** — [AI Business Solutions Intern](https://jobs.smartrecruiters.com/BoschGroup/744000154992819) · ai · —
 - **Bose** — [Audio Machine Learning Intern Co-op](https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Audio-Machine-Learning-Intern-Co-op_R29277) · machine-learning · —
 - **Boston Scientific** — [Equipment Engineering AI Vision Engineer Intern](https://bostonscientific.eightfold.ai/careers/job/563602813584308) · ai · —
 - **Boston Scientific** — [Equipment Engineering Software Engineer Intern](https://bostonscientific.eightfold.ai/careers/job/563602813584306) · software-engineering · —
 - **CACI** — [Software Development Intern](https://caci.wd1.myworkdayjobs.com/external/job/Oklahoma-City-OK-US/Software-Development-Intern---Summer-2027_333085) · software-engineering · —
 - **Cadence Solutions** — [Product Management Intern](https://job-boards.greenhouse.io/solutions/jobs/4715294006) · product · —
 - **Cadence Solutions** — [Software Engineer Intern](https://job-boards.greenhouse.io/solutions/jobs/4711210006) · software-engineering · —
+- **CapTech Consulting** — [Consulting Software Engineer Intern](https://jobs.smartrecruiters.com/CapTechConsulting/744000155019115) · software-engineering · —
+- **CapTech Consulting** — [Data Analysis/Data Engineering Intern](https://jobs.smartrecruiters.com/CapTechConsulting/744000155023169) · data-engineering · —
 - **Capital One** — [Data Scientist Intern](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Data-Scientist---Summer-2027_R1002165-1) · data-science · —
 - **Capital One** — [Full Stack Software Engineer Intern](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Full-Stack-Software-Engineer---Summer-2027_R1003143) · software-engineering · —
 - **Capstone Investment Advisors** — [Risk Tech Intern](https://job-boards.greenhouse.io/capstoneinvestmentadvisors/jobs/8867730002) · software-engineering · —
 - **Capstone Investment Advisors** — [Tech Execution Intern](https://job-boards.greenhouse.io/capstoneinvestmentadvisors/jobs/8882130002) · software-engineering · —
+- **Capula** — [Technology Intern](https://apply.workable.com/capula-investment-management-ltd/j/96EBCF5617/apply) · software-engineering · —
 - **Centene** — [AI Enablement Intern](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/AI-Enablement-Intern--Undergraduate---Summer-2027-_1662038) · ai · —
 - **Cirrus Logic** — [Analog Design Engineer Intern](https://jobs.eu.lever.co/cirrus/df033a94-155f-427f-a178-88bd18c3d5ec/apply) · design · —
 - **Cirrus Logic** — [Design Verification Engineer Intern](https://jobs.eu.lever.co/cirrus/c71a6365-31c7-4ba1-bdc4-9f2df1fc483e/apply) · design · —
@@ -128,6 +132,7 @@
 - **General Motors** — [Summer Intern - Onboard Autonomy - Embodied AI](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--Onboard-Autonomy--Embodied-AI_JR-202622135) · ai · —
 - **General Motors** — [Systems Engineer Intern - Asd](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Milford-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--Systems-Engineer--ASD_JR-202621989) · software-engineering · —
 - **GlobalFoundries** — [Software Engineer Intern](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/Software-Engineering-Intern--Summer-2027-_JR-2604039) · software-engineering · —
+- **Google** — [Forward Deployed Engineer Intern](https://www.google.com/about/careers/applications/jobs/results/75665705386549958) · software-engineering · —
 - **GuideWell Mutual** — [IT Graduate Internship - Multiple Teams](http://fa-etum-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/42182) · software-engineering · —
 - **Harbinger Motors** — [Test Engineering Intern](https://job-boards.greenhouse.io/harbingermotors/jobs/5255968007) · software-engineering · —
 - **Highmark Health** — [Market Analytics Graduate Intern](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-FAP-5th-Avenue-Place/Summer-2027-Market-Analytics-Graduate-Intern_J285906) · software-engineering · —
@@ -170,6 +175,7 @@
 - **Kyndryl** — [Marketing Intern - Marketing Analysis](https://kyndryl.wd5.myworkdayjobs.com/KyndrylEarlyCareers/job/New-York-NY-USA/Marketing-Internship--Marketing-Analysis_R-70007-1) · software-engineering · —
 - **Kyndryl** — [Marketing Intern - Marketing Analytics](https://kyndryl.wd5.myworkdayjobs.com/KyndrylEarlyCareers/job/New-York-NY-USA/Marketing-Internship--Marketing-Analytics_R-69404) · software-engineering · —
 - **Kyndryl** — [Marketing Intern - Marketing Analytics](https://kyndryl.wd5.myworkdayjobs.com/KyndrylEarlyCareers/job/New-York-NY-USA/Marketing-Internship--Marketing-Analytics_R-69403) · software-engineering · —
+- **LSEG** — [Engineering Intern](https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/Nottingham-United-Kingdom/Engineering-Summer-Internship-Programme_R0124221) · software-engineering · —
 - **Leidos** — [Data Science Intern](https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Data-Science-Intern_R-00193937) · data-science · —
 - **Leidos** — [Software Developer Intern](https://leidos.wd5.myworkdayjobs.com/External/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00193914) · software-engineering · —
 - **Leidos** — [Software Engineer Intern](https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Software-Engineer-Intern_R-00193933) · software-engineering · —
@@ -340,6 +346,7 @@
 - **TikTok** — [Machine Learning Engineer Intern](https://lifeattiktok.com/search/7694045967754889477) · machine-learning · —
 - **TikTok** — [Machine Learning Engineer Intern](https://lifeattiktok.com/search/7694044547207268661) · machine-learning · —
 - **TikTok** — [Machine Learning Engineer Intern - Monetization Technology - Ads Core Global](https://lifeattiktok.com/search/7687630614472149301) · machine-learning · —
+- **Tower Research Capital** — [Venture Capital Intern](https://www.tower-research.com/open-positions/?gh_jid=7368106) · software-engineering · —
 - **Tradeweb** — [Data Management Intern](https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301946) · software-engineering · —
 - **USAA** — [Product Management Advisor Intern](https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/Product-Management-Advisor-Intern_R0121653) · product · —
 - **Vertiv** — [Energy Storage Product Management Intern](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279379) · product · —

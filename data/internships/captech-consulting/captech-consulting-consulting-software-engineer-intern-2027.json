@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "marvell-firmware-engineer-intern-2027-d0a34b",
+  "id": "captech-consulting-consulting-software-engineer-intern-2027",
   "company": {
-    "name": "Marvell",
-    "slug": "marvell"
+    "name": "CapTech Consulting",
+    "slug": "captech-consulting"
   },
-  "role": "Firmware Engineer Intern",
-  "category": "embedded",
-  "apply_url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Firmware-Engineer-Intern--MS---Summer-2027_2604513",
+  "role": "Consulting Software Engineer Intern",
+  "category": "software-engineering",
+  "apply_url": "https://jobs.smartrecruiters.com/CapTechConsulting/744000155019115",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Santa Clara",
-      "state": "CA",
+      "city": "Richmond",
+      "state": "VA",
       "country": "USA"
     }
   ],
@@ -25,9 +25,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -42,8 +40,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-04",
-    "discovered": "2026-10-02",
+    "posted": "2026-10-12",
+    "discovered": "2026-10-12",
     "last_verified": "2026-10-12"
   },
   "status": "open",
