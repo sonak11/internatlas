@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 📊 Data Science Internships
 
-**238** tracked · **144** open now
+**237** tracked · **141** open now
 
 ## Current openings
 
@@ -47,7 +47,6 @@
 | [Cox](generated/companies/cox.md) | [Data Scientist Intern](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Data-Scientist-Intern---Summer-2027--Atlanta--GA-_R202682164) | Atlanta, GA | Onsite | 2026-09-08 | Rolling | 🟢 Open | ❔ |
 | [Datacor](generated/companies/datacor.md) | [Data Science Intern - Summer 2027 - Program](https://job-boards.greenhouse.io/datacor/jobs/5242412007) | Remote | Remote | 2026-10-01 | Rolling | 🟢 Open | ❔ |
 | [Dow Jones](generated/companies/dow-jones.md) | [Marketing Data Science Intern](https://dowjones.wd1.myworkdayjobs.com/en-US/Dow_Jones_Career/job/NYC---1211-Ave-of-the-Americas/Summer-2027-Internship-Program---Marketing-Data-Science-Intern_Job_Req_55876) | NYC | Onsite | 2026-10-07 | Rolling | 🟢 Open | ❔ |
-| [Dow Jones](generated/companies/dow-jones.md) | [Marketing Data Science Intern](https://dowjones.wd1.myworkdayjobs.com/en-US/Dow_Jones_Career/job/NYC---1211-Ave-of-the-Americas/Summer-2027-Internship-Program---Marketing-Data-Science-Intern_Job_Req_55295) | NYC | Onsite | 2026-09-14 | Rolling | 🟢 Open | ❔ |
 | [DraftKings](generated/companies/draftkings.md) | [Data Science Intern](https://draftkings.wd1.myworkdayjobs.com/Employee_Referral_Portal/job/Boston-MA/Data-Science-Intern-Referral--Summer-2027-_JR14960) | Boston, MA | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
 | [DraftKings](generated/companies/draftkings.md) | [Data Science Intern - Summer 2027](https://draftkings.wd1.myworkdayjobs.com/Campus_Career_Portal/job/Boston-MA/Data-Science-Intern--Summer-2027-_JR14958) | Boston, MA | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
 | [DriveTime](generated/companies/drivetime.md) | [Data Science Intern - Summer 2027](https://drivetime.wd1.myworkdayjobs.com/DriveTime/job/1720-W-Rio-Salado-Pkwy-Tempe-AZ-85281/Data-Science-Intern--Summer-2027-_R16301) | Dallas, TX +1 | Onsite | 2026-09-03 | Rolling | 🟢 Open | ❔ |
@@ -102,8 +101,6 @@
 | [New York Mets](generated/companies/new-york-mets.md) | [Data Science Intern](https://sterlingmets.wd5.myworkdayjobs.com/Mets/job/Citi-Field--Queens-New-York/Intern--Data-Science_R1508) | Queens, NY | Onsite | 2026-10-02 | Rolling | 🟢 Open | ❔ |
 | [NJM Insurance Group](generated/companies/njm-insurance-group.md) | [Data Science Intern](https://njm.wd1.myworkdayjobs.com/njm/job/NJM---Trenton/IT-Data-Science-Intern_R2008284) | Trenton, NJ | Onsite | 2026-09-15 | Rolling | 🟢 Open | ❔ |
 | [Nokia](generated/companies/nokia.md) | [Data Scientist Co-op/Intern](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39965) | Ottawa | Onsite | 2026-09-11 | Rolling | 🟢 Open | ❔ |
-| [Notion](generated/companies/notion.md) | [Data Science Intern](https://jobs.ashbyhq.com/notion/a67d6f2b-7c13-41d0-b36b-b2f662c9873e/application?embed=true) | SF | Onsite | 2026-08-20 | Rolling | 🟢 Open | ❔ |
-| [Notion](generated/companies/notion.md) | [Data Science Intern (Winter 2027)](https://jobs.ashbyhq.com/notion/a67d6f2b-7c13-41d0-b36b-b2f662c9873e) | Remote | Remote | 2026-08-19 | Rolling | 🟢 Open | ❔ |
 | [Papa John's](generated/companies/papa-john-s.md) | [Data Science Intern](https://papajohns.wd1.myworkdayjobs.com/papajohnscareers/job/HQ_Atlanta/XMLNAME-2027-Summer-Intern---Data-Science_R26_0000002157) | Atlanta, GA | Onsite | 2026-10-09 | Rolling | 🟢 Open | ❔ |
 | [Peraton](generated/companies/peraton.md) | [Data Science Intern](https://careers-peraton.icims.com/jobs/170320/job?mobile=true&needsRedirect=false) | Blacksburg, VA +1 | Onsite | 2026-09-09 | Rolling | 🟢 Open | ❔ |
 | [Perpay](generated/companies/perpay.md) | [Data Science Intern](https://job-boards.greenhouse.io/perpay/jobs/4076978007) | Philadelphia, PA | Onsite | 2026-09-11 | Rolling | 🟢 Open | ❔ |
@@ -220,6 +217,8 @@
 | [Noblis](generated/companies/noblis.md) | [Data Science and Innovation Intern](https://careers.noblis.org/jobs/27942?icims=1) | Springfield, VA +1 | Onsite | 2026-09-30 | Rolling | 🔴 Closed | ❔ |
 | [Nokia](generated/companies/nokia.md) | [Data Science Co-op/Intern](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34327) | Ottawa | Onsite | 2026-04-14 | Rolling | 🔴 Closed | ❔ |
 | [Northern Trust](generated/companies/northern-trust.md) | [Technology Intern - Data Science and Analytics](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL/Technology-Intern---Data-Science-and-Analytics_R160865-1) | Chicago, IL | Onsite | 2026-09-01 | Rolling | 🔴 Closed | ❔ |
+| [Notion](generated/companies/notion.md) | [Data Science Intern](https://jobs.ashbyhq.com/notion/a67d6f2b-7c13-41d0-b36b-b2f662c9873e/application?embed=true) | SF | Onsite | 2026-08-20 | Rolling | 🔴 Closed | ❔ |
+| [Notion](generated/companies/notion.md) | [Data Science Intern (Winter 2027)](https://jobs.ashbyhq.com/notion/a67d6f2b-7c13-41d0-b36b-b2f662c9873e) | Remote | Remote | 2026-08-19 | Rolling | 🔴 Closed | ❔ |
 | [NXP Semiconductors](generated/companies/nxp-semiconductors.md) | [Data Science / Structured Problem Solving Intern - Summer 2027](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Ed-Bluestein-Office/Data-Science---Structured-Problem-Solving-Intern---Summer-2027_R-10065037) | Austin, TX | Onsite | 2026-09-07 | Rolling | 🔴 Closed | ❔ |
 | [Post Holdings](generated/companies/post-holdings.md) | [Data Science Intern - Summer 2027](https://jobs.postholdings.com/jobs/31961?icims=1) | Lakeville, MN | Onsite | 2026-09-01 | Rolling | 🔴 Closed | ❔ |
 | [Procter & Gamble](generated/companies/procter-gamble.md) | [Research and Development PhD Intern - Life Cycle Assessment - Data Science](https://pg.wd5.myworkdayjobs.com/1000/job/MASON-BUS-AND-INNOVATION-CTR/R-D-PhD-Summer-Intern--Life-Cycle-Assessment--LCA--Data-Science_R000158787) | Mason, OH | Onsite | 2026-09-10 | Rolling | 🔴 Closed | ❔ |
@@ -272,7 +271,6 @@
 - Atlassian (2)
 - Citizens Financial Group (2)
 - Coinbase (2)
-- Dow Jones (2)
 - DraftKings (2)
 - Edison International (2)
 - Generac (2)
@@ -280,7 +278,6 @@
 - Itron (2)
 - Meta (2)
 - Nokia (2)
-- Notion (2)
 - Pinterest (2)
 - Procter & Gamble (2)
 - Q2 (2)
@@ -297,6 +294,7 @@
 - EMC Insurance (2)
 - Geotab (2)
 - Leidos (2)
+- Notion (2)
 - Robinhood (2)
 - RTX (2)
 - The Walt Disney Company (2)
@@ -312,6 +310,7 @@
 - Commerce Bank (1)
 - Cox (1)
 - Datacor (1)
+- Dow Jones (1)
 - DriveTime (1)
 - Ekimetrics (1)
 - Ensemble Health Partners (1)

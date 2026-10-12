@@ -1,20 +1,25 @@
 {
   "schema_version": "1.0",
-  "id": "general-dynamics-information-technology-software-development-intern-2027-8c7786",
+  "id": "ge-aerospace-engines-engineering-intern-computer-or-software-engineering-2027-db95a5",
   "company": {
-    "name": "General Dynamics Information Technology",
-    "slug": "general-dynamics-information-technology"
+    "name": "GE Aerospace",
+    "slug": "ge-aerospace"
   },
-  "role": "Software Development Intern",
+  "role": "Engines Engineering Intern - Computer or Software Engineering",
   "category": "software-engineering",
-  "apply_url": "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-Software-Development-Internship_RQ228931-2",
+  "apply_url": "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Evendale/Engines-Engineering-Intern---Computer-or-Software-Engineering---US---Summer-2027_R5029622-1",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Bossier City",
-      "state": "LA",
+      "city": "Lynn",
+      "state": "MA",
+      "country": "USA"
+    },
+    {
+      "city": "Evendale",
+      "state": "OH",
       "country": "USA"
     }
   ],
@@ -42,8 +47,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-23",
-    "discovered": "2026-09-23",
+    "posted": "2026-08-17",
+    "discovered": "2026-10-12",
     "last_verified": "2026-10-12"
   },
   "status": "open",

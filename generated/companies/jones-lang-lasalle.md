@@ -6,7 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
-| Jones Lang LaSalle | [AI Intern](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Los-Angeles-CA/AI-Intern-Summer-2027-Internship---Los-Angeles--CA_REQ539393) | LA | Onsite | 2026-10-08 | Rolling | 🟢 Open | ❔ |
+| Jones Lang LaSalle | [AI Intern](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Los-Angeles-CA/AI-Intern-Summer-2027-Internship---Los-Angeles--CA_REQ539393) | LA | Onsite | 2026-10-08 | Rolling | 🔴 Closed | ❔ |
 
 ## Related
 

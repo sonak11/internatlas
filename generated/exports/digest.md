@@ -1,6 +1,6 @@
 # 📬 InternAtlas Weekly Digest — 2026-10-12
 
-## 🆕 New this week (378)
+## 🆕 New this week (379)
 
 - **7-Eleven** — [AI Engineer Intern](https://my7elevenhr.wd12.myworkdayjobs.com/Careers/job/SSC-Irving-TX/AI-Engineer-Intern_R26_5974-1) · ai · —
 - **7-Eleven** — [Digital Product Manager Intern](https://my7elevenhr.wd12.myworkdayjobs.com/Careers/job/SSC-Irving-TX/Digital-Product-Manager-Intern_R26_5991) · product · —
@@ -360,6 +360,7 @@
 - **Waymo** — [2027 Summer Intern, BS, Software Engineer, Model Eval](https://careers.withwaymo.com/jobs?gh_jid=8257660) · software-engineering · —
 - **Waymo** — [2027 Summer Intern, BS, Waymo ML Ops & Automation](https://careers.withwaymo.com/jobs?gh_jid=8257237) · machine-learning · —
 - **Waymo** — [2027 Summer Intern, MS/PhD, ML Systems & Behavior Discovery](https://careers.withwaymo.com/jobs?gh_jid=8257159) · machine-learning · —
+- **Waymo** — [2027 Summer Intern, MS/PhD, Perception, Model Lifecycle](https://careers.withwaymo.com/jobs?gh_jid=8248411) · software-engineering · —
 - **Waymo** — [2027 Summer Intern, MS/PhD, Perception, Robotics](https://careers.withwaymo.com/jobs?gh_jid=8227633) · software-engineering · —
 - **Waymo** — [2027 Summer Intern, MS/PhD,  Research, Perception Foundation Models](https://careers.withwaymo.com/jobs?gh_jid=8257801) · research · —
 - **Waymo** — [2027 Summer Intern, MS, PhD, Software Engineer](https://careers.withwaymo.com/jobs?gh_jid=8250220) · software-engineering · —

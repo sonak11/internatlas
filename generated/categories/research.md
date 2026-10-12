@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🔬 Research Internships
 
-**191** tracked · **100** open now
+**191** tracked · **99** open now
 
 ## Current openings
 
@@ -40,7 +40,6 @@
 | [Dexmate](generated/companies/dexmate.md) | [Research Intern](https://jobs.ashbyhq.com/dexmate/9361af41-d1e4-4b27-be37-683685bf48dc/application?embed=true) | Fremont, CA | Onsite | 2026-07-21 | Rolling | 🟢 Open | ❔ |
 | [Dow Jones](generated/companies/dow-jones.md) | [Research Analyst Intern](https://dowjones.wd1.myworkdayjobs.com/en-US/Dow_Jones_Career/job/Houston-TX---OPIS/Summer-2027-Internship-Program---Research-Analyst-Intern_Job_Req_55873) | Houston, TX | Onsite | 2026-10-07 | Rolling | 🟢 Open | ❔ |
 | [Dow Jones](generated/companies/dow-jones.md) | [Research Analyst Intern](https://dowjones.wd1.myworkdayjobs.com/en-US/Dow_Jones_Career/job/Houston-TX---OPIS/Summer-2027-Internship-Program---Research-Analyst-Intern_Job_Req_55872) | Houston, TX | Onsite | 2026-10-07 | Rolling | 🟢 Open | ❔ |
-| [Dow Jones](generated/companies/dow-jones.md) | [Research Analyst Intern - Summer Internship Program](https://dowjones.wd1.myworkdayjobs.com/en-US/Dow_Jones_Career/job/Houston-TX---OPIS/Summer-2027-Internship-Program---Research-Analyst-Intern_Job_Req_55298) | Houston, TX | Onsite | 2026-09-14 | Rolling | 🟢 Open | ❔ |
 | [Eaton](generated/companies/eaton.md) | [Electrical Engineer Intern/Co-op - Research & Development Engineering](https://eaton.eightfold.ai/careers/job/687238596674) | Moon Twp, PA | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
 | [Eaton](generated/companies/eaton.md) | [R&D Engineer Intern - Research & Development Engineering](https://eaton.eightfold.ai/careers/job/687239185039) | Cleveland, TN | Onsite | 2026-09-18 | Rolling | 🟢 Open | ❔ |
 | [Excellus BCBS](generated/companies/excellus-bcbs.md) | [College Intern - Research Insights](https://lthc.wd1.myworkdayjobs.com/en-US/ExcellusBCBSCareers/job/Rochester/College-Intern---Summer-2027---Research-Insights_JR104048-2) | Rochester, NY +5 | Onsite | 2026-09-23 | Rolling | 🟢 Open | ❔ |
@@ -131,6 +130,7 @@
 | [Cloudflare](generated/companies/cloudflare.md) | [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379) | In-Office | Onsite | 2026-07-28 | Rolling | 🔴 Closed | ❔ |
 | [Create Music Group](generated/companies/create-music-group.md) | [A&R Research Intern - Hip-Hop & R&B](https://ats.rippling.com/createmusicgroup/jobs/ceae3af1-66d0-40f0-9d9a-dcbecfa578c1) | LA | Onsite | 2026-07-21 | Rolling | 🔴 Closed | ❔ |
 | [DatologyAI](generated/companies/datologyai.md) | [Research Intern](https://jobs.ashbyhq.com/DatologyAI/0ced19c2-21ec-4bcc-92d2-68d448279f3f/application?embed=true) | San Mateo, CA | Onsite | 2026-09-19 | Rolling | 🔴 Closed | ❔ |
+| [Dow Jones](generated/companies/dow-jones.md) | [Research Analyst Intern - Summer Internship Program](https://dowjones.wd1.myworkdayjobs.com/en-US/Dow_Jones_Career/job/Houston-TX---OPIS/Summer-2027-Internship-Program---Research-Analyst-Intern_Job_Req_55298) | Houston, TX | Onsite | 2026-09-14 | Rolling | 🔴 Closed | ❔ |
 | [Ecolab](generated/companies/ecolab.md) | [Research and Development Intern](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/USA---Minnesota---Eagan/Research-and-Development-Intern_R00304540) | Naperville, IL +1 | Onsite | 2026-09-04 | Rolling | 🔴 Closed | ❔ |
 | [FGS Global](generated/companies/fgs-global.md) | [Research & Insights Intern](https://job-boards.greenhouse.io/fgsglobal/jobs/4805006007) | Washington, DC | Onsite | 2026-08-31 | Rolling | 🔴 Closed | ❔ |
 | [Flexion Robotics](generated/companies/flexion-robotics.md) | [Research Intern](https://apply.workable.com/flexion-robotics/j/8FF540773C/apply) | SF | Onsite | 2026-08-08 | Rolling | 🔴 Closed | ❔ |

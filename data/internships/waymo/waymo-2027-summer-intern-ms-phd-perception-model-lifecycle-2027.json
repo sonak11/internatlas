@@ -1,19 +1,21 @@
 {
   "schema_version": "1.0",
-  "id": "dow-jones-marketing-data-science-intern-2027-378996",
+  "id": "waymo-2027-summer-intern-ms-phd-perception-model-lifecycle-2027",
   "company": {
-    "name": "Dow Jones",
-    "slug": "dow-jones"
+    "name": "Waymo",
+    "slug": "waymo",
+    "career_page": "https://waymo.com/careers"
   },
-  "role": "Marketing Data Science Intern",
-  "category": "data-science",
-  "apply_url": "https://dowjones.wd1.myworkdayjobs.com/en-US/Dow_Jones_Career/job/NYC---1211-Ave-of-the-Americas/Summer-2027-Internship-Program---Marketing-Data-Science-Intern_Job_Req_55876",
+  "role": "2027 Summer Intern, MS/PhD, Perception, Model Lifecycle",
+  "category": "software-engineering",
+  "apply_url": "https://careers.withwaymo.com/jobs?gh_jid=8248411",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "NYC",
+      "city": "Mountain View",
+      "state": "CA",
       "country": "USA"
     }
   ],
@@ -39,13 +41,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-10-07",
-    "discovered": "2026-10-08",
+    "posted": "2026-10-12",
+    "discovered": "2026-10-12",
     "last_verified": "2026-10-12"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:ats"
   ]
 }

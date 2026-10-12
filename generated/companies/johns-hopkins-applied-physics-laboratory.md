@@ -8,7 +8,6 @@
 |---|---|---|---|---|---|---|---|
 | Johns Hopkins Applied Physics Laboratory | [2027 Internship - Weapon Control](https://careers.jhuapl.edu/jobs/59901?icims=1) | Laurel, MD | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
 | Johns Hopkins Applied Physics Laboratory | [Acoustic Algorithm Development Engineer Intern](https://careers.jhuapl.edu/jobs/59784?icims=1) | Laurel, MD | Onsite | 2026-09-03 | Rolling | 🟢 Open | ❔ |
-| Johns Hopkins Applied Physics Laboratory | [AI & Data Science Intern - Analytic Capabilities](https://careers.jhuapl.edu/jobs/60008?icims=1) | Laurel, MD | Onsite | 2026-09-10 | Rolling | 🟢 Open | ❔ |
 | Johns Hopkins Applied Physics Laboratory | [Computer Engineer Intern - Shipboard Systems Group](https://careers.jhuapl.edu/jobs/60049?icims=1) | Laurel, MD | Onsite | 2026-09-15 | Rolling | 🟢 Open | ❔ |
 | Johns Hopkins Applied Physics Laboratory | [Cyber Software Engineer Intern - Capabilities Development](https://careers.jhuapl.edu/jobs/59779?icims=1) | Laurel, MD | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
 | Johns Hopkins Applied Physics Laboratory | [Data Science & Autonomous Systems Intern - Data Science & Autonomous Systems - Critical Infrastructure Protection](https://careers.jhuapl.edu/jobs/60432?icims=1) | Laurel, MD | Onsite | 2026-10-10 | Rolling | 🟢 Open | ❔ |
@@ -18,14 +17,15 @@
 | Johns Hopkins Applied Physics Laboratory | [Electrical/Computer Engineering Intern - Space Science Electronics](https://careers.jhuapl.edu/jobs/60123?icims=1) | Laurel, MD | Onsite | 2026-09-22 | Rolling | 🟢 Open | ❔ |
 | Johns Hopkins Applied Physics Laboratory | [Engineer/Analyst/Scientist Intern - C2 Resilience Sciences](https://careers.jhuapl.edu/jobs/59832?icims=1) | Laurel, MD | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
 | Johns Hopkins Applied Physics Laboratory | [Engineer/SW Developer/Analyst Intern - Maritime Force Engagement Control](https://careers.jhuapl.edu/jobs/59598?icims=1) | Laurel, MD | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
-| Johns Hopkins Applied Physics Laboratory | [Engineering/Science Intern - Tailored Autonomous Systems](https://careers.jhuapl.edu/jobs/59968?icims=1) | Laurel, MD | Onsite | 2026-09-10 | Rolling | 🟢 Open | ❔ |
 | Johns Hopkins Applied Physics Laboratory | [Maritime Modeling & Control Intern - Maritime Robotics](https://careers.jhuapl.edu/jobs/60031?icims=1) | Laurel, MD | Onsite | 2026-09-17 | Rolling | 🟢 Open | ❔ |
 | Johns Hopkins Applied Physics Laboratory | [Software Developer Intern - Tactical System Prototyping and Deployment](https://careers.jhuapl.edu/jobs/59564?icims=1) | Laurel, MD | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
 | Johns Hopkins Applied Physics Laboratory | [Software Development Intern](https://careers.jhuapl.edu/jobs/59745?icims=1) | Laurel, MD | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
 | Johns Hopkins Applied Physics Laboratory | [Space Exploration Software Engineer Intern - Embedded Applications](https://careers.jhuapl.edu/jobs/60223?icims=1) | Laurel, MD | Onsite | 2026-09-25 | Rolling | 🟢 Open | ❔ |
+| Johns Hopkins Applied Physics Laboratory | [AI & Data Science Intern - Analytic Capabilities](https://careers.jhuapl.edu/jobs/60008?icims=1) | Laurel, MD | Onsite | 2026-09-10 | Rolling | 🔴 Closed | ❔ |
 | Johns Hopkins Applied Physics Laboratory | [Artificial Intelligence and Machine Learning Intern - Research Assistant](https://careers.jhuapl.edu/jobs/60084?icims=1) | Laurel, MD | Onsite | 2026-09-25 | Rolling | 🔴 Closed | ❔ |
 | Johns Hopkins Applied Physics Laboratory | [Decision Science Intern - Software Engineer](https://careers.jhuapl.edu/jobs/60040?icims=1) | Laurel, MD | Onsite | 2026-09-11 | Rolling | 🔴 Closed | ❔ |
 | Johns Hopkins Applied Physics Laboratory | [Engineer/Scientist Intern - Health Systems and Human-Machine Systems](https://careers.jhuapl.edu/jobs/60054?icims=1) | Laurel, MD | Onsite | 2026-09-18 | Rolling | 🔴 Closed | ❔ |
+| Johns Hopkins Applied Physics Laboratory | [Engineering/Science Intern - Tailored Autonomous Systems](https://careers.jhuapl.edu/jobs/59968?icims=1) | Laurel, MD | Onsite | 2026-09-10 | Rolling | 🔴 Closed | ❔ |
 | Johns Hopkins Applied Physics Laboratory | [Human-Machine Engineering Intern](https://careers.jhuapl.edu/jobs/59782?icims=1) | Laurel, MD | Onsite | 2026-09-01 | Rolling | 🔴 Closed | ❔ |
 | Johns Hopkins Applied Physics Laboratory | [Mission Systems Engineering Intern](https://careers.jhuapl.edu/jobs/59883?icims=1) | Laurel, MD | Onsite | 2026-09-02 | Rolling | 🔴 Closed | ❔ |
 | Johns Hopkins Applied Physics Laboratory | [Modeling, Simulation & Analysis Intern - Engagement Optimization Group](https://careers.jhuapl.edu/jobs/59787?icims=1) | Laurel, MD | Onsite | 2026-09-01 | Rolling | 🔴 Closed | ❔ |

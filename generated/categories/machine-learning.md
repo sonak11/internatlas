@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🧠 Machine Learning Internships
 
-**280** tracked · **204** open now
+**280** tracked · **203** open now
 
 ## Current openings
 
@@ -81,7 +81,7 @@
 | [Honeywell](generated/companies/honeywell.md) | [Artificial Intelligence/Machine Learning Intern](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155522) | USA | Onsite | 2026-08-25 | Rolling | 🟢 Open | ❔ |
 | [Human Computer Lab](generated/companies/human-computer-lab.md) | [Software/ML Engineering Intern](https://jobs.ashbyhq.com/human-computer-lab/7d13ae27-1f02-4d9b-8d39-e3d9d67df705/application) | Toronto +1 | Onsite | 2026-07-01 | Rolling | 🟢 Open | ❔ |
 | [IMC Trading](generated/companies/imc-trading.md) | [Deep Learning Research Intern - Summer 2027 - Amsterdam](https://job-boards.eu.greenhouse.io/imc/jobs/4912874101) | Amsterdam | Onsite | 2026-07-06 | Rolling | 🟢 Open | ❔ |
-| [IMC Trading](generated/companies/imc-trading.md) | [Deep Learning Research Intern - Summer 2027 - Chicago, New York](https://job-boards.eu.greenhouse.io/imc/jobs/4907430101) | Chicago +1 | Onsite | 2026-07-01 | Rolling | 🟢 Open | ❔ |
+| [IMC Trading](generated/companies/imc-trading.md) | [Deep Learning Research Intern - Summer 2027 - Chicago, New York](https://job-boards.eu.greenhouse.io/imc/jobs/4907430101) | New York +1 | Onsite | 2026-07-01 | Rolling | 🟢 Open | ❔ |
 | [IMC Trading](generated/companies/imc-trading.md) | [Hardware Machine Learning PhD Research Internship](https://job-boards.eu.greenhouse.io/imc/jobs/4975945101) | New York | Onsite | 2026-09-23 | Rolling | 🟢 Open | ❔ |
 | [IMC Trading](generated/companies/imc-trading.md) | [Machine Learning Engineer Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4962456101) | NYC +1 | Onsite | 2026-10-08 | Rolling | 🟢 Open | ❔ |
 | [IMC Trading](generated/companies/imc-trading.md) | [Machine Learning Research Intern - Summer 2027 - Sydney](https://job-boards.eu.greenhouse.io/imc/jobs/4956547101) | Sydney | Onsite | 2026-08-24 | Rolling | 🟢 Open | ❔ |
@@ -101,7 +101,6 @@
 | [Microsoft](generated/companies/microsoft.md) | [Software Engineer Intern, AI/ML & LLM](https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0&pid=1970393556922929) | Redmond, WA | Onsite | 2026-08-04 | Rolling | 🟢 Open | ✅ |
 | [Modal](generated/companies/modal.md) | [Machine Learning Research Intern](https://jobs.ashbyhq.com/modal/38888294-6bc7-4dab-b072-6d0f0c2ed79a/application?embed=true) | SF +1 | Onsite | 2026-07-28 | Rolling | 🟢 Open | ❔ |
 | [Modal](generated/companies/modal.md) | [ML Research Intern](https://jobs.ashbyhq.com/modal/38888294-6bc7-4dab-b072-6d0f0c2ed79a) | New York +2 | Onsite | 2026-07-28 | Rolling | 🟢 Open | ❔ |
-| [Motorola](generated/companies/motorola.md) | [GenAI & Machine Learning Intern](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/GenAI---Machine-Learning---2027-Summer-Internship--Chicago-Hybrid-_R68929) | Chicago, IL | Onsite | 2026-10-07 | Rolling | 🟢 Open | ❔ |
 | [Netflix](generated/companies/netflix.md) | [AI/ML Scientist Intern - AIMS AI Foundations](https://explore.jobs.netflix.net/careers/job/790316547536) | Los Gatos, CA | Onsite | 2026-06-23 | Rolling | 🟢 Open | ❔ |
 | [Netflix](generated/companies/netflix.md) | [Machine Learning Scientist Intern - AI](https://explore.jobs.netflix.net/careers/job/790317916733) | Los Gatos, CA | Onsite | 2026-08-26 | Rolling | 🟢 Open | ❔ |
 | [Neuralink](generated/companies/neuralink.md) | [Machine Learning Engineer Intern](https://boards.greenhouse.io/neuralink/jobs/6594261003?gh_jid=6594261003) | South San Francisco | Onsite | 2025-05-30 | Rolling | 🟢 Open | ❔ |
@@ -252,6 +251,7 @@
 | [Microsoft](generated/companies/microsoft.md) | [Software Engineer Intern - AI and ML Projects](https://apply.careers.microsoft.com/careers/job/1970393556972687) | Mountain View, CA | Onsite | 2026-09-01 | Rolling | 🔴 Closed | ❔ |
 | [Microsoft](generated/companies/microsoft.md) | [Software Engineer: AI/ML & LLM Intern](https://apply.careers.microsoft.com/careers/job/1970393556922929) | Redmond, WA | Onsite | 2026-08-04 | Rolling | 🔴 Closed | ❔ |
 | [Moon](generated/companies/moon.md) | [Software Engineer Intern - Data & Machine Learning](https://ats.rippling.com/moon/jobs/5f0b98b7-561a-41d2-9104-76bdf06df094) | Glendale, CA | Onsite | 2026-07-21 | Rolling | 🔴 Closed | ❔ |
+| [Motorola](generated/companies/motorola.md) | [GenAI & Machine Learning Intern](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/GenAI---Machine-Learning---2027-Summer-Internship--Chicago-Hybrid-_R68929) | Chicago, IL | Onsite | 2026-10-07 | Rolling | 🔴 Closed | ❔ |
 | [Netflix](generated/companies/netflix.md) | [Machine Learning/AI Infrastructure Engineering Intern - AI Platform](https://explore.jobs.netflix.net/careers/job/790317917022) | Los Gatos, CA | Onsite | 2026-08-26 | Rolling | 🔴 Closed | ❔ |
 | [NVIDIA](generated/companies/nvidia.md) | [Applied Deep Learning PhD Research Intern - Reinforcement Learning for LLMs](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Deep-Learning-PhD-Research-Intern--Reinforcement-Learning-for-LLMs---Fall-2026_JR2012398) | Santa Clara, CA | Onsite | 2026-05-07 | Rolling | 🔴 Closed | ❔ |
 | [NVIDIA](generated/companies/nvidia.md) | [Computer Vision and Deep Learning Intern](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Computer-Vision-and-Deep-Learning_JR2023833) | Santa Clara, CA | Onsite | 2026-08-19 | Rolling | 🔴 Closed | ❔ |
@@ -358,7 +358,6 @@
 - Intercontinental Exchange, Inc. (1)
 - Kensho (1)
 - Klaviyo (1)
-- Motorola (1)
 - Neuralink (1)
 - Persona AI (1)
 - Phonic (1)
@@ -398,6 +397,7 @@
 - Merck (1)
 - Meta (1)
 - Moon (1)
+- Motorola (1)
 - Oligo Space (1)
 - Output Biosciences (1)
 - Philips (1)

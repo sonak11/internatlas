@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 📈 Quant Internships
 
-**329** tracked · **226** open now
+**329** tracked · **225** open now
 
 ## Current openings
 
@@ -228,7 +228,6 @@
 | [Walleye Capital](generated/companies/walleye-capital.md) | [Equity Volatility Quant Researcher Intern](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4676334006) | Miami, FL | Onsite | 2026-06-10 | Rolling | 🟢 Open | ❔ |
 | [Walleye Capital](generated/companies/walleye-capital.md) | [PhD Quantitative Researcher Intern](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679184006) | Boston, MA | Onsite | 2026-06-10 | Rolling | 🟢 Open | ❔ |
 | [Walleye Capital](generated/companies/walleye-capital.md) | [Quantitative Developer Intern](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679168006) | Boston, MA | Onsite | 2026-06-10 | Rolling | 🟢 Open | ❔ |
-| [WallStreetQuants](generated/companies/wallstreetquants.md) | [Quantitative Researcher Intern](https://apply.workable.com/wallstreetquants/j/494E392FD3/apply) | NYC | Onsite | 2026-08-08 | Rolling | 🟢 Open | ❔ |
 | [Waymo](generated/companies/waymo.md) | [2027 Summer Intern, MS/PhD, Quantitative UX Researcher, Growth/International Expansion](https://careers.withwaymo.com/jobs?gh_jid=8163364) | San Francisco | Onsite | 2026-08-28 | Rolling | 🟢 Open | ❔ |
 | [Waymo](generated/companies/waymo.md) | [2027 Summer Intern, PhD, Quantitative Software Engineer](https://careers.withwaymo.com/jobs?gh_jid=8197554) | Mountain View +2 | Onsite | 2026-09-16 | Rolling | 🟢 Open | ❔ |
 | [Xantium](generated/companies/xantium.md) | [Quantitative Developer Intern](https://job-boards.greenhouse.io/xantium/jobs/4360768009) | London +1 | Onsite | 2026-08-17 | Rolling | 🟢 Open | ❔ |
@@ -328,6 +327,7 @@
 | [Walleye Capital](generated/companies/walleye-capital.md) | [Central Equity Quant Research Intern - Ceqr](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4676069006) | NYC | Onsite | 2026-06-10 | Rolling | 🔴 Closed | ❔ |
 | [Walleye Capital](generated/companies/walleye-capital.md) | [Quantic – Quantitative Researcher Intern](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679173006) | Boston, MA | Onsite | 2026-06-10 | Rolling | 🔴 Closed | ❔ |
 | [Walleye Capital](generated/companies/walleye-capital.md) | [Volatility Trading Developer Intern](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679434006) | NYC | Onsite | 2026-06-10 | Rolling | 🔴 Closed | ❔ |
+| [WallStreetQuants](generated/companies/wallstreetquants.md) | [Quantitative Researcher Intern](https://apply.workable.com/wallstreetquants/j/494E392FD3/apply) | NYC | Onsite | 2026-08-08 | Rolling | 🔴 Closed | ❔ |
 | [WallStreetQuants](generated/companies/wallstreetquants.md) | [Quantitative Trading Intern](https://apply.workable.com/wallstreetquants/j/8CB119E789/apply) | Miami, FL | Onsite | 2026-08-08 | Rolling | 🔴 Closed | ❔ |
 | [Wells Fargo](generated/companies/wells-fargo.md) | [Quantitative Analytics Intern - Applied Computational Intelligence](https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Quantitative-Analytics-Summer-Internship-Applied-Computational-Intelligence--ACI-PhD----Early-Careers_R-574032) | Charlotte, NC | Onsite | 2026-09-09 | Rolling | 🔴 Closed | ❔ |
 | [Wells Fargo](generated/companies/wells-fargo.md) | [Quantitative Analytics Intern - Applied Computational Intelligence](https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Quantitative-Analytics-Summer-Internship-Applied-Computational-Intelligence--ACI-Masters----Early-Careers_R-574030) | Charlotte, NC | Onsite | 2026-09-09 | Rolling | 🔴 Closed | ❔ |
@@ -384,7 +384,6 @@
 - Talos (2)
 - TransMarket Group (2)
 - Voloridge (2)
-- WallStreetQuants (2)
 - Waymo (2)
 - Xantium (2)
 - Bank of Montreal (2)
@@ -394,6 +393,7 @@
 - PEAK6 (2)
 - T. Rowe Price (2)
 - Truist Bank (2)
+- WallStreetQuants (2)
 - American Bankers Association (1)
 - Aquatic Capital Management (1)
 - AXQ Capital (1)

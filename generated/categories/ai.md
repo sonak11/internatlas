@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🤖 AI Internships
 
-**480** tracked · **239** open now
+**480** tracked · **236** open now
 
 ## Current openings
 
@@ -123,9 +123,6 @@
 | [Itron](generated/companies/itron.md) | [HR AI Data Science Intern](https://itron.wd5.myworkdayjobs.com/Itron/job/United-States-of-America-Texas-Austin/Intern---HR-AI-Data-Science--Summer-2027-_JR103034-1) | Austin, TX | Onsite | 2026-10-09 | Rolling | 🟢 Open | ❔ |
 | [Itron](generated/companies/itron.md) | [HR AI Data Science Intern](https://itron.wd5.myworkdayjobs.com/Early_Careers/job/United-States-of-America-Texas-Austin/Intern---HR-AI-Data-Science--Summer-2027-_JR103034) | Austin, TX | Onsite | 2026-10-09 | Rolling | 🟢 Open | ❔ |
 | [ITT](generated/companies/itt.md) | [Data Analytics / AI Intern - Summer 2027](https://careersenus-itt-inc.icims.com/jobs/17657/job?mobile=true&needsRedirect=false) | Irvine, CA | Onsite | 2026-09-30 | Rolling | 🟢 Open | ❔ |
-| [Jabil](generated/companies/jabil.md) | [AI Transformation Intern](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Austin-TX/AI-Transformation-Intern_J2466044) | Austin, TX | Onsite | 2026-10-06 | Rolling | 🟢 Open | ❔ |
-| [Johns Hopkins Applied Physics Laboratory](generated/companies/johns-hopkins-applied-physics-laboratory.md) | [AI & Data Science Intern - Analytic Capabilities](https://careers.jhuapl.edu/jobs/60008?icims=1) | Laurel, MD | Onsite | 2026-09-10 | Rolling | 🟢 Open | ❔ |
-| [Jones Lang LaSalle](generated/companies/jones-lang-lasalle.md) | [AI Intern](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Los-Angeles-CA/AI-Intern-Summer-2027-Internship---Los-Angeles--CA_REQ539393) | LA | Onsite | 2026-10-08 | Rolling | 🟢 Open | ❔ |
 | [JP Morgan Chase](generated/companies/jp-morgan-chase.md) | [Data & AI Intern - Data & AI Program](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774745) | London +1 | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
 | [Jump Trading](generated/companies/jump-trading.md) | [AI Research Engineer Intern](https://boards.greenhouse.io/embed/job_app?token=8052281) | Chicago, IL +1 | Onsite | 2026-07-08 | Rolling | 🟢 Open | ❔ |
 | [Jump Trading](generated/companies/jump-trading.md) | [AI Research Engineer Intern - Research Automation](https://boards.greenhouse.io/embed/job_app?token=8052351) | Chicago, IL +1 | Onsite | 2026-07-08 | Rolling | 🟢 Open | ❔ |
@@ -361,6 +358,9 @@
 | [Intel](generated/companies/intel.md) | [AI Software Technical Intern](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-California-Santa-Clara/AI-Software-Technical-Intern_JR0287544) | Santa Clara, CA | Onsite | 2026-10-01 | Rolling | 🔴 Closed | ❔ |
 | [Intel Corporation](generated/companies/intel-corporation.md) | [AI Software Engineering PhD Intern](https://intel.wd1.myworkdayjobs.com/external/job/US-Oregon-Hillsboro/AI-Applied-intern_JR0285916) | Hillsboro, OR | Onsite | 2026-07-27 | Rolling | 🔴 Closed | ✅ |
 | [Intelcom \| Dragonfly](generated/companies/intelcom-dragonfly.md) | [AI Data Analyst Intern](https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/AI-Data-Analyst-Intern_JR111568) | Montreal | Onsite | 2026-08-31 | Rolling | 🔴 Closed | ❔ |
+| [Jabil](generated/companies/jabil.md) | [AI Transformation Intern](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Austin-TX/AI-Transformation-Intern_J2466044) | Austin, TX | Onsite | 2026-10-06 | Rolling | 🔴 Closed | ❔ |
+| [Johns Hopkins Applied Physics Laboratory](generated/companies/johns-hopkins-applied-physics-laboratory.md) | [AI & Data Science Intern - Analytic Capabilities](https://careers.jhuapl.edu/jobs/60008?icims=1) | Laurel, MD | Onsite | 2026-09-10 | Rolling | 🔴 Closed | ❔ |
+| [Jones Lang LaSalle](generated/companies/jones-lang-lasalle.md) | [AI Intern](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Los-Angeles-CA/AI-Intern-Summer-2027-Internship---Los-Angeles--CA_REQ539393) | LA | Onsite | 2026-10-08 | Rolling | 🔴 Closed | ❔ |
 | [JP Morgan Chase](generated/companies/jp-morgan-chase.md) | [Data & AI Intern - Analyst](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773869) | Palo Alto, CA +7 | Onsite | 2026-08-03 | Rolling | 🔴 Closed | ❔ |
 | [JP Morgan Chase](generated/companies/jp-morgan-chase.md) | [Data Internship - Data & AI Program](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210775223) | Palo Alto, CA +7 | Onsite | 2026-08-03 | Rolling | 🔴 Closed | ❔ |
 | [Kinaxis](generated/companies/kinaxis.md) | [AI Quality Co-op Intern - Evaluation & Security](https://careers-kinaxis.icims.com/jobs/35378/job?mobile=true&needsRedirect=false) | Ottawa | Onsite | 2026-09-17 | Rolling | 🔴 Closed | ❔ |
@@ -611,9 +611,6 @@
 - ICF International (1)
 - Intuitive Surgical (1)
 - ITT (1)
-- Jabil (1)
-- Johns Hopkins Applied Physics Laboratory (1)
-- Jones Lang LaSalle (1)
 - Luminance (1)
 - Marmon Holdings (1)
 - Medpace (1)
@@ -693,6 +690,9 @@
 - Huntington Bancshares (1)
 - Intel Corporation (1)
 - Intelcom | Dragonfly (1)
+- Jabil (1)
+- Johns Hopkins Applied Physics Laboratory (1)
+- Jones Lang LaSalle (1)
 - Kirin (1)
 - L3Harris Technologies (1)
 - Leidos (1)
