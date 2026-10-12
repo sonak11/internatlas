@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 📊 Statistics
 
-_Generated 2026-10-11_
+_Generated 2026-10-12_
 
 ## Top hiring companies
 
@@ -33,9 +33,9 @@ _Generated 2026-10-11_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 3565 | `███████████████` |
+| software-engineering | 3568 | `███████████████` |
 | ai | 479 | `██` |
-| quant | 330 | `█` |
+| quant | 329 | `█` |
 | machine-learning | 280 | `█` |
 | data-science | 238 | `█` |
 | hardware | 227 | `█` |
@@ -49,6 +49,9 @@ _Generated 2026-10-11_
 
 ## Newest listings
 
+- 2026-10-12 — **Kainos**: [Placement Technologist Intern](https://kainos.wd3.myworkdayjobs.com/kainos/job/Derry-Londonderry/Placement-Technologist--L-Derry----June-2027-Start-Date_JR_18557-1)
+- 2026-10-12 — **Kainos**: [Technologist Intern](https://kainos.wd3.myworkdayjobs.com/kainos/job/Birmingham/Placement-Technologist--Birmingham----July-2027-Start-Date_JR_18558)
+- 2026-10-12 — **Kainos**: [Technologist Intern](https://kainos.wd3.myworkdayjobs.com/kainos/job/Belfast/Placement-Technologist--Belfast----June-2027-Start-Date_JR_18556)
 - 2026-10-11 — **Resource Innovations**: [Energy Engineering Intern](https://apply.workable.com/resource-innovations/j/4CAAA40639/apply)
 - 2026-10-10 — **Johns Hopkins Applied Physics Laboratory**: [Data Science & Autonomous Systems Intern - Data Science & Autonomous Systems - Critical Infrastructure Protection](https://careers.jhuapl.edu/jobs/60432?icims=1)
 - 2026-10-10 — **Zipline**: [Firmware Engineer Intern](https://www.zipline.com/open-roles/8020865003?gh_jid=8020865003)
@@ -66,9 +69,6 @@ _Generated 2026-10-11_
 - 2026-10-09 — **Electronic Arts**: [C++ Software Engineer Intern](https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern-Summer-2027-8-months-UFC/216226)
 - 2026-10-09 — **Electronic Arts**: [Software Engineer Intern](https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern-Summer-2027-8-Months-Sports-Technology/216225)
 - 2026-10-09 — **Faire**: [Applied AI/ML Scientist Intern](https://boards.greenhouse.io/faire/jobs/8870975002)
-- 2026-10-09 — **GCM Grosvenor**: [Software Engineer Intern](https://job-boards.greenhouse.io/gcmgrosvenor/jobs/8015792003)
-- 2026-10-09 — **General Motors**: [AI Research Intern - Embodied AI](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--AI-Research--Embodied-AI_JR-202622146)
-- 2026-10-09 — **General Motors**: [Data Scaling Intern - Data Scaling - Embodied AI](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Data-Scaling--Embodied-AI_JR-202622132)
 
 ## Recently closed
 
@@ -171,7 +171,6 @@ _Generated 2026-10-11_
 - BlackRock — Quantitative Master’s Intern - Investments - Portfolio Management
 - BlackRock — Quantitative Master’s Intern - Investments - Portfolio Management
 - BlackRock — Quantitative Masters Intern - Investments - Portfolio Management
-- Bland AI — Machine Learning Research Intern - Audio
 - BlueCross BlueShield of Nebraska — Digital Experience Information Systems Intern
 - Booz Allen — AI Software Developer Intern
 - Booz Allen — Data Scientist Intern
@@ -256,7 +255,6 @@ _Generated 2026-10-11_
 - Dev Technology Group — Microsoft Power Platform & AI Intern - Summer 2027
 - Dev Technology Group — React/Node Developer Intern - Summer 2027
 - Devon Energy — Technology Intern - Data Engineering
-- Dexmate — Frontend Engineer Intern
 - Draper — Requirements Engineering Intern - Digital Engineering
 - Dropbox — Software Engineer Intern - Summer 2027
 - Dropbox — Software Engineering Intern (Summer 2027)
@@ -338,30 +336,12 @@ _Generated 2026-10-11_
 - Geotab — Vehicle Systems Engineering Intern - Winter/January 2027 - 4, 8 Months
 - GlobalFoundries — Design Application Engineering Intern
 - GlobalFoundries — Silicon Photonics Advanced Packaging Intern
-- Goldman Sachs — Associate Intern - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Associate Intern - Asset and Wealth Management
-- Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Americas
-- Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Investment Banking
 - Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
-- Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
-- Goldman Sachs — Quantitative Strats Analyst Intern - Americas - Investment Banking
-- Goldman Sachs — Summer Analyst Intern
 - Goldman Sachs — Summer Analyst Intern - Americas - Engineering
-- Goldman Sachs — Summer Analyst Intern - Americas - Investment Banking Quantitative Strats
-- Goldman Sachs — Summer Analyst Intern - Engineering
 - Goldman Sachs — Summer Analyst Intern - Engineering
 - Goldman Sachs — Summer Analyst Intern - Engineering
 - Goldman Sachs — Summer Analyst Intern - FICC and Equities - Sales and Trading
 - Goldman Sachs — Summer Analyst Intern - The Core Quantitative Strats
-- Goldman Sachs — Summer Associate Intern
-- Goldman Sachs — Summer Associate Intern - Multiple Teams
 - Google — Product Manager Intern - Summer 2027
 - Google — Research Scientist PhD Intern
 - Google — Software Engineer Intern - Multiple Teams
@@ -388,6 +368,7 @@ _Generated 2026-10-11_
 - Humana — Analytics Intern
 - Huntington Bancshares — Business Innovation & AI Products Intern
 - Huntington Bancshares — Data and Analytics Intern
+- Impulse Space — Avionics Electric Propulsion Engineering Intern
 - Impulse Space — Ground Software Engineering Intern - Summer 2027
 - Impulse Space — RF Test Engineer Intern - Summer 2027
 - Ingredion — Customer Innovation Technical Service Intern - Texture & Healthful Solutions
@@ -475,6 +456,7 @@ _Generated 2026-10-11_
 - Manulife Financial — Software Engineering Intern
 - Marathon Petroleum — Geographic Information Systems Intern/Co-op
 - Marsh — Government Health Consulting Informatics Intern - College Program
+- Marsh — Summer Analyst Intern - Data and Analytics
 - Marvell — Advanced Packaging Intern
 - Marvell — Advanced Packaging Intern
 - Marvell — Advanced Packaging Intern
@@ -493,6 +475,7 @@ _Generated 2026-10-11_
 - Mastercard — Software Engineer Intern
 - Mastercard — Technical Product Management Intern - Switching Solutions
 - Maxinsights — Data Operations Intern
+- McKesson — Business Analyst Intern - Product Performance
 - McKesson — Data Analyst Intern
 - McKesson — Java Full Stack Developer Intern
 - Medline — Business Intelligence Development/Analytics Intern
@@ -553,7 +536,6 @@ _Generated 2026-10-11_
 - National Information Solutions Cooperative — Software Development Intern - AI Development
 - National Laboratory of the Rockies — Transportation Systems Analysis Intern - Year-Round
 - National Life — Strategic Operations Analyst Intern
-- Nationwide — Analytic Consulting Advisor Intern
 - Nationwide — Generative AI Intern
 - Nationwide — Personal Lines Business Insights Intern
 - Nationwide — Personal Lines Sales Business Analyst Intern
@@ -599,7 +581,6 @@ _Generated 2026-10-11_
 - NVIDIA — PhD Research Intern - Generative AI for Physical AI
 - NVIDIA — PhD Research Intern - Programming Systems
 - NVIDIA — PhD Research Intern - Quantum Simulation and AI
-- NVIDIA — Physical Design and Timing Engineer Intern
 - NVIDIA — Research Intern - Electronic Design Automation
 - NVIDIA — Research Intern - Robotics
 - NVIDIA — Software Engineering Intern
