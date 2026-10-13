@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "nvidia-hardware-engineering-intern-2027-11238b",
+  "id": "brooks-running-run-performance-graduate-intern-run-research-team-2027",
   "company": {
-    "name": "NVIDIA",
-    "slug": "nvidia"
+    "name": "Brooks Running",
+    "slug": "brooks-running"
   },
-  "role": "Hardware Engineering Intern",
-  "category": "hardware",
-  "apply_url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Engineering_JR2023508-1",
-  "season": "summer",
+  "role": "Run Performance Graduate Intern - Run Research Team",
+  "category": "research",
+  "apply_url": "https://jobs.lever.co/brooksrunning/b4462155-4109-43ce-adfa-8e58bb429215/apply",
+  "season": "winter",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Santa Clara",
-      "state": "CA",
+      "city": "Seattle",
+      "state": "WA",
       "country": "USA"
     }
   ],
@@ -26,8 +26,7 @@
   "eligibility": {
     "graduation_years": [],
     "degree_levels": [
-      "masters",
-      "phd"
+      "masters"
     ],
     "citizenship_required": false,
     "security_clearance_required": false,
@@ -43,8 +42,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-19",
-    "discovered": "2026-10-05",
+    "posted": "2026-10-03",
+    "discovered": "2026-10-13",
     "last_verified": "2026-10-13"
   },
   "status": "open",

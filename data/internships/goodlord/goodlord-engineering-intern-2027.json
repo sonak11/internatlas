@@ -1,21 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "invesco-early-career-intern-technology-2027-1e6077",
+  "id": "goodlord-engineering-intern-2027",
   "company": {
-    "name": "Invesco",
-    "slug": "invesco"
+    "name": "Goodlord",
+    "slug": "goodlord"
   },
-  "role": "Early Career Intern - Technology",
+  "role": "Engineering Intern",
   "category": "software-engineering",
-  "apply_url": "https://invesco.wd1.myworkdayjobs.com/IVZearlycareers/job/Atlanta-Georgia/Early-Career-Intern---Technology_R-15619",
+  "apply_url": "https://jobs.ashbyhq.com/goodlord/7b103308-98c7-4505-b8c6-b98383e51b61/application?embed=true",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Atlanta",
-      "state": "GA",
-      "country": "USA"
+      "city": "London",
+      "country": "UK"
     }
   ],
   "compensation": {
@@ -40,8 +39,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-29",
-    "discovered": "2026-09-30",
+    "posted": "2026-10-13",
+    "discovered": "2026-10-13",
     "last_verified": "2026-10-13"
   },
   "status": "open",

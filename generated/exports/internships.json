@@ -1,6 +1,6 @@
 {
   "generated": "2026-10-13",
-  "count": 6066,
+  "count": 6067,
   "internships": [
     {
       "schema_version": "1.0",
@@ -29976,7 +29976,7 @@
         "discovered": "2026-10-02",
         "last_verified": "2026-10-13"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -30188,7 +30188,7 @@
         "discovered": "2026-10-02",
         "last_verified": "2026-10-13"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -36592,6 +36592,60 @@
     },
     {
       "schema_version": "1.0",
+      "id": "bedrock-robotics-sensor-systems-engineer-intern-2027",
+      "company": {
+        "name": "Bedrock Robotics",
+        "slug": "bedrock-robotics"
+      },
+      "role": "Sensor Systems Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://jobs.ashbyhq.com/bedrock-robotics/d7da851b-55c2-45d4-bf8b-aa879282f25c/application?embed=true",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "SF",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters",
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-10",
+        "discovered": "2026-10-13",
+        "last_verified": "2026-10-13"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "bedrock-robotics-software-engineer-intern-fleet-platform-2027",
       "company": {
         "name": "Bedrock Robotics",
@@ -36745,7 +36799,7 @@
         "discovered": "2026-09-10",
         "last_verified": "2026-10-13"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -47301,6 +47355,60 @@
         "last_verified": "2026-09-03"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "brooks-running-run-performance-graduate-intern-run-research-team-2027",
+      "company": {
+        "name": "Brooks Running",
+        "slug": "brooks-running"
+      },
+      "role": "Run Performance Graduate Intern - Run Research Team",
+      "category": "research",
+      "apply_url": "https://jobs.lever.co/brooksrunning/b4462155-4109-43ce-adfa-8e58bb429215/apply",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Seattle",
+          "state": "WA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-03",
+        "discovered": "2026-10-13",
+        "last_verified": "2026-10-13"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -71772,7 +71880,7 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-10-13"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -83190,7 +83298,7 @@
         "discovered": "2026-09-14",
         "last_verified": "2026-10-13"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -90753,7 +90861,7 @@
         "discovered": "2026-09-16",
         "last_verified": "2026-10-13"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -91028,7 +91136,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-13"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -98918,9 +99026,9 @@
       "dates": {
         "posted": "2026-09-21",
         "discovered": "2026-09-21",
-        "last_verified": "2026-10-12"
+        "last_verified": "2026-10-13"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -115439,7 +115547,7 @@
         "discovered": "2026-08-27",
         "last_verified": "2026-10-13"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -115544,7 +115652,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-10-13"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -115597,7 +115705,7 @@
         "discovered": "2026-10-11",
         "last_verified": "2026-10-13"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -115650,7 +115758,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-10-13"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -115702,7 +115810,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-13"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -115754,7 +115862,7 @@
         "discovered": "2026-10-06",
         "last_verified": "2026-10-13"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -115808,7 +115916,7 @@
         "discovered": "2026-09-16",
         "last_verified": "2026-10-13"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -115861,7 +115969,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-13"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -115912,7 +116020,7 @@
         "discovered": "2026-10-12",
         "last_verified": "2026-10-13"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -115966,7 +116074,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-13"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -116017,7 +116125,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-13"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -116119,7 +116227,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-10-13"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -116171,7 +116279,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-13"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -116222,7 +116330,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-13"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -116431,7 +116539,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-13"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -116592,7 +116700,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-13"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -116903,7 +117011,7 @@
         "discovered": "2026-08-29",
         "last_verified": "2026-10-13"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -116956,7 +117064,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-10-13"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -117005,6 +117113,57 @@
       "dates": {
         "posted": "2026-09-09",
         "discovered": "2026-09-09",
+        "last_verified": "2026-10-13"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "goodlord-engineering-intern-2027",
+      "company": {
+        "name": "Goodlord",
+        "slug": "goodlord"
+      },
+      "role": "Engineering Intern",
+      "category": "software-engineering",
+      "apply_url": "https://jobs.ashbyhq.com/goodlord/7b103308-98c7-4505-b8c6-b98383e51b61/application?embed=true",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "London",
+          "country": "UK"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-13",
+        "discovered": "2026-10-13",
         "last_verified": "2026-10-13"
       },
       "status": "open",
@@ -128885,7 +129044,7 @@
         "discovered": "2026-08-18",
         "last_verified": "2026-10-13"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -136225,7 +136384,7 @@
         "discovered": "2026-09-30",
         "last_verified": "2026-10-13"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -139931,58 +140090,6 @@
     },
     {
       "schema_version": "1.0",
-      "id": "invesco-early-career-intern-technology-2027-1e6077",
-      "company": {
-        "name": "Invesco",
-        "slug": "invesco"
-      },
-      "role": "Early Career Intern - Technology",
-      "category": "software-engineering",
-      "apply_url": "https://invesco.wd1.myworkdayjobs.com/IVZearlycareers/job/Atlanta-Georgia/Early-Career-Intern---Technology_R-15619",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Atlanta",
-          "state": "GA",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-09-29",
-        "discovered": "2026-09-30",
-        "last_verified": "2026-10-13"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
       "id": "invesco-early-career-intern-technology-2027",
       "company": {
         "name": "Invesco",
@@ -139990,7 +140097,7 @@
       },
       "role": "Early Career Intern - Technology",
       "category": "software-engineering",
-      "apply_url": "https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/Atlanta-Georgia/Early-Career-Intern---Technology_R-15619-1",
+      "apply_url": "https://invesco.wd1.myworkdayjobs.com/IVZearlycareers/job/Atlanta-Georgia/Early-Career-Intern---Technology_R-15619",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
@@ -142842,7 +142949,7 @@
         "discovered": "2026-10-11",
         "last_verified": "2026-10-13"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -144321,7 +144428,7 @@
         "discovered": "2026-09-14",
         "last_verified": "2026-10-13"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -167500,7 +167607,7 @@
         "discovered": "2026-08-01",
         "last_verified": "2026-10-13"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -170065,7 +170172,7 @@
         "discovered": "2026-09-08",
         "last_verified": "2026-10-13"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -195176,7 +195283,7 @@
         "discovered": "2026-10-09",
         "last_verified": "2026-10-13"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -195621,7 +195728,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "nvidia-hardware-engineering-intern-2027-11238b",
+      "id": "nvidia-hardware-engineering-intern-2027",
       "company": {
         "name": "NVIDIA",
         "slug": "nvidia"
@@ -195665,61 +195772,6 @@
       },
       "dates": {
         "posted": "2026-08-19",
-        "discovered": "2026-10-05",
-        "last_verified": "2026-10-13"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "nvidia-hardware-engineering-intern-2027",
-      "company": {
-        "name": "NVIDIA",
-        "slug": "nvidia"
-      },
-      "role": "Hardware Engineering Intern",
-      "category": "hardware",
-      "apply_url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Ignite-Internships--Hardware-Engineering_JR2027047",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Santa Clara",
-          "state": "CA",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [
-          "masters",
-          "phd"
-        ],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-10-05",
         "discovered": "2026-08-19",
         "last_verified": "2026-10-13"
       },
@@ -195776,9 +195828,9 @@
       "dates": {
         "posted": "2026-08-19",
         "discovered": "2026-08-19",
-        "last_verified": "2026-10-12"
+        "last_verified": "2026-10-13"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -226042,7 +226094,7 @@
         "discovered": "2026-10-13",
         "last_verified": "2026-10-13"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -240365,7 +240417,7 @@
         "discovered": "2026-10-09",
         "last_verified": "2026-10-13"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -242622,7 +242674,7 @@
         "discovered": "2026-10-09",
         "last_verified": "2026-10-13"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -262941,7 +262993,7 @@
         "discovered": "2026-10-06",
         "last_verified": "2026-10-13"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -299000,7 +299052,7 @@
         "discovered": "2026-09-19",
         "last_verified": "2026-10-13"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -299051,7 +299103,7 @@
         "discovered": "2026-09-19",
         "last_verified": "2026-10-13"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -304198,7 +304250,7 @@
         "discovered": "2026-09-22",
         "last_verified": "2026-10-13"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -322072,7 +322124,7 @@
         "discovered": "2026-09-14",
         "last_verified": "2026-10-13"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
