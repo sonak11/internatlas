@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "rtx-software-engineer-intern-2027-e29389",
+  "id": "rtx-software-engineer-intern-2027-986038",
   "company": {
     "name": "RTX",
     "slug": "rtx"
   },
   "role": "Software Engineer Intern",
   "category": "software-engineering",
-  "apply_url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-CAMBRIDGE-BBN06--10--50-Moulton-St--MOULTON-B6/Software-Engineer-Intern--Summer-2027----Onsite_01873017",
+  "apply_url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MD-ANNAPOLIS-JUNCTION-339--306-Sentinel-Dr--339-BLDG/Software-Engineering-Intern--Summer-2027-_01880895-1",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Cambridge",
-      "state": "MA",
+      "city": "Annapolis Junction",
+      "state": "MD",
       "country": "USA"
     }
   ],
@@ -26,8 +26,7 @@
   "eligibility": {
     "graduation_years": [],
     "degree_levels": [
-      "masters",
-      "phd"
+      "masters"
     ],
     "citizenship_required": false,
     "security_clearance_required": false,
@@ -43,7 +42,7 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-19",
+    "posted": "2026-10-13",
     "discovered": "2026-10-13",
     "last_verified": "2026-10-13"
   },

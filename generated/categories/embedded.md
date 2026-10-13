@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # ⚙️ Embedded Internships
 
-**143** tracked · **96** open now
+**144** tracked · **99** open now
 
 ## Current openings
 
@@ -22,6 +22,7 @@
 | [Apex Technology, Inc.](generated/companies/apex-technology-inc.md) | [Software Engineering Intern, Embedded Systems](https://jobs.ashbyhq.com/apex-technology-inc/5ec2dfa9-724d-4ce4-ab97-5067ec747f11) | Los Angeles | Onsite | 2026-05-11 | Rolling | 🟢 Open | ❔ |
 | [Atomic Semi](generated/companies/atomic-semi.md) | [Embedded Software Engineering Intern](https://jobs.ashbyhq.com/AtomicSemi/13e95284-dbcf-4cf2-8151-c9687dfc1889) | San Francisco, CA | Onsite | 2025-08-15 | Rolling | 🟢 Open | ✅ |
 | [Base Power](generated/companies/base-power.md) | [Firmware Engineer Intern](https://jobs.ashbyhq.com/base-power/a8ee9a66-e90b-42c2-a4a2-28d997c3e8c7/application?embed=true) | Austin, TX | Onsite | 2026-05-27 | Rolling | 🟢 Open | ❔ |
+| [Boston Scientific](generated/companies/boston-scientific.md) | [R&D Firmware Engineer Intern](https://bostonscientific.eightfold.ai/careers/job/563602813547667) | Arden Hills, MN | Onsite | 2026-10-13 | Rolling | 🟢 Open | ❔ |
 | [CesiumAstro](generated/companies/cesiumastro.md) | [Embedded Software Engineer Intern](https://jobs.lever.co/CesiumAstro/d25bf640-2b2b-48d6-ab79-8a06b246caaa/apply) | Austin, TX | Onsite | 2026-09-16 | Rolling | 🟢 Open | ❔ |
 | [CesiumAstro](generated/companies/cesiumastro.md) | [Embedded Software Engineer Intern](https://jobs.lever.co/CesiumAstro/96e97f22-a5b2-4e95-af84-b4f765343663/apply) | Westminster, CO | Onsite | 2026-09-16 | Rolling | 🟢 Open | ❔ |
 | [Cirrus Logic](generated/companies/cirrus-logic.md) | [Embedded Firmware Engineer Intern](https://jobs.eu.lever.co/cirrus/0af920c1-6ecb-447f-9b22-3eda6b8d4ed8/apply) | Phoenix, AZ | Onsite | 2026-10-05 | Rolling | 🟢 Open | ❔ |
@@ -48,8 +49,10 @@
 | [Johns Hopkins Applied Physics Laboratory](generated/companies/johns-hopkins-applied-physics-laboratory.md) | [Space Exploration Software Engineer Intern - Embedded Applications](https://careers.jhuapl.edu/jobs/60223?icims=1) | Laurel, MD | Onsite | 2026-09-25 | Rolling | 🟢 Open | ❔ |
 | [Kepler Communications](generated/companies/kepler-communications.md) | [Embedded Software Engineer Intern - January 2027 - 4 months](https://jobs.lever.co/kepler/2ad02ce3-1d56-4aee-9f1d-5199c780c0c1/apply) | Toronto | Onsite | 2026-08-19 | Rolling | 🟢 Open | ❔ |
 | [Lunar Outpost](generated/companies/lunar-outpost.md) | [Embedded Software Engineer Intern - Summer 2027](https://lunaroutpost.bamboohr.com/careers/392/) | Golden, CO | Onsite | 2026-09-15 | Rolling | 🟢 Open | ❔ |
-| [Marvell](generated/companies/marvell.md) | [Firmware Engineer Intern](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Firmware-Engineer-Intern--BS---Summer-2027_2604461-1) | Santa Clara, CA +1 | Onsite | 2026-09-30 | Rolling | 🟢 Open | ❔ |
 | [Marvell](generated/companies/marvell.md) | [Firmware Engineer Intern](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Firmware-Engineer-Intern--MS---Summer-2027_2604513) | Santa Clara, CA | Onsite | 2026-09-04 | Rolling | 🟢 Open | ❔ |
+| [Marvell](generated/companies/marvell.md) | [Firmware Engineer Intern](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Firmware-Engineer-Intern--BS---Summer-2027_2604461-1) | Santa Clara, CA +1 | Onsite | 2026-09-30 | Rolling | 🟢 Open | ❔ |
+| [Marvell](generated/companies/marvell.md) | [Firmware Engineer Intern](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Ottawa-Canada/Firmware-Engineer-Intern---Winter-2027_2604738) | Ottawa | Onsite | 2026-10-02 | Rolling | 🟢 Open | ❔ |
+| [Marvell](generated/companies/marvell.md) | [Firmware Engineer Intern - MS - Summer 2027](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Firmware-Engineer-Intern--MS---Summer-2027_2604513-1) | Santa Clara, CA | Onsite | 2026-10-01 | Rolling | 🟢 Open | ❔ |
 | [Marvell](generated/companies/marvell.md) | [Firmware Engineer Intern Co-op](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Toronto-Canada/Firmware-Engineer-Intern---BS-MS---2027-Co-Op_2604959) | Toronto | Onsite | 2026-10-02 | Rolling | 🟢 Open | ❔ |
 | [Motorola](generated/companies/motorola.md) | [Embedded Software Intern](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Irvine-CA/Intern---Embedded-Software--System--and-Test-Engineer---2026_R62372) | Irvine, CA | Onsite | 2026-07-04 | Rolling | 🟢 Open | ❔ |
 | [Neuralink](generated/companies/neuralink.md) | [Electrical Engineer Intern - Implant Embedded Systems](https://boards.greenhouse.io/neuralink/jobs/7702527003) | Austin, TX +1 | Onsite | 2026-04-16 | Rolling | 🟢 Open | ❔ |
@@ -108,7 +111,6 @@
 | [Apex](generated/companies/apex.md) | [Software Engineer Intern - Embedded Systems](https://jobs.ashbyhq.com/apex-technology-inc/4203604c-2330-4c89-8432-37af718a6bda/application?embed=true) | LA | Onsite | 2026-09-03 | Rolling | 🔴 Closed | ❔ |
 | [Astranis](generated/companies/astranis.md) | [Embedded Software Developer – Network/Payload Software Intern](https://job-boards.greenhouse.io/astranis/jobs/4601135006) | SF | Onsite | 2025-12-31 | Rolling | 🔴 Closed | ❔ |
 | [Axon](generated/companies/axon.md) | [Embedded Engineer Intern](https://job-boards.greenhouse.io/axontalentcommunity/jobs/7800627003) | Boston, MA +1 | Onsite | 2026-08-27 | Rolling | 🔴 Closed | ❔ |
-| [Boston Scientific](generated/companies/boston-scientific.md) | [R&D Firmware Engineer Intern](https://bostonscientific.eightfold.ai/careers/job/563602813547669) | Arden Hills, MN | Onsite | 2026-09-29 | Rolling | 🔴 Closed | ❔ |
 | [Ciena](generated/companies/ciena.md) | [Embedded Software Engineer Intern](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Engineer-Intern--4-months---September-2026-_R031232) | Ottawa | Onsite | 2026-06-23 | Rolling | 🔴 Closed | ❔ |
 | [Ciena](generated/companies/ciena.md) | [Embedded Software Engineer Intern](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Engineer-Intern--4-months---September-2026-_R031219) | Ottawa | Onsite | 2026-06-23 | Rolling | 🔴 Closed | ❔ |
 | [Daktronics](generated/companies/daktronics.md) | [Hardware Design Co-op Intern - Firmware](https://careers-daktronics.icims.com/jobs/7518/job?mobile=true&needsRedirect=false) | Brookings, SD | Onsite | 2026-08-24 | Rolling | 🔴 Closed | ❔ |
@@ -120,7 +122,6 @@
 | [Geotab](generated/companies/geotab.md) | [Embedded Developer Intern - Multiple Teams](https://job-boards.greenhouse.io/internshiplist2000/jobs/5406651008) | Oakville +1 | Onsite | 2026-09-01 | Rolling | 🔴 Closed | ❔ |
 | [Inogen](generated/companies/inogen.md) | [Firmware Engineer Intern](https://jobs.jobvite.com/inogen/job/om2zAfwh?nl=1&nl=1&fr=false) | Plano, TX | Onsite | 2026-08-04 | Rolling | 🔴 Closed | ❔ |
 | [Lexington Medical](generated/companies/lexington-medical.md) | [Electrical/Embedded Software Engineer Intern](https://job-boards.greenhouse.io/lexingtonmedical/jobs/5400236008) | Bedford, MA | Onsite | 2026-09-09 | Rolling | 🔴 Closed | ❔ |
-| [Marvell](generated/companies/marvell.md) | [Firmware Engineer Intern - MS - Summer 2027](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Firmware-Engineer-Intern--MS---Summer-2027_2604513-1) | Santa Clara, CA | Onsite | 2026-10-01 | Rolling | 🔴 Closed | ❔ |
 | [Microchip Technology](generated/companies/microchip-technology.md) | [Engineering Intern - Firmware Development](https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/TX---Houston---Compaq-Center-Dr/Intern-Engineering--Firmware-Development-_R3372-26) | Houston, TX | Onsite | 2026-08-03 | Rolling | 🔴 Closed | ❔ |
 | [Microsoft](generated/companies/microsoft.md) | [Firmware Engineer Intern](https://apply.careers.microsoft.com/careers/job/1970393557023161) | Santa Clara, CA | Onsite | 2026-10-05 | Rolling | 🔴 Closed | ❔ |
 | [Midmark](generated/companies/midmark.md) | [Firmware Engineering Intern/Co-op](https://hcor.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4333) | Vandalia, OH | Onsite | 2026-02-05 | Rolling | 🔴 Closed | ❔ |
@@ -157,7 +158,7 @@
 - Tesla (29)
 - AMD (8)
 - Zipline (6)
-- Marvell (4)
+- Marvell (5)
 - Neuralink (4)
 - Rivian and Volkswagen Group Technologies (4)
 - Etched (3)
@@ -183,6 +184,7 @@
 - Apex Technology, Inc. (1)
 - Atomic Semi (1)
 - Base Power (1)
+- Boston Scientific (1)
 - CoStar Group (1)
 - Draper (1)
 - Gecko Robotics (1)
@@ -213,7 +215,6 @@
 - Apex (1)
 - Astranis (1)
 - Axon (1)
-- Boston Scientific (1)
 - Daktronics (1)
 - E-Space (1)
 - Formlabs (1)

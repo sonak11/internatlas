@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🤖 AI Internships
 
-**484** tracked · **240** open now
+**484** tracked · **237** open now
 
 ## Current openings
 
@@ -77,7 +77,6 @@
 | [Ciena](generated/companies/ciena.md) | [AI Engineer Intern - Winter 2027](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/AI-Engineer-Intern--Winter-2027-_R031667) | Ottawa | Onsite | 2026-09-16 | Rolling | 🟢 Open | ❔ |
 | [Cigna Group](generated/companies/cigna-group.md) | [AI Engineer Intern](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/TX-Austin-11501-Alterra-Pkwy-STE-500/The-Cigna-Group-s-Technology-Development-Program---AI-Engineering-Track-Summer-Internship_26009535) | Austin, TX | Onsite | 2026-09-09 | Rolling | 🟢 Open | ❔ |
 | [Clarios](generated/companies/clarios.md) | [IT Digital/AI Intern - Summer 2027](https://clarios.wd5.myworkdayjobs.com/clarioscareers/job/United-States-Wisconsin-Milwaukee/IT-Digital-AI-Intern--Summer-2027-_WD49910) | Milwaukee, WI | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
-| [Collier Aerospace](generated/companies/collier-aerospace.md) | [AI Feature Development Intern - NCSG](https://ats.rippling.com/collieraerospace/jobs/5a8bf9a3-c4f5-4c5a-ba9a-188979106827) | Raleigh, NC | Onsite | 2026-09-16 | Rolling | 🟢 Open | ❔ |
 | [Commercial Metals](generated/companies/commercial-metals.md) | [AI Intern](https://jobs.cmc.com/job/Irving-AI-Intern-SIOP-TX-75039/1417644400/?ats=successfactors) | Irving, TX | Onsite | 2026-08-10 | Rolling | 🟢 Open | ❔ |
 | [Corewell Health](generated/companies/corewell-health.md) | [Digital Services Generative AI Internship](https://spectrumhealth.wd5.myworkdayjobs.com/CorewellHealthCareers/job/Grand-Rapids-MI/Digital-Services-Generative-AI-Internship-Summer-2027_R229392) | Grand Rapids, MI +2 | Onsite | 2026-10-12 | Rolling | 🟢 Open | ❔ |
 | [Cotiviti](generated/companies/cotiviti.md) | [Generative AI Research Engineer Intern](https://careers-cotiviti.icims.com/jobs/20183/job?mobile=true&needsRedirect=false) | Remote | Remote | 2026-09-18 | Rolling | 🟢 Open | ❔ |
@@ -238,8 +237,6 @@
 | [Veeam Software](generated/companies/veeam-software.md) | [Competitive Intelligence AI Engineer Intern](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4955279101) | Georgia | Onsite | 2026-10-01 | Rolling | 🟢 Open | ❔ |
 | [Veeam Software](generated/companies/veeam-software.md) | [Customer Care AI Analyst Intern - Summer 2027](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4972324101) | Columbus, OH | Onsite | 2026-09-11 | Rolling | 🟢 Open | ❔ |
 | [Veeam Software](generated/companies/veeam-software.md) | [Security & AI Engineer Intern](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4952609101) | San Jose, CA | Onsite | 2026-09-11 | Rolling | 🟢 Open | ❔ |
-| [Wex](generated/companies/wex.md) | [AI & Data Platform Engineering Intern - Undergraduate](https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/AI---Data-Platform-Engineering-Intern--Undergraduate-_R23055) | Remote | Remote | 2026-09-14 | Rolling | 🟢 Open | ❔ |
-| [Wex](generated/companies/wex.md) | [Backend Software Engineer Intern - Cloud Security & AI - Undergraduate](https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/Backend-Software-Engineer-Intern---C---Cloud-Security---AI--Undergraduate-_R22589) | Remote | Remote | 2026-09-14 | Rolling | 🟢 Open | ❔ |
 | [Wex](generated/companies/wex.md) | [Backend Software Engineer Intern - Java & AI - Master's](https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/Backend-Software-Engineer-Intern---Java---AI--Master-s-_R22547) | Remote | Remote | 2026-09-14 | Rolling | 🟢 Open | ❔ |
 | [Wex](generated/companies/wex.md) | [Software Engineer Intern - AI & Cloud](https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/Software-Engineer-Intern---AI---Cloud--Graduate-Master-s-_R22546) | Remote | Remote | 2026-09-14 | Rolling | 🟢 Open | ❔ |
 | [xAI](generated/companies/xai.md) | [Spring 2027 Business Operations Internship/Co-op](https://job-boards.greenhouse.io/xai/jobs/5255113007) | Palo Alto, CA | Onsite | 2026-10-02 | Rolling | 🟢 Open | ❔ |
@@ -309,6 +306,7 @@
 | [Cloudflare](generated/companies/cloudflare.md) | [U.S. Public Policy and AI Innovation Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8105728?gh_jid=8105728) | In-Office | Onsite | 2026-08-04 | Rolling | 🔴 Closed | ❔ |
 | [CNO Financial Group](generated/companies/cno-financial-group.md) | [Artificial Intelligence Information Technology Intern - AI](https://cnoinc.wd5.myworkdayjobs.com/Careers/job/Carmel-IN/Artificial-Intelligence--AI--IT-Intern-2027---REMOTE_JR170389) | Carmel, IN | Onsite | 2026-08-03 | Rolling | 🔴 Closed | ❔ |
 | [Cole Engineering Services](generated/companies/cole-engineering-services.md) | [AI Intern](https://jobs-cesi.icims.com/jobs/11206/job?mobile=true&needsRedirect=false) | Orlando, FL | Onsite | 2026-08-18 | Rolling | 🔴 Closed | ❔ |
+| [Collier Aerospace](generated/companies/collier-aerospace.md) | [AI Feature Development Intern - NCSG](https://ats.rippling.com/collieraerospace/jobs/5a8bf9a3-c4f5-4c5a-ba9a-188979106827) | Raleigh, NC | Onsite | 2026-09-16 | Rolling | 🔴 Closed | ❔ |
 | [Concentric](generated/companies/concentric.md) | [AI Workflow Intern - AI Workflow Optimization](https://job-boards.greenhouse.io/concentric/jobs/4703940006) | Kirkland, WA | Onsite | 2026-08-11 | Rolling | 🔴 Closed | ❔ |
 | [Conduent](generated/companies/conduent.md) | [Applied AI Engineer Intern - Government Healthcare Solutions](https://egua.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25529) | Remote | Remote | 2026-08-26 | Rolling | 🔴 Closed | ❔ |
 | [Cone Health](generated/companies/cone-health.md) | [Healthcare Innovation Intern - AI](https://conehealth.wd12.myworkdayjobs.com/cone_health-careers/job/White-Box/Healthcare-Innovation--AI--Intern_JR155166) | Salt Lake City, UT | Onsite | 2026-09-11 | Rolling | 🔴 Closed | ❔ |
@@ -484,6 +482,8 @@
 | [Verisk](generated/companies/verisk.md) | [AI Intern - Summer Internship Program](https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4682) | Jersey City, NJ | Onsite | 2026-08-26 | Rolling | 🔴 Closed | ❔ |
 | [Verizon Communications](generated/companies/verizon-communications.md) | [AI Science Intern - Multiple Teams](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Basking-Ridge-New-Jersey/Verizon-Network-and-Technology--AI-Science-2027-Internship--Rutgers--NJIT--NYU--UT-Dallas--UT-Arlington--Texas-A-M_R-1101169) | Basking Ridge | Onsite | 2026-09-22 | Rolling | 🔴 Closed | ❔ |
 | [Verizon Communications](generated/companies/verizon-communications.md) | [AI Science Intern - Network and Technology](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Basking-Ridge-New-Jersey/Verizon-Network-and-Technology--AI-Science-2027-Internship_R-1101167) | Basking Ridge | Onsite | 2026-09-22 | Rolling | 🔴 Closed | ❔ |
+| [Wex](generated/companies/wex.md) | [AI & Data Platform Engineering Intern - Undergraduate](https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/AI---Data-Platform-Engineering-Intern--Undergraduate-_R23055) | Remote | Remote | 2026-09-14 | Rolling | 🔴 Closed | ❔ |
+| [Wex](generated/companies/wex.md) | [Backend Software Engineer Intern - Cloud Security & AI - Undergraduate](https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/Backend-Software-Engineer-Intern---C---Cloud-Security---AI--Undergraduate-_R22589) | Remote | Remote | 2026-09-14 | Rolling | 🔴 Closed | ❔ |
 | [Workato](generated/companies/workato.md) | [Intern AI Engineering](https://job-boards.greenhouse.io/workato/jobs/8492935002) | SF | Onsite | 2026-04-10 | Rolling | 🔴 Closed | ❔ |
 | [Xaira Therapeutics](generated/companies/xaira-therapeutics.md) | [AI Scientist Intern - Computational Protein Design](https://job-boards.greenhouse.io/xairatherapeutics/jobs/5225658007) | Seattle, WA +1 | Onsite | 2026-08-28 | Rolling | 🔴 Closed | ❔ |
 | [Xcel Energy](generated/companies/xcel-energy.md) | [AI Solutions Development Intern](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80205/AI-Solutions-Development-Intern-CO--MN_JR116329-1) | Minneapolis, MN +1 | Onsite | 2026-09-07 | Rolling | 🔴 Closed | ❔ |
@@ -597,7 +597,6 @@
 - Chemours (1)
 - Ciena (1)
 - Clarios (1)
-- Collier Aerospace (1)
 - Commercial Metals (1)
 - Corewell Health (1)
 - Delta Air Lines (1)
@@ -670,6 +669,7 @@
 - Centific (1)
 - CNO Financial Group (1)
 - Cole Engineering Services (1)
+- Collier Aerospace (1)
 - Concentric (1)
 - Conduent (1)
 - Cook Group (1)

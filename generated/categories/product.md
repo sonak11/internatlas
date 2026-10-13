@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🧭 Product Internships
 
-**201** tracked · **117** open now
+**201** tracked · **116** open now
 
 ## Current openings
 
@@ -81,7 +81,6 @@
 | [Mohawk](generated/companies/mohawk.md) | [Product Management Intern](https://careers.mohawkind.com/mohawk/job/Calhoun-Product-Management-Intern-Summer-2027-Geor-30701/1436568500/?ats=successfactors) | Calhoun, GA | Onsite | 2026-10-05 | Rolling | 🟢 Open | ❔ |
 | [NJM Insurance Group](generated/companies/njm-insurance-group.md) | [Insurance Product Management Analyst Intern 3](https://njm.wd1.myworkdayjobs.com/njm/job/NJM---Trenton/Insurance-Product-Management-Analyst-Intern-3_R2008190) | Trenton, NJ | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
 | [Oshkosh](generated/companies/oshkosh.md) | [Product Management Intern](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Appleton-Wisconsin-United-States/Product-Management-Intern--Summer-2027-_R49746) | Appleton, WI | Onsite | 2026-08-31 | Rolling | 🟢 Open | ❔ |
-| [Oshkosh](generated/companies/oshkosh.md) | [Product Management Intern - Summer 2027](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Dodge-Center-Minnesota-United-States/Product-Management-Intern--Summer-2027-_R49796) | Dodge Center, MN | Onsite | 2026-08-31 | Rolling | 🟢 Open | ❔ |
 | [Pentair](generated/companies/pentair.md) | [Product Management Internship](https://pentair.wd5.myworkdayjobs.com/pentair_careers/job/Golden-Valley-MN/Product-Management-Leadership-Development-Internship-Program---Summer-2027_R23713) | Apex, NC +5 | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
 | [Publicis Groupe](generated/companies/publicis-groupe.md) | [Product Manager Intern - Class of 2028](https://careers.publicisgroupe.com/jobs/172574?icims=1) | Chicago, IL | Onsite | 2026-09-18 | Rolling | 🟢 Open | ❔ |
 | [Qorvo](generated/companies/qorvo.md) | [Product Management Intern](https://careers.qorvo.com/job/Greensboro-Product-Management-Intern-NC-27409/1421954200/?ats=successfactors) | Greensboro, NC | Onsite | 2026-08-31 | Rolling | 🟢 Open | ❔ |
@@ -169,6 +168,7 @@
 | [Momentive](generated/companies/momentive.md) | [Product Management Intern - Specialty Additives](https://momentive.wd1.myworkdayjobs.com/MC/job/US-WV-Friendly/Summer-2027-Product-Management-Intern_R9816) | Friendly, WV | Onsite | 2026-09-11 | Rolling | 🔴 Closed | ❔ |
 | [Naver U.Hub INC](generated/companies/naver-u-hub-inc.md) | [Product Management Intern](https://naveruhubinc.applytojob.com/apply/snw35vU7eX/ThingsBook-Product-Management-Intern) | Redwood City, CA | Onsite | 2026-08-03 | Rolling | 🔴 Closed | ❔ |
 | [NVIDIA](generated/companies/nvidia.md) | [Product Management MBA Intern - Data Center GPU](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--Data-Center-GPU---Summer-2027_JR2025670-1) | Santa Clara, CA | Onsite | 2026-09-15 | Rolling | 🔴 Closed | ❔ |
+| [Oshkosh](generated/companies/oshkosh.md) | [Product Management Intern - Summer 2027](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Dodge-Center-Minnesota-United-States/Product-Management-Intern--Summer-2027-_R49796) | Dodge Center, MN | Onsite | 2026-08-31 | Rolling | 🔴 Closed | ❔ |
 | [Pendulum Intelligence](generated/companies/pendulum-intelligence.md) | [Product Manager Intern](https://ats.rippling.com/pendulum-intelligence-jobs/jobs/301a1742-46fd-4489-b410-6fdcac0dbe27) | Remote | Remote | 2026-07-21 | Rolling | 🔴 Closed | ❔ |
 | [Philips](generated/companies/philips.md) | [Digital Healthtech Product Management Intern](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bothell-Washington-United-States/Intern---Digital-Healthtech-Product-Management---Bothell--WA---Summer-2027_585564) | Bothell, WA | Onsite | 2026-09-28 | Rolling | 🔴 Closed | ❔ |
 | [PricewaterhouseCoopers (PwC)](generated/companies/pricewaterhousecoopers-pwc.md) | [Product Management Intern - Commercial Tech & Innovation](https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Advisory-National---Commercial-Tech---Innovation---Product-Management-Intern---Summer-2027_760527WD) | Rosemont, IL | Onsite | 2026-09-15 | Rolling | 🔴 Closed | ❔ |

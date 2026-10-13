@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🔬 Research Internships
 
-**194** tracked · **109** open now
+**194** tracked · **110** open now
 
 ## Current openings
 
@@ -47,6 +47,7 @@
 | [General Motors](generated/companies/general-motors.md) | [Research and Development Intern - Smart Manufacturing Systems](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Summer-2027-Intern---Research-and-Development---Smart-Manufacturing-Systems_JR-202621657) | Warren, MI | Onsite | 2026-10-12 | Rolling | 🟢 Open | ❔ |
 | [Google](generated/companies/google.md) | [Research Intern - PhD](https://www.google.com/about/careers/applications/jobs/results/86701057991680710) | Palo Alto, CA +27 | Onsite | 2026-08-24 | Rolling | 🟢 Open | ❔ |
 | [Helion Energy](generated/companies/helion-energy.md) | [Computational Plasma Research Intern](https://jobs.ashbyhq.com/helion/d2a1f8af-a310-44af-a5bc-c68816ebb7f6/application?embed=true) | Everett, WA | Onsite | 2026-10-01 | Rolling | 🟢 Open | ❔ |
+| [Huck Adventures](generated/companies/huck-adventures.md) | [Research Analyst Intern](https://jobs.smartrecruiters.com/HuckAdventures/743999747985535) | Boulder, CO | Onsite | 2026-08-18 | Rolling | 🟢 Open | ❔ |
 | [Immuta](generated/companies/immuta.md) | [Product Research Intern](https://jobs.lever.co/immuta/18aabf0a-8b27-4b7d-8a96-6995a7f8847b/apply) | College Park, MD | Onsite | 2026-09-09 | Rolling | 🟢 Open | ❔ |
 | [Intel](generated/companies/intel.md) | [Software Research Intern - PhD](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Software-Solutions-PhD-Intern-New-2027_JR0287314) | Hillsboro, OR | Onsite | 2026-09-25 | Rolling | 🟢 Open | ❔ |
 | [J.M. Smucker](generated/companies/j-m-smucker.md) | [Sensory and Products Research Intern - Summer 2027](https://smucker.wd5.myworkdayjobs.com/US_External_Careers/job/Orrville-OH/Sensory-and-Products-Research-Intern--Summer-2027_115677) | Orrville, OH | Onsite | 2026-08-25 | Rolling | 🟢 Open | ❔ |
@@ -149,7 +150,6 @@
 | [General Motors](generated/companies/general-motors.md) | [Global Customer Research Intern](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--Global-Customer-Research-Intern--Master-MBA-Degree-_JR-202619679) | Washington, DC +1 | Onsite | 2026-09-08 | Rolling | 🔴 Closed | ❔ |
 | [General Motors](generated/companies/general-motors.md) | [Research and Development Intern - Research & Development](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2026-Fall-Intern---Research---Development_JR-202613027) | Warren, MI | Onsite | 2026-07-06 | Rolling | 🔴 Closed | ❔ |
 | [Google](generated/companies/google.md) | [Research Scientist PhD Intern](https://www.google.com/about/careers/applications/jobs/results/134795423167455942) | London | Onsite | 2026-08-17 | Rolling | 🔴 Closed | ❔ |
-| [Huck Adventures](generated/companies/huck-adventures.md) | [Research Analyst Intern](https://jobs.smartrecruiters.com/HuckAdventures/743999747985535) | Boulder, CO | Onsite | 2026-08-18 | Rolling | 🔴 Closed | ❔ |
 | [iHeartMedia](generated/companies/iheartmedia.md) | [Research Intern](https://iheartmedia.wd5.myworkdayjobs.com/External_iHM/job/Virtual-FL/Research-Intern_Req37325) | Florida | Onsite | 2026-07-04 | Rolling | 🔴 Closed | ❔ |
 | [Integra FEC](generated/companies/integra-fec.md) | [Research Analyst Intern](https://job-boards.greenhouse.io/integrainterns/jobs/5396990008) | Austin, TX | Onsite | 2026-08-20 | Rolling | 🔴 Closed | ❔ |
 | [Integrity](generated/companies/integrity.md) | [Research Intern](https://integritymarketing.wd1.myworkdayjobs.com/en-US/Integrity/job/Minneapolis-MN/Research-Intern_JR4284) | Minneapolis, MN | Onsite | 2026-07-02 | Rolling | 🔴 Closed | ❔ |
@@ -249,6 +249,7 @@
 - Dexmate (1)
 - Excellus BCBS (1)
 - Helion Energy (1)
+- Huck Adventures (1)
 - Immuta (1)
 - J.M. Smucker (1)
 - Jump Trading (1)
@@ -281,7 +282,6 @@
 - FGS Global (1)
 - Flexion Robotics (1)
 - Frontier Health (1)
-- Huck Adventures (1)
 - iHeartMedia (1)
 - Integra FEC (1)
 - Integrity (1)

@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 📊 Data Science Internships
 
-**240** tracked · **143** open now
+**240** tracked · **141** open now
 
 ## Current openings
 
@@ -80,7 +80,6 @@
 | [KKR](generated/companies/kkr.md) | [Summer Analyst Intern - Insurance Risk - Data Science](https://www.kkr.com/careers/student-careers/student-career-opportunities/post?gh_jid=6200944004) | NYC | Onsite | 2026-10-06 | Rolling | 🟢 Open | ❔ |
 | [Koch Industries](generated/companies/koch-industries.md) | [Data Science Intern](https://koch.avature.net/en_US/careers/JobDetail/195341) | Atlanta, GA | Onsite | 2026-10-08 | Rolling | 🟢 Open | ❔ |
 | [Lawrence Livermore National Laboratory (LLNL)](generated/companies/lawrence-livermore-national-laboratory-llnl.md) | [Data Science Undergraduate Student Intern - Summer 2027](https://jobs.smartrecruiters.com/LLNL/3743990015289136) | Livermore, CA | Onsite | 2026-09-16 | Rolling | 🟢 Open | ❔ |
-| [Lazard](generated/companies/lazard.md) | [Data Scientist Intern](https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6604) | NYC | Onsite | 2026-09-21 | Rolling | 🟢 Open | ❔ |
 | [LexisNexis Risk Solutions](generated/companies/lexisnexis-risk-solutions.md) | [Data Science Intern](https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Alpharetta-GA-Alderman/Data-Science-Intern_R118955) | Alpharetta, GA | Onsite | 2026-10-05 | Rolling | 🟢 Open | ❔ |
 | [Liberty Mutual](generated/companies/liberty-mutual.md) | [Data Science Intern](https://campus-libertymutual.icims.com/jobs/95486/job?mobile=true&needsRedirect=false) | Boston, MA | Onsite | 2026-10-06 | Rolling | 🟢 Open | ❔ |
 | [Louisiana Blue](generated/companies/louisiana-blue.md) | [Healthcare Data Science Intern - Spring 2027](https://bcbsla.wd1.myworkdayjobs.com/Generation_Blue/job/Corporate---Baton-Rouge-LA/CW-Healthcare-Data-Science-Intern--Spring-2027-_R12151) | Baton Rouge, LA | Onsite | 2026-09-16 | Rolling | 🟢 Open | ❔ |
@@ -141,7 +140,6 @@
 | [Vanguard](generated/companies/vanguard.md) | [Data Science Intern - College to Corporate IT](https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Charlotte-NC/College-to-Corporate-IT-Internship---Data-Science--NC-_181765) | Charlotte, NC | Onsite | 2026-08-20 | Rolling | 🟢 Open | ❔ |
 | [Vanguard](generated/companies/vanguard.md) | [Data Science Intern - Information Technology](https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship---Data-Science--PA-_181766) | Malvern, PA | Onsite | 2026-08-20 | Rolling | 🟢 Open | ❔ |
 | [Viking Global](generated/companies/viking-global.md) | [Data Science Intern](https://job-boards.greenhouse.io/vikingglobalinvestors/jobs/6202755004) | NYC | Onsite | 2026-09-21 | Rolling | 🟢 Open | ❔ |
-| [Walgreens](generated/companies/walgreens.md) | [Data Science Intern](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=26336&siteid=5014&PageType=JobDetails&jobid=1933902) | Deerfield, IL | Onsite | 2026-10-08 | Rolling | 🟢 Open | ❔ |
 | [Walmart](generated/companies/walmart.md) | [Data Science Intern 3](https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-ISD-Office---DGTC-AR-BENTONVILLE-Home-Office/Summer-2027-Intern---Data-Science-III_R-2630030) | Bentonville, AR | Onsite | 2026-09-10 | Rolling | 🟢 Open | ❔ |
 | [Walmart](generated/companies/walmart.md) | [Senior Data Scientist Intern](https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-ISD-Office---DGTC-AR-BENTONVILLE-Home-Office/Summer-2027-Intern--Intern--Sr-Data-Science_R-2630032) | Bentonville, AR | Onsite | 2026-09-10 | Rolling | 🟢 Open | ❔ |
 | [Waymo](generated/companies/waymo.md) | [2027 Summer Intern, MS/PhD, Product Data Science](https://careers.withwaymo.com/jobs?gh_jid=8199365) | San Francisco +1 | Onsite | 2026-09-18 | Rolling | 🟢 Open | ❔ |
@@ -201,6 +199,7 @@
 | [Integra FEC](generated/companies/integra-fec.md) | [Data Scientist Intern - PhD](https://job-boards.greenhouse.io/integra/jobs/5134592008) | Austin, TX | Onsite | 2026-04-28 | Rolling | 🔴 Closed | ❔ |
 | [Johns Hopkins Applied Physics Laboratory](generated/companies/johns-hopkins-applied-physics-laboratory.md) | [Data Science & Autonomous Systems Intern - Data Science & Autonomous Systems - Critical Infrastructure Protection](https://careers.jhuapl.edu/jobs/60432?icims=1) | Laurel, MD | Onsite | 2026-10-10 | Rolling | 🔴 Closed | ❔ |
 | [Johns Hopkins Applied Physics Laboratory](generated/companies/johns-hopkins-applied-physics-laboratory.md) | [Software Engineer/Data Scientist/Ontologist Intern - Threat Analytic Systems](https://careers.jhuapl.edu/jobs/59997?icims=1) | Laurel, MD | Onsite | 2026-09-10 | Rolling | 🔴 Closed | ❔ |
+| [Lazard](generated/companies/lazard.md) | [Data Scientist Intern](https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6604) | NYC | Onsite | 2026-09-21 | Rolling | 🔴 Closed | ❔ |
 | [Leidos](generated/companies/leidos.md) | [Data Science Intern](https://leidos.wd5.myworkdayjobs.com/External/job/San-Diego-CA/Data-Science-Intern_R-00190740) | San Diego, CA | Onsite | 2026-08-28 | Rolling | 🔴 Closed | ❔ |
 | [Leidos](generated/companies/leidos.md) | [Data Science Intern](https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Data-Science-Intern_R-00193937) | Arlington County | Onsite | 2026-10-06 | Rolling | 🔴 Closed | ❔ |
 | [LexisNexis Legal & Professional](generated/companies/lexisnexis-legal-professional.md) | [Data Science Intern](https://relx.wd3.myworkdayjobs.com/en-US/LexisNexisLegal/job/Raleigh-NC/Data-Science-Internship_R118691-1) | Raleigh, NC | Onsite | 2026-09-15 | Rolling | 🔴 Closed | ❔ |
@@ -244,6 +243,7 @@
 | [USAA](generated/companies/usaa.md) | [Data Scientist Intern](https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/Plano-Legacy/Data-Scientist-Intern_R0121200) | Plano, TX | Onsite | 2026-09-22 | Rolling | 🔴 Closed | ❔ |
 | [Verizon Communications](generated/companies/verizon-communications.md) | [Data Science Intern - Network and Technology](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Irving-Texas/Verizon-Network-and-Technology--Data-Science-Summer-2027-Internship_R-1101384) | Irving, TX | Onsite | 2026-09-29 | Rolling | 🔴 Closed | ❔ |
 | [Verizon Communications](generated/companies/verizon-communications.md) | [Data Scientist Intern - Fiber Engineering & Operations](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Irving-Texas/Irving-V-Teamer-for-a-Day--Verizon-Data-Science-Summer-2027-Internship_R-1101386) | Irving, TX | Onsite | 2026-09-29 | Rolling | 🔴 Closed | ❔ |
+| [Walgreens](generated/companies/walgreens.md) | [Data Science Intern](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=26336&siteid=5014&PageType=JobDetails&jobid=1933902) | Deerfield, IL | Onsite | 2026-10-08 | Rolling | 🔴 Closed | ❔ |
 | [Walleye Capital](generated/companies/walleye-capital.md) | [Investment Data Science Intern](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4676587006) | New York, NY | Onsite | 2026-07-24 | Rolling | 🔴 Closed | ❔ |
 | [Walmart](generated/companies/walmart.md) | [Data Scientist 3 Intern - 2026 Intern Conversion: 2027 FT](https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-Crossman-Respect-Building-CA-SUNNYVALE-Home-Office/XMLNAME-2026-Intern-Conversion--2027-FT-Data-Scientist-III--Sunnyvale_R-2630125) | Sunnyvale, CA | Onsite | 2026-09-03 | Rolling | 🔴 Closed | ❔ |
 | [Waymo](generated/companies/waymo.md) | [2027 Summer Intern, MS/PhD, Data Science - Commercialization Testing](https://careers.withwaymo.com/jobs?gh_jid=8167323) | San Francisco +1 | Onsite | 2026-08-31 | Rolling | 🔴 Closed | ❔ |
@@ -332,7 +332,6 @@
 - KKR (1)
 - Koch Industries (1)
 - Lawrence Livermore National Laboratory (LLNL) (1)
-- Lazard (1)
 - LexisNexis Risk Solutions (1)
 - Liberty Mutual (1)
 - Louisiana Blue (1)
@@ -355,7 +354,6 @@
 - The Hartford (1)
 - URBN (1)
 - Viking Global (1)
-- Walgreens (1)
 - West Bend Insurance (1)
 - WhiteWater Midstream (1)
 - WTW (1)
@@ -376,6 +374,7 @@
 - Genworth Financial (1)
 - HireVue (1)
 - Honeywell (1)
+- Lazard (1)
 - LexisNexis Legal & Professional (1)
 - Live Oak Bank (1)
 - Loop (1)
@@ -393,5 +392,6 @@
 - TD Bank (1)
 - U.S. Venture (1)
 - USAA (1)
+- Walgreens (1)
 - Walleye Capital (1)
 - Wealthsimple (1)

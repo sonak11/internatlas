@@ -1,0 +1,62 @@
+{
+  "schema_version": "1.0",
+  "id": "vertiv-ui-ux-design-intern-2027",
+  "company": {
+    "name": "Vertiv",
+    "slug": "vertiv"
+  },
+  "role": "UI/UX Design Intern",
+  "category": "design",
+  "apply_url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20281371",
+  "season": "summer",
+  "year": 2027,
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "Delaware",
+      "state": "OH",
+      "country": "USA"
+    },
+    {
+      "city": "Fort Lauderdale",
+      "state": "FL",
+      "country": "USA"
+    },
+    {
+      "city": "Huntsville",
+      "state": "AL",
+      "country": "USA"
+    }
+  ],
+  "compensation": {
+    "currency": "USD",
+    "housing_stipend": false,
+    "relocation_assistance": false
+  },
+  "eligibility": {
+    "graduation_years": [],
+    "degree_levels": [],
+    "citizenship_required": false,
+    "security_clearance_required": false,
+    "visa_sponsorship": "unknown"
+  },
+  "interview": {},
+  "tech": {
+    "required_skills": [],
+    "preferred_skills": [],
+    "languages": [],
+    "frameworks": [],
+    "cloud_platforms": [],
+    "resume_keywords": []
+  },
+  "dates": {
+    "posted": "2026-10-13",
+    "discovered": "2026-10-13",
+    "last_verified": "2026-10-13"
+  },
+  "status": "open",
+  "tags": [
+    "auto-ingested",
+    "src:simplify"
+  ]
+}

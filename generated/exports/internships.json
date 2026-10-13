@@ -1,6 +1,6 @@
 {
   "generated": "2026-10-13",
-  "count": 6067,
+  "count": 6075,
   "internships": [
     {
       "schema_version": "1.0",
@@ -17756,6 +17756,66 @@
     },
     {
       "schema_version": "1.0",
+      "id": "american-family-insurance-group-front-end-developer-intern-digital-sales-2027",
+      "company": {
+        "name": "American Family Insurance Group",
+        "slug": "american-family-insurance-group"
+      },
+      "role": "Front End Developer Intern - Digital Sales",
+      "category": "software-engineering",
+      "apply_url": "https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/Summer-2027-Intern--Digital-Sales_R39491",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Madison",
+          "state": "WI",
+          "country": "USA"
+        },
+        {
+          "city": "Boston",
+          "state": "MA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters",
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-06",
+        "discovered": "2026-10-13",
+        "last_verified": "2026-10-13"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "american-family-insurance-group-genai-intern-2027",
       "company": {
         "name": "American Family Insurance Group",
@@ -31589,9 +31649,9 @@
       "dates": {
         "posted": "2026-10-01",
         "discovered": "2026-10-02",
-        "last_verified": "2026-10-09"
+        "last_verified": "2026-10-13"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -45205,7 +45265,7 @@
       },
       "role": "R&D Firmware Engineer Intern",
       "category": "embedded",
-      "apply_url": "https://bostonscientific.eightfold.ai/careers/job/563602813547669",
+      "apply_url": "https://bostonscientific.eightfold.ai/careers/job/563602813547667",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
@@ -45240,11 +45300,11 @@
         "resume_keywords": []
       },
       "dates": {
-        "posted": "2026-09-29",
+        "posted": "2026-10-13",
         "discovered": "2026-09-29",
-        "last_verified": "2026-10-02"
+        "last_verified": "2026-10-13"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -52484,7 +52544,7 @@
         "discovered": "2026-09-29",
         "last_verified": "2026-10-13"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -57476,7 +57536,7 @@
         "discovered": "2026-10-02",
         "last_verified": "2026-10-13"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -60986,7 +61046,7 @@
         "discovered": "2026-09-14",
         "last_verified": "2026-10-13"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -70050,7 +70110,7 @@
         "discovered": "2026-09-17",
         "last_verified": "2026-10-13"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -99652,6 +99712,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "figma-phd-intern-software-engineer-graphics-2027-2027",
+      "company": {
+        "name": "Figma",
+        "slug": "figma",
+        "career_page": "https://www.figma.com/careers"
+      },
+      "role": "PhD Intern, Software Engineer - Graphics (2027)",
+      "category": "design",
+      "apply_url": "https://boards.greenhouse.io/figma/jobs/6219995004?gh_jid=6219995004",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Francisco",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-13",
+        "discovered": "2026-10-13",
+        "last_verified": "2026-10-13"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "figma-product-design-intern-2027-2027",
       "company": {
         "name": "Figma",
@@ -103975,9 +104087,9 @@
       "dates": {
         "posted": "2026-08-24",
         "discovered": "2026-08-24",
-        "last_verified": "2026-10-12"
+        "last_verified": "2026-10-13"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -115547,7 +115659,7 @@
         "discovered": "2026-08-27",
         "last_verified": "2026-10-13"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -115652,7 +115764,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-10-13"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -115705,7 +115817,7 @@
         "discovered": "2026-10-11",
         "last_verified": "2026-10-13"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -115758,7 +115870,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-10-13"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -115810,7 +115922,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-13"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -115862,7 +115974,7 @@
         "discovered": "2026-10-06",
         "last_verified": "2026-10-13"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -115916,7 +116028,7 @@
         "discovered": "2026-09-16",
         "last_verified": "2026-10-13"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -115969,7 +116081,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-13"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -116020,7 +116132,7 @@
         "discovered": "2026-10-12",
         "last_verified": "2026-10-13"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -116074,7 +116186,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-13"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -116125,7 +116237,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-13"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -116227,7 +116339,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-10-13"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -116279,7 +116391,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-13"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -116330,7 +116442,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-13"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -116539,7 +116651,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-13"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -116593,7 +116705,7 @@
         "discovered": "2026-10-11",
         "last_verified": "2026-10-13"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -116700,7 +116812,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-13"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -117011,7 +117123,7 @@
         "discovered": "2026-08-29",
         "last_verified": "2026-10-13"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -117064,7 +117176,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-10-13"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -117166,7 +117278,7 @@
         "discovered": "2026-10-13",
         "last_verified": "2026-10-13"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -123099,6 +123211,59 @@
       "tags": [
         "auto-ingested",
         "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "gusto-finance-intern-summer-2027-2027",
+      "company": {
+        "name": "Gusto",
+        "slug": "gusto",
+        "career_page": "https://gusto.com/about/careers"
+      },
+      "role": "Finance Intern (Summer 2027)",
+      "category": "software-engineering",
+      "apply_url": "https://job-boards.greenhouse.io/gusto/jobs/8257115",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "New York",
+          "state": "NY",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-13",
+        "discovered": "2026-10-13",
+        "last_verified": "2026-10-13"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
       ]
     },
     {
@@ -129044,7 +129209,7 @@
         "discovered": "2026-08-18",
         "last_verified": "2026-10-13"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -140090,7 +140255,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "invesco-early-career-intern-technology-2027",
+      "id": "invesco-early-career-intern-technology-2027-1e6077",
       "company": {
         "name": "Invesco",
         "slug": "invesco"
@@ -140098,6 +140263,58 @@
       "role": "Early Career Intern - Technology",
       "category": "software-engineering",
       "apply_url": "https://invesco.wd1.myworkdayjobs.com/IVZearlycareers/job/Atlanta-Georgia/Early-Career-Intern---Technology_R-15619",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Atlanta",
+          "state": "GA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-29",
+        "discovered": "2026-10-13",
+        "last_verified": "2026-10-13"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "invesco-early-career-intern-technology-2027",
+      "company": {
+        "name": "Invesco",
+        "slug": "invesco"
+      },
+      "role": "Early Career Intern - Technology",
+      "category": "software-engineering",
+      "apply_url": "https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/Atlanta-Georgia/Early-Career-Intern---Technology_R-15619-1",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
@@ -142783,9 +143000,9 @@
       "dates": {
         "posted": "2026-09-25",
         "discovered": "2026-09-26",
-        "last_verified": "2026-10-04"
+        "last_verified": "2026-10-13"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -143164,7 +143381,7 @@
         "discovered": "2026-09-10",
         "last_verified": "2026-10-13"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -145586,7 +145803,7 @@
         "discovered": "2026-10-06",
         "last_verified": "2026-10-13"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -149227,7 +149444,7 @@
         "discovered": "2026-10-08",
         "last_verified": "2026-10-13"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -155536,7 +155753,7 @@
         "discovered": "2026-09-21",
         "last_verified": "2026-10-13"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -155956,7 +156173,7 @@
         "discovered": "2026-09-30",
         "last_verified": "2026-10-13"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -156328,7 +156545,7 @@
         "discovered": "2026-10-07",
         "last_verified": "2026-10-13"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -159079,7 +159296,7 @@
         "discovered": "2026-10-06",
         "last_verified": "2026-10-13"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -165244,6 +165461,60 @@
     },
     {
       "schema_version": "1.0",
+      "id": "marvell-firmware-engineer-intern-2027-d0a34b",
+      "company": {
+        "name": "Marvell",
+        "slug": "marvell"
+      },
+      "role": "Firmware Engineer Intern",
+      "category": "embedded",
+      "apply_url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Firmware-Engineer-Intern--MS---Summer-2027_2604513",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Santa Clara",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-04",
+        "discovered": "2026-10-13",
+        "last_verified": "2026-10-13"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "marvell-firmware-engineer-intern-2027-f90f6d",
       "company": {
         "name": "Marvell",
@@ -165308,15 +165579,14 @@
       },
       "role": "Firmware Engineer Intern",
       "category": "embedded",
-      "apply_url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Firmware-Engineer-Intern--MS---Summer-2027_2604513",
-      "season": "summer",
+      "apply_url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Ottawa-Canada/Firmware-Engineer-Intern---Winter-2027_2604738",
+      "season": "winter",
       "year": 2027,
       "work_mode": "onsite",
       "locations": [
         {
-          "city": "Santa Clara",
-          "state": "CA",
-          "country": "USA"
+          "city": "Ottawa",
+          "country": "ON"
         }
       ],
       "compensation": {
@@ -165343,7 +165613,7 @@
         "resume_keywords": []
       },
       "dates": {
-        "posted": "2026-09-04",
+        "posted": "2026-10-02",
         "discovered": "2026-09-04",
         "last_verified": "2026-10-13"
       },
@@ -165452,9 +165722,9 @@
       "dates": {
         "posted": "2026-10-01",
         "discovered": "2026-10-02",
-        "last_verified": "2026-10-12"
+        "last_verified": "2026-10-13"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -177714,7 +177984,7 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-10-13"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -197692,9 +197962,9 @@
       "dates": {
         "posted": "2026-08-19",
         "discovered": "2026-08-19",
-        "last_verified": "2026-09-29"
+        "last_verified": "2026-10-13"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -203114,7 +203384,7 @@
         "discovered": "2026-08-31",
         "last_verified": "2026-10-13"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -212318,7 +212588,7 @@
         "discovered": "2026-10-08",
         "last_verified": "2026-10-13"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -219410,7 +219680,7 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-10-13"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -225061,7 +225331,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "republic-airways-strategic-operations-intern-2027-0f2b04",
+      "id": "republic-airways-strategic-operations-intern-2027",
       "company": {
         "name": "Republic Airways",
         "slug": "republic-airways"
@@ -225070,58 +225340,6 @@
       "category": "software-engineering",
       "apply_url": "https://rjet.wd108.myworkdayjobs.com/External_Career_Site/job/Carmel-Headquarters/Strategic-Operations-Intern---Summer-2027_JR-007635",
       "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Carmel",
-          "state": "IN",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-09-17",
-        "discovered": "2026-09-18",
-        "last_verified": "2026-10-13"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "republic-airways-strategic-operations-intern-2027",
-      "company": {
-        "name": "Republic Airways",
-        "slug": "republic-airways"
-      },
-      "role": "Strategic Operations Intern",
-      "category": "software-engineering",
-      "apply_url": "https://rjet.wd108.myworkdayjobs.com/External_Career_Site/job/Carmel-Headquarters/Strategic-Operations-Intern---Spring-2027_JR-007634",
-      "season": "spring",
       "year": 2027,
       "work_mode": "onsite",
       "locations": [
@@ -227011,7 +227229,7 @@
         "discovered": "2026-10-07",
         "last_verified": "2026-10-13"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -239318,7 +239536,7 @@
         "discovered": "2026-09-01",
         "last_verified": "2026-10-13"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -241980,6 +242198,60 @@
     },
     {
       "schema_version": "1.0",
+      "id": "rtx-software-engineer-intern-2027-986038",
+      "company": {
+        "name": "RTX",
+        "slug": "rtx"
+      },
+      "role": "Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MD-ANNAPOLIS-JUNCTION-339--306-Sentinel-Dr--339-BLDG/Software-Engineering-Intern--Summer-2027-_01880895-1",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Annapolis Junction",
+          "state": "MD",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-13",
+        "discovered": "2026-10-13",
+        "last_verified": "2026-10-13"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "rtx-software-engineer-intern-2027-abafd7",
       "company": {
         "name": "RTX",
@@ -242682,61 +242954,6 @@
     },
     {
       "schema_version": "1.0",
-      "id": "rtx-software-engineer-intern-2027-e29389",
-      "company": {
-        "name": "RTX",
-        "slug": "rtx"
-      },
-      "role": "Software Engineer Intern",
-      "category": "software-engineering",
-      "apply_url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-CAMBRIDGE-BBN06--10--50-Moulton-St--MOULTON-B6/Software-Engineer-Intern--Summer-2027----Onsite_01873017",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Cambridge",
-          "state": "MA",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [
-          "masters",
-          "phd"
-        ],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-09-19",
-        "discovered": "2026-10-13",
-        "last_verified": "2026-10-13"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
       "id": "rtx-software-engineer-intern-2027-e4a660",
       "company": {
         "name": "RTX",
@@ -243012,14 +243229,14 @@
       },
       "role": "Software Engineer Intern",
       "category": "software-engineering",
-      "apply_url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CO-AURORA-S77--16470-E-Hughes-Dr--BLDG-S77/Software-Engineering-Intern--Summer-2027-_01881524",
+      "apply_url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-CAMBRIDGE-BBN06--10--50-Moulton-St--MOULTON-B6/Software-Engineer-Intern--Summer-2027----Onsite_01873017",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
       "locations": [
         {
-          "city": "Aurora",
-          "state": "CO",
+          "city": "Cambridge",
+          "state": "MA",
           "country": "USA"
         }
       ],
@@ -243047,7 +243264,7 @@
         "resume_keywords": []
       },
       "dates": {
-        "posted": "2026-10-12",
+        "posted": "2026-09-19",
         "discovered": "2026-07-27",
         "last_verified": "2026-10-13"
       },
@@ -248101,7 +248318,7 @@
         "discovered": "2026-10-09",
         "last_verified": "2026-10-13"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -248156,7 +248373,7 @@
         "discovered": "2026-10-09",
         "last_verified": "2026-10-13"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -255828,7 +256045,7 @@
       },
       "role": "Software Developer Intern",
       "category": "software-engineering",
-      "apply_url": "https://soti.wd3.myworkdayjobs.com/Careers/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---SOTI-MobiControl-Apple-HQ--January-2027-12-Months-_R10551",
+      "apply_url": "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---SOTI-MobiControl-Apple-HQ--January-2027-12-Months-_R10551-2",
       "season": "winter",
       "year": 2027,
       "work_mode": "onsite",
@@ -255860,11 +256077,11 @@
         "resume_keywords": []
       },
       "dates": {
-        "posted": "2026-09-30",
+        "posted": "2026-10-13",
         "discovered": "2026-09-30",
-        "last_verified": "2026-10-02"
+        "last_verified": "2026-10-13"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -281736,7 +281953,7 @@
         "discovered": "2026-09-01",
         "last_verified": "2026-10-13"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -285663,6 +285880,60 @@
       "dates": {
         "posted": "2026-09-15",
         "discovered": "2026-09-16",
+        "last_verified": "2026-10-13"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "the-toro-company-it-business-analyst-intern-2027",
+      "company": {
+        "name": "The Toro Company",
+        "slug": "the-toro-company"
+      },
+      "role": "IT Business Analyst Intern",
+      "category": "software-engineering",
+      "apply_url": "https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Perry-OK/IT-Business-Analyst-Intern---Ditch-Witch_JR17608",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Perry",
+          "state": "OK",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-13",
+        "discovered": "2026-10-13",
         "last_verified": "2026-10-13"
       },
       "status": "open",
@@ -304250,7 +304521,7 @@
         "discovered": "2026-09-22",
         "last_verified": "2026-10-13"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -311970,6 +312241,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "vertiv-data-analytics-intern-2027",
+      "company": {
+        "name": "Vertiv",
+        "slug": "vertiv"
+      },
+      "role": "Data Analytics Intern",
+      "category": "software-engineering",
+      "apply_url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278852",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Delaware",
+          "state": "OH",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-13",
+        "discovered": "2026-10-13",
+        "last_verified": "2026-10-13"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "vertiv-data-and-analytics-intern-summer-2027-2027",
       "company": {
         "name": "Vertiv",
@@ -313672,6 +313995,68 @@
       "dates": {
         "posted": "2026-08-10",
         "discovered": "2026-08-10",
+        "last_verified": "2026-10-13"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "vertiv-ui-ux-design-intern-2027",
+      "company": {
+        "name": "Vertiv",
+        "slug": "vertiv"
+      },
+      "role": "UI/UX Design Intern",
+      "category": "design",
+      "apply_url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20281371",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Delaware",
+          "state": "OH",
+          "country": "USA"
+        },
+        {
+          "city": "Fort Lauderdale",
+          "state": "FL",
+          "country": "USA"
+        },
+        {
+          "city": "Huntsville",
+          "state": "AL",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-13",
+        "discovered": "2026-10-13",
         "last_verified": "2026-10-13"
       },
       "status": "open",
@@ -316120,7 +316505,7 @@
         "discovered": "2026-10-09",
         "last_verified": "2026-10-13"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -317387,7 +317772,7 @@
         "discovered": "2026-10-10",
         "last_verified": "2026-10-13"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -320202,6 +320587,58 @@
       "dates": {
         "posted": "2026-09-28",
         "discovered": "2026-09-29",
+        "last_verified": "2026-10-13"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "waymo-2027-summer-intern-phd-machine-learning-simulation-realism-2027",
+      "company": {
+        "name": "Waymo",
+        "slug": "waymo",
+        "career_page": "https://waymo.com/careers"
+      },
+      "role": "2027 Summer Intern, PhD, Machine Learning, Simulation Realism",
+      "category": "machine-learning",
+      "apply_url": "https://careers.withwaymo.com/jobs?gh_jid=8265868",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "London",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-13",
+        "discovered": "2026-10-13",
         "last_verified": "2026-10-13"
       },
       "status": "open",
@@ -323453,7 +323890,7 @@
         "discovered": "2026-09-15",
         "last_verified": "2026-10-13"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -323577,7 +324014,7 @@
         "discovered": "2026-09-14",
         "last_verified": "2026-10-13"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -323671,7 +324108,7 @@
         "discovered": "2026-09-14",
         "last_verified": "2026-10-13"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -328265,7 +328702,7 @@
         "discovered": "2026-08-25",
         "last_verified": "2026-10-13"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"

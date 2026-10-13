@@ -6,7 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
-| Huck Adventures | [Research Analyst Intern](https://jobs.smartrecruiters.com/HuckAdventures/743999747985535) | Boulder, CO | Onsite | 2026-08-18 | Rolling | 🔴 Closed | ❔ |
+| Huck Adventures | [Research Analyst Intern](https://jobs.smartrecruiters.com/HuckAdventures/743999747985535) | Boulder, CO | Onsite | 2026-08-18 | Rolling | 🟢 Open | ❔ |
 
 ## Related
 

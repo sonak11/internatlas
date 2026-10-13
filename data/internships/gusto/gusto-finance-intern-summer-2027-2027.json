@@ -1,20 +1,21 @@
 {
   "schema_version": "1.0",
-  "id": "republic-airways-strategic-operations-intern-2027-0f2b04",
+  "id": "gusto-finance-intern-summer-2027-2027",
   "company": {
-    "name": "Republic Airways",
-    "slug": "republic-airways"
+    "name": "Gusto",
+    "slug": "gusto",
+    "career_page": "https://gusto.com/about/careers"
   },
-  "role": "Strategic Operations Intern",
+  "role": "Finance Intern (Summer 2027)",
   "category": "software-engineering",
-  "apply_url": "https://rjet.wd108.myworkdayjobs.com/External_Career_Site/job/Carmel-Headquarters/Strategic-Operations-Intern---Summer-2027_JR-007635",
+  "apply_url": "https://job-boards.greenhouse.io/gusto/jobs/8257115",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Carmel",
-      "state": "IN",
+      "city": "New York",
+      "state": "NY",
       "country": "USA"
     }
   ],
@@ -40,13 +41,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-17",
-    "discovered": "2026-09-18",
+    "posted": "2026-10-13",
+    "discovered": "2026-10-13",
     "last_verified": "2026-10-13"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:ats"
   ]
 }

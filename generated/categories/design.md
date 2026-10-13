@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🎨 Design Internships
 
-**161** tracked · **92** open now
+**163** tracked · **94** open now
 
 ## Current openings
 
@@ -20,6 +20,7 @@
 | [Databricks](generated/companies/databricks.md) | [Product Design Intern (2027 Start)](https://databricks.com/company/careers/open-positions/job?gh_jid=8787352002) | San Francisco | Onsite | 2026-10-09 | Rolling | 🟢 Open | ❔ |
 | [DoorDash](generated/companies/doordash.md) | [Product Design, Intern (Summer 2027)](https://job-boards.greenhouse.io/doordashusa/jobs/8176863) | San Francisco, CA | Onsite | 2026-09-03 | Rolling | 🟢 Open | ❔ |
 | [Etched](generated/companies/etched.md) | [Physical Design Intern](https://jobs.ashbyhq.com/Etched/bd8c5768-7efa-4a18-9e56-485ccaf4ec77/application?embed=true) | San Jose, CA | Onsite | 2026-05-20 | Rolling | 🟢 Open | ❔ |
+| [Figma](generated/companies/figma.md) | [PhD Intern, Software Engineer - Graphics (2027)](https://boards.greenhouse.io/figma/jobs/6219995004?gh_jid=6219995004) | San Francisco | Onsite | 2026-10-13 | Rolling | 🟢 Open | ❔ |
 | [Figma](generated/companies/figma.md) | [Product Design Intern (2027)](https://boards.greenhouse.io/figma/jobs/6180005004?gh_jid=6180005004) | San Francisco | Onsite | 2026-09-14 | Rolling | 🟢 Open | ❔ |
 | [Figma](generated/companies/figma.md) | [Software Engineer Intern (London, United Kingdom) (Summer 2027)](https://boards.greenhouse.io/figma/jobs/6152695004?gh_jid=6152695004) | London | Onsite | 2026-09-14 | Rolling | 🟢 Open | ❔ |
 | [Figma](generated/companies/figma.md) | [Software Engineer Intern (Summer 2027)](https://boards.greenhouse.io/figma/jobs/6143238004?gh_jid=6143238004) | San Francisco | Onsite | 2026-09-14 | Rolling | 🟢 Open | ❔ |
@@ -99,6 +100,7 @@
 | [Vertiv](generated/companies/vertiv.md) | [Design Engineering Intern](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279257) | Delaware, OH +1 | Onsite | 2026-10-02 | Rolling | 🟢 Open | ❔ |
 | [Vertiv](generated/companies/vertiv.md) | [Design Engineering Intern](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279250) | Delaware, OH +1 | Onsite | 2026-09-08 | Rolling | 🟢 Open | ❔ |
 | [Vertiv](generated/companies/vertiv.md) | [Design Engineering Intern - Summer 2027](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279211) | Delaware, OH +2 | Onsite | 2026-09-08 | Rolling | 🟢 Open | ❔ |
+| [Vertiv](generated/companies/vertiv.md) | [UI/UX Design Intern](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20281371) | Delaware, OH +2 | Onsite | 2026-10-13 | Rolling | 🟢 Open | ❔ |
 | [Xcel Energy](generated/companies/xcel-energy.md) | [Gas & Electric Design Analytics and Process Improvement Intern - MN](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Minneapolis-MN-55418/Gas---Electric-Design-Analytics-and-Process-Improvement-Intern---MN_JR115641) | Minneapolis, MN | Onsite | 2026-09-02 | Rolling | 🟢 Open | ❔ |
 | [AMD](generated/companies/amd.md) | [Diagnostics Design Engineering Intern/Co-op](https://careers.amd.com/jobs/91308?icims=1) | Markham | Onsite | 2026-09-03 | Rolling | 🔴 Closed | ❔ |
 | [Astranis](generated/companies/astranis.md) | [Reliability Design Associate Intern](https://job-boards.greenhouse.io/astranis/jobs/4681416006) | SF | Onsite | 2026-06-22 | Rolling | 🔴 Closed | ❔ |
@@ -177,12 +179,12 @@
 - Qorvo (13)
 - NXP Semiconductors (8)
 - Micron Technology (7)
+- Figma (6)
 - NVIDIA (6)
-- Figma (5)
 - Semtech (5)
+- Vertiv (5)
 - Jump Trading (4)
 - Rivian (4)
-- Vertiv (4)
 - AMD (3)
 - Cirrus Logic (3)
 - Neuralink (3)

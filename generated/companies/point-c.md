@@ -6,7 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
-| Point C | [Healthcare Informatics Intern](https://job-boards.greenhouse.io/pointc/jobs/5282758008) | Remote | Remote | 2026-10-07 | Rolling | 🟢 Open | ❔ |
+| Point C | [Healthcare Informatics Intern](https://job-boards.greenhouse.io/pointc/jobs/5282758008) | Remote | Remote | 2026-10-07 | Rolling | 🔴 Closed | ❔ |
 
 ## Related
 

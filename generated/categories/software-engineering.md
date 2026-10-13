@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 💻 Software Engineering Internships
 
-**3610** tracked · **1860** open now
+**3614** tracked · **1856** open now
 
 ## Current openings
 
@@ -100,6 +100,7 @@
 | [American Family Insurance Group](generated/companies/american-family-insurance-group.md) | [Application Development Intern - Application Development](https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/Summer-2027-Intern---Application-Development--Hybrid-_R39458) | Madison, WI +1 | Onsite | 2026-10-12 | Rolling | 🟢 Open | ❔ |
 | [American Family Insurance Group](generated/companies/american-family-insurance-group.md) | [Data Analyst Intern](https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/Summer-2027-Intern---Data-Analyst_R39404) | Madison, WI | Onsite | 2026-10-09 | Rolling | 🟢 Open | ❔ |
 | [American Family Insurance Group](generated/companies/american-family-insurance-group.md) | [Data Analyst Intern - Agency Performance, Insights and Operations](https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/Summer-2027-Data-Analyst-Intern---Agency-Performance--Insights-and-Operations_R39513) | Madison, WI | Onsite | 2026-10-12 | Rolling | 🟢 Open | ❔ |
+| [American Family Insurance Group](generated/companies/american-family-insurance-group.md) | [Front End Developer Intern - Digital Sales](https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/Summer-2027-Intern--Digital-Sales_R39491) | Madison, WI +1 | Onsite | 2026-10-06 | Rolling | 🟢 Open | ❔ |
 | [American Family Insurance Group](generated/companies/american-family-insurance-group.md) | [Software Engineering Intern](https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/Summer-2027-Intern---Software-Engineering--Hybrid-_R39666-1) | Madison, WI +1 | Onsite | 2026-10-12 | Rolling | 🟢 Open | ❔ |
 | [American Family Insurance Group](generated/companies/american-family-insurance-group.md) | [Software Engineering Intern](https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/MA-Boston/Summer-2027-Intern---Software-Engineering--Hybrid-_R39662) | Madison, WI +1 | Onsite | 2026-10-12 | Rolling | 🟢 Open | ❔ |
 | [Amgen](generated/companies/amgen.md) | [Digital Product Intern](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Undergrad-Intern---Digital-Product---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255711) | Remote | Remote | 2026-09-11 | Rolling | 🟢 Open | ❔ |
@@ -182,6 +183,7 @@
 | [Autodesk](generated/companies/autodesk.md) | [Software Developer Intern](https://autodesk.wd1.myworkdayjobs.com/uni/job/Toronto-ON-CAN/Software-Development-Internship--Summer-2027-_26WD101436) | Toronto | Onsite | 2026-10-01 | Rolling | 🟢 Open | ❔ |
 | [Autodesk](generated/companies/autodesk.md) | [Software Developer Intern](https://autodesk.wd1.myworkdayjobs.com/uni/job/Montreal-QC-CAN/Intern-Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD100398-1) | Montreal | Onsite | 2026-08-11 | Rolling | 🟢 Open | ❔ |
 | [Autodesk](generated/companies/autodesk.md) | [Software Developer Intern - Interactive Graphics, Media & Entertainment](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Intern-Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD100398-2) | Montreal | Onsite | 2026-08-11 | Rolling | 🟢 Open | ❔ |
+| [Autodesk](generated/companies/autodesk.md) | [Software Development Intern](https://autodesk.wd1.myworkdayjobs.com/uni/job/Toronto-ON-CAN/Software-Development-Internship--Winter-2027-_26WD101435) | Toronto | Onsite | 2026-10-01 | Rolling | 🟢 Open | ❔ |
 | [Autodesk](generated/companies/autodesk.md) | [Software Development Intern](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Software-Development-Internship--Summer-2027-_26WD101436-1) | Toronto | Onsite | 2026-10-01 | Rolling | 🟢 Open | ❔ |
 | [AutoZone](generated/companies/autozone.md) | [Ecommerce Intern](https://egud.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155427) | Memphis, TN | Onsite | 2026-09-21 | Rolling | 🟢 Open | ❔ |
 | [AutoZone](generated/companies/autozone.md) | [Information Technology Intern](https://egud.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155451) | Memphis, TN | Onsite | 2026-09-21 | Rolling | 🟢 Open | ❔ |
@@ -268,7 +270,6 @@
 | [CACI](generated/companies/caci.md) | [Software Development Intern](https://caci.wd1.myworkdayjobs.com/external/job/Ashburn-VA-US/Software-Development-Intern---Summer-2027_333051) | Ashburn, VA | Onsite | 2026-10-02 | Rolling | 🟢 Open | ❔ |
 | [CACI](generated/companies/caci.md) | [Software Development/Engineer Intern](https://caci.wd1.myworkdayjobs.com/external/job/Remote-Any-State/Software-Development-Engineer-Intern---Summer-2027_332894-1) | Remote | Remote | 2026-10-01 | Rolling | 🟢 Open | ❔ |
 | [CACI](generated/companies/caci.md) | [Software Engineer Intern](https://caci.wd1.myworkdayjobs.com/external/job/Ypsilanti-MI-US/Software-Engineer-Intern---Summer-2027_331648) | Ypsilanti, MI | Onsite | 2026-09-04 | Rolling | 🟢 Open | ❔ |
-| [CACI](generated/companies/caci.md) | [Software Engineer Intern](https://caci.wd1.myworkdayjobs.com/external/job/Reston-VA-US/Software-Engineering-Intern---Summer-2027_332041) | Reston, VA | Onsite | 2026-09-23 | Rolling | 🟢 Open | ❔ |
 | [CACI](generated/companies/caci.md) | [Software Engineer Intern](https://caci.wd1.myworkdayjobs.com/external/job/Omaha-NE-US/Software-Engineer-Intern---Summer-2027_332776) | Omaha, NE | Onsite | 2026-09-29 | Rolling | 🟢 Open | ❔ |
 | [CACI](generated/companies/caci.md) | [Software Engineer Intern](https://caci.wd1.myworkdayjobs.com/external/job/Austin-TX-US/Software-Engineer-Intern---Summer-2027_333037) | Austin, TX | Onsite | 2026-10-02 | Rolling | 🟢 Open | ❔ |
 | [Cadence Design Systems](generated/companies/cadence-design-systems.md) | [Characterization and Support Intern - Fall 2026](https://cadence.wd1.myworkdayjobs.com/University_Talent_Intern/job/SAN-JOSE/Intern---Characterization-and-Support--Fall-2026-_R56108) | San Jose, CA | Onsite | 2026-08-28 | Rolling | 🟢 Open | ❔ |
@@ -292,7 +293,6 @@
 | [Cardinal Health](generated/companies/cardinal-health.md) | [Data and Analytics Intern - Summer 2027](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/OH-Dublin-Cardinal-Place/Data---Analytics-Internship--Summer-2027-_20185913) | Dublin, OH | Onsite | 2026-08-31 | Rolling | 🟢 Open | ❔ |
 | [Castleton Commodities International](generated/companies/castleton-commodities-international.md) | [Full-Stack Software Engineer Intern](https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Stamford-CT/Full-Stack-Software-Engineer-Internship--Summer-2027-_R1350) | Stamford, CT +1 | Onsite | 2026-07-31 | Rolling | 🟢 Open | ❔ |
 | [Caterpillar](generated/companies/caterpillar.md) | [Corporate Intern - Autonomy & Intelligent Systems Engineering](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Summer-Corporate-Intern---Autonomy---Intelligent-Systems-Engineering_R0000392394) | Peoria, IL +4 | Onsite | 2026-09-03 | Rolling | 🟢 Open | ❔ |
-| [Centene](generated/companies/centene.md) | [Medical Economics Analyst Intern](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-FL/Medical-Economics-Analyst-Intern--Undergraduate---Summer-2027-_1662248-1) | Florida | Onsite | 2026-10-02 | Rolling | 🟢 Open | ❔ |
 | [Centene](generated/companies/centene.md) | [Medical Economics Intern](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Medical-Economics-Intern--Undergraduate---Summer-2027-_1662091) | Missouri | Onsite | 2026-10-02 | Rolling | 🟢 Open | ❔ |
 | [Centific](generated/companies/centific.md) | [Robotics Intern](https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Redmond-Washington/Robotics-Interns_JR107983-1) | Redmond, WA +1 | Onsite | 2026-08-05 | Rolling | 🟢 Open | ❔ |
 | [Cerity Partners](generated/companies/cerity-partners.md) | [Investment Data & Technology Intern - Central Solutions](https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/New-York-City-NY/Investment-Data---Technology-Analyst-Internship_R929) | NYC | Onsite | 2026-09-25 | Rolling | 🟢 Open | ❔ |
@@ -308,7 +308,6 @@
 | [CHS](generated/companies/chs.md) | [Data Analyst Intern](https://careers.chsinc.com/job/Inver-Grove-Heights-Data-Analyst-Intern-MN-55077-1721/1439313500/?ats=successfactors) | Inver Grove Heights, MN | Onsite | 2026-10-12 | Rolling | 🟢 Open | ❔ |
 | [CIBC](generated/companies/cibc.md) | [Software Engineer Intern](https://cibc.wd3.myworkdayjobs.com/search/job/Chicago-IL/XMLNAME-2027-Summer-Intern---Software-Engineering_2618322-1) | Chicago, IL | Onsite | 2026-09-04 | Rolling | 🟢 Open | ❔ |
 | [CIBC](generated/companies/cibc.md) | [Software Engineer Intern](https://cibc.wd3.myworkdayjobs.com/campus/job/Chicago-IL/XMLNAME-2027-Summer-Intern---Software-Engineering_2618322) | Chicago, IL | Onsite | 2026-09-04 | Rolling | 🟢 Open | ❔ |
-| [Ciena](generated/companies/ciena.md) | [Software Engineering Intern - Optical Transport and IP Networking](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Engineering--Optical-Transport-and-IP-Networking-Intern_R031631) | Ottawa | Onsite | 2026-09-14 | Rolling | 🟢 Open | ❔ |
 | [Ciena](generated/companies/ciena.md) | [Software Intern](https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/WaveLogic-Software-Intern--Summer-2027-_R031695) | Atlanta, GA | Onsite | 2026-09-24 | Rolling | 🟢 Open | ❔ |
 | [Ciena](generated/companies/ciena.md) | [Software Intern - WaveLogic](https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/WaveLogic-Software-Intern-Spring-2027_R031692) | Atlanta, GA | Onsite | 2026-09-24 | Rolling | 🟢 Open | ❔ |
 | [Cigna Group](generated/companies/cigna-group.md) | [Product Analytics Intern](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Morris-Plains-NJ/Product-Analytics-Summer-Intern---Start-Date--May-24--2027_26010180) | Morris Plains, NJ +1 | Onsite | 2026-10-01 | Rolling | 🟢 Open | ❔ |
@@ -628,6 +627,7 @@
 | [Freddie Mac](generated/companies/freddie-mac.md) | [Multifamily Business Analysis Graduate Intern - Summer 2027](https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Multifamily-Business-Analysis-Graduate-Intern---Summer-2027_JR17638) | McLean, VA | Onsite | 2026-09-14 | Rolling | 🟢 Open | ❔ |
 | [Freddie Mac](generated/companies/freddie-mac.md) | [Multifamily Capital Markets Analytics & Engineering Intern](https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Multifamily-Capital-Markets-Analytics---Engineering-Intern----Summer-2027_JR17690) | McLean, VA | Onsite | 2026-10-01 | Rolling | 🟢 Open | ❔ |
 | [Freddie Mac](generated/companies/freddie-mac.md) | [Multifamily Digital Product Analysis Intern - Summer 2027](https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Multifamily-Digital-Product-Analysis-Intern---Summer-2027_JR17562) | McLean, VA | Onsite | 2026-08-24 | Rolling | 🟢 Open | ❔ |
+| [Freddie Mac](generated/companies/freddie-mac.md) | [Multifamily Software Development Intern - Summer 2027](https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Multifamily-Software-Development-Intern---Summer-2027_JR17564) | McLean, VA | Onsite | 2026-08-24 | Rolling | 🟢 Open | ❔ |
 | [Freddie Mac](generated/companies/freddie-mac.md) | [Single-Family Data Intern](https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Single-Family-Data-Intern--Summer-2027_JR17545) | McLean, VA | Onsite | 2026-08-24 | Rolling | 🟢 Open | ❔ |
 | [Freddie Mac](generated/companies/freddie-mac.md) | [Software Developer Intern - Single-Family](https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Single-Family-Software-Developer-Intern--Summer-2027_JR17544) | McLean, VA | Onsite | 2026-08-24 | Rolling | 🟢 Open | ❔ |
 | [Freddie Mac](generated/companies/freddie-mac.md) | [Technology Intern - Enterprise Operations + Technology](https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/EO-T-Technology-Intern--Summer-2027_JR17542) | McLean, VA | Onsite | 2026-08-24 | Rolling | 🟢 Open | ❔ |
@@ -693,8 +693,12 @@
 | [GM financial](generated/companies/gm-financial.md) | [Software Development Engineer Intern](https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260818) | Arlington, TX | Onsite | 2026-09-17 | Rolling | 🟢 Open | ❔ |
 | [GM financial](generated/companies/gm-financial.md) | [Software Development Engineer Intern](https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260943) | Arlington, TX | Onsite | 2026-09-23 | Rolling | 🟢 Open | ❔ |
 | [GM financial](generated/companies/gm-financial.md) | [Software Development Engineer Intern](https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260795) | Arlington, TX | Onsite | 2026-09-17 | Rolling | 🟢 Open | ❔ |
+| [Goldman Sachs](generated/companies/goldman-sachs.md) | [Summer Analyst Intern](https://higher.gs.com/roles/171550?type=students) | NYC | Onsite | 2026-08-15 | Rolling | 🟢 Open | ❔ |
+| [Goldman Sachs](generated/companies/goldman-sachs.md) | [Summer Analyst Intern - Engineering](https://higher.gs.com/roles/177808?type=students) | Seattle, WA | Onsite | 2026-08-15 | Rolling | 🟢 Open | ❔ |
+| [Goldman Sachs](generated/companies/goldman-sachs.md) | [Summer Analyst Intern - Engineering](https://higher.gs.com/roles/170644?type=students) | London | Onsite | 2026-08-15 | Rolling | 🟢 Open | ❔ |
+| [Goldman Sachs](generated/companies/goldman-sachs.md) | [Summer Associate Intern](https://higher.gs.com/roles/171552?type=students) | NYC | Onsite | 2026-08-15 | Rolling | 🟢 Open | ❔ |
+| [Goldman Sachs](generated/companies/goldman-sachs.md) | [Summer Associate Intern - Multiple Teams](https://higher.gs.com/roles/171566?type=students) | NYC | Onsite | 2026-08-15 | Rolling | 🟢 Open | ❔ |
 | [GoMaterials](generated/companies/gomaterials.md) | [Data Quality Intern - Winter 2027](https://jobs.lever.co/gomaterials/be3fb0e8-54a1-43de-b998-99dd071eed19/apply) | Montreal | Onsite | 2026-09-09 | Rolling | 🟢 Open | ❔ |
-| [Goodlord](generated/companies/goodlord.md) | [Engineering Intern](https://jobs.ashbyhq.com/goodlord/7b103308-98c7-4505-b8c6-b98383e51b61/application?embed=true) | London | Onsite | 2026-10-13 | Rolling | 🟢 Open | ❔ |
 | [Google](generated/companies/google.md) | [Forward Deployed Engineer Intern](https://www.google.com/about/careers/applications/jobs/results/75665705386549958) | NYC +1 | Onsite | 2026-10-12 | Rolling | 🟢 Open | ❔ |
 | [Google](generated/companies/google.md) | [Forward Deployed Engineer Intern](https://www.google.com/about/careers/applications/jobs/results/135156989620560582) | London | Onsite | 2026-10-02 | Rolling | 🟢 Open | ❔ |
 | [Google](generated/companies/google.md) | [Software Developer Intern](https://www.google.com/about/careers/applications/jobs/results/112518690523488966) | Montreal +2 | Onsite | 2026-08-24 | Rolling | 🟢 Open | ❔ |
@@ -724,6 +728,7 @@
 | [GuideStone](generated/companies/guidestone.md) | [Software Developer Intern - Software Development](https://guidestone.wd1.myworkdayjobs.com/guidestone/job/Dallas-TX/Summer-Intern---Software-Developer_R2129) | Dallas, TX | Onsite | 2026-09-22 | Rolling | 🟢 Open | ❔ |
 | [GuideWell Mutual](generated/companies/guidewell-mutual.md) | [Enterprise Analytics Intern](http://fa-etum-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41879) | Jacksonville, FL | Onsite | 2026-08-14 | Rolling | 🟢 Open | ❔ |
 | [GuideWell Mutual](generated/companies/guidewell-mutual.md) | [IT Graduate Internship - Multiple Teams](http://fa-etum-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/42182) | Jacksonville, FL | Onsite | 2026-10-07 | Rolling | 🟢 Open | ❔ |
+| [Gusto](generated/companies/gusto.md) | [Finance Intern (Summer 2027)](https://job-boards.greenhouse.io/gusto/jobs/8257115) | New York, NY | Onsite | 2026-10-13 | Rolling | 🟢 Open | ❔ |
 | [H&CO](generated/companies/h-co.md) | [Software Development Intern](https://career41.sapsf.com/career?career_ns=job_listing&company=hcollp&career_job_req_id=3507) | Coral Gables, FL | Onsite | 2026-04-23 | Rolling | 🟢 Open | ❔ |
 | [H&R Block](generated/companies/h-r-block.md) | [Financial Services Data Analytics Intern](https://careers-hrblock.icims.com/jobs/76989/job?mobile=true&needsRedirect=false) | Kansas City, MO | Onsite | 2026-09-28 | Rolling | 🟢 Open | ❔ |
 | [Hadrian](generated/companies/hadrian.md) | [Software Engineer Intern](https://jobs.ashbyhq.com/hadrian-automation/2b0423c6-947d-4226-8d23-90743bd5e63e/application?embed=true) | LA +1 | Onsite | 2026-09-03 | Rolling | 🟢 Open | ❔ |
@@ -816,6 +821,7 @@
 | [Invesco](generated/companies/invesco.md) | [Early Career Intern - Private Markets Product](https://invesco.wd1.myworkdayjobs.com/IVZearlycareers/job/Atlanta-Georgia/Early-Career-Intern---Private-Markets-Product_R-15545) | Atlanta, GA | Onsite | 2026-09-17 | Rolling | 🟢 Open | ❔ |
 | [Invesco](generated/companies/invesco.md) | [Early Career Intern - Private Markets Product](https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/Atlanta-Georgia/Early-Career-Intern---Private-Markets-Product_R-15545-1) | Atlanta, GA | Onsite | 2026-09-17 | Rolling | 🟢 Open | ❔ |
 | [Invesco](generated/companies/invesco.md) | [Early Career Intern - Technology](https://invesco.wd1.myworkdayjobs.com/IVZearlycareers/job/Atlanta-Georgia/Early-Career-Intern---Technology_R-15619) | Atlanta, GA | Onsite | 2026-09-29 | Rolling | 🟢 Open | ❔ |
+| [Invesco](generated/companies/invesco.md) | [Early Career Intern - Technology](https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/Atlanta-Georgia/Early-Career-Intern---Technology_R-15619-1) | Atlanta, GA | Onsite | 2026-09-29 | Rolling | 🟢 Open | ❔ |
 | [Iridium Communications](generated/companies/iridium-communications.md) | [Software Engineering Intern](https://careers-iridium.icims.com/jobs/5136/job?mobile=true&needsRedirect=false) | Tempe, AZ +1 | Onsite | 2026-09-29 | Rolling | 🟢 Open | ❔ |
 | [Itron](generated/companies/itron.md) | [People Analytics Intern](https://itron.wd5.myworkdayjobs.com/Itron/job/United-States-of-America-Washington-Liberty-Lake/Intern---People-Analytics--Summer-2027-_JR103033-1) | Liberty Lake, WA | Onsite | 2026-10-09 | Rolling | 🟢 Open | ❔ |
 | [Itron](generated/companies/itron.md) | [People Analytics Intern](https://itron.wd5.myworkdayjobs.com/Early_Careers/job/United-States-of-America-Washington-Liberty-Lake/Intern---People-Analytics--Summer-2027-_JR103033) | Liberty Lake, WA | Onsite | 2026-10-09 | Rolling | 🟢 Open | ❔ |
@@ -829,7 +835,6 @@
 | [Johns Hopkins Applied Physics Laboratory](generated/companies/johns-hopkins-applied-physics-laboratory.md) | [Computer Engineer Intern - Shipboard Systems Group](https://careers.jhuapl.edu/jobs/60049?icims=1) | Laurel, MD | Onsite | 2026-09-15 | Rolling | 🟢 Open | ❔ |
 | [Johns Hopkins Applied Physics Laboratory](generated/companies/johns-hopkins-applied-physics-laboratory.md) | [Cyber Software Engineer Intern - Capabilities Development](https://careers.jhuapl.edu/jobs/59779?icims=1) | Laurel, MD | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
 | [Johns Hopkins Applied Physics Laboratory](generated/companies/johns-hopkins-applied-physics-laboratory.md) | [Electrical and Computer Engineer Intern - Miniature Device Technologies](https://careers.jhuapl.edu/jobs/59993?icims=1) | Laurel, MD | Onsite | 2026-09-09 | Rolling | 🟢 Open | ❔ |
-| [Johns Hopkins Applied Physics Laboratory](generated/companies/johns-hopkins-applied-physics-laboratory.md) | [Electrical/Computer Engineer Intern - Intelligence Surveillance & Reconnaissance](https://careers.jhuapl.edu/jobs/59764?icims=1) | Laurel, MD | Onsite | 2026-09-10 | Rolling | 🟢 Open | ❔ |
 | [Johns Hopkins Applied Physics Laboratory](generated/companies/johns-hopkins-applied-physics-laboratory.md) | [Electrical/Computer Engineering Intern - Space Science Electronics](https://careers.jhuapl.edu/jobs/60123?icims=1) | Laurel, MD | Onsite | 2026-09-22 | Rolling | 🟢 Open | ❔ |
 | [Johns Hopkins Applied Physics Laboratory](generated/companies/johns-hopkins-applied-physics-laboratory.md) | [Engineer/Analyst/Scientist Intern - C2 Resilience Sciences](https://careers.jhuapl.edu/jobs/59832?icims=1) | Laurel, MD | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
 | [Johns Hopkins Applied Physics Laboratory](generated/companies/johns-hopkins-applied-physics-laboratory.md) | [Engineer/SW Developer/Analyst Intern - Maritime Force Engagement Control](https://careers.jhuapl.edu/jobs/59598?icims=1) | Laurel, MD | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
@@ -843,7 +848,6 @@
 | [Johnson & Johnson](generated/companies/johnson-johnson.md) | [Software Engineer Intern - Robotics R&D](https://jj.wd5.myworkdayjobs.com/JJ/job/Santa-Clara-California-United-States-of-America/Software-Engineering-Intern---Robotics-R-D_R-099919) | Santa Clara, CA | Onsite | 2026-09-15 | Rolling | 🟢 Open | ❔ |
 | [JP Morgan Chase](generated/companies/jp-morgan-chase.md) | [Consumer & Community Banking Internship - Risk Modeling Associate Program](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210796061) | Palo Alto, CA +4 | Onsite | 2026-10-06 | Rolling | 🟢 Open | ❔ |
 | [JP Morgan Chase](generated/companies/jp-morgan-chase.md) | [Software Engineer Intern - Summer Internship](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774716) | London +1 | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
-| [Judi Health](generated/companies/judi-health.md) | [MBA Analytics Intern - Clinical Programs](https://job-boards.greenhouse.io/judihealth/jobs/5427074008) | NYC +1 | Onsite | 2026-10-06 | Rolling | 🟢 Open | ❔ |
 | [k-ID](generated/companies/k-id.md) | [Engineering Intern - Program](https://jobs.ashbyhq.com/k-id/18619df2-45d8-4732-8815-9a340d498d48/application?embed=true) | USA | Onsite | 2026-07-21 | Rolling | 🟢 Open | ❔ |
 | [K2 Space](generated/companies/k2-space.md) | [Electrical Engineer Intern - Summer 2027](https://job-boards.greenhouse.io/k2spacecorporation/jobs/5411918008) | LA | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
 | [K2 Space](generated/companies/k2-space.md) | [Simulation Software Engineering Intern](https://job-boards.greenhouse.io/k2spacecorporation/jobs/5418727008) | LA | Onsite | 2026-09-09 | Rolling | 🟢 Open | ❔ |
@@ -853,7 +857,6 @@
 | [Kainos](generated/companies/kainos.md) | [Technologist Intern](https://kainos.wd3.myworkdayjobs.com/kainos/job/Belfast/Placement-Technologist--Belfast----June-2027-Start-Date_JR_18556) | Belfast | Onsite | 2026-10-12 | Rolling | 🟢 Open | ❔ |
 | [Kastle](generated/companies/kastle.md) | [Software Engineer Intern](https://jobs.ashbyhq.com/kastle/6f32db51-de45-472f-a9c8-d9419d3634ee) | San Francisco, CA | Onsite | 2026-08-21 | Rolling | 🟢 Open | ❔ |
 | [Kensho](generated/companies/kensho.md) | [Software Engineer Intern - Summer 2027](https://spgi.wd5.myworkdayjobs.com/Kensho_Careers/job/Cambridge-MA/Software-Engineer---Summer-Intern-2027_331717-1) | Cambridge, MA +1 | Onsite | 2026-09-09 | Rolling | 🟢 Open | ❔ |
-| [KeyBank](generated/companies/keybank.md) | [Corporate Center – Measurement & Impact Intern](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/Summer-2027-Corporate-Center---360-Measurement---Impact-Intern_R-42583) | Brooklyn, OH | Onsite | 2026-10-07 | Rolling | 🟢 Open | ❔ |
 | [Keysight Technologies](generated/companies/keysight-technologies.md) | [Compound Semiconductor Device Characterization Intern](https://jobs.keysight.com/jobs/54226?icims=1) | Santa Rosa, CA | Onsite | 2026-09-14 | Rolling | 🟢 Open | ❔ |
 | [Khan Academy](generated/companies/khan-academy.md) | [Software Engineer Intern](https://job-boards.greenhouse.io/khanacademy/jobs/8250259) | Remote | Remote | 2026-10-05 | Rolling | 🟢 Open | ❔ |
 | [Kinaxis](generated/companies/kinaxis.md) | [Developer Intern - Back End Technologies](https://careers-kinaxis.icims.com/jobs/35372/job?mobile=true&needsRedirect=false) | Ottawa | Onsite | 2026-09-25 | Rolling | 🟢 Open | ❔ |
@@ -872,7 +875,6 @@
 | [Lawrence Livermore National Laboratory (LLNL)](generated/companies/lawrence-livermore-national-laboratory-llnl.md) | [Computing Intern](https://jobs.smartrecruiters.com/LLNL/3743990014982576) | Livermore, CA | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
 | [Lawrence Livermore National Laboratory (LLNL)](generated/companies/lawrence-livermore-national-laboratory-llnl.md) | [Computing Intern](https://jobs.smartrecruiters.com/LLNL/3743990014982336) | Livermore, CA | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
 | [Leidos](generated/companies/leidos.md) | [Engineering Intern](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Huntsville-AL/Engineering-Intern_R-00189691) | Huntsville, AL | Onsite | 2026-08-21 | Rolling | 🟢 Open | ❌ |
-| [Leidos](generated/companies/leidos.md) | [Systems Engineer Intern](https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Systems-Engineer-Intern_R-00193940) | Arlington County | Onsite | 2026-10-06 | Rolling | 🟢 Open | ❔ |
 | [Leidos](generated/companies/leidos.md) | [Technical Intern](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Technical-Intern_R-00193990) | Remote | Remote | 2026-10-07 | Rolling | 🟢 Open | ❔ |
 | [Lendable](generated/companies/lendable.md) | [Credit Analyst Intern](https://jobs.ashbyhq.com/lendable/a2214edc-39e3-4c70-8a09-875bb991062f/application?embed=true) | London | Onsite | 2026-08-29 | Rolling | 🟢 Open | ❔ |
 | [Lennox International](generated/companies/lennox-international.md) | [IoT Intern](https://uscareers-lennox.icims.com/jobs/54893/job?mobile=true&needsRedirect=false) | Richardson, TX | Onsite | 2026-09-17 | Rolling | 🟢 Open | ❔ |
@@ -891,7 +893,6 @@
 | [LSEG](generated/companies/lseg.md) | [Engineering Intern](https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/Greater-Charlotte-Area-United-States/Engineering-Summer-Internship-Programme_R0123571) | Charlotte, NC | Onsite | 2026-09-17 | Rolling | 🟢 Open | ❔ |
 | [LSEG](generated/companies/lseg.md) | [Engineering Intern](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Greater-Charlotte-Area-United-States/Engineering-Summer-Internship-Programme_R0123571-1) | Charlotte, NC | Onsite | 2026-09-17 | Rolling | 🟢 Open | ❔ |
 | [LSEG](generated/companies/lseg.md) | [Engineering Intern - Multiple Teams](https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/London-United-Kingdom/Engineering-Summer-Internship-Programme_R0123389) | London | Onsite | 2026-09-14 | Rolling | 🟢 Open | ❔ |
-| [Lumentum](generated/companies/lumentum.md) | [Optical Verification Engineer Co-op Intern](https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Optical-Verification-Engineer-Co-op-Intern_20261208) | Ottawa | Onsite | 2026-10-05 | Rolling | 🟢 Open | ❔ |
 | [Lunar Outpost](generated/companies/lunar-outpost.md) | [Ground Software Engineer Intern - Summer 2027](https://lunaroutpost.bamboohr.com/careers/398/) | Golden, CO | Onsite | 2026-09-15 | Rolling | 🟢 Open | ❔ |
 | [Lunar Outpost](generated/companies/lunar-outpost.md) | [Robotics Engineer Intern](https://lunaroutpost.bamboohr.com/careers/391/) | Golden, CO | Onsite | 2026-09-15 | Rolling | 🟢 Open | ❔ |
 | [Lunar Outpost](generated/companies/lunar-outpost.md) | [Simulation Engineering Intern](https://lunaroutpost.bamboohr.com/careers/390/) | Golden, CO | Onsite | 2026-09-15 | Rolling | 🟢 Open | ❔ |
@@ -977,7 +978,6 @@
 | [Moderna](generated/companies/moderna.md) | [Biometrics Intern](https://modernatx.wd1.myworkdayjobs.com/en-US/M_tx/job/Cambridge-Massachusetts/Intern--Biometrics_R19865) | Cambridge, MA | Onsite | 2026-09-29 | Rolling | 🟢 Open | ❔ |
 | [Modernizing Medicine](generated/companies/modernizing-medicine.md) | [Software Engineer Intern](https://modmed.wd501.myworkdayjobs.com/ModMed12/job/Boca-Raton-FL/Software-Engineering-Intern_R5148) | Boca Raton, FL | Onsite | 2026-10-08 | Rolling | 🟢 Open | ❔ |
 | [Momentive](generated/companies/momentive.md) | [Service Quality Intern](https://momentive.wd1.myworkdayjobs.com/MC/job/US-NY-Waterford/Summer-2027-Intern---Service-Quality_R9767) | Waterford, NY | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
-| [Momentive](generated/companies/momentive.md) | [Software Development Intern](https://momentive.wd1.myworkdayjobs.com/MC/job/US-NY-Niskayuna/Summer-2027-Intern---Software-Development_R9756) | Niskayuna, NY | Onsite | 2026-09-03 | Rolling | 🟢 Open | ❔ |
 | [MongoDB](generated/companies/mongodb.md) | [2027 - Software Engineer Intern, Dublin - 6 Month Internship](https://www.mongodb.com/careers/job/?gh_jid=8258279) | Dublin | Onsite | 2026-10-09 | Rolling | 🟢 Open | ❔ |
 | [Monolithic Power Systems, Inc.](generated/companies/monolithic-power-systems-inc.md) | [Application Engineer Intern](https://monolithicpower.wd12.myworkdayjobs.com/en-US/MPS_Careers/job/San-Jose-CA/Application-Engineer-Intern_R-890) | San Jose, CA | Onsite | 2026-08-21 | Rolling | 🟢 Open | ❔ |
 | [Montenson](generated/companies/montenson.md) | [Data Analytics Intern - Insights](https://fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23342) | Minnesota | Onsite | 2026-08-10 | Rolling | 🟢 Open | ❔ |
@@ -1092,6 +1092,7 @@
 | [Nuro](generated/companies/nuro.md) | [Social Media Intern](https://nuro.ai/careersitem?gh_jid=8222063) | Mountain View | Onsite | 2026-09-29 | Rolling | 🟢 Open | ❔ |
 | [NVIDIA](generated/companies/nvidia.md) | [Computer Architecture Intern](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Computer-Architecture_JR2023489) | Santa Clara, CA | Onsite | 2026-08-19 | Rolling | 🟢 Open | ❔ |
 | [NVIDIA](generated/companies/nvidia.md) | [Software Engineer Intern](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Ignite-Internships--Software-Engineering_JR2026958) | Santa Clara, CA | Onsite | 2026-10-05 | Rolling | 🟢 Open | ❔ |
+| [NVIDIA](generated/companies/nvidia.md) | [Software Engineering Intern](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495) | Canada +1 | Onsite | 2026-08-19 | Rolling | 🟢 Open | ❔ |
 | [NVIDIA](generated/companies/nvidia.md) | [Software Engineering Intern, Dynamo](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--Dynamo---Fall-2026_JR2022295) | Santa Clara, CA | Onsite | 2026-08-06 | Rolling | 🟢 Open | ❔ |
 | [NVIDIA](generated/companies/nvidia.md) | [Systems Software Engineering Intern](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Systems-Software-Engineering_JR2023492) | Santa Clara, CA | Onsite | 2026-08-19 | Rolling | 🟢 Open | ❔ |
 | [OCC](generated/companies/occ.md) | [Data Intern](https://theocc.wd5.myworkdayjobs.com/careers/job/Chicago---125-S-Franklin/Year-Round-Intern---Data_REQ-4846) | Chicago, IL | Onsite | 2026-09-17 | Rolling | 🟢 Open | ❔ |
@@ -1188,7 +1189,6 @@
 | [Pinterest](generated/companies/pinterest.md) | [Software Engineering Intern 2027 (Toronto)](https://www.pinterestcareers.com/jobs/?gh_jid=8138039) | Toronto, ON | Onsite | 2026-10-01 | Rolling | 🟢 Open | ❔ |
 | [Pinterest](generated/companies/pinterest.md) | [Software Engineering Intern 2027 (Zurich)](https://www.pinterestcareers.com/jobs/?gh_jid=8214745) | Zurich, CH | Onsite | 2026-10-01 | Rolling | 🟢 Open | ❔ |
 | [Pinterest](generated/companies/pinterest.md) | [Solutions Engineer Intern 2027 (USA)](https://www.pinterestcareers.com/jobs/?gh_jid=8214788) | Remote | Remote | 2026-10-08 | Rolling | 🟢 Open | ❔ |
-| [Point C](generated/companies/point-c.md) | [Healthcare Informatics Intern](https://job-boards.greenhouse.io/pointc/jobs/5282758008) | Remote | Remote | 2026-10-07 | Rolling | 🟢 Open | ❔ |
 | [Point72](generated/companies/point72.md) | [Investment Analyst Intern, Point72 Academy](https://careers.point72.com/CSJobDetail?jobName=2027-point72-academy-investment-analyst-summer-internship-program-us&jobCode=CPA-0014081) | New York, NY +4 | Onsite | 2026-04-19 | Rolling | 🟢 Open | ❔ |
 | [Pony.ai](generated/companies/pony-ai.md) | [Software Engineer Intern](https://apply.workable.com/pony-dot-ai/j/BA5FFDBC71/) | Fremont, CA | Onsite | 2026-07-27 | Rolling | 🟢 Open | ❔ |
 | [Primer](generated/companies/primer.md) | [Software Engineer Intern - Full Stack](https://jobs.ashbyhq.com/primer/edd1667b-6323-444a-adc1-40bae5b9a3b0/application?embed=true) | SF | Onsite | 2026-09-04 | Rolling | 🟢 Open | ❔ |
@@ -1228,7 +1228,6 @@
 | [Qorvo](generated/companies/qorvo.md) | [Software Engineer Intern - Information Technology Manufacturing Systems](https://careers.qorvo.com/job/Bend-Software-Engineer-Intern-OR-97703/1421474800/?ats=successfactors) | Bend, OR | Onsite | 2026-08-31 | Rolling | 🟢 Open | ❔ |
 | [Qorvo](generated/companies/qorvo.md) | [Software Engineer Intern - Software R&D](https://careers.qorvo.com/job/Apopka-Software-Engineering-Intern,-SWR-FL-32703/1423577900/?ats=successfactors) | Apopka, FL | Onsite | 2026-08-31 | Rolling | 🟢 Open | ❔ |
 | [Qorvo](generated/companies/qorvo.md) | [Software Engineer Intern - SWR](https://careers.qorvo.com/job/Greensboro-Software-Engineering-Intern,-SWR-NC-27409/1421982000/?ats=successfactors) | Greensboro, NC | Onsite | 2026-08-31 | Rolling | 🟢 Open | ❔ |
-| [Qorvo](generated/companies/qorvo.md) | [Technology Development Intern](https://careers.qorvo.com/job/Hillsboro-Technology-Development-Intern-OR-97124/1422908300/?ats=successfactors) | Hillsboro, OR | Onsite | 2026-08-31 | Rolling | 🟢 Open | ❔ |
 | [Qorvo](generated/companies/qorvo.md) | [Test Characterization Engineer Intern - RF Characterization Engineering](https://careers.qorvo.com/job/Richardson-Test-Characterization-Engineer-Intern-TX-75081/1424800700/?ats=successfactors) | Richardson, TX | Onsite | 2026-08-31 | Rolling | 🟢 Open | ❔ |
 | [Qorvo](generated/companies/qorvo.md) | [Test Engineer Intern](https://careers.qorvo.com/job/Richardson-Test-Engineer-D&A-CRAD-Intern-TX-75081/1424805300/?ats=successfactors) | Richardson, TX | Onsite | 2026-08-31 | Rolling | 🟢 Open | ❔ |
 | [Qorvo](generated/companies/qorvo.md) | [Test Engineer Intern](https://careers.qorvo.com/job/Hillsboro-Test-Engineering-Intern-OR-97124/1421978100/?ats=successfactors) | Hillsboro, OR | Onsite | 2026-08-31 | Rolling | 🟢 Open | ❔ |
@@ -1273,7 +1272,6 @@
 | [Repsol](generated/companies/repsol.md) | [Reservoir Engineer Intern](https://repsol.wd3.myworkdayjobs.com/Repsol/job/Houston/Reservoir-Engineering-Intern_83945-1) | The Woodlands, TX | Onsite | 2026-08-26 | Rolling | 🟢 Open | ❔ |
 | [Republic Airways](generated/companies/republic-airways.md) | [Data Analytics Intern](https://rjet.wd108.myworkdayjobs.com/External_Career_Site/job/Carmel-Headquarters/Data-Analytics-Intern---Summer-2027_JR-007628) | Carmel, IN | Onsite | 2026-09-17 | Rolling | 🟢 Open | ❔ |
 | [Republic Airways](generated/companies/republic-airways.md) | [Strategic Operations Intern](https://rjet.wd108.myworkdayjobs.com/External_Career_Site/job/Carmel-Headquarters/Strategic-Operations-Intern---Summer-2027_JR-007635) | Carmel, IN | Onsite | 2026-09-17 | Rolling | 🟢 Open | ❔ |
-| [Republic Airways](generated/companies/republic-airways.md) | [Strategic Operations Intern](https://rjet.wd108.myworkdayjobs.com/External_Career_Site/job/Carmel-Headquarters/Strategic-Operations-Intern---Spring-2027_JR-007634) | Carmel, IN | Onsite | 2026-09-17 | Rolling | 🟢 Open | ❔ |
 | [Resource Innovations](generated/companies/resource-innovations.md) | [Energy Engineering Intern](https://apply.workable.com/resource-innovations/j/4CAAA40639/apply) | Toronto | Onsite | 2026-10-11 | Rolling | 🟢 Open | ❔ |
 | [ResponsiveAds](generated/companies/responsiveads.md) | [Full-Stack Developer Intern - ResponsiveAds - Studio 4](https://apply.workable.com/responsiveads-inc/j/493EAC12D6/apply) | Vancouver | Onsite | 2026-08-11 | Rolling | 🟢 Open | ❔ |
 | [Resultant](generated/companies/resultant.md) | [Data & Analytics Consultant Intern - Summer 2027](https://jobs.smartrecruiters.com/Resultant/744000151474767) | Chicago, IL | Onsite | 2026-09-23 | Rolling | 🟢 Open | ❔ |
@@ -1289,7 +1287,6 @@
 | [Rippling](generated/companies/rippling.md) | [Full Stack Software Engineer Intern](https://ats.rippling.com/rippling/jobs/f64b6158-9534-4bab-9457-45556166b262) | Seattle, WA +2 | Onsite | 2026-09-22 | Rolling | 🟢 Open | ❔ |
 | [Rippling](generated/companies/rippling.md) | [Software Engineer Intern](https://ats.rippling.com/en-GB/rippling/jobs/203e0cac-0e30-4603-8087-f764e8c3f85c) | New York, NY +1 | Onsite | 2025-06-07 | Rolling | 🟢 Open | ❔ |
 | [Rippling](generated/companies/rippling.md) | [Software Engineer Intern - Backend Focused](https://ats.rippling.com/rippling/jobs/a07e4e46-3721-4934-b57b-0d58412e22ba) | Seattle, WA +2 | Onsite | 2026-09-22 | Rolling | 🟢 Open | ❔ |
-| [Rivet Industries](generated/companies/rivet-industries.md) | [Software Engineer Intern](https://jobs.ashbyhq.com/rivet/03fcb078-7371-4cfd-89a9-368e5b60d914/application?embed=true) | San Jose, CA | Onsite | 2026-10-06 | Rolling | 🟢 Open | ❔ |
 | [Rivian](generated/companies/rivian.md) | [Engineering Intern/Co-op - Test and Validation - Charging Products](https://careers.rivian.com/jobs/33725?icims=1) | Torrance, CA | Onsite | 2026-09-17 | Rolling | 🟢 Open | ❔ |
 | [Rivian](generated/companies/rivian.md) | [Software Engineer Co-op Intern - Enterprise Applications](https://careers.rivian.com/jobs/33804?icims=1) | Plymouth, MI | Onsite | 2026-09-22 | Rolling | 🟢 Open | ❔ |
 | [Rivian](generated/companies/rivian.md) | [Software Engineer Co-op Intern - Enterprise Applications](https://careers.rivian.com/jobs/33803?icims=1) | Normal, IL | Onsite | 2026-09-22 | Rolling | 🟢 Open | ❔ |
@@ -1337,16 +1334,15 @@
 | [RTX](generated/companies/rtx.md) | [Electrical Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WH--2501-W-University-Dr--WING-H-BLDG/Electrical-Engineer-Intern--Summer2027--Onsite-_01880018) | McKinney, TX | Onsite | 2026-10-07 | Rolling | 🟢 Open | ❔ |
 | [RTX](generated/companies/rtx.md) | [Electrical Engineer Intern - Summer 2027](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/Electrical-Engineering-Intern--Summer-2027-_01868034) | El Segundo, CA | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
 | [RTX](generated/companies/rtx.md) | [Electrical Production Support Engineer Intern - Summer 2027](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Electrical-Production-Support-Engineer-Intern--Summer-2027-_01871115) | Tucson, AZ | Onsite | 2026-08-31 | Rolling | 🟢 Open | ❔ |
-| [RTX](generated/companies/rtx.md) | [Numerical Methods Intern - Advanced Software Development](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Dveloppement-Logiciel-Avanc--Mthodes-Numriques---Internship---Winter-2027---Advanced-Software-Development--Numerical-Methods_01871187) | Longueuil | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
 | [RTX](generated/companies/rtx.md) | [Sales Analysis and Marketing Intern - Contract Administration - Sales Analysis & Marketing](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Administration-des-contrats--analyse-des-ventes-et-marketing---Internship---Winter-2027---Contract-Administration--Sales-Analysis---Marketing_01878336) | Longueuil | Onsite | 2026-09-28 | Rolling | 🟢 Open | ❔ |
 | [RTX](generated/companies/rtx.md) | [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-MELBOURNE-312--795-W-Nasa-Blvd--BLDG-312/Software-Engineering-Intern--Summer-2027-_01876918) | Melbourne, FL | Onsite | 2026-10-09 | Rolling | 🟢 Open | ❔ |
 | [RTX](generated/companies/rtx.md) | [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-G--400-Main-St--BLDG-G/Summer-2027-Software-Engineering-Intern--Onsite-_01873645) | East Hartford, CT | Onsite | 2026-09-22 | Rolling | 🟢 Open | ❔ |
 | [RTX](generated/companies/rtx.md) | [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-FULLERTON-675--1801-Hughes-Dr--BLDG-675/Software-Engineering-Intern--Summer-2027-_01879741) | Fullerton, CA | Onsite | 2026-10-12 | Rolling | 🟢 Open | ❔ |
 | [RTX](generated/companies/rtx.md) | [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-ST-PETERSBURG-381BD--7401-22nd-Ave-N--BLDG-D/Software-Engineering-Intern--Summer-2027-_01874928) | St. Petersburg, FL | Onsite | 2026-10-08 | Rolling | 🟢 Open | ❔ |
 | [RTX](generated/companies/rtx.md) | [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Software-Engineering-Intern--Summer-2027-_01877890) | Sterling, VA | Onsite | 2026-10-08 | Rolling | 🟢 Open | ❔ |
+| [RTX](generated/companies/rtx.md) | [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MD-ANNAPOLIS-JUNCTION-339--306-Sentinel-Dr--339-BLDG/Software-Engineering-Intern--Summer-2027-_01880895-1) | Annapolis Junction, MD | Onsite | 2026-10-13 | Rolling | 🟢 Open | ❔ |
 | [RTX](generated/companies/rtx.md) | [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Software-Engineering-Intern--Summer-2027-_01881090) | Fort Wayne, IN | Onsite | 2026-10-08 | Rolling | 🟢 Open | ❔ |
 | [RTX](generated/companies/rtx.md) | [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-CAMBRIDGE-BBN06--10--50-Moulton-St--MOULTON-B6/Software-Engineer-Intern--Summer-2027----Onsite_01873017) | Cambridge, MA | Onsite | 2026-09-19 | Rolling | 🟢 Open | ❔ |
-| [RTX](generated/companies/rtx.md) | [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CO-AURORA-S77--16470-E-Hughes-Dr--BLDG-S77/Software-Engineering-Intern--Summer-2027-_01881524) | Aurora, CO | Onsite | 2026-10-12 | Rolling | 🟢 Open | ❔ |
 | [RTX](generated/companies/rtx.md) | [Software Engineer Intern, Fleet Health Instrumentation](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Software-Engineering-Intern--Summer-2027-_01863072) | McKinney, TX | Onsite | 2026-08-04 | Rolling | 🟢 Open | ❌ |
 | [RTX](generated/companies/rtx.md) | [Software Engineer Intern, Fleet Health Instrumentation](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CA-FULLERTON-675--1801-Hughes-Dr--BLDG-675/Software-Engineering-Intern--Summer-2027-_01863012) | Fullerton, CA | Onsite | 2026-08-04 | Rolling | 🟢 Open | ❌ |
 | [RTX](generated/companies/rtx.md) | [Software Engineering Intern](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-MELBOURNE-312--795-W-Nasa-Blvd--BLDG-312/Software-Engineering-Intern--Summer-2027-_01876467) | Melbourne, FL | Onsite | 2026-10-09 | Rolling | 🟢 Open | ❔ |
@@ -1428,6 +1424,7 @@
 | [Snowflake](generated/companies/snowflake.md) | [Software Engineer Intern, Database Engineering](https://careers.snowflake.com/us/en/job/SNCOUSFA7B56D5F57047479C1775A3DB18737CEXTERNALENUSFD76A37F868D467BA2560B6746B9E961/Software-Engineer-Intern-Database-Engineering-Fall-2026) | Menlo Park, CA | Onsite | 2026-05-09 | Rolling | 🟢 Open | ❔ |
 | [SoloPulse](generated/companies/solopulse.md) | [Software Engineer Intern Co-op](https://jobs.lever.co/solopulseco/1b36afea-e8eb-4cea-a6e9-0afc384d06ef/apply) | Peachtree Corners, GA | Onsite | 2026-10-08 | Rolling | 🟢 Open | ❔ |
 | [Sorting Robotics](generated/companies/sorting-robotics.md) | [Robotics Engineer Co-op Intern](https://apply.workable.com/sorting-robotics/j/05B01A3981/apply) | LA | Onsite | 2026-08-08 | Rolling | 🟢 Open | ❔ |
+| [SOTI](generated/companies/soti.md) | [Software Developer Intern](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---SOTI-MobiControl-Apple-HQ--January-2027-12-Months-_R10551-2) | Mississauga | Onsite | 2026-10-13 | Rolling | 🟢 Open | ❔ |
 | [Southern Star Central Gas Pipeline](generated/companies/southern-star-central-gas-pipeline.md) | [GIS Analyst Intern](https://careers-sscgp.icims.com/jobs/3036/job?mobile=true&needsRedirect=false) | Owensboro, KY | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
 | [Space Dynamics Laboratory](generated/companies/space-dynamics-laboratory.md) | [Computer Vision Engineer Intern](https://spacedynamicslaboratory.applytojob.com/apply/x1yVybua0f/Computer-Vision-Engineer-Intern) | North Logan, UT | Onsite | 2026-10-06 | Rolling | 🟢 Open | ❔ |
 | [Space Dynamics Laboratory](generated/companies/space-dynamics-laboratory.md) | [Electro-Optical Engineer Intern](https://spacedynamicslaboratory.applytojob.com/apply/E1nubjCRhW/ElectroOptical-Engineer-Intern) | North Logan, UT | Onsite | 2026-10-06 | Rolling | 🟢 Open | ❔ |
@@ -1570,7 +1567,6 @@
 | [Textron](generated/companies/textron.md) | [Software Engineer Intern](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=343299) | Augusta, GA | Onsite | 2026-09-02 | Rolling | 🟢 Open | ❔ |
 | [Textron](generated/companies/textron.md) | [Software Engineer Intern](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342550) | Waterboro, ME | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
 | [Textron](generated/companies/textron.md) | [Software Engineer Intern - Crewed Land](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342915) | Slidell, LA | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
-| [Textron](generated/companies/textron.md) | [Software Engineer Intern - Electronic Systems](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342688) | Hunt Valley | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
 | [Textron](generated/companies/textron.md) | [Software Engineer Intern - Sea Systems](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342935) | Hunt Valley | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
 | [Textron](generated/companies/textron.md) | [Stage automne 2026 – Technologie de l'information / 2026 fall Internship - Information Technology - Mirabel - Qc](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=343165) | Mirabel | Onsite | 2026-06-18 | Rolling | 🟢 Open | ❔ |
 | [The Aerospace Corporation](generated/companies/the-aerospace-corporation.md) | [Software Engineering Intern - Software Tools and Assurance](https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Software-Tools-and-Assurance-Engineering-Grad-Intern_R016753) | El Segundo, CA | Onsite | 2026-09-28 | Rolling | 🟢 Open | ❔ |
@@ -1593,6 +1589,7 @@
 | [The Toro Company](generated/companies/the-toro-company.md) | [Electrical Engineer Intern](https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Bloomington-MN/Electrical-Engineering-Intern---The-Toro-Company_JR17124) | Bloomington, MN | Onsite | 2026-09-25 | Rolling | 🟢 Open | ❔ |
 | [The Toro Company](generated/companies/the-toro-company.md) | [Electronics Technician Intern](https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Bloomington-MN/Electronics-Technician-Intern---The-Toro-Company_JR17552) | Bloomington, MN | Onsite | 2026-10-06 | Rolling | 🟢 Open | ❔ |
 | [The Toro Company](generated/companies/the-toro-company.md) | [ISC Analytics Intern](https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Bloomington-MN/ISC-Analytics-Intern---The-Toro-Company_JR17246) | Bloomington, MN | Onsite | 2026-09-15 | Rolling | 🟢 Open | ❔ |
+| [The Toro Company](generated/companies/the-toro-company.md) | [IT Business Analyst Intern](https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Perry-OK/IT-Business-Analyst-Intern---Ditch-Witch_JR17608) | Perry, OK | Onsite | 2026-10-13 | Rolling | 🟢 Open | ❔ |
 | [The Toro Company](generated/companies/the-toro-company.md) | [Robotics Engineer Intern](https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Bloomington-MN/Robotics-Engineering-Intern---The-Toro-Company_JR17194) | Bloomington, MN | Onsite | 2026-09-11 | Rolling | 🟢 Open | ❔ |
 | [The Toro Company](generated/companies/the-toro-company.md) | [Spatial Data R&D Intern](https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Bloomington-MN/Spatial-Data-R-D-Intern---The-Toro-Company_JR17187) | Bloomington, MN | Onsite | 2026-09-11 | Rolling | 🟢 Open | ❔ |
 | [The Voleon Group](generated/companies/the-voleon-group.md) | [Software Engineer Intern](https://jobs.ashbyhq.com/voleon/57f1b666-2f4b-4bad-aac0-fa42a1c8fdf6/application?embed=true) | Berkeley, CA +1 | Onsite | 2026-08-25 | Rolling | 🟢 Open | ❔ |
@@ -1685,6 +1682,7 @@
 | [Tyler Technologies](generated/companies/tyler-technologies.md) | [Software Development Intern](https://jobs.jobvite.com/tylertech/job/oKQJAfwD?nl=1&nl=1&fr=false) | Lubbock, TX | Onsite | 2026-09-21 | Rolling | 🟢 Open | ❔ |
 | [Tyler Technologies](generated/companies/tyler-technologies.md) | [Software Development Intern](https://jobs.jobvite.com/tylertech/job/oAVOAfwD?nl=1&nl=1&fr=false) | Lawrenceville, GA | Onsite | 2026-09-18 | Rolling | 🟢 Open | ❔ |
 | [Tyler Technologies](generated/companies/tyler-technologies.md) | [Software Development Intern - Summer 2027](https://jobs.jobvite.com/tylertech/job/oqQJAfwj?nl=1&nl=1&fr=false) | Lakewood, CO | Onsite | 2026-09-15 | Rolling | 🟢 Open | ❔ |
+| [Tyler Technologies](generated/companies/tyler-technologies.md) | [Software Development Intern - Summer 2027](https://jobs.jobvite.com/tylertech/job/oxAPAfwg?nl=1&nl=1&fr=false) | Yarmouth, ME +2 | Onsite | 2026-09-21 | Rolling | 🟢 Open | ❔ |
 | [Tyler Technologies](generated/companies/tyler-technologies.md) | [Software Development Intern - Summer 2027](https://jobs.jobvite.com/tylertech/job/oMAPAfwv?nl=1&nl=1&fr=false) | Plano, TX | Onsite | 2026-09-21 | Rolling | 🟢 Open | ❔ |
 | [Uber](generated/companies/uber.md) | [Software Engineering Intern](https://university-uber.icims.com/jobs/159161/job?mobile=false&width=1270&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240) | San Francisco, CA | Onsite | 2026-05-09 | Rolling | 🟢 Open | ❔ |
 | [Udig](generated/companies/udig.md) | [Software Engineer Intern](https://udig.com/careers/job-listing/?gh_jid=7999436003) | Nashville, TN +1 | Onsite | 2026-09-22 | Rolling | 🟢 Open | ❔ |
@@ -1738,6 +1736,7 @@
 | [Vermeer](generated/companies/vermeer.md) | [Software Engineer Intern - IT](https://vermeer.wd5.myworkdayjobs.com/externalcareersite/job/Pella-Iowa-USA---Corporate-Office/IT-Software-Engineer-Internship-Summer-2027_REQ-22178) | Pella, IA | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
 | [Verne Robotics](generated/companies/verne-robotics.md) | [Engineering Intern](https://jobs.ashbyhq.com/Verne%20Robotics/bb78cdd4-449b-49f0-bd10-2c62fc85f83b/application) | San Bruno, CA | Onsite | 2026-07-04 | Rolling | 🟢 Open | ❔ |
 | [Vertiv](generated/companies/vertiv.md) | [Business Analytics Intern - Summer 2027](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278794) | Westerville, OH | Onsite | 2026-08-27 | Rolling | 🟢 Open | ❔ |
+| [Vertiv](generated/companies/vertiv.md) | [Data Analytics Intern](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278852) | Delaware, OH | Onsite | 2026-10-13 | Rolling | 🟢 Open | ❔ |
 | [Vertiv](generated/companies/vertiv.md) | [Data and Analytics Intern - Summer 2027](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20280588) | Westerville, OH | Onsite | 2026-09-08 | Rolling | 🟢 Open | ❔ |
 | [Vertiv](generated/companies/vertiv.md) | [Innovation Lab Engineer Intern 1](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20280112) | Delaware, OH | Onsite | 2026-08-27 | Rolling | 🟢 Open | ❔ |
 | [Vertiv](generated/companies/vertiv.md) | [Innovation Lab Engineering Intern 2](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20280113) | Delaware, OH | Onsite | 2026-08-27 | Rolling | 🟢 Open | ❔ |
@@ -1768,7 +1767,6 @@
 | [Walmart](generated/companies/walmart.md) | [Software Engineer 2 Intern](https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-ISD-Office---DGTC-AR-BENTONVILLE-Home-Office/Summer-2027-Intern---Software-Engineer-II_R-2630029-1) | Bentonville, AR +2 | Onsite | 2026-09-10 | Rolling | 🟢 Open | ❔ |
 | [Watts Water](generated/companies/watts-water.md) | [Product Marketing Data Analyst Intern](https://wattswater.wd5.myworkdayjobs.com/Intern-External/job/North-Andover-MA/Product-Data-Analyst--Marketing-Intern_10017538) | North Andover, MA | Onsite | 2026-09-17 | Rolling | 🟢 Open | ❔ |
 | [Watts Water](generated/companies/watts-water.md) | [Product Specialist Intern](https://wattswater.wd5.myworkdayjobs.com/Intern-External/job/Fort-Worth-TX/Product-Specialist-Intern-2027_10017586) | Fort Worth, TX | Onsite | 2026-09-17 | Rolling | 🟢 Open | ❔ |
-| [Wawa](generated/companies/wawa.md) | [Information Technology Development Intern](https://wawa.wd1.myworkdayjobs.com/careers/job/WAWA---Wawa-Inc---Corporate-Office/Information-Technology-Development-Internship_JR122392) | Media, PA | Onsite | 2026-10-09 | Rolling | 🟢 Open | ❔ |
 | [Waymo](generated/companies/waymo.md) | [2027 Summer Intern, BS, Depot Automation](https://careers.withwaymo.com/jobs?gh_jid=8234553) | San Francisco | Onsite | 2026-09-28 | Rolling | 🟢 Open | ❔ |
 | [Waymo](generated/companies/waymo.md) | [2027 Summer Intern, BS, Software Engineer, Driver Refinement Foundations](https://careers.withwaymo.com/jobs?gh_jid=8224900) | Mountain View, CA | Onsite | 2026-09-25 | Rolling | 🟢 Open | ❔ |
 | [Waymo](generated/companies/waymo.md) | [2027 Summer Intern, BS, Software Engineer, Model Eval](https://careers.withwaymo.com/jobs?gh_jid=8257660) | Mountain View, CA | Onsite | 2026-10-06 | Rolling | 🟢 Open | ❔ |
@@ -1814,7 +1812,6 @@
 | [Westinghouse Electric Company](generated/companies/westinghouse-electric-company.md) | [Enovia PLM Developer Intern - Enovia PLM](https://careers.westinghousenuclear.com/job/Cranberry-Township-Summer-Intern-Enovia-PLM-NC/1426858600/?ats=successfactors) | Cranberry Township, PA | Onsite | 2026-09-04 | Rolling | 🟢 Open | ❔ |
 | [Westinghouse Electric Company](generated/companies/westinghouse-electric-company.md) | [Fuel Engineering Data Analyst Intern](https://careers.westinghousenuclear.com/job/Cranberry-Township-Summer-Intern-Fuel-Engineering-Data-Analyst-NC/1438463700/?ats=successfactors) | Cranberry Township, PA | Onsite | 2026-10-08 | Rolling | 🟢 Open | ❔ |
 | [Westinghouse Electric Company](generated/companies/westinghouse-electric-company.md) | [Software Developer Intern - Tools & Apps](https://careers.westinghousenuclear.com/job/Warrendale-Summer-Intern-Tools-&-Apps-OR/1434869300/?ats=successfactors) | Warrendale, PA | Onsite | 2026-09-29 | Rolling | 🟢 Open | ❔ |
-| [Wex](generated/companies/wex.md) | [Full-Stack Software Engineer Intern - Undergraduate](https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/Backend-Software-Engineer-Intern--Undergraduate-_R22593) | Remote | Remote | 2026-09-14 | Rolling | 🟢 Open | ❔ |
 | [WhatNot](generated/companies/whatnot.md) | [Software Engineer Intern](https://jobs.ashbyhq.com/whatnot/928ffdca-b316-40ce-b82b-94b570919bcd/application?embed=true) | Seattle, WA +3 | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
 | [Workday](generated/companies/workday.md) | [Software Application Development Engineer Intern](https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Software-Application-Development-Engineer-Intern_JR-0110811) | Pleasanton, CA | Onsite | 2026-10-09 | Rolling | 🟢 Open | ❔ |
 | [Workday](generated/companies/workday.md) | [Software Development Engineer Intern](https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/Canada-BC-Vancouver/Software-Development-Engineer-Intern_JR-0110807) | Vancouver | Onsite | 2026-10-09 | Rolling | 🟢 Open | ❔ |
@@ -1851,7 +1848,6 @@
 | [Zekelman Industries](generated/companies/zekelman-industries.md) | [Business Intelligence Intern - Program Development](https://zekelman.wd12.myworkdayjobs.com/Careers/job/Troy-MI/Intern--Business-Intelligence_JR002769) | Austin, TX +1 | Onsite | 2026-09-23 | Rolling | 🟢 Open | ❔ |
 | [Zimmer Biomet Holdings](generated/companies/zimmer-biomet-holdings.md) | [Data Management Intern](https://careers.zimmerbiomet.com/us/en/job/12746) | Warsaw, IN | Onsite | 2026-09-21 | Rolling | 🟢 Open | ❔ |
 | [Zimmer Biomet Holdings](generated/companies/zimmer-biomet-holdings.md) | [Summer Intern - Data Mesh Platform](https://careers.zimmerbiomet.com/us/en/job/12688) | Remote | Remote | 2026-09-21 | Rolling | 🟢 Open | ❔ |
-| [Zip](generated/companies/zip.md) | [Software Engineer Intern - Winter 2027](https://jobs.ashbyhq.com/zip/2bc7327b-1c06-418a-beeb-bec1dd70480e/application?embed=true) | Toronto | Onsite | 2026-08-25 | Rolling | 🟢 Open | ❔ |
 | [Zipline](generated/companies/zipline.md) | [Aircraft Software Integration Intern](https://www.zipline.com/open-roles/7986848003?gh_jid=7986848003) | South SF | Onsite | 2026-09-04 | Rolling | 🟢 Open | ❔ |
 | [Zipline](generated/companies/zipline.md) | [Aircraft Software Integration Intern](https://www.zipline.com/open-roles/7986810003?gh_jid=7986810003) | South SF | Onsite | 2026-09-04 | Rolling | 🟢 Open | ❔ |
 | [Zipline](generated/companies/zipline.md) | [Autonomy Intern](https://www.zipline.com/open-roles/8002829003?gh_jid=8002829003) | South SF | Onsite | 2026-09-23 | Rolling | 🟢 Open | ❔ |
@@ -1984,7 +1980,6 @@
 | [Autodesk](generated/companies/autodesk.md) | [Software Developer Intern - Stagiaire en Développement Logiciel](https://autodesk.wd1.myworkdayjobs.com/uni/job/Quebec-CAN---Remote/Intern-Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD98603-1) | Canada | Onsite | 2026-05-30 | Rolling | 🔴 Closed | ❔ |
 | [Autodesk](generated/companies/autodesk.md) | [Software Developer Intern - Stagiaire en Développement Logiciel](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Quebec-CAN---Remote/Intern-Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD98603-2) | Canada | Onsite | 2026-05-30 | Rolling | 🔴 Closed | ❔ |
 | [Autodesk](generated/companies/autodesk.md) | [Software Development Intern](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Software-Development-Internship--Winter-2027-_26WD101435-1) | Toronto | Onsite | 2026-10-01 | Rolling | 🔴 Closed | ❔ |
-| [Autodesk](generated/companies/autodesk.md) | [Software Development Intern](https://autodesk.wd1.myworkdayjobs.com/uni/job/Toronto-ON-CAN/Software-Development-Internship--Winter-2027-_26WD101435) | Toronto | Onsite | 2026-10-01 | Rolling | 🔴 Closed | ❔ |
 | [Availity](generated/companies/availity.md) | [Software Engineer Intern - Multiple Teams](https://availity.wd1.myworkdayjobs.com/availity_careers_us/job/Remote---United-States/Software-Engineering-Intern_R0008436) | Remote | Remote | 2026-08-21 | Rolling | 🔴 Closed | ❔ |
 | [Avanade](generated/companies/avanade.md) | [Software Engineering Intern](https://accenture.wd103.myworkdayjobs.com/en-GB/AvanadeCareers/job/Los-Angeles-6181-W-Centinela-Ave-Corp/Intern--Software-Engineering---June-2026_R00319370?jr_id=69e6a556f8fa2f3ec32a3173) | Los Angeles, CA +1 | Onsite | 2026-04-20 | Rolling | 🔴 Closed | ❔ |
 | [AVEVA](generated/companies/aveva.md) | [Software Developer Intern Co-op](https://aveva.wd3.myworkdayjobs.com/en-US/AVEVA_careers/job/Philadelphia-Pennsylvania-United-States-of-America/Software-Developer-Intern--Drexel-Co-op-US_R014478) | Philadelphia, PA | Onsite | 2026-07-20 | Rolling | 🔴 Closed | ❔ |
@@ -2102,6 +2097,7 @@
 | [ByteDance](generated/companies/bytedance.md) | [Software Engineer Intern - AML-Engine-Orchestration](https://jobs.bytedance.com/en/position/7671162985123907845/detail) | San Jose, CA | Onsite | 2026-08-10 | Rolling | 🔴 Closed | ❔ |
 | [CACI](generated/companies/caci.md) | [GMU Scholar Program Intern](https://caci.wd1.myworkdayjobs.com/external/job/Sterling-VA-US/GMU-Scholar-Program---Summer-2027-Internship_330557) | Sterling, VA | Onsite | 2026-08-17 | Rolling | 🔴 Closed | ❔ |
 | [CACI](generated/companies/caci.md) | [Software Engineer Intern](https://caci.wd1.myworkdayjobs.com/external/job/Sarasota-FL-US/Software-Engineering-Intern---Summer-2027_331359) | Sarasota, FL | Onsite | 2026-08-31 | Rolling | 🔴 Closed | ❔ |
+| [CACI](generated/companies/caci.md) | [Software Engineer Intern](https://caci.wd1.myworkdayjobs.com/external/job/Reston-VA-US/Software-Engineering-Intern---Summer-2027_332041) | Reston, VA | Onsite | 2026-09-23 | Rolling | 🔴 Closed | ❔ |
 | [CACI](generated/companies/caci.md) | [Software Engineer Intern](https://caci.wd1.myworkdayjobs.com/external/job/Sterling-VA-US/Software-Engineering-Intern---Summer-2027_332386) | Sterling, VA | Onsite | 2026-09-22 | Rolling | 🔴 Closed | ❔ |
 | [CACI](generated/companies/caci.md) | [Software Engineer Intern - Summer 2027](https://caci.wd1.myworkdayjobs.com/external/job/Sterling-VA-US/Software-Engineering-Intern---Summer-2027_332372) | Sterling, VA | Onsite | 2026-09-23 | Rolling | 🔴 Closed | ❔ |
 | [CACI](generated/companies/caci.md) | [Software Engineer Intern - Summer 2027](https://caci.wd1.myworkdayjobs.com/external/job/Lisle-IL-US/Software-Engineering-Intern---Summer-2027_331742) | Lisle, IL | Onsite | 2026-09-09 | Rolling | 🔴 Closed | ❔ |
@@ -2131,6 +2127,7 @@
 | [Centene](generated/companies/centene.md) | [Analytics Intern](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-FL/Centene-2027-Graduate-Summer-Intern_1660479) | Florida | Onsite | 2026-09-18 | Rolling | 🔴 Closed | ❔ |
 | [Centene](generated/companies/centene.md) | [Data and Analytics Intern - Undergraduate](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Data-and-Analytics-Summer-2027-Intern--Undergraduate-_1660515) | Missouri | Onsite | 2026-09-18 | Rolling | 🔴 Closed | ❔ |
 | [Centene](generated/companies/centene.md) | [Medical Economics Analyst Intern](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Medical-Economics-Intern--Undergraduate---Summer-2027-_1662089) | Florida +1 | Onsite | 2026-09-28 | Rolling | 🔴 Closed | ❔ |
+| [Centene](generated/companies/centene.md) | [Medical Economics Analyst Intern](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-FL/Medical-Economics-Analyst-Intern--Undergraduate---Summer-2027-_1662248-1) | Florida | Onsite | 2026-10-02 | Rolling | 🔴 Closed | ❔ |
 | [Centene](generated/companies/centene.md) | [People Analytics Intern - Undergraduate](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-CA/People-Analytics-Intern--Undergraduate---Summer-2027-_1653735) | Washington +7 | Onsite | 2026-08-27 | Rolling | 🔴 Closed | ❔ |
 | [Centerfield](generated/companies/centerfield.md) | [Frontend Engineer Intern](https://jobs.ashbyhq.com/centerfield/1d7eacc1-37f7-478c-9b0a-fa7974f1a9e4/application?embed=true) | LA | Onsite | 2026-08-06 | Rolling | 🔴 Closed | ❔ |
 | [Centerstone](generated/companies/centerstone.md) | [Bachelor Level Intern](https://centerstone.wd5.myworkdayjobs.com/centerstonecareers/job/Bloomington-Indiana/Bachelor-Level-Intern-Late-Fall-Semester_JR-032217) | Richmond, IN +4 | Onsite | 2026-07-08 | Rolling | 🔴 Closed | ❔ |
@@ -2151,6 +2148,7 @@
 | [Ciena](generated/companies/ciena.md) | [Software Engineer and Tools Developer Intern](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Engineer-and-Tools-Developer-Intern--Fall-2026-_R028752) | Ottawa | Onsite | 2026-06-12 | Rolling | 🔴 Closed | ❔ |
 | [Ciena](generated/companies/ciena.md) | [Software Engineer Intern](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Engineering-Intern_R031372) | Ottawa | Onsite | 2026-07-27 | Rolling | 🔴 Closed | ❔ |
 | [Ciena](generated/companies/ciena.md) | [Software Engineer Intern](https://ciena.wd5.myworkdayjobs.com/Careers/job/UK--Edinburgh---19A-Canning-St/Software-Engineering-Intern--3-12-Months-_R031332) | Edinburgh | Onsite | 2026-07-21 | Rolling | 🔴 Closed | ❔ |
+| [Ciena](generated/companies/ciena.md) | [Software Engineering Intern - Optical Transport and IP Networking](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Engineering--Optical-Transport-and-IP-Networking-Intern_R031631) | Ottawa | Onsite | 2026-09-14 | Rolling | 🔴 Closed | ❔ |
 | [Ciena](generated/companies/ciena.md) | [Software Liquid Spectrum Applications Intern](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Liquid-Spectrum-Applications-Intern--Fall-2026-_R031412) | Ottawa | Onsite | 2026-07-28 | Rolling | 🔴 Closed | ❔ |
 | [Ciena](generated/companies/ciena.md) | [Verification Engineer Intern](https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/Verification-Engineer-Intern--Spring-2027-_R031686) | Atlanta, GA | Onsite | 2026-09-22 | Rolling | 🔴 Closed | ❔ |
 | [Ciena](generated/companies/ciena.md) | [WaveLogic Software Engineer Intern](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/WaveLogic-Software---Intern_R031443) | Ottawa | Onsite | 2026-07-31 | Rolling | 🔴 Closed | ❔ |
@@ -2339,7 +2337,6 @@
 | [Foxconn Industrial Internet](generated/companies/foxconn-industrial-internet.md) | [Data Visualization & Analytics Intern - Engineering](http://foxconnggroup.applytojob.com/apply/VZnsanT4LU/Engineering-Data-Visualization-Analytics-Intern) | Houston, TX | Onsite | 2026-08-11 | Rolling | 🔴 Closed | ❔ |
 | [Foxconn Industrial Internet](generated/companies/foxconn-industrial-internet.md) | [Software Engineer Intern - Engineering and Operations](http://foxconnggroup.applytojob.com/apply/xf0soVofyI/Software-Engineering-Intern) | Houston, TX | Onsite | 2026-08-11 | Rolling | 🔴 Closed | ❔ |
 | [Freddie Mac](generated/companies/freddie-mac.md) | [Capital Markets Intern - Summer 2027](https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Capital-Markets-Intern---Summer-2027_JR17560) | McLean, VA | Onsite | 2026-08-24 | Rolling | 🔴 Closed | ❔ |
-| [Freddie Mac](generated/companies/freddie-mac.md) | [Multifamily Software Development Intern - Summer 2027](https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Multifamily-Software-Development-Intern---Summer-2027_JR17564) | McLean, VA | Onsite | 2026-08-24 | Rolling | 🔴 Closed | ❔ |
 | [Freeform](generated/companies/freeform.md) | [Materials Engineer Intern](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7907965003) | LA | Onsite | 2026-08-20 | Rolling | 🔴 Closed | ❔ |
 | [Freeform](generated/companies/freeform.md) | [Process Engineer Intern](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7765271003) | LA | Onsite | 2026-06-09 | Rolling | 🔴 Closed | ❔ |
 | [Frost](generated/companies/frost.md) | [Computer Science Intern - Digital Services](https://frostbank.wd5.myworkdayjobs.com/External/job/San-Antonio-TX---One-Frost/College-Intern---Digital-Services_R261550) | San Antonio, TX | Onsite | 2026-08-21 | Rolling | 🔴 Closed | ❔ |
@@ -2404,14 +2401,10 @@
 | [GlossGenius](generated/companies/glossgenius.md) | [Engineering Intern - Summer 2027](https://job-boards.greenhouse.io/glossgenius/jobs/7978739003) | SF | Onsite | 2026-08-26 | Rolling | 🔴 Closed | ❔ |
 | [GoDaddy](generated/companies/godaddy.md) | [Software Development Engineer Intern](https://job-boards.greenhouse.io/eventsandinterns/jobs/7820942003) | Tempe, AZ | Onsite | 2026-08-04 | Rolling | 🔴 Closed | ❔ |
 | [Golden Pet Brands](generated/companies/golden-pet-brands.md) | [Data Analytics Intern](https://job-boards.greenhouse.io/goldenpetbrands/jobs/4713182005) | Remote | Remote | 2026-07-23 | Rolling | 🔴 Closed | ❔ |
-| [Goldman Sachs](generated/companies/goldman-sachs.md) | [Summer Analyst Intern](https://higher.gs.com/roles/171550?type=students) | NYC | Onsite | 2026-08-15 | Rolling | 🔴 Closed | ❔ |
 | [Goldman Sachs](generated/companies/goldman-sachs.md) | [Summer Analyst Intern - Americas - Engineering](https://higher.gs.com/roles/171567?type=students) | Toronto | Onsite | 2026-08-15 | Rolling | 🔴 Closed | ❔ |
 | [Goldman Sachs](generated/companies/goldman-sachs.md) | [Summer Analyst Intern - Americas - Engineering](https://higher.gs.com/roles/171565?type=students) | Salt Lake City, UT | Onsite | 2026-08-15 | Rolling | 🔴 Closed | ❔ |
-| [Goldman Sachs](generated/companies/goldman-sachs.md) | [Summer Analyst Intern - Engineering](https://higher.gs.com/roles/177808?type=students) | Seattle, WA | Onsite | 2026-08-15 | Rolling | 🔴 Closed | ❔ |
 | [Goldman Sachs](generated/companies/goldman-sachs.md) | [Summer Analyst Intern - Engineering](https://higher.gs.com/roles/171553?type=students) | Dallas, TX | Onsite | 2026-08-15 | Rolling | 🔴 Closed | ❔ |
-| [Goldman Sachs](generated/companies/goldman-sachs.md) | [Summer Analyst Intern - Engineering](https://higher.gs.com/roles/170644?type=students) | London | Onsite | 2026-08-15 | Rolling | 🔴 Closed | ❔ |
-| [Goldman Sachs](generated/companies/goldman-sachs.md) | [Summer Associate Intern](https://higher.gs.com/roles/171552?type=students) | NYC | Onsite | 2026-08-15 | Rolling | 🔴 Closed | ❔ |
-| [Goldman Sachs](generated/companies/goldman-sachs.md) | [Summer Associate Intern - Multiple Teams](https://higher.gs.com/roles/171566?type=students) | NYC | Onsite | 2026-08-15 | Rolling | 🔴 Closed | ❔ |
+| [Goodlord](generated/companies/goodlord.md) | [Engineering Intern](https://jobs.ashbyhq.com/goodlord/7b103308-98c7-4505-b8c6-b98383e51b61/application?embed=true) | London | Onsite | 2026-10-13 | Rolling | 🔴 Closed | ❔ |
 | [Google](generated/companies/google.md) | [Software Developer Intern - BS](https://www.google.com/about/careers/applications/jobs/results/76982475250639558) | Montreal +2 | Onsite | 2026-07-20 | Rolling | 🔴 Closed | ❔ |
 | [Google](generated/companies/google.md) | [Software Developer Intern - MS](https://www.google.com/about/careers/applications/jobs/results/95423484271698630) | Montreal +2 | Onsite | 2026-07-20 | Rolling | 🔴 Closed | ❔ |
 | [Google](generated/companies/google.md) | [Software Engineer Intern](https://www.google.com/about/careers/applications/jobs/results/85564713261245126) | Palo Alto, CA +28 | Onsite | 2026-07-20 | Rolling | 🔴 Closed | ❔ |
@@ -2543,6 +2536,7 @@
 | [John Deere](generated/companies/john-deere.md) | [Information Technology Intern - Technology](https://johndeere.eightfold.ai/careers/job/137482633322) | Moline, IL | Onsite | 2026-09-01 | Rolling | 🔴 Closed | ❔ |
 | [John Deere](generated/companies/john-deere.md) | [Product Engineering Intern](https://johndeere.eightfold.ai/careers/job/137482769212) | Fargo, ND | Onsite | 2026-09-02 | Rolling | 🔴 Closed | ❔ |
 | [Johns Hopkins Applied Physics Laboratory](generated/companies/johns-hopkins-applied-physics-laboratory.md) | [Decision Science Intern - Software Engineer](https://careers.jhuapl.edu/jobs/60040?icims=1) | Laurel, MD | Onsite | 2026-09-11 | Rolling | 🔴 Closed | ❔ |
+| [Johns Hopkins Applied Physics Laboratory](generated/companies/johns-hopkins-applied-physics-laboratory.md) | [Electrical/Computer Engineer Intern - Intelligence Surveillance & Reconnaissance](https://careers.jhuapl.edu/jobs/59764?icims=1) | Laurel, MD | Onsite | 2026-09-10 | Rolling | 🔴 Closed | ❔ |
 | [Johns Hopkins Applied Physics Laboratory](generated/companies/johns-hopkins-applied-physics-laboratory.md) | [Engineer/Scientist Intern - Health Systems and Human-Machine Systems](https://careers.jhuapl.edu/jobs/60054?icims=1) | Laurel, MD | Onsite | 2026-09-18 | Rolling | 🔴 Closed | ❔ |
 | [Johns Hopkins Applied Physics Laboratory](generated/companies/johns-hopkins-applied-physics-laboratory.md) | [Engineering/Science Intern - Tailored Autonomous Systems](https://careers.jhuapl.edu/jobs/59968?icims=1) | Laurel, MD | Onsite | 2026-09-10 | Rolling | 🔴 Closed | ❔ |
 | [Johns Hopkins Applied Physics Laboratory](generated/companies/johns-hopkins-applied-physics-laboratory.md) | [Human-Machine Engineering Intern](https://careers.jhuapl.edu/jobs/59782?icims=1) | Laurel, MD | Onsite | 2026-09-01 | Rolling | 🔴 Closed | ❔ |
@@ -2556,11 +2550,13 @@
 | [JP Morgan Chase](generated/companies/jp-morgan-chase.md) | [Software Engineer Intern - Immersion Program](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774813) | Glasgow | Onsite | 2026-09-01 | Rolling | 🔴 Closed | ❔ |
 | [JP Morgan Chase](generated/companies/jp-morgan-chase.md) | [Software Engineer Intern - Software Engineer Program](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773759) | Palo Alto, CA +8 | Onsite | 2026-08-03 | Rolling | 🔴 Closed | ❔ |
 | [JP Morgan Chase](generated/companies/jp-morgan-chase.md) | [Summer Analyst Intern - Corporate Functions - Corporate Analyst Development Program](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210775228) | Bournemouth | Onsite | 2026-09-01 | Rolling | 🔴 Closed | ❔ |
+| [Judi Health](generated/companies/judi-health.md) | [MBA Analytics Intern - Clinical Programs](https://job-boards.greenhouse.io/judihealth/jobs/5427074008) | NYC +1 | Onsite | 2026-10-06 | Rolling | 🔴 Closed | ❔ |
 | [Junior AI](generated/companies/junior-ai.md) | [Software Engineer Intern](https://jobs.ashbyhq.com/junior/23ee686b-d305-4ac9-860d-16c99ddb4891/application?embed=true) | NYC | Onsite | 2026-07-21 | Rolling | 🔴 Closed | ❔ |
 | [k-ID](generated/companies/k-id.md) | [Product Intern](https://jobs.ashbyhq.com/k-id/35d45263-db3b-4553-b017-b4b1bbd0570d/application?embed=true) | USA | Onsite | 2026-07-21 | Rolling | 🔴 Closed | ❔ |
 | [K2 Space](generated/companies/k2-space.md) | [Radio Frequency Engineer Intern - Summer 2027](https://job-boards.greenhouse.io/k2spacecorporation/jobs/5411919008) | LA | Onsite | 2026-09-01 | Rolling | 🔴 Closed | ❔ |
 | [KBR](generated/companies/kbr.md) | [Software Intern](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Houston-Texas/Software-Intern_R2127863) | Houston, TX | Onsite | 2026-08-06 | Rolling | 🔴 Closed | ❔ |
 | [Kensington](generated/companies/kensington.md) | [Data Analyst Intern - Revenue Optimization](https://job-boards.greenhouse.io/kensingtontours/jobs/5209507007) | Toronto | Onsite | 2026-08-19 | Rolling | 🔴 Closed | ❔ |
+| [KeyBank](generated/companies/keybank.md) | [Corporate Center – Measurement & Impact Intern](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/Summer-2027-Corporate-Center---360-Measurement---Impact-Intern_R-42583) | Brooklyn, OH | Onsite | 2026-10-07 | Rolling | 🔴 Closed | ❔ |
 | [KeyBank](generated/companies/keybank.md) | [Data Intern - Key Technology & Services - Data Track](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/XMLNAME-2027-Summer-Key-Technology---Services--Data-Track-Internship--Cleveland_R-41385) | Brooklyn, OH | Onsite | 2026-08-17 | Rolling | 🔴 Closed | ❔ |
 | [KeyBank](generated/companies/keybank.md) | [Technology Track Intern - Key Technology and Services](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/XMLNAME-2027-Summer-Key-Technology---Services--Technology-Track-Internship--Cleveland_R-41382) | Brooklyn, OH | Onsite | 2026-08-17 | Rolling | 🔴 Closed | ❔ |
 | [Keysight Technologies](generated/companies/keysight-technologies.md) | [Full Stack Intern](https://jobs.keysight.com/jobs/54165?icims=1) | Colorado Springs, CO | Onsite | 2026-09-04 | Rolling | 🔴 Closed | ❔ |
@@ -2639,6 +2635,7 @@
 | [Leidos](generated/companies/leidos.md) | [Software Developer Intern](https://leidos.wd5.myworkdayjobs.com/External/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00193914) | Annapolis Junction, MD | Onsite | 2026-10-05 | Rolling | 🔴 Closed | ❔ |
 | [Leidos](generated/companies/leidos.md) | [Software Developer Intern - Cyber & Analytics Business Area](https://leidos.wd5.myworkdayjobs.com/External/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00192858) | Annapolis Junction, MD | Onsite | 2026-09-22 | Rolling | 🔴 Closed | ❔ |
 | [Leidos](generated/companies/leidos.md) | [Software Engineer Intern](https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Software-Engineer-Intern_R-00193933) | Arlington County | Onsite | 2026-10-06 | Rolling | 🔴 Closed | ❔ |
+| [Leidos](generated/companies/leidos.md) | [Systems Engineer Intern](https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Systems-Engineer-Intern_R-00193940) | Arlington County | Onsite | 2026-10-06 | Rolling | 🔴 Closed | ❔ |
 | [Lennox International](generated/companies/lennox-international.md) | [MES & Industrial Automation Intern](https://uscareers-lennox.icims.com/jobs/54562/job?mobile=true&needsRedirect=false) | Richardson, TX | Onsite | 2026-08-27 | Rolling | 🔴 Closed | ❔ |
 | [LexisNexis Legal & Professional](generated/companies/lexisnexis-legal-professional.md) | [Software Engineer Intern](https://relx.wd3.myworkdayjobs.com/en-US/LexisNexisLegal/job/Raleigh-NC/Software-Engineer-Internship_R118692) | Raleigh, NC | Onsite | 2026-09-15 | Rolling | 🔴 Closed | ❔ |
 | [LexisNexis Risk Solutions](generated/companies/lexisnexis-risk-solutions.md) | [Editorial Data Reporting Intern](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Home-based-Washington-DC/Editorial-Data-Reporting-Intern_R112971-1) | Remote | Remote | 2026-07-10 | Rolling | 🔴 Closed | ❔ |
@@ -2659,6 +2656,7 @@
 | [LSEG](generated/companies/lseg.md) | [Engineering Intern](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/New-York-City-United-States/Engineering-Summer-Internship-Programme_R0123569-1) | NYC | Onsite | 2026-09-17 | Rolling | 🔴 Closed | ❔ |
 | [LSEG](generated/companies/lseg.md) | [Engineering Intern](https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/New-York-City-United-States/Engineering-Summer-Internship-Programme_R0123569) | NYC | Onsite | 2026-09-17 | Rolling | 🔴 Closed | ❔ |
 | [LSEG](generated/companies/lseg.md) | [Engineering Intern - Multiple Teams](https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/Boston-Massachusetts/Engineering-Summer-Internship-Programme_R0123570-1) | Boston, MA | Onsite | 2026-09-17 | Rolling | 🔴 Closed | ❔ |
+| [Lumentum](generated/companies/lumentum.md) | [Optical Verification Engineer Co-op Intern](https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Optical-Verification-Engineer-Co-op-Intern_20261208) | Ottawa | Onsite | 2026-10-05 | Rolling | 🔴 Closed | ❔ |
 | [Lumentum](generated/companies/lumentum.md) | [Optical Verification Engineer Intern Co-op](https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Optical-Verification-Engineer-Co-op-Intern_20261193) | Ottawa | Onsite | 2026-09-08 | Rolling | 🔴 Closed | ❔ |
 | [Lumentum](generated/companies/lumentum.md) | [Optical Verification Technician Co-op Intern](https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Optical-VerificationTechnician-Intern-Co-op_20261049) | Ottawa | Onsite | 2026-08-04 | Rolling | 🔴 Closed | ❔ |
 | [Lumentum](generated/companies/lumentum.md) | [Optical Verification Technician Intern/Co-op](https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Optical-Verification-Technician-Intern-Co-op_20261048) | Ottawa | Onsite | 2026-08-04 | Rolling | 🔴 Closed | ❔ |
@@ -2758,6 +2756,7 @@
 | [Mobius Renewables](generated/companies/mobius-renewables.md) | [Software Engineer Intern](https://ats.rippling.com/greengas/jobs/b2938290-cc66-4f54-9888-bbe286c1d9b6) | Houston, TX | Onsite | 2026-07-21 | Rolling | 🔴 Closed | ❔ |
 | [Moderna](generated/companies/moderna.md) | [Applied Technologies Intern](https://modernatx.wd1.myworkdayjobs.com/en-US/M_tx/job/Norwood-Massachusetts/Intern--Applied-Technologies--Summer-2027-_R19734) | Norwood, MA | Onsite | 2026-09-04 | Rolling | 🔴 Closed | ❔ |
 | [Momentive](generated/companies/momentive.md) | [Environmental Protection Intern](https://momentive.wd1.myworkdayjobs.com/MC/job/US-WV-Friendly/Summer-2027-Environmental-Protection-Intern_R9805) | Friendly, WV | Onsite | 2026-09-08 | Rolling | 🔴 Closed | ❔ |
+| [Momentive](generated/companies/momentive.md) | [Software Development Intern](https://momentive.wd1.myworkdayjobs.com/MC/job/US-NY-Niskayuna/Summer-2027-Intern---Software-Development_R9756) | Niskayuna, NY | Onsite | 2026-09-03 | Rolling | 🔴 Closed | ❔ |
 | [Momentive](generated/companies/momentive.md) | [Web Content Support and Administration Intern](https://momentive.wd1.myworkdayjobs.com/MC/job/US-NY-Pearl-River/Summer-2027-Intern-Web-Content-Support-and-Administration_R9796) | Pearl River, NY | Onsite | 2026-09-11 | Rolling | 🔴 Closed | ❔ |
 | [Monogram](generated/companies/monogram.md) | [Software Engineer Intern](https://jobs.ashbyhq.com/monogram/fab3e651-00e7-4a85-bcb9-0821c642a778/application?embed=true) | San Mateo, CA | Onsite | 2026-07-21 | Rolling | 🔴 Closed | ❔ |
 | [Montenson](generated/companies/montenson.md) | [Investment Analyst Intern](https://fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23362) | Minnesota | Onsite | 2026-08-10 | Rolling | 🔴 Closed | ❔ |
@@ -2869,7 +2868,6 @@
 | [NVIDIA](generated/companies/nvidia.md) | [Performance Engineer Intern, Systems Software](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-MO-St-Louis/Performance-Engineer-Intern--Systems-Software---Fall-2026_JR2015779) | St. Louis, MO | Onsite | 2026-07-09 | Rolling | 🔴 Closed | ❔ |
 | [NVIDIA](generated/companies/nvidia.md) | [Ph.D. Engineering Intern](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Summer-Internships--PhD-Engineering_JR2023856) | Santa Clara, CA | Onsite | 2026-08-19 | Rolling | 🔴 Closed | ❔ |
 | [NVIDIA](generated/companies/nvidia.md) | [PhD Software Engineer Intern - Decision Intelligence](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Software-Engineering-Intern--Decision-Intelligence---Fall-2026_JR2017522) | Santa Clara, CA | Onsite | 2026-05-23 | Rolling | 🔴 Closed | ❔ |
-| [NVIDIA](generated/companies/nvidia.md) | [Software Engineering Intern](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495) | Canada +1 | Onsite | 2026-08-19 | Rolling | 🔴 Closed | ❔ |
 | [NVIDIA](generated/companies/nvidia.md) | [Software Engineering Intern, JAX](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--JAX---Fall-2026_JR2009745) | Santa Clara, CA | Onsite | 2026-04-25 | Rolling | 🔴 Closed | ❔ |
 | [NXP Semiconductors](generated/companies/nxp-semiconductors.md) | [Analog Validation Intern - Summer 2027](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Analog-Validation-Intern---Summer-2027_R-10065558) | Austin, TX | Onsite | 2026-09-07 | Rolling | 🔴 Closed | ❔ |
 | [NXP Semiconductors](generated/companies/nxp-semiconductors.md) | [Device Engineering Intern - Summer 2027](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Chandler-Office/Device-Engineering-Intern---Summer-2027_R-10064586) | Chandler, AZ | Onsite | 2026-09-07 | Rolling | 🔴 Closed | ❔ |
@@ -2939,6 +2937,7 @@
 | [POET](generated/companies/poet.md) | [Plant Engineer Intern - Summer 2027](https://poet.wd1.myworkdayjobs.com/POET/job/Corning-IA/Plant-Engineering-Intern---Summer-2027_R101665-1) | Corning, IA | Onsite | 2026-08-31 | Rolling | 🔴 Closed | ❔ |
 | [POET](generated/companies/poet.md) | [Process Engineering Intern](https://poet.wd1.myworkdayjobs.com/POET/job/Sioux-Falls-SD/Process-Engineering-Intern---Summer-2027_R101679) | Sioux Falls, SD | Onsite | 2026-09-01 | Rolling | 🔴 Closed | ❔ |
 | [POET](generated/companies/poet.md) | [Software Developer Intern](https://poet.wd1.myworkdayjobs.com/POET/job/Sioux-Falls-SD/Software-Developer-Intern_R101786-1) | Sioux Falls, SD | Onsite | 2026-09-28 | Rolling | 🔴 Closed | ❔ |
+| [Point C](generated/companies/point-c.md) | [Healthcare Informatics Intern](https://job-boards.greenhouse.io/pointc/jobs/5282758008) | Remote | Remote | 2026-10-07 | Rolling | 🔴 Closed | ❔ |
 | [Post Holdings](generated/companies/post-holdings.md) | [Business Intelligence Intern - Summer 2027](https://jobs.postholdings.com/jobs/31924?icims=1) | Lakeville, MN | Onsite | 2026-09-01 | Rolling | 🔴 Closed | ❔ |
 | [Post Holdings](generated/companies/post-holdings.md) | [Product R&D Intern - Summer 2027](https://jobs.postholdings.com/jobs/31925?icims=1) | Lakeville, MN | Onsite | 2026-09-01 | Rolling | 🔴 Closed | ❔ |
 | [Praytell](generated/companies/praytell.md) | [Analytics & Reporting Intern](https://apply.workable.com/praytell/j/64893520AF/apply) | Chicago, IL +1 | Onsite | 2026-08-18 | Rolling | 🔴 Closed | ❔ |
@@ -2969,6 +2968,7 @@
 | [Pure Storage](generated/companies/pure-storage.md) | [SW Engineer Internship](https://job-boards.greenhouse.io/purestorage/jobs/7996475) | Prague | Onsite | 2026-06-25 | Rolling | 🔴 Closed | ❔ |
 | [Qorvo](generated/companies/qorvo.md) | [Application Engineer Intern](https://careers.qorvo.com/job/Apopka-Application-Engineering-Intern-FL-32703/1421984100/?ats=successfactors) | Apopka, FL | Onsite | 2026-08-31 | Rolling | 🔴 Closed | ❔ |
 | [Qorvo](generated/companies/qorvo.md) | [Software Engineer Intern](https://careers.qorvo.com/job/Richardson-Software-Engineer-Intern-TX-75080/1421453600/?ats=successfactors) | Richardson, TX | Onsite | 2026-08-31 | Rolling | 🔴 Closed | ❔ |
+| [Qorvo](generated/companies/qorvo.md) | [Technology Development Intern](https://careers.qorvo.com/job/Hillsboro-Technology-Development-Intern-OR-97124/1422908300/?ats=successfactors) | Hillsboro, OR | Onsite | 2026-08-31 | Rolling | 🔴 Closed | ❔ |
 | [Qorvo](generated/companies/qorvo.md) | [Test Engineer Intern](https://careers.qorvo.com/job/Richardson-Test-Engineering-Intern-TX-75080/1424729000/?ats=successfactors) | Richardson, TX | Onsite | 2026-08-31 | Rolling | 🔴 Closed | ❔ |
 | [Qorvo](generated/companies/qorvo.md) | [Test Engineer Intern](https://careers.qorvo.com/job/Richardson-Test-Engineering-Intern-TX-75080/1424797000/?ats=successfactors) | Richardson, TX | Onsite | 2026-08-31 | Rolling | 🔴 Closed | ❔ |
 | [Quadrillion](generated/companies/quadrillion.md) | [Software Engineer Intern](https://jobs.ashbyhq.com/quadrillion-labs/601e105d-2f0f-4482-9bae-3a825a1b97fd/application?embed=true) | NYC | Onsite | 2026-07-21 | Rolling | 🔴 Closed | ❔ |
@@ -3009,6 +3009,7 @@
 | [Richemont](generated/companies/richemont.md) | [Sustainability Transformation Analyst Intern](https://richemont.wd3.myworkdayjobs.com/richemont/job/BELLEVUE/Sustainability-Transformation-Analyst-Intern_JR132092) | Bellevue, WA | Onsite | 2026-07-29 | Rolling | 🔴 Closed | ❔ |
 | [Ridgeline](generated/companies/ridgeline.md) | [Software Engineer Intern](https://boards.greenhouse.io/ridgeline/jobs/7990742003) | Reno, NV | Onsite | 2026-09-10 | Rolling | 🔴 Closed | ❔ |
 | [Riveron](generated/companies/riveron.md) | [Technology & Innovation Intern](https://jobs.ashbyhq.com/riveron/a1c4ef22-34a2-43b8-950d-ca6288cc17a1/application?embed=true) | SF +1 | Onsite | 2026-08-18 | Rolling | 🔴 Closed | ❔ |
+| [Rivet Industries](generated/companies/rivet-industries.md) | [Software Engineer Intern](https://jobs.ashbyhq.com/rivet/03fcb078-7371-4cfd-89a9-368e5b60d914/application?embed=true) | San Jose, CA | Onsite | 2026-10-06 | Rolling | 🔴 Closed | ❔ |
 | [Rivet Industries](generated/companies/rivet-industries.md) | [Software Engineer Intern - XR Team - Fall 2026](https://jobs.ashbyhq.com/rivet/4e02461a-9f6c-4d3c-a511-6d54f31999bc/application?embed=true) | Bellevue, WA | Onsite | 2026-08-25 | Rolling | 🔴 Closed | ❔ |
 | [Rivian](generated/companies/rivian.md) | [Intern](https://careers.rivian.com/jobs/32355?icims=1) | Urbana, IL | Onsite | 2026-07-22 | Rolling | 🔴 Closed | ❔ |
 | [Rivian and Volkswagen Group Technologies](generated/companies/rivian-and-volkswagen-group-technologies.md) | [Android Developer Intern](https://jobs.ashbyhq.com/rivianvw.tech/5633bb03-cc16-47fc-af02-db9dc355eddd/application) | Palo Alto, CA | Onsite | 2026-06-11 | Rolling | 🔴 Closed | ❔ |
@@ -3111,6 +3112,7 @@
 | [RTX](generated/companies/rtx.md) | [Methods Intern - Hot Section Engineering](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Methods-Intern---Hot-Section-Engineering--Summer-2027---Onsite-_01870611) | East Hartford, CT | Onsite | 2026-08-31 | Rolling | 🔴 Closed | ❔ |
 | [RTX](generated/companies/rtx.md) | [Modeling, Simulation & Analysis Intern](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-9020--9020-S-Rita-Rd--BLDG-9020/Modeling--Simulation---Analysis-Intern_01866254) | Tucson, AZ | Onsite | 2026-08-12 | Rolling | 🔴 Closed | ❔ |
 | [RTX](generated/companies/rtx.md) | [Modeling, Simulation & Analysis Intern - Summer 2027](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-9020--9020-S-Rita-Rd--BLDG-9020/Modeling--Simulation---Analysis-Intern--Summer-2027-_01867118) | Tucson, AZ | Onsite | 2026-08-17 | Rolling | 🔴 Closed | ❔ |
+| [RTX](generated/companies/rtx.md) | [Numerical Methods Intern - Advanced Software Development](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Dveloppement-Logiciel-Avanc--Mthodes-Numriques---Internship---Winter-2027---Advanced-Software-Development--Numerical-Methods_01871187) | Longueuil | Onsite | 2026-09-01 | Rolling | 🔴 Closed | ❔ |
 | [RTX](generated/companies/rtx.md) | [Operations Software Engineering Intern - Summer 2027](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MN-BURNSVILLE-WEST--14300-Judicial-Rd--WEST-BLDG/Operations-Software-Engineering-Intern--Summer-2027-_01874620) | Burnsville, MN | Onsite | 2026-09-22 | Rolling | 🔴 Closed | ❔ |
 | [RTX](generated/companies/rtx.md) | [Performance Indicator Development and Process and Project Management Internship](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Dveloppement-d-indicateurs-de-performance-et-gestion-des-processus-et-projets---Internship---Winter-2027--Development-of-Performance-Indicators-and-Process-and-Project-Management_01867284) | Longueuil | Onsite | 2026-09-03 | Rolling | 🔴 Closed | ❔ |
 | [RTX](generated/companies/rtx.md) | [PLM Business Analyst Intern - PLM Transformation and Governance](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-SAINT-HUBERT-H05--7007-Chemin-De-La-Savane--BLDG-H05-FACTORY/Stage---Hiver-2027---Analyste-de-processus-d-affaires-dans-l-quipe-Transformation-et-gouvernance-PLM---Internship---Winter-2027---PLM-Businest-Analyst-Intern_01865912) | Saint-Hubert | Onsite | 2026-08-28 | Rolling | 🔴 Closed | ❔ |
@@ -3251,7 +3253,6 @@
 | [Sony Music Entertainment](generated/companies/sony-music-entertainment.md) | [Insight & Analytics Intern](https://www.sonymusic.co.uk/careers/job-description/?gh_jid=8638298002) | London | Onsite | 2026-08-10 | Rolling | 🔴 Closed | ❔ |
 | [Sony Pictures Entertainment](generated/companies/sony-pictures-entertainment.md) | [Graduate Intern - Advanced Technologies](https://spe.wd1.myworkdayjobs.com/en-US/SonyPicturesEntertainment/job/Culver-City-California/Graduate-Intern--Advanced-Technologies_JR113816) | Culver City, CA | Onsite | 2026-07-28 | Rolling | 🔴 Closed | ❔ |
 | [Sony Pictures Entertainment](generated/companies/sony-pictures-entertainment.md) | [Insights Intern - Multiple Teams](https://spe.wd1.myworkdayjobs.com/en-US/SonyPicturesEntertainment/job/Culver-City-California/Intern--Insights--Strategy---Analytics--Product-Management---Data-Science---Fall-2026_JR113988) | Culver City, CA | Onsite | 2026-08-07 | Rolling | 🔴 Closed | ❔ |
-| [SOTI](generated/companies/soti.md) | [Software Developer Intern](https://soti.wd3.myworkdayjobs.com/Careers/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---SOTI-MobiControl-Apple-HQ--January-2027-12-Months-_R10551) | Mississauga | Onsite | 2026-09-30 | Rolling | 🔴 Closed | ❔ |
 | [Southwest Airlines](generated/companies/southwest-airlines.md) | [Digital Product Intern](https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Summer-2027-Digital-Product-Internship_R-2026-73049) | Dallas, TX | Onsite | 2026-10-01 | Rolling | 🔴 Closed | ❔ |
 | [Southwest Airlines](generated/companies/southwest-airlines.md) | [Digital Testing & Optimization Intern](https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Summer-2027-Digital-Testing---Optimization-Internship_R-2026-73012) | Dallas, TX | Onsite | 2026-10-01 | Rolling | 🔴 Closed | ❔ |
 | [Southwest Airlines](generated/companies/southwest-airlines.md) | [Safety Analytics Intern](https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Safety-Analytics-Summer-2027-Intern_R-2026-73047) | Dallas, TX | Onsite | 2026-10-01 | Rolling | 🔴 Closed | ❔ |
@@ -3389,6 +3390,7 @@
 | [Texas Permanent School Fund Corporation](generated/companies/texas-permanent-school-fund-corporation.md) | [Equity Capital Markets Intern](https://texaspsf.wd501.myworkdayjobs.com/TexasPSFCareers/job/Innovation-Tower/Equity-Capital-Markets-Intern_JR100108) | Austin, TX | Onsite | 2026-08-10 | Rolling | 🔴 Closed | ❔ |
 | [Textron](generated/companies/textron.md) | [Data Product & Analytics Intern](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=343181) | Augusta, GA | Onsite | 2026-09-02 | Rolling | 🔴 Closed | ❔ |
 | [Textron](generated/companies/textron.md) | [IT Programmer Intern](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=343204) | Augusta, GA | Onsite | 2026-09-02 | Rolling | 🔴 Closed | ❔ |
+| [Textron](generated/companies/textron.md) | [Software Engineer Intern - Electronic Systems](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342688) | Hunt Valley | Onsite | 2026-09-01 | Rolling | 🔴 Closed | ❔ |
 | [Thales](generated/companies/thales.md) | [Computer Science Intern Co-op](https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Ottawa---Palladium/Computer-Science-Intern-or-Coop_R0338233) | Ottawa | Onsite | 2026-09-17 | Rolling | 🔴 Closed | ❔ |
 | [The Aerospace Corporation](generated/companies/the-aerospace-corporation.md) | [Aerospace Software Engineer Intern](https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Aerospace-Software-Engineer-Undergraduate-Intern_R016605) | El Segundo, CA | Onsite | 2026-09-15 | Rolling | 🔴 Closed | ❔ |
 | [The Aerospace Corporation](generated/companies/the-aerospace-corporation.md) | [Reliability and Statistics Intern](https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Reliability-and-Statistics-Undergraduate-Intern_R016594) | El Segundo, CA | Onsite | 2026-09-20 | Rolling | 🔴 Closed | ❔ |
@@ -3499,7 +3501,6 @@
 | [Twilio](generated/companies/twilio.md) | [Software Engineer Intern (January 12th start, 23 weeks)](https://job-boards.greenhouse.io/twilio/jobs/8190887) | Remote | Remote | 2026-09-16 | Rolling | 🔴 Closed | ❔ |
 | [Two Six Technologies](generated/companies/two-six-technologies.md) | [China Subject Matter Expert Intern](https://job-boards.greenhouse.io/twosixtechnologies/jobs/6105290004) | Remote | Remote | 2026-07-02 | Rolling | 🔴 Closed | ❔ |
 | [Two Six Technologies](generated/companies/two-six-technologies.md) | [SkillBridge Fellow Intern - Multiple Teams](https://job-boards.greenhouse.io/twosixtechnologies/jobs/6126995004) | Doral, FL | Onsite | 2026-07-27 | Rolling | 🔴 Closed | ❔ |
-| [Tyler Technologies](generated/companies/tyler-technologies.md) | [Software Development Intern - Summer 2027](https://jobs.jobvite.com/tylertech/job/oxAPAfwg?nl=1&nl=1&fr=false) | Yarmouth, ME +2 | Onsite | 2026-09-21 | Rolling | 🔴 Closed | ❔ |
 | [U.S. Bank](generated/companies/u-s-bank.md) | [Business Analytics Intern](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/XMLNAME-2027-Business-Analytics-Summer-Intern_2026-0025907) | Minneapolis, MN | Onsite | 2026-09-08 | Rolling | 🔴 Closed | ❔ |
 | [U.S. Bank](generated/companies/u-s-bank.md) | [Engineering Intern](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Hopkins-MN/XMLNAME-2027-Engineering-Summer-Intern_2026-0025769) | Hopkins, MN | Onsite | 2026-09-15 | Rolling | 🔴 Closed | ❔ |
 | [UHY](generated/companies/uhy.md) | [Data Operations Intern](https://uhyus.wd12.myworkdayjobs.com/uhy/job/Kansas-City-MO/XMLNAME-2027-Data-Operations-Winter-Internship---Kansas-City_JR102226) | Kansas City, MO | Onsite | 2026-08-11 | Rolling | 🔴 Closed | ❔ |
@@ -3568,6 +3569,7 @@
 | [Warner Bros.](generated/companies/warner-bros.md) | [Sports Growth Strategy and Data Intern](https://warnerbros.wd5.myworkdayjobs.com/global/job/GA-Atlanta-1050-Techwood-Drive-NW/Sports-Growth-Strategy-and-Data-Internships--ATL---Fall-2026_R000107173) | Atlanta, GA | Onsite | 2026-07-23 | Rolling | 🔴 Closed | ❔ |
 | [Watts Water](generated/companies/watts-water.md) | [B2C E-Commerce Analytics & Website Intern - Summer 2027](https://wattswater.wd5.myworkdayjobs.com/Intern-External/job/North-Andover-MA/B2C-E-Commerce-Analytics---Website-Intern--Summer-2027_10017536) | North Andover, MA | Onsite | 2026-09-21 | Rolling | 🔴 Closed | ❔ |
 | [Watts Water](generated/companies/watts-water.md) | [Product Specialist Intern - Summer 2027](https://wattswater.wd5.myworkdayjobs.com/Intern-External/job/Fort-Worth-TX/Product-Specialist-Intern--Summer-2027_10017585) | Fort Worth, TX | Onsite | 2026-09-17 | Rolling | 🔴 Closed | ❔ |
+| [Wawa](generated/companies/wawa.md) | [Information Technology Development Intern](https://wawa.wd1.myworkdayjobs.com/careers/job/WAWA---Wawa-Inc---Corporate-Office/Information-Technology-Development-Internship_JR122392) | Media, PA | Onsite | 2026-10-09 | Rolling | 🔴 Closed | ❔ |
 | [Waymo](generated/companies/waymo.md) | [2027 Summer Intern, BS, SysEng Software Engineer](https://careers.withwaymo.com/jobs?gh_jid=8174099) | Mountain View +1 | Onsite | 2026-09-03 | Rolling | 🔴 Closed | ❔ |
 | [Waymo](generated/companies/waymo.md) | [2027 Summer Intern, BS/MS, Pipeline and Test Health Engineer](https://careers.withwaymo.com/jobs?gh_jid=8177651) | San Francisco | Onsite | 2026-09-03 | Rolling | 🔴 Closed | ❔ |
 | [Waymo](generated/companies/waymo.md) | [2027 Summer Intern, BS/MS, Software Engineering, Maneuvering Tech](https://careers.withwaymo.com/jobs?gh_jid=8203200) | San Francisco +1 | Onsite | 2026-09-16 | Rolling | 🔴 Closed | ❔ |
@@ -3586,6 +3588,7 @@
 | [Western Digital](generated/companies/western-digital.md) | [Software Engineer Intern](https://jobs.smartrecruiters.com/WesternDigital/744000138727213) | Fremont, CA +5 | Onsite | 2026-07-20 | Rolling | 🔴 Closed | ❔ |
 | [Western Magnetics](generated/companies/western-magnetics.md) | [Software Engineer Intern](https://apply.workable.com/western-magnetics/j/E366930F3F/apply) | South SF | Onsite | 2026-08-20 | Rolling | 🔴 Closed | ❔ |
 | [Westinghouse Electric Company](generated/companies/westinghouse-electric-company.md) | [Finance Analyst Intern](https://careers.westinghousenuclear.com/job/Madison-Summer-Intern-Finance-Analyst-PA-15663/1427820800/?ats=successfactors) | Madison, PA | Onsite | 2026-09-11 | Rolling | 🔴 Closed | ❔ |
+| [Wex](generated/companies/wex.md) | [Full-Stack Software Engineer Intern - Undergraduate](https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/Backend-Software-Engineer-Intern--Undergraduate-_R22593) | Remote | Remote | 2026-09-14 | Rolling | 🔴 Closed | ❔ |
 | [WGU](generated/companies/wgu.md) | [Data Support Engineer Intern](https://wgu.wd5.myworkdayjobs.com/External/job/Salt-Lake-City-UT/Data-Support-Engineer-Intern_JR-025859) | Salt Lake City, UT | Onsite | 2026-08-05 | Rolling | 🔴 Closed | ❔ |
 | [Williams](generated/companies/williams.md) | [Engineering Intern](https://williams.wd5.myworkdayjobs.com/External/job/OK-Tulsa---Headquarters/Summer-2027-Return-Engineering-Intern_R112502) | Salt Lake City, UT +2 | Onsite | 2026-08-03 | Rolling | 🔴 Closed | ❔ |
 | [Williams-Sonoma](generated/companies/williams-sonoma.md) | [Merchandising Intern](https://ehac.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/20062) | Brooklyn, NY | Onsite | 2026-09-01 | Rolling | 🔴 Closed | ❔ |
@@ -3603,6 +3606,7 @@
 | [ZGF Architects](generated/companies/zgf-architects.md) | [Technology Intern](https://zgfarchitects.applytojob.com/apply/uqHC8SCmq2/Technology-Intern) | Portland, OR | Onsite | 2026-08-03 | Rolling | 🔴 Closed | ❔ |
 | [Zions Bank](generated/companies/zions-bank.md) | [Process Automation Developer Intern](https://zionsbancorp.taleo.net/careersection/joinexternalmobile/jobdetail.ftl?job=071580) | USA | Onsite | 2026-09-08 | Rolling | 🔴 Closed | ❔ |
 | [Zip](generated/companies/zip.md) | [Software Engineer Intern](https://jobs.ashbyhq.com/zip/249837b3-106f-4751-a4f2-03a2c5df5faf/application?embed=true) | SF | Onsite | 2026-08-25 | Rolling | 🔴 Closed | ❔ |
+| [Zip](generated/companies/zip.md) | [Software Engineer Intern - Winter 2027](https://jobs.ashbyhq.com/zip/2bc7327b-1c06-418a-beeb-bec1dd70480e/application?embed=true) | Toronto | Onsite | 2026-08-25 | Rolling | 🔴 Closed | ❔ |
 | [Zipline](generated/companies/zipline.md) | [Applications Engineer Intern](https://www.zipline.com/open-roles?gh_jid=7765099003) | San Bruno, CA | Onsite | 2026-06-08 | Rolling | 🔴 Closed | ❔ |
 | [Zipline](generated/companies/zipline.md) | [Applications Engineer Intern - Spring 2027](https://www.zipline.com/open-roles?gh_jid=7908677003) | South SF | Onsite | 2026-08-20 | Rolling | 🔴 Closed | ❔ |
 | [Zipline](generated/companies/zipline.md) | [Computational Physics Intern - Spring 2027](https://www.zipline.com/open-roles?gh_jid=7904605003) | South SF | Onsite | 2026-08-21 | Rolling | 🔴 Closed | ❔ |
@@ -3644,7 +3648,7 @@
 - Astranis (20)
 - GE Vernova (19)
 - Northrop Grumman (19)
-- Vertiv (18)
+- Vertiv (19)
 - TD Bank (17)
 - Amazon (16)
 - ByteDance (16)
@@ -3658,10 +3662,11 @@
 - NVIDIA (13)
 - Oshkosh (13)
 - Rivian and Volkswagen Group Technologies (13)
+- American Family Insurance Group (12)
+- Invesco (12)
 - McKesson (12)
 - Stripe (12)
 - Tradeweb (12)
-- American Family Insurance Group (11)
 - Bosch Home Comfort (11)
 - Ciena (11)
 - Copart (11)
@@ -3669,7 +3674,6 @@
 - Databricks (11)
 - Epic Games (11)
 - Etched (11)
-- Invesco (11)
 - Notion (11)
 - The Federal Reserve System (11)
 - PricewaterhouseCoopers (PwC) (11)
@@ -3680,6 +3684,7 @@
 - Palantir Technologies (10)
 - Procter & Gamble (10)
 - Textron (10)
+- The Toro Company (10)
 - Barclays (9)
 - Definity Financial (9)
 - Excellus BCBS (9)
@@ -3691,16 +3696,15 @@
 - Microsoft (9)
 - National Laboratory of the Rockies (9)
 - onsemi (9)
-- The Toro Company (9)
 - Uline (9)
 - NXP Semiconductors (9)
 - Expedia Group (8)
 - First National Bank (8)
 - Freddie Mac (8)
 - GE Aerospace (8)
+- Goldman Sachs (8)
 - Radiance Technologies (8)
 - Repsol (8)
-- Goldman Sachs (8)
 - IMEG (8)
 - Auto-Owners Insurance (7)
 - Bedrock Robotics (7)
@@ -3835,7 +3839,6 @@
 - Humana (4)
 - K2 Space (4)
 - Kodiak Robotics (4)
-- Lumentum (4)
 - Medtronic (4)
 - MFS (4)
 - Momentive (4)
@@ -3857,6 +3860,7 @@
 - Allied Solutions (4)
 - Boston Scientific (4)
 - British Columbia Investment (4)
+- Lumentum (4)
 - Medline (4)
 - NiSource (4)
 - Tencent (4)
@@ -3899,7 +3903,6 @@
 - Hy-Vee (3)
 - IDEMIA (3)
 - Kainos (3)
-- KeyBank (3)
 - Keysight Technologies (3)
 - Kinder Morgan (3)
 - Kyndryl (3)
@@ -3913,7 +3916,6 @@
 - Pennsylvania State University (3)
 - Qualcomm (3)
 - Replit (3)
-- Republic Airways (3)
 - Salesforce (3)
 - Saronic (3)
 - Scale AI (3)
@@ -3942,6 +3944,7 @@
 - Hexagon AB (3)
 - Jabil (3)
 - John Deere (3)
+- KeyBank (3)
 - KPMG (3)
 - Kudu Dynamics (3)
 - Merchants Bank of Indiana (3)
@@ -4060,8 +4063,8 @@
 - Quadrillion (2)
 - Ragle Inc (2)
 - Rendezvous Robotics (2)
+- Republic Airways (2)
 - Revel (2)
-- Rivet Industries (2)
 - Roblox (2)
 - Rugged Robotics (2)
 - Sage (2)
@@ -4096,7 +4099,6 @@
 - WSP (2)
 - xAI (2)
 - Zimmer Biomet Holdings (2)
-- Zip (2)
 - Accenture (2)
 - Alayacare (2)
 - Allen Control Systems (2)
@@ -4136,6 +4138,7 @@
 - Post Holdings (2)
 - Protiviti (2)
 - Prudential Financial (2)
+- Rivet Industries (2)
 - Rubrik (2)
 - Schroders (2)
 - Seaspan (2)
@@ -4158,6 +4161,7 @@
 - Wabtec (2)
 - Wellington Management (2)
 - Western Digital (2)
+- Zip (2)
 - 1Password (1)
 - 3M (1)
 - Adobe (1)
@@ -4267,12 +4271,12 @@
 - General Dynamics (1)
 - Glean (1)
 - GoMaterials (1)
-- Goodlord (1)
 - GovSignals (1)
 - GrayMatter Robotics (1)
 - Gritt Robotics Inc (1)
 - Grow Therapy (1)
 - GuideStone (1)
+- Gusto (1)
 - H&CO (1)
 - H&R Block (1)
 - Hadrian (1)
@@ -4291,7 +4295,6 @@
 - IMC (1)
 - Inbulks (1)
 - Iridium Communications (1)
-- Judi Health (1)
 - Kastle (1)
 - Kensho (1)
 - Khan Academy (1)
@@ -4342,7 +4345,6 @@
 - Perchwell (1)
 - Persona (1)
 - Phoebe (1)
-- Point C (1)
 - Point72 (1)
 - Pony.ai (1)
 - Primer (1)
@@ -4389,6 +4391,7 @@
 - SK Hynix Memory Solution (1)
 - Skyward (1)
 - Sorting Robotics (1)
+- SOTI (1)
 - Southern Star Central Gas Pipeline (1)
 - Specialisterne (1)
 - Stand Together (1)
@@ -4431,9 +4434,7 @@
 - W.R. Berkley (1)
 - Wabash Valley Power Alliance (1)
 - Walmart (1)
-- Wawa (1)
 - West Bend Insurance (1)
-- Wex (1)
 - WhatNot (1)
 - Workshop (1)
 - WSFS Bank (1)
@@ -4560,6 +4561,7 @@
 - Global Partners (1)
 - GoDaddy (1)
 - Golden Pet Brands (1)
+- Goodlord (1)
 - Gulf Management (1)
 - H3X Technologies (1)
 - Harris Central Appraisal District (1)
@@ -4585,6 +4587,7 @@
 - Interstates (1)
 - iRhythm Technologies (1)
 - JINGDONG (1)
+- Judi Health (1)
 - Junior AI (1)
 - KBR (1)
 - Kensington (1)
@@ -4636,6 +4639,7 @@
 - Planview (1)
 - Plastipak (1)
 - Podium (1)
+- Point C (1)
 - Praytell (1)
 - ProNexus (1)
 - PSECU (1)
@@ -4667,7 +4671,6 @@
 - Somerce (1)
 - Sony (1)
 - Sony Music Entertainment (1)
-- SOTI (1)
 - Spectrum Control (1)
 - SRI International (1)
 - Stand Insurance (1)
@@ -4714,9 +4717,11 @@
 - Viavi Solutions (1)
 - Voltus (1)
 - Warner Bros. (1)
+- Wawa (1)
 - Wealthsimple (1)
 - Western Aircraft (1)
 - Western Magnetics (1)
+- Wex (1)
 - WGU (1)
 - Williams (1)
 - Williams-Sonoma (1)

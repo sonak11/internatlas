@@ -6,7 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
-| Judi Health | [MBA Analytics Intern - Clinical Programs](https://job-boards.greenhouse.io/judihealth/jobs/5427074008) | NYC +1 | Onsite | 2026-10-06 | Rolling | 🟢 Open | ❔ |
+| Judi Health | [MBA Analytics Intern - Clinical Programs](https://job-boards.greenhouse.io/judihealth/jobs/5427074008) | NYC +1 | Onsite | 2026-10-06 | Rolling | 🔴 Closed | ❔ |
 
 ## Related
 

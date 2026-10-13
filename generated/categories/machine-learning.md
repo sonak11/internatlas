@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🧠 Machine Learning Internships
 
-**283** tracked · **206** open now
+**284** tracked · **208** open now
 
 ## Current openings
 
@@ -90,6 +90,7 @@
 | [Intercontinental Exchange, Inc.](generated/companies/intercontinental-exchange-inc.md) | [Artificial Intelligence, Data & Machine Learning Intern](https://careers.ice.com/jobs/12830?lang=en-us&iis=LinkedIn&iisn=Linkedin&mode=apply&jr_id=69e67bb27820c036924d0af9) | New York, NY | Onsite | 2026-04-20 | Rolling | 🟢 Open | ❔ |
 | [Jane Street](generated/companies/jane-street.md) | [Machine Learning Engineer Intern](https://www.janestreet.com/join-jane-street/position/8611307002/) | New York, NY | Onsite | 2026-07-24 | Rolling | 🟢 Open | ❔ |
 | [Jane Street](generated/companies/jane-street.md) | [Machine Learning Researcher Intern](https://www.janestreet.com/join-jane-street/position/8384490002/) | New York, NY | Onsite | 2026-07-24 | Rolling | 🟢 Open | ✅ |
+| [Johns Hopkins Applied Physics Laboratory](generated/companies/johns-hopkins-applied-physics-laboratory.md) | [Artificial Intelligence and Machine Learning Intern - Research Assistant](https://careers.jhuapl.edu/jobs/60084?icims=1) | Laurel, MD | Onsite | 2026-09-25 | Rolling | 🟢 Open | ❔ |
 | [Jump Trading](generated/companies/jump-trading.md) | [Campus AI Research Engineer - Deep Learning (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8052338) | Chicago | Onsite | 2026-07-08 | Rolling | 🟢 Open | ❔ |
 | [Jump Trading](generated/companies/jump-trading.md) | [Campus AI Research Engineer Intern - Deep Learning](https://boards.greenhouse.io/embed/job_app?token=8052338) | Chicago, IL +1 | Onsite | 2026-07-08 | Rolling | 🟢 Open | ❔ |
 | [Jump Trading](generated/companies/jump-trading.md) | [Campus AI/ML Researcher (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8027938) | Hong Kong | Onsite | 2026-08-24 | Rolling | 🟢 Open | ❔ |
@@ -209,6 +210,7 @@
 | [Waymo](generated/companies/waymo.md) | [2027 Summer Intern, PhD, Machine Learning Research, Planning/Prediction](https://careers.withwaymo.com/jobs?gh_jid=8237997) | Mountain View, CA | Onsite | 2026-09-28 | Rolling | 🟢 Open | ❔ |
 | [Waymo](generated/companies/waymo.md) | [2027 Summer Intern, PhD, Machine Learning, Computer Vision](https://careers.withwaymo.com/jobs?gh_jid=8202025) | Mountain View +1 | Onsite | 2026-09-16 | Rolling | 🟢 Open | ❔ |
 | [Waymo](generated/companies/waymo.md) | [2027 Summer Intern, PhD, Machine Learning, Planning/Prediction](https://careers.withwaymo.com/jobs?gh_jid=8262154) | Mountain View, CA | Onsite | 2026-10-08 | Rolling | 🟢 Open | ❔ |
+| [Waymo](generated/companies/waymo.md) | [2027 Summer Intern, PhD, Machine Learning, Simulation Realism](https://careers.withwaymo.com/jobs?gh_jid=8265868) | London | Onsite | 2026-10-13 | Rolling | 🟢 Open | ❔ |
 | [Waymo](generated/companies/waymo.md) | [2027 Summer Intern, PhD, Perception/Road Understanding, ML Engineer](https://careers.withwaymo.com/jobs?gh_jid=8224746) | Mountain View +1 | Onsite | 2026-09-23 | Rolling | 🟢 Open | ❔ |
 | [Waymo](generated/companies/waymo.md) | [2027 Summer Intern, PhD, Planner Machine Learning](https://careers.withwaymo.com/jobs?gh_jid=8234876) | San Francisco +1 | Onsite | 2026-09-29 | Rolling | 🟢 Open | ❔ |
 | [Workday](generated/companies/workday.md) | [Machine Learning Engineer Intern](https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Machine-Learning-Engineer-Intern_JR-0110812) | Pleasanton, CA | Onsite | 2026-10-09 | Rolling | 🟢 Open | ❔ |
@@ -242,7 +244,6 @@
 | [IMC Trading](generated/companies/imc-trading.md) | [Machine Learning Research Intern - Summer 2027 - Hong Kong](https://job-boards.eu.greenhouse.io/imc/jobs/4959300101) | Hong Kong | Onsite | 2026-08-24 | Rolling | 🔴 Closed | ❔ |
 | [Instacart](generated/companies/instacart.md) | [Machine Learning Engineer, PhD Intern (Fall)](https://instacart.careers/job/?gh_jid=5917202) | Remote | Remote | 2024-04-18 | Rolling | 🔴 Closed | ❔ |
 | [Instacart](generated/companies/instacart.md) | [Machine Learning PhD Intern, Economics (Fall)](https://instacart.careers/job/?gh_jid=7532267) | Remote | Remote | 2026-01-13 | Rolling | 🔴 Closed | ❔ |
-| [Johns Hopkins Applied Physics Laboratory](generated/companies/johns-hopkins-applied-physics-laboratory.md) | [Artificial Intelligence and Machine Learning Intern - Research Assistant](https://careers.jhuapl.edu/jobs/60084?icims=1) | Laurel, MD | Onsite | 2026-09-25 | Rolling | 🔴 Closed | ❔ |
 | [JP Morgan Chase](generated/companies/jp-morgan-chase.md) | [Machine Learning Engineer Summer Associate Intern - Asset and Wealth Management](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210790885) | Jersey City, NJ | Onsite | 2026-09-17 | Rolling | 🔴 Closed | ❔ |
 | [Keysight Technologies](generated/companies/keysight-technologies.md) | [AI/ML Research Intern](https://jobs.keysight.com/jobs/52557?icims=1) | Edinburgh | Onsite | 2026-07-21 | Rolling | 🔴 Closed | ❔ |
 | [Kinaxis](generated/companies/kinaxis.md) | [Developer Intern Co-op - Machine Learning](https://careers-kinaxis.icims.com/jobs/35297/job?mobile=true&needsRedirect=false) | Remote | Remote | 2026-09-03 | Rolling | 🔴 Closed | ❔ |
@@ -295,7 +296,7 @@
 ## Hiring companies
 
 - TikTok (46)
-- Waymo (18)
+- Waymo (19)
 - ByteDance (14)
 - Tesla (10)
 - AMD (8)
@@ -360,6 +361,7 @@
 - Honeywell (1)
 - Human Computer Lab (1)
 - Intercontinental Exchange, Inc. (1)
+- Johns Hopkins Applied Physics Laboratory (1)
 - Kensho (1)
 - Klaviyo (1)
 - Neuralink (1)
@@ -391,7 +393,6 @@
 - Gallup (1)
 - Geico (1)
 - Genentech (1)
-- Johns Hopkins Applied Physics Laboratory (1)
 - JP Morgan Chase (1)
 - Keysight Technologies (1)
 - Kodiak Robotics (1)
