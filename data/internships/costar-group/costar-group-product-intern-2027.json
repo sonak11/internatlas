@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "the-walt-disney-company-systems-application-development-and-sustainment-intern-2027-cdd595",
+  "id": "costar-group-product-intern-2027",
   "company": {
-    "name": "The Walt Disney Company",
-    "slug": "the-walt-disney-company"
+    "name": "CoStar Group",
+    "slug": "costar-group"
   },
-  "role": "Systems Application Development and Sustainment Intern",
+  "role": "Product Intern",
   "category": "software-engineering",
-  "apply_url": "https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Orlando-FL-USA/System-App-Dev---Sustainment-Intern_10159463-1",
-  "season": "spring",
+  "apply_url": "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/US-VA-Richmond---CoStar-Tower/Product-Intern---Richmond--VA--Summer-2027-_R39900",
+  "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Orlando",
-      "state": "FL",
+      "city": "Richmond",
+      "state": "VA",
       "country": "USA"
     }
   ],
@@ -40,11 +40,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-28",
-    "discovered": "2026-08-29",
-    "last_verified": "2026-09-05"
+    "posted": "2026-10-13",
+    "discovered": "2026-10-13",
+    "last_verified": "2026-10-13"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

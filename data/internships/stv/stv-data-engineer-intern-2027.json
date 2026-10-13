@@ -1,20 +1,21 @@
 {
   "schema_version": "1.0",
-  "id": "capital-one-data-scientist-intern-2027-ea487e",
+  "id": "stv-data-engineer-intern-2027",
   "company": {
-    "name": "Capital One",
-    "slug": "capital-one"
+    "name": "STV",
+    "slug": "stv"
   },
-  "role": "Data Scientist Intern",
-  "category": "data-science",
-  "apply_url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Data-Scientist---Winter-2027_R999619-1",
-  "season": "winter",
+  "role": "Data Engineer Intern",
+  "category": "data-engineering",
+  "apply_url": "https://stvinc.wd5.myworkdayjobs.com/stv/job/Chicago-Illinois/Data-Engineering-Intern---Spring-2027_JR6379",
+  "season": "spring",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Toronto",
-      "country": "ON"
+      "city": "Chicago",
+      "state": "IL",
+      "country": "USA"
     }
   ],
   "compensation": {
@@ -24,7 +25,9 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "masters"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -39,11 +42,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-08",
-    "discovered": "2026-10-06",
-    "last_verified": "2026-10-09"
+    "posted": "2026-10-13",
+    "discovered": "2026-10-13",
+    "last_verified": "2026-10-13"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

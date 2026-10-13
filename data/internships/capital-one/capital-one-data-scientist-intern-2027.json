@@ -7,8 +7,8 @@
   },
   "role": "Data Scientist Intern",
   "category": "data-science",
-  "apply_url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Data-Scientist---Summer-2027_R1002165-1",
-  "season": "summer",
+  "apply_url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Data-Scientist---Winter-2027_R999619-1",
+  "season": "winter",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
@@ -39,11 +39,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-10-05",
+    "posted": "2026-09-08",
     "discovered": "2026-09-08",
-    "last_verified": "2026-10-09"
+    "last_verified": "2026-10-13"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

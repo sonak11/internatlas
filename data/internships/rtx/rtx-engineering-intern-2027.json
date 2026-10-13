@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "itron-data-science-intern-distributed-intelligence-2027-0277b9",
+  "id": "rtx-engineering-intern-2027",
   "company": {
-    "name": "Itron",
-    "slug": "itron"
+    "name": "RTX",
+    "slug": "rtx"
   },
-  "role": "Data Science Intern - Distributed Intelligence",
-  "category": "data-science",
-  "apply_url": "https://itron.wd5.myworkdayjobs.com/Itron/job/United-States-of-America-Washington-Liberty-Lake/Intern---Data-Science--Distributed-Intelligence_JR102942",
+  "role": "Engineering Intern",
+  "category": "software-engineering",
+  "apply_url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Summer-Engineering-Intern--Summer-2027-_01882181",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Liberty Lake",
-      "state": "WA",
+      "city": "Cedar Rapids",
+      "state": "IA",
       "country": "USA"
     }
   ],
@@ -42,8 +42,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-28",
-    "discovered": "2026-09-30",
+    "posted": "2026-10-13",
+    "discovered": "2026-10-13",
     "last_verified": "2026-10-13"
   },
   "status": "open",
