@@ -7,8 +7,8 @@
   },
   "role": "Software Engineer Intern",
   "category": "software-engineering",
-  "apply_url": "https://boards.greenhouse.io/embed/job_app?token=8732364002",
-  "season": "winter",
+  "apply_url": "https://boards.greenhouse.io/embed/job_app?token=6865687002",
+  "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
@@ -25,6 +25,10 @@
       "city": "Mountain View",
       "state": "CA",
       "country": "USA"
+    },
+    {
+      "city": "Vancouver",
+      "country": "BC"
     }
   ],
   "compensation": {
@@ -49,9 +53,9 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-21",
+    "posted": "2026-10-12",
     "discovered": "2026-08-21",
-    "last_verified": "2026-10-12"
+    "last_verified": "2026-10-13"
   },
   "status": "open",
   "tags": [

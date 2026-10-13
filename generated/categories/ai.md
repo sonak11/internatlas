@@ -2,21 +2,19 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🤖 AI Internships
 
-**480** tracked · **236** open now
+**484** tracked · **242** open now
 
 ## Current openings
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
 | [1X](generated/companies/1x.md) | [AI Residency Intern](https://jobs.ashbyhq.com/1x/5b2b4c73-13b5-46ca-8467-8024741a4b57/application) | San Carlos, CA | Onsite | 2026-07-07 | Rolling | 🟢 Open | ❔ |
-| [7-Eleven](generated/companies/7-eleven.md) | [AI Engineer Intern](https://my7elevenhr.wd12.myworkdayjobs.com/Careers/job/SSC-Irving-TX/AI-Engineer-Intern_R26_5974-1) | Irving, TX | Onsite | 2026-10-08 | Rolling | 🟢 Open | ❔ |
 | [ABB](generated/companies/abb.md) | [AI Engineering ERP Intern](https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Cary/AI-Engineering--ERP-Intern--Summer-2027_JR00048711) | Cary, NC | Onsite | 2026-10-06 | Rolling | 🟢 Open | ❔ |
 | [ABB](generated/companies/abb.md) | [AI Engineering Intern - Business Systems](https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Cary/AI-Engineering--Business-Systems-Intern--Summer-2027_JR00048714) | Cary, NC | Onsite | 2026-10-06 | Rolling | 🟢 Open | ❔ |
 | [Acuity](generated/companies/acuity.md) | [Finance AI Engineering Intern](https://careers.acuityinc.com/job/Atlanta-Finance-AI-Engineering-Intern-Onsite-GA-30309/1434878900/?ats=successfactors) | Atlanta, GA | Onsite | 2026-09-29 | Rolling | 🟢 Open | ❔ |
 | [Acuity](generated/companies/acuity.md) | [Finance AI Product Management Intern](https://careers.acuityinc.com/job/Atlanta-Finance-AI-Product-Management-Intern-Onsite-GA-30309/1434874300/?ats=successfactors) | Atlanta, GA | Onsite | 2026-09-29 | Rolling | 🟢 Open | ❔ |
 | [AltaGas](generated/companies/altagas.md) | [Digital Intern - NextGen AI & Data](https://wgl.wd5.myworkdayjobs.com/altagas/job/Calgary-AB/AltaGas---2027-Digital--NextGen-AI---Data--Intern_R7312) | Calgary | Onsite | 2026-10-05 | Rolling | 🟢 Open | ❔ |
 | [Amcor](generated/companies/amcor.md) | [AI Innovation Engineer Intern](https://amcor.wd5.myworkdayjobs.com/amcor_external_career_site/job/ASC-Atlanta-HQ-GA/AI-Innovation-Engineer_REQ_93190) | Atlanta, GA | Onsite | 2026-07-13 | Rolling | 🟢 Open | ❔ |
-| [AMD](generated/companies/amd.md) | [AI Agentic Flow for GPU ASIC Design Co-op Intern](https://careers.amd.com/jobs/91341?icims=1) | Orlando, FL | Onsite | 2026-10-09 | Rolling | 🟢 Open | ❔ |
 | [AMD](generated/companies/amd.md) | [AI Model Optimization & Software Engineer Intern/Co-op](https://careers.amd.com/jobs/92526?icims=1) | Austin, TX | Onsite | 2026-09-16 | Rolling | 🟢 Open | ❔ |
 | [AMD](generated/companies/amd.md) | [AI Model Optimization & Software Engineer Intern/Co-op](https://careers.amd.com/jobs/92522?icims=1) | San Jose, CA +1 | Onsite | 2026-09-16 | Rolling | 🟢 Open | ❔ |
 | [AMD](generated/companies/amd.md) | [AI Research Infrastructure – Reinforcement Learning Post-Training Intern](https://careers.amd.com/jobs/90950?icims=1) | Santa Clara, CA | Onsite | 2026-09-21 | Rolling | 🟢 Open | ❔ |
@@ -48,6 +46,7 @@
 | [Bosch](generated/companies/bosch.md) | [AI Research Intern - Wireless Perception](https://jobs.smartrecruiters.com/BoschGroup/c4621e0f-5c1e-4a67-adc4-0671cbcaf28c) | Pittsburgh, PA | Onsite | 2025-12-16 | Rolling | 🟢 Open | ❌ |
 | [Bosch](generated/companies/bosch.md) | [LLM & Agentic AI R&D Intern](https://jobs.bosch.com/en/job/REF273459Q-llm-agentic-ai-r-d-intern) | Sunnyvale, CA | Onsite | 2025-12-10 | Rolling | 🟢 Open | ✅ |
 | [Bosch Home Comfort](generated/companies/bosch-home-comfort.md) | [AI Business Solutions Intern](https://jobs.smartrecruiters.com/BoschGroup/744000154992819) | Coventry | Onsite | 2026-10-12 | Rolling | 🟢 Open | ❔ |
+| [Boston Scientific](generated/companies/boston-scientific.md) | [Equipment Engineering AI Vision Engineer Intern](https://bostonscientific.eightfold.ai/careers/job/563602813584308) | Maple Grove, MN | Onsite | 2026-10-06 | Rolling | 🟢 Open | ❔ |
 | [Bot Auto](generated/companies/bot-auto.md) | [Software Engineer Intern - AI Agents](https://job-boards.greenhouse.io/botauto/jobs/5429357008) | Houston, TX | Onsite | 2026-09-19 | Rolling | 🟢 Open | ❔ |
 | [Brevan Howard](generated/companies/brevan-howard.md) | [Quantitative Analyst Intern - AI](https://wd3.myworkdaysite.com/recruiting/brevanhoward/BH_ExternalCareers/job/New-York/XMLNAME-2027-Summer-Internship-Program---AI---Quantitative-Analyst--New-York_JR101602) | NYC | Onsite | 2026-09-14 | Rolling | 🟢 Open | ❔ |
 | [ByteDance](generated/companies/bytedance.md) | [AI Network Automation Engineer Intern - Global Physical Network Infrastructure](https://jobs.bytedance.com/en/position/7670690923748870405/detail) | San Jose, CA | Onsite | 2026-08-06 | Rolling | 🟢 Open | ❔ |
@@ -81,6 +80,7 @@
 | [Clarios](generated/companies/clarios.md) | [IT Digital/AI Intern - Summer 2027](https://clarios.wd5.myworkdayjobs.com/clarioscareers/job/United-States-Wisconsin-Milwaukee/IT-Digital-AI-Intern--Summer-2027-_WD49910) | Milwaukee, WI | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
 | [Collier Aerospace](generated/companies/collier-aerospace.md) | [AI Feature Development Intern - NCSG](https://ats.rippling.com/collieraerospace/jobs/5a8bf9a3-c4f5-4c5a-ba9a-188979106827) | Raleigh, NC | Onsite | 2026-09-16 | Rolling | 🟢 Open | ❔ |
 | [Commercial Metals](generated/companies/commercial-metals.md) | [AI Intern](https://jobs.cmc.com/job/Irving-AI-Intern-SIOP-TX-75039/1417644400/?ats=successfactors) | Irving, TX | Onsite | 2026-08-10 | Rolling | 🟢 Open | ❔ |
+| [Corewell Health](generated/companies/corewell-health.md) | [Digital Services Generative AI Internship](https://spectrumhealth.wd5.myworkdayjobs.com/CorewellHealthCareers/job/Grand-Rapids-MI/Digital-Services-Generative-AI-Internship-Summer-2027_R229392) | Grand Rapids, MI +2 | Onsite | 2026-10-12 | Rolling | 🟢 Open | ❔ |
 | [Cotiviti](generated/companies/cotiviti.md) | [Generative AI Research Engineer Intern](https://careers-cotiviti.icims.com/jobs/20183/job?mobile=true&needsRedirect=false) | Remote | Remote | 2026-09-18 | Rolling | 🟢 Open | ❔ |
 | [Crowe](generated/companies/crowe.md) | [AI Engineering Intern](https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/AI-Engineering-Intern_R-51782) | Chicago, IL | Onsite | 2026-08-13 | Rolling | 🟢 Open | ❔ |
 | [Deloitte](generated/companies/deloitte.md) | [AI and Data Engineering Summer Scholar Intern - Government & Public Services](https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Government-Public-Services-Summer-Scholar-AI-and-Data-Engineering/362479) | Austin, TX | Onsite | 2026-08-11 | Rolling | 🟢 Open | ❔ |
@@ -90,6 +90,7 @@
 | [EdgeTrace](generated/companies/edgetrace.md) | [AI Full-Stack Engineering Intern](https://www.workatastartup.com/jobs/86239) | San Mateo, CA | Onsite | 2025-12-09 | Rolling | 🟢 Open | ❔ |
 | [Elanco](generated/companies/elanco.md) | [Pet Health Sales Excellence Intern - AI Innovation & Enablement](https://elanco.wd5.myworkdayjobs.com/en-US/External_Career/job/Indianapolis-IN/US-Pet-Health-Sales-Excellence-Intern---AI-Innovation---Enablement--Summer-2027-_R0027467) | Indianapolis, IN | Onsite | 2026-10-09 | Rolling | 🟢 Open | ❔ |
 | [Electronic Arts](generated/companies/electronic-arts.md) | [AI Enablement Intern](https://jobs.ea.com/en_US/careers/JobDetail/AI-Enablement-Intern-Summer-2027/216185) | Austin, TX | Onsite | 2026-09-30 | Rolling | 🟢 Open | ❔ |
+| [Electronic Arts](generated/companies/electronic-arts.md) | [Data and AI Engineer Intern](https://jobs.ea.com/en_US/careers/JobDetail/Data-AI-Engineering-Intern-Summer-2027/216238) | Austin, TX | Onsite | 2026-10-12 | Rolling | 🟢 Open | ❔ |
 | [Entergy](generated/companies/entergy.md) | [AI Developer Intern](https://jobs.entergy.com/job/New-Orleans-Student-Intern-AI-Developer-Spring-2027-Loui/1430299700/?ats=successfactors) | New Orleans, LA +2 | Onsite | 2026-09-15 | Rolling | 🟢 Open | ❔ |
 | [Entergy](generated/companies/entergy.md) | [Artificial Intelligence Intern](https://jobs.entergy.com/job/New-Orleans-Student-Intern-AI-Spring-2027-Loui/1426669200/?ats=successfactors) | New Orleans, LA | Onsite | 2026-09-03 | Rolling | 🟢 Open | ❔ |
 | [Equitable Bank](generated/companies/equitable-bank.md) | [Commercial Lending AI Engineer Intern - Winter 2027](https://jobs.lever.co/eqbank/54045eae-334a-4486-8e97-96e49e6a1487/apply) | Toronto | Onsite | 2026-09-14 | Rolling | 🟢 Open | ❔ |
@@ -150,9 +151,14 @@
 | [Navy Federal](generated/companies/navy-federal.md) | [AI Engineer Intern](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32261) | Vienna, VA | Onsite | 2026-09-09 | Rolling | 🟢 Open | ❔ |
 | [Navy Federal](generated/companies/navy-federal.md) | [Payments AI Engineer Intern](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32400) | Pensacola, FL +1 | Onsite | 2026-09-09 | Rolling | 🟢 Open | ❔ |
 | [Nelnet](generated/companies/nelnet.md) | [Agentic AI Intern](https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Lincoln-NE/Intern-Program---Agentic-AI_R22904) | Lincoln, NE | Onsite | 2026-07-27 | Rolling | 🟢 Open | ❔ |
+| [Nissan](generated/companies/nissan.md) | [AI & Data Analytics Intern](https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Franklin-Tennessee---United-States-of-America/AI---Data-Analytics-Intern---Summer-2027---Irving--TX-or-Franklin--TN_R00214223) | Franklin, TN +1 | Onsite | 2026-10-12 | Rolling | 🟢 Open | ❔ |
 | [Nissan Global](generated/companies/nissan-global.md) | [AI Agent Architect Intern](https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Farmington-Hills-Michigan---United-States-of-America/AI-Agent-Architect---Summer-2027---Farmington-Hills--MI_R00214218) | Farmington Hills, MI | Onsite | 2026-10-08 | Rolling | 🟢 Open | ❔ |
+| [Nissan Global](generated/companies/nissan-global.md) | [Financial AI Engineer Intern](https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Financial-AI-Engineering-Intern---Summer-2027---Franklin--TN_R00214241) | Franklin, TN | Onsite | 2026-10-12 | Rolling | 🟢 Open | ❔ |
 | [Notion](generated/companies/notion.md) | [Software Engineer, AI Intern](https://jobs.ashbyhq.com/notion/39d70209-37f6-4623-949b-18fbd8889933) | San Francisco, CA +1 | Onsite | 2025-08-08 | Rolling | 🟢 Open | ✅ |
 | [Nuro](generated/companies/nuro.md) | [Software Engineer, AI Platform - Intern](https://nuro.ai/careersitem?gh_jid=7351061) | Mountain View | Onsite | 2025-10-22 | Rolling | 🟢 Open | ❔ |
+| [NVIDIA](generated/companies/nvidia.md) | [PhD Research Intern - Generative AI for Physical AI](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Generative-AI-for-Physical-AI---2027_JR2025025) | Santa Clara, CA | Onsite | 2026-09-15 | Rolling | 🟢 Open | ❔ |
+| [NVIDIA](generated/companies/nvidia.md) | [PhD Research Intern - Quantum Simulation and AI](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Quantum-Simulation-and-AI---2027_JR2026004) | Santa Clara, CA | Onsite | 2026-09-23 | Rolling | 🟢 Open | ❔ |
+| [NVIDIA](generated/companies/nvidia.md) | [Quantum and Chemistry Research Intern - Quantum and AI for Chemistry](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Canada-Toronto/PhD-Research-Intern--Quantum-and-AI-for-Chemistry---2027_JR2024997) | Toronto | Onsite | 2026-09-16 | Rolling | 🟢 Open | ❔ |
 | [OCC](generated/companies/occ.md) | [AI Research & Engineering Intern](https://theocc.wd5.myworkdayjobs.com/careers/job/Chicago---125-S-Franklin/Year-Round-Intern---AI-Research---Engineering_REQ-4833) | Chicago, IL | Onsite | 2026-09-17 | Rolling | 🟢 Open | ❔ |
 | [ONE Finance](generated/companies/one-finance.md) | [AI Research Intern](https://jobs.ashbyhq.com/oneapp/84beb108-c04b-42d3-a9ae-9a91210201b7/application?embed=true) | USA | Onsite | 2026-09-22 | Rolling | 🟢 Open | ❔ |
 | [OpusClip](generated/companies/opusclip.md) | [AI Product Management Intern](https://jobs.ashbyhq.com/opusclip/501d374d-7d4f-4889-bc53-0a1fd16253ea/application?embed=true) | Mountain View, CA | Onsite | 2026-08-11 | Rolling | 🟢 Open | ❔ |
@@ -244,12 +250,14 @@
 | [Xcel Energy](generated/companies/xcel-energy.md) | [AI and Analytics Intern](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Minneapolis-MN-55401/AI-and-Analytics-Intern-MN--CO_JR115877-1) | Minneapolis, MN +1 | Onsite | 2026-09-14 | Rolling | 🟢 Open | ❔ |
 | [Yotta Labs](generated/companies/yotta-labs.md) | [Research Engineer Intern - AI Systems](https://jobs.ashbyhq.com/yotta/09821a51-fbe6-42a7-a566-0d2b5d40fae3/application?embed=true) | Remote | Remote | 2026-08-02 | Rolling | 🟢 Open | ❔ |
 | [Zimmer Biomet Holdings](generated/companies/zimmer-biomet-holdings.md) | [Product Management Intern - Artificial Intelligence Product Management](https://careers.zimmerbiomet.com/us/en/job/12745) | Remote | Remote | 2026-09-21 | Rolling | 🟢 Open | ❔ |
+| [7-Eleven](generated/companies/7-eleven.md) | [AI Engineer Intern](https://my7elevenhr.wd12.myworkdayjobs.com/Careers/job/SSC-Irving-TX/AI-Engineer-Intern_R26_5974-1) | Irving, TX | Onsite | 2026-10-08 | Rolling | 🔴 Closed | ❔ |
 | [ABB](generated/companies/abb.md) | [Physical AI Robotics Simulation Intern](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Milpitas-California-USA/Physical-AI-Robotics-Simulation-Intern--Fall-2026_JR00044848-1) | Milpitas, CA | Onsite | 2026-08-27 | Rolling | 🔴 Closed | ❔ |
 | [Acumatica](generated/companies/acumatica.md) | [AI & Automation Intern - Office of the CFO](https://jobs.smartrecruiters.com/Acumatica/744000146749696) | Bellevue, WA | Onsite | 2026-09-01 | Rolling | 🔴 Closed | ❔ |
 | [Adtheorant](generated/companies/adtheorant.md) | [Enterprise AI Intern](https://careers-cadent.icims.com/jobs/1406/job?mobile=true&needsRedirect=false) | NYC | Onsite | 2026-07-22 | Rolling | 🔴 Closed | ❔ |
 | [Alexion](generated/companies/alexion.md) | [Development Operations AI & Automation Enablement Co-op Intern](https://astrazeneca.wd3.myworkdayjobs.com/alexion/job/Canada---Mississauga/Co-Op--Development-Operations-AI---Automation-Enablement-Intern_R-260415) | Mississauga | Onsite | 2026-09-29 | Rolling | 🔴 Closed | ❔ |
 | [Allied Solutions](generated/companies/allied-solutions.md) | [AI Solutions Intern](https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/Carmel-IN/AI-Solutions-Intern_R-011074) | Carmel, IN | Onsite | 2026-09-02 | Rolling | 🔴 Closed | ❔ |
 | [Altera Corporation](generated/companies/altera-corporation.md) | [AI Software Development Engineer Intern](https://altera.wd1.myworkdayjobs.com/altera/job/San-Jose-California-United-States/AI-Software-Development-Engineer---Intern_R02707) | San Jose, CA | Onsite | 2026-07-17 | Rolling | 🔴 Closed | ❔ |
+| [AMD](generated/companies/amd.md) | [AI Agentic Flow for GPU ASIC Design Co-op Intern](https://careers.amd.com/jobs/91341?icims=1) | Orlando, FL | Onsite | 2026-10-09 | Rolling | 🔴 Closed | ❔ |
 | [AMD](generated/companies/amd.md) | [AI Engineering Intern](https://careers.amd.com/jobs/91005?icims=1) | Santa Clara, CA | Onsite | 2026-09-23 | Rolling | 🔴 Closed | ❔ |
 | [AMD](generated/companies/amd.md) | [AI Systems & GPU Performance Engineer Intern](https://careers.amd.com/jobs/92354?icims=1) | San Jose, CA +1 | Onsite | 2026-09-11 | Rolling | 🔴 Closed | ❔ |
 | [AMD](generated/companies/amd.md) | [AI Training Systems and Performance Engineer Intern/Co-op](https://careers.amd.com/jobs/93332?icims=1) | San Jose, CA +1 | Onsite | 2026-10-05 | Rolling | 🔴 Closed | ❔ |
@@ -276,7 +284,6 @@
 | [Bosch Home Comfort](generated/companies/bosch-home-comfort.md) | [AI Application Intern](https://jobs.smartrecruiters.com/BoschGroup/744000146547599) | Farmington Hills, MI | Onsite | 2026-08-31 | Rolling | 🔴 Closed | ❔ |
 | [Bosch Home Comfort](generated/companies/bosch-home-comfort.md) | [AI Security Research Intern](https://jobs.smartrecruiters.com/BoschGroup/744000145507908) | Pittsburgh, PA | Onsite | 2026-08-25 | Rolling | 🔴 Closed | ❔ |
 | [Bosch Home Comfort](generated/companies/bosch-home-comfort.md) | [Artificial Intelligence and Software Development Engineering Intern](https://jobs.smartrecruiters.com/BoschGroup/744000141302469) | Plymouth, MI | Onsite | 2026-08-03 | Rolling | 🔴 Closed | ❔ |
-| [Boston Scientific](generated/companies/boston-scientific.md) | [Equipment Engineering AI Vision Engineer Intern](https://bostonscientific.eightfold.ai/careers/job/563602813584308) | Maple Grove, MN | Onsite | 2026-10-06 | Rolling | 🔴 Closed | ❔ |
 | [Brio Water Technology](generated/companies/brio-water-technology.md) | [AI Automation & Business Analytics Intern - Rotational Program](https://ats.rippling.com/briowt/jobs/52da1fca-1cb1-49ff-8a94-b6f3850cd8eb) | Glendale, CA | Onsite | 2026-07-31 | Rolling | 🔴 Closed | ❔ |
 | [British Columbia Investment](generated/companies/british-columbia-investment.md) | [AI and Automation Engineer Co-op Intern - Winter 2027 - Summer 2027](https://bci.wd10.myworkdayjobs.com/BCI_Careers/job/Victoria-BC/AI-and-Automation-Engineer-Co-op-Internship--Winter---Summer-2027-_JR101597-1) | Victoria | Onsite | 2026-09-17 | Rolling | 🔴 Closed | ❔ |
 | [Brookfield](generated/companies/brookfield.md) | [AI Value Creation Office Intern](https://brookfield.wd5.myworkdayjobs.com/brookfieldprivate/job/Toronto-Ontario/Intern--AI-Value-Creation-Office_R2048790) | Toronto | Onsite | 2026-07-04 | Rolling | 🔴 Closed | ❔ |
@@ -396,9 +403,6 @@
 | [North Cloud](generated/companies/north-cloud.md) | [AI Automation Intern](https://ats.rippling.com/north-cloud/jobs/9d9d6db9-2da0-45e2-a3d3-6373c61763a4) | Brooklyn, NY | Onsite | 2026-07-21 | Rolling | 🔴 Closed | ❔ |
 | [NTT DATA AIVista](generated/companies/ntt-data-aivista.md) | [AI Scientist Intern](https://jobs.ashbyhq.com/ntt-data-aivista/75f9f312-1cf9-4141-b352-60cb2fac8fe9/application?embed=true) | Palo Alto, CA +1 | Onsite | 2026-08-03 | Rolling | 🔴 Closed | ❔ |
 | [NVIDIA](generated/companies/nvidia.md) | [Generative AI Ph.D. Research Intern](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Generative-AI_JR2023475) | Santa Clara, CA | Onsite | 2026-08-19 | Rolling | 🔴 Closed | ❔ |
-| [NVIDIA](generated/companies/nvidia.md) | [PhD Research Intern - Generative AI for Physical AI](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Generative-AI-for-Physical-AI---2027_JR2025025) | Santa Clara, CA | Onsite | 2026-09-15 | Rolling | 🔴 Closed | ❔ |
-| [NVIDIA](generated/companies/nvidia.md) | [PhD Research Intern - Quantum Simulation and AI](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Quantum-Simulation-and-AI---2027_JR2026004) | Santa Clara, CA | Onsite | 2026-09-23 | Rolling | 🔴 Closed | ❔ |
-| [NVIDIA](generated/companies/nvidia.md) | [Quantum and Chemistry Research Intern - Quantum and AI for Chemistry](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Canada-Toronto/PhD-Research-Intern--Quantum-and-AI-for-Chemistry---2027_JR2024997) | Toronto | Onsite | 2026-09-16 | Rolling | 🔴 Closed | ❔ |
 | [NXP Semiconductors](generated/companies/nxp-semiconductors.md) | [AI / Software Engineering Intern](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/AI---Software-Engineering-Intern---Fall-2026_R-10064807) | Austin, TX | Onsite | 2026-07-20 | Rolling | 🔴 Closed | ❔ |
 | [onsemi](generated/companies/onsemi.md) | [AI & Data Analytics Intern](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2505878) | Scottsdale, AZ | Onsite | 2026-07-15 | Rolling | 🔴 Closed | ❔ |
 | [onsemi](generated/companies/onsemi.md) | [Tax AI and Automation Intern](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506307) | Scottsdale, AZ | Onsite | 2026-08-14 | Rolling | 🔴 Closed | ❔ |
@@ -505,13 +509,13 @@
 - PricewaterhouseCoopers (PwC) (5)
 - Bosch Home Comfort (4)
 - Meta (4)
+- NVIDIA (4)
 - Rockwell Automation (4)
 - Wex (4)
 - Booz Allen (4)
 - Cloudflare (4)
 - Grant Thornton (4)
 - Intel (4)
-- NVIDIA (4)
 - ABB (3)
 - Cigna Group (3)
 - Crowe (3)
@@ -535,6 +539,7 @@
 - CACI (2)
 - Capital One (2)
 - Cotiviti (2)
+- Electronic Arts (2)
 - Equitable Bank (2)
 - Figma (2)
 - General Dynamics Information Technology (2)
@@ -544,6 +549,7 @@
 - Marvell (2)
 - Millennium (2)
 - Navy Federal (2)
+- Nissan Global (2)
 - OpusClip (2)
 - Procter & Gamble (2)
 - Qualcomm (2)
@@ -575,7 +581,6 @@
 - Toshiba Global Commerce (2)
 - Verizon Communications (2)
 - 1X (1)
-- 7-Eleven (1)
 - AltaGas (1)
 - Amcor (1)
 - Aptura (1)
@@ -583,6 +588,7 @@
 - Baird (1)
 - Bild AI (1)
 - Boeing (1)
+- Boston Scientific (1)
 - Bot Auto (1)
 - Brevan Howard (1)
 - C3.ai (1)
@@ -593,12 +599,12 @@
 - Clarios (1)
 - Collier Aerospace (1)
 - Commercial Metals (1)
+- Corewell Health (1)
 - Delta Air Lines (1)
 - DV Trading (1)
 - Ecolab (1)
 - EdgeTrace (1)
 - Elanco (1)
-- Electronic Arts (1)
 - Eragon (1)
 - Ercot (1)
 - Ernst & Young (1)
@@ -620,7 +626,7 @@
 - Montenson (1)
 - Mosaic (1)
 - Nelnet (1)
-- Nissan Global (1)
+- Nissan (1)
 - Notion (1)
 - Nuro (1)
 - OCC (1)
@@ -643,6 +649,7 @@
 - V2X (1)
 - Yotta Labs (1)
 - Zimmer Biomet Holdings (1)
+- 7-Eleven (1)
 - Acumatica (1)
 - Adtheorant (1)
 - Alexion (1)
@@ -654,7 +661,6 @@
 - Amwins (1)
 - Barnes & Thornburg (1)
 - Blockhouse (1)
-- Boston Scientific (1)
 - Brio Water Technology (1)
 - British Columbia Investment (1)
 - Brookfield (1)

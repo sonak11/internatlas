@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🛠 Data Engineering Internships
 
-**110** tracked · **66** open now
+**111** tracked · **67** open now
 
 ## Current openings
 
@@ -50,6 +50,7 @@
 | [Marmon Holdings](generated/companies/marmon-holdings.md) | [Data Engineering Intern/Co-op](https://marmon.wd501.myworkdayjobs.com/Marmon_MSIP_Internships/job/Milwaukee-WI/Data-Engineering-Intern-OR-Student-Co-Op_JR0000037453) | Milwaukee, WI | Onsite | 2026-03-04 | Rolling | 🟢 Open | ❔ |
 | [Mastercard](generated/companies/mastercard.md) | [Data Engineer Intern](https://mastercard.wd1.myworkdayjobs.com/Campus/job/San-Francisco-California/Data-Engineering-Intern--Summer-2027---San-Franscisco--CA--US_R-285993) | SF | Onsite | 2026-10-07 | Rolling | 🟢 Open | ❔ |
 | [Medpace](generated/companies/medpace.md) | [Data Engineer Intern - Spring 2027](https://careers.medpace.com/jobs/12921?icims=1) | Cincinnati, OH | Onsite | 2026-08-10 | Rolling | 🟢 Open | ❔ |
+| [MEMX](generated/companies/memx.md) | [Data Engineer Intern](https://job-boards.greenhouse.io/memx/jobs/5450442008) | NYC | Onsite | 2026-10-12 | Rolling | 🟢 Open | ❔ |
 | [Michelin](generated/companies/michelin.md) | [Data Engineering Intern](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/ARDMORE-OK/Summer-2027-Internship--Data-Engineering---Ardmore--OK-_R-2026030979) | Ardmore, OK | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
 | [Navy Federal](generated/companies/navy-federal.md) | [Associate Data Engineer Intern](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32292) | Vienna, VA | Onsite | 2026-09-09 | Rolling | 🟢 Open | ❔ |
 | [Navy Federal](generated/companies/navy-federal.md) | [Data Engineer Intern](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32265) | Vienna, VA | Onsite | 2026-09-09 | Rolling | 🟢 Open | ❔ |
@@ -163,6 +164,7 @@
 - Lyft (1)
 - Mastercard (1)
 - Medpace (1)
+- MEMX (1)
 - Michelin (1)
 - Pacific Life (1)
 - Panasonic Holdings (1)

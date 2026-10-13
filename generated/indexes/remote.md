@@ -4,6 +4,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
+| [1Password](generated/companies/1password.md) | [Data Intern - Product Analytics](https://jobs.ashbyhq.com/1password/412c1aac-13ce-4cc9-9c81-90a9a7a2ee48/application?embed=true) | Remote | Remote | 2026-10-12 | Rolling | 🟢 Open | ❔ |
 | [Amgen](generated/companies/amgen.md) | [Data Scientist Intern](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Undergrad-Intern---Data-Scientist---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255704) | Remote | Remote | 2026-09-11 | Rolling | 🟢 Open | ❔ |
 | [Amgen](generated/companies/amgen.md) | [Data Scientist Intern - Amgen’s Technology & Medical Organizations](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Data-Scientist---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255722) | Remote | Remote | 2026-09-11 | Rolling | 🟢 Open | ❔ |
 | [Amgen](generated/companies/amgen.md) | [Digital Product Intern](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Undergrad-Intern---Digital-Product---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255711) | Remote | Remote | 2026-09-11 | Rolling | 🟢 Open | ❔ |

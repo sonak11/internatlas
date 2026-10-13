@@ -17,6 +17,7 @@
 | Databricks | [Product Management Intern (Summer 2027)](https://databricks.com/company/careers/open-positions/job?gh_jid=6883068002) | Bellevue | Onsite | 2023-08-17 | Rolling | 🟢 Open | ❔ |
 | Databricks | [Software Engineer Intern](https://boards.greenhouse.io/embed/job_app?token=8847738002) | London | Onsite | 2026-10-02 | Rolling | 🟢 Open | ❔ |
 | Databricks | [Software Engineer Intern](https://boards.greenhouse.io/embed/job_app?token=8732364002) | SF +2 | Onsite | 2026-08-21 | Rolling | 🟢 Open | ❔ |
+| Databricks | [Software Engineer Intern](https://boards.greenhouse.io/embed/job_app?token=6865687002) | SF +3 | Onsite | 2026-10-12 | Rolling | 🟢 Open | ❔ |
 | Databricks | [Software Engineering Intern](https://www.databricks.com/company/careers/university-recruiting/software-engineering-intern-2027-start---winter-8732364002?gh_jid=8732364002) | Bellevue +2 | Onsite | 2026-08-21 | Rolling | 🟢 Open | ❔ |
 | Databricks | [Software Engineering Intern (2027 Start) - Aarhus](https://databricks.com/company/careers/open-positions/job?gh_jid=8133710002) | Aarhus | Onsite | 2025-08-29 | Rolling | 🟢 Open | ❔ |
 | Databricks | [Software Engineering Intern (2027 Start) - Amsterdam](https://databricks.com/company/careers/open-positions/job?gh_jid=6866534002) | Amsterdam | Onsite | 2023-09-01 | Rolling | 🟢 Open | ❔ |

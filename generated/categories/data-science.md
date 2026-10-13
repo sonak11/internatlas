@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 📊 Data Science Internships
 
-**237** tracked · **141** open now
+**240** tracked · **144** open now
 
 ## Current openings
 
@@ -17,6 +17,7 @@
 | [Amgen](generated/companies/amgen.md) | [Data Scientist Intern - Amgen’s Technology & Medical Organizations](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Data-Scientist---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255722) | Remote | Remote | 2026-09-11 | Rolling | 🟢 Open | ❔ |
 | [APEX Analytix](generated/companies/apex-analytix.md) | [Data Science Intern](https://ats.rippling.com/apexanalytix-careers/jobs/0cfde729-9d23-4186-91a7-464a4b87af53) | Greensboro, NC | Onsite | 2026-09-15 | Rolling | 🟢 Open | ❔ |
 | [Ardian](generated/companies/ardian.md) | [Data Scientist Intern](https://ardian.wd103.myworkdayjobs.com/ArdianCareers/job/New-York/Data-Scientist-Intern_JR1001434) | NYC | Onsite | 2026-05-16 | Rolling | 🟢 Open | ❔ |
+| [Ascension](generated/companies/ascension.md) | [Data Science Intern](https://jobs.ascension.org/us/en/job/2026-465186) | St. Louis, MO | Onsite | 2026-10-12 | Rolling | 🟢 Open | ❔ |
 | [AspenTech](generated/companies/aspentech.md) | [Data Science Intern](https://aspentech.wd5.myworkdayjobs.com/aspentech/job/Bedford-Massachusetts/Data-Science-Intern---Summer-2027---Bedford--MA_R9459) | Bedford, MA | Onsite | 2026-09-15 | Rolling | 🟢 Open | ❔ |
 | [Atlassian](generated/companies/atlassian.md) | [Data Scientist Intern](https://campus-americas.icims.com/jobs/26271/data-scientist-intern%2c-2027-summer-u.s./job) | Seattle, WA | Onsite | 2026-09-25 | Rolling | 🟢 Open | ❔ |
 | [AutoZone](generated/companies/autozone.md) | [Data Science Intern](https://egud.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155461) | Memphis, TN | Onsite | 2026-09-21 | Rolling | 🟢 Open | ❔ |
@@ -99,6 +100,8 @@
 | [Navy Federal](generated/companies/navy-federal.md) | [Data Scientist Intern](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32079) | Vienna, VA | Onsite | 2026-09-09 | Rolling | 🟢 Open | ❔ |
 | [Neighbor](generated/companies/neighbor.md) | [Data Scientist Intern - Current PhD](https://jobs.lever.co/neighbor/b5f73774-1d5a-4edc-a184-d1734731cd9c/apply) | Lehi, UT | Onsite | 2026-09-29 | Rolling | 🟢 Open | ❔ |
 | [New York Mets](generated/companies/new-york-mets.md) | [Data Science Intern](https://sterlingmets.wd5.myworkdayjobs.com/Mets/job/Citi-Field--Queens-New-York/Intern--Data-Science_R1508) | Queens, NY | Onsite | 2026-10-02 | Rolling | 🟢 Open | ❔ |
+| [Nissan Global](generated/companies/nissan-global.md) | [Data Science Intern](https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Smyrna-Tennessee---United-States-of-America/Data-Science-Intern---Summer-2027---Smyrna--TN_R00215331) | Smyrna, TN | Onsite | 2026-10-12 | Rolling | 🟢 Open | ❔ |
+| [Nissan Global](generated/companies/nissan-global.md) | [Data Science Intern](https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Data-Science-Intern---Summer-2027---Franklin--TN_R00214250) | Franklin, TN | Onsite | 2026-10-12 | Rolling | 🟢 Open | ❔ |
 | [NJM Insurance Group](generated/companies/njm-insurance-group.md) | [Data Science Intern](https://njm.wd1.myworkdayjobs.com/njm/job/NJM---Trenton/IT-Data-Science-Intern_R2008284) | Trenton, NJ | Onsite | 2026-09-15 | Rolling | 🟢 Open | ❔ |
 | [Nokia](generated/companies/nokia.md) | [Data Scientist Co-op/Intern](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39965) | Ottawa | Onsite | 2026-09-11 | Rolling | 🟢 Open | ❔ |
 | [Papa John's](generated/companies/papa-john-s.md) | [Data Science Intern](https://papajohns.wd1.myworkdayjobs.com/papajohnscareers/job/HQ_Atlanta/XMLNAME-2027-Summer-Intern---Data-Science_R26_0000002157) | Atlanta, GA | Onsite | 2026-10-09 | Rolling | 🟢 Open | ❔ |
@@ -277,6 +280,7 @@
 - Hudson River Trading (2)
 - Itron (2)
 - Meta (2)
+- Nissan Global (2)
 - Nokia (2)
 - Pinterest (2)
 - Procter & Gamble (2)
@@ -302,6 +306,7 @@
 - AARP (1)
 - APEX Analytix (1)
 - Ardian (1)
+- Ascension (1)
 - AspenTech (1)
 - AutoZone (1)
 - BlueCross BlueShield of Nebraska (1)
