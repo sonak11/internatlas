@@ -18,7 +18,7 @@ _Generated 2026-10-14_
 | Booz Allen | 67 |
 | Waymo | 65 |
 | Royal Bank of Canada | 59 |
-| NVIDIA | 56 |
+| NVIDIA | 57 |
 | Qorvo | 52 |
 | Jump Trading | 48 |
 | L3Harris Technologies | 43 |
@@ -26,19 +26,19 @@ _Generated 2026-10-14_
 | Coinbase | 37 |
 | Robinhood | 37 |
 | The Walt Disney Company | 37 |
+| GE Vernova | 36 |
 | Zipline | 36 |
-| Navy Federal | 35 |
 
 ## Listings by category
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 3642 | `███████████████` |
-| ai | 491 | `██` |
+| software-engineering | 3647 | `███████████████` |
+| ai | 495 | `██` |
 | quant | 333 | `█` |
 | machine-learning | 287 | `█` |
-| data-science | 238 | `█` |
-| hardware | 230 | `█` |
+| data-science | 239 | `█` |
+| hardware | 231 | `█` |
 | product | 202 | `█` |
 | research | 196 | `█` |
 | design | 166 | `█` |
@@ -61,14 +61,14 @@ _Generated 2026-10-14_
 - 2026-10-14 — **Electronic Arts**: [Software Engineer Intern](https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern/216287)
 - 2026-10-14 — **Field AI**: [Research Scientist Intern - Robot Learning & Manipulation](https://jobs.lever.co/field-ai/b37569c3-d07f-4968-82dc-44020f34e54e/apply)
 - 2026-10-14 — **Field AI**: [Robotics Research Intern - Embodied AI](https://jobs.lever.co/field-ai/ef35c537-b864-479f-9dbe-b30429ac7704/apply)
+- 2026-10-14 — **GE Vernova**: [AI Evaluation & Benchmarking Intern](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Bellevue/GE-Vernova---AGI---AI-Evaluation---Benchmarking-Intern---Summer-2027_R5054821-2)
+- 2026-10-14 — **GE Vernova**: [AI Evaluation & Benchmarking Intern - AGI](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Bellevue/GE-Vernova---AGI---AI-Evaluation---Benchmarking-Intern---Summer-2027_R5054821-1)
+- 2026-10-14 — **GE Vernova**: [AI Post-Training and Model Alignment Intern](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Bellevue/GE-Vernova---AGI---AI-Post-Training-and-Model-Alignment-Intern---Summer-2027_R5054822-2)
+- 2026-10-14 — **GE Vernova**: [AI Post-Training and Model Alignment Intern](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Bellevue/GE-Vernova---AGI---AI-Post-Training-and-Model-Alignment-Intern---Summer-2027_R5054822-1)
+- 2026-10-14 — **GE Vernova**: [Grid Foundational Models Intern - AGI](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Bellevue/GE-Vernova---AGI---Grid-Foundational-Models-Intern---Summer-2027_R5054820-3)
+- 2026-10-14 — **GE Vernova**: [Power System Intern](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Bellevue/GE-Vernova---AGI---Grid-Foundational-Models-Intern---Summer-2027_R5054820-2)
 - 2026-10-14 — **Northrop Grumman**: [Electronics Engineering Intern](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Annapolis/XMLNAME-2027-H-W-Electronics-Engineering-Intern---Annapolis-MD_R10254689-1)
 - 2026-10-14 — **Northrop Grumman**: [Software Embedded Engineer Intern](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Annapolis/XMLNAME-2027-S-W-Embedded-Engineering-Intern---Annapolis-MD_R10254697)
-- 2026-10-14 — **Phillips 66**: [University Intern - ERI Analytical Solutions](https://careers.phillips66.com/job/Bartlesville-West-2027-University-Intern-ERI-Analytical-Solutions-OK-74004/1439555700/?ats=successfactors)
-- 2026-10-14 — **TikTok**: [Machine Learning Engineer Intern - E-Commerce User Growth](https://lifeattiktok.com/search/7694357619162532149)
-- 2026-10-13 — **7-Eleven**: [AI Analyst / AI Automation Specialist Intern](https://my7elevenhr.wd12.myworkdayjobs.com/Careers/job/SSC-Irving-TX/ServiceNow-Intern_R26_6017)
-- 2026-10-13 — **Acadian Asset Management**: [Quantitative Investment Intern](https://www.acadian-asset.com/careers/open-positions?gh_jid=4720681006)
-- 2026-10-13 — **Amazon**: [Hardware Development Engineer Intern Co-op - Robotics](https://amazon.jobs/en/jobs/10535282/hardware-development-engineer-intern-co-op-robotics-2027)
-- 2026-10-13 — **Anduril**: [2027 Firmware Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5265158007?gh_jid=5265158007)
 
 ## Recently closed
 
@@ -185,12 +185,12 @@ _Generated 2026-10-14_
 - Booz Allen — Software Developer Intern
 - Bosch Home Comfort — AI Application Intern
 - Bosch Home Comfort — Software Engineering Intern
-- Bose — Audio Machine Learning Intern Co-op
 - Boston Scientific — Data Engineer Intern
 - Boston Scientific — Equipment Engineering Software Engineer Intern
 - Boston Scientific — Software Development Engineer Intern
 - Boston Scientific — Software Engineer Intern - Interns/Graduates
 - BP — Digital, Data, AI & Engineering Intern
+- BP — Subsurface Technology Geologist Intern - Subsurface Technology - Geology
 - British Columbia Investment — AI and Automation Engineer Co-op Intern - Winter 2027 - Summer 2027
 - British Columbia Investment — Investment Risk Analytics Solutions Co-op Intern - Winter 2027
 - British Columbia Investment — Software Engineer Co-op Intern - Investment Tech/Data & Analytics
@@ -319,38 +319,38 @@ _Generated 2026-10-14_
 - GE Vernova — Hardware Automation and Test Engineering Intern - Spring/Summer 2027
 - GE Vernova — Hardware Engineer Intern - Critical Infrastructure Communications
 - GE Vernova — Hardware Engineer Intern - Critical Infrastructure Communications
-- GE Vernova — Product Management Intern - Controls Lifecare Services
+- General Motors — ADAS Software Engineer Intern - Adpt
+- General Motors — AI/Machine Learning Intern - Research and Development
+- General Motors — AI/ML Engineer Intern - Autonomous Vehicle: Simulation
+- General Motors — AI/ML Engineer Intern - Autonomous Vehicles: Simulation
+- General Motors — AI/ML Engineer Intern - Mapping
+- General Motors — AI Research Intern - Embodied AI
+- General Motors — Autonomous Driving Software Engineer Intern
+- General Motors — AV Sensor Design, Release and Integration Intern
+- General Motors — Data Scaling Intern - Data Scaling - Embodied AI
 - General Motors — Economics Intern
+- General Motors — Embedded and Systems Engineering Intern - Digital Product
+- General Motors — Machine Learning Engineer Intern - AV/AI Platform
+- General Motors — Machine Learning Intern - Autonomous Vehicles - Software Validation
+- General Motors — Product Management Intern - Digital Product
+- General Motors — Race Strategy & Analytics Intern - IndyCar
+- General Motors — Research and Development Intern - Smart Manufacturing Systems
+- General Motors — Seam Intern - Embodied AI
+- General Motors — Simulation Intern - Software Engineer - Autonomous Vehicle: Simulation
+- General Motors — Software Engineer Intern - AV/AI Platform
+- General Motors — Software Engineer Intern - Digital Product: Software Engineering
+- General Motors — Summer Intern - AI & Hardware Analytics - Adpt
 - General Motors — Summer Intern - Global Manufacturing Robotics & Automation
+- General Motors — Summer Intern - Onboard Autonomy - Embodied AI
+- General Motors — Summer Intern - Research and Development - Machine Learning for Automation
 - General Motors — Systems/Calibration Engineer Intern - ADAS Drive
+- General Motors — Systems Engineer Intern - Asd
 - GenMD — AI Research Scientist Intern
 - Genworth Financial — Data Analytics Intern - Summer 2027
 - Geotab — Product Management Intern
 - Geotab — Vehicle Systems Engineering Intern - Winter/January 2027 - 4, 8 Months
 - GlobalFoundries — Design Application Engineering Intern
-- Goldman Sachs — Associate Intern - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Associate Intern - Asset and Wealth Management
-- Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Americas
-- Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Investment Banking
-- Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
-- Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
-- Goldman Sachs — Quantitative Strats Analyst Intern - Americas - Investment Banking
-- Goldman Sachs — Summer Analyst Intern
 - Goldman Sachs — Summer Analyst Intern - Americas - Engineering
-- Goldman Sachs — Summer Analyst Intern - Americas - Investment Banking Quantitative Strats
-- Goldman Sachs — Summer Analyst Intern - Engineering
-- Goldman Sachs — Summer Analyst Intern - Engineering
-- Goldman Sachs — Summer Analyst Intern - FICC and Equities - Sales and Trading
-- Goldman Sachs — Summer Analyst Intern - The Core Quantitative Strats
-- Goldman Sachs — Summer Associate Intern
-- Goldman Sachs — Summer Associate Intern - Multiple Teams
 - Goodlord — Engineering Intern
 - Google — Data Scientist Intern - Product
 - Google — Hardware Engineer Intern
@@ -466,14 +466,18 @@ _Generated 2026-10-14_
 - Manulife Financial — Software Engineering Intern
 - Manulife Financial — Software Engineering Intern
 - Marathon Petroleum — Geographic Information Systems Intern/Co-op
+- Marquee Brands — Consumer Insights Intern
 - Marsh — Summer Analyst Intern - Data and Analytics
 - Marvell — Advanced Packaging Intern
 - Marvell — Advanced Packaging Intern
 - Marvell — Advanced Packaging Intern
 - Marvell — Advanced Packaging Intern
+- Marvell — Analog Design Intern
+- Marvell — Analog Design Intern - MS
 - Marvell — Architecture Intern - MS
 - Marvell — Board Product Engineer Intern - BS
 - Marvell — Board Product Engineer Intern - BS
+- Marvell — Data Center Silicon Hardware Engineering Intern - Winter 2027
 - Marvell — Product Engineer Intern
 - Marvell — Product Engineer Intern
 - Marvell — Test Solutions Engineering Intern - BS - Post-Silicon Hardware Validation
@@ -514,7 +518,6 @@ _Generated 2026-10-14_
 - Micron Technology — AI Systems and Infrastructure Engineering Intern
 - Micron Technology — Dry Etch Equipment Development Engineering Intern
 - Micron Technology — Marketing Analytics Intern - Global Communications & Marketing
-- Micron Technology — Product Test Engineer Intern - DRAM
 - Micron Technology — Technical Customer Management Intern - AI
 - Microsoft — AI Software Engineer Intern
 - Microsoft — Firmware Engineer Intern
@@ -656,10 +659,9 @@ _Generated 2026-10-14_
 - Repsol — Energy Assessment Intern
 - Repsol — GIS Intern
 - Repsol — Subsurface Engineering Intern
+- REV Robotics — Software Engineer Intern
 - RF-SMART — Software Developer Intern - Product Engineering
-- RF-SMART — Software Support Engineer Intern
 - Rho — Quantitative Analyst Intern
-- Rhombus — Software Engineer Intern
 - Rivet Industries — Software Engineer Intern
 - Rivian and Volkswagen Group Technologies — Software Engineering Intern - Applications - Infotainment & Mobile
 - Rivian and Volkswagen Group Technologies — Software Engineering Intern - Vehicle Controls
@@ -672,6 +674,7 @@ _Generated 2026-10-14_
 - Robinhood — Data Science Intern
 - Robinhood — Data Science Intern (Summer 2027)
 - Robinhood — Finance and Strategy Intern (Summer 2027)
+- Robinhood — Fraud Operations Intern (Summer 2027)
 - Robinhood — Futures & Prediction Market Operations Intern (Summer 2027)
 - Robinhood — Growth Marketing Intern (Summer 2027)
 - Robinhood — Offensive Security Intern (Summer 2027)
