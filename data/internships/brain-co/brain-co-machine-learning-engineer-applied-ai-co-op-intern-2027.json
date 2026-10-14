@@ -1,0 +1,51 @@
+{
+  "schema_version": "1.0",
+  "id": "brain-co-machine-learning-engineer-applied-ai-co-op-intern-2027",
+  "company": {
+    "name": "Brain Co.",
+    "slug": "brain-co"
+  },
+  "role": "Machine Learning Engineer – Applied AI Co-op Intern",
+  "category": "machine-learning",
+  "apply_url": "https://jobs.ashbyhq.com/brainco/b6adda4c-490c-4e9e-8354-e55c05d3c6ac/application?embed=true",
+  "season": "winter",
+  "year": 2027,
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "SF",
+      "country": "USA"
+    }
+  ],
+  "compensation": {
+    "currency": "USD",
+    "housing_stipend": false,
+    "relocation_assistance": false
+  },
+  "eligibility": {
+    "graduation_years": [],
+    "degree_levels": [],
+    "citizenship_required": false,
+    "security_clearance_required": false,
+    "visa_sponsorship": "unknown"
+  },
+  "interview": {},
+  "tech": {
+    "required_skills": [],
+    "preferred_skills": [],
+    "languages": [],
+    "frameworks": [],
+    "cloud_platforms": [],
+    "resume_keywords": []
+  },
+  "dates": {
+    "posted": "2026-10-14",
+    "discovered": "2026-10-14",
+    "last_verified": "2026-10-14"
+  },
+  "status": "open",
+  "tags": [
+    "auto-ingested",
+    "src:simplify"
+  ]
+}
