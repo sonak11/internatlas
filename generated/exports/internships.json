@@ -1,6 +1,6 @@
 {
   "generated": "2026-10-14",
-  "count": 6127,
+  "count": 6133,
   "internships": [
     {
       "schema_version": "1.0",
@@ -20441,7 +20441,7 @@
         "discovered": "2026-09-30",
         "last_verified": "2026-10-14"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:ats"
@@ -22321,6 +22321,73 @@
       "tags": [
         "auto-ingested",
         "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "aon-actuarial-consulting-industrial-placement-intern-actuarial-c-2027",
+      "company": {
+        "name": "Aon",
+        "slug": "aon"
+      },
+      "role": "Actuarial Consulting Industrial Placement Intern - Actuarial Consulting - Pensions",
+      "category": "software-engineering",
+      "apply_url": "https://jobs.aon.com/jobs/108017?icims=1",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Leeds",
+          "country": "UK"
+        },
+        {
+          "city": "Epsom",
+          "country": "UK"
+        },
+        {
+          "city": "Birmingham",
+          "country": "UK"
+        },
+        {
+          "city": "Glasgow",
+          "country": "UK"
+        },
+        {
+          "city": "Farnborough",
+          "country": "UK"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-12",
+        "discovered": "2026-10-14",
+        "last_verified": "2026-10-14"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
       ]
     },
     {
@@ -25859,6 +25926,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "ascension-integrated-participant-solutions-analytics-intern-2027",
+      "company": {
+        "name": "Ascension",
+        "slug": "ascension"
+      },
+      "role": "Integrated Participant Solutions Analytics Intern",
+      "category": "software-engineering",
+      "apply_url": "https://jobs.ascension.org/us/en/job/2026-465198",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "St. Louis",
+          "state": "MO",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-12",
+        "discovered": "2026-10-14",
+        "last_verified": "2026-10-14"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "ascension-master-data-management-intern-2027",
       "company": {
         "name": "Ascension",
@@ -26339,6 +26458,58 @@
         "last_verified": "2026-10-06"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "assurant-data-support-analyst-intern-2027",
+      "company": {
+        "name": "Assurant",
+        "slug": "assurant"
+      },
+      "role": "Data Support Analyst Intern",
+      "category": "software-engineering",
+      "apply_url": "https://assurant.wd1.myworkdayjobs.com/en-US/Assurant_Careers/job/Illinois-Virtual/Summer-2027-Intern--Data-Support-Analyst_R-115717",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Chicago",
+          "state": "IL",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-14",
+        "discovered": "2026-10-14",
+        "last_verified": "2026-10-14"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -32155,7 +32326,7 @@
         "discovered": "2026-10-02",
         "last_verified": "2026-10-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -32208,7 +32379,7 @@
         "discovered": "2026-10-02",
         "last_verified": "2026-10-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -45645,7 +45816,7 @@
         "discovered": "2026-10-08",
         "last_verified": "2026-10-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -46618,7 +46789,7 @@
         "discovered": "2026-10-14",
         "last_verified": "2026-10-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -89862,6 +90033,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "electronic-arts-software-engineer-intern-2027-7f2722",
+      "company": {
+        "name": "Electronic Arts",
+        "slug": "electronic-arts"
+      },
+      "role": "Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern/216241",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Orlando",
+          "state": "FL",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-28",
+        "discovered": "2026-10-14",
+        "last_verified": "2026-10-14"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "electronic-arts-software-engineer-intern-2027-b6bdb3",
       "company": {
         "name": "Electronic Arts",
@@ -92179,7 +92402,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -92241,7 +92464,7 @@
         "discovered": "2026-09-22",
         "last_verified": "2026-10-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -110059,7 +110282,7 @@
         "discovered": "2026-08-30",
         "last_verified": "2026-10-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -130174,7 +130397,7 @@
         "discovered": "2026-09-15",
         "last_verified": "2026-10-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -142463,7 +142686,7 @@
         "discovered": "2026-09-30",
         "last_verified": "2026-10-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -142515,7 +142738,7 @@
         "discovered": "2026-09-29",
         "last_verified": "2026-10-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -142567,7 +142790,7 @@
         "discovered": "2026-09-17",
         "last_verified": "2026-10-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -144692,7 +144915,7 @@
         "discovered": "2026-09-26",
         "last_verified": "2026-10-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -148388,7 +148611,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-10-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -165997,7 +166220,7 @@
         "discovered": "2026-09-29",
         "last_verified": "2026-10-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -166049,7 +166272,7 @@
         "discovered": "2026-09-29",
         "last_verified": "2026-10-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -168161,7 +168384,7 @@
         "discovered": "2026-10-04",
         "last_verified": "2026-10-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -168213,7 +168436,7 @@
         "discovered": "2026-09-30",
         "last_verified": "2026-10-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -176736,7 +176959,7 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-10-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -181003,7 +181226,7 @@
         "discovered": "2026-10-04",
         "last_verified": "2026-10-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -194513,6 +194736,60 @@
     },
     {
       "schema_version": "1.0",
+      "id": "northrop-grumman-electronics-engineering-intern-2027",
+      "company": {
+        "name": "Northrop Grumman",
+        "slug": "northrop-grumman"
+      },
+      "role": "Electronics Engineering Intern",
+      "category": "software-engineering",
+      "apply_url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Annapolis/XMLNAME-2027-H-W-Electronics-Engineering-Intern---Annapolis-MD_R10254689-1",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Annapolis",
+          "state": "MD",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-14",
+        "discovered": "2026-10-14",
+        "last_verified": "2026-10-14"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "northrop-grumman-embedded-software-engineer-intern-2027-c90d3d",
       "company": {
         "name": "Northrop Grumman",
@@ -194772,6 +195049,60 @@
         "last_verified": "2026-10-05"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "northrop-grumman-software-embedded-engineer-intern-2027",
+      "company": {
+        "name": "Northrop Grumman",
+        "slug": "northrop-grumman"
+      },
+      "role": "Software Embedded Engineer Intern",
+      "category": "embedded",
+      "apply_url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Annapolis/XMLNAME-2027-S-W-Embedded-Engineering-Intern---Annapolis-MD_R10254697",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Annapolis",
+          "state": "MD",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-14",
+        "discovered": "2026-10-14",
+        "last_verified": "2026-10-14"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -223597,7 +223928,7 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-10-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -228852,7 +229183,7 @@
         "discovered": "2026-10-13",
         "last_verified": "2026-10-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -232462,7 +232793,7 @@
         "discovered": "2026-09-14",
         "last_verified": "2026-10-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:ats"
@@ -232515,7 +232846,7 @@
         "discovered": "2026-09-14",
         "last_verified": "2026-10-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:ats"
@@ -232568,7 +232899,7 @@
         "discovered": "2026-09-14",
         "last_verified": "2026-10-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:ats"
@@ -232621,7 +232952,7 @@
         "discovered": "2026-09-29",
         "last_verified": "2026-10-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:ats"
@@ -232674,7 +233005,7 @@
         "discovered": "2026-09-14",
         "last_verified": "2026-10-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:ats"
@@ -232727,7 +233058,7 @@
         "discovered": "2026-09-14",
         "last_verified": "2026-10-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:ats"
@@ -232885,7 +233216,7 @@
         "discovered": "2026-09-15",
         "last_verified": "2026-10-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:ats"
@@ -232991,7 +233322,7 @@
         "discovered": "2026-09-14",
         "last_verified": "2026-10-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:ats"
@@ -233044,7 +233375,7 @@
         "discovered": "2026-09-14",
         "last_verified": "2026-10-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:ats"
@@ -233360,7 +233691,7 @@
         "discovered": "2026-09-14",
         "last_verified": "2026-10-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:ats"
@@ -233413,7 +233744,7 @@
         "discovered": "2026-09-14",
         "last_verified": "2026-10-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:ats"
@@ -233466,7 +233797,7 @@
         "discovered": "2026-09-16",
         "last_verified": "2026-10-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:ats"
@@ -233620,7 +233951,7 @@
         "discovered": "2026-09-14",
         "last_verified": "2026-10-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:ats"
@@ -233723,7 +234054,7 @@
         "discovered": "2026-09-14",
         "last_verified": "2026-10-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:ats"
@@ -233775,7 +234106,7 @@
         "discovered": "2026-09-14",
         "last_verified": "2026-10-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:ats"
@@ -233827,7 +234158,7 @@
         "discovered": "2026-09-14",
         "last_verified": "2026-10-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:ats"
@@ -234109,7 +234440,7 @@
         "discovered": "2026-09-14",
         "last_verified": "2026-10-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:ats"
@@ -234162,7 +234493,7 @@
         "discovered": "2026-09-14",
         "last_verified": "2026-10-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:ats"
@@ -234215,7 +234546,7 @@
         "discovered": "2026-09-14",
         "last_verified": "2026-10-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:ats"
@@ -234268,7 +234599,7 @@
         "discovered": "2026-09-14",
         "last_verified": "2026-10-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:ats"
@@ -234321,7 +234652,7 @@
         "discovered": "2026-09-14",
         "last_verified": "2026-10-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:ats"
@@ -234374,7 +234705,7 @@
         "discovered": "2026-09-14",
         "last_verified": "2026-10-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:ats"
@@ -239342,7 +239673,7 @@
         "discovered": "2026-10-09",
         "last_verified": "2026-10-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -242916,7 +243247,7 @@
         "discovered": "2026-10-10",
         "last_verified": "2026-10-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -244687,7 +245018,7 @@
         "discovered": "2026-10-13",
         "last_verified": "2026-10-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -247210,7 +247541,7 @@
         "discovered": "2026-10-13",
         "last_verified": "2026-10-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -262578,7 +262909,7 @@
         "discovered": "2026-10-06",
         "last_verified": "2026-10-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -330741,7 +331072,7 @@
         "discovered": "2026-09-21",
         "last_verified": "2026-10-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
