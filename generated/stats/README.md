@@ -9,8 +9,8 @@ _Generated 2026-10-14_
 | Company | Listings |
 |---|---|
 | Tesla | 218 |
-| TikTok | 177 |
-| RTX | 164 |
+| TikTok | 184 |
+| RTX | 166 |
 | AMD | 77 |
 | Marvell | 74 |
 | ByteDance | 70 |
@@ -33,14 +33,14 @@ _Generated 2026-10-14_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 3649 | `███████████████` |
-| ai | 495 | `██` |
-| quant | 333 | `█` |
-| machine-learning | 288 | `█` |
-| data-science | 239 | `█` |
-| hardware | 232 | `█` |
+| software-engineering | 3678 | `███████████████` |
+| ai | 502 | `██` |
+| quant | 335 | `█` |
+| machine-learning | 300 | `█` |
+| data-science | 242 | `█` |
+| hardware | 233 | `█` |
 | product | 203 | `█` |
-| research | 196 | `█` |
+| research | 198 | `█` |
 | design | 166 | `█` |
 | embedded | 151 | `█` |
 | data-engineering | 113 | `█` |
@@ -49,26 +49,26 @@ _Generated 2026-10-14_
 
 ## Newest listings
 
+- 2026-10-14 — **AECOM**: [Engineering/Data Analytics Intern](https://jobs.smartrecruiters.com/AECOM2/744000155565444)
+- 2026-10-14 — **AGCO**: [Agricultural Business Analytics Intern](https://careers.agcocorp.com/job/Champaign-Agricultural-Business-Analytics-Intern-Summer-2027-IL/1440135500/?ats=successfactors)
+- 2026-10-14 — **AGCO**: [AI & Data Science Intern](https://careers.agcocorp.com/job/Champaign-AI-&-Data-Science-Intern-Spring-2027-IL/1440146300/?ats=successfactors)
+- 2026-10-14 — **AGCO**: [Business Intelligence Intern](https://careers.agcocorp.com/job/Business-Intelligence-Intern-Spring-2027/1440110900/?ats=successfactors)
 - 2026-10-14 — **Amazon**: [Hardware Development Engineer Intern](https://amazon.jobs/en/jobs/10578090/hardware-development-engineer-intern-summer-2027)
 - 2026-10-14 — **Anduril**: [2027 Flight Test Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5257709007?gh_jid=5257709007)
 - 2026-10-14 — **Anduril**: [Firmware Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5265158007)
 - 2026-10-14 — **Assurant**: [Data Support Analyst Intern](https://assurant.wd1.myworkdayjobs.com/en-US/Assurant_Careers/job/Illinois-Virtual/Summer-2027-Intern--Data-Support-Analyst_R-115717)
+- 2026-10-14 — **Assurant**: [Software Engineer Intern](https://assurant.wd1.myworkdayjobs.com/en-US/Assurant_Careers/job/Atlanta-GA/Summer-2027-Intern--Software-Engineering-Intern_R-115727-1)
 - 2026-10-14 — **Astera Labs**: [Firmware Engineer Co-op Intern](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4739544005)
 - 2026-10-14 — **Astera Labs**: [Firmware Engineer Intern Co-op](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4739956005)
+- 2026-10-14 — **Atoms**: [Software Engineer Intern](https://job-boards.greenhouse.io/cssmerge/jobs/8888411002)
+- 2026-10-14 — **Atoms**: [Software Engineer Intern](https://job-boards.greenhouse.io/atoms/jobs/8356071002)
 - 2026-10-14 — **BNY**: [Product Management Intern](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/83098)
 - 2026-10-14 — **BP**: [Digital, Data, AI & Engineering Intern](https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers/job/GB-London---25-North-Colonnade/Summer-Internship---Digital---Data--AI---Engineering---UK_RQ117081)
 - 2026-10-14 — **BP**: [Subsurface Technology Geologist Intern - Subsurface Technology - Geology](https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers/job/United-Kingdom---Sunbury/Summer-Internship---Subsurface-Technology---Geology_RQ117085)
+- 2026-10-14 — **BP**: [Subsurface Technology Intern](https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers/job/United-Kingdom---Sunbury/Summer-Internship---Subsurface-Technology---Reservoir-Engineering_RQ117086)
+- 2026-10-14 — **BP**: [Summer Intern - Multiple Teams](https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers/job/GB-London---25-North-Colonnade/Summer-Internship---Digital---Data--AI---Engineering---UK_RQ117182)
+- 2026-10-14 — **BP**: [Supply, Trading & Shipping Intern](https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers/job/United-Kingdom---London/Summer-Internship---Supply--Trading---Shipping---UK_RQ117128)
 - 2026-10-14 — **Brain Co.**: [AI Product Engineer Co-op Intern](https://jobs.ashbyhq.com/brainco/7ce0af56-d15e-4fc8-91a5-9e56cdb9cf42/application?embed=true)
-- 2026-10-14 — **Brain Co.**: [Machine Learning Engineer – Applied AI Co-op Intern](https://jobs.ashbyhq.com/brainco/b6adda4c-490c-4e9e-8354-e55c05d3c6ac/application?embed=true)
-- 2026-10-14 — **Electronic Arts**: [Software Engineer Intern](https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern/216287)
-- 2026-10-14 — **Field AI**: [Research Scientist Intern - Robot Learning & Manipulation](https://jobs.lever.co/field-ai/b37569c3-d07f-4968-82dc-44020f34e54e/apply)
-- 2026-10-14 — **Field AI**: [Robotics Research Intern - Embodied AI](https://jobs.lever.co/field-ai/ef35c537-b864-479f-9dbe-b30429ac7704/apply)
-- 2026-10-14 — **GE Vernova**: [AI Evaluation & Benchmarking Intern](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Bellevue/GE-Vernova---AGI---AI-Evaluation---Benchmarking-Intern---Summer-2027_R5054821-2)
-- 2026-10-14 — **GE Vernova**: [AI Evaluation & Benchmarking Intern - AGI](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Bellevue/GE-Vernova---AGI---AI-Evaluation---Benchmarking-Intern---Summer-2027_R5054821-1)
-- 2026-10-14 — **GE Vernova**: [AI Post-Training and Model Alignment Intern](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Bellevue/GE-Vernova---AGI---AI-Post-Training-and-Model-Alignment-Intern---Summer-2027_R5054822-2)
-- 2026-10-14 — **GE Vernova**: [AI Post-Training and Model Alignment Intern](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Bellevue/GE-Vernova---AGI---AI-Post-Training-and-Model-Alignment-Intern---Summer-2027_R5054822-1)
-- 2026-10-14 — **GE Vernova**: [Grid Foundational Models Intern - AGI](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Bellevue/GE-Vernova---AGI---Grid-Foundational-Models-Intern---Summer-2027_R5054820-3)
-- 2026-10-14 — **GE Vernova**: [Power System Intern](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Bellevue/GE-Vernova---AGI---Grid-Foundational-Models-Intern---Summer-2027_R5054820-2)
 
 ## Recently closed
 
@@ -77,6 +77,7 @@ _Generated 2026-10-14_
 - ABB — Application Engineering Intern - Summer 2027
 - Acima — Software Engineer Intern
 - Acxiom — Data Scientist Intern
+- Acxiom — Enterprise Solutions Consulting Intern
 - Acxiom — Product Operations Intern
 - Acxiom — Product Operations Intern
 - Acxiom — Product Operations Intern
@@ -148,7 +149,9 @@ _Generated 2026-10-14_
 - Ameriprise Financial — Asset Management Technology Intern - Data Enablement
 - Anduril — 2027 Manufacturing Optimization Engineer Intern
 - APEX Analytix — Data Analyst Intern - Summer 2027
+- AQR Capital Management — Trading Analyst Intern
 - Arch Capital Group — Data and Analytics Intern
+- Ascension — Data Science Intern
 - ASM International — Software Engineering Intern
 - AspenTech — Project Engineering Intern - Digital Grid Management
 - Associated Bank — Corporate Intern - Product Development
@@ -168,6 +171,7 @@ _Generated 2026-10-14_
 - Autodesk — Software Developer Intern
 - Autodesk — Software Development Intern
 - Autodesk — Software Development Intern
+- Avis Budget Group — Data Analytics Intern
 - Avis Budget Group — IT Engineering Intern - Accelerate
 - Avis Budget Group — Revenue Management Intern - Accelerate
 - Axiom Space — Software Engineer Intern
@@ -192,7 +196,6 @@ _Generated 2026-10-14_
 - Boston Scientific — Software Development Engineer Intern
 - Boston Scientific — Software Engineer Intern - Interns/Graduates
 - BP — Digital, Data, AI & Engineering Intern
-- BP — Subsurface Technology Geologist Intern - Subsurface Technology - Geology
 - British Columbia Investment — AI and Automation Engineer Co-op Intern - Winter 2027 - Summer 2027
 - British Columbia Investment — Investment Risk Analytics Solutions Co-op Intern - Winter 2027
 - British Columbia Investment — Software Engineer Co-op Intern - Investment Tech/Data & Analytics
@@ -206,7 +209,11 @@ _Generated 2026-10-14_
 - CACI — Software/Network Engineering Intern
 - Cadence Design Systems — AI / Agentic AI / GenAI Intern - IT
 - Capital One — Data Analytics Engineering Intern
+- Capital One — Data Scientist Intern
 - Capital One — Full Stack Software Engineer Intern
+- Capital One — Full Stack Software Engineer Intern - Team Integrated Sprout
+- Capital One — Full Stack Software Engineer Intern - Team Pickle
+- Capital One — Mobile Software Engineer Intern
 - CDM Smith — Electrical Engineer Intern - Summer 2027
 - Centene — AI Enablement Intern
 - Centene — Medical Economics Analyst Intern
@@ -221,6 +228,7 @@ _Generated 2026-10-14_
 - Cigna Group — Analytics Leadership Development Intern - ALDP
 - Cigna Group — Artificial Intelligence Innovation Development Intern
 - Cigna Group — Legal Operations Financial Data & AI Analytics Intern
+- Cigna Group — Software Engineering Intern - Technology Development Program - Software Engineering Track
 - Clarios — People Analytics Intern - Summer 2027
 - Cloudflare — People Analytics Data Engineer Intern
 - Cloudflare — People Analytics Data Engineering Intern (Winter/Spring 2027)
@@ -247,6 +255,12 @@ _Generated 2026-10-14_
 - CoStar Group — Technology Intern - Multiple Teams
 - CoStar Group — Technology Intern - Summer 2027
 - Cox — Data Governance and Management Intern
+- Cox — Data Scientist Intern
+- Cox — Product Management Intern
+- Cox — Product Management Intern - Summer 2027
+- Cox — Product Management Intern - Summer 2027
+- Cox — Product Management Intern - Summer 2027
+- Cox — Product Management Intern - Summer 2027
 - Cox — Technical Intern
 - Create Music Group — A&R Research Intern - Hip-Hop & R&B
 - Daimler Truck — Reliability Engineer Intern
@@ -285,12 +299,15 @@ _Generated 2026-10-14_
 - Entergy — Artificial Intelligence Intern
 - Entergy — Compliance and Systems Support Intern
 - Entergy — Student Intern - Power Delivery Performance & Analytics
+- Equifax — Technology Intern
 - EquipmentShare — Software Engineer Intern
 - EquipmentShare — Software Engineer Intern
 - Etched — Electrical Platform Intern
 - Etched — RTL Intern
 - Excellus BCBS — College Intern - Data Governance & AI Governance
+- Excellus BCBS — College Intern - Digital Analytics
 - Excellus BCBS — College Intern - Healthcare Statistical Analytics
+- Excellus BCBS — College Intern - Mobile Software Engineering Team
 - Excellus BCBS — Healthcare Analytics Intern - Healthcare Analytics
 - Excellus BCBS — Software Engineering Intern
 - Exelon — Data Science Intern - Data Science/Analytics
@@ -321,13 +338,13 @@ _Generated 2026-10-14_
 - GE Vernova — Hardware Automation and Test Engineering Intern - Spring/Summer 2027
 - GE Vernova — Hardware Engineer Intern - Critical Infrastructure Communications
 - GE Vernova — Hardware Engineer Intern - Critical Infrastructure Communications
+- General Dynamics Information Technology — Defense Agencies Intern - AI/ML
 - General Motors — Economics Intern
 - General Motors — Summer Intern - Global Manufacturing Robotics & Automation
 - General Motors — Systems/Calibration Engineer Intern - ADAS Drive
 - GenMD — AI Research Scientist Intern
 - Genworth Financial — Data Analytics Intern - Summer 2027
 - Geotab — Product Management Intern
-- Geotab — Vehicle Systems Engineering Intern - Winter/January 2027 - 4, 8 Months
 - GlobalFoundries — Design Application Engineering Intern
 - Goldman Sachs — Associate Intern - The Core Quantitative Strats
 - Goldman Sachs — Quantitative Strategist Associate Intern - Asset and Wealth Management
@@ -428,6 +445,7 @@ _Generated 2026-10-14_
 - Kinder Morgan — Intern - IT
 - KnowBe4 — Associate Product Manager Intern
 - KnowBe4 — Software Engineer Intern
+- Koch Industries — Product Management Intern
 - Kodiak Robotics — Controls Intern
 - Kodiak Robotics — Simulation Intern
 - Kyndryl — Marketing Intern - Marketing Analytics
@@ -437,6 +455,7 @@ _Generated 2026-10-14_
 - L3Harris Technologies — Software Engineer Intern
 - LabCorp — Financial Analytics & Technology Intern - Financial Analytics Team
 - LabCorp — IT Product Manager Intern - Payer Team
+- Land O'Lakes — Business Insights & Analytics Intern - Animal Nutrition
 - Lawrence Livermore National Laboratory (LLNL) — Computing Intern - Summer Undergraduate Internship Program
 - Lawrence Livermore National Laboratory (LLNL) — Computing Undergraduate Student Intern - Early Internship Program
 - Lazard — Data Scientist Intern
@@ -648,6 +667,7 @@ _Generated 2026-10-14_
 - Qualcomm — MSIP Digital Design Verification Engineering Intern - HW
 - Qualcomm — Sensors Subsystem Engineering Intern - Multiple Teams
 - Qualified Health — Clinical AI Evaluation Intern
+- Qualtrics — Professional Sales Skillbridge Intern
 - Quantbot Technologies — Data Trading Analyst Intern - Data Trading Lab
 - Ramiel Capital — Trading Intern
 - Raymond James Financial — Private Client Banking Strategy, Analytics & Sales Intern
@@ -780,7 +800,9 @@ _Generated 2026-10-14_
 - StackAdapt — Software Engineer Intern
 - State Farm — Data Science Intern - Magnet Program - Online MS Analytics
 - State Farm — Financial Operations Data Analytics Intern
+- State Farm — Software Developer Intern - HR&D
 - Stryten — Electrical Engineer Intern
+- STV — Data Engineer Intern
 - Sun Life — Data Analyst Intern
 - Superhuman — Software Engineer Intern - Summer 2027
 - Susquehanna International Group — FPGA Engineer Intern

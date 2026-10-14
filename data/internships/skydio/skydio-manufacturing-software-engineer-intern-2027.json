@@ -1,20 +1,21 @@
 {
   "schema_version": "1.0",
-  "id": "capital-one-backend-software-engineer-intern-team-interstellar-2027-c2d4d2",
+  "id": "skydio-manufacturing-software-engineer-intern-2027",
   "company": {
-    "name": "Capital One",
-    "slug": "capital-one"
+    "name": "Skydio",
+    "slug": "skydio"
   },
-  "role": "Backend Software Engineer Intern, Team Interstellar",
+  "role": "Manufacturing Software Engineer Intern",
   "category": "software-engineering",
-  "apply_url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Toronto-ON/Intern--Backend-Software-Engineer---Team-Interstellar---Winter-2027_R249022",
+  "apply_url": "https://jobs.ashbyhq.com/skydio/ffc665c1-2aa6-4c2f-b04b-93a6fb7b5feb/application?embed=true",
   "season": "winter",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Toronto",
-      "country": "ON"
+      "city": "San Mateo",
+      "state": "CA",
+      "country": "USA"
     }
   ],
   "compensation": {
@@ -27,7 +28,7 @@
     "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
-    "visa_sponsorship": "yes"
+    "visa_sponsorship": "unknown"
   },
   "interview": {},
   "tech": {
@@ -39,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-21",
-    "discovered": "2026-09-21",
+    "posted": "2026-10-14",
+    "discovered": "2026-10-14",
     "last_verified": "2026-10-14"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:vanshb03"
+    "src:simplify"
   ]
 }
