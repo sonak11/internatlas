@@ -1,6 +1,6 @@
 {
   "generated": "2026-10-14",
-  "count": 6144,
+  "count": 6149,
   "internships": [
     {
       "schema_version": "1.0",
@@ -20813,6 +20813,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "anduril-2027-flight-test-engineer-intern-2027",
+      "company": {
+        "name": "Anduril",
+        "slug": "anduril",
+        "career_page": "https://www.anduril.com/careers"
+      },
+      "role": "2027 Flight Test Engineer Intern",
+      "category": "hardware",
+      "apply_url": "https://boards.greenhouse.io/andurilindustries/jobs/5257709007?gh_jid=5257709007",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Costa Mesa",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-14",
+        "discovered": "2026-10-14",
+        "last_verified": "2026-10-14"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "anduril-2027-hardware-engineer-intern-2027",
       "company": {
         "name": "Anduril",
@@ -30236,7 +30288,7 @@
         "discovered": "2026-08-07",
         "last_verified": "2026-10-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -32850,7 +32902,7 @@
         "discovered": "2026-09-17",
         "last_verified": "2026-10-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -40410,6 +40462,57 @@
       "dates": {
         "posted": "2026-08-24",
         "discovered": "2026-08-24",
+        "last_verified": "2026-10-14"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "bny-product-management-intern-2027-bf936f",
+      "company": {
+        "name": "BNY",
+        "slug": "bny"
+      },
+      "role": "Product Management Intern",
+      "category": "product",
+      "apply_url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/83098",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Greater Manchester",
+          "country": "UK"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-14",
+        "discovered": "2026-10-14",
         "last_verified": "2026-10-14"
       },
       "status": "open",
@@ -113255,7 +113358,7 @@
         "discovered": "2026-10-06",
         "last_verified": "2026-10-14"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -113309,7 +113412,7 @@
         "discovered": "2026-10-13",
         "last_verified": "2026-10-14"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -113363,7 +113466,7 @@
         "discovered": "2026-10-02",
         "last_verified": "2026-10-14"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -113417,7 +113520,7 @@
         "discovered": "2026-10-02",
         "last_verified": "2026-10-14"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -113469,7 +113572,7 @@
         "discovered": "2026-10-06",
         "last_verified": "2026-10-14"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -113523,7 +113626,7 @@
         "discovered": "2026-10-10",
         "last_verified": "2026-10-14"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -113577,7 +113680,7 @@
         "discovered": "2026-10-09",
         "last_verified": "2026-10-14"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -113631,7 +113734,7 @@
         "discovered": "2026-10-08",
         "last_verified": "2026-10-14"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -113794,7 +113897,7 @@
         "discovered": "2026-10-10",
         "last_verified": "2026-10-14"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -113977,7 +114080,7 @@
         "discovered": "2026-09-21",
         "last_verified": "2026-10-14"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -114090,7 +114193,7 @@
         "discovered": "2026-10-03",
         "last_verified": "2026-10-14"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -114144,7 +114247,7 @@
         "discovered": "2026-10-06",
         "last_verified": "2026-10-14"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -114255,7 +114358,7 @@
         "discovered": "2026-09-19",
         "last_verified": "2026-10-14"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -114307,7 +114410,7 @@
         "discovered": "2026-09-15",
         "last_verified": "2026-10-14"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -114475,7 +114578,7 @@
         "discovered": "2026-10-13",
         "last_verified": "2026-10-14"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -114530,7 +114633,7 @@
         "discovered": "2026-10-10",
         "last_verified": "2026-10-14"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -114584,7 +114687,7 @@
         "discovered": "2026-10-02",
         "last_verified": "2026-10-14"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -114643,7 +114746,7 @@
         "discovered": "2026-10-03",
         "last_verified": "2026-10-14"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -114712,7 +114815,7 @@
         "discovered": "2026-09-21",
         "last_verified": "2026-10-14"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -114771,7 +114874,7 @@
         "discovered": "2026-10-06",
         "last_verified": "2026-10-14"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -114878,7 +114981,7 @@
         "discovered": "2026-10-10",
         "last_verified": "2026-10-14"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -114988,7 +115091,7 @@
         "discovered": "2026-10-13",
         "last_verified": "2026-10-14"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -115101,7 +115204,7 @@
         "discovered": "2026-10-08",
         "last_verified": "2026-10-14"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -117796,7 +117899,7 @@
         "discovered": "2026-08-27",
         "last_verified": "2026-10-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -117901,7 +118004,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-10-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -117954,7 +118057,7 @@
         "discovered": "2026-10-11",
         "last_verified": "2026-10-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -118007,7 +118110,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-10-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -118059,7 +118162,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -118111,7 +118214,7 @@
         "discovered": "2026-10-06",
         "last_verified": "2026-10-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -118165,7 +118268,7 @@
         "discovered": "2026-09-16",
         "last_verified": "2026-10-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -118218,7 +118321,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -118269,7 +118372,7 @@
         "discovered": "2026-10-12",
         "last_verified": "2026-10-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -118323,7 +118426,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -118374,7 +118477,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -118425,7 +118528,7 @@
         "discovered": "2026-10-10",
         "last_verified": "2026-10-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -118476,7 +118579,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-10-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -118528,7 +118631,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -118579,7 +118682,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -118788,7 +118891,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -118842,7 +118945,7 @@
         "discovered": "2026-10-11",
         "last_verified": "2026-10-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -118949,7 +119052,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -119003,7 +119106,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-10-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -119105,7 +119208,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -119260,7 +119363,7 @@
         "discovered": "2026-08-29",
         "last_verified": "2026-10-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -119313,7 +119416,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-10-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -119413,9 +119516,9 @@
       "dates": {
         "posted": "2026-10-13",
         "discovered": "2026-10-13",
-        "last_verified": "2026-10-13"
+        "last_verified": "2026-10-14"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -137840,7 +137943,7 @@
         "discovered": "2026-10-06",
         "last_verified": "2026-10-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -137901,7 +138004,7 @@
         "discovered": "2026-10-06",
         "last_verified": "2026-10-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -143444,6 +143547,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "j-m-smucker-net-revenue-optimization-intern-2027",
+      "company": {
+        "name": "J.M. Smucker",
+        "slug": "j-m-smucker"
+      },
+      "role": "Net Revenue Optimization Intern",
+      "category": "software-engineering",
+      "apply_url": "https://smucker.wd5.myworkdayjobs.com/US_External_Careers/job/Orrville-OH/Net-Revenue-Optimization-Intern--Summer-2027_116006",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Orrville",
+          "state": "OH",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-14",
+        "discovered": "2026-10-14",
+        "last_verified": "2026-10-14"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "j-m-smucker-sensory-and-products-research-intern-summer-2027-2027",
       "company": {
         "name": "J.M. Smucker",
@@ -146592,6 +146747,87 @@
       "dates": {
         "posted": "2026-08-27",
         "discovered": "2026-08-28",
+        "last_verified": "2026-10-14"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "johnson-johnson-ai-ml-data-science-intern-2027",
+      "company": {
+        "name": "Johnson & Johnson",
+        "slug": "johnson-johnson"
+      },
+      "role": "AI/ML/Data Science Intern",
+      "category": "machine-learning",
+      "apply_url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Zug-Switzerland/AI-ML-Data-Science-Intern_R-104697",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Boston",
+          "state": "MA",
+          "country": "USA"
+        },
+        {
+          "city": "Barcelona",
+          "country": "Spain"
+        },
+        {
+          "city": "Spring House",
+          "state": "PA",
+          "country": "USA"
+        },
+        {
+          "city": "New Brunswick",
+          "state": "NJ",
+          "country": "USA"
+        },
+        {
+          "city": "Madrid",
+          "country": "Spain"
+        },
+        {
+          "city": "NYC",
+          "country": "USA"
+        },
+        {
+          "city": "High Wycombe",
+          "country": "UK"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters",
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-14",
+        "discovered": "2026-10-14",
         "last_verified": "2026-10-14"
       },
       "status": "open",
@@ -213152,6 +213388,57 @@
     },
     {
       "schema_version": "1.0",
+      "id": "physical-intelligence-mechatronics-intern-2027",
+      "company": {
+        "name": "Physical Intelligence",
+        "slug": "physical-intelligence"
+      },
+      "role": "Mechatronics Intern",
+      "category": "software-engineering",
+      "apply_url": "https://jobs.ashbyhq.com/physicalintelligence/0bcf909e-b38b-4276-91a1-e55c4c56a33a/application?embed=true",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "SF",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-17",
+        "discovered": "2026-10-14",
+        "last_verified": "2026-10-14"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "picton-mahoney-asset-management-business-data-analyst-intern-2026",
       "company": {
         "name": "Picton Mahoney Asset Management",
@@ -227176,7 +227463,7 @@
         "discovered": "2026-09-17",
         "last_verified": "2026-10-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -227624,7 +227911,7 @@
         "discovered": "2026-09-29",
         "last_verified": "2026-10-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -248189,7 +248476,7 @@
         "discovered": "2026-08-11",
         "last_verified": "2026-10-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -314020,7 +314307,7 @@
         "discovered": "2026-09-11",
         "last_verified": "2026-10-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -314126,7 +314413,7 @@
         "discovered": "2026-09-11",
         "last_verified": "2026-10-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"

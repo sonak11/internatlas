@@ -33,13 +33,13 @@ _Generated 2026-10-14_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 3647 | `███████████████` |
+| software-engineering | 3649 | `███████████████` |
 | ai | 495 | `██` |
 | quant | 333 | `█` |
-| machine-learning | 287 | `█` |
+| machine-learning | 288 | `█` |
 | data-science | 239 | `█` |
-| hardware | 231 | `█` |
-| product | 202 | `█` |
+| hardware | 232 | `█` |
+| product | 203 | `█` |
 | research | 196 | `█` |
 | design | 166 | `█` |
 | embedded | 151 | `█` |
@@ -50,10 +50,12 @@ _Generated 2026-10-14_
 ## Newest listings
 
 - 2026-10-14 — **Amazon**: [Hardware Development Engineer Intern](https://amazon.jobs/en/jobs/10578090/hardware-development-engineer-intern-summer-2027)
+- 2026-10-14 — **Anduril**: [2027 Flight Test Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5257709007?gh_jid=5257709007)
 - 2026-10-14 — **Anduril**: [Firmware Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5265158007)
 - 2026-10-14 — **Assurant**: [Data Support Analyst Intern](https://assurant.wd1.myworkdayjobs.com/en-US/Assurant_Careers/job/Illinois-Virtual/Summer-2027-Intern--Data-Support-Analyst_R-115717)
 - 2026-10-14 — **Astera Labs**: [Firmware Engineer Co-op Intern](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4739544005)
 - 2026-10-14 — **Astera Labs**: [Firmware Engineer Intern Co-op](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4739956005)
+- 2026-10-14 — **BNY**: [Product Management Intern](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/83098)
 - 2026-10-14 — **BP**: [Digital, Data, AI & Engineering Intern](https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers/job/GB-London---25-North-Colonnade/Summer-Internship---Digital---Data--AI---Engineering---UK_RQ117081)
 - 2026-10-14 — **BP**: [Subsurface Technology Geologist Intern - Subsurface Technology - Geology](https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers/job/United-Kingdom---Sunbury/Summer-Internship---Subsurface-Technology---Geology_RQ117085)
 - 2026-10-14 — **Brain Co.**: [AI Product Engineer Co-op Intern](https://jobs.ashbyhq.com/brainco/7ce0af56-d15e-4fc8-91a5-9e56cdb9cf42/application?embed=true)
@@ -67,8 +69,6 @@ _Generated 2026-10-14_
 - 2026-10-14 — **GE Vernova**: [AI Post-Training and Model Alignment Intern](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Bellevue/GE-Vernova---AGI---AI-Post-Training-and-Model-Alignment-Intern---Summer-2027_R5054822-1)
 - 2026-10-14 — **GE Vernova**: [Grid Foundational Models Intern - AGI](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Bellevue/GE-Vernova---AGI---Grid-Foundational-Models-Intern---Summer-2027_R5054820-3)
 - 2026-10-14 — **GE Vernova**: [Power System Intern](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Bellevue/GE-Vernova---AGI---Grid-Foundational-Models-Intern---Summer-2027_R5054820-2)
-- 2026-10-14 — **Northrop Grumman**: [Electronics Engineering Intern](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Annapolis/XMLNAME-2027-H-W-Electronics-Engineering-Intern---Annapolis-MD_R10254689-1)
-- 2026-10-14 — **Northrop Grumman**: [Software Embedded Engineer Intern](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Annapolis/XMLNAME-2027-S-W-Embedded-Engineering-Intern---Annapolis-MD_R10254697)
 
 ## Recently closed
 
@@ -157,6 +157,7 @@ _Generated 2026-10-14_
 - AtkinsRéalis — Data Scientist Intern - Summer 2027
 - Atlassian — Research Intern
 - Atoms — Robotics Software Engineer Intern
+- Atoms — Software Engineer Intern - Winter 2027
 - Auto-Owners Insurance — Marketplace Intelligence Intern
 - Autodesk — AI Data Developer Intern
 - Autodesk — AI/ML Platform Intern
@@ -167,6 +168,7 @@ _Generated 2026-10-14_
 - Autodesk — Software Developer Intern
 - Autodesk — Software Development Intern
 - Autodesk — Software Development Intern
+- Avis Budget Group — IT Engineering Intern - Accelerate
 - Avis Budget Group — Revenue Management Intern - Accelerate
 - Axiom Space — Software Engineer Intern
 - Barclays — Quantitative Finance Associate Intern
@@ -319,39 +321,37 @@ _Generated 2026-10-14_
 - GE Vernova — Hardware Automation and Test Engineering Intern - Spring/Summer 2027
 - GE Vernova — Hardware Engineer Intern - Critical Infrastructure Communications
 - GE Vernova — Hardware Engineer Intern - Critical Infrastructure Communications
-- General Motors — ADAS Software Engineer Intern - Adpt
-- General Motors — AI/Machine Learning Intern - Research and Development
-- General Motors — AI/ML Engineer Intern - Autonomous Vehicle: Simulation
-- General Motors — AI/ML Engineer Intern - Autonomous Vehicles: Simulation
-- General Motors — AI/ML Engineer Intern - Mapping
-- General Motors — AI Research Intern - Embodied AI
-- General Motors — Autonomous Driving Software Engineer Intern
-- General Motors — AV Sensor Design, Release and Integration Intern
-- General Motors — Data Scaling Intern - Data Scaling - Embodied AI
 - General Motors — Economics Intern
-- General Motors — Embedded and Systems Engineering Intern - Digital Product
-- General Motors — Machine Learning Engineer Intern - AV/AI Platform
-- General Motors — Machine Learning Intern - Autonomous Vehicles - Software Validation
-- General Motors — Product Management Intern - Digital Product
-- General Motors — Race Strategy & Analytics Intern - IndyCar
-- General Motors — Research and Development Intern - Smart Manufacturing Systems
-- General Motors — Seam Intern - Embodied AI
-- General Motors — Simulation Intern - Software Engineer - Autonomous Vehicle: Simulation
-- General Motors — Software Engineer Intern - AV/AI Platform
-- General Motors — Software Engineer Intern - Digital Product: Software Engineering
-- General Motors — Summer Intern - AI & Hardware Analytics - Adpt
 - General Motors — Summer Intern - Global Manufacturing Robotics & Automation
-- General Motors — Summer Intern - Onboard Autonomy - Embodied AI
-- General Motors — Summer Intern - Research and Development - Machine Learning for Automation
 - General Motors — Systems/Calibration Engineer Intern - ADAS Drive
-- General Motors — Systems Engineer Intern - Asd
 - GenMD — AI Research Scientist Intern
 - Genworth Financial — Data Analytics Intern - Summer 2027
 - Geotab — Product Management Intern
 - Geotab — Vehicle Systems Engineering Intern - Winter/January 2027 - 4, 8 Months
 - GlobalFoundries — Design Application Engineering Intern
+- Goldman Sachs — Associate Intern - The Core Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Associate Intern - Asset and Wealth Management
+- Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Intern - Americas
+- Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Intern - Investment Banking
+- Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
+- Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
+- Goldman Sachs — Quantitative Strats Analyst Intern - Americas - Investment Banking
+- Goldman Sachs — Summer Analyst Intern
 - Goldman Sachs — Summer Analyst Intern - Americas - Engineering
-- Goodlord — Engineering Intern
+- Goldman Sachs — Summer Analyst Intern - Americas - Investment Banking Quantitative Strats
+- Goldman Sachs — Summer Analyst Intern - Engineering
+- Goldman Sachs — Summer Analyst Intern - Engineering
+- Goldman Sachs — Summer Analyst Intern - FICC and Equities - Sales and Trading
+- Goldman Sachs — Summer Analyst Intern - The Core Quantitative Strats
+- Goldman Sachs — Summer Associate Intern
+- Goldman Sachs — Summer Associate Intern - Multiple Teams
 - Google — Data Scientist Intern - Product
 - Google — Hardware Engineer Intern
 - Google — Product Manager Intern - Summer 2027
@@ -378,6 +378,8 @@ _Generated 2026-10-14_
 - Impulse Space — Ground Software Engineering Intern - Summer 2027
 - Impulse Space — RF Test Engineer Intern - Summer 2027
 - Ingredion — Customer Innovation Technical Service Intern - Texture & Healthful Solutions
+- Innovative Defense Technologies — Software Engineer Intern
+- Innovative Defense Technologies — Software Engineer Intern
 - Intact — Android Developer Intern Co-op - Winter 2027
 - Intact — Software Developer 1 Intern/Co-op - Winter 2027
 - Intel — AI Software Technical Intern
@@ -650,9 +652,11 @@ _Generated 2026-10-14_
 - Ramiel Capital — Trading Intern
 - Raymond James Financial — Private Client Banking Strategy, Analytics & Sales Intern
 - Regions Bank — Human Resources Data and Analytics Intern
+- Relay — Software Engineer Intern - AI/ML
 - Renesas Electronics — Analog Intern
 - Renesas Electronics — Analog Intern
 - Renesas Electronics — Analog Intern
+- Renesas Electronics — Design Verification Intern
 - Renesas Electronics — Marketing Analyst Intern
 - Renesas Electronics — Memory Server System Testing Intern
 - Renesas Electronics — Post Silicon Validation Intern
@@ -737,6 +741,7 @@ _Generated 2026-10-14_
 - RTX — Software Engineer Intern
 - RTX — Software Engineer Intern - Summer 2027
 - RTX — Software Engineer Intern - Summer 2027
+- RTX — Software Engineering Intern
 - RTX — Software Engineering Intern
 - RTX — Test Engineering Intern
 - Rubrik — Product Growth Intern - MBA
@@ -855,7 +860,9 @@ _Generated 2026-10-14_
 - USAA — Quantitative Risk Analyst Intern
 - USAA — Technology Intern
 - Vanguard — IT Intern - Investment Systems
+- Veeam Software — Security & AI Engineer Intern
 - Veeam Software — Services Portfolio Management Intern
+- Veeam Software — Software Engineer Intern - Summer 2027
 - Verisk — AI Intern - Summer Internship Program
 - Verisk — Technology Intern - Summer Internship Program
 - Verizon Communications — Business Intelligence Intern - Fiber Engineering & Operations - Transformation & Business Enablement
