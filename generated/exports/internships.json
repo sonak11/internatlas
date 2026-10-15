@@ -1,6 +1,6 @@
 {
   "generated": "2026-10-15",
-  "count": 6212,
+  "count": 6216,
   "internships": [
     {
       "schema_version": "1.0",
@@ -26286,7 +26286,7 @@
         "discovered": "2026-10-13",
         "last_verified": "2026-10-15"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -37694,7 +37694,7 @@
         "discovered": "2026-10-02",
         "last_verified": "2026-10-15"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -46948,7 +46948,7 @@
         "discovered": "2026-09-25",
         "last_verified": "2026-10-15"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -49153,6 +49153,58 @@
         "last_verified": "2026-09-11"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "brunswick-g3-software-engineer-intern-2027",
+      "company": {
+        "name": "Brunswick",
+        "slug": "brunswick"
+      },
+      "role": "G3 Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Oshkosh-WI/Mercury-Marine--Software-Validation-Intern_JR-051160",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Oshkosh",
+          "state": "WI",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-25",
+        "discovered": "2026-10-15",
+        "last_verified": "2026-10-15"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -55598,7 +55650,7 @@
         "discovered": "2026-09-15",
         "last_verified": "2026-10-15"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -55701,7 +55753,7 @@
         "discovered": "2026-10-13",
         "last_verified": "2026-10-15"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -101033,7 +101085,7 @@
         "discovered": "2026-09-21",
         "last_verified": "2026-10-15"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -142903,7 +142955,7 @@
         "discovered": "2026-09-14",
         "last_verified": "2026-10-15"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -142977,7 +143029,7 @@
         "discovered": "2026-09-14",
         "last_verified": "2026-10-15"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -168674,9 +168726,9 @@
       "dates": {
         "posted": "2026-09-14",
         "discovered": "2026-09-14",
-        "last_verified": "2026-10-14"
+        "last_verified": "2026-10-15"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -180137,6 +180189,65 @@
       "tags": [
         "auto-ingested",
         "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "microsoft-researcher-intern-coreai-2027",
+      "company": {
+        "name": "Microsoft",
+        "slug": "microsoft"
+      },
+      "role": "Researcher Intern - Coreai",
+      "category": "research",
+      "apply_url": "https://apply.careers.microsoft.com/careers/job/1970393557027387",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Redmond",
+          "state": "WA",
+          "country": "USA"
+        },
+        {
+          "city": "Mountain View",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-15",
+        "discovered": "2026-10-15",
+        "last_verified": "2026-10-15"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
       ]
     },
     {
@@ -195420,7 +195531,7 @@
         "discovered": "2026-10-08",
         "last_verified": "2026-10-15"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -209489,6 +209600,108 @@
         "last_verified": "2026-09-23"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "pa-consulting-electronic-engineer-intern-2027",
+      "company": {
+        "name": "PA Consulting",
+        "slug": "pa-consulting"
+      },
+      "role": "Electronic Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://jobs.smartrecruiters.com/PAConsulting/744000155687129",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Melbourn",
+          "country": "Royston"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-15",
+        "discovered": "2026-10-15",
+        "last_verified": "2026-10-15"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "pa-consulting-software-and-ai-systems-intern-2027",
+      "company": {
+        "name": "PA Consulting",
+        "slug": "pa-consulting"
+      },
+      "role": "Software and AI Systems Intern",
+      "category": "ai",
+      "apply_url": "https://jobs.smartrecruiters.com/PAConsulting/744000155685700",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Melbourn",
+          "country": "Royston"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-15",
+        "discovered": "2026-10-15",
+        "last_verified": "2026-10-15"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -236638,9 +236851,9 @@
       "dates": {
         "posted": "2026-09-14",
         "discovered": "2026-09-14",
-        "last_verified": "2026-10-14"
+        "last_verified": "2026-10-15"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:ats"
@@ -283387,7 +283600,7 @@
         "discovered": "2026-09-17",
         "last_verified": "2026-10-15"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -311752,9 +311965,9 @@
       "dates": {
         "posted": "2026-09-21",
         "discovered": "2026-09-22",
-        "last_verified": "2026-10-13"
+        "last_verified": "2026-10-15"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -321394,7 +321607,7 @@
         "discovered": "2026-09-22",
         "last_verified": "2026-10-15"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"

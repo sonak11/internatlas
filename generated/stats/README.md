@@ -33,14 +33,14 @@ _Generated 2026-10-15_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 3683 | `███████████████` |
-| ai | 503 | `██` |
+| software-engineering | 3685 | `███████████████` |
+| ai | 504 | `██` |
 | quant | 335 | `█` |
 | machine-learning | 300 | `█` |
 | data-science | 242 | `█` |
 | hardware | 233 | `█` |
 | product | 204 | `█` |
-| research | 198 | `█` |
+| research | 199 | `█` |
 | design | 166 | `█` |
 | embedded | 151 | `█` |
 | data-engineering | 113 | `█` |
@@ -50,6 +50,9 @@ _Generated 2026-10-15_
 ## Newest listings
 
 - 2026-10-15 — **Interac**: [Product Intern - Money Movement](https://interac.wd3.myworkdayjobs.com/Interac/job/Toronto/Product-Intern--Money-Movement_REQ-2386)
+- 2026-10-15 — **Microsoft**: [Researcher Intern - Coreai](https://apply.careers.microsoft.com/careers/job/1970393557027387)
+- 2026-10-15 — **PA Consulting**: [Electronic Engineer Intern](https://jobs.smartrecruiters.com/PAConsulting/744000155687129)
+- 2026-10-15 — **PA Consulting**: [Software and AI Systems Intern](https://jobs.smartrecruiters.com/PAConsulting/744000155685700)
 - 2026-10-15 — **Tessera Labs**: [Full Stack Software Engineer Intern - Full Stack](https://jobs.ashbyhq.com/tessera-labs/892bb150-8c98-47f4-a8b6-93633ecb2ea7/application?embed=true)
 - 2026-10-14 — **AECOM**: [Engineering/Data Analytics Intern](https://jobs.smartrecruiters.com/AECOM2/744000155565444)
 - 2026-10-14 — **AGCO**: [Agricultural Business Analytics Intern](https://careers.agcocorp.com/job/Champaign-Agricultural-Business-Analytics-Intern-Summer-2027-IL/1440135500/?ats=successfactors)
@@ -66,9 +69,6 @@ _Generated 2026-10-15_
 - 2026-10-14 — **Atoms**: [Software Engineer Intern](https://job-boards.greenhouse.io/atoms/jobs/8356071002)
 - 2026-10-14 — **BNY**: [Product Management Intern](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/83098)
 - 2026-10-14 — **BP**: [Digital, Data, AI & Engineering Intern](https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers/job/GB-London---25-North-Colonnade/Summer-Internship---Digital---Data--AI---Engineering---UK_RQ117081)
-- 2026-10-14 — **BP**: [Subsurface Technology Geologist Intern - Subsurface Technology - Geology](https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers/job/United-Kingdom---Sunbury/Summer-Internship---Subsurface-Technology---Geology_RQ117085)
-- 2026-10-14 — **BP**: [Subsurface Technology Intern](https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers/job/United-Kingdom---Sunbury/Summer-Internship---Subsurface-Technology---Reservoir-Engineering_RQ117086)
-- 2026-10-14 — **BP**: [Summer Intern - Multiple Teams](https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers/job/GB-London---25-North-Colonnade/Summer-Internship---Digital---Data--AI---Engineering---UK_RQ117182)
 
 ## Recently closed
 
@@ -142,6 +142,7 @@ _Generated 2026-10-15_
 - AQR Capital Management — Trading Analyst Intern
 - Arch Capital Group — Data and Analytics Intern
 - Ascension — Data Science Intern
+- Ascension — Master Data Management Intern
 - ASM International — Software Engineering Intern
 - AspenTech — Project Engineering Intern - Digital Grid Management
 - Associated Bank — Corporate Intern - Product Development
@@ -170,6 +171,7 @@ _Generated 2026-10-15_
 - Barnes & Thornburg — Information Technology AI Intern
 - Barr — GIS Specialist Intern
 - BDO Canada — Full-Stack Developer Co-op Intern
+- Bedrock Robotics — Product Intern
 - Bedrock Robotics — Validation & Verification Test Engineer Intern
 - BJC HealthCare — RPA Automation Intern
 - BlackRock — Quantitative Master’s Intern - Investments - Portfolio Management
@@ -183,6 +185,7 @@ _Generated 2026-10-15_
 - Boston Scientific — Equipment Engineering Software Engineer Intern
 - Boston Scientific — Software Development Engineer Intern
 - Boston Scientific — Software Engineer Intern - Interns/Graduates
+- Boston Scientific — Software Engineer Intern - R&D
 - BP — Digital, Data, AI & Engineering Intern
 - British Columbia Investment — AI and Automation Engineer Co-op Intern - Winter 2027 - Summer 2027
 - British Columbia Investment — Investment Risk Analytics Solutions Co-op Intern - Winter 2027
@@ -195,6 +198,8 @@ _Generated 2026-10-15_
 - CACI — Software Engineer Intern
 - CACI — Software/Network Engineering Intern
 - Cadence Design Systems — AI / Agentic AI / GenAI Intern - IT
+- CAI — Data Analyst Intern
+- CAI — Programmer Intern
 - Capital One — Data Analytics Engineering Intern
 - Capital One — Data Scientist Intern
 - Capital One — Full Stack Software Engineer Intern
@@ -300,6 +305,7 @@ _Generated 2026-10-15_
 - Fidelity Investments — Quantitative Analyst Intern - Fixed Income Team
 - Fidelity Investments — Quantitative Research Analyst Intern - Equity Quantitative Research Team
 - Fidelity Investments — Quantitative Research Intern - Multi-Asset Research Team
+- Fidelity Investments — Quantitative Research Intern - Multi-Asset Systematic Research Team
 - Figma — Brand Design Intern (Summer 2027)
 - Figma — Software Engineer Intern (Winter 2027)
 - Figma — Software Engineer Intern - Winter 2027
@@ -364,6 +370,8 @@ _Generated 2026-10-15_
 - Intelcom \| Dragonfly — Routing Data Analytics & Optimization Intern
 - Interstates — Data Analyst Intern
 - Intuit — Fraud & Risk Intern
+- Intuit — Mobile Software Engineer Intern - Android
+- Intuit — Mobile Software Engineer Intern - iOS
 - Invesco — Early Career Intern - Digital Asset Product
 - Invesco — Early Career Intern - Digital Asset Product
 - iRhythm Technologies — Lifecycle Engineering Co-op Intern
@@ -454,7 +462,6 @@ _Generated 2026-10-15_
 - Marvell — Architecture Intern - MS
 - Marvell — Board Product Engineer Intern - BS
 - Marvell — Board Product Engineer Intern - BS
-- Marvell — Data Center Silicon Hardware Engineering Intern - Winter 2027
 - Marvell — Product Engineer Intern
 - Marvell — Product Engineer Intern
 - Marvell — Test Solutions Engineering Intern - BS - Post-Silicon Hardware Validation
@@ -536,6 +543,7 @@ _Generated 2026-10-15_
 - NiSource — Change Management Analytics Intern
 - NiSource — People Analytics Intern
 - NiSource — Software Engineer Intern
+- NJ Department of Environmental Protection — Environmental Services Intern
 - Noblis — Data Science and Innovation Intern
 - North Atlantic Industries — Electrical Engineer Intern - Test Systems
 - North Atlantic Industries — Electrical Engineer Qualification Test Intern
@@ -644,7 +652,6 @@ _Generated 2026-10-15_
 - Robinhood — Data Science Intern
 - Robinhood — Data Science Intern (Summer 2027)
 - Robinhood — Finance and Strategy Intern (Summer 2027)
-- Robinhood — Fraud Operations Intern (Summer 2027)
 - Robinhood — Futures & Prediction Market Operations Intern (Summer 2027)
 - Robinhood — Growth Marketing Intern (Summer 2027)
 - Robinhood — Offensive Security Intern (Summer 2027)
@@ -761,6 +768,7 @@ _Generated 2026-10-15_
 - Tesla — Fullstack C++ Engineer Intern - Vehicle User Interface
 - Tesla — Hardware Validation Engineer Intern - Optimus
 - Tesla — Internship - Electronic Design Engineer - Optimus - Winter/Spring 2027
+- Tesla — Service Program & Project Management Intern
 - Tesla — Software Engineer Intern - Service Engineering
 - Tessera Labs — Product Manager Intern
 - Texas A&M International University — Information Technology Intern
@@ -796,7 +804,6 @@ _Generated 2026-10-15_
 - Tokyo Electron — Software Engineer Intern
 - Tokyo Electron — Software Engineer Intern - AI Research
 - TRC Companies — Advanced Energy Intern
-- Tyler Technologies — Software Development Intern - Summer 2027
 - U.S. Bank — Engineering Intern
 - U.S. Bank — Product Management Intern
 - U.S. Bank — Quantitative Modeling Intern
@@ -823,6 +830,7 @@ _Generated 2026-10-15_
 - Verizon Communications — Data Science Intern - Network and Technology
 - Verizon Communications — Data Scientist Intern - Fiber Engineering & Operations
 - Vermeer — Test Engineer Intern
+- Vialto Partners — Client Technology Intern
 - Walgreens — Data Science Intern
 - WallStreetQuants — Quantitative Researcher Intern
 - Wawa — Information Technology Development Intern

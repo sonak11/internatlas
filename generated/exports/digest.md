@@ -1,6 +1,6 @@
 # 📬 InternAtlas Weekly Digest — 2026-10-15
 
-## 🆕 New this week (328)
+## 🆕 New this week (331)
 
 - **1Password** — [Data Intern - Product Analytics](https://jobs.ashbyhq.com/1password/412c1aac-13ce-4cc9-9c81-90a9a7a2ee48/application?embed=true) · software-engineering · —
 - **7-Eleven** — [AI Analyst / AI Automation Specialist Intern](https://my7elevenhr.wd12.myworkdayjobs.com/Careers/job/SSC-Irving-TX/ServiceNow-Intern_R26_6017) · ai · —
@@ -180,6 +180,7 @@
 - **Marsh** — [Finance Innovation & Technology Intern - Master's Finance Innovation & Technology](https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/New-York---1166/Summer-Intern--Master-s-Finance-Innovation---Technology--FIT---New-York--2027_R_369586) · software-engineering · —
 - **Medpace** — [Python Developer Intern](https://careers.medpace.com/jobs/13059?icims=1) · software-engineering · —
 - **Metropolitan Transportation Authority** — [Data Analyst Emerging Talent Intern - Supplier Relations](https://jobs.jobvite.com/metropolitantransportationauthority/job/oOvWAfwz?nl=1&nl=1&fr=false) · software-engineering · —
+- **Microsoft** — [Researcher Intern - Coreai](https://apply.careers.microsoft.com/careers/job/1970393557027387) · research · —
 - **Mitsubishi UFG** — [Summer Analyst Programme: Global Markets Intern - Markets Engineering](https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/London/XMLNAME-2027-MUFG-UK-Summer-Analyst-Programme--Global-Markets---Markets-Engineering_10080069-WD-1) · software-engineering · —
 - **Modernizing Medicine** — [Software Engineer Intern](https://modmed.wd501.myworkdayjobs.com/ModMed12/job/Boca-Raton-FL/Software-Engineering-Intern_R5148) · software-engineering · —
 - **MongoDB** — [2027 - Software Engineer Intern, Dublin - 6 Month Internship](https://www.mongodb.com/careers/job/?gh_jid=8258279) · software-engineering · —
@@ -219,6 +220,8 @@
 - **Northrop Grumman** — [Software Embedded Engineer Intern](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Annapolis/XMLNAME-2027-S-W-Embedded-Engineering-Intern---Annapolis-MD_R10254697) · embedded · —
 - **Northrop Grumman** — [Software Engineer Intern](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-McClellan/XMLNAME-2027-Software-Engineer-Intern---McClellan-CA_R10255207) · software-engineering · —
 - **Northrop Grumman** — [Systems Engineer Intern](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-McClellan/XMLNAME-2027-Systems-Engineer-Intern---McClellan-CA_R10255163) · software-engineering · —
+- **PA Consulting** — [Electronic Engineer Intern](https://jobs.smartrecruiters.com/PAConsulting/744000155687129) · software-engineering · —
+- **PA Consulting** — [Software and AI Systems Intern](https://jobs.smartrecruiters.com/PAConsulting/744000155685700) · ai · —
 - **PSP Investments** — [GenAI and Digital Workplace Intern](https://investpsp.wd3.myworkdayjobs.com/psp_careers/job/Montreal/Intern--GenAI-and-Digital-Workplace--January---April-2027-_R5003) · software-engineering · —
 - **Panasonic Holdings** — [Panasonic Transformation Group Intern](https://careers.na.panasonic.com/jobs/51652?icims=1) · software-engineering · —
 - **Panasonic Holdings** — [Panasonic Transformation Group Intern](https://careers.na.panasonic.com/jobs/51646?icims=1) · software-engineering · —
