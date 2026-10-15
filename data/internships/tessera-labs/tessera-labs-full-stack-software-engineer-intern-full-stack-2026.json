@@ -1,20 +1,24 @@
 {
   "schema_version": "1.0",
-  "id": "imc-trading-machine-learning-research-intern-summer-2027-sydney-2027",
+  "id": "tessera-labs-full-stack-software-engineer-intern-full-stack-2026",
   "company": {
-    "name": "IMC Trading",
-    "slug": "imc-trading",
-    "career_page": "https://www.imc.com/us/careers"
+    "name": "Tessera Labs",
+    "slug": "tessera-labs"
   },
-  "role": "Machine Learning Research Intern - Summer 2027 - Sydney",
-  "category": "machine-learning",
-  "apply_url": "https://job-boards.eu.greenhouse.io/imc/jobs/4956547101",
-  "season": "summer",
-  "year": 2027,
+  "role": "Full Stack Software Engineer Intern - Full Stack",
+  "category": "software-engineering",
+  "apply_url": "https://jobs.ashbyhq.com/tessera-labs/892bb150-8c98-47f4-a8b6-93633ecb2ea7/application?embed=true",
+  "season": "fall",
+  "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Sydney",
+      "city": "San Jose",
+      "state": "CA",
+      "country": "USA"
+    },
+    {
+      "city": "NYC",
       "country": "USA"
     }
   ],
@@ -40,13 +44,14 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-24",
-    "discovered": "2026-08-24",
+    "posted": "2026-10-15",
+    "discovered": "2026-10-15",
     "last_verified": "2026-10-15"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:ats"
+    "src:simplify",
+    "remote-available"
   ]
 }
