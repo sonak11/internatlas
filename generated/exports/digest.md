@@ -1,6 +1,6 @@
 # 📬 InternAtlas Weekly Digest — 2026-10-15
 
-## 🆕 New this week (342)
+## 🆕 New this week (345)
 
 - **1Password** — [Data Intern - Product Analytics](https://jobs.ashbyhq.com/1password/412c1aac-13ce-4cc9-9c81-90a9a7a2ee48/application?embed=true) · software-engineering · —
 - **7-Eleven** — [AI Analyst / AI Automation Specialist Intern](https://my7elevenhr.wd12.myworkdayjobs.com/Careers/job/SSC-Irving-TX/ServiceNow-Intern_R26_6017) · ai · —
@@ -86,6 +86,9 @@
 - **DoorDash** — [Software Engineer Intern](https://job-boards.greenhouse.io/doordashusa/jobs/8263774) · software-engineering · —
 - **Draper** — [Acoustic and Vibration Technologies Intern - Summer 2027](https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Acoustic-and-Vibration-Technologies-Intern--Summer-2027-_JR003003-1) · software-engineering · —
 - **DriveTime** — [Data Analytics Intern](https://drivetime.wd1.myworkdayjobs.com/DriveTime/job/1720-W-Rio-Salado-Pkwy-Tempe-AZ-85281/Analyst-Intern--Summer-2027-_R16502) · software-engineering · —
+- **Duolingo** — [Data Scientist, Intern](https://careers.duolingo.com/jobs/8888721002?gh_jid=8888721002) · data-science · —
+- **Duolingo** — [Data Scientist, Intern (PhD)](https://careers.duolingo.com/jobs/8888848002?gh_jid=8888848002) · data-science · —
+- **Duolingo** — [Product Manager, MBA Intern](https://careers.duolingo.com/jobs/8888045002?gh_jid=8888045002) · product · —
 - **Elanco** — [Pet Health Sales Excellence Intern - AI Innovation & Enablement](https://elanco.wd5.myworkdayjobs.com/en-US/External_Career/job/Indianapolis-IN/US-Pet-Health-Sales-Excellence-Intern---AI-Innovation---Enablement--Summer-2027-_R0027467) · ai · —
 - **Electronic Arts** — [C++ Software Engineer Intern](https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern-Summer-2027-8-months-UFC/216226) · software-engineering · —
 - **Electronic Arts** — [Data and AI Engineer Intern](https://jobs.ea.com/en_US/careers/JobDetail/Data-AI-Engineering-Intern-Summer-2027/216238) · ai · —

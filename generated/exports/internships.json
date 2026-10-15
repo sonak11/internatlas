@@ -1,6 +1,6 @@
 {
   "generated": "2026-10-15",
-  "count": 6227,
+  "count": 6230,
   "internships": [
     {
       "schema_version": "1.0",
@@ -14009,7 +14009,7 @@
         "discovered": "2026-09-26",
         "last_verified": "2026-10-15"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -29172,7 +29172,7 @@
         "discovered": "2026-09-19",
         "last_verified": "2026-10-15"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -40487,7 +40487,7 @@
         "discovered": "2026-09-08",
         "last_verified": "2026-10-15"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -58345,7 +58345,7 @@
         "discovered": "2026-10-13",
         "last_verified": "2026-10-15"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -81494,7 +81494,7 @@
         "discovered": "2026-09-11",
         "last_verified": "2026-10-15"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -86369,7 +86369,7 @@
         "discovered": "2026-10-01",
         "last_verified": "2026-10-15"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -88049,6 +88049,112 @@
     },
     {
       "schema_version": "1.0",
+      "id": "duolingo-data-scientist-intern-2027",
+      "company": {
+        "name": "Duolingo",
+        "slug": "duolingo",
+        "career_page": "https://careers.duolingo.com/"
+      },
+      "role": "Data Scientist, Intern",
+      "category": "data-science",
+      "apply_url": "https://careers.duolingo.com/jobs/8888721002?gh_jid=8888721002",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "New York",
+          "state": "NY",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-15",
+        "discovered": "2026-10-15",
+        "last_verified": "2026-10-15"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "duolingo-data-scientist-intern-phd-2027",
+      "company": {
+        "name": "Duolingo",
+        "slug": "duolingo",
+        "career_page": "https://careers.duolingo.com/"
+      },
+      "role": "Data Scientist, Intern (PhD)",
+      "category": "data-science",
+      "apply_url": "https://careers.duolingo.com/jobs/8888848002?gh_jid=8888848002",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "New York",
+          "state": "NY",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-15",
+        "discovered": "2026-10-15",
+        "last_verified": "2026-10-15"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "duolingo-illustrator-intern-2027",
       "company": {
         "name": "Duolingo",
@@ -88092,6 +88198,59 @@
       "dates": {
         "posted": "2026-10-05",
         "discovered": "2026-10-05",
+        "last_verified": "2026-10-15"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "duolingo-product-manager-mba-intern-2027",
+      "company": {
+        "name": "Duolingo",
+        "slug": "duolingo",
+        "career_page": "https://careers.duolingo.com/"
+      },
+      "role": "Product Manager, MBA Intern",
+      "category": "product",
+      "apply_url": "https://careers.duolingo.com/jobs/8888045002?gh_jid=8888045002",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Pittsburgh",
+          "state": "PA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-15",
+        "discovered": "2026-10-15",
         "last_verified": "2026-10-15"
       },
       "status": "open",
@@ -107760,7 +107919,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-10-15"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -115813,7 +115972,7 @@
         "discovered": "2026-10-10",
         "last_verified": "2026-10-15"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -136855,10 +137014,6 @@
           "city": "Chicago",
           "state": "IL",
           "country": "USA"
-        },
-        {
-          "city": "Chicago",
-          "country": "USA"
         }
       ],
       "compensation": {
@@ -147256,7 +147411,7 @@
         "discovered": "2026-09-15",
         "last_verified": "2026-10-15"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -206616,7 +206771,7 @@
         "discovered": "2026-09-08",
         "last_verified": "2026-10-15"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -221659,7 +221814,7 @@
         "discovered": "2026-10-02",
         "last_verified": "2026-10-15"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -222232,7 +222387,7 @@
         "discovered": "2026-09-10",
         "last_verified": "2026-10-15"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -229632,53 +229787,6 @@
     },
     {
       "schema_version": "1.0",
-      "id": "ramp-software-engineer-internship-frontend-2027",
-      "company": {
-        "name": "Ramp",
-        "slug": "ramp",
-        "career_page": "https://ramp.com/careers"
-      },
-      "role": "Software Engineer Internship, Frontend",
-      "category": "software-engineering",
-      "apply_url": "https://jobs.ashbyhq.com/ramp/a13ae586-f4cb-4385-8822-c42b9b54ed74",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "remote",
-      "locations": [],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-09-24",
-        "discovered": "2026-09-24",
-        "last_verified": "2026-10-15"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:ats"
-      ]
-    },
-    {
-      "schema_version": "1.0",
       "id": "ramp-software-engineering-intern-android-2027",
       "company": {
         "name": "Ramp",
@@ -229773,6 +229881,53 @@
       "dates": {
         "posted": "2026-04-09",
         "discovered": "2026-09-24",
+        "last_verified": "2026-10-15"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "ramp-software-engineering-intern-frontend-2027",
+      "company": {
+        "name": "Ramp",
+        "slug": "ramp",
+        "career_page": "https://ramp.com/careers"
+      },
+      "role": "Software Engineering Intern, Frontend",
+      "category": "software-engineering",
+      "apply_url": "https://jobs.ashbyhq.com/ramp/a13ae586-f4cb-4385-8822-c42b9b54ed74",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "remote",
+      "locations": [],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-24",
+        "discovered": "2026-10-15",
         "last_verified": "2026-10-15"
       },
       "status": "open",
@@ -261080,7 +261235,7 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-10-15"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -266109,7 +266264,7 @@
         "discovered": "2026-08-19",
         "last_verified": "2026-10-15"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -267808,7 +267963,7 @@
         "discovered": "2026-10-06",
         "last_verified": "2026-10-15"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -329847,7 +330002,7 @@
         "discovered": "2026-08-14",
         "last_verified": "2026-10-15"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"

@@ -1,18 +1,24 @@
 {
   "schema_version": "1.0",
-  "id": "ramp-software-engineer-internship-frontend-2027",
+  "id": "duolingo-product-manager-mba-intern-2027",
   "company": {
-    "name": "Ramp",
-    "slug": "ramp",
-    "career_page": "https://ramp.com/careers"
+    "name": "Duolingo",
+    "slug": "duolingo",
+    "career_page": "https://careers.duolingo.com/"
   },
-  "role": "Software Engineer Internship, Frontend",
-  "category": "software-engineering",
-  "apply_url": "https://jobs.ashbyhq.com/ramp/a13ae586-f4cb-4385-8822-c42b9b54ed74",
+  "role": "Product Manager, MBA Intern",
+  "category": "product",
+  "apply_url": "https://careers.duolingo.com/jobs/8888045002?gh_jid=8888045002",
   "season": "summer",
   "year": 2027,
-  "work_mode": "remote",
-  "locations": [],
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "Pittsburgh",
+      "state": "PA",
+      "country": "USA"
+    }
+  ],
   "compensation": {
     "currency": "USD",
     "housing_stipend": false,
@@ -35,8 +41,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-24",
-    "discovered": "2026-09-24",
+    "posted": "2026-10-15",
+    "discovered": "2026-10-15",
     "last_verified": "2026-10-15"
   },
   "status": "open",
