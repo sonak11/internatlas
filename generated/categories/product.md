@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🧭 Product Internships
 
-**203** tracked · **113** open now
+**204** tracked · **114** open now
 
 ## Current openings
 
@@ -62,6 +62,7 @@
 | [GE Vernova](generated/companies/ge-vernova.md) | [Product Management Intern - Controls Lifecare Services](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Longmont/Product-Management-Intern---Controls-Lifecare-Services_R5050801-1) | Longmont, CO +1 | Onsite | 2026-08-30 | Rolling | 🟢 Open | ❔ |
 | [Gemini](generated/companies/gemini.md) | [Product Management Intern](https://boards.greenhouse.io/embed/job_app?for=gemini&token=8214332&gh_jid=8214332) | NYC | Onsite | 2026-09-18 | Rolling | 🟢 Open | ❔ |
 | [General Motors](generated/companies/general-motors.md) | [Product Management Intern - Digital Product](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Digital-Product--Product-Management--MBA-_JR-202620538) | Austin, TX +1 | Onsite | 2026-09-18 | Rolling | 🟢 Open | ❔ |
+| [General Motors](generated/companies/general-motors.md) | [Product Management Intern - Vehicle Autonomy](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Intern---Product-Management--Vehicle-Autonomy--MS-or-MBA-_JR-202622449) | Sunnyvale, CA | Onsite | 2026-10-14 | Rolling | 🟢 Open | ❔ |
 | [Google](generated/companies/google.md) | [Associate Product Manager Intern](https://www.google.com/about/careers/applications/jobs/results/103464941339452102) | London | Onsite | 2026-10-02 | Rolling | 🟢 Open | ❔ |
 | [Gordon Food Service](generated/companies/gordon-food-service.md) | [Digital Product Management Intern](https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Wyoming-Michigan/Digital-Product-Management-Internship_R-57336) | Wyoming, MI | Onsite | 2026-09-17 | Rolling | 🟢 Open | ❔ |
 | [Guardian Life](generated/companies/guardian-life.md) | [Summer Intern - Group Benefits Product Management](https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/Boston/XMLNAME-2027-Guardian-Summer-Intern--Group-Benefits-Product-Management_R000110299) | Boston, MA | Onsite | 2026-09-18 | Rolling | 🟢 Open | ❔ |
@@ -236,6 +237,7 @@
 - DTCC (2)
 - Electronic Arts (2)
 - Gemini (2)
+- General Motors (2)
 - Google (2)
 - Illinois Tool Works (2)
 - Medline (2)
@@ -264,7 +266,6 @@
 - Dick's Sporting Goods (1)
 - Epic Games (1)
 - Ernst & Young (1)
-- General Motors (1)
 - Gordon Food Service (1)
 - Guardian Life (1)
 - H&R Block (1)

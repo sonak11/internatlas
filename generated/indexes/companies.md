@@ -526,7 +526,7 @@
 | [General Dynamics Mission Systems](../companies/general-dynamics-mission-systems.md) | 4/5 | security, software-engineering |
 | [General Intuition &amp; Medal](../companies/general-intuition-amp-medal.md) | 0/1 | software-engineering |
 | [General Matter](../companies/general-matter.md) | 2/3 | embedded, software-engineering |
-| [General Motors](../companies/general-motors.md) | 23/34 | ai, design, embedded, machine-learning, product, research, software-engineering |
+| [General Motors](../companies/general-motors.md) | 24/35 | ai, design, embedded, machine-learning, product, research, software-engineering |
 | [Genesis Molecular AI](../companies/genesis-molecular-ai.md) | 0/3 | machine-learning, software-engineering |
 | [Geneva Trading](../companies/geneva-trading.md) | 1/2 | ai, quant |
 | [Genworth Financial](../companies/genworth-financial.md) | 0/6 | data-science, software-engineering |
@@ -981,7 +981,7 @@
 | [QuEra Computing](../companies/quera-computing.md) | 0/1 | data-engineering |
 | [Quadrillion](../companies/quadrillion.md) | 2/3 | research, software-engineering |
 | [Quadrillion Labs](../companies/quadrillion-labs.md) | 1/1 | software-engineering |
-| [Qualcomm](../companies/qualcomm.md) | 10/14 | ai, design, embedded, hardware, machine-learning, software-engineering |
+| [Qualcomm](../companies/qualcomm.md) | 9/14 | ai, design, embedded, hardware, machine-learning, software-engineering |
 | [Qualified Health](../companies/qualified-health.md) | 0/1 | ai |
 | [Qualtrics](../companies/qualtrics.md) | 0/1 | software-engineering |
 | [Quantbot Technologies](../companies/quantbot-technologies.md) | 5/7 | machine-learning, quant, software-engineering |

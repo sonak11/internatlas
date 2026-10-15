@@ -8,7 +8,7 @@
 
 No dead links, no generic careers pages. Just current openings, newest first, with the date each one was posted.
 
-![summer 2027](https://img.shields.io/badge/summer%202027-3794-blue?style=for-the-badge) ![open now](https://img.shields.io/badge/open%20now-2394-brightgreen?style=for-the-badge) ![companies](https://img.shields.io/badge/companies-1398-purple?style=for-the-badge) ![visa sponsors](https://img.shields.io/badge/visa%20sponsors-30-orange?style=for-the-badge) ![remote roles](https://img.shields.io/badge/remote%20roles-104-teal?style=for-the-badge) ![sync](https://img.shields.io/badge/sync-hourly-success?style=for-the-badge) ![updated](https://img.shields.io/badge/updated-2026--10--14%207:06%20PM%20EDT-lightgrey?style=for-the-badge)
+![summer 2027](https://img.shields.io/badge/summer%202027-3795-blue?style=for-the-badge) ![open now](https://img.shields.io/badge/open%20now-2394-brightgreen?style=for-the-badge) ![companies](https://img.shields.io/badge/companies-1398-purple?style=for-the-badge) ![visa sponsors](https://img.shields.io/badge/visa%20sponsors-30-orange?style=for-the-badge) ![remote roles](https://img.shields.io/badge/remote%20roles-104-teal?style=for-the-badge) ![sync](https://img.shields.io/badge/sync-hourly-success?style=for-the-badge) ![updated](https://img.shields.io/badge/updated-2026--10--14%209:23%20PM%20EDT-lightgrey?style=for-the-badge)
 
 [**📋 Browse listings**](#-summer-2027-internships) · [**🗓 Other terms**](#-other-open-terms) · [**➕ Add one**](CONTRIBUTING.md) · [**🔗 Sources**](SOURCES.md)
 
@@ -27,7 +27,7 @@ No dead links, no generic careers pages. Just current openings, newest first, wi
 
 ## ☀️ Summer 2027 internships
 
-**3794 open right now**, grouped by category with the newest postings first. Every **Role** link goes straight to the live application page; the **Posted** column shows when it went up (`*` = the date we first saw it, when the source didn't publish one).
+**3795 open right now**, grouped by category with the newest postings first. Every **Role** link goes straight to the live application page; the **Posted** column shows when it went up (`*` = the date we first saw it, when the source didn't publish one).
 
 ### 💻 Software Engineering (2229 · 1302 open)
 
@@ -3283,7 +3283,7 @@ No dead links, no generic careers pages. Just current openings, newest first, wi
 | [Susquehanna International Group (SIG)](generated/companies/susquehanna-international-group-sig.md) | [Quantitative Trader Intern](https://careers-sig.icims.com/jobs/10717/job?mobile=true&needsRedirect=false) | Ardmore, PA | Onsite | 2026-04-17 | Rolling | 🔴 Closed | ❔ |
 | [Jump Trading](generated/companies/jump-trading.md) | [Campus Trading Team Software Engineer  (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7565728) | Hong Kong | Onsite | 2026-02-05 | Rolling | 🔴 Closed | ❔ |
 
-### 🔩 Hardware (149 · 106 open)
+### 🔩 Hardware (149 · 105 open)
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
@@ -3315,7 +3315,6 @@ No dead links, no generic careers pages. Just current openings, newest first, wi
 | [Marvell](generated/companies/marvell.md) | [Data Center Silicon Hardware Engineering Intern Co-op - BS](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Ottawa-Canada/Data-Center-Silicon-Hardware-Engineering-Intern---BS---2027-Co-Op_2604525) | Toronto +1 | Onsite | 2026-09-24 | Rolling | 🟢 Open | ❔ |
 | [Two Sigma](generated/companies/two-sigma.md) | [Hardware Engineering Intern](https://twosigma.avature.net/careers/JobDetail/14289) | NYC | Onsite | 2026-09-22 | Rolling | 🟢 Open | ❔ |
 | [Qualcomm](generated/companies/qualcomm.md) | [Silicon Validation Intern](https://qualcomm.eightfold.ai/careers/job/446721143274) | Toronto | Onsite | 2026-09-18 | Rolling | 🟢 Open | ❔ |
-| [Qualcomm](generated/companies/qualcomm.md) | [Analog Design Intern - Hardware Engineering](https://qualcomm.eightfold.ai/careers/job/446721140914) | Toronto | Onsite | 2026-09-17 | Rolling | 🟢 Open | ❔ |
 | [CesiumAstro](generated/companies/cesiumastro.md) | [Electrical Engineer Intern - FPGA](https://jobs.lever.co/CesiumAstro/e6d87528-5da1-4970-9e42-7b224cfa63a9/apply) | Westminster, CO | Onsite | 2026-09-16 | Rolling | 🟢 Open | ❔ |
 | [CesiumAstro](generated/companies/cesiumastro.md) | [Electrical Engineer Intern - Hardware](https://jobs.lever.co/CesiumAstro/ccb0f99f-0cc7-4517-8d1c-faeca53b5e5c/apply) | Westminster, CO | Onsite | 2026-09-16 | Rolling | 🟢 Open | ❔ |
 | [CesiumAstro](generated/companies/cesiumastro.md) | [Electrical Engineer Intern - Hardware](https://jobs.lever.co/CesiumAstro/6a953cbc-af69-452c-b357-1a0a3db80bbf/apply) | Austin, TX | Onsite | 2026-09-16 | Rolling | 🟢 Open | ❔ |
@@ -3398,6 +3397,7 @@ No dead links, no generic careers pages. Just current openings, newest first, wi
 | [Leidos](generated/companies/leidos.md) | [Electrical Hardware Design Engineer Intern](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Electrical-Hardware-Design-Engineering-Intern_R-00193413) | Huntsville, AL | Onsite | 2026-09-29 | Rolling | 🔴 Closed | ❔ |
 | [Efficient Computer](generated/companies/efficient-computer.md) | [Hardware/Silicon Intern](https://job-boards.greenhouse.io/efficientcomputer/jobs/4421539009) | SF +3 | Onsite | 2026-09-25 | Rolling | 🔴 Closed | ❔ |
 | [Qualcomm](generated/companies/qualcomm.md) | [Electrical and Optical Systems Intern - Silicon Validation Engineer - Interim Engineering Intern - Hardware](https://qualcomm.eightfold.ai/careers/job/446721156176) | Ottawa | Onsite | 2026-09-18 | Rolling | 🔴 Closed | ❔ |
+| [Qualcomm](generated/companies/qualcomm.md) | [Analog Design Intern - Hardware Engineering](https://qualcomm.eightfold.ai/careers/job/446721140914) | Toronto | Onsite | 2026-09-17 | Rolling | 🔴 Closed | ❔ |
 | [RTX](generated/companies/rtx.md) | [FPGA Design Intern](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-121--350-Collins-Rd-NE--BLDG-121/FPGA-Design-Intern--Summer-2027-_01870290) | Cedar Rapids, IA | Onsite | 2026-09-17 | Rolling | 🔴 Closed | ❔ |
 | [Anduril](generated/companies/anduril.md) | [2027 Manufacturing Optimization Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5236893007?gh_jid=5236893007) | Ashville | Onsite | 2026-09-14 | Rolling | 🔴 Closed | ❔ |
 | [Google](generated/companies/google.md) | [Hardware Engineer Intern](https://www.google.com/about/careers/applications/jobs/results/122803627516404422) | Palo Alto, CA +30 | Onsite | 2026-09-14 | Rolling | 🔴 Closed | ❔ |
@@ -3553,11 +3553,12 @@ No dead links, no generic careers pages. Just current openings, newest first, wi
 | [ByteDance](generated/companies/bytedance.md) | [Software Engineer Intern - Traffic Infrastructure](https://jobs.bytedance.com/en/position/7672626707586746629/detail) | San Jose, CA | Onsite | 2026-08-15 | Rolling | 🔴 Closed | ❔ |
 | [TikTok](generated/companies/tiktok.md) | [Product Manager Intern - Product Infrastructure - Account](https://lifeattiktok.com/search/7670009830602721589) | San Jose, CA | Onsite | 2026-08-06 | Rolling | 🔴 Closed | ❔ |
 
-### 🧭 Product (153 · 99 open)
+### 🧭 Product (154 · 100 open)
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
 | [BNY](generated/companies/bny.md) | [Product Management Intern](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/83098) | Greater Manchester | Onsite | 2026-10-14 | Rolling | 🟢 Open | ❔ |
+| [General Motors](generated/companies/general-motors.md) | [Product Management Intern - Vehicle Autonomy](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Intern---Product-Management--Vehicle-Autonomy--MS-or-MBA-_JR-202622449) | Sunnyvale, CA | Onsite | 2026-10-14 | Rolling | 🟢 Open | ❔ |
 | [ADT](generated/companies/adt.md) | [Product Management & Product Operations Intern](https://fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3022393) | Boca Raton, FL | Onsite | 2026-10-12 | Rolling | 🟢 Open | ❔ |
 | [TikTok](generated/companies/tiktok.md) | [Creative Product Manager Intern - Multiple Teams](https://lifeattiktok.com/search/7693732178706974981) | San Jose, CA | Onsite | 2026-10-09 | Rolling | 🟢 Open | ❔ |
 | [Vertiv](generated/companies/vertiv.md) | [Energy Storage Product Management Intern](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279379) | Delaware, OH | Onsite | 2026-10-09 | Rolling | 🟢 Open | ❔ |
@@ -6332,7 +6333,7 @@ Pulled automatically every hour: company ATS boards (Greenhouse, Lever, Ashby) f
 | Source | Listings | Type |
 |---|---:|---|
 | Company ATS boards (Greenhouse · Lever · Ashby) | 384 | Direct API |
-| [SimplifyJobs / Summer Internships](https://github.com/SimplifyJobs/Summer2026-Internships) | 5476 | Community feed |
+| [SimplifyJobs / Summer Internships](https://github.com/SimplifyJobs/Summer2026-Internships) | 5477 | Community feed |
 | [vanshb03 / Summer 2027 Internships](https://github.com/vanshb03/Summer2027-Internships) | 345 | Community feed |
 
 ## 🤝 Add a listing
