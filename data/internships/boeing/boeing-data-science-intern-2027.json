@@ -1,0 +1,55 @@
+{
+  "schema_version": "1.0",
+  "id": "boeing-data-science-intern-2027",
+  "company": {
+    "name": "Boeing",
+    "slug": "boeing"
+  },
+  "role": "Data Science Intern",
+  "category": "data-science",
+  "apply_url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/CAN---Richmond-Canada/Data-Science-Intern_JR2026526159-1",
+  "season": "winter",
+  "year": 2027,
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "Vancouver",
+      "country": "BC"
+    },
+    {
+      "city": "Richmond",
+      "country": "BC"
+    }
+  ],
+  "compensation": {
+    "currency": "USD",
+    "housing_stipend": false,
+    "relocation_assistance": false
+  },
+  "eligibility": {
+    "graduation_years": [],
+    "degree_levels": [],
+    "citizenship_required": false,
+    "security_clearance_required": false,
+    "visa_sponsorship": "unknown"
+  },
+  "interview": {},
+  "tech": {
+    "required_skills": [],
+    "preferred_skills": [],
+    "languages": [],
+    "frameworks": [],
+    "cloud_platforms": [],
+    "resume_keywords": []
+  },
+  "dates": {
+    "posted": "2026-10-15",
+    "discovered": "2026-10-15",
+    "last_verified": "2026-10-15"
+  },
+  "status": "open",
+  "tags": [
+    "auto-ingested",
+    "src:simplify"
+  ]
+}

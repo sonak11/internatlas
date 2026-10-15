@@ -1,6 +1,6 @@
 {
   "generated": "2026-10-15",
-  "count": 6216,
+  "count": 6227,
   "internships": [
     {
       "schema_version": "1.0",
@@ -4229,6 +4229,58 @@
         "last_verified": "2026-07-30"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "airbnb-strategic-finance-analytics-intern-2027",
+      "company": {
+        "name": "Airbnb",
+        "slug": "airbnb",
+        "career_page": "https://careers.airbnb.com/"
+      },
+      "role": "Strategic Finance & Analytics Intern",
+      "category": "software-engineering",
+      "apply_url": "https://careers.airbnb.com/positions/8285171?gh_jid=8285171",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "United States",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-15",
+        "discovered": "2026-10-15",
+        "last_verified": "2026-10-15"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:ats"
@@ -12488,7 +12540,7 @@
         "discovered": "2026-09-11",
         "last_verified": "2026-10-15"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -31814,6 +31866,122 @@
     },
     {
       "schema_version": "1.0",
+      "id": "autodesk-phd-researcher-intern-agentic-3d-modeling-in-immersive-envir-2027-f2bbe0",
+      "company": {
+        "name": "Autodesk",
+        "slug": "autodesk"
+      },
+      "role": "PhD Researcher Intern - Agentic 3D Modeling in Immersive Environments",
+      "category": "research",
+      "apply_url": "https://autodesk.wd1.myworkdayjobs.com/uni/job/New-York-USA---Remote/PhD-Researcher--Agentic-3D-Modeling-in-Immersive-Environments_26WD101374",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Boston",
+          "state": "MA",
+          "country": "USA"
+        },
+        {
+          "city": "NYC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-15",
+        "discovered": "2026-10-15",
+        "last_verified": "2026-10-15"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "autodesk-phd-researcher-intern-agentic-3d-modeling-in-immersive-envir-2027",
+      "company": {
+        "name": "Autodesk",
+        "slug": "autodesk"
+      },
+      "role": "PhD Researcher Intern - Agentic 3D Modeling in Immersive Environments",
+      "category": "research",
+      "apply_url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/New-York-USA---Remote/PhD-Researcher--Agentic-3D-Modeling-in-Immersive-Environments_26WD101374-1",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Boston",
+          "state": "MA",
+          "country": "USA"
+        },
+        {
+          "city": "NYC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-15",
+        "discovered": "2026-10-15",
+        "last_verified": "2026-10-15"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "autodesk-phd-researcher-intern-machine-learning-for-construction-2027",
       "company": {
         "name": "Autodesk",
@@ -37694,7 +37862,7 @@
         "discovered": "2026-10-02",
         "last_verified": "2026-10-15"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -41505,6 +41673,116 @@
       "tags": [
         "auto-ingested",
         "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "boeing-data-science-intern-2027-de2a04",
+      "company": {
+        "name": "Boeing",
+        "slug": "boeing"
+      },
+      "role": "Data Science Intern",
+      "category": "data-science",
+      "apply_url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/CAN---Richmond-Canada/Data-Science-Intern_JR2026526159",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Vancouver",
+          "country": "BC"
+        },
+        {
+          "city": "Richmond",
+          "country": "BC"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-15",
+        "discovered": "2026-10-15",
+        "last_verified": "2026-10-15"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "boeing-data-science-intern-2027",
+      "company": {
+        "name": "Boeing",
+        "slug": "boeing"
+      },
+      "role": "Data Science Intern",
+      "category": "data-science",
+      "apply_url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/CAN---Richmond-Canada/Data-Science-Intern_JR2026526159-1",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Vancouver",
+          "country": "BC"
+        },
+        {
+          "city": "Richmond",
+          "country": "BC"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-15",
+        "discovered": "2026-10-15",
+        "last_verified": "2026-10-15"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
       ]
     },
     {
@@ -55804,7 +56082,7 @@
         "discovered": "2026-09-15",
         "last_verified": "2026-10-15"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -62068,7 +62346,7 @@
         "discovered": "2026-09-17",
         "last_verified": "2026-10-15"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -69275,7 +69553,7 @@
         "discovered": "2026-09-19",
         "last_verified": "2026-10-15"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -82025,6 +82303,113 @@
     },
     {
       "schema_version": "1.0",
+      "id": "deloitte-audit-assurance-intern-ai-and-data-science-2027",
+      "company": {
+        "name": "Deloitte",
+        "slug": "deloitte"
+      },
+      "role": "Audit & Assurance Intern - AI and Data Science",
+      "category": "ai",
+      "apply_url": "https://apply.deloitte.com/en_US/careers/JobDetail/Audit-Assurance-Intern-AI-and-Data-Science-Winter-2027/361857",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "state": "LA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-15",
+        "discovered": "2026-10-15",
+        "last_verified": "2026-10-15"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "deloitte-audit-assurance-intern-valuation-analytics-2027",
+      "company": {
+        "name": "Deloitte",
+        "slug": "deloitte"
+      },
+      "role": "Audit & Assurance Intern - Valuation & Analytics",
+      "category": "software-engineering",
+      "apply_url": "https://apply.deloitte.com/en_US/careers/JobDetail/Audit-Assurance-Intern-Valuation-Analytics-Winter-2027/361853",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Atlanta",
+          "state": "GA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-15",
+        "discovered": "2026-10-15",
+        "last_verified": "2026-10-15"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "deloitte-data-ai-solutions-engineering-summer-scholar-intern-2027",
       "company": {
         "name": "Deloitte",
@@ -88788,7 +89173,7 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-10-15"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -88907,7 +89292,7 @@
         "discovered": "2026-10-04",
         "last_verified": "2026-10-15"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -88959,7 +89344,7 @@
         "discovered": "2026-09-01",
         "last_verified": "2026-10-15"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -98624,6 +99009,59 @@
     },
     {
       "schema_version": "1.0",
+      "id": "expedia-group-applied-science-intern-2027-42614e",
+      "company": {
+        "name": "Expedia Group",
+        "slug": "expedia-group"
+      },
+      "role": "Applied Science Intern",
+      "category": "software-engineering",
+      "apply_url": "https://expedia.wd108.myworkdayjobs.com/private/job/UK---London/Applied-Science-Intern---Masters---2027---London_R-110540",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "London",
+          "country": "UK"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-15",
+        "discovered": "2026-10-15",
+        "last_verified": "2026-10-15"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "expedia-group-applied-science-intern-2027-786d9f",
       "company": {
         "name": "Expedia Group",
@@ -98944,6 +99382,59 @@
     },
     {
       "schema_version": "1.0",
+      "id": "expedia-group-mobile-engineer-intern-2027-c42ac1",
+      "company": {
+        "name": "Expedia Group",
+        "slug": "expedia-group"
+      },
+      "role": "Mobile Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://expedia.wd108.myworkdayjobs.com/private/job/UK---London/Mobile-Engineering-Intern---2027---London_R-110545",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "London",
+          "country": "UK"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-15",
+        "discovered": "2026-10-15",
+        "last_verified": "2026-10-15"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "expedia-group-mobile-engineer-intern-2027",
       "company": {
         "name": "Expedia Group",
@@ -98998,6 +99489,70 @@
       "dates": {
         "posted": "2026-10-05",
         "discovered": "2026-10-06",
+        "last_verified": "2026-10-15"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "expedia-group-software-development-engineer-intern-2027-cc8e0c",
+      "company": {
+        "name": "Expedia Group",
+        "slug": "expedia-group"
+      },
+      "role": "Software Development Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://expedia.wd108.myworkdayjobs.com/private/job/Washington---Seattle-Campus/Software-Development-Engineering-Intern---2027---Austin--San-Jose--Seattle_R-110311",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Seattle",
+          "state": "WA",
+          "country": "USA"
+        },
+        {
+          "city": "Austin",
+          "state": "TX",
+          "country": "USA"
+        },
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-05",
+        "discovered": "2026-10-15",
         "last_verified": "2026-10-15"
       },
       "status": "open",
@@ -99079,25 +99634,14 @@
       },
       "role": "Software Development Engineer Intern",
       "category": "software-engineering",
-      "apply_url": "https://expedia.wd108.myworkdayjobs.com/private/job/Washington---Seattle-Campus/Software-Development-Engineering-Intern---2027---Austin--San-Jose--Seattle_R-110311",
+      "apply_url": "https://expedia.wd108.myworkdayjobs.com/private/job/UK---London/Software-Development-Engineering-Intern---June-2027---London_R-110551",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
       "locations": [
         {
-          "city": "Seattle",
-          "state": "WA",
-          "country": "USA"
-        },
-        {
-          "city": "Austin",
-          "state": "TX",
-          "country": "USA"
-        },
-        {
-          "city": "San Jose",
-          "state": "CA",
-          "country": "USA"
+          "city": "London",
+          "country": "UK"
         }
       ],
       "compensation": {
@@ -99124,7 +99668,7 @@
         "resume_keywords": []
       },
       "dates": {
-        "posted": "2026-10-05",
+        "posted": "2026-10-15",
         "discovered": "2026-10-06",
         "last_verified": "2026-10-15"
       },
@@ -108633,7 +109177,7 @@
         "discovered": "2026-10-02",
         "last_verified": "2026-10-15"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -113140,7 +113684,7 @@
         "discovered": "2026-10-13",
         "last_verified": "2026-10-15"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -113194,7 +113738,7 @@
         "discovered": "2026-10-13",
         "last_verified": "2026-10-15"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -118587,7 +119131,7 @@
         "discovered": "2026-08-27",
         "last_verified": "2026-10-15"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -118692,7 +119236,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-10-15"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -118745,7 +119289,7 @@
         "discovered": "2026-10-11",
         "last_verified": "2026-10-15"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -118798,7 +119342,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-10-15"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -118850,7 +119394,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-15"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -118902,7 +119446,7 @@
         "discovered": "2026-10-06",
         "last_verified": "2026-10-15"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -118956,7 +119500,7 @@
         "discovered": "2026-09-16",
         "last_verified": "2026-10-15"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -119009,7 +119553,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-15"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -119060,7 +119604,7 @@
         "discovered": "2026-10-12",
         "last_verified": "2026-10-15"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -119114,7 +119658,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-15"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -119165,7 +119709,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-15"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -119216,7 +119760,7 @@
         "discovered": "2026-10-10",
         "last_verified": "2026-10-15"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -119267,7 +119811,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-10-15"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -119319,7 +119863,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-15"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -119370,7 +119914,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-15"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -119579,7 +120123,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-15"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -119633,7 +120177,7 @@
         "discovered": "2026-10-11",
         "last_verified": "2026-10-15"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -119740,7 +120284,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-15"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -119794,7 +120338,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-10-15"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -119896,7 +120440,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-15"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -120051,7 +120595,7 @@
         "discovered": "2026-08-29",
         "last_verified": "2026-10-15"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -120104,7 +120648,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-10-15"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -221063,7 +221607,7 @@
         "discovered": "2026-10-05",
         "last_verified": "2026-10-15"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -243723,7 +244267,7 @@
         "discovered": "2026-08-26",
         "last_verified": "2026-10-15"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -270644,7 +271188,7 @@
         "discovered": "2026-09-15",
         "last_verified": "2026-10-15"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -311967,7 +312511,7 @@
         "discovered": "2026-09-22",
         "last_verified": "2026-10-15"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -327215,6 +327759,58 @@
       "dates": {
         "posted": "2026-10-07",
         "discovered": "2026-10-07",
+        "last_verified": "2026-10-15"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "waymo-2027-summer-intern-ms-phd-semantics-2027",
+      "company": {
+        "name": "Waymo",
+        "slug": "waymo",
+        "career_page": "https://waymo.com/careers"
+      },
+      "role": "2027 Summer Intern, MS/PhD, Semantics",
+      "category": "software-engineering",
+      "apply_url": "https://careers.withwaymo.com/jobs?gh_jid=8244128",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Mountain View",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-15",
+        "discovered": "2026-10-15",
         "last_verified": "2026-10-15"
       },
       "status": "open",
