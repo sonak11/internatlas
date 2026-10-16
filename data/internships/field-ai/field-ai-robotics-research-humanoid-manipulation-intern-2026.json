@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "airbnb-strategic-finance-analytics-intern-2027",
+  "id": "field-ai-robotics-research-humanoid-manipulation-intern-2026",
   "company": {
-    "name": "Airbnb",
-    "slug": "airbnb",
-    "career_page": "https://careers.airbnb.com/"
+    "name": "Field AI",
+    "slug": "field-ai"
   },
-  "role": "Strategic Finance & Analytics Intern",
-  "category": "software-engineering",
-  "apply_url": "https://careers.airbnb.com/positions/8285171?gh_jid=8285171",
-  "season": "summer",
-  "year": 2027,
+  "role": "Robotics Research – Humanoid Manipulation Intern",
+  "category": "research",
+  "apply_url": "https://jobs.lever.co/field-ai/40a22216-c73b-4ec1-bfc1-dc0e1938eaba/apply",
+  "season": "fall",
+  "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "United States",
+      "city": "Boston",
+      "state": "MA",
       "country": "USA"
     }
   ],
@@ -25,7 +25,9 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "phd"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -40,13 +42,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-10-15",
-    "discovered": "2026-10-15",
+    "posted": "2026-09-27",
+    "discovered": "2026-10-16",
     "last_verified": "2026-10-16"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:ats"
+    "src:simplify"
   ]
 }

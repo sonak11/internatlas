@@ -1,6 +1,6 @@
 {
   "generated": "2026-10-16",
-  "count": 6268,
+  "count": 6271,
   "internships": [
     {
       "schema_version": "1.0",
@@ -4287,13 +4287,13 @@
     },
     {
       "schema_version": "1.0",
-      "id": "airbnb-strategic-finance-analytics-intern-2027",
+      "id": "airbnb-strategic-finance-analytics-intern-mba-2027",
       "company": {
         "name": "Airbnb",
         "slug": "airbnb",
         "career_page": "https://careers.airbnb.com/"
       },
-      "role": "Strategic Finance & Analytics Intern",
+      "role": "Strategic Finance & Analytics Intern (MBA)",
       "category": "software-engineering",
       "apply_url": "https://careers.airbnb.com/positions/8285171?gh_jid=8285171",
       "season": "summer",
@@ -4328,7 +4328,7 @@
       },
       "dates": {
         "posted": "2026-10-15",
-        "discovered": "2026-10-15",
+        "discovered": "2026-10-16",
         "last_verified": "2026-10-16"
       },
       "status": "open",
@@ -26549,9 +26549,9 @@
       "dates": {
         "posted": "2026-10-12",
         "discovered": "2026-10-13",
-        "last_verified": "2026-10-15"
+        "last_verified": "2026-10-16"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -47010,7 +47010,7 @@
         "discovered": "2026-10-06",
         "last_verified": "2026-10-16"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -47118,7 +47118,7 @@
         "discovered": "2026-09-29",
         "last_verified": "2026-10-16"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -59766,7 +59766,7 @@
         "discovered": "2026-09-19",
         "last_verified": "2026-10-16"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -91666,7 +91666,7 @@
         "discovered": "2026-10-10",
         "last_verified": "2026-10-16"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -102717,6 +102717,114 @@
         "last_verified": "2026-08-25"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "field-ai-robotics-research-humanoid-manipulation-intern-2026-1e4e02",
+      "company": {
+        "name": "Field AI",
+        "slug": "field-ai"
+      },
+      "role": "Robotics Research – Humanoid Manipulation Intern",
+      "category": "research",
+      "apply_url": "https://jobs.lever.co/field-ai/ada8184d-153b-4172-8f55-2b0ae74c6820/apply",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Boston",
+          "state": "MA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-27",
+        "discovered": "2026-10-16",
+        "last_verified": "2026-10-16"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "field-ai-robotics-research-humanoid-manipulation-intern-2026",
+      "company": {
+        "name": "Field AI",
+        "slug": "field-ai"
+      },
+      "role": "Robotics Research – Humanoid Manipulation Intern",
+      "category": "research",
+      "apply_url": "https://jobs.lever.co/field-ai/40a22216-c73b-4ec1-bfc1-dc0e1938eaba/apply",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Boston",
+          "state": "MA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-27",
+        "discovered": "2026-10-16",
+        "last_verified": "2026-10-16"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -143216,7 +143324,7 @@
         "discovered": "2026-08-03",
         "last_verified": "2026-10-16"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -164062,7 +164170,7 @@
         "discovered": "2026-09-22",
         "last_verified": "2026-10-16"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -176222,7 +176330,7 @@
         "discovered": "2026-10-06",
         "last_verified": "2026-10-16"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -176376,7 +176484,7 @@
         "discovered": "2026-08-02",
         "last_verified": "2026-10-16"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -197381,9 +197489,9 @@
       "dates": {
         "posted": "2026-10-07",
         "discovered": "2026-10-08",
-        "last_verified": "2026-10-15"
+        "last_verified": "2026-10-16"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -288227,6 +288335,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "tesla-software-engineer-intern-si-data-infrastructure-2027",
+      "company": {
+        "name": "Tesla",
+        "slug": "tesla"
+      },
+      "role": "Software Engineer Intern - SI Data Infrastructure",
+      "category": "cloud",
+      "apply_url": "https://www.tesla.com/careers/search/job/282292",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Palo Alto",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-03",
+        "discovered": "2026-10-16",
+        "last_verified": "2026-10-16"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "tesla-software-engineer-intern-simulation-platform-software-engine-2026",
       "company": {
         "name": "Tesla",
@@ -314610,7 +314770,7 @@
         "discovered": "2026-09-22",
         "last_verified": "2026-10-16"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -336579,7 +336739,7 @@
         "discovered": "2026-09-15",
         "last_verified": "2026-10-16"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -336797,7 +336957,7 @@
         "discovered": "2026-09-30",
         "last_verified": "2026-10-16"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -336854,7 +337014,7 @@
         "discovered": "2026-09-15",
         "last_verified": "2026-10-16"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -337248,7 +337408,7 @@
         "discovered": "2026-09-15",
         "last_verified": "2026-10-16"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -337404,7 +337564,7 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-10-16"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -337513,7 +337673,7 @@
         "discovered": "2026-09-07",
         "last_verified": "2026-10-16"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -337565,7 +337725,7 @@
         "discovered": "2026-09-07",
         "last_verified": "2026-10-16"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -337825,7 +337985,7 @@
         "discovered": "2026-09-07",
         "last_verified": "2026-10-16"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -337877,7 +338037,7 @@
         "discovered": "2026-09-15",
         "last_verified": "2026-10-16"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -337934,7 +338094,7 @@
         "discovered": "2026-09-15",
         "last_verified": "2026-10-16"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"

@@ -8,7 +8,7 @@ _Generated 2026-10-16_
 
 | Company | Listings |
 |---|---|
-| Tesla | 218 |
+| Tesla | 219 |
 | TikTok | 185 |
 | RTX | 169 |
 | AMD | 77 |
@@ -40,11 +40,11 @@ _Generated 2026-10-16_
 | data-science | 245 | `█` |
 | hardware | 232 | `█` |
 | product | 207 | `█` |
-| research | 204 | `█` |
+| research | 206 | `█` |
 | design | 166 | `█` |
 | embedded | 154 | `█` |
 | data-engineering | 113 | `█` |
-| cloud | 60 | `█` |
+| cloud | 61 | `█` |
 | security | 25 | `█` |
 
 ## Newest listings
@@ -55,7 +55,7 @@ _Generated 2026-10-16_
 - 2026-10-16 — **Healthpeak Properties**: [Forward Deployed Software Engineer Intern](https://healthpeak.applytojob.com/apply/RTf9TfJE4h/Forward-Deployed-Software-Engineer-Internship)
 - 2026-10-16 — **Inversion Space**: [Avionics Embedded Software Engineer Intern](https://job-boards.greenhouse.io/inversionspace/jobs/4744391005)
 - 2026-10-16 — **TikTok**: [Software Engineer Intern - Recommendation Performance Efficiency](https://lifeattiktok.com/search/7673636206961641781)
-- 2026-10-15 — **Airbnb**: [Strategic Finance & Analytics Intern](https://careers.airbnb.com/positions/8285171?gh_jid=8285171)
+- 2026-10-15 — **Airbnb**: [Strategic Finance & Analytics Intern (MBA)](https://careers.airbnb.com/positions/8285171?gh_jid=8285171)
 - 2026-10-15 — **American Family Insurance Group**: [Enterprise Data Intern - Enablement, Service & Support](https://amfam.wd1.myworkdayjobs.com/en-US/Careers/job/WI-Madison/Enterprise-Data-Intern_R39527)
 - 2026-10-15 — **American Family Insurance Group**: [Enterprise Data Intern - Enablement, Service & Support](https://amfam.wd1.myworkdayjobs.com/en-US/Careers/job/WI-Madison/Enterprise-Data-Intern_R39510)
 - 2026-10-15 — **Autodesk**: [PhD Researcher Intern - Agentic 3D Modeling in Immersive Environments](https://autodesk.wd1.myworkdayjobs.com/uni/job/New-York-USA---Remote/PhD-Researcher--Agentic-3D-Modeling-in-Immersive-Environments_26WD101374)
@@ -136,7 +136,6 @@ _Generated 2026-10-16_
 - AQR Capital Management — Trading Analyst Intern
 - Arch Capital Group — Data and Analytics Intern
 - Ascension — Data Science Intern
-- Ascension — Master Data Management Intern
 - ASM International — Software Engineering Intern
 - AspenTech — Project Engineering Intern - Digital Grid Management
 - Associated Bank — Corporate Intern - Product Development
@@ -176,7 +175,9 @@ _Generated 2026-10-16_
 - Bosch Home Comfort — AI Application Intern
 - Bosch Home Comfort — Software Engineering Intern
 - Boston Scientific — Data Engineer Intern
+- Boston Scientific — Equipment Engineering AI Vision Engineer Intern
 - Boston Scientific — Equipment Engineering Software Engineer Intern
+- Boston Scientific — R&D Firmware Engineer Intern
 - Boston Scientific — Software Development Engineer Intern
 - Boston Scientific — Software Engineer Intern - Interns/Graduates
 - Boston Scientific — Software Engineer Intern - R&D
@@ -205,6 +206,7 @@ _Generated 2026-10-16_
 - Carbon Robotics — Engineering Intern - Hardware & Software
 - CDM Smith — Electrical Engineer Intern - Summer 2027
 - Centene — AI Enablement Intern
+- Centene — Analytics Intern
 - Centene — Medical Economics Analyst Intern
 - Centene — Medical Economics Analyst Intern
 - Charles Schwab — Data Engineering Intern - Data Engineering
@@ -282,6 +284,7 @@ _Generated 2026-10-16_
 - Edison International — Intern - Multiple Teams
 - Efficient Computer — Hardware/Silicon Intern
 - Electronic Arts — Product Management Intern
+- Electronic Arts — Software Engineer Intern
 - Elevance Health — Data Analyst Graduate Intern
 - Elevance Health — Data Analytics Intern
 - Elevance Health — Engineering Graduate Intern
@@ -399,6 +402,7 @@ _Generated 2026-10-16_
 - Intelcom \| Dragonfly — Data Engineer Intern
 - Intelcom \| Dragonfly — R&D Solution Builder Intern
 - Intelcom \| Dragonfly — Routing Data Analytics & Optimization Intern
+- IntelliGenesis — Applied Data Scientist Intern
 - Interstates — Data Analyst Intern
 - Intuit — Mobile Software Engineer Intern - Android
 - Intuit — Mobile Software Engineer Intern - iOS
@@ -463,6 +467,7 @@ _Generated 2026-10-16_
 - LexisNexis Legal & Professional — Data Science Intern
 - LexisNexis Legal & Professional — Software Engineer Intern
 - Live Oak Bank — Architecture/Engineering Intern
+- Lowe's — Store Operations Corporate Facilities Intern
 - LPL Financial Holdings — Data Engineer Intern - Data
 - LPL Financial Holdings — Product Intern - Product
 - LPL Financial Holdings — Software Engineer Intern
@@ -507,6 +512,8 @@ _Generated 2026-10-16_
 - Medline — Product Management Intern - Summer 2027
 - Medline — RPA & Agentic AI Software Technologies Intern - Summer 2027
 - Medline — Software Engineer Intern - Summer 2027
+- Medtronic — Software Engineer Intern
+- Medtronic — Software Engineer Intern
 - Meijer — Store Analytics Intern
 - Melius — Software Engineer Intern
 - Merck — Business Intelligence Intern - Research Lab
@@ -570,7 +577,6 @@ _Generated 2026-10-16_
 - NiSource — Change Management Analytics Intern
 - NiSource — People Analytics Intern
 - NiSource — Software Engineer Intern
-- NJ Department of Environmental Protection — Environmental Services Intern
 - Noblis — Data Science and Innovation Intern
 - North Atlantic Industries — Electrical Engineer Intern - Test Systems
 - North Atlantic Industries — Electrical Engineer Qualification Test Intern
@@ -827,7 +833,6 @@ _Generated 2026-10-16_
 - Tokyo Electron — Software Engineer Intern
 - Tokyo Electron — Software Engineer Intern - AI Research
 - TRC Companies — Advanced Energy Intern
-- Tyler Technologies — Software Development Intern - Summer 2027
 - U.S. Bank — Engineering Intern
 - U.S. Bank — Product Management Intern
 - U.S. Bank — Quantitative Modeling Intern
@@ -872,7 +877,17 @@ _Generated 2026-10-16_
 - Wipfli — Data and Analytics Consulting Intern - Summer 2027
 - Workato — Intern AI Engineering
 - Xaira Therapeutics — AI Scientist Intern - Computational Protein Design
+- Xcel Energy — AI and Analytics Intern
+- Xcel Energy — Computer Information Systems Intern
+- Xcel Energy — Customer Insight Intern
 - Xcel Energy — Data Scientist Intern
+- Xcel Energy — Energy Programs Strategy & Analytics Intern
+- Xcel Energy — Gas & Electric Design Analytics and Process Improvement Intern - MN
+- Xcel Energy — GIS Intern
+- Xcel Energy — Grid Data Intern
+- Xcel Energy — Reporting and Compliance Analyst Intern
+- Xcel Energy — Residential Energy Product Strategy Intern
+- Xcel Energy — Residential Energy Product Strategy Intern
 - XPENG Motors — Robotics Center Intern - Multiple Teams
 - Zions Bank — Process Automation Developer Intern
 - Zip — Software Engineer Intern - Winter 2027
