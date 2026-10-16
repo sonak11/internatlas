@@ -33,7 +33,7 @@ _Generated 2026-10-16_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 3720 | `███████████████` |
+| software-engineering | 3721 | `███████████████` |
 | ai | 511 | `██` |
 | quant | 335 | `█` |
 | machine-learning | 302 | `█` |
@@ -80,6 +80,7 @@ _Generated 2026-10-16_
 - Acima — Software Engineer Intern
 - Acxiom — Data Scientist Intern
 - Acxiom — Enterprise Solutions Consulting Intern
+- Acxiom — Product Manager Intern - Real Identity Product Team
 - Acxiom — Product Operations Intern
 - Acxiom — Product Operations Intern
 - Acxiom — Product Operations Intern
@@ -323,6 +324,7 @@ _Generated 2026-10-16_
 - Formlabs — Electrical Engineering Intern - Winter/Spring 2027
 - Formlabs — R&D Print Process Engineering Intern - Winter/Spring 2027
 - Freddie Mac — Single-Family Data Intern
+- Freddie Mac — Software Developer Intern - Single-Family
 - Fussball Club Cincinnati LLC (“FC Cincinnati”) — Academy Performance Analyst Intern - Academy Performance Analysis
 - Gallup — Artificial Intelligence/Machine Learning Research Intern
 - Gallup — Software Engineer Intern - Summer 2027

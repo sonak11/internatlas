@@ -1,6 +1,6 @@
 # 📬 InternAtlas Weekly Digest — 2026-10-16
 
-## 🆕 New this week (340)
+## 🆕 New this week (341)
 
 - **1Password** — [Data Intern - Product Analytics](https://jobs.ashbyhq.com/1password/412c1aac-13ce-4cc9-9c81-90a9a7a2ee48/application?embed=true) · software-engineering · —
 - **7-Eleven** — [AI Analyst / AI Automation Specialist Intern](https://my7elevenhr.wd12.myworkdayjobs.com/Careers/job/SSC-Irving-TX/ServiceNow-Intern_R26_6017) · ai · —
@@ -91,6 +91,7 @@
 - **Databricks** — [Software Engineer Intern](https://boards.greenhouse.io/embed/job_app?token=6865687002) · software-engineering · —
 - **Deloitte** — [Audit & Assurance Intern - AI and Data Science](https://apply.deloitte.com/en_US/careers/JobDetail/Audit-Assurance-Intern-AI-and-Data-Science-Winter-2027/361857) · ai · —
 - **Deloitte** — [Audit & Assurance Intern - Valuation & Analytics](https://apply.deloitte.com/en_US/careers/JobDetail/Audit-Assurance-Intern-Valuation-Analytics-Winter-2027/361853) · software-engineering · —
+- **DoorDash** — [Electrical Engineer, Intern - Labs (Summer 2027)](https://job-boards.greenhouse.io/doordashusa/jobs/8274095) · software-engineering · —
 - **Draper** — [Acoustic and Vibration Technologies Intern - Summer 2027](https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Acoustic-and-Vibration-Technologies-Intern--Summer-2027-_JR003003-1) · software-engineering · —
 - **DriveTime** — [Data Analytics Intern](https://drivetime.wd1.myworkdayjobs.com/DriveTime/job/1720-W-Rio-Salado-Pkwy-Tempe-AZ-85281/Analyst-Intern--Summer-2027-_R16502) · software-engineering · —
 - **Duolingo** — [Data Scientist, Intern](https://careers.duolingo.com/jobs/8888721002?gh_jid=8888721002) · data-science · —

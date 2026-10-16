@@ -1,6 +1,6 @@
 {
   "generated": "2026-10-16",
-  "count": 6281,
+  "count": 6282,
   "internships": [
     {
       "schema_version": "1.0",
@@ -2229,7 +2229,7 @@
         "discovered": "2026-09-16",
         "last_verified": "2026-10-16"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -85638,6 +85638,59 @@
     },
     {
       "schema_version": "1.0",
+      "id": "doordash-electrical-engineer-intern-labs-summer-2027-2027",
+      "company": {
+        "name": "DoorDash",
+        "slug": "doordash",
+        "career_page": "https://careers.doordash.com/"
+      },
+      "role": "Electrical Engineer, Intern - Labs (Summer 2027)",
+      "category": "software-engineering",
+      "apply_url": "https://job-boards.greenhouse.io/doordashusa/jobs/8274095",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Oakland",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-12",
+        "discovered": "2026-10-16",
+        "last_verified": "2026-10-16"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "doordash-machine-learning-engineer-intern-masters-2027",
       "company": {
         "name": "DoorDash",
@@ -108224,7 +108277,7 @@
         "discovered": "2026-08-24",
         "last_verified": "2026-10-16"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
