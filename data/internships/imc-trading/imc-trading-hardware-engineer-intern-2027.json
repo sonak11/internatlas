@@ -3,18 +3,18 @@
   "id": "imc-trading-hardware-engineer-intern-2027",
   "company": {
     "name": "IMC Trading",
-    "slug": "imc-trading"
+    "slug": "imc-trading",
+    "career_page": "https://www.imc.com/us/careers"
   },
   "role": "Hardware Engineer Intern",
   "category": "hardware",
-  "apply_url": "https://job-boards.eu.greenhouse.io/imc/jobs/4823945101",
+  "apply_url": "https://job-boards.eu.greenhouse.io/imc/jobs/4927149101",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Chicago",
-      "state": "IL",
+      "city": "Amsterdam",
       "country": "USA"
     }
   ],
@@ -40,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-01",
+    "posted": "2026-07-31",
     "discovered": "2026-07-17",
     "last_verified": "2026-10-16"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:ats"
   ]
 }

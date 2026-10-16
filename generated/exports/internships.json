@@ -1,6 +1,6 @@
 {
   "generated": "2026-10-16",
-  "count": 6261,
+  "count": 6268,
   "internships": [
     {
       "schema_version": "1.0",
@@ -858,7 +858,7 @@
         "discovered": "2026-10-04",
         "last_verified": "2026-10-16"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -1232,6 +1232,57 @@
     },
     {
       "schema_version": "1.0",
+      "id": "abridge-member-of-technical-staff-intern-2026",
+      "company": {
+        "name": "Abridge",
+        "slug": "abridge"
+      },
+      "role": "Member of Technical Staff Intern",
+      "category": "software-engineering",
+      "apply_url": "https://jobs.ashbyhq.com/abridge/aab11857-7ed3-4fc5-aab3-35256601117e/application?embed=true",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "SF",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-16",
+        "discovered": "2026-10-16",
+        "last_verified": "2026-10-16"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "abridge-software-engineer-intern-2026",
       "company": {
         "name": "Abridge",
@@ -1334,7 +1385,7 @@
         "discovered": "2026-09-18",
         "last_verified": "2026-10-16"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -20761,7 +20812,7 @@
       "dates": {
         "posted": "2026-10-08",
         "discovered": "2026-10-09",
-        "last_verified": "2026-10-15"
+        "last_verified": "2026-10-16"
       },
       "status": "open",
       "tags": [
@@ -20813,7 +20864,7 @@
       "dates": {
         "posted": "2026-09-29",
         "discovered": "2026-09-30",
-        "last_verified": "2026-10-15"
+        "last_verified": "2026-10-16"
       },
       "status": "open",
       "tags": [
@@ -21021,7 +21072,7 @@
       "dates": {
         "posted": "2026-10-07",
         "discovered": "2026-10-07",
-        "last_verified": "2026-10-15"
+        "last_verified": "2026-10-16"
       },
       "status": "open",
       "tags": [
@@ -21073,7 +21124,7 @@
       "dates": {
         "posted": "2026-06-11",
         "discovered": "2026-07-18",
-        "last_verified": "2026-10-15"
+        "last_verified": "2026-10-16"
       },
       "status": "open",
       "tags": [
@@ -21125,7 +21176,7 @@
       "dates": {
         "posted": "2026-10-13",
         "discovered": "2026-10-13",
-        "last_verified": "2026-10-15"
+        "last_verified": "2026-10-16"
       },
       "status": "open",
       "tags": [
@@ -21177,7 +21228,7 @@
       "dates": {
         "posted": "2026-09-15",
         "discovered": "2026-09-15",
-        "last_verified": "2026-10-15"
+        "last_verified": "2026-10-16"
       },
       "status": "open",
       "tags": [
@@ -21229,7 +21280,7 @@
       "dates": {
         "posted": "2026-10-14",
         "discovered": "2026-10-14",
-        "last_verified": "2026-10-15"
+        "last_verified": "2026-10-16"
       },
       "status": "open",
       "tags": [
@@ -21333,7 +21384,7 @@
       "dates": {
         "posted": "2026-10-02",
         "discovered": "2026-10-02",
-        "last_verified": "2026-10-15"
+        "last_verified": "2026-10-16"
       },
       "status": "open",
       "tags": [
@@ -21385,7 +21436,7 @@
       "dates": {
         "posted": "2026-06-11",
         "discovered": "2026-07-18",
-        "last_verified": "2026-10-15"
+        "last_verified": "2026-10-16"
       },
       "status": "open",
       "tags": [
@@ -21541,7 +21592,7 @@
       "dates": {
         "posted": "2026-06-11",
         "discovered": "2026-07-18",
-        "last_verified": "2026-10-15"
+        "last_verified": "2026-10-16"
       },
       "status": "open",
       "tags": [
@@ -21593,7 +21644,7 @@
       "dates": {
         "posted": "2026-10-13",
         "discovered": "2026-10-13",
-        "last_verified": "2026-10-15"
+        "last_verified": "2026-10-16"
       },
       "status": "open",
       "tags": [
@@ -21645,7 +21696,7 @@
       "dates": {
         "posted": "2026-10-05",
         "discovered": "2026-09-09",
-        "last_verified": "2026-10-15"
+        "last_verified": "2026-10-16"
       },
       "status": "open",
       "tags": [
@@ -21697,7 +21748,7 @@
       "dates": {
         "posted": "2026-10-05",
         "discovered": "2026-10-06",
-        "last_verified": "2026-10-15"
+        "last_verified": "2026-10-16"
       },
       "status": "open",
       "tags": [
@@ -21749,7 +21800,7 @@
       "dates": {
         "posted": "2026-10-07",
         "discovered": "2026-10-07",
-        "last_verified": "2026-10-15"
+        "last_verified": "2026-10-16"
       },
       "status": "open",
       "tags": [
@@ -21853,7 +21904,7 @@
       "dates": {
         "posted": "2026-06-10",
         "discovered": "2026-07-18",
-        "last_verified": "2026-10-15"
+        "last_verified": "2026-10-16"
       },
       "status": "open",
       "tags": [
@@ -21957,7 +22008,7 @@
       "dates": {
         "posted": "2026-10-02",
         "discovered": "2026-10-02",
-        "last_verified": "2026-10-15"
+        "last_verified": "2026-10-16"
       },
       "status": "open",
       "tags": [
@@ -22009,7 +22060,7 @@
       "dates": {
         "posted": "2026-10-05",
         "discovered": "2026-10-06",
-        "last_verified": "2026-10-15"
+        "last_verified": "2026-10-16"
       },
       "status": "open",
       "tags": [
@@ -22418,6 +22469,58 @@
       "dates": {
         "posted": "2026-06-11",
         "discovered": "2026-07-17",
+        "last_verified": "2026-10-16"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "angel-city-data-analytics-intern-2026",
+      "company": {
+        "name": "Angel City",
+        "slug": "angel-city"
+      },
+      "role": "Data Analytics Intern",
+      "category": "software-engineering",
+      "apply_url": "https://job-boards.greenhouse.io/wfclainc/jobs/6226220004",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Santa Monica",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-16",
+        "discovered": "2026-10-16",
         "last_verified": "2026-10-16"
       },
       "status": "open",
@@ -33775,7 +33878,7 @@
       },
       "role": "Software Engineer Intern",
       "category": "software-engineering",
-      "apply_url": "https://axiomspace.wd5.myworkdayjobs.com/External_Career_Site/job/Software-Engineering-Intern--Summer-2026-_JR100691",
+      "apply_url": "https://axiomspace.wd5.myworkdayjobs.com/External_Career_Site/job/Houston/Software-Engineering-Intern--Summer-2027-_JR100767",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
@@ -33811,11 +33914,11 @@
         "resume_keywords": []
       },
       "dates": {
-        "posted": "2026-09-17",
+        "posted": "2026-10-15",
         "discovered": "2026-09-19",
-        "last_verified": "2026-10-01"
+        "last_verified": "2026-10-16"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -91890,7 +91993,7 @@
         "discovered": "2026-10-03",
         "last_verified": "2026-10-16"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -91957,7 +92060,7 @@
         "discovered": "2026-10-03",
         "last_verified": "2026-10-16"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -92026,7 +92129,7 @@
         "discovered": "2026-10-03",
         "last_verified": "2026-10-16"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -92093,7 +92196,7 @@
         "discovered": "2026-10-03",
         "last_verified": "2026-10-16"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -128381,6 +128484,109 @@
     },
     {
       "schema_version": "1.0",
+      "id": "healthpeak-properties-forward-deployed-software-engineer-intern-2027-dfe390",
+      "company": {
+        "name": "Healthpeak Properties",
+        "slug": "healthpeak-properties"
+      },
+      "role": "Forward Deployed Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://healthpeak.applytojob.com/apply/ss4v1Qi95q/Forward-Deployed-Software-Engineer-Internship",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "NYC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-16",
+        "discovered": "2026-10-16",
+        "last_verified": "2026-10-16"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "healthpeak-properties-forward-deployed-software-engineer-intern-2027",
+      "company": {
+        "name": "Healthpeak Properties",
+        "slug": "healthpeak-properties"
+      },
+      "role": "Forward Deployed Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://healthpeak.applytojob.com/apply/RTf9TfJE4h/Forward-Deployed-Software-Engineer-Internship",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Irvine",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-16",
+        "discovered": "2026-10-16",
+        "last_verified": "2026-10-16"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "heidelberg-materials-master-data-intern-service-support-2026",
       "company": {
         "name": "Heidelberg Materials",
@@ -137574,7 +137780,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "imc-trading-hardware-engineer-intern-2027-deea3d",
+      "id": "imc-trading-hardware-engineer-intern-2027",
       "company": {
         "name": "IMC Trading",
         "slug": "imc-trading",
@@ -137615,65 +137821,13 @@
       },
       "dates": {
         "posted": "2026-07-31",
-        "discovered": "2026-07-31",
-        "last_verified": "2026-10-16"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:ats"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "imc-trading-hardware-engineer-intern-2027",
-      "company": {
-        "name": "IMC Trading",
-        "slug": "imc-trading"
-      },
-      "role": "Hardware Engineer Intern",
-      "category": "hardware",
-      "apply_url": "https://job-boards.eu.greenhouse.io/imc/jobs/4823945101",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Chicago",
-          "state": "IL",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-07-01",
         "discovered": "2026-07-17",
         "last_verified": "2026-10-16"
       },
       "status": "open",
       "tags": [
         "auto-ingested",
-        "src:simplify"
+        "src:ats"
       ]
     },
     {
@@ -144764,6 +144918,61 @@
         "last_verified": "2026-08-29"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "inversion-space-avionics-embedded-software-engineer-intern-2027",
+      "company": {
+        "name": "Inversion Space",
+        "slug": "inversion-space"
+      },
+      "role": "Avionics Embedded Software Engineer Intern",
+      "category": "embedded",
+      "apply_url": "https://job-boards.greenhouse.io/inversionspace/jobs/4744391005",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Playa Vista",
+          "state": "LA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters",
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-16",
+        "discovered": "2026-10-16",
+        "last_verified": "2026-10-16"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -156143,6 +156352,58 @@
       "role": "Research Scientist Intern - Plasma Light Source Characterization",
       "category": "research",
       "apply_url": "https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/Research-Scientist-Intern---Coating-Characterization_2642033-2",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Ann Arbor",
+          "state": "MI",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-13",
+        "discovered": "2026-10-16",
+        "last_verified": "2026-10-16"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "kla-corporation-research-scientist-intern-plasma-light-source-characterizati-2027",
+      "company": {
+        "name": "KLA Corporation",
+        "slug": "kla-corporation"
+      },
+      "role": "Research Scientist Intern - Plasma Light Source Characterization",
+      "category": "research",
+      "apply_url": "https://kla.wd1.myworkdayjobs.com/annarbor/job/Ann-Arbor-MI/Research-Scientist-Intern---Coating-Characterization_2642033-1",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
@@ -176976,7 +177237,7 @@
         "discovered": "2026-09-11",
         "last_verified": "2026-10-16"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -189703,7 +189964,7 @@
         "discovered": "2026-09-01",
         "last_verified": "2026-10-16"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -274964,6 +275225,60 @@
     },
     {
       "schema_version": "1.0",
+      "id": "t-mobile-software-engineer-intern-2027",
+      "company": {
+        "name": "T-Mobile",
+        "slug": "t-mobile"
+      },
+      "role": "Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-Software-Engineering-Intern_REQ368322",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Bellevue",
+          "state": "WA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-15",
+        "discovered": "2026-10-16",
+        "last_verified": "2026-10-16"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "t-rowe-price-global-product-intern-2027",
       "company": {
         "name": "T. Rowe Price",
@@ -307770,6 +308085,60 @@
     },
     {
       "schema_version": "1.0",
+      "id": "tiktok-software-engineer-intern-recommendation-performance-efficien-2027",
+      "company": {
+        "name": "TikTok",
+        "slug": "tiktok"
+      },
+      "role": "Software Engineer Intern - Recommendation Performance Efficiency",
+      "category": "software-engineering",
+      "apply_url": "https://lifeattiktok.com/search/7673636206961641781",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-16",
+        "discovered": "2026-10-16",
+        "last_verified": "2026-10-16"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "tiktok-software-engineer-intern-social-friending-2027",
       "company": {
         "name": "TikTok",
@@ -314241,7 +314610,7 @@
         "discovered": "2026-09-22",
         "last_verified": "2026-10-16"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -336822,7 +337191,7 @@
         "discovered": "2026-09-07",
         "last_verified": "2026-10-16"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"

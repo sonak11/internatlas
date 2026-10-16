@@ -9,7 +9,7 @@ _Generated 2026-10-16_
 | Company | Listings |
 |---|---|
 | Tesla | 218 |
-| TikTok | 184 |
+| TikTok | 185 |
 | RTX | 169 |
 | AMD | 77 |
 | Marvell | 74 |
@@ -33,27 +33,34 @@ _Generated 2026-10-16_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 3709 | `███████████████` |
+| software-engineering | 3715 | `███████████████` |
 | ai | 510 | `██` |
 | quant | 335 | `█` |
 | machine-learning | 302 | `█` |
 | data-science | 245 | `█` |
-| hardware | 233 | `█` |
+| hardware | 232 | `█` |
 | product | 207 | `█` |
-| research | 203 | `█` |
+| research | 204 | `█` |
 | design | 166 | `█` |
-| embedded | 153 | `█` |
+| embedded | 154 | `█` |
 | data-engineering | 113 | `█` |
 | cloud | 60 | `█` |
 | security | 25 | `█` |
 
 ## Newest listings
 
+- 2026-10-16 — **Abridge**: [Member of Technical Staff Intern](https://jobs.ashbyhq.com/abridge/aab11857-7ed3-4fc5-aab3-35256601117e/application?embed=true)
+- 2026-10-16 — **Angel City**: [Data Analytics Intern](https://job-boards.greenhouse.io/wfclainc/jobs/6226220004)
+- 2026-10-16 — **Healthpeak Properties**: [Forward Deployed Software Engineer Intern](https://healthpeak.applytojob.com/apply/ss4v1Qi95q/Forward-Deployed-Software-Engineer-Internship)
+- 2026-10-16 — **Healthpeak Properties**: [Forward Deployed Software Engineer Intern](https://healthpeak.applytojob.com/apply/RTf9TfJE4h/Forward-Deployed-Software-Engineer-Internship)
+- 2026-10-16 — **Inversion Space**: [Avionics Embedded Software Engineer Intern](https://job-boards.greenhouse.io/inversionspace/jobs/4744391005)
+- 2026-10-16 — **TikTok**: [Software Engineer Intern - Recommendation Performance Efficiency](https://lifeattiktok.com/search/7673636206961641781)
 - 2026-10-15 — **Airbnb**: [Strategic Finance & Analytics Intern](https://careers.airbnb.com/positions/8285171?gh_jid=8285171)
 - 2026-10-15 — **American Family Insurance Group**: [Enterprise Data Intern - Enablement, Service & Support](https://amfam.wd1.myworkdayjobs.com/en-US/Careers/job/WI-Madison/Enterprise-Data-Intern_R39527)
 - 2026-10-15 — **American Family Insurance Group**: [Enterprise Data Intern - Enablement, Service & Support](https://amfam.wd1.myworkdayjobs.com/en-US/Careers/job/WI-Madison/Enterprise-Data-Intern_R39510)
 - 2026-10-15 — **Autodesk**: [PhD Researcher Intern - Agentic 3D Modeling in Immersive Environments](https://autodesk.wd1.myworkdayjobs.com/uni/job/New-York-USA---Remote/PhD-Researcher--Agentic-3D-Modeling-in-Immersive-Environments_26WD101374)
 - 2026-10-15 — **Autodesk**: [PhD Researcher Intern - Agentic 3D Modeling in Immersive Environments](https://autodesk.wd1.myworkdayjobs.com/Ext/job/New-York-USA---Remote/PhD-Researcher--Agentic-3D-Modeling-in-Immersive-Environments_26WD101374-1)
+- 2026-10-15 — **Axiom Space**: [Software Engineer Intern](https://axiomspace.wd5.myworkdayjobs.com/External_Career_Site/job/Houston/Software-Engineering-Intern--Summer-2027-_JR100767)
 - 2026-10-15 — **Blue Origin**: [Terawave Product Management Intern - MBA](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Kent-WA/Summer-2027-Terawave-Product-Management-Internship---MBA_R74200)
 - 2026-10-15 — **Boeing**: [Data Science Intern](https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/CAN---Richmond-Canada/Data-Science-Intern_JR2026526159)
 - 2026-10-15 — **Boeing**: [Data Science Intern](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/CAN---Richmond-Canada/Data-Science-Intern_JR2026526159-1)
@@ -62,19 +69,14 @@ _Generated 2026-10-16_
 - 2026-10-15 — **Cigna Group**: [Healthcare Analytics Intern](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Morris-Plains-NJ/Healthcare-Analytics-Summer-Intern---Morris-Plains--NJ---Start-Date--May-24--2027_26009483)
 - 2026-10-15 — **Commonwealth Fusion Systems**: [AI & Infrastructure Engineer Intern](https://jobs.lever.co/cfsenergy/fa87d365-ac8a-44c3-8fda-c9dec3ea8878/apply)
 - 2026-10-15 — **CoverMyMeds**: [CMM Technology Intern](https://mckesson.wd3.myworkdayjobs.com/en-US/CoverMyMeds_External_Careers/job/USA-OH-Columbus/CMM-Technology-Intern---Summer-2027_JR0151979-2)
-- 2026-10-15 — **Danaher**: [Data Governance Intern - CCM](https://danaher.wd1.myworkdayjobs.com/danaherjobs/job/Logan-Utah-United-States/CCM-Data-Governance---Intern-Summer-2027_R1318977)
-- 2026-10-15 — **Deloitte**: [Audit & Assurance Intern - AI and Data Science](https://apply.deloitte.com/en_US/careers/JobDetail/Audit-Assurance-Intern-AI-and-Data-Science-Winter-2027/361857)
-- 2026-10-15 — **Deloitte**: [Audit & Assurance Intern - Valuation & Analytics](https://apply.deloitte.com/en_US/careers/JobDetail/Audit-Assurance-Intern-Valuation-Analytics-Winter-2027/361853)
-- 2026-10-15 — **Duolingo**: [Data Scientist, Intern](https://careers.duolingo.com/jobs/8888721002?gh_jid=8888721002)
-- 2026-10-15 — **Duolingo**: [Data Scientist, Intern (PhD)](https://careers.duolingo.com/jobs/8888848002?gh_jid=8888848002)
-- 2026-10-15 — **Duolingo**: [Product Manager, MBA Intern](https://careers.duolingo.com/jobs/8888045002?gh_jid=8888045002)
-- 2026-10-15 — **Expedia Group**: [Applied Science Intern](https://expedia.wd108.myworkdayjobs.com/private/job/UK---London/Applied-Science-Intern---Masters---2027---London_R-110540)
 
 ## Recently closed
 
 - 7-Eleven — AI Engineer Intern
 - 7-Eleven — Digital Product Manager Intern
+- ABB — Market Research & Analysis Intern
 - Abridge — Software Engineer Intern
+- Abridge — Software Engineer Intern - Spring
 - Acima — Software Engineer Intern
 - Acxiom — Data Scientist Intern
 - Acxiom — Enterprise Solutions Consulting Intern
@@ -280,6 +282,10 @@ _Generated 2026-10-16_
 - Edison International — Intern - Multiple Teams
 - Efficient Computer — Hardware/Silicon Intern
 - Electronic Arts — Product Management Intern
+- Elevance Health — Data Analyst Graduate Intern
+- Elevance Health — Data Analytics Intern
+- Elevance Health — Engineering Graduate Intern
+- Elevance Health — Engineering Intern
 - EMC Insurance — Data Science Intern
 - EMC Insurance — Data Science Intern
 - Energy Transfer Partners — Business Transformation and Integration Intern
@@ -505,6 +511,7 @@ _Generated 2026-10-16_
 - Melius — Software Engineer Intern
 - Merck — Business Intelligence Intern - Research Lab
 - Merck — Computational Toxicology Intern - AI/ML Computational Toxicology
+- Merck — Data Analytics and Insights Intern
 - Merck — Data Scientist Intern - Nonclinical Drug Safety
 - Merck — Digital Strategy & Insights Intern - Global Supplier Management Group
 - Merck — Global Data Management and Standards Intern
@@ -555,6 +562,7 @@ _Generated 2026-10-16_
 - National Life — Strategic Operations Analyst Intern
 - Nationwide — Generative AI Intern
 - Nationwide — Personal Lines Business Insights Intern
+- Nationwide — Technology Intern
 - Navy Federal — Associate Intern
 - Navy Federal — Product Strategist Intern
 - Navy Federal — Product Strategist Intern - Student Loans
@@ -819,6 +827,7 @@ _Generated 2026-10-16_
 - Tokyo Electron — Software Engineer Intern
 - Tokyo Electron — Software Engineer Intern - AI Research
 - TRC Companies — Advanced Energy Intern
+- Tyler Technologies — Software Development Intern - Summer 2027
 - U.S. Bank — Engineering Intern
 - U.S. Bank — Product Management Intern
 - U.S. Bank — Quantitative Modeling Intern
@@ -863,6 +872,7 @@ _Generated 2026-10-16_
 - Wipfli — Data and Analytics Consulting Intern - Summer 2027
 - Workato — Intern AI Engineering
 - Xaira Therapeutics — AI Scientist Intern - Computational Protein Design
+- Xcel Energy — Data Scientist Intern
 - XPENG Motors — Robotics Center Intern - Multiple Teams
 - Zions Bank — Process Automation Developer Intern
 - Zip — Software Engineer Intern - Winter 2027
