@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "kla-research-scientist-intern-plasma-light-source-characterizati-2027-c79352",
+  "id": "src-inc-engineering-technician-intern-2027",
   "company": {
-    "name": "KLA",
-    "slug": "kla"
+    "name": "SRC, Inc",
+    "slug": "src-inc"
   },
-  "role": "Research Scientist Intern - Plasma Light Source Characterization",
-  "category": "research",
-  "apply_url": "https://kla.wd1.myworkdayjobs.com/UR/job/Ann-Arbor-MI/Research-Scientist-Intern---Coating-Characterization_2642033",
+  "role": "Engineering Technician Intern",
+  "category": "software-engineering",
+  "apply_url": "https://jobs.jobvite.com/src-inc/job/ow4GAfwA?nl=1&nl=1&fr=false",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Ann Arbor",
-      "state": "MI",
+      "city": "Syracuse",
+      "state": "NY",
       "country": "USA"
     }
   ],
@@ -40,7 +40,7 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-10-13",
+    "posted": "2026-09-16",
     "discovered": "2026-10-16",
     "last_verified": "2026-10-16"
   },

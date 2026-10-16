@@ -1,6 +1,6 @@
 {
   "generated": "2026-10-16",
-  "count": 6282,
+  "count": 6286,
   "internships": [
     {
       "schema_version": "1.0",
@@ -24275,7 +24275,7 @@
         "discovered": "2026-09-05",
         "last_verified": "2026-10-16"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -25665,9 +25665,9 @@
       "dates": {
         "posted": "2026-08-31",
         "discovered": "2026-09-01",
-        "last_verified": "2026-10-02"
+        "last_verified": "2026-10-16"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -26669,7 +26669,7 @@
         "discovered": "2026-10-13",
         "last_verified": "2026-10-16"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -27368,7 +27368,7 @@
         "discovered": "2026-09-30",
         "last_verified": "2026-10-16"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -30824,18 +30824,6 @@
           "city": "San Francisco",
           "state": "CA",
           "country": "USA"
-        },
-        {
-          "city": "SF",
-          "country": "USA"
-        },
-        {
-          "state": "LA",
-          "country": "USA"
-        },
-        {
-          "city": "NYC",
-          "country": "USA"
         }
       ],
       "compensation": {
@@ -30862,7 +30850,7 @@
         "resume_keywords": []
       },
       "dates": {
-        "posted": "2026-08-07",
+        "posted": "2026-08-21",
         "discovered": "2026-10-14",
         "last_verified": "2026-10-16"
       },
@@ -30989,9 +30977,9 @@
       "dates": {
         "posted": "2026-08-06",
         "discovered": "2026-08-07",
-        "last_verified": "2026-10-14"
+        "last_verified": "2026-10-16"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -60771,7 +60759,7 @@
         "discovered": "2026-09-16",
         "last_verified": "2026-10-16"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -60936,7 +60924,7 @@
         "discovered": "2026-10-03",
         "last_verified": "2026-10-16"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -72962,7 +72950,7 @@
         "discovered": "2026-09-21",
         "last_verified": "2026-10-16"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -77462,9 +77450,9 @@
       "dates": {
         "posted": "2026-09-08",
         "discovered": "2026-09-08",
-        "last_verified": "2026-10-14"
+        "last_verified": "2026-10-16"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -102732,7 +102720,7 @@
         "discovered": "2026-09-21",
         "last_verified": "2026-10-16"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -102794,7 +102782,7 @@
         "discovered": "2026-09-21",
         "last_verified": "2026-10-16"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -107965,7 +107953,7 @@
         "discovered": "2026-09-14",
         "last_verified": "2026-10-16"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -108017,7 +108005,7 @@
         "discovered": "2026-10-02",
         "last_verified": "2026-10-16"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -108069,7 +108057,7 @@
         "discovered": "2026-08-24",
         "last_verified": "2026-10-16"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -108329,7 +108317,7 @@
         "discovered": "2026-08-24",
         "last_verified": "2026-10-16"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -110333,7 +110321,7 @@
         "discovered": "2026-10-02",
         "last_verified": "2026-10-16"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -112019,7 +112007,7 @@
         "discovered": "2026-09-09",
         "last_verified": "2026-10-16"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -112074,7 +112062,7 @@
         "discovered": "2026-08-21",
         "last_verified": "2026-10-16"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -114518,7 +114506,7 @@
         "discovered": "2026-10-13",
         "last_verified": "2026-10-16"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -115908,7 +115896,7 @@
         "discovered": "2026-10-16",
         "last_verified": "2026-10-16"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -116470,7 +116458,7 @@
         "discovered": "2026-10-16",
         "last_verified": "2026-10-16"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -116524,7 +116512,7 @@
         "discovered": "2026-10-16",
         "last_verified": "2026-10-16"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -116797,7 +116785,7 @@
         "discovered": "2026-10-16",
         "last_verified": "2026-10-16"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -116910,7 +116898,7 @@
         "discovered": "2026-10-15",
         "last_verified": "2026-10-16"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -117185,7 +117173,7 @@
         "discovered": "2026-10-10",
         "last_verified": "2026-10-16"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -140370,7 +140358,7 @@
         "discovered": "2026-09-07",
         "last_verified": "2026-10-16"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -140482,7 +140470,7 @@
         "discovered": "2026-08-19",
         "last_verified": "2026-10-16"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -156931,58 +156919,6 @@
     },
     {
       "schema_version": "1.0",
-      "id": "kla-research-scientist-intern-plasma-light-source-characterizati-2027-c79352",
-      "company": {
-        "name": "KLA",
-        "slug": "kla"
-      },
-      "role": "Research Scientist Intern - Plasma Light Source Characterization",
-      "category": "research",
-      "apply_url": "https://kla.wd1.myworkdayjobs.com/UR/job/Ann-Arbor-MI/Research-Scientist-Intern---Coating-Characterization_2642033",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Ann Arbor",
-          "state": "MI",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-10-13",
-        "discovered": "2026-10-16",
-        "last_verified": "2026-10-16"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
       "id": "kla-research-scientist-intern-plasma-light-source-characterizati-2027",
       "company": {
         "name": "KLA",
@@ -156990,7 +156926,7 @@
       },
       "role": "Research Scientist Intern - Plasma Light Source Characterization",
       "category": "research",
-      "apply_url": "https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/Research-Scientist-Intern---Coating-Characterization_2642033-2",
+      "apply_url": "https://kla.wd1.myworkdayjobs.com/UR/job/Ann-Arbor-MI/Research-Scientist-Intern---Coating-Characterization_2642033",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
@@ -162188,7 +162124,7 @@
         "discovered": "2026-08-28",
         "last_verified": "2026-10-16"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -177195,7 +177131,7 @@
         "discovered": "2026-09-10",
         "last_verified": "2026-10-16"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -179562,6 +179498,58 @@
       "dates": {
         "posted": "2026-10-06",
         "discovered": "2026-10-07",
+        "last_verified": "2026-10-16"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "metlife-data-analytics-intern-2027",
+      "company": {
+        "name": "MetLife",
+        "slug": "metlife"
+      },
+      "role": "Data & Analytics Intern",
+      "category": "software-engineering",
+      "apply_url": "https://metlife.avature.net/en_US/ml/JobDetail/20702",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Cary",
+          "state": "NC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-30",
+        "discovered": "2026-10-16",
         "last_verified": "2026-10-16"
       },
       "status": "open",
@@ -210032,7 +210020,7 @@
         "discovered": "2026-10-16",
         "last_verified": "2026-10-16"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -210084,7 +210072,7 @@
         "discovered": "2026-09-15",
         "last_verified": "2026-10-16"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -217599,7 +217587,7 @@
         "discovered": "2026-09-17",
         "last_verified": "2026-10-16"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -218268,7 +218256,7 @@
         "discovered": "2026-10-14",
         "last_verified": "2026-10-16"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -226996,7 +226984,7 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-10-16"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -269837,6 +269825,162 @@
     },
     {
       "schema_version": "1.0",
+      "id": "src-inc-engineering-intern-2027-73f31b",
+      "company": {
+        "name": "SRC, Inc",
+        "slug": "src-inc"
+      },
+      "role": "Engineering Intern",
+      "category": "software-engineering",
+      "apply_url": "https://jobs.jobvite.com/src-inc/job/on4GAfwr?nl=1&nl=1&fr=false",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Syracuse",
+          "state": "NY",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-16",
+        "discovered": "2026-10-16",
+        "last_verified": "2026-10-16"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "src-inc-engineering-intern-2027",
+      "company": {
+        "name": "SRC, Inc",
+        "slug": "src-inc"
+      },
+      "role": "Engineering Intern",
+      "category": "software-engineering",
+      "apply_url": "https://jobs.jobvite.com/src-inc/job/oC3GAfwF?nl=1&nl=1&fr=false",
+      "season": "spring",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Syracuse",
+          "state": "NY",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-29",
+        "discovered": "2026-10-16",
+        "last_verified": "2026-10-16"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "src-inc-engineering-technician-intern-2027",
+      "company": {
+        "name": "SRC, Inc",
+        "slug": "src-inc"
+      },
+      "role": "Engineering Technician Intern",
+      "category": "software-engineering",
+      "apply_url": "https://jobs.jobvite.com/src-inc/job/ow4GAfwA?nl=1&nl=1&fr=false",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Syracuse",
+          "state": "NY",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-16",
+        "discovered": "2026-10-16",
+        "last_verified": "2026-10-16"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "sri-international-computer-science-intern-2026",
       "company": {
         "name": "SRI International",
@@ -279918,6 +280062,57 @@
       "tags": [
         "auto-ingested",
         "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "tesco-software-engineer-intern-2027",
+      "company": {
+        "name": "Tesco",
+        "slug": "tesco"
+      },
+      "role": "Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://tesco.avature.net/en_GB/careers/JobDetail/209138",
+      "season": "spring",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Welwyn Garden City",
+          "country": "UK"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-22",
+        "discovered": "2026-10-16",
+        "last_verified": "2026-10-16"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
       ]
     },
     {
@@ -312548,7 +312743,7 @@
         "discovered": "2026-09-01",
         "last_verified": "2026-10-16"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -341489,7 +341684,7 @@
         "discovered": "2026-08-20",
         "last_verified": "2026-10-16"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"

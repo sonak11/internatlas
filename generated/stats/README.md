@@ -33,14 +33,14 @@ _Generated 2026-10-16_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 3721 | `███████████████` |
+| software-engineering | 3726 | `███████████████` |
 | ai | 511 | `██` |
 | quant | 335 | `█` |
 | machine-learning | 302 | `█` |
 | data-science | 245 | `█` |
 | hardware | 232 | `█` |
-| research | 208 | `█` |
 | product | 207 | `█` |
+| research | 207 | `█` |
 | design | 168 | `█` |
 | embedded | 154 | `█` |
 | data-engineering | 113 | `█` |
@@ -134,19 +134,20 @@ _Generated 2026-10-16_
 - American Family Insurance Group — Software Engineering Intern
 - Anduril — 2027 Manufacturing Optimization Engineer Intern
 - APEX Analytix — Data Analyst Intern - Summer 2027
+- Applied Materials — Data Analyst Intern - Global Technical Learning Center
 - AQR Capital Management — Trading Analyst Intern
-- Arch Capital Group — Data and Analytics Intern
 - Ascension — Data Science Intern
+- Ascension — Master Data Management Intern
 - ASM International — Software Engineering Intern
 - AspenTech — Project Engineering Intern - Digital Grid Management
 - Associated Bank — Corporate Intern - Product Development
+- Assurant — Software Engineer Intern
 - Astranis — Reliability Test Intern
 - Astranis — Reliability Test Intern
 - Athene — Software Developer Intern
 - AtkinsRéalis — Data Scientist Intern - Summer 2027
 - Atlassian — Research Intern
 - Atoms — Robotics Software Engineer Intern
-- Atoms — Software Engineer Intern - Winter 2027
 - Auto-Owners Insurance — Marketplace Intelligence Intern
 - Autodesk — AI Data Developer Intern
 - Autodesk — AI/ML Platform Intern
@@ -210,6 +211,8 @@ _Generated 2026-10-16_
 - Centene — AI Software Developer Intern
 - Centene — Medical Economics Analyst Intern
 - Centene — Medical Economics Analyst Intern
+- CesiumAstro — Electrical Engineer Intern - FPGA
+- CesiumAstro — Electrical Engineering Intern - FPGA
 - Charles Schwab — Data Engineering Intern - Data Engineering
 - Charles Schwab — Software Engineering Intern - Technology
 - Ciena — AI Engineer Intern - Winter 2027
@@ -232,6 +235,7 @@ _Generated 2026-10-16_
 - Coinbase — Product Manager Intern - HR Technology
 - Collier Aerospace — AI Feature Development Intern - NCSG
 - Commerce Bank — Data Analyst Intern - Summer 2027
+- Commerce Bank — Data Science Intern
 - Cone Health — Healthcare Innovation Intern - AI
 - Cone Health — Healthcare Innovation Intern - AI
 - Contoro — Robotics Test & Validation Intern
@@ -249,7 +253,6 @@ _Generated 2026-10-16_
 - CoStar Group — Technology Intern - Multiple Teams
 - CoStar Group — Technology Intern - Summer 2027
 - Cox — Data Governance and Management Intern
-- Cox — Data Scientist Intern
 - Cox — Product Management Intern
 - Cox — Product Management Intern - Summer 2027
 - Cox — Product Management Intern - Summer 2027
@@ -314,6 +317,8 @@ _Generated 2026-10-16_
 - Fidelity Investments — Quantitative Research Analyst Intern - Equity Quantitative Research Team
 - Fidelity Investments — Quantitative Research Intern - Multi-Asset Research Team
 - Fidelity Investments — Quantitative Research Intern - Multi-Asset Systematic Research Team
+- Fidelity Investments — Quantitative Research Intern - Strategic Advisers
+- Fidelity Investments — Undergraduate Internship - Software
 - Figma — Brand Design Intern (Summer 2027)
 - Figma — Software Engineer Intern (Winter 2027)
 - Figma — Software Engineer Intern - Winter 2027
@@ -323,21 +328,35 @@ _Generated 2026-10-16_
 - First Citizens BancShares — Summer Intern - Sales Performance & Analytics Strategy
 - Formlabs — Electrical Engineering Intern - Winter/Spring 2027
 - Formlabs — R&D Print Process Engineering Intern - Winter/Spring 2027
+- Freddie Mac — Multifamily Business Analysis Graduate Intern - Summer 2027
+- Freddie Mac — Multifamily Capital Markets Analytics & Engineering Intern
+- Freddie Mac — Multifamily Digital Product Analysis Intern - Summer 2027
 - Freddie Mac — Single-Family Data Intern
 - Freddie Mac — Software Developer Intern - Single-Family
+- Freddie Mac — Technology Intern - Enterprise Operations + Technology
 - Fussball Club Cincinnati LLC (“FC Cincinnati”) — Academy Performance Analyst Intern - Academy Performance Analysis
 - Gallup — Artificial Intelligence/Machine Learning Research Intern
 - Gallup — Software Engineer Intern - Summer 2027
 - Garda Capital Partners — Trading Analyst Intern - Credit
 - Garda Capital Partners — Trading Analyst Intern - Rates
+- Gas South — Analyst Intern
 - GCM Grosvenor — Fund Data Reporting and Analytics Intern
 - GE Healthcare — Data Analytics Intern
 - GE Healthcare — Systems Engineer Intern
+- GE Vernova — Energy Optimization Software Engineer Intern - Summer 2027
+- GE Vernova — Energy Optimization Software Engineer Intern - Summer 2027
+- General Dynamics Information Technology — AI and Data Analytics Intern
 - General Dynamics Information Technology — Defense Agencies Intern - AI/ML
 - General Dynamics Information Technology — Software Development Intern
 - General Dynamics Information Technology — Software Development Intern
+- General Motors — AI/ML Engineer Intern - Mapping - Masters
 - General Motors — Economics Intern
+- General Motors — Embodied AI Data Scaling Intern - Data Scaling - Embodied AI
+- General Motors — Embodied AI Research Intern
+- General Motors — Onboard Autonomy Intern - Embodied AI
+- General Motors — Product Management Intern - Vehicle Autonomy
 - General Motors — Race Strategy & Analytics Intern - IndyCar
+- General Motors — Seam Intern - Embodied AI
 - General Motors — Summer Intern - Global Manufacturing Robotics & Automation
 - General Motors — Systems/Calibration Engineer Intern - ADAS Drive
 - GenMD — AI Research Scientist Intern
@@ -370,7 +389,7 @@ _Generated 2026-10-16_
 - Impulse Space — Avionics Electric Propulsion Engineering Intern
 - Impulse Space — Ground Software Engineering Intern - Summer 2027
 - Impulse Space — RF Test Engineer Intern - Summer 2027
-- InfiniteQuant — Quantitative Developer Internship - Summer 2027
+- InfiniteQuant — Quantitative Developer Intern
 - Ingredion — Customer Innovation Technical Service Intern - Texture & Healthful Solutions
 - Innovative Defense Technologies — Software Engineer Intern
 - Innovative Defense Technologies — Software Engineer Intern
@@ -442,6 +461,7 @@ _Generated 2026-10-16_
 - Lawrence Livermore National Laboratory (LLNL) — Computing Intern - Summer Undergraduate Internship Program
 - Lawrence Livermore National Laboratory (LLNL) — Computing Undergraduate Student Intern - Early Internship Program
 - Lazard — Data Scientist Intern
+- Leidos — Data Engineering & Analytics Intern
 - Leidos — Data Science Intern
 - Leidos — Software Developer Intern
 - Leidos — Software Engineer Intern
@@ -495,6 +515,7 @@ _Generated 2026-10-16_
 - Medline — Product Management Intern - Summer 2027
 - Medline — RPA & Agentic AI Software Technologies Intern - Summer 2027
 - Medline — Software Engineer Intern - Summer 2027
+- Meijer — Risk Intelligence Intern - Asset Protection
 - Meijer — Store Analytics Intern
 - Melius — Software Engineer Intern
 - Merck — Business Intelligence Intern - Research Lab
@@ -601,6 +622,8 @@ _Generated 2026-10-16_
 - NXP Semiconductors — Test Engineer Intern
 - OceanComm — Engineering Intern/Co-op
 - ONE Finance — Software Engineer Intern
+- OpenGov — Product Intern
+- OpenGov — Product Intern
 - Optiver — Institutional Trader Intern
 - Oshkosh — Advanced Analytics Intern
 - Oshkosh — Autonomy Engineering Intern - Summer 2027
@@ -610,8 +633,10 @@ _Generated 2026-10-16_
 - Parsons — Software Engineer Intern
 - PathAI — Machine Learning Intern/Co-op
 - Penta Group — Monitoring & Insights Intern
+- Persona — Software Engineer Intern
 - Philips — Digital Healthtech Product Management Intern
 - Philips — Electrical Engineer Intern
+- Philips — Insights and Analytics Intern - Health Systems Marketing
 - Philips — Systems Test Engineering Intern
 - Pinterest — UX Engineering Intern
 - Planview — Software Engineer Intern
@@ -626,6 +651,7 @@ _Generated 2026-10-16_
 - Principal Financial Group — Data and Analytics Intern - Multiple Teams
 - Procter & Gamble — Data Science and Machine Learning PhD Intern
 - PSP Investments — AI Solutions Intern - External Manager Selection & Monitoring
+- Qorvo — Device Engineering Intern
 - Qorvo — Product Engineer Intern - Design and Applications
 - Qorvo — Product Management Engineer Intern - High Performance Analog
 - Qorvo — Technology Development Intern
@@ -816,6 +842,7 @@ _Generated 2026-10-16_
 - Tokyo Electron — Sales Business Analyst Intern
 - Tokyo Electron — Software Engineer Intern
 - Tokyo Electron — Software Engineer Intern - AI Research
+- Trane Technologies — AI & Analytics Intern
 - TRC Companies — Advanced Energy Intern
 - Tyler Technologies — Software Development Intern - Summer 2027
 - U.S. Bank — Engineering Intern
@@ -881,4 +908,5 @@ _Generated 2026-10-16_
 - Zip — Software Engineer Intern - Winter 2027
 - Zipline — Embedded Software Engineer Intern - Spring 2027
 - Zipline — Long Range Platform Embedded Firmware Intern - Summer 2027
+- Zipline — Perception Intern - Summer 2027
 - Zipline — Software Engineer Intern - Summer 2027
