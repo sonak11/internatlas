@@ -7,6 +7,7 @@
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
 | Northwestern Mutual | [Enterprise Sustainability & Impact Intern - Modeling & Analytics](https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Milwaukee-WI-Corporate/Enterprise-Sustainability---Impact-Intern---Modeling---Analytics--Summer-2027_JR-46171) | Milwaukee, WI | Onsite | 2026-10-06 | Rolling | 🟢 Open | ❔ |
+| Northwestern Mutual | [Underwriting Research Intern](https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Milwaukee-WI-Corporate/Underwriting-Research-Intern--Summer-2027_JR-46209) | Milwaukee, WI | Onsite | 2026-10-15 | Rolling | 🟢 Open | ❔ |
 | Northwestern Mutual | [Actuarial Systems Intern](https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Milwaukee-WI-Corporate/Actuarial-Systems-Intern--Summer-2027_JR-46073) | Milwaukee, WI | Onsite | 2026-09-25 | Rolling | 🔴 Closed | ❔ |
 | Northwestern Mutual | [Investment Analyst Intern - Private Debt & Equity](https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Milwaukee-WI-Corporate/Investment-Analyst-Intern---Private-Debt---Equity--Summer-2027_JR-45705) | Milwaukee, WI | Onsite | 2026-07-24 | Rolling | 🔴 Closed | ❔ |
 | Northwestern Mutual | [Investment Data & Analytics Intern](https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Milwaukee-WI-Corporate/Investment-Data---Analytics-Intern--Summer-2027_JR-46050) | Milwaukee, WI | Onsite | 2026-09-17 | Rolling | 🔴 Closed | ❔ |
@@ -15,4 +16,4 @@
 
 ## Related
 
-Browse more roles in: [📈 Quant](../categories/quant.md), [💻 Software Engineering](../categories/software-engineering.md)
+Browse more roles in: [📈 Quant](../categories/quant.md), [🔬 Research](../categories/research.md), [💻 Software Engineering](../categories/software-engineering.md)

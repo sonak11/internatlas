@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 📊 Data Science Internships
 
-**246** tracked · **145** open now
+**245** tracked · **144** open now
 
 ## Current openings
 
@@ -41,7 +41,6 @@
 | [Boston Scientific](generated/companies/boston-scientific.md) | [R&D Research Data Science Intern](https://bostonscientific.eightfold.ai/careers/job/563602813667382) | USA | Onsite | 2026-09-28 | Rolling | 🟢 Open | ❔ |
 | [C3.ai](generated/companies/c3-ai.md) | [Data Scientist Intern - Summer 2027](https://c3.ai/job-description/8738918002?gh_jid=8738918002) | Redwood City, CA | Onsite | 2026-08-31 | Rolling | 🟢 Open | ❔ |
 | [Citizens Financial Group](generated/companies/citizens-financial-group.md) | [Data Science Intern - Multiple Teams](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49280) | Boston, MA +2 | Onsite | 2026-09-11 | Rolling | 🟢 Open | ❔ |
-| [Citizens Financial Group](generated/companies/citizens-financial-group.md) | [Data Science Intern - Multiple Teams](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49276) | Boston, MA +2 | Onsite | 2026-09-11 | Rolling | 🟢 Open | ❔ |
 | [Clarios](generated/companies/clarios.md) | [Data Science Intern](https://clarios.wd5.myworkdayjobs.com/clarioscareers/job/United-States-Wisconsin-Milwaukee/Data-Science-Intern--Summer-2027-_WD50211) | Milwaukee, WI | Onsite | 2026-09-17 | Rolling | 🟢 Open | ❔ |
 | [Coinbase](generated/companies/coinbase.md) | [Data Science Intern](https://www.coinbase.com/careers/positions/8175462?gh_jid=8175462) | Hybrid | Onsite | 2026-09-08 | Rolling | 🟢 Open | ❔ |
 | [Coinbase](generated/companies/coinbase.md) | [Data Science Intern - Strategy, Execution, & Analytics - Platform](https://boards.greenhouse.io/embed/job_app?token=8175462) | SF | Onsite | 2026-09-09 | Rolling | 🟢 Open | ❔ |
@@ -279,7 +278,6 @@
 - Amgen (2)
 - Atlassian (2)
 - Boeing (2)
-- Citizens Financial Group (2)
 - Coinbase (2)
 - DraftKings (2)
 - Duolingo (2)
@@ -318,6 +316,7 @@
 - AutoZone (1)
 - BlueCross BlueShield of Nebraska (1)
 - C3.ai (1)
+- Citizens Financial Group (1)
 - Clarios (1)
 - Commerce Bank (1)
 - Datacor (1)

@@ -22,6 +22,7 @@
 | Rivian | [Software Engineer Intern Co-op - Applied AI](https://careers.rivian.com/jobs/33984?icims=1) | Palo Alto, CA | Onsite | 2026-10-01 | Rolling | 🟢 Open | ❔ |
 | Rivian | [Software Engineer Intern Co-op - Design Automation](https://careers.rivian.com/jobs/33748?icims=1) | Palo Alto, CA | Onsite | 2026-09-22 | Rolling | 🟢 Open | ❔ |
 | Rivian | [Software Engineer Intern Co-op - Embedded Software](https://careers.rivian.com/jobs/33832?icims=1) | Palo Alto, CA | Onsite | 2026-10-05 | Rolling | 🟢 Open | ❔ |
+| Rivian | [Software Engineer Intern Co-op - Machine Learning Research - Perception](https://careers.rivian.com/jobs/33801?icims=1) | Palo Alto, CA | Onsite | 2026-10-15 | Rolling | 🟢 Open | ❔ |
 | Rivian | [Software Engineer Intern Co-op - Product Lifecycle Management](https://careers.rivian.com/jobs/33746?icims=1) | Palo Alto, CA | Onsite | 2026-09-22 | Rolling | 🟢 Open | ❔ |
 | Rivian | [Supply Chain Data, AI and Business Intelligence Co-op Intern](https://careers.rivian.com/jobs/33800?icims=1) | Normal, IL | Onsite | 2026-09-18 | Rolling | 🟢 Open | ❔ |
 | Rivian | [FPGA Design Intern - FPGA Design](https://careers.rivian.com/jobs/32954?icims=1) | Champaign, IL | Onsite | 2026-08-17 | Rolling | 🔴 Closed | ❔ |

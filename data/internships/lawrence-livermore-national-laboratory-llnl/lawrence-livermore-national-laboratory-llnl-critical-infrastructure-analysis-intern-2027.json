@@ -1,30 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "citizens-financial-group-data-science-intern-multiple-teams-2027-d4a686",
+  "id": "lawrence-livermore-national-laboratory-llnl-critical-infrastructure-analysis-intern-2027",
   "company": {
-    "name": "Citizens Financial Group",
-    "slug": "citizens-financial-group"
+    "name": "Lawrence Livermore National Laboratory (LLNL)",
+    "slug": "lawrence-livermore-national-laboratory-llnl"
   },
-  "role": "Data Science Intern - Multiple Teams",
-  "category": "data-science",
-  "apply_url": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49280",
+  "role": "Critical Infrastructure Analysis Intern",
+  "category": "cloud",
+  "apply_url": "https://jobs.smartrecruiters.com/LLNL/3743990016165496",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Boston",
-      "state": "MA",
-      "country": "USA"
-    },
-    {
-      "city": "Johnston",
-      "state": "RI",
-      "country": "USA"
-    },
-    {
-      "city": "Columbus",
-      "state": "OH",
+      "city": "Livermore",
+      "state": "CA",
       "country": "USA"
     }
   ],
@@ -35,10 +25,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters",
-      "phd"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -53,9 +40,9 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-11",
-    "discovered": "2026-09-11",
-    "last_verified": "2026-10-15"
+    "posted": "2026-10-15",
+    "discovered": "2026-10-16",
+    "last_verified": "2026-10-16"
   },
   "status": "open",
   "tags": [

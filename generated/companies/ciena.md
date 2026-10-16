@@ -6,6 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
+| Ciena | [Embedded Software Developer Intern](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Wavelogic-Embedded-Software-Developer-Intern--Winter-2027-_R031890) | Ottawa | Onsite | 2026-10-15 | Rolling | 🟢 Open | ❔ |
 | Ciena | [Hardware Design and Verification Intern - PCBA](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Hardware--PCBA--Design-and-Verification-Intern--Winter-2027---4-Months-_R031787) | Ottawa | Onsite | 2026-09-29 | Rolling | 🟢 Open | ❔ |
 | Ciena | [Hardware Design and Verification Intern - PCBA](https://ciena.wd5.myworkdayjobs.com/Careers/job/Canada--Ottawa--383-Terry-Fox--Bldg-C/Hardware--PCBA--Design-and-Verification-Intern--Winter-2027---4-months-_R031752) | Ottawa | Onsite | 2026-09-25 | Rolling | 🟢 Open | ❔ |
 | Ciena | [Modem Hardware Engineer Intern/Co-op](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Wavelogic-Modem-HW-Engineering-Intern-Co-op--Winter-2027---4-month-_R031652) | Ottawa | Onsite | 2026-09-10 | Rolling | 🟢 Open | ❔ |

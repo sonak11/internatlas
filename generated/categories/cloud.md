@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # ☁️ Cloud Internships
 
-**59** tracked · **42** open now
+**60** tracked · **42** open now
 
 ## Current openings
 
@@ -25,9 +25,9 @@
 | [Etched](generated/companies/etched.md) | [Infrastructure Intern](https://jobs.ashbyhq.com/Etched/80926a71-0a62-4bf8-a877-b6d96df279b7) | San Jose, CA | Onsite | 2026-05-22 | Rolling | 🟢 Open | ❔ |
 | [Etched](generated/companies/etched.md) | [Infrastructure Intern](https://jobs.ashbyhq.com/Etched/65348db2-5658-41d0-a833-af222865d979) | San Jose, CA | Onsite | 2026-05-22 | Rolling | 🟢 Open | ❔ |
 | [HP IQ](generated/companies/hp-iq.md) | [Software Engineer Intern - Cloud Services - Summer 2027](https://job-boards.greenhouse.io/hpiq/jobs/6111955004) | SF | Onsite | 2026-08-31 | Rolling | 🟢 Open | ❔ |
+| [Lawrence Livermore National Laboratory (LLNL)](generated/companies/lawrence-livermore-national-laboratory-llnl.md) | [Critical Infrastructure Analysis Intern](https://jobs.smartrecruiters.com/LLNL/3743990016165496) | Livermore, CA | Onsite | 2026-10-15 | Rolling | 🟢 Open | ❔ |
 | [Meta](generated/companies/meta.md) | [Software Engineer Intern - Systems and Infrastructure - PhD](https://www.metacareers.com/jobs/945520495299801) | Seattle, WA +6 | Onsite | 2026-10-06 | Rolling | 🟢 Open | ❔ |
 | [Microsoft](generated/companies/microsoft.md) | [Software Engineer Intern, Cloud & Distributed Backend](https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0&pid=1970393556922923) | Redmond, WA | Onsite | 2026-08-04 | Rolling | 🟢 Open | ✅ |
-| [National Laboratory of the Rockies](generated/companies/national-laboratory-of-the-rockies.md) | [Software and Data Infrastructure Intern](https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Undergraduate-graduate-intern---software-and-data-infrastructure-for-autonomous-thin-film-experimentation--Year-Round-_R14394) | Golden, CO | Onsite | 2026-07-08 | Rolling | 🟢 Open | ❔ |
 | [Neuralink](generated/companies/neuralink.md) | [Software Engineer Intern, Infrastructure](https://boards.greenhouse.io/neuralink/jobs/5469298003?gh_jid=5469298003) | South San Francisco | Onsite | 2024-06-13 | Rolling | 🟢 Open | ❔ |
 | [Nissan Global](generated/companies/nissan-global.md) | [EA & Cloud Intern](https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Franklin-Tennessee---United-States-of-America/EA---Cloud-Intern---Summer-2027---Franklin--TN_R00214214) | Franklin, TN | Onsite | 2026-10-09 | Rolling | 🟢 Open | ❔ |
 | [Palantir Technologies](generated/companies/palantir-technologies.md) | [Software Engineer Intern, Infrastructure](https://jobs.lever.co/palantir/f221738b-e97c-4ce3-a12a-17ada2b855e4) | Palo Alto, CA | Onsite | 2026-07-24 | Rolling | 🟢 Open | ❔ |
@@ -57,6 +57,7 @@
 | [Crowe](generated/companies/crowe.md) | [ServiceNow Implementation Intern - ServiceNow Cloud Solutions](https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/ServiceNow-Implementation-Intern_R-71036) | Chicago, IL | Onsite | 2026-08-14 | Rolling | 🔴 Closed | ❔ |
 | [Hitachi Energy](generated/companies/hitachi-energy.md) | [Cloud & Data Specialist Intern](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/London-London-United-Kingdom/Intern---Cloud---Data-Specialist--67651-_R0138533) | London | Onsite | 2026-07-20 | Rolling | 🔴 Closed | ❔ |
 | [Microsoft](generated/companies/microsoft.md) | [Software Engineer Intern - Cloud & Distributed Backend](https://apply.careers.microsoft.com/careers/job/1970393556922923) | Redmond, WA | Onsite | 2026-08-04 | Rolling | 🔴 Closed | ❔ |
+| [National Laboratory of the Rockies](generated/companies/national-laboratory-of-the-rockies.md) | [Software and Data Infrastructure Intern](https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Undergraduate-graduate-intern---software-and-data-infrastructure-for-autonomous-thin-film-experimentation--Year-Round-_R14394) | Golden, CO | Onsite | 2026-07-08 | Rolling | 🔴 Closed | ❔ |
 | [Palantir](generated/companies/palantir.md) | [Software Engineer Intern - Infrastructure](https://jobs.lever.co/palantir/fd3603a9-7016-45c6-9c8d-04c9279ab85e/apply) | London | Onsite | 2026-07-31 | Rolling | 🔴 Closed | ❔ |
 | [Palantir Technologies](generated/companies/palantir-technologies.md) | [Forward Deployed Infrastructure Engineer Intern](https://jobs.lever.co/palantir/cf5f44ff-1b0b-4752-bcd4-2dc88798f25b) | New York, NY | Onsite | 2026-07-24 | Rolling | 🔴 Closed | ❌ |
 | [Palantir Technologies](generated/companies/palantir-technologies.md) | [Forward Deployed Infrastructure Engineer Intern](https://jobs.lever.co/palantir/8f362a1f-1eff-4327-94c1-ff46e2101c69) | Palo Alto, CA | Onsite | 2026-07-24 | Rolling | 🔴 Closed | ✅ |
@@ -82,8 +83,8 @@
 - Akuna Capital (1)
 - DRW (1)
 - HP IQ (1)
+- Lawrence Livermore National Laboratory (LLNL) (1)
 - Meta (1)
-- National Laboratory of the Rockies (1)
 - Neuralink (1)
 - Nissan Global (1)
 - Poshmark (1)
@@ -96,6 +97,7 @@
 - Air Products (1)
 - Crowe (1)
 - Hitachi Energy (1)
+- National Laboratory of the Rockies (1)
 - Palantir (1)
 - Panasonic Holdings (1)
 - Phlair (1)
