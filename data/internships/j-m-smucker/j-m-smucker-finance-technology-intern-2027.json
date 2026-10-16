@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "costar-group-technology-intern-2027-4cb975",
+  "id": "j-m-smucker-finance-technology-intern-2027",
   "company": {
-    "name": "CoStar Group",
-    "slug": "costar-group"
+    "name": "J.M. Smucker",
+    "slug": "j-m-smucker"
   },
-  "role": "Technology Intern",
+  "role": "Finance Technology Intern",
   "category": "software-engineering",
-  "apply_url": "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Sunnyvale-US/Summer-2027-Technology-Intern---Sunnyvale--CA_R39945",
-  "season": "summer",
+  "apply_url": "https://smucker.wd5.myworkdayjobs.com/US_External_Careers/job/Orrville-OH/Finance-Technology-Intern--Spring-2027_116016",
+  "season": "spring",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Sunnyvale",
-      "state": "CA",
+      "city": "Orrville",
+      "state": "OH",
       "country": "USA"
     }
   ],
@@ -40,8 +40,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-10-01",
-    "discovered": "2026-10-02",
+    "posted": "2026-10-16",
+    "discovered": "2026-10-16",
     "last_verified": "2026-10-16"
   },
   "status": "open",

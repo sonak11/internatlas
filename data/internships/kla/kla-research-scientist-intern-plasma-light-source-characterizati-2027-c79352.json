@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0",
+  "id": "kla-research-scientist-intern-plasma-light-source-characterizati-2027-c79352",
+  "company": {
+    "name": "KLA",
+    "slug": "kla"
+  },
+  "role": "Research Scientist Intern - Plasma Light Source Characterization",
+  "category": "research",
+  "apply_url": "https://kla.wd1.myworkdayjobs.com/UR/job/Ann-Arbor-MI/Research-Scientist-Intern---Coating-Characterization_2642033",
+  "season": "summer",
+  "year": 2027,
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "Ann Arbor",
+      "state": "MI",
+      "country": "USA"
+    }
+  ],
+  "compensation": {
+    "currency": "USD",
+    "housing_stipend": false,
+    "relocation_assistance": false
+  },
+  "eligibility": {
+    "graduation_years": [],
+    "degree_levels": [],
+    "citizenship_required": false,
+    "security_clearance_required": false,
+    "visa_sponsorship": "unknown"
+  },
+  "interview": {},
+  "tech": {
+    "required_skills": [],
+    "preferred_skills": [],
+    "languages": [],
+    "frameworks": [],
+    "cloud_platforms": [],
+    "resume_keywords": []
+  },
+  "dates": {
+    "posted": "2026-10-13",
+    "discovered": "2026-10-16",
+    "last_verified": "2026-10-16"
+  },
+  "status": "open",
+  "tags": [
+    "auto-ingested",
+    "src:simplify"
+  ]
+}
