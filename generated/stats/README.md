@@ -87,7 +87,6 @@ _Generated 2026-10-17_
 - AIG — Summer Intern - Data Office
 - Alexion — Development Operations AI & Automation Enablement Co-op Intern
 - Allen Control Systems — Electrical Engineer Intern
-- Altar'd State — Store Operations Data Analyst Intern
 - Altice USA — Data Engineer Intern
 - AMD — AI Agentic Flow for GPU ASIC Design Co-op Intern
 - AMD — AI Engineering Intern
@@ -231,6 +230,7 @@ _Generated 2026-10-17_
 - Corning — Digital & IT Intern - Manufacturing AI/ML
 - Corning — Imaging Sciences Engineer Intern
 - Corteva — AI Engineer Intern
+- Cox — Data Scientist Intern
 - Cox — Product Management Intern
 - Cox — Product Management Intern - Summer 2027
 - Cox — Product Management Intern - Summer 2027
@@ -268,6 +268,7 @@ _Generated 2026-10-17_
 - Elevance Health — Engineering Graduate Intern
 - Elevance Health — Engineering Intern
 - Energy Transfer Partners — Business Transformation and Integration Intern
+- Ensemble Health Partners — Engineering Excellence Intern
 - Entergy — AI Developer Intern
 - Entergy — Artificial Intelligence Intern
 - Entergy — Compliance and Systems Support Intern
@@ -302,6 +303,7 @@ _Generated 2026-10-17_
 - Freddie Mac — Multifamily Capital Markets Analytics & Engineering Intern
 - Freddie Mac — Multifamily Digital Product Analysis Intern - Summer 2027
 - Freddie Mac — Multifamily Software Development Intern - Summer 2027
+- Freddie Mac — Quantitative Risk Management Intern
 - Freddie Mac — Single-Family Data Intern
 - Freddie Mac — Software Developer Intern - Single-Family
 - Freddie Mac — Technology Intern - Enterprise Operations + Technology
@@ -327,29 +329,7 @@ _Generated 2026-10-17_
 - GenMD — AI Research Scientist Intern
 - Genworth Financial — Data Analytics Intern - Summer 2027
 - GM financial — Software Development Engineer Intern
-- Goldman Sachs — Associate Intern - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Associate Intern - Asset and Wealth Management
-- Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Americas
-- Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Investment Banking
-- Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
-- Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
-- Goldman Sachs — Quantitative Strats Analyst Intern - Americas - Investment Banking
-- Goldman Sachs — Summer Analyst Intern
 - Goldman Sachs — Summer Analyst Intern - Americas - Engineering
-- Goldman Sachs — Summer Analyst Intern - Americas - Investment Banking Quantitative Strats
-- Goldman Sachs — Summer Analyst Intern - Engineering
-- Goldman Sachs — Summer Analyst Intern - Engineering
-- Goldman Sachs — Summer Analyst Intern - FICC and Equities - Sales and Trading
-- Goldman Sachs — Summer Analyst Intern - The Core Quantitative Strats
-- Goldman Sachs — Summer Associate Intern
-- Goldman Sachs — Summer Associate Intern - Multiple Teams
 - Google — Data Scientist Intern - Product
 - Google — Hardware Engineer Intern
 - Google — Product Manager Intern - Summer 2027
@@ -367,6 +347,7 @@ _Generated 2026-10-17_
 - Howden — Business Intelligence Intern
 - Howmet Aerospace — Artificial Intelligence Intern - AI
 - Hudson River Trading — Data Scientist Intern - 2027
+- Hudson River Trading — Women in Trading and Technology Internship (WiTTI) – Winter 2027
 - Humana — Analytics Intern
 - Huntington Bancshares — Business Innovation & AI Products Intern
 - Huntington Bancshares — Data and Analytics Intern
@@ -410,6 +391,7 @@ _Generated 2026-10-17_
 - Johns Hopkins Applied Physics Laboratory — Software Development Intern
 - Johns Hopkins Applied Physics Laboratory — Software Engineer/Data Scientist/Ontologist Intern - Threat Analytic Systems
 - Johnson & Johnson — Robotics Controls & Autonomy Intern - Robotics R&D
+- Johnson & Johnson — Software Engineer Intern - Robotics R&D
 - Jones Lang LaSalle — AI Intern
 - Judi Health — MBA Analytics Intern - Clinical Programs
 - Jump Trading — Campus FPGA Engineer Intern
@@ -474,7 +456,6 @@ _Generated 2026-10-17_
 - Marvell — Architecture Intern - MS
 - Marvell — Board Product Engineer Intern - BS
 - Marvell — Board Product Engineer Intern - BS
-- Marvell — Design Verification Intern - BS
 - Marvell — Product Engineer Intern
 - Marvell — Product Engineer Intern
 - Marvell — Test Solutions Engineering Intern - BS - Post-Silicon Hardware Validation
@@ -841,9 +822,11 @@ _Generated 2026-10-17_
 - Workato — Intern AI Engineering
 - Xaira Therapeutics — AI Scientist Intern - Computational Protein Design
 - Xcel Energy — AI and Analytics Intern
+- Xcel Energy — AI & Automation Intern - Regulatory
 - Xcel Energy — Asset Strategy & Budget Integration Intern
 - Xcel Energy — Computer Information Systems Intern
 - Xcel Energy — Customer Insight Intern
+- Xcel Energy — Data Governance, Visualization and Automation Intern - Financial Data Governance - Data Visualization
 - Xcel Energy — Data Science Intern
 - Xcel Energy — Data Scientist Intern
 - Xcel Energy — Energy Programs Strategy & Analytics Intern
@@ -853,11 +836,14 @@ _Generated 2026-10-17_
 - Xcel Energy — Geospatial Data Validation Intern
 - Xcel Energy — GIS Intern
 - Xcel Energy — Grid Data Intern
+- Xcel Energy — Load Research & Energy and Demand Forecasting Intern
 - Xcel Energy — Renewable and Demand Response Intern
 - Xcel Energy — Renewable Operations Center Intern
 - Xcel Energy — Reporting and Compliance Analyst Intern
 - Xcel Energy — Residential Energy Product Strategy Intern
 - Xcel Energy — Residential Energy Product Strategy Intern
+- Xcel Energy — Residential Energy Product Strategy Intern
+- Xcel Energy — Resource Planning Intern
 - XPENG Motors — Robotics Center Intern - Multiple Teams
 - Zions Bank — Process Automation Developer Intern
 - Zip — Software Engineer Intern - Winter 2027
@@ -865,4 +851,3 @@ _Generated 2026-10-17_
 - Zipline — Long Range Platform Embedded Firmware Intern - Summer 2027
 - Zipline — Perception Intern - Summer 2027
 - Zipline — Software Engineer Intern - Summer 2027
-- Zurn Elkay Water Solutions — Embedded Hardware Intern
