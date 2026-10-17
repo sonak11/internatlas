@@ -1,0 +1,51 @@
+{
+  "schema_version": "1.0",
+  "id": "pennsylvania-state-university-r-d-engineer-intern-2027-86291e",
+  "company": {
+    "name": "Pennsylvania State University",
+    "slug": "pennsylvania-state-university"
+  },
+  "role": "R&D Engineer Intern",
+  "category": "software-engineering",
+  "apply_url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/R-D-Engineer-Intern_REQ_0000082444-1",
+  "season": "summer",
+  "year": 2027,
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "University Park",
+      "country": "State College"
+    }
+  ],
+  "compensation": {
+    "currency": "USD",
+    "housing_stipend": false,
+    "relocation_assistance": false
+  },
+  "eligibility": {
+    "graduation_years": [],
+    "degree_levels": [],
+    "citizenship_required": false,
+    "security_clearance_required": false,
+    "visa_sponsorship": "unknown"
+  },
+  "interview": {},
+  "tech": {
+    "required_skills": [],
+    "preferred_skills": [],
+    "languages": [],
+    "frameworks": [],
+    "cloud_platforms": [],
+    "resume_keywords": []
+  },
+  "dates": {
+    "posted": "2026-10-16",
+    "discovered": "2026-10-17",
+    "last_verified": "2026-10-17"
+  },
+  "status": "open",
+  "tags": [
+    "auto-ingested",
+    "src:simplify"
+  ]
+}
