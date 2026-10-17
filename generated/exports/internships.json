@@ -1,6 +1,6 @@
 {
   "generated": "2026-10-17",
-  "count": 6321,
+  "count": 6326,
   "internships": [
     {
       "schema_version": "1.0",
@@ -26830,9 +26830,9 @@
       "dates": {
         "posted": "2026-10-12",
         "discovered": "2026-10-13",
-        "last_verified": "2026-10-16"
+        "last_verified": "2026-10-17"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -60349,7 +60349,7 @@
         "discovered": "2026-09-19",
         "last_verified": "2026-10-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -75922,7 +75922,7 @@
         "discovered": "2026-10-13",
         "last_verified": "2026-10-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -75974,7 +75974,7 @@
         "discovered": "2026-10-13",
         "last_verified": "2026-10-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -76026,7 +76026,7 @@
         "discovered": "2026-10-13",
         "last_verified": "2026-10-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -78235,7 +78235,7 @@
         "discovered": "2026-09-08",
         "last_verified": "2026-10-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -121283,7 +121283,7 @@
         "discovered": "2026-08-27",
         "last_verified": "2026-10-17"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -121388,7 +121388,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-10-17"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -121441,7 +121441,7 @@
         "discovered": "2026-10-11",
         "last_verified": "2026-10-17"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -121494,7 +121494,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-10-17"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -121546,7 +121546,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-17"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -121598,7 +121598,7 @@
         "discovered": "2026-10-06",
         "last_verified": "2026-10-17"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -121652,7 +121652,7 @@
         "discovered": "2026-09-16",
         "last_verified": "2026-10-17"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -121705,7 +121705,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-17"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -121756,7 +121756,7 @@
         "discovered": "2026-10-12",
         "last_verified": "2026-10-17"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -121810,7 +121810,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-17"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -121861,7 +121861,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-17"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -121912,7 +121912,7 @@
         "discovered": "2026-10-10",
         "last_verified": "2026-10-17"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -121963,7 +121963,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-10-17"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -122015,7 +122015,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-17"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -122066,7 +122066,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-17"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -122275,7 +122275,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-17"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -122329,7 +122329,7 @@
         "discovered": "2026-10-11",
         "last_verified": "2026-10-17"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -122436,7 +122436,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-17"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -122490,7 +122490,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-10-17"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -122592,7 +122592,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-17"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -122747,7 +122747,7 @@
         "discovered": "2026-08-29",
         "last_verified": "2026-10-17"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -122800,7 +122800,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-10-17"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -127292,7 +127292,7 @@
         "discovered": "2026-09-11",
         "last_verified": "2026-10-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -156776,7 +156776,7 @@
         "discovered": "2026-10-06",
         "last_verified": "2026-10-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -178078,7 +178078,7 @@
         "discovered": "2026-09-08",
         "last_verified": "2026-10-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -201371,7 +201371,7 @@
         "discovered": "2026-10-14",
         "last_verified": "2026-10-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -201691,7 +201691,7 @@
         "discovered": "2026-10-14",
         "last_verified": "2026-10-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -210028,6 +210028,60 @@
         "last_verified": "2026-09-26"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "onsemi-applications-intern-2027-c6dea0",
+      "company": {
+        "name": "onsemi",
+        "slug": "onsemi"
+      },
+      "role": "Applications Intern",
+      "category": "software-engineering",
+      "apply_url": "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506972",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Scottsdale",
+          "state": "AZ",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-17",
+        "discovered": "2026-10-17",
+        "last_verified": "2026-10-17"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -246407,7 +246461,7 @@
         "discovered": "2026-09-25",
         "last_verified": "2026-10-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -246460,7 +246514,7 @@
         "discovered": "2026-09-25",
         "last_verified": "2026-10-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -252548,7 +252602,7 @@
         "discovered": "2026-10-09",
         "last_verified": "2026-10-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -252760,7 +252814,7 @@
         "discovered": "2026-10-09",
         "last_verified": "2026-10-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -253782,7 +253836,7 @@
         "discovered": "2026-10-09",
         "last_verified": "2026-10-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -256792,6 +256846,114 @@
       "role": "Software Development Intern",
       "category": "software-engineering",
       "apply_url": "https://ryan.wd1.myworkdayjobs.com/RyanCareers/job/Plano/Summer-2027-Intern--Software-Development_R0020822-1",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Plano",
+          "state": "TX",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-16",
+        "discovered": "2026-10-17",
+        "last_verified": "2026-10-17"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "ryan-software-engineer-intern-2027-552f26",
+      "company": {
+        "name": "Ryan",
+        "slug": "ryan"
+      },
+      "role": "Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://ryan.wd1.myworkdayjobs.com/Students-Graduates/job/Plano/Summer-2027-Intern--Software-Engineering_R0020843",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Plano",
+          "state": "TX",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-16",
+        "discovered": "2026-10-17",
+        "last_verified": "2026-10-17"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "ryan-software-engineer-intern-2027",
+      "company": {
+        "name": "Ryan",
+        "slug": "ryan"
+      },
+      "role": "Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://ryan.wd1.myworkdayjobs.com/RyanCareers/job/Plano/Summer-2027-Intern--Software-Engineering_R0020843-1",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
@@ -296402,7 +296564,7 @@
         "discovered": "2026-09-17",
         "last_verified": "2026-10-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -311465,6 +311627,60 @@
     },
     {
       "schema_version": "1.0",
+      "id": "together-ai-research-intern-2027",
+      "company": {
+        "name": "Together AI",
+        "slug": "together-ai"
+      },
+      "role": "Research Intern",
+      "category": "research",
+      "apply_url": "https://job-boards.greenhouse.io/togetherai/jobs/5267198007",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "SF",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters",
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-17",
+        "discovered": "2026-10-17",
+        "last_verified": "2026-10-17"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "together-ai-research-intern-frontier-agents-2027-1d9b77",
       "company": {
         "name": "Together AI",
@@ -311561,6 +311777,60 @@
       "dates": {
         "posted": "2026-09-18",
         "discovered": "2026-09-19",
+        "last_verified": "2026-10-17"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "together-ai-research-intern-frontier-speculative-decoding-2027",
+      "company": {
+        "name": "Together AI",
+        "slug": "together-ai"
+      },
+      "role": "Research Intern - Frontier Speculative Decoding",
+      "category": "research",
+      "apply_url": "https://job-boards.greenhouse.io/togetherai/jobs/5267197007",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "SF",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters",
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-17",
+        "discovered": "2026-10-17",
         "last_verified": "2026-10-17"
       },
       "status": "open",

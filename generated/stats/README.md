@@ -33,13 +33,13 @@ _Generated 2026-10-17_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 3749 | `███████████████` |
+| software-engineering | 3752 | `███████████████` |
 | ai | 512 | `██` |
 | quant | 335 | `█` |
 | machine-learning | 303 | `█` |
 | data-science | 246 | `█` |
 | hardware | 234 | `█` |
-| research | 210 | `█` |
+| research | 212 | `█` |
 | product | 208 | `█` |
 | design | 169 | `█` |
 | embedded | 155 | `█` |
@@ -49,6 +49,9 @@ _Generated 2026-10-17_
 
 ## Newest listings
 
+- 2026-10-17 — **onsemi**: [Applications Intern](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506972)
+- 2026-10-17 — **Together AI**: [Research Intern](https://job-boards.greenhouse.io/togetherai/jobs/5267198007)
+- 2026-10-17 — **Together AI**: [Research Intern - Frontier Speculative Decoding](https://job-boards.greenhouse.io/togetherai/jobs/5267197007)
 - 2026-10-16 — **Abridge**: [Member of Technical Staff Intern](https://jobs.ashbyhq.com/abridge/aab11857-7ed3-4fc5-aab3-35256601117e/application?embed=true)
 - 2026-10-16 — **ADT**: [Hardware Engineering & Connected Devices Intern](https://fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3022475)
 - 2026-10-16 — **AGCO**: [Embedded Software Engineer Intern](https://careers.agcocorp.com/job/Hesston-Embedded-Software-Engineering-Intern-Summer-2027-KS-67062/1440993300/?ats=successfactors)
@@ -66,9 +69,6 @@ _Generated 2026-10-17_
 - 2026-10-16 — **Electronic Arts**: [AI/ML Software Engineer Co-op Intern](https://jobs.ea.com/en_US/careers/JobDetail/AI-ML-Software-Engineer-Intern-Summer-2027-8-Months-Masters-QVS/216234)
 - 2026-10-16 — **Electronic Arts**: [Analytics Intern](https://jobs.ea.com/en_US/careers/JobDetail/Analytics-Intern/216232)
 - 2026-10-16 — **Electronic Arts**: [Client AI Software Engineer Intern](https://jobs.ea.com/en_US/careers/JobDetail/Client-AI-Software-Engineer-Intern/216364)
-- 2026-10-16 — **Electronic Arts**: [Software Engineer Intern - Gameplay UI](https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern-Gameplay-UI/216190)
-- 2026-10-16 — **Electronic Arts**: [Software Engineer Tools Intern](https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern-Tools/216192)
-- 2026-10-16 — **Electronic Arts**: [UI Scripter Intern](https://jobs.ea.com/en_US/careers/JobDetail/UI-Scripter-Intern/216359)
 
 ## Recently closed
 
@@ -129,7 +129,6 @@ _Generated 2026-10-17_
 - Applied Materials — Data Analyst Intern - Global Technical Learning Center
 - AQR Capital Management — Trading Analyst Intern
 - Ascension — Data Science Intern
-- Ascension — Master Data Management Intern
 - ASM International — Software Engineering Intern
 - AspenTech — Project Engineering Intern - Digital Grid Management
 - Associated Bank — Corporate Intern - Product Development
@@ -189,6 +188,7 @@ _Generated 2026-10-17_
 - CDM Smith — Electrical Engineer Intern - Summer 2027
 - Centene — AI Enablement Intern
 - Centene — AI Software Developer Intern
+- Centene — Data and Analytics Intern - Undergraduate
 - Centene — Medical Economics Analyst Intern
 - Centene — Medical Economics Analyst Intern
 - CesiumAstro — Electrical Engineer Intern - FPGA
@@ -217,6 +217,9 @@ _Generated 2026-10-17_
 - Commerce Bank — Data Analyst Intern - Summer 2027
 - Commerce Bank — Data Science Intern
 - Contoro — Robotics Test & Validation Intern
+- Corewell Health — Digital Services Generative AI Internship
+- Corewell Health — Digital Services Integrated Data and Analytics Intern
+- Corewell Health — Digital Services Web and Mobile Developer Intern
 - Corning — Digital and Information Technology Intern - Analyst
 - Corning — Digital & IT Intern
 - Corning — Digital & IT Intern - Analyst - Data & AI Platform Engineering
@@ -226,6 +229,7 @@ _Generated 2026-10-17_
 - Corning — Imaging Sciences Engineer Intern
 - Corteva — AI Engineer Intern
 - Cox — Product Management Intern
+- Cox — Product Management Intern - Summer 2027
 - Cox — Product Management Intern - Summer 2027
 - Cox — Product Management Intern - Summer 2027
 - Cox — Product Management Intern - Summer 2027
@@ -319,35 +323,14 @@ _Generated 2026-10-17_
 - General Motors — Systems/Calibration Engineer Intern - ADAS Drive
 - GenMD — AI Research Scientist Intern
 - Genworth Financial — Data Analytics Intern - Summer 2027
-- Goldman Sachs — Associate Intern - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Associate Intern - Asset and Wealth Management
-- Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Americas
-- Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Investment Banking
-- Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
-- Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
-- Goldman Sachs — Quantitative Strats Analyst Intern - Americas - Investment Banking
-- Goldman Sachs — Summer Analyst Intern
 - Goldman Sachs — Summer Analyst Intern - Americas - Engineering
-- Goldman Sachs — Summer Analyst Intern - Americas - Investment Banking Quantitative Strats
-- Goldman Sachs — Summer Analyst Intern - Engineering
-- Goldman Sachs — Summer Analyst Intern - Engineering
-- Goldman Sachs — Summer Analyst Intern - FICC and Equities - Sales and Trading
-- Goldman Sachs — Summer Analyst Intern - The Core Quantitative Strats
-- Goldman Sachs — Summer Associate Intern
-- Goldman Sachs — Summer Associate Intern - Multiple Teams
 - Google — Data Scientist Intern - Product
 - Google — Hardware Engineer Intern
 - Google — Product Manager Intern - Summer 2027
 - Google — Silicon Engineering Intern - BS/MS - Multiple Teams
 - Google — User Experience Engineer Intern
 - Gordon Food Service — Software Engineer Intern
+- GrayMatter Robotics — Robotics Engineering Intern - Systems & Applications
 - Guardian Life — Summer Intern - Group Benefits Product Management
 - HD Supply — Artificial Intelligence and Data Science Intern - Artificial Intelligence & Data Science
 - Hexagon AB — Defense Engineer Intern - Aerospace and Defense Engineering
@@ -406,6 +389,7 @@ _Generated 2026-10-17_
 - Jump Trading — Campus FPGA Engineer (Intern)
 - KeyBank — Corporate Center – Measurement & Impact Intern
 - Keysight Technologies — Software Engineer Intern - R&D - FPGA
+- Khan Academy — Software Engineer Intern
 - Kinaxis — Developer Intern - Clients - Front End Technologies
 - Kinaxis — Developer Intern Co-op - AI Innovation
 - Kinder Morgan — ESG Intern
@@ -476,6 +460,7 @@ _Generated 2026-10-17_
 - Medline — Product Management Intern - Summer 2027
 - Medline — RPA & Agentic AI Software Technologies Intern - Summer 2027
 - Medline — Software Engineer Intern - Summer 2027
+- Meijer — Data Science Intern
 - Meijer — Risk Intelligence Intern - Asset Protection
 - Meijer — Store Analytics Intern
 - Merck — Business Intelligence Intern - Research Lab
@@ -544,10 +529,12 @@ _Generated 2026-10-17_
 - North Atlantic Industries — Electrical Engineer Qualification Test Intern
 - Northrop Grumman — College Technical Intern
 - Northrop Grumman — Cyber Software Engineer Intern
+- Northrop Grumman — Electronics Engineering Intern
 - Northrop Grumman — Embedded Software Engineer Intern
 - Northrop Grumman — Hardware Electronics Engineer Intern
 - Northrop Grumman — Software Developer Intern
 - Northrop Grumman — Software Digital Intern
+- Northrop Grumman — Software Embedded Engineer Intern
 - Northrop Grumman — Software Engineer Intern
 - Northrop Grumman — Software Engineer Intern
 - Northrop Grumman — Software Engineer Intern
@@ -654,6 +641,8 @@ _Generated 2026-10-17_
 - Royal Bank of Canada — Credit Modeling and Methodology Analyst Intern - GRM
 - Royal Bank of Canada — Data Analyst Intern
 - Royal Bank of Canada — MCCR Policy AI Applications Intern - GRM
+- Royal Bank of Canada — Quantum Technologies Intern
+- Royal Bank of Canada — Quantum Technologies Intern - 8 Months
 - RSM — Catamaran Managed Services Intern
 - RTX — AI Engineering Intern
 - RTX — Business & Data Analyst Intern
@@ -665,6 +654,9 @@ _Generated 2026-10-17_
 - RTX — Electrical Engineer Intern - Summer 2027
 - RTX — Flight Control Software Engineer Intern
 - RTX — Numerical Methods Intern - Advanced Software Development
+- RTX — Software Engineer Intern
+- RTX — Software Engineer Intern
+- RTX — Software Engineer Intern
 - RTX — Software Engineer Intern
 - RTX — Software Engineer Intern
 - RTX — Software Engineer Intern
@@ -749,6 +741,7 @@ _Generated 2026-10-17_
 - The Aerospace Corporation — Software Engineering Intern
 - The Aerospace Corporation — Software Systems Engineer Intern - Acquisition
 - The Friedkin Group — IT Data Analytics Intern - Business Systems & AI
+- The Hartford — Data Science Intern - Summer 2027
 - The Toro Company — Enterprise Analytics Intern
 - The Toro Company — Robotics Engineer Intern
 - The Toro Company — Robotics System Test Intern
