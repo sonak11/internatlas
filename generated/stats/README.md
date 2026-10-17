@@ -87,6 +87,7 @@ _Generated 2026-10-17_
 - AIG — Summer Intern - Data Office
 - Alexion — Development Operations AI & Automation Enablement Co-op Intern
 - Allen Control Systems — Electrical Engineer Intern
+- Altar'd State — Store Operations Data Analyst Intern
 - Altice USA — Data Engineer Intern
 - AMD — AI Agentic Flow for GPU ASIC Design Co-op Intern
 - AMD — AI Engineering Intern
@@ -166,6 +167,7 @@ _Generated 2026-10-17_
 - Boston Scientific — Equipment Engineering AI Vision Engineer Intern
 - Boston Scientific — Equipment Engineering Software Engineer Intern
 - Boston Scientific — R&D Firmware Engineer Intern
+- Boston Scientific — R&D Research Data Science Intern
 - Boston Scientific — Software Development Engineer Intern
 - Boston Scientific — Software Engineer Intern - R&D
 - BP — Digital, Data, AI & Engineering Intern
@@ -184,6 +186,7 @@ _Generated 2026-10-17_
 - Capital One — Full Stack Software Engineer Intern - Team Integrated Sprout
 - Capital One — Full Stack Software Engineer Intern - Team Pickle
 - Capital One — Mobile Software Engineer Intern
+- Capula — Technology Intern
 - Carbon Robotics — Engineering Intern - Hardware & Software
 - CDM Smith — Electrical Engineer Intern - Summer 2027
 - Centene — AI Enablement Intern
@@ -323,7 +326,30 @@ _Generated 2026-10-17_
 - General Motors — Systems/Calibration Engineer Intern - ADAS Drive
 - GenMD — AI Research Scientist Intern
 - Genworth Financial — Data Analytics Intern - Summer 2027
+- GM financial — Software Development Engineer Intern
+- Goldman Sachs — Associate Intern - The Core Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Associate Intern - Asset and Wealth Management
+- Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Intern - Americas
+- Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Intern - Investment Banking
+- Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
+- Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
+- Goldman Sachs — Quantitative Strats Analyst Intern - Americas - Investment Banking
+- Goldman Sachs — Summer Analyst Intern
 - Goldman Sachs — Summer Analyst Intern - Americas - Engineering
+- Goldman Sachs — Summer Analyst Intern - Americas - Investment Banking Quantitative Strats
+- Goldman Sachs — Summer Analyst Intern - Engineering
+- Goldman Sachs — Summer Analyst Intern - Engineering
+- Goldman Sachs — Summer Analyst Intern - FICC and Equities - Sales and Trading
+- Goldman Sachs — Summer Analyst Intern - The Core Quantitative Strats
+- Goldman Sachs — Summer Associate Intern
+- Goldman Sachs — Summer Associate Intern - Multiple Teams
 - Google — Data Scientist Intern - Product
 - Google — Hardware Engineer Intern
 - Google — Product Manager Intern - Summer 2027
@@ -383,6 +409,7 @@ _Generated 2026-10-17_
 - Johns Hopkins Applied Physics Laboratory — Sensor Systems Intern - Data Analytics
 - Johns Hopkins Applied Physics Laboratory — Software Development Intern
 - Johns Hopkins Applied Physics Laboratory — Software Engineer/Data Scientist/Ontologist Intern - Threat Analytic Systems
+- Johnson & Johnson — Robotics Controls & Autonomy Intern - Robotics R&D
 - Jones Lang LaSalle — AI Intern
 - Judi Health — MBA Analytics Intern - Clinical Programs
 - Jump Trading — Campus FPGA Engineer Intern
@@ -447,6 +474,7 @@ _Generated 2026-10-17_
 - Marvell — Architecture Intern - MS
 - Marvell — Board Product Engineer Intern - BS
 - Marvell — Board Product Engineer Intern - BS
+- Marvell — Design Verification Intern - BS
 - Marvell — Product Engineer Intern
 - Marvell — Product Engineer Intern
 - Marvell — Test Solutions Engineering Intern - BS - Post-Silicon Hardware Validation
@@ -551,7 +579,6 @@ _Generated 2026-10-17_
 - NVIDIA — Deep Learning Intern - Deep Learning Applications and Algorithms - Deep Learning Frameworks and Libraries
 - NVIDIA — Hardware Verification Intern
 - NVIDIA — Mixed Signal Design Intern
-- OceanComm — Engineering Intern/Co-op
 - ONE Finance — Software Engineer Intern
 - OpenGov — Product Intern
 - OpenGov — Product Intern
@@ -564,6 +591,8 @@ _Generated 2026-10-17_
 - Parsons — Software Engineer Intern
 - PathAI — Machine Learning Intern/Co-op
 - Penta Group — Monitoring & Insights Intern
+- Perry Homes — Estimating Analyst Intern
+- Perry Homes — Options Analyst Intern
 - Persona — Software Engineer Intern
 - Philips — Digital Healthtech Product Management Intern
 - Philips — Electrical Engineer Intern
@@ -605,6 +634,7 @@ _Generated 2026-10-17_
 - Renesas Electronics — Memory Server System Testing Intern
 - Renesas Electronics — Post Silicon Validation Intern
 - Repsol — Energy Assessment Intern
+- Resource Innovations — Energy Engineering Intern
 - REV Robotics — Software Engineer Intern
 - RF-SMART — Software Developer Intern - Product Engineering
 - Rivet Industries — Software Engineer Intern
@@ -687,6 +717,7 @@ _Generated 2026-10-17_
 - Schonfeld — Quantitative Developer Intern
 - Schonfeld — Quantitative Research Intern
 - Schonfeld — Risk Analyst Intern - DMFI
+- Scout Clean Energy — Operations Engineering Intern
 - Shure — Artificial Intelligence Specialist Intern - Operations
 - Skydio — Electrical Engineer Intern
 - SoloPulse — Software Engineer Intern/Co-op
@@ -730,7 +761,6 @@ _Generated 2026-10-17_
 - Tesla — Factory Firmware Integration Intern - Energy Engineering
 - Tesla — Fullstack C++ Engineer Intern - Vehicle User Interface
 - Tesla — Hardware Validation Engineer Intern - Optimus
-- Tesla — Internship - Electronic Design Engineer - Optimus - Winter/Spring 2027
 - Tesla — Service Program & Project Management Intern
 - Tesla — Software Engineer Intern - Service Engineering
 - Tessera Labs — Product Manager Intern
@@ -811,16 +841,20 @@ _Generated 2026-10-17_
 - Workato — Intern AI Engineering
 - Xaira Therapeutics — AI Scientist Intern - Computational Protein Design
 - Xcel Energy — AI and Analytics Intern
+- Xcel Energy — Asset Strategy & Budget Integration Intern
 - Xcel Energy — Computer Information Systems Intern
 - Xcel Energy — Customer Insight Intern
 - Xcel Energy — Data Science Intern
 - Xcel Energy — Data Scientist Intern
 - Xcel Energy — Energy Programs Strategy & Analytics Intern
 - Xcel Energy — Energy Supply Renewable Intern - MN
+- Xcel Energy — Gas Data Intern
 - Xcel Energy — Gas & Electric Design Analytics and Process Improvement Intern - MN
 - Xcel Energy — Geospatial Data Validation Intern
 - Xcel Energy — GIS Intern
 - Xcel Energy — Grid Data Intern
+- Xcel Energy — Renewable and Demand Response Intern
+- Xcel Energy — Renewable Operations Center Intern
 - Xcel Energy — Reporting and Compliance Analyst Intern
 - Xcel Energy — Residential Energy Product Strategy Intern
 - Xcel Energy — Residential Energy Product Strategy Intern
@@ -831,3 +865,4 @@ _Generated 2026-10-17_
 - Zipline — Long Range Platform Embedded Firmware Intern - Summer 2027
 - Zipline — Perception Intern - Summer 2027
 - Zipline — Software Engineer Intern - Summer 2027
+- Zurn Elkay Water Solutions — Embedded Hardware Intern

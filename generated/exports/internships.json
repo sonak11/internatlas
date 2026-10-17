@@ -6374,7 +6374,7 @@
         "discovered": "2026-09-16",
         "last_verified": "2026-10-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -47755,7 +47755,7 @@
         "discovered": "2026-10-07",
         "last_verified": "2026-10-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -59034,7 +59034,7 @@
         "discovered": "2026-10-12",
         "last_verified": "2026-10-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -121020,61 +121020,7 @@
         "discovered": "2026-09-18",
         "last_verified": "2026-10-17"
       },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "gm-financial-software-development-engineer-intern-2027-c34c0d",
-      "company": {
-        "name": "GM financial",
-        "slug": "gm-financial"
-      },
-      "role": "Software Development Engineer Intern",
-      "category": "software-engineering",
-      "apply_url": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260943",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Arlington",
-          "state": "TX",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [
-          "masters"
-        ],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-09-23",
-        "discovered": "2026-09-24",
-        "last_verified": "2026-10-17"
-      },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -121089,7 +121035,7 @@
       },
       "role": "Software Development Engineer Intern",
       "category": "software-engineering",
-      "apply_url": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260795",
+      "apply_url": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260943",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
@@ -121125,7 +121071,7 @@
         "resume_keywords": []
       },
       "dates": {
-        "posted": "2026-09-17",
+        "posted": "2026-09-23",
         "discovered": "2026-09-18",
         "last_verified": "2026-10-17"
       },
@@ -121283,7 +121229,7 @@
         "discovered": "2026-08-27",
         "last_verified": "2026-10-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -121388,7 +121334,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-10-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -121441,7 +121387,7 @@
         "discovered": "2026-10-11",
         "last_verified": "2026-10-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -121494,7 +121440,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-10-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -121546,7 +121492,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -121598,7 +121544,7 @@
         "discovered": "2026-10-06",
         "last_verified": "2026-10-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -121652,7 +121598,7 @@
         "discovered": "2026-09-16",
         "last_verified": "2026-10-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -121705,7 +121651,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -121756,7 +121702,7 @@
         "discovered": "2026-10-12",
         "last_verified": "2026-10-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -121810,7 +121756,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -121861,7 +121807,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -121912,7 +121858,7 @@
         "discovered": "2026-10-10",
         "last_verified": "2026-10-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -121963,7 +121909,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-10-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -122015,7 +121961,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -122066,7 +122012,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -122275,7 +122221,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -122329,7 +122275,7 @@
         "discovered": "2026-10-11",
         "last_verified": "2026-10-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -122436,7 +122382,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -122490,7 +122436,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-10-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -122592,7 +122538,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -122747,7 +122693,7 @@
         "discovered": "2026-08-29",
         "last_verified": "2026-10-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -122800,7 +122746,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-10-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -151275,7 +151221,7 @@
         "discovered": "2026-09-15",
         "last_verified": "2026-10-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -172470,7 +172416,7 @@
         "discovered": "2026-09-05",
         "last_verified": "2026-10-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -209505,9 +209451,9 @@
       "dates": {
         "posted": "2026-08-11",
         "discovered": "2026-09-03",
-        "last_verified": "2026-10-07"
+        "last_verified": "2026-10-17"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -218702,7 +218648,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -218754,7 +218700,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -235892,7 +235838,7 @@
         "discovered": "2026-10-11",
         "last_verified": "2026-10-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -260852,7 +260798,7 @@
         "discovered": "2026-10-03",
         "last_verified": "2026-10-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -286845,9 +286791,9 @@
       "dates": {
         "posted": "2026-09-18",
         "discovered": "2026-09-18",
-        "last_verified": "2026-10-11"
+        "last_verified": "2026-10-17"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -296288,6 +296234,57 @@
         "last_verified": "2026-09-03"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "the-focusrite-group-software-developer-placement-intern-2027",
+      "company": {
+        "name": "The Focusrite Group",
+        "slug": "the-focusrite-group"
+      },
+      "role": "Software Developer Placement Intern",
+      "category": "software-engineering",
+      "apply_url": "https://apply.workable.com/focusrite/j/BFA6731604/apply",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Letchworth Garden City",
+          "country": "UK"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-28",
+        "discovered": "2026-10-17",
+        "last_verified": "2026-10-17"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -339812,7 +339809,7 @@
         "discovered": "2026-09-07",
         "last_verified": "2026-10-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -340424,7 +340421,7 @@
         "discovered": "2026-09-07",
         "last_verified": "2026-10-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -340793,7 +340790,7 @@
         "discovered": "2026-09-07",
         "last_verified": "2026-10-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -340845,7 +340842,7 @@
         "discovered": "2026-09-07",
         "last_verified": "2026-10-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -344296,7 +344293,7 @@
         "discovered": "2026-09-26",
         "last_verified": "2026-10-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
