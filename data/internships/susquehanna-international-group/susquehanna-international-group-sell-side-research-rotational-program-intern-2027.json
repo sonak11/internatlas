@@ -1,0 +1,46 @@
+{
+  "schema_version": "1.0",
+  "id": "susquehanna-international-group-sell-side-research-rotational-program-intern-2027",
+  "company": {
+    "name": "Susquehanna International Group",
+    "slug": "susquehanna-international-group"
+  },
+  "role": "Sell Side Research Rotational Program Intern",
+  "category": "research",
+  "apply_url": "https://careers-sig.icims.com/jobs/11434/sell-side-research-rotational-program%3a-august-2027-start/job",
+  "season": "summer",
+  "year": 2027,
+  "work_mode": "remote",
+  "locations": [],
+  "compensation": {
+    "currency": "USD",
+    "housing_stipend": false,
+    "relocation_assistance": false
+  },
+  "eligibility": {
+    "graduation_years": [],
+    "degree_levels": [],
+    "citizenship_required": false,
+    "security_clearance_required": false,
+    "visa_sponsorship": "unknown"
+  },
+  "interview": {},
+  "tech": {
+    "required_skills": [],
+    "preferred_skills": [],
+    "languages": [],
+    "frameworks": [],
+    "cloud_platforms": [],
+    "resume_keywords": []
+  },
+  "dates": {
+    "posted": "2026-10-14",
+    "discovered": "2026-10-17",
+    "last_verified": "2026-10-17"
+  },
+  "status": "open",
+  "tags": [
+    "auto-ingested",
+    "src:vanshb03"
+  ]
+}

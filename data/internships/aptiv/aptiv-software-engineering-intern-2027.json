@@ -1,24 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "affirm-it-engineer-intern-early-careers-2027",
+  "id": "aptiv-software-engineering-intern-2027",
   "company": {
-    "name": "Affirm",
-    "slug": "affirm"
+    "name": "Aptiv",
+    "slug": "aptiv"
   },
-  "role": "IT Engineer Intern - Early Careers",
+  "role": "Software Engineering Intern",
   "category": "software-engineering",
-  "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8011375003",
+  "apply_url": "https://aptiv.wd5.myworkdayjobs.com/en-US/aptiv_careers/job/CAN-Kanata-2-ON---WR/Software-Engineering-Intern_J000704368-1",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "SF",
-      "country": "USA"
-    },
-    {
-      "city": "San Francisco",
-      "country": "USA"
+      "city": "CAN Kanata",
+      "country": "ON"
     }
   ],
   "compensation": {
@@ -43,13 +39,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-10-09",
-    "discovered": "2026-10-10",
+    "posted": "2026-10-13",
+    "discovered": "2026-10-17",
     "last_verified": "2026-10-17"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }

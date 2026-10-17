@@ -7,13 +7,14 @@
   },
   "role": "Generative Media Research Intern",
   "category": "research",
-  "apply_url": "https://wd1.myworkdaysite.com/recruiting/snapchat/snap/job/Los-Angeles-California/XMLNAME-2027-Generative-Media-Researc_R0047179",
+  "apply_url": "https://snapchat.wd1.myworkdayjobs.com/en-US/snap/job/Los-Angeles-California/XMLNAME-2027-Generative-Media-Researc_R0047179",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "state": "LA",
+      "city": "Los Angeles",
+      "state": "CA",
       "country": "USA"
     }
   ],
@@ -48,6 +49,6 @@
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }
