@@ -8,7 +8,7 @@ _Generated 2026-10-18_
 
 | Company | Listings |
 |---|---|
-| Tesla | 219 |
+| Tesla | 221 |
 | TikTok | 185 |
 | RTX | 172 |
 | AMD | 77 |
@@ -33,7 +33,7 @@ _Generated 2026-10-18_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 3834 | `███████████████` |
+| software-engineering | 3835 | `███████████████` |
 | ai | 527 | `██` |
 | quant | 335 | `█` |
 | machine-learning | 310 | `█` |
@@ -42,16 +42,19 @@ _Generated 2026-10-18_
 | research | 220 | `█` |
 | product | 209 | `█` |
 | design | 170 | `█` |
-| embedded | 155 | `█` |
+| embedded | 156 | `█` |
 | data-engineering | 114 | `█` |
 | cloud | 67 | `█` |
 | security | 31 | `█` |
 
 ## Newest listings
 
+- 2026-10-18 — **Leonardo**: [Software Engineer Intern](https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Newcastle/Summer-Placement-Software-Engineer_R0033874)
 - 2026-10-18 — **Leonardo**: [Software Engineer Intern](https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Edinburgh/Summer-Placement-Software-Engineer_R0033869-1)
 - 2026-10-18 — **Leonardo**: [Software Engineer Placement Intern](https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Basildon/Summer-Placement-Software-Engineer_R0034282)
 - 2026-10-18 — **Leonardo**: [Test Systems Engineer Intern](https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Edinburgh/Industrial-Placement-Test-Systems-Engineer_R0034207)
+- 2026-10-18 — **Tesla**: [Advanced Automation Engineer Intern - Cell Engineering - Winter/Spring 2027](https://www.tesla.com/careers/search/job/286986)
+- 2026-10-18 — **Tesla**: [Firmware Intern - SoC Firmware Engineer - SI Hardware Infrastructure](https://www.tesla.com/careers/search/job/287024)
 - 2026-10-17 — **AeroVironment**: [Software Engineering Intern](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Moorpark-CA/Software-Engineering-Intern_9094)
 - 2026-10-17 — **onsemi**: [Applications Intern](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506972)
 - 2026-10-17 — **Persona**: [Product Design Intern](https://jobs.ashbyhq.com/persona/a50a3137-1c9a-4947-9f4e-1a4ef26c2bec/application)
@@ -66,9 +69,6 @@ _Generated 2026-10-18_
 - 2026-10-16 — **Altera**: [Software Engineer Intern](https://altera.wd1.myworkdayjobs.com/en-US/altera/job/Toronto-Ontario-Canada/Software-Engineer----Intern_R03320)
 - 2026-10-16 — **Amazon**: [Software Developer Intern](https://amazon.jobs/en/jobs/10554586/2027-software-dev-engineer-intern-united-kingdom)
 - 2026-10-16 — **American Bankers Association**: [Banking Policy and Economic Research Intern](https://aba.wd1.myworkdayjobs.com/aba/job/US-DC-Main-Office/Intern--Banking-Policy-and-Economic-Research_R625)
-- 2026-10-16 — **American Family Insurance Group**: [Data Engineering / Data Science Intern](https://amfam.wd1.myworkdayjobs.com/en-US/Careers/job/WI-Madison/Summer-2027-Intern---Data-Engineering_R39674)
-- 2026-10-16 — **Angel City**: [Data Analytics Intern](https://job-boards.greenhouse.io/wfclainc/jobs/6226220004)
-- 2026-10-16 — **Assort Health**: [Software Engineer Intern](https://jobs.ashbyhq.com/assorthealth/3d8a2c74-8d0c-40be-9624-afc3678654ee/application?embed=true)
 
 ## Recently closed
 
@@ -87,6 +87,7 @@ _Generated 2026-10-18_
 - AIG — Summer Intern - Data Office
 - Alexion — Development Operations AI & Automation Enablement Co-op Intern
 - Allen Control Systems — Electrical Engineer Intern
+- Altar'd State — Store Operations Data Analyst Intern
 - Altice USA — Data Engineer Intern
 - AMD — AI Agentic Flow for GPU ASIC Design Co-op Intern
 - AMD — AI Engineering Intern
@@ -123,6 +124,7 @@ _Generated 2026-10-18_
 - American Family Insurance Group — Software Engineering Intern
 - American Family Insurance Group — Software Engineering Intern
 - Amgen — Software Engineer Intern
+- Amgen — Software Engineer Intern - Amgen’s Technology & Medical Organizations
 - Anduril — 2027 Manufacturing Optimization Engineer Intern
 - APEX Analytix — Data Analyst Intern - Summer 2027
 - Applied Materials — Data Analyst Intern - Global Technical Learning Center
@@ -219,7 +221,6 @@ _Generated 2026-10-18_
 - Coinbase — Product Manager (HR Technology) Intern
 - Coinbase — Product Manager Intern - HR Technology
 - Collier Aerospace — AI Feature Development Intern - NCSG
-- Collier Aerospace — Software Engineer Intern
 - Commerce Bank — Data Analyst Intern - Summer 2027
 - Commerce Bank — Data Science Intern
 - Contoro — Robotics Test & Validation Intern
@@ -342,31 +343,16 @@ _Generated 2026-10-18_
 - General Motors — Race Strategy & Analytics Intern - IndyCar
 - General Motors — Summer Intern - Global Manufacturing Robotics & Automation
 - General Motors — Systems/Calibration Engineer Intern - ADAS Drive
+- General Motors — Systems Engineer Intern - Asd
 - GenMD — AI Research Scientist Intern
 - GM financial — Software Development Engineer Intern
-- Goldman Sachs — Associate Intern - The Core Quantitative Strats
 - Goldman Sachs — Quantitative Strategist Associate Intern - Asset and Wealth Management
 - Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Americas
-- Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
 - Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
 - Goldman Sachs — Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Investment Banking
-- Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
-- Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
 - Goldman Sachs — Quantitative Strats Analyst Intern - Americas - Investment Banking
-- Goldman Sachs — Summer Analyst Intern
 - Goldman Sachs — Summer Analyst Intern - Americas - Engineering
-- Goldman Sachs — Summer Analyst Intern - Americas - Investment Banking Quantitative Strats
-- Goldman Sachs — Summer Analyst Intern - Engineering
-- Goldman Sachs — Summer Analyst Intern - Engineering
-- Goldman Sachs — Summer Analyst Intern - FICC and Equities - Sales and Trading
-- Goldman Sachs — Summer Analyst Intern - The Core Quantitative Strats
 - Goldman Sachs — Summer Associate Intern
-- Goldman Sachs — Summer Associate Intern - Multiple Teams
 - Google — Data Scientist Intern - Product
 - Google — Hardware Engineer Intern
 - Google — Product Manager Intern - Summer 2027
@@ -529,7 +515,6 @@ _Generated 2026-10-18_
 - Microsoft — Software Engineer Intern - Cloud & Distributed Backend
 - Microsoft — Software Engineer Intern - Data Platform & Analytics
 - Microsoft — Software Engineer Security & Identity Intern
-- Moderna — Biometrics Intern
 - Momentive — Environmental Protection Intern
 - Momentive — Product Management Intern - Specialty Additives
 - Momentive — Software Development Intern
@@ -585,6 +570,7 @@ _Generated 2026-10-18_
 - NVIDIA — Deep Learning Intern - Deep Learning Applications and Algorithms - Deep Learning Frameworks and Libraries
 - NVIDIA — Hardware Verification Intern
 - NVIDIA — Mixed Signal Design Intern
+- NVIDIA — Software Engineer Intern
 - NVIDIA — Software Engineering Intern, Dynamo
 - ONE Finance — Software Engineer Intern
 - OpenGov — Product Intern
@@ -630,7 +616,6 @@ _Generated 2026-10-18_
 - Quantbot Technologies — Data Trading Analyst Intern - Data Trading Lab
 - Ramiel Capital — Trading Intern
 - Raymond James Financial — Private Client Banking Strategy, Analytics & Sales Intern
-- Realm — Software Engineer Intern
 - Redwood Materials — Test Automation Engineer Intern
 - Relay — Software Engineer Intern - AI/ML
 - Rendezvous Robotics — Software Engineering Intern
@@ -678,6 +663,7 @@ _Generated 2026-10-18_
 - Royal Bank of Canada — MCCR Policy AI Applications Intern - GRM
 - Royal Bank of Canada — Quantum Technologies Intern
 - Royal Bank of Canada — Quantum Technologies Intern - 8 Months
+- Royal Bank of Canada — Software Development Intern - Wealth Management Technology
 - RSM — Catamaran Managed Services Intern
 - RTX — AI Engineering Intern
 - RTX — Business Development Intern
@@ -687,6 +673,7 @@ _Generated 2026-10-18_
 - RTX — Electrical Design Engineer Intern
 - RTX — Electrical Engineer Intern - Summer 2027
 - RTX — Electrical Production Support Engineer Intern - Summer 2027
+- RTX — Engineering Intern
 - RTX — Flight Control Software Engineer Intern
 - RTX — Numerical Methods Intern - Advanced Software Development
 - RTX — Software Engineer Intern
@@ -760,6 +747,7 @@ _Generated 2026-10-18_
 - Tencent — Natural Language Processing Intern
 - Tencent — Natural Language Processing Intern
 - Tenstorrent — Software Engineering Intern, Power Modeling & AI Tools
+- Tesla — Actuator Test Engineer Intern - Optimus
 - Tesla — Android Engineer Intern - Mobile Software
 - Tesla — Distributed Systems Software Engineer Intern - Energy Engineering
 - Tesla — Electrical Test Engineer Intern - Vehicle Engineering
@@ -808,7 +796,10 @@ _Generated 2026-10-18_
 - Trane Technologies — AI & Analytics Intern
 - TransMarket Group — Software Engineer Intern
 - TRC Companies — Advanced Energy Intern
+- Trimble — Product Management Intern
+- Trimble — Product Management Intern
 - Trimble — Software Engineer Intern
+- Tyler Technologies — Software Development Intern
 - Tyler Technologies — Software Development Intern - Summer 2027
 - U.S. Bank — Product Management Intern
 - Uline — Financial Data Analyst Intern
@@ -870,7 +861,6 @@ _Generated 2026-10-18_
 - Xcel Energy — Resource Planning Intern
 - Xcel Energy — Wildfire Analyst Intern
 - XPENG Motors — Robotics Center Intern - Multiple Teams
-- Zimmer Biomet Holdings — Product Management Intern - Artificial Intelligence Product Management
 - Zions Bank — Process Automation Developer Intern
 - Zip — Software Engineer Intern - Winter 2027
 - Zipline — Embedded Software Engineer Intern - Spring 2027

@@ -1,20 +1,21 @@
 {
   "schema_version": "1.0",
-  "id": "pennsylvania-state-university-r-d-engineer-intern-2027-86291e",
+  "id": "tesla-advanced-automation-engineer-intern-cell-engineering-winter-2027",
   "company": {
-    "name": "Pennsylvania State University",
-    "slug": "pennsylvania-state-university"
+    "name": "Tesla",
+    "slug": "tesla"
   },
-  "role": "R&D Engineer Intern",
+  "role": "Advanced Automation Engineer Intern - Cell Engineering - Winter/Spring 2027",
   "category": "software-engineering",
-  "apply_url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/R-D-Engineer-Intern_REQ_0000082444-1",
-  "season": "summer",
+  "apply_url": "https://www.tesla.com/careers/search/job/286986",
+  "season": "spring",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "University Park",
-      "country": "State College"
+      "city": "Fremont",
+      "state": "CA",
+      "country": "USA"
     }
   ],
   "compensation": {
@@ -39,8 +40,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-10-16",
-    "discovered": "2026-10-17",
+    "posted": "2026-10-18",
+    "discovered": "2026-10-18",
     "last_verified": "2026-10-18"
   },
   "status": "open",
