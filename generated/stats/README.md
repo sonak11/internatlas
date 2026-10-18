@@ -488,6 +488,8 @@ _Generated 2026-10-18_
 - Marvell — Board Product Engineer Intern - BS
 - Marvell — Product Engineer Intern
 - Marvell — Product Engineer Intern
+- Marvell — Test Engineer Intern
+- Marvell — Test Engineer Intern
 - Marvell — Test Solutions Engineering Intern - BS - Post-Silicon Hardware Validation
 - Marvell — Test Solutions Engineering Intern - BS - Post-Silicon Hardware Validation
 - Mastercard — Product Management Intern - Summer 2027
