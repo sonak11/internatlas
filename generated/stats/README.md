@@ -111,6 +111,7 @@ _Generated 2026-10-18_
 - AMD — Software Engineer Intern/Co-op
 - AMD — Software Engineer Intern/Co-op - Masters
 - Ameren — Meteorology Intern - Crisis Management
+- American Express — Data Engineer Intern - Enterprise Technology Services
 - American Express — Software Engineer Intern - Enterprise Technology Services
 - American Family Insurance Group — Application Development Intern - Application Development
 - American Family Insurance Group — Backend Digital Sales Intern
@@ -218,6 +219,7 @@ _Generated 2026-10-18_
 - Coinbase — Product Manager (HR Technology) Intern
 - Coinbase — Product Manager Intern - HR Technology
 - Collier Aerospace — AI Feature Development Intern - NCSG
+- Collier Aerospace — Software Engineer Intern
 - Commerce Bank — Data Analyst Intern - Summer 2027
 - Commerce Bank — Data Science Intern
 - Contoro — Robotics Test & Validation Intern
@@ -527,6 +529,7 @@ _Generated 2026-10-18_
 - Microsoft — Software Engineer Intern - Cloud & Distributed Backend
 - Microsoft — Software Engineer Intern - Data Platform & Analytics
 - Microsoft — Software Engineer Security & Identity Intern
+- Moderna — Biometrics Intern
 - Momentive — Environmental Protection Intern
 - Momentive — Product Management Intern - Specialty Additives
 - Momentive — Software Development Intern
@@ -627,6 +630,7 @@ _Generated 2026-10-18_
 - Quantbot Technologies — Data Trading Analyst Intern - Data Trading Lab
 - Ramiel Capital — Trading Intern
 - Raymond James Financial — Private Client Banking Strategy, Analytics & Sales Intern
+- Realm — Software Engineer Intern
 - Redwood Materials — Test Automation Engineer Intern
 - Relay — Software Engineer Intern - AI/ML
 - Rendezvous Robotics — Software Engineering Intern
@@ -750,6 +754,8 @@ _Generated 2026-10-18_
 - TD Bank — Data Analyst Intern - Global Technology & Solutions
 - TD Bank — Data Analytics & Insights Intern Co-op
 - TD Bank — Data Engineer Intern - Global Technology & Solutions
+- TD Bank — Portfolio Analytics Data Analyst Intern/Co-op - Winter 2027
+- TD Bank — Portfolio Analytics Developer Intern/Co-op - Winter 2027
 - TD Bank — Software Engineer Intern - Global Technology & Solutions
 - Tencent — Natural Language Processing Intern
 - Tencent — Natural Language Processing Intern
@@ -773,6 +779,8 @@ _Generated 2026-10-18_
 - The Aerospace Corporation — Software Systems Engineer Intern - Acquisition
 - The Friedkin Group — IT Data Analytics Intern - Business Systems & AI
 - The Hartford — Data Science Intern - Summer 2027
+- The Home Depot — AI Machine Learning Developer Intern
+- The Home Depot — Full Stack Software Developer Intern
 - The Toro Company — Enterprise Analytics Intern
 - The Toro Company — Robotics Engineer Intern
 - The Toro Company — Robotics System Test Intern
@@ -800,6 +808,7 @@ _Generated 2026-10-18_
 - Trane Technologies — AI & Analytics Intern
 - TransMarket Group — Software Engineer Intern
 - TRC Companies — Advanced Energy Intern
+- Trimble — Software Engineer Intern
 - Tyler Technologies — Software Development Intern - Summer 2027
 - U.S. Bank — Product Management Intern
 - Uline — Financial Data Analyst Intern
@@ -861,6 +870,7 @@ _Generated 2026-10-18_
 - Xcel Energy — Resource Planning Intern
 - Xcel Energy — Wildfire Analyst Intern
 - XPENG Motors — Robotics Center Intern - Multiple Teams
+- Zimmer Biomet Holdings — Product Management Intern - Artificial Intelligence Product Management
 - Zions Bank — Process Automation Developer Intern
 - Zip — Software Engineer Intern - Winter 2027
 - Zipline — Embedded Software Engineer Intern - Spring 2027
