@@ -42,9 +42,9 @@
   "dates": {
     "posted": "2026-07-27",
     "discovered": "2026-07-27",
-    "last_verified": "2026-10-18"
+    "last_verified": "2026-10-19"
   },
-  "status": "open",
+  "status": "closed",
   "tags": [
     "auto-ingested",
     "src:vanshb03"

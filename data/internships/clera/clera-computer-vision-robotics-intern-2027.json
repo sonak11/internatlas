@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "databricks-software-engineering-intern-2027-2027",
+  "id": "clera-computer-vision-robotics-intern-2027",
   "company": {
-    "name": "Databricks",
-    "slug": "databricks",
-    "career_page": "https://www.databricks.com/company/careers/university-recruiting"
+    "name": "Clera",
+    "slug": "clera"
   },
-  "role": "Software Engineering Intern (2027)",
+  "role": "Computer Vision & Robotics Intern",
   "category": "software-engineering",
-  "apply_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6865687002",
+  "apply_url": "https://jobs.ashbyhq.com/clera/697c2212-e39d-4e6e-92c2-12e6603a61d0/application",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Bellevue",
+      "city": "San Francisco",
+      "state": "CA",
       "country": "USA"
     }
   ],
@@ -40,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2023-08-04",
-    "discovered": "2026-10-12",
-    "last_verified": "2026-10-18"
+    "posted": "2026-10-17",
+    "discovered": "2026-10-19",
+    "last_verified": "2026-10-19"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:ats"
+    "src:vanshb03"
   ]
 }

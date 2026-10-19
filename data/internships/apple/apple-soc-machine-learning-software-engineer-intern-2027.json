@@ -1,17 +1,23 @@
 {
   "schema_version": "1.0",
-  "id": "centurylink-data-internship-analytics-decision-science-2027",
+  "id": "apple-soc-machine-learning-software-engineer-intern-2027",
   "company": {
-    "name": "CenturyLink",
-    "slug": "centurylink"
+    "name": "Apple",
+    "slug": "apple"
   },
-  "role": "Data Internship - Analytics & Decision Science",
-  "category": "software-engineering",
-  "apply_url": "https://internaljobs.centurylink.com/job/Remote-Data,-Analytics-&-Decision-Science-Summer-2027-Internship-Pathway/1440961600/?ats=successfactors",
+  "role": "SoC Machine Learning Software Engineer Intern",
+  "category": "machine-learning",
+  "apply_url": "https://jobs.apple.com/en-us/details/200689488",
   "season": "summer",
   "year": 2027,
-  "work_mode": "remote",
-  "locations": [],
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "Sunnyvale",
+      "state": "CA",
+      "country": "USA"
+    }
+  ],
   "compensation": {
     "currency": "USD",
     "housing_stipend": false,
@@ -35,12 +41,12 @@
   },
   "dates": {
     "posted": "2026-10-16",
-    "discovered": "2026-10-17",
-    "last_verified": "2026-10-18"
+    "discovered": "2026-10-19",
+    "last_verified": "2026-10-19"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }
