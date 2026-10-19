@@ -1,20 +1,31 @@
 {
   "schema_version": "1.0",
-  "id": "atkinsr-alis-software-developer-intern-2027-269ed5",
+  "id": "heygen-software-engineer-intern-2027",
   "company": {
-    "name": "AtkinsRéalis",
-    "slug": "atkinsr-alis"
+    "name": "HeyGen",
+    "slug": "heygen"
   },
-  "role": "Software Developer Intern",
+  "role": "Software Engineer Intern",
   "category": "software-engineering",
-  "apply_url": "https://slihrms.wd3.myworkdayjobs.com/en-US/careers/job/USCODenver/Software-Developer-Intern---Summer-2027_R-161580-1",
-  "season": "summer",
+  "apply_url": "https://job-boards.greenhouse.io/heygen/jobs/4540716007",
+  "season": "winter",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Denver",
-      "state": "CO",
+      "city": "Toronto",
+      "country": "ON"
+    },
+    {
+      "city": "SF",
+      "country": "USA"
+    },
+    {
+      "state": "LA",
+      "country": "USA"
+    },
+    {
+      "city": "Singapore",
       "country": "USA"
     }
   ],
@@ -40,13 +51,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-10-12",
-    "discovered": "2026-10-17",
+    "posted": "2026-10-19",
+    "discovered": "2026-10-19",
     "last_verified": "2026-10-19"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:vanshb03"
+    "src:simplify"
   ]
 }

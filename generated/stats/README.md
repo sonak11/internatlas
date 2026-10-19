@@ -14,8 +14,8 @@ _Generated 2026-10-19_
 | AMD | 77 |
 | Marvell | 74 |
 | ByteDance | 70 |
-| American Express | 67 |
 | Booz Allen | 67 |
+| American Express | 66 |
 | Waymo | 66 |
 | NVIDIA | 61 |
 | Royal Bank of Canada | 59 |
@@ -33,7 +33,7 @@ _Generated 2026-10-19_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 3845 | `███████████████` |
+| software-engineering | 3844 | `███████████████` |
 | ai | 528 | `██` |
 | quant | 335 | `█` |
 | machine-learning | 311 | `█` |
@@ -49,6 +49,7 @@ _Generated 2026-10-19_
 
 ## Newest listings
 
+- 2026-10-19 — **HeyGen**: [Software Engineer Intern](https://job-boards.greenhouse.io/heygen/jobs/4540716007)
 - 2026-10-18 — **Leonardo**: [Software Engineer Intern](https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Newcastle/Summer-Placement-Software-Engineer_R0033874)
 - 2026-10-18 — **Leonardo**: [Software Engineer Intern](https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Edinburgh/Summer-Placement-Software-Engineer_R0033869-1)
 - 2026-10-18 — **Leonardo**: [Software Engineer Placement Intern](https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Basildon/Summer-Placement-Software-Engineer_R0034282)
@@ -68,7 +69,6 @@ _Generated 2026-10-19_
 - 2026-10-17 — **Together AI**: [Research Intern - Frontier Speculative Decoding](https://job-boards.greenhouse.io/togetherai/jobs/5267197007)
 - 2026-10-16 — **AbbVie**: [Associate Engineer Intern, Technical Development Program](https://jobs.smartrecruiters.com/AbbVie/3743990016186871)
 - 2026-10-16 — **Abridge**: [Member of Technical Staff Intern](https://jobs.ashbyhq.com/abridge/aab11857-7ed3-4fc5-aab3-35256601117e/application?embed=true)
-- 2026-10-16 — **ADT**: [Hardware Engineering & Connected Devices Intern](https://fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3022475)
 
 ## Recently closed
 
@@ -104,6 +104,8 @@ _Generated 2026-10-19_
 - AMD — Product Development Engineer Intern/Co-op
 - AMD — Software Engineer Intern/Co-op
 - Ameren — Meteorology Intern - Crisis Management
+- American Express — Data Analytics Intern - Enterprise Technology Services
+- American Express — Data Engineer Intern - Enterprise Technology Services
 - American Express — Data Engineer Intern - Enterprise Technology Services
 - American Express — Software Engineer Intern - Enterprise Technology Services
 - American Family Insurance Group — Application Development Intern - Application Development
@@ -133,8 +135,11 @@ _Generated 2026-10-19_
 - Autodesk — AI Data Developer Intern
 - Autodesk — AI/ML Platform Intern
 - Autodesk — Multimodal AI for Human Experience Intern
+- Autodesk — PhD Researcher Intern - Agentic 3D Modeling in Immersive Environments
+- Autodesk — PhD Researcher Intern - Agentic 3D Modeling in Immersive Environments
 - Autodesk — Product Management Intern
 - Autodesk — Product Management Intern
+- Autodesk — Researcher Intern - Machine Learning for Construction
 - Autodesk — Software Development Intern
 - Autodesk — Software Development Intern
 - Avis Budget Group — Data Analytics Intern
@@ -319,29 +324,7 @@ _Generated 2026-10-19_
 - General Motors — Systems/Calibration Engineer Intern - ADAS Drive
 - GenMD — AI Research Scientist Intern
 - GM financial — Software Development Engineer Intern
-- Goldman Sachs — Associate Intern - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Associate Intern - Asset and Wealth Management
-- Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Americas
-- Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Investment Banking
-- Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
-- Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
-- Goldman Sachs — Quantitative Strats Analyst Intern - Americas - Investment Banking
-- Goldman Sachs — Summer Analyst Intern
 - Goldman Sachs — Summer Analyst Intern - Americas - Engineering
-- Goldman Sachs — Summer Analyst Intern - Americas - Investment Banking Quantitative Strats
-- Goldman Sachs — Summer Analyst Intern - Engineering
-- Goldman Sachs — Summer Analyst Intern - Engineering
-- Goldman Sachs — Summer Analyst Intern - FICC and Equities - Sales and Trading
-- Goldman Sachs — Summer Analyst Intern - The Core Quantitative Strats
-- Goldman Sachs — Summer Associate Intern
-- Goldman Sachs — Summer Associate Intern - Multiple Teams
 - Google — Data Scientist Intern - Product
 - Google — Hardware Engineer Intern
 - Google — Product Manager Intern - Summer 2027
@@ -548,6 +531,8 @@ _Generated 2026-10-19_
 - Parsons — Software Engineer Intern
 - PathAI — Machine Learning Intern/Co-op
 - Penta Group — Monitoring & Insights Intern
+- Perchwell — Data Analytics Engineering Intern
+- Perchwell — Software Engineer Intern
 - Perry Homes — Estimating Analyst Intern
 - Perry Homes — Options Analyst Intern
 - Persona — Software Engineer Intern
@@ -615,6 +600,7 @@ _Generated 2026-10-19_
 - Robinhood — Software Engineering Intern, Web (Summer 2027)
 - Robinhood — Special Projects Intern (Summer 2027)
 - Robinhood — Vendor Management Intern (Summer 2027)
+- Royal Bank of Canada — AI Developer Intern - Grm - Innovation & AI Center of Excellence
 - Royal Bank of Canada — Capital Markets Intern - Quantitative Technology Services
 - Royal Bank of Canada — Credit Modeling and Methodology Analyst Intern - GRM
 - Royal Bank of Canada — Data Analyst Intern
@@ -634,6 +620,7 @@ _Generated 2026-10-19_
 - RTX — Electrical Production Support Engineer Intern - Summer 2027
 - RTX — Flight Control Software Engineer Intern
 - RTX — Numerical Methods Intern - Advanced Software Development
+- RTX — Software Engineer Intern
 - RTX — Software Engineer Intern
 - RTX — Software Engineer Intern
 - RTX — Software Engineer Intern
@@ -751,6 +738,7 @@ _Generated 2026-10-19_
 - Trimble — Product Management Intern
 - Trimble — Product Management Intern
 - Trimble — Software Engineer Intern
+- Tyler Technologies — Software Development Intern - Summer 2027
 - U.S. Bank — Product Management Intern
 - Uline — Financial Data Analyst Intern
 - Upbring — Product Manager Intern
