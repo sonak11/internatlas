@@ -1,6 +1,6 @@
 # 📬 InternAtlas Weekly Digest — 2026-10-19
 
-## 🆕 New this week (458)
+## 🆕 New this week (462)
 
 - **1Password** — [Data Intern - Product Analytics](https://jobs.ashbyhq.com/1password/412c1aac-13ce-4cc9-9c81-90a9a7a2ee48/application?embed=true) · software-engineering · —
 - **1Password** — [Data Intern, Product Analytics](https://jobs.ashbyhq.com/1password/412c1aac-13ce-4cc9-9c81-90a9a7a2ee48/application) · software-engineering · —
@@ -86,6 +86,7 @@
 - **Bosch** — [Information Security and Privacy Intern](https://jobs.smartrecruiters.com/BoschGroup/744000155120934) · security · —
 - **Bosch** — [Robotics Research Intern](https://jobs.smartrecruiters.com/BoschGroup/744000154911489) · research · —
 - **Bosch Home Comfort** — [AI Business Solutions Intern](https://jobs.smartrecruiters.com/BoschGroup/744000154992819) · ai · —
+- **Bosch Home Comfort** — [Data Analyst & Marketing/Sales Intern](https://jobs.smartrecruiters.com/BoschGroup/744000156251739) · software-engineering · —
 - **Boston Consulting Group** — [Forward Deployed AI Engineer Intern](https://careers.bcg.com/global/en/job/59702) · ai · —
 - **Boston Scientific** — [AI/Data Science Intern](https://bostonscientific.eightfold.ai/careers/job/563602813519129) · ai · —
 - **Boston Scientific** — [Electrical Hardware Engineer Intern](https://bostonscientific.eightfold.ai/careers/job/563602813563527) · hardware · —
@@ -342,6 +343,7 @@
 - **Northrop Grumman** — [Tech Publications & Training Intern, Product Support](https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Florida-Saint-Augustine/XMLNAME-2027-Tech-Publications---Training-Intern---Product-Support_R10256053) · software-engineering · —
 - **Northwestern Mutual** — [Underwriting Research Intern](https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Milwaukee-WI-Corporate/Underwriting-Research-Intern--Summer-2027_JR-46209) · research · —
 - **Nutanix** — [Support Analytics & Operations Intern](https://jobs.jobvite.com/nutanix/job/oqjOAfwR?nl=1&nl=1&fr=false) · software-engineering · —
+- **PA Consulting** — [Digital Intern - Digital - Digital & Data](https://jobs.smartrecruiters.com/PAConsulting/744000156260214) · software-engineering · —
 - **PA Consulting** — [Electronic Engineer Intern](https://jobs.smartrecruiters.com/PAConsulting/744000155687129) · software-engineering · —
 - **PA Consulting** — [Software and AI Systems Intern](https://jobs.smartrecruiters.com/PAConsulting/744000155685700) · ai · —
 - **Parsons** — [Software Engineer Intern](https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---AL-Huntsville/Software-Engineering-Intern--Summer-2027-_R187299) · software-engineering · —
@@ -435,6 +437,7 @@
 - **Together AI** — [Research Intern - Frontier Speculative Decoding](https://job-boards.greenhouse.io/togetherai/jobs/5267197007) · research · —
 - **Tower Research Capital** — [Machine Learning Intern](https://www.tower-research.com/open-positions/?gh_jid=7077280) · machine-learning · —
 - **Tower Research Capital** — [Venture Capital Intern](https://www.tower-research.com/open-positions/?gh_jid=7368106) · software-engineering · —
+- **University of Ottawa** — [Teaching Assistant Intern](https://uottawa.wd3.myworkdayjobs.com/uOttawa_External_Career_Site/job/Ottawa-ON/CUPE---Winter-2027---Teaching-Assistant---ADM4379_JR40054) · software-engineering · —
 - **University of Texas at Austin** — [Research Assistant: Remote Sensing Intern - UAV/Satellite Image Processing - Computer Science](https://utaustin.wd1.myworkdayjobs.com/utstudent/job/UT-MAIN-CAMPUS/Research-Assistant--Remote-Sensing--UAV-Satellite-Image-Processing--and-Computer-Science_R_00049490) · research · —
 - **Valmont** — [Product Analyst Intern](https://valmont.wd1.myworkdayjobs.com/ValmontCareers/job/Valley-NE/Product-Analyst-Intern--Part-Time-_R29081) · software-engineering · —
 - **Veeam Software** — [Data & Analytics Engineering Intern](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4996533101) · data-engineering · —
@@ -453,6 +456,7 @@
 - **Waymo** — [2027 Summer Intern, PhD, Machine Learning, Simulation Realism](https://careers.withwaymo.com/jobs?gh_jid=8265868) · machine-learning · —
 - **Wellmark** — [Software Engineer Intern - Technology Health Plan](https://jobs.smartrecruiters.com/WellmarkInc/744000156043218) · software-engineering · —
 - **Wikimedia Foundation** — [Software Engineering Intern](https://job-boards.greenhouse.io/wikimedia/jobs/8268853) · software-engineering · —
+- **ZS** — [Decision Analytics Associate Intern](https://jobs.zs.com/jobs/68243?icims=1) · software-engineering · —
 - **Zoox** — [AI Validation and Benchmarking Engineer Intern](https://jobs.lever.co/zoox/cc43bf88-ed84-408f-a557-3d1c7263ddff) · ai · —
 - **Zoox** — [Freeways Data Evaluation Intern](https://jobs.lever.co/zoox/ad992e12-39da-4046-b766-45f928924575) · software-engineering · —
 - **onsemi** — [Applications Intern](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506972) · software-engineering · —

@@ -17,7 +17,7 @@ _Generated 2026-10-19_
 | Booz Allen | 67 |
 | American Express | 66 |
 | Waymo | 66 |
-| NVIDIA | 61 |
+| NVIDIA | 60 |
 | Royal Bank of Canada | 59 |
 | Qorvo | 52 |
 | Jump Trading | 48 |
@@ -33,12 +33,12 @@ _Generated 2026-10-19_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 3844 | `███████████████` |
+| software-engineering | 3850 | `███████████████` |
 | ai | 528 | `██` |
 | quant | 335 | `█` |
 | machine-learning | 311 | `█` |
 | data-science | 249 | `█` |
-| hardware | 234 | `█` |
+| hardware | 233 | `█` |
 | research | 221 | `█` |
 | product | 209 | `█` |
 | design | 170 | `█` |
@@ -49,7 +49,11 @@ _Generated 2026-10-19_
 
 ## Newest listings
 
+- 2026-10-19 — **Bosch Home Comfort**: [Data Analyst & Marketing/Sales Intern](https://jobs.smartrecruiters.com/BoschGroup/744000156251739)
 - 2026-10-19 — **HeyGen**: [Software Engineer Intern](https://job-boards.greenhouse.io/heygen/jobs/4540716007)
+- 2026-10-19 — **PA Consulting**: [Digital Intern - Digital - Digital & Data](https://jobs.smartrecruiters.com/PAConsulting/744000156260214)
+- 2026-10-19 — **University of Ottawa**: [Teaching Assistant Intern](https://uottawa.wd3.myworkdayjobs.com/uOttawa_External_Career_Site/job/Ottawa-ON/CUPE---Winter-2027---Teaching-Assistant---ADM4379_JR40054)
+- 2026-10-19 — **ZS**: [Decision Analytics Associate Intern](https://jobs.zs.com/jobs/68243?icims=1)
 - 2026-10-18 — **Leonardo**: [Software Engineer Intern](https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Newcastle/Summer-Placement-Software-Engineer_R0033874)
 - 2026-10-18 — **Leonardo**: [Software Engineer Intern](https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Edinburgh/Summer-Placement-Software-Engineer_R0033869-1)
 - 2026-10-18 — **Leonardo**: [Software Engineer Placement Intern](https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Basildon/Summer-Placement-Software-Engineer_R0034282)
@@ -65,10 +69,6 @@ _Generated 2026-10-19_
 - 2026-10-17 — **onsemi**: [Applications Intern](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506972)
 - 2026-10-17 — **Persona**: [Product Design Intern](https://jobs.ashbyhq.com/persona/a50a3137-1c9a-4947-9f4e-1a4ef26c2bec/application)
 - 2026-10-17 — **Physical Reasoning**: [Software Engineering Intern](https://physicalreasoning.ai/join/software-engineering-intern/)
-- 2026-10-17 — **Together AI**: [Research Intern](https://job-boards.greenhouse.io/togetherai/jobs/5267198007)
-- 2026-10-17 — **Together AI**: [Research Intern - Frontier Speculative Decoding](https://job-boards.greenhouse.io/togetherai/jobs/5267197007)
-- 2026-10-16 — **AbbVie**: [Associate Engineer Intern, Technical Development Program](https://jobs.smartrecruiters.com/AbbVie/3743990016186871)
-- 2026-10-16 — **Abridge**: [Member of Technical Staff Intern](https://jobs.ashbyhq.com/abridge/aab11857-7ed3-4fc5-aab3-35256601117e/application?embed=true)
 
 ## Recently closed
 
@@ -117,8 +117,10 @@ _Generated 2026-10-19_
 - American Family Insurance Group — Internal Data and Analytics Intern - Summer 2027
 - American Family Insurance Group — Software Engineering Intern
 - American Family Insurance Group — Software Engineering Intern
+- Amgen — Machine Learning Engineer Intern
 - Amgen — Software Engineer Intern
 - Anduril — 2027 Manufacturing Optimization Engineer Intern
+- Aon — Actuarial Consulting Industrial Placement Intern - Actuarial Consulting - Pensions
 - APEX Analytix — Data Analyst Intern - Summer 2027
 - Applied Materials — Data Analyst Intern - Global Technical Learning Center
 - AQR Capital Management — Trading Analyst Intern
@@ -133,12 +135,16 @@ _Generated 2026-10-19_
 - Atoms — Software Engineer Intern
 - Auto-Owners Insurance — Marketplace Intelligence Intern
 - Autodesk — AI Data Developer Intern
+- Autodesk — AI Data Developer Intern - Winter
+- Autodesk — AI/ML Platform Intern
 - Autodesk — AI/ML Platform Intern
 - Autodesk — Multimodal AI for Human Experience Intern
 - Autodesk — PhD Researcher Intern - Agentic 3D Modeling in Immersive Environments
 - Autodesk — PhD Researcher Intern - Agentic 3D Modeling in Immersive Environments
+- Autodesk — PhD Researcher Intern - Machine Learning for Construction
 - Autodesk — Product Management Intern
 - Autodesk — Product Management Intern
+- Autodesk — Research Intern - Multimodal AI for Human Experience
 - Autodesk — Researcher Intern - Machine Learning for Construction
 - Autodesk — Software Development Intern
 - Autodesk — Software Development Intern
@@ -318,7 +324,9 @@ _Generated 2026-10-19_
 - General Dynamics Information Technology — Defense Agencies Intern - AI/ML
 - General Dynamics Information Technology — Software Development Intern
 - General Dynamics Information Technology — Software Development Intern
+- General Motors — AI/ML Engineer Intern - Mapping
 - General Motors — Economics Intern
+- General Motors — Product Management Intern - Digital Product
 - General Motors — Race Strategy & Analytics Intern - IndyCar
 - General Motors — Summer Intern - Global Manufacturing Robotics & Automation
 - General Motors — Systems/Calibration Engineer Intern - ADAS Drive
@@ -407,6 +415,7 @@ _Generated 2026-10-19_
 - Leidos — Software Developer Intern
 - Leidos — Software Engineer Intern
 - Leidos — Systems Engineer Intern
+- Lendable — Credit Analyst Intern
 - LexisNexis Legal & Professional — Data Science Intern
 - Live Oak Bank — Architecture/Engineering Intern
 - Lowe's — Store Operations Corporate Facilities Intern
@@ -446,6 +455,8 @@ _Generated 2026-10-19_
 - Medline — Product Management Intern - Summer 2027
 - Medline — RPA & Agentic AI Software Technologies Intern - Summer 2027
 - Medline — Software Engineer Intern - Summer 2027
+- Medtronic — Software Engineer Intern
+- Medtronic — Software Engineer Intern
 - Meijer — Data Science Intern
 - Meijer — Risk Intelligence Intern - Asset Protection
 - Meijer — Store Analytics Intern
@@ -501,6 +512,7 @@ _Generated 2026-10-19_
 - North Atlantic Industries — Electrical Engineer Intern - Test Systems
 - North Atlantic Industries — Electrical Engineer Qualification Test Intern
 - Northrop Grumman — College Technical Intern
+- Northrop Grumman — Computer Engineer Intern
 - Northrop Grumman — Electronics Engineering Intern
 - Northrop Grumman — Embedded Software Engineer Intern
 - Northrop Grumman — Hardware Electronics Engineer Intern
@@ -521,6 +533,7 @@ _Generated 2026-10-19_
 - NVIDIA — CPU Compiler Intern
 - NVIDIA — Deep Learning Intern - Deep Learning Applications and Algorithms - Deep Learning Frameworks and Libraries
 - NVIDIA — Hardware Verification Intern
+- NVIDIA — Software Engineer Intern
 - NVIDIA — Software Engineering Intern, Dynamo
 - ONE Finance — Software Engineer Intern
 - OpenGov — Product Intern
@@ -601,6 +614,7 @@ _Generated 2026-10-19_
 - Robinhood — Special Projects Intern (Summer 2027)
 - Robinhood — Vendor Management Intern (Summer 2027)
 - Royal Bank of Canada — AI Developer Intern - Grm - Innovation & AI Center of Excellence
+- Royal Bank of Canada — AI Developer Intern - Innovation & AI Center of Excellence
 - Royal Bank of Canada — Capital Markets Intern - Quantitative Technology Services
 - Royal Bank of Canada — Credit Modeling and Methodology Analyst Intern - GRM
 - Royal Bank of Canada — Data Analyst Intern
@@ -613,11 +627,13 @@ _Generated 2026-10-19_
 - RTX — Business Development Intern
 - RTX — Conversion Systems Engineer 1 Intern
 - RTX — Customer Data Management and Analysis Intern
+- RTX — Data Analyst Intern - Spare Parts Services
 - RTX — Data Analytics Intern
 - RTX — Development Operations Intern, Engineering Development Program
 - RTX — Electrical Design Engineer Intern
 - RTX — Electrical Engineer Intern - Summer 2027
 - RTX — Electrical Production Support Engineer Intern - Summer 2027
+- RTX — Electro-Optics Systems Engineer Intern
 - RTX — Flight Control Software Engineer Intern
 - RTX — Numerical Methods Intern - Advanced Software Development
 - RTX — Software Engineer Intern

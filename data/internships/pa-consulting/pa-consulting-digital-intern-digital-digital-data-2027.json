@@ -1,21 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "nvidia-hardware-engineering-intern-2027-11238b",
+  "id": "pa-consulting-digital-intern-digital-digital-data-2027",
   "company": {
-    "name": "NVIDIA",
-    "slug": "nvidia"
+    "name": "PA Consulting",
+    "slug": "pa-consulting"
   },
-  "role": "Hardware Engineering Intern",
-  "category": "hardware",
-  "apply_url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Engineering_JR2023508-1",
+  "role": "Digital Intern - Digital - Digital & Data",
+  "category": "software-engineering",
+  "apply_url": "https://jobs.smartrecruiters.com/PAConsulting/744000156260214",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Santa Clara",
-      "state": "CA",
-      "country": "USA"
+      "city": "Manchester",
+      "country": "UK"
     }
   ],
   "compensation": {
@@ -25,10 +24,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters",
-      "phd"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -43,8 +39,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-19",
-    "discovered": "2026-10-14",
+    "posted": "2026-10-19",
+    "discovered": "2026-10-19",
     "last_verified": "2026-10-19"
   },
   "status": "open",

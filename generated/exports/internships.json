@@ -1,6 +1,6 @@
 {
   "generated": "2026-10-19",
-  "count": 6469,
+  "count": 6474,
   "internships": [
     {
       "schema_version": "1.0",
@@ -20156,7 +20156,7 @@
         "discovered": "2026-09-11",
         "last_verified": "2026-10-19"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -23658,7 +23658,7 @@
         "discovered": "2026-10-14",
         "last_verified": "2026-10-19"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -32839,7 +32839,7 @@
         "discovered": "2026-10-02",
         "last_verified": "2026-10-19"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -33053,7 +33053,7 @@
         "discovered": "2026-10-02",
         "last_verified": "2026-10-19"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -33628,7 +33628,7 @@
         "discovered": "2026-10-05",
         "last_verified": "2026-10-19"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -34000,7 +34000,7 @@
         "discovered": "2026-10-05",
         "last_verified": "2026-10-19"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -48091,6 +48091,57 @@
         "last_verified": "2026-09-03"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "bosch-home-comfort-data-analyst-marketing-sales-intern-2027",
+      "company": {
+        "name": "Bosch Home Comfort",
+        "slug": "bosch-home-comfort"
+      },
+      "role": "Data Analyst & Marketing/Sales Intern",
+      "category": "software-engineering",
+      "apply_url": "https://jobs.smartrecruiters.com/BoschGroup/744000156251739",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Denham",
+          "country": "UK"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-19",
+        "discovered": "2026-10-19",
+        "last_verified": "2026-10-19"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -119448,7 +119499,7 @@
         "discovered": "2026-10-06",
         "last_verified": "2026-10-19"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -120450,7 +120501,7 @@
         "discovered": "2026-09-19",
         "last_verified": "2026-10-19"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -168095,6 +168146,57 @@
         "discovered": "2026-10-09",
         "last_verified": "2026-10-19"
       },
+      "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "lendable-intern-2027",
+      "company": {
+        "name": "Lendable",
+        "slug": "lendable"
+      },
+      "role": "Intern",
+      "category": "software-engineering",
+      "apply_url": "https://jobs.ashbyhq.com/lendable/e001dc0b-6e0f-46a7-95ba-38a3733db2f4/application?embed=true",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "London",
+          "country": "UK"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-29",
+        "discovered": "2026-10-19",
+        "last_verified": "2026-10-19"
+      },
       "status": "open",
       "tags": [
         "auto-ingested",
@@ -182607,7 +182709,7 @@
         "discovered": "2026-10-06",
         "last_verified": "2026-10-19"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -182761,7 +182863,7 @@
         "discovered": "2026-08-02",
         "last_verified": "2026-10-19"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -203932,6 +204034,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "nj-department-of-environmental-protection-economic-analysis-intern-2027",
+      "company": {
+        "name": "NJ Department of Environmental Protection",
+        "slug": "nj-department-of-environmental-protection"
+      },
+      "role": "Economic Analysis Intern",
+      "category": "software-engineering",
+      "apply_url": "https://njdepartmentofenvironmentalprotection.applytojob.com/apply/Usjk4gjg3N/CIER202610i-Economic-Analysis-Intern",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Trenton",
+          "state": "NJ",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-07",
+        "discovered": "2026-10-19",
+        "last_verified": "2026-10-19"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "nj-department-of-environmental-protection-environmental-services-intern-2027",
       "company": {
         "name": "NJ Department of Environmental Protection",
@@ -206120,7 +206274,7 @@
         "discovered": "2026-10-17",
         "last_verified": "2026-10-19"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -210695,7 +210849,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "nvidia-hardware-engineering-intern-2027-11238b",
+      "id": "nvidia-hardware-engineering-intern-2027",
       "company": {
         "name": "NVIDIA",
         "slug": "nvidia"
@@ -210739,61 +210893,6 @@
       },
       "dates": {
         "posted": "2026-08-19",
-        "discovered": "2026-10-14",
-        "last_verified": "2026-10-19"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "nvidia-hardware-engineering-intern-2027",
-      "company": {
-        "name": "NVIDIA",
-        "slug": "nvidia"
-      },
-      "role": "Hardware Engineering Intern",
-      "category": "hardware",
-      "apply_url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Ignite-Internships--Hardware-Engineering_JR2027047",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Santa Clara",
-          "state": "CA",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [
-          "masters",
-          "phd"
-        ],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-10-05",
         "discovered": "2026-08-19",
         "last_verified": "2026-10-19"
       },
@@ -212764,7 +212863,7 @@
         "discovered": "2026-10-05",
         "last_verified": "2026-10-19"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -219160,6 +219259,57 @@
         "last_verified": "2026-09-23"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "pa-consulting-digital-intern-digital-digital-data-2027",
+      "company": {
+        "name": "PA Consulting",
+        "slug": "pa-consulting"
+      },
+      "role": "Digital Intern - Digital - Digital & Data",
+      "category": "software-engineering",
+      "apply_url": "https://jobs.smartrecruiters.com/PAConsulting/744000156260214",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Manchester",
+          "country": "UK"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-19",
+        "discovered": "2026-10-19",
+        "last_verified": "2026-10-19"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -250080,7 +250230,7 @@
         "discovered": "2026-10-06",
         "last_verified": "2026-10-19"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -254173,7 +254323,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-19"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -255458,7 +255608,7 @@
         "discovered": "2026-10-14",
         "last_verified": "2026-10-19"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -327221,6 +327371,57 @@
     },
     {
       "schema_version": "1.0",
+      "id": "university-of-ottawa-teaching-assistant-intern-2027",
+      "company": {
+        "name": "University of Ottawa",
+        "slug": "university-of-ottawa"
+      },
+      "role": "Teaching Assistant Intern",
+      "category": "software-engineering",
+      "apply_url": "https://uottawa.wd3.myworkdayjobs.com/uOttawa_External_Career_Site/job/Ottawa-ON/CUPE---Winter-2027---Teaching-Assistant---ADM4379_JR40054",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Ottawa",
+          "country": "ON"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-19",
+        "discovered": "2026-10-19",
+        "last_verified": "2026-10-19"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "university-of-pikeville-policy-analyst-intern-center-for-public-service-2026",
       "company": {
         "name": "University of Pikeville",
@@ -351573,6 +351774,59 @@
       "tags": [
         "auto-ingested",
         "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "zs-decision-analytics-associate-intern-2027",
+      "company": {
+        "name": "ZS",
+        "slug": "zs"
+      },
+      "role": "Decision Analytics Associate Intern",
+      "category": "software-engineering",
+      "apply_url": "https://jobs.zs.com/jobs/68243?icims=1",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "London",
+          "country": "UK"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-19",
+        "discovered": "2026-10-19",
+        "last_verified": "2026-10-19"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
       ]
     },
     {

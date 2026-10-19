@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🔩 Hardware Internships
 
-**234** tracked · **143** open now
+**233** tracked · **142** open now
 
 ## Current openings
 
@@ -111,7 +111,6 @@
 | [Nokia](generated/companies/nokia.md) | [Hardware Engineer Co-op Intern - IP Routing](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39600) | Ottawa | Onsite | 2026-09-15 | Rolling | 🟢 Open | ❔ |
 | [NVIDIA](generated/companies/nvidia.md) | [Hardware Design for Test Intern - DFT](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Design-for-Test--DFT-_JR2023487-1) | Santa Clara, CA | Onsite | 2026-08-19 | Rolling | 🟢 Open | ❔ |
 | [NVIDIA](generated/companies/nvidia.md) | [Hardware Engineering Intern](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Engineering_JR2023508-1) | Santa Clara, CA | Onsite | 2026-08-19 | Rolling | 🟢 Open | ❔ |
-| [NVIDIA](generated/companies/nvidia.md) | [Hardware Engineering Intern](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Ignite-Internships--Hardware-Engineering_JR2027047) | Santa Clara, CA | Onsite | 2026-10-05 | Rolling | 🟢 Open | ❔ |
 | [NVIDIA](generated/companies/nvidia.md) | [Hardware Physical Design / VLSI Intern](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Physical-Design---VLSI_JR2023501) | Santa Clara, CA | Onsite | 2026-08-19 | Rolling | 🟢 Open | ❔ |
 | [Optiver](generated/companies/optiver.md) | [FPGA Engineer Intern](https://www.optiver.com/join-us/jobs/8641352002/?gh_jid=8641352002) | Austin, TX | Onsite | 2026-07-21 | Rolling | 🟢 Open | ❔ |
 | [Optiver](generated/companies/optiver.md) | [FPGA Engineer Intern](https://www.optiver.com/join-us/jobs/8402114002/?gh_jid=8402114002) | Chicago, IL | Onsite | 2026-07-21 | Rolling | 🟢 Open | ❔ |
@@ -250,9 +249,9 @@
 - SpaceX (19)
 - Neuralink (14)
 - Astranis (9)
-- NVIDIA (7)
 - Ciena (6)
 - Marvell (6)
+- NVIDIA (6)
 - Formlabs (5)
 - GE Vernova (5)
 - Jump Trading (5)
