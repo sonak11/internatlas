@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🔩 Hardware Internships
 
-**234** tracked · **143** open now
+**240** tracked · **148** open now
 
 ## Current openings
 
@@ -18,13 +18,15 @@
 | [AMD](generated/companies/amd.md) | [Hardware Design Engineer Intern/Co-op](https://careers.amd.com/jobs/90372?icims=1) | Vancouver | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
 | [AMD](generated/companies/amd.md) | [Hardware Design Engineer Intern/Co-op - Long Term](https://careers.amd.com/jobs/90367?icims=1) | Markham | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
 | [AMD](generated/companies/amd.md) | [SerDes Optical Transceivers Silicon Design and Architecture Modeling Engineer Intern/Co-op](https://careers.amd.com/jobs/92350?icims=1) | San Jose, CA +1 | Onsite | 2026-09-11 | Rolling | 🟢 Open | ❔ |
-| [Anduril](generated/companies/anduril.md) | [2026 Electrical Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5261873007?gh_jid=5261873007) | Sydney | Onsite | 2026-10-08 | Rolling | 🟢 Open | ❔ |
 | [Anduril](generated/companies/anduril.md) | [2026 Guidance, Navigation & Control Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5252665007?gh_jid=5252665007) | Sydney | Onsite | 2026-09-29 | Rolling | 🟢 Open | ❔ |
 | [Anduril](generated/companies/anduril.md) | [2027 Deployment Logistics Intern](https://boards.greenhouse.io/andurilindustries/jobs/5255866007?gh_jid=5255866007) | London | Onsite | 2026-10-07 | Rolling | 🟢 Open | ❔ |
 | [Anduril](generated/companies/anduril.md) | [2027 Electrical Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5148101007?gh_jid=5148101007) | Atlanta | Onsite | 2026-06-11 | Rolling | 🟢 Open | ❔ |
+| [Anduril](generated/companies/anduril.md) | [2027 Field Test Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5268689007?gh_jid=5268689007) | Costa Mesa | Onsite | 2026-10-19 | Rolling | 🟢 Open | ❔ |
 | [Anduril](generated/companies/anduril.md) | [2027 Flight Software Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5239083007?gh_jid=5239083007) | Costa Mesa | Onsite | 2026-09-15 | Rolling | 🟢 Open | ❔ |
 | [Anduril](generated/companies/anduril.md) | [2027 Flight Test Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5257709007?gh_jid=5257709007) | Costa Mesa | Onsite | 2026-10-14 | Rolling | 🟢 Open | ❔ |
+| [Anduril](generated/companies/anduril.md) | [2027 Guidance, Navigation, & Control Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5268736007?gh_jid=5268736007) | Costa Mesa | Onsite | 2026-10-19 | Rolling | 🟢 Open | ❔ |
 | [Anduril](generated/companies/anduril.md) | [2027 Industrial Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5255593007?gh_jid=5255593007) | Ashville | Onsite | 2026-10-02 | Rolling | 🟢 Open | ❔ |
+| [Anduril](generated/companies/anduril.md) | [2027 Low Observables Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5268752007?gh_jid=5268752007) | Costa Mesa | Onsite | 2026-10-19 | Rolling | 🟢 Open | ❔ |
 | [Anduril](generated/companies/anduril.md) | [2027 Manufacturing Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5153218007?gh_jid=5153218007) | Atlanta | Onsite | 2026-06-11 | Rolling | 🟢 Open | ❔ |
 | [Anduril](generated/companies/anduril.md) | [2027 Mechanical Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5153187007?gh_jid=5153187007) | Atlanta | Onsite | 2026-06-11 | Rolling | 🟢 Open | ❔ |
 | [Anduril](generated/companies/anduril.md) | [2027 Quality & Test Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5257674007?gh_jid=5257674007) | Ashville | Onsite | 2026-10-05 | Rolling | 🟢 Open | ❔ |
@@ -33,6 +35,7 @@
 | [Anduril](generated/companies/anduril.md) | [2027 Software Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5148079007?gh_jid=5148079007) | Atlanta | Onsite | 2026-06-10 | Rolling | 🟢 Open | ❔ |
 | [Anduril](generated/companies/anduril.md) | [2027 Supply Chain Intern](https://boards.greenhouse.io/andurilindustries/jobs/5255827007?gh_jid=5255827007) | Costa Mesa | Onsite | 2026-10-02 | Rolling | 🟢 Open | ❔ |
 | [Anduril](generated/companies/anduril.md) | [2027 Systems Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5257690007?gh_jid=5257690007) | Boston | Onsite | 2026-10-05 | Rolling | 🟢 Open | ❔ |
+| [Anduril](generated/companies/anduril.md) | [2027 Technical Program Manager Intern](https://boards.greenhouse.io/andurilindustries/jobs/5268864007?gh_jid=5268864007) | Costa Mesa | Onsite | 2026-10-19 | Rolling | 🟢 Open | ❔ |
 | [Arc](generated/companies/arc.md) | [Electrical Hardware Engineering Intern](https://job-boards.greenhouse.io/arcboatcompany/jobs/5442853008) | Torrance, CA | Onsite | 2026-10-02 | Rolling | 🟢 Open | ❔ |
 | [Astranis](generated/companies/astranis.md) | [FPGA Intern - Summer 2027](https://job-boards.greenhouse.io/astranis/jobs/4704805006) | SF | Onsite | 2026-09-24 | Rolling | 🟢 Open | ❔ |
 | [Astranis](generated/companies/astranis.md) | [FPGA Intern - Winter 2027](https://job-boards.greenhouse.io/astranis/jobs/4704803006) | SF | Onsite | 2026-09-24 | Rolling | 🟢 Open | ❔ |
@@ -110,11 +113,13 @@
 | [Neuralink](generated/companies/neuralink.md) | [Software Engineer Intern, Internal Apps](https://boards.greenhouse.io/neuralink/jobs/6083322003?gh_jid=6083322003) | Austin | Onsite | 2024-12-13 | Rolling | 🟢 Open | ❔ |
 | [Neuralink](generated/companies/neuralink.md) | [Software Engineer Intern, Robotics](https://boards.greenhouse.io/neuralink/jobs/5469305003?gh_jid=5469305003) | Austin | Onsite | 2025-01-14 | Rolling | 🟢 Open | ❔ |
 | [Nokia](generated/companies/nokia.md) | [Hardware Engineer Co-op Intern - IP Routing](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39600) | Ottawa | Onsite | 2026-09-15 | Rolling | 🟢 Open | ❔ |
+| [NVIDIA](generated/companies/nvidia.md) | [ASIC Verification Intern](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Canada-Toronto/ASIC-Verification-Intern---Summer-2027_JR2027982) | Toronto | Onsite | 2026-10-19 | Rolling | 🟢 Open | ❔ |
 | [NVIDIA](generated/companies/nvidia.md) | [Hardware Design for Test Intern - DFT](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Design-for-Test--DFT-_JR2023487-1) | Santa Clara, CA | Onsite | 2026-08-19 | Rolling | 🟢 Open | ❔ |
 | [NVIDIA](generated/companies/nvidia.md) | [Hardware Engineering Intern](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Engineering_JR2023508-1) | Santa Clara, CA | Onsite | 2026-08-19 | Rolling | 🟢 Open | ❔ |
 | [NVIDIA](generated/companies/nvidia.md) | [Hardware Physical Design / VLSI Intern](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Physical-Design---VLSI_JR2023501) | Santa Clara, CA | Onsite | 2026-08-19 | Rolling | 🟢 Open | ❔ |
 | [Optiver](generated/companies/optiver.md) | [FPGA Engineer Intern](https://www.optiver.com/join-us/jobs/8641352002/?gh_jid=8641352002) | Austin, TX | Onsite | 2026-07-21 | Rolling | 🟢 Open | ❔ |
 | [Optiver](generated/companies/optiver.md) | [FPGA Engineer Intern](https://www.optiver.com/join-us/jobs/8402114002/?gh_jid=8402114002) | Chicago, IL | Onsite | 2026-07-21 | Rolling | 🟢 Open | ❔ |
+| [Qualcomm](generated/companies/qualcomm.md) | [QDSP Hardware Physical Design Intern](https://qualcomm.eightfold.ai/careers/job/446721636316) | Markham | Onsite | 2026-10-19 | Rolling | 🟢 Open | ❔ |
 | [Qualcomm](generated/companies/qualcomm.md) | [Silicon Validation Intern](https://qualcomm.eightfold.ai/careers/job/446721143274) | Toronto | Onsite | 2026-09-18 | Rolling | 🟢 Open | ❔ |
 | [Qualcomm](generated/companies/qualcomm.md) | [Soft IP ASIC Engineer Intern](https://qualcomm.eightfold.ai/careers/job/446721302471) | Ottawa | Onsite | 2026-09-28 | Rolling | 🟢 Open | ❔ |
 | [Rivian](generated/companies/rivian.md) | [Audio Hardware Engineer Intern Co-op - Audio Hardware and DSP](https://careers.rivian.com/jobs/33874?icims=1) | Palo Alto, CA | Onsite | 2026-09-30 | Rolling | 🟢 Open | ❔ |
@@ -166,6 +171,7 @@
 | [AMD](generated/companies/amd.md) | [Hardware Engineer Intern/Co-op - Hardware Engineering](https://careers.amd.com/jobs/91182?icims=1) | Rochester, NY +5 | Onsite | 2026-08-21 | Rolling | 🔴 Closed | ❔ |
 | [AMD](generated/companies/amd.md) | [Hardware Engineering Intern/Co-op - Undergrad](https://careers.amd.com/jobs/91173?icims=1) | Rochester, NY +5 | Onsite | 2026-08-21 | Rolling | 🔴 Closed | ❔ |
 | [Amentum](generated/companies/amentum.md) | [Spaceflight Hardware Intern](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-TX-Houston/Fall-2026---Spaceflight-Hardware-Intern_R0166096) | Houston, TX | Onsite | 2026-07-16 | Rolling | 🔴 Closed | ❔ |
+| [Anduril](generated/companies/anduril.md) | [2026 Electrical Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5261873007?gh_jid=5261873007) | Sydney | Onsite | 2026-10-08 | Rolling | 🔴 Closed | ❔ |
 | [Anduril](generated/companies/anduril.md) | [2026 Mechanical Engineering Intern](https://boards.greenhouse.io/andurilindustries/jobs/5211102007?gh_jid=5211102007) | Sydney | Onsite | 2026-09-02 | Rolling | 🔴 Closed | ❔ |
 | [Anduril](generated/companies/anduril.md) | [2026 Robotics Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5211095007?gh_jid=5211095007) | Sydney | Onsite | 2026-09-04 | Rolling | 🔴 Closed | ❔ |
 | [Anduril](generated/companies/anduril.md) | [2026 Software Engineering Intern](https://boards.greenhouse.io/andurilindustries/jobs/5211077007?gh_jid=5211077007) | Sydney | Onsite | 2026-09-02 | Rolling | 🔴 Closed | ❔ |
@@ -245,23 +251,23 @@
 
 ## Hiring companies
 
-- Anduril (23)
+- Anduril (27)
 - AMD (19)
 - SpaceX (19)
 - Neuralink (14)
 - Astranis (9)
+- NVIDIA (7)
 - Ciena (6)
 - Marvell (6)
-- NVIDIA (6)
 - Formlabs (5)
 - GE Vernova (5)
 - Jump Trading (5)
+- Qualcomm (5)
 - Tesla (5)
 - Cadence Design Systems (4)
 - CesiumAstro (4)
 - Google (4)
 - Intel (4)
-- Qualcomm (4)
 - RTX (4)
 - Bedrock Robotics (3)
 - Hermeus (3)

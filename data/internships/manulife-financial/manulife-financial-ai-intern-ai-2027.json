@@ -7,15 +7,14 @@
   },
   "role": "AI Intern - AI",
   "category": "ai",
-  "apply_url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Boston-Massachusetts/Summer-Intern-2027---AI_JR26081682",
-  "season": "summer",
+  "apply_url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Toronto-Ontario/Summer-Intern-2027---AI_JR26081688-1",
+  "season": "spring",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Boston",
-      "state": "MA",
-      "country": "USA"
+      "city": "Toronto",
+      "country": "ON"
     }
   ],
   "compensation": {
@@ -40,11 +39,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-27",
+    "posted": "2026-10-19",
     "discovered": "2026-08-28",
-    "last_verified": "2026-10-05"
+    "last_verified": "2026-10-19"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

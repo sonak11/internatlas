@@ -6,7 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
-| MetOx International | [Data Science Intern - Spring 2027](https://job-boards.greenhouse.io/metoxinternationalinc/jobs/5427064008) | Houston, TX | Onsite | 2026-09-18 | Rolling | 🟢 Open | ❔ |
+| MetOx International | [Data Science Intern - Spring 2027](https://job-boards.greenhouse.io/metoxinternationalinc/jobs/5427064008) | Houston, TX | Onsite | 2026-09-18 | Rolling | 🔴 Closed | ❔ |
 
 ## Related
 

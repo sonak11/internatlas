@@ -2,12 +2,11 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # Waymo
 
-[Careers page](https://waymo.com/careers)
-
 ## Current openings
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
+| Waymo | [2027 Summer Intern - Multiple Teams](https://careers.withwaymo.com/jobs?gh_jid=8301854) | Mountain View, CA | Onsite | 2026-10-19 | Rolling | 🟢 Open | ❔ |
 | Waymo | [2027 Summer Intern, BS, Depot Automation](https://careers.withwaymo.com/jobs?gh_jid=8234553) | San Francisco | Onsite | 2026-09-28 | Rolling | 🟢 Open | ❔ |
 | Waymo | [2027 Summer Intern, BS, Software Engineer, Driver Refinement Foundations](https://careers.withwaymo.com/jobs?gh_jid=8224900) | Mountain View, CA | Onsite | 2026-09-25 | Rolling | 🟢 Open | ❔ |
 | Waymo | [2027 Summer Intern, BS, Software Engineer, Model Eval](https://careers.withwaymo.com/jobs?gh_jid=8257660) | Mountain View, CA | Onsite | 2026-10-06 | Rolling | 🟢 Open | ❔ |
@@ -52,6 +51,7 @@
 | Waymo | [2027 Summer Intern, MS/PhD, Systems Engineer, Autonomous Vehicle Networks & Diagnostics](https://careers.withwaymo.com/jobs?gh_jid=8231711) | Mountain View, CA | Onsite | 2026-09-25 | Rolling | 🟢 Open | ❔ |
 | Waymo | [2027 Summer Intern, PhD, Data Science](https://careers.withwaymo.com/jobs?gh_jid=8221956) | Mountain View, CA +1 | Onsite | 2026-09-22 | Rolling | 🟢 Open | ❔ |
 | Waymo | [2027 Summer Intern, PhD, Learning-Based Behavior for Special Vehicles](https://careers.withwaymo.com/jobs?gh_jid=8203191) | Mountain View +1 | Onsite | 2026-09-18 | Rolling | 🟢 Open | ❔ |
+| Waymo | [2027 Summer Intern, PhD, Machine Learning - Simulation & Closed-Loop Training](https://careers.withwaymo.com/jobs?gh_jid=8283558) | Mountain View +1 | Onsite | 2026-10-19 | Rolling | 🟢 Open | ❔ |
 | Waymo | [2027 Summer Intern, PhD, Machine Learning Research, Planning/Prediction](https://careers.withwaymo.com/jobs?gh_jid=8237997) | Mountain View, CA | Onsite | 2026-09-28 | Rolling | 🟢 Open | ❔ |
 | Waymo | [2027 Summer Intern, PhD, Machine Learning, Computer Vision](https://careers.withwaymo.com/jobs?gh_jid=8202025) | Mountain View +1 | Onsite | 2026-09-16 | Rolling | 🟢 Open | ❔ |
 | Waymo | [2027 Summer Intern, PhD, Machine Learning, Planning/Prediction](https://careers.withwaymo.com/jobs?gh_jid=8262154) | Mountain View, CA | Onsite | 2026-10-08 | Rolling | 🟢 Open | ❔ |
@@ -62,7 +62,8 @@
 | Waymo | [2027 Summer Intern, PhD, Quantitative Software Engineer](https://careers.withwaymo.com/jobs?gh_jid=8197554) | Mountain View +2 | Onsite | 2026-09-16 | Rolling | 🟢 Open | ❔ |
 | Waymo | [2027 Summer Intern, PhD, Research Scientist, Visual Reasoning](https://careers.withwaymo.com/jobs?gh_jid=8292367) | Mountain View, CA | Onsite | 2026-10-19 | Rolling | 🟢 Open | ❔ |
 | Waymo | [2027 Summer Intern, PhD, Research, AV Planning](https://careers.withwaymo.com/jobs?gh_jid=8258070) | Mountain View, CA | Onsite | 2026-10-09 | Rolling | 🟢 Open | ❔ |
-| Waymo | [2027 Summer Intern, PhD, Research, Behavior Post-training](https://careers.withwaymo.com/jobs?gh_jid=8289816) | Mountain View, CA | Onsite | 2026-10-19 | Rolling | 🟢 Open | ❔ |
+| Waymo | [2027 Summer Intern, PhD, Research, Behavior Post-training](https://careers.withwaymo.com/jobs?gh_jid=8289816) | Mountain View, CA +1 | Onsite | 2026-10-19 | Rolling | 🟢 Open | ❔ |
+| Waymo | [2027 Summer Intern, PhD, Research, Perception Foundation Models](https://careers.withwaymo.com/jobs?gh_jid=8301804) | Mountain View, CA | Onsite | 2026-10-19 | Rolling | 🟢 Open | ❔ |
 | Waymo | [2027 Summer Intern, PhD, Research, Post Training](https://careers.withwaymo.com/jobs?gh_jid=8257006) | Mountain View, CA +1 | Onsite | 2026-10-09 | Rolling | 🟢 Open | ❔ |
 | Waymo | [2027 Summer Intern, PhD, Research, World Action Model](https://careers.withwaymo.com/jobs?gh_jid=8243732) | Mountain View, CA | Onsite | 2026-10-02 | Rolling | 🟢 Open | ❔ |
 | Waymo | [2027 Summer Intern, PhD, Research, World Modeling Evaluation](https://careers.withwaymo.com/jobs?gh_jid=8265173) | Mountain View, CA | Onsite | 2026-10-08 | Rolling | 🟢 Open | ❔ |

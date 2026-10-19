@@ -11,12 +11,12 @@
 | Textron | [Software Engineer Intern](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=343299) | Augusta, GA | Onsite | 2026-09-02 | Rolling | 🟢 Open | ❔ |
 | Textron | [Software Engineer Intern](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342550) | Waterboro, ME | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
 | Textron | [Software Engineer Intern - Crewed Land](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342915) | Slidell, LA | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
-| Textron | [Software Engineer Intern - Sea Systems](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342935) | Hunt Valley | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
 | Textron | [Stage automne 2026 – Technologie de l'information / 2026 fall Internship - Information Technology - Mirabel - Qc](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=343165) | Mirabel | Onsite | 2026-06-18 | Rolling | 🟢 Open | ❔ |
 | Textron | [Data Product & Analytics Intern](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=343181) | Augusta, GA | Onsite | 2026-09-02 | Rolling | 🔴 Closed | ❔ |
 | Textron | [Firmware Engineer Intern - Weapons](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342606) | Hunt Valley | Onsite | 2026-09-01 | Rolling | 🔴 Closed | ❔ |
 | Textron | [IT Programmer Intern](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=343204) | Augusta, GA | Onsite | 2026-09-02 | Rolling | 🔴 Closed | ❔ |
 | Textron | [Software Engineer Intern - Electronic Systems](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342688) | Hunt Valley | Onsite | 2026-09-01 | Rolling | 🔴 Closed | ❔ |
+| Textron | [Software Engineer Intern - Sea Systems](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342935) | Hunt Valley | Onsite | 2026-09-01 | Rolling | 🔴 Closed | ❔ |
 
 ## Related
 

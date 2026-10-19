@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🔬 Research Internships
 
-**223** tracked · **133** open now
+**225** tracked · **135** open now
 
 ## Current openings
 
@@ -108,6 +108,7 @@
 | [Susquehanna International Group](generated/companies/susquehanna-international-group.md) | [Sell Side Research Rotational Program Intern](https://careers-sig.icims.com/jobs/11434/sell-side-research-rotational-program%3a-august-2027-start/job) | Remote | Remote | 2026-10-14 | Rolling | 🟢 Open | ❔ |
 | [Tencent](generated/companies/tencent.md) | [Multimodal Algorithm Researcher Intern - Omni-Modal](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Hunyuan-Multimodal-Algorithm-Researcher-intern-Omni-Modal---_R106650) | Palo Alto, CA | Onsite | 2026-07-04 | Rolling | 🟢 Open | ❔ |
 | [Tencent](generated/companies/tencent.md) | [Multimodal Algorithm Researcher Intern - Omni-Modal](https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/US-California-Palo-Alto/Hunyuan-Multimodal-Algorithm-Researcher-intern-Omni-Modal---_R106650-2) | Palo Alto, CA | Onsite | 2026-06-13 | Rolling | 🟢 Open | ❔ |
+| [The Allen Institute for AI](generated/companies/the-allen-institute-for-ai.md) | [Research Intern - Robotics](https://job-boards.greenhouse.io/thealleninstitute/jobs/8293641) | Seattle, WA | Onsite | 2026-10-19 | Rolling | 🟢 Open | ❔ |
 | [The Federal Reserve System](generated/companies/the-federal-reserve-system.md) | [Research Intern](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Cleveland-OH/Research-Intern---2027_R-0000033640) | Cleveland, OH | Onsite | 2026-10-01 | Rolling | 🟢 Open | ❔ |
 | [TikTok](generated/companies/tiktok.md) | [Research Engineer Intern - Monetization Technology - Business Integrity](https://lifeattiktok.com/search/7668204394458466565) | San Jose, CA | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
 | [TikTok](generated/companies/tiktok.md) | [Research Engineer Intern - Monetization Technology - Business Integrity](https://lifeattiktok.com/search/7668202602270951733) | San Jose, CA | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
@@ -135,7 +136,8 @@
 | [Waymo](generated/companies/waymo.md) | [2027 Summer Intern, MS/PhD,  Research, Perception Foundation Models](https://careers.withwaymo.com/jobs?gh_jid=8257801) | Mountain View, CA | Onsite | 2026-10-07 | Rolling | 🟢 Open | ❔ |
 | [Waymo](generated/companies/waymo.md) | [2027 Summer Intern, PhD, Research Scientist, Visual Reasoning](https://careers.withwaymo.com/jobs?gh_jid=8292367) | Mountain View, CA | Onsite | 2026-10-19 | Rolling | 🟢 Open | ❔ |
 | [Waymo](generated/companies/waymo.md) | [2027 Summer Intern, PhD, Research, AV Planning](https://careers.withwaymo.com/jobs?gh_jid=8258070) | Mountain View, CA | Onsite | 2026-10-09 | Rolling | 🟢 Open | ❔ |
-| [Waymo](generated/companies/waymo.md) | [2027 Summer Intern, PhD, Research, Behavior Post-training](https://careers.withwaymo.com/jobs?gh_jid=8289816) | Mountain View, CA | Onsite | 2026-10-19 | Rolling | 🟢 Open | ❔ |
+| [Waymo](generated/companies/waymo.md) | [2027 Summer Intern, PhD, Research, Behavior Post-training](https://careers.withwaymo.com/jobs?gh_jid=8289816) | Mountain View, CA +1 | Onsite | 2026-10-19 | Rolling | 🟢 Open | ❔ |
+| [Waymo](generated/companies/waymo.md) | [2027 Summer Intern, PhD, Research, Perception Foundation Models](https://careers.withwaymo.com/jobs?gh_jid=8301804) | Mountain View, CA | Onsite | 2026-10-19 | Rolling | 🟢 Open | ❔ |
 | [Waymo](generated/companies/waymo.md) | [2027 Summer Intern, PhD, Research, Post Training](https://careers.withwaymo.com/jobs?gh_jid=8257006) | Mountain View, CA +1 | Onsite | 2026-10-09 | Rolling | 🟢 Open | ❔ |
 | [Waymo](generated/companies/waymo.md) | [2027 Summer Intern, PhD, Research, World Action Model](https://careers.withwaymo.com/jobs?gh_jid=8243732) | Mountain View, CA | Onsite | 2026-10-02 | Rolling | 🟢 Open | ❔ |
 | [Waymo](generated/companies/waymo.md) | [2027 Summer Intern, PhD, Research, World Modeling Evaluation](https://careers.withwaymo.com/jobs?gh_jid=8265173) | Mountain View, CA | Onsite | 2026-10-08 | Rolling | 🟢 Open | ❔ |
@@ -239,7 +241,7 @@
 - Meta (11)
 - TikTok (10)
 - ByteDance (9)
-- Waymo (8)
+- Waymo (9)
 - General Motors (6)
 - Pennsylvania State University (6)
 - Tencent (4)
@@ -301,6 +303,7 @@
 - Quadrillion (1)
 - Stand Together (1)
 - Susquehanna International Group (1)
+- The Allen Institute for AI (1)
 - Trata (1)
 - University of Texas at Austin (1)
 - Vertiv (1)

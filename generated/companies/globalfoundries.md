@@ -6,6 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
+| GlobalFoundries | [AI/ML Systems Engineering Intern](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Richardson/AI-ML-Systems-Engineering-Intern--Summer-2027-_JR-2604051) | Richardson, TX | Onsite | 2026-10-19 | Rolling | 🟢 Open | ❔ |
 | GlobalFoundries | [Foundation IP Design Verification Intern](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---California---Santa-Clara/Foundation-IP-Design-Verification-Intern--Summer-2027-_JR-2604356) | Santa Clara, CA | Onsite | 2026-10-16 | Rolling | 🟢 Open | ❔ |
 | GlobalFoundries | [Human Resources Intern - HR Analytics](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Human-Resources-Intern--HR-Analytics--Summer-2027-_JR-2604494) | Malta, NY | Onsite | 2026-10-14 | Rolling | 🟢 Open | ❔ |
 | GlobalFoundries | [Research Account Management & Field Application Engineering Support Intern](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/GF-Labs-Research-AM-and-FAE-support-Intern--Summer-2027--_JR-2604431) | Essex Junction, VT | Onsite | 2026-10-16 | Rolling | 🟢 Open | ❔ |
@@ -19,4 +20,4 @@
 
 ## Related
 
-Browse more roles in: [🎨 Design](../categories/design.md), [🔩 Hardware](../categories/hardware.md), [🔬 Research](../categories/research.md), [💻 Software Engineering](../categories/software-engineering.md)
+Browse more roles in: [🎨 Design](../categories/design.md), [🔩 Hardware](../categories/hardware.md), [🧠 Machine Learning](../categories/machine-learning.md), [🔬 Research](../categories/research.md), [💻 Software Engineering](../categories/software-engineering.md)

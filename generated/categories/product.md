@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🧭 Product Internships
 
-**209** tracked · **112** open now
+**211** tracked · **114** open now
 
 ## Current openings
 
@@ -25,6 +25,7 @@
 | [American Express](generated/companies/american-express.md) | [Product Management Intern - Global Merchant & Network Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012148) | Phoenix, AZ | Onsite | 2026-08-05 | Rolling | 🟢 Open | ❌ |
 | [American Express](generated/companies/american-express.md) | [Product Manager Intern - Undergraduate](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013766) | London | Onsite | 2026-09-14 | Rolling | 🟢 Open | ❔ |
 | [American Express](generated/companies/american-express.md) | [Product Manager Intern - Undergraduate](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013764) | Burgess Hill | Onsite | 2026-09-14 | Rolling | 🟢 Open | ❔ |
+| [Amplify](generated/companies/amplify.md) | [Product Management Intern](https://jobs.ashbyhq.com/amplify/c95f690f-28af-42b1-8847-5dcf14c1155e/application?embed=true) | Remote | Remote | 2026-10-19 | Rolling | 🟢 Open | ❔ |
 | [Appian](generated/companies/appian.md) | [Product Manager Intern](https://careers.appian.com/jobs/8041243-product-manager-intern-) | McLean, VA | Onsite | 2026-07-24 | Rolling | 🟢 Open | ❔ |
 | [AspenTech](generated/companies/aspentech.md) | [Product Owner Intern - Product Management](https://aspentech.wd5.myworkdayjobs.com/aspentech/job/Bedford-Massachusetts/Product-Owner-Intern---Product-Management----Summer-2027_R9471) | Houston, TX +1 | Onsite | 2026-09-16 | Rolling | 🟢 Open | ❔ |
 | [Atlassian](generated/companies/atlassian.md) | [Product Management Intern](https://careers-americas.icims.com/jobs/26274/product-management-intern%2c-2027-summer-u.s./job) | SF | Onsite | 2026-09-02 | Rolling | 🟢 Open | ❔ |
@@ -119,6 +120,7 @@
 | [Workday](generated/companies/workday.md) | [Product Manager Intern](https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Product-Manager-Intern_JR-0110813) | Pleasanton, CA | Onsite | 2026-10-09 | Rolling | 🟢 Open | ❔ |
 | [Workday](generated/companies/workday.md) | [Product Manager Intern](https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/Canada-BC-Vancouver/Product-Manager-Intern_JR-0110808) | Vancouver | Onsite | 2026-10-09 | Rolling | 🟢 Open | ❔ |
 | [Zurn Elkay Water Solutions](generated/companies/zurn-elkay-water-solutions.md) | [Product Management Intern](https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Paso-Robles-CA/Product-Management-Intern--Summer-2027-_REQ-020109) | Paso Robles, CA | Onsite | 2026-09-17 | Rolling | 🟢 Open | ❔ |
+| [Zurn Elkay Water Solutions](generated/companies/zurn-elkay-water-solutions.md) | [Product Management Intern](https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Downers-Grove-IL/Product-Management-Intern---Summer-2027_REQ-020065) | Downers Grove, IL | Onsite | 2026-10-19 | Rolling | 🟢 Open | ❔ |
 | [Zurn Elkay Water Solutions](generated/companies/zurn-elkay-water-solutions.md) | [Product Management Intern - Summer 2027](https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Erie-PA/Product-Management-Intern---Summer-2027_REQ-020103-1) | Erie, PA | Onsite | 2026-09-16 | Rolling | 🟢 Open | ❔ |
 | [7-Eleven](generated/companies/7-eleven.md) | [Digital Product Manager Intern](https://my7elevenhr.wd12.myworkdayjobs.com/Careers/job/SSC-Irving-TX/Digital-Product-Manager-Intern_R26_5991) | Irving, TX | Onsite | 2026-10-08 | Rolling | 🔴 Closed | ❔ |
 | [ABC News](generated/companies/abc-news.md) | [Product Management and Engineering Intern](https://jobs.disneycareers.com/job/new-york/abc-news-product-management-and-engineering-intern-summer-fall-2026/391/93958488896) | New York, NY | Onsite | 2026-04-20 | Rolling | 🔴 Closed | ❔ |
@@ -235,6 +237,7 @@
 - Duolingo (3)
 - Qorvo (3)
 - Springs Window Fashions (3)
+- Zurn Elkay Water Solutions (3)
 - Goldman Sachs (3)
 - Appian (2)
 - Blackhawk Network Holdings (2)
@@ -253,7 +256,6 @@
 - ROCKWOOL Group (2)
 - Shure (2)
 - Workday (2)
-- Zurn Elkay Water Solutions (2)
 - Geotab (2)
 - PricewaterhouseCoopers (PwC) (2)
 - Salesforce (2)
@@ -265,6 +267,7 @@
 - ADT (1)
 - Allied Solutions (1)
 - AMD (1)
+- Amplify (1)
 - AspenTech (1)
 - Atlassian (1)
 - Behaviour Interactive (1)

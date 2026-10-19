@@ -9,7 +9,6 @@
 | Micron Technology | [DRAM Design Engineer Intern](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---DRAM-Design-Engineer_JR108468) | Boise, ID | Onsite | 2026-08-10 | Rolling | 🟢 Open | ❔ |
 | Micron Technology | [DRAM Design Engineer Intern](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---DRAM-Design-Engineer_JR108448) | Boise, ID | Onsite | 2026-08-10 | Rolling | 🟢 Open | ❔ |
 | Micron Technology | [Semiconductor Research & Technology Development Intern](https://micron.wd1.myworkdayjobs.com/External/job/Albany-NY/Intern---Semiconductor-Research---Technology-Development_JR110876) | Albany, NY | Onsite | 2026-09-14 | Rolling | 🟢 Open | ❔ |
-| Micron Technology | [Yield Enhancement Intern - Data Analysis](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Yield-Enhancement--Data-Analysis_JR109076) | Boise, ID | Onsite | 2026-08-21 | Rolling | 🟢 Open | ❔ |
 | Micron Technology | [Advanced Spectroscopy and Nanoscale Materials Characterization Intern](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/XMLNAME-2027-Summer-Intern--Advanced-Spectroscopy-and-Nanoscale-Materials-Characterization_JR109071) | Boise, ID | Onsite | 2026-08-24 | Rolling | 🔴 Closed | ❔ |
 | Micron Technology | [AI Systems and Infrastructure Engineering Intern](https://micron.wd1.myworkdayjobs.com/External/job/Austin-TX/Intern---AI-Systems-and-Infrastructure-Engineering_JR109990) | Austin, TX | Onsite | 2026-08-31 | Rolling | 🔴 Closed | ❔ |
 | Micron Technology | [Design Architecture Intern - HBM](https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern----Design-Architecture--HBM_JR110177) | Richardson, TX | Onsite | 2026-08-31 | Rolling | 🔴 Closed | ❔ |
@@ -25,6 +24,7 @@
 | Micron Technology | [Surface Scientist Intern - Corporate Labs](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Corporate-Labs_JR108442) | Boise, ID | Onsite | 2026-08-12 | Rolling | 🔴 Closed | ❔ |
 | Micron Technology | [Technical Customer Management Intern - AI](https://micron.wd1.myworkdayjobs.com/External/job/Longmont-MAX--Office-CO/Intern---Technical-Customer-Management--AI_JR109454) | Longmont, CO | Onsite | 2026-08-27 | Rolling | 🔴 Closed | ❔ |
 | Micron Technology | [Thin Films Equipment Engineering Intern - EDE](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---EDE-Thin-Films-Equipment-Engineering_JR108977) | Boise, ID | Onsite | 2026-08-24 | Rolling | 🔴 Closed | ❔ |
+| Micron Technology | [Yield Enhancement Intern - Data Analysis](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Yield-Enhancement--Data-Analysis_JR109076) | Boise, ID | Onsite | 2026-08-21 | Rolling | 🔴 Closed | ❔ |
 
 ## Related
 

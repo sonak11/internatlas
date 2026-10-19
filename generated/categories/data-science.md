@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 📊 Data Science Internships
 
-**250** tracked · **140** open now
+**251** tracked · **140** open now
 
 ## Current openings
 
@@ -70,6 +70,7 @@
 | [Google](generated/companies/google.md) | [Data Scientist Research Intern - PhD](https://www.google.com/about/careers/applications/jobs/results/89965613241246406) | Palo Alto, CA +30 | Onsite | 2026-09-14 | Rolling | 🟢 Open | ❔ |
 | [Gordon Food Service](generated/companies/gordon-food-service.md) | [Data Science Engineer Intern](https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Atlanta-Georgia/Data-Science-Engineer-Internship_R-57243-1) | Atlanta, GA | Onsite | 2026-09-16 | Rolling | 🟢 Open | ❔ |
 | [Hadrian](generated/companies/hadrian.md) | [Data Science/Data Engineer Intern](https://jobs.ashbyhq.com/hadrian-automation/f718bcfe-3f5b-4682-a294-697499caf813/application?embed=true) | LA +1 | Onsite | 2026-09-03 | Rolling | 🟢 Open | ❔ |
+| [Highmark Health](generated/companies/highmark-health.md) | [Data Science Research and Development Graduate Intern](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Data-Science-R-D-Graduate-Intern_J287175) | New Mexico +50 | Onsite | 2026-10-19 | Rolling | 🟢 Open | ❔ |
 | [Hudson River Trading](generated/companies/hudson-river-trading.md) | [Data Scientist Intern](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8257369) | London +2 | Onsite | 2026-10-05 | Rolling | 🟢 Open | ❔ |
 | [ICF International](generated/companies/icf-international.md) | [Data Scientist Intern](https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Data-Scientist--Reston--VA--Denver--CO--Remote-_R2603252) | Reston, VA +1 | Onsite | 2026-09-25 | Rolling | 🟢 Open | ❔ |
 | [Integra FEC](generated/companies/integra-fec.md) | [Data Scientist Intern - PhD](https://job-boards.greenhouse.io/integrainterns/jobs/5406093008) | Austin, TX | Onsite | 2026-08-31 | Rolling | 🟢 Open | ❔ |
@@ -85,7 +86,6 @@
 | [Lyft](generated/companies/lyft.md) | [Data Science Intern - Algorithms](https://app.careerpuck.com/job-board/lyft/job/8767697002?gh_jid=8767697002) | Toronto | Onsite | 2026-09-11 | Rolling | 🟢 Open | ❔ |
 | [Meta](generated/companies/meta.md) | [Data Scientist Intern - Product Analytics](https://www.metacareers.com/jobs/929757023499411) | Menlo Park, CA | Onsite | 2026-10-07 | Rolling | 🟢 Open | ❔ |
 | [Meta](generated/companies/meta.md) | [Data Scientist Intern - Product Analytics](https://www.metacareers.com/jobs/1633096478817942) | Menlo Park, CA +1 | Onsite | 2026-10-06 | Rolling | 🟢 Open | ❔ |
-| [MetOx International](generated/companies/metox-international.md) | [Data Science Intern - Spring 2027](https://job-boards.greenhouse.io/metoxinternationalinc/jobs/5427064008) | Houston, TX | Onsite | 2026-09-18 | Rolling | 🟢 Open | ❔ |
 | [Momentive](generated/companies/momentive.md) | [Data Science Intern - Enterprise Reporting & Analytics](https://momentive.wd1.myworkdayjobs.com/MC/job/US-NY-Niskayuna/Summer-2027-Intern---Enterprise-Reporting---Analytics---Data-Science_R9807-1) | Niskayuna, NY | Onsite | 2026-09-03 | Rolling | 🟢 Open | ❔ |
 | [National Life](generated/companies/national-life.md) | [Data Science Intern](https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4449670009) | Montpelier, VT +1 | Onsite | 2026-10-14 | Rolling | 🟢 Open | ❔ |
 | [Navy Federal](generated/companies/navy-federal.md) | [Data Scientist Intern](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32291) | Vienna, VA | Onsite | 2026-09-09 | Rolling | 🟢 Open | ❔ |
@@ -219,6 +219,7 @@
 | [Merck](generated/companies/merck.md) | [Data Scientist Intern - Nonclinical Drug Safety](https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Massachusetts---Boston-MA-Parcel-B-Laboratory/XMLNAME-2027-Future-Talent-Program---Nonclinical-Drug-Safety-Data-Scientist---Intern_R412861) | Boston, MA | Onsite | 2026-09-08 | Rolling | 🔴 Closed | ❔ |
 | [Merck](generated/companies/merck.md) | [Medical Data Scientist Intern](https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Pennsylvania---North-Wales-Upper-Gwynedd/XMLNAME-2027-Future-Talent-Program---Medical-Data-Scientist---Intern_R412403) | North Wales, PA | Onsite | 2026-09-08 | Rolling | 🔴 Closed | ❔ |
 | [Merck](generated/companies/merck.md) | [Optical Imaging Data Science Intern](https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Massachusetts---Boston-MA-Parcel-B-Laboratory/XMLNAME-2027-Future-Talent-Program---Optical-Imaging-Data-Science-Intern---Intern_R412885) | Boston, MA | Onsite | 2026-09-08 | Rolling | 🔴 Closed | ❔ |
+| [MetOx International](generated/companies/metox-international.md) | [Data Science Intern - Spring 2027](https://job-boards.greenhouse.io/metoxinternationalinc/jobs/5427064008) | Houston, TX | Onsite | 2026-09-18 | Rolling | 🔴 Closed | ❔ |
 | [National Laboratory of the Rockies](generated/companies/national-laboratory-of-the-rockies.md) | [Graduate Geospatial Data Science Intern](https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Graduate--Year-Round--Intern--Geospatial-Data-Science-Modeling-and-Analysis_R14338) | Golden, CO | Onsite | 2026-07-04 | Rolling | 🔴 Closed | ❔ |
 | [Navy Federal](generated/companies/navy-federal.md) | [Data Scientist Intern](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/31873) | Pensacola, FL +1 | Onsite | 2026-08-12 | Rolling | 🔴 Closed | ❔ |
 | [Nextiva](generated/companies/nextiva.md) | [Marketing Intern - Data Science](https://www.nextiva.com/company/careers-listing?gh_jid=8687999002) | Scottsdale, AZ | Onsite | 2026-08-19 | Rolling | 🔴 Closed | ❔ |
@@ -335,6 +336,7 @@
 - GM financial (1)
 - Gordon Food Service (1)
 - Hadrian (1)
+- Highmark Health (1)
 - ICF International (1)
 - Ketjen (1)
 - KKR (1)
@@ -342,7 +344,6 @@
 - LexisNexis Risk Solutions (1)
 - Liberty Mutual (1)
 - Louisiana Blue (1)
-- MetOx International (1)
 - Momentive (1)
 - National Life (1)
 - Neighbor (1)
@@ -396,6 +397,7 @@
 - Loop (1)
 - Mackenzie Investments (1)
 - Meijer (1)
+- MetOx International (1)
 - National Laboratory of the Rockies (1)
 - Nextiva (1)
 - Noblis (1)

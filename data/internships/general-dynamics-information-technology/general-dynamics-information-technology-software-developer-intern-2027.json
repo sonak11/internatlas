@@ -7,14 +7,14 @@
   },
   "role": "Software Developer Intern",
   "category": "software-engineering",
-  "apply_url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Summer-2027-Software-Developer-Internship_RQ225717-1",
+  "apply_url": "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-NJ-Egg-Harbor-Township/GDIT-Summer-Internship-Program---Summer-2027-Software-Development-Internship--_RQ230643",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Annapolis Junction",
-      "state": "MD",
+      "city": "Egg Harbor Township",
+      "state": "NJ",
       "country": "USA"
     }
   ],
@@ -25,7 +25,9 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "masters"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -40,11 +42,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-04",
+    "posted": "2026-10-19",
     "discovered": "2026-08-05",
-    "last_verified": "2026-08-14"
+    "last_verified": "2026-10-19"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

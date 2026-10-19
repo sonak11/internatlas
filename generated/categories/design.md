@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🎨 Design Internships
 
-**170** tracked · **96** open now
+**170** tracked · **94** open now
 
 ## Current openings
 
@@ -31,7 +31,6 @@
 | [Garmin](generated/companies/garmin.md) | [Electrical Design Engineer Intern](https://careers.garmin.com/jobs/19643?icims=1) | Olathe, KS | Onsite | 2026-08-18 | Rolling | 🟢 Open | ❔ |
 | [General Motors](generated/companies/general-motors.md) | [AV Sensor Design, Release and Integration Intern](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---AV-Sensor-Design--Release-and-Integration_JR-202621993) | Warren, MI | Onsite | 2026-10-07 | Rolling | 🟢 Open | ❔ |
 | [GlobalFoundries](generated/companies/globalfoundries.md) | [Foundation IP Design Verification Intern](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---California---Santa-Clara/Foundation-IP-Design-Verification-Intern--Summer-2027-_JR-2604356) | Santa Clara, CA | Onsite | 2026-10-16 | Rolling | 🟢 Open | ❔ |
-| [Heron Power](generated/companies/heron-power.md) | [Electronics Design Engineer Intern](http://jobs.ashbyhq.com/heron-power/796052b0-3811-4282-b1f9-7e6f83c3e87b/application) | Santa Cruz, CA | Onsite | 2026-06-23 | Rolling | 🟢 Open | ❔ |
 | [Jump Trading](generated/companies/jump-trading.md) | [Campus UI Software Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8003019) | Chicago +1 | Onsite | 2026-07-08 | Rolling | 🟢 Open | ✅ |
 | [Jump Trading](generated/companies/jump-trading.md) | [Campus UI Software Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7974943) | London | Onsite | 2026-07-13 | Rolling | 🟢 Open | ❔ |
 | [Jump Trading](generated/companies/jump-trading.md) | [Campus UI Software Engineer Intern](https://boards.greenhouse.io/embed/job_app?token=8003019) | Chicago, IL | Onsite | 2026-07-08 | Rolling | 🟢 Open | ❔ |
@@ -86,7 +85,6 @@
 | [Semtech](generated/companies/semtech.md) | [Analog Design Engineer Intern - Signal Integrity Products Group](https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Burlington-ON/Analog-Design-Engineer-Intern_REQ3622) | Burlington | Onsite | 2026-09-24 | Rolling | 🟢 Open | ❔ |
 | [Semtech](generated/companies/semtech.md) | [Analog Design Intern](https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Ottawa-ON/Analog-Design-Intern_REQ3625) | Ottawa | Onsite | 2026-09-24 | Rolling | 🟢 Open | ❔ |
 | [Semtech](generated/companies/semtech.md) | [Digital IC Design Intern](https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Ottawa-ON/Digital-IC-Design-Engineering-Intern_REQ3620) | Ottawa | Onsite | 2026-09-24 | Rolling | 🟢 Open | ❔ |
-| [SkyGig](generated/companies/skygig.md) | [RFIC Design Intern](https://apply.workable.com/skygig/j/10A5A58F9E/apply) | San Jose, CA | Onsite | 2026-08-11 | Rolling | 🟢 Open | ❔ |
 | [Tenstorrent](generated/companies/tenstorrent.md) | [Physical Design & DFT Intern](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256706007) | Boston, MA +3 | Onsite | 2026-10-07 | Rolling | 🟢 Open | ❔ |
 | [Tesla](generated/companies/tesla.md) | [Commercial UI Software Engineer Intern](https://www.tesla.com/careers/search/job/285202) | Palo Alto, CA | Onsite | 2026-10-01 | Rolling | 🟢 Open | ❔ |
 | [Tesla](generated/companies/tesla.md) | [Commercial UI Software Engineer Intern, Energy Engineering](https://www.tesla.com/careers/search/job/248805) | Palo Alto, CA | Onsite | 2025-08-21 | Rolling | 🟢 Open | ❔ |
@@ -122,6 +120,7 @@
 | [GlobalFoundries](generated/companies/globalfoundries.md) | [Design Application Engineering Intern](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---California---Santa-Clara/Design-Application-Engineering-Intern--Summer-2027-_JR-2604221) | Santa Clara, CA | Onsite | 2026-09-25 | Rolling | 🔴 Closed | ❔ |
 | [Gumloop](generated/companies/gumloop.md) | [Design Engineer Intern](https://jobs.ashbyhq.com/Gumloop/dcdc0658-b3fd-44cd-b0cf-4016c9513d40/application?embed=true) | SF | Onsite | 2026-07-16 | Rolling | 🔴 Closed | ❔ |
 | [Heron Power](generated/companies/heron-power.md) | [Electronics Design Engineer Intern](http://jobs.ashbyhq.com/heron-power/28af5d2d-bd93-4681-9422-05d17c3437eb/application) | Santa Cruz, CA | Onsite | 2026-06-23 | Rolling | 🔴 Closed | ❔ |
+| [Heron Power](generated/companies/heron-power.md) | [Electronics Design Engineer Intern](http://jobs.ashbyhq.com/heron-power/796052b0-3811-4282-b1f9-7e6f83c3e87b/application) | Santa Cruz, CA | Onsite | 2026-06-23 | Rolling | 🔴 Closed | ❔ |
 | [Humanscale](generated/companies/humanscale.md) | [Electrical Design Engineer Intern](https://careers-humanscale.icims.com/jobs/4395/job?mobile=true&needsRedirect=false) | NYC | Onsite | 2026-08-19 | Rolling | 🔴 Closed | ❔ |
 | [Intel](generated/companies/intel.md) | [CPU Core Physical Design Technical Graduate Intern](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-California-Folsom/CPU-Core-Physical-Design-Technical-Graduate-Intern--Spring_JR0287613) | Folsom, CA | Onsite | 2026-10-05 | Rolling | 🔴 Closed | ❔ |
 | [Intel](generated/companies/intel.md) | [Physical Design Engineer Intern](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-California-Folsom/Physical-Design-Engineering-Graduate-Intern_JR0283509) | Santa Clara, CA +2 | Onsite | 2026-08-14 | Rolling | 🔴 Closed | ❔ |
@@ -168,6 +167,7 @@
 | [Rivian and Volkswagen Group Technologies](generated/companies/rivian-and-volkswagen-group-technologies.md) | [Electromechanical Design Engineer Intern](https://jobs.ashbyhq.com/rivianvw.tech/14734be2-9c81-4aab-bfa6-7dbbe95c94a6/application?embed=true) | Palo Alto, CA +2 | Onsite | 2026-06-11 | Rolling | 🔴 Closed | ❔ |
 | [RTX](generated/companies/rtx.md) | [Electrical Computer-Aided Design Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-M02--1151-E-Hermans-Rd--BLDG-M02/EAP-Engineering-ECAD-Intern--Summer-2027-_01866716-1) | Tucson, AZ | Onsite | 2026-08-14 | Rolling | 🔴 Closed | ❔ |
 | [RTX](generated/companies/rtx.md) | [Electrical Design Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-WINDSOR-LOCKS-B1--1-Hamilton-Rd--BLDG-1/Electrical-Design-Engineer-Intern--Summer-2027-_01877254) | Windsor Locks, CT | Onsite | 2026-09-29 | Rolling | 🔴 Closed | ❔ |
+| [SkyGig](generated/companies/skygig.md) | [RFIC Design Intern](https://apply.workable.com/skygig/j/10A5A58F9E/apply) | San Jose, CA | Onsite | 2026-08-11 | Rolling | 🔴 Closed | ❔ |
 | [Tenstorrent](generated/companies/tenstorrent.md) | [Design Verification Engineer Intern](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4873756007) | Boston, MA | Onsite | 2026-04-09 | Rolling | 🔴 Closed | ❔ |
 | [Tesla](generated/companies/tesla.md) | [Commercial UI Software Engineer Intern - Energy Engineering](https://www.tesla.com/careers/search/job/273723) | Palo Alto, CA | Onsite | 2026-06-12 | Rolling | 🔴 Closed | ❔ |
 | [Tesla](generated/companies/tesla.md) | [Electrical Engineer Intern - Electronic Design Engineer - Energy Engineering](https://www.tesla.com/careers/search/job/274258) | Palo Alto, CA | Onsite | 2026-06-19 | Rolling | 🔴 Closed | ❔ |
@@ -202,11 +202,11 @@
 - Electronic Arts (2)
 - Garmin (2)
 - GlobalFoundries (2)
-- Heron Power (2)
 - Tenstorrent (2)
 - Astranis (2)
 - Brunswick (2)
 - Ciena (2)
+- Heron Power (2)
 - Intel (2)
 - Microchip Technology (2)
 - Qualcomm (2)
@@ -221,7 +221,6 @@
 - North Atlantic Industries (1)
 - Persona (1)
 - Roblox (1)
-- SkyGig (1)
 - By Light Professional IT Services (1)
 - Cadence Design Systems (1)
 - Dedalus Labs (1)
@@ -234,5 +233,6 @@
 - OCC (1)
 - Pinterest (1)
 - Rivian and Volkswagen Group Technologies (1)
+- SkyGig (1)
 - Texas Instruments (1)
 - Xcel Energy (1)

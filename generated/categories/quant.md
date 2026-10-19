@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 📈 Quant Internships
 
-**337** tracked · **207** open now
+**338** tracked · **208** open now
 
 ## Current openings
 
@@ -145,6 +145,7 @@
 | [PIMCO](generated/companies/pimco.md) | [Quantitative Research Analyst Intern - Portfolio Management](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-PhD-Summer-Intern---Portfolio-Management--Quantitative-Research-Analyst_R106749) | Newport Beach, CA | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
 | [Pinterest](generated/companies/pinterest.md) | [UX Quantitative Research Intern (USA)](https://www.pinterestcareers.com/jobs/?gh_jid=8140217) | Remote | Remote | 2026-10-01 | Rolling | 🟢 Open | ❔ |
 | [Point72](generated/companies/point72.md) | [Quantitative Developer Intern](https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-developer-internship&jobCode=CSS-0012293) | New York, NY | Onsite | 2026-04-19 | Rolling | 🟢 Open | ❔ |
+| [Point72](generated/companies/point72.md) | [Quantitative Developer Intern](https://boards.greenhouse.io/point72/jobs/7609197002) | NYC | Onsite | 2026-10-19 | Rolling | 🟢 Open | ❔ |
 | [Point72](generated/companies/point72.md) | [Quantitative Researcher Intern](https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-researcher-internship&jobCode=CSS-0012295) | New York, NY | Onsite | 2026-04-19 | Rolling | 🟢 Open | ❔ |
 | [Principal Financial Group](generated/companies/principal-financial-group.md) | [Quantitative Analyst Intern - Quantitative Research](https://careers.principal.com/jobs/52721?icims=1) | Des Moines, IA +1 | Onsite | 2026-10-01 | Rolling | 🟢 Open | ❔ |
 | [PsiQuantum](generated/companies/psiquantum.md) | [Quantum Algorithms and Compilation Intern](https://www.psiquantum.com/apply?gh_jid=7695559003) | Palo Alto, CA | Onsite | 2026-04-15 | Rolling | 🟢 Open | ❔ |
@@ -372,6 +373,7 @@
 - Jain Global (4)
 - Jane Street (4)
 - JP Morgan Chase (4)
+- Point72 (4)
 - Tower Research Capital (4)
 - Akuna Capital (3)
 - AQR Capital Management (3)
@@ -380,7 +382,6 @@
 - Five Rings Capital (3)
 - Garda Capital Partners (3)
 - OCC (3)
-- Point72 (3)
 - Citi (3)
 - Amazon (2)
 - Anthelion Capital (2)

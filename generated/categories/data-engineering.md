@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🛠 Data Engineering Internships
 
-**114** tracked · **61** open now
+**114** tracked · **60** open now
 
 ## Current openings
 
@@ -49,7 +49,6 @@
 | [Navy Federal](generated/companies/navy-federal.md) | [Associate Data Engineer Intern](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32292) | Vienna, VA | Onsite | 2026-09-09 | Rolling | 🟢 Open | ❔ |
 | [Navy Federal](generated/companies/navy-federal.md) | [Data Engineer Intern](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32265) | Vienna, VA | Onsite | 2026-09-09 | Rolling | 🟢 Open | ❔ |
 | [Pacific Life](generated/companies/pacific-life.md) | [Data Engineering Intern](https://pacificlife.wd1.myworkdayjobs.com/en-US/PacificLifeCareers/job/Newport-Beach-CA-700/Summer-2027-Data-Engineering-Internship_R17828) | Newport Beach, CA | Onsite | 2026-09-25 | Rolling | 🟢 Open | ❔ |
-| [Panasonic Holdings](generated/companies/panasonic-holdings.md) | [Data Engineering Intern](https://careers.na.panasonic.com/jobs/50772?icims=1) | Bridgeton, MO | Onsite | 2026-09-02 | Rolling | 🟢 Open | ❔ |
 | [Pella](generated/companies/pella.md) | [Data Engineer Intern - Summer 2027](https://ebgj.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/253304) | Pella, IA +1 | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
 | [Perpay](generated/companies/perpay.md) | [Data Engineering Intern](https://job-boards.greenhouse.io/perpay/jobs/4076965007) | Philadelphia, PA | Onsite | 2026-09-11 | Rolling | 🟢 Open | ❔ |
 | [POET](generated/companies/poet.md) | [Data Engineer Intern](https://poet.wd1.myworkdayjobs.com/POET/job/Sioux-Falls-SD/Data-Engineering-Intern_R101787) | Sioux Falls, SD | Onsite | 2026-09-28 | Rolling | 🟢 Open | ❔ |
@@ -106,6 +105,7 @@
 | [National Information Solutions Cooperative](generated/companies/national-information-solutions-cooperative.md) | [Data Engineer Intern](https://job-boards.greenhouse.io/testnisc/jobs/8167883) | Lake St Louis, MO +2 | Onsite | 2026-09-03 | Rolling | 🔴 Closed | ❔ |
 | [Navy Federal](generated/companies/navy-federal.md) | [Data Engineering Intern](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/29792) | Vienna, VA | Onsite | 2026-08-12 | Rolling | 🔴 Closed | ❔ |
 | [NXP Semiconductors](generated/companies/nxp-semiconductors.md) | [Data Analytics Engineer Intern - Summer 2027](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Data-Analytics-Engineer-Intern---Summer-2027_R-10065538) | Austin, TX | Onsite | 2026-09-07 | Rolling | 🔴 Closed | ❔ |
+| [Panasonic Holdings](generated/companies/panasonic-holdings.md) | [Data Engineering Intern](https://careers.na.panasonic.com/jobs/50772?icims=1) | Bridgeton, MO | Onsite | 2026-09-02 | Rolling | 🔴 Closed | ❔ |
 | [Perchwell](generated/companies/perchwell.md) | [Data Analytics Engineering Intern](https://jobs.ashbyhq.com/Perchwell/9d34fc9d-e235-44fc-bdf9-42e75223839a/application?embed=true) | NYC | Onsite | 2026-09-29 | Rolling | 🔴 Closed | ❔ |
 | [Post Holdings](generated/companies/post-holdings.md) | [Data Engineer Intern](https://jobs.postholdings.com/jobs/31960?icims=1) | Lakeville, MN | Onsite | 2026-09-01 | Rolling | 🔴 Closed | ❔ |
 | [Principal Financial Group](generated/companies/principal-financial-group.md) | [Data Engineer Intern](https://careers.principal.com/jobs/52561?icims=1) | Des Moines, IA | Onsite | 2026-09-14 | Rolling | 🔴 Closed | ❔ |
@@ -168,7 +168,6 @@
 - MEMX (1)
 - Michelin (1)
 - Pacific Life (1)
-- Panasonic Holdings (1)
 - Pella (1)
 - Perpay (1)
 - POET (1)
@@ -201,6 +200,7 @@
 - Mackenzie Investments (1)
 - Medpace, Inc. (1)
 - NXP Semiconductors (1)
+- Panasonic Holdings (1)
 - Perchwell (1)
 - Post Holdings (1)
 - Principal Financial Group (1)

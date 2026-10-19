@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # ☁️ Cloud Internships
 
-**67** tracked · **48** open now
+**68** tracked · **49** open now
 
 ## Current openings
 
@@ -50,6 +50,7 @@
 | [Tesla](generated/companies/tesla.md) | [Backend Engineer Intern - Infrastructure Engineering](https://www.tesla.com/careers/search/job/281467) | Fremont, CA | Onsite | 2026-08-28 | Rolling | 🟢 Open | ❔ |
 | [Tesla](generated/companies/tesla.md) | [Software Engineer Intern - Fullstack Engineer - Infrastructure Engineering](https://www.tesla.com/careers/search/job/281462) | Fremont, CA | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
 | [Tesla](generated/companies/tesla.md) | [Software Engineer Intern - SI Data Infrastructure](https://www.tesla.com/careers/search/job/282292) | Palo Alto, CA | Onsite | 2026-09-03 | Rolling | 🟢 Open | ❔ |
+| [The Toro Company](generated/companies/the-toro-company.md) | [Cloud Software Developer Intern](https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Frederick-CO/Cloud-Software-Development-Intern---The-Toro-Company_JR17498) | Frederick, CO | Onsite | 2026-10-19 | Rolling | 🟢 Open | ❔ |
 | [TikTok](generated/companies/tiktok.md) | [Backend Software Engineer Intern - Product Infrastructure](https://lifeattiktok.com/search/7667935633764370741) | San Jose, CA | Onsite | 2026-08-04 | Rolling | 🟢 Open | ❔ |
 | [TikTok](generated/companies/tiktok.md) | [Software Engineer Intern - Global E-Commerce Search Infrastructure](https://lifeattiktok.com/search/7662594807715072261) | Seattle, WA | Onsite | 2026-08-07 | Rolling | 🟢 Open | ❔ |
 | [TikTok](generated/companies/tiktok.md) | [Software Engineer Intern - Recommendation Architecture - Feeds Infrastructure](https://lifeattiktok.com/search/7672930401597671733) | San Jose, CA | Onsite | 2026-08-20 | Rolling | 🟢 Open | ❔ |
@@ -103,6 +104,7 @@
 - Semgrep (1)
 - SiFive (1)
 - Snowflake (1)
+- The Toro Company (1)
 - TransMarket Group (1)
 - Air Products (1)
 - Crowe (1)

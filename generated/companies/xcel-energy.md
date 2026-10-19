@@ -6,6 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
+| Xcel Energy | [Resource Planning Intern](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80205/Resource-Planning-Intern--CO_JR115820-1) | Denver, CO | Onsite | 2026-09-07 | Rolling | 🟢 Open | ❔ |
 | Xcel Energy | [AI & Automation Intern - Regulatory](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80205/AI---Automation-Intern--CO_JR115739-1) | Denver, CO | Onsite | 2026-09-07 | Rolling | 🔴 Closed | ❔ |
 | Xcel Energy | [AI and Analytics Intern](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Minneapolis-MN-55401/AI-and-Analytics-Intern-MN--CO_JR115877-1) | Minneapolis, MN +1 | Onsite | 2026-09-14 | Rolling | 🔴 Closed | ❔ |
 | Xcel Energy | [AI Solutions Development Intern](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80205/AI-Solutions-Development-Intern-CO--MN_JR116329-1) | Minneapolis, MN +1 | Onsite | 2026-09-07 | Rolling | 🔴 Closed | ❔ |
@@ -33,7 +34,6 @@
 | Xcel Energy | [Residential Energy Product Strategy Intern](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Minneapolis-MN-55401/Residential-Energy-Product-Strategy-Intern---MN_JR115811) | Minneapolis, MN | Onsite | 2026-09-14 | Rolling | 🔴 Closed | ❔ |
 | Xcel Energy | [Residential Energy Product Strategy Intern](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Minneapolis-MN-55401/Residential-Energy-Product-Strategy-Intern---MN--WI_JR116323-1) | Eau Claire, WI +1 | Onsite | 2026-09-14 | Rolling | 🔴 Closed | ❔ |
 | Xcel Energy | [Residential Energy Product Strategy Intern](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80205/Residential-Energy-Product-Strategy-Intern--CO_JR115817-1) | Denver, CO | Onsite | 2026-09-09 | Rolling | 🔴 Closed | ❔ |
-| Xcel Energy | [Resource Planning Intern](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80205/Resource-Planning-Intern--CO_JR115820-1) | Denver, CO | Onsite | 2026-09-07 | Rolling | 🔴 Closed | ❔ |
 | Xcel Energy | [Wildfire Analyst Intern](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80205/Wildfire-Analyst-Intern--CO_JR115413-1) | Denver, CO | Onsite | 2026-09-07 | Rolling | 🔴 Closed | ❔ |
 
 ## Related
