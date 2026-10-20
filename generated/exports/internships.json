@@ -1,6 +1,6 @@
 {
   "generated": "2026-10-20",
-  "count": 6582,
+  "count": 6583,
   "internships": [
     {
       "schema_version": "1.0",
@@ -19496,7 +19496,7 @@
         "discovered": "2026-10-03",
         "last_verified": "2026-10-20"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -22379,6 +22379,58 @@
       "dates": {
         "posted": "2026-10-19",
         "discovered": "2026-10-19",
+        "last_verified": "2026-10-20"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "anduril-2027-finance-data-analyst-intern-2027",
+      "company": {
+        "name": "Anduril",
+        "slug": "anduril",
+        "career_page": "https://www.anduril.com/careers"
+      },
+      "role": "2027 Finance Data Analyst Intern",
+      "category": "hardware",
+      "apply_url": "https://boards.greenhouse.io/andurilindustries/jobs/5269977007?gh_jid=5269977007",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Costa Mesa",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-20",
+        "discovered": "2026-10-20",
         "last_verified": "2026-10-20"
       },
       "status": "open",
@@ -33768,7 +33820,7 @@
         "discovered": "2026-08-19",
         "last_verified": "2026-10-20"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -34017,7 +34069,7 @@
         "discovered": "2026-08-07",
         "last_verified": "2026-10-20"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -35228,7 +35280,7 @@
         "discovered": "2026-08-11",
         "last_verified": "2026-10-20"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -50627,7 +50679,7 @@
         "discovered": "2026-09-25",
         "last_verified": "2026-10-20"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -51622,7 +51674,7 @@
         "discovered": "2026-08-31",
         "last_verified": "2026-10-20"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -80837,7 +80889,7 @@
         "discovered": "2026-09-08",
         "last_verified": "2026-10-20"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -84336,7 +84388,7 @@
         "discovered": "2026-10-13",
         "last_verified": "2026-10-20"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -116019,7 +116071,7 @@
         "discovered": "2026-09-21",
         "last_verified": "2026-10-20"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -119733,7 +119785,7 @@
         "discovered": "2026-08-05",
         "last_verified": "2026-10-20"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -139463,7 +139515,7 @@
         "discovered": "2026-10-09",
         "last_verified": "2026-10-20"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -246282,7 +246334,7 @@
         "discovered": "2026-09-23",
         "last_verified": "2026-10-20"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -246386,7 +246438,7 @@
         "discovered": "2026-09-23",
         "last_verified": "2026-10-20"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -246438,7 +246490,7 @@
         "discovered": "2026-09-21",
         "last_verified": "2026-10-20"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -258797,7 +258849,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-20"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -355514,7 +355566,7 @@
         "discovered": "2026-09-21",
         "last_verified": "2026-10-20"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -355562,7 +355614,7 @@
         "discovered": "2026-09-21",
         "last_verified": "2026-10-20"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -355610,7 +355662,7 @@
         "discovered": "2026-09-21",
         "last_verified": "2026-10-20"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"

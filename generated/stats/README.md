@@ -38,7 +38,7 @@ _Generated 2026-10-20_
 | quant | 338 | `█` |
 | machine-learning | 316 | `█` |
 | data-science | 253 | `█` |
-| hardware | 243 | `█` |
+| hardware | 244 | `█` |
 | research | 224 | `█` |
 | product | 211 | `█` |
 | design | 171 | `█` |
@@ -49,6 +49,7 @@ _Generated 2026-10-20_
 
 ## Newest listings
 
+- 2026-10-20 — **Anduril**: [2027 Finance Data Analyst Intern](https://boards.greenhouse.io/andurilindustries/jobs/5269977007?gh_jid=5269977007)
 - 2026-10-20 — **Boston Scientific**: [R&D Software Engineer Intern](https://bostonscientific.eightfold.ai/careers/job/563602813563514)
 - 2026-10-20 — **Ciena**: [Software Engineer Intern - Security](https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/Software-Engineer--Security----Intern--Winter-2027-_R031926)
 - 2026-10-20 — **Cigna Group**: [Business Analytics Intern](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Bloomfield-CT/Business-Analytics-Intern_26012472)
@@ -68,7 +69,6 @@ _Generated 2026-10-20_
 - 2026-10-20 — **Verizon Communications**: [Call Routing Optimization Engineer Intern](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Basking-Ridge-New-Jersey/Verizon-Consumer-Group--Call-Routing-Optimization-Engineering-Summer-2027-Internship_R-1102398)
 - 2026-10-20 — **Verizon Communications**: [Call Routing Optimization Engineering Intern](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Basking-Ridge-New-Jersey/Basking-Ridge--NJ--V-Teamer-for-a-Day--Verizon-Consumer-Group--Call-Routing-Optimization-Engineering-Summer-2027-Internship_R-1102394)
 - 2026-10-20 — **Verizon Communications**: [Data Science Intern](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Basking-Ridge-New-Jersey/Verizon-Consumer-Group--Data-Science-Summer-2027-Internship_R-1102419)
-- 2026-10-20 — **Verizon Communications**: [Data Science Intern](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Basking-Ridge-New-Jersey/Basking-Ridge--NJ--VTeamer-for-a-Day--Verizon-Consumer-Group--Data-Science-Summer-2027-Internship_R-1102417)
 
 ## Recently closed
 
@@ -108,6 +108,7 @@ _Generated 2026-10-20_
 - American Family Insurance Group — Data Analytics Intern
 - American Family Insurance Group — Front End Developer Intern - Digital Sales
 - American Family Insurance Group — GenAI Intern
+- American Family Insurance Group — GenAI/ML Intern
 - American Family Insurance Group — Internal Data and Analytics Intern - Summer 2027
 - American Family Insurance Group — Software Engineering Intern
 - American Family Insurance Group — Software Engineering Intern
@@ -134,8 +135,10 @@ _Generated 2026-10-20_
 - Auto-Owners Insurance — Marketplace Intelligence Intern
 - Autodesk — AI Data Developer Intern
 - Autodesk — AI Data Developer Intern - Winter
+- Autodesk — AI Developer Intern - Creative Technology
 - Autodesk — AI/ML Platform Intern
 - Autodesk — AI/ML Platform Intern
+- Autodesk — Cloud Developer Intern - Fcap
 - Autodesk — PhD Researcher Intern - Agentic 3D Modeling in Immersive Environments
 - Autodesk — PhD Researcher Intern - Agentic 3D Modeling in Immersive Environments
 - Autodesk — PhD Researcher Intern - Machine Learning for Construction
@@ -145,6 +148,7 @@ _Generated 2026-10-20_
 - Autodesk — Product Management Intern
 - Autodesk — Research Intern - Multimodal AI for Human Experience
 - Autodesk — Researcher Intern - Machine Learning for Construction
+- Autodesk — Software Developer Intern - Interactive Graphics, Media & Entertainment
 - Autodesk — Software Development Intern
 - Autodesk — Software Development Intern
 - Avis Budget Group — Data Analytics Intern
@@ -166,8 +170,10 @@ _Generated 2026-10-20_
 - Boston Scientific — R&D Firmware Engineer Intern
 - Boston Scientific — R&D Research Data Science Intern
 - Boston Scientific — Software Development Engineer Intern
+- Boston Scientific — Software Engineer Intern - R&D
 - BP — Digital, Data, AI & Engineering Intern
 - BP — Summer Intern - Multiple Teams
+- BP — Supply, Trading & Shipping Intern
 - CACI — Software Engineer Intern
 - CACI — Software Engineer Intern
 - CACI — Software Engineer Intern
@@ -225,6 +231,7 @@ _Generated 2026-10-20_
 - Corewell Health — Digital Services Integrated Data and Analytics Intern
 - Corewell Health — Digital Services Web and Mobile Developer Intern
 - Corteva — AI Engineer Intern
+- COUNTRY Financial — Automation Developer Intern
 - Cox — Data Scientist Intern
 - Cox — Product Management Intern
 - Cox — Product Management Intern - Summer 2027
@@ -234,6 +241,7 @@ _Generated 2026-10-20_
 - Cox — Technical Intern
 - Create Music Group — A&R Research Intern - Hip-Hop & R&B
 - Daktronics — Hardware Design Co-op Intern - Firmware
+- Databricks — Software Engineer Intern
 - Databricks — Software Engineering Intern (2027 Start) - Winter
 - Dedalus Labs — Product Manager Intern
 - Definity Financial — Analyst Co-op Intern - Consumer Insights & Market Research
@@ -321,6 +329,7 @@ _Generated 2026-10-20_
 - Gallup — Software Engineer Intern - Summer 2027
 - Gas South — Analyst Intern
 - GE Healthcare — Data Analytics Intern
+- GE Healthcare — Software Engineer Intern
 - GE Healthcare — Systems Engineer Intern
 - GE Vernova — Energy Optimization Software Engineer Intern - Summer 2027
 - GE Vernova — Energy Optimization Software Engineer Intern - Summer 2027
@@ -328,6 +337,7 @@ _Generated 2026-10-20_
 - General Dynamics Information Technology — AI and Data Analytics Intern
 - General Dynamics Information Technology — Defense Agencies Intern - AI/ML
 - General Dynamics Information Technology — Quality Assurance Associate Intern
+- General Dynamics Information Technology — Software Developer Intern
 - General Dynamics Information Technology — Software Development Intern
 - General Dynamics Information Technology — Software Development Intern
 - General Motors — Economics Intern
@@ -352,6 +362,7 @@ _Generated 2026-10-20_
 - Helion Energy — Computational Plasma Research Intern
 - Heron Power — Electronics Design Engineer Intern
 - HF Sinclair — Reporting & Analytics Intern
+- Hitachi Energy — Software Analyst Intern
 - HMH — AI & Automation Development Intern
 - Hormel Foods — Enterprise Analytics Intern - Campus Recruiting
 - Howden — Business Intelligence Intern
@@ -582,6 +593,9 @@ _Generated 2026-10-20_
 - Renesas Electronics — Memory Server System Testing Intern
 - Renesas Electronics — Post Silicon Validation Intern
 - Resource Innovations — Energy Engineering Intern
+- Resultant — Data & Analytics Consultant Intern - Summer 2027
+- Resultant — Data & Analytics Consultant Intern - Summer 2027
+- Resultant — Data & Analytics Consultant Intern - Summer 2027
 - REV Robotics — Software Engineer Intern
 - RF-SMART — Software Developer Intern - Product Engineering
 - Rivet Industries — Software Engineer Intern
@@ -622,6 +636,7 @@ _Generated 2026-10-20_
 - RTX — AI Engineering Intern
 - RTX — Conversion Systems Engineer 1 Intern
 - RTX — Customer Data Management and Analysis Intern
+- RTX — Data Analyst Intern - Spare Parts Services
 - RTX — Data Analytics Intern
 - RTX — Development Operations Intern, Engineering Development Program
 - RTX — Electrical Engineer Intern
@@ -805,6 +820,9 @@ _Generated 2026-10-20_
 - Xcel Energy — Residential Energy Product Strategy Intern
 - Xcel Energy — Wildfire Analyst Intern
 - XPENG Motors — Robotics Center Intern - Multiple Teams
+- Zimmer Biomet Holdings — Data Management Intern
+- Zimmer Biomet Holdings — Product Management Intern - Artificial Intelligence Product Management
+- Zimmer Biomet Holdings — Summer Intern - Data Mesh Platform
 - Zions Bank — Process Automation Developer Intern
 - Zip — Software Engineer Intern - Winter 2027
 - Zipline — Electrical Engineer Intern - Electrical Engineering Team
