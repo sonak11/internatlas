@@ -1,21 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "jump-trading-campus-data-engineer-intern-2027-bfb324",
+  "id": "verizon-communications-data-science-intern-2027",
   "company": {
-    "name": "Jump Trading",
-    "slug": "jump-trading",
-    "career_page": "https://www.jumptrading.com/careers"
+    "name": "Verizon Communications",
+    "slug": "verizon-communications"
   },
-  "role": "Campus Data Engineer (Intern)",
-  "category": "data-engineering",
-  "apply_url": "https://www.jumptrading.com/hr/job?gh_jid=8002998",
+  "role": "Data Science Intern",
+  "category": "data-science",
+  "apply_url": "https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Basking-Ridge-New-Jersey/Basking-Ridge--NJ--VTeamer-for-a-Day--Verizon-Consumer-Group--Data-Science-Summer-2027-Internship_R-1102417",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Chicago",
-      "country": "USA"
+      "city": "Basking Ridge",
+      "country": "Bernards"
     }
   ],
   "compensation": {
@@ -40,13 +39,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-08",
-    "discovered": "2026-07-18",
+    "posted": "2026-10-20",
+    "discovered": "2026-10-20",
     "last_verified": "2026-10-20"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:ats"
+    "src:simplify"
   ]
 }

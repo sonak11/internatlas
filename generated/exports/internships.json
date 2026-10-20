@@ -1,6 +1,6 @@
 {
   "generated": "2026-10-20",
-  "count": 6551,
+  "count": 6558,
   "internships": [
     {
       "schema_version": "1.0",
@@ -24428,7 +24428,7 @@
         "discovered": "2026-09-16",
         "last_verified": "2026-10-20"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -57753,7 +57753,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "caci-software-engineer-intern-2027-e7d93e",
+      "id": "caci-software-engineer-intern-2027",
       "company": {
         "name": "CACI",
         "slug": "caci"
@@ -57796,60 +57796,6 @@
       },
       "dates": {
         "posted": "2026-09-29",
-        "discovered": "2026-10-03",
-        "last_verified": "2026-10-20"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "caci-software-engineer-intern-2027",
-      "company": {
-        "name": "CACI",
-        "slug": "caci"
-      },
-      "role": "Software Engineer Intern",
-      "category": "software-engineering",
-      "apply_url": "https://caci.wd1.myworkdayjobs.com/external/job/Austin-TX-US/Software-Engineer-Intern---Summer-2027_333037",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Austin",
-          "state": "TX",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [
-          "masters"
-        ],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-10-02",
         "discovered": "2026-08-31",
         "last_verified": "2026-10-20"
       },
@@ -66713,6 +66659,58 @@
         "last_verified": "2026-08-14"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "ciena-software-engineer-intern-security-2027",
+      "company": {
+        "name": "Ciena",
+        "slug": "ciena"
+      },
+      "role": "Software Engineer Intern - Security",
+      "category": "security",
+      "apply_url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/Software-Engineer--Security----Intern--Winter-2027-_R031926",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Atlanta",
+          "state": "GA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-20",
+        "discovered": "2026-10-20",
+        "last_verified": "2026-10-20"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -96219,7 +96217,7 @@
         "discovered": "2026-10-06",
         "last_verified": "2026-10-20"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -118491,7 +118489,7 @@
         "discovered": "2026-10-06",
         "last_verified": "2026-10-20"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -119365,7 +119363,7 @@
         "discovered": "2026-10-17",
         "last_verified": "2026-10-20"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -119419,7 +119417,7 @@
         "discovered": "2026-08-05",
         "last_verified": "2026-10-20"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -120695,7 +120693,7 @@
         "discovered": "2026-10-02",
         "last_verified": "2026-10-20"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -126033,7 +126031,7 @@
         "discovered": "2026-08-27",
         "last_verified": "2026-10-20"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -126138,7 +126136,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-10-20"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -126191,7 +126189,7 @@
         "discovered": "2026-10-11",
         "last_verified": "2026-10-20"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -126244,7 +126242,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-10-20"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -126296,7 +126294,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-20"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -126348,7 +126346,7 @@
         "discovered": "2026-10-06",
         "last_verified": "2026-10-20"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -126402,7 +126400,7 @@
         "discovered": "2026-09-16",
         "last_verified": "2026-10-20"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -126455,7 +126453,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-20"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -126506,7 +126504,7 @@
         "discovered": "2026-10-12",
         "last_verified": "2026-10-20"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -126560,7 +126558,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-20"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -126611,7 +126609,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-20"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -126662,7 +126660,7 @@
         "discovered": "2026-10-10",
         "last_verified": "2026-10-20"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -126713,7 +126711,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-10-20"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -126765,7 +126763,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-20"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -126816,7 +126814,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-20"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -127025,7 +127023,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-20"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -127079,7 +127077,7 @@
         "discovered": "2026-10-11",
         "last_verified": "2026-10-20"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -127186,7 +127184,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-20"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -127240,7 +127238,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-10-20"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -127342,7 +127340,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-20"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -127497,7 +127495,7 @@
         "discovered": "2026-08-29",
         "last_verified": "2026-10-20"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -127550,7 +127548,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-10-20"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -159602,7 +159600,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "jump-trading-campus-data-engineer-intern-2027-bfb324",
+      "id": "jump-trading-campus-data-engineer-intern-2027",
       "company": {
         "name": "Jump Trading",
         "slug": "jump-trading",
@@ -159643,58 +159641,6 @@
       },
       "dates": {
         "posted": "2026-07-08",
-        "discovered": "2026-07-18",
-        "last_verified": "2026-10-20"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:ats"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "jump-trading-campus-data-engineer-intern-2027",
-      "company": {
-        "name": "Jump Trading",
-        "slug": "jump-trading",
-        "career_page": "https://www.jumptrading.com/careers"
-      },
-      "role": "Campus Data Engineer (Intern)",
-      "category": "data-engineering",
-      "apply_url": "https://www.jumptrading.com/hr/job?gh_jid=7975008",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "London",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-07-13",
         "discovered": "2026-07-18",
         "last_verified": "2026-10-20"
       },
@@ -243266,6 +243212,57 @@
     },
     {
       "schema_version": "1.0",
+      "id": "redgate-software-engineer-intern-2027",
+      "company": {
+        "name": "Redgate",
+        "slug": "redgate"
+      },
+      "role": "Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://jobs.ashbyhq.com/red-gate/2449a05b-81da-40de-b64d-3436c8ddb1df/application?embed=true",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Cambridge",
+          "country": "UK"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-20",
+        "discovered": "2026-10-20",
+        "last_verified": "2026-10-20"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "redwood-materials-embedded-software-engineer-intern-2026",
       "company": {
         "name": "Redwood Materials",
@@ -260040,9 +260037,9 @@
       "dates": {
         "posted": "2026-09-03",
         "discovered": "2026-09-04",
-        "last_verified": "2026-09-29"
+        "last_verified": "2026-10-20"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -267430,6 +267427,91 @@
     },
     {
       "schema_version": "1.0",
+      "id": "salesforce-software-engineer-intern-2027-3a7865",
+      "company": {
+        "name": "Salesforce",
+        "slug": "salesforce"
+      },
+      "role": "Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer_JR340771-1",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Palo Alto",
+          "state": "CA",
+          "country": "USA"
+        },
+        {
+          "city": "Seattle",
+          "state": "WA",
+          "country": "USA"
+        },
+        {
+          "city": "Indianapolis",
+          "state": "IN",
+          "country": "USA"
+        },
+        {
+          "city": "SF",
+          "country": "USA"
+        },
+        {
+          "city": "NYC",
+          "country": "USA"
+        },
+        {
+          "city": "Bellevue",
+          "state": "WA",
+          "country": "USA"
+        },
+        {
+          "city": "Atlanta",
+          "state": "GA",
+          "country": "USA"
+        },
+        {
+          "city": "Burlington",
+          "state": "MA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-05-07",
+        "discovered": "2026-10-20",
+        "last_verified": "2026-10-20"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "salesforce-software-engineer-intern-2027-6dca8d",
       "company": {
         "name": "Salesforce",
@@ -267578,47 +267660,18 @@
       },
       "role": "Software Engineer Intern",
       "category": "software-engineering",
-      "apply_url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer_JR340771-1",
+      "apply_url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer--Security-Government-_JR364911-1",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
       "locations": [
         {
-          "city": "Palo Alto",
-          "state": "CA",
-          "country": "USA"
-        },
-        {
-          "city": "Seattle",
-          "state": "WA",
-          "country": "USA"
-        },
-        {
-          "city": "Indianapolis",
-          "state": "IN",
-          "country": "USA"
-        },
-        {
           "city": "SF",
-          "country": "USA"
-        },
-        {
-          "city": "NYC",
           "country": "USA"
         },
         {
           "city": "Bellevue",
           "state": "WA",
-          "country": "USA"
-        },
-        {
-          "city": "Atlanta",
-          "state": "GA",
-          "country": "USA"
-        },
-        {
-          "city": "Burlington",
-          "state": "MA",
           "country": "USA"
         }
       ],
@@ -267644,7 +267697,7 @@
         "resume_keywords": []
       },
       "dates": {
-        "posted": "2026-05-07",
+        "posted": "2026-10-19",
         "discovered": "2026-08-29",
         "last_verified": "2026-10-20"
       },
@@ -283309,6 +283362,57 @@
     },
     {
       "schema_version": "1.0",
+      "id": "steel-software-engineer-intern-2027",
+      "company": {
+        "name": "Steel",
+        "slug": "steel"
+      },
+      "role": "Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://jobs.ashbyhq.com/steel/5fbdbebf-ddb2-4264-a941-3ab6d475208c/application?embed=true",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Toronto",
+          "country": "ON"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-20",
+        "discovered": "2026-10-20",
+        "last_verified": "2026-10-20"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "steel-dynamics-software-development-intern-2027-1296a9",
       "company": {
         "name": "Steel Dynamics",
@@ -290301,6 +290405,57 @@
         "last_verified": "2026-09-13"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "td-bank-wealth-operations-automation-intern-co-op-2027",
+      "company": {
+        "name": "TD Bank",
+        "slug": "td-bank"
+      },
+      "role": "Wealth Operations Automation Intern Co-op",
+      "category": "software-engineering",
+      "apply_url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Wealth-Operations-Automation-Intern---Co-Op--Winter-2027-_R_1512131",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Toronto",
+          "country": "ON"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-20",
+        "discovered": "2026-10-20",
+        "last_verified": "2026-10-20"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -307276,9 +307431,9 @@
       "dates": {
         "posted": "2026-09-17",
         "discovered": "2026-09-17",
-        "last_verified": "2026-10-17"
+        "last_verified": "2026-10-20"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -334179,7 +334334,7 @@
         "discovered": "2026-10-02",
         "last_verified": "2026-10-20"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -335733,6 +335888,210 @@
         "last_verified": "2026-10-03"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "verizon-communications-call-routing-optimization-engineer-intern-2027",
+      "company": {
+        "name": "Verizon Communications",
+        "slug": "verizon-communications"
+      },
+      "role": "Call Routing Optimization Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Basking-Ridge-New-Jersey/Verizon-Consumer-Group--Call-Routing-Optimization-Engineering-Summer-2027-Internship_R-1102398",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Basking Ridge",
+          "country": "Bernards"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-20",
+        "discovered": "2026-10-20",
+        "last_verified": "2026-10-20"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "verizon-communications-call-routing-optimization-engineering-intern-2027",
+      "company": {
+        "name": "Verizon Communications",
+        "slug": "verizon-communications"
+      },
+      "role": "Call Routing Optimization Engineering Intern",
+      "category": "software-engineering",
+      "apply_url": "https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Basking-Ridge-New-Jersey/Basking-Ridge--NJ--V-Teamer-for-a-Day--Verizon-Consumer-Group--Call-Routing-Optimization-Engineering-Summer-2027-Internship_R-1102394",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Basking Ridge",
+          "country": "Bernards"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-20",
+        "discovered": "2026-10-20",
+        "last_verified": "2026-10-20"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "verizon-communications-data-science-intern-2027-28573d",
+      "company": {
+        "name": "Verizon Communications",
+        "slug": "verizon-communications"
+      },
+      "role": "Data Science Intern",
+      "category": "data-science",
+      "apply_url": "https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Basking-Ridge-New-Jersey/Verizon-Consumer-Group--Data-Science-Summer-2027-Internship_R-1102419",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Basking Ridge",
+          "country": "Bernards"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-20",
+        "discovered": "2026-10-20",
+        "last_verified": "2026-10-20"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "verizon-communications-data-science-intern-2027",
+      "company": {
+        "name": "Verizon Communications",
+        "slug": "verizon-communications"
+      },
+      "role": "Data Science Intern",
+      "category": "data-science",
+      "apply_url": "https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Basking-Ridge-New-Jersey/Basking-Ridge--NJ--VTeamer-for-a-Day--Verizon-Consumer-Group--Data-Science-Summer-2027-Internship_R-1102417",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Basking Ridge",
+          "country": "Bernards"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-20",
+        "discovered": "2026-10-20",
+        "last_verified": "2026-10-20"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -340387,7 +340746,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-10-20"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -346556,7 +346915,7 @@
         "discovered": "2026-08-17",
         "last_verified": "2026-10-20"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -354874,7 +355233,7 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-10-20"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
