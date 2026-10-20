@@ -1,6 +1,6 @@
 {
   "generated": "2026-10-20",
-  "count": 6550,
+  "count": 6551,
   "internships": [
     {
       "schema_version": "1.0",
@@ -24428,7 +24428,7 @@
         "discovered": "2026-09-16",
         "last_verified": "2026-10-20"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -48993,7 +48993,7 @@
         "discovered": "2026-10-19",
         "last_verified": "2026-10-20"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -119419,7 +119419,7 @@
         "discovered": "2026-08-05",
         "last_verified": "2026-10-20"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -120695,7 +120695,7 @@
         "discovered": "2026-10-02",
         "last_verified": "2026-10-20"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -134938,7 +134938,7 @@
         "discovered": "2026-10-02",
         "last_verified": "2026-10-20"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -157580,7 +157580,7 @@
         "discovered": "2026-09-14",
         "last_verified": "2026-10-20"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -158101,6 +158101,70 @@
         "last_verified": "2026-09-24"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "jp-morgan-chase-machine-learning-summer-associate-intern-nlp-2027",
+      "company": {
+        "name": "JP Morgan Chase",
+        "slug": "jp-morgan-chase"
+      },
+      "role": "Machine Learning Summer Associate Intern - NLP",
+      "category": "machine-learning",
+      "apply_url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210801790",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Palo Alto",
+          "state": "CA",
+          "country": "USA"
+        },
+        {
+          "city": "Seattle",
+          "state": "WA",
+          "country": "USA"
+        },
+        {
+          "city": "NYC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters",
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-20",
+        "discovered": "2026-10-20",
+        "last_verified": "2026-10-20"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -194061,7 +194125,7 @@
         "discovered": "2026-10-07",
         "last_verified": "2026-10-20"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -201477,7 +201541,7 @@
         "discovered": "2026-10-06",
         "last_verified": "2026-10-20"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -204839,7 +204903,7 @@
         "discovered": "2026-10-07",
         "last_verified": "2026-10-20"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -205102,7 +205166,7 @@
         "discovered": "2026-08-31",
         "last_verified": "2026-10-20"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -206605,7 +206669,7 @@
         "discovered": "2026-10-19",
         "last_verified": "2026-10-20"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -224670,6 +224734,57 @@
       "tags": [
         "auto-ingested",
         "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "parallel-wireless-phy-software-engineer-intern-2027",
+      "company": {
+        "name": "Parallel Wireless",
+        "slug": "parallel-wireless"
+      },
+      "role": "PHY Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://jobs.lever.co/parallelwireless/d30be600-d1cd-4579-9875-ac70c72a4426/apply",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Bristol",
+          "country": "UK"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-20",
+        "discovered": "2026-10-20",
+        "last_verified": "2026-10-20"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
       ]
     },
     {
@@ -258387,7 +258502,7 @@
         "discovered": "2026-10-16",
         "last_verified": "2026-10-20"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -260340,7 +260455,7 @@
         "discovered": "2026-10-15",
         "last_verified": "2026-10-20"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -290935,7 +291050,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "tencent-multimodal-algorithm-researcher-intern-omni-modal-2026-1e0f86",
+      "id": "tencent-multimodal-algorithm-researcher-intern-omni-modal-2026",
       "company": {
         "name": "Tencent",
         "slug": "tencent"
@@ -290979,61 +291094,6 @@
       },
       "dates": {
         "posted": "2026-07-04",
-        "discovered": "2026-08-28",
-        "last_verified": "2026-10-20"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "tencent-multimodal-algorithm-researcher-intern-omni-modal-2026",
-      "company": {
-        "name": "Tencent",
-        "slug": "tencent"
-      },
-      "role": "Multimodal Algorithm Researcher Intern - Omni-Modal",
-      "category": "research",
-      "apply_url": "https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/US-California-Palo-Alto/Hunyuan-Multimodal-Algorithm-Researcher-intern-Omni-Modal---_R106650-2",
-      "season": "fall",
-      "year": 2026,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Palo Alto",
-          "state": "CA",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [
-          "masters",
-          "phd"
-        ],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-06-13",
         "discovered": "2026-08-19",
         "last_verified": "2026-10-20"
       },
@@ -334119,7 +334179,7 @@
         "discovered": "2026-10-02",
         "last_verified": "2026-10-20"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -340327,7 +340387,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-10-20"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -354865,7 +354925,7 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-10-20"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -355492,9 +355552,9 @@
       "dates": {
         "posted": "2026-08-18",
         "discovered": "2026-08-18",
-        "last_verified": "2026-09-04"
+        "last_verified": "2026-10-20"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
