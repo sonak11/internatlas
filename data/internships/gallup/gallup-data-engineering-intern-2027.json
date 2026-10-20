@@ -7,14 +7,14 @@
   },
   "role": "Data Engineering Intern",
   "category": "data-engineering",
-  "apply_url": "https://job-boards.greenhouse.io/gallup/jobs/4395454009",
+  "apply_url": "https://job-boards.greenhouse.io/gallup/jobs/4449991009",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Omaha",
-      "state": "NE",
+      "city": "San Francisco",
+      "state": "CA",
       "country": "USA"
     }
   ],
@@ -40,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-09",
+    "posted": "2026-10-13",
     "discovered": "2026-09-09",
     "last_verified": "2026-10-20"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }

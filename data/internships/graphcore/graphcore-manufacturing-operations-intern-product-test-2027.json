@@ -1,21 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "symbotic-robot-manipulation-intern-2027",
+  "id": "graphcore-manufacturing-operations-intern-product-test-2027",
   "company": {
-    "name": "Symbotic",
-    "slug": "symbotic"
+    "name": "Graphcore",
+    "slug": "graphcore"
   },
-  "role": "Robot Manipulation Intern",
+  "role": "Manufacturing Operations Intern - Product Test",
   "category": "software-engineering",
-  "apply_url": "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/Intern--Robot-Manipulation_R8278",
+  "apply_url": "https://job-boards.greenhouse.io/graphcore/jobs/8894363002",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Wilmington",
-      "state": "MA",
-      "country": "USA"
+      "city": "Bristol",
+      "country": "UK"
     }
   ],
   "compensation": {
@@ -42,8 +41,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-10-19",
-    "discovered": "2026-10-19",
+    "posted": "2026-10-20",
+    "discovered": "2026-10-20",
     "last_verified": "2026-10-20"
   },
   "status": "open",

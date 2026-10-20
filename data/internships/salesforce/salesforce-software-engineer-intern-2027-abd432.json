@@ -20,6 +20,11 @@
       "city": "Bellevue",
       "state": "WA",
       "country": "USA"
+    },
+    {
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "USA"
     }
   ],
   "compensation": {
@@ -30,9 +35,9 @@
   "eligibility": {
     "graduation_years": [],
     "degree_levels": [],
-    "citizenship_required": false,
+    "citizenship_required": true,
     "security_clearance_required": false,
-    "visa_sponsorship": "unknown"
+    "visa_sponsorship": "no"
   },
   "interview": {},
   "tech": {

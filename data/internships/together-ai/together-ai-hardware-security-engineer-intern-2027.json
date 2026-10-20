@@ -1,21 +1,17 @@
 {
   "schema_version": "1.0",
-  "id": "gallup-data-engineer-intern-2027",
+  "id": "together-ai-hardware-security-engineer-intern-2027",
   "company": {
-    "name": "Gallup",
-    "slug": "gallup"
+    "name": "Together AI",
+    "slug": "together-ai"
   },
-  "role": "Data Engineer Intern",
-  "category": "data-engineering",
-  "apply_url": "https://job-boards.greenhouse.io/gallup/jobs/4449991009",
+  "role": "Hardware Security Engineer Intern",
+  "category": "security",
+  "apply_url": "https://job-boards.greenhouse.io/togetherai/jobs/5238469007",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
-    {
-      "city": "SF",
-      "country": "USA"
-    },
     {
       "city": "San Francisco",
       "state": "CA",
@@ -29,9 +25,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -46,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-10-13",
-    "discovered": "2026-10-13",
+    "posted": "2026-10-16",
+    "discovered": "2026-10-20",
     "last_verified": "2026-10-20"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }

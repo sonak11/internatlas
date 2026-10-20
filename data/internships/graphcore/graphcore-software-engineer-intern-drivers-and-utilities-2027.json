@@ -1,22 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "waymo-2027-summer-intern-bs-waymo-ml-ops-automation-2027",
+  "id": "graphcore-software-engineer-intern-drivers-and-utilities-2027",
   "company": {
-    "name": "Waymo",
-    "slug": "waymo",
-    "career_page": "https://waymo.com/careers"
+    "name": "Graphcore",
+    "slug": "graphcore"
   },
-  "role": "2027 Summer Intern, BS, Waymo ML Ops & Automation",
-  "category": "machine-learning",
-  "apply_url": "https://careers.withwaymo.com/jobs?gh_jid=8257237",
+  "role": "Software Engineer Intern - Drivers and Utilities",
+  "category": "software-engineering",
+  "apply_url": "https://job-boards.greenhouse.io/graphcore/jobs/8894376002",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Mountain View",
-      "state": "CA",
-      "country": "USA"
+      "city": "Bristol",
+      "country": "UK"
     }
   ],
   "compensation": {
@@ -26,7 +24,9 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "masters"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -41,13 +41,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-10-06",
-    "discovered": "2026-10-06",
+    "posted": "2026-10-20",
+    "discovered": "2026-10-20",
     "last_verified": "2026-10-20"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:ats"
+    "src:simplify"
   ]
 }

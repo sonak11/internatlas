@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "highmark-health-data-analyst-undergraduate-intern-2027",
+  "id": "llnl-predictive-science-academic-alliance-program-iv-student-inte-2027",
   "company": {
-    "name": "Highmark Health",
-    "slug": "highmark-health"
+    "name": "LLNL",
+    "slug": "llnl"
   },
-  "role": "Data Analyst Undergraduate Intern",
+  "role": "Predictive Science Academic Alliance Program IV Student Intern",
   "category": "software-engineering",
-  "apply_url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-FAP-5th-Avenue-Place/Summer-2027-Data-Analyst-Undergraduate-Intern_J288017",
+  "apply_url": "https://jobs.smartrecruiters.com/llnl/3743990016225626",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Pittsburgh",
-      "state": "PA",
+      "city": "Livermore",
+      "state": "CA",
       "country": "USA"
     }
   ],
@@ -41,12 +41,12 @@
   },
   "dates": {
     "posted": "2026-10-19",
-    "discovered": "2026-10-19",
+    "discovered": "2026-10-20",
     "last_verified": "2026-10-20"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }

@@ -1,6 +1,6 @@
 {
   "generated": "2026-10-20",
-  "count": 6558,
+  "count": 6582,
   "internships": [
     {
       "schema_version": "1.0",
@@ -2649,6 +2649,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "adobe-ai-architecture-intern-2027",
+      "company": {
+        "name": "Adobe",
+        "slug": "adobe"
+      },
+      "role": "AI & Architecture Intern",
+      "category": "ai",
+      "apply_url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---AI---Architecture_R172998",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-19",
+        "discovered": "2026-10-20",
+        "last_verified": "2026-10-20"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "adobe-ai-ml-intern-machine-learning-engineer-researcher-intern-2026",
       "company": {
         "name": "Adobe",
@@ -2709,6 +2761,58 @@
       "tags": [
         "auto-ingested",
         "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "adobe-data-ai-innovation-intern-2027",
+      "company": {
+        "name": "Adobe",
+        "slug": "adobe"
+      },
+      "role": "Data, AI & Innovation Intern",
+      "category": "ai",
+      "apply_url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Data--AI---Innovation_R172997",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-19",
+        "discovered": "2026-10-20",
+        "last_verified": "2026-10-20"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
       ]
     },
     {
@@ -2787,6 +2891,58 @@
       "tags": [
         "auto-ingested",
         "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "adobe-security-engineer-intern-2027",
+      "company": {
+        "name": "Adobe",
+        "slug": "adobe"
+      },
+      "role": "Security Engineer Intern",
+      "category": "security",
+      "apply_url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Lehi/XMLNAME-2027-Intern---Security-Engineer_R173000",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Lehi",
+          "state": "UT",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-19",
+        "discovered": "2026-10-20",
+        "last_verified": "2026-10-20"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
       ]
     },
     {
@@ -3237,6 +3393,68 @@
       "tags": [
         "auto-ingested",
         "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "aerospace-corporation-cloud-solutions-engineer-site-reliability-intern-2027",
+      "company": {
+        "name": "Aerospace Corporation",
+        "slug": "aerospace-corporation"
+      },
+      "role": "Cloud Solutions Engineer / Site Reliability Intern",
+      "category": "cloud",
+      "apply_url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Cloud-Solutions-Engineer---Site-Reliability-Undergrad-Intern_R016714",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "El Segundo",
+          "state": "CA",
+          "country": "USA"
+        },
+        {
+          "city": "Chantilly",
+          "state": "VA",
+          "country": "USA"
+        },
+        {
+          "city": "Colorado Springs",
+          "state": "CO",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": true,
+        "security_clearance_required": false,
+        "visa_sponsorship": "no"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-19",
+        "discovered": "2026-10-20",
+        "last_verified": "2026-10-20"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
       ]
     },
     {
@@ -19561,6 +19779,58 @@
       "tags": [
         "auto-ingested",
         "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "american-fidelity-software-developer-innovation-intern-2027",
+      "company": {
+        "name": "American Fidelity",
+        "slug": "american-fidelity"
+      },
+      "role": "Software Developer Innovation Intern",
+      "category": "software-engineering",
+      "apply_url": "https://americanfidelity.wd5.myworkdayjobs.com/External/job/Oklahoma-City-Oklahoma/Software-Developer-Innovation-Internship_JR1118",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Oklahoma City",
+          "state": "OK",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-19",
+        "discovered": "2026-10-20",
+        "last_verified": "2026-10-20"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
       ]
     },
     {
@@ -47211,7 +47481,7 @@
         "discovered": "2026-09-11",
         "last_verified": "2026-10-20"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -51301,7 +51571,7 @@
         "discovered": "2026-10-14",
         "last_verified": "2026-10-20"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -67357,6 +67627,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "cigna-group-business-analytics-intern-2027",
+      "company": {
+        "name": "Cigna Group",
+        "slug": "cigna-group"
+      },
+      "role": "Business Analytics Intern",
+      "category": "software-engineering",
+      "apply_url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Bloomfield-CT/Business-Analytics-Intern_26012472",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Bloomfield",
+          "state": "CT",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-20",
+        "discovered": "2026-10-20",
+        "last_verified": "2026-10-20"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "cigna-group-data-analytics-engineering-intern-technology-development-pro-2027",
       "company": {
         "name": "Cigna Group",
@@ -77801,7 +78123,7 @@
         "discovered": "2026-08-19",
         "last_verified": "2026-10-20"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -84450,7 +84772,7 @@
         "discovered": "2026-08-21",
         "last_verified": "2026-10-20"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:ats"
@@ -99073,7 +99395,7 @@
         "discovered": "2026-09-07",
         "last_verified": "2026-10-20"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -113752,64 +114074,6 @@
     },
     {
       "schema_version": "1.0",
-      "id": "gallup-data-engineer-intern-2027",
-      "company": {
-        "name": "Gallup",
-        "slug": "gallup"
-      },
-      "role": "Data Engineer Intern",
-      "category": "data-engineering",
-      "apply_url": "https://job-boards.greenhouse.io/gallup/jobs/4449991009",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "SF",
-          "country": "USA"
-        },
-        {
-          "city": "San Francisco",
-          "state": "CA",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [
-          "masters"
-        ],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-10-13",
-        "discovered": "2026-10-13",
-        "last_verified": "2026-10-20"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
       "id": "gallup-data-engineering-intern-2027",
       "company": {
         "name": "Gallup",
@@ -113817,14 +114081,14 @@
       },
       "role": "Data Engineering Intern",
       "category": "data-engineering",
-      "apply_url": "https://job-boards.greenhouse.io/gallup/jobs/4395454009",
+      "apply_url": "https://job-boards.greenhouse.io/gallup/jobs/4449991009",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
       "locations": [
         {
-          "city": "Omaha",
-          "state": "NE",
+          "city": "San Francisco",
+          "state": "CA",
           "country": "USA"
         }
       ],
@@ -113850,14 +114114,14 @@
         "resume_keywords": []
       },
       "dates": {
-        "posted": "2026-09-09",
+        "posted": "2026-10-13",
         "discovered": "2026-09-09",
         "last_verified": "2026-10-20"
       },
       "status": "open",
       "tags": [
         "auto-ingested",
-        "src:simplify"
+        "src:vanshb03"
       ]
     },
     {
@@ -118866,6 +119130,58 @@
       "tags": [
         "auto-ingested",
         "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "generac-micro-grid-systems-engineering-intern-2027",
+      "company": {
+        "name": "Generac",
+        "slug": "generac"
+      },
+      "role": "Micro-Grid Systems Engineering Intern",
+      "category": "software-engineering",
+      "apply_url": "https://generac.wd5.myworkdayjobs.com/External/job/USA---CO-Fort-Collins/Micro-Grid-Systems-Engineering-Summer-Intern_JR17432",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Fort Collins",
+          "state": "CO",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-19",
+        "discovered": "2026-10-20",
+        "last_verified": "2026-10-20"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
       ]
     },
     {
@@ -124595,6 +124911,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "gilead-sciences-research-intern-clinical-virology-ai-2027",
+      "company": {
+        "name": "Gilead Sciences",
+        "slug": "gilead-sciences"
+      },
+      "role": "Research Intern, Clinical Virology - AI",
+      "category": "ai",
+      "apply_url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---Research---Clinical-Virology---AI_R0055526",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Foster City",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-16",
+        "discovered": "2026-10-20",
+        "last_verified": "2026-10-20"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "gilead-sciences-research-intern-data-sciences-ai-2027",
       "company": {
         "name": "Gilead Sciences",
@@ -126031,7 +126399,7 @@
         "discovered": "2026-08-27",
         "last_verified": "2026-10-20"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -126136,7 +126504,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-10-20"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -126189,7 +126557,7 @@
         "discovered": "2026-10-11",
         "last_verified": "2026-10-20"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -126242,7 +126610,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-10-20"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -126294,7 +126662,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-20"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -126346,7 +126714,7 @@
         "discovered": "2026-10-06",
         "last_verified": "2026-10-20"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -126400,7 +126768,7 @@
         "discovered": "2026-09-16",
         "last_verified": "2026-10-20"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -126453,7 +126821,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-20"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -126504,7 +126872,7 @@
         "discovered": "2026-10-12",
         "last_verified": "2026-10-20"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -126558,7 +126926,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-20"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -126609,7 +126977,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-20"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -126660,7 +127028,7 @@
         "discovered": "2026-10-10",
         "last_verified": "2026-10-20"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -126711,7 +127079,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-10-20"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -126763,7 +127131,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-20"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -126814,7 +127182,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-20"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -127023,7 +127391,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-20"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -127077,7 +127445,7 @@
         "discovered": "2026-10-11",
         "last_verified": "2026-10-20"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -127184,7 +127552,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-20"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -127238,7 +127606,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-10-20"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -127340,7 +127708,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-20"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -127495,7 +127863,7 @@
         "discovered": "2026-08-29",
         "last_verified": "2026-10-20"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -127548,7 +127916,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-10-20"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -131823,6 +132191,325 @@
         "last_verified": "2026-09-04"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "graphcore-firmware-intern-2027",
+      "company": {
+        "name": "Graphcore",
+        "slug": "graphcore"
+      },
+      "role": "Firmware Intern",
+      "category": "embedded",
+      "apply_url": "https://job-boards.greenhouse.io/graphcore/jobs/8894770002",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Bristol",
+          "country": "UK"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters",
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-20",
+        "discovered": "2026-10-20",
+        "last_verified": "2026-10-20"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "graphcore-hardware-intern-2027",
+      "company": {
+        "name": "Graphcore",
+        "slug": "graphcore"
+      },
+      "role": "Hardware Intern",
+      "category": "hardware",
+      "apply_url": "https://job-boards.greenhouse.io/graphcore/jobs/8894753002",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Bristol",
+          "country": "UK"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-20",
+        "discovered": "2026-10-20",
+        "last_verified": "2026-10-20"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "graphcore-manufacturing-operations-intern-product-test-2027",
+      "company": {
+        "name": "Graphcore",
+        "slug": "graphcore"
+      },
+      "role": "Manufacturing Operations Intern - Product Test",
+      "category": "software-engineering",
+      "apply_url": "https://job-boards.greenhouse.io/graphcore/jobs/8894363002",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Bristol",
+          "country": "UK"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-20",
+        "discovered": "2026-10-20",
+        "last_verified": "2026-10-20"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "graphcore-silicon-intern-2027",
+      "company": {
+        "name": "Graphcore",
+        "slug": "graphcore"
+      },
+      "role": "Silicon Intern",
+      "category": "hardware",
+      "apply_url": "https://job-boards.greenhouse.io/graphcore/jobs/8879329002",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Bristol",
+          "country": "UK"
+        },
+        {
+          "city": "Cambridge",
+          "country": "UK"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-20",
+        "discovered": "2026-10-20",
+        "last_verified": "2026-10-20"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "graphcore-software-engineer-intern-ai-compute-libraries-performance-2027",
+      "company": {
+        "name": "Graphcore",
+        "slug": "graphcore"
+      },
+      "role": "Software Engineer Intern - AI Compute Libraries & Performance",
+      "category": "ai",
+      "apply_url": "https://job-boards.greenhouse.io/graphcore/jobs/8894868002",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Bristol",
+          "country": "UK"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-20",
+        "discovered": "2026-10-20",
+        "last_verified": "2026-10-20"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "graphcore-software-engineer-intern-drivers-and-utilities-2027",
+      "company": {
+        "name": "Graphcore",
+        "slug": "graphcore"
+      },
+      "role": "Software Engineer Intern - Drivers and Utilities",
+      "category": "software-engineering",
+      "apply_url": "https://job-boards.greenhouse.io/graphcore/jobs/8894376002",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Bristol",
+          "country": "UK"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-20",
+        "discovered": "2026-10-20",
+        "last_verified": "2026-10-20"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -136114,6 +136801,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "heron-power-firmware-engineering-intern-2027",
+      "company": {
+        "name": "Heron Power",
+        "slug": "heron-power"
+      },
+      "role": "Firmware Engineering Intern",
+      "category": "embedded",
+      "apply_url": "https://jobs.ashbyhq.com/heron-power/5dbf22e3-41ba-40de-b428-6fab9934d6da",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Scotts Valley",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-19",
+        "discovered": "2026-10-20",
+        "last_verified": "2026-10-20"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "heron-power-power-electronics-controls-engineer-intern-2026",
       "company": {
         "name": "Heron Power",
@@ -137018,12 +137757,12 @@
     },
     {
       "schema_version": "1.0",
-      "id": "highmark-health-data-analyst-undergraduate-intern-2027",
+      "id": "highmark-health-data-analyst-intern-2027",
       "company": {
         "name": "Highmark Health",
         "slug": "highmark-health"
       },
-      "role": "Data Analyst Undergraduate Intern",
+      "role": "Data Analyst Intern",
       "category": "software-engineering",
       "apply_url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-FAP-5th-Avenue-Place/Summer-2027-Data-Analyst-Undergraduate-Intern_J288017",
       "season": "summer",
@@ -137059,13 +137798,13 @@
       },
       "dates": {
         "posted": "2026-10-19",
-        "discovered": "2026-10-19",
+        "discovered": "2026-10-20",
         "last_verified": "2026-10-20"
       },
       "status": "open",
       "tags": [
         "auto-ingested",
-        "src:simplify"
+        "src:vanshb03"
       ]
     },
     {
@@ -155745,7 +156484,7 @@
         "discovered": "2026-09-10",
         "last_verified": "2026-10-20"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -169693,6 +170432,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "legend-biotech-data-intern-2027",
+      "company": {
+        "name": "Legend Biotech",
+        "slug": "legend-biotech"
+      },
+      "role": "Data Intern",
+      "category": "software-engineering",
+      "apply_url": "https://job-boards.greenhouse.io/legendcareers/jobs/4745118005",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Bridgewater",
+          "state": "NJ",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-19",
+        "discovered": "2026-10-20",
+        "last_verified": "2026-10-20"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "lego-employee-engagement-analytics-intern-2027",
       "company": {
         "name": "LEGO",
@@ -169794,6 +170585,52 @@
       "tags": [
         "auto-ingested",
         "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "leidos-cloud-engineering-intern-2027",
+      "company": {
+        "name": "Leidos",
+        "slug": "leidos"
+      },
+      "role": "Cloud Engineering Intern",
+      "category": "cloud",
+      "apply_url": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Cloud-Engineering-Intern_R-00194668",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "remote",
+      "locations": [],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": true,
+        "security_clearance_required": false,
+        "visa_sponsorship": "no"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-16",
+        "discovered": "2026-10-20",
+        "last_verified": "2026-10-20"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
       ]
     },
     {
@@ -172251,6 +173088,58 @@
       "dates": {
         "posted": "2026-10-16",
         "discovered": "2026-10-17",
+        "last_verified": "2026-10-20"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "llnl-predictive-science-academic-alliance-program-iv-student-inte-2027",
+      "company": {
+        "name": "LLNL",
+        "slug": "llnl"
+      },
+      "role": "Predictive Science Academic Alliance Program IV Student Intern",
+      "category": "software-engineering",
+      "apply_url": "https://jobs.smartrecruiters.com/llnl/3743990016225626",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Livermore",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-19",
+        "discovered": "2026-10-20",
         "last_verified": "2026-10-20"
       },
       "status": "open",
@@ -189649,6 +190538,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "micron-technology-design-engineer-intern-hbm-2027",
+      "company": {
+        "name": "Micron Technology",
+        "slug": "micron-technology"
+      },
+      "role": "Design Engineer Intern, HBM",
+      "category": "design",
+      "apply_url": "https://micron.wd1.myworkdayjobs.com/external/job/Richardson-TX/Intern---Design-Engineer--HBM_JR112552",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Richardson",
+          "state": "TX",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-19",
+        "discovered": "2026-10-20",
+        "last_verified": "2026-10-20"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "micron-technology-digital-ip-design-engineer-intern-dram-2026",
       "company": {
         "name": "Micron Technology",
@@ -192532,6 +193473,58 @@
       "tags": [
         "auto-ingested",
         "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "mitre-ai-engineering-intern-2027",
+      "company": {
+        "name": "MITRE",
+        "slug": "mitre"
+      },
+      "role": "AI Engineering Intern",
+      "category": "ai",
+      "apply_url": "https://careers.mitre.org/us/en/job/R117620/AI-Engineering-Intern",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Bedford",
+          "state": "MA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-19",
+        "discovered": "2026-10-20",
+        "last_verified": "2026-10-20"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
       ]
     },
     {
@@ -205333,6 +206326,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "nissan-ai-autonomous-driving-verification-validation-intern-2027",
+      "company": {
+        "name": "Nissan",
+        "slug": "nissan"
+      },
+      "role": "AI Autonomous Driving Verification & Validation Intern",
+      "category": "ai",
+      "apply_url": "https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Santa-Clara-California---United-States-of-America/AI-Autonomous-Driving-Verification---Validation-Intern---Summer-2027---Santa-Clara--CA_R00214263",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Santa Clara",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-19",
+        "discovered": "2026-10-20",
+        "last_verified": "2026-10-20"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "nissan-ai-data-analytics-intern-2027",
       "company": {
         "name": "Nissan",
@@ -205386,6 +206431,58 @@
       "tags": [
         "auto-ingested",
         "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "nissan-applied-ai-business-innovation-intern-2027",
+      "company": {
+        "name": "Nissan",
+        "slug": "nissan"
+      },
+      "role": "Applied AI & Business Innovation Intern",
+      "category": "ai",
+      "apply_url": "https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Applied-AI---Business-Innovation-Intern---Summer-2027---Franklin--TN_R00214225",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Franklin",
+          "state": "TN",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-19",
+        "discovered": "2026-10-20",
+        "last_verified": "2026-10-20"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
       ]
     },
     {
@@ -218168,7 +219265,7 @@
         "discovered": "2026-09-22",
         "last_verified": "2026-10-20"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -228343,7 +229440,7 @@
         "discovered": "2026-09-16",
         "last_verified": "2026-10-20"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -249576,6 +250673,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "robert-bosch-venture-capital-ai-research-intern-wireless-foundation-models-2027",
+      "company": {
+        "name": "Robert Bosch Venture Capital",
+        "slug": "robert-bosch-venture-capital"
+      },
+      "role": "AI Research Intern, Wireless Foundation Models",
+      "category": "ai",
+      "apply_url": "https://jobs.smartrecruiters.com/BoschGroup/744000156323136",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Pittsburgh",
+          "state": "PA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-19",
+        "discovered": "2026-10-20",
+        "last_verified": "2026-10-20"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "robert-bosch-venture-capital-business-digitalisation-ai-automation-intern-2027",
       "company": {
         "name": "Robert Bosch Venture Capital",
@@ -267617,6 +268766,11 @@
           "city": "Bellevue",
           "state": "WA",
           "country": "USA"
+        },
+        {
+          "city": "San Francisco",
+          "state": "CA",
+          "country": "USA"
         }
       ],
       "compensation": {
@@ -267627,9 +268781,9 @@
       "eligibility": {
         "graduation_years": [],
         "degree_levels": [],
-        "citizenship_required": false,
+        "citizenship_required": true,
         "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
+        "visa_sponsorship": "no"
       },
       "interview": {},
       "tech": {
@@ -269022,6 +270176,11 @@
         {
           "city": "New York",
           "state": "NY",
+          "country": "USA"
+        },
+        {
+          "city": "San Francisco",
+          "state": "CA",
           "country": "USA"
         }
       ],
@@ -278671,6 +279830,60 @@
     },
     {
       "schema_version": "1.0",
+      "id": "space-dynamics-laboratory-ai-enabled-requirements-engineering-intern-2027",
+      "company": {
+        "name": "Space Dynamics Laboratory",
+        "slug": "space-dynamics-laboratory"
+      },
+      "role": "AI-Enabled Requirements Engineering Intern",
+      "category": "ai",
+      "apply_url": "https://spacedynamicslaboratory.applytojob.com/apply/HgIOie6SBP/AIEnabled-Requirements-Engineering-Intern",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "North Logan",
+          "state": "UT",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-20",
+        "discovered": "2026-10-20",
+        "last_verified": "2026-10-20"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "space-dynamics-laboratory-computer-vision-engineer-intern-2027",
       "company": {
         "name": "Space Dynamics Laboratory",
@@ -287629,7 +288842,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "symbotic-robot-manipulation-intern-2027",
+      "id": "symbotic-robot-manipulation-intern-2026",
       "company": {
         "name": "Symbotic",
         "slug": "symbotic"
@@ -287637,8 +288850,8 @@
       "role": "Robot Manipulation Intern",
       "category": "software-engineering",
       "apply_url": "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/Intern--Robot-Manipulation_R8278",
-      "season": "summer",
-      "year": 2027,
+      "season": "fall",
+      "year": 2026,
       "work_mode": "onsite",
       "locations": [
         {
@@ -287672,13 +288885,13 @@
       },
       "dates": {
         "posted": "2026-10-19",
-        "discovered": "2026-10-19",
+        "discovered": "2026-10-20",
         "last_verified": "2026-10-20"
       },
       "status": "open",
       "tags": [
         "auto-ingested",
-        "src:simplify"
+        "src:vanshb03"
       ]
     },
     {
@@ -319478,9 +320691,9 @@
       "dates": {
         "posted": "2026-08-04",
         "discovered": "2026-08-04",
-        "last_verified": "2026-10-10"
+        "last_verified": "2026-10-20"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -322596,6 +323809,58 @@
       "tags": [
         "auto-ingested",
         "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "together-ai-hardware-security-engineer-intern-2027",
+      "company": {
+        "name": "Together AI",
+        "slug": "together-ai"
+      },
+      "role": "Hardware Security Engineer Intern",
+      "category": "security",
+      "apply_url": "https://job-boards.greenhouse.io/togetherai/jobs/5238469007",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Francisco",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-16",
+        "discovered": "2026-10-20",
+        "last_verified": "2026-10-20"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
       ]
     },
     {
@@ -336734,7 +337999,7 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-10-20"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -337708,7 +338973,7 @@
         "discovered": "2026-09-11",
         "last_verified": "2026-10-20"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -343422,59 +344687,6 @@
     },
     {
       "schema_version": "1.0",
-      "id": "waymo-2027-summer-intern-bs-waymo-ml-ops-automation-2027",
-      "company": {
-        "name": "Waymo",
-        "slug": "waymo",
-        "career_page": "https://waymo.com/careers"
-      },
-      "role": "2027 Summer Intern, BS, Waymo ML Ops & Automation",
-      "category": "machine-learning",
-      "apply_url": "https://careers.withwaymo.com/jobs?gh_jid=8257237",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Mountain View",
-          "state": "CA",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-10-06",
-        "discovered": "2026-10-06",
-        "last_verified": "2026-10-20"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:ats"
-      ]
-    },
-    {
-      "schema_version": "1.0",
       "id": "waymo-2027-summer-intern-mba-operations-planning-2027",
       "company": {
         "name": "Waymo",
@@ -346602,6 +347814,58 @@
       "tags": [
         "auto-ingested",
         "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "waymo-ml-ops-automation-intern-2027",
+      "company": {
+        "name": "Waymo",
+        "slug": "waymo"
+      },
+      "role": "ML Ops & Automation Intern",
+      "category": "machine-learning",
+      "apply_url": "https://careers.withwaymo.com/jobs?gh_jid=8257237",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Mountain View",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-06",
+        "discovered": "2026-10-20",
+        "last_verified": "2026-10-20"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
       ]
     },
     {
