@@ -1,6 +1,6 @@
 {
   "generated": "2026-10-21",
-  "count": 6665,
+  "count": 6675,
   "internships": [
     {
       "schema_version": "1.0",
@@ -3888,7 +3888,7 @@
         "discovered": "2026-09-10",
         "last_verified": "2026-10-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -26153,6 +26153,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "applied-materials-software-engineer-intern-2027",
+      "company": {
+        "name": "Applied Materials",
+        "slug": "applied-materials"
+      },
+      "role": "Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2027-Summer-Intern--Software-Engineer--Bachelors-Degree--Santa-Clara-_R2630672",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Santa Clara",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-20",
+        "discovered": "2026-10-21",
+        "last_verified": "2026-10-21"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "applied-materials-software-engineering-intern-masters-2027",
       "company": {
         "name": "Applied Materials",
@@ -28534,7 +28586,7 @@
         "discovered": "2026-08-17",
         "last_verified": "2026-10-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -29177,7 +29229,7 @@
         "discovered": "2026-10-19",
         "last_verified": "2026-10-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -29281,7 +29333,7 @@
         "discovered": "2026-10-20",
         "last_verified": "2026-10-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -34077,7 +34129,7 @@
         "discovered": "2026-08-19",
         "last_verified": "2026-10-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -34431,7 +34483,7 @@
         "discovered": "2026-08-07",
         "last_verified": "2026-10-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -34482,7 +34534,7 @@
         "discovered": "2026-08-07",
         "last_verified": "2026-10-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -34533,7 +34585,7 @@
         "discovered": "2026-08-07",
         "last_verified": "2026-10-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -35222,7 +35274,7 @@
         "discovered": "2026-10-19",
         "last_verified": "2026-10-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -35489,7 +35541,7 @@
         "discovered": "2026-10-02",
         "last_verified": "2026-10-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -35540,7 +35592,7 @@
         "discovered": "2026-08-11",
         "last_verified": "2026-10-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -35852,7 +35904,7 @@
         "discovered": "2026-10-02",
         "last_verified": "2026-10-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -35954,7 +36006,7 @@
         "discovered": "2026-10-19",
         "last_verified": "2026-10-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -36005,7 +36057,7 @@
         "discovered": "2026-10-19",
         "last_verified": "2026-10-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -50296,7 +50348,7 @@
       "status": "open",
       "tags": [
         "auto-ingested",
-        "src:simplify"
+        "src:vanshb03"
       ]
     },
     {
@@ -63471,7 +63523,7 @@
         "discovered": "2026-09-19",
         "last_verified": "2026-10-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -124658,7 +124710,7 @@
         "discovered": "2026-09-10",
         "last_verified": "2026-10-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -127457,6 +127509,57 @@
       "tags": [
         "auto-ingested",
         "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "gofundme-mba-product-management-intern-2027",
+      "company": {
+        "name": "GoFundMe",
+        "slug": "gofundme"
+      },
+      "role": "MBA Product Management Intern",
+      "category": "product",
+      "apply_url": "https://job-boards.greenhouse.io/gofundme/jobs/8304644",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "SF",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-21",
+        "discovered": "2026-10-21",
+        "last_verified": "2026-10-21"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
       ]
     },
     {
@@ -174732,6 +174835,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "linkedin-software-engineer-intern-2027",
+      "company": {
+        "name": "LinkedIn",
+        "slug": "linkedin"
+      },
+      "role": "Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://jobs.smartrecruiters.com/LinkedIn3/744000156616169",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Mountain View",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-21",
+        "discovered": "2026-10-21",
+        "last_verified": "2026-10-21"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "littelfuse-intern-1-engineering-2026",
       "company": {
         "name": "Littelfuse",
@@ -192950,7 +193105,7 @@
         "discovered": "2026-08-11",
         "last_verified": "2026-10-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -202610,7 +202765,7 @@
         "discovered": "2026-09-01",
         "last_verified": "2026-10-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -214673,7 +214828,7 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-10-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -216220,6 +216375,61 @@
       "dates": {
         "posted": "2026-05-07",
         "discovered": "2026-07-17",
+        "last_verified": "2026-10-21"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "nvidia-applied-research-intern-integrated-sensing-and-communication-2027",
+      "company": {
+        "name": "NVIDIA",
+        "slug": "nvidia"
+      },
+      "role": "Applied Research Intern - Integrated Sensing and Communications",
+      "category": "research",
+      "apply_url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Research-Intern--Integrated-Sensing-and-Communications--ISAC--NVIDIA-Aerial---Summer-2027_JR2028027",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Santa Clara",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters",
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-20",
+        "discovered": "2026-10-21",
         "last_verified": "2026-10-21"
       },
       "status": "open",
@@ -219558,6 +219768,61 @@
       "dates": {
         "posted": "2026-08-19",
         "discovered": "2026-08-19",
+        "last_verified": "2026-10-21"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "nvidia-systems-software-intern-aerial-phy-2027",
+      "company": {
+        "name": "NVIDIA",
+        "slug": "nvidia"
+      },
+      "role": "Systems Software Intern - Aerial PHY",
+      "category": "software-engineering",
+      "apply_url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Software-Intern--Aerial-PHY--Summer-2027_JR2026530",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Santa Clara",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters",
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-20",
+        "discovered": "2026-10-21",
         "last_verified": "2026-10-21"
       },
       "status": "open",
@@ -225779,6 +226044,57 @@
       "dates": {
         "posted": "2026-10-15",
         "discovered": "2026-10-15",
+        "last_verified": "2026-10-21"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "pa-consulting-industrial-placement-intern-digital-digital-data-2027",
+      "company": {
+        "name": "PA Consulting",
+        "slug": "pa-consulting"
+      },
+      "role": "Industrial Placement Intern - Digital - Digital & Data",
+      "category": "software-engineering",
+      "apply_url": "https://jobs.smartrecruiters.com/PAConsulting/744000156517869",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Bristol",
+          "country": "UK"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-19",
+        "discovered": "2026-10-21",
         "last_verified": "2026-10-21"
       },
       "status": "open",
@@ -246184,7 +246500,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "rakuten-international-software-engineer-intern-2027",
+      "id": "rakuten-international-software-engineer-intern-2026",
       "company": {
         "name": "Rakuten International",
         "slug": "rakuten-international"
@@ -246192,13 +246508,14 @@
       "role": "Software Engineer Intern",
       "category": "software-engineering",
       "apply_url": "https://rakuten.wd1.myworkdayjobs.com/en-US/RakutenAmericas/job/San-Mateo-California/Intern---Software-Engineer--AI-User-Experience_1033171",
-      "season": "summer",
-      "year": 2027,
+      "season": "fall",
+      "year": 2026,
       "work_mode": "onsite",
       "locations": [
         {
           "city": "San Mateo",
-          "country": "California"
+          "state": "CA",
+          "country": "USA"
         }
       ],
       "compensation": {
@@ -246223,14 +246540,14 @@
         "resume_keywords": []
       },
       "dates": {
-        "posted": "2026-07-09",
-        "discovered": "2026-07-17",
-        "last_verified": "2026-07-24"
+        "posted": "2026-07-08",
+        "discovered": "2026-10-21",
+        "last_verified": "2026-10-21"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
-        "src:vanshb03"
+        "src:simplify"
       ]
     },
     {
@@ -253607,6 +253924,60 @@
       "dates": {
         "posted": "2026-08-31",
         "discovered": "2026-08-31",
+        "last_verified": "2026-10-21"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "robert-bosch-venture-capital-calibration-process-optimization-intern-2027",
+      "company": {
+        "name": "Robert Bosch Venture Capital",
+        "slug": "robert-bosch-venture-capital"
+      },
+      "role": "Calibration Process Optimization Intern",
+      "category": "software-engineering",
+      "apply_url": "https://jobs.smartrecruiters.com/BoschGroup/744000156585075",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Farmington Hills",
+          "state": "MI",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-21",
+        "discovered": "2026-10-21",
         "last_verified": "2026-10-21"
       },
       "status": "open",
@@ -265985,6 +266356,60 @@
     },
     {
       "schema_version": "1.0",
+      "id": "rtx-software-engineer-intern-2027-4dc3c4",
+      "company": {
+        "name": "RTX",
+        "slug": "rtx"
+      },
+      "role": "Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MD-ANNAPOLIS-905--2551-Riva-Rd--BLDG-905/Software-Engineering-Intern--Summer-2027-_01882939",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Annapolis",
+          "state": "MD",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-20",
+        "discovered": "2026-10-21",
+        "last_verified": "2026-10-21"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "rtx-software-engineer-intern-2027-5214a9",
       "company": {
         "name": "RTX",
@@ -276758,6 +277183,60 @@
     },
     {
       "schema_version": "1.0",
+      "id": "shield-ai-data-science-intern-2027",
+      "company": {
+        "name": "Shield AI",
+        "slug": "shield-ai"
+      },
+      "role": "Data Science Intern",
+      "category": "data-science",
+      "apply_url": "https://jobs.lever.co/shieldai/aa71c28a-be00-43ca-8aa7-b764b2143797/apply",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Diego",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-21",
+        "discovered": "2026-10-21",
+        "last_verified": "2026-10-21"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "shield-ai-software-engineer-intern-2027",
       "company": {
         "name": "Shield AI",
@@ -280177,7 +280656,7 @@
         "discovered": "2026-08-05",
         "last_verified": "2026-10-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -302238,7 +302717,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -303021,7 +303500,7 @@
         "discovered": "2026-09-02",
         "last_verified": "2026-10-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -304373,7 +304852,7 @@
         "discovered": "2026-09-02",
         "last_verified": "2026-10-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -330146,6 +330625,61 @@
     },
     {
       "schema_version": "1.0",
+      "id": "toyota-data-science-intern-2027",
+      "company": {
+        "name": "Toyota",
+        "slug": "toyota"
+      },
+      "role": "Data Science Intern",
+      "category": "data-science",
+      "apply_url": "https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/XMLNAME-2027-TFS-Data-Science-Internship_10338545-1",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Plano",
+          "state": "TX",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters",
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-20",
+        "discovered": "2026-10-21",
+        "last_verified": "2026-10-21"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "toyota-research-institute-human-centered-ai-research-intern-causal-reasoning-models-2027",
       "company": {
         "name": "Toyota Research Institute",
@@ -352162,7 +352696,7 @@
         "discovered": "2026-10-20",
         "last_verified": "2026-10-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
