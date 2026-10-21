@@ -1,21 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "waymo-2027-summer-intern-bs-software-engineer-driver-refinement-fo-2027",
+  "id": "rtx-software-engineer-intern-2027-17dfe6",
   "company": {
-    "name": "Waymo",
-    "slug": "waymo",
-    "career_page": "https://waymo.com/careers"
+    "name": "RTX",
+    "slug": "rtx"
   },
-  "role": "2027 Summer Intern, BS, Software Engineer, Driver Refinement Foundations",
+  "role": "Software Engineer Intern",
   "category": "software-engineering",
-  "apply_url": "https://careers.withwaymo.com/jobs?gh_jid=8224900",
+  "apply_url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Engineer-Intern--Summer-2027-_01880127",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Mountain View",
-      "state": "CA",
+      "city": "Tewksbury",
+      "state": "MA",
       "country": "USA"
     }
   ],
@@ -26,7 +25,9 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "masters"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -41,13 +42,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-25",
-    "discovered": "2026-09-25",
+    "posted": "2026-10-21",
+    "discovered": "2026-10-21",
     "last_verified": "2026-10-21"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:ats"
+    "src:simplify"
   ]
 }

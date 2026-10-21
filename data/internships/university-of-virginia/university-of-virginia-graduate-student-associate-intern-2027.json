@@ -1,21 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "waymo-2027-summer-intern-bs-software-engineer-model-eval-2027",
+  "id": "university-of-virginia-graduate-student-associate-intern-2027",
   "company": {
-    "name": "Waymo",
-    "slug": "waymo",
-    "career_page": "https://waymo.com/careers"
+    "name": "University of Virginia",
+    "slug": "university-of-virginia"
   },
-  "role": "2027 Summer Intern, BS, Software Engineer, Model Eval",
+  "role": "Graduate Student Associate Intern",
   "category": "software-engineering",
-  "apply_url": "https://careers.withwaymo.com/jobs?gh_jid=8257660",
-  "season": "summer",
+  "apply_url": "https://uva.wd1.myworkdayjobs.com/uvastudentjobs/job/Charlottesville-VA/StatLab-Graduate-Associate--Student-Wage-_R0088483",
+  "season": "spring",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Mountain View",
-      "state": "CA",
+      "city": "Charlottesville",
+      "state": "VA",
       "country": "USA"
     }
   ],
@@ -41,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-10-06",
-    "discovered": "2026-10-06",
+    "posted": "2026-10-21",
+    "discovered": "2026-10-21",
     "last_verified": "2026-10-21"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:ats"
+    "src:simplify"
   ]
 }
