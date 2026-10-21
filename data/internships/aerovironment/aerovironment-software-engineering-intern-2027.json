@@ -7,14 +7,14 @@
   },
   "role": "Software Engineering Intern",
   "category": "software-engineering",
-  "apply_url": "https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Moorpark-CA/Software-Engineering-Intern_9094",
+  "apply_url": "https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Minneapolis-MN/Software-Engineering-Intern_8940",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Moorpark",
-      "state": "CA",
+      "city": "Minneapolis",
+      "state": "MN",
       "country": "USA"
     }
   ],
@@ -26,9 +26,9 @@
   "eligibility": {
     "graduation_years": [],
     "degree_levels": [],
-    "citizenship_required": false,
+    "citizenship_required": true,
     "security_clearance_required": false,
-    "visa_sponsorship": "unknown"
+    "visa_sponsorship": "no"
   },
   "interview": {},
   "tech": {
@@ -40,9 +40,9 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-10-17",
+    "posted": "2026-10-20",
     "discovered": "2026-10-17",
-    "last_verified": "2026-10-20"
+    "last_verified": "2026-10-21"
   },
   "status": "open",
   "tags": [

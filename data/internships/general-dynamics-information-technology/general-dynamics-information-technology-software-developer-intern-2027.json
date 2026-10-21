@@ -44,11 +44,11 @@
   "dates": {
     "posted": "2026-10-19",
     "discovered": "2026-08-05",
-    "last_verified": "2026-10-20"
+    "last_verified": "2026-10-21"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }
