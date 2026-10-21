@@ -7,23 +7,14 @@
   },
   "role": "Equity Trader Intern",
   "category": "software-engineering",
-  "apply_url": "https://www.trlm.com/apply/5076003007?gh_jid=5076003007",
+  "apply_url": "https://www.trlm.com/apply/5076017007?gh_jid=5076017007",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Miami",
-      "state": "FL",
-      "country": "USA"
-    },
-    {
       "city": "Chicago",
       "state": "IL",
-      "country": "USA"
-    },
-    {
-      "city": "NYC",
       "country": "USA"
     }
   ],
@@ -53,9 +44,9 @@
   "dates": {
     "posted": "2026-07-24",
     "discovered": "2026-07-24",
-    "last_verified": "2026-09-24"
+    "last_verified": "2026-10-21"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

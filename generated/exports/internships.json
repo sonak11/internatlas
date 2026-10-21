@@ -1,6 +1,6 @@
 {
   "generated": "2026-10-21",
-  "count": 6675,
+  "count": 6677,
   "internships": [
     {
       "schema_version": "1.0",
@@ -6850,7 +6850,7 @@
         "discovered": "2026-10-06",
         "last_verified": "2026-10-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -24685,9 +24685,60 @@
       "dates": {
         "posted": "2026-10-12",
         "discovered": "2026-10-14",
-        "last_verified": "2026-10-19"
+        "last_verified": "2026-10-21"
       },
-      "status": "closed",
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "aon-actuarial-consulting-intern-pensions-2027",
+      "company": {
+        "name": "Aon",
+        "slug": "aon"
+      },
+      "role": "Actuarial Consulting Intern - Pensions",
+      "category": "software-engineering",
+      "apply_url": "https://jobs.aon.com/jobs/107787?icims=1",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "London",
+          "country": "UK"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-12",
+        "discovered": "2026-10-21",
+        "last_verified": "2026-10-21"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -45067,7 +45118,7 @@
         "discovered": "2026-10-15",
         "last_verified": "2026-10-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -45122,7 +45173,7 @@
         "discovered": "2026-10-15",
         "last_verified": "2026-10-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -62153,9 +62204,9 @@
       "dates": {
         "posted": "2026-10-12",
         "discovered": "2026-10-12",
-        "last_verified": "2026-10-17"
+        "last_verified": "2026-10-21"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -67033,7 +67084,7 @@
         "discovered": "2026-09-10",
         "last_verified": "2026-10-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -127656,7 +127707,7 @@
         "discovered": "2026-08-27",
         "last_verified": "2026-10-21"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -127761,7 +127812,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-10-21"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -127867,7 +127918,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-10-21"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -127919,7 +127970,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-21"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -128025,7 +128076,7 @@
         "discovered": "2026-09-16",
         "last_verified": "2026-10-21"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -128078,7 +128129,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-21"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -128183,7 +128234,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-21"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -128234,7 +128285,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-21"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -128285,7 +128336,7 @@
         "discovered": "2026-10-10",
         "last_verified": "2026-10-21"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -128336,7 +128387,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-10-21"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -128439,7 +128490,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-21"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -128648,7 +128699,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-21"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -128702,7 +128753,7 @@
         "discovered": "2026-10-11",
         "last_verified": "2026-10-21"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -128809,7 +128860,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-21"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -128863,7 +128914,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-10-21"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -128965,7 +129016,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-21"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -129120,7 +129171,7 @@
         "discovered": "2026-08-29",
         "last_verified": "2026-10-21"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -129173,7 +129224,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-10-21"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -177578,7 +177629,7 @@
         "discovered": "2026-09-16",
         "last_verified": "2026-10-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -177632,7 +177683,7 @@
         "discovered": "2026-09-16",
         "last_verified": "2026-10-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -177738,7 +177789,7 @@
         "discovered": "2026-09-16",
         "last_verified": "2026-10-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -186268,7 +186319,7 @@
         "discovered": "2026-09-01",
         "last_verified": "2026-10-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -240209,7 +240260,7 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-10-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify",
@@ -250169,7 +250220,7 @@
         "discovered": "2026-10-13",
         "last_verified": "2026-10-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -281288,7 +281339,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -296937,7 +296988,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "tencent-multimodal-algorithm-researcher-intern-omni-modal-2026",
+      "id": "tencent-multimodal-algorithm-researcher-intern-omni-modal-2026-1e0f86",
       "company": {
         "name": "Tencent",
         "slug": "tencent"
@@ -296981,6 +297032,61 @@
       },
       "dates": {
         "posted": "2026-07-04",
+        "discovered": "2026-10-21",
+        "last_verified": "2026-10-21"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "tencent-multimodal-algorithm-researcher-intern-omni-modal-2026",
+      "company": {
+        "name": "Tencent",
+        "slug": "tencent"
+      },
+      "role": "Multimodal Algorithm Researcher Intern - Omni-Modal",
+      "category": "research",
+      "apply_url": "https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/US-California-Palo-Alto/Hunyuan-Multimodal-Algorithm-Researcher-intern-Omni-Modal---_R106650-2",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Palo Alto",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters",
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-06-13",
         "discovered": "2026-08-19",
         "last_verified": "2026-10-21"
       },
@@ -332696,60 +332802,6 @@
     },
     {
       "schema_version": "1.0",
-      "id": "trillium-equity-trader-intern-2027-c03440",
-      "company": {
-        "name": "Trillium",
-        "slug": "trillium"
-      },
-      "role": "Equity Trader Intern",
-      "category": "software-engineering",
-      "apply_url": "https://www.trlm.com/apply/5076017007?gh_jid=5076017007",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Chicago",
-          "state": "IL",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [
-          "masters"
-        ],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-07-24",
-        "discovered": "2026-07-24",
-        "last_verified": "2026-09-03"
-      },
-      "status": "closed",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
       "id": "trillium-equity-trader-intern-2027-d109f0",
       "company": {
         "name": "Trillium",
@@ -332794,9 +332846,9 @@
       "dates": {
         "posted": "2026-07-24",
         "discovered": "2026-07-24",
-        "last_verified": "2026-09-03"
+        "last_verified": "2026-10-21"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -332811,23 +332863,14 @@
       },
       "role": "Equity Trader Intern",
       "category": "software-engineering",
-      "apply_url": "https://www.trlm.com/apply/5076003007?gh_jid=5076003007",
+      "apply_url": "https://www.trlm.com/apply/5076017007?gh_jid=5076017007",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
       "locations": [
         {
-          "city": "Miami",
-          "state": "FL",
-          "country": "USA"
-        },
-        {
           "city": "Chicago",
           "state": "IL",
-          "country": "USA"
-        },
-        {
-          "city": "NYC",
           "country": "USA"
         }
       ],
@@ -332857,9 +332900,9 @@
       "dates": {
         "posted": "2026-07-24",
         "discovered": "2026-07-24",
-        "last_verified": "2026-09-24"
+        "last_verified": "2026-10-21"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -333663,6 +333706,58 @@
         "last_verified": "2026-09-04"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "trustage-information-technology-development-and-infrastructure-intern-2027",
+      "company": {
+        "name": "TruStage",
+        "slug": "trustage"
+      },
+      "role": "Information Technology Development and Infrastructure Intern",
+      "category": "cloud",
+      "apply_url": "https://trustage.wd1.myworkdayjobs.com/TruStage/job/Wisconsin---Remote/Enterprise-Information---Technology-Internship--Hybrid-_R-012155",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Madison",
+          "state": "WI",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-09",
+        "discovered": "2026-10-21",
+        "last_verified": "2026-10-21"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -335523,7 +335618,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -359573,7 +359668,7 @@
         "discovered": "2026-09-07",
         "last_verified": "2026-10-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -362278,7 +362373,7 @@
         "discovered": "2026-08-18",
         "last_verified": "2026-10-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
