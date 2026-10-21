@@ -16,10 +16,6 @@
     {
       "city": "San Francisco",
       "country": "USA"
-    },
-    {
-      "city": "SF",
-      "country": "USA"
     }
   ],
   "compensation": {
@@ -48,9 +44,9 @@
   "dates": {
     "posted": "2026-09-16",
     "discovered": "2026-09-17",
-    "last_verified": "2026-09-29"
+    "last_verified": "2026-10-21"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:ats"

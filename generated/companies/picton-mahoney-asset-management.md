@@ -6,9 +6,10 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
+| Picton Mahoney Asset Management | [Data Engineer Intern](https://pictonmahoney.bamboohr.com/careers/387) | Toronto | Onsite | 2026-10-20 | Rolling | 🟢 Open | ❔ |
 | Picton Mahoney Asset Management | [Business Data Analyst Intern](https://pictonmahoney.bamboohr.com/careers/356/) | Toronto | Onsite | 2026-08-13 | Rolling | 🔴 Closed | ❔ |
 | Picton Mahoney Asset Management | [Quantitative Research & Risk Intern](https://pictonmahoney.bamboohr.com/careers/350/) | Toronto | Onsite | 2026-08-13 | Rolling | 🔴 Closed | ❔ |
 
 ## Related
 
-Browse more roles in: [📈 Quant](../categories/quant.md), [💻 Software Engineering](../categories/software-engineering.md)
+Browse more roles in: [🛠 Data Engineering](../categories/data-engineering.md), [📈 Quant](../categories/quant.md), [💻 Software Engineering](../categories/software-engineering.md)

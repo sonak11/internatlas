@@ -1,20 +1,25 @@
 {
   "schema_version": "1.0",
-  "id": "robert-bosch-venture-capital-calibration-process-optimization-intern-2027",
+  "id": "inmar-intelligence-data-science-intern-2027",
   "company": {
-    "name": "Robert Bosch Venture Capital",
-    "slug": "robert-bosch-venture-capital"
+    "name": "Inmar Intelligence",
+    "slug": "inmar-intelligence"
   },
-  "role": "Calibration Process Optimization Intern",
-  "category": "software-engineering",
-  "apply_url": "https://jobs.smartrecruiters.com/BoschGroup/744000156585075",
+  "role": "Data Science Intern",
+  "category": "data-science",
+  "apply_url": "https://inmar.wd1.myworkdayjobs.com/inmarcareers/job/Headquarters-Winston-Salem-NC/Data-Science-Intern_JY2627711",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Farmington Hills",
-      "state": "MI",
+      "city": "Raleigh",
+      "state": "NC",
+      "country": "USA"
+    },
+    {
+      "city": "Winston-Salem",
+      "state": "NC",
       "country": "USA"
     }
   ],
@@ -25,9 +30,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -42,13 +45,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-10-21",
+    "posted": "2026-10-20",
     "discovered": "2026-10-21",
     "last_verified": "2026-10-21"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }
