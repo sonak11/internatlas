@@ -1,19 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "abridge-member-of-technical-staff-intern-2026",
+  "id": "microsoft-security-research-intern-2027",
   "company": {
-    "name": "Abridge",
-    "slug": "abridge"
+    "name": "Microsoft",
+    "slug": "microsoft"
   },
-  "role": "Member of Technical Staff Intern",
-  "category": "software-engineering",
-  "apply_url": "https://jobs.ashbyhq.com/abridge/aab11857-7ed3-4fc5-aab3-35256601117e/application?embed=true",
-  "season": "fall",
-  "year": 2026,
+  "role": "Security Research Intern",
+  "category": "security",
+  "apply_url": "https://apply.careers.microsoft.com/careers/job/1970393557044769",
+  "season": "summer",
+  "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "SF",
+      "city": "Redmond",
+      "state": "WA",
       "country": "USA"
     }
   ],
@@ -39,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-10-16",
-    "discovered": "2026-10-16",
+    "posted": "2026-10-22",
+    "discovered": "2026-10-22",
     "last_verified": "2026-10-22"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }

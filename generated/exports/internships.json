@@ -1,6 +1,6 @@
 {
   "generated": "2026-10-22",
-  "count": 6787,
+  "count": 6806,
   "internships": [
     {
       "schema_version": "1.0",
@@ -86,6 +86,190 @@
       "dates": {
         "posted": "2026-10-12",
         "discovered": "2026-10-13",
+        "last_verified": "2026-10-22"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "1password-developer-intern-extension-excellence-2027",
+      "company": {
+        "name": "1Password",
+        "slug": "1password"
+      },
+      "role": "Developer Intern, Extension Excellence",
+      "category": "software-engineering",
+      "apply_url": "https://jobs.ashbyhq.com/1password/7f1732a6-5317-4319-82b9-67c62e88d491",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "remote",
+      "locations": [],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-22",
+        "discovered": "2026-10-22",
+        "last_verified": "2026-10-22"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "1password-developer-intern-front-end-platform-2027",
+      "company": {
+        "name": "1Password",
+        "slug": "1password"
+      },
+      "role": "Developer Intern, Front-End Platform",
+      "category": "software-engineering",
+      "apply_url": "https://jobs.ashbyhq.com/1password/71a3afd1-12b3-4f55-a3bd-fc4e7c46ee37",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "remote",
+      "locations": [],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-22",
+        "discovered": "2026-10-22",
+        "last_verified": "2026-10-22"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "1password-developer-intern-provisioning-2027",
+      "company": {
+        "name": "1Password",
+        "slug": "1password"
+      },
+      "role": "Developer Intern, Provisioning",
+      "category": "software-engineering",
+      "apply_url": "https://jobs.ashbyhq.com/1password/c5289ef1-e919-4672-85c5-ee3112f9ddb9",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "remote",
+      "locations": [],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-22",
+        "discovered": "2026-10-22",
+        "last_verified": "2026-10-22"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "1password-security-intern-threat-operations-2027",
+      "company": {
+        "name": "1Password",
+        "slug": "1password"
+      },
+      "role": "Security Intern, Threat Operations",
+      "category": "security",
+      "apply_url": "https://jobs.ashbyhq.com/1password/aac7eea6-ed7c-4871-bbf2-7cb2d5138847",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "remote",
+      "locations": [],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-22",
+        "discovered": "2026-10-22",
         "last_verified": "2026-10-22"
       },
       "status": "open",
@@ -1384,7 +1568,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "abridge-member-of-technical-staff-intern-2026",
+      "id": "abridge-member-of-technical-staff-intern-2027",
       "company": {
         "name": "Abridge",
         "slug": "abridge"
@@ -1392,8 +1576,8 @@
       "role": "Member of Technical Staff Intern",
       "category": "software-engineering",
       "apply_url": "https://jobs.ashbyhq.com/abridge/aab11857-7ed3-4fc5-aab3-35256601117e/application?embed=true",
-      "season": "fall",
-      "year": 2026,
+      "season": "spring",
+      "year": 2027,
       "work_mode": "onsite",
       "locations": [
         {
@@ -1424,13 +1608,13 @@
       },
       "dates": {
         "posted": "2026-10-16",
-        "discovered": "2026-10-16",
+        "discovered": "2026-10-22",
         "last_verified": "2026-10-22"
       },
       "status": "open",
       "tags": [
         "auto-ingested",
-        "src:simplify"
+        "src:vanshb03"
       ]
     },
     {
@@ -22697,7 +22881,7 @@
         "discovered": "2026-09-08",
         "last_verified": "2026-10-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -64871,6 +65055,52 @@
     },
     {
       "schema_version": "1.0",
+      "id": "centene-corporation-cybersecurity-intern-2027",
+      "company": {
+        "name": "Centene Corporation",
+        "slug": "centene-corporation"
+      },
+      "role": "Cybersecurity Intern",
+      "category": "security",
+      "apply_url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Cybersecurity-Summer-2027-Intern--Undergraduate-_1660514",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "remote",
+      "locations": [],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-20",
+        "discovered": "2026-10-22",
+        "last_verified": "2026-10-22"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "center-for-ai-safety-research-engineer-intern-2026",
       "company": {
         "name": "Center for AI Safety",
@@ -80698,6 +80928,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "copart-qa-engineer-intern-2027",
+      "company": {
+        "name": "Copart",
+        "slug": "copart"
+      },
+      "role": "QA Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://copart.wd12.myworkdayjobs.com/Copart/job/Dallas-TX---Headquarters/QA-Engineer-Intern_JR112005",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Dallas",
+          "state": "TX",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-22",
+        "discovered": "2026-10-22",
+        "last_verified": "2026-10-22"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "copart-qa-engineering-intern-2027",
       "company": {
         "name": "Copart",
@@ -80740,6 +81022,58 @@
       "dates": {
         "posted": "2026-08-21",
         "discovered": "2026-08-21",
+        "last_verified": "2026-10-22"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "copart-sdet-intern-2027",
+      "company": {
+        "name": "Copart",
+        "slug": "copart"
+      },
+      "role": "SDET Intern",
+      "category": "software-engineering",
+      "apply_url": "https://copart.wd12.myworkdayjobs.com/Copart/job/Dallas-TX---Headquarters/SDET-Intern_JR112006",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Dallas",
+          "state": "TX",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-22",
+        "discovered": "2026-10-22",
         "last_verified": "2026-10-22"
       },
       "status": "open",
@@ -86261,6 +86595,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "databricks-data-science-intern-2027-start-2027",
+      "company": {
+        "name": "Databricks",
+        "slug": "databricks",
+        "career_page": "https://www.databricks.com/company/careers/university-recruiting"
+      },
+      "role": "Data Science Intern (2027 Start)",
+      "category": "data-science",
+      "apply_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6866538002",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Mountain View",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2023-08-17",
+        "discovered": "2026-10-22",
+        "last_verified": "2026-10-22"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "databricks-phd-genai-research-scientist-intern-2027",
       "company": {
         "name": "Databricks",
@@ -88349,7 +88735,7 @@
         "discovered": "2026-08-17",
         "last_verified": "2026-10-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -93223,6 +93609,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "dp-world-network-engineering-intern-2027",
+      "company": {
+        "name": "DP World",
+        "slug": "dp-world"
+      },
+      "role": "Network Engineering Intern",
+      "category": "software-engineering",
+      "apply_url": "https://ehpv.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/27403",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Charlotte",
+          "state": "NC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "no"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-21",
+        "discovered": "2026-10-22",
+        "last_verified": "2026-10-22"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "draftkings-analytics-intern-2027",
       "company": {
         "name": "DraftKings",
@@ -93483,7 +93921,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "draftkings-data-science-intern-2027",
+      "id": "draftkings-data-science-intern-2027-264382",
       "company": {
         "name": "DraftKings",
         "slug": "draftkings"
@@ -93524,13 +93962,65 @@
       },
       "dates": {
         "posted": "2026-09-01",
-        "discovered": "2026-09-01",
+        "discovered": "2026-10-22",
         "last_verified": "2026-10-22"
       },
       "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "draftkings-data-science-intern-2027",
+      "company": {
+        "name": "DraftKings",
+        "slug": "draftkings"
+      },
+      "role": "Data Science Intern",
+      "category": "data-science",
+      "apply_url": "https://draftkings.wd1.myworkdayjobs.com/draftkings/job/Boston-MA/Data-Science-Intern-Referral--Summer-2027-_JR14960",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Boston",
+          "state": "MA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-19",
+        "discovered": "2026-09-01",
+        "last_verified": "2026-10-22"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
       ]
     },
     {
@@ -99321,7 +99811,7 @@
         "discovered": "2026-10-14",
         "last_verified": "2026-10-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -109727,7 +110217,7 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-10-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -143567,6 +144057,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "hitachi-test-engineering-intern-2027",
+      "company": {
+        "name": "Hitachi",
+        "slug": "hitachi"
+      },
+      "role": "Test Engineering Intern",
+      "category": "software-engineering",
+      "apply_url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Norman-Oklahoma-United-States/Test-Engineering-Intern_R0148731",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Norman",
+          "state": "OK",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-22",
+        "discovered": "2026-10-22",
+        "last_verified": "2026-10-22"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "hitachi-energy-cloud-data-specialist-intern-2026",
       "company": {
         "name": "Hitachi Energy",
@@ -151679,7 +152221,7 @@
         "discovered": "2026-09-09",
         "last_verified": "2026-10-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -173219,6 +173761,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "l3harris-technologies-image-processing-engineer-intern-2027",
+      "company": {
+        "name": "L3Harris Technologies",
+        "slug": "l3harris-technologies"
+      },
+      "role": "Image Processing Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://jobs.l3harris.com/job/Tulsa-Image-Processing-Engineer-Intern-OK-74115/1442671200/?ats=successfactors",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Tulsa",
+          "state": "OK",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-22",
+        "discovered": "2026-10-22",
+        "last_verified": "2026-10-22"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "l3harris-technologies-image-science-engineer-intern-2026",
       "company": {
         "name": "L3Harris Technologies",
@@ -174843,6 +175437,58 @@
       "dates": {
         "posted": "2026-10-19",
         "discovered": "2026-10-21",
+        "last_verified": "2026-10-22"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "labcorp-bioinformatics-intern-2027",
+      "company": {
+        "name": "LabCorp",
+        "slug": "labcorp"
+      },
+      "role": "Bioinformatics Intern",
+      "category": "software-engineering",
+      "apply_url": "https://labcorp.wd1.myworkdayjobs.com/external/job/Baltimore-MD/Intern---Bioinformatics_2634135",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Baltimore",
+          "state": "MD",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-22",
+        "discovered": "2026-10-22",
         "last_verified": "2026-10-22"
       },
       "status": "open",
@@ -198369,6 +199015,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "microsoft-security-research-intern-2027",
+      "company": {
+        "name": "Microsoft",
+        "slug": "microsoft"
+      },
+      "role": "Security Research Intern",
+      "category": "security",
+      "apply_url": "https://apply.careers.microsoft.com/careers/job/1970393557044769",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Redmond",
+          "state": "WA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-22",
+        "discovered": "2026-10-22",
+        "last_verified": "2026-10-22"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "microsoft-silicon-engineer-intern-2026",
       "company": {
         "name": "Microsoft",
@@ -199507,7 +200205,7 @@
         "discovered": "2026-09-25",
         "last_verified": "2026-10-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -213159,6 +213857,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "nissan-cyber-security-intern-2027",
+      "company": {
+        "name": "Nissan",
+        "slug": "nissan"
+      },
+      "role": "Cyber Security Intern",
+      "category": "security",
+      "apply_url": "https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Smyrna-Tennessee---United-States-of-America/Cyber-Security-Intern---Summer-2027---Smyrna--TN_R00214879",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Smyrna",
+          "state": "TN",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-22",
+        "discovered": "2026-10-22",
+        "last_verified": "2026-10-22"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "nissan-global-aftersales-business-planning-intern-2027",
       "company": {
         "name": "Nissan Global",
@@ -216595,14 +217345,14 @@
       },
       "role": "Cyber Software Engineer Intern",
       "category": "software-engineering",
-      "apply_url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Tampa/XMLNAME-2027-Cyber-Software-Engineer-Intern---Tampa-FL_R10249530",
+      "apply_url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Texas-San-Antonio/XMLNAME-2027-Cyber-Software-Engineer-Intern---San-Antonio-TX_R10257311",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
       "locations": [
         {
-          "city": "Tampa",
-          "state": "FL",
+          "city": "San Antonio",
+          "state": "TX",
           "country": "USA"
         }
       ],
@@ -216630,14 +217380,14 @@
         "resume_keywords": []
       },
       "dates": {
-        "posted": "2026-09-22",
+        "posted": "2026-10-22",
         "discovered": "2026-09-16",
-        "last_verified": "2026-10-03"
+        "last_verified": "2026-10-22"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
-        "src:simplify"
+        "src:vanshb03"
       ]
     },
     {
@@ -233263,7 +234013,7 @@
       "status": "open",
       "tags": [
         "auto-ingested",
-        "src:simplify"
+        "src:vanshb03"
       ]
     },
     {
@@ -245439,7 +246189,7 @@
         "discovered": "2026-08-31",
         "last_verified": "2026-10-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -246143,7 +246893,7 @@
         "discovered": "2026-08-31",
         "last_verified": "2026-10-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -246579,7 +247329,7 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-10-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -266647,7 +267397,7 @@
         "discovered": "2026-08-24",
         "last_verified": "2026-10-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -279385,7 +280135,7 @@
         "discovered": "2026-09-17",
         "last_verified": "2026-10-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -282031,7 +282781,7 @@
       "status": "open",
       "tags": [
         "auto-ingested",
-        "src:simplify"
+        "src:vanshb03"
       ]
     },
     {
@@ -340983,14 +341733,14 @@
       },
       "role": "Database Administrator Intern",
       "category": "software-engineering",
-      "apply_url": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Database-Administrator-Internship---Summer-2027_R265687",
+      "apply_url": "https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Pleasant-Prairie-WI/Database-Administrator-Internship---Summer-2027_R268538",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
       "locations": [
         {
-          "city": "Waukegan",
-          "state": "IL",
+          "city": "Pleasant Prairie",
+          "state": "WI",
           "country": "USA"
         },
         {
@@ -340999,13 +341749,13 @@
           "country": "USA"
         },
         {
-          "city": "Glenview",
+          "city": "Waukegan",
           "state": "IL",
           "country": "USA"
         },
         {
-          "city": "Pleasant Prairie",
-          "state": "WI",
+          "city": "Glenview",
+          "state": "IL",
           "country": "USA"
         },
         {
@@ -341038,14 +341788,14 @@
         "resume_keywords": []
       },
       "dates": {
-        "posted": "2026-08-03",
+        "posted": "2026-10-22",
         "discovered": "2026-08-04",
-        "last_verified": "2026-09-03"
+        "last_verified": "2026-10-22"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
-        "src:simplify"
+        "src:vanshb03"
       ]
     },
     {
@@ -341726,6 +342476,78 @@
       "tags": [
         "auto-ingested",
         "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "uline-systems-administrator-intern-2027",
+      "company": {
+        "name": "Uline",
+        "slug": "uline"
+      },
+      "role": "Systems Administrator Intern",
+      "category": "software-engineering",
+      "apply_url": "https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Pleasant-Prairie-WI/Systems-Administrator-Internship---Summer-2027_R268536",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Pleasant Prairie",
+          "state": "WI",
+          "country": "USA"
+        },
+        {
+          "city": "Milwaukee",
+          "state": "WI",
+          "country": "USA"
+        },
+        {
+          "city": "Waukegan",
+          "state": "IL",
+          "country": "USA"
+        },
+        {
+          "city": "Glenview",
+          "state": "IL",
+          "country": "USA"
+        },
+        {
+          "city": "Kenosha",
+          "state": "WI",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-22",
+        "discovered": "2026-10-22",
+        "last_verified": "2026-10-22"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
       ]
     },
     {
@@ -357203,6 +358025,59 @@
     },
     {
       "schema_version": "1.0",
+      "id": "waymo-2027-summer-intern-phd-ai-foundations-recipes-2027",
+      "company": {
+        "name": "Waymo",
+        "slug": "waymo",
+        "career_page": "https://waymo.com/careers"
+      },
+      "role": "2027 Summer Intern, PhD, AI Foundations - Recipes",
+      "category": "ai",
+      "apply_url": "https://careers.withwaymo.com/jobs?gh_jid=8306841",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Mountain View",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-22",
+        "discovered": "2026-10-22",
+        "last_verified": "2026-10-22"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "waymo-2027-summer-intern-phd-data-science-2027",
       "company": {
         "name": "Waymo",
@@ -357891,6 +358766,59 @@
     },
     {
       "schema_version": "1.0",
+      "id": "waymo-2027-summer-intern-phd-research-multimodal-foundation-models-2027",
+      "company": {
+        "name": "Waymo",
+        "slug": "waymo",
+        "career_page": "https://waymo.com/careers"
+      },
+      "role": "2027 Summer Intern, PhD, Research, Multimodal Foundation Models",
+      "category": "research",
+      "apply_url": "https://careers.withwaymo.com/jobs?gh_jid=8306867",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Mountain View",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-22",
+        "discovered": "2026-10-22",
+        "last_verified": "2026-10-22"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "waymo-2027-summer-intern-phd-research-perception-foundation-models-2027",
       "company": {
         "name": "Waymo",
@@ -357995,6 +358923,59 @@
       "dates": {
         "posted": "2026-10-09",
         "discovered": "2026-10-10",
+        "last_verified": "2026-10-22"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "waymo-2027-summer-intern-phd-research-rsi-for-autonomous-driving-2027",
+      "company": {
+        "name": "Waymo",
+        "slug": "waymo",
+        "career_page": "https://waymo.com/careers"
+      },
+      "role": "2027 Summer Intern, PhD, Research, RSI for Autonomous Driving",
+      "category": "research",
+      "apply_url": "https://careers.withwaymo.com/jobs?gh_jid=8306779",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Mountain View",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-22",
+        "discovered": "2026-10-22",
         "last_verified": "2026-10-22"
       },
       "status": "open",
@@ -358591,7 +359572,7 @@
         "discovered": "2026-10-22",
         "last_verified": "2026-10-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
