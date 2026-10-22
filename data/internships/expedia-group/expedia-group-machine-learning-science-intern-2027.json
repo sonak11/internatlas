@@ -1,0 +1,53 @@
+{
+  "schema_version": "1.0",
+  "id": "expedia-group-machine-learning-science-intern-2027",
+  "company": {
+    "name": "Expedia Group",
+    "slug": "expedia-group"
+  },
+  "role": "Machine Learning Science Intern",
+  "category": "machine-learning",
+  "apply_url": "https://expedia.wd108.myworkdayjobs.com/search/job/UK---London/Applied-Science-Intern---PhD---2027---London_R-110737",
+  "season": "summer",
+  "year": 2027,
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "London",
+      "country": "UK"
+    }
+  ],
+  "compensation": {
+    "currency": "USD",
+    "housing_stipend": false,
+    "relocation_assistance": false
+  },
+  "eligibility": {
+    "graduation_years": [],
+    "degree_levels": [
+      "phd"
+    ],
+    "citizenship_required": false,
+    "security_clearance_required": false,
+    "visa_sponsorship": "unknown"
+  },
+  "interview": {},
+  "tech": {
+    "required_skills": [],
+    "preferred_skills": [],
+    "languages": [],
+    "frameworks": [],
+    "cloud_platforms": [],
+    "resume_keywords": []
+  },
+  "dates": {
+    "posted": "2026-10-21",
+    "discovered": "2026-10-22",
+    "last_verified": "2026-10-22"
+  },
+  "status": "open",
+  "tags": [
+    "auto-ingested",
+    "src:simplify"
+  ]
+}

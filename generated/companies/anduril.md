@@ -32,6 +32,7 @@
 | Anduril | [2027 Supply Chain Intern](https://boards.greenhouse.io/andurilindustries/jobs/5255827007?gh_jid=5255827007) | Costa Mesa | Onsite | 2026-10-02 | Rolling | 🟢 Open | ❔ |
 | Anduril | [2027 Systems Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5257690007?gh_jid=5257690007) | Boston | Onsite | 2026-10-05 | Rolling | 🟢 Open | ❔ |
 | Anduril | [2027 Technical Program Manager Intern](https://boards.greenhouse.io/andurilindustries/jobs/5268864007?gh_jid=5268864007) | Costa Mesa | Onsite | 2026-10-19 | Rolling | 🟢 Open | ❔ |
+| Anduril | [Business Operations Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5271672007) | Ashville, OH +1 | Onsite | 2026-10-21 | Rolling | 🟢 Open | ❔ |
 | Anduril | [Electrical Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5148101007) | Boston, MA +8 | Onsite | 2026-06-11 | Rolling | 🟢 Open | ❔ |
 | Anduril | [Firmware Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5265158007) | Costa Mesa, CA | Onsite | 2026-10-14 | Rolling | 🟢 Open | ❔ |
 | Anduril | [Flight Software Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5239083007) | Costa Mesa, CA | Onsite | 2026-09-15 | Rolling | 🟢 Open | ❔ |

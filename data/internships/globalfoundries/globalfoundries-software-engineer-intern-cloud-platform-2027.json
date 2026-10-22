@@ -1,0 +1,54 @@
+{
+  "schema_version": "1.0",
+  "id": "globalfoundries-software-engineer-intern-cloud-platform-2027",
+  "company": {
+    "name": "GlobalFoundries",
+    "slug": "globalfoundries"
+  },
+  "role": "Software Engineer Intern - Cloud Platform",
+  "category": "cloud",
+  "apply_url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---California---Santa-Clara/Software-Engineering-Intern--Cloud-Platform--Summer-2027-_JR-2604034",
+  "season": "summer",
+  "year": 2027,
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "Santa Clara",
+      "state": "CA",
+      "country": "USA"
+    }
+  ],
+  "compensation": {
+    "currency": "USD",
+    "housing_stipend": false,
+    "relocation_assistance": false
+  },
+  "eligibility": {
+    "graduation_years": [],
+    "degree_levels": [
+      "masters"
+    ],
+    "citizenship_required": false,
+    "security_clearance_required": false,
+    "visa_sponsorship": "unknown"
+  },
+  "interview": {},
+  "tech": {
+    "required_skills": [],
+    "preferred_skills": [],
+    "languages": [],
+    "frameworks": [],
+    "cloud_platforms": [],
+    "resume_keywords": []
+  },
+  "dates": {
+    "posted": "2026-10-21",
+    "discovered": "2026-10-22",
+    "last_verified": "2026-10-22"
+  },
+  "status": "open",
+  "tags": [
+    "auto-ingested",
+    "src:simplify"
+  ]
+}

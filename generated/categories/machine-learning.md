@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🧠 Machine Learning Internships
 
-**318** tracked · **224** open now
+**319** tracked · **225** open now
 
 ## Current openings
 
@@ -59,6 +59,7 @@
 | [Epic Games](generated/companies/epic-games.md) | [Machine Learning Intern - Special Projects - Epic Research Group](https://epicgames.com/careers/jobs/6138140004?gh_jid=6138140004) | Montreal | Onsite | 2026-08-07 | Rolling | 🟢 Open | ❔ |
 | [Epic Games](generated/companies/epic-games.md) | [Machine Learning Intern - Special Projects - Epic Research Group](https://epicgames.com/careers/jobs/5708589004?gh_jid=5708589004) | London | Onsite | 2026-08-07 | Rolling | 🟢 Open | ❔ |
 | [Epic Games](generated/companies/epic-games.md) | [Machine Learning Research Intern](https://www.epicgames.com/site/careers/jobs/6138140004?gh_jid=6138140004) | Montreal | Onsite | 2026-08-21 | Rolling | 🟢 Open | ❌ |
+| [Expedia Group](generated/companies/expedia-group.md) | [Machine Learning Science Intern](https://expedia.wd108.myworkdayjobs.com/search/job/UK---London/Applied-Science-Intern---PhD---2027---London_R-110737) | London | Onsite | 2026-10-21 | Rolling | 🟢 Open | ❔ |
 | [Faire](generated/companies/faire.md) | [Applied AI/ML Scientist Intern](https://boards.greenhouse.io/faire/jobs/8870975002) | SF | Onsite | 2026-10-09 | Rolling | 🟢 Open | ❔ |
 | [G-Research](generated/companies/g-research.md) | [Machine Learning Engineer Intern](https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Machine-Learning-Engineer-Intern_R3773) | London | Onsite | 2026-10-06 | Rolling | 🟢 Open | ❔ |
 | [G-Research](generated/companies/g-research.md) | [Machine Learning Research Intern](https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Machine-Learning-Research-Internship_R3682) | London | Onsite | 2026-07-23 | Rolling | 🟢 Open | ❔ |
@@ -391,6 +392,7 @@
 - Droyd Robotics (1)
 - DRW (1)
 - Electronic Arts (1)
+- Expedia Group (1)
 - Faire (1)
 - Gecko Robotics (1)
 - GlobalFoundries (1)

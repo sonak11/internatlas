@@ -6,7 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
-| Johns Manville | [Product Management Intern](https://jm.wd103.myworkdayjobs.com/External/job/Denver-CO-WHQ/Product-Management-Intern--Summer-2027_R26_1432) | Denver, CO | Onsite | 2026-08-27 | Rolling | 🟢 Open | ❔ |
+| Johns Manville | [Product Management Intern](https://jm.wd103.myworkdayjobs.com/External/job/Denver-CO-WHQ/Product-Management-Intern--Summer-2027_R26_1432) | Denver, CO | Onsite | 2026-08-27 | Rolling | 🔴 Closed | ❔ |
 
 ## Related
 
