@@ -1,6 +1,6 @@
 {
   "generated": "2026-10-22",
-  "count": 6774,
+  "count": 6782,
   "internships": [
     {
       "schema_version": "1.0",
@@ -7063,7 +7063,7 @@
         "discovered": "2026-10-21",
         "last_verified": "2026-10-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -27418,6 +27418,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "aptiv-software-development-intern-2027",
+      "company": {
+        "name": "Aptiv",
+        "slug": "aptiv"
+      },
+      "role": "Software Development Intern",
+      "category": "software-engineering",
+      "apply_url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/Troy-MI---USA/Software-Development-Intern_J000704861",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Troy",
+          "state": "MI",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-22",
+        "discovered": "2026-10-22",
+        "last_verified": "2026-10-22"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "aptiv-software-engineering-intern-2027",
       "company": {
         "name": "Aptiv",
@@ -29533,7 +29585,7 @@
         "discovered": "2026-10-14",
         "last_verified": "2026-10-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -59801,7 +59853,7 @@
         "discovered": "2026-10-19",
         "last_verified": "2026-10-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -84072,7 +84124,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -91637,7 +91689,7 @@
         "discovered": "2026-10-17",
         "last_verified": "2026-10-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -92057,6 +92109,59 @@
       "tags": [
         "auto-ingested",
         "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "doordash-drone-operations-intern-labs-summer-2027-2027",
+      "company": {
+        "name": "DoorDash",
+        "slug": "doordash",
+        "career_page": "https://careers.doordash.com/"
+      },
+      "role": "Drone Operations, Intern - Labs (Summer 2027)",
+      "category": "software-engineering",
+      "apply_url": "https://job-boards.greenhouse.io/doordashusa/jobs/8312381",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Francisco",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-22",
+        "discovered": "2026-10-22",
+        "last_verified": "2026-10-22"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
       ]
     },
     {
@@ -95376,6 +95481,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "duke-energy-corporation-nuclear-cybersecurity-intern-2027",
+      "company": {
+        "name": "Duke Energy Corporation",
+        "slug": "duke-energy-corporation"
+      },
+      "role": "Nuclear Cybersecurity Intern",
+      "category": "security",
+      "apply_url": "https://dukeenergy.wd1.myworkdayjobs.com/search/job/Hartsville-SC/Nuclear-Cybersecurity-2027-Summer-Internship_R42099",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Hartsville",
+          "state": "SC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-21",
+        "discovered": "2026-10-22",
+        "last_verified": "2026-10-22"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "duku-ai-tech-intern-visiting-2026",
       "company": {
         "name": "Duku AI",
@@ -96614,9 +96771,9 @@
       "dates": {
         "posted": "2026-08-17",
         "discovered": "2026-08-17",
-        "last_verified": "2026-09-03"
+        "last_verified": "2026-10-22"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -98645,7 +98802,7 @@
         "discovered": "2026-09-25",
         "last_verified": "2026-10-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -98956,7 +99113,7 @@
         "discovered": "2026-10-07",
         "last_verified": "2026-10-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -122934,7 +123091,7 @@
         "discovered": "2026-08-05",
         "last_verified": "2026-10-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -130083,7 +130240,7 @@
         "discovered": "2026-08-27",
         "last_verified": "2026-10-22"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -130188,7 +130345,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-10-22"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -130294,7 +130451,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-10-22"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -130346,7 +130503,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-22"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -130452,7 +130609,7 @@
         "discovered": "2026-09-16",
         "last_verified": "2026-10-22"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -130505,7 +130662,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-22"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -130610,7 +130767,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-22"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -130661,7 +130818,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-22"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -130712,7 +130869,7 @@
         "discovered": "2026-10-10",
         "last_verified": "2026-10-22"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -130763,7 +130920,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-10-22"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -130866,7 +131023,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-22"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -131075,7 +131232,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-22"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -131129,7 +131286,7 @@
         "discovered": "2026-10-11",
         "last_verified": "2026-10-22"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -131236,7 +131393,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-22"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -131290,7 +131447,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-10-22"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -131392,7 +131549,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-22"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -131547,7 +131704,7 @@
         "discovered": "2026-08-29",
         "last_verified": "2026-10-22"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -131600,7 +131757,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-10-22"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -168977,6 +169134,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "keysight-technologies-software-engineer-intern-2027",
+      "company": {
+        "name": "Keysight Technologies",
+        "slug": "keysight-technologies"
+      },
+      "role": "Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://jobs.keysight.com/jobs/55115?icims=1",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Calabasas",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-22",
+        "discovered": "2026-10-22",
+        "last_verified": "2026-10-22"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "keysight-technologies-software-engineer-intern-r-d-2027",
       "company": {
         "name": "Keysight Technologies",
@@ -177395,6 +177604,57 @@
       "dates": {
         "posted": "2026-10-05",
         "discovered": "2026-10-06",
+        "last_verified": "2026-10-22"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "lexisnexis-risk-solutions-data-science-fraud-analytics-placement-intern-2027",
+      "company": {
+        "name": "LexisNexis Risk Solutions",
+        "slug": "lexisnexis-risk-solutions"
+      },
+      "role": "Data Science & Fraud Analytics Placement Intern",
+      "category": "data-science",
+      "apply_url": "https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/London-Wall/Intern_R119888",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "London",
+          "country": "UK"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-22",
+        "discovered": "2026-10-22",
         "last_verified": "2026-10-22"
       },
       "status": "open",
@@ -191923,7 +192183,7 @@
         "discovered": "2026-08-03",
         "last_verified": "2026-10-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -197723,9 +197983,9 @@
       "dates": {
         "posted": "2026-08-04",
         "discovered": "2026-08-04",
-        "last_verified": "2026-10-08"
+        "last_verified": "2026-10-22"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -200315,7 +200575,7 @@
         "discovered": "2026-09-01",
         "last_verified": "2026-10-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -201372,7 +201632,7 @@
         "discovered": "2026-10-17",
         "last_verified": "2026-10-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -214014,7 +214274,7 @@
         "discovered": "2026-10-08",
         "last_verified": "2026-10-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -216212,7 +216472,7 @@
         "discovered": "2026-10-13",
         "last_verified": "2026-10-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -216640,7 +216900,7 @@
         "discovered": "2026-10-17",
         "last_verified": "2026-10-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -217970,7 +218230,7 @@
         "discovered": "2026-10-17",
         "last_verified": "2026-10-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -227327,6 +227587,58 @@
       "dates": {
         "posted": "2026-10-20",
         "discovered": "2026-10-21",
+        "last_verified": "2026-10-22"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "openart-ai-early-adopter-product-builder-intern-creative-ai-2027",
+      "company": {
+        "name": "OpenArt AI",
+        "slug": "openart-ai"
+      },
+      "role": "Early Adopter & Product Builder Intern, Creative AI",
+      "category": "ai",
+      "apply_url": "https://jobs.ashbyhq.com/openart/8dd52ba6-a5b6-40b1-95fe-50de352fa254/application?embed=true",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Carlos",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-22",
+        "discovered": "2026-10-22",
         "last_verified": "2026-10-22"
       },
       "status": "open",
@@ -248214,7 +248526,7 @@
       "status": "open",
       "tags": [
         "auto-ingested",
-        "src:simplify"
+        "src:vanshb03"
       ]
     },
     {
@@ -248316,7 +248628,7 @@
       "status": "open",
       "tags": [
         "auto-ingested",
-        "src:simplify"
+        "src:vanshb03"
       ]
     },
     {
@@ -268980,7 +269292,7 @@
         "discovered": "2026-10-17",
         "last_verified": "2026-10-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -274166,7 +274478,7 @@
         "discovered": "2026-10-21",
         "last_verified": "2026-10-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -311638,7 +311950,7 @@
         "discovered": "2026-08-26",
         "last_verified": "2026-10-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -314986,6 +315298,60 @@
       "dates": {
         "posted": "2026-09-02",
         "discovered": "2026-09-02",
+        "last_verified": "2026-10-22"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "textron-autonomy-engineer-intern-air-systems-2027",
+      "company": {
+        "name": "Textron",
+        "slug": "textron"
+      },
+      "role": "Autonomy Engineer Intern - Air Systems",
+      "category": "software-engineering",
+      "apply_url": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342925",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Hunt Valley",
+          "country": "Cockeysville"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters",
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-01",
+        "discovered": "2026-10-22",
         "last_verified": "2026-10-22"
       },
       "status": "open",
@@ -338129,7 +338495,7 @@
         "discovered": "2026-10-17",
         "last_verified": "2026-10-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -340955,6 +341321,78 @@
     },
     {
       "schema_version": "1.0",
+      "id": "uline-software-developer-intern-2027",
+      "company": {
+        "name": "Uline",
+        "slug": "uline"
+      },
+      "role": "Software Developer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Software-Development-Internship---Summer-2027_R268537",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Waukegan",
+          "state": "IL",
+          "country": "USA"
+        },
+        {
+          "city": "Milwaukee",
+          "state": "WI",
+          "country": "USA"
+        },
+        {
+          "city": "Glenview",
+          "state": "IL",
+          "country": "USA"
+        },
+        {
+          "city": "Pleasant Prairie",
+          "state": "WI",
+          "country": "USA"
+        },
+        {
+          "city": "Kenosha",
+          "state": "WI",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-22",
+        "discovered": "2026-10-22",
+        "last_verified": "2026-10-22"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "uline-software-development-intern-2027",
       "company": {
         "name": "Uline",
@@ -341019,7 +341457,7 @@
         "discovered": "2026-08-04",
         "last_verified": "2026-10-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -362445,7 +362883,7 @@
         "discovered": "2026-10-09",
         "last_verified": "2026-10-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
