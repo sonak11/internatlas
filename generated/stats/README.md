@@ -10,7 +10,7 @@ _Generated 2026-10-22_
 |---|---|
 | Tesla | 223 |
 | TikTok | 185 |
-| RTX | 181 |
+| RTX | 182 |
 | Marvell | 78 |
 | AMD | 77 |
 | Waymo | 71 |
@@ -33,15 +33,15 @@ _Generated 2026-10-22_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 4005 | `███████████████` |
+| software-engineering | 4008 | `███████████████` |
 | ai | 579 | `██` |
 | quant | 338 | `█` |
-| machine-learning | 321 | `█` |
+| machine-learning | 320 | `█` |
 | data-science | 261 | `█` |
 | hardware | 258 | `█` |
-| research | 228 | `█` |
+| research | 230 | `█` |
 | product | 216 | `█` |
-| design | 175 | `█` |
+| design | 176 | `█` |
 | embedded | 167 | `█` |
 | data-engineering | 115 | `█` |
 | cloud | 75 | `█` |
@@ -59,16 +59,16 @@ _Generated 2026-10-22_
 - 2026-10-22 — **Cisco**: [Software Engineer Intern, Full Stack / Backend II](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Full-Stack---Backend-II--Intern----United-States_2026800)
 - 2026-10-22 — **Crusoe**: [Software Engineer Intern](https://jobs.ashbyhq.com/crusoe/07a8a6a9-975e-471c-ac31-b5aaa97f9af5/application?embed=true)
 - 2026-10-22 — **DoorDash**: [Drone Operations, Intern - Labs (Summer 2027)](https://job-boards.greenhouse.io/doordashusa/jobs/8312381)
+- 2026-10-22 — **DoorDash**: [Mechanical Engineering, Intern - Labs (Summer 2027)](https://job-boards.greenhouse.io/doordashusa/jobs/8313401)
+- 2026-10-22 — **EQT Corporation**: [Midstream Services Intern](https://job-boards.greenhouse.io/eqtcorporation/jobs/5459572008)
 - 2026-10-22 — **Intel**: [Information Security Engineer Intern](https://intel.wd1.myworkdayjobs.com/External/job/US-California-Folsom/Information-Security-Engineer-Undergraduate-Intern_JR0287588)
+- 2026-10-22 — **International Rescue Committee**: [Development Data and Research Intern](https://theirc.wd1.myworkdayjobs.com/en-US/External_Careers/job/Silver-Spring-MD-USA/Development-Data-and-Research-Intern----Spring2027-_JR00005497)
 - 2026-10-22 — **Keysight Technologies**: [Software Engineer Intern](https://jobs.keysight.com/jobs/55115?icims=1)
 - 2026-10-22 — **LexisNexis Risk Solutions**: [Data Science & Fraud Analytics Placement Intern](https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/London-Wall/Intern_R119888)
 - 2026-10-22 — **OpenArt AI**: [Early Adopter & Product Builder Intern, Creative AI](https://jobs.ashbyhq.com/openart/8dd52ba6-a5b6-40b1-95fe-50de352fa254/application?embed=true)
+- 2026-10-22 — **Procter & Gamble**: [Research & Development Intern](https://pg.wd5.myworkdayjobs.com/1000/job/READING-TECH-CENTER/Research---Development-Summer-Internship-2027_R000161362)
 - 2026-10-22 — **Qualcomm**: [Applied AI Engineer Intern](https://qualcomm.eightfold.ai/careers/job/446721664194)
-- 2026-10-22 — **Qualcomm**: [Camera Design Implementation Intern](https://qualcomm.eightfold.ai/careers/job/446721664170)
-- 2026-10-22 — **Skydio**: [Hardware Test and Reliability Intern - Summer 2027](https://jobs.ashbyhq.com/skydio/36d75e36-eeb2-4399-8887-37c4a5ff5800/application?embed=true)
-- 2026-10-22 — **TD Bank**: [Technology Intern](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/London-United-Kingdom/XMLNAME-2027-Summer-Internship---Technology_R_1518239)
-- 2026-10-22 — **Tesla**: [Internship - Electrical Engineer - Embedded Systems & Test Engineering - Supply Chain - Winter/Spring 2027](https://www.tesla.com/careers/search/job/287407)
-- 2026-10-22 — **Tesla**: [Internship - Product Management - Megapack Services - Winter/Spring 2027](https://www.tesla.com/careers/search/job/287443)
+- 2026-10-22 — **Qualcomm**: [Applied AI Engineering Intern - Hardware Systems](https://qualcomm.eightfold.ai/careers/job/446721678733)
 
 ## Recently closed
 
@@ -127,6 +127,7 @@ _Generated 2026-10-22_
 - Atoms — Machine Learning Engineer Intern
 - Atoms — Machine Learning Engineer Intern
 - Atoms — Software Engineer Intern
+- Atoms — Software Engineer Intern - Winter 2027
 - Autodesk — AI Data Developer Intern
 - Autodesk — AI Data Developer Intern - Winter
 - Autodesk — AI Developer Intern
@@ -160,6 +161,7 @@ _Generated 2026-10-22_
 - Avis Budget Group — Data Analytics Intern
 - Avis Budget Group — IT Engineering Intern - Accelerate
 - Avis Budget Group — Revenue Management Intern - Accelerate
+- Bank of Montreal — Data & AI Analyst Co-op Intern
 - Bank of Montreal — Workforce Analyst Co-op Intern
 - Barnes & Thornburg — Information Technology AI Intern
 - Beacon Software — Software Engineer Intern
@@ -178,6 +180,7 @@ _Generated 2026-10-22_
 - BP — Digital, Data, AI & Engineering Intern
 - BP — Summer Intern - Multiple Teams
 - BP — Supply, Trading & Shipping Intern
+- CACI — Software Engineer Intern
 - CACI — Software Engineer Intern
 - CACI — Software Engineer Intern
 - CACI — Software Engineer Intern
@@ -227,9 +230,12 @@ _Generated 2026-10-22_
 - Coinbase — Institutional Operations Intern
 - Coinbase — Product Manager (HR Technology) Intern
 - Coinbase — Product Manager Intern - HR Technology
+- Coinbase — Strategic Finance Intern
 - Collier Aerospace — AI Feature Development Intern - NCSG
 - Commerce Bank — Data Analyst Intern - Summer 2027
 - Commerce Bank — Data Science Intern
+- Compeer Financial — Engineering Intern
+- Compeer Financial — Engineering Intern
 - Continental Resources — Data Analyst Intern
 - Contoro — Robotics Test & Validation Intern
 - Core & Main — AI/ML Data Engineering Intern
@@ -247,6 +253,7 @@ _Generated 2026-10-22_
 - Cox — Product Management Intern - Summer 2027
 - Cox — Technical Intern
 - Crest Nicholson — Sales and Marketing Insights Intern
+- Crusoe — Software Engineer Intern
 - Daktronics — Hardware Design Co-op Intern - Firmware
 - Databricks — Software Engineer Intern
 - Databricks — Software Engineering Intern (2027 Start) - Winter
@@ -347,11 +354,30 @@ _Generated 2026-10-22_
 - General Motors — Race Strategy & Analytics Intern - IndyCar
 - Geneva Trading — Quantitative Trading Intern
 - Geotab — Product Coordinator Intern - Driver Compliance
+- GlobalFoundries — Silicon Photonics Advanced Packaging Intern
 - GM financial — Software Development Engineer Intern
+- Goldman Sachs — Associate Intern - The Core Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Associate Intern - Asset and Wealth Management
 - Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Intern - Americas
+- Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
 - Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
 - Goldman Sachs — Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Intern - Investment Banking
+- Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
+- Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
 - Goldman Sachs — Quantitative Strats Analyst Intern - Americas - Investment Banking
+- Goldman Sachs — Summer Analyst Intern
+- Goldman Sachs — Summer Analyst Intern - Americas - Investment Banking Quantitative Strats
+- Goldman Sachs — Summer Analyst Intern - Engineering
+- Goldman Sachs — Summer Analyst Intern - Engineering
+- Goldman Sachs — Summer Analyst Intern - FICC and Equities - Sales and Trading
+- Goldman Sachs — Summer Analyst Intern - The Core Quantitative Strats
+- Goldman Sachs — Summer Associate Intern
+- Goldman Sachs — Summer Associate Intern - Multiple Teams
 - Goodlord — Engineering Intern
 - Google — Data Scientist Intern - Product
 - Google — Hardware Engineer Intern
@@ -390,6 +416,8 @@ _Generated 2026-10-22_
 - Intuit — Mobile Software Engineer Intern - iOS
 - Invesco — Early Career Intern - Fixed Income Global Technology
 - Invesco — Early Career Intern - Fixed Income Global Technology
+- Invesco — Early Career Intern - Private Markets Product
+- Invesco — Early Career Intern - Private Markets Product
 - Invesco — Early Career Intern - Technology
 - Invesco — Early Career Intern - Technology
 - ISN Software — Product Strategy Intern
@@ -411,13 +439,14 @@ _Generated 2026-10-22_
 - Johnson & Johnson — Electrical Engineer Intern - Robotics R&D
 - Johnson & Johnson — Robotics Controls & Autonomy Intern - Robotics R&D
 - Johnson & Johnson — Software Engineer Intern - Robotics R&D
-- Johnson & Johnson — Technology and Digital Quality Intern
 - Jones Lang LaSalle — AI Intern
 - Judi Health — MBA Analytics Intern - Clinical Programs
 - Jump Trading — Campus FPGA Engineer Intern
 - Jump Trading — Campus FPGA Engineer (Intern)
 - KeyBank — Corporate Center – Measurement & Impact Intern
 - Khan Academy — Software Engineer Intern
+- KKR — Summer Analyst Intern - Insurance Risk - Data Science
+- KKR — Summer Analyst Intern - Insurance Risk - Quantitative Asset Liability Management/Liquidity Risk
 - KnowBe4 — Associate Product Manager Intern
 - Koch Industries — Data Science Intern
 - Koch Industries — Product Management Intern
@@ -565,6 +594,7 @@ _Generated 2026-10-22_
 - Philips — Digital Healthtech Product Management Intern
 - Philips — Service Sales Intern - IB Focus
 - Philips — Systems Test Engineering Intern
+- Pinterest — UX Quantitative Research Intern (USA)
 - Planview — Software Engineer Intern
 - POET — Software Developer Intern
 - Point C — Healthcare Informatics Intern

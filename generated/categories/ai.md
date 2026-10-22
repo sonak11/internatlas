@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🤖 AI Internships
 
-**579** tracked · **296** open now
+**579** tracked · **295** open now
 
 ## Current openings
 
@@ -45,7 +45,6 @@
 | [Autodesk](generated/companies/autodesk.md) | [Research Intern - AI Research](https://autodesk.wd1.myworkdayjobs.com/uni/job/Toronto-ON-CAN/PhD-Researcher--AI-Research_26WD101373) | Toronto | Onsite | 2026-10-07 | Rolling | 🟢 Open | ❔ |
 | [Autodesk](generated/companies/autodesk.md) | [Research Intern - AI Research](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/PhD-Researcher--AI-Research_26WD101373-1) | Toronto | Onsite | 2026-10-07 | Rolling | 🟢 Open | ❔ |
 | [Baird](generated/companies/baird.md) | [IT AI & Automation Intern](https://baird.wd1.myworkdayjobs.com/careers/job/WI-Milwaukee/Internship---IT-Operations-Automation---AI--Year-Round-_R2026986-1) | Milwaukee, WI | Onsite | 2026-09-08 | Rolling | 🟢 Open | ❔ |
-| [Bank of Montreal](generated/companies/bank-of-montreal.md) | [Data & AI Analyst Co-op Intern](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Data---AI-Analyst--Winter-2027--Co-op-Internship----4-Months_R260029651) | Toronto | Onsite | 2026-10-21 | Rolling | 🟢 Open | ❔ |
 | [Bild AI](generated/companies/bild-ai.md) | [AI/Software Engineer Intern](https://jobs.ashbyhq.com/bild-ai/b333f0f7-0ca6-4509-8697-9303396b5364/application?embed=true) | SF | Onsite | 2026-07-21 | Rolling | 🟢 Open | ❔ |
 | [Boeing](generated/companies/boeing.md) | [Artificial Intelligence Software Engineer Intern - Graduate Researcher Program](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tukwila-WA/Boeing-Engineering---Technology-Innovation-Graduate-Researcher-Program--Software-Engineering-Artificial-Intelligence-Intern_JR2026523687) | Tukwila, WA | Onsite | 2026-09-08 | Rolling | 🟢 Open | ❔ |
 | [Bosch](generated/companies/bosch.md) | [AI Research Intern - Wireless Perception](https://jobs.smartrecruiters.com/BoschGroup/c4621e0f-5c1e-4a67-adc4-0671cbcaf28c) | Pittsburgh, PA | Onsite | 2025-12-16 | Rolling | 🟢 Open | ❌ |
@@ -140,8 +139,7 @@
 | [Graphcore](generated/companies/graphcore.md) | [Software Engineer Intern - AI Compute Libraries & Performance](https://job-boards.greenhouse.io/graphcore/jobs/8894868002) | Bristol | Onsite | 2026-10-20 | Rolling | 🟢 Open | ❔ |
 | [GrayMatter Robotics](generated/companies/graymatter-robotics.md) | [AI Research Intern - Foundation Models](https://jobs.ashbyhq.com/graymatter-robotics/dea0f08d-ebf5-4e55-b9cb-e6302014f429/application?embed=true) | LA +1 | Onsite | 2026-08-26 | Rolling | 🟢 Open | ❔ |
 | [Helsing](generated/companies/helsing.md) | [AI Research Intern - 3D Computer Vision](https://helsing.ai/jobs/4941957101?gh_jid=4941957101) | London +4 | Onsite | 2026-07-30 | Rolling | 🟢 Open | ❔ |
-| [Hewlett Packard Enterprise](generated/companies/hewlett-packard-enterprise.md) | [Software Development Intern - AI-Assisted Development](https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/St-Laurent-Quebec-Canada/Software-Development-Intern--AI-Assisted-Development--Summer-2027------Stagiaire-en-dveloppement-de--logiciel--dveloppement-assist-par-l-IA--t-2027-_1214294-1) | Saint-Laurent | Onsite | 2026-10-21 | Rolling | 🟢 Open | ❔ |
-| [Hewlett Packard Enterprise](generated/companies/hewlett-packard-enterprise.md) | [Software Development Intern - AI-Assisted Development](https://hpe.wd5.myworkdayjobs.com/acjobsite/job/St-Laurent-Quebec-Canada/Software-Development-Intern--AI-Assisted-Development--Summer-2027------Stagiaire-en-dveloppement-de--logiciel--dveloppement-assist-par-l-IA--t-2027-_1214294) | Saint-Laurent | Onsite | 2026-10-21 | Rolling | 🟢 Open | ❔ |
+| [Hewlett Packard Enterprise](generated/companies/hewlett-packard-enterprise.md) | [Software Development Intern, AI-Assisted Development](https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/St-Laurent-Quebec-Canada/Software-Development-Intern--AI-Assisted-Development--Summer-2027------Stagiaire-en-dveloppement-de--logiciel--dveloppement-assist-par-l-IA--t-2027-_1214294-1) | Saint-Laurent | Onsite | 2026-10-21 | Rolling | 🟢 Open | ❔ |
 | [Hitachi](generated/companies/hitachi.md) | [AI Intern Supply Chain](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/AI-Intern--Supply-Chain--Winter-2027--12months-_R0145043) | Toronto | Onsite | 2026-10-20 | Rolling | 🟢 Open | ❔ |
 | [Hitachi](generated/companies/hitachi.md) | [Research Intern - Knowledge Engineering & Generative AI](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Santa-Clara-California-United-States/Research-Intern--Knowledge-Engineering---Generative-AI_R0148396) | Santa Clara, CA | Onsite | 2026-10-14 | Rolling | 🟢 Open | ❔ |
 | [HNTB](generated/companies/hntb.md) | [AI Business Process Developer Intern](https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/Austin-TX/Intern---AI-Business-Process-Developer--Summer-2027-_R-31865) | Austin, TX | Onsite | 2026-10-02 | Rolling | 🟢 Open | ❔ |
@@ -228,6 +226,7 @@
 | [Procter & Gamble](generated/companies/procter-gamble.md) | [Data & AI Engineering Intern](https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/Data---AI-Engineering-Internship_R000157499) | Cincinnati, OH | Onsite | 2026-08-24 | Rolling | 🟢 Open | ❔ |
 | [Procter & Gamble](generated/companies/procter-gamble.md) | [R&D Intern - AI Research Engineer](https://pg.wd5.myworkdayjobs.com/1000/job/MASON-BUS-AND-INNOVATION-CTR/R-D-PhD-Summer-Intern---AI-Research-Engineer_R000159371) | Mason, OH | Onsite | 2026-09-22 | Rolling | 🟢 Open | ❔ |
 | [Qualcomm](generated/companies/qualcomm.md) | [Applied AI Engineer Intern](https://qualcomm.eightfold.ai/careers/job/446721664194) | Markham | Onsite | 2026-10-22 | Rolling | 🟢 Open | ❔ |
+| [Qualcomm](generated/companies/qualcomm.md) | [Applied AI Engineering Intern - Hardware Systems](https://qualcomm.eightfold.ai/careers/job/446721678733) | Vancouver | Onsite | 2026-10-22 | Rolling | 🟢 Open | ❔ |
 | [Qualcomm](generated/companies/qualcomm.md) | [Edge AI and Display Hardware Architecture Development Engineering Intern - Interim Engineering Intern - Systems](https://qualcomm.eightfold.ai/careers/job/446721661830) | Markham | Onsite | 2026-10-21 | Rolling | 🟢 Open | ❔ |
 | [Qualcomm](generated/companies/qualcomm.md) | [Low Power AI Software Development Intern - Interim Engineering Intern - Software](https://qualcomm.eightfold.ai/careers/job/446721143440) | Markham | Onsite | 2026-09-18 | Rolling | 🟢 Open | ❔ |
 | [Qualcomm](generated/companies/qualcomm.md) | [Sensors Subsystem Engineering Intern - Low-Power AI - Audio](https://qualcomm.eightfold.ai/careers/job/446721109229) | Markham | Onsite | 2026-09-15 | Rolling | 🟢 Open | ❔ |
@@ -335,6 +334,7 @@
 | [Autodesk](generated/companies/autodesk.md) | [Research Intern - Context and Knowledge Systems for AI](https://autodesk.wd1.myworkdayjobs.com/uni/job/United-Kingdom---Remote/Intern--Research---Context-and-Knowledge-Systems-for-AI_26WD101097-1) | Remote | Remote | 2026-10-19 | Rolling | 🔴 Closed | ❔ |
 | [Autodesk](generated/companies/autodesk.md) | [Research Intern - Context and Knowledge Systems for AI](https://autodesk.wd1.myworkdayjobs.com/Ext/job/United-Kingdom---Remote/Intern--Research---Context-and-Knowledge-Systems-for-AI_26WD101097-2) | Remote | Remote | 2026-10-19 | Rolling | 🔴 Closed | ❔ |
 | [Autodesk](generated/companies/autodesk.md) | [Research Intern - Multimodal AI for Human Experience](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Boston-MA-USA/PhD-Researcher--Multimodal-AI-for-Human-Experience_26WD101433-1) | Boston, MA +1 | Onsite | 2026-10-05 | Rolling | 🔴 Closed | ❔ |
+| [Bank of Montreal](generated/companies/bank-of-montreal.md) | [Data & AI Analyst Co-op Intern](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Data---AI-Analyst--Winter-2027--Co-op-Internship----4-Months_R260029651) | Toronto | Onsite | 2026-10-21 | Rolling | 🔴 Closed | ❔ |
 | [Bank of Montreal](generated/companies/bank-of-montreal.md) | [Data and AI Operations Analyst Co-op/Internship - Cloud](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Data-and-AI-Operations-Analyst--Cloud---Fall-2026--Co-op-Internship----8-months_R260021724-1) | Toronto | Onsite | 2026-07-28 | Rolling | 🔴 Closed | ❔ |
 | [Bank of Montreal](generated/companies/bank-of-montreal.md) | [Data and AI Operations Analyst Co-op/Internship - Cloud](https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Data-and-AI-Operations-Analyst--Cloud---Fall-2026--Co-op-Internship----8-months_R260021724-2) | Toronto | Onsite | 2026-07-28 | Rolling | 🔴 Closed | ❔ |
 | [Bank of Montreal](generated/companies/bank-of-montreal.md) | [Data and AI Operations Analyst Intern/Co-op - Cloud - 8 months](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Data-and-AI-Operations-Analyst--Cloud---Fall-2026--Co-op-Internship----8-months_R260021724) | Toronto | Onsite | 2026-07-27 | Rolling | 🔴 Closed | ❔ |
@@ -599,11 +599,12 @@
 - Autodesk (10)
 - General Motors (10)
 - NVIDIA (7)
-- Bank of Montreal (6)
 - GE Vernova (6)
 - Jump Trading (6)
+- Bank of Montreal (6)
 - ICF International (5)
 - Intel (5)
+- Qualcomm (5)
 - Veeam Software (5)
 - PricewaterhouseCoopers (PwC) (5)
 - Astreya (4)
@@ -613,7 +614,6 @@
 - Marvell (4)
 - Meta (4)
 - onsemi (4)
-- Qualcomm (4)
 - Rockwell Automation (4)
 - Booz Allen (4)
 - Cloudflare (4)
@@ -656,7 +656,6 @@
 - Equitable Bank (2)
 - Eulerity (2)
 - Figma (2)
-- Hewlett Packard Enterprise (2)
 - Hitachi (2)
 - HNTB (2)
 - Itron (2)
@@ -729,6 +728,7 @@
 - Graphcore (1)
 - GrayMatter Robotics (1)
 - Helsing (1)
+- Hewlett Packard Enterprise (1)
 - Homebase (1)
 - Interac (1)
 - Intuitive Surgical (1)

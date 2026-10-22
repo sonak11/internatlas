@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🔬 Research Internships
 
-**228** tracked · **136** open now
+**230** tracked · **138** open now
 
 ## Current openings
 
@@ -56,6 +56,7 @@
 | [Huck Adventures](generated/companies/huck-adventures.md) | [Research Analyst Intern](https://jobs.smartrecruiters.com/HuckAdventures/743999747985535) | Boulder, CO | Onsite | 2026-08-18 | Rolling | 🟢 Open | ❔ |
 | [Immuta](generated/companies/immuta.md) | [Product Research Intern](https://jobs.lever.co/immuta/18aabf0a-8b27-4b7d-8a96-6995a7f8847b/apply) | College Park, MD | Onsite | 2026-09-09 | Rolling | 🟢 Open | ❔ |
 | [Intel](generated/companies/intel.md) | [Software Research Intern - PhD](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Software-Solutions-PhD-Intern-New-2027_JR0287314) | Hillsboro, OR | Onsite | 2026-09-25 | Rolling | 🟢 Open | ❔ |
+| [International Rescue Committee](generated/companies/international-rescue-committee.md) | [Development Data and Research Intern](https://theirc.wd1.myworkdayjobs.com/en-US/External_Careers/job/Silver-Spring-MD-USA/Development-Data-and-Research-Intern----Spring2027-_JR00005497) | Silver Spring, MD | Onsite | 2026-10-22 | Rolling | 🟢 Open | ❔ |
 | [J.M. Smucker](generated/companies/j-m-smucker.md) | [Sensory and Products Research Intern - Summer 2027](https://smucker.wd5.myworkdayjobs.com/US_External_Careers/job/Orrville-OH/Sensory-and-Products-Research-Intern--Summer-2027_115677) | Orrville, OH | Onsite | 2026-08-25 | Rolling | 🟢 Open | ❔ |
 | [Jane Street](generated/companies/jane-street.md) | [Fundamental Research Analyst Intern](https://www.janestreet.com/join-jane-street/position/8347286002/) | New York, NY | Onsite | 2026-07-24 | Rolling | 🟢 Open | ❔ |
 | [Jane Street](generated/companies/jane-street.md) | [Tools and Compilers Research and Development Intern](https://www.janestreet.com/join-jane-street/position/5869205002/) | New York, NY | Onsite | 2026-07-24 | Rolling | 🟢 Open | ✅ |
@@ -94,6 +95,7 @@
 | [Pennsylvania State University](generated/companies/pennsylvania-state-university.md) | [Research Engineering Intern - Strategic Systems Operations Division - Applied Research Laboratory](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Research-Engineering-Interns_REQ_0000076869) | State College, PA +1 | Onsite | 2026-06-20 | Rolling | 🟢 Open | ❔ |
 | [Pika](generated/companies/pika.md) | [Research Intern - BS/MS/PhD](https://jobs.ashbyhq.com/pika/e135acb1-2a0b-47b4-81b2-3cb0f787657a/application) | Palo Alto, CA | Onsite | 2026-07-10 | Rolling | 🟢 Open | ❔ |
 | [Point72](generated/companies/point72.md) | [Fundamental Researcher Intern, Canvas](https://boards.greenhouse.io/point72/jobs/8885693002?gh_jid=8885693002) | New York, NY | Onsite | 2026-10-14 | Rolling | 🟢 Open | ❔ |
+| [Procter & Gamble](generated/companies/procter-gamble.md) | [Research & Development Intern](https://pg.wd5.myworkdayjobs.com/1000/job/READING-TECH-CENTER/Research---Development-Summer-Internship-2027_R000161362) | Reading | Onsite | 2026-10-22 | Rolling | 🟢 Open | ❔ |
 | [Procter & Gamble](generated/companies/procter-gamble.md) | [Research and Development PhD Intern](https://pg.wd5.myworkdayjobs.com/1000/job/MASON-BUS-AND-INNOVATION-CTR/R-D-PhD-Summer-Intern--AI-Agents-for-Automated-Machine-Learning-Research_R000158985) | Mason, OH | Onsite | 2026-09-21 | Rolling | 🟢 Open | ❔ |
 | [Qorvo](generated/companies/qorvo.md) | [Research Engineer Intern - High Performance Analog](https://careers.qorvo.com/job/Richardson-Research-Engineering-Intern-TX-75080/1424726900/?ats=successfactors) | Richardson, TX | Onsite | 2026-08-31 | Rolling | 🟢 Open | ❔ |
 | [Qorvo](generated/companies/qorvo.md) | [Research Scientist Intern](https://careers.qorvo.com/job/Richardson-Research-Scientist-Intern-TX-75080/1424705400/?ats=successfactors) | Richardson, TX | Onsite | 2026-08-31 | Rolling | 🟢 Open | ❔ |
@@ -254,6 +256,7 @@
 - Dow Jones (3)
 - Eaton (3)
 - Field AI (3)
+- Procter & Gamble (3)
 - Snap (3)
 - The Federal Reserve System (3)
 - Abundant (2)
@@ -264,7 +267,6 @@
 - Jane Street (2)
 - KLA (2)
 - Mistral AI (2)
-- Procter & Gamble (2)
 - Qorvo (2)
 - Salesforce (2)
 - Shure (2)
@@ -290,6 +292,7 @@
 - GlobalFoundries (1)
 - Huck Adventures (1)
 - Immuta (1)
+- International Rescue Committee (1)
 - J.M. Smucker (1)
 - Jump Trading (1)
 - KLA Corporation (1)

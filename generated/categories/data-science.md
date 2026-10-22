@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 📊 Data Science Internships
 
-**261** tracked · **147** open now
+**261** tracked · **146** open now
 
 ## Current openings
 
@@ -76,7 +76,6 @@
 | [Intel](generated/companies/intel.md) | [Data Science / Software Engineering PhD Intern](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-California-Santa-Clara/AI-Data-Science---Software-Engineering-PhD-Intern-New-2027_JR0288138) | Santa Clara, CA | Onsite | 2026-10-20 | Rolling | 🟢 Open | ❔ |
 | [Johns Hopkins Applied Physics Laboratory](generated/companies/johns-hopkins-applied-physics-laboratory.md) | [Data Scientist Intern - Data Science - System Performance Evaluation](https://careers.jhuapl.edu/jobs/59800?icims=1) | Laurel, MD | Onsite | 2026-08-25 | Rolling | 🟢 Open | ❔ |
 | [Ketjen](generated/companies/ketjen.md) | [Data Science Intern](https://albemarle.wd5.myworkdayjobs.com/en-US/ketjenexternal/job/Houston-Texas-United-States-of-America/Ketjen-Summer-2027-Data-Science-Internship_REQ-31411) | Houston, TX | Onsite | 2026-09-10 | Rolling | 🟢 Open | ❔ |
-| [KKR](generated/companies/kkr.md) | [Summer Analyst Intern - Insurance Risk - Data Science](https://www.kkr.com/careers/student-careers/student-career-opportunities/post?gh_jid=6200944004) | NYC | Onsite | 2026-10-06 | Rolling | 🟢 Open | ❔ |
 | [Lawrence Livermore National Laboratory (LLNL)](generated/companies/lawrence-livermore-national-laboratory-llnl.md) | [Data Science Undergraduate Student Intern - Summer 2027](https://jobs.smartrecruiters.com/LLNL/3743990015289136) | Livermore, CA | Onsite | 2026-09-16 | Rolling | 🟢 Open | ❔ |
 | [LexisNexis Risk Solutions](generated/companies/lexisnexis-risk-solutions.md) | [Data Science & Fraud Analytics Placement Intern](https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/London-Wall/Intern_R119888) | London | Onsite | 2026-10-22 | Rolling | 🟢 Open | ❔ |
 | [LexisNexis Risk Solutions](generated/companies/lexisnexis-risk-solutions.md) | [Data Science Intern](https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Alpharetta-GA-Alderman/Data-Science-Intern_R118955) | Alpharetta, GA | Onsite | 2026-10-05 | Rolling | 🟢 Open | ❔ |
@@ -214,6 +213,7 @@
 | [Itron](generated/companies/itron.md) | [Data Science Intern - Distributed Intelligence](https://itron.wd5.myworkdayjobs.com/Itron/job/United-States-of-America-Washington-Liberty-Lake/Intern---Data-Science--Distributed-Intelligence_JR102942) | Liberty Lake, WA | Onsite | 2026-09-28 | Rolling | 🔴 Closed | ❔ |
 | [Johns Hopkins Applied Physics Laboratory](generated/companies/johns-hopkins-applied-physics-laboratory.md) | [Data Science & Autonomous Systems Intern - Data Science & Autonomous Systems - Critical Infrastructure Protection](https://careers.jhuapl.edu/jobs/60432?icims=1) | Laurel, MD | Onsite | 2026-10-10 | Rolling | 🔴 Closed | ❔ |
 | [Johns Hopkins Applied Physics Laboratory](generated/companies/johns-hopkins-applied-physics-laboratory.md) | [Software Engineer/Data Scientist/Ontologist Intern - Threat Analytic Systems](https://careers.jhuapl.edu/jobs/59997?icims=1) | Laurel, MD | Onsite | 2026-09-10 | Rolling | 🔴 Closed | ❔ |
+| [KKR](generated/companies/kkr.md) | [Summer Analyst Intern - Insurance Risk - Data Science](https://www.kkr.com/careers/student-careers/student-career-opportunities/post?gh_jid=6200944004) | NYC | Onsite | 2026-10-06 | Rolling | 🔴 Closed | ❔ |
 | [Koch Industries](generated/companies/koch-industries.md) | [Data Science Intern](https://koch.avature.net/en_US/careers/JobDetail/195341) | Atlanta, GA | Onsite | 2026-10-08 | Rolling | 🔴 Closed | ❔ |
 | [Lazard](generated/companies/lazard.md) | [Data Scientist Intern](https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6604) | NYC | Onsite | 2026-09-21 | Rolling | 🔴 Closed | ❔ |
 | [Leidos](generated/companies/leidos.md) | [Data Science Intern](https://leidos.wd5.myworkdayjobs.com/External/job/San-Diego-CA/Data-Science-Intern_R-00190740) | San Diego, CA | Onsite | 2026-08-28 | Rolling | 🔴 Closed | ❔ |
@@ -353,7 +353,6 @@
 - Inmar Intelligence (1)
 - Intel (1)
 - Ketjen (1)
-- KKR (1)
 - Lawrence Livermore National Laboratory (LLNL) (1)
 - Liberty Mutual (1)
 - Louisiana Blue (1)
@@ -405,6 +404,7 @@
 - Honeywell (1)
 - IntelliGenesis (1)
 - Itron (1)
+- KKR (1)
 - Koch Industries (1)
 - Lazard (1)
 - LexisNexis Legal & Professional (1)

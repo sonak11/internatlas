@@ -17,6 +17,7 @@
 | Waymo | [2027 Summer Intern, MBA, Operations Planning](https://careers.withwaymo.com/jobs?gh_jid=8165014) | San Francisco | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
 | Waymo | [2027 Summer Intern, MBA, Salesforce Product Owner](https://careers.withwaymo.com/jobs?gh_jid=8198582) | Los Angeles +1 | Onsite | 2026-09-15 | Rolling | 🟢 Open | ❔ |
 | Waymo | [2027 Summer Intern, MBA, Strategic Finance](https://careers.withwaymo.com/jobs?gh_jid=8197014) | San Francisco | Onsite | 2026-09-14 | Rolling | 🟢 Open | ❔ |
+| Waymo | [2027 Summer Intern, MS, PhD, Quantitative Software Engineer](https://careers.withwaymo.com/jobs?gh_jid=8197554) | Mountain View +2 | Onsite | 2026-09-16 | Rolling | 🟢 Open | ❔ |
 | Waymo | [2027 Summer Intern, MS, PhD, Software Engineer](https://careers.withwaymo.com/jobs?gh_jid=8250220) | Mountain View +1 | Onsite | 2026-10-06 | Rolling | 🟢 Open | ❔ |
 | Waymo | [2027 Summer Intern, MS, Software Engineering, Behavior Test](https://careers.withwaymo.com/jobs?gh_jid=8174504) | San Francisco | Onsite | 2026-09-03 | Rolling | 🟢 Open | ❔ |
 | Waymo | [2027 Summer Intern, MS/PhD,  Research, Perception Foundation Models](https://careers.withwaymo.com/jobs?gh_jid=8257801) | Mountain View, CA | Onsite | 2026-10-07 | Rolling | 🟢 Open | ❔ |
@@ -27,7 +28,6 @@
 | Waymo | [2027 Summer Intern, MS/PhD, Machine Learning, Driver Refinement Foundations](https://careers.withwaymo.com/jobs?gh_jid=8243556) | Mountain View, CA | Onsite | 2026-10-01 | Rolling | 🟢 Open | ❔ |
 | Waymo | [2027 Summer Intern, MS/PhD, Machine Learning, Planning/Prediction](https://careers.withwaymo.com/jobs?gh_jid=8279620) | Mountain View, CA | Onsite | 2026-10-13 | Rolling | 🟢 Open | ❔ |
 | Waymo | [2027 Summer Intern, MS/PhD, Machine Learning, Simulation Realism](https://careers.withwaymo.com/jobs?gh_jid=8208465) | London +1 | Onsite | 2026-09-17 | Rolling | 🟢 Open | ❔ |
-| Waymo | [2027 Summer Intern, MS/PhD, Machine Learning, Simulator Evaluation](https://careers.withwaymo.com/jobs?gh_jid=8202801) | Mountain View +1 | Onsite | 2026-09-16 | Rolling | 🟢 Open | ❔ |
 | Waymo | [2027 Summer Intern, MS/PhD, ML Systems & Behavior Discovery](https://careers.withwaymo.com/jobs?gh_jid=8257159) | Mountain View, CA | Onsite | 2026-10-05 | Rolling | 🟢 Open | ❔ |
 | Waymo | [2027 Summer Intern, MS/PhD, Perception, Evaluation](https://careers.withwaymo.com/jobs?gh_jid=8248327) | Mountain View, CA | Onsite | 2026-10-02 | Rolling | 🟢 Open | ❔ |
 | Waymo | [2027 Summer Intern, MS/PhD, Perception, Machine Learning](https://careers.withwaymo.com/jobs?gh_jid=8227411) | Mountain View, CA | Onsite | 2026-09-25 | Rolling | 🟢 Open | ❔ |
@@ -55,7 +55,6 @@
 | Waymo | [2027 Summer Intern, PhD, Perception Systems Engineering: Pedestrian Detection Precision](https://careers.withwaymo.com/jobs?gh_jid=8234670) | San Francisco | Onsite | 2026-09-28 | Rolling | 🟢 Open | ❔ |
 | Waymo | [2027 Summer Intern, PhD, Perception/Road Understanding, ML Engineer](https://careers.withwaymo.com/jobs?gh_jid=8224746) | Mountain View +1 | Onsite | 2026-09-23 | Rolling | 🟢 Open | ❔ |
 | Waymo | [2027 Summer Intern, PhD, Planner Machine Learning](https://careers.withwaymo.com/jobs?gh_jid=8234876) | San Francisco +1 | Onsite | 2026-09-29 | Rolling | 🟢 Open | ❔ |
-| Waymo | [2027 Summer Intern, PhD, Quantitative Software Engineer](https://careers.withwaymo.com/jobs?gh_jid=8197554) | Mountain View +2 | Onsite | 2026-09-16 | Rolling | 🟢 Open | ❔ |
 | Waymo | [2027 Summer Intern, PhD, Research Scientist, Visual Reasoning](https://careers.withwaymo.com/jobs?gh_jid=8292367) | Mountain View, CA | Onsite | 2026-10-19 | Rolling | 🟢 Open | ❔ |
 | Waymo | [2027 Summer Intern, PhD, Research, AV Planning](https://careers.withwaymo.com/jobs?gh_jid=8258070) | Mountain View, CA | Onsite | 2026-10-09 | Rolling | 🟢 Open | ❔ |
 | Waymo | [2027 Summer Intern, PhD, Research, Behavior Post-training](https://careers.withwaymo.com/jobs?gh_jid=8289816) | Mountain View, CA +1 | Onsite | 2026-10-19 | Rolling | 🟢 Open | ❔ |
@@ -66,6 +65,7 @@
 | Waymo | [2027 Summer Intern, PhD, Safety Research, Human Behavior Analytics](https://careers.withwaymo.com/jobs?gh_jid=8197899) | Mountain View, CA | Onsite | 2026-09-14 | Rolling | 🟢 Open | ❔ |
 | Waymo | [2027 Summer Intern, PhD, Software Engineer, Simulation](https://careers.withwaymo.com/jobs?gh_jid=8227640) | Mountain View, CA | Onsite | 2026-09-24 | Rolling | 🟢 Open | ❔ |
 | Waymo | [2027 Summer Intern, PhD, Vehicle Intent and Prediction](https://careers.withwaymo.com/jobs?gh_jid=8189848) | Mountain View +1 | Onsite | 2026-09-10 | Rolling | 🟢 Open | ❔ |
+| Waymo | [Software Engineer Intern - MS/PhD](https://careers.withwaymo.com/jobs?gh_jid=8202801) | Mountain View, CA | Onsite | 2026-09-16 | Rolling | 🟢 Open | ❔ |
 | Waymo | [2027 Summer Intern, BS, Software Engineering, Labeling](https://careers.withwaymo.com/jobs?gh_jid=8238525) | Mountain View, CA | Onsite | 2026-09-30 | Rolling | 🔴 Closed | ❔ |
 | Waymo | [2027 Summer Intern, BS, SysEng Software Engineer](https://careers.withwaymo.com/jobs?gh_jid=8174099) | Mountain View +1 | Onsite | 2026-09-03 | Rolling | 🔴 Closed | ❔ |
 | Waymo | [2027 Summer Intern, BS/MS, Embedded, Software Engineer](https://careers.withwaymo.com/jobs?gh_jid=8221198) | Mountain View, CA | Onsite | 2026-09-21 | Rolling | 🔴 Closed | ❔ |

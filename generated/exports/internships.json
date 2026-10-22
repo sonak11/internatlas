@@ -1,6 +1,6 @@
 {
   "generated": "2026-10-22",
-  "count": 6782,
+  "count": 6787,
   "internships": [
     {
       "schema_version": "1.0",
@@ -34339,7 +34339,7 @@
         "discovered": "2026-08-07",
         "last_verified": "2026-10-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -39044,7 +39044,7 @@
         "discovered": "2026-10-22",
         "last_verified": "2026-10-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -59641,7 +59641,7 @@
         "discovered": "2026-08-31",
         "last_verified": "2026-10-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -78069,7 +78069,7 @@
         "discovered": "2026-09-10",
         "last_verified": "2026-10-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:ats"
@@ -79191,7 +79191,7 @@
         "discovered": "2026-08-25",
         "last_verified": "2026-10-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -79245,7 +79245,7 @@
         "discovered": "2026-08-25",
         "last_verified": "2026-10-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -84887,7 +84887,7 @@
         "discovered": "2026-10-22",
         "last_verified": "2026-10-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -92354,6 +92354,59 @@
       "tags": [
         "auto-ingested",
         "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "doordash-mechanical-engineering-intern-labs-summer-2027-2027",
+      "company": {
+        "name": "DoorDash",
+        "slug": "doordash",
+        "career_page": "https://careers.doordash.com/"
+      },
+      "role": "Mechanical Engineering, Intern - Labs (Summer 2027)",
+      "category": "software-engineering",
+      "apply_url": "https://job-boards.greenhouse.io/doordashusa/jobs/8313401",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Oakland",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-22",
+        "discovered": "2026-10-22",
+        "last_verified": "2026-10-22"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
       ]
     },
     {
@@ -103427,6 +103480,58 @@
       "dates": {
         "posted": "2026-09-10",
         "discovered": "2026-09-10",
+        "last_verified": "2026-10-22"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "eqt-corporation-midstream-services-intern-2027",
+      "company": {
+        "name": "EQT Corporation",
+        "slug": "eqt-corporation"
+      },
+      "role": "Midstream Services Intern",
+      "category": "software-engineering",
+      "apply_url": "https://job-boards.greenhouse.io/eqtcorporation/jobs/5459572008",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Canonsburg",
+          "state": "PA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-22",
+        "discovered": "2026-10-22",
         "last_verified": "2026-10-22"
       },
       "status": "open",
@@ -129333,7 +129438,7 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-10-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -130240,7 +130345,7 @@
         "discovered": "2026-08-27",
         "last_verified": "2026-10-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -130345,7 +130450,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-10-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -130451,7 +130556,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-10-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -130503,7 +130608,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -130609,7 +130714,7 @@
         "discovered": "2026-09-16",
         "last_verified": "2026-10-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -130662,7 +130767,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -130767,7 +130872,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -130818,7 +130923,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -130869,7 +130974,7 @@
         "discovered": "2026-10-10",
         "last_verified": "2026-10-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -130920,7 +131025,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-10-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -131023,7 +131128,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -131232,7 +131337,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -131286,7 +131391,7 @@
         "discovered": "2026-10-11",
         "last_verified": "2026-10-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -131393,7 +131498,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -131447,7 +131552,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-10-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -131549,7 +131654,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -131704,7 +131809,7 @@
         "discovered": "2026-08-29",
         "last_verified": "2026-10-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -131757,7 +131862,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-10-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -140957,12 +141062,12 @@
     },
     {
       "schema_version": "1.0",
-      "id": "hewlett-packard-enterprise-software-development-intern-ai-assisted-development-2027-9b1abb",
+      "id": "hewlett-packard-enterprise-software-development-intern-ai-assisted-development-2027",
       "company": {
         "name": "Hewlett Packard Enterprise",
         "slug": "hewlett-packard-enterprise"
       },
-      "role": "Software Development Intern - AI-Assisted Development",
+      "role": "Software Development Intern, AI-Assisted Development",
       "category": "ai",
       "apply_url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/St-Laurent-Quebec-Canada/Software-Development-Intern--AI-Assisted-Development--Summer-2027------Stagiaire-en-dveloppement-de--logiciel--dveloppement-assist-par-l-IA--t-2027-_1214294-1",
       "season": "summer",
@@ -141003,58 +141108,7 @@
       "status": "open",
       "tags": [
         "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "hewlett-packard-enterprise-software-development-intern-ai-assisted-development-2027",
-      "company": {
-        "name": "Hewlett Packard Enterprise",
-        "slug": "hewlett-packard-enterprise"
-      },
-      "role": "Software Development Intern - AI-Assisted Development",
-      "category": "ai",
-      "apply_url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/St-Laurent-Quebec-Canada/Software-Development-Intern--AI-Assisted-Development--Summer-2027------Stagiaire-en-dveloppement-de--logiciel--dveloppement-assist-par-l-IA--t-2027-_1214294",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Saint-Laurent",
-          "country": "Montreal"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-10-21",
-        "discovered": "2026-10-22",
-        "last_verified": "2026-10-22"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
+        "src:vanshb03"
       ]
     },
     {
@@ -156654,6 +156708,60 @@
     },
     {
       "schema_version": "1.0",
+      "id": "international-rescue-committee-development-data-and-research-intern-2027",
+      "company": {
+        "name": "International Rescue Committee",
+        "slug": "international-rescue-committee"
+      },
+      "role": "Development Data and Research Intern",
+      "category": "research",
+      "apply_url": "https://theirc.wd1.myworkdayjobs.com/en-US/External_Careers/job/Silver-Spring-MD-USA/Development-Data-and-Research-Intern----Spring2027-_JR00005497",
+      "season": "spring",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Silver Spring",
+          "state": "MD",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-22",
+        "discovered": "2026-10-22",
+        "last_verified": "2026-10-22"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "international-rescue-committee-irc-data-integration-reporting-intern-2026",
       "company": {
         "name": "International Rescue Committee (IRC)",
@@ -158307,7 +158415,7 @@
         "discovered": "2026-09-18",
         "last_verified": "2026-10-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -158359,7 +158467,7 @@
         "discovered": "2026-09-18",
         "last_verified": "2026-10-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -163307,9 +163415,9 @@
       "dates": {
         "posted": "2026-09-14",
         "discovered": "2026-09-14",
-        "last_verified": "2026-10-20"
+        "last_verified": "2026-10-22"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -170365,7 +170473,7 @@
         "discovered": "2026-10-06",
         "last_verified": "2026-10-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -170416,7 +170524,7 @@
         "discovered": "2026-10-06",
         "last_verified": "2026-10-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -239477,7 +239585,7 @@
         "discovered": "2026-10-09",
         "last_verified": "2026-10-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:ats"
@@ -243848,6 +243956,57 @@
         "last_verified": "2026-09-23"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "procter-gamble-research-development-intern-2027",
+      "company": {
+        "name": "Procter & Gamble",
+        "slug": "procter-gamble"
+      },
+      "role": "Research & Development Intern",
+      "category": "research",
+      "apply_url": "https://pg.wd5.myworkdayjobs.com/1000/job/READING-TECH-CENTER/Research---Development-Summer-Internship-2027_R000161362",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Reading",
+          "country": "UK"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-22",
+        "discovered": "2026-10-22",
+        "last_verified": "2026-10-22"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -248531,6 +248690,59 @@
     },
     {
       "schema_version": "1.0",
+      "id": "qualcomm-applied-ai-engineering-intern-hardware-systems-2027",
+      "company": {
+        "name": "Qualcomm",
+        "slug": "qualcomm"
+      },
+      "role": "Applied AI Engineering Intern - Hardware Systems",
+      "category": "ai",
+      "apply_url": "https://qualcomm.eightfold.ai/careers/job/446721678733",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Vancouver",
+          "country": "BC"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-22",
+        "discovered": "2026-10-22",
+        "last_verified": "2026-10-22"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "qualcomm-automotive-engineering-intern-2027",
       "company": {
         "name": "Qualcomm",
@@ -248572,6 +248784,57 @@
       "dates": {
         "posted": "2026-10-16",
         "discovered": "2026-10-17",
+        "last_verified": "2026-10-22"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "qualcomm-camera-design-implementation-intern-2027-ddc724",
+      "company": {
+        "name": "Qualcomm",
+        "slug": "qualcomm"
+      },
+      "role": "Camera Design Implementation Intern",
+      "category": "design",
+      "apply_url": "https://qualcomm.eightfold.ai/careers/job/446721678727",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Vancouver",
+          "country": "BC"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-22",
+        "discovered": "2026-10-22",
         "last_verified": "2026-10-22"
       },
       "status": "open",
@@ -250405,7 +250668,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "radiance-technologies-modeling-engineer-intern-analytics-simulation-sciences-mass-2027-a41d16",
+      "id": "radiance-technologies-modeling-engineer-intern-analytics-simulation-sciences-mass-2027",
       "company": {
         "name": "Radiance Technologies",
         "slug": "radiance-technologies"
@@ -250413,58 +250676,6 @@
       "role": "Modeling Engineer Intern - Analytics, Simulation Sciences, Mass",
       "category": "software-engineering",
       "apply_url": "https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Beavercreek-OH/XMLNAME-2027-Modeling--Analytics----Simulation-Sciences--MASS--Engineer-Intern_HR102440-1",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Beavercreek",
-          "state": "OH",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-09-24",
-        "discovered": "2026-09-25",
-        "last_verified": "2026-10-22"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "radiance-technologies-modeling-engineer-intern-analytics-simulation-sciences-mass-2027",
-      "company": {
-        "name": "Radiance Technologies",
-        "slug": "radiance-technologies"
-      },
-      "role": "Modeling Engineer Intern - Analytics & Simulation Sciences - Mass",
-      "category": "software-engineering",
-      "apply_url": "https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Beavercreek-OH/Modeling--Analytics----Simulation-Sciences--MASS--Engineer-Intern_HR102436",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
@@ -261981,7 +262192,7 @@
       "status": "open",
       "tags": [
         "auto-ingested",
-        "src:simplify"
+        "src:vanshb03"
       ]
     },
     {
@@ -270725,7 +270936,7 @@
       "status": "open",
       "tags": [
         "auto-ingested",
-        "src:simplify"
+        "src:vanshb03"
       ]
     },
     {
@@ -271956,6 +272167,60 @@
         "last_verified": "2026-10-10"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "rtx-software-engineer-intern-2027-afbae3",
+      "company": {
+        "name": "RTX",
+        "slug": "rtx"
+      },
+      "role": "Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CO-AURORA-S77--16470-E-Hughes-Dr--BLDG-S77/Software-Engineering--Intern--Summer-2027-_01881520",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Aurora",
+          "state": "CO",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-22",
+        "discovered": "2026-10-22",
+        "last_verified": "2026-10-22"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -355624,66 +355889,6 @@
     },
     {
       "schema_version": "1.0",
-      "id": "waymo-2027-summer-intern-ms-phd-machine-learning-simulator-evaluat-2027",
-      "company": {
-        "name": "Waymo",
-        "slug": "waymo",
-        "career_page": "https://waymo.com/careers"
-      },
-      "role": "2027 Summer Intern, MS/PhD, Machine Learning, Simulator Evaluation",
-      "category": "machine-learning",
-      "apply_url": "https://careers.withwaymo.com/jobs?gh_jid=8202801",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Mountain View",
-          "country": "USA"
-        },
-        {
-          "city": "Mountain View",
-          "state": "CA",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [
-          "masters",
-          "phd"
-        ],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-09-16",
-        "discovered": "2026-09-17",
-        "last_verified": "2026-10-22"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:ats"
-      ]
-    },
-    {
-      "schema_version": "1.0",
       "id": "waymo-2027-summer-intern-ms-phd-ml-systems-behavior-discovery-2027",
       "company": {
         "name": "Waymo",
@@ -356012,6 +356217,69 @@
       "dates": {
         "posted": "2026-09-18",
         "discovered": "2026-09-25",
+        "last_verified": "2026-10-22"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "waymo-2027-summer-intern-ms-phd-quantitative-software-engineer-2027",
+      "company": {
+        "name": "Waymo",
+        "slug": "waymo",
+        "career_page": "https://waymo.com/careers"
+      },
+      "role": "2027 Summer Intern, MS, PhD, Quantitative Software Engineer",
+      "category": "quant",
+      "apply_url": "https://careers.withwaymo.com/jobs?gh_jid=8197554",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Mountain View",
+          "country": "USA"
+        },
+        {
+          "city": "SF",
+          "country": "USA"
+        },
+        {
+          "city": "Mountain View",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-16",
+        "discovered": "2026-10-22",
         "last_verified": "2026-10-22"
       },
       "status": "open",
@@ -357509,69 +357777,6 @@
     },
     {
       "schema_version": "1.0",
-      "id": "waymo-2027-summer-intern-phd-quantitative-software-engineer-2027",
-      "company": {
-        "name": "Waymo",
-        "slug": "waymo",
-        "career_page": "https://waymo.com/careers"
-      },
-      "role": "2027 Summer Intern, PhD, Quantitative Software Engineer",
-      "category": "quant",
-      "apply_url": "https://careers.withwaymo.com/jobs?gh_jid=8197554",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Mountain View",
-          "country": "USA"
-        },
-        {
-          "city": "SF",
-          "country": "USA"
-        },
-        {
-          "city": "Mountain View",
-          "state": "CA",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [
-          "phd"
-        ],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-09-16",
-        "discovered": "2026-09-16",
-        "last_verified": "2026-10-22"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:ats"
-      ]
-    },
-    {
-      "schema_version": "1.0",
       "id": "waymo-2027-summer-intern-phd-research-av-planning-2027",
       "company": {
         "name": "Waymo",
@@ -358332,6 +358537,61 @@
         "last_verified": "2026-10-21"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "waymo-software-engineer-intern-ms-phd-2027",
+      "company": {
+        "name": "Waymo",
+        "slug": "waymo"
+      },
+      "role": "Software Engineer Intern - MS/PhD",
+      "category": "software-engineering",
+      "apply_url": "https://careers.withwaymo.com/jobs?gh_jid=8202801",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Mountain View",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters",
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-16",
+        "discovered": "2026-10-22",
+        "last_verified": "2026-10-22"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"

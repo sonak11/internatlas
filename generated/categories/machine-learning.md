@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🧠 Machine Learning Internships
 
-**321** tracked · **227** open now
+**320** tracked · **226** open now
 
 ## Current openings
 
@@ -218,7 +218,6 @@
 | [Waymo](generated/companies/waymo.md) | [2027 Summer Intern, MS/PhD, Machine Learning, Driver Refinement Foundations](https://careers.withwaymo.com/jobs?gh_jid=8243556) | Mountain View, CA | Onsite | 2026-10-01 | Rolling | 🟢 Open | ❔ |
 | [Waymo](generated/companies/waymo.md) | [2027 Summer Intern, MS/PhD, Machine Learning, Planning/Prediction](https://careers.withwaymo.com/jobs?gh_jid=8279620) | Mountain View, CA | Onsite | 2026-10-13 | Rolling | 🟢 Open | ❔ |
 | [Waymo](generated/companies/waymo.md) | [2027 Summer Intern, MS/PhD, Machine Learning, Simulation Realism](https://careers.withwaymo.com/jobs?gh_jid=8208465) | London +1 | Onsite | 2026-09-17 | Rolling | 🟢 Open | ❔ |
-| [Waymo](generated/companies/waymo.md) | [2027 Summer Intern, MS/PhD, Machine Learning, Simulator Evaluation](https://careers.withwaymo.com/jobs?gh_jid=8202801) | Mountain View +1 | Onsite | 2026-09-16 | Rolling | 🟢 Open | ❔ |
 | [Waymo](generated/companies/waymo.md) | [2027 Summer Intern, MS/PhD, ML Systems & Behavior Discovery](https://careers.withwaymo.com/jobs?gh_jid=8257159) | Mountain View, CA | Onsite | 2026-10-05 | Rolling | 🟢 Open | ❔ |
 | [Waymo](generated/companies/waymo.md) | [2027 Summer Intern, MS/PhD, Perception, Machine Learning](https://careers.withwaymo.com/jobs?gh_jid=8227411) | Mountain View, CA | Onsite | 2026-09-25 | Rolling | 🟢 Open | ❔ |
 | [Waymo](generated/companies/waymo.md) | [2027 Summer Intern, MS/PhD, Sim-Realism ML Infrastructure](https://careers.withwaymo.com/jobs?gh_jid=8205680) | London +1 | Onsite | 2026-09-18 | Rolling | 🟢 Open | ❔ |
@@ -333,7 +332,7 @@
 ## Hiring companies
 
 - TikTok (54)
-- Waymo (21)
+- Waymo (20)
 - ByteDance (14)
 - General Motors (13)
 - Tesla (10)

@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🎨 Design Internships
 
-**175** tracked · **98** open now
+**176** tracked · **99** open now
 
 ## Current openings
 
@@ -76,6 +76,7 @@
 | [Qorvo](generated/companies/qorvo.md) | [RFIC Design Engineer Intern](https://careers.qorvo.com/job/Chelmsford-RFIC-Design-Engineer-Intern-MA-1824/1424704500/?ats=successfactors) | Chelmsford, MA | Onsite | 2026-08-31 | Rolling | 🟢 Open | ❔ |
 | [Qorvo](generated/companies/qorvo.md) | [SOI Design Engineer Intern](https://careers.qorvo.com/job/Greensboro-SOI-Design-Intern-NC-27409/1421670100/?ats=successfactors) | Greensboro, NC | Onsite | 2026-08-31 | Rolling | 🟢 Open | ❔ |
 | [Qorvo](generated/companies/qorvo.md) | [SOI Design Engineer Intern - High Performance Analog - Advanced Cellular](https://careers.qorvo.com/job/Greensboro-SOI-Design-Intern-NC-27409/1421973500/?ats=successfactors) | Greensboro, NC | Onsite | 2026-08-31 | Rolling | 🟢 Open | ❔ |
+| [Qualcomm](generated/companies/qualcomm.md) | [Camera Design Implementation Intern](https://qualcomm.eightfold.ai/careers/job/446721678727) | Vancouver | Onsite | 2026-10-22 | Rolling | 🟢 Open | ❔ |
 | [Qualcomm](generated/companies/qualcomm.md) | [Camera Design Implementation Intern](https://qualcomm.eightfold.ai/careers/job/446721664170) | Markham | Onsite | 2026-10-22 | Rolling | 🟢 Open | ❔ |
 | [Rivian](generated/companies/rivian.md) | [Electronics Design Engineer Co-op Intern - Electronics Design](https://careers.rivian.com/jobs/34040?icims=1) | Palo Alto, CA | Onsite | 2026-10-05 | Rolling | 🟢 Open | ❔ |
 | [Rivian](generated/companies/rivian.md) | [Electronics Design Engineering Intern - Low Voltage Electronics](https://careers.rivian.com/jobs/34370?icims=1) | Champaign, IL | Onsite | 2026-10-13 | Rolling | 🟢 Open | ❔ |
@@ -197,10 +198,10 @@
 - Semtech (5)
 - Vertiv (5)
 - Jump Trading (4)
+- Qualcomm (4)
 - AMD (3)
 - Cirrus Logic (3)
 - Neuralink (3)
-- Qualcomm (3)
 - RTX (3)
 - Interstates (3)
 - Analog Devices (2)

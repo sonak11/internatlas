@@ -7,7 +7,9 @@
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
 | Qualcomm | [Applied AI Engineer Intern](https://qualcomm.eightfold.ai/careers/job/446721664194) | Markham | Onsite | 2026-10-22 | Rolling | 🟢 Open | ❔ |
+| Qualcomm | [Applied AI Engineering Intern - Hardware Systems](https://qualcomm.eightfold.ai/careers/job/446721678733) | Vancouver | Onsite | 2026-10-22 | Rolling | 🟢 Open | ❔ |
 | Qualcomm | [Automotive Engineering Intern](https://qualcomm.eightfold.ai/careers/job/446721615591) | Markham | Onsite | 2026-10-16 | Rolling | 🟢 Open | ❔ |
+| Qualcomm | [Camera Design Implementation Intern](https://qualcomm.eightfold.ai/careers/job/446721678727) | Vancouver | Onsite | 2026-10-22 | Rolling | 🟢 Open | ❔ |
 | Qualcomm | [Camera Design Implementation Intern](https://qualcomm.eightfold.ai/careers/job/446721664170) | Markham | Onsite | 2026-10-22 | Rolling | 🟢 Open | ❔ |
 | Qualcomm | [Display Systems Engineer Intern](https://qualcomm.eightfold.ai/careers/job/446721661677) | Markham | Onsite | 2026-10-21 | Rolling | 🟢 Open | ❔ |
 | Qualcomm | [Edge AI and Display Hardware Architecture Development Engineering Intern - Interim Engineering Intern - Systems](https://qualcomm.eightfold.ai/careers/job/446721661830) | Markham | Onsite | 2026-10-21 | Rolling | 🟢 Open | ❔ |
