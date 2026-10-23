@@ -1,20 +1,22 @@
 {
   "schema_version": "1.0",
-  "id": "optiver-software-engineer-intern-2027-245542",
+  "id": "waymo-2027-summer-intern-ms-phd-software-engineer-ml-frameworks-an-2027",
   "company": {
-    "name": "Optiver",
-    "slug": "optiver"
+    "name": "Waymo",
+    "slug": "waymo",
+    "career_page": "https://waymo.com/careers"
   },
-  "role": "Software Engineer Intern",
-  "category": "software-engineering",
-  "apply_url": "https://www.optiver.com/join-us/jobs/8713435002/?gh_jid=8713435002",
+  "role": "2027 Summer Intern, MS/PhD, Software Engineer, ML Frameworks and Efficiency",
+  "category": "machine-learning",
+  "apply_url": "https://careers.withwaymo.com/jobs?gh_jid=8287385",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "London",
-      "country": "UK"
+      "city": "Mountain View",
+      "state": "CA",
+      "country": "USA"
     }
   ],
   "compensation": {
@@ -39,13 +41,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-17",
-    "discovered": "2026-08-17",
+    "posted": "2026-10-23",
+    "discovered": "2026-10-23",
     "last_verified": "2026-10-23"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:ats"
   ]
 }

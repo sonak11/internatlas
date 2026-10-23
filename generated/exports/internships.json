@@ -1,6 +1,6 @@
 {
   "generated": "2026-10-23",
-  "count": 7022,
+  "count": 7021,
   "internships": [
     {
       "schema_version": "1.0",
@@ -45953,7 +45953,7 @@
         "discovered": "2026-08-07",
         "last_verified": "2026-10-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -57835,7 +57835,7 @@
         "discovered": "2026-10-14",
         "last_verified": "2026-10-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -73837,7 +73837,7 @@
         "discovered": "2026-10-06",
         "last_verified": "2026-10-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -150770,7 +150770,7 @@
         "discovered": "2026-09-09",
         "last_verified": "2026-10-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -157380,7 +157380,7 @@
       "work_mode": "onsite",
       "locations": [
         {
-          "city": "New York",
+          "city": "Chicago",
           "country": "USA"
         }
       ],
@@ -169337,7 +169337,7 @@
         "discovered": "2026-09-22",
         "last_verified": "2026-10-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -237000,7 +237000,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "optiver-quantitative-research-intern-2027-bb801c",
+      "id": "optiver-quantitative-research-intern-2027",
       "company": {
         "name": "Optiver",
         "slug": "optiver"
@@ -237024,60 +237024,6 @@
         },
         {
           "city": "NYC",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [
-          "phd"
-        ],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-07-01",
-        "discovered": "2026-07-17",
-        "last_verified": "2026-10-23"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "optiver-quantitative-research-intern-2027",
-      "company": {
-        "name": "Optiver",
-        "slug": "optiver"
-      },
-      "role": "Quantitative Research Intern",
-      "category": "quant",
-      "apply_url": "https://www.optiver.com/join-us/jobs/8451781002/?gh_jid=8451781002",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Chicago",
-          "state": "IL",
           "country": "USA"
         }
       ],
@@ -237169,57 +237115,6 @@
     },
     {
       "schema_version": "1.0",
-      "id": "optiver-software-engineer-intern-2027-245542",
-      "company": {
-        "name": "Optiver",
-        "slug": "optiver"
-      },
-      "role": "Software Engineer Intern",
-      "category": "software-engineering",
-      "apply_url": "https://www.optiver.com/join-us/jobs/8713435002/?gh_jid=8713435002",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "London",
-          "country": "UK"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-08-17",
-        "discovered": "2026-08-17",
-        "last_verified": "2026-10-23"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
       "id": "optiver-software-engineer-intern-2027-abe381",
       "company": {
         "name": "Optiver",
@@ -237279,15 +237174,14 @@
       },
       "role": "Software Engineer Intern",
       "category": "software-engineering",
-      "apply_url": "https://www.optiver.com/join-us/jobs/8604760002/?gh_jid=8604760002",
+      "apply_url": "https://www.optiver.com/join-us/jobs/8713435002/?gh_jid=8713435002",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
       "locations": [
         {
-          "city": "Chicago",
-          "state": "IL",
-          "country": "USA"
+          "city": "London",
+          "country": "UK"
         }
       ],
       "compensation": {
@@ -237315,7 +237209,7 @@
         "resume_keywords": []
       },
       "dates": {
-        "posted": "2026-07-01",
+        "posted": "2026-08-17",
         "discovered": "2026-07-17",
         "last_verified": "2026-10-23"
       },
@@ -369050,6 +368944,59 @@
       "dates": {
         "posted": "2026-10-05",
         "discovered": "2026-10-05",
+        "last_verified": "2026-10-23"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "waymo-2027-summer-intern-ms-phd-software-engineer-ml-frameworks-an-2027",
+      "company": {
+        "name": "Waymo",
+        "slug": "waymo",
+        "career_page": "https://waymo.com/careers"
+      },
+      "role": "2027 Summer Intern, MS/PhD, Software Engineer, ML Frameworks and Efficiency",
+      "category": "machine-learning",
+      "apply_url": "https://careers.withwaymo.com/jobs?gh_jid=8287385",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Mountain View",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-23",
+        "discovered": "2026-10-23",
         "last_verified": "2026-10-23"
       },
       "status": "open",

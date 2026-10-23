@@ -13,7 +13,7 @@ _Generated 2026-10-23_
 | RTX | 184 |
 | Marvell | 80 |
 | AMD | 76 |
-| Waymo | 74 |
+| Waymo | 75 |
 | ByteDance | 70 |
 | Booz Allen | 69 |
 | NVIDIA | 67 |
@@ -33,10 +33,10 @@ _Generated 2026-10-23_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 4156 | `███████████████` |
+| software-engineering | 4155 | `███████████████` |
 | ai | 595 | `██` |
-| quant | 341 | `█` |
-| machine-learning | 324 | `█` |
+| quant | 340 | `█` |
+| machine-learning | 325 | `█` |
 | data-science | 272 | `█` |
 | hardware | 265 | `█` |
 | research | 235 | `█` |
@@ -178,6 +178,7 @@ _Generated 2026-10-23_
 - Bank of Montreal — Workforce Analyst Co-op Intern
 - Beacon Software — Software Engineer Intern
 - Bedrock Robotics — Validation & Verification Test Engineer Intern
+- Belvedere Trading — Software Engineer Intern - Summer 2027
 - BlackRock — Quantitative Master's Intern - Investments - Global Capital Markets
 - BlueCross BlueShield of Nebraska — Healthcare Analytics Intern
 - BlueCross BlueShield of Nebraska — Healthcare Reimbursement Analytics Intern - Summer 2027
@@ -199,6 +200,7 @@ _Generated 2026-10-23_
 - BP — Summer Intern - Multiple Teams
 - BP — Supply, Trading & Shipping Intern
 - Brevan Howard — Systematic Data Strategy Intern
+- Brookfield — Analytics Modelling Intern
 - CACI — Software Engineer Intern
 - CACI — Software Engineer Intern
 - CACI — Software Engineer Intern
@@ -238,6 +240,7 @@ _Generated 2026-10-23_
 - Cigna Group — Analytics Leadership Development Intern - ALDP
 - Cigna Group — Data & Analytics Engineering Intern - Technology Development Program
 - Cigna Group — Software Engineering Intern - Technology Development Program - Software Engineering Track
+- Cirrus Logic — Embedded Firmware Engineer Intern
 - Citizens Financial Group — Business Insights Intern - Multiple Teams
 - Citizens Financial Group — Data Analyst Intern - Multiple Teams
 - Citizens Financial Group — Data Management Intern - Multiple Teams
@@ -438,6 +441,7 @@ _Generated 2026-10-23_
 - Hitachi Energy — Electrical Component Engineering Intern
 - Hitachi Energy — Software Analyst Intern
 - HMH — AI & Automation Development Intern
+- HMH — Digital Services Engineering Intern
 - Hormel Foods — Enterprise Analytics Intern - Campus Recruiting
 - Hormel Foods — R&D Product Development Intern - Campus Recruiting
 - Howden — Business Intelligence Intern
@@ -476,6 +480,7 @@ _Generated 2026-10-23_
 - Johns Hopkins Applied Physics Laboratory — Decision Science Intern - Software Engineer
 - Johns Hopkins Applied Physics Laboratory — Electrical and Computer Engineer Intern
 - Johns Hopkins Applied Physics Laboratory — Electrical/Computer Engineer Intern - Intelligence Surveillance & Reconnaissance
+- Johns Hopkins Applied Physics Laboratory — Electrical/Computer Engineering Intern - Space Science Electronics
 - Johns Hopkins Applied Physics Laboratory — Engineering/Science Intern - Tailored Autonomous Systems
 - Johns Hopkins Applied Physics Laboratory — Software Development Intern
 - Johns Hopkins Applied Physics Laboratory — Software Engineer/Data Scientist/Ontologist Intern - Threat Analytic Systems
