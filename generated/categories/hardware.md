@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🔩 Hardware Internships
 
-**258** tracked · **158** open now
+**260** tracked · **160** open now
 
 ## Current openings
 
@@ -11,6 +11,8 @@
 | [ADT](generated/companies/adt.md) | [Hardware Engineering & Connected Devices Intern](https://fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3022475) | Boca Raton, FL | Onsite | 2026-10-16 | Rolling | 🟢 Open | ❔ |
 | [Akuna Capital](generated/companies/akuna-capital.md) | [Hardware Engineer Intern](https://akunacapital.com/careers/job/8018880/?gh_jid=8018880) | Chicago, IL | Onsite | 2026-07-24 | Rolling | 🟢 Open | ❌ |
 | [Altera](generated/companies/altera.md) | [FPGA IP Design Engineer Intern](https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/FPGA-IP-Design-Engineer---Intern_R03299) | Toronto | Onsite | 2026-10-20 | Rolling | 🟢 Open | ❔ |
+| [Amazon](generated/companies/amazon.md) | [ASIC Engineer Intern](https://amazon.jobs/en/jobs/10576619/asic-engineer-intern-summer-2027) | Sunnyvale, CA | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
+| [Amazon](generated/companies/amazon.md) | [Cloud Hardware Development Engineer Intern](https://amazon.jobs/en/jobs/10517649/cloud-hardware-development-engineer-intern-annapurna-labs-2027) | Austin, TX +1 | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
 | [Amazon](generated/companies/amazon.md) | [Hardware Development Engineer Intern](https://amazon.jobs/en/jobs/10578090/hardware-development-engineer-intern-summer-2027) | North Reading, MA +2 | Onsite | 2026-10-14 | Rolling | 🟢 Open | ❔ |
 | [Amazon](generated/companies/amazon.md) | [Hardware Development Engineer Intern Co-op - Robotics](https://amazon.jobs/en/jobs/10535282/hardware-development-engineer-intern-co-op-robotics-2027) | North Reading, MA +1 | Onsite | 2026-10-13 | Rolling | 🟢 Open | ❔ |
 | [Amazon.com Services LLC](generated/companies/amazon-com-services-llc.md) | [Hardware Development Engineer Intern](https://www.amazon.jobs/en/jobs/10584121/hardware-development-engineer-intern-winter-2027) | Bellevue, WA | Onsite | 2026-10-20 | Rolling | 🟢 Open | ❔ |
@@ -282,6 +284,7 @@
 - Jump Trading (5)
 - Qualcomm (5)
 - Tesla (5)
+- Amazon (4)
 - Cadence Design Systems (4)
 - CesiumAstro (4)
 - Google (4)
@@ -293,7 +296,6 @@
 - Skydio (3)
 - Zipline (3)
 - Microsoft (3)
-- Amazon (2)
 - ByteDance (2)
 - Dell Technologies (2)
 - Graphcore (2)

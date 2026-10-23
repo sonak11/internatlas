@@ -17,58 +17,58 @@ _Generated 2026-10-23_
 | ByteDance | 70 |
 | Booz Allen | 68 |
 | NVIDIA | 67 |
-| American Express | 66 |
+| American Express | 65 |
 | Royal Bank of Canada | 60 |
 | Qorvo | 52 |
+| General Motors | 47 |
 | Jump Trading | 47 |
-| General Motors | 46 |
 | L3Harris Technologies | 45 |
+| Amazon | 44 |
 | Anduril | 40 |
 | Autodesk | 40 |
 | Cloudflare | 40 |
 | GE Vernova | 39 |
-| Northrop Grumman | 39 |
 
 ## Listings by category
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 4047 | `███████████████` |
-| ai | 584 | `██` |
+| software-engineering | 4058 | `███████████████` |
+| ai | 586 | `██` |
 | quant | 338 | `█` |
-| machine-learning | 322 | `█` |
-| data-science | 268 | `█` |
-| hardware | 258 | `█` |
+| machine-learning | 323 | `█` |
+| data-science | 269 | `█` |
+| hardware | 260 | `█` |
 | research | 234 | `█` |
-| product | 218 | `█` |
+| product | 219 | `█` |
 | design | 176 | `█` |
-| embedded | 168 | `█` |
+| embedded | 169 | `█` |
 | data-engineering | 118 | `█` |
 | cloud | 75 | `█` |
 | security | 49 | `█` |
 
 ## Newest listings
 
-- 2026-10-22 — **1Password**: [Developer Intern - Extension Excellence](https://jobs.ashbyhq.com/1password/7f1732a6-5317-4319-82b9-67c62e88d491/application?embed=true)
-- 2026-10-22 — **1Password**: [Developer Intern, Extension Excellence](https://jobs.ashbyhq.com/1password/7f1732a6-5317-4319-82b9-67c62e88d491)
-- 2026-10-22 — **1Password**: [Developer Intern - Front-End Platform](https://jobs.ashbyhq.com/1password/71a3afd1-12b3-4f55-a3bd-fc4e7c46ee37/application?embed=true)
-- 2026-10-22 — **1Password**: [Developer Intern, Front-End Platform](https://jobs.ashbyhq.com/1password/71a3afd1-12b3-4f55-a3bd-fc4e7c46ee37)
-- 2026-10-22 — **1Password**: [Developer Intern - Machine Identity](https://jobs.ashbyhq.com/1password/6a6869a7-98d2-43e3-b9b5-b68fa4daeb9f/application?embed=true)
-- 2026-10-22 — **1Password**: [Developer Intern - Provisioning](https://jobs.ashbyhq.com/1password/c5289ef1-e919-4672-85c5-ee3112f9ddb9/application?embed=true)
-- 2026-10-22 — **1Password**: [Developer Intern, Provisioning](https://jobs.ashbyhq.com/1password/c5289ef1-e919-4672-85c5-ee3112f9ddb9)
-- 2026-10-22 — **1Password**: [Developer Intern - Vault Team](https://jobs.ashbyhq.com/1password/b2726ac7-dd0d-42f3-93a5-139e18c90779/application?embed=true)
-- 2026-10-22 — **1Password**: [Security Intern, Threat Operations](https://jobs.ashbyhq.com/1password/aac7eea6-ed7c-4871-bbf2-7cb2d5138847)
-- 2026-10-22 — **ABB**: [Sales Excellence Data Analytics Intern](https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Cary/Sales-Excellence-Data-Analytics-Intern---Summer-2027_JR00050987)
-- 2026-10-22 — **Allstate**: [Data Analytics Engineer Intern](https://allstate.wd5.myworkdayjobs.com/sourcing_event/job/USA---IL-Remote/Arity---Data-Analytics-Engineer-Intern_R36286)
-- 2026-10-22 — **Allstate**: [Data Science Intern - Core Telematics](https://allstate.wd5.myworkdayjobs.com/sourcing_event/job/USA---IL-Remote/Arity---Data-Science-Intern--Core-Telematics-_R36285)
-- 2026-10-22 — **American Family Insurance Group**: [Business Intelligence Enablement Intern](https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/Summer-2027-Intern---Business-Intelligence-Enablement_R39531)
-- 2026-10-22 — **Aon**: [Actuarial Intern - Client Consulting](https://jobs.aon.com/jobs/106879?icims=1)
-- 2026-10-22 — **Aptiv**: [Software Development Intern](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/Troy-MI---USA/Software-Development-Intern_J000704861)
-- 2026-10-22 — **Booz Allen**: [Enterprise Cybersecurity Data and Business Intelligence Analyst Intern](https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/Enterprise-Cybersecurity-Data-and-Business-Intelligence-Analyst_R0252250)
-- 2026-10-22 — **Ciena**: [Software Developer Intern](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Developer-Intern---Winter-2027_R031953-1)
-- 2026-10-22 — **Cisco**: [AI Operations Engineer I Intern](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/AI-Operations-Engineer-I--Intern----United-States_2026804)
-- 2026-10-22 — **Cisco**: [Engineering Product Management Specialist I Intern](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Engineering-Product-Management-Specialist-I--Intern----United-States_2026308)
-- 2026-10-22 — **Cisco**: [Machine Learning Engineer I Intern](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Machine-Learning-Engineer-I--Intern----United-States_2026803)
+- 2026-10-23 — **Amazon**: [Applied Science Intern - Frontier AI & Robotics](https://amazon.jobs/en/jobs/10564600/2027-applied-science-internship-united-states-phd-student-science-recruiting-frontier-ai-robotics-frontier-ai-robotics)
+- 2026-10-23 — **Amazon**: [Applied Science Intern - Gen AI & Large Language Models](https://amazon.jobs/en/jobs/10564589/2027-applied-science-internship-gen-ai-large-language-models-united-states-phd-student-science-recruiting)
+- 2026-10-23 — **Amazon**: [Applied Science Intern - Master's Student Science](https://amazon.jobs/en/jobs/10564586/2027-applied-science-internship-united-states-master-s-student-science-recruiting)
+- 2026-10-23 — **Amazon**: [Applied Science Intern - Natural Language Processing and Speech Technologies](https://amazon.jobs/en/jobs/10564593/2027-applied-science-internship-natural-language-processing-and-speech-technologies-united-states-phd-student-science-recruiting)
+- 2026-10-23 — **Amazon**: [Applied Scientist Intern - Reinforcement Learning & Optimization - Machine Learning](https://amazon.jobs/en/jobs/10564597/2027-applied-science-internship-reinforcement-learning-optimization-machine-learning-united-states-phd-student-science-recruiting)
+- 2026-10-23 — **Amazon**: [ASIC Engineer Intern](https://amazon.jobs/en/jobs/10576619/asic-engineer-intern-summer-2027)
+- 2026-10-23 — **Amazon**: [Associate Delivery Consultant Intern - AWS Professional Services](https://amazon.jobs/en/jobs/10585774/associate-delivery-consultant-intern-aws-professional-services)
+- 2026-10-23 — **Amazon**: [Business Analyst Intern](https://amazon.jobs/en/jobs/10565421/business-analyst-intern-3-6-and-12-months-2027)
+- 2026-10-23 — **Amazon**: [Cloud Hardware Development Engineer Intern](https://amazon.jobs/en/jobs/10517649/cloud-hardware-development-engineer-intern-annapurna-labs-2027)
+- 2026-10-23 — **Amazon**: [Economics Intern - Structural IO](https://amazon.jobs/en/jobs/10564110/phd-economics-intern-structural-io-summer-2027)
+- 2026-10-23 — **Amazon**: [Junior Software Development Engineer Intern - Jr. Developer Program](https://amazon.jobs/en/jobs/10586548/jr-software-development-engineer-detroit-mi-jr-developer-program)
+- 2026-10-23 — **Amazon**: [PhD Economics Intern - Reduced Form Causal Inference](https://amazon.jobs/en/jobs/10564111/phd-economics-intern-reduced-form-causal-inference-summer-2027)
+- 2026-10-23 — **Amazon**: [Product Manager Intern - ALA](https://amazon.jobs/en/jobs/10491935/2027-amazon-leadership-accelerator-ala-product-manager-internship)
+- 2026-10-23 — **Amazon**: [Software Engineer Intern](https://amazon.jobs/en/jobs/10559762/software-development-engineer-intern-amazon-leo-summer-2027-usa)
+- 2026-10-23 — **Amazon**: [Software Engineer Intern - AWS Database](https://amazon.jobs/en/jobs/10565667/software-development-engineer-intern-aws-database-2027-us)
+- 2026-10-23 — **Amazon**: [Software Engineer Intern - Embedded Systems](https://amazon.jobs/en/jobs/10567914/software-development-engineer-intern-embedded-systems-summer-2027-usa)
+- 2026-10-23 — **Amazon**: [Systems Development Engineer Intern](https://amazon.jobs/en/jobs/10573999/systems-development-engineer-intern-canada-2027)
+- 2026-10-23 — **Amazon**: [Systems Development Engineer Intern](https://amazon.jobs/en/jobs/10573984/systems-development-engineer-intern-us-2027)
+- 2026-10-23 — **Amazon**: [Technical Product Manager Intern](https://amazon.jobs/en/jobs/10509639/product-manager-technical-pmt-intern-summer-2027)
+- 2026-10-23 — **Paccar**: [Aftersales Data Analyst Intern](https://jobs.paccar.com/job/Kirkland-Summer-2027-AfterSales-Data-Analyst-Intern-WA-98033/1450518033/?ats=successfactors)
 
 ## Recently closed
 
@@ -93,11 +93,15 @@ _Generated 2026-10-23_
 - AMD — AI Training Systems and Performance Engineer Intern/Co-op
 - AMD — Hardware Design Verification Engineer Intern/Co-op
 - AMD — Machine Learning System Engineering Intern/Co-op
+- American Express — AI Engineer Intern
 - American Express — Data Analytics Intern - Enterprise Technology Services
 - American Express — Data Engineer Intern - Enterprise Technology Services
 - American Express — Data Engineer Intern - Enterprise Technology Services
+- American Express — Marketing Analyst Intern - Undergraduate ICS
 - American Express — Software Engineer Intern - Enterprise Technology Services
+- American Express — Software Engineer Intern - Undergraduate
 - American Family Insurance Group — Application Development Intern - Application Development
+- American Family Insurance Group — Data Analyst Intern
 - American Family Insurance Group — Data Analyst Intern
 - American Family Insurance Group — Data Analytics Intern
 - American Family Insurance Group — Front End Developer Intern - Digital Sales
@@ -164,6 +168,7 @@ _Generated 2026-10-23_
 - Bedrock Robotics — Validation & Verification Test Engineer Intern
 - BlueCross BlueShield of Nebraska — Healthcare Analytics Intern
 - BlueCross BlueShield of Nebraska — Healthcare Reimbursement Analytics Intern - Summer 2027
+- Boeing — Applied Mathematician Intern - Engineering & Technology Innovation
 - Boeing — Data Science Intern
 - Boeing — Data Science Intern
 - Booz Allen — Software Engineer Intern - Summer 2027
@@ -333,11 +338,35 @@ _Generated 2026-10-23_
 - General Dynamics Information Technology — Software Development Intern
 - General Dynamics Information Technology — Software Development Intern
 - General Motors — Economics Intern
+- General Motors — Machine Learning Intern - Autonomous Vehicles - Software Validation
 - General Motors — Race Strategy & Analytics Intern - IndyCar
 - Geneva Trading — Quantitative Trading Intern
 - Geotab — Product Coordinator Intern - Driver Compliance
 - GlobalFoundries — Silicon Photonics Advanced Packaging Intern
 - GM financial — Software Development Engineer Intern
+- GM financial — Software Development Engineer Intern
+- Goldman Sachs — Associate Intern - The Core Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Associate Intern - Asset and Wealth Management
+- Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Intern - Americas
+- Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Intern - Investment Banking
+- Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
+- Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
+- Goldman Sachs — Quantitative Strats Analyst Intern - Americas - Investment Banking
+- Goldman Sachs — Summer Analyst Intern
+- Goldman Sachs — Summer Analyst Intern - Americas - Investment Banking Quantitative Strats
+- Goldman Sachs — Summer Analyst Intern - Engineering
+- Goldman Sachs — Summer Analyst Intern - Engineering
+- Goldman Sachs — Summer Analyst Intern - FICC and Equities - Sales and Trading
+- Goldman Sachs — Summer Analyst Intern - The Core Quantitative Strats
+- Goldman Sachs — Summer Associate Intern
+- Goldman Sachs — Summer Associate Intern - Multiple Teams
 - Goodlord — Engineering Intern
 - Google — Data Scientist Intern - Product
 - Google — Hardware Engineer Intern
@@ -380,7 +409,6 @@ _Generated 2026-10-23_
 - Invesco — Early Career Intern - Technology
 - Invesco — Early Career Intern - Technology
 - ISN Software — Product Strategy Intern
-- Itron — Data Science Intern - Distributed Intelligence
 - Itron — Firmware Engineer Intern
 - Itron — Firmware Engineer Intern
 - Jabil — AI Transformation Intern
@@ -560,6 +588,7 @@ _Generated 2026-10-23_
 - Qorvo — Technology Development Intern
 - Qorvo — Test Engineer Intern
 - Qorvo — Test Engineer Intern
+- Qorvo — Test Engineer Intern - RF Load Pull
 - QTS — Tableau Analytics and Business Intelligence Intern
 - Qualcomm — Analog Design Intern - Hardware Engineering
 - Qualified Health — Clinical AI Evaluation Intern
@@ -620,6 +649,7 @@ _Generated 2026-10-23_
 - RTX — Electrical Engineer Intern
 - RTX — Electrical Engineer Intern
 - RTX — Electrical Production Support Engineer Intern - Summer 2027
+- RTX — Electrical Test Engineer Intern
 - RTX — Engineering Intern
 - RTX — Flight Control Software Engineer Intern
 - RTX — Numerical Methods Intern - Advanced Software Development
@@ -651,6 +681,7 @@ _Generated 2026-10-23_
 - Schonfeld — Quantitative Research Intern
 - Scout Clean Energy — Operations Engineering Intern
 - Securian Financial Group — Data Science and Advanced Analytics Intern - Multiple Teams
+- Siemens — Sales and Service Web Development Intern - Gscs
 - Sierra Nevada Corporation — Software Engineer Intern
 - Sierra Nevada Corporation — Software Engineer Intern
 - Sierra Nevada Corporation — Software Engineer Intern
@@ -677,6 +708,7 @@ _Generated 2026-10-23_
 - Sun Life — Data Analyst Intern
 - Superhuman — Software Engineer Intern
 - Superhuman — Software Engineer Intern - Summer 2027
+- TC Energy — Work Management Capabilities & Platforms Intern
 - TD Bank — Data Engineer Intern - Global Technology & Solutions
 - TD Bank — Portfolio Analytics Data Analyst Intern/Co-op
 - TD Bank — Portfolio Analytics Data Analyst Intern/Co-op - Winter 2027
@@ -706,6 +738,8 @@ _Generated 2026-10-23_
 - The Toro Company — Robotics Engineer Intern
 - The Walt Disney Company — Marketplace & Portfolio Insights Intern - Spring 2027
 - The Walt Disney Company — Systems Application Development and Sustainment Intern
+- TIAA — Enterprise Analytics Intern
+- TIAA — Insurance Solutions & New Markets Intern
 - Tighe & Bond — GIS Intern - Geographic Information Systems
 - Together AI — Software Engineer Intern
 - Together AI — Software Engineer Intern - Winter 2027
@@ -736,6 +770,7 @@ _Generated 2026-10-23_
 - Vertiv — Innovation Lab Engineering Intern 2
 - Vialto Partners — Client Technology Intern
 - Virtu Financial — Frontend & User Experience Intern
+- Wabash Valley Power Alliance — Energy Efficiency & Demand Response Intern
 - Walgreens — Data Science Intern
 - WallStreetQuants — Quantitative Researcher Intern
 - Waymo — 2027 Summer Intern, BS/MS, Embedded, Software Engineer
@@ -781,6 +816,7 @@ _Generated 2026-10-23_
 - Xcel Energy — Resource Planning Intern
 - Xcel Energy — Wildfire Analyst Intern
 - XPENG Motors — Robotics Center Intern - Multiple Teams
+- Zebra Technologies — Business Analytics Intern
 - Zimmer Biomet Holdings — Data Management Intern
 - Zimmer Biomet Holdings — Product Management Intern - Artificial Intelligence Product Management
 - Zimmer Biomet Holdings — Summer Intern - Data Mesh Platform

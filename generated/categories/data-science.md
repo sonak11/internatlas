@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 📊 Data Science Internships
 
-**268** tracked · **154** open now
+**269** tracked · **156** open now
 
 ## Current openings
 
@@ -80,6 +80,8 @@
 | [Inmar Intelligence](generated/companies/inmar-intelligence.md) | [Data Science Intern](https://inmar.wd1.myworkdayjobs.com/inmarcareers/job/Headquarters-Winston-Salem-NC/Data-Science-Intern_JY2627711) | Raleigh, NC +1 | Onsite | 2026-10-20 | Rolling | 🟢 Open | ❔ |
 | [Integra FEC](generated/companies/integra-fec.md) | [Data Scientist Intern - PhD](https://job-boards.greenhouse.io/integrainterns/jobs/5406093008) | Austin, TX | Onsite | 2026-08-31 | Rolling | 🟢 Open | ❔ |
 | [Intel](generated/companies/intel.md) | [Data Science / Software Engineering PhD Intern](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-California-Santa-Clara/AI-Data-Science---Software-Engineering-PhD-Intern-New-2027_JR0288138) | Santa Clara, CA | Onsite | 2026-10-20 | Rolling | 🟢 Open | ❔ |
+| [Itron](generated/companies/itron.md) | [Data Science Intern - Distributed Intelligence](https://itron.wd5.myworkdayjobs.com/Itron/job/United-States-of-America-Washington-Liberty-Lake/Intern---Data-Science--Distributed-Intelligence_JR102942) | Liberty Lake, WA | Onsite | 2026-09-28 | Rolling | 🟢 Open | ❔ |
+| [Itron](generated/companies/itron.md) | [Data Science Intern - Distributed Intelligence](https://itron.wd5.myworkdayjobs.com/Early_Careers/job/United-States-of-America-Washington-Liberty-Lake/Intern---Data-Science--Distributed-Intelligence_JR102942-2) | Liberty Lake, WA | Onsite | 2026-09-28 | Rolling | 🟢 Open | ❔ |
 | [Johns Hopkins Applied Physics Laboratory](generated/companies/johns-hopkins-applied-physics-laboratory.md) | [Data Scientist Intern - Data Science - System Performance Evaluation](https://careers.jhuapl.edu/jobs/59800?icims=1) | Laurel, MD | Onsite | 2026-08-25 | Rolling | 🟢 Open | ❔ |
 | [JP Morgan Chase](generated/companies/jp-morgan-chase.md) | [Asset Management Data Scientist – Summer Associate Intern](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210802931) | NYC | Onsite | 2026-10-22 | Rolling | 🟢 Open | ❔ |
 | [Ketjen](generated/companies/ketjen.md) | [Data Science Intern](https://albemarle.wd5.myworkdayjobs.com/en-US/ketjenexternal/job/Houston-Texas-United-States-of-America/Ketjen-Summer-2027-Data-Science-Internship_REQ-31411) | Houston, TX | Onsite | 2026-09-10 | Rolling | 🟢 Open | ❔ |
@@ -217,7 +219,6 @@
 | [Integra FEC](generated/companies/integra-fec.md) | [Data Scientist Intern](https://job-boards.greenhouse.io/integrainterns/jobs/5134593008) | Austin, TX | Onsite | 2026-04-28 | Rolling | 🔴 Closed | ❔ |
 | [Integra FEC](generated/companies/integra-fec.md) | [Data Scientist Intern - PhD](https://job-boards.greenhouse.io/integra/jobs/5134592008) | Austin, TX | Onsite | 2026-04-28 | Rolling | 🔴 Closed | ❔ |
 | [IntelliGenesis](generated/companies/intelligenesis.md) | [Applied Data Scientist Intern](http://intelligenesis.applytojob.com/apply/synY3toJUH/Applied-Data-Scientist-Internship-DoW-SkillBridge) | Columbia, MD | Onsite | 2026-08-03 | Rolling | 🔴 Closed | ❔ |
-| [Itron](generated/companies/itron.md) | [Data Science Intern - Distributed Intelligence](https://itron.wd5.myworkdayjobs.com/Itron/job/United-States-of-America-Washington-Liberty-Lake/Intern---Data-Science--Distributed-Intelligence_JR102942) | Liberty Lake, WA | Onsite | 2026-09-28 | Rolling | 🔴 Closed | ❔ |
 | [Johns Hopkins Applied Physics Laboratory](generated/companies/johns-hopkins-applied-physics-laboratory.md) | [Data Science & Autonomous Systems Intern - Data Science & Autonomous Systems - Critical Infrastructure Protection](https://careers.jhuapl.edu/jobs/60432?icims=1) | Laurel, MD | Onsite | 2026-10-10 | Rolling | 🔴 Closed | ❔ |
 | [Johns Hopkins Applied Physics Laboratory](generated/companies/johns-hopkins-applied-physics-laboratory.md) | [Software Engineer/Data Scientist/Ontologist Intern - Threat Analytic Systems](https://careers.jhuapl.edu/jobs/59997?icims=1) | Laurel, MD | Onsite | 2026-09-10 | Rolling | 🔴 Closed | ❔ |
 | [KKR](generated/companies/kkr.md) | [Summer Analyst Intern - Insurance Risk - Data Science](https://www.kkr.com/careers/student-careers/student-career-opportunities/post?gh_jid=6200944004) | NYC | Onsite | 2026-10-06 | Rolling | 🔴 Closed | ❔ |
@@ -309,6 +310,7 @@
 - Edison International (2)
 - Generac (2)
 - Hudson River Trading (2)
+- Itron (2)
 - LexisNexis Risk Solutions (2)
 - Meta (2)
 - Nissan Global (2)
@@ -415,7 +417,6 @@
 - HireVue (1)
 - Honeywell (1)
 - IntelliGenesis (1)
-- Itron (1)
 - KKR (1)
 - Koch Industries (1)
 - Lazard (1)

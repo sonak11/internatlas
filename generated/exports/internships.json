@@ -1,6 +1,6 @@
 {
   "generated": "2026-10-23",
-  "count": 6855,
+  "count": 6874,
   "internships": [
     {
       "schema_version": "1.0",
@@ -8646,6 +8646,152 @@
     },
     {
       "schema_version": "1.0",
+      "id": "amazon-applied-science-intern-frontier-ai-robotics-2026",
+      "company": {
+        "name": "Amazon",
+        "slug": "amazon"
+      },
+      "role": "Applied Science Intern - Frontier AI & Robotics",
+      "category": "ai",
+      "apply_url": "https://amazon.jobs/en/jobs/10564600/2027-applied-science-internship-united-states-phd-student-science-recruiting-frontier-ai-robotics-frontier-ai-robotics",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Seattle",
+          "state": "WA",
+          "country": "USA"
+        },
+        {
+          "city": "SF",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-23",
+        "discovered": "2026-10-23",
+        "last_verified": "2026-10-23"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "amazon-applied-science-intern-gen-ai-large-language-models-2027",
+      "company": {
+        "name": "Amazon",
+        "slug": "amazon"
+      },
+      "role": "Applied Science Intern - Gen AI & Large Language Models",
+      "category": "ai",
+      "apply_url": "https://amazon.jobs/en/jobs/10564589/2027-applied-science-internship-gen-ai-large-language-models-united-states-phd-student-science-recruiting",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Cambridge",
+          "state": "MA",
+          "country": "USA"
+        },
+        {
+          "city": "Boston",
+          "state": "MA",
+          "country": "USA"
+        },
+        {
+          "city": "Seattle",
+          "state": "WA",
+          "country": "USA"
+        },
+        {
+          "city": "Santa Clara",
+          "state": "CA",
+          "country": "USA"
+        },
+        {
+          "city": "Pittsburgh",
+          "state": "PA",
+          "country": "USA"
+        },
+        {
+          "city": "NYC",
+          "country": "USA"
+        },
+        {
+          "city": "Bellevue",
+          "state": "WA",
+          "country": "USA"
+        },
+        {
+          "city": "Sunnyvale",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-23",
+        "discovered": "2026-10-23",
+        "last_verified": "2026-10-23"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "amazon-applied-science-intern-information-knowledge-management-2027",
       "company": {
         "name": "Amazon",
@@ -8690,6 +8836,60 @@
       "dates": {
         "posted": "2026-09-30",
         "discovered": "2026-09-30",
+        "last_verified": "2026-10-23"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "amazon-applied-science-intern-master-s-student-science-2027",
+      "company": {
+        "name": "Amazon",
+        "slug": "amazon"
+      },
+      "role": "Applied Science Intern - Master's Student Science",
+      "category": "software-engineering",
+      "apply_url": "https://amazon.jobs/en/jobs/10564586/2027-applied-science-internship-united-states-master-s-student-science-recruiting",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Seattle",
+          "state": "WA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-23",
+        "discovered": "2026-10-23",
         "last_verified": "2026-10-23"
       },
       "status": "open",
@@ -8781,6 +8981,89 @@
         "last_verified": "2026-09-17"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "amazon-applied-science-intern-natural-language-processing-and-speec-2027",
+      "company": {
+        "name": "Amazon",
+        "slug": "amazon"
+      },
+      "role": "Applied Science Intern - Natural Language Processing and Speech Technologies",
+      "category": "software-engineering",
+      "apply_url": "https://amazon.jobs/en/jobs/10564593/2027-applied-science-internship-natural-language-processing-and-speech-technologies-united-states-phd-student-science-recruiting",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Cambridge",
+          "state": "MA",
+          "country": "USA"
+        },
+        {
+          "city": "Boston",
+          "state": "MA",
+          "country": "USA"
+        },
+        {
+          "city": "Seattle",
+          "state": "WA",
+          "country": "USA"
+        },
+        {
+          "city": "Santa Clara",
+          "state": "CA",
+          "country": "USA"
+        },
+        {
+          "city": "NYC",
+          "country": "USA"
+        },
+        {
+          "city": "Bellevue",
+          "state": "WA",
+          "country": "USA"
+        },
+        {
+          "city": "Sunnyvale",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-23",
+        "discovered": "2026-10-23",
+        "last_verified": "2026-10-23"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -8995,6 +9278,261 @@
     },
     {
       "schema_version": "1.0",
+      "id": "amazon-applied-scientist-intern-reinforcement-learning-optimization-2027",
+      "company": {
+        "name": "Amazon",
+        "slug": "amazon"
+      },
+      "role": "Applied Scientist Intern - Reinforcement Learning & Optimization - Machine Learning",
+      "category": "machine-learning",
+      "apply_url": "https://amazon.jobs/en/jobs/10564597/2027-applied-science-internship-reinforcement-learning-optimization-machine-learning-united-states-phd-student-science-recruiting",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Palo Alto",
+          "state": "CA",
+          "country": "USA"
+        },
+        {
+          "city": "Boston",
+          "state": "MA",
+          "country": "USA"
+        },
+        {
+          "city": "Seattle",
+          "state": "WA",
+          "country": "USA"
+        },
+        {
+          "city": "Santa Clara",
+          "state": "CA",
+          "country": "USA"
+        },
+        {
+          "city": "Arlington County",
+          "country": "Arlington"
+        },
+        {
+          "city": "NYC",
+          "country": "USA"
+        },
+        {
+          "city": "Bellevue",
+          "state": "WA",
+          "country": "USA"
+        },
+        {
+          "city": "San Diego",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-23",
+        "discovered": "2026-10-23",
+        "last_verified": "2026-10-23"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "amazon-asic-engineer-intern-2027",
+      "company": {
+        "name": "Amazon",
+        "slug": "amazon"
+      },
+      "role": "ASIC Engineer Intern",
+      "category": "hardware",
+      "apply_url": "https://amazon.jobs/en/jobs/10576619/asic-engineer-intern-summer-2027",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Sunnyvale",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-23",
+        "discovered": "2026-10-23",
+        "last_verified": "2026-10-23"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "amazon-associate-delivery-consultant-intern-aws-professional-servic-2027",
+      "company": {
+        "name": "Amazon",
+        "slug": "amazon"
+      },
+      "role": "Associate Delivery Consultant Intern - AWS Professional Services",
+      "category": "software-engineering",
+      "apply_url": "https://amazon.jobs/en/jobs/10585774/associate-delivery-consultant-intern-aws-professional-services",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Arlington County",
+          "country": "Arlington"
+        },
+        {
+          "city": "NYC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-23",
+        "discovered": "2026-10-23",
+        "last_verified": "2026-10-23"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "amazon-business-analyst-intern-2027",
+      "company": {
+        "name": "Amazon",
+        "slug": "amazon"
+      },
+      "role": "Business Analyst Intern",
+      "category": "software-engineering",
+      "apply_url": "https://amazon.jobs/en/jobs/10565421/business-analyst-intern-3-6-and-12-months-2027",
+      "season": "spring",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "London",
+          "country": "UK"
+        },
+        {
+          "city": "Manchester",
+          "country": "UK"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-23",
+        "discovered": "2026-10-23",
+        "last_verified": "2026-10-23"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "amazon-business-intelligence-engineer-intern-2027",
       "company": {
         "name": "Amazon",
@@ -9049,6 +9587,65 @@
     },
     {
       "schema_version": "1.0",
+      "id": "amazon-cloud-hardware-development-engineer-intern-2027",
+      "company": {
+        "name": "Amazon",
+        "slug": "amazon"
+      },
+      "role": "Cloud Hardware Development Engineer Intern",
+      "category": "hardware",
+      "apply_url": "https://amazon.jobs/en/jobs/10517649/cloud-hardware-development-engineer-intern-annapurna-labs-2027",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Austin",
+          "state": "TX",
+          "country": "USA"
+        },
+        {
+          "city": "Cupertino",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-23",
+        "discovered": "2026-10-23",
+        "last_verified": "2026-10-23"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "amazon-data-engineer-intern-2027",
       "company": {
         "name": "Amazon",
@@ -9093,6 +9690,73 @@
       "dates": {
         "posted": "2026-10-08",
         "discovered": "2026-10-08",
+        "last_verified": "2026-10-23"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "amazon-economics-intern-structural-io-2027",
+      "company": {
+        "name": "Amazon",
+        "slug": "amazon"
+      },
+      "role": "Economics Intern - Structural IO",
+      "category": "software-engineering",
+      "apply_url": "https://amazon.jobs/en/jobs/10564110/phd-economics-intern-structural-io-summer-2027",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Seattle",
+          "state": "WA",
+          "country": "USA"
+        },
+        {
+          "city": "Arlington County",
+          "country": "Arlington"
+        },
+        {
+          "city": "NYC",
+          "country": "USA"
+        },
+        {
+          "city": "Bellevue",
+          "state": "WA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-23",
+        "discovered": "2026-10-23",
         "last_verified": "2026-10-23"
       },
       "status": "open",
@@ -9226,6 +9890,60 @@
     },
     {
       "schema_version": "1.0",
+      "id": "amazon-junior-software-development-engineer-intern-jr-developer-pro-2027",
+      "company": {
+        "name": "Amazon",
+        "slug": "amazon"
+      },
+      "role": "Junior Software Development Engineer Intern - Jr. Developer Program",
+      "category": "software-engineering",
+      "apply_url": "https://amazon.jobs/en/jobs/10586548/jr-software-development-engineer-detroit-mi-jr-developer-program",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Detroit",
+          "state": "MI",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-23",
+        "discovered": "2026-10-23",
+        "last_verified": "2026-10-23"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "amazon-machine-learning-systems-software-development-engineer-inter-2027",
       "company": {
         "name": "Amazon",
@@ -9267,6 +9985,125 @@
       "dates": {
         "posted": "2026-09-11",
         "discovered": "2026-09-11",
+        "last_verified": "2026-10-23"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "amazon-phd-economics-intern-reduced-form-causal-inference-2027",
+      "company": {
+        "name": "Amazon",
+        "slug": "amazon"
+      },
+      "role": "PhD Economics Intern - Reduced Form Causal Inference",
+      "category": "software-engineering",
+      "apply_url": "https://amazon.jobs/en/jobs/10564111/phd-economics-intern-reduced-form-causal-inference-summer-2027",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Seattle",
+          "state": "WA",
+          "country": "USA"
+        },
+        {
+          "city": "Arlington County",
+          "country": "Arlington"
+        },
+        {
+          "city": "NYC",
+          "country": "USA"
+        },
+        {
+          "city": "Bellevue",
+          "state": "WA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-23",
+        "discovered": "2026-10-23",
+        "last_verified": "2026-10-23"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "amazon-product-manager-intern-ala-2027",
+      "company": {
+        "name": "Amazon",
+        "slug": "amazon"
+      },
+      "role": "Product Manager Intern - ALA",
+      "category": "product",
+      "apply_url": "https://amazon.jobs/en/jobs/10491935/2027-amazon-leadership-accelerator-ala-product-manager-internship",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Seattle",
+          "state": "WA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-23",
+        "discovered": "2026-10-23",
         "last_verified": "2026-10-23"
       },
       "status": "open",
@@ -10197,6 +11034,61 @@
     },
     {
       "schema_version": "1.0",
+      "id": "amazon-software-engineer-intern-2027-ffb8ac",
+      "company": {
+        "name": "Amazon",
+        "slug": "amazon"
+      },
+      "role": "Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://amazon.jobs/en/jobs/10559762/software-development-engineer-intern-amazon-leo-summer-2027-usa",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Redmond",
+          "state": "WA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters",
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-23",
+        "discovered": "2026-10-23",
+        "last_verified": "2026-10-23"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "amazon-software-engineer-intern-2027",
       "company": {
         "name": "Amazon",
@@ -10263,7 +11155,57 @@
     },
     {
       "schema_version": "1.0",
-      "id": "amazon-software-engineer-intern-embedded-systems-2027",
+      "id": "amazon-software-engineer-intern-aws-database-2027",
+      "company": {
+        "name": "Amazon",
+        "slug": "amazon"
+      },
+      "role": "Software Engineer Intern - AWS Database",
+      "category": "software-engineering",
+      "apply_url": "https://amazon.jobs/en/jobs/10565667/software-development-engineer-intern-aws-database-2027-us",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-23",
+        "discovered": "2026-10-23",
+        "last_verified": "2026-10-23"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "amazon-software-engineer-intern-embedded-systems-2027-646891",
       "company": {
         "name": "Amazon",
         "slug": "amazon"
@@ -10311,7 +11253,224 @@
       },
       "dates": {
         "posted": "2026-10-07",
+        "discovered": "2026-10-23",
+        "last_verified": "2026-10-23"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "amazon-software-engineer-intern-embedded-systems-2027",
+      "company": {
+        "name": "Amazon",
+        "slug": "amazon"
+      },
+      "role": "Software Engineer Intern - Embedded Systems",
+      "category": "embedded",
+      "apply_url": "https://amazon.jobs/en/jobs/10567914/software-development-engineer-intern-embedded-systems-summer-2027-usa",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-23",
         "discovered": "2026-10-07",
+        "last_verified": "2026-10-23"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "amazon-systems-development-engineer-intern-2027-6d10c9",
+      "company": {
+        "name": "Amazon",
+        "slug": "amazon"
+      },
+      "role": "Systems Development Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://amazon.jobs/en/jobs/10573999/systems-development-engineer-intern-canada-2027",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Vancouver",
+          "country": "BC"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters",
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-23",
+        "discovered": "2026-10-23",
+        "last_verified": "2026-10-23"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "amazon-systems-development-engineer-intern-2027",
+      "company": {
+        "name": "Amazon",
+        "slug": "amazon"
+      },
+      "role": "Systems Development Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://amazon.jobs/en/jobs/10573984/systems-development-engineer-intern-us-2027",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Bellevue",
+          "state": "WA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters",
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-23",
+        "discovered": "2026-10-23",
+        "last_verified": "2026-10-23"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "amazon-technical-product-manager-intern-2027",
+      "company": {
+        "name": "Amazon",
+        "slug": "amazon"
+      },
+      "role": "Technical Product Manager Intern",
+      "category": "product",
+      "apply_url": "https://amazon.jobs/en/jobs/10509639/product-manager-technical-pmt-intern-summer-2027",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Seattle",
+          "state": "WA",
+          "country": "USA"
+        },
+        {
+          "city": "Arlington County",
+          "country": "Arlington"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-23",
+        "discovered": "2026-10-23",
         "last_verified": "2026-10-23"
       },
       "status": "open",
@@ -10347,7 +11506,9 @@
       },
       "eligibility": {
         "graduation_years": [],
-        "degree_levels": [],
+        "degree_levels": [
+          "masters"
+        ],
         "citizenship_required": false,
         "security_clearance_required": false,
         "visa_sponsorship": "unknown"
@@ -16535,7 +17696,7 @@
         "discovered": "2026-09-14",
         "last_verified": "2026-10-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -18547,7 +19708,7 @@
         "discovered": "2026-09-17",
         "last_verified": "2026-10-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -19280,7 +20441,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "american-express-product-manager-intern-undergraduate-2027-00ec27",
+      "id": "american-express-product-manager-intern-undergraduate-2027",
       "company": {
         "name": "American Express",
         "slug": "american-express"
@@ -19294,57 +20455,6 @@
       "locations": [
         {
           "city": "London",
-          "country": "UK"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-09-14",
-        "discovered": "2026-09-14",
-        "last_verified": "2026-10-23"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "american-express-product-manager-intern-undergraduate-2027",
-      "company": {
-        "name": "American Express",
-        "slug": "american-express"
-      },
-      "role": "Product Manager Intern - Undergraduate",
-      "category": "product",
-      "apply_url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013764",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Burgess Hill",
           "country": "UK"
         }
       ],
@@ -19851,7 +20961,7 @@
         "discovered": "2026-09-14",
         "last_verified": "2026-10-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -20350,7 +21460,7 @@
         "discovered": "2026-10-06",
         "last_verified": "2026-10-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -44352,9 +45462,9 @@
       "dates": {
         "posted": "2026-07-02",
         "discovered": "2026-07-17",
-        "last_verified": "2026-09-03"
+        "last_verified": "2026-10-23"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -46388,7 +47498,7 @@
         "discovered": "2026-09-08",
         "last_verified": "2026-10-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -68364,58 +69474,6 @@
     },
     {
       "schema_version": "1.0",
-      "id": "cibc-software-engineer-intern-2027-5d4325",
-      "company": {
-        "name": "CIBC",
-        "slug": "cibc"
-      },
-      "role": "Software Engineer Intern",
-      "category": "software-engineering",
-      "apply_url": "https://cibc.wd3.myworkdayjobs.com/search/job/Chicago-IL/XMLNAME-2027-Summer-Intern---Software-Engineering_2618322-1",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Chicago",
-          "state": "IL",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-09-04",
-        "discovered": "2026-10-04",
-        "last_verified": "2026-10-23"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
       "id": "cibc-software-engineer-intern-2027",
       "company": {
         "name": "CIBC",
@@ -68423,7 +69481,7 @@
       },
       "role": "Software Engineer Intern",
       "category": "software-engineering",
-      "apply_url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Chicago-IL/XMLNAME-2027-Summer-Intern---Software-Engineering_2618322",
+      "apply_url": "https://cibc.wd3.myworkdayjobs.com/search/job/Chicago-IL/XMLNAME-2027-Summer-Intern---Software-Engineering_2618322-1",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
@@ -94024,13 +95082,12 @@
     },
     {
       "schema_version": "1.0",
-      "id": "doordash-operations-research-intern-phd-summer-2027-2027",
+      "id": "doordash-operations-research-intern-2027",
       "company": {
         "name": "DoorDash",
-        "slug": "doordash",
-        "career_page": "https://careers.doordash.com/"
+        "slug": "doordash"
       },
-      "role": "Operations Research Intern (PhD), Summer 2027",
+      "role": "Operations Research Intern",
       "category": "research",
       "apply_url": "https://job-boards.greenhouse.io/doordashusa/jobs/8273965",
       "season": "summer",
@@ -94072,7 +95129,7 @@
       "status": "open",
       "tags": [
         "auto-ingested",
-        "src:ats"
+        "src:simplify"
       ]
     },
     {
@@ -127234,6 +128291,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "general-motors-fleet-reliability-and-test-engineering-intern-2027",
+      "company": {
+        "name": "General Motors",
+        "slug": "general-motors"
+      },
+      "role": "Fleet Reliability and Test Engineering Intern",
+      "category": "software-engineering",
+      "apply_url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Milford-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--Fleet-Reliability---Test-Engineering--ASD_JR-202622071",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Milford",
+          "state": "MI",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-08",
+        "discovered": "2026-10-23",
+        "last_verified": "2026-10-23"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "general-motors-global-customer-research-intern-2027",
       "company": {
         "name": "General Motors",
@@ -127393,7 +128502,7 @@
         "discovered": "2026-10-06",
         "last_verified": "2026-10-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -128660,9 +129769,9 @@
       "dates": {
         "posted": "2026-10-02",
         "discovered": "2026-10-03",
-        "last_verified": "2026-10-07"
+        "last_verified": "2026-10-23"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -132013,7 +133122,7 @@
         "discovered": "2026-10-21",
         "last_verified": "2026-10-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -132273,7 +133382,7 @@
         "discovered": "2026-08-27",
         "last_verified": "2026-10-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -132378,7 +133487,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-10-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -132431,7 +133540,7 @@
         "discovered": "2026-10-11",
         "last_verified": "2026-10-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -132484,7 +133593,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-10-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -132536,7 +133645,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -132588,7 +133697,7 @@
         "discovered": "2026-10-06",
         "last_verified": "2026-10-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -132642,7 +133751,7 @@
         "discovered": "2026-09-16",
         "last_verified": "2026-10-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -132695,7 +133804,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -132746,7 +133855,7 @@
         "discovered": "2026-10-12",
         "last_verified": "2026-10-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -132800,7 +133909,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -132851,7 +133960,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -132902,7 +134011,7 @@
         "discovered": "2026-10-10",
         "last_verified": "2026-10-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -132953,7 +134062,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-10-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -133005,7 +134114,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -133056,7 +134165,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -133265,7 +134374,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -133319,7 +134428,7 @@
         "discovered": "2026-10-11",
         "last_verified": "2026-10-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -133426,7 +134535,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -133480,7 +134589,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-10-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -133582,7 +134691,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -133737,7 +134846,7 @@
         "discovered": "2026-08-29",
         "last_verified": "2026-10-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -133790,7 +134899,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-10-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -161033,7 +162142,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "itron-data-science-intern-distributed-intelligence-2027",
+      "id": "itron-data-science-intern-distributed-intelligence-2027-0277b9",
       "company": {
         "name": "Itron",
         "slug": "itron"
@@ -161076,10 +162185,64 @@
       },
       "dates": {
         "posted": "2026-09-28",
-        "discovered": "2026-09-30",
-        "last_verified": "2026-10-14"
+        "discovered": "2026-10-23",
+        "last_verified": "2026-10-23"
       },
-      "status": "closed",
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "itron-data-science-intern-distributed-intelligence-2027",
+      "company": {
+        "name": "Itron",
+        "slug": "itron"
+      },
+      "role": "Data Science Intern - Distributed Intelligence",
+      "category": "data-science",
+      "apply_url": "https://itron.wd5.myworkdayjobs.com/Early_Careers/job/United-States-of-America-Washington-Liberty-Lake/Intern---Data-Science--Distributed-Intelligence_JR102942-2",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Liberty Lake",
+          "state": "WA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-28",
+        "discovered": "2026-09-30",
+        "last_verified": "2026-10-23"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -186620,9 +187783,9 @@
       "dates": {
         "posted": "2026-09-07",
         "discovered": "2026-09-07",
-        "last_verified": "2026-09-09"
+        "last_verified": "2026-10-23"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -219785,60 +220948,6 @@
     },
     {
       "schema_version": "1.0",
-      "id": "northrop-grumman-software-engineer-intern-2027-324e0a",
-      "company": {
-        "name": "Northrop Grumman",
-        "slug": "northrop-grumman"
-      },
-      "role": "Software Engineer Intern",
-      "category": "software-engineering",
-      "apply_url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/XMLNAME-2027-Software-Engineering-Intern---Aurora-CO_R10256393",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Aurora",
-          "state": "CO",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [
-          "masters"
-        ],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-10-16",
-        "discovered": "2026-10-17",
-        "last_verified": "2026-10-23"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
       "id": "northrop-grumman-software-engineer-intern-2027-5af91a",
       "company": {
         "name": "Northrop Grumman",
@@ -220218,7 +221327,7 @@
       },
       "role": "Software Engineer Intern",
       "category": "software-engineering",
-      "apply_url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/XMLNAME-2027-Software-Engineering-Intern---Aurora-CO_R10256243",
+      "apply_url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/XMLNAME-2027-Software-Engineering-Intern---Aurora-CO_R10256393",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
@@ -232877,6 +233986,58 @@
       "dates": {
         "posted": "2026-10-15",
         "discovered": "2026-10-15",
+        "last_verified": "2026-10-23"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "paccar-aftersales-data-analyst-intern-2027",
+      "company": {
+        "name": "Paccar",
+        "slug": "paccar"
+      },
+      "role": "Aftersales Data Analyst Intern",
+      "category": "software-engineering",
+      "apply_url": "https://jobs.paccar.com/job/Kirkland-Summer-2027-AfterSales-Data-Analyst-Intern-WA-98033/1450518033/?ats=successfactors",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Kirkland",
+          "state": "WA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-23",
+        "discovered": "2026-10-23",
         "last_verified": "2026-10-23"
       },
       "status": "open",
@@ -250815,7 +251976,7 @@
         "discovered": "2026-08-31",
         "last_verified": "2026-10-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -269175,7 +270336,7 @@
       },
       "role": "Business Intelligence and Governance Analyst Intern",
       "category": "software-engineering",
-      "apply_url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Analyste-en-intelligence-d-affaires-et-gouvernance---Internship---Winter-2027---Business-Intelligence-and-Governance-Analyst_01868337",
+      "apply_url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Analyste-en-intelligence-d-affaires-et-gouvernance---Internship---Winter-2027---Business-Intelligence-and-Governance-Analyst_01868337-1",
       "season": "winter",
       "year": 2027,
       "work_mode": "onsite",
@@ -269207,11 +270368,11 @@
         "resume_keywords": []
       },
       "dates": {
-        "posted": "2026-08-25",
+        "posted": "2026-10-22",
         "discovered": "2026-08-25",
-        "last_verified": "2026-10-02"
+        "last_verified": "2026-10-23"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -270909,7 +272070,7 @@
         "discovered": "2026-10-21",
         "last_verified": "2026-10-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -273921,7 +275082,7 @@
       "status": "open",
       "tags": [
         "auto-ingested",
-        "src:simplify"
+        "src:vanshb03"
       ]
     },
     {
@@ -286792,7 +287953,7 @@
         "discovered": "2026-10-13",
         "last_verified": "2026-10-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -303144,7 +304305,7 @@
         "discovered": "2026-09-24",
         "last_verified": "2026-10-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -326634,7 +327795,7 @@
         "discovered": "2026-10-13",
         "last_verified": "2026-10-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -326686,7 +327847,7 @@
         "discovered": "2026-10-13",
         "last_verified": "2026-10-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -356495,7 +357656,7 @@
         "discovered": "2026-09-16",
         "last_verified": "2026-10-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -369669,7 +370830,7 @@
         "discovered": "2026-10-19",
         "last_verified": "2026-10-23"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"

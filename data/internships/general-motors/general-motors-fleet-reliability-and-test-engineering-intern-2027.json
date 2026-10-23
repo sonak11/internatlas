@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "northrop-grumman-software-engineer-intern-2027-324e0a",
+  "id": "general-motors-fleet-reliability-and-test-engineering-intern-2027",
   "company": {
-    "name": "Northrop Grumman",
-    "slug": "northrop-grumman"
+    "name": "General Motors",
+    "slug": "general-motors"
   },
-  "role": "Software Engineer Intern",
+  "role": "Fleet Reliability and Test Engineering Intern",
   "category": "software-engineering",
-  "apply_url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/XMLNAME-2027-Software-Engineering-Intern---Aurora-CO_R10256393",
+  "apply_url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Milford-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--Fleet-Reliability---Test-Engineering--ASD_JR-202622071",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Aurora",
-      "state": "CO",
+      "city": "Milford",
+      "state": "MI",
       "country": "USA"
     }
   ],
@@ -25,9 +25,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -42,8 +40,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-10-16",
-    "discovered": "2026-10-17",
+    "posted": "2026-10-08",
+    "discovered": "2026-10-23",
     "last_verified": "2026-10-23"
   },
   "status": "open",

@@ -6,6 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
+| Paccar | [Aftersales Data Analyst Intern](https://jobs.paccar.com/job/Kirkland-Summer-2027-AfterSales-Data-Analyst-Intern-WA-98033/1450518033/?ats=successfactors) | Kirkland, WA | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
 | Paccar | [Dealer Development Marketing Data Analytics Intern](https://jobs.paccar.com/job/Kirkland-Summer-2027-Dealer-Development-Marketing-Data-Analytics-Intern-WA-98033/1449209833/?ats=successfactors) | Kirkland, WA | Onsite | 2026-10-20 | Rolling | 🟢 Open | ❔ |
 | Paccar | [Engineering Operations Intern](https://jobs.paccar.com/job/Kirkland-Summer-2027-Engineering-Operations-Intern-WA-98033/1449526733/?ats=successfactors) | Kirkland, WA | Onsite | 2026-10-20 | Rolling | 🟢 Open | ❔ |
 | Paccar | [Field Service Data Analyst Intern](https://jobs.paccar.com/job/Kirkland-Summer-2027-Field-Service-Data-Analyst-Intern-WA-98033/1449526633/?ats=successfactors) | Kirkland, WA | Onsite | 2026-10-20 | Rolling | 🟢 Open | ❔ |

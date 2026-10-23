@@ -1,20 +1,21 @@
 {
   "schema_version": "1.0",
-  "id": "american-express-product-manager-intern-undergraduate-2027-00ec27",
+  "id": "doordash-operations-research-intern-2027",
   "company": {
-    "name": "American Express",
-    "slug": "american-express"
+    "name": "DoorDash",
+    "slug": "doordash"
   },
-  "role": "Product Manager Intern - Undergraduate",
-  "category": "product",
-  "apply_url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013766",
+  "role": "Operations Research Intern",
+  "category": "research",
+  "apply_url": "https://job-boards.greenhouse.io/doordashusa/jobs/8273965",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "London",
-      "country": "UK"
+      "city": "Sunnyvale",
+      "state": "CA",
+      "country": "USA"
     }
   ],
   "compensation": {
@@ -39,8 +40,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-14",
-    "discovered": "2026-09-14",
+    "posted": "2026-10-19",
+    "discovered": "2026-10-23",
     "last_verified": "2026-10-23"
   },
   "status": "open",

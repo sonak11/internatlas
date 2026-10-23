@@ -1,6 +1,6 @@
 # 📬 InternAtlas Weekly Digest — 2026-10-23
 
-## 🆕 New this week (480)
+## 🆕 New this week (500)
 
 - **1Password** — [Developer Intern - Extension Excellence](https://jobs.ashbyhq.com/1password/7f1732a6-5317-4319-82b9-67c62e88d491/application?embed=true) · software-engineering · —
 - **1Password** — [Developer Intern, Extension Excellence](https://jobs.ashbyhq.com/1password/7f1732a6-5317-4319-82b9-67c62e88d491) · software-engineering · —
@@ -37,7 +37,26 @@
 - **Altera** — [FPGA IP Design Engineer Intern](https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/FPGA-IP-Design-Engineer---Intern_R03299) · hardware · —
 - **Altera** — [Quartus User Interface Intern](https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Quartus-User-Interface---Intern_R03353) · software-engineering · —
 - **Altera** — [Software Engineer Intern](https://altera.wd1.myworkdayjobs.com/en-US/altera/job/Toronto-Ontario-Canada/Software-Engineer----Intern_R03320) · software-engineering · —
+- **Amazon** — [Applied Science Intern - Frontier AI & Robotics](https://amazon.jobs/en/jobs/10564600/2027-applied-science-internship-united-states-phd-student-science-recruiting-frontier-ai-robotics-frontier-ai-robotics) · ai · —
+- **Amazon** — [Applied Science Intern - Gen AI & Large Language Models](https://amazon.jobs/en/jobs/10564589/2027-applied-science-internship-gen-ai-large-language-models-united-states-phd-student-science-recruiting) · ai · —
+- **Amazon** — [Applied Science Intern - Master's Student Science](https://amazon.jobs/en/jobs/10564586/2027-applied-science-internship-united-states-master-s-student-science-recruiting) · software-engineering · —
+- **Amazon** — [Applied Science Intern - Natural Language Processing and Speech Technologies](https://amazon.jobs/en/jobs/10564593/2027-applied-science-internship-natural-language-processing-and-speech-technologies-united-states-phd-student-science-recruiting) · software-engineering · —
+- **Amazon** — [Applied Scientist Intern - Reinforcement Learning & Optimization - Machine Learning](https://amazon.jobs/en/jobs/10564597/2027-applied-science-internship-reinforcement-learning-optimization-machine-learning-united-states-phd-student-science-recruiting) · machine-learning · —
+- **Amazon** — [ASIC Engineer Intern](https://amazon.jobs/en/jobs/10576619/asic-engineer-intern-summer-2027) · hardware · —
+- **Amazon** — [Associate Delivery Consultant Intern - AWS Professional Services](https://amazon.jobs/en/jobs/10585774/associate-delivery-consultant-intern-aws-professional-services) · software-engineering · —
+- **Amazon** — [Business Analyst Intern](https://amazon.jobs/en/jobs/10565421/business-analyst-intern-3-6-and-12-months-2027) · software-engineering · —
+- **Amazon** — [Cloud Hardware Development Engineer Intern](https://amazon.jobs/en/jobs/10517649/cloud-hardware-development-engineer-intern-annapurna-labs-2027) · hardware · —
+- **Amazon** — [Economics Intern - Structural IO](https://amazon.jobs/en/jobs/10564110/phd-economics-intern-structural-io-summer-2027) · software-engineering · —
+- **Amazon** — [Junior Software Development Engineer Intern - Jr. Developer Program](https://amazon.jobs/en/jobs/10586548/jr-software-development-engineer-detroit-mi-jr-developer-program) · software-engineering · —
+- **Amazon** — [PhD Economics Intern - Reduced Form Causal Inference](https://amazon.jobs/en/jobs/10564111/phd-economics-intern-reduced-form-causal-inference-summer-2027) · software-engineering · —
+- **Amazon** — [Product Manager Intern - ALA](https://amazon.jobs/en/jobs/10491935/2027-amazon-leadership-accelerator-ala-product-manager-internship) · product · —
 - **Amazon** — [Software Developer Intern](https://amazon.jobs/en/jobs/10554586/2027-software-dev-engineer-intern-united-kingdom) · software-engineering · —
+- **Amazon** — [Software Engineer Intern](https://amazon.jobs/en/jobs/10559762/software-development-engineer-intern-amazon-leo-summer-2027-usa) · software-engineering · —
+- **Amazon** — [Software Engineer Intern - AWS Database](https://amazon.jobs/en/jobs/10565667/software-development-engineer-intern-aws-database-2027-us) · software-engineering · —
+- **Amazon** — [Software Engineer Intern - Embedded Systems](https://amazon.jobs/en/jobs/10567914/software-development-engineer-intern-embedded-systems-summer-2027-usa) · embedded · —
+- **Amazon** — [Systems Development Engineer Intern](https://amazon.jobs/en/jobs/10573999/systems-development-engineer-intern-canada-2027) · software-engineering · —
+- **Amazon** — [Systems Development Engineer Intern](https://amazon.jobs/en/jobs/10573984/systems-development-engineer-intern-us-2027) · software-engineering · —
+- **Amazon** — [Technical Product Manager Intern](https://amazon.jobs/en/jobs/10509639/product-manager-technical-pmt-intern-summer-2027) · product · —
 - **Amazon.com Services LLC** — [Hardware Development Engineer Intern](https://www.amazon.jobs/en/jobs/10584121/hardware-development-engineer-intern-winter-2027) · hardware · —
 - **American Bankers Association** — [Banking Policy and Economic Research Intern](https://aba.wd1.myworkdayjobs.com/aba/job/US-DC-Main-Office/Intern--Banking-Policy-and-Economic-Research_R625) · research · —
 - **American Electric Power** — [Data Scientist Intern](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Columbus-OH/Data-Scientist-Intern---Columbus--OH_R20499) · data-science · —
@@ -134,7 +153,7 @@
 - **Dominion Energy** — [Electric Transmission Asset Analyst Intern - Digital Solutions Team](https://careers.dominionenergy.com/job/GLEN-ALLEN-Intern-ET-Asset-Analyst-(Digital-Solutions-Team)-VA-23060/1441549200/?ats=successfactors) · software-engineering · —
 - **DoorDash** — [Drone Operations, Intern - Labs (Summer 2027)](https://job-boards.greenhouse.io/doordashusa/jobs/8312381) · software-engineering · —
 - **DoorDash** — [Mechanical Engineering, Intern - Labs (Summer 2027)](https://job-boards.greenhouse.io/doordashusa/jobs/8313401) · software-engineering · —
-- **DoorDash** — [Operations Research Intern (PhD), Summer 2027](https://job-boards.greenhouse.io/doordashusa/jobs/8273965) · research · —
+- **DoorDash** — [Operations Research Intern](https://job-boards.greenhouse.io/doordashusa/jobs/8273965) · research · —
 - **DriveWealth** — [AI Consulting Associate Program – AI Engineer Intern](https://boards.greenhouse.io/drivewealth/jobs/8039350003) · ai · —
 - **DriveWealth** — [AI Consulting Associate Program Brokerage Intern](https://boards.greenhouse.io/drivewealth/jobs/8039368003) · ai · —
 - **DriveWealth** — [AI Consulting Associate Program Product Owner Intern](https://boards.greenhouse.io/drivewealth/jobs/8038087003) · ai · —
@@ -299,10 +318,9 @@
 - **Northrop Grumman** — [Cyber Software Engineer Intern](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Texas-San-Antonio/XMLNAME-2027-Cyber-Software-Engineer-Intern---San-Antonio-TX_R10257311) · software-engineering · —
 - **Northrop Grumman** — [Cyber Systems Engineer Intern](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Tampa/XMLNAME-2027-Cyber-Systems-Engineer-Intern-Tampa-FL_R10249196) · software-engineering · —
 - **Northrop Grumman** — [Software Engineer Intern](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Software-Engineering-Intern---Roy-UT_R10257053) · software-engineering · —
-- **Northrop Grumman** — [Software Engineer Intern](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/XMLNAME-2027-Software-Engineering-Intern---Aurora-CO_R10256393) · software-engineering · —
 - **Northrop Grumman** — [Software Engineer Intern](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Boulder/XMLNAME-2027-Software-Engineering-Intern---Boulder-CO_R10256077) · software-engineering · —
 - **Northrop Grumman** — [Software Engineer Intern](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Software-Engineering-Intern---Colorado-Springs_R10256259) · software-engineering · —
-- **Northrop Grumman** — [Software Engineer Intern](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/XMLNAME-2027-Software-Engineering-Intern---Aurora-CO_R10256243) · software-engineering · —
+- **Northrop Grumman** — [Software Engineer Intern](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/XMLNAME-2027-Software-Engineering-Intern---Aurora-CO_R10256393) · software-engineering · —
 - **Northrop Grumman** — [Software Engineering Intern](https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Colorado-Boulder/XMLNAME-2027-Software-Engineering-Intern---Boulder-CO_R10256077) · software-engineering · —
 - **Northrop Grumman** — [Software Engineering Intern](https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Software-Engineering-Intern---Colorado-Springs_R10256259) · software-engineering · —
 - **Northrop Grumman** — [Software Engineering Intern](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Software-Engineering-Intern---Colorado-Springs_R10256080) · software-engineering · —
@@ -314,6 +332,7 @@
 - **OpenArt AI** — [Early Adopter & Product Builder Intern, Creative AI](https://jobs.ashbyhq.com/openart/8dd52ba6-a5b6-40b1-95fe-50de352fa254/application?embed=true) · ai · —
 - **PA Consulting** — [Digital Intern - Digital - Digital & Data](https://jobs.smartrecruiters.com/PAConsulting/744000156260214) · software-engineering · —
 - **PA Consulting** — [Industrial Placement Intern - Digital - Digital & Data](https://jobs.smartrecruiters.com/PAConsulting/744000156517869) · software-engineering · —
+- **Paccar** — [Aftersales Data Analyst Intern](https://jobs.paccar.com/job/Kirkland-Summer-2027-AfterSales-Data-Analyst-Intern-WA-98033/1450518033/?ats=successfactors) · software-engineering · —
 - **Paccar** — [Dealer Development Marketing Data Analytics Intern](https://jobs.paccar.com/job/Kirkland-Summer-2027-Dealer-Development-Marketing-Data-Analytics-Intern-WA-98033/1449209833/?ats=successfactors) · software-engineering · —
 - **Paccar** — [Engineering Operations Intern](https://jobs.paccar.com/job/Kirkland-Summer-2027-Engineering-Operations-Intern-WA-98033/1449526733/?ats=successfactors) · software-engineering · —
 - **Paccar** — [Field Service Data Analyst Intern](https://jobs.paccar.com/job/Kirkland-Summer-2027-Field-Service-Data-Analyst-Intern-WA-98033/1449526633/?ats=successfactors) · software-engineering · —
@@ -345,6 +364,7 @@
 - **Qualcomm** — [Edge AI and Display Hardware Architecture Development Engineering Intern - Interim Engineering Intern - Systems](https://qualcomm.eightfold.ai/careers/job/446721661830) · ai · —
 - **Qualcomm** — [Machine Learning AISW Intern](https://qualcomm.eightfold.ai/careers/job/446721636765) · machine-learning · —
 - **Qualcomm** — [QDSP Hardware Physical Design Intern](https://qualcomm.eightfold.ai/careers/job/446721636316) · hardware · —
+- **RTX** — [Business Intelligence and Governance Analyst Intern](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Analyste-en-intelligence-d-affaires-et-gouvernance---Internship---Winter-2027---Business-Intelligence-and-Governance-Analyst_01868337-1) · software-engineering · —
 - **RTX** — [Development Operations Intern, Engineering Development Program](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CT-MIDDLETOWN-220A--Aircraft-Rd--BLDG-220A/Development-Operations--Engineering-Development-Program_01872103) · software-engineering · —
 - **RTX** — [Electrical Components Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-M10--3360-E-Hemisphere-Loop--BLDG-M10/Electrical-Components-Engineer-Intern--Summer-2027--Onsite-_01879761) · software-engineering · —
 - **RTX** — [Electrical Test Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-LARGO-382SS--7887-Bryan-Dairy-Rd--BLDG-100/Electrical-Test-Engineering-Intern--Summer-2027-_01881562) · software-engineering · —

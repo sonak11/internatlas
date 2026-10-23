@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🧭 Product Internships
 
-**218** tracked · **122** open now
+**219** tracked · **123** open now
 
 ## Current openings
 
@@ -13,6 +13,8 @@
 | [ADT](generated/companies/adt.md) | [Product Management & Product Operations Intern](https://fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3022393) | Boca Raton, FL | Onsite | 2026-10-12 | Rolling | 🟢 Open | ❔ |
 | [Allied Solutions](generated/companies/allied-solutions.md) | [Product Management Intern - Risk Management](https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/St-Paul-MN/Product-Management-Intern---Risk-Management_R-011083) | St Paul, MN | Onsite | 2026-09-02 | Rolling | 🟢 Open | ❔ |
 | [Allstate](generated/companies/allstate.md) | [Product Management Advertising Intern](https://allstate.wd5.myworkdayjobs.com/sourcing_event/job/USA---IL-Remote/Arity---Product-Management-Advertising-Intern_R36280) | Illinois | Onsite | 2026-10-21 | Rolling | 🟢 Open | ❔ |
+| [Amazon](generated/companies/amazon.md) | [Product Manager Intern - ALA](https://amazon.jobs/en/jobs/10491935/2027-amazon-leadership-accelerator-ala-product-manager-internship) | Seattle, WA | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
+| [Amazon](generated/companies/amazon.md) | [Technical Product Manager Intern](https://amazon.jobs/en/jobs/10509639/product-manager-technical-pmt-intern-summer-2027) | Seattle, WA +1 | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
 | [AMD](generated/companies/amd.md) | [Product Management Intern/Co-op - Multiple Teams](https://careers.amd.com/jobs/90411?icims=1) | Calgary | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
 | [American Express](generated/companies/american-express.md) | [Digital Product Management Intern - Enterprise Technology Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012057) | NYC | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
 | [American Express](generated/companies/american-express.md) | [Digital Product Management Intern - Enterprise Technology Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012681) | Phoenix, AZ | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
@@ -25,7 +27,6 @@
 | [American Express](generated/companies/american-express.md) | [Product Management Intern - Global Merchant & Network Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012638) | Phoenix, AZ | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
 | [American Express](generated/companies/american-express.md) | [Product Management Intern - Global Merchant & Network Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012148) | Phoenix, AZ | Onsite | 2026-08-05 | Rolling | 🟢 Open | ❌ |
 | [American Express](generated/companies/american-express.md) | [Product Manager Intern - Undergraduate](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013766) | London | Onsite | 2026-09-14 | Rolling | 🟢 Open | ❔ |
-| [American Express](generated/companies/american-express.md) | [Product Manager Intern - Undergraduate](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013764) | Burgess Hill | Onsite | 2026-09-14 | Rolling | 🟢 Open | ❔ |
 | [Amplify](generated/companies/amplify.md) | [Product Management Intern](https://jobs.ashbyhq.com/amplify/c95f690f-28af-42b1-8847-5dcf14c1155e/application?embed=true) | Remote | Remote | 2026-10-19 | Rolling | 🟢 Open | ❔ |
 | [Appian](generated/companies/appian.md) | [Product Manager Intern](https://careers.appian.com/jobs/8041243-product-manager-intern-) | McLean, VA | Onsite | 2026-07-24 | Rolling | 🟢 Open | ❔ |
 | [AspenTech](generated/companies/aspentech.md) | [Product Owner Intern - Product Management](https://aspentech.wd5.myworkdayjobs.com/aspentech/job/Bedford-Massachusetts/Product-Owner-Intern---Product-Management----Summer-2027_R9471) | Houston, TX +1 | Onsite | 2026-09-16 | Rolling | 🟢 Open | ❔ |
@@ -230,7 +231,7 @@
 ## Hiring companies
 
 - TikTok (16)
-- American Express (15)
+- American Express (14)
 - Vertiv (9)
 - GE Vernova (6)
 - Tesla (6)
@@ -246,6 +247,7 @@
 - Springs Window Fashions (3)
 - Zurn Elkay Water Solutions (3)
 - Goldman Sachs (3)
+- Amazon (2)
 - Appian (2)
 - Blackhawk Network Holdings (2)
 - Brunswick (2)

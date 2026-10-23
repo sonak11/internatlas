@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🤖 AI Internships
 
-**584** tracked · **300** open now
+**586** tracked · **301** open now
 
 ## Current openings
 
@@ -17,6 +17,8 @@
 | [Adobe](generated/companies/adobe.md) | [AI & Architecture Intern](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---AI---Architecture_R172998) | San Jose, CA | Onsite | 2026-10-19 | Rolling | 🟢 Open | ❔ |
 | [Adobe](generated/companies/adobe.md) | [Data, AI & Innovation Intern](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Data--AI---Innovation_R172997) | San Jose, CA | Onsite | 2026-10-19 | Rolling | 🟢 Open | ❔ |
 | [AGCO](generated/companies/agco.md) | [AI & Data Science Intern](https://careers.agcocorp.com/job/Champaign-AI-&-Data-Science-Intern-Spring-2027-IL/1440146300/?ats=successfactors) | Champaign, IL | Onsite | 2026-10-14 | Rolling | 🟢 Open | ❔ |
+| [Amazon](generated/companies/amazon.md) | [Applied Science Intern - Frontier AI & Robotics](https://amazon.jobs/en/jobs/10564600/2027-applied-science-internship-united-states-phd-student-science-recruiting-frontier-ai-robotics-frontier-ai-robotics) | Seattle, WA +1 | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
+| [Amazon](generated/companies/amazon.md) | [Applied Science Intern - Gen AI & Large Language Models](https://amazon.jobs/en/jobs/10564589/2027-applied-science-internship-gen-ai-large-language-models-united-states-phd-student-science-recruiting) | Cambridge, MA +7 | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
 | [Amcor](generated/companies/amcor.md) | [AI Innovation Engineer Intern](https://amcor.wd5.myworkdayjobs.com/amcor_external_career_site/job/ASC-Atlanta-HQ-GA/AI-Innovation-Engineer_REQ_93190) | Atlanta, GA | Onsite | 2026-07-13 | Rolling | 🟢 Open | ❔ |
 | [AMD](generated/companies/amd.md) | [AI Model Optimization & Software Engineer Intern/Co-op](https://careers.amd.com/jobs/92526?icims=1) | Austin, TX | Onsite | 2026-09-16 | Rolling | 🟢 Open | ❔ |
 | [AMD](generated/companies/amd.md) | [AI Model Optimization & Software Engineer Intern/Co-op](https://careers.amd.com/jobs/92522?icims=1) | San Jose, CA +1 | Onsite | 2026-09-16 | Rolling | 🟢 Open | ❔ |
@@ -24,7 +26,6 @@
 | [AMD](generated/companies/amd.md) | [AI Research Intern - Reinforcement Learning and LLM Post-Training](https://careers.amd.com/jobs/91013?icims=1) | Santa Clara, CA | Onsite | 2026-09-21 | Rolling | 🟢 Open | ❔ |
 | [AMD](generated/companies/amd.md) | [Generative AI and Reinforcement Learning Research Intern](https://careers.amd.com/jobs/90910?icims=1) | Santa Clara, CA | Onsite | 2026-09-21 | Rolling | 🟢 Open | ❔ |
 | [AMD](generated/companies/amd.md) | [HPC and Sovereign AI Center of Excellence Intern/Co-op](https://careers.amd.com/jobs/92691?icims=1) | Austin, TX | Onsite | 2026-09-21 | Rolling | 🟢 Open | ❔ |
-| [American Express](generated/companies/american-express.md) | [AI Engineer Intern](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013758) | London | Onsite | 2026-09-14 | Rolling | 🟢 Open | ❔ |
 | [American Express](generated/companies/american-express.md) | [AI Engineer Intern - Enterprise Technology Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011999) | Sunrise, FL | Onsite | 2026-08-17 | Rolling | 🟢 Open | ❔ |
 | [American Express](generated/companies/american-express.md) | [AI Engineer Intern - Enterprise Technology Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012392) | Phoenix, AZ | Onsite | 2026-08-17 | Rolling | 🟢 Open | ❔ |
 | [American Express](generated/companies/american-express.md) | [AI Engineer Intern - Enterprise Technology Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012000) | Atlanta, GA | Onsite | 2026-08-18 | Rolling | 🟢 Open | ❔ |
@@ -324,6 +325,7 @@
 | [AMD](generated/companies/amd.md) | [PhD HPC & Sovereign AI Intern/Co-op](https://careers.amd.com/jobs/92636?icims=1) | San Jose, CA +1 | Onsite | 2026-09-18 | Rolling | 🔴 Closed | ❔ |
 | [American Bureau of Shipping](generated/companies/american-bureau-of-shipping.md) | [AI Software Engineering Intern](https://hbbq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4564) | St. John's | Onsite | 2026-07-06 | Rolling | 🔴 Closed | ❔ |
 | [American Enterprise Institute](generated/companies/american-enterprise-institute.md) | [Data Analysis & AI Policy Intern](https://internships-aei.icims.com/jobs/2612/job?mobile=true&needsRedirect=false) | Washington, DC | Onsite | 2026-05-01 | Rolling | 🔴 Closed | ❔ |
+| [American Express](generated/companies/american-express.md) | [AI Engineer Intern](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013758) | London | Onsite | 2026-09-14 | Rolling | 🔴 Closed | ❔ |
 | [American Fidelity](generated/companies/american-fidelity.md) | [Agentic AI Intern](https://americanfidelity.wd5.myworkdayjobs.com/External/job/Oklahoma-City-Oklahoma/IT-Intern-1_JR1016) | Oklahoma City, OK | Onsite | 2026-08-17 | Rolling | 🔴 Closed | ❔ |
 | [Amwins](generated/companies/amwins.md) | [Analytics & AI Intern](https://www.amwins.com/who-we-are/careers/open-positions?gh_jid=4302229009) | Hartford, CT | Onsite | 2026-07-07 | Rolling | 🔴 Closed | ❔ |
 | [Aptura](generated/companies/aptura.md) | [Investment Banking Intern - AI Evaluation](https://jobs.ashbyhq.com/aptura/44d8b5f7-bbb9-434b-8374-7ea1a9426910/application?embed=true) | London | Onsite | 2026-07-21 | Rolling | 🔴 Closed | ❔ |
@@ -653,6 +655,7 @@
 - 7-Eleven (2)
 - Acuity (2)
 - Adobe (2)
+- Amazon (2)
 - Boston Scientific (2)
 - CACI (2)
 - Capital One (2)
