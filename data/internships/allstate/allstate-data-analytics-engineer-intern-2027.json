@@ -15,6 +15,9 @@
     {
       "city": "Illinois",
       "country": "USA"
+    },
+    {
+      "country": "USA"
     }
   ],
   "compensation": {
@@ -46,6 +49,7 @@
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:simplify",
+    "remote-available"
   ]
 }

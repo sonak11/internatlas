@@ -7,17 +7,14 @@
   },
   "role": "Quantitative Researcher Intern",
   "category": "quant",
-  "apply_url": "https://jobs.smartrecruiters.com/InfiniteQuant/744000129235439",
+  "apply_url": "https://jobs.smartrecruiters.com/InfiniteQuant/744000157170821",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Dubai - United Arab Emirates",
-      "country": "USA"
-    },
-    {
-      "city": "NYC",
+      "city": "New York",
+      "state": "NY",
       "country": "USA"
     }
   ],
@@ -46,13 +43,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-05-29",
+    "posted": "2026-10-22",
     "discovered": "2026-07-17",
-    "last_verified": "2026-08-10"
+    "last_verified": "2026-10-23"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }

@@ -7,7 +7,7 @@
   },
   "role": "AI/ML Intern",
   "category": "machine-learning",
-  "apply_url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/AI-ML-Intern_R-00195168",
+  "apply_url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Huntsville-AL/AI-ML-Intern_R-00195168",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
@@ -46,9 +46,9 @@
     "discovered": "2026-10-23",
     "last_verified": "2026-10-23"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }

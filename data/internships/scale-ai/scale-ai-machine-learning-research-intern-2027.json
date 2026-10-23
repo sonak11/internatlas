@@ -13,6 +13,14 @@
   "work_mode": "onsite",
   "locations": [
     {
+      "city": "SF",
+      "country": "USA"
+    },
+    {
+      "city": "NYC",
+      "country": "USA"
+    },
+    {
       "city": "New York",
       "state": "NY",
       "country": "USA"
@@ -52,6 +60,6 @@
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:vanshb03"
+    "src:simplify"
   ]
 }

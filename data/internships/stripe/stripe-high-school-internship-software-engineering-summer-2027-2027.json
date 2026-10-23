@@ -16,6 +16,15 @@
     {
       "city": "Seattle",
       "country": "USA"
+    },
+    {
+      "city": "Seattle",
+      "state": "WA",
+      "country": "USA"
+    },
+    {
+      "city": "SF",
+      "country": "USA"
     }
   ],
   "compensation": {

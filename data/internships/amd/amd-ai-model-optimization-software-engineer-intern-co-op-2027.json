@@ -7,19 +7,14 @@
   },
   "role": "AI Model Optimization & Software Engineer Intern/Co-op",
   "category": "ai",
-  "apply_url": "https://careers.amd.com/jobs/92522?icims=1",
+  "apply_url": "https://careers.amd.com/jobs/92526?icims=1",
   "season": "winter",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "San Jose",
-      "state": "CA",
-      "country": "USA"
-    },
-    {
-      "city": "Santa Clara",
-      "state": "CA",
+      "city": "Austin",
+      "state": "TX",
       "country": "USA"
     }
   ],
@@ -51,7 +46,7 @@
     "discovered": "2026-09-17",
     "last_verified": "2026-10-23"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

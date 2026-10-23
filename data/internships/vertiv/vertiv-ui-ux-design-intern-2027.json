@@ -16,6 +16,16 @@
       "city": "Delaware",
       "state": "OH",
       "country": "USA"
+    },
+    {
+      "city": "Fort Lauderdale",
+      "state": "FL",
+      "country": "USA"
+    },
+    {
+      "city": "Huntsville",
+      "state": "AL",
+      "country": "USA"
     }
   ],
   "compensation": {
@@ -47,6 +57,6 @@
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:vanshb03"
+    "src:simplify"
   ]
 }

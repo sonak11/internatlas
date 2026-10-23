@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0",
+  "id": "pennsylvania-state-university-artificial-intelligence-image-processing-research-assistant-2026",
+  "company": {
+    "name": "Pennsylvania State University",
+    "slug": "pennsylvania-state-university"
+  },
+  "role": "Artificial Intelligence & Image Processing Research Assistant Intern",
+  "category": "ai",
+  "apply_url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-York/Part-Time---Student--Work-Study--Undergraduate----Artificial-Intelligence---Image-Processing-Research-Assistant_REQ_0000082742-1",
+  "season": "fall",
+  "year": 2026,
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "York",
+      "state": "PA",
+      "country": "USA"
+    }
+  ],
+  "compensation": {
+    "currency": "USD",
+    "housing_stipend": false,
+    "relocation_assistance": false
+  },
+  "eligibility": {
+    "graduation_years": [],
+    "degree_levels": [],
+    "citizenship_required": false,
+    "security_clearance_required": false,
+    "visa_sponsorship": "unknown"
+  },
+  "interview": {},
+  "tech": {
+    "required_skills": [],
+    "preferred_skills": [],
+    "languages": [],
+    "frameworks": [],
+    "cloud_platforms": [],
+    "resume_keywords": []
+  },
+  "dates": {
+    "posted": "2026-09-21",
+    "discovered": "2026-10-23",
+    "last_verified": "2026-10-23"
+  },
+  "status": "open",
+  "tags": [
+    "auto-ingested",
+    "src:simplify"
+  ]
+}

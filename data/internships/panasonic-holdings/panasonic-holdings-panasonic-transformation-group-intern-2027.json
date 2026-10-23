@@ -7,14 +7,14 @@
   },
   "role": "Panasonic Transformation Group Intern",
   "category": "software-engineering",
-  "apply_url": "https://careers.na.panasonic.com/jobs/51629?icims=1",
+  "apply_url": "https://careers.na.panasonic.com/jobs/51289?icims=1",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Sparks",
-      "state": "NV",
+      "city": "De Soto",
+      "state": "KS",
       "country": "USA"
     }
   ],
@@ -40,11 +40,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-10-09",
+    "posted": "2026-09-28",
     "discovered": "2026-10-10",
     "last_verified": "2026-10-23"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

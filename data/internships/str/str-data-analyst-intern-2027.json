@@ -20,6 +20,11 @@
       "city": "Woburn",
       "state": "MA",
       "country": "USA"
+    },
+    {
+      "city": "Arlington",
+      "state": "VA",
+      "country": "USA"
     }
   ],
   "compensation": {
@@ -48,7 +53,7 @@
     "discovered": "2026-10-23",
     "last_verified": "2026-10-23"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

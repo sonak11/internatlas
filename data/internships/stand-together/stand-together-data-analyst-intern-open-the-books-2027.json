@@ -15,6 +15,9 @@
     {
       "city": "Florida",
       "country": "USA"
+    },
+    {
+      "country": "USA"
     }
   ],
   "compensation": {
