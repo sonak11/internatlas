@@ -1,20 +1,31 @@
 {
   "schema_version": "1.0",
-  "id": "epic-games-machine-learning-intern-special-projects-epic-research-group-2027-eae52d",
+  "id": "ernst-young-vector-capitalization-intern-multiple-teams-2027",
   "company": {
-    "name": "Epic Games",
-    "slug": "epic-games"
+    "name": "Ernst & Young",
+    "slug": "ernst-young"
   },
-  "role": "Machine Learning Intern - Special Projects - Epic Research Group",
-  "category": "machine-learning",
-  "apply_url": "https://epicgames.com/careers/jobs/6138140004?gh_jid=6138140004",
-  "season": "winter",
+  "role": "Vector Capitalization Intern - Multiple Teams",
+  "category": "software-engineering",
+  "apply_url": "https://eyglobal.yello.co/jobs/LBmQQDFgzrEW53QwXVMXLw?job_board_id=c1riT--B2O-KySgYWsZO1Q",
+  "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Montreal",
-      "country": "QC"
+      "city": "Houston",
+      "state": "TX",
+      "country": "USA"
+    },
+    {
+      "city": "Dallas",
+      "state": "TX",
+      "country": "USA"
+    },
+    {
+      "city": "Atlanta",
+      "state": "GA",
+      "country": "USA"
     }
   ],
   "compensation": {
@@ -25,8 +36,7 @@
   "eligibility": {
     "graduation_years": [],
     "degree_levels": [
-      "masters",
-      "phd"
+      "masters"
     ],
     "citizenship_required": false,
     "security_clearance_required": false,
@@ -42,8 +52,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-07",
-    "discovered": "2026-10-08",
+    "posted": "2026-09-04",
+    "discovered": "2026-10-23",
     "last_verified": "2026-10-23"
   },
   "status": "open",

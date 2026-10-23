@@ -7,14 +7,78 @@
   },
   "role": "Software Engineer Intern",
   "category": "software-engineering",
-  "apply_url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Melbourne-FL/Summer-2027-Software-Engineering-Intern_8550",
+  "apply_url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Simi-Valley-CA/Summer-2027-Software-Engineering-Intern_8611",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
+      "city": "Germantown",
+      "state": "MD",
+      "country": "USA"
+    },
+    {
+      "city": "Annapolis Junction",
+      "state": "MD",
+      "country": "USA"
+    },
+    {
+      "city": "Pottstown",
+      "state": "PA",
+      "country": "USA"
+    },
+    {
+      "city": "Albuquerque",
+      "state": "NM",
+      "country": "USA"
+    },
+    {
+      "city": "Sunrise",
+      "state": "FL",
+      "country": "USA"
+    },
+    {
+      "city": "Arlington County",
+      "country": "Arlington"
+    },
+    {
       "city": "Melbourne",
       "state": "FL",
+      "country": "USA"
+    },
+    {
+      "city": "Petaluma",
+      "state": "CA",
+      "country": "USA"
+    },
+    {
+      "city": "Minneapolis",
+      "state": "MN",
+      "country": "USA"
+    },
+    {
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "country": "USA"
+    },
+    {
+      "city": "Huntsville",
+      "state": "AL",
+      "country": "USA"
+    },
+    {
+      "city": "San Diego",
+      "state": "CA",
+      "country": "USA"
+    },
+    {
+      "city": "Moorpark",
+      "state": "CA",
+      "country": "USA"
+    },
+    {
+      "city": "Simi Valley",
+      "state": "CA",
       "country": "USA"
     }
   ],
@@ -42,7 +106,7 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-16",
+    "posted": "2026-09-01",
     "discovered": "2026-09-02",
     "last_verified": "2026-10-23"
   },

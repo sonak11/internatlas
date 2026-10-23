@@ -1,29 +1,25 @@
 {
   "schema_version": "1.0",
-  "id": "salesforce-software-engineer-intern-2027-abd432",
+  "id": "navy-federal-summer-associate-intern-digital-payments-strategist-2027",
   "company": {
-    "name": "Salesforce",
-    "slug": "salesforce"
+    "name": "Navy Federal",
+    "slug": "navy-federal"
   },
-  "role": "Software Engineer Intern",
+  "role": "Summer Associate Intern - Digital Payments Strategist",
   "category": "software-engineering",
-  "apply_url": "https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer--Security-Government-_JR364911",
+  "apply_url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32459",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "SF",
+      "city": "Pensacola",
+      "state": "FL",
       "country": "USA"
     },
     {
-      "city": "Bellevue",
-      "state": "WA",
-      "country": "USA"
-    },
-    {
-      "city": "San Francisco",
-      "state": "CA",
+      "city": "Vienna",
+      "state": "VA",
       "country": "USA"
     }
   ],
@@ -34,10 +30,12 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
-    "citizenship_required": true,
+    "degree_levels": [
+      "masters"
+    ],
+    "citizenship_required": false,
     "security_clearance_required": false,
-    "visa_sponsorship": "no"
+    "visa_sponsorship": "unknown"
   },
   "interview": {},
   "tech": {
@@ -49,8 +47,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-10-19",
-    "discovered": "2026-10-19",
+    "posted": "2026-09-09",
+    "discovered": "2026-10-23",
     "last_verified": "2026-10-23"
   },
   "status": "open",

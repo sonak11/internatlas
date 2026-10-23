@@ -1,25 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "marvell-firmware-engineer-intern-2027-30e914",
+  "id": "aramco-americas-research-and-development-intern-boston-research-center-2027-2027",
   "company": {
-    "name": "Marvell",
-    "slug": "marvell"
+    "name": "Aramco Americas",
+    "slug": "aramco-americas"
   },
-  "role": "Firmware Engineer Intern",
-  "category": "embedded",
-  "apply_url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Firmware-Engineer-Intern--BS---Summer-2027_2604461",
+  "role": "Research and Development Intern - Boston Research Center - 2027 Summer Student Program",
+  "category": "research",
+  "apply_url": "https://aramcoservices.applytojob.com/apply/rnpFdnTdYb/Research-And-Development-Boston-Research-Center-2027-Summer-Student-Program",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Santa Clara",
-      "state": "CA",
-      "country": "USA"
-    },
-    {
-      "city": "Westlake Village",
-      "state": "CA",
+      "city": "Cambridge",
+      "state": "MA",
       "country": "USA"
     }
   ],
@@ -45,8 +40,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-04",
-    "discovered": "2026-10-13",
+    "posted": "2026-09-08",
+    "discovered": "2026-10-23",
     "last_verified": "2026-10-23"
   },
   "status": "open",

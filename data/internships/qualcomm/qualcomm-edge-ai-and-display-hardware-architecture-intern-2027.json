@@ -1,21 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "american-family-insurance-group-enterprise-data-intern-enablement-service-support-2027-2a03d2",
+  "id": "qualcomm-edge-ai-and-display-hardware-architecture-intern-2027",
   "company": {
-    "name": "American Family Insurance Group",
-    "slug": "american-family-insurance-group"
+    "name": "Qualcomm",
+    "slug": "qualcomm"
   },
-  "role": "Enterprise Data Intern - Enablement, Service & Support",
-  "category": "software-engineering",
-  "apply_url": "https://amfam.wd1.myworkdayjobs.com/en-US/Careers/job/WI-Madison/Enterprise-Data-Intern_R39527",
+  "role": "Edge AI and Display Hardware Architecture Intern",
+  "category": "ai",
+  "apply_url": "https://qualcomm.eightfold.ai/careers/job/446721661830",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Madison",
-      "state": "WI",
-      "country": "USA"
+      "city": "Markham",
+      "country": "ON"
     }
   ],
   "compensation": {
@@ -25,10 +24,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters",
-      "phd"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -43,13 +39,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-10-15",
-    "discovered": "2026-10-16",
+    "posted": "2026-10-21",
+    "discovered": "2026-10-23",
     "last_verified": "2026-10-23"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }

@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "appian-software-engineering-intern-2027-172919",
+  "id": "oatey-product-management-intern-2027",
   "company": {
-    "name": "Appian",
-    "slug": "appian"
+    "name": "OATEY",
+    "slug": "oatey"
   },
-  "role": "Software Engineering Intern",
-  "category": "software-engineering",
-  "apply_url": "https://job-boards.greenhouse.io/appian/jobs/8041237",
+  "role": "Product Management Intern",
+  "category": "product",
+  "apply_url": "https://wd5.myworkdaysite.com/recruiting/oatey/Oatey_External_/job/Cleveland-OH-Headquarters/Product-Management-Intern_R7185",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "McLean",
-      "state": "VA",
+      "city": "Cleveland",
+      "state": "OH",
       "country": "USA"
     }
   ],
@@ -28,7 +28,7 @@
     "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
-    "visa_sponsorship": "no"
+    "visa_sponsorship": "unknown"
   },
   "interview": {},
   "tech": {
@@ -40,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-27",
-    "discovered": "2026-09-28",
+    "posted": "2026-09-04",
+    "discovered": "2026-10-23",
     "last_verified": "2026-10-23"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:vanshb03"
+    "src:simplify"
   ]
 }

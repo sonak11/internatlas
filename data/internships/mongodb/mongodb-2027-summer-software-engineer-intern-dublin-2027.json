@@ -1,20 +1,21 @@
 {
   "schema_version": "1.0",
-  "id": "qualcomm-edge-ai-and-display-hardware-architecture-development-engine-2027",
+  "id": "mongodb-2027-summer-software-engineer-intern-dublin-2027",
   "company": {
-    "name": "Qualcomm",
-    "slug": "qualcomm"
+    "name": "MongoDB",
+    "slug": "mongodb",
+    "career_page": "https://www.mongodb.com/careers"
   },
-  "role": "Edge AI and Display Hardware Architecture Development Engineering Intern - Interim Engineering Intern - Systems",
-  "category": "ai",
-  "apply_url": "https://qualcomm.eightfold.ai/careers/job/446721661830",
+  "role": "2027 - Summer Software Engineer Intern, Dublin",
+  "category": "software-engineering",
+  "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8267099",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Markham",
-      "country": "ON"
+      "city": "Dublin",
+      "country": "USA"
     }
   ],
   "compensation": {
@@ -39,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-10-21",
-    "discovered": "2026-10-22",
+    "posted": "2026-10-23",
+    "discovered": "2026-10-23",
     "last_verified": "2026-10-23"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:ats"
   ]
 }

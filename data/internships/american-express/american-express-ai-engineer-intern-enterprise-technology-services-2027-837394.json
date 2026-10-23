@@ -5,7 +5,7 @@
     "name": "American Express",
     "slug": "american-express"
   },
-  "role": "AI Engineer Intern, Enterprise Technology Services",
+  "role": "AI Engineer Intern - Enterprise Technology Services",
   "category": "ai",
   "apply_url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011745",
   "season": "summer",
@@ -40,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-21",
+    "posted": "2026-08-17",
     "discovered": "2026-08-18",
     "last_verified": "2026-10-23"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:vanshb03"
+    "src:simplify"
   ]
 }

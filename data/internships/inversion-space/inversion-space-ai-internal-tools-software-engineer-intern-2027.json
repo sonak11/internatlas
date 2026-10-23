@@ -14,11 +14,6 @@
   "locations": [
     {
       "city": "Playa Vista",
-      "state": "LA",
-      "country": "USA"
-    },
-    {
-      "city": "Playa Vista",
       "state": "CA",
       "country": "USA"
     }
@@ -55,6 +50,6 @@
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }

@@ -1,24 +1,24 @@
 {
   "schema_version": "1.0",
-  "id": "drivewealth-ai-consulting-associate-program-product-owner-intern-2027",
+  "id": "fab2-electrical-engineer-intern-2027",
   "company": {
-    "name": "DriveWealth",
-    "slug": "drivewealth"
+    "name": "Fab2",
+    "slug": "fab2"
   },
-  "role": "AI Consulting Associate Program Product Owner Intern",
-  "category": "ai",
-  "apply_url": "https://boards.greenhouse.io/drivewealth/jobs/8038087003",
+  "role": "Electrical Engineer Intern",
+  "category": "software-engineering",
+  "apply_url": "https://jobs.ashbyhq.com/fab2/aec19ef8-2257-4295-abc2-87afd05224ae/application?embed=true",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Chicago",
-      "state": "IL",
+      "city": "SF",
       "country": "USA"
     },
     {
-      "city": "NYC",
+      "city": "Austin",
+      "state": "TX",
       "country": "USA"
     }
   ],
@@ -29,9 +29,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -46,8 +44,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-10-20",
-    "discovered": "2026-10-21",
+    "posted": "2026-09-05",
+    "discovered": "2026-10-23",
     "last_verified": "2026-10-23"
   },
   "status": "open",

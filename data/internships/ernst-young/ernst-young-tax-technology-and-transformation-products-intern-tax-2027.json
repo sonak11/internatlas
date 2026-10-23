@@ -1,20 +1,24 @@
 {
   "schema_version": "1.0",
-  "id": "costar-group-product-intern-2027-24d934",
+  "id": "ernst-young-tax-technology-and-transformation-products-intern-tax-2027",
   "company": {
-    "name": "CoStar Group",
-    "slug": "costar-group"
+    "name": "Ernst & Young",
+    "slug": "ernst-young"
   },
-  "role": "Product Intern",
+  "role": "Tax Technology and Transformation Products Intern - Tax",
   "category": "software-engineering",
-  "apply_url": "https://costar.wd1.myworkdayjobs.com/en-US/Costar_Campus/job/US-VA-Richmond---CoStar-Tower/Product-Intern---Richmond--VA--Summer-2027-_R39900",
+  "apply_url": "https://eyglobal.yello.co/jobs/j21FS2VcGwQq6MZcPdNRoQ?job_board_id=c1riT--B2O-KySgYWsZO1Q",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Richmond",
-      "state": "VA",
+      "city": "Dallas",
+      "state": "TX",
+      "country": "USA"
+    },
+    {
+      "city": "NYC",
       "country": "USA"
     }
   ],
@@ -25,7 +29,9 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "masters"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -40,13 +46,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-10-13",
-    "discovered": "2026-10-17",
+    "posted": "2026-09-04",
+    "discovered": "2026-10-23",
     "last_verified": "2026-10-23"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:vanshb03"
+    "src:simplify"
   ]
 }

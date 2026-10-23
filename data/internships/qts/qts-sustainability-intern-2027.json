@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "qorvo-rfic-design-engineer-intern-2026-f2dc24",
+  "id": "qts-sustainability-intern-2027",
   "company": {
-    "name": "Qorvo",
-    "slug": "qorvo"
+    "name": "QTS",
+    "slug": "qts"
   },
-  "role": "RFIC Design Engineer Intern",
-  "category": "design",
-  "apply_url": "https://careers.qorvo.com/job/Greensboro-RFIC-Design-Engineering-Intern-NC-27409/1421973800/?ats=successfactors",
-  "season": "fall",
-  "year": 2026,
+  "role": "Sustainability Intern",
+  "category": "software-engineering",
+  "apply_url": "https://qtsdatacenters.wd5.myworkdayjobs.com/qts/job/Duluth-GA/Summer-2027-Internship--Sustainability_R2026-1900",
+  "season": "summer",
+  "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Greensboro",
-      "state": "NC",
+      "city": "Duluth",
+      "state": "GA",
       "country": "USA"
     }
   ],
@@ -26,8 +26,7 @@
   "eligibility": {
     "graduation_years": [],
     "degree_levels": [
-      "masters",
-      "phd"
+      "masters"
     ],
     "citizenship_required": false,
     "security_clearance_required": false,
@@ -43,11 +42,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-31",
-    "discovered": "2026-08-31",
-    "last_verified": "2026-09-17"
+    "posted": "2026-08-26",
+    "discovered": "2026-10-23",
+    "last_verified": "2026-10-23"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

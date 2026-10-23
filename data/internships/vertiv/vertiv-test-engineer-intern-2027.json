@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "illinois-tool-works-product-management-intern-2027-6db4dc",
+  "id": "vertiv-test-engineer-intern-2027",
   "company": {
-    "name": "Illinois Tool Works",
-    "slug": "illinois-tool-works"
+    "name": "Vertiv",
+    "slug": "vertiv"
   },
-  "role": "Product Management Intern",
-  "category": "product",
-  "apply_url": "https://careers.itw.com/global/en/job/JR10112",
-  "season": "winter",
+  "role": "Test Engineer Intern",
+  "category": "software-engineering",
+  "apply_url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279024",
+  "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "San Luis Obispo",
-      "state": "CA",
+      "city": "Delaware",
+      "state": "OH",
       "country": "USA"
     }
   ],
@@ -40,8 +40,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-16",
-    "discovered": "2026-09-16",
+    "posted": "2026-08-10",
+    "discovered": "2026-10-23",
     "last_verified": "2026-10-23"
   },
   "status": "open",

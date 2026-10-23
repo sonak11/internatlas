@@ -1,20 +1,24 @@
 {
   "schema_version": "1.0",
-  "id": "rtx-software-engineer-intern-2027-afbae3",
+  "id": "jp-morgan-chase-quantitative-research-intern-markets-analyst-2027",
   "company": {
-    "name": "RTX",
-    "slug": "rtx"
+    "name": "JP Morgan Chase",
+    "slug": "jp-morgan-chase"
   },
-  "role": "Software Engineer Intern",
-  "category": "software-engineering",
-  "apply_url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CO-AURORA-S77--16470-E-Hughes-Dr--BLDG-S77/Software-Engineering--Intern--Summer-2027-_01881520",
+  "role": "Quantitative Research Intern - Markets - Analyst",
+  "category": "quant",
+  "apply_url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774038",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Aurora",
-      "state": "CO",
+      "city": "NYC",
+      "country": "USA"
+    },
+    {
+      "city": "New York",
+      "state": "NY",
       "country": "USA"
     }
   ],
@@ -25,12 +29,10 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
-    "visa_sponsorship": "unknown"
+    "visa_sponsorship": "yes"
   },
   "interview": {},
   "tech": {
@@ -42,8 +44,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-10-22",
-    "discovered": "2026-10-22",
+    "posted": "2026-08-03",
+    "discovered": "2026-10-23",
     "last_verified": "2026-10-23"
   },
   "status": "open",

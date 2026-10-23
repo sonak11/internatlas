@@ -7,14 +7,20 @@
   },
   "role": "Firmware Engineer Intern",
   "category": "embedded",
-  "apply_url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Ottawa-Canada/Firmware-Engineer-Intern---Winter-2027_2604738",
-  "season": "winter",
+  "apply_url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Firmware-Engineer-Intern--BS---Summer-2027_2604461",
+  "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Ottawa",
-      "country": "ON"
+      "city": "Santa Clara",
+      "state": "CA",
+      "country": "USA"
+    },
+    {
+      "city": "Westlake Village",
+      "state": "CA",
+      "country": "USA"
     }
   ],
   "compensation": {
@@ -41,7 +47,7 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-10-02",
+    "posted": "2026-09-04",
     "discovered": "2026-09-04",
     "last_verified": "2026-10-23"
   },
