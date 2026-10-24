@@ -1,20 +1,18 @@
 {
   "schema_version": "1.0",
-  "id": "citi-technology-summer-analyst-intern-production-support-2027",
+  "id": "fedex-freight-media-web-development-intern-marketing-2027",
   "company": {
-    "name": "Citi",
-    "slug": "citi"
+    "name": "FedEx Freight",
+    "slug": "fedex-freight"
   },
-  "role": "Technology Summer Analyst Intern - Production Support",
+  "role": "Media & Web Development Intern, Marketing",
   "category": "software-engineering",
-  "apply_url": "https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Technology--Production-Support--Summer-Analyst--Tampa---USA--2027_261003298",
+  "apply_url": "https://freight.wd108.myworkdayjobs.com/FXF_External_Career_Site/job/FXF-USUSAFXFMHQMemphis-Headquarters/Intern-Media---Web-Development--Marketing-_RC5600",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Tampa",
-      "state": "FL",
       "country": "USA"
     }
   ],
@@ -40,13 +38,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-10-23",
+    "posted": "2026-10-22",
     "discovered": "2026-10-24",
     "last_verified": "2026-10-24"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }

@@ -23,6 +23,18 @@
     {
       "city": "Edmonton",
       "country": "AB"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada"
+    },
+    {
+      "city": "Calgary",
+      "country": "Canada"
+    },
+    {
+      "city": "Edmonton",
+      "country": "Canada"
     }
   ],
   "compensation": {
