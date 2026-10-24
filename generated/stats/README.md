@@ -272,7 +272,6 @@ _Generated 2026-10-24_
 - Corteva — AI Engineer Intern
 - COUNTRY Financial — Automation Developer Intern
 - Cox — Data Scientist Intern
-- Cox — Product Management Intern
 - Cox — Product Management Intern - Summer 2027
 - Cox — Product Management Intern - Summer 2027
 - Cox — Product Management Intern - Summer 2027

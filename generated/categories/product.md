@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🧭 Product Internships
 
-**233** tracked · **136** open now
+**233** tracked · **137** open now
 
 ## Current openings
 
@@ -50,6 +50,7 @@
 | [Cisco](generated/companies/cisco.md) | [Engineering Product Management Specialist I Intern](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Engineering-Product-Management-Specialist-I--Intern----United-States_2026308) | San Jose, CA +3 | Onsite | 2026-10-22 | Rolling | 🟢 Open | ❔ |
 | [Coinbase](generated/companies/coinbase.md) | [Associate Product Manager Intern](https://www.coinbase.com/careers/positions/8168322?gh_jid=8168322) | Hybrid | Onsite | 2026-09-08 | Rolling | 🟢 Open | ❔ |
 | [Coinbase](generated/companies/coinbase.md) | [Associate Product Manager Intern - Multiple Teams](https://boards.greenhouse.io/embed/job_app?token=8168322) | SF | Onsite | 2026-09-09 | Rolling | 🟢 Open | ❔ |
+| [Cox](generated/companies/cox.md) | [Product Management Intern](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Austin-TX/Product-Management-Intern---Summer-2027--Austin--TX-_R202682189) | Austin, TX | Onsite | 2026-09-08 | Rolling | 🟢 Open | ❔ |
 | [Databricks](generated/companies/databricks.md) | [Product Management Intern](https://boards.greenhouse.io/embed/job_app?token=6883068002) | SF +2 | Onsite | 2026-07-16 | Rolling | 🟢 Open | ❔ |
 | [Databricks](generated/companies/databricks.md) | [Product Management Intern (2027) - Amsterdam](https://databricks.com/company/careers/open-positions/job?gh_jid=8133715002) | Amsterdam | Onsite | 2025-08-29 | Rolling | 🟢 Open | ❔ |
 | [Databricks](generated/companies/databricks.md) | [Product Management Intern (2027) - Belgrade](https://databricks.com/company/careers/open-positions/job?gh_jid=8863328002) | Belgrade | Onsite | 2026-10-02 | Rolling | 🟢 Open | ❔ |
@@ -161,7 +162,6 @@
 | [Charles Schwab](generated/companies/charles-schwab.md) | [Product Management Intern - Thinkorswim](https://career-schwab.icims.com/jobs/126266/job?mobile=true&needsRedirect=false) | Austin, TX | Onsite | 2026-09-10 | Rolling | 🔴 Closed | ❔ |
 | [Coinbase](generated/companies/coinbase.md) | [Product Manager (HR Technology) Intern](https://www.coinbase.com/careers/positions/8175504?gh_jid=8175504) | Hybrid | Onsite | 2026-09-08 | Rolling | 🔴 Closed | ❔ |
 | [Coinbase](generated/companies/coinbase.md) | [Product Manager Intern - HR Technology](https://boards.greenhouse.io/embed/job_app?token=8175504) | NYC | Onsite | 2026-09-09 | Rolling | 🔴 Closed | ❔ |
-| [Cox](generated/companies/cox.md) | [Product Management Intern](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Austin-TX/Product-Management-Intern---Summer-2027--Austin--TX-_R202682189) | Austin, TX | Onsite | 2026-09-08 | Rolling | 🔴 Closed | ❔ |
 | [Cox](generated/companies/cox.md) | [Product Management Intern - Summer 2027](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Burlington-VT/Product-Management-Intern---Summer-2027--Burlington--VT-_R202682191) | Burlington, VT | Onsite | 2026-09-08 | Rolling | 🔴 Closed | ❔ |
 | [Cox](generated/companies/cox.md) | [Product Management Intern - Summer 2027](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Draper-UT/Product-Management-Intern---Summer-2027--Draper--UT-_R202682188) | Draper, UT | Onsite | 2026-09-08 | Rolling | 🔴 Closed | ❔ |
 | [Cox](generated/companies/cox.md) | [Product Management Intern - Summer 2027](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Long-Island-NY/Product-Management-Intern---Summer-2027--North-Hills--NY-_R202682185) | Long Island | Onsite | 2026-09-08 | Rolling | 🔴 Closed | ❔ |
@@ -250,9 +250,9 @@
 - GE Vernova (8)
 - Tesla (6)
 - BNY (5)
+- Cox (5)
 - Databricks (5)
 - SOTI (5)
-- Cox (5)
 - Mastercard (5)
 - Coinbase (4)
 - Autodesk (4)

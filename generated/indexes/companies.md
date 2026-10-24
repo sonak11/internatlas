@@ -362,7 +362,7 @@
 | [Courier Health](../companies/courier-health.md) | 1/1 | software-engineering |
 | [CoverMyMeds](../companies/covermymeds.md) | 1/1 | software-engineering |
 | [Covestro](../companies/covestro.md) | 1/1 | software-engineering |
-| [Cox](../companies/cox.md) | 0/10 | ai, data-science, product, software-engineering |
+| [Cox](../companies/cox.md) | 1/10 | ai, data-science, product, software-engineering |
 | [Create Music Group](../companies/create-music-group.md) | 0/1 | research |
 | [Creative Artists Agency](../companies/creative-artists-agency.md) | 1/1 | software-engineering |
 | [Crest Nicholson](../companies/crest-nicholson.md) | 0/1 | software-engineering |

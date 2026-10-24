@@ -8,7 +8,7 @@
 
 No dead links, no generic careers pages. Just current openings, newest first, with the date each one was posted.
 
-![summer 2027](https://img.shields.io/badge/summer%202027-4561-blue?style=for-the-badge) ![open now](https://img.shields.io/badge/open%20now-2801-brightgreen?style=for-the-badge) ![companies](https://img.shields.io/badge/companies-1561-purple?style=for-the-badge) ![visa sponsors](https://img.shields.io/badge/visa%20sponsors-31-orange?style=for-the-badge) ![remote roles](https://img.shields.io/badge/remote%20roles-134-teal?style=for-the-badge) ![sync](https://img.shields.io/badge/sync-hourly-success?style=for-the-badge) ![updated](https://img.shields.io/badge/updated-2026--10--24%2010:23%20AM%20EDT-lightgrey?style=for-the-badge)
+![summer 2027](https://img.shields.io/badge/summer%202027-4561-blue?style=for-the-badge) ![open now](https://img.shields.io/badge/open%20now-2802-brightgreen?style=for-the-badge) ![companies](https://img.shields.io/badge/companies-1561-purple?style=for-the-badge) ![visa sponsors](https://img.shields.io/badge/visa%20sponsors-31-orange?style=for-the-badge) ![remote roles](https://img.shields.io/badge/remote%20roles-134-teal?style=for-the-badge) ![sync](https://img.shields.io/badge/sync-hourly-success?style=for-the-badge) ![updated](https://img.shields.io/badge/updated-2026--10--24%202:00%20PM%20EDT-lightgrey?style=for-the-badge)
 
 [**📋 Browse listings**](#-summer-2027-internships) · [**🗓 Other terms**](#-other-open-terms) · [**➕ Add one**](CONTRIBUTING.md) · [**🔗 Sources**](SOURCES.md)
 
@@ -4246,7 +4246,7 @@ No dead links, no generic careers pages. Just current openings, newest first, wi
 | [ByteDance](generated/companies/bytedance.md) | [Software Engineer Intern - Traffic Infrastructure](https://jobs.bytedance.com/en/position/7672626707586746629/detail) | San Jose, CA | Onsite | 2026-08-15 | Rolling | 🔴 Closed | ❔ |
 | [TikTok](generated/companies/tiktok.md) | [Product Manager Intern - Product Infrastructure - Account](https://lifeattiktok.com/search/7670009830602721589) | San Jose, CA | Onsite | 2026-08-06 | Rolling | 🔴 Closed | ❔ |
 
-### 🧭 Product (176 · 120 open)
+### 🧭 Product (176 · 121 open)
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
@@ -4307,6 +4307,7 @@ No dead links, no generic careers pages. Just current openings, newest first, wi
 | [Coinbase](generated/companies/coinbase.md) | [Associate Product Manager Intern - Multiple Teams](https://boards.greenhouse.io/embed/job_app?token=8168322) | SF | Onsite | 2026-09-09 | Rolling | 🟢 Open | ❔ |
 | [BNY](generated/companies/bny.md) | [Product Management Intern - Product Management](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81922) | London | Onsite | 2026-09-08 | Rolling | 🟢 Open | ❔ |
 | [Coinbase](generated/companies/coinbase.md) | [Associate Product Manager Intern](https://www.coinbase.com/careers/positions/8168322?gh_jid=8168322) | Hybrid | Onsite | 2026-09-08 | Rolling | 🟢 Open | ❔ |
+| [Cox](generated/companies/cox.md) | [Product Management Intern](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Austin-TX/Product-Management-Intern---Summer-2027--Austin--TX-_R202682189) | Austin, TX | Onsite | 2026-09-08 | Rolling | 🟢 Open | ❔ |
 | [Dick's Sporting Goods](generated/companies/dick-s-sporting-goods.md) | [Product Management Intern - Corporate Internship](https://dickssportinggoods.wd1.myworkdayjobs.com/en-US/DSG/job/Customer-Support-Center/Product-Management---Summer-2027-Corporate-Internship_202608791-1) | Pittsburgh, PA | Onsite | 2026-09-08 | Rolling | 🟢 Open | ❔ |
 | [Trimble](generated/companies/trimble.md) | [Product Management Intern](https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---CO-Westminster/Product-Management-Intern_R57675-1) | Westminster, CO +1 | Onsite | 2026-09-08 | Rolling | 🟢 Open | ❔ |
 | [Ernst & Young](generated/companies/ernst-young.md) | [Product Manager Intern - Tax - Other Tax](https://eyglobal.yello.co/jobs/ScWvvhAQZFvHMXityc1Mgw?job_board_id=c1riT--B2O-KySgYWsZO1Q) | NYC | Onsite | 2026-09-04 | Rolling | 🟢 Open | ❔ |
@@ -4399,7 +4400,6 @@ No dead links, no generic careers pages. Just current openings, newest first, wi
 | [Coinbase](generated/companies/coinbase.md) | [Product Manager Intern - HR Technology](https://boards.greenhouse.io/embed/job_app?token=8175504) | NYC | Onsite | 2026-09-09 | Rolling | 🔴 Closed | ❔ |
 | [USAA](generated/companies/usaa.md) | [Digital Technical Product Management Intern](https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/Digital-Technical-Product-Management-Intern_R0120759) | San Antonio, TX | Onsite | 2026-09-09 | Rolling | 🔴 Closed | ❔ |
 | [Coinbase](generated/companies/coinbase.md) | [Product Manager (HR Technology) Intern](https://www.coinbase.com/careers/positions/8175504?gh_jid=8175504) | Hybrid | Onsite | 2026-09-08 | Rolling | 🔴 Closed | ❔ |
-| [Cox](generated/companies/cox.md) | [Product Management Intern](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Austin-TX/Product-Management-Intern---Summer-2027--Austin--TX-_R202682189) | Austin, TX | Onsite | 2026-09-08 | Rolling | 🔴 Closed | ❔ |
 | [Cox](generated/companies/cox.md) | [Product Management Intern - Summer 2027](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Burlington-VT/Product-Management-Intern---Summer-2027--Burlington--VT-_R202682191) | Burlington, VT | Onsite | 2026-09-08 | Rolling | 🔴 Closed | ❔ |
 | [Cox](generated/companies/cox.md) | [Product Management Intern - Summer 2027](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Draper-UT/Product-Management-Intern---Summer-2027--Draper--UT-_R202682188) | Draper, UT | Onsite | 2026-09-08 | Rolling | 🔴 Closed | ❔ |
 | [Cox](generated/companies/cox.md) | [Product Management Intern - Summer 2027](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Long-Island-NY/Product-Management-Intern---Summer-2027--North-Hills--NY-_R202682185) | Long Island | Onsite | 2026-09-08 | Rolling | 🔴 Closed | ❔ |
