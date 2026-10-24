@@ -33,7 +33,7 @@ _Generated 2026-10-24_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 4194 | `███████████████` |
+| software-engineering | 4195 | `███████████████` |
 | ai | 601 | `██` |
 | quant | 340 | `█` |
 | machine-learning | 330 | `█` |
@@ -122,6 +122,7 @@ _Generated 2026-10-24_
 - AnaVation — Computer Science Intern - Summer Program
 - Anduril — 2026 Electrical Engineer Intern
 - Anduril — 2026 Guidance, Navigation & Control Engineer Intern
+- Aon — Actuarial Consulting Industrial Placement Intern - Actuarial Consulting - Pensions
 - Applied Materials — Data Analyst Intern - Global Technical Learning Center
 - Aptura — Investment Banking Intern - AI Evaluation
 - AQR Capital Management — Trading Analyst Intern
@@ -192,6 +193,7 @@ _Generated 2026-10-24_
 - Bosch Home Comfort — Data Analyst & Marketing/Sales Intern
 - Boston Scientific — Electrical Hardware Engineer Intern
 - Boston Scientific — Equipment Engineering AI Vision Engineer Intern
+- Boston Scientific — Equipment Engineering Software Engineer Intern
 - Boston Scientific — R&D Firmware Engineer Intern
 - Boston Scientific — R&D Research Data Science Intern
 - Boston Scientific — Software Development Engineer Intern
@@ -265,6 +267,7 @@ _Generated 2026-10-24_
 - Corewell Health — Digital Services Integrated Data and Analytics Intern
 - Corewell Health — Digital Services Web and Mobile Developer Intern
 - Corning — Engineering Data Analyst Intern
+- Corning — Imaging Sciences Engineer Intern
 - Corteva — AI Engineer Intern
 - COUNTRY Financial — Automation Developer Intern
 - Cox — Data Scientist Intern
@@ -307,7 +310,7 @@ _Generated 2026-10-24_
 - Eaton — R&D Engineer Intern - Research & Development Engineering
 - Electronic Arts — Analytics Intern
 - Electronic Arts — Gameplay Engineer Intern
-- Electronic Arts — Software Engineer Intern
+- Electronic Arts — Rendering Engineer Intern - Apex Legends
 - Electronic Arts — Software Engineer Intern
 - Electronic Arts — Software Engineer Intern
 - Electronic Arts — Software Engineer Intern
@@ -387,6 +390,7 @@ _Generated 2026-10-24_
 - Geotab — Software Developer Intern - Mygeotab
 - GlobalFoundries — Silicon Photonics Advanced Packaging Intern
 - GlobalFoundries — Systems/Process Engineering Intern - Tapeout Operations
+- GM financial — Oracle Application Developer Intern
 - GM financial — Software Development Engineer Intern
 - GM financial — Software Development Engineer Intern
 - Goldman Sachs — Summer Analyst Intern - Engineering
@@ -404,6 +408,7 @@ _Generated 2026-10-24_
 - H&R Block — Financial Services Data Analytics Intern
 - H&R Block — Machine Learning Intern
 - H&R Block — Product Management Intern - S
+- H&R Block — Software Engineer Intern
 - Harvey — Software Engineer Intern
 - Helion Energy — Computational Plasma Research Intern
 - Heron Power — Electronics Design Engineer Intern
@@ -555,6 +560,7 @@ _Generated 2026-10-24_
 - Nelnet — Agentic AI Intern
 - Netic — Software Engineer Intern
 - Neuralink — Analog and Mixed-Signal IC Design Engineer Intern
+- NewYork-Presbyterian — Finance Intern
 - Niantic Spatial — Software Engineer Intern
 - Nightwing — Software / Hardware Engineering Intern
 - Nike — Software Engineer Intern
@@ -664,6 +670,7 @@ _Generated 2026-10-24_
 - Resultant — Data & Analytics Consultant Intern - Summer 2027
 - REV Robotics — Software Engineer Intern
 - RF-SMART — Software Support Engineer Intern
+- Rhombus — Software Engineer Intern
 - Rivet Industries — Software Engineer Intern
 - Robinhood — Brokerage Operations Intern (Summer 2027)
 - Robinhood — Brokerage Risk Analyst Intern (Summer 2027)
@@ -843,6 +850,7 @@ _Generated 2026-10-24_
 - Verizon Communications — Call Routing Optimization Engineering Intern
 - Verizon Communications — Call Routing Optimization Engineering Intern, Verizon Consumer Group
 - Verizon Communications — Data Science Intern
+- Verizon Communications — Data Science Intern
 - Verizon Communications — Data Science Intern, Verizon Consumer Group
 - Vermeer — Data Analytics Intern
 - Vermeer — Test Engineer Intern
@@ -894,6 +902,7 @@ _Generated 2026-10-24_
 - Xcel Energy — Renewable and Demand Response Intern
 - Xcel Energy — Renewable Operations Center Intern
 - Xcel Energy — Reporting and Compliance Analyst Intern
+- Xcel Energy — Residential Energy Product Strategy Intern
 - Xcel Energy — Residential Energy Product Strategy Intern
 - Xcel Energy — Residential Energy Product Strategy Intern
 - Xcel Energy — Resource Planning Intern
