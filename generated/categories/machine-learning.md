@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🧠 Machine Learning Internships
 
-**325** tracked · **227** open now
+**327** tracked · **229** open now
 
 ## Current openings
 
@@ -107,6 +107,7 @@
 | [Leidos](generated/companies/leidos.md) | [AI/ML Intern](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Huntsville-AL/AI-ML-Intern_R-00195168) | Huntsville, AL | Onsite | 2026-10-22 | Rolling | 🟢 Open | ❔ |
 | [Lyft](generated/companies/lyft.md) | [PhD Machine Learning Software Engineer Intern](https://app.careerpuck.com/job-board/lyft/job/8817974002?gh_jid=8817974002) | SF | Onsite | 2026-10-06 | Rolling | 🟢 Open | ❔ |
 | [Lyft](generated/companies/lyft.md) | [Software Engineer Intern - Machine Learning](https://app.careerpuck.com/job-board/lyft/job/8802332002?gh_jid=8802332002) | Toronto | Onsite | 2026-09-11 | Rolling | 🟢 Open | ❔ |
+| [Merck](generated/companies/merck.md) | [Future Talent Program Intern - AI/ML Biomedical Imaging and Computational Pathology](https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Massachusetts---Cambridge-320-Bent-Street/XMLNAME-2027-Future-Talent-Program---AI-ML-Biomedical-Imaging-and-Computational-Pathology---Intern_R423515) | Cambridge, MA | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
 | [Micron Technology](generated/companies/micron-technology.md) | [Machine Learning Engineering Intern](https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---Machine-Learning-Engineering_JR114750) | Richardson, TX | Onsite | 2026-10-20 | Rolling | 🟢 Open | ❔ |
 | [Microsoft](generated/companies/microsoft.md) | [Software Engineer Intern, AI/ML & LLM](https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0&pid=1970393556922929) | Redmond, WA | Onsite | 2026-08-04 | Rolling | 🟢 Open | ✅ |
 | [Modal](generated/companies/modal.md) | [Machine Learning Research Intern](https://jobs.ashbyhq.com/modal/38888294-6bc7-4dab-b072-6d0f0c2ed79a/application?embed=true) | SF +1 | Onsite | 2026-07-28 | Rolling | 🟢 Open | ❔ |
@@ -211,6 +212,7 @@
 | [TikTok](generated/companies/tiktok.md) | [Software Engineer Intern - ML Infra](https://lifeattiktok.com/search/7668696895234197813) | San Jose, CA | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
 | [TMEIC](generated/companies/tmeic.md) | [Intern - Applications, AI and Machine Learning](https://apply.workable.com/tmeic-corporation-americas/j/FD4C9770FF/) | Roanoke, VA | Onsite | 2026-05-01 | Rolling | 🟢 Open | ❌ |
 | [Tower Research Capital](generated/companies/tower-research-capital.md) | [Machine Learning Intern](https://www.tower-research.com/open-positions/?gh_jid=7077280) | Montreal | Onsite | 2026-10-15 | Rolling | 🟢 Open | ❔ |
+| [Trimble](generated/companies/trimble.md) | [Navigation & Machine Learning Engineer Intern](https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/Canada---Richmond-Hill-Ontario-Applanix/Navigation---Machine-Learning-Engineering-Intern--16-Months-_R57980) | Richmond Hill | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
 | [Veeam Software](generated/companies/veeam-software.md) | [Machine Learning Intern - AI](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4971207101) | San Jose, CA | Onsite | 2026-09-11 | Rolling | 🟢 Open | ❔ |
 | [Waymo](generated/companies/waymo.md) | [2027 Summer Intern, MS/PhD, AI-driven ML Performance Engineering Intern](https://careers.withwaymo.com/jobs?gh_jid=8248060) | Mountain View, CA | Onsite | 2026-10-01 | Rolling | 🟢 Open | ❔ |
 | [Waymo](generated/companies/waymo.md) | [2027 Summer Intern, MS/PhD, Machine Learning Engineer](https://careers.withwaymo.com/jobs?gh_jid=8223735) | San Francisco, CA +1 | Onsite | 2026-09-22 | Rolling | 🟢 Open | ❔ |
@@ -374,6 +376,7 @@
 - JP Morgan Chase (2)
 - Kinaxis (2)
 - Lyft (2)
+- Merck (2)
 - Modal (2)
 - PathAI (2)
 - Pennsylvania State University (2)
@@ -427,6 +430,7 @@
 - Thomson Reuters (1)
 - TMEIC (1)
 - Tower Research Capital (1)
+- Trimble (1)
 - Veeam Software (1)
 - X Development (1)
 - American Family Insurance Group (1)
@@ -446,7 +450,6 @@
 - Keysight Technologies (1)
 - Kodiak Robotics (1)
 - Marvell (1)
-- Merck (1)
 - Meta (1)
 - Moon (1)
 - Motorola (1)

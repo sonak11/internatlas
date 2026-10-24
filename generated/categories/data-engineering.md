@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🛠 Data Engineering Internships
 
-**120** tracked · **63** open now
+**121** tracked · **64** open now
 
 ## Current openings
 
@@ -36,6 +36,7 @@
 | [IAT Insurance Group](generated/companies/iat-insurance-group.md) | [Data Engineering & Visualization Intern](https://iatinsurancegroup.wd1.myworkdayjobs.com/iat/job/Raleigh-NC/Data-Engineering---Visualization-Internship_JR100441) | Raleigh, NC | Onsite | 2026-09-28 | Rolling | 🟢 Open | ❔ |
 | [ibotta](generated/companies/ibotta.md) | [Data Engineer Intern](https://jobs.ashbyhq.com/ibotta/666cac72-9e06-46ee-aea0-576f766338b2/application?embed=true) | Denver, CO | Onsite | 2026-09-14 | Rolling | 🟢 Open | ❔ |
 | [ICF International](generated/companies/icf-international.md) | [Data Engineer Intern](https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Data-Engineer--Reston--VA-or-Remote-_R2603380) | Reston, VA | Onsite | 2026-10-07 | Rolling | 🟢 Open | ❔ |
+| [ID.me](generated/companies/id-me.md) | [Analytics Engineer Intern](https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/8041991003) | Mountain View, CA | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
 | [Jain Global](generated/companies/jain-global.md) | [Data Engineer Intern](https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/New-York-New-York/Data-Engineer-Intern_JR100605-1) | NYC | Onsite | 2026-10-05 | Rolling | 🟢 Open | ❔ |
 | [Jane Street](generated/companies/jane-street.md) | [Data Engineer Intern](https://www.janestreet.com/join-jane-street/position/8631973002/) | New York, NY | Onsite | 2026-07-24 | Rolling | 🟢 Open | ✅ |
 | [Jump Trading](generated/companies/jump-trading.md) | [Campus Data Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8002998) | Chicago | Onsite | 2026-07-08 | Rolling | 🟢 Open | ❔ |
@@ -166,6 +167,7 @@
 - IAT Insurance Group (1)
 - ibotta (1)
 - ICF International (1)
+- ID.me (1)
 - Jain Global (1)
 - Jane Street (1)
 - Jump Trading (1)

@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 📈 Quant Internships
 
-**340** tracked · **205** open now
+**340** tracked · **203** open now
 
 ## Current openings
 
@@ -33,7 +33,6 @@
 | [BlackRock](generated/companies/blackrock.md) | [Quantitative Master’s Intern - Investments - Quantitative Investing](https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/San-Francisco-CA/XMLNAME-2027-Quantitative-Masters-Internship-Program---Investments---Quantitative-Investing---San-Francisco_R266474) | SF | Onsite | 2026-09-15 | Rolling | 🟢 Open | ❔ |
 | [BlackRock](generated/companies/blackrock.md) | [Quantitative Master’s Internship - Technology - Analytics & Modeling](https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/San-Francisco-CA/XMLNAME-2027-Quantitative-Masters-Internship-Program---Technology---Analytics---Modeling---San-Francisco_R266476) | SF | Onsite | 2026-09-15 | Rolling | 🟢 Open | ❔ |
 | [Blackstone](generated/companies/blackstone.md) | [Blackstone Credit and Insurance – Quant and Portfolio Analytics Summer Analyst Intern](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Campus_Careers/job/Berkeley-Square-House-London/XMLNAME-2027-Blackstone-Credit-and-Insurance--Quant-and-Portfolio-Analytics-Summer-Analyst---London-_43819) | London | Onsite | 2026-07-02 | Rolling | 🟢 Open | ❔ |
-| [Booz Allen](generated/companies/booz-allen.md) | [Quantum Computing Research Intern](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/University---Summer-2027-Quantum-Computing-Research-Intern_R0249046) | Washington, DC | Onsite | 2026-09-09 | Rolling | 🟢 Open | ❔ |
 | [Booz Allen](generated/companies/booz-allen.md) | [Quantum Research Intern - Summer 2027](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/University---Summer-2027---Quantum-Research-Intern_R0250129) | Washington, DC | Onsite | 2026-09-23 | Rolling | 🟢 Open | ❔ |
 | [Brevan Howard](generated/companies/brevan-howard.md) | [Summer Internship Program - Systematic Trading Technology Software Engineer](https://wd3.myworkdaysite.com/recruiting/brevanhoward/BH_ExternalCareers/job/New-York/XMLNAME-2027-Summer-Internship-Program---Systematic-Trading-Technology-Software-Engineer--New-York_JR101597) | NYC | Onsite | 2026-09-10 | Rolling | 🟢 Open | ❔ |
 | [Brevan Howard](generated/companies/brevan-howard.md) | [Systematic Trading Intern](https://wd3.myworkdaysite.com/recruiting/brevanhoward/BH_ExternalCareers/job/New-York/XMLNAME-2027-Summer-Internship-Program---Systematic-Trading--New-York_JR101591) | NYC | Onsite | 2026-09-09 | Rolling | 🟢 Open | ❔ |
@@ -136,7 +135,6 @@
 | [OCC](generated/companies/occ.md) | [Quantitative Risk Management Intern](https://theocc.wd5.myworkdayjobs.com/careers/job/Chicago---125-S-Franklin/Summer-Intern---Quantitative-Risk-Management_REQ-4864) | Chicago, IL | Onsite | 2026-09-17 | Rolling | 🟢 Open | ❔ |
 | [OCC](generated/companies/occ.md) | [Quantitative Risk Management Intern](https://theocc.wd5.myworkdayjobs.com/careers/job/Chicago---125-S-Franklin/Summer-Intern---Quantitative-Risk-Management_REQ-4863) | Chicago, IL | Onsite | 2026-09-17 | Rolling | 🟢 Open | ❔ |
 | [OCC](generated/companies/occ.md) | [Quantitative Risk Management Intern](https://theocc.wd5.myworkdayjobs.com/careers/job/Chicago---125-S-Franklin/Summer-Intern---Quantitative-Risk-Management_REQ-4862) | Chicago, IL | Onsite | 2026-09-17 | Rolling | 🟢 Open | ❔ |
-| [Optiver](generated/companies/optiver.md) | [Quantitative Research Intern](https://www.optiver.com/join-us/jobs/8451782002/?gh_jid=8451782002) | Austin, TX +2 | Onsite | 2026-07-01 | Rolling | 🟢 Open | ❔ |
 | [PDT Partners](generated/companies/pdt-partners.md) | [Quantitative Research Intern](https://job-boards.greenhouse.io/pdtpartners/jobs/8263031) | NYC | Onsite | 2026-10-07 | Rolling | 🟢 Open | ❔ |
 | [PIMCO](generated/companies/pimco.md) | [Quant Research Analyst Intern - Client Solutions & Analytics](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-Summer-Intern---PhD-Quant-Research-Analyst--Client-Solutions---Analytics--US_R106815) | Newport Beach, CA | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
 | [PIMCO](generated/companies/pimco.md) | [Quant Research Analyst Intern - Client Solutions & Analytics](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-Summer-Intern---Masters-Quant-Research-Analyst--Client-Solutions---Analytics--US_R106816) | Newport Beach, CA | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
@@ -223,6 +221,7 @@
 | [BlackRock](generated/companies/blackrock.md) | [Quantitative Master’s Intern - Investments - Portfolio Management](https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/San-Francisco-CA/XMLNAME-2027-Quantitative-Masters-Internship-Program---Investments---Portfolio-Management---San-Francisco_R266472) | SF | Onsite | 2026-09-15 | Rolling | 🔴 Closed | ❔ |
 | [BlackRock](generated/companies/blackrock.md) | [Quantitative Master’s Intern - Investments - Portfolio Management](https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/Atlanta-GA/XMLNAME-2027-Quantitative-Masters-Internship-Program---Investments---Portfolio-Management---Atlanta_R266470) | Atlanta, GA | Onsite | 2026-09-15 | Rolling | 🔴 Closed | ❔ |
 | [BNY](generated/companies/bny.md) | [Trading Intern - Trading](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81350) | NYC | Onsite | 2026-08-24 | Rolling | 🔴 Closed | ❔ |
+| [Booz Allen](generated/companies/booz-allen.md) | [Quantum Computing Research Intern](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/University---Summer-2027-Quantum-Computing-Research-Intern_R0249046) | Washington, DC | Onsite | 2026-09-09 | Rolling | 🔴 Closed | ❔ |
 | [BP](generated/companies/bp.md) | [Commercial Intern - Supply, Trading, & Shipping](https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers/job/United-States-of-America---Illinois---Chicago/Summer-Internship---Supply--Trading----Shipping---Commercial---Chicago--IL_RQ115344) | Chicago, IL | Onsite | 2026-08-31 | Rolling | 🔴 Closed | ❔ |
 | [BP](generated/companies/bp.md) | [Finance & Risk Intern - Supply, Trading, & Shipping](https://bpinternational.wd3.myworkdayjobs.com/bpPrivateExternalCareersSite/job/United-States-of-America---Illinois---Chicago/Summer-Internship---Supply--Trading----Shipping-Finance---Risk---Chicago--IL_RQ115370) | Chicago, IL | Onsite | 2026-08-31 | Rolling | 🔴 Closed | ❔ |
 | [BP](generated/companies/bp.md) | [Finance & Risk Intern - Supply, Trading, & Shipping](https://bpinternational.wd3.myworkdayjobs.com/bpPrivateExternalCareersSite/job/United-States-of-America---Texas---Houston/Summer-Internship---Supply--Trading----Shipping-Finance---Risk---Houston--TX_RQ115372) | Houston, TX | Onsite | 2026-08-31 | Rolling | 🔴 Closed | ❔ |
@@ -302,6 +301,7 @@
 | [Oppenheimer & Co. Inc.](generated/companies/oppenheimer-co-inc.md) | [Equities Sales & Trading Intern - Business Segments and Corporate Infrastructure](https://opco.hrmdirect.com/employment/job-opening.php?req=3799625) | NYC | Onsite | 2026-09-02 | Rolling | 🔴 Closed | ❔ |
 | [Optiver](generated/companies/optiver.md) | [Quantitative Intern](https://www.optiver.com/join-us/jobs/8402215002/?gh_jid=8402215002) | Austin, TX +1 | Onsite | 2026-07-01 | Rolling | 🔴 Closed | ❔ |
 | [Optiver](generated/companies/optiver.md) | [Quantitative Intern - Summer 2027](https://www.optiver.com/join-us/jobs/8682750002/?gh_jid=8682750002) | Austin, TX | Onsite | 2026-08-05 | Rolling | 🔴 Closed | ❔ |
+| [Optiver](generated/companies/optiver.md) | [Quantitative Research Intern](https://www.optiver.com/join-us/jobs/8451782002/?gh_jid=8451782002) | Austin, TX +2 | Onsite | 2026-07-01 | Rolling | 🔴 Closed | ❔ |
 | [Optiver](generated/companies/optiver.md) | [Trading Automation and Operations Intern](https://www.optiver.com/join-us/jobs/8489582002/?gh_jid=8489582002) | Chicago, IL | Onsite | 2026-07-16 | Rolling | 🔴 Closed | ❔ |
 | [PEAK6](generated/companies/peak6.md) | [Trading Bootcamp Micro-Internship - Summer 2027](https://peak6group.wd1.myworkdayjobs.com/CapMan/job/Chicago-IL/Trading-Bootcamp-Micro-Internship---Summer-2027_JR105057) | Chicago, IL | Onsite | 2026-08-10 | Rolling | 🔴 Closed | ❔ |
 | [PEAK6](generated/companies/peak6.md) | [Trading Intern](https://peak6group.wd1.myworkdayjobs.com/CapMan/job/Chicago-IL/Trading-Internship-for-Women-_JR105061) | Chicago, IL | Onsite | 2026-08-10 | Rolling | 🔴 Closed | ❔ |
@@ -374,9 +374,9 @@
 - Hudson River Trading (4)
 - Jain Global (4)
 - Jane Street (4)
-- Optiver (4)
 - Point72 (4)
 - Tower Research Capital (4)
+- Optiver (4)
 - Akuna Capital (3)
 - AQR Capital Management (3)
 - Belvedere Trading (3)

@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🤖 AI Internships
 
-**595** tracked · **303** open now
+**598** tracked · **306** open now
 
 ## Current openings
 
@@ -30,9 +30,11 @@
 | [American Express](generated/companies/american-express.md) | [AI Engineer Intern - Enterprise Technology Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012000) | Atlanta, GA | Onsite | 2026-08-18 | Rolling | 🟢 Open | ❔ |
 | [American Express](generated/companies/american-express.md) | [AI Engineer Intern - Enterprise Technology Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011745) | Sunrise, FL | Onsite | 2026-08-17 | Rolling | 🟢 Open | ❔ |
 | [American Express](generated/companies/american-express.md) | [AI Engineer Intern - Enterprise Technology Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011991) | NYC +1 | Onsite | 2026-08-17 | Rolling | 🟢 Open | ❔ |
+| [American Express](generated/companies/american-express.md) | [AI Engineer Intern - Enterprise Technology Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26015552) | Toronto | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
 | [American Express](generated/companies/american-express.md) | [AI Engineer Intern - Enterprise Technology Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011698) | NYC +1 | Onsite | 2026-08-17 | Rolling | 🟢 Open | ❌ |
 | [American Express](generated/companies/american-express.md) | [AI Engineer Intern, Enterprise Technology Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012375) | Phoenix, AZ | Onsite | 2026-08-21 | Rolling | 🟢 Open | ❌ |
 | [American Express](generated/companies/american-express.md) | [AI Engineer Intern, Enterprise Technology Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011796) | Atlanta, GA | Onsite | 2026-08-21 | Rolling | 🟢 Open | ❌ |
+| [American Family Insurance Group](generated/companies/american-family-insurance-group.md) | [AI Platform Engineering Intern](https://amfam.wd1.myworkdayjobs.com/en-US/Careers/job/WI-Madison/Product-Data-Engineering-Intern--Hybrid-_R39462) | Madison, WI | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
 | [Amplify](generated/companies/amplify.md) | [AI Scientist Intern](https://jobs.ashbyhq.com/amplify/bb45b7f6-dd7e-40e5-84e6-52e21650a7b8/application?embed=true) | Remote | Remote | 2026-10-19 | Rolling | 🟢 Open | ❔ |
 | [Aon](generated/companies/aon.md) | [IT / AI Engineer Intern](https://jobs.aon.com/jobs/110099?icims=1) | Chicago, IL | Onsite | 2026-10-21 | Rolling | 🟢 Open | ❔ |
 | [Aptiv](generated/companies/aptiv.md) | [AI Product Analyst Intern](https://aptiv.wd5.myworkdayjobs.com/en-US/aptiv_careers/job/USA-San-Diego-CA---WR/Product-Analyst-Intern_J000704400) | San Diego, CA | Onsite | 2026-10-21 | Rolling | 🟢 Open | ❔ |
@@ -251,6 +253,7 @@
 | [Shure](generated/companies/shure.md) | [Artificial Intelligence Engineer Intern](https://careersus-shure.icims.com/jobs/4966/job?mobile=true&needsRedirect=false) | Niles, IL | Onsite | 2026-09-03 | Rolling | 🟢 Open | ❔ |
 | [ShyftLabs](generated/companies/shyftlabs.md) | [AI Engineer Intern](https://jobs.lever.co/shyftlabs/4f389ea7-9b98-4ed0-99c2-b25ea8cc2dcd/apply) | Toronto | Onsite | 2026-07-21 | Rolling | 🟢 Open | ❔ |
 | [ShyftLabs](generated/companies/shyftlabs.md) | [AI Engineer Intern](https://jobs.lever.co/shyftlabs/4f389ea7-9b98-4ed0-99c2-b25ea8cc2dcd) | Toronto | Onsite | 2026-07-24 | Rolling | 🟢 Open | ❔ |
+| [Simbe Robotics](generated/companies/simbe-robotics.md) | [Computer Vision / Applied AI Intern](https://jobs.lever.co/SimbeRobotics/d8e862ca-212d-4a88-af74-de400b0c6bf8/apply) | Burlingame, CA | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
 | [SimIS](generated/companies/simis.md) | [Artificial Intelligence Developer Intern - Aerospace/Aviation](https://simisinc.applytojob.com/apply/U1yOSyvkvH/AerospaceAviation-Artificial-Intelligence-Developer-Intern) | Suffolk, VA | Onsite | 2026-08-21 | Rolling | 🟢 Open | ❔ |
 | [Smith+Nephew](generated/companies/smith-nephew.md) | [Agentic AI Software Engineering Intern](https://smithnephew.wd5.myworkdayjobs.com/en-US/External/job/Andover-MA/Intern-Agentic-AI-Software-Engineering_R92953) | Andover, MA | Onsite | 2026-10-21 | Rolling | 🟢 Open | ❔ |
 | [Solidigm](generated/companies/solidigm.md) | [Software Engineering Intern - Firmware & AI Engineering](https://jobs.smartrecruiters.com/Solidigm/744000147613769) | Rancho Cordova, CA | Onsite | 2026-09-05 | Rolling | 🟢 Open | ❔ |
@@ -611,7 +614,7 @@
 - TikTok (18)
 - Royal Bank of Canada (13)
 - AMD (11)
-- American Express (10)
+- American Express (11)
 - Autodesk (10)
 - General Motors (10)
 - NVIDIA (7)
@@ -714,6 +717,7 @@
 - Verizon Communications (2)
 - AGCO (1)
 - Amcor (1)
+- American Family Insurance Group (1)
 - Amplify (1)
 - Aon (1)
 - Aptiv (1)
@@ -782,6 +786,7 @@
 - Phillips 66 (1)
 - Rogue Fitness (1)
 - ServiceNow (1)
+- Simbe Robotics (1)
 - SimIS (1)
 - Solidigm (1)
 - Sony (1)

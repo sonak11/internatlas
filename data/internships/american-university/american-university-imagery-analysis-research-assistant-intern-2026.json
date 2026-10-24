@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0",
+  "id": "american-university-imagery-analysis-research-assistant-intern-2026",
+  "company": {
+    "name": "American University",
+    "slug": "american-university"
+  },
+  "role": "Imagery Analysis Research Assistant Intern",
+  "category": "research",
+  "apply_url": "https://american.wd1.myworkdayjobs.com/au/job/Main-Campus-Washington-DC/Imagery-Analysis-Research-Assistant---Student-_R5120-1",
+  "season": "fall",
+  "year": 2026,
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "Washington",
+      "state": "DC",
+      "country": "USA"
+    }
+  ],
+  "compensation": {
+    "currency": "USD",
+    "housing_stipend": false,
+    "relocation_assistance": false
+  },
+  "eligibility": {
+    "graduation_years": [],
+    "degree_levels": [],
+    "citizenship_required": false,
+    "security_clearance_required": false,
+    "visa_sponsorship": "unknown"
+  },
+  "interview": {},
+  "tech": {
+    "required_skills": [],
+    "preferred_skills": [],
+    "languages": [],
+    "frameworks": [],
+    "cloud_platforms": [],
+    "resume_keywords": []
+  },
+  "dates": {
+    "posted": "2026-10-23",
+    "discovered": "2026-10-24",
+    "last_verified": "2026-10-24"
+  },
+  "status": "open",
+  "tags": [
+    "auto-ingested",
+    "src:simplify"
+  ]
+}

@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🔬 Research Internships
 
-**235** tracked · **135** open now
+**236** tracked · **136** open now
 
 ## Current openings
 
@@ -11,6 +11,7 @@
 | [Abundant](generated/companies/abundant.md) | [Member of Technical Staff Intern - Research](https://jobs.ashbyhq.com/abundant/1ebf7fda-c322-404d-acc3-2757bbd79996/application?embed=true) | SF | Onsite | 2026-08-20 | Rolling | 🟢 Open | ❔ |
 | [Abundant](generated/companies/abundant.md) | [Software Engineering Intern, Research Focused](https://www.workatastartup.com/jobs/94634) | San Francisco, CA | Onsite | 2026-05-14 | Rolling | 🟢 Open | ❌ |
 | [American Bankers Association](generated/companies/american-bankers-association.md) | [Banking Policy and Economic Research Intern](https://aba.wd1.myworkdayjobs.com/aba/job/US-DC-Main-Office/Intern--Banking-Policy-and-Economic-Research_R625) | Washington, DC | Onsite | 2026-10-16 | Rolling | 🟢 Open | ❔ |
+| [American University](generated/companies/american-university.md) | [Imagery Analysis Research Assistant Intern](https://american.wd1.myworkdayjobs.com/au/job/Main-Campus-Washington-DC/Imagery-Analysis-Research-Assistant---Student-_R5120-1) | Washington, DC | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
 | [Applied Intuition](generated/companies/applied-intuition.md) | [Research Intern - Reinforcement Learning - Robotics](https://jobs.ashbyhq.com/applied/bb953f29-0059-4a40-aa9e-3a8c88733902/application?embed=true) | Sunnyvale, CA | Onsite | 2026-06-27 | Rolling | 🟢 Open | ❔ |
 | [Applied Intuition](generated/companies/applied-intuition.md) | [Research Intern - World-Action Foundation Model - Robotics](https://jobs.ashbyhq.com/applied/edc2528d-6e6c-4a67-b871-bfe7d9c890b4/application?embed=true) | Sunnyvale, CA | Onsite | 2026-06-27 | Rolling | 🟢 Open | ❔ |
 | [AQR Capital Management](generated/companies/aqr-capital-management.md) | [Arbitrage Research Summer Analyst Intern - AQR Arbitrage](https://careers.aqr.com/jobs?gh_jid=8156993&gh_jid=8156993) | Greenwich, CT | Onsite | 2026-08-25 | Rolling | 🟢 Open | ❔ |
@@ -280,6 +281,7 @@
 - Nationwide Children's Hospital (2)
 - Warner Bros. (2)
 - American Bankers Association (1)
+- American University (1)
 - Aramco Americas (1)
 - Architect Labs (1)
 - Bosch (1)

@@ -7,35 +7,22 @@
   },
   "role": "Business Intelligence Consulting Intern",
   "category": "software-engineering",
-  "apply_url": "https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Des-Moines/Business-Intelligence-Consulting-Intern---Summer-2027_JR121327",
+  "apply_url": "https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Edmonton/Business-Intelligence-Consulting-Intern---Summer-2027_JR122066-1",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Des Moines",
-      "state": "IA",
-      "country": "USA"
+      "city": "Toronto",
+      "country": "ON"
     },
     {
-      "city": "Irvine",
-      "state": "CA",
-      "country": "USA"
+      "city": "Calgary",
+      "country": "AB"
     },
     {
-      "city": "Dallas",
-      "state": "TX",
-      "country": "USA"
-    },
-    {
-      "city": "Chicago",
-      "state": "IL",
-      "country": "USA"
-    },
-    {
-      "city": "Denver",
-      "state": "CO",
-      "country": "USA"
+      "city": "Edmonton",
+      "country": "AB"
     }
   ],
   "compensation": {
@@ -62,11 +49,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-15",
+    "posted": "2026-10-23",
     "discovered": "2026-09-16",
-    "last_verified": "2026-10-02"
+    "last_verified": "2026-10-24"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

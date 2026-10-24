@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "cesiumastro-electrical-engineer-intern-hardware-2027-98b9e1",
+  "id": "simbe-robotics-robot-software-engineer-intern-2027",
   "company": {
-    "name": "CesiumAstro",
-    "slug": "cesiumastro"
+    "name": "Simbe Robotics",
+    "slug": "simbe-robotics"
   },
-  "role": "Electrical Engineer Intern - Hardware",
-  "category": "hardware",
-  "apply_url": "https://jobs.lever.co/CesiumAstro/ccb0f99f-0cc7-4517-8d1c-faeca53b5e5c/apply",
-  "season": "summer",
+  "role": "Robot Software Engineer Intern",
+  "category": "software-engineering",
+  "apply_url": "https://jobs.lever.co/SimbeRobotics/d91f42b9-50b8-4b5f-8daf-00281d7dd61c/apply",
+  "season": "spring",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Westminster",
-      "state": "CO",
+      "city": "Burlingame",
+      "state": "CA",
       "country": "USA"
     }
   ],
@@ -43,9 +43,9 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-16",
-    "discovered": "2026-09-16",
-    "last_verified": "2026-10-23"
+    "posted": "2026-10-23",
+    "discovered": "2026-10-24",
+    "last_verified": "2026-10-24"
   },
   "status": "open",
   "tags": [

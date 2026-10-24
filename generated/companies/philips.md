@@ -7,6 +7,7 @@
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
 | Philips | [Insights and Analytics Intern - Health Systems Marketing](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Intern-Insights-and-Analytics--Health-Systems-Marketing--Cambridge--MA---Summer-2027_593454) | Cambridge, MA | Onsite | 2026-10-14 | Rolling | 🟢 Open | ❔ |
+| Philips | [Service Offer Design Intern](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Intern----Service-Offer-Design---Cambridge--MA---Summer-2027_593517) | Cambridge, MA | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
 | Philips | [AI Engineer Intern - Enterprise AI & Workflow Automation](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Plymouth-Minnesota-United-States/Intern---AI-Engineer--Enterprise-AI---Workflow-Automation---Plymouth--MN---Summer-2027_591991) | Colorado Springs, CO +3 | Onsite | 2026-09-21 | Rolling | 🔴 Closed | ❔ |
 | Philips | [Data AI/ML Engineer Intern - Image Guided Therapy Devices - Software R&D](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Plymouth-Minnesota-United-States/Intern---Data-AI-ML-Engineering---Plymouth--MN---Summer-2027_590404) | Plymouth, MN | Onsite | 2026-08-28 | Rolling | 🔴 Closed | ❔ |
 | Philips | [Digital Healthtech Product Management Intern](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bothell-Washington-United-States/Intern---Digital-Healthtech-Product-Management---Bothell--WA---Summer-2027_585564) | Bothell, WA | Onsite | 2026-09-28 | Rolling | 🔴 Closed | ❔ |
@@ -18,4 +19,4 @@
 
 ## Related
 
-Browse more roles in: [🤖 AI](../categories/ai.md), [🧠 Machine Learning](../categories/machine-learning.md), [🧭 Product](../categories/product.md), [💻 Software Engineering](../categories/software-engineering.md)
+Browse more roles in: [🤖 AI](../categories/ai.md), [🎨 Design](../categories/design.md), [🧠 Machine Learning](../categories/machine-learning.md), [🧭 Product](../categories/product.md), [💻 Software Engineering](../categories/software-engineering.md)

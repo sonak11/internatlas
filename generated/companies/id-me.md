@@ -6,9 +6,10 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
+| ID.me | [Analytics Engineer Intern](https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/8041991003) | Mountain View, CA | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
 | ID.me | [Product Intern](https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7986695003) | Mountain View, CA | Onsite | 2026-09-08 | Rolling | 🟢 Open | ❔ |
 | ID.me | [Software Development Engineer Intern](https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7980429003) | Mountain View, CA | Onsite | 2026-09-04 | Rolling | 🟢 Open | ❔ |
 
 ## Related
 
-Browse more roles in: [💻 Software Engineering](../categories/software-engineering.md)
+Browse more roles in: [🛠 Data Engineering](../categories/data-engineering.md), [💻 Software Engineering](../categories/software-engineering.md)

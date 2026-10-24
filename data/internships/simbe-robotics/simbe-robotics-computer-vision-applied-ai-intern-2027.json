@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "copart-software-engineer-intern-2026-2ceb13",
+  "id": "simbe-robotics-computer-vision-applied-ai-intern-2027",
   "company": {
-    "name": "Copart",
-    "slug": "copart"
+    "name": "Simbe Robotics",
+    "slug": "simbe-robotics"
   },
-  "role": "Software Engineer Intern",
-  "category": "software-engineering",
-  "apply_url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109689",
-  "season": "fall",
-  "year": 2026,
+  "role": "Computer Vision / Applied AI Intern",
+  "category": "ai",
+  "apply_url": "https://jobs.lever.co/SimbeRobotics/d8e862ca-212d-4a88-af74-de400b0c6bf8/apply",
+  "season": "summer",
+  "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Dallas",
-      "state": "TX",
+      "city": "Burlingame",
+      "state": "CA",
       "country": "USA"
     }
   ],
@@ -25,7 +25,10 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "masters",
+      "phd"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -40,9 +43,9 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-15",
-    "discovered": "2026-09-14",
-    "last_verified": "2026-10-23"
+    "posted": "2026-10-23",
+    "discovered": "2026-10-24",
+    "last_verified": "2026-10-24"
   },
   "status": "open",
   "tags": [

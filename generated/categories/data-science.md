@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 📊 Data Science Internships
 
-**272** tracked · **154** open now
+**275** tracked · **157** open now
 
 ## Current openings
 
@@ -123,11 +123,14 @@
 | [Roblox](generated/companies/roblox.md) | [[2027] Data Scientist - PhD Intern](https://careers.roblox.com/jobs/8242619?gh_jid=8242619) | San Mateo, CA | Onsite | 2026-10-08 | Rolling | 🟢 Open | ❔ |
 | [Roche](generated/companies/roche.md) | [Data Science Intern - Multiple Teams](https://roche.wd3.myworkdayjobs.com/roche-ext/job/Welwyn/Data-Science-Industrial-Placement---Multiple-roles-within-Biostats--Data-Management--Real-World-Data-and-more_202609-122536) | Welwyn Garden City | Onsite | 2026-09-18 | Rolling | 🟢 Open | ❔ |
 | [Shield AI](generated/companies/shield-ai.md) | [Data Science Intern](https://jobs.lever.co/shieldai/aa71c28a-be00-43ca-8aa7-b764b2143797/apply) | San Diego, CA | Onsite | 2026-10-21 | Rolling | 🟢 Open | ❔ |
+| [Simbe Robotics](generated/companies/simbe-robotics.md) | [Data Analytics & Data Science Intern](https://jobs.lever.co/SimbeRobotics/96ee45fb-f094-4751-a43d-3e376f32667f/apply) | Burlingame, CA | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
 | [SOTI](generated/companies/soti.md) | [Data Scientist Intern](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Data-Scientist--Intern--Jan-2027-12-Months-_R10571) | Mississauga | Onsite | 2026-10-05 | Rolling | 🟢 Open | ❔ |
 | [State Farm](generated/companies/state-farm.md) | [Data Science Intern - Magnet Program](https://jobs.statefarm.com/jobs/46353?icims=1) | Tempe, AZ | Onsite | 2026-09-24 | Rolling | 🟢 Open | ❔ |
 | [State of North Carolina](generated/companies/state-of-north-carolina.md) | [Data Science Intern](https://nc.wd108.myworkdayjobs.com/NC_Careers/job/Wake-County-NC/Data-Science-Intern_JR-125225) | Raleigh, NC | Onsite | 2026-10-05 | Rolling | 🟢 Open | ❔ |
 | [Stripe](generated/companies/stripe.md) | [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=8194285) | Toronto | Onsite | 2026-10-01 | Rolling | 🟢 Open | ❔ |
 | [Stripe](generated/companies/stripe.md) | [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=8194283) | New York | Onsite | 2026-10-01 | Rolling | 🟢 Open | ❔ |
+| [Sun Life](generated/companies/sun-life.md) | [Data Science Intern](https://sunlife.wd3.myworkdayjobs.com/en-US/Experienced-Jobs/job/Wellesley-Hills-Massachusetts/Data-Science-Intern---Summer-2027-Intern_JR00127666) | Milwaukee, WI +4 | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
+| [Sun Life](generated/companies/sun-life.md) | [Data Science Intern](https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Wellesley-Hills-Massachusetts/Data-Science-Intern---Summer-2027-Intern_JR00127666-1) | Milwaukee, WI +4 | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
 | [Tencent](generated/companies/tencent.md) | [Data Science Intern](https://tencent.wd1.myworkdayjobs.com/en-US/tencent_careers/job/US-California-Palo-Alto/Data-Science-Intern_R108213) | Palo Alto, CA | Onsite | 2026-10-12 | Rolling | 🟢 Open | ❔ |
 | [The Federal Reserve System](generated/companies/the-federal-reserve-system.md) | [Data Science and Business Analytics Intern](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Chicago-IL/Summer-2027-Intern-Data-Science-and-Business-Analytics_R-0000033609) | Chicago, IL | Onsite | 2026-10-01 | Rolling | 🟢 Open | ❔ |
 | [The Federal Reserve System](generated/companies/the-federal-reserve-system.md) | [Data Science Intern](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Chicago-IL/Summer-2027-Intern--PhD-Data-Science-or-Computer-Science_R-0000033634) | Chicago, IL | Onsite | 2026-10-01 | Rolling | 🟢 Open | ❔ |
@@ -323,6 +326,7 @@
 - SOTI (2)
 - State Farm (2)
 - Stripe (2)
+- Sun Life (2)
 - The Federal Reserve System (2)
 - The Home Depot (2)
 - The Nuclear Company (2)
@@ -390,6 +394,7 @@
 - Roblox (1)
 - Roche (1)
 - Shield AI (1)
+- Simbe Robotics (1)
 - State of North Carolina (1)
 - Tencent (1)
 - The Hartford (1)

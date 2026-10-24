@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🧭 Product Internships
 
-**228** tracked · **130** open now
+**232** tracked · **135** open now
 
 ## Current openings
 
@@ -78,6 +78,7 @@
 | [Illinois Tool Works](generated/companies/illinois-tool-works.md) | [Product Management Intern](https://careers.itw.com/global/en/job/JR10112) | San Luis Obispo, CA | Onsite | 2026-09-16 | Rolling | 🟢 Open | ❔ |
 | [Illinois Tool Works](generated/companies/illinois-tool-works.md) | [Product Management Intern](https://careers.itw.com/global/en/job/JR10105) | Troy, OH | Onsite | 2026-09-15 | Rolling | 🟢 Open | ❔ |
 | [Intuit](generated/companies/intuit.md) | [Product Manager Intern](https://jobs.intuit.com/job/mountain-view/summer-2027-product-manager-intern/27595/100620927632) | Mountain View, CA +1 | Onsite | 2026-09-14 | Rolling | 🟢 Open | ❔ |
+| [Koch Industries](generated/companies/koch-industries.md) | [Product Management Intern](https://koch.avature.net/en_US/careers/JobDetail/195099) | Eden Prairie, MN +1 | Onsite | 2026-10-03 | Rolling | 🟢 Open | ❔ |
 | [Manulife Financial](generated/companies/manulife-financial.md) | [Product Management & Risk Technology Intern](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/Summer-Intern-2027---Product-Management---Risk-Technology_JR26080875) | Toronto | Onsite | 2026-10-08 | Rolling | 🟢 Open | ❔ |
 | [Medline](generated/companies/medline.md) | [MBA Intern - Product Management](https://medline.wd5.myworkdayjobs.com/en-US/Medline/job/Northfield-Illinois/MBA-Intern--Product-Management---Summer-2027_R2615805) | Chicago, IL +1 | Onsite | 2026-08-07 | Rolling | 🟢 Open | ❔ |
 | [Microsoft](generated/companies/microsoft.md) | [Product Manager Intern](https://apply.careers.microsoft.com/careers/job/1970393556953113) | Remote | Remote | 2026-08-04 | Rolling | 🟢 Open | ❔ |
@@ -98,9 +99,13 @@
 | [ROCKWOOL Group](generated/companies/rockwool-group.md) | [Associate Product Management Intern](https://rockwoolgroup.wd3.myworkdayjobs.com/en-US/ROCKWOOL/job/Chicago-Illinois/Associate-Product-Management-Intern_R0036805-2) | Chicago, IL | Onsite | 2026-10-15 | Rolling | 🟢 Open | ❔ |
 | [Shure](generated/companies/shure.md) | [Global Product Management Data Intern](https://careersus-shure.icims.com/jobs/5024/job?mobile=true&needsRedirect=false) | Niles, IL | Onsite | 2026-09-03 | Rolling | 🟢 Open | ❔ |
 | [Shure](generated/companies/shure.md) | [Global Product Management Intern - Conferencing](https://careersus-shure.icims.com/jobs/4990/job?mobile=true&needsRedirect=false) | Niles, IL | Onsite | 2026-09-03 | Rolling | 🟢 Open | ❔ |
+| [SOTI](generated/companies/soti.md) | [Associate Product Manager Intern](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Associate-Product-Manager-Intern--SOTI-XSight---May-2027---12-Months-_R10614) | Mississauga | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
+| [SOTI](generated/companies/soti.md) | [Associate Product Manager Intern](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Associate-Product-Manager-Intern--SOTI-Connect---May-2027---12-Months-_R10615) | Mississauga | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
+| [SOTI](generated/companies/soti.md) | [Associate Product Manager Intern](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Associate-Product-Manager-Intern--May-2027---12-Months-_R10638) | Mississauga | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
 | [Springs Window Fashions](generated/companies/springs-window-fashions.md) | [Product Management Competitive Product Assessment Intern - Summer 2027](https://careers-springswindowfashions.icims.com/jobs/12883/job?mobile=true&needsRedirect=false) | Middleton, WI | Onsite | 2026-08-22 | Rolling | 🟢 Open | ❔ |
 | [Springs Window Fashions](generated/companies/springs-window-fashions.md) | [Product Management Dashboard Analytics Intern](https://careers-springswindowfashions.icims.com/jobs/12882/job?mobile=true&needsRedirect=false) | Middleton, WI | Onsite | 2026-08-22 | Rolling | 🟢 Open | ❔ |
 | [Springs Window Fashions](generated/companies/springs-window-fashions.md) | [Product Management Intern](https://careers-springswindowfashions.icims.com/jobs/12892/job?mobile=true&needsRedirect=false) | Long Island City | Onsite | 2026-08-22 | Rolling | 🟢 Open | ❔ |
+| [TD Bank](generated/companies/td-bank.md) | [Life & Health Product Management Co-op Intern](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Job-Posting-Title-L-H-Product-Management-Intern-Co-op--Winter-2027-_R_1506721) | Toronto | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
 | [Tesla](generated/companies/tesla.md) | [Commercial Charging Product Management Intern - Energy Engineering](https://www.tesla.com/careers/search/job/283156) | Palo Alto, CA | Onsite | 2026-09-11 | Rolling | 🟢 Open | ❔ |
 | [Tesla](generated/companies/tesla.md) | [Internship - Product Management - Megapack Services - Winter/Spring 2027](https://www.tesla.com/careers/search/job/287443) | Fremont, CA | Onsite | 2026-10-22 | Rolling | 🟢 Open | ❔ |
 | [Tesla](generated/companies/tesla.md) | [Product Manager Intern - Residential Energy Engineering](https://www.tesla.com/careers/search/job/283841) | Palo Alto, CA | Onsite | 2026-09-18 | Rolling | 🟢 Open | ❔ |
@@ -182,7 +187,6 @@
 | [Johns Manville](generated/companies/johns-manville.md) | [Product Management Intern](https://jm.wd103.myworkdayjobs.com/External/job/Denver-CO-WHQ/Product-Management-Intern--Summer-2027_R26_1432) | Denver, CO | Onsite | 2026-08-27 | Rolling | 🔴 Closed | ❔ |
 | [JP Morgan Chase](generated/companies/jp-morgan-chase.md) | [Product Manager Intern - Chase Digital Development Programme](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210775305) | London | Onsite | 2026-09-01 | Rolling | 🔴 Closed | ❔ |
 | [KnowBe4](generated/companies/knowbe4.md) | [Associate Product Manager Intern](https://job-boards.greenhouse.io/knowbe4/jobs/8871835002) | Clearwater, FL | Onsite | 2026-10-06 | Rolling | 🔴 Closed | ❔ |
-| [Koch Industries](generated/companies/koch-industries.md) | [Product Management Intern](https://koch.avature.net/en_US/careers/JobDetail/195099) | Eden Prairie, MN +1 | Onsite | 2026-10-03 | Rolling | 🔴 Closed | ❔ |
 | [LabCorp](generated/companies/labcorp.md) | [IT Product Manager Intern - Payer Team](https://labcorp.wd1.myworkdayjobs.com/external/job/Durham-NC/Intern---IT-Product-Manager_2632185) | Durham, NC | Onsite | 2026-09-14 | Rolling | 🔴 Closed | ❔ |
 | [Mastercard](generated/companies/mastercard.md) | [Product Management Intern](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Purchase-New-York/Product-Management-Intern--Summer-2027---United-States_R-287624-1) | Harrison, NY +1 | Onsite | 2026-09-21 | Rolling | 🔴 Closed | ❔ |
 | [Mastercard](generated/companies/mastercard.md) | [Product Management Intern](https://mastercard.wd1.myworkdayjobs.com/Campus/job/Purchase-New-York/Product-Management-Intern--Summer-2027---United-States_R-287624) | Harrison, NY +1 | Onsite | 2026-09-21 | Rolling | 🔴 Closed | ❔ |
@@ -246,6 +250,7 @@
 - Tesla (6)
 - BNY (5)
 - Databricks (5)
+- SOTI (5)
 - Cox (5)
 - Mastercard (5)
 - Coinbase (4)
@@ -254,6 +259,7 @@
 - Duolingo (3)
 - Qorvo (3)
 - Springs Window Fashions (3)
+- TD Bank (3)
 - Zurn Elkay Water Solutions (3)
 - Goldman Sachs (3)
 - 1Password (2)
@@ -280,8 +286,6 @@
 - Geotab (2)
 - PricewaterhouseCoopers (PwC) (2)
 - Salesforce (2)
-- SOTI (2)
-- TD Bank (2)
 - ABB (1)
 - Acuity (1)
 - ADT (1)
@@ -303,6 +307,7 @@
 - GoFundMe (1)
 - Gordon Food Service (1)
 - Intuit (1)
+- Koch Industries (1)
 - Manulife Financial (1)
 - Mohawk (1)
 - NJM Insurance Group (1)
@@ -337,7 +342,6 @@
 - Johns Manville (1)
 - JP Morgan Chase (1)
 - KnowBe4 (1)
-- Koch Industries (1)
 - LabCorp (1)
 - Momentive (1)
 - Naver U.Hub INC (1)
