@@ -6,7 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
-| Federated Insurance | [IT Intern](https://careers-federatedinsurance.icims.com/jobs/5718/job?mobile=true&needsRedirect=false) | Owatonna, MN | Onsite | 2026-09-09 | Rolling | 🟢 Open | ❔ |
+| Federated Insurance | [IT Intern](https://careers-federatedinsurance.icims.com/jobs/5718/job?mobile=true&needsRedirect=false) | Owatonna, MN | Onsite | 2026-09-09 | Rolling | 🔴 Closed | ❔ |
 
 ## Related
 

@@ -6,7 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
-| Liberty Mutual | [Data Science Intern](https://campus-libertymutual.icims.com/jobs/95486/job?mobile=true&needsRedirect=false) | Boston, MA | Onsite | 2026-10-06 | Rolling | 🟢 Open | ❔ |
+| Liberty Mutual | [Data Science Intern](https://campus-libertymutual.icims.com/jobs/95486/job?mobile=true&needsRedirect=false) | Boston, MA | Onsite | 2026-10-06 | Rolling | 🔴 Closed | ❔ |
 
 ## Related
 
