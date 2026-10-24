@@ -33,7 +33,7 @@ _Generated 2026-10-24_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 4195 | `███████████████` |
+| software-engineering | 4196 | `███████████████` |
 | ai | 601 | `██` |
 | quant | 340 | `█` |
 | machine-learning | 330 | `█` |
@@ -199,6 +199,7 @@ _Generated 2026-10-24_
 - Boston Scientific — Software Development Engineer Intern
 - Boston Scientific — Software Engineer Intern - R&D
 - BP — Digital, Data, AI & Engineering Intern
+- BP — Geophysics Intern - Upstream R&D - Imaging Geophysics PhD
 - BP — Summer Intern - Multiple Teams
 - BP — Supply, Trading & Shipping Intern
 - Brevan Howard — Systematic Data Strategy Intern
@@ -817,6 +818,7 @@ _Generated 2026-10-24_
 - The Boeing Company — Data Analytics Intern
 - The Boeing Company — Data Analytics Intern
 - The Federal Reserve System — Mac/Mobile Intern
+- The Federal Reserve System — Research Intern
 - The Federal Reserve System — System IT Intern, Credit Risk Management
 - The Federal Reserve System — Windows Intern
 - The Home Depot — AI Machine Learning Developer Intern

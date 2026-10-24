@@ -1,6 +1,6 @@
 # 📬 InternAtlas Weekly Digest — 2026-10-24
 
-## 🆕 New this week (569)
+## 🆕 New this week (570)
 
 - **1Password** — [Developer Intern - Credential Brokering](https://jobs.ashbyhq.com/1password/67bfbd8b-aba9-42b1-a8a8-833367888fba/application?embed=true) · software-engineering · —
 - **1Password** — [Developer Intern, Credential Brokering](https://jobs.ashbyhq.com/1password/67bfbd8b-aba9-42b1-a8a8-833367888fba) · software-engineering · —
@@ -498,6 +498,7 @@
 - **The Aerospace Corporation** — [Embedded Software Engineer Intern, Multiple Teams](https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Embedded-Software-Engineering-Undergrad-Intern_R016949) · embedded · —
 - **The Allen Institute for AI** — [Research Intern - AI for Science](https://job-boards.greenhouse.io/thealleninstitute/jobs/8293615) · ai · —
 - **The Allen Institute for AI** — [Research Intern - Robotics](https://job-boards.greenhouse.io/thealleninstitute/jobs/8293641) · research · —
+- **The Federal Reserve System** — [Policy & Analysis Intern](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Dallas-TX/XMLNAME-2027-Intern---Policy---Analysis_R-0000033766) · software-engineering · —
 - **The Federal Reserve System** — [Technology Risk Intern](https://rb.wd5.myworkdayjobs.com/FRS/job/Dallas-TX/XMLNAME-2027-Intern---Technology-Risk_R-0000033765) · software-engineering · —
 - **The Toro Company** — [Cloud Software Developer Intern](https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Frederick-CO/Cloud-Software-Development-Intern---The-Toro-Company_JR17498) · cloud · —
 - **The Toro Company** — [Cloud Software Development Intern](https://ttc.wd1.myworkdayjobs.com/en-US/Toro_External_Careers/job/Frederick-CO/Cloud-Software-Development-Intern---The-Toro-Company_JR17498) · cloud · —
