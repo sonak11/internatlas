@@ -1,19 +1,19 @@
 {
   "schema_version": "1.0",
-  "id": "kla-software-engineering-intern-2027-3b926e",
+  "id": "cadence-design-systems-software-intern-2026",
   "company": {
-    "name": "KLA",
-    "slug": "kla"
+    "name": "Cadence Design Systems",
+    "slug": "cadence-design-systems"
   },
-  "role": "Software Engineering Intern",
+  "role": "Software Intern",
   "category": "software-engineering",
-  "apply_url": "https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Milpitas-CA/Software-Engineering-Intern_2642189-1",
-  "season": "summer",
-  "year": 2027,
+  "apply_url": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/Software-Intern_R53282",
+  "season": "fall",
+  "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Milpitas",
+      "city": "San Jose",
       "state": "CA",
       "country": "USA"
     }
@@ -25,7 +25,10 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "masters",
+      "phd"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -40,13 +43,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-10-23",
-    "discovered": "2026-10-24",
+    "posted": "2026-06-13",
+    "discovered": "2026-10-25",
     "last_verified": "2026-10-25"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:vanshb03"
+    "src:simplify"
   ]
 }

@@ -1,21 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "skydio-embedded-software-engineer-intern-2027-238291",
+  "id": "aptiv-cloud-software-engineer-intern-2027-cf5deb",
   "company": {
-    "name": "Skydio",
-    "slug": "skydio"
+    "name": "Aptiv",
+    "slug": "aptiv"
   },
-  "role": "Embedded Software Engineer Intern",
-  "category": "embedded",
-  "apply_url": "https://jobs.ashbyhq.com/skydio/d79ccbaa-2901-4303-bd90-675db7802366/application?embed=true",
-  "season": "winter",
+  "role": "Cloud Software Engineer Intern",
+  "category": "cloud",
+  "apply_url": "https://aptiv.wd5.myworkdayjobs.com/en-US/aptiv_careers/job/CAN-Kanata-2-ON---WR/Cloud-Software-Engineer-Intern_J000704375",
+  "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "San Mateo",
-      "state": "CA",
-      "country": "USA"
+      "city": "CAN Kanata",
+      "country": "ON"
     }
   ],
   "compensation": {
@@ -40,13 +39,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-10-23",
-    "discovered": "2026-10-24",
+    "posted": "2026-10-13",
+    "discovered": "2026-10-25",
     "last_verified": "2026-10-25"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }

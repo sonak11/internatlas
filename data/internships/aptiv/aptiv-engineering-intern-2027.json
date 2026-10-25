@@ -1,21 +1,24 @@
 {
   "schema_version": "1.0",
-  "id": "nvidia-sparse-linear-algebra-libraries-intern-2027-ceddea",
+  "id": "aptiv-engineering-intern-2027",
   "company": {
-    "name": "NVIDIA",
-    "slug": "nvidia"
+    "name": "Aptiv",
+    "slug": "aptiv"
   },
-  "role": "Sparse Linear Algebra Libraries Intern",
+  "role": "Engineering Intern",
   "category": "software-engineering",
-  "apply_url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Sparse-Linear-Algebra-Libraries-Intern---Summer-2027_JR2027429",
+  "apply_url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern_J000704367",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Santa Clara",
-      "state": "CA",
-      "country": "USA"
+      "city": "Kanata",
+      "country": "Canada"
+    },
+    {
+      "city": "Ottawa",
+      "country": "Canada"
     }
   ],
   "compensation": {
@@ -25,10 +28,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters",
-      "phd"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -43,13 +43,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-10-13",
-    "discovered": "2026-10-17",
+    "posted": "2026-10-23",
+    "discovered": "2026-10-25",
     "last_verified": "2026-10-25"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }
