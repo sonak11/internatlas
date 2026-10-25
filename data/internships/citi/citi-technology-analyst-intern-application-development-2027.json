@@ -5,16 +5,16 @@
     "name": "Citi",
     "slug": "citi"
   },
-  "role": "Technology Analyst Intern, Application Development",
+  "role": "Technology Analyst Intern - Application Development",
   "category": "software-engineering",
-  "apply_url": "https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Technology--Application-Development--Summer-Analyst--Irving---USA--2027_261003288",
+  "apply_url": "https://citi.wd5.myworkdayjobs.com/2/job/Jacksonville-Florida-United-States/Technology--Application-Development--Summer-Analyst--Jacksonville---USA--2027_261004418",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Irving",
-      "state": "TX",
+      "city": "Jacksonville",
+      "state": "FL",
       "country": "USA"
     }
   ],
@@ -47,6 +47,6 @@
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:vanshb03"
+    "src:simplify"
   ]
 }

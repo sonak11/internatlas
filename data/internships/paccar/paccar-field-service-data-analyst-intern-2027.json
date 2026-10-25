@@ -7,7 +7,7 @@
   },
   "role": "Field Service Data Analyst Intern",
   "category": "software-engineering",
-  "apply_url": "https://jobs.paccar.com/job/Kirkland-Summer-2027-Field-Service-Data-Analyst-Intern-WA-98033/1449526633/?ats=successfactors",
+  "apply_url": "https://go.vansh.nyc/dd",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
@@ -47,6 +47,6 @@
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }

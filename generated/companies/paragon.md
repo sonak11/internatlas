@@ -6,7 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
-| Paragon | [Forward Deployed Engineer (FDE) Intern](https://www.workatastartup.com/jobs/93642) | San Francisco, CA | Onsite | 2026-05-09 | Rolling | 🟢 Open | ❌ |
+| Paragon | [Forward Deployed Engineer (FDE) Intern](https://www.workatastartup.com/jobs/93642) | San Francisco, CA | Onsite | 2026-05-09 | Rolling | 🔴 Closed | ❌ |
 
 ## Related
 

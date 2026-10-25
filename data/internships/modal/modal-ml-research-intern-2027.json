@@ -3,20 +3,15 @@
   "id": "modal-ml-research-intern-2027",
   "company": {
     "name": "Modal",
-    "slug": "modal",
-    "career_page": "https://modal.com/careers"
+    "slug": "modal"
   },
   "role": "ML Research Intern",
   "category": "machine-learning",
-  "apply_url": "https://jobs.ashbyhq.com/modal/38888294-6bc7-4dab-b072-6d0f0c2ed79a",
+  "apply_url": "https://go.vansh.nyc/5S",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
-    {
-      "city": "New York",
-      "country": "USA"
-    },
     {
       "city": "New York",
       "state": "NY",
@@ -50,13 +45,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-28",
+    "posted": "2026-08-04",
     "discovered": "2026-07-29",
     "last_verified": "2026-10-25"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:ats"
+    "src:vanshb03"
   ]
 }

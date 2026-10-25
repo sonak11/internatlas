@@ -6,7 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
-| American Electric Power | [Data Scientist Intern](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Columbus-OH/Data-Scientist-Intern---Columbus--OH_R20499) | Columbus, OH | Onsite | 2026-10-20 | Rolling | 🟢 Open | ❔ |
+| American Electric Power | [Data Scientist Intern](https://go.vansh.nyc/cW) | Columbus, OH | Onsite | 2026-10-20 | Rolling | 🟢 Open | ❔ |
 
 ## Related
 

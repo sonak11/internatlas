@@ -13,6 +13,7 @@
 | onsemi | [Device Characterization Engineer Intern](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506970) | Hopewell Junction, NY | Onsite | 2026-10-15 | Rolling | 🟢 Open | ❔ |
 | onsemi | [Integrated Circuit Design Engineer Intern](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506546) | Allen, TX | Onsite | 2026-09-28 | Rolling | 🟢 Open | ❔ |
 | onsemi | [Manufacturing AI Engineering Intern](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506642) | Hopewell Junction, NY | Onsite | 2026-10-14 | Rolling | 🟢 Open | ❔ |
+| onsemi | [Manufacturing AI Intern](https://go.vansh.nyc/9k) | Hopewell Junction, NY | Onsite | 2026-10-14 | Rolling | 🟢 Open | ❔ |
 | onsemi | [Reliability Testing and Failure Analysis Intern](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506613) | Hopewell Junction, NY | Onsite | 2026-09-15 | Rolling | 🟢 Open | ❔ |
 | onsemi | [Semiconductor AI Specialist Intern](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506918) | Gresham, OR | Onsite | 2026-10-14 | Rolling | 🟢 Open | ❔ |
 | onsemi | [Technology Development Low- and Medium-Voltage Intern](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506492) | Hopewell Junction, NY | Onsite | 2026-09-17 | Rolling | 🟢 Open | ❔ |

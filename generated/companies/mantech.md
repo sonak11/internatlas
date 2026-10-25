@@ -6,7 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
-| ManTech | [AI Workflow Intern](https://mantech.avature.net/en_US/careers/JobDetail/66705) | Stafford, VA | Onsite | 2026-10-21 | Rolling | 🟢 Open | ❔ |
+| ManTech | [AI Workflow Intern](https://go.vansh.nyc/e0) | Stafford, VA | Onsite | 2026-10-21 | Rolling | 🟢 Open | ❔ |
 
 ## Related
 

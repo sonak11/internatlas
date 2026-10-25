@@ -7,6 +7,7 @@
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
 | Renesas Electronics | [Memory Server System Testing Intern](https://jobs.smartrecruiters.com/RenesasElectronics/744000157198610) | San Jose, CA | Onsite | 2026-10-22 | Rolling | 🟢 Open | ❔ |
+| Renesas Electronics | [Memory Server System Testing Intern](https://go.vansh.nyc/fB) | San Jose, CA | Onsite | 2026-10-22 | Rolling | 🟢 Open | ❔ |
 | Renesas Electronics | [Analog Intern](https://jobs.smartrecruiters.com/RenesasElectronics/744000153498869) | San Jose, CA +2 | Onsite | 2026-10-05 | Rolling | 🔴 Closed | ❔ |
 | Renesas Electronics | [Analog Intern](https://jobs.smartrecruiters.com/RenesasElectronics/744000153500409) | San Jose, CA +2 | Onsite | 2026-10-05 | Rolling | 🔴 Closed | ❔ |
 | Renesas Electronics | [Analog Intern](https://jobs.smartrecruiters.com/RenesasElectronics/744000153587608) | San Jose, CA | Onsite | 2026-10-05 | Rolling | 🔴 Closed | ❔ |

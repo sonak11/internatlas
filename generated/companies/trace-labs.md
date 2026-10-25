@@ -6,7 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
-| Trace Labs | [Robotics Engineer Intern, Hardware & Software](https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true) | New York, NY | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
+| Trace Labs | [Robotics Engineer Intern, Hardware & Software](https://go.vansh.nyc/hp) | New York, NY | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
 
 ## Related
 

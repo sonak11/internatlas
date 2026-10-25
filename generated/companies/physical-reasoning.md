@@ -6,7 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
-| Physical Reasoning | [Software Engineering Intern](https://physicalreasoning.ai/join/software-engineering-intern/) | San Francisco, CA +2 | Onsite | 2026-10-17 | Rolling | 🟢 Open | ✅ |
+| Physical Reasoning | [Software Engineering Intern](https://go.vansh.nyc/aC) | San Francisco, CA +2 | Onsite | 2026-10-17 | Rolling | 🟢 Open | ✅ |
 
 ## Related
 

@@ -7,23 +7,19 @@
   },
   "role": "Data Analyst Intern",
   "category": "software-engineering",
-  "apply_url": "https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4723980006",
+  "apply_url": "https://go.vansh.nyc/fo",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Arlington County",
-      "country": "Arlington"
+      "city": "Arlington",
+      "state": "VA",
+      "country": "USA"
     },
     {
       "city": "Woburn",
       "state": "MA",
-      "country": "USA"
-    },
-    {
-      "city": "Arlington",
-      "state": "VA",
       "country": "USA"
     }
   ],
@@ -56,6 +52,6 @@
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }

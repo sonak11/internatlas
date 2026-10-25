@@ -6,7 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
-| Duke Energy Corporation | [Nuclear Cybersecurity Intern](https://dukeenergy.wd1.myworkdayjobs.com/search/job/Hartsville-SC/Nuclear-Cybersecurity-2027-Summer-Internship_R42099) | Hartsville, SC | Onsite | 2026-10-21 | Rolling | 🟢 Open | ❔ |
+| Duke Energy Corporation | [Nuclear Cybersecurity Intern](https://go.vansh.nyc/em) | Hartsville, SC | Onsite | 2026-10-21 | Rolling | 🟢 Open | ❔ |
 
 ## Related
 

@@ -6,7 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
-| AiDASH | [Software Engineering Intern, Backend](https://job-boards.greenhouse.io/aidashinc/jobs/4436057009) | Palo Alto, CA | Onsite | 2026-10-16 | Rolling | 🟢 Open | ❔ |
+| AiDASH | [Software Engineering Intern, Backend](https://go.vansh.nyc/gk) | Palo Alto, CA | Onsite | 2026-10-16 | Rolling | 🟢 Open | ❔ |
 
 ## Related
 

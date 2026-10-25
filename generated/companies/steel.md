@@ -7,6 +7,7 @@
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
 | Steel | [Software Engineer Intern](https://jobs.ashbyhq.com/steel/5fbdbebf-ddb2-4264-a941-3ab6d475208c/application?embed=true) | Toronto | Onsite | 2026-10-20 | Rolling | 🟢 Open | ❔ |
+| Steel | [Software Engineer Intern](https://go.vansh.nyc/ct) | Toronto | Onsite | 2026-10-20 | Rolling | 🟢 Open | ❔ |
 
 ## Related
 

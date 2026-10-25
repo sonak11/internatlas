@@ -16,31 +16,6 @@
     {
       "city": "Boston",
       "country": "USA"
-    },
-    {
-      "city": "Boston",
-      "state": "MA",
-      "country": "USA"
-    },
-    {
-      "city": "Costa Mesa",
-      "state": "CA",
-      "country": "USA"
-    },
-    {
-      "city": "Fort Collins",
-      "state": "CO",
-      "country": "USA"
-    },
-    {
-      "city": "Reston",
-      "state": "VA",
-      "country": "USA"
-    },
-    {
-      "city": "Seattle",
-      "state": "WA",
-      "country": "USA"
     }
   ],
   "compensation": {

@@ -8,7 +8,7 @@
 |---|---|---|---|---|---|---|---|
 | SpaceX | [Silicon Engineer Intern/Co-op](https://boards.greenhouse.io/spacex/jobs/8636134002) | Palo Alto, CA +2 | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
 | SpaceX | [Silicon Engineer Intern/Co-op](https://boards.greenhouse.io/spacex/jobs/8621763002) | Palo Alto, CA +2 | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
-| SpaceX | [Software Engineer Intern, Fleet Health Instrumentation](https://job-boards.greenhouse.io/spacex/jobs/8621756002) | Remote | Remote | 2026-08-06 | Rolling | 🟢 Open | ❌ |
+| SpaceX | [Software Engineer Intern, Fleet Health Instrumentation](https://go.vansh.nyc/6J) | Remote | Remote | 2026-08-06 | Rolling | 🟢 Open | ❌ |
 | SpaceX | [Software Engineer Intern/Co-op](https://boards.greenhouse.io/spacex/jobs/8621756002) | Palo Alto, CA +7 | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
 | SpaceX | [Software Engineering Intern/Co-op](https://boards.greenhouse.io/spacex/jobs/8621757002) | Palo Alto, CA +7 | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
 | SpaceX | [Spring 2027 Business Operations Internship/Co-op](https://boards.greenhouse.io/spacex/jobs/8621770002?gh_jid=8621770002) | Flexible | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |

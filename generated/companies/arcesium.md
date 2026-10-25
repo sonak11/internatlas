@@ -6,7 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
-| Arcesium | [Infrastructure Engineer Intern](https://job-boards.greenhouse.io/arcesiumllc/jobs/5257199007) | New York, NY | Onsite | 2026-10-09 | Rolling | 🟢 Open | ❔ |
+| Arcesium | [Infrastructure Engineer Intern](https://go.vansh.nyc/ga) | New York, NY | Onsite | 2026-10-09 | Rolling | 🟢 Open | ❔ |
 
 ## Related
 

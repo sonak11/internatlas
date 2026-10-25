@@ -6,7 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
-| Old Mission | [Software Engineer Intern](https://www.oldmissioncapital.com/careers/?gh_jid=7796180003) | Chicago, IL | Onsite | 2026-07-24 | Rolling | 🟢 Open | ❔ |
+| Old Mission | [Software Engineer Intern](https://go.vansh.nyc/4C) | Chicago, IL | Onsite | 2026-07-24 | Rolling | 🟢 Open | ❔ |
 | Old Mission | [Quantitative Trader Intern](https://www.oldmissioncapital.com/careers/?gh_jid=8002345003) | Chicago, IL | Onsite | 2026-10-01 | Rolling | 🔴 Closed | ❔ |
 
 ## Related

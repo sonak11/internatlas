@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0",
+  "id": "american-express-product-management-intern-global-merchant-network-services-2027-12d72f",
+  "company": {
+    "name": "American Express",
+    "slug": "american-express"
+  },
+  "role": "Product Management Intern, Global Merchant & Network Services",
+  "category": "product",
+  "apply_url": "https://go.vansh.nyc/7u",
+  "season": "summer",
+  "year": 2027,
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "Phoenix",
+      "state": "AZ",
+      "country": "USA"
+    }
+  ],
+  "compensation": {
+    "currency": "USD",
+    "housing_stipend": false,
+    "relocation_assistance": false
+  },
+  "eligibility": {
+    "graduation_years": [],
+    "degree_levels": [],
+    "citizenship_required": false,
+    "security_clearance_required": false,
+    "visa_sponsorship": "no"
+  },
+  "interview": {},
+  "tech": {
+    "required_skills": [],
+    "preferred_skills": [],
+    "languages": [],
+    "frameworks": [],
+    "cloud_platforms": [],
+    "resume_keywords": []
+  },
+  "dates": {
+    "posted": "2026-08-21",
+    "discovered": "2026-10-25",
+    "last_verified": "2026-10-25"
+  },
+  "status": "open",
+  "tags": [
+    "auto-ingested",
+    "src:vanshb03"
+  ]
+}

@@ -6,12 +6,12 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
-| Micron Technology | [Design Engineer Intern, HBM](https://micron.wd1.myworkdayjobs.com/external/job/Richardson-TX/Intern---Design-Engineer--HBM_JR112552) | Richardson, TX | Onsite | 2026-10-19 | Rolling | 🟢 Open | ❔ |
-| Micron Technology | [Design Engineer Intern, Pathfinding](https://micron.wd1.myworkdayjobs.com/External/job/Folsom-CA/Intern---Design-Engineer--Pathfinding_JR114189) | San Jose, CA +1 | Onsite | 2026-10-20 | Rolling | 🟢 Open | ❔ |
+| Micron Technology | [Design Engineer Intern, HBM](https://go.vansh.nyc/bq) | Richardson, TX | Onsite | 2026-10-19 | Rolling | 🟢 Open | ❔ |
+| Micron Technology | [Design Engineer Intern, Pathfinding](https://go.vansh.nyc/d7) | San Jose, CA +1 | Onsite | 2026-10-20 | Rolling | 🟢 Open | ❔ |
 | Micron Technology | [DRAM Design Engineer Intern](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---DRAM-Design-Engineer_JR108448) | Boise, ID | Onsite | 2026-08-10 | Rolling | 🟢 Open | ❔ |
-| Micron Technology | [HBM Design Engineer Intern - HBM](https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---Design-Engineer--HBM_JR112545) | Richardson, TX | Onsite | 2026-10-19 | Rolling | 🟢 Open | ❔ |
-| Micron Technology | [Machine Learning Engineering Intern](https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---Machine-Learning-Engineering_JR114750) | Richardson, TX | Onsite | 2026-10-20 | Rolling | 🟢 Open | ❔ |
-| Micron Technology | [SMAI Probe AI Engineer Intern](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---SMAI-Probe-AI-Engineer_JR114094) | Boise, ID | Onsite | 2026-10-20 | Rolling | 🟢 Open | ❔ |
+| Micron Technology | [HBM Design Engineer Intern - HBM](https://go.vansh.nyc/bW) | Richardson, TX | Onsite | 2026-10-19 | Rolling | 🟢 Open | ❔ |
+| Micron Technology | [Machine Learning Engineering Intern](https://go.vansh.nyc/d6) | Richardson, TX | Onsite | 2026-10-20 | Rolling | 🟢 Open | ❔ |
+| Micron Technology | [SMAI Probe AI Engineer Intern](https://go.vansh.nyc/cE) | Boise, ID | Onsite | 2026-10-20 | Rolling | 🟢 Open | ❔ |
 | Micron Technology | [Advanced Spectroscopy and Nanoscale Materials Characterization Intern](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/XMLNAME-2027-Summer-Intern--Advanced-Spectroscopy-and-Nanoscale-Materials-Characterization_JR109071) | Boise, ID | Onsite | 2026-08-24 | Rolling | 🔴 Closed | ❔ |
 | Micron Technology | [AI Systems and Infrastructure Engineering Intern](https://micron.wd1.myworkdayjobs.com/External/job/Austin-TX/Intern---AI-Systems-and-Infrastructure-Engineering_JR109990) | Austin, TX | Onsite | 2026-08-31 | Rolling | 🔴 Closed | ❔ |
 | Micron Technology | [Design Architecture Intern - HBM](https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern----Design-Architecture--HBM_JR110177) | Richardson, TX | Onsite | 2026-08-31 | Rolling | 🔴 Closed | ❔ |

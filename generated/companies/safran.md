@@ -6,7 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
-| Safran | [Software Engineering Intern](https://careers.safran-dsi.com/job/Bedford-Software-Engineering-Internship-NH-03110/1440599100/?ats=successfactors) | Bedford, NH | Onsite | 2026-10-21 | Rolling | 🟢 Open | ❔ |
+| Safran | [Software Engineering Intern](https://go.vansh.nyc/dQ) | Bedford, NH | Onsite | 2026-10-21 | Rolling | 🟢 Open | ❔ |
 
 ## Related
 

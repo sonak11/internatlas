@@ -10,6 +10,7 @@
 | Muon Space | [Flight Software Engineer Intern](https://job-boards.greenhouse.io/muonspace/jobs/5247725007) | San Jose, CA | Onsite | 2026-09-30 | Rolling | 🟢 Open | ❔ |
 | Muon Space | [GNC Software Engineer Intern](https://job-boards.greenhouse.io/muonspace/jobs/5252680007) | Mountain View, CA | Onsite | 2026-09-30 | Rolling | 🟢 Open | ❔ |
 | Muon Space | [Ground Software Engineer Intern](https://job-boards.greenhouse.io/muonspace/jobs/5266679007) | San Jose, CA | Onsite | 2026-10-15 | Rolling | 🟢 Open | ❔ |
+| Muon Space | [Software Engineering Intern, GNC](https://go.vansh.nyc/fU) | Mountain View, CA | Onsite | 2026-09-30 | Rolling | 🟢 Open | ❔ |
 
 ## Related
 

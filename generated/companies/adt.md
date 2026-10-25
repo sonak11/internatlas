@@ -6,6 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
+| ADT | [Hardware Engineering & Connected Devices Intern](https://go.vansh.nyc/b9) | Boca Raton, FL | Onsite | 2026-10-16 | Rolling | 🟢 Open | ❔ |
 | ADT | [Hardware Engineering & Connected Devices Intern](https://fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3022475) | Boca Raton, FL | Onsite | 2026-10-16 | Rolling | 🟢 Open | ❔ |
 | ADT | [Product Management & Product Operations Intern](https://fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3022393) | Boca Raton, FL | Onsite | 2026-10-12 | Rolling | 🟢 Open | ❔ |
 

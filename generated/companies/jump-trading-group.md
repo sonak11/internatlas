@@ -1,0 +1,13 @@
+<!-- ⚠️ AUTO-GENERATED FILE — do not edit by hand.
+     Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
+# Jump Trading Group
+
+## Current openings
+
+| Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
+|---|---|---|---|---|---|---|---|
+| Jump Trading Group | [Campus UI Software Engineer Intern](https://go.vansh.nyc/3m) | Chicago, IL | Onsite | 2026-07-09 | Rolling | 🟢 Open | ✅ |
+
+## Related
+
+Browse more roles in: [🎨 Design](../categories/design.md)

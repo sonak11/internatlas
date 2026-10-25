@@ -6,7 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
-| Campbell Soup Company | [Data Engineer Intern, DA&AI Co-Op](https://campbellsoup.wd5.myworkdayjobs.com/en-US/externalcareers_globalsite/job/USA---NJ---Camden/Data-Engineer--DA-AI-Co-Op_Req-65838) | Camden, NJ | Onsite | 2026-08-21 | Rolling | 🟢 Open | ❔ |
+| Campbell Soup Company | [Data Engineer Intern, DA&AI Co-Op](https://go.vansh.nyc/7K) | Camden, NJ | Onsite | 2026-08-21 | Rolling | 🟢 Open | ❔ |
 
 ## Related
 

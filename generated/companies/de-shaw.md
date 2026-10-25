@@ -6,7 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
-| DE Shaw | [Software Developer Intern](https://www.deshaw.com/careers/software-developer-intern-new-york-summer-2027-5894) | New York, NY | Onsite | 2026-07-07 | Rolling | 🟢 Open | ❔ |
+| DE Shaw | [Software Developer Intern](https://go.vansh.nyc/3g) | New York, NY | Onsite | 2026-07-07 | Rolling | 🟢 Open | ❔ |
 
 ## Related
 

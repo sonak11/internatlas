@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 📈 Quant Internships
 
-**340** tracked · **202** open now
+**356** tracked · **197** open now
 
 ## Current openings
 
@@ -10,12 +10,17 @@
 |---|---|---|---|---|---|---|---|
 | [Acadian Asset Management](generated/companies/acadian-asset-management.md) | [Quantitative Investment Intern](https://www.acadian-asset.com/careers/open-positions?gh_jid=4720681006) | Boston, MA | Onsite | 2026-10-13 | Rolling | 🟢 Open | ❔ |
 | [Akuna Capital](generated/companies/akuna-capital.md) | [Accounting Intern (Term-Time, Part-Time)](https://www.akunacapital.com/careers/job/8109370/?gh_jid=8109370) | Chicago, IL | Onsite | 2026-09-17 | Rolling | 🟢 Open | ❔ |
-| [Akuna Capital](generated/companies/akuna-capital.md) | [Quantitative Development & Strategy Intern](https://akunacapital.com/careers/job/8021481/?gh_jid=8021481) | Chicago +1 | Onsite | 2026-07-13 | Rolling | 🟢 Open | ❌ |
-| [Akuna Capital](generated/companies/akuna-capital.md) | [Quantitative Research Intern](https://akunacapital.com/careers/job/8036614/?gh_jid=8036614) | Chicago +1 | Onsite | 2026-07-13 | Rolling | 🟢 Open | ❌ |
+| [Akuna Capital](generated/companies/akuna-capital.md) | [Quantitative Development & Strategy Intern](https://go.vansh.nyc/4y) | Chicago | Onsite | 2026-07-24 | Rolling | 🟢 Open | ❌ |
+| [Akuna Capital](generated/companies/akuna-capital.md) | [Quantitative Development & Strategy Intern, Summer 2027](https://www.akunacapital.com/careers/job/8021481/?gh_jid=8021481) | Chicago, IL | Onsite | 2026-07-13 | Rolling | 🟢 Open | ❔ |
+| [Akuna Capital](generated/companies/akuna-capital.md) | [Quantitative Research Intern](https://go.vansh.nyc/4z) | Chicago | Onsite | 2026-07-24 | Rolling | 🟢 Open | ❌ |
+| [Akuna Capital](generated/companies/akuna-capital.md) | [Quantitative Research Intern, Summer 2027](https://www.akunacapital.com/careers/job/8036614/?gh_jid=8036614) | Chicago, IL | Onsite | 2026-07-13 | Rolling | 🟢 Open | ❔ |
+| [Akuna Capital](generated/companies/akuna-capital.md) | [Software Engineer Intern - C# .NET Desktop, Summer 2027](https://www.akunacapital.com/careers/job/8018886/?gh_jid=8018886) | Chicago, IL | Onsite | 2026-07-13 | Rolling | 🟢 Open | ❔ |
+| [Akuna Capital](generated/companies/akuna-capital.md) | [Software Engineer Intern - C++, Summer 2027](https://www.akunacapital.com/careers/job/8018847/?gh_jid=8018847) | Chicago, IL | Onsite | 2026-07-13 | Rolling | 🟢 Open | ❔ |
+| [Akuna Capital](generated/companies/akuna-capital.md) | [Software Engineer Intern - Full Stack Web, Summer 2027](https://www.akunacapital.com/careers/job/8018893/?gh_jid=8018893) | Chicago, IL | Onsite | 2026-07-13 | Rolling | 🟢 Open | ❔ |
 | [Amazon](generated/companies/amazon.md) | [Quantum Applied Science Intern - Quantum Technologies team](https://amazon.jobs/en/jobs/10556930/2027-quantum-applied-science-internship-quantum-technologies-team) | Boston, MA +3 | Onsite | 2026-09-23 | Rolling | 🟢 Open | ❔ |
 | [American Bankers Association](generated/companies/american-bankers-association.md) | [Quantitative Research Intern](https://aba.wd1.myworkdayjobs.com/aba/job/US-DC-Main-Office/Intern--Quantitative-Research_R614) | Washington, DC | Onsite | 2026-10-02 | Rolling | 🟢 Open | ❔ |
 | [Anthelion Capital](generated/companies/anthelion-capital.md) | [Quant Developer / Quant Research Intern](https://jobs.ashbyhq.com/anthelioncap/5e2ea37b-2369-474e-b717-c24c60976e96/application?embed=true) | NYC | Onsite | 2026-07-23 | Rolling | 🟢 Open | ❔ |
-| [Anthelion Capital](generated/companies/anthelion-capital.md) | [Quant Developer / Quant Research Intern](https://jobs.ashbyhq.com/anthelioncap/5e2ea37b-2369-474e-b717-c24c60976e96) | New York City, NY | Onsite | 2026-07-27 | Rolling | 🟢 Open | ❔ |
+| [Anthelion Capital](generated/companies/anthelion-capital.md) | [Quant Developer / Quant Research Intern](https://go.vansh.nyc/4L) | New York City, NY | Onsite | 2026-07-27 | Rolling | 🟢 Open | ❔ |
 | [AQR Capital Management](generated/companies/aqr-capital-management.md) | [Portfolio Implementation – Trading and Portfolio Finance Analyst Intern](https://careers.aqr.com/jobs?gh_jid=7895562&gh_jid=7895562) | Greenwich, CT | Onsite | 2026-05-15 | Rolling | 🟢 Open | ❔ |
 | [AQR Capital Management](generated/companies/aqr-capital-management.md) | [Quantitative Prediction Markets Research Summer Analyst Intern](https://careers.aqr.com/jobs?gh_jid=8122378&gh_jid=8122378) | Greenwich, CT | Onsite | 2026-08-11 | Rolling | 🟢 Open | ❔ |
 | [Aquatic Capital Management](generated/companies/aquatic-capital-management.md) | [Quantitative Researcher – Intern](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489186002) | London +1 | Onsite | 2026-04-01 | Rolling | 🟢 Open | ❔ |
@@ -23,7 +28,7 @@
 | [Arrowstreet Capital](generated/companies/arrowstreet-capital.md) | [Quantitative Researcher Intern](https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Quantitative-Researcher-Intern--Summer-2027_R1505) | Boston, MA | Onsite | 2026-07-10 | Rolling | 🟢 Open | ❔ |
 | [AXQ Capital](generated/companies/axq-capital.md) | [Quantitative Research Intern - Summer 2027](https://job-boards.greenhouse.io/axq/jobs/6181069004) | NYC | Onsite | 2026-09-03 | Rolling | 🟢 Open | ❔ |
 | [Barclays](generated/companies/barclays.md) | [Markets Quantitative Analyst Summer Internship 2027 New York](https://barclays.wd3.myworkdayjobs.com/en-US/external_career_site_barclays/job/745-7th-Avenue-New-York/Markets-Quantitative-Analyst-Summer-Internship-2027-New-York_JR-0000083408) | New York, NY | Onsite | 2025-12-02 | Rolling | 🟢 Open | ❔ |
-| [Belvedere Trading](generated/companies/belvedere-trading.md) | [Quantitative Trading Intern](https://jobs.lever.co/belvederetrading/cbde47db-c60b-4339-a8f4-a8e4f30505ab) | Chicago, IL | Onsite | 2026-08-17 | Rolling | 🟢 Open | ✅ |
+| [Belvedere Trading](generated/companies/belvedere-trading.md) | [Quantitative Trading Intern](https://go.vansh.nyc/6M) | Chicago, IL | Onsite | 2026-08-17 | Rolling | 🟢 Open | ✅ |
 | [Belvedere Trading](generated/companies/belvedere-trading.md) | [Quantitative Trading Intern - Summer 2027](https://jobs.lever.co/belvederetrading/cbde47db-c60b-4339-a8f4-a8e4f30505ab/apply) | Chicago, IL | Onsite | 2026-08-07 | Rolling | 🟢 Open | ❔ |
 | [Belvedere Trading](generated/companies/belvedere-trading.md) | [Quantitative Trading Intern - Winter Quarter 2027](https://jobs.lever.co/belvederetrading/8f06f221-8777-4a4d-b035-40882db5f4a0/apply) | Chicago, IL | Onsite | 2026-08-07 | Rolling | 🟢 Open | ❔ |
 | [BlackRock](generated/companies/blackrock.md) | [Quantitative Master's Intern - Investments - Quantitative Investing](https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/London-Greater-London/XMLNAME-2027-Quantitative-Masters-Internship-Programme---Investments---Quantitative-Investing---London_R266465) | London | Onsite | 2026-09-15 | Rolling | 🟢 Open | ❔ |
@@ -44,18 +49,22 @@
 | [Chicago Trading Company](generated/companies/chicago-trading-company.md) | [Quant Trading Intern](https://job-boards.greenhouse.io/ctccampusboard/jobs/4708188005) | Chicago, IL | Onsite | 2026-07-20 | Rolling | 🟢 Open | ❔ |
 | [Chicago Trading Company](generated/companies/chicago-trading-company.md) | [Quant Trading Intern](https://job-boards.greenhouse.io/ctccampusboard/jobs/4709545005) | London | Onsite | 2026-07-21 | Rolling | 🟢 Open | ❔ |
 | [Chicago Trading Company](generated/companies/chicago-trading-company.md) | [Quant Trading Intern](https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4718710005) | London | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
-| [Chicago Trading Company](generated/companies/chicago-trading-company.md) | [Quant Trading Intern](https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4716930005) | Chicago, IL | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
+| [Chicago Trading Company](generated/companies/chicago-trading-company.md) | [Quant Trading Intern](https://go.vansh.nyc/6E) | Chicago, IL | Onsite | 2026-08-06 | Rolling | 🟢 Open | ❔ |
+| [Chicago Trading Company](generated/companies/chicago-trading-company.md) | [Quant Trading Intern](https://go.vansh.nyc/5a) | Chicago, IL | Onsite | 2026-07-27 | Rolling | 🟢 Open | ❔ |
+| [Chicago Trading Company](generated/companies/chicago-trading-company.md) | [Quantitative Trading Intern](https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4716930005) | Chicago, IL | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
 | [Citadel](generated/companies/citadel.md) | [Quantitative Trader: Equity Quantitative Research Intern](https://www.citadel.com/careers/details/quantitative-trader-equity-quantitative-research-intern-us/) | NYC | Onsite | 2026-07-07 | Rolling | 🟢 Open | ❔ |
 | [ConocoPhillips](generated/companies/conocophillips.md) | [Trading Analytics Intern](https://conocophillips.wd1.myworkdayjobs.com/External/job/Houston-TX/Intern--Trading-Analytics-2027_REQ-006429) | Houston, TX | Onsite | 2026-08-11 | Rolling | 🟢 Open | ❔ |
 | [Deutsche Bank](generated/companies/deutsche-bank.md) | [Quantitative Analyst Intern - GSA](https://db.recsolu.com/external/requisitions/7YdoahPnz0FeSk6E58AGDw) | London | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
 | [Deutsche Bank](generated/companies/deutsche-bank.md) | [Quantitative FIC Intern - Quantitative Trading](https://db.recsolu.com/external/requisitions/Zrl8co_aF_BXP1FpXI6ODA) | London | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
 | [Deutsche Bank](generated/companies/deutsche-bank.md) | [Quantitative Research and Development Labs Sales and Trading Intern - Quantitative Research and Development Labs](https://db.recsolu.com/external/requisitions/9V2pZHlm1P6sUhv7XWogog) | London | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
-| [DRW](generated/companies/drw.md) | [Quantitative Research Intern](https://www.drw.com/work-at-drw/listings/quantitative-research-intern-3413670) | Chicago, IL +1 | Onsite | 2026-07-31 | Rolling | 🟢 Open | ❔ |
+| [DRW](generated/companies/drw.md) | [Quantitative Research Intern](https://go.vansh.nyc/5q) | Chicago, IL +1 | Onsite | 2026-07-31 | Rolling | 🟢 Open | ❔ |
 | [DRW](generated/companies/drw.md) | [Quantitative Trading Analyst Intern](https://www.drw.com/work-at-drw/listings/quantitative-trading-analyst-intern-3375090) | Chicago, IL | Onsite | 2026-07-31 | Rolling | 🟢 Open | ❔ |
 | [DRW](generated/companies/drw.md) | [Quantitative Trading Analyst Intern](https://job-boards.greenhouse.io/drweng/jobs/7957243) | London | Onsite | 2026-07-13 | Rolling | 🟢 Open | ❔ |
-| [DV Group](generated/companies/dv-group.md) | [Quantitative Risk Intern](https://job-boards.greenhouse.io/dvtrading/jobs/4719118005) | Chicago, IL | Onsite | 2026-08-04 | Rolling | 🟢 Open | ❔ |
+| [DRW](generated/companies/drw.md) | [Quantitative Trading Analyst Intern](https://go.vansh.nyc/5r) | Chicago, IL | Onsite | 2026-07-31 | Rolling | 🟢 Open | ❔ |
+| [DV Group](generated/companies/dv-group.md) | [Quantitative Risk Intern](https://go.vansh.nyc/6F) | Chicago, IL | Onsite | 2026-08-06 | Rolling | 🟢 Open | ❔ |
 | [DV Trading](generated/companies/dv-trading.md) | [Futures & Options Trading Analyst Intern - Summer 2027](https://job-boards.greenhouse.io/dvtrading/jobs/4722749005) | NYC | Onsite | 2026-08-26 | Rolling | 🟢 Open | ❔ |
 | [DV Trading](generated/companies/dv-trading.md) | [Quantitative Research Intern - DV Equities](https://job-boards.greenhouse.io/dvtrading/jobs/4733133005) | NYC | Onsite | 2026-09-11 | Rolling | 🟢 Open | ❔ |
+| [DV Trading](generated/companies/dv-trading.md) | [Quantitative Risk Intern](https://job-boards.greenhouse.io/dvtrading/jobs/4719118005) | Chicago, IL | Onsite | 2026-08-04 | Rolling | 🟢 Open | ❔ |
 | [DV Trading](generated/companies/dv-trading.md) | [Quantitative Trading Intern - DV Equities](https://job-boards.greenhouse.io/dvtrading/jobs/4702083005) | NYC | Onsite | 2026-09-11 | Rolling | 🟢 Open | ❔ |
 | [DV Trading](generated/companies/dv-trading.md) | [Trading Intern - Summer 2027 - DV Commodities](https://job-boards.greenhouse.io/dvtrading/jobs/4719134005) | NYC | Onsite | 2026-08-17 | Rolling | 🟢 Open | ❔ |
 | [Energy Transfer Partners](generated/companies/energy-transfer-partners.md) | [Commodity Trading Analyst Intern](https://energytransfer.taleo.net/careersection/etp_ext/jobdetail.ftl?job=2610003520) | Overland Park, KS | Onsite | 2026-09-12 | Rolling | 🟢 Open | ❔ |
@@ -67,30 +76,12 @@
 | [Flow Traders](generated/companies/flow-traders.md) | [Quantitative Trading Intern](https://job-boards.greenhouse.io/flowtraders/jobs/8047166) | NYC | Onsite | 2026-07-08 | Rolling | 🟢 Open | ❔ |
 | [G-Research](generated/companies/g-research.md) | [Quantitative Research Internship](https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Quant-Research-Internship_R3691) | London | Onsite | 2026-07-23 | Rolling | 🟢 Open | ❔ |
 | [Garda Capital Partners](generated/companies/garda-capital-partners.md) | [Trading Analyst Intern - Mortgages](https://job-boards.greenhouse.io/gardacp/jobs/6179468004) | NYC | Onsite | 2026-09-03 | Rolling | 🟢 Open | ❔ |
-| [Goldman Sachs](generated/companies/goldman-sachs.md) | [Associate Intern - The Core Quantitative Strats](https://higher.gs.com/roles/171546?type=students) | Dallas, TX | Onsite | 2026-08-15 | Rolling | 🟢 Open | ❔ |
-| [Goldman Sachs](generated/companies/goldman-sachs.md) | [Quantitative Strategist Associate Intern - Asset and Wealth Management](https://higher.gs.com/roles/175423?type=students) | London | Onsite | 2026-08-15 | Rolling | 🟢 Open | ❔ |
-| [Goldman Sachs](generated/companies/goldman-sachs.md) | [Quantitative Strategist Associate Intern - The Core Quantitative Strats](https://higher.gs.com/roles/175427?type=students) | London | Onsite | 2026-08-15 | Rolling | 🟢 Open | ❔ |
-| [Goldman Sachs](generated/companies/goldman-sachs.md) | [Quantitative Strategist Associate Intern - The Core Quantitative Strats](https://higher.gs.com/roles/171535?type=students) | NYC | Onsite | 2026-08-15 | Rolling | 🟢 Open | ❔ |
-| [Goldman Sachs](generated/companies/goldman-sachs.md) | [Quantitative Strategist Intern - Americas](https://higher.gs.com/roles/171532?type=students) | Dallas, TX | Onsite | 2026-08-15 | Rolling | 🟢 Open | ❔ |
-| [Goldman Sachs](generated/companies/goldman-sachs.md) | [Quantitative Strategist Intern - Americas - The Core Quantitative Strats](https://higher.gs.com/roles/171551?type=students) | Salt Lake City, UT | Onsite | 2026-08-15 | Rolling | 🟢 Open | ❔ |
-| [Goldman Sachs](generated/companies/goldman-sachs.md) | [Quantitative Strategist Intern - Americas - The Core Quantitative Strats](https://higher.gs.com/roles/171534?type=students) | Dallas, TX | Onsite | 2026-08-15 | Rolling | 🟢 Open | ❔ |
-| [Goldman Sachs](generated/companies/goldman-sachs.md) | [Quantitative Strategist Intern - Americas - The Core Quantitative Strats](https://higher.gs.com/roles/171533?type=students) | NYC | Onsite | 2026-08-15 | Rolling | 🟢 Open | ❔ |
-| [Goldman Sachs](generated/companies/goldman-sachs.md) | [Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats](https://higher.gs.com/roles/175421?type=students) | London | Onsite | 2026-08-15 | Rolling | 🟢 Open | ❔ |
-| [Goldman Sachs](generated/companies/goldman-sachs.md) | [Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats](https://higher.gs.com/roles/171549?type=students) | Salt Lake City, UT | Onsite | 2026-08-15 | Rolling | 🟢 Open | ❔ |
-| [Goldman Sachs](generated/companies/goldman-sachs.md) | [Quantitative Strategist Intern - Investment Banking](https://higher.gs.com/roles/175428?type=students) | London | Onsite | 2026-08-15 | Rolling | 🟢 Open | ❔ |
-| [Goldman Sachs](generated/companies/goldman-sachs.md) | [Quantitative Strategist Intern - Multiple Teams](https://higher.gs.com/roles/175424?type=students) | London | Onsite | 2026-08-15 | Rolling | 🟢 Open | ❔ |
-| [Goldman Sachs](generated/companies/goldman-sachs.md) | [Quantitative Strategist Intern - Multiple Teams](https://higher.gs.com/roles/171563?type=students) | NYC | Onsite | 2026-08-15 | Rolling | 🟢 Open | ❔ |
-| [Goldman Sachs](generated/companies/goldman-sachs.md) | [Quantitative Strats Analyst Intern - Americas - Investment Banking](https://higher.gs.com/roles/171548?type=students) | Dallas, TX | Onsite | 2026-08-15 | Rolling | 🟢 Open | ❔ |
-| [Goldman Sachs](generated/companies/goldman-sachs.md) | [Summer Analyst Intern - Americas - Investment Banking Quantitative Strats](https://higher.gs.com/roles/171547?type=students) | NYC | Onsite | 2026-08-15 | Rolling | 🟢 Open | ❔ |
-| [Goldman Sachs](generated/companies/goldman-sachs.md) | [Summer Analyst Intern - FICC and Equities - Sales and Trading](https://higher.gs.com/roles/181628?type=students) | West Palm Beach, FL | Onsite | 2026-08-15 | Rolling | 🟢 Open | ❔ |
-| [Goldman Sachs](generated/companies/goldman-sachs.md) | [Summer Analyst Intern - The Core Quantitative Strats](https://higher.gs.com/roles/175426?type=students) | London | Onsite | 2026-08-15 | Rolling | 🟢 Open | ❔ |
-| [Graviton](generated/companies/graviton.md) | [Quantitative Researcher Intern](https://job-boards.greenhouse.io/gravitonresearchcapital/jobs/8899673002) | London +3 | Onsite | 2026-10-19 | Rolling | 🟢 Open | ❔ |
 | [Graviton](generated/companies/graviton.md) | [Quantitative Researcher Intern](https://job-boards.greenhouse.io/gravitonresearchcapital/jobs/8899671002) | London +2 | Onsite | 2026-10-19 | Rolling | 🟢 Open | ❔ |
+| [Graviton](generated/companies/graviton.md) | [Quantitative Researcher Intern](https://job-boards.greenhouse.io/gravitonresearchcapital/jobs/8899673002) | London +3 | Onsite | 2026-10-19 | Rolling | 🟢 Open | ❔ |
+| [Graviton](generated/companies/graviton.md) | [Quantitative Researcher Intern](https://go.vansh.nyc/bc) | London +3 | Onsite | 2026-10-19 | Rolling | 🟢 Open | ❔ |
 | [Hudson River Trading](generated/companies/hudson-river-trading.md) | [Algorithm Development (Quant Research & Trading) Internship – Summer 2027](https://www.hudsonrivertrading.com/careers/job/?gh_jid=7964062) | London | Onsite | 2026-07-13 | Rolling | 🟢 Open | ❔ |
 | [Hudson River Trading](generated/companies/hudson-river-trading.md) | [Algorithm Development (Quant Research & Trading) PhD Internship – Summer 2027](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8059837) | London | Onsite | 2026-07-13 | Rolling | 🟢 Open | ❔ |
 | [Hudson River Trading](generated/companies/hudson-river-trading.md) | [Software Engineering Internship (C++ or Python) – Summer 2027](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8052083) | Austin, TX | Onsite | 2026-07-13 | Rolling | 🟢 Open | ❔ |
-| [IMC](generated/companies/imc.md) | [Quantitative Research Intern](https://www.imc.com/us/careers/jobs/4907399101) | Chicago, IL | Onsite | 2026-07-24 | Rolling | 🟢 Open | ✅ |
-| [IMC](generated/companies/imc.md) | [Quantitative Research Intern (PHD)](https://www.imc.com/us/careers/jobs/4907400101) | Chicago | Onsite | 2026-07-24 | Rolling | 🟢 Open | ✅ |
 | [IMC Trading](generated/companies/imc-trading.md) | [Macro Analyst Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4941380101) | Amsterdam | Onsite | 2026-07-31 | Rolling | 🟢 Open | ❔ |
 | [IMC Trading](generated/companies/imc-trading.md) | [Quantitative Research Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4907400101) | Chicago, IL +1 | Onsite | 2026-07-01 | Rolling | 🟢 Open | ❔ |
 | [IMC Trading](generated/companies/imc-trading.md) | [Quantitative Research Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4907399101) | Chicago, IL +1 | Onsite | 2026-07-01 | Rolling | 🟢 Open | ❔ |
@@ -102,21 +93,22 @@
 | [IMC Trading](generated/companies/imc-trading.md) | [Software Engineer Intern 2027](https://job-boards.eu.greenhouse.io/imc/jobs/4941206101) | Hong Kong | Onsite | 2026-08-12 | Rolling | 🟢 Open | ❔ |
 | [IMC Trading](generated/companies/imc-trading.md) | [Trader Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4939846101) | Amsterdam | Onsite | 2026-07-31 | Rolling | 🟢 Open | ❔ |
 | [InfiniteQuant](generated/companies/infinitequant.md) | [Quantitative Developer Internship - Summer 2027](https://jobs.smartrecruiters.com/InfiniteQuant/744000145263134) | Dubai - United Arab Emirates +1 | Onsite | 2026-08-24 | Rolling | 🟢 Open | ❔ |
-| [InfiniteQuant](generated/companies/infinitequant.md) | [Quantitative Researcher Intern](https://jobs.smartrecruiters.com/InfiniteQuant/744000157170821) | New York, NY | Onsite | 2026-10-22 | Rolling | 🟢 Open | ❔ |
+| [InfiniteQuant](generated/companies/infinitequant.md) | [Quantitative Researcher Intern](https://go.vansh.nyc/eP) | New York, NY | Onsite | 2026-10-22 | Rolling | 🟢 Open | ❔ |
 | [InfiniteQuant](generated/companies/infinitequant.md) | [Quantitative Researcher Intern - Summer 2027](https://jobs.smartrecruiters.com/InfiniteQuant/744000143307421) | Dubai - United Arab Emirates +1 | Onsite | 2026-08-13 | Rolling | 🟢 Open | ❔ |
 | [Jain Global](generated/companies/jain-global.md) | [Quant Modelling Intern](https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/New-York-New-York/Quant-Modelling-Intern_JR100616) | NYC | Onsite | 2026-10-07 | Rolling | 🟢 Open | ❔ |
 | [Jain Global](generated/companies/jain-global.md) | [Quant Research Intern](https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/London-United-Kingdom/Quant-Research-Intern--Summer-2027---London-_JR100620-2) | London | Onsite | 2026-10-13 | Rolling | 🟢 Open | ❔ |
 | [Jain Global](generated/companies/jain-global.md) | [Quant Research Intern - Systematic Trading](https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/New-York-New-York/Quant-Research-Intern--Systematic-Trading_JR100603-1) | NYC | Onsite | 2026-10-05 | Rolling | 🟢 Open | ❔ |
 | [Jain Global](generated/companies/jain-global.md) | [Quantitative Developer Intern](https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/New-York-New-York/Quantitative-Developer-Intern--Summer-2027---New-York-_JR100608) | NYC | Onsite | 2026-10-13 | Rolling | 🟢 Open | ❔ |
-| [Jane Street](generated/companies/jane-street.md) | [Quantitative Researcher Intern](https://www.janestreet.com/join-jane-street/position/8498547002/) | New York, NY | Onsite | 2026-07-24 | Rolling | 🟢 Open | ✅ |
-| [Jane Street](generated/companies/jane-street.md) | [Quantitative Trader Intern](https://www.janestreet.com/join-jane-street/position/8617344002/) | New York, NY | Onsite | 2026-07-24 | Rolling | 🟢 Open | ✅ |
-| [Jane Street](generated/companies/jane-street.md) | [Sales and Trading Intern](https://www.janestreet.com/join-jane-street/position/8347385002/) | New York, NY | Onsite | 2026-07-24 | Rolling | 🟢 Open | ✅ |
-| [Jane Street](generated/companies/jane-street.md) | [Trading Desk Operations Engineer Intern](https://www.janestreet.com/join-jane-street/position/8621450002/) | New York, NY | Onsite | 2026-07-24 | Rolling | 🟢 Open | ❔ |
+| [Jane Street](generated/companies/jane-street.md) | [Quantitative Researcher Intern](https://go.vansh.nyc/3Y) | New York, NY | Onsite | 2026-07-24 | Rolling | 🟢 Open | ✅ |
+| [Jane Street](generated/companies/jane-street.md) | [Quantitative Trader Intern](https://go.vansh.nyc/3X) | New York, NY | Onsite | 2026-07-24 | Rolling | 🟢 Open | ✅ |
+| [Jane Street](generated/companies/jane-street.md) | [Sales and Trading Intern](https://go.vansh.nyc/47) | New York, NY | Onsite | 2026-07-24 | Rolling | 🟢 Open | ✅ |
+| [Jane Street](generated/companies/jane-street.md) | [Trading Desk Operations Engineer Intern](https://go.vansh.nyc/49) | New York, NY | Onsite | 2026-07-24 | Rolling | 🟢 Open | ❔ |
 | [JP Morgan Chase](generated/companies/jp-morgan-chase.md) | [Quantitative Research Intern](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774061) | NYC | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
-| [JP Morgan Chase](generated/companies/jp-morgan-chase.md) | [Quantitative Research Intern - Markets - Analyst](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774038) | NYC +1 | Onsite | 2026-08-03 | Rolling | 🟢 Open | ✅ |
+| [JP Morgan Chase](generated/companies/jp-morgan-chase.md) | [Quantitative Research Intern - Markets - Analyst](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774038) | NYC | Onsite | 2026-08-03 | Rolling | 🟢 Open | ✅ |
 | [JP Morgan Chase](generated/companies/jp-morgan-chase.md) | [Quantitative Research Intern - Risk and Treasury](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773978) | Plano, TX +2 | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
 | [JP Morgan Chase](generated/companies/jp-morgan-chase.md) | [Quantitative Research Summer Analyst Intern - Asset Management](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774074) | NYC | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
 | [JP Morgan Chase](generated/companies/jp-morgan-chase.md) | [Quantitative Research Summer Analyst Internship - Asset Management](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210792010) | London | Onsite | 2026-09-22 | Rolling | 🟢 Open | ❔ |
+| [JPMorgan Chase](generated/companies/jpmorgan-chase.md) | [Quantitative Research, Markets, Summer Internship - Analyst](https://go.vansh.nyc/7C) | New York, NY | Onsite | 2026-08-21 | Rolling | 🟢 Open | ✅ |
 | [Jump Trading](generated/companies/jump-trading.md) | [Campus C++ Software Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8027946) | Singapore | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
 | [Jump Trading](generated/companies/jump-trading.md) | [Campus C++ Software Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8027860) | Hong Kong | Onsite | 2026-09-03 | Rolling | 🟢 Open | ❔ |
 | [Jump Trading](generated/companies/jump-trading.md) | [Campus Python Software Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8027955) | Singapore | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
@@ -134,19 +126,20 @@
 | [Jump Trading](generated/companies/jump-trading.md) | [Campus Quantitative Trader (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8027941) | Singapore | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
 | [Jump Trading](generated/companies/jump-trading.md) | [Campus Quantitative Trader (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8027922) | Hong Kong | Onsite | 2026-08-24 | Rolling | 🟢 Open | ❔ |
 | [Jump Trading](generated/companies/jump-trading.md) | [Campus Quantitative Trader (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8050772) | London | Onsite | 2026-07-13 | Rolling | 🟢 Open | ❔ |
-| [Jump Trading](generated/companies/jump-trading.md) | [Campus Quantitative Trader (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7848371) | Chicago +2 | Onsite | 2026-07-08 | Rolling | 🟢 Open | ❔ |
+| [Jump Trading](generated/companies/jump-trading.md) | [Campus Quantitative Trader (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7848371) | Chicago | Onsite | 2026-07-08 | Rolling | 🟢 Open | ❔ |
 | [Jump Trading](generated/companies/jump-trading.md) | [Campus Quantitative Trader Intern](https://boards.greenhouse.io/embed/job_app?token=8050772) | London | Onsite | 2026-07-13 | Rolling | 🟢 Open | ❔ |
 | [Jump Trading](generated/companies/jump-trading.md) | [Campus Quantitative Trader Intern](https://boards.greenhouse.io/embed/job_app?token=7848371) | Chicago, IL +1 | Onsite | 2026-07-08 | Rolling | 🟢 Open | ❔ |
-| [Jump Trading](generated/companies/jump-trading.md) | [Campus Software Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8002989) | Chicago +1 | Onsite | 2026-07-08 | Rolling | 🟢 Open | ❔ |
-| [Jump Trading](generated/companies/jump-trading.md) | [Campus Systems Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8007788) | Chicago +1 | Onsite | 2026-07-08 | Rolling | 🟢 Open | ❔ |
-| [Jump Trading](generated/companies/jump-trading.md) | [Campus Systems Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8027952) | Singapore | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
+| [Jump Trading](generated/companies/jump-trading.md) | [Campus Software Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8002989) | Chicago | Onsite | 2026-07-08 | Rolling | 🟢 Open | ❔ |
+| [Jump Trading](generated/companies/jump-trading.md) | [Campus Systems Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8007788) | Chicago | Onsite | 2026-07-08 | Rolling | 🟢 Open | ❔ |
 | [Jump Trading](generated/companies/jump-trading.md) | [Campus Systems Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8000323) | London | Onsite | 2026-07-13 | Rolling | 🟢 Open | ❔ |
+| [Jump Trading](generated/companies/jump-trading.md) | [Campus Systems Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8027952) | Singapore | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
+| [Jump Trading](generated/companies/jump-trading.md) | [Quantitative Trader Intern](https://go.vansh.nyc/3k) | Chicago, IL +1 | Onsite | 2026-07-09 | Rolling | 🟢 Open | ❔ |
 | [Lazard](generated/companies/lazard.md) | [Quantitative Research Intern](https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6612) | NYC | Onsite | 2026-09-21 | Rolling | 🟢 Open | ❔ |
 | [LSEG](generated/companies/lseg.md) | [Quantitative Services Intern](https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/London-United-Kingdom/Intern---Quantitative-Services_R0124311-2) | London | Onsite | 2026-10-14 | Rolling | 🟢 Open | ❔ |
 | [LSEG](generated/companies/lseg.md) | [Quantitative Services Intern](https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/Boston-Massachusetts/Intern---Quantitative-Services_R0124310-2) | Boston, MA | Onsite | 2026-10-14 | Rolling | 🟢 Open | ❔ |
-| [Man Group](generated/companies/man-group.md) | [Systematic Quant Intern](https://job-boards.eu.greenhouse.io/mangroup/jobs/5012806101) | Boston, MA | Onsite | 2026-10-22 | Rolling | 🟢 Open | ❔ |
+| [Man Group](generated/companies/man-group.md) | [Systematic Quant Intern](https://go.vansh.nyc/fC) | Boston, MA | Onsite | 2026-10-22 | Rolling | 🟢 Open | ❔ |
 | [Marshall Wace](generated/companies/marshall-wace.md) | [Quantitative Research Intern](https://job-boards.greenhouse.io/mwinternshipprogram/jobs/8772688002) | London | Onsite | 2026-09-03 | Rolling | 🟢 Open | ❔ |
-| [Millennium](generated/companies/millennium.md) | [Quantitative Developer Intern](https://career.mlp.com/careers/job/755957819661) | New York, NY | Onsite | 2026-08-21 | Rolling | 🟢 Open | ❔ |
+| [Millennium](generated/companies/millennium.md) | [Quantitative Developer Intern](https://go.vansh.nyc/7g) | New York, NY | Onsite | 2026-08-21 | Rolling | 🟢 Open | ❔ |
 | [Neuberger Berman](generated/companies/neuberger-berman.md) | [Quantitative Analyst Intern](https://nb.wd1.myworkdayjobs.com/en-US/NBCareers/job/New-York-NY/Quantitative-2027-Summer-Intern_R0012643) | NYC | Onsite | 2026-09-23 | Rolling | 🟢 Open | ❔ |
 | [OCC](generated/companies/occ.md) | [Quantitative Risk Management Intern](https://theocc.wd5.myworkdayjobs.com/careers/job/Chicago---125-S-Franklin/Summer-Intern---Quantitative-Risk-Management_REQ-4864) | Chicago, IL | Onsite | 2026-09-17 | Rolling | 🟢 Open | ❔ |
 | [OCC](generated/companies/occ.md) | [Quantitative Risk Management Intern](https://theocc.wd5.myworkdayjobs.com/careers/job/Chicago---125-S-Franklin/Summer-Intern---Quantitative-Risk-Management_REQ-4863) | Chicago, IL | Onsite | 2026-09-17 | Rolling | 🟢 Open | ❔ |
@@ -157,16 +150,17 @@
 | [PIMCO](generated/companies/pimco.md) | [Quantitative Portfolio Management Intern](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-PhD-Summer-Intern---Quantitative-Portfolio-Management_R106830) | Newport Beach, CA | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
 | [PIMCO](generated/companies/pimco.md) | [Quantitative Research Analyst Intern - Client Solutions & Analytics](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/London-GBR/XMLNAME-2027-Summer-Intern---Client-Solutions---Analytics-Strategist--London--MBA-_R106804) | London | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
 | [PIMCO](generated/companies/pimco.md) | [Quantitative Research Analyst Intern - Portfolio Management](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-PhD-Summer-Intern---Portfolio-Management--Quantitative-Research-Analyst_R106749) | Newport Beach, CA | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
-| [Point72](generated/companies/point72.md) | [Quantitative Developer Intern](https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-developer-internship&jobCode=CSS-0012293) | New York, NY | Onsite | 2026-04-19 | Rolling | 🟢 Open | ❔ |
+| [Point72](generated/companies/point72.md) | [Quantitative Developer Intern](https://go.vansh.nyc/cd) | NYC | Onsite | 2026-10-19 | Rolling | 🟢 Open | ❔ |
+| [Point72](generated/companies/point72.md) | [Quantitative Developer Intern](https://go.vansh.nyc/1e) | New York, NY | Onsite | 2026-04-19 | Rolling | 🟢 Open | ❔ |
 | [Point72](generated/companies/point72.md) | [Quantitative Developer Intern](https://boards.greenhouse.io/point72/jobs/7609197002) | NYC | Onsite | 2026-10-19 | Rolling | 🟢 Open | ❔ |
-| [Point72](generated/companies/point72.md) | [Quantitative Researcher Intern](https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-researcher-internship&jobCode=CSS-0012295) | New York, NY | Onsite | 2026-04-19 | Rolling | 🟢 Open | ❔ |
+| [Point72](generated/companies/point72.md) | [Quantitative Researcher Intern](https://go.vansh.nyc/1f) | New York, NY | Onsite | 2026-04-19 | Rolling | 🟢 Open | ❔ |
 | [Principal Financial Group](generated/companies/principal-financial-group.md) | [Quantitative Analyst Intern - Quantitative Research](https://careers.principal.com/jobs/52721?icims=1) | Des Moines, IA +1 | Onsite | 2026-10-01 | Rolling | 🟢 Open | ❔ |
 | [Quantbot Technologies](generated/companies/quantbot-technologies.md) | [Data Trading Analyst Intern](https://www.quantbot.com/careers/4299767009?gh_jid=4299767009) | NYC | Onsite | 2026-08-11 | Rolling | 🟢 Open | ❔ |
 | [Quantbot Technologies](generated/companies/quantbot-technologies.md) | [Quantitative Developer Intern](https://www.quantbot.com/careers/4341038009?gh_jid=4341038009) | NYC | Onsite | 2026-08-11 | Rolling | 🟢 Open | ❔ |
 | [Quantbot Technologies](generated/companies/quantbot-technologies.md) | [Quantitative Researcher Intern](https://www.quantbot.com/careers/4299863009?gh_jid=4299863009) | London | Onsite | 2026-08-11 | Rolling | 🟢 Open | ❔ |
 | [Quantbot Technologies](generated/companies/quantbot-technologies.md) | [Quantitative Researcher Intern](https://www.quantbot.com/careers/4299496009?gh_jid=4299496009) | NYC | Onsite | 2026-08-11 | Rolling | 🟢 Open | ❔ |
 | [Quantinuum](generated/companies/quantinuum.md) | [Quantum Error Correction Intern - Quantum Error Correction](https://jobs.eu.lever.co/quantinuum/46b3f32c-a2ad-4d4d-bff6-b1bbebf3e382/apply) | London +1 | Onsite | 2026-08-18 | Rolling | 🟢 Open | ❔ |
-| [Radix Trading](generated/companies/radix-trading.md) | [Quantitative Technologist Intern, C++](https://job-boards.greenhouse.io/radixuniversity/jobs/8500265002) | Chicago, IL | Onsite | 2026-07-24 | Rolling | 🟢 Open | ✅ |
+| [Radix Trading](generated/companies/radix-trading.md) | [Quantitative Technologist Intern, C++](https://go.vansh.nyc/3R) | Chicago, IL | Onsite | 2026-07-24 | Rolling | 🟢 Open | ✅ |
 | [Rothesay](generated/companies/rothesay.md) | [Quantitative Strategist Intern](https://job-boards.greenhouse.io/rothesaygraduates/jobs/8811533002) | London | Onsite | 2026-09-17 | Rolling | 🟢 Open | ❔ |
 | [Schonfeld](generated/companies/schonfeld.md) | [Quantitative Research Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8172076) | Miami, FL | Onsite | 2026-09-04 | Rolling | 🟢 Open | ❔ |
 | [Schonfeld](generated/companies/schonfeld.md) | [Quantitative Research Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8172074) | NYC | Onsite | 2026-09-04 | Rolling | 🟢 Open | ❔ |
@@ -174,27 +168,29 @@
 | [Seven Research](generated/companies/seven-research.md) | [Quantitative Researcher Intern](https://job-boards.greenhouse.io/sevenresearch/jobs/4894946008) | NYC | Onsite | 2026-07-01 | Rolling | 🟢 Open | ❔ |
 | [SouthState Bank](generated/companies/southstate-bank.md) | [Quantitative Intern](https://southstatebank.wd5.myworkdayjobs.com/external/job/Remote-Opportunity---VA-NC-SC-GA--FL-AL-TX--CO/Summer-2027-Quantitative-Intern--Remote-_R-06264) | Texas +7 | Onsite | 2026-09-29 | Rolling | 🟢 Open | ❔ |
 | [Squarepoint Capital](generated/companies/squarepoint-capital.md) | [Intern Quant Researcher](https://boards.greenhouse.io/embed/job_app?token=243853) | London +2 | Onsite | 2026-07-27 | Rolling | 🟢 Open | ❔ |
-| [Stevens Capital Management](generated/companies/stevens-capital-management.md) | [Quantitative Research Analyst Internship](https://job-boards.greenhouse.io/scm/jobs/721895) | Radnor, PA | Onsite | 2026-07-27 | Rolling | 🟢 Open | ❔ |
-| [Susquehanna](generated/companies/susquehanna.md) | [Trading System Engineering Intern](https://careers.sig.com/jobs/10837?lang=en-us&mode=apply&iis=LinkedIn&jr_id=69f3d11158b23a2329da8088) | Bala Cynwyd, PA | Onsite | 2026-05-22 | Rolling | 🟢 Open | ✅ |
-| [Susquehanna Investment Group](generated/companies/susquehanna-investment-group.md) | [Quantitative Strategy Developer Intern](https://careers.sig.com/intern-co-op-technology/jobs/10838?lang=en-us) | Bala Cynwyd, PA | Onsite | 2026-07-07 | Rolling | 🟢 Open | ❔ |
+| [Stevens Capital Management](generated/companies/stevens-capital-management.md) | [Quantitative Research Analyst Internship](https://go.vansh.nyc/4V) | Radnor, PA | Onsite | 2026-07-27 | Rolling | 🟢 Open | ❔ |
+| [Susquehanna](generated/companies/susquehanna.md) | [Trading System Engineering Intern](https://go.vansh.nyc/2M) | Bala Cynwyd, PA | Onsite | 2026-05-22 | Rolling | 🟢 Open | ✅ |
+| [Susquehanna Investment Group](generated/companies/susquehanna-investment-group.md) | [Quantitative Strategy Developer Intern](https://go.vansh.nyc/3c) | Bala Cynwyd, PA | Onsite | 2026-07-07 | Rolling | 🟢 Open | ❔ |
 | [Talos](generated/companies/talos.md) | [Quantitative Analyst Intern](https://jobs.ashbyhq.com/Talos-Trading/d6d0c99a-f281-4efe-89c4-026f7f5edc2b/application?embed=true) | NYC | Onsite | 2026-09-08 | Rolling | 🟢 Open | ❔ |
 | [Talos](generated/companies/talos.md) | [Software Engineer Intern - Trading](https://jobs.ashbyhq.com/Talos-Trading/42cad756-c312-4142-a9b7-18ed76f61c5d/application?embed=true) | London | Onsite | 2026-09-16 | Rolling | 🟢 Open | ❔ |
-| [Tower Research Capital](generated/companies/tower-research-capital.md) | [Quantitative Developer Intern](https://www.tower-research.com/open-positions/?gh_jid=8044334) | Chicago, IL +2 | Onsite | 2026-07-05 | Rolling | 🟢 Open | ❔ |
+| [Tower Research](generated/companies/tower-research.md) | [Quantitative Developer Intern](https://go.vansh.nyc/38) | Chicago, IL +1 | Onsite | 2026-07-07 | Rolling | 🟢 Open | ❔ |
+| [Tower Research Capital](generated/companies/tower-research-capital.md) | [Quantitative Developer Intern](https://www.tower-research.com/open-positions/?gh_jid=8044334) | Chicago, IL +1 | Onsite | 2026-07-05 | Rolling | 🟢 Open | ❔ |
 | [Tower Research Capital](generated/companies/tower-research-capital.md) | [Quantitative Research Intern - Central Execution Research](https://www.tower-research.com/open-positions/?gh_jid=8113986) | London | Onsite | 2026-08-12 | Rolling | 🟢 Open | ❔ |
 | [Tower Research Capital](generated/companies/tower-research-capital.md) | [Quantitative Trader Intern](https://www.tower-research.com/open-positions/?gh_jid=8024128) | Chicago, IL +1 | Onsite | 2026-07-05 | Rolling | 🟢 Open | ❔ |
 | [Tower Research Capital](generated/companies/tower-research-capital.md) | [Quantitative Trader/Researcher Intern](https://www.tower-research.com/open-positions/?gh_jid=8037860) | London | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
 | [Tradeweb](generated/companies/tradeweb.md) | [Quantitative Intern](https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301931) | NYC | Onsite | 2026-09-24 | Rolling | 🟢 Open | ❔ |
-| [TransMarket Group](generated/companies/transmarket-group.md) | [Quantitative Trader Intern](https://job-boards.greenhouse.io/transmarketgroup/jobs/5151569007) | Chicago, IL | Onsite | 2026-07-24 | Rolling | 🟢 Open | ❔ |
+| [TransMarket Group](generated/companies/transmarket-group.md) | [Quantitative Trader Intern](https://go.vansh.nyc/4A) | Chicago, IL | Onsite | 2026-07-24 | Rolling | 🟢 Open | ❔ |
 | [TransMarket Group](generated/companies/transmarket-group.md) | [Quantitative Trader Intern](https://job-boards.greenhouse.io/transmarketgroup/jobs/5151569007?gh_jid=5151569007) | Chicago, IL | Onsite | 2026-06-02 | Rolling | 🟢 Open | ❔ |
 | [Two Sigma](generated/companies/two-sigma.md) | [Quantitative Researcher Intern](https://twosigma.avature.net/careers/JobDetail/13945) | NYC | Onsite | 2026-08-02 | Rolling | 🟢 Open | ❔ |
+| [Virtu](generated/companies/virtu.md) | [Quantitative Trading Intern](https://go.vansh.nyc/4R) | Austin, TX +2 | Onsite | 2026-07-27 | Rolling | 🟢 Open | ❔ |
 | [Virtu Financial](generated/companies/virtu-financial.md) | [2027 Internship - Quantitative Researcher (Master or PhD)](https://job-boards.greenhouse.io/virtu/jobs/8631180002) | Dublin | Onsite | 2026-07-14 | Rolling | 🟢 Open | ❔ |
 | [Virtu Financial](generated/companies/virtu-financial.md) | [2027 Internship - Quantitative Researcher (PhD)](https://job-boards.greenhouse.io/virtu/jobs/8624424002) | New York +1 | Onsite | 2026-07-22 | Rolling | 🟢 Open | ❔ |
 | [Virtu Financial](generated/companies/virtu-financial.md) | [2027 Internship - Quantitative Researcher (PhD)](https://job-boards.greenhouse.io/virtu/jobs/7617953002) | Singapore | Onsite | 2024-08-30 | Rolling | 🟢 Open | ❔ |
 | [Virtu Financial](generated/companies/virtu-financial.md) | [2027 Internship - Quantitative Researcher (Undergrad)](https://job-boards.greenhouse.io/virtu/jobs/8142539002) | New York +1 | Onsite | 2025-09-12 | Rolling | 🟢 Open | ❔ |
-| [Virtu Financial](generated/companies/virtu-financial.md) | [2027 Internship - Quantitative Trading](https://job-boards.greenhouse.io/virtu/jobs/8624408002) | Austin, TX +3 | Onsite | 2026-07-21 | Rolling | 🟢 Open | ❔ |
+| [Virtu Financial](generated/companies/virtu-financial.md) | [2027 Internship - Quantitative Trading](https://job-boards.greenhouse.io/virtu/jobs/8624408002) | Austin, TX +2 | Onsite | 2026-07-21 | Rolling | 🟢 Open | ❔ |
 | [Virtu Financial](generated/companies/virtu-financial.md) | [2027 Internship - Quantitative Trading](https://job-boards.greenhouse.io/virtu/jobs/8547254002) | Dublin | Onsite | 2026-07-01 | Rolling | 🟢 Open | ❔ |
 | [Virtu Financial](generated/companies/virtu-financial.md) | [2027 Internship - Quantitative Trading](https://job-boards.greenhouse.io/virtu/jobs/5208637002) | Singapore | Onsite | 2021-04-16 | Rolling | 🟢 Open | ❔ |
-| [Virtu Financial](generated/companies/virtu-financial.md) | [2027 Internship - Software Engineer](https://job-boards.greenhouse.io/virtu/jobs/8624410002) | Austin, TX +2 | Onsite | 2026-07-21 | Rolling | 🟢 Open | ❔ |
+| [Virtu Financial](generated/companies/virtu-financial.md) | [2027 Internship - Software Engineer](https://job-boards.greenhouse.io/virtu/jobs/8624410002) | Austin, TX +1 | Onsite | 2026-07-21 | Rolling | 🟢 Open | ❔ |
 | [Virtu Financial](generated/companies/virtu-financial.md) | [2027 Internship - Software Engineer](https://job-boards.greenhouse.io/virtu/jobs/8551566002) | Dublin | Onsite | 2026-07-20 | Rolling | 🟢 Open | ❔ |
 | [Virtu Financial](generated/companies/virtu-financial.md) | [2027 Internship – Core Operations Engineer](https://job-boards.greenhouse.io/virtu/jobs/6329460002) | Singapore | Onsite | 2022-08-15 | Rolling | 🟢 Open | ❔ |
 | [Virtu Financial](generated/companies/virtu-financial.md) | [2027 Internship – Software Engineer](https://job-boards.greenhouse.io/virtu/jobs/5513756002) | Singapore | Onsite | 2021-08-31 | Rolling | 🟢 Open | ❔ |
@@ -202,7 +198,6 @@
 | [Virtu Financial](generated/companies/virtu-financial.md) | [2027 Summer Internship - Technical](https://job-boards.greenhouse.io/virtu/jobs/8745933002) | London | Onsite | 2026-08-26 | Rolling | 🟢 Open | ❔ |
 | [Voloridge](generated/companies/voloridge.md) | [Quantitative Developer Intern](https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4224862009) | Jupiter, FL | Onsite | 2026-07-14 | Rolling | 🟢 Open | ❔ |
 | [Voloridge](generated/companies/voloridge.md) | [Quantitative Research Intern](https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4226247009) | Jupiter, FL | Onsite | 2026-07-14 | Rolling | 🟢 Open | ❔ |
-| [Voloridge Investment Management](generated/companies/voloridge-investment-management.md) | [Quantitative Developer Intern](https://voloridge-investment-management.hiringthing.com/job/1013126/quantitative-developer-intern-2027?s=lif&jr_id=69eaa8e4dc35f7132c4ab803) | Jupiter, FL | Onsite | 2026-05-23 | Rolling | 🟢 Open | ❔ |
 | [Walleye Capital](generated/companies/walleye-capital.md) | [Equity Volatility Quant Researcher Intern](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4676334006) | Miami, FL | Onsite | 2026-06-10 | Rolling | 🟢 Open | ❔ |
 | [Walleye Capital](generated/companies/walleye-capital.md) | [PhD Quantitative Researcher Intern](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679184006) | Boston, MA | Onsite | 2026-06-10 | Rolling | 🟢 Open | ❔ |
 | [Walleye Capital](generated/companies/walleye-capital.md) | [Quantitative Developer Intern](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679168006) | Boston, MA | Onsite | 2026-06-10 | Rolling | 🟢 Open | ❔ |
@@ -257,10 +252,29 @@
 | [Garda Capital Partners](generated/companies/garda-capital-partners.md) | [Trading Analyst Intern - Credit](https://job-boards.greenhouse.io/gardacp/jobs/6163540004) | NYC | Onsite | 2026-09-03 | Rolling | 🔴 Closed | ❔ |
 | [Garda Capital Partners](generated/companies/garda-capital-partners.md) | [Trading Analyst Intern - Rates](https://job-boards.greenhouse.io/gardacp/jobs/4934006004) | NYC | Onsite | 2026-09-03 | Rolling | 🔴 Closed | ❔ |
 | [Geneva Trading](generated/companies/geneva-trading.md) | [Quantitative Trading Intern](https://job-boards.greenhouse.io/genevatrading/jobs/5232641007) | Chicago, IL | Onsite | 2026-09-10 | Rolling | 🔴 Closed | ❔ |
+| [Goldman Sachs](generated/companies/goldman-sachs.md) | [Associate Intern - The Core Quantitative Strats](https://higher.gs.com/roles/171546?type=students) | Dallas, TX | Onsite | 2026-08-15 | Rolling | 🔴 Closed | ❔ |
+| [Goldman Sachs](generated/companies/goldman-sachs.md) | [Quantitative Strategist Associate Intern - Asset and Wealth Management](https://higher.gs.com/roles/175423?type=students) | London | Onsite | 2026-08-15 | Rolling | 🔴 Closed | ❔ |
+| [Goldman Sachs](generated/companies/goldman-sachs.md) | [Quantitative Strategist Associate Intern - The Core Quantitative Strats](https://higher.gs.com/roles/175427?type=students) | London | Onsite | 2026-08-15 | Rolling | 🔴 Closed | ❔ |
+| [Goldman Sachs](generated/companies/goldman-sachs.md) | [Quantitative Strategist Associate Intern - The Core Quantitative Strats](https://higher.gs.com/roles/171535?type=students) | NYC | Onsite | 2026-08-15 | Rolling | 🔴 Closed | ❔ |
+| [Goldman Sachs](generated/companies/goldman-sachs.md) | [Quantitative Strategist Intern - Americas](https://higher.gs.com/roles/171532?type=students) | Dallas, TX | Onsite | 2026-08-15 | Rolling | 🔴 Closed | ❔ |
+| [Goldman Sachs](generated/companies/goldman-sachs.md) | [Quantitative Strategist Intern - Americas - The Core Quantitative Strats](https://higher.gs.com/roles/171551?type=students) | Salt Lake City, UT | Onsite | 2026-08-15 | Rolling | 🔴 Closed | ❔ |
+| [Goldman Sachs](generated/companies/goldman-sachs.md) | [Quantitative Strategist Intern - Americas - The Core Quantitative Strats](https://higher.gs.com/roles/171534?type=students) | Dallas, TX | Onsite | 2026-08-15 | Rolling | 🔴 Closed | ❔ |
+| [Goldman Sachs](generated/companies/goldman-sachs.md) | [Quantitative Strategist Intern - Americas - The Core Quantitative Strats](https://higher.gs.com/roles/171533?type=students) | NYC | Onsite | 2026-08-15 | Rolling | 🔴 Closed | ❔ |
+| [Goldman Sachs](generated/companies/goldman-sachs.md) | [Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats](https://higher.gs.com/roles/175421?type=students) | London | Onsite | 2026-08-15 | Rolling | 🔴 Closed | ❔ |
+| [Goldman Sachs](generated/companies/goldman-sachs.md) | [Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats](https://higher.gs.com/roles/171549?type=students) | Salt Lake City, UT | Onsite | 2026-08-15 | Rolling | 🔴 Closed | ❔ |
+| [Goldman Sachs](generated/companies/goldman-sachs.md) | [Quantitative Strategist Intern - Investment Banking](https://higher.gs.com/roles/175428?type=students) | London | Onsite | 2026-08-15 | Rolling | 🔴 Closed | ❔ |
+| [Goldman Sachs](generated/companies/goldman-sachs.md) | [Quantitative Strategist Intern - Multiple Teams](https://higher.gs.com/roles/175424?type=students) | London | Onsite | 2026-08-15 | Rolling | 🔴 Closed | ❔ |
+| [Goldman Sachs](generated/companies/goldman-sachs.md) | [Quantitative Strategist Intern - Multiple Teams](https://higher.gs.com/roles/171563?type=students) | NYC | Onsite | 2026-08-15 | Rolling | 🔴 Closed | ❔ |
+| [Goldman Sachs](generated/companies/goldman-sachs.md) | [Quantitative Strats Analyst Intern - Americas - Investment Banking](https://higher.gs.com/roles/171548?type=students) | Dallas, TX | Onsite | 2026-08-15 | Rolling | 🔴 Closed | ❔ |
+| [Goldman Sachs](generated/companies/goldman-sachs.md) | [Summer Analyst Intern - Americas - Investment Banking Quantitative Strats](https://higher.gs.com/roles/171547?type=students) | NYC | Onsite | 2026-08-15 | Rolling | 🔴 Closed | ❔ |
 | [Goldman Sachs](generated/companies/goldman-sachs.md) | [Summer Analyst Intern - FICC & Equities - Sales & Trading](https://higher.gs.com/roles/170675?type=students) | London | Onsite | 2026-08-15 | Rolling | 🔴 Closed | ❔ |
+| [Goldman Sachs](generated/companies/goldman-sachs.md) | [Summer Analyst Intern - FICC and Equities - Sales and Trading](https://higher.gs.com/roles/181628?type=students) | West Palm Beach, FL | Onsite | 2026-08-15 | Rolling | 🔴 Closed | ❔ |
+| [Goldman Sachs](generated/companies/goldman-sachs.md) | [Summer Analyst Intern - The Core Quantitative Strats](https://higher.gs.com/roles/175426?type=students) | London | Onsite | 2026-08-15 | Rolling | 🔴 Closed | ❔ |
 | [Goldman Sachs](generated/companies/goldman-sachs.md) | [Summer Analyst Intern - Wealth Management - Quantitative Finance](https://higher.gs.com/roles/170860?type=students) | London | Onsite | 2026-08-15 | Rolling | 🔴 Closed | ❔ |
 | [Group 1001](generated/companies/group-1001.md) | [Quantitative Analysis Intern](https://group1001wd.wd5.myworkdayjobs.com/careers/job/Stamford-Connecticut/Quantitative-Analysis-Intern_R26_0405) | Stamford, CT | Onsite | 2026-07-23 | Rolling | 🔴 Closed | ❔ |
 | [Hudson River Trading](generated/companies/hudson-river-trading.md) | [Women in Trading and Technology Internship (WiTTI) – Winter 2027](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8188637) | New York, NY | Onsite | 2026-09-14 | Rolling | 🔴 Closed | ❔ |
+| [IMC](generated/companies/imc.md) | [Quantitative Research Intern](https://www.imc.com/us/careers/jobs/4907399101) | Chicago, IL | Onsite | 2026-07-24 | Rolling | 🔴 Closed | ✅ |
+| [IMC](generated/companies/imc.md) | [Quantitative Research Intern (PHD)](https://www.imc.com/us/careers/jobs/4907400101) | Chicago | Onsite | 2026-07-24 | Rolling | 🔴 Closed | ✅ |
 | [IMC Trading](generated/companies/imc-trading.md) | [2027 - Quant Research Intern - BITS Pilani](https://job-boards.eu.greenhouse.io/imc/jobs/4942958101) | Amsterdam | Onsite | 2026-08-01 | Rolling | 🔴 Closed | ❔ |
 | [IMC Trading](generated/companies/imc-trading.md) | [2027 - Quant Research Intern - IIT Bombay](https://job-boards.eu.greenhouse.io/imc/jobs/4860277101) | Amsterdam | Onsite | 2026-07-02 | Rolling | 🔴 Closed | ❔ |
 | [IMC Trading](generated/companies/imc-trading.md) | [2027 - Quant Research Intern - IIT Delhi](https://job-boards.eu.greenhouse.io/imc/jobs/4917441101) | Amsterdam | Onsite | 2026-07-06 | Rolling | 🔴 Closed | ❔ |
@@ -291,6 +305,7 @@
 | [Picton Mahoney Asset Management](generated/companies/picton-mahoney-asset-management.md) | [Quantitative Research & Risk Intern](https://pictonmahoney.bamboohr.com/careers/350/) | Toronto | Onsite | 2026-08-13 | Rolling | 🔴 Closed | ❔ |
 | [PIMCO](generated/companies/pimco.md) | [Trading Analyst Intern](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-Summer-Intern---Trading-Analyst--US_R106763) | Newport Beach, CA | Onsite | 2026-08-20 | Rolling | 🔴 Closed | ❔ |
 | [Pinterest](generated/companies/pinterest.md) | [UX Quantitative Research Intern (USA)](https://www.pinterestcareers.com/jobs/?gh_jid=8140217) | Remote | Remote | 2026-10-01 | Rolling | 🔴 Closed | ❔ |
+| [Point72](generated/companies/point72.md) | [Quantitative Developer Intern](https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-developer-internship&jobCode=CSS-0012293) | New York, NY | Onsite | 2026-04-19 | Rolling | 🔴 Closed | ❔ |
 | [Point72](generated/companies/point72.md) | [Quantitative Developer Intern](https://job-boards.greenhouse.io/point72/jobs/8721562002?gh_jid=8721562002) | New York, NY | Onsite | 2026-08-21 | Rolling | 🔴 Closed | ❔ |
 | [PsiQuantum](generated/companies/psiquantum.md) | [Quantum Algorithms and Compilation Intern](https://www.psiquantum.com/apply?gh_jid=7695559003) | Palo Alto, CA | Onsite | 2026-04-15 | Rolling | 🔴 Closed | ❔ |
 | [Quantbot Technologies](generated/companies/quantbot-technologies.md) | [Data Trading Analyst Intern - Data Trading Lab](https://www.quantbot.com/careers/4299858009?gh_jid=4299858009) | London | Onsite | 2026-08-11 | Rolling | 🔴 Closed | ❔ |
@@ -333,6 +348,7 @@
 | [Truist Bank](generated/companies/truist-bank.md) | [Fixed Income Loans S&T Intern - Sales, Trading & Research - Analyst Program](https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/New-York-NY/XMLNAME-2027-Truist-Securities---Fixed-Income-Loans-S-T--Sales--Trading---Research----Analyst-Program--INTERN-CONVERSION-_R0117765-1) | NYC | Onsite | 2026-08-11 | Rolling | 🔴 Closed | ❔ |
 | [U.S. Bank](generated/companies/u-s-bank.md) | [Quantitative Modeling Intern](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Charlotte-NC/XMLNAME-2027-Quantitative-Modeling-Summer-Intern_2026-0027558) | Charlotte, NC | Onsite | 2026-09-08 | Rolling | 🔴 Closed | ❔ |
 | [USAA](generated/companies/usaa.md) | [Quantitative Risk Analyst Intern](https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/Quantitative-Risk-Analyst-Intern_R0120753) | San Antonio, TX | Onsite | 2026-09-09 | Rolling | 🔴 Closed | ❔ |
+| [Voloridge Investment Management](generated/companies/voloridge-investment-management.md) | [Quantitative Developer Intern](https://voloridge-investment-management.hiringthing.com/job/1013126/quantitative-developer-intern-2027?s=lif&jr_id=69eaa8e4dc35f7132c4ab803) | Jupiter, FL | Onsite | 2026-05-23 | Rolling | 🔴 Closed | ❔ |
 | [VWH Capital Management](generated/companies/vwh-capital-management.md) | [Quantitative Researcher Intern](https://jobs.smartrecruiters.com/VWHCapitalManagementLP/744000135105801) | Dallas, TX | Onsite | 2026-08-13 | Rolling | 🔴 Closed | ❔ |
 | [Walleye Capital](generated/companies/walleye-capital.md) | [Central Equity Quant Research Intern - Ceqr](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4676069006) | NYC | Onsite | 2026-06-10 | Rolling | 🔴 Closed | ❔ |
 | [Walleye Capital](generated/companies/walleye-capital.md) | [Quantic – Quantitative Researcher Intern](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679173006) | Boston, MA | Onsite | 2026-06-10 | Rolling | 🔴 Closed | ❔ |
@@ -351,38 +367,39 @@
 
 ## Hiring companies
 
-- Jump Trading (25)
+- Jump Trading (26)
 - Goldman Sachs (19)
 - Susquehanna International Group (SIG) (19)
 - IMC Trading (16)
 - Virtu Financial (13)
 - BlackRock (10)
 - BP (9)
+- Akuna Capital (8)
 - Wells Fargo (7)
+- Chicago Trading Company (6)
+- DV Trading (6)
 - PIMCO (6)
+- Point72 (6)
 - Schonfeld (6)
 - Walleye Capital (6)
 - Fidelity Investments (6)
 - Brevan Howard (5)
 - Deutsche Bank (5)
-- DV Trading (5)
 - InfiniteQuant (5)
 - JP Morgan Chase (5)
 - Quantbot Technologies (5)
 - Royal Bank of Canada (5)
-- Chicago Trading Company (4)
+- DRW (4)
 - Hudson River Trading (4)
 - Jain Global (4)
 - Jane Street (4)
-- Point72 (4)
 - Tower Research Capital (4)
 - Optiver (4)
-- Akuna Capital (3)
 - AQR Capital Management (3)
 - Belvedere Trading (3)
-- DRW (3)
 - Five Rings Capital (3)
 - Garda Capital Partners (3)
+- Graviton (3)
 - OCC (3)
 - Citi (3)
 - Amazon (2)
@@ -391,8 +408,6 @@
 - Barclays (2)
 - Booz Allen (2)
 - Citadel (2)
-- Graviton (2)
-- IMC (2)
 - LSEG (2)
 - Man Group (2)
 - Talos (2)
@@ -403,6 +418,7 @@
 - Bank of Montreal (2)
 - Castleton Commodities International (2)
 - Chevron Corporation (2)
+- IMC (2)
 - PEAK6 (2)
 - Susquehanna International Group (2)
 - T. Rowe Price (2)
@@ -422,6 +438,7 @@
 - ExxonMobil (1)
 - Flow Traders (1)
 - G-Research (1)
+- JPMorgan Chase (1)
 - Lazard (1)
 - Marshall Wace (1)
 - Millennium (1)
@@ -437,9 +454,10 @@
 - Stevens Capital Management (1)
 - Susquehanna (1)
 - Susquehanna Investment Group (1)
+- Tower Research (1)
 - Tradeweb (1)
 - Two Sigma (1)
-- Voloridge Investment Management (1)
+- Virtu (1)
 - Zions Bank (1)
 - BNY (1)
 - Citadel Securities (1)
@@ -471,6 +489,7 @@
 - Schroders (1)
 - U.S. Bank (1)
 - USAA (1)
+- Voloridge Investment Management (1)
 - VWH Capital Management (1)
 - WhiteWater Midstream (1)
 

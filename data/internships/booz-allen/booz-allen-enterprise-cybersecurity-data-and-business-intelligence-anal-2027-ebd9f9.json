@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0",
+  "id": "booz-allen-enterprise-cybersecurity-data-and-business-intelligence-anal-2027-ebd9f9",
+  "company": {
+    "name": "Booz Allen",
+    "slug": "booz-allen"
+  },
+  "role": "Enterprise Cybersecurity Data and Business Intelligence Analyst Intern",
+  "category": "security",
+  "apply_url": "https://go.vansh.nyc/fl",
+  "season": "winter",
+  "year": 2027,
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "McLean",
+      "state": "VA",
+      "country": "USA"
+    }
+  ],
+  "compensation": {
+    "currency": "USD",
+    "housing_stipend": false,
+    "relocation_assistance": false
+  },
+  "eligibility": {
+    "graduation_years": [],
+    "degree_levels": [],
+    "citizenship_required": false,
+    "security_clearance_required": false,
+    "visa_sponsorship": "unknown"
+  },
+  "interview": {},
+  "tech": {
+    "required_skills": [],
+    "preferred_skills": [],
+    "languages": [],
+    "frameworks": [],
+    "cloud_platforms": [],
+    "resume_keywords": []
+  },
+  "dates": {
+    "posted": "2026-10-22",
+    "discovered": "2026-10-25",
+    "last_verified": "2026-10-25"
+  },
+  "status": "open",
+  "tags": [
+    "auto-ingested",
+    "src:vanshb03"
+  ]
+}

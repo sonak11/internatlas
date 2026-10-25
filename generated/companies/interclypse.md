@@ -6,7 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
-| Interclypse | [Junior Full Stack Software Engineer Intern](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4595767) | Annapolis Junction, MD | Onsite | 2026-10-19 | Rolling | 🟢 Open | ❔ |
+| Interclypse | [Junior Full Stack Software Engineer Intern](https://go.vansh.nyc/gn) | Annapolis Junction, MD | Onsite | 2026-10-19 | Rolling | 🟢 Open | ❔ |
 
 ## Related
 

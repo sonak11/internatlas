@@ -6,16 +6,16 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
-| Cisco | [AI Operations Engineer I Intern](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/AI-Operations-Engineer-I--Intern----United-States_2026804) | San Jose, CA +3 | Onsite | 2026-10-22 | Rolling | 🟢 Open | ❔ |
-| Cisco | [Engineering Product Management Specialist I Intern](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Engineering-Product-Management-Specialist-I--Intern----United-States_2026308) | San Jose, CA +3 | Onsite | 2026-10-22 | Rolling | 🟢 Open | ❔ |
-| Cisco | [Machine Learning Engineer I Intern](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Machine-Learning-Engineer-I--Intern----United-States_2026803) | San Jose, CA +3 | Onsite | 2026-10-22 | Rolling | 🟢 Open | ❔ |
-| Cisco | [Machine Learning Engineer II Intern](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Machine-Learning-Engineer-II--Intern----United-States_2026802) | San Jose, CA +3 | Onsite | 2026-10-22 | Rolling | 🟢 Open | ❔ |
-| Cisco | [Software Consulting Engineer I Intern](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/USA-RESEARCH-TRIANGLE-PARK/Software-Consulting-Engineer-I--Intern--United-States_2025180) | Research Triangle Park, NC | Onsite | 2026-10-01 | Rolling | 🟢 Open | ❔ |
-| Cisco | [Software Engineer Data & AI II Intern](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Data---AI-II--Intern----United-States_2026798) | San Jose, CA +3 | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
-| Cisco | [Software Engineer Intern, Data & AI](https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Data---AI-I--Intern----United-States_2026306) | San Jose, CA +3 | Onsite | 2026-10-21 | Rolling | 🟢 Open | ❔ |
-| Cisco | [Software Engineer Intern, Embedded Systems II](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Embedded-Systems-II--Intern----United-States_2026805) | San Jose, CA +3 | Onsite | 2026-10-22 | Rolling | 🟢 Open | ❔ |
-| Cisco | [Software Engineer Intern, Full Stack / Backend I](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Full-Stack---Backend-I--Intern----United-States_2025924) | San Jose, CA +3 | Onsite | 2026-10-22 | Rolling | 🟢 Open | ❔ |
-| Cisco | [Software Engineer Intern, Full Stack / Backend II](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Full-Stack---Backend-II--Intern----United-States_2026800) | San Jose, CA +3 | Onsite | 2026-10-22 | Rolling | 🟢 Open | ❔ |
+| Cisco | [AI Operations Engineer I Intern](https://go.vansh.nyc/ec) | San Jose, CA +3 | Onsite | 2026-10-22 | Rolling | 🟢 Open | ❔ |
+| Cisco | [Engineering Product Management Specialist I Intern](https://go.vansh.nyc/eb) | San Jose, CA +3 | Onsite | 2026-10-22 | Rolling | 🟢 Open | ❔ |
+| Cisco | [Machine Learning Engineer I Intern](https://go.vansh.nyc/e7) | San Jose, CA +3 | Onsite | 2026-10-22 | Rolling | 🟢 Open | ❔ |
+| Cisco | [Machine Learning Engineer II Intern](https://go.vansh.nyc/e8) | San Jose, CA +3 | Onsite | 2026-10-22 | Rolling | 🟢 Open | ❔ |
+| Cisco | [Software Consulting Engineer I Intern](https://go.vansh.nyc/fX) | Research Triangle Park, NC | Onsite | 2026-10-01 | Rolling | 🟢 Open | ❔ |
+| Cisco | [Software Engineer Data & AI II Intern](https://go.vansh.nyc/gO) | San Jose, CA +3 | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
+| Cisco | [Software Engineer Intern, Data & AI](https://go.vansh.nyc/gs) | San Jose, CA +3 | Onsite | 2026-10-21 | Rolling | 🟢 Open | ❔ |
+| Cisco | [Software Engineer Intern, Embedded Systems II](https://go.vansh.nyc/e2) | San Jose, CA +3 | Onsite | 2026-10-22 | Rolling | 🟢 Open | ❔ |
+| Cisco | [Software Engineer Intern, Full Stack / Backend I](https://go.vansh.nyc/e3) | San Jose, CA +3 | Onsite | 2026-10-22 | Rolling | 🟢 Open | ❔ |
+| Cisco | [Software Engineer Intern, Full Stack / Backend II](https://go.vansh.nyc/e4) | San Jose, CA +3 | Onsite | 2026-10-22 | Rolling | 🟢 Open | ❔ |
 
 ## Related
 

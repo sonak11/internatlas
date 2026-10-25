@@ -25,6 +25,7 @@
 | Vertiv | [Power Management Intern - Summer 2027](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279233) | Delaware, OH | Onsite | 2026-08-27 | Rolling | 🟢 Open | ❔ |
 | Vertiv | [Product Management Intern](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278958) | Delaware, OH | Onsite | 2026-08-12 | Rolling | 🟢 Open | ❌ |
 | Vertiv | [Product Management Intern - MBA - Power Solutions & Distribution](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278959) | Delaware, OH | Onsite | 2026-08-12 | Rolling | 🟢 Open | ❔ |
+| Vertiv | [Product Management Intern, MBA](https://go.vansh.nyc/7y) | Delaware, OH | Onsite | 2026-08-21 | Rolling | 🟢 Open | ❌ |
 | Vertiv | [Product Marketing Intern](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279046) | Delaware, OH | Onsite | 2026-08-21 | Rolling | 🟢 Open | ❔ |
 | Vertiv | [Sales Data Analytics Intern](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279291) | Westerville, OH | Onsite | 2026-08-13 | Rolling | 🟢 Open | ❔ |
 | Vertiv | [Sales Data Analytics Intern - Summer 2027](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279293) | Westerville, OH | Onsite | 2026-08-13 | Rolling | 🟢 Open | ❔ |
@@ -34,6 +35,7 @@
 | Vertiv | [Technical Innovation Intern](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279286) | Columbus, OH | Onsite | 2026-10-05 | Rolling | 🟢 Open | ❔ |
 | Vertiv | [Test Engineer Intern](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279024) | Delaware, OH | Onsite | 2026-08-10 | Rolling | 🟢 Open | ❔ |
 | Vertiv | [Thermal Engineer Intern - Summer 2027](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278813) | Westerville, OH | Onsite | 2026-08-10 | Rolling | 🟢 Open | ❔ |
+| Vertiv | [UI/UX Design Intern](https://go.vansh.nyc/8S) | Delaware, OH | Onsite | 2026-10-13 | Rolling | 🟢 Open | ❔ |
 | Vertiv | [UI/UX Design Intern](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20281371) | Delaware, OH +2 | Onsite | 2026-10-13 | Rolling | 🟢 Open | ❔ |
 | Vertiv | [Electrical Engineer Intern - Energy Storage](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279271) | Delaware, OH | Onsite | 2026-08-12 | Rolling | 🔴 Closed | ❔ |
 | Vertiv | [Innovation Lab Engineering Intern 2](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20280129) | Delaware, OH | Onsite | 2026-09-11 | Rolling | 🔴 Closed | ❔ |

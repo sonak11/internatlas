@@ -7,7 +7,7 @@
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
 | Marsh | [Finance Innovation & Technology Intern - Master's Finance Innovation & Technology](https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/New-York---1166/Summer-Intern--Master-s-Finance-Innovation---Technology--FIT---New-York--2027_R_369586) | NYC | Onsite | 2026-10-14 | Rolling | 🟢 Open | ❔ |
-| Marsh | [Intern](https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Dallas---13155-Noel/Intern---Summer-2027_R_369433) | Dallas, TX | Onsite | 2026-10-13 | Rolling | 🟢 Open | ❔ |
+| Marsh | [Intern](https://go.vansh.nyc/8H) | Dallas, TX | Onsite | 2026-10-13 | Rolling | 🟢 Open | ❔ |
 | Marsh | [Government Health Consulting Informatics Intern - College Program](https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Phoenix---E-Camelback/Government-Health-Consulting-Informatics-Summer-Intern---College-Program-2027_R_362073) | Phoenix, AZ +1 | Onsite | 2026-08-21 | Rolling | 🔴 Closed | ❔ |
 | Marsh | [Summer Analyst Intern - Data and Analytics](https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Toronto---Bremner/Oliver-Wyman---Summer-Analyst-2027---Data-and-Analytics--DNA----Toronto_R_363727-1) | Toronto | Onsite | 2026-08-27 | Rolling | 🔴 Closed | ❔ |
 

@@ -5,16 +5,16 @@
     "name": "ByteDance",
     "slug": "bytedance"
   },
-  "role": "Software Engineer Intern - Distributed NoSQL Database Systems",
+  "role": "Software Engineer Intern, Distributed NoSQL Database Systems",
   "category": "software-engineering",
-  "apply_url": "https://jobs.bytedance.com/en/position/7668374190764050741/detail",
+  "apply_url": "https://go.vansh.nyc/5W",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "San Jose",
-      "state": "CA",
+      "city": "Seattle",
+      "state": "WA",
       "country": "USA"
     }
   ],
@@ -42,13 +42,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-03",
+    "posted": "2026-08-04",
     "discovered": "2026-08-03",
     "last_verified": "2026-10-25"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }

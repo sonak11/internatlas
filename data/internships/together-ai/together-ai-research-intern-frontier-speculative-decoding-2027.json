@@ -5,17 +5,13 @@
     "name": "Together AI",
     "slug": "together-ai"
   },
-  "role": "Research Intern - Frontier Speculative Decoding",
+  "role": "Research Intern, Frontier Speculative Decoding",
   "category": "research",
-  "apply_url": "https://job-boards.greenhouse.io/togetherai/jobs/5267197007",
-  "season": "winter",
+  "apply_url": "https://go.vansh.nyc/aA",
+  "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
-    {
-      "city": "SF",
-      "country": "USA"
-    },
     {
       "city": "San Francisco",
       "state": "CA",
@@ -54,6 +50,6 @@
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }

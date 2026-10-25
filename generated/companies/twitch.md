@@ -7,7 +7,8 @@
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
 | Twitch | [Undergrad Software Engineering Intern](https://job-boards.greenhouse.io/twitch/jobs/8886748002) | San Francisco, CA | Onsite | 2026-10-22 | Rolling | 🟢 Open | ❔ |
-| Twitch | [Undergrad Software Engineering Intern](https://job-boards.greenhouse.io/twitch/jobs/8886605002) | San Francisco, CA | Onsite | 2026-10-22 | Rolling | 🟢 Open | ❔ |
+| Twitch | [Undergrad Software Engineering Intern](https://go.vansh.nyc/f5) | San Francisco, CA | Onsite | 2026-10-22 | Rolling | 🟢 Open | ❔ |
+| Twitch | [Undergrad Software Engineering Intern](https://go.vansh.nyc/eV) | San Francisco, CA | Onsite | 2026-10-22 | Rolling | 🟢 Open | ❔ |
 
 ## Related
 

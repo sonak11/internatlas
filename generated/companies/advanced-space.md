@@ -6,7 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
-| Advanced Space | [Technical Growth and Capture Intern](https://job-boards.greenhouse.io/advancedspace/jobs/4444656009) | Westminster, CO | Onsite | 2026-10-10 | Rolling | 🟢 Open | ❔ |
+| Advanced Space | [Technical Growth and Capture Intern](https://go.vansh.nyc/7Y) | Westminster, CO | Onsite | 2026-10-10 | Rolling | 🟢 Open | ❔ |
 
 ## Related
 

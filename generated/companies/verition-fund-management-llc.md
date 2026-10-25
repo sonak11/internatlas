@@ -6,7 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
-| Verition Fund Management LLC | [Software Engineer Intern](https://www.verition.com/open-positions?gh_jid=5214784007&t=3253f722teu) | Remote | Remote | 2026-08-21 | Rolling | 🟢 Open | ✅ |
+| Verition Fund Management LLC | [Software Engineer Intern](https://go.vansh.nyc/7e) | Remote | Remote | 2026-08-21 | Rolling | 🟢 Open | ✅ |
 
 ## Related
 

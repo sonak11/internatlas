@@ -6,7 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
-| NetApp | [Software Engineer Intern](https://jobs.netapp.com/job/Wichita-Software-Engineer-Intern-KS-67208/1441378400/?ats=successfactors) | Wichita, KS | Onsite | 2026-10-19 | Rolling | 🟢 Open | ❔ |
+| NetApp | [Software Engineer Intern](https://go.vansh.nyc/cb) | Wichita, KS | Onsite | 2026-10-19 | Rolling | 🟢 Open | ❔ |
 
 ## Related
 

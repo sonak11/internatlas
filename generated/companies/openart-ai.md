@@ -6,7 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
-| OpenArt AI | [Early Adopter & Product Builder Intern, Creative AI](https://jobs.ashbyhq.com/openart/8dd52ba6-a5b6-40b1-95fe-50de352fa254/application?embed=true) | San Carlos, CA | Onsite | 2026-10-22 | Rolling | 🟢 Open | ❔ |
+| OpenArt AI | [Early Adopter & Product Builder Intern, Creative AI](https://go.vansh.nyc/ej) | San Carlos, CA | Onsite | 2026-10-22 | Rolling | 🟢 Open | ❔ |
 
 ## Related
 

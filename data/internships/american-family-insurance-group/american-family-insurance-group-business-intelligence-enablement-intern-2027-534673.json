@@ -1,0 +1,57 @@
+{
+  "schema_version": "1.0",
+  "id": "american-family-insurance-group-business-intelligence-enablement-intern-2027-534673",
+  "company": {
+    "name": "American Family Insurance Group",
+    "slug": "american-family-insurance-group"
+  },
+  "role": "Business Intelligence Enablement Intern",
+  "category": "software-engineering",
+  "apply_url": "https://go.vansh.nyc/fc",
+  "season": "summer",
+  "year": 2027,
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "Madison",
+      "state": "WI",
+      "country": "USA"
+    },
+    {
+      "city": "Boston",
+      "state": "MA",
+      "country": "USA"
+    }
+  ],
+  "compensation": {
+    "currency": "USD",
+    "housing_stipend": false,
+    "relocation_assistance": false
+  },
+  "eligibility": {
+    "graduation_years": [],
+    "degree_levels": [],
+    "citizenship_required": false,
+    "security_clearance_required": false,
+    "visa_sponsorship": "unknown"
+  },
+  "interview": {},
+  "tech": {
+    "required_skills": [],
+    "preferred_skills": [],
+    "languages": [],
+    "frameworks": [],
+    "cloud_platforms": [],
+    "resume_keywords": []
+  },
+  "dates": {
+    "posted": "2026-10-22",
+    "discovered": "2026-10-25",
+    "last_verified": "2026-10-25"
+  },
+  "status": "open",
+  "tags": [
+    "auto-ingested",
+    "src:vanshb03"
+  ]
+}

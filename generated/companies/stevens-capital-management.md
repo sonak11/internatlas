@@ -6,7 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
-| Stevens Capital Management | [Quantitative Research Analyst Internship](https://job-boards.greenhouse.io/scm/jobs/721895) | Radnor, PA | Onsite | 2026-07-27 | Rolling | 🟢 Open | ❔ |
+| Stevens Capital Management | [Quantitative Research Analyst Internship](https://go.vansh.nyc/4V) | Radnor, PA | Onsite | 2026-07-27 | Rolling | 🟢 Open | ❔ |
 
 ## Related
 

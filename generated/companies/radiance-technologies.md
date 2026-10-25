@@ -6,7 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
-| Radiance Technologies | [Microelectronics Engineer Intern](https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Ruston-LA/Microelectronics-Engineer-Intern_HR102520) | Ruston, LA | Onsite | 2026-10-22 | Rolling | 🟢 Open | ❔ |
+| Radiance Technologies | [Microelectronics Engineer Intern](https://go.vansh.nyc/f9) | Ruston, LA | Onsite | 2026-10-22 | Rolling | 🟢 Open | ❔ |
 | Radiance Technologies | [Modeling Engineer Intern - Analytics - Simulation Sciences](https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Beavercreek-OH/XMLNAME-2027-Modeling--Analytics----Simulation-Sciences--MASS--Engineer-Intern_HR102439) | Beavercreek, OH | Onsite | 2026-09-24 | Rolling | 🟢 Open | ❔ |
 | Radiance Technologies | [Modeling Engineer Intern - Analytics and Simulation Sciences](https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Beavercreek-OH/XMLNAME-2027-Modeling--Analytics----Simulation-Sciences--MASS--Engineer-Intern_HR102438) | Beavercreek, OH | Onsite | 2026-09-24 | Rolling | 🟢 Open | ❔ |
 | Radiance Technologies | [Modeling Engineer Intern - Analytics, Simulation Sciences, Mass](https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Beavercreek-OH/XMLNAME-2027-Modeling--Analytics----Simulation-Sciences--MASS--Engineer-Intern_HR102441) | Beavercreek, OH | Onsite | 2026-09-24 | Rolling | 🟢 Open | ❔ |

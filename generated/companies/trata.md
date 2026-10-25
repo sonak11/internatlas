@@ -6,7 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
-| Trata | [Research Scientist Intern](https://www.workatastartup.com/jobs/94620) | San Francisco, CA +1 | Onsite | 2026-05-14 | Rolling | 🟢 Open | ❌ |
+| Trata | [Research Scientist Intern](https://go.vansh.nyc/2C) | San Francisco, CA +1 | Onsite | 2026-05-14 | Rolling | 🟢 Open | ❌ |
 
 ## Related
 

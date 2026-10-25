@@ -6,7 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
-| Susquehanna | [Trading System Engineering Intern](https://careers.sig.com/jobs/10837?lang=en-us&mode=apply&iis=LinkedIn&jr_id=69f3d11158b23a2329da8088) | Bala Cynwyd, PA | Onsite | 2026-05-22 | Rolling | 🟢 Open | ✅ |
+| Susquehanna | [Trading System Engineering Intern](https://go.vansh.nyc/2M) | Bala Cynwyd, PA | Onsite | 2026-05-22 | Rolling | 🟢 Open | ✅ |
 
 ## Related
 

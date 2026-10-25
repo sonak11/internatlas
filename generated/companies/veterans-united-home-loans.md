@@ -6,7 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
-| Veterans United Home Loans | [Software Engineer Intern](https://veteransunited.wd1.myworkdayjobs.com/vuhl/job/Remote-MO/Intern---Software-Engineer---Summer-2027_R6249) | USA | Onsite | 2026-10-06 | Rolling | 🟢 Open | ❔ |
+| Veterans United Home Loans | [Software Engineer Intern](https://go.vansh.nyc/g4) | USA | Onsite | 2026-10-06 | Rolling | 🟢 Open | ❔ |
 
 ## Related
 

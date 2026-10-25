@@ -7,14 +7,15 @@
   },
   "role": "Quantitative Trading Analyst Intern",
   "category": "quant",
-  "apply_url": "https://job-boards.greenhouse.io/drweng/jobs/7957243",
+  "apply_url": "https://go.vansh.nyc/5r",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "London",
-      "country": "UK"
+      "city": "Chicago",
+      "state": "IL",
+      "country": "USA"
     }
   ],
   "compensation": {
@@ -42,13 +43,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-13",
+    "posted": "2026-07-31",
     "discovered": "2026-07-17",
     "last_verified": "2026-10-25"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }

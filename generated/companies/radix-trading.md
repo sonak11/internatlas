@@ -6,7 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
-| Radix Trading | [Quantitative Technologist Intern, C++](https://job-boards.greenhouse.io/radixuniversity/jobs/8500265002) | Chicago, IL | Onsite | 2026-07-24 | Rolling | 🟢 Open | ✅ |
+| Radix Trading | [Quantitative Technologist Intern, C++](https://go.vansh.nyc/3R) | Chicago, IL | Onsite | 2026-07-24 | Rolling | 🟢 Open | ✅ |
 
 ## Related
 

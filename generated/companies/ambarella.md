@@ -9,7 +9,7 @@
 | Ambarella | [Algorithm Engineer Intern](https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/Algorithm-Engineer-Intern_JR100359) | USA | Onsite | 2026-08-27 | Rolling | 🟢 Open | ❔ |
 | Ambarella | [ASIC Design Engineer Intern](https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/ASIC-Design-Engineer-Intern_JR100357) | USA | Onsite | 2026-08-26 | Rolling | 🟢 Open | ❔ |
 | Ambarella | [DFT Engineer Intern](https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/DFT-Engineer-Intern_JR100360) | USA | Onsite | 2026-08-27 | Rolling | 🟢 Open | ❔ |
-| Ambarella | [Physical Design Engineer Intern](https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/Physical-Design-Engineer-Intern_JR100393) | USA | Onsite | 2026-10-22 | Rolling | 🟢 Open | ❔ |
+| Ambarella | [Physical Design Engineer Intern](https://go.vansh.nyc/gy) | USA | Onsite | 2026-10-22 | Rolling | 🟢 Open | ❔ |
 | Ambarella | [Software Architecture Intern](https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/Software-Architecture-Engineer-Intern_JR100365) | USA | Onsite | 2026-08-27 | Rolling | 🟢 Open | ❔ |
 | Ambarella | [Software Engineer Intern](https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/Software-Development-Engineer-Intern_JR100366-1) | USA | Onsite | 2026-08-27 | Rolling | 🟢 Open | ❔ |
 | Ambarella | [Verification Engineer Intern](https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/Verification-Engineer-Intern_JR100364) | USA | Onsite | 2026-08-27 | Rolling | 🟢 Open | ❔ |

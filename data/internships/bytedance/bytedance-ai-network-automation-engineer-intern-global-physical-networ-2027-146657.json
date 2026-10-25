@@ -1,0 +1,54 @@
+{
+  "schema_version": "1.0",
+  "id": "bytedance-ai-network-automation-engineer-intern-global-physical-networ-2027-146657",
+  "company": {
+    "name": "ByteDance",
+    "slug": "bytedance"
+  },
+  "role": "AI Network Automation Engineer Intern - Global Physical Network Infrastructure",
+  "category": "ai",
+  "apply_url": "https://jobs.bytedance.com/en/position/7670690923748870405/detail",
+  "season": "summer",
+  "year": 2027,
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "San Jose",
+      "state": "CA",
+      "country": "USA"
+    }
+  ],
+  "compensation": {
+    "currency": "USD",
+    "housing_stipend": false,
+    "relocation_assistance": false
+  },
+  "eligibility": {
+    "graduation_years": [],
+    "degree_levels": [
+      "masters"
+    ],
+    "citizenship_required": false,
+    "security_clearance_required": false,
+    "visa_sponsorship": "unknown"
+  },
+  "interview": {},
+  "tech": {
+    "required_skills": [],
+    "preferred_skills": [],
+    "languages": [],
+    "frameworks": [],
+    "cloud_platforms": [],
+    "resume_keywords": []
+  },
+  "dates": {
+    "posted": "2026-08-06",
+    "discovered": "2026-10-25",
+    "last_verified": "2026-10-25"
+  },
+  "status": "open",
+  "tags": [
+    "auto-ingested",
+    "src:simplify"
+  ]
+}

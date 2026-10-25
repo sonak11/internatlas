@@ -1,0 +1,56 @@
+{
+  "schema_version": "1.0",
+  "id": "str-data-analyst-intern-2027-e3d1ec",
+  "company": {
+    "name": "STR",
+    "slug": "str"
+  },
+  "role": "Data Analyst Intern",
+  "category": "software-engineering",
+  "apply_url": "https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4723980006",
+  "season": "summer",
+  "year": 2027,
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "Arlington County",
+      "country": "Arlington"
+    },
+    {
+      "city": "Woburn",
+      "state": "MA",
+      "country": "USA"
+    }
+  ],
+  "compensation": {
+    "currency": "USD",
+    "housing_stipend": false,
+    "relocation_assistance": false
+  },
+  "eligibility": {
+    "graduation_years": [],
+    "degree_levels": [],
+    "citizenship_required": false,
+    "security_clearance_required": false,
+    "visa_sponsorship": "unknown"
+  },
+  "interview": {},
+  "tech": {
+    "required_skills": [],
+    "preferred_skills": [],
+    "languages": [],
+    "frameworks": [],
+    "cloud_platforms": [],
+    "resume_keywords": []
+  },
+  "dates": {
+    "posted": "2026-10-22",
+    "discovered": "2026-10-25",
+    "last_verified": "2026-10-25"
+  },
+  "status": "open",
+  "tags": [
+    "auto-ingested",
+    "src:simplify"
+  ]
+}

@@ -6,7 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
-| National Information Solutions Cooperative | [Application Analyst Intern, Financials Software](https://job-boards.greenhouse.io/nisc/jobs/8301304) | Mandan, ND | Onsite | 2026-10-19 | Rolling | 🟢 Open | ❔ |
+| National Information Solutions Cooperative | [Application Analyst Intern, Financials Software](https://go.vansh.nyc/bB) | Mandan, ND | Onsite | 2026-10-19 | Rolling | 🟢 Open | ❔ |
 | National Information Solutions Cooperative | [Database Conversion Programming Intern](https://job-boards.greenhouse.io/testnisc/jobs/8191885) | Lake St Louis, MO | Onsite | 2026-09-10 | Rolling | 🟢 Open | ❔ |
 | National Information Solutions Cooperative | [Database Conversion Programming Intern](https://job-boards.greenhouse.io/testnisc/jobs/8191898) | Mandan, ND | Onsite | 2026-09-10 | Rolling | 🟢 Open | ❔ |
 | National Information Solutions Cooperative | [Database Conversion Programming Intern](https://job-boards.greenhouse.io/nisc/jobs/8094408) | Lake St Louis, MO +1 | Onsite | 2026-09-10 | Rolling | 🟢 Open | ❔ |

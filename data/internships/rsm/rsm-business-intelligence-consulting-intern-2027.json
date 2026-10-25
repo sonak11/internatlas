@@ -7,23 +7,11 @@
   },
   "role": "Business Intelligence Consulting Intern",
   "category": "software-engineering",
-  "apply_url": "https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Edmonton/Business-Intelligence-Consulting-Intern---Summer-2027_JR122066-1",
+  "apply_url": "https://go.vansh.nyc/hg",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
-    {
-      "city": "Toronto",
-      "country": "ON"
-    },
-    {
-      "city": "Calgary",
-      "country": "AB"
-    },
-    {
-      "city": "Edmonton",
-      "country": "AB"
-    },
     {
       "city": "Toronto",
       "country": "Canada"
@@ -68,6 +56,6 @@
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }

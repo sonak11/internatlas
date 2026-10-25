@@ -6,7 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
-| Sardine | [Engineering Intern](https://jobs.ashbyhq.com/sardine/b25449a4-c78c-4b1a-b5b2-74b45981a37a/application?embed=true) | USA +1 | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
+| Sardine | [Engineering Intern](https://go.vansh.nyc/hz) | USA +1 | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
 
 ## Related
 

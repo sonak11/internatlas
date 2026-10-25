@@ -7,15 +7,11 @@
   },
   "role": "Associate Product Manager Intern",
   "category": "product",
-  "apply_url": "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Associate-Product-Manager-Intern--May-2027---12-Months-_R10638",
-  "season": "spring",
+  "apply_url": "https://go.vansh.nyc/hh",
+  "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
-    {
-      "city": "Mississauga",
-      "country": "ON"
-    },
     {
       "city": "Mississauga",
       "country": "Canada"
@@ -50,6 +46,6 @@
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }

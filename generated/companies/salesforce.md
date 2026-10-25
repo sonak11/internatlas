@@ -8,12 +8,13 @@
 |---|---|---|---|---|---|---|---|
 | Salesforce | [AI Research Intern](https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/California---Palo-Alto/Summer-2027-Intern---AI-Research_JR365111) | Palo Alto, CA | Onsite | 2026-10-20 | Rolling | 🟢 Open | ❔ |
 | Salesforce | [AI Research Intern](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---Palo-Alto/Summer-2027-Intern---AI-Research_JR365111-1) | Palo Alto, CA | Onsite | 2026-10-20 | Rolling | 🟢 Open | ❔ |
-| Salesforce | [AI Research Intern](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---Palo-Alto/Summer-2027-Intern---AI-Research_JR365111-1) | Palo Alto, CA | Onsite | 2026-10-20 | Rolling | 🟢 Open | ❔ |
+| Salesforce | [AI Research Intern](https://go.vansh.nyc/cG) | Palo Alto, CA | Onsite | 2026-10-20 | Rolling | 🟢 Open | ❔ |
 | Salesforce | [Software Engineer Intern](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer_JR340771-1) | Palo Alto, CA +7 | Onsite | 2026-05-07 | Rolling | 🟢 Open | ❔ |
 | Salesforce | [Software Engineer Intern](https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer_JR340771) | Palo Alto, CA +7 | Onsite | 2026-05-07 | Rolling | 🟢 Open | ❔ |
-| Salesforce | [Software Engineer Intern](https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer--Security-Government-_JR364911) | SF +2 | Onsite | 2026-10-19 | Rolling | 🟢 Open | ❌ |
+| Salesforce | [Software Engineer Intern](https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer--Security-Government-_JR364911) | SF +1 | Onsite | 2026-10-19 | Rolling | 🟢 Open | ❌ |
 | Salesforce | [Software Engineer Intern](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer--Security-Government-_JR364911-1) | SF +1 | Onsite | 2026-10-19 | Rolling | 🟢 Open | ❔ |
-| Salesforce | [Solution Engineer Intern](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/New-York---New-York/Summer-2027-Intern---Solution-Engineer_JR364363-1) | New York, NY | Onsite | 2026-10-15 | Rolling | 🟢 Open | ❔ |
+| Salesforce | [Software Engineer Intern, Security/Government](https://go.vansh.nyc/bA) | San Francisco, CA +1 | Onsite | 2026-10-19 | Rolling | 🟢 Open | ❌ |
+| Salesforce | [Solution Engineer Intern](https://go.vansh.nyc/9R) | New York, NY | Onsite | 2026-10-15 | Rolling | 🟢 Open | ❔ |
 | Salesforce | [Tableau Research Intern](https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/California---Palo-Alto/Summer-2027-Intern---Tableau-Research_JR363252) | Palo Alto, CA +1 | Onsite | 2026-10-07 | Rolling | 🟢 Open | ❔ |
 | Salesforce | [Tableau Research Intern](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---Palo-Alto/Summer-2027-Intern---Tableau-Research_JR363252-1) | Palo Alto, CA +1 | Onsite | 2026-10-07 | Rolling | 🟢 Open | ❔ |
 | Salesforce | [Associate Product Manager Intern - Associate Product Manager](https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/California---San-Francisco/Summer-2027-Intern---Associate-Product-Manager--APM-_JR348039) | SF | Onsite | 2026-07-13 | Rolling | 🔴 Closed | ❔ |
@@ -22,4 +23,4 @@
 
 ## Related
 
-Browse more roles in: [🤖 AI](../categories/ai.md), [🧭 Product](../categories/product.md), [🔬 Research](../categories/research.md), [💻 Software Engineering](../categories/software-engineering.md)
+Browse more roles in: [🤖 AI](../categories/ai.md), [🧭 Product](../categories/product.md), [🔬 Research](../categories/research.md), [🔐 Security](../categories/security.md), [💻 Software Engineering](../categories/software-engineering.md)

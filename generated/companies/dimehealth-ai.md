@@ -6,7 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
-| DimeHealth AI | [Forward Deployed Engineering Intern](https://www.workatastartup.com/jobs/94211) | New York, NY | Onsite | 2026-05-09 | Rolling | 🟢 Open | ✅ |
+| DimeHealth AI | [Forward Deployed Engineering Intern](https://go.vansh.nyc/2r) | New York, NY | Onsite | 2026-05-09 | Rolling | 🟢 Open | ✅ |
 
 ## Related
 

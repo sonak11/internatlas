@@ -5,9 +5,9 @@
     "name": "Aon",
     "slug": "aon"
   },
-  "role": "IT / AI Engineer Intern",
+  "role": "IT/AI Engineer Intern",
   "category": "ai",
-  "apply_url": "https://jobs.aon.com/jobs/110099?icims=1",
+  "apply_url": "https://go.vansh.nyc/dU",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
@@ -47,6 +47,6 @@
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }

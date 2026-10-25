@@ -7,6 +7,7 @@
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
 | Behaviour Interactive | [Product Management Intern - 7 Days to Die](https://jobs.lever.co/bhvr/540b00d3-8693-4c2b-9e98-10e33cb0ce62/apply) | Montreal | Onsite | 2026-10-16 | Rolling | 🟢 Open | ❔ |
+| Behaviour Interactive | [Product Management Intern, 7 Days to Die](https://go.vansh.nyc/aY) | Montreal | Onsite | 2026-10-16 | Rolling | 🟢 Open | ❔ |
 
 ## Related
 

@@ -7,19 +7,11 @@
   },
   "role": "Machine Learning Research Intern",
   "category": "machine-learning",
-  "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4735665005",
+  "apply_url": "https://go.vansh.nyc/br",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
-    {
-      "city": "SF",
-      "country": "USA"
-    },
-    {
-      "city": "NYC",
-      "country": "USA"
-    },
     {
       "city": "New York",
       "state": "NY",
@@ -60,6 +52,6 @@
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }

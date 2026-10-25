@@ -6,7 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
-| Hex Technologies | [AI Engineer Intern](https://jobs.ashbyhq.com/hex/f2562cd7-abf2-434b-85ff-0a5016fbf0d6) | San Francisco, CA | Onsite | 2026-10-12 | Rolling | 🟢 Open | ❔ |
+| Hex Technologies | [AI Engineer Intern](https://go.vansh.nyc/ge) | San Francisco, CA | Onsite | 2026-10-12 | Rolling | 🟢 Open | ❔ |
 
 ## Related
 

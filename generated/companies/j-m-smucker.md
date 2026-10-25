@@ -7,7 +7,7 @@
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
 | J.M. Smucker | [Finance Technology Intern](https://smucker.wd5.myworkdayjobs.com/US_External_Careers/job/Orrville-OH/Finance-Technology-Intern--Spring-2027_116016) | Orrville, OH | Onsite | 2026-10-16 | Rolling | 🟢 Open | ❔ |
-| J.M. Smucker | [Finance Technology Intern](https://smucker.wd5.myworkdayjobs.com/en-US/US_External_Careers/job/Orrville-OH/Finance-Technology-Intern--Spring-2027_116016) | Orrville, OH | Onsite | 2026-10-16 | Rolling | 🟢 Open | ❔ |
+| J.M. Smucker | [Finance Technology Intern](https://go.vansh.nyc/av) | Orrville, OH | Onsite | 2026-10-16 | Rolling | 🟢 Open | ❔ |
 | J.M. Smucker | [Net Revenue Optimization Intern](https://smucker.wd5.myworkdayjobs.com/US_External_Careers/job/Orrville-OH/Net-Revenue-Optimization-Intern--Summer-2027_116006) | Orrville, OH | Onsite | 2026-10-14 | Rolling | 🟢 Open | ❔ |
 | J.M. Smucker | [Revenue Growth Management Intern](https://smucker.wd5.myworkdayjobs.com/US_External_Careers/job/Orrville-OH/Revenue-Growth-Management-Intern--Summer-2027_116012) | Orrville, OH | Onsite | 2026-10-15 | Rolling | 🔴 Closed | ❔ |
 | J.M. Smucker | [Sensory and Products Research Intern - Summer 2027](https://smucker.wd5.myworkdayjobs.com/US_External_Careers/job/Orrville-OH/Sensory-and-Products-Research-Intern--Summer-2027_115677) | Orrville, OH | Onsite | 2026-08-25 | Rolling | 🔴 Closed | ❔ |

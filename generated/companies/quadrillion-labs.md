@@ -6,7 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
-| Quadrillion Labs | [Software Engineering Intern](https://jobs.ashbyhq.com/quadrillion-labs/a4acc44c-31ce-41a0-ab44-2500487b4d05) | New York, NY | Onsite | 2026-07-27 | Rolling | 🟢 Open | ❔ |
+| Quadrillion Labs | [Software Engineering Intern](https://go.vansh.nyc/4K) | New York, NY | Onsite | 2026-07-27 | Rolling | 🟢 Open | ❔ |
 
 ## Related
 

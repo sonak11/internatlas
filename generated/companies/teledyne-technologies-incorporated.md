@@ -6,7 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
-| Teledyne Technologies Incorporated | [Software Engineer Intern](https://flir.wd1.myworkdayjobs.com/en-US/flircareers/job/US---Huntsville-AL/NHRC-Software-Engineering-Internship--Summer-2027-_REQ36193) | Huntsville, AL | Onsite | 2026-08-21 | Rolling | 🟢 Open | ❌ |
+| Teledyne Technologies Incorporated | [Software Engineer Intern](https://go.vansh.nyc/6O) | Huntsville, AL | Onsite | 2026-08-21 | Rolling | 🟢 Open | ❌ |
 
 ## Related
 

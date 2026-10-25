@@ -7,7 +7,7 @@
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
 | Hermeus | [Flight Software Engineering Intern](https://jobs.lever.co/hermeus/51378fa0-0327-45fd-9420-b6e7d8b56440) | Atlanta, GA | Onsite | 2026-03-06 | Rolling | 🟢 Open | ❌ |
-| Hermeus | [Flight Software Engineering Intern, Simulation/Hardware-In-The-Loop](https://jobs.lever.co/hermeus/78008094-ca81-4a0c-9a18-93b30f932acd) | Los Angeles, CA | Onsite | 2026-09-29 | Rolling | 🟢 Open | ❔ |
+| Hermeus | [Flight Software Engineering Intern, Simulation/Hardware-In-The-Loop](https://go.vansh.nyc/fR) | Los Angeles, CA | Onsite | 2026-09-29 | Rolling | 🟢 Open | ❔ |
 | Hermeus | [Software Engineer Intern - Command & Control](https://jobs.lever.co/hermeus/5b08e2df-c9db-4831-aece-67d89e744796/apply) | Atlanta, GA | Onsite | 2026-09-03 | Rolling | 🟢 Open | ❔ |
 | Hermeus | [Software Engineer Intern - Modeling & Simulation - Multiple Teams](https://jobs.lever.co/hermeus/445db430-6f81-41cf-847a-56a947afb936/apply) | LA | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
 | Hermeus | [Flight Software Engineer Intern](https://jobs.lever.co/hermeus/51378fa0-0327-45fd-9420-b6e7d8b56440/apply) | Atlanta, GA | Onsite | 2026-03-05 | Rolling | 🔴 Closed | ❔ |

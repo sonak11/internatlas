@@ -7,14 +7,20 @@
   },
   "role": "Software Engineering Intern, Vehicle Controls",
   "category": "software-engineering",
-  "apply_url": "https://jobs.ashbyhq.com/rivianvw.tech/a4e49f0a-7e3c-40b1-95a1-28fd907526d0/application",
+  "apply_url": "https://go.vansh.nyc/fE",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Vancouver",
-      "country": "Canada"
+      "city": "Palo Alto",
+      "state": "CA",
+      "country": "USA"
+    },
+    {
+      "city": "Irvine",
+      "state": "CA",
+      "country": "USA"
     }
   ],
   "compensation": {
@@ -41,7 +47,7 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-10-23",
+    "posted": "2026-10-22",
     "discovered": "2026-09-08",
     "last_verified": "2026-10-25"
   },

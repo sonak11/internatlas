@@ -6,7 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
-| Kinaxis | [Cloud Developer Intern, Platform Engineering](https://careers-kinaxis.icims.com/jobs/35572/intern-cloud-developer%2c-platform-engineering/job) | Ottawa | Onsite | 2026-10-20 | Rolling | 🟢 Open | ❔ |
+| Kinaxis | [Cloud Developer Intern, Platform Engineering](https://go.vansh.nyc/cD) | Ottawa | Onsite | 2026-10-20 | Rolling | 🟢 Open | ❔ |
 | Kinaxis | [AI Quality Co-op Intern - Evaluation & Security](https://careers-kinaxis.icims.com/jobs/35378/job?mobile=true&needsRedirect=false) | Ottawa | Onsite | 2026-09-17 | Rolling | 🔴 Closed | ❔ |
 | Kinaxis | [AI/ML Researcher Intern](https://careers-kinaxis.icims.com/jobs/35465/job?mobile=true&needsRedirect=false) | Remote | Remote | 2026-10-02 | Rolling | 🔴 Closed | ❔ |
 | Kinaxis | [Developer Intern - AI Solutions](https://careers-kinaxis.icims.com/jobs/35343/job?mobile=true&needsRedirect=false) | Ottawa | Onsite | 2026-09-09 | Rolling | 🔴 Closed | ❔ |

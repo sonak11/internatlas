@@ -7,11 +7,13 @@
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
 | DV Trading | [AI Engineer Intern](https://job-boards.greenhouse.io/dvtrading/jobs/4732429005) | Chicago, IL | Onsite | 2026-09-09 | Rolling | 🟢 Open | ❔ |
-| DV Trading | [Data Center Engineer Intern](https://job-boards.greenhouse.io/dvtrading/jobs/4742962005) | Chicago, IL | Onsite | 2026-10-12 | Rolling | 🟢 Open | ❔ |
+| DV Trading | [Data Center Engineer Intern](https://go.vansh.nyc/89) | Chicago, IL | Onsite | 2026-10-12 | Rolling | 🟢 Open | ❔ |
 | DV Trading | [Futures & Options Trading Analyst Intern - Summer 2027](https://job-boards.greenhouse.io/dvtrading/jobs/4722749005) | NYC | Onsite | 2026-08-26 | Rolling | 🟢 Open | ❔ |
 | DV Trading | [Quantitative Research Intern - DV Equities](https://job-boards.greenhouse.io/dvtrading/jobs/4733133005) | NYC | Onsite | 2026-09-11 | Rolling | 🟢 Open | ❔ |
+| DV Trading | [Quantitative Risk Intern](https://job-boards.greenhouse.io/dvtrading/jobs/4719118005) | Chicago, IL | Onsite | 2026-08-04 | Rolling | 🟢 Open | ❔ |
 | DV Trading | [Quantitative Trading Intern - DV Equities](https://job-boards.greenhouse.io/dvtrading/jobs/4702083005) | NYC | Onsite | 2026-09-11 | Rolling | 🟢 Open | ❔ |
 | DV Trading | [Software Developer Intern](https://job-boards.greenhouse.io/dvtrading/jobs/4733138005) | NYC | Onsite | 2026-09-11 | Rolling | 🟢 Open | ❔ |
+| DV Trading | [Software Engineer Intern](https://job-boards.greenhouse.io/dvtrading/jobs/4719119005) | NYC | Onsite | 2026-08-11 | Rolling | 🟢 Open | ❔ |
 | DV Trading | [Software Engineer Intern - DV Commodities](https://job-boards.greenhouse.io/dvtrading/jobs/4719125005) | London | Onsite | 2026-08-11 | Rolling | 🟢 Open | ❔ |
 | DV Trading | [Trading Intern - Summer 2027 - DV Commodities](https://job-boards.greenhouse.io/dvtrading/jobs/4719134005) | NYC | Onsite | 2026-08-17 | Rolling | 🟢 Open | ❔ |
 | DV Trading | [Trading Intern](https://job-boards.greenhouse.io/dvtrading/jobs/4719135005) | London | Onsite | 2026-08-12 | Rolling | 🔴 Closed | ❔ |

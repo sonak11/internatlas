@@ -6,7 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
-| Inter Miami CF | [Business Intelligence Intern, Software Development](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4592733) | Miami, FL | Onsite | 2026-10-16 | Rolling | 🟢 Open | ❔ |
+| Inter Miami CF | [Business Intelligence Intern, Software Development](https://go.vansh.nyc/gl) | Miami, FL | Onsite | 2026-10-16 | Rolling | 🟢 Open | ❔ |
 
 ## Related
 

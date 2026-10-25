@@ -6,8 +6,8 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
-| Figure AI | [Deployment Engineering Intern](https://job-boards.greenhouse.io/figureai/jobs/4721113006) | San Jose, CA | Onsite | 2026-10-12 | Rolling | 🟢 Open | ❔ |
-| Figure AI | [Developer Productivity Intern](https://job-boards.greenhouse.io/figureai/jobs/4724521006) | San Jose, CA | Onsite | 2026-10-24 | Rolling | 🟢 Open | ❔ |
+| Figure AI | [Deployment Engineering Intern](https://go.vansh.nyc/8a) | San Jose, CA | Onsite | 2026-10-12 | Rolling | 🟢 Open | ❔ |
+| Figure AI | [Developer Productivity Intern](https://go.vansh.nyc/hT) | San Jose, CA | Onsite | 2026-10-24 | Rolling | 🟢 Open | ❔ |
 
 ## Related
 

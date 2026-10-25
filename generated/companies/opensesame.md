@@ -6,7 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
-| OpenSesame | [AI Product Builder Intern](https://boards.greenhouse.io/opensesame/jobs/8313424) | USA | Onsite | 2026-10-22 | Rolling | 🟢 Open | ❔ |
+| OpenSesame | [AI Product Builder Intern](https://go.vansh.nyc/fx) | USA | Onsite | 2026-10-22 | Rolling | 🟢 Open | ❔ |
 
 ## Related
 

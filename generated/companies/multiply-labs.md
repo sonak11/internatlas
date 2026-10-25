@@ -6,8 +6,8 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
-| Multiply Labs | [Robotics Software Engineer Intern](https://jobs.lever.co/multiplylabs/acca98ab-c206-4f71-b7a5-6977e4828586/apply) | San Francisco, CA | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
-| Multiply Labs | [Software Intern](https://jobs.lever.co/multiplylabs/8203fbb3-4d42-4f6a-ae64-f05c3dcf0e9b/apply) | San Francisco, CA | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
+| Multiply Labs | [Robotics Software Engineer Intern](https://go.vansh.nyc/hH) | San Francisco, CA | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
+| Multiply Labs | [Software Intern](https://go.vansh.nyc/hG) | San Francisco, CA | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
 
 ## Related
 

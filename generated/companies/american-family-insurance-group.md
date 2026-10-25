@@ -6,9 +6,12 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
+| American Family Insurance Group | [AI Platform Engineering Intern](https://go.vansh.nyc/hn) | Madison, WI | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
 | American Family Insurance Group | [AI Platform Engineering Intern](https://amfam.wd1.myworkdayjobs.com/en-US/Careers/job/WI-Madison/Product-Data-Engineering-Intern--Hybrid-_R39462) | Madison, WI | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
+| American Family Insurance Group | [Business Intelligence Enablement Intern](https://go.vansh.nyc/fc) | Madison, WI +1 | Onsite | 2026-10-22 | Rolling | 🟢 Open | ❔ |
 | American Family Insurance Group | [Business Intelligence Enablement Intern](https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/Summer-2027-Intern---Business-Intelligence-Enablement_R39531) | Madison, WI +1 | Onsite | 2026-10-22 | Rolling | 🟢 Open | ❔ |
 | American Family Insurance Group | [Data Analyst Intern - Agency Performance, Insights and Operations](https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/Summer-2027-Data-Analyst-Intern---Agency-Performance--Insights-and-Operations_R39513) | Madison, WI | Onsite | 2026-10-12 | Rolling | 🟢 Open | ❔ |
+| American Family Insurance Group | [Data Engineer Intern](https://go.vansh.nyc/dJ) | Madison, WI | Onsite | 2026-10-21 | Rolling | 🟢 Open | ❔ |
 | American Family Insurance Group | [Data Engineer Intern](https://amfam.wd1.myworkdayjobs.com/en-US/Careers/job/WI-Madison/Summer-2027-Intern---Data-Engineer_R39675) | Madison, WI | Onsite | 2026-10-21 | Rolling | 🟢 Open | ❔ |
 | American Family Insurance Group | [Enterprise Data Intern - Enablement, Service & Support](https://amfam.wd1.myworkdayjobs.com/en-US/Careers/job/WI-Madison/Enterprise-Data-Intern_R39527) | Madison, WI | Onsite | 2026-10-15 | Rolling | 🟢 Open | ❔ |
 | American Family Insurance Group | [Enterprise Data Intern - Enablement, Service & Support](https://amfam.wd1.myworkdayjobs.com/en-US/Careers/job/WI-Madison/Enterprise-Data-Intern_R39510) | Madison, WI | Onsite | 2026-10-15 | Rolling | 🟢 Open | ❔ |

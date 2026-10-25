@@ -6,7 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
-| Trace3 | [Data and Analytics Engineer Intern](https://job-boards.greenhouse.io/trace3/jobs/8274818) | Irvine, CA | Onsite | 2026-10-21 | Rolling | 🟢 Open | ❔ |
+| Trace3 | [Data and Analytics Engineer Intern](https://go.vansh.nyc/dV) | Irvine, CA | Onsite | 2026-10-21 | Rolling | 🟢 Open | ❔ |
 
 ## Related
 

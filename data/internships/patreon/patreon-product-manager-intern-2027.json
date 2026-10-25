@@ -7,19 +7,11 @@
   },
   "role": "Product Manager Intern",
   "category": "product",
-  "apply_url": "https://jobs.ashbyhq.com/patreon/ace576d6-f480-43b8-a529-549fefb2046d/application?embed=true",
+  "apply_url": "https://go.vansh.nyc/fA",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
-    {
-      "city": "SF",
-      "country": "USA"
-    },
-    {
-      "city": "NYC",
-      "country": "USA"
-    },
     {
       "city": "New York",
       "state": "NY",
@@ -60,6 +52,6 @@
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }

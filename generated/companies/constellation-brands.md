@@ -6,7 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
-| Constellation Brands | [AI Enablement Intern](https://cbrands.wd5.myworkdayjobs.com/en-US/CBI_External_Careers/job/Rochester-New-York/Intern--AI-Enablement_R-41526) | Rochester, NY | Onsite | 2026-10-20 | Rolling | 🟢 Open | ❔ |
+| Constellation Brands | [AI Enablement Intern](https://go.vansh.nyc/co) | Rochester, NY | Onsite | 2026-10-20 | Rolling | 🟢 Open | ❔ |
 
 ## Related
 

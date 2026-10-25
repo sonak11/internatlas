@@ -6,7 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
-| Exa | [Software Engineer Intern](https://jobs.ashbyhq.com/exa/a9e01521-66f1-481b-89da-ec01d4620f16) | San Francisco, CA | Onsite | 2026-08-21 | Rolling | 🟢 Open | ✅ |
+| Exa | [Software Engineer Intern](https://go.vansh.nyc/7q) | San Francisco, CA | Onsite | 2026-08-21 | Rolling | 🟢 Open | ✅ |
 
 ## Related
 

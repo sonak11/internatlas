@@ -14,37 +14,45 @@
 | Amazon | [Applied Science Intern - Master's Student Science](https://amazon.jobs/en/jobs/10564586/2027-applied-science-internship-united-states-master-s-student-science-recruiting) | Seattle, WA | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
 | Amazon | [Applied Science Intern - Natural Language Processing and Speech Technologies](https://amazon.jobs/en/jobs/10564593/2027-applied-science-internship-natural-language-processing-and-speech-technologies-united-states-phd-student-science-recruiting) | Cambridge, MA +6 | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
 | Amazon | [Applied Scientist Intern - Reinforcement Learning & Optimization - Machine Learning](https://amazon.jobs/en/jobs/10564597/2027-applied-science-internship-reinforcement-learning-optimization-machine-learning-united-states-phd-student-science-recruiting) | Palo Alto, CA +7 | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
+| Amazon | [ASIC Engineer Intern](https://go.vansh.nyc/gF) | Sunnyvale, CA | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
+| Amazon | [ASIC Engineer Intern](https://go.vansh.nyc/hA) | Seattle, WA +2 | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
 | Amazon | [ASIC Engineer Intern](https://amazon.jobs/en/jobs/10576619/asic-engineer-intern-summer-2027) | Sunnyvale, CA | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
-| Amazon | [ASIC Engineer Intern](https://amazon.jobs/en/jobs/10517535/asic-engineer-intern-annapurna-labs-2027) | Seattle, WA +2 | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
 | Amazon | [Associate Delivery Consultant Intern - AWS Professional Services](https://amazon.jobs/en/jobs/10585774/associate-delivery-consultant-intern-aws-professional-services) | Arlington County +1 | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
 | Amazon | [Business Analyst Intern](https://amazon.jobs/en/jobs/10565421/business-analyst-intern-3-6-and-12-months-2027) | London +1 | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
 | Amazon | [Business Intelligence Engineer Intern](https://amazon.jobs/en/jobs/10553765/business-intelligence-engineer-internship-2027-us) | Seattle, WA | Onsite | 2026-10-08 | Rolling | 🟢 Open | ❔ |
+| Amazon | [Cloud Hardware Development Engineer Intern](https://go.vansh.nyc/gL) | Austin, TX +1 | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
 | Amazon | [Cloud Hardware Development Engineer Intern](https://amazon.jobs/en/jobs/10517649/cloud-hardware-development-engineer-intern-annapurna-labs-2027) | Austin, TX +1 | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
 | Amazon | [Data Engineer Intern](https://amazon.jobs/en/jobs/10553907/data-engineer-internship-2027-us) | Seattle, WA | Onsite | 2026-10-08 | Rolling | 🟢 Open | ❔ |
 | Amazon | [Economics Intern - Structural IO](https://amazon.jobs/en/jobs/10564110/phd-economics-intern-structural-io-summer-2027) | Seattle, WA +3 | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
-| Amazon | [Frontier AI & Robotics Intern](https://www.amazon.jobs/en/jobs/10564599/2027-frontier-ai-robotics-internship-undergraduate-united-states-frontier-ai-robotics-frontier-ai-robotics) | San Francisco, CA | Onsite | 2026-10-22 | Rolling | 🟢 Open | ❔ |
+| Amazon | [Frontier AI & Robotics Intern](https://go.vansh.nyc/eL) | San Francisco, CA | Onsite | 2026-10-22 | Rolling | 🟢 Open | ❔ |
+| Amazon | [Hardware Development Engineer Intern](https://amazon.jobs/en/jobs/10584121/hardware-development-engineer-intern-winter-2027) | Bellevue, WA | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
+| Amazon | [Hardware Development Engineer Intern](https://go.vansh.nyc/gD) | Bellevue, WA | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
 | Amazon | [Hardware Development Engineer Intern](https://amazon.jobs/en/jobs/10578090/hardware-development-engineer-intern-summer-2027) | North Reading, MA +2 | Onsite | 2026-10-14 | Rolling | 🟢 Open | ❔ |
 | Amazon | [Hardware Development Engineer Intern Co-op - Robotics](https://amazon.jobs/en/jobs/10535282/hardware-development-engineer-intern-co-op-robotics-2027) | North Reading, MA +1 | Onsite | 2026-10-13 | Rolling | 🟢 Open | ❔ |
-| Amazon | [Junior Software Development Engineer Intern](https://amazon.jobs/en/jobs/10586548/jr-software-development-engineer-detroit-mi-jr-developer-program) | Detroit, MI | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
+| Amazon | [Junior Software Development Engineer Intern](https://go.vansh.nyc/gC) | Detroit, MI | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
+| Amazon | [Junior Software Development Engineer Intern - Jr. Developer Program](https://amazon.jobs/en/jobs/10586548/jr-software-development-engineer-detroit-mi-jr-developer-program) | Detroit, MI | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
 | Amazon | [Machine Learning Systems Software Development Engineer Intern - Annapurna Labs](https://amazon.jobs/en/jobs/10538066/ml-systems-software-development-engineer-intern-annapurna-labs-2027) | Toronto | Onsite | 2026-09-11 | Rolling | 🟢 Open | ❔ |
 | Amazon | [PhD Economics Intern - Reduced Form Causal Inference](https://amazon.jobs/en/jobs/10564111/phd-economics-intern-reduced-form-causal-inference-summer-2027) | Seattle, WA +3 | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
 | Amazon | [Product Manager Intern - ALA](https://amazon.jobs/en/jobs/10491935/2027-amazon-leadership-accelerator-ala-product-manager-internship) | Seattle, WA | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
 | Amazon | [Quantum Applied Science Intern - Quantum Technologies team](https://amazon.jobs/en/jobs/10556930/2027-quantum-applied-science-internship-quantum-technologies-team) | Boston, MA +3 | Onsite | 2026-09-23 | Rolling | 🟢 Open | ❔ |
-| Amazon | [Robotics - Software Development Engineer Intern/Co-op](https://www.amazon.jobs/en/jobs/3136266/robotics-software-development-engineer-intern-co-op-2026?no_int_redir=1) | Sunnyvale, CA +7 | Onsite | 2026-05-09 | Rolling | 🟢 Open | ❔ |
 | Amazon | [Software Developer Intern](https://amazon.jobs/en/jobs/10554586/2027-software-dev-engineer-intern-united-kingdom) | London +3 | Onsite | 2026-10-16 | Rolling | 🟢 Open | ❔ |
-| Amazon | [Software Development Engineer Intern](https://www.amazon.jobs/en/jobs/3101249/software-development-engineer-internship-winter-2026-us) | Phoenix, AZ +45 | Onsite | 2025-10-04 | Rolling | 🟢 Open | ❔ |
 | Amazon | [Software Development Engineer Intern - Annapurna Labs](https://amazon.jobs/en/jobs/10517567/software-development-engineer-intern-annapurna-labs-2027) | Seattle, WA +3 | Onsite | 2026-08-27 | Rolling | 🟢 Open | ❔ |
 | Amazon | [Software Development Engineer Intern - Robotics](https://amazon.jobs/en/jobs/10529525/software-development-engineer-intern-robotics-2027) | Seattle, WA +6 | Onsite | 2026-09-04 | Rolling | 🟢 Open | ❔ |
 | Amazon | [Software Development Engineer Intern - Summer](https://amazon.jobs/en/jobs/10552937/software-development-engineer-internship-summer-2027-usa) | Seattle, WA +1 | Onsite | 2026-09-18 | Rolling | 🟢 Open | ❔ |
 | Amazon | [Software Development Engineer Intern - Summer 2027](https://amazon.jobs/en/jobs/10553947/software-development-engineer-intern-summer-2027-can) | Vancouver | Onsite | 2026-09-18 | Rolling | 🟢 Open | ❔ |
-| Amazon | [Software Development Engineer Intern, Amazon Leo](https://www.amazon.jobs/en/jobs/10587999/software-development-engineer-intern-amazon-leo-summer-2027-usa) | Redmond, WA | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❌ |
-| Amazon | [Software Development Engineer Intern, Amazon Leo, Embedded Systems](https://www.amazon.jobs/en/jobs/10571374/software-development-engineer-embedded-systems-intern-amazon-leo-summer-2027-usa) | Redmond, WA +1 | Onsite | 2026-10-07 | Rolling | 🟢 Open | ❌ |
-| Amazon | [Software Development Engineer Intern, AWS Data Services](https://www.amazon.jobs/en/jobs/10412530/software-development-engineer-intern-aws-data-services-fall-2026-us) | Seattle, WA | Onsite | 2026-05-09 | Rolling | 🟢 Open | ❔ |
-| Amazon | [Software Development Engineer Intern, Embedded Systems](https://www.amazon.jobs/en/jobs/10567914/software-development-engineer-intern-embedded-systems-summer-2027-usa) | Seattle, WA +1 | Onsite | 2026-10-02 | Rolling | 🟢 Open | ❔ |
-| Amazon | [Software Engineer Intern](https://amazon.jobs/en/jobs/10559762/software-development-engineer-intern-amazon-leo-summer-2027-usa) | Redmond, WA | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
+| Amazon | [Software Development Engineer Intern, Amazon Leo](https://go.vansh.nyc/hR) | Redmond, WA | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❌ |
+| Amazon | [Software Development Engineer Intern, Amazon Leo, Embedded Systems](https://go.vansh.nyc/g6) | Redmond, WA | Onsite | 2026-10-07 | Rolling | 🟢 Open | ❌ |
+| Amazon | [Software Development Engineer Intern, Embedded Systems](https://go.vansh.nyc/g0) | Seattle, WA | Onsite | 2026-10-02 | Rolling | 🟢 Open | ❔ |
+| Amazon | [Software Engineer Intern](https://amazon.jobs/en/jobs/10587999/software-development-engineer-intern-amazon-leo-summer-2027-usa) | Redmond, WA | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
 | Amazon | [Software Engineer Intern](https://amazon.jobs/en/jobs/10559746/software-development-engineer-intern-summer-2027-usa-amazon-dedicated-cloud-adc) | Seattle, WA +3 | Onsite | 2026-10-01 | Rolling | 🟢 Open | ❔ |
 | Amazon | [Software Engineer Intern - AWS Database](https://amazon.jobs/en/jobs/10565667/software-development-engineer-intern-aws-database-2027-us) | USA | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
-| Amazon | [Systems Development Engineer Intern](https://amazon.jobs/en/jobs/10573999/systems-development-engineer-intern-canada-2027) | Vancouver +1 | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
+| Amazon | [Software Engineer Intern - Embedded Systems](https://amazon.jobs/en/jobs/10571374/software-development-engineer-embedded-systems-intern-amazon-leo-summer-2027-usa) | Redmond, WA +1 | Onsite | 2026-10-07 | Rolling | 🟢 Open | ❔ |
+| Amazon | [Software Engineer Intern - Embedded Systems](https://amazon.jobs/en/jobs/10567914/software-development-engineer-intern-embedded-systems-summer-2027-usa) | USA | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
+| Amazon | [Software Engineer Intern, AWS Database](https://go.vansh.nyc/gJ) | USA | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
+| Amazon | [Software Engineer Intern, Embedded Systems](https://go.vansh.nyc/gE) | USA | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
+| Amazon | [Systems Development Engineer Intern](https://amazon.jobs/en/jobs/10573999/systems-development-engineer-intern-canada-2027) | Vancouver | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
+| Amazon | [Systems Development Engineer Intern](https://go.vansh.nyc/gH) | Bellevue, WA | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
+| Amazon | [Systems Development Engineer Intern](https://go.vansh.nyc/gI) | Vancouver | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
 | Amazon | [Systems Development Engineer Intern](https://amazon.jobs/en/jobs/10573984/systems-development-engineer-intern-us-2027) | Bellevue, WA | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
 | Amazon | [Technical Product Manager Intern](https://amazon.jobs/en/jobs/10509639/product-manager-technical-pmt-intern-summer-2027) | Seattle, WA +1 | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
 | Amazon | [Applied Science Intern - Multiple Teams](https://amazon.jobs/en/jobs/10394230/2026-fall-applied-science-internship-information-knowledge-management-machine-learning-united-states-phd-student-science-recruiting) | Palo Alto, CA +7 | Onsite | 2026-04-16 | Rolling | 🔴 Closed | ❔ |
@@ -52,7 +60,11 @@
 | Amazon | [Applied Science Intern - Reinforcement Learning & Optimization - Machine Learning](https://amazon.jobs/en/jobs/10394278/2026-fall-applied-science-internship-reinforcement-learning-optimization-machine-learning-united-states-phd-student-science-recruiting) | Palo Alto, CA +7 | Onsite | 2026-04-16 | Rolling | 🔴 Closed | ❔ |
 | Amazon | [Applied Science Intern - Science Recruiting](https://amazon.jobs/en/jobs/10394248/fall-2026-applied-science-internship-canada-phd-student-science-recruiting) | Toronto +3 | Onsite | 2026-04-16 | Rolling | 🔴 Closed | ❔ |
 | Amazon | [Quantum Applied Science Intern - Center for Quantum Computing](https://amazon.jobs/en/jobs/10419240/2026-fall-quantum-applied-science-internship-center-for-quantum-computing) | Pasadena, CA +1 | Onsite | 2026-06-03 | Rolling | 🔴 Closed | ❔ |
+| Amazon | [Robotics - Software Development Engineer Intern/Co-op](https://www.amazon.jobs/en/jobs/3136266/robotics-software-development-engineer-intern-co-op-2026?no_int_redir=1) | Sunnyvale, CA +7 | Onsite | 2026-05-09 | Rolling | 🔴 Closed | ❔ |
+| Amazon | [Software Development Engineer Intern](https://www.amazon.jobs/en/jobs/3101249/software-development-engineer-internship-winter-2026-us) | Phoenix, AZ +45 | Onsite | 2025-10-04 | Rolling | 🔴 Closed | ❔ |
+| Amazon | [Software Development Engineer Intern, AWS Data Services](https://www.amazon.jobs/en/jobs/10412530/software-development-engineer-intern-aws-data-services-fall-2026-us) | Seattle, WA | Onsite | 2026-05-09 | Rolling | 🔴 Closed | ❔ |
 | Amazon | [Software Development Engineer Internship - Fall 2026 - US](https://amazon.jobs/en/jobs/3116030/software-development-engineer-internship-fall-2026-us) | Seattle, WA | Onsite | 2026-05-15 | Rolling | 🔴 Closed | ❔ |
+| Amazon | [Software Engineer Intern](https://amazon.jobs/en/jobs/10559762/software-development-engineer-intern-amazon-leo-summer-2027-usa) | Redmond, WA | Onsite | 2026-10-23 | Rolling | 🔴 Closed | ❔ |
 
 ## Related
 

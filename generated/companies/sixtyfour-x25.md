@@ -6,7 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
-| Sixtyfour (X25) | [Full-Stack Software Engineering Intern](https://www.workatastartup.com/jobs/85257) | San Francisco, CA | Onsite | 2025-11-18 | Rolling | 🟢 Open | ❔ |
+| Sixtyfour (X25) | [Full-Stack Software Engineering Intern](https://www.workatastartup.com/jobs/85257) | San Francisco, CA | Onsite | 2025-11-18 | Rolling | 🔴 Closed | ❔ |
 
 ## Related
 

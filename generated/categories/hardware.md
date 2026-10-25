@@ -2,21 +2,25 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🔩 Hardware Internships
 
-**267** tracked · **162** open now
+**279** tracked · **171** open now
 
 ## Current openings
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
+| [ADT](generated/companies/adt.md) | [Hardware Engineering & Connected Devices Intern](https://go.vansh.nyc/b9) | Boca Raton, FL | Onsite | 2026-10-16 | Rolling | 🟢 Open | ❔ |
 | [ADT](generated/companies/adt.md) | [Hardware Engineering & Connected Devices Intern](https://fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3022475) | Boca Raton, FL | Onsite | 2026-10-16 | Rolling | 🟢 Open | ❔ |
-| [Akuna Capital](generated/companies/akuna-capital.md) | [Hardware Engineer Intern](https://akunacapital.com/careers/job/8018880/?gh_jid=8018880) | Chicago, IL | Onsite | 2026-07-24 | Rolling | 🟢 Open | ❌ |
-| [Altera](generated/companies/altera.md) | [FPGA IP Design Engineer Intern](https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/FPGA-IP-Design-Engineer---Intern_R03299) | Toronto | Onsite | 2026-10-20 | Rolling | 🟢 Open | ❔ |
+| [Altera](generated/companies/altera.md) | [FPGA IP Design Engineer Intern](https://go.vansh.nyc/d3) | Toronto | Onsite | 2026-10-20 | Rolling | 🟢 Open | ❔ |
+| [Amazon](generated/companies/amazon.md) | [ASIC Engineer Intern](https://go.vansh.nyc/gF) | Sunnyvale, CA | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
+| [Amazon](generated/companies/amazon.md) | [ASIC Engineer Intern](https://go.vansh.nyc/hA) | Seattle, WA +2 | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
 | [Amazon](generated/companies/amazon.md) | [ASIC Engineer Intern](https://amazon.jobs/en/jobs/10576619/asic-engineer-intern-summer-2027) | Sunnyvale, CA | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
-| [Amazon](generated/companies/amazon.md) | [ASIC Engineer Intern](https://amazon.jobs/en/jobs/10517535/asic-engineer-intern-annapurna-labs-2027) | Seattle, WA +2 | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
+| [Amazon](generated/companies/amazon.md) | [Cloud Hardware Development Engineer Intern](https://go.vansh.nyc/gL) | Austin, TX +1 | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
 | [Amazon](generated/companies/amazon.md) | [Cloud Hardware Development Engineer Intern](https://amazon.jobs/en/jobs/10517649/cloud-hardware-development-engineer-intern-annapurna-labs-2027) | Austin, TX +1 | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
+| [Amazon](generated/companies/amazon.md) | [Hardware Development Engineer Intern](https://amazon.jobs/en/jobs/10584121/hardware-development-engineer-intern-winter-2027) | Bellevue, WA | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
+| [Amazon](generated/companies/amazon.md) | [Hardware Development Engineer Intern](https://go.vansh.nyc/gD) | Bellevue, WA | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
 | [Amazon](generated/companies/amazon.md) | [Hardware Development Engineer Intern](https://amazon.jobs/en/jobs/10578090/hardware-development-engineer-intern-summer-2027) | North Reading, MA +2 | Onsite | 2026-10-14 | Rolling | 🟢 Open | ❔ |
 | [Amazon](generated/companies/amazon.md) | [Hardware Development Engineer Intern Co-op - Robotics](https://amazon.jobs/en/jobs/10535282/hardware-development-engineer-intern-co-op-robotics-2027) | North Reading, MA +1 | Onsite | 2026-10-13 | Rolling | 🟢 Open | ❔ |
-| [Amazon.com Services LLC](generated/companies/amazon-com-services-llc.md) | [Hardware Development Engineer Intern](https://www.amazon.jobs/en/jobs/10584121/hardware-development-engineer-intern-winter-2027) | Bellevue, WA | Onsite | 2026-10-20 | Rolling | 🟢 Open | ❔ |
+| [Amazon.com Services LLC](generated/companies/amazon-com-services-llc.md) | [Hardware Development Engineer Intern](https://go.vansh.nyc/cT) | Bellevue, WA | Onsite | 2026-10-20 | Rolling | 🟢 Open | ❔ |
 | [Ambarella](generated/companies/ambarella.md) | [ASIC Design Engineer Intern](https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/ASIC-Design-Engineer-Intern_JR100357) | USA | Onsite | 2026-08-26 | Rolling | 🟢 Open | ❔ |
 | [AMD](generated/companies/amd.md) | [ASIC Package Engineering Intern Co-op](https://careers.amd.com/jobs/91466?icims=1) | Secaucus, NJ +5 | Onsite | 2026-08-25 | Rolling | 🟢 Open | ❔ |
 | [AMD](generated/companies/amd.md) | [ASIC Verification Engineer Intern/Co-op](https://careers.amd.com/jobs/91207?icims=1) | Ottawa | Onsite | 2026-09-03 | Rolling | 🟢 Open | ❔ |
@@ -43,7 +47,7 @@
 | [Anduril](generated/companies/anduril.md) | [2027 Software Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5255902007?gh_jid=5255902007) | London | Onsite | 2026-10-07 | Rolling | 🟢 Open | ❔ |
 | [Anduril](generated/companies/anduril.md) | [2027 Software Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5148079007?gh_jid=5148079007) | Atlanta | Onsite | 2026-06-10 | Rolling | 🟢 Open | ❔ |
 | [Anduril](generated/companies/anduril.md) | [2027 Supply Chain Intern](https://boards.greenhouse.io/andurilindustries/jobs/5255827007?gh_jid=5255827007) | Costa Mesa | Onsite | 2026-10-02 | Rolling | 🟢 Open | ❔ |
-| [Anduril](generated/companies/anduril.md) | [2027 Systems Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5257690007?gh_jid=5257690007) | Boston +5 | Onsite | 2026-10-05 | Rolling | 🟢 Open | ❔ |
+| [Anduril](generated/companies/anduril.md) | [2027 Systems Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5257690007?gh_jid=5257690007) | Boston | Onsite | 2026-10-05 | Rolling | 🟢 Open | ❔ |
 | [Anduril](generated/companies/anduril.md) | [2027 Technical Program Manager Intern](https://boards.greenhouse.io/andurilindustries/jobs/5268864007?gh_jid=5268864007) | Costa Mesa | Onsite | 2026-10-19 | Rolling | 🟢 Open | ❔ |
 | [Arc](generated/companies/arc.md) | [Electrical Hardware Engineering Intern](https://job-boards.greenhouse.io/arcboatcompany/jobs/5442853008) | Torrance, CA | Onsite | 2026-10-02 | Rolling | 🟢 Open | ❔ |
 | [Astranis](generated/companies/astranis.md) | [FPGA Intern - Summer 2027](https://job-boards.greenhouse.io/astranis/jobs/4704805006) | SF | Onsite | 2026-09-24 | Rolling | 🟢 Open | ❔ |
@@ -68,11 +72,10 @@
 | [Citadel Securities](generated/companies/citadel-securities.md) | [FPGA Engineer Intern](https://www.citadelsecurities.com/careers/details/fpga-engineer-intern-us/) | Miami, FL +1 | Onsite | 2026-07-06 | Rolling | 🟢 Open | ❔ |
 | [Dell Technologies](generated/companies/dell-technologies.md) | [Hardware Engineering Intern - Client Solutions Group Engineering](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/298216) | Austin, TX | Onsite | 2026-09-10 | Rolling | 🟢 Open | ❔ |
 | [Dell Technologies](generated/companies/dell-technologies.md) | [Hardware Engineering Intern - Infrastructure Solutions Group](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/297770) | Round Rock, TX +1 | Onsite | 2026-09-14 | Rolling | 🟢 Open | ❔ |
-| [DRW](generated/companies/drw.md) | [FPGA Intern](https://www.drw.com/work-at-drw/listings/fpga-intern-3484423) | Chicago, IL | Onsite | 2026-07-31 | Rolling | 🟢 Open | ✅ |
+| [DRW](generated/companies/drw.md) | [FPGA Intern](https://go.vansh.nyc/5n) | Chicago, IL | Onsite | 2026-07-31 | Rolling | 🟢 Open | ✅ |
 | [Eight Sleep](generated/companies/eight-sleep.md) | [Hardware Support & Test Intern](https://jobs.ashbyhq.com/eightsleep/f8de63e3-605e-404a-98b4-5b58d9fe7bc5/application?embed=true) | SF | Onsite | 2026-08-26 | Rolling | 🟢 Open | ❔ |
 | [Emerson Electric](generated/companies/emerson-electric.md) | [Hardware Design Engineer Intern](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010801) | Round Rock, TX | Onsite | 2026-09-11 | Rolling | 🟢 Open | ❔ |
 | [Figure](generated/companies/figure.md) | [Hardware Reliability Intern](https://job-boards.greenhouse.io/figureai/jobs/4613067006) | San Jose, CA | Onsite | 2026-06-23 | Rolling | 🟢 Open | ❔ |
-| [Formlabs](generated/companies/formlabs.md) | [Hardware R&D Engineering Intern](https://careers.formlabs.com/job/8097694/apply/?gh_jid=8097694) | Somerville, MA | Onsite | 2026-08-21 | Rolling | 🟢 Open | ❔ |
 | [Formlabs](generated/companies/formlabs.md) | [Hardware Systems Integration Intern](https://careers.formlabs.com/job/8212683/apply/?gh_jid=8212683) | Somerville, MA | Onsite | 2026-10-14 | Rolling | 🟢 Open | ❔ |
 | [Formlabs](generated/companies/formlabs.md) | [Hardware Systems Integration Intern - Winter/Spring 2027](https://careers.formlabs.com/job/8172004/apply/?gh_jid=8172004) | Somerville, MA | Onsite | 2026-09-02 | Rolling | 🟢 Open | ❔ |
 | [Formlabs](generated/companies/formlabs.md) | [Hardware Test Engineer Intern](https://careers.formlabs.com/job/8196515/apply/?gh_jid=8196515) | Somerville, MA | Onsite | 2026-09-18 | Rolling | 🟢 Open | ❔ |
@@ -86,31 +89,32 @@
 | [Graphcore](generated/companies/graphcore.md) | [Hardware Intern](https://job-boards.greenhouse.io/graphcore/jobs/8894753002) | Bristol | Onsite | 2026-10-20 | Rolling | 🟢 Open | ❔ |
 | [Graphcore](generated/companies/graphcore.md) | [Silicon Intern](https://job-boards.greenhouse.io/graphcore/jobs/8879329002) | Bristol +1 | Onsite | 2026-10-20 | Rolling | 🟢 Open | ❔ |
 | [Hermeus](generated/companies/hermeus.md) | [Flight Software Engineering Intern](https://jobs.lever.co/hermeus/51378fa0-0327-45fd-9420-b6e7d8b56440) | Atlanta, GA | Onsite | 2026-03-06 | Rolling | 🟢 Open | ❌ |
-| [Hermeus](generated/companies/hermeus.md) | [Flight Software Engineering Intern, Simulation/Hardware-In-The-Loop](https://jobs.lever.co/hermeus/78008094-ca81-4a0c-9a18-93b30f932acd) | Los Angeles, CA | Onsite | 2026-09-29 | Rolling | 🟢 Open | ❔ |
-| [Hewlett Packard Enterprise](generated/companies/hewlett-packard-enterprise.md) | [Hardware Engineering Design Intern](https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Roseville-California-United-States-of-America/Hardware-Engineering-Design-Intern_1214168) | Roseville, CA | Onsite | 2026-10-19 | Rolling | 🟢 Open | ❔ |
+| [Hermeus](generated/companies/hermeus.md) | [Flight Software Engineering Intern, Simulation/Hardware-In-The-Loop](https://go.vansh.nyc/fR) | Los Angeles, CA | Onsite | 2026-09-29 | Rolling | 🟢 Open | ❔ |
+| [Hewlett Packard Enterprise](generated/companies/hewlett-packard-enterprise.md) | [Hardware Engineering Design Intern](https://go.vansh.nyc/c3) | Roseville, CA | Onsite | 2026-10-19 | Rolling | 🟢 Open | ❔ |
 | [Hewlett Packard Enterprise](generated/companies/hewlett-packard-enterprise.md) | [Pre-Silicon Diagnostics Intern](https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Ft-Collins-Colorado-United-States-of-America/Pre-Silicon-Diagnostics-Intern_1213394) | Fort Collins, CO | Onsite | 2026-09-03 | Rolling | 🟢 Open | ❔ |
 | [Hitachi Energy](generated/companies/hitachi-energy.md) | [Hardware Test Engineering Intern](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Hardware-Test-Engineering-Intern--Summer-2027--16months-_R0142476) | Toronto | Onsite | 2026-10-02 | Rolling | 🟢 Open | ❔ |
-| [HPR](generated/companies/hpr.md) | [FPGA Engineering Intern](https://job-boards.greenhouse.io/hyannisportresearch/jobs/7822801003) | Needham, MA | Onsite | 2026-08-01 | Rolling | 🟢 Open | ❌ |
+| [HPR](generated/companies/hpr.md) | [FPGA Engineering Intern](https://go.vansh.nyc/6R) | Needham, MA | Onsite | 2026-08-21 | Rolling | 🟢 Open | ❌ |
+| [HPR (Hyannis Port Research)](generated/companies/hpr-hyannis-port-research.md) | [FPGA Engineer Intern](https://job-boards.greenhouse.io/hyannisportresearch/jobs/7822801003) | Needham, MA | Onsite | 2026-08-01 | Rolling | 🟢 Open | ❔ |
 | [Hudson River Trading](generated/companies/hudson-river-trading.md) | [Hardware Engineer Internship - Summer 2027](https://www.hudsonrivertrading.com/careers/job/?gh_jid=7899574) | New York, NY | Onsite | 2026-08-31 | Rolling | 🟢 Open | ❔ |
-| [IMC](generated/companies/imc.md) | [Hardware Engineer Intern](https://www.imc.com/us/careers/jobs/4823945101) | Chicago, IL | Onsite | 2026-07-24 | Rolling | 🟢 Open | ✅ |
 | [Intel](generated/companies/intel.md) | [Platform Hardware and Systems Engineering Intern](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Platform-Hardware-and-Systems-Engineering---Intern--Graduate_JR0286828) | Austin, TX +4 | Onsite | 2026-09-02 | Rolling | 🟢 Open | ❔ |
 | [Intel](generated/companies/intel.md) | [Platform Hardware and Systems Engineering Intern - Bachelor's](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Platform-Hardware-and-Systems-Engineering---Intern--Bachelor-s_JR0286827) | Austin, TX +4 | Onsite | 2026-09-02 | Rolling | 🟢 Open | ❔ |
 | [Intel](generated/companies/intel.md) | [Silicon Hardware Engineering Intern - Bachelor's](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Silicon-Hardware-Engineering---Intern--Bachelor-s_JR0286829) | Austin, TX +4 | Onsite | 2026-09-02 | Rolling | 🟢 Open | ❔ |
 | [Intel](generated/companies/intel.md) | [Silicon Hardware Engineering Intern - Graduate](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Silicon-Hardware-Engineering---Intern--Graduate_JR0286830) | Austin, TX +4 | Onsite | 2026-09-02 | Rolling | 🟢 Open | ❔ |
-| [Jane Street](generated/companies/jane-street.md) | [Hardware Engineer (FPGA/ASIC) Intern](https://www.janestreet.com/join-jane-street/position/8624440002/) | New York, NY | Onsite | 2026-07-24 | Rolling | 🟢 Open | ❔ |
+| [Jane Street](generated/companies/jane-street.md) | [Hardware Engineer (FPGA/ASIC) Intern](https://go.vansh.nyc/44) | New York, NY | Onsite | 2026-07-24 | Rolling | 🟢 Open | ❔ |
 | [Jump Trading](generated/companies/jump-trading.md) | [Campus ASIC Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7974837) | Bristol | Onsite | 2026-07-13 | Rolling | 🟢 Open | ❔ |
 | [Jump Trading](generated/companies/jump-trading.md) | [Campus ASIC Engineer Intern](https://boards.greenhouse.io/embed/job_app?token=7974837) | Bristol | Onsite | 2026-07-13 | Rolling | 🟢 Open | ❔ |
 | [Keysight Technologies](generated/companies/keysight-technologies.md) | [ASIC Design-for-Test Engineer Intern - DFT](https://jobs.keysight.com/jobs/54276?icims=1) | Colorado Springs, CO | Onsite | 2026-09-15 | Rolling | 🟢 Open | ❔ |
-| [Keysight Technologies](generated/companies/keysight-technologies.md) | [FPGA Design Intern](https://jobs.keysight.com/jobs/55151?icims=1) | Calabasas, CA | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
+| [Keysight Technologies](generated/companies/keysight-technologies.md) | [FPGA Design Intern](https://go.vansh.nyc/hE) | Calabasas, CA | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
 | [Keysight Technologies](generated/companies/keysight-technologies.md) | [R&D Hardware Design Engineer Intern](https://jobs.keysight.com/jobs/54389?icims=1) | Santa Rosa, CA | Onsite | 2026-10-13 | Rolling | 🟢 Open | ❔ |
-| [Keysight Technologies](generated/companies/keysight-technologies.md) | [R&D Hardware Engineer Intern](https://jobs.keysight.com/jobs/54804?icims=1) | Santa Clara, CA | Onsite | 2026-10-19 | Rolling | 🟢 Open | ❔ |
+| [Keysight Technologies](generated/companies/keysight-technologies.md) | [R&D Hardware Engineer Intern](https://go.vansh.nyc/ce) | Santa Clara, CA | Onsite | 2026-10-19 | Rolling | 🟢 Open | ❔ |
 | [Marvell](generated/companies/marvell.md) | [Data Center Silicon Hardware Engineering Intern - Winter 2027](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Ottawa-Canada/Data-Center-Silicon-Hardware-Engineering-Intern---Winter-2027_2604525) | Toronto +1 | Onsite | 2026-09-14 | Rolling | 🟢 Open | ❔ |
 | [Marvell](generated/companies/marvell.md) | [Data Center Silicon Hardware Engineering Intern Co-op - BS](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Ottawa-Canada/Data-Center-Silicon-Hardware-Engineering-Intern---BS---2027-Co-Op_2604525) | Toronto +1 | Onsite | 2026-09-24 | Rolling | 🟢 Open | ❔ |
 | [Marvell](generated/companies/marvell.md) | [Silicon Photonics Intern](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Ottawa-Canada/Silicon-Photonics-Intern---PhD_2502469-1) | Ottawa | Onsite | 2026-07-04 | Rolling | 🟢 Open | ❔ |
 | [Marvell](generated/companies/marvell.md) | [Silicon Photonics Intern - PhD - Fall 2026 Start Date](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Ottawa-Canada/Silicon-Photonics-Intern---PhD_2502469) | Ottawa | Onsite | 2026-06-13 | Rolling | 🟢 Open | ❔ |
-| [Marvell](generated/companies/marvell.md) | [Silicon Validation Intern](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Silicon-Validation-Intern--BS---Summer-2027_2603850) | Santa Clara, CA | Onsite | 2026-10-21 | Rolling | 🟢 Open | ❔ |
 | [Marvell](generated/companies/marvell.md) | [Silicon Validation Intern](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Silicon-Validation-Intern--BS---Summer-2027_2603850-1) | Santa Clara, CA | Onsite | 2026-10-21 | Rolling | 🟢 Open | ❔ |
-| [Microchip Technology](generated/companies/microchip-technology.md) | [Engineering Intern, ASIC Verification](https://microchiphr.wd5.myworkdayjobs.com/External/job/CA---San-Jose---3870-N-First-St/Intern---Engineering--ASIC-Verification-_R3851-26) | San Jose, CA | Onsite | 2026-10-21 | Rolling | 🟢 Open | ❔ |
+| [Marvell](generated/companies/marvell.md) | [Silicon Validation Intern](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Silicon-Validation-Intern--BS---Summer-2027_2603850) | Santa Clara, CA | Onsite | 2026-10-21 | Rolling | 🟢 Open | ❔ |
+| [Marvell](generated/companies/marvell.md) | [Silicon Validation Intern](https://go.vansh.nyc/dq) | Santa Clara, CA | Onsite | 2026-10-21 | Rolling | 🟢 Open | ❔ |
+| [Microchip Technology](generated/companies/microchip-technology.md) | [Engineering Intern, ASIC Verification](https://go.vansh.nyc/ed) | San Jose, CA | Onsite | 2026-10-21 | Rolling | 🟢 Open | ❔ |
 | [Motorola](generated/companies/motorola.md) | [FPGA Design Engineering Intern](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/FPGA-Design-Engineering-Intern---Summer-2027_R68401) | Schaumburg, IL | Onsite | 2026-09-09 | Rolling | 🟢 Open | ❔ |
 | [Neuralink](generated/companies/neuralink.md) | [Electrical Engineer Intern, Robotics and Surgery Engineering](https://boards.greenhouse.io/neuralink/jobs/6607398003?gh_jid=6607398003) | South San Francisco | Onsite | 2025-06-13 | Rolling | 🟢 Open | ❔ |
 | [Neuralink](generated/companies/neuralink.md) | [Histopathology Intern](https://boards.greenhouse.io/neuralink/jobs/8020751003?gh_jid=8020751003) | Austin | Onsite | 2026-10-09 | Rolling | 🟢 Open | ❔ |
@@ -126,22 +130,27 @@
 | [Neuralink](generated/companies/neuralink.md) | [Software Engineer Intern, Robotics](https://boards.greenhouse.io/neuralink/jobs/5469305003?gh_jid=5469305003) | Austin | Onsite | 2025-01-14 | Rolling | 🟢 Open | ❔ |
 | [Nokia](generated/companies/nokia.md) | [Hardware Engineer Co-op Intern - IP Routing](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39600) | Ottawa | Onsite | 2026-09-15 | Rolling | 🟢 Open | ❔ |
 | [NVIDIA](generated/companies/nvidia.md) | [ASIC Verification Intern](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Canada-Toronto/ASIC-Verification-Intern---Summer-2027_JR2027982) | Toronto | Onsite | 2026-10-19 | Rolling | 🟢 Open | ❔ |
+| [NVIDIA](generated/companies/nvidia.md) | [ASIC Verification Intern](https://go.vansh.nyc/bT) | Toronto | Onsite | 2026-10-19 | Rolling | 🟢 Open | ❔ |
 | [NVIDIA](generated/companies/nvidia.md) | [Hardware Design for Test Intern - DFT](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Design-for-Test--DFT-_JR2023487-1) | Santa Clara, CA | Onsite | 2026-08-19 | Rolling | 🟢 Open | ❔ |
 | [NVIDIA](generated/companies/nvidia.md) | [Hardware Engineering Intern](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Engineering_JR2023508-1) | Santa Clara, CA | Onsite | 2026-08-19 | Rolling | 🟢 Open | ❔ |
 | [NVIDIA](generated/companies/nvidia.md) | [Hardware Physical Design / VLSI Intern](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Physical-Design---VLSI_JR2023501) | Santa Clara, CA | Onsite | 2026-08-19 | Rolling | 🟢 Open | ❔ |
 | [Optiver](generated/companies/optiver.md) | [FPGA Engineer Intern](https://www.optiver.com/join-us/jobs/8641352002/?gh_jid=8641352002) | Austin, TX | Onsite | 2026-07-21 | Rolling | 🟢 Open | ❔ |
 | [Optiver](generated/companies/optiver.md) | [FPGA Engineer Intern](https://www.optiver.com/join-us/jobs/8402114002/?gh_jid=8402114002) | Chicago, IL | Onsite | 2026-07-21 | Rolling | 🟢 Open | ❔ |
 | [Qualcomm](generated/companies/qualcomm.md) | [QDSP Hardware Physical Design Intern](https://qualcomm.eightfold.ai/careers/job/446721636316) | Markham | Onsite | 2026-10-19 | Rolling | 🟢 Open | ❔ |
+| [Qualcomm](generated/companies/qualcomm.md) | [QDSP Hardware Physical Design Intern](https://go.vansh.nyc/c9) | Markham | Onsite | 2026-10-19 | Rolling | 🟢 Open | ❔ |
 | [Qualcomm](generated/companies/qualcomm.md) | [Silicon Engineering Intern](https://qualcomm.eightfold.ai/careers/job/446721302528) | Toronto | Onsite | 2026-09-28 | Rolling | 🟢 Open | ❔ |
 | [Qualcomm](generated/companies/qualcomm.md) | [Soft IP ASIC Engineer Intern](https://qualcomm.eightfold.ai/careers/job/446721302471) | Ottawa | Onsite | 2026-09-28 | Rolling | 🟢 Open | ❔ |
 | [Rivian](generated/companies/rivian.md) | [Audio Hardware Engineer Intern Co-op - Audio Hardware and DSP](https://careers.rivian.com/jobs/33874?icims=1) | Palo Alto, CA | Onsite | 2026-09-30 | Rolling | 🟢 Open | ❔ |
 | [Rockwell Automation](generated/companies/rockwell-automation.md) | [Hardware Development Engineer Intern](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Intern--Hardware-Development-Engineer--May---Aug-2027-_R26-6892-1) | Mayfield Heights, OH | Onsite | 2026-10-20 | Rolling | 🟢 Open | ❔ |
 | [Rockwell Automation](generated/companies/rockwell-automation.md) | [Hardware Development Engineer Intern](https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Mayfield-Heights-Ohio-United-States/Intern--Hardware-Development-Engineer--May---Aug-2027-_R26-6892-2) | Mayfield Heights, OH | Onsite | 2026-10-20 | Rolling | 🟢 Open | ❔ |
+| [Rockwell Automation](generated/companies/rockwell-automation.md) | [Hardware Development Engineer Intern](https://go.vansh.nyc/d1) | Mayfield Heights, OH | Onsite | 2026-10-20 | Rolling | 🟢 Open | ❔ |
 | [RTX](generated/companies/rtx.md) | [FPGA Electrical Design Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-M02--1151-E-Hermans-Rd--BLDG-M02/FPGA-Electrical-Design-Engineer-Intern--Summer-2027--Onsite-_01872989) | Tucson, AZ | Onsite | 2026-09-08 | Rolling | 🟢 Open | ❔ |
 | [RTX](generated/companies/rtx.md) | [FPGA Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/FPGA-Engineering-Intern--Summer-2027--Onsite-_01880037) | McKinney, TX | Onsite | 2026-10-06 | Rolling | 🟢 Open | ❔ |
-| [SK Hynix Memory Solution](generated/companies/sk-hynix-memory-solution.md) | [ASIC Design Intern](https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4460200009) | San Jose, CA | Onsite | 2026-10-20 | Rolling | 🟢 Open | ❔ |
+| [SK Hynix Memory Solution](generated/companies/sk-hynix-memory-solution.md) | [ASIC Design Intern](https://go.vansh.nyc/gp) | San Jose, CA | Onsite | 2026-10-20 | Rolling | 🟢 Open | ❔ |
+| [Skydio](generated/companies/skydio.md) | [Hardware Test and Reliability Intern](https://go.vansh.nyc/By) | San Mateo, CA | Onsite | 2026-10-25 | Rolling | 🟢 Open | ❔ |
 | [Skydio](generated/companies/skydio.md) | [Hardware Test and Reliability Intern - Summer 2027](https://jobs.ashbyhq.com/skydio/36d75e36-eeb2-4399-8887-37c4a5ff5800/application?embed=true) | San Mateo, CA | Onsite | 2026-10-22 | Rolling | 🟢 Open | ❔ |
 | [Skydio](generated/companies/skydio.md) | [Wireless Hardware Engineer Intern](https://jobs.ashbyhq.com/skydio/1ac972b1-8094-4765-8869-63e1c4d50dea/application?embed=true) | San Mateo, CA | Onsite | 2026-10-20 | Rolling | 🟢 Open | ❔ |
+| [Skydio](generated/companies/skydio.md) | [Wireless Hardware Engineer Intern](https://go.vansh.nyc/i) | San Mateo, CA | Onsite | 2026-10-25 | Rolling | 🟢 Open | ❔ |
 | [Solidigm](generated/companies/solidigm.md) | [Hardware & Product Development Engineering Intern](https://jobs.smartrecruiters.com/Solidigm/744000147613839) | Rancho Cordova, CA | Onsite | 2026-09-05 | Rolling | 🟢 Open | ❔ |
 | [Solidigm](generated/companies/solidigm.md) | [Hardware, Electrical Validation and Product Engineering Intern - Validation](https://jobs.smartrecruiters.com/Solidigm/744000147613779) | Rancho Cordova, CA | Onsite | 2026-09-05 | Rolling | 🟢 Open | ❔ |
 | [Space Dynamics Laboratory](generated/companies/space-dynamics-laboratory.md) | [FPGA Electrical Engineer Intern - Civil & Commercial Space Division](https://spacedynamicslaboratory.applytojob.com/apply/SznZA6uzbW/CVS-FPGA-Electrical-Engineer-Intern) | North Logan, UT | Onsite | 2026-10-01 | Rolling | 🟢 Open | ❔ |
@@ -163,13 +172,14 @@
 | [Tesla](generated/companies/tesla.md) | [Solar Hardware Engineer Intern - Energy Engineering](https://www.tesla.com/careers/search/job/283423) | Palo Alto, CA | Onsite | 2026-09-15 | Rolling | 🟢 Open | ❔ |
 | [Tesla](generated/companies/tesla.md) | [Solar Hardware Engineer Intern - PV Cell - Energy Engineering](https://www.tesla.com/careers/search/job/284489) | Palo Alto, CA | Onsite | 2026-09-24 | Rolling | 🟢 Open | ❔ |
 | [The Toro Company](generated/companies/the-toro-company.md) | [Hardware and Software Engineering Intern](https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Perry-OK/Hardware-and-Software-Engineering-Intern---Ditch-Witch_JR17183) | Perry, OK | Onsite | 2026-09-10 | Rolling | 🟢 Open | ❔ |
-| [Trace Labs](generated/companies/trace-labs.md) | [Robotics Engineer Intern, Hardware & Software](https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true) | New York, NY | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
+| [Trace Labs](generated/companies/trace-labs.md) | [Robotics Engineer Intern, Hardware & Software](https://go.vansh.nyc/hp) | New York, NY | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
 | [Trimble](generated/companies/trimble.md) | [Hardware/Software Testing Intern](https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---CO-Westminster/Hardware-Software-Testing-Intern_R57677-1) | Dayton, OH +3 | Onsite | 2026-09-08 | Rolling | 🟢 Open | ❔ |
 | [Two Sigma](generated/companies/two-sigma.md) | [Hardware Engineering Intern](https://twosigma.avature.net/careers/JobDetail/14289) | NYC | Onsite | 2026-09-22 | Rolling | 🟢 Open | ❔ |
 | [Virtu Financial](generated/companies/virtu-financial.md) | [2027 Internship - FPGA Engineer](https://job-boards.greenhouse.io/virtu/jobs/8638124002) | Dublin | Onsite | 2026-08-12 | Rolling | 🟢 Open | ❔ |
 | [Virtu Financial](generated/companies/virtu-financial.md) | [2027 Internship- Hardware Engineer (FPGA)](https://job-boards.greenhouse.io/virtu/jobs/8657286002) | Austin, TX | Onsite | 2026-07-29 | Rolling | 🟢 Open | ❔ |
 | [Zipline](generated/companies/zipline.md) | [Hardware Test Intern - Spring 2027](https://www.zipline.com/open-roles?gh_jid=7894349003) | South SF | Onsite | 2026-08-19 | Rolling | 🟢 Open | ❔ |
 | [Zipline](generated/companies/zipline.md) | [Hardware Test Intern - Summer 2027](https://www.zipline.com/open-roles?gh_jid=7903483003) | South SF | Onsite | 2026-08-19 | Rolling | 🟢 Open | ❔ |
+| [Akuna Capital](generated/companies/akuna-capital.md) | [Hardware Engineer Intern](https://akunacapital.com/careers/job/8018880/?gh_jid=8018880) | Chicago, IL | Onsite | 2026-07-24 | Rolling | 🔴 Closed | ❌ |
 | [AMD](generated/companies/amd.md) | [ASIC Package Engineer Intern Co-op](https://careers.amd.com/jobs/91469?icims=1) | San Jose, CA +1 | Onsite | 2026-08-25 | Rolling | 🔴 Closed | ❔ |
 | [AMD](generated/companies/amd.md) | [ASIC Package Engineering Co-op/Intern](https://careers.amd.com/jobs/91463?icims=1) | San Jose, CA +1 | Onsite | 2026-08-25 | Rolling | 🔴 Closed | ❔ |
 | [AMD](generated/companies/amd.md) | [ASIC Package Engineering Intern Co-op](https://careers.amd.com/jobs/91471?icims=1) | Secaucus, NJ +5 | Onsite | 2026-08-25 | Rolling | 🔴 Closed | ❔ |
@@ -211,6 +221,7 @@
 | [Ciena](generated/companies/ciena.md) | [Photonic Hardware Intern](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Photonic-Hardware-Intern--4-12-Months-_R031366) | Ottawa | Onsite | 2026-07-20 | Rolling | 🔴 Closed | ❔ |
 | [Efficient Computer](generated/companies/efficient-computer.md) | [Hardware/Silicon Intern](https://job-boards.greenhouse.io/efficientcomputer/jobs/4421539009) | SF +3 | Onsite | 2026-09-25 | Rolling | 🔴 Closed | ❔ |
 | [Epia Neuro](generated/companies/epia-neuro.md) | [Hardware Engineer Intern](https://jobs.ashbyhq.com/epianeuro/62d296e8-16c4-4403-8af5-629e97f7f7fe/application?embed=true) | Alameda, CA | Onsite | 2026-08-15 | Rolling | 🔴 Closed | ❔ |
+| [Formlabs](generated/companies/formlabs.md) | [Hardware R&D Engineering Intern](https://careers.formlabs.com/job/8097694/apply/?gh_jid=8097694) | Somerville, MA | Onsite | 2026-08-21 | Rolling | 🔴 Closed | ❔ |
 | [Formlabs](generated/companies/formlabs.md) | [Hardware Systems Integration Intern](https://careers.formlabs.com/job/7927471/apply/?gh_jid=7927471) | Cambridge, MA | Onsite | 2026-05-15 | Rolling | 🔴 Closed | ❔ |
 | [GE Vernova](generated/companies/ge-vernova.md) | [Hardware Automation and Test Engineering Intern - Critical Infrastructure Communications](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Rochester/GE-Vernova-Hardware-Automation-and-Test-Engineering-Intern---Summer-Fall-2027_R5051790-2) | Rochester, NY | Onsite | 2026-09-09 | Rolling | 🔴 Closed | ❔ |
 | [GE Vernova](generated/companies/ge-vernova.md) | [Hardware Automation and Test Engineering Intern - Critical Infrastructure Communications](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Rochester/GE-Vernova-Hardware-Automation-and-Test-Engineering-Intern---Summer-Fall-2027_R5051790-1) | Rochester, NY | Onsite | 2026-09-09 | Rolling | 🔴 Closed | ❔ |
@@ -222,6 +233,7 @@
 | [Hermeus](generated/companies/hermeus.md) | [Hardware-In-the-Loop Software Engineering Intern - Fall 2026](https://jobs.lever.co/hermeus/10d69ef6-a754-42ab-833c-76adf01367bf/apply) | Atlanta, GA | Onsite | 2026-04-17 | Rolling | 🔴 Closed | ❔ |
 | [Hermeus](generated/companies/hermeus.md) | [Software Engineer Intern - Hardware in the Loop](https://jobs.lever.co/hermeus/d87ed913-affc-475e-b721-c5b5f11c3c7b/apply) | Atlanta, GA | Onsite | 2026-09-01 | Rolling | 🔴 Closed | ❔ |
 | [Hexagon AB](generated/companies/hexagon-ab.md) | [Digital Hardware Engineer Intern - GNSS Positioning Digital Team](https://careers-hexagonpositioning.icims.com/jobs/3090/job?mobile=true&needsRedirect=false) | Calgary | Onsite | 2026-09-09 | Rolling | 🔴 Closed | ❔ |
+| [IMC](generated/companies/imc.md) | [Hardware Engineer Intern](https://www.imc.com/us/careers/jobs/4823945101) | Chicago, IL | Onsite | 2026-07-24 | Rolling | 🔴 Closed | ✅ |
 | [IMC Trading](generated/companies/imc-trading.md) | [2027 - FPGA Intern - IIT Bombay](https://job-boards.eu.greenhouse.io/imc/jobs/4860306101) | Amsterdam | Onsite | 2026-07-03 | Rolling | 🔴 Closed | ❔ |
 | [IMC Trading](generated/companies/imc-trading.md) | [Hardware Engineer Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4927149101) | Amsterdam | Onsite | 2026-07-31 | Rolling | 🔴 Closed | ❔ |
 | [Jump Trading](generated/companies/jump-trading.md) | [Campus FPGA Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8003013) | Chicago | Onsite | 2026-07-08 | Rolling | 🔴 Closed | ❔ |
@@ -283,15 +295,16 @@
 - SpaceX (19)
 - Neuralink (14)
 - Astranis (10)
-- Marvell (8)
-- NVIDIA (7)
+- Amazon (9)
+- Marvell (9)
+- NVIDIA (8)
+- Qualcomm (7)
 - Ciena (6)
-- Qualcomm (6)
-- Amazon (5)
 - Formlabs (5)
 - GE Vernova (5)
 - Jump Trading (5)
 - Keysight Technologies (5)
+- Skydio (5)
 - Tesla (5)
 - Cadence Design Systems (4)
 - Google (4)
@@ -300,9 +313,10 @@
 - RTX (4)
 - Bedrock Robotics (3)
 - CesiumAstro (3)
-- Skydio (3)
+- Rockwell Automation (3)
 - Zipline (3)
 - Microsoft (3)
+- ADT (2)
 - ByteDance (2)
 - Dell Technologies (2)
 - GlobalFoundries (2)
@@ -311,7 +325,6 @@
 - Nokia (2)
 - Optiver (2)
 - Rivian (2)
-- Rockwell Automation (2)
 - Solidigm (2)
 - Virtu Financial (2)
 - Bank of Montreal (2)
@@ -322,8 +335,6 @@
 - Shure (2)
 - The Walt Disney Company (2)
 - Western Digital (2)
-- ADT (1)
-- Akuna Capital (1)
 - Altera (1)
 - Amazon.com Services LLC (1)
 - Ambarella (1)
@@ -338,8 +349,8 @@
 - GE Healthcare (1)
 - Hitachi Energy (1)
 - HPR (1)
+- HPR (Hyannis Port Research) (1)
 - Hudson River Trading (1)
-- IMC (1)
 - Jane Street (1)
 - Microchip Technology (1)
 - Motorola (1)
@@ -350,12 +361,14 @@
 - Trace Labs (1)
 - Trimble (1)
 - Two Sigma (1)
+- Akuna Capital (1)
 - Amentum (1)
 - Carbon Robotics (1)
 - Efficient Computer (1)
 - Epia Neuro (1)
 - Geotab (1)
 - Hexagon AB (1)
+- IMC (1)
 - Kepler Communications (1)
 - L3Harris Technologies (1)
 - Nightwing (1)

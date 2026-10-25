@@ -6,7 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
-| C.H. Robinson | [Cyber Security Intern](https://chrobinson.wd5.myworkdayjobs.com/CHRobinson/job/Eden-Prairie-MN-United-States-of-America/Security-Internship-2027_R49322) | Eden Prairie, MN | Onsite | 2026-10-22 | Rolling | 🟢 Open | ❔ |
+| C.H. Robinson | [Cyber Security Intern](https://go.vansh.nyc/gV) | Eden Prairie, MN | Onsite | 2026-10-22 | Rolling | 🟢 Open | ❔ |
 | C.H. Robinson | [Software Engineer Intern](https://chrobinson.wd5.myworkdayjobs.com/CHRobinson/job/Eden-Prairie-MN-United-States-of-America/Software-Engineering-Internship-2027_R49323) | Eden Prairie, MN | Onsite | 2026-09-08 | Rolling | 🟢 Open | ❔ |
 
 ## Related

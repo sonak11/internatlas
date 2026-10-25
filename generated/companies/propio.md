@@ -6,7 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
-| Propio | [Product Manager Intern](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4587630) | Overland Park, KS | Onsite | 2026-10-15 | Rolling | 🟢 Open | ❔ |
+| Propio | [Product Manager Intern](https://go.vansh.nyc/gi) | Overland Park, KS | Onsite | 2026-10-15 | Rolling | 🟢 Open | ❔ |
 
 ## Related
 

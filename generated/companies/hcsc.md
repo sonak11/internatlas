@@ -6,8 +6,8 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
-| HCSC | [Finance Application Developer Intern](https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/IL---Chicago/Early-Careers---Finance-Application-Developer-Intern_R0059477) | Chicago, IL +1 | Onsite | 2026-10-17 | Rolling | 🟢 Open | ❔ |
-| HCSC | [Finance Data & Analytics Developer Intern](https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/IL---Chicago/Early-Careers---Finance-Data---Analytics-Developer-Intern_R0059478) | Chicago, IL +1 | Onsite | 2026-10-17 | Rolling | 🟢 Open | ❔ |
+| HCSC | [Finance Application Developer Intern](https://go.vansh.nyc/b7) | Chicago, IL +1 | Onsite | 2026-10-17 | Rolling | 🟢 Open | ❔ |
+| HCSC | [Finance Data & Analytics Developer Intern](https://go.vansh.nyc/b6) | Chicago, IL +1 | Onsite | 2026-10-17 | Rolling | 🟢 Open | ❔ |
 
 ## Related
 

@@ -6,7 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
-| American Fidelity | [Software Developer Innovation Intern](https://americanfidelity.wd5.myworkdayjobs.com/External/job/Oklahoma-City-Oklahoma/Software-Developer-Innovation-Internship_JR1118) | Oklahoma City, OK | Onsite | 2026-10-19 | Rolling | 🟢 Open | ❔ |
+| American Fidelity | [Software Developer Innovation Intern](https://go.vansh.nyc/bi) | Oklahoma City, OK | Onsite | 2026-10-19 | Rolling | 🟢 Open | ❔ |
 | American Fidelity | [Agentic AI Intern](https://americanfidelity.wd5.myworkdayjobs.com/External/job/Oklahoma-City-Oklahoma/IT-Intern-1_JR1016) | Oklahoma City, OK | Onsite | 2026-08-17 | Rolling | 🔴 Closed | ❔ |
 | American Fidelity | [Data Intern](https://americanfidelity.wd5.myworkdayjobs.com/External/job/Oklahoma-City-Oklahoma/Data-Internship--Okalhoma-City-Local-Only-_JR1024) | Oklahoma City, OK | Onsite | 2026-08-17 | Rolling | 🔴 Closed | ❔ |
 | American Fidelity | [Software Development Intern](https://americanfidelity.wd5.myworkdayjobs.com/External/job/Oklahoma-City-Oklahoma/Software-Dev-Internship_JR1005) | Oklahoma City, OK | Onsite | 2026-08-12 | Rolling | 🔴 Closed | ❔ |

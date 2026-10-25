@@ -7,19 +7,19 @@
   },
   "role": "Data Science Intern",
   "category": "data-science",
-  "apply_url": "https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4449670009",
+  "apply_url": "https://go.vansh.nyc/9i",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Montpelier",
-      "state": "VT",
+      "city": "Addison",
+      "state": "TX",
       "country": "USA"
     },
     {
-      "city": "Addison",
-      "state": "TX",
+      "city": "Montpelier",
+      "state": "VT",
       "country": "USA"
     }
   ],
@@ -54,6 +54,6 @@
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }

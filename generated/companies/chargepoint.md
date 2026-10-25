@@ -6,7 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
-| ChargePoint | [IT & Network Intern](https://www.chargepoint.com/about/opportunities/job/?gh_jid=8893571002) | Campbell, CA | Onsite | 2026-10-16 | Rolling | 🟢 Open | ❔ |
+| ChargePoint | [IT & Network Intern](https://go.vansh.nyc/ae) | Campbell, CA | Onsite | 2026-10-16 | Rolling | 🟢 Open | ❔ |
 
 ## Related
 

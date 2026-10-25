@@ -6,9 +6,9 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
-| Millennium | [Applied AI Engineer Intern](https://career.mlp.com/careers/job/755957778821) | New York, NY | Onsite | 2026-08-21 | Rolling | 🟢 Open | ❔ |
-| Millennium | [Applied AI Engineer Intern](https://career.mlp.com/careers/job/755957778848) | Miami, FL | Onsite | 2026-08-21 | Rolling | 🟢 Open | ❔ |
-| Millennium | [Quantitative Developer Intern](https://career.mlp.com/careers/job/755957819661) | New York, NY | Onsite | 2026-08-21 | Rolling | 🟢 Open | ❔ |
+| Millennium | [Applied AI Engineer Intern](https://go.vansh.nyc/7h) | New York, NY | Onsite | 2026-08-21 | Rolling | 🟢 Open | ❔ |
+| Millennium | [Applied AI Engineer Intern](https://go.vansh.nyc/7f) | Miami, FL | Onsite | 2026-08-21 | Rolling | 🟢 Open | ❔ |
+| Millennium | [Quantitative Developer Intern](https://go.vansh.nyc/7g) | New York, NY | Onsite | 2026-08-21 | Rolling | 🟢 Open | ❔ |
 
 ## Related
 

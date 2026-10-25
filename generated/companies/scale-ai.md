@@ -6,12 +6,13 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
-| Scale AI | [Machine Learning Research Intern](https://job-boards.greenhouse.io/scaleai/jobs/4735665005) | SF +3 | Onsite | 2026-10-19 | Rolling | 🟢 Open | ❔ |
+| Scale AI | [Machine Learning Research Intern](https://job-boards.greenhouse.io/scaleai/jobs/4735665005) | SF +2 | Onsite | 2026-10-19 | Rolling | 🟢 Open | ❔ |
+| Scale AI | [Machine Learning Research Intern](https://go.vansh.nyc/br) | New York, NY +1 | Onsite | 2026-10-19 | Rolling | 🟢 Open | ❔ |
 | Scale AI | [Software Engineer Intern - Summer 2027](https://job-boards.greenhouse.io/scaleai/jobs/4730846005) | London +1 | Onsite | 2026-09-14 | Rolling | 🟢 Open | ❔ |
 | Scale AI | [Software Engineer Intern - Summer 2027](https://job-boards.greenhouse.io/scaleai/jobs/4730845005) | SF +1 | Onsite | 2026-09-04 | Rolling | 🟢 Open | ❔ |
 | Scale AI | [Software Engineering Intern (Summer 2027)](https://job-boards.greenhouse.io/scaleai/jobs/4730834005) | Doha | Onsite | 2026-09-14 | Rolling | 🟢 Open | ❔ |
-| Scale AI | [Technical Advisor Intern, GenAI](https://scale.com/careers/4611533005) | San Francisco, CA | Onsite | 2025-10-23 | Rolling | 🟢 Open | ❔ |
 | Scale AI | [AI Builder Intern](https://job-boards.greenhouse.io/scaleai/jobs/4703343005) | San Francisco, CA | Onsite | 2026-06-06 | Rolling | 🔴 Closed | ❔ |
+| Scale AI | [Technical Advisor Intern, GenAI](https://scale.com/careers/4611533005) | San Francisco, CA | Onsite | 2025-10-23 | Rolling | 🔴 Closed | ❔ |
 | Scale AI | [Technical Advisor Specialist (Part-Time Internship)](https://job-boards.greenhouse.io/scaleai/jobs/4611533005) | San Francisco, CA | Onsite | 2025-09-22 | Rolling | 🔴 Closed | ❔ |
 
 ## Related

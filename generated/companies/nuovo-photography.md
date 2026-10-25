@@ -6,6 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
+| Nuovo Photography | [Software Developer Intern](https://go.vansh.nyc/cm) | Montreal | Onsite | 2026-10-19 | Rolling | 🟢 Open | ❔ |
 | Nuovo Photography | [Software Developer Intern](https://apply.workable.com/nuovophotography/j/7DE79BE9A8/apply) | Montreal | Onsite | 2026-10-19 | Rolling | 🟢 Open | ❔ |
 
 ## Related

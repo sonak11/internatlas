@@ -2,14 +2,14 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🧭 Product Internships
 
-**232** tracked · **125** open now
+**240** tracked · **132** open now
 
 ## Current openings
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
 | [1Password](generated/companies/1password.md) | [Product Management Intern - End User Experience](https://jobs.ashbyhq.com/1password/bef2e88e-9590-467d-8ba6-821b30529003/application?embed=true) | Remote | Remote | 2026-10-23 | Rolling | 🟢 Open | ❔ |
-| [1Password](generated/companies/1password.md) | [Product Management Intern, End User Experience](https://jobs.ashbyhq.com/1password/bef2e88e-9590-467d-8ba6-821b30529003) | USA +1 | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
+| [1Password](generated/companies/1password.md) | [Product Management Intern, End User Experience](https://go.vansh.nyc/gR) | USA +1 | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
 | [ABB](generated/companies/abb.md) | [Product Management Intern](https://abb.wd3.myworkdayjobs.com/external_career_page/job/New-Berlin-Wisconsin-United-States-of-America/Product-Management-Intern---Summer-2027_JR00047280) | New Berlin, WI | Onsite | 2026-09-24 | Rolling | 🟢 Open | ❔ |
 | [Acuity](generated/companies/acuity.md) | [Product Management Technology Intern](https://careers.acuityinc.com/job/Conyers-Intern-Product-Management-Technology-GA-30012/1435075400/?ats=successfactors) | Conyers, GA | Onsite | 2026-09-29 | Rolling | 🟢 Open | ❔ |
 | [ADT](generated/companies/adt.md) | [Product Management & Product Operations Intern](https://fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3022393) | Boca Raton, FL | Onsite | 2026-10-12 | Rolling | 🟢 Open | ❔ |
@@ -27,11 +27,13 @@
 | [American Express](generated/companies/american-express.md) | [Product Management Intern - Global Merchant & Network Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012636) | NYC | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
 | [American Express](generated/companies/american-express.md) | [Product Management Intern - Global Merchant & Network Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012638) | Phoenix, AZ | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
 | [American Express](generated/companies/american-express.md) | [Product Management Intern - Global Merchant & Network Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012148) | Phoenix, AZ | Onsite | 2026-08-05 | Rolling | 🟢 Open | ❌ |
+| [American Express](generated/companies/american-express.md) | [Product Management Intern, Global Merchant & Network Services](https://go.vansh.nyc/7u) | Phoenix, AZ | Onsite | 2026-08-21 | Rolling | 🟢 Open | ❌ |
 | [Amplify](generated/companies/amplify.md) | [Product Management Intern](https://jobs.ashbyhq.com/amplify/c95f690f-28af-42b1-8847-5dcf14c1155e/application?embed=true) | Remote | Remote | 2026-10-19 | Rolling | 🟢 Open | ❔ |
 | [Appian](generated/companies/appian.md) | [Product Manager Intern](https://job-boards.greenhouse.io/appian/jobs/8041243) | McLean, VA | Onsite | 2026-07-23 | Rolling | 🟢 Open | ❔ |
-| [Appian](generated/companies/appian.md) | [Product Manager Intern](https://careers.appian.com/jobs/8041243-product-manager-intern-) | McLean, VA | Onsite | 2026-07-24 | Rolling | 🟢 Open | ❔ |
+| [Appian](generated/companies/appian.md) | [Product Manager Intern](https://go.vansh.nyc/4G) | McLean, VA | Onsite | 2026-07-24 | Rolling | 🟢 Open | ❔ |
 | [AspenTech](generated/companies/aspentech.md) | [Product Owner Intern - Product Management](https://aspentech.wd5.myworkdayjobs.com/aspentech/job/Bedford-Massachusetts/Product-Owner-Intern---Product-Management----Summer-2027_R9471) | Houston, TX +1 | Onsite | 2026-09-16 | Rolling | 🟢 Open | ❔ |
 | [Behaviour Interactive](generated/companies/behaviour-interactive.md) | [Product Management Intern - 7 Days to Die](https://jobs.lever.co/bhvr/540b00d3-8693-4c2b-9e98-10e33cb0ce62/apply) | Montreal | Onsite | 2026-10-16 | Rolling | 🟢 Open | ❔ |
+| [Behaviour Interactive](generated/companies/behaviour-interactive.md) | [Product Management Intern, 7 Days to Die](https://go.vansh.nyc/aY) | Montreal | Onsite | 2026-10-16 | Rolling | 🟢 Open | ❔ |
 | [Blue Origin](generated/companies/blue-origin.md) | [Terawave Product Management Intern - MBA](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Kent-WA/Summer-2027-Terawave-Product-Management-Internship---MBA_R74200) | Kent, WA | Onsite | 2026-10-15 | Rolling | 🟢 Open | ❔ |
 | [BNY](generated/companies/bny.md) | [Product Management Intern](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/83098) | Greater Manchester | Onsite | 2026-10-14 | Rolling | 🟢 Open | ❔ |
 | [BNY](generated/companies/bny.md) | [Product Management Intern](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/82784) | Lake Mary, FL | Onsite | 2026-10-01 | Rolling | 🟢 Open | ❔ |
@@ -43,7 +45,7 @@
 | [ByteDance](generated/companies/bytedance.md) | [Product Management Project Intern - Global Payment](https://jobs.bytedance.com/en/position/7686394581777631541/detail) | San Jose, CA | Onsite | 2026-09-22 | Rolling | 🟢 Open | ❔ |
 | [Cadence Solutions](generated/companies/cadence-solutions.md) | [Product Management Intern](https://job-boards.greenhouse.io/solutions/jobs/4715294006) | Remote | Remote | 2026-10-06 | Rolling | 🟢 Open | ❔ |
 | [Chamberlain Group](generated/companies/chamberlain-group.md) | [Community Product Management Intern - Summer 2027](https://chamberlain.wd1.myworkdayjobs.com/Chamberlain_Group/job/Oak-Brook-IL/Intern--Community-Product-Management--Summer-2026-_JR31309) | Oak Brook, IL | Onsite | 2026-08-10 | Rolling | 🟢 Open | ❔ |
-| [Cisco](generated/companies/cisco.md) | [Engineering Product Management Specialist I Intern](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Engineering-Product-Management-Specialist-I--Intern----United-States_2026308) | San Jose, CA +3 | Onsite | 2026-10-22 | Rolling | 🟢 Open | ❔ |
+| [Cisco](generated/companies/cisco.md) | [Engineering Product Management Specialist I Intern](https://go.vansh.nyc/eb) | San Jose, CA +3 | Onsite | 2026-10-22 | Rolling | 🟢 Open | ❔ |
 | [Coinbase](generated/companies/coinbase.md) | [Associate Product Manager Intern](https://www.coinbase.com/careers/positions/8168322?gh_jid=8168322) | Hybrid | Onsite | 2026-09-08 | Rolling | 🟢 Open | ❔ |
 | [Coinbase](generated/companies/coinbase.md) | [Associate Product Manager Intern - Multiple Teams](https://boards.greenhouse.io/embed/job_app?token=8168322) | SF | Onsite | 2026-09-09 | Rolling | 🟢 Open | ❔ |
 | [Cox](generated/companies/cox.md) | [Product Management Intern](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Austin-TX/Product-Management-Intern---Summer-2027--Austin--TX-_R202682189) | Austin, TX | Onsite | 2026-09-08 | Rolling | 🟢 Open | ❔ |
@@ -62,7 +64,8 @@
 | [Ernst & Young](generated/companies/ernst-young.md) | [Product Manager Intern - Tax - Other Tax](https://eyglobal.yello.co/jobs/ScWvvhAQZFvHMXityc1Mgw?job_board_id=c1riT--B2O-KySgYWsZO1Q) | NYC | Onsite | 2026-09-04 | Rolling | 🟢 Open | ❔ |
 | [GE Vernova](generated/companies/ge-vernova.md) | [Controls Product Management Intern](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Greenville/GE-Vernova-Controls-Product-Management-Intern---Summer-2027_R5050803-3) | Longmont, CO +1 | Onsite | 2026-08-25 | Rolling | 🟢 Open | ❔ |
 | [GE Vernova](generated/companies/ge-vernova.md) | [Controls Product Management Intern - Summer 2027](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Greenville/GE-Vernova-Controls-Product-Management-Intern---Summer-2027_R5050803) | Longmont, CO +1 | Onsite | 2026-08-25 | Rolling | 🟢 Open | ❔ |
-| [GE Vernova](generated/companies/ge-vernova.md) | [Product Management Intern](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Markham/Intern--Product-Management--Summer-2027-_R5056377-2) | Markham +1 | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
+| [GE Vernova](generated/companies/ge-vernova.md) | [Product Management Intern](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Markham/Intern--Product-Management--Summer-2027-_R5056377-2) | Markham | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
+| [GE Vernova](generated/companies/ge-vernova.md) | [Product Management Intern](https://go.vansh.nyc/he) | Markham | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
 | [GE Vernova](generated/companies/ge-vernova.md) | [Product Management Intern](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Markham/Intern--Product-Management--Summer-2027-_R5056377-1) | Markham | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
 | [GE Vernova](generated/companies/ge-vernova.md) | [Product Management Intern - Controls Lifecare Services](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Longmont/Product-Management-Intern---Controls-Lifecare-Services_R5050801-2) | Longmont, CO +1 | Onsite | 2026-08-30 | Rolling | 🟢 Open | ❔ |
 | [GE Vernova](generated/companies/ge-vernova.md) | [Product Management Intern - Controls Lifecare Services](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Longmont/Product-Management-Intern---Controls-Lifecare-Services_R5050801-1) | Longmont, CO +1 | Onsite | 2026-08-30 | Rolling | 🟢 Open | ❔ |
@@ -78,25 +81,28 @@
 | [Koch Industries](generated/companies/koch-industries.md) | [Product Management Intern](https://koch.avature.net/en_US/careers/JobDetail/195099) | Eden Prairie, MN +1 | Onsite | 2026-10-03 | Rolling | 🟢 Open | ❔ |
 | [Manulife Financial](generated/companies/manulife-financial.md) | [Product Management & Risk Technology Intern](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/Summer-Intern-2027---Product-Management---Risk-Technology_JR26080875) | Toronto | Onsite | 2026-10-08 | Rolling | 🟢 Open | ❔ |
 | [Medline](generated/companies/medline.md) | [MBA Intern - Product Management](https://medline.wd5.myworkdayjobs.com/en-US/Medline/job/Northfield-Illinois/MBA-Intern--Product-Management---Summer-2027_R2615805) | Chicago, IL +1 | Onsite | 2026-08-07 | Rolling | 🟢 Open | ❔ |
-| [Microsoft](generated/companies/microsoft.md) | [Product Manager Intern](https://apply.careers.microsoft.com/careers/job/1970393557044772) | Cambridge, MA | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
-| [Microsoft](generated/companies/microsoft.md) | [Product Manager Intern](https://apply.careers.microsoft.com/careers/job/1970393556953113) | Remote | Remote | 2026-08-04 | Rolling | 🟢 Open | ❔ |
+| [Microsoft](generated/companies/microsoft.md) | [Product Manager Intern](https://go.vansh.nyc/hO) | Cambridge, MA | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
+| [Microsoft](generated/companies/microsoft.md) | [Product Manager Intern](https://go.vansh.nyc/5Y) | Remote | Remote | 2026-08-04 | Rolling | 🟢 Open | ❔ |
 | [Mohawk](generated/companies/mohawk.md) | [Product Management Intern](https://careers.mohawkind.com/mohawk/job/Calhoun-Product-Management-Intern-Summer-2027-Geor-30701/1436568500/?ats=successfactors) | Calhoun, GA | Onsite | 2026-10-05 | Rolling | 🟢 Open | ❔ |
 | [NJM Insurance Group](generated/companies/njm-insurance-group.md) | [Insurance Product Management Analyst Intern 3](https://njm.wd1.myworkdayjobs.com/njm/job/NJM---Trenton/Insurance-Product-Management-Analyst-Intern-3_R2008190) | Trenton, NJ | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
 | [NVIDIA](generated/companies/nvidia.md) | [Product Management MBA Intern - Data Center GPU](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--Data-Center-GPU---Summer-2027_JR2025670-1) | Santa Clara, CA | Onsite | 2026-09-15 | Rolling | 🟢 Open | ❔ |
 | [OATEY](generated/companies/oatey.md) | [Product Management Intern](https://wd5.myworkdaysite.com/recruiting/oatey/Oatey_External_/job/Cleveland-OH-Headquarters/Product-Management-Intern_R7185) | Cleveland, OH | Onsite | 2026-09-04 | Rolling | 🟢 Open | ❔ |
 | [Oshkosh](generated/companies/oshkosh.md) | [Product Management Intern](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Appleton-Wisconsin-United-States/Product-Management-Intern--Summer-2027-_R49746) | Appleton, WI | Onsite | 2026-08-31 | Rolling | 🟢 Open | ❔ |
-| [Patreon](generated/companies/patreon.md) | [Product Manager Intern](https://jobs.ashbyhq.com/patreon/ace576d6-f480-43b8-a529-549fefb2046d/application?embed=true) | SF +3 | Onsite | 2026-10-22 | Rolling | 🟢 Open | ❔ |
+| [Patreon](generated/companies/patreon.md) | [Product Manager Intern](https://jobs.ashbyhq.com/patreon/ace576d6-f480-43b8-a529-549fefb2046d/application?embed=true) | SF +1 | Onsite | 2026-10-22 | Rolling | 🟢 Open | ❔ |
+| [Patreon](generated/companies/patreon.md) | [Product Manager Intern](https://go.vansh.nyc/fA) | New York, NY +1 | Onsite | 2026-10-22 | Rolling | 🟢 Open | ❔ |
 | [Pentair](generated/companies/pentair.md) | [Product Management Internship](https://pentair.wd5.myworkdayjobs.com/pentair_careers/job/Golden-Valley-MN/Product-Management-Leadership-Development-Internship-Program---Summer-2027_R23713) | Apex, NC +5 | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
-| [Propio](generated/companies/propio.md) | [Product Manager Intern](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4587630) | Overland Park, KS | Onsite | 2026-10-15 | Rolling | 🟢 Open | ❔ |
+| [Propio](generated/companies/propio.md) | [Product Manager Intern](https://go.vansh.nyc/gi) | Overland Park, KS | Onsite | 2026-10-15 | Rolling | 🟢 Open | ❔ |
 | [Publicis Groupe](generated/companies/publicis-groupe.md) | [Product Manager Intern - Class of 2028](https://careers.publicisgroupe.com/jobs/172574?icims=1) | Chicago, IL | Onsite | 2026-09-18 | Rolling | 🟢 Open | ❔ |
 | [Qorvo](generated/companies/qorvo.md) | [Product Management Intern](https://careers.qorvo.com/job/Greensboro-Product-Management-Intern-NC-27409/1421954200/?ats=successfactors) | Greensboro, NC | Onsite | 2026-08-31 | Rolling | 🟢 Open | ❔ |
 | [Qorvo](generated/companies/qorvo.md) | [Product Management Intern - Advanced Cellular](https://careers.qorvo.com/job/Greensboro-Product-Management-Intern-NC-27409/1421973000/?ats=successfactors) | Greensboro, NC | Onsite | 2026-08-31 | Rolling | 🟢 Open | ❔ |
-| [Residex Software](generated/companies/residex-software.md) | [Product Management Intern](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4575799) | USA | Onsite | 2026-10-09 | Rolling | 🟢 Open | ❔ |
+| [Residex Software](generated/companies/residex-software.md) | [Product Management Intern](https://go.vansh.nyc/gc) | USA | Onsite | 2026-10-09 | Rolling | 🟢 Open | ❔ |
 | [Rivian](generated/companies/rivian.md) | [MBA Intern Co-op - Product Management Product Development](https://careers.rivian.com/jobs/33793?icims=1) | Palo Alto, CA | Onsite | 2026-09-22 | Rolling | 🟢 Open | ❔ |
 | [Roblox](generated/companies/roblox.md) | [Product Management Intern](https://careers.roblox.com/jobs/8143981?gh_jid=8143981) | San Mateo, CA | Onsite | 2026-09-02 | Rolling | 🟢 Open | ❔ |
-| [SOTI](generated/companies/soti.md) | [Associate Product Manager Intern](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Associate-Product-Manager-Intern--SOTI-XSight---May-2027---12-Months-_R10614) | Mississauga +1 | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
+| [SOTI](generated/companies/soti.md) | [Associate Product Manager Intern](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Associate-Product-Manager-Intern--May-2027---12-Months-_R10638) | Mississauga | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
+| [SOTI](generated/companies/soti.md) | [Associate Product Manager Intern](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Associate-Product-Manager-Intern--SOTI-XSight---May-2027---12-Months-_R10614) | Mississauga | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
 | [SOTI](generated/companies/soti.md) | [Associate Product Manager Intern](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Associate-Product-Manager-Intern--SOTI-Connect---May-2027---12-Months-_R10615) | Mississauga | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
-| [SOTI](generated/companies/soti.md) | [Associate Product Manager Intern](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Associate-Product-Manager-Intern--May-2027---12-Months-_R10638) | Mississauga +1 | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
+| [SOTI](generated/companies/soti.md) | [Associate Product Manager Intern](https://go.vansh.nyc/hi) | Mississauga | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
+| [SOTI](generated/companies/soti.md) | [Associate Product Manager Intern](https://go.vansh.nyc/hh) | Mississauga | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
 | [TD Bank](generated/companies/td-bank.md) | [Life & Health Product Management Co-op Intern](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Job-Posting-Title-L-H-Product-Management-Intern-Co-op--Winter-2027-_R_1506721) | Toronto | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
 | [Tesla](generated/companies/tesla.md) | [Commercial Charging Product Management Intern - Energy Engineering](https://www.tesla.com/careers/search/job/283156) | Palo Alto, CA | Onsite | 2026-09-11 | Rolling | 🟢 Open | ❔ |
 | [Tesla](generated/companies/tesla.md) | [Internship - Product Management - Megapack Services - Winter/Spring 2027](https://www.tesla.com/careers/search/job/287443) | Fremont, CA | Onsite | 2026-10-22 | Rolling | 🟢 Open | ❔ |
@@ -124,9 +130,10 @@
 | [Vertiv](generated/companies/vertiv.md) | [IT Systems Product Management Intern - Summer 2027](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279239) | Westerville, OH | Onsite | 2026-08-12 | Rolling | 🟢 Open | ❔ |
 | [Vertiv](generated/companies/vertiv.md) | [Product Management Intern](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278958) | Delaware, OH | Onsite | 2026-08-12 | Rolling | 🟢 Open | ❌ |
 | [Vertiv](generated/companies/vertiv.md) | [Product Management Intern - MBA - Power Solutions & Distribution](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278959) | Delaware, OH | Onsite | 2026-08-12 | Rolling | 🟢 Open | ❔ |
-| [Viget](generated/companies/viget.md) | [Project & Product Manager Intern](https://jobs.lever.co/viget/969d8237-ec1a-4ec4-ba09-b08bcfcd81c4) | Boulder, CO | Onsite | 2026-10-08 | Rolling | 🟢 Open | ❌ |
+| [Vertiv](generated/companies/vertiv.md) | [Product Management Intern, MBA](https://go.vansh.nyc/7y) | Delaware, OH | Onsite | 2026-08-21 | Rolling | 🟢 Open | ❌ |
+| [Viget](generated/companies/viget.md) | [Project & Product Manager Intern](https://go.vansh.nyc/g9) | Boulder, CO | Onsite | 2026-10-08 | Rolling | 🟢 Open | ❌ |
 | [Walmart](generated/companies/walmart.md) | [Automation Product Manager Intern - Product Manager](https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-TX-LANCASTER-07382-ECOMM-FULFILLMENT-SERVICES/Summer-2027-Intern--Automation---Product-Manager---Corporate-Intern_R-2649739) | Lancaster, TX | Onsite | 2026-10-22 | Rolling | 🟢 Open | ❔ |
-| [Walmart](generated/companies/walmart.md) | [Automation, Product Manager, Corporate Intern](https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-TX-LANCASTER-07382-ECOMM-FULFILLMENT-SERVICES/Summer-2027-Intern--Automation---Product-Manager---Corporate-Intern_R-2649739) | Lancaster, TX | Onsite | 2026-10-22 | Rolling | 🟢 Open | ❔ |
+| [Walmart](generated/companies/walmart.md) | [Automation, Product Manager, Corporate Intern](https://go.vansh.nyc/eW) | Lancaster, TX | Onsite | 2026-10-22 | Rolling | 🟢 Open | ❔ |
 | [Workday](generated/companies/workday.md) | [Product Manager Intern](https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Product-Manager-Intern_JR-0110813) | Pleasanton, CA | Onsite | 2026-10-09 | Rolling | 🟢 Open | ❔ |
 | [Workday](generated/companies/workday.md) | [Product Manager Intern](https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/Canada-BC-Vancouver/Product-Manager-Intern_JR-0110808) | Vancouver | Onsite | 2026-10-09 | Rolling | 🟢 Open | ❔ |
 | [Zebra Technologies](generated/companies/zebra-technologies.md) | [Supplies & Sensors Product Manager Intern - US](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----Supplies---Sensors-Product-Manager_JR103640) | Lincolnshire, IL | Onsite | 2026-10-20 | Rolling | 🟢 Open | ❔ |
@@ -188,6 +195,7 @@
 | [Mastercard](generated/companies/mastercard.md) | [Technical Product Management Intern - Switching Solutions](https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Product-Management---Technical-Intern--Summer-2027---St-Louis--MO--US_R-284711) | O'Fallon, MO | Onsite | 2026-09-02 | Rolling | 🔴 Closed | ❔ |
 | [Medline](generated/companies/medline.md) | [Product Management Intern - Summer 2027](https://medline.wd5.myworkdayjobs.com/en-US/Medline/job/Northfield-Illinois/Product-Management-Intern---Summer-2027_R2616983) | Chicago, IL +1 | Onsite | 2026-08-31 | Rolling | 🔴 Closed | ❔ |
 | [Microsoft](generated/companies/microsoft.md) | [Product Manager Intern](https://apply.careers.microsoft.com/careers/job/1970393557004836) | Mountain View, CA | Onsite | 2026-09-23 | Rolling | 🔴 Closed | ❔ |
+| [Microsoft](generated/companies/microsoft.md) | [Product Manager Intern](https://apply.careers.microsoft.com/careers/job/1970393557044772) | Cambridge, MA | Onsite | 2026-10-23 | Rolling | 🔴 Closed | ❔ |
 | [Momentive](generated/companies/momentive.md) | [Product Management Intern - Specialty Additives](https://momentive.wd1.myworkdayjobs.com/MC/job/US-WV-Friendly/Summer-2027-Product-Management-Intern_R9816) | Friendly, WV | Onsite | 2026-09-11 | Rolling | 🔴 Closed | ❔ |
 | [Naver U.Hub INC](generated/companies/naver-u-hub-inc.md) | [Product Management Intern](https://naveruhubinc.applytojob.com/apply/snw35vU7eX/ThingsBook-Product-Management-Intern) | Redwood City, CA | Onsite | 2026-08-03 | Rolling | 🔴 Closed | ❔ |
 | [NVIDIA](generated/companies/nvidia.md) | [Product Management MBA Intern](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--Laptop---Summer-2027_JR2025905) | Santa Clara, CA | Onsite | 2026-10-15 | Rolling | 🔴 Closed | ❔ |
@@ -244,20 +252,20 @@
 ## Hiring companies
 
 - TikTok (16)
-- American Express (14)
-- GE Vernova (8)
-- Vertiv (8)
+- American Express (15)
+- GE Vernova (9)
+- Vertiv (9)
+- SOTI (7)
 - Tesla (6)
 - BNY (5)
 - Cox (5)
 - Databricks (5)
-- SOTI (5)
 - Mastercard (5)
 - Coinbase (4)
+- Microsoft (4)
 - Autodesk (4)
 - USAA (4)
 - Duolingo (3)
-- Microsoft (3)
 - Qorvo (3)
 - TD Bank (3)
 - Zurn Elkay Water Solutions (3)
@@ -266,6 +274,7 @@
 - 1Password (2)
 - Amazon (2)
 - Appian (2)
+- Behaviour Interactive (2)
 - Brunswick (2)
 - Datadog (2)
 - DTCC (2)
@@ -277,6 +286,7 @@
 - Medline (2)
 - NVIDIA (2)
 - Oshkosh (2)
+- Patreon (2)
 - Trimble (2)
 - Walmart (2)
 - Workday (2)
@@ -294,7 +304,6 @@
 - AMD (1)
 - Amplify (1)
 - AspenTech (1)
-- Behaviour Interactive (1)
 - Blue Origin (1)
 - ByteDance (1)
 - Cadence Solutions (1)
@@ -311,7 +320,6 @@
 - Mohawk (1)
 - NJM Insurance Group (1)
 - OATEY (1)
-- Patreon (1)
 - Pentair (1)
 - Propio (1)
 - Publicis Groupe (1)

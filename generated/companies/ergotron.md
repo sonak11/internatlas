@@ -6,7 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
-| Ergotron | [Software Engineer Intern](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4564633) | Eagan, MN | Onsite | 2026-10-06 | Rolling | 🟢 Open | ❔ |
+| Ergotron | [Software Engineer Intern](https://go.vansh.nyc/g3) | Eagan, MN | Onsite | 2026-10-06 | Rolling | 🟢 Open | ❔ |
 
 ## Related
 
