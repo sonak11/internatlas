@@ -5,15 +5,16 @@
     "name": "Together AI",
     "slug": "together-ai"
   },
-  "role": "Research Intern - Model Shaping",
+  "role": "Research Intern, Model Shaping",
   "category": "research",
-  "apply_url": "https://job-boards.greenhouse.io/togetherai/jobs/5238465007",
+  "apply_url": "https://go.vansh.nyc/IP",
   "season": "winter",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "SF",
+      "city": "San Francisco",
+      "state": "CA",
       "country": "USA"
     }
   ],
@@ -49,6 +50,6 @@
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }

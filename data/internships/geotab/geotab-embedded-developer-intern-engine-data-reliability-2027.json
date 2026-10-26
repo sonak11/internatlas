@@ -5,16 +5,16 @@
     "name": "Geotab",
     "slug": "geotab"
   },
-  "role": "Embedded Developer Intern - Engine Data Reliability",
+  "role": "Embedded Developer Intern, Engine Data Reliability",
   "category": "embedded",
-  "apply_url": "https://job-boards.greenhouse.io/internshiplist2000/jobs/5396891008",
+  "apply_url": "https://go.vansh.nyc/MF",
   "season": "winter",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
       "city": "Oakville",
-      "country": "ON"
+      "country": "Canada"
     }
   ],
   "compensation": {
@@ -46,6 +46,6 @@
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }

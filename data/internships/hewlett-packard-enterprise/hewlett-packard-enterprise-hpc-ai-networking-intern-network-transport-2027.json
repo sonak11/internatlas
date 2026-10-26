@@ -1,0 +1,57 @@
+{
+  "schema_version": "1.0",
+  "id": "hewlett-packard-enterprise-hpc-ai-networking-intern-network-transport-2027",
+  "company": {
+    "name": "Hewlett Packard Enterprise",
+    "slug": "hewlett-packard-enterprise"
+  },
+  "role": "HPC AI Networking Intern, Network Transport",
+  "category": "ai",
+  "apply_url": "https://go.vansh.nyc/C3",
+  "season": "summer",
+  "year": 2027,
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "Chippewa Falls",
+      "state": "WI",
+      "country": "USA"
+    },
+    {
+      "city": "Fort Collins",
+      "state": "CO",
+      "country": "USA"
+    }
+  ],
+  "compensation": {
+    "currency": "USD",
+    "housing_stipend": false,
+    "relocation_assistance": false
+  },
+  "eligibility": {
+    "graduation_years": [],
+    "degree_levels": [],
+    "citizenship_required": false,
+    "security_clearance_required": false,
+    "visa_sponsorship": "unknown"
+  },
+  "interview": {},
+  "tech": {
+    "required_skills": [],
+    "preferred_skills": [],
+    "languages": [],
+    "frameworks": [],
+    "cloud_platforms": [],
+    "resume_keywords": []
+  },
+  "dates": {
+    "posted": "2026-10-13",
+    "discovered": "2026-10-26",
+    "last_verified": "2026-10-26"
+  },
+  "status": "open",
+  "tags": [
+    "auto-ingested",
+    "src:vanshb03"
+  ]
+}

@@ -7,6 +7,7 @@
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
 | New York Mets | [Data Science Intern](https://sterlingmets.wd5.myworkdayjobs.com/Mets/job/Citi-Field--Queens-New-York/Intern--Data-Science_R1508) | Queens, NY | Onsite | 2026-10-02 | Rolling | 🟢 Open | ❔ |
+| New York Mets | [Data Science Intern](https://go.vansh.nyc/Em) | Queens, NY | Onsite | 2026-10-02 | Rolling | 🟢 Open | ❔ |
 
 ## Related
 

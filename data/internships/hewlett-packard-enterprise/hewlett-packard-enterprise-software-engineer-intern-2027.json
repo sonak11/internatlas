@@ -7,14 +7,60 @@
   },
   "role": "Software Engineer Intern",
   "category": "software-engineering",
-  "apply_url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Bristol-Avon-United-Kingdom/Software-Engineering-Internship--Placement-Year-_1215804",
+  "apply_url": "https://go.vansh.nyc/OA",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Bristol",
-      "country": "UK"
+      "city": "Andover",
+      "state": "MA",
+      "country": "USA"
+    },
+    {
+      "city": "Bloomington",
+      "state": "MN",
+      "country": "USA"
+    },
+    {
+      "city": "San Jose",
+      "state": "CA",
+      "country": "USA"
+    },
+    {
+      "city": "Spring",
+      "state": "TX",
+      "country": "USA"
+    },
+    {
+      "city": "Durham",
+      "state": "NC",
+      "country": "USA"
+    },
+    {
+      "city": "Westford",
+      "state": "MA",
+      "country": "USA"
+    },
+    {
+      "city": "Chippewa Falls",
+      "state": "WI",
+      "country": "USA"
+    },
+    {
+      "city": "Fort Collins",
+      "state": "CO",
+      "country": "USA"
+    },
+    {
+      "city": "Sunnyvale",
+      "state": "CA",
+      "country": "USA"
+    },
+    {
+      "city": "Roseville",
+      "state": "CA",
+      "country": "USA"
     }
   ],
   "compensation": {
@@ -41,13 +87,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-23",
+    "posted": "2026-08-28",
     "discovered": "2026-10-06",
     "last_verified": "2026-10-26"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }

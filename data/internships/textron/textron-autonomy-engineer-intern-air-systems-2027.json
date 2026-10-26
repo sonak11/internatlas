@@ -5,16 +5,22 @@
     "name": "Textron",
     "slug": "textron"
   },
-  "role": "Autonomy Engineer Intern - Air Systems",
+  "role": "Autonomy Engineer Intern, Air Systems",
   "category": "software-engineering",
-  "apply_url": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342925",
+  "apply_url": "https://go.vansh.nyc/LE",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
       "city": "Hunt Valley",
-      "country": "Cockeysville"
+      "state": "MD",
+      "country": "USA"
+    },
+    {
+      "city": "Cockeysville",
+      "state": "MD",
+      "country": "USA"
     }
   ],
   "compensation": {
@@ -49,6 +55,6 @@
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }

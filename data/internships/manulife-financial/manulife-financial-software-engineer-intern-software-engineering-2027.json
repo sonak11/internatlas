@@ -5,16 +5,16 @@
     "name": "Manulife Financial",
     "slug": "manulife-financial"
   },
-  "role": "Software Engineer Intern - Software Engineering",
+  "role": "Software Engineer Intern, Software Engineering",
   "category": "software-engineering",
-  "apply_url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Waterloo-Ontario/Summer-Intern-2027---Software-Engineering--12-Months-_JR26091053-1",
-  "season": "spring",
+  "apply_url": "https://go.vansh.nyc/Cj",
+  "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
       "city": "Waterloo",
-      "country": "ON"
+      "country": "Canada"
     }
   ],
   "compensation": {
@@ -46,6 +46,6 @@
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }

@@ -5,9 +5,9 @@
     "name": "Thrivent",
     "slug": "thrivent"
   },
-  "role": "Application Engineer Intern - Investments",
+  "role": "Application Engineer Intern, Investments",
   "category": "software-engineering",
-  "apply_url": "https://thrivent.wd5.myworkdayjobs.com/external/job/Mpls-Investments-Office/IT-Application-Engineer-Intern--Investments---Summer-2027_REQ-48511-2",
+  "apply_url": "https://go.vansh.nyc/DU",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
@@ -47,6 +47,6 @@
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }

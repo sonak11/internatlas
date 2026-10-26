@@ -1,0 +1,97 @@
+{
+  "schema_version": "1.0",
+  "id": "hewlett-packard-enterprise-data-science-intern-2027",
+  "company": {
+    "name": "Hewlett Packard Enterprise",
+    "slug": "hewlett-packard-enterprise"
+  },
+  "role": "Data Science Intern",
+  "category": "data-science",
+  "apply_url": "https://go.vansh.nyc/OD",
+  "season": "summer",
+  "year": 2027,
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "Andover",
+      "state": "MA",
+      "country": "USA"
+    },
+    {
+      "city": "Bloomington",
+      "state": "MN",
+      "country": "USA"
+    },
+    {
+      "city": "San Jose",
+      "state": "CA",
+      "country": "USA"
+    },
+    {
+      "city": "Spring",
+      "state": "TX",
+      "country": "USA"
+    },
+    {
+      "city": "Durham",
+      "state": "NC",
+      "country": "USA"
+    },
+    {
+      "city": "Westford",
+      "state": "MA",
+      "country": "USA"
+    },
+    {
+      "city": "Chippewa Falls",
+      "state": "WI",
+      "country": "USA"
+    },
+    {
+      "city": "Fort Collins",
+      "state": "CO",
+      "country": "USA"
+    },
+    {
+      "city": "Sunnyvale",
+      "state": "CA",
+      "country": "USA"
+    },
+    {
+      "city": "Roseville",
+      "state": "CA",
+      "country": "USA"
+    }
+  ],
+  "compensation": {
+    "currency": "USD",
+    "housing_stipend": false,
+    "relocation_assistance": false
+  },
+  "eligibility": {
+    "graduation_years": [],
+    "degree_levels": [],
+    "citizenship_required": false,
+    "security_clearance_required": false,
+    "visa_sponsorship": "unknown"
+  },
+  "interview": {},
+  "tech": {
+    "required_skills": [],
+    "preferred_skills": [],
+    "languages": [],
+    "frameworks": [],
+    "cloud_platforms": [],
+    "resume_keywords": []
+  },
+  "dates": {
+    "posted": "2026-08-30",
+    "discovered": "2026-10-26",
+    "last_verified": "2026-10-26"
+  },
+  "status": "open",
+  "tags": [
+    "auto-ingested",
+    "src:vanshb03"
+  ]
+}

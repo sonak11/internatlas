@@ -1,0 +1,72 @@
+{
+  "schema_version": "1.0",
+  "id": "rivian-computer-vision-software-intern-2027",
+  "company": {
+    "name": "Rivian",
+    "slug": "rivian"
+  },
+  "role": "Computer Vision Software Intern",
+  "category": "software-engineering",
+  "apply_url": "https://go.vansh.nyc/RL",
+  "season": "summer",
+  "year": 2027,
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "Palo Alto",
+      "state": "CA",
+      "country": "USA"
+    },
+    {
+      "city": "Irvine",
+      "state": "CA",
+      "country": "USA"
+    },
+    {
+      "city": "Plymouth",
+      "state": "MI",
+      "country": "USA"
+    },
+    {
+      "city": "Atlanta",
+      "state": "GA",
+      "country": "USA"
+    },
+    {
+      "city": "Normal",
+      "state": "IL",
+      "country": "USA"
+    }
+  ],
+  "compensation": {
+    "currency": "USD",
+    "housing_stipend": false,
+    "relocation_assistance": false
+  },
+  "eligibility": {
+    "graduation_years": [],
+    "degree_levels": [],
+    "citizenship_required": false,
+    "security_clearance_required": false,
+    "visa_sponsorship": "unknown"
+  },
+  "interview": {},
+  "tech": {
+    "required_skills": [],
+    "preferred_skills": [],
+    "languages": [],
+    "frameworks": [],
+    "cloud_platforms": [],
+    "resume_keywords": []
+  },
+  "dates": {
+    "posted": "2026-10-18",
+    "discovered": "2026-10-26",
+    "last_verified": "2026-10-26"
+  },
+  "status": "open",
+  "tags": [
+    "auto-ingested",
+    "src:vanshb03"
+  ]
+}

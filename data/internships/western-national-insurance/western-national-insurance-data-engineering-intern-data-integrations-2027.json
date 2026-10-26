@@ -5,9 +5,9 @@
     "name": "Western National Insurance",
     "slug": "western-national-insurance"
   },
-  "role": "Data Engineering Intern - Data & Integrations",
+  "role": "Data Engineering Intern, Data & Integrations",
   "category": "data-engineering",
-  "apply_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4537849",
+  "apply_url": "https://go.vansh.nyc/JG",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
@@ -47,6 +47,6 @@
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }

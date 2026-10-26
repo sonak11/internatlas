@@ -9,6 +9,7 @@
 | Palantir Technologies | [Deployment Strategist Intern, Warp Speed](https://go.vansh.nyc/fJ) | New York, NY | Onsite | 2026-10-22 | Rolling | 🟢 Open | ❔ |
 | Palantir Technologies | [Forward Deployed Software Engineer Intern](https://go.vansh.nyc/4h) | Chicago, IL | Onsite | 2026-07-24 | Rolling | 🟢 Open | ❔ |
 | Palantir Technologies | [Forward Deployed Software Engineer Intern](https://go.vansh.nyc/4g) | New York, NY | Onsite | 2026-07-24 | Rolling | 🟢 Open | ❔ |
+| Palantir Technologies | [Information Security Engineer Intern](https://go.vansh.nyc/OK) | New York, NY | Onsite | 2022-08-03 | Rolling | 🟢 Open | ❔ |
 | Palantir Technologies | [Software Engineer Intern](https://go.vansh.nyc/4m) | Denver, CO | Onsite | 2026-07-24 | Rolling | 🟢 Open | ❔ |
 | Palantir Technologies | [Software Engineer Intern](https://go.vansh.nyc/4k) | Washington | Onsite | 2026-07-24 | Rolling | 🟢 Open | ❔ |
 | Palantir Technologies | [Software Engineer Intern](https://jobs.lever.co/palantir/bdcfb29f-4f27-42de-933f-7f83a359b9f0) | Washington | Onsite | 2026-07-24 | Rolling | 🟢 Open | ❔ |
@@ -32,4 +33,4 @@
 
 ## Related
 
-Browse more roles in: [☁️ Cloud](../categories/cloud.md), [💻 Software Engineering](../categories/software-engineering.md)
+Browse more roles in: [☁️ Cloud](../categories/cloud.md), [🔐 Security](../categories/security.md), [💻 Software Engineering](../categories/software-engineering.md)

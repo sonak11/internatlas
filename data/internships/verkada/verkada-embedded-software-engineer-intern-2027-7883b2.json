@@ -1,0 +1,56 @@
+{
+  "schema_version": "1.0",
+  "id": "verkada-embedded-software-engineer-intern-2027-7883b2",
+  "company": {
+    "name": "Verkada",
+    "slug": "verkada"
+  },
+  "role": "Embedded Software Engineer Intern",
+  "category": "embedded",
+  "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5211595007",
+  "season": "winter",
+  "year": 2027,
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "San Mateo",
+      "state": "CA",
+      "country": "USA"
+    },
+    {
+      "city": "San Mateo",
+      "country": "USA"
+    }
+  ],
+  "compensation": {
+    "currency": "USD",
+    "housing_stipend": false,
+    "relocation_assistance": false
+  },
+  "eligibility": {
+    "graduation_years": [],
+    "degree_levels": [],
+    "citizenship_required": false,
+    "security_clearance_required": false,
+    "visa_sponsorship": "unknown"
+  },
+  "interview": {},
+  "tech": {
+    "required_skills": [],
+    "preferred_skills": [],
+    "languages": [],
+    "frameworks": [],
+    "cloud_platforms": [],
+    "resume_keywords": []
+  },
+  "dates": {
+    "posted": "2026-08-25",
+    "discovered": "2026-10-26",
+    "last_verified": "2026-10-26"
+  },
+  "status": "open",
+  "tags": [
+    "auto-ingested",
+    "src:simplify"
+  ]
+}

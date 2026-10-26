@@ -6,6 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
+| Susquehanna International Group | [Machine Learning Engineering Intern](https://go.vansh.nyc/RM) | Bala Cynwyd, PA | Onsite | 2026-10-18 | Rolling | 🟢 Open | ❔ |
 | Susquehanna International Group | [Sell Side Research Rotational Program Intern](https://go.vansh.nyc/9p) | Remote | Remote | 2026-10-14 | Rolling | 🟢 Open | ❔ |
 | Susquehanna International Group | [FPGA Engineer Intern](https://careers-sig.icims.com/jobs/11446/job?mobile=true&needsRedirect=false) | Bala Cynwyd, PA | Onsite | 2026-09-03 | Rolling | 🔴 Closed | ❔ |
 | Susquehanna International Group | [Quantitative Strategy Developer Intern](https://careers-sig.icims.com/jobs/11333/job?mobile=true&needsRedirect=false) | London +1 | Onsite | 2026-08-21 | Rolling | 🔴 Closed | ❔ |
@@ -13,4 +14,4 @@
 
 ## Related
 
-Browse more roles in: [🔩 Hardware](../categories/hardware.md), [📈 Quant](../categories/quant.md), [🔬 Research](../categories/research.md)
+Browse more roles in: [🔩 Hardware](../categories/hardware.md), [🧠 Machine Learning](../categories/machine-learning.md), [📈 Quant](../categories/quant.md), [🔬 Research](../categories/research.md)

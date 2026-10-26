@@ -7,7 +7,7 @@
   },
   "role": "Embedded Software Engineer Intern",
   "category": "embedded",
-  "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/5211595007",
+  "apply_url": "https://go.vansh.nyc/Ot",
   "season": "winter",
   "year": 2027,
   "work_mode": "onsite",
@@ -15,10 +15,6 @@
     {
       "city": "San Mateo",
       "state": "CA",
-      "country": "USA"
-    },
-    {
-      "city": "San Mateo",
       "country": "USA"
     }
   ],
@@ -51,6 +47,6 @@
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }

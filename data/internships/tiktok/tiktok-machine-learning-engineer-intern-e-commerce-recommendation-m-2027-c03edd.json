@@ -1,0 +1,54 @@
+{
+  "schema_version": "1.0",
+  "id": "tiktok-machine-learning-engineer-intern-e-commerce-recommendation-m-2027-c03edd",
+  "company": {
+    "name": "TikTok",
+    "slug": "tiktok"
+  },
+  "role": "Machine Learning Engineer Intern - E-Commerce Recommendation Mall",
+  "category": "machine-learning",
+  "apply_url": "https://lifeattiktok.com/search/7672920375646488885",
+  "season": "summer",
+  "year": 2027,
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "Seattle",
+      "state": "WA",
+      "country": "USA"
+    }
+  ],
+  "compensation": {
+    "currency": "USD",
+    "housing_stipend": false,
+    "relocation_assistance": false
+  },
+  "eligibility": {
+    "graduation_years": [],
+    "degree_levels": [
+      "phd"
+    ],
+    "citizenship_required": false,
+    "security_clearance_required": false,
+    "visa_sponsorship": "unknown"
+  },
+  "interview": {},
+  "tech": {
+    "required_skills": [],
+    "preferred_skills": [],
+    "languages": [],
+    "frameworks": [],
+    "cloud_platforms": [],
+    "resume_keywords": []
+  },
+  "dates": {
+    "posted": "2026-08-12",
+    "discovered": "2026-10-26",
+    "last_verified": "2026-10-26"
+  },
+  "status": "open",
+  "tags": [
+    "auto-ingested",
+    "src:simplify"
+  ]
+}

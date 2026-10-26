@@ -7,14 +7,19 @@
   },
   "role": "Software Engineer Intern",
   "category": "software-engineering",
-  "apply_url": "https://go.vansh.nyc/dR",
+  "apply_url": "https://go.vansh.nyc/DP",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Salt Lake City",
-      "state": "UT",
+      "city": "Clinton",
+      "state": "MD",
+      "country": "USA"
+    },
+    {
+      "city": "Clifton",
+      "state": "NJ",
       "country": "USA"
     }
   ],
@@ -43,7 +48,7 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-10-21",
+    "posted": "2026-09-28",
     "discovered": "2026-08-18",
     "last_verified": "2026-10-26"
   },

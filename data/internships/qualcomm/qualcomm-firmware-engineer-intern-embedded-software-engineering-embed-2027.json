@@ -5,16 +5,16 @@
     "name": "Qualcomm",
     "slug": "qualcomm"
   },
-  "role": "Firmware Engineer Intern - Embedded Software Engineering - Embedded Firmware and SDK Development",
+  "role": "Firmware Engineer Intern, Embedded Software Engineering, Embedded Firmware and SDK Development",
   "category": "embedded",
-  "apply_url": "https://qualcomm.eightfold.ai/careers/job/446721141411",
+  "apply_url": "https://go.vansh.nyc/II",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
       "city": "Toronto",
-      "country": "ON"
+      "country": "Canada"
     }
   ],
   "compensation": {
@@ -46,6 +46,6 @@
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }

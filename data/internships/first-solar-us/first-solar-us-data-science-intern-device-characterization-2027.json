@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0",
+  "id": "first-solar-us-data-science-intern-device-characterization-2027",
+  "company": {
+    "name": "First Solar (US)",
+    "slug": "first-solar-us"
+  },
+  "role": "Data Science Intern, Device Characterization",
+  "category": "data-science",
+  "apply_url": "https://go.vansh.nyc/H7",
+  "season": "spring",
+  "year": 2027,
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "Perrysburg",
+      "state": "OH",
+      "country": "USA"
+    }
+  ],
+  "compensation": {
+    "currency": "USD",
+    "housing_stipend": false,
+    "relocation_assistance": false
+  },
+  "eligibility": {
+    "graduation_years": [],
+    "degree_levels": [],
+    "citizenship_required": false,
+    "security_clearance_required": false,
+    "visa_sponsorship": "unknown"
+  },
+  "interview": {},
+  "tech": {
+    "required_skills": [],
+    "preferred_skills": [],
+    "languages": [],
+    "frameworks": [],
+    "cloud_platforms": [],
+    "resume_keywords": []
+  },
+  "dates": {
+    "posted": "2026-10-05",
+    "discovered": "2026-10-26",
+    "last_verified": "2026-10-26"
+  },
+  "status": "open",
+  "tags": [
+    "auto-ingested",
+    "src:vanshb03"
+  ]
+}
