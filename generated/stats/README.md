@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 📊 Statistics
 
-_Generated 2026-10-25_
+_Generated 2026-10-26_
 
 ## Top hiring companies
 
@@ -385,7 +385,6 @@ _Generated 2026-10-25_
 - Etched — Infrastructure Intern
 - Etched — Infrastructure Intern
 - Etched — Infrastructure Intern
-- Etched — RTL Intern
 - Etched — Supercomputing Intern
 - Etched — Supercomputing Intern
 - Ether.fi — GTM Engineer Intern
@@ -471,7 +470,30 @@ _Generated 2026-10-25_
 - GM financial — Oracle Application Developer Intern
 - GM financial — Software Development Engineer Intern
 - GM financial — Software Development Engineer Intern
+- Goldman Sachs — Associate Intern - The Core Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Associate Intern - Asset and Wealth Management
+- Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Intern - Americas
+- Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Intern - Investment Banking
+- Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
+- Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
+- Goldman Sachs — Quantitative Strats Analyst Intern - Americas - Investment Banking
+- Goldman Sachs — Summer Analyst Intern
+- Goldman Sachs — Summer Analyst Intern - Americas - Engineering
+- Goldman Sachs — Summer Analyst Intern - Americas - Investment Banking Quantitative Strats
 - Goldman Sachs — Summer Analyst Intern - Engineering
+- Goldman Sachs — Summer Analyst Intern - Engineering
+- Goldman Sachs — Summer Analyst Intern - Engineering
+- Goldman Sachs — Summer Analyst Intern - FICC and Equities - Sales and Trading
+- Goldman Sachs — Summer Analyst Intern - The Core Quantitative Strats
+- Goldman Sachs — Summer Associate Intern
+- Goldman Sachs — Summer Associate Intern - Multiple Teams
 - GoMaterials — Data Quality Intern - Winter 2027
 - Goodlord — Engineering Intern
 - Google — Data Scientist Intern - Product
@@ -520,7 +542,6 @@ _Generated 2026-10-25_
 - IMC Trading — Hardware Engineer Intern
 - Immuta — Full-Stack Engineering Intern - Summer 2027
 - Impulse Space — Avionics Electric Propulsion Engineering Intern
-- Impulse Space — RF Test Engineer Intern - Summer 2027
 - InfiniteQuant — Quantitative Developer Intern
 - Inmar Intelligence — Data Science Intern
 - Innovative Defense Technologies — Software Engineer Intern
@@ -560,7 +581,6 @@ _Generated 2026-10-25_
 - Johns Hopkins Applied Physics Laboratory — Electrical/Computer Engineering Intern - Space Science Electronics
 - Johns Hopkins Applied Physics Laboratory — Engineering/Science Intern - Tailored Autonomous Systems
 - Johns Hopkins Applied Physics Laboratory — Software Development Intern
-- Johns Hopkins Applied Physics Laboratory — Software Engineer/Data Scientist/Ontologist Intern - Threat Analytic Systems
 - Johns Manville — Product Management Intern
 - Johnson & Johnson — Electrical Engineer Intern - Robotics R&D
 - Johnson & Johnson — Robotics Controls & Autonomy Intern - Robotics R&D
@@ -623,8 +643,6 @@ _Generated 2026-10-25_
 - Marvell — Security Verification/Validation Engineer Intern
 - Marvell — Test Engineer Intern
 - Marvell — Test Engineer Intern
-- Marvell — Test Solutions Engineering Intern - BS - Post-Silicon Hardware Validation
-- Marvell — Test Solutions Engineering Intern - BS - Post-Silicon Hardware Validation
 - Mastercard — Data Engineer Intern
 - Maven Securities — Quant Trader Intern
 - Maven Securities — Software Developer Intern
@@ -650,7 +668,6 @@ _Generated 2026-10-25_
 - Micron Technology — Semiconductor Research & Technology Development Intern
 - Micron Technology — SSD Firmware Intern
 - Micron Technology — Yield Enhancement Intern - Data Analysis
-- Microsoft — AI Software Engineer Intern
 - Microsoft — Product Manager Intern
 - Mill — Electrical Engineer Intern
 - MITRE — AI Engineering Intern
@@ -994,12 +1011,10 @@ _Generated 2026-10-25_
 - Susquehanna International Group (SIG) — Trading System Engineering Intern
 - T-Mobile — Software Engineer Intern
 - TC Energy — Work Management Capabilities & Platforms Intern
-- TD Bank — Data Engineer Intern - Global Technology & Solutions
 - TD Bank — Portfolio Analytics Data Analyst Intern/Co-op
 - TD Bank — Portfolio Analytics Data Analyst Intern/Co-op - Winter 2027
 - TD Bank — Portfolio Analytics Developer Intern/Co-op
 - TD Bank — Portfolio Analytics Developer Intern/Co-op - Winter 2027
-- TD Bank — Software Engineer Intern - Global Technology & Solutions
 - Tencent — Natural Language Processing Intern
 - Tencent — Natural Language Processing Intern
 - Tenstorrent — Software Engineering Intern, Power Modeling & AI Tools
