@@ -1,6 +1,6 @@
 {
   "generated": "2026-10-26",
-  "count": 7361,
+  "count": 7371,
   "internships": [
     {
       "schema_version": "1.0",
@@ -3965,6 +3965,88 @@
     },
     {
       "schema_version": "1.0",
+      "id": "adobe-machine-learning-engineer-intern-2027-4c9bc8",
+      "company": {
+        "name": "Adobe",
+        "slug": "adobe"
+      },
+      "role": "Machine Learning Engineer Intern",
+      "category": "machine-learning",
+      "apply_url": "https://go.vansh.nyc/BO",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        },
+        {
+          "city": "Waltham",
+          "state": "MA",
+          "country": "USA"
+        },
+        {
+          "city": "San Francisco",
+          "state": "CA",
+          "country": "USA"
+        },
+        {
+          "city": "Austin",
+          "state": "TX",
+          "country": "USA"
+        },
+        {
+          "city": "Seattle",
+          "state": "WA",
+          "country": "USA"
+        },
+        {
+          "city": "Lehi",
+          "state": "UT",
+          "country": "USA"
+        },
+        {
+          "city": "New York",
+          "state": "NY",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-24",
+        "discovered": "2026-10-26",
+        "last_verified": "2026-10-26"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "adobe-machine-learning-engineer-intern-2027",
       "company": {
         "name": "Adobe",
@@ -6912,7 +6994,7 @@
         "discovered": "2026-10-23",
         "last_verified": "2026-10-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -7065,7 +7147,7 @@
         "discovered": "2026-10-05",
         "last_verified": "2026-10-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -36749,7 +36831,7 @@
         "discovered": "2026-10-25",
         "last_verified": "2026-10-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -36802,7 +36884,7 @@
         "discovered": "2026-10-17",
         "last_verified": "2026-10-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -39183,7 +39265,7 @@
         "discovered": "2026-10-19",
         "last_verified": "2026-10-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -79062,7 +79144,7 @@
         "discovered": "2026-10-22",
         "last_verified": "2026-10-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -79129,7 +79211,7 @@
         "discovered": "2026-10-22",
         "last_verified": "2026-10-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -79196,7 +79278,7 @@
         "discovered": "2026-10-22",
         "last_verified": "2026-10-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -79263,7 +79345,7 @@
         "discovered": "2026-10-22",
         "last_verified": "2026-10-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -79382,7 +79464,7 @@
         "discovered": "2026-10-23",
         "last_verified": "2026-10-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -79449,7 +79531,7 @@
         "discovered": "2026-10-23",
         "last_verified": "2026-10-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -79516,7 +79598,7 @@
         "discovered": "2026-10-22",
         "last_verified": "2026-10-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -79583,7 +79665,7 @@
         "discovered": "2026-10-22",
         "last_verified": "2026-10-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -79650,7 +79732,7 @@
         "discovered": "2026-10-22",
         "last_verified": "2026-10-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -89472,7 +89554,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-10-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify",
@@ -93603,7 +93685,7 @@
         "discovered": "2026-10-04",
         "last_verified": "2026-10-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -101096,6 +101178,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "delta-dental-of-missouri-data-science-intern-2027",
+      "company": {
+        "name": "Delta Dental Of Missouri",
+        "slug": "delta-dental-of-missouri"
+      },
+      "role": "Data Science Intern",
+      "category": "data-science",
+      "apply_url": "https://go.vansh.nyc/BT",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Fenton",
+          "state": "MO",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-23",
+        "discovered": "2026-10-26",
+        "last_verified": "2026-10-26"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "demco-products-it-intern-2027",
       "company": {
         "name": "Demco Products",
@@ -103216,6 +103350,162 @@
       "tags": [
         "auto-ingested",
         "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "docusign-agentic-ai-engineer-intern-2027",
+      "company": {
+        "name": "DocuSign",
+        "slug": "docusign"
+      },
+      "role": "Agentic AI Engineer Intern",
+      "category": "ai",
+      "apply_url": "https://go.vansh.nyc/BS",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Francisco",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "no"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-23",
+        "discovered": "2026-10-26",
+        "last_verified": "2026-10-26"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "docusign-ai-platform-engineer-intern-2027",
+      "company": {
+        "name": "DocuSign",
+        "slug": "docusign"
+      },
+      "role": "AI Platform Engineer Intern",
+      "category": "ai",
+      "apply_url": "https://go.vansh.nyc/BR",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Francisco",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "no"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-23",
+        "discovered": "2026-10-26",
+        "last_verified": "2026-10-26"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "docusign-software-developer-intern-2027",
+      "company": {
+        "name": "DocuSign",
+        "slug": "docusign"
+      },
+      "role": "Software Developer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://go.vansh.nyc/BU",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Francisco",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "no"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-23",
+        "discovered": "2026-10-26",
+        "last_verified": "2026-10-26"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
       ]
     },
     {
@@ -113148,7 +113438,7 @@
         "discovered": "2026-10-21",
         "last_verified": "2026-10-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -120326,7 +120616,7 @@
         "discovered": "2026-10-13",
         "last_verified": "2026-10-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -120443,7 +120733,7 @@
         "discovered": "2026-10-13",
         "last_verified": "2026-10-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -120624,7 +120914,7 @@
         "discovered": "2026-10-13",
         "last_verified": "2026-10-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -120846,7 +121136,7 @@
         "discovered": "2026-10-17",
         "last_verified": "2026-10-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -140639,7 +140929,7 @@
         "discovered": "2026-10-22",
         "last_verified": "2026-10-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -140956,7 +141246,7 @@
         "discovered": "2026-10-21",
         "last_verified": "2026-10-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -144349,7 +144639,7 @@
         "discovered": "2026-08-27",
         "last_verified": "2026-10-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -144454,7 +144744,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-10-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -144507,7 +144797,7 @@
         "discovered": "2026-10-11",
         "last_verified": "2026-10-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -144560,7 +144850,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-10-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -144612,7 +144902,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -144664,7 +144954,7 @@
         "discovered": "2026-10-06",
         "last_verified": "2026-10-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -144718,7 +145008,7 @@
         "discovered": "2026-09-16",
         "last_verified": "2026-10-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -144771,7 +145061,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -144822,7 +145112,7 @@
         "discovered": "2026-10-12",
         "last_verified": "2026-10-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -144876,7 +145166,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -144927,7 +145217,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -144978,7 +145268,7 @@
         "discovered": "2026-10-10",
         "last_verified": "2026-10-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -145029,7 +145319,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-10-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -145081,7 +145371,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -145132,7 +145422,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -145288,7 +145578,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -145341,7 +145631,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -145449,7 +145739,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -145502,7 +145792,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -145556,7 +145846,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-10-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -145658,7 +145948,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -145813,7 +146103,7 @@
         "discovered": "2026-08-29",
         "last_verified": "2026-10-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -145866,7 +146156,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-10-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -155338,6 +155628,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "hewlett-packard-enterprise-ai-ml-developer-intern-2027",
+      "company": {
+        "name": "Hewlett Packard Enterprise",
+        "slug": "hewlett-packard-enterprise"
+      },
+      "role": "AI/ML Developer Intern",
+      "category": "machine-learning",
+      "apply_url": "https://go.vansh.nyc/BM",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-26",
+        "discovered": "2026-10-26",
+        "last_verified": "2026-10-26"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "hewlett-packard-enterprise-cybersecurity-engineering-intern-2027",
       "company": {
         "name": "Hewlett Packard Enterprise",
@@ -159777,6 +160119,58 @@
       "tags": [
         "auto-ingested",
         "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "hook-music-data-intern-2027",
+      "company": {
+        "name": "Hook Music",
+        "slug": "hook-music"
+      },
+      "role": "Data Intern",
+      "category": "software-engineering",
+      "apply_url": "https://go.vansh.nyc/BV",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "New York",
+          "state": "NY",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-24",
+        "discovered": "2026-10-26",
+        "last_verified": "2026-10-26"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
       ]
     },
     {
@@ -200570,7 +200964,7 @@
         "discovered": "2026-10-09",
         "last_verified": "2026-10-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -200621,7 +201015,7 @@
         "discovered": "2026-10-09",
         "last_verified": "2026-10-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -220348,7 +220742,7 @@
         "discovered": "2026-10-09",
         "last_verified": "2026-10-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -228936,6 +229330,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "netflix-software-engineer-intern-2027-c7c72e",
+      "company": {
+        "name": "Netflix",
+        "slug": "netflix"
+      },
+      "role": "Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://go.vansh.nyc/BN",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Los Gatos",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-20",
+        "discovered": "2026-10-26",
+        "last_verified": "2026-10-26"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "netflix-software-engineer-intern-2027",
       "company": {
         "name": "Netflix",
@@ -235566,7 +236012,7 @@
         "discovered": "2026-09-16",
         "last_verified": "2026-10-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -236634,7 +237080,7 @@
         "discovered": "2026-07-25",
         "last_verified": "2026-10-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -274455,7 +274901,7 @@
         "discovered": "2026-10-25",
         "last_verified": "2026-10-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -274509,7 +274955,7 @@
         "discovered": "2026-10-09",
         "last_verified": "2026-10-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -290596,6 +291042,58 @@
       "tags": [
         "auto-ingested",
         "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "rtx-embedded-software-engineering-intern-2027",
+      "company": {
+        "name": "RTX",
+        "slug": "rtx"
+      },
+      "role": "Embedded Software Engineering Intern",
+      "category": "embedded",
+      "apply_url": "https://go.vansh.nyc/BP",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "East Hartford",
+          "state": "CT",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": true,
+        "security_clearance_required": false,
+        "visa_sponsorship": "no"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-26",
+        "discovered": "2026-10-26",
+        "last_verified": "2026-10-26"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
       ]
     },
     {
@@ -308980,7 +309478,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "skydio-autonomy-engineer-intern-deep-learning-computer-vision-2027",
+      "id": "skydio-autonomy-engineer-intern-deep-learning-computer-vision-2027-0743fd",
       "company": {
         "name": "Skydio",
         "slug": "skydio"
@@ -309028,6 +309526,58 @@
       "tags": [
         "auto-ingested",
         "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "skydio-autonomy-engineer-intern-deep-learning-computer-vision-2027",
+      "company": {
+        "name": "Skydio",
+        "slug": "skydio"
+      },
+      "role": "Autonomy Engineer Intern, Deep Learning / Computer Vision",
+      "category": "machine-learning",
+      "apply_url": "https://go.vansh.nyc/BL",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Mateo",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-25",
+        "discovered": "2026-10-26",
+        "last_verified": "2026-10-26"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
       ]
     },
     {
@@ -349517,7 +350067,7 @@
         "discovered": "2026-10-13",
         "last_verified": "2026-10-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"

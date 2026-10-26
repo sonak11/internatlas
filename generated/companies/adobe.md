@@ -9,6 +9,7 @@
 | Adobe | [AI & Architecture Intern](https://go.vansh.nyc/bu) | San Jose, CA | Onsite | 2026-10-19 | Rolling | 🟢 Open | ❔ |
 | Adobe | [AI & Architecture Intern](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---AI---Architecture_R172998) | San Jose, CA | Onsite | 2026-10-19 | Rolling | 🟢 Open | ❔ |
 | Adobe | [Data, AI & Innovation Intern](https://go.vansh.nyc/bv) | San Jose, CA | Onsite | 2026-10-19 | Rolling | 🟢 Open | ❔ |
+| Adobe | [Machine Learning Engineer Intern](https://go.vansh.nyc/BO) | San Jose, CA +6 | Onsite | 2026-10-24 | Rolling | 🟢 Open | ❔ |
 | Adobe | [Machine Learning Engineer Intern](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Machine-Learning-Engineer_R171519) | Seattle, WA +5 | Onsite | 2026-08-31 | Rolling | 🟢 Open | ❔ |
 | Adobe | [Security Engineer Intern](https://go.vansh.nyc/cM) | San Jose, CA | Onsite | 2026-10-20 | Rolling | 🟢 Open | ❔ |
 | Adobe | [Security Engineer Intern](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Security-Engineer_R173001) | San Jose, CA | Onsite | 2026-10-20 | Rolling | 🟢 Open | ❔ |
