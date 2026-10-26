@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "schonfeld-quantitative-research-intern-2027-95543a",
+  "id": "booz-allen-hamilton-systems-engineer-intern-games-2027",
   "company": {
-    "name": "Schonfeld",
-    "slug": "schonfeld"
+    "name": "Booz Allen Hamilton",
+    "slug": "booz-allen-hamilton"
   },
-  "role": "Quantitative Research Intern",
-  "category": "quant",
-  "apply_url": "https://job-boards.greenhouse.io/schonfeld/jobs/8172076",
+  "role": "Systems Engineer Intern, Games",
+  "category": "software-engineering",
+  "apply_url": "https://go.vansh.nyc/T0",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Miami",
-      "state": "FL",
+      "city": "Albuquerque",
+      "state": "NM",
       "country": "USA"
     }
   ],
@@ -25,9 +25,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "phd"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -42,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-04",
-    "discovered": "2026-09-05",
+    "posted": "2026-10-26",
+    "discovered": "2026-10-26",
     "last_verified": "2026-10-26"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }

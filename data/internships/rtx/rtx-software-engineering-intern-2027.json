@@ -7,13 +7,13 @@
   },
   "role": "Software Engineering Intern",
   "category": "software-engineering",
-  "apply_url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CA-SAN-JOSE-826--200-Holger-Way--BLDG-826/Software-Engineering-Intern--Summer-2027-_01883026",
+  "apply_url": "https://go.vansh.nyc/T2",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "San Jose",
+      "city": "San Diego",
       "state": "CA",
       "country": "USA"
     }
@@ -42,11 +42,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-10-20",
+    "posted": "2026-10-26",
     "discovered": "2026-08-11",
-    "last_verified": "2026-10-24"
+    "last_verified": "2026-10-26"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:vanshb03"

@@ -1,6 +1,6 @@
 {
   "generated": "2026-10-26",
-  "count": 7988,
+  "count": 8000,
   "internships": [
     {
       "schema_version": "1.0",
@@ -42,7 +42,7 @@
         "discovered": "2026-10-13",
         "last_verified": "2026-10-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -2163,7 +2163,7 @@
         "discovered": "2026-10-23",
         "last_verified": "2026-10-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -2480,6 +2480,58 @@
       "tags": [
         "auto-ingested",
         "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "abbvie-cybersecurity-intern-business-technology-solutions-2027",
+      "company": {
+        "name": "AbbVie",
+        "slug": "abbvie"
+      },
+      "role": "Cybersecurity Intern, Business Technology Solutions",
+      "category": "security",
+      "apply_url": "https://go.vansh.nyc/SW",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "North Chicago",
+          "state": "IL",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-26",
+        "discovered": "2026-10-26",
+        "last_verified": "2026-10-26"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
       ]
     },
     {
@@ -11665,6 +11717,57 @@
     },
     {
       "schema_version": "1.0",
+      "id": "altera-undergrad-technical-intern-2027",
+      "company": {
+        "name": "Altera",
+        "slug": "altera"
+      },
+      "role": "Undergrad Technical Intern",
+      "category": "software-engineering",
+      "apply_url": "https://go.vansh.nyc/SU",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Toronto",
+          "country": "Canada"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-26",
+        "discovered": "2026-10-26",
+        "last_verified": "2026-10-26"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "altera-corporation-ai-software-development-engineer-intern-2026",
       "company": {
         "name": "Altera Corporation",
@@ -17020,7 +17123,7 @@
         "discovered": "2026-09-21",
         "last_verified": "2026-10-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -36777,7 +36880,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-10-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -40109,7 +40212,7 @@
         "discovered": "2026-10-01",
         "last_verified": "2026-10-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -50226,7 +50329,7 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-10-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -62985,6 +63088,110 @@
     },
     {
       "schema_version": "1.0",
+      "id": "booz-allen-hamilton-software-developer-intern-2027-5f7a0f",
+      "company": {
+        "name": "Booz Allen Hamilton",
+        "slug": "booz-allen-hamilton"
+      },
+      "role": "Software Developer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://go.vansh.nyc/SY",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Detroit",
+          "state": "MI",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": true,
+        "security_clearance_required": false,
+        "visa_sponsorship": "no"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-26",
+        "discovered": "2026-10-26",
+        "last_verified": "2026-10-26"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "booz-allen-hamilton-software-developer-intern-2027-bbaacf",
+      "company": {
+        "name": "Booz Allen Hamilton",
+        "slug": "booz-allen-hamilton"
+      },
+      "role": "Software Developer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://go.vansh.nyc/SZ",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Dayton",
+          "state": "OH",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": true,
+        "security_clearance_required": false,
+        "visa_sponsorship": "no"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-26",
+        "discovered": "2026-10-26",
+        "last_verified": "2026-10-26"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "booz-allen-hamilton-software-developer-intern-2027",
       "company": {
         "name": "Booz Allen Hamilton",
@@ -63079,6 +63286,110 @@
       "dates": {
         "posted": "2026-10-16",
         "discovered": "2026-10-17",
+        "last_verified": "2026-10-26"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "booz-allen-hamilton-systems-engineer-intern-2027",
+      "company": {
+        "name": "Booz Allen Hamilton",
+        "slug": "booz-allen-hamilton"
+      },
+      "role": "Systems Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://go.vansh.nyc/SX",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Detroit",
+          "state": "MI",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": true,
+        "security_clearance_required": false,
+        "visa_sponsorship": "no"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-26",
+        "discovered": "2026-10-26",
+        "last_verified": "2026-10-26"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "booz-allen-hamilton-systems-engineer-intern-games-2027",
+      "company": {
+        "name": "Booz Allen Hamilton",
+        "slug": "booz-allen-hamilton"
+      },
+      "role": "Systems Engineer Intern, Games",
+      "category": "software-engineering",
+      "apply_url": "https://go.vansh.nyc/T0",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Albuquerque",
+          "state": "NM",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-26",
+        "discovered": "2026-10-26",
         "last_verified": "2026-10-26"
       },
       "status": "open",
@@ -80356,7 +80667,7 @@
         "discovered": "2026-10-22",
         "last_verified": "2026-10-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -96378,7 +96689,7 @@
         "discovered": "2026-10-16",
         "last_verified": "2026-10-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -109651,7 +109962,7 @@
         "discovered": "2026-08-11",
         "last_verified": "2026-10-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -117159,7 +117470,7 @@
         "discovered": "2026-08-24",
         "last_verified": "2026-10-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -142257,7 +142568,7 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-10-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -149705,7 +150016,7 @@
         "discovered": "2026-10-26",
         "last_verified": "2026-10-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -154908,7 +155219,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "glean-software-engineer-intern-2027",
+      "id": "glean-software-engineer-intern-2027-255d92",
       "company": {
         "name": "Glean",
         "slug": "glean"
@@ -154952,13 +155263,68 @@
       },
       "dates": {
         "posted": "2026-10-01",
-        "discovered": "2026-10-02",
+        "discovered": "2026-10-26",
         "last_verified": "2026-10-26"
       },
       "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "glean-software-engineer-intern-2027",
+      "company": {
+        "name": "Glean",
+        "slug": "glean"
+      },
+      "role": "Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://go.vansh.nyc/SV",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Mountain View",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters",
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-26",
+        "discovered": "2026-10-02",
+        "last_verified": "2026-10-26"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
       ]
     },
     {
@@ -171407,6 +171773,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "highmark-health-enterprise-architecture-software-engineer-architect-intern-2027",
+      "company": {
+        "name": "Highmark Health",
+        "slug": "highmark-health"
+      },
+      "role": "Enterprise Architecture Software Engineer & Architect Intern",
+      "category": "software-engineering",
+      "apply_url": "https://go.vansh.nyc/SS",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Pittsburgh",
+          "state": "PA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-26",
+        "discovered": "2026-10-26",
+        "last_verified": "2026-10-26"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "highmark-health-evaluation-analytics-graduate-intern-2027",
       "company": {
         "name": "Highmark Health",
@@ -172213,6 +172631,57 @@
       "tags": [
         "auto-ingested",
         "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "highmark-health-software-engineer-intern-2027",
+      "company": {
+        "name": "Highmark Health",
+        "slug": "highmark-health"
+      },
+      "role": "Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://go.vansh.nyc/SR",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-26",
+        "discovered": "2026-10-26",
+        "last_verified": "2026-10-26"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03",
+        "remote-available"
       ]
     },
     {
@@ -190232,7 +190701,7 @@
         "discovered": "2026-10-10",
         "last_verified": "2026-10-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -190284,7 +190753,7 @@
         "discovered": "2026-10-26",
         "last_verified": "2026-10-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -190336,7 +190805,7 @@
         "discovered": "2026-10-10",
         "last_verified": "2026-10-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -191508,7 +191977,7 @@
         "discovered": "2026-10-13",
         "last_verified": "2026-10-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -194152,7 +194621,7 @@
         "discovered": "2026-09-17",
         "last_verified": "2026-10-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -208787,7 +209256,7 @@
         "discovered": "2026-10-21",
         "last_verified": "2026-10-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -212654,7 +213123,7 @@
         "discovered": "2026-10-22",
         "last_verified": "2026-10-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -212706,7 +213175,7 @@
         "discovered": "2026-10-22",
         "last_verified": "2026-10-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -215315,7 +215784,7 @@
         "discovered": "2026-10-14",
         "last_verified": "2026-10-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -222619,7 +223088,7 @@
         "discovered": "2026-10-25",
         "last_verified": "2026-10-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -241039,7 +241508,7 @@
         "discovered": "2026-10-05",
         "last_verified": "2026-10-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -254840,7 +255309,7 @@
         "discovered": "2026-10-14",
         "last_verified": "2026-10-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -258913,14 +259382,14 @@
       },
       "role": "Software Engineering Intern",
       "category": "software-engineering",
-      "apply_url": "https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Colorado-Aurora/XMLNAME-2027-Software-Engineering-Intern---Aurora-CO_R10256243",
+      "apply_url": "https://go.vansh.nyc/ST",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
       "locations": [
         {
-          "city": "Aurora",
-          "state": "CO",
+          "city": "Beavercreek",
+          "state": "OH",
           "country": "USA"
         }
       ],
@@ -258948,11 +259417,11 @@
         "resume_keywords": []
       },
       "dates": {
-        "posted": "2026-10-16",
+        "posted": "2026-10-26",
         "discovered": "2026-10-17",
-        "last_verified": "2026-10-24"
+        "last_verified": "2026-10-26"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -276938,7 +277407,7 @@
         "discovered": "2026-10-23",
         "last_verified": "2026-10-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -277044,7 +277513,7 @@
         "discovered": "2026-10-23",
         "last_verified": "2026-10-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -324995,13 +325464,13 @@
       },
       "role": "Software Engineering Intern",
       "category": "software-engineering",
-      "apply_url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CA-SAN-JOSE-826--200-Holger-Way--BLDG-826/Software-Engineering-Intern--Summer-2027-_01883026",
+      "apply_url": "https://go.vansh.nyc/T2",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
       "locations": [
         {
-          "city": "San Jose",
+          "city": "San Diego",
           "state": "CA",
           "country": "USA"
         }
@@ -325030,11 +325499,11 @@
         "resume_keywords": []
       },
       "dates": {
-        "posted": "2026-10-20",
+        "posted": "2026-10-26",
         "discovered": "2026-08-11",
-        "last_verified": "2026-10-24"
+        "last_verified": "2026-10-26"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -328186,6 +328655,110 @@
     },
     {
       "schema_version": "1.0",
+      "id": "samsara-account-development-representative-intern-atlanta-2027-47c498",
+      "company": {
+        "name": "Samsara",
+        "slug": "samsara",
+        "career_page": "https://www.samsara.com/company/careers"
+      },
+      "role": "Account Development Representative Intern - Atlanta",
+      "category": "software-engineering",
+      "apply_url": "https://www.samsara.com/company/careers/roles/8325373?gh_jid=8325373",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Atlanta",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-26",
+        "discovered": "2026-10-26",
+        "last_verified": "2026-10-26"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "samsara-account-development-representative-intern-atlanta-2027-94fa16",
+      "company": {
+        "name": "Samsara",
+        "slug": "samsara",
+        "career_page": "https://www.samsara.com/company/careers"
+      },
+      "role": "Account Development Representative Intern - Atlanta",
+      "category": "software-engineering",
+      "apply_url": "https://www.samsara.com/company/careers/roles/8325057?gh_jid=8325057",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Atlanta",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-26",
+        "discovered": "2026-10-26",
+        "last_verified": "2026-10-26"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "samsara-account-development-representative-intern-atlanta-2027",
       "company": {
         "name": "Samsara",
@@ -328238,6 +328811,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "samsara-account-development-representative-intern-phoenix-2027-cb42a8",
+      "company": {
+        "name": "Samsara",
+        "slug": "samsara",
+        "career_page": "https://www.samsara.com/company/careers"
+      },
+      "role": "Account Development Representative Intern - Phoenix",
+      "category": "software-engineering",
+      "apply_url": "https://www.samsara.com/company/careers/roles/8325056?gh_jid=8325056",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Phoenix",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-26",
+        "discovered": "2026-10-26",
+        "last_verified": "2026-10-26"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "samsara-account-development-representative-intern-phoenix-2027-cef405",
       "company": {
         "name": "Samsara",
@@ -328280,6 +328905,58 @@
       "dates": {
         "posted": "2026-10-23",
         "discovered": "2026-10-24",
+        "last_verified": "2026-10-26"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "samsara-account-development-representative-intern-phoenix-2027-d17bf0",
+      "company": {
+        "name": "Samsara",
+        "slug": "samsara",
+        "career_page": "https://www.samsara.com/company/careers"
+      },
+      "role": "Account Development Representative Intern - Phoenix",
+      "category": "software-engineering",
+      "apply_url": "https://www.samsara.com/company/careers/roles/8325371?gh_jid=8325371",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Phoenix",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-26",
+        "discovered": "2026-10-26",
         "last_verified": "2026-10-26"
       },
       "status": "open",
@@ -330316,7 +330993,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "schonfeld-quantitative-research-intern-2027-95543a",
+      "id": "schonfeld-quantitative-research-intern-2027",
       "company": {
         "name": "Schonfeld",
         "slug": "schonfeld"
@@ -330331,59 +331008,6 @@
         {
           "city": "Miami",
           "state": "FL",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [
-          "phd"
-        ],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-09-04",
-        "discovered": "2026-09-05",
-        "last_verified": "2026-10-26"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "schonfeld-quantitative-research-intern-2027",
-      "company": {
-        "name": "Schonfeld",
-        "slug": "schonfeld"
-      },
-      "role": "Quantitative Research Intern",
-      "category": "quant",
-      "apply_url": "https://job-boards.greenhouse.io/schonfeld/jobs/8172074",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "NYC",
           "country": "USA"
         }
       ],
@@ -330470,7 +331094,7 @@
         "discovered": "2026-09-08",
         "last_verified": "2026-10-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -342939,7 +343563,7 @@
         "discovered": "2026-10-26",
         "last_verified": "2026-10-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -342991,7 +343615,7 @@
         "discovered": "2026-10-01",
         "last_verified": "2026-10-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -355500,7 +356124,7 @@
         "discovered": "2026-10-24",
         "last_verified": "2026-10-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -370400,7 +371024,7 @@
         "discovered": "2026-10-26",
         "last_verified": "2026-10-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03",
@@ -370457,7 +371081,7 @@
         "discovered": "2026-10-15",
         "last_verified": "2026-10-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify",
@@ -376293,7 +376917,7 @@
         "discovered": "2026-09-26",
         "last_verified": "2026-10-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -376397,7 +377021,7 @@
         "discovered": "2026-09-11",
         "last_verified": "2026-10-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -395821,7 +396445,7 @@
         "discovered": "2026-09-09",
         "last_verified": "2026-10-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -396456,7 +397080,7 @@
         "discovered": "2026-09-09",
         "last_verified": "2026-10-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -407306,7 +407930,7 @@
         "discovered": "2026-10-02",
         "last_verified": "2026-10-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -415774,7 +416398,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-10-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -424268,7 +424892,7 @@
         "discovered": "2026-10-26",
         "last_verified": "2026-10-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
