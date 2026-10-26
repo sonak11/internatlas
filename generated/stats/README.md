@@ -33,10 +33,10 @@ _Generated 2026-10-26_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 4344 | `███████████████` |
+| software-engineering | 4347 | `███████████████` |
 | ai | 633 | `██` |
 | quant | 356 | `█` |
-| machine-learning | 339 | `█` |
+| machine-learning | 340 | `█` |
 | data-science | 283 | `█` |
 | hardware | 279 | `█` |
 | product | 240 | `█` |
@@ -49,9 +49,13 @@ _Generated 2026-10-26_
 
 ## Newest listings
 
+- 2026-10-26 — **FTI Consulting**: [Data & Analytics Intern](https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/London-United-Kingdom/XMLNAME-2027-Summer-Internship--Data---Analytics_JR260771)
+- 2026-10-25 — **ConnectPrep**: [Data Analyst Intern](https://go.vansh.nyc/BG)
 - 2026-10-25 — **Notion**: [Software Engineer Intern](https://go.vansh.nyc/BE)
 - 2026-10-25 — **Notion**: [Software Engineer Intern, Mobile](https://go.vansh.nyc/BF)
+- 2026-10-25 — **Skydio**: [Autonomy Engineer Intern](https://go.vansh.nyc/BH)
 - 2026-10-25 — **Skydio**: [Autonomy Engineer Intern, Computer Vision / Deep Learning](https://go.vansh.nyc/BA)
+- 2026-10-25 — **Skydio**: [Autonomy Engineer Intern - Deep Learning / Computer Vision](https://jobs.ashbyhq.com/skydio/f1a72f5b-6157-47c1-8de9-379a32c7419f/application?embed=true)
 - 2026-10-25 — **Skydio**: [Embedded Software Engineer Intern](https://go.vansh.nyc/BD)
 - 2026-10-25 — **Skydio**: [Flight Test Intern](https://go.vansh.nyc/Bz)
 - 2026-10-25 — **Skydio**: [Hardware Test and Reliability Intern](https://go.vansh.nyc/By)
@@ -65,10 +69,6 @@ _Generated 2026-10-26_
 - 2026-10-23 — **1Password**: [Developer Intern - Credential Brokering](https://jobs.ashbyhq.com/1password/67bfbd8b-aba9-42b1-a8a8-833367888fba/application?embed=true)
 - 2026-10-23 — **1Password**: [Developer Intern, Credential Brokering](https://go.vansh.nyc/gT)
 - 2026-10-23 — **1Password**: [Developer Intern - Developer Interfaces](https://jobs.ashbyhq.com/1password/00f861d4-2b4a-4159-b6dc-8aed0cde6e39/application?embed=true)
-- 2026-10-23 — **1Password**: [Developer Intern, Developer Interfaces](https://go.vansh.nyc/gS)
-- 2026-10-23 — **1Password**: [Product Management Intern - End User Experience](https://jobs.ashbyhq.com/1password/bef2e88e-9590-467d-8ba6-821b30529003/application?embed=true)
-- 2026-10-23 — **1Password**: [Product Management Intern, End User Experience](https://go.vansh.nyc/gR)
-- 2026-10-23 — **Aerospace Corporation**: [Defensive Cyber Operations Intern](https://go.vansh.nyc/h5)
 
 ## Recently closed
 
@@ -398,6 +398,7 @@ _Generated 2026-10-26_
 - fab2 — Software Engineering Intern
 - Fannie Mae — Finance Analytics Intern - Analytics & Modeling Program
 - Federated Insurance — IT Intern
+- FedEx Freight — Data Scientist Intern
 - Fidelity Investments — Quantitative Research Intern - Multi-Asset Systematic Research Team
 - Fidelity Investments — Quantitative Research Intern - Strategic Advisers
 - Fidelity Investments — Undergraduate Internship - Software
@@ -470,30 +471,7 @@ _Generated 2026-10-26_
 - GM financial — Oracle Application Developer Intern
 - GM financial — Software Development Engineer Intern
 - GM financial — Software Development Engineer Intern
-- Goldman Sachs — Associate Intern - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Associate Intern - Asset and Wealth Management
-- Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Americas
-- Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Investment Banking
-- Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
-- Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
-- Goldman Sachs — Quantitative Strats Analyst Intern - Americas - Investment Banking
-- Goldman Sachs — Summer Analyst Intern
-- Goldman Sachs — Summer Analyst Intern - Americas - Engineering
-- Goldman Sachs — Summer Analyst Intern - Americas - Investment Banking Quantitative Strats
 - Goldman Sachs — Summer Analyst Intern - Engineering
-- Goldman Sachs — Summer Analyst Intern - Engineering
-- Goldman Sachs — Summer Analyst Intern - Engineering
-- Goldman Sachs — Summer Analyst Intern - FICC and Equities - Sales and Trading
-- Goldman Sachs — Summer Analyst Intern - The Core Quantitative Strats
-- Goldman Sachs — Summer Associate Intern
-- Goldman Sachs — Summer Associate Intern - Multiple Teams
 - GoMaterials — Data Quality Intern - Winter 2027
 - Goodlord — Engineering Intern
 - Google — Data Scientist Intern - Product
@@ -631,6 +609,7 @@ _Generated 2026-10-26_
 - Lunar Outpost — Test Engineering Intern
 - Lyft — Data Analyst Intern
 - Mackenzie Investments — Intern
+- Man Group — Systematic Quant Intern
 - Marquee Brands — Consumer Insights Intern
 - Marsh — Summer Analyst Intern - Data and Analytics
 - Marvell — Analog Design Intern

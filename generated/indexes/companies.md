@@ -343,7 +343,7 @@
 | [Concentric](../companies/concentric.md) | 0/1 | ai |
 | [Conduent](../companies/conduent.md) | 0/1 | ai |
 | [Cone Health](../companies/cone-health.md) | 0/2 | ai |
-| [ConnectPrep](../companies/connectprep.md) | 1/1 | software-engineering |
+| [ConnectPrep](../companies/connectprep.md) | 2/2 | software-engineering |
 | [ConocoPhillips](../companies/conocophillips.md) | 1/2 | quant, software-engineering |
 | [Consensus Cloud Solutions](../companies/consensus-cloud-solutions.md) | 0/1 | software-engineering |
 | [Constellation Brands](../companies/constellation-brands.md) | 1/1 | ai |
@@ -514,13 +514,13 @@
 | [FHLBank Chicago](../companies/fhlbank-chicago.md) | 1/1 | ai |
 | [FNBO](../companies/fnbo.md) | 1/1 | software-engineering |
 | [FOX](../companies/fox.md) | 0/1 | software-engineering |
-| [FTI Consulting](../companies/fti-consulting.md) | 0/2 | software-engineering |
+| [FTI Consulting](../companies/fti-consulting.md) | 1/3 | software-engineering |
 | [Fab2](../companies/fab2.md) | 3/10 | design, embedded, software-engineering |
 | [Faire](../companies/faire.md) | 1/1 | machine-learning |
 | [FanDuel](../companies/fanduel.md) | 1/1 | software-engineering |
 | [Fannie Mae](../companies/fannie-mae.md) | 1/6 | data-science, quant, software-engineering |
 | [Faraday Future](../companies/faraday-future.md) | 1/1 | software-engineering |
-| [FedEx Freight](../companies/fedex-freight.md) | 2/2 | data-science, software-engineering |
+| [FedEx Freight](../companies/fedex-freight.md) | 1/2 | data-science, software-engineering |
 | [Federated Insurance](../companies/federated-insurance.md) | 0/1 | software-engineering |
 | [Felix Magazine](../companies/felix-magazine.md) | 3/4 | software-engineering |
 | [Fenwick & West](../companies/fenwick-west.md) | 1/1 | software-engineering |
@@ -603,7 +603,7 @@
 | [GoFundMe](../companies/gofundme.md) | 1/1 | product |
 | [GoMaterials](../companies/gomaterials.md) | 0/1 | software-engineering |
 | [Golden Pet Brands](../companies/golden-pet-brands.md) | 0/1 | software-engineering |
-| [Goldman Sachs](../companies/goldman-sachs.md) | 0/30 | product, quant, software-engineering |
+| [Goldman Sachs](../companies/goldman-sachs.md) | 23/30 | product, quant, software-engineering |
 | [Goodlord](../companies/goodlord.md) | 0/1 | software-engineering |
 | [Google](../companies/google.md) | 13/26 | data-science, hardware, product, research, software-engineering |
 | [Gordon Food Service](../companies/gordon-food-service.md) | 8/12 | data-engineering, data-science, product, software-engineering |
@@ -845,7 +845,7 @@
 | [Magna](../companies/magna.md) | 0/1 | software-engineering |
 | [Magnera](../companies/magnera.md) | 0/1 | software-engineering |
 | [Magnite](../companies/magnite.md) | 2/2 | software-engineering |
-| [Man Group](../companies/man-group.md) | 1/2 | quant |
+| [Man Group](../companies/man-group.md) | 0/2 | quant |
 | [ManTech](../companies/mantech.md) | 1/1 | ai |
 | [Manulife Financial](../companies/manulife-financial.md) | 6/11 | ai, product, quant, software-engineering |
 | [Marathon Petroleum](../companies/marathon-petroleum.md) | 0/2 | software-engineering |
@@ -1249,7 +1249,7 @@
 | [SimonComputing](../companies/simoncomputing.md) | 1/1 | software-engineering |
 | [Sixtyfour (X25)](../companies/sixtyfour-x25.md) | 0/1 | software-engineering |
 | [SkyGig](../companies/skygig.md) | 0/1 | design |
-| [Skydio](../companies/skydio.md) | 19/26 | design, embedded, hardware, machine-learning, product, software-engineering |
+| [Skydio](../companies/skydio.md) | 21/28 | design, embedded, hardware, machine-learning, product, software-engineering |
 | [Skyward](../companies/skyward.md) | 0/1 | software-engineering |
 | [Smartly.io](../companies/smartly-io.md) | 1/2 | software-engineering |
 | [Smith+Nephew](../companies/smith-nephew.md) | 3/6 | ai, embedded, software-engineering |

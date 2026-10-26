@@ -1,6 +1,6 @@
 # 📬 InternAtlas Weekly Digest — 2026-10-26
 
-## 🆕 New this week (691)
+## 🆕 New this week (695)
 
 - **1Password** — [Developer Intern - Credential Brokering](https://jobs.ashbyhq.com/1password/67bfbd8b-aba9-42b1-a8a8-833367888fba/application?embed=true) · software-engineering · —
 - **1Password** — [Developer Intern, Credential Brokering](https://go.vansh.nyc/gT) · software-engineering · —
@@ -213,6 +213,7 @@
 - **Coinbase** — [Software Engineer Intern](https://www.coinbase.com/careers/positions/8175873?gh_jid=8175873) · software-engineering · —
 - **CommonAI C.I.C.** — [Software Engineer Intern](https://apply.workable.com/commonai/j/021D3FCF3E/apply) · software-engineering · —
 - **Commonwealth of Massachusetts** — [Data Information and Project Support Intern](https://massanf.taleo.net/careersection/ex/jobdetail.ftl?job=26000721) · software-engineering · —
+- **ConnectPrep** — [Data Analyst Intern](https://go.vansh.nyc/BG) · software-engineering · —
 - **Constellation Brands** — [AI Enablement Intern](https://go.vansh.nyc/co) · ai · —
 - **Copart** — [QA Engineer Intern](https://go.vansh.nyc/ew) · software-engineering · —
 - **Copart** — [SDET Intern](https://go.vansh.nyc/eE) · software-engineering · —
@@ -247,6 +248,7 @@
 - **Expedia Group** — [Mobile Engineer Intern](https://expedia.wd108.myworkdayjobs.com/search/job/UK---London/Mobile-Engineering-Intern---2027---London_R-110545-1) · software-engineering · —
 - **Expedia Group** — [Software Developer 1 Intern](https://expedia.wd108.myworkdayjobs.com/private/job/USA---Missouri---Springfield/Software-Developer-I_R-110635) · software-engineering · —
 - **Expedia Group** — [Software Development Engineer Intern](https://expedia.wd108.myworkdayjobs.com/search/job/UK---London/Software-Development-Engineering-Intern---2027---London_R-110551) · software-engineering · —
+- **FTI Consulting** — [Data & Analytics Intern](https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/London-United-Kingdom/XMLNAME-2027-Summer-Internship--Data---Analytics_JR260771) · software-engineering · —
 - **FanDuel** — [Sports Trader Intern](https://boards.greenhouse.io/embed/job_app?token=8300829) · software-engineering · —
 - **FedEx Freight** — [Data Scientist Intern](https://go.vansh.nyc/f6) · data-science · —
 - **FedEx Freight** — [Media & Web Development Intern, Marketing](https://go.vansh.nyc/hc) · software-engineering · —
@@ -566,7 +568,9 @@
 - **Simbe Robotics** — [Data Analytics & Data Science Intern](https://go.vansh.nyc/hK) · data-science · —
 - **Simbe Robotics** — [Robot Software Engineer Intern](https://jobs.lever.co/SimbeRobotics/d91f42b9-50b8-4b5f-8daf-00281d7dd61c/apply) · software-engineering · —
 - **Simbe Robotics** — [Robot Software Engineer Intern](https://go.vansh.nyc/hI) · software-engineering · —
+- **Skydio** — [Autonomy Engineer Intern](https://go.vansh.nyc/BH) · software-engineering · —
 - **Skydio** — [Autonomy Engineer Intern, Computer Vision / Deep Learning](https://go.vansh.nyc/BA) · machine-learning · —
+- **Skydio** — [Autonomy Engineer Intern - Deep Learning / Computer Vision](https://jobs.ashbyhq.com/skydio/f1a72f5b-6157-47c1-8de9-379a32c7419f/application?embed=true) · machine-learning · —
 - **Skydio** — [Embedded Software Engineer Intern](https://jobs.ashbyhq.com/skydio/d79ccbaa-2901-4303-bd90-675db7802366/application?embed=true) · embedded · —
 - **Skydio** — [Embedded Software Engineer Intern](https://jobs.ashbyhq.com/skydio/370da6a5-5ae6-48fe-8e08-9b1dcc63bf34/application?embed=true) · embedded · —
 - **Skydio** — [Embedded Software Engineer Intern](https://go.vansh.nyc/BD) · embedded · —

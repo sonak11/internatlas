@@ -1,6 +1,6 @@
 {
   "generated": "2026-10-26",
-  "count": 7357,
+  "count": 7361,
   "internships": [
     {
       "schema_version": "1.0",
@@ -89481,6 +89481,57 @@
     },
     {
       "schema_version": "1.0",
+      "id": "connectprep-data-analyst-intern-2027",
+      "company": {
+        "name": "ConnectPrep",
+        "slug": "connectprep"
+      },
+      "role": "Data Analyst Intern",
+      "category": "software-engineering",
+      "apply_url": "https://go.vansh.nyc/BG",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-25",
+        "discovered": "2026-10-26",
+        "last_verified": "2026-10-26"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03",
+        "remote-available"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "conocophillips-gis-intern-2027",
       "company": {
         "name": "ConocoPhillips",
@@ -122531,7 +122582,7 @@
         "discovered": "2026-10-23",
         "last_verified": "2026-10-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -129573,6 +129624,57 @@
         "last_verified": "2026-08-24"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "fti-consulting-data-analytics-intern-2027",
+      "company": {
+        "name": "FTI Consulting",
+        "slug": "fti-consulting"
+      },
+      "role": "Data & Analytics Intern",
+      "category": "software-engineering",
+      "apply_url": "https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/London-United-Kingdom/XMLNAME-2027-Summer-Internship--Data---Analytics_JR260771",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "London",
+          "country": "UK"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-26",
+        "discovered": "2026-10-26",
+        "last_verified": "2026-10-26"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -144247,7 +144349,7 @@
         "discovered": "2026-08-27",
         "last_verified": "2026-10-26"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -144352,7 +144454,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-10-26"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -144405,7 +144507,7 @@
         "discovered": "2026-10-11",
         "last_verified": "2026-10-26"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -144458,7 +144560,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-10-26"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -144510,7 +144612,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-26"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -144562,7 +144664,7 @@
         "discovered": "2026-10-06",
         "last_verified": "2026-10-26"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -144616,7 +144718,7 @@
         "discovered": "2026-09-16",
         "last_verified": "2026-10-26"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -144669,7 +144771,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-26"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -144720,7 +144822,7 @@
         "discovered": "2026-10-12",
         "last_verified": "2026-10-26"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -144774,7 +144876,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-26"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -144825,7 +144927,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-26"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -144876,7 +144978,7 @@
         "discovered": "2026-10-10",
         "last_verified": "2026-10-26"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -144927,7 +145029,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-10-26"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -144979,7 +145081,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-26"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -145030,7 +145132,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-26"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -145186,7 +145288,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-26"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -145239,7 +145341,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-26"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -145347,7 +145449,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-26"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -145400,7 +145502,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-26"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -145454,7 +145556,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-10-26"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -145556,7 +145658,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-26"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -145711,7 +145813,7 @@
         "discovered": "2026-08-29",
         "last_verified": "2026-10-26"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -145764,7 +145866,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-10-26"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -200262,7 +200364,7 @@
         "discovered": "2026-10-23",
         "last_verified": "2026-10-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -308722,6 +308824,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "skydio-autonomy-engineer-intern-2027",
+      "company": {
+        "name": "Skydio",
+        "slug": "skydio"
+      },
+      "role": "Autonomy Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://go.vansh.nyc/BH",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Mateo",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-25",
+        "discovered": "2026-10-26",
+        "last_verified": "2026-10-26"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "skydio-autonomy-engineer-intern-computer-vision-deep-learning-2027",
       "company": {
         "name": "Skydio",
@@ -308816,6 +308970,58 @@
       "dates": {
         "posted": "2026-09-04",
         "discovered": "2026-09-04",
+        "last_verified": "2026-10-26"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "skydio-autonomy-engineer-intern-deep-learning-computer-vision-2027",
+      "company": {
+        "name": "Skydio",
+        "slug": "skydio"
+      },
+      "role": "Autonomy Engineer Intern - Deep Learning / Computer Vision",
+      "category": "machine-learning",
+      "apply_url": "https://jobs.ashbyhq.com/skydio/f1a72f5b-6157-47c1-8de9-379a32c7419f/application?embed=true",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Mateo",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-25",
+        "discovered": "2026-10-26",
         "last_verified": "2026-10-26"
       },
       "status": "open",
