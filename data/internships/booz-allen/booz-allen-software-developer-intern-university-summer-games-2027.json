@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "xcel-energy-residential-energy-product-strategy-intern-2027-6fbf25",
+  "id": "booz-allen-software-developer-intern-university-summer-games-2027",
   "company": {
-    "name": "Xcel Energy",
-    "slug": "xcel-energy"
+    "name": "Booz Allen",
+    "slug": "booz-allen"
   },
-  "role": "Residential Energy Product Strategy Intern",
+  "role": "Software Developer Intern - University - Summer Games",
   "category": "software-engineering",
-  "apply_url": "https://xcelenergy.wd1.myworkdayjobs.com/External/job/Minneapolis-MN-55401/Residential-Energy-Product-Strategy-Intern---MN_JR115811",
+  "apply_url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Dayton-OH/University---2027-Summer-Games-Software-Developer-Intern---Dayton--OH_R0252345",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Minneapolis",
-      "state": "MN",
+      "city": "Dayton",
+      "state": "OH",
       "country": "USA"
     }
   ],
@@ -40,11 +40,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-14",
-    "discovered": "2026-09-15",
-    "last_verified": "2026-10-16"
+    "posted": "2026-10-26",
+    "discovered": "2026-10-27",
+    "last_verified": "2026-10-27"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

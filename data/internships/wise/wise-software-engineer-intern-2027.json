@@ -7,7 +7,7 @@
   },
   "role": "Software Engineer Intern",
   "category": "software-engineering",
-  "apply_url": "https://jobs.smartrecruiters.com/Wise/744000156266767",
+  "apply_url": "https://jobs.smartrecruiters.com/Wise/744000157817979",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
@@ -24,7 +24,9 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "masters"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -39,11 +41,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-10-19",
+    "posted": "2026-10-26",
     "discovered": "2026-10-19",
-    "last_verified": "2026-10-26"
+    "last_verified": "2026-10-27"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

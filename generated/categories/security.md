@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🔐 Security Internships
 
-**107** tracked · **90** open now
+**108** tracked · **91** open now
 
 ## Current openings
 
@@ -52,6 +52,7 @@
 | [Intel](generated/companies/intel.md) | [Information Security Engineer Intern](https://go.vansh.nyc/e1) | Folsom, CA | Onsite | 2026-10-22 | Rolling | 🟢 Open | ❔ |
 | [Intuit](generated/companies/intuit.md) | [Software Engineer Intern - Cybersecurity](https://jobs.intuit.com/job/mountain-view/summer-2027-software-engineering-intern-cybersecurity/27595/100620927616) | Mountain View, CA | Onsite | 2026-09-14 | Rolling | 🟢 Open | ❔ |
 | [Jane Street](generated/companies/jane-street.md) | [Cybersecurity Analyst Intern](https://go.vansh.nyc/41) | New York, NY | Onsite | 2026-07-24 | Rolling | 🟢 Open | ✅ |
+| [Johns Hopkins APL](generated/companies/johns-hopkins-apl.md) | [Cybersecurity Software Developer Intern](https://go.vansh.nyc/UB) | Laurel, MD | Onsite | 2026-10-27 | Rolling | 🟢 Open | ❔ |
 | [Johns Hopkins Applied Physics Laboratory](generated/companies/johns-hopkins-applied-physics-laboratory.md) | [Cyber Security Intern, Cyber Dominance](https://go.vansh.nyc/R8) | Laurel, MD | Onsite | 2026-10-18 | Rolling | 🟢 Open | ❔ |
 | [Johns Hopkins Applied Physics Laboratory](generated/companies/johns-hopkins-applied-physics-laboratory.md) | [Cybersecurity Engineer Intern, Critical Infrastructure Protection](https://go.vansh.nyc/Rc) | Laurel, MD | Onsite | 2026-10-18 | Rolling | 🟢 Open | ❔ |
 | [Johns Hopkins Applied Physics Laboratory](generated/companies/johns-hopkins-applied-physics-laboratory.md) | [Cybersecurity Engineer/Mathematician Intern, Constrained Cyber Solutions](https://go.vansh.nyc/R6) | Laurel, MD | Onsite | 2026-10-18 | Rolling | 🟢 Open | ❔ |
@@ -164,6 +165,7 @@
 - Intel (1)
 - Intuit (1)
 - Jane Street (1)
+- Johns Hopkins APL (1)
 - LLNL (1)
 - LPL Financial Holdings (1)
 - MEMX (1)
