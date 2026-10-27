@@ -1,20 +1,29 @@
 {
   "schema_version": "1.0",
-  "id": "northrop-grumman-systems-engineering-intern-ai-experience-2027-3f998e",
+  "id": "aurora-innovation-data-ml-platform-engineer-intern-2027",
   "company": {
-    "name": "Northrop Grumman",
-    "slug": "northrop-grumman"
+    "name": "Aurora Innovation",
+    "slug": "aurora-innovation"
   },
-  "role": "Systems Engineering Intern - AI Experience",
-  "category": "ai",
-  "apply_url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/XMLNAME-2027-Systems-Engineering-Internship--AI-Experience----Dulles-VA_R10257423",
+  "role": "Data & ML Platform Engineer Intern",
+  "category": "machine-learning",
+  "apply_url": "https://jobs.ashbyhq.com/aurora-operations-inc/da4c8e2e-0571-4503-94d9-234da86f83b0/application?embed=true",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Dulles",
-      "state": "VA",
+      "city": "SF",
+      "country": "USA"
+    },
+    {
+      "city": "Pittsburgh",
+      "state": "PA",
+      "country": "USA"
+    },
+    {
+      "city": "Mountain View",
+      "state": "CA",
       "country": "USA"
     }
   ],
@@ -42,8 +51,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-10-22",
-    "discovered": "2026-10-25",
+    "posted": "2026-09-24",
+    "discovered": "2026-10-27",
     "last_verified": "2026-10-27"
   },
   "status": "open",

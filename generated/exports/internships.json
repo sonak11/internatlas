@@ -1,6 +1,6 @@
 {
   "generated": "2026-10-27",
-  "count": 8077,
+  "count": 8089,
   "internships": [
     {
       "schema_version": "1.0",
@@ -35517,7 +35517,7 @@
         "discovered": "2026-10-25",
         "last_verified": "2026-10-27"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -46142,6 +46142,373 @@
     },
     {
       "schema_version": "1.0",
+      "id": "aurora-innovation-behavior-and-planning-intern-ml-research-2027",
+      "company": {
+        "name": "Aurora Innovation",
+        "slug": "aurora-innovation"
+      },
+      "role": "Behavior and Planning Intern - ML Research",
+      "category": "machine-learning",
+      "apply_url": "https://jobs.ashbyhq.com/aurora-operations-inc/a90b7522-4e66-4247-b9ec-7e2bb50b78f4/application?embed=true",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "SF",
+          "country": "USA"
+        },
+        {
+          "city": "Pittsburgh",
+          "state": "PA",
+          "country": "USA"
+        },
+        {
+          "city": "Mountain View",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters",
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-24",
+        "discovered": "2026-10-27",
+        "last_verified": "2026-10-27"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "aurora-innovation-core-autonomy-software-intern-c-2027",
+      "company": {
+        "name": "Aurora Innovation",
+        "slug": "aurora-innovation"
+      },
+      "role": "Core Autonomy Software Intern - C++",
+      "category": "software-engineering",
+      "apply_url": "https://jobs.ashbyhq.com/aurora-operations-inc/c823b343-ba1f-4ff3-84ce-965ee9952c12/application?embed=true",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Pittsburgh",
+          "state": "PA",
+          "country": "USA"
+        },
+        {
+          "city": "Mountain View",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-25",
+        "discovered": "2026-10-27",
+        "last_verified": "2026-10-27"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "aurora-innovation-data-ml-platform-engineer-intern-2027",
+      "company": {
+        "name": "Aurora Innovation",
+        "slug": "aurora-innovation"
+      },
+      "role": "Data & ML Platform Engineer Intern",
+      "category": "machine-learning",
+      "apply_url": "https://jobs.ashbyhq.com/aurora-operations-inc/da4c8e2e-0571-4503-94d9-234da86f83b0/application?embed=true",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "SF",
+          "country": "USA"
+        },
+        {
+          "city": "Pittsburgh",
+          "state": "PA",
+          "country": "USA"
+        },
+        {
+          "city": "Mountain View",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-24",
+        "discovered": "2026-10-27",
+        "last_verified": "2026-10-27"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "aurora-innovation-full-stack-engineer-intern-2027",
+      "company": {
+        "name": "Aurora Innovation",
+        "slug": "aurora-innovation"
+      },
+      "role": "Full Stack Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://jobs.ashbyhq.com/aurora-operations-inc/bc852c2c-945f-4a1e-b383-54a0f6e0ace9/application?embed=true",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Pittsburgh",
+          "state": "PA",
+          "country": "USA"
+        },
+        {
+          "city": "Mountain View",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-24",
+        "discovered": "2026-10-27",
+        "last_verified": "2026-10-27"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "aurora-innovation-perception-mapping-intern-2027",
+      "company": {
+        "name": "Aurora Innovation",
+        "slug": "aurora-innovation"
+      },
+      "role": "Perception & Mapping Intern",
+      "category": "software-engineering",
+      "apply_url": "https://jobs.ashbyhq.com/aurora-operations-inc/688f13a4-2cc4-4f3f-a5b4-0056bc580224/application?embed=true",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "SF",
+          "country": "USA"
+        },
+        {
+          "city": "Pittsburgh",
+          "state": "PA",
+          "country": "USA"
+        },
+        {
+          "city": "Mountain View",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters",
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-24",
+        "discovered": "2026-10-27",
+        "last_verified": "2026-10-27"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "aurora-innovation-simulation-engineering-intern-2027",
+      "company": {
+        "name": "Aurora Innovation",
+        "slug": "aurora-innovation"
+      },
+      "role": "Simulation Engineering Intern",
+      "category": "software-engineering",
+      "apply_url": "https://jobs.ashbyhq.com/aurora-operations-inc/f63bb8e2-9ead-4322-beb9-4bcbdbbe14bd/application?embed=true",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "SF",
+          "country": "USA"
+        },
+        {
+          "city": "Mountain View",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-24",
+        "discovered": "2026-10-27",
+        "last_verified": "2026-10-27"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "auto-owners-insurance-business-intelligence-developer-intern-2027-97fb34",
       "company": {
         "name": "Auto-Owners Insurance",
@@ -47972,7 +48339,7 @@
         "discovered": "2026-10-27",
         "last_verified": "2026-10-27"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -143656,7 +144023,7 @@
         "discovered": "2026-08-18",
         "last_verified": "2026-10-27"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -145311,7 +145678,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-27"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -147947,9 +148314,9 @@
       "dates": {
         "posted": "2026-08-21",
         "discovered": "2026-08-21",
-        "last_verified": "2026-09-04"
+        "last_verified": "2026-10-27"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -158941,7 +159308,7 @@
         "discovered": "2026-08-27",
         "last_verified": "2026-10-27"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -159046,7 +159413,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-10-27"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -159099,7 +159466,7 @@
         "discovered": "2026-10-11",
         "last_verified": "2026-10-27"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -159152,7 +159519,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-10-27"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -159204,7 +159571,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-27"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -159256,7 +159623,7 @@
         "discovered": "2026-10-06",
         "last_verified": "2026-10-27"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -159310,7 +159677,7 @@
         "discovered": "2026-09-16",
         "last_verified": "2026-10-27"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -159363,7 +159730,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-27"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -159414,7 +159781,7 @@
         "discovered": "2026-10-12",
         "last_verified": "2026-10-27"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -159468,7 +159835,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-27"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -159519,7 +159886,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-27"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -159570,7 +159937,7 @@
         "discovered": "2026-10-10",
         "last_verified": "2026-10-27"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -159621,7 +159988,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-10-27"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -159673,7 +160040,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-27"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -159724,7 +160091,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-27"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -159880,7 +160247,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-27"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -159933,7 +160300,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-27"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -160041,7 +160408,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-27"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -160094,7 +160461,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-27"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -160148,7 +160515,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-10-27"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -160250,7 +160617,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-27"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -160405,7 +160772,7 @@
         "discovered": "2026-08-29",
         "last_verified": "2026-10-27"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -160458,7 +160825,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-10-27"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -168267,7 +168634,7 @@
         "discovered": "2026-10-03",
         "last_verified": "2026-10-27"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -168320,7 +168687,7 @@
         "discovered": "2026-10-03",
         "last_verified": "2026-10-27"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -173021,6 +173388,58 @@
       "tags": [
         "auto-ingested",
         "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "highmark-health-cyber-risk-management-analyst-undergraduate-intern-2027",
+      "company": {
+        "name": "Highmark Health",
+        "slug": "highmark-health"
+      },
+      "role": "Cyber Risk Management Analyst Undergraduate Intern",
+      "category": "software-engineering",
+      "apply_url": "https://go.vansh.nyc/UF",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Camp Hill",
+          "state": "PA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-27",
+        "discovered": "2026-10-27",
+        "last_verified": "2026-10-27"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
       ]
     },
     {
@@ -178343,6 +178762,60 @@
     },
     {
       "schema_version": "1.0",
+      "id": "hp-iq-electrical-engineer-intern-hardware-2027",
+      "company": {
+        "name": "HP IQ",
+        "slug": "hp-iq"
+      },
+      "role": "Electrical Engineer Intern - Hardware",
+      "category": "hardware",
+      "apply_url": "https://job-boards.greenhouse.io/hpiq/jobs/6116396004",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "SF",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters",
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-27",
+        "discovered": "2026-10-27",
+        "last_verified": "2026-10-27"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "hp-iq-software-engineer-intern-2027",
       "company": {
         "name": "HP IQ",
@@ -178700,6 +179173,57 @@
         "last_verified": "2026-09-23"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "hp-iq-wireless-automation-and-test-engineer-intern-wireless-automa-2027",
+      "company": {
+        "name": "HP IQ",
+        "slug": "hp-iq"
+      },
+      "role": "Wireless Automation and Test Engineer Intern - Wireless Automation and Test",
+      "category": "software-engineering",
+      "apply_url": "https://job-boards.greenhouse.io/hpiq/jobs/6114741004",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "SF",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-27",
+        "discovered": "2026-10-27",
+        "last_verified": "2026-10-27"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -208177,9 +208701,9 @@
       "dates": {
         "posted": "2026-09-12",
         "discovered": "2026-09-12",
-        "last_verified": "2026-10-23"
+        "last_verified": "2026-10-27"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -263051,7 +263575,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "northrop-grumman-systems-engineering-intern-ai-experience-2027-3f998e",
+      "id": "northrop-grumman-systems-engineering-intern-ai-experience-2027",
       "company": {
         "name": "Northrop Grumman",
         "slug": "northrop-grumman"
@@ -263094,67 +263618,13 @@
       },
       "dates": {
         "posted": "2026-10-22",
-        "discovered": "2026-10-25",
-        "last_verified": "2026-10-27"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "northrop-grumman-systems-engineering-intern-ai-experience-2027",
-      "company": {
-        "name": "Northrop Grumman",
-        "slug": "northrop-grumman"
-      },
-      "role": "Systems Engineering Intern, AI Experience",
-      "category": "ai",
-      "apply_url": "https://go.vansh.nyc/f7",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Dulles",
-          "state": "VA",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [
-          "masters"
-        ],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-10-22",
         "discovered": "2026-10-23",
         "last_verified": "2026-10-27"
       },
       "status": "open",
       "tags": [
         "auto-ingested",
-        "src:vanshb03"
+        "src:simplify"
       ]
     },
     {
@@ -267797,9 +268267,9 @@
       "dates": {
         "posted": "2026-09-30",
         "discovered": "2026-10-01",
-        "last_verified": "2026-10-23"
+        "last_verified": "2026-10-27"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -268126,9 +268596,9 @@
       "dates": {
         "posted": "2026-10-15",
         "discovered": "2026-10-16",
-        "last_verified": "2026-10-23"
+        "last_verified": "2026-10-27"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -315012,7 +315482,7 @@
         "discovered": "2026-10-26",
         "last_verified": "2026-10-27"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -324602,7 +325072,7 @@
         "discovered": "2026-10-25",
         "last_verified": "2026-10-27"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -324656,7 +325126,7 @@
         "discovered": "2026-10-21",
         "last_verified": "2026-10-27"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -334273,6 +334743,60 @@
     },
     {
       "schema_version": "1.0",
+      "id": "saviynt-research-scientist-intern-2027",
+      "company": {
+        "name": "Saviynt",
+        "slug": "saviynt"
+      },
+      "role": "Research Scientist Intern",
+      "category": "research",
+      "apply_url": "https://jobs.lever.co/saviynt/183188c3-c043-4f91-b3f0-30ec4961f4c7/apply",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Milpitas",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-27",
+        "discovered": "2026-10-27",
+        "last_verified": "2026-10-27"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "scale-ai-ai-builder-intern-2027",
       "company": {
         "name": "Scale AI",
@@ -338119,6 +338643,112 @@
       "dates": {
         "posted": "2026-07-01",
         "discovered": "2026-07-17",
+        "last_verified": "2026-10-27"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "sherwin-williams-r-d-product-systems-intern-2027-a77fc3",
+      "company": {
+        "name": "Sherwin-Williams",
+        "slug": "sherwin-williams"
+      },
+      "role": "R&D Product Systems Intern",
+      "category": "software-engineering",
+      "apply_url": "https://go.vansh.nyc/UD",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Cleveland",
+          "state": "OH",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-27",
+        "discovered": "2026-10-27",
+        "last_verified": "2026-10-27"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "sherwin-williams-r-d-product-systems-intern-2027",
+      "company": {
+        "name": "Sherwin-Williams",
+        "slug": "sherwin-williams"
+      },
+      "role": "R&D Product Systems Intern",
+      "category": "software-engineering",
+      "apply_url": "https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2627417",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Cleveland",
+          "state": "OH",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-27",
+        "discovered": "2026-10-27",
         "last_verified": "2026-10-27"
       },
       "status": "open",
@@ -358623,7 +359253,7 @@
         "discovered": "2026-10-21",
         "last_verified": "2026-10-27"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -361201,7 +361831,7 @@
         "discovered": "2026-10-20",
         "last_verified": "2026-10-27"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -429715,7 +430345,7 @@
         "discovered": "2026-09-30",
         "last_verified": "2026-10-27"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -435687,6 +436317,60 @@
       "dates": {
         "posted": "2026-10-20",
         "discovered": "2026-10-21",
+        "last_verified": "2026-10-27"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "zillow-data-science-intern-2027-ecaa14",
+      "company": {
+        "name": "Zillow",
+        "slug": "zillow"
+      },
+      "role": "Data Science Intern",
+      "category": "data-science",
+      "apply_url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Seattle-WA-2nd-Ave/Data-Science-Intern_P751677-1",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Seattle",
+          "state": "WA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-26",
+        "discovered": "2026-10-27",
         "last_verified": "2026-10-27"
       },
       "status": "open",
