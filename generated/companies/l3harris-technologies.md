@@ -6,8 +6,10 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
+| L3Harris Technologies | [Associate Software Engineering Intern](https://go.vansh.nyc/UY) | Greenville, TX | Onsite | 2026-10-27 | Rolling | 🟢 Open | ❔ |
 | L3Harris Technologies | [Image Processing Engineer Intern](https://go.vansh.nyc/er) | Tulsa, OK | Onsite | 2026-10-22 | Rolling | 🟢 Open | ❔ |
 | L3Harris Technologies | [Software Engineer Intern](https://go.vansh.nyc/dR) | Salt Lake City, UT | Onsite | 2026-10-21 | Rolling | 🟢 Open | ❔ |
+| L3Harris Technologies | [Software Engineer Intern](https://go.vansh.nyc/UZ) | Rochester, NY | Onsite | 2026-10-27 | Rolling | 🟢 Open | ❔ |
 | L3Harris Technologies | [Software Engineer Intern](https://go.vansh.nyc/fs) | Tulsa, OK | Onsite | 2026-10-22 | Rolling | 🟢 Open | ❔ |
 | L3Harris Technologies | [Software Engineer Intern](https://go.vansh.nyc/Tb) | Rockwall, TX | Onsite | 2026-10-26 | Rolling | 🟢 Open | ❔ |
 | L3Harris Technologies | [Software Engineer Intern](https://go.vansh.nyc/DP) | Clinton, MD +1 | Onsite | 2026-09-28 | Rolling | 🟢 Open | ❔ |

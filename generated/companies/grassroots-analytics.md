@@ -6,7 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
-| Grassroots Analytics | [Campaigns Data Services Intern](https://job-boards.greenhouse.io/grassrootsanalytics/jobs/4723837006) | Washington, DC | Onsite | 2026-10-22 | Rolling | 🟢 Open | ❔ |
+| Grassroots Analytics | [Campaigns Data Services Intern](https://job-boards.greenhouse.io/grassrootsanalytics/jobs/4723837006) | Washington, DC | Onsite | 2026-10-22 | Rolling | 🔴 Closed | ❔ |
 
 ## Related
 

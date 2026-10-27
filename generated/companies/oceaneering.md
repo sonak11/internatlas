@@ -10,6 +10,9 @@
 | Oceaneering | [Azure AKS DevOps Intern](https://go.vansh.nyc/Hd) | Houston, TX | Onsite | 2026-10-08 | Rolling | 🟢 Open | ❔ |
 | Oceaneering | [Cybersecurity SOC Intern](https://go.vansh.nyc/GZ) | Houston, TX | Onsite | 2026-09-29 | Rolling | 🟢 Open | ❔ |
 | Oceaneering | [IT Security Architecture Intern](https://go.vansh.nyc/H2) | Houston, TX | Onsite | 2026-09-30 | Rolling | 🟢 Open | ❔ |
+| Oceaneering | [IT/OT Cybersecurity Intern](https://go.vansh.nyc/V3) | Houston, TX | Onsite | 2026-10-01 | Rolling | 🟢 Open | ❔ |
+| Oceaneering | [ROV Software Intern](https://go.vansh.nyc/V1) | Austin, TX | Onsite | 2026-09-23 | Rolling | 🟢 Open | ❌ |
+| Oceaneering | [Software Intern, C++](https://go.vansh.nyc/V2) | Austin, TX | Onsite | 2026-09-23 | Rolling | 🟢 Open | ❔ |
 
 ## Related
 

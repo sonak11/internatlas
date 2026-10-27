@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 📊 Data Science Internships
 
-**307** tracked · **176** open now
+**308** tracked · **177** open now
 
 ## Current openings
 
@@ -137,6 +137,7 @@
 | [Procter & Gamble](generated/companies/procter-gamble.md) | [Data Scientist Intern](https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/Data-Scientist--Master-s-Degree--Internship_R000157504) | Cincinnati, OH | Onsite | 2026-08-24 | Rolling | 🟢 Open | ❔ |
 | [Q2](generated/companies/q2.md) | [Data Science Intern](https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Cary-North-Carolina/XMLNAME-2027-Summer-Internship---Data-Science_REQ-12799) | Cary, NC | Onsite | 2026-09-29 | Rolling | 🟢 Open | ❔ |
 | [Q2](generated/companies/q2.md) | [Data Science Intern](https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Austin-Texas/XMLNAME-2027-Summer-Internship---Data-Science_REQ-12796) | Austin, TX | Onsite | 2026-09-15 | Rolling | 🟢 Open | ❔ |
+| [QuantCo](generated/companies/quantco.md) | [Data Science Intern](https://go.vansh.nyc/Vh) | USA | Onsite | 2024-05-01 | Rolling | 🟢 Open | ❔ |
 | [Red Ventures](generated/companies/red-ventures.md) | [Data Science Intern - Launch Program](https://www.redventures.com/careers/positions/open?gh_jid=8233284) | Charlotte, NC | Onsite | 2026-09-25 | Rolling | 🟢 Open | ❔ |
 | [Robert Bosch Venture Capital](generated/companies/robert-bosch-venture-capital.md) | [Calibration Process Data Science Intern - 8 months/40 hours per week](https://jobs.smartrecruiters.com/BoschGroup/744000146524429) | Farmington Hills, MI | Onsite | 2026-08-31 | Rolling | 🟢 Open | ❔ |
 | [Roblox](generated/companies/roblox.md) | [[2027] Data Scientist - PhD Intern](https://careers.roblox.com/jobs/8242619?gh_jid=8242619) | San Mateo, CA | Onsite | 2026-10-08 | Rolling | 🟢 Open | ❔ |
@@ -430,6 +431,7 @@
 - Perpay (1)
 - Phoenix Contact (1)
 - Point72 (1)
+- QuantCo (1)
 - Red Ventures (1)
 - Robert Bosch Venture Capital (1)
 - Roblox (1)

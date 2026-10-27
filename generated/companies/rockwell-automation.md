@@ -9,6 +9,7 @@
 | Rockwell Automation | [AI Software Engineer Intern](https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Mayfield-Heights-Ohio-United-States/Intern--AI-Software-Engineering--June-August-2027-_R26-6980) | Mayfield Heights, OH +1 | Onsite | 2026-09-25 | Rolling | 🟢 Open | ❔ |
 | Rockwell Automation | [AI Software Engineer Intern](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Intern--AI-Software-Engineering--June-August-2027-_R26-6980-1) | Mayfield Heights, OH +1 | Onsite | 2026-09-25 | Rolling | 🟢 Open | ❔ |
 | Rockwell Automation | [AI Software Engineer Intern](https://go.vansh.nyc/JA) | Mayfield Heights, OH +1 | Onsite | 2026-09-25 | Rolling | 🟢 Open | ❔ |
+| Rockwell Automation | [Cybersecurity Intern](https://go.vansh.nyc/Vd) | Milwaukee, WI +1 | Onsite | 2026-10-27 | Rolling | 🟢 Open | ❌ |
 | Rockwell Automation | [Firmware Engineer Intern](https://go.vansh.nyc/gA) | Mequon, WI +1 | Onsite | 2026-10-22 | Rolling | 🟢 Open | ❔ |
 | Rockwell Automation | [Hardware Development Engineer Intern](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Intern--Hardware-Development-Engineer--May---Aug-2027-_R26-6892-1) | Mayfield Heights, OH | Onsite | 2026-10-20 | Rolling | 🟢 Open | ❔ |
 | Rockwell Automation | [Hardware Development Engineer Intern](https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Mayfield-Heights-Ohio-United-States/Intern--Hardware-Development-Engineer--May---Aug-2027-_R26-6892-2) | Mayfield Heights, OH | Onsite | 2026-10-20 | Rolling | 🟢 Open | ❔ |
@@ -21,4 +22,4 @@
 
 ## Related
 
-Browse more roles in: [🤖 AI](../categories/ai.md), [⚙️ Embedded](../categories/embedded.md), [🔩 Hardware](../categories/hardware.md), [💻 Software Engineering](../categories/software-engineering.md)
+Browse more roles in: [🤖 AI](../categories/ai.md), [⚙️ Embedded](../categories/embedded.md), [🔩 Hardware](../categories/hardware.md), [🔐 Security](../categories/security.md), [💻 Software Engineering](../categories/software-engineering.md)

@@ -7,7 +7,6 @@
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
 | GE Aerospace | [Engines Engineering Intern - Computer or Software Engineering](https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Evendale/Engines-Engineering-Intern---Computer-or-Software-Engineering---US---Summer-2027_R5029622-1) | Lynn, MA +1 | Onsite | 2026-08-17 | Rolling | 🟢 Open | ❔ |
-| GE Aerospace | [Engines Engineering Intern - Computer or Software Engineering - Returning Students](https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Evendale/Engines-Engineering-Intern---Computer-or-Software-Engineering---US---Summer-2027---Returning-Students_R5030074-1) | Sharonville, OH +1 | Onsite | 2026-03-09 | Rolling | 🟢 Open | ❔ |
 | GE Aerospace | [Applied AI Intern](https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Evendale/Applied-AI-Engineer-Intern---Summer-2027--May-June-Start-_R5039302-1) | Evendale, OH +1 | Onsite | 2026-08-31 | Rolling | 🔴 Closed | ❔ |
 | GE Aerospace | [Digital Technology Intern - Multiple Teams](https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Evendale/Digital-Technology-Intern---US---Cincinnati--OH---Summer-2027_R5029739-1) | Evendale, OH | Onsite | 2026-08-17 | Rolling | 🔴 Closed | ❔ |
 | GE Aerospace | [Digital Technology Intern - Multiple Teams](https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Atlanta/Digital-Technology-Intern---US---Atlanta--GA----Summer-2027_R5038078) | Atlanta, GA | Onsite | 2026-08-17 | Rolling | 🔴 Closed | ❔ |

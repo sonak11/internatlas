@@ -5,21 +5,21 @@
     "name": "GE Aerospace",
     "slug": "ge-aerospace"
   },
-  "role": "Engines Engineering Intern - Computer or Software Engineering - Returning Students",
+  "role": "Engines Engineering Intern - Computer or Software Engineering",
   "category": "software-engineering",
-  "apply_url": "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Evendale/Engines-Engineering-Intern---Computer-or-Software-Engineering---US---Summer-2027---Returning-Students_R5030074-1",
+  "apply_url": "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Evendale/Engines-Engineering-Intern---Computer-or-Software-Engineering---US---Summer-2027_R5029622-1",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Sharonville",
-      "state": "OH",
+      "city": "Lynn",
+      "state": "MA",
       "country": "USA"
     },
     {
-      "city": "Saugus",
-      "state": "MA",
+      "city": "Evendale",
+      "state": "OH",
       "country": "USA"
     }
   ],
@@ -47,7 +47,7 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-03-09",
+    "posted": "2026-08-17",
     "discovered": "2026-09-03",
     "last_verified": "2026-10-27"
   },

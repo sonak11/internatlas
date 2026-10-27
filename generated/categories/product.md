@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🧭 Product Internships
 
-**247** tracked · **136** open now
+**246** tracked · **134** open now
 
 ## Current openings
 
@@ -37,7 +37,6 @@
 | [AspenTech](generated/companies/aspentech.md) | [Product Owner Intern - Product Management](https://aspentech.wd5.myworkdayjobs.com/aspentech/job/Bedford-Massachusetts/Product-Owner-Intern---Product-Management----Summer-2027_R9471) | Houston, TX +1 | Onsite | 2026-09-16 | Rolling | 🟢 Open | ❔ |
 | [Astera Labs](generated/companies/astera-labs.md) | [Platform Solutions Product Management Intern](https://go.vansh.nyc/Fu) | Cary, NC | Onsite | 2026-10-06 | Rolling | 🟢 Open | ❔ |
 | [Behaviour Interactive](generated/companies/behaviour-interactive.md) | [Product Management Intern - 7 Days to Die](https://jobs.lever.co/bhvr/540b00d3-8693-4c2b-9e98-10e33cb0ce62/apply) | Montreal | Onsite | 2026-10-16 | Rolling | 🟢 Open | ❔ |
-| [Behaviour Interactive](generated/companies/behaviour-interactive.md) | [Product Management Intern, 7 Days to Die](https://go.vansh.nyc/aY) | Montreal | Onsite | 2026-10-16 | Rolling | 🟢 Open | ❔ |
 | [Blue Origin](generated/companies/blue-origin.md) | [Terawave Product Management Intern - MBA](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Kent-WA/Summer-2027-Terawave-Product-Management-Internship---MBA_R74200) | Kent, WA | Onsite | 2026-10-15 | Rolling | 🟢 Open | ❔ |
 | [BNY](generated/companies/bny.md) | [Product Management Intern](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/83098) | Greater Manchester | Onsite | 2026-10-14 | Rolling | 🟢 Open | ❔ |
 | [BNY](generated/companies/bny.md) | [Product Management Intern](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/82784) | Lake Mary, FL | Onsite | 2026-10-01 | Rolling | 🟢 Open | ❔ |
@@ -62,7 +61,6 @@
 | [DTCC](generated/companies/dtcc.md) | [Product Management Intern - 2027 Internship Program](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214410) | Tampa, FL +1 | Onsite | 2026-08-25 | Rolling | 🟢 Open | ❔ |
 | [Duolingo](generated/companies/duolingo.md) | [Product Manager, MBA Intern](https://careers.duolingo.com/jobs/8888045002?gh_jid=8888045002) | Pittsburgh, PA | Onsite | 2026-10-15 | Rolling | 🟢 Open | ❔ |
 | [Electronic Arts](generated/companies/electronic-arts.md) | [Product Management Intern](https://jobs.ea.com/en_US/careers/JobDetail/Product-Management-Intern-Fan-Care-Community-Care-Summer-2027/216182) | Austin, TX | Onsite | 2026-10-06 | Rolling | 🟢 Open | ❔ |
-| [Electronic Arts](generated/companies/electronic-arts.md) | [Product Manager Intern](https://jobs.ea.com/en_US/careers/JobDetail/Product-Manager-Intern-MBA-Level-Summer-2027-Apex-Legends/216272) | LA | Onsite | 2026-10-03 | Rolling | 🟢 Open | ❔ |
 | [Epic Games](generated/companies/epic-games.md) | [Product Management Intern](https://epicgames.com/careers/jobs/6161289004?gh_jid=6161289004) | Cary, NC | Onsite | 2026-09-29 | Rolling | 🟢 Open | ❔ |
 | [Ernst & Young](generated/companies/ernst-young.md) | [Product Manager Intern - Tax - Other Tax](https://eyglobal.yello.co/jobs/ScWvvhAQZFvHMXityc1Mgw?job_board_id=c1riT--B2O-KySgYWsZO1Q) | NYC | Onsite | 2026-09-04 | Rolling | 🟢 Open | ❔ |
 | [GE Vernova](generated/companies/ge-vernova.md) | [Controls Product Management Intern](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Greenville/GE-Vernova-Controls-Product-Management-Intern---Summer-2027_R5050803-3) | Longmont, CO +1 | Onsite | 2026-08-25 | Rolling | 🟢 Open | ❔ |
@@ -176,6 +174,7 @@
 | [DTCC](generated/companies/dtcc.md) | [Product Management Intern](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214160) | Tampa, FL +1 | Onsite | 2026-07-08 | Rolling | 🔴 Closed | ❔ |
 | [Duolingo](generated/companies/duolingo.md) | [Associate Product Manager Intern](https://job-boards.greenhouse.io/duolingounirecruitment/jobs/8806188002) | Pittsburgh, PA | Onsite | 2026-09-15 | Rolling | 🔴 Closed | ❔ |
 | [Duolingo](generated/companies/duolingo.md) | [Associate Product Manager, Intern](https://careers.duolingo.com/jobs/8806187002?gh_jid=8806187002) | Pittsburgh, PA | Onsite | 2026-09-15 | Rolling | 🔴 Closed | ❔ |
+| [Electronic Arts](generated/companies/electronic-arts.md) | [Product Manager Intern](https://jobs.ea.com/en_US/careers/JobDetail/Product-Manager-Intern-MBA-Level-Summer-2027-Apex-Legends/216272) | LA | Onsite | 2026-10-03 | Rolling | 🔴 Closed | ❔ |
 | [Fidelity National Information Services](generated/companies/fidelity-national-information-services.md) | [Product Management Intern - FIS University Program](https://fis.wd5.myworkdayjobs.com/searchjobs/job/US-FL-JAX-347/Intern--Product-Management--FIS-University-Program_JR0309691) | Milwaukee, WI +2 | Onsite | 2026-09-17 | Rolling | 🔴 Closed | ❔ |
 | [First Citizens BancShares](generated/companies/first-citizens-bancshares.md) | [Summer Intern - Card Product Management - Business to Business Payments](https://firstcitizens.jibeapply.com/jobs/35886?icims=1) | NYC | Onsite | 2026-10-06 | Rolling | 🔴 Closed | ❔ |
 | [GE Vernova](generated/companies/ge-vernova.md) | [GE Vernova Grid Automation Product Management Intern](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Rochester/GE-Vernova-Grid-Automation-Product-Management-Intern---Fall-2026_R5035460) | Rochester, NY | Onsite | 2026-04-07 | Rolling | 🔴 Closed | ❔ |
@@ -282,7 +281,6 @@
 - ABB (2)
 - Amazon (2)
 - Appian (2)
-- Behaviour Interactive (2)
 - Brunswick (2)
 - Cadence Solutions (2)
 - Datadog (2)
@@ -314,6 +312,7 @@
 - Amplify (1)
 - AspenTech (1)
 - Astera Labs (1)
+- Behaviour Interactive (1)
 - Blue Origin (1)
 - ByteDance (1)
 - Chamberlain Group (1)

@@ -8,7 +8,6 @@
 |---|---|---|---|---|---|---|---|
 | Qualcomm | [AI and DSP Applications Engineer Intern](https://qualcomm.eightfold.ai/careers/job/446721686396) | Markham | Onsite | 2026-10-22 | Rolling | 🟢 Open | ❔ |
 | Qualcomm | [AI and DSP Applications Engineer Intern](https://go.vansh.nyc/fy) | Markham | Onsite | 2026-10-22 | Rolling | 🟢 Open | ❔ |
-| Qualcomm | [AI Driven Test Automation Engineering Intern](https://go.vansh.nyc/RB) | Haifa District, IL | Onsite | 2026-10-18 | Rolling | 🟢 Open | ❔ |
 | Qualcomm | [Applied AI Engineer Intern](https://go.vansh.nyc/el) | Markham | Onsite | 2026-10-22 | Rolling | 🟢 Open | ❔ |
 | Qualcomm | [Applied AI Engineering Intern - Hardware Systems](https://qualcomm.eightfold.ai/careers/job/446721678733) | Vancouver | Onsite | 2026-10-22 | Rolling | 🟢 Open | ❔ |
 | Qualcomm | [Applied AI Engineering Intern, Hardware Systems](https://go.vansh.nyc/et) | Vancouver | Onsite | 2026-10-22 | Rolling | 🟢 Open | ❔ |
@@ -56,6 +55,7 @@
 | Qualcomm | [Soft IP ASIC Engineer Intern](https://qualcomm.eightfold.ai/careers/job/446721302471) | Ottawa | Onsite | 2026-09-28 | Rolling | 🟢 Open | ❔ |
 | Qualcomm | [Soft IP ASIC Engineer Intern](https://go.vansh.nyc/DS) | Ottawa | Onsite | 2026-09-28 | Rolling | 🟢 Open | ❔ |
 | Qualcomm | [Software Engineering Intern](https://go.vansh.nyc/Rs) | San Diego, CA +7 | Onsite | 2026-10-18 | Rolling | 🟢 Open | ❔ |
+| Qualcomm | [AI Driven Test Automation Engineering Intern](https://go.vansh.nyc/RB) | Haifa District, IL | Onsite | 2026-10-18 | Rolling | 🔴 Closed | ❔ |
 | Qualcomm | [Analog Design Intern - Hardware Engineering](https://qualcomm.eightfold.ai/careers/job/446721140914) | Toronto | Onsite | 2026-09-17 | Rolling | 🔴 Closed | ❔ |
 | Qualcomm | [Design Methodology Engineer Intern - MSIP - HW](https://qualcomm.eightfold.ai/careers/job/446721140936) | Toronto | Onsite | 2026-09-17 | Rolling | 🔴 Closed | ❔ |
 | Qualcomm | [Electrical and Optical Systems Intern - Silicon Validation Engineer - Interim Engineering Intern - Hardware](https://qualcomm.eightfold.ai/careers/job/446721156176) | Ottawa | Onsite | 2026-09-18 | Rolling | 🔴 Closed | ❔ |

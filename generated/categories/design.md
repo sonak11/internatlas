@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🎨 Design Internships
 
-**225** tracked · **147** open now
+**226** tracked · **148** open now
 
 ## Current openings
 
@@ -60,6 +60,7 @@
 | [KRAFTON](generated/companies/krafton.md) | [UI Programming Intern](https://go.vansh.nyc/hY) | Montreal | Onsite | 2026-10-22 | Rolling | 🟢 Open | ❔ |
 | [Leidos](generated/companies/leidos.md) | [Electrical Design Engineer Intern](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Electrical-Design-Engineering-Intern_R-00195400) | Huntsville, AL | Onsite | 2026-10-26 | Rolling | 🟢 Open | ❔ |
 | [Leidos](generated/companies/leidos.md) | [Network Site Design Intern](https://go.vansh.nyc/ea) | Remote | Remote | 2026-10-21 | Rolling | 🟢 Open | ❔ |
+| [lowRISC CIC](generated/companies/lowrisc-cic.md) | [Design Engineer Intern](https://lowrisc.applytojob.com/apply/YDXpDtU0O2/Summer-Internship-Design-Engineer) | Cambridge | Onsite | 2026-10-27 | Rolling | 🟢 Open | ❔ |
 | [Marvell](generated/companies/marvell.md) | [Analog Design Intern Co-op - Master’s](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Toronto-Canada/Analog-Design-Intern--Master-s---2027-Co-Op_2603862) | Toronto | Onsite | 2026-09-24 | Rolling | 🟢 Open | ❔ |
 | [Marvell](generated/companies/marvell.md) | [Design for Test Intern](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Morrisville-NC/Design-for-Test-Intern--BS---Summer-2027_2604511) | Morrisville, NC +3 | Onsite | 2026-09-04 | Rolling | 🟢 Open | ❔ |
 | [Marvell](generated/companies/marvell.md) | [Design for Test Intern](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Morrisville-NC/Design-for-Test-Intern--BS---Summer-2027_2604511-1) | Morrisville, NC +3 | Onsite | 2026-09-04 | Rolling | 🟢 Open | ❔ |
@@ -281,6 +282,7 @@
 - General Motors (1)
 - Jump Trading Group (1)
 - KRAFTON (1)
+- lowRISC CIC (1)
 - Motorola (1)
 - North Atlantic Industries (1)
 - Philips (1)

@@ -7,14 +7,14 @@
   },
   "role": "Software Engineer Intern",
   "category": "software-engineering",
-  "apply_url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Software-Engineer--Intern---Foster-City-2027_REF088587W-1",
+  "apply_url": "https://go.vansh.nyc/VB",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Foster City",
-      "state": "CA",
+      "city": "Denver",
+      "state": "CO",
       "country": "USA"
     }
   ],
@@ -42,13 +42,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-17",
+    "posted": "2026-10-27",
     "discovered": "2026-09-17",
-    "last_verified": "2026-09-25"
+    "last_verified": "2026-10-27"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }

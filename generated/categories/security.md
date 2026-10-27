@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🔐 Security Internships
 
-**108** tracked · **90** open now
+**120** tracked · **102** open now
 
 ## Current openings
 
@@ -14,6 +14,7 @@
 | [Adobe](generated/companies/adobe.md) | [Security Engineer Intern](https://go.vansh.nyc/cM) | San Jose, CA | Onsite | 2026-10-20 | Rolling | 🟢 Open | ❔ |
 | [Adobe](generated/companies/adobe.md) | [Security Engineer Intern](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Security-Engineer_R173001) | San Jose, CA | Onsite | 2026-10-20 | Rolling | 🟢 Open | ❔ |
 | [Adobe](generated/companies/adobe.md) | [Security Engineer Intern](https://go.vansh.nyc/bk) | Lehi, UT | Onsite | 2026-10-19 | Rolling | 🟢 Open | ❔ |
+| [ADT](generated/companies/adt.md) | [Cybersecurity & Risk Intern](https://go.vansh.nyc/UH) | Boca Raton, FL | Onsite | 2026-10-26 | Rolling | 🟢 Open | ❔ |
 | [Aerospace Corporation](generated/companies/aerospace-corporation.md) | [Cyber Security Intern](https://go.vansh.nyc/MY) | USA | Onsite | 2026-08-31 | Rolling | 🟢 Open | ❌ |
 | [Aerospace Corporation](generated/companies/aerospace-corporation.md) | [Hardware Security Engineering Intern](https://go.vansh.nyc/dv) | El Segundo, CA +1 | Onsite | 2026-10-21 | Rolling | 🟢 Open | ❌ |
 | [Allison Transmission](generated/companies/allison-transmission.md) | [IT Security Analyst Intern](https://go.vansh.nyc/Hl) | Indianapolis, IN | Onsite | 2026-10-09 | Rolling | 🟢 Open | ❔ |
@@ -39,6 +40,7 @@
 | [Draper](generated/companies/draper.md) | [Classified Cybersecurity/IT Intern](https://go.vansh.nyc/8B) | Cambridge, MA | Onsite | 2026-10-13 | Rolling | 🟢 Open | ❌ |
 | [Duke Energy Corporation](generated/companies/duke-energy-corporation.md) | [Nuclear Cybersecurity Intern](https://go.vansh.nyc/em) | Hartsville, SC | Onsite | 2026-10-21 | Rolling | 🟢 Open | ❔ |
 | [EHC](generated/companies/ehc.md) | [IT Security Intern](https://go.vansh.nyc/JW) | Birmingham, AL | Onsite | 2026-09-21 | Rolling | 🟢 Open | ❔ |
+| [Ericsson](generated/companies/ericsson.md) | [Cybersecurity Analyst Intern](https://go.vansh.nyc/Vu) | Plano, TX | Onsite | 2026-10-27 | Rolling | 🟢 Open | ❌ |
 | [Express](generated/companies/express.md) | [Information Security Intern](https://go.vansh.nyc/CT) | Columbus, OH | Onsite | 2024-10-24 | Rolling | 🟢 Open | ❌ |
 | [Garmin](generated/companies/garmin.md) | [Cyber Security Engineer Intern](https://go.vansh.nyc/R5) | Olathe, KS | Onsite | 2026-10-18 | Rolling | 🟢 Open | ❔ |
 | [General Matter](generated/companies/general-matter.md) | [Information Security Engineer Intern](https://go.vansh.nyc/9J) | Los Angeles, CA | Onsite | 2026-10-15 | Rolling | 🟢 Open | ❔ |
@@ -60,6 +62,7 @@
 | [Johns Hopkins Applied Physics Laboratory](generated/companies/johns-hopkins-applied-physics-laboratory.md) | [Military Systems Cybersecurity Engineer Intern](https://go.vansh.nyc/R7) | Laurel, MD | Onsite | 2026-10-18 | Rolling | 🟢 Open | ❔ |
 | [LLNL](generated/companies/llnl.md) | [Cybersecurity Intern, Cyber and Critical Infrastructure Summer Institute](https://go.vansh.nyc/al) | Livermore, CA | Onsite | 2026-10-16 | Rolling | 🟢 Open | ❔ |
 | [LPL Financial Holdings](generated/companies/lpl-financial-holdings.md) | [Cybersecurity Analyst Intern](https://go.vansh.nyc/QQ) | Fort Mill, SC +2 | Onsite | 2026-10-18 | Rolling | 🟢 Open | ❔ |
+| [Manitowoc](generated/companies/manitowoc.md) | [Cybersecurity Intern](https://go.vansh.nyc/Vt) | Shady Grove, PA | Onsite | 2026-10-06 | Rolling | 🟢 Open | ❔ |
 | [MEMX](generated/companies/memx.md) | [Information Security Intern](https://go.vansh.nyc/Hc) | New York, NY | Onsite | 2026-10-06 | Rolling | 🟢 Open | ❔ |
 | [Microsoft](generated/companies/microsoft.md) | [Security Research Intern](https://go.vansh.nyc/eB) | Redmond, WA | Onsite | 2026-10-22 | Rolling | 🟢 Open | ❔ |
 | [Microsoft](generated/companies/microsoft.md) | [Software Engineer Intern, Security & Identity](https://apply.careers.microsoft.com/careers/job/1970393557044771) | USA | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
@@ -77,6 +80,7 @@
 | [OCC](generated/companies/occ.md) | [Application Security Intern](https://go.vansh.nyc/JV) | Dallas, TX | Onsite | 2026-09-18 | Rolling | 🟢 Open | ❔ |
 | [Oceaneering](generated/companies/oceaneering.md) | [Cybersecurity SOC Intern](https://go.vansh.nyc/GZ) | Houston, TX | Onsite | 2026-09-29 | Rolling | 🟢 Open | ❔ |
 | [Oceaneering](generated/companies/oceaneering.md) | [IT Security Architecture Intern](https://go.vansh.nyc/H2) | Houston, TX | Onsite | 2026-09-30 | Rolling | 🟢 Open | ❔ |
+| [Oceaneering](generated/companies/oceaneering.md) | [IT/OT Cybersecurity Intern](https://go.vansh.nyc/V3) | Houston, TX | Onsite | 2026-10-01 | Rolling | 🟢 Open | ❔ |
 | [OpenSesame](generated/companies/opensesame.md) | [Security Analyst Intern](https://go.vansh.nyc/CY) | USA | Onsite | 2026-10-16 | Rolling | 🟢 Open | ❔ |
 | [Oshkosh](generated/companies/oshkosh.md) | [Cyber Security Intern](https://go.vansh.nyc/Nc) | Oshkosh, WI | Onsite | 2026-09-11 | Rolling | 🟢 Open | ❔ |
 | [Palantir Technologies](generated/companies/palantir-technologies.md) | [Information Security Engineer Intern](https://go.vansh.nyc/OK) | New York, NY | Onsite | 2022-08-03 | Rolling | 🟢 Open | ❔ |
@@ -86,12 +90,20 @@
 | [Qualcomm](generated/companies/qualcomm.md) | [Security Engineering Intern, Product, Systems, Cyber](https://go.vansh.nyc/Rt) | San Diego, CA | Onsite | 2026-10-18 | Rolling | 🟢 Open | ❔ |
 | [Qube Research and Technologies](generated/companies/qube-research-and-technologies.md) | [Security Engineer Intern](https://go.vansh.nyc/QJ) | New York, NY | Onsite | 2026-10-06 | Rolling | 🟢 Open | ❔ |
 | [Rivian](generated/companies/rivian.md) | [Cybersecurity Intern](https://go.vansh.nyc/Hk) | Palo Alto, CA | Onsite | 2026-10-09 | Rolling | 🟢 Open | ❌ |
+| [Rockwell Automation](generated/companies/rockwell-automation.md) | [Cybersecurity Intern](https://go.vansh.nyc/Vd) | Milwaukee, WI +1 | Onsite | 2026-10-27 | Rolling | 🟢 Open | ❌ |
 | [Salesforce](generated/companies/salesforce.md) | [Software Engineer Intern, Security/Government](https://go.vansh.nyc/bA) | San Francisco, CA +1 | Onsite | 2026-10-19 | Rolling | 🟢 Open | ❌ |
 | [Stifel](generated/companies/stifel.md) | [Information Security Intern](https://go.vansh.nyc/D7) | Saint Louis, MO | Onsite | 2026-10-21 | Rolling | 🟢 Open | ❔ |
 | [TensorWave](generated/companies/tensorwave.md) | [Security Engineer Intern](https://go.vansh.nyc/H5) | Las Vegas, NV | Onsite | 2026-10-05 | Rolling | 🟢 Open | ❔ |
 | [Tesla](generated/companies/tesla.md) | [Software Engineer Intern - Information Security - Spring 2027](https://www.tesla.com/careers/search/job/281473) | Bellevue, WA | Onsite | 2026-08-27 | Rolling | 🟢 Open | ❔ |
 | [Tesla](generated/companies/tesla.md) | [Software Engineer Intern, Information Security](https://go.vansh.nyc/14) | Bellevue, WA | Onsite | 2025-10-30 | Rolling | 🟢 Open | ❔ |
+| [Tevora](generated/companies/tevora.md) | [Cybersecurity Intern, Enterprise Risk Management](https://go.vansh.nyc/V4) | Irvine, CA +1 | Onsite | 2026-10-06 | Rolling | 🟢 Open | ❔ |
+| [Tevora](generated/companies/tevora.md) | [Cybersecurity Intern, Federal](https://go.vansh.nyc/V5) | Fairfax, VA +1 | Onsite | 2026-10-06 | Rolling | 🟢 Open | ❔ |
+| [Tevora](generated/companies/tevora.md) | [Cybersecurity Intern, Healthcare](https://go.vansh.nyc/V6) | Irvine, CA +1 | Onsite | 2026-10-06 | Rolling | 🟢 Open | ❔ |
+| [Tevora](generated/companies/tevora.md) | [Cybersecurity Intern, ISO](https://go.vansh.nyc/V7) | Irvine, CA +1 | Onsite | 2026-10-06 | Rolling | 🟢 Open | ❔ |
+| [Tevora](generated/companies/tevora.md) | [Cybersecurity Intern, Payments](https://go.vansh.nyc/V8) | Fairfax, VA +1 | Onsite | 2026-10-06 | Rolling | 🟢 Open | ❔ |
+| [Tevora](generated/companies/tevora.md) | [Cybersecurity Intern, Solutions](https://go.vansh.nyc/V9) | Irvine, CA +1 | Onsite | 2026-10-06 | Rolling | 🟢 Open | ❔ |
 | [Tevora](generated/companies/tevora.md) | [Cybersecurity Intern, Systems and Organizations Controls (SOC)](https://go.vansh.nyc/H9) | Irvine, CA +1 | Onsite | 2026-10-06 | Rolling | 🟢 Open | ❔ |
+| [Tevora](generated/companies/tevora.md) | [Cybersecurity Intern, Threat](https://go.vansh.nyc/Va) | Irvine, CA +1 | Onsite | 2026-10-06 | Rolling | 🟢 Open | ❔ |
 | [TikTok](generated/companies/tiktok.md) | [Security Software Engineer Project Intern, Product Security](https://go.vansh.nyc/RN) | San Jose, CA | Onsite | 2026-10-18 | Rolling | 🟢 Open | ❔ |
 | [TikTok](generated/companies/tiktok.md) | [Software Engineer Intern, Privacy and Security](https://go.vansh.nyc/6l) | San Jose, CA | Onsite | 2026-08-04 | Rolling | 🟢 Open | ✅ |
 | [Together AI](generated/companies/together-ai.md) | [Hardware Security Engineer Intern](https://go.vansh.nyc/bm) | San Francisco, CA | Onsite | 2026-10-16 | Rolling | 🟢 Open | ❔ |
@@ -119,10 +131,12 @@
 
 ## Hiring companies
 
+- Tevora (8)
 - Microsoft (7)
 - Johns Hopkins Applied Physics Laboratory (5)
 - Adobe (3)
 - Navy Federal (3)
+- Oceaneering (3)
 - Tesla (3)
 - 1Password (2)
 - Aerospace Corporation (2)
@@ -130,11 +144,11 @@
 - Ciena (2)
 - Illumio (2)
 - National Information Solutions Cooperative (2)
-- Oceaneering (2)
 - TikTok (2)
 - Marvell (2)
 - Robinhood (2)
 - AbbVie (1)
+- ADT (1)
 - Allison Transmission (1)
 - American Express (1)
 - Appian (1)
@@ -154,6 +168,7 @@
 - Draper (1)
 - Duke Energy Corporation (1)
 - EHC (1)
+- Ericsson (1)
 - Express (1)
 - Garmin (1)
 - General Matter (1)
@@ -168,6 +183,7 @@
 - Johns Hopkins APL (1)
 - LLNL (1)
 - LPL Financial Holdings (1)
+- Manitowoc (1)
 - MEMX (1)
 - Netsmart (1)
 - Nissan (1)
@@ -181,10 +197,10 @@
 - Qualcomm (1)
 - Qube Research and Technologies (1)
 - Rivian (1)
+- Rockwell Automation (1)
 - Salesforce (1)
 - Stifel (1)
 - TensorWave (1)
-- Tevora (1)
 - Together AI (1)
 - UL Solutions (1)
 - Verkada (1)

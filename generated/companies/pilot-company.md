@@ -12,8 +12,9 @@
 | Pilot Company | [Data Governance Intern](https://go.vansh.nyc/Mz) | Knoxville, TN | Onsite | 2026-09-09 | Rolling | 🟢 Open | ❔ |
 | Pilot Company | [GIS Intern - GIS](https://jobs.smartrecruiters.com/PilotCompany/744000148576444) | Knoxville, TN | Onsite | 2026-09-09 | Rolling | 🟢 Open | ❔ |
 | Pilot Company | [Process Automation Intern - Process Automation](https://jobs.smartrecruiters.com/PilotCompany/744000148576544) | Knoxville, TN | Onsite | 2026-09-09 | Rolling | 🟢 Open | ❔ |
+| Pilot Company | [Program Intern, Cloud Operations](https://go.vansh.nyc/V0) | Knoxville, TN | Onsite | 2026-09-09 | Rolling | 🟢 Open | ❔ |
 | Pilot Company | [Revenue Growth Management Intern - Revenue Growth Management](https://jobs.smartrecruiters.com/PilotCompany/744000148576829) | Knoxville, TN | Onsite | 2026-09-09 | Rolling | 🟢 Open | ❔ |
 
 ## Related
 
-Browse more roles in: [💻 Software Engineering](../categories/software-engineering.md)
+Browse more roles in: [☁️ Cloud](../categories/cloud.md), [💻 Software Engineering](../categories/software-engineering.md)

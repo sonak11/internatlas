@@ -1,20 +1,21 @@
 {
   "schema_version": "1.0",
-  "id": "behaviour-interactive-product-management-intern-7-days-to-die-2027-41f88e",
+  "id": "oceaneering-software-intern-c-2027",
   "company": {
-    "name": "Behaviour Interactive",
-    "slug": "behaviour-interactive"
+    "name": "Oceaneering",
+    "slug": "oceaneering"
   },
-  "role": "Product Management Intern - 7 Days to Die",
-  "category": "product",
-  "apply_url": "https://jobs.lever.co/bhvr/540b00d3-8693-4c2b-9e98-10e33cb0ce62/apply",
-  "season": "winter",
+  "role": "Software Intern, C++",
+  "category": "software-engineering",
+  "apply_url": "https://go.vansh.nyc/V2",
+  "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Montreal",
-      "country": "QC"
+      "city": "Austin",
+      "state": "TX",
+      "country": "USA"
     }
   ],
   "compensation": {
@@ -39,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-10-16",
-    "discovered": "2026-10-25",
+    "posted": "2026-09-23",
+    "discovered": "2026-10-27",
     "last_verified": "2026-10-27"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }

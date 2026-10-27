@@ -7,7 +7,6 @@
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
 | Microsoft | [Applied Scientist Intern](https://go.vansh.nyc/FW) | Redmond, WA | Onsite | 2026-10-07 | Rolling | 🟢 Open | ❔ |
-| Microsoft | [Full-Stack Product Engineer Intern - Web + Services](https://apply.careers.microsoft.com/careers/job/1970393556922922) | Redmond, WA | Onsite | 2026-08-04 | Rolling | 🟢 Open | ❔ |
 | Microsoft | [Product Manager Intern](https://go.vansh.nyc/hO) | Cambridge, MA | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
 | Microsoft | [Product Manager Intern](https://go.vansh.nyc/5Y) | Remote | Remote | 2026-08-04 | Rolling | 🟢 Open | ❔ |
 | Microsoft | [Researcher Intern - Coreai](https://apply.careers.microsoft.com/careers/job/1970393557027387) | Redmond, WA +1 | Onsite | 2026-10-15 | Rolling | 🟢 Open | ❔ |
@@ -26,6 +25,7 @@
 | Microsoft | [AI Software Engineer Intern - Edge](https://apply.careers.microsoft.com/careers/job/1970393556979054) | Redmond, WA +1 | Onsite | 2026-08-22 | Rolling | 🔴 Closed | ❔ |
 | Microsoft | [Electrical Engineer Intern - 6-Month Program](https://apply.careers.microsoft.com/careers/job/1970393556982262) | Seattle, WA +2 | Onsite | 2026-09-18 | Rolling | 🔴 Closed | ❔ |
 | Microsoft | [Firmware Engineer Intern](https://apply.careers.microsoft.com/careers/job/1970393557023161) | Santa Clara, CA | Onsite | 2026-10-05 | Rolling | 🔴 Closed | ❔ |
+| Microsoft | [Full-Stack Product Engineer Intern - Web + Services](https://apply.careers.microsoft.com/careers/job/1970393556922922) | Redmond, WA | Onsite | 2026-08-04 | Rolling | 🔴 Closed | ❔ |
 | Microsoft | [Hardware Engineering Intern](https://apply.careers.microsoft.com/careers/job/1970393557002608) | Redmond, WA | Onsite | 2026-09-19 | Rolling | 🔴 Closed | ❔ |
 | Microsoft | [Optoelectronics Device Engineer Intern](https://apply.careers.microsoft.com/careers/job/1970393556962583) | Cambridge | Onsite | 2026-08-14 | Rolling | 🔴 Closed | ❔ |
 | Microsoft | [Product Manager Intern](https://apply.careers.microsoft.com/careers/job/1970393557004836) | Mountain View, CA | Onsite | 2026-09-23 | Rolling | 🔴 Closed | ❔ |
