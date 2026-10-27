@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 📊 Data Science Internships
 
-**309** tracked · **177** open now
+**311** tracked · **180** open now
 
 ## Current openings
 
@@ -51,6 +51,7 @@
 | [Coinbase](generated/companies/coinbase.md) | [Data Science Intern, Strategy, Execution, & Analytics Platform](https://go.vansh.nyc/Mu) | San Francisco, CA | Onsite | 2026-09-09 | Rolling | 🟢 Open | ❔ |
 | [Constellation Energy](generated/companies/constellation-energy.md) | [Quantitative Analytics & Data Science Intern](https://jobs.constellationenergy.com/jobs/139494?icims=1) | Baltimore, MD | Onsite | 2026-09-28 | Rolling | 🟢 Open | ❔ |
 | [Constellation Energy](generated/companies/constellation-energy.md) | [Quantitative Analytics & Data Science Intern](https://go.vansh.nyc/DR) | Baltimore, MD | Onsite | 2026-09-28 | Rolling | 🟢 Open | ❔ |
+| [CSAA Insurance Group](generated/companies/csaa-insurance-group.md) | [Data Science Intern](https://aaaie.wd1.myworkdayjobs.com/CSAACareers2/job/Arizona---Home-Teleworkers/Data-Science-Intern_R8002) | Phoenix, AZ | Onsite | 2026-10-27 | Rolling | 🟢 Open | ❔ |
 | [CVS Health](generated/companies/cvs-health.md) | [Data Science Intern, Innovation & Technology](https://go.vansh.nyc/fm) | New York, NY | Onsite | 2026-10-22 | Rolling | 🟢 Open | ❔ |
 | [CVS Health](generated/companies/cvs-health.md) | [Innovation & Technology Data Science Intern](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---New-York/Innovation---Technology-Internship---Data-Science---Summer-2027--Undergraduate-_R1081067) | NYC | Onsite | 2026-10-22 | Rolling | 🟢 Open | ❔ |
 | [CVS Health](generated/companies/cvs-health.md) | [Innovation & Technology Internship - Data Science](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---New-York/Innovation---Technology-Internship---Data-Science---Summer-2027--Graduate-_R1081038) | NYC | Onsite | 2026-10-22 | Rolling | 🟢 Open | ❔ |
@@ -127,6 +128,8 @@
 | [Nissan Global](generated/companies/nissan-global.md) | [Data Science Intern](https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Data-Science-Intern---Summer-2027---Franklin--TN_R00214250) | Franklin, TN | Onsite | 2026-10-12 | Rolling | 🟢 Open | ❔ |
 | [NJM Insurance Group](generated/companies/njm-insurance-group.md) | [Data Science Intern](https://njm.wd1.myworkdayjobs.com/njm/job/NJM---Trenton/IT-Data-Science-Intern_R2008284) | Trenton, NJ | Onsite | 2026-09-15 | Rolling | 🟢 Open | ❔ |
 | [Nokia](generated/companies/nokia.md) | [Data Scientist Co-op/Intern](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39965) | Ottawa | Onsite | 2026-09-11 | Rolling | 🟢 Open | ❔ |
+| [NXP Semiconductors](generated/companies/nxp-semiconductors.md) | [Data Science / Structured Problem Solving Intern - Summer 2027](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Ed-Bluestein-Office/Data-Science---Structured-Problem-Solving-Intern---Summer-2027_R-10065037) | Austin, TX | Onsite | 2026-09-07 | Rolling | 🟢 Open | ❔ |
+| [OneMain Financial](generated/companies/onemain-financial.md) | [Data Science Analyst Intern](https://myhrhome.wd1.myworkdayjobs.com/en-US/OneMainCareers/job/Wilmington-DE/Data-Science-Analyst_R2609-52405) | Charlotte, NC +1 | Onsite | 2026-09-08 | Rolling | 🟢 Open | ❔ |
 | [Papa John's](generated/companies/papa-john-s.md) | [Data Science Intern](https://papajohns.wd1.myworkdayjobs.com/papajohnscareers/job/HQ_Atlanta/XMLNAME-2027-Summer-Intern---Data-Science_R26_0000002157) | Atlanta, GA | Onsite | 2026-10-09 | Rolling | 🟢 Open | ❔ |
 | [Papa John's](generated/companies/papa-john-s.md) | [Data Science Intern](https://go.vansh.nyc/Gg) | Atlanta, GA | Onsite | 2026-10-09 | Rolling | 🟢 Open | ❔ |
 | [Perpay](generated/companies/perpay.md) | [Data Science Intern](https://job-boards.greenhouse.io/perpay/jobs/4076978007) | Philadelphia, PA | Onsite | 2026-09-11 | Rolling | 🟢 Open | ❔ |
@@ -274,7 +277,6 @@
 | [Northern Trust](generated/companies/northern-trust.md) | [Technology Intern - Data Science and Analytics](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL/Technology-Intern---Data-Science-and-Analytics_R160865-1) | Chicago, IL | Onsite | 2026-09-01 | Rolling | 🔴 Closed | ❔ |
 | [Notion](generated/companies/notion.md) | [Data Science Intern](https://jobs.ashbyhq.com/notion/a67d6f2b-7c13-41d0-b36b-b2f662c9873e/application?embed=true) | SF | Onsite | 2026-08-20 | Rolling | 🔴 Closed | ❔ |
 | [Notion](generated/companies/notion.md) | [Data Science Intern (Winter 2027)](https://jobs.ashbyhq.com/notion/a67d6f2b-7c13-41d0-b36b-b2f662c9873e) | Remote | Remote | 2026-08-19 | Rolling | 🔴 Closed | ❔ |
-| [NXP Semiconductors](generated/companies/nxp-semiconductors.md) | [Data Science / Structured Problem Solving Intern - Summer 2027](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Ed-Bluestein-Office/Data-Science---Structured-Problem-Solving-Intern---Summer-2027_R-10065037) | Austin, TX | Onsite | 2026-09-07 | Rolling | 🔴 Closed | ❔ |
 | [Pattern](generated/companies/pattern.md) | [Data Science Intern](https://jobs.lever.co/pattern/ad978732-7171-473d-9400-0a6fc9e23cf7/apply) | Lehi, UT | Onsite | 2026-10-22 | Rolling | 🔴 Closed | ❔ |
 | [Peraton](generated/companies/peraton.md) | [Data Science Intern](https://careers-peraton.icims.com/jobs/170320/job?mobile=true&needsRedirect=false) | Blacksburg, VA +1 | Onsite | 2026-09-09 | Rolling | 🔴 Closed | ❔ |
 | [Polaris](generated/companies/polaris.md) | [Predictive Data Science Intern - Digital & IT](https://polaris.wd5.myworkdayjobs.com/PolarisJobs/job/Medina-MN-USA/Digital---IT---Predictive-Data-Science-Internship---Summer-2027_R30525) | Medina, MN +1 | Onsite | 2026-08-24 | Rolling | 🔴 Closed | ❔ |
@@ -403,6 +405,7 @@
 - Celestica (1)
 - Citadel (1)
 - Clarios (1)
+- CSAA Insurance Group (1)
 - Databricks (1)
 - Datacor (1)
 - Dell Technologies (1)
@@ -430,6 +433,8 @@
 - Momentive (1)
 - Neighbor (1)
 - NJM Insurance Group (1)
+- NXP Semiconductors (1)
+- OneMain Financial (1)
 - Perpay (1)
 - Phoenix Contact (1)
 - Point72 (1)
@@ -485,7 +490,6 @@
 - Nextiva (1)
 - Noblis (1)
 - Northern Trust (1)
-- NXP Semiconductors (1)
 - Pattern (1)
 - Peraton (1)
 - Polaris (1)

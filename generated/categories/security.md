@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🔐 Security Internships
 
-**128** tracked · **108** open now
+**129** tracked · **109** open now
 
 ## Current openings
 
@@ -64,6 +64,7 @@
 | [Johns Hopkins Applied Physics Laboratory](generated/companies/johns-hopkins-applied-physics-laboratory.md) | [Cybersecurity Intern, Mission Engineering](https://go.vansh.nyc/Ra) | Laurel, MD | Onsite | 2026-10-18 | Rolling | 🟢 Open | ❔ |
 | [Johns Hopkins Applied Physics Laboratory](generated/companies/johns-hopkins-applied-physics-laboratory.md) | [Military Systems Cybersecurity Engineer Intern](https://go.vansh.nyc/R7) | Laurel, MD | Onsite | 2026-10-18 | Rolling | 🟢 Open | ❔ |
 | [Kudu Dynamics](generated/companies/kudu-dynamics.md) | [Cybersecurity Intern](https://go.vansh.nyc/W5) | Arlington, VA +2 | Onsite | 2026-10-27 | Rolling | 🟢 Open | ❌ |
+| [Leidos](generated/companies/leidos.md) | [Cybersecurity Analyst Intern](https://go.vansh.nyc/Wv) | Pearl Harbor, HI | Onsite | 2026-10-27 | Rolling | 🟢 Open | ❌ |
 | [LLNL](generated/companies/llnl.md) | [Cybersecurity Intern, Cyber and Critical Infrastructure Summer Institute](https://go.vansh.nyc/al) | Livermore, CA | Onsite | 2026-10-16 | Rolling | 🟢 Open | ❔ |
 | [LPL Financial Holdings](generated/companies/lpl-financial-holdings.md) | [Cybersecurity Analyst Intern](https://go.vansh.nyc/QQ) | Fort Mill, SC +2 | Onsite | 2026-10-18 | Rolling | 🟢 Open | ❔ |
 | [Manitowoc](generated/companies/manitowoc.md) | [Cybersecurity Intern](https://go.vansh.nyc/Vt) | Shady Grove, PA | Onsite | 2026-10-06 | Rolling | 🟢 Open | ❔ |
@@ -192,6 +193,7 @@
 - Jane Street (1)
 - Johns Hopkins APL (1)
 - Kudu Dynamics (1)
+- Leidos (1)
 - LLNL (1)
 - LPL Financial Holdings (1)
 - Manitowoc (1)

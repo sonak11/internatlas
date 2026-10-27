@@ -1,6 +1,6 @@
 # 📬 InternAtlas Weekly Digest — 2026-10-27
 
-## 🆕 New this week (806)
+## 🆕 New this week (869)
 
 - **1Password** — [Developer Intern - Credential Brokering](https://jobs.ashbyhq.com/1password/67bfbd8b-aba9-42b1-a8a8-833367888fba/application?embed=true) · software-engineering · —
 - **1Password** — [Developer Intern, Credential Brokering](https://go.vansh.nyc/gT) · software-engineering · —
@@ -20,12 +20,15 @@
 - **1Password** — [Product Management Intern - End User Experience](https://jobs.ashbyhq.com/1password/bef2e88e-9590-467d-8ba6-821b30529003/application?embed=true) · product · —
 - **1Password** — [Product Management Intern, End User Experience](https://go.vansh.nyc/gR) · product · —
 - **1Password** — [Security Intern, Threat Operations](https://go.vansh.nyc/eI) · security · —
+- **42dot** — [Foundation Models Intern](https://go.vansh.nyc/WM) · software-engineering · —
 - **ABB** — [Power BI Intern](https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Cary/Power-BI-Intern--Summer-2027_JR00047437) · software-engineering · —
 - **ABB** — [Product Management Intern](https://abb.wd3.myworkdayjobs.com/external_career_page/job/New-Berlin-Wisconsin-United-States-of-America/Product-Management-Intern-Drive-Products---Summer-2027_JR00047254) · product · —
 - **ABB** — [R&D Software Engineer Intern](https://go.vansh.nyc/gz) · software-engineering · —
 - **ABB** — [Sales Excellence Data Analytics Intern](https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Cary/Sales-Excellence-Data-Analytics-Intern---Summer-2027_JR00050987) · software-engineering · —
+- **ACLU Kentucky** — [Undergraduate Software Engineer Intern - Technology and Analytics Department-Educate Pod](https://job-boards.greenhouse.io/acluinternships/jobs/8919540002) · software-engineering · —
 - **ADT** — [Cybersecurity & Risk Intern](https://go.vansh.nyc/UH) · security · —
 - **ASML** — [Application Software QA Engineer Intern](https://go.vansh.nyc/gY) · software-engineering · —
+- **ASML** — [Frontend Developer Intern](https://go.vansh.nyc/Wr) · software-engineering · —
 - **ASML** — [Platform Software Engineer In Test Intern](https://go.vansh.nyc/hQ) · software-engineering · —
 - **ASML** — [Software Engineer In Test Intern, MOD](https://go.vansh.nyc/gM) · software-engineering · —
 - **ASML** — [Software Quality Assurance Intern](https://asml.wd3.myworkdayjobs.com/en-US/asmlext1/job/San-Jose-CA-USA/Internship---Software-Quality-Assurance_J-00354563) · software-engineering · —
@@ -52,6 +55,7 @@
 - **Allstate** — [Data Science Intern - Core Telematics](https://allstate.wd5.myworkdayjobs.com/sourcing_event/job/USA---IL-Remote/Arity---Data-Science-Intern--Core-Telematics-_R36285) · data-science · —
 - **Allstate** — [Product Management Advertising Intern](https://allstate.wd5.myworkdayjobs.com/sourcing_event/job/USA---IL-Remote/Arity---Product-Management-Advertising-Intern_R36280) · product · —
 - **Allstate** — [Software Engineer Intern](https://allstate.wd5.myworkdayjobs.com/sourcing_event/job/USA---NC-Remote/Arity---Software-Engineer-Intern_R36266) · software-engineering · —
+- **Allstate** — [Technology Internship](https://allstate.wd5.myworkdayjobs.com/sourcing_event/job/USA---IL-Remote/Allstate-Technology-Solutions-Internship---Summer-2027_R36378) · software-engineering · —
 - **AltaLink** — [Summer Student Intern - CRU Project Support](https://apply.workable.com/altalink/j/3FB9DD016F/apply) · software-engineering · —
 - **Altera** — [FPGA IP Design Engineer Intern](https://go.vansh.nyc/d3) · hardware · —
 - **Altera** — [IP Design Intern](https://go.vansh.nyc/hw) · design · —
@@ -70,12 +74,15 @@
 - **Amazon** — [Business Analyst Intern](https://amazon.jobs/en/jobs/10565421/business-analyst-intern-3-6-and-12-months-2027) · software-engineering · —
 - **Amazon** — [Cloud Hardware Development Engineer Intern](https://go.vansh.nyc/gL) · hardware · —
 - **Amazon** — [Cloud Hardware Development Engineer Intern](https://amazon.jobs/en/jobs/10517649/cloud-hardware-development-engineer-intern-annapurna-labs-2027) · hardware · —
+- **Amazon** — [Database Engineer Intern](https://go.vansh.nyc/WF) · software-engineering · —
+- **Amazon** — [Database Engineer Intern](https://amazon.jobs/en/jobs/10590290/database-engineer-intern-summer-2027) · software-engineering · —
 - **Amazon** — [Economics Intern - Structural IO](https://amazon.jobs/en/jobs/10564110/phd-economics-intern-structural-io-summer-2027) · software-engineering · —
 - **Amazon** — [Frontier AI & Robotics Intern](https://go.vansh.nyc/eL) · ai · —
 - **Amazon** — [Hardware Development Engineer Intern](https://amazon.jobs/en/jobs/10584121/hardware-development-engineer-intern-winter-2027) · hardware · —
 - **Amazon** — [Hardware Development Engineer Intern](https://go.vansh.nyc/gD) · hardware · —
 - **Amazon** — [Junior Software Development Engineer Intern](https://go.vansh.nyc/gC) · software-engineering · —
 - **Amazon** — [Junior Software Development Engineer Intern - Jr. Developer Program](https://amazon.jobs/en/jobs/10586548/jr-software-development-engineer-detroit-mi-jr-developer-program) · software-engineering · —
+- **Amazon** — [PhD Economics Intern - Finance, Macroeconomics, And Forecasting](https://amazon.jobs/en/jobs/10590600/phd-economics-intern-finance-macroeconomics-and-forecasting-summer-2027) · software-engineering · —
 - **Amazon** — [PhD Economics Intern - Reduced Form Causal Inference](https://amazon.jobs/en/jobs/10564111/phd-economics-intern-reduced-form-causal-inference-summer-2027) · software-engineering · —
 - **Amazon** — [Product Manager Intern - ALA](https://amazon.jobs/en/jobs/10491935/2027-amazon-leadership-accelerator-ala-product-manager-internship) · product · —
 - **Amazon** — [Software Development Engineer Intern, Amazon Leo](https://go.vansh.nyc/hR) · software-engineering · —
@@ -133,6 +140,9 @@
 - **Aptiv** — [Linux Intern](https://go.vansh.nyc/eN) · software-engineering · —
 - **Aptiv** — [Software Development Intern](https://go.vansh.nyc/eh) · software-engineering · —
 - **Arch Capital Group** — [Security Operations Intern](https://go.vansh.nyc/Hm) · security · —
+- **Arrowstreet Capital** — [Investment Processes Intern](https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Investment-Processes-Intern--Summer-2027_R1557) · software-engineering · —
+- **Assurant** — [AI and Data Science Intern](https://go.vansh.nyc/WN) · ai · —
+- **Assurant** — [AI and Data Science Intern](https://assurant.wd1.myworkdayjobs.com/External_Limited_Posting/job/Georgia-Virtual/Summer-2027--AI-and-Data-Science-Internship_R-116105) · ai · —
 - **Athene** — [Operations Reporting & Analytics Intern](https://athene.wd5.myworkdayjobs.com/athene_careers/job/West-Des-Moines-Iowa/Operations-Reporting---Analytics-Intern_R255268) · software-engineering · —
 - **AtkinsRéalis** — [Business Intelligence Intern - Digital](https://slihrms.wd3.myworkdayjobs.com/careers/job/CAQCMontral455-boul-Ren-Lvesque-Ouest/Stagiaire-en-intelligence-d-affaires--Digital_R-166691) · software-engineering · —
 - **Atoms** — [AI Research Intern](https://go.vansh.nyc/VZ) · ai · —
@@ -171,12 +181,14 @@
 - **Brookhaven Lab** — [Data Engineering Student Assistant Intern](https://go.vansh.nyc/fb) · data-engineering · —
 - **C.H. Robinson** — [Cyber Security Intern](https://go.vansh.nyc/gV) · security · —
 - **CACI** — [Electrical Test Engineer Intern](https://caci.wd1.myworkdayjobs.com/external/job/Danbury-CT-US/Electrical-Test-Engineering-Intern---Summer-2027_333809) · software-engineering · —
+- **CACI** — [Software Engineer Intern - Summer 2027](https://caci.wd1.myworkdayjobs.com/external/job/Sarasota-FL-US/Software-Engineering-Intern---Summer-2027_332618) · software-engineering · —
 - **CACI** — [Software Engineering Intern](https://go.vansh.nyc/VM) · software-engineering · —
 - **CAE** — [Cybersecurity Integration Specialist Intern](https://go.vansh.nyc/SA) · security · —
 - **CFS Energy** — [Scientific Software Engineer Intern](https://go.vansh.nyc/VW) · software-engineering · —
 - **CHS** — [Data Engineer Intern](https://careers.chsinc.com/job/Inver-Grove-Heights-Data-Engineer-Intern-MN-55077-1721/1443601900/?ats=successfactors) · data-engineering · —
 - **CHS** — [Data Engineer Intern](https://go.vansh.nyc/Tg) · data-engineering · —
 - **CHS** — [Data Engineer Intern](https://careers.chsinc.com/job/Inver-Grove-Heights-Data-Engineer-Intern-MN-55077-1721/1443597100/?ats=successfactors) · data-engineering · —
+- **CSAA Insurance Group** — [Data Science Intern](https://aaaie.wd1.myworkdayjobs.com/CSAACareers2/job/Arizona---Home-Teleworkers/Data-Science-Intern_R8002) · data-science · —
 - **CVS Health** — [Data Engineering Intern, Innovation & Technology](https://go.vansh.nyc/fk) · data-engineering · —
 - **CVS Health** — [Data Science Intern, Innovation & Technology](https://go.vansh.nyc/fm) · data-science · —
 - **CVS Health** — [Innovation & Technology Data Engineering Intern](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---New-York/Innovation---Technology-Internship---Data-Engineering---Summer-2027--Undergraduate-_R1081090) · data-engineering · —
@@ -236,6 +248,8 @@
 - **Cohesity** — [Software Engineering Intern](https://go.vansh.nyc/Tc) · software-engineering · —
 - **Coinbase** — [Software Engineer Intern](https://www.coinbase.com/careers/positions/8175873?gh_jid=8175873) · software-engineering · —
 - **CommonAI C.I.C.** — [Software Engineer Intern](https://apply.workable.com/commonai/j/021D3FCF3E/apply) · software-engineering · —
+- **Commonwealth Fusion Systems** — [Plasma Physics Intern](https://jobs.lever.co/cfsenergy/32987ab7-59ed-4364-a012-91cbece8877a/apply) · software-engineering · —
+- **Commonwealth Fusion Systems** — [Scientific Software Engineer Intern](https://jobs.lever.co/cfsenergy/912d6878-25dd-4bdc-8df8-8f7002999619/apply) · software-engineering · —
 - **ConnectPrep** — [Data Analyst Intern](https://go.vansh.nyc/BG) · software-engineering · —
 - **Constellation Brands** — [AI Enablement Intern](https://go.vansh.nyc/co) · ai · —
 - **Copart** — [QA Engineer Intern](https://go.vansh.nyc/ew) · software-engineering · —
@@ -251,6 +265,7 @@
 - **DP World** — [Application Analyst Intern](https://ehpv.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/27400) · software-engineering · —
 - **DP World** — [Information Security Intern](https://go.vansh.nyc/ef) · security · —
 - **DP World** — [Network Engineering Intern](https://go.vansh.nyc/eK) · software-engineering · —
+- **David Yurman** — [Strategic Analytics Intern](https://davidyurman.wd1.myworkdayjobs.com/DavidYurmanCareers/job/New-York-NY/Strategic-Analytics-Intern_R-101176) · software-engineering · —
 - **Delta Dental** — [Application Development Intern](https://go.vansh.nyc/VS) · software-engineering · —
 - **Delta Dental Of Missouri** — [Data Science Intern](https://go.vansh.nyc/BT) · data-science · —
 - **Disney** — [Software Engineer Intern, Pipeline Infrastructure](https://go.vansh.nyc/UA) · cloud · —
@@ -270,6 +285,7 @@
 - **EQT Corporation** — [AI Intern](https://go.vansh.nyc/VF) · ai · —
 - **EQT Corporation** — [Midstream Services Intern](https://job-boards.greenhouse.io/eqtcorporation/jobs/5459572008) · software-engineering · —
 - **ETC** — [Software Engineer Intern](https://go.vansh.nyc/Qj) · software-engineering · —
+- **Emerson Electric** — [Software Engineer Intern](https://go.vansh.nyc/WG) · software-engineering · —
 - **Enact Mortgage Insurance** — [Risk Modeling Intern](https://gnw.wd1.myworkdayjobs.com/enact_mi/job/Raleigh-North-Carolina/Risk-Modeling-Intern_REQ-260365) · software-engineering · —
 - **Epic Games** — [Tools Programmer Intern - Graphics](https://epicgames.com/careers/jobs/6232770004?gh_jid=6232770004) · software-engineering · —
 - **Ericsson** — [Cybersecurity Analyst Intern](https://go.vansh.nyc/Vu) · security · —
@@ -284,6 +300,7 @@
 - **FedEx Freight** — [Media & Web Development Intern, Marketing](https://go.vansh.nyc/hc) · software-engineering · —
 - **Federal Home Loan Bank of Indianapolis** — [Business Intelligence Intern](https://fhlbi.wd1.myworkdayjobs.com/FHLBI_Careers/job/Indianapolis/Business-Intelligence-Intern_R637) · software-engineering · —
 - **Federal Home Loan Bank of Indianapolis** — [Model Risk Intern](https://fhlbi.wd1.myworkdayjobs.com/FHLBI_Careers/job/Indianapolis/Model-Risk-Intern_R636) · software-engineering · —
+- **Fidelity Investments** — [Data Strategy Intern](https://fmr.wd1.myworkdayjobs.com/targeted/job/Boston-MA/Intern--Data-Strategy_2135102) · software-engineering · —
 - **Figure AI** — [Developer Productivity Intern](https://go.vansh.nyc/hT) · software-engineering · —
 - **Formlabs** — [Manufacturing Test Software Intern](https://go.vansh.nyc/f2) · software-engineering · —
 - **Formlabs** — [Manufacturing Test Software Intern](https://careers.formlabs.com/job/8256004/apply/?gh_jid=8256004) · software-engineering · —
@@ -305,6 +322,7 @@
 - **Genworth** — [Risk Modeling Intern](https://go.vansh.nyc/dD) · software-engineering · —
 - **Genworth Financial** — [Risk Modeling Intern](https://gnw.wd1.myworkdayjobs.com/GNW/job/Raleigh-North-Carolina/Risk-Modeling-Intern_REQ-260365-1) · software-engineering · —
 - **Glean** — [Software Engineer Intern](https://go.vansh.nyc/SV) · software-engineering · —
+- **Glencore** — [Industrial Placement Intern - Quantitative Research - Analytics](https://job-boards.eu.greenhouse.io/glencoreuk/jobs/5013289101) · quant · —
 - **GlobalFoundries** — [AI Software Intern](https://go.vansh.nyc/dN) · ai · —
 - **GlobalFoundries** — [AI Software Intern](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---California---Santa-Clara/AI-Software-Intern--Summer-2027-_JR-2604029) · ai · —
 - **GlobalFoundries** — [CPU IP Design & Verification Intern, RISC-V Processor Development](https://go.vansh.nyc/hm) · design · —
@@ -323,6 +341,12 @@
 - **Graphcore** — [Software Engineer Intern - AI Compute Libraries & Performance](https://job-boards.greenhouse.io/graphcore/jobs/8894868002) · ai · —
 - **Graphcore** — [Software Engineer Intern - Drivers and Utilities](https://job-boards.greenhouse.io/graphcore/jobs/8894376002) · software-engineering · —
 - **Grassroots Analytics** — [Campaigns Data Services Intern](https://job-boards.greenhouse.io/grassrootsanalytics/jobs/4723837006) · software-engineering · —
+- **Great American Insurance Company** — [Claims Lab Developer Intern](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Claims-Lab-Developer-Intern---Summer-2027_R9803) · software-engineering · —
+- **Great American Insurance Company** — [Cloud Data Platform Intern](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Cloud-Data-Platform-Intern---Summer-2027_R9795) · cloud · —
+- **Great American Insurance Company** — [Data Application Engineer Intern](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Data-Application-Development-Intern---Summer-2027_R9796) · software-engineering · —
+- **Great American Insurance Company** — [Data Engineer Intern](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Data-Engineering-Intern---Summer-2027_R9794) · data-engineering · —
+- **Great American Insurance Company** — [Emerging Technology Intern](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Emerging-Technology-Intern---Summer-2027_R9801) · software-engineering · —
+- **Great American Insurance Group** — [Cloud Data Platform Intern](https://go.vansh.nyc/Wu) · cloud · —
 - **GuidePoint Security** — [Cybersecurity Intern](https://go.vansh.nyc/VU) · security · —
 - **HCSC** — [Product Engineer Intern](https://go.vansh.nyc/T7) · software-engineering · —
 - **HP IQ** — [Electrical Engineer Intern - Hardware](https://job-boards.greenhouse.io/hpiq/jobs/6116396004) · hardware · —
@@ -349,7 +373,10 @@
 - **Highmark Health** — [Software Engineer Undergraduate Intern](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Software-Engineer-enGen-Undergraduate-Intern_J290027) · software-engineering · —
 - **Hitachi** — [AI Intern Supply Chain](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/AI-Intern--Supply-Chain--Winter-2027--12months-_R0145043) · ai · —
 - **Hitachi** — [AI Intern, Supply Chain](https://go.vansh.nyc/d0) · ai · —
+- **Hitachi** — [Software Analyst Intern](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Software-Analyst-Intern--Fall-2026--8-months-_R0148741) · software-engineering · —
+- **Hitachi** — [Software Analyst Intern](https://go.vansh.nyc/Wz) · software-engineering · —
 - **Hitachi** — [Test Engineering Intern](https://go.vansh.nyc/ex) · software-engineering · —
+- **Hive Financial Systems** — [Analytics Intern](https://job-boards.greenhouse.io/hivefinancialsystems/jobs/5277475007) · software-engineering · —
 - **Hive Financial Systems** — [Product & Program Management Intern](https://job-boards.greenhouse.io/hivefinancialsystems/jobs/5274970007) · software-engineering · —
 - **Hive Financial Systems** — [Software Engineer Intern](https://job-boards.greenhouse.io/hivefinancialsystems/jobs/5274887007) · software-engineering · —
 - **Hive Financial Systems** — [Software Engineer Intern](https://go.vansh.nyc/Ta) · software-engineering · —
@@ -375,8 +402,13 @@
 - **International Rescue Committee** — [Development Data and Research Intern](https://theirc.wd1.myworkdayjobs.com/en-US/External_Careers/job/Silver-Spring-MD-USA/Development-Data-and-Research-Intern----Spring2027-_JR00005497) · research · —
 - **Ivalua** — [Marketing Web Developer Intern](https://go.vansh.nyc/hd) · software-engineering · —
 - **JM Family** — [Automation & Analytics Intern](https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Automation---Analytics-Intern_JR105132) · software-engineering · —
+- **JM Family** — [Business Insights Intern](https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Business-Insights-Intern_JR105146) · software-engineering · —
+- **JM Family** — [Data Engineer Intern](https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Data-Engineer-Intern_JR105120) · data-engineering · —
+- **JM Family** — [Power Platform & Analytics Intern](https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Alabama---Mobile/Intern--College-NE_JR105133) · software-engineering · —
+- **JM Family** — [Sales Reporting & Analysis Intern](https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Sales-Reporting---Analysis-Intern_JR105145) · software-engineering · —
 - **JM Family Enterprises** — [Data Engineer Intern](https://go.vansh.nyc/VR) · data-engineering · —
 - **JP Morgan Chase** — [Asset Management Data Scientist – Summer Associate Intern](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210802931) · data-science · —
+- **JP Morgan Chase** — [Machine Learning Center of Excellence Summer Associate Intern - Time Series and Reinforcement Learning - Tsrl](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803983) · machine-learning · —
 - **JP Morgan Chase** — [Machine Learning Summer Associate Intern - NLP](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210801790) · machine-learning · —
 - **JP Morgan Chase** — [Quant AI Associate Intern](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803936) · ai · —
 - **JPMorganChase** — [Machine Learning Intern, NLP](https://go.vansh.nyc/bI) · machine-learning · —
@@ -391,6 +423,7 @@
 - **KLA Corporation** — [Software Engineer Intern - C++ - Linux](https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Software-Engineer-Intern--C----Linux----Summer-2027_2641878) · software-engineering · —
 - **KRAFTON** — [UI Programming Intern](https://go.vansh.nyc/hY) · design · —
 - **KeyBank** — [Marketing Analytics Intern](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/XMLNAME-2027-Summer-Marketing-Analytics-Internship---Cleveland_R-42822) · software-engineering · —
+- **Keysight Technologies** — [Application Development Intern](https://go.vansh.nyc/WE) · software-engineering · —
 - **Keysight Technologies** — [FPGA Design Intern](https://go.vansh.nyc/hE) · hardware · —
 - **Keysight Technologies** — [R&D Software Engineer Intern](https://go.vansh.nyc/db) · software-engineering · —
 - **Keysight Technologies** — [R&D Software Engineer Intern](https://jobs.keysight.com/jobs/55110?icims=1) · software-engineering · —
@@ -407,6 +440,7 @@
 - **LabCorp** — [Bioinformatics Intern](https://go.vansh.nyc/eG) · software-engineering · —
 - **Leidos** — [AI/ML Intern](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/AI-ML-Intern_R-00195168) · machine-learning · —
 - **Leidos** — [AI/ML Intern](https://go.vansh.nyc/eQ) · machine-learning · —
+- **Leidos** — [Cybersecurity Analyst Intern](https://go.vansh.nyc/Wv) · security · —
 - **Leidos** — [Electrical Design Engineer Intern](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Electrical-Design-Engineering-Intern_R-00195400) · design · —
 - **Leidos** — [Network Site Design Intern](https://go.vansh.nyc/ea) · design · —
 - **Leonardo** — [Electronic Engineer Intern](https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Edinburgh/Summer-Placement-Electronic-Engineer_R0034554) · software-engineering · —
@@ -418,6 +452,7 @@
 - **LinkedIn** — [Software Engineer Intern](https://go.vansh.nyc/dh) · software-engineering · —
 - **Linkup** — [Member of Technical Staff Intern](https://go.vansh.nyc/hy) · software-engineering · —
 - **Lockheed Martin** — [Software Engineer Intern](https://go.vansh.nyc/UC) · software-engineering · —
+- **Lumerate** — [Data Associate Intern](https://lumerate.breezy.hr/p/baf2283496ad/apply) · software-engineering · —
 - **M&T Bank** — [Technology Intern, Software Engineering, Enterprise API Services Development Team](https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/Buffalo-NY/Technology-Intern---Software-Engineering--Enterprise-API-Services-Development-Team-_R90812) · software-engineering · —
 - **M&T Bank** — [Technology Intern - Software Engineering - Enterprise API Services Development Team](https://mtb.wd5.myworkdayjobs.com/Campus/job/Buffalo-NY/Technology-Intern---Software-Engineering--Enterprise-API-Services-Development-Team-_R90812) · software-engineering · —
 - **M&T Bank** — [Technology Intern, Software Engineering, Enterprise API Services Development Team](https://go.vansh.nyc/eR) · software-engineering · —
@@ -465,7 +500,12 @@
 - **NVIDIA** — [Product Management MBA Intern - Gaming, Content Creation, And PC AI](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--Gaming--Content-Creation--and-PC-AI---Summer-2027_JR2026962) · ai · —
 - **NVIDIA** — [Research Intern - Robotic Perception and Learning](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-WA-Redmond/PhD-Research-Intern--Robotic-Perception-and-Learning---2027_JR2027089) · research · —
 - **NVIDIA** — [Systems Software Intern - Aerial PHY](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Software-Intern--Aerial-PHY--Summer-2027_JR2026530) · software-engineering · —
+- **National Interstate Insurance** — [Claims Lab Developer Intern](https://go.vansh.nyc/Wm) · software-engineering · —
+- **National Interstate Insurance** — [Data Application Development Intern](https://go.vansh.nyc/Wj) · software-engineering · —
+- **National Interstate Insurance** — [Data Automation Intern](https://go.vansh.nyc/Wg) · software-engineering · —
 - **National Interstate Insurance** — [Data Engineering Intern](https://go.vansh.nyc/Wd) · data-engineering · —
+- **National Interstate Insurance** — [Emerging Technology Intern](https://go.vansh.nyc/Wh) · software-engineering · —
+- **National Interstate Insurance** — [Platform Operations Developer Intern](https://go.vansh.nyc/Wi) · software-engineering · —
 - **Navy Federal** — [Data Analytics Intern](https://go.vansh.nyc/hL) · software-engineering · —
 - **Netflix** — [Software Engineer Intern](https://go.vansh.nyc/BN) · software-engineering · —
 - **Netsmart** — [Security Analyst Intern](https://go.vansh.nyc/SN) · security · —
@@ -474,10 +514,17 @@
 - **Nissan** — [AI Intern](https://go.vansh.nyc/VH) · ai · —
 - **Nissan** — [AI Intern](https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Irving-Texas---United-States-of-America/AI-Intern---Summer-2027---Dallas--TX-or-Franklin--TN_R00214219) · ai · —
 - **Nissan** — [Cyber Security Intern](https://go.vansh.nyc/eD) · security · —
+- **Nissan Global** — [Physical AI Manufacturing Intern](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Smyrna-Tennessee---United-States-of-America/Physical-AI-Manufacturing-Intern---Summer-2027---Smyrna--TN_R00214526) · ai · —
+- **Nissan Global** — [Research Application Intern](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Santa-Clara-California---United-States-of-America/Research-Application-Intern---Summer-2027---Santa-Clara--CA_R00214271) · research · —
+- **Nomad GCS** — [Software Engineer Intern](https://go.vansh.nyc/WO) · software-engineering · —
 - **Northrop Grumman** — [Cyber Software Engineer Intern](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Texas-San-Antonio/XMLNAME-2027-Cyber-Software-Engineer-Intern---San-Antonio-TX_R10257311) · software-engineering · —
 - **Northrop Grumman** — [Cyber Systems Engineer Intern](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Tampa/XMLNAME-2027-Cyber-Systems-Engineer-Intern-Tampa-FL_R10249196) · software-engineering · —
 - **Northrop Grumman** — [Software Engineer Intern](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Software-Engineering-Intern---Roy-UT_R10257053) · software-engineering · —
+- **Northrop Grumman** — [Software Engineer Intern](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Boulder/XMLNAME-2027-Software-Engineering-Intern---Boulder-CO_R10257798) · software-engineering · —
 - **Northrop Grumman** — [Software Engineer Intern](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Ohio-Beavercreek/XMLNAME-2027-Software-Engineering-Intern---Beavercreek-OH_R10257656) · software-engineering · —
+- **Northrop Grumman** — [Software Engineer Intern](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Azusa/XMLNAME-2027-Software-Engineer-Intern---Azusa-CA_R10257903) · software-engineering · —
+- **Northrop Grumman** — [Software Engineer Intern](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Software-Engineering-Intern---Colorado-Springs_R10257803) · software-engineering · —
+- **Northrop Grumman** — [Software Engineer Intern](https://go.vansh.nyc/Wl) · software-engineering · —
 - **Northrop Grumman** — [Software Engineering Intern](https://go.vansh.nyc/ST) · software-engineering · —
 - **Northrop Grumman** — [Systems Engineering Intern - AI Experience](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/XMLNAME-2027-Systems-Engineering-Internship--AI-Experience----Dulles-VA_R10257423) · ai · —
 - **Northwestern Mutual** — [Application Development Intern](https://go.vansh.nyc/Qu) · software-engineering · —
@@ -493,6 +540,8 @@
 - **PTC** — [Software Engineer Intern](https://go.vansh.nyc/CS) · software-engineering · —
 - **Paccar** — [Aftersales Data Analyst Intern](https://jobs.paccar.com/job/Kirkland-Summer-2027-AfterSales-Data-Analyst-Intern-WA-98033/1450518033/?ats=successfactors) · software-engineering · —
 - **Paccar** — [Aftersales Data Analyst Intern](https://go.vansh.nyc/gB) · software-engineering · —
+- **Paccar** — [Data Engineer Intern](https://jobs.paccar.com/job/Kirkland-Summer-2027-Data-Engineer-Intern-(OH)-WA-98033/1451916833/?ats=successfactors) · data-engineering · —
+- **Paccar** — [Data Engineer Intern](https://go.vansh.nyc/WP) · data-engineering · —
 - **Paccar** — [Dealer Development Marketing Data Analytics Intern](https://jobs.paccar.com/job/Kirkland-Summer-2027-Dealer-Development-Marketing-Data-Analytics-Intern-WA-98033/1449209833/?ats=successfactors) · software-engineering · —
 - **Paccar** — [Engineering Operations Intern](https://jobs.paccar.com/job/Kirkland-Summer-2027-Engineering-Operations-Intern-WA-98033/1449526733/?ats=successfactors) · software-engineering · —
 - **Paccar** — [Field Service Data Analyst Intern](https://jobs.paccar.com/job/Kirkland-Summer-2027-Field-Service-Data-Analyst-Intern-WA-98033/1449526633/?ats=successfactors) · software-engineering · —
@@ -540,12 +589,12 @@
 - **RTX** — [Software Engineer Intern](https://go.vansh.nyc/dr) · software-engineering · —
 - **RTX** — [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Engineer-Intern--Summer-2027-_01880127) · software-engineering · —
 - **RTX** — [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MD-ANNAPOLIS-905--2551-Riva-Rd--BLDG-905/Software-Engineering-Intern--Summer-2027-_01882939) · software-engineering · —
-- **RTX** — [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Software-Engineering-Intern--Summer-2027-_01881090-1) · software-engineering · —
 - **RTX** — [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Software-Engineering-Intern---Summer-2027-_01884375) · software-engineering · —
 - **RTX** — [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CO-AURORA-S77--16470-E-Hughes-Dr--BLDG-S77/Software-Engineering--Intern--Summer-2027-_01881520) · software-engineering · —
 - **RTX** — [Software Engineer Intern](https://go.vansh.nyc/eq) · software-engineering · —
 - **RTX** — [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineering-Intern--Summer-2027-_01885074) · software-engineering · —
-- **RTX** — [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-107--400-Collins-Rd-NE--BLDG-107/Software-Engineering-Intern--Summer-2027-_01884054) · software-engineering · —
+- **RTX** — [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Software-Engineering-Intern--Summer-2027-_01881090-1) · software-engineering · —
+- **RTX** — [Software Engineering Intern](https://go.vansh.nyc/Ww) · software-engineering · —
 - **RTX** — [Software Engineering Intern](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-SAN-JOSE-826--200-Holger-Way--BLDG-826/Software-Engineering-Intern--Summer-2027-_01883026) · software-engineering · —
 - **RTX** — [Software Engineering Intern](https://go.vansh.nyc/T2) · software-engineering · —
 - **Radiance Technologies** — [Microelectronics Engineer Intern](https://go.vansh.nyc/f9) · software-engineering · —
@@ -594,14 +643,13 @@
 - **Royal Bank of Canada** — [Developer Intern](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/Developer--RBC-Amplify-2027--Toronto_R-0000187114-1) · software-engineering · —
 - **Royal Bank of Canada** — [Developer Intern](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/MONTRAL-Quebec-Canada/dveloppeur--RBC-amplifie-2027--Montral---Developer--RBC-Amplify-2027--Montreal_R-0000191206) · software-engineering · —
 - **Royal Bank of Canada** — [Developer Intern](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/VANCOUVER-British-Columbia-Canada/Developer--RBC-Amplify-2027--Vancouver_R-0000191199) · software-engineering · —
-- **Royal Bank of Canada** — [Developer Intern](https://go.vansh.nyc/OH) · software-engineering · —
 - **Royal Bank of Canada** — [Developer Intern](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/VANCOUVER-British-Columbia-Canada/Developer--RBC-Amplify-2027--Vancouver_R-0000191199-2) · software-engineering · —
 - **Royal Bank of Canada** — [Developer Intern](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/HALIFAX-Nova-Scotia-Canada/Developer--RBC-Amplify-2027--Halifax_R-0000191196-1) · software-engineering · —
 - **Royal Bank of Canada** — [Developer Intern](https://go.vansh.nyc/Qd) · software-engineering · —
 - **Royal Bank of Canada** — [Developer Intern](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Developer--RBC-Amplify-2027--Toronto_R-0000191193) · software-engineering · —
 - **Royal Bank of Canada** — [Developer Intern](https://go.vansh.nyc/Qb) · software-engineering · —
 - **Royal Bank of Canada** — [Developer Intern](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Developer--RBC-Amplify-2027--Toronto_R-0000187114) · software-engineering · —
-- **Royal Bank of Canada** — [Developer Intern](https://go.vansh.nyc/OG) · software-engineering · —
+- **Royal Bank of Canada** — [Developer Intern](https://go.vansh.nyc/OH) · software-engineering · —
 - **Royal Bank of Canada** — [Developer Intern - RBC Amplify](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/MONTRAL-Quebec-Canada/dveloppeur--RBC-amplifie-2027--Montral---Developer--RBC-Amplify-2027--Montreal_R-0000191206-1) · software-engineering · —
 - **Royal Bank of Canada** — [Retail Risk Modeling Analyst Intern](https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--Retail-Risk-Modeling-Analyst-Intern--8-Months-_R-0000185759-3) · software-engineering · —
 - **Ryan** — [Application Engineering Intern](https://ryan.wd1.myworkdayjobs.com/RyanCareers/job/Plano/Summer-2027-Intern--Application-Engineering_R0020808-2) · software-engineering · —
@@ -626,10 +674,14 @@
 - **SPS Commerce** — [Software Engineer Intern](https://go.vansh.nyc/fd) · software-engineering · —
 - **STR** — [Data Analyst Intern](https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4723980006) · software-engineering · —
 - **STR** — [Data Analyst Intern](https://go.vansh.nyc/fo) · software-engineering · —
+- **SWBC** — [Integration Analyst Intern](https://go.vansh.nyc/Wp) · software-engineering · —
 - **Safran** — [Software Engineering Intern](https://go.vansh.nyc/dQ) · software-engineering · —
 - **Salesforce** — [AI Research Intern](https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/California---Palo-Alto/Summer-2027-Intern---AI-Research_JR365111) · ai · —
 - **Salesforce** — [AI Research Intern](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---Palo-Alto/Summer-2027-Intern---AI-Research_JR365111-1) · ai · —
 - **Salesforce** — [AI Research Intern](https://go.vansh.nyc/cG) · ai · —
+- **Salesforce** — [Forward Deployed Engineer Intern - Global Public Sector](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Arkansas---Remote/Summer-2027-Intern---Forward-Deployed-Engineer---Global-Public-Sector_JR366026-1) · software-engineering · —
+- **Salesforce** — [Forward Deployed Engineer Intern - Global Public Sector](https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/Arkansas---Remote/Summer-2027-Intern---Forward-Deployed-Engineer---Global-Public-Sector_JR366026) · software-engineering · —
+- **Salesforce** — [Forward Deployed Engineer Intern, Global Public Sector](https://go.vansh.nyc/WD) · software-engineering · —
 - **Samsara** — [Account Development Representative Intern - Atlanta](https://www.samsara.com/company/careers/roles/8325373?gh_jid=8325373) · software-engineering · —
 - **Samsara** — [Account Development Representative Intern - Atlanta](https://www.samsara.com/company/careers/roles/8325057?gh_jid=8325057) · software-engineering · —
 - **Samsara** — [Account Development Representative Intern - Phoenix](https://www.samsara.com/company/careers/roles/8325056?gh_jid=8325056) · software-engineering · —
@@ -678,7 +730,9 @@
 - **Smith+Nephew** — [Agentic AI Software Engineering Intern](https://go.vansh.nyc/dl) · ai · —
 - **Smith+Nephew** — [Computer Vision Software Engineering Intern](https://go.vansh.nyc/dB) · software-engineering · —
 - **Smith+Nephew** — [Embedded Software Engineering Intern](https://go.vansh.nyc/dA) · embedded · —
+- **Sonos** — [Data Quality Intern](https://sonos.wd1.myworkdayjobs.com/Sonos/job/Boston-MA/Data-Quality-Intern_R2876-1) · software-engineering · —
 - **Sonos** — [Data Quality Intern](https://go.vansh.nyc/Wa) · software-engineering · —
+- **Sonos** — [Software Engineer Intern](https://sonos.wd1.myworkdayjobs.com/Sonos/job/Seattle-WA/Software-Engineering-Intern--Seattle-_R2871) · software-engineering · —
 - **Sonos** — [Software Engineering Intern](https://go.vansh.nyc/W9) · software-engineering · —
 - **Sony** — [Data Quality & Systems Intern](https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/Weybridge/Data-Quality---Systems-Intern---Student-Placement-Year_JR-119746-1) · software-engineering · —
 - **Sony** — [Data Quality & Systems Intern](https://sonyglobal.wd1.myworkdayjobs.com/Sony_Europe_Careers/job/Weybridge/Data-Quality---Systems-Intern---Student-Placement-Year_JR-119746) · software-engineering · —
@@ -697,12 +751,14 @@
 - **Sun Life** — [Data Science Intern](https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Wellesley-Hills-Massachusetts/Data-Science-Intern---Summer-2027-Intern_JR00127666-1) · data-science · —
 - **Sun Life** — [Data Science Intern](https://sunlife.wd3.myworkdayjobs.com/en-US/Experienced-Jobs/job/Wellesley-Hills-Massachusetts/Data-Science-Intern---Summer-2027-Intern_JR00127666) · data-science · —
 - **Sun Life** — [Data Science Intern](https://go.vansh.nyc/hk) · data-science · —
+- **Sun Life** — [Quality Engineering Analyst Intern](https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Waterloo-Ontario/Student--Quality-Engineering-Analyst--Winter-and-Summer-2027-_JR00128337) · software-engineering · —
 - **Synopsys** — [Technical-Engineering Intern](https://synopsys.avature.net/careers/JobDetail/19182) · software-engineering · —
 - **T-Mobile** — [Software Engineer Intern, Cloud Security](https://go.vansh.nyc/dw) · security · —
 - **TD Bank** — [Life & Health Product Management Co-op Intern](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Job-Posting-Title-L-H-Product-Management-Intern-Co-op--Winter-2027-_R_1506721) · product · —
 - **TD Bank** — [Technology Intern](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/London-United-Kingdom/XMLNAME-2027-Summer-Internship---Technology_R_1518239) · software-engineering · —
 - **TD Bank** — [Wealth Operations Automation Intern Co-op](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Wealth-Operations-Automation-Intern---Co-Op--Winter-2027-_R_1512131) · software-engineering · —
 - **TELUS Digital** — [Software Engineering Intern Co-op](https://jobs.ashbyhq.com/telus-digital/63b0654a-9849-4d74-bc3f-94b2ccceb2c2/application?embed=true) · software-engineering · —
+- **TMX Group** — [Analyst Model Validation Intern](https://tmx.wd3.myworkdayjobs.com/TMX_Careers/job/Montreal---1190-av-des-Canadiens-de-Montreal/Intern-Analyst-Model-Validation---Winter-term_R-6603) · software-engineering · —
 - **TPG** — [Research Assistant Intern, Data Analytics and Reporting](https://go.vansh.nyc/RV) · research · —
 - **Taylor** — [Enablement Data & Insights Intern](https://go.vansh.nyc/fg) · software-engineering · —
 - **Tesla** — [Internship - Electrical Engineer - Embedded Systems & Test Engineering - Supply Chain - Winter/Spring 2027](https://www.tesla.com/careers/search/job/287407) · embedded · —
@@ -710,6 +766,7 @@
 - **Texas Instruments** — [Digital Design Verification Engineering Intern](https://go.vansh.nyc/hS) · design · —
 - **Texas Instruments** — [Software Engineer Intern, Compiler](https://go.vansh.nyc/cv) · software-engineering · —
 - **Texas Instruments** — [Software Engineering Intern](https://go.vansh.nyc/eT) · software-engineering · —
+- **Texas Instruments** — [Web Marketing Intern, Front-end Developer](https://go.vansh.nyc/Wf) · software-engineering · —
 - **Thales** — [Tools and Process Development Intern](https://go.vansh.nyc/hj) · software-engineering · —
 - **The Aerospace Corporation** — [Embedded Software Engineer Intern, Multiple Teams](https://go.vansh.nyc/dM) · embedded · —
 - **The Allen Institute for AI** — [Research Intern - Open Ecosystem](https://job-boards.greenhouse.io/thealleninstitute/jobs/8319350) · research · —
@@ -719,6 +776,8 @@
 - **The Federal Reserve System** — [Policy & Analysis Intern](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Dallas-TX/XMLNAME-2027-Intern---Policy---Analysis_R-0000033766) · software-engineering · —
 - **The Federal Reserve System** — [REIN Data Intern](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---REIN-Data-Intern_R-0000033089) · software-engineering · —
 - **The Federal Reserve System** — [Technology Risk Intern](https://go.vansh.nyc/cR) · software-engineering · —
+- **The Walt Disney Company** — [Content Research Insights & Analytics Intern](https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Burbank-CA-USA/Content-Research-Insights---Analytics-Intern--Spring-2027_10164072-2) · research · —
+- **The Walt Disney Company** — [Content Research Insights & Analytics Intern](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Burbank-CA-USA/Content-Research-Insights---Analytics-Intern--Spring-2027_10164072-1) · research · —
 - **Thermo Fisher Scientific** — [IT & Digital Intern](https://go.vansh.nyc/hU) · software-engineering · —
 - **TikTok** — [Global Product Solutions and Operations Intern - Global Monetization Product and Technology](https://lifeattiktok.com/search/7701069870360627509) · software-engineering · —
 - **Toyota** — [Data Science Intern](https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/XMLNAME-2027-TFS-Data-Science-Internship_10338545-1) · data-science · —
@@ -741,12 +800,14 @@
 - **Twitch** — [Undergrad Software Engineering Intern](https://go.vansh.nyc/eV) · software-engineering · —
 - **Two Six Technologies** — [Research Intern](https://go.vansh.nyc/SO) · research · —
 - **Uber** — [Software Engineer Intern](https://go.vansh.nyc/dg) · software-engineering · —
+- **Uber** — [Software Engineering Intern](https://go.vansh.nyc/Wx) · software-engineering · —
 - **Uline** — [Database Administrator Intern](https://go.vansh.nyc/eF) · software-engineering · —
 - **Uline** — [Executive Operations Analyst Intern](https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Executive-Operations-Analyst-Internship---Summer-2027_R268434) · software-engineering · —
 - **Uline** — [Operations Analyst Intern](https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Operations-Analyst-Internship---Summer-2027_R268435) · software-engineering · —
 - **Uline** — [Software Developer Intern](https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Software-Development-Internship---Summer-2027_R268537) · software-engineering · —
 - **Uline** — [Software Developer Intern](https://go.vansh.nyc/eo) · software-engineering · —
 - **Uline** — [Systems Administrator Intern](https://go.vansh.nyc/ey) · software-engineering · —
+- **United Parcel Service** — [Human Resources Intern - Data Analytics - HR Systems](https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/US---UPS-CORPORATE-OFFICES-GACOR/MHR-Summer-2027-Intern---Data-Analytics--HR-Systems-_R26039546) · software-engineering · —
 - **University of Virginia** — [Graduate Student Associate Intern](https://uva.wd1.myworkdayjobs.com/uvastudentjobs/job/Charlottesville-VA/StatLab-Graduate-Associate--Student-Wage-_R0088483) · software-engineering · —
 - **Upscale AI** — [Advanced SerDes & Analog/Mixed-Signal IC Design Intern](https://jobs.lever.co/upscale-ai/2bad3e47-6c00-4ec2-94b5-feb4009619c9/apply) · design · —
 - **Ursa Major** — [Embedded Flight Software Intern](https://ursamajor.com/careers/?gh_jid=4746825005) · embedded · —
@@ -763,6 +824,7 @@
 - **Verizon Communications** — [Data Science Intern, Verizon Consumer Group](https://verizon.wd12.myworkdayjobs.com/en-US/verizon-careers/job/Basking-Ridge-New-Jersey/Basking-Ridge--NJ--VTeamer-for-a-Day--Verizon-Consumer-Group--Data-Science-Summer-2027-Internship_R-1102417) · data-science · —
 - **Vertex Pharmaceuticals** — [International Insights Summer Intern - Analytics and Commercial Operations](https://vrtx.wd501.myworkdayjobs.com/vertex_intern/job/Paddington-United-Kingdom/International-Insights--Analytics-and-Commercial-Operations---Summer-Intern--10-weeks-_REQ-30453) · software-engineering · —
 - **Vertex Pharmaceuticals** — [International Insights Summer Intern - Analytics and Commercial Operations](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Paddington-United-Kingdom/International-Insights--Analytics-and-Commercial-Operations---Summer-Intern--10-weeks-_REQ-30453-1) · software-engineering · —
+- **Videotron** — [Engineering Intern](https://jobs.smartrecruiters.com/Videotron/744000157818080) · software-engineering · —
 - **Visa** — [Data Science Intern - Data and AI Team](https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Foster-City-CA/Data-Science-Intern--Data-and-AI-Team---Summer-2027_REF089883W) · ai · —
 - **Visa** — [Data Science Intern - Data and AI Team](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Data-Science-Intern--Data-and-AI-Team---Summer-2027_REF089883W-1) · ai · —
 - **Visa** — [Data Science Intern, Data and AI Team](https://go.vansh.nyc/UG) · ai · —
@@ -808,6 +870,7 @@
 - **Zillow** — [Software Development Engineer Intern](https://go.vansh.nyc/dP) · software-engineering · —
 - **lowRISC CIC** — [Design Engineer Intern](https://lowrisc.applytojob.com/apply/YDXpDtU0O2/Summer-Internship-Design-Engineer) · design · —
 - **onsemi** — [AI & Data Science Intern](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506468) · ai · —
+- **onsemi** — [Customer Operations Data Analyst Intern](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2507070) · software-engineering · —
 
 ## ⏰ Closing within 7 days (0)
 

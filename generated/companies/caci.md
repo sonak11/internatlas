@@ -14,6 +14,7 @@
 | CACI | [Software Development/Engineer Intern](https://caci.wd1.myworkdayjobs.com/external/job/Remote-Any-State/Software-Development-Engineer-Intern---Summer-2027_332894-1) | Remote | Remote | 2026-10-01 | Rolling | 🟢 Open | ❔ |
 | CACI | [Software Engineer Intern](https://go.vansh.nyc/MU) | USA +2 | Onsite | 2026-09-14 | Rolling | 🟢 Open | ❔ |
 | CACI | [Software Engineer Intern](https://caci.wd1.myworkdayjobs.com/external/job/Omaha-NE-US/Software-Engineer-Intern---Summer-2027_332776) | Omaha, NE | Onsite | 2026-09-29 | Rolling | 🟢 Open | ❔ |
+| CACI | [Software Engineer Intern - Summer 2027](https://caci.wd1.myworkdayjobs.com/external/job/Sarasota-FL-US/Software-Engineering-Intern---Summer-2027_332618) | Sarasota, FL | Onsite | 2026-10-27 | Rolling | 🟢 Open | ❔ |
 | CACI | [Software Engineer Intern - Summer 2027](https://caci.wd1.myworkdayjobs.com/external/job/437-DENVER-CO/Cleared-Software-Engineer-Intern---Summer-2027_331999) | Sterling, VA +1 | Onsite | 2026-09-14 | Rolling | 🟢 Open | ❔ |
 | CACI | [Software Engineering Intern](https://go.vansh.nyc/VM) | Sarasota, FL | Onsite | 2026-10-27 | Rolling | 🟢 Open | ❔ |
 | CACI | [Software Test Engineer Intern](https://go.vansh.nyc/CX) | USA | Onsite | 2026-10-15 | Rolling | 🟢 Open | ❔ |

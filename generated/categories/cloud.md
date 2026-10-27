@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # ☁️ Cloud Internships
 
-**109** tracked · **74** open now
+**111** tracked · **76** open now
 
 ## Current openings
 
@@ -32,6 +32,8 @@
 | [Election Systems & Software](generated/companies/election-systems-software.md) | [DevOps Intern](https://go.vansh.nyc/fY) | Omaha, NE | Onsite | 2026-10-01 | Rolling | 🟢 Open | ❔ |
 | [Gallup](generated/companies/gallup.md) | [DevOps Engineer Intern](https://go.vansh.nyc/N5) | Omaha, NE | Onsite | 2026-09-08 | Rolling | 🟢 Open | ❔ |
 | [GlobalFoundries](generated/companies/globalfoundries.md) | [Software Engineer Intern - Cloud Platform](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---California---Santa-Clara/Software-Engineering-Intern--Cloud-Platform--Summer-2027-_JR-2604034) | Santa Clara, CA | Onsite | 2026-10-21 | Rolling | 🟢 Open | ❔ |
+| [Great American Insurance Company](generated/companies/great-american-insurance-company.md) | [Cloud Data Platform Intern](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Cloud-Data-Platform-Intern---Summer-2027_R9795) | Cincinnati, OH | Onsite | 2026-10-27 | Rolling | 🟢 Open | ❔ |
+| [Great American Insurance Group](generated/companies/great-american-insurance-group.md) | [Cloud Data Platform Intern](https://go.vansh.nyc/Wu) | Cincinnati, OH | Onsite | 2026-10-27 | Rolling | 🟢 Open | ❔ |
 | [GuidePoint Security](generated/companies/guidepoint-security.md) | [Cloud Infrastructure Intern](https://go.vansh.nyc/He) | USA | Onsite | 2026-10-08 | Rolling | 🟢 Open | ❔ |
 | [Hewlett Packard Enterprise](generated/companies/hewlett-packard-enterprise.md) | [Cloud Developer Intern](https://go.vansh.nyc/EL) | San Jose, CA | Onsite | 2026-10-05 | Rolling | 🟢 Open | ❔ |
 | [HP IQ](generated/companies/hp-iq.md) | [Software Engineer Intern - Cloud Services - Summer 2027](https://job-boards.greenhouse.io/hpiq/jobs/6111955004) | SF | Onsite | 2026-08-31 | Rolling | 🟢 Open | ❔ |
@@ -146,6 +148,8 @@
 - Election Systems & Software (1)
 - Gallup (1)
 - GlobalFoundries (1)
+- Great American Insurance Company (1)
+- Great American Insurance Group (1)
 - GuidePoint Security (1)
 - Hewlett Packard Enterprise (1)
 - HP IQ (1)

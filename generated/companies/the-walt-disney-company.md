@@ -6,6 +6,8 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
+| The Walt Disney Company | [Content Research Insights & Analytics Intern](https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Burbank-CA-USA/Content-Research-Insights---Analytics-Intern--Spring-2027_10164072-2) | Burbank, CA | Onsite | 2026-10-27 | Rolling | 🟢 Open | ❔ |
+| The Walt Disney Company | [Content Research Insights & Analytics Intern](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Burbank-CA-USA/Content-Research-Insights---Analytics-Intern--Spring-2027_10164072-1) | Burbank, CA | Onsite | 2026-10-27 | Rolling | 🟢 Open | ❔ |
 | The Walt Disney Company | [Commercial Data Science Intern](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Celebration-FL-USA/Commercial-Data-Science-Intern--Spring-2027_10158063) | Celebration, FL | Onsite | 2026-09-04 | Rolling | 🔴 Closed | ❔ |
 | The Walt Disney Company | [Commercial Data Science Intern - Spring 2027](https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Celebration-FL-USA/Commercial-Data-Science-Intern--Spring-2027_10158063-1) | Celebration, FL | Onsite | 2026-09-04 | Rolling | 🔴 Closed | ❔ |
 | The Walt Disney Company | [Computer Science / Computer Engineering Intern - Multiple Teams](https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Lake-Buena-Vista-FL-USA/WDW-Computer-Science---Computer-Engineering-Interns--Spring-2027_10158145-1) | Lake Buena Vista, FL | Onsite | 2026-08-24 | Rolling | 🔴 Closed | ❔ |
@@ -46,4 +48,4 @@
 
 ## Related
 
-Browse more roles in: [📊 Data Science](../categories/data-science.md), [🔩 Hardware](../categories/hardware.md), [💻 Software Engineering](../categories/software-engineering.md)
+Browse more roles in: [📊 Data Science](../categories/data-science.md), [🔩 Hardware](../categories/hardware.md), [🔬 Research](../categories/research.md), [💻 Software Engineering](../categories/software-engineering.md)

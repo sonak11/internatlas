@@ -1,20 +1,21 @@
 {
   "schema_version": "1.0",
-  "id": "royal-bank-of-canada-developer-intern-2027-a9c427",
+  "id": "northrop-grumman-software-engineer-intern-2027-eb5188",
   "company": {
-    "name": "Royal Bank of Canada",
-    "slug": "royal-bank-of-canada"
+    "name": "Northrop Grumman",
+    "slug": "northrop-grumman"
   },
-  "role": "Developer Intern",
+  "role": "Software Engineer Intern",
   "category": "software-engineering",
-  "apply_url": "https://go.vansh.nyc/OH",
+  "apply_url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Software-Engineering-Intern---Colorado-Springs_R10257803",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Vancouver",
-      "country": "Canada"
+      "city": "Colorado Springs",
+      "state": "CO",
+      "country": "USA"
     }
   ],
   "compensation": {
@@ -39,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-10-26",
-    "discovered": "2026-10-26",
+    "posted": "2026-10-27",
+    "discovered": "2026-10-27",
     "last_verified": "2026-10-27"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:vanshb03"
+    "src:simplify"
   ]
 }

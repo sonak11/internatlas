@@ -10,6 +10,7 @@
 | JP Morgan Chase | [Consumer & Community Banking Internship - Risk Modeling Associate Program](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210796061) | Palo Alto, CA +4 | Onsite | 2026-10-06 | Rolling | 🟢 Open | ❔ |
 | JP Morgan Chase | [Data & AI Intern - Analyst](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773869) | Palo Alto, CA +7 | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
 | JP Morgan Chase | [Data & AI Intern - Data & AI Program](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774745) | London +1 | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
+| JP Morgan Chase | [Machine Learning Center of Excellence Summer Associate Intern - Time Series and Reinforcement Learning - Tsrl](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803983) | NYC | Onsite | 2026-10-27 | Rolling | 🟢 Open | ❔ |
 | JP Morgan Chase | [Machine Learning Summer Associate Intern - NLP](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210801790) | Palo Alto, CA +2 | Onsite | 2026-10-20 | Rolling | 🟢 Open | ❔ |
 | JP Morgan Chase | [Quant AI Associate Intern](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803936) | Palo Alto, CA | Onsite | 2026-10-26 | Rolling | 🟢 Open | ❔ |
 | JP Morgan Chase | [Quantitative Research Intern](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774061) | NYC | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |

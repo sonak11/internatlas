@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🧭 Product Internships
 
-**246** tracked · **133** open now
+**246** tracked · **132** open now
 
 ## Current openings
 
@@ -140,7 +140,6 @@
 | [Zebra Technologies](generated/companies/zebra-technologies.md) | [Supplies & Sensors Product Manager Intern - US](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----Supplies---Sensors-Product-Manager_JR103640) | Lincolnshire, IL | Onsite | 2026-10-20 | Rolling | 🟢 Open | ❔ |
 | [Zurn Elkay Water Solutions](generated/companies/zurn-elkay-water-solutions.md) | [Product Management Intern](https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Paso-Robles-CA/Product-Management-Intern--Summer-2027-_REQ-020109) | Paso Robles, CA | Onsite | 2026-09-17 | Rolling | 🟢 Open | ❔ |
 | [Zurn Elkay Water Solutions](generated/companies/zurn-elkay-water-solutions.md) | [Product Management Intern](https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Downers-Grove-IL/Product-Management-Intern---Summer-2027_REQ-020065) | Downers Grove, IL | Onsite | 2026-10-19 | Rolling | 🟢 Open | ❔ |
-| [Zurn Elkay Water Solutions](generated/companies/zurn-elkay-water-solutions.md) | [Product Management Intern - Summer 2027](https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Erie-PA/Product-Management-Intern---Summer-2027_REQ-020103-1) | Erie, PA | Onsite | 2026-09-16 | Rolling | 🟢 Open | ❔ |
 | [7-Eleven](generated/companies/7-eleven.md) | [Digital Product Manager Intern](https://my7elevenhr.wd12.myworkdayjobs.com/Careers/job/SSC-Irving-TX/Digital-Product-Manager-Intern_R26_5991) | Irving, TX | Onsite | 2026-10-08 | Rolling | 🔴 Closed | ❔ |
 | [ABC News](generated/companies/abc-news.md) | [Product Management and Engineering Intern](https://jobs.disneycareers.com/job/new-york/abc-news-product-management-and-engineering-intern-summer-fall-2026/391/93958488896) | New York, NY | Onsite | 2026-04-20 | Rolling | 🔴 Closed | ❔ |
 | [Acxiom](generated/companies/acxiom.md) | [Product Manager Intern - Real Identity Product Team](https://acxiomllc.wd5.myworkdayjobs.com/AcxiomUSA/job/RemoteHomebased/Intern---Product-Management_JR014473-1) | Conway, AR | Onsite | 2026-09-15 | Rolling | 🔴 Closed | ❔ |
@@ -254,6 +253,7 @@
 | [Vertiv](generated/companies/vertiv.md) | [Services Product Management Intern - Summer 2027](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278667) | Westerville, OH | Onsite | 2026-08-27 | Rolling | 🔴 Closed | ❔ |
 | [Visa](generated/companies/visa.md) | [Associate Product Manager Intern - APM](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Associate-Product-Manager--APM--Intern---Summer-2027_REF088603W-1) | Foster City, CA | Onsite | 2026-09-17 | Rolling | 🔴 Closed | ❔ |
 | [W.R. Berkley](generated/companies/w-r-berkley.md) | [Product Management Analyst Intern - Claims](https://careers-berkley.icims.com/jobs/14439/job?mobile=true&needsRedirect=false) | Manassas, VA | Onsite | 2026-09-17 | Rolling | 🔴 Closed | ❔ |
+| [Zurn Elkay Water Solutions](generated/companies/zurn-elkay-water-solutions.md) | [Product Management Intern - Summer 2027](https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Erie-PA/Product-Management-Intern---Summer-2027_REQ-020103-1) | Erie, PA | Onsite | 2026-09-16 | Rolling | 🔴 Closed | ❔ |
 
 ## Hiring companies
 

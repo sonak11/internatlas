@@ -1,0 +1,13 @@
+<!-- ⚠️ AUTO-GENERATED FILE — do not edit by hand.
+     Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
+# SWBC
+
+## Current openings
+
+| Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
+|---|---|---|---|---|---|---|---|
+| SWBC | [Integration Analyst Intern](https://go.vansh.nyc/Wp) | San Antonio, TX | Onsite | 2026-10-27 | Rolling | 🟢 Open | ❔ |
+
+## Related
+
+Browse more roles in: [💻 Software Engineering](../categories/software-engineering.md)

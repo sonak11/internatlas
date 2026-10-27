@@ -6,6 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
+| Keysight Technologies | [Application Development Intern](https://go.vansh.nyc/WE) | Santa Rosa, CA | Onsite | 2026-10-27 | Rolling | 🟢 Open | ❔ |
 | Keysight Technologies | [ASIC Design-for-Test Engineer Intern - DFT](https://jobs.keysight.com/jobs/54276?icims=1) | Colorado Springs, CO | Onsite | 2026-09-15 | Rolling | 🟢 Open | ❔ |
 | Keysight Technologies | [ASIC Design-for-Test Engineer Intern, DFT](https://go.vansh.nyc/Is) | Colorado Springs, CO | Onsite | 2026-09-15 | Rolling | 🟢 Open | ❔ |
 | Keysight Technologies | [Compound Semiconductor Device Characterization Intern](https://jobs.keysight.com/jobs/54226?icims=1) | Santa Rosa, CA | Onsite | 2026-09-14 | Rolling | 🟢 Open | ❔ |

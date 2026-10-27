@@ -8,6 +8,8 @@
 |---|---|---|---|---|---|---|---|
 | Paccar | [Aftersales Data Analyst Intern](https://jobs.paccar.com/job/Kirkland-Summer-2027-AfterSales-Data-Analyst-Intern-WA-98033/1450518033/?ats=successfactors) | Kirkland, WA | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
 | Paccar | [Aftersales Data Analyst Intern](https://go.vansh.nyc/gB) | Kirkland, WA | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
+| Paccar | [Data Engineer Intern](https://jobs.paccar.com/job/Kirkland-Summer-2027-Data-Engineer-Intern-(OH)-WA-98033/1451916833/?ats=successfactors) | Chillicothe, OH | Onsite | 2026-10-27 | Rolling | 🟢 Open | ❔ |
+| Paccar | [Data Engineer Intern](https://go.vansh.nyc/WP) | Chillicothe, OH | Onsite | 2026-10-27 | Rolling | 🟢 Open | ❔ |
 | Paccar | [Dealer Development Marketing Data Analytics Intern](https://jobs.paccar.com/job/Kirkland-Summer-2027-Dealer-Development-Marketing-Data-Analytics-Intern-WA-98033/1449209833/?ats=successfactors) | Kirkland, WA | Onsite | 2026-10-20 | Rolling | 🟢 Open | ❔ |
 | Paccar | [Engineering Operations Intern](https://jobs.paccar.com/job/Kirkland-Summer-2027-Engineering-Operations-Intern-WA-98033/1449526733/?ats=successfactors) | Kirkland, WA | Onsite | 2026-10-20 | Rolling | 🟢 Open | ❔ |
 | Paccar | [Field Service Data Analyst Intern](https://jobs.paccar.com/job/Kirkland-Summer-2027-Field-Service-Data-Analyst-Intern-WA-98033/1449526633/?ats=successfactors) | Kirkland, WA | Onsite | 2026-10-20 | Rolling | 🟢 Open | ❔ |
@@ -19,4 +21,4 @@
 
 ## Related
 
-Browse more roles in: [💻 Software Engineering](../categories/software-engineering.md)
+Browse more roles in: [🛠 Data Engineering](../categories/data-engineering.md), [💻 Software Engineering](../categories/software-engineering.md)

@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🤖 AI Internships
 
-**697** tracked · **363** open now
+**700** tracked · **366** open now
 
 ## Current openings
 
@@ -56,6 +56,8 @@
 | [Apple](generated/companies/apple.md) | [Software Engineering Intern, AI-Assisted Baseband Debugging Evaluation](https://go.vansh.nyc/D3) | USA | Onsite | 2026-10-20 | Rolling | 🟢 Open | ❔ |
 | [Aptiv](generated/companies/aptiv.md) | [AI Product Analyst Intern](https://go.vansh.nyc/dC) | San Diego, CA | Onsite | 2026-10-21 | Rolling | 🟢 Open | ❔ |
 | [Argmax](generated/companies/argmax.md) | [On-device AI Frameworks Engineer Intern](https://job-boards.greenhouse.io/argmax/jobs/4067268009) | Palo Alto, CA +1 | Onsite | 2026-07-14 | Rolling | 🟢 Open | ❔ |
+| [Assurant](generated/companies/assurant.md) | [AI and Data Science Intern](https://go.vansh.nyc/WN) | Atlanta, GA | Onsite | 2026-10-27 | Rolling | 🟢 Open | ❔ |
+| [Assurant](generated/companies/assurant.md) | [AI and Data Science Intern](https://assurant.wd1.myworkdayjobs.com/External_Limited_Posting/job/Georgia-Virtual/Summer-2027--AI-and-Data-Science-Internship_R-116105) | Atlanta, GA | Onsite | 2026-10-27 | Rolling | 🟢 Open | ❔ |
 | [Astera Labs](generated/companies/astera-labs.md) | [Applied AI Engineer Intern, Silicon Engineering](https://go.vansh.nyc/Fd) | San Jose, CA | Onsite | 2026-10-06 | Rolling | 🟢 Open | ❔ |
 | [Astera Labs](generated/companies/astera-labs.md) | [Applied AI Intern, Non-Silicon](https://go.vansh.nyc/Fc) | San Jose, CA | Onsite | 2026-10-06 | Rolling | 🟢 Open | ❔ |
 | [Astreya](generated/companies/astreya.md) | [AI Infrastructure DC Design Intern](https://go.vansh.nyc/91) | Remote | Remote | 2026-10-14 | Rolling | 🟢 Open | ❔ |
@@ -246,6 +248,7 @@
 | [Nissan Global](generated/companies/nissan-global.md) | [AI Agent Architect Intern](https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Farmington-Hills-Michigan---United-States-of-America/AI-Agent-Architect---Summer-2027---Farmington-Hills--MI_R00214218) | Farmington Hills, MI | Onsite | 2026-10-08 | Rolling | 🟢 Open | ❔ |
 | [Nissan Global](generated/companies/nissan-global.md) | [AI Robotics Research Intern](https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Santa-Clara-California---United-States-of-America/AI-Robotics-Research-Intern---Summer-2027---Santa-Clara--CA_R00214267) | Santa Clara, CA | Onsite | 2026-10-14 | Rolling | 🟢 Open | ❔ |
 | [Nissan Global](generated/companies/nissan-global.md) | [Financial AI Engineer Intern](https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Financial-AI-Engineering-Intern---Summer-2027---Franklin--TN_R00214241) | Franklin, TN | Onsite | 2026-10-12 | Rolling | 🟢 Open | ❔ |
+| [Nissan Global](generated/companies/nissan-global.md) | [Physical AI Manufacturing Intern](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Smyrna-Tennessee---United-States-of-America/Physical-AI-Manufacturing-Intern---Summer-2027---Smyrna--TN_R00214526) | Smyrna, TN | Onsite | 2026-10-27 | Rolling | 🟢 Open | ❔ |
 | [Nuro](generated/companies/nuro.md) | [Software Engineer, AI Platform - Intern](https://nuro.ai/careersitem?gh_jid=7351061) | Mountain View | Onsite | 2025-10-22 | Rolling | 🟢 Open | ❔ |
 | [NVIDIA](generated/companies/nvidia.md) | [PhD Research Intern - AI for Climate and Weather Simulation](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--AI-for-Climate-and-Weather-Simulation---2027_JR2026949) | Canada +2 | Onsite | 2026-10-21 | Rolling | 🟢 Open | ❔ |
 | [NVIDIA](generated/companies/nvidia.md) | [PhD Research Intern - Generative AI for Physical AI](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Generative-AI-for-Physical-AI---2027_JR2025025) | Santa Clara, CA | Onsite | 2026-09-15 | Rolling | 🟢 Open | ❔ |
@@ -735,6 +738,7 @@
 - Veeam Software (5)
 - Visa (5)
 - PricewaterhouseCoopers (PwC) (5)
+- Assurant (4)
 - Bosch Home Comfort (4)
 - Electronic Arts (4)
 - Itron (4)
@@ -742,6 +746,7 @@
 - Marvell (4)
 - Meta (4)
 - Micron Technology (4)
+- Nissan Global (4)
 - The Hartford (4)
 - Cloudflare (4)
 - Deloitte (4)
@@ -759,7 +764,6 @@
 - Intuit (3)
 - Lazard (3)
 - Navy Federal (3)
-- Nissan Global (3)
 - Robert Bosch Venture Capital (3)
 - Salesforce (3)
 - Scale AI (3)
@@ -808,7 +812,6 @@
 - Springs Window Fashions (2)
 - xAI (2)
 - Associated Bank (2)
-- Assurant (2)
 - Canva (2)
 - CCC Intelligent Solutions (2)
 - Centene (2)

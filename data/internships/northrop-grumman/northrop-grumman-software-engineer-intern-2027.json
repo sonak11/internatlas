@@ -7,14 +7,14 @@
   },
   "role": "Software Engineer Intern",
   "category": "software-engineering",
-  "apply_url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Ohio-Beavercreek/XMLNAME-2027-Software-Engineering-Intern---Beavercreek-OH_R10257656",
+  "apply_url": "https://go.vansh.nyc/Wl",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Beavercreek",
-      "state": "OH",
+      "city": "Azusa",
+      "state": "CA",
       "country": "USA"
     }
   ],
@@ -42,13 +42,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-10-26",
+    "posted": "2026-10-27",
     "discovered": "2026-07-25",
     "last_verified": "2026-10-27"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }

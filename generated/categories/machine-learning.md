@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🧠 Machine Learning Internships
 
-**370** tracked · **261** open now
+**371** tracked · **262** open now
 
 ## Current openings
 
@@ -95,6 +95,7 @@
 | [Jane Street](generated/companies/jane-street.md) | [Machine Learning Researcher Intern](https://go.vansh.nyc/40) | New York, NY | Onsite | 2026-07-24 | Rolling | 🟢 Open | ✅ |
 | [Johns Hopkins Applied Physics Laboratory](generated/companies/johns-hopkins-applied-physics-laboratory.md) | [Artificial Intelligence and Machine Learning Intern - Research Assistant](https://careers.jhuapl.edu/jobs/60084?icims=1) | Laurel, MD | Onsite | 2026-09-25 | Rolling | 🟢 Open | ❔ |
 | [Johns Hopkins Applied Physics Laboratory](generated/companies/johns-hopkins-applied-physics-laboratory.md) | [Artificial Intelligence and Machine Learning Research Assistant Intern](https://go.vansh.nyc/JF) | Laurel, MD | Onsite | 2026-09-25 | Rolling | 🟢 Open | ❔ |
+| [JP Morgan Chase](generated/companies/jp-morgan-chase.md) | [Machine Learning Center of Excellence Summer Associate Intern - Time Series and Reinforcement Learning - Tsrl](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803983) | NYC | Onsite | 2026-10-27 | Rolling | 🟢 Open | ❔ |
 | [JP Morgan Chase](generated/companies/jp-morgan-chase.md) | [Machine Learning Summer Associate Intern - NLP](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210801790) | Palo Alto, CA +2 | Onsite | 2026-10-20 | Rolling | 🟢 Open | ❔ |
 | [JPMorganChase](generated/companies/jpmorganchase.md) | [Machine Learning Intern, NLP](https://go.vansh.nyc/bI) | New York, NY | Onsite | 2026-10-20 | Rolling | 🟢 Open | ❔ |
 | [Jump Trading](generated/companies/jump-trading.md) | [Campus AI Research Engineer - Deep Learning (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8052338) | Chicago | Onsite | 2026-07-08 | Rolling | 🟢 Open | ❔ |
@@ -404,6 +405,7 @@
 - Workday (4)
 - Adobe (3)
 - Epic Games (3)
+- JP Morgan Chase (3)
 - KLA (3)
 - Lyft (3)
 - Modal (3)
@@ -424,7 +426,6 @@
 - GlobalFoundries (2)
 - Jane Street (2)
 - Johns Hopkins Applied Physics Laboratory (2)
-- JP Morgan Chase (2)
 - Merck (2)
 - PathAI (2)
 - Pennsylvania State University (2)

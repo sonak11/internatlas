@@ -9,6 +9,7 @@
 | Leidos | [AI/ML Intern](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/AI-ML-Intern_R-00195168) | Huntsville, AL | Onsite | 2026-10-22 | Rolling | 🟢 Open | ❔ |
 | Leidos | [AI/ML Intern](https://go.vansh.nyc/eQ) | Huntsville, AL | Onsite | 2026-10-22 | Rolling | 🟢 Open | ❔ |
 | Leidos | [Cloud Engineering Intern](https://go.vansh.nyc/bl) | Remote | Remote | 2026-10-16 | Rolling | 🟢 Open | ❌ |
+| Leidos | [Cybersecurity Analyst Intern](https://go.vansh.nyc/Wv) | Pearl Harbor, HI | Onsite | 2026-10-27 | Rolling | 🟢 Open | ❌ |
 | Leidos | [Electrical Design Engineer Intern](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Electrical-Design-Engineering-Intern_R-00195400) | Huntsville, AL | Onsite | 2026-10-26 | Rolling | 🟢 Open | ❔ |
 | Leidos | [Network Site Design Intern](https://go.vansh.nyc/ea) | Remote | Remote | 2026-10-21 | Rolling | 🟢 Open | ❔ |
 | Leidos | [Performance Enablement AI/ML Intern](https://go.vansh.nyc/CC) | USA | Onsite | 2026-10-15 | Rolling | 🟢 Open | ❔ |
@@ -29,4 +30,4 @@
 
 ## Related
 
-Browse more roles in: [🤖 AI](../categories/ai.md), [☁️ Cloud](../categories/cloud.md), [🛠 Data Engineering](../categories/data-engineering.md), [📊 Data Science](../categories/data-science.md), [🎨 Design](../categories/design.md), [🔩 Hardware](../categories/hardware.md), [🧠 Machine Learning](../categories/machine-learning.md), [💻 Software Engineering](../categories/software-engineering.md)
+Browse more roles in: [🤖 AI](../categories/ai.md), [☁️ Cloud](../categories/cloud.md), [🛠 Data Engineering](../categories/data-engineering.md), [📊 Data Science](../categories/data-science.md), [🎨 Design](../categories/design.md), [🔩 Hardware](../categories/hardware.md), [🧠 Machine Learning](../categories/machine-learning.md), [🔐 Security](../categories/security.md), [💻 Software Engineering](../categories/software-engineering.md)

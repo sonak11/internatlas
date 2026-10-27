@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🛠 Data Engineering Internships
 
-**165** tracked · **100** open now
+**169** tracked · **103** open now
 
 ## Current openings
 
@@ -47,6 +47,7 @@
 | [Figma](generated/companies/figma.md) | [Data Engineer Intern (2027)](https://boards.greenhouse.io/figma/jobs/6178851004?gh_jid=6178851004) | San Francisco | Onsite | 2026-09-23 | Rolling | 🟢 Open | ❔ |
 | [First Solar (US)](generated/companies/first-solar-us.md) | [Data Engineering Intern](https://go.vansh.nyc/K3) | Perrysburg, OH | Onsite | 2026-09-26 | Rolling | 🟢 Open | ❔ |
 | [Gordon Food Service](generated/companies/gordon-food-service.md) | [Data Engineering Intern - Atlanta Tech Hub - Data Engineering](https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Atlanta-Georgia/Data-Engineering-Internship_R-57330) | Atlanta, GA | Onsite | 2026-09-17 | Rolling | 🟢 Open | ❔ |
+| [Great American Insurance Company](generated/companies/great-american-insurance-company.md) | [Data Engineer Intern](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Data-Engineering-Intern---Summer-2027_R9794) | Cincinnati, OH | Onsite | 2026-10-27 | Rolling | 🟢 Open | ❔ |
 | [Guardian Life](generated/companies/guardian-life.md) | [Data Engineering Intern - Digital & Technology](https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/New-York/XMLNAME-2027-Guardian-Summer-Intern--Digital---Technology---Data-Engineering_R000110202) | Holmdel, NJ +2 | Onsite | 2026-09-14 | Rolling | 🟢 Open | ❔ |
 | [IAT Insurance Group](generated/companies/iat-insurance-group.md) | [Data Engineering & Visualization Intern](https://iatinsurancegroup.wd1.myworkdayjobs.com/iat/job/Raleigh-NC/Data-Engineering---Visualization-Internship_JR100441) | Raleigh, NC | Onsite | 2026-09-28 | Rolling | 🟢 Open | ❔ |
 | [IAT Insurance Group](generated/companies/iat-insurance-group.md) | [Data Engineering & Visualization Intern](https://go.vansh.nyc/JL) | Raleigh, NC | Onsite | 2026-09-28 | Rolling | 🟢 Open | ❔ |
@@ -57,6 +58,7 @@
 | [ID.me](generated/companies/id-me.md) | [Analytics Engineer Intern](https://go.vansh.nyc/h1) | Mountain View, CA | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
 | [Jain Global](generated/companies/jain-global.md) | [Data Engineer Intern](https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/New-York-New-York/Data-Engineer-Intern_JR100605-1) | NYC | Onsite | 2026-10-05 | Rolling | 🟢 Open | ❔ |
 | [Jane Street](generated/companies/jane-street.md) | [Data Engineer Intern](https://go.vansh.nyc/42) | New York, NY | Onsite | 2026-07-24 | Rolling | 🟢 Open | ✅ |
+| [JM Family](generated/companies/jm-family.md) | [Data Engineer Intern](https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Data-Engineer-Intern_JR105120) | Deerfield Beach, FL | Onsite | 2026-10-27 | Rolling | 🟢 Open | ❔ |
 | [JM Family Enterprises](generated/companies/jm-family-enterprises.md) | [Data Engineer Intern](https://go.vansh.nyc/VR) | Deerfield Beach, FL | Onsite | 2026-10-27 | Rolling | 🟢 Open | ❔ |
 | [Judi Health](generated/companies/judi-health.md) | [Data Engineer Intern](https://go.vansh.nyc/Fw) | New York, NY +1 | Onsite | 2026-10-06 | Rolling | 🟢 Open | ❔ |
 | [Jump Trading](generated/companies/jump-trading.md) | [Campus Data Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8002998) | Chicago | Onsite | 2026-07-08 | Rolling | 🟢 Open | ❔ |
@@ -74,6 +76,8 @@
 | [National Interstate Insurance](generated/companies/national-interstate-insurance.md) | [Data Engineering Intern](https://go.vansh.nyc/Wd) | Cincinnati, OH | Onsite | 2026-10-27 | Rolling | 🟢 Open | ❔ |
 | [Navy Federal](generated/companies/navy-federal.md) | [Associate Data Engineer Intern](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32292) | Vienna, VA | Onsite | 2026-09-09 | Rolling | 🟢 Open | ❔ |
 | [Navy Federal](generated/companies/navy-federal.md) | [Data Engineer Intern](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32265) | Vienna, VA | Onsite | 2026-09-09 | Rolling | 🟢 Open | ❔ |
+| [Paccar](generated/companies/paccar.md) | [Data Engineer Intern](https://jobs.paccar.com/job/Kirkland-Summer-2027-Data-Engineer-Intern-(OH)-WA-98033/1451916833/?ats=successfactors) | Chillicothe, OH | Onsite | 2026-10-27 | Rolling | 🟢 Open | ❔ |
+| [Paccar](generated/companies/paccar.md) | [Data Engineer Intern](https://go.vansh.nyc/WP) | Chillicothe, OH | Onsite | 2026-10-27 | Rolling | 🟢 Open | ❔ |
 | [Pacific Life](generated/companies/pacific-life.md) | [Data Engineering Intern](https://pacificlife.wd1.myworkdayjobs.com/en-US/PacificLifeCareers/job/Newport-Beach-CA-700/Summer-2027-Data-Engineering-Internship_R17828) | Newport Beach, CA | Onsite | 2026-09-25 | Rolling | 🟢 Open | ❔ |
 | [Pacific Life](generated/companies/pacific-life.md) | [Data Engineering Intern](https://go.vansh.nyc/JC) | Newport Beach, CA | Onsite | 2026-09-25 | Rolling | 🟢 Open | ❔ |
 | [Pella](generated/companies/pella.md) | [Data Engineer Intern - Summer 2027](https://ebgj.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/253304) | Pella, IA +1 | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
@@ -88,7 +92,6 @@
 | [Royal Bank of Canada](generated/companies/royal-bank-of-canada.md) | [Data Engineer Intern](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/HALIFAX-Nova-Scotia-Canada/Data-Engineer--RBC-Amplify-2027--Halifax_R-0000191195) | Halifax Regional Municipality | Onsite | 2026-10-26 | Rolling | 🟢 Open | ❔ |
 | [Royal Bank of Canada](generated/companies/royal-bank-of-canada.md) | [Data Engineer Intern](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/HALIFAX-Nova-Scotia-Canada/Data-Engineer--RBC-Amplify-2027--Halifax_R-0000191195-1) | Halifax Regional Municipality | Onsite | 2026-10-26 | Rolling | 🟢 Open | ❔ |
 | [Royal Bank of Canada](generated/companies/royal-bank-of-canada.md) | [Data Engineer Intern](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/CALGARY-Alberta-Canada/Data-Engineer--RBC-Amplify-2027--Calgary_R-0000191201) | Calgary | Onsite | 2026-10-26 | Rolling | 🟢 Open | ❔ |
-| [Royal Bank of Canada](generated/companies/royal-bank-of-canada.md) | [Data Engineer Intern](https://go.vansh.nyc/OJ) | Halifax | Onsite | 2026-10-26 | Rolling | 🟢 Open | ❔ |
 | [Royal Bank of Canada](generated/companies/royal-bank-of-canada.md) | [Data Engineer Intern](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/410-GEORGIA-ST-W-FLOOR-3VANCOUVER/Data-Engineer--RBC-Amplify-2027--Vancouver_R-0000191198-2) | Vancouver | Onsite | 2026-10-26 | Rolling | 🟢 Open | ❔ |
 | [Royal Bank of Canada](generated/companies/royal-bank-of-canada.md) | [Data Engineer Intern](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Data-Engineer--RBC-Amplify-2027--Toronto_R-0000191192) | Toronto | Onsite | 2026-10-26 | Rolling | 🟢 Open | ❔ |
 | [Royal Bank of Canada](generated/companies/royal-bank-of-canada.md) | [Data Engineer Intern](https://go.vansh.nyc/Qa) | Calgary | Onsite | 2026-10-26 | Rolling | 🟢 Open | ❔ |
@@ -156,6 +159,7 @@
 | [Post Holdings](generated/companies/post-holdings.md) | [Data Engineer Intern](https://jobs.postholdings.com/jobs/31960?icims=1) | Lakeville, MN | Onsite | 2026-09-01 | Rolling | 🔴 Closed | ❔ |
 | [Principal Financial Group](generated/companies/principal-financial-group.md) | [Data Engineer Intern](https://careers.principal.com/jobs/52561?icims=1) | Des Moines, IA | Onsite | 2026-09-14 | Rolling | 🔴 Closed | ❔ |
 | [QuEra Computing](generated/companies/quera-computing.md) | [Photonics Data Engineer Intern - Data Management](https://job-boards.greenhouse.io/queracomputinginc/jobs/5378366008) | Boston, MA | Onsite | 2026-08-03 | Rolling | 🔴 Closed | ❔ |
+| [Royal Bank of Canada](generated/companies/royal-bank-of-canada.md) | [Data Engineer Intern](https://go.vansh.nyc/OJ) | Halifax | Onsite | 2026-10-26 | Rolling | 🔴 Closed | ❔ |
 | [Royal Bank of Canada](generated/companies/royal-bank-of-canada.md) | [Data Engineer Intern - Chief Data Office](https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---CDO--Data-Engineer-Intern--4-Months-_R-0000184902) | Toronto | Onsite | 2026-08-24 | Rolling | 🔴 Closed | ❔ |
 | [Shure](generated/companies/shure.md) | [Data Engineer Intern](https://careersus-shure.icims.com/jobs/4982/job?mobile=true&needsRedirect=false) | Niles, IL | Onsite | 2026-09-03 | Rolling | 🔴 Closed | ❔ |
 | [Shure](generated/companies/shure.md) | [Quality Data Engineering Intern](https://careersus-shure.icims.com/jobs/4995/job?mobile=true&needsRedirect=false) | Niles, IL | Onsite | 2026-09-03 | Rolling | 🔴 Closed | ❔ |
@@ -199,6 +203,7 @@
 - Lyft (2)
 - Marmon Holdings (2)
 - MEMX (2)
+- Paccar (2)
 - Pacific Life (2)
 - POET (2)
 - Veeam Software (2)
@@ -218,10 +223,12 @@
 - Figma (1)
 - First Solar (US) (1)
 - Gordon Food Service (1)
+- Great American Insurance Company (1)
 - Guardian Life (1)
 - ibotta (1)
 - Jain Global (1)
 - Jane Street (1)
+- JM Family (1)
 - JM Family Enterprises (1)
 - Judi Health (1)
 - Jump Trading (1)
