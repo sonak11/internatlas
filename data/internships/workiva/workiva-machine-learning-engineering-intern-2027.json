@@ -1,20 +1,18 @@
 {
   "schema_version": "1.0",
-  "id": "quantum-signal-ai-embedded-and-real-time-software-intern-2027-a5cb82",
+  "id": "workiva-machine-learning-engineering-intern-2027",
   "company": {
-    "name": "Quantum Signal AI",
-    "slug": "quantum-signal-ai"
+    "name": "Workiva",
+    "slug": "workiva"
   },
-  "role": "Embedded and Real-Time Software Intern",
-  "category": "embedded",
-  "apply_url": "https://quantumsignalai.applytojob.com/apply/23a7Z79zfn/Embedded-And-RealTime-Software-Intern",
+  "role": "Machine Learning Engineering Intern",
+  "category": "machine-learning",
+  "apply_url": "https://go.vansh.nyc/W7",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Saline",
-      "state": "MI",
       "country": "USA"
     }
   ],
@@ -40,13 +38,14 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-30",
-    "discovered": "2026-10-26",
+    "posted": "2026-10-27",
+    "discovered": "2026-10-27",
     "last_verified": "2026-10-27"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03",
+    "remote-available"
   ]
 }

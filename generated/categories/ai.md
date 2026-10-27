@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🤖 AI Internships
 
-**692** tracked · **358** open now
+**697** tracked · **363** open now
 
 ## Current openings
 
@@ -61,6 +61,7 @@
 | [Astreya](generated/companies/astreya.md) | [AI Infrastructure DC Design Intern](https://go.vansh.nyc/91) | Remote | Remote | 2026-10-14 | Rolling | 🟢 Open | ❔ |
 | [Astreya](generated/companies/astreya.md) | [AI Infrastructure DC Design Intern](https://go.vansh.nyc/90) | Remote | Remote | 2026-10-14 | Rolling | 🟢 Open | ❔ |
 | [Astreya](generated/companies/astreya.md) | [AI Infrastructure DC Design Intern](https://go.vansh.nyc/8Z) | Remote | Remote | 2026-10-14 | Rolling | 🟢 Open | ❔ |
+| [Atoms](generated/companies/atoms.md) | [AI Research Intern](https://go.vansh.nyc/VZ) | Mountain View, CA | Onsite | 2026-10-27 | Rolling | 🟢 Open | ❔ |
 | [Autodesk](generated/companies/autodesk.md) | [Research Intern - AI Research](https://autodesk.wd1.myworkdayjobs.com/uni/job/Toronto-ON-CAN/PhD-Researcher--AI-Research_26WD101373) | Toronto | Onsite | 2026-10-07 | Rolling | 🟢 Open | ❔ |
 | [Autodesk](generated/companies/autodesk.md) | [Research Intern - AI Research](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/PhD-Researcher--AI-Research_26WD101373-1) | Toronto | Onsite | 2026-10-07 | Rolling | 🟢 Open | ❔ |
 | [Baird](generated/companies/baird.md) | [IT AI & Automation Intern](https://baird.wd1.myworkdayjobs.com/careers/job/WI-Milwaukee/Internship---IT-Operations-Automation---AI--Year-Round-_R2026986-1) | Milwaukee, WI | Onsite | 2026-09-08 | Rolling | 🟢 Open | ❔ |
@@ -126,6 +127,7 @@
 | [Electronic Arts](generated/companies/electronic-arts.md) | [AI Engineer Intern, Creative Innovations, Character Pipelines](https://go.vansh.nyc/Jf) | Vancouver | Onsite | 2026-09-22 | Rolling | 🟢 Open | ❔ |
 | [Electronic Arts](generated/companies/electronic-arts.md) | [Client AI Software Engineer Intern](https://jobs.ea.com/en_US/careers/JobDetail/Client-AI-Software-Engineer-Intern/216364) | Manchester | Onsite | 2026-10-16 | Rolling | 🟢 Open | ❔ |
 | [Electronic Arts](generated/companies/electronic-arts.md) | [Data and AI Engineer Intern](https://jobs.ea.com/en_US/careers/JobDetail/Data-AI-Engineering-Intern-Summer-2027/216238) | Austin, TX | Onsite | 2026-10-12 | Rolling | 🟢 Open | ❔ |
+| [EQT Corporation](generated/companies/eqt-corporation.md) | [AI Intern](https://go.vansh.nyc/VF) | USA | Onsite | 2026-10-27 | Rolling | 🟢 Open | ❔ |
 | [Equitable Bank](generated/companies/equitable-bank.md) | [Commercial Lending AI Engineer Intern - Winter 2027](https://jobs.lever.co/eqbank/54045eae-334a-4486-8e97-96e49e6a1487/apply) | Toronto | Onsite | 2026-09-14 | Rolling | 🟢 Open | ❔ |
 | [Equitable Bank](generated/companies/equitable-bank.md) | [Retail Lending AI Engineer Intern](https://jobs.lever.co/eqbank/1c46930a-7ffe-4760-9d31-e08ea191ddea/apply) | Toronto | Onsite | 2026-09-14 | Rolling | 🟢 Open | ❔ |
 | [Eragon](generated/companies/eragon.md) | [Applied AI Intern](https://jobs.ashbyhq.com/eragon/0b90ea4a-8684-4ae1-a7cc-c998db6e862e/application?embed=true) | SF | Onsite | 2026-07-21 | Rolling | 🟢 Open | ❔ |
@@ -217,6 +219,7 @@
 | [Medpace](generated/companies/medpace.md) | [AI Engineer Intern](https://careers.medpace.com/jobs/12863?icims=1) | London | Onsite | 2026-07-21 | Rolling | 🟢 Open | ❔ |
 | [Medpace, Inc.](generated/companies/medpace-inc.md) | [AI Engineer Intern](https://careers.medpace.com/jobs/12729?lang=en-us&icims=1) | Cincinnati, OH | Onsite | 2026-05-14 | Rolling | 🟢 Open | ❔ |
 | [Meta](generated/companies/meta.md) | [Research Scientist Intern, LLM Evaluation](https://www.metacareers.com/profile/job_details/4203446973242742) | New York, NY | Onsite | 2025-12-11 | Rolling | 🟢 Open | ❌ |
+| [Micron Technology](generated/companies/micron-technology.md) | [AI Engineer Intern, Platform](https://go.vansh.nyc/VX) | Boise, ID | Onsite | 2026-10-27 | Rolling | 🟢 Open | ❔ |
 | [Micron Technology](generated/companies/micron-technology.md) | [SMAI Probe AI Engineer Intern](https://go.vansh.nyc/cE) | Boise, ID | Onsite | 2026-10-20 | Rolling | 🟢 Open | ❔ |
 | [Midland States Bank](generated/companies/midland-states-bank.md) | [AI Solutions Engineer Intern](https://midlandsb.wd1.myworkdayjobs.com/msbcareers/job/Effingham-IL/Intern---AI-Solutions-Engineer_JR1461) | Rockford, IL +2 | Onsite | 2026-10-05 | Rolling | 🟢 Open | ❔ |
 | [Midland States Bank](generated/companies/midland-states-bank.md) | [AI Solutions Engineer Intern](https://go.vansh.nyc/EC) | Rockford, IL +2 | Onsite | 2026-10-05 | Rolling | 🟢 Open | ❔ |
@@ -236,6 +239,8 @@
 | [Nissan](generated/companies/nissan.md) | [AI & Data Analytics Intern](https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Franklin-Tennessee---United-States-of-America/AI---Data-Analytics-Intern---Summer-2027---Irving--TX-or-Franklin--TN_R00214223) | Franklin, TN +1 | Onsite | 2026-10-12 | Rolling | 🟢 Open | ❔ |
 | [Nissan](generated/companies/nissan.md) | [AI Agent Architect Intern](https://go.vansh.nyc/G5) | Farmington Hills, MI | Onsite | 2026-10-08 | Rolling | 🟢 Open | ❔ |
 | [Nissan](generated/companies/nissan.md) | [AI Autonomous Driving Verification & Validation Intern](https://go.vansh.nyc/bp) | Santa Clara, CA | Onsite | 2026-10-19 | Rolling | 🟢 Open | ❔ |
+| [Nissan](generated/companies/nissan.md) | [AI Intern](https://go.vansh.nyc/VH) | Dallas, TX +1 | Onsite | 2026-10-27 | Rolling | 🟢 Open | ❔ |
+| [Nissan](generated/companies/nissan.md) | [AI Intern](https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Irving-Texas---United-States-of-America/AI-Intern---Summer-2027---Dallas--TX-or-Franklin--TN_R00214219) | Dallas, TX +1 | Onsite | 2026-10-27 | Rolling | 🟢 Open | ❔ |
 | [Nissan](generated/companies/nissan.md) | [Applied AI & Business Innovation Intern](https://go.vansh.nyc/bs) | Franklin, TN | Onsite | 2026-10-19 | Rolling | 🟢 Open | ❔ |
 | [Nissan](generated/companies/nissan.md) | [Financial AI Engineer Intern](https://go.vansh.nyc/GH) | Franklin, TN | Onsite | 2026-10-12 | Rolling | 🟢 Open | ❔ |
 | [Nissan Global](generated/companies/nissan-global.md) | [AI Agent Architect Intern](https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Farmington-Hills-Michigan---United-States-of-America/AI-Agent-Architect---Summer-2027---Farmington-Hills--MI_R00214218) | Farmington Hills, MI | Onsite | 2026-10-08 | Rolling | 🟢 Open | ❔ |
@@ -712,6 +717,7 @@
 - Qualcomm (12)
 - AMD (11)
 - Autodesk (10)
+- Nissan (8)
 - Astreya (7)
 - General Dynamics Information Technology (7)
 - NVIDIA (7)
@@ -720,7 +726,6 @@
 - GE Vernova (6)
 - ICF International (6)
 - Jump Trading (6)
-- Nissan (6)
 - Bank of Montreal (6)
 - ABB (5)
 - Booz Allen (5)
@@ -736,6 +741,7 @@
 - JP Morgan Chase (4)
 - Marvell (4)
 - Meta (4)
+- Micron Technology (4)
 - The Hartford (4)
 - Cloudflare (4)
 - Deloitte (4)
@@ -752,7 +758,6 @@
 - Hitachi (3)
 - Intuit (3)
 - Lazard (3)
-- Micron Technology (3)
 - Navy Federal (3)
 - Nissan Global (3)
 - Robert Bosch Venture Capital (3)
@@ -837,6 +842,7 @@
 - Apple (1)
 - Aptiv (1)
 - Argmax (1)
+- Atoms (1)
 - Baird (1)
 - Bild AI (1)
 - Bombardier (1)
@@ -854,6 +860,7 @@
 - DV Trading (1)
 - Ecolab (1)
 - Elanco (1)
+- EQT Corporation (1)
 - Eragon (1)
 - Ernst & Young (1)
 - Field AI (1)

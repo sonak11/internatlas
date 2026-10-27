@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 📈 Quant Internships
 
-**359** tracked · **211** open now
+**358** tracked · **210** open now
 
 ## Current openings
 
@@ -155,7 +155,6 @@
 | [Marshall Wace](generated/companies/marshall-wace.md) | [Quantitative Research Intern](https://job-boards.greenhouse.io/mwinternshipprogram/jobs/8772688002) | London | Onsite | 2026-09-03 | Rolling | 🟢 Open | ❔ |
 | [Millennium](generated/companies/millennium.md) | [Quantitative Developer Intern](https://go.vansh.nyc/7g) | New York, NY | Onsite | 2026-08-21 | Rolling | 🟢 Open | ❔ |
 | [Neuberger Berman](generated/companies/neuberger-berman.md) | [Quantitative Analyst Intern](https://nb.wd1.myworkdayjobs.com/en-US/NBCareers/job/New-York-NY/Quantitative-2027-Summer-Intern_R0012643) | NYC | Onsite | 2026-09-23 | Rolling | 🟢 Open | ❔ |
-| [Neuberger Berman](generated/companies/neuberger-berman.md) | [Quantitative Analyst Intern](https://go.vansh.nyc/Ji) | New York, NY | Onsite | 2026-09-23 | Rolling | 🟢 Open | ❔ |
 | [OCC](generated/companies/occ.md) | [Quantitative Risk Management Intern](https://theocc.wd5.myworkdayjobs.com/careers/job/Chicago---125-S-Franklin/Summer-Intern---Quantitative-Risk-Management_REQ-4864) | Chicago, IL | Onsite | 2026-09-17 | Rolling | 🟢 Open | ❔ |
 | [OCC](generated/companies/occ.md) | [Quantitative Risk Management Intern](https://theocc.wd5.myworkdayjobs.com/careers/job/Chicago---125-S-Franklin/Summer-Intern---Quantitative-Risk-Management_REQ-4863) | Chicago, IL | Onsite | 2026-09-17 | Rolling | 🟢 Open | ❔ |
 | [OCC](generated/companies/occ.md) | [Quantitative Risk Management Intern](https://theocc.wd5.myworkdayjobs.com/careers/job/Chicago---125-S-Franklin/Summer-Intern---Quantitative-Risk-Management_REQ-4862) | Chicago, IL | Onsite | 2026-09-17 | Rolling | 🟢 Open | ❔ |
@@ -412,7 +411,6 @@
 - Barclays (2)
 - Booz Allen (2)
 - Citadel (2)
-- Neuberger Berman (2)
 - Principal Financial Group (2)
 - Talos (2)
 - TransMarket Group (2)
@@ -447,6 +445,7 @@
 - Lazard (1)
 - Marshall Wace (1)
 - Millennium (1)
+- Neuberger Berman (1)
 - PDT Partners (1)
 - Quantinuum (1)
 - Radix Trading (1)

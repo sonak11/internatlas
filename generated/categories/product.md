@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🧭 Product Internships
 
-**246** tracked · **134** open now
+**246** tracked · **133** open now
 
 ## Current openings
 
@@ -36,7 +36,6 @@
 | [Appian](generated/companies/appian.md) | [Product Manager Intern](https://go.vansh.nyc/4G) | McLean, VA | Onsite | 2026-07-24 | Rolling | 🟢 Open | ❔ |
 | [AspenTech](generated/companies/aspentech.md) | [Product Owner Intern - Product Management](https://aspentech.wd5.myworkdayjobs.com/aspentech/job/Bedford-Massachusetts/Product-Owner-Intern---Product-Management----Summer-2027_R9471) | Houston, TX +1 | Onsite | 2026-09-16 | Rolling | 🟢 Open | ❔ |
 | [Astera Labs](generated/companies/astera-labs.md) | [Platform Solutions Product Management Intern](https://go.vansh.nyc/Fu) | Cary, NC | Onsite | 2026-10-06 | Rolling | 🟢 Open | ❔ |
-| [Behaviour Interactive](generated/companies/behaviour-interactive.md) | [Product Management Intern - 7 Days to Die](https://jobs.lever.co/bhvr/540b00d3-8693-4c2b-9e98-10e33cb0ce62/apply) | Montreal | Onsite | 2026-10-16 | Rolling | 🟢 Open | ❔ |
 | [Blue Origin](generated/companies/blue-origin.md) | [Terawave Product Management Intern - MBA](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Kent-WA/Summer-2027-Terawave-Product-Management-Internship---MBA_R74200) | Kent, WA | Onsite | 2026-10-15 | Rolling | 🟢 Open | ❔ |
 | [BNY](generated/companies/bny.md) | [Product Management Intern](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/83098) | Greater Manchester | Onsite | 2026-10-14 | Rolling | 🟢 Open | ❔ |
 | [BNY](generated/companies/bny.md) | [Product Management Intern](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/82784) | Lake Mary, FL | Onsite | 2026-10-01 | Rolling | 🟢 Open | ❔ |
@@ -56,7 +55,7 @@
 | [Databricks](generated/companies/databricks.md) | [Product Management Intern (2027) - Belgrade](https://databricks.com/company/careers/open-positions/job?gh_jid=8863328002) | Belgrade | Onsite | 2026-10-02 | Rolling | 🟢 Open | ❔ |
 | [Databricks](generated/companies/databricks.md) | [Product Management Intern (2027) - Berlin](https://databricks.com/company/careers/open-positions/job?gh_jid=8145776002) | Berlin | Onsite | 2025-08-29 | Rolling | 🟢 Open | ❔ |
 | [Databricks](generated/companies/databricks.md) | [Product Management Intern (Summer 2027)](https://databricks.com/company/careers/open-positions/job?gh_jid=6883068002) | Bellevue | Onsite | 2023-08-17 | Rolling | 🟢 Open | ❔ |
-| [Datadog](generated/companies/datadog.md) | [Product Management Intern](https://careers.datadoghq.com/detail/8108241/?gh_jid=8108241) | New York +1 | Onsite | 2026-08-17 | Rolling | 🟢 Open | ❔ |
+| [Datadog](generated/companies/datadog.md) | [Product Management Intern](https://careers.datadoghq.com/detail/8108241/?gh_jid=8108241) | NYC | Onsite | 2026-08-17 | Rolling | 🟢 Open | ❔ |
 | [Dick's Sporting Goods](generated/companies/dick-s-sporting-goods.md) | [Product Management Intern - Corporate Internship](https://dickssportinggoods.wd1.myworkdayjobs.com/en-US/DSG/job/Customer-Support-Center/Product-Management---Summer-2027-Corporate-Internship_202608791-1) | Pittsburgh, PA | Onsite | 2026-09-08 | Rolling | 🟢 Open | ❔ |
 | [DTCC](generated/companies/dtcc.md) | [Product Management Intern - 2027 Internship Program](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214410) | Tampa, FL +1 | Onsite | 2026-08-25 | Rolling | 🟢 Open | ❔ |
 | [Duolingo](generated/companies/duolingo.md) | [Product Manager, MBA Intern](https://careers.duolingo.com/jobs/8888045002?gh_jid=8888045002) | Pittsburgh, PA | Onsite | 2026-10-15 | Rolling | 🟢 Open | ❔ |
@@ -156,6 +155,7 @@
 | [Autodesk](generated/companies/autodesk.md) | [Product Management Intern](https://autodesk.wd1.myworkdayjobs.com/uni/job/Montreal-QC-CAN/Product-Management-Intern--Stagiaire-Gestion-de-Produit_26WD101135-1) | Montreal | Onsite | 2026-09-19 | Rolling | 🔴 Closed | ❔ |
 | [Autodesk](generated/companies/autodesk.md) | [Product Management Intern](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Product-Management-Intern--Stagiaire-Gestion-de-Produit_26WD101135-2) | Montreal | Onsite | 2026-09-19 | Rolling | 🔴 Closed | ❔ |
 | [Autodesk](generated/companies/autodesk.md) | [Product Manager Intern - Manufacturing](https://autodesk.wd1.myworkdayjobs.com/uni/job/Toronto-ON-CAN/Intern--Product-Management---Manufacturing_26WD101861-2) | Toronto | Onsite | 2026-10-26 | Rolling | 🔴 Closed | ❔ |
+| [Behaviour Interactive](generated/companies/behaviour-interactive.md) | [Product Management Intern - 7 Days to Die](https://jobs.lever.co/bhvr/540b00d3-8693-4c2b-9e98-10e33cb0ce62/apply) | Montreal | Onsite | 2026-10-16 | Rolling | 🔴 Closed | ❔ |
 | [Blackhawk Network Holdings](generated/companies/blackhawk-network-holdings.md) | [Product Management Intern](https://careers-blackhawknetwork.icims.com/jobs/26869/job?mobile=true&needsRedirect=false) | Pleasanton, CA | Onsite | 2026-08-31 | Rolling | 🔴 Closed | ❔ |
 | [Blackhawk Network Holdings](generated/companies/blackhawk-network-holdings.md) | [Product Management Intern](https://careers-blackhawknetwork.icims.com/jobs/26868/job?mobile=true&needsRedirect=false) | Coppell, TX | Onsite | 2026-08-31 | Rolling | 🔴 Closed | ❔ |
 | [Bosch Home Comfort](generated/companies/bosch-home-comfort.md) | [Product Management Intern](https://jobs.smartrecruiters.com/BoschGroup/744000140457960) | Southfield, MI | Onsite | 2026-07-29 | Rolling | 🔴 Closed | ❔ |
@@ -312,7 +312,6 @@
 - Amplify (1)
 - AspenTech (1)
 - Astera Labs (1)
-- Behaviour Interactive (1)
 - Blue Origin (1)
 - ByteDance (1)
 - Chamberlain Group (1)
@@ -342,6 +341,7 @@
 - Acxiom (1)
 - Altasciences (1)
 - Atlassian (1)
+- Behaviour Interactive (1)
 - Bosch Home Comfort (1)
 - Centerfield (1)
 - Charles Schwab (1)

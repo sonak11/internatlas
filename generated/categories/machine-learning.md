@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🧠 Machine Learning Internships
 
-**369** tracked · **261** open now
+**370** tracked · **261** open now
 
 ## Current openings
 
@@ -26,7 +26,6 @@
 | [Amgen](generated/companies/amgen.md) | [Machine Learning Engineer Intern](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Machine-Learning-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255743) | Remote | Remote | 2026-09-11 | Rolling | 🟢 Open | ❔ |
 | [Amgen](generated/companies/amgen.md) | [Machine Learning Engineer Intern - Technology & Medical Organizations](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Undergrad-Intern---Machine-Learning-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255709) | Remote | Remote | 2026-09-11 | Rolling | 🟢 Open | ❔ |
 | [Analog Devices](generated/companies/analog-devices.md) | [AI/ML Engineer Intern](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/AI-ML-Engineer-Intern_R265579) | Wilmington, MA | Onsite | 2026-08-28 | Rolling | 🟢 Open | ❔ |
-| [Apple](generated/companies/apple.md) | [SoC Machine Learning Software Engineer Intern](https://go.vansh.nyc/aN) | Sunnyvale, CA | Onsite | 2026-10-16 | Rolling | 🟢 Open | ❔ |
 | [AQR Capital Management](generated/companies/aqr-capital-management.md) | [Machine Learning Research Associate Intern](https://careers.aqr.com/jobs?gh_jid=8224708&gh_jid=8224708) | Greenwich, CT | Onsite | 2026-09-23 | Rolling | 🟢 Open | ❔ |
 | [Aramco Americas](generated/companies/aramco-americas.md) | [AI/ML Engineering Intern](https://go.vansh.nyc/Mo) | Houston, TX | Onsite | 2026-09-08 | Rolling | 🟢 Open | ❔ |
 | [Atoms](generated/companies/atoms.md) | [Machine Learning PhD Software Engineer Intern](https://job-boards.greenhouse.io/cssmerge/jobs/8693034002) | Seattle, WA +3 | Onsite | 2026-08-10 | Rolling | 🟢 Open | ❔ |
@@ -268,6 +267,7 @@
 | [Workday](generated/companies/workday.md) | [Machine Learning Engineer Intern](https://go.vansh.nyc/Gs) | Pleasanton, CA | Onsite | 2026-10-09 | Rolling | 🟢 Open | ❔ |
 | [Workday](generated/companies/workday.md) | [Machine Learning Engineer Intern](https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Machine-Learning-Engineer-Intern_JR-0110812) | Pleasanton, CA | Onsite | 2026-10-09 | Rolling | 🟢 Open | ❔ |
 | [Workday](generated/companies/workday.md) | [Machine Learning Engineer Intern](https://go.vansh.nyc/Gr) | Toronto +1 | Onsite | 2026-10-09 | Rolling | 🟢 Open | ❔ |
+| [Workiva](generated/companies/workiva.md) | [Machine Learning Engineering Intern](https://go.vansh.nyc/W7) | USA | Onsite | 2026-10-27 | Rolling | 🟢 Open | ❔ |
 | [X Development](generated/companies/x-development.md) | [PhD Residency Intern - Physical ML & Hardware-in-the-Loop - Future of Compute](https://x.company/careers/8616839002?gh_jid=8616839002) | Mountain View, CA | Onsite | 2026-07-02 | Rolling | 🟢 Open | ❔ |
 | [Adobe](generated/companies/adobe.md) | [AI/ML Intern – Machine Learning Engineer/Researcher Intern](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-AI-ML-Intern---Machine-Learning-Engineer-Intern_R160706) | Seattle, WA +2 | Onsite | 2026-05-16 | Rolling | 🔴 Closed | ❔ |
 | [Amazon](generated/companies/amazon.md) | [Applied Science Intern - Reinforcement Learning & Optimization - Machine Learning](https://amazon.jobs/en/jobs/10394278/2026-fall-applied-science-internship-reinforcement-learning-optimization-machine-learning-united-states-phd-student-science-recruiting) | Palo Alto, CA +7 | Onsite | 2026-04-16 | Rolling | 🔴 Closed | ❔ |
@@ -276,6 +276,7 @@
 | [American Family Insurance Group](generated/companies/american-family-insurance-group.md) | [GenAI/ML Intern](https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/AMFAM---2027-Summer-GenAI-ML-Intern_R39514) | Madison, WI +1 | Onsite | 2026-10-02 | Rolling | 🔴 Closed | ❔ |
 | [American Heart Association](generated/companies/american-heart-association.md) | [Data Science Intern - Machine Learning & AI](https://careers-heart.icims.com/jobs/18243/job?mobile=true&needsRedirect=false) | Dallas, TX | Onsite | 2026-09-21 | Rolling | 🔴 Closed | ❔ |
 | [Amperesand](generated/companies/amperesand.md) | [AI/ML Engineer Intern](https://go.vansh.nyc/hF) | Sunnyvale, CA | Onsite | 2026-10-23 | Rolling | 🔴 Closed | ❔ |
+| [Apple](generated/companies/apple.md) | [SoC Machine Learning Software Engineer Intern](https://go.vansh.nyc/aN) | Sunnyvale, CA | Onsite | 2026-10-16 | Rolling | 🔴 Closed | ❔ |
 | [Apptronik](generated/companies/apptronik.md) | [Software Engineer Intern, ML Systems](https://job-boards.greenhouse.io/apptronik/jobs/6128057004?gh_jid=6128057004) | Austin, TX | Onsite | 2026-07-28 | Rolling | 🔴 Closed | ❔ |
 | [Atlassian](generated/companies/atlassian.md) | [Machine Learning Intern](https://campus-americas.icims.com/jobs/26268/machine-learning-intern%2c-2027-summer-u.s./job) | Seattle, WA +1 | Onsite | 2026-09-21 | Rolling | 🔴 Closed | ❔ |
 | [Atoms](generated/companies/atoms.md) | [Machine Learning Engineer Intern](https://job-boards.greenhouse.io/cssmerge/jobs/8869106002) | SF | Onsite | 2026-10-05 | Rolling | 🔴 Closed | ❔ |
@@ -440,7 +441,6 @@
 - Affirm (1)
 - Allen Control Systems (1)
 - Analog Devices (1)
-- Apple (1)
 - AQR Capital Management (1)
 - Aramco Americas (1)
 - Bose (1)
@@ -478,10 +478,12 @@
 - Tower Research Capital (1)
 - Unity (1)
 - Veeam Software (1)
+- Workiva (1)
 - X Development (1)
 - American Family Insurance Group (1)
 - American Heart Association (1)
 - Amperesand (1)
+- Apple (1)
 - Apptronik (1)
 - Atlassian (1)
 - Axogen (1)

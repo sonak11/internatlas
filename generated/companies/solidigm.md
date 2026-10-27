@@ -11,7 +11,7 @@
 | Solidigm | [Software Development & Firmware Engineering Intern](https://go.vansh.nyc/Mi) | Rancho Cordova, CA +2 | Onsite | 2026-09-05 | Rolling | 🟢 Open | ❔ |
 | Solidigm | [Software Development & Firmware Engineering Intern - Multiple Teams](https://jobs.smartrecruiters.com/Solidigm/744000147613629) | Rancho Cordova, CA +2 | Onsite | 2026-09-05 | Rolling | 🟢 Open | ❔ |
 | Solidigm | [Software Engineering Intern - Firmware & AI Engineering](https://jobs.smartrecruiters.com/Solidigm/744000147613769) | Rancho Cordova, CA | Onsite | 2026-09-05 | Rolling | 🟢 Open | ❔ |
-| Solidigm | [Talent Acquisition Data Engineering & Analytics Intern](https://jobs.smartrecruiters.com/Solidigm/744000148610610) | Rancho Cordova, CA | Onsite | 2026-09-09 | Rolling | 🟢 Open | ❔ |
+| Solidigm | [Talent Acquisition Data Engineering & Analytics Intern](https://jobs.smartrecruiters.com/Solidigm/744000148610610) | Rancho Cordova, CA | Onsite | 2026-09-09 | Rolling | 🔴 Closed | ❔ |
 
 ## Related
 

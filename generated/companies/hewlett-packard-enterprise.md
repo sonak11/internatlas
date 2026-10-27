@@ -14,7 +14,6 @@
 | Hewlett Packard Enterprise | [ASIC Firmware and Diagnostic Intern](https://go.vansh.nyc/M3) | Bloomington, MN +1 | Onsite | 2026-09-03 | Rolling | 🟢 Open | ❔ |
 | Hewlett Packard Enterprise | [ASIC Intern](https://go.vansh.nyc/GQ) | Sunnyvale, CA | Onsite | 2026-10-12 | Rolling | 🟢 Open | ❔ |
 | Hewlett Packard Enterprise | [Cloud Developer Intern](https://go.vansh.nyc/EL) | San Jose, CA | Onsite | 2026-10-05 | Rolling | 🟢 Open | ❔ |
-| Hewlett Packard Enterprise | [Cybersecurity Engineering Intern](https://go.vansh.nyc/hW) | Spring, TX | Onsite | 2026-10-24 | Rolling | 🟢 Open | ❔ |
 | Hewlett Packard Enterprise | [Data Science Intern](https://go.vansh.nyc/OD) | Andover, MA +9 | Onsite | 2026-08-30 | Rolling | 🟢 Open | ❔ |
 | Hewlett Packard Enterprise | [Embedded Software Engineer Intern](https://go.vansh.nyc/dn) | Roseville, CA | Onsite | 2026-10-20 | Rolling | 🟢 Open | ❔ |
 | Hewlett Packard Enterprise | [Firmware Engineer Intern](https://go.vansh.nyc/GU) | Sunnyvale, CA | Onsite | 2026-10-12 | Rolling | 🟢 Open | ❔ |
@@ -31,6 +30,7 @@
 | Hewlett Packard Enterprise | [VLSI Design Verification Intern](https://go.vansh.nyc/Ew) | Chippewa Falls, WI | Onsite | 2026-10-04 | Rolling | 🟢 Open | ❔ |
 | Hewlett Packard Enterprise | [VLSI Logic Design Intern](https://go.vansh.nyc/GT) | Fort Collins, CO | Onsite | 2026-10-12 | Rolling | 🟢 Open | ❔ |
 | Hewlett Packard Enterprise | [VLSI Logic Design Intern](https://go.vansh.nyc/GR) | Chippewa Falls, WI | Onsite | 2026-10-12 | Rolling | 🟢 Open | ❔ |
+| Hewlett Packard Enterprise | [Cybersecurity Engineering Intern](https://go.vansh.nyc/hW) | Spring, TX | Onsite | 2026-10-24 | Rolling | 🔴 Closed | ❔ |
 
 ## Related
 

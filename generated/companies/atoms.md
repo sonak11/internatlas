@@ -6,6 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
+| Atoms | [AI Research Intern](https://go.vansh.nyc/VZ) | Mountain View, CA | Onsite | 2026-10-27 | Rolling | 🟢 Open | ❔ |
 | Atoms | [Electrical Engineer Intern](https://job-boards.greenhouse.io/cssmerge/jobs/8869098002) | SF | Onsite | 2026-10-05 | Rolling | 🟢 Open | ❔ |
 | Atoms | [Electrical Engineer Intern](https://job-boards.greenhouse.io/atoms/jobs/8869094002) | SF | Onsite | 2026-10-06 | Rolling | 🟢 Open | ❔ |
 | Atoms | [Machine Learning PhD Software Engineer Intern](https://job-boards.greenhouse.io/cssmerge/jobs/8693034002) | Seattle, WA +3 | Onsite | 2026-08-10 | Rolling | 🟢 Open | ❔ |
@@ -22,4 +23,4 @@
 
 ## Related
 
-Browse more roles in: [🧠 Machine Learning](../categories/machine-learning.md), [💻 Software Engineering](../categories/software-engineering.md)
+Browse more roles in: [🤖 AI](../categories/ai.md), [🧠 Machine Learning](../categories/machine-learning.md), [💻 Software Engineering](../categories/software-engineering.md)

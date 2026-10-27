@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # ⚙️ Embedded Internships
 
-**226** tracked · **150** open now
+**228** tracked · **152** open now
 
 ## Current openings
 
@@ -52,6 +52,7 @@
 | [Figure](generated/companies/figure.md) | [Firmware Engineer Intern](https://job-boards.greenhouse.io/figureai/jobs/4601309006) | San Jose, CA | Onsite | 2026-10-07 | Rolling | 🟢 Open | ❔ |
 | [Gecko Robotics](generated/companies/gecko-robotics.md) | [Embedded Software Engineer Intern - RoboSPLAT - Field Infra](https://jobs.ashbyhq.com/gecko-robotics/24561868-f075-4edf-a991-59ff0174e92a/application?embed=true) | Pittsburgh, PA | Onsite | 2026-09-15 | Rolling | 🟢 Open | ❔ |
 | [Gecko Robotics](generated/companies/gecko-robotics.md) | [Embedded Software Engineer Intern, RoboSPLAT Field Infra](https://go.vansh.nyc/It) | Pittsburgh, PA | Onsite | 2026-09-15 | Rolling | 🟢 Open | ❔ |
+| [General Dynamics Mission Systems, Inc.](generated/companies/general-dynamics-mission-systems-inc.md) | [Software Test Engineering Intern, Space and Embedded Crypto](https://go.vansh.nyc/W0) | Scottsdale, AZ | Onsite | 2026-10-26 | Rolling | 🟢 Open | ❌ |
 | [General Matter](generated/companies/general-matter.md) | [Embedded Software Engineer Intern](https://job-boards.greenhouse.io/generalmatter/jobs/5377131008) | LA | Onsite | 2026-09-03 | Rolling | 🟢 Open | ❔ |
 | [General Motors](generated/companies/general-motors.md) | [Embedded and Systems Engineering Intern - Digital Product](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Digital-Product--Embedded-and-Systems-Engineering_JR-202620513) | Austin, TX +3 | Onsite | 2026-09-21 | Rolling | 🟢 Open | ❔ |
 | [General Motors](generated/companies/general-motors.md) | [Embedded and Systems Engineering Intern, Digital Product](https://go.vansh.nyc/IS) | Austin, TX +3 | Onsite | 2026-09-21 | Rolling | 🟢 Open | ❔ |
@@ -101,7 +102,6 @@
 | [Qualcomm](generated/companies/qualcomm.md) | [Firmware/Embedded Software Engineering Intern](https://go.vansh.nyc/Ry) | Toronto | Onsite | 2026-10-18 | Rolling | 🟢 Open | ❔ |
 | [Qualcomm](generated/companies/qualcomm.md) | [PAL Firmware Development Intern](https://go.vansh.nyc/RA) | Markham | Onsite | 2026-10-18 | Rolling | 🟢 Open | ❔ |
 | [Quantum Signal AI](generated/companies/quantum-signal-ai.md) | [Embedded and Real-Time Software Intern](https://quantumsignalai.applytojob.com/apply/23a7Z79zfn/Embedded-And-RealTime-Software-Intern) | Saline, MI | Onsite | 2026-09-30 | Rolling | 🟢 Open | ❔ |
-| [Quantum Signal AI](generated/companies/quantum-signal-ai.md) | [Embedded and Real-Time Software Intern](https://go.vansh.nyc/E6) | Saline, MI | Onsite | 2026-09-30 | Rolling | 🟢 Open | ❔ |
 | [Revel](generated/companies/revel.md) | [Embedded Software Engineer Intern](https://jobs.ashbyhq.com/revel/f8eec1fd-da28-47ce-bca4-2fbe9c48a889/application?embed=true) | SF +1 | Onsite | 2026-09-08 | Rolling | 🟢 Open | ❔ |
 | [Rivian](generated/companies/rivian.md) | [Controls, Automation & Embedded Software Intern](https://go.vansh.nyc/Hh) | Palo Alto, CA | Onsite | 2026-10-09 | Rolling | 🟢 Open | ❌ |
 | [Rivian](generated/companies/rivian.md) | [Software Engineer Intern Co-op - Embedded Software](https://careers.rivian.com/jobs/33832?icims=1) | Palo Alto, CA | Onsite | 2026-10-05 | Rolling | 🟢 Open | ❔ |
@@ -111,6 +111,8 @@
 | [Rivian and Volkswagen Group Technologies](generated/companies/rivian-and-volkswagen-group-technologies.md) | [Software Engineering Intern, Embedded Platforms](https://go.vansh.nyc/fF) | Palo Alto, CA +2 | Onsite | 2026-10-22 | Rolling | 🟢 Open | ❔ |
 | [Rockwell Automation](generated/companies/rockwell-automation.md) | [Firmware Engineer Intern](https://go.vansh.nyc/gA) | Mequon, WI +1 | Onsite | 2026-10-22 | Rolling | 🟢 Open | ❔ |
 | [RTX](generated/companies/rtx.md) | [Embedded Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Summer-2027-Embedded-Software-Engineering-Intern--Onsite-_01878014) | East Hartford, CT | Onsite | 2026-09-30 | Rolling | 🟢 Open | ❔ |
+| [RTX](generated/companies/rtx.md) | [Embedded Software Engineer Intern](https://go.vansh.nyc/VI) | Goleta, CA | Onsite | 2026-10-27 | Rolling | 🟢 Open | ❔ |
+| [RTX](generated/companies/rtx.md) | [Embedded Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-GOLETA-H01--6380-Hollister-Ave--BLDG-H01/Embedded-Software-Engineering-Intern--Summer-2027-_01884782) | Goleta, CA | Onsite | 2026-10-27 | Rolling | 🟢 Open | ❔ |
 | [RTX](generated/companies/rtx.md) | [Embedded Software Engineering Intern](https://go.vansh.nyc/BP) | East Hartford, CT | Onsite | 2026-10-26 | Rolling | 🟢 Open | ❌ |
 | [Seagate Technology](generated/companies/seagate-technology.md) | [Embedded Software Engineer Intern](https://go.vansh.nyc/Ss) | Longmont, CO | Onsite | 2026-10-18 | Rolling | 🟢 Open | ❔ |
 | [Semtech](generated/companies/semtech.md) | [Firmware Intern](https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Ottawa-ON/Firmware-Design-Intern_REQ3617) | Ottawa | Onsite | 2026-09-24 | Rolling | 🟢 Open | ❔ |
@@ -247,6 +249,7 @@
 - Zipline (6)
 - Astera Labs (4)
 - Ciena (4)
+- RTX (4)
 - Skydio (4)
 - Zurn Elkay Water Solutions (4)
 - AeroVironment (3)
@@ -266,12 +269,11 @@
 - EquipmentShare (2)
 - Fab2 (2)
 - Gecko Robotics (2)
+- General Dynamics Mission Systems, Inc. (2)
 - General Motors (2)
 - Inversion Space (2)
 - Johns Hopkins Applied Physics Laboratory (2)
 - Lunar Outpost (2)
-- Quantum Signal AI (2)
-- RTX (2)
 - Semtech (2)
 - Solidigm (2)
 - Stanley Black & Decker (2)
@@ -298,6 +300,7 @@
 - Motorola (1)
 - Odys Aviation (1)
 - Qorvo (1)
+- Quantum Signal AI (1)
 - Revel (1)
 - Seagate Technology (1)
 - SK Hynix Memory Solution (1)
@@ -318,7 +321,6 @@
 - E-Space (1)
 - Formlabs (1)
 - Generac (1)
-- General Dynamics Mission Systems, Inc. (1)
 - Inogen (1)
 - Lexington Medical (1)
 - Microchip Technology (1)

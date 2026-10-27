@@ -7,14 +7,14 @@
   },
   "role": "Embedded Software Engineer Intern",
   "category": "embedded",
-  "apply_url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Summer-2027-Embedded-Software-Engineering-Intern--Onsite-_01878014",
+  "apply_url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-GOLETA-H01--6380-Hollister-Ave--BLDG-H01/Embedded-Software-Engineering-Intern--Summer-2027-_01884782",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "East Hartford",
-      "state": "CT",
+      "city": "Goleta",
+      "state": "CA",
       "country": "USA"
     }
   ],
@@ -25,7 +25,10 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "masters",
+      "phd"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -40,7 +43,7 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-30",
+    "posted": "2026-10-27",
     "discovered": "2026-10-01",
     "last_verified": "2026-10-27"
   },

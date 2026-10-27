@@ -10,7 +10,7 @@
 |---|---|---|---|---|---|---|---|
 | Datadog | [Applied Science Intern](https://careers.datadoghq.com/detail/8181440/?gh_jid=8181440) | Paris | Onsite | 2026-09-08 | Rolling | 🟢 Open | ❔ |
 | Datadog | [IT Support Technician Intern](https://careers.datadoghq.com/detail/8129799/?gh_jid=8129799) | Paris | Onsite | 2026-09-08 | Rolling | 🟢 Open | ❔ |
-| Datadog | [Product Management Intern](https://careers.datadoghq.com/detail/8108241/?gh_jid=8108241) | New York +1 | Onsite | 2026-08-17 | Rolling | 🟢 Open | ❔ |
+| Datadog | [Product Management Intern](https://careers.datadoghq.com/detail/8108241/?gh_jid=8108241) | NYC | Onsite | 2026-08-17 | Rolling | 🟢 Open | ❔ |
 | Datadog | [Research Science Intern (PhD)](https://careers.datadoghq.com/detail/8203657/?gh_jid=8203657) | New York | Onsite | 2026-09-15 | Rolling | 🟢 Open | ❔ |
 | Datadog | [Software Engineer Intern](https://go.vansh.nyc/Mm) | Boston, MA +1 | Onsite | 2026-09-08 | Rolling | 🟢 Open | ❔ |
 | Datadog | [Software Engineer Intern - Summer](https://careers.datadoghq.com/detail/8052118/?gh_jid=8052118) | Boston, MA +2 | Onsite | 2026-09-08 | Rolling | 🟢 Open | ❔ |

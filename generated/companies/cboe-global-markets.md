@@ -7,6 +7,7 @@
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
 | Cboe Global Markets | [Data Pipeline Engineer Intern](https://go.vansh.nyc/94) | Kansas City, MO | Onsite | 2026-10-14 | Rolling | 🟢 Open | ❔ |
+| Cboe Global Markets | [Linux Engineer Intern](https://go.vansh.nyc/W4) | Chicago, IL +2 | Onsite | 2026-10-27 | Rolling | 🟢 Open | ❔ |
 | Cboe Global Markets | [Software Engineer Intern, C++](https://go.vansh.nyc/88) | Kansas City, MO | Onsite | 2026-10-12 | Rolling | 🟢 Open | ❔ |
 
 ## Related

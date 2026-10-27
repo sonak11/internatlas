@@ -1,19 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "neuberger-berman-quantitative-analyst-intern-2027-fccb99",
+  "id": "micron-technology-product-yield-software-engineer-intern-2027",
   "company": {
-    "name": "Neuberger Berman",
-    "slug": "neuberger-berman"
+    "name": "Micron Technology",
+    "slug": "micron-technology"
   },
-  "role": "Quantitative Analyst Intern",
-  "category": "quant",
-  "apply_url": "https://nb.wd1.myworkdayjobs.com/en-US/NBCareers/job/New-York-NY/Quantitative-2027-Summer-Intern_R0012643",
+  "role": "Product Yield Software Engineer Intern",
+  "category": "software-engineering",
+  "apply_url": "https://go.vansh.nyc/VP",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "NYC",
+      "city": "Boise",
+      "state": "ID",
       "country": "USA"
     }
   ],
@@ -24,9 +25,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -41,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-23",
-    "discovered": "2026-10-26",
+    "posted": "2026-10-27",
+    "discovered": "2026-10-27",
     "last_verified": "2026-10-27"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }

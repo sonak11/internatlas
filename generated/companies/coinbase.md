@@ -8,7 +8,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
-| Coinbase | [Accelerations Programs Intern](https://www.coinbase.com/careers/positions/8175363?gh_jid=8175363) | Hybrid | Onsite | 2026-09-08 | Rolling | 🟢 Open | ❔ |
+| Coinbase | [Acceleration Programs Intern](https://www.coinbase.com/careers/positions/8175363?gh_jid=8175363) | Hybrid | Onsite | 2026-09-08 | Rolling | 🟢 Open | ❔ |
 | Coinbase | [Accounting Intern](https://www.coinbase.com/careers/positions/8173991?gh_jid=8173991) | Hybrid | Onsite | 2026-09-08 | Rolling | 🟢 Open | ❔ |
 | Coinbase | [Analytics Engineer Intern](https://www.coinbase.com/careers/positions/8175471?gh_jid=8175471) | Hybrid | Onsite | 2026-09-08 | Rolling | 🟢 Open | ❔ |
 | Coinbase | [Analytics Engineer Intern](https://go.vansh.nyc/Mt) | San Francisco, CA | Onsite | 2026-09-09 | Rolling | 🟢 Open | ❔ |

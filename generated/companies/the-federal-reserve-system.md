@@ -14,6 +14,7 @@
 | The Federal Reserve System | [Innovation Intern](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---Innovation-Intern_R-0000033884) | Atlanta, GA | Onsite | 2026-10-26 | Rolling | 🟢 Open | ❔ |
 | The Federal Reserve System | [Innovation Intern](https://go.vansh.nyc/Qt) | Atlanta, GA | Onsite | 2026-10-26 | Rolling | 🟢 Open | ❌ |
 | The Federal Reserve System | [Policy & Analysis Intern](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Dallas-TX/XMLNAME-2027-Intern---Policy---Analysis_R-0000033766) | Dallas, TX | Onsite | 2026-10-20 | Rolling | 🟢 Open | ❔ |
+| The Federal Reserve System | [REIN Data Intern](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---REIN-Data-Intern_R-0000033089) | Atlanta, GA | Onsite | 2026-10-27 | Rolling | 🟢 Open | ❔ |
 | The Federal Reserve System | [Statistics and Analysis Intern](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Cleveland-OH/SCS---Statistics-and-Analysis-Intern---2027_R-0000033645) | Cleveland, OH | Onsite | 2026-10-01 | Rolling | 🟢 Open | ❔ |
 | The Federal Reserve System | [Technology Risk Intern](https://go.vansh.nyc/cR) | Dallas, TX | Onsite | 2026-10-20 | Rolling | 🟢 Open | ❔ |
 | The Federal Reserve System | [Analyst Intern - Summer 2027](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Kansas-City-MO/Internship--Analyst---Summer-2027_R-0000033129-1) | Kansas City, MO | Onsite | 2026-09-01 | Rolling | 🔴 Closed | ❔ |

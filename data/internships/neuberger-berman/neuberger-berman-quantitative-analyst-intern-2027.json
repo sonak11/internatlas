@@ -7,14 +7,13 @@
   },
   "role": "Quantitative Analyst Intern",
   "category": "quant",
-  "apply_url": "https://go.vansh.nyc/Ji",
+  "apply_url": "https://nb.wd1.myworkdayjobs.com/en-US/NBCareers/job/New-York-NY/Quantitative-2027-Summer-Intern_R0012643",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "New York",
-      "state": "NY",
+      "city": "NYC",
       "country": "USA"
     }
   ],
@@ -49,6 +48,6 @@
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:vanshb03"
+    "src:simplify"
   ]
 }

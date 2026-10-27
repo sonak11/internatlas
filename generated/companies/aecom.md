@@ -6,7 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
-| AECOM | [Engineering/Data Analytics Intern](https://jobs.smartrecruiters.com/AECOM2/744000155565444) | Atlanta, GA | Onsite | 2026-10-14 | Rolling | 🟢 Open | ❔ |
+| AECOM | [Engineering/Data Analytics Intern](https://jobs.smartrecruiters.com/AECOM2/744000155565444) | Atlanta, GA | Onsite | 2026-10-14 | Rolling | 🔴 Closed | ❔ |
 
 ## Related
 

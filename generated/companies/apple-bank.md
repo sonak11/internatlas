@@ -6,8 +6,9 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
+| Apple Bank | [Information Security Intern](https://go.vansh.nyc/VV) | New York, NY | Onsite | 2026-10-27 | Rolling | 🟢 Open | ❌ |
 | Apple Bank | [IT Data Intern - Analytics, & Automation](https://applebank.wd5.myworkdayjobs.com/applebankcareers/job/New-York-NY/XMLNAME-2027-Summer-Intern--IT-Data--Analytics----Automation_2026-1414) | NYC | Onsite | 2026-10-07 | Rolling | 🟢 Open | ❔ |
 
 ## Related
 
-Browse more roles in: [💻 Software Engineering](../categories/software-engineering.md)
+Browse more roles in: [🔐 Security](../categories/security.md), [💻 Software Engineering](../categories/software-engineering.md)

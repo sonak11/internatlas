@@ -6,13 +6,16 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
+| Micron Technology | [AI Engineer Intern, Platform](https://go.vansh.nyc/VX) | Boise, ID | Onsite | 2026-10-27 | Rolling | 🟢 Open | ❔ |
 | Micron Technology | [Design Engineer Intern, HBM](https://go.vansh.nyc/bq) | Richardson, TX | Onsite | 2026-10-19 | Rolling | 🟢 Open | ❔ |
 | Micron Technology | [Design Engineer Intern, Pathfinding](https://go.vansh.nyc/d7) | San Jose, CA +1 | Onsite | 2026-10-20 | Rolling | 🟢 Open | ❔ |
 | Micron Technology | [DRAM Architecture Intern](https://go.vansh.nyc/Ef) | San Jose, CA +1 | Onsite | 2026-10-01 | Rolling | 🟢 Open | ❔ |
+| Micron Technology | [HBM Data Scientist Intern](https://go.vansh.nyc/VY) | Richardson, TX | Onsite | 2026-10-27 | Rolling | 🟢 Open | ❔ |
 | Micron Technology | [HBM Design Engineer Intern - HBM](https://go.vansh.nyc/bW) | Richardson, TX | Onsite | 2026-10-19 | Rolling | 🟢 Open | ❔ |
 | Micron Technology | [HBM Memory Design Engineer Intern](https://go.vansh.nyc/Ev) | Richardson, TX | Onsite | 2026-10-04 | Rolling | 🟢 Open | ❔ |
 | Micron Technology | [Machine Learning Engineering Intern](https://go.vansh.nyc/d6) | Richardson, TX | Onsite | 2026-10-20 | Rolling | 🟢 Open | ❔ |
 | Micron Technology | [Next-Generation HBM Architecture Intern](https://go.vansh.nyc/EH) | Folsom, CA | Onsite | 2026-10-05 | Rolling | 🟢 Open | ❔ |
+| Micron Technology | [Product Yield Software Engineer Intern](https://go.vansh.nyc/VP) | Boise, ID | Onsite | 2026-10-27 | Rolling | 🟢 Open | ❔ |
 | Micron Technology | [SMAI Probe AI Engineer Intern](https://go.vansh.nyc/cE) | Boise, ID | Onsite | 2026-10-20 | Rolling | 🟢 Open | ❔ |
 | Micron Technology | [Advanced Spectroscopy and Nanoscale Materials Characterization Intern](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/XMLNAME-2027-Summer-Intern--Advanced-Spectroscopy-and-Nanoscale-Materials-Characterization_JR109071) | Boise, ID | Onsite | 2026-08-24 | Rolling | 🔴 Closed | ❔ |
 | Micron Technology | [AI Systems and Infrastructure Engineering Intern](https://micron.wd1.myworkdayjobs.com/External/job/Austin-TX/Intern---AI-Systems-and-Infrastructure-Engineering_JR109990) | Austin, TX | Onsite | 2026-08-31 | Rolling | 🔴 Closed | ❔ |
@@ -37,4 +40,4 @@
 
 ## Related
 
-Browse more roles in: [🤖 AI](../categories/ai.md), [🎨 Design](../categories/design.md), [⚙️ Embedded](../categories/embedded.md), [🧠 Machine Learning](../categories/machine-learning.md), [🔬 Research](../categories/research.md), [💻 Software Engineering](../categories/software-engineering.md)
+Browse more roles in: [🤖 AI](../categories/ai.md), [📊 Data Science](../categories/data-science.md), [🎨 Design](../categories/design.md), [⚙️ Embedded](../categories/embedded.md), [🧠 Machine Learning](../categories/machine-learning.md), [🔬 Research](../categories/research.md), [💻 Software Engineering](../categories/software-engineering.md)
