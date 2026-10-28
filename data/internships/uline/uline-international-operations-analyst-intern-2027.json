@@ -7,33 +7,13 @@
   },
   "role": "International Operations Analyst Intern",
   "category": "software-engineering",
-  "apply_url": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/International-Operations-Analyst-Internship---Summer-2027_R265918",
+  "apply_url": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/International-Operations-Analyst-Internship---Summer-2027_R268694",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Waukegan",
-      "state": "IL",
-      "country": "USA"
-    },
-    {
-      "city": "Milwaukee",
-      "state": "WI",
-      "country": "USA"
-    },
-    {
-      "city": "Glenview",
-      "state": "IL",
-      "country": "USA"
-    },
-    {
       "city": "Pleasant Prairie",
-      "state": "WI",
-      "country": "USA"
-    },
-    {
-      "city": "Kenosha",
       "state": "WI",
       "country": "USA"
     }
@@ -60,11 +40,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-03",
+    "posted": "2026-10-28",
     "discovered": "2026-09-03",
     "last_verified": "2026-10-28"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

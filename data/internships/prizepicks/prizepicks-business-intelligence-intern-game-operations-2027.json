@@ -1,19 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "nasdaq-intelligent-automation-intern-2027-73bbed",
+  "id": "prizepicks-business-intelligence-intern-game-operations-2027",
   "company": {
-    "name": "Nasdaq",
-    "slug": "nasdaq"
+    "name": "PrizePicks",
+    "slug": "prizepicks"
   },
-  "role": "Intelligent Automation Intern",
+  "role": "Business Intelligence Intern - Game Operations",
   "category": "software-engineering",
-  "apply_url": "https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/USA---New-York-City---New-York/Intelligent-Automation-Intern---2027-Summer-Internship_R0027113",
+  "apply_url": "http://prizepicks.com/position?gh_jid=8047188003",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "NYC",
+      "city": "Atlanta",
+      "state": "GA",
       "country": "USA"
     }
   ],
@@ -39,8 +40,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-10-14",
-    "discovered": "2026-10-17",
+    "posted": "2026-10-28",
+    "discovered": "2026-10-28",
     "last_verified": "2026-10-28"
   },
   "status": "open",

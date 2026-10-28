@@ -7,14 +7,13 @@
   },
   "role": "Intelligent Automation Intern",
   "category": "software-engineering",
-  "apply_url": "https://go.vansh.nyc/9h",
+  "apply_url": "https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/USA---New-York-City---New-York/Intelligent-Automation-Intern---2027-Summer-Internship_R0027113",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "New York",
-      "state": "NY",
+      "city": "NYC",
       "country": "USA"
     }
   ],
@@ -47,6 +46,6 @@
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:vanshb03"
+    "src:simplify"
   ]
 }

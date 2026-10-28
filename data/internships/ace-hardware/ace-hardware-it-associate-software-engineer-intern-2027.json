@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "virtu-financial-frontend-user-experience-intern-2027",
+  "id": "ace-hardware-it-associate-software-engineer-intern-2027",
   "company": {
-    "name": "Virtu Financial",
-    "slug": "virtu-financial"
+    "name": "Ace Hardware",
+    "slug": "ace-hardware"
   },
-  "role": "Frontend & User Experience Intern",
+  "role": "IT Associate Software Engineer Intern",
   "category": "software-engineering",
-  "apply_url": "https://job-boards.greenhouse.io/virtu/jobs/8657500002",
+  "apply_url": "https://acehardware.wd1.myworkdayjobs.com/External/job/IL---Oak-Brook/IT-Associate-Software-Engineer-2027-Summer-Internship--Full-Time-Paid-12-weeks-_REQ-34797",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "New York",
-      "state": "NY",
+      "city": "Oak Brook",
+      "state": "IL",
       "country": "USA"
     }
   ],
@@ -40,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-30",
-    "discovered": "2026-09-09",
-    "last_verified": "2026-10-17"
+    "posted": "2026-10-28",
+    "discovered": "2026-10-28",
+    "last_verified": "2026-10-28"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
-    "src:vanshb03"
+    "src:simplify"
   ]
 }
